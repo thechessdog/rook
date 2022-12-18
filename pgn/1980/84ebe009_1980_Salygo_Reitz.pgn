@@ -1,0 +1,19 @@
+[Event "corr EU"]
+[Site "corr EU"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Salygo"]
+[Black "Reitz"]
+[Result "1/2-1/2"]
+[ECO "B77"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, 9...Bd7"]
+[HashCode "84ebe009"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. Bc4 O-O
+8. f3 Nc6 9. Qd2 Bd7 10. h4 Ne5 11. Bb3 Qa5 12. h5 Nxh5 13. O-O-O Rfc8 14.
+Bh6 Nd3+ 15. Qxd3 Bxh6+ 16. Kb1 Rxc3 17. Qxc3 Qxc3 18. bxc3 Bf4 19. Ne2 Be5
+20. f4 Bg7 21. f5 Rc8 22. g4 Nf6 23. e5 Ne4 24. exd6 exd6 25. Rhf1 g5 26.
+Bd5 Nxc3+ 27. Nxc3 Bxc3 28. Rf3 Rc5 29. Re3 Be5 30. Rh3 a5 31. Rb3 1/2-1/2
+

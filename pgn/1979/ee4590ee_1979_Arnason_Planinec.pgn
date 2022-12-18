@@ -1,0 +1,19 @@
+[Event "Rubinstein mem"]
+[Site "Polanica Zdroj"]
+[Date "1979.??.??"]
+[Round "9"]
+[White "Arnason, Jon L"]
+[Black "Planinec, Albin"]
+[Result "1-0"]
+[ECO "C78"]
+[Opening "Ruy Lopez"]
+[Variation "Archangelsk (counterthrust) variation"]
+[HashCode "ee4590ee"]
+[Epoch "Rook"]
+[WhiteID "2300036"]
+[WhiteCountry "ISL"]
+[BlackCountry "SVN"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Bb7 7. Nc3 Be7 8. d3
+O-O 9. Bd2 d6 10. Nd5 Nb8 11. Nxe7+ Qxe7 12. Nh4 d5 13. exd5 Nxd5 14. Nf5 Qd7
+15. Qh5 Re8 16. Rae1 Nc6 17. Qg4 1-0

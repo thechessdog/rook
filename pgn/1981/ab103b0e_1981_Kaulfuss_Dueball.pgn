@@ -1,0 +1,24 @@
+[Event "Bundesliga 8081"]
+[Site "Duitsland tt"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Kaulfuss, Helmut"]
+[Black "Dueball, Juergen"]
+[Result "0-1"]
+[ECO "B25"]
+[Opening "Sicilian"]
+[Variation "closed, 6.f4 e5 (Botvinnik)"]
+[HashCode "ab103b0e"]
+[Epoch "Rook"]
+[WhiteID "4606213"]
+[WhiteCountry "GER"]
+[BlackID "4600185"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. f4 e5 7. Nf3 Nge7 8. O-O
+O-O 9. Be3 exf4 10. Bxf4 h6 11. Qd2 Kh7 12. Rae1 Be6 13. Kh1 Qd7 14. Be3 Nd4
+15. Ne2 Nxf3 16. Bxf3 Nc6 17. d4 cxd4 18. Nxd4 Ne5 19. b3 Nxf3 20. Rxf3 Bg4 21.
+Rf2 Rae8 22. Qd3 d5 23. e5 Rxe5 24. Bd2 Rxe1+ 25. Bxe1 Re8 26. Bd2 Re4 27. c3
+Bh3 28. Kg1 Qe7 29. Nc2 Qe6 30. Be3 f5 31. Bd2 a5 32. Be3 Qc6 33. Nd4 Bxd4 34.
+cxd4 Qe6 35. Bd2 Re1+ 36. Bxe1 Qxe1+ 37. Rf1 Bxf1 38. Qxf1 Qxf1+ 39. Kxf1 g5
+40. Kf2 Kg6 41. h3 g4 42. h4 f4 43. gxf4 Kf5 0-1

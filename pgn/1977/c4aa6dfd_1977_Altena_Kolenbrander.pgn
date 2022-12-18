@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Altena, K."]
+[Black "Kolenbrander, Jaap"]
+[Result "0-1"]
+[ECO "B71"]
+[Opening "Sicilian"]
+[Variation "dragon, Levenfish variation"]
+[HashCode "c4aa6dfd"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. f4 Nc6 7. Nxc6 bxc6
+8. e5 Nd7 9. exd6 exd6 10. Be3 Be7 11. Qd2 O-O 12. O-O-O d5 13. Na4 Rb8 14.
+Qc3 Qc7 15. Rxd5 Bb4 16. Qc4 Ba6 17. Qxa6 cxd5 18. Bd3 d4 0-1
+

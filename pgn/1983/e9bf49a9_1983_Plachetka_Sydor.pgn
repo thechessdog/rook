@@ -1,0 +1,20 @@
+[Event "Warsaw"]
+[Site "Warsaw"]
+[Date "1983.01.01"]
+[Round "3"]
+[White "Plachetka, Jan"]
+[Black "Sydor, Andrzej"]
+[Result "1/2-1/2"]
+[ECO "E48"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 O-O, 5.Bd3 d5"]
+[HashCode "e9bf49a9"]
+[Epoch "Rook"]
+[WhiteID "14900068"]
+[WhiteCountry "SVK"]
+[BlackID "1100475"]
+[BlackCountry "POL"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 Nc6 7. O-O a6 8. Qe2
+dxc4 9. Bxc4 Bd6 10. Rd1 Qe8 11. e4 e5 12. Bg5 Ng4 13. h3 exd4 14. Nd5 h6 15.
+Bh4 Nge5 16. Bb3 Be6 17. Nxd4 Bxd5 18. Bxd5 Nxd4 19. Rxd4 Ng6 1/2-1/2

@@ -1,0 +1,19 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Hunger"]
+[Black "Woitylak"]
+[Result "0-1"]
+[ECO "E41"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5"]
+[HashCode "30239cbb"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 Nc6 6. Nf3 d6 7. Qd2 Ba5 8.
+O-O Nb4 9. Qe2 Nxd3 10. Qxd3 O-O 11. Rd1 Qe7 12. d5 Bxc3 13. bxc3 exd5 14.
+cxd5 Bg4 15. c4 Ne4 16. Bb2 f5 17. h3 Bxf3 18. gxf3 Qg5+ 19. Kf1 Qh4 20.
+Qc2 Qxh3+ 21. Ke2 Ng5 22. Rg1 Qxf3+ 23. Ke1 h6 24. Qc3 Rf7 25. Rg3 Qh5 26.
+Kf1 Kf8 0-1
+

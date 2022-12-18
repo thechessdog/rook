@@ -1,0 +1,23 @@
+[Event "Hoogovens-B"]
+[Site "Wijk aan Zee II"]
+[Date "1977.01.01"]
+[Round "6"]
+[White "Van der Sterren, Paul"]
+[Black "Eslon, Jaan"]
+[Result "1-0"]
+[ECO "C75"]
+[Opening "Ruy Lopez"]
+[Variation "modern Steinitz defence, Rubinstein variation"]
+[HashCode "365f6949"]
+[Epoch "Rook"]
+[WhiteID "1000071"]
+[WhiteCountry "NED"]
+[BlackCountry "SWE"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. c3 Bd7 6. d4 Nge7 7. O-O Ng6 8. Re1
+Be7 9. Nbd2 O-O 10. h3 Bf6 11. Nf1 Re8 12. Ng3 Nh4 13. d5 Nxf3+ 14. Qxf3 Nb8
+15. Bxd7 Nxd7 16. Nh5 Be7 17. g4 Bg5 18. b4 Bxc1 19. Rexc1 g6 20. Ng3 Qg5 21.
+Kg2 a5 22. a3 b6 23. Qe3 h6 24. Nf1 Kg7 25. Qxg5 hxg5 26. Ne3 Ra7 27. Rc2 Rea8
+28. a4 Kf8 29. Rca2 Ke7 30. Nc4 f5 31. gxf5 gxf5 32. exf5 Nf6 33. Ne3 Ne4 34.
+Rc2 Kd7 35. Kf3 Nf6 36. Rg1 axb4 37. cxb4 Rxa4 38. Rxg5 Ra3 39. Rg7+ Ke8 40.
+Rcxc7 Nxd5 41. Rg8# 1-0

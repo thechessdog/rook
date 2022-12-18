@@ -1,0 +1,17 @@
+[Event "Bundesliga 8081"]
+[Site "Germany"]
+[Date "1981.??.??"]
+[Round "?"]
+[White "Stoll, Joachim"]
+[Black "Zeisner, U."]
+[Result "1/2-1/2"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...g6"]
+[HashCode "43fdef25"]
+[Epoch "Rook"]
+
+1. c4 c6 2. e4 d5 3. exd5 cxd5 4. d4 Nf6 5. Nc3 g6 6. cxd5 Nxd5 7. Nf3 Bg7
+8. Bb5+ Bd7 9. Qb3 Nxc3 10. bxc3 Bxb5 11. Qxb5+ Qd7 12. Rb1 Qxb5 13. Rxb5
+b6 14. Ba3 Nc6 15. O-O Na5 16. Re1 Bf6 17. Nd2 e6 18. Bb4 1/2-1/2
+

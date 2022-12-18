@@ -1,0 +1,17 @@
+[Event "Dayton,OH"]
+[Site "Dayton,OH"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Ferens, Dan"]
+[Black "Wall, Bill"]
+[Result "0-1"]
+[ECO "A08"]
+[Opening "Reti"]
+[Variation "King's Indian attack"]
+[HashCode "ca4fbf98"]
+[Epoch "Rook"]
+[BlackCountry "USA"]
+
+1. Nf3 c5 2. g3 d5 3. Bg2 e6 4. O-O Nf6 5. d3 Nc6 6. Bg5 h6 7. Bxf6 Qxf6 8. c3
+Bd6 9. Nbd2 O-O 10. e4 Rd8 11. exd5 exd5 12. Re1 Bg4 13. Nf1 Ne5 14. N1d2 Nxd3
+15. Nb3 Nxe1 0-1

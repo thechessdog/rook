@@ -1,0 +1,17 @@
+[Event "corr Volmac"]
+[Site "corr Volmac"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Berta, M."]
+[Black "Boyd, F."]
+[Result "1/2-1/2"]
+[ECO "E07"]
+[Opening "Catalan"]
+[Variation "closed, 6...Nbd7"]
+[HashCode "90456d51"]
+[Epoch "Rook"]
+
+1. Nf3 Nf6 2. g3 d5 3. Bg2 Nbd7 4. d4 e6 5. O-O Be7 6. c4 O-O 7. cxd5 exd5
+8. Nc3 c6 9. Qc2 Re8 10. b3 Bf8 11. Bb2 b6 12. Rfe1 Bb7 13. e4 dxe4 14.
+Nxe4 Nxe4 15. Rxe4 Rxe4 16. Qxe4 Nf6 17. Qd3 1/2-1/2
+

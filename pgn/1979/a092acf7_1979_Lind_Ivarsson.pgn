@@ -1,0 +1,20 @@
+[Event "Sweden"]
+[Site "Sweden"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Lind, Jan Olov"]
+[Black "Ivarsson, Stefan"]
+[Result "0-1"]
+[ECO "C15"]
+[Opening "French"]
+[Variation "Winawer (Nimzovich) variation"]
+[HashCode "a092acf7"]
+[Epoch "Rook"]
+[BlackID "1700286"]
+[BlackCountry "SWE"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. Bd3 Ne7 5. Nf3 c5 6. O-O cxd4 7. Nxd4 e5 8.
+Ndb5 a6 9. Na3 d4 10. Ne2 Nbc6 11. Nc4 Ng6 12. f4 exf4 13. Nxf4 O-O 14. a3 Be7
+15. Nd5 Be6 16. Nxe7+ Qxe7 17. Qe1 b5 18. Nd2 Nce5 19. Nf3 Nxf3+ 20. Rxf3 Bc4
+21. Bd2 Qe6 22. Qg3 Qe5 23. Qf2 Be6 24. Re1 Rfd8 25. Ba5 Rd7 26. Rf5 Qb8 27. h4
+Bxf5 28. exf5 Ne5 29. Be4 Ng4 30. Qd2 Qh2+ 31. Kf1 Re8 32. g3 Rxe4 0-1

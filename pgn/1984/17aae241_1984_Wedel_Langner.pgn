@@ -1,0 +1,22 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Wedel"]
+[Black "Langner"]
+[Result "1-0"]
+[ECO "C67"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence, open variation"]
+[HashCode "17aae241"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. Re1 Nd6 6. Nxe5 Be7 7. Bd3
+O-O 8. Nc3 Ne8 9. b3 d5 10. Nxc6 bxc6 11. Bb2 Nf6 12. Ne2 Bg4 13. c4 d4 14.
+Qc2 c5 15. Ng3 Bd6 16. Nf5 a5 17. h3 Bh5 18. Nxd6 cxd6 19. Be2 Re8 20. d3
+Ra7 21. Kf1 Rae7 22. Bxh5 Rxe1+ 23. Rxe1 Rxe1+ 24. Kxe1 Nxh5 25. Bc1 Nf6
+26. Qe2 g6 27. Bd2 Nd7 28. Kf1 Ne5 29. f4 Nc6 30. Be1 f5 31. g4 Qd7 32. a3
+Kg7 33. Qg2 a4 34. b4 Na7 35. Qd5 fxg4 36. bxc5 gxh3 37. Qxd4+ Kh6 38. Qd5
+Qg4 39. Qg5+ Qxg5 40. fxg5+ Kxg5 41. cxd6 Kf6 42. d4 Ke6 43. Bg3 g5 44. d5+
+Kd7 45. Kg1 1-0
+

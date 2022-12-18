@@ -1,0 +1,18 @@
+[Event "Moscow"]
+[Site "Moscow"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Timoschenko"]
+[Black "Siniavsky"]
+[Result "1-0"]
+[ECO "B41"]
+[Opening "Sicilian"]
+[Variation "Kan, Maroczy bind - Bronstein variation"]
+[HashCode "89854553"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. c4 Nf6 6. Nc3 Bb4 7. Bd3 Nc6 8.
+Bc2 Qc7 9. O-O Nxd4 10. Qxd4 Ng4 11. e5 f5 12. Bf4 Bc5 13. Qd2 Nxe5 14. Nd5
+exd5 15. Bxe5 d6 16. Bf4 dxc4 17. Rfe1+ Kf8 18. b4 cxb3 19. Bxb3 b6 20.
+Rac1 1-0
+

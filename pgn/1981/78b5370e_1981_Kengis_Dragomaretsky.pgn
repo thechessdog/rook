@@ -1,0 +1,23 @@
+[Event "Kuibyshev"]
+[Site "Kuibyshev"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Kengis, Edvins"]
+[Black "Dragomarezkij, Evgeni"]
+[Result "1-0"]
+[ECO "B42"]
+[Opening "Sicilian"]
+[Variation "Kan, 5.Bd3"]
+[HashCode "78b5370e"]
+[Epoch "Rook"]
+[WhiteID "11600039"]
+[WhiteCountry "LAT"]
+[BlackID "4101944"]
+[BlackCountry "RUS"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Nc6 6. Nxc6 bxc6 7. O-O d5 8.
+Nd2 Nf6 9. Qe2 Be7 10. c4 O-O 11. e5 Nd7 12. Nf3 Re8 13. Bf4 Bb7 14. Rad1 Qb6
+15. Ng5 Nf8 16. Qh5 Bxg5 17. Bxg5 c5 18. b3 a5 19. Rfe1 d4 20. Bc2 a4 21. Rd3
+Qc6 22. Rg3 Ng6 23. bxa4 Rxa4 24. Bxa4 Qxa4 25. Qe2 h6 26. Bc1 Ba6 27. h4 Qxc4
+28. Qxc4 Bxc4 29. h5 Ne7 30. Ba3 Rc8 31. Rc1 Be2 32. Rxc5 Ra8 33. Rc7 d3 34.
+Bxe7 d2 35. Rd7 1-0

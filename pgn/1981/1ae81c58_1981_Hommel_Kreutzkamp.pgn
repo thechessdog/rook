@@ -1,0 +1,25 @@
+[Event "Bundesliga 8081"]
+[Site "Duitsland tt"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Hommel, Gerhard, Prof. Dr."]
+[Black "Kreutzkamp, Reinhold"]
+[Result "0-1"]
+[ECO "B16"]
+[Opening "Caro-Kann"]
+[Variation "Bronstein-Larsen variation"]
+[HashCode "1ae81c58"]
+[Epoch "Rook"]
+[WhiteID "4603435"]
+[WhiteCountry "GER"]
+[BlackID "4606230"]
+[BlackCountry "GER"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ gxf6 6. Bf4 Bf5 7. Nf3 Nd7
+8. Bd3 Bg6 9. h4 Bxd3 10. Qxd3 h5 11. O-O-O Qa5 12. Qb3 Qb6 13. Qc4 e6 14. Nd2
+Bh6 15. Bxh6 Rxh6 16. Ne4 Qc7 17. g3 O-O-O 18. Qb4 Nb6 19. c4 f5 20. Ng5 f4 21.
+Rd3 Rhh8 22. Rhd1 Rhe8 23. Ra3 Kb8 24. Qa5 Nxc4 25. Qxa7+ Kc8 26. Rf3 Rd5 27.
+Qa4 Nb6 28. Qc2 Ra5 29. Rxf4 f5 30. a3 Nd5 31. Rf3 c5 32. Re1 Qc6 33. Kb1 c4
+34. Qe2 Rb5 35. Rc1 c3 36. Ka2 Kb8 37. bxc3 Ra5 38. Qb2 Nb6 39. c4 Nxc4 40. Qb4
+Ra4 41. Qb3 Qa6 42. Rfc3 Rxa3+ 43. Qxa3 Nxa3 44. Rxa3 Qe2+ 45. Kb1 Rc8 46.
+Rxc8+ Kxc8 47. Ra2 Qd1+ 48. Kb2 Qxd4+ 49. Kb3 Qd5+ 50. Ka3 Qc5+ 0-1

@@ -1,0 +1,17 @@
+[Event "Buenos Aires olm"]
+[Site "Buenos Aires olm"]
+[Date "1978.10.01"]
+[Round "1"]
+[White "Hon Kah Seng, Christie"]
+[Black "Grumer, E."]
+[Result "1-0"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (without ...d6)"]
+[HashCode "ab4bf8ee"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. h3 Qc7 6. e5 Bf5 7. d3 e6 8. Be3
+f6 9. Nbd2 fxe5 10. O-O Nf6 11. Qe2 Be7 12. Bg5 h6 13. Bh4 Bd6 14. Bg3 O-O-O
+15. Nc4 e4 16. Nxd6+ Rxd6 17. dxe4 Nxe4 18. Bxd6 Qxd6 19. Rad1 Qe7 20. Nd2 Nf6
+21. Nc4 Nd7 22. Nd6+ 1-0

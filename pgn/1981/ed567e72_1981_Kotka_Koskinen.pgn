@@ -1,0 +1,23 @@
+[Event "corr SM"]
+[Site "corr SM"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Kotka, Reino"]
+[Black "Koskinen, Olli"]
+[Result "1/2-1/2"]
+[ECO "B26"]
+[Opening "Sicilian"]
+[Variation "closed, 6.Be3"]
+[HashCode "ed567e72"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. Be3 Rb8 7. Qd2 e6 8. f4
+Nge7 9. Nf3 O-O 10. d4 d5 11. Rd1 dxe4 12. Nxe4 Nf5 13. Nxc5 Nxe3 14. Qxe3
+Qa5+ 15. c3 Qxa2 16. Rd2 b5 17. b4 Qa3 18. Kf2 a5 19. Ne1 axb4 20. Bxc6
+bxc3 21. Nc2 Qb2 22. Re2 b4 23. Na1 Qa3 24. Nab3 Qa7 25. Ra1 Qb6 26. Be4
+Rd8 27. Rd1 Ba6 28. Nxa6 Qxa6 29. Bc2 Rd6 30. Rd3 Qc4 31. d5 Rxd5 32. Rxd5
+Qxd5 33. Qe4 Qd8 34. Re1 Bf6 35. h4 h5 36. Kf3 Qb6 37. Rd1 Rd8 38. Rxd8+
+Bxd8 39. Qd4 Qxd4 40. Nxd4 Be7 41. Ke4 Bd6 42. Nf3 f6 43. Kd4 Kg7 44. Kc4
+Kh6 45. Kd4 Bc7 46. Kd3 Bb6 47. Ke2 Bc7 48. Nd4 e5 49. Ne6 Bd6 50. Kd3 Be7
+51. Ke4 exf4 52. Nxf4 Bd6 53. Nxg6 b3 54. Bxb3 Kxg6 55. Bc2 Bb8 1/2-1/2
+

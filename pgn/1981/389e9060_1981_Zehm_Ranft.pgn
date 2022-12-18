@@ -1,0 +1,19 @@
+[Event "corr ch-DDR"]
+[Site "corr ch-DDR"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Zehm"]
+[Black "Ranft"]
+[Result "1/2-1/2"]
+[ECO "B18"]
+[Opening "Caro-Kann"]
+[Variation "classical variation"]
+[HashCode "389e9060"]
+[Epoch "Rook"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Nc5 Qc7 6. Bd3 Bxd3 7. Nxd3 e6
+8. Nf3 Nd7 9. O-O Bd6 10. c4 Ngf6 11. c5 Be7 12. Bf4 Qc8 13. Nfe5 Nxe5 14.
+Nxe5 O-O 15. Qf3 Nd5 16. Bd2 Qc7 17. b4 a6 18. a4 Bf6 19. Rfe1 Rfd8 20. Bc3
+Nxc3 21. Qxc3 Rd5 22. f4 Rad8 23. Re4 h6 24. Rf1 g6 25. g3 Kg7 26. Kg2 Bxe5
+27. fxe5 R8d7 28. a5 Qd8 29. Rd1 Qe7 30. Qe3 Qd8 31. Rd2 1/2-1/2
+

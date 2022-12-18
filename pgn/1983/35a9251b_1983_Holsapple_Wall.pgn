@@ -1,0 +1,19 @@
+[Event "Dayton,OH"]
+[Site "Dayton,OH"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Holsapple, Boyd"]
+[Black "Wall, Bill"]
+[Result "0-1"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, Ljubojevic variation"]
+[HashCode "35a9251b"]
+[Epoch "Rook"]
+[BlackCountry "USA"]
+[WhiteCountry "USA"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Bc4 Bg7 5. f4 O-O 6. Nf3 a6 7. a4 e6 8. O-O
+Nxe4 9. Re1 Nxc3 10. bxc3 c5 11. Ng5 Qc7 12. Qe2 cxd4 13. cxd4 Bxd4+ 14. Kh1
+Bxa1 15. Ba3 Bg7 16. h3 b5 17. Bxe6 fxe6 18. Nxe6 Bxe6 19. Qxe6+ Qf7 20. Qxd6
+Nc6 21. Qxc6 Qxf4 0-1

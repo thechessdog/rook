@@ -1,0 +1,25 @@
+[Event "Rome"]
+[Site "Rome"]
+[Date "1984.01.01"]
+[Round "6"]
+[White "Pinter, Jozsef"]
+[Black "Gobet, Fernand"]
+[Result "1-0"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Nimzovich (knight's tour) variation"]
+[HashCode "6fb1f475"]
+[Epoch "Rook"]
+[WhiteID "700045"]
+[WhiteCountry "HUN"]
+[BlackID "1300083"]
+[BlackCountry "SUI"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. Nd2 Nbd7 8. e4
+Bg7 9. Be2 O-O 10. O-O Re8 11. a4 a6 12. Ra3 Qc7 13. Qc2 Rb8 14. a5 b5 15. axb6
+Rxb6 16. Nc4 Rb4 17. Bf4 Bf8 18. f3 Nb6 19. b3 Nh5 20. Bd2 Bg7 21. g4 Nxc4 22.
+Bxc4 Nf6 23. Ne2 Rb8 24. Bc3 Nd7 25. Bxg7 Kxg7 26. f4 Nf6 27. Qc3 Bxg4 28. Ng3
+Bc8 29. Ra2 Qd8 30. Rd2 Kg8 31. e5 Ng4 32. h3 Nxe5 33. fxe5 Rxe5 34. Qf3 f5 35.
+Re2 Qf6 36. Rfe1 Rxe2 37. Rxe2 Bd7 38. Kg2 Kg7 39. Rf2 Qg5 40. Kh2 h5 41. Rg2
+Kh6 42. Ne2 Qf6 43. Nf4 Be8 44. Qe3 Kh7 45. Bxa6 Bf7 46. Bc4 Ra8 47. Ne6 Bg8
+48. Qf4 1-0

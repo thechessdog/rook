@@ -1,0 +1,20 @@
+[Event "corr SWE/K tt"]
+[Site "corr SWE/K tt"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Jacobsson, Bengt"]
+[Black "Eklind, Bengt"]
+[Result "1-0"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra gambit"]
+[HashCode "d94f52de"]
+[Epoch "Rook"]
+
+1. e4 c5 2. d4 cxd4 3. c3 dxc3 4. Nxc3 Nc6 5. Bc4 d6 6. Nf3 e6 7. O-O Nf6
+8. Qe2 Be7 9. Rd1 e5 10. h3 O-O 11. Bg5 Be6 12. Bb5 h6 13. Be3 Qa5 14. g4
+a6 15. Bd3 g5 16. a3 Bb3 17. Re1 b5 18. Nd2 Be6 19. b4 Qc7 20. Rac1 Qd7 21.
+Bb1 Kg7 22. Nd5 Bxd5 23. exd5 Nxd5 24. Bf5 Qe8 25. Qf3 Nxe3 26. fxe3 d5 27.
+Qxd5 Rd8 28. Qg2 Nb8 29. Ne4 a5 30. Ng3 axb4 31. Bb1 Rh8 32. Qe4 Nd7 33.
+axb4 Rc8 34. Rcd1 Rc4 35. Nh5+ Kf8 36. Qf5 Bxb4 37. Rf1 Rc7 38. Nf6 1-0
+

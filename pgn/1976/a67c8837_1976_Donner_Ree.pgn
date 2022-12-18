@@ -1,0 +1,29 @@
+[Event "IBM"]
+[Site "Amsterdam"]
+[Date "1976.07.01"]
+[Round "1"]
+[White "Donner, Jan Hein"]
+[Black "Ree, Hans"]
+[Result "0-1"]
+[ECO "E62"]
+[Opening "King's Indian"]
+[Variation "fianchetto, Kavalek (Bronstein) variation"]
+[HashCode "a67c8837"]
+[Epoch "Rook"]
+[BlackID "1000098"]
+[WhiteCountry "NLD"]
+[BlackCountry "NED"]
+
+1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 O-O 5. Nc3 d6 6. Nf3 c6 7. O-O Qa5 8. h3
+Be6 9. Qd3 Qa6 10. b3 d5 11. Ne5 dxc4 12. Nxc4 Rd8 13. Bb2 Nbd7 14. e3 Bxc4 15.
+Qxc4 Qxc4 16. bxc4 Nb6 17. c5 Nc4 18. Bc1 e5 19. Rd1 Nd7 20. Bf1 b5 21. Ne4 f5
+22. Ng5 Nxc5 23. Bxc4+ bxc4 24. Ba3 Nd3 25. Ne6 exd4 26. exd4 Bxd4 27. Nxd4
+Rxd4 28. Bb2 Re4 29. Bc3 Re2 30. Rab1 Rae8 31. Rb7 R8e7 32. Rxe7 Rxe7 33. Kf1
+Rb7 34. Ke2 Kf7 35. Ke3 Ke6 36. h4 Kd5 37. f3 Re7+ 38. Kd2 f4 39. gxf4 Nxf4 40.
+Kc2+ Nd3 41. Kd2 Ke6 42. Rg1 Nf4 43. Rg4 Rd7+ 44. Kc2 Nd5 45. Bd2 Nb6 46. a4
+Rd5 47. a5 Nd7 48. Rxc4 c5 49. Be3 Rf5 50. f4 Kd6 51. Bd2 Nf6 52. Kd3 Kc6 53.
+Rc1 Rd5+ 54. Ke2 Ne4 55. Be3 Nd6 56. Bf2 a6 57. Be1 Rd4 58. Bf2 Rc4 59. Rd1 Nf5
+60. Kf3 Rc3+ 61. Kg4 Rc2 62. Kf3 Ra2 63. h5 gxh5 64. Rh1 Ra3+ 65. Ke2 h4 66.
+Bxh4 h6 67. Bf2 Rxa5 68. Kf3 c4 69. Kg4 Kd7 70. Rc1 Nd6 71. Be1 h5+ 72. Kg3
+Ra3+ 73. Kh4 Rf3 74. Bc3 Rxf4+ 75. Kxh5 Kc6 76. Kg6 Nb5 77. Be5 Re4 78. Bf6 Kc5
+79. Ra1 Re6 80. Kf5 Rc6 81. Rc1 Kb4 0-1

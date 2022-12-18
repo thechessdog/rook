@@ -1,0 +1,21 @@
+[Event "corr DDR/FS"]
+[Site "corr DDR/FS"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Schroeder"]
+[Black "Laske"]
+[Result "1-0"]
+[ECO "A57"]
+[Opening "Benko gambit half accepted"]
+[HashCode "4865b00e"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. e3 g6 6. Nc3 Bg7 7. Nf3 d6 8. Be2
+O-O 9. O-O Nbd7 10. Bd2 Qb6 11. a4 axb5 12. Bxb5 Ba6 13. Qe2 Bxb5 14. axb5
+e6 15. dxe6 fxe6 16. Ra3 Rxa3 17. bxa3 d5 18. a4 Kh8 19. Qd3 Qb7 20. a5 c4
+21. Qc2 Nc5 22. Rb1 Ng4 23. h3 Nxf2 24. Kxf2 d4 25. exd4 Nd3+ 26. Ke2 Bxd4
+27. Rf1 e5 28. Be3 Re8 29. a6 Qa8 30. Bg5 Rf8 31. Bh6 Rf7 32. Ne1 Bxc3 33.
+Qxc3 Qe4+ 34. Be3 Rxf1 35. Kxf1 Qxe3 36. Nxd3 cxd3 37. a7 Qe2+ 38. Kg1 Qe3+
+39. Kh1 Qxa7 40. Qxe5+ Kg8 41. Qd5+ Kg7 42. Qxd3 Qa1+ 43. Kh2 Qe5+ 44. Kg1
+Qe1+ 45. Qf1 Qb4 46. Qa1+ Kh6 47. Qe5 Qb1+ 48. Kh2 Qb4 49. Qb8 1-0
+

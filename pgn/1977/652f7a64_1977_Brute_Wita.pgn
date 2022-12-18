@@ -1,0 +1,19 @@
+[Event "ACM Seattle"]
+[Site "ACM Seattle"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Brute Force"]
+[Black "Wita"]
+[Result "0-1"]
+[ECO "A45"]
+[Opening "Queen's pawn game"]
+[HashCode "652f7a64"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. Nc3 Nc6 3. d5 Nxd5 4. Qxd5 d6 5. a3 e6 6. Qd2 Be7 7. b4 Bf6 8.
+b5 Ne5 9. f4 Ng4 10. Nf3 c6 11. bxc6 bxc6 12. h3 Bh4+ 13. Kd1 Nf2+ 14. Ke1
+Nxh1+ 15. g3 Nxg3 16. Qd3 Qf6 17. Nxh4 Qxh4 18. Qf3 d5 19. Qg4 Qxg4 20.
+hxg4 Nxf1 21. Kxf1 a6 22. Be3 e5 23. fxe5 Bxg4 24. a4 h5 25. a5 h4 26. Ra4
+Be6 27. Bf2 h3 28. e3 h2 29. Bg3 h1=Q+ 30. Ke2 Qc1 31. Kd3 Rb8 32. e4 Rb2
+33. Ra3 Rxc2 34. Na2 Qd2# 0-1
+

@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Magnusson, B."]
+[Black "Neduchal, Z."]
+[Result "1-0"]
+[ECO "C64"]
+[Opening "Ruy Lopez"]
+[Variation "Cordel gambit"]
+[HashCode "bef7f477"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. c3 f5 5. d4 fxe4 6. Bxc6 dxc6 7. Nfd2 Bd6
+8. dxe5 e3 9. exd6 exd2+ 10. Nxd2 cxd6 11. O-O Ne7 12. Ne4 d5 13. Qh5+ g6
+14. Qe5 O-O 15. Nf6+ 1-0
+

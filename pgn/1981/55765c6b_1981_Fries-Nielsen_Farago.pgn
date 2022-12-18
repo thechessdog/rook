@@ -1,0 +1,18 @@
+[Event "Esbjerg"]
+[Site "Esbjerg"]
+[Date "1981.??.??"]
+[Round "7"]
+[White "Fries-Nielsen, Niels Jorgen"]
+[Black "Farago, Ivan"]
+[Result "0-1"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "classical variation"]
+[HashCode "55765c6b"]
+[Epoch "Rook"]
+[BlackID "700134"]
+[BlackCountry "HUN"]
+[WhiteCountry "DEN"]
+
+1. b3 d5 2. e3 e5 3. Bb2 Bd6 4. Nf3 Qe7 5. c4 d4 6. exd4 exd4+ 7. Qe2 c5 8.
+Qxe7+ Nxe7 9. Bd3 Nbc6 10. a3 Bg4 11. Ng5 Ne5 12. Be4 h6 0-1

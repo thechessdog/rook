@@ -1,0 +1,27 @@
+[Event "Lublin"]
+[Site "Lublin"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Dobosz, Henryk"]
+[Black "Ilijin, Neboisa"]
+[Result "0-1"]
+[ECO "E41"]
+[Opening "Nimzo-Indian"]
+[Variation "e3, Huebner variation"]
+[HashCode "9bdf40f6"]
+[Epoch "Rook"]
+[WhiteID "1100114"]
+[WhiteCountry "POL"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 Nc6 6. Nf3 Bxc3+ 7. bxc3 d6 8. e4
+e5 9. d5 Ne7 10. Nh4 h6 11. O-O g5 12. Nf5 Nxf5 13. exf5 Bd7 14. Re1 Qa5 15. f4
+gxf4 16. Bxf4 Ba4 17. Qe2 O-O-O 18. Bg3 Rde8 19. Bh4 Nd7 20. Qb2 Qc7 21. Qa3
+Nb6 22. Rab1 Qd7 23. Re4 Rhg8 24. Rf1 Kb8 25. Qc1 h5 26. Qh6 Rh8 27. Qe3 Qc8
+28. Qf3 Nd7 29. Bg5 f6 30. Bh4 Reg8 31. Be1 Nf8 32. Rh4 Be8 33. Qd1 Qd7 34. Re4
+Qg7 35. Qc2 Nh7 36. h4 Nf8 37. g3 Bd7 38. Kh2 Qh7 39. Qf2 Rg7 40. Bc2 Rhg8 41.
+Qf3 Bc8 42. Bd1 Rh8 43. Be2 Nd7 44. Bd3 Nb6 45. Be2 Bd7 46. g4 hxg4 47. Rxg4
+Rhg8 48. Rxg7 Qxg7 49. Bf2 Qh7 50. Be1 Rg5 51. Bd3 Nc8 52. Qh3 Rg8 53. Bd2 Qh5
+54. Be1 Ne7 55. Qf3 Qh7 56. Qh3 Kc7 57. Rf2 Qh5 58. Be2 Qh6 59. Bd3 Qg7 60. Rg2
+Qxg2+ 61. Qxg2 Rxg2+ 62. Kxg2 Bxf5 63. Bxf5 Nxf5 64. Kf3 Kd7 65. Kg4 Ne7 66. h5
+Ke8 67. Bh4 Kf7 68. h6 Kg6 69. h7 Kxh7 70. Bxf6 Nc8 71. Kf5 Nb6 72. Bxe5 dxe5
+73. Kxe5 Nxc4+ 74. Ke6 b5 75. Kd7 0-1

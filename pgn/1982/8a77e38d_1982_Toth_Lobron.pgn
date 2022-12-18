@@ -1,0 +1,28 @@
+[Event "Biel"]
+[Site "Biel"]
+[Date "1982.07.01"]
+[Round "10"]
+[White "Toth, Bela"]
+[Black "Lobron, Eric"]
+[Result "1-0"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Nimzovich (knight's tour) variation"]
+[HashCode "8a77e38d"]
+[Epoch "Rook"]
+[WhiteID "736112"]
+[WhiteCountry "ITA"]
+[BlackID "4600037"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. Nd2 Nbd7 8. e4
+Bg7 9. Nc4 Nb6 10. Ne3 O-O 11. Bd3 Nh5 12. O-O Qh4 13. g3 Qe7 14. Re1 Bd7 15.
+Nf5 Bxf5 16. exf5 Be5 17. Bf4 c4 18. Bc2 Rfe8 19. Qf3 a6 20. Bxe5 dxe5 21. d6
+Qxd6 22. Qxb7 Nf6 23. Rad1 Qc5 24. Qf3 Qe7 25. Qc6 Rab8 26. Qd6 Qxd6 27. Rxd6
+Kg7 28. fxg6 hxg6 29. Rc6 Nfd7 30. Rd1 Nf8 31. Na4 Re6 32. Rxb6 Rexb6 33. Nxb6
+Rxb6 34. b3 Ne6 35. bxc4 Rb2 36. Bb3 Nd4 37. Rd3 Kf6 38. Kg2 Ke7 39. c5 f5 40.
+h4 a5 41. Rc3 Nxb3 42. c6 Kd8 43. c7+ Kc8 44. axb3 e4 45. Kf1 Rb1+ 46. Ke2 Rb2+
+47. Ke3 Ra2 48. Rc6 Ra3 49. Rxg6 a4 50. Kf4 Kxc7 51. bxa4 Rf3+ 52. Kg5 Rxf2 53.
+h5 Kd7 54. h6 Rh2 55. Kxf5 e3 56. Rg4 Rh3 57. Rd4+ Kc6 58. g4 Rxh6 59. Re4 Rh8
+60. g5 Rh3 61. Kg4 Kd5 62. Re8 Rh1 63. Rxe3 Ra1 64. g6 Rxa4+ 65. Kf5 Ra1 66.
+Rd3+ 1-0

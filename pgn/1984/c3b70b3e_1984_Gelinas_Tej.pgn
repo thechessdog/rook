@@ -1,0 +1,18 @@
+[Event "Mauricie"]
+[Site "Mauricie"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Gelinas, Renaud"]
+[Black "Tej, Yahia"]
+[Result "1-0"]
+[ECO "C10"]
+[Opening "French"]
+[Variation "Rubinstein variation"]
+[HashCode "c3b70b3e"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Bd3 Nxe4 7. Bxe4
+Nf6 8. Bd3 c5 9. O-O Bd6 10. h3 cxd4 11. Nxd4 a6 12. Re1 O-O 13. Qf3 Be7
+14. c3 Re8 15. Bf4 Qb6 16. Re2 Bd7 17. Bg5 Rad8 18. Rae1 Qa5 19. h4 b5 20.
+Nf5 Qxa2 21. Nxe7+ Rxe7 22. Bxf6 gxf6 23. Qxf6 Rde8 24. Re3 1-0
+

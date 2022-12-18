@@ -1,0 +1,23 @@
+[Event "corr ch-DK"]
+[Site "corr ch-DK"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Hjorth"]
+[Black "Korning"]
+[Result "0-1"]
+[ECO "C05"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation"]
+[HashCode "74b39a15"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. f4 c5 6. c3 Nc6 7. Ndf3 Qa5 8.
+Be3 Qb6 9. Qc2 cxd4 10. Nxd4 Nxd4 11. Bxd4 Bc5 12. Nf3 Nb8 13. Qf2 Bxd4 14.
+Nxd4 Nc6 15. Rd1 Nxd4 16. Rxd4 Bd7 17. a4 Rc8 18. Bd3 Qc5 19. O-O g6 20. g4
+Qe7 21. f5 g5 22. Qe3 h6 23. Rf3 Rc5 24. f6 Qf8 25. Rh3 b6 26. Rh5 Kd8 27.
+h4 gxh4 28. Qh3 Rc8 29. Rxh4 Kc7 30. Ba6 Rd8 31. Qe3 Qc5 32. b4 Qc6 33. Bb5
+Qb7 34. Rxh6 Rxh6 35. Qxh6 Kb8 36. Qe3 Bxb5 37. axb5 Rc8 38. g5 Rh8 39. Qg3
+a5 40. Rh4 Rc8 41. g6 fxg6 42. Qxg6 axb4 43. Qg7 bxc3 44. Kf2 c2 45. Rh1
+Qa8 46. f7 Qa3 47. Qf6 Qb2 48. Kg3 Qc3+ 49. Kg4 Qd4+ 50. Kg5 Qd2+ 51. Kh5
+Qg2 0-1
+

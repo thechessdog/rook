@@ -1,0 +1,22 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Salov, Valery"]
+[Black "Loginov, Valery A"]
+[Result "1-0"]
+[ECO "B42"]
+[Opening "Sicilian"]
+[Variation "Kan, Polugaievsky variation"]
+[HashCode "3a860260"]
+[Epoch "Rook"]
+[WhiteID "4100069"]
+[BlackID "4126297"]
+[WhiteCountry "RUS"]
+[BlackCountry "RUS"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Bc5 6. Nb3 Ba7 7. Qe2 d6 8. Be3
+Bxe3 9. Qxe3 Nf6 10. Nc3 Qc7 11. O-O-O O-O 12. f4 Nc6 13. Kb1 b5 14. Rhg1 b4
+15. Ne2 e5 16. f5 a5 17. g4 a4 18. g5 Nd7 19. g6 fxg6 20. fxg6 axb3 21. gxh7+
+Kh8 22. Rxg7 bxc2+ 23. Bxc2 Kxg7 24. Rg1+ Kf7 25. Bb3+ Ke8 26. Rg8 Ne7 27.
+Rxf8+ Nxf8 28. h8=Q Bg4 29. Qg7 1-0

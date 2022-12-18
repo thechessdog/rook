@@ -1,0 +1,20 @@
+[Event "Warsaw"]
+[Site "Warsaw"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Szymczak, Zbigniew"]
+[Black "Plachetka, Jan"]
+[Result "1/2-1/2"]
+[ECO "D12"]
+[Opening "QGD Slav"]
+[Variation "4.e3 Bf5"]
+[HashCode "09f1f1af"]
+[Epoch "Rook"]
+[WhiteID "1100424"]
+[BlackID "14900068"]
+[WhiteCountry "POL"]
+[BlackCountry "SVK"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. e3 Bf5 5. Qb3 Qb6 6. c5 Qxb3 7. axb3 Nbd7 8. b4
+Bxb1 9. Rxb1 a6 10. Bd3 e6 11. O-O Be7 12. Rd1 O-O 13. Bd2 Ne4 14. Be1 f5 15.
+Nd2 Nxd2 16. Bxd2 e5 17. Bc3 e4 18. Be2 1/2-1/2

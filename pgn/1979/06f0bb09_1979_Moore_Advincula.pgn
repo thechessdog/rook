@@ -1,0 +1,19 @@
+[Event "Wiesbaden"]
+[Site "Wiesbaden"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Moore"]
+[Black "Advincula"]
+[Result "1-0"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra gambit"]
+[HashCode "06f0bb09"]
+[Epoch "Rook"]
+
+1. e4 c5 2. d4 cxd4 3. c3 dxc3 4. Nxc3 e5 5. Nf3 Nc6 6. Bc4 h6 7. O-O Nf6
+8. Be3 Be7 9. Qe2 d6 10. Rfd1 Qc7 11. Rac1 Be6 12. Nd5 Bxd5 13. exd5 O-O
+14. dxc6 bxc6 15. Bb5 c5 16. b4 Rfd8 17. h3 Rac8 18. bxc5 dxc5 19. Rxd8+
+Rxd8 20. Qc4 Rc8 21. Nh4 g5 22. Nf5 Bf8 23. Ba4 Nd7 24. Bc2 Rd8 25. h4 Nb6
+26. Qe4 f6 27. Bb3+ Kh8 28. a4 a5 29. Kh2 Nd7 30. Qc4 Bg7 31. Qf7 1-0
+

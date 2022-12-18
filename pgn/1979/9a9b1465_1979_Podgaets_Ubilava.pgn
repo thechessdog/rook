@@ -1,0 +1,19 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Podgaets, Mikhail"]
+[Black "Ubilava, Elizbar"]
+[Result "1/2-1/2"]
+[ECO "E54"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Gligoric system with 7...dc"]
+[HashCode "9a9b1465"]
+[Epoch "Rook"]
+[BlackID "13600052"]
+[WhiteCountry "UKR"]
+[BlackCountry "ESP"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 O-O 6. Nf3 d5 7. O-O dxc4 8. Bxc4
+cxd4 9. exd4 b6 10. Bg5 Bb7 11. Re1 Nbd7 12. Rc1 Rc8 13. Qb3 Bxc3 14. Rxc3 h6
+15. Bh4 Bd5 16. Bxd5 Rxc3 17. bxc3 exd5 18. Ne5 Re8 19. a3 1/2-1/2

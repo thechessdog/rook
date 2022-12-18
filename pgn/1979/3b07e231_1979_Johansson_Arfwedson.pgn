@@ -1,0 +1,17 @@
+[Event "corr Sweden"]
+[Site "corr Sweden"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Johansson, Martin"]
+[Black "Arfwedson, Gerhard"]
+[Result "1-0"]
+[ECO "C34"]
+[Opening "KGA"]
+[Variation "Fischer defence"]
+[HashCode "3b07e231"]
+[Epoch "Rook"]
+[WhiteCountry "SWE"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 d6 4. Bc4 h6 5. h4 Nf6 6. Nc3 Bg4 7. d4 Nh5 8. Nd5
+g5 9. hxg5 hxg5 10. e5 Bg7 11. exd6 Qxd6 12. Qe2+ Kf8 13. Bd2 Nc6 14. O-O-O b5
+15. Bb3 Nxd4 16. Qf2 c5 17. Bc3 1-0

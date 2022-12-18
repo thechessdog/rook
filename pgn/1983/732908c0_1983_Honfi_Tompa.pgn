@@ -1,0 +1,28 @@
+[Event "Elekes mem-B"]
+[Site "Budapest"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Honfi, Karoly"]
+[Black "Tompa, Janos"]
+[Result "1/2-1/2"]
+[ECO "B47"]
+[Opening "Sicilian"]
+[Variation "Taimanov (Bastrikov) variation"]
+[HashCode "732908c0"]
+[Epoch "Rook"]
+[BlackID "700193"]
+[BlackCountry "HUN"]
+[WhiteCountry "HUN"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 Qc7 6. g3 a6 7. Bg2 Nf6 8. O-O
+d6 9. Re1 Bd7 10. b3 Be7 11. Bb2 O-O 12. Nde2 Rac8 13. Nf4 Rfd8 14. Rc1 Ne5 15.
+Nce2 b5 16. Nd3 Bc6 17. Nd4 Bb7 18. f4 Ned7 19. c4 Qb6 20. e5 Bxg2 21. Kxg2 Ne8
+22. cxb5 axb5 23. Qf3 Nc5 24. Nb4 Rd7 25. Re2 Rdc7 26. Ndc6 Bf8 27. Rec2 Rxc6
+28. Nxc6 Qxc6 29. b4 Qxf3+ 30. Kxf3 Ra8 31. exd6 Nd7 32. Rc8 Rxc8 33. Rxc8 Nxd6
+34. Rd8 Nb6 35. Bd4 Nbc8 36. Bc5 f6 37. a4 Kf7 38. a5 Be7 39. Rh8 Ne8 40. Rxh7
+Bxc5 41. bxc5 Na7 42. Rh8 Nc6 43. a6 b4 44. Ke2 b3 45. Kd2 b2 46. Kc2 Nb4+ 47.
+Kxb2 Nxa6 48. c6 Nb4 49. c7 Nxc7 50. Rb8 Nbd5 51. Kc2 Kg6 52. Kd3 Kf5 53. Ke2
+e5 54. Rg8 Ne6 55. fxe5 fxe5 56. Rh8 e4 57. Rh5+ g5 58. Rh8 Nd4+ 59. Kd2 e3+
+60. Kd3 e2 61. Re8 Nb4+ 62. Kxd4 e1=Q 63. Rxe1 Nc2+ 64. Kd3 Nxe1+ 65. Ke2 Nc2
+66. Kd3 Nb4+ 67. Ke3 Nd5+ 68. Kf3 Nf6 69. h3 Ne4 70. g4+ Ke5 71. Ke3 Kd5 72.
+Kf3 Kd4 73. Kg2 Ke3 74. h4 gxh4 75. Kh3 1/2-1/2

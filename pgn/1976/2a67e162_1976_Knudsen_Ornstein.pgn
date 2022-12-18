@@ -1,0 +1,21 @@
+[Event "Kringsja"]
+[Site "Oslo"]
+[Date "1976.??.??"]
+[Round "6"]
+[White "Knudsen, Ole"]
+[Black "Ornstein, Axel"]
+[Result "0-1"]
+[ECO "B67"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...a6 defence, 8...Bd7"]
+[HashCode "2a67e162"]
+[Epoch "Rook"]
+[BlackID "1700111"]
+[BlackCountry "SWE"]
+[WhiteID "1410830"]
+[WhiteCountry "DEN"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 Nc6 7. Qd2 e6 8.
+O-O-O Bd7 9. f4 h6 10. Bxf6 Qxf6 11. e5 dxe5 12. Ndb5 Qd8 13. Nd6+ Bxd6 14.
+Qxd6 exf4 15. Ne4 Ne7 16. Nc5 Bc6 17. Qxf4 Nd5 18. Qc4 O-O 19. Re1 Rc8 20. Qb3
+Qa5 21. Nd3 Ba4 0-1

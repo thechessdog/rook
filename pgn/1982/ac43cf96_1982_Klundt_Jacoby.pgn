@@ -1,0 +1,23 @@
+[Event "Bundesliga 8182"]
+[Site "Duitsland tt"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Klundt, Klaus"]
+[Black "Jacoby, Gisbert"]
+[Result "0-1"]
+[ECO "B92"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Opovcensky variation"]
+[HashCode "ac43cf96"]
+[Epoch "Rook"]
+[WhiteID "4600436"]
+[WhiteCountry "GER"]
+[BlackID "4604768"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8. O-O
+O-O 9. Kh1 b5 10. f4 Bb7 11. Bf3 Nbd7 12. Be3 Rc8 13. Rf2 Nb6 14. fxe5 dxe5 15.
+Qxd8 Bxd8 16. Bc5 Re8 17. a4 Bc6 18. axb5 axb5 19. Be2 Na4 20. Nxa4 bxa4 21.
+Nd2 Bxe4 22. Rxf6 Bxc2 23. Rxf7 Rxc5 24. Rd7 Bf6 25. Rc1 e4 26. Bc4+ Rxc4 27.
+Nxc4 Bb3 28. Nd6 Bxb2 29. Rcc7 Rf8 30. g4 a3 31. Ra7 e3 32. Re7 Bd5+ 33. Kg1 e2
+0-1

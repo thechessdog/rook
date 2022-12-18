@@ -1,0 +1,15 @@
+[Event "Colorado"]
+[Site "Colorado"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Brown, D."]
+[Black "Dykes, J."]
+[Result "0-1"]
+[ECO "D02"]
+[Opening "Queen's pawn game, Chigorin variation"]
+[HashCode "f3d899df"]
+[Epoch "Rook"]
+
+1. d4 d5 2. Nf3 Nc6 3. c4 Nf6 4. Nc3 Bg4 5. Ne5 Nxe5 6. dxe5 Ne4 7. Nxd5 e6
+8. Ne3 Bb4+ 0-1
+

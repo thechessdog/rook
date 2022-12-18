@@ -1,0 +1,20 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Melzer"]
+[Black "Wenner, Tobias"]
+[Result "1-0"]
+[ECO "C17"]
+[Opening "French"]
+[Variation "Winawer, advance, 5.a3"]
+[HashCode "8c2daf41"]
+[Epoch "Rook"]
+[BlackID "4619714"]
+[BlackCountry "GER"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 cxd4 6. axb4 dxc3 7. Qg4 g6 8. Bd3
+Qc7 9. Nf3 Nc6 10. O-O cxb2 11. Bxb2 Nce7 12. Rfc1 Nh6 13. Qg5 Nhf5 14. g4 Ng7
+15. Qh6 Kf8 16. Ng5 Kg8 17. c4 Qd8 18. c5 Qf8 19. Ra3 Ne8 20. Qxf8+ Kxf8 21.
+Rca1 a6 22. Nf3 Bd7 23. b5 a5 24. Rxa5 Rxa5 25. Rxa5 Nc7 26. b6 Nc6 27. Ra1 Ne8
+28. Ra8 Kg7 29. Bb5 Kf8 30. Bxc6 1-0

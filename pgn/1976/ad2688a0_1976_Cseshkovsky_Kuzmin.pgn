@@ -1,0 +1,18 @@
+[Event "Sochi"]
+[Site "Sochi"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Tseshkovsky, Vitaly"]
+[Black "Kuzmin, G."]
+[Result "1/2-1/2"]
+[ECO "C88"]
+[Opening "Ruy Lopez"]
+[Variation "closed, anti-Marshall 8.a4"]
+[HashCode "ad2688a0"]
+[Epoch "Rook"]
+[BlackID "4132041"]
+[WhiteCountry "RUS"]
+[BlackCountry "RUS"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. a4
+b4 9. a5 d6 10. d3 Rb8 11. Bc4 Be6 12. Nbd2 Nd7 1/2-1/2

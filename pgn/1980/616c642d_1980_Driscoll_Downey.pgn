@@ -1,0 +1,17 @@
+[Event "corr APCT"]
+[Site "corr APCT"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Driscoll"]
+[Black "Downey, M."]
+[Result "0-1"]
+[ECO "C40"]
+[Opening "Latvian"]
+[Variation "Polerio variation"]
+[HashCode "616c642d"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 f5 3. Bc4 fxe4 4. Nxe5 d5 5. Qh5+ g6 6. Nxg6 hxg6 7. Qxh8
+Kf7 8. Qd4 Be6 9. Bb3 Nc6 10. Qe3 Bh6 11. Qg3 Nf6 12. Qh4 Qh8 13. O-O Nd4
+14. d3 Bxc1 15. Qxh8 Rxh8 16. Rxc1 Ne2+ 0-1
+

@@ -1,0 +1,23 @@
+[Event "Hamburg op"]
+[Site "Hamburg"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Ernst, Thomas"]
+[Black "Wiese-Jozwiak, Malgorzata"]
+[Result "1-0"]
+[ECO "B97"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Poisoned pawn variation"]
+[HashCode "5ac66812"]
+[Epoch "Rook"]
+[WhiteID "1700065"]
+[WhiteCountry "SWE"]
+[BlackCountry "POL"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qb6 8. Qd2
+Qxb2 9. Rb1 Qa3 10. Be2 Be7 11. O-O h6 12. Bh4 Nbd7 13. Bg3 Qc5 14. Kh1 O-O 15.
+Bf3 Rd8 16. Rfe1 Ne5 17. Be2 Nc4 18. Qd3 Ne5 19. fxe5 dxe5 20. Na4 Qa5 21. Nb6
+Rxd4 22. Qf3 Nxe4 23. Nxa8 Nd2 24. Qe3 Nxb1 25. Rxb1 Bg5 26. Qb3 Qd2 27. Bf1 a5
+28. a3 a4 29. Qb2 Bd7 30. Bxe5 Re4 31. Nb6 Bc6 32. Qc3 Qxc3 33. Bxc3 Re3 34.
+Bb4 Rh3 35. Bd6 e5 36. Nc4 Bf4 37. Bxe5 Rxh2+ 38. Kg1 Bxe5 39. Nxe5 Rh5 40.
+Nxc6 bxc6 41. Rb8+ Kh7 42. Ra8 1-0

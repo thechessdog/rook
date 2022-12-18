@@ -1,0 +1,19 @@
+[Event "Budapest Tungsram"]
+[Site "Budapest Tungsram"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Gipslis, Aivars"]
+[Black "Knaak, Rainer"]
+[Result "1/2-1/2"]
+[ECO "B81"]
+[Opening "Sicilian"]
+[Variation "Scheveningen, Keres attack"]
+[HashCode "9dff1944"]
+[Epoch "Rook"]
+[BlackID "4611250"]
+[BlackCountry "GER"]
+[WhiteCountry "LVA"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. g4 a6 7. g5 Nfd7 8. Bg2
+Nc6 9. f4 Qb6 10. Nde2 Be7 11. h4 O-O 12. Rh3 Rd8 13. h5 Nc5 14. a3 d5 15. exd5
+exd5 16. Nxd5 Bxh3 17. Bxh3 Rxd5 1/2-1/2

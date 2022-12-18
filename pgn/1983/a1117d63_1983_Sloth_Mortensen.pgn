@@ -1,0 +1,26 @@
+[Event "Gladsaxe"]
+[Site "Gladsaxe"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Sloth, Jorn"]
+[Black "Mortensen, Erling"]
+[Result "0-1"]
+[ECO "A05"]
+[Opening "Reti"]
+[Variation "King's Indian attack"]
+[HashCode "a1117d63"]
+[Epoch "Rook"]
+[WhiteID "1400240"]
+[WhiteCountry "DEN"]
+[BlackID "1400045"]
+[BlackCountry "DEN"]
+
+1. Nf3 Nf6 2. g3 g6 3. b3 Bg7 4. Bb2 O-O 5. Bg2 d6 6. d4 c6 7. Nbd2 a5 8. a4 d5
+9. O-O Na6 10. Re1 Bf5 11. Nh4 Be6 12. c3 Qb6 13. Ba3 Rfe8 14. e3 Bg4 15. Qc2
+e5 16. dxe5 Rxe5 17. Nhf3 Ree8 18. Nd4 Nc5 19. c4 Rac8 20. Rac1 Na6 21. c5 Qc7
+22. h3 Bd7 23. Qc3 b6 24. b4 axb4 25. Bxb4 Nxb4 26. Qxb4 bxc5 27. Qxc5 Bf8 28.
+Qc3 Qe5 29. Qd3 c5 30. Nb5 Rb8 31. e4 c4 32. Qc2 Bc5 33. Kf1 Qh5 34. exd5 Bxh3
+35. Ne4 Nxe4 36. Rxe4 Bxg2+ 37. Kxg2 Qxd5 38. f3 Bb6 39. Rce1 Rxe4 40. Rxe4 Rc8
+41. Nc3 Qc5 42. Re1 Qc6 43. Re4 Ba5 44. Nb5 Qc5 45. Qe2 c3 46. Re5 Qb4 47. Re8+
+Rxe8 48. Qxe8+ Qf8 49. Qc6 Qd8 50. Nd6 c2 51. Ne4 Qc7 52. Nf6+ Kh8 53. Qe8+ Kg7
+54. Nd7 Qxd7 55. Qxd7 c1=Q 56. Qd4+ Kg8 0-1

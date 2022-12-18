@@ -1,0 +1,21 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Lukin, Andrei M"]
+[Black "Ivanov, Sergey"]
+[Result "0-1"]
+[ECO "C05"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation"]
+[HashCode "4d532686"]
+[Epoch "Rook"]
+[WhiteID "4101251"]
+[WhiteCountry "RUS"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. c3 c5 6. f4 Nc6 7. Ndf3 Qb6 8. Ne2
+f6 9. g3 cxd4 10. cxd4 Bb4+ 11. Nc3 O-O 12. a3 Be7 13. Bh3 fxe5 14. Bxe6+ Kh8
+15. Nxd5 Qd8 16. Nxe7 Qxe7 17. d5 e4 18. Ng5 Nc5 19. Bxc8 Nd3+ 20. Kf1 Raxc8
+21. dxc6 Qxg5 22. cxb7 Rb8 23. Kg2 Qf6 24. Qe2 Rxb7 25. Qxe4 Rxb2+ 26. Bxb2
+Qxb2+ 27. Kf3 Ne5+ 28. Ke3 Ng4+ 29. Kf3 h5 30. Rhf1 Nxh2+ 31. Ke3 Ng4+ 32. Kf3
+Rc8 33. Qb4 Rc3+ 34. Ke4 Qc2+ 35. Kd5 Rd3+ 0-1

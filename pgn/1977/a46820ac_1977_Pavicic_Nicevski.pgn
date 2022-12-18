@@ -1,0 +1,22 @@
+[Event "Zagreb"]
+[Site "Zagreb"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Pavicic, Zeljko"]
+[Black "Nicevski, Risto"]
+[Result "1-0"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "a46820ac"]
+[Epoch "Rook"]
+[WhiteID "14500221"]
+[WhiteCountry "CRO"]
+[BlackCountry "MKD"]
+
+1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. d4 cxd4 5. cxd4 d6 6. Nf3 Nc6 7. Bc4 e6 8. Qe2
+Be7 9. O-O O-O 10. Nc3 Nxc3 11. bxc3 b6 12. Bd3 Bb7 13. Qe4 g6 14. Bh6 Re8 15.
+Bb5 Qc7 16. Qf4 a6 17. Ba4 b5 18. Bb3 dxe5 19. dxe5 Rad8 20. Rfe1 Rd3 21. Ng5
+Nd8 22. Rad1 Rxc3 23. Rd6 Bf8 24. Qh4 Bxd6 25. exd6 Rc1 26. Bd1 Qc3 27. Rf1 Qc4
+28. Qg3 Qd4 29. Nxe6 Rxd1 30. Nxd4 Ree1 31. Qd3 Rxd3 32. Rxe1 Be4 33. Nb3 Rxd6
+34. f3 g5 35. Bxg5 Ne6 36. Bh6 Bc6 37. Rc1 1-0

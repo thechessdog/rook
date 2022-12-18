@@ -1,0 +1,19 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Molkjer, Lars"]
+[Black "Hansen, Soren Bech"]
+[Result "0-1"]
+[ECO "B16"]
+[Opening "Caro-Kann"]
+[Variation "Bronstein-Larsen variation"]
+[HashCode "54f04c47"]
+[Epoch "Rook"]
+[BlackID "1400681"]
+[BlackCountry "DEN"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ gxf6 6. Be3 Bf5 7. Bd3 Rg8
+8. Qd2 Qd5 9. Bxf5 Qxg2 10. O-O-O Qxh1 11. Ne2 Qd5 12. Bxh7 Qxa2 13. Nc3 Qa1+
+14. Nb1 Rh8 15. d5 Bg7 16. dxc6 Nxc6 17. Qd7+ Kf8 18. Qxb7 Re8 19. Be4 Na5 20.
+Qxa7 f5 21. Bd4 Bh6+ 22. Be3 Nb3+ 0-1

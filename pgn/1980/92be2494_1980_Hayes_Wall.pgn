@@ -1,0 +1,15 @@
+[Event "Dayton,OH"]
+[Site "Dayton,OH"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Hayes, D."]
+[Black "Wall, Bill"]
+[Result "0-1"]
+[ECO "C31"]
+[Opening "KGD"]
+[Variation "Falkbeer, Milner-Barry variation"]
+[HashCode "92be2494"]
+[Epoch "Rook"]
+[BlackCountry "USA"]
+
+1. e4 e5 2. f4 d5 3. Nc3 d4 4. Nd5 c6 0-1

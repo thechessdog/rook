@@ -1,0 +1,20 @@
+[Event "Ed.Lasker mem"]
+[Site "New York"]
+[Date "1981.01.01"]
+[Round "4"]
+[White "Iskov, Gert"]
+[Black "Adorjan, Andras"]
+[Result "1/2-1/2"]
+[ECO "B80"]
+[Opening "Sicilian"]
+[Variation "Scheveningen, fianchetto variation"]
+[HashCode "ebdec605"]
+[Epoch "Rook"]
+[BlackID "700096"]
+[BlackCountry "HUN"]
+[WhiteID "1400398"]
+[WhiteCountry "DEN"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. g3 Nc6 7. Bg2 Bd7 8. O-O
+Be7 9. Nxc6 Bxc6 10. a4 O-O 11. Be3 Qc7 12. Qe2 b6 13. Rfd1 Rfd8 14. Rd4 a6 15.
+Rad1 Qb7 1/2-1/2

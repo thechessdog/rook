@@ -1,0 +1,33 @@
+[Event "Zamardi"]
+[Site "Zamardi"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Rigo, Janos"]
+[Black "Groszpeter, Attila"]
+[Result "1-0"]
+[ECO "B10"]
+[Opening "Caro-Kann"]
+[Variation "closed (Breyer) variation"]
+[HashCode "874665da"]
+[Epoch "Rook"]
+[WhiteID "700371"]
+[WhiteCountry "HUN"]
+[BlackID "700053"]
+[BlackCountry "HUN"]
+
+1. e4 c6 2. d3 d5 3. Nd2 e5 4. Ngf3 Bd6 5. Qe2 Nf6 6. g3 O-O 7. Bg2 Re8 8. O-O
+Bg4 9. h3 Bh5 10. Re1 Nbd7 11. Nf1 Nc5 12. N1d2 a5 13. a4 Bc7 14. b3 Ne6 15.
+Qf1 dxe4 16. dxe4 Nd4 17. Nxd4 Qxd4 18. Rb1 Red8 19. Nc4 b5 20. axb5 cxb5 21.
+Na3 b4 22. Nc4 Qd7 23. Bg5 Qe6 24. f4 exf4 25. gxf4 h6 26. Bh4 Rd4 27. e5 Nd5
+28. f5 Qd7 29. Bf2 Rf4 30. Rbd1 Bxd1 31. Rxd1 Qxf5 32. Rxd5 Re8 33. Qe2 Qg6 34.
+Qd2 Rf5 35. Nd6 Rfxe5 36. Nxe8 Rxe8 37. Rd7 Bb6 38. Bxb6 Qxb6+ 39. Qd4 Qe6 40.
+Rd8 Rxd8 41. Qxd8+ Kh7 42. Qd3+ g6 43. Kf2 Qf6+ 44. Ke2 Qe5+ 45. Qe4 Qc3 46.
+Qc6 Qe5+ 47. Kd3 Kg7 48. c3 Qg3+ 49. Qf3 Qe1 50. Kc2 Qa1 51. cxb4 axb4 52. Bf1
+Qa2+ 53. Kd1 Qa1+ 54. Kd2 Qb2+ 55. Ke1 Qc1+ 56. Kf2 Qd2+ 57. Be2 h5 58. Qe4 Qc3
+59. Qe3 Qf6+ 60. Kg2 Qc6+ 61. Qf3 Qc5 62. h4 Qc2 63. Qd3 Qc6+ 64. Bf3 Qf6 65.
+Qc4 Qb2+ 66. Kh3 Qf6 67. Bd5 Qf5+ 68. Kg3 Qe5+ 69. Kf3 Qf5+ 70. Kg2 Qe5 71. Qe4
+Qb2+ 72. Kh3 Qc3+ 73. Qf3 Qc7 74. Kg2 Qe7 75. Kf1 Qc7 76. Qe3 f6 77. Qd4 Qc1+
+78. Ke2 Qc2+ 79. Ke3 Qc1+ 80. Kd3 Qf1+ 81. Kd2 Qf5 82. Qa7+ Kh6 83. Qe3+ g5 84.
+hxg5+ fxg5 85. Qe6+ Qxe6 86. Bxe6 g4 87. Ke3 Kg5 88. Bd7 h4 89. Bc8 h3 90. Bd7
+h2 91. Bc6 Kf5 92. Bg2 Ke5 93. Be4 Kd6 94. Kf4 Kc5 95. Ke5 Kb6 96. Kd6 Kb5 97.
+Bg2 Kb6 98. Bc6 1-0

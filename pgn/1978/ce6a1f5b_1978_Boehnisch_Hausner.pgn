@@ -1,0 +1,20 @@
+[Event "Leipzig ET17"]
+[Site "Leipzig"]
+[Date "1978.??.??"]
+[Round "2"]
+[White "Boehnisch, Manfred"]
+[Black "Hausner, Ivan"]
+[Result "1/2-1/2"]
+[ECO "B51"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky (Nimzovich-Rossolimo, Moscow) attack"]
+[HashCode "ce6a1f5b"]
+[Epoch "Rook"]
+[WhiteID "4611543"]
+[BlackID "300110"]
+[WhiteCountry "GER"]
+[BlackCountry "CZE"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Nd7 4. d4 Nf6 5. dxc5 Nxe4 6. c6 Qa5+ 7. Nc3 bxc6 8.
+Bxc6 Nxc3 9. Bd2 Nxd1 10. Bxa5 Rb8 11. Kxd1 Bb7 12. Ba4 e6 13. Re1 Be7 14. Re3
+Bd8 15. Bxd8 Kxd8 16. Ng5 1/2-1/2

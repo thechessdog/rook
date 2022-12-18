@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Erlandsson, C."]
+[Black "Ecenarro, J."]
+[Result "1-0"]
+[ECO "C51"]
+[Opening "Evans gambit"]
+[Variation "5...Be7"]
+[HashCode "f5dce40a"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 Bxb4 5. c3 Be7 6. Qb3 Nh6 7. d4 Na5 8.
+Qb5 Nxc4 9. Bxh6 gxh6 10. Qxc4 exd4 11. cxd4 d6 12. O-O Rg8 13. Rc1 c6 14.
+d5 Bd7 15. Nbd2 Bg5 16. Qd3 Bxd2 17. Nxd2 Qg5 18. g3 Qg6 19. Rab1 cxd5 20.
+Rxb7 1-0
+

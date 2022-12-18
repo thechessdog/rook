@@ -1,0 +1,18 @@
+[Event "corr ch10-DDR"]
+[Site "corr ch10-DDR"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Herschel, K."]
+[Black "Hahn, K."]
+[Result "1-0"]
+[ECO "B42"]
+[Opening "Sicilian"]
+[Variation "Kan, 5.Bd3"]
+[HashCode "a8f86936"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Nc6 6. Nxc6 dxc6 7. f4 Bc5
+8. Qe2 Ne7 9. Nd2 Ng6 10. g3 O-O 11. e5 Ne7 12. Ne4 Nf5 13. Nxc5 Qa5+ 14.
+Bd2 Qxc5 15. g4 Nd4 16. Qe4 g6 17. c3 Nb5 18. Be3 Qe7 19. h4 b6 20. O-O-O
+Bb7 21. f5 exf5 22. gxf5 Rfe8 23. fxg6 hxg6 24. Bc4 Kh8 25. Rd7 1-0
+

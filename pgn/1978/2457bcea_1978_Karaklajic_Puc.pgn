@@ -1,0 +1,19 @@
+[Event "Yugoslavia"]
+[Site "Yugoslavia"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Karaklajic, Nikola"]
+[Black "Puc, Stojan"]
+[Result "1-0"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...e6"]
+[HashCode "2457bcea"]
+[Epoch "Rook"]
+[WhiteCountry "SRB"]
+[BlackCountry "SVN"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 e6 5. Nc3 Nf6 6. Nf3 Nc6 7. cxd5 Nxd5 8.
+Bd3 Be7 9. O-O O-O 10. Re1 Nf6 11. Bg5 Nb4 12. Bb1 b6 13. a3 Nbd5 14. Qd3 g6
+15. Ne5 Bb7 16. Bh6 Re8 17. Ba2 Rc8 18. Qh3 Bf8 19. Bg5 Qc7 20. Rac1 Qb8 21.
+Bxd5 Nxd5 22. Nxd5 1-0

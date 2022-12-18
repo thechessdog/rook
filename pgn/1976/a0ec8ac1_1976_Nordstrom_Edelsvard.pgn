@@ -1,0 +1,18 @@
+[Event "corr SWE/K"]
+[Site "corr SWE/K"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Nordstrom, Eric"]
+[Black "Edelsvard, Olle"]
+[Result "1/2-1/2"]
+[ECO "B13"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack"]
+[HashCode "a0ec8ac1"]
+[Epoch "Rook"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 Nc6 6. Nf3 Bg4 7. cxd5 Nxd5
+8. Qb3 Bxf3 9. gxf3 Nb6 10. Be3 e6 11. d5 Nxd5 12. Qxb7 Ndb4 13. Bb5 Rc8
+14. a3 Nc2+ 15. Ke2 Qc7 16. Qxc6+ Qxc6 17. Bxc6+ Rxc6 18. Rac1 Nxe3 19.
+fxe3 Bd6 20. Nb5 Kd7 21. Nxd6 1/2-1/2
+

@@ -1,0 +1,18 @@
+[Event "Sweden"]
+[Site "Sweden"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Kaiszauri, Konstanty"]
+[Black "Svensson, Bengt"]
+[Result "0-1"]
+[ECO "B40"]
+[Opening "Sicilian defence"]
+[HashCode "f6869040"]
+[Epoch "Rook"]
+[WhiteID "1700510"]
+[BlackID "1722891"]
+[WhiteCountry "SWE"]
+[BlackCountry "SWE"]
+
+1. e4 c5 2. Nf3 e6 3. b3 d6 4. Bb5+ Nd7 5. O-O Nf6 6. Re1 Be7 7. c3 O-O 8. d4
+a6 9. Bd3 e5 10. dxe5 Nxe5 11. Nxe5 dxe5 12. c4 Qd4 13. Re2 Bg4 0-1

@@ -1,0 +1,17 @@
+[Event "Michigan"]
+[Site "Michigan"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Mausel"]
+[Black "Hamilton, Robert"]
+[Result "0-1"]
+[ECO "B10"]
+[Opening "Caro-Kann defence"]
+[HashCode "366f6fed"]
+[Epoch "Rook"]
+[BlackID "2600234"]
+[BlackCountry "CAN"]
+
+1. e4 c6 2. Nc3 d5 3. exd5 Nf6 4. dxc6 Nxc6 5. Bb5 Qc7 6. Qf3 Bg4 7. Bxc6+ bxc6
+8. Qe3 e6 9. h3 Bh5 10. Ne4 Nd5 11. Qd3 Rd8 12. Qb3 Qe5 13. f3 f5 14. d4 Qxd4
+15. Ng3 Bc5 16. Bg5 Qf2+ 17. Kd1 Nc3+ 18. Kc1 Rd1# 0-1

@@ -1,0 +1,18 @@
+[Event "Bundesliga 8081"]
+[Site "Duitsland tt"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Schulz, J."]
+[Black "Buchner, Gert"]
+[Result "1-0"]
+[ECO "B95"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6...e6"]
+[HashCode "cbbeb784"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. a4 Be7 8. Qd2
+Nc6 9. Be2 O-O 10. Be3 e5 11. Nb3 Be6 12. Rd1 h6 13. O-O Qc7 14. Nd5 Bxd5 15.
+exd5 Nb8 16. f4 Nbd7 17. fxe5 Nxe5 18. Rf4 Nfd7 19. Rb4 Rfc8 20. Nd4 Bf8 21. c3
+Nc5 22. Nf5 Qd7 23. Rf1 Nxa4 24. Bg4 Nxg4 25. Rxg4 Kh7 26. Nxh6 gxh6 27. Qc2+
+Kh8 28. Bd4+ 1-0

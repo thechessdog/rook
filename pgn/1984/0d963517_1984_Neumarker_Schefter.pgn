@@ -1,0 +1,18 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Neumarker"]
+[Black "Schefter"]
+[Result "1/2-1/2"]
+[ECO "C59"]
+[Opening "two knights defence"]
+[Variation "Steinitz variation"]
+[HashCode "0d963517"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 Na5 6. Bb5+ c6 7. dxc6
+bxc6 8. Be2 h6 9. Nh3 Bc5 10. O-O g5 11. Kh1 g4 12. Ng1 Ne4 13. Bxg4 Qd4
+14. Bxc8 Rxc8 15. Nh3 Ng5 16. c3 Qh4 17. b4 Nxh3 18. gxh3 Qxh3 19. bxc5 Rg8
+20. Rg1 Rxg1+ 21. Qxg1 Qf3+ 1/2-1/2
+

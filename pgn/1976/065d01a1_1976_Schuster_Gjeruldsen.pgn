@@ -1,0 +1,20 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Schuster, W."]
+[Black "Gjeruldsen, G."]
+[Result "1-0"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, poisoned pawn variation"]
+[HashCode "065d01a1"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Qg4 cxd4
+8. Bd3 Qc7 9. Ne2 dxc3 10. Qxg7 Rg8 11. Qxh7 Qxe5 12. Bf4 Qf6 13. h4 Rxg2
+14. Bg3 Nbc6 15. O-O-O Bd7 16. h5 O-O-O 17. h6 Rg8 18. Bb5 e5 19. Qd3 d4
+20. Nxc3 Bf5 21. Ne4 Qg6 22. Rde1 Bxe4 23. Rxe4 f5 24. Reh4 Qg5+ 25. Kb2 f4
+26. Qe4 Rxg3 27. fxg3 Qxg3 28. R1h3 Qg5 29. h7 Rh8 30. Bxc6 Nxc6 31. Rh6
+Ne7 32. Re6 1-0
+

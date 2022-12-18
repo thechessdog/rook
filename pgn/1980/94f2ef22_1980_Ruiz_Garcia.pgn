@@ -1,0 +1,19 @@
+[Event "Onix"]
+[Site "Onix"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Ruiz"]
+[Black "Garces, Napoleon"]
+[Result "1/2-1/2"]
+[ECO "E69"]
+[Opening "King's Indian"]
+[Variation "fianchetto, classical main line"]
+[HashCode "94f2ef22"]
+[Epoch "Rook"]
+[BlackID "3600130"]
+[BlackCountry "ECU"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. Nf3 O-O 5. g3 d6 6. Bg2 Nbd7 7. O-O e5 8. e4
+c6 9. h3 Qb6 10. Rb1 Qb4 11. Qb3 Qxb3 12. axb3 exd4 13. Nxd4 Nc5 14. Rd1 Re8
+15. f3 Nh5 16. Kf2 Bxd4+ 17. Rxd4 Nxb3 18. Rxd6 Be6 19. Bf1 Rad8 20. Rxd8 Rxd8
+21. Be3 Rd7 1/2-1/2

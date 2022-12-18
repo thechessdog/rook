@@ -1,0 +1,17 @@
+[Event "corr ch-GB"]
+[Site "corr ch-GB"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Watson, R."]
+[Black "Alcock, Michael"]
+[Result "1/2-1/2"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack"]
+[HashCode "397038ae"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 Nbd7 4. f3 c5 5. dxc5 Qa5 6. Bxf6 Nxf6 7. Qd4 e5
+8. Qxe5+ Be6 9. e4 O-O-O 10. O-O-O Bxc5 11. Bb5 a6 12. exd5 Nxd5 13. Nxd5
+Bxd5 14. c4 f6 15. Qf5+ Kb8 16. cxd5 Qxa2 17. Bd7 Rc8 18. Bxc8 Rxc8 19.
+Qxc8+ Kxc8 20. Ne2 Qc4+ 21. Nc3 Bb4 22. Kc2 Bxc3 23. bxc3 Qa2+ 1/2-1/2
+

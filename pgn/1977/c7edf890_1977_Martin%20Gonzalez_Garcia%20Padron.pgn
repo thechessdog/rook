@@ -1,0 +1,22 @@
+[Event "Las Palmas"]
+[Site "Las Palmas"]
+[Date "1977.01.01"]
+[Round "9"]
+[White "Martin Gonzalez, Angel"]
+[Black "Garcia Padron, Jose"]
+[Result "0-1"]
+[ECO "B84"]
+[Opening "Sicilian"]
+[Variation "Scheveningen, classical, Nd7 system"]
+[HashCode "c7edf890"]
+[Epoch "Rook"]
+[WhiteID "2200104"]
+[WhiteCountry "ESP"]
+[BlackID "2200120"]
+[BlackCountry "ESP"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be2 a6 7. O-O Nbd7 8. f4
+b5 9. Bf3 Bb7 10. a3 Qc7 11. g4 Nb6 12. g5 Nfd7 13. Kh1 Be7 14. f5 e5 15. Nde2
+Rc8 16. Ng3 Qd8 17. Nh5 Rg8 18. h4 Rc4 19. Be3 d5 20. exd5 Rxh4+ 21. Kg2 Nc4
+22. Bf2 Bc5 23. Qc1 Bxf2 24. Rxf2 g6 25. fxg6 Rxg6 26. Ne4 f5 27. Kg3 Rxe4 28.
+Ng7+ Rxg7 29. Bh5+ Kf8 0-1

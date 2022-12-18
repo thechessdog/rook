@@ -1,0 +1,17 @@
+[Event "corr Wcup3"]
+[Site "corr Wcup3"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Steinsapir"]
+[Black "Henri"]
+[Result "0-1"]
+[ECO "B26"]
+[Opening "Sicilian"]
+[Variation "closed, 6.Be3"]
+[HashCode "d202c683"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. Be3 e5 7. Qd2 Nge7 8.
+f4 Nd4 9. Nb1 exf4 10. Bxf4 Ne6 11. Bh6 Bxb2 12. c3 Bxa1 13. Ne2 b5 14. a3
+b4 0-1
+

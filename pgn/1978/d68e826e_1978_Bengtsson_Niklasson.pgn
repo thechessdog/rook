@@ -1,0 +1,19 @@
+[Event "Sweden"]
+[Site "Sweden"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Bengtsson, Bo"]
+[Black "Niklasson, Christer"]
+[Result "1/2-1/2"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, 6.Bd3"]
+[HashCode "d68e826e"]
+[Epoch "Rook"]
+[WhiteID "1700804"]
+[WhiteCountry "SWE"]
+[BlackID "1700316"]
+[BlackCountry "SWE"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 O-O 6. Bd3 Bg4 7. O-O Nc6 8. e5
+dxe5 9. dxe5 Nd5 10. h3 1/2-1/2

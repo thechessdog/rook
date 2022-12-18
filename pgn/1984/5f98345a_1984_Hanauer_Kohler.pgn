@@ -1,0 +1,18 @@
+[Event "corr FRG/M"]
+[Site "corr FRG/M"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Hanauer, A."]
+[Black "Kohler, P."]
+[Result "0-1"]
+[ECO "E63"]
+[Opening "King's Indian"]
+[Variation "fianchetto, Panno variation"]
+[HashCode "5f98345a"]
+[Epoch "Rook"]
+
+1. c4 Nf6 2. Nc3 g6 3. g3 Bg7 4. Bg2 O-O 5. Nf3 d6 6. d4 Nc6 7. O-O a6 8.
+d5 Na5 9. Nd2 c5 10. Qc2 Rb8 11. b3 b5 12. Bb2 bxc4 13. bxc4 Bh6 14. Ncb1
+Bd7 15. Bc3 Qc7 16. h3 e5 17. Na3 Rb4 18. Bxb4 cxb4 19. Nab1 e4 20. a3 b3
+21. Qb2 Nxd5 22. cxd5 Bg7 23. Rc1 Qb6 24. Nc3 e3 25. Ndb1 Nc4 0-1
+

@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Sanchez"]
+[Black "Ubillos"]
+[Result "0-1"]
+[ECO "B03"]
+[Opening "Alekhine's defence"]
+[Variation "four pawns attack"]
+[HashCode "00edbb2c"]
+[Epoch "Rook"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. c4 Nb6 5. f4 dxe5 6. fxe5 Bf5 7. Be3 e6 8.
+Nf3 c5 9. dxc5 Qxd1+ 10. Kxd1 Na4 11. Kc1 Nxc5 12. Nc3 Nc6 13. b3 a6 14.
+Be2 Rd8 15. Rd1 Nd3+ 0-1
+

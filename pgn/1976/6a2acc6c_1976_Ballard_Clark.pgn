@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Ballard"]
+[Black "Clark"]
+[Result "0-1"]
+[ECO "B47"]
+[Opening "Sicilian"]
+[Variation "Taimanov (Bastrikov) variation"]
+[HashCode "6a2acc6c"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e6 5. Nc3 Qc7 6. g3 a6 7. Bg2 Nf6 8.
+O-O Nxd4 9. Qxd4 Bc5 10. Bf4 d6 11. Qd2 Nd7 12. Rad1 Ne5 13. Na4 Nc4 14.
+Qc3 e5 15. Nxc5 dxc5 16. Qxc4 exf4 17. gxf4 Bd7 18. Rd5 b6 19. Re5+ Be6 20.
+Bh3 Qxe5 0-1
+

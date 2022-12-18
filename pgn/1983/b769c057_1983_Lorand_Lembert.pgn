@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Lorand"]
+[Black "Lembert"]
+[Result "1/2-1/2"]
+[ECO "B13"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik, Czerniak variation"]
+[HashCode "b769c057"]
+[Epoch "Rook"]
+
+1. e4 d5 2. exd5 Nf6 3. c4 c6 4. d4 cxd5 5. Nc3 Nc6 6. Bg5 Qa5 7. Bxf6 exf6
+8. cxd5 Bb4 9. dxc6 Bxc3+ 10. bxc3 Qxc3+ 11. Ke2 O-O 12. f3 Re8+ 13. Kf2
+Qe3+ 14. Kg3 Re4 15. h3 Qf4+ 1/2-1/2
+

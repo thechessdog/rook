@@ -1,0 +1,22 @@
+[Event "Brighton zt"]
+[Site "Brighton zt"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Chandler, Murray G"]
+[Black "Carton, Patrick"]
+[Result "0-1"]
+[ECO "B63"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...Be7"]
+[HashCode "7f90bbba"]
+[Epoch "Rook"]
+[BlackID "2500213"]
+[WhiteID "400050"]
+[WhiteCountry "NZL"]
+[BlackCountry "IRL"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd2 Be7 8.
+O-O-O O-O 9. Nb3 a6 10. Bxf6 gxf6 11. Be2 b5 12. Bh5 b4 13. Ne2 a5 14. Kb1 Qb6
+15. h4 a4 16. Nbc1 Ne5 17. Qh6 Kh8 18. f4 Nc4 19. Nd4 e5 20. Nf5 Bxf5 21. exf5
+Na3+ 22. bxa3 bxa3+ 23. Nb3 axb3 24. axb3 Qc5 25. Rh3 Rfc8 26. Rd2 a2+ 27. Ka1
+e4 28. c3 Bf8 0-1

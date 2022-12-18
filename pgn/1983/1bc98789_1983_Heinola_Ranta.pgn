@@ -1,0 +1,17 @@
+[Event "corr SM/ME"]
+[Site "corr SM/ME"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Heinola, Kari P."]
+[Black "Ranta, E."]
+[Result "1-0"]
+[ECO "B06"]
+[Opening "Robatsch (modern) defence"]
+[HashCode "1bc98789"]
+[Epoch "Rook"]
+[WhiteID "503495"]
+[WhiteCountry "FIN"]
+
+1. e4 g6 2. d4 Bg7 3. Na3 d6 4. c3 Nf6 5. Bd3 O-O 6. h3 c6 7. Nf3 d5 8. e5 Nfd7
+9. h4 Qe8 10. Ng5 Nxe5 11. dxe5 Bxe5 12. h5 f5 13. Nxh7 Rf7 14. hxg6 Rg7 15.
+Rh6 Rxg6 16. Qh5 Qf7 17. Rxg6+ 1-0

@@ -1,0 +1,24 @@
+[Event "IBM-B"]
+[Site "Amsterdam II"]
+[Date "1980.06.01"]
+[Round "1"]
+[White "Van Wijgerden, Cornelis"]
+[Black "Smejkal, Jan"]
+[Result "1-0"]
+[ECO "C77"]
+[Opening "Ruy Lopez"]
+[Variation "Morphy defence"]
+[HashCode "30e11c31"]
+[Epoch "Rook"]
+[WhiteID "1000144"]
+[WhiteCountry "NED"]
+[BlackID "300020"]
+[BlackCountry "CZE"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. d4 exd4 6. O-O Be7 7. Re1 b5 8. Bb3
+d6 9. Bd5 Nxd5 10. exd5 Ne5 11. Nxd4 O-O 12. a4 Bd7 13. Nc3 b4 14. Ne4 Re8 15.
+b3 Qc8 16. Bb2 Qb7 17. f4 Ng4 18. Nc6 Bf8 19. h3 f5 20. Ng5 Nf6 21. Qf3 h6 22.
+Bxf6 hxg5 23. Bxg5 Bxc6 24. dxc6 Qb6+ 25. Kh2 Qc5 26. Re2 d5 27. Re5 Rxe5 28.
+fxe5 Re8 29. Re1 g6 30. Bf6 Re6 31. Kh1 Qc3 32. Qxc3 bxc3 33. Rd1 Bg7 34. Bxg7
+Kxg7 35. Rxd5 Rxc6 36. Kg1 Kh6 37. Kf2 Kg5 38. Kf3 Kh5 39. Kf4 Kh6 40. Rd7 Rc5
+41. g4 1-0

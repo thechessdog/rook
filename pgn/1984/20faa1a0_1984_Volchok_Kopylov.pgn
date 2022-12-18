@@ -1,0 +1,17 @@
+[Event "corr ch16-SU"]
+[Site "corr ch16-SU"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Volchok, A."]
+[Black "Kopylov, Nikolai G"]
+[Result "1/2-1/2"]
+[ECO "B87"]
+[Opening "Sicilian"]
+[Variation "Sozin with ...a6 and ...b5"]
+[HashCode "20faa1a0"]
+[Epoch "Rook"]
+[BlackCountry "RUS"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 b5 8. O-O
+Bb7 9. Bxe6 fxe6 10. Nxe6 Qd7 11. Nd5 Kf7 12. Ng5+ Kg8 13. Nb6 Qc6 14. Nxa8 h6
+15. Nh3 Bxa8 16. f3 Nbd7 17. Re1 Kf7 18. b3 Be7 19. Bb2 Rc8 20. Re2 Bb7 1/2-1/2

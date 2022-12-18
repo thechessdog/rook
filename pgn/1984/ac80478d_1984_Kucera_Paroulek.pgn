@@ -1,0 +1,19 @@
+[Event "corr ch-CSSR"]
+[Site "corr ch-CSSR"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Kucera"]
+[Black "Paroulek, V."]
+[Result "1-0"]
+[ECO "C92"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Flohr-Zaitsev system (Lenzerheide variation)"]
+[HashCode "ac80478d"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8.
+c3 O-O 9. h3 Bb7 10. d4 Re8 11. Nbd2 Bf8 12. Bc2 g6 13. d5 Ne7 14. b3 Nh5
+15. c4 Nf4 16. g3 Nh5 17. Kh2 Ng7 18. Nf1 f5 19. Bg5 Qd7 20. Ne3 Bc8 21.
+Nh4 f4 22. Ng4 Kh8 23. gxf4 exf4 24. Qf3 Ng8 25. e5 Be7 26. Nf6 Qd8 27.
+Nxe8 Bxg5 28. Nxg7 1-0
+

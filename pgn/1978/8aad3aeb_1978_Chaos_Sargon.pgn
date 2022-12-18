@@ -1,0 +1,19 @@
+[Event "ACM Washington"]
+[Site "ACM Washington"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Chaos"]
+[Black "Sargon II"]
+[Result "1-0"]
+[ECO "D07"]
+[Opening "QGD"]
+[Variation "Chigorin defence, Janowski variation"]
+[HashCode "8aad3aeb"]
+[Epoch "Rook"]
+
+1. d4 d5 2. c4 Nc6 3. Nc3 dxc4 4. Nf3 Bg4 5. d5 Bxf3 6. exf3 Ne5 7. Bf4
+Nd3+ 8. Bxd3 cxd3 9. O-O Nf6 10. Qb3 c6 11. Qxb7 cxd5 12. Qc6+ Nd7 13. Nxd5
+Rc8 14. Nc7+ Rxc7 15. Bxc7 Qc8 16. Rfd1 g5 17. Rxd3 e6 18. Rad1 Bg7 19.
+Rxd7 O-O 20. Rd8 Bxb2 21. Rxc8 Rxc8 22. Qb7 Rxc7 23. Qxc7 Bg7 24. Rd8+ Bf8
+25. Qe7 h5 26. Rxf8+ Kg7 27. Rxf7+ Kg6 28. Qxe6# 1-0
+

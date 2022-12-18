@@ -1,0 +1,19 @@
+[Event "Berkeley"]
+[Site "Berkeley"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Sanchez, Gabriel"]
+[Black "Yaffe, A."]
+[Result "1-0"]
+[ECO "B88"]
+[Opening "Sicilian"]
+[Variation "Sozin, Leonhardt variation"]
+[HashCode "083f204d"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bc4 e6 7. O-O Be7
+8. Be3 O-O 9. Bb3 Bd7 10. f4 Nxd4 11. Bxd4 Bc6 12. Qe2 a6 13. f5 e5 14. Bf2
+b5 15. Rad1 Rc8 16. a3 Bb7 17. Rd3 Nd7 18. Bd5 Qc7 19. Bxb7 Qxb7 20. Nd5
+Nc5 21. Rh3 Bg5 22. f6 Ne6 23. Bh4 Bxh4 24. Rxh4 Rfe8 25. Qh5 Nf8 26. fxg7
+Kxg7 27. Nf6 Re6 28. Qh6+ 1-0
+

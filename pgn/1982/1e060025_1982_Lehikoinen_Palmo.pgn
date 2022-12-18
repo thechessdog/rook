@@ -1,0 +1,17 @@
+[Event "corr Heilimo mem"]
+[Site "corr Heilimo mem"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Lehikoinen"]
+[Black "Palmo"]
+[Result "1/2-1/2"]
+[ECO "E44"]
+[Opening "Nimzo-Indian"]
+[Variation "Fischer variation, 5.Ne2"]
+[HashCode "1e060025"]
+[Epoch "Rook"]
+
+1. c4 Nf6 2. Nc3 e6 3. d4 Bb4 4. e3 b6 5. Ne2 Ne4 6. Qc2 Bb7 7. a3 Bxc3+ 8.
+Nxc3 f5 9. d5 Nxc3 10. Qxc3 Qe7 11. Qe5 d6 12. Qxe6 Qxe6 13. dxe6 O-O 14.
+Rg1 Nc6 15. f4 1/2-1/2
+

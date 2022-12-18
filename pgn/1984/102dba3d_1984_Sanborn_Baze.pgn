@@ -1,0 +1,23 @@
+[Event "Plymouth ch-MI op"]
+[Site "Plymouth ch-MI op"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Sanborn, R."]
+[Black "Baze, L."]
+[Result "0-1"]
+[ECO "B44"]
+[Opening "Sicilian defence"]
+[HashCode "102dba3d"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Be2 Nf6 6. Nc3 Bb4 7. Bf3 d5
+8. exd5 Nxd5 9. Nxc6 bxc6 10. Bd2 Ba6 11. Ne2 O-O 12. O-O Bd6 13. b3 Qc7
+14. c4 Ne7 15. g3 Rad8 16. Qc2 c5 17. Bc3 Be5 18. Rad1 Bxc3 19. Nxc3 Nc6
+20. Ne2 Bb7 21. a3 Ne5 22. Be4 f5 23. f4 Bxe4 24. Qc3 Nf3+ 25. Kf2 Rxd1 26.
+Rxd1 Rd8 27. Rxd8+ Qxd8 28. h3 Qd2 29. b4 Bd3 30. Qxd2 Nxd2 31. bxc5 Ne4+
+32. Ke3 Bxe2 33. Kxe2 Nxc5 34. Ke3 Kf7 35. Kd4 Nd7 36. c5 Ke7 37. c6 Nb6
+38. Kc5 Nc8 39. a4 Kd8 40. Kd4 Kc7 41. Ke5 Kxc6 42. Kxe6 g6 43. Kf6 Kd6 44.
+Kg7 Ke6 45. Kxh7 Kf6 46. g4 fxg4 47. hxg4 a5 48. g5+ Kf5 49. Kg7 Nb6 50.
+Kf7 Nxa4 51. Ke7 Nb2 52. Kf7 a4 53. Kg7 a3 54. Kh6 a2 55. Kg7 a1=Q 56. Kh6
+Nc4 57. Kh7 Nd6 58. Kh6 Qh8# 0-1
+

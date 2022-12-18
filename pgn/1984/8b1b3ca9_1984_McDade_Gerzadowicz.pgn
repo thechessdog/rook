@@ -1,0 +1,20 @@
+[Event "corr Mesna"]
+[Site "corr Mesna"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "McDade"]
+[Black "Gerzadowicz"]
+[Result "0-1"]
+[ECO "A88"]
+[Opening "Dutch"]
+[Variation "Leningrad, main variation with c6"]
+[HashCode "8b1b3ca9"]
+[Epoch "Rook"]
+
+1. c4 g6 2. Nc3 Bg7 3. g3 f5 4. Bg2 Nf6 5. d4 O-O 6. Nf3 d6 7. O-O c6 8. d5
+e5 9. dxe6 Bxe6 10. Qd3 Na6 11. Bf4 Ne4 12. Nxe4 fxe4 13. Qxe4 Nc5 14. Qc2
+Bf5 15. Qd2 Ne4 16. Qc1 Qb6 17. Rb1 g5 18. Be3 c5 19. b3 Rae8 20. Ne1 Nc3
+21. Rb2 Nd1 22. Qxd1 Bxb2 23. Bd5+ Be6 24. Bxg5 Rf5 25. Bxe6+ Rxe6 26. Qd2
+Qc6 27. Qxb2 Rxg5 28. Nd3 Qe4 29. Qd2 Qh4 30. Qf4 Qh5 31. e4 Qg6 32. f3 Qg7
+33. Qe3 Rxg3+ 34. Kh1 Rh6 35. Nf4 Rxh2+ 36. Kxh2 Qg5 37. Nd5 Qh4# 0-1
+

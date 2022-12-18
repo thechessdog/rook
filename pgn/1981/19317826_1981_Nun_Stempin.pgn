@@ -1,0 +1,26 @@
+[Event "DDR-POL-CSR U26"]
+[Site "Zinnowitz"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Nun, Jiri"]
+[Black "Stempin, Pawel"]
+[Result "1-0"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "classical attack, Jaenisch variation"]
+[HashCode "19317826"]
+[Epoch "Rook"]
+[WhiteID "300179"]
+[WhiteCountry "CZE"]
+[BlackID "1100068"]
+[BlackCountry "POL"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Be7 7. O-O Nc6 8. c4
+Nf6 9. Nc3 O-O 10. a3 dxc4 11. Bxc4 Bg4 12. Be3 Bxf3 13. Qxf3 Nxd4 14. Qxb7 Nc2
+15. Rad1 Qb8 16. Qxb8 Raxb8 17. Bc1 c5 18. Nd5 Nxd5 19. Rxd5 Rbd8 20. Rfd1 Nd4
+21. Rxd8 Rxd8 22. Kf1 a5 23. a4 Rb8 24. Rd3 Bd6 25. b3 Kf8 26. Bd2 Ra8 27. h4
+h5 28. Bc3 Be5 29. g3 Ra7 30. Kg2 Bf6 31. f3 g6 32. Kh3 Be5 33. Kg2 Bf6 34. Bd2
+Nf5 35. Bf4 Bd4 36. Kh3 Kg7 37. g4 Ne7 38. Rd2 hxg4+ 39. fxg4 Rd7 40. Re2 Ra7
+41. h5 gxh5 42. gxh5 Kf6 43. Kg4 Kg7 44. Kf3 Ng8 45. h6+ Kf8 46. Bd6+ Ne7 47.
+h7 Rb7 48. Bxc5 Bf6 49. Rg2 Bg7 50. Rg4 Rc7 51. Rf4 f6 52. Rd4 Ke8 53. Rg4 Rxc5
+54. Rxg7 1-0

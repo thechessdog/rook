@@ -1,0 +1,19 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Melzer"]
+[Black "Rosenhahn"]
+[Result "0-1"]
+[ECO "C64"]
+[Opening "Ruy Lopez"]
+[Variation "classical defence, Benelux variation  "]
+[HashCode "70abd219"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. c3 Nf6 5. O-O O-O 6. d4 Bb6 7. Bg5 h6 8.
+Bh4 d6 9. Bxc6 bxc6 10. dxe5 dxe5 11. Nxe5 Ba6 12. Qxd8 Rfxd8 13. Re1 g5
+14. Bg3 Nxe4 15. Na3 Nxg3 16. hxg3 Rd2 17. Ng4 h5 18. Ne3 Rxb2 19. c4 Bc5
+20. Nac2 Bxc4 21. Nxc4 Rxc2 22. Ne3 Bxe3 23. Rxe3 Rd8 24. Re5 Rd5 25. Re7
+Rdd2 26. Rxc7 Rxf2 27. Rxa7 Rxg2+ 28. Kh1 Rh2+ 0-1
+

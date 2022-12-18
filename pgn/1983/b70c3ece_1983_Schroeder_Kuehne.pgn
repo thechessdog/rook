@@ -1,0 +1,19 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Schroeder"]
+[Black "Kuehne"]
+[Result "1-0"]
+[ECO "D97"]
+[Opening "Gruenfeld"]
+[Variation "Russian, Byrne (Simagin) variation"]
+[HashCode "b70c3ece"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Qb3 dxc4 6. Qxc4 O-O 7. e4 Nc6
+8. Be2 Bg4 9. d5 Na5 10. Qb4 c6 11. e5 Bxf3 12. exf6 Bxg2 13. fxg7 Re8 14.
+Rg1 Bxd5 15. Qh4 e5 16. Bg5 Qb6 17. Nxd5 cxd5 18. Rg3 Qxb2 19. Rd1 Nc6 20.
+Rb3 Qxa2 21. Rh3 h5 22. Bxh5 Qc4 23. Bg4 Qe4+ 24. Re3 Qb4+ 25. Kf1 f5 26.
+Qh8+ Kf7 27. g8=Q+ Rxg8 28. Qf6+ Ke8 29. Qe6+ 1-0
+

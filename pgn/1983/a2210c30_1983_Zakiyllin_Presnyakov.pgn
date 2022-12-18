@@ -1,0 +1,18 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Zakiyllin"]
+[Black "Presnyakov"]
+[Result "0-1"]
+[ECO "C57"]
+[Opening "two knights defence"]
+[Variation "Wilkes Barre (Traxler) variation"]
+[HashCode "a2210c30"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 Bc5 5. Nxf7 Bxf2+ 6. Kf1 Qe7 7. Nxh8
+d5 8. exd5 Nd4 9. Be2 Bh4 10. c3 Nxe2 11. Qxe2 Bg4 12. Qb5+ Nd7 13. g3
+O-O-O 14. Ke1 Nc5 15. Qc4 e4 16. Kf1 Qf6+ 17. Kg1 Nd3 18. Qd4 Qxd4+ 19.
+cxd4 Bh3 0-1
+

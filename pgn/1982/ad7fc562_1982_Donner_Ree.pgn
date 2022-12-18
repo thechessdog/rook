@@ -1,0 +1,21 @@
+[Event "Amsterdam"]
+[Site "Amsterdam"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Donner, Jan Hein"]
+[Black "Ree, Hans"]
+[Result "0-1"]
+[ECO "A64"]
+[Opening "Benoni"]
+[Variation "fianchetto, 11...Re8"]
+[HashCode "ad7fc562"]
+[Epoch "Rook"]
+[WhiteCountry "NLD"]
+[BlackID "1000098"]
+[BlackCountry "NED"]
+
+1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 c5 5. d5 O-O 6. Nc3 d6 7. Nf3 e6 8. O-O
+exd5 9. cxd5 Re8 10. Nd2 a6 11. a4 Nbd7 12. h3 Rb8 13. a5 b5 14. axb6 Nxb6 15.
+e4 Nfd7 16. f4 Qc7 17. Re1 c4 18. Na4 Nxa4 19. Rxa4 Nb6 20. Ra2 f5 21. Kh2 Bb7
+22. Nf1 fxe4 23. Rxe4 Rxe4 24. Bxe4 Re8 25. Bg2 Qc5 26. b4 cxb3 27. Re2 Rxe2
+28. Qxe2 Bxd5 29. Bb2 Bxb2 0-1

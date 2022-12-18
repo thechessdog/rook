@@ -1,0 +1,23 @@
+[Event "Surakarta/Denpasar"]
+[Site "Surakarta"]
+[Date "1982.02.01"]
+[Round "20"]
+[White "Handoko, Edhi"]
+[Black "Gheorghiu, Florin"]
+[Result "1-0"]
+[ECO "B92"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Opovcensky variation"]
+[HashCode "43edf705"]
+[Epoch "Rook"]
+[BlackID "1200011"]
+[BlackCountry "ROU"]
+[WhiteCountry "IDN"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8. O-O
+Be6 9. f4 Qc7 10. Kh1 Nbd7 11. a4 O-O 12. Nd2 exf4 13. Nf3 Nc5 14. Bd3 Nxd3 15.
+cxd3 d5 16. e5 Nh5 17. d4 f6 18. Re1 Rae8 19. Bd2 g6 20. Rc1 Qb6 21. a5 Qxa5
+22. exf6 Bxf6 23. Qb3 Bf7 24. Rxe8 Rxe8 25. Qxb7 Re7 26. Qa8+ Re8 27. Qc6 Bg7
+28. Ng5 Rf8 29. Nxf7 Rxf7 30. Ne4 Qb5 31. Qc8+ Bf8 32. Nd6 Qe2 33. Nxf7 Kxf7
+34. Qd7+ Kf6 35. Ba5 Kg5 36. Qxd5+ Kh6 37. Bd8 Be7 38. Bxe7 Qxe7 39. Qc5 Qe2
+40. Qf8+ Kg5 41. Rc5+ Kg4 42. Qc8+ 1-0

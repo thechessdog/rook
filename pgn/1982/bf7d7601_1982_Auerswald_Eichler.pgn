@@ -1,0 +1,18 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Auerswald"]
+[Black "Eichler"]
+[Result "0-1"]
+[ECO "B42"]
+[Opening "Sicilian"]
+[Variation "Kan, Swiss cheese variation"]
+[HashCode "bf7d7601"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 g6 6. Be3 Bg7 7. Nc3 Ne7 8.
+f4 d6 9. f5 Nbc6 10. Nxc6 bxc6 11. fxg6 hxg6 12. Qf3 Qa5 13. O-O f5 14.
+exf5 gxf5 15. Rad1 Bb7 16. Rfe1 O-O-O 17. Bc4 d5 18. Bb3 Qc7 19. Bf4 e5 20.
+Qg3 Ng6 21. Qxg6 exf4 22. h3 Kb8 23. Rd3 Rdg8 24. Qxf5 Bc8 0-1
+

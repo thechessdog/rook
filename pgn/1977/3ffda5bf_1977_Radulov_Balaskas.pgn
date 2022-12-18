@@ -1,0 +1,21 @@
+[Event "Balkaniad tt"]
+[Site "Albena"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Radulov, Ivan"]
+[Black "Balaskas, Panayotis"]
+[Result "1-0"]
+[ECO "B81"]
+[Opening "Sicilian"]
+[Variation "Scheveningen, Keres attack"]
+[HashCode "3ffda5bf"]
+[Epoch "Rook"]
+[WhiteID "2900300"]
+[WhiteCountry "FID"]
+[BlackID "4201302"]
+[BlackCountry "GRE"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. g4 h6 7. h4 Be7 8. Rg1
+d5 9. f3 a6 10. g5 hxg5 11. hxg5 Nh7 12. exd5 exd5 13. Qe2 Nc6 14. Be3 Kf8 15.
+f4 Qd6 16. O-O-O Be6 17. Bg2 Rc8 18. Kb1 Na5 19. Nb3 Rxc3 20. bxc3 Nc4 21. Bc5
+Qc7 22. Bxe7+ Qxe7 23. Bxd5 1-0

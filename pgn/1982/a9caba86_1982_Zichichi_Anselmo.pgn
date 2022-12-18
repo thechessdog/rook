@@ -1,0 +1,18 @@
+[Event "Nice"]
+[Site "Nice"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Zichichi"]
+[Black "Anselmo"]
+[Result "1-0"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "4.Nf3"]
+[HashCode "a9caba86"]
+[Epoch "Rook"]
+
+1. Nf3 d5 2. d4 Nf6 3. c4 e6 4. Nc3 Be7 5. cxd5 exd5 6. Bf4 O-O 7. e3 Bf5
+8. Bd3 Bxd3 9. Qxd3 c6 10. h3 b5 11. O-O Nbd7 12. Rac1 Rc8 13. Nd2 Ne8 14.
+Rc2 f5 15. Rfc1 Nb6 16. Ne2 Qd7 17. Nf3 Bf6 18. Be5 Be7 19. Bg3 Bf6 20. Ne5
+Bxe5 21. dxe5 Nc7 22. Rxc6 Nc4 23. Nd4 Nxb2 24. Qa3 Na4 25. Qd6 1-0
+

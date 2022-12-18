@@ -1,0 +1,21 @@
+[Event "Trois-Rivieres"]
+[Site "Trois-Rivieres"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Morneau, Maurice"]
+[Black "Vigeant, Francois"]
+[Result "1/2-1/2"]
+[ECO "C26"]
+[Opening "Vienna"]
+[Variation "Falkbeer variation"]
+[HashCode "3bd88d4d"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nc3 Nf6 3. f4 exf4 4. e5 Ng8 5. Nf3 d6 6. d4 dxe5 7. dxe5 Qxd1+
+8. Nxd1 Nc6 9. Bxf4 Be6 10. Bb5 Ne7 11. Nd4 Kd7 12. Nc3 a6 13. Bxc6+ Nxc6
+14. Rd1 Nxd4 15. Rxd4+ Kc6 16. Ne4 Bc5 17. Nxc5 Kxc5 18. Be3 Kc6 19. Ke2
+Rad8 20. Rhd1 Rxd4 21. Rxd4 Re8 22. g4 b5 23. g5 Bc4+ 24. Kf3 Rxe5 25. b3
+Bd5+ 26. Kf2 Re4 27. h4 b4 28. Ke2 f5 29. gxf6 gxf6 30. Kd3 Rxd4+ 31. Bxd4
+f5 32. Kd2 f4 33. Kc1 f3 34. Kb2 a5 35. a3 Kd6 36. c3 c5 37. Bf2 bxc3+ 38.
+Kxc3 Bc6 39. Kc4 1/2-1/2
+

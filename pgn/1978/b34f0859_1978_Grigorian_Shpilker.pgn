@@ -1,0 +1,22 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Grigorian, Karen Ashotovich"]
+[Black "Shpilker, Boris"]
+[Result "0-1"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, 6.Bd3"]
+[HashCode "b34f0859"]
+[Epoch "Rook"]
+[BlackID "4104625"]
+[BlackCountry "RUS"]
+[WhiteCountry "ARM"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. f4 Nf6 5. Nf3 O-O 6. Bd3 Nc6 7. e5 dxe5 8. dxe5
+Nd5 9. Bd2 Bg4 10. Be4 e6 11. h3 Bxf3 12. Qxf3 Nd4 13. Qf2 c5 14. O-O f6 15.
+exf6 Nxf6 16. Bd3 Nh5 17. Qe1 Qc7 18. Qh4 Rad8 19. Be3 c4 20. Be4 Qb6 21. Nd1
+Ng3 22. Qxg3 Ne2+ 23. Kf2 Nxg3 24. Bxb6 Nxe4+ 25. Ke3 Ng3 26. Bxd8 Nxf1+ 27.
+Ke2 Rxf4 28. Bc7 Ng3+ 29. Kd2 e5 30. a4 Bh6 31. Kc3 Ne2+ 32. Kb4 Bf8+ 33. Ka5
+Rf1 34. Bb8 e4 35. g4 Nd4 0-1

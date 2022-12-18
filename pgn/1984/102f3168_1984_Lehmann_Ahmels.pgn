@@ -1,0 +1,21 @@
+[Event "BL2-N 8384"]
+[Site "BL2-N 8384"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Lehmann, Heinz Dr"]
+[Black "Ahmels, Volker"]
+[Result "1-0"]
+[ECO "D58"]
+[Opening "QGD"]
+[Variation "Tartakower (Makagonov-Bondarevsky) system"]
+[HashCode "102f3168"]
+[Epoch "Rook"]
+[BlackID "4604652"]
+[BlackCountry "GER"]
+[WhiteCountry "DEU"]
+
+1. d4 Nf6 2. Nf3 d5 3. c4 e6 4. Nc3 Be7 5. Bg5 O-O 6. e3 h6 7. Bh4 b6 8. Bd3
+Bb7 9. O-O Nbd7 10. Qe2 c5 11. Rad1 Ne4 12. Bg3 cxd4 13. exd4 Nxg3 14. hxg3
+dxc4 15. Bxc4 Nf6 16. Ne5 a6 17. Rfe1 Qc7 18. Bb3 Bd6 19. Rc1 Bxe5 20. dxe5 Nd7
+21. Nb5 Qb8 22. Nc7 Ra7 23. Nxe6 Re8 24. Qg4 fxe6 25. Bxe6+ Kh8 26. Bxd7 Rxe5
+27. f4 1-0

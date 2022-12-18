@@ -1,0 +1,19 @@
+[Event "corr FNPCC"]
+[Site "corr FNPCC"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Davis"]
+[Black "Carlson, Curtis"]
+[Result "0-1"]
+[ECO "B96"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7.f4"]
+[HashCode "cc311c82"]
+[Epoch "Rook"]
+[BlackID "2002868"]
+[BlackCountry "USA"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Nbd7 8. Qf3
+Qc7 9. O-O-O b5 10. Bxb5 axb5 11. Ndxb5 Qb6 12. e5 Bb7 13. Qe2 dxe5 14. Qc4 Rc8
+15. Qa4 Bc6 16. fxe5 Nd5 17. Qa7 Bc5 18. Qxb6 N7xb6 19. Na7 Rc7 20. Nxc6 Rxc6
+21. Nxd5 Nxd5 22. Rhe1 h6 23. Bd2 Ke7 24. a3 Rhc8 25. c3 Nb6 0-1

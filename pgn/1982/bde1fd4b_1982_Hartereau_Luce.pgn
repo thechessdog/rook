@@ -1,0 +1,20 @@
+[Event "France ch jr"]
+[Site "France ch jr"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Hartereau, Philippe"]
+[Black "Luce, Sebastien"]
+[Result "0-1"]
+[ECO "A96"]
+[Opening "Dutch"]
+[Variation "classical variation"]
+[HashCode "bde1fd4b"]
+[Epoch "Rook"]
+[WhiteID "603066"]
+[WhiteCountry "FRA"]
+[BlackID "600156"]
+[BlackCountry "FRA"]
+
+1. c4 f5 2. Nf3 Nf6 3. g3 d6 4. d4 e6 5. Bg2 Be7 6. O-O O-O 7. b3 Qe8 8. Nbd2
+Nc6 9. Bb2 Bd8 10. Re1 e5 11. dxe5 dxe5 12. e4 f4 13. c5 Bg4 14. Nc4 fxg3 15.
+hxg3 Nd7 16. Qd3 Qf7 17. Rad1 Be7 18. Qe3 Qh5 19. b4 Rxf3 0-1

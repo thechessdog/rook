@@ -1,0 +1,17 @@
+[Event "corr NBC"]
+[Site "corr NBC"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "De Boer, Gert-Jan"]
+[Black "Litjens"]
+[Result "1-0"]
+[ECO "B19"]
+[Opening "Caro-Kann"]
+[Variation "classical, 7...Nd7"]
+[HashCode "06e0ea39"]
+[Epoch "Rook"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6 7. Nf3 Nd7 8. Bd3
+Bxd3 9. Qxd3 Ngf6 10. Be3 e6 11. O-O-O Be7 12. Ne2 Qa5 13. a3 O-O 14. Bd2 Qc7
+15. Ng5 c5 16. Nf4 Rfc8 17. Nxf7 Nf8 18. Ng5 hxg5 19. hxg5 Nd5 20. Nxe6 Qd7 21.
+Nxf8 Bxf8 22. g6 cxd4 23. Rh5 Bb4 24. Bxb4 1-0

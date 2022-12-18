@@ -1,0 +1,20 @@
+[Event "Czestochowa"]
+[Site "Czestochowa"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Szymczak, Zbigniew"]
+[Black "Flis, Jacek"]
+[Result "1/2-1/2"]
+[ECO "E92"]
+[Opening "King's Indian"]
+[Variation "Gligoric-Taimanov system"]
+[HashCode "1f672973"]
+[Epoch "Rook"]
+[WhiteID "1100424"]
+[WhiteCountry "POL"]
+[BlackID "1100351"]
+[BlackCountry "POL"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. Be3 Nbd7 8. O-O
+c6 9. Qc2 Re8 10. d5 c5 11. Ne1 Rf8 12. Rb1 Ne8 13. b4 b6 14. bxc5 dxc5 15. a4
+f5 16. f3 f4 17. Bd2 h5 1/2-1/2

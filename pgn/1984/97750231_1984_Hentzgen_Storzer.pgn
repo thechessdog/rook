@@ -1,0 +1,19 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Hentzgen, K."]
+[Black "Storzer"]
+[Result "1-0"]
+[ECO "C59"]
+[Opening "two knights defence"]
+[Variation "Steinitz variation"]
+[HashCode "97750231"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 Na5 6. Bb5+ c6 7. dxc6
+bxc6 8. Be2 h6 9. Nh3 Bd6 10. d3 O-O 11. Nc3 Qc7 12. Bf3 Bxh3 13. gxh3 e4
+14. Nxe4 Nxe4 15. Bxe4 f5 16. Bf3 Rfe8+ 17. Kf1 Re6 18. Bd2 Bf4 19. Qc1
+Bxd2 20. Qxd2 Rae8 21. Bh5 R8e7 22. Kg2 Qe5 23. Rhg1 Qd5+ 24. Kf1 Nc4 25.
+Qf4 Re4 26. dxe4 Nd2+ 27. Kg2 Rxe4 28. Bf3 1-0
+

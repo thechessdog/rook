@@ -1,0 +1,18 @@
+[Event "corr Argentina"]
+[Site "corr Argentina"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Fagerstrom, R."]
+[Black "Morgado, Juan Sebastian"]
+[Result "1/2-1/2"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "classical attack, Chigorin variation"]
+[HashCode "053905e1"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 Be7 6. Bd3 d5 7. O-O Nc6 8.
+Re1 Bg4 9. c4 Nf6 10. cxd5 Nxd5 11. Nc3 O-O 12. h3 Be6 13. Be4 Bf6 14. Nxd5
+Bxd5 15. Bxd5 Qxd5 16. Be3 Rad8 17. Qa4 a6 18. Rac1 Be7 19. Ne5 Nxd4 20. Bxd4
+Qxd4 21. Qxd4 Rxd4 22. Nc6 bxc6 23. Rxe7 Rd2 24. Rxc6 Rxb2 25. Rxa6 Rb7 26. Rc6
+Ra7 27. Rcxc7 1/2-1/2

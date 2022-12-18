@@ -1,0 +1,19 @@
+[Event "Banja Luka"]
+[Site "Banja Luka"]
+[Date "1976.??.??"]
+[Round "1"]
+[White "Chekhov, Valery A"]
+[Black "Bagirov, Vladimir"]
+[Result "1/2-1/2"]
+[ECO "B19"]
+[Opening "Caro-Kann"]
+[Variation "classical, Spassky variation"]
+[HashCode "1722ec4f"]
+[Epoch "Rook"]
+[WhiteID "4100859"]
+[WhiteCountry "RUS"]
+[BlackCountry "RUS"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6 7. Nf3 Nd7 8. h5
+Bh7 9. Bd3 Bxd3 10. Qxd3 Ngf6 11. Bd2 e6 12. Qe2 Qc7 13. O-O-O O-O-O 14. Ne5
+Nb6 15. Ba5 Rd5 16. Bxb6 axb6 17. c4 1/2-1/2

@@ -1,0 +1,24 @@
+[Event "Winterthur"]
+[Site "Winterthur"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Castagna, Renzo"]
+[Black "Maier, Christian"]
+[Result "0-1"]
+[ECO "A70"]
+[Opening "Benoni"]
+[Variation "classical with e4 and Nf3"]
+[HashCode "20df044a"]
+[Epoch "Rook"]
+[WhiteID "1300830"]
+[BlackID "4601955"]
+[WhiteCountry "SUI"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. e4 a6 8. a4 Bg4
+9. Be2 Bxf3 10. Bxf3 Bg7 11. O-O O-O 12. Bf4 Qe7 13. h3 Nfd7 14. Qc2 Ne5 15.
+Be2 Nbd7 16. Bg3 g5 17. Ra3 Ng6 18. Rb3 Rab8 19. Bg4 Nde5 20. Nd1 b5 21. axb5
+axb5 22. Ne3 Nf4 23. Nf5 Qf6 24. Ra1 Rb6 25. Bxf4 gxf4 26. Be2 b4 27. Ra7 Re8
+28. Qd2 Ng6 29. Bf3 Bf8 30. Qe2 Nh4 31. Nxh4 Qxh4 32. Bh5 Re7 33. Ra8 f5 34.
+Bf3 Kf7 35. g3 Qxh3 36. gxf4 Kg8 37. e5 Rg7+ 38. Bg4 Rxg4+ 39. Rg3 Rxg3+ 40.
+fxg3 Qxg3+ 41. Kh1 dxe5 0-1

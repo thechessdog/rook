@@ -1,0 +1,16 @@
+[Event "Siauliai"]
+[Site "Siauliai"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Dainauskas"]
+[Black "Blecher"]
+[Result "1-0"]
+[ECO "B10"]
+[Opening "Caro-Kann"]
+[Variation "Goldman (Spielmann) variation"]
+[HashCode "a067dd64"]
+[Epoch "Rook"]
+
+1. e4 c6 2. Nc3 d5 3. Qf3 d4 4. Bc4 Nf6 5. e5 dxc3 6. exf6 g6 7. dxc3 Nd7
+8. Bxf7+ 1-0
+

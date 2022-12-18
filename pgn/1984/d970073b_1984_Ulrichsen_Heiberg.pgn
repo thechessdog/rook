@@ -1,0 +1,20 @@
+[Event "NOR-ch"]
+[Site "Oslo"]
+[Date "1984.??.??"]
+[Round "1"]
+[White "Ulrichsen, Jarl H"]
+[Black "Heiberg, T."]
+[Result "0-1"]
+[ECO "A46"]
+[Opening "Queen's pawn"]
+[Variation "Torre attack"]
+[HashCode "d970073b"]
+[Epoch "Rook"]
+[WhiteID "1500350"]
+[WhiteCountry "NOR"]
+
+1. d4 Nf6 2. Nf3 e6 3. Bg5 Be7 4. Nbd2 d5 5. e3 c5 6. c3 Qb6 7. Rb1 Bd7 8. Bd3
+Bb5 9. Bc2 a5 10. Ne5 a4 11. Nd3 Nbd7 12. a3 O-O 13. O-O Bd6 14. Re1 Ne4 15.
+Nxe4 dxe4 16. Nxc5 Nxc5 17. dxc5 Qxc5 18. Bxe4 Bxh2+ 19. Kxh2 Qe5+ 20. Kg1 Qxe4
+21. Qd4 Qg6 22. Bh4 Bc6 23. Bg3 Ra5 24. e4 Rg5 25. Rbd1 h5 26. Kf1 Rg4 27. Qb6
+h4 28. Bd6 Rxg2 29. Bxf8 Qg4 0-1

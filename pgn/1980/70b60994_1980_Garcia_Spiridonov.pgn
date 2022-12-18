@@ -1,0 +1,20 @@
+[Event "Budapest"]
+[Site "Budapest"]
+[Date "1980.??.??"]
+[Round "?"]
+[White "Garcia Martinez, Silvino"]
+[Black "Spiridonov, Nikola"]
+[Result "1/2-1/2"]
+[ECO "E41"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5"]
+[HashCode "70b60994"]
+[Epoch "Rook"]
+[BlackID "2900238"]
+[BlackCountry "FID"]
+[WhiteID "3500179"]
+[WhiteCountry "CUB"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 Nc6 6. Ne2 cxd4 7. exd4 d5 8. O-O
+dxc4 9. Bxc4 O-O 10. Be3 Na5 11. Bd3 b6 12. a3 Be7 13. Nf4 Bb7 14. b4 Rc8 15.
+Nb5 Nc6 16. Rc1 1/2-1/2

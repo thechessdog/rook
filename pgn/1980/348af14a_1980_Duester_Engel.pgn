@@ -1,0 +1,23 @@
+[Event "Mosbach Elo"]
+[Site "Mosbach Elo"]
+[Date "1980.01.01"]
+[Round "10"]
+[White "Duester, Thomas"]
+[Black "Engel, Berthold"]
+[Result "0-1"]
+[ECO "B00"]
+[Opening "KP"]
+[Variation "Nimzovich defence"]
+[HashCode "348af14a"]
+[Epoch "Rook"]
+[BlackID "4604717"]
+[BlackCountry "GER"]
+
+1. e4 Nc6 2. Nf3 d6 3. d4 Nf6 4. Nc3 g6 5. Be2 Bg7 6. O-O O-O 7. d5 Nb8 8. h3
+e6 9. dxe6 Bxe6 10. Bf4 Nc6 11. Re1 Nd7 12. Qd2 Nde5 13. Nh2 Qd7 14. Bh6 f5 15.
+Bxg7 Qxg7 16. exf5 gxf5 17. f4 Ng6 18. Bf1 Bf7 19. Nf3 Rae8 20. Bb5 Kh8 21. Ba4
+Qf6 22. Bb3 Bxb3 23. axb3 a6 24. Nd5 Qg7 25. c3 Nd8 26. Re3 c6 27. Nb6 d5 28.
+Rae1 Re4 29. Ng5 Rxf4 30. Re8 h6 31. Rxf8+ Qxf8 32. Ne6 Nxe6 33. Rxe6 Qc5+ 34.
+Kh2 Qxb6 35. Rxg6 Qf2 36. Qd1 Re4 37. Qc1 f4 38. Qd1 Re1 39. Qd4+ Qxd4 40. cxd4
+Re4 41. Rxh6+ Kg8 42. Rd6 Rxd4 43. Rd8+ Kf7 44. Rd7+ Ke6 45. Rxb7 Rd2 46. h4 f3
+47. Rb8 Rxg2+ 48. Kh3 Rxb2 0-1

@@ -1,0 +1,17 @@
+[Event "corr ol9"]
+[Site "corr ol9"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Mollekens, R."]
+[Black "Mende, E."]
+[Result "1-0"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (without ...d6)"]
+[HashCode "d1adf3fe"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 e6 4. Bxc6 bxc6 5. e5 d5 6. exd6 Bxd6 7. O-O Nf6
+8. d3 Qc7 9. Nbd2 O-O 10. Nc4 e5 11. Re1 Re8 12. Bd2 Nd5 13. Ng5 f6 14.
+Nxd6 Qxd6 15. Qh5 Bf5 16. Qf7+ Kh8 17. Qxe8+ 1-0
+

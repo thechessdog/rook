@@ -1,0 +1,22 @@
+[Event "Sweden"]
+[Site "Sweden"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Kinnmark, Ove"]
+[Black "Kaiszauri, Konstanty"]
+[Result "1-0"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical system, 5.Be2"]
+[HashCode "a694e269"]
+[Epoch "Rook"]
+[BlackID "1700510"]
+[BlackCountry "SWE"]
+[WhiteCountry "SWE"]
+
+1. Nf3 d6 2. d4 g6 3. e4 Nf6 4. Nc3 Bg7 5. Be2 O-O 6. O-O c6 7. a4 Nbd7 8. a5
+e5 9. d5 c5 10. a6 bxa6 11. Bxa6 Bxa6 12. Rxa6 Nb8 13. Ra4 Nfd7 14. Qe2 h6 15.
+Bd2 Nb6 16. Ra2 f5 17. Nb5 Qd7 18. Ba5 fxe4 19. Nd2 Nxd5 20. Qc4 Qe6 21. Nxe4
+Nc6 22. Nbxd6 Nf4 23. Nxc5 Qxc4 24. Nxc4 Nd4 25. Ne3 Rfc8 26. b4 Rc6 27. c4 Nf5
+28. Ne4 Nxe3 29. fxe3 Ne6 30. c5 h5 31. b5 Rxc5 32. Nxc5 Nxc5 33. Bb6 Nd3 34.
+Bxa7 Rc8 35. b6 1-0

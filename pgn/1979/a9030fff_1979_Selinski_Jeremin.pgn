@@ -1,0 +1,20 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Selinski, J."]
+[Black "Jeremin, M."]
+[Result "1-0"]
+[ECO "D98"]
+[Opening "Gruenfeld"]
+[Variation "Russian, Keres variation"]
+[HashCode "a9030fff"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Qb3 dxc4 6. Qxc4 O-O 7. e4 Bg4
+8. Be3 Nfd7 9. Be2 Nb6 10. Qd3 Nc6 11. O-O-O Bxf3 12. gxf3 e5 13. d5 Nd4
+14. Nb5 c5 15. dxc6 Nxc6 16. Qxd8 Rfxd8 17. Rxd8+ Rxd8 18. Nxa7 Nd4 19. Kb1
+Nxe2 20. Bxb6 Rd6 21. Be3 Rf6 22. Rd1 h5 23. Nb5 Bf8 24. a4 Bb4 25. Rd7 Ng1
+26. f4 exf4 27. Bd4 Rc6 28. Rd8+ Bf8 29. Be5 f3 30. Bd6 Rxd6 31. Nxd6 Nh3
+32. Nxb7 Nxf2 33. a5 Nxe4 34. a6 f2 35. Rd1 Nd2+ 36. Ka2 1-0
+

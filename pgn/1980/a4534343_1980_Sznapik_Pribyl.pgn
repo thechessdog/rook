@@ -1,0 +1,20 @@
+[Event "Warsaw"]
+[Site "Warsaw"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Sznapik, Aleksander"]
+[Black "Pribyl, J."]
+[Result "1-0"]
+[ECO "B15"]
+[Opening "Caro-Kann"]
+[Variation "Gurgenidze system"]
+[HashCode "a4534343"]
+[Epoch "Rook"]
+[WhiteID "1100050"]
+[WhiteCountry "POL"]
+[BlackCountry "CZE"]
+
+1. e4 c6 2. d4 d5 3. Nc3 g6 4. h3 Bg7 5. Nf3 Nf6 6. e5 Ne4 7. Bd3 Nxc3 8. bxc3
+c5 9. O-O Nc6 10. Re1 Qa5 11. a4 Bd7 12. dxc5 Qxc5 13. Rb1 Nd8 14. Bb5 Bxb5 15.
+Rxb5 Qxc3 16. Qxd5 Qxc2 17. Bg5 Qxa4 18. Bxe7 Kxe7 19. e6 h6 20. exf7+ Kf6 21.
+Rxb7 1-0

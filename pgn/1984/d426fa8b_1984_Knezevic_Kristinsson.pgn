@@ -1,0 +1,30 @@
+[Event "Reykjavik"]
+[Site "Reykjavik"]
+[Date "1984.??.??"]
+[Round "?"]
+[White "Knezevic, Milorad"]
+[Black "Kristinsson, Jon"]
+[Result "1-0"]
+[ECO "A69"]
+[Opening "Benoni"]
+[Variation "four pawns attack, main line"]
+[HashCode "d426fa8b"]
+[Epoch "Rook"]
+[WhiteID "950238"]
+[BlackID "2300141"]
+[WhiteCountry "SRB"]
+[BlackCountry "ISL"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f4 O-O 6. Nf3 c5 7. d5 e6 8. Be2 exd5
+9. cxd5 Re8 10. e5 dxe5 11. fxe5 Ng4 12. Bg5 f6 13. exf6 Bxf6 14. Qd2 Bxg5 15.
+Qxg5 Qxg5 16. Nxg5 Bf5 17. O-O Nd7 18. Bxg4 Bxg4 19. Nf7 Ne5 20. Nd6 Re7 21. h3
+Rd8 22. Nde4 Bf5 23. Nxc5 b6 24. Nb3 Nc4 25. Nd4 Rf7 26. g4 Bd7 27. b3 Nd6 28.
+Rxf7 Kxf7 29. Rf1+ Kg7 30. Re1 Re8 31. Ne6+ Bxe6 32. dxe6 Rc8 33. Re3 Rc5 34.
+b4 Rc4 35. a3 a5 36. bxa5 bxa5 37. Nd5 Ne8 38. Rf3 Nd6 39. Nf6 Rc5 40. Nd7 Rc2
+41. Rd3 Nc8 42. Re3 Nd6 43. g5 Rc8 44. Rd3 Ne8 45. Ne5 Rc5 46. Rd7+ Kf8 47. Ng4
+Rxg5 48. Rxh7 Nd6 49. Rd7 Ne4 50. Kh2 Rf5 51. Ra7 Ng5 52. e7+ Ke8 53. Nh6 Re5
+54. Ng8 Kf7 55. Ra8 Nh7 56. Kg3 Re1 57. Kf2 Re4 58. Nh6+ Kxe7 59. Ra7+ Kf6 60.
+Ng4+ Kg5 61. Kg3 Ra4 62. h4+ Kf5 63. Rf7+ Ke6 64. Rxh7 Rxa3+ 65. Kf4 Ra1 66.
+Kg5 a4 67. Kxg6 a3 68. Ra7 a2 69. Kg5 Rg1 70. Rxa2 Kf7 71. Ra7+ Kg8 72. Kf5 Kh8
+73. Rb7 Rg2 74. Ne5 Rg1 75. Ng6+ Kg8 76. Nf4 Kh8 77. Kf6 Rf1 78. Kg6 Rg1+ 79.
+Kh6 1-0

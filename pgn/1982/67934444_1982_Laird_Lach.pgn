@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Laird"]
+[Black "Lach"]
+[Result "1-0"]
+[ECO "B32"]
+[Opening "Sicilian"]
+[Variation "Labourdonnais-Loewenthal variation"]
+[HashCode "67934444"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e5 5. Nb5 a6 6. Nd6+ Bxd6 7. Qxd6
+Qe7 8. Qd1 d6 9. Nc3 Be6 10. Nd5 Bxd5 11. exd5 Nb8 12. Qg4 f6 13. Qc8+ Kf7
+14. Be2 g6 15. Bh6 1-0
+

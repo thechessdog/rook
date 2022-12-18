@@ -1,0 +1,17 @@
+[Event "corr ch-CSSR"]
+[Site "corr ch-CSSR"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Jezek"]
+[Black "Halouzka"]
+[Result "1/2-1/2"]
+[ECO "B92"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Opovcensky variation"]
+[HashCode "2b1b2ca6"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8.
+Bg5 Nbd7 9. O-O h6 10. Be3 b5 11. a4 b4 12. Nd5 Nxd5 13. exd5 O-O 14. Bd2
+a5 15. c3 bxc3 16. Bxc3 Qb6 17. Nd2 Ba6 18. Bxa6 Qxa6 1/2-1/2
+

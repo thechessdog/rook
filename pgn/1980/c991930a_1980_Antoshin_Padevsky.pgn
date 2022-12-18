@@ -1,0 +1,28 @@
+[Event "Baku"]
+[Site "Baku"]
+[Date "1980.01.01"]
+[Round "12"]
+[White "Antoshin, Vladimir S"]
+[Black "Padevsky, Nikola"]
+[Result "1-0"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Uhlmann variation"]
+[HashCode "c991930a"]
+[Epoch "Rook"]
+[BlackID "2900190"]
+[BlackCountry "FID"]
+[WhiteCountry "RUS"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. Bg5 Bg7 8. e3
+a6 9. Nd2 h6 10. Bh4 b5 11. a4 b4 12. Nce4 O-O 13. Nc4 g5 14. Nxf6+ Qxf6 15.
+Bg3 Rd8 16. h4 a5 17. hxg5 hxg5 18. Rb1 Ba6 19. Nd2 Bxf1 20. Kxf1 Nd7 21. Nc4
+Ra6 22. Qd3 Nb6 23. Nxd6 Raa8 24. Qh7+ Kf8 25. Ne4 Qg6 26. Qxg6 fxg6 27. Nxc5
+Nc4 28. Ne6+ Kg8 29. Nxd8 Rxd8 30. b3 Nd2+ 31. Ke2 Nxb1 32. Rxb1 Rxd5 33. Rc1
+Bc3 34. Rd1 Rc5 35. Rd8+ Kf7 36. e4 Rc6 37. Rd7+ Ke6 38. Rc7 Ra6 39. Rc5 Bf6
+40. f3 Be7 41. Rc4 Kd7 42. Bf2 Ra8 43. Be3 Ke6 44. Rc6+ Kf7 45. Bd4 Bd8 46. Kd3
+Rb8 47. Rc5 Rb7 48. Be3 g4 49. fxg4 Rb8 50. e5 Bb6 51. Rb5 Rd8+ 52. Ke4 Bxe3
+53. Kxe3 Rd1 54. Rxa5 Rb1 55. Ke4 Rxb3 56. Ra7+ Ke6 57. Rg7 Rg3 58. Rxg6+ Kf7
+59. Rb6 Rxg2 60. Kf3 Rb2 61. a5 b3 62. a6 Ra2 63. Rxb3 Rxa6 64. Kf4 Ke6 65. Rb4
+Ra1 66. Rb6+ Kf7 67. Kg5 Re1 68. e6+ Ke7 69. Kg6 Rh1 70. g5 Rh2 71. Kg7 Rg2 72.
+g6 Rg1 73. Rb7+ Kxe6 74. Kh7 Rh1+ 1-0

@@ -1,0 +1,22 @@
+[Event "IBM-B"]
+[Site "Amsterdam II"]
+[Date "1979.07.01"]
+[Round "5"]
+[White "Van der Wiel, John T.H."]
+[Black "Spassov, Liuben"]
+[Result "1-0"]
+[ECO "B69"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...a6 defence, 11.Bxf6"]
+[HashCode "d0c30b78"]
+[Epoch "Rook"]
+[WhiteID "1000020"]
+[WhiteCountry "NED"]
+[BlackID "2900220"]
+[BlackCountry "FID"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd2 a6 8.
+O-O-O Bd7 9. f4 Be7 10. Nf3 b5 11. Bxf6 Bxf6 12. Qxd6 Ra7 13. Kb1 b4 14. Ne2
+Be7 15. Qd2 O-O 16. Nc1 Qb6 17. e5 a5 18. Bd3 a4 19. b3 Bc5 20. Bxh7+ Kxh7 21.
+Ng5+ Kg8 22. Qd3 Rfa8 23. Qh7+ Kf8 24. Qh8+ Ke7 25. Qxg7 Rf8 26. Nh7 Ke8 27.
+Rd6 1-0

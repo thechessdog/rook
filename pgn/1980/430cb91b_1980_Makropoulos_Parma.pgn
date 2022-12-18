@@ -1,0 +1,19 @@
+[Event "Rome"]
+[Site "Rome"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Makropoulos, Georgios"]
+[Black "Parma, Bruno"]
+[Result "1/2-1/2"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "430cb91b"]
+[Epoch "Rook"]
+[BlackID "14600706"]
+[BlackCountry "SLO"]
+[WhiteID "4200047"]
+[WhiteCountry "GRE"]
+
+1. e4 c5 2. c3 e6 3. d4 d5 4. exd5 exd5 5. Nf3 Nc6 6. Be2 Bd6 7. O-O Nge7 8.
+dxc5 Bxc5 9. Nbd2 O-O 10. Nb3 Bb6 11. Bf4 1/2-1/2

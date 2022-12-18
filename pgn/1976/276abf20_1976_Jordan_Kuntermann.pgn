@@ -1,0 +1,18 @@
+[Event "corr DDR-PZ"]
+[Site "corr DDR-PZ"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Jordan"]
+[Black "Kuntermann, H."]
+[Result "1-0"]
+[ECO "A79"]
+[Opening "Benoni"]
+[Variation "classical, 11.f3"]
+[HashCode "276abf20"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. Be2 Bg7 8.
+Nf3 O-O 9. O-O Re8 10. Nd2 Na6 11. f3 Nc7 12. a4 b6 13. a5 bxa5 14. Nb3 Ba6
+15. Bxa6 Nxa6 16. Nxa5 Nb4 17. Nc4 Qb8 18. Bf4 Bf8 19. g4 Nd7 20. g5 Nb6
+21. Ne3 Bg7 22. Ng4 1-0
+

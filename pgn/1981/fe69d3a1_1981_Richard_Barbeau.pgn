@@ -1,0 +1,25 @@
+[Event "Montreal"]
+[Site "Montreal"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Richard, Daniel"]
+[Black "Barbeau, Sylvain"]
+[Result "0-1"]
+[ECO "C47"]
+[Opening "Four knights"]
+[Variation "Scotch, 4...exd4"]
+[HashCode "fe69d3a1"]
+[Epoch "Rook"]
+[BlackID "2600099"]
+[BlackCountry "CAN"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nc3 Nc6 4. d4 exd4 5. Nxd4 Bb4 6. Nxc6 bxc6 7. Bd3 O-O
+8. O-O d5 9. exd5 cxd5 10. Bg5 c6 11. Qf3 Be7 12. Rae1 Re8 13. Qg3 Be6 14. Re2
+Nh5 15. Qh4 Bxg5 16. Qxh5 g6 17. Qf3 Rb8 18. Nd1 Qf6 19. Qxf6 Bxf6 20. b3 c5
+21. Rfe1 Rec8 22. c4 dxc4 23. Bxc4 Bxc4 24. bxc4 Rb1 25. Ne3 Rcb8 26. Nd5 Kg7
+27. Nxf6 Kxf6 28. Kf1 R8b4 29. Rc2 Rxe1+ 30. Kxe1 Ke5 31. f4+ Kd4 32. Rd2+ Ke3
+33. Re2+ Kd3 34. Rd2+ Kxc4 35. Ke2 Rb7 36. Rc2+ Kd5 37. Kd3 Re7 38. Rc3 f5 39.
+g3 Re4 40. Ra3 c4+ 41. Kd2 Re7 42. Ra5+ Kd4 43. Ra6 c3+ 44. Kd1 Rd7 45. Kc2 Rc7
+46. Rd6+ Ke3 47. a4 Kf2 48. Re6 Kg2 49. Re2+ Kh3 50. a5 Rc6 51. Kb1 Rd6 52. Re3
+Kxh2 53. Rxc3 Rd5 54. Ra3 h5 55. Kc2 Kh3 56. a6 Rd6 57. Kc1 Kg4 58. Kc2 h4 59.
+gxh4 Kxf4 60. Ra4+ Kg3 61. Kc3 f4 62. Kc4 f3 63. Kc5 Rf6 64. Ra3 Kxh4 0-1

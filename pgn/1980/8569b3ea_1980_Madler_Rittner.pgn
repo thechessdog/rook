@@ -1,0 +1,18 @@
+[Event "corr Perfors mem"]
+[Site "corr Perfors mem"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Madler"]
+[Black "Rittner, Horst"]
+[Result "1/2-1/2"]
+[ECO "E16"]
+[Opening "Queen's Indian"]
+[Variation "Riumin variation"]
+[HashCode "8569b3ea"]
+[Epoch "Rook"]
+[BlackID "12900834"]
+[BlackCountry "GER"]
+
+1. d4 e6 2. c4 Nf6 3. Nf3 b6 4. g3 Bb7 5. Bg2 Bb4+ 6. Bd2 Be7 7. Nc3 O-O 8. O-O
+d5 9. Ne5 c6 10. cxd5 cxd5 11. Rc1 Nfd7 12. f4 Nxe5 13. fxe5 Nc6 14. Be3 Rc8
+15. Bf2 1/2-1/2

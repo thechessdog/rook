@@ -1,0 +1,29 @@
+[Event "Budva zt"]
+[Site "Budva zt"]
+[Date "1981.01.01"]
+[Round "4"]
+[White "Soylu, Suat"]
+[Black "Rukavina, Josip"]
+[Result "0-1"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical system, 5.Be2"]
+[HashCode "75357e15"]
+[Epoch "Rook"]
+[WhiteID "6300065"]
+[WhiteCountry "TUR"]
+[BlackID "14500191"]
+[BlackCountry "CRO"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Nf3 Bg7 5. Be2 O-O 6. O-O c6 7. h3 Qc7 8. a4 a5
+9. Be3 Nbd7 10. Qd2 Re8 11. Rfd1 Nb6 12. Bh6 e5 13. Bxg7 Kxg7 14. dxe5 dxe5 15.
+Qd6 Qxd6 16. Rxd6 Nfd7 17. Rad1 Nc5 18. b3 Bd7 19. Ne1 Be6 20. Nd3 Nxd3 21.
+R6xd3 h5 22. h4 Kf6 23. f3 Ke7 24. Kf2 Nd7 25. R3d2 Rad8 26. Nb1 f6 27. Na3 Nb6
+28. Ke3 Rxd2 29. Rxd2 g5 30. hxg5 fxg5 31. Rd1 h4 32. Rh1 Nc8 33. Bc4 Nd6 34.
+Bxe6 Kxe6 35. Nb1 b5 36. Nc3 Rc8 37. axb5 cxb5 38. Kd3 Ra8 39. Ra1 Kd7 40. Rh1
+Kc6 41. Ra1 Nb7 42. Ke3 g4 43. g3 h3 44. fxg4 Rh8 45. Rh1 Nd8 46. g5 Ne6 47. g6
+Kc5 48. Nd5 a4 49. Kd3 h2 50. b4+ Kd6 51. Kc3 Rh3 52. Kb2 Rxg3 53. Rxh2 Rxg6
+54. Rd2 Nd4 55. c3 Nb3 56. Rh2 Rg1 57. c4 bxc4 58. Ne3 c3+ 59. Kxc3 Rg3 60. Re2
+Kc6 61. Kc4 Nd4 62. Re1 Nb5 63. Kd3 Nd6 64. Kc2 Kb5 65. Nd5 Kc4 66. Kb1 Nb5 67.
+Re3 Rxe3 68. Nxe3+ Kd3 69. Nd5 Kxe4 70. Nb6 a3 71. Ka2 Kd3 72. Na4 e4 73. Nc5+
+Kd4 74. Ne6+ Kc3 75. Nf4 e3 76. Ne2+ Kd2 0-1

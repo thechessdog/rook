@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Schmidt, H."]
+[Black "Schirmer, M."]
+[Result "1-0"]
+[ECO "D00"]
+[Opening "Blackmar gambit"]
+[HashCode "b46dde19"]
+[Epoch "Rook"]
+
+1. d4 d5 2. e4 dxe4 3. Nc3 Nf6 4. f3 exf3 5. Nxf3 g6 6. Bc4 Bg7 7. Ne5 O-O
+8. Bg5 Nbd7 9. O-O c5 10. Nxf7 Rxf7 11. Bxf7+ Kxf7 12. dxc5 Qa5 13. Ne4 Qb4
+14. Qd5+ e6 15. Nd6+ Ke7 16. Nxc8+ Rxc8 17. Qd6+ Ke8 18. Qxe6+ Kd8 19. Kh1
+Rc6 20. Qg8+ Kc7 21. Qxg7 Qd4 22. Rad1 1-0
+

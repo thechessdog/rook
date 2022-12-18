@@ -1,0 +1,20 @@
+[Event "Yugoslavia"]
+[Site "Yugoslavia"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Vukic, Milan"]
+[Black "Popovic, Petar"]
+[Result "1-0"]
+[ECO "D74"]
+[Opening "Neo-Gruenfeld, 6.cd Nxd5, 7.O-O"]
+[HashCode "6d80d8c9"]
+[Epoch "Rook"]
+[WhiteID "900273"]
+[WhiteCountry "BIH"]
+[BlackID "900109"]
+[BlackCountry "SRB"]
+
+1. d4 Nf6 2. c4 g6 3. Nf3 Bg7 4. g3 O-O 5. Bg2 d5 6. cxd5 Nxd5 7. O-O Nc6 8.
+Nc3 Nb6 9. e3 Be6 10. b3 a5 11. Ba3 Re8 12. Rc1 a4 13. Ng5 Bf5 14. Nxa4 Nxa4
+15. bxa4 e5 16. Nxf7 Kxf7 17. Qb3+ Kf6 18. Qxb7 Na5 19. dxe5+ Ke6 20. Qf3 Qd3
+21. Rfd1 1-0

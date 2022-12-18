@@ -1,0 +1,21 @@
+[Event "Montreal"]
+[Site "Montreal"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Melkonian, Sam"]
+[Black "Robillard, Jean"]
+[Result "0-1"]
+[ECO "B33"]
+[Opening "Sicilian"]
+[Variation "Pelikan (Lasker/Sveshnikov) variation"]
+[HashCode "16422b98"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6
+8. Bxf6 gxf6 9. Na3 Be6 10. Bc4 b5 11. Bxe6 fxe6 12. Qh5+ Ke7 13. Ne2 Qe8
+14. Qh4 Qg6 15. c4 Qxg2 16. Rg1 Nd4 17. Qxf6+ Kxf6 18. Rxg2 b4 19. Nxd4
+bxa3 20. Nb3 axb2 21. Rb1 Rc8 22. Nd2 Rb8 23. Nb3 Rb4 24. Rxb2 Rxc4 25. Nd2
+Rc6 26. Rb7 Bh6 27. Rg3 d5 28. Rgb3 Rc1+ 29. Ke2 Rc2 30. Rb2 Rhc8 31. Kd1
+Rc1+ 32. Ke2 R8c2 33. Kd3 Rc3+ 34. Ke2 R1c2 35. Kd1 Rxb2 36. Rxb2 Rd3 37.
+Ke2 Rxd2+ 38. Rxd2 Bxd2 39. Kxd2 Kg5 0-1
+

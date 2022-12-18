@@ -1,0 +1,22 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Diaconescu, P."]
+[Black "Handel, H."]
+[Result "1-0"]
+[ECO "E35"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, Noa variation, 5.cd ed"]
+[HashCode "d77eb5c6"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 d5 5. cxd5 exd5 6. Bg5 h6 7. Bxf6 Qxf6
+8. a3 Ba5 9. b4 Bb6 10. e3 Be6 11. Nf3 Nd7 12. Bd3 O-O 13. O-O c6 14. Rfc1
+Rac8 15. Na4 Bc7 16. Nc5 Nxc5 17. bxc5 Bg4 18. Ne1 Rce8 19. Rab1 Bc8 20. g3
+Qe6 21. Ng2 f5 22. Re1 Qf6 23. Qa4 f4 24. exf4 Rxe1+ 25. Rxe1 g5 26. Bb1
+gxf4 27. Qc2 Qg7 28. Nh4 Bd8 29. Ng6 fxg3 30. hxg3 Bf5 31. Qxf5 Rxf5 32.
+Bxf5 Kf7 33. Nf4 Qxd4 34. Bg6+ Kf6 35. Re6+ Kg5 36. Nh3+ Kg4 37. Kg2 Qc3
+38. Re3 Qxe3 39. fxe3 Be7 40. Be8 Bxc5 41. a4 Bxe3 42. Bd7+ Kh5 43. Kf3 d4
+44. Be8# 1-0
+

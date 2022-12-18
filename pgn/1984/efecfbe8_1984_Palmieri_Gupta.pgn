@@ -1,0 +1,18 @@
+[Event "Wiesbaden"]
+[Site "Wiesbaden"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Palmieri"]
+[Black "Gupta, Milon"]
+[Result "0-1"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Paulsen attack"]
+[HashCode "efecfbe8"]
+[Epoch "Rook"]
+[BlackID "4608550"]
+[BlackCountry "GER"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. a3 c4 7. g3 f6 8. exf6 Nxf6
+9. Nbd2 Bd6 10. Bh3 O-O 11. O-O e5 12. Bxc8 Raxc8 13. dxe5 Bxe5 14. Nxe5 Nxe5
+15. Rb1 Nfg4 16. Qe2 Rce8 0-1

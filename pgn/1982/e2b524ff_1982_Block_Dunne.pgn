@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Block, H."]
+[Black "Dunne, A."]
+[Result "0-1"]
+[ECO "D16"]
+[Opening "QGD Slav"]
+[Variation "Steiner variation"]
+[HashCode "e2b524ff"]
+[Epoch "Rook"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 Bg4 6. Ne5 Bh5 7. g3 Nbd7 8.
+Nxc4 e6 9. Bg2 Be7 10. O-O O-O 11. h3 Nb6 12. Ne5 Nfd7 13. a5 Nxe5 14. axb6
+Nc4 15. bxa7 Bf6 16. g4 Bg6 17. e3 Qb6 18. b3 Na5 19. Ba3 Rfd8 20. Bc5 Qxc5
+21. dxc5 Rxd1 22. Raxd1 Bxc3 0-1
+

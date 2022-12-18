@@ -1,0 +1,18 @@
+[Event "corr DDR/I"]
+[Site "corr DDR/I"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Herrmann"]
+[Black "Kleinke, Uwe"]
+[Result "0-1"]
+[ECO "A00"]
+[Opening "Polish"]
+[Variation "Outflank variation"]
+[HashCode "a9293c5a"]
+[Epoch "Rook"]
+[BlackID "24670030"]
+[BlackCountry "GER"]
+
+1. b4 c6 2. c4 e5 3. Bb2 f6 4. b5 cxb5 5. cxb5 d5 6. e3 Bf5 7. Nc3 Bb4 8. d4
+Ne7 9. Qb3 Bxc3+ 10. Bxc3 Nd7 11. dxe5 fxe5 12. Nf3 Rc8 13. Nxe5 Nxe5 14. Bxe5
+Qa5+ 15. Ke2 Rc2+ 16. Kf3 Qd2 17. Bg3 O-O 18. Kf4 h6 19. Ke5 Ng6+ 0-1

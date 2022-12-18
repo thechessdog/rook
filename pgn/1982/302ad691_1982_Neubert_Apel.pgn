@@ -1,0 +1,19 @@
+[Event "corr DDR/FS"]
+[Site "corr DDR/FS"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Neubert"]
+[Black "Apel, A."]
+[Result "1-0"]
+[ECO "E55"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Gligoric system, Bronstein variation"]
+[HashCode "302ad691"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 d5 5. Bd3 O-O 6. Nf3 c5 7. O-O dxc4 8.
+Bxc4 Nbd7 9. Qc2 b6 10. Rd1 Bb7 11. d5 Bxc3 12. dxe6 Ba5 13. Ng5 Qe7 14.
+Rxd7 Be4 15. Rxe7 Bxc2 16. exf7+ Kh8 17. e4 h6 18. Ne6 Bxe4 19. Nxf8 Rxf8
+20. Bf4 Bg6 21. Rxa7 Rd8 22. Be5 Bc2 23. Be6 Nh7 24. Bd5 Bd2 25. Ra8 Rxa8
+26. Bxa8 Bf5 27. Rd1 1-0
+

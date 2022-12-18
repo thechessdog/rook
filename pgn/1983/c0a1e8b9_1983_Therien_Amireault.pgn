@@ -1,0 +1,17 @@
+[Event "Montreal"]
+[Site "Montreal"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Therien, Yves"]
+[Black "Amireault, Daniel"]
+[Result "1-0"]
+[ECO "C35"]
+[Opening "KGA"]
+[Variation "Cunningham defence"]
+[HashCode "c0a1e8b9"]
+[Epoch "Rook"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 Be7 4. Bc4 Bh4+ 5. Ke2 d6 6. d4 Bg4 7. Bxf4 Qf6
+8. Be3 Ne7 9. Rf1 Nbc6 10. h3 Bh5 11. g4 Na5 12. Ne5 Bf2 13. Rxf2 Qh4 14.
+gxh5 dxe5 15. Bxf7+ Kf8 16. dxe5 Nac6 17. Be6+ 1-0
+

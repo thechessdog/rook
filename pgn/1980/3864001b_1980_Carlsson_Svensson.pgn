@@ -1,0 +1,18 @@
+[Event "corr Tch-SWE"]
+[Site "corr Tch-SWE"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Carlsson, Michael"]
+[Black "Svensson, Stig"]
+[Result "1-0"]
+[ECO "A27"]
+[Opening "English"]
+[Variation "three knights system"]
+[HashCode "3864001b"]
+[Epoch "Rook"]
+[WhiteID "1734008"]
+[BlackID "1438719"]
+[WhiteCountry "SWE"]
+[BlackCountry "DEN"]
+
+1. c4 e5 2. Nc3 Nc6 3. Nf3 f5 4. d4 e4 5. Ng5 Nf6 6. e3 d5 7. Nh3 1-0

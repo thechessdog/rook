@@ -1,0 +1,18 @@
+[Event "Bayern-ch"]
+[Site "Kitzingen"]
+[Date "1980.??.??"]
+[Round "?"]
+[White "Scheipl, Ralf"]
+[Black "Weiner, Oskar"]
+[Result "1-0"]
+[ECO "B51"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky (Nimzovich-Rossolimo, Moscow) attack"]
+[HashCode "f0258126"]
+[Epoch "Rook"]
+[WhiteID "4603087"]
+[WhiteCountry "GER"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Nc6 4. c3 Bd7 5. O-O a6 6. Bxc6 Bxc6 7. Re1 e5 8. d4
+Qc7 9. b4 cxb4 10. cxb4 Ne7 11. Bb2 Ng6 12. Nbd2 Be7 13. Rc1 Qd8 14. Qb3 Bf6
+15. Nc4 b5 16. Ncxe5 Bb7 17. Qxf7# 1-0

@@ -1,0 +1,21 @@
+[Event "EU-chT Plovdiv"]
+[Site "Plovdiv etc"]
+[Date "1983.06.01"]
+[Round "4"]
+[White "Lukov, Valentin"]
+[Black "Horvath, Tamas"]
+[Result "0-1"]
+[ECO "E42"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5, 5.Ne2 (Rubinstein)"]
+[HashCode "04ec5c4e"]
+[Epoch "Rook"]
+[WhiteID "2900157"]
+[WhiteCountry "FID"]
+[BlackID "700185"]
+[BlackCountry "HUN"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Ne2 cxd4 6. exd4 O-O 7. a3 Be7 8. d5
+exd5 9. cxd5 Re8 10. Be3 Ng4 11. Bd4 Nh6 12. Qd3 d6 13. f4 Bf5 14. Qd2 Nd7 15.
+g3 Bf6 16. h3 Bxd4 17. Qxd4 Nc5 18. Ra2 Bd3 19. g4 Qh4+ 20. Qf2 Qe7 21. Qd4
+Rac8 22. Kf2 Qh4+ 23. Kg1 Bxe2 24. Nxe2 Rxe2 25. Bxe2 Qg3+ 26. Kf1 Nb3 0-1

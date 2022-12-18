@@ -1,0 +1,21 @@
+[Event "Nykobing"]
+[Site "Nykobing"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Kilgour, D."]
+[Black "Pedersen, Erik"]
+[Result "0-1"]
+[ECO "A71"]
+[Opening "Benoni"]
+[Variation "classical, 8.Bg5"]
+[HashCode "8d12f1c9"]
+[Epoch "Rook"]
+[BlackID "1404997"]
+[BlackCountry "DEN"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. Nf3 Bg7 8. Bg5
+a6 9. Nd2 b5 10. a4 b4 11. Ncb1 O-O 12. Bd3 h6 13. Bh4 Qc7 14. O-O Re8 15. Qc2
+Nbd7 16. Nc4 b3 17. Qxb3 Nxe4 18. Re1 Nef6 19. Rxe8+ Nxe8 20. Nbd2 Rb8 21. Qc2
+Bb7 22. Ne3 Nef6 23. Bc4 Ne5 24. Rd1 Re8 25. Ba2 Qd7 26. h3 Nh5 27. Ndf1 Bc8
+28. Bg3 Qe7 29. Bh2 Qh4 30. Nc4 Nxc4 31. Qxc4 Re4 32. Qc2 Bf5 33. Bxd6 Bd4 34.
+Qd2 Bxh3 35. g3 Qf6 36. Bc7 Qf3 0-1

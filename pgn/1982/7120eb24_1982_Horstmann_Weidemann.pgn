@@ -1,0 +1,17 @@
+[Event "Aachen"]
+[Site "Aachen"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Horstmann, Martin"]
+[Black "Weidemann, Jorg"]
+[Result "0-1"]
+[ECO "D55"]
+[Opening "QGD"]
+[Variation "6.Nf3"]
+[HashCode "7120eb24"]
+[Epoch "Rook"]
+
+1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. Bg5 Be7 5. Nc3 O-O 6. e3 Ne4 7. Bxe7 Qxe7
+8. cxd5 Nxc3 9. bxc3 exd5 10. Qb3 Rd8 11. Be2 Nc6 12. O-O Rd6 13. Nd2 Bf5
+14. Bf3 Bd3 15. Rfe1 Re8 16. c4 dxc4 17. Nxc4 Nxd4 0-1
+

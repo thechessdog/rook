@@ -1,0 +1,22 @@
+[Event "Lvov"]
+[Site "Lvov"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Lukin, Andrei M"]
+[Black "Petrosian, Arshak B"]
+[Result "0-1"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Byrne (English) attack"]
+[HashCode "0e6a606c"]
+[Epoch "Rook"]
+[WhiteID "4101251"]
+[BlackID "13300288"]
+[WhiteCountry "RUS"]
+[BlackCountry "ARM"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e5 7. Nb3 Be6 8. f3
+Nbd7 9. g4 Be7 10. Qd2 Rc8 11. O-O-O Nb6 12. Kb1 Nc4 13. Bxc4 Rxc4 14. g5 Nd7
+15. Nd5 Bxd5 16. Qxd5 b5 17. h4 O-O 18. Nd2 Rc8 19. Nf1 Nb6 20. Bxb6 Qxb6 21.
+Qd3 d5 22. exd5 Rfd8 23. Ne3 a5 24. Nf5 Bd6 25. Nxd6 Qxd6 26. Rhe1 Re8 27. f4
+Rc4 28. Re4 f5 0-1

@@ -1,0 +1,17 @@
+[Event "Rerik"]
+[Site "Rerik"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Poldauf, Dirk"]
+[Black "Steudtmann, Christi"]
+[Result "0-1"]
+[ECO "A29"]
+[Opening "English"]
+[Variation "four knights, kingside fianchetto"]
+[HashCode "bdb9b6cd"]
+[Epoch "Rook"]
+[WhiteID "4611470"]
+[WhiteCountry "GER"]
+
+1. c4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. g3 Bc5 5. Nxe5 Nxe5 6. d4 Qe7 7. dxc5 Nf3#
+0-1

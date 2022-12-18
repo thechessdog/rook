@@ -1,0 +1,16 @@
+[Event "corr CCCA"]
+[Site "corr CCCA"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Morgado, Juan Sebastian"]
+[Black "Roos"]
+[Result "1/2-1/2"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, 6.Bd3"]
+[HashCode "90458f6c"]
+[Epoch "Rook"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 O-O 6. Bd3 Nc6 7. O-O e5 8. dxe5
+dxe5 9. f5 gxf5 10. exf5 e4 11. Nxe4 Bxf5 12. Nxf6+ Qxf6 13. Ne5 Qxe5 14. Bxf5
+Ne7 15. Bd3 Ng6 16. Qf3 b6 17. Kh1 Rae8 18. Rb1 Qa5 19. Bf4 Nxf4 1/2-1/2

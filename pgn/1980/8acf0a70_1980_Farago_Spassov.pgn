@@ -1,0 +1,20 @@
+[Event "Sochi"]
+[Site "Sochi"]
+[Date "1980.09.01"]
+[Round "13"]
+[White "Farago, Ivan"]
+[Black "Spassov, Liuben"]
+[Result "1/2-1/2"]
+[ECO "E21"]
+[Opening "Nimzo-Indian"]
+[Variation "three knights variation"]
+[HashCode "8acf0a70"]
+[Epoch "Rook"]
+[WhiteID "700134"]
+[WhiteCountry "HUN"]
+[BlackID "2900220"]
+[BlackCountry "FID"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Nf3 b6 5. Bg5 h6 6. Bh4 g5 7. Bg3 Ne4 8. Qc2
+Bb7 9. e3 Bxc3+ 10. bxc3 Nxg3 11. hxg3 Nc6 12. g4 Qe7 13. Bd3 Na5 14. Be4 O-O-O
+15. Bxb7+ Kxb7 16. c5 d6 1/2-1/2

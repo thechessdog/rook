@@ -1,0 +1,16 @@
+[Event "Reykjavik"]
+[Site "Reykjavik"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Karlsson, Agust S"]
+[Black "Benediktsson, Benon"]
+[Result "1/2-1/2"]
+[ECO "D20"]
+[Opening "Queen's gambit accepted"]
+[HashCode "142ac677"]
+[Epoch "Rook"]
+[WhiteID "2300419"]
+[WhiteCountry "ISL"]
+
+1. d4 d5 2. c4 dxc4 3. e3 b5 4. a4 b4 5. Bxc4 e6 6. d5 c6 7. dxe6 Qxd1+ 8. Kxd1
+Bxe6 1/2-1/2

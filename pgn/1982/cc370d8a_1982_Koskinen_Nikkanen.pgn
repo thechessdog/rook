@@ -1,0 +1,19 @@
+[Event "corr Heilimo mem"]
+[Site "corr Heilimo mem"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Koskinen"]
+[Black "Nikkanen, Pekka"]
+[Result "1-0"]
+[ECO "A34"]
+[Opening "English"]
+[Variation "symmetrical, three knights system"]
+[HashCode "cc370d8a"]
+[Epoch "Rook"]
+
+1. c4 Nf6 2. Nc3 c5 3. Nf3 d5 4. cxd5 Nxd5 5. e3 Nc6 6. Bb5 Nb4 7. a3 Nd3+
+8. Ke2 Nxc1+ 9. Rxc1 Bd7 10. d4 cxd4 11. Nxd4 e6 12. Nxc6 bxc6 13. Ba4 Qb6
+14. Qd3 Be7 15. Rhd1 Rd8 16. Qc2 Qb8 17. Rxd7 Kxd7 18. Bxc6+ Kc8 19. Bf3
+Rd7 20. Nb5+ Kd8 21. Bc6 Rd6 22. Rd1 a6 23. Nxd6 Bxd6 24. Rd3 Ke7 25. Rb3
+Qc8 26. Rb7+ Kf8 27. Qc4 Kg8 28. Rd7 Qb8 29. f4 g6 30. Qd4 1-0
+

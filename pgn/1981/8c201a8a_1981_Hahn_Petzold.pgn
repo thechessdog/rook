@@ -1,0 +1,21 @@
+[Event "corr ch-DDR"]
+[Site "corr ch-DDR"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Hahn"]
+[Black "Petzold"]
+[Result "1-0"]
+[ECO "C26"]
+[Opening "Vienna"]
+[Variation "Paulsen-Mieses variation"]
+[HashCode "8c201a8a"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nc3 Nf6 3. g3 Bc5 4. Bg2 Nc6 5. Nge2 O-O 6. O-O a6 7. h3 Nd4 8.
+Kh2 b5 9. d3 Bb7 10. f4 Nxe2 11. Qxe2 d6 12. Bd2 Qd7 13. fxe5 dxe5 14. Rae1
+b4 15. Nd1 a5 16. Ne3 Ne8 17. Bf3 Bc8 18. Bg4 Qd8 19. Bxc8 Bxe3 20. Bxe3
+Rxc8 21. Bc5 Nd6 22. Ra1 Rb8 23. a3 b3 24. Qd1 Rb5 25. Be3 bxc2 26. Qxc2
+Qb8 27. Rab1 Qb7 28. Bc5 Rb8 29. b4 Qc6 30. Qf2 Qd7 31. a4 R5b7 32. b5 c6
+33. Bxd6 Qxd6 34. bxc6 Rxb1 35. Qxf7+ Kh8 36. Rxb1 Rf8 37. Qd5 Qf6 38. Qc5
+Qf7 39. Rb2 1-0
+

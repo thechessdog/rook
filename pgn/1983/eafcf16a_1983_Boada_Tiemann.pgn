@@ -1,0 +1,25 @@
+[Event "corr EUR/K tt"]
+[Site "corr EUR/K tt"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Boada"]
+[Black "Tiemann, H."]
+[Result "1-0"]
+[ECO "C77"]
+[Opening "Ruy Lopez"]
+[Variation "Morphy defence"]
+[HashCode "eafcf16a"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. d4 exd4 6. O-O Be7 7. Re1 b5 8.
+e5 Nxe5 9. Rxe5 d6 10. Re1 bxa4 11. Nxd4 Bd7 12. Qe2 c5 13. Nf3 Bg4 14. Bg5
+Bxf3 15. Qxf3 O-O 16. Nc3 h6 17. Rxe7 hxg5 18. Rae1 a3 19. b3 Qa5 20. Nd5
+Nxd5 21. Qxd5 Ra7 22. Re8 Ra8 23. R8e3 Rad8 24. Qxg5 Qd2 25. f4 d5 26. f5
+Rd6 27. Qe7 Rfd8 28. Rh3 f6 29. Rd3 Qh6 30. Rg3 R6d7 31. Qxc5 Qf4 32. Rf3
+Qd2 33. Rfe3 d4 34. R3e2 Qc3 35. Qxc3 dxc3 36. Re3 Rd1 37. Kf1 R8d2 38.
+Rxc3 Rxe1+ 39. Kxe1 Rxg2 40. b4 Rg1+ 41. Ke2 Rb1 42. Rb3 Rb2 43. Rxa3 Rxb4
+44. Ra5 g5 45. Rxa6 Kg7 46. Ra7+ Kh6 47. Rf7 g4 48. Rxf6+ Kg5 49. Rf8 Rb2
+50. Kd3 Rxa2 51. f6 Ra3+ 52. Kd4 Rh3 53. c4 Rxh2 54. Ke5 Re2+ 55. Kd6 g3
+56. f7 Kf6 57. Rg8 Kxf7 58. Rxg3 Re6+ 59. Kd5 Re1 60. Rd3 Ke8 61. Kc6 Rc1
+62. c5 Ke7 63. Kb6 Ke6 64. c6 Rb1+ 65. Kc7 1-0
+

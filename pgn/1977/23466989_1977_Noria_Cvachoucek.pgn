@@ -1,0 +1,21 @@
+[Event "corr EU"]
+[Site "corr EU"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Noria, J."]
+[Black "Cvachoucek, F."]
+[Result "1-0"]
+[ECO "B79"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, 12.h4"]
+[HashCode "23466989"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6 5. Nc3 Bg7 6. Be3 Nf6 7. Bc4 O-O
+8. Bb3 d6 9. f3 Bd7 10. h4 Qa5 11. Qd2 Rfc8 12. O-O-O Ne5 13. h5 Nxh5 14.
+Nd5 Qxd2+ 15. Rxd2 Kf8 16. g4 Nf6 17. Nxf6 Bxf6 18. Rxh7 Nc4 19. Bxc4 Rxc4
+20. g5 Bg7 21. Ne2 Rac8 22. Bxa7 Ra4 23. Bd4 Rxa2 24. b3 Bxd4 25. Nxd4 Ra5
+26. f4 Bg4 27. Kb2 Rac5 28. f5 Bh5 29. f6 exf6 30. gxf6 Kg8 31. Rg7+ Kf8
+32. Nf5 Rxf5 33. exf5 Rc6 34. Rd5 Ke8 35. Rh7 b6 36. b4 Bf3 37. fxg6 fxg6
+38. Rd3 1-0
+

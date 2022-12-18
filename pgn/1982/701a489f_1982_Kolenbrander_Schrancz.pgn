@@ -1,0 +1,19 @@
+[Event "corr FSM/EU Tch"]
+[Site "corr FSM/EU Tch"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Kolenbrander, Jaap"]
+[Black "Schrancz, I."]
+[Result "1-0"]
+[ECO "B89"]
+[Opening "Sicilian"]
+[Variation "Velimirovic attack"]
+[HashCode "701a489f"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bc4 e6 7. Be3 Be7
+8. Qe2 O-O 9. O-O-O Qc7 10. Rhg1 Na5 11. Bd3 e5 12. Ndb5 Qb8 13. g4 Be6 14.
+g5 Nd7 15. Nd5 Bxd5 16. exd5 a6 17. Rg3 g6 18. Nc3 b5 19. Rdg1 b4 20. Ne4
+Qb7 21. Qg4 Rfc8 22. Kb1 Nb6 23. Bxb6 Qxb6 24. Nf6+ Bxf6 25. gxf6 Qd4 26.
+Qh5 Nc4 27. Rxg6+ fxg6 28. Rxg6+ Kh8 29. Rg8+ 1-0
+

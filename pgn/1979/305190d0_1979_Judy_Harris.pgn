@@ -1,0 +1,21 @@
+[Event "Winston"]
+[Site "Winston"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Judy"]
+[Black "Harris"]
+[Result "1-0"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra gambit"]
+[HashCode "305190d0"]
+[Epoch "Rook"]
+
+1. e4 c5 2. d4 cxd4 3. c3 dxc3 4. Nxc3 e6 5. Nf3 a6 6. Bc4 Qc7 7. Qe2 Ne7
+8. O-O Ng6 9. Bb3 Nc6 10. Be3 b5 11. Rac1 Nf4 12. Qd2 Ng6 13. Nd4 Bd6 14.
+f4 O-O 15. Ndxb5 axb5 16. Nxb5 Qb8 17. Nxd6 Ba6 18. Rf3 h5 19. Rh3 h4 20.
+f5 Nge5 21. Rxh4 Nd3 22. Qe2 Nf4 23. Qg4 Ne2+ 24. Kh1 Qxd6 25. Bh6 Qd4 26.
+Qh5 Nxc1 27. Be3 f6 28. Bxd4 Nxd4 29. Qh7+ Kf7 30. Qg6+ Kg8 31. Rg4 Rf7 32.
+Rh4 Rff8 33. Bd1 Be2 34. Bxe2 Ncxe2 35. Rh7 Rf7 36. Qh5 Kf8 37. Rh8+ Ke7
+38. Rxa8 1-0
+

@@ -1,0 +1,16 @@
+[Event "corr EUR"]
+[Site "corr EUR"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Grabner, Helmut"]
+[Black "Schultheiss, Heinz"]
+[Result "0-1"]
+[ECO "B07"]
+[Opening "Pirc defence"]
+[HashCode "6186b1d6"]
+[Epoch "Rook"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. g4 Bg7 5. Nf3 O-O 6. e5 dxe5 7. dxe5 Qxd1+
+8. Kxd1 Rd8+ 9. Ke1 Ne8 10. Be3 Nc6 11. Bb5 Nb4 12. Rc1 c6 13. Be2 Nc7 14.
+a3 Nbd5 15. Nxd5 Nxd5 16. Bd2 Bf5 17. Nd4 Nf4 0-1
+

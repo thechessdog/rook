@@ -1,0 +1,20 @@
+[Event "Amsterdam"]
+[Site "Amsterdam"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Baljon, Christofoor"]
+[Black "Formanek, Edward"]
+[Result "1/2-1/2"]
+[ECO "B23"]
+[Opening "Sicilian"]
+[Variation "chameleon variation"]
+[HashCode "b49240df"]
+[Epoch "Rook"]
+[WhiteID "1000772"]
+[WhiteCountry "NED"]
+[BlackID "2001640"]
+[BlackCountry "USA"]
+
+1. e4 c5 2. Nc3 Nc6 3. Nge2 Nd4 4. Nxd4 cxd4 5. Ne2 e5 6. c3 dxc3 7. Nxc3 Bc5
+8. Bc4 Qh4 9. Qf3 Nf6 10. Nd5 Nxd5 11. Bxd5 O-O 12. Qg3 Qxg3 13. hxg3 Rb8 14.
+d3 d6 15. Ke2 Be6 16. Bxe6 fxe6 17. Be3 Rbc8 18. Rac1 1/2-1/2

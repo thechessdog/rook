@@ -1,0 +1,25 @@
+[Event "Salgotarjan"]
+[Site "Salgotarjan"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Varnusz, Egon"]
+[Black "Kral, P."]
+[Result "0-1"]
+[ECO "B15"]
+[Opening "Caro-Kann"]
+[Variation "Forgacs variation"]
+[HashCode "46c7ae3b"]
+[Epoch "Rook"]
+[WhiteCountry "HUN"]
+
+1. e4 c6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Nf6 5. Nxf6+ exf6 6. Bc4 Bd6 7. Qe2+ Qe7
+8. Qxe7+ Kxe7 9. Ne2 Bf5 10. Bb3 Re8 11. Be3 a5 12. c3 Nd7 13. Ng3 Bg4 14. O-O
+Kf8 15. Bc2 g6 16. Ne4 Be7 17. f3 Be6 18. b3 b5 19. Nc5 Nb6 20. Rfe1 Kg7 21.
+Re2 Nd5 22. Nxe6+ fxe6 23. Bd2 Bd6 24. c4 Nf4 25. Re4 g5 26. Rae1 Kf7 27. g3
+Ng6 28. Kg2 b4 29. c5 Bc7 30. Bd3 e5 31. Bc4+ Kf8 32. h4 h6 33. h5 Nh8 34. f4
+gxf4 35. gxf4 f5 36. R4e3 Rad8 37. fxe5 Rxd4 38. R3e2 Nf7 39. Rf2 Rxe5 40. Rxe5
+Bxe5 41. Bxf7 Kxf7 42. Bxh6 Kf6 43. Bf8 Rd8 44. Bd6 Bxd6 45. cxd6 Rxd6 46. Kf3
+Rd3+ 47. Kf4 Rd4+ 48. Kf3 Kg5 49. Rh2 Rd3+ 50. Ke2 Rd6 51. Kf3 Rd3+ 52. Ke2 Rc3
+53. Kd2 Kh6 54. Rf2 Rc5 55. Ke3 Kxh5 56. Kf4 Kg6 57. Rd2 Rd5 58. Rc2 c5 59. Rh2
+c4 60. bxc4 Rd4+ 61. Ke5 Rxc4 62. Rg2+ Rg4 63. Rc2 Kg5 64. Rc5 a4 65. Rb5 Re4+
+66. Kd5 Kf4 67. Kd6 a3 68. Kc6 Rd4 69. Kc5 Ke3 70. Rb8 Re4 0-1

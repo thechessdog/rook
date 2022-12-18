@@ -1,0 +1,16 @@
+[Event "Dayton,OH"]
+[Site "Dayton,OH"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Pelan, D."]
+[Black "Hand"]
+[Result "1-0"]
+[ECO "B45"]
+[Opening "Sicilian"]
+[Variation "Taimanov variation"]
+[HashCode "84db4f64"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 Bd6 6. Bc4 Qc7 7. Ndb5 Qb8
+8. Nxd6+ 1-0
+

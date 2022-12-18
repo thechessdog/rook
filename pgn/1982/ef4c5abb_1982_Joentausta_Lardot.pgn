@@ -1,0 +1,19 @@
+[Event "corr Heilimo mem"]
+[Site "corr Heilimo mem"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Joentausta"]
+[Black "Lardot"]
+[Result "1-0"]
+[ECO "C43"]
+[Opening "Petrov"]
+[Variation "modern attack, Symmetrical variation"]
+[HashCode "ef4c5abb"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nf6 3. d4 Nxe4 4. Bd3 d5 5. Nxe5 Be7 6. O-O Nd6 7. Nc3 c6
+8. Re1 Nd7 9. Bg5 Nxe5 10. Bxe7 Qxe7 11. Rxe5 Be6 12. Ne2 Qf6 13. Qd2 O-O
+14. Ng3 g6 15. Rae1 Rfe8 16. Qh6 Qg7 17. Qf4 Red8 18. Nh5 Qh8 19. Nf6+ Kg7
+20. R1e3 Rac8 21. Rh5 h6 22. Bxg6 fxg6 23. Rxe6 g5 24. Qe5 Nf7 25. Qf5 Rd6
+26. Rh3 Rxe6 27. Qxe6 Rd8 28. Rf3 h5 29. Nd7 1-0
+

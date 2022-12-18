@@ -1,0 +1,20 @@
+[Event "BL2-N 8283"]
+[Site "BL2-N 8283"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Berndt, Mi"]
+[Black "Pohl, J."]
+[Result "1-0"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack"]
+[HashCode "a912b09a"]
+[Epoch "Rook"]
+
+1. e4 d6 2. d4 g6 3. Nc3 Bg7 4. f4 Nf6 5. Nf3 O-O 6. Be2 c5 7. d5 e6 8. O-O
+exd5 9. exd5 Na6 10. Ng5 h6 11. Nge4 Re8 12. Ng3 h5 13. h3 Ng4 14. Nb5 Ne3
+15. Bxe3 Rxe3 16. Rf3 Re8 17. f5 h4 18. fxg6 fxg6 19. Qd3 hxg3 20. Qxg6 Rf8
+21. Raf1 Rxf3 22. Rxf3 Bf5 23. Qxf5 Qh4 24. Qf7+ Kh8 25. Rf5 Rf8 26. Rh5+
+Qxh5 27. Qxh5+ Kg8 28. Bd3 Rf6 29. Qg4 Nb4 30. Qxg3 a6 31. Nxd6 Nxd3 32.
+Ne8 Rf7 33. Nxg7 1-0
+

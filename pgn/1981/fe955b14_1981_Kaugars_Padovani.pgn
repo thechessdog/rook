@@ -1,0 +1,20 @@
+[Event "Berkeley"]
+[Site "Berkeley"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Kaugars, A."]
+[Black "Padovani, M."]
+[Result "0-1"]
+[ECO "B41"]
+[Opening "Sicilian"]
+[Variation "Kan, Maroczy bind (Reti variation)"]
+[HashCode "fe955b14"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. c4 Nc6 6. Be2 Qc7 7. O-O Nf6 8.
+Nxc6 bxc6 9. Qd4 e5 10. Qd3 Be7 11. Be3 d6 12. Nc3 O-O 13. b3 Be6 14. Rac1
+Rfd8 15. Nd5 cxd5 16. cxd5 Qd7 17. dxe6 Qxe6 18. Rc6 Qd7 19. Rfc1 d5 20.
+exd5 Nxd5 21. Bd2 Ba3 22. R1c2 Qe7 23. Qc4 a5 24. Bf3 e4 25. Bxe4 Nb4 26.
+Rc7 Qe5 27. Bxa8 Nxc2 28. Qxc2 Qa1+ 29. Bc1 Bxc1 30. g3 Ba3+ 31. Kg2 Rxa8
+32. Qb1 0-1
+

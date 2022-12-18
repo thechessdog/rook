@@ -1,0 +1,24 @@
+[Event "ACM Seattle"]
+[Site "ACM Seattle"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Duchess"]
+[Black "Black Knight"]
+[Result "1-0"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra gambit"]
+[HashCode "9b90b506"]
+[Epoch "Rook"]
+
+1. e4 c5 2. d4 cxd4 3. c3 dxc3 4. Nxc3 Nc6 5. Nf3 d6 6. Bc4 e6 7. O-O Nf6
+8. Qe2 Be7 9. Rd1 e5 10. Be3 Ng4 11. Bd2 Bh4 12. Be1 Be7 13. Bd2 Be6 14.
+Bxe6 fxe6 15. Ng5 Bxg5 16. Qxg4 Bxd2 17. Qxg7 Rf8 18. Qxb7 Qb6 19. Qxa8+
+Ke7 20. Qxf8+ Kxf8 21. Rxd2 Qc7 22. Rad1 Nd4 23. f4 Qg7 24. Rd3 h5 25. Kh1
+a6 26. fxe5 dxe5 27. Rf1+ Ke8 28. Rg3 Qe7 29. Rg8+ Kd7 30. Ra8 Kc6 31.
+Rxa6+ Kb7 32. Ra4 Kc6 33. Ra5 Qb4 34. Rxe5 Qxb2 35. Rc5+ Kd6 36. e5+ Ke7
+37. Rb1 Qf2 38. Rc7+ Kd8 39. Rh7 Nc6 40. Rh8+ Kc7 41. Nb5+ Kd7 42. Rh7+ Kd8
+43. Nd6 Qf8 44. Kg1 h4 45. Rbb7 Ne7 46. Rb8+ Kc7 47. Rxf8 h3 48. Rxe7+ Kc6
+49. gxh3 Kd5 50. Nf7 Kd4 51. Rxe6 Kd5 52. Rd6+ Ke4 53. Rc8 Kf3 54. Rc4 Ke2
+55. Re4+ Kf3 56. Ng5# 1-0
+

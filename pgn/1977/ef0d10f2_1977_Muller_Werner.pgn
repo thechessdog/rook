@@ -1,0 +1,16 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Muller, G."]
+[Black "Werner, C."]
+[Result "0-1"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack"]
+[HashCode "ef0d10f2"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 Nbd7 4. Nf3 h6 5. Bf4 c5 6. dxc5 Nxc5 7. e3 a6
+8. Ne5 g5 9. Bg3 Bg7 10. Qd4 Nfe4 11. O-O-O Nxc3 12. Qxc3 Ne4 13. Qb3 Nxg3
+14. Rxd5 Qc7 15. Qa4+ Kf8 16. Nd7+ Bxd7 17. Rxd7 Bxb2+ 18. Kd1 Rd8 0-1
+

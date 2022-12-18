@@ -1,0 +1,20 @@
+[Event "corr ICCF Master"]
+[Site "corr ICCF Master"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Moore, B."]
+[Black "Phillips, P."]
+[Result "1-0"]
+[ECO "B63"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...Be7"]
+[HashCode "06eb686b"]
+[Epoch "Rook"]
+
+1. e4 c5 2. d4 cxd4 3. Nf3 Nc6 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd2 Be7
+8. O-O-O O-O 9. Nb3 Ne8 10. Bxe7 Nxe7 11. Nb5 d5 12. Nc3 Nf6 13. exd5 exd5
+14. Bd3 Be6 15. h4 Nc6 16. h5 d4 17. Ne2 Bxb3 18. axb3 Nd5 19. h6 g6 20.
+Bb5 Ndb4 21. Bxc6 Nxc6 22. Nxd4 Qc7 23. Nxc6 bxc6 24. Qd6 Qxd6 25. Rxd6
+Rac8 26. Rd7 a5 27. Re1 Ra8 28. Ree7 a4 29. b4 a3 30. bxa3 Rxa3 31. Kb2
+Raa8 32. Rc7 Ra6 33. c4 Rb6 34. Kc3 Rfb8 35. Rxf7 1-0
+

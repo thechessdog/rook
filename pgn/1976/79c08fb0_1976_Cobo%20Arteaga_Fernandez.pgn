@@ -1,0 +1,16 @@
+[Event "Capablanca mem-C 13th"]
+[Site "Cienfuegos"]
+[Date "1976.05.23"]
+[Round "7"]
+[White "Cobo Arteaga, Eldis"]
+[Black "Fernandez, Ciro A"]
+[Result "1/2-1/2"]
+[ECO "E59"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line"]
+[HashCode "79c08fb0"]
+[Epoch "Rook"]
+[WhiteCountry "CUB"]
+
+1. d4 Nf6 2. Nf3 d5 3. c4 e6 4. Nc3 Bb4 5. e3 O-O 6. Bd3 c5 7. O-O dxc4 8. Bxc4
+Nc6 9. a3 Bxc3 10. bxc3 Qc7 11. Bd3 e5 12. Qc2 Re8 13. e4 c4 1/2-1/2

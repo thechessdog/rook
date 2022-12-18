@@ -1,0 +1,17 @@
+[Event "Dayton,OH"]
+[Site "Dayton,OH"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Wall, Bill"]
+[Black "Lippert, Jack"]
+[Result "1-0"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "4.Nf3"]
+[HashCode "83664d51"]
+[Epoch "Rook"]
+[WhiteCountry "USA"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 Be7 5. e3 O-O 6. Bd3 b6 7. O-O Bb7 8. b3 c5
+9. Bb2 cxd4 10. exd4 Nc6 11. a3 dxc4 12. bxc4 h6 13. Qe2 Nxd4 14. Nxd4 Qxd4 15.
+Nd5 Qc5 16. Bxf6 gxf6 17. Nxe7+ Qxe7 18. Qg4+ Kh8 19. Qh5 1-0

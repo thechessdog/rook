@@ -1,0 +1,20 @@
+[Event "Berlin"]
+[Site "Berlin"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Brumm, Carsten, Dr."]
+[Black "Ditt, Egon"]
+[Result "0-1"]
+[ECO "A36"]
+[Opening "English"]
+[Variation "symmetrical, Botvinnik system"]
+[HashCode "af89ccb7"]
+[Epoch "Rook"]
+[BlackID "4603400"]
+[BlackCountry "GER"]
+[WhiteID "4606833"]
+[WhiteCountry "GER"]
+
+1. e4 g6 2. c4 Bg7 3. Nc3 c5 4. g3 Nc6 5. Bg2 d6 6. Nge2 h5 7. h3 e5 8. f4 Nh6
+9. d3 f5 10. Be3 h4 11. O-O hxg3 12. b4 Qh4 13. Nb5 O-O 14. bxc5 fxe4 15. dxe4
+Bxh3 16. Bxh3 Qxh3 17. Rf3 exf4 18. Nxf4 Qh2+ 19. Kf1 Ne5 0-1

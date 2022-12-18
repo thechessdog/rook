@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Peruzzi"]
+[Black "Krause"]
+[Result "0-1"]
+[ECO "B07"]
+[Opening "Pirc"]
+[Variation "Byrne variation"]
+[HashCode "96194327"]
+[Epoch "Rook"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Bg5 c6 5. e5 dxe5 6. dxe5 Qxd1+ 7. Rxd1 Ng4
+8. Nf3 Bg7 9. Ne4 Nxe5 10. Nxe5 Bxe5 11. c3 h6 12. Bh4 b6 13. f4 Bxf4 14.
+Nf6+ exf6 15. Bxf6 O-O 16. Be2 Be6 17. b3 Nd7 18. Bd4 c5 19. Bf2 Ne5 20.
+O-O Bg4 21. Bxg4 Nxg4 22. g3 Be3 0-1
+

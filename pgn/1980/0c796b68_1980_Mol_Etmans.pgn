@@ -1,0 +1,18 @@
+[Event "corr NLD/K"]
+[Site "corr NLD/K"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Mol, J."]
+[Black "Etmans, Maarten D"]
+[Result "0-1"]
+[ECO "A40"]
+[Opening "Queen's pawn"]
+[Variation "Franco-Indian (Keres) defence"]
+[HashCode "0c796b68"]
+[Epoch "Rook"]
+
+1. d4 e6 2. c4 Bb4+ 3. Bd2 Bxd2+ 4. Qxd2 f5 5. Nf3 Nf6 6. g3 Ne4 7. Qd3 d6 8.
+Nbd2 Nxd2 9. Nxd2 O-O 10. Bg2 Nd7 11. f4 Nf6 12. e4 fxe4 13. Nxe4 Bd7 14. O-O
+Bc6 15. d5 exd5 16. cxd5 Bd7 17. Ng5 h6 18. Ne6 Bxe6 19. dxe6 c6 20. h3 d5 21.
+Rae1 Qd6 22. Re5 Rae8 23. Rfe1 Re7 24. g4 Rfe8 25. g5 hxg5 26. fxg5 Nh7 27. g6
+Nf6 28. Qf5 d4 29. Be4 Rxe6 0-1

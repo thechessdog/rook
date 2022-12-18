@@ -1,0 +1,19 @@
+[Event "Vilnius"]
+[Site "Vilnius"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Machulsky, Anatoly D"]
+[Black "Kharitonov, A."]
+[Result "1-0"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "c3fb7876"]
+[Epoch "Rook"]
+[BlackCountry "RUS"]
+[WhiteCountry "RUS"]
+
+1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. d4 e6 5. Nf3 Nf6 6. Na3 Qd8 7. Nc2 Nc6 8. Bd3
+Be7 9. Qe2 O-O 10. O-O b6 11. dxc5 Bxc5 12. Rd1 Qc7 13. Bg5 Bb7 14. Bxf6 gxf6
+15. Qe4 f5 16. Qh4 f6 17. Bc4 Rae8 18. Ncd4 Nxd4 19. Nxd4 Bxd4 20. Rxd4 Qc6 21.
+f3 Re7 22. Rad1 Rg7 23. R1d2 b5 24. Bb3 Kh8 25. Kf1 Bc8 26. Rd8 1-0

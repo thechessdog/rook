@@ -1,0 +1,20 @@
+[Event "Hamburg"]
+[Site "Hamburg"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Geveke, Michael"]
+[Black "Bischoff, Klaus"]
+[Result "1/2-1/2"]
+[ECO "A37"]
+[Opening "English"]
+[Variation "symmetrical, Botvinnik system reversed"]
+[HashCode "eec2cd8e"]
+[Epoch "Rook"]
+[WhiteID "4602250"]
+[WhiteCountry "GER"]
+[BlackID "4600045"]
+[BlackCountry "GER"]
+
+1. Nf3 g6 2. g3 Bg7 3. c4 c5 4. Bg2 Nc6 5. Nc3 e5 6. O-O Nge7 7. Ne1 O-O 8. Nc2
+d6 9. a3 Be6 10. Ne3 Qd7 11. d3 Bh3 12. Ned5 Bxg2 13. Kxg2 Nxd5 14. Nxd5 Ne7
+15. Nxe7+ 1/2-1/2

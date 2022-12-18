@@ -1,0 +1,21 @@
+[Event "RLN 8081"]
+[Site "RLN 8081"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Woelk, Siegfried"]
+[Black "Heemsoth, Hermann"]
+[Result "1-0"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack"]
+[HashCode "7167ab8c"]
+[Epoch "Rook"]
+[WhiteID "24603309"]
+[WhiteCountry "GER"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 c5 4. Bxf6 exf6 5. e4 cxd4 6. Qxd4 Nc6 7. Bb5 dxe4
+8. Qxe4+ Qe7 9. Nge2 Qxe4 10. Nxe4 f5 11. N4c3 Bd7 12. O-O-O Bc5 13. Nd4 O-O-O
+14. Nxc6 Bxc6 15. Bxc6 bxc6 16. Rxd8+ Rxd8 17. Nd1 Re8 18. Kd2 Kd7 19. Re1 Rxe1
+20. Kxe1 f4 21. Ke2 Ke6 22. a3 Bd4 23. b4 f5 24. Kd3 Bb6 25. c4 Bd8 26. f3 Bf6
+27. Nc3 Be7 28. Ne2 Kd7 29. c5 Bg5 30. Kc4 a6 31. a4 g6 32. b5 axb5+ 33. axb5
+cxb5+ 34. Kxb5 Kc7 35. Nd4 Bf6 36. Kc4 Kd7 37. Kd5 Kc8 38. Nb5 Bd8 39. c6 Ba5
+40. Ke6 Bd8 41. Kf7 g5 42. Ke6 1-0

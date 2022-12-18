@@ -1,0 +1,20 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Miethke"]
+[Black "Neckel"]
+[Result "0-1"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra gambit"]
+[HashCode "8299b6e9"]
+[Epoch "Rook"]
+
+1. e4 c5 2. d4 cxd4 3. c3 dxc3 4. Nxc3 Nc6 5. Nf3 d6 6. Bc4 e6 7. O-O Be7
+8. Qe2 a6 9. Rd1 Qc7 10. Bf4 Nf6 11. Rac1 O-O 12. Bb3 Qb8 13. h3 Ne5 14.
+Nd4 Bd7 15. Bg3 Nc6 16. Nxc6 Bxc6 17. Nd5 Nxd5 18. exd5 Bb5 19. Qg4 e5 20.
+Bc2 g6 21. a4 Be8 22. Qb4 a5 23. Qa3 Bg5 24. Rb1 Qc7 25. Bb3 Rc8 26. Rd3
+Qb6 27. Bd1 Bd7 28. Rb3 Qa6 29. Rc3 Bf5 30. Ra1 Bd2 31. Rxc8 Rxc8 32. Bg4
+Bxg4 33. hxg4 Rc4 34. Qf3 Bg5 35. Kh2 Qb6 36. Ra3 Qd4 37. Rb3 b6 0-1
+

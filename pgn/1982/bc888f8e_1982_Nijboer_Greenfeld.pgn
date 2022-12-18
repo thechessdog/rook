@@ -1,0 +1,22 @@
+[Event "Groningen"]
+[Site "Groningen"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Nijboer, Friso"]
+[Black "Greenfeld, Alon"]
+[Result "0-1"]
+[ECO "A30"]
+[Opening "English"]
+[Variation "symmetrical, hedgehog system"]
+[HashCode "bc888f8e"]
+[Epoch "Rook"]
+[WhiteID "1000063"]
+[BlackID "2800039"]
+[WhiteCountry "NED"]
+[BlackCountry "ISR"]
+
+1. c4 Nf6 2. Nc3 c5 3. g3 e6 4. Nf3 b6 5. Bg2 Bb7 6. O-O Be7 7. d4 cxd4 8. Qxd4
+d6 9. Rd1 a6 10. e4 Nbd7 11. b3 Qb8 12. Bb2 O-O 13. Nd2 Rc8 14. Qe3 b5 15. cxb5
+axb5 16. Nxb5 Rc2 17. Ba3 Ne5 18. Qd4 Ne8 19. Nc4 Bf6 20. Nxe5 Bxe5 21. Qd3 Rc6
+22. Rac1 Ba6 23. Rxc6 Bxb5 24. Qc2 Bxc6 25. Qxc6 Rxa3 26. f4 Bb2 27. e5 dxe5
+28. fxe5 Rxa2 29. Rd7 Ra1+ 30. Kf2 Qxe5 31. Bf3 Qe1+ 32. Kg2 Qf1# 0-1

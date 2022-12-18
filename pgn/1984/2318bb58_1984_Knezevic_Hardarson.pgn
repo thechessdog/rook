@@ -1,0 +1,17 @@
+[Event "Reykjavik"]
+[Site "Reykjavik"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Knezevic, Milorad"]
+[Black "Hardarson, Robert"]
+[Result "1/2-1/2"]
+[ECO "A46"]
+[Opening "Queen's pawn"]
+[Variation "Yusupov-Rubinstein system"]
+[HashCode "2318bb58"]
+[Epoch "Rook"]
+[WhiteID "950238"]
+[WhiteCountry "SRB"]
+
+1. d4 Nf6 2. Nf3 e6 3. e3 c5 4. b3 b6 5. Bb2 Be7 6. Bd3 Bb7 7. O-O O-O 8. c4
+cxd4 9. exd4 d5 10. Nc3 Nc6 11. Qe2 Rc8 12. Rad1 1/2-1/2

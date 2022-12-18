@@ -1,0 +1,18 @@
+[Event "DEN-chJ int"]
+[Site "Ribe"]
+[Date "1978.??.??"]
+[Round "3"]
+[White "Skov, Palle"]
+[Black "Fly, Bjarne"]
+[Result "0-1"]
+[ECO "C00"]
+[Opening "French"]
+[Variation "Chigorin variation"]
+[HashCode "63ebad8c"]
+[Epoch "Rook"]
+[WhiteID "1403419"]
+[WhiteCountry "DEN"]
+
+1. e4 e6 2. Qe2 c5 3. g3 Nc6 4. c3 g6 5. Bg2 Bg7 6. Nf3 Nge7 7. O-O d6 8. d3
+O-O 9. a4 Rb8 10. Bg5 h6 11. Bf4 e5 12. Be3 Bg4 13. Qd2 Kh7 14. b4 b6 15. Na3
+f5 16. bxc5 dxc5 17. exf5 gxf5 18. Rfd1 Na5 19. Qa2 Bh5 20. Qe2 Nd5 0-1

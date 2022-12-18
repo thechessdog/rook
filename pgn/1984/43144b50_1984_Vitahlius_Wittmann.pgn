@@ -1,0 +1,19 @@
+[Event "corr EU"]
+[Site "corr EU"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Vitahlius, E."]
+[Black "Wittmann, Walter"]
+[Result "1-0"]
+[ECO "B97"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7...Qb6"]
+[HashCode "43144b50"]
+[Epoch "Rook"]
+[BlackID "1600060"]
+[BlackCountry "AUT"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qb6 8. Qd2
+Qxb2 9. Nb3 Nbd7 10. Bd3 Be7 11. O-O Qa3 12. Rac1 h6 13. Bh4 e5 14. Bxf6 Nxf6
+15. Nd5 Nxd5 16. exd5 Bf6 17. Qe3 O-O 18. Nd2 Qxa2 19. Nc4 b5 20. Qe4 g6 21.
+Nxd6 exf4 22. Rxf4 Bg7 23. Rxf7 1-0

@@ -1,0 +1,18 @@
+[Event "corr ch9-DDR"]
+[Site "corr ch9-DDR"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Richter, D."]
+[Black "Fechner, J."]
+[Result "1-0"]
+[ECO "E48"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 O-O, 5.Bd3 d5"]
+[HashCode "7e770cb2"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 Nc6 7. O-O a6 8.
+h3 h6 9. Qc2 dxc4 10. Bxc4 Bd6 11. e4 e5 12. Be3 Qe8 13. Rfe1 Nd7 14. dxe5
+Ndxe5 15. Nxe5 Nxe5 16. Bb3 Ng6 17. e5 Nxe5 18. Bd4 c5 19. Bxe5 Bxe5 20.
+Qe4 Bxh3 21. Qxe5 Bd7 22. Qxc5 1-0
+

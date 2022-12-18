@@ -1,0 +1,24 @@
+[Event "FIDE (30) 1976-1978"]
+[Site "Biel izt"]
+[Date "1976.07.01"]
+[Round "3"]
+[White "Lombard, Andre"]
+[Black "Csom, Istvan"]
+[Result "0-1"]
+[ECO "E41"]
+[Opening "Nimzo-Indian"]
+[Variation "e3, Huebner variation"]
+[HashCode "f6cfddad"]
+[Epoch "Rook"]
+[WhiteID "1300091"]
+[WhiteCountry "SUI"]
+[BlackID "700100"]
+[BlackCountry "HUN"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 Nc6 6. Nf3 Bxc3+ 7. bxc3 d6 8. e4
+e5 9. d5 Ne7 10. Nh4 h6 11. f3 Qa5 12. Qc2 g5 13. Nf5 Nxf5 14. exf5 Bd7 15. Be3
+O-O-O 16. Kd2 Rde8 17. Rae1 Ba4 18. Qb1 Kc7 19. Bc2 Bxc2 20. Qxc2 Qa6 21. Qb3
+Nd7 22. Bf2 Rb8 23. a4 Nb6 24. Re4 Qxa4 25. Qxa4 Nxa4 26. f4 gxf4 27. g3 fxg3
+28. hxg3 Rbg8 29. Reh4 Rg5 30. g4 Nb6 31. Rxh6 Nxc4+ 32. Ke2 Rxh6 33. Rxh6 Rxg4
+34. Rh7 e4 35. Rxf7+ Kb6 36. f6 a5 37. Rd7 Rf4 38. f7 a4 39. Bg3 Rf5 40. Bxd6
+a3 0-1

@@ -1,0 +1,18 @@
+[Event "Salgotarjan"]
+[Site "Salgotarjan"]
+[Date "1979.??.??"]
+[Round "?"]
+[White "Toth, Bela"]
+[Black "Palla, Gy"]
+[Result "0-1"]
+[ECO "C62"]
+[Opening "Ruy Lopez"]
+[Variation "old Steinitz defence"]
+[HashCode "0e341a28"]
+[Epoch "Rook"]
+[WhiteID "736112"]
+[WhiteCountry "ITA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 d6 4. d4 exd4 5. Nxd4 Bd7 6. Nc3 Nxd4 7. Bxd7+ Qxd7
+8. Qxd4 Ne7 9. Be3 Nc6 10. Qd5 Be7 11. Nb5 O-O 12. O-O-O a6 13. Nd4 Bf6 14. Nf5
+Rfe8 15. Bf4 Nb4 16. Qc4 Qa4 17. a3 Rxe4 18. Qxc7 Rxf4 19. Nxd6 Rxf2 0-1

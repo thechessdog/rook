@@ -1,0 +1,22 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Krajinski"]
+[Black "Baum"]
+[Result "1-0"]
+[ECO "C24"]
+[Opening "Bishop's opening"]
+[Variation "Urusov gambit"]
+[HashCode "51c6196a"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Bc4 Nf6 3. d4 exd4 4. Nf3 Nxe4 5. Qxd4 Nf6 6. Bg5 Be7 7. Nc3 c6
+8. O-O-O d5 9. Rhe1 Be6 10. Bd3 Nbd7 11. Ne5 Nc5 12. Be2 Nce4 13. Nf3 O-O
+14. Nxe4 Nxe4 15. Bxe7 Qxe7 16. Bd3 c5 17. Qe5 Nxf2 18. Bxh7+ Kxh7 19. Qh5+
+Kg8 20. Ng5 Qxg5+ 21. Qxg5 Nxd1 22. Rxd1 Rfc8 23. Rd3 b5 24. Rg3 g6 25. Qh6
+Bf5 26. Rf3 Re8 27. Qg5 Re1+ 28. Kd2 Re5 29. g4 Be4 30. Qxe5 Bxf3 31. Qe3
+Bxg4 32. Qxc5 a6 33. Qxd5 Ra7 34. Qd8+ Kh7 35. Qb6 Ra8 36. Qb7 Rd8+ 37. Ke3
+Re8+ 38. Kf4 Be6 39. Qxa6 Rc8 40. c3 Rc4+ 41. Ke3 b4 42. cxb4 Rxb4 43. b3
+Rh4 44. Qd6 g5 45. Kd2 1-0
+

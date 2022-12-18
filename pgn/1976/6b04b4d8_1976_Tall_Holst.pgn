@@ -1,0 +1,20 @@
+[Event "corr SWE/M"]
+[Site "corr SWE/M"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Tall"]
+[Black "Holst"]
+[Result "1-0"]
+[ECO "B97"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Poisoned pawn variation"]
+[HashCode "6b04b4d8"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qb6 8.
+Qd2 Qxb2 9. Rb1 Qa3 10. f5 b5 11. fxe6 fxe6 12. Be2 Be7 13. Bf3 O-O 14. O-O
+Ra7 15. Be3 Rb7 16. g4 e5 17. Nf5 Be6 18. g5 Ne8 19. Nd5 Bd8 20. Bg4 Bf7
+21. h4 Qxa2 22. Qf2 Qc4 23. Rb4 Qc6 24. h5 Kh8 25. Ng3 a5 26. Rb3 b4 27.
+Be6 Na6 28. g6 a4 29. Rbb1 Bxe6 30. Qxf8+ Bg8 31. Rf7 Nac7 32. Nxc7 Rxc7
+33. Rbf1 1-0
+

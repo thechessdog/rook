@@ -1,0 +1,18 @@
+[Event "Caorle op"]
+[Site "Caorle"]
+[Date "1981.??.??"]
+[Round "3"]
+[White "Konnenic, B."]
+[Black "Kvist, A."]
+[Result "0-1"]
+[ECO "D48"]
+[Opening "QGD semi-Slav"]
+[Variation "Meran, old main line"]
+[HashCode "4cc5696f"]
+[Epoch "Rook"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. e3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8.
+Bd3 a6 9. e4 c5 10. e5 cxd4 11. exf6 dxc3 12. Be4 Rb8 13. Bf4 cxb2 14. Bxb8
+bxa1=Q 15. Qxa1 Nxf6 16. Bb1 Bb4+ 17. Ke2 Bb7 18. Bf4 Bxf3+ 19. gxf3 Nd5
+20. Be5 f6 21. a3 Ba5 0-1
+

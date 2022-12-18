@@ -1,0 +1,20 @@
+[Event "corr Netherlands"]
+[Site "corr Netherlands"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Van der Kooij"]
+[Black "Van Kampen"]
+[Result "1-0"]
+[ECO "B69"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...a6 defence, 11.Bxf6"]
+[HashCode "2f38c46b"]
+[Epoch "Rook"]
+[WhiteID "1011812"]
+[WhiteCountry "NED"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd2 a6 8.
+O-O-O Bd7 9. f4 Be7 10. Nf3 b5 11. Bxf6 Bxf6 12. Qxd6 Be7 13. Qd2 Ra7 14. e5
+O-O 15. Ne4 Rc7 16. Nd6 f6 17. Kb1 fxe5 18. fxe5 Rxf3 19. gxf3 Nxe5 20. Qf4 Bf6
+21. Ne4 Nc4 22. Nxf6+ Qxf6 23. Qxf6 gxf6 24. Bxc4 bxc4 25. Rd6 a5 26. Rhd1 Bc6
+27. Rxe6 Bxf3 28. Rf1 Bd5 29. Rexf6 Bf7 30. Ra6 Rc5 31. Ra8+ 1-0

@@ -1,0 +1,19 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Zarubin, Pavel"]
+[Black "Polovodin, Igor A"]
+[Result "1/2-1/2"]
+[ECO "C69"]
+[Opening "Ruy Lopez"]
+[Variation "exchange, Bronstein variation"]
+[HashCode "9082e11e"]
+[Epoch "Rook"]
+[WhiteID "4102487"]
+[WhiteCountry "RUS"]
+[BlackCountry "RUS"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O Qd6 6. d4 exd4 7. Nxd4 Bd7 8.
+Be3 O-O-O 9. Nd2 Nh6 10. h3 Qg6 11. Qf3 f5 12. Rfe1 fxe4 13. Qxe4 Nf5 14. c3
+Re8 15. Re2 1/2-1/2

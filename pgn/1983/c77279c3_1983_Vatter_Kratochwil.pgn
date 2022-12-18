@@ -1,0 +1,21 @@
+[Event "Birkenfeld Elo"]
+[Site "Birkenfeld"]
+[Date "1983.??.??"]
+[Round "9"]
+[White "Vatter, Hans-Joachim"]
+[Black "Kratochwil, Christian"]
+[Result "1-0"]
+[ECO "B00"]
+[Opening "KP"]
+[Variation "Nimzovich defence"]
+[HashCode "c77279c3"]
+[Epoch "Rook"]
+[WhiteCountry "GER"]
+[BlackCountry "GER"]
+[BlackID "4602765"]
+
+1. e4 Nc6 2. Nf3 d6 3. h3 Nf6 4. Nc3 g6 5. d4 Bg7 6. Be2 O-O 7. Be3 Re8 8. Qd2
+e5 9. dxe5 dxe5 10. O-O-O Qxd2+ 11. Rxd2 Be6 12. Bb5 Bd7 13. Rhd1 a6 14. Rxd7
+axb5 15. Rxc7 b4 16. Nd5 Nxe4 17. Kb1 Ra5 18. Rxb7 Rea8 19. Nxb4 Nxb4 20. Rxb4
+Rxa2 21. Rb8+ Rxb8 22. Kxa2 Rc8 23. c3 f5 24. Ng5 Nxg5 25. Bxg5 Rc7 26. Bd8
+Ra7+ 27. Kb1 Kf7 28. Kc2 Ke6 29. Bb6 Ra6 30. Bc5 e4 31. Bd4 Bf8 32. b4 1-0

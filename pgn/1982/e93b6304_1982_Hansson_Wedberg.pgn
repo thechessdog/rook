@@ -1,0 +1,22 @@
+[Event "Reykjavik op"]
+[Site "Reykjavik"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Hansson, Dan"]
+[Black "Wedberg, Tom"]
+[Result "0-1"]
+[ECO "C75"]
+[Opening "Ruy Lopez"]
+[Variation "modern Steinitz defence, Rubinstein variation"]
+[HashCode "e93b6304"]
+[Epoch "Rook"]
+[BlackID "1700073"]
+[BlackCountry "SWE"]
+[WhiteCountry "ISL"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nge7 4. c3 a6 5. Ba4 d6 6. d4 Bd7 7. Bb3 h6 8. Qe2
+Ng6 9. Qc4 Qf6 10. d5 b5 11. Qf1 Na5 12. Bd1 c6 13. a4 Qd8 14. b4 Nc4 15. Bb3
+cxd5 16. exd5 Rc8 17. Nfd2 Nxd2 18. Bxd2 Qh4 19. Qe2 Be7 20. O-O O-O 21. Rc1 e4
+22. axb5 axb5 23. Ra7 Ne5 24. Bc2 f5 25. Na3 Bg5 26. Rxd7 Nxd7 27. Nxb5 Bxd2
+28. Qxd2 Rf6 29. Bd1 f4 30. Nd4 f3 31. Qe1 Ne5 32. Ra1 Ng4 33. h3 e3 34. hxg4
+fxg2 35. Kxg2 Rxf2+ 0-1

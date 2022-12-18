@@ -1,0 +1,20 @@
+[Event "corr Wcup3"]
+[Site "corr Wcup3"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Zaitsev"]
+[Black "Lorincz"]
+[Result "0-1"]
+[ECO "B99"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7...Be7 main line"]
+[HashCode "0bbacb33"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8.
+Qf3 Qc7 9. O-O-O Nbd7 10. Bd3 h6 11. Qh3 Nb6 12. Bh4 e5 13. Nf5 Bxf5 14.
+exf5 O-O-O 15. Rhe1 exf4 16. Bf2 Rhe8 17. Bxb6 Qxb6 18. Bc4 d5 19. Bxd5 Bb4
+20. Na4 Bd2+ 21. Kb1 Qf2 22. Rf1 Qd4 23. Bb3 Re3 24. Qh4 Re2 25. Qh3 Qe4
+26. Rf3 Rd4 27. Nc5 Be3 28. Nd3 Rxd3 29. cxd3 Qd4 30. Bc2 Rxc2 31. Kxc2
+Qa4+ 32. b3 Qxa2+ 33. Kc3 Nd5+ 34. Kc4 Qc2+ 35. Kxd5 Qc6+ 36. Ke5 f6# 0-1
+

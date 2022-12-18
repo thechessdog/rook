@@ -1,0 +1,19 @@
+[Event "Moskou etc"]
+[Site "Moskou etc"]
+[Date "1977.04.01"]
+[Round "5"]
+[White "Radulov, Ivan"]
+[Black "Gheorghiu, Florin"]
+[Result "1/2-1/2"]
+[ECO "B42"]
+[Opening "Sicilian"]
+[Variation "Kan, 5.Bd3"]
+[HashCode "caabcb3f"]
+[Epoch "Rook"]
+[WhiteID "2900300"]
+[WhiteCountry "FID"]
+[BlackID "1200011"]
+[BlackCountry "ROU"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Nf6 6. O-O d6 7. c4 Be7 8. Nc3
+O-O 9. Be3 Nbd7 10. Rc1 Re8 11. h3 Bf8 12. Re1 b6 13. b3 Bb7 1/2-1/2

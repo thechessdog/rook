@@ -1,0 +1,20 @@
+[Event "corr ch11-DDR"]
+[Site "corr ch11-DDR"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Grottke, Hans"]
+[Black "Gebuhr, G."]
+[Result "1-0"]
+[ECO "B51"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky (Nimzovich-Rossolimo, Moscow) attack"]
+[HashCode "fb2ab541"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Nc6 4. O-O Bg4 5. h3 Bh5 6. c3 Qb6 7. Na3 a6 8.
+Ba4 e6 9. d4 Bxf3 10. Qxf3 cxd4 11. cxd4 Qxd4 12. Qb3 O-O-O 13. Bxc6 bxc6
+14. Nc4 Qa7 15. Na5 Qc7 16. Bd2 c5 17. Qd3 Qb6 18. Nc4 Qc6 19. Ba5 Re8 20.
+Rad1 Nf6 21. Rfe1 Kb8 22. Nxd6 Bxd6 23. Qxd6+ Qxd6 24. Rxd6 Kb7 25. Re3 c4
+26. b3 Rb8 27. bxc4 e5 28. Rb3+ Ka7 29. Bb6+ Ka8 30. f3 Rhc8 31. Be3 Rxb3
+32. axb3 1-0
+

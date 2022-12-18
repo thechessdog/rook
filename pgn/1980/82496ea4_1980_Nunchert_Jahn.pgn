@@ -1,0 +1,20 @@
+[Event "DDR"]
+[Site "DDR"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Nuenchert, Eveline"]
+[Black "Jahn, Constanze"]
+[Result "1-0"]
+[ECO "B68"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...a6 defence, 9...Be7"]
+[HashCode "82496ea4"]
+[Epoch "Rook"]
+[BlackID "4612450"]
+[BlackCountry "GER"]
+[WhiteID "4612540"]
+[WhiteCountry "GER"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 e6 7. Qd2 a6 8.
+O-O-O Bd7 9. f4 Be7 10. Qe1 O-O 11. Nb3 Qc7 12. Bd3 Nb4 13. Kb1 b5 14. e5 dxe5
+15. fxe5 Nfd5 16. Nxd5 Nxd5 17. Qh4 1-0

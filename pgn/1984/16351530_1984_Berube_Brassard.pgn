@@ -1,0 +1,19 @@
+[Event "Chicoutimi"]
+[Site "Chicoutimi"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Berube, Richard"]
+[Black "Brassard, E."]
+[Result "1-0"]
+[ECO "A31"]
+[Opening "English"]
+[Variation "symmetrical, Benoni formation"]
+[HashCode "16351530"]
+[Epoch "Rook"]
+[WhiteID "2600579"]
+[WhiteCountry "CAN"]
+
+1. d4 Nf6 2. c4 c5 3. Nf3 cxd4 4. Nxd4 d5 5. cxd5 Nxd5 6. e4 Nb6 7. Nc3 e5 8.
+Bb5+ Bd7 9. Ne6 Qc8 10. Nxf8 Kxf8 11. Be3 Nc4 12. Bxc4 Qxc4 13. Qd6+ Kg8 14.
+Nd5 Nc6 15. Rc1 Qxe4 16. Rxc6 bxc6 17. Ne7+ Kf8 18. Ng6+ Kg8 19. Qf8+ Rxf8 20.
+Ne7# 1-0

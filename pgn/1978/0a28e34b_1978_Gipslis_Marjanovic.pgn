@@ -1,0 +1,19 @@
+[Event "Dortmund"]
+[Site "Dortmund"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Gipslis, Aivars"]
+[Black "Marjanovic, Slavoljub"]
+[Result "1/2-1/2"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Byrne (English) attack"]
+[HashCode "0a28e34b"]
+[Epoch "Rook"]
+[WhiteCountry "LVA"]
+[BlackID "900354"]
+[BlackCountry "SRB"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e5 7. Nf3 Qc7 8. Bg5
+Nbd7 9. a4 h6 10. Bh4 Be7 11. Nd2 g5 12. Bg3 Nf8 13. Bc4 Be6 14. Qe2 Rc8 15.
+Bb3 h5 16. h4 1/2-1/2

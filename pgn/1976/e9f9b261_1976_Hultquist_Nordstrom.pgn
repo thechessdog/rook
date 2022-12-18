@@ -1,0 +1,20 @@
+[Event "corr SWE/K"]
+[Site "corr SWE/K"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Hultquist, Torsten"]
+[Black "Nordstrom, Eric"]
+[Result "1-0"]
+[ECO "B74"]
+[Opening "Sicilian"]
+[Variation "dragon, classical, Spielmann variation"]
+[HashCode "e9f9b261"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Be2 g6 7. Be3 Bg7
+8. Nb3 O-O 9. O-O Be6 10. f4 Na5 11. f5 Bc4 12. Bd3 Nxb3 13. axb3 Bxd3 14.
+cxd3 d5 15. Bd4 dxe4 16. dxe4 a6 17. e5 Ne8 18. Qg4 Qd7 19. Rad1 Qc6 20. h4
+Nc7 21. h5 gxf5 22. Rxf5 Kh8 23. Rdf1 Ne6 24. Be3 Rg8 25. Qf3 Qxf3 26.
+R1xf3 Rad8 27. Rxf7 Bf8 28. Rf2 Rg4 29. Bb6 Rc8 30. Nd5 Rc1+ 31. Kh2 Bg7
+32. R2f5 Re4 33. Rxe7 Bxe5+ 34. Rxe5 1-0
+

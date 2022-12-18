@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Ernoli"]
+[Black "Bonatti"]
+[Result "1-0"]
+[ECO "C69"]
+[Opening "Ruy Lopez"]
+[Variation "exchange, Gligoric variation"]
+[HashCode "d464b718"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O f6 6. d4 Bg4 7. c3 Bd6 8.
+Nbd2 Nh6 9. Qb3 Qc8 10. dxe5 fxe5 11. Ng5 Bh5 12. Qe6+ Qxe6 13. Nxe6 Kf7
+14. Ng5+ Kg6 15. Nc4 Rhg8 16. Na5 Rab8 17. f3 Nf7 18. Nh3 Kf6 19. Be3 c5
+20. Rad1 Nd8 21. Nc4 Be7 22. Rd5 Nf7 23. f4 Be2 24. fxe5+ Ke6 25. Nf4# 1-0
+

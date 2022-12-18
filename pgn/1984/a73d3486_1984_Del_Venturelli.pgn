@@ -1,0 +1,19 @@
+[Event "Lucca"]
+[Site "Lucca"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Del Dotto"]
+[Black "Venturelli"]
+[Result "1-0"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra gambit"]
+[HashCode "a73d3486"]
+[Epoch "Rook"]
+
+1. e4 c5 2. d4 cxd4 3. c3 dxc3 4. Nxc3 d6 5. Nf3 Nc6 6. Bc4 e6 7. O-O Nf6
+8. Qe2 a6 9. Rd1 Qc7 10. Bf4 e5 11. Nd5 Qd8 12. Ng5 Be6 13. Be3 Bxd5 14.
+Bxd5 Nxd5 15. Rxd5 Be7 16. Nf3 O-O 17. Rad1 Qc7 18. Ng5 h6 19. Nh3 Nb4 20.
+Rc1 Nxd5 21. Rxc7 Nxc7 22. Qg4 Ne6 23. Bxh6 Kh7 24. Ng5+ Kxh6 25. Qh4+ Kg6
+26. Qh7+ Kxg5 27. h4+ 1-0
+

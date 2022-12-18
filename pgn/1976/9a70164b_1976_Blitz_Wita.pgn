@@ -1,0 +1,22 @@
+[Event "ACM Houston"]
+[Site "ACM Houston"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Blitz IV"]
+[Black "Wita"]
+[Result "1-0"]
+[ECO "B95"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6...e6"]
+[HashCode "9a70164b"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. Bc4 Be7 8.
+O-O Qa5 9. Nf3 Qc5 10. Qd4 Nc6 11. Qxc5 dxc5 12. e5 Ng4 13. Bxe7 Kxe7 14.
+Rae1 Rd8 15. h3 Nh6 16. Ng5 Rd2 17. Bd3 Nb4 18. Rd1 Rxd1 19. Rxd1 Bd7 20.
+Be4 Bc6 21. Bxh7 Rc8 22. Rd6 Nf5 23. Rd2 f6 24. Bxf5 exf5 25. exf6+ gxf6
+26. Re2+ Kf8 27. Ne6+ Kf7 28. Nxc5 Rg8 29. a3 Bxg2 30. axb4 b6 31. Kh2 Bf3
+32. Re3 Bh5 33. Nxa6 f4 34. Re1 Bf3 35. Rg1 Rxg1 36. Kxg1 Kg7 37. Nc7 f5
+38. N7d5 Bxd5 39. Nxd5 f3 40. Nxb6 Kg6 41. Nd7 Kg5 42. c4 Kh4 43. Kh2 Kg5
+44. Kg3 f4+ 45. Kxf3 Kf5 46. Nc5 Kg5 1-0
+

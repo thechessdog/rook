@@ -1,0 +1,17 @@
+[Event "corr DDR-M"]
+[Site "corr DDR-M"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Wuttke, H."]
+[Black "Fischer, W."]
+[Result "1-0"]
+[ECO "B23"]
+[Opening "Sicilian"]
+[Variation "Grand Prix attack"]
+[HashCode "db4543d1"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nc3 Nc6 3. f4 e6 4. Nf3 Nge7 5. d4 cxd4 6. Nxd4 d5 7. Nxc6 bxc6
+8. Be3 a5 9. a3 Bb7 10. Bc5 Ng6 11. Bxf8 Kxf8 12. Qf3 Qb6 13. O-O-O Ne7 14.
+Na4 Qc7 15. Qf2 g6 16. Nc5 dxe4 17. Rd7 1-0
+

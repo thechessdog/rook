@@ -1,0 +1,18 @@
+[Event "Bogota"]
+[Site "Bogota"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Acosta, Alejandro"]
+[Black "Martinez, Cristian"]
+[Result "1-0"]
+[ECO "B33"]
+[Opening "Sicilian"]
+[Variation "Pelikan (Lasker/Sveshnikov) variation"]
+[HashCode "b8c7df18"]
+[Epoch "Rook"]
+[WhiteCountry "COL"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Nd5 Nxd5 8.
+exd5 Ne7 9. c4 Ng6 10. Qa4 Bd7 11. Qb4 Bxb5 12. Qxb5+ Qd7 13. a4 Nh4 14. Ra3
+Nf5 15. Qxd7+ Kxd7 16. Rf3 g6 17. g4 Nh6 18. Bxh6 Bxh6 19. Rxf7+ Kc8 20. h4 Bc1
+21. Rh3 Bxb2 22. Rb3 Bd4 23. Rbxb7 Bc5 24. g5 1-0

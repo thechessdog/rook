@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Kneip, A."]
+[Black "Belokurov, E."]
+[Result "0-1"]
+[ECO "C78"]
+[Opening "Ruy Lopez"]
+[Variation "Archangelsk (counterthrust) variation"]
+[HashCode "1314841e"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Bb7 7. Ng5 d5 8.
+exd5 Nd4 9. d3 Nxb3 10. axb3 Qxd5 11. Nf3 Bd6 12. Nc3 Qc6 13. Qe2 O-O 14.
+Ne1 Rfe8 15. Bg5 Nd5 16. Nxd5 Qxd5 17. f3 e4 0-1
+

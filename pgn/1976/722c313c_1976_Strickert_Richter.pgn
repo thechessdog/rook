@@ -1,0 +1,23 @@
+[Event "corr DDR-FSM"]
+[Site "corr DDR-FSM"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Strickert, H."]
+[Black "Richter, W."]
+[Result "0-1"]
+[ECO "C09"]
+[Opening "French"]
+[Variation "Tarrasch, open variation, main line"]
+[HashCode "722c313c"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. exd5 exd5 5. Ngf3 Nc6 6. Bb5 Bd6 7. O-O Ne7
+8. dxc5 Bxc5 9. Nb3 Bd6 10. Nbd4 O-O 11. Be3 Bg4 12. h3 Bh5 13. Qd2 Rc8 14.
+c3 Bb8 15. Be2 Qc7 16. Nb5 Qd7 17. Bf4 Bxf3 18. Bxf3 Ne5 19. Bxe5 Bxe5 20.
+Nd4 Bb8 21. Rfe1 Nc6 22. Rad1 Ne5 23. Be2 Nc4 24. Qc2 Qc7 25. g3 Ne3 26.
+Qb3 Nxd1 27. Rxd1 Rcd8 28. Bf3 a6 29. Bxd5 Rd6 30. a4 Ba7 31. c4 Rf6 32.
+Qd3 Qd7 33. b3 Qxh3 34. Bxb7 Rd8 35. Bd5 Qg4 36. Kg2 Rh6 37. Qf3 Qh3+ 38.
+Kg1 Qh2+ 39. Kf1 Rf6 40. Qg2 Qh5 41. g4 Qe5 42. Nc6 Qe3 43. Nxa7 Re8 44. f3
+Qxb3 45. Qd2 Rxf3+ 46. Bxf3 Qxf3+ 47. Kg1 Qxg4+ 48. Kh1 Qh5+ 49. Kg1 Qg4+
+50. Kh1 Qf3+ 51. Kg1 h6 52. Re1 Qg4+ 53. Kf1 Qxc4+ 54. Re2 Qxa4 0-1
+

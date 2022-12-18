@@ -1,0 +1,18 @@
+[Event "Nykobing"]
+[Site "Nykobing"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Leski, Marc"]
+[Black "Jorgensen, Klaus Frovin"]
+[Result "0-1"]
+[ECO "C05"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation"]
+[HashCode "a851457d"]
+[Epoch "Rook"]
+[WhiteID "600105"]
+[WhiteCountry "FRA"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Bd3 c5 6. c3 Nc6 7. Ne2 Qb6 8. Nf3
+f6 9. exf6 Nxf6 10. O-O Bd6 11. Rb1 O-O 12. Ng3 Bd7 13. dxc5 Bxc5 14. b4 Bxf2+
+15. Rxf2 Ng4 0-1

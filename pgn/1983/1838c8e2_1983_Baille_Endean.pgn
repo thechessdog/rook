@@ -1,0 +1,17 @@
+[Event "South Africa"]
+[Site "South Africa"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Baille, Grant"]
+[Black "Endean, David"]
+[Result "0-1"]
+[ECO "C15"]
+[Opening "French"]
+[Variation "Winawer, fingerslip variation"]
+[HashCode "1838c8e2"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. Bd2 dxe4 5. Qg4 Nf6 6. Qxg7 Rg8 7. Qh6 Nbd7
+8. O-O-O b6 9. f3 Bb7 10. fxe4 Bxc3 11. Bxc3 Nxe4 12. Qxh7 Qg5+ 13. Kb1
+Ndf6 14. h4 Qg4 0-1
+

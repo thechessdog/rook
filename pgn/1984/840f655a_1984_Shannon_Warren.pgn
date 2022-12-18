@@ -1,0 +1,20 @@
+[Event "corr ch-USA"]
+[Site "corr ch-USA"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Shannon"]
+[Black "Warren"]
+[Result "0-1"]
+[ECO "B52"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky attack, 3...Bd7"]
+[HashCode "840f655a"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Nxd7 5. O-O Ngf6 6. Re1 e6 7. c4
+Be7 8. Nc3 O-O 9. d4 cxd4 10. Nxd4 a6 11. b3 Qc7 12. Bb2 Rfe8 13. Qd2 Rad8
+14. Rac1 Bf8 15. Re3 g6 16. Rh3 Nc5 17. Qf4 Bg7 18. Qh4 Nh5 19. Rd1 Qd7 20.
+Nde2 f5 21. exf5 exf5 22. Qg5 Rxe2 23. Nxe2 Bxb2 24. Qd2 Be5 25. f4 Bg7 26.
+b4 Ne4 27. Qd5+ Kh8 28. Rhd3 b6 29. c5 bxc5 30. bxc5 Qc7 31. Rc1 Rc8 32. g3
+dxc5 33. Rb1 c4 34. Ra3 Nhf6 35. Qe6 Qc5+ 36. Kh1 Nf2+ 37. Kg2 Re8 0-1
+

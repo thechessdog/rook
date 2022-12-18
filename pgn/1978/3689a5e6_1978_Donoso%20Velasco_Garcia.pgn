@@ -1,0 +1,18 @@
+[Event "Clarin-B"]
+[Site "Buenos Aires"]
+[Date "1978.??.??"]
+[Round "9"]
+[White "Donoso Velasco, Pedro H"]
+[Black "Garcia, Raimundo"]
+[Result "1/2-1/2"]
+[ECO "C76"]
+[Opening "Ruy Lopez"]
+[Variation "modern Steinitz defence, fianchetto (Bronstein) variation"]
+[HashCode "3689a5e6"]
+[Epoch "Rook"]
+[BlackID "100420"]
+[BlackCountry "ARG"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. c3 Bd7 6. d4 g6 7. O-O Bg7 8. Re1
+Nf6 9. Bg5 h6 10. Bh4 O-O 11. Nbd2 Qe8 12. Bb3 Nh5 13. Nc4 Bg4 14. dxe5 Nxe5
+15. Ncxe5 dxe5 16. h3 Be6 1/2-1/2

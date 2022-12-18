@@ -1,0 +1,20 @@
+[Event "CSR ch"]
+[Site "CSR ch"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Smejkal, Jan"]
+[Black "Jansa, Vlastimil"]
+[Result "1/2-1/2"]
+[ECO "E62"]
+[Opening "King's Indian"]
+[Variation "fianchetto, Kavalek (Bronstein) variation"]
+[HashCode "33c935ef"]
+[Epoch "Rook"]
+[BlackID "300128"]
+[WhiteID "300020"]
+[WhiteCountry "CZE"]
+[BlackCountry "CZE"]
+
+1. c4 Nf6 2. d4 g6 3. Nf3 Bg7 4. g3 O-O 5. Bg2 c6 6. Nc3 d6 7. O-O Qa5 8. h3
+Be6 9. Nd2 Na6 10. e4 Qh5 11. d5 Bd7 12. Nb3 Qxd1 13. Rxd1 Rfc8 14. dxc6 Bxc6
+15. Na5 Nd7 16. Bd2 Ndc5 17. Nxc6 1/2-1/2

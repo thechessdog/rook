@@ -1,0 +1,15 @@
+[Event "corr BDGW2"]
+[Site "corr BDGW2"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Stapelfeld, U."]
+[Black "Stock, M."]
+[Result "1-0"]
+[ECO "D00"]
+[Opening "Blackmar gambit"]
+[HashCode "d1eb2622"]
+[Epoch "Rook"]
+
+1. d4 d5 2. e4 dxe4 3. Nc3 Nf6 4. f3 exf3 5. Nxf3 c6 6. Bc4 Nbd7 7. Ng5 Nd5
+8. Nxd5 cxd5 9. Nxf7 Kxf7 10. Qh5+ 1-0
+

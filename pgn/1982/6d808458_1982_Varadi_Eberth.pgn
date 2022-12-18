@@ -1,0 +1,18 @@
+[Event "Belapatfalva"]
+[Site "Belapatfalva"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Varadi, T."]
+[Black "Eberth, Zoltan"]
+[Result "0-1"]
+[ECO "A00"]
+[Opening "Van't Kruijs opening"]
+[HashCode "6d808458"]
+[Epoch "Rook"]
+[BlackID "702668"]
+[BlackCountry "HUN"]
+
+1. e3 e5 2. d4 d5 3. dxe5 Nc6 4. Nf3 Bc5 5. Nc3 Nge7 6. Be2 O-O 7. O-O Bf5 8.
+a3 d4 9. exd4 Bxd4 10. Bb5 Bxe5 11. Bxc6 Nxc6 12. Bg5 f6 13. Nxe5 Nxe5 14. Bf4
+Qe7 15. Nd5 Qf7 16. Bxe5 fxe5 17. c3 Rad8 18. Qb3 Be6 19. Rad1 c6 20. Nf6+ gxf6
+0-1

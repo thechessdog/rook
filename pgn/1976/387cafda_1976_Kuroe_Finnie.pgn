@@ -1,0 +1,17 @@
+[Event "WchT U26 prel-3"]
+[Site "Caracas"]
+[Date "1976.??.??"]
+[Round "2"]
+[White "Kuroe, M."]
+[Black "Finnie, D."]
+[Result "0-1"]
+[ECO "B02"]
+[Opening "Alekhine's defence"]
+[Variation "Maroczy variation"]
+[HashCode "387cafda"]
+[Epoch "Rook"]
+
+1. e4 Nf6 2. d3 e5 3. Nf3 Nc6 4. Nc3 Bb4 5. Bd2 d6 6. a3 Bxc3 7. Bxc3 O-O
+8. Be2 Ne7 9. Bd2 Ng6 10. h3 c6 11. c4 Nh5 12. g3 d5 13. Nxe5 Nxe5 14. Bxh5
+Nxd3+ 15. Kf1 Nxb2 0-1
+

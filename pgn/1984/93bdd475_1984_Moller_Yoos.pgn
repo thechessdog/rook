@@ -1,0 +1,18 @@
+[Event "Minnesota"]
+[Site "Minnesota"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Moller, Steen"]
+[Black "Yoos, Jack"]
+[Result "0-1"]
+[ECO "D21"]
+[Opening "QGA"]
+[Variation "3.Nf3"]
+[HashCode "93bdd475"]
+[Epoch "Rook"]
+[WhiteID "1428683"]
+[WhiteCountry "DEN"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 Bg4 4. e3 b5 5. a4 c6 6. Nc3 e6 7. axb5 cxb5 8. Nxb5
+Qb6 9. Qa4 Nc6 10. Bxc4 Bxf3 11. gxf3 Bb4+ 12. Nc3 Ne7 13. O-O O-O 14. Ne4 a5
+15. b3 Ng6 16. Bd2 Bxd2 17. Nxd2 Nh4 18. Be2 e5 19. d5 Nb4 20. e4 Qg6+ 0-1

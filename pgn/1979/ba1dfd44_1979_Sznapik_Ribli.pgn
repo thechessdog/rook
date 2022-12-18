@@ -1,0 +1,19 @@
+[Event "Warsaw I zt"]
+[Site "Warsaw I zt"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Sznapik, Aleksander"]
+[Black "Ribli, Zoltan"]
+[Result "1/2-1/2"]
+[ECO "A36"]
+[Opening "English"]
+[Variation "ultra-symmetrical variation"]
+[HashCode "ba1dfd44"]
+[Epoch "Rook"]
+[WhiteID "1100050"]
+[BlackID "700010"]
+[WhiteCountry "POL"]
+[BlackCountry "HUN"]
+
+1. c4 g6 2. Nc3 c5 3. g3 Bg7 4. Bg2 Nc6 5. e3 e6 6. Nge2 Nge7 7. O-O O-O 8. d4
+cxd4 9. Nxd4 d5 10. cxd5 Nxd5 11. Nxd5 Nxd4 12. exd4 1/2-1/2

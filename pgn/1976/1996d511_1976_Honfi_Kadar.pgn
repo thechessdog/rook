@@ -1,0 +1,21 @@
+[Event "Pecs"]
+[Site "Pecs"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Honfi, Karoly"]
+[Black "Kadar, Gabor"]
+[Result "1-0"]
+[ECO "B93"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.f4"]
+[HashCode "1996d511"]
+[Epoch "Rook"]
+[BlackID "700770"]
+[WhiteCountry "HUN"]
+[BlackCountry "HUN"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 Nbd7 7. Bc4 b5 8. Bb3
+Bb7 9. O-O e6 10. f5 e5 11. Nf3 Nc5 12. Bg5 Nxb3 13. axb3 Qb6+ 14. Kh1 Nxe4 15.
+Nxe4 Bxe4 16. f6 h6 17. Bh4 g5 18. Bg3 Qc6 19. Rf2 Rg8 20. Qe1 h5 21. Bxe5 dxe5
+22. Nxe5 Qb7 23. Rd1 Rd8 24. Re2 Rxd1 25. Qxd1 Bxg2+ 26. Rxg2 h4 27. Nf3 Be7
+28. Qe2 h3 29. Rg4 Rg6 30. Qxe7+ Qxe7 31. fxe7 f6 32. Nh4 Rg8 33. Nf5 1-0

@@ -1,0 +1,19 @@
+[Event "BL2-N 8081"]
+[Site "BL2-N 8081"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Neumann, Joachim"]
+[Black "Hohlfeld, Heinz"]
+[Result "1-0"]
+[ECO "C05"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation"]
+[HashCode "ccfed289"]
+[Epoch "Rook"]
+[WhiteID "4608259"]
+[WhiteCountry "GER"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. f4 g6 6. Ndf3 b6 7. Bd3 Ba6 8. g4
+Bxd3 9. Qxd3 Bh6 10. Ne2 c5 11. c3 Nc6 12. Bd2 Qc7 13. f5 Bxd2+ 14. Qxd2 O-O-O
+15. fxe6 fxe6 16. Ng5 Nf8 17. O-O Rd7 18. Rxf8+ Rxf8 19. Nxe6 Qb7 20. Nxf8 Rf7
+21. Rf1 cxd4 22. cxd4 Nd8 23. Rxf7 Qxf7 24. Qf4 Qe7 25. Qf6 Qb4 26. Kf2 1-0

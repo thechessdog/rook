@@ -1,0 +1,20 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Bockner"]
+[Black "Frenzel"]
+[Result "1-0"]
+[ECO "E30"]
+[Opening "Nimzo-Indian"]
+[Variation "Leningrad variation"]
+[HashCode "f23e339c"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Bg5 h6 5. Bh4 c5 6. f3 d5 7. e3 O-O 8. Rc1
+Nbd7 9. Bd3 Qa5 10. Ne2 b5 11. cxb5 c4 12. Bb1 Qxb5 13. O-O Qb7 14. Qc2 Re8
+15. e4 e5 16. Nxd5 Nxd5 17. exd5 Nf8 18. dxe5 Qxd5 19. Qxc4 Qxc4 20. Rxc4
+Ba6 21. Rxb4 Bxe2 22. Re1 Ba6 23. Be4 Rac8 24. Ra4 Bb5 25. Rxa7 Rc5 26. Be7
+Rcc8 27. b4 Nd7 28. Bd6 Nb8 29. Rb7 Ba6 30. Rb6 Bc4 31. Rc1 Nd7 32. Rb7
+Nxe5 33. Bxe5 Rxe5 34. Rxc4 1-0
+

@@ -1,0 +1,21 @@
+[Event "USA"]
+[Site "USA"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Samsa"]
+[Black "Watson"]
+[Result "1-0"]
+[ECO "A77"]
+[Opening "Benoni"]
+[Variation "classical, 9...Re8, 10.Nd2"]
+[HashCode "10ab2bbe"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. e4 Bg7 8.
+Be2 O-O 9. O-O Re8 10. Nd2 a6 11. a4 Nbd7 12. Ra3 Ne5 13. h3 g5 14. f4 gxf4
+15. Rxf4 Ng6 16. Rf1 Bd7 17. Qc2 Rb8 18. a5 Qc7 19. Nc4 Bb5 20. Nb6 Bxe2
+21. Qxe2 Ne5 22. Bg5 Nfd7 23. Nxd7 Qxd7 24. Nd1 Ng6 25. Raf3 Rf8 26. Bf6
+Rbc8 27. Qe3 Bxf6 28. Rxf6 Qe7 29. Nc3 Kg7 30. Qg3 Rcd8 31. h4 Qxf6 32.
+Rxf6 Kxf6 33. Qg5+ Kg7 34. h5 f6 35. Qg4 Rfe8 36. Ne2 Rg8 37. Nf4 Kh6 38.
+hxg6 hxg6 39. Qh4+ 1-0
+

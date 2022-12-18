@@ -1,0 +1,20 @@
+[Event "Iceland"]
+[Site "Iceland"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Friojonsson"]
+[Black "Arnason, J."]
+[Result "0-1"]
+[ECO "B47"]
+[Opening "Sicilian"]
+[Variation "Taimanov (Bastrikov) variation"]
+[HashCode "5e5cf228"]
+[Epoch "Rook"]
+[BlackCountry "ISL"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 Qc7 6. g3 a6 7. Bg2 Nf6 8. O-O
+Be7 9. Re1 d6 10. Nxc6 bxc6 11. e5 dxe5 12. Rxe5 Nd5 13. Nxd5 cxd5 14. Bf4 Qc5
+15. c4 Qxc4 16. Rxd5 exd5 17. Bxd5 Bg4 18. Qd2 Qc8 19. Rc1 O-O 20. Rxc8 Raxc8
+21. Kg2 Rfd8 22. Qe3 Rxd5 23. Qxe7 h6 24. h3 Be6 25. g4 Rc2 26. Qa3 Rd1 27. Be3
+g5 28. Kg3 Bd5 29. h4 Rg1+ 30. Kh2 Rh1+ 31. Kg3 Rc4 32. f3 gxh4+ 33. Kg2 Rd1
+34. g5 Rc2+ 35. Kh3 Be6+ 0-1

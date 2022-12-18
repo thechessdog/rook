@@ -1,0 +1,17 @@
+[Event "Espelkamp"]
+[Site "Espelkamp"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Labahn, Wolfgang"]
+[Black "Gehrmann, F."]
+[Result "0-1"]
+[ECO "A00"]
+[Opening "Polish (Sokolsky) opening"]
+[HashCode "dedef1f4"]
+[Epoch "Rook"]
+[WhiteID "4617363"]
+[WhiteCountry "GER"]
+
+1. b4 e5 2. Bb2 d6 3. c4 Nf6 4. e3 g6 5. Nf3 Bg7 6. d4 exd4 7. exd4 O-O 8. Be2
+d5 9. c5 b6 10. O-O bxc5 11. dxc5 c6 12. a4 Nbd7 13. Qc2 Bb7 14. b5 Qc7 15. Bd4
+Ne4 16. Bxg7 Kxg7 17. Nbd2 Nexc5 18. Rfe1 Ne6 19. Rab1 c5 0-1

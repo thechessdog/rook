@@ -1,0 +1,18 @@
+[Event "corr ch-CSSR"]
+[Site "corr ch-CSSR"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Kupka"]
+[Black "Antosik"]
+[Result "0-1"]
+[ECO "B77"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, 9...Bd7"]
+[HashCode "566ee655"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 Nc6 8.
+Qd2 O-O 9. Bc4 Bd7 10. Bb3 Rc8 11. h4 h5 12. O-O-O Ne5 13. Bh6 Bxh6 14.
+Qxh6 Rxc3 15. bxc3 Qa5 16. Kb2 Rc8 17. Qe3 Qb6 18. Ka1 Qc5 19. Qd2 a5 20.
+Ne2 b5 21. Qd4 a4 22. Qxc5 Rxc5 23. Bd5 e6 24. Bb3 axb3 25. cxb3 d5 0-1
+

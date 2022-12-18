@@ -1,0 +1,19 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Bohme"]
+[Black "Schermer"]
+[Result "1-0"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack, Richter variation"]
+[HashCode "c8e0733f"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 Bf5 4. f3 c6 5. e4 dxe4 6. Bxf6 gxf6 7. fxe4 Bg6
+8. Nf3 Bg7 9. Bd3 Nd7 10. O-O Qc7 11. Kh1 O-O 12. Nh4 Rad8 13. Nf5 Nb6 14.
+Qg4 Kh8 15. Nxg7 Kxg7 16. Ne2 h5 17. Qh4 Qd7 18. h3 Rh8 19. Rf3 Rdg8 20.
+Raf1 Kf8 21. b3 Qg4 22. Qf2 Qe6 23. Nf4 Qd7 24. Nxg6+ Rxg6 25. e5 Rg5 26.
+exf6 e6 27. Be4 Rhg8 28. Rd3 Nc8 29. Rg1 Nd6 30. Bh7 Qc7 31. Qf4 Rg4 32.
+hxg4 Rxg4 33. Qh6+ Ke8 34. Qxh5 1-0
+

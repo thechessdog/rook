@@ -1,0 +1,23 @@
+[Event "Timisoara"]
+[Site "Timisoara"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Ciocaltea, Victor"]
+[Black "Danner, Georg"]
+[Result "1-0"]
+[ECO "B93"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.f4"]
+[HashCode "1686ea54"]
+[Epoch "Rook"]
+[WhiteCountry "ROU"]
+[BlackID "1600303"]
+[BlackCountry "AUT"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 e5 7. Nf3 Nbd7 8. a4
+Be7 9. Bd3 O-O 10. O-O exf4 11. Bxf4 Qb6+ 12. Kh1 Qxb2 13. Qe1 Nc5 14. Rb1 Nxd3
+15. cxd3 Qc2 16. d4 Re8 17. Rf2 Qd3 18. Rc1 Bf8 19. Re2 a5 20. Re3 Qa6 21. Nb5
+Bd7 22. Nc7 Qa7 23. Bg5 Be7 24. Nxa8 Qxa8 25. Bxf6 Bxf6 26. e5 dxe5 27. dxe5
+Be7 28. e6 fxe6 29. Rxe6 Bf6 30. Rxe8+ Qxe8 31. Qxa5 Bc6 32. Re1 Qd7 33. Ne5
+Bxe5 34. Qxe5 Bxa4 35. Qb8+ Kf7 36. Rf1+ Ke6 37. Qg8+ Kd6 38. Qxh7 Kc7 39. Qg6
+Kb8 40. Qf7 Qxf7 41. Rxf7 1-0

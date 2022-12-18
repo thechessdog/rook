@@ -1,0 +1,16 @@
+[Event "Reykjavik op"]
+[Site "Reykjavik"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Fridjonsson, Joffus"]
+[Black "Savage, Allan G"]
+[Result "1/2-1/2"]
+[ECO "B00"]
+[Opening "KP"]
+[Variation "Nimzovich defence"]
+[HashCode "db9f4b04"]
+[Epoch "Rook"]
+[BlackCountry "USA"]
+
+1. e4 Nc6 2. d4 d5 3. e5 Bf5 4. g4 Be4 5. f3 Bg6 6. h4 h5 7. g5 e6 8. Be3 Qd7
+9. Ne2 Nge7 10. Nf4 Bf5 11. Nc3 1/2-1/2

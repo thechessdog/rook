@@ -1,0 +1,26 @@
+[Event "US Open"]
+[Site "US Open"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Kogan, Boris"]
+[Black "Rowley, B."]
+[Result "1-0"]
+[ECO "A65"]
+[Opening "Benoni"]
+[Variation "6.e4"]
+[HashCode "6bdf32ff"]
+[Epoch "Rook"]
+[WhiteID "2804352"]
+[WhiteCountry "ISR"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. Bd3 Bg7 8. Nge2
+O-O 9. O-O a6 10. a4 Nbd7 11. h3 Qc7 12. Be3 Re8 13. b3 Ne5 14. Bc2 Rb8 15. Rb1
+b5 16. f4 Ned7 17. axb5 axb5 18. b4 Nxe4 19. Nxe4 f5 20. bxc5 dxc5 21. N2c3
+Bxc3 22. Nxc3 Rxe3 23. d6 Qc6 24. Nd5 Re6 25. Ne7+ Rxe7 26. dxe7 Bb7 27. Rf3
+Re8 28. Rg3 Rxe7 29. Bxf5 c4 30. Kh2 Nf8 31. Bg4 Qc7 32. Rxb5 Qxf4 33. Bf3 Bxf3
+34. Qxf3 Rf7 35. Qxf4 Rxf4 36. Rc3 Nd7 37. Rd5 Nf6 38. Rc5 Kf7 39. R3xc4 Rxc4
+40. Rxc4 Ke6 41. Kg3 g5 42. Kf3 Kf5 43. Rc5+ Kg6 44. Ke3 h5 45. g3 h4 46. gxh4
+gxh4 47. Kf4 Nh5+ 48. Kg4 Nf6+ 49. Kxh4 Ne4 50. Ra5 Kf6 51. Kh5 Kg7 52. Ra7+
+Kf6 53. h4 Ng3+ 54. Kg4 Ne4 55. h5 Nf2+ 56. Kg3 Ne4+ 57. Kf4 Ng5 58. Ra6+ Ne6+
+59. Ke4 Kf7 60. Ke5 Nf8 61. Ra7+ Kg8 62. Kf5 Nh7 63. Rb7 Nf8 64. h6 Nh7 65.
+Rg7+ Kh8 66. Rf7 Kg8 67. Kg6 Nf8+ 68. Rxf8+ 1-0

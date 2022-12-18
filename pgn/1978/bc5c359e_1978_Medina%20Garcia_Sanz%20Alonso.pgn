@@ -1,0 +1,20 @@
+[Event "Las Palmas"]
+[Site "Las Palmas"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Medina Garcia, Antonio Angel"]
+[Black "Sanz Alonso, Francisco J."]
+[Result "0-1"]
+[ECO "C60"]
+[Opening "Ruy Lopez"]
+[Variation "Cozio defence"]
+[HashCode "bc5c359e"]
+[Epoch "Rook"]
+[BlackID "2200147"]
+[BlackCountry "ESP"]
+[WhiteCountry "EST"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nge7 4. Nc3 Ng6 5. d4 exd4 6. Nxd4 Bc5 7. Be3 Bxd4
+8. Bxd4 O-O 9. O-O d6 10. Re1 f5 11. exf5 Bxf5 12. Be3 Nce5 13. Be2 Qd7 14. Qd2
+Kh8 15. f4 Ng4 16. Bxg4 Bxg4 17. h3 Bxh3 18. Re2 Bg4 19. Rf2 Rae8 20. Re1 Nh4
+21. Rff1 Qc6 22. Nd5 Be6 23. Nb4 Qb5 24. b3 a5 25. Nd3 Qh5 26. Bd4 Bd5 0-1

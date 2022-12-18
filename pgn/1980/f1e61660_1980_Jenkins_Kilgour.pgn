@@ -1,0 +1,17 @@
+[Event "corr ch-SCO"]
+[Site "corr ch-SCO"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Jenkins, D."]
+[Black "Kilgour, D."]
+[Result "0-1"]
+[ECO "D85"]
+[Opening "Gruenfeld"]
+[Variation "modern exchange variation"]
+[HashCode "f1e61660"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. Nc3 d5 5. cxd5 Nxd5 6. e4 Nxc3 7. bxc3 c5
+8. Be3 Bg4 9. Rc1 O-O 10. Be2 Qa5 11. Qd2 Nc6 12. d5 Rad8 13. c4 Nb4 14. a3
+Qxa3 15. Bxc5 Nd3+ 16. Bxd3 Qxc5 17. O-O Bxf3 18. gxf3 Qc7 0-1
+

@@ -1,0 +1,18 @@
+[Event "Tbilisi-Sukhumi"]
+[Site "Tbilisi"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Gurgenidze, Bukhuti"]
+[Black "Mnatsakanian, Eduard A"]
+[Result "1-0"]
+[ECO "B29"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rubinstein variation"]
+[HashCode "00cc9400"]
+[Epoch "Rook"]
+[WhiteCountry "GEO"]
+[BlackCountry "ARM"]
+
+1. e4 c5 2. Nf3 Nf6 3. e5 Nd5 4. Nc3 e6 5. Ne4 Nc6 6. c4 Nb6 7. b4 Nxb4 8. Bb2
+Be7 9. h4 h6 10. a4 a5 11. Ra3 Qc7 12. Rh3 Qc6 13. Qb1 Nxa4 14. Ba1 Nb6 15. Be2
+a4 16. Kf1 Ra5 17. Rg3 Kf8 18. Nd6 Ra8 19. Nxf7 Rg8 1-0

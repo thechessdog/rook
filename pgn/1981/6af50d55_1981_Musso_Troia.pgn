@@ -1,0 +1,18 @@
+[Event "corr TS88"]
+[Site "corr TS88"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Musso"]
+[Black "Troia"]
+[Result "1-0"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra gambit"]
+[HashCode "6af50d55"]
+[Epoch "Rook"]
+
+1. e4 c5 2. d4 cxd4 3. c3 dxc3 4. Nxc3 Nc6 5. Nf3 g6 6. Bc4 Bg7 7. O-O h5
+8. e5 Bxe5 9. Bxf7+ Kxf7 10. Nxe5+ Nxe5 11. Qd5+ e6 12. Qxe5 Qf6 13. Qc7
+Ne7 14. Be3 h4 15. Rad1 Rh5 16. Ne4 Qh8 17. Nd6+ Kg7 18. Bd4+ e5 19. Bc3
+Nc6 20. f4 Qd8 21. Qxd8 Nxd8 22. fxe5 Kg8 23. Rf6 Nc6 24. Rdf1 b5 1-0
+

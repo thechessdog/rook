@@ -1,0 +1,17 @@
+[Event "Dayton,OH"]
+[Site "Dayton,OH"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Greenwalt, Victor"]
+[Black "Wall, Bill"]
+[Result "0-1"]
+[ECO "B16"]
+[Opening "Caro-Kann"]
+[Variation "Bronstein-Larsen variation"]
+[HashCode "aed9ca09"]
+[Epoch "Rook"]
+[BlackCountry "USA"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ gxf6 6. Be3 Bf5 7. Bd3 Bg6
+8. Nf3 Nd7 9. O-O Qc7 10. b3 O-O-O 11. c4 Rg8 12. a4 e6 13. a5 Bd6 14. a6 Bxd3
+15. Qxd3 Nc5 16. dxc5 Bxh2+ 0-1

@@ -1,0 +1,18 @@
+[Event "Plymouth ch-MI op"]
+[Site "Plymouth ch-MI op"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Gale, J."]
+[Black "Bautista, L."]
+[Result "0-1"]
+[ECO "B02"]
+[Opening "Alekhine's defence"]
+[Variation "Scandinavian variation"]
+[HashCode "bd99b393"]
+[Epoch "Rook"]
+
+1. e4 Nf6 2. Nc3 d5 3. exd5 Nxd5 4. Nxd5 Qxd5 5. Nf3 Bf5 6. Be2 Nc6 7. O-O
+e5 8. b3 Be7 9. Bb2 Bf6 10. Bc4 Qd6 11. a4 Bg6 12. Ne1 O-O-O 13. Qg4+ Kb8
+14. d3 h5 15. Qd1 h4 16. h3 Bh5 17. Qd2 g5 18. f3 Nd4 19. Qf2 Nf5 20. Kh2
+e4+ 21. f4 Bxb2 22. Rd1 e3 0-1
+

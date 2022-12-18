@@ -1,0 +1,20 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Kunsztowicz, Uwe"]
+[Black "Heidrich, Manfred"]
+[Result "1/2-1/2"]
+[ECO "D02"]
+[Opening "Queen's pawn game, Krause variation"]
+[HashCode "fe5e9a3d"]
+[Epoch "Rook"]
+[WhiteID "4602773"]
+[BlackID "4602722"]
+[WhiteCountry "GER"]
+[BlackCountry "GER"]
+
+1. d4 d5 2. Nf3 c5 3. c4 cxd4 4. cxd5 Nf6 5. Qxd4 Qxd5 6. Nc3 Qxd4 7. Nxd4 a6
+8. g3 e5 9. Nb3 Bd7 10. Bg2 Bc6 11. O-O Bb4 12. Bd2 Bxg2 13. Kxg2 Nc6 14. Rac1
+O-O 15. Rfd1 Rfd8 16. a3 Be7 17. Be3 Kf8 18. Bb6 Rxd1 19. Rxd1 Bd8 20. Bc5+ Be7
+21. Bb6 Bd8 1/2-1/2

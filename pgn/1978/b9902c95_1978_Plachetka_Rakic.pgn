@@ -1,0 +1,22 @@
+[Event "Odzaci"]
+[Site "Odzaci"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Plachetka, Jan"]
+[Black "Rakic, Tomislav"]
+[Result "1-0"]
+[ECO "B06"]
+[Opening "Robatsch defence"]
+[Variation "three pawns attack"]
+[HashCode "b9902c95"]
+[Epoch "Rook"]
+[BlackID "900842"]
+[WhiteID "14900068"]
+[WhiteCountry "SVK"]
+[BlackCountry "SRB"]
+
+1. e4 g6 2. d4 Bg7 3. f4 d5 4. e5 c5 5. c3 Nc6 6. dxc5 f6 7. Nf3 fxe5 8. fxe5
+Nxe5 9. Nxe5 Bxe5 10. Bb5+ Kf7 11. O-O+ Nf6 12. Nd2 Qc7 13. Nf3 Bxh2+ 14. Nxh2
+Qxc5+ 15. Rf2 Qxb5 16. Bg5 Bf5 17. g4 Ne4 18. gxf5 Nxf2 19. Kxf2 Qxb2+ 20. Kg3
+Qb5 21. Rb1 Qd7 22. Ng4 Qc7+ 23. Bf4 Qxc3+ 24. Kh2 gxf5 25. Qxd5+ Ke8 26. Ne5
+Qc2+ 27. Kh3 h5 28. Rd1 1-0

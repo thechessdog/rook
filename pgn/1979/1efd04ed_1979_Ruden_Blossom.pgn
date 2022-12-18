@@ -1,0 +1,20 @@
+[Event "Buckeye Open,OH"]
+[Site "Buckeye Open,OH"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Ruden"]
+[Black "Blossom"]
+[Result "0-1"]
+[ECO "B94"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.Bg5"]
+[HashCode "1efd04ed"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 Nbd7 7. f4 Qa5
+8. Nb3 Qb6 9. Qf3 h6 10. Bh4 g5 11. Bf2 Nc5 12. e5 g4 13. Qe3 g3 14. Qxg3
+Rg8 15. Qf3 Bg4 16. Qe3 Nfd7 17. Nd4 dxe5 18. fxe5 Bg7 19. h3 Nxe5 20. hxg4
+Nxg4 21. Nd5 Qd8 22. Qg3 Be5 23. Qf3 Nxf2 24. Rh4 Bg3 25. Rxh6 Nfe4+ 26.
+Ke2 Qxd5 27. Rd1 Qc4+ 28. Ke3 Qxa2 29. Rh7 Bf2+ 30. Kf4 Qd5 31. Nf5 Ne6#
+0-1
+

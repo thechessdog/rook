@@ -1,0 +1,20 @@
+[Event "corr DDR/FS"]
+[Site "corr DDR/FS"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Kurz, Eugen"]
+[Black "Cramer"]
+[Result "1-0"]
+[ECO "A00"]
+[Opening "Grob"]
+[Variation "Fritz gambit"]
+[HashCode "f85858c1"]
+[Epoch "Rook"]
+[WhiteID "4605152"]
+[WhiteCountry "GER"]
+
+1. g4 d5 2. Bg2 Bxg4 3. c4 Nf6 4. cxd5 g6 5. Qb3 Bc8 6. e4 c6 7. Nc3 Qd7 8. d4
+cxd5 9. exd5 e6 10. Bh3 Bg7 11. dxe6 fxe6 12. d5 Nxd5 13. Nxd5 Qc6 14. Bf4 Qxd5
+15. Qxd5 exd5 16. Bxc8 a5 17. Bxb7 Ra7 18. Bxd5 Na6 19. O-O-O Nb4 20. Bc4 h6
+21. Nf3 Re7 22. Rd6 Re4 23. Nd2 Rxc4+ 24. Nxc4 O-O 25. Be5 Rc8 26. Rxg6 Nd3+
+27. Kd2 Nxe5 28. Nxe5 Kh7 29. Rxg7+ 1-0

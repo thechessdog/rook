@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Scherfke, M."]
+[Black "Beisser, G."]
+[Result "1-0"]
+[ECO "C70"]
+[Opening "Ruy Lopez"]
+[Variation "Caro variation"]
+[HashCode "10a2f458"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 b5 5. Bb3 d6 6. c3 g6 7. d4 Bg7 8. O-O
+Qe7 9. Bd5 Bd7 10. dxe5 dxe5 11. Be3 Nf6 12. b4 Nh5 13. Bc5 Qf6 14. a4 Rb8
+15. axb5 axb5 16. Ra6 Bf8 17. Nxe5 Qxe5 18. Rxc6 Bd6 19. Rxd6 cxd6 20. Bd4
+Qg5 21. Bxh8 f6 22. f4 1-0
+

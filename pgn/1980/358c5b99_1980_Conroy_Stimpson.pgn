@@ -1,0 +1,21 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Conroy"]
+[Black "Stimpson"]
+[Result "1-0"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra gambit"]
+[HashCode "358c5b99"]
+[Epoch "Rook"]
+
+1. e4 c5 2. d4 cxd4 3. c3 dxc3 4. Nxc3 Nc6 5. Nf3 d6 6. Bc4 e6 7. O-O Nf6
+8. Qe2 Be7 9. Rd1 e5 10. Be3 O-O 11. Rac1 Bg4 12. h3 Bh5 13. g4 Bg6 14. Bc5
+a6 15. a4 Rc8 16. Ba3 Qd7 17. Nd5 Nxd5 18. Bxd5 Kh8 19. Bxc6 bxc6 20. Nxe5
+Qe6 21. Nxg6+ fxg6 22. Rc2 Rf4 23. e5 dxe5 24. Bxe7 Qxe7 25. Qxa6 Rcf8 26.
+Qxc6 e4 27. Rd7 Qh4 28. Qc3 Qh6 29. Qe5 g5 30. Rcd2 R4f6 31. Rd8 Qxh3 32.
+Rxf8+ Rxf8 33. Qxe4 Rc8 34. Rd1 Qb3 35. Qd4 h6 36. a5 Rc4 37. Qd8+ Kh7 38.
+Qd7 Qf3 1-0
+

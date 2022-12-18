@@ -1,0 +1,16 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Svarc"]
+[Black "De Smet, K."]
+[Result "0-1"]
+[ECO "C40"]
+[Opening "QP counter-gambit (elephant gambit)"]
+[HashCode "0a3ecc9f"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 d5 3. Nxe5 Bd6 4. d4 dxe4 5. Nc4 Nf6 6. Be2 O-O 7. Bg5 Bf5
+8. O-O Nc6 9. f3 exf3 10. Bxf6 Qxf6 11. Bxf3 Nxd4 12. Nxd6 Qxd6 13. Na3
+Nxf3+ 14. Qxf3 Qb6+ 15. Kh1 Be6 16. Qc3 Rad8 17. b3 Rd6 18. Rad1 Qa6 0-1
+

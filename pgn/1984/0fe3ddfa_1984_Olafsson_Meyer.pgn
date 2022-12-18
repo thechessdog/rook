@@ -1,0 +1,25 @@
+[Event "Reykjavik"]
+[Site "Reykjavik"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Olafsson, Helgi"]
+[Black "Meyer, Holger"]
+[Result "1-0"]
+[ECO "D55"]
+[Opening "QGD"]
+[Variation "Petrosian variation"]
+[HashCode "0fe3ddfa"]
+[Epoch "Rook"]
+[WhiteID "2300010"]
+[WhiteCountry "ISL"]
+[BlackID "4602587"]
+[BlackCountry "GER"]
+
+1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. Nc3 Be7 5. Bg5 O-O 6. e3 h6 7. Bxf6 Bxf6 8. Rc1
+c6 9. Bd3 Nd7 10. O-O dxc4 11. Bxc4 e5 12. Re1 exd4 13. exd4 Nb6 14. Bb3 Bg4
+15. Ne4 Re8 16. Re3 Nd5 17. Bxd5 cxd5 18. Nxf6+ Qxf6 19. Qe1 Rxe3 20. Qxe3 Bxf3
+21. Qxf3 Qe6 22. g3 Qd7 23. Kg2 Rd8 24. h4 b6 25. Re1 Qd6 26. b3 Qb4 27. Re5
+Qxd4 28. Re7 Qf6 29. Qxf6 gxf6 30. Rxa7 d4 31. Rc7 Kg7 32. Kf3 f5 33. Ke2 f4
+34. gxf4 d3+ 35. Kd2 Rd4 36. Rc4 Rd5 37. b4 Rh5 38. Rc6 b5 39. Rc5 Rxh4 40.
+Rxb5 Rxf4 41. a4 h5 42. a5 h4 43. a6 h3 44. a7 Rxf2+ 45. Kxd3 Rf3+ 46. Ke2 h2
+47. a8=Q h1=Q 48. Qxf3 Qh2+ 49. Kf1 1-0

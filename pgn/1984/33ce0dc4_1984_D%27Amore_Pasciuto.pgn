@@ -1,0 +1,18 @@
+[Event "corr Italy"]
+[Site "corr Italy"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "D'Amore, E."]
+[Black "Pasciuto, A."]
+[Result "1-0"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance variation"]
+[HashCode "33ce0dc4"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Qb6 5. Nf3 Nc6 6. a3 a5 7. b3 cxd4 8. cxd4
+Nge7 9. Bd3 Nxd4 10. Nxd4 Nc6 11. Nxc6 Bc5 12. Qc2 bxc6 13. O-O Rb8 14. Nd2
+g5 15. Bb2 Bd4 16. Bxd4 Qxd4 17. Nf3 Qb6 18. Nxg5 h5 19. Nh7 Bb7 20. Rfc1
+Qd4 21. Qc3 Qf4 22. g3 1-0
+

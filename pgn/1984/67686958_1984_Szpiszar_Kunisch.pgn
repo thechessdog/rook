@@ -1,0 +1,17 @@
+[Event "corr DDR/FS"]
+[Site "corr DDR/FS"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Szpiszar"]
+[Black "Kunisch"]
+[Result "1-0"]
+[ECO "C16"]
+[Opening "French"]
+[Variation "Winawer, advance variation"]
+[HashCode "67686958"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 h6 5. Qg4 g6 6. Bd3 g5 7. h4 f5 8. Qh5+
+Kd7 9. hxg5 c5 10. Qf7+ Ne7 11. Rxh6 Rxh6 12. gxh6 cxd4 13. a3 Qa5 14. h7
+dxc3 15. b3 1-0
+

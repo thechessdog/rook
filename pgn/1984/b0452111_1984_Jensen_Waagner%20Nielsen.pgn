@@ -1,0 +1,24 @@
+[Event "corr ch-DEN"]
+[Site "corr ch-DEN"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Jensen, V."]
+[Black "Waagner Nielsen, Ch"]
+[Result "1-0"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "classical attack, Mason variation"]
+[HashCode "b0452111"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Be7 7. O-O O-O
+8. c4 c6 9. Qc2 Be6 10. Nc3 f5 11. Re1 Bf6 12. Qb3 Qb6 13. Qxb6 axb6 14.
+cxd5 Bxd5 15. Nxe4 fxe4 16. Bxe4 Bb3 17. Bf4 Rxa2 18. Rxa2 Bxa2 19. Bd6 Rd8
+20. Bc7 Rc8 21. Bxb6 Bd5 22. Bf5 Rf8 23. Bc5 Rd8 24. Be7 Bxe7 25. Rxe7 c5
+26. dxc5 Na6 27. h4 Nxc5 28. Ng5 h6 29. Nh3 Kf8 30. Rc7 Bc6 31. Nf4 Rd1+
+32. Kh2 Nd7 33. Ne6+ Ke7 34. Nxg7 Kd6 35. Rc8 Rd2 36. Bh3 Rxf2 37. b4 Rb2
+38. Nf5+ Ke5 39. Re8+ Kf6 40. Nxh6 Rxb4 41. Re6+ Kg7 42. Nf5+ Kf7 43. Nd6+
+Kg8 44. h5 Nf8 45. Re7 Rd4 46. Nf5 Rd2 47. Rc7 Be4 48. Kg3 b5 49. Nh6+ Kh8
+50. Nf7+ Kg8 51. Ng5 Rc2 52. Re7 Rc3+ 53. Kh2 Bc2 54. h6 Bg6 55. Bf5 Rc5
+56. g4 b4 57. Kg3 b3 58. Rg7+ Kh8 59. Nf7+ Bxf7 60. Rxf7 Kg8 61. Rb7 1-0
+

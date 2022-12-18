@@ -1,0 +1,17 @@
+[Event "corr BDF/H"]
+[Site "corr BDF/H"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Orth"]
+[Black "Walther, Edgar"]
+[Result "0-1"]
+[ECO "B98"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7...Be7"]
+[HashCode "c0e1015c"]
+[Epoch "Rook"]
+[BlackCountry "CHE"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3
+h6 9. Bh4 Nbd7 10. Bf2 Qc7 11. O-O-O b5 12. a3 Bb7 13. Bd3 Nc5 14. Rhe1 Rc8 15.
+Kb1 O-O 16. g4 d5 0-1

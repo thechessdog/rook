@@ -1,0 +1,25 @@
+[Event "Kumla"]
+[Site "Kumla"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Ivarsson"]
+[Black "Backe, Peter"]
+[Result "0-1"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, poisoned pawn variation"]
+[HashCode "5e8fb999"]
+[Epoch "Rook"]
+[BlackID "1701240"]
+[BlackCountry "SWE"]
+
+1. d4 e6 2. e4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Qg4 cxd4 8.
+cxd4 Qc7 9. Bd2 Qxc2 10. Rc1 Qe4+ 11. Qxe4 dxe4 12. Bb4 Nbc6 13. Bb5 Bd7 14.
+Bxe7 Kxe7 15. Nh3 a6 16. Bxc6 Bxc6 17. Ke2 e3 18. f3 Rhd8 19. Kxe3 Rd7 20. Nf2
+f5 21. Rhd1 Rad8 22. g3 g5 23. f4 g4 24. h3 h5 25. h4 Rd5 26. Rc5 R5d7 27. Rd2
+Bf3 28. Nd1 b6 29. Rc3 b5 30. Nb2 Be4 31. Rc5 Rb8 32. Nd3 a5 33. Rc1 Bxd3 34.
+Rxd3 b4 35. axb4 Rxb4 36. Rc5 a4 37. d5 exd5 38. Rcxd5 Rxd5 39. Rxd5 a3 40. Rd3
+Ra4 41. Rd1 a2 42. Ra1 Ke6 43. Kd3 Ra3+ 44. Kd4 Kd7 45. Kd5 Ke7 46. e6 Ra5+ 47.
+Kc6 Kxe6 48. Re1+ Kf6 49. Ra1 Ra3 50. Kd6 Rxg3 51. Rxa2 Rf3 52. Re2 Rxf4 53.
+Re6+ Kg7 54. Re7+ Kf8 55. Re3 Re4 56. Ra3 f4 57. Ra5 f3 58. Rxh5 Rf4 59. Ke5
+Rf7 60. Rg5 f2 61. Rxg4 f1=Q 0-1

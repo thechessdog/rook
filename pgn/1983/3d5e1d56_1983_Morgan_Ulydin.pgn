@@ -1,0 +1,18 @@
+[Event "Kazan"]
+[Site "Kazan"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Morgan"]
+[Black "Ulydin"]
+[Result "1-0"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra gambit"]
+[HashCode "3d5e1d56"]
+[Epoch "Rook"]
+
+1. e4 c5 2. d4 cxd4 3. c3 dxc3 4. Nxc3 d6 5. Nf3 Nc6 6. Bc4 e6 7. O-O Nf6
+8. Qe2 a6 9. Rd1 b5 10. Bb3 Qc7 11. Bf4 Nd7 12. Rac1 Nc5 13. Nd5 Qb7 14.
+Rxc5 dxc5 15. Nc7+ Ke7 16. Qe3 Nd4 17. Nxd4 cxd4 18. Qxd4 f6 19. Qd8+ Kf7
+1-0
+

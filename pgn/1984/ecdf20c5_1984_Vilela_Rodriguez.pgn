@@ -1,0 +1,19 @@
+[Event "Bayamo"]
+[Site "Bayamo"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Vilela, Jose Luis"]
+[Black "Rodriguez Cespedes, Amador"]
+[Result "1/2-1/2"]
+[ECO "A14"]
+[Opening "English"]
+[Variation "Symmetrical, Keres defence"]
+[HashCode "ecdf20c5"]
+[Epoch "Rook"]
+[BlackCountry "ESP"]
+[WhiteCountry "EST"]
+
+1. c4 Nf6 2. Nc3 c5 3. Nf3 e6 4. g3 d5 5. cxd5 Nxd5 6. Bg2 Nc6 7. O-O Be7 8. d4
+O-O 9. Nxd5 exd5 10. dxc5 Bxc5 11. a3 Bf5 12. b4 Bb6 13. Bb2 Be4 14. Rc1 Qe7
+15. Qd2 Rfe8 16. Rfd1 Rad8 17. e3 d4 18. Nxd4 Bxg2 19. Kxg2 Qe4+ 20. f3 Qxe3
+21. Qxe3 Rxe3 22. Nxc6 1/2-1/2

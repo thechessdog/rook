@@ -1,0 +1,20 @@
+[Event "corr DDR-FSM"]
+[Site "corr DDR-FSM"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Richter, D."]
+[Black "Petzold, J."]
+[Result "1-0"]
+[ECO "D82"]
+[Opening "Gruenfeld"]
+[Variation "4.Bf4"]
+[HashCode "fd429db8"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Bf4 Bg7 5. e3 c6 6. Nf3 O-O 7. Rc1 Bg4 8.
+h3 Bxf3 9. Qxf3 Qa5 10. Bd3 Nbd7 11. Qe2 Rfe8 12. O-O e5 13. dxe5 Nxe5 14.
+cxd5 Nxd3 15. Qxd3 Nxd5 16. Nxd5 cxd5 17. Rc7 Qxa2 18. b3 Qa5 19. Rxb7 Be5
+20. Bxe5 Rxe5 21. Qd4 Qa6 22. Rxf7 Kxf7 23. Qxe5 Qc6 24. Rd1 Rd8 25. e4 Qe6
+26. Qd4 Rd7 27. exd5 Qf6 28. Qc4 Qd6 29. Ra1 Rc7 30. Qd4 Kg8 31. g3 a6 32.
+Re1 Re7 33. Rxe7 Qxe7 34. d6 Qd7 35. Qc4+ 1-0
+

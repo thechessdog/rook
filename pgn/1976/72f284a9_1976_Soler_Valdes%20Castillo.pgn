@@ -1,0 +1,18 @@
+[Event "Capablanca mem-C 13th"]
+[Site "Cienfuegos"]
+[Date "1976.06.02"]
+[Round "17"]
+[White "Soler, Alberto"]
+[Black "Valdes Castillo, Arnaldo"]
+[Result "1/2-1/2"]
+[ECO "B00"]
+[Opening "KP"]
+[Variation "Nimzovich defence"]
+[HashCode "72f284a9"]
+[Epoch "Rook"]
+[BlackID "3501264"]
+[BlackCountry "CUB"]
+
+1. e4 Nc6 2. Nf3 d6 3. d4 Bg4 4. Be3 e5 5. d5 Nce7 6. h3 Bd7 7. c4 c5 8. dxc6
+Bxc6 9. Nc3 Nf6 10. Bd3 Ng6 11. Qd2 Be7 12. O-O O-O 13. Rfd1 Qd7 14. Nd5 Bxd5
+15. cxd5 Nh5 16. Bf1 f5 17. exf5 Qxf5 18. Bd3 1/2-1/2

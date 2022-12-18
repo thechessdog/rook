@@ -1,0 +1,18 @@
+[Event "corr WER/M"]
+[Site "corr WER/M"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Bouwer"]
+[Black "Ramos, M."]
+[Result "0-1"]
+[ECO "B12"]
+[Opening "Caro-Kann"]
+[Variation "advance variation"]
+[HashCode "8c2b10ca"]
+[Epoch "Rook"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. c4 e6 5. Nc3 Bb4 6. Qb3 c5 7. Bd2 Nc6 8.
+dxc5 d4 9. Na4 Bxd2+ 10. Kxd2 Nxe5 11. Qb5+ Nc6 12. Nf3 Ne7 13. Bd3 O-O 14.
+a3 e5 15. Rae1 Bxd3 16. Kxd3 Ng6 17. g3 Qd7 18. Nd2 f5 19. f3 Rae8 20. Qb3
+e4+ 21. fxe4 fxe4+ 22. Kc2 d3+ 23. Kd1 Nd4 24. Qb4 e3 25. Nb3 d2 0-1
+

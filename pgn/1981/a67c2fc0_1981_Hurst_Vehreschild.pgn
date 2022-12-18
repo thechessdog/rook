@@ -1,0 +1,20 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Hurst, P."]
+[Black "Vehreschild, H."]
+[Result "0-1"]
+[ECO "A00"]
+[Opening "Grob"]
+[Variation "spike attack"]
+[HashCode "a67c2fc0"]
+[Epoch "Rook"]
+
+1. g4 d5 2. Bg2 c6 3. g5 e5 4. h4 Be6 5. d3 Bd6 6. e4 Ne7 7. Nc3 Nd7 8. Nh3
+Qb6 9. a4 O-O-O 10. a5 Qc7 11. Bd2 Kb8 12. Ng1 f5 13. exd5 Nxd5 14. Nge2
+Rhe8 15. Nxd5 Bxd5 16. Kf1 Bxg2+ 17. Kxg2 e4 18. dxe4 Rxe4 19. f3 Re7 20.
+Nd4 Ne5 21. Re1 Qd7 22. Bf4 Bc7 23. Nb3 Ng6 24. Bxc7+ Qxc7 25. Rxe7 Nxh4+
+26. Kh3 Qxe7 27. Qe1 Qxe1 28. Rxe1 Nxf3 29. Re7 Nxg5+ 30. Kh4 Ne4 31. Rxg7
+Rd6 0-1
+

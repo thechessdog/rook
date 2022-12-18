@@ -1,0 +1,21 @@
+[Event "Krasnodar"]
+[Site "Krasnodar"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Filipenko, Alexander V"]
+[Black "Popa, Valentin"]
+[Result "1-0"]
+[ECO "B07"]
+[Opening "Pirc"]
+[Variation "Ufimtsev-Pytel variation"]
+[HashCode "102f0902"]
+[Epoch "Rook"]
+[WhiteID "4104471"]
+[BlackID "1229311"]
+[WhiteCountry "RUS"]
+[BlackCountry "ROU"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 c6 4. f4 g6 5. Nf3 Bg7 6. Bd3 O-O 7. O-O Bg4 8. h3
+Bxf3 9. Qxf3 Qb6 10. Ne2 c5 11. dxc5 Qxc5+ 12. Be3 Qa5 13. Bd4 Nfd7 14. Bxg7
+Kxg7 15. Qg4 Nc5 16. Ng3 Nc6 17. Kh1 Qb4 18. b3 Rac8 19. Rad1 Qc3 20. f5 Kh8
+21. Qh4 Nd7 22. e5 g5 23. Qh6 Ndxe5 24. f6 Nxd3 25. Qg7# 1-0

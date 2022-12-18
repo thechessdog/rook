@@ -1,0 +1,20 @@
+[Event "corr ch-DDR"]
+[Site "corr ch-DDR"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Petzold"]
+[Black "Franke, Heribert"]
+[Result "1/2-1/2"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical system, 5.Be2"]
+[HashCode "94f426ba"]
+[Epoch "Rook"]
+[BlackID "4600576"]
+[BlackCountry "GER"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Nf3 Bg7 5. Be2 O-O 6. O-O Bg4 7. Be3 Nc6 8. Qd2
+e5 9. d5 Ne7 10. Rad1 Bd7 11. Ne1 Ne8 12. f4 exf4 13. Bxf4 f5 14. Nf3 fxe4 15.
+Nxe4 Nf6 16. Neg5 Qc8 17. Bc4 h6 18. Ne6 Bxe6 19. dxe6 d5 20. Bd3 Qxe6 21. Bxh6
+Nf5 22. Bxf5 Qxf5 23. Bxg7 Kxg7 24. Nd4 Qe5 25. Rfe1 Ne4 26. Qd3 Qf6 27. Rf1
+Qb6 1/2-1/2

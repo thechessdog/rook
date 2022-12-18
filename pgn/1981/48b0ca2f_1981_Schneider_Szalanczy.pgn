@@ -1,0 +1,19 @@
+[Event "Balatonbereny"]
+[Site "Balatonbereny"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Schneider, Attila"]
+[Black "Szalanczy, Emil"]
+[Result "1/2-1/2"]
+[ECO "A75"]
+[Opening "Benoni"]
+[Variation "classical with ...a6 and 10...Bg4"]
+[HashCode "48b0ca2f"]
+[Epoch "Rook"]
+[BlackID "700347"]
+[BlackCountry "HUN"]
+[WhiteCountry "HUN"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. e4 Bg7 8. Be2
+O-O 9. O-O a6 10. a4 Bg4 11. Bf4 Bxf3 12. Bxf3 Qe7 13. e5 dxe5 14. d6 Qe6 15.
+Re1 Nbd7 16. Bxb7 Rab8 17. Bxa6 Rxb2 18. Re2 1/2-1/2

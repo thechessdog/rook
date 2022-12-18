@@ -1,0 +1,19 @@
+[Event "corr FSM/EU"]
+[Site "corr FSM/EU"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Suta, M."]
+[Black "Nevednichaya, Raisa"]
+[Result "1-0"]
+[ECO "B42"]
+[Opening "Sicilian"]
+[Variation "Kan, 5.Bd3"]
+[HashCode "9a0f6fb0"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Nc6 6. Nxc6 bxc6 7. O-O d5
+8. c4 Nf6 9. Nc3 Be7 10. cxd5 cxd5 11. exd5 exd5 12. Qa4+ Bd7 13. Qd4 Bc6
+14. Bf4 O-O 15. Rad1 Qa5 16. Be5 Rfe8 17. Rfe1 Bc5 18. Qh4 Ne4 19. Bxe4
+dxe4 20. Bxg7 Bxf2+ 21. Qxf2 Kxg7 22. Rd6 Re6 23. Qd4+ Kg8 24. Rxe6 fxe6
+25. Re3 Kf7 26. Rg3 Rf8 27. Rg7+ Ke8 28. Qa7 Qd8 29. Qc5 1-0
+

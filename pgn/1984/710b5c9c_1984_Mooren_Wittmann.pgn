@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Mooren, L."]
+[Black "Wittmann, Walter"]
+[Result "1-0"]
+[ECO "C64"]
+[Opening "Ruy Lopez"]
+[Variation "classical defence, 4.c3"]
+[HashCode "710b5c9c"]
+[Epoch "Rook"]
+[BlackID "1600060"]
+[BlackCountry "AUT"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. c3 Qf6 5. d4 exd4 6. e5 Qg6 7. cxd4 Bb4+ 8.
+Nc3 d5 9. O-O Ne7 10. Qb3 Bxc3 11. bxc3 Bh3 12. Ne1 O-O 13. Ba3 Rfd8 14. Bxe7
+Nxe7 15. Bd3 1-0

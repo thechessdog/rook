@@ -1,0 +1,18 @@
+[Event "corr DDR-H"]
+[Site "corr DDR-H"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Dupont, G."]
+[Black "Hohenberger, K."]
+[Result "1-0"]
+[ECO "E59"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line"]
+[HashCode "4c603747"]
+[Epoch "Rook"]
+
+1. c4 Nf6 2. d4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 d5 6. Nf3 O-O 7. O-O dxc4 8.
+Bxc4 Nc6 9. a3 Bxc3 10. bxc3 cxd4 11. exd4 Qc7 12. Ba2 Rd8 13. Bg5 Qa5 14.
+Qc2 Ne7 15. Ne5 Ng6 16. f4 Qc7 17. Rad1 b6 18. f5 Nxe5 19. dxe5 Rxd1 20.
+Rxd1 Qc5+ 21. Kh1 Nd5 22. c4 Bb7 23. Bb1 g6 24. cxd5 1-0
+

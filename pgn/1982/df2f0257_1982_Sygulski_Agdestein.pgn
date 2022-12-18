@@ -1,0 +1,23 @@
+[Event "Luzern olm"]
+[Site "Luzern olm"]
+[Date "1982.10.01"]
+[Round "1"]
+[White "Sygulski, Artur"]
+[Black "Agdestein, Simen"]
+[Result "1-0"]
+[ECO "D76"]
+[Opening "Neo-Gruenfeld, 6.cd Nxd5, 7.O-O Nb6"]
+[HashCode "df2f0257"]
+[Epoch "Rook"]
+[WhiteID "1100521"]
+[BlackID "1500015"]
+[WhiteCountry "POL"]
+[BlackCountry "NOR"]
+
+1. d4 Nf6 2. c4 g6 3. Nf3 Bg7 4. g3 O-O 5. Bg2 d5 6. cxd5 Nxd5 7. O-O Nb6 8.
+Nc3 Nc6 9. e3 e5 10. d5 Na5 11. e4 c6 12. Bg5 f6 13. Be3 cxd5 14. exd5 Bg4 15.
+Qe1 Nac4 16. Bc5 Rf7 17. b3 Bxf3 18. Bxf3 Nd6 19. a4 Nbc8 20. Rd1 f5 21. Bg2
+Qc7 22. Be3 Ne7 23. Rc1 Qd7 24. Qd2 Rff8 25. Ne2 Rfd8 26. Rfd1 Nf7 27. Qa5 b6
+28. Qa6 Rac8 29. a5 bxa5 30. Qxa5 Rxc1 31. Rxc1 e4 32. Nf4 Rc8 33. Rxc8+ Nxc8
+34. Ne6 Bf6 35. Bf1 Ne5 36. Bc4 Nd6 37. Ba6 g5 38. Qb4 Nf3+ 39. Kg2 Kf7 40. Qb8
+Ne1+ 1-0

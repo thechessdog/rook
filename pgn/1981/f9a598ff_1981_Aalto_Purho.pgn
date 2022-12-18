@@ -1,0 +1,22 @@
+[Event "corr NS/ME"]
+[Site "corr NS/ME"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Aalto, Toivo"]
+[Black "Purho, Seppo"]
+[Result "1-0"]
+[ECO "B77"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, 9...Bd7"]
+[HashCode "f9a598ff"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8.
+Qd2 Nc6 9. Bc4 Bd7 10. Bb3 Qa5 11. O-O-O Rfc8 12. Rdg1 a6 13. h4 Ne5 14.
+Nd5 Qxd2+ 15. Bxd2 Nxd5 16. Bxd5 Nd3+ 17. Kb1 Bxd4 18. cxd3 Bxg1 19. Rxg1
+Bc6 20. Bb3 a5 21. g4 Bb5 22. Bc2 a4 23. a3 Bd7 24. Bc3 b5 25. Kc1 Ra6 26.
+Kd2 e5 27. Bb1 Be6 28. Bc2 Rac6 29. Bb1 Bb3 30. Rf1 f6 31. d4 Bc4 32. Re1
+exd4 33. Bxd4 Kf7 34. Bc3 Re8 35. g5 fxg5 36. hxg5 d5 37. Rh1 Kg8 38. e5
+Rd8 39. Ke3 Rf8 40. f4 Rf7 41. Rh6 Re6 42. Bd4 Rfe7 43. Kf3 Re8 44. f5 Rxe5
+45. fxg6 Rf8+ 46. Kg4 1-0
+

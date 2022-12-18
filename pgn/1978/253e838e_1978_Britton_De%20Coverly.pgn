@@ -1,0 +1,18 @@
+[Event "Basingstoke"]
+[Site "Basingstoke"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Britton, AJ."]
+[Black "De Coverly, Roger D"]
+[Result "1/2-1/2"]
+[ECO "D40"]
+[Opening "QGD"]
+[Variation "Semi-Tarrasch defence, Pillsbury variation"]
+[HashCode "253e838e"]
+[Epoch "Rook"]
+[BlackID "405213"]
+[BlackCountry "ENG"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c5 4. Nf3 Nf6 5. Bg5 cxd4 6. Nxd4 Nc6 7. Rc1 Be7 8. e3
+O-O 9. Be2 Nxd4 10. exd4 dxc4 11. Bxc4 b6 12. O-O Bb7 13. Qd3 Rc8 14. Rfd1 Nd5
+15. Bxd5 Bxd5 16. Bxe7 Qxe7 17. Nxd5 1/2-1/2

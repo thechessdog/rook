@@ -1,0 +1,19 @@
+[Event "corr FSM/BRD jr"]
+[Site "corr FSM/BRD jr"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Schade, D."]
+[Black "Stertenbrink, G."]
+[Result "0-1"]
+[ECO "A30"]
+[Opening "English"]
+[Variation "symmetrical variation"]
+[HashCode "de6bf705"]
+[Epoch "Rook"]
+
+1. c4 c5 2. d4 cxd4 3. Nf3 a6 4. Nxd4 Nf6 5. Nc3 d5 6. Bf4 dxc4 7. e4 Qa5
+8. Bxc4 e5 9. Qb3 Bb4 10. Bxf7+ Kf8 11. O-O Bxc3 12. bxc3 exf4 13. e5 Qxe5
+14. Be6 Nbd7 15. Rfe1 Qa5 16. Bg8 Rxg8 17. Ne6+ Ke7 18. Rad1 Ne5 19. Ng5
+Bd7 20. Nf7 Qa4 21. Rxd7+ Qxd7 22. h3 Rae8 23. Nxe5 Qb5 24. Qf7+ Kd8 25.
+Rd1+ Kc8 26. Nc4 Kb8 27. Nd6 Ref8 28. Qe7 Qb6 29. Qe5 Rd8 0-1
+

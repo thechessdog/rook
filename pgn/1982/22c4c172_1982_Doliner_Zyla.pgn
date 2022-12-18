@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Doliner"]
+[Black "Zyla, Janusz"]
+[Result "1-0"]
+[ECO "C78"]
+[Opening "Ruy Lopez"]
+[Variation "Archangelsk (counterthrust) variation"]
+[HashCode "22c4c172"]
+[Epoch "Rook"]
+[BlackID "1102338"]
+[BlackCountry "POL"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Bb7 7. Re1 Bc5 8. c3
+Bb6 9. d4 d6 10. Bg5 h6 11. Bh4 O-O 12. a4 exd4 13. cxd4 g5 14. Nxg5 hxg5 15.
+Bxg5 Nxd4 16. Bd5 c6 17. Ra3 Re8 18. Rg3 Kf8 19. Bh6+ Ke7 20. Bxf7 1-0

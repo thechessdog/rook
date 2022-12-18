@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Monti, L."]
+[Black "Pagnoni"]
+[Result "1-0"]
+[ECO "C64"]
+[Opening "Ruy Lopez"]
+[Variation "classical defence, 4.c3"]
+[HashCode "70baa65c"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. c3 Nf6 5. O-O d5 6. d4 dxe4 7. Nxe5 O-O
+8. Bxc6 bxc6 9. dxc5 Qxd1 10. Rxd1 Bg4 11. Nxg4 Nxg4 12. Bf4 Rad8 13. Nd2
+Rfe8 14. Nxe4 Rd5 15. f3 Ne5 16. Bxe5 Rdxe5 17. Rd7 f5 18. Ng3 Rxc5 19.
+Rxc7 a5 20. Nh5 Re2 21. Rxg7+ Kh8 22. Rd1 Re8 23. Rdd7 Rd5 24. Rxh7+ Kg8
+25. Nf6+ Kf8 26. Rh8# 1-0
+

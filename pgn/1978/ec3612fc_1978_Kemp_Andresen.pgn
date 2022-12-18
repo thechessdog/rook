@@ -1,0 +1,19 @@
+[Event "DEN-chJ int"]
+[Site "Ribe"]
+[Date "1978.??.??"]
+[Round "3"]
+[White "Kemp, Rasmus"]
+[Black "Andresen, Klaudi"]
+[Result "0-1"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "ec3612fc"]
+[Epoch "Rook"]
+
+1. e4 c5 2. c3 d6 3. d4 cxd4 4. cxd4 Nf6 5. Nc3 g6 6. Nf3 Bg7 7. Be2 O-O 8.
+h3 a6 9. a4 b6 10. O-O Bb7 11. Nd2 Nbd7 12. Re1 Rc8 13. Bf1 Ne8 14. Nf3 e5
+15. dxe5 dxe5 16. Nd5 Nc5 17. Bg5 f6 18. Bc4 Kh8 19. Bh4 Nd6 20. Nxe5 g5
+21. Qh5 fxe5 22. Bxg5 Qe8 23. Be2 Ncxe4 24. Be7 Qxh5 25. Bxh5 Bxd5 26. f3
+Ng3 0-1
+

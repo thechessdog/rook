@@ -1,0 +1,20 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Hohenberger"]
+[Black "Weber"]
+[Result "0-1"]
+[ECO "C68"]
+[Opening "Ruy Lopez"]
+[Variation "exchange variation"]
+[HashCode "cb054a9c"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 bxc6 5. d4 exd4 6. Qxd4 Qf6 7. e5 Qg6
+8. O-O Bb7 9. Nbd2 c5 10. Qc3 Ne7 11. Nb3 Nd5 12. Qd3 a5 13. Qxg6 hxg6 14.
+c3 a4 15. Nbd2 Nf4 16. Re1 g5 17. Ne4 Nd3 18. Bxg5 Nxe1 19. Rxe1 Bd5 20. a3
+Rb8 21. Bc1 Be7 22. Nf6+ gxf6 23. exf6 Be6 24. fxe7 Kxe7 25. Ne5 Kf8 26. g3
+Kg7 27. h4 d6 28. Nd3 Rhe8 29. Nf4 Bc4 30. Rd1 Be2 31. Re1 Bf3 32. Re3 Bc6
+33. Nh5+ Kg6 34. Nf4+ Kf5 35. Kf1 Kg4 36. Ke2 d5 37. Nd3 Bb5 0-1
+

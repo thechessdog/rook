@@ -1,0 +1,20 @@
+[Event "Bundesliga 8081"]
+[Site "Duitsland tt"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Leckel, Helmut"]
+[Black "Abendroth, Guenter"]
+[Result "1/2-1/2"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Lipnitzky attack"]
+[HashCode "3d0c38f5"]
+[Epoch "Rook"]
+[WhiteID "4617568"]
+[WhiteCountry "GER"]
+[BlackID "4640756"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 Nbd7 8. f4
+Nc5 9. f5 Nxb3 10. axb3 Be7 11. Qf3 Bd7 12. O-O O-O 13. Rd1 Ne8 14. Be3 Bf6 15.
+Nde2 Bc6 16. Nd4 Bd7 17. Nde2 Bc6 18. Nd4 Bd7 19. Nde2 Bc6 1/2-1/2

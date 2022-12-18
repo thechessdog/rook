@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Sumkin, A."]
+[Black "Pospiech"]
+[Result "1-0"]
+[ECO "C69"]
+[Opening "Ruy Lopez"]
+[Variation "exchange variation, 5.O-O"]
+[HashCode "76516130"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O Bd6 6. d4 Bg4 7. dxe5
+Bxf3 8. Qxf3 Bxe5 9. Nd2 f6 10. Rd1 Qe7 11. Nc4 Bd6 12. Nxd6+ cxd6 13. Bf4
+O-O-O 14. Qg4+ Kc7 15. Rxd6 Rxd6 16. Rd1 Nh6 17. Bxd6+ Kb6 18. Qf3 Qe6 19.
+Qe3+ Ka5 20. Qa3+ 1-0
+

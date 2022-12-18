@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Perez Conde"]
+[Black "Werner Serrat"]
+[Result "0-1"]
+[ECO "B10"]
+[Opening "Caro-Kann"]
+[Variation "two knights variation"]
+[HashCode "c3ab01da"]
+[Epoch "Rook"]
+
+1. e4 c6 2. Nf3 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ gxf6 6. Bc4 Rg8 7. O-O
+Bg4 8. d4 Qc7 9. Qd3 Nd7 10. Re1 e6 11. Nh4 O-O-O 12. Bb3 f5 13. g3 Bd6 14.
+Ng2 Bh3 15. Qe3 Bxg2 16. Kxg2 h5 17. c4 c5 18. Bd1 h4 19. dxc5 Nxc5 20. Kf1
+hxg3 21. hxg3 Bxg3 22. fxg3 Ne4 23. g4 Qh2 0-1
+

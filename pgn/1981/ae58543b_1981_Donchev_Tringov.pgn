@@ -1,0 +1,18 @@
+[Event "BUL-ch"]
+[Site "Sofia"]
+[Date "1981.??.??"]
+[Round "10"]
+[White "Donchev, Dimitar I."]
+[Black "Tringov, Georgi P"]
+[Result "1/2-1/2"]
+[ECO "B52"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky attack, 3...Bd7"]
+[HashCode "ae58543b"]
+[Epoch "Rook"]
+[BlackCountry "BGR"]
+[WhiteID "2900025"]
+[WhiteCountry "FID"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Qxd7 5. O-O Nc6 6. d4 cxd4 7. Nxd4 Nf6
+8. Nc3 e6 9. Bg5 Be7 10. Qd2 O-O 11. Rad1 Rfd8 12. h3 a6 13. Qe3 1/2-1/2

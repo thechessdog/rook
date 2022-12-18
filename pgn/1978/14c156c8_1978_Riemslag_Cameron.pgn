@@ -1,0 +1,19 @@
+[Event "Nijmegen"]
+[Site "Nijmegen"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Riemslag, Astrid"]
+[Black "Cameron, Pernette"]
+[Result "0-1"]
+[ECO "A02"]
+[Opening "Bird"]
+[Variation "From gambit"]
+[HashCode "14c156c8"]
+[Epoch "Rook"]
+[WhiteID "1001779"]
+[BlackID "1001795"]
+[WhiteCountry "NED"]
+[BlackCountry "NED"]
+
+1. f4 e5 2. fxe5 d6 3. exd6 Bxd6 4. d4 Qh4+ 5. Kd2 Qxd4+ 6. Ke1 Qh4+ 7. Kd2 Nf6
+8. Nf3 Ne4+ 9. Ke3 Qf4+ 0-1

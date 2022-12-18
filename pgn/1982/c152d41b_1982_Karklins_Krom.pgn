@@ -1,0 +1,23 @@
+[Event "Chicago"]
+[Site "Chicago"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Karklins, E."]
+[Black "Krom, J."]
+[Result "0-1"]
+[ECO "C92"]
+[Opening "Ruy Lopez"]
+[Variation "closed, 9.h3"]
+[HashCode "c152d41b"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8.
+c3 O-O 9. h3 Re8 10. Ng5 Rf8 11. d4 Bb7 12. f4 exf4 13. Bxf4 Na5 14. Bc2
+Nd5 15. exd5 Bxg5 16. Qh5 h6 17. Bxg5 Qxg5 18. Qxg5 hxg5 19. Be4 Nc4 20. b3
+Nb6 21. Nd2 Bxd5 22. c4 Bxe4 23. Rxe4 Rfe8 24. Rae1 Kf8 25. Kf2 bxc4 26.
+bxc4 Rxe4 27. Rxe4 Re8 28. Rg4 f6 29. Rg3 d5 30. c5 Nc4 31. Nxc4 dxc4 32.
+Rc3 Rb8 33. a3 Rb3 34. Rxc4 Rxa3 35. d5 Ke7 36. Ke2 Kd7 37. h4 Rg3 38. hxg5
+Rxg2+ 39. Ke3 Rg3+ 40. Kf4 Rxg5 41. Rd4 a5 42. Rd3 a4 43. Ke4 Rg4+ 44. Kf5
+Rg5+ 45. Ke4 g6 46. Kf4 a3 47. Rxa3 Rxd5 48. Ra6 c6 49. Ra5 Ke6 50. Ke4 Rh5
+51. Kd4 Rh4+ 52. Kd3 Kd5 0-1
+

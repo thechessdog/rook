@@ -1,0 +1,21 @@
+[Event "Snekkersten"]
+[Site "Snekkersten"]
+[Date "1979.01.01"]
+[Round "4"]
+[White "Christensen, Stefan"]
+[Black "Norregaard, Christoffer"]
+[Result "1-0"]
+[ECO "C64"]
+[Opening "Ruy Lopez"]
+[Variation "Cordel gambit"]
+[HashCode "a38d6678"]
+[Epoch "Rook"]
+[BlackID "1401025"]
+[BlackCountry "DEN"]
+[WhiteID "1404148"]
+[WhiteCountry "DEN"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. c3 f5 5. d4 fxe4 6. Bxc6 dxc6 7. Nfd2 Bd6 8.
+dxe5 e3 9. exd6 exd2+ 10. Nxd2 cxd6 11. Ne4 Qe7 12. O-O d5 13. Bg5 Qe5 14. f4
+Qc7 15. Ng3 h6 16. Bh4 g6 17. Qe2+ Kf8 18. Rae1 Qf7 19. Qe5 Rh7 20. f5 g5 21.
+f6 Qd7 22. Qe7+ Nxe7 23. fxe7+ Kg7 24. e8=N+ Qxe8 25. Rxe8 gxh4 26. Nh5+ 1-0

@@ -1,0 +1,20 @@
+[Event "Balatonbereny"]
+[Site "Balatonbereny"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Cserna, Laszlo"]
+[Black "Goldstern, Flip"]
+[Result "1-0"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Nimzovich (knight's tour) variation"]
+[HashCode "ea820d8b"]
+[Epoch "Rook"]
+[WhiteCountry "HUN"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 c5 4. d5 exd5 5. cxd5 d6 6. Nf3 g6 7. Nd2 Nbd7 8. e4
+Bg7 9. Be2 O-O 10. O-O Re8 11. a4 Ne5 12. Ra3 g5 13. Qc2 Nfg4 14. b3 Nh6 15.
+Nc4 f5 16. f4 Nxc4 17. bxc4 fxe4 18. fxg5 Nf5 19. Bh5 Bd4+ 20. Kh1 e3 21. Bxe8
+Qxe8 22. Ne2 Qg6 23. Qe4 Bd7 24. g4 Rf8 25. Rf4 Nh4 26. Qxg6+ Nxg6 27. Rxf8+
+Kxf8 28. Bxe3 Bh8 29. Bf4 Nxf4 30. Nxf4 Bxg4 31. g6 Be5 32. gxh7 Bf5 33. Ne6+
+Ke7 34. Re3 Bxh7 35. Nxc5 1-0

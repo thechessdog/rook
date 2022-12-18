@@ -1,0 +1,16 @@
+[Event "Denmark"]
+[Site "Denmark"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "NN"]
+[Black "Landsholdet"]
+[Result "0-1"]
+[ECO "A00"]
+[Opening "Mieses opening"]
+[HashCode "a6ea82ad"]
+[Epoch "Rook"]
+
+1. d3 d5 2. g3 c5 3. Bg2 Nc6 4. b3 Nf6 5. Bb2 g6 6. f3 Bg7 7. e4 Be6 8. Nd2
+O-O 9. Qe2 d4 10. O-O-O b5 11. Nb1 Nb4 12. Ba3 Nxa2+ 13. Kb2 Nc3 14. Nxc3
+dxc3+ 15. Kxc3 Nxe4# 0-1
+

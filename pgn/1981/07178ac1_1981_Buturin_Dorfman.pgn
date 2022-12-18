@@ -1,0 +1,19 @@
+[Event "Lvov"]
+[Site "Lvov"]
+[Date "1981.01.01"]
+[Round "2"]
+[White "Buturin, Vladimir"]
+[Black "Dorfman, Iossif"]
+[Result "1/2-1/2"]
+[ECO "E19"]
+[Opening "Queen's Indian"]
+[Variation "old main line, 9.Qxc3"]
+[HashCode "07178ac1"]
+[Epoch "Rook"]
+[WhiteID "14100290"]
+[WhiteCountry "UKR"]
+[BlackCountry "FRA"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2 Be7 6. Nc3 Ne4 7. Qc2 Nxc3 8.
+Qxc3 O-O 9. O-O f5 10. Be3 Bf6 11. Rfd1 Qe7 12. Qd2 a5 13. d5 d6 14. Ng5 Bxg5
+15. Bxg5 Qe8 16. e4 fxe4 17. Re1 Nd7 18. Rxe4 Nc5 1/2-1/2

@@ -1,0 +1,23 @@
+[Event "Groningen"]
+[Site "Groningen"]
+[Date "1980.01.01"]
+[Round "4"]
+[White "Karolyi, Tibor"]
+[Black "D'Amore, Carlo"]
+[Result "1-0"]
+[ECO "C80"]
+[Opening "Ruy Lopez"]
+[Variation "open, 8...Be6"]
+[HashCode "fdc3b74f"]
+[Epoch "Rook"]
+[WhiteID "700312"]
+[WhiteCountry "HUN"]
+[BlackID "800066"]
+[BlackCountry "ITA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Be6 9. Be3 Be7 10. Nbd2 O-O 11. c3 Nxd2 12. Qxd2 Na5 13. Rfd1 Nxb3 14. axb3 c5
+15. b4 cxb4 16. cxb4 Qd7 17. Bc5 Rfc8 18. Rdc1 f6 19. Qd4 fxe5 20. Nxe5 Bf6 21.
+Re1 Qe8 22. Ra3 Qh5 23. Rh3 Qf5 24. Rhe3 h5 25. Rf3 Qh7 26. Qd2 a5 27. Nd7 Bxd7
+28. Qxd5+ Kh8 29. Qxd7 axb4 30. Bxb4 Bxb2 31. Qxb5 Rab8 32. Qd7 Rd8 33. Qf7 Rg8
+34. Bd6 Rbe8 35. Qxe8 1-0

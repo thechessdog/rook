@@ -1,0 +1,21 @@
+[Event "corr EUR/M"]
+[Site "corr EUR/M"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Van Manen, Gerben"]
+[Black "Nyberg, Ulf"]
+[Result "1-0"]
+[ECO "A18"]
+[Opening "English"]
+[Variation "Mikenas-Carls, Flohr variation"]
+[HashCode "6438a99f"]
+[Epoch "Rook"]
+[WhiteID "1001582"]
+[BlackID "1705083"]
+[WhiteCountry "NED"]
+[BlackCountry "SWE"]
+
+1. c4 Nf6 2. Nc3 e6 3. e4 d5 4. e5 d4 5. exf6 dxc3 6. bxc3 Qxf6 7. d4 c5 8. Nf3
+h6 9. Bd3 Nc6 10. O-O cxd4 11. cxd4 Nxd4 12. Nxd4 Qxd4 13. Rb1 Bd7 14. Rxb7 Bc5
+15. Bb2 Qf4 16. g3 Qg5 17. Bc2 Rd8 18. Ba4 Bxa4 19. Qxa4+ Kf8 20. Rb5 Rc8 21.
+Ba3 Qe7 22. Rxc5 Rxc5 23. Qb4 Rc7 24. Qb8+ 1-0

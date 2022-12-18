@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Genga, S."]
+[Black "Bertolucci, G."]
+[Result "0-1"]
+[ECO "B87"]
+[Opening "Sicilian"]
+[Variation "Sozin with ...a6 and ...b5"]
+[HashCode "476013c3"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 b5 8.
+O-O Be7 9. f4 O-O 10. e5 dxe5 11. fxe5 Nfd7 12. Qh5 Nc5 13. Be3 Nxb3 14.
+axb3 Bb7 15. Rf2 Nd7 16. Raf1 Qe8 17. Ndxb5 axb5 18. Nxb5 f5 19. Qxe8 Raxe8
+20. Nc7 Nxe5 21. Nxe8 Ng4 22. Re2 Nxe3 23. Nxg7 Kxg7 24. Rxe3 Bc5 0-1
+

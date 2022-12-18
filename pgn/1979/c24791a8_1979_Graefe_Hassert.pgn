@@ -1,0 +1,20 @@
+[Event "corr DDR-H"]
+[Site "corr DDR-H"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Graefe, E."]
+[Black "Hassert, H."]
+[Result "0-1"]
+[ECO "E30"]
+[Opening "Nimzo-Indian"]
+[Variation "Leningrad, ...b5 gambit"]
+[HashCode "c24791a8"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Bg5 h6 5. Bh4 c5 6. d5 b5 7. e4 bxc4 8.
+Bxc4 e5 9. Ne2 d6 10. O-O O-O 11. f4 Bxc3 12. bxc3 exf4 13. Bxf6 Qxf6 14.
+Rxf4 Qg5 15. Qd3 Nd7 16. Qg3 Ne5 17. Bb3 Bg4 18. Bd1 Rab8 19. Rf2 Qd2 20.
+Nf4 Qe1+ 21. Rf1 Qxg3 22. hxg3 Rb2 23. Rf2 Rfb8 24. Bc2 c4 25. Rd2 Nd3 26.
+Nh3 Bd7 27. a4 a6 28. Nf2 Nc5 29. Nd1 Nxe4 30. Nxb2 Nxd2 31. Rd1 Rxb2 32.
+Rxd2 Bf5 0-1
+

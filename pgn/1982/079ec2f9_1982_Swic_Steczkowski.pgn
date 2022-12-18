@@ -1,0 +1,19 @@
+[Event "Poland"]
+[Site "Poland"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Swic, Waldemar"]
+[Black "Steczkowski, Kazimierz"]
+[Result "1/2-1/2"]
+[ECO "E99"]
+[Opening "King's Indian"]
+[Variation "orthodox, Aronin-Taimanov, Benko attack"]
+[HashCode "079ec2f9"]
+[Epoch "Rook"]
+[BlackID "600431"]
+[BlackCountry "FRA"]
+[WhiteID "1101013"]
+[WhiteCountry "POL"]
+
+1. Nf3 Nf6 2. c4 g6 3. Nc3 Bg7 4. d4 O-O 5. e4 d6 6. Be2 e5 7. O-O Nc6 8. d5
+Ne7 9. Ne1 Nd7 10. f3 f5 11. g4 Nf6 12. Be3 h5 1/2-1/2

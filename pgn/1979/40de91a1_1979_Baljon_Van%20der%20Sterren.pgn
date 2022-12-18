@@ -1,0 +1,22 @@
+[Event "IBM-B"]
+[Site "Amsterdam II"]
+[Date "1979.07.01"]
+[Round "8"]
+[White "Baljon, Christofoor"]
+[Black "Van der Sterren, Paul"]
+[Result "0-1"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "classical variation"]
+[HashCode "40de91a1"]
+[Epoch "Rook"]
+[WhiteID "1000772"]
+[WhiteCountry "NED"]
+[BlackID "1000071"]
+[BlackCountry "NED"]
+
+1. b3 d5 2. Bb2 Bg4 3. c4 d4 4. h3 Bh5 5. g4 Bg6 6. Bg2 Nc6 7. b4 a6 8. Qa4 Qd7
+9. b5 Nd8 10. Nf3 f6 11. Nxd4 e5 12. Nb3 h5 13. g5 fxg5 14. d3 Nf6 15. N1d2 g4
+16. Bxe5 Be7 17. hxg4 Nxg4 18. Bxg7 Rh7 19. Bd4 c5 20. bxc6 Nxc6 21. Bb6 Rc8
+22. Ne4 Bb4+ 23. Kf1 Rf7 24. Nbc5 Qd4 25. Nb3 Qxb6 26. c5 Bxe4 27. Bxe4 Ne3+
+28. Kg1 Rg7+ 0-1

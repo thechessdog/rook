@@ -1,0 +1,20 @@
+[Event "corr ch-DK"]
+[Site "corr ch-DK"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Petersen, Finn"]
+[Black "Stentebjerg"]
+[Result "1-0"]
+[ECO "C77"]
+[Opening "Ruy Lopez"]
+[Variation "Morphy defence"]
+[HashCode "e4f5cdf5"]
+[Epoch "Rook"]
+[WhiteID "1400754"]
+[WhiteCountry "DEN"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. d4 exd4 6. O-O Be7 7. Re1 O-O 8. e5
+Ne8 9. Bf4 b5 10. Bb3 d5 11. c3 Bf5 12. cxd4 Nb4 13. Bg3 a5 14. a4 c6 15. Nc3
+Nc7 16. Re3 h6 17. Ne2 Ne6 18. Rc3 Qb6 19. h3 Rad8 20. Rac1 c5 21. dxc5 Bxc5
+22. axb5 d4 23. Rc4 Bd3 24. Rxb4 Bxe2 25. Qxe2 d3 26. Qe4 Bxb4 27. Bxe6 fxe6
+28. Bf4 Rd5 29. Rd1 1-0

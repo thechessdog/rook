@@ -1,0 +1,20 @@
+[Event "Bundesliga 8384"]
+[Site "Duitsland tt"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Reer, Erdmann"]
+[Black "Holzapfel, Daniel"]
+[Result "1/2-1/2"]
+[ECO "B02"]
+[Opening "Alekhine's defence"]
+[Variation "Scandinavian variation"]
+[HashCode "517fab0f"]
+[Epoch "Rook"]
+[WhiteID "4654170"]
+[WhiteCountry "GER"]
+[BlackID "4604059"]
+[BlackCountry "GER"]
+
+1. e4 Nf6 2. Nc3 d5 3. exd5 Nxd5 4. d4 Bf5 5. Bd3 Bxd3 6. Qxd3 Nxc3 7. bxc3 c6
+8. Nf3 Nd7 9. O-O e6 10. Bf4 Be7 11. Rab1 Qc8 12. c4 O-O 13. Rfe1 Re8 14. Re2
+b6 15. Ne5 Nxe5 16. Bxe5 Qd7 17. Rd1 1/2-1/2

@@ -1,0 +1,20 @@
+[Event "corr Golden Knights"]
+[Site "corr Golden Knights"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Sevush, S."]
+[Black "Hermeleyn, E."]
+[Result "0-1"]
+[ECO "E42"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5, 5.Ne2 (Rubinstein)"]
+[HashCode "510fba02"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Ne2 cxd4 6. exd4 d5 7. a3 Be7 8.
+c5 b6 9. b4 O-O 10. g3 bxc5 11. dxc5 a5 12. Rb1 axb4 13. axb4 Nc6 14. Bg2
+Rb8 15. Ba3 Ba6 16. O-O Bc4 17. Qc2 Ng4 18. Rfd1 Nxf2 19. Kxf2 Nxb4 20.
+Bxb4 Rxb4 21. Bf3 Bxc5+ 22. Kg2 Rxb1 23. Qxb1 Qf6 24. Qc1 g5 25. Qd2 Rb8
+26. Na4 Ba7 27. Nec3 Rb3 28. Qc2 Bd4 29. Rc1 Be3 30. Rd1 Bd4 31. Rc1 Bxc3
+32. Nxc3 d4 33. Qe4 Rb2+ 0-1
+

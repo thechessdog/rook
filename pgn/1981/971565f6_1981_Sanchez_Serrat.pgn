@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Sanchez"]
+[Black "Serrat"]
+[Result "1-0"]
+[ECO "B16"]
+[Opening "Caro-Kann"]
+[Variation "Bronstein-Larsen variation"]
+[HashCode "971565f6"]
+[Epoch "Rook"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ gxf6 6. c3 Bf5 7. Ne2 e5
+8. Ng3 Be6 9. Be3 Qc7 10. Bd3 Nd7 11. O-O Bd6 12. Nf5 O-O-O 13. Nxd6+ Qxd6
+14. Qa4 Qb8 15. dxe5 Nb6 16. Qc2 Nd7 17. exf6 Qe5 18. Rfe1 Rhg8 19. Bb6
+Rxg2+ 20. Kxg2 Rg8+ 21. Kh1 Bd5+ 22. Be4 Nxf6 23. f3 Nxe4 24. fxe4 Rg4 25.
+c4 Qf5 26. Qg2 Qg6 27. exd5 1-0
+

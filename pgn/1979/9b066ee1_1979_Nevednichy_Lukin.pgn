@@ -1,0 +1,20 @@
+[Event "URS Spartakiad"]
+[Site "Moscow"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Nevednichy, Boris M"]
+[Black "Lukin, Andrei M"]
+[Result "1/2-1/2"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (without ...d6)"]
+[HashCode "9b066ee1"]
+[Epoch "Rook"]
+[WhiteID "13900080"]
+[WhiteCountry "MDA"]
+[BlackID "4101251"]
+[BlackCountry "RUS"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 d6 4. O-O Bd7 5. c3 Nf6 6. Re1 a6 7. Bxc6 Bxc6 8. d4
+Bxe4 9. Bg5 Bd5 10. Nbd2 e6 11. c4 Bxf3 12. Qxf3 cxd4 13. Qxb7 Qc8 14. Qb6 Qc5
+15. Qb7 Qc8 16. Qb6 Qc5 1/2-1/2

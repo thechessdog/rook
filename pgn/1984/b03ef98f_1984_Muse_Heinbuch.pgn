@@ -1,0 +1,19 @@
+[Event "Hamburg op"]
+[Site "Hamburg"]
+[Date "1984.01.01"]
+[Round "7"]
+[White "Muse, Mladen"]
+[Black "Heinbuch, Detlef Ulrich"]
+[Result "1-0"]
+[ECO "D24"]
+[Opening "QGA, Bogolyubov variation"]
+[HashCode "b03ef98f"]
+[Epoch "Rook"]
+[WhiteID "4600304"]
+[WhiteCountry "CRO"]
+[BlackID "4601289"]
+[BlackCountry "GER"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. Nc3 a6 5. e4 b5 6. e5 Nd5 7. a4 c6 8. axb5
+Nxc3 9. bxc3 cxb5 10. Ng5 f6 11. Ne4 f5 12. Ng5 e6 13. g4 Bb7 14. Nxe6 Qd7 15.
+gxf5 Bxh1 16. Qh5+ g6 17. fxg6 Bf3 18. Qxf3 Ra7 19. g7 1-0

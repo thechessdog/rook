@@ -1,0 +1,18 @@
+[Event "Dallas"]
+[Site "Dallas"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Belle"]
+[Black "Ostrich"]
+[Result "1/2-1/2"]
+[ECO "B01"]
+[Opening "Scandinavian"]
+[Variation "Marshall variation"]
+[HashCode "0924e8ae"]
+[Epoch "Rook"]
+
+1. e4 d5 2. exd5 Nf6 3. d4 Nxd5 4. Nf3 Bg4 5. Be2 Nc6 6. c4 Nf6 7. d5 Bxf3
+8. Bxf3 Ne5 9. Bg5 e6 10. O-O Bc5 11. Re1 Nxf3+ 12. Qxf3 Bb4 13. Re4 Qe7
+14. dxe6 O-O-O 15. Qe2 h6 16. Bxf6 Qxf6 17. g3 Rhe8 18. exf7 Rxe4 19. Qxe4
+Qxb2 20. c5 Bxc5 21. Qf5+ Rd7 22. Qxc5 Rxf7 1/2-1/2
+

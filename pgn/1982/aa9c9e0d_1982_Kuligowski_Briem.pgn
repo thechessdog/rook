@@ -1,0 +1,24 @@
+[Event "Reykjavik"]
+[Site "Reykjavik"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Kuligowski, Adam"]
+[Black "Briem, Stefan"]
+[Result "1-0"]
+[ECO "A86"]
+[Opening "Dutch"]
+[Variation "Leningrad variation"]
+[HashCode "aa9c9e0d"]
+[Epoch "Rook"]
+[WhiteID "1100092"]
+[BlackID "2300737"]
+[WhiteCountry "POL"]
+[BlackCountry "ISL"]
+
+1. d4 f5 2. c4 Nf6 3. g3 g6 4. Nf3 Bg7 5. b3 d6 6. Bb2 O-O 7. Bg2 e5 8. dxe5
+Ng4 9. h3 Nxe5 10. Qd5+ Nf7 11. Bxg7 Kxg7 12. Nc3 Qf6 13. Qd2 c6 14. O-O Na6
+15. e3 Be6 16. Nd4 Nc5 17. f4 Rfe8 18. Rfe1 Rad8 19. Rad1 Bc8 20. b4 Ne4 21.
+Nxe4 fxe4 22. Qc2 h5 23. Kh2 Bf5 24. Ne2 a6 25. Nc3 b5 26. Nxe4 bxc4 27. Nxf6
+Bxc2 28. Nxe8+ Rxe8 29. Bxc6 Rb8 30. Rc1 Bd3 31. a3 d5 32. Bxd5 Nd6 33. e4 Rc8
+34. g4 hxg4 35. hxg4 Nb5 36. Re3 Rh8+ 37. Rh3 Rxh3+ 38. Kxh3 Nxa3 39. e5 Nc2
+40. Rxc2 1-0

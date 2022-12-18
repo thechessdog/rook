@@ -1,0 +1,17 @@
+[Event "GER-S chT 7980"]
+[Site "BL-S 7980"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Schmid, Lothar"]
+[Black "Goehring, Karl-Heinz"]
+[Result "1-0"]
+[ECO "C71"]
+[Opening "Ruy Lopez"]
+[Variation "modern Steinitz defence"]
+[HashCode "2d763d32"]
+[Epoch "Rook"]
+[BlackCountry "GER"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. d4 exd4 6. Nxd4 Bd7 7. Nxc6 Bxc6 8.
+Bxc6+ bxc6 9. O-O Nf6 10. Qf3 Qd7 11. Re1 Be7 12. Bf4 O-O 13. Nc3 Rab8 14. e5
+Ne8 15. b3 d5 16. Qd3 a5 17. Na4 c5 18. Rad1 Rb4 19. Be3 d4 20. c3 1-0

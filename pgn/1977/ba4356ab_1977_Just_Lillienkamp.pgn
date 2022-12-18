@@ -1,0 +1,16 @@
+[Event "corr APCT"]
+[Site "corr APCT"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Just, T."]
+[Black "Lillienkamp"]
+[Result "1-0"]
+[ECO "D00"]
+[Opening "Blackmar gambit"]
+[HashCode "ba4356ab"]
+[Epoch "Rook"]
+
+1. d4 d5 2. e4 dxe4 3. Nc3 Nf6 4. f3 exf3 5. Nxf3 Bg4 6. h3 Bh5 7. g4 Bg6
+8. Ne5 e6 9. Qf3 Nbd7 10. Nxg6 hxg6 11. Bd3 Bb4 12. O-O c6 13. g5 Nh7 14.
+Qxf7# 1-0
+

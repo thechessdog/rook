@@ -1,0 +1,18 @@
+[Event "Lugano"]
+[Site "Lugano"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Zueger, Beat"]
+[Black "Horstmann"]
+[Result "1-0"]
+[ECO "A10"]
+[Opening "English opening"]
+[HashCode "52857b20"]
+[Epoch "Rook"]
+[WhiteID "1300067"]
+[WhiteCountry "SUI"]
+
+1. c4 g6 2. g3 Bg7 3. Bg2 d6 4. Nc3 e5 5. Nf3 Ne7 6. O-O O-O 7. d4 c6 8. e4 Bg4
+9. Be3 Na6 10. Qd2 Bxf3 11. Bxf3 exd4 12. Bxd4 Bxd4 13. Qxd4 Qc7 14. Rad1 Rad8
+15. Rd2 b6 16. Rfd1 Nc5 17. Qf6 Nb7 18. Bg4 h5 19. Bh3 Kh7 20. e5 Ng8 21. exd6
+Rxd6 22. Qf4 Rfd8 23. c5 bxc5 24. Ne4 1-0

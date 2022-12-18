@@ -1,0 +1,18 @@
+[Event "corr USCCC"]
+[Site "corr USCCC"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Phythyon, J."]
+[Black "Carlson, Curtis"]
+[Result "0-1"]
+[ECO "E41"]
+[Opening "Nimzo-Indian"]
+[Variation "e3, Huebner variation"]
+[HashCode "e424f34e"]
+[Epoch "Rook"]
+[BlackID "2002868"]
+[BlackCountry "USA"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 Nc6 6. Nf3 Bxc3+ 7. bxc3 d6 8.
+O-O e5 9. d5 Ne7 10. e4 h6 11. h3 g5 12. Qb3 Ng6 13. Kh2 g4 14. Ng1 Rg8 15. f4
+gxh3 16. gxh3 Ng4+ 17. Kg3 Qh4+ 0-1

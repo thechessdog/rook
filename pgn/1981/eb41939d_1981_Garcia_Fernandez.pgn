@@ -1,0 +1,22 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Garces, Napoleon"]
+[Black "Fernandes, Antonio"]
+[Result "1-0"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "eb41939d"]
+[Epoch "Rook"]
+[WhiteID "3600130"]
+[BlackID "1900021"]
+[WhiteCountry "ECU"]
+[BlackCountry "POR"]
+
+1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. d4 cxd4 5. cxd4 d6 6. Nf3 Nc6 7. Bc4 Nb6 8. Bb5
+dxe5 9. Nxe5 Bd7 10. Bxc6 Bxc6 11. Nxc6 bxc6 12. O-O e6 13. Qg4 g6 14. Bg5 Be7
+15. Bh6 f5 16. Qe2 Qd7 17. Re1 Kf7 18. Nd2 Rhe8 19. Nf3 Bf6 20. Ne5+ Bxe5 21.
+Qxe5 Kg8 22. Rac1 Re7 23. Rc5 Nd5 24. a3 a5 25. Rec1 Ra6 26. b3 Qc7 27. Qe2 Qb7
+28. g3 Qc8 29. Rxd5 1-0

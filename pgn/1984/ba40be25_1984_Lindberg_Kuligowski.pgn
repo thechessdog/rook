@@ -1,0 +1,26 @@
+[Event "Hamburg op"]
+[Site "Hamburg"]
+[Date "1984.01.01"]
+[Round "4"]
+[White "Lindberg, Bengt"]
+[Black "Kuligowski, Adam"]
+[Result "0-1"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Byrne (English) attack"]
+[HashCode "ba40be25"]
+[Epoch "Rook"]
+[WhiteID "1700359"]
+[BlackID "1100092"]
+[WhiteCountry "SWE"]
+[BlackCountry "POL"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e6 7. g4 h6 8. h4
+Nc6 9. Rg1 h5 10. gxh5 Rxh5 11. Bg5 Rh8 12. Qd2 Qb6 13. Nb3 Bd7 14. O-O-O O-O-O
+15. Kb1 Kb8 16. a3 Rc8 17. Be3 Qc7 18. f3 Be8 19. Qf2 Nd7 20. Na4 g6 21. Nb6
+Nxb6 22. Bxb6 Qe7 23. Rh1 f5 24. Na5 Qf6 25. Nxc6+ Bxc6 26. Bd3 Be7 27. Rdg1
+Be8 28. Qe2 Rc6 29. Bf2 e5 30. Qe3 Bf7 31. Qa7+ Kc7 32. Be1 Rb8 33. Ba5+ Kc8
+34. Rd1 d5 35. Qg1 d4 36. h5 gxh5 37. exf5 b6 38. Bb4 Bxb4 39. axb4 Bd5 40. Be4
+Qf7 41. Bxd5 Qxd5 42. Rxh5 a5 43. Rh8+ Kb7 44. Rh7+ Ka6 45. Qg7 Rg8 46. Qb7+
+Kb5 47. bxa5 d3 48. c4+ Qxc4 49. Rh2 Rd8 50. Rhd2 Rd4 51. b3 Qc2+ 52. Ka1 Qc3+
+53. Ka2 Qxa5+ 54. Kb1 Rc2 0-1

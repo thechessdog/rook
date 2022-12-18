@@ -1,0 +1,19 @@
+[Event "Budapest"]
+[Site "Budapest"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Perenyi, Bela"]
+[Black "Buecker, Stefan"]
+[Result "1-0"]
+[ECO "B18"]
+[Opening "Caro-Kann"]
+[Variation "classical variation"]
+[HashCode "0d00cc59"]
+[Epoch "Rook"]
+[WhiteCountry "HUN"]
+[BlackID "4601424"]
+[BlackCountry "GER"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 g6 6. Nf3 e6 7. Bc4 Nd7 8. O-O
+Qc7 9. Nxf5 gxf5 10. Ng5 h6 11. Qh5 Ndf6 12. Nxe6 Qe7 13. Qxf5 fxe6 14. Bxe6
+Qh7 15. Qe5 Qe4 16. Qxe4 1-0

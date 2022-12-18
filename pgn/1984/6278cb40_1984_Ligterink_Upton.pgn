@@ -1,0 +1,25 @@
+[Event "Oxford"]
+[Site "Oxford"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Ligterink, Gert"]
+[Black "Upton, T."]
+[Result "1-0"]
+[ECO "D55"]
+[Opening "QGD"]
+[Variation "Petrosian variation"]
+[HashCode "6278cb40"]
+[Epoch "Rook"]
+[WhiteID "1000179"]
+[WhiteCountry "NED"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Be7 4. Nf3 Nf6 5. Bg5 O-O 6. e3 h6 7. Bxf6 Bxf6 8. Rc1
+c6 9. Bd3 Nd7 10. O-O dxc4 11. Bxc4 e5 12. Bb3 exd4 13. exd4 Nb6 14. h3 Bf5 15.
+Re1 Re8 16. Rxe8+ Qxe8 17. Qd2 Rd8 18. Re1 Qd7 19. Qf4 Bg6 20. Qg3 Kh7 21. Ne5
+Bxe5 22. dxe5 Qe7 23. f4 Qc5+ 24. Kh2 Rd3 25. Qg4 Rd4 26. e6 fxe6 27. Rxe6 Bh5
+28. Qg3 Qf8 29. Re5 Bg6 30. f5 Bf7 31. Ne2 Rd2 32. Bxf7 Qxf7 33. Nf4 Rd8 34.
+Ne6 Rd5 35. Rxd5 Nxd5 36. Qe5 Qf6 37. Qxf6 gxf6 38. Nd8 Nb4 39. Nxb7 Nxa2 40.
+Kg3 Nb4 41. Kf3 h5 42. Nc5 Kh6 43. h4 Kg7 44. Ke4 Nd5 45. Nb3 Ne7 46. Na5 Kf7
+47. Nc4 Ke8 48. Ne3 Kd7 49. Kd4 Kd6 50. Ke4 Nd5 51. Nf1 a5 52. Ng3 a4 53. Nxh5
+c5 54. Kd3 Ke5 55. g4 Nb6 56. Ng7 Nd5 57. h5 c4+ 58. Kd2 c3+ 59. bxc3 a3 60.
+Kc1 1-0

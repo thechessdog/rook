@@ -1,0 +1,18 @@
+[Event "corr ch-EU"]
+[Site "corr ch-EU"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Paldan"]
+[Black "Roos"]
+[Result "1-0"]
+[ECO "A88"]
+[Opening "Dutch"]
+[Variation "Leningrad, main variation with c6"]
+[HashCode "0de22b17"]
+[Epoch "Rook"]
+
+1. c4 f5 2. d4 Nf6 3. g3 g6 4. Bg2 Bg7 5. Nf3 O-O 6. O-O d6 7. Nc3 c6 8.
+Re1 Ne4 9. Qc2 Nxc3 10. bxc3 e5 11. e4 fxe4 12. Qxe4 d5 13. Qe2 e4 14. Nd2
+Nd7 15. Ba3 Rf7 16. cxd5 cxd5 17. f3 exf3 18. Nxf3 Nf6 19. Be7 Qe8 20. Ng5
+Bg4 21. Qe5 Ne4 22. Qxd5 Nxc3 23. Bc5 1-0
+

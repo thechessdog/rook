@@ -1,0 +1,23 @@
+[Event "Nordic-tt"]
+[Site "Oslo"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Winge, Stefan"]
+[Black "Brunner, Lucas"]
+[Result "1-0"]
+[ECO "B03"]
+[Opening "Alekhine's defence"]
+[Variation "four pawns attack"]
+[HashCode "9494c91b"]
+[Epoch "Rook"]
+[WhiteID "1700898"]
+[WhiteCountry "SWE"]
+[BlackID "1300024"]
+[BlackCountry "SUI"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. c4 Nb6 5. f4 dxe5 6. fxe5 Bf5 7. Nc3 e6 8. Be3
+Be7 9. Nf3 O-O 10. Bd3 Bg4 11. O-O Nc6 12. h3 Bh5 13. Bxh7+ Kxh7 14. Ng5+ Bxg5
+15. Qxh5+ Kg8 16. Bxg5 Qxd4+ 17. Kh1 Qd3 18. Bf6 Qg6 19. Qh4 Qh7 20. Qg3 Nd4
+21. Ne4 Nf5 22. Qd3 Kh8 23. Bg5 Qg6 24. Rf4 f6 25. exf6 gxf6 26. Bh4 Qh6 27. g3
+Rad8 28. Qc3 Nd7 29. Rd1 Kh7 30. Kh2 Qh5 31. Rdf1 Qh6 32. c5 Rf7 33. c6 bxc6
+34. Qxc6 Nf8 35. Bxf6 Rd3 36. Ng5+ Kg8 37. Nxf7 Qxf6 38. Rxf5 Rd2+ 39. Kh1 1-0

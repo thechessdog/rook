@@ -1,0 +1,23 @@
+[Event "corr ch-EU"]
+[Site "corr ch-EU"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Ivanovic, M."]
+[Black "Kotka, R."]
+[Result "1-0"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack, Richter variation"]
+[HashCode "fd615282"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. Bg5 d5 3. Nc3 Bf5 4. f3 c6 5. Qd2 Nbd7 6. O-O-O h6 7. Bf4 e6
+8. g4 Bg6 9. e3 Qa5 10. Bd3 Bxd3 11. Qxd3 O-O-O 12. Nge2 c5 13. Qb5 Qb6 14.
+Qxb6 Nxb6 15. Nb5 cxd4 16. exd4 Kd7 17. Bc7 Rc8 18. Bxb6 axb6 19. b3 Ne8
+20. Kb2 Nd6 21. Nec3 Be7 22. Nxd6 Bxd6 23. Nb5 Bf4 24. Nc3 Rhd8 25. Ne2 Bd6
+26. a4 Rc7 27. f4 Rdc8 28. c3 Kc6 29. h4 g5 30. Rdf1 gxf4 31. Nxf4 b5 32.
+axb5+ Kxb5 33. Ne2 Rg8 34. Rhg1 Be7 35. c4+ dxc4 36. bxc4+ Rxc4 37. Rxf7
+Rc7 38. Kb3 Kb6 39. Rh7 Rg6 40. Nf4 Rf6 41. Rf1 Ka5 42. Ra1+ Kb5 43. Rf1
+Bd8 44. Rh8 Rd7 45. g5 Rf5 46. Kc3 hxg5 47. Rb1+ Kc6 48. Nxe6 Ba5+ 49. Kd3
+g4 50. Rc8+ Kd6 51. Nc5 Rf3+ 52. Kc4 b6 53. Ne4+ Ke7 54. Rb5 Ra3 55. Re5+
+Kf7 56. Ng5+ Kg7 57. Ne6+ Kf6 58. Rf8+ 1-0
+

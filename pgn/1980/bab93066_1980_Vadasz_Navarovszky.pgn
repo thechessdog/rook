@@ -1,0 +1,20 @@
+[Event "Budapest"]
+[Site "Budapest"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Vadasz, Laszlo"]
+[Black "Navarovszky, Laszlo"]
+[Result "1/2-1/2"]
+[ECO "B12"]
+[Opening "Caro-Kann"]
+[Variation "advance variation"]
+[HashCode "bab93066"]
+[Epoch "Rook"]
+[WhiteCountry "HUN"]
+[BlackCountry "HUN"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nc3 h5 5. Be2 g6 6. h3 e6 7. Nf3 c5 8. O-O Nc6
+9. Be3 Be4 10. dxc5 Bxf3 11. Bxf3 Nh6 12. Nb5 Nf5 13. Qe2 d4 14. Rad1 Bxc5 15.
+Bxc6+ bxc6 16. Nxd4 Bxd4 17. Bxd4 Nxd4 18. Qe3 c5 19. c3 Qa5 20. cxd4 cxd4 21.
+Qxd4 O-O 22. b4 Qxa2 23. Rfe1 Rac8 24. Re4 Qc2 25. Rf4 Rc4 26. Qxc4 Qxd1+ 27.
+Kh2 Rd8 28. Qe4 Qd5 1/2-1/2

@@ -1,0 +1,19 @@
+[Event "Sweden"]
+[Site "Sweden"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Rorvall, Goran"]
+[Black "Hansson, Dan"]
+[Result "0-1"]
+[ECO "B99"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7...Be7 main line"]
+[HashCode "dfccbc4c"]
+[Epoch "Rook"]
+[WhiteID "1700650"]
+[WhiteCountry "SWE"]
+[BlackCountry "ISL"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3
+Qc7 9. O-O-O Nbd7 10. Bd3 h6 11. h4 Qb6 12. Nde2 Nc5 13. f5 hxg5 14. hxg5 Rxh1
+15. Rxh1 Nfd7 16. Rh8+ Nf8 17. f6 gxf6 18. gxf6 Bd8 19. Ng3 0-1

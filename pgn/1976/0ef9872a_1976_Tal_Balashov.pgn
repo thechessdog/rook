@@ -1,0 +1,19 @@
+[Event "Moskou ch-URS"]
+[Site "Moskou ch-URS"]
+[Date "1976.11.01"]
+[Round "1"]
+[White "Tal, Mikhail"]
+[Black "Balashov, Yuri S"]
+[Result "1/2-1/2"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical system, 5.Be2"]
+[HashCode "0ef9872a"]
+[Epoch "Rook"]
+[BlackID "4100263"]
+[BlackCountry "RUS"]
+[WhiteCountry "LVA"]
+
+1. Nf3 g6 2. e4 d6 3. d4 Nf6 4. Nc3 Bg7 5. Be2 O-O 6. O-O Bg4 7. Be3 Nc6 8. Qd2
+e5 9. dxe5 dxe5 10. Rfd1 Qc8 11. Qe1 Rd8 12. Rxd8+ Qxd8 13. Rd1 Qf8 14. h3 Bxf3
+15. Bxf3 Rd8 1/2-1/2

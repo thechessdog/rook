@@ -1,0 +1,22 @@
+[Event "New York"]
+[Site "New York"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Lein, Anatoly"]
+[Black "Olafsson, Helgi"]
+[Result "1-0"]
+[ECO "B52"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky attack, 3...Bd7"]
+[HashCode "5ca293f8"]
+[Epoch "Rook"]
+[WhiteID "2000270"]
+[WhiteCountry "USA"]
+[BlackID "2300010"]
+[BlackCountry "ISL"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. a4 Nf6 5. Nc3 Nc6 6. O-O g6 7. Bxc6 Bxc6 8.
+e5 dxe5 9. Nxe5 Rc8 10. Re1 Bg7 11. Qe2 e6 12. Nb5 Bxb5 13. axb5 Ra8 14. d4
+Qxd4 15. Bg5 O-O 16. c3 Qd8 17. Rad1 Qe7 18. Rd7 Qe8 19. Rxb7 Qc8 20. Qf3 Nd5
+21. Rxf7 Bxe5 22. Rxf8+ Qxf8 23. Qxf8+ Rxf8 24. Rxe5 Rf5 25. Rxf5 exf5 26. c4
+Nc7 27. Be3 Ne6 28. f3 1-0

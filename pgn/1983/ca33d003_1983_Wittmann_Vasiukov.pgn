@@ -1,0 +1,24 @@
+[Event "Frunze"]
+[Site "Frunze"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Wittmann, Walter"]
+[Black "Vasiukov, Evgeni"]
+[Result "0-1"]
+[ECO "B41"]
+[Opening "Sicilian"]
+[Variation "Kan, Maroczy bind - Bronstein variation"]
+[HashCode "ca33d003"]
+[Epoch "Rook"]
+[WhiteID "1600060"]
+[WhiteCountry "AUT"]
+[BlackID "4100522"]
+[BlackCountry "RUS"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. c4 Nf6 6. Nc3 Bb4 7. Bd3 Nc6 8. Bc2
+Qc7 9. O-O h5 10. Nxc6 dxc6 11. f4 e5 12. f5 Bc5+ 13. Kh1 b5 14. Qe2 Bb7 15.
+Bg5 Bd4 16. a3 Qb6 17. Bxf6 gxf6 18. cxb5 axb5 19. Bd3 Ke7 20. Na2 h4 21. h3
+Rhg8 22. Qc2 Rg3 23. Be2 Qc5 24. Qxc5+ Bxc5 25. Bf3 Bd4 26. Nc3 Bxc3 27. bxc3
+c5 28. c4 bxc4 29. a4 Ba6 30. Rfb1 Rgg8 31. Rb6 Rgb8 32. a5 Rxb6 33. axb6 Bb7
+34. Rxa8 Bxa8 35. Bd1 Bxe4 36. Bc2 Bd5 37. Kg1 Kd6 38. Kf2 e4 39. g3 hxg3+ 40.
+Kxg3 Ke5 41. Kg4 e3 42. Kg3 Kd4 43. h4 Kc3 44. Bd1 Kd2 45. Bf3 c3 0-1

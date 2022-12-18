@@ -1,0 +1,19 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Meyer, Thorlejf"]
+[Black "Hansen, Soren Bech"]
+[Result "1-0"]
+[ECO "C55"]
+[Opening "Two knights defence"]
+[HashCode "fc3eb30e"]
+[Epoch "Rook"]
+[WhiteID "1419030"]
+[WhiteCountry "DEN"]
+[BlackID "1400681"]
+[BlackCountry "DEN"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. O-O Bc5 5. b4 Bxb4 6. c3 Ba5 7. d4 Nxe4 8. d5
+Ne7 9. Nxe5 d6 10. Qa4+ Bd7 11. Nxd7 c6 12. dxc6 Nxc3 13. Nxc3 Bxc3 14. cxb7
+Bxa1 15. bxa8=Q 1-0

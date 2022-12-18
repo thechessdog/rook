@@ -1,0 +1,17 @@
+[Event "corr Europe"]
+[Site "corr Europe"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Kase, O."]
+[Black "Lehikoinen, P."]
+[Result "0-1"]
+[ECO "C34"]
+[Opening "KGA"]
+[Variation "Fischer defence"]
+[HashCode "a9bc434a"]
+[Epoch "Rook"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 d6 4. d4 g5 5. Bc4 Bg7 6. h4 h6 7. c3 Nc6 8. Qb3
+Qe7 9. O-O Nf6 10. hxg5 hxg5 11. Nxg5 Nxd4 12. Bxf7+ Kd8 13. Qd1 Nxe4 14.
+Nxe4 Qxe4 15. Re1 Qf5 16. Bc4 Qc5 17. Be3 fxe3 0-1
+

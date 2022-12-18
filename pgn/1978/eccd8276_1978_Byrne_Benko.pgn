@@ -1,0 +1,19 @@
+[Event "USA"]
+[Site "USA"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Byrne, Robert E"]
+[Black "Benko, Pal"]
+[Result "1/2-1/2"]
+[ECO "B17"]
+[Opening "Caro-Kann"]
+[Variation "Steinitz variation"]
+[HashCode "eccd8276"]
+[Epoch "Rook"]
+[BlackID "2000687"]
+[BlackCountry "USA"]
+[WhiteCountry "USA"]
+
+1. e4 c6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Nxf6+ Nxf6 7. g3 Bg4
+8. Bg2 g6 9. c3 Bg7 10. h3 Bxf3 11. Qxf3 Qd5 12. O-O Qxf3 13. Bxf3 O-O-O
+1/2-1/2

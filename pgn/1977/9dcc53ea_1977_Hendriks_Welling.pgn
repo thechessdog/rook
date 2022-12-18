@@ -1,0 +1,20 @@
+[Event "Sittard"]
+[Site "Sittard"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Hendriks, R."]
+[Black "Welling, Gerard"]
+[Result "0-1"]
+[ECO "C60"]
+[Opening "Ruy Lopez (Spanish opening)"]
+[HashCode "9dcc53ea"]
+[Epoch "Rook"]
+[BlackID "1000446"]
+[BlackCountry "NED"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Qf6 4. c3 g5 5. h3 h6 6. d4 Bd6 7. Be3 Nge7 8. Nbd2
+Ng6 9. d5 Nce7 10. Bf1 b6 11. b4 c6 12. dxc6 dxc6 13. Qa4 Bb7 14. c4 O-O 15. c5
+Bc7 16. Qc2 Rfd8 17. Bc4 b5 18. Be2 a5 19. O-O Nf4 20. Bxf4 exf4 21. bxa5 Rxa5
+22. Nb3 Ra4 23. Rfd1 Rxd1+ 24. Rxd1 Bc8 25. Rd4 Rxd4 26. Nfxd4 Ng6 27. Bg4 Bxg4
+28. hxg4 Ne5 29. Qd1 f3 30. Nxf3 Nxg4 31. Qd7 Qf4 32. Qxc6 Nxf2 33. Qxh6 Nxe4
+34. Qc6 Qe3+ 35. Kh1 Nf2+ 36. Kg1 Nh3+ 37. Kh1 Qg1+ 38. Nxg1 Nf2# 0-1

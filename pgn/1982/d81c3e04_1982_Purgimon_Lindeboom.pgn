@@ -1,0 +1,19 @@
+[Event "Luzern ol (Men)"]
+[Site "Luzern olm"]
+[Date "1982.10.01"]
+[Round "12"]
+[White "Purgimon, J."]
+[Black "Lindeboom, J."]
+[Result "0-1"]
+[ECO "A78"]
+[Opening "Benoni"]
+[Variation "classical with ...Re8 and ...Na6"]
+[HashCode "d81c3e04"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. e4 Bg7 8. Nd2
+O-O 9. Be2 Re8 10. O-O Na6 11. Qc2 Nc7 12. a4 Nfxd5 13. exd5 Bxc3 14. Bb5 Nxb5
+15. bxc3 Bf5 16. Qb3 Nc7 17. c4 Re2 18. Qc3 Qe7 19. Bb2 Qe5 20. Qb3 Qf4 21. Nf3
+Be4 22. Qc3 f6 23. Rae1 Bxf3 24. gxf3 Rae8 25. Rxe2 Rxe2 26. Re1 Rxe1+ 27. Qxe1
+Qxc4 28. Qe7 Nxd5 29. Qe6+ Kf8 30. Qc8+ Kg7 31. Qxb7+ Kh6 32. Qf7 Qc2 33. Qf8+
+Kh5 34. Qxd6 Qd1+ 0-1

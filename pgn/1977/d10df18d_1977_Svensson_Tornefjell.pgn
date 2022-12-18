@@ -1,0 +1,23 @@
+[Event "corr SWE/K"]
+[Site "corr SWE/K"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Svensson, Ulf"]
+[Black "Tornefjell, Bjorn"]
+[Result "1-0"]
+[ECO "E00"]
+[Opening "Catalan opening"]
+[HashCode "d10df18d"]
+[Epoch "Rook"]
+
+1. d4 e6 2. c4 Nf6 3. g3 Bb4+ 4. Nd2 O-O 5. Bg2 d6 6. a3 Bxd2+ 7. Bxd2 e5
+8. Bc3 e4 9. e3 Re8 10. h3 d5 11. b3 Be6 12. c5 Nc6 13. Ne2 Qd7 14. Nf4 Ne7
+15. b4 Ng6 16. Nxe6 Qxe6 17. h4 h5 18. Bh3 Ng4 19. Bxg4 Qxg4 20. Qxg4 hxg4
+21. b5 a6 22. bxa6 Rxa6 23. Kd2 Rea8 24. Rhb1 R8a7 25. Rb5 c6 26. Rb3 Nf8
+27. Rab1 Nd7 28. Kc2 Kf8 29. h5 Ke7 30. Rxb7 Rxa3 31. Rxa7 Rxa7 32. h6 gxh6
+33. Rh1 Nf8 34. Rxh6 Ng6 35. Rh1 Ra2+ 36. Bb2 Ke6 37. Rb1 Nf8 38. Kd2 Kd7
+39. Kc2 Ne6 40. Rh1 Ra8 41. Rh4 Rg8 42. Bc3 Nc7 43. Kb3 Nb5 44. Bb4 Ke7 45.
+Ba5 Kd7 46. Rh6 Rg6 47. Rh8 Rf6 48. Be1 Nc7 49. Ka4 Nb5 50. Ka5 Na3 51. Rh2
+Nc4+ 52. Ka6 Nb2 53. Kb7 Nd3 54. Ba5 Rxf2 55. Rh6 f6 56. Rh7+ Ke6 57. Kxc6
+Ra2 58. Bd8 Ra6+ 59. Kb7 1-0
+

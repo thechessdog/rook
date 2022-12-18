@@ -1,0 +1,18 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Queissner, G."]
+[Black "Haemmerling, G."]
+[Result "0-1"]
+[ECO "B58"]
+[Opening "Sicilian"]
+[Variation "Boleslavsky variation"]
+[HashCode "cc42fed5"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Be2 e5 7. Nf3 h6 8.
+O-O Be7 9. h3 a6 10. Be3 O-O 11. Nd2 d5 12. exd5 Nxd5 13. Nxd5 Qxd5 14. c4
+Qe6 15. a3 Bd7 16. Ne4 Nd4 17. Nc3 Nxe2+ 18. Qxe2 Bc6 19. Rad1 Rad8 20. b4
+f5 21. c5 f4 22. Bc1 Bxg2 0-1
+

@@ -1,0 +1,18 @@
+[Event "corr CSSR"]
+[Site "corr CSSR"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Kovacs"]
+[Black "Reinsz"]
+[Result "0-1"]
+[ECO "C64"]
+[Opening "Ruy Lopez"]
+[Variation "classical defence, 4.c3"]
+[HashCode "62db9dd2"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. c3 d6 5. d4 exd4 6. cxd4 Bb4+ 7. Kf1 d5
+8. Qa4 dxe4 9. Bxc6+ bxc6 10. Qxc6+ Bd7 11. Qxe4+ Ne7 12. Bd2 Rb8 13. Bc3
+Bf5 14. Qe1 Bxc3 15. bxc3 O-O 16. Qc1 Nd5 17. Nbd2 Bd3+ 18. Ke1 Re8+ 19.
+Kd1 Be2+ 20. Kc2 Qf6 0-1
+

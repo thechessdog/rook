@@ -1,0 +1,23 @@
+[Event "BL2-N 8182"]
+[Site "BL2-N 8182"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Gerigk, W."]
+[Black "Marschner, J."]
+[Result "0-1"]
+[ECO "A05"]
+[Opening "Reti"]
+[Variation "King's Indian attack, Spassky's variation"]
+[HashCode "337d8882"]
+[Epoch "Rook"]
+
+1. Nf3 Nf6 2. g3 b5 3. Bg2 Bb7 4. O-O e6 5. b3 Be7 6. c4 bxc4 7. bxc4 O-O
+8. Nc3 Na6 9. d3 Rb8 10. Bf4 d6 11. Be3 c5 12. Rb1 Qd7 13. Bf4 Bc6 14. Rb3
+h6 15. e4 Rxb3 16. axb3 e5 17. Be3 Rb8 18. Nd5 Qb7 19. Nd2 Nb4 20. Nxb4
+Qxb4 21. Bh3 a5 22. Qa1 Bd7 23. Bxd7 Nxd7 24. Qd1 Qc3 25. f4 exf4 26. gxf4
+Bf6 27. e5 dxe5 28. Ne4 Qxb3 29. Nxf6+ Nxf6 30. fxe5 Qxd1 31. Rxd1 Nd7 32.
+Bf4 Ra8 33. d4 cxd4 34. Rxd4 Nc5 35. Be3 Nb3 36. Rg4 Ra6 37. c5 a4 38. c6
+Rxc6 39. Rxa4 Nc1 40. Kg2 Nd3 41. Re4 Re6 42. Bd4 f6 43. Kf3 Nxe5+ 44. Bxe5
+fxe5 45. Kg4 g6 46. h4 Kf7 47. Ra4 Kf6 48. h5 gxh5+ 49. Kxh5 Kf5 50. Kh4
+Rg6 51. Ra5 Rg1 52. Ra8 Kf4 0-1
+

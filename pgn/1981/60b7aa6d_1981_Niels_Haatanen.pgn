@@ -1,0 +1,20 @@
+[Event "corr EU/M"]
+[Site "corr EU/M"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Niels, Boye"]
+[Black "Haatanen, Paavo"]
+[Result "0-1"]
+[ECO "B33"]
+[Opening "Sicilian"]
+[Variation "Sveshnikov variation"]
+[HashCode "60b7aa6d"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6
+8. Bxf6 gxf6 9. Na3 b5 10. Nd5 f5 11. Nxb5 axb5 12. Bxb5 Bd7 13. exf5 Bg7
+14. O-O O-O 15. c3 Kh8 16. a4 Ra7 17. Qf3 f6 18. b4 Ne7 19. Nxe7 Qxe7 20.
+c4 Rc8 21. Bxd7 Qxd7 22. b5 Qd8 23. Rfd1 Bf8 24. h3 Rc5 25. Rd5 Rc8 26. Qb3
+Qb6 27. a5 Rxa5 28. Rxa5 Qxa5 29. b6 Qe1+ 30. Kh2 Qxf2 31. b7 Rb8 32. c5
+Bh6 33. Rd1 Qxc5 34. Qf7 e4 0-1
+

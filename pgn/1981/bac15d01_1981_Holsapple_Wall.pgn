@@ -1,0 +1,18 @@
+[Event "Dayton,OH"]
+[Site "Dayton,OH"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Holsapple, Boyd"]
+[Black "Wall, Bill"]
+[Result "0-1"]
+[ECO "C10"]
+[Opening "French"]
+[Variation "Paulsen variation"]
+[HashCode "bac15d01"]
+[Epoch "Rook"]
+[BlackCountry "USA"]
+[WhiteCountry "USA"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nc6 4. e5 f6 5. f4 b6 6. Nf3 Bb7 7. Bd3 Nb4 8. Be2 c5
+9. a3 cxd4 10. Nxd4 fxe5 11. Nxe6 Qh4+ 12. g3 Qf6 13. Nc7+ Kd8 14. Nxa8 d4 15.
+axb4 Bxh1 16. Rxa7 exf4 17. Bxf4 Bxb4 18. Kf2 g5 0-1

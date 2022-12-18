@@ -1,0 +1,23 @@
+[Event "corr ch-NLD"]
+[Site "corr ch-NLD"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Holscher"]
+[Black "Mol"]
+[Result "1/2-1/2"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack"]
+[HashCode "1f7f7de1"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 Nbd7 4. Nf3 g6 5. e3 Bg7 6. Bd3 c6 7. h4 h6 8.
+Bf4 b5 9. Ne5 Nxe5 10. Bxe5 Rg8 11. Qf3 a6 12. a4 b4 13. Na2 a5 14. Nc1 Nd7
+15. Bxg7 Rxg7 16. e4 Nb6 17. Qe3 h5 18. Qh6 Rg8 19. Ne2 Ba6 20. g4 dxe4 21.
+Bxe4 Nd5 22. gxh5 Qd6 23. hxg6 O-O-O 24. Ng3 fxg6 25. O-O-O Nc3 26. bxc3
+bxc3 27. Rd3 Bxd3 28. Bxd3 Qa3+ 29. Kd1 Rxd4 30. Ke2 Qxa4 31. Kf3 c5 32.
+Be4 Rd6 33. Qg5 Rf6+ 34. Kg2 Qd4 35. Qg4+ Kc7 36. Qe2 Rgf8 37. f3 Qd2 38.
+Ra1 Ra6 39. Bd3 Re6 40. Ne4 Rxe4 41. fxe4 Rd8 42. Qxd2 cxd2 43. Be2 Kb6 44.
+c3 c4 45. Kg3 Kb5 46. Kf4 Rd6 47. Kg5 e5 48. Bd1 Rd3 49. Ba4+ Kc5 50. Rd1
+Rxc3 51. Rxd2 Rg3+ 52. Kf6 c3 53. Ra2 Kd4 54. Bc6 Kd3 55. Rxa5 c2 56. Rc5
+Kd2 57. Ba4 c1=Q 58. Rxc1 Kxc1 59. Bd7 Rg1 1/2-1/2
+

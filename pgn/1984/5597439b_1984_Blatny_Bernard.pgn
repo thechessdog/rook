@@ -1,0 +1,20 @@
+[Event "Lang mem 5th"]
+[Site "Brno"]
+[Date "1984.??.??"]
+[Round "4"]
+[White "Blatny, Frantisek"]
+[Black "Bernard, Ryszard"]
+[Result "1/2-1/2"]
+[ECO "B25"]
+[Opening "Sicilian"]
+[Variation "closed, 6.f4"]
+[HashCode "5597439b"]
+[Epoch "Rook"]
+[WhiteID "300764"]
+[BlackID "1100688"]
+[WhiteCountry "CZE"]
+[BlackCountry "POL"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. f4 e6 7. Nf3 Nge7 8. Be3
+Nd4 9. Qd2 O-O 10. O-O Rb8 11. Qf2 Nxf3+ 12. Bxf3 Nc6 13. Bg2 Bd7 14. Nd1 b6
+15. c3 Ne7 16. Rc1 Bc6 17. g4 1/2-1/2

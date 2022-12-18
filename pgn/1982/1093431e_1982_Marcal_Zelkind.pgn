@@ -1,0 +1,24 @@
+[Event "US Open"]
+[Site "US Open"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Marcal, Pedro"]
+[Black "Zelkind, Eduard"]
+[Result "0-1"]
+[ECO "B06"]
+[Opening "Robatsch defence"]
+[Variation "three pawns attack"]
+[HashCode "1093431e"]
+[Epoch "Rook"]
+[WhiteID "2003961"]
+[BlackID "2002728"]
+[WhiteCountry "USA"]
+[BlackCountry "USA"]
+
+1. e4 g6 2. d4 Bg7 3. f4 c6 4. Nf3 d5 5. e5 h5 6. Bd3 Nh6 7. Nbd2 Bf5 8. Nf1
+Bxd3 9. Qxd3 e6 10. Bd2 Qb6 11. Ne3 Qa6 12. Qxa6 Nxa6 13. h3 Nf5 14. Nxf5 gxf5
+15. O-O-O Ke7 16. Rhg1 Rag8 17. Be1 Bh6 18. Bh4+ Kd7 19. Bg5 Rc8 20. c3 c5 21.
+Kb1 Bg7 22. a3 b6 23. Rc1 c4 24. Rcf1 b5 25. g4 hxg4 26. hxg4 Nb8 27. gxf5 exf5
+28. Rh1 Ke6 29. Rfg1 Nd7 30. Bh4 Bh6 31. Bg5 Bg7 32. Bh4 Bh6 33. Bg5 Bxg5 34.
+Rxh8 Rxh8 35. Rxg5 Rh3 36. Nd2 Nf8 37. Rg8 Ke7 38. Rg5 Ke6 39. Rg8 Ng6 40. Re8+
+Kd7 41. Ra8 Nxf4 42. Rxa7+ Ke8 43. Rb7 Nd3 44. Ka1 Rh1+ 45. Nb1 f4 0-1

@@ -1,0 +1,22 @@
+[Event "Sokolsky mem"]
+[Site "Minsk"]
+[Date "1981.01.01"]
+[Round "5"]
+[White "Chekhov, Valery A"]
+[Black "Batiuta"]
+[Result "1-0"]
+[ECO "E36"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, Noa variation, 5.a3"]
+[HashCode "fd9c74eb"]
+[Epoch "Rook"]
+[WhiteID "4100859"]
+[WhiteCountry "RUS"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 d5 5. a3 Be7 6. Nf3 c6 7. e4 b6 8. e5 Nfd7
+9. b3 Nf8 10. h4 Bb7 11. Bg5 Na6 12. b4 Nc7 13. Be2 h6 14. Bxe7 Qxe7 15. Qb3
+Nd7 16. a4 O-O 17. O-O dxc4 18. Qxc4 Nd5 19. Rab1 Nxc3 20. Qxc3 Rfd8 21. Rfc1
+Nf8 22. Qe3 Rd7 23. Bd3 Rc8 24. Be4 Rdc7 25. g3 Ba6 26. Rc2 c5 27. dxc5 bxc5
+28. b5 Bb7 29. Bxb7 Rxb7 30. Nd2 Nd7 31. Nc4 Rbc7 32. a5 Rb8 33. Rcb2 Rcb7 34.
+Qe4 Nf8 35. b6 axb6 36. Rxb6 Rxb6 37. Rxb6 Qc7 38. Rxb8 Qxb8 39. a6 Nd7 40. Qc6
+Qa7 41. h5 Kh7 42. Nd6 c4 43. Nxf7 Kg8 44. Nd6 1-0

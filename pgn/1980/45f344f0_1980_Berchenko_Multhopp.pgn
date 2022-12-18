@@ -1,0 +1,23 @@
+[Event "Region V"]
+[Site "Region V"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Berchenko, Sergey"]
+[Black "Multhopp, Hans"]
+[Result "1-0"]
+[ECO "B77"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, 9...Bd7"]
+[HashCode "45f344f0"]
+[Epoch "Rook"]
+[WhiteID "2036940"]
+[BlackID "2011638"]
+[WhiteCountry "USA"]
+[BlackCountry "USA"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8. Qd2
+Nc6 9. Bc4 Bd7 10. Bb3 Qc7 11. h4 Ne5 12. O-O-O Nc4 13. Qd3 Nxe3 14. Qxe3 Qc5
+15. Qd2 b5 16. h5 Rfb8 17. hxg6 hxg6 18. g4 e6 19. g5 Ne8 20. f4 a5 21. f5 exf5
+22. Bd5 b4 23. Nce2 fxe4 24. Nb3 Qc7 25. Qf4 Bf5 26. Nbd4 a4 27. Bxa8 Rxa8 28.
+Nxf5 gxf5 29. Qxf5 Qc4 30. g6 Nf6 31. gxf7+ Kxf7 32. Rhg1 Qxe2 33. Qg6+ Ke6 34.
+Qxg7 Qe3+ 35. Kb1 Ra7 36. Rxd6+ Ke5 37. Qxf6# 1-0

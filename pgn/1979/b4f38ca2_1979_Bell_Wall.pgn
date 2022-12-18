@@ -1,0 +1,16 @@
+[Event "Statesville,NC"]
+[Site "Statesville,NC"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Bell, Tom"]
+[Black "Wall, Bill"]
+[Result "0-1"]
+[ECO "C40"]
+[Opening "QP counter-gambit (elephant gambit)"]
+[HashCode "b4f38ca2"]
+[Epoch "Rook"]
+[BlackCountry "USA"]
+
+1. e4 e5 2. Nf3 d5 3. d4 dxe4 4. Nxe5 Qf6 5. Qe2 Bb4+ 6. c3 Bd6 7. Qxe4 Ne7 8.
+Nf3 O-O 9. Be3 Re8 10. Qc2 Nd5 11. Bb5 Nxe3 12. fxe3 Rxe3+ 13. Kf2 Bf5 14. Qb3
+c6 15. Bc4 Re7 16. Nbd2 b5 17. Bf1 Qh6 18. c4 Bc2 19. Qxc2 Qe3# 0-1

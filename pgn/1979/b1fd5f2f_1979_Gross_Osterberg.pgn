@@ -1,0 +1,15 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Gross, Stefan"]
+[Black "Osterberg"]
+[Result "0-1"]
+[ECO "A00"]
+[Opening "Grob's attack"]
+[HashCode "b1fd5f2f"]
+[Epoch "Rook"]
+[WhiteCountry "CZE"]
+
+1. g4 d5 2. Bg2 e5 3. e4 Nf6 4. exd5 Bxg4 5. f3 Bh5 6. c4 Bc5 7. d3 e4 8. dxe4
+Nxe4 9. Qa4+ c6 10. fxe4 Qh4+ 11. Kd2 Qf2+ 12. Kd3 Qd4+ 13. Kc2 Bd1# 0-1

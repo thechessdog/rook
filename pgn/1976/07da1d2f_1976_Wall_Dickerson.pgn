@@ -1,0 +1,16 @@
+[Event "North Wilkesboro,NC"]
+[Site "North Wilkesboro,NC"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Wall, Bill"]
+[Black "Dickerson, Perry"]
+[Result "1-0"]
+[ECO "C41"]
+[Opening "Philidor's defence"]
+[HashCode "07da1d2f"]
+[Epoch "Rook"]
+[WhiteCountry "USA"]
+
+1. e4 e5 2. Nf3 d6 3. d4 Nc6 4. d5 Nb8 5. Nc3 Nf6 6. Bg5 h6 7. Be3 c6 8. Qd2 g6
+9. O-O-O Bg7 10. dxc6 Nxc6 11. Qxd6 Be6 12. Bb5 Qd7 13. Nxe5 Qxd6 14. Rxd6 O-O
+15. Nxg6 Rfd8 16. Rxd8+ Rxd8 17. Bxc6 bxc6 18. Ne7+ 1-0

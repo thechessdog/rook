@@ -1,0 +1,26 @@
+[Event "Vesteras"]
+[Site "Vesteras"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Bendz, A."]
+[Black "Backe, Peter"]
+[Result "0-1"]
+[ECO "E32"]
+[Opening "Nimzo-Indian"]
+[Variation "classical variation"]
+[HashCode "295b0f5d"]
+[Epoch "Rook"]
+[BlackID "1701240"]
+[BlackCountry "SWE"]
+
+1. d4 e6 2. c4 Nf6 3. Nc3 Bb4 4. Qc2 O-O 5. e3 b6 6. Nf3 Bb7 7. Be2 Bxc3+ 8.
+Qxc3 Ne4 9. Qc2 d6 10. O-O f5 11. Nd2 Qh4 12. f3 Ng5 13. Qd1 Rf6 14. Qe1 Qh5
+15. Kh1 Rh6 16. Qg3 Nd7 17. Re1 Rg6 18. Qf2 Rf8 19. Nf1 e5 20. d5 f4 21. exf4
+exf4 22. Bd2 Ne5 23. Bc3 Ngf7 24. Rad1 Bc8 25. Bd3 Bf5 26. Bxf5 Qxf5 27. Qe2 h5
+28. Qe4 Qf6 29. Nd2 h4 30. Bxe5 Nxe5 31. b4 h3 32. Re2 hxg2+ 33. Rxg2 Rxg2 34.
+Kxg2 Qh4 35. Rg1 Qh5 36. Kh1 Rf6 37. Qe2 Rh6 38. Rg2 Qf5 39. Qe4 Qxe4 40. fxe4
+Kf7 41. Rf2 g5 42. Nf3 Nxf3 43. Rxf3 Kf6 44. Ra3 a5 45. bxa5 bxa5 46. Rxa5 Ke5
+47. Ra7 Rh7 48. c5 dxc5 49. Kg2 g4 50. a4 f3+ 51. Kg1 Rd7 52. Ra5 c4 53. Rc5
+Kd4 54. Rc6 c3 55. a5 Kxe4 56. Rxc3 Rxd5 57. Rxc7 Rxa5 58. Re7+ Re5 59. Ra7 Kf4
+60. Ra4+ Re4 61. Ra1 Rd4 62. Re1 Rd2 63. Re8 Rg2+ 64. Kh1 Re2 65. Rf8+ Ke3 66.
+h3 g3 0-1

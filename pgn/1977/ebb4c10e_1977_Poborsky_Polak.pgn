@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Poborsky"]
+[Black "Polak"]
+[Result "0-1"]
+[ECO "B33"]
+[Opening "Sicilian"]
+[Variation "Pelikan (Lasker/Sveshnikov) variation"]
+[HashCode "ebb4c10e"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Nb3 Bb4 7. Qf3 d5
+8. exd5 Qxd5 9. Qe3 Bxc3+ 10. Qxc3 Bf5 11. f3 b5 12. Be3 Rc8 13. Bc5 Nd4
+14. Rd1 Nd7 15. Rd2 Nxc5 16. Nxd4 exd4 17. Bxb5+ Ke7 18. Rxd4 Qe6+ 19. Kd1
+Rhd8 20. Rxd8 Rxd8+ 21. Kc1 Qd6 22. Qe3+ Kf8 23. Re1 Ne6 0-1
+

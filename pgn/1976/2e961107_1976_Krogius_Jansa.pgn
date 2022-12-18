@@ -1,0 +1,19 @@
+[Event "Sochi"]
+[Site "Sochi"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Krogius, Nikolai V"]
+[Black "Jansa, Vlastimil"]
+[Result "1/2-1/2"]
+[ECO "D74"]
+[Opening "Neo-Gruenfeld, 6.cd Nxd5, 7.O-O"]
+[HashCode "2e961107"]
+[Epoch "Rook"]
+[BlackID "300128"]
+[BlackCountry "CZE"]
+[WhiteID "4100565"]
+[WhiteCountry "RUS"]
+
+1. Nf3 g6 2. d4 Nf6 3. c4 Bg7 4. g3 O-O 5. Bg2 d5 6. cxd5 Nxd5 7. O-O Nc6 8. e4
+Nb6 9. d5 Na5 10. Na3 c6 11. Qe1 Nac4 12. Nxc4 Nxc4 13. dxc6 bxc6 14. Qb4 Ba6
+15. Bg5 Rb8 16. Qxe7 1/2-1/2

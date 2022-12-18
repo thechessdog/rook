@@ -1,0 +1,21 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Marella"]
+[Black "Fioravanti"]
+[Result "1-0"]
+[ECO "B65"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...Be7 defence, 9...Nxd4"]
+[HashCode "3b477b25"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 e6 7. Qd2 Be7
+8. O-O-O O-O 9. f4 Nxd4 10. Qxd4 h6 11. Bh4 Qa5 12. Bc4 Rd8 13. Rhf1 a6 14.
+f5 exf5 15. exf5 Qc7 16. Rde1 d5 17. Bxf6 dxc4 18. Rxe7 Rxd4 19. Rxc7 gxf6
+20. Na4 Rd6 21. Rxc4 Bd7 22. Nc3 Bc6 23. Re1 Rad8 24. Ne4 Bxe4 25. Rcxe4
+Kh7 26. Re7 R8d7 27. b3 h5 28. R1e4 Kh6 29. h4 Rd1+ 30. Kb2 Kg7 31. a4 Rxe7
+32. Rxe7 Rg1 33. Rxb7 Rxg2 34. Ra7 Rf2 35. Rxa6 Rxf5 36. b4 Kf8 37. a5 Ke8
+38. Rb6 1-0
+

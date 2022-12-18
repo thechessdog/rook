@@ -1,0 +1,20 @@
+[Event "Ramsgate op"]
+[Site "Ramsgate"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Pytel, Krzysztof"]
+[Black "Nunn, John D M"]
+[Result "1/2-1/2"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...g6"]
+[HashCode "b75ccb10"]
+[Epoch "Rook"]
+[BlackID "400017"]
+[BlackCountry "ENG"]
+[WhiteID "600199"]
+[WhiteCountry "FRA"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 g6 6. Bg5 Bg7 7. Nf3 O-O 8.
+Bxf6 Bxf6 9. cxd5 Bg4 10. Be2 Nd7 11. O-O Bxf3 12. Bxf3 Qb6 13. Na4 Qxd4 14.
+Qxd4 Bxd4 15. d6 exd6 16. Rad1 Be5 1/2-1/2

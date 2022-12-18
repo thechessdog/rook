@@ -1,0 +1,18 @@
+[Event "Val Thorens"]
+[Site "Val Thorens"]
+[Date "1984.01.01"]
+[Round "12"]
+[White "Simic, Radoslav"]
+[Black "Sahovic, Dragutin"]
+[Result "1/2-1/2"]
+[ECO "D58"]
+[Opening "QGD"]
+[Variation "Tartakower (Makagonov-Bondarevsky) system"]
+[HashCode "a370e43e"]
+[Epoch "Rook"]
+[WhiteID "900184"]
+[WhiteCountry "SRB"]
+[BlackCountry "SRB"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. Nf3 h6 6. Bh4 O-O 7. e3 b6 8. cxd5
+exd5 9. Be2 Bb7 10. O-O Nc6 11. Rc1 1/2-1/2

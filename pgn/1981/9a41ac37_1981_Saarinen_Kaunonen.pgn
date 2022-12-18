@@ -1,0 +1,20 @@
+[Event "corr SC"]
+[Site "corr SC"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Saarinen, Lauri"]
+[Black "Kaunonen, Raimo"]
+[Result "0-1"]
+[ECO "B01"]
+[Opening "Scandinavian defence"]
+[HashCode "9a41ac37"]
+[Epoch "Rook"]
+
+1. e4 d5 2. exd5 Nf6 3. c4 c5 4. Nf3 Bg4 5. h3 Bxf3 6. Qxf3 e6 7. dxe6 fxe6
+8. Qxb7 Nbd7 9. Qc6 Rb8 10. Qxe6+ Be7 11. Be2 Rb6 12. Qf5 O-O 13. O-O Rd6
+14. Qc2 Ne5 15. Nc3 Nc6 16. Nb5 Re6 17. d3 Nb4 18. Qd1 a6 19. Nc3 Qd4 20.
+a3 Nc6 21. Be3 Qe5 22. Bg4 Nxg4 23. Qxg4 Bd6 24. g3 Rg6 25. Qe2 Qf5 26. Kg2
+Ne5 27. Ne4 Nf3 28. Nd2 Bxg3 29. fxg3 Rxg3+ 30. Kxg3 Qe5+ 31. Bf4 Qxf4+ 32.
+Kf2 Qh2+ 33. Ke3 Qe5+ 34. Kf2 Nxd2+ 35. Ke1 Rxf1+ 36. Kxd2 Qxe2+ 37. Kxe2
+Rxa1 0-1
+

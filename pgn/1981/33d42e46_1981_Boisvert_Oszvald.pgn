@@ -1,0 +1,21 @@
+[Event "corr CCCA"]
+[Site "corr CCCA"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Boisvert, John"]
+[Black "Oszvald, J."]
+[Result "0-1"]
+[ECO "B77"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, 9...Bd7"]
+[HashCode "33d42e46"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 Nc6 8.
+Qd2 O-O 9. Bc4 Bd7 10. h4 Ne5 11. Bb3 Rc8 12. O-O-O h5 13. Bg5 Nc4 14. Bxc4
+Rxc4 15. Rhe1 Qb6 16. Be3 Qa6 17. Nb3 Rfc8 18. Bd4 b5 19. a3 b4 20. axb4
+Rxb4 21. Qd3 Qb7 22. Kb1 Be6 23. Na2 Ra4 24. Nac1 d5 25. Bxf6 Bxf6 26. g3
+dxe4 27. fxe4 Rac4 28. Rd2 Qc7 29. Na2 a5 30. c3 Be5 31. Rg2 Qb6 32. Nd4
+Bxd4 33. cxd4 Rxd4 34. Qa3 Qb5 35. Rge2 Qxe2 36. Rxe2 Rd1+ 37. Nc1 Rdxc1#
+0-1
+

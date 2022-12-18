@@ -1,0 +1,26 @@
+[Event "Sokolsky mem"]
+[Site "Minsk"]
+[Date "1981.01.01"]
+[Round "7"]
+[White "Lutikov, Anatoly S"]
+[Black "Chekhov, Valery A"]
+[Result "0-1"]
+[ECO "C38"]
+[Opening "King's knight's gambit"]
+[HashCode "c585fd93"]
+[Epoch "Rook"]
+[BlackID "4100859"]
+[BlackCountry "RUS"]
+[WhiteCountry "RUS"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. Bc4 Bg7 5. d4 d6 6. O-O h6 7. Nc3 Nc6 8. Kh1
+Bg4 9. Bb5 a6 10. Bxc6+ bxc6 11. Qd3 Ne7 12. Bd2 Ng6 13. Rae1 O-O 14. Ng1 c5
+15. Nce2 cxd4 16. Nxd4 Ne5 17. Qb3 Rb8 18. Qa4 Qd7 19. Qxd7 Bxd7 20. b3 Nc4 21.
+bxc4 Bxd4 22. Nf3 Bf6 23. Ba5 Rb7 24. e5 dxe5 25. Nxe5 Be6 26. a4 Rc8 27. h4
+Rb2 28. Rf2 Ra2 29. hxg5 hxg5 30. g3 Rxa4 31. Bd2 Bxe5 32. Rxe5 fxg3 33. Rxg5+
+Kf8 34. Rxg3 Rxc4 35. Bg5 Rg4 36. Rxg4 Bxg4 37. Bf6 Ke8 38. Rf4 Be6 39. Ra4 Ra8
+40. Kg1 Kd7 41. Kf2 Kc6 42. Bc3 Kb5 43. Ra5+ Kb6 44. Ke3 Rg8 45. Ra3 c6 46. Kd2
+Rg2+ 47. Kc1 Bf5 48. Rb3+ Kc5 49. Bd2 Be6 50. Rd3 Bd5 51. Ra3 Bc4 52. Rf3 Rg1+
+53. Kb2 Rf1 54. Re3 f5 55. Re8 f4 56. Re4 f3 57. Be3+ Kb4 58. Rf4 a5 59. Bd2+
+Kb5 60. Bxa5 Rf2 61. Kc1 Re2 62. Rf5+ Bd5 63. Bd2 Kc4 64. Rf8 Be4 65. Rf6 Rh2
+66. Kd1 Rh1+ 67. Be1 Kd4 68. Rd6+ Ke3 69. Rd2 Rf1 0-1

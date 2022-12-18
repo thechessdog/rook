@@ -1,0 +1,22 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Auerswald, U."]
+[Black "Poenisch"]
+[Result "0-1"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, poisoned pawn, Konstantinopolsky variation"]
+[HashCode "a3ab1744"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Qc7 7. Qg4 Ne7 8.
+Qxg7 Rg8 9. Qxh7 cxd4 10. Ne2 Nbc6 11. f4 Bd7 12. Qd3 dxc3 13. h4 Nf5 14.
+h5 O-O-O 15. h6 Rg6 16. h7 Rh8 17. Rb1 d4 18. g3 Be8 19. Bg2 f6 20. Bd5
+fxe5 21. fxe5 Rxh7 22. Bf4 Rxh1+ 23. Bxh1 Rg7 24. Qc4 Nd8 25. Qxc7+ Kxc7
+26. Be4 Bh5 27. Bxf5 Bxe2 28. Kxe2 exf5 29. e6+ Kc6 30. Be5 Rh7 31. Bxd4
+Nxe6 32. Bxa7 b5 33. Be3 Nc7 34. Rf1 Rh5 35. Bd4 Nd5 36. Kd3 Rh3 37. Be5 f4
+38. Bxf4 Nxf4+ 39. Rxf4 Rxg3+ 40. Kd4 b4 41. axb4 Kb5 42. Rf8 Kxb4 43. Rb8+
+Ka4 44. Kc4 Ka5 45. Kb3 Rh3 46. Rc8 0-1
+

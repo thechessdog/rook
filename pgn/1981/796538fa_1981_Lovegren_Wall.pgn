@@ -1,0 +1,20 @@
+[Event "Dayton,OH"]
+[Site "Dayton,OH"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Lovegren, Bob"]
+[Black "Wall, Bill"]
+[Result "0-1"]
+[ECO "A40"]
+[Opening "Queen's pawn"]
+[Variation "Charlick (Englund) gambit"]
+[HashCode "796538fa"]
+[Epoch "Rook"]
+[BlackCountry "USA"]
+
+1. d4 e5 2. Nf3 Nc6 3. Bg5 Be7 4. Bxe7 Qxe7 5. d5 Qb4+ 6. c3 Qxb2 7. e4 Nf6 8.
+Bc4 Nxe4 9. Nbd2 Nxc3 10. Qc1 Qxc1+ 11. Rxc1 e4 12. dxc6 exf3 13. Rxc3 fxg2 14.
+Rg1 dxc6 15. Rxg2 O-O 16. Re3 Bf5 17. f3 Rfe8 18. Rge2 Rxe3 19. Rxe3 b5 20. Bb3
+Kf8 21. Ne4 Re8 22. Ke2 a5 23. a4 Bxe4 24. fxe4 Re5 25. Kd3 Rh5 26. h3 Ke7 27.
+e5 Rh4 28. Rf3 bxa4 29. Rxf7+ Kd8 30. Be6 a3 31. Rxg7 c5 32. Bg4 a2 33. e6 Rxg4
+34. hxg4 a1=Q 0-1

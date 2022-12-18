@@ -1,0 +1,24 @@
+[Event "Groningen"]
+[Site "Groningen"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Yrjola, Jouni"]
+[Black "Lobron, Eric"]
+[Result "1-0"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Nimzovich (knight's tour) variation"]
+[HashCode "fa75decd"]
+[Epoch "Rook"]
+[BlackID "4600037"]
+[BlackCountry "GER"]
+[WhiteID "500011"]
+[WhiteCountry "FIN"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. Nd2 Bg7 8. Nc4
+O-O 9. Bg5 h6 10. Bf4 b6 11. Bxd6 Re8 12. Bg3 Ne4 13. Nxe4 Rxe4 14. e3 Ba6 15.
+Qc2 Qxd5 16. Rd1 Qe6 17. Rd8+ Kh7 18. b3 Nc6 19. Rxa8 Nb4 20. Qd2 Rd4 21. Qc1
+Nxa2 22. Qc2 Nb4 23. Qc1 Rd3 24. Be2 Rc3 25. Qd1 Qe4 26. Rxa7 Nd3+ 27. Bxd3
+Rxd3 28. Qc1 Bc3+ 29. Kf1 Rd2 30. h4 Qd3+ 31. Kg1 Rd1+ 32. Qxd1 Qxd1+ 33. Kh2
+Qxb3 34. Rxa6 Qxc4 35. Rxb6 Bd2 36. Be5 Qxh4+ 37. Kg1 Qe4 38. Bb2 c4 39. Bd4 c3
+40. Rb8 g5 41. Rh8+ Kg6 42. R1xh6+ 1-0

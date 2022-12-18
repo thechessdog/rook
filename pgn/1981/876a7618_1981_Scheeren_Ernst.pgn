@@ -1,0 +1,27 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Scheeren, Peter"]
+[Black "Ernst, Thomas"]
+[Result "0-1"]
+[ECO "A05"]
+[Opening "Reti"]
+[Variation "King's Indian attack"]
+[HashCode "876a7618"]
+[Epoch "Rook"]
+[WhiteID "1000136"]
+[WhiteCountry "NED"]
+[BlackID "1700065"]
+[BlackCountry "SWE"]
+
+1. Nf3 Nf6 2. g3 g6 3. Bg2 Bg7 4. O-O O-O 5. d4 d6 6. Nc3 Nbd7 7. e4 e5 8. h3
+c6 9. a4 Re8 10. Re1 exd4 11. Nxd4 Nc5 12. a5 d5 13. exd5 Rxe1+ 14. Qxe1 Nxd5
+15. Nxd5 Bxd4 16. Qb4 Ne6 17. Ne7+ Kg7 18. Nxc8 Qxc8 19. c3 Bc5 20. Qh4 Qd7 21.
+Bh6+ Kg8 22. a6 bxa6 23. Qe4 Rb8 24. b4 Bb6 25. Bf3 c5 26. bxc5 Bxc5 27. Rxa6
+Rb2 28. Be3 Rb6 29. Ra1 Qc7 30. Kg2 Rb2 31. Ra6 Bb6 32. Ra3 Bxe3 33. Qxe3 Qb6
+34. c4 Qxe3 35. Rxe3 Rc2 36. Re4 a5 37. Bd1 Rc1 38. Be2 a4 39. Bg4 a3 40. Re2
+Kf8 41. Bxe6 fxe6 42. Ra2 Rc3 43. Kf1 Ke7 44. Ke2 Kd6 45. Kd2 Rf3 46. Kc1 Kc5
+47. Re2 Rb3 48. Re5+ Kxc4 49. Ra5 Kd4 50. Ra4+ Kd3 51. Ra7 e5 52. h4 h5 53. Ra6
+e4 54. Ra4 Ke2 55. Kc2 Rf3 56. Rxe4+ Kxf2 57. g4 a2 58. Kb2 Ra3 59. Ka1 Kf3 60.
+Re6 hxg4 61. Rxg6 g3 62. h5 g2 63. h6 Ra6 64. Rxa6 g1=Q+ 65. Kxa2 Qc5 0-1

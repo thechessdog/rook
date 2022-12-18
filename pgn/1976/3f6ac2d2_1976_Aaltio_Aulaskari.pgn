@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Aaltio, T."]
+[Black "Aulaskari, P."]
+[Result "0-1"]
+[ECO "C36"]
+[Opening "KGA"]
+[Variation "Abbazia defence, modern variation"]
+[HashCode "3f6ac2d2"]
+[Epoch "Rook"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 d5 4. exd5 Nf6 5. Bb5+ c6 6. dxc6 Nxc6 7. d4 Bd6
+8. O-O O-O 9. Bxc6 bxc6 10. Nc3 Ba6 11. Re1 Re8 12. Ne5 g5 13. h4 h6 14.
+hxg5 hxg5 15. g3 c5 16. gxf4 cxd4 17. Qxd4 Qe7 18. Nd3 Bc5 0-1
+

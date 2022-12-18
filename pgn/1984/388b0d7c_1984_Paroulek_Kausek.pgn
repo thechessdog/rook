@@ -1,0 +1,18 @@
+[Event "corr ch-CSSR"]
+[Site "corr ch-CSSR"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Paroulek"]
+[Black "Kausek"]
+[Result "0-1"]
+[ECO "E83"]
+[Opening "King's Indian"]
+[Variation "Saemisch, 6...Nc6"]
+[HashCode "388b0d7c"]
+[Epoch "Rook"]
+
+1. c4 Nf6 2. Nc3 g6 3. d4 Bg7 4. e4 d6 5. f3 O-O 6. Be3 Nc6 7. Bd3 e5 8. d5
+Nd4 9. Nge2 Nh5 10. Qd2 c5 11. O-O-O a6 12. Ng3 Nf4 13. Bxf4 exf4 14. Nge2
+b5 15. Nxd4 Bxd4 16. Qxf4 bxc4 17. Bxc4 Rb8 18. Qd2 Qa5 19. Qd3 Bd7 20.
+Rhe1 Rb4 21. a3 Rb6 22. Re2 Rfb8 23. Rdd2 Be5 24. g3 Bh3 25. f4 Bd4 0-1
+

@@ -1,0 +1,19 @@
+[Event "Southport ch-BCF"]
+[Site "Southport ch-BCF"]
+[Date "1983.08.01"]
+[Round "7"]
+[White "Knox, Victor W"]
+[Black "Cox, John J"]
+[Result "0-1"]
+[ECO "C00"]
+[Opening "French"]
+[Variation "King's Indian attack"]
+[HashCode "3447ee3e"]
+[Epoch "Rook"]
+[BlackID "401064"]
+[BlackCountry "ENG"]
+[WhiteCountry "ENG"]
+
+1. e4 e6 2. d3 d5 3. Nd2 Nf6 4. Ngf3 Nc6 5. g3 dxe4 6. dxe4 e5 7. Bg2 Bc5 8.
+O-O O-O 9. c3 a5 10. Qe2 b6 11. Nc4 Ba6 12. Nh4 a4 13. b3 axb3 14. axb3 Bxc4
+15. Rxa8 Bxe2 0-1

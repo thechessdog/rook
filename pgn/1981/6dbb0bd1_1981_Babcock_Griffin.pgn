@@ -1,0 +1,16 @@
+[Event "Columbus,OH"]
+[Site "Columbus,OH"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Babcock, B."]
+[Black "Griffin"]
+[Result "1-0"]
+[ECO "B72"]
+[Opening "Sicilian"]
+[Variation "dragon, 6.Be3"]
+[HashCode "6dbb0bd1"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Ng4 7. Bb5+ Nc6
+8. Nxc6 1-0
+

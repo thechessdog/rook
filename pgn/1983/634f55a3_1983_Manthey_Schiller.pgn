@@ -1,0 +1,18 @@
+[Event "corr DDR/FS"]
+[Site "corr DDR/FS"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Manthey"]
+[Black "Schiller"]
+[Result "1-0"]
+[ECO "C13"]
+[Opening "French"]
+[Variation "Albin-Alekhine-Chatard attack, Breyer variation"]
+[HashCode "634f55a3"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Nfd7 6. h4 c5 7. Bxe7 Kxe7 8.
+Qg4 Kf8 9. Nf3 Nc6 10. dxc5 Ndxe5 11. Nxe5 Nxe5 12. Qf4 f6 13. O-O-O Qa5
+14. g4 Qxc5 15. g5 Qc7 16. Kb1 Qf7 17. Be2 Nc6 18. Qg3 d4 19. Ne4 f5 20.
+Nd6 Qe7 21. Bd3 e5 22. Nxf5 Bxf5 23. Bxf5 h5 24. Rhe1 1-0
+

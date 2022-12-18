@@ -1,0 +1,21 @@
+[Event "Hamburg"]
+[Site "Hamburg"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Bowden, Karl"]
+[Black "Schandorff, Lars"]
+[Result "0-1"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "c4e5e4d3"]
+[Epoch "Rook"]
+[WhiteID "400548"]
+[WhiteCountry "ENG"]
+[BlackID "1400070"]
+[BlackCountry "DEN"]
+
+1. e4 c5 2. c3 d6 3. d4 Nf6 4. dxc5 Nc6 5. cxd6 Nxe4 6. dxe7 Qxd1+ 7. Kxd1
+Nxf2+ 8. Ke1 Nxh1 9. exf8=Q+ Rxf8 10. Bf4 Bf5 11. Nd2 O-O-O 12. Be2 Rfe8 13.
+Nc4 Re6 14. Ne3 Be4 15. Rd1 h6 16. h4 Rxd1+ 17. Bxd1 Ne5 18. Be2 Ng6 19. Nh3
+Nxh4 20. Kf1 g5 21. Bh2 Nxg2 22. Nc4 Nf4 23. Nxf4 gxf4 0-1

@@ -1,0 +1,17 @@
+[Event "Rumania"]
+[Site "Rumania"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Zimmer"]
+[Black "Tocahita"]
+[Result "1-0"]
+[ECO "D00"]
+[Opening "Blackmar-Diemer gambit"]
+[HashCode "5290f653"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. Nc3 d5 3. e4 dxe4 4. f3 e6 5. fxe4 c5 6. d5 exd5 7. exd5 Bg4
+8. Be2 Bxe2 9. Qxe2+ Be7 10. Bg5 O-O 11. O-O-O Bd6 12. Ne4 Re8 13. Bxf6
+gxf6 14. Nxf6+ Qxf6 15. Qxe8+ Kg7 16. Nf3 a5 17. Rhf1 Bf4+ 18. Kb1 Ra6 19.
+g3 Rb6 20. b3 c4 21. gxf4 cxb3 22. Rg1+ 1-0
+

@@ -1,0 +1,18 @@
+[Event "corr EUR"]
+[Site "corr EUR"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Ferre"]
+[Black "Bakkers"]
+[Result "1-0"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "Indian variation"]
+[HashCode "8df97fa3"]
+[Epoch "Rook"]
+
+1. b3 Nf6 2. Bb2 e6 3. f4 b6 4. Nf3 Bb7 5. e3 d6 6. d3 Be7 7. Nbd2 O-O 8.
+e4 c5 9. Be2 Nc6 10. Nf1 Qc7 11. Ne3 Rad8 12. Qd2 Rd7 13. g4 d5 14. e5 d4
+15. exf6 dxe3 16. Qxe3 Bxf6 17. Bxf6 gxf6 18. Rg1 Nb4 19. Qd2 Be4 20. a3
+Nxd3+ 21. cxd3 Rfd8 22. f5 Bxf3 23. g5 Qxh2 24. O-O-O Bxe2 25. gxf6+ 1-0
+

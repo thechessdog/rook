@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Canadas"]
+[Black "Alcazar"]
+[Result "1-0"]
+[ECO "B93"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.f4"]
+[HashCode "c6291ca9"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 e5 7. Nf3 Nc6 8.
+Bc4 Na5 9. Bd3 Nc6 10. O-O Be7 11. a4 O-O 12. Qe1 Nb4 13. Kh1 Nxd3 14. cxd3
+Qc7 15. fxe5 dxe5 16. Qg3 Bd6 17. Bg5 Nh5 18. Qh4 g6 19. Nd5 Qc2 20. Bh6
+Re8 21. g4 Bxg4 22. Qxg4 Bf8 23. Bxf8 Rxf8 24. Nxe5 Qxb2 25. Nd7 Rfd8 26.
+N5b6 Ra7 27. Qh4 f6 28. e5 Kg7 29. exf6+ 1-0
+

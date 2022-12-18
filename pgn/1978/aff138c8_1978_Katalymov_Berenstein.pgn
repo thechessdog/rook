@@ -1,0 +1,15 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Katalymov, Boris N"]
+[Black "Berenstein"]
+[Result "1-0"]
+[ECO "A00"]
+[Opening "Polish (Sokolsky) opening"]
+[HashCode "aff138c8"]
+[Epoch "Rook"]
+[WhiteCountry "KAZ"]
+
+1. b4 e5 2. Bb2 f6 3. e4 d5 4. exd5 Bxb4 5. Bc4 Bf5 6. f4 exf4 7. Qf3 Qe7+ 8.
+Ne2 Bxc2 1-0

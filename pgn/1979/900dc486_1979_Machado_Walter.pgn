@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Machado, J."]
+[Black "Walter, R."]
+[Result "0-1"]
+[ECO "C57"]
+[Opening "two knights defence"]
+[Variation "Wilkes Barre (Traxler) variation"]
+[HashCode "900dc486"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 Bc5 5. Bxf7+ Ke7 6. Bb3 Rf8 7. d3 Qe8
+8. Be3 d6 9. Bxc5 dxc5 10. c3 Bg4 11. Nf3 Rd8 12. Qe2 Nh5 13. Bc2 Nf4 14.
+Qf1 Bxf3 15. gxf3 Qd7 16. h4 c4 17. dxc4 Rf6 18. c5 Nd4 19. cxd4 Qxd4 20.
+Qb5 Ng2+ 21. Ke2 Rxf3 22. Kxf3 Rf8+ 23. Ke2 Rxf2# 0-1
+

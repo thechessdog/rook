@@ -1,0 +1,19 @@
+[Event "Yaroslavl"]
+[Site "Yaroslavl"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Cherepkov, Alexander V"]
+[Black "Kremenietsky, Anatoly M"]
+[Result "1-0"]
+[ECO "E76"]
+[Opening "King's Indian"]
+[Variation "Four pawns attack, dynamic line"]
+[HashCode "4ef64648"]
+[Epoch "Rook"]
+[BlackCountry "RUS"]
+[WhiteCountry "RUS"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f4 O-O 6. Nf3 c5 7. d5 b5 8. cxb5 a6
+9. bxa6 Qa5 10. Bd2 Bxa6 11. Be2 c4 12. O-O Qb6+ 13. Kh1 Ng4 14. Qc1 Nd7 15.
+Rb1 Bxc3 16. Bxc3 Nf2+ 17. Rxf2 Qxf2 18. f5 Qxe2 19. Qh6 Nf6 20. Re1 Qc2 21.
+Bxf6 exf6 22. Ng5 1-0

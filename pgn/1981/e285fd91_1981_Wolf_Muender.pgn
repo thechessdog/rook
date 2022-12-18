@@ -1,0 +1,27 @@
+[Event "Bundesliga 8081"]
+[Site "Duitsland tt"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Wolf, Volker"]
+[Black "Muender, Michael"]
+[Result "1-0"]
+[ECO "B16"]
+[Opening "Caro-Kann"]
+[Variation "Bronstein-Larsen variation"]
+[HashCode "e285fd91"]
+[Epoch "Rook"]
+[WhiteID "4602862"]
+[WhiteCountry "GER"]
+[BlackID "4605209"]
+[BlackCountry "GER"]
+
+1. e4 c6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Nf6 5. Nxf6+ gxf6 6. g3 Bf5 7. Bg2 e6 8.
+Nf3 Bd6 9. O-O Nd7 10. c4 Bg6 11. Be3 O-O 12. Qd2 a5 13. Nh4 a4 14. b4 axb3 15.
+axb3 Qe7 16. c5 Bc7 17. b4 Rfd8 18. Nxg6 hxg6 19. Rxa8 Rxa8 20. b5 cxb5 21.
+Bxb7 Rb8 22. Bc6 b4 23. Rb1 Kg7 24. Qc2 f5 25. Qa4 f4 26. gxf4 Nf6 27. Rxb4 Rh8
+28. Qd1 Rh4 29. Qf3 Nh5 30. d5 exd5 31. Bxd5 Bxf4 32. Rb7 Bxh2+ 33. Kf1 Bc7 34.
+Qxf7+ Qxf7 35. Bxf7 Nf4 36. Ke1 Kxf7 37. Rxc7+ Ke6 38. Rc6+ Kd5 39. Rd6+ Ke5
+40. Bxf4+ Rxf4 41. Rxg6 Rc4 42. Ke2 Kf5 43. Rc6 Ke4 44. Kd2 Kd5 45. Rc8 Rf4 46.
+Ke3 Rh4 47. Kf3 Ra4 48. Kg3 Ke5 49. f4+ Kf5 50. Rf8+ Ke6 51. Re8+ Kf5 52. Re5+
+Kf6 53. Kf3 Rb4 54. Re4 Rb3+ 55. Re3 Rb4 56. Rc3 Kf5 57. c6 Rxf4+ 58. Ke3 Re4+
+59. Kd3 Re8 60. Kd4 1-0

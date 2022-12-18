@@ -1,0 +1,22 @@
+[Event "Skopje"]
+[Site "Skopje"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Suba, Mihai"]
+[Black "Cebalo, Miso"]
+[Result "1-0"]
+[ECO "A14"]
+[Opening "English"]
+[Variation "Symmetrical, Keres defence"]
+[HashCode "69c6fedb"]
+[Epoch "Rook"]
+[WhiteID "1203363"]
+[BlackID "14500094"]
+[WhiteCountry "ESP"]
+[BlackCountry "CRO"]
+
+1. c4 c5 2. Nf3 Nf6 3. Nc3 Nc6 4. g3 d5 5. cxd5 Nxd5 6. Bg2 e6 7. O-O Be7 8. d4
+O-O 9. Rb1 cxd4 10. Nxd4 Nxd4 11. Qxd4 Bf6 12. Qc4 Nxc3 13. bxc3 Qa5 14. Be3
+Qxc3 15. Qa4 Bd8 16. Bxa7 Bd7 17. Qxd7 Rxa7 18. Rfc1 Qa5 19. Rc8 b5 20. Bb7 Be7
+21. Rbc1 Qb4 22. R1c7 Rxc8 23. Qxc8+ Bf8 24. Qe8 h6 25. Qxf7+ Kh8 26. Qg6 Ra4
+27. Rc8 1-0

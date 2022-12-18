@@ -1,0 +1,17 @@
+[Event "Landstuhl op"]
+[Site "Landstuhl op"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Purser, Tom"]
+[Black "Schaefer"]
+[Result "1-0"]
+[ECO "C00"]
+[Opening "French"]
+[Variation "Alapin variation"]
+[HashCode "8f0662b3"]
+[Epoch "Rook"]
+[WhiteCountry "USA"]
+
+1. d4 d5 2. e4 e6 3. Be3 dxe4 4. f3 exf3 5. Nxf3 Nf6 6. Bd3 Bd6 7. O-O O-O 8.
+Qe1 Nbd7 9. c3 b6 10. Bg5 Bb7 11. Qh4 h6 12. Bxh6 gxh6 13. Qxh6 Bxf3 14. Rxf3
+Re8 15. Rh3 Ng4 16. Qh8# 1-0

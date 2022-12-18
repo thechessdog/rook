@@ -1,0 +1,20 @@
+[Event "IBM-B"]
+[Site "Amsterdam II"]
+[Date "1976.07.01"]
+[Round "9"]
+[White "Van Baarle, John"]
+[Black "Ciocaltea, Victor"]
+[Result "1/2-1/2"]
+[ECO "C63"]
+[Opening "Ruy Lopez"]
+[Variation "Schliemann defence, Berger variation"]
+[HashCode "dc96c077"]
+[Epoch "Rook"]
+[BlackCountry "ROU"]
+[WhiteID "1000691"]
+[WhiteCountry "NED"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 f5 4. Nc3 fxe4 5. Nxe4 Nf6 6. Nxf6+ Qxf6 7. O-O Be7
+8. Qe2 O-O 9. d3 d6 10. Bg5 Qf7 11. Bc4 Be6 12. Bxe7 Qxe7 13. Bxe6+ Qxe6 14. d4
+e4 15. c3 d5 16. Nd2 Rae8 17. Rfe1 Nd8 18. f3 exf3 19. Qxe6+ Rxe6 20. Nxf3 Rfe8
+21. Rxe6 Rxe6 22. Kf2 Nf7 23. Re1 Rxe1 24. Nxe1 1/2-1/2

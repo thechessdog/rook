@@ -1,0 +1,18 @@
+[Event "Berlin"]
+[Site "Berlin"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Cramling, Pia"]
+[Black "Roos"]
+[Result "1-0"]
+[ECO "B82"]
+[Opening "Sicilian"]
+[Variation "Scheveningen, Tal variation"]
+[HashCode "3310b5dd"]
+[Epoch "Rook"]
+[WhiteID "1700030"]
+[WhiteCountry "SWE"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. f4 e6 7. Be3 Be7 8. Qf3
+e5 9. Nxc6 bxc6 10. f5 Rb8 11. O-O-O Qa5 12. Bc4 d5 13. exd5 Rxb2 14. d6 e4 15.
+Nxe4 Rxc2+ 16. Kxc2 Bxf5 17. Rd4 Nxe4 18. Rxe4 Qa4+ 19. Kd2 Qb4+ 20. Ke2 1-0

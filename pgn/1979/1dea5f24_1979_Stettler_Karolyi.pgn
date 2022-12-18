@@ -1,0 +1,21 @@
+[Event "Brno tt"]
+[Site "Brno tt"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Stettler"]
+[Black "Karolyi"]
+[Result "1-0"]
+[ECO "E41"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5"]
+[HashCode "1dea5f24"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd2 cxd4 6. exd4 O-O 7. Nf3 d5 8.
+a3 Bxc3 9. Bxc3 dxc4 10. Bxc4 b6 11. Qe2 Bb7 12. O-O Nd5 13. Bd2 Qd6 14.
+Rad1 Nd7 15. Ne5 Rac8 16. Bd3 Rfd8 17. Qh5 g6 18. Nxf7 Qf8 19. Bxg6 N5f6
+20. Bxh7+ Nxh7 21. Qg6+ Qg7 22. Qxg7+ Kxg7 23. Nxd8 Rxd8 24. Rc1 Bd5 25.
+Rc7 a5 26. Bf4 Nf6 27. Rfc1 a4 28. Ra7 Bb3 29. h4 Kg6 30. Bg5 Rg8 31. Rcc7
+Nf8 32. Bxf6 Kxf6 33. Rf7+ Kg6 34. h5+ Kxh5 35. Ra8 Bd5 36. Raxf8 Rxg2+ 37.
+Kf1 1-0
+

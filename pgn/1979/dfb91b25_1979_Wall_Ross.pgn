@@ -1,0 +1,16 @@
+[Event "North Carolina"]
+[Site "North Carolina"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Wall, Bill"]
+[Black "Ross, Jerry"]
+[Result "1-0"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Euwe variation"]
+[HashCode "dfb91b25"]
+[Epoch "Rook"]
+[WhiteCountry "USA"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Bd7 6. Bb5 f6 7. O-O Nxe5 8. Nxe5
+Bxb5 9. Qh5+ Ke7 10. Qf7+ Kd6 11. dxc5+ Kxe5 12. Re1+ Kf5 13. Qh5+ 1-0

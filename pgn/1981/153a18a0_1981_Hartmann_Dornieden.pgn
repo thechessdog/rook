@@ -1,0 +1,25 @@
+[Event "Bundesliga 8081"]
+[Site "Duitsland tt"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Hartmann, Wolfram"]
+[Black "Dornieden, Manfred, Dr."]
+[Result "0-1"]
+[ECO "B06"]
+[Opening "Robatsch defence"]
+[Variation "Pseudo-Austrian attack"]
+[HashCode "153a18a0"]
+[Epoch "Rook"]
+[WhiteID "4604008"]
+[WhiteCountry "GER"]
+[BlackID "4604369"]
+[BlackCountry "GER"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. f4 Nc6 5. Be3 Nf6 6. Nf3 O-O 7. Qd2 e5 8. O-O-O
+exd4 9. Nxd4 Re8 10. Nxc6 bxc6 11. e5 Nd5 12. Nxd5 cxd5 13. Bb5 Bd7 14. Qxd5
+Bxb5 15. Qxb5 Qe7 16. Bd4 dxe5 17. Rhe1 e4 18. Bxg7 Kxg7 19. Qa4 Rab8 20. Rd7
+Qe6 21. Qd4+ Kg8 22. Kb1 e3 23. Rd5 Rb4 24. c4 Qe4+ 25. Qxe4 Rxe4 26. g3 Rbxc4
+27. Rd3 e2 28. Rd2 f5 29. Rdxe2 Kf7 30. b3 Rcd4 31. Kc2 Ke6 32. Rxe4+ fxe4 33.
+Re3 c5 34. Rc3 Kd5 35. Re3 Rb4 36. Kc3 a5 37. Re2 Rd4 38. Kc2 c4 39. Re3 cxb3+
+40. axb3 a4 41. Re2 axb3+ 42. Kxb3 Rd3+ 43. Kc2 Kd4 44. Rd2 Ke3 45. Rxd3+ exd3+
+46. Kd1 h5 47. h3 Kf3 48. g4 hxg4 49. hxg4 Kxg4 50. Kd2 Kxf4 51. Kxd3 Kf3 0-1

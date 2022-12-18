@@ -1,0 +1,24 @@
+[Event "Bundesliga 8182"]
+[Site "Germany"]
+[Date "1982.??.??"]
+[Round "?"]
+[White "Busch, Raimund"]
+[Black "Gass, Ulrich"]
+[Result "0-1"]
+[ECO "A31"]
+[Opening "English"]
+[Variation "symmetrical, Benoni formation"]
+[HashCode "881f9556"]
+[Epoch "Rook"]
+[WhiteID "4602480"]
+[BlackID "4683307"]
+[WhiteCountry "GER"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 c5 3. Nf3 g6 4. Nc3 Bg7 5. d5 d6 6. e4 O-O 7. h3 e6 8. Bd3 exd5
+9. exd5 Re8+ 10. Be3 b5 11. Nxb5 Ne4 12. O-O a6 13. Nc3 Nxc3 14. bxc3 Bxc3 15.
+Rb1 Nd7 16. Qc2 Bf6 17. Bf4 Ne5 18. Nxe5 Bxe5 19. Bxe5 Rxe5 20. f4 Re3 21. Rbe1
+Rxe1 22. Rxe1 Ra7 23. Qe2 Kg7 24. Qe8 Qh4 25. Qe3 Rb7 26. Qf2 Qf6 27. Re2 Rb4
+28. g4 a5 29. Kh2 Qc3 30. f5 Qxd3 31. f6+ Kf8 32. Qe1 Be6 33. dxe6 fxe6 34. Rf2
+Kf7 35. Qc1 Qd4 36. Kg2 Qe4+ 37. Rf3 Rxc4 38. Qh6 Rc2+ 39. Kg3 Qe1+ 40. Kf4
+Qe5# 0-1

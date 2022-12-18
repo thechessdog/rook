@@ -1,0 +1,29 @@
+[Event "Santiago"]
+[Site "Santiago de Chile"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Scholz, Guillermo"]
+[Black "Campora, Daniel H."]
+[Result "0-1"]
+[ECO "C45"]
+[Opening "Scotch"]
+[Variation "Schmidt variation"]
+[HashCode "60ebec21"]
+[Epoch "Rook"]
+[WhiteID "600342"]
+[WhiteCountry "FRA"]
+[BlackID "100013"]
+[BlackCountry "ARG"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nf6 5. Nc3 Bb4 6. Nxc6 bxc6 7. Bd3 d5 8.
+exd5 cxd5 9. O-O O-O 10. Bg5 c6 11. Qf3 Bd6 12. Rfe1 Rb8 13. Ne2 h6 14. Bxf6
+Qxf6 15. Qxf6 gxf6 16. b3 Bd7 17. Ng3 Be5 18. Rad1 Rfe8 19. Kf1 Bc3 20. Rxe8+
+Rxe8 21. h3 c5 22. Be2 Be6 23. f4 Rd8 24. Bf3 f5 25. Ne2 Ba5 26. Nc1 c4 27. Ne2
+Bb6 28. Nd4 cxb3 29. cxb3 Kg7 30. Ke2 Kf6 31. Kd3 Rc8 32. Rd2 Rc1 33. Rc2 Rg1
+34. Nb5 Re1 35. Rc6 Kg7 36. Nd4 Kf8 37. a4 Ke7 38. b4 Kd7 39. Rc3 Bc7 40. Rc5
+Bb6 41. Rb5 Ra1 42. Nc2 Rxa4 43. Bxd5 h5 44. Bc4 Ke7 45. Re5 Bc7 46. Rb5 Bxf4
+47. Kc3 Kf6 48. Rc5 Be5+ 49. Kb3 Ra6 50. b5 Rd6 51. Nb4 Rd2 52. Nd5+ Kg5 53.
+Nc7 Bxc4+ 54. Rxc4 h4 55. Rc5 Bh2 56. Rd5 Rxg2 57. Rd8 Rg3+ 58. Kc4 Rxh3 59.
+Nd5 Bg3 60. Rg8+ Kh6 61. Ne7 f4 62. Nf5+ Kh5 63. Kd5 Rh1 64. Ke5 Re1+ 65. Kf6
+Re6+ 66. Kxf7 Rb6 67. Nd4 h3 68. Nf3 h2 69. Rg5+ Kh6 70. Rg8 Rb7+ 71. Kf6 h1=Q
+0-1

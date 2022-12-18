@@ -1,0 +1,22 @@
+[Event "Lloyds Bank"]
+[Site "London"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Pritchett, Craig W"]
+[Black "Gheorghiu, Florin"]
+[Result "1-0"]
+[ECO "B42"]
+[Opening "Sicilian"]
+[Variation "Kan, 5.Bd3"]
+[HashCode "6457550c"]
+[Epoch "Rook"]
+[WhiteID "2400065"]
+[WhiteCountry "SCO"]
+[BlackID "1200011"]
+[BlackCountry "ROU"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Nf6 6. O-O d6 7. c4 Be7 8. Nc3
+O-O 9. Be3 Re8 10. f4 Nbd7 11. Kh1 Bf8 12. Qe2 Qc7 13. Rac1 b6 14. b4 Bb7 15.
+Nb3 Rac8 16. a4 Qb8 17. a5 d5 18. cxd5 Bxb4 19. Na2 Rxc1 20. Bxc1 bxa5 21. Nxb4
+axb4 22. dxe6 fxe6 23. e5 Nd5 24. Qh5 Nf8 25. f5 exf5 26. Qxf5 Qc7 27. Nc5 Bc8
+28. Qf3 Nb6 29. e6 Rd8 30. Bg5 1-0

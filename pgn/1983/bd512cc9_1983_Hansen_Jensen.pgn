@@ -1,0 +1,23 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Hansen, Soren Bech"]
+[Black "Jensen, Peter"]
+[Result "0-1"]
+[ECO "D90"]
+[Opening "Gruenfeld"]
+[Variation "Three knights variation"]
+[HashCode "bd512cc9"]
+[Epoch "Rook"]
+[BlackID "1437704"]
+[BlackCountry "DEN"]
+[WhiteID "1400681"]
+[WhiteCountry "DEN"]
+
+1. d4 d5 2. c4 Nf6 3. Nf3 g6 4. Nc3 Bf5 5. e3 Bg7 6. cxd5 Nxd5 7. Qb3 Nxc3 8.
+bxc3 Be4 9. Ng5 Qd5 10. Qxd5 Bxd5 11. e4 Bc6 12. Bc4 O-O 13. Bf4 h6 14. Nxf7
+Rxf7 15. O-O Nd7 16. Bxc7 Rc8 17. e5 Rxc7 18. e6 Rf8 19. exd7+ Kh8 20. Bd3 Kh7
+21. Rfe1 Bf6 22. Re3 Bxd7 23. Rb1 Bg5 24. Rg3 Kg7 25. h4 Bxh4 26. Rxg6+ Kf7 27.
+Rxh6 Bg5 28. Rh7+ Ke8 29. Rh5 Bf6 30. Be4 b6 31. Bg6+ Kd8 32. Rd5 e6 33. Rh5
+Rxc3 34. d5 e5 35. Rd1 Bg4 0-1

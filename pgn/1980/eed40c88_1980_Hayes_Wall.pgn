@@ -1,0 +1,16 @@
+[Event "Dayton,OH"]
+[Site "Dayton,OH"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Hayes, Dan"]
+[Black "Wall, Bill"]
+[Result "0-1"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "Cochrane gambit"]
+[HashCode "eed40c88"]
+[Epoch "Rook"]
+[BlackCountry "USA"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nxf7 Kxf7 5. Bc4+ Be6 6. Qe2 Bxc4 7. Qxc4+ d5
+8. exd5 Qe7+ 0-1

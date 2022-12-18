@@ -1,0 +1,16 @@
+[Event "corr CCLA"]
+[Site "corr CCLA"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Lew"]
+[Black "Carswell"]
+[Result "1-0"]
+[ECO "C64"]
+[Opening "Ruy Lopez"]
+[Variation "Cordel gambit"]
+[HashCode "76a6a688"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. c3 f5 5. d4 fxe4 6. dxc5 exf3 7. Qxf3 Nf6
+8. O-O O-O 1-0
+

@@ -1,0 +1,25 @@
+[Event "Berlin tt"]
+[Site "Berlin-West"]
+[Date "1980.??.??"]
+[Round "?"]
+[White "Sande, Oystein"]
+[Black "Lau, Ralf"]
+[Result "0-1"]
+[ECO "B95"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6...e6"]
+[HashCode "ded27e09"]
+[Epoch "Rook"]
+[BlackID "4600134"]
+[BlackCountry "GER"]
+[WhiteID "1500325"]
+[WhiteCountry "NOR"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. Bc4 b5 8. Bb3
+b4 9. Nce2 Be7 10. f3 O-O 11. c3 bxc3 12. Nxc3 Bb7 13. O-O Nbd7 14. Kh1 Nc5 15.
+Bc2 Rc8 16. Rc1 Nfxe4 17. Bxe7 Nxc3 18. Bxd8 Nxd1 19. Be7 Nxb2 20. Bxf8 Kxf8
+21. Nb3 Nxb3 22. Bxb3 Nd3 23. Rxc8+ Bxc8 24. Kg1 Nc5 25. Bc2 h6 26. Rb1 Ke7 27.
+Kf2 Bb7 28. Ke3 e5 29. Rb6 Kd7 30. Bd3 Kc7 31. Rb1 Bd5 32. a3 Be6 33. g4 d5 34.
+Ke2 g6 35. Rc1 Kd6 36. h4 e4 37. Bc2 exf3+ 38. Kxf3 d4 39. Rb1 Bd5+ 40. Ke2
+Bc4+ 41. Ke1 d3 42. Bd1 Ke5 43. Rb8 Kd4 44. Rd8+ Ke3 45. Re8+ Ne4 46. Rxe4+
+Kxe4 47. Kd2 g5 48. hxg5 hxg5 0-1

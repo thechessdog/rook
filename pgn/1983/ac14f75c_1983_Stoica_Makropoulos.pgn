@@ -1,0 +1,24 @@
+[Event "Bucharest"]
+[Site "Bucharest"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Stoica, Valentin"]
+[Black "Makropoulos, Georgios"]
+[Result "1-0"]
+[ECO "B70"]
+[Opening "Sicilian"]
+[Variation "dragon variation"]
+[HashCode "ac14f75c"]
+[Epoch "Rook"]
+[WhiteID "1200070"]
+[BlackID "4200047"]
+[WhiteCountry "ROU"]
+[BlackCountry "GRE"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Bc4 Bg7 7. O-O O-O 8. h3
+Nc6 9. Be3 Nxe4 10. Bxf7+ Rxf7 11. Nxe4 Nxd4 12. Bxd4 Bf5 13. Ng5 Rf8 14. c4 h6
+15. Bxg7 Kxg7 16. Ne4 Qb6 17. Qe2 Bxe4 18. Qxe4 Rf7 19. b3 Raf8 20. Qe2 e5 21.
+Rad1 Rf4 22. Rd5 e4 23. Qb2+ R8f6 24. Qd4 e3 25. Qxb6 axb6 26. f3 Re6 27. Re1
+Rf5 28. Rxf5 gxf5 29. f4 Re4 30. g3 b5 31. cxb5 d5 32. Kf1 d4 33. Ke2 Kf6 34.
+a4 Ke6 35. a5 Kd5 36. a6 bxa6 37. bxa6 Re8 38. Ra1 Ke4 39. Ra4 h5 40. a7 Ra8
+41. h4 1-0

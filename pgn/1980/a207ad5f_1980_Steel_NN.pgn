@@ -1,0 +1,19 @@
+[Event "Calcutta"]
+[Site "Calcutta"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Steel, S."]
+[Black "NN"]
+[Result "1-0"]
+[ECO "C25"]
+[Opening "Vienna"]
+[Variation "Steinitz gambit, Zukertort defence"]
+[HashCode "a207ad5f"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nc3 Nc6 3. f4 exf4 4. d4 Qh4+ 5. Ke2 d5 6. exd5 Bg4+ 7. Nf3
+O-O-O 8. dxc6 Bc5 9. cxb7+ Kxb7 10. Nb5 Nf6 11. c3 Rhe8+ 12. Kd3 Bf5+ 13.
+Kc4 Be6+ 14. Kxc5 a5 15. Nxc7 Qh5+ 16. Ne5 Nd7+ 17. Kb5 Qxd1 18. Bxf4 Qxa1
+19. Kxa5 Nxe5 20. Nxe8 f6 21. dxe5 f5 22. Be3 Rxe8 23. Bb5 Qxh1 24. Ba7 Kc7
+25. Bc5 Rd8 26. Ka6 1-0
+

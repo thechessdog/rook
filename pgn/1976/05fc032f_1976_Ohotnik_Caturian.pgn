@@ -1,0 +1,18 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Ohotnik"]
+[Black "Caturian, V."]
+[Result "0-1"]
+[ECO "A41"]
+[Opening "Old Indian"]
+[Variation "Tartakower (Wade) variation"]
+[HashCode "05fc032f"]
+[Epoch "Rook"]
+
+1. Nf3 d6 2. d4 Bg4 3. c4 Nf6 4. Qb3 Qc8 5. Bg5 g6 6. h3 Bxf3 7. Bxf6 exf6
+8. Qxf3 Be7 9. Nc3 c6 10. e3 O-O 11. g4 Na6 12. h4 Rb8 13. h5 d5 14. cxd5
+cxd5 15. Nxd5 Qe6 16. hxg6 fxg6 17. Bc4 Kg7 18. Qf4 h5 19. gxh5 g5 20. h6+
+Kh8 21. Nxe7 Qxe7 22. Qf5 Qb4+ 23. Kd1 Qxc4 24. Rc1 Qxa2 25. h7 Qb3+ 0-1
+

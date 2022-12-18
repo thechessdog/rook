@@ -1,0 +1,20 @@
+[Event "Elba"]
+[Site "Elba"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Passerotti"]
+[Black "Monaldi"]
+[Result "0-1"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Paulsen attack"]
+[HashCode "e95a64aa"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. a3 c4 7. g3 Bd7 8. Bh3
+O-O-O 9. Ng5 Be8 10. Qf3 Nh6 11. Nxe6 fxe6 12. Bxe6+ Bd7 13. Bxd5 Bg4 14.
+Qg2 Nxe5 15. O-O Nd3 16. Bxc4 Be2 17. Qe4 Bxf1 18. Bg5 Rd7 19. Qe8+ Kc7 20.
+Kxf1 Nf7 21. Bxf7 Qxb2 22. Ra2 Qxb1+ 23. Ke2 Nc1+ 24. Kf3 Qf5+ 25. Bf4+ Bd6
+26. Qxh8 Rxf7 27. Rb2 Bxf4 28. Kg2 Bd6 29. Qe8 Qf3+ 30. Kh3 Qh5+ 31. Kg2
+Rxf2+ 0-1
+

@@ -1,0 +1,20 @@
+[Event "Cuba"]
+[Site "Cuba"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Garces, Napoleon"]
+[Black "Lebredo, Gerardo"]
+[Result "1-0"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, Smyslov variation"]
+[HashCode "13fce904"]
+[Epoch "Rook"]
+[BlackCountry "CUB"]
+[WhiteID "3600130"]
+[WhiteCountry "ECU"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. a4 Qa5 8. Bd2
+Nbc6 9. Nf3 Bd7 10. Be2 f6 11. exf6 gxf6 12. O-O c4 13. Nh4 O-O-O 14. Bh5 Rhg8
+15. Qf3 Nxd4 16. Qxf6 Nec6 17. Qh6 Rdf8 18. cxd4 Qd8 19. Bd1 e5 20. dxe5 Nxe5
+21. Ra3 1-0

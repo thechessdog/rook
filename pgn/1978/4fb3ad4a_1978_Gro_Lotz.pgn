@@ -1,0 +1,19 @@
+[Event "corr EU/I"]
+[Site "corr EU/I"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Gro"]
+[Black "Lotz"]
+[Result "0-1"]
+[ECO "A00"]
+[Opening "Polish (Sokolsky) opening"]
+[HashCode "4fb3ad4a"]
+[Epoch "Rook"]
+
+1. b4 e5 2. Bb2 Bxb4 3. Bxe5 Nf6 4. c4 O-O 5. Nf3 d5 6. e3 Be7 7. Qc2 c5 8.
+Ng5 g6 9. Bb2 Nc6 10. cxd5 Nxd5 11. h4 Bf5 12. e4 Ndb4 13. Qc4 Bxg5 14.
+hxg5 Bxe4 15. Qc3 Nd4 16. Qh3 h5 17. gxh6 Re8 18. h7+ Kh8 19. Be2 Nd3+ 20.
+Bxd3 Bf5+ 21. Qe3 Bxd3 22. Kd1 Rxe3 23. dxe3 Qb6 24. Kc1 f6 25. Nc3 Nb3+
+26. Kd1 Nxa1 27. Bxa1 Rd8 28. Kc1 Rd7 29. e4 Rxh7 30. Rd1 c4 31. Bb2 Qxf2
+32. Rd2 Rh1+ 33. Nd1 Rxd1+ 34. Kxd1 Qg1# 0-1
+

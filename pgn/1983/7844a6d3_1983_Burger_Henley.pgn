@@ -1,0 +1,18 @@
+[Event "New York"]
+[Site "New York"]
+[Date "1983.01.01"]
+[Round "3"]
+[White "Burger, Karl"]
+[Black "Henley, Ron"]
+[Result "1/2-1/2"]
+[ECO "D14"]
+[Opening "QGD Slav"]
+[Variation "exchange variation, 6.Bf4 Bf5"]
+[HashCode "7844a6d3"]
+[Epoch "Rook"]
+[BlackID "2000318"]
+[BlackCountry "USA"]
+[WhiteCountry "USA"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 c6 4. cxd5 cxd5 5. Nc3 Nc6 6. Bf4 Bf5 7. e3 e6 8. Bd3
+Bxd3 9. Qxd3 Be7 10. h3 O-O 11. O-O Rc8 12. Rfc1 1/2-1/2

@@ -1,0 +1,22 @@
+[Event "Nordic-tt"]
+[Site "Oslo"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Sznapik, Aleksander"]
+[Black "Ostermeyer, Peter, Dr."]
+[Result "1-0"]
+[ECO "B93"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.f4"]
+[HashCode "8fa34a83"]
+[Epoch "Rook"]
+[WhiteID "1100050"]
+[WhiteCountry "POL"]
+[BlackID "4600355"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nf3 d6 3. d4 Nf6 4. Nc3 cxd4 5. Nxd4 a6 6. f4 e5 7. Nf3 Qc7 8. Bd3
+Be7 9. a4 O-O 10. O-O b6 11. Qe1 Nbd7 12. Kh1 Bb7 13. Nh4 g6 14. fxe5 dxe5 15.
+Bh6 Rfe8 16. Nf5 Bf8 17. Bxf8 Rxf8 18. Ne3 Kg7 19. Qh4 Qc5 20. Rf3 b5 21. axb5
+axb5 22. Raf1 b4 23. Ne2 Qc6 24. Ng3 Qb6 25. Qg5 Ng8 26. Bc4 f6 27. Ngf5+ Kh8
+28. Qxg6 1-0

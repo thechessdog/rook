@@ -1,0 +1,17 @@
+[Event "corr ch16-SU"]
+[Site "corr ch16-SU"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Volchok, A."]
+[Black "Tsamriuk, A."]
+[Result "1-0"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, positional main line"]
+[HashCode "cf16cfc0"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Nf3 Bd7 8.
+dxc5 Ng6 9. Bd3 Nc6 10. Rb1 Ncxe5 11. Nxe5 Nxe5 12. Rxb7 Qc8 13. Rb1 Qxc5
+14. O-O Ng6 15. Qh5 O-O 16. c4 Bc6 17. Bb2 1-0
+

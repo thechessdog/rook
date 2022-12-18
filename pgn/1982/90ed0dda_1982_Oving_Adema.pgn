@@ -1,0 +1,25 @@
+[Event "Alkmaar open"]
+[Site "Alkmaar open"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Oving, W."]
+[Black "Adema, R."]
+[Result "1-0"]
+[ECO "D03"]
+[Opening "Torre attack (Tartakower variation)"]
+[HashCode "90ed0dda"]
+[Epoch "Rook"]
+
+1. d4 d5 2. Nf3 Nf6 3. Bg5 Bf5 4. e3 c6 5. Nbd2 Nbd7 6. Be2 h6 7. Bf4 e6 8.
+O-O Bb4 9. a3 Be7 10. c4 dxc4 11. Nxc4 Nb6 12. Nfd2 Nbd5 13. Bg3 O-O 14.
+Rc1 Rc8 15. b4 Nb6 16. f3 Bg6 17. Qb3 Ne8 18. Ne5 Bh7 19. Ndc4 Bh4 20. Bxh4
+Qxh4 21. Nxb6 axb6 22. Nd7 Nd6 23. Nxb6 Rcd8 24. Rfd1 Rfe8 25. g3 Qf6 26.
+Kg2 Nf5 27. Nc4 h5 28. Ne5 g5 29. Rc5 Kg7 30. Qc3 Re7 31. e4 Nd6 32. Qe3
+Qh6 33. Nc4 g4 34. Qxh6+ Kxh6 35. Nxd6 Rxd6 36. Kf2 Red7 37. Ke3 b6 38.
+Rcc1 gxf3 39. Bxf3 e5 40. dxe5 Rxd1 41. Bxd1 c5 42. bxc5 bxc5 43. Bb3 Rd4
+44. Bd5 Ra4 45. Rc3 Kg5 46. h3 Bg6 47. Kf3 h4 48. gxh4+ Kxh4 49. Kf4 Ra6
+50. Rg3 Ra4 51. e6 Ra7 52. Rc3 f6 53. Rxc5 Rxa3 54. Rc8 Kxh3 55. Rh8+ Kg2
+56. e5+ Kf2 57. Rh2+ Kg1 58. Rg2+ Kf1 59. Rxg6 Ra4+ 60. Kf5 fxe5 61. Kxe5
+Ke2 62. Rg2+ Kf1 63. e7 Ra1 64. e8=Q Re1+ 65. Be4 Rxe4+ 66. Kxe4 Kxg2 67.
+Qg6+ 1-0
+

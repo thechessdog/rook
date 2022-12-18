@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Adamson"]
+[Black "Rott"]
+[Result "0-1"]
+[ECO "B33"]
+[Opening "Sicilian"]
+[Variation "Pelikan, Chelyabinsk variation"]
+[HashCode "928392be"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6
+8. Na3 b5 9. Nd5 Be7 10. Bxf6 Bxf6 11. c3 O-O 12. Nc2 Rb8 13. a4 Bg5 14.
+axb5 axb5 15. Ncb4 Nxb4 16. Nxb4 Bb7 17. Bd3 f5 18. exf5 e4 19. Bxb5 Rxf5
+20. Qe2 e3 21. O-O Qb6 22. Bc4+ d5 23. Bd3 Rxf2 24. Rxf2 exf2+ 25. Kf1 Qh6
+26. h3 Rf8 27. Ra5 Qd6 28. Nxd5 Qh2 0-1
+

@@ -1,0 +1,19 @@
+[Event "Golden Gate op"]
+[Site "Golden Gate op"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Whitehead, Jay E"]
+[Black "Nelson, T."]
+[Result "1-0"]
+[ECO "B98"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7...Be7"]
+[HashCode "93449b88"]
+[Epoch "Rook"]
+[WhiteCountry "USA"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qe2
+O-O 9. O-O-O Nbd7 10. g4 Qc7 11. Bg2 Rb8 12. Rhe1 b5 13. e5 dxe5 14. Nc6 Ba3
+15. Nb1 Rb6 16. Nxa3 Rxc6 17. Bxc6 Qxc6 18. Bxf6 Nxf6 19. fxe5 Nd5 20. Kb1 Bb7
+21. c4 bxc4 22. Nxc4 Qb5 23. Rc1 Rb8 24. Nd6 Qb4 25. Rc4 Qb6 26. Rec1 h6 27. h4
+Ne3 28. R4c3 1-0

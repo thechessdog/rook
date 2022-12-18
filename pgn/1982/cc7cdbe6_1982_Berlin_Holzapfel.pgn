@@ -1,0 +1,18 @@
+[Event "BL2-N 8182"]
+[Site "BL2-N 8182"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Berlin, Dieter"]
+[Black "Holzapfel, Daniel"]
+[Result "1/2-1/2"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "classical attack"]
+[HashCode "cc7cdbe6"]
+[Epoch "Rook"]
+[BlackID "4604059"]
+[BlackCountry "GER"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Be7 7. O-O Bf5 8.
+Re1 Nc6 9. Nc3 Nxc3 10. bxc3 Bxd3 11. Qxd3 O-O 12. c4 dxc4 13. Qxc4 Bf6 14. c3
+Qd7 15. Bf4 Ne7 16. Qb3 Ng6 17. Be5 c6 18. h3 Be7 1/2-1/2

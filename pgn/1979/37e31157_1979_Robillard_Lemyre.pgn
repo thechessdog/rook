@@ -1,0 +1,20 @@
+[Event "Quebec op"]
+[Site "Quebec op"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Robillard, Jean"]
+[Black "Lemyre, Pierre"]
+[Result "0-1"]
+[ECO "B89"]
+[Opening "Sicilian"]
+[Variation "Velimirovic attack"]
+[HashCode "37e31157"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bc4 e6 7. Be3 Be7
+8. Qe2 O-O 9. O-O-O Qc7 10. Bb3 a6 11. g4 Nxd4 12. Rxd4 Nd7 13. f4 b5 14.
+g5 Nc5 15. Qf2 f5 16. exf5 Rxf5 17. Qd2 d5 18. Ne2 a5 19. c3 b4 20. Bc2 Rf8
+21. Kb1 Ba6 22. Rc1 Rfb8 23. Ng3 b3 24. axb3 Nxb3 25. Bxb3 Rxb3 26. Qf2
+Rab8 27. Rc2 Ba3 28. Rdd2 Rxc3 29. Ka1 Bxb2+ 30. Rxb2 Rc1+ 31. Ka2 Qc4+ 32.
+Ka3 Ra1+ 0-1
+

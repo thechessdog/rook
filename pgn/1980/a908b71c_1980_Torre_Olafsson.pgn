@@ -1,0 +1,19 @@
+[Event "Reykjavik"]
+[Site "Reykjavik"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Torre, Eugenio"]
+[Black "Olafsson, Helgi"]
+[Result "1/2-1/2"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Byrne (English) attack"]
+[HashCode "a908b71c"]
+[Epoch "Rook"]
+[WhiteID "5200016"]
+[WhiteCountry "PHI"]
+[BlackID "2300010"]
+[BlackCountry "ISL"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e5 7. Nf3 Qc7 8. a4
+b6 9. Nd2 Be6 10. Bd3 Nc6 11. Bg5 Be7 1/2-1/2

@@ -1,0 +1,22 @@
+[Event "Siena"]
+[Site "Siena"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Gagliardi, M."]
+[Black "Leoncini, M."]
+[Result "0-1"]
+[ECO "B33"]
+[Opening "Sicilian"]
+[Variation "Pelikan (Lasker/Sveshnikov) variation"]
+[HashCode "0eea0489"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Nd5 Nxd5
+8. exd5 Nb8 9. g4 f5 10. g5 Be7 11. Rg1 g6 12. h4 a6 13. Nc3 O-O 14. h5 Nd7
+15. f4 Qe8 16. Be2 b5 17. a3 Bd8 18. Rg3 Bb6 19. Rh3 Kg7 20. Qd3 Nc5 21.
+Qg3 Ne4 22. Qh2 Nf2 23. Rh4 Ng4 24. Bxg4 fxg4 25. hxg6 exf4+ 26. Kf1 Qxg6
+27. Bxf4 Be3 28. Ne2 Qe4 29. g6 Rxf4+ 30. Nxf4 Qxf4+ 31. Qxf4 Bxf4 32. gxh7
+Bf5 33. Re1 Be5 34. Kg2 Rh8 35. c3 Rxh7 36. Rxh7+ Kxh7 37. Re3 Kg6 38. b3
+Kg5 39. c4 Kf4 40. Re2 Be4+ 41. Kg1 Bd4+ 42. Kh2 g3+ 43. Kh3 g2 44. Rxg2
+Bxg2+ 45. Kxg2 bxc4 46. bxc4 Ke3 47. Kg3 Be5+ 48. Kg4 Kd4 0-1
+

@@ -1,0 +1,19 @@
+[Event "Italy"]
+[Site "Italy"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Celli"]
+[Black "Gatto"]
+[Result "1/2-1/2"]
+[ECO "B99"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7...Be7 main line"]
+[HashCode "ece35653"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8.
+Qf3 Qc7 9. O-O-O Nbd7 10. Bd3 h6 11. Qh3 Nb6 12. Bxf6 Bxf6 13. Bb5+ Bd7 14.
+Bxd7+ Qxd7 15. e5 Be7 16. exd6 Bxd6 17. g3 O-O-O 18. Ne4 Qa4 19. Nxd6+ Rxd6
+20. Nb3 Rc6 21. Rd4 Qxa2 22. Qg2 Nd7 23. Qe4 Nb6 24. Rhd1 Nd5 25. R1d3 f5
+26. Qe5 Rd8 27. Nd2 Qa1+ 28. Nb1 Qa5 29. Nc3 Qa1+ 30. Nb1 1/2-1/2
+

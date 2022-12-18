@@ -1,0 +1,17 @@
+[Event "Columbus,OH"]
+[Site "Columbus,OH"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Hayden"]
+[Black "Meitner, Philip"]
+[Result "1-0"]
+[ECO "B72"]
+[Opening "Sicilian"]
+[Variation "dragon, classical, Amsterdam variation"]
+[HashCode "54861225"]
+[Epoch "Rook"]
+
+1. e4 c5 2. d4 cxd4 3. Nf3 Nc6 4. Nxd4 Nf6 5. Nc3 d6 6. Be2 g6 7. Be3 Bg7
+8. Qd2 d5 9. exd5 Nb4 10. d6 Qxd6 11. Ncb5 Qc5 12. Ne6 Nxc2+ 13. Qxc2 Qxc2
+14. Nbc7+ 1-0
+

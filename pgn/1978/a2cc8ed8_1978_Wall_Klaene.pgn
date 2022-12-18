@@ -1,0 +1,16 @@
+[Event "Statesville,NC"]
+[Site "Statesville,NC"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Wall, Bill"]
+[Black "Klaene, Paul"]
+[Result "1-0"]
+[ECO "C13"]
+[Opening "French"]
+[Variation "Albin-Alekhine-Chatard attack"]
+[HashCode "a2cc8ed8"]
+[Epoch "Rook"]
+[WhiteCountry "USA"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Nfd7 6. h4 Bxg5 7. hxg5 Qxg5 8.
+Nh3 Qe7 9. Bd3 Qb4 10. Qd2 Qxd4 11. f4 f6 12. Bg6+ 1-0

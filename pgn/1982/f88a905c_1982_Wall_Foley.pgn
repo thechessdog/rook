@@ -1,0 +1,16 @@
+[Event "Dayton,OH"]
+[Site "Dayton,OH"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Wall, Bill"]
+[Black "Foley, Dave"]
+[Result "1-0"]
+[ECO "A00"]
+[Opening "Grob's attack"]
+[HashCode "f88a905c"]
+[Epoch "Rook"]
+[WhiteCountry "USA"]
+
+1. g4 d5 2. Bg2 e6 3. c4 Nc6 4. Nc3 Nge7 5. c5 f6 6. d4 g5 7. e4 Bg7 8. h4 O-O
+9. hxg5 fxg5 10. Bxg5 Nxd4 11. exd5 exd5 12. Nxd5 Ndc6 13. Nxe7+ Nxe7 14. Qxd8
+Rxd8 15. Bxe7 Re8 16. O-O-O Rxe7 17. Rd8+ Bf8 18. Bxb7 1-0

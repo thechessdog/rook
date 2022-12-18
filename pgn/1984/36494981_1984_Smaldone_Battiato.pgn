@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Smaldone"]
+[Black "Battiato"]
+[Result "0-1"]
+[ECO "C50"]
+[Opening "Giuoco Pianissimo"]
+[Variation "Italian four knights variation"]
+[HashCode "36494981"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. d3 Nf6 5. Nc3 d6 6. Be3 Bb6 7. Qd2 Bg4 8.
+Ng5 Bh5 9. f3 h6 10. Nh3 Nd4 11. Bxd4 Bxd4 12. Ne2 Bb6 13. O-O-O d5 14.
+exd5 Nxd5 15. d4 O-O 16. Rhe1 Bg6 17. Kb1 c6 18. f4 Ba5 19. Qc1 Bxe1 20.
+Rxe1 Nb4 21. Bb3 exd4 22. a3 d3 23. axb4 d2 0-1
+

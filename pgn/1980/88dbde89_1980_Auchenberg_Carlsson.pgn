@@ -1,0 +1,18 @@
+[Event "Politiken Cup"]
+[Site "Copenhagen"]
+[Date "1980.??.??"]
+[Round "6"]
+[White "Auchenberg, Per"]
+[Black "Carlsson, Gerner"]
+[Result "1/2-1/2"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (without ...d6)"]
+[HashCode "88dbde89"]
+[Epoch "Rook"]
+[BlackID "1410237"]
+[BlackCountry "DEN"]
+[WhiteCountry "DNK"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 e6 8. dxc5
+Bxc5 9. Qe2 1/2-1/2

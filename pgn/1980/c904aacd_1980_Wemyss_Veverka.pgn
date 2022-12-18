@@ -1,0 +1,17 @@
+[Event "corr CCLA"]
+[Site "corr CCLA"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Wemyss"]
+[Black "Veverka"]
+[Result "1-0"]
+[ECO "B69"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...a6 defence, 11.Bxf6"]
+[HashCode "c904aacd"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd2 a6 8.
+O-O-O Bd7 9. f4 Be7 10. Nf3 b5 11. Bxf6 gxf6 12. f5 b4 13. Ne2 e5 14. Ng3
+Na5 15. Nh5 Bf8 16. Qxb4 Rb8 17. Nxf6+ 1-0
+

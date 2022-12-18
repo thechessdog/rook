@@ -1,0 +1,18 @@
+[Event "DDR jr"]
+[Site "DDR jr"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Pachow, J."]
+[Black "Sorm, D."]
+[Result "1-0"]
+[ECO "B59"]
+[Opening "Sicilian"]
+[Variation "Boleslavsky variation, 7.Nb3"]
+[HashCode "102366a5"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be2 e5 7. Nb3 Be7
+8. O-O O-O 9. f4 a5 10. a4 Be6 11. f5 Bd7 12. Be3 Nb4 13. Bf3 Bc6 14. Rf2
+d5 15. exd5 Nfxd5 16. Nxd5 Nxd5 17. Bc5 Bxc5 18. Nxc5 Qb6 19. Bxd5 Rfd8 20.
+Bxf7+ Kxf7 21. Qh5+ Kg8 22. Ne6 Rd2 1-0
+

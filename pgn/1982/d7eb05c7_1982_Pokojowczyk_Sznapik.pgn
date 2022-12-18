@@ -1,0 +1,19 @@
+[Event "Rubinstein Memorial"]
+[Site "Polancia Zdroj"]
+[Date "1982.08.01"]
+[Round "14"]
+[White "Pokojowczyk, Jerzy"]
+[Black "Sznapik, Aleksander"]
+[Result "1/2-1/2"]
+[ECO "B06"]
+[Opening "Robatsch defence"]
+[HashCode "d7eb05c7"]
+[Epoch "Rook"]
+[WhiteID "1100718"]
+[WhiteCountry "POL"]
+[BlackID "1100050"]
+[BlackCountry "POL"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 a6 4. f4 b5 5. Nf3 b4 6. Ne2 Bb7 7. Ng3 c5 8. Be3
+cxd4 9. Bxd4 Nf6 10. e5 Nd5 11. f5 Nc6 12. Bc4 Nxd4 13. Qxd4 Qb6 14. O-O-O Qxd4
+15. Rxd4 Ne3 16. Bd3 Bxf3 17. gxf3 Bxe5 18. Rxb4 1/2-1/2

@@ -1,0 +1,14 @@
+[Event "corr CCLA"]
+[Site "corr CCLA"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Puru"]
+[Black "Evans"]
+[Result "1-0"]
+[ECO "A00"]
+[Opening "Anderssen's opening"]
+[HashCode "6fb1fb5b"]
+[Epoch "Rook"]
+
+1. a3 e5 2. b4 d5 3. Bb2 Bd6 4. Nf3 f6 5. e3 Ne7 6. c4 c5 1-0
+

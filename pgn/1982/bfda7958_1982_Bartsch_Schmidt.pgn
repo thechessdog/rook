@@ -1,0 +1,23 @@
+[Event "Bundesliga 8182"]
+[Site "Duitsland tt"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Bartsch, Berthold"]
+[Black "Schmidt, Bodo"]
+[Result "0-1"]
+[ECO "C00"]
+[Opening "French"]
+[Variation "Chigorin variation"]
+[HashCode "bfda7958"]
+[Epoch "Rook"]
+[WhiteID "4604660"]
+[WhiteCountry "GER"]
+[BlackID "4601505"]
+[BlackCountry "GER"]
+
+1. e4 e6 2. Qe2 c5 3. g3 Nc6 4. Bg2 g6 5. c3 Bg7 6. f4 Nge7 7. Nf3 d5 8. d3 b6
+9. f5 O-O 10. fxg6 fxg6 11. O-O d4 12. c4 e5 13. Bd2 a6 14. a4 Bd7 15. Na3 Na5
+16. b4 Nb3 17. Ra2 Nxd2 18. Qxd2 Bxa4 19. b5 axb5 20. Nxb5 Bxb5 21. cxb5 h6 22.
+Rfa1 Rxa2 23. Qxa2+ Kh7 24. Qe6 Rf6 25. Qb3 Rf8 26. Nd2 Nc8 27. Nc4 Nd6 28.
+Nxd6 Qxd6 29. Ra7 Qf6 30. Qa2 Qg5 31. Rf7 Qe3+ 32. Kh1 Rxf7 33. Qxf7 Qxd3 34.
+Qf1 Qe3 35. Qg1 c4 0-1

@@ -1,0 +1,20 @@
+[Event "IBM-B"]
+[Site "Amsterdam II"]
+[Date "1978.07.01"]
+[Round "3"]
+[White "Ligterink, Gert"]
+[Black "Taulbut, Shaun M"]
+[Result "1/2-1/2"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack"]
+[HashCode "a66c6800"]
+[Epoch "Rook"]
+[WhiteID "1000179"]
+[WhiteCountry "NED"]
+[BlackID "400246"]
+[BlackCountry "ENG"]
+
+1. e4 g6 2. d4 d6 3. Nc3 Bg7 4. f4 Nf6 5. Nf3 O-O 6. Be2 c5 7. dxc5 Qa5 8. O-O
+Qxc5+ 9. Kh1 Nbd7 10. Bd3 a6 11. a4 b6 12. Qe1 Bb7 13. Be3 Qc7 14. Qh4 e6 15.
+Rae1 Rae8 16. e5 Nd5 17. Nxd5 Bxd5 18. Bd4 Nc5 1/2-1/2

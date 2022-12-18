@@ -1,0 +1,16 @@
+[Event "Dayton,OH"]
+[Site "Dayton,OH"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Holcomb, Gordon"]
+[Black "Elmore, Donald"]
+[Result "1-0"]
+[ECO "C10"]
+[Opening "French"]
+[Variation "Rubinstein variation"]
+[HashCode "14074d0f"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nc6 5. Nf3 Bb4+ 6. c3 Ba5 7. Bd3 Bb6
+8. O-O a6 9. Re1 Nge7 10. Ng3 O-O 11. Bxh7+ Kxh7 12. Ng5+ Kg8 13. Qh5 1-0
+

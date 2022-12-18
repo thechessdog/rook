@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Budovskis, I."]
+[Black "Kinnes, A."]
+[Result "1-0"]
+[ECO "C40"]
+[Opening "Latvian counter-gambit"]
+[HashCode "5f012a23"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 f5 3. Nxe5 Qf6 4. Nc4 fxe4 5. Nc3 Qf7 6. Ne3 c6 7. d3 exd3
+8. Bxd3 d5 9. O-O Bd6 10. Re1 Ne7 11. Nc4 dxc4 12. Bxc4 Bxh2+ 13. Kxh2 Qxc4
+14. Bg5 O-O 15. Bxe7 Qf4+ 16. Kh1 Re8 17. Ba3 Qf7 18. Ne4 b6 19. Nd6 Rxe1+
+20. Qxe1 Qh5+ 21. Kg1 Na6 22. Nxc8 1-0
+

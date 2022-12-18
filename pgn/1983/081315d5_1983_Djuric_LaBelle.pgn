@@ -1,0 +1,20 @@
+[Event "Quebec op"]
+[Site "Quebec op"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Djuric, Stefan"]
+[Black "LaBelle, Jacques"]
+[Result "1-0"]
+[ECO "B93"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.f4"]
+[HashCode "081315d5"]
+[Epoch "Rook"]
+[WhiteID "900133"]
+[WhiteCountry "SRB"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 Qc7 7. Bd3 g6 8. O-O
+Bg7 9. Kh1 O-O 10. Nf3 Nbd7 11. Qe1 e5 12. fxe5 dxe5 13. Qh4 b6 14. Bh6 Bb7 15.
+Ng5 Rae8 16. g4 Qd6 17. Rf3 Qb4 18. Raf1 Qxb2 19. Bc4 Qxc2 20. Bb3 Qb2 21. Rh3
+Bxh6 22. Qxh6 Qd2 23. Rd1 Qf4 24. Rf3 Qxg4 25. Rxd7 Qxf3+ 26. Nxf3 Nxd7 27. h4
+Rc8 28. Ng5 Nf6 29. h5 Rxc3 30. hxg6 1-0

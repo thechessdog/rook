@@ -1,0 +1,16 @@
+[Event "corr GB"]
+[Site "corr GB"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Beach, TJ."]
+[Black "Barber, T."]
+[Result "1-0"]
+[ECO "D80"]
+[Opening "Gruenfeld"]
+[Variation "Stockholm variation"]
+[HashCode "7b2a0b22"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Bg5 Ne4 5. Bh4 c5 6. e3 Nxc3 7. bxc3 Bg7 8. Qb3
+cxd4 9. exd4 O-O 10. cxd5 Qa5 11. Nf3 Bg4 12. Be2 Bxf3 13. Bxf3 Bxd4 14. O-O
+Bxc3 15. Rab1 Na6 16. Bxe7 Nc5 17. Qc4 b6 18. Rb5 1-0

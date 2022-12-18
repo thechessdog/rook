@@ -1,0 +1,24 @@
+[Event "Varna"]
+[Site "Varna"]
+[Date "1982.01.01"]
+[Round "12"]
+[White "Semkov, Semko"]
+[Black "Pokojowczyk, Jerzy"]
+[Result "1/2-1/2"]
+[ECO "E42"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5, 5.Ne2 (Rubinstein)"]
+[HashCode "b0c05650"]
+[Epoch "Rook"]
+[WhiteID "2900068"]
+[WhiteCountry "FID"]
+[BlackID "1100718"]
+[BlackCountry "POL"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Ne2 cxd4 6. exd4 d5 7. c5 Ne4 8. Bd2
+Nxd2 9. Qxd2 a5 10. a3 Bxc3 11. Nxc3 a4 12. Bb5+ Bd7 13. O-O O-O 14. f4 g6 15.
+Rf3 Bc6 16. Kh1 Nd7 17. Bxc6 bxc6 18. Qc2 Qa5 19. g4 Nf6 20. Rg1 Qa6 21. Qf2
+Ne4 22. Nxe4 dxe4 23. Rh3 f6 24. Qe1 Qc4 25. Qxe4 Rab8 26. Qxc6 Rxb2 27. f5 Re2
+28. fxg6 hxg6 29. Qd7 Qd5+ 30. Qxd5 exd5 31. Rc1 Rfe8 32. Rg3 R2e4 33. c6 Rxd4
+34. c7 Rc8 35. Rgc3 Rxg4 36. Rd1 Rg5 37. Rd4 Kf7 38. Rxa4 Ke7 39. Ra6 d4 40.
+Rc1 Rf5 41. Rac6 1/2-1/2

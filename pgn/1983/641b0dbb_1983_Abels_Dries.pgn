@@ -1,0 +1,20 @@
+[Event "corr NBC"]
+[Site "corr NBC"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Abels"]
+[Black "Dries"]
+[Result "0-1"]
+[ECO "C63"]
+[Opening "Ruy Lopez"]
+[Variation "Schliemann defence, Berger variation"]
+[HashCode "641b0dbb"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 f5 4. Nc3 Nf6 5. exf5 Bc5 6. O-O O-O 7. Nxe5
+Nxe5 8. d4 Nfg4 9. h3 Qh4 10. dxc5 Rxf5 11. f4 Qg3 12. hxg4 Nxg4 13. Rf3
+Qh2+ 14. Kf1 Qh1+ 15. Ke2 Qxg2+ 16. Kd3 Ne5+ 17. Ke3 Nxf3 18. Qxf3 Qg1+ 19.
+Qf2 Qh1 20. Qf3 Qe1+ 21. Qe2 Qh4 22. Kd3 Qg3+ 23. Qe3 Qg6 24. Qe4 c6 25.
+Bc4+ Kh8 26. Be3 d5 27. cxd6 Rd5+ 28. Bxd5 Bf5 29. Qxf5 Qxf5+ 30. Be4 Qe6
+0-1
+

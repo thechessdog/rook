@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Perho, M."]
+[Black "Kuro, T."]
+[Result "1-0"]
+[ECO "C64"]
+[Opening "Ruy Lopez"]
+[Variation "Cordel gambit"]
+[HashCode "01fc81b6"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. c3 f5 5. d4 fxe4 6. Bxc6 dxc6 7. Nfd2 Bd6
+8. dxe5 e3 9. exd6 exd2+ 10. Nxd2 Qxd6 11. O-O Nf6 12. Re1+ Kf7 13. Qb3+
+Qd5 14. c4 Qf5 15. Nf3 h6 16. Re5 Qg6 17. c5+ Kf8 18. Nh4 Qh7 19. f4 g6 20.
+Bd2 Qf7 21. Qd3 Kg7 22. Nxg6 Re8 23. Rae1 Rxe5 24. Nxe5 Qh5 25. Qg3+ Kh7
+26. Nd7 1-0
+

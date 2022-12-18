@@ -1,0 +1,19 @@
+[Event "Frunze"]
+[Site "Frunze"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Shneider, Aleksandr"]
+[Black "Mokry, Karel"]
+[Result "1/2-1/2"]
+[ECO "D11"]
+[Opening "QGD Slav"]
+[Variation "3.Nf3"]
+[HashCode "a047d360"]
+[Epoch "Rook"]
+[BlackID "306070"]
+[BlackCountry "CZE"]
+[WhiteID "14100045"]
+[WhiteCountry "UKR"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Qc2 g6 5. Bf4 Bg7 6. e3 O-O 7. Nc3 Bg4 8. Ne5
+Be6 9. cxd5 cxd5 10. Be2 Qa5 11. O-O Rc8 12. Qb3 1/2-1/2

@@ -1,0 +1,21 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Pisani, Carlos"]
+[Black "Gross, Daniel"]
+[Result "1-0"]
+[ECO "C15"]
+[Opening "French"]
+[Variation "Winawer, Alekhine (Maroczy) gambit"]
+[HashCode "0661f4ff"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. Ne2 dxe4 5. a3 Be7 6. Nxe4 Nf6 7. N2g3 O-O
+8. Bd3 Nc6 9. c3 e5 10. Nxf6+ Bxf6 11. d5 Ne7 12. Be4 Ng6 13. Be3 Bg5 14.
+Qh5 Bf4 15. O-O Bd7 16. c4 Qc8 17. Nf5 Bxf5 18. Bxf5 Qd8 19. Rad1 Bxe3 20.
+fxe3 Qd6 21. Rf3 b6 22. Rh3 h6 23. Rf1 Rad8 24. g4 Qe7 25. Be4 Rd6 26. Rf5
+Rf6 27. Rg3 Rd8 28. g5 Rxf5 29. Bxf5 hxg5 30. Bxg6 fxg6 31. Qxg5 Rd7 32.
+Qxe7 Rxe7 33. Rxg6 Kh7 34. Rc6 a5 35. b4 axb4 36. axb4 g6 37. Kf2 Kh6 38.
+Kf3 1-0
+

@@ -1,0 +1,16 @@
+[Event "Virginia"]
+[Site "Virginia"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Chanawangsa"]
+[Black "Krause"]
+[Result "1-0"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Andreaschek gambit"]
+[HashCode "2abca9e6"]
+[Epoch "Rook"]
+
+1. e4 c5 2. d4 cxd4 3. Nf3 e5 4. c3 dxc3 5. Nxc3 d6 6. Bc4 h6 7. Bxf7+ Kxf7
+8. Nxe5+ Kf6 9. Qd4 Ke6 10. Qd5+ Kf6 11. Qf7+ 1-0
+

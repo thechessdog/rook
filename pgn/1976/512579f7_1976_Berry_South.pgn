@@ -1,0 +1,25 @@
+[Event "Ottawa"]
+[Site "Ottawa"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Berry, Jonathan"]
+[Black "South, Robert"]
+[Result "1-0"]
+[ECO "B00"]
+[Opening "KP"]
+[Variation "Nimzovich defence"]
+[HashCode "512579f7"]
+[Epoch "Rook"]
+[BlackID "2600722"]
+[BlackCountry "CAN"]
+[WhiteID "2600463"]
+[WhiteCountry "CAN"]
+
+1. e4 Nc6 2. d4 e5 3. d5 Nce7 4. Bd3 Ng6 5. Be3 Nf6 6. h4 h5 7. f3 b6 8. Ne2
+Bc5 9. Bxc5 bxc5 10. Na3 Rb8 11. Nc4 Ba6 12. Qd2 Bxc4 13. Bxc4 Rb4 14. b3 Qb8
+15. a3 Rb6 16. Nc3 Rd6 17. Qf2 Qb6 18. Nb5 O-O 19. Nxd6 cxd6 20. g3 Ne7 21. O-O
+Ne8 22. b4 Qc7 23. b5 f5 24. Qd2 f4 25. g4 hxg4 26. fxg4 Nf6 27. Qg2 Qa5 28. g5
+Nh5 29. Qg4 Ng3 30. Qxd7 Nxf1 31. Qxe7 Ne3 32. Qe6+ Kh8 33. Qxd6 Rg8 34. Qg6
+Rd8 35. Bf1 Qc3 36. Qh5+ Kg8 37. g6 Qxa1 38. Qh7+ Kf8 39. Qh8+ Ke7 40. Qxg7+
+Kd6 41. Qf6+ Kc7 42. b6+ axb6 43. Qc6+ Kb8 44. Qxb6+ Kc8 45. Qxc5+ Kd7 46. Qc6+
+Ke7 47. Qe6+ Kf8 48. Qf7# 1-0

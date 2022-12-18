@@ -1,0 +1,20 @@
+[Event "Hillerod"]
+[Site "Hillerod"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Poulsen, Allan"]
+[Black "Kristensen, Bjarke Hautop"]
+[Result "0-1"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...g6"]
+[HashCode "e573b83c"]
+[Epoch "Rook"]
+[WhiteID "1400533"]
+[WhiteCountry "DEN"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 g6 6. Qb3 Bg7 7. cxd5 O-O 8.
+Be2 Nbd7 9. Bf3 Ne8 10. Nge2 Nd6 11. Bf4 Nf5 12. Rd1 Nh4 13. Be4 Nf6 14. O-O
+Nxe4 15. Nxe4 Nf5 16. Be5 b6 17. Nf4 Bb7 18. g4 Nd6 19. Bxg7 Kxg7 20. Ng5 Qd7
+21. Qh3 h6 22. Nge6+ fxe6 23. Nxe6+ Kh7 24. Rd3 Nf7 25. Nxf8+ Rxf8 26. f4 Qxd5
+27. Re1 e6 28. Qg3 Ng5 29. h4 Rxf4 30. Kh2 Nf3+ 31. Rxf3 0-1

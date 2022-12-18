@@ -1,0 +1,19 @@
+[Event "Tallinn"]
+[Site "Tallinn"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Ehlvest, Jaan"]
+[Black "Malaniuk, Vladimir P"]
+[Result "0-1"]
+[ECO "D06"]
+[Opening "QGD"]
+[Variation "Grau (Sahovic) defence"]
+[HashCode "9152880f"]
+[Epoch "Rook"]
+[BlackCountry "UKR"]
+[WhiteID "4500016"]
+[WhiteCountry "USA"]
+
+1. d4 d5 2. c4 Bf5 3. cxd5 Bxb1 4. Qa4+ c6 5. Rxb1 Qxd5 6. Nf3 Nd7 7. Bd2 Ngf6
+8. e3 e6 9. Qc2 Ne4 10. Bc4 Qf5 11. Bd3 Ndf6 12. O-O Bd6 13. Be1 Qd5 14. Rd1 a5
+15. Kh1 Bb4 16. Ne5 Nd6 17. Bc3 O-O 18. a3 Bxc3 19. bxc3 0-1

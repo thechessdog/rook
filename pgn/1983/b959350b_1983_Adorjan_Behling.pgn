@@ -1,0 +1,21 @@
+[Event "Lugano op"]
+[Site "Lugano"]
+[Date "1983.??.??"]
+[Round "8"]
+[White "Adorjan, Andras"]
+[Black "Behling, Robert"]
+[Result "1-0"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "classical variation (5.Bf4)"]
+[HashCode "b959350b"]
+[Epoch "Rook"]
+[WhiteID "700096"]
+[BlackID "4603630"]
+[WhiteCountry "HUN"]
+[BlackCountry "GER"]
+
+1. c4 e6 2. Nc3 d5 3. d4 Nf6 4. Nf3 Be7 5. Bf4 O-O 6. e3 c5 7. dxc5 Bxc5 8. a3
+dxc4 9. Qc2 Nd5 10. O-O-O Qa5 11. Nxd5 exd5 12. Ng5 g6 13. Rxd5 Bxe3+ 14. fxe3
+Qxd5 15. Bxc4 Qf5 16. Qc3 Nc6 17. g4 Qa5 18. b4 Qd8 19. Ne4 Re8 20. Nf6+ Kf8
+21. Nxh7+ Ke7 22. Rd1 1-0

@@ -1,0 +1,16 @@
+[Event "Tubingen"]
+[Site "Tubingen"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Schlenker, Rainer"]
+[Black "Geiger, W."]
+[Result "1-0"]
+[ECO "A00"]
+[Opening "Clemenz (Mead's, Basman's or de Klerk's) opening"]
+[HashCode "cd5c720b"]
+[Epoch "Rook"]
+[WhiteID "4605837"]
+[WhiteCountry "GER"]
+
+1. h3 e5 2. Nf3 e4 3. Nh2 d5 4. d3 f5 5. g4 Bc5 6. d4 Bd6 7. Bg2 f4 8. c4 Qh4
+9. c5 e3 10. O-O 1-0

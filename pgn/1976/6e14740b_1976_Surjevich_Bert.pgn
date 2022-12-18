@@ -1,0 +1,18 @@
+[Event "Georgia"]
+[Site "Georgia"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Surjevich, C."]
+[Black "Bert, A."]
+[Result "0-1"]
+[ECO "B12"]
+[Opening "Caro-Kann"]
+[Variation "advance variation"]
+[HashCode "6e14740b"]
+[Epoch "Rook"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 e6 5. Nc3 c5 6. Be2 Ne7 7. Nh4 cxd4 8.
+Qxd4 Nec6 9. Bb5 a6 10. Qa4 axb5 11. Qxa8 Qxh4 12. Qxb7 Bc5 13. Qc8+ Ke7
+14. Qc7+ Nd7 15. O-O Nxe5 16. Be3 Nf3+ 17. gxf3 Bd6 18. Nxd5+ exd5 19.
+Qxd6+ Kxd6 20. a3 Ne5 0-1
+

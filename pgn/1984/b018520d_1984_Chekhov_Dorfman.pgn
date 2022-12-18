@@ -1,0 +1,19 @@
+[Event "Lvov ch-URS"]
+[Site "Lvov ch-URS"]
+[Date "1984.04.01"]
+[Round "1"]
+[White "Chekhov, Valery A"]
+[Black "Dorfman, Iossif"]
+[Result "1/2-1/2"]
+[ECO "E41"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5"]
+[HashCode "b018520d"]
+[Epoch "Rook"]
+[WhiteID "4100859"]
+[WhiteCountry "RUS"]
+[BlackCountry "FRA"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 Nc6 6. Ne2 d5 7. O-O dxc4 8. Bxc4
+cxd4 9. exd4 O-O 10. a3 Be7 11. Qd3 a6 12. Rd1 b5 13. Ba2 b4 14. Na4 Qa5 15.
+Bb3 Qb5 16. Bc2 Bb7 17. Be3 1/2-1/2

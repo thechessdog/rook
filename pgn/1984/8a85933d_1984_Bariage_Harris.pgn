@@ -1,0 +1,19 @@
+[Event "corr USA/K"]
+[Site "corr USA/K"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Bariage"]
+[Black "Harris"]
+[Result "0-1"]
+[ECO "C08"]
+[Opening "French"]
+[Variation "Tarrasch, open, 4.ed ed"]
+[HashCode "8a85933d"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. exd5 exd5 5. Bb5+ Nc6 6. Qe2+ Be7 7. dxc5
+Nf6 8. Nb3 O-O 9. Be3 a6 10. Bxc6 bxc6 11. Nf3 a5 12. a4 Re8 13. Nfd4 Qc7
+14. O-O-O Ne4 15. f3 Nxc5 16. Nxc5 Bxc5 17. Qf2 Ba6 18. Rd2 Bb4 19. c3 c5
+20. Nb5 Bxb5 21. cxb4 d4 22. Bg5 Bxa4 23. Re1 Rxe1+ 24. Qxe1 axb4 25. Re2
+Bb5 26. Re7 Qa5 0-1
+

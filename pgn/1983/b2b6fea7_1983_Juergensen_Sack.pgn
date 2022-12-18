@@ -1,0 +1,23 @@
+[Event "BL2-N 8283"]
+[Site "BL2-N 8283"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Juergensen, Michael"]
+[Black "Sack, Bruno Wolfgang"]
+[Result "0-1"]
+[ECO "B31"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (with ...g6, without ...d6)"]
+[HashCode "b2b6fea7"]
+[Epoch "Rook"]
+[WhiteID "4606930"]
+[WhiteCountry "GER"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. c3 e5 6. d4 cxd4 7. cxd4 exd4 8.
+Na3 Nge7 9. Bf4 O-O 10. Bd6 a6 11. Bc4 h6 12. Qd2 b5 13. Bd5 Bb7 14. Nc2 Re8
+15. Bxe7 Qxe7 16. Rfe1 Rac8 17. Rac1 d6 18. Kf1 Rc7 19. b3 Rec8 20. Ncxd4 Nxd4
+21. Rxc7 Qxc7 22. Nxd4 Qb6 23. Ne2 Bxd5 24. Qxd5 Rc2 25. a4 bxa4 26. bxa4 Rc5
+27. Qa8+ Kh7 28. Qe8 Qb7 29. Qd8 Qxe4 30. Qxd6 Rg5 31. Ng3 Qc4+ 32. Kg1 Qxa4
+33. h4 Qxh4 34. Re4 Rg4 35. Rxg4 Qxg4 36. Qxa6 h5 37. Qd3 Be5 38. Ne4 Qf4 39.
+g3 Qc1+ 40. Kg2 Qc6 41. Kg1 Kg7 42. f4 Qb6+ 43. Kg2 Bd4 44. Kf3 Bf6 45. Qc2 Qe6
+46. Qc6 Qxc6 0-1

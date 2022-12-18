@@ -1,0 +1,19 @@
+[Event "Mauricie"]
+[Site "Mauricie"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Gelinas, Renaud"]
+[Black "Deschesnes, Steve"]
+[Result "1-0"]
+[ECO "B92"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Opovcensky variation"]
+[HashCode "a6e0cbab"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 Nf6 4. Nc3 cxd4 5. Nxd4 a6 6. Be2 e5 7. Nb3 Be7 8.
+Be3 O-O 9. O-O Nc6 10. f4 exf4 11. Rxf4 Be6 12. Nd4 Nxd4 13. Bxd4 Qc7 14.
+Qe1 Nd7 15. Qg3 Ne5 16. Bd3 Qc6 17. Raf1 b5 18. Kh1 b4 19. Nd5 Bxd5 20.
+exd5 Qxd5 21. Be4 Qxa2 22. Bxa8 Rxa8 23. Bxe5 dxe5 24. Rxf7 Qxf7 25. Rxf7
+Kxf7 26. Qf3+ Bf6 27. Qxa8 1-0
+

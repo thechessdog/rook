@@ -1,0 +1,18 @@
+[Event "IBM-C"]
+[Site "Amsterdam"]
+[Date "1980.??.??"]
+[Round "?"]
+[White "Duer, Arne"]
+[Black "De Boer, Gert-Jan"]
+[Result "1-0"]
+[ECO "B07"]
+[Opening "Pirc"]
+[Variation "Sveshnikov system"]
+[HashCode "f81b90cb"]
+[Epoch "Rook"]
+[WhiteID "1600117"]
+[WhiteCountry "AUT"]
+[BlackCountry "NED"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. g3 Bg7 5. Bg2 O-O 6. Nge2 e5 7. O-O Nc6 8. dxe5
+dxe5 9. Bg5 Nd4 10. Nxd4 exd4 11. Nd5 c6 12. e5 cxd5 13. Qxd4 1-0

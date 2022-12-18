@@ -1,0 +1,20 @@
+[Event "HUN-ch"]
+[Site "Budapest"]
+[Date "1978.??.??"]
+[Round "?"]
+[White "Pinter, Jozsef"]
+[Black "Szekely, Peter"]
+[Result "1/2-1/2"]
+[ECO "E52"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line with ...b6"]
+[HashCode "9ce686ae"]
+[Epoch "Rook"]
+[WhiteID "700045"]
+[BlackID "14937492"]
+[WhiteCountry "HUN"]
+[BlackCountry "SVK"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 b6 7. O-O Bb7 8. cxd5
+exd5 9. Ne5 Nbd7 10. f4 c5 11. Bd2 Qe7 12. Be1 cxd4 13. exd4 Bxc3 14. bxc3 Ne4
+15. Qb3 Ndf6 16. a4 Qc7 17. Rc1 1/2-1/2

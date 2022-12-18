@@ -1,0 +1,19 @@
+[Event "Reykjavik op"]
+[Site "Reykjavik op"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Thorsteins, Karl"]
+[Black "Jonasson, Benedikt"]
+[Result "1/2-1/2"]
+[ECO "E41"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5"]
+[HashCode "4a2c8782"]
+[Epoch "Rook"]
+[WhiteID "2300060"]
+[WhiteCountry "ISL"]
+[BlackID "2300338"]
+[BlackCountry "ISL"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 d5 6. Ne2 cxd4 7. exd4 dxc4 8.
+Bxc4 O-O 9. O-O Nbd7 10. a3 Be7 1/2-1/2

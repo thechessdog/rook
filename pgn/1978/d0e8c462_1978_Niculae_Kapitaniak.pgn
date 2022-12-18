@@ -1,0 +1,18 @@
+[Event "Mamaia"]
+[Site "Mamaia"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Niculae"]
+[Black "Kapitaniak, Thomas"]
+[Result "0-1"]
+[ECO "C40"]
+[Opening "Latvian"]
+[Variation "Polerio variation"]
+[HashCode "d0e8c462"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 f5 3. Bc4 fxe4 4. Nxe5 d5 5. Qh5+ g6 6. Nxg6 hxg6 7. Qxg6+
+Kd7 8. Bxd5 Nf6 9. Nc3 Qe7 10. b3 Rh6 11. Qg5 Rh5 12. Qg3 Qh7 13. Bb2 Bd6
+14. Qe3 Rxh2 15. Rxh2 Qxh2 16. O-O-O Nxd5 17. Nxd5 Qxg2 18. Bf6 b6 19. Qh6
+Kc6 20. Ne7+ 0-1
+

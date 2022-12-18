@@ -1,0 +1,19 @@
+[Event "corr EU"]
+[Site "corr EU"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Schleiss"]
+[Black "Van der Kooij"]
+[Result "0-1"]
+[ECO "D94"]
+[Opening "Gruenfeld with e3    Bd3"]
+[HashCode "21c9d64f"]
+[Epoch "Rook"]
+[BlackID "1011812"]
+[BlackCountry "NED"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. e3 Bg7 5. Nf3 O-O 6. Bd3 c5 7. O-O cxd4 8. exd4
+Nc6 9. h3 dxc4 10. Bxc4 Bf5 11. Bg5 Ne4 12. Nd5 Nxg5 13. Nxg5 e6 14. Ne3 Qxg5
+15. Nxf5 Qxf5 16. Qb3 Na5 17. Qb4 Nxc4 18. Qxc4 Rfd8 19. Rfd1 Qe4 20. Rac1 Bxd4
+21. Re1 Qf5 22. Qe2 Rac8 23. Red1 Rxc1 24. Rxc1 e5 25. Rc2 Rc8 26. Rd2 Qb1+ 27.
+Kh2 Qxa2 28. f4 Qc4 29. fxe5 Qxe2 30. Rxe2 Re8 0-1

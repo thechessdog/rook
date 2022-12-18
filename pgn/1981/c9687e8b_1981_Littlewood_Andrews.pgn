@@ -1,0 +1,17 @@
+[Event "England"]
+[Site "England"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Littlewood, Paul E"]
+[Black "Andrews, B."]
+[Result "1-0"]
+[ECO "D25"]
+[Opening "QGA, Janowsky-Larsen variation"]
+[HashCode "c9687e8b"]
+[Epoch "Rook"]
+[WhiteID "400190"]
+[WhiteCountry "ENG"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. e3 Bg4 5. Bxc4 e6 6. h3 Bh5 7. Nc3 a6 8. O-O
+Nbd7 9. e4 e5 10. g4 exd4 11. gxh5 dxc3 12. e5 cxb2 13. exf6 bxa1=Q 14. Bxf7+
+Kxf7 15. Qd5+ Ke8 16. f7+ Ke7 17. Re1+ Ne5 18. Bg5# 1-0

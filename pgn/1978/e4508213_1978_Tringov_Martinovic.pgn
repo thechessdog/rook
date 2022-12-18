@@ -1,0 +1,19 @@
+[Event "Trstenik"]
+[Site "Trstenik"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Tringov, Georgi P"]
+[Black "Martinovic, Slobodan"]
+[Result "1-0"]
+[ECO "B96"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7.f4"]
+[HashCode "e4508213"]
+[Epoch "Rook"]
+[WhiteCountry "BGR"]
+[BlackCountry "SRB"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 h6 8. Bh4
+Be7 9. Qf3 Nbd7 10. O-O-O Qc7 11. Be2 Rb8 12. Qg3 b5 13. e5 dxe5 14. Nxe6 fxe6
+15. Qg6+ Kf8 16. f5 Nc5 17. Rhf1 h5 18. Bxh5 Rxh5 19. Bxf6 Bxf6 20. Qxh5 Qf7
+21. Qh8+ Qg8 22. Rd8+ Bxd8 23. fxe6+ Bf6 24. e7+ Kf7 25. Qxg8+ Kxg8 1-0

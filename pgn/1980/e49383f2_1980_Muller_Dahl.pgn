@@ -1,0 +1,16 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Muller, M."]
+[Black "Dahl, H."]
+[Result "1-0"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack, Veresov variation"]
+[HashCode "e49383f2"]
+[Epoch "Rook"]
+
+1. d4 d5 2. Nc3 Nf6 3. Bg5 Bf5 4. Bxf6 exf6 5. e3 c6 6. Bd3 Qc8 7. Nge2 Bd6
+8. Ng3 Bxd3 9. Qxd3 g6 10. e4 dxe4 11. Ngxe4 Be7 12. d5 f5 13. d6 fxe4 14.
+Qd4 O-O 15. dxe7 Re8 16. Nxe4 Rxe7 17. O-O-O Nd7 18. Rhe1 Qf8 19. Qb4 1-0
+

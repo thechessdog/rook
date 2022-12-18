@@ -1,0 +1,18 @@
+[Event "Prague"]
+[Site "Prague"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Abramovic, Bosko"]
+[Black "Kirov, Nino"]
+[Result "1/2-1/2"]
+[ECO "C47"]
+[Opening "Four knights"]
+[Variation "Scotch, 4...exd4"]
+[HashCode "4e6d6161"]
+[Epoch "Rook"]
+[BlackCountry "BGR"]
+[WhiteID "900206"]
+[WhiteCountry "SRB"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. d4 exd4 5. Nxd4 Bb4 6. Nxc6 bxc6 7. Bd3 O-O
+8. O-O d5 9. exd5 1/2-1/2

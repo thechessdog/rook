@@ -1,0 +1,18 @@
+[Event "corr EUR/H"]
+[Site "corr EUR/H"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Villarin"]
+[Black "Jung"]
+[Result "1-0"]
+[ECO "C64"]
+[Opening "Ruy Lopez"]
+[Variation "Cordel gambit"]
+[HashCode "fd761474"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. c3 f5 5. exf5 Qf6 6. d4 exd4 7. O-O Nge7
+8. Bg5 Qxf5 9. Bxc6 dxc6 10. Re1 dxc3 11. Nxc3 Qd7 12. Qe2 Kf8 13. Rad1 Qe8
+14. Qc4 b6 15. Qf4+ Kg8 16. Bxe7 Bxe7 17. Qxc7 Kf8 18. Rxe7 Qxe7 19. Rd8+
+Kf7 20. Ng5+ Kf6 21. Nce4+ 1-0
+

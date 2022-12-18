@@ -1,0 +1,18 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Zilberstein, Valery I"]
+[Black "Tskitishvili"]
+[Result "1-0"]
+[ECO "C11"]
+[Opening "French"]
+[Variation "Steinitz variation"]
+[HashCode "1e2bc966"]
+[Epoch "Rook"]
+[WhiteCountry "RUS"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. Nf3 c5 6. dxc5 Bxc5 7. Bd3 Nc6 8.
+Bf4 a6 9. O-O b5 10. Re1 Qb6 11. Bg3 Nd4 12. Ng5 h6 13. Qh5 O-O 14. Nh7 Re8 15.
+Nf6+ gxf6 16. exf6 Bf8 17. Bh7+ Kxh7 18. Qxf7+ Kh8 19. Nxd5 Qc5 20. Nf4 Qf5 21.
+Ng6+ 1-0

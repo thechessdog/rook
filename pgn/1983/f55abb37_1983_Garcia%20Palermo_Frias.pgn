@@ -1,0 +1,19 @@
+[Event "Bayamo"]
+[Site "Bayamo"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Garcia Palermo, Carlos"]
+[Black "Frias, Victor J"]
+[Result "1/2-1/2"]
+[ECO "E41"]
+[Opening "Nimzo-Indian"]
+[Variation "e3, Huebner variation"]
+[HashCode "f55abb37"]
+[Epoch "Rook"]
+[WhiteID "110124"]
+[WhiteCountry "ITA"]
+[BlackCountry "CHL"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 Nc6 6. Nf3 Bxc3+ 7. bxc3 d6 8.
+Nd2 e5 9. Nb3 Qe7 10. O-O O-O 11. Bd2 Re8 12. Qc2 Bg4 13. f3 e4 14. Be2 Bh5 15.
+Rae1 Rac8 16. Qb2 Nd7 17. Qa3 f5 1/2-1/2

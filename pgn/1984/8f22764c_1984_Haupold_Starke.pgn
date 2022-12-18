@@ -1,0 +1,24 @@
+[Event "corr ch-DDR"]
+[Site "corr ch-DDR"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Haupold, E."]
+[Black "Starke"]
+[Result "0-1"]
+[ECO "B07"]
+[Opening "Pirc"]
+[Variation "Byrne variation"]
+[HashCode "8f22764c"]
+[Epoch "Rook"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Bg5 c6 5. Bc4 Bg7 6. f3 Nbd7 7. Nge2 b5 8.
+Bb3 a6 9. O-O Bb7 10. Qd2 c5 11. a4 b4 12. Nd1 a5 13. c3 Ba6 14. Ne3 h6 15.
+Bh4 O-O 16. Bf2 Nb6 17. Bc2 e5 18. d5 Nh5 19. Rfe1 Bxe2 20. Rxe2 Nf4 21.
+Ree1 h5 22. c4 f5 23. b3 h4 24. Rad1 Bh6 25. Kh1 Qg5 26. Rg1 h3 27. gxh3
+Qh5 28. Rg3 Kh8 29. h4 Nc8 30. Rdg1 Ne7 31. Qd1 Rf7 32. Ng2 Rg8 33. Be3 Rh7
+34. Bf2 Rf8 35. Bb1 g5 36. Bc2 g4 37. fxg4 fxg4 38. Nxf4 Bxf4 39. Rxg4 Bxh2
+40. R1g2 Bf4 41. Qg1 Rhf7 42. Bd1 Qh7 43. Qe1 Ng8 44. Rg6 Nf6 45. Bc2 Nh5
+46. Qe2 Bc1 47. Rxd6 Nf4 48. Bg3 Bb2 49. Bxf4 Rxf4 50. h5 Rf1+ 51. Kh2 Bc1
+52. Rdg6 Bf4+ 53. R6g3 Bxg3+ 54. Kxg3 Qh6 55. Bd1 Qf4+ 56. Kh3 Rh1+ 57. Rh2
+Rg8 0-1
+

@@ -1,0 +1,17 @@
+[Event "Wilkesboro,NC"]
+[Site "Wilkesboro,NC"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Wall, Bill"]
+[Black "Lewis, Phil"]
+[Result "1-0"]
+[ECO "C37"]
+[Opening "KGA"]
+[Variation "Muzio gambit"]
+[HashCode "6a6d7e3a"]
+[Epoch "Rook"]
+[WhiteCountry "USA"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. Bc4 g4 5. O-O gxf3 6. Qxf3 Bc5+ 7. Kh1 b6 8.
+Qxf4 f6 9. e5 d5 10. exf6 Nxf6 11. Re1+ Be7 12. Qxf6 Rf8 13. Bb5+ c6 14. Bxc6+
+Nxc6 15. Qxc6+ Bd7 16. Qxd5 Rf2 17. Qg8+ Rf8 18. Qxh7 1-0

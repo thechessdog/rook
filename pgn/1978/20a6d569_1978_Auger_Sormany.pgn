@@ -1,0 +1,18 @@
+[Event "Chicoutimi"]
+[Site "Chicoutimi"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Auger, Bertrand"]
+[Black "Sormany, Jacques"]
+[Result "1-0"]
+[ECO "A40"]
+[Opening "Queen's pawn"]
+[Variation "Charlick (Englund) gambit"]
+[HashCode "20a6d569"]
+[Epoch "Rook"]
+[WhiteID "2611945"]
+[WhiteCountry "CAN"]
+
+1. d4 e5 2. dxe5 Nc6 3. Nf3 Qe7 4. Nc3 Nxe5 5. e4 Nf6 6. Bg5 c6 7. Qd4 Nxf3+ 8.
+gxf3 d5 9. O-O-O Qe6 10. exd5 Nxd5 11. Nxd5 Qxd5 12. Qe5+ Be6 13. Rxd5 cxd5 14.
+Bb5# 1-0

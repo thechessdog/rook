@@ -1,0 +1,18 @@
+[Event "Reggio Emilia8081"]
+[Site "Reggio Emilia"]
+[Date "1980.01.01"]
+[Round "12"]
+[White "Wittmann, Walter"]
+[Black "Evangelisti, Claudio"]
+[Result "1/2-1/2"]
+[ECO "C77"]
+[Opening "Ruy Lopez"]
+[Variation "Morphy defence"]
+[HashCode "c3b45804"]
+[Epoch "Rook"]
+[WhiteID "1600060"]
+[WhiteCountry "AUT"]
+[BlackCountry "ITA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. d4 exd4 6. O-O Be7 7. Re1 O-O 8. e5
+Ne8 9. Bf4 f6 10. Bxc6 bxc6 11. Qxd4 1/2-1/2

@@ -1,0 +1,17 @@
+[Event "Pernik"]
+[Site "Pernik"]
+[Date "1984.??.??"]
+[Round "2"]
+[White "Antonov, Vladimir"]
+[Black "Szekely, Peter"]
+[Result "1/2-1/2"]
+[ECO "B87"]
+[Opening "Sicilian"]
+[Variation "Sozin with ...a6 and ...b5"]
+[HashCode "f8023449"]
+[Epoch "Rook"]
+[BlackID "14937492"]
+[BlackCountry "SVK"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 b5 8. O-O
+Be7 9. f4 Bb7 10. Be3 b4 11. e5 bxc3 12. exf6 Bxf6 13. f5 e5 1/2-1/2

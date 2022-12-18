@@ -1,0 +1,22 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Neubert"]
+[Black "Scholtz"]
+[Result "1-0"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Paulsen attack"]
+[HashCode "5729b667"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. a3 c4 7. Nbd2 Na5 8. Be2
+Ne7 9. O-O Bd7 10. a4 Rc8 11. Ne1 g6 12. g4 g5 13. Ng2 Ng6 14. Qe1 Be7 15.
+Bd1 f5 16. exf6 Bxf6 17. Nf3 h6 18. Bc2 Ne7 19. Ne5 Nac6 20. Nxc6 Nxc6 21.
+Ne3 O-O 22. Qd1 Ne7 23. Ng2 e5 24. dxe5 Bxe5 25. Qe2 Qd6 26. h4 gxh4 27. f4
+h3 28. Rf3 hxg2 29. fxe5 Qe6 30. Rg3 Nc6 31. Qxg2 Nxe5 32. Bf5 Qd6 33. Bf4
+Rce8 34. Rd1 Bc6 35. Rd4 Rf7 36. Rh3 Qe7 37. Rxh6 Nd3 38. Be6 Qxe6 39. Rxe6
+Rxe6 40. Bg3 Ne1 41. Bxe1 Rxe1+ 42. Kh2 Rfe7 43. Rf4 d4 44. Qf2 Rh7+ 45.
+Kg3 Re3+ 1-0
+

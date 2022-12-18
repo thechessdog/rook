@@ -1,0 +1,18 @@
+[Event "corr ch-NLD"]
+[Site "corr ch-NLD"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Mol"]
+[Black "Fitie"]
+[Result "1/2-1/2"]
+[ECO "C67"]
+[Opening "Ruy Lopez"]
+[Variation "open Berlin defence, 5...Be7"]
+[HashCode "a394f91b"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Be7 6. Qe2 Nd6 7. Bxc6
+bxc6 8. dxe5 Nb7 9. Nc3 O-O 10. Re1 d5 11. Bg5 Qd7 12. Ne4 c5 13. Rad1 Qc6
+14. Nd6 cxd6 15. Qd3 Bg4 16. Bxe7 Bxf3 17. Qxf3 Rfe8 18. Kf1 Rac8 19. Bg5
+1/2-1/2
+

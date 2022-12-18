@@ -1,0 +1,21 @@
+[Event "Lido op"]
+[Site "Venice"]
+[Date "1980.??.??"]
+[Round "8"]
+[White "Martonelli, A."]
+[Black "Joksic, Sinisa"]
+[Result "0-1"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (without ...d6)"]
+[HashCode "615548c5"]
+[Epoch "Rook"]
+[BlackCountry "SRB"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 Nf6 4. e5 Nd5 5. Nc3 Nc7 6. Bxc6 dxc6 7. h3 h6 8.
+Ne4 b6 9. O-O g5 10. g4 h5 11. Nfxg5 hxg4 12. hxg4 Rh4 13. Re1 Bxg4 14. f3 Qd4+
+15. Kg2 Bf5 16. d3 Qxe5 17. f4 Bxe4+ 18. dxe4 Qg7 19. Rh1 Rd8 20. Qe2 Rxh1 21.
+Kxh1 Rd6 22. Nf3 Qg4 23. f5 Bg7 24. c3 c4 25. Bg5 Rd3 26. Rf1 Nb5 27. Qg2 Qxg2+
+28. Kxg2 Nd6 29. Re1 b5 30. Nh4 Bf6 31. Bxf6 Rd2+ 32. Kf3 exf6 33. e5 fxe5 34.
+Rxe5+ Kd8 35. Ke3 Rxb2 36. a3 Rc2 37. Kd4 Rd2+ 38. Kc5 Kd7 39. f6 Nb7+ 40. Kb4
+a5# 0-1

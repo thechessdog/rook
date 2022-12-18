@@ -1,0 +1,19 @@
+[Event "Kopenhagen open"]
+[Site "Kopenhagen open"]
+[Date "1980.06.01"]
+[Round "1"]
+[White "Poulsen, Allan"]
+[Black "Kristiansen, Jens"]
+[Result "1/2-1/2"]
+[ECO "A30"]
+[Opening "English"]
+[Variation "symmetrical, hedgehog system"]
+[HashCode "ef0d6253"]
+[Epoch "Rook"]
+[WhiteID "1400533"]
+[BlackID "1400061"]
+[WhiteCountry "DEN"]
+[BlackCountry "DEN"]
+
+1. c4 Nf6 2. Nc3 c5 3. g3 e6 4. Nf3 b6 5. Bg2 Bb7 6. O-O Be7 7. b3 O-O 8. Bb2
+d5 9. cxd5 Nxd5 10. Nxd5 Bxd5 11. d3 Nd7 12. Qd2 1/2-1/2

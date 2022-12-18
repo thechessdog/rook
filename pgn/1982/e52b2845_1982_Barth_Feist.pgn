@@ -1,0 +1,18 @@
+[Event "FRG Hochschul-ch"]
+[Site "Aachen"]
+[Date "1982.??.??"]
+[Round "2.7"]
+[White "Barth, Norbert, Dr."]
+[Black "Feist"]
+[Result "0-1"]
+[ECO "C89"]
+[Opening "Ruy Lopez"]
+[Variation "Marshall counter-attack, 11...c6"]
+[HashCode "e52b2845"]
+[Epoch "Rook"]
+[WhiteID "4630025"]
+[WhiteCountry "GER"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. c3
+d5 9. exd5 Nxd5 10. Nxe5 Nxe5 11. Rxe5 c6 12. g3 Bd6 13. Re1 Nf4 14. gxf4 Bxf4
+15. Qf3 Qh4 16. Qg2 Bh3 17. Qxc6 Bxh2+ 18. Kh1 Qxf2 19. Rd1 Bg3 0-1

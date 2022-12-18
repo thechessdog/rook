@@ -1,0 +1,17 @@
+[Event "Hastings"]
+[Site "Hastings"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Farrand"]
+[Black "Johansen, D."]
+[Result "0-1"]
+[ECO "C25"]
+[Opening "Vienna"]
+[Variation "Hamppe-Muzio gambit"]
+[HashCode "a19b05e7"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nc3 Nc6 3. f4 exf4 4. Nf3 g5 5. Bc4 g4 6. O-O gxf3 7. Qxf3 Qg5
+8. Nd5 Nd4 9. Qd1 Nf6 10. Nxc7+ Kd8 11. d3 Rg8 12. g3 Nh5 13. Bxf7 Nxg3 14.
+Bxg8 Nxf1+ 15. Kxf1 d5 16. Kf2 Bc5 17. c3 Bg4 18. cxd4 Qh4+ 0-1
+

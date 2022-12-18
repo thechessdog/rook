@@ -1,0 +1,17 @@
+[Event "New Hampshire"]
+[Site "New Hampshire"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Dyke"]
+[Black "Morata"]
+[Result "1-0"]
+[ECO "C35"]
+[Opening "KGA"]
+[Variation "Cunningham, three pawns gambit"]
+[HashCode "f56cd46d"]
+[Epoch "Rook"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 Be7 4. Bc4 Bh4+ 5. g3 fxg3 6. O-O gxh2+ 7. Kh1
+Nh6 8. d4 d5 9. Bxd5 Bh3 10. Bxh6 Bxf1 11. Qxf1 gxh6 12. Bxf7+ Kxf7 13.
+Ne5+ Ke7 14. Qf7+ Kd6 15. Nc4+ Kc6 16. Qe6+ Kb5 17. Nc3+ Kb4 18. a3# 1-0
+

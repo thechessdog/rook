@@ -1,0 +1,20 @@
+[Event "corr Wcup3"]
+[Site "corr Wcup3"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Tomkowicz"]
+[Black "Rosinov"]
+[Result "1-0"]
+[ECO "C69"]
+[Opening "Ruy Lopez"]
+[Variation "exchange, Bronstein variation"]
+[HashCode "73921a25"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O Qd6 6. d4 exd4 7. Qxd4
+Qxd4 8. Nxd4 Bd7 9. Be3 O-O-O 10. c4 Ne7 11. c5 Ng6 12. Nf3 h6 13. Nc3 Be7
+14. Rad1 Bg4 15. h3 Bxf3 16. gxf3 Bf6 17. f4 Bxc3 18. bxc3 f6 19. f3 Rxd1
+20. Rxd1 Rd8 21. Rc1 Rd7 22. Kf2 Rd3 23. Rg1 Nf8 24. Rxg7 Kd8 25. Bd4 Rd2+
+26. Ke3 Rxa2 27. Bxf6+ Ke8 28. f5 Nd7 29. Re7+ Kd8 30. Bh4 Rh2 31. Re6+ Nf6
+32. Rxf6 1-0
+

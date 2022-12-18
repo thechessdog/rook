@@ -1,0 +1,19 @@
+[Event "US Open"]
+[Site "US Open"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Burns, Robert Jr"]
+[Black "Terry, Gary"]
+[Result "1-0"]
+[ECO "B92"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Opovcensky variation"]
+[HashCode "3ce05b54"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8.
+O-O O-O 9. a4 Be6 10. f4 Qc7 11. Be3 Nbd7 12. Kh1 Rfd8 13. a5 Bxb3 14. cxb3
+Nc5 15. Bc4 Rd7 16. Nd5 Nxd5 17. Bxd5 exf4 18. Bd4 Re8 19. Rxf4 Bf8 20. Rh4
+Ne6 21. Bb6 Qb8 22. Qh5 h6 23. Rf1 g6 24. Rg4 Bg7 25. Rxg6 fxg6 26. Qxg6
+Rde7 27. Bd4 Qc8 28. h4 Rf8 29. Bxe6+ Qxe6 30. Rxf8+ Kxf8 31. Bxg7+ 1-0
+

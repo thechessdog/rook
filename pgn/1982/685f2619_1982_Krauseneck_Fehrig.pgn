@@ -1,0 +1,23 @@
+[Event "Bundesliga 8182"]
+[Site "Duitsland tt"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Krauseneck, Peter, Prof. Dr."]
+[Black "Fehrig, Andreas"]
+[Result "1/2-1/2"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (without ...d6)"]
+[HashCode "685f2619"]
+[Epoch "Rook"]
+[WhiteID "4602986"]
+[WhiteCountry "GER"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 e6 4. Bxc6 bxc6 5. e5 d5 6. exd6 Bxd6 7. d3 e5 8. h3
+Ne7 9. Nc3 O-O 10. Bd2 Nf5 11. O-O Nd4 12. Re1 f6 13. Ne4 Be6 14. c3 Nxf3+ 15.
+Qxf3 c4 16. dxc4 Bxc4 17. b3 Bd5 18. c4 Bxe4 19. Qxe4 Bc5 20. Be3 Qb6 21. Rad1
+Rad8 22. Bxc5 Qxc5 23. Qg4 f5 24. Qg5 Rd4 25. Rxd4 Qxd4 26. Qe7 e4 27. Qe6+ Kh8
+28. Qxc6 Qd2 29. Rf1 Qxa2 30. Qc5 Rb8 31. b4 h6 32. b5 Rd8 33. Qe7 Rc8 34. c5
+Qc4 35. Qxa7 Qxb5 36. Rc1 Qb2 37. Rd1 e3 38. fxe3 Qe2 39. Rd5 Qxe3+ 40. Kh1 f4
+41. Qf7 Re8 42. Rd1 Qe2 43. Rg1 Rc8 44. Qxf4 Qc2 45. Rc1 Qg6 46. Qf3 Rc6 47.
+Kh2 Qe6 48. Qf4 Qc8 49. Qe5 Qf8 50. Rc3 Qc8 51. Rg3 Qf8 1/2-1/2

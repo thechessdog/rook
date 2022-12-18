@@ -1,0 +1,24 @@
+[Event "Lugano"]
+[Site "Lugano"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Soos, Bela"]
+[Black "Nikolaiczuk"]
+[Result "0-1"]
+[ECO "A67"]
+[Opening "Benoni"]
+[Variation "Taimanov variation"]
+[HashCode "d39da3ea"]
+[Epoch "Rook"]
+[WhiteID "4601670"]
+[WhiteCountry "GER"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. f4 Bg7 8. Bb5+
+Nfd7 9. a4 O-O 10. Nf3 Na6 11. O-O Nb4 12. Be3 a6 13. Bc4 Nb6 14. Be2 Bg4 15.
+a5 Nd7 16. h3 Bxf3 17. Bxf3 Re8 18. Bf2 Rc8 19. Bg4 Qc7 20. e5 dxe5 21. d6 Qc6
+22. fxe5 Rcd8 23. Bf3 Qc8 24. Bh4 Bxe5 25. Bxd8 Bd4+ 26. Kh1 Qxd8 27. Nd5 Nxd5
+28. Bxd5 Nf6 29. Qb3 Rf8 30. Bxb7 Qxd6 31. Rad1 Kg7 32. Qd3 Qc7 33. Bf3 Qxa5
+34. b3 Rb8 35. Qc2 Qb6 36. Rd3 Re8 37. Qc4 a5 38. Bd5 Qd6 39. Bf3 h5 40. Qb5
+Qf4 41. Be2 Qe5 42. Bf3 g5 43. Qb7 Re7 44. Qc8 Qf4 45. Be2 Qe4 46. Rg3 Qh4 47.
+Rgf3 Rxe2 48. Qf5 Re1 49. Kh2 Rxf1 50. Rxf1 Ng4+ 51. Kh1 Nf2+ 52. Kh2 g4 53.
+Qf4 g3+ 54. Qxg3+ Ng4+ 0-1

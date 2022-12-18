@@ -1,0 +1,17 @@
+[Event "Johannesburg"]
+[Site "Johannesburg"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Foley"]
+[Black "Williams"]
+[Result "1-0"]
+[ECO "B10"]
+[Opening "Caro-Kann"]
+[Variation "anti-anti-Caro-Kann defence"]
+[HashCode "c639bb08"]
+[Epoch "Rook"]
+
+1. e4 c6 2. c4 d5 3. cxd5 cxd5 4. exd5 Nf6 5. Bb5+ Bd7 6. Bc4 b5 7. Bb3 Bf5
+8. d3 Nxd5 9. Qf3 e6 10. Nc3 Bb4 11. Ne2 Na6 12. O-O Nac7 13. Nxd5 Nxd5 14.
+Nd4 Ne7 15. Nxf5 Nxf5 16. Qc6+ Ke7 17. Bg5+ 1-0
+

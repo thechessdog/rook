@@ -1,0 +1,19 @@
+[Event "IBM"]
+[Site "Amsterdam"]
+[Date "1976.07.01"]
+[Round "15"]
+[White "Velimirovic, Dragoljub"]
+[Black "Gipslis, Aivars"]
+[Result "1/2-1/2"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...g6"]
+[HashCode "ca6d32af"]
+[Epoch "Rook"]
+[WhiteCountry "SRB"]
+[BlackCountry "LVA"]
+
+1. e4 d5 2. exd5 Nf6 3. c4 c6 4. d4 cxd5 5. Nc3 g6 6. cxd5 Nxd5 7. Qb3 Nb6 8.
+Bb5+ Bd7 9. a4 Nc6 10. Nf3 Na5 11. Qb4 Nc6 12. Qb3 Na5 13. Qa2 Bxb5 14. axb5
+Nac4 15. O-O Bg7 16. Re1 O-O 17. Bg5 Re8 18. Ne5 Rc8 19. Rad1 a6 20. bxa6 bxa6
+21. Bc1 a5 22. h4 1/2-1/2

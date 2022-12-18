@@ -1,0 +1,22 @@
+[Event "Bundesliga 8182"]
+[Site "Duitsland tt"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Zieher, Hartmut"]
+[Black "Huenerkopf, Heinz"]
+[Result "0-1"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Byrne (English) attack"]
+[HashCode "ff295bea"]
+[Epoch "Rook"]
+[WhiteID "4607821"]
+[WhiteCountry "GER"]
+[BlackID "4603443"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e5 7. Nb3 Be6 8. Qd2
+Nbd7 9. f3 b5 10. g4 Nb6 11. g5 Nfd7 12. Na5 Qc7 13. a3 Rb8 14. h4 Be7 15. Bh3
+Bd8 16. O-O-O Bxh3 17. Rxh3 Na4 18. Nd5 Qc8 19. Rh2 b4 20. axb4 Bxa5 21. bxa5
+Rxb2 22. Qd3 Ndc5 23. Bxc5 Qxc5 24. Qxa6 O-O 25. Ne7+ Kh8 26. Qxd6 Qe3+ 27. Qd2
+Rb1+ 28. Kxb1 Rb8+ 29. Ka2 Rb2+ 30. Ka1 Qa3# 0-1

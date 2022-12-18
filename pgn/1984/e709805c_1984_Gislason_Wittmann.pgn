@@ -1,0 +1,18 @@
+[Event "corr EU/M/GT"]
+[Site "corr EU/M/GT"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Gislason, G."]
+[Black "Wittmann, Walter"]
+[Result "1-0"]
+[ECO "D85"]
+[Opening "Gruenfeld"]
+[Variation "modern exchange variation"]
+[HashCode "e709805c"]
+[Epoch "Rook"]
+[BlackID "1600060"]
+[BlackCountry "AUT"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Nf3 c5 8.
+Rb1 O-O 9. Be2 Nd7 10. O-O Nf6 11. Qc2 b6 12. e5 Nd5 13. Rd1 Bf5 14. Bd3 Bxd3
+15. Rxd3 cxd4 16. Rxd4 e6 17. c4 Qc7 18. Ba3 Rfc8 19. Bd6 Qb7 20. Qe4 1-0

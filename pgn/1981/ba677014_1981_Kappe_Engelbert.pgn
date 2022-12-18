@@ -1,0 +1,23 @@
+[Event "Bundesliga 8081"]
+[Site "Duitsland tt"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Kappe, R."]
+[Black "Engelbert, Christoph"]
+[Result "1-0"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, 6.Bd3"]
+[HashCode "ba677014"]
+[Epoch "Rook"]
+[BlackID "4609158"]
+[BlackCountry "GER"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. f4 Nf6 5. Nf3 O-O 6. Bd3 Bg4 7. Be3 Nc6 8. h3
+Bxf3 9. Qxf3 e5 10. fxe5 dxe5 11. d5 Nd4 12. Qf2 c6 13. dxc6 bxc6 14. O-O Ne8
+15. Ne2 Nc7 16. Rad1 Nce6 17. c3 Nxe2+ 18. Bxe2 Qe7 19. Bc4 a5 20. Rd2 Rfd8 21.
+Rfd1 Rxd2 22. Rxd2 Bf8 23. Kh1 Kg7 24. Qf3 Rb8 25. Rf2 Rb7 26. Qd1 f6 27. Qa4
+Nd8 28. Qxa5 Rd7 29. Qa4 Nb7 30. Qxc6 Na5 31. Qa4 Nxc4 32. Qxc4 Rd1+ 33. Rf1
+Qd7 34. Qe2 Rxf1+ 35. Qxf1 Qa4 36. Qb1 Qc4 37. Bf2 Kf7 38. Kg1 Ke6 39. a3 Bc5
+40. Qc2 f5 41. exf5+ gxf5 42. Bxc5 Qxc5+ 43. Kf1 e4 44. c4 Ke5 45. Qc3+ Ke6 46.
+b4 Qc7 47. Qd4 Qf4+ 48. Ke2 Qg3 49. Qb6+ Kf7 50. Qa7+ Kf6 51. Qb6+ 1-0

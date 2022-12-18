@@ -1,0 +1,19 @@
+[Event "Bangalore"]
+[Site "Bangalore"]
+[Date "1981.07.01"]
+[Round "8"]
+[White "Filip, Miroslav"]
+[Black "Kuzmin, Gennadi P"]
+[Result "1/2-1/2"]
+[ECO "E18"]
+[Opening "Queen's Indian"]
+[Variation "old main line, 7.Nc3"]
+[HashCode "8134fb3c"]
+[Epoch "Rook"]
+[BlackID "14100070"]
+[BlackCountry "UKR"]
+[WhiteCountry "CZE"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2 Be7 6. O-O O-O 7. Nc3 Ne4 8. Nxe4
+Bxe4 9. Ne1 Bxg2 10. Nxg2 d5 11. Qa4 Qd7 12. Qxd7 Nxd7 13. cxd5 exd5 14. Rd1
+Rfd8 15. Bf4 Rac8 16. Rac1 c6 1/2-1/2

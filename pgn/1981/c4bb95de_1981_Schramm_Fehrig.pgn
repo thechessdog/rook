@@ -1,0 +1,19 @@
+[Event "BL2-N 8081"]
+[Site "BL2-N 8081"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Schramm, Bernd"]
+[Black "Fehrig, Andreas"]
+[Result "1/2-1/2"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "c4bb95de"]
+[Epoch "Rook"]
+[WhiteID "4653858"]
+[WhiteCountry "GER"]
+
+1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. d4 Nf6 5. Nf3 Bg4 6. Be2 e6 7. O-O Nc6 8. Be3
+cxd4 9. Nxd4 Bxe2 10. Qxe2 Nxd4 11. Bxd4 Be7 12. Rd1 Qc6 13. Nd2 O-O 14. c4
+Rfd8 15. Nf3 Nd7 16. Bc3 Rac8 17. b3 Bf6 18. Rac1 a6 19. Bxf6 Nxf6 20. Rc2
+Rxd1+ 21. Qxd1 Qc7 22. Rd2 h6 1/2-1/2

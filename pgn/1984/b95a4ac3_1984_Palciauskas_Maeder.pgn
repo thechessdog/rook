@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Palciauskas"]
+[Black "Maeder"]
+[Result "1/2-1/2"]
+[ECO "B51"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky (Nimzovich-Rossolimo, Moscow) attack"]
+[HashCode "b95a4ac3"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Nd7 4. d4 Nf6 5. Nc3 cxd4 6. Qxd4 e6 7. Bg5 Be7
+8. e5 dxe5 9. Nxe5 O-O 10. Nxd7 Bxd7 11. Bxf6 Bxf6 12. Qxd7 Qb6 13. O-O-O
+Bxc3 14. bxc3 Rad8 15. Qe7 Rxd1+ 16. Rxd1 Qxb5 17. Rd8 Qf1+ 18. Kb2 1/2-1/2
+

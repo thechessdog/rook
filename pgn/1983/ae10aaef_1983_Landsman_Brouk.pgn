@@ -1,0 +1,28 @@
+[Event "EU-ch U20"]
+[Site "Groningen"]
+[Date "1983.??.??"]
+[Round "3"]
+[White "Landsman, Klaas"]
+[Black "Brouk, Ofer"]
+[Result "0-1"]
+[ECO "A35"]
+[Opening "English"]
+[Variation "symmetrical, four knights system"]
+[HashCode "ae10aaef"]
+[Epoch "Rook"]
+
+1. c4 c5 2. Nf3 Nc6 3. Nc3 Nf6 4. g3 g6 5. d4 cxd4 6. Nxd4 Bg7 7. Bg2 O-O
+8. O-O Re8 9. Nc2 d6 10. b3 Qa5 11. Bd2 Qh5 12. e4 Qxd1 13. Raxd1 Bg4 14.
+f3 Be6 15. Nd5 Rac8 16. Be3 b6 17. Rfe1 Kf8 18. Na3 Red8 19. Nb5 Ne8 20.
+Re2 Rb8 21. Rc1 Rb7 22. Rd2 Rc8 23. Nf4 Bd7 24. Rcd1 Ne5 25. Na3 Nc7 26.
+Nd5 Na6 27. Bg5 f6 28. Be3 Nc5 29. f4 Ng4 30. Bd4 Ne6 31. Bb2 Rbb8 32. h3
+Nh6 33. e5 fxe5 34. fxe5 Nf7 35. exd6 exd6 36. Nf6 Bxf6 37. Bxf6 a6 38. Nc2
+Bc6 39. Bxc6 Rxc6 40. Nb4 Rcc8 41. Nxa6 Rb7 42. Re2 Ng7 43. Rf1 Nh5 44. Bh4
+Kg8 45. g4 Ng7 46. Nb4 g5 47. Bg3 Re8 48. Rxe8+ Nxe8 49. Rf5 Nc7 50. Nc6
+Ne6 51. Rf6 Nc5 52. Be1 Rc7 53. Nb4 Re7 54. Kf1 Re3 55. Nd5 Rxh3 56. Kg2
+Rd3 57. Nxb6 Rd4 58. Bf2 Rd2 59. Kg1 Ne4 60. Rf5 Nh6 61. Be3 Rxa2 62. Rd5
+Nxg4 63. Bxg5 Ne5 64. Bf4 Nc3 65. Rxe5 dxe5 66. Bxe5 Ne2+ 67. Kf1 Nc1 68.
+b4 Nd3 69. Bd6 Kf7 70. b5 Ke6 71. Bb8 Rc2 72. Kg1 h6 73. Bc7 Kf5 74. Nd5
+Ke4 75. b6 Kf3 76. Ne3 Rc1+ 77. Nf1 Rb1 78. Kh2 Rxf1 79. b7 Nf2 80. b8=N
+Rh1# 0-1
+

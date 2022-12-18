@@ -1,0 +1,22 @@
+[Event "Kumla"]
+[Site "Kumla"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Lindgren, Mats"]
+[Black "Backe, Peter"]
+[Result "0-1"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance variation"]
+[HashCode "ca919056"]
+[Epoch "Rook"]
+[WhiteID "1701282"]
+[BlackID "1701240"]
+[WhiteCountry "SWE"]
+[BlackCountry "SWE"]
+
+1. e4 e6 2. d4 d5 3. e5 b6 4. c3 Qd7 5. a4 a5 6. Bd3 Ba6 7. Bc2 c5 8. Ne2 Nc6
+9. O-O cxd4 10. Re1 dxc3 11. Nbxc3 Bc5 12. Nf4 Nge7 13. Nh5 O-O-O 14. Bf4 Bb4
+15. Rc1 d4 16. Ne4 Bxe1 17. Qxe1 Kb8 18. Nd6 Nd5 19. Bg3 g6 20. Nf4 Nxf4 21.
+Bxf4 d3 22. Bd1 f6 23. Qe3 Ka7 24. exf6 e5 25. Bxe5 Nxe5 26. Qxe5 Qxd6 27. Rc7+
+Kb8 28. Qc3 Qxc7 0-1

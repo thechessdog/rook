@@ -1,0 +1,17 @@
+[Event "New York"]
+[Site "New York"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Zaltsman, Vitaly F"]
+[Black "Burger, Karl"]
+[Result "1/2-1/2"]
+[ECO "D31"]
+[Opening "QGD"]
+[Variation "Charousek (Petrosian) variation"]
+[HashCode "7349e9ca"]
+[Epoch "Rook"]
+[BlackCountry "USA"]
+[WhiteCountry "USA"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Be7 4. Nf3 Nf6 5. Bg5 h6 6. Bh4 O-O 7. cxd5 exd5 8. e3
+c6 9. Bd3 Nbd7 10. O-O Re8 11. Qc2 Nf8 12. Rab1 1/2-1/2

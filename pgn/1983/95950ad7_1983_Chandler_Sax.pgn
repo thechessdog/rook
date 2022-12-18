@@ -1,0 +1,19 @@
+[Event "OHRA"]
+[Site "Amsterdam / Arnhem"]
+[Date "1983.07.01"]
+[Round "1"]
+[White "Chandler, Murray G"]
+[Black "Sax, Gyula"]
+[Result "1/2-1/2"]
+[ECO "B92"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Opovcensky variation"]
+[HashCode "95950ad7"]
+[Epoch "Rook"]
+[WhiteID "400050"]
+[WhiteCountry "NZL"]
+[BlackCountry "HUN"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 g6 7. O-O Bg7 8. Bg5
+Nc6 9. Nb3 b5 10. a3 O-O 11. f4 Be6 12. Kh1 Rc8 13. Qe1 b4 14. axb4 Nxb4 15.
+Nd4 Bc4 16. Rd1 1/2-1/2

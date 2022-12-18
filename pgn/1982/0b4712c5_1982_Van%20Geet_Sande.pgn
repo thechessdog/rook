@@ -1,0 +1,16 @@
+[Event "corr NBC Volmac"]
+[Site "corr NBC Volmac"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Van Geet, Dirk Daniel"]
+[Black "Sande, Oystein"]
+[Result "1-0"]
+[ECO "A00"]
+[Opening "Dunst (Sleipner, Heinrichsen) opening"]
+[HashCode "0b4712c5"]
+[Epoch "Rook"]
+[WhiteCountry "NLD"]
+[BlackID "1500325"]
+[BlackCountry "NOR"]
+
+1. Nc3 d5 2. e4 dxe4 3. Nxe4 e5 4. Bc4 Be7 5. Qh5 Nh6 6. d3 1-0

@@ -1,0 +1,20 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Marella"]
+[Black "Krause"]
+[Result "0-1"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical system, 5.Be2"]
+[HashCode "3b65b707"]
+[Epoch "Rook"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Nf3 Bg7 5. Be2 O-O 6. O-O Bg4 7. Be3 Nc6 8.
+Qd2 e5 9. d5 Ne7 10. Rad1 Bd7 11. Ne1 b5 12. f3 Qb8 13. Nd3 Rd8 14. Nf2 c6
+15. dxc6 Bxc6 16. Bg5 Qb7 17. Bxf6 Bxf6 18. Ng4 Bg7 19. f4 h5 20. Ne3 exf4
+21. Rxf4 Bh6 22. Rf3 d5 23. exd5 Nxd5 24. Ncxd5 Rxd5 25. Bd3 Rxd3 26. Qxd3
+Bxf3 27. gxf3 Qb6 28. Re1 Re8 29. Kf2 Bg5 30. f4 Bxf4 31. Kf3 Rxe3+ 32.
+Rxe3 Qxe3+ 33. Qxe3 Bxe3 34. Kxe3 g5 35. c4 bxc4 36. Kd4 g4 0-1
+

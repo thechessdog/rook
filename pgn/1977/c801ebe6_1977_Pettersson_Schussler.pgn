@@ -1,0 +1,19 @@
+[Event "Rajamaki"]
+[Site "Rajamaki"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Pettersson, Lars"]
+[Black "Schussler, Harry"]
+[Result "1-0"]
+[ECO "B96"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7.f4"]
+[HashCode "c801ebe6"]
+[Epoch "Rook"]
+[BlackID "1700081"]
+[BlackCountry "SWE"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qc7 8. Bxf6
+gxf6 9. Qf3 Nc6 10. Nb3 Bd7 11. O-O-O b5 12. f5 b4 13. fxe6 fxe6 14. Qh5+ Ke7
+15. Ne2 a5 16. Nbd4 a4 17. Nb5 Ra5 18. e5 Qb6 19. exd6+ Kd8 20. Qf7 Qe3+ 21.
+Kb1 Qe5 22. Ned4 Nxd4 23. Nxd4 Bxd6 24. Bb5 Bxb5 25. Rhe1 1-0

@@ -1,0 +1,17 @@
+[Event "Hamburg"]
+[Site "Hamburg"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Lehmitz, G."]
+[Black "Von Massow, Hans"]
+[Result "0-1"]
+[ECO "A67"]
+[Opening "Benoni"]
+[Variation "Taimanov variation"]
+[HashCode "4b36c12d"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. f4 Bg7 8.
+Bb5+ Nfd7 9. a4 O-O 10. Nge2 Nf6 11. O-O Qe7 12. Ng3 Ng4 13. Qf3 Bd4+ 14.
+Kh1 Nxh2 0-1
+

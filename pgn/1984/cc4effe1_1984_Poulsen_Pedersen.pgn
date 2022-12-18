@@ -1,0 +1,19 @@
+[Event "corr ch-DEN"]
+[Site "corr ch-DEN"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Poulsen"]
+[Black "Petersen, Finn"]
+[Result "1-0"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...e6"]
+[HashCode "cc4effe1"]
+[Epoch "Rook"]
+[BlackID "1400754"]
+[BlackCountry "DEN"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 e6 6. Nf3 Be7 7. cxd5 Nxd5 8.
+Bd3 Nc6 9. O-O O-O 10. Re1 Nf6 11. a3 a6 12. Bc2 b5 13. Qd3 g6 14. Bh6 Re8 15.
+Rad1 Na5 16. Ne5 Bb7 17. Re3 Nd7 18. Nxd7 Qxd7 19. d5 Nc4 20. dxe6 Qxd3 21.
+exf7+ Kxf7 22. Rexd3 Nxb2 23. Bb3+ Kf6 24. Rd5 Nxd1 25. Ne4+ Ke6 26. Rd4+ 1-0

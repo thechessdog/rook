@@ -1,0 +1,21 @@
+[Event "Ins match"]
+[Site "Ins match"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "De Coverly, Roger D"]
+[Black "Staunton, Howard"]
+[Result "0-1"]
+[ECO "B10"]
+[Opening "Caro-Kann"]
+[Variation "closed (Breyer) variation"]
+[HashCode "bbe19a34"]
+[Epoch "Rook"]
+[WhiteID "405213"]
+[WhiteCountry "ENG"]
+[BlackCountry "ENG"]
+
+1. e4 c6 2. d3 d5 3. Nd2 e5 4. Ngf3 Bd6 5. g3 Ne7 6. Bg2 O-O 7. O-O Bg4 8. Qe1
+Ng6 9. h3 Be6 10. h4 Nd7 11. Ng5 h6 12. Nxe6 fxe6 13. h5 Nh8 14. Qe2 Nf6 15. d4
+Qc7 16. Nf3 Nxe4 17. Nxe5 Bxe5 18. dxe5 Qxe5 19. f3 Qd4+ 20. Be3 Nxg3 21. Qf2
+Qh4 22. Bxa7 Rxa7 23. Rfe1 Ra4 24. b3 Raf4 25. Rxe6 R4f5 26. Qb6 Rxh5 27. Qxb7
+Qd4+ 0-1

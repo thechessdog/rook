@@ -1,0 +1,18 @@
+[Event "Fairfax,VA"]
+[Site "Fairfax,VA"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Morris"]
+[Black "Evans, Larry D."]
+[Result "0-1"]
+[ECO "B98"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7...Be7"]
+[HashCode "9624bba1"]
+[Epoch "Rook"]
+[BlackID "2001713"]
+[BlackCountry "USA"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3
+h6 9. Bh4 Nbd7 10. O-O-O Qc7 11. Be2 g5 12. fxg5 Ne5 13. Qg3 Rg8 14. Nf3 Nxf3
+15. gxf3 hxg5 16. Bxg5 Nh5 0-1

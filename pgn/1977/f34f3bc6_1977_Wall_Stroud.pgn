@@ -1,0 +1,15 @@
+[Event "Statesville,NC"]
+[Site "Statesville,NC"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Wall, Bill"]
+[Black "Stroud, DeWitt"]
+[Result "1-0"]
+[ECO "C23"]
+[Opening "Bishop's opening"]
+[Variation "Classical variation"]
+[HashCode "f34f3bc6"]
+[Epoch "Rook"]
+[WhiteCountry "USA"]
+
+1. e4 e5 2. Bc4 Bc5 3. d3 Nc6 4. Nh3 Qh4 5. Bg5 Bxf2+ 6. Kd2 1-0

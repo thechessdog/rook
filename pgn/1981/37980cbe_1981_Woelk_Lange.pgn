@@ -1,0 +1,18 @@
+[Event "RLN 8081"]
+[Site "RLN 8081"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Woelk, Siegfried"]
+[Black "Lange, Helmut"]
+[Result "1-0"]
+[ECO "D00"]
+[Opening "Queen's pawn"]
+[Variation "Chigorin variation"]
+[HashCode "37980cbe"]
+[Epoch "Rook"]
+[WhiteID "24603309"]
+[WhiteCountry "GER"]
+
+1. d4 d5 2. Nc3 g6 3. e4 dxe4 4. Nxe4 Bg7 5. c3 Nd7 6. Bc4 Ngf6 7. Bxf7+ Kf8 8.
+Ng5 Nb6 9. N1f3 h6 10. Ne6+ Bxe6 11. Bxe6 Qd6 12. Qe2 g5 13. O-O Nfd5 14. Re1
+Nf4 15. Bxf4 Qxf4 16. Qd3 Rd8 17. g3 Qf6 18. Ne5 Rd6 19. Ng4 1-0

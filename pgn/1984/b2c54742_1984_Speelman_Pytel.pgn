@@ -1,0 +1,19 @@
+[Event "White Knights"]
+[Site "Leningrad"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Speelman, Jon S"]
+[Black "Pytel, Krzysztof"]
+[Result "1/2-1/2"]
+[ECO "E92"]
+[Opening "King's Indian"]
+[Variation "Gligoric-Taimanov system"]
+[HashCode "b2c54742"]
+[Epoch "Rook"]
+[BlackID "600199"]
+[WhiteCountry "ENG"]
+[BlackCountry "FRA"]
+
+1. Nf3 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 O-O 5. d4 d6 6. Be2 e5 7. Be3 c6 8. d5 Ng4
+9. Bg5 f6 10. Bh4 h5 11. h3 Nh6 12. Nd2 Nd7 13. g4 hxg4 14. hxg4 Nf7 15. Qc2
+Bh6 16. O-O-O Kg7 17. Kb1 Rh8 18. Nb3 c5 19. Bg3 1/2-1/2

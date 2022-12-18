@@ -1,0 +1,17 @@
+[Event "Poland"]
+[Site "Poland"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Roczniak, Jan"]
+[Black "Balasinski, Zbignie"]
+[Result "0-1"]
+[ECO "A00"]
+[Opening "Polish (Sokolsky) opening"]
+[HashCode "fcc67f0a"]
+[Epoch "Rook"]
+
+1. b4 e5 2. Bb2 f6 3. e4 b6 4. Bxe5 Bxb4 5. Bc3 Qe7 6. Bxb4 Qxb4 7. Bd3 Bb7
+8. Nc3 Na6 9. Nge2 Nh6 10. Ng3 Nc5 11. Qh5+ Nf7 12. O-O Nxd3 13. cxd3 O-O
+14. Rab1 Qd4 15. Nf5 Qxd3 16. Ne7+ Kh8 17. Ng6+ Kg8 18. Nxf8 Rxf8 19. Qf3
+Qxf3 20. gxf3 Ne5 21. Kg2 f5 22. Nb5 0-1
+

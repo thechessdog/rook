@@ -1,0 +1,25 @@
+[Event "Beer Sheva"]
+[Site "Beer Sheva"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Kindermann, Stefan"]
+[Black "Greenfeld, Alon"]
+[Result "1-0"]
+[ECO "C92"]
+[Opening "Ruy Lopez"]
+[Variation "closed, 9.h3"]
+[HashCode "79f1bcfe"]
+[Epoch "Rook"]
+[WhiteID "4600053"]
+[WhiteCountry "AUT"]
+[BlackID "2800039"]
+[BlackCountry "ISR"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. h3 Re8 10. d4 Bb7 11. a4 h6 12. Nbd2 Bf8 13. d5 Nb8 14. c4 bxc4 15. Nxc4
+c6 16. dxc6 Bxc6 17. Bc2 Nxe4 18. Bxe4 Bxe4 19. Rxe4 d5 20. Rxe5 dxc4 21. Qc2
+Rxe5 22. Nxe5 Qe8 23. Bf4 Nc6 24. Nf3 g5 25. Bg3 Qe6 26. Re1 Qd5 27. Rd1 Qe6
+28. h4 gxh4 29. Nxh4 Re8 30. Nf3 Rd8 31. Rxd8 Nxd8 32. Ne5 Bd6 33. Qxc4 Qxc4
+34. Nxc4 Bxg3 35. fxg3 Nc6 36. Kf2 Kg7 37. Ke3 Kf6 38. Ke4 Ke6 39. g4 f6 40. g3
+Ne7 41. Ne3 Nc6 42. b3 Na5 43. b4 Nc6 44. Nd5 Nb8 45. a5 Kd7 46. Nxf6+ Kd6 47.
+Kd4 Nc6+ 48. Kc3 Ke5 49. Ng8 1-0

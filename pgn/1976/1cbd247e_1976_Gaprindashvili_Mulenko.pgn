@@ -1,0 +1,18 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Gaprindashvili, Nona"]
+[Black "Mulenko, L."]
+[Result "1-0"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, Smyslov variation"]
+[HashCode "1cbd247e"]
+[Epoch "Rook"]
+[WhiteID "13600125"]
+[WhiteCountry "GEO"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. a4 Nbc6 8. Nf3
+Qb6 9. Bd3 Bd7 10. dxc5 Qxc5 11. O-O Qxc3 12. Rb1 b6 13. Rb3 Qc5 14. Rb5 Nxe5
+15. Rxc5 Nxf3+ 16. Qxf3 bxc5 17. Ba3 Rc8 18. Ba6 1-0

@@ -1,0 +1,20 @@
+[Event "KNSB"]
+[Site "KNSB"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Blakmoor"]
+[Black "Van der Spoel"]
+[Result "0-1"]
+[ECO "B52"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky attack, Sokolsky variation"]
+[HashCode "d6785b29"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Qxd7 5. c4 Nc6 6. d4 cxd4 7. Nxd4
+Nf6 8. Nc3 g6 9. f3 Bg7 10. Be3 O-O 11. O-O Rfd8 12. Rf2 Ne5 13. b3 Rac8
+14. Rd2 Nc6 15. Rc1 Nxd4 16. Bxd4 Bh6 17. Bxf6 Bxd2 18. Nd5 Be3+ 19. Kf1
+Qe6 20. Bxe7 Re8 21. Rc3 Bf4 22. Nxf4 Qxe7 23. Nd5 Qe6 24. Qd4 Qe5 25. Nf6+
+Kh8 26. Rd3 Qxd4 27. Rxd4 Re6 28. Nd5 Kg7 29. g4 g5 30. Ne3 Kf6 31. Nf5 Rc6
+32. Rd5 Ra6 33. a4 Rb6 34. Nd4 Re5 35. a5 Rxd5 36. axb6 Rxd4 0-1
+

@@ -1,0 +1,19 @@
+[Event "Warsaw I zt"]
+[Site "Warsaw I zt"]
+[Date "1979.01.01"]
+[Round "4"]
+[White "Lengyel, Levente"]
+[Black "Radulov, Ivan"]
+[Result "1/2-1/2"]
+[ECO "D66"]
+[Opening "QGD"]
+[Variation "Orthodox defence, Bd3 line"]
+[HashCode "d61f5956"]
+[Epoch "Rook"]
+[BlackID "2900300"]
+[BlackCountry "FID"]
+[WhiteCountry "HUN"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Bg5 Be7 5. e3 O-O 6. Nf3 Nbd7 7. Rc1 c6 8. Bd3
+h6 9. Bh4 Ne8 10. Bxe7 Qxe7 11. O-O dxc4 12. Bxc4 Nd6 13. Bb3 e5 14. dxe5 Nxe5
+15. Nxe5 Qxe5 16. Qe2 Be6 17. Bxe6 Qxe6 18. Rfd1 1/2-1/2

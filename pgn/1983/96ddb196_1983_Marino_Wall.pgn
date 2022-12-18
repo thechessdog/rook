@@ -1,0 +1,17 @@
+[Event "Dayton,OH"]
+[Site "Dayton,OH"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Marino, Gregg"]
+[Black "Wall, Bill"]
+[Result "0-1"]
+[ECO "B16"]
+[Opening "Caro-Kann"]
+[Variation "Bronstein-Larsen variation"]
+[HashCode "96ddb196"]
+[Epoch "Rook"]
+[BlackCountry "USA"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ gxf6 6. Bf4 Qb6 7. Rb1 Bf5
+8. Nf3 e6 9. Bc4 Bb4+ 10. Kf1 Nd7 11. Qe2 O-O-O 12. Rd1 Rhg8 13. Rg1 h5 14. Nh4
+Rg4 15. Bg3 Re4 16. Qxh5 Rxd4 17. Bb3 Qb5+ 18. Qe2 Rxd1# 0-1

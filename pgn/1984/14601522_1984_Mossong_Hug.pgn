@@ -1,0 +1,21 @@
+[Event "Bad Lauterberg"]
+[Site "Bad Lauterberg"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Mossong, Hubert"]
+[Black "Hug, Werner"]
+[Result "0-1"]
+[ECO "C17"]
+[Opening "French"]
+[Variation "Winawer, advance, Bogolyubov variation"]
+[HashCode "14601522"]
+[Epoch "Rook"]
+[WhiteID "4000030"]
+[WhiteCountry "LUX"]
+[BlackID "1300040"]
+[BlackCountry "SUI"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. Bd2 Ne7 6. a3 Bxc3 7. bxc3 Nbc6 8. Nf3
+Bd7 9. Bd3 Qc7 10. Bf4 cxd4 11. cxd4 Nxd4 12. O-O Nxf3+ 13. Qxf3 Ng6 14. Bg3
+O-O 15. Rfe1 Qc5 16. Rab1 f5 17. exf6 Rxf6 18. Qh5 Raf8 19. Re3 b6 20. Rb4 h6
+21. h3 d4 22. Re5 Nxe5 23. Bxe5 Rf5 0-1

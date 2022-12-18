@@ -1,0 +1,24 @@
+[Event "Prague"]
+[Site "Prague"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Hausner, Ivan"]
+[Black "Dobosz, Henryk"]
+[Result "1-0"]
+[ECO "D10"]
+[Opening "QGD Slav defence"]
+[Variation "exchange variation"]
+[HashCode "cf8715e2"]
+[Epoch "Rook"]
+[BlackID "1100114"]
+[BlackCountry "POL"]
+[WhiteID "300110"]
+[WhiteCountry "CZE"]
+
+1. d4 d5 2. c4 c6 3. cxd5 cxd5 4. Nc3 Nf6 5. Bf4 Nc6 6. e3 Bf5 7. Nf3 e6 8. Bb5
+Nd7 9. O-O Rc8 10. Rc1 Be7 11. Re1 a6 12. Bd3 Bg4 13. h3 Bh5 14. Bb1 O-O 15.
+Qd3 Bg6 16. Qe2 Bxb1 17. Rxb1 Na5 18. Rbc1 Rc6 19. e4 dxe4 20. Nxe4 Rxc1 21.
+Rxc1 Nc6 22. Bd6 Bxd6 23. Nxd6 Qb6 24. Nc4 Qb5 25. Qc2 Nf6 26. Nd6 Qb4 27. Nxb7
+Qxb7 28. Qxc6 Qxb2 29. Qc2 Qa3 30. Rb1 h6 31. Rb7 Nd5 32. Ne5 Nb4 33. Qc5 a5
+34. Ng6 Ra8 35. Qc7 Kh7 36. Qxf7 Qc1+ 37. Kh2 Rg8 38. Ne7 Rd8 39. Nd5 Qg5 40.
+f4 1-0

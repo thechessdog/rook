@@ -1,0 +1,17 @@
+[Event "New Hampshire"]
+[Site "New Hampshire"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Bryant, G."]
+[Black "Dyke"]
+[Result "0-1"]
+[ECO "C69"]
+[Opening "Ruy Lopez"]
+[Variation "exchange variation, 5.O-O"]
+[HashCode "a5bf9b2f"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O Bg4 6. d3 Qf6 7. Be3
+O-O-O 8. Nbd2 Ne7 9. Re1 h5 10. Nf1 h4 11. h3 Bh5 12. N1h2 Rd6 13. Qd2 Bxf3
+14. Nxf3 Ng6 15. Bc5 Nf4 16. Nh2 Qg5 0-1
+

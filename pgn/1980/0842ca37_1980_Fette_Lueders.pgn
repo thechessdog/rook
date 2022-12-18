@@ -1,0 +1,21 @@
+[Event "GER-N chT 7980"]
+[Site "BL-N 7980"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Fette, Martin"]
+[Black "Lueders, Gerhard"]
+[Result "1-0"]
+[ECO "B11"]
+[Opening "Caro-Kann"]
+[Variation "two knights, 3...Bg4"]
+[HashCode "0842ca37"]
+[Epoch "Rook"]
+[WhiteID "4600827"]
+[WhiteCountry "GER"]
+[BlackID "4608240"]
+[BlackCountry "GER"]
+
+1. e4 c6 2. Nc3 d5 3. Nf3 Bg4 4. h3 Bxf3 5. Qxf3 Nf6 6. e5 Nfd7 7. d4 e6 8. Qg3
+Qb6 9. Qf4 c5 10. dxc5 Bxc5 11. Bb5 Bd4 12. O-O Bxc3 13. Bxd7+ Nxd7 14. bxc3
+Qc7 15. Ba3 Nxe5 16. Rfe1 f6 17. Rab1 Kd7 18. Rxe5 Qxe5 19. Rxb7+ Kc8 20. Qb4
+Qe1+ 21. Kh2 Qxf2 1-0

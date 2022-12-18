@@ -1,0 +1,18 @@
+[Event "corr EUR/M"]
+[Site "corr EUR/M"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Nadenau, O."]
+[Black "Scholvin, E."]
+[Result "0-1"]
+[ECO "A89"]
+[Opening "Dutch"]
+[Variation "Leningrad, main variation with Nc6"]
+[HashCode "b77b6760"]
+[Epoch "Rook"]
+
+1. d4 f5 2. c4 Nf6 3. g3 g6 4. Bg2 Bg7 5. Nf3 O-O 6. O-O d6 7. Nc3 Nc6 8.
+d5 Ne5 9. Nxe5 dxe5 10. Qb3 e6 11. Rd1 exd5 12. Nxd5 c6 13. Nc3 Qe7 14. e4
+f4 15. gxf4 exf4 16. Qc2 Ng4 17. f3 Qc5+ 18. Kf1 Nxh2+ 19. Ke2 Ng4 20. fxg4
+f3+ 21. Bxf3 Bxg4 0-1
+

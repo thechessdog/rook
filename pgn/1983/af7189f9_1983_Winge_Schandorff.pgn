@@ -1,0 +1,25 @@
+[Event "Nordic-tt"]
+[Site "Oslo"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Winge, Stefan"]
+[Black "Schandorff, Lars"]
+[Result "0-1"]
+[ECO "B97"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Poisoned pawn variation"]
+[HashCode "af7189f9"]
+[Epoch "Rook"]
+[WhiteID "1700898"]
+[WhiteCountry "SWE"]
+[BlackID "1400070"]
+[BlackCountry "DEN"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qb6 8. Qd2
+Qxb2 9. Rb1 Qa3 10. Be2 Nbd7 11. O-O Qc5 12. Bxf6 Nxf6 13. Na4 Qc7 14. Nb6 Rb8
+15. Bf3 Nd7 16. Nxc8 Qxc8 17. f5 e5 18. Ne2 Qc5+ 19. Kh1 Nf6 20. Rb3 Be7 21.
+Nc3 Rc8 22. a4 Bd8 23. Nd5 Nxd5 24. Qxd5 Qxd5 25. exd5 b6 26. Be2 Rxc2 27. Bxa6
+Rc5 28. Bb7 Ke7 29. Bc6 h5 30. Rh3 Rh6 31. Kg1 Kf6 32. Rhf3 h4 33. g4 hxg3 34.
+hxg3 Rc2 35. R3f2 Rxf2 36. Rxf2 Rh5 37. g4 Rh4 38. Rg2 Kg5 39. Bd7 Bf6 40. Kf1
+Rxg4 41. Rxg4+ Kxg4 42. Ke2 Kf4 43. Be8 Kxf5 44. Bxf7 Ke4 45. Be6 Bg5 46. Bf7
+Bf4 47. Bg8 g5 0-1

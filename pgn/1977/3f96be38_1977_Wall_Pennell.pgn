@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Wall, Bill"]
+[Black "Pennell"]
+[Result "1-0"]
+[ECO "B02"]
+[Opening "Alekhine's defence"]
+[Variation "Maroczy variation"]
+[HashCode "3f96be38"]
+[Epoch "Rook"]
+[WhiteCountry "USA"]
+
+1. e4 Nf6 2. d3 e5 3. f4 Nc6 4. Nf3 d6 5. h3 Be7 6. g4 Be6 7. f5 Bc8 8. g5 Nd7
+9. c3 f6 10. h4 d5 11. Qb3 Nc5 12. Qxd5 Nb4 13. cxb4 Qxd5 14. exd5 Na4 15. Bh3
+Bxb4+ 16. Kf2 1-0

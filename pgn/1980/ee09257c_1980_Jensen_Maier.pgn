@@ -1,0 +1,19 @@
+[Event "Bagneaux"]
+[Site "Bagneaux"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Jensen, Jacob"]
+[Black "Maier"]
+[Result "0-1"]
+[ECO "C05"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation"]
+[HashCode "ee09257c"]
+[Epoch "Rook"]
+[WhiteID "1703404"]
+[WhiteCountry "SWE"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. f4 c5 6. c3 Nc6 7. Ndf3 cxd4 8. cxd4
+f6 9. Ne2 Bb4+ 10. Bd2 O-O 11. Bxb4 Nxb4 12. Nc3 fxe5 13. fxe5 Rxf3 14. gxf3
+Qh4+ 15. Ke2 Nc6 16. Qa4 Nxd4+ 17. Kd1 Nxf3 18. Qxh4 Nxh4 19. Nb5 Nxe5 20. Rc1
+Bd7 0-1

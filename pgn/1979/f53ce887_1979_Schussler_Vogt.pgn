@@ -1,0 +1,20 @@
+[Event "Naleczow"]
+[Site "Naleczow"]
+[Date "1979.01.01"]
+[Round "5"]
+[White "Schussler, Harry"]
+[Black "Vogt, Lothar"]
+[Result "1/2-1/2"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "modern variation"]
+[HashCode "f53ce887"]
+[Epoch "Rook"]
+[WhiteID "1700081"]
+[WhiteCountry "SWE"]
+[BlackID "4611292"]
+[BlackCountry "GER"]
+
+1. b3 e5 2. Bb2 d6 3. Nf3 Nf6 4. g3 Be7 5. d3 O-O 6. Bg2 c6 7. O-O Nbd7 8. c4
+a5 9. Nc3 Re8 10. Qc2 Qb6 11. d4 exd4 12. Na4 Qc7 13. Nxd4 Nb6 14. Nc3 a4 15.
+h3 Bf8 16. Rfd1 Bd7 17. Nf3 1/2-1/2

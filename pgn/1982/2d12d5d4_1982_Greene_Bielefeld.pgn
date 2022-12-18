@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Greene, S."]
+[Black "Bielefeld"]
+[Result "1-0"]
+[ECO "E41"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5"]
+[HashCode "2d12d5d4"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 b6 6. Ne2 Nc6 7. O-O cxd4 8.
+exd4 Bxc3 9. bxc3 Ba6 10. Ba3 Rc8 11. Ng3 d6 12. Qa4 Bb7 13. d5 exd5 14.
+Rfe1+ Kf8 15. Nf5 Ne8 16. Rxe8+ Kxe8 17. Nxd6+ Kd7 18. Bf5+ 1-0
+

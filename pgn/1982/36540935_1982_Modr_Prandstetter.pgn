@@ -1,0 +1,19 @@
+[Event "Bohemians"]
+[Site "Prague"]
+[Date "1982.??.??"]
+[Round "10"]
+[White "Modr, Bretislav"]
+[Black "Prandstetter, Eduard"]
+[Result "1/2-1/2"]
+[ECO "C05"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation"]
+[HashCode "36540935"]
+[Epoch "Rook"]
+[BlackID "300225"]
+[BlackCountry "CZE"]
+[WhiteCountry "CZE"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. f4 c5 6. Ndf3 Nc6 7. c3 Qa5 8. Be3
+b5 9. dxc5 b4 10. a3 b3 11. Nd2 Nxc5 12. Nxb3 Nxb3 13. Qxb3 Bc5 14. Qb5 Bxe3
+15. Qxc6+ Ke7 16. Qd6+ Ke8 17. Qc6+ Ke7 18. Qd6+ Ke8 19. Qc6+ 1/2-1/2

@@ -1,0 +1,16 @@
+[Event "Arizona"]
+[Site "Arizona"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Tabor, Richard"]
+[Black "Blaine, Roger E"]
+[Result "0-1"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Milner-Barry gambit"]
+[HashCode "e458247d"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. Nc3
+Nxd4 9. Nxd4 Qxd4 10. O-O Qxe5 11. Re1 Qb8 12. Nxd5 Bd6 13. Qg4 g6 14. Bd2
+Bxh2+ 15. Kh1 Be5 16. Rxe5 Qxe5 17. Bc3 Qxd5 18. Rd1 f6 19. Kg1 Qh5 0-1

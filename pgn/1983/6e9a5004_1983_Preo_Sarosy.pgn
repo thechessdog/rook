@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Preo, N."]
+[Black "Sarosy, Zoltan"]
+[Result "1-0"]
+[ECO "C44"]
+[Opening "Scotch"]
+[Variation "Goering gambit"]
+[HashCode "6e9a5004"]
+[Epoch "Rook"]
+[BlackCountry "CAN"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. c3 d5 5. exd5 Qxd5 6. cxd4 Bg4 7. Nc3 Bb4 8.
+Be2 Nge7 9. O-O Qa5 10. Bd2 Bxf3 11. Bxf3 Nxd4 12. Bxb7 Rd8 13. a3 Bxc3 14.
+Bxc3 Qb6 15. Qa4+ Rd7 16. Rfe1 Qxb7 17. Bxd4 c5 18. Bxc5 O-O 19. Rad1 Rc7 20.
+Qb4 1-0

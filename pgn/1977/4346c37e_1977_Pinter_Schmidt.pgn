@@ -1,0 +1,25 @@
+[Event "Budapest"]
+[Site "Budapest"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Pinter, Jozsef"]
+[Black "Schmidt, Wlodzimierz"]
+[Result "0-1"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Euwe variation"]
+[HashCode "4346c37e"]
+[Epoch "Rook"]
+[WhiteID "700045"]
+[WhiteCountry "HUN"]
+[BlackID "1100041"]
+[BlackCountry "POL"]
+
+1. e4 c5 2. Nf3 e6 3. c3 d5 4. e5 Nc6 5. d4 Bd7 6. a3 c4 7. g3 Na5 8. Nbd2 Qb6
+9. Bh3 h6 10. O-O O-O-O 11. Ne1 g5 12. Bg2 Be7 13. Rb1 h5 14. Qe2 Nh6 15. Nc2
+Kb8 16. Ne3 Rc8 17. Re1 h4 18. g4 f6 19. exf6 Bxf6 20. h3 Nf7 21. Nef1 Rhf8 22.
+Nf3 Qd8 23. N1h2 Ka8 24. Be3 Nh8 25. Qc2 Be8 26. Rbd1 Bg6 27. Qd2 Nb3 28. Qe2
+Nf7 29. Bc1 Rc6 30. Ne5 Nxe5 31. dxe5 Nxc1 32. Rxc1 Be7 33. Nf3 Bc5 34. Rcd1
+Rf4 35. Nd4 Bd3 36. Qe3 Bxd4 37. cxd4 Qb6 38. Rd2 Qxd4 39. Qxd4 Rxd4 40. Bf1
+Re4 41. Re3 Rxe3 42. fxe3 Bxf1 43. Kxf1 a5 44. Rf2 c3 45. bxc3 Rxc3 46. Rf8+
+Ka7 47. Ke2 Rxa3 48. Re8 Ra4 49. Rxe6 Re4 0-1

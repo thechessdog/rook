@@ -1,0 +1,24 @@
+[Event "Plymouth ch-MI op"]
+[Site "Plymouth ch-MI op"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Fawaz, Ma"]
+[Black "Serlin, R."]
+[Result "0-1"]
+[ECO "C65"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence"]
+[HashCode "508f3b0b"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 d6 5. Bg5 Bg4 6. Nc3 a6 7. Ba4 b5 8.
+Bb3 Nd4 9. Nd5 c6 10. Bxf6 gxf6 11. Ne3 Qd7 12. c3 Nxf3+ 13. gxf3 Bh5 14.
+Ng4 Ke7 15. Qe2 Rg8 16. h3 Bg6 17. d4 h5 18. Ne3 Bh6 19. Bc2 a5 20. Qd2 Bf4
+21. O-O-O h4 22. Kb1 Bh5 23. Qe2 Bxe3 24. Qxe3 a4 25. Rd2 Qe6 26. d5 Qd7
+27. f4 Rab8 28. f5 Rg5 29. Bd1 Bxd1 30. Rhxd1 c5 31. Rc2 c4 32. Rcc1 Rbg8
+33. f3 Qe8 34. Rg1 Rg3 35. Qa7+ Qd7 36. Qxd7+ Kxd7 37. Rxg3 Rxg3 38. Rf1
+Rxh3 39. b3 cxb3 40. axb3 axb3 41. Kb2 Kc7 42. Kxb3 Kb6 43. c4 Kc5 44. cxb5
+Kxb5 45. Kc3 Rg3 46. Kd3 h3 47. Ke3 Rg2 48. Rh1 h2 49. Kd3 Kb6 50. Ke3 Kc5
+51. f4 Rg3+ 52. Kd2 Kd4 53. fxe5 Rg2+ 54. Ke1 Rg1+ 55. Kf2 Rxh1 56. exd6
+Rc1 57. d7 h1=Q 58. d8=Q Qh2+ 59. Kf3 Rf1+ 60. Kg4 Qg2+ 61. Kh4 Rh1# 0-1
+

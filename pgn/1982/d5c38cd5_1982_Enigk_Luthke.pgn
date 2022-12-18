@@ -1,0 +1,18 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Enigk, G."]
+[Black "Luthke, HE."]
+[Result "1-0"]
+[ECO "B95"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6...e6"]
+[HashCode "d5c38cd5"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. Qd2 Be7 8.
+Be2 Qc7 9. a4 b6 10. O-O Bb7 11. f3 Nbd7 12. Kh1 Ne5 13. Rad1 O-O 14. Qe3
+h6 15. Bxh6 gxh6 16. Qxh6 Qc5 17. f4 Nxe4 18. Nxe4 Bxe4 19. fxe5 Qxe5 20.
+Rf4 f5 21. Qg6+ Kh8 22. Nxe6 d5 23. Rxe4 dxe4 24. Nxf8 Bxf8 25. Rd7 1-0
+

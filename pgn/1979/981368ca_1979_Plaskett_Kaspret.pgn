@@ -1,0 +1,19 @@
+[Event "Groningen"]
+[Site "Groningen"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Plaskett, H James"]
+[Black "Kaspret, Guido"]
+[Result "1-0"]
+[ECO "B32"]
+[Opening "Sicilian"]
+[Variation "Labourdonnais-Loewenthal variation"]
+[HashCode "981368ca"]
+[Epoch "Rook"]
+[WhiteCountry "ENG"]
+[BlackID "1600427"]
+[BlackCountry "AUT"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e5 5. Nb5 a6 6. Nd6+ Bxd6 7. Qxd6 Qf6 8.
+Qc7 Nge7 9. Nc3 O-O 10. Be3 Nb4 11. O-O-O d5 12. Bc5 Nec6 13. Bxf8 Kxf8 14.
+exd5 Bg4 15. dxc6 Bxd1 16. cxb7 Qd8 17. Nxd1 1-0

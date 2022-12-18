@@ -1,0 +1,21 @@
+[Event "corr ch-DK"]
+[Site "corr ch-DK"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Petersen, Finn"]
+[Black "Guldberg"]
+[Result "1-0"]
+[ECO "E45"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Bronstein (Byrne) variation"]
+[HashCode "be183263"]
+[Epoch "Rook"]
+[WhiteID "1400754"]
+[WhiteCountry "DEN"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 b6 5. Ne2 Ba6 6. Ng3 Bxc3+ 7. bxc3 d5 8.
+Qf3 O-O 9. Ba3 Re8 10. cxd5 Qxd5 11. Qxd5 Nxd5 12. c4 Nf6 13. Be2 Bb7 14. f3
+Nc6 15. Kf2 Rad8 16. Rac1 e5 17. d5 Ne7 18. Bd1 c5 19. Ba4 Rf8 20. Bb2 Ng6 21.
+Nf5 Nxd5 22. cxd5 Bxd5 23. Rhd1 Bxa2 24. Nd6 Be6 25. Bb5 f6 26. Ke2 Ne7 27. e4
+Bd5 28. Ne8 a6 29. Bxa6 Rfxe8 30. exd5 Rd6 31. Bc4 b5 32. Bxb5 Rb8 33. Rxc5
+Rdb6 34. Ba3 1-0

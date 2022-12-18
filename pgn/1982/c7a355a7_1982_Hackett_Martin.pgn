@@ -1,0 +1,20 @@
+[Event "Torquay ch-BCF"]
+[Site "Torquay ch-BCF"]
+[Date "1982.08.01"]
+[Round "4"]
+[White "Hackett, David"]
+[Black "Martin, Andrew D"]
+[Result "0-1"]
+[ECO "B06"]
+[Opening "Robatsch defence"]
+[Variation "Pseudo-Austrian attack"]
+[HashCode "c7a355a7"]
+[Epoch "Rook"]
+[WhiteID "445703"]
+[WhiteCountry "ENG"]
+[BlackID "400300"]
+[BlackCountry "ENG"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. f4 Nc6 5. Be3 Nf6 6. Be2 O-O 7. g4 e5 8. dxe5
+Nxg4 9. Bxg4 Qh4+ 10. Bf2 Qxg4 11. Qxg4 Bxg4 12. h3 Bh5 13. Nge2 dxe5 14. f5
+Nd4 15. Nxd4 exd4 16. Ne2 Rfe8 17. Ng3 Bf3 18. O-O Bxe4 19. fxg6 hxg6 0-1

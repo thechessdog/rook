@@ -1,0 +1,19 @@
+[Event "Pernik"]
+[Site "Pernik"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Spassov, Liuben"]
+[Black "Szekely, Peter"]
+[Result "1/2-1/2"]
+[ECO "E18"]
+[Opening "Queen's Indian"]
+[Variation "old main line, 7.Nc3"]
+[HashCode "bd7d37bf"]
+[Epoch "Rook"]
+[WhiteID "2900220"]
+[BlackID "14937492"]
+[WhiteCountry "FID"]
+[BlackCountry "SVK"]
+
+1. Nf3 Nf6 2. d4 b6 3. g3 Bb7 4. Bg2 e6 5. c4 Be7 6. O-O O-O 7. Nc3 Ne4 8. Nxe4
+Bxe4 9. Ne1 Bxg2 10. Nxg2 d5 11. Qa4 dxc4 12. Qxc4 1/2-1/2

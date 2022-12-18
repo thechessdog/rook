@@ -1,0 +1,22 @@
+[Event "Birkenfeld Elo"]
+[Site "Birkenfeld"]
+[Date "1983.01.01"]
+[Round "6"]
+[White "Mandl, Rudolf"]
+[Black "Raupp, Thomas"]
+[Result "0-1"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "262ef0f5"]
+[Epoch "Rook"]
+[BlackID "4601610"]
+[BlackCountry "GER"]
+[WhiteID "4604830"]
+[WhiteCountry "GER"]
+
+1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. d4 e6 5. Nf3 Nf6 6. Bd3 Be7 7. O-O O-O 8. Be3
+cxd4 9. cxd4 Nc6 10. Nc3 Qd8 11. a3 b6 12. Qe2 Bb7 13. Rad1 a6 14. Bb1 Rc8 15.
+Bg5 Na5 16. Ne5 Nd5 17. Qd3 g6 18. Bh6 Nxc3 19. Bxf8 Nxd1 20. Bxe7 Qxe7 21.
+Rxd1 Qg5 22. f3 Rc1 23. Ba2 Nc6 24. Nc4 Rxd1+ 25. Qxd1 Qd5 26. Bb3 Nxd4 27.
+Nxb6 Qc5 28. Nd7 Nxf3+ 29. Kh1 Qf2 30. Nf6+ Kg7 31. Ng4 Qh4 32. Qd7 Qe1# 0-1

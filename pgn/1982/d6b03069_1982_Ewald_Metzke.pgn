@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Ewald"]
+[Black "Metzke"]
+[Result "1-0"]
+[ECO "D00"]
+[Opening "Blackmar gambit"]
+[HashCode "d6b03069"]
+[Epoch "Rook"]
+
+1. d4 d5 2. e4 dxe4 3. Nc3 Nf6 4. f3 Bf5 5. g4 Bg6 6. g5 Nd5 7. Nxe4 e6 8.
+h4 Be7 9. Bg2 c6 10. Ne2 h6 11. c4 Nb6 12. b3 N8d7 13. f4 h5 14. Bb2 f5 15.
+Nf2 O-O 16. Nd3 a5 17. Ng3 e5 18. dxe5 Bb4+ 19. Nxb4 axb4 20. Qd6 Qe8 21.
+Qxb4 Rd8 22. O-O-O Ra8 23. Kb1 Qe6 24. Rd6 Qe7 25. Qd2 Rfd8 26. Rd1 Be8 27.
+Bf3 Nc8 28. Rd3 g6 29. Qe3 Qe6 30. Ne2 c5 31. Qd2 Qa6 32. Ba1 Ncb6 33. Qb2
+Nxe5 34. Rxd8 Nbxc4 35. Rxe8+ Rxe8 36. bxc4 Nxf3 37. Qg7# 1-0
+

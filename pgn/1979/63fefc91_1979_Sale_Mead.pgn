@@ -1,0 +1,15 @@
+[Event "corr USCF"]
+[Site "corr USCF"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Sale, R."]
+[Black "Mead, J."]
+[Result "1-0"]
+[ECO "D00"]
+[Opening "Blackmar gambit"]
+[HashCode "63fefc91"]
+[Epoch "Rook"]
+
+1. d4 d5 2. e4 dxe4 3. Nc3 Nf6 4. f3 exf3 5. Qxf3 Nc6 6. Be3 Nxd4 7. Bxd4
+Qxd4 8. Nb5 Qd7 9. Rd1 Qc6 10. Qxc6+ bxc6 11. Nxc7# 1-0
+

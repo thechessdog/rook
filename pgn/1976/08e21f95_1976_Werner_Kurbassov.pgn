@@ -1,0 +1,19 @@
+[Event "Novosibirsk"]
+[Site "Novosibirsk"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Wenner, Tobias"]
+[Black "Kurbassov"]
+[Result "1-0"]
+[ECO "C04"]
+[Opening "French"]
+[Variation "Tarrasch, Guimard main line"]
+[HashCode "08e21f95"]
+[Epoch "Rook"]
+[WhiteID "4619714"]
+[WhiteCountry "GER"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nc6 4. Ngf3 Nf6 5. e5 Nd7 6. Bb5 f6 7. exf6 Qxf6 8.
+Nf1 e5 9. Ne3 e4 10. Nxd5 Qd6 11. Bc4 exf3 12. Bf4 Nde5 13. dxe5 fxg2 14. Rg1
+Qd8 15. Nf6+ Ke7 16. Qh5 Be6 17. Ng8+ Kd7 18. O-O-O+ Bd6 19. Bxe6+ Kxe6 20.
+exd6 1-0

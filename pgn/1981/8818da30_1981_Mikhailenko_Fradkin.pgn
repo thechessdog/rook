@@ -1,0 +1,21 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Mikhailenko"]
+[Black "Fradkin, Boris"]
+[Result "0-1"]
+[ECO "B77"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, 9.Bc4"]
+[HashCode "8818da30"]
+[Epoch "Rook"]
+[BlackID "4103297"]
+[BlackCountry "RUS"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 Nc6 8. Bc4
+O-O 9. Qd2 Nd7 10. O-O-O Nb6 11. Bb3 Na5 12. Qd3 Nxb3+ 13. cxb3 Bd7 14. Kb1 a5
+15. a4 Bc6 16. Ndb5 Nd7 17. Qe2 Qc8 18. Nd5 Bxd5 19. Rxd5 b6 20. g4 Nc5 21. Rc1
+Qb7 22. Bxc5 bxc5 23. h4 Rac8 24. Ka2 Qd7 25. h5 Rc6 26. Qd2 Qe6 27. Rc2 gxh5
+28. Rxh5 c4 29. Rd5 Rfc8 30. b4 c3 31. bxc3 axb4 32. c4 Rxc4 33. Rxc4 Rxc4 34.
+Kb3 Qc8 35. Qd3 Rc1 36. Kxb4 Rc2 37. Ka3 Rh2 38. Qe3 Qc4 39. Rd2 Qc1+ 0-1

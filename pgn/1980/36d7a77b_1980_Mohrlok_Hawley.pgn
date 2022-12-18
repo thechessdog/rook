@@ -1,0 +1,19 @@
+[Event "corr EUR/K tt"]
+[Site "corr EUR/K tt"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Mohrlok, D."]
+[Black "Hawley, M."]
+[Result "1-0"]
+[ECO "B71"]
+[Opening "Sicilian"]
+[Variation "dragon, Levenfish; Flohr variation"]
+[HashCode "36d7a77b"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. f4 Nbd7 7. Bc4 Bg7
+8. Nf3 Nb6 9. Bb3 O-O 10. O-O Qc7 11. Qe2 Bg4 12. Bd2 a6 13. Rae1 Nfd7 14.
+h3 Bxf3 15. Rxf3 Nc5 16. f5 Nxb3 17. axb3 Rad8 18. Kh1 Rd7 19. Be3 Qc6 20.
+Qf2 Na8 21. Rf1 Rdd8 22. Nd5 Qe8 23. Bd4 Bxd4 24. Qxd4 f6 25. Nf4 Rd7 26.
+fxg6 hxg6 27. Rg3 g5 28. Ne6 Rf7 29. Rf5 1-0
+

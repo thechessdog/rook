@@ -1,0 +1,17 @@
+[Event "corr NLD/H"]
+[Site "corr NLD/H"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Rijkee"]
+[Black "Blokland"]
+[Result "0-1"]
+[ECO "C05"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation"]
+[HashCode "fd8600b9"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. f4 c5 6. Ndf3 Nc6 7. Ne2 Qb6 8.
+c3 cxd4 9. Nexd4 Nxd4 10. Nxd4 Bc5 11. Be2 f6 12. Bg4 Nxe5 13. fxe5 fxe5
+14. Nf3 Bf2+ 15. Kf1 e4 16. Nd4 O-O 17. Ke2 Qa6+ 0-1
+

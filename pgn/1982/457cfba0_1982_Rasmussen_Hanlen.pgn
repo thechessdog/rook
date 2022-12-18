@@ -1,0 +1,17 @@
+[Event "Chehalis"]
+[Site "Chehalis"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Rasmussen, Karsten"]
+[Black "Hanlen, Jim"]
+[Result "1-0"]
+[ECO "D00"]
+[Opening "Blackmar-Diemer gambit"]
+[HashCode "457cfba0"]
+[Epoch "Rook"]
+[WhiteID "1400088"]
+[WhiteCountry "DEN"]
+
+1. d4 Nf6 2. Nc3 d5 3. e4 dxe4 4. f3 exf3 5. Nxf3 Bf5 6. Ne5 c6 7. g4 Bg6 8. g5
+Nd5 9. Bc4 e6 10. O-O Be7 11. Qf3 O-O 12. h4 Nd7 13. Ng4 Bh5 14. Nh6+ gxh6 15.
+Qxh5 f5 16. Qxh6 Qc7 17. Qxe6+ Kh8 18. Bxd5 cxd5 19. Bf4 Qc4 20. Qxe7 1-0

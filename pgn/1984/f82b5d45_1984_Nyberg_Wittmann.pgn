@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Nyberg, U."]
+[Black "Wittmann, Walter"]
+[Result "1-0"]
+[ECO "D85"]
+[Opening "Gruenfeld"]
+[Variation "modern exchange variation"]
+[HashCode "f82b5d45"]
+[Epoch "Rook"]
+[BlackID "1600060"]
+[BlackCountry "AUT"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. cxd5 Nxd5 6. e4 Nxc3 7. bxc3 O-O 8.
+Be3 c5 9. Be2 cxd4 10. cxd4 Bg4 11. O-O Nc6 12. d5 Bxa1 13. Qxa1 Bxf3 14. Bxf3
+Na5 15. Bh6 f6 16. Bg4 Qd6 17. Be6+ Kh8 18. Rc1 Rfd8 19. f4 1-0

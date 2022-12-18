@@ -1,0 +1,18 @@
+[Event "corr Netherlands"]
+[Site "corr Netherlands"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Post, H."]
+[Black "Wijnand, P."]
+[Result "0-1"]
+[ECO "E48"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 O-O, 5.Bd3 d5"]
+[HashCode "9c253f63"]
+[Epoch "Rook"]
+
+1. d4 e6 2. c4 Nf6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Bd2 b6 7. Nf3 Bb7 8.
+cxd5 Bxc3 9. Bxc3 Qxd5 10. O-O Nbd7 11. Re1 Ne4 12. Kf1 Ndf6 13. h3 Rfd8
+14. Qb3 Qh5 15. Rac1 Nxc3 16. bxc3 Bxf3 17. gxf3 Qxf3 18. Kg1 Rd5 19. Kf1
+Nh5 20. Red1 Rg5 21. Ke1 Rg2 22. Qc2 Ng3 23. c4 Rh2 0-1
+

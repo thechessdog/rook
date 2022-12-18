@@ -1,0 +1,22 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Grafendorf"]
+[Black "Blachmann, H."]
+[Result "0-1"]
+[ECO "A25"]
+[Opening "English"]
+[Variation "Sicilian reversed"]
+[HashCode "28f388c6"]
+[Epoch "Rook"]
+
+1. c4 e5 2. Nc3 Nc6 3. g3 Nf6 4. Bg2 Bb4 5. a3 Bxc3 6. bxc3 O-O 7. d4 exd4
+8. cxd4 d5 9. cxd5 Nxd5 10. Bb2 f5 11. e3 Be6 12. Ne2 Nce7 13. O-O c6 14.
+Qc2 Qd7 15. Rad1 Rf6 16. Nc1 Raf8 17. Nd3 Qe8 18. Nc5 Bc8 19. e4 fxe4 20.
+Nxe4 Rg6 21. Qd2 Nf5 22. Nc3 Be6 23. Be4 Nxc3 24. Qxc3 Bd5 25. Bc2 Qd7 26.
+Bxf5 Rxf5 27. f3 Rh5 28. Qe3 h6 29. Qf2 Rh3 30. Bc1 Qf5 31. Rde1 Kh7 32.
+Re5 Qd3 33. Qd2 Qc4 34. Qf4 Rxh2 35. Rf2 Rh3 36. g4 Bxf3 37. Rxf3 Rxf3 38.
+Qxf3 Qxc1+ 39. Kg2 Qd2+ 40. Kg3 Qxd4 41. Re4 Qg1+ 42. Kh3 Rf6 43. Qd3 Qf1+
+44. Qxf1 Rxf1 45. a4 Rf7 0-1
+

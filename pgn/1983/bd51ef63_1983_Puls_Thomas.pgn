@@ -1,0 +1,19 @@
+[Event "Southfield ch-MI M/X"]
+[Site "Southfield ch-MI M/X"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Puls, Michael"]
+[Black "Thomas, C."]
+[Result "1-0"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "classical attack, Mason variation"]
+[HashCode "bd51ef63"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Be7 7. O-O O-O
+8. c4 Nf6 9. h3 Nc6 10. a3 dxc4 11. Bxc4 Qd6 12. Nc3 a6 13. Re1 Bf5 14. Bg5
+Rae8 15. Bh4 Qd7 16. d5 Na5 17. Ne5 Qc8 18. Ba2 Bxh3 19. gxh3 Qxh3 20. Bxf6
+Bxf6 21. Qg4 Qh6 22. Nxf7 Rxe1+ 23. Rxe1 Qd2 24. Qe6 g6 25. Qxf6 Qxe1+ 26.
+Kg2 Qd2 27. Nh6+ Qxh6 28. d6+ Rf7 29. Qxf7+ Kh8 30. Qg8# 1-0
+

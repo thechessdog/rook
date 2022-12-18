@@ -1,0 +1,19 @@
+[Event "IBM"]
+[Site "Amsterdam II"]
+[Date "1978.07.01"]
+[Round "1"]
+[White "Van Wijgerden, Cornelis"]
+[Black "Ligterink, Gert"]
+[Result "1/2-1/2"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack"]
+[HashCode "982fb002"]
+[Epoch "Rook"]
+[BlackID "1000179"]
+[BlackCountry "NED"]
+[WhiteID "1000144"]
+[WhiteCountry "NED"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 c6 4. e3 Qb6 5. Rb1 Bf5 6. Bd3 Bxd3 7. Qxd3 Nbd7 8.
+Nf3 e6 9. O-O Be7 10. a3 O-O 11. Ne5 Rfe8 12. Nxd7 Nxd7 13. Bxe7 Rxe7 14. Ne2
+e5 15. c3 a5 16. Rfc1 a4 17. c4 Qa6 18. Qc2 1/2-1/2

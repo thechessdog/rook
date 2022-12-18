@@ -1,0 +1,22 @@
+[Event "Esbjerg"]
+[Site "Esbjerg"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Henrichsen, Jens"]
+[Black "Klausen, Jesper"]
+[Result "0-1"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Nimzovich (knight's tour) variation"]
+[HashCode "1dec3b26"]
+[Epoch "Rook"]
+[WhiteID "1401858"]
+[BlackID "1416588"]
+[WhiteCountry "DEN"]
+[BlackCountry "DEN"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. Nd2 a6 8. a4
+Nbd7 9. e4 Bg7 10. Be2 O-O 11. O-O Re8 12. Qc2 Rb8 13. Nc4 Nb6 14. Na3 Na8 15.
+h3 Nc7 16. Bf4 Nxe4 17. Nxe4 Bf5 18. f3 Nxd5 19. Bd2 Bd4+ 20. Kh1 Qh4 21. Be1
+Qh5 22. Bg3 Bxh3 23. gxh3 Qxh3+ 24. Bh2 Ne3 25. Bc4 Nxc2 26. Nxc2 Be5 27. f4
+Bxb2 28. Rab1 Rxe4 0-1

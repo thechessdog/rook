@@ -1,0 +1,22 @@
+[Event "Novi Sad"]
+[Site "Novi Sad"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Vukic, Milan"]
+[Black "Planinc, Albin"]
+[Result "1-0"]
+[ECO "A70"]
+[Opening "Benoni"]
+[Variation "classical with e4 and Nf3"]
+[HashCode "b86ddc5d"]
+[Epoch "Rook"]
+[WhiteID "900273"]
+[WhiteCountry "BIH"]
+[BlackCountry "SVN"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. e4 Bg7 8. Bf4
+O-O 9. Be2 b5 10. Nd2 b4 11. Nb5 Ba6 12. Rb1 Re8 13. Nxd6 Bxe2 14. Qxe2 Nxd5
+15. Qc4 Nxf4 16. Qxf7+ Kh8 17. Nxe8 Nd3+ 18. Kf1 Bh6 19. Nf6 Bg7 20. Ne8 Bh6
+21. Nc4 Nd7 22. Rd1 Qxe8 23. Qxe8+ Rxe8 24. Rxd3 Nb6 25. Nd6 Re7 26. b3 Bf4 27.
+Ke2 Bxd6 28. Rxd6 Rxe4+ 29. Kf3 Re7 30. Rc6 Nd7 31. Kg3 Re5 32. f4 Rd5 33. Re1
+Kg7 34. Re7+ Kh6 35. Kf3 Rd3+ 1-0

@@ -1,0 +1,22 @@
+[Event "Aarhus-A"]
+[Site "Aarhus"]
+[Date "1984.01.01"]
+[Round "4"]
+[White "Hvenekilde, Jorgen"]
+[Black "Jensen, Vagn"]
+[Result "0-1"]
+[ECO "D07"]
+[Opening "QGD"]
+[Variation "Chigorin defence"]
+[HashCode "cdf9201a"]
+[Epoch "Rook"]
+[WhiteID "1400649"]
+[BlackID "1400851"]
+[WhiteCountry "DEN"]
+[BlackCountry "DEN"]
+
+1. d4 d5 2. c4 Nc6 3. Bf4 dxc4 4. e3 e5 5. dxe5 Qxd1+ 6. Kxd1 Be6 7. Nf3 O-O-O+
+8. Kc1 h6 9. Be2 Nge7 10. Na3 c3 11. bxc3 Nd5 12. Nb1 Bc5 13. Bg3 Bf5 14. Nd4
+Nxc3 15. Nxc3 Ba3+ 16. Kd2 Nxd4 17. exd4 Rxd4+ 18. Ke3 Bc5 19. Nb5 Re4+ 20. Kd2
+Bb4+ 21. Kd1 Rd8+ 22. Nd6+ cxd6 23. Bd3 Rd4 24. Rc1+ Kd7 25. Rc4 Rxd3+ 26. Ke2
+Bc5 27. Rf4 0-1

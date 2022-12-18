@@ -1,0 +1,22 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Schmidt Seifert"]
+[Black "Sommer"]
+[Result "0-1"]
+[ECO "B17"]
+[Opening "Caro-Kann"]
+[Variation "Steinitz variation"]
+[HashCode "80c94cd4"]
+[Epoch "Rook"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Ng3 e6 7. Bd3 c5
+8. c3 Be7 9. O-O O-O 10. Bg5 b6 11. Ne4 Bb7 12. Nxf6+ Bxf6 13. Be3 Qe7 14.
+Re1 Rfd8 15. Qe2 Rac8 16. Ba6 Bxa6 17. Qxa6 Nb8 18. Qb5 Qd7 19. Qxd7 Nxd7
+20. dxc5 Nxc5 21. Bd4 Bxd4 22. Nxd4 Nd3 23. Re2 e5 24. Nf5 Kf8 25. g3 g6
+26. Ne3 f5 27. Rd1 e4 28. Red2 Ke7 29. c4 Ke6 30. b3 g5 31. Nc2 Rd6 32. f3
+Ke5 33. Nb4 Rcd8 34. Nd5 Nb4 35. f4+ gxf4 36. gxf4+ Ke6 37. Nc7+ Ke7 38.
+Rxd6 Rxd6 39. Rxd6 Kxd6 40. Nb5+ Kc5 41. Nxa7 Kd4 42. Kf2 Kd3 43. c5 e3+
+0-1
+

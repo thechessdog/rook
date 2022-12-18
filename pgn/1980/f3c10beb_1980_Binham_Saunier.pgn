@@ -1,0 +1,19 @@
+[Event "corr ol"]
+[Site "corr ol"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Binham, Timothy F."]
+[Black "Saunier, S."]
+[Result "1-0"]
+[ECO "E17"]
+[Opening "Queen's Indian"]
+[Variation "Opovcensky variation"]
+[HashCode "f3c10beb"]
+[Epoch "Rook"]
+[WhiteID "500151"]
+[WhiteCountry "FIN"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 b6 4. g3 Bb7 5. Bg2 Be7 6. Nc3 Ne4 7. Bd2 O-O 8. O-O
+Bf6 9. Rc1 c5 10. d5 Nxd2 11. Nxd2 Bxc3 12. Rxc3 exd5 13. cxd5 d6 14. f4 f5 15.
+e4 g6 16. e5 b5 17. g4 dxe5 18. fxe5 c4 19. gxf5 Bxd5 20. Ne4 Kg7 21. Nc5 Qb6
+22. Qxd5 1-0

@@ -1,0 +1,24 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Danailov, Silvio"]
+[Black "Ambroz, Jan"]
+[Result "0-1"]
+[ECO "E41"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5"]
+[HashCode "400fab51"]
+[Epoch "Rook"]
+[WhiteID "2900114"]
+[BlackID "300209"]
+[WhiteCountry "FID"]
+[BlackCountry "CZE"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 Nc6 6. Ne2 cxd4 7. exd4 d5 8. O-O
+dxc4 9. Bxc4 O-O 10. a3 Bd6 11. Qd3 e5 12. d5 e4 13. Nxe4 Ne5 14. Qd4 Nxe4 15.
+Qxe4 Re8 16. Qd4 Bd7 17. Ng3 Qf6 18. Be3 Nxc4 19. Qxc4 Qxb2 20. Rab1 b5 21.
+Rxb2 bxc4 22. Rb7 Bc8 23. Rxa7 Rxa7 24. Bxa7 Bxa3 25. Bd4 Rd8 26. Re1 Bf8 27.
+Bc3 f6 28. h3 Rxd5 29. Re4 Ba6 30. Re6 Bb7 31. Rb6 Rd7 32. Nf5 Be4 33. Ne3 Rd3
+34. Ba5 Bd5 35. Rb8 Kf7 36. Rc8 Be6 37. Rc7+ Ke8 38. g3 Ra3 39. Bd2 Kd8 40. Rb7
+c3 41. Be1 Ra1 42. Kf1 Bc8 43. Rb6 Bc5 0-1

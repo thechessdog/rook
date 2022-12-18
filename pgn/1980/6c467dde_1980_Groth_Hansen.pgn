@@ -1,0 +1,20 @@
+[Event "Hillerod"]
+[Site "Hillerod"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Groth, Erling"]
+[Black "Hansen, Soren Bech"]
+[Result "0-1"]
+[ECO "B10"]
+[Opening "Caro-Kann defence"]
+[HashCode "6c467dde"]
+[Epoch "Rook"]
+[BlackID "1400681"]
+[BlackCountry "DEN"]
+
+1. e4 c6 2. Nf3 d5 3. exd5 cxd5 4. Nc3 e6 5. Bb5+ Bd7 6. Bxd7+ Nxd7 7. d4 Bb4
+8. Bd2 Ngf6 9. Nb5 Qb6 10. Bxb4 Qxb5 11. Bd6 Qb6 12. Be5 Qxb2 13. O-O b6 14.
+Bxf6 Nxf6 15. Ne5 Rc8 16. Nd3 Qxc2 17. Qxc2 Rxc2 18. Rac1 Rxc1 19. Rxc1 O-O 20.
+Rc7 g6 21. Rxa7 Rc8 22. g3 Rc4 23. Rb7 Rxd4 24. Ne5 Ra4 25. Rxb6 Rxa2 26. Rb7
+Ra4 27. Nxf7 Ne4 28. f3 Nc5 29. Re7 d4 30. Kf1 d3 31. Ne5 Ra1+ 32. Kf2 d2 33.
+Re8+ Kg7 34. Rd8 d1=Q 35. Rxd1 Rxd1 0-1

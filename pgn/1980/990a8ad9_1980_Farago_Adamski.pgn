@@ -1,0 +1,23 @@
+[Event "Lodz Makarczyka Mem"]
+[Site "Lodz Makarczyka Mem"]
+[Date "1980.01.01"]
+[Round "2"]
+[White "Farago, Ivan"]
+[Black "Adamski, Jan"]
+[Result "1-0"]
+[ECO "E41"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5"]
+[HashCode "990a8ad9"]
+[Epoch "Rook"]
+[WhiteID "700134"]
+[WhiteCountry "HUN"]
+[BlackID "1100190"]
+[BlackCountry "POL"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 b6 6. Ne2 Bb7 7. O-O cxd4 8. exd4
+Be7 9. Re1 O-O 10. d5 Na6 11. Nf4 Re8 12. a3 Nc7 13. d6 Bxd6 14. Bxh7+ Kxh7 15.
+Qxd6 Rc8 16. b3 Qe7 17. Qd3+ Kg8 18. Bb2 d5 19. cxd5 Ncxd5 20. Ncxd5 Nxd5 21.
+Qg3 Qf8 22. Nxd5 exd5 23. Bf6 Re6 24. Rxe6 fxe6 25. Bd4 Qf7 26. h4 Bc6 27. Re1
+Bd7 28. Re5 Rc1+ 29. Kh2 Rd1 30. Qe3 Bb5 31. Rg5 Rd3 32. Qe5 Rxd4 33. Qxd4 Bd7
+34. Qe5 1-0

@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Henrichsen, J."]
+[Black "Hansen, H."]
+[Result "0-1"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Nimzovich (knight's tour) variation"]
+[HashCode "a8adf2f9"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 c5 4. d5 exd5 5. cxd5 d6 6. Nf3 g6 7. Nd2 Bg7 8.
+e4 a6 9. a4 Nbd7 10. Be2 O-O 11. O-O Re8 12. f4 c4 13. Kh1 Nc5 14. e5 dxe5
+15. fxe5 Rxe5 16. Nxc4 Rf5 17. Bf3 Ng4 18. Ne3 Nxh2 19. Kxh2 Qh4+ 20. Kg1
+Be5 21. Ng4 Rh5 22. Nxe5 Qh2+ 23. Kf2 Qh4+ 24. g3 Qh2+ 25. Bg2 Bh3 26. Rg1
+Rxe5 27. Bf4 Rf5 28. d6 Re8 29. b4 g5 0-1
+

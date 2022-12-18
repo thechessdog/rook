@@ -1,0 +1,24 @@
+[Event "Regionalliga Nord"]
+[Site "RLN 8182"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Marxen, Peter, Dr."]
+[Black "Derikum, Axel"]
+[Result "0-1"]
+[ECO "B16"]
+[Opening "Caro-Kann"]
+[Variation "Bronstein-Larsen variation"]
+[HashCode "e9f7f86b"]
+[Epoch "Rook"]
+[WhiteID "4607686"]
+[WhiteCountry "GER"]
+[BlackID "4602242"]
+[BlackCountry "GER"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ gxf6 6. Nf3 Bf5 7. Bd3 Bg6
+8. O-O Qc7 9. c4 Nd7 10. d5 O-O-O 11. Be3 c5 12. Qc2 Bxd3 13. Qxd3 e6 14. Rfd1
+h6 15. b4 f5 16. g3 Rg8 17. d6 Qc6 18. Bf4 Bg7 19. Rab1 Qe4 20. Qa3 Qxf4 21.
+bxc5 Qe4 22. Rb5 a6 23. Rb3 Nb8 24. Rdb1 Rd7 25. Nd2 Qd4 26. Qa5 Bf6 27. Qb6
+Bd8 28. Qa7 b6 29. Qa8 Qxc5 30. Qf3 Rxd6 31. Rd3 Rxd3 32. Qxd3 Bc7 33. Nb3 Qc6
+34. c5 Rd8 35. Qe3 f4 36. Qe2 b5 37. Qh5 fxg3 38. hxg3 Qe4 39. Rc1 Qg6 40. Qf3
+Rd5 41. c6 h5 42. Nc5 h4 43. Kg2 hxg3 0-1

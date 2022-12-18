@@ -1,0 +1,20 @@
+[Event "Wattignies"]
+[Site "Wattignies"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Van der Wiel, John T.H."]
+[Black "Weber, W."]
+[Result "1-0"]
+[ECO "B18"]
+[Opening "Caro-Kann"]
+[Variation "classical, 6.h4"]
+[HashCode "32e2fca9"]
+[Epoch "Rook"]
+[WhiteID "1000020"]
+[WhiteCountry "NED"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6 7. f4 e6 8. Nf3
+Nd7 9. h5 Bh7 10. Bd3 Bxd3 11. Qxd3 Qc7 12. Bd2 Ngf6 13. O-O-O O-O-O 14. Ne5
+Nb6 15. Kb1 c5 16. c3 c4 17. Qe2 Bd6 18. b3 Bxe5 19. fxe5 Nfd5 20. Ne4 Kb8 21.
+Rhf1 Rhf8 22. Rf3 cxb3 23. axb3 Nc8 24. Nc5 Nce7 25. Rdf1 Qa5 26. Kb2 Nc6 27.
+Nxe6 1-0

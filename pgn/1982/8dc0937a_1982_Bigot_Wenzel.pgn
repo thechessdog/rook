@@ -1,0 +1,22 @@
+[Event "Regionalliga Nord"]
+[Site "RLN 8182"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Bigot, Andreas"]
+[Black "Wenzel, Reinhard"]
+[Result "1-0"]
+[ECO "B23"]
+[Opening "Sicilian"]
+[Variation "Grand Prix attack"]
+[HashCode "8dc0937a"]
+[Epoch "Rook"]
+[WhiteID "4636260"]
+[WhiteCountry "GER"]
+[BlackID "4614844"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nc3 Nc6 3. f4 g6 4. Nf3 Bg7 5. Bb5 Nh6 6. d3 O-O 7. Bd2 d6 8. h3
+Rb8 9. g4 f5 10. Bc4+ Kh8 11. gxf5 gxf5 12. Ng5 Nd4 13. Ne2 e5 14. Nxd4 cxd4
+15. Qh5 fxe4 16. dxe4 d3 17. f5 d5 18. Bxd3 dxe4 19. Bxe4 Bxf5 20. O-O-O Rc8
+21. Rhg1 Qe7 22. Rdf1 Qc5 23. Ne6 Qc4 24. Bxh6 Bxh6+ 25. Qxh6 Rf7 26. Bxf5 Qxa2
+27. Bd3 1-0

@@ -1,0 +1,23 @@
+[Event "Poznan"]
+[Site "Poznan"]
+[Date "1976.01.01"]
+[Round "3"]
+[White "Kuligowski, Adam"]
+[Black "Bielczyk, Jacek"]
+[Result "0-1"]
+[ECO "E96"]
+[Opening "King's Indian"]
+[Variation "orthodox, 7...Nbd7, main line"]
+[HashCode "1ec4857e"]
+[Epoch "Rook"]
+[BlackID "1100530"]
+[BlackCountry "POL"]
+[WhiteID "1100092"]
+[WhiteCountry "POL"]
+
+1. d4 Nf6 2. c4 d6 3. Nc3 Nbd7 4. e4 e5 5. Nf3 g6 6. Be2 Bg7 7. O-O O-O 8. Re1
+a5 9. Bf1 c6 10. Rb1 Re8 11. d5 Nc5 12. b3 Bd7 13. Nd2 Bh6 14. a3 cxd5 15. cxd5
+b5 16. b4 axb4 17. Rxb4 Rb8 18. Qc2 Na6 19. Rxb5 Ra8 20. Rb1 Qc7 21. Nc4 Bxc1
+22. Qxc1 Nc5 23. Rb4 Reb8 24. Qb2 Rxb4 25. axb4 Na4 26. Nxa4 Rxa4 27. Bd3 Qb8
+28. Rb1 Bb5 29. Bc2 Ra7 30. Na5 Qb6 31. Rc1 Rc7 32. Bb1 Qd4 33. Qa3 Rxc1+ 34.
+Qxc1 Qxb4 0-1

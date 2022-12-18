@@ -1,0 +1,17 @@
+[Event "corr ch8-ITA"]
+[Site "corr ch8-ITA"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Giovanardi"]
+[Black "Di Meo"]
+[Result "1-0"]
+[ECO "B32"]
+[Opening "Sicilian"]
+[Variation "Labourdonnais-Loewenthal variation"]
+[HashCode "1da22d66"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e5 5. Ne2 Bb4+ 6. Bd2 Nf6 7. Bxb4
+Nxb4 8. Qd2 Qb6 9. Nbc3 O-O 10. Ng3 a6 11. Nf5 Qc5 12. a3 Nc6 13. Nxg7 Ne7
+14. Qg5 Qc6 15. Nh5+ Ng6 16. Nxf6+ Kg7 17. Ncd5 Kh8 18. Qh6 1-0
+

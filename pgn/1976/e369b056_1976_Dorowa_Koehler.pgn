@@ -1,0 +1,18 @@
+[Event "corr DDR-PZ"]
+[Site "corr DDR-PZ"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Dorowa"]
+[Black "Koehler"]
+[Result "1-0"]
+[ECO "B10"]
+[Opening "Caro-Kann"]
+[Variation "two knights variation"]
+[HashCode "e369b056"]
+[Epoch "Rook"]
+
+1. e4 c6 2. Nc3 d5 3. Nf3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h5 7. Ne5 Qd6
+8. d4 Nd7 9. Nxg6 fxg6 10. Ne4 Qd5 11. Nc3 Qd6 12. Be3 Ngf6 13. Qd3 Ng4 14.
+O-O-O Nxe3 15. Qxe3 Nb6 16. g3 O-O-O 17. Bh3+ Kb8 18. Be6 Nd7 19. d5 Qc5
+20. Qf4+ Kc8 21. Ne4 Qc4 22. Nd6+ 1-0
+

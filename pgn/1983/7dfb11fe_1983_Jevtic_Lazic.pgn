@@ -1,0 +1,19 @@
+[Event "Novi Sad"]
+[Site "Novi Sad"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Jevtic, Miodrag"]
+[Black "Lazic, Miroljub"]
+[Result "1/2-1/2"]
+[ECO "C49"]
+[Opening "Four knights"]
+[Variation "symmetrical variation"]
+[HashCode "7dfb11fe"]
+[Epoch "Rook"]
+[BlackID "900788"]
+[BlackCountry "SRB"]
+[WhiteID "902276"]
+[WhiteCountry "SRB"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Bb5 Bb4 5. O-O O-O 6. d3 d6 7. h3 h6 8. Ne2
+Ne7 9. c3 Ba5 10. Ng3 c6 11. Ba4 Ng6 1/2-1/2

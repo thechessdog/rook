@@ -1,0 +1,29 @@
+[Event "DDR"]
+[Site "DDR"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Espig, Lutz"]
+[Black "Schoeneberg, M."]
+[Result "0-1"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical, h3 system"]
+[HashCode "fe24e4b2"]
+[Epoch "Rook"]
+[WhiteID "4611276"]
+[WhiteCountry "GER"]
+
+1. Nf3 g6 2. e4 Bg7 3. d4 d6 4. Nc3 Nf6 5. h3 O-O 6. Be3 e5 7. dxe5 dxe5 8.
+Qxd8 Rxd8 9. Bc4 Nc6 10. Ng5 Rd7 11. Rd1 Nd4 12. O-O h6 13. Nxf7 Rxf7 14. Bxd4
+exd4 15. Rxd4 Nd7 16. Rd3 Bxc3 17. Rxc3 c6 18. Rd1 Ne5 19. Rd8+ Kg7 20. Bxf7
+Nxf7 21. Re8 Nd6 22. Re7+ Kf6 23. Rh7 Nxe4 24. Re3 Bf5 25. g4 Ng5 26. Rxb7 Bxc2
+27. Rc7 Be4 28. h4 Ne6 29. Rh7 Bd5 30. Rxh6 Rb8 31. h5 Nf4 32. b3 Kg7 33. g5
+Nxh5 34. Re7+ Bf7 35. Rxa7 Rb5 36. f4 Rf5 37. Ra4 Nxf4 38. Rh2 Rxg5+ 39. Kf1
+Rf5 40. Rf2 g5 41. Re4 Rc5 42. Rfxf4 Rc1+ 43. Kg2 Rc2+ 44. Kf3 gxf4 45. Ra4 Kf6
+46. Kxf4 Rh2 47. Ke3 Ke5 48. Kd3 Kd6 49. Kc3 Rh3+ 50. Kb2 Kc5 51. Ra5+ Kb4 52.
+Ra4+ Kb5 53. Rf4 Bd5 54. Rf2 Rg3 55. Rf8 Rg2+ 56. Ka3 c5 57. Rf6 Be4 58. Rf1
+Re2 59. Rc1 Rd2 60. Rg1 Bd3 61. Rc1 Rf2 62. Rd1 Bf5 63. Rc1 Rf3 64. Kb2 Be6 65.
+Re1 Bd5 66. Rd1 Bf7 67. Rh1 Re3 68. Rf1 Be6 69. Rg1 Kb4 70. Rg2 Bd5 71. Rh2 Bf3
+72. Rh4+ Be4 73. Rh2 Rg3 74. Re2 Rg2 75. a3+ Kb5 76. Rxg2 Bxg2 77. Kc3 Bd5 78.
+Kc2 Bg2 79. Kc3 Bf1 80. Kc2 Kc6 81. Kb2 Kd5 82. Kc3 Be2 83. Kd2 Ba6 84. Kc3 Bf1
+85. a4 Ba6 86. b4 c4 87. b5 Bc8 0-1

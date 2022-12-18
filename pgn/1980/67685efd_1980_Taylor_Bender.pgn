@@ -1,0 +1,19 @@
+[Event "corr ICA"]
+[Site "corr ICA"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Taylor, D."]
+[Black "Bender, F."]
+[Result "1-0"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra gambit"]
+[HashCode "67685efd"]
+[Epoch "Rook"]
+
+1. e4 c5 2. d4 cxd4 3. c3 dxc3 4. Nxc3 Nc6 5. Nf3 d6 6. Bc4 e6 7. O-O Be7
+8. Qe2 Nf6 9. Rd1 e5 10. Be3 O-O 11. Rac1 Bg4 12. h3 Be6 13. b4 Nxb4 14.
+Nxe5 Qa5 15. Nf3 d5 16. exd5 Nbxd5 17. Bd2 Nxc3 18. Bxc3 Qa3 19. Bxe6 fxe6
+20. Qxe6+ Kh8 21. Ne5 Bc5 22. Nf7+ Kg8 23. Ng5+ Kh8 24. Qf5 h6 25. Bxf6
+hxg5 26. Bxg7+ Kxg7 27. Qxg5+ Kh8 28. Rxc5 Rf7 29. Qh6+ 1-0
+

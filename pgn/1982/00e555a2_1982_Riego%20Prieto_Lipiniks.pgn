@@ -1,0 +1,18 @@
+[Event "Asuncion"]
+[Site "Asuncion"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Riego Prieto, Victo"]
+[Black "Lipiniks"]
+[Result "0-1"]
+[ECO "C36"]
+[Opening "KGA"]
+[Variation "Abbazia defence, modern variation"]
+[HashCode "00e555a2"]
+[Epoch "Rook"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 d5 4. exd5 Nf6 5. c4 c6 6. dxc6 Nxc6 7. d4 Bb4+
+8. Nc3 O-O 9. Be2 Ne4 10. Qb3 Re8 11. a3 Nxd4 12. Nxd4 Qxd4 13. Qxb4 Qf2+
+14. Kd1 Nxc3+ 15. Kc2 Nxe2 16. Bd2 a5 17. Qa4 b5 18. cxb5 Bf5+ 19. Kd1 Red8
+20. Qb3 Rxd2+ 0-1
+

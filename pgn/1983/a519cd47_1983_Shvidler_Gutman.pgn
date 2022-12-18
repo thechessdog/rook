@@ -1,0 +1,21 @@
+[Event "Netanya"]
+[Site "Netanya"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Shvidler, Eliahu"]
+[Black "Gutman, Lev"]
+[Result "1-0"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack"]
+[HashCode "a519cd47"]
+[Epoch "Rook"]
+[WhiteID "2800160"]
+[BlackID "4600177"]
+[WhiteCountry "ISR"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 Nbd7 4. Nf3 h6 5. Bxf6 Nxf6 6. Qd3 c6 7. e4 dxe4 8.
+Nxe4 Qa5+ 9. c3 Bf5 10. Nxf6+ gxf6 11. Qd2 Rg8 12. Bc4 h5 13. Nh4 Be4 14. Qe2
+Bh7 15. f4 Rg4 16. g3 e6 17. O-O O-O-O 18. f5 Bh6 19. Rae1 Bg5 20. fxe6 Bxh4
+21. e7 Re8 22. Bxf7 Bxg3 23. Qxg4+ hxg4 24. Bxe8 Bxe1 25. Bf7 Bh4 26. e8=Q+ Kc7
+27. Qe7+ Kb6 28. Bc4 1-0

@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Graversgaard"]
+[Black "Andersen, Jens Knud"]
+[Result "0-1"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack"]
+[HashCode "9c3a336c"]
+[Epoch "Rook"]
+[BlackID "4616910"]
+[BlackCountry "GER"]
+
+1. Nc3 d5 2. d4 Nf6 3. Bg5 c6 4. f3 Nbd7 5. e4 dxe4 6. fxe4 e5 7. dxe5 Qa5 8.
+Bxf6 gxf6 9. exf6 Nxf6 10. Qf3 Bg7 11. Bd3 Bg4 12. Qe3 O-O-O 13. Ne2 Be6 14. a3
+Ng4 15. Qf3 Bh6 16. Nf4 Ne5 17. Qf1 Bxf4 0-1

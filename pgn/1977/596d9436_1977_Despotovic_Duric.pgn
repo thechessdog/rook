@@ -1,0 +1,18 @@
+[Event "corr Yugoslavia"]
+[Site "corr Yugoslavia"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Despotovic"]
+[Black "Djuric, Stefan"]
+[Result "1-0"]
+[ECO "E27"]
+[Opening "Nimzo-Indian"]
+[Variation "Saemisch variation"]
+[HashCode "596d9436"]
+[Epoch "Rook"]
+[BlackID "900133"]
+[BlackCountry "SRB"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. a3 Bxc3+ 5. bxc3 O-O 6. f3 Nh5 7. Nh3 f5 8. e4
+b6 9. e5 g6 10. Bg5 Qe8 11. Bh6 Rf7 12. Ng5 Re7 13. f4 d5 14. g4 fxg4 15. Qxg4
+c6 16. Bd3 Na6 17. Nxh7 1-0

@@ -1,0 +1,19 @@
+[Event "Gausdal Int"]
+[Site "Gausdal"]
+[Date "1982.??.??"]
+[Round "8"]
+[White "Ciric, Dragoljub M"]
+[Black "Leverett, Bruce W"]
+[Result "1-0"]
+[ECO "C80"]
+[Opening "Ruy Lopez"]
+[Variation "open, Bernstein variation"]
+[HashCode "48f28aa4"]
+[Epoch "Rook"]
+[BlackID "2002906"]
+[BlackCountry "USA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Be6 9. Nbd2 Be7 10. c3 O-O 11. Bc2 f5 12. Nd4 Nxd4 13. cxd4 c5 14. dxc5 Nxd2
+15. Bxd2 Bxc5 16. Rc1 Rc8 17. Bb3 Qb6 18. Qf3 Rfd8 19. Bg5 Rd7 20. Rfd1 h6 21.
+Be3 Rdc7 22. Bxd5 Bxe3 23. Rxc7 1-0

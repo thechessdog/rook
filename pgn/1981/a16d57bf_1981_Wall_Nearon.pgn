@@ -1,0 +1,18 @@
+[Event "Columbus,OH"]
+[Site "Columbus,OH"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Wall, Bill"]
+[Black "Nearon, Mike"]
+[Result "1/2-1/2"]
+[ECO "C86"]
+[Opening "Ruy Lopez"]
+[Variation "Worrall attack, solid line"]
+[HashCode "a16d57bf"]
+[Epoch "Rook"]
+[WhiteCountry "USA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. Qe2 b5 6. Bb3 Be7 7. O-O d6 8. c3
+O-O 9. d3 Bb7 10. Rd1 Na5 11. Nbd2 Nxb3 12. Nxb3 c5 13. Nbd2 Re8 14. Nf1 Bf8
+15. Ng3 g6 16. Bg5 Bg7 17. Qd2 d5 18. Qc2 Qb6 19. Re1 dxe4 20. dxe4 Rad8 21. h4
+h6 22. Be3 1/2-1/2

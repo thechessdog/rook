@@ -1,0 +1,28 @@
+[Event "Hannover"]
+[Site "Hannover"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Lau, Ralf"]
+[Black "Gheorghiu, Florin"]
+[Result "0-1"]
+[ECO "B42"]
+[Opening "Sicilian"]
+[Variation "Kan, 5.Bd3"]
+[HashCode "6422d1f1"]
+[Epoch "Rook"]
+[BlackID "1200011"]
+[BlackCountry "ROU"]
+[WhiteID "4600134"]
+[WhiteCountry "GER"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Nf6 6. O-O d6 7. c4 b6 8. Nc3
+Bb7 9. b3 Nbd7 10. Qe2 g6 11. Ba3 Rc8 12. Rad1 Be7 13. Bb2 O-O 14. Kh1 Re8 15.
+Bb1 Bf8 16. f4 e5 17. fxe5 Nxe5 18. Nf3 Nfd7 19. Nxe5 Nxe5 20. Qf2 Bc6 21. a3
+Qc7 22. Ba2 Bg7 23. b4 Rf8 24. Qd2 Ba8 25. Nd5 Bxd5 26. Bxe5 Bxe5 27. Qxd5 Kg7
+28. Rf3 f6 29. Rb1 Qc6 30. Qxc6 Rxc6 31. a4 Rfc8 32. g3 h5 33. Ra3 h4 34. b5
+axb5 35. axb5 R6c7 36. Kg2 hxg3 37. hxg3 Bd4 38. Bb3 Re8 39. Kf3 f5 40. exf5
+Re3+ 41. Kg2 gxf5 42. Ra2 Be5 43. Kf2 Rxg3 44. Rg1 f4 45. Rxg3+ fxg3+ 46. Kg2
+Kf6 47. Re2 Kg5 48. Re1 Kf4 49. Re2 Bd4 50. Bc2 Be3 51. Bd3 Ra7 52. Rc2 Ra1 53.
+Bf1 Rd1 54. Ra2 Rc1 55. Rb2 Ke4 56. Ra2 Kd4 57. Re2 Bf4 58. Ra2 Kc5 59. Be2 Be5
+60. Rd2 Rxc4 61. Bxc4 Kxc4 62. Kf3 Kxb5 63. Ke4 Kc4 64. Rd1 b5 65. Rc1+ Bc3 66.
+Kf3 b4 67. Kxg3 b3 68. Kf3 b2 69. Rd1 Kb3 70. Rh1 Kc2 71. Rh2+ Bd2 0-1

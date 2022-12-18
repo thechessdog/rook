@@ -1,0 +1,18 @@
+[Event "Plovdiv"]
+[Site "Plovdiv"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Tringov, Georgi P"]
+[Black "Georgiev, Krum"]
+[Result "1/2-1/2"]
+[ECO "B91"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Zagreb (fianchetto) variation"]
+[HashCode "4c11e338"]
+[Epoch "Rook"]
+[BlackID "2900092"]
+[BlackCountry "FID"]
+[WhiteCountry "BGR"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. g3 e6 7. Bg2 Be7 8. O-O
+O-O 9. Nce2 Re8 10. c4 Qc7 11. b3 Nc6 12. Bb2 Bd7 13. Rc1 Rad8 14. Nc3 1/2-1/2

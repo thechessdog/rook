@@ -1,0 +1,18 @@
+[Event "Hungary"]
+[Site "Hungary"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Sax, Gyula"]
+[Black "Ribli, Zoltan"]
+[Result "1/2-1/2"]
+[ECO "B93"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.f4"]
+[HashCode "a2462b9d"]
+[Epoch "Rook"]
+[WhiteCountry "HUN"]
+[BlackID "700010"]
+[BlackCountry "HUN"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 e5 7. Nf3 Nbd7 8. a4
+Be7 9. Bd3 O-O 10. O-O Nc5 11. Kh1 d5 1/2-1/2

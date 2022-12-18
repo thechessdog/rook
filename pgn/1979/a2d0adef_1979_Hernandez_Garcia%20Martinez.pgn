@@ -1,0 +1,18 @@
+[Event "Capablanca mem"]
+[Site "Cienfuegos"]
+[Date "1979.01.01"]
+[Round "12"]
+[White "Hernandez, Jose J"]
+[Black "Garcia Martinez, Silvino"]
+[Result "1-0"]
+[ECO "D91"]
+[Opening "Gruenfeld"]
+[Variation "5.Bg5"]
+[HashCode "a2d0adef"]
+[Epoch "Rook"]
+[BlackID "3500179"]
+[BlackCountry "CUB"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Bg5 Ne4 6. Bh4 c5 7. cxd5 Qa5 8. e3
+cxd4 9. exd4 Nxc3 10. Qd2 Bg4 11. Be2 Nd7 12. bxc3 Bh6 13. Qb2 Rc8 14. O-O Qxc3
+15. Qxb7 Qc7 16. Qxc7 Rxc7 17. Rfe1 Nb6 18. Bb5+ Kf8 19. d6 exd6 20. Bf6 1-0

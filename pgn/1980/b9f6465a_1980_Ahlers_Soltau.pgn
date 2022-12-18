@@ -1,0 +1,18 @@
+[Event "corr DFSM"]
+[Site "corr DFSM"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Ahlers, K."]
+[Black "Soltau, A."]
+[Result "1-0"]
+[ECO "B93"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.f4"]
+[HashCode "b9f6465a"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 Qc7 7. Bd3 e5 8.
+Nf3 b5 9. O-O Nbd7 10. Qe1 Bb7 11. Kh1 g6 12. a4 b4 13. Nd1 Nc5 14. Nf2 b3
+15. fxe5 dxe5 16. Bg5 Nfd7 17. Ng4 Bg7 18. Bh6 Nxd3 19. cxd3 O-O 20. Ng5
+Rae8 21. Qh4 f6 22. Nxh7 Kxh7 23. Bxg7+ Kxg7 24. Qh6+ Kf7 25. Nxf6 1-0
+

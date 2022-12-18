@@ -1,0 +1,19 @@
+[Event "corr ch-CSSR"]
+[Site "corr ch-CSSR"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Kucera"]
+[Black "Jandovsky"]
+[Result "0-1"]
+[ECO "B80"]
+[Opening "Sicilian"]
+[Variation "Scheveningen variation"]
+[HashCode "d22a14c5"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 Be7 7. Qd2 a6 8.
+O-O-O b5 9. a3 Bb7 10. Qe1 Nbd7 11. f4 Qb6 12. f5 e5 13. Nf3 Rc8 14. Bd3
+Bc6 15. Qe2 b4 16. axb4 Qxb4 17. Bxa6 Rb8 18. Bd3 Qxb2+ 19. Kd2 Rb3 20. Nb1
+Rxd3+ 21. Qxd3 Nxe4+ 22. Ke1 Nxg5 23. Nxg5 Bxg5 24. Nd2 Qb4 25. c3 Qh4+ 26.
+g3 Bxd2+ 27. Rxd2 Qa4 0-1
+

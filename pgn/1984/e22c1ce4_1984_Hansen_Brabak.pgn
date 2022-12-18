@@ -1,0 +1,19 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Hansen, Bjarne"]
+[Black "Brabak, Anders"]
+[Result "1-0"]
+[ECO "B10"]
+[Opening "Caro-Kann defence"]
+[HashCode "e22c1ce4"]
+[Epoch "Rook"]
+[WhiteID "1403176"]
+[WhiteCountry "DEN"]
+
+1. e4 c6 2. Nc3 g6 3. d4 Bg7 4. Nf3 e6 5. Be2 Ne7 6. O-O O-O 7. Be3 d5 8. a3
+Qc7 9. Qd2 Nd7 10. Bd3 dxe4 11. Bxe4 Nf6 12. h3 Nfd5 13. Bh6 Nxc3 14. Bxg7 Kxg7
+15. Qxc3 Nd5 16. Bxd5 exd5 17. Rae1 Bd7 18. Re5 Rae8 19. Rfe1 Qc8 20. Qc5 b6
+21. Qd6 Rd8 22. Ng5 Kg8 23. Qf6 a5 24. Re7 Rde8 25. Rxf7 Rxe1+ 26. Kh2 Rxf7 27.
+Qxf7+ Kh8 28. Qxh7# 1-0

@@ -1,0 +1,21 @@
+[Event "Elekes mem-A"]
+[Site "Budapest"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Szilagyi, Gyorgy"]
+[Black "Pirisi, Gabor"]
+[Result "0-1"]
+[ECO "A48"]
+[Opening "King's Indian"]
+[Variation "London system"]
+[HashCode "259f5a2a"]
+[Epoch "Rook"]
+[BlackID "700444"]
+[BlackCountry "HUN"]
+[WhiteCountry "HUN"]
+
+1. Nf3 Nf6 2. d4 g6 3. Bf4 Bg7 4. e3 d6 5. h3 O-O 6. Be2 Nbd7 7. O-O Qe8 8. Bh2
+e5 9. c4 Ne4 10. Nbd2 Nxd2 11. Qxd2 e4 12. Ne1 f5 13. Rc1 g5 14. f4 exf3 15.
+Bxf3 Nf6 16. Nd3 Ne4 17. Bxe4 Qxe4 18. Nf2 Qe7 19. c5 b6 20. cxd6 cxd6 21. Rc6
+Rd8 22. Rfc1 Bb7 23. Rc7 Rd7 24. Rxd7 Qxd7 25. h4 h6 26. hxg5 hxg5 27. Qb4 Qe6
+28. Bxd6 Qxe3 29. Rc7 Bxd4 30. Rxb7 Qxf2+ 31. Kh2 Qh4# 0-1

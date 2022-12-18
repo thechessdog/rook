@@ -1,0 +1,19 @@
+[Event "Sumperk ch-CS"]
+[Site "Sumperk ch-CS"]
+[Date "1984.01.01"]
+[Round "2"]
+[White "Pribyl, Josef"]
+[Black "Pacl, Vaclav"]
+[Result "1/2-1/2"]
+[ECO "B13"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack"]
+[HashCode "2dbdff41"]
+[Epoch "Rook"]
+[WhiteID "300187"]
+[WhiteCountry "CZE"]
+[BlackID "302031"]
+[BlackCountry "CZE"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 Nc6 6. Nf3 e6 7. c5 Be7 8. Bb5
+Bd7 9. O-O O-O 10. Bf4 Ne4 11. Re1 Nxc3 12. bxc3 b6 13. cxb6 1/2-1/2

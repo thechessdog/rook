@@ -1,0 +1,17 @@
+[Event "Casilda"]
+[Site "Casilda"]
+[Date "1984.01.01"]
+[Round "11"]
+[White "Bronstein, Luis Marcos"]
+[Black "Kurtic, I."]
+[Result "1/2-1/2"]
+[ECO "E19"]
+[Opening "Queen's Indian"]
+[Variation "old main line, 9.Qxc3"]
+[HashCode "418afbe0"]
+[Epoch "Rook"]
+[WhiteID "100463"]
+[WhiteCountry "ARG"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2 Be7 6. O-O O-O 7. Nc3 Ne4 8. Qc2
+Nxc3 9. Qxc3 d6 10. b3 Bf6 11. Bb2 Nd7 12. Rfd1 Qe7 13. Qc2 c5 14. dxc5 1/2-1/2

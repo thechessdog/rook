@@ -1,0 +1,18 @@
+[Event "Greenville ch-USA"]
+[Site "Greenville ch-USA"]
+[Date "1980.01.01"]
+[Round "13"]
+[White "Byrne, Robert E"]
+[Black "Benko, Pal"]
+[Result "1/2-1/2"]
+[ECO "B42"]
+[Opening "Sicilian"]
+[Variation "Kan, 5.Bd3"]
+[HashCode "34a39245"]
+[Epoch "Rook"]
+[BlackID "2000687"]
+[BlackCountry "USA"]
+[WhiteCountry "USA"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Nf6 6. O-O d6 7. c4 b6 8. Nc3
+Bb7 9. b3 Be7 10. Bb2 O-O 1/2-1/2

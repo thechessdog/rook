@@ -1,0 +1,17 @@
+[Event "ACM Washington"]
+[Site "ACM Washington"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Brute Force"]
+[Black "BS66/76"]
+[Result "0-1"]
+[ECO "B01"]
+[Opening "Scandinavian (centre counter) defence"]
+[HashCode "edfe079f"]
+[Epoch "Rook"]
+
+1. e4 d5 2. exd5 e5 3. Nc3 f5 4. Nf3 e4 5. Ne5 Bb4 6. Bc4 Ne7 7. Qh5+ g6 8.
+Qd1 Nd7 9. Nxd7 Bxd7 10. O-O c6 11. dxc6 Bxc6 12. Be6 Qd6 13. Bc4 Qd4 14.
+Be6 Qe5 15. Bc4 O-O-O 16. Re1 h5 17. Re3 b5 18. Bf7 h4 19. Qe2 Rh7 20. Bb3
+Bc5 21. Rh3 Rdh8 22. d4 Bxd4 23. Kf1 Kb8 24. Bg5 b4 25. f4 exf3 0-1
+

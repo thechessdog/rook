@@ -1,0 +1,21 @@
+[Event "Sverdlovsk"]
+[Site "Sverdlovsk"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Chernin, Alexander"]
+[Black "Yudasin, Leonid"]
+[Result "1-0"]
+[ECO "E04"]
+[Opening "Catalan"]
+[Variation "open, 5.Nf3"]
+[HashCode "27fad9bd"]
+[Epoch "Rook"]
+[WhiteID "715620"]
+[BlackID "2802341"]
+[WhiteCountry "HUN"]
+[BlackCountry "ISR"]
+
+1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. g3 dxc4 5. Bg2 b5 6. Ne5 Nd5 7. a4 c6 8. axb5
+cxb5 9. Nc3 Bb4 10. O-O Bxc3 11. e4 Bxb2 12. exd5 Bxa1 13. Ba3 a5 14. Qg4 b4
+15. Qxg7 Rf8 16. Rxa1 bxa3 17. dxe6 Bxe6 18. Bxa8 Qxd4 19. Rb1 Nd7 20. Bc6 Qd6
+21. Bxd7+ Bxd7 22. Nxc4 Qc5 23. Rb8+ Bc8 24. Rxc8+ 1-0

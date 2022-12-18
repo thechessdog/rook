@@ -1,0 +1,18 @@
+[Event "Budapest ch-HUN"]
+[Site "Budapest ch-HUN"]
+[Date "1977.11.01"]
+[Round "1"]
+[White "Rigo, Janos"]
+[Black "Schneider, Attila"]
+[Result "1/2-1/2"]
+[ECO "B18"]
+[Opening "Caro-Kann"]
+[Variation "classical, 6.h4"]
+[HashCode "09c1cab7"]
+[Epoch "Rook"]
+[WhiteID "700371"]
+[WhiteCountry "HUN"]
+[BlackCountry "HUN"]
+
+1. e4 c6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6 7. h5 Bh7 8. Nf3
+Nd7 9. Bd3 Bxd3 10. Qxd3 Qc7 11. Be3 Ngf6 12. O-O-O 1/2-1/2

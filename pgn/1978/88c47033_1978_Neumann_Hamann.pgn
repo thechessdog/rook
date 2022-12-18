@@ -1,0 +1,20 @@
+[Event "Kiel"]
+[Site "Kiel"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Neumann"]
+[Black "Hamann, Svend"]
+[Result "0-1"]
+[ECO "B99"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7...Be7 main line"]
+[HashCode "88c47033"]
+[Epoch "Rook"]
+[BlackID "1400193"]
+[BlackCountry "DEN"]
+
+1. e4 c5 2. Nf3 d6 3. Nc3 a6 4. d4 cxd4 5. Nxd4 Nf6 6. Bg5 e6 7. f4 Be7 8. Qf3
+Qc7 9. O-O-O Nbd7 10. Bd3 h6 11. g3 Nb6 12. f5 e5 13. Nde2 Bd7 14. Be3 Bc6 15.
+Bxb6 Qxb6 16. g4 d5 17. exd5 Nxd5 18. Be4 Ne3 19. Rd3 Nc4 20. Bxc6+ bxc6 21. b3
+Bg5+ 22. Kb1 Nd2+ 23. Ka1 O-O 24. Ng3 Qb4 25. Qg2 Rad8 26. Qxc6 Rxd3 27. cxd3
+Rd8 28. Nd5 Nxb3+ 0-1

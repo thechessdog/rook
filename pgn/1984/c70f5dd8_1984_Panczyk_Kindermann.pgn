@@ -1,0 +1,24 @@
+[Event "Rubinstein Memorial"]
+[Site "Polancia Zdroj"]
+[Date "1984.08.01"]
+[Round "8"]
+[White "Panczyk, Krzysztof"]
+[Black "Kindermann, Stefan"]
+[Result "0-1"]
+[ECO "A77"]
+[Opening "Benoni"]
+[Variation "classical, 9...Re8, 10.Nd2"]
+[HashCode "c70f5dd8"]
+[Epoch "Rook"]
+[WhiteID "1100211"]
+[WhiteCountry "POL"]
+[BlackID "4600053"]
+[BlackCountry "AUT"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. e4 Bg7 8. Be2
+O-O 9. O-O Re8 10. Nd2 Nbd7 11. Qc2 Ne5 12. b3 Nfg4 13. h3 Nh6 14. f4 Neg4 15.
+Nf3 Qa5 16. e5 Bf5 17. Qd2 dxe5 18. hxg4 exf4 19. Bb2 Nxg4 20. Rac1 Re3 21. d6
+Rae8 22. Bc4 Ne5 23. Ba1 Nxf3+ 24. gxf3 Bd4 25. Kh1 b5 26. Bxb5 Bxc3 27. Rxc3
+Qxb5 28. Rc4 Bd3 29. Rxf4 Qd7 30. Qh2 h5 31. Rg1 Re1 32. Rh4 Qf5 33. Qf2 Rxg1+
+34. Kxg1 Re2 35. Qg3 Bb5 36. Re4 Rxe4 37. d7 Qxd7 38. fxe4 Qd1+ 39. Kh2 Qxa1
+40. Qb8+ Kh7 41. Qxb5 0-1

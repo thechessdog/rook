@@ -1,0 +1,17 @@
+[Event "Hungary"]
+[Site "Hungary"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Koranyi"]
+[Black "Havasi"]
+[Result "1-0"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical (two knights) system"]
+[HashCode "f9036710"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. Nf3 g6 3. Nc3 Bg7 4. e4 d6 5. Bf4 O-O 6. Qd2 c6 7. Bh6 b5 8.
+Bd3 Nbd7 9. Bxg7 Kxg7 10. e5 Ne8 11. h4 h5 12. e6 fxe6 13. Bxg6 Kxg6 14.
+Qg5+ Kh7 15. Qxh5+ Kg8 16. Qg6+ Ng7 17. Ng5 Nf6 18. Nce4 1-0
+

@@ -1,0 +1,16 @@
+[Event "corr Netherlands"]
+[Site "corr Netherlands"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Van der Hooven"]
+[Black "Goossens"]
+[Result "0-1"]
+[ECO "C17"]
+[Opening "French"]
+[Variation "Winawer, advance, 5.a3"]
+[HashCode "15a978dc"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Ba5 6. b4 cxb4 7. Qg4 Qc7 8.
+Qxg7 Qxc3+ 9. Kd1 b3 0-1
+

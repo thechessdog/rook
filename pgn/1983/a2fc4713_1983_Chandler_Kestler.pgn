@@ -1,0 +1,21 @@
+[Event "Bundesliga 8283"]
+[Site "Duitsland tt"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Chandler, Murray G"]
+[Black "Kestler, Hans-Guenther"]
+[Result "1-0"]
+[ECO "B64"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, Geller variation"]
+[HashCode "a2fc4713"]
+[Epoch "Rook"]
+[WhiteID "400050"]
+[WhiteCountry "NZL"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd2 Be7 8.
+O-O-O O-O 9. f4 e5 10. Nf5 Bxf5 11. exf5 Rc8 12. g4 exf4 13. Bxf4 Nxg4 14. Nd5
+Nf6 15. Nxe7+ Nxe7 16. Rg1 Nxf5 17. Bd3 Qd7 18. Qg2 Ne8 19. Qh3 Rc5 20. Rg5 g6
+21. Bxf5 Rxf5 22. Rxf5 Qxf5 23. Qxf5 gxf5 24. Bh6 f6 25. Bxf8 Kxf8 26. Rd5 Ke7
+27. Rxf5 Ng7 1-0

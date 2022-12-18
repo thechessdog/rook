@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Nick, L."]
+[Black "Roach, W."]
+[Result "0-1"]
+[ECO "D32"]
+[Opening "QGD"]
+[Variation "Tarrasch, von Hennig-Schara gambit"]
+[HashCode "b83cf259"]
+[Epoch "Rook"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c5 4. cxd5 cxd4 5. Qxd4 Nc6 6. Qd1 exd5 7. Qxd5
+Bd7 8. Nf3 Nf6 9. Qd1 Bc5 10. e3 Qe7 11. Be2 O-O-O 12. O-O g5 13. b4 Nxb4
+14. Bb2 Rhg8 15. Rc1 Kb8 16. Qb3 Bc6 17. Rfd1 Bxe3 18. fxe3 Qxe3+ 19. Kh1
+Ng4 20. Rxd8+ Rxd8 21. h3 Nf2+ 22. Kh2 Qf4+ 23. g3 Qf5 24. g4 Qf4+ 25. Kg2
+Rd2 0-1
+

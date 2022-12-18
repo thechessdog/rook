@@ -1,0 +1,21 @@
+[Event "corr ch-DDR"]
+[Site "corr ch-DDR"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Strutz"]
+[Black "Kohn"]
+[Result "0-1"]
+[ECO "B18"]
+[Opening "Caro-Kann"]
+[Variation "classical, 6.h4"]
+[HashCode "ec37f947"]
+[Epoch "Rook"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6 7. f4 e6 8.
+h5 Bh7 9. Nf3 Nd7 10. Bd3 Bxd3 11. Qxd3 Ngf6 12. Qe2 Qc7 13. Ne5 Bb4+ 14.
+c3 Bd6 15. Bd2 c5 16. O-O O-O 17. Ne4 Nxe4 18. Qxe4 Nf6 19. Qe2 cxd4 20.
+cxd4 Qc2 21. Rfe1 Rfd8 22. Nd3 Qc4 23. Bc3 Nxh5 24. g4 Nf6 25. g5 Nd5 26.
+Qe4 Nxc3 27. bxc3 hxg5 28. fxg5 Qxc3 29. g6 Bg3 30. gxf7+ Kf8 31. Nc5 Bxe1
+32. Rxe1 Qg3+ 33. Kf1 Qh3+ 34. Kg1 Kxf7 35. Re3 Qh6 36. Rf3+ Kg8 37. Nxe6
+Re8 38. d5 Rac8 0-1
+

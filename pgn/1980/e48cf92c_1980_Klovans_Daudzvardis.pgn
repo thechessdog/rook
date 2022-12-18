@@ -1,0 +1,21 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Klovans, Janis"]
+[Black "Daudzvardis, Janis"]
+[Result "1-0"]
+[ECO "B18"]
+[Opening "Caro-Kann"]
+[Variation "classical variation"]
+[HashCode "e48cf92c"]
+[Epoch "Rook"]
+[BlackID "11600160"]
+[WhiteCountry "LVA"]
+[BlackCountry "LAT"]
+
+1. e4 c6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. Nf3 Nd7 7. Bc4 e6 8.
+O-O Bd6 9. Qe2 Qe7 10. Bg5 Ngf6 11. Ne5 O-O 12. Nxg6 hxg6 13. Ne4 Bc7 14. Rad1
+Rfe8 15. Rfe1 Qf8 16. Qf3 Bd8 17. Bd2 Nxe4 18. Rxe4 Bf6 19. Rde1 Nb6 20. Bb3
+Rad8 21. c3 c5 22. dxc5 Rxd2 23. cxb6 Rxb2 24. bxa7 Qc5 25. Rxe6 fxe6 26. Rxe6
+Rb1+ 27. Re1+ Kf8 28. Rxb1 Qxc3 29. Qxc3 Bxc3 30. Bc4 1-0

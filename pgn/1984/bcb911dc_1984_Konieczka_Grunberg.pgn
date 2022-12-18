@@ -1,0 +1,19 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Konieczka, Frank"]
+[Black "Gruenberg, Rainer"]
+[Result "1/2-1/2"]
+[ECO "B30"]
+[Opening "Sicilian defence"]
+[HashCode "bcb911dc"]
+[Epoch "Rook"]
+[WhiteID "4607104"]
+[BlackID "4601262"]
+[WhiteCountry "GER"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nf3 Nc6 3. d3 g6 4. g3 Bg7 5. Bg2 d6 6. O-O e5 7. Nh4 Nge7 8. f4
+exf4 9. gxf4 d5 10. c3 dxe4 11. dxe4 Qxd1 12. Rxd1 Bg4 13. Re1 O-O-O 14. Be3 b6
+15. h3 Be6 16. Nd2 Bh6 17. Nf1 Bc4 18. f5 Bxe3+ 19. Nxe3 Ne5 20. Nf3 1/2-1/2

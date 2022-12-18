@@ -1,0 +1,20 @@
+[Event "corr CSSR"]
+[Site "corr CSSR"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Verecz"]
+[Black "Malis"]
+[Result "1-0"]
+[ECO "C69"]
+[Opening "Ruy Lopez"]
+[Variation "exchange, Gligoric variation"]
+[HashCode "1796b2ff"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O f6 6. d4 Bg4 7. dxe5 Qxd1
+8. Rxd1 fxe5 9. Rd3 Bd6 10. Nbd2 Nf6 11. Nc4 O-O-O 12. Nfxe5 Bxe5 13. Nxe5
+Be2 14. Rxd8+ Rxd8 15. f3 Bd1 16. c3 c5 17. Be3 b6 18. b3 a5 19. Kf2 a4 20.
+Rb1 Bc2 21. Rb2 axb3 22. axb3 Bxe4 23. fxe4 Nxe4+ 24. Kf3 Nxc3 25. h4 Kb7
+26. g4 Rf8+ 27. Bf4 Nd5 28. Nd3 Kc6 29. Ra2 Kb5 30. Ra4 Rd8 31. Bg5 Rf8+
+32. Kg2 h6 33. Bc1 Rd8 34. Nf4 Nb4 35. Ne6 Rd3 36. Nxc7+ Kc6 37. Ne6 1-0
+

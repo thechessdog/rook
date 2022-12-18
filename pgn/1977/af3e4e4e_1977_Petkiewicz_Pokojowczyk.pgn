@@ -1,0 +1,17 @@
+[Event "Rzeszow op"]
+[Site "Rzeszow"]
+[Date "1977.01.01"]
+[Round "4"]
+[White "Petkiewicz, J."]
+[Black "Pokojowczyk, Jerzy"]
+[Result "1/2-1/2"]
+[ECO "E12"]
+[Opening "Queen's Indian"]
+[Variation "4.Nc3"]
+[HashCode "af3e4e4e"]
+[Epoch "Rook"]
+[BlackID "1100718"]
+[BlackCountry "POL"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. Nc3 Bb7 5. Bg5 h6 6. Bh4 Be7 7. Qc2 c5 8. e3
+O-O 9. Be2 cxd4 10. exd4 d5 11. cxd5 Nxd5 12. Bg3 1/2-1/2

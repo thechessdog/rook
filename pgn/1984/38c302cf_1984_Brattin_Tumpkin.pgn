@@ -1,0 +1,16 @@
+[Event "E Detroit Motor City op"]
+[Site "E Detroit Motor City op"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Brattin, B."]
+[Black "Tumpkin, R."]
+[Result "1-0"]
+[ECO "B32"]
+[Opening "Sicilian"]
+[Variation "Nimzovich variation"]
+[HashCode "38c302cf"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 d5 5. Bb5 dxe4 6. Nxc6 Qxd1+ 7. Kxd1
+Bd7 8. Nd4 e5 9. Bxd7+ Kxd7 10. Nb3 Nf6 11. Be3 b6 12. N1d2 1-0
+

@@ -1,0 +1,16 @@
+[Event "corr SWE/K tt"]
+[Site "corr SWE/K tt"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Eszik, Lajos"]
+[Black "Larsson, Elias 2006"]
+[Result "1/2-1/2"]
+[ECO "D92"]
+[Opening "Gruenfeld"]
+[Variation "5.Bf4"]
+[HashCode "b36d1ab0"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Bf4 O-O 6. Rc1 c5 7. dxc5 Be6 8. Nd4
+Nc6 9. Nxe6 fxe6 10. e3 Qa5 11. Be2 e5 12. cxd5 exf4 13. dxc6 bxc6 14. exf4 Ne4
+15. O-O Nxc3 16. bxc3 Rxf4 17. Qb3+ Kh8 18. Qb7 Raf8 19. Qxc6 R4f5 1/2-1/2

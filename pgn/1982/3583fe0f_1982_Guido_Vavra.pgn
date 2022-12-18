@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Guido, Flavio"]
+[Black "Vavra, S."]
+[Result "1-0"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, 6.Bd3"]
+[HashCode "3583fe0f"]
+[Epoch "Rook"]
+[WhiteID "800538"]
+[WhiteCountry "ITA"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 O-O 6. Bd3 Nbd7 7. e5 Ne8 8. Ng5
+e6 9. h4 c5 10. h5 cxd4 11. hxg6 hxg6 12. Qg4 Nef6 13. Qh3 Nh5 14. Bxg6 fxg6
+15. Qxe6+ 1-0

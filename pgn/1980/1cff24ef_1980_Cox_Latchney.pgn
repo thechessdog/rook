@@ -1,0 +1,17 @@
+[Event "Columbus,OH"]
+[Site "Columbus,OH"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Cox, J."]
+[Black "Latchney, J."]
+[Result "1-0"]
+[ECO "A27"]
+[Opening "English"]
+[Variation "three knights system"]
+[HashCode "1cff24ef"]
+[Epoch "Rook"]
+
+1. c4 e5 2. Nc3 Nc6 3. Nf3 d6 4. d4 Bg4 5. e3 Bxf3 6. Qxf3 exd4 7. exd4
+Nxd4 8. Qxb7 Nc2+ 9. Kd1 Nxa1 10. Qc6+ Ke7 11. Nd5+ Ke6 12. Nxc7+ Ke7 13.
+Bd3 Kf6 14. Nd5+ Ke5 15. Re1+ Kd4 16. Bb1 1-0
+

@@ -1,0 +1,23 @@
+[Event "Balatonbereny"]
+[Site "Balatonbereny"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Kristiansen, Jens"]
+[Black "Liptay, Laszlo"]
+[Result "1-0"]
+[ECO "B67"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...a6 defence, 8...Bd7"]
+[HashCode "2455fc2f"]
+[Epoch "Rook"]
+[WhiteID "1400061"]
+[BlackID "700320"]
+[WhiteCountry "DEN"]
+[BlackCountry "HUN"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd2 a6 8.
+O-O-O Bd7 9. f4 b5 10. Bxf6 gxf6 11. Nxc6 Bxc6 12. Bd3 Qb6 13. Kb1 Qc5 14. Rhe1
+Be7 15. Re3 O-O-O 16. Nd5 Kd7 17. Be2 exd5 18. Rc3 Qb6 19. exd5 Bb7 20. Bg4+ f5
+21. Bxf5+ Ke8 22. Re3 Kf8 23. g4 h6 24. Qc3 Rg8 25. Re2 Qc5 26. Qh3 Rh8 27.
+Rxe7 Kxe7 28. Qh4+ Kf8 29. Qxd8+ Kg7 30. Qe7 Bxd5 31. a3 Rb8 32. g5 hxg5 33.
+Qxg5+ Kf8 34. Qh6+ 1-0

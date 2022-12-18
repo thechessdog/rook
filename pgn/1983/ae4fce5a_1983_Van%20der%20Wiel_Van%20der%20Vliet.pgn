@@ -1,0 +1,22 @@
+[Event "NLD-ch"]
+[Site "Hilversum"]
+[Date "1983.??.??"]
+[Round "11"]
+[White "Van der Wiel, John T.H."]
+[Black "Van der Vliet, Fred"]
+[Result "1-0"]
+[ECO "B96"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Polugayevsky variation"]
+[HashCode "ae4fce5a"]
+[Epoch "Rook"]
+[BlackID "1000659"]
+[BlackCountry "NED"]
+[WhiteID "1000020"]
+[WhiteCountry "NED"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 b5 8. e5
+dxe5 9. fxe5 Qc7 10. exf6 Qe5+ 11. Be2 Qxg5 12. Qd3 Qxf6 13. Rf1 Qe5 14. Rd1
+Ra7 15. Nf3 Qc7 16. Ng5 Qb6 17. Qh3 h5 18. Bxh5 g6 19. Nd5 Qa5+ 20. c3 Be7 21.
+Rxf7 gxh5 22. Nxe7 Rxe7 23. Rxe7+ Kxe7 24. Qh4 Nd7 25. Ne4+ Kf8 26. Qf4+ Ke8
+27. Nd6+ 1-0

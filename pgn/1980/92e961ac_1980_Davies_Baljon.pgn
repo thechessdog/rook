@@ -1,0 +1,19 @@
+[Event "London"]
+[Site "London"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Davies"]
+[Black "Baljon, Christofoor"]
+[Result "1-0"]
+[ECO "B51"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky (Nimzovich-Rossolimo, Moscow) attack"]
+[HashCode "92e961ac"]
+[Epoch "Rook"]
+[BlackID "1000772"]
+[BlackCountry "NED"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Nd7 4. d4 Nf6 5. O-O Nxe4 6. Qe2 Nf6 7. dxc5 dxc5 8.
+Rd1 e6 9. Bg5 h6 10. Bh4 Qb6 11. Na3 a6 12. Bxd7+ Bxd7 13. Nc4 Qa7 14. Nce5 Bc8
+15. Nxf7 Kxf7 16. Ne5+ Kg8 17. Bxf6 b5 18. Qg4 Qc7 19. Rd8 h5 20. Qg5 Rh6 21.
+Rxf8+ Kxf8 22. Bxg7+ Qxg7 23. Qd8# 1-0

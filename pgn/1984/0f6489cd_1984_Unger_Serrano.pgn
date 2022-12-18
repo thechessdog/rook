@@ -1,0 +1,17 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Unger"]
+[Black "Serrano"]
+[Result "1/2-1/2"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "modern variation"]
+[HashCode "0f6489cd"]
+[Epoch "Rook"]
+
+1. b3 e5 2. Bb2 d6 3. e3 f5 4. c4 Nf6 5. Nc3 g6 6. Nge2 Bg7 7. d4 Nbd7 8.
+g3 O-O 9. Bg2 c6 10. d5 c5 11. O-O g5 12. f4 Ng4 13. Qd2 gxf4 14. exf4 e4
+15. Nd1 Ndf6 16. h3 Nh6 17. Ne3 1/2-1/2
+

@@ -1,0 +1,21 @@
+[Event "corr ch-EU"]
+[Site "corr ch-EU"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Kaufmann"]
+[Black "Woizech"]
+[Result "1-0"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "ee006e19"]
+[Epoch "Rook"]
+
+1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. d4 e6 5. Nf3 Nf6 6. Be2 Nc6 7. O-O cxd4
+8. cxd4 Be7 9. Bf4 O-O 10. Nc3 Qd8 11. h3 b6 12. Rc1 Bb7 13. Bd3 Nb4 14.
+Bb1 Rc8 15. Be5 Nc6 16. Qe2 Nxe5 17. dxe5 Nd5 18. Nxd5 Bxd5 19. Rcd1 Qc7
+20. Nd4 Rfd8 21. a3 g6 22. Rfe1 Qb7 23. Qg4 Rc4 24. Be4 Bxe4 25. Rxe4 b5
+26. b3 Rc3 27. Ree1 Bxa3 28. Nxe6 Rxd1 29. Rxd1 fxe6 30. Rd8+ Kg7 31. Qxe6
+Qe4 32. Qd7+ Be7 33. Qxe7+ Kh6 34. Qf8+ Kg5 35. Qf6+ Kh6 36. Rd7 Rc6 37.
+Qf8+ 1-0
+

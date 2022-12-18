@@ -1,0 +1,23 @@
+[Event "Buenos Aires olm"]
+[Site "Buenos Aires olm"]
+[Date "1978.10.01"]
+[Round "1"]
+[White "Woodhams, Michael"]
+[Black "Parma, Bruno"]
+[Result "0-1"]
+[ECO "E55"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Gligoric system, Bronstein variation"]
+[HashCode "cbe78d63"]
+[Epoch "Rook"]
+[BlackID "14600706"]
+[BlackCountry "SLO"]
+[WhiteID "3200108"]
+[WhiteCountry "AUS"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 d5 6. Nf3 O-O 7. O-O dxc4 8. Bxc4
+Nbd7 9. Qe2 b6 10. d5 Bxc3 11. dxe6 Ne5 12. bxc3 Nxf3+ 13. Qxf3 Bxe6 14. Bxe6
+fxe6 15. Qe2 Qd7 16. f3 Rad8 17. Qc4 Qd5 18. Qxd5 Rxd5 19. Rb1 Rd3 20. Rb3 c4
+21. Ra3 a5 22. Re1 Ra8 23. e4 b5 24. Kf2 a4 25. Re2 e5 26. Rb2 Ra5 27. Be3 Nd7
+28. Bg5 Kf7 29. Ke2 Ke8 30. g3 h6 31. Be3 Ke7 32. f4 Kd6 33. fxe5+ Kc6 34. Bd4
+Nc5 35. Rb1 Ra8 36. Rf1 Ne6 37. Rf3 b4 38. Rf7 0-1

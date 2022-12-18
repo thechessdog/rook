@@ -1,0 +1,16 @@
+[Event "Farum"]
+[Site "Farum"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Waede, Knud"]
+[Black "Erhard, Steen"]
+[Result "0-1"]
+[ECO "C40"]
+[Opening "Latvian counter-gambit"]
+[HashCode "240ff64d"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 f5 3. exf5 e4 4. Ne5 Nf6 5. g4 Qe7 6. Nc4 d5 7. Ne3 d4 8.
+Ng2 h5 9. g5 Ng4 10. h3 Ne5 11. Be2 Qxg5 12. Kf1 Bxf5 13. f4 exf3 14. Bxf3
+d3 15. Nc3 dxc2 16. Qe1 Bd3+ 17. Be2 Bc5 18. Bxd3 O-O+ 19. Ke2 Qxg2+ 0-1
+

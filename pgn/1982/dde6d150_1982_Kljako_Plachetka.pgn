@@ -1,0 +1,23 @@
+[Event "Reti mem"]
+[Site "Trnava"]
+[Date "1982.01.01"]
+[Round "7"]
+[White "Kljako, Damir"]
+[Black "Plachetka, Jan"]
+[Result "1-0"]
+[ECO "A48"]
+[Opening "King's Indian"]
+[Variation "Torre attack"]
+[HashCode "dde6d150"]
+[Epoch "Rook"]
+[WhiteID "14500698"]
+[WhiteCountry "CRO"]
+[BlackID "14900068"]
+[BlackCountry "SVK"]
+
+1. d4 Nf6 2. Nf3 g6 3. Bg5 Bg7 4. Nbd2 c5 5. e3 b6 6. c3 d6 7. Bd3 O-O 8. Qe2
+Bb7 9. O-O Nc6 10. Rfd1 Qc7 11. a4 Rac8 12. h3 Kh8 13. Rac1 cxd4 14. cxd4 Qb8
+15. Ba6 Nb4 16. Bxb7 Qxb7 17. e4 d5 18. e5 Ne4 19. Qb5 a5 20. Be3 Nc2 21. Bf4
+e6 22. Qd3 Nb4 23. Qe3 Nc2 24. Qd3 Qc6 25. Qb3 g5 26. Be3 Nxd4 27. Bxd4 Qxc1
+28. Rxc1 Rxc1+ 29. Kh2 Nxd2 30. Nxd2 Rfc8 31. Nf3 R1c4 32. Qxb6 h6 33. b3 Rb4
+34. Qa6 Rc1 35. Qd3 1-0

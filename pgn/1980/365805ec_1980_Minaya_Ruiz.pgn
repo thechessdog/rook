@@ -1,0 +1,22 @@
+[Event "Bogota"]
+[Site "Bogota"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Minaya, Juan"]
+[Black "Ruiz, Alciguel"]
+[Result "0-1"]
+[ECO "B25"]
+[Opening "Sicilian"]
+[Variation "closed, 6.f4 e5 (Botvinnik)"]
+[HashCode "365805ec"]
+[Epoch "Rook"]
+[WhiteID "4400283"]
+[WhiteCountry "COL"]
+[BlackID "4400372"]
+[BlackCountry "COL"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. f4 e5 7. Nh3 Nge7 8. O-O
+Nd4 9. Be3 O-O 10. Rf2 f5 11. Qd2 fxe4 12. dxe4 Bg4 13. Raf1 Qd7 14. Ng5 h6 15.
+Nf3 Kh7 16. fxe5 Bxf3 17. Bxf3 dxe5 18. Bg2 Rxf2 19. Rxf2 Rd8 20. Qe1 b6 21.
+Qf1 Qe6 22. Bh3 Qg8 23. Qa6 Nec6 24. Qb7 Rf8 25. Nd5 Rxf2 26. Bxf2 Qf8 27. c3
+Nf3+ 28. Kg2 Ng5 29. Qxc6 Qf3+ 0-1

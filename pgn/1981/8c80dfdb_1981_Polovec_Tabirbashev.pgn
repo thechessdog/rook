@@ -1,0 +1,20 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Polovec"]
+[Black "Tabirbashev"]
+[Result "1-0"]
+[ECO "D85"]
+[Opening "Gruenfeld"]
+[Variation "modern exchange variation"]
+[HashCode "8c80dfdb"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Nf3 c5
+8. Be2 O-O 9. O-O Nc6 10. Be3 Qa5 11. Qb3 cxd4 12. cxd4 Bg4 13. Rad1 Rad8
+14. d5 Ne5 15. Qxb7 Qxa2 16. Rd2 Qa4 17. Nxe5 Bxe2 18. Rxe2 Bxe5 19. f3 Qc4
+20. Rd2 Bxh2+ 21. Kxh2 Qxf1 22. Qxe7 Qa6 23. d6 Rde8 24. Qxa7 Qf1 25. Qd4
+f6 26. Bf4 Ra8 27. d7 g5 28. Bxg5 fxg5 29. Qd5+ Kg7 30. Qxg5+ Kf7 31. d8=Q
+1-0
+

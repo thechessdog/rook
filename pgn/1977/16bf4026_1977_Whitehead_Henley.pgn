@@ -1,0 +1,23 @@
+[Event "Lone Pine open"]
+[Site "Lone Pine open"]
+[Date "1977.03.01"]
+[Round "1"]
+[White "Whitehead, Jay E"]
+[Black "Henley, Ron"]
+[Result "1-0"]
+[ECO "B10"]
+[Opening "Caro-Kann"]
+[Variation "closed (Breyer) variation"]
+[HashCode "16bf4026"]
+[Epoch "Rook"]
+[BlackID "2000318"]
+[BlackCountry "USA"]
+[WhiteCountry "USA"]
+
+1. e4 c6 2. d3 d5 3. Nd2 g6 4. Ngf3 Bg7 5. Be2 e5 6. O-O Ne7 7. Re1 O-O 8. Bf1
+d4 9. g3 c5 10. Bg2 Nbc6 11. Rf1 f6 12. Qe2 Be6 13. Ne1 b5 14. f4 Qd7 15. Nb3
+Qd6 16. Bd2 c4 17. Na5 Nxa5 18. Bxa5 Nc6 19. Bd2 c3 20. bxc3 dxc3 21. Be3 Nd4
+22. Qf2 Rab8 23. Nf3 Rfd8 24. f5 gxf5 25. Nxd4 exd4 26. Bf4 Qc5 27. Bxb8 Rxb8
+28. Qf4 Rb6 29. exf5 Bf7 30. Rfe1 Ra6 31. a3 Bf8 32. Kh1 Qd6 33. Qh4 Bg7 34. h3
+Qc5 35. Re4 b4 36. Rxd4 Rxa3 37. Rc1 b3 38. cxb3 Qe7 39. Bd5 Bxd5+ 40. Rxd5
+Rxb3 41. Qc4 Qb7 42. Kg1 Qb6+ 43. d4 Qb8 44. Rd8# 1-0

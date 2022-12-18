@@ -1,0 +1,18 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Jensen, Jacob"]
+[Black "Persson"]
+[Result "1-0"]
+[ECO "B15"]
+[Opening "Caro-Kann defence"]
+[HashCode "50456ebf"]
+[Epoch "Rook"]
+[WhiteID "1703404"]
+[WhiteCountry "SWE"]
+
+1. d4 d5 2. e4 c6 3. Nc3 Nf6 4. f3 e6 5. e5 Nfd7 6. Nge2 Be7 7. Be3 O-O 8. Qd2
+f6 9. f4 Na6 10. g4 g6 11. f5 exf5 12. gxf5 g5 13. e6 Nb6 14. Ng3 Nc4 15. Bxc4
+dxc4 16. h4 Bd6 17. Qg2 Kh8 18. hxg5 Nb4 19. O-O-O fxg5 20. Qh3 Qe7 21. Nce4
+Rg8 22. Nxd6 Qg7 23. Nf7+ 1-0

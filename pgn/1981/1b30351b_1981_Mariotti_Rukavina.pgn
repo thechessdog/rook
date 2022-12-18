@@ -1,0 +1,19 @@
+[Event "Budva zt"]
+[Site "Budva zt"]
+[Date "1981.01.01"]
+[Round "19"]
+[White "Mariotti, Sergio"]
+[Black "Rukavina, Josip"]
+[Result "1/2-1/2"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical system, 5.Be2"]
+[HashCode "1b30351b"]
+[Epoch "Rook"]
+[WhiteID "800023"]
+[WhiteCountry "ITA"]
+[BlackID "14500191"]
+[BlackCountry "CRO"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Nf3 Bg7 5. Be2 O-O 6. O-O Bg4 7. Be3 Nc6 8. Qd2
+e5 9. dxe5 dxe5 10. Qxd8 Rfxd8 11. Rfd1 1/2-1/2

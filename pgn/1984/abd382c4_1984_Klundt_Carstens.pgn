@@ -1,0 +1,23 @@
+[Event "Bundesliga 8384"]
+[Site "Duitsland tt"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Klundt, Klaus"]
+[Black "Carstens, Andreas"]
+[Result "0-1"]
+[ECO "C05"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation"]
+[HashCode "abd382c4"]
+[Epoch "Rook"]
+[WhiteID "4600436"]
+[WhiteCountry "GER"]
+[BlackID "4600770"]
+[BlackCountry "GER"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. f4 c5 6. c3 Nc6 7. Ndf3 Qb6 8. g3
+cxd4 9. cxd4 Bb4+ 10. Kf2 g5 11. Be3 g4 12. Nd2 f6 13. Nb3 Rf8 14. Qxg4 fxe5
+15. Qxe6+ Be7 16. dxe5 Qb4 17. Qxd5 Ndxe5 18. Bb5 Ng4+ 19. Ke2 Rf5 20. Qg8+ Bf8
+21. Bxc6+ bxc6 22. Qxg4 Rc5 23. Qg8 Rc2+ 24. Kf3 c5 25. Ne2 Bb7+ 26. Kg4 Qe4
+27. Nc3 Rxc3 28. bxc3 Bd5 29. Qg5 Be6+ 30. Kh5 Qf3+ 31. Kh4 Be7 32. Qxe7+ Kxe7
+33. Bxc5+ Kf7 34. f5 Bxf5 35. h3 Rg8 0-1

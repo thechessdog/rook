@@ -1,0 +1,19 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Mathes"]
+[Black "Brecht"]
+[Result "1-0"]
+[ECO "C18"]
+[Opening "French"]
+[Variation "Winawer, classical variation"]
+[HashCode "4b0689c9"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Qc7 7. Qg4 f5 8.
+Bb5+ Nc6 9. Qh5+ Qf7 10. Bxc6+ bxc6 11. Qxf7+ Kxf7 12. dxc5 Rb8 13. Nf3 Ba6
+14. Be3 Rb2 15. Kd2 Nh6 16. Bxh6 gxh6 17. Rhb1 Rhb8 18. Kc1 Rxb1+ 19. Rxb1
+Rxb1+ 20. Kxb1 Ke7 21. Nd4 Kd7 22. Kb2 Bc4 23. a4 h5 24. Ka3 a6 25. Kb4 h4
+26. Ka5 1-0
+

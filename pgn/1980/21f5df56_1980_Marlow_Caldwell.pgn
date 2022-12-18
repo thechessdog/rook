@@ -1,0 +1,20 @@
+[Event "London"]
+[Site "London"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Marlow"]
+[Black "Caldwell"]
+[Result "1/2-1/2"]
+[ECO "B51"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky (Nimzovich-Rossolimo, Moscow) attack"]
+[HashCode "21f5df56"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Nc6 4. d4 cxd4 5. Qxd4 Bd7 6. Bxc6 Bxc6 7. O-O
+Nf6 8. Re1 e6 9. c4 Be7 10. Nc3 O-O 11. Bg5 h6 12. Bh4 Qc7 13. Rac1 Rfd8
+14. Nd5 Bxd5 15. cxd5 Qd7 16. Rc3 Rdc8 17. dxe6 Qxe6 18. e5 dxe5 19. Rxe5
+Qd6 20. Qxd6 Bxd6 21. Bxf6 Rxc3 22. bxc3 gxf6 23. Rd5 Rd8 24. Kf1 a6 25.
+Nd4 Bc7 26. Rxd8+ Bxd8 27. Nf5 Kh7 28. c4 Kg6 29. Nd6 b6 30. Ne4 f5 31. Nc3
+Kf6 1/2-1/2
+

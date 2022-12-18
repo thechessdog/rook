@@ -1,0 +1,20 @@
+[Event "Subotica"]
+[Site "Subotica"]
+[Date "1984.01.01"]
+[Round "6"]
+[White "Basagic, Zlatko"]
+[Black "Barlov, Dragan"]
+[Result "1-0"]
+[ECO "A65"]
+[Opening "Benoni"]
+[Variation "6.e4"]
+[HashCode "ca53834f"]
+[Epoch "Rook"]
+[BlackID "900214"]
+[BlackCountry "SRB"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. Bd3 Bg7 8. Nge2
+O-O 9. O-O Na6 10. h3 Nc7 11. a4 b6 12. Bg5 h6 13. Bh4 Ba6 14. f4 Qd7 15. Bxa6
+Nxa6 16. e5 dxe5 17. fxe5 Nh7 18. Bf6 Bxf6 19. exf6 Qd6 20. Qd2 Nxf6 21. Qxh6
+Qe5 22. Nf4 Rae8 23. Rae1 Qd4+ 24. Kh2 Rxe1 25. Rxe1 Re8 26. Nb5 Qd2 27. Re6
+Ng4+ 28. hxg4 fxe6 29. Qxg6+ Kf8 30. Qf6+ Kg8 31. Nh5 1-0

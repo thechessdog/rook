@@ -1,0 +1,18 @@
+[Event "Augsburg"]
+[Site "Augsburg"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Krewson"]
+[Black "Seyb, Dieter"]
+[Result "1/2-1/2"]
+[ECO "E68"]
+[Opening "King's Indian"]
+[Variation "fianchetto, classical variation, 8.e4"]
+[HashCode "42f0c815"]
+[Epoch "Rook"]
+[BlackID "4603346"]
+[BlackCountry "GER"]
+
+1. Nf3 g6 2. d4 Bg7 3. g3 d6 4. Bg2 Nd7 5. c4 e5 6. Nc3 Ngf6 7. O-O O-O 8. e4
+c6 9. Qc2 exd4 10. Nxd4 a5 11. Rd1 Qc7 12. h3 Nc5 13. Be3 Re8 14. Re1 Ne6 15.
+Rad1 Nxd4 16. Bxd4 Be6 1/2-1/2

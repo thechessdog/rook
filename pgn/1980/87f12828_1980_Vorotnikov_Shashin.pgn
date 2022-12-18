@@ -1,0 +1,24 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Vorotnikov, Vladislav V"]
+[Black "Shashin, Alexsander A"]
+[Result "1-0"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "87f12828"]
+[Epoch "Rook"]
+[WhiteID "4103009"]
+[BlackID "4103734"]
+[WhiteCountry "RUS"]
+[BlackCountry "RUS"]
+
+1. e4 c5 2. c3 e6 3. d4 d5 4. exd5 exd5 5. Nf3 Nc6 6. Be3 Qb6 7. dxc5 Bxc5 8.
+Bxc5 Qxc5 9. Nbd2 Nge7 10. Be2 O-O 11. O-O Bf5 12. Nb3 Qb6 13. Nfd4 Be4 14. Re1
+Rfe8 15. Bf1 Rad8 16. Qd2 Kf8 17. f3 Bg6 18. Qf2 Nxd4 19. Qxd4 Qxd4+ 20. Nxd4
+Nc6 21. Red1 f6 22. Bb5 Rd6 23. Rd2 Red8 24. Bxc6 bxc6 25. b4 a5 26. a4 Rb8 27.
+bxa5 Be8 28. Re2 Bd7 29. Rae1 Ra8 30. Nb3 Bf5 31. g4 Bd3 32. Re7 f5 33. gxf5
+Bxf5 34. Rb7 Bc2 35. Nd4 Bxa4 36. Ne6+ Kg8 37. Rxg7+ Kh8 38. Rb7 Re8 39. a6 c5
+40. a7 Ra6 41. Nxc5 Rxe1+ 42. Kf2 Ra5 43. Kxe1 Bc6 44. Rc7 1-0

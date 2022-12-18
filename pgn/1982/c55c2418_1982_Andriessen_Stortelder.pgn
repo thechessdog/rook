@@ -1,0 +1,23 @@
+[Event "Alkmaar open"]
+[Site "Alkmaar open"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Andriessen, Wim"]
+[Black "Stortelder, L."]
+[Result "1-0"]
+[ECO "D79"]
+[Opening "Neo-Gruenfeld, 6.O-O, main line"]
+[HashCode "c55c2418"]
+[Epoch "Rook"]
+
+1. c4 Nf6 2. g3 c6 3. Nf3 g6 4. Bg2 Bg7 5. O-O O-O 6. d4 d5 7. cxd5 cxd5 8. Nc3
+Ne4 9. e3 Nxc3 10. bxc3 Nc6 11. Ba3 Qa5 12. Qb3 Rd8 13. Rfc1 Bd7 14. Nd2 e6 15.
+Bd6 Be8 16. Qa3 Rac8 17. Nb3 Qxa3 18. Bxa3 b6 19. c4 dxc4 20. Rxc4 Bf8 21. Bxf8
+Kxf8 22. Rac1 Ne7 23. Bb7 Rxc4 24. Rxc4 Bb5 25. Rc1 Ke8 26. Nd2 Rb8 27. Ne4
+Rxb7 28. Nd6+ Kd7 29. Nxb5 a6 30. Nc3 Rc7 31. Kf1 Nd5 32. Ne2 Rxc1+ 33. Nxc1
+Kc6 34. Ke2 Kb5 35. Kd3 Kb4 36. e4 Nc7 37. Ne2 Nb5 38. d5 exd5 39. exd5 Kc5 40.
+Nf4 Nd6 41. h4 h5 42. f3 Nf5 43. g4 hxg4 44. fxg4 Nxh4 45. Ke4 Kd6 46. Nd3 f5+
+47. gxf5 Nxf5 48. Ne5 Ng3+ 49. Kd4 Ne2+ 50. Ke4 Nc3+ 51. Kd4 Nxa2 52. Nc4+ Kc7
+53. Ke5 b5 54. d6+ Kd7 55. Nb6+ Kd8 56. Nd5 Nc1 57. Nc7 Nd3+ 58. Ke6 b4 59.
+Nxa6 b3 60. Nb8 Nf4+ 61. Ke5 b2 62. Nc6+ Kd7 63. Nb8+ Kc8 64. d7+ Kd8 65. Kd6
+b1=B 66. Nc6# 1-0

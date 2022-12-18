@@ -1,0 +1,21 @@
+[Event "Lanzarote"]
+[Site "Lanzarote"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Adorjan, Andras"]
+[Black "Bellon Lopez, Juan Manuel"]
+[Result "1-0"]
+[ECO "C41"]
+[Opening "Philidor"]
+[Variation "exchange variation"]
+[HashCode "0e646c1e"]
+[Epoch "Rook"]
+[WhiteID "700096"]
+[WhiteCountry "HUN"]
+[BlackID "2200031"]
+[BlackCountry "SWE"]
+
+1. e4 e5 2. Nf3 d6 3. d4 exd4 4. Qxd4 Nc6 5. Bb5 Bd7 6. Bxc6 bxc6 7. Nc3 f6 8.
+Be3 g6 9. Qd2 Bg7 10. O-O-O Qb8 11. Rhe1 Qb7 12. e5 fxe5 13. Nxe5 Be6 14. Nf3
+Kd7 15. Bd4 Nf6 16. Na4 Bd5 17. c4 Bxf3 18. Bxf6 Kc8 19. Bxg7 Bxd1 20. Qxd1 Rg8
+21. Qg4+ Kb8 22. Re3 1-0

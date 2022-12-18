@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Fortuny"]
+[Black "Roca"]
+[Result "1-0"]
+[ECO "B94"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.Bg5"]
+[HashCode "064f01dd"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e5 7. Bxf6 gxf6
+8. Nb3 Be6 9. Nd5 Nd7 10. Qf3 Bg7 11. Rd1 O-O 12. Be2 Rc8 13. c3 Nb6 14.
+O-O Nxd5 15. exd5 Bd7 16. Bd3 Bb5 17. Qh5 Bxd3 18. Rxd3 Qd7 19. Rg3 Kh8 20.
+f4 Rfe8 21. f5 Rc4 22. Rff3 Rg8 23. Rh3 h6 24. Rfg3 1-0
+

@@ -1,0 +1,19 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Weinitschke"]
+[Black "Salot"]
+[Result "1-0"]
+[ECO "B18"]
+[Opening "Caro-Kann"]
+[Variation "classical variation"]
+[HashCode "bfbee1c3"]
+[Epoch "Rook"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. Bc4 e6 7. N1e2 Nf6
+8. O-O Bd6 9. f4 Qd7 10. Bd3 Bxd3 11. Qxd3 g6 12. c4 O-O 13. Bd2 c5 14. d5
+exd5 15. cxd5 Bc7 16. Nc3 Na6 17. f5 Nb4 18. Qf3 Bxg3 19. Qxg3 Nbxd5 20.
+Bh6 Rfe8 21. fxg6 hxg6 22. Rad1 Qc6 23. Nxd5 Nxd5 24. Qf3 Kh7 25. Bg5 Re5
+26. Qxf7+ Kh8 27. Rxd5 1-0
+

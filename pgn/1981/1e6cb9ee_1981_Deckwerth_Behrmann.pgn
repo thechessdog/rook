@@ -1,0 +1,24 @@
+[Event "BL2-N 8081"]
+[Site "BL2-N 8081"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Deckwerth, Klaus"]
+[Black "Behrmann, Joachim"]
+[Result "1-0"]
+[ECO "C68"]
+[Opening "Ruy Lopez"]
+[Variation "exchange variation"]
+[HashCode "1e6cb9ee"]
+[Epoch "Rook"]
+[BlackID "4607589"]
+[BlackCountry "GER"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. d3 f6 6. Be3 Bg4 7. Nbd2 Qd7 8.
+h3 Bh5 9. Nf1 c5 10. Nxe5 Bxd1 11. Nxd7 Bxc2 12. Nxf8 Kxf8 13. Bxc5+ Kf7 14.
+Kd2 Ba4 15. Ke3 Rd8 16. d4 f5 17. f3 Nf6 18. b3 Bc6 19. d5 Bd7 20. Bd4 Rhe8 21.
+Bxf6 gxf6 22. Ng3 fxe4 23. fxe4 c6 24. dxc6 Bxc6 25. Rad1 Rxd1 26. Rxd1 f5 27.
+Rd4 fxe4 28. Nxe4 Bxe4 29. Rxe4 Rc8 30. Rc4 Re8+ 31. Kd3 Re7 32. Rf4+ Kg6 33.
+Kc4 Rc7+ 34. Kd5 Rc2 35. Rg4+ Kf6 36. a4 a5 37. Kd4 h6 38. h4 Rc6 39. h5 Kf5
+40. Rg6 Rc2 41. Rxh6 Rxg2 42. Rb6 Rg7 43. Rb5+ Ke6 44. Rxa5 Kd6 45. Rd5+ Kc6
+46. Rb5 Rg1 47. Ke5 Rf1 48. Ke6 Rf3 49. Ke7 Rf4 50. Rg5 Rb4 51. Kf7 Rxb3 52. h6
+Rh3 53. Kg7 Rh4 54. h7 1-0

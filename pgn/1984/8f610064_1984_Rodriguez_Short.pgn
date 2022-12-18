@@ -1,0 +1,18 @@
+[Event "Yerevan"]
+[Site "Yerevan"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Rodriguez Cespedes, Amador"]
+[Black "Short, Nigel D"]
+[Result "1/2-1/2"]
+[ECO "C47"]
+[Opening "Four knights"]
+[Variation "Scotch, 4...exd4"]
+[HashCode "8f610064"]
+[Epoch "Rook"]
+[BlackID "400025"]
+[BlackCountry "ENG"]
+[WhiteCountry "ESP"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. d4 exd4 5. Nxd4 Bb4 6. Nxc6 bxc6 7. Bd3 O-O
+8. O-O d5 9. exd5 cxd5 1/2-1/2

@@ -1,0 +1,20 @@
+[Event "Lugano op"]
+[Site "Lugano"]
+[Date "1982.??.??"]
+[Round "?"]
+[White "Defize, Alain"]
+[Black "Pein, Malcolm"]
+[Result "0-1"]
+[ECO "D94"]
+[Opening "Gruenfeld"]
+[Variation "Makogonov variation"]
+[HashCode "3a4d4196"]
+[Epoch "Rook"]
+[WhiteID "200166"]
+[BlackID "400289"]
+[WhiteCountry "BEL"]
+[BlackCountry "ENG"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. e3 O-O 6. b4 Ne4 7. Nxd5 c6 8. Nf4
+e5 9. Ne2 a5 10. Qc2 Bf5 11. Qb3 Na6 12. Nxe5 Nxb4 13. Nf4 Nc5 14. Qc3 Na4 15.
+Qb3 Bxe5 0-1

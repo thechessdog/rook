@@ -1,0 +1,18 @@
+[Event "corr DDR-cup6"]
+[Site "corr DDR-cup6"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Gaertig, L."]
+[Black "Haensel, E."]
+[Result "1-0"]
+[ECO "C08"]
+[Opening "French"]
+[Variation "Tarrasch, open, 4.ed ed"]
+[HashCode "a081bf4d"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. exd5 exd5 5. Bb5+ Nc6 6. Ngf3 Bd6 7. O-O
+cxd4 8. Re1+ Ne7 9. Nxd4 O-O 10. N2b3 Qc7 11. Qh5 g6 12. Qh4 Nf5 13. Nxf5
+Bxf5 14. Bh6 Rfe8 15. Nd4 Bd7 16. Nf3 Ne5 17. Rxe5 Bxb5 18. Rxd5 Be7 19.
+Qd4 Bc6 20. Qg7# 1-0
+

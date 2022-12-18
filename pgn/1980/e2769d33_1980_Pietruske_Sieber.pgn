@@ -1,0 +1,21 @@
+[Event "corr DDR-M"]
+[Site "corr DDR-M"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Pietruske, S."]
+[Black "Sieber, H."]
+[Result "0-1"]
+[ECO "C15"]
+[Opening "French"]
+[Variation "Winawer, fingerslip variation"]
+[HashCode "e2769d33"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. Bd2 dxe4 5. Qg4 Nf6 6. Qxg7 Rg8 7. Qh6 c5
+8. dxc5 Bxc5 9. O-O-O Nbd7 10. Bg5 Qa5 11. Bxf6 Rg6 12. Qxh7 Nxf6 13. Qh8+
+Ke7 14. Nh3 Rg8 15. Qh6 Bd7 16. Kb1 Bc6 17. Bc4 Rg4 18. Rhf1 Rag8 19. Nf4
+R8g7 20. Be2 Rh7 21. Qxh7 Nxh7 22. Bxg4 Bb4 23. Nfe2 Nf6 24. Bh3 Qe5 25. g3
+Bxc3 26. Nxc3 Qh5 27. Bg2 Qxh2 28. Rg1 b5 29. a3 a6 30. Ne2 Ng4 31. Rdf1 f5
+32. b3 Bd5 33. Kb2 Kd6 34. c3 Kc5 35. Kc2 e5 36. b4+ Kc6 37. Kd2 e3+ 38.
+fxe3 Bxg2 39. Rxf5 e4 0-1
+

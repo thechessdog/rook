@@ -1,0 +1,21 @@
+[Event "Korfu"]
+[Site "Korfu"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Skembris, Spyridon"]
+[Black "Pavlov, Mircea"]
+[Result "1-0"]
+[ECO "E73"]
+[Opening "King's Indian"]
+[Variation "Averbakh system"]
+[HashCode "fdd1bc22"]
+[Epoch "Rook"]
+[WhiteID "4200020"]
+[WhiteCountry "GRE"]
+[BlackID "1200160"]
+[BlackCountry "ROU"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Be2 O-O 6. Bg5 Nbd7 7. Qd2 e5 8. d5
+Nc5 9. b4 Ncxe4 10. Nxe4 Nxe4 11. Bxd8 Nxd2 12. Bxc7 e4 13. Rc1 e3 14. Bd3
+exf2+ 15. Kxf2 Bf5 16. Nf3 Bxd3 17. Nxd2 Rfe8 18. Nf3 Rac8 19. Rhe1 Rxe1 20.
+Nxe1 Be4 21. Bxd6 Bxd5 22. a3 1-0

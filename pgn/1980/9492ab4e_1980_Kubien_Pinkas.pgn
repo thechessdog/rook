@@ -1,0 +1,19 @@
+[Event "Wroclaw-A"]
+[Site "Wroclaw"]
+[Date "1980.??.??"]
+[Round "9"]
+[White "Kubien, Jerzy"]
+[Black "Pinkas, Karol"]
+[Result "1/2-1/2"]
+[ECO "C06"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation, main line"]
+[HashCode "9492ab4e"]
+[Epoch "Rook"]
+[WhiteID "1102621"]
+[BlackID "1100319"]
+[WhiteCountry "POL"]
+[BlackCountry "POL"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Bd3 c5 6. c3 Nc6 7. Ne2 cxd4 8. cxd4
+f6 9. exf6 Nxf6 10. O-O Bd6 11. Nf3 Qc7 12. Re1 O-O 13. Ng3 Bd7 1/2-1/2

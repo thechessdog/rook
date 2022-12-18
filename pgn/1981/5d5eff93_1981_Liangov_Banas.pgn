@@ -1,0 +1,18 @@
+[Event "Elekes mem-B"]
+[Site "Budapest"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Liangov, Peter"]
+[Black "Banas, Jan"]
+[Result "1/2-1/2"]
+[ECO "B66"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...a6"]
+[HashCode "5d5eff93"]
+[Epoch "Rook"]
+[BlackID "14900076"]
+[BlackCountry "SVK"]
+
+1. e4 c5 2. Nf3 d6 3. Nc3 Nc6 4. d4 cxd4 5. Nxd4 Nf6 6. Bg5 e6 7. Qd2 a6 8.
+O-O-O h6 9. Be3 Nxd4 10. Bxd4 b5 11. f3 Be7 12. Kb1 Bd7 13. g4 Bc6 14. Qf2 Qc7
+15. Bd3 b4 16. Ne2 e5 1/2-1/2

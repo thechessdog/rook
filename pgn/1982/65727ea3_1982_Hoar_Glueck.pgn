@@ -1,0 +1,18 @@
+[Event "Columbus,OH"]
+[Site "Columbus,OH"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Hoar"]
+[Black "Glueck, David"]
+[Result "0-1"]
+[ECO "C17"]
+[Opening "French"]
+[Variation "Winawer, advance variation"]
+[HashCode "65727ea3"]
+[Epoch "Rook"]
+[BlackID "2001110"]
+[BlackCountry "USA"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. dxc5 Qc7 6. Bb5+ Bd7 7. Bxd7+ Nxd7 8.
+Qd4 Bxc5 9. Nb5 Qa5+ 10. Qc3 Bb4 11. Nd6+ Kf8 12. Nxb7 Bxc3+ 13. Kd1 Qa6 14.
+Nd6 Qf1# 0-1

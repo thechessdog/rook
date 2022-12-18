@@ -1,0 +1,18 @@
+[Event "DEN-chJ int"]
+[Site "?"]
+[Date "1980.??.??"]
+[Round "?"]
+[White "Ochsner, Thomas"]
+[Black "Leppala, Jussi"]
+[Result "0-1"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "ea6014d0"]
+[Epoch "Rook"]
+[WhiteID "1400711"]
+[WhiteCountry "DEN"]
+
+1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. d4 cxd4 5. cxd4 Nc6 6. Nf3 d6 7. Bc4 Nb6 8. Bb5
+d5 9. Nc3 Bg4 10. h3 Bh5 11. g4 Bg6 12. e6 fxe6 13. Ne5 Rc8 14. Nxg6 Qd6 15.
+Ne5 Qb8 0-1

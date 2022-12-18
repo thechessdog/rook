@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Devault, R."]
+[Black "Muir, Walter"]
+[Result "0-1"]
+[ECO "C34"]
+[Opening "KGA"]
+[Variation "Fischer defence"]
+[HashCode "c6024205"]
+[Epoch "Rook"]
+[BlackCountry "USA"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 d6 4. Bc4 h6 5. d4 g5 6. O-O Bg7 7. c3 Ne7 8. g3 d5
+9. exd5 fxg3 10. hxg3 Qd6 11. Qe1 Bh3 12. Rf2 Qxg3+ 13. Kh1 O-O 14. Nbd2 Nf5
+15. Ne4 Qg4 16. Ne5 Qxe4+ 17. Qxe4 Ng3+ 18. Kh2 Nxe4 0-1

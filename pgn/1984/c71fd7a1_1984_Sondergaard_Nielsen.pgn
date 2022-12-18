@@ -1,0 +1,20 @@
+[Event "Aarhus"]
+[Site "Aarhus"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Sondergaard, Gunnar"]
+[Black "Nielsen, Jan"]
+[Result "1-0"]
+[ECO "C11"]
+[Opening "French"]
+[Variation "Burn variation"]
+[HashCode "c71fd7a1"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 dxe4 5. Bxf6 gxf6 6. Nxe4 b6 7. Qf3 c6
+8. Nxf6+ Ke7 9. O-O-O Bb7 10. Nh3 Nd7 11. Ng4 Ke8 12. Bc4 h5 13. Ne5 Nxe5
+14. dxe5 Qe7 15. Rd6 b5 16. Be2 a6 17. Rhd1 c5 18. Qd3 c4 19. Qd4 Bd5 20.
+Bf3 Bxf3 21. gxf3 Bh6+ 22. Kb1 Kf8 23. Rd7 Qe8 24. Rg1 Bg7 25. Ng5 Kg8 26.
+Nxf7 Rh7 27. Ng5 Rh6 28. Nxe6 Qxe6 29. Rgxg7+ Kh8 30. Rge7 Qb6 31. Rh7+ Kg8
+32. Qd5+ 1-0
+

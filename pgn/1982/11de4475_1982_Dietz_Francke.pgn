@@ -1,0 +1,20 @@
+[Event "Regionalliga Nord"]
+[Site "RLN 8182"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Dietz, Juergen"]
+[Black "Francke, H."]
+[Result "1-0"]
+[ECO "A02"]
+[Opening "Bird's opening"]
+[HashCode "11de4475"]
+[Epoch "Rook"]
+[WhiteID "4610695"]
+[WhiteCountry "GER"]
+
+1. f4 Nf6 2. g3 d5 3. Bg2 g6 4. Nf3 Bg7 5. O-O O-O 6. d3 b6 7. e4 dxe4 8. dxe4
+Nxe4 9. Ng5 Bd4+ 10. Kh1 Nf2+ 11. Rxf2 Bxf2 12. Qxd8 Rxd8 13. Bxa8 Rd1+ 14. Kg2
+Rxc1 15. Kxf2 Rxc2+ 16. Ke3 Nd7 17. Nc3 Nf6 18. h3 Ba6 19. Rd1 Rxb2 20. Rd2 Rb4
+21. Bd5 e6 22. Bb3 Bf1 23. g4 h6 24. Nge4 Nxe4 25. Nxe4 a5 26. g5 hxg5 27. fxg5
+Rb5 28. Nf6+ Kf8 29. Rd8+ Ke7 30. Rd7+ Kf8 31. h4 Rb4 32. h5 gxh5 33. g6 fxg6
+34. Bxe6 1-0

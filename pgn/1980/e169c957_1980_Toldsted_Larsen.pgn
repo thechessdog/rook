@@ -1,0 +1,19 @@
+[Event "Hillerod op"]
+[Site "Hillerod"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Toldsted, Jorgen Dahl"]
+[Black "Larsen, Steen"]
+[Result "0-1"]
+[ECO "A65"]
+[Opening "Benoni"]
+[Variation "6.e4"]
+[HashCode "e169c957"]
+[Epoch "Rook"]
+[WhiteID "1404873"]
+[WhiteCountry "DEN"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. Bg5 Nbd7 8. f4
+a6 9. Nf3 h6 10. Bh4 Qb6 11. Qc2 Bg7 12. Bd3 O-O 13. h3 Nh5 14. g3 Re8 15. Qh2
+Qb4 16. Rc1 c4 17. Bb1 Nc5 18. a3 Qb6 19. g4 Bxc3+ 20. bxc3 Nxe4 21. gxh5 Qe3+
+22. Kd1 Qxf3+ 23. Kc2 Ng3 24. Qxg3 Qe2# 0-1

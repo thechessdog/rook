@@ -1,0 +1,20 @@
+[Event "corr USCCC"]
+[Site "corr USCCC"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Valentine"]
+[Black "Carlson, Curtis"]
+[Result "1-0"]
+[ECO "B98"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7...Be7"]
+[HashCode "6d1c9a3d"]
+[Epoch "Rook"]
+[BlackID "2002868"]
+[BlackCountry "USA"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3
+Qa5 9. O-O-O Bd7 10. e5 dxe5 11. fxe5 Nc6 12. Nf5 Qxe5 13. Nxg7+ Kd8 14. Bf4
+Qa5 15. g4 Bb4 16. Bc4 Bxc3 17. bxc3 Ne5 18. Bxe5 Qxe5 19. h4 Ke7 20. Nf5+ exf5
+21. Rhe1 Ne4 22. Rd5 Qc7 23. gxf5 Kf8 24. Rxe4 Re8 25. Qd3 Rxe4 26. Qxe4 Rg8
+27. Qd4 Be8 28. f6 Rg3 29. Rd8 Rf3 30. Bb5 1-0

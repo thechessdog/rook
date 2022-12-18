@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Stock, M."]
+[Black "Norevall, U."]
+[Result "1-0"]
+[ECO "E56"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line with 7...Nc6"]
+[HashCode "76b23f5b"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 Nc6 6. Nf3 d5 7. O-O O-O 8.
+a3 cxd4 9. axb4 dxc3 10. bxc3 dxc4 11. Bxc4 Qc7 12. Qb3 e5 13. b5 e4 14. b6
+Qb8 15. Ng5 Ne5 16. Ba3 Nfg4 17. g3 Nxc4 18. Qxc4 Ne5 19. Qxe4 1-0
+

@@ -1,0 +1,20 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Matejicek"]
+[Black "Hron"]
+[Result "0-1"]
+[ECO "B93"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.f4"]
+[HashCode "c949962d"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 Qc7 7. Bd3 e5 8.
+Nf3 Be6 9. Qe2 Nc6 10. f5 Nd4 11. Nxd4 exd4 12. fxe6 dxc3 13. exf7+ Kxf7
+14. Rb1 d5 15. O-O Bd6 16. Bg5 cxb2 17. Qh5+ Ke7 18. exd5 Be5 19. Rbe1 Rae8
+20. c4 Kd8 21. Qh3 Qa5 22. Bh4 Bc3 23. Re6 Rxe6 24. Qxe6 Qc5+ 25. Kh1 Re8
+26. Qf5 Re7 27. g4 h6 28. Bg3 b5 29. cxb5 axb5 30. Rd1 Bd4 31. h3 Re3 32.
+Kh2 Qc3 0-1
+

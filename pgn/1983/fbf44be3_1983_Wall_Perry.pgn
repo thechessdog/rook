@@ -1,0 +1,18 @@
+[Event "Dayton,OH"]
+[Site "Dayton,OH"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Wall, Bill"]
+[Black "Perry, Greg"]
+[Result "0-1"]
+[ECO "D21"]
+[Opening "QGA"]
+[Variation "Ericson variation"]
+[HashCode "fbf44be3"]
+[Epoch "Rook"]
+[WhiteCountry "USA"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 b5 4. a4 c6 5. axb5 cxb5 6. Nc3 a6 7. Nxb5 e6 8. e4
+Nf6 9. Bg5 Bb4+ 10. Nc3 h6 11. Qa4+ Bd7 12. Qxb4 hxg5 13. Nxg5 Nc6 14. Qxc4 O-O
+15. Qd3 Nb4 16. Qd2 a5 17. Bd3 Nh5 18. O-O e5 19. Nf3 Nf4 20. Nxe5 Qg5 21. f3
+Nh3+ 0-1

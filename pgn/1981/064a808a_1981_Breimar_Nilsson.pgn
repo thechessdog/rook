@@ -1,0 +1,17 @@
+[Event "corr SWE/K"]
+[Site "corr SWE/K"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Breimar, Sven"]
+[Black "Nilsson, Ulf"]
+[Result "1/2-1/2"]
+[ECO "A02"]
+[Opening "Bird's opening"]
+[HashCode "064a808a"]
+[Epoch "Rook"]
+[BlackID "1710842"]
+[BlackCountry "SWE"]
+
+1. f4 Nf6 2. Nf3 g6 3. g3 Bg7 4. Bg2 c5 5. O-O O-O 6. d3 d5 7. Nc3 Nc6 8. e4
+dxe4 9. Nxe4 Nxe4 10. dxe4 Qxd1 11. Rxd1 Bg4 12. c3 Rad8 13. Be3 b6 14. e5
+Rxd1+ 15. Rxd1 Rd8 16. Rxd8+ Nxd8 17. a4 f6 18. exf6 exf6 19. a5 1/2-1/2

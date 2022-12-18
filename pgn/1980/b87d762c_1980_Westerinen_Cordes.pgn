@@ -1,0 +1,19 @@
+[Event "Hamburg HSK"]
+[Site "Hamburg"]
+[Date "1980.01.01"]
+[Round "4"]
+[White "Westerinen, Heikki M.J."]
+[Black "Cordes, Hans-Joerg"]
+[Result "1-0"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Byrne (English) attack"]
+[HashCode "b87d762c"]
+[Epoch "Rook"]
+[WhiteID "500020"]
+[WhiteCountry "FIN"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 Qc7 7. Be2 e5 8. Nf5
+Bxf5 9. exf5 Nc6 10. O-O h6 11. Bf3 Be7 12. Nd5 Nxd5 13. Bxd5 O-O 14. Qg4 Kh8
+15. Qh5 1-0

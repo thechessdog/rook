@@ -1,0 +1,20 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Poupinel"]
+[Black "Troffiguer"]
+[Result "0-1"]
+[ECO "B25"]
+[Opening "Sicilian"]
+[Variation "closed, 6.f4"]
+[HashCode "d0a90437"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. f4 e6 7. Nf3 Nge7 8.
+O-O O-O 9. Bd2 Rb8 10. a3 b5 11. Rb1 a5 12. a4 bxa4 13. Nxa4 Nd4 14. b3 Qc7
+15. c3 Nxf3+ 16. Qxf3 Bb7 17. Qf2 Rfc8 18. Be3 Bc6 19. Qc2 c4 20. bxc4 Bxa4
+21. Qxa4 Bxc3 22. Rb5 Nc6 23. Rfb1 Bd4 24. Bxd4 Nxd4 25. Rxb8 Rxb8 26.
+Rxb8+ Qxb8 27. Qxa5 Qb1+ 28. Bf1 Qc2 29. Qa8+ Kg7 30. Qa1 e5 31. Bg2 Ne2+
+32. Kh1 Nc1 33. Bf1 Qd1 34. Kg2 Qd2+ 35. Kh1 Nxd3 36. fxe5 0-1
+

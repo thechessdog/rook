@@ -1,0 +1,17 @@
+[Event "corr Finland"]
+[Site "corr Finland"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Malinen"]
+[Black "Jauhiainen"]
+[Result "1-0"]
+[ECO "B99"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7...Be7 main line"]
+[HashCode "14693dc3"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8.
+Qf3 Qc7 9. O-O-O Nbd7 10. Be2 b5 11. a3 Bb7 12. h4 O-O-O 13. Bxf6 Bxf6 14.
+Ndxb5 axb5 15. Nxb5 Bxb2+ 16. Kxb2 Qb6 17. Rxd6 Bc6 18. Rxc6+ 1-0
+

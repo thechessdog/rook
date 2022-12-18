@@ -1,0 +1,18 @@
+[Event "corr France"]
+[Site "corr France"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Besada"]
+[Black "Pellegrino"]
+[Result "1-0"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, Smyslov variation"]
+[HashCode "f6c86023"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. a4 Nbc6 8.
+Nf3 Bd7 9. Bd3 Qa5 10. Qd2 f6 11. Ba3 fxe5 12. dxe5 Qxa4 13. O-O Qg4 14.
+Bxc5 O-O 15. Qe3 b6 16. Bd6 h6 17. Rfb1 Rfe8 18. Bxe7 Nxe7 19. Rb4 Qh5 20.
+g4 1-0
+

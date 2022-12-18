@@ -1,0 +1,19 @@
+[Event "Vrbas ch-YUG"]
+[Site "Vrbas ch-YUG"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Kelecevic, Nedeljko"]
+[Black "Cvitan, Ognjen"]
+[Result "1/2-1/2"]
+[ECO "E74"]
+[Opening "King's Indian"]
+[Variation "Averbakh, 6...c5"]
+[HashCode "64feb741"]
+[Epoch "Rook"]
+[WhiteID "14400537"]
+[WhiteCountry "SUI"]
+[BlackID "14500086"]
+[BlackCountry "CRO"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Be2 O-O 6. Bg5 c5 7. d5 b5 8. cxb5 a6
+9. Nf3 h6 10. Bd2 axb5 11. Bxb5 Qb6 1/2-1/2

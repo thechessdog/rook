@@ -1,0 +1,22 @@
+[Event "Plovdiv"]
+[Site "Plovdiv"]
+[Date "1982.01.01"]
+[Round "10"]
+[White "Osnos, Vyacheslav"]
+[Black "Georgiev, Krum"]
+[Result "0-1"]
+[ECO "E73"]
+[Opening "King's Indian"]
+[Variation "Averbakh system"]
+[HashCode "7a3b2a2c"]
+[Epoch "Rook"]
+[BlackID "2900092"]
+[BlackCountry "FID"]
+[WhiteCountry "RUS"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 O-O 5. Be2 d6 6. Bg5 Nbd7 7. Qd2 e5 8. Nf3
+c6 9. O-O Qe7 10. Rfe1 a6 11. d5 Rd8 12. b4 Qf8 13. h3 h6 14. Be3 c5 15. a3 Ne8
+16. Nh4 Kh7 17. g3 Bf6 18. Ng2 Be7 19. Kh2 Qg7 20. Rab1 f5 21. Bd3 Qf6 22. f4
+exf4 23. gxf4 cxb4 24. axb4 Ng7 25. Bf2 Qf8 26. Nh4 Re8 27. exf5 Nxf5 28. Nxf5
+gxf5 29. Qc2 Kh8 30. Bd4+ Bf6 31. Qf2 Rxe1 32. Rxe1 Bxd4 33. Qxd4+ Nf6 34. Na4
+Qg7 35. Qb6 Bd7 36. Qxb7 Rg8 0-1

@@ -1,0 +1,18 @@
+[Event "corr Netherlands"]
+[Site "corr Netherlands"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Schenning"]
+[Black "Dol"]
+[Result "1/2-1/2"]
+[ECO "C35"]
+[Opening "KGA"]
+[Variation "Cunningham, Euwe defence"]
+[HashCode "ad4a6ab0"]
+[Epoch "Rook"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 Be7 4. Bc4 Nf6 5. Qe2 d5 6. exd5 Nxd5 7. Nc3 Be6
+8. d4 Nc6 9. O-O O-O 10. Bxd5 Bxd5 11. Bxf4 Bxf3 12. Qxf3 Qxd4+ 13. Kh1 Bd6
+14. Nb5 Qxf4 15. Qxf4 Bxf4 16. Rxf4 Rac8 17. Nd4 Ne5 18. Re1 f6 19. Nf5
+Rfe8 20. g3 Rcd8 1/2-1/2
+

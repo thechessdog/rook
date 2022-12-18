@@ -1,0 +1,19 @@
+[Event "corr DDR/FS"]
+[Site "corr DDR/FS"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Heyn"]
+[Black "Delport"]
+[Result "1-0"]
+[ECO "E58"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line with 8...Bxc3"]
+[HashCode "f90de353"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 c5 6. Nf3 d5 7. O-O Nc6 8.
+a3 Bxc3 9. bxc3 cxd4 10. cxd4 dxc4 11. Bxc4 a6 12. Bd3 Re8 13. Bb2 a5 14.
+e4 Bd7 15. Ne5 Qc7 16. Nxd7 Qxd7 17. d5 exd5 18. exd5 Nxd5 19. Qf3 Ne5 20.
+Bxh7+ Kh8 21. Bxe5 Rxe5 22. Be4 Rb8 23. Rfd1 Rd8 24. Rac1 b6 25. Rc4 Nf6
+26. Rxd7 Rxd7 27. Rc8+ Ne8 28. Qh3+ 1-0
+

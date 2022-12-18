@@ -1,0 +1,24 @@
+[Event "Groningen ch-EU jr"]
+[Site "Groningen ch-EU jr"]
+[Date "1980.01.01"]
+[Round "6"]
+[White "Antunes, Antonio"]
+[Black "Karp, Michael"]
+[Result "1-0"]
+[ECO "B13"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack"]
+[HashCode "594358d1"]
+[Epoch "Rook"]
+[WhiteID "1900013"]
+[WhiteCountry "POR"]
+[BlackID "2802481"]
+[BlackCountry "ISR"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nc6 5. Nf3 Nf6 6. Nc3 Bg4 7. cxd5 Nxd5 8.
+Qb3 Bxf3 9. gxf3 e6 10. Qxb7 Nxd4 11. Bb5+ Nxb5 12. Qc6+ Ke7 13. Qxb5 Qd7 14.
+Nxd5+ Qxd5 15. Qxd5 exd5 16. Be3 Ke6 17. Ke2 Bb4 18. Rac1 Rhd8 19. Bd4 f6 20.
+Kd3 Rd7 21. Rc6+ Kf5 22. h3 Re8 23. Rg1 Re6 24. Rxe6 Kxe6 25. Rc1 Kf5 26. Rc6
+a5 27. a3 Bd6 28. Ra6 Kg5 29. Rxa5 Kh4 30. Rxd5 Rd8 31. Bc5 Bc7 32. Rxd8 Bxd8
+33. b4 Kxh3 34. a4 h5 35. a5 h4 36. a6 Kg2 37. a7 h3 38. Bd6 Be7 39. Bxe7 h2
+40. a8=Q h1=Q 41. f4+ Kh2 42. Qxh1+ 1-0

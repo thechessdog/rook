@@ -1,0 +1,17 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Auerswald"]
+[Black "Klatt"]
+[Result "1-0"]
+[ECO "B06"]
+[Opening "Robatsch (modern) defence"]
+[HashCode "0416c4e0"]
+[Epoch "Rook"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. Be3 Nf6 5. Be2 O-O 6. h4 Nc6 7. h5 e5 8. d5
+Nd4 9. hxg6 hxg6 10. Bg5 c5 11. Qd2 Re8 12. O-O-O Qa5 13. Bh6 Bh8 14. Qg5
+Nxe2+ 15. Ngxe2 Bd7 16. Bf8 Kxf8 17. Rxh8+ Ke7 18. Rxe8+ Rxe8 19. f4 Qd8
+20. fxe5 dxe5 21. Rf1 Qb6 22. d6+ Qxd6 23. Nd5+ 1-0
+

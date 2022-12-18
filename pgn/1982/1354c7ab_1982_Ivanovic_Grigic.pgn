@@ -1,0 +1,17 @@
+[Event "Vinkovci"]
+[Site "Vinkovci"]
+[Date "1982.01.01"]
+[Round "11"]
+[White "Ivanovic, Bozidar"]
+[Black "Grigic, Z."]
+[Result "1-0"]
+[ECO "B27"]
+[Opening "Sicilian"]
+[Variation "Hungarian variation"]
+[HashCode "1354c7ab"]
+[Epoch "Rook"]
+[WhiteID "900095"]
+[WhiteCountry "MNE"]
+
+1. e4 c5 2. Nf3 g6 3. d4 Bg7 4. Nc3 b6 5. dxc5 bxc5 6. Qd5 Bxc3+ 7. bxc3 Qa5 8.
+Qxa8 Qxc3+ 9. Kd1 1-0

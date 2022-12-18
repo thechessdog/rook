@@ -1,0 +1,16 @@
+[Event "Montreal Open"]
+[Site "Montreal Open"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Lamarche, Andre"]
+[Black "Perusse, Jacques"]
+[Result "1-0"]
+[ECO "B01"]
+[Opening "Scandinavian defence"]
+[HashCode "c1e592ff"]
+[Epoch "Rook"]
+
+1. e4 d5 2. exd5 Nf6 3. Nf3 Nxd5 4. Bc4 Nf4 5. O-O Nc6 6. d4 Ng6 7. Nc3 Bg4
+8. Bxf7+ Kxf7 9. Ng5+ Ke8 10. Qxg4 Qxd4 11. Qe6 Qf6 12. Rd1 Rd8 13. Nd5
+Qxe6 14. Nxc7# 1-0
+

@@ -1,0 +1,22 @@
+[Event "Tranum"]
+[Site "Tranum"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Hansen, Curt"]
+[Black "Hoi, Carsten"]
+[Result "1-0"]
+[ECO "A65"]
+[Opening "Benoni"]
+[Variation "6.e4"]
+[HashCode "4ee72e7a"]
+[Epoch "Rook"]
+[WhiteID "1400010"]
+[BlackID "1400100"]
+[WhiteCountry "DEN"]
+[BlackCountry "DEN"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. Bg5 Bg7 8. f4
+Qa5 9. Bd3 O-O 10. Nf3 Re8 11. O-O a6 12. e5 dxe5 13. fxe5 Ng4 14. Ne4 Bf5 15.
+Nd6 Bxd3 16. Nxe8 Bxf1 17. Nxg7 Bb5 18. h3 h6 19. Bd2 Qd8 20. hxg4 Kxg7 21. e6
+fxe6 22. a4 Bc4 23. Ne5 Bxd5 24. Bxh6+ Kh7 25. Qc2 Qe8 26. Rf1 Kxh6 27. Rf7 Qg8
+28. g5+ Kxg5 29. Qd2+ Kh5 30. g4+ Kh4 31. Qh6+ Kg3 32. Qh2# 1-0

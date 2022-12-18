@@ -1,0 +1,17 @@
+[Event "San Antonio"]
+[Site "San Antonio"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Crowther, D."]
+[Black "Wall, Bill"]
+[Result "0-1"]
+[ECO "E14"]
+[Opening "Queen's Indian"]
+[Variation "4.e3"]
+[HashCode "6c9c9944"]
+[Epoch "Rook"]
+[BlackCountry "USA"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. e3 Bb7 5. Be2 c5 6. O-O d5 7. Nc3 Be7 8. Ne5
+O-O 9. Bd2 Nbd7 10. Nxd7 Qxd7 11. Qb3 dxc4 12. Bxc4 cxd4 13. exd4 Qxd4 14. Rad1
+Qg4 15. g3 Qf3 0-1

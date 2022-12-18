@@ -1,0 +1,29 @@
+[Event "Imperia"]
+[Site "Imperia"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Campos Lopez, Mario"]
+[Black "Hort, Vlastimil"]
+[Result "1-0"]
+[ECO "E81"]
+[Opening "King's Indian"]
+[Variation "Saemisch, 5...O-O"]
+[HashCode "aff93c40"]
+[Epoch "Rook"]
+[BlackID "4600029"]
+[BlackCountry "GER"]
+[WhiteID "5100100"]
+[WhiteCountry "MEX"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Bg5 c5 7. d5 e6 8. Qd2 exd5
+9. Nxd5 Be6 10. Ne2 Bxd5 11. cxd5 h6 12. Be3 Nbd7 13. Nc3 a6 14. a4 Kh7 15. Be2
+Ng8 16. O-O Ne7 17. Rfe1 f5 18. Bf2 f4 19. a5 g5 20. Na4 Ng6 21. Rab1 Rc8 22.
+b4 c4 23. Rec1 Nge5 24. b5 g4 25. bxa6 bxa6 26. Nb6 c3 27. Qd1 gxf3 28. gxf3
+Rc7 29. Rb3 Rg8 30. Kh1 Bh8 31. Qf1 c2 32. Qh3 Qg5 33. Nxd7 Nxd7 34. Bd3 Be5
+35. Rxc2 Nc5 36. Rb1 Rgg7 37. Be2 Qg6 38. Rcc1 Rb7 39. Rxb7 Rxb7 40. Rg1 Qf6
+41. Qg4 Rg7 42. Qxg7+ Qxg7 43. Rxg7+ Kxg7 44. Be1 Kg6 45. Kg2 h5 46. Bc4 Kg5
+47. Kf1 Bd4 48. Bd2 Be5 49. Ke1 Kf6 50. Kd1 Ke7 51. Kc2 Kd8 52. Bb4 Bd4 53. Bc3
+Bg1 54. h3 Be3 55. e5 dxe5 56. Bxe5 Kc8 57. Bd3 Kd8 58. Bg6 h4 59. Bf6+ Kd7 60.
+Bxh4 Kd6 61. Bf7 Nd7 62. Be1 Ne5 63. Bb4+ Bc5 64. Bxc5+ Kxc5 65. Be6 Nxf3 66.
+Kd3 Ne5+ 67. Ke4 f3 68. h4 f2 69. Bh3 Nd7 70. Bf1 Nf6+ 71. Ke5 Nxd5 72. Bxa6
+Ne3 73. Be2 f1=Q 74. Bxf1 Nxf1 75. Kf4 Nd2 76. h5 Nc4 77. h6 Kd6 78. a6 1-0

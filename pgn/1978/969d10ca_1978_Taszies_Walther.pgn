@@ -1,0 +1,14 @@
+[Event "corr FRG/M"]
+[Site "corr FRG/M"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Taszies"]
+[Black "Walther, Edgar"]
+[Result "0-1"]
+[ECO "D00"]
+[Opening "Blackmar gambit"]
+[HashCode "969d10ca"]
+[Epoch "Rook"]
+[BlackCountry "CHE"]
+
+1. d4 d5 2. e4 dxe4 3. c3 Nf6 4. Bg5 Bf5 5. f3 Nbd7 6. Qe2 exf3 7. Nxf3 c6 0-1

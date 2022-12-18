@@ -1,0 +1,20 @@
+[Event "corr Pacific"]
+[Site "corr Pacific"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Stoll"]
+[Black "Tandai"]
+[Result "1-0"]
+[ECO "E52"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line with ...b6"]
+[HashCode "51d6ff78"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Nf3 d5 6. Bd3 b6 7. O-O Bb7 8.
+cxd5 exd5 9. Ne5 Nbd7 10. f4 c5 11. Bf5 g6 12. Bc2 Bxc3 13. bxc3 Nxe5 14.
+fxe5 Ne4 15. Bb2 Qg5 16. Rf4 f5 17. Qe2 Rac8 18. Bxe4 dxe4 19. Qc4+ Kg7 20.
+Qa4 a6 21. c4 Bc6 22. Qb3 cxd4 23. Bxd4 Rfd8 24. Qxb6 Be8 25. Qa7+ Kf8 26.
+Bc5+ Kg8 27. Be7 Qh5 28. Bxd8 Rxd8 29. Qe7 Rd1+ 30. Rxd1 Qxd1+ 31. Rf1 Qa4
+32. e6 1-0
+

@@ -1,0 +1,26 @@
+[Event "Estes Park"]
+[Site "Estes Park"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Gurevich, Dmitry"]
+[Black "Dlugy, Maxim"]
+[Result "1-0"]
+[ECO "D20"]
+[Opening "QGA"]
+[Variation "3.e4"]
+[HashCode "72bd5d0f"]
+[Epoch "Rook"]
+[WhiteID "2000407"]
+[BlackID "2000075"]
+[WhiteCountry "USA"]
+[BlackCountry "USA"]
+
+1. d4 d5 2. c4 dxc4 3. e4 e5 4. Nf3 Bb4+ 5. Bd2 Bxd2+ 6. Nbxd2 exd4 7. Bxc4 Nf6
+8. e5 Ng4 9. h3 Nh6 10. O-O Nc6 11. Nb3 Nf5 12. Qd3 O-O 13. Rfe1 Qe7 14. Rac1
+Rd8 15. e6 Bxe6 16. Rxe6 fxe6 17. Qxf5 Kh8 18. Qe4 Qf6 19. Nc5 Qf5 20. Qxf5
+exf5 21. Nxb7 Rdb8 22. Nc5 Na5 23. b3 Rb4 24. Bd3 g6 25. Ne6 Re8 26. Nfxd4 Re7
+27. Be2 Kg8 28. Bf3 Rd7 29. Rc5 Nb7 30. Rb5 Rxb5 31. Nxb5 Nd6 32. Bc6 Re7 33.
+Nxa7 Rxe6 34. Bd5 Kf7 35. Nc6 Kf6 36. Bxe6 Kxe6 37. Kf1 Kd5 38. Nb4+ Kd4 39.
+Ke2 c5 40. Nd3 Ne4 41. a4 c4 42. Nc1 cxb3 43. Nxb3+ Kc3 44. f3 Nf6 45. Nc5 Kb4
+46. Ne6 Kxa4 47. Ke3 Kb5 48. Kf4 Kc6 49. Kg5 Nd5 50. Nf8 Ne3 51. Nxh7 Nxg2 52.
+Nf8 Ne1 53. f4 Kd5 54. Nxg6 Ke4 55. Nh4 Nd3 56. Ng2 Kf3 57. h4 Kxg2 1-0

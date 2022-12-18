@@ -1,0 +1,19 @@
+[Event "Gladsaxe"]
+[Site "Gladsaxe"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Hansen, Curt"]
+[Black "Kristensen, Bjarke Hautop"]
+[Result "1-0"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (without ...d6)"]
+[HashCode "050ab3eb"]
+[Epoch "Rook"]
+[WhiteID "1400010"]
+[WhiteCountry "DEN"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 Nf6 4. Nc3 Nd4 5. e5 Nxb5 6. Nxb5 Nd5 7. O-O a6 8.
+c4 axb5 9. cxd5 e6 10. d4 b6 11. Ng5 Be7 12. Nxf7 Kxf7 13. Qf3+ Kg8 14. dxe6
+dxe6 15. Qxa8 c4 16. Be3 h5 17. Rad1 Kh7 18. Qe4+ g6 19. d5 Bb7 20. Qf4 Bxd5
+21. Qf7# 1-0

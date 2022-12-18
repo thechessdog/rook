@@ -1,0 +1,18 @@
+[Event "corr NBC"]
+[Site "corr NBC"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Gisolf"]
+[Black "Hoogenboom"]
+[Result "1-0"]
+[ECO "C07"]
+[Opening "French"]
+[Variation "Tarrasch, open variation"]
+[HashCode "4ea921a3"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. exd5 Qxd5 5. Ngf3 cxd4 6. Bc4 Qd6 7. O-O Nf6
+8. Nb3 Nc6 9. Re1 Bd7 10. Nbxd4 Nxd4 11. Qxd4 Qxd4 12. Nxd4 a6 13. Bg5
+O-O-O 14. Bf4 Bc5 15. c3 Bxd4 16. cxd4 Bc6 17. Rac1 Nd5 18. Be5 Ne7 19.
+Bxg7 Rhg8 20. Bf6 1-0
+

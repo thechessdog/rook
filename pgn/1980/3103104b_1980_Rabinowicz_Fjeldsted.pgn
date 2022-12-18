@@ -1,0 +1,17 @@
+[Event "corr Wcup3"]
+[Site "corr Wcup3"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Rabinovich, Abram"]
+[Black "Fjeldsted"]
+[Result "1-0"]
+[ECO "B52"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky attack, 3...Bd7"]
+[HashCode "3103104b"]
+[Epoch "Rook"]
+[WhiteCountry "RUS"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Qxd7 5. O-O Nc6 6. c3 e6 7. d4 cxd4 8.
+cxd4 d5 9. exd5 Qxd5 10. Nc3 Qd7 11. d5 exd5 12. Re1+ Nge7 13. Bf4 O-O-O 14.
+Rc1 Qf5 15. Bg3 d4 16. Ne4 1-0

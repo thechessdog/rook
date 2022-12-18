@@ -1,0 +1,24 @@
+[Event "Novi Sad"]
+[Site "Novi Sad"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Bjelajac, Milan"]
+[Black "Rakic, Tomislav"]
+[Result "1-0"]
+[ECO "B07"]
+[Opening "Pirc"]
+[Variation "Sveshnikov system"]
+[HashCode "e13ad2a1"]
+[Epoch "Rook"]
+[WhiteID "901261"]
+[BlackID "900842"]
+[WhiteCountry "SRB"]
+[BlackCountry "SRB"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. g3 Bg7 5. Bg2 O-O 6. Nge2 e5 7. O-O c6 8. a4 a5
+9. h3 Na6 10. Be3 Qc7 11. Qd2 Nb4 12. f4 exd4 13. Nxd4 d5 14. exd5 Nfxd5 15.
+Nxd5 Nxd5 16. Bxd5 cxd5 17. Kg2 Re8 18. c3 Bd7 19. f5 Ra6 20. g4 Re4 21. Rf4
+Qe5 22. Rf3 Qe8 23. fxg6 Rxg6 24. Kh1 Rf6 25. Nf5 Bxf5 26. gxf5 Rxf5 27. Rxf5
+Rxe3 28. Qg2 Re2 29. Rf2 Rxf2 30. Qxf2 d4 31. cxd4 Qe4+ 32. Qg2 Qxd4 33. Qxb7
+h6 34. Rf1 Qxa4 35. Qxf7+ Kh8 36. b3 Qe4+ 37. Qf3 Qe6 38. Rd1 Qb6 39. Rd7 Qe6
+40. Rd8+ Kh7 1-0

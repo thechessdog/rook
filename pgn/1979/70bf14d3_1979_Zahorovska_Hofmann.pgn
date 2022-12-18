@@ -1,0 +1,18 @@
+[Event "Piotrkow Trybunalski"]
+[Site "Piotrkow Trybunalski"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Zahorovska, L."]
+[Black "Hofmann, B."]
+[Result "1-0"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "70bf14d3"]
+[Epoch "Rook"]
+
+1. e4 c5 2. c3 d6 3. d4 Nf6 4. dxc5 Nc6 5. cxd6 Nxe4 6. dxe7 Qxd1+ 7. Kxd1
+Nxf2+ 8. Ke1 Nxh1 9. exf8=Q+ Kxf8 10. Nf3 Bg4 11. Be2 Re8 12. Bf4 Re6 13.
+Kf1 g5 14. Bxg5 Ne5 15. Nbd2 Rg8 16. Bh4 h6 17. Kg1 Ng6 18. Bf1 Rd6 19. Be1
+Kg7 20. Kxh1 Rgd8 21. Nd4 a6 22. Bg3 Rf6 23. Ne4 1-0
+

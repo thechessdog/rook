@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Vaidl, I."]
+[Black "Andersson, F."]
+[Result "0-1"]
+[ECO "C58"]
+[Opening "two knights defence"]
+[Variation "Colman variation"]
+[HashCode "b2f85a17"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 Na5 6. Bb5+ c6 7. dxc6
+bxc6 8. Qf3 Rb8 9. Bxc6+ Nxc6 10. Qxc6+ Nd7 11. Nf3 Rb6 12. Qa4 Rb4 13.
+Qxa7 Bc5 14. Qa8 O-O 15. c3 e4 16. cxb4 exf3 17. Qxf3 Re8+ 18. Kd1 Ne5 19.
+Qg3 Bxf2 20. Qc3 Bg4+ 21. Kc2 Qd5 0-1
+

@@ -1,0 +1,23 @@
+[Event "corr SWE/K tt"]
+[Site "corr SWE/K tt"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Andersson, Kjell"]
+[Black "Svensson, Frank"]
+[Result "0-1"]
+[ECO "D51"]
+[Opening "QGD"]
+[Variation "4.Bg5 Nbd7"]
+[HashCode "cf3df20b"]
+[Epoch "Rook"]
+[WhiteID "1751204"]
+[BlackID "1719653"]
+[WhiteCountry "SWE"]
+[BlackCountry "SWE"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Bg5 Nbd7 5. cxd5 exd5 6. e3 c6 7. Bd3 Bd6 8.
+Qc2 Nf8 9. Nge2 Ng6 10. Ng3 O-O 11. Nh5 Be7 12. Nxf6+ Bxf6 13. Bxf6 Qxf6 14. h4
+Re8 15. h5 Nf8 16. O-O-O Be6 17. Kb1 b6 18. e4 dxe4 19. Nxe4 Qh6 20. f3 Bd5 21.
+Qf2 Rad8 22. Ka1 Rd7 23. g4 Qf4 24. Qg2 Red8 25. Qd2 Qxd2 26. Rxd2 Ne6 27. h6
+Nxd4 28. hxg7 Bxe4 29. Bxe4 Nb3+ 30. axb3 Rxd2 31. Rxh7 Rd1+ 32. Ka2 c5 33. g5
+R8d6 34. Rh6 Rxh6 0-1

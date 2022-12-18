@@ -1,0 +1,18 @@
+[Event "Dayton,OH"]
+[Site "Dayton,OH"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Ferens, D."]
+[Black "Wall, Bill"]
+[Result "0-1"]
+[ECO "D85"]
+[Opening "Gruenfeld"]
+[Variation "modern exchange variation"]
+[HashCode "6b640162"]
+[Epoch "Rook"]
+[BlackCountry "USA"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Nf3 O-O 8.
+Bc4 c5 9. Be3 Qa5 10. Qc2 Bg4 11. O-O Bxf3 12. gxf3 Nd7 13. Rad1 cxd4 14. Bxd4
+Bxd4 15. cxd4 Rac8 16. Qb3 Nb6 17. Be2 Rc3 18. Qb2 Rfc8 19. Rc1 Qg5+ 20. Kh1
+Rxc1 0-1

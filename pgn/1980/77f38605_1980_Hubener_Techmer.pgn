@@ -1,0 +1,25 @@
+[Event "corr DFSM"]
+[Site "corr DFSM"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Hubener"]
+[Black "Techmer"]
+[Result "1/2-1/2"]
+[ECO "C17"]
+[Opening "French"]
+[Variation "Winawer, advance variation"]
+[HashCode "77f38605"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. Nf3 Ne7 6. Bd2 Nbc6 7. Nb5 Bxd2+
+8. Qxd2 cxd4 9. Bd3 Ng6 10. Bxg6 hxg6 11. O-O-O Bd7 12. Qf4 Ke7 13. Ng5
+Nxe5 14. Qxe5 Bxb5 15. Qxg7 Qf8 16. Qxd4 Bc6 17. Qe5 Qb8 18. Qe3 Qc7 19.
+Rhe1 Rae8 20. Rd4 Kd8 21. Rf4 f5 22. Qd4 e5 23. Rxe5 Rxe5 24. Qxe5 Qxe5 25.
+Nf7+ Kc7 26. Nxe5 Rxh2 27. Nxg6 Rxg2 28. Ne7 Kd6 29. Nxc6 bxc6 30. Rxf5
+Rg1+ 31. Kd2 Rf1 32. Rf6+ Ke5 33. Rf8 d4 34. a4 c5 35. c3 Kd5 36. cxd4 Kxd4
+37. b3 Rb1 38. Rd8+ Ke5 39. Kc2 Rf1 40. Rd2 a6 41. Kd3 Rb1 42. Kc3 Rc1+ 43.
+Rc2 Rb1 44. Kc4 Kd6 45. Rc3 Rf1 46. Rd3+ Kc6 47. Rf3 Rc1+ 48. Kd3 Rb1 49.
+Ke4 Rb2 50. Rf6+ Kb7 51. Rf3 Kc6 52. Ke5 c4 53. Kd4 cxb3 54. Rf6+ Kb7 55.
+Kc3 Rb1 56. Re6 a5 57. Re2 Kc6 58. Rb2 Ra1 59. Kxb3 Kd5 60. Rd2+ Kc5 61.
+Rc2+ Kd5 62. Ra2 Rb1+ 63. Rb2 1/2-1/2
+

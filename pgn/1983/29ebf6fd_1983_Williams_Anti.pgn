@@ -1,0 +1,19 @@
+[Event "Blind simul"]
+[Site "Blind simul"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Williams, Leo"]
+[Black "Anti, Joseph"]
+[Result "1-0"]
+[ECO "E10"]
+[Opening "Queen's pawn game"]
+[HashCode "29ebf6fd"]
+[Epoch "Rook"]
+[WhiteID "2600730"]
+[WhiteCountry "CAN"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. g3 b6 5. Bg2 Bb7 6. O-O Be7 7. cxd5 exd5 8. Nc3
+O-O 9. Ne5 Re8 10. Nd3 Nbd7 11. b4 c5 12. bxc5 bxc5 13. Rb1 cxd4 14. Nb5 Nb6
+15. Nxd4 Ne4 16. Bb2 Nc4 17. Ba1 Rb8 18. Re1 Ba8 19. Rxb8 Qxb8 20. Nf5 Bf8 21.
+e3 g6 22. Nd4 Bg7 23. Qa4 Rc8 24. Rc1 Nb6 25. Rxc8+ Nxc8 26. Qe8+ Bf8 27. Ne6
+Qb1+ 28. Bf1 1-0

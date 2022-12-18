@@ -1,0 +1,22 @@
+[Event "Brighton"]
+[Site "Brighton"]
+[Date "1979.12.01"]
+[Round "1"]
+[White "Chandler, Murray G"]
+[Black "Cummings, David H."]
+[Result "1-0"]
+[ECO "E12"]
+[Opening "Queen's Indian"]
+[Variation "Miles variation"]
+[HashCode "5bc3c86c"]
+[Epoch "Rook"]
+[WhiteID "400050"]
+[WhiteCountry "NZL"]
+[BlackID "2603578"]
+[BlackCountry "CAN"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. Bf4 Bb7 5. e3 Bb4+ 6. Nfd2 O-O 7. a3 Be7 8. Nc3
+d5 9. Rc1 c5 10. dxc5 bxc5 11. cxd5 exd5 12. Na4 d4 13. Nxc5 Bxc5 14. Rxc5 Nd5
+15. Qb3 dxe3 16. Qxb7 Nxf4 17. fxe3 Nd7 18. Rf5 Ne6 19. Bc4 Ndc5 20. Qf3 Rc8
+21. Rd5 Qb6 22. b4 Na4 23. O-O Nb2 24. Ba2 Rc3 25. Re5 Rc6 26. Ne4 Nc4 27. Rxe6
+Rxe6 28. Bxc4 Re7 29. Kh1 Qc6 30. Bd5 Qg6 31. Ng3 Rd7 32. e4 1-0

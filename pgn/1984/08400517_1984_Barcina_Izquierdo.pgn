@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Barcina"]
+[Black "Izquierdo"]
+[Result "0-1"]
+[ECO "E29"]
+[Opening "Nimzo-Indian"]
+[Variation "Saemisch, main line"]
+[HashCode "08400517"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 Nc6 6. a3 Bxc3+ 7. bxc3 O-O
+8. d5 Qa5 9. Ne2 Ne5 10. f4 Nxd3+ 11. Qxd3 b6 12. e4 Ba6 13. a4 exd5 14.
+exd5 Rae8 15. O-O Re4 16. Qf3 Bxc4 17. Ng3 Bxf1 18. Nxe4 Nxe4 19. Bb2 Bxg2
+20. Qxg2 f5 21. c4 Rf7 22. d6 Qd2 23. Qxd2 Nxd2 24. Rc1 Rf8 25. Kg2 Re8 26.
+Be5 Re6 27. h4 Rg6+ 28. Kh3 Ne4 0-1
+

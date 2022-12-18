@@ -1,0 +1,27 @@
+[Event "Luzern olm"]
+[Site "Luzern olm"]
+[Date "1982.10.01"]
+[Round "1"]
+[White "Campos Lopez, Mario"]
+[Black "Agdestein, Simen"]
+[Result "0-1"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Adams attack"]
+[HashCode "83366b92"]
+[Epoch "Rook"]
+[WhiteID "5100100"]
+[BlackID "1500015"]
+[WhiteCountry "MEX"]
+[BlackCountry "NOR"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. h3 e5 7. Nde2 Be7 8. g4
+Be6 9. Bg2 O-O 10. Be3 Nbd7 11. g5 Ne8 12. Qd2 Rc8 13. O-O-O b5 14. h4 Nb6 15.
+Bxb6 Qxb6 16. Ng3 b4 17. Nd5 Bxd5 18. exd5 Nc7 19. Nf5 Rfe8 20. Bf1 Nb5 21.
+Bxb5 Qxb5 22. Rh3 a5 23. Kb1 Rc4 24. Qe2 Qc5 25. Ne3 Rf4 26. Rc1 Rb8 27. Rf3
+Rxf3 28. Qxf3 a4 29. Nf5 Bd8 30. Qe3 Bb6 31. Qxc5 Bxc5 32. f3 Rb5 33. c4 bxc3
+34. Rxc3 Kf8 35. Kc2 Rb4 36. h5 Rf4 37. Ng3 Rd4 38. Rd3 Rh4 39. b3 Rh2+ 40. Rd2
+axb3+ 41. axb3 Rh3 42. Rg2 Be3 43. b4 Bxg5 44. b5 Bd8 45. Kd2 g6 46. hxg6 hxg6
+47. Ke2 Ke7 48. Ne4 Bb6 49. Nd2 Rh4 50. Rg4 Rh2+ 51. Kd3 Rf2 52. Ra4 Kd7 53.
+Ra6 Bc5 54. b6 f5 55. Ra7+ Kc8 56. Rg7 Bb4 57. Nb3 Rxf3+ 58. Kc4 Be1 59. Rxg6
+Kb7 60. Rg1 0-1

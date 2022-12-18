@@ -1,0 +1,20 @@
+[Event "Ramsgate op"]
+[Site "Ramsgate"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Kenworthy, Gary"]
+[Black "Van der Sterren, Paul"]
+[Result "1-0"]
+[ECO "C47"]
+[Opening "Four knights"]
+[Variation "Belgrade gambit"]
+[HashCode "c2f0c03c"]
+[Epoch "Rook"]
+[BlackID "1000071"]
+[BlackCountry "NED"]
+[WhiteID "401587"]
+[WhiteCountry "ENG"]
+
+1. e4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. d4 exd4 5. Nd5 Nxe4 6. Bc4 Be7 7. Nxd4 O-O 8.
+Nb5 Bb4+ 9. c3 Nxf2 10. Qh5 Nxh1 11. cxb4 Nxb4 12. Bg5 Re8+ 13. Kf1 Re5 14. Re1
+1-0

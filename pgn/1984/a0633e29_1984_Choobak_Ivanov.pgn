@@ -1,0 +1,17 @@
+[Event "Santa Monica"]
+[Site "Santa Monica"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Choobak"]
+[Black "Ivanov, Igor Vasilyevich"]
+[Result "0-1"]
+[ECO "B89"]
+[Opening "Sicilian"]
+[Variation "Sozin, 7.Be3"]
+[HashCode "a0633e29"]
+[Epoch "Rook"]
+[BlackCountry "RUS"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bc4 e6 7. Be3 a6 8. Bb3
+Bd7 9. Qe2 Rc8 10. O-O-O Na5 11. g4 Rxc3 12. bxc3 Nxe4 13. Bd2 d5 14. Kb2 Qc7
+15. f3 Nxc3 16. Qe3 Nxd1+ 17. Rxd1 Bc5 18. Bc3 O-O 19. Qg5 Ba3+ 0-1

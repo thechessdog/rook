@@ -1,0 +1,18 @@
+[Event "Sarajevo"]
+[Site "Sarajevo"]
+[Date "1981.03.01"]
+[Round "2"]
+[White "Martinovic, Slobodan"]
+[Black "Csom, Istvan"]
+[Result "1/2-1/2"]
+[ECO "C10"]
+[Opening "French"]
+[Variation "Rubinstein variation"]
+[HashCode "6b92c4ba"]
+[Epoch "Rook"]
+[BlackID "700100"]
+[BlackCountry "HUN"]
+[WhiteCountry "SRB"]
+
+1. e4 e6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Nd7 5. Nf3 Be7 6. Bd3 Ngf6 7. Nxf6+ Nxf6
+8. Bg5 O-O 9. Qe2 c5 10. dxc5 Qa5+ 11. c3 Qxc5 12. O-O Qc7 13. Rfe1 1/2-1/2

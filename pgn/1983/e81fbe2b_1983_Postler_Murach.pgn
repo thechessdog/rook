@@ -1,0 +1,19 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Postler"]
+[Black "Murach"]
+[Result "1-0"]
+[ECO "C08"]
+[Opening "French"]
+[Variation "Tarrasch, open, 4.ed ed"]
+[HashCode "e81fbe2b"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. exd5 exd5 5. Bb5+ Nc6 6. Ngf3 cxd4 7. O-O
+Bd6 8. Nb3 Ne7 9. Nbxd4 O-O 10. Be3 Bg4 11. Qd2 Rc8 12. h3 Bh5 13. c3 Bb8
+14. Rfe1 Qd6 15. g3 Qd7 16. Bf1 Rfe8 17. Bf4 Bxf4 18. Qxf4 Ng6 19. Qd2 Nf8
+20. Bg2 f6 21. Nh4 Ne5 22. f4 Nc4 23. Qf2 a5 24. b3 Na3 25. Nhf5 b5 26.
+Rxe8 Rxe8 27. Re1 Kh8 28. Rxe8 Bxe8 29. Qb2 b4 30. cxb4 1-0
+

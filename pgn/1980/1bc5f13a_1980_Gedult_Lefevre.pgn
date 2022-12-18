@@ -1,0 +1,15 @@
+[Event "Paris"]
+[Site "Paris"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Gedult, David"]
+[Black "Lefevre, Francois"]
+[Result "1-0"]
+[ECO "D00"]
+[Opening "Blackmar-Diemer gambit"]
+[HashCode "1bc5f13a"]
+[Epoch "Rook"]
+[WhiteCountry "POL"]
+
+1. d4 Nf6 2. Nc3 d5 3. e4 dxe4 4. f3 exf3 5. Nxf3 Bg4 6. Bd3 e6 7. Bg5 Be7 8.
+O-O Nbd7 9. Kh1 O-O 10. Qe1 Nd5 11. Bxh7+ Kxh7 12. Qh4+ Kg8 13. Nxd5 1-0

@@ -1,0 +1,20 @@
+[Event "Bor"]
+[Site "Bor"]
+[Date "1983.01.01"]
+[Round "4"]
+[White "Skembris, Spyridon"]
+[Black "Marjanovic, Slavoljub"]
+[Result "1/2-1/2"]
+[ECO "D22"]
+[Opening "QGA"]
+[Variation "Alekhine defence"]
+[HashCode "d6a2105e"]
+[Epoch "Rook"]
+[WhiteID "4200020"]
+[WhiteCountry "GRE"]
+[BlackID "900354"]
+[BlackCountry "SRB"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 a6 4. a4 Nf6 5. Nc3 e6 6. e3 c5 7. Bxc4 cxd4 8. exd4
+Nc6 9. O-O Nb4 10. Qe2 Be7 11. Bg5 O-O 12. Rad1 Re8 13. Rfe1 Bd7 14. Ne5 Rc8
+15. Qf3 Bc6 16. Nxc6 Rxc6 17. Bb3 Rc7 18. g3 Rd7 19. Bxf6 1/2-1/2

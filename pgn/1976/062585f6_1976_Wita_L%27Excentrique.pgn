@@ -1,0 +1,22 @@
+[Event "ACM Houston"]
+[Site "ACM Houston"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Wita"]
+[Black "L'Excentrique"]
+[Result "1-0"]
+[ECO "A04"]
+[Opening "Reti opening"]
+[HashCode "062585f6"]
+[Epoch "Rook"]
+
+1. Nf3 b6 2. d3 d5 3. Bf4 e6 4. g3 Qf6 5. Be5 Qf5 6. Bxc7 a5 7. Bxb6 e5 8.
+Bc7 Nc6 9. Nc3 Bb4 10. Nd2 Qd7 11. Bb6 Rb8 12. Na4 Qg4 13. c3 Be7 14. Bg2
+Nf6 15. O-O O-O 16. f4 e4 17. dxe4 dxe4 18. Nxe4 Nxe4 19. Bxe4 Rxb6 20.
+Nxb6 Bc5+ 21. Kh1 Bxb6 22. Bxc6 Qe6 23. Bd5 Qh3 24. Qb3 Be6 25. Bxe6 Qxe6
+26. Qxe6 fxe6 27. Kg2 a4 28. c4 Rc8 29. b3 a3 30. Rad1 Be3 31. Rd3 Bc5 32.
+Rd7 Rf8 33. h3 g5 34. fxg5 Re8 35. e4 e5 36. Rb7 Rd8 37. b4 Be3 38. Rff7
+Rd2+ 39. Kf1 Rxa2 40. Rg7+ Kf8 41. Rbf7+ Ke8 42. c5 Bxg5 43. c6 Rc2 44. c7
+Rc1+ 45. Kg2 a2 46. c8=Q+ Rxc8 47. Ra7 Rc2+ 48. Kf3 Rc3+ 49. Kg4 h5+ 50.
+Kxh5 Bh6 51. Ra8+ Rc8 52. Rxc8# 1-0
+

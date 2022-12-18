@@ -1,0 +1,19 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Bloch, M."]
+[Black "Feldman, Vladimir"]
+[Result "1-0"]
+[ECO "A69"]
+[Opening "Benoni"]
+[Variation "four pawns attack, main line"]
+[HashCode "1b2b0a3c"]
+[Epoch "Rook"]
+[BlackID "3201791"]
+[BlackCountry "AUS"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. f4 Bg7 8. Nf3
+O-O 9. Be2 Re8 10. e5 dxe5 11. fxe5 Ng4 12. Bg5 Qb6 13. Qd2 Nd7 14. e6 fxe6 15.
+dxe6 Bxc3 16. bxc3 Qxe6 17. O-O Ndf6 18. Rae1 Qc6 19. h3 Ne4 20. Qf4 h6 21.
+hxg4 hxg5 22. Nxg5 Nxg5 23. Qxg5 Kg7 24. Bc4 Rxe1 25. Rxe1 Qf6 26. Re7+ 1-0

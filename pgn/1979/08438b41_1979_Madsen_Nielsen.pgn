@@ -1,0 +1,19 @@
+[Event "Randers"]
+[Site "Randers"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Madsen, Gunnar"]
+[Black "Nielsen, Erling"]
+[Result "0-1"]
+[ECO "A67"]
+[Opening "Benoni"]
+[Variation "Taimanov variation"]
+[HashCode "08438b41"]
+[Epoch "Rook"]
+[BlackID "1420003"]
+[BlackCountry "DEN"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. f4 Bg7 8. Bb5+
+Nfd7 9. Nf3 a6 10. Ba4 b5 11. Bc2 O-O 12. O-O Nb6 13. Rb1 N8d7 14. Qe1 b4 15.
+Ne2 Re8 16. b3 a5 17. Bb2 Bxb2 18. Rxb2 Qf6 19. Rb1 Ba6 20. Nd2 Nxd5 21. exd5
+Rxe2 22. Qg3 Rxd2 0-1

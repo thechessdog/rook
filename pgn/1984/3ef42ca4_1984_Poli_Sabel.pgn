@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Poli"]
+[Black "Sabel"]
+[Result "0-1"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Paulsen attack"]
+[HashCode "3ef42ca4"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. a3 c4 7. g3 f6 8. exf6
+Nxf6 9. Bg2 Bd6 10. O-O O-O 11. Qe2 Na5 12. Nbd2 Bd7 13. Ne5 Be8 14. Bh3
+Bxe5 15. Qxe5 Bd7 16. f4 Rae8 17. g4 Nc6 18. Qd6 e5 19. fxe5 Rxe5 20. Nf3
+Nxd4 21. Qxb6 Nxf3+ 22. Rxf3 axb6 23. g5 Bxh3 24. Rxh3 Ng4 25. Rh4 Re1+ 26.
+Kg2 Rf2+ 27. Kh3 Rxh2+ 28. Kxg4 Rg1+ 29. Kf3 Rxh4 0-1
+

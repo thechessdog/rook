@@ -1,0 +1,18 @@
+[Event "corr DDR/H"]
+[Site "corr DDR/H"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Matthey, H."]
+[Black "Hauswald"]
+[Result "1-0"]
+[ECO "C44"]
+[Opening "Scotch"]
+[Variation "Goering gambit"]
+[HashCode "4d67da46"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. c3 Bc5 5. cxd4 Bb6 6. Bg5 Nge7 7. d5 Nb8
+8. e5 d6 9. Bb5+ Bd7 10. Nc3 dxe5 11. d6 cxd6 12. Qxd6 Bxb5 13. Nxb5 f6 14.
+Bxf6 gxf6 15. Qxf6 Ng6 16. Nd6+ Kd7 17. Qf5+ Kxd6 18. Rd1+ Bd4 19. Nxd4
+Qa5+ 20. Rd2 Qxa2 21. Qf6+ Kc7 22. Nb5+ 1-0
+

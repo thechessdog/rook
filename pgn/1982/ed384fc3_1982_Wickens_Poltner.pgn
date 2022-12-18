@@ -1,0 +1,18 @@
+[Event "corr EUR"]
+[Site "corr EUR"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Wickens, T."]
+[Black "Poltner, J."]
+[Result "0-1"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, poisoned pawn, Euwe-Gligoric variation"]
+[HashCode "ed384fc3"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Qg4 Qc7 8.
+Qxg7 Rg8 9. Qxh7 cxd4 10. Kd1 Nbc6 11. Nf3 dxc3 12. Bf4 Bd7 13. Ng5 O-O-O
+14. Nxf7 Qb6 15. Ke1 Rdf8 16. Bg3 Nf5 17. Be2 Ncd4 18. Bd3 Be8 19. Nd6+
+Nxd6 20. exd6 Rxg3 21. hxg3 Nxc2+ 0-1
+

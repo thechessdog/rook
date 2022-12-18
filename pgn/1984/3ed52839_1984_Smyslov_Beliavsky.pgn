@@ -1,0 +1,19 @@
+[Event "Bugojno"]
+[Site "Bugojno"]
+[Date "1984.05.01"]
+[Round "1"]
+[White "Smyslov, Vasily"]
+[Black "Beliavsky, Alexander G"]
+[Result "1/2-1/2"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "4.Nf3"]
+[HashCode "3ed52839"]
+[Epoch "Rook"]
+[BlackID "14602377"]
+[BlackCountry "SLO"]
+[WhiteCountry "RUS"]
+
+1. c4 e6 2. Nf3 d5 3. d4 Nf6 4. Nc3 Be7 5. Bg5 h6 6. Bh4 O-O 7. Rc1 dxc4 8. e3
+c5 9. Bxc4 Nc6 10. dxc5 Qxd1+ 11. Kxd1 Bxc5 12. Ke2 Bd7 13. Rhd1 Rfd8 14. a3
+Be7 15. Ba2 Rac8 16. h3 1/2-1/2

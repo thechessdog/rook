@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Deisz, A."]
+[Black "Ippel, C."]
+[Result "1-0"]
+[ECO "C69"]
+[Opening "Ruy Lopez"]
+[Variation "exchange variation, 5.O-O"]
+[HashCode "dcbc447a"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O Bg4 6. h3 Bh5 7. g4 Bg6
+8. Nxe5 Qh4 9. Qf3 Bd6 10. Nc4 O-O-O 11. Nxd6+ cxd6 12. d3 d5 13. Nc3 Nf6
+14. Qg2 dxe4 15. dxe4 h5 16. f3 hxg4 17. hxg4 Rh7 18. Bf4 Nd7 19. Rad1 Rdh8
+20. Qd2 Qe7 21. Na4 Rh1+ 22. Kg2 Rxf1 23. Qxd7+ Qxd7 24. Nb6+ Kd8 25. Rxd7+
+Ke8 26. Kxf1 1-0
+

@@ -1,0 +1,18 @@
+[Event "corr ARG-SWE"]
+[Site "corr ARG-SWE"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Anaya Oger, Hector"]
+[Black "Malmberg"]
+[Result "1-0"]
+[ECO "B96"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7.f4"]
+[HashCode "ff8171ca"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qc7 8.
+Bxf6 gxf6 9. Be2 Nd7 10. Bh5 Nc5 11. Qf3 b5 12. f5 Bg7 13. fxe6 Nxe6 14.
+Nf5 Bb7 15. Nd5 Qd8 16. Nxg7+ Nxg7 17. Nxf6+ Kf8 18. Nxh7+ Kg8 19. Bxf7+
+Kxh7 20. Qh3+ Nh5 21. Qxh5+ Kg7 22. Qg6+ Kf8 23. O-O 1-0
+

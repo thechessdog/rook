@@ -1,0 +1,19 @@
+[Event "Voronezh"]
+[Site "Voronezh"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Zlotnik, Boris A"]
+[Black "Kovalev, Andrei"]
+[Result "1-0"]
+[ECO "A41"]
+[Opening "Old Indian defence"]
+[HashCode "9ce75034"]
+[Epoch "Rook"]
+[WhiteID "4101413"]
+[BlackID "13500023"]
+[WhiteCountry "RUS"]
+[BlackCountry "BLR"]
+
+1. c4 d6 2. d4 e5 3. Nf3 e4 4. Ng5 Nf6 5. Nc3 Bf5 6. g4 Bxg4 7. Bg2 c6 8. Ngxe4
+Na6 9. Qb3 Bc8 10. Bf4 Be7 11. Nxf6+ gxf6 12. O-O-O Nc7 13. d5 c5 14. Ne4 f5
+15. Nxd6+ Bxd6 16. Qe3+ Be7 17. Rhg1 1-0

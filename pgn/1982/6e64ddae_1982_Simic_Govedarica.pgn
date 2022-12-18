@@ -1,0 +1,20 @@
+[Event "Belgrade-Rakovica"]
+[Site "Belgrade-Rakovica"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Simic, Radoslav"]
+[Black "Govedarica, Radovan"]
+[Result "1/2-1/2"]
+[ECO "B17"]
+[Opening "Caro-Kann"]
+[Variation "Steinitz variation"]
+[HashCode "6e64ddae"]
+[Epoch "Rook"]
+[WhiteID "900184"]
+[WhiteCountry "SRB"]
+[BlackID "900630"]
+[BlackCountry "SRB"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Nxf6+ Nxf6 7. h3 Bf5
+8. Bd3 Bxd3 9. Qxd3 e6 10. O-O Be7 11. Bg5 O-O 12. Qe2 h6 13. Bh4 Nh5 14. Bxe7
+Qxe7 15. Ne5 1/2-1/2

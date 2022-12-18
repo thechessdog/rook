@@ -1,0 +1,18 @@
+[Event "Reggio Emilia8081"]
+[Site "Reggio Emilia"]
+[Date "1980.01.01"]
+[Round "6"]
+[White "Paniagua, Roberto"]
+[Black "Bertok, Mario"]
+[Result "1/2-1/2"]
+[ECO "E97"]
+[Opening "King's Indian"]
+[Variation "orthodox, Aronin-Taimanov variation (Yugoslav attack / Mar del Plata variation)"]
+[HashCode "2dd4db25"]
+[Epoch "Rook"]
+[WhiteID "6600018"]
+[WhiteCountry "PAN"]
+[BlackCountry "HRV"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. Nc3 O-O 5. e4 d6 6. Be2 e5 7. O-O Nc6 8. d5
+Ne7 9. Nd2 c5 10. dxc6 bxc6 11. b4 d5 12. cxd5 cxd5 1/2-1/2

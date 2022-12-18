@@ -1,0 +1,19 @@
+[Event "Esbjerg"]
+[Site "Esbjerg"]
+[Date "1978.01.01"]
+[Round "8"]
+[White "Hoi, Carsten"]
+[Black "Brinck-Claussen, Bjorn"]
+[Result "1/2-1/2"]
+[ECO "D91"]
+[Opening "Gruenfeld"]
+[Variation "5.Bg5"]
+[HashCode "d46ba030"]
+[Epoch "Rook"]
+[WhiteID "1400100"]
+[WhiteCountry "DEN"]
+[BlackCountry "DEN"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Bg5 dxc4 6. e3 Be6 7. Nd2 c5 8. dxc5
+Nd5 9. Nde4 Qa5 10. Qa4+ Qxa4 11. Nxa4 h6 12. Bh4 Nb4 13. Kd2 N8c6 14. a3 Rd8+
+15. Nd6+ 1/2-1/2

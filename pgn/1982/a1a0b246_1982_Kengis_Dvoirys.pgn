@@ -1,0 +1,22 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Kengis, Edvins"]
+[Black "Dvoirys, Semen I."]
+[Result "1-0"]
+[ECO "B96"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7.f4"]
+[HashCode "a1a0b246"]
+[Epoch "Rook"]
+[WhiteID "11600039"]
+[WhiteCountry "LAT"]
+[BlackID "4100379"]
+[BlackCountry "RUS"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Nbd7 8. Qf3
+Qc7 9. O-O-O b5 10. Bxb5 axb5 11. Ndxb5 Qb8 12. e5 Bb7 13. Qe2 dxe5 14. Qc4 Be7
+15. Nc7+ Kf8 16. Rxd7 Nxd7 17. Rd1 Bxg5 18. fxg5 Bc8 19. N3b5 g6 20. Rf1 Kg8
+21. Rxf7 Nb6 22. Qf1 Bd7 23. Nxa8 Qd8 24. Nd6 Qxg5+ 25. Kb1 Nxa8 26. Rf8+ Kg7
+27. Rxh8 Qe7 28. Rxa8 Qxd6 29. Qd3 1-0

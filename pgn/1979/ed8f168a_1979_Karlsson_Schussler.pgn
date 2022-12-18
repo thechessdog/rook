@@ -1,0 +1,19 @@
+[Event "Malmo"]
+[Site "Malmo"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Karlsson, Lars"]
+[Black "Schussler, Harry"]
+[Result "1/2-1/2"]
+[ECO "A05"]
+[Opening "Reti opening"]
+[HashCode "ed8f168a"]
+[Epoch "Rook"]
+[WhiteID "1700057"]
+[WhiteCountry "SWE"]
+[BlackID "1700081"]
+[BlackCountry "SWE"]
+
+1. Nf3 Nf6 2. g3 b6 3. Bg2 Bb7 4. O-O g6 5. b3 Bg7 6. Bb2 O-O 7. c4 c5 8. d4
+cxd4 9. Nxd4 Bxg2 10. Kxg2 d5 11. cxd5 Qxd5+ 12. Nf3 Nc6 13. Qxd5 Nxd5 14. Bxg7
+Kxg7 1/2-1/2

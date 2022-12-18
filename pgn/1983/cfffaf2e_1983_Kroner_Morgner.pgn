@@ -1,0 +1,22 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Kroner"]
+[Black "Morgner"]
+[Result "1-0"]
+[ECO "C45"]
+[Opening "Scotch"]
+[Variation "Mieses variation"]
+[HashCode "cfffaf2e"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nf6 5. Nxc6 bxc6 6. e5 Qe7 7. Qe2
+Nd5 8. c4 Ba6 9. Qe4 Nf6 10. Qe2 Nd5 11. Nd2 Nf4 12. Qe4 Ng6 13. f4 O-O-O
+14. b3 f6 15. Bb2 Re8 16. g3 Qb4 17. O-O-O Bb7 18. Bg2 Bd6 19. a3 Qb6 20.
+b4 fxe5 21. f5 Ne7 22. c5 Bxc5 23. bxc5 Qxc5+ 24. Kb1 Nd5 25. Rc1 Qe7 26.
+Nc4 d6 27. Na5 Qd7 28. g4 Ba8 29. Qc4 Nb6 30. Qa6+ Kb8 31. Nxc6+ Bxc6 32.
+Bxc6 Qc8 33. Qxc8+ Rxc8 34. a4 Rcd8 35. Rc3 Kc8 36. Rhc1 Rhf8 37. Ba3 Rf6
+38. R1c2 h6 39. a5 Nd7 40. Bc1 Rff8 41. Be3 a6 42. Ba7 Nb8 43. Bxb8 Kxb8
+44. Rb3+ Ka7 45. Rb7+ Ka8 46. Rcb2 1-0
+

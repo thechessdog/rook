@@ -1,0 +1,18 @@
+[Event "Sofia"]
+[Site "Sofia"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Joksic"]
+[Black "Bonchev"]
+[Result "1-0"]
+[ECO "B31"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (with ...g6, without ...d6)"]
+[HashCode "20c3c019"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. c3 a6 6. Ba4 e5 7. d3 Nge7 8.
+Be3 d6 9. d4 b5 10. Bc2 cxd4 11. cxd4 O-O 12. h3 f5 13. dxe5 Nxe5 14. Nxe5
+Bxe5 15. Bb3+ Kg7 16. f4 Bxb2 17. Bd4+ Bxd4+ 18. Qxd4+ Kh6 19. Nc3 Bb7 20.
+g4 fxg4 21. hxg4 g5 22. fxg5+ Kg6 23. Rf6+ Kxg5 24. Raf1 Qc8 25. Qd2+ 1-0
+

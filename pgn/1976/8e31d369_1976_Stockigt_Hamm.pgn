@@ -1,0 +1,20 @@
+[Event "corr DDR-FSM"]
+[Site "corr DDR-FSM"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Stockigt, R."]
+[Black "Hamm, G."]
+[Result "1/2-1/2"]
+[ECO "B06"]
+[Opening "Robatsch defence"]
+[Variation "Gurgenidze variation"]
+[HashCode "8e31d369"]
+[Epoch "Rook"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 c6 4. f4 d5 5. e5 h5 6. Nf3 Bg4 7. h3 Bxf3 8.
+Qxf3 e6 9. Be3 Qb6 10. O-O-O Ne7 11. g4 Nd7 12. Bd3 f5 13. gxf5 exf5 14.
+Rhg1 Nf8 15. Ne2 Ne6 16. c3 Qa5 17. Kb1 b5 18. Nc1 Qb6 19. Nb3 a5 20. Nc5
+Nxc5 21. dxc5 Qc7 22. Rg2 Qd7 23. Bd4 Qe6 24. Rdg1 Rh6 25. Rg5 a4 26. Qe2
+Bf8 27. Qc2 Rb8 28. Bf2 h4 29. Qd2 Nc8 30. Qe2 Ne7 31. a3 Rb7 32. Kc2 Rh7
+33. Qf3 Rh6 1/2-1/2
+

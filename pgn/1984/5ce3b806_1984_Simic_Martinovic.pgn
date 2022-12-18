@@ -1,0 +1,19 @@
+[Event "Smederevska Palanka"]
+[Site "Smederevska Palanka"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Simic, Radoslav"]
+[Black "Martinovic, Slobodan"]
+[Result "1/2-1/2"]
+[ECO "B19"]
+[Opening "Caro-Kann"]
+[Variation "classical, Spassky variation"]
+[HashCode "5ce3b806"]
+[Epoch "Rook"]
+[WhiteID "900184"]
+[WhiteCountry "SRB"]
+[BlackCountry "SRB"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. Nf3 Nd7 7. h4 h6 8. h5
+Bh7 9. Bd3 Bxd3 10. Qxd3 Ngf6 11. Bd2 Qc7 12. O-O-O e6 13. Ne4 Nxe4 14. Qxe4
+Nf6 15. Qe2 1/2-1/2

@@ -1,0 +1,18 @@
+[Event "Kecskemet"]
+[Site "Kecskemet"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Garcia Martinez, Silvino"]
+[Black "Groszpeter, Attila"]
+[Result "1/2-1/2"]
+[ECO "B54"]
+[Opening "Sicilian"]
+[HashCode "fafd1db9"]
+[Epoch "Rook"]
+[BlackID "700053"]
+[BlackCountry "HUN"]
+[WhiteID "3500179"]
+[WhiteCountry "CUB"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Bb5+ Bd7 6. Bxd7+ Nbxd7 7. Nc3 g6
+8. O-O Bg7 9. Nb3 1/2-1/2

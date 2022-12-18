@@ -1,0 +1,20 @@
+[Event "Bundesliga 8081"]
+[Site "Duitsland tt"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Ehrler, Eberhard"]
+[Black "Pioch, Thomas"]
+[Result "1/2-1/2"]
+[ECO "C45"]
+[Opening "Scotch"]
+[Variation "Tartakower variation"]
+[HashCode "5af05a15"]
+[Epoch "Rook"]
+[WhiteID "4607899"]
+[WhiteCountry "GER"]
+[BlackID "4607449"]
+[BlackCountry "GER"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nf6 5. Nxc6 bxc6 6. Nd2 d5 7. Bd3 Bd6 8.
+O-O O-O 9. f4 Bg4 10. Qe1 dxe4 11. Nxe4 Re8 12. Nxf6+ Qxf6 13. Qf2 Qe7 14. Kh1
+Bb4 1/2-1/2

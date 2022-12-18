@@ -1,0 +1,17 @@
+[Event "Cincinnati"]
+[Site "Cincinnati"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Thayer, P."]
+[Black "Goldman, F."]
+[Result "1-0"]
+[ECO "C60"]
+[Opening "Ruy Lopez"]
+[Variation "Cozio defence"]
+[HashCode "ba193a2a"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nge7 4. Nc3 a6 5. Ba4 f5 6. exf5 Nxf5 7. Bxc6
+dxc6 8. Nxe5 Qf6 9. O-O Bd6 10. Nf3 Nh4 11. Re1+ Be7 12. Nxh4 Qxh4 13. Qe2
+Bg4 14. Qe4 g5 15. Qxe7# 1-0
+

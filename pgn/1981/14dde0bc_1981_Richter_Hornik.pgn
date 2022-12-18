@@ -1,0 +1,25 @@
+[Event "corr ch11-DDR"]
+[Site "corr ch11-DDR"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Richter, M."]
+[Black "Hornik, K."]
+[Result "1/2-1/2"]
+[ECO "D35"]
+[Opening "QGD"]
+[Variation "exchange, positional line"]
+[HashCode "14dde0bc"]
+[Epoch "Rook"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. cxd5 exd5 5. Bg5 Be7 6. e3 c6 7. Bd3 Ne4 8.
+Bf4 Nxc3 9. bxc3 Nd7 10. Qc2 Nf6 11. Ne2 O-O 12. h4 b6 13. Be5 h6 14. f3
+Nd7 15. Bg3 c5 16. Bf2 c4 17. Bf5 Nf6 18. g4 Bxf5 19. gxf5 Qc7 20. Kd2 Bd6
+21. Rag1 Nh5 22. e4 dxe4 23. fxe4 f6 24. Rg4 b5 25. Rhg1 Rf7 26. Be3 Kh8
+27. Kd1 a5 28. Qc1 b4 29. Bxh6 gxh6 30. e5 fxe5 31. Qxh6+ Rh7 32. Qe6 Ng7
+33. Qg6 exd4 34. cxd4 Qd8 35. f6 Be5 36. fxg7+ Bxg7 37. h5 b3 38. axb3 cxb3
+39. h6 Bxh6 40. Rh1 b2 41. Nc3 Qf8 42. Rgh4 Qf3+ 43. Kc2 Rg8 44. Qe4 b1=Q+
+45. Rxb1 Rg2+ 46. Kb3 Qf7+ 47. Qd5 Qxd5+ 48. Nxd5 Rb7+ 49. Kc4 Rxb1 50.
+Rxh6+ Kg7 51. Ra6 Rc1+ 52. Kd3 Rg3+ 53. Ke4 Re1+ 54. Kf4 Ra3 55. Nb6 Ra2
+56. Ra7+ Kf6 57. Nd7+ Ke6 58. Ne5 a4 59. Ra5 Rc1 60. d5+ Ke7 61. Ra7+ Kd8
+62. d6 Rf2+ 63. Ke4 Re2+ 64. Kf5 Rxe5+ 65. Kxe5 Re1+ 1/2-1/2
+

@@ -1,0 +1,16 @@
+[Event "corr DDR/M"]
+[Site "corr DDR/M"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Mittag, L."]
+[Black "Schwieger, C."]
+[Result "1/2-1/2"]
+[ECO "C07"]
+[Opening "French"]
+[Variation "Tarrasch, open variation"]
+[HashCode "be257ad6"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. Ngf3 Nc6 5. Bb5 cxd4 6. O-O Nf6 7. Nxd4 Bd7
+8. Bxc6 Bxc6 9. e5 Nd7 10. f4 Qb6 1/2-1/2
+

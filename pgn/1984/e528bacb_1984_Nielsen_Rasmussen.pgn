@@ -1,0 +1,23 @@
+[Event "Denmark"]
+[Site "Denmark"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Nielsen, Jens"]
+[Black "Rasmussen, Karsten"]
+[Result "0-1"]
+[ECO "B10"]
+[Opening "Caro-Kann"]
+[Variation "closed (Breyer) variation"]
+[HashCode "e528bacb"]
+[Epoch "Rook"]
+[WhiteID "1409310"]
+[WhiteCountry "DEN"]
+[BlackID "1400088"]
+[BlackCountry "DEN"]
+
+1. e4 c6 2. d3 e5 3. Nf3 d6 4. g3 g6 5. Bg2 Bg7 6. O-O Ne7 7. Nc3 O-O 8. d4 Bg4
+9. Be3 Nd7 10. h3 Bxf3 11. Bxf3 exd4 12. Bxd4 Ne5 13. Bg2 c5 14. Bxe5 Bxe5 15.
+Qd3 a6 16. Nd1 Qb6 17. c3 Rad8 18. Qe2 Qb5 19. Qc2 f5 20. f4 Bg7 21. a4 Qd7 22.
+Nf2 Kh8 23. Rfd1 Qc7 24. h4 Rfe8 25. Re1 fxe4 26. Qxe4 d5 27. Qe6 d4 28. cxd4
+Bxd4 29. Rad1 Kg7 30. Qb3 Nf5 31. Qxb7 Qxb7 32. Bxb7 Nxg3 33. Kg2 Nf5 34. Rxe8
+Rxe8 35. Rd2 a5 36. Bc6 Re3 37. Rd3 Re2 0-1

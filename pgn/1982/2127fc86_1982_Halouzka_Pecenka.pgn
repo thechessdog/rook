@@ -1,0 +1,21 @@
+[Event "corr ch-CSSR"]
+[Site "corr ch-CSSR"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Halouzka"]
+[Black "Pecenka"]
+[Result "0-1"]
+[ECO "D35"]
+[Opening "QGD"]
+[Variation "exchange variation"]
+[HashCode "2127fc86"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. cxd5 exd5 5. Nf3 c6 6. Bg5 Bf5 7. e3 Nbd7
+8. Be2 Qb6 9. Qc1 Ne4 10. O-O Bd6 11. Nxe4 Bxe4 12. Nd2 Bg6 13. a3 O-O 14.
+Qc3 Rfe8 15. Bg4 Nf8 16. f4 f6 17. Bh4 Re7 18. Nb3 Qc7 19. Rf3 h5 20. Bh3
+Be4 21. Rf2 Nh7 22. Bg3 g5 23. fxg5 Bxg3 24. hxg3 fxg5 25. Bf5 Bxf5 26.
+Rxf5 Rae8 27. e4 Rxe4 28. Rxd5 Re3 29. Qc2 Qxg3 30. Re5 R8xe5 31. dxe5 Re1+
+32. Rxe1 Qxe1+ 33. Kh2 Qxe5+ 34. g3 Nf6 35. Nc5 h4 36. Qg6+ Kh8 37. Nd3
+hxg3+ 0-1
+

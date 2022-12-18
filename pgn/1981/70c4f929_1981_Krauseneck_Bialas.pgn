@@ -1,0 +1,22 @@
+[Event "Bundesliga 8081"]
+[Site "Duitsland tt"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Krauseneck, Peter, Prof. Dr."]
+[Black "Bialas, Wolfram"]
+[Result "0-1"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (without ...d6)"]
+[HashCode "70c4f929"]
+[Epoch "Rook"]
+[WhiteID "4602986"]
+[WhiteCountry "GER"]
+[BlackID "4601041"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 Qb6 4. Nc3 e6 5. O-O Nge7 6. Re1 a6 7. Bc4 d6 8. d3
+Ng6 9. a3 Be7 10. h4 Nxh4 11. Nxh4 Bxh4 12. Qh5 Bf6 13. f4 Bd4+ 14. Kh1 Qc7 15.
+e5 d5 16. Nxd5 exd5 17. Bxd5 g6 18. Qh6 Ne7 19. Qg7 Rf8 20. Ba2 Bg4 21. c3 Bf2
+22. Bd2 Nf5 23. Qf6 Bh4 24. Qd6 Qxd6 25. exd6+ Bxe1 26. Rxe1+ Kd7 27. Re5 Nxd6
+28. Rxc5 Bf5 29. Be3 b6 0-1

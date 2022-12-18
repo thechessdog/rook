@@ -1,0 +1,17 @@
+[Event "corr ch-NLD"]
+[Site "corr ch-NLD"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Etmans, Maarten D"]
+[Black "Straathof, D."]
+[Result "1/2-1/2"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (without ...d6)"]
+[HashCode "d2cc5a72"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 Qb6 4. Nc3 e6 5. O-O Nge7 6. Bxc6 Nxc6 7. Ne2 Nd4 8.
+Nexd4 cxd4 9. Qe2 Bc5 10. c3 a5 11. cxd4 Bxd4 12. Nxd4 Qxd4 13. d3 d6 14. Be3
+Qf6 15. a4 Bd7 16. Qd2 Ra6 17. b4 axb4 18. Qxb4 O-O 19. Qxb7 Rxa4 20. Rac1 Qe7
+21. Rc7 Rd8 22. Rfc1 Qe8 23. Qb6 Bb5 24. R7c3 Rda8 25. h3 h6 1/2-1/2

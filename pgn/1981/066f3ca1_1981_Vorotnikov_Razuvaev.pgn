@@ -1,0 +1,23 @@
+[Event "Beltsy"]
+[Site "Beltsy"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Vorotnikov, Vladislav V"]
+[Black "Razuvaev, Yuri S"]
+[Result "0-1"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "066f3ca1"]
+[Epoch "Rook"]
+[BlackCountry "RUS"]
+[WhiteID "4103009"]
+[WhiteCountry "RUS"]
+
+1. e4 c5 2. c3 d6 3. d4 Nf6 4. dxc5 Nc6 5. f3 d5 6. exd5 Nxd5 7. Bc4 e6 8. Bxd5
+exd5 9. Be3 Qh4+ 10. g3 Qh5 11. Nd2 Be7 12. Ne2 O-O 13. Nf4 Qe5 14. Qe2 b6 15.
+Nb3 Re8 16. O-O-O Bxc5 17. Bxc5 Qxf4+ 18. gxf4 Rxe2 19. Nd4 Nxd4 20. Bxd4 f6
+21. Rde1 Ba6 22. Rxe2 Bxe2 23. Re1 Bxf3 24. Re7 Kf8 25. Rb7 Re8 26. Rxa7 Re1+
+27. Kc2 Re2+ 28. Kb3 Rxh2 29. a4 h5 30. f5 h4 31. Ra8+ Kf7 32. Rh8 Bg4 33. Bxb6
+Bxf5 34. Bc7 Rh1 35. Kb4 g5 36. Kc5 Kg7 37. Rd8 g4 38. a5 g3 39. Kc6 d4 40. Bb6
+Be4+ 41. Kc7 0-1

@@ -1,0 +1,21 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Nesis, G."]
+[Black "Ertl, R."]
+[Result "1-0"]
+[ECO "D74"]
+[Opening "Neo-Gruenfeld, 6.cd Nxd5, 7.O-O"]
+[HashCode "3f797bb0"]
+[Epoch "Rook"]
+
+1. Nf3 d5 2. g3 g6 3. Bg2 Bg7 4. d4 Nf6 5. c4 O-O 6. cxd5 Nxd5 7. O-O Nc6
+8. e4 Nb6 9. d5 Nb8 10. Nc3 c6 11. Qb3 cxd5 12. Nxd5 Nxd5 13. exd5 Nd7 14.
+Be3 Nf6 15. Rad1 Ne8 16. Rfe1 Nd6 17. Bg5 Re8 18. h3 Bd7 19. Nd2 Qa5 20.
+Nc4 Qa6 21. Rc1 Ba4 22. Qb4 Qb5 23. Qxb5 Bxb5 24. b3 Bf8 25. Bf1 Nf5 26. g4
+Nd4 27. Bg2 Ba6 28. Re4 Nb5 29. a4 Nd6 30. Nxd6 exd6 31. Rxe8 Rxe8 32. b4
+Be2 33. Rc7 Rb8 34. Be3 a5 35. bxa5 f5 36. gxf5 gxf5 37. Ba7 Re8 38. Rxb7
+f4 39. h4 f3 40. Bh3 Ba6 41. Rc7 Re1+ 42. Kh2 Bg7 43. Be6+ Kh8 44. Kg3 Be5+
+45. Kxf3 Be2+ 46. Ke4 h6 47. Be3 Rb1 48. Bxh6 Rb4+ 49. Ke3 Bf1 50. Bf5 1-0
+

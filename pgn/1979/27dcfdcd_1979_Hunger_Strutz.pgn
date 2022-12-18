@@ -1,0 +1,19 @@
+[Event "corr DDR-H"]
+[Site "corr DDR-H"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Hunger, H."]
+[Black "Strutz, M."]
+[Result "0-1"]
+[ECO "E77"]
+[Opening "King's Indian"]
+[Variation "Four pawns attack, Florentine gambit"]
+[HashCode "27dcfdcd"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f4 O-O 6. Nf3 c5 7. d5 e6 8. Be2
+exd5 9. e5 dxe5 10. fxe5 Ng4 11. Bg5 Qa5 12. cxd5 b5 13. Bxb5 Bd7 14. Be2
+Nxe5 15. O-O Re8 16. h3 Na6 17. Nd2 c4 18. Nde4 Rab8 19. Nf6+ Bxf6 20. Rxf6
+Nc5 21. Qd4 Ncd3 22. Ne4 Rb4 23. Rxg6+ fxg6 24. Nf6+ Kg7 25. Nxd7 Qc7 26.
+Nf6 Reb8 27. Bh6+ Kh8 0-1
+

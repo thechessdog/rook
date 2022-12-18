@@ -1,0 +1,18 @@
+[Event "corr NLD/H"]
+[Site "corr NLD/H"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Wijnand, P."]
+[Black "Polee, J."]
+[Result "1/2-1/2"]
+[ECO "A59"]
+[Opening "Benko gambit"]
+[Variation "Ne2 variation"]
+[HashCode "d56ad044"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. bxa6 Bxa6 6. Nc3 d6 7. e4 Bxf1 8.
+Kxf1 g6 9. Nge2 Bg7 10. h3 O-O 11. Kg1 Nbd7 12. Kh2 Qb6 13. Rb1 Rfb8 14.
+Qc2 Qa6 15. f4 Ne8 16. Be3 Nc7 17. Rhd1 Rb7 18. Bf2 Rab8 19. Bh4 Kf8 20.
+Bg3 Nb5 21. Nxb5 Rxb5 22. Nc3 Rb4 23. Re1 Bxc3 24. bxc3 1/2-1/2
+

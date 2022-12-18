@@ -1,0 +1,25 @@
+[Event "Rome"]
+[Site "Rome"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Mednis, Edmar John"]
+[Black "Inkiov, Ventzislav"]
+[Result "0-1"]
+[ECO "E06"]
+[Opening "Catalan"]
+[Variation "closed, 5.Nf3"]
+[HashCode "5fa8be7e"]
+[Epoch "Rook"]
+[BlackID "2900033"]
+[BlackCountry "FID"]
+[WhiteCountry "USA"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Bg2 Be7 5. Nf3 O-O 6. O-O dxc4 7. Qc2 a6 8. Qxc4
+b5 9. Qc2 Bb7 10. Bg5 Nbd7 11. Nbd2 Rc8 12. Nb3 Be4 13. Qc1 c5 14. dxc5 Nxc5
+15. Nxc5 Rxc5 16. Qe3 Qa8 17. Bxf6 gxf6 18. Rfd1 Rd5 19. Ne1 Bxg2 20. Nxg2 Bc5
+21. Qb3 Rfd8 22. Nf4 Rxd1+ 23. Rxd1 Bd4 24. Rd3 e5 25. Nh5 e4 26. Rxd4 Rxd4 27.
+Nxf6+ Kg7 28. Nh5+ Kf8 29. Qa3+ b4 30. Qe3 Qd5 31. Qh6+ Ke7 32. Qf6+ Kd7 33.
+Nf4 Rd1+ 34. Kg2 Qxa2 35. Qf5+ Kc6 36. Qxe4+ Kb5 37. Qb7+ Ka4 38. Qxa6+ Kb3 39.
+Qc6 Qxb2 40. Nd3 Qd4 41. Nc1+ Kb2 42. Nd3+ Rxd3 43. exd3 b3 44. Qb7 Kc2 45.
+Qc6+ Kd1 46. Qf3+ Kd2 47. Qxf7 b2 48. Qb7 h6 49. h3 Qc3 50. d4 Kc1 51. Qa6 b1=Q
+0-1

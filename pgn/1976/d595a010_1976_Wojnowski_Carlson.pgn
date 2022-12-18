@@ -1,0 +1,18 @@
+[Event "corr FNPCC"]
+[Site "corr FNPCC"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Wojnowski"]
+[Black "Carlson, Curtis"]
+[Result "1/2-1/2"]
+[ECO "D94"]
+[Opening "Gruenfeld"]
+[Variation "5.e3"]
+[HashCode "d595a010"]
+[Epoch "Rook"]
+[BlackID "2002868"]
+[BlackCountry "USA"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. Nc3 d5 5. e3 O-O 6. cxd5 Nxd5 7. Bc4 Nb6 8.
+Bb3 c5 9. O-O cxd4 10. Nxd4 Bd7 11. Qe2 Nc6 12. Nxc6 Bxc6 13. Rd1 Qc7 14. e4
+Rfd8 15. Be3 1/2-1/2

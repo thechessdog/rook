@@ -1,0 +1,23 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Unger, P."]
+[Black "Wit"]
+[Result "1-0"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, 6.Bd3"]
+[HashCode "1c78efe0"]
+[Epoch "Rook"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 O-O 6. Bd3 Nc6 7. e5 dxe5 8.
+dxe5 Nd5 9. Bd2 Ncb4 10. Be4 c6 11. Nxd5 Nxd5 12. c4 Nb6 13. Qc2 Bg4 14.
+Be3 Qc7 15. O-O Rfd8 16. Rac1 e6 17. b4 Bf8 18. a3 a5 19. Qf2 Nc8 20. Qh4
+Bxf3 21. Rxf3 Qe7 22. Qh3 axb4 23. axb4 Qxb4 24. f5 exf5 25. Bxf5 Bc5 26.
+e6 Bxe3+ 27. Rxe3 Qb2 28. exf7+ Kg7 29. Rf1 Nd6 30. Bd7 Rf8 31. c5 Nc4 32.
+Ree1 Qd4+ 33. Kh1 Ne5 34. Be8 Nd3 35. Qe3 Qxe3 36. Rxe3 Nxc5 37. h4 Ra4 38.
+g3 Re4 39. Rfe1 Rxe3 40. Rxe3 Kf6 41. g4 h6 42. g5+ Kg7 43. Re4 Nb3 44.
+gxh6+ Kxh6 45. Re7 Na5 46. Kg2 Kg7 47. Kf3 Kf6 48. Re4 Nb3 49. Rf4+ Ke5 50.
+Re4+ Kf6 51. Rf4+ 1-0
+

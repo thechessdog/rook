@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Hoogland"]
+[Black "Post"]
+[Result "0-1"]
+[ECO "B23"]
+[Opening "Sicilian"]
+[Variation "closed, 2...Nc6"]
+[HashCode "a0d866c8"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nc3 Nc6 3. d3 d6 4. f4 Nf6 5. Be2 b6 6. Nf3 Bg4 7. O-O e6 8. h3
+Bxf3 9. Bxf3 e5 10. Be3 Be7 11. Ne2 O-O 12. Qd2 d5 13. Ng3 d4 14. Bf2 exf4
+15. Ne2 g5 16. a3 Ne5 17. Be1 Qd7 18. g3 Nxf3+ 19. Rxf3 Qxh3 20. Rf2 Ng4
+21. c4 Nxf2 22. Bxf2 0-1
+

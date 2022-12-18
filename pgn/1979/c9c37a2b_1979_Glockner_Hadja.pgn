@@ -1,0 +1,20 @@
+[Event "corr ch-CSSR"]
+[Site "corr ch-CSSR"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Glockner"]
+[Black "Hadja"]
+[Result "1-0"]
+[ECO "C45"]
+[Opening "Scotch"]
+[Variation "Horwitz attack"]
+[HashCode "c9c37a2b"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Qh4 5. Nb5 Bb4+ 6. c3 Qxe4+ 7. Be3
+Ba5 8. Nd2 Qg6 9. Nc4 a6 10. Nd4 Nge7 11. Qd2 b5 12. Nxa5 Nxa5 13. Bd3 Qxg2
+14. O-O-O Bb7 15. Rhg1 Qd5 16. Kb1 O-O 17. Rg5 Qd6 18. Qe2 Nac6 19. Rdg1 g6
+20. Qh5 Nd8 21. Qh6 Qf6 22. Nf5 Nxf5 23. Bxf5 Qg7 24. Qh5 Ne6 25. R5g3 gxh5
+26. Rxg7+ Nxg7 27. Bh6 Rfe8 28. Rxg7+ Kf8 29. Rg6+ Ke7 30. Bg5+ f6 31. Rxf6
+Rf8 32. Re6+ Kf7 33. Re7+ Kg8 34. Bxh7+ Kh8 35. Be3 c5 36. Bxc5 1-0
+

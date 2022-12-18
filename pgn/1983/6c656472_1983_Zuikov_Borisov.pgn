@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Zuikov"]
+[Black "Borisov, V."]
+[Result "0-1"]
+[ECO "C57"]
+[Opening "two knights defence"]
+[Variation "Wilkes Barre (Traxler) variation"]
+[HashCode "6c656472"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 Bc5 5. Nxf7 Bxf2+ 6. Kxf2 Nxe4+ 7.
+Ke3 Qe7 8. c3 d5 9. Bxd5 Qc5+ 10. d4 Qxd5 11. Nxe5 Nf6 12. Nxc6 Qe4+ 13.
+Kf2 Ng4+ 14. Kg1 O-O 15. h3 Nf2 16. Nd2 Qxc6 17. Qb3+ Be6 18. c4 Nxh1 19.
+d5 Qc5+ 20. Kxh1 Bf5 0-1
+

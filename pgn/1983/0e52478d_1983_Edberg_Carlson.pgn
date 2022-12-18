@@ -1,0 +1,20 @@
+[Event "corr USCCC"]
+[Site "corr USCCC"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Edberg"]
+[Black "Carlson, Curtis"]
+[Result "0-1"]
+[ECO "B95"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6...e6"]
+[HashCode "0e52478d"]
+[Epoch "Rook"]
+[BlackID "2002868"]
+[BlackCountry "USA"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. Be2 Nbd7 8.
+O-O Be7 9. Qd2 Qc7 10. f3 b5 11. a3 Bb7 12. Rad1 Rc8 13. Be3 O-O 14. g4 Nb6 15.
+g5 Nfd7 16. f4 Nc4 17. Bxc4 Qxc4 18. Qg2 Nc5 19. Nc6 Rxc6 20. Rd4 Na4 21. Rxc4
+Rxc4 22. Nxa4 Bxe4 23. Qe2 Rxc2 24. Bd2 bxa4 25. Qxe4 Rxd2 26. Qb7 Bd8 27. Rc1
+d5 28. Rc8 g6 29. Qd7 Bb6+ 30. Kh1 Rxc8 0-1

@@ -1,0 +1,29 @@
+[Event "POL-chT"]
+[Site "Lubniewice"]
+[Date "1981.??.??"]
+[Round "2"]
+[White "Sznapik, Aleksander"]
+[Black "Swic, Waldemar"]
+[Result "0-1"]
+[ECO "C99"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Chigorin, 12...c5d4"]
+[HashCode "48f8adc5"]
+[Epoch "Rook"]
+[WhiteID "1100050"]
+[BlackID "1101013"]
+[WhiteCountry "POL"]
+[BlackCountry "POL"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. h3 Na5 10. Bc2 c5 11. d4 Qc7 12. Nbd2 cxd4 13. cxd4 Rd8 14. d5 Bd7 15.
+Nf1 Rdc8 16. Bd3 Nb7 17. Ng3 Nc5 18. Bf1 a5 19. Nh2 Na4 20. Qf3 g6 21. b3 Nc5
+22. Bd2 Qd8 23. Rad1 Na6 24. a3 Nc5 25. Bh6 a4 26. b4 Nb3 27. Qe3 Ne8 28. f4 f6
+29. f5 Rab8 30. Qf2 Nd4 31. Rd2 Rc3 32. Re3 Rbc8 33. Rxc3 Rxc3 34. Be3 Nb3 35.
+Rd1 Qc7 36. Ng4 Bd8 37. Nh6+ Kf8 38. Bd3 Nc1 39. Bxc1 Rxc1 40. Qe1 Rxd1 41.
+Qxd1 Qb6+ 42. Kh2 Qe3 43. Ng4 Qf4 44. Qf3 Qxf3 45. gxf3 Bb6 46. fxg6 hxg6 47.
+Nf1 Bd4 48. Nge3 Bb2 49. Nc2 Kg7 50. Nfe3 Kh6 51. Kg3 Kg5 52. h4+ Kh5 53. Be2
+f5 54. Ng2 f4+ 55. Kf2 Nc7 56. Nge1 Kxh4 57. Nd3 Bc3 58. Kg2 Kg5 59. Nf2 Na8
+60. Nd1 Bd2 61. Bd3 Nb6 62. Kf2 Nc4 63. Ke2 Bc1 64. Bxc4 bxc4 65. Nc3 Bb2 66.
+Nd1 Bd4 67. Nf2 Bb6 68. Nd1 Kh4 69. Nc3 Bd4 70. Nd1 Kg3 71. Nxd4 exd4 72. e5
+dxe5 0-1

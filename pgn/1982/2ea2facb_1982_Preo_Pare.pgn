@@ -1,0 +1,23 @@
+[Event "corr NAICCC IV"]
+[Site "corr NAICCC IV"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Preo, Nicholas"]
+[Black "Pare, Claude"]
+[Result "0-1"]
+[ECO "B77"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, 9...Bd7"]
+[HashCode "2ea2facb"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 Nc6 8.
+Qd2 O-O 9. Bc4 Bd7 10. h4 Rc8 11. Bb3 h5 12. Ncb5 Nxd4 13. Nxd4 b5 14. a4
+a6 15. axb5 axb5 16. Qa5 Qxa5+ 17. Rxa5 Ra8 18. Rxa8 Rxa8 19. Kd2 e6 20. c3
+d5 21. e5 Ne8 22. f4 Bf8 23. g4 hxg4 24. h5 gxh5 25. Rxh5 f5 26. Nxf5 b4
+27. Bd4 Rb8 28. Rg5+ Kf7 29. Ng3 bxc3+ 30. Kxc3 Nc7 31. Kc2 Rb4 32. Be3 d4
+33. Rf5+ Ke8 34. Rxf8+ Kxf8 35. Bd2 Rb8 36. Bc4 Bc6 37. b3 Bd5 38. Be1 Bxc4
+39. bxc4 Na6 40. Ne4 Nb4+ 41. Kd2 Ra8 42. Ke2 Nc6 43. Nf6 Ra2+ 44. Kd1 Rg2
+45. Ne4 Kf7 46. Ng5+ Kg6 47. Nxe6 Kf5 48. Ng7+ Kxf4 49. e6 Rh2 50. Bd2+ Ke5
+51. Bg5 g3 52. Ke1 Rh1+ 53. Ke2 g2 54. e7 Nxe7 55. Kf3 g1=Q 0-1
+

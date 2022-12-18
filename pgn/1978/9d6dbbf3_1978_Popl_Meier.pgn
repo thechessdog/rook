@@ -1,0 +1,19 @@
+[Event "Wurttemberg"]
+[Site "Wurttemberg"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Popl"]
+[Black "Meier, J."]
+[Result "0-1"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "modern variation"]
+[HashCode "9d6dbbf3"]
+[Epoch "Rook"]
+
+1. b3 e5 2. Bb2 Nc6 3. e3 d6 4. Bb5 Ne7 5. Ne2 Bd7 6. f4 g6 7. O-O Bg7 8.
+Ng3 O-O 9. Bxc6 Bxc6 10. f5 Nxf5 11. Nxf5 gxf5 12. Rxf5 Bd7 13. Rf2 Qg5 14.
+e4 f5 15. exf5 Bxf5 16. d3 Bg4 17. Qe1 Rxf2 18. Qxf2 Rf8 19. Qd2 Bh6 20.
+Qxg5+ Bxg5 21. Nc3 Be3+ 22. Kh1 Bd4 23. Na4 Rf2 24. Bxd4 exd4 25. Rc1 Bd7
+26. Nb2 Bc6 0-1
+

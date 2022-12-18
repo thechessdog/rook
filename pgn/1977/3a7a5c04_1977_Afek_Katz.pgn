@@ -1,0 +1,17 @@
+[Event "Beer Sheva"]
+[Site "Beer Sheva"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Afek, Yochanan"]
+[Black "Katz"]
+[Result "1-0"]
+[ECO "A37"]
+[Opening "English"]
+[Variation "symmetrical variation"]
+[HashCode "3a7a5c04"]
+[Epoch "Rook"]
+[WhiteID "2800462"]
+[WhiteCountry "ISR"]
+
+1. Nf3 g6 2. g3 Bg7 3. Bg2 c5 4. c4 Nc6 5. Nc3 Rb8 6. O-O a6 7. a4 Nh6 8. d4
+cxd4 9. Nxd4 Nxd4 10. Bxh6 Nxe2+ 11. Qxe2 Bxh6 12. Qe5 1-0

@@ -1,0 +1,24 @@
+[Event "corr ch10-DDR"]
+[Site "corr ch10-DDR"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Micheel, P."]
+[Black "Mueller, E."]
+[Result "1-0"]
+[ECO "C77"]
+[Opening "Ruy Lopez"]
+[Variation "four knights (Tarrasch) variation"]
+[HashCode "319e75a7"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. Nc3 b5 6. Bb3 Be7 7. O-O O-O 8.
+a4 Bb7 9. d3 Nd4 10. Ba2 b4 11. Nd5 Nxd5 12. Bxd5 Bxd5 13. exd5 Nxf3+ 14.
+Qxf3 f5 15. c4 bxc3 16. bxc3 Rb8 17. Qd1 f4 18. f3 Bc5+ 19. Kh1 Qg5 20. Qe2
+Rb3 21. c4 Rfb8 22. Rd1 Bd4 23. Ra2 Rb1 24. Qc2 Qd8 25. Bd2 Rxd1+ 26. Qxd1
+Rb7 27. Rc2 Qb8 28. h3 Rb3 29. Rc1 Rxd3 30. Rb1 Qe8 31. Qc2 Qg6 32. Rb8+
+Kf7 33. Bb4 d6 34. Rb7 Re3 35. Rxc7+ Kf6 36. Qd1 Qg3 37. Rc6 Bc5 38. Bxc5
+Re1+ 39. Qxe1 Qxe1+ 40. Kh2 Kf5 41. Bxd6 Qa5 42. Bf8 e4 43. fxe4+ Kxe4 44.
+Bxg7 Qxa4 45. Bh6 Kf5 46. Rc8 f3 47. gxf3 Qb4 48. Be3 a5 49. c5 Qb7 50.
+Rf8+ Ke5 51. d6 a4 52. Re8+ Kd5 53. Re4 a3 54. Rd4+ Kxc5 55. d7 Qb8+ 56.
+Rd6+ 1-0
+

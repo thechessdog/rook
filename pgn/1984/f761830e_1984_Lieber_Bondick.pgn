@@ -1,0 +1,19 @@
+[Event "corr DDR/FS"]
+[Site "corr DDR/FS"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Lieber"]
+[Black "Bondick, Karl"]
+[Result "0-1"]
+[ECO "D09"]
+[Opening "QGD"]
+[Variation "Albin counter-gambit, 5.g3"]
+[HashCode "f761830e"]
+[Epoch "Rook"]
+
+1. d4 d5 2. c4 e5 3. dxe5 d4 4. Nf3 Nc6 5. g3 Bg4 6. Bg2 Qd7 7. O-O Be7 8.
+a3 a5 9. Qa4 h5 10. b4 h4 11. Re1 hxg3 12. Bf4 gxf2+ 13. Kxf2 Nh6 14. b5
+Nd8 15. Qd1 Ne6 16. Bg3 Nf5 17. Rh1 Ne3 18. Qc1 Bc5 19. Nbd2 Nxg2 20. Kxg2
+Bh3+ 21. Kf2 d3+ 22. e3 Bf5 23. Nb3 a4 24. Nxc5 Nxc5 25. Nd4 d2 26. Qg1 Be4
+27. Nf3 Qf5 28. Qg2 Nd3+ 29. Ke2 Nb2 0-1
+

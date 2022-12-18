@@ -1,0 +1,18 @@
+[Event "Kentucky"]
+[Site "Kentucky"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Hater, D."]
+[Black "Smith, Andrew Philip"]
+[Result "1-0"]
+[ECO "C55"]
+[Opening "two knights"]
+[Variation "Max Lange attack"]
+[HashCode "772155e2"]
+[Epoch "Rook"]
+[BlackID "2500833"]
+[BlackCountry "IRL"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. O-O Nf6 5. d4 exd4 6. e5 Ne4 7. Re1 Nxf2 8.
+Kxf2 d3+ 9. Be3 dxc2 10. Qxc2 b6 11. Bxc5 bxc5 12. Bd5 Nb4 13. Qb3 Rb8 14.
+Bxf7+ Kf8 15. Bh5 d5 16. exd6 Qf6 17. Re8# 1-0

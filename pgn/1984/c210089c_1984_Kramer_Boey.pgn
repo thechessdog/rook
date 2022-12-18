@@ -1,0 +1,19 @@
+[Event "corr NBC"]
+[Site "corr NBC"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Kramer"]
+[Black "Boey"]
+[Result "1-0"]
+[ECO "D07"]
+[Opening "QGD"]
+[Variation "Chigorin defence"]
+[HashCode "c210089c"]
+[Epoch "Rook"]
+
+1. d4 d5 2. c4 Nc6 3. Nf3 e5 4. Nxe5 Nxe5 5. dxe5 dxc4 6. Qxd8+ Kxd8 7. e4
+b5 8. a4 c6 9. Be3 a6 10. axb5 cxb5 11. Nc3 Bb7 12. Be2 h5 13. O-O Rc8 14.
+Rfd1+ Ke8 15. Nd5 Bc5 16. Bxc5 Rxc5 17. f4 f6 18. e6 f5 19. Nb4 Ne7 20. Rd7
+Bc8 21. Nxa6 Bxa6 22. Rxa6 fxe4 23. Ra8+ Rc8 24. Rxc8+ Nxc8 25. Rxg7 Ne7
+26. Rg5 1-0
+

@@ -1,0 +1,21 @@
+[Event "Sombor"]
+[Site "Sombor"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Begovac, F."]
+[Black "Commons, Kim S"]
+[Result "0-1"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Nimzovich (knight's tour) variation"]
+[HashCode "82e839c5"]
+[Epoch "Rook"]
+[BlackCountry "USA"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. Nd2 Bg7 8. e4
+O-O 9. Be2 Na6 10. O-O Nc7 11. Kh1 Qe7 12. f3 Nd7 13. a4 f5 14. exf5 gxf5 15.
+f4 Nf6 16. Nc4 Ng4 17. Bxg4 fxg4 18. Ne2 Rf5 19. Ne3 Rh5 20. Ng3 Rxh2+ 21. Kxh2
+Qh4+ 22. Kg1 Qxg3 23. Qe1 Qxe1 24. Rxe1 Bd4 25. Kh2 Bd7 26. Nc4 Nxd5 27. Nxd6
+Rf8 28. Re2 Rf6 29. Nb5 Rh6+ 30. Kg3 Bf6 31. f5 Rh1 32. Kxg4 h5+ 33. Kf3 a6 34.
+Nd6 Bc6 35. Ne4 Bd4 36. Kg3 Be5+ 37. Kf2 h4 38. Re1 Bd4+ 39. Ke2 Rxe1+ 40. Kxe1
+Nb4 0-1

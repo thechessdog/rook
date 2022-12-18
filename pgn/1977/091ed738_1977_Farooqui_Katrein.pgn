@@ -1,0 +1,17 @@
+[Event "Columbus,OH"]
+[Site "Columbus,OH"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Farooqui, Zahiruddin"]
+[Black "Katrein, M."]
+[Result "1-0"]
+[ECO "B40"]
+[Opening "Sicilian"]
+[Variation "Pin variation (Sicilian counter-attack)"]
+[HashCode "091ed738"]
+[Epoch "Rook"]
+[WhiteID "7800142"]
+[WhiteCountry "PAK"]
+
+1. e4 c5 2. Nf3 Nf6 3. Nc3 e6 4. d4 cxd4 5. Nxd4 Bb4 6. Bd3 d5 7. e5 Qc7 8.
+exf6 Bxc3+ 9. bxc3 Qxc3+ 10. Qd2 Qxa1 11. c3 1-0

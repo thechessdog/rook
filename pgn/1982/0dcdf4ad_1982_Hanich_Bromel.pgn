@@ -1,0 +1,18 @@
+[Event "corr ch-DDR"]
+[Site "corr ch-DDR"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Hanich"]
+[Black "Bromel"]
+[Result "1-0"]
+[ECO "B15"]
+[Opening "Caro-Kann"]
+[Variation "Gurgenidze system"]
+[HashCode "0dcdf4ad"]
+[Epoch "Rook"]
+
+1. e4 c6 2. d4 g6 3. Nc3 d5 4. h3 dxe4 5. Nxe4 Bg7 6. Nf3 Nd7 7. Bd3 Ngf6
+8. Qe2 Nxe4 9. Qxe4 Nf6 10. Qh4 O-O 11. O-O Nh5 12. Bg5 f6 13. Bd2 Qd6 14.
+Rfe1 e5 15. Rad1 Be6 16. dxe5 fxe5 17. Bc3 Bd5 18. Bb4 c5 19. Bc4 Nf4 20.
+Bc3 Qc6 21. Qxf4 1-0
+

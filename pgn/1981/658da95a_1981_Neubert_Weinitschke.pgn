@@ -1,0 +1,18 @@
+[Event "corr ch-DDR"]
+[Site "corr ch-DDR"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Neubert"]
+[Black "Weinitschke"]
+[Result "1/2-1/2"]
+[ECO "C43"]
+[Opening "Petrov"]
+[Variation "modern attack, Symmetrical variation"]
+[HashCode "658da95a"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nf6 3. d4 Nxe4 4. Bd3 d5 5. Nxe5 Bd6 6. O-O O-O 7. Nd2 Bxe5
+8. dxe5 Nc5 9. Qh5 Nxd3 10. cxd3 Qd7 11. Nb3 Qg4 12. Qxg4 Bxg4 13. Re1 Nc6
+14. Bd2 Bf5 15. Rac1 a5 16. Nc5 Rfb8 17. b3 Nb4 18. a3 Nc6 19. Bf4 Bxd3 20.
+Bg3 Nd4 1/2-1/2
+

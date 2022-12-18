@@ -1,0 +1,19 @@
+[Event "Rome"]
+[Site "Rome"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Pangrazzi, Marco"]
+[Black "Martin, Andrew D"]
+[Result "1/2-1/2"]
+[ECO "A37"]
+[Opening "English"]
+[Variation "symmetrical, Botvinnik system reversed"]
+[HashCode "a634dcda"]
+[Epoch "Rook"]
+[WhiteID "800899"]
+[WhiteCountry "ITA"]
+[BlackID "400300"]
+[BlackCountry "ENG"]
+
+1. Nf3 c5 2. c4 g6 3. g3 Bg7 4. Bg2 Nc6 5. Nc3 e5 6. O-O Nge7 7. d3 d6 8. Ne1
+Be6 9. b3 1/2-1/2

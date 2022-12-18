@@ -1,0 +1,26 @@
+[Event "IBM"]
+[Site "Amsterdam"]
+[Date "1976.07.01"]
+[Round "14"]
+[White "Farago, Ivan"]
+[Black "Ligterink, Gert"]
+[Result "0-1"]
+[ECO "E45"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Bronstein (Byrne) variation"]
+[HashCode "ebfc461d"]
+[Epoch "Rook"]
+[WhiteID "700134"]
+[WhiteCountry "HUN"]
+[BlackID "1000179"]
+[BlackCountry "NED"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 b6 5. Ne2 Ba6 6. Ng3 O-O 7. Bd3 Nc6 8. Bd2
+d5 9. Qe2 e5 10. cxd5 Bxd3 11. Qxd3 exd4 12. exd4 Re8+ 13. Nge2 Bxc3 14. Bxc3
+Qxd5 15. O-O Ne5 16. Qg3 Nf3+ 17. Qxf3 Qxf3 18. gxf3 Rxe2 19. Rfe1 Rae8 20.
+Rxe2 Rxe2 21. Kf1 Re6 22. Re1 Rxe1+ 23. Kxe1 Nd5 24. Bd2 f6 25. Ke2 b5 26. f4
+Kf7 27. f5 Ne7 28. Kd3 Nxf5 29. Ke4 Ne7 30. d5 Ke8 31. Kd4 Kd7 32. Kc5 a6 33.
+d6 cxd6+ 34. Kb6 d5 35. Kxa6 Kc6 36. Ka5 d4 37. Kb4 Nd5+ 38. Kb3 h5 39. Kc2 Nb6
+40. b3 Kd5 41. Kd3 Nd7 42. f3 Nc5+ 43. Ke2 g5 44. Bb4 f5 45. Bd2 g4 46. Kf2
+Nd3+ 47. Ke2 Nc5 48. Kf2 Nd3+ 49. Ke2 Ne5 50. fxg4 fxg4 51. a4 bxa4 52. bxa4
+Nf3 53. Bf4 h4 54. a5 Nxh2 55. a6 Kc6 0-1

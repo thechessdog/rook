@@ -1,0 +1,15 @@
+[Event "corr ch-Berlin"]
+[Site "corr ch-Berlin"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Krockert"]
+[Black "Kabisch"]
+[Result "0-1"]
+[ECO "A52"]
+[Opening "Budapest defence"]
+[HashCode "40bc841a"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ng4 4. Qd4 d6 5. exd6 Bxd6 6. Nf3 O-O 7. h3 Nc6
+8. Qd1 Nxf2 0-1
+

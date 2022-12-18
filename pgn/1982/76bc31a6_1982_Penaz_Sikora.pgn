@@ -1,0 +1,17 @@
+[Event "corr ch-CSSR"]
+[Site "corr ch-CSSR"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Penaz"]
+[Black "Sikora-Lerch, Jan"]
+[Result "0-1"]
+[ECO "A08"]
+[Opening "Reti"]
+[Variation "King's Indian attack, French variation"]
+[HashCode "76bc31a6"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d3 d5 3. Nd2 Nf6 4. Ngf3 c5 5. g3 Nc6 6. Bg2 Be7 7. O-O O-O 8. Re1
+a5 9. e5 Nd7 10. Nf1 b5 11. h4 b4 12. Bf4 a4 13. a3 bxa3 14. bxa3 Ba6 15. Ne3
+f6 16. Bh3 f5 17. c4 Nb6 18. cxd5 Nxd5 19. Qxa4 Qd7 20. Nc4 Bb7 21. Qb3 Nxf4
+0-1

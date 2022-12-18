@@ -1,0 +1,18 @@
+[Event "corr Vidmar mem"]
+[Site "corr Vidmar mem"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Dubinin, Peter Vasilievich"]
+[Black "Jovcic"]
+[Result "1/2-1/2"]
+[ECO "A06"]
+[Opening "Reti"]
+[Variation "Nimzovich-Larsen attack"]
+[HashCode "485e300e"]
+[Epoch "Rook"]
+[WhiteCountry "RUS"]
+
+1. Nf3 d5 2. b3 Bg4 3. Bb2 Nd7 4. d4 e6 5. Nbd2 f5 6. e3 Bd6 7. Be2 Qf6 8. c4
+c6 9. Qc2 Nh6 10. h3 Bh5 11. a3 Nf7 12. Ne5 Bxe2 13. Nxd7 Kxd7 14. Kxe2 Rad8
+15. b4 a6 16. b5 cxb5 17. c5 Be7 18. a4 b4 19. a5 Rc8 20. Qa4+ Rc6 21. Qxb4 Nd8
+22. f4 g5 23. g3 Rg8 24. Rag1 Rc7 25. Nf3 Nc6 26. Qd2 Rcc8 27. Bc3 1/2-1/2

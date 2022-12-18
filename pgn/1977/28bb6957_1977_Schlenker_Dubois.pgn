@@ -1,0 +1,18 @@
+[Event "Lugano op"]
+[Site "Lugano op"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Schlenker, R."]
+[Black "Dubois"]
+[Result "1-0"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "classical variation"]
+[HashCode "28bb6957"]
+[Epoch "Rook"]
+
+1. b3 d5 2. Bb2 c5 3. e3 Nc6 4. Nf3 Nf6 5. Bb5 Bd7 6. O-O Qb6 7. Bxc6 Bxc6
+8. Ne5 e6 9. d3 Qc7 10. f4 O-O-O 11. a4 Bd6 12. Na3 Bxe5 13. Bxe5 Qd7 14.
+Nb5 Bxb5 15. axb5 Qxb5 16. Rxa7 Ne8 17. Qg4 Qb6 18. Ra2 d4 19. f5 dxe3 20.
+Ra8+ Kd7 21. fxe6+ Ke7 22. Rxf7# 1-0
+

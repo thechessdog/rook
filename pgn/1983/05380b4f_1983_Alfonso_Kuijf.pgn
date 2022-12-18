@@ -1,0 +1,17 @@
+[Event "Spain"]
+[Site "Spain"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Alfonso"]
+[Black "Kuijf"]
+[Result "0-1"]
+[ECO "E30"]
+[Opening "Nimzo-Indian"]
+[Variation "Leningrad variation"]
+[HashCode "05380b4f"]
+[Epoch "Rook"]
+
+1. d4 e6 2. c4 Nf6 3. Nc3 Bb4 4. Bg5 c5 5. e3 Qa5 6. Bxf6 Bxc3+ 7. Ke2 gxf6
+8. bxc3 Qxc3 9. Rc1 Qa5 10. Qb3 Nc6 11. Nf3 cxd4 12. exd4 b6 13. Ke3 Bb7
+14. Bd3 Nxd4 15. Kxd4 Bxf3 16. Qb5 Qd2 17. Rhe1 a6 18. Qf5 Qb2+ 0-1
+

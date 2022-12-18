@@ -1,0 +1,18 @@
+[Event "Orense"]
+[Site "Orense"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Tisdall, Jonathan D"]
+[Black "Rodriguez, Ad"]
+[Result "0-1"]
+[ECO "E48"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 O-O, 5.Bd3 d5"]
+[HashCode "63a87c1e"]
+[Epoch "Rook"]
+[WhiteID "1500066"]
+[WhiteCountry "NOR"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 Nc6 7. O-O a6 8. cxd5
+exd5 9. Ne5 Ne7 10. Qc2 Bd6 11. e4 c5 12. Nxd5 Nexd5 13. exd5 cxd4 14. Re1 h6
+15. Bc4 Qc7 16. Qe2 Bxe5 17. Qxe5 Qxc4 18. Bxh6 Qxd5 0-1

@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Kichev, V."]
+[Black "Konietzka, G."]
+[Result "1-0"]
+[ECO "C10"]
+[Opening "French"]
+[Variation "Paulsen variation"]
+[HashCode "19616d8b"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Be7 4. e5 c5 5. dxc5 Nc6 6. Nf3 f6 7. Bb5 Bxc5 8.
+O-O Bd7 9. Bf4 a6 10. Ba4 Qb6 11. Bb3 Nce7 12. Na4 Qc6 13. exf6 Nxf6 14.
+Ne5 Qb5 15. Nxd7 Nxd7 16. Qg4 Kf7 17. Bg5 h5 18. Qf4+ Nf6 19. c4 Qc6 20.
+cxd5 1-0
+

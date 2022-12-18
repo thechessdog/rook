@@ -1,0 +1,23 @@
+[Event "Gladsaxe"]
+[Site "Gladsaxe"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Kaiszauri, Konstanty"]
+[Black "Nielsen, Jens"]
+[Result "0-1"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical system, 5.Be2"]
+[HashCode "c7645c8f"]
+[Epoch "Rook"]
+[BlackID "1409310"]
+[BlackCountry "DEN"]
+[WhiteID "1700510"]
+[WhiteCountry "SWE"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Nf3 Bg7 5. Be2 O-O 6. O-O c6 7. h3 Nbd7 8. e5
+dxe5 9. dxe5 Nd5 10. Nxd5 cxd5 11. Bf4 Nc5 12. Qc1 Ne6 13. Bh6 Qb6 14. Bxg7
+Kxg7 15. Rd1 Rd8 16. a4 d4 17. b3 Bd7 18. Bc4 Bc6 19. Ng5 Bd5 20. a5 Qc6 21.
+Ra4 Rac8 22. Qd2 h6 23. Nxe6+ Qxe6 24. a6 bxa6 25. Bxa6 Rxc2 26. Qxc2 Bxb3 27.
+Qc7 Rd7 28. Bc8 Rxc7 29. Bxe6 Bxd1 30. Rxd4 Rc1 31. Bd7 a5 32. f4 a4 33. Kh2 a3
+34. Rd2 Bb3 0-1

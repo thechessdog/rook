@@ -1,0 +1,21 @@
+[Event "IBM-B"]
+[Site "Amsterdam II"]
+[Date "1979.07.01"]
+[Round "11"]
+[White "Van der Sterren, Paul"]
+[Black "Enklaar, Bertus F"]
+[Result "1-0"]
+[ECO "B41"]
+[Opening "Sicilian"]
+[Variation "Kan, Maroczy bind - Bronstein variation"]
+[HashCode "90bff6d6"]
+[Epoch "Rook"]
+[WhiteID "1000071"]
+[WhiteCountry "NED"]
+[BlackCountry "NLD"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. c4 Nf6 6. Nc3 Bb4 7. Bd3 Nc6 8. Bc2
+Qc7 9. O-O h5 10. Kh1 Bc5 11. Nb3 Ba7 12. f4 d6 13. e5 dxe5 14. fxe5 Nxe5 15.
+Bf4 Nfg4 16. Ne4 Ke7 17. Qe1 Qxc4 18. Bxe5 Nxe5 19. Qh4+ Kd7 20. Na5 Qb5 21.
+Ba4 Qxa4 22. Nf6+ gxf6 23. Qxa4+ Kd8 24. Rad1+ Bd7 25. Rxd7+ Nxd7 26. Rd1 b5
+27. Qe4 Ke7 28. Qb7 1-0

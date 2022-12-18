@@ -1,0 +1,18 @@
+[Event "DEN-ch"]
+[Site "Vejle"]
+[Date "1982.01.01"]
+[Round "7"]
+[White "Fries-Nielsen, Niels Jorgen"]
+[Black "Hansen, Curt"]
+[Result "1/2-1/2"]
+[ECO "A45"]
+[Opening "Trompovsky attack (Ruth, Opovcensky opening)"]
+[HashCode "46dd881a"]
+[Epoch "Rook"]
+[BlackID "1400010"]
+[BlackCountry "DEN"]
+[WhiteCountry "DEN"]
+
+1. d4 Nf6 2. Bg5 e6 3. e4 h6 4. Bxf6 Qxf6 5. e5 Qd8 6. Nf3 d6 7. Bd3 c5 8. dxc5
+d5 9. Nbd2 Bxc5 10. Nb3 Bb6 11. O-O Nc6 12. c3 Bd7 13. Qd2 g5 14. Rfe1 f5 15.
+Nfd4 O-O 16. Nb5 Qe7 1/2-1/2

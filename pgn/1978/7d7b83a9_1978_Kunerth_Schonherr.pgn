@@ -1,0 +1,18 @@
+[Event "corr EU"]
+[Site "corr EU"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Kunerth, W."]
+[Black "Schonherr, W."]
+[Result "0-1"]
+[ECO "B97"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7...Qb6"]
+[HashCode "7d7b83a9"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qb6 8.
+Qd2 Qxb2 9. Nb3 Qa3 10. Bxf6 gxf6 11. Be2 h5 12. O-O Nd7 13. Rf3 Nc5 14.
+Nd4 Qa5 15. f5 Bd7 16. Rd1 O-O-O 17. Rb1 Kb8 18. fxe6 fxe6 19. Rxf6 Bg7 20.
+Rf7 Bh6 21. Rxd7 Nxd7 22. Qd3 Rc8 23. Nd1 Qe1+ 24. Bf1 Nc5 25. Qe2 Qxe2 0-1
+

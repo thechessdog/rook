@@ -1,0 +1,23 @@
+[Event "Jakarta"]
+[Site "Jakarta"]
+[Date "1978.??.??"]
+[Round "?"]
+[White "Shirazi, Kamran"]
+[Black "Suradiradja, Herman"]
+[Result "1-0"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (without ...d6)"]
+[HashCode "59829dda"]
+[Epoch "Rook"]
+[BlackID "7100167"]
+[BlackCountry "INA"]
+[WhiteID "2000733"]
+[WhiteCountry "FRA"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 Nf6 4. e5 Nd5 5. c4 Ndb4 6. d3 a6 7. Ba4 Nd4 8. Nxd4
+cxd4 9. O-O g6 10. Bf4 Bg7 11. Qe2 O-O 12. Nd2 Qa5 13. Bd1 d6 14. Nb3 Qd8 15.
+exd6 e5 16. Bxe5 Re8 17. Qd2 Bxe5 18. Qxb4 Bxd6 19. c5 Be5 20. Bf3 a5 21. Qb5
+a4 22. c6 axb3 23. cxb7 Bxb7 24. Qxb7 Rb8 25. Qd5 Qf6 26. a4 Rbd8 27. Qc6 Re6
+28. Qc1 h5 29. a5 Rb8 30. Bb7 Bf4 31. Qc4 Re2 32. a6 Qh4 33. g3 Qg5 34. a7 Bxg3
+35. hxg3 1-0

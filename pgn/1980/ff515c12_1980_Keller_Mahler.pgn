@@ -1,0 +1,23 @@
+[Event "corr DFSM"]
+[Site "corr DFSM"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Keller, Dieter"]
+[Black "Mahler"]
+[Result "1-0"]
+[ECO "B77"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, 9...Bd7"]
+[HashCode "ff515c12"]
+[Epoch "Rook"]
+[WhiteID "1300156"]
+[WhiteCountry "SUI"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 Nc6 8. Qd2
+O-O 9. Bc4 Bd7 10. h4 h5 11. O-O-O Rc8 12. Bb3 Ne5 13. Bg5 Rc5 14. Rhe1 b5 15.
+f4 Nc4 16. Bxc4 bxc4 17. Bxf6 Bxf6 18. e5 Bg7 19. e6 Bc8 20. exf7+ Rxf7 21. Ne6
+Bxe6 22. Rxe6 Qa5 23. Qe3 Bf6 24. Qf3 Kg7 25. g3 d5 26. Rxd5 Bxc3 27. Rxc5
+Bxb2+ 28. Kxb2 Qb4+ 29. Kc1 Qxc5 30. Qe3 Qa5 31. Qe5+ Qxe5 32. Rxe5 c3 33. Kd1
+e6 34. Rxe6 Rd7+ 35. Kc1 Rc7 36. a3 Kf7 37. Rd6 Rc4 38. Kb1 a5 39. Rd5 a4 40.
+Kc1 Ke6 41. Re5+ Kf6 42. Kd1 Rd4+ 43. Ke1 Rd2 44. Re2 Rd6 45. Re3 Kf5 46. Rxc3
+Kg4 47. Ke2 1-0

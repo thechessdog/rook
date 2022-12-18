@@ -1,0 +1,17 @@
+[Event "Portland"]
+[Site "Portland"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Direnzo, F."]
+[Black "Schildroth, R."]
+[Result "1-0"]
+[ECO "A18"]
+[Opening "English"]
+[Variation "Mikenas-Carls, Flohr variation"]
+[HashCode "18da2626"]
+[Epoch "Rook"]
+
+1. c4 Nf6 2. Nc3 e6 3. e4 d5 4. e5 Nfd7 5. d4 Bb4 6. Qc2 c5 7. a3 cxd4 8.
+axb4 dxc3 9. cxd5 Nxe5 10. dxe6 Bxe6 11. bxc3 O-O 12. Be2 Nc4 13. Nf3 Nd7
+14. Ng5 1-0
+

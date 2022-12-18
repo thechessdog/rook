@@ -1,0 +1,23 @@
+[Event "Elekes mem-A"]
+[Site "Budapest"]
+[Date "1981.??.??"]
+[Round "?"]
+[White "Szilagyi, Peter"]
+[Black "Henley, Ron"]
+[Result "0-1"]
+[ECO "A77"]
+[Opening "Benoni"]
+[Variation "classical, 9...Re8, 10.Nd2"]
+[HashCode "069a3c2e"]
+[Epoch "Rook"]
+[WhiteID "700355"]
+[WhiteCountry "HUN"]
+[BlackID "2000318"]
+[BlackCountry "USA"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. Nf3 Bg7 8. Be2
+O-O 9. O-O Re8 10. Nd2 a6 11. a4 Nbd7 12. Qc2 Ne5 13. Ra3 g5 14. Re1 g4 15. Nd1
+Ng6 16. Ne3 b6 17. Bf1 Rb8 18. Rd1 b5 19. axb5 axb5 20. b4 Qe7 21. bxc5 dxc5
+22. Rb3 Bd7 23. Nf5 Bxf5 24. exf5 Nf4 25. Rxb5 Rxb5 26. Bxb5 Ne2+ 27. Kf1 Nd4
+28. Qd3 Nxb5 29. Qxb5 Nxd5 30. Nb1 Bd4 31. Bd2 Kg7 32. Bg5 Qxg5 33. Qxe8 Qxf5
+34. Kg1 Qxf2+ 35. Kh1 Ne3 36. Qe4 h5 37. Rc1 Nf1 0-1

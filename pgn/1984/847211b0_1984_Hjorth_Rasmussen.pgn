@@ -1,0 +1,23 @@
+[Event "Aarhus-B"]
+[Site "Aarhus"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Hjorth, Torben"]
+[Black "Rasmussen, Karsten"]
+[Result "0-1"]
+[ECO "B16"]
+[Opening "Caro-Kann"]
+[Variation "Bronstein-Larsen variation"]
+[HashCode "847211b0"]
+[Epoch "Rook"]
+[BlackID "1400088"]
+[BlackCountry "DEN"]
+[WhiteID "1403168"]
+[WhiteCountry "DEN"]
+
+1. e4 c6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Nf6 5. Nxf6+ gxf6 6. c3 Bf5 7. Ne2 Nd7 8.
+Ng3 Bg6 9. Be2 Qc7 10. h4 h6 11. Be3 e6 12. Nh5 O-O-O 13. Qa4 Kb8 14. c4 Nb6
+15. Qb3 Bxh5 16. Bxh5 Nxc4 17. O-O Nxe3 18. Qxe3 f5 19. Rfd1 Bg7 20. Rab1 f4
+21. Qe4 Bf6 22. b4 Bxh4 23. b5 c5 24. dxc5 Bxf2+ 25. Kxf2 Qxc5+ 26. Kf1 Qxh5
+27. Rxd8+ Rxd8 28. Qxf4+ e5 29. Qf6 Rg8 30. Kg1 Qe2 31. Qf1 Qxa2 32. Re1 Qd5
+33. Re2 Qd4+ 34. Rf2 Rg4 0-1

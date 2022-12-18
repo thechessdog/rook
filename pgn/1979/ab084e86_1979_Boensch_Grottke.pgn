@@ -1,0 +1,19 @@
+[Event "DDR"]
+[Site "DDR"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Boensch"]
+[Black "Grottke"]
+[Result "0-1"]
+[ECO "C44"]
+[Opening "Inverted Hanham"]
+[HashCode "ab084e86"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d3 d5 3. Nd2 Nf6 4. Ngf3 Nc6 5. Be2 e5 6. O-O dxe4 7. dxe4 Bc5
+8. c3 a5 9. Qc2 O-O 10. Nc4 Qe7 11. Bg5 h6 12. Bh4 Bg4 13. a4 Qe6 14. Ne1
+Nh5 15. Bg3 Nxg3 16. hxg3 Rad8 17. b3 Qg6 18. Nf3 Bxf3 19. Bxf3 Qxg3 20.
+Rad1 Qg5 21. Rd5 b6 22. Qe2 f6 23. Rfd1 Rde8 24. Bg4 Ne7 25. Rd7 Ng6 26.
+Rxc7 Nf4 27. Qf3 f5 28. exf5 e4 29. Qg3 Ne2+ 30. Bxe2 Qxg3 31. Rxc5 Qf4 32.
+Rb5 Rd8 33. Rxd8 Rxd8 0-1
+

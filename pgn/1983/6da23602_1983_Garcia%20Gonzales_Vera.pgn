@@ -1,0 +1,16 @@
+[Event "Bayamo"]
+[Site "Bayamo"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Garcia Gonzales, Guillermo"]
+[Black "Vera Gonzalez-Quevedo, Reynaldo"]
+[Result "1/2-1/2"]
+[ECO "D03"]
+[Opening "Torre attack (Tartakower variation)"]
+[HashCode "6da23602"]
+[Epoch "Rook"]
+[BlackCountry "CUB"]
+[WhiteCountry "CUB"]
+
+1. d4 d5 2. Nf3 Nf6 3. Bg5 e6 4. e3 Be7 5. Bd3 Nbd7 6. Nbd2 O-O 7. O-O b6 8. e4
+dxe4 9. Nxe4 Bb7 10. Qe2 Nxe4 11. Bxe7 Qxe7 12. Bxe4 Bxe4 13. Qxe4 Nf6 1/2-1/2

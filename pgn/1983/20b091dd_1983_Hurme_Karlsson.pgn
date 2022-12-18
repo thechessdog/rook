@@ -1,0 +1,25 @@
+[Event "Helsinki"]
+[Site "Helsinki"]
+[Date "1983.03.01"]
+[Round "3"]
+[White "Hurme, Harri"]
+[Black "Karlsson, Lars"]
+[Result "0-1"]
+[ECO "E42"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5, 5.Ne2 (Rubinstein)"]
+[HashCode "20b091dd"]
+[Epoch "Rook"]
+[WhiteID "500321"]
+[WhiteCountry "FIN"]
+[BlackID "1700057"]
+[BlackCountry "SWE"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Ne2 cxd4 6. exd4 O-O 7. a3 Be7 8. d5
+exd5 9. cxd5 Re8 10. h3 Bc5 11. g4 Qb6 12. Rh2 a6 13. Bf4 Qd8 14. Bg2 d6 15.
+Bf3 Qe7 16. Kf1 Nfd7 17. Ne4 Ne5 18. Bh1 Nbd7 19. N2g3 Nf8 20. Nxc5 dxc5 21.
+Ne4 Nfg6 22. Bg5 Qd7 23. Qb3 c4 24. Qb6 Nd3 25. Nd6 Rf8 26. Be4 h6 27. Bf5 Qa4
+28. Be3 Bxf5 29. gxf5 Nh4 30. Bxh6 Qb3 31. Qd4 Qxb2 32. Bxg7 Qxd4 33. Bxd4 Rfd8
+34. Ne4 Nxf5 35. Bc3 f6 36. Nxf6+ Kf7 37. h4 b5 38. h5 a5 39. Ne4 b4 40. Ng5+
+Ke7 41. Be1 c3 42. Rh3 Rxd5 43. axb4 c2 44. h6 axb4 45. Bxb4+ Kd7 46. Rc1 Nxc1
+47. h7 Na2 48. Ba3 Rxa3 0-1

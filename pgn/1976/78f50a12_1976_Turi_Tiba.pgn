@@ -1,0 +1,18 @@
+[Event "corr Hungary"]
+[Site "corr Hungary"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Turi, S."]
+[Black "Tiba"]
+[Result "1-0"]
+[ECO "C57"]
+[Opening "two knights defence"]
+[Variation "Fritz, Gruber variation"]
+[HashCode "78f50a12"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 b5 6. Bf1 Nd4 7. c3 Nxd5
+8. Ne4 Qh4 9. Ng3 Bg4 10. f3 e4 11. cxd4 Bd6 12. Bxb5+ Kd8 13. O-O exf3 14.
+Qb3 Nf4 15. Rxf3 Rb8 16. Rxf4 Bxf4 17. Qd5+ Bd6 18. d3 Rxb5 19. Qxb5 h6 20.
+Nc3 1-0
+

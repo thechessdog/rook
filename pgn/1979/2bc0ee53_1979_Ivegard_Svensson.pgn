@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Ivegard"]
+[Black "Svensson, Gert"]
+[Result "1/2-1/2"]
+[ECO "B19"]
+[Opening "Caro-Kann"]
+[Variation "classical, 7...Nd7"]
+[HashCode "2bc0ee53"]
+[Epoch "Rook"]
+[BlackID "1701533"]
+[BlackCountry "SWE"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6 7. Nf3 Nd7 8. Bd3
+Bxd3 9. Qxd3 Qc7 10. Bd2 Ngf6 11. O-O-O O-O-O 12. c4 e6 13. Bc3 Bd6 14. Ne4
+Bf4+ 15. Kb1 Ne5 16. Nxe5 Bxe5 17. Qe2 Nxe4 18. Qxe4 Bf6 1/2-1/2

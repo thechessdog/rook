@@ -1,0 +1,23 @@
+[Event "Hoogovens-B"]
+[Site "Wijk aan Zee II"]
+[Date "1981.01.01"]
+[Round "6"]
+[White "Van der Wiel, John T.H."]
+[Black "Ligterink, Gert"]
+[Result "1-0"]
+[ECO "B64"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...Be7 defence, 9.f4"]
+[HashCode "1ca9d4cd"]
+[Epoch "Rook"]
+[WhiteID "1000020"]
+[WhiteCountry "NED"]
+[BlackID "1000179"]
+[BlackCountry "NED"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 e6 7. Qd2 Be7 8.
+O-O-O O-O 9. f4 h6 10. Bh4 Bd7 11. Ndb5 d5 12. e5 Ne4 13. Bxe7 Nxd2 14. Bxd8
+Nxf1 15. Rhxf1 Rfxd8 16. Nd6 b6 17. Ne2 Ne7 18. Nd4 Nc8 19. Nxc8 Raxc8 20. g4
+f6 21. Rde1 Rf8 22. f5 fxe5 23. Rxe5 exf5 24. Rxd5 Rf7 25. gxf5 Rcf8 26. Kd2
+Bc8 27. c4 g5 28. a4 Kh7 29. a5 h5 30. axb6 axb6 31. Rd6 Rf6 32. Rxf6 Rxf6 33.
+Kd3 Bb7 34. Re1 Bg2 35. Rg1 1-0

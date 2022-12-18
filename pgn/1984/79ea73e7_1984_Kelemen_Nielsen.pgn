@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Kelemen, J."]
+[Black "Nielsen, J."]
+[Result "0-1"]
+[ECO "D92"]
+[Opening "Gruenfeld"]
+[Variation "5.Bf4"]
+[HashCode "79ea73e7"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Bf4 O-O 6. Rc1 dxc4 7. e4 Bg4 8.
+Bxc4 Nh5 9. Be3 Bxf3 10. gxf3 e6 11. f4 Qh4 12. Qf3 Nc6 13. Ne2 Rad8 14.
+Rd1 a6 15. a3 Rd7 16. O-O Rfd8 17. e5 g5 18. Bxa6 gxf4 19. Nxf4 Nxf4 20.
+Bxb7 Nxd4 0-1
+

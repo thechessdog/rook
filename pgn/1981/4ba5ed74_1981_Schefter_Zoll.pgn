@@ -1,0 +1,17 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Schefter"]
+[Black "Zoll"]
+[Result "1-0"]
+[ECO "C05"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation"]
+[HashCode "4ba5ed74"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Bd3 c5 6. c3 Nc6 7. Ne2 Qb6 8.
+Nf3 cxd4 9. cxd4 Bb4+ 10. Kf1 f6 11. Nf4 fxe5 12. Nxe6 e4 13. Bf4 exf3 14.
+Bc7 fxg2+ 15. Kxg2 Nxd4 16. Bxb6 Nxe6 17. Qh5+ Ke7 18. Qh4+ 1-0
+

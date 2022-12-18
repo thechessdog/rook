@@ -1,0 +1,20 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Irle, A."]
+[Black "Karger"]
+[Result "0-1"]
+[ECO "A22"]
+[Opening "English"]
+[Variation "Bremen, Smyslov system"]
+[HashCode "2247e982"]
+[Epoch "Rook"]
+
+1. c4 e5 2. Nc3 Nf6 3. g3 Bb4 4. Nd5 Bc5 5. Bg2 c6 6. Nxf6+ Qxf6 7. e3 d6
+8. Ne2 Bg4 9. Qb3 Qe7 10. Nc3 Na6 11. a3 O-O 12. O-O Rab8 13. Qc2 Bb6 14.
+b4 Qd7 15. b5 Nc5 16. d3 Bh3 17. a4 Bxg2 18. Kxg2 Ne6 19. Ne2 Rbc8 20. Qd2
+d5 21. bxc6 Qxc6 22. cxd5 Qxd5+ 23. e4 Qd7 24. Ba3 Rfd8 25. a5 Bc5 26. Rfd1
+h6 27. f3 Ng5 28. g4 Ne6 29. Bb2 Bd4 30. Rac1 Rxc1 31. Nxc1 Qb5 32. Ba3 Qa4
+33. Bb4 Rc8 34. Qe1 Rc2+ 35. Bd2 0-1
+

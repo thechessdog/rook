@@ -1,0 +1,22 @@
+[Event "Dortmund"]
+[Site "Dortmund"]
+[Date "1977.05.01"]
+[Round "8"]
+[White "Pytel, Krzysztof"]
+[Black "Smejkal, Jan"]
+[Result "0-1"]
+[ECO "D91"]
+[Opening "Gruenfeld"]
+[Variation "5.Bg5"]
+[HashCode "2b0c6e7c"]
+[Epoch "Rook"]
+[WhiteID "600199"]
+[BlackID "300020"]
+[WhiteCountry "FRA"]
+[BlackCountry "CZE"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Bg5 Ne4 6. Bh4 Nxc3 7. bxc3 dxc4 8.
+e3 b5 9. a4 c6 10. axb5 cxb5 11. Ne5 Bb7 12. Qb1 Qb6 13. Qb4 f6 14. Ra5 Nc6 15.
+Nxc6 Bxc6 16. d5 Bxd5 17. Rxb5 a5 18. Qa4 Qc6 19. e4 Bxe4 20. Bxc4 Bxg2 21. Rg1
+Qe4+ 22. Kd1 Kf8 23. Kc1 Rc8 24. Bb3 Rxc3+ 25. Kb2 f5 26. Ka3 Qxa4+ 27. Kxa4
+Bc6 0-1

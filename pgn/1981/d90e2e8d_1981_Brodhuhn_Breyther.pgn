@@ -1,0 +1,19 @@
+[Event "BL2-N 8081"]
+[Site "BL2-N 8081"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Brodhuhn, CP."]
+[Black "Breyther, Ruediger"]
+[Result "0-1"]
+[ECO "B23"]
+[Opening "Sicilian"]
+[Variation "Grand Prix attack, Schofman variation"]
+[HashCode "d90e2e8d"]
+[Epoch "Rook"]
+[BlackID "4601211"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nc3 Nc6 3. f4 g6 4. Nf3 Bg7 5. Bc4 e6 6. f5 Nge7 7. fxe6 fxe6 8. d3
+d5 9. Bb3 b5 10. a4 b4 11. Ne2 O-O 12. c3 Rb8 13. exd5 exd5 14. Bg5 Bg4 15. O-O
+Rf5 16. Bf4 Rb7 17. h3 Bxf3 18. Rxf3 g5 19. Be3 Rxf3 20. gxf3 Qb8 21. Bc2 b3
+22. Bb1 d4 23. Bxg5 Nf5 24. Ra3 Kh8 25. Bf4 Be5 26. Bxe5+ Qxe5 27. Qf1 Ne3 0-1

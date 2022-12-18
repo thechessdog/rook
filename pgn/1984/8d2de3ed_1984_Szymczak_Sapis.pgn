@@ -1,0 +1,20 @@
+[Event "Czestochowa"]
+[Site "Czestochowa"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Szymczak, Zbigniew"]
+[Black "Sapis, Witalis"]
+[Result "1/2-1/2"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "classical variation (5.Bf4)"]
+[HashCode "8d2de3ed"]
+[Epoch "Rook"]
+[WhiteID "1100424"]
+[WhiteCountry "POL"]
+[BlackID "1100254"]
+[BlackCountry "POL"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Nf3 Be7 5. Bf4 O-O 6. e3 c5 7. dxc5 Bxc5 8. a3
+Nc6 9. Be2 a6 10. cxd5 Nxd5 11. Nxd5 exd5 12. Rc1 Bb6 13. O-O d4 14. exd4 Nxd4
+1/2-1/2

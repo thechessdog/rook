@@ -1,0 +1,17 @@
+[Event "corr JSM"]
+[Site "corr JSM"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Aulis, Olavi"]
+[Black "Asikanius, Kauko"]
+[Result "1-0"]
+[ECO "C79"]
+[Opening "Ruy Lopez"]
+[Variation "Steinitz defence deferred (Russian defence)"]
+[HashCode "29ff763b"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O d6 6. Re1 Bd7 7. Nc3 b5 8.
+Bb3 Na5 9. d4 exd4 10. e5 dxe5 11. Nxe5 Be7 12. Nxf7 Qc8 13. Nd5 Nxb3 14.
+Nxh8 1-0
+

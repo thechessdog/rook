@@ -1,0 +1,18 @@
+[Event "Moscow"]
+[Site "Moscow"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Graf, Alexander (Nenashev)"]
+[Black "Andrianov, Nikolai"]
+[Result "1/2-1/2"]
+[ECO "A56"]
+[Opening "Benoni defence"]
+[HashCode "8d26a96e"]
+[Epoch "Rook"]
+[BlackID "4101642"]
+[BlackCountry "RUS"]
+[WhiteCountry "DEU"]
+
+1. d4 Nf6 2. c4 c5 3. e3 g6 4. Nc3 Bg7 5. Nf3 O-O 6. Be2 d5 7. cxd5 Nxd5 8. O-O
+Nc6 9. Re1 Bf5 10. Nxd5 Qxd5 11. Nd2 Rad8 12. Bc4 Qd6 13. d5 b5 14. Bxb5 Qxd5
+15. Qa4 Bd7 16. e4 Qe6 17. Nb3 Nb4 18. Nxc5 Bxb5 19. Qxb4 Qc4 1/2-1/2

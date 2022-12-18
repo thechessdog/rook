@@ -1,0 +1,17 @@
+[Event "Berlin"]
+[Site "Berlin"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Bouwmeester, Hans"]
+[Black "Hecht, Hans-Joachim"]
+[Result "1/2-1/2"]
+[ECO "E11"]
+[Opening "Bogo-Indian defence, Nimzovich variation"]
+[HashCode "16585406"]
+[Epoch "Rook"]
+[WhiteID "1000187"]
+[WhiteCountry "NED"]
+[BlackCountry "DEU"]
+
+1. d4 e6 2. c4 Bb4+ 3. Bd2 Qe7 4. Nf3 Nf6 5. g3 b6 6. Bg2 Bb7 7. O-O Bxd2 8.
+Qxd2 O-O 9. Nc3 d5 10. Ne5 Nbd7 11. Nxd7 Qxd7 12. cxd5 exd5 1/2-1/2

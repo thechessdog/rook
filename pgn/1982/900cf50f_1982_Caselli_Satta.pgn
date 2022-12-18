@@ -1,0 +1,17 @@
+[Event "Milan"]
+[Site "Milan"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Caselli"]
+[Black "Satta"]
+[Result "1-0"]
+[ECO "B00"]
+[Opening "King's pawn opening"]
+[HashCode "900cf50f"]
+[Epoch "Rook"]
+
+1. e4 d6 2. d4 Nf6 3. f3 Nc6 4. Be3 e5 5. d5 Ne7 6. c4 Ng6 7. Nc3 Be7 8. g3
+h5 9. h4 O-O 10. Qd2 Ne8 11. Bd3 c5 12. dxc6 bxc6 13. O-O-O Nc7 14. Be2 c5
+15. f4 exf4 16. gxf4 Nxh4 17. Bxh5 g6 18. Nf3 gxh5 19. Nxh4 Bxh4 20. f5 Re8
+21. Rdg1+ Kf8 22. Rxh4 Qxh4 23. Qxd6+ Re7 24. Bh6+ 1-0
+

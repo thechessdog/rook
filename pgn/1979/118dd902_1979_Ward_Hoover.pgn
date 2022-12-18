@@ -1,0 +1,17 @@
+[Event "Seattle"]
+[Site "Seattle"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Ward"]
+[Black "Hoover"]
+[Result "1-0"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Andreaschek gambit"]
+[HashCode "118dd902"]
+[Epoch "Rook"]
+
+1. e4 c5 2. d4 cxd4 3. c3 e5 4. Nf3 dxc3 5. Nxc3 Nc6 6. Bc4 Be7 7. O-O d6
+8. Qb3 Nf6 9. Bxf7+ Kd7 10. Nb5 Qb6 11. Rd1 Nxe4 12. Be3 Nc5 13. Bxc5 Qxc5
+14. Rac1 Qb4 15. Nxe5+ Kd8 16. Nxc6+ bxc6 17. Qxb4 1-0
+

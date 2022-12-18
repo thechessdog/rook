@@ -1,0 +1,19 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Romanovsky, R."]
+[Black "Blachmann, H."]
+[Result "0-1"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, poisoned pawn, Euwe-Gligoric variation"]
+[HashCode "ea586961"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 Ne7 5. a3 Bxc3+ 6. bxc3 c5 7. Qg4 cxd4
+8. Qxg7 Rg8 9. Qxh7 Qc7 10. Kd1 Nbc6 11. Nf3 dxc3 12. Ng5 Nxe5 13. f4 Rxg5
+14. fxg5 N5g6 15. h4 e5 16. Be2 Be6 17. h5 Nf8 18. Qd3 O-O-O 19. Rg1 d4 20.
+Rb1 Nd5 21. Ke1 Nd7 22. g6 Nc5 23. Qg3 fxg6 24. hxg6 e4 25. Qxc7+ Kxc7 26.
+Rb5 Kc6 27. Bg5 Rg8 28. Bf6 Ne3 0-1
+

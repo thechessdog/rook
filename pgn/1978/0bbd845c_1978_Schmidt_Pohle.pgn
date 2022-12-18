@@ -1,0 +1,19 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Schmidt, Wlodzimierz"]
+[Black "Pohle"]
+[Result "1-0"]
+[ECO "A92"]
+[Opening "Dutch"]
+[Variation "stonewall variation"]
+[HashCode "0bbd845c"]
+[Epoch "Rook"]
+[WhiteID "1100041"]
+[WhiteCountry "POL"]
+
+1. d4 f5 2. c4 e6 3. g3 Nf6 4. Bg2 Be7 5. Nf3 O-O 6. O-O d5 7. Qc2 c6 8. Nbd2
+a5 9. Ne5 Nbd7 10. Nd3 g5 11. b3 Ne4 12. Nf3 Bf6 13. Ba3 Rf7 14. Nfe5 Nxe5 15.
+dxe5 Be7 16. Bxe7 Qxe7 17. cxd5 exd5 18. f3 Nxg3 19. hxg3 f4 20. g4 h5 21. gxh5
+g4 22. fxg4 Qg5 23. Nxf4 Rg7 24. Nxd5 Bxg4 25. Nf6+ Kh8 26. Qc1 1-0

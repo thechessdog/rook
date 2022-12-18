@@ -1,0 +1,25 @@
+[Event "Nice"]
+[Site "Nice"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Ciocaltea, Victor"]
+[Black "Ornstein, Axel"]
+[Result "1-0"]
+[ECO "C77"]
+[Opening "Ruy Lopez"]
+[Variation "Wormald (Alapin) attack"]
+[HashCode "57b63ac9"]
+[Epoch "Rook"]
+[BlackID "1700111"]
+[BlackCountry "SWE"]
+[WhiteCountry "ROU"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. Qe2 Be7 6. c3 d6 7. O-O O-O 8. Rd1
+Re8 9. d3 Bf8 10. Nbd2 b5 11. Bb3 Na5 12. Bc2 c5 13. Nf1 Nc6 14. h3 d5 15. g4
+dxe4 16. dxe4 Qc7 17. Bg5 Nd7 18. Ne3 Ne7 19. Bxe7 Bxe7 20. a4 Rb8 21. axb5
+axb5 22. Nd5 Qc6 23. c4 Bd8 24. cxb5 Qg6 25. Ne3 h5 26. Ra7 hxg4 27. hxg4 Nf8
+28. Bb3 c4 29. Bxc4 Bb7 30. Bd5 Bxd5 31. exd5 Bb6 32. Ra6 Nd7 33. Nh4 Qg5 34.
+Nhf5 Nc5 35. Rxb6 Rxb6 36. Qc4 Nd7 37. d6 Reb8 38. Ne7+ Kf8 39. Nc6 Ra8 40. Qe4
+g6 41. Nxe5 Rd8 42. Nxd7+ Rxd7 43. Rd5 Qf6 44. Nc4 Rb8 45. g5 Qd8 46. Kg2 Ra8
+47. Qf4 Ra4 48. b3 Rb4 49. Rc5 Rxb3 50. Ne5 Kg8 51. Kh2 Ra3 52. Qg4 f5 53. Qc4+
+Kg7 54. Rc8 Qxg5 55. Qg8+ Kf6 56. Nxd7# 1-0

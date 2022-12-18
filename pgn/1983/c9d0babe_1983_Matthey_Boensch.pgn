@@ -1,0 +1,20 @@
+[Event "DDR ch"]
+[Site "DDR ch"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Matthey"]
+[Black "Boensch, Uwe"]
+[Result "0-1"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack"]
+[HashCode "c9d0babe"]
+[Epoch "Rook"]
+[BlackID "4611268"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 c6 4. e3 Bf5 5. Bd3 Bg6 6. Bxf6 exf6 7. h4 Bd6 8. h5
+Bxd3 9. Qxd3 O-O 10. Nf3 Re8 11. Nh4 Nd7 12. Nf5 Bf8 13. Rh3 g6 14. hxg6 fxg6
+15. Nh4 Bg7 16. O-O-O Qe7 17. g4 Nf8 18. Rdh1 b5 19. f4 a5 20. Qd2 a4 21. Qh2
+b4 22. Nd1 b3 23. cxb3 axb3 24. a3 c5 25. f5 cxd4 26. exd4 Bh6+ 27. Kb1 Qe4+
+28. Ka1 Qe2 29. Rc3 Qxh2 30. Rxh2 Re1 31. Rxb3 Rxd1+ 32. Ka2 Bf4 33. Re2 Rxd4
+34. Re7 0-1

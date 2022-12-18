@@ -1,0 +1,21 @@
+[Event "Rilton Cup"]
+[Site "Stockholm"]
+[Date "1978.01.01"]
+[Round "3"]
+[White "Miralles, Jose"]
+[Black "Schussler, Harry"]
+[Result "1-0"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, 6.Be3"]
+[HashCode "57a4b59c"]
+[Epoch "Rook"]
+[BlackID "1700081"]
+[BlackCountry "SWE"]
+[WhiteID "642860"]
+[WhiteCountry "FRA"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. f4 Nf6 5. Nf3 O-O 6. Be3 b6 7. Bd3 Bb7 8. O-O
+c5 9. d5 e6 10. dxe6 fxe6 11. Ng5 Qd7 12. e5 Nd5 13. Nxd5 exd5 14. Nxh7 Kxh7
+15. Qh5+ Kg8 16. Qxg6 Re8 17. Rf3 d4 18. Rh3 Kf8 19. f5 Qf7 20. Qxd6+ Qe7 21.
+f6 Qxd6 22. fxg7+ Kxg7 23. exd6 Rxe3 24. Rh7+ Kg8 25. Rxb7 Nc6 26. Rc7 1-0

@@ -1,0 +1,17 @@
+[Event "HMC"]
+[Site "HMC"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Plasman"]
+[Black "Van Vugt, Frans"]
+[Result "1/2-1/2"]
+[ECO "B07"]
+[Opening "Pirc"]
+[Variation "Byrne variation"]
+[HashCode "10b21a45"]
+[Epoch "Rook"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Bg5 Bg7 5. e5 Nfd7 6. Nd5 c6 7. Nxe7 dxe5
+8. Nxc8 Qxg5 9. Nd6+ Ke7 10. Nf3 Qf6 11. Nxb7 exd4 12. Qe2+ Ne5 13. Nxe5
+1/2-1/2
+

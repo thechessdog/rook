@@ -1,0 +1,18 @@
+[Event "corr EU"]
+[Site "corr EU"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Van der Kooij"]
+[Black "Santini"]
+[Result "1-0"]
+[ECO "B10"]
+[Opening "Caro-Kann defence"]
+[HashCode "da695131"]
+[Epoch "Rook"]
+[WhiteID "1011812"]
+[WhiteCountry "NED"]
+
+1. e4 c6 2. f4 d5 3. e5 Bf5 4. Nf3 e6 5. d4 c5 6. Bb5+ Nc6 7. c3 Qc7 8. c4 Nh6
+9. cxd5 exd5 10. Nc3 O-O-O 11. a3 Be7 12. Bxc6 Qxc6 13. Be3 Ng4 14. Qd2 f6 15.
+O-O Nxe3 16. Qxe3 Rhe8 17. Rac1 c4 18. a4 g5 19. fxg5 fxe5 20. Nb5 Kb8 21.
+Qxe5+ Ka8 22. Nc7+ 1-0

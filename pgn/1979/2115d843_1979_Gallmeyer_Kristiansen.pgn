@@ -1,0 +1,21 @@
+[Event "Copenhagen-ch"]
+[Site "Copenhagen"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Gallmeyer, Peter"]
+[Black "Kristiansen, Jens"]
+[Result "0-1"]
+[ECO "B80"]
+[Opening "Sicilian"]
+[Variation "Scheveningen variation"]
+[HashCode "2115d843"]
+[Epoch "Rook"]
+[BlackID "1400061"]
+[BlackCountry "DEN"]
+[WhiteID "1401157"]
+[WhiteCountry "DEN"]
+
+1. Nf3 e6 2. e4 c5 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be3 a6 7. f4 b5 8. Be2
+Bb7 9. e5 dxe5 10. fxe5 Nfd7 11. Bf3 Qc7 12. O-O Nxe5 13. Bxb7 Qxb7 14. Qh5 Ng6
+15. Nf3 Be7 16. Ne5 O-O 17. Rf3 Nxe5 18. Rh3 f5 19. Bd4 Nbc6 20. Qxh7+ Kf7 21.
+Qh5+ g6 22. Qh7+ Ke8 23. Re1 Rf7 24. Qh6 Nxd4 25. Rxe5 Bf6 26. Qe3 Rd8 0-1

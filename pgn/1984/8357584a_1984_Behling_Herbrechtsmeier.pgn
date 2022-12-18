@@ -1,0 +1,19 @@
+[Event "BL8485"]
+[Site "BL8485"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Behling, Robert"]
+[Black "Herbrechtsmeier, Christof"]
+[Result "1-0"]
+[ECO "D32"]
+[Opening "QGD"]
+[Variation "Tarrasch defence"]
+[HashCode "8357584a"]
+[Epoch "Rook"]
+[WhiteID "4603630"]
+[WhiteCountry "GER"]
+[BlackID "4603737"]
+[BlackCountry "GER"]
+
+1. c4 e6 2. Nc3 d5 3. d4 c5 4. Nf3 Nc6 5. e3 Nf6 6. Be2 cxd4 7. exd4 Be7 8. O-O
+O-O 9. a3 Ne4 10. Qc2 f5 11. cxd5 exd5 12. Nxd5 Bd6 13. Nc3 Nxd4 14. Nxd4 1-0

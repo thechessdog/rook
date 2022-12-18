@@ -1,0 +1,24 @@
+[Event "corr DDR/FS"]
+[Site "corr DDR/FS"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Morgner"]
+[Black "Manneck"]
+[Result "1-0"]
+[ECO "E33"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, Milner-Barry (Zurich) variation"]
+[HashCode "8c9323a4"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 Nc6 5. Nf3 d6 6. Bd2 O-O 7. a3 Bxc3 8.
+Bxc3 Qe7 9. b4 e5 10. dxe5 dxe5 11. b5 e4 12. bxc6 exf3 13. Bb4 Qe5 14. Bc3
+Qe6 15. gxf3 Qxc6 16. Rg1 Re8 17. Qb2 Kh8 18. Rd1 Bf5 19. h4 Re6 20. Rd5
+Bg6 21. Bxf6 gxf6 22. e3 Qb6 23. Rb5 Rxe3+ 24. Be2 Rxe2+ 25. Qxe2 Qd4 26.
+Rd5 Qa1+ 27. Rd1 Qxa3 28. Kf1 c6 29. Rg3 a5 30. Qd2 Qc5 31. Kg1 a4 32. Qb2
+Qe7 33. f4 a3 34. Qa1 Qe6 35. c5 a2 36. h5 Bb1 37. Kh2 Qf5 38. Rd6 Qxh5+
+39. Kg1 Bg6 40. Rxf6 Kg8 41. f5 Rd8 42. Rd6 Rxd6 43. cxd6 Qxf5 44. Qxa2 Qd7
+45. Qa8+ Kg7 46. Qa1+ Kg8 47. Qf6 Qe8 48. Qe7 Qf8 49. Re3 Qxe7 50. dxe7 f5
+51. e8=Q+ Bxe8 52. Rxe8+ Kf7 53. Rb8 b5 54. Rc8 Ke6 55. Rxc6+ Kd5 56. Rf6
+Kc4 57. Rxf5 b4 58. Rf7 1-0
+

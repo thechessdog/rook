@@ -1,0 +1,19 @@
+[Event "corr ch16-SU"]
+[Site "corr ch16-SU"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Lipiridi, A."]
+[Black "Pchelkin, A."]
+[Result "1-0"]
+[ECO "D38"]
+[Opening "QGD"]
+[Variation "Ragozin variation"]
+[HashCode "f28fbd50"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 d5 4. Nc3 Bb4 5. Bg5 h6 6. Bxf6 Qxf6 7. e3 O-O 8.
+Rc1 c6 9. Bd3 dxc4 10. Bxc4 Nd7 11. O-O Bxc3 12. Rxc3 b6 13. Bd3 Bb7 14.
+Be4 e5 15. Qc2 exd4 16. exd4 Rac8 17. Rc1 Nb8 18. Ne5 Rc7 19. Rf3 Qd6 20.
+Bh7+ Kh8 21. Re1 Re7 22. Ree3 g5 23. Ng6+ fxg6 24. Rxf8+ Kxh7 25. Qb3 Rg7
+26. Ree8 1-0
+

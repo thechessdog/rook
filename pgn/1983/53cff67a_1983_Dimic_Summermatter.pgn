@@ -1,0 +1,22 @@
+[Event "Ravenna-J"]
+[Site "Ravenna"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Dimic, Andrej"]
+[Black "Summermatter, Daniel"]
+[Result "0-1"]
+[ECO "B25"]
+[Opening "Sicilian"]
+[Variation "closed, 6.f4"]
+[HashCode "53cff67a"]
+[Epoch "Rook"]
+[WhiteID "1318381"]
+[WhiteCountry "SUI"]
+[BlackID "1300385"]
+[BlackCountry "SUI"]
+
+1. e4 c5 2. Nc3 d6 3. g3 Nc6 4. Bg2 g6 5. d3 Bg7 6. f4 e6 7. Nf3 Nge7 8. O-O
+O-O 9. Rb1 Rb8 10. Be3 b5 11. Ne2 Qc7 12. c3 Bb7 13. g4 Ba8 14. Ng3 f5 15. gxf5
+exf5 16. exf5 Nxf5 17. Nxf5 gxf5 18. Ng5 h6 19. Bd5+ Kh8 20. Ne6 Qe7 21. Bf2
+Rf6 22. Bh4 Rg6+ 23. Bg3 Rxe6 24. Bxe6 Qxe6 25. Re1 Qf7 26. Qd2 Nd4 27. cxd4
+Qd5 28. Kf1 Qh1+ 29. Ke2 Qf3# 0-1

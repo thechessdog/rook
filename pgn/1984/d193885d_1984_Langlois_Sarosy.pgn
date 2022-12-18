@@ -1,0 +1,22 @@
+[Event "corr CCCA"]
+[Site "corr CCCA"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Langlois, C."]
+[Black "Sarosy, Zoltan"]
+[Result "1-0"]
+[ECO "C85"]
+[Opening "Ruy Lopez"]
+[Variation "Exchange variation doubly deferred (DERLD)"]
+[HashCode "d193885d"]
+[Epoch "Rook"]
+[BlackCountry "CAN"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Bxc6 dxc6 7. d3 Nd7 8.
+Nbd2 b5 9. Nb3 f6 10. d4 a5 11. a4 b4 12. dxe5 fxe5 13. Ng5 Nf6 14. Qxd8+ Bxd8
+15. Nf3 Nd7 16. Be3 Be7 17. Rfd1 Bd6 18. Nfd2 Nb6 19. Nc5 Nd7 20. Nxd7 Kxd7 21.
+Nc4 Ke6 22. Rd2 c5 23. Rad1 Ra6 24. b3 h6 25. f3 Rf8 26. Kf2 Bb7 27. Ke2 Rf6
+28. g4 Kf7 29. h4 Bc8 30. Rd5 Bb7 31. Nxe5+ Ke7 32. Nc4 Bxd5 33. Rxd5 Rf8 34.
+Bxc5 Rfa8 35. f4 Rc6 36. Be3 Ke8 37. g5 hxg5 38. hxg5 g6 39. Kd3 Rca6 40. f5
+Kf7 41. e5 Bf8 42. e6+ Ke8 43. Ke4 Rc6 44. Ne5 gxf5+ 45. Kxf5 Rxc2 46. Ng4 Be7
+47. g6 Kf8 48. Bd4 Bd6 49. g7+ Kg8 50. Kg6 Rg2 51. Rg5 Rxg4 52. Rxg4 1-0

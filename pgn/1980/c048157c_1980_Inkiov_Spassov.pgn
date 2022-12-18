@@ -1,0 +1,23 @@
+[Event "Bulgaria"]
+[Site "Bulgaria"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Inkiov, Ventzislav"]
+[Black "Spassov, Liuben"]
+[Result "1-0"]
+[ECO "B66"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...a6"]
+[HashCode "c048157c"]
+[Epoch "Rook"]
+[WhiteID "2900033"]
+[WhiteCountry "FID"]
+[BlackID "2900220"]
+[BlackCountry "FID"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 e6 7. Qd2 a6 8.
+O-O-O h6 9. Be3 Nxd4 10. Bxd4 b5 11. f4 b4 12. Bxf6 Qxf6 13. Ne2 Rb8 14. h4 h5
+15. g3 Qd8 16. Bg2 Be7 17. Nd4 Bd7 18. Qe2 Qb6 19. Bf3 Qc5 20. Rhe1 g6 21. e5
+dxe5 22. fxe5 a5 23. Qe4 Rc8 24. Qd3 Rc7 25. Be4 Rg8 26. Rf1 Qc4 27. Qf3 Rf8
+28. Kb1 a4 29. g4 Bc5 30. b3 Qa6 31. gxh5 gxh5 32. Rf2 Qb6 33. Rfd2 Bxd4 34.
+Rxd4 a3 35. Rxd7 1-0

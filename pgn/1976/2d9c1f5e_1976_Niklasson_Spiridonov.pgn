@@ -1,0 +1,18 @@
+[Event "Sandefjord"]
+[Site "Sandefjord"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Niklasson"]
+[Black "Spiridonov, Nikola"]
+[Result "1-0"]
+[ECO "A57"]
+[Opening "Benko gambit"]
+[HashCode "2d9c1f5e"]
+[Epoch "Rook"]
+[BlackID "2900238"]
+[BlackCountry "FID"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. a4 bxc4 5. Nc3 d6 6. e4 Ba6 7. f4 e6 8. Nf3 exd5
+9. e5 d4 10. exf6 Qxf6 11. Nb5 Bxb5 12. axb5 d5 13. Ne5 Nd7 14. Nxd7 Kxd7 15.
+Qf3 Qe6+ 16. Kf2 d3 17. Bxd3 cxd3 18. Re1 Qb6 19. Qxd5+ Bd6 20. Ra6 Qc7 21. Rc6
+Qb8 22. Qxf7+ Kd8 23. Qd5 1-0

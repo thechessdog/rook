@@ -1,0 +1,22 @@
+[Event "Poland"]
+[Site "Poland"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Pokojowczyk, Jerzy"]
+[Black "Panczyk, Krzysztof"]
+[Result "1-0"]
+[ECO "C78"]
+[Opening "Ruy Lopez"]
+[Variation "Archangelsk (counterthrust) variation"]
+[HashCode "9f61c1a5"]
+[Epoch "Rook"]
+[WhiteID "1100718"]
+[BlackID "1100211"]
+[WhiteCountry "POL"]
+[BlackCountry "POL"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Bb7 7. d3 Be7 8. c4
+bxc4 9. Bxc4 O-O 10. Nc3 Na5 11. Nxe5 d6 12. Nxf7 Rxf7 13. Bxf7+ Kxf7 14. b4
+Nc6 15. d4 Kg8 16. a3 Qd7 17. f3 Bf8 18. Be3 g6 19. Rc1 Bg7 20. Qa4 Qf7 21. Ne2
+Na7 22. d5 Nb5 23. Rfd1 Re8 24. Rd3 Bxd5 25. exd5 Nxd5 26. Qxa6 Nxe3 27. Qxb5
+Nxg2 28. Rxc7 Qe6 29. Rxd6 Qe5 30. Rxg7+ 1-0

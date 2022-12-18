@@ -1,0 +1,18 @@
+[Event "corr EUR/M"]
+[Site "corr EUR/M"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Krivic, D."]
+[Black "Hallier, K."]
+[Result "1-0"]
+[ECO "B97"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Poisoned pawn variation"]
+[HashCode "d074af2f"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qb6 8.
+Qd2 Qxb2 9. Rb1 Qa3 10. Be2 Nc6 11. Nxc6 bxc6 12. e5 Nd5 13. Nxd5 cxd5 14.
+O-O Be7 15. Bxe7 Kxe7 16. f5 h6 17. fxe6 fxe6 18. Qf4 dxe5 19. Qxe5 Rg8 20.
+Qc7+ Bd7 21. Rb3 Qa4 22. Qc5+ Kd8 23. Rf8+ Rxf8 24. Qxf8+ Be8 25. Rb7 1-0
+

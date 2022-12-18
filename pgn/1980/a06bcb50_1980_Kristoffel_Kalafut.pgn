@@ -1,0 +1,20 @@
+[Event "corr Wcup3"]
+[Site "corr Wcup3"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Kristoffel"]
+[Black "Kalafut"]
+[Result "1-0"]
+[ECO "C77"]
+[Opening "Ruy Lopez"]
+[Variation "Morphy defence"]
+[HashCode "a06bcb50"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. d4 exd4 6. O-O Be7 7. Re1 O-O
+8. e5 Ne8 9. Bf4 b5 10. Bb3 d5 11. c3 Bf5 12. Nxd4 Nxd4 13. cxd4 c6 14. Nc3
+Nc7 15. Rc1 Ne6 16. Be3 Bg6 17. f4 f5 18. Rf1 Rc8 19. h3 a5 20. a4 b4 21.
+Ne2 Bh5 22. g4 Be8 23. gxf5 Rxf5 24. Ng3 Rf8 25. Qg4 Kh8 26. f5 Bg5 27.
+Rce1 Bxe3+ 28. Rxe3 Qg5 29. Rd3 Qxg4 30. hxg4 Ng5 31. Kf2 Bf7 32. Rc1 c5
+33. Rxc5 1-0
+

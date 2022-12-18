@@ -1,0 +1,18 @@
+[Event "corr EUR/M"]
+[Site "corr EUR/M"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Van der Spek"]
+[Black "Noria"]
+[Result "0-1"]
+[ECO "C44"]
+[Opening "Scotch"]
+[Variation "Goering gambit"]
+[HashCode "44037f1d"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. c3 d5 5. exd5 Qxd5 6. cxd4 Bg4 7. Be2
+O-O-O 8. Nc3 Bb4 9. O-O Qd7 10. Qa4 Nge7 11. d5 Nxd5 12. Nxd5 Qxd5 13. a3
+Qe6 14. Be3 Be7 15. Ng5 Bxg5 16. Bxg4 f5 17. Bxg5 Rd4 18. Qc2 Rxg4 19. f4
+h6 20. h3 Qe3+ 21. Qf2 Qxh3 0-1
+

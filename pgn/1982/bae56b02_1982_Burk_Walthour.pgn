@@ -1,0 +1,14 @@
+[Event "Dayton,OH"]
+[Site "Dayton,OH"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Burk, Dale"]
+[Black "Walthour, J."]
+[Result "1-0"]
+[ECO "C30"]
+[Opening "King's gambit"]
+[HashCode "bae56b02"]
+[Epoch "Rook"]
+
+1. e4 e5 2. f4 f6 3. fxe5 fxe5 4. Qh5+ g6 5. Qxe5+ Ne7 6. Qxh8 1-0
+

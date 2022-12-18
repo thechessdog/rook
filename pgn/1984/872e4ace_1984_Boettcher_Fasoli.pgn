@@ -1,0 +1,17 @@
+[Event "corr Italy"]
+[Site "corr Italy"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Boettcher"]
+[Black "Fasoli"]
+[Result "0-1"]
+[ECO "C44"]
+[Opening "Inverted Hungarian"]
+[HashCode "872e4ace"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Be2 Nf6 4. d3 Bc5 5. O-O O-O 6. Bg5 d6 7. h3 h6 8.
+Bh4 a6 9. a4 Be6 10. a5 Ne7 11. Bxf6 gxf6 12. Qd2 Kh7 13. b4 Ba7 14. c4 Rg8
+15. Kh1 f5 16. exf5 Nxf5 17. b5 Nh4 18. Nxh4 Qxh4 19. g3 Qxh3+ 20. Kg1
+Rxg3# 0-1
+

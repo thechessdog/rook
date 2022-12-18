@@ -1,0 +1,22 @@
+[Event "Den Bosch"]
+[Site "Den Bosch"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Luijpen, Michiel"]
+[Black "Olthof, Rene"]
+[Result "0-1"]
+[ECO "B75"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack"]
+[HashCode "66439ffb"]
+[Epoch "Rook"]
+[WhiteID "1013386"]
+[BlackID "1001094"]
+[WhiteCountry "NED"]
+[BlackCountry "NED"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 Nc6 8. Qd2
+O-O 9. g4 Be6 10. O-O-O Nxd4 11. Bxd4 Qa5 12. Kb1 Rfc8 13. h4 Rxc3 14. Qxc3
+Qxa2+ 15. Kc1 Bxg4 16. Bg2 Bh6+ 17. Be3 Rc8 18. Qd3 Bxe3+ 19. Qxe3 Qa1+ 20. Kd2
+Qxb2 21. Qd3 Be6 22. Rb1 Qe5 23. Rxb7 Nh5 24. Bf1 Ng3 25. Rg1 Bc4 26. Rb8 Qf4+
+27. Kc3 Rxb8 28. Kxc4 Qe5 29. Qd5 Rc8+ 30. Kb4 Qc3+ 0-1

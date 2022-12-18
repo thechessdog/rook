@@ -1,0 +1,20 @@
+[Event "corr DDR-H"]
+[Site "corr DDR-H"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Richter, J."]
+[Black "Schaedlich, M."]
+[Result "1-0"]
+[ECO "C81"]
+[Opening "Ruy Lopez"]
+[Variation "open, Howell attack"]
+[HashCode "24b196b4"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8.
+dxe5 Be6 9. Qe2 Be7 10. Rd1 Nc5 11. Be3 O-O 12. c4 Nxb3 13. axb3 Nb4 14.
+Nc3 c6 15. Rac1 Qb8 16. Bg5 Re8 17. Bxe7 Rxe7 18. cxd5 Nxd5 19. Ne4 Bd7 20.
+h3 h6 21. Nc5 Qe8 22. Nxd7 Qxd7 23. Rc5 Qe8 24. Rdc1 Nb4 25. Qe4 a5 26. Nd4
+Na6 27. Nxc6 Rc7 28. R5c2 Rac8 29. f4 Qd7 30. Qd4 Qe6 31. Qd6 Kh7 32. Qd3+
+Kh8 33. Qxb5 1-0
+

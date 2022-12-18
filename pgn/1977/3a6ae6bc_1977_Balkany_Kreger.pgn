@@ -1,0 +1,18 @@
+[Event "Michigan"]
+[Site "Michigan"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Balkany, A."]
+[Black "Kreger, D."]
+[Result "1-0"]
+[ECO "B19"]
+[Opening "Caro-Kann"]
+[Variation "classical, Spassky variation"]
+[HashCode "3a6ae6bc"]
+[Epoch "Rook"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. Nf3 Nd7 7. h4 h6 8.
+h5 Bh7 9. Bd3 Bxd3 10. Qxd3 Qc7 11. O-O Ngf6 12. Re1 e6 13. Ne5 Nxe5 14.
+dxe5 Nd7 15. Bf4 O-O-O 16. Rad1 f5 17. Nxf5 exf5 18. e6 Qxf4 19. Qxd7+ Rxd7
+20. exd7+ 1-0
+

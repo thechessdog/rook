@@ -1,0 +1,19 @@
+[Event "corr SWE/C"]
+[Site "corr SWE/C"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Grottling"]
+[Black "Haglund"]
+[Result "1/2-1/2"]
+[ECO "E18"]
+[Opening "Queen's Indian"]
+[Variation "old main line, 7.Nc3"]
+[HashCode "6bd24107"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2 Be7 6. O-O O-O 7. Nc3 Ne4 8.
+Qc2 d5 9. Nxe4 dxe4 10. Nd2 f5 11. e3 Na6 12. Nb3 c5 13. dxc5 Nb4 14. Qc3
+bxc5 15. a3 Nd3 16. Rd1 Qe8 17. Rxd3 exd3 18. Bxb7 Rb8 19. Na5 Qa4 20. Bf3
+Bf6 21. Qd2 Qc2 22. Nb7 Rxb7 23. Bxb7 Rb8 24. Bf3 Bxb2 25. Qxc2 dxc2 26.
+Ra2 Bxc1 27. Rxc2 Rb1 28. Kg2 Bxa3 29. Rd2 a5 30. Bc6 Bb4 31. Ra2 1/2-1/2
+

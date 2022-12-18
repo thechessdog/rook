@@ -1,0 +1,17 @@
+[Event "corr NBC"]
+[Site "corr NBC"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Loermans"]
+[Black "Knoek"]
+[Result "1-0"]
+[ECO "C13"]
+[Opening "French"]
+[Variation "Albin-Alekhine-Chatard attack, Maroczy variation"]
+[HashCode "254c6024"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Nfd7 6. h4 a6 7. Qg4 f5 8.
+Qh5+ g6 9. Qh6 Bxg5 10. Qxg5 Kf7 11. Nge2 c5 12. Nf4 Qg8 13. Nfxd5 exd5 14.
+e6+ 1-0
+

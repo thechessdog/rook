@@ -1,0 +1,17 @@
+[Event "Lugano"]
+[Site "Lugano"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Meulner"]
+[Black "Stadler"]
+[Result "1-0"]
+[ECO "B85"]
+[Opening "Sicilian"]
+[Variation "Scheveningen, classical main line"]
+[HashCode "ec51c9cf"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e6 7. Be3 Be7 8.
+O-O O-O 9. f4 Qc7 10. Qe1 Nc6 11. Qg3 Nd7 12. Nxc6 bxc6 13. f5 e5 14. Bc4
+Nb6 15. Bh6 Bf6 16. Bxg7 Bxg7 17. f6 1-0
+

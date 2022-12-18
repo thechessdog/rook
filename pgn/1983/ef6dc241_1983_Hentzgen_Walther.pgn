@@ -1,0 +1,20 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Hentzgen"]
+[Black "Walther"]
+[Result "1-0"]
+[ECO "C57"]
+[Opening "two knights defence"]
+[Variation "Wilkes Barre (Traxler) variation"]
+[HashCode "ef6dc241"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 Bc5 5. Bxf7+ Ke7 6. Bb3 Rf8 7. O-O h6
+8. Nf3 d6 9. h3 Qe8 10. d3 Qh5 11. Nc3 g5 12. Nxg5 hxg5 13. Nd5+ Kd8 14.
+Qxh5 Nxh5 15. Bxg5+ Kd7 16. g4 Ng3 17. Nf6+ Rxf6 18. Bxf6 Nxf1 19. Rxf1 Nd4
+20. Kg2 Nxb3 21. axb3 Ke6 22. g5 Bd7 23. f4 exf4 24. Rxf4 Rg8 25. Rh4 Be8
+26. Rh7 Bf7 27. h4 Be3 28. d4 Bxd4 29. Bxd4 c5 30. Bf6 Re8 31. h5 b5 32.
+Kf3 b4 33. h6 Rf8 34. Rg7 1-0
+

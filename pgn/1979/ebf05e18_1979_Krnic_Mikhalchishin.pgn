@@ -1,0 +1,23 @@
+[Event "Copenhagen AS04"]
+[Site "Copenhagen"]
+[Date "1979.01.01"]
+[Round "8"]
+[White "Krnic, Zdenko"]
+[Black "Mikhalchishin, Adrian"]
+[Result "0-1"]
+[ECO "C69"]
+[Opening "Ruy Lopez"]
+[Variation "exchange, Bronstein variation"]
+[HashCode "ebf05e18"]
+[Epoch "Rook"]
+[BlackID "14602385"]
+[BlackCountry "SLO"]
+[WhiteCountry "SRB"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O Qd6 6. d3 f6 7. Be3 c5 8.
+Nbd2 Be6 9. Qe2 Ne7 10. c3 O-O-O 11. Nb3 Bxb3 12. axb3 Nc6 13. Rfd1 Be7 14. d4
+cxd4 15. cxd4 exd4 16. Nxd4 Nxd4 17. Rxd4 Qe6 18. Rc4 Rd7 19. Qc2 Rhd8 20. g3
+Kb8 21. Kg2 h5 22. b4 h4 23. b5 h3+ 24. Kf3 axb5 25. Ba7+ Kc8 26. Be3 Kb8 27.
+Ba7+ Kc8 28. Be3 c6 29. Rc3 Kc7 30. b3 Bb4 31. Bf4+ Bd6 32. Be3 Re7 33. Ra7 Be5
+34. Rc5 Bd4 35. Bxd4 Rxd4 36. Rxb5 Kb8 37. Rba5 Rxe4 38. Ra8+ Kc7 39. Qc3 Qg4#
+0-1

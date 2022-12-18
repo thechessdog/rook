@@ -1,0 +1,16 @@
+[Event "North Carolina"]
+[Site "North Carolina"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Vandette"]
+[Black "Wall, Bill"]
+[Result "0-1"]
+[ECO "E34"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, Noa variation"]
+[HashCode "0e5e5178"]
+[Epoch "Rook"]
+[BlackCountry "USA"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 d5 5. e3 c5 6. dxc5 Ne4 7. Bd2 Nxc5 8.
+O-O-O Nc6 9. Nf3 a5 10. a3 a4 11. axb4 Nxb4 12. Qb1 Nb3# 0-1

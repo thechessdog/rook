@@ -1,0 +1,18 @@
+[Event "Asheville"]
+[Site "Asheville"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Wells, Peter K"]
+[Black "Dulin"]
+[Result "1-0"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (without ...d6)"]
+[HashCode "06cc2049"]
+[Epoch "Rook"]
+[WhiteID "400327"]
+[WhiteCountry "ENG"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 Nd4 4. Nc3 Nxb5 5. Nxb5 a6 6. Nc3 d6 7. d4 cxd4 8.
+Qxd4 Qc7 9. Nd5 Qc6 10. e5 Be6 11. Nb6 Rd8 12. Be3 dxe5 13. Nxe5 Qxg2 14. Qa4+
+Bd7 15. Na8 Qxh1+ 16. Ke2 Qc6 17. Qxc6 1-0

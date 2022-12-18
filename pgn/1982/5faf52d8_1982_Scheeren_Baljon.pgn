@@ -1,0 +1,21 @@
+[Event "Amsterdam"]
+[Site "Amsterdam"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Scheeren, Peter"]
+[Black "Baljon, Christofoor"]
+[Result "1-0"]
+[ECO "E92"]
+[Opening "King's Indian"]
+[Variation "Gligoric-Taimanov system"]
+[HashCode "5faf52d8"]
+[Epoch "Rook"]
+[WhiteID "1000136"]
+[WhiteCountry "NED"]
+[BlackID "1000772"]
+[BlackCountry "NED"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 O-O 5. Nf3 d6 6. Be2 e5 7. Be3 Qe7 8. dxe5
+dxe5 9. Nd5 Nxd5 10. cxd5 c6 11. d6 Qe6 12. Ng5 Qf6 13. Qd2 h6 14. Nf3 Rd8 15.
+O-O-O Bg4 16. Bxh6 Bxh6 17. Qxh6 Bxf3 18. gxf3 Rxd6 19. Rxd6 Qxd6 20. Bc4 b5
+21. Rd1 Qxd1+ 22. Kxd1 bxc4 23. Qd2 Na6 24. Qa5 1-0

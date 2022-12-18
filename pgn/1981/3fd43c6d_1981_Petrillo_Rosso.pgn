@@ -1,0 +1,18 @@
+[Event "corr Italy"]
+[Site "corr Italy"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Petrillo"]
+[Black "Rosso"]
+[Result "0-1"]
+[ECO "C40"]
+[Opening "Latvian"]
+[Variation "Fraser defence"]
+[HashCode "3fd43c6d"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 f5 3. Nxe5 Nc6 4. Qh5+ g6 5. Nxg6 Nf6 6. Qh4 Rg8 7. Nxf8
+Rg4 8. Qh6 Rxe4+ 9. Kd1 Ng4 10. Qh5+ Kxf8 11. Qxf5+ Kg7 12. Qf3 Qh4 13. d3
+Nxf2+ 14. Qxf2 Qxf2 15. dxe4 d5 16. h3 dxe4 17. Bd2 Bxh3 18. Kc1 Bxg2 19.
+Bxg2 Qxg2 20. Rd1 Rf8 0-1
+

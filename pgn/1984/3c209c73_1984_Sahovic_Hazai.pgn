@@ -1,0 +1,19 @@
+[Event "Vrnjacka Banja"]
+[Site "Vrnjacka Banja"]
+[Date "1984.04.01"]
+[Round "1"]
+[White "Sahovic, Dragutin"]
+[Black "Hazai, Laszlo Dr."]
+[Result "1/2-1/2"]
+[ECO "E68"]
+[Opening "King's Indian"]
+[Variation "fianchetto, classical variation, 8.e4"]
+[HashCode "3c209c73"]
+[Epoch "Rook"]
+[BlackID "700177"]
+[WhiteCountry "SRB"]
+[BlackCountry "HUN"]
+
+1. d4 g6 2. Nf3 Bg7 3. g3 Nf6 4. Bg2 O-O 5. O-O d6 6. c4 Nbd7 7. Nc3 e5 8. e4
+c6 9. Rb1 a6 10. dxe5 dxe5 11. b4 a5 12. a3 Qe7 13. c5 axb4 14. axb4 b6 15.
+cxb6 Nxb6 16. Be3 Nfd7 1/2-1/2

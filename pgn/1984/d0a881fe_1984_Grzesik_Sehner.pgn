@@ -1,0 +1,19 @@
+[Event "Bundesliga 8384"]
+[Site "Duitsland tt"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Grzesik, Frank"]
+[Black "Sehner, Norbert"]
+[Result "1/2-1/2"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "d0a881fe"]
+[Epoch "Rook"]
+[WhiteID "4605764"]
+[WhiteCountry "GER"]
+[BlackID "4600398"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. d4 Nc6 5. Nf3 Nf6 6. Be3 cxd4 7. cxd4 e6 8.
+Nc3 Qa5 9. a3 Ne4 10. Qb3 Be7 11. Bd3 Nxc3 12. bxc3 O-O 13. O-O 1/2-1/2

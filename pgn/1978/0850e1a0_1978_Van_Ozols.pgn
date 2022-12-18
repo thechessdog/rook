@@ -1,0 +1,15 @@
+[Event "corr CCLA"]
+[Site "corr CCLA"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Van der Trak"]
+[Black "Ozols"]
+[Result "1-0"]
+[ECO "C04"]
+[Opening "French"]
+[Variation "Tarrasch, Guimard main line"]
+[HashCode "0850e1a0"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nc6 4. Ngf3 Nf6 5. e5 Nd7 6. Bd3 1-0
+

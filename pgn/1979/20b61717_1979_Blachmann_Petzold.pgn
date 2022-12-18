@@ -1,0 +1,27 @@
+[Event "corr ch10-DDR"]
+[Site "corr ch10-DDR"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Blachmann, H."]
+[Black "Petzold, J."]
+[Result "0-1"]
+[ECO "D82"]
+[Opening "Gruenfeld"]
+[Variation "4.Bf4"]
+[HashCode "20b61717"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Bf4 Bg7 5. e3 c5 6. dxc5 Qa5 7. Rc1 dxc4 8.
+Bxc4 O-O 9. Nf3 Nc6 10. O-O Qxc5 11. Bb3 Qa5 12. Ng5 Nh5 13. Qf3 Nxf4 14.
+Qxf4 Qf5 15. Qh4 h6 16. Nf3 Be6 17. e4 Qg4 18. Qxg4 Bxg4 19. Nh4 Kh7 20. h3
+Bd7 21. Nf3 e6 22. Rfd1 Rfd8 23. Rd2 Be8 24. Rcd1 Rxd2 25. Rxd2 Rd8 26.
+Rxd8 Nxd8 27. Kf1 Bc6 28. Nd2 b5 29. f3 b4 30. Nd1 Nb7 31. Bc4 Nd6 32. Ke2
+Nxc4 33. Nxc4 Bb5 34. Kd3 f5 35. b3 f4 36. Kc2 g5 37. Nf2 Kg6 38. Nd3 Bf8
+39. e5 Kf7 40. Nd6+ Bxd6 41. exd6 a5 42. h4 gxh4 43. Nxf4 e5 44. Nd5 Bd7
+45. Kd3 h3 46. gxh3 Bxh3 47. Kc4 Be6 48. Kc5 h5 49. Kb6 h4 50. Ne3 h3 51.
+Nf1 Ke8 52. Kxa5 Kd7 53. Kxb4 Kxd6 54. Kc3 Bd5 55. Nh2 e4 56. fxe4 Bxe4 57.
+Kd4 Bd5 58. Nf1 Bg2 59. Nh2 Bd5 60. Ng4 Bf3 61. Nh2 Bd5 62. Kc3 Ke5 63. Kd3
+Kf4 64. Ke2 Kg3 65. Nf1+ Kg2 66. Ne3+ Kg1 67. Nf1 Bg2 68. Ng3 h2 69. Ke3
+Bd5 70. Kf4 Kg2 71. Kg4 Bf7 72. Kf4 Be6 73. a4 Bxb3 74. a5 Bc4 75. Kg4 Ba6
+76. Kf4 Bc8 0-1
+

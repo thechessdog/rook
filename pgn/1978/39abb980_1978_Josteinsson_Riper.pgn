@@ -1,0 +1,18 @@
+[Event "Philadelphia"]
+[Site "Philadelphia"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Josteinsson, Leifur"]
+[Black "Riper, V."]
+[Result "0-1"]
+[ECO "C34"]
+[Opening "KGA"]
+[Variation "Fischer defence"]
+[HashCode "39abb980"]
+[Epoch "Rook"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 d6 4. d4 g5 5. h4 g4 6. Ng1 Nf6 7. Nc3 Nh5 8.
+Nge2 f3 9. Nf4 Ng3 10. Rh2 Be7 11. Be3 Bxh4 12. Bf2 Nxf1 13. Bxh4 Ne3 14.
+Qd2 g3 15. Bxd8 f2+ 16. Ke2 f1=Q+ 17. Rxf1 Nxf1 18. Qd3 gxh2 19. Qb5+ Nc6
+20. Qh5 Ng3+ 0-1
+

@@ -1,0 +1,20 @@
+[Event "Biel"]
+[Site "Biel"]
+[Date "1983.07.01"]
+[Round "1"]
+[White "Hebden, Mark L"]
+[Black "Toth, Bela"]
+[Result "0-1"]
+[ECO "C36"]
+[Opening "KGA"]
+[Variation "Abbazia defence, modern variation"]
+[HashCode "a6bf5470"]
+[Epoch "Rook"]
+[WhiteID "400084"]
+[WhiteCountry "ENG"]
+[BlackID "736112"]
+[BlackCountry "ITA"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 d5 4. exd5 Nf6 5. Bc4 Nxd5 6. O-O Be6 7. Bb3 Be7 8.
+c4 Nb6 9. d4 Nxc4 10. Qe2 Ne3 11. Bxe6 Nxf1 12. Qb5+ c6 13. Qxb7 fxe6 14. Qxa8
+Qb6 15. Bxf4 O-O 16. Nc3 Nd7 17. Qxf8+ Bxf8 18. b3 e5 0-1

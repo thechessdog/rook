@@ -1,0 +1,20 @@
+[Event "corr ol8"]
+[Site "corr ol8"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Jovcic"]
+[Black "Neukirch"]
+[Result "0-1"]
+[ECO "B93"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.f4"]
+[HashCode "437095d6"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 Qc7 7. Bd3 g6 8.
+O-O Bg7 9. Nf3 Nbd7 10. Qe1 Nc5 11. Kh1 b5 12. b4 Nxd3 13. cxd3 Bb7 14. Be3
+O-O 15. Rc1 Qd7 16. Bd4 Rac8 17. Qh4 Rfe8 18. h3 e5 19. fxe5 Nh5 20. exd6
+Qxd6 21. e5 Qd8 22. Qg4 Bxf3 23. Rxf3 Bxe5 24. Bxe5 Rxe5 25. Rf2 f5 26. Qd1
+Qd4 27. Rfc2 Rce8 28. Qd2 Re3 29. Rd1 f4 30. Ne4 f3 31. gxf3 Rxf3 32. Ng5
+Ng3+ 33. Kg2 Rfe3 0-1
+

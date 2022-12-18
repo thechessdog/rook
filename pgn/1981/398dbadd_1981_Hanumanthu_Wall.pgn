@@ -1,0 +1,16 @@
+[Event "Dayton,OH"]
+[Site "Dayton,OH"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Hanumanthu, Sai"]
+[Black "Wall, Bill"]
+[Result "0-1"]
+[ECO "A80"]
+[Opening "Dutch"]
+[HashCode "398dbadd"]
+[Epoch "Rook"]
+[BlackCountry "USA"]
+
+1. d4 f5 2. Nc3 Nf6 3. f3 e6 4. a3 Be7 5. e4 O-O 6. Bd3 d5 7. e5 Nh5 8. Nge2 c5
+9. Ng3 Bh4 10. O-O Bxg3 11. hxg3 Nxg3 12. Re1 Qh4 13. Ne2 c4 14. Nxg3 cxd3 15.
+Qxd3 Qxg3 0-1

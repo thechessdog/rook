@@ -1,0 +1,19 @@
+[Event "Grind"]
+[Site "Grind"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Gudmundsson"]
+[Black "Angantysson, Haukur"]
+[Result "0-1"]
+[ECO "E68"]
+[Opening "King's Indian"]
+[Variation "fianchetto, classical variation, 8.e4"]
+[HashCode "c9340570"]
+[Epoch "Rook"]
+[BlackCountry "ISL"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. g3 O-O 5. Bg2 d6 6. Nf3 Nbd7 7. O-O e5 8. e4
+c6 9. b3 Qb6 10. h3 exd4 11. Na4 Qc7 12. Nxd4 a6 13. Nc3 Rb8 14. Be3 c5 15.
+Nde2 b5 16. Nf4 bxc4 17. bxc4 Ne5 18. Ncd5 Nxd5 19. Nxd5 Qd8 20. Rc1 Be6 21.
+Qa4 Bxd5 22. cxd5 Qb6 23. Rfd1 Qb5 24. Qc2 Qb2 25. Qa4 Rb6 26. f4 Qe2 27. Qa3
+Rb2 28. Rd2 Rxd2 29. Bxd2 Nd3 30. Rc2 Bd4+ 31. Kh2 Qd1 32. Rc1 0-1

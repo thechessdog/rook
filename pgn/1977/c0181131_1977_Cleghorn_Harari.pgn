@@ -1,0 +1,20 @@
+[Event "San Francisco"]
+[Site "San Francisco"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Cleghorn, Peter"]
+[Black "Harari, Zaki"]
+[Result "1/2-1/2"]
+[ECO "B31"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (with ...g6, without ...d6)"]
+[HashCode "c0181131"]
+[Epoch "Rook"]
+[WhiteID "2000695"]
+[WhiteCountry "USA"]
+[BlackID "2002639"]
+[BlackCountry "ENG"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. Re1 e5 6. Bxc6 dxc6 7. d3 Ne7 8.
+Nbd2 O-O 9. Nc4 f6 10. Be3 b6 11. a4 a5 12. Bd2 Be6 13. Bc3 Qc7 14. Nfd2 Ra7
+15. Qe2 Rfa8 16. Nb3 1/2-1/2

@@ -1,0 +1,17 @@
+[Event "corr Sweden"]
+[Site "corr Sweden"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Asplund, Lennart"]
+[Black "Eriksson, B."]
+[Result "1-0"]
+[ECO "B29"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rubinstein variation"]
+[HashCode "f12cea21"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 Nf6 3. Nc3 d5 4. exd5 Nxd5 5. Bb5+ Bd7 6. Qe2 Nxc3 7. dxc3
+Nc6 8. Bf4 Qb6 9. O-O-O e6 10. Rxd7 Kxd7 11. Re1 Re8 12. Ne5+ Ke7 13. Bg5+
+f6 14. Nxc6+ Kf7 15. Ne5+ fxe5 16. Qf3+ 1-0
+

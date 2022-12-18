@@ -1,0 +1,23 @@
+[Event "BL7879"]
+[Site "BL7879"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Straenger"]
+[Black "Schmidt, Bodo"]
+[Result "0-1"]
+[ECO "A89"]
+[Opening "Dutch"]
+[Variation "Leningrad, main variation with Nc6"]
+[HashCode "40ec3020"]
+[Epoch "Rook"]
+[BlackID "4601505"]
+[BlackCountry "GER"]
+
+1. d4 f5 2. c4 Nf6 3. Nc3 g6 4. g3 Bg7 5. Bg2 O-O 6. Nf3 d6 7. O-O Nc6 8. Bg5
+Ne4 9. d5 Nxc3 10. bxc3 Na5 11. Qa4 c5 12. Bxe7 Qxe7 13. Qxa5 b6 14. Qa4 Bxc3
+15. Rac1 Bg7 16. e3 Bd7 17. Qa6 Rfb8 18. Rb1 Bc8 19. Qa3 a6 20. Rfe1 b5 21. e4
+b4 22. Qb3 fxe4 23. Nd2 Bf5 24. Bxe4 Qf6 25. Bxf5 Qxf5 26. Re6 Rf8 27. f4 g5
+28. Rf1 gxf4 29. Rxf4 Qh3 30. Qf3 Rxf4 31. gxf4 Qxf3 32. Nxf3 a5 33. Rxd6 Bc3
+34. Ne5 a4 35. Rb6 b3 36. a3 Bb4 37. Nd3 Bxa3 38. d6 Bb4 39. d7 Rd8 40. Nxb4
+cxb4 41. Rxb4 Rxd7 42. Kf2 Ra7 43. c5 a3 44. c6 a2 45. Rb8+ Kf7 46. Rb7+ Ke6
+47. Rxa7 Kd6 48. c7 Kd7 49. Ra3 Kxc7 50. Rxb3 a1=Q 0-1

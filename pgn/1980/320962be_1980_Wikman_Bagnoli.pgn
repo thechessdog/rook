@@ -1,0 +1,19 @@
+[Event "corr ol"]
+[Site "corr ol"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Wikman"]
+[Black "Bagnoli"]
+[Result "1-0"]
+[ECO "E29"]
+[Opening "Nimzo-Indian"]
+[Variation "Saemisch, main line"]
+[HashCode "320962be"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 c5 6. a3 Bxc3+ 7. bxc3 Nc6
+8. Nf3 b6 9. e4 Ne8 10. e5 f5 11. exf6 Nxf6 12. O-O cxd4 13. cxd4 Bb7 14.
+d5 exd5 15. cxd5 Na5 16. d6 Qe8 17. Qe2 Qxe2 18. Bxe2 Rae8 19. Nd4 Ne4 20.
+Bg4 Nc6 21. Bb2 Nxd4 22. Bxd4 Nxd6 23. Bxd7 Re7 24. Ba4 Nf5 25. Bc3 Re4 26.
+Bb4 1-0
+

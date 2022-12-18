@@ -1,0 +1,23 @@
+[Event "Tuzla"]
+[Site "Tuzla"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Vukic, Milan"]
+[Black "Popovic, Petar"]
+[Result "1-0"]
+[ECO "D76"]
+[Opening "Neo-Gruenfeld, 6.cd Nxd5, 7.O-O Nb6"]
+[HashCode "94c9ac69"]
+[Epoch "Rook"]
+[WhiteID "900273"]
+[WhiteCountry "BIH"]
+[BlackID "900109"]
+[BlackCountry "SRB"]
+
+1. d4 Nf6 2. c4 g6 3. Nf3 Bg7 4. g3 d5 5. cxd5 Nxd5 6. Bg2 O-O 7. O-O Nb6 8.
+Nc3 Nc6 9. e3 e5 10. d5 Ne7 11. e4 Bg4 12. Qb3 c6 13. Nh4 cxd5 14. exd5 h6 15.
+h3 Bc8 16. Rd1 g5 17. Nf3 g4 18. hxg4 Bxg4 19. Re1 Bxf3 20. Bxf3 Nf5 21. Bg2
+Nd4 22. Qd1 Rc8 23. f4 exf4 24. Bxf4 Nc4 25. Rb1 Qb6 26. Na4 Qg6 27. Rc1 Nf5
+28. Kh2 b5 29. Bh3 bxa4 30. Qd3 Nd4 31. Qxg6 fxg6 32. Bxc8 Rxc8 33. Kh3 g5 34.
+d6 Kf8 35. Bd2 Nxd6 36. Bb4 Rxc1 37. Bxd6+ Kf7 38. Rxc1 Nf5 39. Ba3 h5 40. g4
+Ne3 41. Rc7+ 1-0

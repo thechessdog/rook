@@ -1,0 +1,21 @@
+[Event "USA"]
+[Site "USA"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Rohde, Michael"]
+[Black "Tarjan, James"]
+[Result "0-1"]
+[ECO "A21"]
+[Opening "English, Kramnik-Shirov counterattack"]
+[HashCode "f376229e"]
+[Epoch "Rook"]
+[BlackID "2000180"]
+[BlackCountry "USA"]
+[WhiteID "2000172"]
+[WhiteCountry "USA"]
+
+1. c4 e5 2. Nc3 Bb4 3. Nf3 Bxc3 4. bxc3 d6 5. c5 Nf6 6. cxd6 Qxd6 7. Qa4+ Nc6
+8. Ba3 Qd5 9. e3 e4 10. c4 Qd7 11. Ng5 Qf5 12. Nh3 Bd7 13. Rb1 O-O-O 14. c5
+Rde8 15. Bc4 Ng4 16. O-O Nge5 17. d4 Nf3+ 18. Kh1 Qh5 19. Rg1 Bxh3 20. gxh3
+Nxg1 21. Kxg1 Re6 22. Bxe6+ fxe6 23. Qb5 Rf8 24. Qxb7+ Kd7 25. Qb2 Qxh3 26. f4
+Qxe3+ 27. Kh1 Rxf4 28. d5 Qf3+ 29. Qg2 exd5 30. Bb2 d4 0-1

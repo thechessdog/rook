@@ -1,0 +1,21 @@
+[Event "Reggio Emilia8081"]
+[Site "Reggio Emilia"]
+[Date "1980.01.01"]
+[Round "12"]
+[White "De Eccher, Stefano"]
+[Black "Messa, Roberto"]
+[Result "1-0"]
+[ECO "B07"]
+[Opening "Pirc"]
+[Variation "bayonet (Mariotti) attack"]
+[HashCode "1540a55d"]
+[Epoch "Rook"]
+[WhiteID "800678"]
+[BlackID "800457"]
+[WhiteCountry "ITA"]
+[BlackCountry "ITA"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. Be2 Nf6 5. h4 c5 6. dxc5 Qa5 7. Kf1 Qxc5 8. Be3
+Qa5 9. h5 gxh5 10. Nh3 Bg4 11. f3 Bxh3 12. Rxh3 Nc6 13. Qd2 O-O-O 14. Rb1 e6
+15. b4 Qc7 16. b5 Ne5 17. b6 axb6 18. Bxb6 Nc4 19. Bxc4 Qxc4+ 20. Kg1 Rd7 21.
+Nb5 Qa4 22. Qc3+ Kb8 23. Bc7+ Ka8 24. Rb3 Ne8 25. Ra3 1-0

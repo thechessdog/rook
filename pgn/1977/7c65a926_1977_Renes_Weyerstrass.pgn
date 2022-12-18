@@ -1,0 +1,15 @@
+[Event "Laren"]
+[Site "Laren"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Renes"]
+[Black "Weyerstrass, Ronald"]
+[Result "0-1"]
+[ECO "A13"]
+[Opening "English opening"]
+[Variation "Agincourt variation"]
+[HashCode "7c65a926"]
+[Epoch "Rook"]
+
+1. Nf3 e6 2. c4 d5 3. cxd5 exd5 4. d4 Nf6 5. Nc3 c6 6. e3 Bd6 7. Bd3 O-O 8. O-O
+Bg4 9. Qb3 Bxf3 10. Qxb7 Ng4 0-1

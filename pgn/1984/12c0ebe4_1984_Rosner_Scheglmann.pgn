@@ -1,0 +1,17 @@
+[Event "corr DDR/FS"]
+[Site "corr DDR/FS"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Rosner, D."]
+[Black "Scheglmann, D."]
+[Result "0-1"]
+[ECO "C56"]
+[Opening "Two knights defence"]
+[HashCode "12c0ebe4"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d4 exd4 5. O-O Nxe4 6. Re1 d5 7. Bxd5
+Qxd5 8. Nc3 Qa5 9. Nxd4 Nxd4 10. Qxd4 f5 11. Bg5 Qc5 12. Qd8+ Kf7 13. Rad1
+Be6 14. Qxa8 Nxg5 15. Qd8 h6 16. Rxe6 Nxe6 17. Qd7+ Kg8 18. Qe8 Qe5 19. Kf1
+Kh7 20. Rd5 Bd6 21. Qd7 Qf6 22. g4 Rd8 23. Qa4 Bc5 0-1
+

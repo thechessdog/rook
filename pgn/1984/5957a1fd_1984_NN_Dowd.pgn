@@ -1,0 +1,16 @@
+[Event "Ann Arbor"]
+[Site "Ann Arbor"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "NN"]
+[Black "Dowd"]
+[Result "0-1"]
+[ECO "B23"]
+[Opening "Sicilian"]
+[Variation "chameleon variation"]
+[HashCode "5957a1fd"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nc3 Nc6 3. Nge2 d6 4. g3 e5 5. Nd5 Bg4 6. h3 Bf3 7. Rg1 Nd4 8.
+d3 Bh5 9. c3 Nf3# 0-1
+

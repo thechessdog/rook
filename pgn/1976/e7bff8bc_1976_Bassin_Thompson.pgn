@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Bassin, C."]
+[Black "Thompson, J."]
+[Result "0-1"]
+[ECO "C64"]
+[Opening "Ruy Lopez"]
+[Variation "classical (Cordel) defence"]
+[HashCode "e7bff8bc"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. O-O Qf6 5. d3 Nd4 6. Nxd4 Bxd4 7. Nc3 Ne7
+8. Be3 O-O 9. Bc4 c6 10. Qd2 Ng6 11. Rab1 Nf4 12. Bxf4 Bxc3 13. Qxc3 Qxf4
+14. g3 Qg5 15. Qb4 b5 16. Bxb5 Rb8 17. a4 cxb5 18. axb5 a6 19. c4 axb5 20.
+cxb5 Ba6 0-1
+

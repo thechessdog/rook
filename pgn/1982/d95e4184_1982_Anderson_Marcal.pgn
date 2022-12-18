@@ -1,0 +1,21 @@
+[Event "US Open"]
+[Site "US Open"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Anderson, C."]
+[Black "Marcal, Jose"]
+[Result "0-1"]
+[ECO "A65"]
+[Opening "Benoni"]
+[Variation "6.e4"]
+[HashCode "d95e4184"]
+[Epoch "Rook"]
+[BlackID "2004062"]
+[BlackCountry "USA"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. Bd3 Bg7 8. Nge2
+O-O 9. O-O a6 10. a4 Nbd7 11. h3 Qc7 12. f4 c4 13. Bc2 Re8 14. Ng3 b6 15. Qf3
+Rb8 16. Be3 Nc5 17. Rad1 Rb7 18. e5 dxe5 19. d6 Qd7 20. f5 Rb8 21. fxg6 fxg6
+22. Nd5 Nxd5 23. Qxd5+ Ne6 24. Qxc4 b5 25. axb5 axb5 26. Qd3 Bb7 27. Bb3 Kh8
+28. Ne4 Nd4 29. Rf7 Qc6 30. d7 Red8 31. Rxg7 Nxb3 32. Rxh7+ Kxh7 33. Qxb3 Kg7
+0-1

@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Nevednitsaja, I."]
+[Black "Sundberg, N."]
+[Result "1-0"]
+[ECO "E54"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Gligoric system with 7...dc"]
+[HashCode "3a560e29"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 c5 7. O-O dxc4 8.
+Bxc4 Bd7 9. dxc5 Bc6 10. Nd4 Bxc3 11. bxc3 Bd5 12. Bb3 Ne4 13. c4 Bc6 14.
+Bc2 Nxc5 15. Ba3 Qg5 16. Nxc6 Nxc6 17. f4 Qe7 18. Bxh7+ Kxh7 19. Qh5+ Kg8
+20. Bxc5 1-0
+

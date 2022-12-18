@@ -1,0 +1,22 @@
+[Event "BUL-ch"]
+[Site "Sofia"]
+[Date "1982.??.??"]
+[Round "1"]
+[White "Nikolov, Sasho"]
+[Black "Spassov, Liuben"]
+[Result "1-0"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Lipnitzky attack"]
+[HashCode "fcb81133"]
+[Epoch "Rook"]
+[WhiteID "2900297"]
+[BlackID "2900220"]
+[WhiteCountry "FID"]
+[BlackCountry "FID"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 Nc6 8. f4
+Be7 9. f5 Nxd4 10. Qxd4 exf5 11. O-O O-O 12. exf5 Bd7 13. Bg5 Bc6 14. Rae1 Re8
+15. Re3 Qa5 16. Qh4 d5 17. Rg3 Bc5+ 18. Kh1 Ne4 19. Nxe4 Rxe4 20. Bf4 Be7 21.
+f6 Bf8 22. Rxg7+ Bxg7 23. Qg3 Kf8 24. Bd6+ Ke8 25. fxg7 Kd7 26. Rxf7+ Ke6 27.
+Re7+ Kf5 28. Rxe4 Kxe4 29. Qe5# 1-0

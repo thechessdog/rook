@@ -1,0 +1,24 @@
+[Event "corr DDR/K"]
+[Site "corr DDR/K"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Eichler"]
+[Black "Adam"]
+[Result "0-1"]
+[ECO "B92"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Opovcensky variation"]
+[HashCode "f3e7e54c"]
+[Epoch "Rook"]
+[BlackID "7110219"]
+[BlackCountry "INA"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be6 8. O-O
+Nbd7 9. f4 Rc8 10. f5 Bc4 11. a4 Qb6+ 12. Kh1 Be7 13. a5 Bxe2 14. Qxe2 Qc6 15.
+Bg5 O-O 16. Rad1 Qc4 17. Rd3 Rfd8 18. Rfd1 Kf8 19. Bh4 b5 20. axb6 Nxb6 21.
+Bxf6 Bxf6 22. Nd2 Qb4 23. Nf3 Na4 24. Nxa4 Qxa4 25. b3 Qa2 26. Ne1 Ke7 27. Qd2
+Rc6 28. Qb4 Rd7 29. Rd5 Ke8 30. Ra5 Qb2 31. Qa4 Qc3 32. Rxa6 Rxa6 33. Qxa6 d5
+34. exd5 Rxd5 35. Qa8+ Rd8 36. Rxd8+ Bxd8 37. Qe4 Ba5 38. Nf3 Qa1+ 39. Ng1 Qc3
+40. g3 Bb6 41. Nf3 f6 42. Kg2 Qc5 43. b4 Qf2+ 44. Kh3 Qf1+ 45. Kh4 Qb5 46. c3
+Bd8 47. Nd4 Qd7 48. Ne6 Qxe6 49. g4 Qd6 50. b5 Qc5 51. c4 Qf2+ 52. Kh3 Qf1+ 53.
+Kg3 Qf4+ 54. Qxf4 exf4+ 55. Kxf4 Kd7 0-1

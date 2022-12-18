@@ -1,0 +1,18 @@
+[Event "Cattolica"]
+[Site "Cattolica"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Rupeni"]
+[Black "Braumberger"]
+[Result "1-0"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "cf4386c1"]
+[Epoch "Rook"]
+
+1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. d4 cxd4 5. cxd4 g6 6. Qb3 Nb6 7. h4 Nc6 8.
+Nf3 d5 9. h5 Bf5 10. Bd3 e6 11. hxg6 fxg6 12. Bxf5 gxf5 13. Nc3 Qd7 14. Bg5
+Bb4 15. a3 Bxc3+ 16. Qxc3 Rc8 17. Qd3 Rg8 18. g3 Na5 19. Bf6 Na4 20. Ng5
+Nxb2 21. Qe2 Rxg5 22. Bxg5 Nbc4 23. Rh6 Rc6 24. Rf6 1-0
+

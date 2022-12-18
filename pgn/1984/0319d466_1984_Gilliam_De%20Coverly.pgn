@@ -1,0 +1,21 @@
+[Event "Ins match"]
+[Site "Ins match"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Gilliam, CD."]
+[Black "De Coverly, Roger D"]
+[Result "1-0"]
+[ECO "E90"]
+[Opening "King's Indian"]
+[Variation "Larsen variation"]
+[HashCode "0319d466"]
+[Epoch "Rook"]
+[BlackID "405213"]
+[BlackCountry "ENG"]
+
+1. d4 Nf6 2. c4 d6 3. Nc3 g6 4. e4 Bg7 5. Nf3 O-O 6. Be3 Nbd7 7. h3 e5 8. d5
+Nc5 9. Nd2 a5 10. g4 c6 11. Be2 Nfd7 12. Qc2 a4 13. h4 h6 14. h5 gxh5 15. Rxh5
+Nf6 16. Rh1 Nxg4 17. Bxg4 Bxg4 18. f3 Bd7 19. O-O-O f6 20. Rdg1 Rf7 21. Rxh6
+Qb6 22. Nf1 a3 23. b3 Qb4 24. Rhg6 Kf8 25. Rxg7 Rxg7 26. Bh6 Nxb3+ 27. Qxb3
+Qxb3 28. axb3 Bh3 29. Ne3 a2 30. Bxg7+ Kf7 31. Kb2 Rg8 32. Rh1 Bd7 33. Bh6 Rg3
+34. Kxa2 Rxf3 35. Ned1 Bg4 36. Bc1 1-0

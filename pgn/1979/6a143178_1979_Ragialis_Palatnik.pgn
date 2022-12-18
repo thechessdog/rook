@@ -1,0 +1,20 @@
+[Event "Vilnius"]
+[Site "Vilnius"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Ragialis, P."]
+[Black "Palatnik, Semon"]
+[Result "0-1"]
+[ECO "B87"]
+[Opening "Sicilian"]
+[Variation "Sozin with ...a6 and ...b5"]
+[HashCode "6a143178"]
+[Epoch "Rook"]
+[BlackID "2014610"]
+[BlackCountry "USA"]
+
+1. e4 c5 2. Nf3 Nf6 3. Nc3 d6 4. d4 cxd4 5. Nxd4 a6 6. Bc4 e6 7. Bb3 b5 8. O-O
+Bb7 9. Re1 Nbd7 10. Bg5 h6 11. Bxf6 Nxf6 12. a4 b4 13. Na2 Qa5 14. c3 bxc3 15.
+Nxc3 Be7 16. Ba2 O-O 17. Rb1 Qb4 18. Re3 Rac8 19. Nc2 Qc5 20. b4 Qg5 21. Nd4
+Rxc3 22. Nf3 Qxe3 23. fxe3 Nxe4 24. b5 Rfc8 25. Qe1 axb5 26. axb5 d5 27. Bb3
+Ba3 28. Bd1 Rc1 29. Rxc1 Rxc1 0-1

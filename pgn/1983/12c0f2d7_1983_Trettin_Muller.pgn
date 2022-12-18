@@ -1,0 +1,21 @@
+[Event "Wurttemberg"]
+[Site "Wurttemberg"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Trettin, Ulrich, Dr."]
+[Black "Muller, Werner"]
+[Result "1-0"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, 6.Bd3"]
+[HashCode "12c0f2d7"]
+[Epoch "Rook"]
+[WhiteID "4605020"]
+[WhiteCountry "GER"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. f4 Nf6 5. Nf3 O-O 6. Bd3 Nc6 7. e5 dxe5 8. dxe5
+Nd5 9. Bd2 Bg4 10. Be4 e6 11. h3 Bxf3 12. Qxf3 Nd4 13. Qf2 c5 14. O-O-O f6 15.
+exf6 Nxf6 16. Rhe1 Rb8 17. Be3 e5 18. g3 Qa5 19. Kb1 b5 20. Qg2 b4 21. Nd5 Nb5
+22. Ne7+ Kh8 23. Nc6 Nc3+ 24. bxc3 bxc3+ 25. Ka1 Qa3 26. Bc1 Rb2 27. Bd5 exf4
+28. g4 f3 29. Qxf3 Bh6 30. Qxc3 Rxa2+ 31. Bxa2 Qxc3+ 32. Bb2 Qf3 33. Ne5 Qb7
+34. Nd7 1-0

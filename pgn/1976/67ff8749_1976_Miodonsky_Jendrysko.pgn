@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Miodonsky"]
+[Black "Jendrysko"]
+[Result "1-0"]
+[ECO "C64"]
+[Opening "Ruy Lopez"]
+[Variation "classical defence, 4.c3"]
+[HashCode "67ff8749"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. c3 d5 5. d4 exd4 6. cxd4 Bb4+ 7. Nc3
+Bxc3+ 8. bxc3 dxe4 9. Ne5 Bd7 10. Qb3 Nxe5 11. dxe5 Bc6 12. Ba3 Qd7 13. Rd1
+Qe6 14. Bc4 Qg6 15. Qb4 1-0
+

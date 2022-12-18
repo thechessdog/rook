@@ -1,0 +1,23 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Kristiansen, Jens"]
+[Black "Kolbak, Jens"]
+[Result "0-1"]
+[ECO "A88"]
+[Opening "Dutch"]
+[Variation "Leningrad, main variation with c6"]
+[HashCode "e15641ef"]
+[Epoch "Rook"]
+[WhiteID "1400061"]
+[BlackID "1400339"]
+[WhiteCountry "DEN"]
+[BlackCountry "DEN"]
+
+1. Nf3 f5 2. g3 g6 3. Bg2 Bg7 4. d4 Nf6 5. c4 O-O 6. Nc3 d6 7. O-O c6 8. d5 Bd7
+9. Bd2 a5 10. Ne1 Na6 11. Nd3 e5 12. dxe6 Bxe6 13. b3 Bf7 14. Rc1 Re8 15. Qc2
+Ne4 16. Nxe4 fxe4 17. Nf4 d5 18. cxd5 cxd5 19. h4 Nb4 20. Qb1 Qe7 21. Rfd1 d4
+22. f3 e3 23. Be1 b6 24. Nd3 Nd5 25. Rc6 Rac8 26. Qc2 Nc3 27. Rxc8 Rxc8 28. Bh3
+Re8 29. Bxc3 dxc3 30. Kg2 Rd8 31. Nf4 Rd2 32. Qc1 b5 33. Kf1 b4 34. Rxd2 exd2
+35. Qc2 Qd6 0-1

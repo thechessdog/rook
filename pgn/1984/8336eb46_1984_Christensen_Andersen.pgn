@@ -1,0 +1,18 @@
+[Event "corr ch-DK"]
+[Site "corr ch-DK"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Christensen"]
+[Black "Andersen, Jens Knud"]
+[Result "1/2-1/2"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra gambit"]
+[HashCode "8336eb46"]
+[Epoch "Rook"]
+[BlackID "4616910"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. d4 cxd4 3. c3 dxc3 4. Nxc3 e6 5. Nf3 Nc6 6. Bc4 a6 7. O-O Qc7 8.
+Qe2 Bd6 9. Re1 Ne5 10. Nxe5 Bxe5 11. Nd5 exd5 12. exd5 d6 13. f4 f6 14. Be3 Ne7
+15. Rac1 O-O 16. fxe5 fxe5 17. Bxa6 Qa5 18. Bc4 Kh8 19. Qd2 1/2-1/2

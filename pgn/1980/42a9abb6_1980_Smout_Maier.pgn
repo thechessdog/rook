@@ -1,0 +1,16 @@
+[Event "Biel"]
+[Site "Biel"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Smout, Henk"]
+[Black "Maier"]
+[Result "1-0"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, 6...Ne7"]
+[HashCode "42a9abb6"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 Ne7 5. a3 Bxc3+ 6. bxc3 c5 7. h4 Qc7 8.
+Rh3 Nbc6 9. h5 Bd7 10. h6 gxh6 11. Bxh6 O-O-O 12. Bg7 Rhg8 13. Bf6 1-0
+

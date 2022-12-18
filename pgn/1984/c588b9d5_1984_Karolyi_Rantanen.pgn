@@ -1,0 +1,23 @@
+[Event "Helsinki"]
+[Site "Helsinki"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Karolyi, Tibor"]
+[Black "Rantanen, Yrjo A."]
+[Result "1-0"]
+[ECO "E38"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, 4...c5"]
+[HashCode "c588b9d5"]
+[Epoch "Rook"]
+[WhiteID "700312"]
+[WhiteCountry "HUN"]
+[BlackID "500038"]
+[BlackCountry "FIN"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 c5 5. dxc5 Bxc5 6. Nf3 b6 7. Bf4 Bb7 8. e3
+O-O 9. Rd1 Nc6 10. Be2 Rc8 11. O-O Re8 12. Ng5 Be7 13. Qb1 Na5 14. b3 h6 15.
+Nge4 Nxe4 16. Nxe4 d5 17. cxd5 exd5 18. Bb5 Rf8 19. Ng3 a6 20. Be2 Re8 21. Qf5
+g6 22. Qg4 Bg5 23. h4 Bxf4 24. Qxf4 Kg7 25. Bd3 Nc6 26. h5 Qf6 27. hxg6 Qxf4
+28. Nh5+ Kg8 29. exf4 Red8 30. Bf5 Rb8 31. Nf6+ Kg7 32. Nd7 Ra8 33. Nxb6 Ra7
+34. gxf7 Kxf7 35. Rfe1 1-0

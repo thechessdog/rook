@@ -1,0 +1,20 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Braune"]
+[Black "Engel"]
+[Result "0-1"]
+[ECO "B97"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Poisoned pawn variation"]
+[HashCode "a7ae8718"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qb6 8.
+Qd2 Qxb2 9. Rb1 Qa3 10. Rb3 Qa5 11. Bd3 Be7 12. O-O O-O 13. f5 Nc6 14. Nxc6
+bxc6 15. Rfb1 exf5 16. exf5 Bxf5 17. Bxf5 Qxf5 18. Rb7 Bd8 19. Bf4 d5 20.
+Rf1 Qc8 21. Rfb1 Ba5 22. Qd3 Ne8 23. Qg3 g6 24. Bh6 Bc7 25. Qe3 Nd6 26. Qe7
+Nxb7 27. Bxf8 Qxf8 28. Qxc7 Qc5+ 29. Kf1 Nd6 30. Rb8+ Rxb8 31. Qxb8+ Kg7
+32. Qb2 f6 33. Nd1 Qc4+ 34. Kg1 Qe2 0-1
+

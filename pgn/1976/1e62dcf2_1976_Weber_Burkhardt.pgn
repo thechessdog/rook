@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Weber, V."]
+[Black "Burkhardt, J."]
+[Result "0-1"]
+[ECO "E74"]
+[Opening "King's Indian"]
+[Variation "Averbakh, 6...c5"]
+[HashCode "1e62dcf2"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Be2 O-O 6. Bg5 c5 7. d5 e5 8. g4
+Na6 9. h4 Nc7 10. h5 h6 11. Be3 g5 12. a3 a5 13. f3 Bd7 14. Rb1 Rb8 15. b4
+axb4 16. axb4 cxb4 17. Rxb4 b5 18. cxb5 Nxb5 19. Nxb5 Bxb5 20. Rxb5 Rxb5
+21. Bxb5 Qa5+ 22. Kf2 Qxb5 23. Ne2 Rc8 24. Qb1 0-1
+

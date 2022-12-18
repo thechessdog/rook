@@ -1,0 +1,23 @@
+[Event "Ramsgate"]
+[Site "Ramsgate/Margate"]
+[Date "1984.??.??"]
+[Round "?"]
+[White "De Boer, Gert-Jan"]
+[Black "Hodgson, Julian M"]
+[Result "0-1"]
+[ECO "A77"]
+[Opening "Benoni"]
+[Variation "classical, 9...Re8, 10.Nd2"]
+[HashCode "90186df6"]
+[Epoch "Rook"]
+[BlackID "400076"]
+[BlackCountry "ENG"]
+[WhiteCountry "NED"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. Nd2 Bg7 8. e4
+O-O 9. Be2 Re8 10. O-O Nbd7 11. a4 a6 12. Ra3 Rb8 13. a5 Ne5 14. Re1 Nfg4 15.
+h3 Nxf2 16. Kxf2 Qh4+ 17. Kg1 Bxh3 18. Nf1 Ng4 19. g3 Qh5 20. Bxg4 Bxg4 21. Qc2
+b5 22. axb6 Rxb6 23. Qh2 Bd4+ 24. Be3 Qe5 25. Qd2 Reb8 26. Bxd4 cxd4 27. Na4
+Rb3 28. Rxb3 Rxb3 29. Qf4 Qxf4 30. gxf4 Bd7 31. Nd2 Rg3+ 32. Kf2 Rd3 33. Nb6
+Rxd2+ 34. Re2 Rxe2+ 35. Kxe2 Bb5+ 36. Kd2 h5 37. Nc8 h4 38. Nxd6 h3 39. Nxb5
+axb5 40. d6 Kf8 0-1

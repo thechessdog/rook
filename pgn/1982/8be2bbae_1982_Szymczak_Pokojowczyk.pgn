@@ -1,0 +1,20 @@
+[Event "Poland"]
+[Site "Poland"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Szymczak, Zbigniew"]
+[Black "Pokojowczyk, Jerzy"]
+[Result "1/2-1/2"]
+[ECO "E12"]
+[Opening "Queen's Indian"]
+[Variation "Petrosian system"]
+[HashCode "8be2bbae"]
+[Epoch "Rook"]
+[WhiteID "1100424"]
+[BlackID "1100718"]
+[WhiteCountry "POL"]
+[BlackCountry "POL"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. a3 c5 5. d5 Ba6 6. Qc2 exd5 7. cxd5 g6 8. Nc3
+Bg7 9. g3 O-O 10. Bg2 d6 11. O-O b5 12. Ng5 Nbd7 13. Rd1 Qb6 14. e4 h6 15. Nf3
+Ng4 16. h3 Nge5 17. Nxe5 Nxe5 18. b3 Rae8 1/2-1/2

@@ -1,0 +1,27 @@
+[Event "Slupsk"]
+[Site "Slupsk"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Peev, Peicho Chonev"]
+[Black "Grahn, Lars"]
+[Result "1-0"]
+[ECO "E19"]
+[Opening "Queen's Indian"]
+[Variation "old main line, 9.Qxc3"]
+[HashCode "ebfac8b3"]
+[Epoch "Rook"]
+[BlackID "1707205"]
+[BlackCountry "SWE"]
+[WhiteCountry "BGR"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2 Be7 6. O-O O-O 7. Nc3 Ne4 8. Qc2
+Nxc3 9. Qxc3 f5 10. b4 a5 11. b5 Bf6 12. Bb2 d6 13. Rfd1 Nd7 14. Qd2 Qe7 15.
+Rac1 Rad8 16. a4 g5 17. Ba3 g4 18. Ne1 Bxg2 19. Nxg2 Bg5 20. e3 Nf6 21. Qe2 Ne4
+22. f3 gxf3 23. Qxf3 Qg7 24. Rc2 Qg6 25. Ne1 h5 26. Rg2 Qh6 27. Bc1 Rd7 28. Nd3
+Qh7 29. Bb2 Qh6 30. Re1 Bd8 31. Nf4 Rh7 32. h4 Re8 33. Rf1 Bf6 34. Ba3 Bh8 35.
+Rc1 Bf6 36. Kh1 Bh8 37. c5 bxc5 38. dxc5 dxc5 39. Bxc5 Rd8 40. Ba3 Be5 41. Rc6
+Bxf4 42. gxf4+ Rg7 43. Rxc7 Rg4 44. Bb2 Kf8 45. Bg7+ Qxg7 46. Rxg7 Kxg7 47. Qf1
+Rd2 48. Rxd2 Nxd2 49. Qf2 Ne4 50. Qb2+ Kf7 51. b6 Rxh4+ 52. Kg2 Rg4+ 53. Kf1
+Ng3+ 54. Ke1 Ne4 55. Qh2 Nf6 56. b7 Rg8 57. Qc2 Nd7 58. Qc8 Nb8 59. Qc7+ Kf6
+60. Qxa5 h4 61. Qc7 Na6 62. Qh7 Rb8 63. Qxh4+ Kf7 64. Qh7+ Ke8 65. Qh8+ Kd7 66.
+Qd4+ Kc7 67. Qa7 Nb4 68. Qa5+ 1-0

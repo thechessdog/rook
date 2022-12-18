@@ -1,0 +1,18 @@
+[Event "corr NLD/H"]
+[Site "corr NLD/H"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Wilting, H."]
+[Black "Wijnand, P."]
+[Result "0-1"]
+[ECO "A02"]
+[Opening "Bird"]
+[Variation "From gambit"]
+[HashCode "0bea3f95"]
+[Epoch "Rook"]
+
+1. f4 e5 2. fxe5 d6 3. exd6 Bxd6 4. Nf3 Nf6 5. d4 O-O 6. g3 c5 7. Bg2 cxd4
+8. Nxd4 Ng4 9. Nc3 Be5 10. e3 Nxh2 11. Ne4 Qc7 12. Ne2 Rd8 13. Bd2 Ng4 14.
+Qc1 Nc6 15. Nf4 Bf5 16. c3 Bxf4 17. gxf4 Re8 18. Rg1 h5 19. Nf2 Qxf4 20.
+Nxg4 Qxg4 21. Rf1 Ne5 0-1
+

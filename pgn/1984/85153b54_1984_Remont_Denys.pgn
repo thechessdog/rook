@@ -1,0 +1,21 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Remont"]
+[Black "Denys"]
+[Result "0-1"]
+[ECO "C43"]
+[Opening "Petrov"]
+[Variation "modern attack, Symmetrical variation"]
+[HashCode "85153b54"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nf6 3. d4 Nxe4 4. Bd3 d5 5. Nxe5 Bd6 6. O-O O-O 7. Nd2 Bxe5
+8. dxe5 Nc5 9. Nf3 Nxd3 10. Qxd3 h6 11. Nd4 c5 12. Nb5 Nc6 13. Qg3 Kh8 14.
+c3 Bf5 15. Re1 a6 16. Nd6 Qd7 17. h4 Rad8 18. Bf4 Ne7 19. Rad1 b6 20. Qe3
+Qe6 21. Rd2 d4 22. Qe2 d3 23. Qd1 c4 24. Bg3 b5 25. f3 Qd5 26. Bf2 Be6 27.
+Re3 f6 28. exf6 gxf6 29. Ne4 Rc8 30. h5 Nf5 31. Re1 Bd7 32. b3 Kh7 33. b4
+Rf7 34. g4 Ng7 35. Bd4 Rcf8 36. Nc5 Ne6 37. Nxe6 Bxe6 38. Rg2 Bd7 39. Re4
+Re8 40. Rxe8 Bxe8 41. Qe1 Bc6 0-1
+

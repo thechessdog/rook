@@ -1,0 +1,19 @@
+[Event "Kamen Piskov mem 4"]
+[Site "Ruse"]
+[Date "1984.??.??"]
+[Round "11"]
+[White "Orev, Petar"]
+[Black "Lalev, Dimitar"]
+[Result "0-1"]
+[ECO "B20"]
+[Opening "Sicilian defence"]
+[HashCode "b213cc8d"]
+[Epoch "Rook"]
+[WhiteID "2900742"]
+[BlackID "2900254"]
+[WhiteCountry "FID"]
+[BlackCountry "FID"]
+
+1. e4 c5 2. c4 Nc6 3. Ne2 g6 4. d4 Bg7 5. d5 Nd4 6. Nbc3 d6 7. Be3 Qb6 8. Qd2
+e5 9. dxe6 Bxe6 10. O-O-O Nxe2+ 11. Bxe2 O-O-O 12. Bf4 Ne7 13. Bxd6 Nc6 14. Qf4
+h5 15. Qd2 Be5 16. Nb5 a6 17. f4 Bxd6 18. Nxd6+ Rxd6 19. Qxd6 0-1

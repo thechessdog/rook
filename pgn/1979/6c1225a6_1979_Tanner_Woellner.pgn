@@ -1,0 +1,18 @@
+[Event "corr DDR-H"]
+[Site "corr DDR-H"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Tanner, J."]
+[Black "Woellner, M."]
+[Result "1-0"]
+[ECO "C69"]
+[Opening "Ruy Lopez"]
+[Variation "exchange, Gligoric variation"]
+[HashCode "6c1225a6"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O f6 6. d4 exd4 7. Nxd4 c5
+8. Nb3 Qxd1 9. Rxd1 Bd6 10. Na5 Nh6 11. Bxh6 gxh6 12. Nc3 Kf7 13. Nd5 Be6
+14. Nxb7 Be5 15. Nxc5 Bxb2 16. Rab1 Be5 17. Nxe6 Kxe6 18. f4 Bd6 19. g3
+Rab8 20. Rb3 Rxb3 21. axb3 Rg8 22. Rc1 1-0
+

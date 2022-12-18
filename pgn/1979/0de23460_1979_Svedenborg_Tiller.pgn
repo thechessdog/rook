@@ -1,0 +1,21 @@
+[Event "Moss"]
+[Site "Moss"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Svedenborg, Paul"]
+[Black "Tiller, Bjorn"]
+[Result "1-0"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack"]
+[HashCode "0de23460"]
+[Epoch "Rook"]
+[WhiteID "1500899"]
+[BlackID "1500112"]
+[WhiteCountry "NOR"]
+[BlackCountry "NOR"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 g6 4. f3 Bg7 5. e4 c6 6. e5 Nfd7 7. f4 f6 8. Bh4 O-O
+9. Nf3 b5 10. a3 Nb6 11. Bd3 Nc4 12. Qc1 Bg4 13. O-O Qb6 14. Bf2 Bxf3 15. gxf3
+Bh6 16. Ne2 Na6 17. b3 Na5 18. Qe3 Rae8 19. h4 Nc7 20. h5 gxh5 21. Ng3 Ne6 22.
+Nxh5 Kh8 23. Bf5 c5 24. dxc5 Rg8+ 25. Kh1 Qc6 26. exf6 exf6 27. Nxf6 Bxf4 28.
+Qd3 Nxc5 29. Qd4 Be5 30. Qh4 Rg7 31. Nxe8 1-0

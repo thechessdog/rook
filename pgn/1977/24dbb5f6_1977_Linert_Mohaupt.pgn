@@ -1,0 +1,22 @@
+[Event "corr DDR-FSM"]
+[Site "corr DDR-FSM"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Linert, H."]
+[Black "Mohaupt, H."]
+[Result "0-1"]
+[ECO "C73"]
+[Opening "Ruy Lopez"]
+[Variation "modern Steinitz defence, Alapin variation"]
+[HashCode "24dbb5f6"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. Bxc6+ bxc6 6. d4 f6 7. Be3 Ne7
+8. Nc3 Ng6 9. Qd3 Be7 10. O-O-O Bd7 11. h4 h5 12. Qc4 Qb8 13. Nd2 Qb7 14.
+Nb3 a5 15. a3 Qa6 16. Nd2 Qxc4 17. Nxc4 O-O 18. a4 exd4 19. Rxd4 Be6 20. f4
+c5 21. Rd5 Bxd5 22. Nxd5 Bd8 23. Bd2 Re8 24. Nc3 Ne7 25. Re1 Nc6 26. Nb5
+Nb4 27. g3 Kf8 28. Re3 d5 29. exd5 Nxd5 30. Rxe8+ Kxe8 31. Bxa5 Kd7 32. b3
+c6 33. Bxd8 cxb5 34. Nb6+ Nxb6 35. Bxb6 Kc6 36. a5 b4 37. Kd2 Re8 38. Ba7
+Re7 39. Bb6 f5 40. c3 bxc3+ 41. Kxc3 Re3+ 42. Kc4 Re1 43. Kd3 Kb5 44. Kd2
+Rg1 45. Bc7 Rxg3 46. Kc2 Rg4 0-1
+

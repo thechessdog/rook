@@ -1,0 +1,24 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Schifferdecker, Wil"]
+[Black "Maier, Christian"]
+[Result "1-0"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance variation"]
+[HashCode "6ec66b78"]
+[Epoch "Rook"]
+[BlackID "4601955"]
+[BlackCountry "GER"]
+
+1. e4 e6 2. d4 d5 3. e5 b6 4. c3 Qd7 5. Nd2 Ne7 6. Qf3 a5 7. h4 h5 8. Ne2 Nf5
+9. Ng3 Nxg3 10. fxg3 Ba6 11. Nc4 Nc6 12. Ne3 Bxf1 13. Rxf1 a4 14. Rb1 b5 15. a3
+Na5 16. g4 hxg4 17. Qxg4 Nb3 18. Nc2 O-O-O 19. Bg5 Be7 20. Rxf7 Rde8 21. Ke2 b4
+22. Nxb4 Qb5+ 23. Nd3 Bxg5 24. Qxg5 c5 25. Ke3 Qc4 26. Rf4 cxd4+ 27. Rxd4 Nxd4
+28. cxd4 Kb8 29. Rc1 Qb3 30. Rc3 Qb7 31. Qg4 Rhf8 32. Qd1 Qa6 33. Qc1 Rf7 34.
+Rc6 Qb5 35. Qc5 Qxc5 36. Nxc5 Rh8 37. Rxe6 Rxh4 38. Rg6 Rh1 39. e6 Re1+ 40. Kd2
+Rff1 41. Rxg7 Rd1+ 42. Kc3 Rc1+ 43. Kb4 Rc4+ 44. Kb5 Rf2 45. e7 Rxb2+ 46. Kc6
+Re2 47. Kxd5 Rc3 48. Nd7+ Kc7 49. Ne5 Rxe5+ 50. dxe5 Kd7 51. e8=Q+ Kxe8 52. Ke6
+Kf8 53. Rf7+ Kg8 54. Rf3 1-0

@@ -1,0 +1,20 @@
+[Event "Germany"]
+[Site "Bad Neuenahr"]
+[Date "1978.01.01"]
+[Round "2"]
+[White "Reefschlaeger, Helmut, Dr."]
+[Black "Zier, Ludwig"]
+[Result "1-0"]
+[ECO "E05"]
+[Opening "Catalan"]
+[Variation "open, classical line"]
+[HashCode "4300ad54"]
+[Epoch "Rook"]
+[WhiteID "4600878"]
+[WhiteCountry "GER"]
+[BlackID "4606809"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Bg2 dxc4 5. Nf3 Be7 6. O-O a6 7. Ne5 Nbd7 8.
+Nxc4 O-O 9. Nc3 c5 10. dxc5 Nxc5 11. Bf4 Ra7 12. Qxd8 Rxd8 13. Bb8 Ra8 14. Bc7
+Rd4 15. Nb6 1-0

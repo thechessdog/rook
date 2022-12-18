@@ -1,0 +1,24 @@
+[Event "Dortmund"]
+[Site "Dortmund"]
+[Date "1977.05.01"]
+[Round "5"]
+[White "Smejkal, Jan"]
+[Black "Bachmann, Karlheinz"]
+[Result "1-0"]
+[ECO "A28"]
+[Opening "English"]
+[Variation "four knights, 4.e3"]
+[HashCode "610f62b8"]
+[Epoch "Rook"]
+[BlackID "4602021"]
+[BlackCountry "GER"]
+[WhiteID "300020"]
+[WhiteCountry "CZE"]
+
+1. c4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. e3 d5 5. cxd5 Nxd5 6. Bb5 Nxc3 7. bxc3 Bd6 8.
+d4 exd4 9. cxd4 O-O 10. O-O Ne7 11. e4 Ng6 12. Bc4 c6 13. Ng5 Be7 14. f4 b5 15.
+Bxf7+ Rxf7 16. Nxf7 Kxf7 17. f5 Nf8 18. Qb3+ Ke8 19. Bb2 Kd7 20. d5 Qb6+ 21.
+Kh1 c5 22. d6 Bxd6 23. Qf7+ Kc6 24. Rad1 Qc7 25. Qd5+ Kb6 26. Qxd6+ Qxd6 27.
+Rxd6+ Ka5 28. Bxg7 Bb7 29. e5 Re8 30. e6 c4 31. Re1 b4 32. e7 Ng6 33. fxg6 hxg6
+34. Rd8 Bc6 35. Rxe8 Bxe8 36. Rc1 c3 37. Bxc3 bxc3 38. Rxc3 Kb4 39. Rc8 Bf7 40.
+e8=Q 1-0

@@ -1,0 +1,19 @@
+[Event "corr Tch-SWE"]
+[Site "corr Tch-SWE"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Magnussen, Pal"]
+[Black "Carlberg, Gunnar"]
+[Result "0-1"]
+[ECO "C41"]
+[Opening "Philidor"]
+[Variation "Hanham variation"]
+[HashCode "3de26c39"]
+[Epoch "Rook"]
+[WhiteID "1711814"]
+[BlackID "1707175"]
+[WhiteCountry "SWE"]
+[BlackCountry "SWE"]
+
+1. e4 e5 2. Nf3 d6 3. d4 Nd7 4. Bc4 Qe7 5. Nc3 c6 6. a4 a5 7. Be3 h6 8. Qd2 g5
+9. h3 Ngf6 10. O-O-O 0-1

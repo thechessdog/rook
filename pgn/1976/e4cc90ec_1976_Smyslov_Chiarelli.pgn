@@ -1,0 +1,17 @@
+[Event "Columbus,OH simul"]
+[Site "Columbus,OH simul"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Smyslov, Vasily"]
+[Black "Chiarelli, Joseph"]
+[Result "0-1"]
+[ECO "A31"]
+[Opening "English"]
+[Variation "symmetrical, Benoni formation"]
+[HashCode "e4cc90ec"]
+[Epoch "Rook"]
+[WhiteCountry "RUS"]
+
+1. d4 Nf6 2. c4 c5 3. Nf3 e6 4. Nc3 cxd4 5. Nxd4 Bb4 6. e3 Nc6 7. Be2 O-O 8.
+O-O d5 9. cxd5 Nxd4 10. Qxd4 Bxc3 11. Qxc3 Nxd5 12. Qd4 Bd7 13. b3 Bc6 14. Bb2
+Qg5 15. f4 Nxf4 16. Rf2 Nh3+ 17. Kf1 Nxf2 18. Bf3 Bxf3 19. gxf3 Nh3 0-1

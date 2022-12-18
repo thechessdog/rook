@@ -1,0 +1,19 @@
+[Event "RLN 8283"]
+[Site "RLN 8283"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Poppner, Dietmar"]
+[Black "Fegebank, Fritz"]
+[Result "1/2-1/2"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "Indian variation"]
+[HashCode "1bfbbc2e"]
+[Epoch "Rook"]
+[WhiteID "4626869"]
+[WhiteCountry "GER"]
+[BlackID "4624300"]
+[BlackCountry "GER"]
+
+1. b3 Nf6 2. Bb2 e6 3. e3 c5 4. f4 Nc6 5. Nf3 Be7 6. Bd3 b6 7. O-O Bb7 8. Nc3
+d6 9. a3 Qd7 10. Qe2 h6 11. e4 Nh5 12. g3 Bf6 13. e5 1/2-1/2

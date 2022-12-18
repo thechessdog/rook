@@ -1,0 +1,19 @@
+[Event "Reggio Emilia"]
+[Site "Reggio Emilia"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Koch, Robert"]
+[Black "Danner, Georg"]
+[Result "0-1"]
+[ECO "A65"]
+[Opening "Benoni"]
+[Variation "6.e4"]
+[HashCode "7c562c76"]
+[Epoch "Rook"]
+[BlackID "1600303"]
+[BlackCountry "AUT"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. Bg5 h6 8. Bh4
+Bg7 9. Qa4+ Bd7 10. Qb3 Qc7 11. f3 O-O 12. Bc4 Na6 13. Nge2 Rab8 14. a4 Nb4 15.
+f4 Rbe8 16. e5 dxe5 17. d6 Qxd6 18. Rd1 Qc7 19. Bxf6 Bxf6 20. Ne4 Bh4+ 21. Kf1
+exf4 22. Nd6 Re3 23. Bxf7+ Kg7 24. Qc4 Bg4 25. Nxf4 Qxd6 26. Rxd6 Re1# 0-1

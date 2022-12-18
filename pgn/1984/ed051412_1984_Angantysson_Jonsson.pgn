@@ -1,0 +1,23 @@
+[Event "Grindavik"]
+[Site "Grindavik"]
+[Date "1984.01.01"]
+[Round "4"]
+[White "Angantysson, Haukur"]
+[Black "Jonsson, Bjorgvin"]
+[Result "1-0"]
+[ECO "B52"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky attack, 3...Bd7"]
+[HashCode "ed051412"]
+[Epoch "Rook"]
+[BlackID "2300125"]
+[BlackCountry "ISL"]
+[WhiteCountry "ISL"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. a4 Nf6 5. e5 dxe5 6. Nxe5 Bxb5 7. axb5 Qd5 8.
+Nf3 Qe4+ 9. Qe2 Qxc2 10. Nc3 e6 11. Ne5 Be7 12. O-O O-O 13. Qf3 Nbd7 14. Nxd7
+Nxd7 15. Qxb7 Qd3 16. Re1 Rfb8 17. Qe4 Qd6 18. Ra6 Nb6 19. d3 Rd8 20. Na4 Qd5
+21. Nxb6 Qxe4 22. dxe4 axb6 23. Bf4 Rxa6 24. bxa6 Ra8 25. Ra1 Bf6 26. Ra2 e5
+27. Be3 Kf8 28. Kf1 Bd8 29. Ke2 Ke8 30. b4 cxb4 31. Kd3 b3 32. Ra3 b2 33. Kc2
+Kd7 34. Kxb2 Kc6 35. Kb3 b5 36. a7 Bb6 37. Bxb6 Kxb6 38. Kb4 f6 39. Ra5 Kc6 40.
+Ra6+ Kb7 41. Kxb5 h5 42. Ra1 h4 43. h3 g6 1-0

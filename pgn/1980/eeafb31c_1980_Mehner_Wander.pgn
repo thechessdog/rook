@@ -1,0 +1,18 @@
+[Event "corr ch9-DDR"]
+[Site "corr ch9-DDR"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Mehner"]
+[Black "Wander"]
+[Result "1-0"]
+[ECO "C17"]
+[Opening "French"]
+[Variation "Winawer, advance, Russian variation"]
+[HashCode "eeafb31c"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. Qg4 Ne7 6. Nf3 cxd4 7. Nxd4 Qc7 8.
+Bb5+ Bd7 9. O-O Bxc3 10. bxc3 a6 11. Bd3 Nbc6 12. Re1 Nxe5 13. Qxg7 N5g6
+14. Bxg6 Nxg6 15. Nxe6 Bxe6 16. Rxe6+ Kd8 17. Rxg6 Re8 18. Qf6+ Kc8 19. Bf4
+Qd7 20. Rg3 1-0
+

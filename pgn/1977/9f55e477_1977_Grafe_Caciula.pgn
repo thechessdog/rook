@@ -1,0 +1,18 @@
+[Event "corr ICCF Cup"]
+[Site "corr ICCF Cup"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Grafe"]
+[Black "Caciula"]
+[Result "0-1"]
+[ECO "E49"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Botvinnik system"]
+[HashCode "9f55e477"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. a3 Bxc3+ 5. bxc3 d5 6. e3 O-O 7. Bd3 b6 8.
+Nf3 Bb7 9. O-O Qd6 10. Re1 Nbd7 11. a4 c5 12. Ba3 e5 13. dxe5 Nxe5 14. Nxe5
+Qxe5 15. Bb2 dxc4 16. Be2 Qg5 17. Bf3 Rad8 18. Qe2 Rd2 19. Qf1 Bxf3 20. Bc1
+Ne4 0-1
+

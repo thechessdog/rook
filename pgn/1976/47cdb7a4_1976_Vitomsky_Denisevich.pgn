@@ -1,0 +1,18 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Vitomsky"]
+[Black "Denisevich"]
+[Result "1-0"]
+[ECO "C15"]
+[Opening "French"]
+[Variation "Winawer, fingerslip variation"]
+[HashCode "47cdb7a4"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. Bd2 dxe4 5. Qg4 Qxd4 6. O-O-O h5 7. Qe2 Nd7
+8. Nxe4 Bxd2+ 9. Rxd2 Qa4 10. Nc3 Qa5 11. Nf3 Ngf6 12. Nd4 Nc5 13. Qc4 Nfe4
+14. Ndb5 Nxd2 15. Qxc5 Qb6 16. Nxc7+ Kd8 17. Qxb6 axb6 18. Nxa8 Nxf1 19.
+Rxf1 1-0
+

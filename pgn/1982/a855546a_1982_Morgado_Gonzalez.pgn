@@ -1,0 +1,16 @@
+[Event "corr ch-ARG"]
+[Site "corr ch-ARG"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Morgado, Juan Sebastian"]
+[Black "Gonzalez, Benito"]
+[Result "1-0"]
+[ECO "B94"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.Bg5"]
+[HashCode "a855546a"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 Nbd7 7. Bc4 Qa5 8.
+Qd2 e6 9. O-O-O b5 10. Bd5 exd5 11. Nc6 Qb6 12. exd5 Ne5 13. Rhe1 Kd7 14. Bxf6
+gxf6 15. Qf4 h5 16. Qxf6 Rh6 17. Nxe5+ dxe5 18. Qxf7+ Be7 19. d6 1-0

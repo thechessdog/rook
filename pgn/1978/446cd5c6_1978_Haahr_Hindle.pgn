@@ -1,0 +1,24 @@
+[Event "Buenos Aires olm"]
+[Site "Buenos Aires olm"]
+[Date "1978.10.01"]
+[Round "1"]
+[White "Haahr, M."]
+[Black "Hindle, K."]
+[Result "1-0"]
+[ECO "B18"]
+[Opening "Caro-Kann"]
+[Variation "classical variation"]
+[HashCode "446cd5c6"]
+[Epoch "Rook"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. Nf3 Nd7 7. Bd3 Bxd3
+8. Qxd3 Ngf6 9. Bd2 e6 10. O-O-O Qc7 11. c4 O-O-O 12. Be3 h6 13. Kb1 Kb8
+14. Qc2 Ng4 15. Bc1 c5 16. h3 Ngf6 17. Ne5 Nxe5 18. dxe5 Nd7 19. Rhe1 Be7
+20. f4 Bh4 21. Re3 Nb6 22. b3 Rxd1 23. Qxd1 Rd8 24. Rd3 Rd4 25. Ne2 Rxd3
+26. Qxd3 Qd7 27. Kc2 Kc7 28. g3 Be7 29. Nc3 a6 30. Be3 Qc6 31. Ne4 Nd7 32.
+g4 Qb6 33. Bd2 Qc6 34. Bc3 Nf8 35. f5 Nd7 36. f6 Bf8 37. Nd6 gxf6 38. Nxf7
+Qg2+ 39. Kb1 Qh1+ 40. Kb2 Qg2+ 41. Ka3 Qc6 42. exf6 b5 43. Bd2 b4+ 44. Kb2
+Qg2 45. g5 hxg5 46. Nxg5 Bd6 47. Nxe6+ Kc6 48. f7 Be7 49. Kc2 Ne5 50. Qd5+
+Qxd5 51. cxd5+ Kxd5 52. f8=Q Bxf8 53. Nxf8 Nf3 54. h4 Nxd2 55. Kxd2 Ke5 56.
+h5 1-0
+

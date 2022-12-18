@@ -1,0 +1,20 @@
+[Event "Yerevan"]
+[Site "Yerevan"]
+[Date "1984.??.??"]
+[Round "?"]
+[White "Pytel, Krzysztof"]
+[Black "Lukov, Valentin"]
+[Result "1/2-1/2"]
+[ECO "E45"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Bronstein (Byrne) variation"]
+[HashCode "4cde0b93"]
+[Epoch "Rook"]
+[WhiteID "600199"]
+[BlackID "2900157"]
+[WhiteCountry "FRA"]
+[BlackCountry "FID"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 b6 5. Ne2 Ba6 6. a3 Be7 7. Nf4 d5 8. cxd5
+Bxf1 9. Kxf1 exd5 10. g4 g5 11. Nh5 Nxh5 12. gxh5 c6 13. Qf3 Na6 14. e4 Nc7 15.
+Be3 Qd7 16. Rg1 h6 17. exd5 1/2-1/2

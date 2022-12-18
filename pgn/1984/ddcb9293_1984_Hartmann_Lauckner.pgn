@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Hartmann, Wolfram"]
+[Black "Lauckner"]
+[Result "0-1"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Paulsen attack"]
+[HashCode "ddcb9293"]
+[Epoch "Rook"]
+[WhiteID "4604008"]
+[WhiteCountry "GER"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Be2 cxd4 7. cxd4 Nh6 8. Nc3
+Nf5 9. Kf1 Be7 10. g4 Nh4 11. Na4 Qd8 12. Nxh4 Bxh4 13. Kg2 O-O 14. f4 f6 15.
+Rf1 g5 16. Bb5 gxf4 17. Bxf4 fxe5 18. Bxe5 Nxe5 19. dxe5 Rxf1 0-1

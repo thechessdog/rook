@@ -1,0 +1,19 @@
+[Event "corr Europe"]
+[Site "corr Europe"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Leeners"]
+[Black "Szyska"]
+[Result "1-0"]
+[ECO "C26"]
+[Opening "Vienna"]
+[Variation "Mengarini variation"]
+[HashCode "8e256cff"]
+[Epoch "Rook"]
+
+1. Nc3 e5 2. a3 Nf6 3. e4 Bc5 4. Nf3 Ng4 5. d4 exd4 6. Nd5 c6 7. b4 cxd5 8.
+bxc5 dxe4 9. Qxd4 d5 10. Qxg7 Qf6 11. Qxf6 Nxf6 12. Bb2 Ke7 13. Nd4 Bd7 14.
+Rd1 Rc8 15. Nb3 Be6 16. Bb5 a6 17. Be2 Nbd7 18. Bd4 Rg8 19. g3 Rac8 20. O-O
+Bg4 21. f3 exf3 22. Bxf3 Bxf3 23. Rxf3 Ne4 24. c4 Nexc5 25. Nxc5 Nxc5 26.
+cxd5 Rg6 27. Rdf1 1-0
+

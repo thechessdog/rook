@@ -1,0 +1,24 @@
+[Event "corr DDR/FS"]
+[Site "corr DDR/FS"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Gueldner"]
+[Black "Horch"]
+[Result "1-0"]
+[ECO "E44"]
+[Opening "Nimzo-Indian"]
+[Variation "Fischer variation, 5.Ne2"]
+[HashCode "380d6bd1"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 b6 5. Ne2 Bb7 6. a3 Bxc3+ 7. Nxc3 d5 8.
+Be2 Nbd7 9. O-O O-O 10. b4 Ne4 11. Nxe4 dxe4 12. Bb2 f5 13. Qb3 Qg5 14. f4
+Qe7 15. Rac1 c5 16. dxc5 bxc5 17. b5 Nb6 18. a4 Rad8 19. Rcd1 Rxd1 20. Rxd1
+Rd8 21. a5 Rxd1+ 22. Bxd1 Nd7 23. a6 Bc8 24. Qc3 Nb6 25. Bb3 Nd7 26. Qa5
+Nb6 27. g3 Kf7 28. Qc3 Qf6 29. Qxf6+ gxf6 30. Bc3 Ke7 31. Ba5 Na8 32. Kg2
+Bd7 33. Kh3 Be8 34. Bd1 Bf7 35. Be2 e5 36. Kh4 exf4 37. exf4 h5 38. h3 Kd7
+39. g4 hxg4 40. hxg4 fxg4 41. Kxg4 Ke6 42. f5+ Kd7 43. Kf4 Nc7 44. Kxe4 Kc8
+45. Be1 Kd7 46. Bg3 Bg8 47. Kf3 Bf7 48. Kg4 Na8 49. Bb8 Nb6 50. Bxa7 Kc7
+51. Kf4 Nd7 52. Ke3 Bg8 53. Kd2 Bf7 54. Kc3 Be8 55. Kb3 Nb6 56. Bxb6+ Kxb6
+57. Ka4 Bd7 58. Bd3 Be8 59. a7 Kxa7 60. Ka5 Bd7 61. Be4 Be8 62. Bc6 1-0
+

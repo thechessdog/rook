@@ -1,0 +1,18 @@
+[Event "Stockholm"]
+[Site "Stockholm"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Backe, Peter"]
+[Black "Castegren, B."]
+[Result "1/2-1/2"]
+[ECO "A73"]
+[Opening "Benoni"]
+[Variation "classical, 9.O-O"]
+[HashCode "7720ef2d"]
+[Epoch "Rook"]
+[WhiteID "1701240"]
+[WhiteCountry "SWE"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. Nf3 Bg7 8. Be2
+O-O 9. O-O Bg4 10. Be3 Nbd7 11. Nd2 Bxe2 12. Qxe2 Re8 13. f4 Qb8 14. a4 a6 15.
+Qf3 b5 16. a5 Re7 17. Rfe1 Qb7 18. Bf2 1/2-1/2

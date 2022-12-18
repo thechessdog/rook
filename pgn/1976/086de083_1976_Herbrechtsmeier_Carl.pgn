@@ -1,0 +1,16 @@
+[Event "corr BDGW"]
+[Site "corr BDGW"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Herbrechtsmeier"]
+[Black "Carl"]
+[Result "1-0"]
+[ECO "D00"]
+[Opening "Blackmar gambit"]
+[HashCode "086de083"]
+[Epoch "Rook"]
+
+1. d4 d5 2. e4 dxe4 3. Nc3 Nf6 4. f3 exf3 5. Nxf3 Bf5 6. Ne5 e6 7. g4 Be4
+8. Nxe4 Nxe4 9. Qf3 Qh4+ 10. Ke2 Nd6 11. Nxf7 Nxf7 12. Qxb7 Bd6 13. Qxa8
+O-O 14. Qg2 1-0
+

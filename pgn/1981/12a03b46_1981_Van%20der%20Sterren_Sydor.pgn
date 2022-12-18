@@ -1,0 +1,21 @@
+[Event "Austria"]
+[Site "Austria"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Van der Sterren, Paul"]
+[Black "Sydor, Andrzej"]
+[Result "1-0"]
+[ECO "C64"]
+[Opening "Ruy Lopez"]
+[Variation "Cordel gambit"]
+[HashCode "12a03b46"]
+[Epoch "Rook"]
+[WhiteID "1000071"]
+[WhiteCountry "NED"]
+[BlackID "1100475"]
+[BlackCountry "POL"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. c3 f5 5. d4 fxe4 6. Bxc6 dxc6 7. Nxe5 Bd6 8.
+Qh5+ g6 9. Qe2 Qh4 10. Nd2 Nf6 11. h3 Be6 12. g3 Qh5 13. g4 Qh6 14. g5 Qxg5 15.
+Nxe4 Qg2 16. Nxf6+ Ke7 17. Qe4 Bxh3 18. Rxh3 Qxh3 19. Nfg4 Rae8 20. Bg5+ Ke6
+21. O-O-O Rhf8 22. Rh1 1-0

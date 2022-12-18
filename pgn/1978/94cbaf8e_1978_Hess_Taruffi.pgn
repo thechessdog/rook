@@ -1,0 +1,21 @@
+[Event "Reggio Emilia7879"]
+[Site "Reggio Emilia"]
+[Date "1978.12.01"]
+[Round "1"]
+[White "Hess, Ralf E."]
+[Black "Taruffi, Daniele"]
+[Result "1-0"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "classical attack, Mason variation"]
+[HashCode "94cbaf8e"]
+[Epoch "Rook"]
+[WhiteID "4601890"]
+[WhiteCountry "GER"]
+[BlackID "800287"]
+[BlackCountry "ITA"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Be7 7. O-O O-O 8.
+Re1 Nd6 9. Bf4 Nd7 10. Nbd2 Re8 11. c3 Nf8 12. Qc2 c6 13. h3 g6 14. g4 f5 15.
+Bxd6 Qxd6 16. gxf5 Qf4 17. Re5 gxf5 18. Bxf5 Bf6 19. Bxc8 Bxe5 20. Bxb7 Rab8
+21. Bxc6 Re6 22. Bxd5 Kh8 23. Bxe6 Nxe6 24. Qe4 Rg8+ 25. Kf1 1-0

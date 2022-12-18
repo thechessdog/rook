@@ -1,0 +1,17 @@
+[Event "Hickory"]
+[Site "Hickory"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Bowers"]
+[Black "Wall, Bill"]
+[Result "0-1"]
+[ECO "C35"]
+[Opening "KGA"]
+[Variation "Cunningham defence"]
+[HashCode "489e0155"]
+[Epoch "Rook"]
+[BlackCountry "USA"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 Be7 4. Bc4 Nc6 5. O-O Nf6 6. d4 O-O 7. d5 Bc5+ 8.
+Kh1 Nxe4 9. dxc6 Nf2+ 10. Rxf2 Bxf2 11. cxb7 Bxb7 12. Bxf4 Qf6 13. Be5 Qb6 14.
+Qxd7 Rad8 15. Bxf7+ Kh8 0-1

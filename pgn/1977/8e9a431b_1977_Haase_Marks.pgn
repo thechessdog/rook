@@ -1,0 +1,21 @@
+[Event "corr Wcup4"]
+[Site "corr Wcup4"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Haase, J."]
+[Black "Marks, I."]
+[Result "0-1"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, poisoned pawn variation"]
+[HashCode "8e9a431b"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Qg4 Nbc6
+8. Qxg7 Rg8 9. Qxh7 cxd4 10. Ne2 Qc7 11. Bd2 dxc3 12. Bxc3 Nxe5 13. f4 N5g6
+14. Bf6 Bd7 15. f5 exf5 16. Nc3 O-O-O 17. O-O-O Qd6 18. Bxe7 Nxe7 19. Nb1
+Qf6 20. Qh3 d4 21. Be2 f4 22. Qb3 Bc6 23. Bf3 Nf5 24. Rhg1 Ne3 25. Bxc6
+Qxc6 26. Rd2 Rd7 27. Rf2 Rc7 28. a4 f3 29. g3 Rg5 30. Na3 Rc5 31. Kb1 Rc3
+32. Qb4 Qd5 33. Rc1 d3 34. Nb5 Rxc2 35. Rfxc2 Rxc2 36. Rxc2+ dxc2+ 37. Kb2
+f2 38. Qf4 f1=Q 0-1
+

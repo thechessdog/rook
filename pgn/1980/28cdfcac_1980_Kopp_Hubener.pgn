@@ -1,0 +1,20 @@
+[Event "corr DFSM"]
+[Site "corr DFSM"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Kopp"]
+[Black "Hubener"]
+[Result "1-0"]
+[ECO "C00"]
+[Opening "French"]
+[Variation "King's Indian attack"]
+[HashCode "28cdfcac"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d3 c5 3. Nf3 Nc6 4. g3 g6 5. Bg2 Bg7 6. O-O d6 7. Nbd2 Nge7 8.
+Re1 O-O 9. a4 d5 10. e5 Qc7 11. Qe2 f6 12. exf6 Bxf6 13. Nb3 Qb6 14. Qe3 c4
+15. dxc4 dxc4 16. Nbd2 Qxe3 17. Rxe3 Nf5 18. Re4 Nd6 19. Re2 c3 20. bxc3
+Bxc3 21. Rb1 Nf5 22. Ne4 Bg7 23. Bb2 Rb8 24. Bxg7 Kxg7 25. Rd2 e5 26. c3
+Nfe7 27. Nc5 b6 28. Nd7 Bxd7 29. Rxd7 Rfd8 30. Rbd1 Rxd7 31. Rxd7 Re8 32.
+Ng5 Kf6 33. h4 Rd8 34. Bxc6 1-0
+

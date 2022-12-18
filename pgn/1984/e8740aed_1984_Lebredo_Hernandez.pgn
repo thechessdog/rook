@@ -1,0 +1,18 @@
+[Event "Bayamo"]
+[Site "Bayamo"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Lebredo, Gerardo"]
+[Black "Hernandez, Roman"]
+[Result "1/2-1/2"]
+[ECO "B26"]
+[Opening "Sicilian"]
+[Variation "closed, 6.Be3"]
+[HashCode "e8740aed"]
+[Epoch "Rook"]
+[BlackCountry "CUB"]
+[WhiteCountry "CUB"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. Be3 b5 7. e5 Qd7 8. exd6
+exd6 9. Bf4 Nge7 10. Nxb5 O-O 11. Nxd6 Bxb2 12. Rb1 Qe6+ 13. Ne2 Bc3+ 14. Kf1
+Bg7 15. Nb5 Qxa2 16. Nec3 Qe6 17. Ne4 Qa2 18. Nec3 Qe6 19. Ne4 Qa2 1/2-1/2

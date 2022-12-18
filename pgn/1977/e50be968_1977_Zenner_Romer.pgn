@@ -1,0 +1,24 @@
+[Event "corr DDR-FSM"]
+[Site "corr DDR-FSM"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Zenner, C."]
+[Black "Romer, B."]
+[Result "1-0"]
+[ECO "D38"]
+[Opening "QGD"]
+[Variation "Ragozin variation"]
+[HashCode "e50be968"]
+[Epoch "Rook"]
+
+1. c4 Nf6 2. Nc3 e6 3. Nf3 d5 4. d4 Bb4 5. cxd5 exd5 6. Bg5 Qd6 7. Nd2 Nbd7
+8. e3 O-O 9. Bd3 c5 10. O-O cxd4 11. exd4 h6 12. Bh4 Bxc3 13. bxc3 Nb6 14.
+a4 Bg4 15. f3 Bh5 16. a5 Nbd7 17. Bg3 Qc6 18. Qb3 Rfe8 19. Bb5 Qc8 20. Rfe1
+Bg6 21. c4 Rxe1+ 22. Rxe1 Qd8 23. cxd5 Qxa5 24. Nc4 Qd8 25. d6 Nf8 26. Ne5
+Qb6 27. Nxg6 Nxg6 28. Qc4 a6 29. Ba4 Qa5 30. d7 b5 31. Qc8+ Qd8 32. Qxd8+
+Rxd8 33. Bc2 Rxd7 34. Ra1 Ra7 35. Bd3 b4 36. Bd6 b3 37. Bc5 Rb7 38. Rxa6 b2
+39. Ra8+ Kh7 40. Bb1 Nd5 41. Ra3 h5 42. Kf2 Kh6 43. g3 h4 44. Ke2 hxg3 45.
+hxg3 Nge7 46. Kd2 g6 47. Ra7 Rxa7 48. Bxa7 Nf5 49. Kc2 Nxg3 50. Kxb2 Kg7
+51. Kb3 Kf6 52. Kc4 Ke6 53. Kc5 Nc3 54. Bd3 Kd7 55. Bc4 f6 56. Bf7 g5 57.
+d5 Nge2 58. Be6+ Ke7 59. Kc6 Na4 60. d6+ Kxe6 61. d7 1-0
+

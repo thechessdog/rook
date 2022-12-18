@@ -1,0 +1,19 @@
+[Event "corr Heilimo mem"]
+[Site "corr Heilimo mem"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Vayrynen"]
+[Black "Paavilainen"]
+[Result "0-1"]
+[ECO "B99"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7...Be7 main line"]
+[HashCode "d913a729"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8.
+Qf3 Qc7 9. O-O-O Nbd7 10. Bd3 h6 11. h4 Nc5 12. f5 Bd7 13. fxe6 fxe6 14.
+Be3 O-O-O 15. Kb1 b5 16. g4 Rhf8 17. Qg2 b4 18. Nce2 Qb7 19. Nb3 Nfxe4 20.
+Qg1 Nxb3 21. cxb3 Bc6 22. Rh2 e5 23. g5 h5 24. Rc1 Kb8 25. Qe1 Bb5 26. Bc2
+Rc8 27. Qxb4 0-1
+

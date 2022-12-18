@@ -1,0 +1,20 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Schreyer, W."]
+[Black "Fiedler, N."]
+[Result "0-1"]
+[ECO "C00"]
+[Opening "French defence, Steiner variation"]
+[HashCode "28c47a01"]
+[Epoch "Rook"]
+
+1. e4 e6 2. c4 d5 3. cxd5 exd5 4. exd5 Nf6 5. Nf3 Nxd5 6. Nc3 Nb6 7. d4 Bd6
+8. Be2 Bf5 9. O-O c6 10. Bd3 Bxd3 11. Re1+ Be7 12. Qxd3 O-O 13. Bf4 Na6 14.
+a3 Nc5 15. Qf5 Ne6 16. Bg3 Bf6 17. Rad1 Nd5 18. Ne4 Be7 19. h4 g6 20. Qe5
+Ng7 21. Nc3 Bf6 22. Qe2 Re8 23. Ne4 Be7 24. Qd3 Nf5 25. h5 Nxg3 26. Nxg3
+Qc7 27. hxg6 hxg6 28. Ne4 Kg7 29. g3 Rh8 30. Neg5 Bxg5 31. Nxg5 Rh5 32. Nf3
+Qd7 33. Re4 Rah8 34. Rh4 Rxh4 35. Nxh4 Qg4 36. Kf1 Nf4 37. Qf3 Qh3+ 38. Ke1
+Rxh4 0-1
+

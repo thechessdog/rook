@@ -1,0 +1,30 @@
+[Event "ACM Houston"]
+[Site "ACM Houston"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "L'Excentrique"]
+[Black "Xenarbor IV"]
+[Result "1-0"]
+[ECO "A00"]
+[Opening "Van't Kruijs opening"]
+[HashCode "0ed53750"]
+[Epoch "Rook"]
+
+1. e3 Nf6 2. Bc4 e6 3. Qf3 Be7 4. d4 d5 5. Bd3 Nc6 6. Bb5 Bd7 7. Bd2 Ne4 8.
+Bxc6 Bxc6 9. Nc3 Nxd2 10. Kxd2 O-O 11. Kd3 Qd6 12. h4 Bd7 13. a3 Qa6+ 14.
+Kd2 c5 15. h5 cxd4 16. exd4 Bg5+ 17. Ke1 Bh6 18. Qd3 Qxd3 19. cxd3 Rac8 20.
+Nf3 f6 21. Ke2 Bf4 22. a4 a6 23. a5 Kh8 24. g3 Bh6 25. Nh2 f5 26. f4 Be8
+27. Nf3 Bd7 28. Ne5 Be8 29. Kf2 Kg8 30. Kg2 Rc7 31. Kf2 Rf6 32. Rac1 Rf8
+33. Nxd5 Rxc1 34. Ne7+ Kh8 35. Rxc1 Bxh5 36. Kg2 g6 37. Kf2 Kg7 38. Rc7 Kh8
+39. Rxb7 g5 40. fxg5 Bg7 41. Ke3 Re8 42. N7c6 Rc8 43. Nc4 Rf8 44. Kf2 f4
+45. gxf4 Rxf4+ 46. Ke3 Rf3+ 47. Ke4 Rf8 48. N6e5 Be8 49. Ne3 Bh5 50. b4 Be8
+51. Re7 Bb5 52. Rxe6 Rf2 53. Nf3 Bf8 54. Rb6 Bxb4 55. Rb8+ Kg7 56. Rb7+ Kg8
+57. d5 Bxa5 58. Nd4 Be8 59. Rb8 Rf8 60. Ndf5 Bc3 61. Nh6+ Kh8 62. Nhf5 a5
+63. Nc4 Kg8 64. Nh6+ Kh8 65. Ke3 Be1 66. Nd6 Bf2+ 67. Kd2 Bh4 68. Nhf7+
+Bxf7 69. Rxf8+ Bg8 70. Ne4 Kg7 71. Rd8 h6 72. gxh6+ Kh7 73. Rd6 Bf7 74. Rd7
+Kg8 75. h7+ Kxh7 76. Rxf7+ Kg6 77. Rb7 Kf5 78. d6 Kf4 79. Rb8 Ke5 80. d7
+Ke6 81. Nc5+ Kd6 82. d4 Bg5+ 83. Ke2 Kc7 84. Ra8 Kb6 85. Kd3 Be7 86. Re8
+Bg5 87. Kc2 Kc7 88. Ra8 Kb6 89. Rg8 Be7 90. Rb8+ Kc6 91. d8=Q Bxd8 92. Rxd8
+Kc7 93. Ra8 Kc6 94. Rg8 Kb5 95. Kb3 Kc6 96. Kc4 Kc7 97. Kb5 Kd6 98. Rg7 a4
+99. Rd7# 1-0
+

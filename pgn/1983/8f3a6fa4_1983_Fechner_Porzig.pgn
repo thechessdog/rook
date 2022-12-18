@@ -1,0 +1,20 @@
+[Event "corr DDR cup"]
+[Site "corr DDR cup"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Fechner, J."]
+[Black "Porzig"]
+[Result "1-0"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "classical attack, Chigorin variation"]
+[HashCode "8f3a6fa4"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Nc6 7. O-O Be7
+8. Re1 Bg4 9. c4 Nf6 10. cxd5 Nxd5 11. Nc3 O-O 12. Be4 Be6 13. a3 Bf6 14.
+Qd3 h6 15. Be3 Nce7 16. Rad1 c6 17. h3 Qc7 18. Qd2 Rfe8 19. Bc2 Rad8 20.
+Ne4 Nf5 21. Nxf6+ Nxf6 22. Bf4 Qb6 23. b4 Bc8 24. Rxe8+ Rxe8 25. g4 Ne7 26.
+Bxh6 Nxg4 27. hxg4 gxh6 28. Qxh6 c5 29. Bh7+ Kh8 30. Bg6+ Kg8 31. Qh7+ Kf8
+32. Qxf7# 1-0
+

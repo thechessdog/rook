@@ -1,0 +1,21 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Piesina, Gintautas"]
+[Black "Kochyev, Alexander"]
+[Result "0-1"]
+[ECO "E68"]
+[Opening "King's Indian"]
+[Variation "fianchetto, classical variation, 8.e4"]
+[HashCode "86cb46db"]
+[Epoch "Rook"]
+[BlackID "4100719"]
+[BlackCountry "RUS"]
+[WhiteCountry "LTU"]
+
+1. d4 Nf6 2. c4 d6 3. Nc3 e5 4. Nf3 Nbd7 5. g3 g6 6. Bg2 Bg7 7. O-O O-O 8. e4
+c6 9. Rb1 a6 10. Be3 Ng4 11. Bg5 f6 12. Bd2 f5 13. exf5 gxf5 14. h3 exd4 15.
+Bg5 Qe8 16. Nxd4 Nge5 17. Re1 Qg6 18. f4 Nc5 19. Nf3 Ne6 20. Bh4 Nxc4 21. Qd3
+b5 22. Kh2 Nc5 23. Qc2 Bd7 24. Bf1 Rae8 25. Bxc4+ bxc4 26. Na4 Nxa4 27. Qxa4
+Qf7 0-1

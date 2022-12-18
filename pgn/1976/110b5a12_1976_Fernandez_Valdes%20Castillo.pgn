@@ -1,0 +1,18 @@
+[Event "Capablanca mem-C 13th"]
+[Site "Cienfuegos"]
+[Date "1976.05.20"]
+[Round "4"]
+[White "Fernandez, Ciro A"]
+[Black "Valdes Castillo, Arnaldo"]
+[Result "1/2-1/2"]
+[ECO "B16"]
+[Opening "Caro-Kann"]
+[Variation "Bronstein-Larsen variation"]
+[HashCode "110b5a12"]
+[Epoch "Rook"]
+[BlackID "3501264"]
+[BlackCountry "CUB"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ gxf6 6. Qd3 Bg4 7. Be2 Bxe2
+8. Nxe2 e6 9. Bf4 Bd6 10. Bxd6 Qxd6 11. O-O-O Nd7 12. Kb1 O-O-O 13. Nc3 f5 14.
+a3 Rhg8 15. g3 Nf6 16. Qe3 1/2-1/2

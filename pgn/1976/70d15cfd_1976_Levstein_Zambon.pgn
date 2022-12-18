@@ -1,0 +1,23 @@
+[Event "Buenos Aires ch-ARG"]
+[Site "Buenos Aires ch-ARG"]
+[Date "1976.01.01"]
+[Round "5"]
+[White "Levstein, F."]
+[Black "Zambon, Horacio"]
+[Result "0-1"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Nimzovich (knight's tour) variation"]
+[HashCode "70d15cfd"]
+[Epoch "Rook"]
+[BlackID "158909"]
+[BlackCountry "ARG"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. Nd2 Bg7 8. Nc4
+a6 9. a4 Qc7 10. Bf4 Bf8 11. e4 Nbd7 12. Be2 Ne5 13. Nxe5 dxe5 14. Bg5 Bg7 15.
+O-O O-O 16. Qc2 Ne8 17. a5 Nd6 18. Na4 f5 19. Nb6 Rb8 20. f3 Nb5 21. Bxb5 axb5
+22. Rfc1 c4 23. b3 Qc5+ 24. Kh1 fxe4 25. fxe4 Qd4 26. bxc4 Rf2 27. Qb1 Rb2 28.
+Be3 Rxb1 29. Bxd4 Rxc1+ 30. Rxc1 exd4 31. h3 bxc4 32. Rxc4 d3 33. Rc1 d2 34.
+Rd1 Bc3 35. Nc4 Bd7 36. Nxd2 Ba4 37. Nb1 Bxd1 38. Nxc3 Bb3 39. d6 Kf7 40. Nb5
+Ra8 41. e5 Rxa5 42. d7 Ke7 43. Nd4 Kxd7 44. Nxb3 Rxe5 45. Kg1 Rd5 46. Kf2 h6
+47. Ke3 b6 48. Nd4 Rxd4 49. Kxd4 Kd6 0-1

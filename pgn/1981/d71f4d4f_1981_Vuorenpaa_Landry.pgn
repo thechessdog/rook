@@ -1,0 +1,22 @@
+[Event "corr FIN-BRD"]
+[Site "corr FIN-BRD"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Vuorenpaa"]
+[Black "Landry, S."]
+[Result "1-0"]
+[ECO "B70"]
+[Opening "Sicilian"]
+[Variation "dragon variation"]
+[HashCode "d71f4d4f"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be2 Bg7 7. O-O O-O
+8. Bg5 Nc6 9. Nb3 Be6 10. f4 b5 11. Bf3 Qb6+ 12. Kh1 Rfd8 13. Nd5 Bxd5 14.
+exd5 Na5 15. Nxa5 Qxa5 16. c3 Qc7 17. Qd2 Rab8 18. Rfe1 Kh8 19. Re2 Ng8 20.
+Bh4 a5 21. a3 Qb7 22. Rae1 b4 23. axb4 axb4 24. Bxe7 bxc3 25. bxc3 Rd7 26.
+Bh4 Rc7 27. Rc1 Qb3 28. Re3 Qb2 29. Be1 Qxd2 30. Bxd2 Rb2 31. Rd3 Rc4 32.
+g3 Bf6 33. Kg1 g5 34. fxg5 Rxd2 35. Rxd2 Bxg5 36. Rdc2 Bxc1 37. Rxc1 Ne7
+38. Kf2 Nf5 39. Ke2 Rc5 40. Kd3 Kg7 41. Rb1 Kf6 42. Be4 Ne7 43. Kd4 Ra5 44.
+Rb6 Nc8 45. Rc6 1-0
+

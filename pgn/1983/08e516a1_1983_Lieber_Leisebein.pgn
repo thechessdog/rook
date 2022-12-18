@@ -1,0 +1,17 @@
+[Event "corr DDR thematic"]
+[Site "corr DDR thematic"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Lieber, KH."]
+[Black "Leisebein, Peter"]
+[Result "0-1"]
+[ECO "C40"]
+[Opening "Latvian"]
+[Variation "Polerio variation"]
+[HashCode "08e516a1"]
+[Epoch "Rook"]
+[BlackCountry "DEU"]
+
+1. e4 e5 2. Nf3 f5 3. Bc4 fxe4 4. Nxe5 d5 5. Qh5+ g6 6. Nxg6 hxg6 7. Qxh8 Kf7
+8. Qd4 Be6 9. Be2 Nc6 10. Qe3 Bh6 11. f4 d4 12. Qf2 Nf6 13. Qh4 Bf8 14. O-O d3
+15. Bd1 Bc5+ 16. Kh1 Nd4 17. b4 Bb6 18. Na3 Nf5 19. Qe1 Qh8 20. Bb2 Qxh2+ 0-1

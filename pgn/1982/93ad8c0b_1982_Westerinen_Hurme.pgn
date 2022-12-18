@@ -1,0 +1,24 @@
+[Event "Jarvenpaa"]
+[Site "Jarvenpaa"]
+[Date "1982.01.01"]
+[Round "4"]
+[White "Westerinen, Heikki M.J."]
+[Black "Hurme, Harri"]
+[Result "0-1"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, 6.Bd3"]
+[HashCode "93ad8c0b"]
+[Epoch "Rook"]
+[WhiteID "500020"]
+[WhiteCountry "FIN"]
+[BlackID "500321"]
+[BlackCountry "FIN"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 O-O 6. Bd3 Na6 7. O-O c5 8. d5
+Rb8 9. Kh1 b6 10. a3 Nc7 11. Qe1 e6 12. dxe6 fxe6 13. e5 Nfe8 14. Ng5 dxe5 15.
+Qh4 h6 16. Nf3 Qxh4 17. Nxh4 g5 18. fxg5 Rxf1+ 19. Bxf1 hxg5 20. Bxg5 Bb7 21.
+Re1 Nd6 22. Ng6 Nd5 23. Nxe5 Nxc3 24. bxc3 Ne4 25. Nf3 Bxc3 26. Re3 Bd4 27.
+Nxd4 cxd4 28. Rf3 Rc8 29. Bf4 Rxc2 30. Kg1 Rc3 31. Bb8 Rc1 32. Bf4 Ra1 33. h4
+d3 34. Rxd3 Rxf1+ 35. Kxf1 Ba6 36. Ke2 Nc5 37. Bb8 Bxd3+ 38. Ke3 Bf1 39. Bxa7
+Nd7 40. g4 Kf7 0-1

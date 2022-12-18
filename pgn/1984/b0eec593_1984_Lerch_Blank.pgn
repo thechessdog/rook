@@ -1,0 +1,17 @@
+[Event "corr FRG/M"]
+[Site "corr FRG/M"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Lerch, R."]
+[Black "Blank, B."]
+[Result "1-0"]
+[ECO "D41"]
+[Opening "QGD"]
+[Variation "Semi-Tarrasch, 5.cd"]
+[HashCode "b0eec593"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 c5 3. Nf3 e6 4. Nc3 d5 5. cxd5 exd5 6. Bg5 Be6 7. Bxf6 Qxf6
+8. e4 dxe4 9. Bb5+ Nd7 10. Nxe4 Qf5 11. Qe2 Rd8 12. Ne5 Be7 13. Nxd7 Rxd7
+14. Bxd7+ Kxd7 15. Nxc5+ Bxc5 16. dxc5 Qxc5 17. O-O Rc8 18. Qd2+ 1-0
+

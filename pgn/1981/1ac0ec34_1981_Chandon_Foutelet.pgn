@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Chandon"]
+[Black "Foutelet"]
+[Result "0-1"]
+[ECO "C50"]
+[Opening "Rousseau gambit"]
+[HashCode "1ac0ec34"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 f5 4. d4 Qe7 5. O-O fxe4 6. Ng5 Nxd4 7. Bf7+ Kd8
+8. Bxg8 Rxg8 9. Nxh7 g5 10. Nxf8 g4 11. Nc3 d5 12. Nxe4 Bf5 13. Re1 Qxf8
+14. Ng5 Kd7 15. c3 Nc2 16. f3 Nxe1 17. Qa4+ c6 18. Qb3 Kc7 19. fxg4 Nxg2
+20. Kxg2 Rxg5 0-1
+

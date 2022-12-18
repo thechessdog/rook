@@ -1,0 +1,29 @@
+[Event "Aarhus"]
+[Site "Aarhus"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Nielsen, Jens"]
+[Black "Hansen, Curt"]
+[Result "0-1"]
+[ECO "E16"]
+[Opening "Queen's Indian"]
+[Variation "Riumin variation"]
+[HashCode "cb80c0da"]
+[Epoch "Rook"]
+[WhiteID "1409310"]
+[BlackID "1400010"]
+[WhiteCountry "DEN"]
+[BlackCountry "DEN"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 b6 4. g3 Bb7 5. Bg2 Bb4+ 6. Bd2 Be7 7. Nc3 O-O 8. O-O
+d5 9. Ne5 c6 10. Bf4 Nfd7 11. Qb3 a6 12. e4 Nxe5 13. Bxe5 dxc4 14. Qxc4 Nd7 15.
+Bf4 b5 16. Qe2 c5 17. Rfd1 b4 18. Na4 cxd4 19. Rxd4 Bc6 20. b3 Qe8 21. e5 Bxg2
+22. Kxg2 f6 23. Qc4 Bd8 24. Qc6 Ra7 25. Be3 Qf7 26. Rad1 Nxe5 27. Qc5 Qb7+ 28.
+Kf1 Be7 29. Qb6 Qxb6 30. Nxb6 Bc5 31. Rd8 Bxe3 32. fxe3 Rb7 33. R8d6 Re8 34.
+Ke2 a5 35. R1d2 Kf7 36. Na4 Rc8 37. Ra6 Rd7 38. Rxd7+ Nxd7 39. Kd2 Ne5 40. Ra7+
+Kg6 41. Rxa5 Nf3+ 42. Kd3 Rc1 43. Rb5 Ne5+ 44. Ke4 Rc2 45. Rxb4 Rxa2 46. Nc5
+Ra5 47. Nb7 Rd5 48. Rb6 f5+ 49. Kf4 Kf6 50. e4 g5+ 51. Ke3 Ng4+ 52. Ke2 Re5 53.
+h3 Rxe4+ 54. Kd2 Ne3 55. Nc5 Nf1+ 56. Kd3 Re1 57. g4 Ng3 58. gxf5 Kxf5 59. b4
+e5 60. Rb8 e4+ 61. Kd2 Re2+ 62. Kc3 e3 63. Re8 Nh5 64. b5 Nf4 65. Rf8+ Kg6 66.
+Nd3 Nxd3 67. Kxd3 Rb2 68. Kxe3 Rxb5 69. Kf3 Rf5+ 70. Rxf5 Kxf5 71. Kg3 h6 72.
+Kf3 h5 0-1

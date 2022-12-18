@@ -1,0 +1,18 @@
+[Event "Bagneaux"]
+[Site "Bagneaux"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Pierre"]
+[Black "Kovacs"]
+[Result "0-1"]
+[ECO "C69"]
+[Opening "Ruy Lopez"]
+[Variation "exchange, Gligoric variation"]
+[HashCode "56f0dbe1"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O f6 6. d4 exd4 7. Nxd4 c5
+8. Nb3 Qxd1 9. Rxd1 Bd6 10. Be3 b6 11. Nc3 Be6 12. Rd2 O-O-O 13. Rad1 Ne7
+14. Na4 c4 15. Nc1 Be5 16. Ne2 Rxd2 17. Rxd2 Rd8 18. Rxd8+ Kxd8 19. Bf4 Nc6
+20. Bxe5 fxe5 21. a3 Nd4 22. Nxd4 exd4 23. f4 Bd7 24. b3 Bxa4 0-1
+

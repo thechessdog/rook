@@ -1,0 +1,20 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Burgos, Carlos"]
+[Black "Uria"]
+[Result "1-0"]
+[ECO "B31"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (with ...g6, without ...d6)"]
+[HashCode "b4738585"]
+[Epoch "Rook"]
+[WhiteID "104825"]
+[WhiteCountry "ARG"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. Qe2 e5 6. Bxc6 bxc6 7. c3 Ne7 8.
+Rd1 Qb6 9. c4 O-O 10. Nc3 d6 11. d3 h6 12. Rb1 f5 13. Na4 Qc7 14. b4 Rb8 15.
+Ba3 cxb4 16. Rxb4 Rxb4 17. Bxb4 c5 18. Bd2 fxe4 19. dxe4 Bg4 20. Nc3 Nc6 21.
+Be3 a6 22. Rb1 g5 23. Nd5 Qf7 24. h3 Bh5 25. g4 Nd4 26. Bxd4 Qxf3 27. Qxf3 Rxf3
+28. Be3 Be8 29. Ne7+ 1-0

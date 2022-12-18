@@ -1,0 +1,20 @@
+[Event "corr EU"]
+[Site "corr EU"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Sefc, Jan"]
+[Black "Ude"]
+[Result "1-0"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, 6.Bd3"]
+[HashCode "7affd312"]
+[Epoch "Rook"]
+[WhiteCountry "SVK"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 O-O 6. Bd3 Nc6 7. Be3 Bg4 8. h3
+Bxf3 9. Qxf3 e5 10. dxe5 dxe5 11. f5 Nd4 12. Qf2 b5 13. g4 b4 14. Ne2 c5 15.
+Ng3 Nd7 16. g5 c4 17. Bxc4 Rc8 18. Bd3 f6 19. h4 Rc6 20. Bxd4 exd4 21. fxg6
+fxg5 22. gxh7+ Kh8 23. Nf5 Ne5 24. O-O-O Qa5 25. Kb1 g4 26. Qg1 Nxd3 27. Rxd3
+Ra6 28. a3 Rxf5 29. exf5 Qxf5 30. Qg3 bxa3 31. Rxa3 Be5 32. Qb3 Rg6 33. Rxa7 g3
+34. Qd5 1-0

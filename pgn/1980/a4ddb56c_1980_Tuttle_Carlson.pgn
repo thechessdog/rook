@@ -1,0 +1,20 @@
+[Event "corr USCCC"]
+[Site "corr USCCC"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Tuttle"]
+[Black "Carlson, Curtis"]
+[Result "0-1"]
+[ECO "E30"]
+[Opening "Nimzo-Indian"]
+[Variation "Leningrad variation"]
+[HashCode "a4ddb56c"]
+[Epoch "Rook"]
+[BlackID "2002868"]
+[BlackCountry "USA"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Bg5 h6 5. Bh4 c5 6. d5 Bxc3+ 7. bxc3 e5 8. e3
+d6 9. f3 Qa5 10. Qc2 Nbd7 11. Bd3 b5 12. e4 bxc4 13. Bxc4 Nb6 14. Bd3 Na4 15.
+Ne2 Rb8 16. O-O c4 17. Bxc4 Qc5+ 18. Bf2 Qxc4 19. Rab1 Rxb1 20. Rxb1 Nb6 21.
+Rb4 Qc7 22. f4 Nfd7 23. fxe5 Nxe5 24. Nd4 Bd7 25. Nf5 Bxf5 26. exf5 Nxd5 27.
+Rb5 Nb6 28. a4 O-O 29. f6 gxf6 30. Be3 Rc8 0-1

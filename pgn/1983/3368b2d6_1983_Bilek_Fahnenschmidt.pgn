@@ -1,0 +1,20 @@
+[Event "Bundesliga 8283"]
+[Site "Duitsland tt"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Bilek, Michael"]
+[Black "Fahnenschmidt, Gerhard"]
+[Result "1/2-1/2"]
+[ECO "E12"]
+[Opening "Queen's Indian"]
+[Variation "4.Nc3"]
+[HashCode "3368b2d6"]
+[Epoch "Rook"]
+[WhiteID "4601416"]
+[WhiteCountry "GER"]
+[BlackID "4600568"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 b6 4. Nc3 Bb4 5. Qb3 c5 6. a3 Bxc3+ 7. Qxc3 O-O 8.
+Bg5 Bb7 9. e3 cxd4 10. Qxd4 d5 11. cxd5 Bxd5 12. e4 Bb7 13. Qxd8 Rxd8 14. e5 h6
+15. Bh4 1/2-1/2

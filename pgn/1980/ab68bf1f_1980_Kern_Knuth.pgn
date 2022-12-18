@@ -1,0 +1,18 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Kern, Manfred"]
+[Black "Knuth"]
+[Result "0-1"]
+[ECO "C44"]
+[Opening "Scotch gambit"]
+[Variation "Dubois-Reti defence"]
+[HashCode "ab68bf1f"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d4 exd4 5. e5 Ne4 6. O-O d5 7. Bb5 Bg4 8.
+h3 h5 9. hxg4 hxg4 10. Nh2 Qh4 11. Bf4 g3 12. Bxg3 Nxg3 13. fxg3 Qxh2+ 14.
+Kf2 Bc5 15. Kf3 O-O-O 16. Bxc6 bxc6 17. Qe2 Bb6 18. Nc3 dxc3 19. Rh1 Qxh1
+20. Rxh1 Rxh1 21. b3 d4 22. Qd3 Rh5 23. Kf4 Rd5 0-1
+

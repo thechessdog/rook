@@ -1,0 +1,20 @@
+[Event "corr ch11-DDR"]
+[Site "corr ch11-DDR"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Mueller, P."]
+[Black "Kretschmer, H."]
+[Result "0-1"]
+[ECO "B74"]
+[Opening "Sicilian"]
+[Variation "dragon, classical, Alekhine variation"]
+[HashCode "133d3a24"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be2 Bg7 7. Be3 O-O
+8. O-O Nc6 9. Nb3 a5 10. a4 Be6 11. f4 Qc8 12. h3 Nb4 13. Bf3 Rd8 14. Rf2
+d5 15. Bb6 Rd6 16. e5 Rxb6 17. exf6 Bxf6 18. Nd4 Qc5 19. Ncb5 Rxb5 20. Nxb5
+Bh4 21. Qd4 Bxf2+ 22. Kxf2 Qxc2+ 23. Kg1 Rc8 24. Kh2 Qc5 25. Qd2 Bd7 26.
+Nc3 Bc6 27. f5 d4 28. fxg6 Bxf3 29. gxf7+ Kg7 30. gxf3 dxc3 31. bxc3 Qe5+
+32. Kh1 Nd5 33. Rg1+ 0-1
+

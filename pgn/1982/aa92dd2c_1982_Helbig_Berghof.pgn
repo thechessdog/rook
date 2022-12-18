@@ -1,0 +1,18 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Helbig, D."]
+[Black "Berghof"]
+[Result "0-1"]
+[ECO "C05"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation"]
+[HashCode "aa92dd2c"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Ngf3 c5 6. c3 Nc6 7. Bb5 Qb6 8.
+Ba4 cxd4 9. Bxc6 bxc6 10. cxd4 Ba6 11. Nb3 c5 12. dxc5 Nxc5 13. Nxc5 Bxc5
+14. Qc2 Rc8 15. Qa4+ Kf8 16. Qh4 Qb5 17. Ng1 Qf1+ 18. Kd2 Be3+ 19. fxe3
+Rc2+ 20. Kxc2 Qd3# 0-1
+

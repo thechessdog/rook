@@ -1,0 +1,20 @@
+[Event "corr Italy"]
+[Site "corr Italy"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Mostert"]
+[Black "Bianchi, Guillermo"]
+[Result "0-1"]
+[ECO "C83"]
+[Opening "Ruy Lopez"]
+[Variation "open, classical defence"]
+[HashCode "02d1f5e7"]
+[Epoch "Rook"]
+[BlackID "100080"]
+[BlackCountry "ARG"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Be6 9. c3 Be7 10. Nbd2 O-O 11. Bc2 f5 12. Qe2 Qe8 13. Nb3 Nd8 14. Nfd4 c5 15.
+Nxe6 Nxe6 16. f3 N4g5 17. h4 Nf7 18. Bxf5 Bxh4 19. f4 Nh6 20. Bxe6+ Qxe6 21.
+Nxc5 Qe7 22. Nb3 Nf5 23. Qd3 Bg3 24. Nd2 Qa7+ 25. Kh1 Qb6 26. Qxd5+ Kh8 27. e6
+Rad8 0-1

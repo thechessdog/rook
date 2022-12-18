@@ -1,0 +1,22 @@
+[Event "corr DDR/H"]
+[Site "corr DDR/H"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Stamberger"]
+[Black "Kaspers"]
+[Result "1/2-1/2"]
+[ECO "E07"]
+[Opening "Catalan"]
+[Variation "closed, 6...Nbd7"]
+[HashCode "49d0f592"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Bg2 Be7 5. Nf3 O-O 6. O-O Nbd7 7. Nc3 dxc4
+8. Qc2 c6 9. Nd2 Nb6 10. e3 Nfd5 11. a3 c5 12. dxc5 Bxc5 13. Nce4 Bxe3 14.
+Nxc4 Bxc1 15. Raxc1 Nxc4 16. Qxc4 Qe7 17. Nc5 Rd8 18. Rfe1 Nf6 19. b4 Rb8
+20. Qf4 e5 21. Rxe5 Qd6 22. Rce1 Rf8 23. Ne4 Nxe4 24. Qxe4 Be6 25. h4 Rfd8
+26. Kh2 h6 27. f4 Qd3 28. f5 Qxe4 29. Bxe4 Rd2+ 30. Kh3 Bd7 31. g4 b6 32.
+b5 Rc8 33. Re3 Kf8 34. Bd3 Re8 35. Rxe8+ Bxe8 36. Bc4 Rc2 37. Bb3 Rc1 38.
+a4 f6 39. Kg3 Rc7 40. Kf4 Bd7 41. Ke4 Rc5 42. Bd5 Ke7 43. Kf4+ Kd6 44. Bb3
+a6 45. Rd3+ 1/2-1/2
+

@@ -1,0 +1,23 @@
+[Event "Ann Arbor ch-MI op"]
+[Site "Ann Arbor ch-MI op"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Davis, L."]
+[Black "Lehotzky, A."]
+[Result "0-1"]
+[ECO "B94"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.Bg5"]
+[HashCode "4e18fd69"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e5 7. Bxf6 Qxf6
+8. Nd5 Qd8 9. Nb3 Nc6 10. Be2 Be7 11. O-O O-O 12. Nd2 f5 13. f3 Be6 14. Nc4
+Nd4 15. Ncb6 Bxd5 16. Nxd5 Rc8 17. c3 Nxe2+ 18. Qxe2 f4 19. Rfd1 Rf7 20.
+Nxe7+ Qxe7 21. Rd5 Rf6 22. Rad1 h5 23. Qd3 Rc6 24. Rd2 g5 25. Qe2 Rg6 26.
+Qd1 g4 27. Kh1 Qh4 28. Qf1 Qg5 29. R5d3 h4 30. Rd5 h3 31. R5d3 hxg2+ 32.
+Rxg2 g3 33. hxg3 fxg3 34. Qe1 Qh4+ 35. Kg1 Kh8 36. Rdd2 Rc7 37. Qe3 Rh7 38.
+Kf1 Rf6 39. Ke2 Rhf7 40. Rd3 Qh3 41. Qg1 Rg7 42. Rd1 Kg8 43. Qh1 Qc8 44.
+Qh4 Qc4+ 45. Ke3 Qc5+ 46. Ke2 Qb5+ 47. Ke3 Qb6+ 48. Ke2 Qxb2+ 49. Rd2 Qb5+
+50. Ke3 Qc5+ 51. Ke2 Qc4+ 52. Ke3 Qxc3+ 53. Rd3 Rxf3+ 54. Kxf3 Qxd3# 0-1
+

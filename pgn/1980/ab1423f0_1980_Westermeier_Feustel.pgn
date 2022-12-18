@@ -1,0 +1,18 @@
+[Event "BL8081"]
+[Site "BL8081"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Westermeier, Arnulf"]
+[Black "Feustel, Bernd"]
+[Result "1/2-1/2"]
+[ECO "B06"]
+[Opening "Robatsch (modern) defence"]
+[HashCode "ab1423f0"]
+[Epoch "Rook"]
+[WhiteID "4604288"]
+[BlackID "4601742"]
+[WhiteCountry "GER"]
+[BlackCountry "GER"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. Be3 Nf6 5. f3 O-O 6. Qd2 e5 7. d5 Nbd7 8. Nh3
+Nb6 9. Nf2 c6 10. O-O-O cxd5 11. exd5 Bd7 12. g4 1/2-1/2

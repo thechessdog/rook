@@ -1,0 +1,22 @@
+[Event "Reykjavik op"]
+[Site "Reykjavik"]
+[Date "1984.01.01"]
+[Round "4"]
+[White "Halldorsson, Gudmundur"]
+[Black "Gretarsson, Andri A"]
+[Result "1-0"]
+[ECO "B93"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.f4"]
+[HashCode "5077cd45"]
+[Epoch "Rook"]
+[WhiteID "2300494"]
+[WhiteCountry "ISL"]
+[BlackID "2300249"]
+[BlackCountry "ISL"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 Qc7 7. Bd3 b5 8. Nf3
+Nbd7 9. O-O Bb7 10. Qe2 e5 11. Nh4 b4 12. Na4 exf4 13. Bxf4 Qa5 14. b3 O-O-O
+15. c3 bxc3 16. Rac1 Kb8 17. Rxc3 Re8 18. Bd2 Qd8 19. Bxa6 Bxe4 20. Qb5+ Ka8
+21. Rc8+ Qxc8 22. Bxc8 Rxc8 23. Nb6+ Nxb6 24. Qxb6 Nd5 25. Qa6+ Kb8 26. Qb5+
+Ka8 27. Qa4+ 1-0

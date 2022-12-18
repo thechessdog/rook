@@ -1,0 +1,23 @@
+[Event "Bundesliga 8283"]
+[Site "Duitsland tt"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Preker, Hans Juergen"]
+[Black "Dausch, Rene"]
+[Result "0-1"]
+[ECO "C46"]
+[Opening "Four knights"]
+[Variation "Italian variation"]
+[HashCode "5c9bf627"]
+[Epoch "Rook"]
+[WhiteID "4607724"]
+[WhiteCountry "GER"]
+[BlackID "4621166"]
+[BlackCountry "GER"]
+
+1. e4 Nf6 2. Nc3 e5 3. Nf3 Nc6 4. Bc4 Nxe4 5. Nxe4 d5 6. Bd3 dxe4 7. Bxe4 Bd6
+8. O-O O-O 9. c3 Kh8 10. Re1 Bg4 11. Qa4 Bd7 12. Qb3 f5 13. Bxc6 Bxc6 14. Nxe5
+Bxe5 15. Rxe5 Qg5 16. g3 Qg4 17. d4 Rae8 18. c4 Qxd4 19. Rxe8 Rxe8 20. Bf4 Qe4
+21. f3 Qd4+ 22. Kf1 h6 23. Rd1 Qf6 24. Kf2 Kh7 25. Rd3 g5 26. Be3 f4 27. Bd4
+Qe6 28. Qd1 Qh3 29. Qg1 g4 30. Ra3 gxf3 31. Rxf3 Bxf3 32. Kxf3 Qh5+ 33. g4 Qg6
+34. Qd1 Qe4+ 35. Kf2 Rd8 0-1

@@ -1,0 +1,18 @@
+[Event "Kiev"]
+[Site "Kiev"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Palatnik, Semon"]
+[Black "Perevertkin, Vladim"]
+[Result "1/2-1/2"]
+[ECO "E06"]
+[Opening "Catalan"]
+[Variation "closed, 5.Nf3"]
+[HashCode "12e04eb4"]
+[Epoch "Rook"]
+[WhiteID "2014610"]
+[WhiteCountry "USA"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Bg2 Be7 5. Nf3 O-O 6. O-O c6 7. Qc2 b5 8. c5
+Nbd7 9. Nbd2 Qc7 10. e4 e5 11. b4 a5 12. bxa5 Rxa5 13. Bb2 exd4 14. Nxd4 Nxc5
+15. Rfd1 dxe4 16. Nxe4 Ncxe4 17. Bxe4 c5 18. Nc6 1/2-1/2

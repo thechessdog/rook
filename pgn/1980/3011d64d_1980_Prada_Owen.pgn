@@ -1,0 +1,17 @@
+[Event "corr ICCF"]
+[Site "corr ICCF"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Prada, Rubin"]
+[Black "Owen"]
+[Result "1-0"]
+[ECO "C21"]
+[Opening "Danish gambit"]
+[HashCode "3011d64d"]
+[Epoch "Rook"]
+
+1. e4 e5 2. d4 exd4 3. c3 dxc3 4. Bc4 cxb2 5. Bxb2 Nc6 6. Nf3 d6 7. Nc3 Be7
+8. Qb3 Nh6 9. Nd5 f6 10. Nf4 Na5 11. Qa4+ c6 12. Nd4 Nxc4 13. Qxc4 Bf8 14.
+O-O Qc7 15. Nde6 Bxe6 16. Nxe6 Qe7 17. f4 Nf7 18. Ba3 Nd8 19. Nxf8 Rxf8 20.
+e5 fxe5 21. Rae1 Ne6 22. Rxe5 1-0
+

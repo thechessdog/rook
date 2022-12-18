@@ -1,0 +1,22 @@
+[Event "corr ol8"]
+[Site "corr ol8"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Richardson, K."]
+[Black "Thiele, E."]
+[Result "0-1"]
+[ECO "C85"]
+[Opening "Ruy Lopez"]
+[Variation "Exchange variation doubly deferred (DERLD)"]
+[HashCode "c5adaa7d"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Bxc6 dxc6 7. Nc3 Bg4
+8. h3 Bh5 9. g4 Nxg4 10. hxg4 Bxg4 11. Kg2 Qc8 12. Rg1 Bh5 13. Kh2 f5 14.
+Qe2 Rf8 15. Qe3 f4 16. Qd3 Qe6 17. Ne1 f3 18. Qf1 Rf4 19. Rg3 Rh4+ 20. Rh3
+Bg4 21. Rxh4 Bxh4 22. d3 Qf7 23. Nxf3 Bxf3 24. Qh3 Qh5 25. Qe6+ Kd8 26. Qf5
+Bxf2+ 27. Qxh5 Bxh5 28. Kg2 Bd4 29. Bg5+ Kd7 30. Rh1 Bg6 31. Nd1 Rf8 32.
+Bd2 b5 33. b4 Ke6 34. Rh3 Bb6 35. Rg3 c5 36. Rg5 cxb4 37. Bxb4 Re8 38. Be1
+c6 39. Bg3 Kd6 40. Nf2 Be3 41. Rg4 b4 42. Nh3 a5 43. Ng1 c5 44. Nf3 Re6 45.
+Nh4 Rf6 46. Nf3 Rxf3 0-1
+

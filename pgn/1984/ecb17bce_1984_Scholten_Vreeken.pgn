@@ -1,0 +1,21 @@
+[Event "HMC"]
+[Site "HMC"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Scholten, H."]
+[Black "Vreeken, C."]
+[Result "1-0"]
+[ECO "D85"]
+[Opening "Gruenfeld"]
+[Variation "modern exchange variation"]
+[HashCode "ecb17bce"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Nf3 c5
+8. Rb1 cxd4 9. cxd4 O-O 10. Be2 Bg4 11. d5 Na6 12. O-O Nc5 13. h3 Bc8 14.
+Qc2 b6 15. Ba3 Nd7 16. d6 exd6 17. Bxd6 Bb7 18. Bxf8 Qxf8 19. Bc4 Nf6 20.
+Ng5 h6 21. Nxf7 Kh7 22. Rbe1 Rc8 23. Qd3 Rc7 24. Ne5 Qc5 25. Bd5 Nxd5 26.
+exd5 Qd6 27. f4 Bxd5 28. Rd1 Bxe5 29. fxe5 Qc5+ 30. Qd4 Qxd4+ 31. Rxd4 Bxa2
+32. Rd6 Re7 33. Rff6 Bb1 34. Rfe6 Rf7 35. Re8 Kg7 36. e6 Rf8 37. Rd7+ Kg8
+38. Red8 Bf5 39. e7 Re8 40. Rxe8+ Kf7 41. Rf8+ 1-0
+

@@ -1,0 +1,20 @@
+[Event "Rome"]
+[Site "Rome"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Lobron, Eric"]
+[Black "Velikov, Petar"]
+[Result "1/2-1/2"]
+[ECO "B42"]
+[Opening "Sicilian"]
+[Variation "Kan, Polugaievsky variation"]
+[HashCode "62c04af1"]
+[Epoch "Rook"]
+[WhiteID "4600037"]
+[WhiteCountry "GER"]
+[BlackID "2900149"]
+[BlackCountry "FID"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Bc5 6. Nb3 Ba7 7. Qe2 Nc6 8.
+Nc3 d6 9. Be3 Bxe3 10. Qxe3 Nf6 11. O-O-O Qc7 12. f4 O-O 13. Rhg1 b5 14. g4 b4
+15. g5 Ne8 16. a3 1/2-1/2

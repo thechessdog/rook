@@ -1,0 +1,17 @@
+[Event "Dayton,OH"]
+[Site "Dayton,OH"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Campelli, Cris"]
+[Black "Wall, Bill"]
+[Result "0-1"]
+[ECO "A40"]
+[Opening "Queen's pawn"]
+[Variation "Charlick (Englund) gambit"]
+[HashCode "199b33dc"]
+[Epoch "Rook"]
+[BlackCountry "USA"]
+
+1. d4 e5 2. dxe5 d6 3. exd6 Bxd6 4. Nc3 Nf6 5. Bg5 O-O 6. Nd5 Nbd7 7. Nf3 c6 8.
+Nxf6+ Nxf6 9. e4 Qa5+ 10. c3 Nxe4 11. b4 Qc7 12. Qc2 Re8 13. Be2 Bf5 14. Nd4
+Ng3 15. Nxf5 Rxe2+ 16. Qxe2 Nxe2 17. Kxe2 Bxb4 18. cxb4 Qe5+ 0-1

@@ -1,0 +1,18 @@
+[Event "corr CCLA"]
+[Site "corr CCLA"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Andersson, Ulf"]
+[Black "Barber"]
+[Result "1-0"]
+[ECO "B60"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Larsen variation"]
+[HashCode "84482f70"]
+[Epoch "Rook"]
+[WhiteID "1700014"]
+[WhiteCountry "SWE"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 Bd7 7. Qd3 Nxd4 8.
+Qxd4 Qa5 9. Bd2 e5 10. Qd3 Rc8 11. Nd5 Qd8 12. Bg5 Be7 13. Nxe7 Qxe7 14. O-O-O
+Rc6 15. f4 1-0

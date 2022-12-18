@@ -1,0 +1,18 @@
+[Event "corr ch-GB"]
+[Site "corr ch-GB"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Bryson"]
+[Black "Jenkins"]
+[Result "1-0"]
+[ECO "C44"]
+[Opening "Scotch"]
+[Variation "Goering gambit"]
+[HashCode "c774e9db"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. c3 Nf6 5. e5 Ne4 6. Qe2 f5 7. exf6 d5 8.
+Nbd2 d3 9. Qe3 Bc5 10. fxg7 Rg8 11. Nd4 Rxg7 12. Bxd3 Bf5 13. O-O Qf6 14.
+Bxe4 Bxd4 15. cxd4 Re7 16. Bxf5 Rxe3 17. fxe3 Qg5 18. Nb3 Ke7 19. e4 Qg7
+20. exd5 Rg8 21. Bh3 Nxd4 22. Nxd4 Qxd4+ 23. Kh1 Qg7 24. Bf4 1-0
+

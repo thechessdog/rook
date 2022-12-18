@@ -1,0 +1,19 @@
+[Event "Poland"]
+[Site "Poland"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Adamski, Jan"]
+[Black "Panczyk, Krzysztof"]
+[Result "1/2-1/2"]
+[ECO "A13"]
+[Opening "English"]
+[Variation "Neo-Catalan"]
+[HashCode "f85fb70a"]
+[Epoch "Rook"]
+[BlackID "1100211"]
+[WhiteID "1100190"]
+[WhiteCountry "POL"]
+[BlackCountry "POL"]
+
+1. c4 e6 2. Nf3 Nf6 3. g3 d5 4. b3 Be7 5. Bg2 O-O 6. Bb2 c5 7. cxd5 Nxd5 8. Nc3
+Bf6 9. Qc1 Nc6 10. Nxd5 Bxb2 11. Qxb2 exd5 12. O-O 1/2-1/2

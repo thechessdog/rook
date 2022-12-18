@@ -1,0 +1,14 @@
+[Event "corr CCLA"]
+[Site "corr CCLA"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Keast"]
+[Black "Footner"]
+[Result "1-0"]
+[ECO "B40"]
+[Opening "Sicilian defence"]
+[HashCode "209bdf35"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 e6 3. c3 d5 4. exd5 exd5 5. d4 Nc6 6. Be3 cxd4 7. Nxd4 1-0
+

@@ -1,0 +1,19 @@
+[Event "IBM"]
+[Site "Amsterdam"]
+[Date "1980.06.01"]
+[Round "1"]
+[White "Sosonko, Gennadi"]
+[Black "Karpov, Anatoly"]
+[Result "1/2-1/2"]
+[ECO "E06"]
+[Opening "Catalan"]
+[Variation "closed, 5.Nf3"]
+[HashCode "5faebbfb"]
+[Epoch "Rook"]
+[WhiteID "1000039"]
+[WhiteCountry "NED"]
+[BlackID "4100026"]
+[BlackCountry "RUS"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Bg2 Be7 5. Nf3 O-O 6. Qb3 c5 7. O-O Nc6 8. cxd5
+Qxd5 9. Qxd5 Nxd5 10. dxc5 Bxc5 11. Bd2 Rd8 12. Nc3 1/2-1/2

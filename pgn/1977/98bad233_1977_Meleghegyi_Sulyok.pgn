@@ -1,0 +1,25 @@
+[Event "Salgo"]
+[Site "Salgo"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Meleghegyi, C."]
+[Black "Sulyok, S."]
+[Result "1-0"]
+[ECO "D15"]
+[Opening "QGD Slav"]
+[Variation "4.Nc3"]
+[HashCode "98bad233"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 d5 3. Nc3 c6 4. Nf3 Bf5 5. Qb3 b6 6. Ne5 dxc4 7. Qxc4 Be6
+8. Qd3 g6 9. g3 Bg7 10. Bg2 Qc8 11. Bf4 O-O 12. Rc1 Nh5 13. Be3 Rd8 14. Qe4
+f5 15. Qf3 Bxe5 16. dxe5 Qa6 17. O-O Qa5 18. Rfd1 Rc8 19. Bg5 Qxe5 20. Bxe7
+Nd7 21. Bd6 Qg7 22. b4 a5 23. Qe3 Qf7 24. b5 cxb5 25. Nxb5 Rxc1 26. Rxc1
+Bd5 27. Bxd5 Qxd5 28. Nc7 Qxd6 29. Nxa8 Nhf6 30. Nc7 Kf7 31. Qb3+ Ke7 32.
+Nb5 Qd2 33. Rd1 Qxe2 34. Nd4 Qe4 35. f3 Qd5 36. Qxd5 Nxd5 37. Nxf5+ Ke6 38.
+Ne3 Nc3 39. Rd2 Ne5 40. Kg2 b5 41. f4 Nc6 42. Kf3 Nb1 43. Rb2 Nc3 44. Kg4
+b4 45. Kg5 a4 46. Nc2 a3 47. Nxa3 bxa3 48. Rc2 Ne4+ 49. Kh6 Ne7 50. Kxh7
+Kf7 51. Rc7 Nf6+ 52. Kh6 Ng4+ 53. Kg5 Nxh2 54. Rc3 Nf1 55. Rxa3 Nd2 56. Ra7
+Ne4+ 57. Kg4 Nd6 58. a4 Ke8 59. Kh4 Kd8 60. g4 Ndc8 61. Ra6 Kc7 62. Kg5 Nd6
+63. Kf6 Ndc8 64. Ra5 Kd6 65. Re5 Nd5+ 66. Rxd5+ Kxd5 67. Kxg6 Ke6 1-0
+

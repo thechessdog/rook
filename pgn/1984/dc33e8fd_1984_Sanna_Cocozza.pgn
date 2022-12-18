@@ -1,0 +1,19 @@
+[Event "Nouro"]
+[Site "Nouro"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Sanna, Gianlazzaro"]
+[Black "Cocozza, Mario"]
+[Result "1/2-1/2"]
+[ECO "D88"]
+[Opening "Gruenfeld"]
+[Variation "Spassky variation, main line, 10...cd, 11.cd"]
+[HashCode "dc33e8fd"]
+[Epoch "Rook"]
+[WhiteID "800112"]
+[BlackID "800236"]
+[WhiteCountry "ITA"]
+[BlackCountry "ITA"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Bc4 c5 8.
+Ne2 O-O 9. O-O cxd4 10. cxd4 Nc6 11. Be3 Bg4 12. f3 Na5 1/2-1/2

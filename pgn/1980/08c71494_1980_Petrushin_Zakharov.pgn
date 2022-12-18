@@ -1,0 +1,20 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Petrushin, Alexander I"]
+[Black "Zakharov, Alexander V"]
+[Result "0-1"]
+[ECO "C69"]
+[Opening "Ruy Lopez"]
+[Variation "exchange, Gligoric variation"]
+[HashCode "08c71494"]
+[Epoch "Rook"]
+[WhiteID "4104595"]
+[WhiteCountry "RUS"]
+[BlackCountry "RUS"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O f6 6. d4 Bg4 7. c3 Bd6 8. Be3
+Ne7 9. Nbd2 exd4 10. cxd4 f5 11. Qb3 fxe4 12. Ng5 Nd5 13. Qxb7 O-O 14. Ngxe4
+Be2 15. Rfe1 Bb5 16. a4 Rb8 17. Qa7 Bd3 18. Nc5 Ra8 19. Qb7 Bxc5 20. dxc5 Rb8
+21. Qa7 Qf6 0-1

@@ -1,0 +1,16 @@
+[Event "corr CCLA"]
+[Site "corr CCLA"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "De Bondt"]
+[Black "Ware"]
+[Result "1-0"]
+[ECO "B02"]
+[Opening "Alekhine's defence"]
+[Variation "two pawns' (Lasker's) attack"]
+[HashCode "89db91a9"]
+[Epoch "Rook"]
+
+1. e4 Nf6 2. e5 Nd5 3. c4 Nb6 4. c5 Nd5 5. Nc3 Nxc3 6. dxc3 d6 7. Qb3 Nd7
+1-0
+

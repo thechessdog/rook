@@ -1,0 +1,17 @@
+[Event "corr FRG/C"]
+[Site "corr FRG/C"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Palm, Hans"]
+[Black "Kuhler, W."]
+[Result "1-0"]
+[ECO "D16"]
+[Opening "QGD Slav"]
+[Variation "Smyslov variation"]
+[HashCode "4dfaf6de"]
+[Epoch "Rook"]
+
+1. Nf3 d5 2. c4 c6 3. d4 Nf6 4. Nc3 dxc4 5. a4 Na6 6. e4 Bg4 7. Bxc4 e6 8.
+O-O Be7 9. d5 exd5 10. exd5 Nb4 11. Qb3 O-O 12. Ne5 Bf5 13. d6 Bxd6 14.
+Nxf7 Rxf7 15. Bxf7+ Kf8 16. Bg5 h6 17. Bh5 1-0
+

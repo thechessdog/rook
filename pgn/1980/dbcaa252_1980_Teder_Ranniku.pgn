@@ -1,0 +1,16 @@
+[Event "Tallinn"]
+[Site "Tallinn"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Teder"]
+[Black "Ranniku, Maaja"]
+[Result "0-1"]
+[ECO "B10"]
+[Opening "Caro-Kann"]
+[Variation "closed (Breyer) variation"]
+[HashCode "dbcaa252"]
+[Epoch "Rook"]
+
+1. e4 c6 2. d3 d5 3. Nd2 g6 4. f4 Bg7 5. Ngf3 Nh6 6. Be2 O-O 7. c3 Qb6 8.
+Qb3 Nd7 9. a4 Nc5 10. Qc2 Ng4 11. a5 Nxd3+ 12. Qxd3 Qf2+ 0-1
+

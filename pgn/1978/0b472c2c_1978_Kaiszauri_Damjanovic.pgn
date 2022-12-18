@@ -1,0 +1,22 @@
+[Event "Vilnius"]
+[Site "Vilnius"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Kaiszauri, Konstanty"]
+[Black "Damjanovic, Mato"]
+[Result "1-0"]
+[ECO "B31"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (with ...g6, without ...d6)"]
+[HashCode "0b472c2c"]
+[Epoch "Rook"]
+[WhiteID "1700510"]
+[WhiteCountry "SWE"]
+[BlackCountry "HRV"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. Re1 Nf6 6. e5 Nd5 7. b3 Nc7 8. Bxc6
+dxc6 9. d3 Bg4 10. Nbd2 O-O 11. Bb2 Ne6 12. h3 Bxf3 13. Nxf3 Qd5 14. Re4 f5 15.
+exf6 exf6 16. Qe2 Rae8 17. Re1 Nc7 18. Qd2 b6 19. R1e2 Ne6 20. Qe1 Kf7 21. Ba3
+Qd7 22. d4 Bh6 23. dxc5 b5 24. Bb2 Nxc5 25. Rxe8 Rxe8 26. Rxe8 Qxe8 27. Qxe8+
+Kxe8 28. Bxf6 Ne4 29. Bh8 c5 30. Kf1 Kd7 31. Ke2 Ke6 32. c4 bxc4 33. bxc4 Bf4
+34. Ne1 1-0

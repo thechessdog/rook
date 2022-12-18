@@ -1,0 +1,18 @@
+[Event "corr Axelson mem"]
+[Site "corr Axelson mem"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Boey"]
+[Black "Yim"]
+[Result "0-1"]
+[ECO "C85"]
+[Opening "Ruy Lopez"]
+[Variation "Exchange variation doubly deferred (DERLD)"]
+[HashCode "dac90139"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Bxc6 dxc6 7. Nc3 Bg4
+8. h3 Bh5 9. d3 Qd6 10. Qe2 h6 11. g4 Bg6 12. Nd1 Nd7 13. Ne3 O-O-O 14. b3
+h5 15. g5 Qe6 16. Kh2 Rdf8 17. Rg1 f5 18. gxf6 Nxf6 19. Rxg6 Ng4+ 20. Rxg4
+hxg4 0-1
+

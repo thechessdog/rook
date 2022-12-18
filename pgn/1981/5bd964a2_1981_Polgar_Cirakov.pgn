@@ -1,0 +1,18 @@
+[Event "Targoviste"]
+[Site "Targoviste"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Polgar, Susan"]
+[Black "Cirakov"]
+[Result "1-0"]
+[ECO "A88"]
+[Opening "Dutch"]
+[Variation "Leningrad, main variation with c6"]
+[HashCode "5bd964a2"]
+[Epoch "Rook"]
+[WhiteCountry "USA"]
+
+1. d4 f5 2. c4 Nf6 3. Nf3 g6 4. g3 Bg7 5. Bg2 O-O 6. O-O d6 7. Nc3 c6 8. d5 e5
+9. dxe6 Bxe6 10. Qd3 Na6 11. Ng5 Qe7 12. Bf4 Rad8 13. Rfd1 Ne8 14. Qe3 Nc5 15.
+b4 Ne4 16. Ncxe4 Bxa1 17. Nxh7 fxe4 18. Nxf8 Kxf8 19. Rxa1 Bxc4 20. Bg5 Nf6 21.
+Qd4 1-0

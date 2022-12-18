@@ -1,0 +1,19 @@
+[Event "Novosibirsk"]
+[Site "Novosibirsk"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Osnos, Vyacheslav"]
+[Black "Karpeshov, A."]
+[Result "0-1"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Nimzovich (knight's tour) variation"]
+[HashCode "178cd0ef"]
+[Epoch "Rook"]
+[WhiteCountry "RUS"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. Nd2 Nbd7 8. e4
+Bg7 9. Nc4 Nb6 10. Ne3 O-O 11. g3 Nbd7 12. Bg2 b5 13. a3 b4 14. Ne2 a5 15. Ra2
+Ba6 16. b3 Re8 17. f3 Ne5 18. O-O Qb6 19. Kh1 c4 20. axb4 axb4 21. bxc4 Nxc4
+22. Nxc4 Bxc4 23. Rxa8 Rxa8 24. Qc2 Qb5 25. Nd4 b3 26. Qc3 Nxd5 27. exd5 Bxd4
+28. Qxd4 Bxf1 29. Bb2 Bxg2+ 30. Kxg2 Qe2+ 31. Kh3 Qe5 0-1

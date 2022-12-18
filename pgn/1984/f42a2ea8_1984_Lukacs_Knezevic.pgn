@@ -1,0 +1,20 @@
+[Event "Belgrade"]
+[Site "Belgrade"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Lukacs, Peter"]
+[Black "Knezevic, Milorad"]
+[Result "1/2-1/2"]
+[ECO "E21"]
+[Opening "Nimzo-Indian"]
+[Variation "three knights variation"]
+[HashCode "f42a2ea8"]
+[Epoch "Rook"]
+[WhiteID "700142"]
+[WhiteCountry "HUN"]
+[BlackID "950238"]
+[BlackCountry "SRB"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 Bb4+ 4. Nc3 O-O 5. Bg5 c5 6. e3 cxd4 7. exd4 Be7 8.
+Bd3 d6 9. O-O Nbd7 10. Re1 b6 11. Rc1 Bb7 12. h3 Rc8 13. b4 a6 14. a3 Re8 15.
+Bf4 Bf8 16. Bh2 g6 17. Nd2 e5 1/2-1/2

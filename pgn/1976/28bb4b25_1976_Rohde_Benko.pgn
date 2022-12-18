@@ -1,0 +1,23 @@
+[Event "New York active"]
+[Site "New York active"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Rohde, Michael"]
+[Black "Benko, Pal"]
+[Result "0-1"]
+[ECO "B85"]
+[Opening "Sicilian"]
+[Variation "Scheveningen, classical main line"]
+[HashCode "28bb4b25"]
+[Epoch "Rook"]
+[BlackID "2000687"]
+[BlackCountry "USA"]
+[WhiteID "2000172"]
+[WhiteCountry "USA"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be2 a6 7. f4 Be7 8. O-O
+Qc7 9. Be3 O-O 10. Qe1 Nc6 11. Qg3 Bd7 12. Nf3 Nb4 13. Bd3 Nxd3 14. cxd3 b5 15.
+e5 Ne8 16. Ne4 Bc6 17. Rac1 Qb7 18. Nfd2 Rd8 19. f5 exf5 20. Rxf5 dxe5 21. Rxe5
+Bxe4 22. Nxe4 Rxd3 23. Qf4 Nf6 24. Nxf6+ Bxf6 25. Rec5 Qd7 26. Rc7 Qd5 27. Bc5
+Bg5 28. Qg4 Bxc1 29. Bxf8 Be3+ 30. Kf1 Rd1+ 31. Ke2 Qd3+ 32. Kf3 Bh6+ 33. Kf2
+Rf1# 0-1

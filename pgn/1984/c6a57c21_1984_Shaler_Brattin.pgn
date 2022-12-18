@@ -1,0 +1,17 @@
+[Event "Plymouth ch-MI op"]
+[Site "Plymouth ch-MI op"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Shaler, Te"]
+[Black "Brattin, V."]
+[Result "0-1"]
+[ECO "C57"]
+[Opening "two knights defence"]
+[Variation "Wilkes Barre (Traxler) variation"]
+[HashCode "c6a57c21"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 Bc5 5. Nxf7 Bxf2+ 6. Kf1 Qe7 7. Nxh8
+d5 8. exd5 Nd4 9. h3 Qf8 10. d3 Bg3 11. Kg1 Ng4 12. Qd2 Bf2+ 13. Kf1 Be3+
+14. Ke1 Bxd2+ 15. Kxd2 Qf4+ 16. Kc3 Ne2+ 17. Kb4 a5+ 18. Ka3 Qf8+ 0-1
+

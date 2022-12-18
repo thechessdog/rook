@@ -1,0 +1,16 @@
+[Event "corr EUR/M"]
+[Site "corr EUR/M"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Schulze, P."]
+[Black "Tuominen, M."]
+[Result "0-1"]
+[ECO "B50"]
+[Opening "Sicilian"]
+[HashCode "3eb241d5"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. c3 dxc3 5. Nxc3 Nc6 6. Bc4 e6 7. O-O Nf6
+8. Bg5 Be7 9. Qe2 e5 10. Rfd1 O-O 11. Rac1 Bg4 12. Be3 Qd7 13. Bb5 a6 14.
+Ba4 Rac8 15. Nd5 Bd8 16. Bc5 b5 17. Bb3 Nxd5 18. Rxd5 Nd4 19. Qd3 Bxf3 0-1
+

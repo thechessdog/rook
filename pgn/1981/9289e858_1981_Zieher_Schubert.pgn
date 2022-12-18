@@ -1,0 +1,24 @@
+[Event "Bundesliga 8081"]
+[Site "Duitsland tt"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Zieher, Hartmut"]
+[Black "Schubert, Christian"]
+[Result "1-0"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Byrne (English) attack"]
+[HashCode "9289e858"]
+[Epoch "Rook"]
+[WhiteID "4607821"]
+[WhiteCountry "GER"]
+[BlackID "12906379"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e5 7. Nf3 Qc7 8. a4
+b6 9. Nd5 Nxd5 10. Qxd5 Nc6 11. Ng5 Rb8 12. Bc4 Nd8 13. Qd3 h6 14. Nf3 Qb7 15.
+O-O Be7 16. Ra3 O-O 17. Rb3 Qc6 18. Ra1 Ne6 19. Bxa6 Bxa6 20. Qxa6 Qxc2 21.
+Rxb6 Rbc8 22. h3 Qxe4 23. Qb7 Qxb7 24. Rxb7 Rc7 25. Rxc7 Nxc7 26. b4 Ra8 27. a5
+f5 28. Rc1 Nb5 29. Rc6 f4 30. Bd2 e4 31. Rb6 Na3 32. Nd4 Nc4 33. Rb7 Bf6 34.
+Bc3 e3 35. fxe3 fxe3 36. Ne2 d5 37. Bxf6 gxf6 38. g4 Ra6 39. Rd7 Ne5 40. Rxd5
+Kf7 41. Nd4 Ke7 42. Nf5+ Ke6 43. Nxe3 1-0

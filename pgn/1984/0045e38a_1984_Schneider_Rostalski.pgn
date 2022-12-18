@@ -1,0 +1,20 @@
+[Event "BL2-N 8384"]
+[Site "BL2-N 8384"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Schneider, Bhd"]
+[Black "Rostalski, Walter"]
+[Result "0-1"]
+[ECO "A00"]
+[Opening "Benko's opening"]
+[HashCode "0045e38a"]
+[Epoch "Rook"]
+[BlackID "4605225"]
+[BlackCountry "GER"]
+
+1. g3 e5 2. c4 Nc6 3. Bg2 Nf6 4. Nc3 Bb4 5. e4 O-O 6. Nge2 d6 7. O-O Bc5 8. d3
+Bg4 9. h3 Bh5 10. g4 Bxg4 11. hxg4 Nxg4 12. Bf3 Qh4 13. Bxg4 Qxg4+ 14. Kh2 f5
+15. Ng1 Qh4+ 16. Nh3 f4 17. Qf3 Nd4 18. Qg2 Rf6 19. Rg1 Rg6 20. Qh1 Rxg1 21.
+Kxg1 Rf8 22. Nd5 c6 23. b4 cxd5 24. bxc5 Qg4+ 25. Kf1 Qe2+ 26. Kg2 Rf6 27. Bxf4
+exf4 28. Qd1 f3+ 29. Kh2 dxe4 30. cxd6 Rxd6 31. Qa4 exd3 32. Qxa7 Qe5+ 33. Kh1
+Nc6 0-1

@@ -1,0 +1,21 @@
+[Event "Bogota"]
+[Site "Bogota"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Gutierrez, Jose Antonio"]
+[Black "Minaya, Juan"]
+[Result "1-0"]
+[ECO "B81"]
+[Opening "Sicilian"]
+[Variation "Scheveningen, Keres attack"]
+[HashCode "87147502"]
+[Epoch "Rook"]
+[BlackID "4400283"]
+[BlackCountry "COL"]
+[WhiteCountry "COL"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. g4 h6 7. g5 hxg5 8. Bxg5
+Nc6 9. Nb3 a6 10. Qe2 Qc7 11. O-O-O Bd7 12. Bg2 Be7 13. h4 O-O-O 14. Rh3 Nh5
+15. Qd2 f6 16. Be3 Ne5 17. Bf1 Kb8 18. f4 Nc4 19. Bxc4 Qxc4 20. Qf2 d5 21. exd5
+exd5 22. Ba7+ Ka8 23. Nxd5 Bxh3 24. Nb6+ Kxa7 25. Nxc4+ Ka8 26. Rxd8+ Bxd8 27.
+Qf3 1-0

@@ -1,0 +1,19 @@
+[Event "Brighton"]
+[Site "Brighton"]
+[Date "1983.12.01"]
+[Round "1"]
+[White "Hodgson, Julian M"]
+[Black "Mednis, Edmar John"]
+[Result "1/2-1/2"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Nimzovich system"]
+[HashCode "070772ee"]
+[Epoch "Rook"]
+[WhiteID "400076"]
+[WhiteCountry "ENG"]
+[BlackCountry "USA"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. Nf3 Nc6 5. Bd3 cxd4 6. O-O Nge7 7. Bf4 Ng6 8. Bg3
+f5 9. exf6 gxf6 10. Nxd4 Nxd4 11. Bxg6+ hxg6 12. Qxd4 Kf7 13. c4 b6 14. cxd5
+Qxd5 15. Qxd5 exd5 16. Rd1 Bb7 17. Nc3 Rd8 18. Nb5 1/2-1/2

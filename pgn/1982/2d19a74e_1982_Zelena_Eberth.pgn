@@ -1,0 +1,17 @@
+[Event "Kecskemet jr"]
+[Site "Kecskemet jr"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Zelena, L."]
+[Black "Eberth, Zoltan"]
+[Result "1-0"]
+[ECO "A36"]
+[Opening "English"]
+[Variation "symmetrical variation"]
+[HashCode "2d19a74e"]
+[Epoch "Rook"]
+[BlackID "702668"]
+[BlackCountry "HUN"]
+
+1. c4 c5 2. Nc3 Nc6 3. g3 b6 4. Bg2 Bb7 5. Nf3 Qc7 6. O-O g6 7. e3 e6 8. d4 Bg7
+9. d5 Na5 10. Nb5 Qc8 11. Nd6+ 1-0

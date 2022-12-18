@@ -1,0 +1,22 @@
+[Event "Athens tt"]
+[Site "Athens"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Makropoulos, Georgios"]
+[Black "Georgiev, Krum"]
+[Result "0-1"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Paulsen attack"]
+[HashCode "808c854f"]
+[Epoch "Rook"]
+[WhiteID "4200047"]
+[WhiteCountry "GRE"]
+[BlackID "2900092"]
+[BlackCountry "FID"]
+
+1. e4 c5 2. c3 e6 3. d4 d5 4. e5 Nc6 5. Nf3 Qb6 6. a3 Nge7 7. b4 cxd4 8. cxd4
+Nf5 9. Bb2 Be7 10. b5 O-O 11. Bd3 a6 12. Nc3 Ncxd4 13. Nxd4 Qxd4 14. Na4 Qa7
+15. g4 Nh4 16. b6 Qb8 17. O-O Bd7 18. f4 Qe8 19. Nc3 Qd8 20. Kh1 Qxb6 21. Rb1
+Qe3 22. Bc1 Qh3 23. Qe2 Bc6 24. Bd2 f5 25. exf6 Bxf6 26. Nd1 d4+ 27. Be4 Bxe4+
+28. Qxe4 Qxf1# 0-1

@@ -1,0 +1,18 @@
+[Event "Plymouth ch-MI op"]
+[Site "Plymouth ch-MI op"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Reno, G."]
+[Black "Staples, C."]
+[Result "0-1"]
+[ECO "B00"]
+[Opening "King's pawn opening"]
+[HashCode "ba95c309"]
+[Epoch "Rook"]
+
+1. e4 d6 2. Nc3 Nf6 3. Nf3 g6 4. h3 Bg7 5. Bc4 O-O 6. d3 a5 7. b3 c6 8. a4
+Nxe4 9. dxe4 Bxc3+ 10. Bd2 Bxa1 11. Qxa1 d5 12. Bh6 f6 13. exd5 cxd5 14.
+Bd3 Rf7 15. O-O Nc6 16. Rd1 e5 17. Nh4 f5 18. g3 Qf6 19. Ng2 g5 20. Bxg5
+Qxg5 21. c4 d4 22. c5 Be6 23. h4 Qf6 24. Kh2 Bxb3 25. Rc1 Bd5 26. Ne1 f4
+27. gxf4 Qxf4+ 28. Kh3 Be6+ 29. Kg2 Qxf2+ 30. Kh1 Bd5+ 31. Ng2 Qxg2# 0-1
+

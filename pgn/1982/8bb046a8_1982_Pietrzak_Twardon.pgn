@@ -1,0 +1,19 @@
+[Event "Poland"]
+[Site "Poland"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Pietrzak, Janusz"]
+[Black "Twardon, Marian"]
+[Result "0-1"]
+[ECO "A00"]
+[Opening "Polish (Sokolsky) opening"]
+[HashCode "8bb046a8"]
+[Epoch "Rook"]
+[WhiteID "1170414"]
+[BlackID "1101021"]
+[WhiteCountry "POL"]
+[BlackCountry "POL"]
+
+1. b4 e5 2. Bb2 Bxb4 3. Bxe5 Nf6 4. e3 Nc6 5. Bb2 d5 6. Nf3 O-O 7. c4 Re8 8.
+cxd5 Nxd5 9. Be2 Qe7 10. O-O Bf5 11. d4 Rad8 12. Bd3 Nxe3 13. Qe2 Bxd3 14. Qxd3
+Nxf1 15. Nc3 Ne5 16. Nxe5 Qxe5 17. Rxf1 Qxd4 18. Qc2 0-1

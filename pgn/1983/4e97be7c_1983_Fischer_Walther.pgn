@@ -1,0 +1,17 @@
+[Event "corr DDR/K"]
+[Site "corr DDR/K"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Fischer, Robert"]
+[Black "Walther"]
+[Result "1-0"]
+[ECO "C05"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation"]
+[HashCode "4e97be7c"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Bd3 c5 6. c3 Nc6 7. Ne2 f6 8. Nf4
+Qe7 9. exf6 Qxf6 10. Nf3 Bd6 11. Nh5 Qe7 12. Qc2 g6 13. dxc5 Bxc5 14. Bg5 Qf7
+15. Nf4 Rg8 16. O-O-O Be7 17. Qd2 Nb6 18. Rhe1 Bd7 19. Bxe7 Nxe7 20. Nxe6 Bxe6
+21. Ng5 Qf6 22. Rxe6 Qg7 23. Bb5+ Kd8 24. Rxb6 1-0

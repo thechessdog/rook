@@ -1,0 +1,19 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Tischbierek, Raj"]
+[Black "Radulov, Ivan"]
+[Result "1/2-1/2"]
+[ECO "C24"]
+[Opening "Bishop's opening"]
+[Variation "Berlin defence"]
+[HashCode "22fd6718"]
+[Epoch "Rook"]
+[WhiteID "4611322"]
+[WhiteCountry "GER"]
+[BlackID "2900300"]
+[BlackCountry "FID"]
+
+1. e4 e5 2. Bc4 Nf6 3. d3 Bc5 4. Nf3 d6 5. O-O Nc6 6. c3 a6 7. Bb3 Ba7 8. Nbd2
+O-O 9. Re1 Be6 10. Nf1 1/2-1/2

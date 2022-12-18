@@ -1,0 +1,17 @@
+[Event "corr GB"]
+[Site "corr GB"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Stimpson, P."]
+[Black "Robertson, J."]
+[Result "1-0"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra gambit"]
+[HashCode "acf40714"]
+[Epoch "Rook"]
+
+1. e4 c5 2. d4 cxd4 3. c3 dxc3 4. Nxc3 d6 5. Nf3 Nc6 6. Bc4 Nf6 7. e5 Ng4
+8. e6 Nge5 9. Nxe5 Nxe5 10. Qa4+ Nc6 11. exf7+ Kd7 12. O-O e6 13. Re1 d5
+14. Bxd5 exd5 15. Nxd5 Qa5 16. Qg4+ Kd6 17. Bf4+ Kc5 18. Rac1+ 1-0
+

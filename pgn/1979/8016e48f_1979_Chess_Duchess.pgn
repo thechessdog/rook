@@ -1,0 +1,24 @@
+[Event "ACM Detroit"]
+[Site "ACM Detroit"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Chess 4 9"]
+[Black "Duchess"]
+[Result "1-0"]
+[ECO "B01"]
+[Opening "Scandinavian"]
+[Variation "Pytel-Wade variation"]
+[HashCode "8016e48f"]
+[Epoch "Rook"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Bf5 5. Nf3 Nc6 6. Nb5 Qd7 7. Bf4 Rc8
+8. Ne5 Nxe5 9. dxe5 Qc6 10. Qf3 Qxf3 11. gxf3 a6 12. Nd4 Bd7 13. O-O-O g6
+14. Nb3 Rd8 15. Na5 Bc8 16. Rxd8+ Kxd8 17. Bc4 Ke8 18. Rd1 Bh6 19. Bd2 Bg7
+20. Bc3 c6 21. e6 Bh6+ 22. Kb1 f6 23. Nxb7 Bxb7 24. Ba5 Kf8 25. Rd7 Bf4 26.
+h3 Be5 27. Rxb7 g5 28. Bxa6 h5 29. a4 Rh6 30. Bc4 f5 31. Bd2 Rg6 32. a5 Bd4
+33. a6 Bxf2 34. a7 Bxa7 35. Rxa7 g4 36. Bc3 Nf6 37. Bb4 Ng8 38. Ra8+ Kg7
+39. Bc3+ Kh6 40. Bd2+ Kg7 41. fxg4 hxg4 42. hxg4 Rxg4 43. Bd3 f4 44. Bc3+
+Kh6 45. Rf8 c5 46. Be5 f3 47. Rxf3 c4 48. Rf4 Rg1+ 49. Bf1 Kg5 50. Rf7 Kh6
+51. Ka2 Rh1 52. Bxc4 Re1 53. Bg7+ Kg5 54. Bf8 Re4 55. Rg7+ Kf6 56. Bd3 Ra4+
+57. Kb3 Ra7 58. Rxg8 Kxe6 59. Bc4+ Ke5 60. Rg7 Rb7+ 61. Kc3 1-0
+

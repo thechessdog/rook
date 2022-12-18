@@ -1,0 +1,23 @@
+[Event "Chicago"]
+[Site "Chicago"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Spinosa"]
+[Black "Kroll, Ove"]
+[Result "1-0"]
+[ECO "B00"]
+[Opening "KP"]
+[Variation "Nimzovich defence"]
+[HashCode "1c4b0956"]
+[Epoch "Rook"]
+[BlackID "1400215"]
+[BlackCountry "DEN"]
+
+1. e4 Nc6 2. d4 d5 3. exd5 Qxd5 4. Nf3 Bg4 5. Nc3 Bxf3 6. Nxd5 Bxd1 7. Nxc7+
+Kd8 8. Nxa8 Bxc2 9. Bf4 e5 10. dxe5 Nge7 11. Bc4 Ng6 12. Be3 Ngxe5 13. Bg5+ Kc8
+14. Bf4 Bb4+ 15. Kf1 Nd3 16. Bxd3 Bxd3+ 17. Kg1 Nd4 18. Rc1+ Kd8 19. Bc7+ Kd7
+20. Rd1 Ne2+ 21. Kf1 Ng3+ 22. Kg1 Nxh1 23. Rxd3+ Kc6 24. Rd8 Rxd8 25. Bxd8 b5
+26. Nc7 Ba5 27. Ne6 Be1 28. Nd4+ Kd7 29. Bh4 g5 30. Nf3 Bb4 31. Bxg5 Kd6 32.
+Kxh1 Kd5 33. Kg1 Kc4 34. a3 Ba5 35. Bf6 Kb3 36. Kf1 Bb6 37. Ke2 a5 38. Bd4 Bc7
+39. Kd3 a4 40. Nd2+ Ka2 41. Kc2 Bd6 42. g3 f5 43. Nf3 h5 44. Ng1 f4 45. Ne2
+fxg3 46. Nc1+ Ka1 47. b3# 1-0

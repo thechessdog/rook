@@ -1,0 +1,18 @@
+[Event "Dayton,OH"]
+[Site "Dayton,OH"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Shirley, Richard"]
+[Black "Wall, Bill"]
+[Result "0-1"]
+[ECO "B92"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Opovcensky variation"]
+[HashCode "a2ad35cf"]
+[Epoch "Rook"]
+[BlackCountry "USA"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nf3 Be6 8. O-O
+Be7 9. Ng5 O-O 10. Nxe6 fxe6 11. Bc4 Qd7 12. f4 b5 13. fxe5 bxc4 14. exf6 Bxf6
+15. Ne2 Nc6 16. c3 Qa7+ 17. Kh1 Be5 18. Nf4 Qe7 19. Qg4 Rf6 20. Be3 Raf8 21.
+Rf3 Bxc3 22. bxc3 Ne5 23. Qg3 Nxf3 24. gxf3 Qf7 25. Rg1 e5 26. Nh5 Rg6 0-1

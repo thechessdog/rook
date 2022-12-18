@@ -1,0 +1,17 @@
+[Event "corr Wch9"]
+[Site "corr Wch9"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Cross, Robert"]
+[Black "Yim, TO."]
+[Result "0-1"]
+[ECO "E32"]
+[Opening "Nimzo-Indian"]
+[Variation "classical variation"]
+[HashCode "adfc5095"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 O-O 5. a3 Bxc3+ 6. Qxc3 d6 7. f3 c5 8.
+dxc5 dxc5 9. Bg5 Nc6 10. e3 e5 11. Ne2 h6 12. Rd1 Qe7 13. Bxf6 Qxf6 14. Ng3
+Qe7 0-1
+

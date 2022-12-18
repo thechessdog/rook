@@ -1,0 +1,24 @@
+[Event "Bundesliga 8384"]
+[Site "Duitsland tt"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Heinbuch, Detlef Ulrich"]
+[Black "Derikum, Axel"]
+[Result "1-0"]
+[ECO "D14"]
+[Opening "QGD Slav"]
+[Variation "exchange variation, 6.Bf4 Bf5"]
+[HashCode "f7cb7e04"]
+[Epoch "Rook"]
+[WhiteID "4601289"]
+[WhiteCountry "GER"]
+[BlackID "4602242"]
+[BlackCountry "GER"]
+
+1. d4 d5 2. c4 c6 3. cxd5 cxd5 4. Nc3 Nf6 5. Nf3 Nc6 6. Bf4 Bf5 7. e3 e6 8. Ne5
+Nd7 9. Nxc6 bxc6 10. Be2 Be7 11. O-O O-O 12. Rc1 f6 13. Na4 e5 14. Bg3 Rc8 15.
+Bd3 Bxd3 16. Qxd3 Qa5 17. Qf5 Qc7 18. Rc2 Qd6 19. Rfc1 g6 20. Qd3 Rc7 21. f3
+Rfc8 22. Be1 Nb8 23. Ba5 Rb7 24. Nc5 Rb5 25. b4 exd4 26. exd4 Nd7 27. a4 Rbb8
+28. Na6 Ra8 29. b5 Nb6 30. Rxc6 Qf4 31. Bd2 Qh4 32. g3 Qh5 33. Nc7 Rab8 34. a5
+Nd7 35. g4 Qh4 36. Nxd5 Re8 37. Bf4 Rbd8 38. Nc7 Bf8 39. Qc4+ Kg7 40. Ne6+ Rxe6
+41. Qxe6 Ba3 42. Rc7 1-0

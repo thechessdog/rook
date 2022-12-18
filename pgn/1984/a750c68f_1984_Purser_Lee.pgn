@@ -1,0 +1,19 @@
+[Event "Jacksonville"]
+[Site "Jacksonville"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Purser, Tom"]
+[Black "Lee, Graham D"]
+[Result "1-0"]
+[ECO "D00"]
+[Opening "Blackmar gambit"]
+[HashCode "a750c68f"]
+[Epoch "Rook"]
+[BlackID "400750"]
+[BlackCountry "ENG"]
+[WhiteCountry "USA"]
+
+1. d4 d5 2. e4 dxe4 3. Nc3 Nf6 4. f3 Bf5 5. fxe4 Bxe4 6. Nxe4 Nxe4 7. Bd3 Nf6
+8. Nf3 e6 9. O-O Bd6 10. Qe1 O-O 11. Bg5 h6 12. Qh4 Nbd7 13. Bxh6 Ne4 14. Qxe4
+Nf6 15. Qh4 gxh6 16. Qxh6 Bxh2+ 17. Qxh2 Qd5 18. Qh4 Kg7 19. Ne5 Rg8 20. Qxf6+
+1-0

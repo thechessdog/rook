@@ -1,0 +1,21 @@
+[Event "Rome-B"]
+[Site "Rome"]
+[Date "1984.01.01"]
+[Round "9"]
+[White "Andruet, Gilles"]
+[Black "Tassi, Oliviero"]
+[Result "1-0"]
+[ECO "B23"]
+[Opening "Sicilian"]
+[Variation "closed"]
+[HashCode "f6c25c66"]
+[Epoch "Rook"]
+[BlackID "800384"]
+[BlackCountry "ITA"]
+[WhiteCountry "FRA"]
+
+1. e4 c5 2. Nc3 d6 3. Nge2 Nf6 4. g3 Nc6 5. Bg2 e5 6. d3 Be7 7. O-O h5 8. f4 g6
+9. Nd5 h4 10. Nec3 hxg3 11. hxg3 Nd4 12. fxe5 Ng4 13. exd6 Bxd6 14. Bf4 g5 15.
+Bxd6 Qxd6 16. e5 Nxe5 17. Nf6+ Kd8 18. Nce4 Qf8 19. c3 Nf5 20. Rxf5 Bxf5 21. d4
+Nc6 22. dxc5+ Kc7 23. Nd5+ Kb8 24. Nd6 Bc8 25. b4 Qh6 26. Nxc8 Rxc8 27. b5 Ne5
+28. c6 Qd6 29. cxb7 Kxb7 30. Nb6+ 1-0

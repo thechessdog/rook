@@ -1,0 +1,20 @@
+[Event "Palermo"]
+[Site "Palermo"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Vallifuoco, Gc"]
+[Black "Schubert"]
+[Result "1-0"]
+[ECO "E81"]
+[Opening "King's Indian"]
+[Variation "Saemisch, 5...O-O"]
+[HashCode "462f0a49"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Bg5 c5 7. d5 e6 8. Qd2
+exd5 9. cxd5 h6 10. Be3 Ne8 11. Nge2 a6 12. a4 f5 13. h4 fxe4 14. Nxe4 Nf6
+15. N2c3 Nxe4 16. Nxe4 Bf5 17. Bd3 c4 18. Bb1 Nd7 19. Bxh6 Bxe4 20. Bxg7
+Kxg7 21. Bxe4 Nc5 22. h5 Nxe4 23. fxe4 Qf6 24. hxg6 Qf4 25. O-O-O Kxg6 26.
+Rdf1 Qxf1+ 27. Rxf1 Rxf1+ 28. Kc2 Raf8 29. Qe3 R1f2+ 30. Kc3 Rxg2 31. e5
+Rgf2 32. Qe4+ Kg7 33. Qg4+ Kh7 34. Qh5+ Kg7 35. Qg5+ Kh7 36. exd6 1-0
+

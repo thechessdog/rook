@@ -1,0 +1,21 @@
+[Event "corr NAICCC IV"]
+[Site "corr NAICCC IV"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Martinovsky, Eugene"]
+[Black "Hayward, Keith"]
+[Result "1-0"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...g6"]
+[HashCode "df1edc0c"]
+[Epoch "Rook"]
+[BlackID "2005280"]
+[BlackCountry "USA"]
+[WhiteCountry "MKD"]
+
+1. c4 c6 2. e4 d5 3. exd5 cxd5 4. d4 Nf6 5. Nc3 g6 6. Qb3 Bg7 7. cxd5 O-O 8.
+Be2 Nbd7 9. Bf3 Nb6 10. Bg5 Bf5 11. Rd1 a5 12. a4 Rc8 13. Nge2 Rc4 14. Qa2 Rb4
+15. O-O Bc2 16. Rc1 Bb3 17. Qa3 Nfxd5 18. Nxd5 Bxd5 19. Bxd5 Qxd5 20. Bxe7 Rxa4
+21. Nc3 Rxa3 22. Nxd5 Rb3 23. Nxb6 Rxb6 24. Bxf8 Kxf8 25. Rfd1 Rxb2 26. d5 a4
+27. Rc8+ Ke7 28. d6+ Ke6 29. d7 Bf6 30. Re8+ Kf5 31. Rd5+ Kf4 32. g3+ 1-0

@@ -1,0 +1,22 @@
+[Event "Wittlich"]
+[Site "Wittlich"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Ingenerf, Stephan"]
+[Black "Roos, Thomas"]
+[Result "1-0"]
+[ECO "A16"]
+[Opening "English"]
+[Variation "Anglo-Gruenfeld defense"]
+[HashCode "fc23b18b"]
+[Epoch "Rook"]
+[BlackID "4604172"]
+[BlackCountry "GER"]
+
+1. c4 Nf6 2. Nc3 d5 3. cxd5 Nxd5 4. Nf3 g6 5. e4 Nxc3 6. dxc3 Qxd1+ 7. Kxd1 f6
+8. Be3 e5 9. Bc4 Nd7 10. Ke2 Nc5 11. Nd2 Be6 12. Bxc5 Bxc4+ 13. Nxc4 Bxc5 14.
+b4 Bd6 15. Rhd1 Ke7 16. Rd3 Ke6 17. Rad1 Rhd8 18. Na5 b6 19. Nb7 Rd7 20. c4 Rb8
+21. c5 Rxb7 22. c6 Rb8 23. cxd7 Kxd7 24. g4 Ke6 25. Rh3 Rh8 26. b5 h6 27. Rc1
+f5 28. gxf5+ gxf5 29. f3 h5 30. Rg3 fxe4 31. fxe4 a6 32. bxa6 Ra8 33. Rg6+ Kf7
+34. Rcg1 Rxa6 35. Rg7+ Kf8 36. Rg8+ Kf7 37. R1g7+ Kf6 38. Rg5 Rxa2+ 39. Kd3
+Rxh2 40. R8g7 1-0

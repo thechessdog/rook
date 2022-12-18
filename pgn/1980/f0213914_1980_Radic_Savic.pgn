@@ -1,0 +1,21 @@
+[Event "corr Lekovica mem"]
+[Site "corr Lekovica mem"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Radic, D."]
+[Black "Savic, V."]
+[Result "0-1"]
+[ECO "B17"]
+[Opening "Caro-Kann"]
+[Variation "Steinitz variation"]
+[HashCode "f0213914"]
+[Epoch "Rook"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Bc4 Ngf6 6. Nxf6+ Nxf6 7. Nf3
+Bf5 8. O-O e6 9. c3 Be7 10. Bf4 O-O 11. a4 Nd5 12. Be5 Bg4 13. h3 Bh5 14.
+a5 f6 15. Bg3 Bd6 16. Re1 Bxg3 17. fxg3 Qd6 18. Kh2 Rae8 19. Qb3 Bxf3 20.
+gxf3 h5 21. h4 g5 22. hxg5 h4 23. Rg1 Re7 24. g6 Kg7 25. Qa3 Qc7 26. Rae1
+Rh8 27. Re4 hxg3+ 28. Kg2 f5 29. Re5 f4 30. Rge1 Ne3+ 31. R1xe3 fxe3 32. f4
+Kxg6 33. Qc5 Kf6 34. Rxe6+ Rxe6 35. Qg5+ Kf7 36. f5 Ke8 37. Bxe6 Qh7 38.
+Kf3 Qh5+ 39. Qxh5+ Rxh5 40. Kxg3 Rh2 0-1
+

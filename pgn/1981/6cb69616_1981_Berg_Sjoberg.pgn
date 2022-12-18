@@ -1,0 +1,27 @@
+[Event "Politiken Cup"]
+[Site "Copenhagen"]
+[Date "1981.01.01"]
+[Round "2"]
+[White "Berg, Klaus"]
+[Black "Sjoberg, Mats"]
+[Result "1-0"]
+[ECO "B46"]
+[Opening "Sicilian"]
+[Variation "Taimanov variation"]
+[HashCode "6cb69616"]
+[Epoch "Rook"]
+[WhiteID "1400053"]
+[WhiteCountry "DEN"]
+[BlackID "1700375"]
+[BlackCountry "SWE"]
+
+1. e4 c5 2. Nf3 e6 3. Nc3 Nc6 4. d4 cxd4 5. Nxd4 a6 6. g3 Qc7 7. Bg2 Nf6 8. O-O
+Be7 9. a4 O-O 10. Nb3 Ne5 11. Qe2 d6 12. a5 Bd7 13. Nd2 Rac8 14. f4 Nc6 15. Nb3
+Nb4 16. Rd1 e5 17. h3 Qc4 18. Qf2 Rfe8 19. f5 Qc7 20. Be3 Bc6 21. Rd2 Nd7 22.
+Rad1 Rcd8 23. g4 Nc5 24. g5 Bf8 25. Qe2 b5 26. axb6 Qxb6 27. Qc4 Rb8 28. Rxd6
+Bxd6 29. Rxd6 Nxc2 30. Bxc5 Qxb3 31. Qxb3 Rxb3 32. Rxc6 Rxb2 33. Bf1 a5 34. Rc7
+Nd4 35. Bd3 Nf3+ 36. Kf1 Nd2+ 37. Ke1 Nf3+ 38. Kf1 Rd8 39. Be2 Nxg5 40. Be7 Ra8
+41. Bxg5 f6 42. Be3 Rbb8 43. Bc4+ Kh8 44. Ke2 Rc8 45. Rxc8+ Rxc8 46. Kd3 Rd8+
+47. Bd5 Rb8 48. Bc4 Rb2 49. Bd2 g6 50. Nd1 Rb1 51. Kc2 Rb7 52. Bxa5 Kg7 53. Ne3
+Ra7 54. Bc3 Rc7 55. Bb3 Kh6 56. Nd5 Rf7 57. Kd3 Rb7 58. Bd2+ g5 59. Bc4 Rd7 60.
+Ke3 Rd6 61. Bb4 Rc6 62. Be2 Kg7 63. Be7 Kh6 64. Bf8# 1-0

@@ -1,0 +1,22 @@
+[Event "Bela Crkva open"]
+[Site "Bela Crkva open"]
+[Date "1983.01.01"]
+[Round "10"]
+[White "Terzic, Goran"]
+[Black "Pergericht, Daniel"]
+[Result "1-0"]
+[ECO "B07"]
+[Opening "Pirc"]
+[Variation "Byrne variation"]
+[HashCode "8e61e729"]
+[Epoch "Rook"]
+[WhiteID "902977"]
+[WhiteCountry "SRB"]
+[BlackCountry "BEL"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Bg5 c6 5. f4 Bg7 6. Nf3 O-O 7. Bd3 b5 8. O-O
+Bg4 9. Qd2 Bxf3 10. Rxf3 Qb6 11. Ne2 Nbd7 12. Kh1 e5 13. dxe5 dxe5 14. f5 c5
+15. c3 Qc6 16. Re1 c4 17. Bc2 Nc5 18. Ng3 Rad8 19. Qe2 Rd7 20. b4 cxb3 21. axb3
+a5 22. b4 axb4 23. cxb4 Nb7 24. Bb3 Kh8 25. Rc1 Qb6 26. Rfc3 Nd6 27. Rc6 Qd4
+28. Qe1 Nfxe4 29. Nxe4 Nxe4 30. Be3 Qd3 31. Bc2 Qd5 32. Bxe4 Qxe4 33. f6 Bxf6
+34. Rxf6 Rfd8 35. Rf1 1-0

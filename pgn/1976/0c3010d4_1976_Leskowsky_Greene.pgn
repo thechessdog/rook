@@ -1,0 +1,25 @@
+[Event "corr NAICCC II"]
+[Site "corr NAICCC II"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Leskowsky, Zoltan"]
+[Black "Greene, Sanford"]
+[Result "1/2-1/2"]
+[ECO "B79"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, 12.h4"]
+[HashCode "0c3010d4"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8.
+Qd2 Nc6 9. Bc4 Bd7 10. h4 Qa5 11. O-O-O Rfc8 12. Bb3 Ne5 13. h5 Nxh5 14.
+Nde2 Nf6 15. Bh6 Bh8 16. Qf4 Be6 17. Bxe6 fxe6 18. Qh4 Nc4 19. Rd3 Rc7 20.
+Qh3 Kf7 21. Nd4 Ne5 22. Qxe6+ Ke8 23. Rdd1 Nf7 24. Bd2 Qe5 25. Ncb5 Rd7 26.
+Qxe5 Nxe5 27. Bg5 h5 28. g4 Nh7 29. Be3 Nf6 30. gxh5 Nxh5 31. Ne6 Kf7 32.
+Nbc7 Rc8 33. Ng5+ Kg8 34. Nce6 Bf6 35. Kb1 b6 36. Bc1 Nf7 37. Nh3 Nd8 38.
+Nef4 Nxf4 39. Nxf4 Kf7 40. Rdg1 g5 41. Nh3 Ne6 42. Nxg5+ Nxg5 43. Bxg5 Bxg5
+44. Rxg5 Rdc7 45. c3 Ke6 46. Kc2 Rf8 47. Rf1 Rcc8 48. f4 Rf6 49. Kd3 Rh8
+50. Rf2 Rh4 51. Ke3 Rh1 52. Rg8 Re1+ 53. Kf3 Rh6 54. Ra8 Rh3+ 55. Kg2 Rhe3
+56. e5 dxe5 57. f5+ Kf6 58. Rxa7 Re4 59. Ra8 Rg4+ 60. Kh2 Rf4 61. Kg2 Rg4+
+62. Kh3 Rg5 63. Kh2 Rh5+ 64. Kg2 Rg5+ 65. Kh2 1/2-1/2
+

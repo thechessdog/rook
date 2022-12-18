@@ -1,0 +1,21 @@
+[Event "Reti mem"]
+[Site "Trnava"]
+[Date "1982.??.??"]
+[Round "6"]
+[White "Franzen, Jozef"]
+[Black "Meduna, Eduard"]
+[Result "1/2-1/2"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...g6"]
+[HashCode "3b2ec990"]
+[Epoch "Rook"]
+[BlackID "300055"]
+[BlackCountry "CZE"]
+[WhiteID "14900181"]
+[WhiteCountry "SVK"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 g6 6. Qb3 Bg7 7. cxd5 O-O 8.
+Be2 Na6 9. Bf3 Qb6 10. Qxb6 axb6 11. Nge2 Nb4 12. O-O Rd8 13. d6 Rxd6 14. Bf4
+Rd7 15. Rad1 Nbd5 16. Be5 Rd8 17. Nxd5 Nxd5 18. Bxd5 Rxd5 19. Nc3 Rd8 20. a3
+Bf5 21. Bxg7 Kxg7 22. d5 Bc2 23. Rd4 Bb3 24. Rb4 Bxd5 25. Nxd5 1/2-1/2

@@ -1,0 +1,25 @@
+[Event "corr ch-DK"]
+[Site "corr ch-DK"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Petersen, Finn"]
+[Black "Jardin"]
+[Result "0-1"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...g6"]
+[HashCode "42d7003b"]
+[Epoch "Rook"]
+[WhiteID "1400754"]
+[WhiteCountry "DEN"]
+
+1. e4 c6 2. c4 d5 3. exd5 cxd5 4. d4 Nf6 5. Nc3 g6 6. Qb3 Bg7 7. cxd5 O-O 8.
+Be2 a5 9. Bf3 Nbd7 10. Nge2 Nb6 11. Bf4 a4 12. Qb5 Bd7 13. Qb4 Bg4 14. d6 exd6
+15. Bxg4 Nxg4 16. Bxd6 Re8 17. O-O Rc8 18. Bc5 Nd7 19. Qxa4 Nxh2 20. Kxh2 Qh4+
+21. Kg1 Nxc5 22. Qb5 Bxd4 23. Nxd4 Qxd4 24. Rad1 Qh4 25. Rfe1 Red8 26. Nd5 Kg7
+27. b4 Ne4 28. Qe2 Re8 29. Qb2+ Nf6 30. a4 Rxe1+ 31. Rxe1 Qg5 32. Ne3 Re8 33.
+Rd1 Re5 34. Rd4 h5 35. Qc3 Re6 36. Rd7 Rc6 37. Qb2 b6 38. b5 Re6 39. Qc3 h4 40.
+Nd5 h3 41. g3 Qe5 42. Nxf6 Rxf6 43. Rd2 g5 44. Qd3 Qe6 45. Qe2 g4 46. Qxe6 Rxe6
+47. Kh2 f5 48. Ra2 Kf6 49. Rc2 Re4 50. Rc6+ Ke5 51. Rxb6 Re2 52. Kg1 Re1+ 53.
+Kh2 Rf1 54. Rc6 Rxf2+ 55. Kg1 Rg2+ 56. Kh1 Rxg3 57. Rc2 Rb3 58. Kh2 Kf4 59. a5
+Rb1 0-1

@@ -1,0 +1,20 @@
+[Event "Vasteras"]
+[Site "Vasteras"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Engqvist, Thomas"]
+[Black "Roxendahl"]
+[Result "1-0"]
+[ECO "D64"]
+[Opening "QGD"]
+[Variation "Orthodox defence, Rubinstein attack (with Rc1)"]
+[HashCode "d5549702"]
+[Epoch "Rook"]
+[WhiteID "1700332"]
+[WhiteCountry "SWE"]
+
+1. Nf3 d5 2. d4 Nf6 3. c4 e6 4. Nc3 Be7 5. Bg5 O-O 6. e3 Nbd7 7. Qc2 c6 8. Rc1
+Re8 9. a3 dxc4 10. Bxc4 Nd5 11. Bxe7 Qxe7 12. Rd1 Nxc3 13. Qxc3 e5 14. Nxe5
+Nxe5 15. dxe5 Qg5 16. Qb3 Qxg2 17. Bxf7+ Kh8 18. Bxe8 Qxh1+ 19. Kd2 Qf3 20. Qf7
+Bg4 21. Rg1 Rd8+ 22. Kc3 Rd5 23. Rxg4 Rc5+ 24. Kb3 Rb5+ 25. Ka2 Rxb2+ 26. Kxb2
+Qe2+ 27. Kc3 Qe1+ 28. Kd3 Qd1+ 29. Ke4 Qxg4+ 30. Qf4 Qg2+ 31. Qf3 1-0

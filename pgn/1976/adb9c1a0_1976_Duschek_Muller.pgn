@@ -1,0 +1,19 @@
+[Event "corr DDR/M"]
+[Site "corr DDR/M"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Duschek"]
+[Black "Muller, S."]
+[Result "1-0"]
+[ECO "C10"]
+[Opening "French"]
+[Variation "Rubinstein variation"]
+[HashCode "adb9c1a0"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Nd7 5. Be3 Ngf6 6. Nxf6+ Nxf6 7. Nf3
+Be7 8. Bd3 h6 9. a3 Ng4 10. Bf4 Bd6 11. Ne5 Nxe5 12. dxe5 Be7 13. Be3 Qd5
+14. Qh5 Qxg2 15. O-O-O g6 16. Qe2 Bg5 17. h4 Bxe3+ 18. Qxe3 Qc6 19. Qf4 Bd7
+20. Qf6 Rg8 21. Rhg1 h5 22. Rxg6 Rf8 23. Rdg1 Qc5 24. Rg8 Qe7 25. Rxf8+
+Qxf8 26. Bh7 1-0
+

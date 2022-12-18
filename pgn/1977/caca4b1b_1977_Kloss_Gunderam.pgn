@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Kloss"]
+[Black "Gunderam"]
+[Result "1-0"]
+[ECO "D00"]
+[Opening "Blackmar-Diemer gambit"]
+[HashCode "caca4b1b"]
+[Epoch "Rook"]
+
+1. e4 Nf6 2. Nc3 d5 3. d4 Nxe4 4. Nxe4 dxe4 5. Bc4 Bf5 6. g4 Bg6 7. Ne2 e6
+8. h4 h6 9. Nf4 Bh7 10. g5 hxg5 11. hxg5 Qxg5 12. Nxe6 Qg2 13. Qh5 g6 14.
+Nxc7+ Kd8 15. Qh4+ Kxc7 16. Bf4+ Kd7 17. Qf6 Qxh1+ 18. Kd2 Qxa1 19. Qxf7+
+Be7 20. Be6+ Kd8 21. Bc7+ Kxc7 22. Qxe7+ Kb6 23. Qc5+ Ka6 24. Bc4+ b5 25.
+Qxb5# 1-0
+

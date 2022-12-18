@@ -1,0 +1,18 @@
+[Event "Imperia"]
+[Site "Imperia"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Cortlever, Nicolaas"]
+[Black "Hofman"]
+[Result "0-1"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Paulsen attack"]
+[HashCode "183f561c"]
+[Epoch "Rook"]
+[WhiteCountry "NLD"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. Nf3 Nc6 5. c3 Qb6 6. a3 c4 7. Nbd2 f6 8. exf6
+Nxf6 9. b3 cxb3 10. Rb1 Bd6 11. Bd3 O-O 12. O-O e5 13. c4 Nxd4 14. Nxd4 Qxd4
+15. Rxb3 Qh4 16. Be2 e4 17. h3 d4 18. Bb2 Bc5 19. Rg3 e3 20. Nf3 exf2+ 21. Kh2
+Qf4 22. Bxd4 Bd6 23. Bxf2 Ne4 24. Qd5+ Kh8 25. Qd4 Nxg3 26. Qxf4 Nxf1+ 0-1

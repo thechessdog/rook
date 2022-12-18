@@ -1,0 +1,19 @@
+[Event "corr NLD-DDR"]
+[Site "corr NLD-DDR"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Gouw"]
+[Black "Simchen"]
+[Result "1-0"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra gambit"]
+[HashCode "9690f006"]
+[Epoch "Rook"]
+
+1. e4 c5 2. d4 cxd4 3. c3 dxc3 4. Nxc3 Nc6 5. Nf3 d6 6. Bc4 e6 7. O-O Nf6
+8. Qe2 Be7 9. Rd1 e5 10. Be3 O-O 11. b4 Bg4 12. a3 a6 13. h3 Bxf3 14. gxf3
+Qc8 15. Kh2 Nd4 16. Rxd4 exd4 17. Bxd4 Qc7 18. Bb3 Nd7 19. Nd5 Qd8 20. Rg1
+Bf6 21. Nxf6+ Nxf6 22. Qe3 g6 23. Rxg6+ hxg6 24. Qh6 d5 25. Bxd5 Qd6+ 26.
+Kg2 1-0
+

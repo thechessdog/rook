@@ -1,0 +1,16 @@
+[Event "Bordeaux"]
+[Site "Bordeaux"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Pellisseri"]
+[Black "Schlenker, Rainer"]
+[Result "0-1"]
+[ECO "B06"]
+[Opening "Robatsch (modern) defence"]
+[HashCode "1b90c1c1"]
+[Epoch "Rook"]
+[BlackID "4605837"]
+[BlackCountry "GER"]
+
+1. e4 g6 2. d4 Bg7 3. g3 d5 4. e5 c5 5. c3 Nh6 6. Bg2 Nc6 7. dxc5 Nxe5 8. Bxh6
+Bxh6 9. Qxd5 Nd3+ 10. Ke2 Bf5 11. c6 Qb6 0-1

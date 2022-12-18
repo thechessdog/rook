@@ -1,0 +1,22 @@
+[Event "IBM-B"]
+[Site "Amsterdam II"]
+[Date "1976.07.01"]
+[Round "11"]
+[White "Suwuh, J."]
+[Black "Matera, Salvatore"]
+[Result "0-1"]
+[ECO "B20"]
+[Opening "Sicilian"]
+[Variation "Steinitz variation"]
+[HashCode "3b2b6a49"]
+[Epoch "Rook"]
+[BlackID "2000580"]
+[BlackCountry "USA"]
+
+1. e4 c5 2. g3 g6 3. Bg2 Bg7 4. Ne2 Nc6 5. c3 e5 6. Na3 Nge7 7. Nc2 d5 8. exd5
+Nxd5 9. d4 cxd4 10. cxd4 exd4 11. Nexd4 O-O 12. O-O Ndb4 13. Nxb4 Nxd4 14. Bd2
+a5 15. Nd5 Be6 16. Ne3 Qb6 17. Bc3 Rfd8 18. Qe1 a4 19. a3 Qb5 20. Kh1 Re8 21.
+f3 Bc4 22. Qf2 Bxf1 23. Bxf1 Qc6 24. Ng2 Nxf3 25. Rc1 Ne5 26. Be2 Rad8 27. Rf1
+f5 28. Qa7 Rd7 29. Re1 Nd3 30. Bf3 Rxe1+ 31. Nxe1 Qd6 32. Qa8+ Rd8 33. Qxa4
+Bxc3 34. Qc4+ Kg7 35. Qxc3+ Qe5 36. Nxd3 Qxc3 37. bxc3 Rxd3 38. Bxb7 Rxc3 39.
+a4 Ra3 40. Bc6 Ra2 0-1

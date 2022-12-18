@@ -1,0 +1,19 @@
+[Event "Aalborg ch-DEN"]
+[Site "Aalborg ch-DEN"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Pedersen, Erik"]
+[Black "Jakobsen, Ole"]
+[Result "1/2-1/2"]
+[ECO "A46"]
+[Opening "Queen's pawn"]
+[Variation "Yusupov-Rubinstein system"]
+[HashCode "49da532e"]
+[Epoch "Rook"]
+[WhiteID "1404997"]
+[WhiteCountry "DEN"]
+[BlackCountry "DNK"]
+
+1. d4 Nf6 2. Nf3 e6 3. e3 d6 4. c4 Nbd7 5. Nc3 c5 6. Be2 Be7 7. O-O O-O 8. d5
+e5 9. a3 Ne8 10. e4 g6 11. Ne1 Bg5 12. Nd3 Bxc1 13. Qxc1 Qe7 14. f4 f5 15. exf5
+e4 16. Nf2 gxf5 17. Ncd1 Ndf6 18. Ne3 Ng7 1/2-1/2

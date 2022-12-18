@@ -1,0 +1,18 @@
+[Event "Silkeborg"]
+[Site "Silkeborg"]
+[Date "1983.01.01"]
+[Round "9"]
+[White "Brinck-Claussen, Bjorn"]
+[Black "Radulov, Ivan"]
+[Result "1/2-1/2"]
+[ECO "D27"]
+[Opening "QGA"]
+[Variation "classical, Rubinstein variation"]
+[HashCode "682376ae"]
+[Epoch "Rook"]
+[BlackID "2900300"]
+[WhiteCountry "DEN"]
+[BlackCountry "FID"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. e3 e6 5. Bxc4 c5 6. O-O a6 7. a4 Qc7 8. Qe2
+Nc6 9. Nc3 Bd6 10. h3 O-O 1/2-1/2

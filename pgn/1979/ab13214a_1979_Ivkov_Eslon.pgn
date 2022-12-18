@@ -1,0 +1,20 @@
+[Event "Maspalomas"]
+[Site "Maspalomas"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Ivkov"]
+[Black "Eslon, Jaan"]
+[Result "1-0"]
+[ECO "A77"]
+[Opening "Benoni"]
+[Variation "classical, 9...Re8, 10.Nd2"]
+[HashCode "ab13214a"]
+[Epoch "Rook"]
+[BlackCountry "SWE"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. e4 Bg7 8. Be2
+O-O 9. O-O Re8 10. Nd2 Nbd7 11. Qc2 Nb6 12. Re1 Ng4 13. Nd1 f5 14. Bxg4 fxg4
+15. Ne3 Bd7 16. a4 Qf6 17. a5 Rf8 18. Rf1 Nc8 19. Ndc4 Qe7 20. Bd2 Re8 21. f3
+gxf3 22. gxf3 Rb8 23. Bc3 b5 24. axb6 axb6 25. Bxg7 Qxg7 26. Qc3 Qe7 27. Kh1 b5
+28. Na5 b4 29. Qd2 Na7 30. Qg2 Ra8 31. Qg3 Nb5 32. Nec4 Rab8 33. Nb3 Ra8 34.
+Ra5 Rxa5 35. Nbxa5 Rb8 36. Re1 Qf6 37. e5 dxe5 38. Nxe5 Bf5 39. Ng4 1-0

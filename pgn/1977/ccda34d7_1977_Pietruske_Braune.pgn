@@ -1,0 +1,21 @@
+[Event "corr DDR/M"]
+[Site "corr DDR/M"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Pietruske, S."]
+[Black "Braune"]
+[Result "1-0"]
+[ECO "C77"]
+[Opening "Ruy Lopez"]
+[Variation "Wormald (Alapin) attack"]
+[HashCode "ccda34d7"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. Qe2 b5 6. Bb3 Bc5 7. c3 O-O 8.
+O-O d6 9. d3 Be6 10. Be3 Bxe3 11. fxe3 Ne7 12. Nbd2 c5 13. Ng5 Bxb3 14.
+axb3 Ng6 15. Rf3 h6 16. Nh3 Nh7 17. Rg3 Qd7 18. Rf1 Ne7 19. Qh5 Qe6 20. d4
+exd4 21. Nf4 Qe5 22. Qxh6 dxe3 23. Nf3 Qf6 24. Qxf6 Nxf6 25. Ng5 Nc6 26.
+Rxe3 Ne5 27. Rd1 Rfd8 28. Re2 Rd7 29. Nf3 Nxf3+ 30. gxf3 a5 31. Red2 Rad8
+32. Nd5 Nxd5 33. Rxd5 f6 34. b4 axb4 35. cxb4 cxb4 36. Rxb5 Rc7 37. Rxb4
+Rdc8 38. Rxd6 1-0
+

@@ -1,0 +1,17 @@
+[Event "corr BdF"]
+[Site "corr BdF"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Kogeler"]
+[Black "Peters"]
+[Result "0-1"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, 6.Bd3"]
+[HashCode "b65733e3"]
+[Epoch "Rook"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 O-O 6. Bd3 Nc6 7. e5 dxe5 8.
+fxe5 Nh5 9. Be3 Bg4 10. Bc4 Na5 11. Be2 c5 12. d5 Bxf3 13. Bxf3 Nc4 14. Qe2
+Nxe5 15. Bxh5 gxh5 16. Qxh5 f5 17. O-O-O Nc4 18. Bh6 Qb6 0-1
+

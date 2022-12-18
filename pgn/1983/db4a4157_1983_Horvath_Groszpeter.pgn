@@ -1,0 +1,20 @@
+[Event "Kecskemet"]
+[Site "Kecskemet"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Horvath, Tamas"]
+[Black "Groszpeter, Attila"]
+[Result "1/2-1/2"]
+[ECO "A28"]
+[Opening "English"]
+[Variation "four knights, 4.e3"]
+[HashCode "db4a4157"]
+[Epoch "Rook"]
+[WhiteID "700185"]
+[BlackID "700053"]
+[WhiteCountry "HUN"]
+[BlackCountry "HUN"]
+
+1. c4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. e3 Bb4 5. Nd5 e4 6. Nxb4 Nxb4 7. Nd4 c5 8.
+Nb5 O-O 9. a3 Nd3+ 10. Bxd3 exd3 11. b4 d5 12. Bb2 dxc4 13. bxc5 Qd5 14. Qf3
+Qxc5 15. Bxf6 Qxb5 16. Qg3 g6 17. O-O Qf5 18. Qh4 a5 19. e4 Qh5 1/2-1/2

@@ -1,0 +1,15 @@
+[Event "Charkov"]
+[Site "Charkov"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Rivlin, A."]
+[Black "Nemerov"]
+[Result "1-0"]
+[ECO "B10"]
+[Opening "Caro-Kann defence"]
+[HashCode "77b38cb4"]
+[Epoch "Rook"]
+
+1. e4 c6 2. Nc3 e5 3. d4 exd4 4. Qxd4 Qf6 5. e5 Qg6 6. Bd3 Qxg2 7. Be4 Qg4
+8. Nf3 h6 9. Rg1 Qe6 10. Bf4 Ne7 11. Qd3 Na6 12. Nd4 1-0
+

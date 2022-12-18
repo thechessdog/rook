@@ -1,0 +1,18 @@
+[Event "Lugano op"]
+[Site "Lugano op"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Nikolaiczuk"]
+[Black "Mariotti"]
+[Result "0-1"]
+[ECO "B42"]
+[Opening "Sicilian"]
+[Variation "Kan, 5.Bd3"]
+[HashCode "dc8f9445"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Qc7 6. O-O Nf6 7. Nc3 b5 8.
+a3 Bb7 9. Be3 Nc6 10. Nxc6 Qxc6 11. Qe2 h5 12. Bd4 Qd6 13. Bxf6 gxf6 14. f4
+h4 15. Rf3 h3 16. gxh3 Qc7 17. Kh1 Bc5 18. Raf1 Ke7 19. Rg3 Rh4 20. Qf3
+Rah8 21. Ne2 f5 22. Re1 Bd6 0-1
+

@@ -1,0 +1,19 @@
+[Event "Hillerod"]
+[Site "Hillerod"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Olsen, Kim"]
+[Black "Friis, Henrik"]
+[Result "0-1"]
+[ECO "B88"]
+[Opening "Sicilian"]
+[Variation "Sozin, Leonhardt variation"]
+[HashCode "4704bd0c"]
+[Epoch "Rook"]
+[WhiteID "1406922"]
+[BlackID "1461664"]
+[WhiteCountry "DEN"]
+[BlackCountry "DEN"]
+
+1. e4 c5 2. Nf3 d6 3. Nc3 Nf6 4. Bc4 e6 5. d4 cxd4 6. Nxd4 Nc6 7. Bb5 Qc7 8. f4
+Be7 9. O-O O-O 10. Be3 Nxd4 11. Qxd4 Ng4 12. Bd2 d5 13. e5 Bc5 0-1

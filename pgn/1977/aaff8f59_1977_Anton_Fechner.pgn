@@ -1,0 +1,23 @@
+[Event "corr DDR-FSM"]
+[Site "corr DDR-FSM"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Anton, V."]
+[Black "Fechner, J."]
+[Result "1/2-1/2"]
+[ECO "E53"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Gligoric system with 7...Nbd7"]
+[HashCode "aaff8f59"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 c5 7. O-O Nbd7 8.
+a3 Ba5 9. Qc2 dxc4 10. Bxc4 cxd4 11. exd4 Bxc3 12. bxc3 b6 13. Bd3 Bb7 14.
+Qe2 Qc7 15. Bd2 Rfe8 16. Rfe1 Rad8 17. Ne5 Nxe5 18. Qxe5 Qxe5 19. Rxe5 Nd7
+20. Re3 Bc6 21. a4 Nb8 22. a5 b5 23. Rh3 h6 24. Rg3 Kf8 25. f4 a6 26. f5
+exf5 27. Bxf5 Be4 28. Bg4 Nc6 29. Bf4 Re7 30. Bc1 Ree8 31. Ba3+ Kg8 32. Bc5
+f5 33. Bh5 Re6 34. Rg6 Rde8 35. Rxe6 Rxe6 36. Kf2 Ne7 37. Bxe7 Rxe7 38. Re1
+Rc7 39. Re3 g5 40. g4 Kg7 41. gxf5 Bxf5 42. Bf3 Kf6 43. Bd5 h5 44. Ke2 g4
+45. Kd2 h4 46. Re5 Rg7 47. Re8 Kg5 48. Ke3 Bd7 49. Rg8 Rxg8 50. Bxg8 g3 51.
+hxg3 hxg3 52. Bd5 Kh4 53. Bg2 Kg4 54. Ke4 Kh4 55. Ke3 Kg4 1/2-1/2
+

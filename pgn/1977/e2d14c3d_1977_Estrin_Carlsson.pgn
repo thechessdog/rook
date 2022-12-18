@@ -1,0 +1,20 @@
+[Event "Moscow"]
+[Site "Moscow"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Estrin, Yakov Borisovich"]
+[Black "Carlson, Mats"]
+[Result "1-0"]
+[ECO "B77"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, 9...Bd7"]
+[HashCode "e2d14c3d"]
+[Epoch "Rook"]
+[WhiteCountry "RUS"]
+[BlackID "1700731"]
+[BlackCountry "SWE"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 Nc6 8. Qd2
+Bd7 9. Bc4 O-O 10. Bb3 Nxd4 11. Bxd4 b5 12. O-O-O a5 13. e5 dxe5 14. Bxe5 a4
+15. Bd5 Nxd5 16. Bxg7 Kxg7 17. Qxd5 b4 18. Qd4+ f6 19. Qxb4 a3 20. Qb7 axb2+
+21. Kb1 Qa5 22. Rxd7 Qxc3 23. Rxe7+ Kh6 24. Rxh7+ Kg5 25. Qe4 1-0

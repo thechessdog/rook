@@ -1,0 +1,20 @@
+[Event "corr ch-CSSR"]
+[Site "corr ch-CSSR"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Barabosz"]
+[Black "Baldsman"]
+[Result "0-1"]
+[ECO "E32"]
+[Opening "Nimzo-Indian"]
+[Variation "classical variation"]
+[HashCode "f1d2f3dd"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 O-O 5. a3 Bxc3+ 6. Qxc3 b6 7. Bg5 Bb7
+8. Nf3 d6 9. g3 Nbd7 10. Bg2 Qe8 11. O-O h6 12. Bxf6 Nxf6 13. d5 exd5 14.
+Nd4 c5 15. Nf5 d4 16. Qc2 Bxg2 17. Kxg2 g6 18. Nh4 Kg7 19. Rfe1 Qc6+ 20.
+Kg1 Rfe8 21. Rad1 Rad8 22. Rd3 d5 23. Ng2 dxc4 24. Qxc4 Ng4 25. f4 b5 26.
+Qc1 c4 27. h3 Qb6 28. Rd2 d3+ 29. Kh1 Nf2+ 30. Kh2 Ne4 31. exd3 Nxd2 32.
+Rxe8 Nf3+ 0-1
+

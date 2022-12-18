@@ -1,0 +1,18 @@
+[Event "Dayton,OH"]
+[Site "Dayton,OH"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Wall, Bill"]
+[Black "Holsapple, Boyd"]
+[Result "1-0"]
+[ECO "C01"]
+[Opening "French"]
+[Variation "exchange variation"]
+[HashCode "9d4d5e96"]
+[Epoch "Rook"]
+[WhiteCountry "USA"]
+[BlackCountry "USA"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. Nc3 Nf6 5. Qf3 Bb4 6. Bb5+ Bd7 7. a4 a6 8.
+Bd3 O-O 9. Ne2 Nc6 10. Be3 Bxc3+ 11. Nxc3 Nb4 12. O-O Nxd3 13. cxd3 c6 14. Bg5
+Re8 15. Qg3 Bf5 16. h4 Bg6 17. f4 Qd7 18. Bxf6 gxf6 19. h5 1-0

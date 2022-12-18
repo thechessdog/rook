@@ -1,0 +1,18 @@
+[Event "Wiesbaden"]
+[Site "Wiesbaden"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Kemp, Rasmus"]
+[Black "Purser, Tom"]
+[Result "0-1"]
+[ECO "A40"]
+[Opening "Queen's pawn"]
+[Variation "Charlick (Englund) gambit"]
+[HashCode "72252e17"]
+[Epoch "Rook"]
+[BlackCountry "USA"]
+
+1. d4 e5 2. dxe5 Nc6 3. Nf3 f6 4. exf6 Nxf6 5. e3 d5 6. Be2 Bd6 7. O-O O-O 8.
+Nbd2 Qe8 9. Re1 Qh5 10. Nf1 Ne4 11. Ng3 Bxg3 12. hxg3 Ne7 13. b3 c6 14. Bb2 Qh6
+15. Rf1 Nf5 16. c4 Nfxg3 17. fxg3 Qxe3+ 18. Kh2 Rf5 19. Qd4 Rh5+ 20. Nh4 Qxg3+
+21. Kg1 Rxh4 0-1

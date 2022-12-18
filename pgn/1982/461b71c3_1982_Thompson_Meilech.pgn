@@ -1,0 +1,18 @@
+[Event "South Africa"]
+[Site "South Africa"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Thompson, Tracey"]
+[Black "Meilech"]
+[Result "0-1"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Lipnitzky attack"]
+[HashCode "461b71c3"]
+[Epoch "Rook"]
+[WhiteID "404640"]
+[WhiteCountry "ENG"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bg5 Be7 8. Qf3
+O-O 9. O-O-O Nbd7 10. Bxe6 fxe6 11. Nxe6 Qa5 12. Nd5 Nxd5 13. Nxf8 Bxg5+ 14.
+Kb1 Nc3+ 15. bxc3 Nxf8 16. Rxd6 Be6 0-1

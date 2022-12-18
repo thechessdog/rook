@@ -1,0 +1,19 @@
+[Event "corr ch11-DDR"]
+[Site "corr ch11-DDR"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Herschel, K."]
+[Black "Kliesch, B."]
+[Result "1/2-1/2"]
+[ECO "B42"]
+[Opening "Sicilian"]
+[Variation "Kan, 5.Bd3"]
+[HashCode "0fd55afa"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Nc6 6. Nxc6 dxc6 7. f4 e5
+8. f5 Nf6 9. Qe2 b5 10. a4 Bb7 11. O-O Be7 12. Kh1 O-O 13. Nd2 Nd7 14. Nb3
+Bg5 15. Bxg5 Qxg5 16. Qf2 Qe7 17. Rfd1 Rfc8 18. Na5 Rc7 19. c3 Rac8 20.
+axb5 axb5 21. Nxb7 Rxb7 22. Ra7 Nc5 23. Rxb7 Nxb7 24. Qa7 Kf8 25. Bc2 Rd8
+26. Rxd8+ 1/2-1/2
+

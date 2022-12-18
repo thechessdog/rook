@@ -1,0 +1,18 @@
+[Event "Capablanca mem"]
+[Site "Cienfuegos"]
+[Date "1979.01.01"]
+[Round "13"]
+[White "Vilela, Jose Luis"]
+[Black "Boensch, Uwe"]
+[Result "1/2-1/2"]
+[ECO "E96"]
+[Opening "King's Indian"]
+[Variation "orthodox, 7...Nbd7, main line"]
+[HashCode "1b760ded"]
+[Epoch "Rook"]
+[BlackID "4611268"]
+[BlackCountry "GER"]
+[WhiteCountry "EST"]
+
+1. c4 Nf6 2. Nc3 g6 3. d4 d6 4. e4 Bg7 5. Nf3 Nbd7 6. Be2 e5 7. O-O O-O 8. Re1
+c6 9. Bf1 a5 10. Rb1 exd4 11. Nxd4 Re8 12. Bg5 Nc5 13. f3 Qb6 14. Be3 1/2-1/2

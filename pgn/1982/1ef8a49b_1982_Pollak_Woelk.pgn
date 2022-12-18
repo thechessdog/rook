@@ -1,0 +1,28 @@
+[Event "Regionalliga Nord"]
+[Site "RLN 8182"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Pollak, Georg"]
+[Black "Woelk, Siegfried"]
+[Result "1-0"]
+[ECO "A56"]
+[Opening "Benoni defence, Hromodka system"]
+[HashCode "1ef8a49b"]
+[Epoch "Rook"]
+[WhiteID "4611551"]
+[WhiteCountry "GER"]
+[BlackID "24603309"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 c5 3. d5 d6 4. Nc3 g6 5. e4 Bg7 6. Be2 O-O 7. h3 e6 8. Nf3 exd5
+9. exd5 Re8 10. O-O Na6 11. Bf4 Nc7 12. Re1 h6 13. Qd2 g5 14. Be3 Bf5 15. Nh2
+Kh7 16. Nf1 Bg6 17. Ng3 Nd7 18. Bd3 Ne5 19. Bxg6+ fxg6 20. b3 g4 21. Nce4 gxh3
+22. Rad1 Rf8 23. f4 Ng4 24. gxh3 Nxe3 25. Qxe3 Bd4 26. Rxd4 cxd4 27. Qxd4 Rxf4
+28. Qe3 Rf7 29. Kg2 Qe7 30. h4 Qe5 31. Qd3 Kg8 32. Qd2 Rf4 33. Ng5 Qd4 34. Qxd4
+Rxd4 35. Ne6 Nxe6 36. Rxe6 Rd2+ 37. Kh3 Kg7 38. h5 gxh5 39. Nf5+ Kg8 40. Rg6+
+Kf7 41. Rxd6 Rf8 42. Rxh6 Ke8 43. Rxh5 b6 44. Kg4 Rxa2 45. Rh7 Rg2+ 46. Kh3 Rg5
+47. Nd6+ Kd8 48. Nf7+ Rxf7 49. Rxf7 Re5 50. Kg4 Re3 51. Rf3 Re1 52. Kf4 Kd7 53.
+Re3 Rc1 54. Ke5 b5 55. Kd4 bxc4 56. bxc4 Ra1 57. c5 Ra4+ 58. Ke5 Rc4 59. c6+
+Kc7 60. Ra3 Kb8 61. Kd6 Rh4 62. Rb3+ Kc8 63. Re3 Rh8 64. Re7 a5 65. Ra7 Rh6+
+66. Kc5 Kb8 67. Rxa5 Rh1 68. Rb5+ Kc8 69. d6 Rh6 70. d7+ Kc7 71. Rb7+ Kd8 72.
+Rb8+ Kc7 73. Rc8# 1-0

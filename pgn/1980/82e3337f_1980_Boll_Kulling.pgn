@@ -1,0 +1,18 @@
+[Event "corr EUR tt"]
+[Site "corr EUR tt"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Boll, P."]
+[Black "Kulling, W."]
+[Result "1/2-1/2"]
+[ECO "B66"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...a6"]
+[HashCode "82e3337f"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd2 a6 8.
+O-O-O h6 9. Be3 Nxd4 10. Bxd4 b5 11. f3 Be7 12. g4 Bb7 13. Rg1 b4 14. Na4
+Bc6 15. Qxb4 Rb8 16. Qa3 Qa5 17. Nc3 Qxa3 18. bxa3 d5 19. Bxa6 dxe4 20. a4
+Ba3+ 21. Kd2 Bb4 22. a3 Bxc3+ 23. Kxc3 1/2-1/2
+

@@ -1,0 +1,18 @@
+[Event "Yugoslavia"]
+[Site "Yugoslavia"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Ikic"]
+[Black "Mihalj"]
+[Result "1-0"]
+[ECO "B93"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.f4"]
+[HashCode "b2804ce0"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 e5 7. Nf3 Nbd7 8.
+Bc4 b5 9. Bb3 Be7 10. O-O O-O 11. a3 Bb7 12. Qe1 Qc7 13. Bd2 Nb6 14. Rd1
+Rac8 15. Qe2 Nc4 16. Bxc4 Qxc4 17. Qxc4 Rxc4 18. fxe5 Nxe4 19. Nxe4 Bxe4
+20. Bb4 Bxc2 21. exd6 Bf6 22. Rd2 Ra8 23. d7 Be4 24. Ne5 Bd8 25. Nxf7 1-0
+

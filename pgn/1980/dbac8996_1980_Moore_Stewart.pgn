@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Moore"]
+[Black "Stewart, D."]
+[Result "1-0"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra gambit"]
+[HashCode "dbac8996"]
+[Epoch "Rook"]
+
+1. e4 c5 2. d4 cxd4 3. c3 dxc3 4. Nxc3 Nc6 5. Nf3 d6 6. Bc4 e6 7. O-O Nf6
+8. Qe2 Be7 9. Rd1 e5 10. Be3 O-O 11. Rac1 a6 12. a3 b5 13. Bd5 Qe8 14. Bxc6
+Qxc6 15. Nd5 1-0
+

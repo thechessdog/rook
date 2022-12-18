@@ -1,0 +1,20 @@
+[Event "Rome-B"]
+[Site "Rome"]
+[Date "1981.01.01"]
+[Round "2"]
+[White "Iannaccone, Ernesto"]
+[Black "De Eccher, Stefano"]
+[Result "1-0"]
+[ECO "E15"]
+[Opening "Queen's Indian"]
+[Variation "Nimzovich variation (exaggerated fianchetto)"]
+[HashCode "0aad7e87"]
+[Epoch "Rook"]
+[BlackID "800678"]
+[BlackCountry "ITA"]
+[WhiteID "800163"]
+[WhiteCountry "ITA"]
+
+1. Nf3 Nf6 2. c4 e6 3. d4 b6 4. g3 Ba6 5. b3 Bb4+ 6. Bd2 Be7 7. Bg2 c6 8. O-O
+d5 9. Bc3 O-O 10. Nbd2 b5 11. Qc2 Nbd7 12. c5 b4 13. Bxb4 Qb8 14. Bc3 Bxe2 15.
+Rfe1 Qb5 16. Rxe2 1-0

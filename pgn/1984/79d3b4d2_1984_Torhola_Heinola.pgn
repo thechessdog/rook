@@ -1,0 +1,20 @@
+[Event "Tampere"]
+[Site "Tampere"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Torhola, Simo"]
+[Black "Heinola, Kari P."]
+[Result "1-0"]
+[ECO "C00"]
+[Opening "French"]
+[Variation "Chigorin variation"]
+[HashCode "79d3b4d2"]
+[Epoch "Rook"]
+[BlackID "503495"]
+[BlackCountry "FIN"]
+
+1. e4 e6 2. Qe2 a6 3. Nc3 b5 4. g3 Bb7 5. Bg2 c5 6. Nf3 Nc6 7. O-O g5 8. d3 g4
+9. Ne1 h5 10. Be3 Nd4 11. Qd2 Ne7 12. Ne2 Qb6 13. c3 Ndc6 14. d4 d6 15. b4 Ng6
+16. f4 gxf3 17. Nxf3 Be7 18. Ng5 Bxg5 19. Bxg5 h4 20. gxh4 Rh7 21. dxc5 dxc5
+22. Qe3 Nxh4 23. Bxh4 Rxh4 24. Rad1 Qc7 25. Ng3 cxb4 26. Qg5 Rh8 27. Nh5 Ne5
+28. Nf6+ 1-0

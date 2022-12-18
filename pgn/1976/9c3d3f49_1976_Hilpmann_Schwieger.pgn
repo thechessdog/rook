@@ -1,0 +1,18 @@
+[Event "corr DDR/M"]
+[Site "corr DDR/M"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Hilpmann, W."]
+[Black "Schwieger, C."]
+[Result "1/2-1/2"]
+[ECO "D86"]
+[Opening "Gruenfeld"]
+[Variation "exchange, Simagin's improved variation"]
+[HashCode "9c3d3f49"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Bc4 O-O
+8. Ne2 Nc6 9. Bg5 Na5 10. Bb3 b6 11. Qd3 Qd7 12. O-O Nxb3 13. axb3 a5 14.
+Rfe1 Ba6 15. Qd2 Bxe2 16. Rxe2 b5 17. Bh6 Rfd8 18. Bxg7 Kxg7 19. d5 c6 20.
+c4 e6 21. Rxa5 Rxa5 22. Qxa5 cxd5 23. exd5 1/2-1/2
+

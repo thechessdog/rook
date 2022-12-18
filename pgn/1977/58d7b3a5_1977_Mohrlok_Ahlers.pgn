@@ -1,0 +1,18 @@
+[Event "corr FRG/K"]
+[Site "corr FRG/K"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Mohrlok, D."]
+[Black "Ahlers, Klaus"]
+[Result "1/2-1/2"]
+[ECO "E54"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Gligoric system with 7...dc"]
+[HashCode "58d7b3a5"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 c5 6. Nf3 d5 7. O-O dxc4 8.
+Bxc4 cxd4 9. exd4 b6 10. Qe2 Bb7 11. Rd1 Nbd7 12. Bd3 Rc8 13. Bd2 Be7 14.
+Rac1 Nd5 15. Bb1 N7f6 16. Bg5 Re8 17. Ne5 Nxc3 18. Rxc3 Rxc3 19. bxc3 g6
+20. Bh6 Qd5 21. f3 Rc8 22. Qb2 Ba6 23. Bd3 Bxd3 24. Rxd3 1/2-1/2
+

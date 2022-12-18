@@ -1,0 +1,23 @@
+[Event "Porto Alegre"]
+[Site "Porto Alegre"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Correa, Aron Antunes"]
+[Black "Garcia Palermo, Carlos"]
+[Result "0-1"]
+[ECO "A23"]
+[Opening "English"]
+[Variation "Bremen system, Keres variation"]
+[HashCode "554e16b0"]
+[Epoch "Rook"]
+[WhiteID "2100223"]
+[WhiteCountry "BRA"]
+[BlackID "110124"]
+[BlackCountry "ITA"]
+
+1. c4 e5 2. Nc3 Nf6 3. g3 c6 4. Nf3 d6 5. Bg2 Be7 6. O-O O-O 7. d4 Nbd7 8. e4
+Re8 9. Qc2 Qc7 10. b3 b5 11. Bb2 bxc4 12. bxc4 Ba6 13. Ne2 Rab8 14. Rab1 Bf8
+15. Rfe1 g6 16. h3 exd4 17. Nexd4 Bg7 18. Nb3 c5 19. Re2 Nb6 20. Nbd2 d5 21. e5
+Nfd7 22. e6 fxe6 23. Bxg7 Kxg7 24. Ng5 e5 25. Ree1 h6 26. Ngf3 Nxc4 27. Nh4 Qd6
+28. Rxb8 Rxb8 29. Bxd5 Nxd2 30. Qxd2 Nf6 31. Rd1 Qxd5 32. Qxd5 Nxd5 33. Rxd5
+Rb1+ 34. Kh2 Rh1+ 35. Kxh1 Bb7 36. Kg1 Bxd5 37. a3 Kf6 38. g4 0-1

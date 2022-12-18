@@ -1,0 +1,26 @@
+[Event "Bern"]
+[Site "Bern"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Franke, Heribert"]
+[Black "Holzhaeuer, Mathias"]
+[Result "1-0"]
+[ECO "D13"]
+[Opening "QGD Slav"]
+[Variation "exchange variation"]
+[HashCode "35fc6d92"]
+[Epoch "Rook"]
+[WhiteID "4600576"]
+[BlackID "4602293"]
+[WhiteCountry "GER"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. Nf3 d5 3. c4 c6 4. cxd5 cxd5 5. Nc3 Nc6 6. Bf4 e6 7. e3 Bd7 8. Bd3
+Be7 9. h3 O-O 10. O-O a6 11. Ne5 Be8 12. Rc1 Nxe5 13. Bxe5 Nd7 14. Bf4 Nb6 15.
+Qe2 Bc6 16. Rc2 Qd7 17. Rfc1 Rac8 18. Nb1 Nc4 19. Bxc4 dxc4 20. Qxc4 h6 21. Qf1
+Bb4 22. a3 Bb5 23. Qd1 Ba5 24. Rxc8 Rxc8 25. b4 Bd8 26. Qd2 Bc4 27. Nc3 f5 28.
+Be5 a5 29. Qd1 axb4 30. axb4 Be7 31. Qa4 Bb5 32. Qa3 Kf7 33. e4 Rc4 34. Nxb5
+Rxc1+ 35. Qxc1 Qxb5 36. exf5 exf5 37. Qc8 g6 38. Qh8 Qe8 39. Qxh6 Ke6 40. Qe3
+Qd7 41. Qc3 Qc6 42. Qb3+ Qd5 43. Qa4 b5 44. Qa7 Qc4 45. Qb8 Kd7 46. Qb6 g5 47.
+Qb7+ Ke6 48. g4 fxg4 49. hxg4 Qxb4 50. Qc8+ Kd5 51. Qg8+ Ke4 52. Qg6+ Kf3 53.
+Qd3+ Kxg4 54. f3+ Kh5 55. Qh7# 1-0

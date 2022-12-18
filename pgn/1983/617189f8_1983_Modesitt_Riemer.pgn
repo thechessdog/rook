@@ -1,0 +1,17 @@
+[Event "corr ICCF WT/I"]
+[Site "corr ICCF WT/I"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Modesitt, J."]
+[Black "Riemer, Wolfgang"]
+[Result "0-1"]
+[ECO "C82"]
+[Opening "Ruy Lopez"]
+[Variation "open, Motzko attack"]
+[HashCode "617189f8"]
+[Epoch "Rook"]
+[BlackCountry "DEU"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Be6 9. c3 Bc5 10. Qd3 O-O 11. Be3 f6 12. exf6 Qxf6 13. Bxd5 Rad8 14. Bxe6+ Qxe6
+15. Qe2 Nxf2 16. Kxf2 Ne5 17. Bd4 Rxd4 18. Ke1 Re4 0-1

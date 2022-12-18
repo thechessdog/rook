@@ -1,0 +1,17 @@
+[Event "Morra Bay"]
+[Site "Morra Bay"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Koltanowski, George"]
+[Black "De Jong, Tom"]
+[Result "1-0"]
+[ECO "C00"]
+[Opening "French defence"]
+[HashCode "f4a04d08"]
+[Epoch "Rook"]
+[WhiteCountry "BEL"]
+[BlackID "1000543"]
+[BlackCountry "NED"]
+
+1. e4 e6 2. d4 f5 3. Nc3 fxe4 4. Nxe4 a6 5. Ng5 Be7 6. N1f3 h6 7. Nf7 Kxf7 8.
+Ne5+ Ke8 9. Qh5+ Kf8 10. Qf7# 1-0

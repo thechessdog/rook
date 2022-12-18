@@ -1,0 +1,23 @@
+[Event "Kuibyshev"]
+[Site "Kuibyshev"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Dziuban, Oleg"]
+[Black "Kalinitschew, Sergey"]
+[Result "0-1"]
+[ECO "A58"]
+[Opening "Benko gambit accepted"]
+[HashCode "3e57c41f"]
+[Epoch "Rook"]
+[BlackID "4637321"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. bxa6 Bxa6 6. g3 d6 7. Bg2 g6 8. b3
+Bg7 9. Bb2 O-O 10. Nh3 Qa5+ 11. Qd2 Qxd2+ 12. Nxd2 Nbd7 13. Bc3 Rfb8 14. Nf4
+Nb6 15. h4 h6 16. e4 Ng4 17. Bxg7 Kxg7 18. Bf1 Ne5 19. Bxa6 Rxa6 20. Ke2 Rba8
+21. Nd3 Nxd3 22. Kxd3 Rxa2 23. Rxa2 Rxa2 24. Re1 Na8 25. Rb1 Nc7 26. b4 cxb4
+27. Rxb4 Na6 28. Rb1 Nc5+ 29. Ke3 f5 30. exf5 gxf5 31. Rb8 f4+ 32. gxf4 Ra3+
+33. Ke2 Rh3 34. Nf3 Ne4 35. Rb3 Nf6 36. Rd3 Nh5 37. Rd4 Kf6 38. f5 Kxf5 39. Ke3
+Nf6 40. Rf4+ Kg6 41. Rd4 Rh1 42. Nd2 Re1+ 43. Kf3 Re5 44. Ne4 Rxd5 45. Ra4 Rf5+
+46. Kg2 Rf4 47. Nc3 Rxa4 48. Nxa4 Kh5 49. Kh3 Nd5 50. Kg3 e6 51. Nb2 Ne7 52.
+Kh3 Nf5 0-1

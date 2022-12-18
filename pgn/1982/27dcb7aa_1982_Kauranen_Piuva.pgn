@@ -1,0 +1,17 @@
+[Event "corr Heilimo mem"]
+[Site "corr Heilimo mem"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Kauranen, R."]
+[Black "Piuva, M."]
+[Result "1-0"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (without ...d6)"]
+[HashCode "27dcb7aa"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 Nf6 4. Qe2 g6 5. O-O Bg7 6. e5 Nd5 7. Qc4 Nc7 8.
+Bxc6 dxc6 9. Re1 Ne6 10. d3 O-O 11. a4 a5 12. b3 b6 13. Bb2 Ra7 14. Nbd2
+Qd5 15. Qh4 b5 16. Ne4 Nd4 17. Nxd4 cxd4 18. Bxd4 Rd7 19. Bc3 1-0
+

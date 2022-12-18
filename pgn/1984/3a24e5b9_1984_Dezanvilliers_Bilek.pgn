@@ -1,0 +1,16 @@
+[Event "Bagneaux"]
+[Site "Bagneaux"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Dezanvilliers"]
+[Black "Bilek, Istvan"]
+[Result "0-1"]
+[ECO "B27"]
+[Opening "Sicilian"]
+[Variation "Hungarian variation"]
+[HashCode "3a24e5b9"]
+[Epoch "Rook"]
+[BlackCountry "HUN"]
+
+1. e4 c5 2. Nf3 g6 3. d4 Bg7 4. Nc3 Qa5 5. Bd2 cxd4 6. Nd5 Qd8 7. Bf4 d6 8. Bg3
+Nc6 9. Qd2 e6 10. Bh4 f6 11. Nb4 Bh6 0-1

@@ -1,0 +1,25 @@
+[Event "corr GB jub"]
+[Site "corr GB jub"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Hintikka"]
+[Black "Vukcevich, Milan R"]
+[Result "0-1"]
+[ECO "C77"]
+[Opening "Ruy Lopez"]
+[Variation "Wormald (Alapin) attack"]
+[HashCode "4996d97d"]
+[Epoch "Rook"]
+[BlackID "2000458"]
+[BlackCountry "USA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. Qe2 Qe7 6. O-O g6 7. d4 Nxd4 8.
+Nxd4 exd4 9. c3 Bg7 10. cxd4 O-O 11. Nc3 b5 12. e5 bxa4 13. Qf3 Rb8 14. Bg5 Bb7
+15. exf6 Qb4 16. Qg3 Bh8 17. Qxc7 Qxd4 18. Qg3 Bc6 19. Rfd1 Qb6 20. Rab1 Rfe8
+21. Rd6 Qc5 22. h4 Qf5 23. Rbd1 h6 24. Nd5 Bxd5 25. R6xd5 Qe4 26. f3 Qc2 27.
+Rc1 Qxb2 28. Bxh6 Qxf6 29. h5 Rb5 30. Rcd1 Qc6 31. Rxb5 axb5 32. hxg6 Qxg6 33.
+Qxg6+ fxg6 34. Rxd7 b4 35. Kh2 Ra8 36. Bc1 a3 37. Rb7 Bc3 38. Kh3 Rd8 39. Bh6
+Rd1 40. Kg4 Rg1 41. g3 Rg2 42. Kg5 Rxg3+ 43. Kf4 Rg2 44. Rb8+ Kf7 45. Bf8 Rb2
+46. Bc5 Rb1 47. Ra8 Re1 48. Ra4 Bd2+ 49. Kg4 Rc1 50. Bd6 Rc6 51. Ra7+ Ke6 52.
+Bf8 Rc2 53. Rb7 Kd5 54. f4 Kc4 55. Rc7+ Kd3 56. Rd7+ Kc3 57. Rb7 Rb2 58. Kg5
+Bxf4+ 59. Kxf4 Rf2+ 60. Ke3 Rxf8 61. Rc7+ Kb2 62. Rb7 Kxa2 63. Rxb4 g5 0-1

@@ -1,0 +1,22 @@
+[Event "New York Int"]
+[Site "New York Int"]
+[Date "1984.01.01"]
+[Round "7"]
+[White "Frenkel, Oleg"]
+[Black "Schroer, Jonathan"]
+[Result "0-1"]
+[ECO "B31"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (with ...g6, without ...d6)"]
+[HashCode "a6d668bf"]
+[Epoch "Rook"]
+[WhiteID "2002183"]
+[WhiteCountry "USA"]
+[BlackID "2000849"]
+[BlackCountry "USA"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. Re1 e5 6. Bxc6 bxc6 7. d3 Ne7 8.
+Be3 d6 9. c3 O-O 10. d4 exd4 11. cxd4 Bg4 12. Nc3 d5 13. exd5 cxd5 14. dxc5 d4
+15. Bxd4 Bxf3 16. Qxf3 Bxd4 17. Rad1 Qd7 18. Ne2 Nc6 19. b4 Rab8 20. a3 Rfd8
+21. Nxd4 Nxd4 22. Qf6 Re8 23. Rxe8+ Rxe8 24. Qd6 Qxd6 25. cxd6 Re6 26. Kf1 Rxd6
+27. Rc1 Ra6 28. Rc8+ Kg7 29. Rd8 Nb5 30. Rb8 Nxa3 31. b5 Rb6 32. Ra8 Nxb5 0-1

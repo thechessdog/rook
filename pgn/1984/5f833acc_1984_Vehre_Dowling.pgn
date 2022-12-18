@@ -1,0 +1,23 @@
+[Event "match"]
+[Site "match"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Vehre, John"]
+[Black "Dowling, John"]
+[Result "1-0"]
+[ECO "A44"]
+[Opening "Semi-Benoni (`blockade variation')"]
+[HashCode "5f833acc"]
+[Epoch "Rook"]
+[BlackID "2017164"]
+[BlackCountry "USA"]
+[WhiteCountry "USA"]
+
+1. d4 c5 2. d5 e5 3. e4 d6 4. f4 exf4 5. Nc3 Qh4+ 6. Ke2 g5 7. Nf3 Qh5 8. Kf2
+Bg7 9. g3 fxg3+ 10. hxg3 Qg6 11. Bxg5 Nf6 12. Qd2 Ng4+ 13. Kg2 h6 14. Bf4 a6
+15. Re1 Nd7 16. Nh4 Qf6 17. Nf5 Nde5 18. Nxg7+ Qxg7 19. a4 Bd7 20. Be2 h5 21.
+Bg5 f6 22. Bh4 O-O-O 23. b4 cxb4 24. Nd1 Bxa4 25. Qxb4 Be8 26. Rhf1 Rf8 27. Kh1
+Qc7 28. Bxg4+ Nxg4 29. Ne3 Kb8 30. Nxg4 hxg4 31. e5 Qc5 32. Qxc5 dxc5 33. c4 b5
+34. e6 Rh8 35. Kg1 Rxh4 36. gxh4 bxc4 37. Rxf6 Ba4 38. e7 Re8 39. Rxa6 Bd7 40.
+d6 Kb7 41. Rea1 c3 42. Ra7+ Kc6 43. R1a6+ Kb5 44. Ra3 Kb4 45. Rxc3 Kxc3 46.
+Rxd7 1-0

@@ -1,0 +1,21 @@
+[Event "corr DDR-PK"]
+[Site "corr DDR-PK"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Hobusch, W."]
+[Black "Pichler, M."]
+[Result "1-0"]
+[ECO "C69"]
+[Opening "Ruy Lopez"]
+[Variation "exchange, Gligoric variation"]
+[HashCode "69b3375a"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O f6 6. d4 Bg4 7. c3 exd4
+8. cxd4 c5 9. d5 Bd6 10. Nbd2 Ne7 11. Re1 Qd7 12. a4 a5 13. Qb3 O-O 14. Nc4
+Bh5 15. Nfd2 Bf7 16. Nf1 Ng6 17. Nfe3 b6 18. Nf5 Rfe8 19. Nfxd6 cxd6 20.
+Qxb6 Bxd5 21. Qxd6 Qb7 22. Nxa5 Qf7 23. f3 Be6 24. Nc6 Bb3 25. Qxc5 Rac8
+26. Qc3 Qe6 27. Nd4 Rxc3 28. Nxe6 Rc4 29. Ra3 Bxa4 30. Nxg7 Kxg7 31. b3 Rc2
+32. bxa4 Rb8 33. a5 Rbc8 34. Be3 Ne5 35. Bf4 Rb2 36. a6 Rcc2 37. a7 Rxg2+
+38. Kh1 Nxf3 39. Rxf3 1-0
+

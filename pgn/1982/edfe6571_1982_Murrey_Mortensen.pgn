@@ -1,0 +1,20 @@
+[Event "Randers II zt"]
+[Site "Randers II zt"]
+[Date "1982.01.01"]
+[Round "4"]
+[White "Murey, Jacob"]
+[Black "Mortensen, Erling"]
+[Result "1-0"]
+[ECO "E86"]
+[Opening "King's Indian"]
+[Variation "Saemisch, orthodox, 7.Nge2 c6"]
+[HashCode "edfe6571"]
+[Epoch "Rook"]
+[BlackID "1400045"]
+[BlackCountry "DEN"]
+[WhiteID "2803585"]
+[WhiteCountry "ISR"]
+
+1. c4 Nf6 2. Nc3 g6 3. e4 d6 4. d4 Bg7 5. f3 O-O 6. Be3 e5 7. Nge2 c6 8. Qd2
+exd4 9. Nxd4 d5 10. cxd5 cxd5 11. e5 Ne8 12. f4 f6 13. Nf3 Nc7 14. O-O-O fxe5
+15. Bc4 Kh8 16. Nxd5 Nxd5 17. Qxd5 Qc7 18. Nxe5 Bf5 19. Bc5 Nd7 20. Qg8+ 1-0

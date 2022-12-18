@@ -1,0 +1,17 @@
+[Event "corr Italy"]
+[Site "corr Italy"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Benassi"]
+[Black "Troja"]
+[Result "1-0"]
+[ECO "B33"]
+[Opening "Sicilian"]
+[Variation "Sveshnikov variation"]
+[HashCode "72f1161e"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6
+8. Na3 b5 9. Bxf6 gxf6 10. Nd5 f5 11. Qf3 fxe4 12. Nf6+ Ke7 13. Nd5+ Ke6
+14. Qxe4 Bh6 15. g3 f5 16. Bh3 Nd4 17. Nf4+ Bxf4 18. Qxa8 1-0
+

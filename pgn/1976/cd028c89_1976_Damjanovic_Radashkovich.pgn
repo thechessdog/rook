@@ -1,0 +1,17 @@
+[Event "Beer Sheva"]
+[Site "Beer Sheva"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Damjanovic, Mato"]
+[Black "Radashkovich, Itzha"]
+[Result "1/2-1/2"]
+[ECO "C82"]
+[Opening "Ruy Lopez"]
+[Variation "open, Berlin variation"]
+[HashCode "cd028c89"]
+[Epoch "Rook"]
+[WhiteCountry "HRV"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Be6 9. c3 Nc5 10. Nd4 Nxe5 11. f4 Nc4 12. f5 Bd7 13. Re1+ Ne4 14. Nd2 Be7 15.
+Nxe4 dxe4 16. Re2 Nd6 17. Bf4 O-O 18. Bxd6 Bxd6 19. Rxe4 Rb8 20. Qf3 1/2-1/2

@@ -1,0 +1,21 @@
+[Event "Bonn"]
+[Site "Bonn"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Bohm, Hans"]
+[Black "Borngaesser, Rene"]
+[Result "1-0"]
+[ECO "A88"]
+[Opening "Dutch"]
+[Variation "Leningrad, main variation with c6"]
+[HashCode "8dc0fc42"]
+[Epoch "Rook"]
+[BlackID "4600940"]
+[BlackCountry "GER"]
+[WhiteID "1000306"]
+[WhiteCountry "NED"]
+
+1. d4 f5 2. g3 Nf6 3. Bg2 g6 4. Nf3 Bg7 5. O-O O-O 6. c4 d6 7. Nc3 c6 8. d5 Qa5
+9. Nd4 Qc5 10. Be3 Qxc4 11. Rc1 Qa6 12. b4 Qa3 13. b5 cxd5 14. Nxd5 Nxd5 15.
+Bxd5+ Kh8 16. Qd2 e5 17. Ne6 Bxe6 18. Bxe6 a6 19. Rc7 f4 20. gxf4 axb5 21. fxe5
+Bxe5 22. Bc5 Qa5 23. Qh6 1-0

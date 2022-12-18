@@ -1,0 +1,20 @@
+[Event "Holzoster am See"]
+[Site "Holzoster am See"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Van der Wiel, John T.H."]
+[Black "Bielczyk, Jacek"]
+[Result "1/2-1/2"]
+[ECO "B56"]
+[Opening "Sicilian"]
+[Variation "Venice attack"]
+[HashCode "0026ae20"]
+[Epoch "Rook"]
+[WhiteID "1000020"]
+[WhiteCountry "NED"]
+[BlackID "1100530"]
+[BlackCountry "POL"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Bb5+ Nbd7 7. Nf5 a6 8.
+Ba4 b5 9. Bb3 Nc5 10. Bg5 Bxf5 11. exf5 Be7 12. Bxf6 Bxf6 13. Qd5 O-O 14. O-O
+e4 15. Rad1 Bxc3 16. bxc3 Ra7 17. Rfe1 1/2-1/2

@@ -1,0 +1,19 @@
+[Event "Europe"]
+[Site "Europe"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Williams"]
+[Black "Rowley"]
+[Result "0-1"]
+[ECO "B18"]
+[Opening "Caro-Kann"]
+[Variation "classical, 6.h4"]
+[HashCode "4f2ab415"]
+[Epoch "Rook"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6 7. h5 Bh7 8.
+Nf3 Nd7 9. Bd3 Bxd3 10. Qxd3 Qc7 11. Bd2 e6 12. O-O-O Bd6 13. Ne4 Bf4 14.
+Kb1 Bxd2 15. Qxd2 Ngf6 16. Nxf6+ Nxf6 17. Ne5 c5 18. g4 O-O-O 19. Qc3 Rxd4
+20. Rxd4 cxd4 21. Qxc7+ Kxc7 22. Nxf7 Rf8 23. Ne5 Nd5 24. Nd3 Nf4 25. Nc5
+Kc6 26. Ne4 Ng2 0-1
+

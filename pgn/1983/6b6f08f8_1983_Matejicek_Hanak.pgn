@@ -1,0 +1,21 @@
+[Event "corr FSM/CSSR"]
+[Site "corr FSM/CSSR"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Matejicek"]
+[Black "Hanak"]
+[Result "1-0"]
+[ECO "B31"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (with ...g6, without ...d6)"]
+[HashCode "6b6f08f8"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. c3 Nf6 6. Re1 O-O 7. d4 cxd4 8.
+cxd4 d5 9. e5 Ne4 10. Nc3 Nxc3 11. bxc3 Bd7 12. Bd3 Rc8 13. Ng5 h6 14. Nxf7
+Kxf7 15. e6+ Bxe6 16. Rxe6 Kxe6 17. Qg4+ Kd6 18. Qxg6+ Bf6 19. Bf4+ e5 20.
+dxe5+ Nxe5 21. Bxe5+ Kxe5 22. Qg3+ Ke6 23. Re1+ Kd7 24. Bf5+ Kc6 25. Re6+
+Kc5 26. Qe3+ d4 27. Qc1 Kd5 28. Qb1 Qa5 29. Qxb7+ Kc5 30. Be4 dxc3 31. Ra6
+Qd8 32. Qxa7+ Kb5 33. Bd3+ Qxd3 34. Qb6+ Kc4 35. Ra4+ Kd5 36. Ra5+ Ke4 37.
+Qb7+ Kf4 38. g3+ Kg4 39. h3+ Kxh3 40. Qh1+ Kg4 41. Qh5# 1-0
+

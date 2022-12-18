@@ -1,0 +1,21 @@
+[Event "Fredrikstad"]
+[Site "Fredrikstad"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Brekke, Tore"]
+[Black "Backe, Peter"]
+[Result "0-1"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, Smyslov variation"]
+[HashCode "914a7761"]
+[Epoch "Rook"]
+[WhiteID "1502727"]
+[BlackID "1701240"]
+[WhiteCountry "NOR"]
+[BlackCountry "SWE"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. a4 Qa5 8. Qd2
+Nbc6 9. Nf3 Bd7 10. Bd3 f6 11. O-O O-O-O 12. Ba3 c4 13. Be2 Nf5 14. Rfb1 fxe5
+15. dxe5 d4 16. Bb4 Qd5 17. cxd4 Nfxd4 18. Nxd4 Nxd4 19. Bd6 Bc6 20. Kf1 Qxg2+
+21. Ke1 Qg1+ 22. Bf1 Nf3+ 0-1

@@ -1,0 +1,16 @@
+[Event "Switzerland"]
+[Site "Switzerland"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Bleul"]
+[Black "Frey"]
+[Result "0-1"]
+[ECO "C00"]
+[Opening "French"]
+[Variation "King's Indian attack"]
+[HashCode "59d2aab4"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d3 b6 3. g3 Bb7 4. Bg2 f5 5. Ne2 fxe4 6. dxe4 Nf6 7. Nbc3 Bc5
+8. O-O O-O 9. Nd4 Nc6 10. Be3 Ne5 11. Re1 Nfg4 12. h3 Nxe3 13. Rxe3 Qf6 0-1
+

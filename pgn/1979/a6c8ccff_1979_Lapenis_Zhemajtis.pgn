@@ -1,0 +1,17 @@
+[Event "Vilnius"]
+[Site "Vilnius"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Lapenis"]
+[Black "Zhemajtis"]
+[Result "1-0"]
+[ECO "D32"]
+[Opening "QGD"]
+[Variation "Tarrasch, von Hennig-Schara gambit"]
+[HashCode "a6c8ccff"]
+[Epoch "Rook"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c5 4. cxd5 cxd4 5. Qa4+ Qd7 6. Nb5 Na6 7. d6 f6 8.
+Bf4 Nh6 9. e4 Nf7 10. Bc4 Kd8 11. Nf3 e5 12. Bxf7 Qxf7 13. Nxe5 fxe5 14.
+Bg5+ Kd7 15. Nxd4+ Kxd6 16. Nb5+ Kc6 17. Rc1+ Bc5 18. Be3 Bd7 19. b4 1-0
+

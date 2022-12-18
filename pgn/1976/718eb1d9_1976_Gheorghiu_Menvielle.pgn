@@ -1,0 +1,21 @@
+[Event "Las Palmas"]
+[Site "Las Palmas"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Gheorghiu, Florin"]
+[Black "Menvielle, A."]
+[Result "1-0"]
+[ECO "B29"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rubinstein variation"]
+[HashCode "718eb1d9"]
+[Epoch "Rook"]
+[WhiteID "1200011"]
+[WhiteCountry "ROU"]
+
+1. e4 c5 2. Nf3 Nf6 3. d3 Nc6 4. g3 d5 5. Nbd2 Bg4 6. h3 Bh5 7. Bg2 e6 8. O-O
+Be7 9. c3 O-O 10. g4 dxe4 11. dxe4 Bg6 12. Qe2 Qc7 13. Ne1 e5 14. Nc4 b5 15.
+Ne3 c4 16. Nd5 Nxd5 17. exd5 Na5 18. d6 Bxd6 19. Bxa8 Rxa8 20. Be3 Be4 21. Bb6
+Qxb6 22. Qxe4 Rd8 23. Nf3 Nb7 24. Ng5 h6 25. Qh7+ Kf8 26. Ne4 f6 27. Rad1 Kf7
+28. Ng3 Nc5 29. Nf5 Ne6 30. Nxh6+ Ke7 31. Nf5+ Kf7 32. Qh5+ Kg8 33. Rxd6 Rxd6
+34. Qe8+ Kh7 35. Ne7 1-0

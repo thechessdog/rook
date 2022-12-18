@@ -1,0 +1,17 @@
+[Event "corr ch-DDR"]
+[Site "corr ch-DDR"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Hentzgen"]
+[Black "Broberg, H."]
+[Result "1/2-1/2"]
+[ECO "C01"]
+[Opening "French"]
+[Variation "exchange variation"]
+[HashCode "a00bc64c"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. Bd3 Nc6 5. Ne2 Bd6 6. Nbc3 Nge7 7. Nb5
+Bf5 8. O-O O-O 9. Bg5 Qd7 10. c3 f6 11. Nxd6 Bxd3 12. Qxd3 Qxd6 13. Bf4 Qd7
+14. Ng3 Ng6 15. Bd2 f5 16. f4 Nce7 17. b3 Rad8 18. Rad1 Nc8 1/2-1/2
+

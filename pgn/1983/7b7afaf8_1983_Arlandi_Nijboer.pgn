@@ -1,0 +1,20 @@
+[Event "EU-ch U20"]
+[Site "Groningen"]
+[Date "1983.??.??"]
+[Round "4"]
+[White "Arlandi, Ennio"]
+[Black "Nijboer, Friso"]
+[Result "1-0"]
+[ECO "E39"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, Pirc variation"]
+[HashCode "7b7afaf8"]
+[Epoch "Rook"]
+[WhiteID "800104"]
+[BlackID "1000063"]
+[WhiteCountry "ITA"]
+[BlackCountry "NED"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 c5 5. dxc5 O-O 6. a3 Bxc5 7. Nf3 d5 8.
+cxd5 exd5 9. Bg5 Qb6 10. e3 Ne4 11. Rc1 Nxg5 12. Nxg5 g6 13. Nxd5 Qa5+ 14. Qc3
+Qxc3+ 15. Rxc3 Nd7 16. Bb5 1-0

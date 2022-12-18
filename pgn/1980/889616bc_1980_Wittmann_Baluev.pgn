@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Wittmann, Walter"]
+[Black "Baluev"]
+[Result "0-1"]
+[ECO "B76"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, 7...O-O"]
+[HashCode "889616bc"]
+[Epoch "Rook"]
+[WhiteID "1600060"]
+[WhiteCountry "AUT"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8. Qd2
+Nc6 9. g4 Nxd4 10. Bxd4 Be6 11. h4 Qa5 12. h5 Rac8 13. h6 Bh8 14. g5 Nd7 15.
+Bxh8 Kxh8 16. f4 f6 17. a3 fxg5 18. fxg5 Qb6 19. O-O-O Rf7 20. Qe1 Ne5 0-1

@@ -1,0 +1,26 @@
+[Event "Newton,MA"]
+[Site "Newton,MA"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Curdo, John"]
+[Black "Rizzitano, James"]
+[Result "1-0"]
+[ECO "B06"]
+[Opening "Robatsch defence"]
+[Variation "Pseudo-Austrian attack"]
+[HashCode "ecc83f63"]
+[Epoch "Rook"]
+[WhiteID "2001705"]
+[BlackID "2000806"]
+[WhiteCountry "USA"]
+[BlackCountry "USA"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. f4 c6 5. Nf3 Qb6 6. Rb1 Bg4 7. Be3 e6 8. h3
+Bxf3 9. Qxf3 Ne7 10. Bd3 Nd7 11. e5 d5 12. O-O h5 13. g4 O-O-O 14. b4 Qc7 15.
+b5 Nb6 16. bxc6 bxc6 17. Ba6+ Kd7 18. a4 hxg4 19. hxg4 Rb8 20. a5 Nc4 21. Bxc4
+dxc4 22. Ne4 Rb5 23. Rxb5 cxb5 24. Nd6 Qc6 25. Nxf7 Qxf3 26. Rxf3 Rh4 27. Rg3
+Nd5 28. Bc1 Bf8 29. c3 Be7 30. Bd2 Rh7 31. Ng5 Bxg5 32. fxg5 Rf7 33. Rh3 Kc6
+34. Rh6 b4 35. cxb4 c3 36. Bc1 c2 37. Rxg6 Nf4 38. Rf6 Ne2+ 39. Kg2 Rxf6 40.
+exf6 Kd7 41. Ba3 c1=Q 42. Bxc1 Nxc1 43. g6 Ke8 44. g7 Kf7 45. b5 Ne2 46. b6
+axb6 47. axb6 Nxd4 48. b7 Nc6 49. Kf3 Nb8 50. Ke4 Nc6 51. g5 Kg8 52. Kf4 Kf7
+53. g6+ Kg8 54. Kg5 Nb8 55. Kh6 1-0

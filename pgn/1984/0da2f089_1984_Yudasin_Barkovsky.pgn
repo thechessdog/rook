@@ -1,0 +1,21 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Yudasin"]
+[Black "Barkovsky, Eduard"]
+[Result "0-1"]
+[ECO "B03"]
+[Opening "Alekhine's defence"]
+[Variation "four pawns attack, Trifunovic variation"]
+[HashCode "0da2f089"]
+[Epoch "Rook"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. c4 Nb6 5. f4 Bf5 6. Nc3 e6 7. Be3 Na6 8.
+Nf3 Be7 9. Be2 c5 10. dxc5 dxc5 11. a3 O-O 12. Qb3 Qd7 13. O-O Rad8 14.
+Rfd1 Qc7 15. h3 Nc8 16. Nd2 Nb8 17. g4 Bg6 18. Nd5 exd5 19. cxd5 Bd6 20.
+Bf3 Bxe5 21. fxe5 Qxe5 22. Bg2 Bc2 23. Qxc2 Qxe3+ 24. Kh1 Nd6 25. Nf1 Qf4
+26. Qxc5 Ne4 27. Qd4 Rfe8 28. Kg1 Nd7 29. Qe3 Qxe3+ 30. Nxe3 Nd6 31. Kf2
+Rc8 32. Rac1 Nc5 33. Rc2 Kf8 34. Ke2 Na4 35. Rxc8 Rxc8 36. Rd2 Re8 37. b3
+Nc5 38. b4 Nb3 39. Rb2 Nc1+ 40. Kd2 Rxe3 41. Kxc1 Rxa3 0-1
+

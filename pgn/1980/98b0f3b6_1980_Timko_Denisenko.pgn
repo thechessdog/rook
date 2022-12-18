@@ -1,0 +1,20 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Timko"]
+[Black "Denisenko"]
+[Result "0-1"]
+[ECO "D86"]
+[Opening "Gruenfeld"]
+[Variation "exchange, classical variation"]
+[HashCode "98b0f3b6"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Bc4 c5
+8. Ne2 Nc6 9. Be3 O-O 10. O-O Qc7 11. Rc1 Rd8 12. Kh1 e6 13. f4 Na5 14. Bd3
+f5 15. Qe1 b6 16. e5 Bb7 17. Qf2 c4 18. Bb1 Nc6 19. Ng1 Ne7 20. Nf3 Nd5 21.
+Bd2 Qe7 22. Ng5 b5 23. Qg3 Rac8 24. Qh3 Bf8 25. Kg1 a5 26. g4 b4 27. Nxe6
+Qxe6 28. gxf5 gxf5 29. Bxf5 Qh6 30. Bxc8 Rxc8 31. Qg3+ Kh8 32. Kf2 bxc3 33.
+Rg1 Be7 34. Qg4 cxd2 35. Rxc4 Rf8 0-1
+

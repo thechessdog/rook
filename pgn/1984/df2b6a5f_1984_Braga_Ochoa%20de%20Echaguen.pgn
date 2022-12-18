@@ -1,0 +1,20 @@
+[Event "Bayamo"]
+[Site "Bayamo"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Braga, Fernando"]
+[Black "Ochoa de Echaguen, F Javier"]
+[Result "1/2-1/2"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "df2b6a5f"]
+[Epoch "Rook"]
+[WhiteID "811408"]
+[WhiteCountry "ITA"]
+[BlackCountry "ESP"]
+[BlackID "2200210"]
+
+1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. d4 cxd4 5. Nf3 d6 6. Bc4 dxe5 7. Nxe5 Nc6 8.
+Nxc6 bxc6 9. Qxd4 Qb6 10. Qe4 e6 11. O-O Ba6 12. Nd2 Be7 13. Bxa6 Qxa6 14. Nc4
+O-O 15. Ne5 Bd6 16. Rd1 Rad8 1/2-1/2

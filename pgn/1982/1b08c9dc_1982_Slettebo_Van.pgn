@@ -1,0 +1,20 @@
+[Event "corr EU"]
+[Site "corr EU"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Slettebo"]
+[Black "Van der Kooij"]
+[Result "1-0"]
+[ECO "C45"]
+[Opening "Scotch"]
+[Variation "Potter variation"]
+[HashCode "1b08c9dc"]
+[Epoch "Rook"]
+[BlackID "1011812"]
+[BlackCountry "NED"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Bc5 5. Nb3 Bb6 6. a4 a6 7. Nc3 d6 8. Nd5
+Ba7 9. Qe2 Nge7 10. Bg5 O-O 11. O-O-O f6 12. Be3 Bd7 13. Bxa7 Nxa7 14. Nd4 c5
+15. Nxe7+ Qxe7 16. Nf5 Bxf5 17. exf5 Qxe2 18. Bxe2 Rfd8 19. Bf3 Rab8 20. Rhe1
+b5 21. Re6 Nc8 22. a5 b4 23. Rde1 Na7 24. Re7 Nb5 25. Bd5+ Kh8 26. g4 Nd4 27.
+R1e3 1-0

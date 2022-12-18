@@ -1,0 +1,20 @@
+[Event "corr ch13-SU"]
+[Site "corr ch13-SU"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Schaposchnikow, J."]
+[Black "Kuuskmaa, E."]
+[Result "1-0"]
+[ECO "A09"]
+[Opening "Reti"]
+[Variation "advance variation"]
+[HashCode "6aa751a3"]
+[Epoch "Rook"]
+
+1. Nf3 d5 2. c4 d4 3. e3 Nc6 4. a3 e5 5. b4 dxe3 6. dxe3 Qxd1+ 7. Kxd1 Bg4
+8. Be2 e4 9. Nfd2 Bf5 10. g4 Bg6 11. h4 h6 12. Bb2 O-O-O 13. b5 Nb8 14. Bd4
+Nd7 15. Nb3 Nc5 16. Kc2 Nxb3 17. Kxb3 h5 18. Nc3 hxg4 19. Bxg4+ Kb8 20.
+Rad1 Nh6 21. Bxa7+ Kxa7 22. Rxd8 Nxg4 23. c5 b6 24. cxb6+ cxb6 25. Rc1 Bxa3
+26. Rd7+ Kb8 27. Kxa3 Ne5 28. Rd5 Nd3 29. Ra1 Kc7 30. Kb3 Nc5+ 31. Kc4 Rxh4
+32. Ra7+ Nb7 33. Re5 1-0
+

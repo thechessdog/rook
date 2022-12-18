@@ -1,0 +1,17 @@
+[Event "corr NLD/K"]
+[Site "corr NLD/K"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Ten Berge, H."]
+[Black "Vercoutre, R."]
+[Result "1-0"]
+[ECO "B87"]
+[Opening "Sicilian"]
+[Variation "Sozin with ...a6 and ...b5"]
+[HashCode "f2ef121c"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 b5 8.
+O-O Be7 9. f4 O-O 10. e5 dxe5 11. fxe5 Nfd7 12. Qh5 Bb7 13. Bf4 Bc5 14.
+Rad1 Nc6 1-0
+

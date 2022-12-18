@@ -1,0 +1,19 @@
+[Event "corr ch11-DDR"]
+[Site "corr ch11-DDR"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Cherek, G."]
+[Black "Bergelt, M."]
+[Result "1-0"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "4.Nf3"]
+[HashCode "05a389cd"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Nbd7 5. Bg5 c6 6. cxd5 exd5 7. Qc2 Be7
+8. e3 h6 9. Bf4 Nh5 10. Nxd5 cxd5 11. Bc7 Bb4+ 12. Kd1 Qe7 13. Rc1 O-O 14.
+g4 Nhf6 15. g5 hxg5 16. Nxg5 Ne4 17. h4 Nxg5 18. hxg5 Qe4 19. Rh2 Re8 20.
+Qb3 Be7 21. Bd3 Qg4+ 22. Kd2 Nf8 23. Qxd5 Qxg5 24. Rch1 g6 25. Rh8+ Kg7 26.
+Be5+ Bf6 27. f4 Qg4 28. Bxf6+ Kxf6 29. Rxf8 Be6 30. Qe5+ Ke7 31. Rxf7+ 1-0
+

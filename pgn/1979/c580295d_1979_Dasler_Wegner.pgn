@@ -1,0 +1,23 @@
+[Event "corr DDR-H"]
+[Site "corr DDR-H"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Dasler, H."]
+[Black "Wegner, R."]
+[Result "1-0"]
+[ECO "E58"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line with 8...Bxc3"]
+[HashCode "c580295d"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 c5 7. O-O Nc6 8.
+a3 Bxc3 9. bxc3 Qc7 10. Bb2 dxc4 11. Bxc4 e5 12. d5 e4 13. dxc6 exf3 14.
+Qxf3 Bg4 15. Qg3 Qxc6 16. Rfe1 Bf5 17. f3 b5 18. e4 Bg6 19. Be2 c4 20. Red1
+Rad8 21. Bc1 Rxd1+ 22. Bxd1 Qc5+ 23. Qf2 Qxf2+ 24. Kxf2 Rd8 25. Be2 Bxe4
+26. fxe4 Nxe4+ 27. Kf3 Nxc3 28. Be3 Rd6 29. Re1 Rf6+ 30. Kg3 Ra6 31. Bf3 h6
+32. Bc5 f5 33. Bb7 Rg6+ 34. Kf3 a5 35. Re5 b4 36. axb4 axb4 37. Bc8 Rf6 38.
+Bxb4 Ne4 39. Rxf5 Ng5+ 40. Ke3 Rb6 41. Rf8+ Kh7 42. Bc3 Ne6 43. Re8 Rd6 44.
+Bxe6 Rd3+ 45. Ke2 Rxc3 46. Bf5+ g6 47. Re7+ Kg8 48. Bxg6 Ra3 49. Bf7+ Kf8
+50. Rc7 Ra2+ 51. Kf3 Ra3+ 52. Kf4 Ra2 53. Bd5 c3 54. Bxa2 1-0
+

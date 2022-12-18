@@ -1,0 +1,21 @@
+[Event "Phoenix op"]
+[Site "Phoenix"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Morley, M."]
+[Black "Tarjan, James"]
+[Result "0-1"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "15b39d46"]
+[Epoch "Rook"]
+[BlackID "2000180"]
+[BlackCountry "USA"]
+
+1. e4 c5 2. c3 e6 3. d3 Nc6 4. f4 g6 5. Nf3 Bg7 6. g3 Nge7 7. Bg2 O-O 8. O-O d6
+9. Be3 b5 10. d4 cxd4 11. cxd4 Bb7 12. Nc3 b4 13. Ne2 Rc8 14. Qd3 Qa5 15. Rf2
+Qa6 16. Nc1 Nxd4 17. Qxa6 Nxf3+ 18. Bxf3 Bxa6 19. Bxa7 Nc6 20. Be3 Nd4 21. Bd1
+Rc4 22. a4 Rfc8 23. Nb3 Nxb3 24. Bxb3 Rxe4 25. Bb6 Bd4 26. Bxd4 Rxd4 27. a5 Kf8
+28. Kg2 Ke7 29. g4 Rc5 30. h3 Bd3 31. Bc2 Rdd5 32. Ra4 Rxa5 33. Rxb4 Rdb5 34.
+Rc4 Rxb2 35. Rc7+ Kd8 36. Rxf7 Raa2 37. Rxh7 Rxc2 0-1

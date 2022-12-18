@@ -1,0 +1,19 @@
+[Event "corr USCCC"]
+[Site "corr USCCC"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Carlson, Curtis"]
+[Black "Peek"]
+[Result "1-0"]
+[ECO "B17"]
+[Opening "Caro-Kann"]
+[Variation "Steinitz variation"]
+[HashCode "81a494ce"]
+[Epoch "Rook"]
+[WhiteID "2002868"]
+[WhiteCountry "USA"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Bc4 Ngf6 6. Ng5 e6 7. Qe2 Nb6 8.
+Bd3 h6 9. N5f3 c5 10. dxc5 Nbd7 11. b4 b6 12. Nd4 Nxc5 13. Bb5+ Ncd7 14. a3 Qc7
+15. Bb2 Be7 16. Ngf3 O-O 17. O-O-O Nb8 18. Bd3 Nc6 19. Nb5 Qf4+ 20. Kb1 Qb8 21.
+Bxf6 1-0

@@ -1,0 +1,17 @@
+[Event "Dayton,OH"]
+[Site "Dayton,OH"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Hayes, Dan"]
+[Black "Wall, Bill"]
+[Result "0-1"]
+[ECO "B33"]
+[Opening "Sicilian"]
+[Variation "Pelikan (Lasker/Sveshnikov) variation"]
+[HashCode "968e9230"]
+[Epoch "Rook"]
+[BlackCountry "USA"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Nxc6 bxc6 7. Bc4 Bb4 8.
+Bd2 O-O 9. O-O Bxc3 10. Bxc3 Nxe4 11. Qd3 Nxc3 12. Qxc3 d5 13. Bd3 e4 14. Be2
+Qg5 15. f3 Bh3 16. Rf2 e3 0-1

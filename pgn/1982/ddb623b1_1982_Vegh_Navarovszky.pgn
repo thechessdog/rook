@@ -1,0 +1,18 @@
+[Event "Elekes mem-B"]
+[Site "Budapest"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Vegh, Endre"]
+[Black "Navarovszky, Laszlo"]
+[Result "1/2-1/2"]
+[ECO "D90"]
+[Opening "Gruenfeld"]
+[Variation "Schlechter variation"]
+[HashCode "ddb623b1"]
+[Epoch "Rook"]
+[WhiteID "700568"]
+[WhiteCountry "HUN"]
+[BlackCountry "HUN"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 c6 5. e3 Bg7 6. Be2 O-O 7. O-O dxc4 8. Bxc4
+Nbd7 9. Qe2 Nb6 10. Bb3 Bg4 1/2-1/2

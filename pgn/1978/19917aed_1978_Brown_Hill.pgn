@@ -1,0 +1,17 @@
+[Event "London"]
+[Site "London"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Brown, S."]
+[Black "Hill Smith"]
+[Result "1-0"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack"]
+[HashCode "19917aed"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 Nbd7 4. Nf3 g6 5. Qd2 Bg7 6. O-O-O O-O 7. h4 h5
+8. Ne5 Nxe5 9. dxe5 Ng4 10. Nxd5 Be6 11. Bxe7 Qxd5 12. Qxd5 Bxd5 13. Bxf8
+Rxf8 14. Rxd5 Bxe5 15. Rh3 Nxf2 16. Rxe5 Nxh3 17. gxh3 Kg7 18. Re7 Rc8 19.
+Bg2 Kf6 20. Bxb7 Rb8 21. Rxc7 Ke6 22. c4 f5 23. Bd5+ 1-0
+

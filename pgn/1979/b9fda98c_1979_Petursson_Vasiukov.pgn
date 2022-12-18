@@ -1,0 +1,19 @@
+[Event "Prague"]
+[Site "Prague"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Petursson, M."]
+[Black "Vasiukov, Evgeni"]
+[Result "1/2-1/2"]
+[ECO "E06"]
+[Opening "Catalan"]
+[Variation "closed, 5.Nf3"]
+[HashCode "b9fda98c"]
+[Epoch "Rook"]
+[BlackID "4100522"]
+[BlackCountry "RUS"]
+[WhiteCountry "ISL"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Nf3 Be7 5. Bg2 O-O 6. O-O dxc4 7. Ne5 Nc6 8.
+Nxc6 bxc6 9. Na3 Bxa3 10. bxa3 Rb8 11. Qa4 Qxd4 12. Be3 Qb2 13. Qxc4 e5 14.
+Bxa7 Be6 15. Qxc6 Rbc8 16. Rfe1 Rfd8 17. Qc1 Qb5 18. Kf1 1/2-1/2

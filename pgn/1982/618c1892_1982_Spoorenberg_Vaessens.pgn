@@ -1,0 +1,15 @@
+[Event "HMC"]
+[Site "HMC"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Spoorenberg, J."]
+[Black "Vaessens, J."]
+[Result "1-0"]
+[ECO "C41"]
+[Opening "Philidor's defence"]
+[HashCode "618c1892"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 d6 3. Bc4 h6 4. d4 Nc6 5. O-O Bg4 6. Bd2 Bxf3 7. Qxf3 Nxd4
+8. Qxf7# 1-0
+

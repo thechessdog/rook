@@ -1,0 +1,15 @@
+[Event "Ohio"]
+[Site "Ohio"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Greenwalt"]
+[Black "Wall, Bill"]
+[Result "0-1"]
+[ECO "A02"]
+[Opening "Bird"]
+[Variation "From gambit"]
+[HashCode "03182371"]
+[Epoch "Rook"]
+[BlackCountry "USA"]
+
+1. f4 e5 2. fxe5 d6 3. exd6 Bxd6 4. Nc3 Qh4+ 5. g3 Bxg3+ 6. hxg3 Qxg3# 0-1

@@ -1,0 +1,18 @@
+[Event "New York Int"]
+[Site "New York Int"]
+[Date "1984.01.01"]
+[Round "9"]
+[White "Wilder, Michael"]
+[Black "Ivanov, Igor Vasilyevich"]
+[Result "1/2-1/2"]
+[ECO "E97"]
+[Opening "King's Indian"]
+[Variation "orthodox, Aronin-Taimanov variation (Yugoslav attack / Mar del Plata variation)"]
+[HashCode "feda8e57"]
+[Epoch "Rook"]
+[WhiteID "2000130"]
+[WhiteCountry "USA"]
+[BlackCountry "RUS"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. O-O Nc6 8. Be3
+Re8 9. dxe5 dxe5 10. Qxd8 Nxd8 11. Nb5 1/2-1/2

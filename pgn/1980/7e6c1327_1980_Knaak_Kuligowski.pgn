@@ -1,0 +1,31 @@
+[Event "DDR"]
+[Site "DDR"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Knaak, Rainer"]
+[Black "Kuligowski, Adam"]
+[Result "1-0"]
+[ECO "E41"]
+[Opening "Nimzo-Indian"]
+[Variation "e3, Huebner variation"]
+[HashCode "7e6c1327"]
+[Epoch "Rook"]
+[BlackID "1100092"]
+[WhiteID "4611250"]
+[WhiteCountry "GER"]
+[BlackCountry "POL"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 Nc6 6. Nf3 Bxc3+ 7. bxc3 d6 8. e4
+e5 9. d5 Ne7 10. Nd2 Qa5 11. Qc2 Bd7 12. h4 Nh5 13. Rb1 O-O-O 14. Be2 Nf4 15.
+Bf3 f5 16. g3 Nfg6 17. h5 Nf8 18. Nb3 Qa6 19. Bg5 Re8 20. Qb2 h6 21. Be3 fxe4
+22. Be2 b6 23. g4 Nh7 24. a4 Nf6 25. Rg1 g5 26. a5 Kc7 27. Qa3 Ra8 28. Ra1 Qb7
+29. Kd2 Rhb8 30. Kc2 Qc8 31. Nd2 Bxg4 32. Rxg4 Nxg4 33. Nxe4 Nf6 34. Nxf6 Qf5+
+35. Kd2 Qxf6 36. Bg4 Qf8 37. Qa4 Qe8 38. Qc2 Qf7 39. Be6 Qf6 40. Qa4 Rd8 41.
+Qb5 Rab8 42. axb6+ axb6 43. Ra7+ Rb7 44. Qa6 Rb8 45. Rxb7+ Rxb7 46. Qa8 Rb8 47.
+Qa4 Rb7 48. Qe8 Qg7 49. Qd7+ Kb8 50. Qxd6+ Ka7 51. Bg4 Ng8 52. Be6 Nf6 53. Qxe5
+Nxh5 54. Qe4 Nf6 55. Qc2 Qh7 56. Bf5 Qc7 57. Kc1 Qe5 58. Bd2 Kb8 59. f3 Ne8 60.
+Be6 Nd6 61. Qg6 Qh2 62. Bf5 Re7 63. Bd3 Ra7 64. Qg8+ Kb7 65. Qg7+ Ka6 66. Qf8
+Nf7 67. Qc8+ Ka5 68. f4 Qh1+ 69. Kc2 Qa1 70. Bc1 gxf4 71. Qb8 Ra6 72. Qxf4 Qa4+
+73. Kb2 Qd7 74. Qh2 Ra8 75. Bf4 Re8 76. d6 Ka6 77. Kb3 Qg4 78. Qa2+ Kb7 79. Qd2
+Nd8 80. Bf1 Nc6 81. Bg2 Qd7 82. Qd5 h5 83. Bh3 Qxh3 84. Qf7+ Ka6 85. Qxe8 Qh1
+86. Qa8+ 1-0

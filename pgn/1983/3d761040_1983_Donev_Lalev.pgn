@@ -1,0 +1,25 @@
+[Event "Kamen Piskov mem 3"]
+[Site "Ruse"]
+[Date "1983.??.??"]
+[Round "2"]
+[White "Donev, Ivo Hristov"]
+[Black "Lalev, Dimitar"]
+[Result "0-1"]
+[ECO "B25"]
+[Opening "Sicilian"]
+[Variation "closed, 6.f4 e5 (Botvinnik)"]
+[HashCode "3d761040"]
+[Epoch "Rook"]
+[BlackID "2900254"]
+[BlackCountry "FID"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. f4 e5 7. Nh3 exf4 8. Nxf4
+Nge7 9. O-O O-O 10. Be3 Rb8 11. Nfd5 Nxd5 12. Nxd5 Be6 13. c3 Bxd5 14. exd5 Ne5
+15. Bf2 Qd7 16. d4 cxd4 17. Bxd4 b6 18. Bxe5 Bxe5 19. Qd3 h5 20. Rae1 f5 21. h3
+Kg7 22. Rf3 Rf7 23. Qd2 Rbf8 24. Ref1 h4 25. gxh4 Rh8 26. Qf2 Qd8 27. Re3 Rxh4
+28. Qe2 Qg5 29. Re1 Qf4 30. Qf2 Qh2+ 31. Kf1 Rh5 32. Rf3 Re7 33. Qg1 Qxg1+ 34.
+Kxg1 Kf6 35. Kf2 Rh4 36. Bf1 Rc7 37. Kg2 Rc5 38. Rd1 Re4 39. a3 Bf4 40. Bd3
+Rxd5 41. Rdf1 Re3 42. Rxe3 Bxe3 43. Rd1 Bc1 44. c4 Rd4 45. b4 Bxa3 46. b5 Bc5
+47. Be2 Re4 48. Rd2 Kg5 49. Ra2 Kh4 50. Bf1 Rf4 51. Bd3 Rd4 52. Be2 Re4 53. Bf1
+Re3 54. Rxa7 Rc3 55. Rh7+ Kg5 56. h4+ Kf4 57. Rg7 Rg3+ 58. Kh2 Bg1+ 59. Kh1 Bd4
+60. Rd7 Rg1+ 61. Kh2 Rxf1 62. Rxd6 Be5 63. Kg2 Bxd6 64. Kxf1 Kg4 0-1

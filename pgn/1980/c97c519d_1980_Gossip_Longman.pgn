@@ -1,0 +1,16 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Gossip, George Hatfeild"]
+[Black "Longman"]
+[Result "1-0"]
+[ECO "C33"]
+[Opening "KGA"]
+[Variation "bishop's gambit, Morphy variation"]
+[HashCode "c97c519d"]
+[Epoch "Rook"]
+
+1. e4 e5 2. f4 exf4 3. Bc4 d5 4. Bxd5 Nf6 5. Nc3 Nxd5 6. exd5 Qxd5 7. Nf3 Qe6+
+8. Kf2 Kd8 9. d4 Bd6 10. Re1 Qf6 11. Nd5 Qf5 12. Re5 Bxe5 13. dxe5 Bd7 14. Bxf4
+c6 15. Bg5+ 1-0

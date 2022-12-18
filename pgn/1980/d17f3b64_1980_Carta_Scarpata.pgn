@@ -1,0 +1,15 @@
+[Event "Italy"]
+[Site "Italy"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Carta"]
+[Black "Scarpata"]
+[Result "0-1"]
+[ECO "B50"]
+[Opening "Sicilian"]
+[HashCode "d17f3b64"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 Nd7 4. Nc3 cxd4 5. Nxd4 e5 6. Ndb5 Nc5 7. Nd5 Nxe4
+8. Nbc7+ 0-1
+

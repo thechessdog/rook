@@ -1,0 +1,23 @@
+[Event "Rome-B"]
+[Site "Rome"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Cocozza, Mario"]
+[Black "Arlandi, Ennio"]
+[Result "1-0"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "Nimzovich attack"]
+[HashCode "70c1fce5"]
+[Epoch "Rook"]
+[BlackID "800104"]
+[BlackCountry "ITA"]
+[WhiteID "800236"]
+[WhiteCountry "ITA"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. Nc3 Nxc3 6. dxc3 Be7 7. Be3 O-O
+8. Qd2 Nc6 9. O-O-O Ne5 10. Nd4 Re8 11. h3 a6 12. f4 Nd7 13. g4 Nc5 14. Bg2 Bh4
+15. Rhf1 Ne4 16. Qd3 Qe7 17. Bg1 Bd7 18. Nf3 Bg3 19. Nd4 Bh4 20. Nf3 Bg3 21.
+Nd2 Nxd2 22. Rxd2 Qh4 23. Bxb7 Rab8 24. Bd5 Qxh3 25. Rg2 Bxf4+ 26. Rxf4 Re1+
+27. Kd2 Qxd3+ 28. cxd3 Re5 29. Bxf7+ Kh8 30. Bb3 g5 31. Rf7 Be6 32. Rxc7 Bxb3
+33. axb3 Rxb3 34. Kc2 Reb5 35. Bd4+ Kg8 36. c4 1-0

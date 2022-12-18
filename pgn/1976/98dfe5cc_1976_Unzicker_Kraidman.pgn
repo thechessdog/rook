@@ -1,0 +1,21 @@
+[Event "Athens"]
+[Site "Athens"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Unzicker, Wolfgang"]
+[Black "Kraidman, Yair"]
+[Result "1-0"]
+[ECO "C86"]
+[Opening "Ruy Lopez"]
+[Variation "Worrall attack, solid line"]
+[HashCode "98dfe5cc"]
+[Epoch "Rook"]
+[BlackID "2800187"]
+[WhiteCountry "DEU"]
+[BlackCountry "ISR"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Qe2 b5 7. Bb3 d6 8. c3
+O-O 9. a4 b4 10. a5 Bb7 11. d3 Rb8 12. Nbd2 bxc3 13. bxc3 Na7 14. Bc2 Bc8 15.
+d4 Nd7 16. Nb3 c5 17. dxc5 dxc5 18. Nbd2 Nb5 19. Bb2 Nd4 20. cxd4 Rxb2 21. Nc4
+Rxc2 22. Qxc2 exd4 23. Rab1 Re8 24. Nb6 Nxb6 25. axb6 Bd7 26. Qc4 Bb5 27. Rxb5
+axb5 28. Qxb5 Qb8 29. b7 Bf8 30. Rb1 Rd8 31. Ra1 Qf4 32. Ra8 1-0

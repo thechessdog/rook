@@ -1,0 +1,18 @@
+[Event "Salgotarjan"]
+[Site "Salgotarjan"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Frink, Ferenc"]
+[Black "Varnusz, Egon"]
+[Result "1/2-1/2"]
+[ECO "A45"]
+[Opening "Trompovsky attack (Ruth, Opovcensky opening)"]
+[HashCode "e8ba54ba"]
+[Epoch "Rook"]
+[WhiteID "704946"]
+[WhiteCountry "HUN"]
+[BlackCountry "HUN"]
+
+1. d4 Nf6 2. Bg5 Ne4 3. Bf4 c5 4. dxc5 Qa5+ 5. Nd2 e5 6. Bxe5 Nxf2 7. Kxf2
+Qxc5+ 8. e3 Qxe5 9. Ngf3 Qc7 10. Bc4 Be7 11. Rf1 O-O 12. Kg1 Nc6 13. Ne4 d5 14.
+Bxd5 Bg4 15. Nf2 Bh5 16. e4 1/2-1/2

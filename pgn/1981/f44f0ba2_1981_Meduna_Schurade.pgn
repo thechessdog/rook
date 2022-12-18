@@ -1,0 +1,22 @@
+[Event "BKL-Turnier"]
+[Site "Leipzig"]
+[Date "1981.01.01"]
+[Round "7"]
+[White "Meduna, Eduard"]
+[Black "Schurade, Matthias"]
+[Result "1-0"]
+[ECO "E07"]
+[Opening "Catalan"]
+[Variation "closed, 6...Nbd7"]
+[HashCode "f44f0ba2"]
+[Epoch "Rook"]
+[WhiteID "300055"]
+[WhiteCountry "CZE"]
+[BlackID "4611497"]
+[BlackCountry "GER"]
+
+1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. g3 Be7 5. Bg2 O-O 6. O-O Nbd7 7. Nc3 dxc4 8. e4
+c6 9. a4 a5 10. Qe2 Bb4 11. Rd1 Qe7 12. e5 Nd5 13. Qxc4 h6 14. Nd2 Rb8 15. Nde4
+Rd8 16. Qe2 Nf8 17. Bd2 b6 18. Rac1 c5 19. dxc5 bxc5 20. Nd6 Bd7 21. Nxd5 exd5
+22. Bxb4 Rxb4 23. Bxd5 Bxa4 24. Bxf7+ Kh8 25. b3 Bd7 26. Bc4 Kh7 27. Qd3+ g6
+28. Qd5 Ne6 29. Nb7 1-0

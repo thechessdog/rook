@@ -1,0 +1,25 @@
+[Event "Bundesliga 8081"]
+[Site "Duitsland tt"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Chandler, Murray G"]
+[Black "Schuh, Hubert"]
+[Result "1-0"]
+[ECO "A57"]
+[Opening "Benko gambit half accepted"]
+[HashCode "14ed18f0"]
+[Epoch "Rook"]
+[WhiteID "400050"]
+[WhiteCountry "NZL"]
+[BlackID "4600894"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. f3 g6 6. e4 d6 7. bxa6 Bxa6 8. Bxa6
+Nxa6 9. Nh3 Bg7 10. Nc3 O-O 11. O-O Qb6 12. Qe2 Rfb8 13. Kh1 Nb4 14. Bg5 Qa6
+15. Qd2 Nd3 16. Rfb1 Rb4 17. Nf2 Nxf2+ 18. Qxf2 Rab8 19. Qc2 Qb6 20. b3 c4 21.
+bxc4 Qc7 22. Ne2 h6 23. Bd2 Rxb1+ 24. Rxb1 Rxb1+ 25. Qxb1 Qxc4 26. Ng1 Nd7 27.
+Qc1 Qxa2 28. Bxh6 Bxh6 29. Qxh6 Qf2 30. Qc1 Nf6 31. Qd1 Nh5 32. Nh3 Qe3 33. g3
+g5 34. Kg2 Nf6 35. Nf2 g4 36. fxg4 Nxe4 37. Nxe4 Qxe4+ 38. Kf2 Qb4 39. h4 Qb2+
+40. Kf3 Kf8 41. g5 Qh2 42. Qd3 Kg7 43. Kg4 Qf2 44. h5 Qh2 45. h6+ Kg8 46. Qe4
+Kf8 47. Qf5 Kg8 48. Qe4 Kf8 49. Qf5 Kg8 50. Qd3 Qh1 51. Qd4 f6 52. gxf6 Qxh6
+53. fxe7 Qg6+ 1-0

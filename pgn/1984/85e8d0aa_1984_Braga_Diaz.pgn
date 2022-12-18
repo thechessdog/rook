@@ -1,0 +1,18 @@
+[Event "Cuba"]
+[Site "Cuba"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Braga"]
+[Black "Diaz, Joaquin, Dr."]
+[Result "1-0"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Euwe variation"]
+[HashCode "85e8d0aa"]
+[Epoch "Rook"]
+[BlackID "4663349"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. c3 e6 3. d4 d5 4. e5 Nc6 5. Nf3 Bd7 6. Be2 Nge7 7. O-O cxd4 8. cxd4
+Nf5 9. Nc3 a6 10. Be3 Be7 11. Bd3 Nxe3 12. fxe3 f5 13. exf6 Bxf6 14. Ng5 Bxg5
+15. Qh5+ g6 16. Bxg6+ hxg6 17. Qxg6+ Ke7 18. Qxg5+ Kd6 19. Qf4+ 1-0

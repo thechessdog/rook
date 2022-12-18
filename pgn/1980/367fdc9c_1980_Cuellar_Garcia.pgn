@@ -1,0 +1,25 @@
+[Event "Bogota"]
+[Site "Bogota"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Cuellar, Jorge"]
+[Black "Garcia, Gildardo"]
+[Result "1-0"]
+[ECO "E91"]
+[Opening "King's Indian"]
+[Variation "6.Be2"]
+[HashCode "367fdc9c"]
+[Epoch "Rook"]
+[BlackID "4400020"]
+[BlackCountry "COL"]
+[WhiteID "3900169"]
+[WhiteCountry "VEN"]
+
+1. c4 Nf6 2. Nc3 g6 3. e4 d6 4. d4 Bg7 5. Nf3 O-O 6. Be2 c5 7. d5 e6 8. O-O
+exd5 9. exd5 Re8 10. h3 Bf5 11. Bd3 Ne4 12. Nxe4 Bxe4 13. Bxe4 Rxe4 14. Qc2 Re8
+15. Bd2 Nd7 16. Bc3 Bxc3 17. Qxc3 a6 18. Rfe1 b5 19. Rxe8+ Qxe8 20. Re1 Qd8 21.
+b3 bxc4 22. bxc4 Rb8 23. a3 Qf6 24. Qe3 Kg7 25. h4 h6 26. g4 a5 27. Kg2 a4 28.
+Qe4 Rb3 29. g5 hxg5 30. hxg5 Qf5 31. Qxf5 gxf5 32. Nh4 Rxa3 33. f4 Ra2+ 34. Kf3
+Nb6 35. Nxf5+ Kg6 36. Nxd6 Rc2 37. Rh1 Nxc4 38. Rh6+ Kg7 39. Nf5+ Kg8 40. Ra6
+a3 41. d6 Rd2 42. Kg4 Kh7 43. Ra7 Kg6 44. d7 Rg2+ 45. Kf3 Rd2 46. Ra6+ Kh7 47.
+Rh6+ Kg8 48. Nd6 Rd3+ 49. Ke2 Rd2+ 50. Ke1 1-0

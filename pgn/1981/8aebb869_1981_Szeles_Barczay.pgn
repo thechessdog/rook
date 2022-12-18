@@ -1,0 +1,18 @@
+[Event "Keszthely"]
+[Site "Keszthely"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Szeles, Karoly"]
+[Black "Barczay, Laszlo"]
+[Result "1/2-1/2"]
+[ECO "A46"]
+[Opening "Queen's pawn game"]
+[HashCode "8aebb869"]
+[Epoch "Rook"]
+[WhiteID "700924"]
+[WhiteCountry "HUN"]
+[BlackCountry "HUN"]
+
+1. d4 Nf6 2. Nf3 c5 3. e3 g6 4. c4 Bg7 5. Nc3 O-O 6. Be2 cxd4 7. exd4 d5 8. O-O
+dxc4 9. Bxc4 Nbd7 10. h3 Nb6 11. Bb3 Bf5 12. Re1 Rc8 13. Qe2 Nbd5 14. Nxd5 Nxd5
+15. Bg5 Be6 16. Rac1 h6 17. Rxc8 Qxc8 18. Bd2 Qd8 1/2-1/2

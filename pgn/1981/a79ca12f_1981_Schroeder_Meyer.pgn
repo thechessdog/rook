@@ -1,0 +1,26 @@
+[Event "Regionalliga Nord"]
+[Site "RLN 8081"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Schroeder, Christoph"]
+[Black "Meyer, D."]
+[Result "1-0"]
+[ECO "B87"]
+[Opening "Sicilian"]
+[Variation "Sozin with ...a6 and ...b5"]
+[HashCode "a79ca12f"]
+[Epoch "Rook"]
+[WhiteID "4605250"]
+[WhiteCountry "GER"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 b5 8. O-O
+Be7 9. f4 Qc7 10. Kh1 O-O 11. f5 e5 12. Nde2 Bb7 13. Ng3 Nbd7 14. Bg5 Nb6 15.
+Bxf6 Bxf6 16. Nh5 Qe7 17. Qg4 b4 18. Nd5 Bxd5 19. Bxd5 Nxd5 20. exd5 Rfc8 21.
+Rac1 a5 22. Rf3 Kh8 23. c4 Rc5 24. Re1 h6 25. Qe4 Rac8 26. b3 Rg8 27. Ref1 Qd8
+28. h4 Rc7 29. Kh2 Bxh4 30. f6 Bxf6 31. Nxf6 gxf6 32. Rxf6 Rg6 33. Rxg6 fxg6
+34. Qxg6 Qh4+ 35. Kg1 Qd4+ 36. Rf2 Rg7 37. Qxh6+ Kg8 38. Qe6+ Kh8 39. Qe8+ Kh7
+40. Qh5+ Kg8 41. Qf3 e4 42. Qf8+ Kh7 43. Qf5+ Kg8 44. Qe6+ Kh8 45. Qf6 Qd1+ 46.
+Rf1 Qe2 47. Qh6+ Kg8 48. Qe6+ Kh7 49. Qf5+ Kg8 50. Qf2 Qd3 51. Qf8+ Kh7 52. Qf2
+Kg8 53. Re1 Rf7 54. Qe2 Qd4+ 55. Qe3 Qb2 56. Qg3+ Rg7 57. Qf2 Qe5 58. Re3 Qa1+
+59. Qf1 Qd4 60. Qe1 Rf7 61. Qe2 Qa1+ 62. Kh2 Qe5+ 63. g3 Rg7 64. Kg2 Rg6 65.
+Qe1 Kh8 66. Rxe4 Qb2+ 67. Qe2 Qf6 68. Re8+ 1-0

@@ -1,0 +1,22 @@
+[Event "Moron op"]
+[Site "Moron"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Politis, Dionisos"]
+[Black "Grushka, Carlos"]
+[Result "0-1"]
+[ECO "C05"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation"]
+[HashCode "afcaf71e"]
+[Epoch "Rook"]
+[WhiteID "4201710"]
+[BlackID "100820"]
+[WhiteCountry "GRE"]
+[BlackCountry "ARG"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Bd3 c5 6. c3 Nc6 7. Ne2 f6 8. f4
+cxd4 9. cxd4 fxe5 10. fxe5 Nxd4 11. O-O Bc5 12. Kh1 Nxe5 13. Nxd4 Nxd3 14. N2b3
+Bxd4 15. Nxd4 Nxc1 16. Qh5+ g6 17. Qe5 Rf8 18. Rxf8+ Kxf8 19. Rxc1 Kg8 20. Nxe6
+Qe7 21. Rc7 Bd7 22. Qxd5 Bxe6 23. Qe5 Rf8 24. h3 Qf6 25. Qxf6 Rxf6 26. Rxb7 Rf7
+27. Rb8+ Kg7 28. a4 Bd5 29. b4 Rb7 0-1

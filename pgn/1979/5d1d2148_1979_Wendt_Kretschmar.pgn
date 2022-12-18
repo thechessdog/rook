@@ -1,0 +1,21 @@
+[Event "DDR"]
+[Site "DDR"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Wendt, H."]
+[Black "Kretschmar, H."]
+[Result "0-1"]
+[ECO "C64"]
+[Opening "Ruy Lopez"]
+[Variation "classical (Cordel) defence"]
+[HashCode "5d1d2148"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. O-O Nd4 5. Bc4 Nxf3+ 6. Qxf3 Qf6 7. Qg3
+d6 8. Nc3 c6 9. d3 Qg6 10. Qxg6 hxg6 11. Be3 Bxe3 12. fxe3 Nh6 13. a4 f6
+14. h3 Ke7 15. d4 g5 16. g4 Bxg4 17. hxg4 Nxg4 18. Nd1 Rh3 19. Kg2 Rah8 20.
+Be2 Rh2+ 21. Kf3 R8h4 22. Rg1 f5 23. Bd3 d5 24. exd5 e4+ 25. Bxe4 R2h3+ 26.
+Ke2 fxe4 27. dxc6 Rh2+ 28. Ke1 bxc6 29. Rc1 R2h3 30. Rxg4 Rxg4 31. Nf2 Rg1+
+32. Kd2 Rxc1 33. Nxh3 g4 34. Nf2 g3 35. Nxe4 g2 36. Kxc1 g1=Q+ 37. Kd2 Qg2+
+38. Kd3 Qg6 39. c4 Ke6 40. b4 a6 0-1
+

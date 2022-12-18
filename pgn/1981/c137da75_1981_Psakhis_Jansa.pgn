@@ -1,0 +1,19 @@
+[Event "Sarajevo"]
+[Site "Sarajevo"]
+[Date "1981.03.01"]
+[Round "15"]
+[White "Psakhis, Lev"]
+[Black "Jansa, Vlastimil"]
+[Result "1/2-1/2"]
+[ECO "C43"]
+[Opening "Petrov"]
+[Variation "modern attack, Symmetrical variation"]
+[HashCode "c137da75"]
+[Epoch "Rook"]
+[WhiteID "2800012"]
+[WhiteCountry "ISR"]
+[BlackID "300128"]
+[BlackCountry "CZE"]
+
+1. e4 e5 2. Nf3 Nf6 3. d4 Nxe4 4. Bd3 d5 5. Nxe5 Nd7 6. Nxf7 Kxf7 7. Qh5+ Ke7
+8. Qe2 Kf7 9. Qh5+ Ke7 1/2-1/2

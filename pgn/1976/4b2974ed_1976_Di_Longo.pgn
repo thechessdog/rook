@@ -1,0 +1,18 @@
+[Event "Catanzaro"]
+[Site "Catanzaro"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Di Cera"]
+[Black "Longo"]
+[Result "1-0"]
+[ECO "B84"]
+[Opening "Sicilian"]
+[Variation "Scheveningen (Paulsen), classical variation"]
+[HashCode "4b2974ed"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e6 7. Be3 Nbd7
+8. g4 Nc5 9. f3 b6 10. Qd2 Bd7 11. O-O-O b5 12. a3 Qa5 13. g5 Ng8 14. Ndxb5
+Nxe4 15. Nxe4 Qxd2+ 16. Rxd2 axb5 17. Nxd6+ Bxd6 18. Rxd6 Ne7 19. Rhd1 Nd5
+20. Bc5 Rc8 21. b4 h6 22. g6 1-0
+

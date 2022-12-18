@@ -1,0 +1,22 @@
+[Event "Lugano"]
+[Site "Lugano"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Pachman, Ludek"]
+[Black "Ilic, Zoran"]
+[Result "0-1"]
+[ECO "A65"]
+[Opening "Benoni"]
+[Variation "6.e4"]
+[HashCode "7217d57b"]
+[Epoch "Rook"]
+[BlackID "15001350"]
+[WhiteCountry "CZE"]
+[BlackCountry "MKD"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. Bd3 Bg7 8. Nge2
+O-O 9. O-O a6 10. Rb1 Nbd7 11. a3 Re8 12. b4 b5 13. h3 Bb7 14. Bg5 Rc8 15. a4
+cxb4 16. Rxb4 Qa5 17. Qb1 Nc5 18. axb5 Nxd3 19. Ra4 Qc7 20. bxa6 Bxa6 21. Rxa6
+Nxe4 22. Nxe4 Qc4 23. Nxd6 Qxa6 24. Nxc8 Rxc8 25. Qb3 Nc5 26. Qf3 Re8 27. Ng3
+Nd3 28. Rd1 Nb2 29. Rd2 h6 30. Be3 Nc4 31. Rd1 Rd8 32. Bd4 Bxd4 33. Rxd4 Qa1+
+34. Rd1 Qe5 35. Ne2 Nb2 36. Rd2 Nc4 37. Rd1 Nb2 38. Rd2 Nc4 39. Rd4 Nb6 0-1

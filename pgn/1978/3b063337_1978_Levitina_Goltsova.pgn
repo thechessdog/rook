@@ -1,0 +1,15 @@
+[Event "Sevastopol"]
+[Site "Sevastopol"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Levitina, Irina"]
+[Black "Goltsova"]
+[Result "1-0"]
+[ECO "B30"]
+[Opening "Sicilian defence"]
+[HashCode "3b063337"]
+[Epoch "Rook"]
+[WhiteID "2005956"]
+[WhiteCountry "USA"]
+
+1. e4 c5 2. Nf3 Nc6 3. Nc3 a6 4. d4 cxd4 5. Nxd4 e5 6. Nf5 Nge7 7. Nd6# 1-0

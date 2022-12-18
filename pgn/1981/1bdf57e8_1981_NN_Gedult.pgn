@@ -1,0 +1,15 @@
+[Event "Paris"]
+[Site "Paris"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "NN"]
+[Black "Gedult, David"]
+[Result "0-1"]
+[ECO "C31"]
+[Opening "KGD"]
+[Variation "Nimzovich counter-gambit"]
+[HashCode "1bdf57e8"]
+[Epoch "Rook"]
+[BlackCountry "POL"]
+
+1. e4 e5 2. f4 d5 3. exd5 c6 4. Qe2 cxd5 5. Qxe5+ Be7 6. Qxg7 Bf6 0-1

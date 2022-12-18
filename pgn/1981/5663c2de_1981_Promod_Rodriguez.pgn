@@ -1,0 +1,16 @@
+[Event "Mexico"]
+[Site "Mexico"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Promod, Kumar"]
+[Black "Rodriguez, Ruben Jorge"]
+[Result "0-1"]
+[ECO "B32"]
+[Opening "Sicilian"]
+[Variation "Labourdonnais-Loewenthal variation"]
+[HashCode "5663c2de"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e5 5. Nb5 a6 6. Nd6+ Bxd6 7. Qxd6 Qf6 8.
+Qd3 Nge7 9. Be3 d5 10. exd5 Nb4 11. Qd2 Nexd5 12. Bc5 Qh4 13. Na3 Bf5 14. c3
+Qe4+ 15. Be2 Nf4 16. cxb4 Nxg2+ 17. Kf1 Ne3+ 18. fxe3 Bh3+ 0-1

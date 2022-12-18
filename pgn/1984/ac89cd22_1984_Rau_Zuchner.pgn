@@ -1,0 +1,19 @@
+[Event "corr ch-DDR"]
+[Site "corr ch-DDR"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Rau"]
+[Black "Zuchner"]
+[Result "1-0"]
+[ECO "E29"]
+[Opening "Nimzo-Indian"]
+[Variation "Saemisch, Capablanca variation"]
+[HashCode "ac89cd22"]
+[Epoch "Rook"]
+
+1. c4 Nf6 2. d4 e6 3. Nc3 Bb4 4. a3 Bxc3+ 5. bxc3 O-O 6. e3 c5 7. Bd3 Nc6
+8. Ne2 b6 9. e4 Ne8 10. e5 Ba6 11. Qc2 f5 12. O-O d6 13. Nf4 Qd7 14. d5
+Nxe5 15. dxe6 Qe7 16. Bxf5 Nf6 17. Re1 Bxc4 18. Re3 a6 19. Bd2 Kh8 20. Rae1
+g5 21. Nd3 Bxd3 22. Bxd3 Nxd3 23. Rxd3 Rg8 24. c4 Rg6 25. Bc3 Kg8 26. Bxf6
+1-0
+

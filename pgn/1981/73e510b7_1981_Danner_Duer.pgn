@@ -1,0 +1,23 @@
+[Event "AUT-ch"]
+[Site "AUT"]
+[Date "1981.??.??"]
+[Round "12"]
+[White "Danner, Georg"]
+[Black "Duer, Arne"]
+[Result "1-0"]
+[ECO "E45"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Bronstein (Byrne) variation"]
+[HashCode "73e510b7"]
+[Epoch "Rook"]
+[WhiteID "1600303"]
+[BlackID "1600117"]
+[WhiteCountry "AUT"]
+[BlackCountry "AUT"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 b6 5. Ne2 Ba6 6. a3 Be7 7. Nf4 d5 8. cxd5
+Bxf1 9. Kxf1 Nxd5 10. Ncxd5 exd5 11. Qh5 c6 12. Ne6 g6 13. Qe5 Bf6 14. Nxd8+
+Bxe5 15. Nxf7 Kxf7 16. dxe5 Nd7 17. f4 Nc5 18. Bd2 Ne4 19. Ke2 h5 20. Rac1 c5
+21. Be1 Ke6 22. Bh4 Rhg8 23. Rcf1 g5 24. fxg5 Kxe5 25. Rf4 Nxg5 26. Rhf1 Ne4
+27. g3 Nd6 28. Rf6 d4 29. Rh6 Kd5 30. Rxh5+ Kc4 31. exd4 cxd4 32. Rf3 Rge8+ 33.
+Kd1 d3 34. b3+ Kd4 35. Bf6+ Ke4 36. Rf4+ Ke3 37. Bd4# 1-0

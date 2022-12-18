@@ -1,0 +1,18 @@
+[Event "corr EUR/M"]
+[Site "corr EUR/M"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Bosak"]
+[Black "Poczatek, T."]
+[Result "1-0"]
+[ECO "A30"]
+[Opening "English"]
+[Variation "symmetrical, hedgehog system"]
+[HashCode "8dfa6a16"]
+[Epoch "Rook"]
+
+1. Nf3 Nf6 2. c4 b6 3. g3 Bb7 4. Bg2 e6 5. O-O Be7 6. Nc3 c5 7. d4 cxd4 8.
+Qxd4 d6 9. Rd1 Nbd7 10. Ng5 Bxg2 11. Kxg2 a6 12. Nge4 Qb8 13. Nxd6+ Qxd6
+14. Qxd6 Bxd6 15. Rxd6 Ke7 16. Rd1 Rac8 17. b3 Rhd8 18. Ba3+ Nc5 19. Na4
+Rxd1 20. Rxd1 Nd7 21. Rxd7+ 1-0
+

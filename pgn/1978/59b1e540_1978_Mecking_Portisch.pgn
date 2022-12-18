@@ -1,0 +1,19 @@
+[Event "Hoogovens"]
+[Site "Wijk aan Zee"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Mecking, Henrique"]
+[Black "Portisch, Lajos"]
+[Result "1/2-1/2"]
+[ECO "E18"]
+[Opening "Queen's Indian"]
+[Variation "old main line, 7.Nc3"]
+[HashCode "59b1e540"]
+[Epoch "Rook"]
+[WhiteID "2100010"]
+[WhiteCountry "BRA"]
+[BlackID "700037"]
+[BlackCountry "HUN"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2 Be7 6. O-O O-O 7. Nc3 Ne4 8. Nxe4
+Bxe4 9. Ne1 Bxg2 10. Nxg2 d6 11. e4 Re8 12. b3 Bf6 13. Bb2 c5 1/2-1/2

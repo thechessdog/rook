@@ -1,0 +1,23 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Hansen, Soren Bech"]
+[Black "Johansen, Erik"]
+[Result "0-1"]
+[ECO "B99"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7...Be7 main line"]
+[HashCode "0bee5ceb"]
+[Epoch "Rook"]
+[BlackID "1535811"]
+[BlackCountry "NOR"]
+[WhiteID "1400681"]
+[WhiteCountry "DEN"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Nbd7 8. Qf3
+Be7 9. O-O-O Qc7 10. Kb1 b5 11. Bxb5 axb5 12. Ndxb5 Qb8 13. e5 dxe5 14. Nc7+
+Qxc7 15. Qxa8 O-O 16. Qa4 Nc5 17. Nb5 Qb6 18. Qa7 Qxb5 19. Qxe7 Nd5 20. Rxd5
+exd5 21. Qxe5 Bb7 22. Be7 Re8 23. f5 f6 24. Qc7 Rc8 25. Qg3 Ne4 26. Qe3 Ba6 27.
+Rc1 Qb7 28. Bd6 Nxd6 29. Qe6+ Nf7 30. Re1 Kf8 31. g4 Qc6 32. Qe7+ Kg8 33. Ka1
+Ne5 34. g5 Qxc2 35. a3 Qxf5 36. gxf6 gxf6 37. Rg1+ Ng6 38. h4 h5 0-1

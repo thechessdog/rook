@@ -1,0 +1,17 @@
+[Event "corr Netherlands"]
+[Site "corr Netherlands"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Aalten, E."]
+[Black "Van Kerkwijk"]
+[Result "0-1"]
+[ECO "B13"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik, Czerniak variation"]
+[HashCode "009c68a7"]
+[Epoch "Rook"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 Nc6 6. Bg5 Qa5 7. Bd2 dxc4
+8. Bxc4 e6 9. Nf3 Qd8 10. Bg5 Be7 11. O-O O-O 12. Re1 a6 13. a3 b5 14. Ba2
+Bb7 15. Qd3 h6 16. Bh4 Nh5 17. Bxe7 Nxe7 18. Nd5 Bxd5 0-1
+

@@ -1,0 +1,19 @@
+[Event "Indiana"]
+[Site "Indiana"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Mills"]
+[Black "Myers"]
+[Result "0-1"]
+[ECO "D38"]
+[Opening "QGD"]
+[Variation "Ragozin variation"]
+[HashCode "a4f21883"]
+[Epoch "Rook"]
+
+1. Nf3 d5 2. d4 Nf6 3. c4 e6 4. Nc3 Bb4 5. a3 Bxc3+ 6. bxc3 O-O 7. Bg5 c5
+8. cxd5 exd5 9. dxc5 Nbd7 10. Qd4 Re8 11. Nd2 Qc7 12. f3 Nxc5 13. Bxf6 gxf6
+14. Rc1 Bf5 15. g4 Bg6 16. Kf2 Re5 17. h4 Ne6 18. Qb4 a5 19. Qb5 h6 20. h5
+Bh7 21. Bg2 Nf4 22. Rhe1 Rae8 23. Nb3 d4 24. Qa4 Rxe2+ 25. Rxe2 Rxe2+ 26.
+Kf1 Bd3 27. Qxd4 Rxg2+ 28. Ke1 Qe7+ 29. Kd1 Qe2# 0-1
+

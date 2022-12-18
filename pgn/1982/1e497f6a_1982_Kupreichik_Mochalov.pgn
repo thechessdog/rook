@@ -1,0 +1,24 @@
+[Event "Minsk"]
+[Site "Minsk"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Kupreichik, Viktor D"]
+[Black "Mochalov, Evgeny V"]
+[Result "1-0"]
+[ECO "B28"]
+[Opening "Sicilian"]
+[Variation "O'Kelly variation"]
+[HashCode "1e497f6a"]
+[Epoch "Rook"]
+[BlackID "13500074"]
+[BlackCountry "BLR"]
+[WhiteCountry "BLR"]
+
+1. e4 c5 2. Nf3 a6 3. Nc3 b5 4. g3 Bb7 5. d3 e6 6. Bg2 d6 7. O-O Nf6 8. Nh4 Be7
+9. e5 Nd5 10. Nxd5 Bxh4 11. Nf6+ gxf6 12. Bxb7 Ra7 13. Bg2 Bg5 14. f4 Bh6 15.
+Qh5 Bg7 16. f5 dxe5 17. fxe6 Qd6 18. Bh6 Bxh6 19. Qxh6 fxe6 20. Qxf6 Rf8 21.
+Qxf8+ Qxf8 22. Rxf8+ Kxf8 23. Re1 Nd7 24. Bc6 Nb8 25. Bf3 Nd7 26. Kf2 Ke7 27.
+g4 h6 28. h4 Kd6 29. g5 hxg5 30. hxg5 Nf8 31. Be4 Rg7 32. Rg1 Ke7 33. Kf3 Kf7
+34. b3 Kg8 35. g6 Rc7 36. Rg5 Kg7 37. Rxe5 b4 38. Ke3 Kf6 39. Rh5 a5 40. d4
+cxd4+ 41. Kxd4 e5+ 42. Kd5 Rd7+ 43. Kc6 Rd4 44. Rf5+ Kxg6 45. Rxe5+ Kf6 46.
+Rf5+ Ke7 47. Bd3 1-0

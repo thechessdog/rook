@@ -1,0 +1,23 @@
+[Event "Kuibyshev"]
+[Site "Kuibyshev"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Popov, Nikolai"]
+[Black "Titov, G."]
+[Result "0-1"]
+[ECO "E63"]
+[Opening "King's Indian"]
+[Variation "fianchetto, Panno variation"]
+[HashCode "c7cfb865"]
+[Epoch "Rook"]
+[WhiteID "34189103"]
+[WhiteCountry "RUS"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. Nf3 O-O 5. g3 d6 6. Bg2 Nc6 7. O-O a6 8. b3
+Rb8 9. Bb2 b5 10. cxb5 axb5 11. Rc1 b4 12. Na4 Na7 13. Qc2 c6 14. Ne1 Nd5 15.
+Nd3 Ba6 16. Rfd1 Qa5 17. Qd2 Qb5 18. Bf1 Qb7 19. e3 Bxd3 20. Bxd3 Nb5 21. Be4
+Qa6 22. Rc2 e6 23. Rdc1 Rfc8 24. h4 f5 25. Bf3 Kh8 26. h5 g5 27. e4 Ndc3 28. h6
+Bf6 29. e5 dxe5 30. dxe5 Bxe5 31. Qe3 Bf6 32. Qxe6 Rf8 33. Qc4 Qa5 34. Rd2 Rfd8
+35. Rxd8+ Rxd8 36. Qf7 Bd4 37. Re1 Nd6 38. Qh5 Qa7 39. Qxg5 Rg8 40. Qd2 Rxg3+
+41. Bg2 Nde4 42. Qf4 Rg6 43. Bxc3 bxc3 44. Rxe4 fxe4 45. Qxe4 Qd7 46. Nc5 Bxc5
+47. Qe5+ Kg8 48. Qxc5 Qd5 0-1

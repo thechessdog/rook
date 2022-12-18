@@ -1,0 +1,26 @@
+[Event "DEN-chJ int"]
+[Site "?"]
+[Date "1980.??.??"]
+[Round "?"]
+[White "Ochsner, Thomas"]
+[Black "Stigar, Petter"]
+[Result "0-1"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical system, 5.Be2"]
+[HashCode "74a0549e"]
+[Epoch "Rook"]
+[WhiteID "1400711"]
+[BlackID "1500341"]
+[WhiteCountry "DEN"]
+[BlackCountry "NOR"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. Nf3 Nf6 5. Be2 O-O 6. O-O c6 7. a4 Nbd7 8. e5
+Ne8 9. Bf4 dxe5 10. dxe5 Nc7 11. Re1 Nc5 12. b4 N5e6 13. Be3 Nd5 14. Nxd5 Qxd5
+15. c4 Qxd1 16. Rexd1 Nc7 17. Bd4 h6 18. Nd2 Ne6 19. Bc3 Nf4 20. Bf1 Bf5 21. g3
+Ne6 22. Bg2 Rfd8 23. Ne4 Bg4 24. f3 Bf5 25. Nf2 g5 26. Bf1 Kf8 27. Bd3 Bxd3 28.
+Nxd3 Rd7 29. Kf2 Rad8 30. Nb2 Nd4 31. f4 gxf4 32. gxf4 f6 33. exf6 Bxf6 34. Rd3
+Nc2 35. Rxd7 Rxd7 36. Rd1 Rxd1 37. Nxd1 Bxc3 38. Nxc3 Nxb4 39. Ke2 Kf7 40. Ne4
+b6 41. Kd2 c5 42. a5 Ke6 43. axb6 axb6 44. Nc3 Kf5 45. Na4 Kxf4 46. Nxb6 Ke4
+47. Kc3 e5 48. Nd7 Na6 49. Nf6+ Kf3 50. Kd2 e4 51. Nd5 Nb4 52. Ne3 Nc6 53. Nf5
+Ne5 54. Ne3 Ng4 0-1

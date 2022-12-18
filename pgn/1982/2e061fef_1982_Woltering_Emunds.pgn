@@ -1,0 +1,24 @@
+[Event "FRG Hochschul-ch"]
+[Site "Aachen"]
+[Date "1982.??.??"]
+[Round "7.5"]
+[White "Woltering"]
+[Black "Emunds, Hans Georg"]
+[Result "0-1"]
+[ECO "E51"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 e8g8, 5.Nf3 d7d5"]
+[HashCode "2e061fef"]
+[Epoch "Rook"]
+[BlackID "4617541"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 d5 5. Nf3 O-O 6. Bd2 b6 7. Be2 Bb7 8. O-O
+Nbd7 9. Rc1 c5 10. a3 Bxc3 11. Bxc3 Ne4 12. dxc5 Nxc3 13. Rxc3 Nxc5 14. cxd5
+Ne4 15. Rd3 Bxd5 16. Rd4 Qe7 17. Bc4 Nf6 18. Bxd5 Nxd5 19. e4 Nf6 20. e5 Nd5
+21. Rg4 Rfc8 22. Qd2 Rc7 23. Ng5 Rac8 24. Qd3 g6 25. Nxh7 Kxh7 26. Qh3+ Kg7 27.
+Rh4 Rg8 28. Rh7+ Kf8 29. Rh8 Qd8 30. Rh7 Ke8 31. f4 Qe7 32. Qf3 Qc5+ 33. Kh1
+Qe3 34. Qd1 Qe4 35. Rh3 Rc2 36. Rhf3 Qe2 37. Qxe2 Rxe2 38. Rc1 Rxb2 39. h4 Kd7
+40. Kh2 Rc8 41. Rg1 Rcc2 42. Kh3 Ke7 43. h5 gxh5 44. f5 Rc3 45. f6+ Kd7 46. Kh4
+Re2 47. Rxc3 Nxc3 48. Kxh5 Rxe5+ 49. Kh6 Nd5 50. Kg7 Rf5 51. Rd1 Rxf6 52. Rxd5+
+exd5 53. Kxf6 d4 54. Kxf7 d3 55. g4 d2 0-1

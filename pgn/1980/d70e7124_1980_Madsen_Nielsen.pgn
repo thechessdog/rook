@@ -1,0 +1,20 @@
+[Event "Randers"]
+[Site "Randers"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Madsen, John G."]
+[Black "Nielsen, Erling"]
+[Result "0-1"]
+[ECO "E62"]
+[Opening "King's Indian"]
+[Variation "fianchetto with ...Nc6"]
+[HashCode "d70e7124"]
+[Epoch "Rook"]
+[BlackID "1420003"]
+[BlackCountry "DEN"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. Nf3 O-O 5. g3 d6 6. Bg2 Nc6 7. d5 Na5 8. Qd3
+c5 9. h3 a6 10. O-O e5 11. Nd2 Nh5 12. e4 f5 13. f4 exf4 14. gxf4 Bd4+ 15. Kh1
+Qh4 16. Ne2 Bg7 17. Kh2 b5 18. e5 Nxf4 19. Rxf4 Bxe5 20. Nf3 Bxf4+ 21. Bxf4 Qf6
+22. cxb5 axb5 23. Nc3 b4 24. Na4 Ba6 25. Qd1 Rfe8 26. Nb6 Be2 27. Qd2 Nc4 28.
+Nxc4 Bxc4 29. Be3 f4 30. Bxf4 Re2 31. Bg5 Qxf3 0-1

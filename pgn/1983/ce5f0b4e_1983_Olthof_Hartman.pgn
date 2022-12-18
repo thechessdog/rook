@@ -1,0 +1,21 @@
+[Event "Toronto"]
+[Site "Toronto"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Olthof, Rene"]
+[Black "Hartman, Brian"]
+[Result "0-1"]
+[ECO "C45"]
+[Opening "Scotch"]
+[Variation "Schmidt variation"]
+[HashCode "ce5f0b4e"]
+[Epoch "Rook"]
+[WhiteID "1001094"]
+[BlackID "2600200"]
+[WhiteCountry "NED"]
+[BlackCountry "CAN"]
+
+1. e4 e5 2. d4 exd4 3. Nf3 Nc6 4. Nxd4 Nf6 5. Nc3 Bb4 6. Nxc6 bxc6 7. Bd3 d5 8.
+exd5 cxd5 9. O-O O-O 10. Bg5 c6 11. Qf3 Qd6 12. Ne2 Bg4 13. Qg3 Bxe2 14. Qxd6
+Bxd6 15. Bxe2 Ne4 16. Be3 Rab8 17. Rab1 d4 18. Bd3 Rfe8 19. f3 Ng3 20. hxg3
+dxe3 21. f4 e2 22. Rfe1 Bc5+ 23. Kh2 Re6 24. Kh3 Rbe8 0-1

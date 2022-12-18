@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Schlosser"]
+[Black "Mlagkov"]
+[Result "0-1"]
+[ECO "C78"]
+[Opening "Ruy Lopez"]
+[Variation "Archangelsk (counterthrust) variation"]
+[HashCode "d1f29c0b"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Bb7 7. Re1 Bc5 8.
+c3 d6 9. d4 Bb6 10. Bg5 h6 11. Bh4 O-O 12. a4 g5 13. Bg3 Re8 14. axb5 axb5
+15. Rxa8 Bxa8 16. Na3 exd4 17. e5 dxe5 18. Nxe5 Nxe5 19. Rxe5 dxc3 20. Qxd8
+Rxd8 21. bxc3 b4 22. Nb5 bxc3 23. h4 Ne4 24. Kh2 Nxg3 25. fxg3 gxh4 26. Re7
+hxg3+ 27. Kh3 Bd5 0-1
+

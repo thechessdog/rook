@@ -1,0 +1,24 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Kuzmin, Alexey"]
+[Black "Makarov, Marat"]
+[Result "1-0"]
+[ECO "C65"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence"]
+[HashCode "6ea20dac"]
+[Epoch "Rook"]
+[WhiteID "4100794"]
+[BlackID "4101103"]
+[WhiteCountry "RUS"]
+[BlackCountry "RUS"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. Qe2 Bc5 5. Bxc6 dxc6 6. Nxe5 Qd4 7. Nd3 Bb6
+8. f3 O-O 9. c3 Qd8 10. Nf2 Re8 11. O-O Nh5 12. d4 c5 13. Rd1 cxd4 14. cxd4
+Bxd4 15. Be3 c5 16. Nc3 Be6 17. Nb5 Qa5 18. Bxd4 cxd4 19. Nxd4 Nf4 20. Qb5 Qxb5
+21. Nxb5 Rec8 22. Nc3 g5 23. Nd3 Nxd3 24. Rxd3 Kg7 25. a3 Rc5 26. Rd6 Rb8 27.
+Rad1 b5 28. R6d4 a5 29. Nd5 h6 30. Kf2 Rc2+ 31. R1d2 Rbc8 32. Ke3 Rc1 33. Nc3
+Rc5 34. Rd1 Rxd1 35. Rxd1 Kf6 36. Rd4 Ke5 37. g3 Kf6 38. Rd6 b4 39. axb4 axb4
+40. Nd5+ Ke5 41. Rb6 Bxd5 42. f4+ gxf4+ 43. gxf4# 1-0

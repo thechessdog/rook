@@ -1,0 +1,22 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Vitolinsh, Alvis"]
+[Black "Lukin, Andrei M"]
+[Result "1-0"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (without ...d6)"]
+[HashCode "9be3a9b4"]
+[Epoch "Rook"]
+[WhiteCountry "LVA"]
+[BlackID "4101251"]
+[BlackCountry "RUS"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 d6 4. c3 Nf6 5. Qe2 Bd7 6. O-O a6 7. Ba4 b5 8. Bc2
+e5 9. a4 b4 10. h3 Be7 11. d4 cxd4 12. cxd4 exd4 13. Rd1 O-O 14. Nxd4 Qc7 15.
+Be3 Rfe8 16. Nd2 d5 17. Rac1 Qb7 18. exd5 Nxd4 19. Bxd4 Bc5 20. Qd3 Bxd4 21.
+Qxd4 Qxd5 22. Qxb4 Rab8 23. Qh4 Qe5 24. Nc4 Qe6 25. Nd6 Red8 26. Nf5 Qe5 27.
+Rxd7 Nxd7 28. Ne7+ Kf8 29. Nc6 Qxb2 30. Qe7+ Kg8 31. Re1 Qf6 32. Nxb8 Qxe7 33.
+Rxe7 Nxb8 34. Bb3 g6 35. Rxf7 Kh8 36. Rc7 1-0

@@ -1,0 +1,26 @@
+[Event "Reykjavik op"]
+[Site "Reykjavik"]
+[Date "1984.01.01"]
+[Round "4"]
+[White "Gudmundsson, Elvar"]
+[Black "Jonasson, Benedikt"]
+[Result "1-0"]
+[ECO "E38"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, 4...c5"]
+[HashCode "afc07d03"]
+[Epoch "Rook"]
+[WhiteID "2300206"]
+[WhiteCountry "ISL"]
+[BlackID "2300338"]
+[BlackCountry "ISL"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 c5 5. dxc5 Na6 6. a3 Bxc3+ 7. Qxc3 Nxc5 8.
+f3 d6 9. b4 Ncd7 10. e4 O-O 11. Be3 Qc7 12. Ne2 Ne5 13. Rc1 Bd7 14. c5 Bb5 15.
+Nd4 Bxf1 16. Kxf1 dxc5 17. Qxc5 Qb8 18. Ke2 Rc8 19. Qxc8+ Qxc8 20. Rxc8+ Rxc8
+21. Rc1 Rxc1 22. Bxc1 Kf8 23. Nb5 a6 24. Nd6 b5 25. Bb2 Nfd7 26. Bxe5 Nxe5 27.
+f4 Nc6 28. Kd3 Ke7 29. Nb7 f6 30. Kc3 e5 31. f5 Nb8 32. Nc5 Kf7 33. g4 Ke7 34.
+a4 bxa4 35. Kb2 Kd6 36. Ka3 a5 37. Nb7+ Kc6 38. Nxa5+ Kb5 39. Nb7 Na6 40. Nd6+
+Kc6 41. b5+ Kxd6 42. bxa6 Kc6 43. Kxa4 Kb6 44. Kb4 Kxa6 45. Kc5 Ka5 46. g5 fxg5
+47. Kd5 h5 48. Kxe5 h4 49. Kd4 h3 50. Ke3 Kb5 51. Kf3 Kc5 52. e5 Kd5 53. e6 Kd6
+54. Kg4 g6 55. fxg6 1-0

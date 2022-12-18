@@ -1,0 +1,17 @@
+[Event "corr Volmac"]
+[Site "corr Volmac"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Wiersma, T."]
+[Black "Backlund, A."]
+[Result "1-0"]
+[ECO "E72"]
+[Opening "King's Indian with e4 & g3"]
+[HashCode "90de0fcc"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. g3 O-O 6. Bg2 c5 7. d5 Na6 8.
+Nge2 Nc7 9. O-O b5 10. cxb5 Rb8 11. a4 a6 12. Qb3 Nd7 13. Bg5 axb5 14. axb5
+Ba6 15. Qc2 Bxb5 16. Nxb5 Nxb5 17. Bd2 Bxb2 18. Ba5 Nc7 19. Rab1 Bg7 20.
+Qa4 Qc8 21. Bh3 e6 22. Qc6 1-0
+

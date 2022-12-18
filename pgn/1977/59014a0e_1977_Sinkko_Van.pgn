@@ -1,0 +1,18 @@
+[Event "corr FIN-BEL"]
+[Site "corr FIN-BEL"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Sinkko"]
+[Black "Van Maanen"]
+[Result "1-0"]
+[ECO "C10"]
+[Opening "French"]
+[Variation "Rubinstein variation"]
+[HashCode "59014a0e"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Nxf6+ Nxf6 7. Bd3
+Be7 8. Qe2 b6 9. Bg5 Bb7 10. O-O-O O-O 11. Ne5 Nd5 12. h4 Bxg5+ 13. hxg5
+Qxg5+ 14. Kb1 g6 15. Rh2 Nb4 16. Rdh1 h5 17. f4 Qxf4 18. Rxh5 Nxd3 19. Rh8+
+Kg7 20. R8h7+ Kg8 21. Nxg6 1-0
+

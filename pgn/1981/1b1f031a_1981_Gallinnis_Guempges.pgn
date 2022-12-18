@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Gallinnis, N."]
+[Black "Guempges"]
+[Result "0-1"]
+[ECO "B52"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky attack, 3...Bd7"]
+[HashCode "1b1f031a"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. a4 Nc6 5. b3 g6 6. Bb2 e5 7. d3 Bg7 8.
+O-O Nf6 9. c4 O-O 10. Nc3 Nh5 11. Nd5 a6 12. Bxc6 bxc6 13. Ne3 f5 14. exf5
+gxf5 15. Nxe5 Be8 16. Nxf5 Rxf5 17. g4 Rxe5 18. Bxe5 Bxe5 19. Ra2 Nf4 20.
+b4 Bg6 21. bxc5 dxc5 22. Qf3 Qh4 23. Re1 Rf8 0-1
+

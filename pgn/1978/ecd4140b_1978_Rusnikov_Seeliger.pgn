@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Rusnikov, V."]
+[Black "Seeliger, W."]
+[Result "0-1"]
+[ECO "E83"]
+[Opening "King's Indian"]
+[Variation "Saemisch, 6...Nc6"]
+[HashCode "ecd4140b"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 Nc6 7. Qd2 a6 8.
+Nge2 Re8 9. Nc1 e5 10. d5 Nd4 11. Bd3 c5 12. a3 Bd7 13. O-O Qc7 14. b4 b5
+15. bxc5 Qxc5 16. cxb5 axb5 17. N3e2 Bh6 18. Nxd4 Bxe3+ 19. Qxe3 exd4 20.
+Qf2 Qc3 21. Ra2 Rec8 22. Rc2 Qxa3 23. Qxd4 Rxc2 24. Bxc2 Rc8 25. Qxf6 Rxc2
+26. Nd3 Qxd3 27. Qd8+ Kg7 28. Qxd7 Qe2 29. Qg4 Qe3+ 30. Kh1 Rc1 0-1
+

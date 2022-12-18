@@ -1,0 +1,15 @@
+[Event "corr EU/III"]
+[Site "corr EU/III"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Su"]
+[Black "Veegens"]
+[Result "1-0"]
+[ECO "A00"]
+[Opening "Polish (Sokolsky) opening"]
+[HashCode "8189c18d"]
+[Epoch "Rook"]
+
+1. b4 e5 2. Bb2 Bxb4 3. Bxe5 Nf6 4. e3 O-O 5. Nf3 Nc6 6. Bb2 d5 7. c4 Re8
+8. cxd5 Nxd5 9. a3 Ba5 10. Be2 Bf5 11. O-O Qe7 1-0
+

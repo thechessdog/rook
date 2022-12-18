@@ -1,0 +1,25 @@
+[Event "BL2-N 8081"]
+[Site "BL2-N 8081"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Schramm, Bernd"]
+[Black "Gerigk, Wolf"]
+[Result "0-1"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "f5fcca8d"]
+[Epoch "Rook"]
+[WhiteID "4653858"]
+[WhiteCountry "GER"]
+[BlackID "4684249"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. c3 d6 3. d4 Nf6 4. Bd3 b6 5. e5 dxe5 6. dxe5 Qd5 7. exf6 Qxg2 8.
+Qf3 Bb7 9. Qxg2 Bxg2 10. f3 Nd7 11. Kf2 Bxh1 12. Be4 O-O-O 13. Ne2 Ne5 14. Nd2
+gxf6 15. Nf1 Rd1 16. Ne3 Rd7 17. Ng3 f5 18. Nexf5 Rd1 19. Ne3 Rxc1 20. Rxc1
+Bxf3 21. Bxf3 Nd3+ 22. Ke2 Nxc1+ 23. Kd2 Bh6 24. Nf5 Bg5 25. h4 Bxe3+ 26. Nxe3
+Nxa2 27. Bd5 Rd8 28. Kc2 Nxc3 29. bxc3 e6 30. Be4 f5 31. Bd3 Kd7 32. Nc4 Ke7
+33. Kd2 b5 34. Na5 Rd5 35. c4 bxc4 36. Nxc4 Rd4 37. Ne5 Rxh4 38. Nc6+ Kd7 39.
+Nxa7 c4 40. Be2 Rh2 41. Nb5 Kc6 42. Nd4+ Kd5 43. Nf3 c3+ 44. Kd1 c2+ 45. Kd2
+Rxe2+ 46. Kxe2 c1=Q 47. Nd2 Qc2 48. Ke1 Qc3 49. Ke2 Qxd2+ 50. Kxd2 e5 0-1

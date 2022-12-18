@@ -1,0 +1,19 @@
+[Event "Sale"]
+[Site "Sale"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Short, Nigel D"]
+[Black "Jones, B."]
+[Result "1-0"]
+[ECO "B06"]
+[Opening "Robatsch (modern) defence"]
+[HashCode "5fd35a47"]
+[Epoch "Rook"]
+[WhiteID "400025"]
+[WhiteCountry "ENG"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. Bc4 c6 5. Qf3 e6 6. Nge2 b5 7. Bb3 a5 8. a3 Ba6
+9. Be3 Nd7 10. h4 h5 11. Nf4 Nf8 12. d5 Bxc3+ 13. bxc3 Qf6 14. e5 Qxe5 15. Kd2
+Qf5 16. dxe6 Ne7 17. exf7+ Kd7 18. Rhe1 Rh7 19. Rad1 a4 20. Ba2 d5 21. Kc1 Bb7
+22. Nd3 Ne6 23. Qg3 Rf8 24. Bb6 Rhxf7 25. Rxe6 Kxe6 26. Re1+ Kd7 27. Qc7+ Ke8
+28. Qd8# 1-0

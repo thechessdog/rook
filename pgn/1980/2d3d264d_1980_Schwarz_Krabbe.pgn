@@ -1,0 +1,23 @@
+[Event "corr ch11-DDR"]
+[Site "corr ch11-DDR"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Schwarz, H."]
+[Black "Krabbe, W."]
+[Result "1-0"]
+[ECO "B23"]
+[Opening "Sicilian"]
+[Variation "closed"]
+[HashCode "2d3d264d"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nc3 e6 3. f4 Nc6 4. Nf3 Nge7 5. Bb5 a6 6. Bxc6 Nxc6 7. O-O Be7
+8. d3 d5 9. e5 b5 10. Ne2 O-O 11. Bd2 Bd7 12. Qe1 f6 13. Kh1 Qc7 14. Qg3
+Kh8 15. c3 b4 16. c4 dxc4 17. dxc4 a5 18. Rad1 Rad8 19. Be3 a4 20. exf6
+gxf6 21. Nc1 Na5 22. b3 a3 23. Qh3 Rg8 24. Nh4 Qc6 25. Rd2 Nb7 26. f5 exf5
+27. Nxf5 Bxf5 28. Rxf5 Rxd2 29. Bxd2 Rd8 30. Qe3 Re8 31. Rd5 Bf8 32. Qf2
+Re6 33. Nd3 Qe8 34. h3 Qe7 35. Qh4 Qg7 36. Nf4 Rd6 37. Qh5 Rxd5 38. Qxd5
+Bd6 39. Qc6 Qe7 40. Nh5 Kg8 41. Qc8+ Nd8 42. Qf5 Be5 43. Bf4 Bd4 44. Qd5+
+Kh8 45. Kh2 Nf7 46. Ng3 Qf8 47. Nf5 Bc3 48. Nd6 Nxd6 49. Bxd6 Be5+ 50. Bxe5
+fxe5 51. Qxe5+ 1-0
+

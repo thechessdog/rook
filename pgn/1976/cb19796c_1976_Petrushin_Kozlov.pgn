@@ -1,0 +1,20 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Petrushin, Alexander I"]
+[Black "Kozlov, Vladimir N"]
+[Result "1/2-1/2"]
+[ECO "C05"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation"]
+[HashCode "cb19796c"]
+[Epoch "Rook"]
+[WhiteID "4104595"]
+[BlackID "4103980"]
+[WhiteCountry "RUS"]
+[BlackCountry "RUS"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. f4 c5 6. c3 Nc6 7. Ndf3 Qa5 8. dxc5
+Qxc5 9. Ne2 Qb6 10. Ned4 Nc5 11. Be2 Bd7 12. O-O Be7 13. Kh1 O-O 14. Rb1 Nxd4
+15. Nxd4 f6 16. a3 1/2-1/2

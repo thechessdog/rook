@@ -1,0 +1,20 @@
+[Event "Roskilde"]
+[Site "Roskilde"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Larsen, Peter"]
+[Black "Jensen, Mads"]
+[Result "0-1"]
+[ECO "B72"]
+[Opening "Sicilian"]
+[Variation "dragon, classical, Grigoriev variation"]
+[HashCode "5c44ee15"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be2 Bg7 7. Be3 O-O
+8. Qd2 Nc6 9. O-O-O Ng4 10. Bxg4 Bxg4 11. f3 Bd7 12. Nb3 Ne5 13. Bh6 Nc4
+14. Qg5 Bf6 15. Qg3 Re8 16. h4 Rc8 17. h5 Nxb2 18. hxg6 fxg6 19. Nd5 e6 20.
+Nxf6+ Qxf6 21. e5 Qf5 22. Nd4 Nd3+ 23. Kb1 Qxe5 24. Qg4 Nf2 25. Qh4 Nxh1
+26. f4 Qh5 27. Qxh5 gxh5 28. Rxh1 e5 29. Rxh5 exd4 30. Rg5+ Kf7 31. Rg7+
+Ke6 32. f5+ Kxf5 33. Rxd7 Re1+ 34. Kb2 Re2 35. Rxb7 Rcxc2+ 36. Kb1 d3 0-1
+

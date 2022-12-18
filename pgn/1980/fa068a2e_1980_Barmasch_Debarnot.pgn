@@ -1,0 +1,23 @@
+[Event "Buenos Aires"]
+[Site "Buenos Aires"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Barmasch"]
+[Black "Debarnot, Roberto"]
+[Result "0-1"]
+[ECO "C01"]
+[Opening "French"]
+[Variation "exchange variation"]
+[HashCode "fa068a2e"]
+[Epoch "Rook"]
+[BlackID "100595"]
+[BlackCountry "ARG"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. Bd3 Bd6 5. Ne2 Ne7 6. Bf4 Bf5 7. Bxf5 Nxf5 8.
+Qd3 Qd7 9. Bxd6 Nxd6 10. Nd2 O-O 11. O-O Qf5 12. Qxf5 Nxf5 13. Rfe1 Nd7 14. Nb3
+c6 15. c3 a5 16. a4 b6 17. Nf4 Rfe8 18. Kf1 g5 19. Nd3 f6 20. Rxe8+ Rxe8 21.
+Re1 Rxe1+ 22. Kxe1 Kf7 23. Ke2 Ke6 24. g3 Nd6 25. g4 h5 26. h3 hxg4 27. hxg4 f5
+28. f3 Nc4 29. Nd2 Nxd2 30. Kxd2 c5 31. b3 fxg4 32. fxg4 c4 33. bxc4 dxc4 34.
+Nf2 Nf6 35. Nh3 Ne4+ 36. Kc2 Kd5 37. Kb2 Kc6 38. Ng1 b5 39. Nf3 bxa4 40. Ka3
+Nxc3 41. Nxg5 Nb5+ 42. Kxa4 c3 43. Kb3 Kd5 44. Nf3 Nxd4+ 45. Nxd4 Kxd4 46. g5
+a4+ 0-1

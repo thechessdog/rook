@@ -1,0 +1,20 @@
+[Event "Berlin"]
+[Site "Berlin"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Keene, Raymond D"]
+[Black "Nielsen, Jens"]
+[Result "1-0"]
+[ECO "D90"]
+[Opening "Gruenfeld"]
+[Variation "Three knights variation"]
+[HashCode "a0e458c9"]
+[Epoch "Rook"]
+[BlackID "1409310"]
+[WhiteID "400211"]
+[WhiteCountry "ENG"]
+[BlackCountry "DEN"]
+
+1. d4 g6 2. c4 Nf6 3. Nc3 d5 4. Nf3 Bg7 5. cxd5 Nxd5 6. e4 Nb6 7. h3 O-O 8. Be3
+Nc6 9. Bb5 Na5 10. Qe2 a6 11. Bd3 Nc6 12. d5 Nb4 13. Bb1 f5 14. Bxb6 cxb6 15.
+a3 fxe4 16. Bxe4 Bxc3+ 17. bxc3 Nxd5 18. Rd1 e6 19. c4 1-0

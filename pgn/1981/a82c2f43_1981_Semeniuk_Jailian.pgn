@@ -1,0 +1,18 @@
+[Event "Samtredia"]
+[Site "Samtredia"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Semeniuk"]
+[Black "Jailian"]
+[Result "1-0"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (without ...d6)"]
+[HashCode "a82c2f43"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 Qb6 4. Nc3 e6 5. O-O Nge7 6. Re1 Nd4 7. Bc4 Nec6
+8. d3 Be7 9. Nd5 Nxf3+ 10. Qxf3 Nd4 11. Qg3 exd5 12. exd5 Kf8 13. Rxe7 Kxe7
+14. Qxg7 Nf3+ 15. Kh1 Qg6 16. d6+ Kxd6 17. Qxh8 Nh4 18. Bf4+ Kc6 19. Rg1 b5
+20. Bd5+ 1-0
+

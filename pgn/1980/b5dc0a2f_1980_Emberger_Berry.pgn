@@ -1,0 +1,19 @@
+[Event "corr ch-North Atlantic"]
+[Site "corr ch-North Atlantic"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Emberger, Jean"]
+[Black "Berry, Jonathan"]
+[Result "0-1"]
+[ECO "B06"]
+[Opening "Robatsch (modern) defence"]
+[HashCode "b5dc0a2f"]
+[Epoch "Rook"]
+[BlackID "2600463"]
+[BlackCountry "CAN"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. Be3 a6 5. Qd2 b5 6. f3 Nd7 7. d5 Nb6 8. Bd4 Nf6
+9. Bd3 Bd7 10. Nge2 c5 11. dxc6 Bxc6 12. O-O O-O 13. Ng3 e5 14. Be3 d5 15. exd5
+Nbxd5 16. Nxd5 Nxd5 17. Bc5 Re8 18. Rad1 f5 19. Qf2 Qc7 20. c4 Nf4 21. b3 Nxd3
+22. Rxd3 bxc4 23. bxc4 Rac8 24. Bd6 Qf7 25. Rc3 Bb5 26. Rfc1 Rxc4 27. Rxc4 Bxc4
+28. Qc5 Bxa2 29. Qc6 Qa7+ 30. Kf1 Bf7 31. Ra1 Qd4 32. Ra4 Qd1+ 33. Kf2 e4 0-1

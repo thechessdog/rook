@@ -1,0 +1,20 @@
+[Event "Aarhus-B"]
+[Site "Aarhus"]
+[Date "1984.01.01"]
+[Round "7"]
+[White "Schmidt, Kristen"]
+[Black "Hjorth, Torben"]
+[Result "1-0"]
+[ECO "A48"]
+[Opening "King's Indian"]
+[Variation "London system"]
+[HashCode "4b5062a0"]
+[Epoch "Rook"]
+[WhiteID "1400436"]
+[WhiteCountry "DEN"]
+[BlackID "1403168"]
+[BlackCountry "DEN"]
+
+1. d4 Nf6 2. Nf3 g6 3. Bf4 Bg7 4. e3 d6 5. h3 O-O 6. Be2 Nbd7 7. c4 Qe8 8. Nc3
+e5 9. Bh2 Qe7 10. O-O c6 11. b4 Ne8 12. b5 f5 13. bxc6 bxc6 14. Qa4 Bb7 15. c5
+Kh8 16. Rab1 exd4 17. exd4 Ndf6 18. cxd6 Qd7 19. Ne5 Qd8 20. Qb4 1-0

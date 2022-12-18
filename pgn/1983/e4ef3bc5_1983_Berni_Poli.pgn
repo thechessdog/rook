@@ -1,0 +1,20 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Berni, Mauro"]
+[Black "Poli, Giuseppe"]
+[Result "0-1"]
+[ECO "A40"]
+[Opening "Queen's pawn"]
+[Variation "Keres defence"]
+[HashCode "e4ef3bc5"]
+[Epoch "Rook"]
+[WhiteID "808326"]
+[BlackID "881465"]
+[WhiteCountry "ITA"]
+[BlackCountry "ITA"]
+
+1. c4 b6 2. d4 e6 3. e4 Bb7 4. f3 f5 5. exf5 Nh6 6. Bxh6 Qh4+ 7. g3 Qxh6 8.
+fxe6 Bb4+ 9. Kf2 O-O 10. Bg2 dxe6 11. f4 Nc6 12. Ne2 Rad8 13. Nbc3 Nxd4 14.
+Nxd4 Bc5 0-1

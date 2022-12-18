@@ -1,0 +1,22 @@
+[Event "Ribe"]
+[Site "Ribe"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Wiedenkeller, Michael"]
+[Black "Pedersen, Erik"]
+[Result "0-1"]
+[ECO "B16"]
+[Opening "Caro-Kann"]
+[Variation "Bronstein-Larsen variation"]
+[HashCode "4051f4a2"]
+[Epoch "Rook"]
+[BlackID "1404997"]
+[BlackCountry "DEN"]
+[WhiteID "1700146"]
+[WhiteCountry "LUX"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ gxf6 6. Bf4 Bf5 7. Nf3 e6 8.
+Bd3 Bxd3 9. Qxd3 Bd6 10. Bxd6 Qxd6 11. O-O Nd7 12. b4 O-O 13. Rab1 Kh8 14. Nd2
+Rg8 15. Ne4 Qf4 16. Ng3 Rg6 17. Qe4 Qd6 18. b5 f5 19. Qf3 Rag8 20. bxc6 bxc6
+21. Ne2 Rxg2+ 22. Qxg2 Rxg2+ 23. Kxg2 Qd5+ 24. f3 Nb6 25. Rb3 Qc4 26. Kf2 Qxc2
+27. Ra3 Nd5 28. Re1 Nf4 29. Rc3 Qd2 0-1

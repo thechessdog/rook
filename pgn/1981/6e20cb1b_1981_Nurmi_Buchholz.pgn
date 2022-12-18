@@ -1,0 +1,24 @@
+[Event "Montreal zt"]
+[Site "Montreal zt"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Nurmi, Peter"]
+[Black "Buchholz, Martin"]
+[Result "1-0"]
+[ECO "B42"]
+[Opening "Sicilian"]
+[Variation "Kan, 5.Bd3"]
+[HashCode "6e20cb1b"]
+[Epoch "Rook"]
+[WhiteID "2600480"]
+[WhiteCountry "CAN"]
+[BlackID "2600323"]
+[BlackCountry "CAN"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Nc6 6. Nxc6 dxc6 7. Nd2 e5 8.
+Nc4 Bc5 9. O-O Qe7 10. Qh5 b5 11. Bg5 Qc7 12. Ne3 Bxe3 13. Bxe3 Nf6 14. Qg5 O-O
+15. a4 Bb7 16. f3 Rfe8 17. Rfd1 Nd7 18. c4 b4 19. c5 a5 20. Bc4 Nf8 21. Rd6 Qe7
+22. Qg3 Kh8 23. Rad1 Rad8 24. Bg5 f6 25. Bxf6 Qxf6 26. Rxf6 Rxd1+ 27. Kf2 Red8
+28. Rd6 R8xd6 29. cxd6 Ng6 30. Qg5 Rxd6 31. h4 Bc8 32. h5 h6 33. Qe3 Nf4 34.
+Qc5 Rd2+ 35. Ke1 Rd8 36. Qe7 Nxg2+ 37. Kf2 Rd2+ 38. Kg3 Kh7 39. Qe8 Nf4 40.
+Qg8# 1-0

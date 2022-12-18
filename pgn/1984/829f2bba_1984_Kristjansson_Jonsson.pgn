@@ -1,0 +1,22 @@
+[Event "Reykjavik op"]
+[Site "Reykjavik"]
+[Date "1984.01.01"]
+[Round "6"]
+[White "Kristjansson, Bragi"]
+[Black "Jonsson, Bjorgvin"]
+[Result "1-0"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "829f2bba"]
+[Epoch "Rook"]
+[WhiteID "2300346"]
+[BlackID "2300125"]
+[WhiteCountry "ISL"]
+[BlackCountry "ISL"]
+
+1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. d4 e6 5. Nf3 Nf6 6. Be2 Be7 7. Na3 O-O 8. O-O
+Rd8 9. Nb5 Na6 10. c4 Qf5 11. Be3 Bd7 12. Nc3 cxd4 13. Nxd4 Qa5 14. a3 e5 15.
+b4 Qc7 16. Nf3 Bg4 17. Qc2 Bh5 18. Rfd1 e4 19. Ng5 Bxe2 20. Nxe2 Rxd1+ 21. Rxd1
+Rd8 22. Rd4 Rxd4 23. Bxd4 Ng4 24. Qxe4 Qxh2+ 25. Kf1 Qh1+ 26. Ng1 Qh5 27. Qxe7
+Ne3+ 28. Qxe3 Qd1+ 1-0

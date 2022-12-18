@@ -1,0 +1,25 @@
+[Event "Dortmund"]
+[Site "Dortmund"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Bischoff, Klaus"]
+[Black "Tempone, Marcelo"]
+[Result "1-0"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "2.c3, Heidenfeld variation"]
+[HashCode "acb590db"]
+[Epoch "Rook"]
+[WhiteID "4600045"]
+[WhiteCountry "GER"]
+[BlackID "100269"]
+[BlackCountry "ARG"]
+
+1. e4 c5 2. Nf3 Nc6 3. c3 Nf6 4. e5 Nd5 5. Na3 d6 6. Nc4 Nb6 7. exd6 exd6 8. d4
+d5 9. Nce5 Be6 10. Bb5 Rc8 11. O-O Bd6 12. Ng5 Bxe5 13. dxe5 Qe7 14. f4 g6 15.
+Be3 Nd7 16. Qe1 a6 17. Ba4 Nb6 18. Bb3 h6 19. Nf3 Nd7 20. Rd1 c4 21. Bc2 Nc5
+22. Bf2 Kd7 23. Qe3 b6 24. Bh4 Qf8 25. b4 cxb3 26. axb3 Kc7 27. b4 Nd7 28. Ra1
+Ra8 29. Bf2 Qe7 30. Ra3 Kb7 31. Rfa1 Qd8 32. b5 Na5 33. bxa6+ Rxa6 34. Bd3 Ra8
+35. Nd4 Qe7 36. Nb5 Rhb8 37. Nd6+ Kc7 38. Bb5 Kd8 39. Qd3 f5 40. Bc6 Ra7 41.
+Bxd5 Rc7 42. Bxe6 Qxe6 43. Bxb6 Rxb6 44. Rxa5 Ke7 45. Ra8 Rb8 46. Rxb8 Nxb8 47.
+Qb5 Nc6 48. Ra8 Kd7 49. c4 g5 50. Re8 1-0

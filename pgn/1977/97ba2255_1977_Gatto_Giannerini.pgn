@@ -1,0 +1,18 @@
+[Event "Italy"]
+[Site "Italy"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Gatto"]
+[Black "Giannerini"]
+[Result "1-0"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical system, 5.Be2"]
+[HashCode "97ba2255"]
+[Epoch "Rook"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. Nf3 Nf6 5. Be2 O-O 6. O-O Nbd7 7. e5 Ne8 8.
+Bg5 f6 9. exf6 Ndxf6 10. Re1 Be6 11. Qd2 Bf7 12. Bd3 c6 13. h4 Nc7 14. h5
+Qd7 15. hxg6 Bxg6 16. Bxg6 hxg6 17. Nh4 Ne6 18. Nxg6 Nxg5 19. Nxe7+ Kh7 20.
+Qxg5 Qg4 21. Ne4 Qxg5 22. Nxg5+ Kh6 23. Ne6 1-0
+

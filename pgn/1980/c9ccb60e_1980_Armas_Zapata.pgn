@@ -1,0 +1,19 @@
+[Event "Bayamo"]
+[Site "Bayamo"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Armas Gutierrez, Jorge Enrique"]
+[Black "Zapata, Alonso"]
+[Result "1-0"]
+[ECO "B46"]
+[Opening "Sicilian"]
+[Variation "Taimanov variation"]
+[HashCode "c9ccb60e"]
+[Epoch "Rook"]
+[BlackID "4400011"]
+[BlackCountry "COL"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 a6 6. g3 Nge7 7. Be3 b5 8. Bg2
+Bb7 9. O-O Nc8 10. Nxc6 Bxc6 11. Qd4 Nd6 12. Bf4 Nc4 13. b3 Na3 14. Rac1 Rc8
+15. Nd5 d6 16. Qb4 Bxd5 17. exd5 Nxc2 18. Qe4 e5 19. Bh3 Rc5 20. Rxc2 Rxc2 21.
+Qxc2 exf4 22. Qc6+ Ke7 23. Re1+ Kf6 24. Re8 Qa5 25. Rxf8 Qe1+ 26. Bf1 1-0

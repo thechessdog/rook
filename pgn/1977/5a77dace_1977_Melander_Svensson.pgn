@@ -1,0 +1,21 @@
+[Event "corr SWE/K"]
+[Site "corr SWE/K"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Melander, Birger"]
+[Black "Svensson, Ulf"]
+[Result "0-1"]
+[ECO "A57"]
+[Opening "Benko gambit half accepted"]
+[HashCode "5a77dace"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. e3 g6 6. Nc3 Bg7 7. Nf3 d6 8. Be2
+O-O 9. O-O axb5 10. Bxb5 Ba6 11. Bxa6 Nxa6 12. e4 Qc7 13. Qe2 Qb7 14. Bg5
+Rfb8 15. Rab1 Nc7 16. Rfd1 Nb5 17. Qc2 h6 18. Bxf6 Bxf6 19. a4 Nxc3 20.
+bxc3 Qa6 21. Rxb8+ Rxb8 22. Ra1 Kh7 23. g3 Qc4 24. Ra3 e6 25. dxe6 fxe6 26.
+Ne1 d5 27. exd5 exd5 28. Ng2 d4 29. Nf4 d3 30. Nxd3 Qe4 31. Ra2 c4 32. Nc1
+Qe1+ 33. Kg2 Rd8 34. Ne2 Rd1 35. Nf4 Qf1+ 36. Kf3 Qh1+ 37. Kg4 h5+ 38. Nxh5
+Bg5 39. Nf4 Bxf4 40. Kxf4 Rd7 41. Rb2 Qe1 42. Kg4 Qe6+ 43. Kh4 Kg7 44. f4
+Rd8 45. f5 gxf5 46. Kh3 Qd5 0-1
+

@@ -1,0 +1,23 @@
+[Event "Bundesliga 8081"]
+[Site "Duitsland tt"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Lehmann, Heinz Dr"]
+[Black "Leckel, Helmut"]
+[Result "1-0"]
+[ECO "D32"]
+[Opening "QGD"]
+[Variation "Tarrasch, von Hennig-Schara gambit"]
+[HashCode "afc9d95a"]
+[Epoch "Rook"]
+[BlackID "4617568"]
+[BlackCountry "GER"]
+[WhiteCountry "DEU"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c5 4. cxd5 cxd4 5. Qxd4 Nc6 6. Qd1 exd5 7. e3 Nf6 8.
+Nf3 a6 9. Be2 Bd6 10. O-O O-O 11. b3 b5 12. Bb2 Be6 13. Rc1 Rc8 14. a4 b4 15.
+Nb1 a5 16. Nbd2 Qe7 17. Bb5 Na7 18. Bd3 Nc6 19. Qe2 Bg4 20. h3 Bd7 21. Bb5 Ne5
+22. Bxd7 Nexd7 23. Nd4 Bb8 24. N2f3 Ne5 25. Qa6 Rxc1 26. Rxc1 Ne4 27. Rc8 Nc5
+28. Rxf8+ Qxf8 29. Qe2 Ned3 30. Nc6 Bc7 31. Qc2 f6 32. Bd4 Qd6 33. Na7 Qe7 34.
+Nb5 Bb8 35. Bxc5 Nxc5 36. Nfd4 Qe4 37. Qd1 Be5 38. Nc6 h6 39. Nxa5 Nd3 40. Nc6
+Bc3 41. Qg4 Nxf2 42. Kxf2 Qc2+ 1-0

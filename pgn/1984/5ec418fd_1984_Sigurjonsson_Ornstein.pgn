@@ -1,0 +1,25 @@
+[Event "Reykjavik op"]
+[Site "Reykjavik"]
+[Date "1984.01.01"]
+[Round "10"]
+[White "Sigurjonsson, Gudmundur"]
+[Black "Ornstein, Axel"]
+[Result "1-0"]
+[ECO "C95"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Breyer, Borisenko variation"]
+[HashCode "5ec418fd"]
+[Epoch "Rook"]
+[BlackID "1700111"]
+[BlackCountry "SWE"]
+[WhiteID "2300079"]
+[WhiteCountry "ISL"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. c3
+d6 9. h3 Nb8 10. d4 Nbd7 11. Nbd2 Bb7 12. Bc2 Re8 13. b3 Bf8 14. d5 c6 15. c4
+a5 16. a4 bxc4 17. bxc4 Nc5 18. Nb1 Ba6 19. Na3 Qc7 20. Bd2 Reb8 21. Bc3 g6 22.
+Qd2 Bc8 23. Qe3 Bd7 24. dxc6 Bxc6 25. Nb5 Qe7 26. Nd2 Rb7 27. Red1 Rd7 28. Bb2
+Nh5 29. Ba3 Nf4 30. Kh2 Bh6 31. Nxd6 Qxd6 32. Bxc5 Qe6 33. Nf3 Rxd1 34. Rxd1
+Kg7 35. Qc3 Ne2 36. Qb2 Qxc4 37. Bd6 Bf4+ 38. g3 Bxe4 39. Bxe5+ Kg8 40. Bh8 Bh6
+41. Bb3 Qb4 42. Ne5 Qc3 43. Qxe2 Qxb3 44. Qxe4 Re8 45. Re1 Qe6 46. Bf6 Qxf6 47.
+Ng4 1-0

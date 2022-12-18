@@ -1,0 +1,19 @@
+[Event "corr EU/M/GT"]
+[Site "corr EU/M/GT"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Braskin, I."]
+[Black "Ekmark, R."]
+[Result "1-0"]
+[ECO "B93"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.f4"]
+[HashCode "4cd4c294"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 e5 7. Nf3 Qc7 8.
+a3 Be6 9. f5 Bd7 10. Bg5 Be7 11. Bxf6 Bxf6 12. Nd5 Qa5+ 13. b4 Qd8 14. Bc4
+b5 15. Bb3 Bh4+ 16. g3 Be7 17. Qd2 O-O 18. Nxe7+ Qxe7 19. Bd5 Bc6 20. a4
+bxa4 21. Bxc6 Nxc6 22. Rxa4 g6 23. Nh4 Rfd8 24. O-O Ra7 25. fxg6 fxg6 26.
+Qd5+ 1-0
+

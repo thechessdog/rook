@@ -1,0 +1,22 @@
+[Event "match"]
+[Site "match"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Sensory 6"]
+[Black "Micro III/Presto"]
+[Result "0-1"]
+[ECO "C20"]
+[Opening "King's pawn game"]
+[HashCode "138e7864"]
+[Epoch "Rook"]
+
+1. e4 e5 2. d4 d5 3. dxe5 dxe4 4. Qxd8+ Kxd8 5. Nc3 Nc6 6. Bf4 Bf5 7.
+O-O-O+ Kc8 8. f3 e3 9. Bc4 Nh6 10. Nge2 Bc5 11. Rd5 b6 12. Ba6+ Kb8 13.
+Bxh6 gxh6 14. Bb5 Nb4 15. Rdd1 Rg8 16. Nd4 Bxd4 17. Rxd4 c5 18. Rd6 h5 19.
+Rhd1 Rxg2 20. Rd8+ Bc8 21. Bd3 e2 22. Bxe2 Nc6 23. R8d5 Be6 24. Bf1 Rxh2
+25. Rd6 Nxe5 26. f4 Nf3 27. Be2 Nd4 28. Rd8+ Bc8 29. Kd2 a5 30. Rf8 Ra7 31.
+Rf1 Rd7 32. Ke3 Re7+ 33. Kd3 Nxe2 34. Nxe2 Rexe2 35. Rxf7 Rxc2 36. Rb1 Be6
+37. Rf6 Bxa2 38. Rd1 c4+ 39. Kd4 Rxb2 40. Rh6 Bb3 41. Rg1 Rbd2+ 42. Ke4
+Bc2+ 43. Kf3 Rd3+ 44. Ke4 Rd6+ 45. Ke5 Rxh6 46. f5 Kc7 47. Rg7+ Kc6 48. f6
+Re2+ 49. Kd4 Rg6 50. Rxg6 hxg6 51. f7 Rf2 52. f8=Q Rxf8 53. Kxc4 a4 0-1
+

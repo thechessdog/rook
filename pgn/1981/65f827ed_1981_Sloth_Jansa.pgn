@@ -1,0 +1,27 @@
+[Event "Svendborg"]
+[Site "Svendborg"]
+[Date "1981.01.01"]
+[Round "2"]
+[White "Sloth, Jorn"]
+[Black "Jansa, Vlastimil"]
+[Result "0-1"]
+[ECO "A05"]
+[Opening "Reti"]
+[Variation "King's Indian attack"]
+[HashCode "65f827ed"]
+[Epoch "Rook"]
+[BlackID "300128"]
+[BlackCountry "CZE"]
+[WhiteID "1400240"]
+[WhiteCountry "DEN"]
+
+1. Nf3 Nf6 2. g3 g6 3. Bg2 Bg7 4. c4 O-O 5. O-O d6 6. Nc3 e5 7. d3 Nc6 8. Bg5
+h6 9. Bxf6 Bxf6 10. Rb1 a5 11. a3 Bg7 12. b4 axb4 13. axb4 Ne7 14. Nd2 e4 15.
+d4 Bxd4 16. Ndxe4 Bg7 17. Qb3 Be6 18. b5 Qb8 19. Nd5 Nxd5 20. cxd5 Bf5 21. Qc4
+b6 22. Rbc1 Re8 23. Nc3 Ra3 24. Na2 Qa7 25. Nb4 Qa4 26. e4 Bd7 27. Nc6 Qxc4 28.
+Rxc4 Rb3 29. Na7 Bxb5 30. Nxb5 Rxb5 31. Rxc7 Bd4 32. Rc2 Ra5 33. Rd1 Bc5 34.
+Rb1 Rea8 35. Bf1 Ra2 36. Rbb2 Ra1 37. Kg2 Re1 38. Re2 Raa1 39. Rxe1 Rxe1 40.
+Be2 Kg7 41. f4 g5 42. Kf3 Kf6 43. Rd2 Ra1 44. e5+ dxe5 45. d6 Ra3+ 46. Ke4 exf4
+47. d7 Re3+ 48. Kd5 Be7 49. gxf4 gxf4 50. Kc6 Bd8 51. Bb5 Rc3+ 52. Kb7 f3 53.
+Rd3 Rxd3 54. Bxd3 Ke5 55. Kc6 Bh4 56. Kc7 Kd4 57. Ba6 Kc5 58. d8=Q Bxd8+ 59.
+Kxd8 b5 0-1

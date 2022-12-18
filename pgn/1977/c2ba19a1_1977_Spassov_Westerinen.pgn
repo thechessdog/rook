@@ -1,0 +1,22 @@
+[Event "Oslo"]
+[Site "Oslo"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Spassov, Liuben"]
+[Black "Westerinen, Heikki M.J."]
+[Result "0-1"]
+[ECO "E62"]
+[Opening "King's Indian"]
+[Variation "fianchetto, Uhlmann (Szabo) variation"]
+[HashCode "c2ba19a1"]
+[Epoch "Rook"]
+[BlackID "500020"]
+[BlackCountry "FIN"]
+[WhiteID "2900220"]
+[WhiteCountry "FID"]
+
+1. Nf3 Nf6 2. c4 g6 3. Nc3 Bg7 4. g3 O-O 5. Bg2 d6 6. d4 Nc6 7. O-O e5 8. d5
+Ne7 9. e4 Nd7 10. Ng5 h6 11. Nh3 f5 12. f4 fxe4 13. Nxe4 Nf5 14. Bd2 Qe7 15.
+Kh1 b6 16. Qc2 Nd4 17. Qd3 Nc5 18. Nxc5 bxc5 19. fxe5 Bf5 20. Rxf5 Rxf5 21. e6
+g5 22. Be4 Rf6 23. Kg2 Raf8 24. Bc3 h5 25. Bg6 Rf3 26. Qe4 g4 27. Bf7+ R8xf7
+28. exf7+ Rxf7 0-1

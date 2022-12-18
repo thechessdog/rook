@@ -1,0 +1,23 @@
+[Event "Subotica"]
+[Site "Subotica"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Kurajica, Bojan"]
+[Black "Barlov, Dragan"]
+[Result "1-0"]
+[ECO "A49"]
+[Opening "King's Indian"]
+[Variation "fianchetto without c4"]
+[HashCode "cd7f6af8"]
+[Epoch "Rook"]
+[WhiteID "14400057"]
+[WhiteCountry "BIH"]
+[BlackID "900214"]
+[BlackCountry "SRB"]
+
+1. d4 Nf6 2. Nf3 g6 3. g3 Bg7 4. Bg2 O-O 5. O-O d6 6. c4 c6 7. b3 Nbd7 8. Bb2
+e5 9. dxe5 dxe5 10. Nxe5 Nxe5 11. Bxe5 Qxd1 12. Rxd1 Re8 13. f4 Ng4 14. Bxg7
+Kxg7 15. Nc3 Ne3 16. Rd2 Bf5 17. Bf3 a5 18. Rc1 h6 19. c5 g5 20. Kf2 g4 21. Be4
+Bxe4 22. Kxe3 Bf5+ 23. Kf2 Rab8 24. Rd4 b5 25. cxb6 Rxb6 26. e4 Bh7 27. f5 Rb4
+28. Rcd1 c5 29. Rd8 Rxd8 30. Rxd8 c4 31. Nd5 Rb7 32. bxc4 Rb2+ 33. Ke3 Rxa2 34.
+c5 Rc2 35. f6+ 1-0

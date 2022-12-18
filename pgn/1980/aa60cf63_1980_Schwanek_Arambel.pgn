@@ -1,0 +1,20 @@
+[Event "ARG-chJ"]
+[Site "Chacabuco"]
+[Date "1980.??.??"]
+[Round "?"]
+[White "Schwanek, Carlos"]
+[Black "Arambel, Pablo"]
+[Result "0-1"]
+[ECO "A74"]
+[Opening "Benoni"]
+[Variation "classical, 9...a6, 10.a4"]
+[HashCode "aa60cf63"]
+[Epoch "Rook"]
+[WhiteID "100579"]
+[WhiteCountry "ARG"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. Nf3 Bg7 8. Be2
+O-O 9. O-O a6 10. a4 Re8 11. Nd2 Nbd7 12. f4 Qc7 13. Qc2 Rb8 14. a5 b5 15. axb6
+Nxb6 16. Re1 Ra8 17. Nc4 Bg4 18. Nxb6 Qxb6 19. Bc4 Bd7 20. h3 Qb4 21. Qd3 Nxe4
+22. Rxe4 Rxe4 23. Nxe4 Qe1+ 24. Kh2 Bf5 25. Qd2 Qxe4 26. Rxa6 Rxa6 27. Bxa6 Bd4
+28. g4 Bd7 29. Bb7 Qf3 30. Qg2 Qd1 31. Qd2 Qg1# 0-1

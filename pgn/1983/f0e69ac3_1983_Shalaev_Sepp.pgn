@@ -1,0 +1,20 @@
+[Event "Tallinn"]
+[Site "Tallinn"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Shalaev"]
+[Black "Sepp, Olav"]
+[Result "1-0"]
+[ECO "C41"]
+[Opening "Philidor"]
+[Variation "Hanham, Schlechter variation"]
+[HashCode "f0e69ac3"]
+[Epoch "Rook"]
+[BlackID "4500105"]
+[BlackCountry "EST"]
+
+1. e4 e5 2. Nf3 d6 3. d4 Nd7 4. Bc4 c6 5. Nc3 Be7 6. dxe5 dxe5 7. Ng5 Nh6 8.
+Ne6 fxe6 9. Bxh6 Nb6 10. Qh5+ Kf8 11. Be2 gxh6 12. Rd1 Qc7 13. Qxh6+ Kg8 14.
+Rd3 Bf8 15. Rg3+ Bg7 16. O-O Kf8 17. Qg5 h6 18. Qg6 Kg8 19. Bh5 Qe7 20. Rf3 Rh7
+21. Rf7 Qd8 22. Rd1 Bd7 23. Na4 Nd5 24. exd5 exd5 25. Nc5 Bc8 26. Nxb7 Bxb7 27.
+Rxb7 Qg5 28. Qe6+ Kh8 29. Bg6 1-0

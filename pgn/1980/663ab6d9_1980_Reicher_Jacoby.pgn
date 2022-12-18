@@ -1,0 +1,18 @@
+[Event "Hamburg HSK"]
+[Site "Hamburg"]
+[Date "1980.01.01"]
+[Round "8"]
+[White "Reicher, Emanoil"]
+[Black "Jacoby, Gisbert"]
+[Result "1/2-1/2"]
+[ECO "D14"]
+[Opening "QGD Slav"]
+[Variation "exchange variation, 6.Bf4 Bf5"]
+[HashCode "663ab6d9"]
+[Epoch "Rook"]
+[BlackID "4604768"]
+[BlackCountry "GER"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. cxd5 cxd5 5. Nc3 Nc6 6. Bf4 Bf5 7. e3 e6 8. Bd3
+Bxd3 9. Qxd3 Bd6 10. Bxd6 Qxd6 11. O-O O-O 12. Rac1 Rac8 13. h3 h6 14. Ne2 Ne7
+15. Rxc8 Rxc8 16. Rc1 1/2-1/2

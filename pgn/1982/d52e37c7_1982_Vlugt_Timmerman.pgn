@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Vlugt"]
+[Black "Timmerman"]
+[Result "1-0"]
+[ECO "B63"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...Be7"]
+[HashCode "d52e37c7"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd2 Be7
+8. O-O-O O-O 9. Nb3 a6 10. Bxf6 Bxf6 11. Qxd6 Bxc3 12. bxc3 Qh4 13. f3 e5
+14. Bc4 Qg5+ 15. Kb2 Nd8 16. Nc5 b5 17. h4 Qe3 18. Bd5 Ra7 19. Rde1 Qf2 20.
+Nd3 Rd7 21. Qxf8+ 1-0
+

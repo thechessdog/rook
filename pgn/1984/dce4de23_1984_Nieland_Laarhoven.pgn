@@ -1,0 +1,21 @@
+[Event "corr NLD/M"]
+[Site "corr NLD/M"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Nieland"]
+[Black "Laarhoven"]
+[Result "1-0"]
+[ECO "E59"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line"]
+[HashCode "dce4de23"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 c5 7. O-O Nc6 8.
+a3 Bxc3 9. bxc3 dxc4 10. Bxc4 Qc7 11. Bd3 e5 12. Qc2 Re8 13. e4 exd4 14.
+cxd4 cxd4 15. e5 Ng4 16. Bxh7+ Kh8 17. Be4 Bd7 18. Bb2 Rac8 19. Rac1 Qb8
+20. Qd3 Ncxe5 21. Nxe5 Qxe5 22. Qh3+ Nh6 23. Qxd7 Rxc1 24. Bxc1 Qxe4 25. f3
+Qc6 26. Qxd4 Nf5 27. Qxa7 Re2 28. Qa5 Qc2 29. Qd8+ Kh7 30. Qg5 f6 31. Qh5+
+Kg8 32. g4 Nd4 33. Qd5+ Kf8 34. Qd8+ Kf7 35. Qd5+ Ke7 36. Qxb7+ Kf8 37. Bf4
+Rg2+ 38. Kh1 Rf2 39. Rb1 1-0
+

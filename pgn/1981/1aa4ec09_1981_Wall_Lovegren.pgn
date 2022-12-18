@@ -1,0 +1,18 @@
+[Event "Dayton,OH"]
+[Site "Dayton,OH"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Wall, Bill"]
+[Black "Lovegren, R."]
+[Result "1-0"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Nimzovich system"]
+[HashCode "1aa4ec09"]
+[Epoch "Rook"]
+[WhiteCountry "USA"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. Nf3 f6 5. Nh4 fxe5 6. Qh5+ g6 7. Nxg6 hxg6 8.
+Qxh8 Ne7 9. Bh6 Nd7 10. dxe5 Qc7 11. f4 c4 12. Nc3 a6 13. Be2 Qb6 14. Bg4 Nf5
+15. Bxf5 gxf5 16. Qg8 Qe3+ 17. Ne2 c3 18. Bg5 Qd2+ 19. Kf1 Qxc2 20. Qxe6+ Be7
+21. Qxe7# 1-0

@@ -1,0 +1,21 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Bascetta"]
+[Black "Verde"]
+[Result "1-0"]
+[ECO "C09"]
+[Opening "French"]
+[Variation "Tarrasch, open variation, main line"]
+[HashCode "47229af0"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. exd5 exd5 5. Ngf3 Nc6 6. Bb5 Bd6 7. O-O Ne7
+8. dxc5 Bxc5 9. Nb3 Qb6 10. Nxc5 Qxc5 11. Be2 O-O 12. Be3 Qa5 13. c3 Bf5
+14. Nd4 Rfe8 15. Nb3 Qc7 16. Bd4 Ng6 17. Bf3 Rad8 18. Re1 Nce5 19. Bxe5
+Nxe5 20. Nd4 Nd3 21. Rxe8+ Rxe8 22. Nxf5 Re1+ 23. Qxe1 Nxe1 24. Rxe1 h6 25.
+Ne7+ Kh7 26. Nxd5 Qa5 27. a3 Qb5 28. b4 g5 29. h3 Kg7 30. Re7 a6 31. Ne3 b6
+32. c4 Qa4 33. Bh5 Qxa3 34. Rxf7+ Kg8 35. Nd5 Qc1+ 36. Kh2 Kh8 37. Ne7 Qxc4
+38. Bg6 1-0
+

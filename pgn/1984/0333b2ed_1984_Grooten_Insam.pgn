@@ -1,0 +1,21 @@
+[Event "Lugano op"]
+[Site "Lugano"]
+[Date "1984.01.01"]
+[Round "8"]
+[White "Grooten, Herman"]
+[Black "Insam, Heinz"]
+[Result "1-0"]
+[ECO "A67"]
+[Opening "Benoni"]
+[Variation "Taimanov variation"]
+[HashCode "0333b2ed"]
+[Epoch "Rook"]
+[BlackID "1601903"]
+[BlackCountry "AUT"]
+[WhiteID "1000330"]
+[WhiteCountry "NED"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. f4 Bg7 8. Bb5+
+Nfd7 9. a4 Qh4+ 10. g3 Qe7 11. Nf3 O-O 12. O-O Na6 13. Bd2 Nb4 14. Qb3 Nf6 15.
+e5 Ng4 16. h3 Nh6 17. g4 Rd8 18. Rae1 Kh8 19. f5 dxe5 20. fxg6 hxg6 21. Bg5 f6
+22. Nxe5 Qd6 23. Rxf6 Bxf6 24. Ne4 c4 25. Nxd6 cxb3 26. Bxf6+ 1-0

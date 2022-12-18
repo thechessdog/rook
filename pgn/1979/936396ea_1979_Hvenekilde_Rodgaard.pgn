@@ -1,0 +1,19 @@
+[Event "Aalborg"]
+[Site "Aalborg"]
+[Date "1979.01.01"]
+[Round "2"]
+[White "Hvenekilde, Jorgen"]
+[Black "Rodgaard, John"]
+[Result "0-1"]
+[ECO "C00"]
+[Opening "French defence"]
+[HashCode "936396ea"]
+[Epoch "Rook"]
+[WhiteID "1400649"]
+[BlackID "7200013"]
+[WhiteCountry "DEN"]
+[BlackCountry "FAI"]
+
+1. e4 e6 2. Nc3 d5 3. Qf3 d4 4. Nce2 c5 5. d3 Nc6 6. Bd2 Bd6 7. Ng3 Nf6 8. Qe2
+Qc7 9. Nh3 Nb4 10. f4 e5 11. Bxb4 exf4 12. Nf5 Bxf5 13. exf5+ Kf8 14. O-O-O
+cxb4 15. Qf3 Rc8 16. Rd2 b3 17. axb3 Qa5 18. Kd1 Qa1+ 19. Ke2 Re8+ 0-1

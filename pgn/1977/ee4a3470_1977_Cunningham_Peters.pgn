@@ -1,0 +1,19 @@
+[Event "Columbus,OH"]
+[Site "Columbus,OH"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Cunningham, G."]
+[Black "Peters"]
+[Result "0-1"]
+[ECO "B40"]
+[Opening "Sicilian"]
+[Variation "Anderssen variation"]
+[HashCode "ee4a3470"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Bd3 Nc6 6. Nb3 Be7 7. Nc3 a6
+8. Qe2 d6 9. Be3 b5 10. a3 Bb7 11. f4 O-O 12. O-O-O Qc7 13. g4 Rfc8 14. h4
+b4 15. Nb1 bxa3 16. bxa3 Na5 17. N3d2 Rab8 18. Rdg1 d5 19. e5 Ne4 20. g5
+Nc3 21. Qh5 g6 22. Qg4 Nxb1 23. Nxb1 Nc4 24. Bd4 Bc5 25. h5 Bxd4 26. hxg6
+Bb2+ 0-1
+

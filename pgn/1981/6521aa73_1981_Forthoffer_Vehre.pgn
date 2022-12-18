@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Forthoffer, David"]
+[Black "Vehre, John"]
+[Result "0-1"]
+[ECO "D95"]
+[Opening "Gruenfeld"]
+[Variation "Botvinnik variation"]
+[HashCode "6521aa73"]
+[Epoch "Rook"]
+[BlackCountry "USA"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. e3 O-O 6. Qb3 e6 7. Bd2 b6 8. cxd5
+exd5 9. Be2 c5 10. dxc5 bxc5 11. Rc1 Nbd7 12. Nxd5 Rb8 13. Nxf6+ Bxf6 14. Qa4
+Bxb2 15. Rc2 Bg7 16. Qxa7 Bb7 17. O-O Be4 18. Ba5 Ra8 19. Bxd8 Rfxd8 20. Rd2
+Rxa7 21. Bb5 Bc3 22. Rd6 Bxf3 23. gxf3 Kf8 24. Rfd1 Ke7 25. R6d5 Ba5 0-1

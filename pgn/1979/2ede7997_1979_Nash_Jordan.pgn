@@ -1,0 +1,15 @@
+[Event "Dayton,OH"]
+[Site "Dayton,OH"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Nash, Edmund"]
+[Black "Jordan, J."]
+[Result "0-1"]
+[ECO "C33"]
+[Opening "KGA"]
+[Variation "Tumbleweed gambit"]
+[HashCode "2ede7997"]
+[Epoch "Rook"]
+
+1. e4 e5 2. f4 exf4 3. Kf2 Qh4+ 4. Kf3 Qh5+ 5. g4 fxg3+ 0-1
+

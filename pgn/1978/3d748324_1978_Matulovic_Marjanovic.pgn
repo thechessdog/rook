@@ -1,0 +1,19 @@
+[Event "Rumania"]
+[Site "Rumania"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Matulovic, Milan"]
+[Black "Marjanovic, Slavoljub"]
+[Result "1/2-1/2"]
+[ECO "B97"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7...Qb6"]
+[HashCode "3d748324"]
+[Epoch "Rook"]
+[WhiteCountry "SRB"]
+[BlackID "900354"]
+[BlackCountry "SRB"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qb6 8. Qd2
+Qxb2 9. Rb1 Qxa2 10. Bxa6 Ra7 11. Nxe6 Nfd7 12. Bf1 Qxc2 13. f5 Nb6 14. Nd4 Na4
+15. Na2 Bd7 16. Nb5 Nc3 17. Na3 Qb3 18. Be2 Qxa2 1/2-1/2

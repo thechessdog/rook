@@ -1,0 +1,22 @@
+[Event "MemoI-BSGI"]
+[Site "MemoI-BSGI"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Stuifbergen"]
+[Black "Weyerstrass, Ronald"]
+[Result "0-1"]
+[ECO "C00"]
+[Opening "French"]
+[Variation "Two knights variation"]
+[HashCode "e4b57280"]
+[Epoch "Rook"]
+
+1. e4 e6 2. Nf3 d5 3. Nc3 Nf6 4. e5 Nfd7 5. g3 c5 6. d3 Nc6 7. Bf4 Be7 8. Qe2
+g5 9. Bd2 g4 10. Ng1 Nd4 11. Qd1 Nxe5 12. Bg2 Bg5 13. Be3 Bd7 14. Qd2 Bxe3 15.
+fxe3 Ndc6 16. O-O-O Qg5 17. h4 gxh3 18. Nxh3 Qe7 19. Nf4 O-O-O 20. Rh5 Rdg8 21.
+Rdh1 f5 22. e4 fxe4 23. dxe4 d4 24. Nce2 Nc4 25. Qd3 Ne3 26. Qa3 Nxg2 27. Nxg2
+e5 28. Nh4 Rg5 29. Nf5 Bxf5 30. exf5 Rxh5 31. Rxh5 Rg8 32. f6 Qxf6 33. Qxc5 Rg7
+34. Qd5 Qg6 35. Rh4 Qxc2+ 36. Kxc2 Nb4+ 37. Kd2 Nxd5 38. Kd3 Nb4+ 39. Kc4 Nc6
+40. b4 Rc7 41. b5 Ne7+ 42. Kd3 Ng6 43. Rh1 Kd8 44. a4 Rf7 45. a5 Kd7 46. a6
+bxa6 47. bxa6 Kc6 48. Rb1 Rf3+ 49. Kd2 Ra3 50. Rb7 Rxa6 51. Rxh7 Kd5 52. Rh6
+Kc4 53. g4 e4 0-1

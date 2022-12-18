@@ -1,0 +1,22 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Wedlich"]
+[Black "Prokopp, H."]
+[Result "0-1"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, Smyslov variation"]
+[HashCode "928067c4"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. a4 Nbc6 8.
+Nf3 Bd7 9. Be2 Qc7 10. O-O f6 11. exf6 gxf6 12. Ba3 c4 13. Nd2 O-O-O 14.
+Re1 Rdg8 15. Bg4 f5 16. Bh3 h5 17. Bxe7 Nxe7 18. Nf3 Ng6 19. Ne5 Nf4 20.
+Qf3 Nxh3+ 21. Qxh3 h4 22. Re3 Rg7 23. Rf3 Qd8 24. Kf1 Rhg8 25. Rf4 Rxg2 26.
+Ke2 Qb6 27. Nxd7 Kxd7 28. Kd2 R8g4 29. Rxg4 Rxg4 30. f3 Rxd4+ 31. cxd4
+Qxd4+ 32. Ke2 Qxa1 33. Qxh4 Qxa4 34. Qh7+ Kc6 35. Kd2 Qb4+ 36. Kd1 c3 37.
+Qh8 Qb1+ 38. Ke2 Qxc2+ 39. Kf1 Qd1+ 40. Kg2 Qd2+ 41. Kg3 c2 42. Qe8+ Kc5
+43. Qe7+ Kd4 0-1
+

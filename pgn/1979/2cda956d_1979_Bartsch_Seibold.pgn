@@ -1,0 +1,22 @@
+[Event "GER-S chT 7879"]
+[Site "Germany"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Bartsch, Berthold"]
+[Black "Seibold, Hubert, Dr."]
+[Result "1-0"]
+[ECO "B26"]
+[Opening "Sicilian"]
+[Variation "closed, 6.Be3"]
+[HashCode "2cda956d"]
+[Epoch "Rook"]
+[BlackID "4658051"]
+[BlackCountry "GER"]
+[WhiteID "4604660"]
+[WhiteCountry "GER"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 d6 4. Bg2 g6 5. d3 Bg7 6. Be3 Qa5 7. f4 Bd7 8. Nf3
+Nd4 9. O-O e6 10. g4 Ne7 11. f5 gxf5 12. gxf5 exf5 13. Bg5 Nxf3+ 14. Qxf3 Bd4+
+15. Kh1 f6 16. Bf4 O-O-O 17. Bxd6 Ng6 18. Nd5 Be5 19. exf5 Bc6 20. fxg6 Bxd6
+21. g7 Rhe8 22. Qh3+ Kb8 23. Nxf6 Re2 24. Ne4 c4 25. Qxh7 Bxe4 26. g8=Q Bxg2+
+27. Qxg2 Rxg2 28. Kxg2 cxd3 29. cxd3 Qd5+ 30. Qe4 Rg8+ 31. Kh1 1-0

@@ -1,0 +1,17 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Gofman, A."]
+[Black "Tseitlin, Mikhail S"]
+[Result "1/2-1/2"]
+[ECO "A48"]
+[Opening "King's Indian"]
+[Variation "Torre attack"]
+[HashCode "db2448a3"]
+[Epoch "Rook"]
+[BlackCountry "BLR"]
+
+1. d4 Nf6 2. Nf3 g6 3. Bg5 Bg7 4. Nbd2 d6 5. e4 h6 6. Bh4 g5 7. Bg3 Nh5 8. c3
+e6 9. Bd3 Nd7 10. Nc4 Qe7 11. e5 Nxg3 12. fxg3 g4 13. Nh4 dxe5 14. Qxg4 O-O 15.
+dxe5 Nc5 16. Bc2 b5 17. Ne3 Qg5 18. Qxg5 hxg5 19. Nf3 Bb7 20. Ng4 1/2-1/2

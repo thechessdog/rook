@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Burgues"]
+[Black "Fernandes, Antonio"]
+[Result "0-1"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "classical attack, Berger variation"]
+[HashCode "225cdeac"]
+[Epoch "Rook"]
+[BlackID "1900021"]
+[BlackCountry "POR"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Be7 7. O-O Nc6 8.
+Re1 Bg4 9. c3 f5 10. Nbd2 Qd6 11. Qb3 O-O-O 12. Bb5 Bf6 13. Bxc6 Qxc6 14. Nxe4
+fxe4 15. Ne5 Bxe5 16. dxe5 Qg6 17. Be3 Bh3 0-1

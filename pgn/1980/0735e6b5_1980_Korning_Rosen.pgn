@@ -1,0 +1,20 @@
+[Event "corr Sweden"]
+[Site "corr Sweden"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Korning, P."]
+[Black "Rosen, P."]
+[Result "1-0"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, poisoned pawn variation"]
+[HashCode "0735e6b5"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Qg4 cxd4
+8. Bd3 Qc7 9. Ne2 dxc3 10. Qxg7 Rg8 11. Qh6 Nd7 12. Bf4 Nf8 13. O-O Bd7 14.
+Nd4 O-O-O 15. Rfe1 Nfg6 16. Bg3 Kb8 17. h4 Nf8 18. Qf6 Be8 19. h5 Rg4 20.
+Bh4 Rxd4 21. Qxe7 Rc8 22. Re3 f5 23. h6 Ng6 24. Qxc7+ Rxc7 25. Bd8 Rc8 26.
+Bf6 Nf4 27. Bf1 Ba4 28. g3 Nh5 29. Bd3 Rxd3 30. cxd3 c2 31. Rc1 d4 32. Re2
+Rc3 33. Rd2 Rxa3 34. Kg2 1-0
+

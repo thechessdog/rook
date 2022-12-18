@@ -1,0 +1,19 @@
+[Event "Hastings"]
+[Site "Hastings"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Watson, William N"]
+[Black "Weidemann, Jorg"]
+[Result "1-0"]
+[ECO "B15"]
+[Opening "Caro-Kann"]
+[Variation "Tartakower (Nimzovich) variation"]
+[HashCode "69233458"]
+[Epoch "Rook"]
+[WhiteID "400157"]
+[WhiteCountry "ENG"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ exf6 6. c3 Bd6 7. Bd3 O-O 8.
+Ne2 Qc7 9. Qc2 h6 10. Ng3 Re8+ 11. Be3 c5 12. O-O cxd4 13. cxd4 Nc6 14. Rac1
+Be6 15. Qd2 h5 16. Nxh5 Bxh2+ 17. Kh1 Bg4 18. Rc5 Bd6 19. Bh6 Bxh5 20. Rxh5 g6
+21. Rh3 Qa5 22. Bg7 1-0

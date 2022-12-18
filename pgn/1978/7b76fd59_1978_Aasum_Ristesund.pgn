@@ -1,0 +1,17 @@
+[Event "Risor"]
+[Site "Risor"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Aasum, A."]
+[Black "Ristesund, Odd"]
+[Result "1-0"]
+[ECO "A00"]
+[Opening "Dunst (Sleipner, Heinrichsen) opening"]
+[HashCode "7b76fd59"]
+[Epoch "Rook"]
+[BlackID "1516906"]
+[BlackCountry "NOR"]
+
+1. Nc3 d5 2. f4 Nf6 3. e3 c5 4. Nf3 e6 5. Bb5+ Bd7 6. Qe2 Bd6 7. Ne5 O-O 8.
+Nxd7 Nbxd7 9. Bxd7 Qxd7 10. g4 d4 11. g5 Nd5 12. Ne4 e5 13. f5 f6 14. Qc4 Be7
+15. gxf6 Bxf6 16. Nxf6+ Rxf6 17. e4 1-0

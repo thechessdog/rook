@@ -1,0 +1,19 @@
+[Event "BL2-N 8081"]
+[Site "BL2-N 8081"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Gehrke, R."]
+[Black "Blaess, G."]
+[Result "0-1"]
+[ECO "B36"]
+[Opening "Sicilian"]
+[Variation "accelerated fianchetto, Gurgenidze variation"]
+[HashCode "2f90523c"]
+[Epoch "Rook"]
+
+1. Nf3 c5 2. c4 Nc6 3. d4 cxd4 4. Nxd4 g6 5. e4 Nf6 6. Nc3 Nxd4 7. Qxd4 d6
+8. Be2 Bg7 9. O-O O-O 10. Qd3 Be6 11. Rb1 Nd7 12. Nd5 f5 13. Bg5 Nf6 14.
+Rbd1 fxe4 15. Nxf6+ Bxf6 16. Qxe4 Bxg5 17. Qxe6+ Kg7 18. c5 Qc8 19. Qxc8
+Raxc8 20. cxd6 exd6 21. Rxd6 Rc2 22. Bf3 Rxb2 23. Bd5 Rfxf2 24. Rd7+ Kh6
+25. Rxb7 Rbd2 26. Re1 Bd8 27. Rf7 Bb6 0-1
+

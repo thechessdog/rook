@@ -1,0 +1,18 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Mohaupt, H."]
+[Black "Morgner, G."]
+[Result "1-0"]
+[ECO "C80"]
+[Opening "Ruy Lopez"]
+[Variation "open, 8...Be6"]
+[HashCode "8e94a752"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8.
+dxe5 Be6 9. a4 b4 10. c3 Be7 11. Nd4 Nxe5 12. f4 Bg4 13. Qc2 c5 14. fxe5
+cxd4 15. cxd4 O-O 16. Be3 Bh5 17. Nd2 Be2 18. Nxe4 Bxf1 19. Rxf1 dxe4 20.
+Qxe4 Bg5 21. Bxg5 Qxg5 22. Bxf7+ Kh8 23. e6 Qe7 24. Rf3 Rac8 25. Qxh7+ 1-0
+

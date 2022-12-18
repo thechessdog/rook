@@ -1,0 +1,20 @@
+[Event "corr ch10-NLD"]
+[Site "corr ch10-NLD"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Praagman, J."]
+[Black "Nienhuis, K."]
+[Result "0-1"]
+[ECO "E06"]
+[Opening "Catalan"]
+[Variation "closed, 5.Nf3"]
+[HashCode "29b2af3c"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Bg2 Be7 5. Nf3 O-O 6. O-O dxc4 7. Qa4 a6 8.
+Qxc4 b5 9. Qc2 Bb7 10. Nbd2 Nbd7 11. Ng5 Bxg2 12. Kxg2 c5 13. dxc5 Nxc5 14.
+Rd1 Qd5+ 15. Ndf3 Qb7 16. Bf4 Rac8 17. Rac1 e5 18. Be3 e4 19. Nd4 Nd3 20.
+Nc6 Nxc1 21. Rxc1 Nd5 22. Nxe7+ Nxe7 23. Bc5 Qd5 24. Nh3 Ng6 25. b4 Rfd8
+26. Qb2 Qb7 27. e3 Qd7 28. Qe2 Ne5 29. Nf4 Nd3 30. Nxd3 exd3 31. Qd2 Rc6
+32. Rc3 a5 0-1
+

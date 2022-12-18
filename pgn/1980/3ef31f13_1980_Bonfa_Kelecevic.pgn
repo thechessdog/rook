@@ -1,0 +1,19 @@
+[Event "Venice"]
+[Site "Venice"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Bonfa"]
+[Black "Kelecevic"]
+[Result "0-1"]
+[ECO "C80"]
+[Opening "Ruy Lopez"]
+[Variation "open, Bernstein variation"]
+[HashCode "3ef31f13"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8.
+dxe5 Be6 9. Nbd2 Nc5 10. c3 d4 11. cxd4 Nxd4 12. Nxd4 Qxd4 13. Bxe6 fxe6
+14. Qh5+ g6 15. Qf3 O-O-O 16. Qf6 Rg8 17. Nf3 Qd5 18. Bg5 Rd7 19. Be3 g5
+20. Nd2 Nd3 21. Nf3 Be7 22. Qf7 Rf8 23. Qxh7 Rxf3 24. gxf3 Nxe5 25. Qh3
+Nxf3+ 26. Kh1 Bd6 27. Rfd1 Qe4 0-1
+

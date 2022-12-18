@@ -1,0 +1,18 @@
+[Event "Plymouth ch-MI op"]
+[Site "Plymouth ch-MI op"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Long, R."]
+[Black "Hutchings, C."]
+[Result "1-0"]
+[ECO "C65"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence, Beverwijk variation"]
+[HashCode "6dd05549"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Bc5 5. Bxc6 dxc6 6. Nxe5 Qd4 7. Nf3
+Qd8 8. d4 Bb6 9. Bg5 O-O 10. e5 h6 11. exf6 hxg5 12. fxg7 Kxg7 13. c3 Qf6
+14. Qd2 Kg6 15. Ne5+ Kg7 16. f4 g4 17. Na3 Rh8 18. g3 Bf5 19. Rfe1 Rh5 20.
+Qe2 Re8 21. Nac4 Qh6 22. Ne3 c5 23. Nxf5+ Rxf5 24. Qxg4+ Kf8 25. Nd7# 1-0
+

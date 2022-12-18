@@ -1,0 +1,18 @@
+[Event "corr NLD/H"]
+[Site "corr NLD/H"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Van Swol, G."]
+[Black "Wijnand, P."]
+[Result "0-1"]
+[ECO "B23"]
+[Opening "Sicilian"]
+[Variation "closed, Korchnoi variation"]
+[HashCode "2a4eebc3"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nc3 e6 3. g3 d5 4. exd5 exd5 5. Bg2 Nf6 6. Nge2 d4 7. Nb1 Nc6
+8. d3 Bd6 9. Bg5 h6 10. Bf4 Bg4 11. f3 Be6 12. Nd2 Nd5 13. Nc4 Bxf4 14.
+Nxf4 Nxf4 15. gxf4 Qh4+ 16. Kf1 Qxf4 17. Qe2 O-O-O 18. Qe4 Qf6 19. a3 Rhe8
+0-1
+

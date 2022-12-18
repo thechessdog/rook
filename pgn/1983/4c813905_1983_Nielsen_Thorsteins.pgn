@@ -1,0 +1,21 @@
+[Event "Nordic-tt"]
+[Site "Oslo"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Nielsen, To"]
+[Black "Thorsteins, Karl"]
+[Result "0-1"]
+[ECO "B25"]
+[Opening "Sicilian"]
+[Variation "closed, 6.f4"]
+[HashCode "4c813905"]
+[Epoch "Rook"]
+[BlackID "2300060"]
+[BlackCountry "ISL"]
+
+1. e4 c5 2. Nc3 d6 3. g3 g6 4. Bg2 Bg7 5. f4 Nc6 6. d3 e6 7. Be3 Nge7 8. Qd2
+Rb8 9. a4 Nd4 10. Nf3 O-O 11. Nd1 b6 12. O-O Bb7 13. Rb1 Qd7 14. c3 Nxf3+ 15.
+Bxf3 Qxa4 16. Nf2 Qd7 17. d4 Rbd8 18. h4 cxd4 19. Bxd4 e5 20. Be3 Nf5 21. exf5
+Bxf3 22. fxg6 fxg6 23. Ra1 Ba8 24. Kh2 Qc6 25. Nh3 Rd7 26. Ng5 h6 27. Ne6 Rf5
+28. Nxg7 Kxg7 29. Rad1 Rdf7 30. Rg1 exf4 31. gxf4 Qf3 32. Qxd6 g5 33. Qd4+ Kh7
+34. fxg5 Qe2+ 35. Kh3 Rf3+ 36. Rg3 Rxg3+ 37. Kxg3 Qg2# 0-1

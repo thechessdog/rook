@@ -1,0 +1,25 @@
+[Event "Montreal"]
+[Site "Montreal"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Spraggett, Kevin"]
+[Black "Berry, Jonathan"]
+[Result "1-0"]
+[ECO "B91"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Zagreb (fianchetto) variation"]
+[HashCode "014386c5"]
+[Epoch "Rook"]
+[WhiteID "2600013"]
+[WhiteCountry "CAN"]
+[BlackID "2600463"]
+[BlackCountry "CAN"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. g3 e5 7. Nde2 Be7 8. Bg2
+Nbd7 9. a4 O-O 10. O-O b6 11. h3 Bb7 12. g4 Nc5 13. Ng3 Re8 14. Re1 h6 15. Nf5
+Bf8 16. Nd5 Nxd5 17. exd5 Kh7 18. Ra3 g6 19. Ng3 Rc8 20. Rf3 Qe7 21. h4 Rc7 22.
+g5 Bc8 23. b4 Nd7 24. h5 hxg5 25. hxg6+ fxg6 26. Ne4 g4 27. Rf7+ Qxf7 28. Ng5+
+Kg8 29. Nxf7 Kxf7 30. Be3 a5 31. bxa5 bxa5 32. Qd2 Nf6 33. Qxa5 Rxc2 34. Rc1
+Rxc1+ 35. Bxc1 Bd7 36. Qa7 Re7 37. a5 Bf5 38. Qb6 Ne8 39. a6 Rc7 40. Bg5 Rc8
+41. a7 Nc7 42. Qxc7+ Rxc7 43. a8=Q Rd7 44. Qb8 Bg7 45. Bf1 Bf6 46. Bxf6 Kxf6
+47. Bb5 1-0

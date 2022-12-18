@@ -1,0 +1,19 @@
+[Event "Czechoslovakia"]
+[Site "Czechoslovakia"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Popela, Pavel"]
+[Black "Vrana, Frantisek"]
+[Result "1-0"]
+[ECO "C25"]
+[Opening "Vienna"]
+[Variation "Pierce gambit"]
+[HashCode "8c2ced3a"]
+[Epoch "Rook"]
+[WhiteID "301817"]
+[WhiteCountry "CZE"]
+
+1. e4 e5 2. Nc3 Nc6 3. f4 exf4 4. Nf3 g5 5. d4 g4 6. Bc4 gxf3 7. O-O d5 8. exd5
+Bg4 9. Qd2 Nce7 10. Qxf4 Nh6 11. Ne4 Qc8 12. Bb5+ Kd8 13. d6 Bg7 14. dxe7+ Kxe7
+15. Qg5+ Kf8 16. Qc5+ Kg8 17. Bxh6 Bxh6 18. Nf6+ Kg7 19. Nxg4 Qxg4 20. Rxf3 Bf4
+21. Raf1 b6 22. Qc6 Bd6 23. Rxf7+ Kh6 24. R1f6+ Kh5 25. Rf5+ 1-0

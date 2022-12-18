@@ -1,0 +1,21 @@
+[Event "corr USSR"]
+[Site "corr USSR"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Schapiro"]
+[Black "Klompus, G."]
+[Result "0-1"]
+[ECO "C92"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Ragozin-Petrosian (`Keres') variation"]
+[HashCode "cccf6c2d"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8.
+c3 d6 9. h3 Nd7 10. d4 Bf6 11. a4 bxa4 12. Bd5 Bb7 13. Be3 Nb6 14. dxe5
+Nxd5 15. exd5 Nxe5 16. Rxa4 Nxf3+ 17. Qxf3 Qd7 18. Rb4 c5 19. Rg4 Rae8 20.
+b4 cxb4 21. Rxb4 a5 22. Rb6 Bd8 23. Rb2 Ba6 24. Rc1 Bd3 25. c4 Be4 26. Qd1
+f5 27. Qd2 f4 28. Bxf4 Qf5 29. Bg3 Bg5 30. f4 Bf6 31. Nc3 Rc8 32. Nxe4 Bxb2
+33. Nxd6 Bxc1 34. Qxc1 Qxd5 35. f5 Rc6 36. Kh2 Qc5 37. Ne4 Qxc4 38. Qb1 a4
+39. Nd6 Qd5 0-1
+

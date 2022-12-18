@@ -1,0 +1,17 @@
+[Event "Malta ol (Men)"]
+[Site "La Valetta"]
+[Date "1980.10.01"]
+[Round "1"]
+[White "Salazar, Carlos"]
+[Black "Brightwell"]
+[Result "0-1"]
+[ECO "B92"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Opovcensky variation"]
+[HashCode "5f58d106"]
+[Epoch "Rook"]
+[WhiteCountry "PER"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 b5 7. Bd2 Bb7 8. Bd3
+b4 9. Nd5 Nxd5 10. exd5 Bxd5 11. Bxb4 Bxg2 12. Rg1 Bb7 13. Qe2 g6 14. Bc3 e5
+15. O-O-O Bg7 16. f4 O-O 17. fxe5 dxe5 18. Nf3 Qd5 19. Kb1 Qxf3 0-1

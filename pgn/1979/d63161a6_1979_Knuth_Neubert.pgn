@@ -1,0 +1,21 @@
+[Event "corr DDR-cup6"]
+[Site "corr DDR-cup6"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Knuth, D."]
+[Black "Neubert, G."]
+[Result "0-1"]
+[ECO "B81"]
+[Opening "Sicilian"]
+[Variation "Scheveningen, Keres attack"]
+[HashCode "d63161a6"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. g4 Nc6 7. g5 Nd7 8.
+Ndb5 Nc5 9. Bf4 e5 10. Nd5 Ne6 11. Bd2 a6 12. Nbc3 Ned4 13. Bg2 Be6 14. O-O
+Rc8 15. f4 Na5 16. f5 Bxd5 17. Nxd5 Rxc2 18. f6 g6 19. Bc3 Nac6 20. Kh1 h6
+21. gxh6 Rxh6 22. Rc1 Rxc1 23. Qxc1 Qd7 24. Bxd4 Nxd4 25. Qc7 Qxc7 26.
+Nxc7+ Kd8 27. Nd5 Rh4 28. Rc1 Ne6 29. Nb6 Nc7 30. a4 Bh6 31. Rd1 Ne8 32.
+Rd3 Bg5 33. Rc3 Nxf6 34. Rc8+ Ke7 35. Rc7+ Kf8 36. Nd7+ Kg7 37. Rxb7 Ng4
+38. Nb6 Nxh2 0-1
+

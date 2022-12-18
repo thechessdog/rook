@@ -1,0 +1,20 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Krstev"]
+[Black "Ekblom, P."]
+[Result "1-0"]
+[ECO "B17"]
+[Opening "Caro-Kann"]
+[Variation "Steinitz variation"]
+[HashCode "e0e321f0"]
+[Epoch "Rook"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Bc4 Ngf6 6. Ng5 e6 7. Ne2 h6
+8. Nf3 Bd6 9. O-O Qc7 10. Re1 b5 11. Bd3 Bb7 12. Ng3 O-O 13. Qe2 a6 14. Ne4
+c5 15. Nxd6 Qxd6 16. dxc5 Nxc5 17. Rd1 Nxd3 18. Rxd3 Qc7 19. Rc3 Qe7 20.
+Ne5 Rac8 21. Rg3 Kh7 22. c3 Rc5 23. Bf4 Rd8 24. Re1 g5 25. Bxg5 hxg5 26.
+Rxg5 Rg8 27. Qd3+ Kh6 28. Qh3+ Kxg5 29. f4+ Kxf4 30. Qe3+ Kf5 31. Rf1+ Bf3
+32. Rxf3# 1-0
+

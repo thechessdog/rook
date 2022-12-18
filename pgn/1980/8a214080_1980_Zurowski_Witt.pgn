@@ -1,0 +1,20 @@
+[Event "Montreal int"]
+[Site "Montreal"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Zurowski, Henry"]
+[Black "Witt, Leslie"]
+[Result "1-0"]
+[ECO "C25"]
+[Opening "Vienna"]
+[Variation "Paulsen variation"]
+[HashCode "8a214080"]
+[Epoch "Rook"]
+[WhiteID "2600889"]
+[WhiteCountry "CAN"]
+
+1. e4 e5 2. Nc3 Nc6 3. g3 Bc5 4. Bg2 d6 5. Nge2 a6 6. d3 Bg4 7. h3 Be6 8. O-O
+h5 9. Nd5 f5 10. exf5 Bxf5 11. Be3 Qd7 12. Kh2 Nf6 13. Nxf6+ gxf6 14. Nc3 O-O-O
+15. Ne4 Bxe4 16. Bxe4 f5 17. Bg2 h4 18. g4 Kb8 19. gxf5 Rdf8 20. Be4 Bxe3 21.
+fxe3 d5 22. Bf3 e4 23. Bg4 Qd6+ 24. Kh1 Qg3 25. dxe4 dxe4 26. Qe1 Qe5 27. c3
+Qb5 28. Qe2 Qc5 29. Rf4 Ne5 30. Raf1 Qd5 31. Qg2 Nd3 32. Rxe4 Qxe4 33. Qxe4 1-0

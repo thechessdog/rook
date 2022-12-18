@@ -1,0 +1,23 @@
+[Event "Dortmund"]
+[Site "Dortmund"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Westerinen, Heikki M.J."]
+[Black "Chandler, Murray G"]
+[Result "0-1"]
+[ECO "B00"]
+[Opening "King's pawn opening"]
+[HashCode "5294ffc2"]
+[Epoch "Rook"]
+[WhiteID "500020"]
+[BlackID "400050"]
+[WhiteCountry "FIN"]
+[BlackCountry "NZL"]
+
+1. e4 d6 2. d4 g6 3. c3 Nf6 4. Bd3 Bg7 5. Nf3 O-O 6. O-O Nc6 7. b4 a6 8. a4 e5
+9. dxe5 Nxe5 10. Nxe5 dxe5 11. Qe2 Nh5 12. g3 Bh3 13. Rd1 Qf6 14. f3 Kh8 15.
+Be3 Rg8 16. Nd2 g5 17. Kh1 Bh6 18. Rg1 Rad8 19. Bc4 g4 20. Bxh6 Qxh6 21. Ra2
+Rd7 22. Qf2 Rgd8 23. Nf1 Bxf1 24. Bxf1 Rd2 25. Rxd2 Rxd2 26. Be2 Nf6 27. Rg2
+Kg8 28. Qc5 Rxe2 29. Rxe2 gxf3 30. Rc2 Nxe4 31. Qg1 f2 32. Rxf2 Nxf2+ 33. Qxf2
+Qc6+ 34. Kg1 Qb6 35. Qxb6 cxb6 36. g4 h5 37. g5 Kg7 38. Kf2 Kg6 39. h4 Kf5 40.
+Kf3 e4+ 41. Ke3 Ke5 0-1

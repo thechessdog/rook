@@ -1,0 +1,19 @@
+[Event "Hamburg"]
+[Site "Hamburg"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Ghinda, Mihail-Viorel"]
+[Black "Hess, Christian"]
+[Result "1-0"]
+[ECO "B23"]
+[Opening "Sicilian"]
+[Variation "chameleon variation"]
+[HashCode "c4cfbce4"]
+[Epoch "Rook"]
+[WhiteCountry "ROU"]
+[BlackCountry "DEU"]
+
+1. e4 c5 2. Nc3 Nc6 3. Nge2 e5 4. Nd5 d6 5. Nec3 Be6 6. Bc4 a6 7. a4 Nb4 8. d3
+Ne7 9. O-O Nbxd5 10. exd5 Bf5 11. f4 exf4 12. Bxf4 Qd7 13. Qf3 O-O-O 14. Rab1
+h6 15. b4 g5 16. bxc5 gxf4 17. c6 Nxc6 18. dxc6 Qxc6 19. Bd5 Qc5+ 20. Kh1 b6
+21. d4 Qc7 22. Rb4 1-0

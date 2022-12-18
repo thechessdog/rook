@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Wall, Bill"]
+[Black "Galloway, Tom"]
+[Result "1-0"]
+[ECO "B02"]
+[Opening "Alekhine's defence"]
+[Variation "Saemisch attack"]
+[HashCode "629f73c5"]
+[Epoch "Rook"]
+[WhiteCountry "USA"]
+
+1. e4 Nf6 2. e5 Nd5 3. Nc3 Nxc3 4. bxc3 d6 5. f4 g6 6. Nf3 Bg7 7. d4 f6 8. Bd3
+Nc6 9. exf6 Bxf6 10. O-O Bg4 11. Kh1 e5 12. Re1 Qe7 13. Be4 O-O-O 14. Bxc6 bxc6
+15. Qd3 Rhe8 16. Qa6+ Kd7 17. dxe5 Bxf3 18. e6+ 1-0

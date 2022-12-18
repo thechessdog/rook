@@ -1,0 +1,16 @@
+[Event "corr Germany"]
+[Site "corr Germany"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Flugge"]
+[Black "Kuske"]
+[Result "0-1"]
+[ECO "C35"]
+[Opening "KGA"]
+[Variation "Cunningham defence"]
+[HashCode "f4f89530"]
+[Epoch "Rook"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 Be7 4. d3 Bh4+ 5. Ke2 d5 6. Bxf4 g5 7. Be5 f6 8.
+Bd4 Nc6 9. c3 Bg4 10. g3 Qe7 0-1
+

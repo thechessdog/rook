@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Guiterrez"]
+[Black "Prieto"]
+[Result "1-0"]
+[ECO "B96"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Polugayevsky variation"]
+[HashCode "d80bfbdf"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 b5 8.
+e5 dxe5 9. fxe5 Qc7 10. exf6 Qe5+ 11. Be2 Qxg5 12. O-O gxf6 13. Bf3 Ra7 14.
+Ne4 Qe5 15. Nxf6+ Ke7 16. Ne4 Rd7 17. c3 Bb7 18. Ng3 Bxf3 19. Qxf3 Ke8 20.
+Rae1 Qd5 21. Ne4 Bg7 22. Nxe6 fxe6 23. Nf6+ Bxf6 24. Qxf6 1-0
+

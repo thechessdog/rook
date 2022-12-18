@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Reinke, K."]
+[Black "Schwarz, G."]
+[Result "0-1"]
+[ECO "E39"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, Pirc variation"]
+[HashCode "be7405ef"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 c5 5. dxc5 O-O 6. Bf4 Na6 7. a3 Bxc3+
+8. Qxc3 Ne4 9. Qd4 Naxc5 10. Rd1 d5 11. cxd5 exd5 12. Nf3 Ne6 13. Qe3 Nxf4
+14. Qxf4 Qb6 15. Rxd5 Qxf2+ 16. Kd1 Be6 17. Rd4 f5 18. Kc1 Ba2 19. b4 b5
+20. g4 g5 21. Qe5 Qe3+ 0-1
+

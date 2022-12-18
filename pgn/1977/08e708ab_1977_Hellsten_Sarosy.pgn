@@ -1,0 +1,18 @@
+[Event "corr CCCA"]
+[Site "corr CCCA"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Hellsten, Ole"]
+[Black "Sarosy, Zoltan"]
+[Result "1-0"]
+[ECO "A05"]
+[Opening "Reti opening"]
+[HashCode "08e708ab"]
+[Epoch "Rook"]
+[WhiteID "2625342"]
+[WhiteCountry "CAN"]
+[BlackCountry "CAN"]
+
+1. Nf3 Nf6 2. g3 b6 3. Bg2 Bb7 4. O-O e6 5. c4 Be7 6. b3 O-O 7. Bb2 c5 8. Nc3
+Nc6 9. d4 d5 10. cxd5 exd5 11. Rc1 c4 12. bxc4 dxc4 13. Ne5 Qc8 14. Nxc4 Rb8
+15. e4 Ba6 16. Ne2 1-0

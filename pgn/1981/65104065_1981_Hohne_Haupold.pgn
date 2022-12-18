@@ -1,0 +1,21 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Hohne"]
+[Black "Haupold"]
+[Result "1-0"]
+[ECO "D00"]
+[Opening "Blackmar-Diemer gambit"]
+[HashCode "65104065"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. Nc3 d5 3. e4 dxe4 4. f3 exf3 5. Qxf3 c6 6. Bd3 Bg4 7. Qf2 Nbd7
+8. Nge2 Qb6 9. O-O Bxe2 10. Nxe2 e5 11. Be3 e4 12. Bxe4 Nxe4 13. Qxf7+ Kd8
+14. b3 Nd6 15. Qe6 Kc7 16. Bf4 Rd8 17. c4 c5 18. Nc3 Nf6 19. Na4 Re8 20.
+Qf5 Kd8 21. Qd3 Qc6 22. dxc5 Qe4 23. Qd2 Qc6 24. cxd6 Ne4 25. Qa5+ Kd7 26.
+Rad1 g6 27. Qxa7 Bg7 28. Nb6+ Ke6 29. Rd5 Nc3 30. Qa5 Ne2+ 31. Kh1 Nxf4 32.
+Rxf4 Bf6 33. d7 Rd8 34. c5 Be5 35. Qe1 Qxd5 36. Nxd5 Kxd5 37. Qe4+ Ke6 38.
+Qc4+ Kxd7 39. Rf7+ Kc6 40. Qe6+ Bd6 41. cxd6 Rhe8 42. Qc4+ Kxd6 43. Qc7+
+Ke6 44. h3 Rd1+ 45. Kh2 h5 46. Rg7 Red8 47. Qe7+ Kf5 48. Rf7# 1-0
+

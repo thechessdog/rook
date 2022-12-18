@@ -1,0 +1,21 @@
+[Event "Esbjerg-B"]
+[Site "Esbjerg"]
+[Date "1981.01.01"]
+[Round "2"]
+[White "Hansen, Curt"]
+[Black "Berg, Klaus"]
+[Result "1-0"]
+[ECO "B12"]
+[Opening "Caro-Kann"]
+[Variation "advance variation"]
+[HashCode "034e2c77"]
+[Epoch "Rook"]
+[WhiteID "1400010"]
+[WhiteCountry "DEN"]
+[BlackID "1400053"]
+[BlackCountry "DEN"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nc3 e6 5. g4 Bg6 6. Nge2 c5 7. Be3 cxd4 8. Nxd4
+h5 9. f4 Ne7 10. f5 exf5 11. Ndb5 Nec6 12. Nxd5 Na6 13. Qd2 fxg4 14. O-O-O Qc8
+15. Nd6+ Bxd6 16. exd6 O-O 17. d7 Qd8 18. Bxa6 bxa6 19. Bc5 Be4 20. Rhe1 f5 21.
+Bxf8 Kxf8 22. Nc3 1-0

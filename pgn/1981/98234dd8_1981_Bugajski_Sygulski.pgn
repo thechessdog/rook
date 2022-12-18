@@ -1,0 +1,20 @@
+[Event "Czestochowa"]
+[Site "Czestochowa"]
+[Date "1981.??.??"]
+[Round "10"]
+[White "Bugajski, Robert"]
+[Black "Sygulski, Boguslaw"]
+[Result "1-0"]
+[ECO "A23"]
+[Opening "English"]
+[Variation "Bremen system, Keres variation"]
+[HashCode "98234dd8"]
+[Epoch "Rook"]
+[WhiteID "1101528"]
+[BlackID "1100602"]
+[WhiteCountry "POL"]
+[BlackCountry "POL"]
+
+1. c4 e5 2. Nc3 Nf6 3. g3 c6 4. Nf3 e4 5. Nd4 d5 6. d3 Bb4 7. Bg2 Qb6 8. Nc2 d4
+9. Nxb4 dxc3 10. bxc3 exd3 11. Qxd3 Be6 12. Be3 Qa5 13. Qd2 Bxc4 14. Rd1 Nbd7
+15. Bxc6 O-O-O 16. Bxb7+ 1-0

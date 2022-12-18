@@ -1,0 +1,23 @@
+[Event "ACM Seattle"]
+[Site "ACM Seattle"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Blitz 5"]
+[Black "Duchess"]
+[Result "0-1"]
+[ECO "C68"]
+[Opening "Ruy Lopez"]
+[Variation "exchange, Alekhine variation"]
+[HashCode "39e0b102"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. d4 exd4 6. Qxd4 Qxd4 7. Nxd4
+Bd7 8. Be3 O-O-O 9. Nc3 Bd6 10. O-O-O Nf6 11. Rd3 Ng4 12. g3 Nxe3 13. Rxe3
+Bc5 14. Rd3 Bg4 15. f3 Bh5 16. Nce2 Bxd4 17. Nxd4 c5 18. Nf5 Rxd3 19. cxd3
+Bxf3 20. Rf1 Be2 21. Ne7+ Kd8 22. Rxf7 Bxd3 23. Nd5 Bxe4 24. Nxc7 Rg8 25.
+Ne6+ Ke8 26. Rxg7 Rxg7 27. Nxg7+ Ke7 28. Nh5 Kd6 29. Nf4 c4 30. Kd2 Bb1 31.
+a3 b5 32. g4 Ke5 33. Ne2 Bd3 34. h4 Bxe2 35. Kxe2 Kf4 36. g5 Kg4 37. Ke3
+Kxh4 38. Kf4 a5 39. Kf5 b4 40. axb4 axb4 41. g6 hxg6+ 42. Ke4 g5 43. Kd4 g4
+44. Kxc4 g3 45. Kxb4 Kg5 46. Ka5 g2 47. b4 g1=Q 48. b5 Qa7+ 49. Kb4 Kf4 50.
+Kc4 Ke5 51. Kb4 0-1
+

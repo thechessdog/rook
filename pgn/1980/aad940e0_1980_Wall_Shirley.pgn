@@ -1,0 +1,16 @@
+[Event "Dayton,OH"]
+[Site "Dayton,OH"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Wall, Bill"]
+[Black "Shirley, R jr"]
+[Result "1-0"]
+[ECO "C34"]
+[Opening "KGA"]
+[Variation "Schallop defence"]
+[HashCode "aad940e0"]
+[Epoch "Rook"]
+[WhiteCountry "USA"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 Nf6 4. e5 Ng4 5. Nc3 Bb4 6. Bc4 O-O 7. O-O Bc5+ 8.
+d4 Ne3 9. Bxe3 fxe3 10. dxc5 1-0

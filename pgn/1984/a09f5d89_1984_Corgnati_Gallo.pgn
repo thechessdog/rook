@@ -1,0 +1,21 @@
+[Event "Torino"]
+[Site "Torino"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Corgnati"]
+[Black "Gallo"]
+[Result "1/2-1/2"]
+[ECO "B20"]
+[Opening "Sicilian"]
+[Variation "Keres variation (2.Ne2)"]
+[HashCode "a09f5d89"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Ne2 d6 3. g3 g6 4. Bg2 Bg7 5. O-O h5 6. c3 Nc6 7. d4 e5 8. Be3
+Qe7 9. Na3 h4 10. dxc5 dxc5 11. Nb5 b6 12. f4 Ba6 13. Nd6+ Kf8 14. Nxf7
+Kxf7 15. Qd5+ Qe6 16. fxe5+ Bf6 17. Qxe6+ Kxe6 18. exf6 Bxe2 19. Rf2 h3 20.
+Bh1 Bd3 21. e5 Nxe5 22. Bxa8 Nxf6 23. Bf3 Ne4 24. Bxe4 Bxe4 25. Rf4 Bg2 26.
+g4 g5 27. Ra4 Nf3+ 28. Kf2 Nxh2 29. Bxg5 Rg8 30. Re1+ Kd5 31. c4+ Kc6 32.
+Rxa7 Rf8+ 33. Kg3 Nf1+ 34. Rxf1 Rxf1 35. a4 Rf3+ 36. Kh2 Bf1 37. Bd8 Rf2+
+38. Kg3 h2 39. Rc7+ Kd6 40. Rh7 Rxb2 1/2-1/2
+

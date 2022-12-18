@@ -1,0 +1,17 @@
+[Event "Michigan"]
+[Site "Michigan"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Sveen"]
+[Black "Jones"]
+[Result "1-0"]
+[ECO "B33"]
+[Opening "Sicilian"]
+[Variation "Pelikan (Lasker/Sveshnikov) variation"]
+[HashCode "0aab0519"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Nxc6 bxc6 7. Bg5
+Be7 8. Bxf6 Bxf6 9. Bc4 O-O 10. O-O Rb8 11. Bb3 Bb7 12. Qd3 Qc7 13. Rad1
+Rfd8 14. Qc4 d6 15. Nd5 Qa5 16. Nxf6+ 1-0
+

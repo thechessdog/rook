@@ -1,0 +1,17 @@
+[Event "corr Europe"]
+[Site "corr Europe"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Malmdin, Nils"]
+[Black "Lind, B."]
+[Result "1-0"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, poisoned pawn, Konstantinopolsky variation"]
+[HashCode "4ff3ae5a"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Qc7 7. Qg4 Ne7 8.
+Qxg7 Rg8 9. Qxh7 cxd4 10. Ne2 Nbc6 11. f4 dxc3 12. Rb1 d4 13. Ng3 Bd7 14.
+Ne4 O-O-O 15. Nd6+ Kb8 16. Rxb7+ 1-0
+

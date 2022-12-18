@@ -1,0 +1,18 @@
+[Event "Boulder"]
+[Site "Boulder"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Bagstad, G."]
+[Black "Doykos, K."]
+[Result "0-1"]
+[ECO "C64"]
+[Opening "Ruy Lopez"]
+[Variation "classical defence, 4.c3"]
+[HashCode "18e3ebfc"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. c3 Nge7 5. O-O Bb6 6. d4 exd4 7. cxd4 d5
+8. exd5 Nxd5 9. Re1+ Be6 10. Bxc6+ bxc6 11. Ne5 O-O 12. Nxc6 Qh4 13. Nc3
+Rfe8 14. Qa4 Nf6 15. g3 Qh3 16. f3 Bd5 17. Ne5 Ng4 18. Nxd5 Qxh2+ 19. Kf1
+Qf2# 0-1
+

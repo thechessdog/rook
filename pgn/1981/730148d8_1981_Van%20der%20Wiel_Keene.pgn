@@ -1,0 +1,20 @@
+[Event "Bochum"]
+[Site "Bochum"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Van der Wiel, John T.H."]
+[Black "Keene, Raymond D"]
+[Result "1/2-1/2"]
+[ECO "B07"]
+[Opening "Robatsch defence"]
+[Variation "Geller's system"]
+[HashCode "730148d8"]
+[Epoch "Rook"]
+[WhiteID "1000020"]
+[WhiteCountry "NED"]
+[BlackID "400211"]
+[BlackCountry "ENG"]
+
+1. e4 g6 2. d4 Bg7 3. c3 d6 4. Nf3 Nf6 5. Bd3 O-O 6. O-O Nh5 7. Na3 e5 8. dxe5
+dxe5 9. Nc4 Qe7 10. Re1 Nd7 11. Qe2 Rd8 12. a4 Nb6 13. a5 Nxc4 14. Bxc4 a6 15.
+Bg5 Bf6 16. Be3 Bd7 17. h3 1/2-1/2

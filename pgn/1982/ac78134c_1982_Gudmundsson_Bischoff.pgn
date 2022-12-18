@@ -1,0 +1,20 @@
+[Event "Reykjavik op"]
+[Site "Reykjavik op"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Gudmundsson, Elvar"]
+[Black "Bischoff, Klaus"]
+[Result "1/2-1/2"]
+[ECO "A42"]
+[Opening "Modern defence"]
+[Variation "Averbakh system, Randspringer variation"]
+[HashCode "ac78134c"]
+[Epoch "Rook"]
+[WhiteID "2300206"]
+[WhiteCountry "ISL"]
+[BlackID "4600045"]
+[BlackCountry "GER"]
+
+1. d4 g6 2. c4 Bg7 3. Nc3 d6 4. e4 f5 5. exf5 Bxf5 6. Bd3 Bxd4 7. Bxf5 Bxc3+ 8.
+bxc3 gxf5 9. Qh5+ Kd7 10. Qxf5+ e6 11. Qb5+ Nc6 12. Nf3 Qf6 13. O-O Ne7 14. Bg5
+Qf5 15. Rad1 1/2-1/2

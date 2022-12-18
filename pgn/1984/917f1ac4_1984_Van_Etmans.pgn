@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Van Camp"]
+[Black "Etmans, Maarten"]
+[Result "0-1"]
+[ECO "B02"]
+[Opening "Alekhine's defence"]
+[Variation "two pawns' (Lasker's) attack"]
+[HashCode "917f1ac4"]
+[Epoch "Rook"]
+[BlackID "1001345"]
+[BlackCountry "NED"]
+
+1. e4 Nf6 2. e5 Nd5 3. c4 Nb6 4. c5 Nd5 5. Bc4 c6 6. Qf3 e6 7. Nc3 Bxc5 8. Nh3
+Nxc3 9. bxc3 d5 10. Bb3 Be7 11. O-O c5 12. d4 Nc6 13. Qg4 Kf8 14. Nf4 g6 15.
+Rd1 cxd4 16. Qf3 Nxe5 0-1

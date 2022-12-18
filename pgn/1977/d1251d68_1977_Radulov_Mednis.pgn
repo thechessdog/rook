@@ -1,0 +1,27 @@
+[Event "Kragujevac"]
+[Site "Kragujevac"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Radulov, Ivan"]
+[Black "Mednis, Edmar John"]
+[Result "1-0"]
+[ECO "B61"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Larsen variation, 7.Qd2"]
+[HashCode "d1251d68"]
+[Epoch "Rook"]
+[WhiteID "2900300"]
+[WhiteCountry "FID"]
+[BlackCountry "USA"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 Bd7 7. Qd2 h6 8.
+Bxf6 gxf6 9. O-O-O Nxd4 10. Qxd4 Qa5 11. f4 Rc8 12. Kb1 Qc5 13. Qd2 Bg7 14. f5
+h5 15. Bd3 Bh6 16. Qe2 Bf4 17. Nd5 Be5 18. c3 e6 19. Ne3 b5 20. g3 Ke7 21. fxe6
+fxe6 22. Ng2 Rcg8 23. Nh4 a5 24. Nf3 Rb8 25. Rc1 Rb7 26. Rhf1 Rhb8 27. Rf2 Rc7
+28. Rcf1 Rf8 29. Qd2 Be8 30. Qh6 Ra7 31. Ng5 Qe3 32. Rf3 Qd2 33. Bc2 Qxg5 34.
+Qxg5 fxg5 35. Rxf8 g4 36. a4 b4 37. cxb4 axb4 38. Bd3 Bg6 39. Rg8 Bh7 40. Rb8
+d5 41. Rxb4 h4 42. Bc2 hxg3 43. hxg3 Bd6 44. Rb3 dxe4 45. Re1 Bg8 46. Rxe4 e5
+47. Rbe3 Be6 48. Rxe5 Bxe5 49. Rxe5 Kd6 50. Re3 Bd5 51. b3 Rf7 52. Rc3 Rf2 53.
+a5 Ke5 54. Kb2 Kd4 55. Rc8 Rf7 56. Rg8 Bf3 57. Re8 Rb7 58. Re6 Ra7 59. b4 Rb7
+60. Rb6 Rc7 61. a6 Ra7 62. Bf5 Re7 63. Re6 Rf7 64. Bg6 Rg7 65. Bc2 Kc4 66. Ka3
+Ra7 67. Ka4 1-0

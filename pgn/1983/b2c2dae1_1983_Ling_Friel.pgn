@@ -1,0 +1,16 @@
+[Event "Xenia,OH"]
+[Site "Xenia,OH"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Ling, Richard"]
+[Black "Friel, Ed"]
+[Result "1-0"]
+[ECO "C07"]
+[Opening "French"]
+[Variation "Tarrasch, open variation"]
+[HashCode "b2c2dae1"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. c3 Nc6 5. Ngf3 cxd4 6. cxd4 Bb4 7. Bd3 dxe4
+8. Bxe4 Nxd4 9. O-O Nf6 10. Qa4+ 1-0
+

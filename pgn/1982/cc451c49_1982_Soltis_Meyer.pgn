@@ -1,0 +1,22 @@
+[Event "US Open"]
+[Site "US Open"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Soltis, Andrew"]
+[Black "Meyer, John"]
+[Result "1-0"]
+[ECO "B23"]
+[Opening "Sicilian"]
+[Variation "closed"]
+[HashCode "cc451c49"]
+[Epoch "Rook"]
+[BlackID "2001187"]
+[BlackCountry "USA"]
+[WhiteID "2000741"]
+[WhiteCountry "USA"]
+
+1. e4 c5 2. Nc3 e6 3. Nge2 Nc6 4. g3 d6 5. Bg2 Nf6 6. O-O Be7 7. b3 O-O 8. Bb2
+d5 9. exd5 Nxd5 10. d4 Nxc3 11. Bxc3 cxd4 12. Nxd4 Bd7 13. Nxc6 Bxc6 14. Qg4 g6
+15. Bxc6 bxc6 16. Rad1 Qc8 17. Rfe1 Rd8 18. Qf4 Rd5 19. Rxd5 cxd5 20. Qe5 f6
+21. Qxe6+ Qxe6 22. Rxe6 Rc8 23. Bd4 Kf7 24. Re2 Bc5 25. Bxc5 Rxc5 26. Kf1 a5
+27. Ke1 d4 28. Kd2 Rc3 29. Re4 1-0

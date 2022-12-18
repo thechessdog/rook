@@ -1,0 +1,23 @@
+[Event "Mexico"]
+[Site "Mexico"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Tisdall, Jonathan D"]
+[Black "Dorfman, Iossif"]
+[Result "0-1"]
+[ECO "B89"]
+[Opening "Sicilian"]
+[Variation "Sozin, 7.Be3"]
+[HashCode "1a455d7e"]
+[Epoch "Rook"]
+[WhiteID "1500066"]
+[WhiteCountry "NOR"]
+[BlackCountry "FRA"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bc4 e6 7. Be3 a6 8. Qe2
+Qc7 9. O-O-O Na5 10. Bd3 b5 11. a3 Bb7 12. f4 Be7 13. Rhf1 O-O 14. g4 d5 15.
+exd5 Nxd5 16. Nxd5 Bxd5 17. Kb1 Nc4 18. Bc1 Rad8 19. g5 Rfe8 20. f5 exf5 21.
+Nxf5 Bf8 22. Qf2 Ne5 23. Qg3 Qc6 24. Ne3 Nxd3 25. Nxd5 Nxc1 26. Qf3 Qg6 27.
+Rxc1 Re5 28. Rcd1 Rc8 29. h4 Qxc2+ 30. Ka1 Qg6 31. Qf4 Qe6 32. Nb6 Re8 33. Nd7
+Re4 34. Qf3 b4 35. Nxf8 Rxf8 36. h5 Re3 37. Qd5 bxa3 38. Qxe6 axb2+ 39. Kxb2
+Rxe6 0-1

@@ -1,0 +1,21 @@
+[Event "Sweden"]
+[Site "Sweden"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Olsson, Ake 1936"]
+[Black "Wiedenkeller, Michael"]
+[Result "0-1"]
+[ECO "C80"]
+[Opening "Ruy Lopez"]
+[Variation "open, 8...Be6"]
+[HashCode "418a37c2"]
+[Epoch "Rook"]
+[WhiteID "1732439"]
+[WhiteCountry "SWE"]
+[BlackID "1700146"]
+[BlackCountry "LUX"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Be6 9. Be3 Nc5 10. Nbd2 Be7 11. c3 Nd3 12. Qb1 Ndxe5 13. Nxe5 Nxe5 14. Bd4 Ng4
+15. Bxg7 Qd6 16. Nf3 Rg8 17. Qxh7 O-O-O 18. Rfe1 Qf4 19. Bxd5 Bxd5 20. Rxe7
+Bxf3 21. gxf3 Rxg7 22. Qxg7 Qxh2+ 0-1

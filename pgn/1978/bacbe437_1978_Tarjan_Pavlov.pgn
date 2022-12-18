@@ -1,0 +1,24 @@
+[Event "Torremolinos"]
+[Site "Torremolinos"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Tarjan, James"]
+[Black "Pavlov, Mircea"]
+[Result "1-0"]
+[ECO "D86"]
+[Opening "Gruenfeld"]
+[Variation "exchange, Simagin's improved variation"]
+[HashCode "bacbe437"]
+[Epoch "Rook"]
+[WhiteID "2000180"]
+[WhiteCountry "USA"]
+[BlackID "1200160"]
+[BlackCountry "ROU"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Bc4 O-O 8.
+Ne2 Nc6 9. O-O b6 10. Be3 Na5 11. Bd3 c5 12. e5 Bb7 13. Nf4 cxd4 14. cxd4 Rc8
+15. Qg4 Nc6 16. Rad1 Nb4 17. Bb1 Bd5 18. Rd2 Rc3 19. h4 Bc4 20. Re1 Nd5 21. h5
+Nxf4 22. Bxf4 Bd5 23. f3 Qc8 24. Qh4 Rc1 25. Rdd1 Rxd1 26. Rxd1 Qe6 27. Rc1 Bc4
+28. a3 a5 29. Kf2 Rc8 30. Rh1 f5 31. g4 Ba2 32. hxg6 Bxb1 33. Qxh7+ Kf8 34. Bh6
+Bxh6 35. Qh8+ Qg8 36. Qxh6+ Ke8 37. Qh8 Kf8 38. Qxg8+ Kxg8 39. Rxb1 f4 40. Rxb6
+Rc2+ 1-0

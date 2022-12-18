@@ -1,0 +1,20 @@
+[Event "corr SWE/K tt"]
+[Site "corr SWE/K tt"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Rosen, Peter"]
+[Black "Isetoft, Bengt"]
+[Result "0-1"]
+[ECO "C14"]
+[Opening "French"]
+[Variation "classical, Rubinstein variation"]
+[HashCode "38114c31"]
+[Epoch "Rook"]
+[WhiteID "1704877"]
+[WhiteCountry "SWE"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Nfd7 6. Bxe7 Qxe7 7. Qd2 O-O 8.
+f4 c5 9. Nf3 Nc6 10. dxc5 Nxc5 11. O-O-O Bd7 12. Qe3 Rfc8 13. Nd4 a6 14. Bd3
+Nxd4 15. Qxd4 b5 16. f5 Nxd3+ 17. Rxd3 Qg5+ 18. Kb1 Rc4 19. Qf2 Rac8 20. Rg3
+Qf4 21. Qa7 R4c7 22. Qxa6 Qxe5 23. fxe6 fxe6 24. Rc1 d4 25. Nd1 Qe2 26. c3 Bc6
+27. a3 Qd2 28. Rg4 e5 29. Qb6 Bd7 0-1

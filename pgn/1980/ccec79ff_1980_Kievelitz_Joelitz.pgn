@@ -1,0 +1,18 @@
+[Event "corr DDR-Theme"]
+[Site "corr DDR-Theme"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Kievelitz, B."]
+[Black "Joelitz"]
+[Result "1-0"]
+[ECO "E21"]
+[Opening "Nimzo-Indian"]
+[Variation "three knights variation"]
+[HashCode "ccec79ff"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Nf3 c5 5. e3 cxd4 6. exd4 Ne4 7. Qc2 f5 8.
+Bd3 Nf6 9. O-O O-O 10. a3 Bxc3 11. bxc3 b6 12. d5 exd5 13. cxd5 g6 14. Bh6
+Re8 15. d6 Ba6 16. Qa2+ Re6 17. Rfe1 Bxd3 18. Rxe6 dxe6 19. Qxe6+ Kh8 20.
+Ne5 1-0
+

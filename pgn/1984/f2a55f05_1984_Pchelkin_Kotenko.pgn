@@ -1,0 +1,22 @@
+[Event "corr ch16-SU"]
+[Site "corr ch16-SU"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Pchelkin, A."]
+[Black "Kotenko, G."]
+[Result "1-0"]
+[ECO "B97"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7...Qb6"]
+[HashCode "f2a55f05"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qb6 8.
+Nb3 Be7 9. Qf3 Qc7 10. O-O-O Nbd7 11. Bd3 b5 12. a3 Bb7 13. Bxf6 Nxf6 14.
+f5 e5 15. g4 Nd7 16. h4 O-O-O 17. Kb1 Kb8 18. Nd5 Bxd5 19. exd5 Rc8 20. Rc1
+Nc5 21. Nxc5 dxc5 22. c4 Qb6 23. Qe2 bxc4 24. Rxc4 f6 25. Ra4 a5 26. Bc4
+Kc7 27. Rh3 Kd6 28. Rb3 Qc7 29. Rb5 Ra8 30. Qd2 Bd8 31. Qc3 Ra7 32. Be2 Be7
+33. Qb3 Kd7 34. d6 Bxd6 35. g5 Re8 36. gxf6 gxf6 37. Qf7+ Re7 38. Qxf6 e4
+39. Qg5 e3 40. f6 Re5 41. Qg4+ Kd8 42. Qg8+ Re8 43. Qg2 Re6 44. Rg4 Bf8 45.
+Rg7 Qxg7 1-0
+

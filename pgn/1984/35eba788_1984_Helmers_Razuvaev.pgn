@@ -1,0 +1,20 @@
+[Event "Helsinki"]
+[Site "Helsinki"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Helmers, Knut J"]
+[Black "Razuvaev, Yuri S"]
+[Result "1/2-1/2"]
+[ECO "E52"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line with ...b6"]
+[HashCode "35eba788"]
+[Epoch "Rook"]
+[WhiteID "1500023"]
+[WhiteCountry "NOR"]
+[BlackCountry "RUS"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 b6 7. O-O Bb7 8. cxd5
+exd5 9. Ne5 a6 10. a3 Bd6 11. f4 Nbd7 12. Qf3 b5 13. Bd2 c5 14. Be1 b4 15. axb4
+cxb4 16. Bh4 Be7 17. Na4 Re8 18. Rfc1 g6 19. Nc5 Nxc5 20. dxc5 Qc7 21. c6 Bc8
+22. Bxf6 Bxf6 23. Qxd5 Bxe5 24. fxe5 Rxe5 25. Qd4 a5 26. Rc5 1/2-1/2

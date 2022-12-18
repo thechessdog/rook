@@ -1,0 +1,19 @@
+[Event "Chicago"]
+[Site "Chicago"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Christiansen, W."]
+[Black "Graves"]
+[Result "0-1"]
+[ECO "B16"]
+[Opening "Caro-Kann"]
+[Variation "Bronstein-Larsen variation"]
+[HashCode "75d98028"]
+[Epoch "Rook"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ gxf6 6. Bc4 Bf5 7. Ne2
+Nd7 8. Ng3 Bg6 9. c3 Qc7 10. h4 h5 11. Be3 e6 12. O-O O-O-O 13. Qf3 Bd6 14.
+a4 Rdg8 15. Rfe1 Bh7 16. a5 Bxg3 17. fxg3 Rxg3 18. Bf4 Rxf3 19. Bxc7 Rg8
+20. Bd6 Rh3 21. Rxe6 fxe6 22. Bxe6 Rxh4 23. Bxg8 Bxg8 24. Re1 Kd8 25. Be7+
+Kc7 0-1
+

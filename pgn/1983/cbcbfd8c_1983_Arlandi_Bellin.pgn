@@ -1,0 +1,19 @@
+[Event "Torino"]
+[Site "Torino"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Arlandi"]
+[Black "Bellin"]
+[Result "1-0"]
+[ECO "A90"]
+[Opening "Dutch defence"]
+[Variation "Dutch-Indian (Nimzo-Dutch) variation"]
+[HashCode "cbcbfd8c"]
+[Epoch "Rook"]
+
+1. d4 e6 2. c4 f5 3. g3 Nf6 4. Bg2 Bb4+ 5. Bd2 Qe7 6. Nf3 O-O 7. O-O Bxd2
+8. Qxd2 Ne4 9. Qc2 Nc6 10. Nc3 Nxc3 11. Qxc3 d6 12. b4 e5 13. dxe5 Nxe5 14.
+Nxe5 dxe5 15. Rad1 e4 16. f3 a5 17. b5 b6 18. fxe4 fxe4 19. Rxf8+ Kxf8 20.
+Rd4 Bb7 21. Qd2 Kg8 22. Rd7 Qc5+ 23. Qd4 Qg5 24. Bxe4 Qc1+ 25. Kg2 Bxe4+
+26. Qxe4 Rf8 27. Qe6+ Kh8 28. Rf7 1-0
+

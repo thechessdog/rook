@@ -1,0 +1,17 @@
+[Event "Cuba"]
+[Site "Cuba"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Lebredo, Gerardo"]
+[Black "Garcia Gonzales, Guillermo"]
+[Result "1/2-1/2"]
+[ECO "A65"]
+[Opening "Benoni"]
+[Variation "6.e4"]
+[HashCode "b7ab7920"]
+[Epoch "Rook"]
+[BlackCountry "CUB"]
+[WhiteCountry "CUB"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. Bf4 a6 8. Nf3 b5
+9. e5 dxe5 10. Nxe5 Bd6 11. Kd2 1/2-1/2

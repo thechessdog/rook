@@ -1,0 +1,18 @@
+[Event "Minsk ch-URS"]
+[Site "Minsk ch-URS"]
+[Date "1979.12.01"]
+[Round "1"]
+[White "Razuvaev, Yuri S"]
+[Black "Tal, Mikhail"]
+[Result "1/2-1/2"]
+[ECO "E15"]
+[Opening "Queen's Indian"]
+[Variation "Nimzovich variation (exaggerated fianchetto)"]
+[HashCode "ef6daab0"]
+[Epoch "Rook"]
+[BlackCountry "LVA"]
+[WhiteCountry "RUS"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 b6 4. g3 Ba6 5. Qa4 c5 6. Bg2 Bb7 7. O-O Qc8 8. Nc3
+cxd4 9. Nxd4 Bxg2 10. Kxg2 Nc6 11. Nxc6 Qxc6+ 12. Qxc6 dxc6 13. Rd1 Bb4 14. Bd2
+O-O-O 15. a3 Be7 16. Bf4 Rxd1 17. Rxd1 1/2-1/2

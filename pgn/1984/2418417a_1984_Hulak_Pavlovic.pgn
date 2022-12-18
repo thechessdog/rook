@@ -1,0 +1,21 @@
+[Event "Bor"]
+[Site "Bor"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Hulak, Krunoslav"]
+[Black "Pavlovic, Dean"]
+[Result "1-0"]
+[ECO "C91"]
+[Opening "Ruy Lopez"]
+[Variation "closed, 9.d4"]
+[HashCode "2418417a"]
+[Epoch "Rook"]
+[BlackID "918512"]
+[WhiteCountry "HRV"]
+[BlackCountry "SRB"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. d4 exd4 10. cxd4 Bg4 11. d5 Bxf3 12. Qxf3 Nd4 13. Qd3 Nxb3 14. axb3 Nd7
+15. Be3 Bf6 16. Nc3 Ne5 17. Qd2 Re8 18. f3 Qc8 19. Rec1 Qb7 20. Ne2 c5 21. dxc6
+Nxc6 22. Nf4 Rac8 23. Nd5 Bd8 24. Bf4 Ne5 25. Kf1 Rxc1+ 26. Rxc1 Qb8 27. Qc3 h6
+28. Be3 Kf8 29. Bd4 f6 30. h3 Ng6 31. Qc6 a5 32. Qd7 Ne7 33. Nf4 1-0

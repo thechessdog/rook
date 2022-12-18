@@ -1,0 +1,25 @@
+[Event "Robert Silk Young Masters"]
+[Site "London"]
+[Date "1984.07.23"]
+[Round "9"]
+[White "Large, Peter G"]
+[Black "Rayner, Emmanuel"]
+[Result "0-1"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Byrne (English) attack"]
+[HashCode "e003b4c7"]
+[Epoch "Rook"]
+[WhiteID "400866"]
+[BlackID "1800230"]
+[WhiteCountry "ENG"]
+[BlackCountry "WLS"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e6 7. f4 Nbd7 8. Qf3
+e5 9. Nb3 exf4 10. Qxf4 Be7 11. Be2 O-O 12. g4 Ne5 13. Rg1 Be6 14. O-O-O b5 15.
+g5 Nfd7 16. Nd4 Re8 17. Nf5 Qc7 18. Nd5 Bxd5 19. Rxd5 Rac8 20. Rd2 Bf8 21. Bd4
+d5 22. Kb1 dxe4 23. Rg3 g6 24. Rc3 Qb8 25. Rxc8 Rxc8 26. Bxe5 Nxe5 27. Rd5 gxf5
+28. Qxe5 Qxe5 29. Rxe5 Rc5 30. Re8 Kg7 31. h4 Bd6 32. Rd8 Be7 33. Re8 Re5 34.
+h5 h6 35. gxh6+ Kxh6 36. c4 f4 37. cxb5 f3 38. Bd1 axb5 39. Rh8+ Kg7 40. Re8
+Rd5 41. Kc2 Bg5 42. Rxe4 Rd2+ 43. Kc1 Rd4+ 44. Kb1 Rxe4 45. Be2 fxe2 46. Ka1
+e1=Q# 0-1

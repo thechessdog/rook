@@ -1,0 +1,23 @@
+[Event "Goteborg"]
+[Site "Goteborg"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Axelsson, Uno"]
+[Black "Backe, Peter"]
+[Result "0-1"]
+[ECO "E15"]
+[Opening "Queen's Indian"]
+[Variation "Nimzovich variation (exaggerated fianchetto)"]
+[HashCode "bcd4ba76"]
+[Epoch "Rook"]
+[WhiteID "1710249"]
+[BlackID "1701240"]
+[WhiteCountry "SWE"]
+[BlackCountry "SWE"]
+
+1. d4 e6 2. c4 Nf6 3. Nf3 b6 4. g3 Ba6 5. Qc2 Bb7 6. Bg2 c5 7. O-O Be4 8. Qd1
+cxd4 9. Nxd4 Bxg2 10. Kxg2 Qc8 11. Qd3 a6 12. Bg5 Be7 13. Nc3 O-O 14. Ne4 Nc6
+15. Nxf6+ gxf6 16. Bh6 Ne5 17. Qe4 Re8 18. Rac1 Qc5 19. h3 f5 20. Qf4 Bf6 21.
+Nb3 Qc6+ 22. f3 Ng6 23. Qd2 e5 24. e3 Nh4+ 25. gxh4 Bxh4 26. e4 f4 27. Bxf4
+Qg6+ 28. Kh1 exf4 29. Nd4 Bg3 30. Nf5 Re5 31. Qxd7 Qh5 32. Nxg3 fxg3 33. Qg4+
+Rg5 0-1

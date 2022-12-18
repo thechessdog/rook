@@ -1,0 +1,20 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Harju, Antero"]
+[Black "Vainio, Veli"]
+[Result "0-1"]
+[ECO "B33"]
+[Opening "Sicilian"]
+[Variation "Sveshnikov variation"]
+[HashCode "678d5983"]
+[Epoch "Rook"]
+[WhiteID "509000"]
+[WhiteCountry "FIN"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6 8.
+Bxf6 gxf6 9. Na3 b5 10. Nd5 f5 11. Bxb5 axb5 12. Nxb5 Qa5+ 13. c3 Kd8 14. a4
+Rb8 15. b4 Qa6 16. Ndc7 Qb7 17. a5 Nxb4 18. cxb4 Qxe4+ 19. Qe2 Qxb4+ 20. Qd2
+Rxb5 21. Nxb5 Qxb5 22. Qe2 Qxe2+ 23. Kxe2 Ba6+ 24. Kf3 Kd7 25. Rhb1 Be7 26. Rb6
+Ra8 27. Rd1 Bd3 28. Ke3 e4 29. Ra1 Bd8 0-1

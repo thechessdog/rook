@@ -1,0 +1,18 @@
+[Event "corr NBC"]
+[Site "corr NBC"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Van Wieringen"]
+[Black "Versteeg"]
+[Result "0-1"]
+[ECO "B13"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik, Gunderam attack"]
+[HashCode "a6011724"]
+[Epoch "Rook"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. c5 Nc6 6. Bb5 e5 7. Nf3 exd4 8.
+Qxd4 Bd7 9. Bxc6 Bxc6 10. b4 b6 11. O-O Be7 12. Re1 O-O 13. cxb6 axb6 14.
+Bb2 Ne8 15. Nc3 Bf6 16. Qd2 d4 17. Ne4 Bxe4 18. Rxe4 Nd6 19. Rae1 Nc4 20.
+Qc2 Nxb2 21. Qxb2 d3 22. Ne5 Qd5 23. f4 d2 24. Rd1 Rfd8 25. Qc3 Rxa2 0-1
+

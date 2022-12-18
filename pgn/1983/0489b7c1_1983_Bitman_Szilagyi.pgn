@@ -1,0 +1,20 @@
+[Event "Kamen Piskov mem 3"]
+[Site "Ruse"]
+[Date "1983.??.??"]
+[Round "12"]
+[White "Bitman, Alexander R"]
+[Black "Szilagyi, Peter"]
+[Result "1/2-1/2"]
+[ECO "B43"]
+[Opening "Sicilian"]
+[Variation "Kan, 5.Nc3"]
+[HashCode "0489b7c1"]
+[Epoch "Rook"]
+[WhiteID "4105605"]
+[BlackID "700355"]
+[WhiteCountry "RUS"]
+[BlackCountry "HUN"]
+
+1. e4 c5 2. Nc3 e6 3. Nf3 a6 4. d4 cxd4 5. Nxd4 Qc7 6. g3 Nc6 7. Bg2 d6 8. O-O
+Bd7 9. Nb3 Nf6 10. Qe2 Be7 11. Be3 Ne5 12. Rad1 Nc4 13. Bc1 Rc8 14. f4 b5 15.
+a3 a5 16. Rd3 1/2-1/2

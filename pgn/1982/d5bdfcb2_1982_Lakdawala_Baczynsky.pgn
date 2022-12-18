@@ -1,0 +1,21 @@
+[Event "US Open"]
+[Site "US Open"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Lakdawala, Jimmy"]
+[Black "Baczynsky, Boris"]
+[Result "0-1"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack"]
+[HashCode "d5bdfcb2"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 Nbd7 4. Nf3 c6 5. e3 Ne4 6. Nxe4 dxe4 7. Nd2 Qa5
+8. Bh4 Nf6 9. c3 g5 10. Bg3 Bf5 11. Nc4 Qd8 12. Qb3 b5 13. Ne5 Be6 14. Qb4
+Rc8 15. a4 Nd5 16. Qc5 bxa4 17. Nxc6 Qb6 18. Qxb6 axb6 19. Na7 Ra8 20. Bb5+
+Bd7 21. Bxd7+ Kxd7 22. Rxa4 e6 23. O-O Be7 24. Rfa1 h5 25. h3 h4 26. Bh2 f5
+27. Nc6 Rxa4 28. Ne5+ Kc8 29. Rxa4 Kb7 30. Ng6 Rc8 31. Nxe7 Nxe7 32. Bd6
+Nd5 33. Ra1 Rd8 34. Be5 b5 35. Kf1 Rf8 36. Rc1 Ra8 37. b3 Ra2 38. c4 Nb4
+39. Bf6 Nd3 40. Rb1 Rxf2+ 41. Kg1 f4 42. Bxg5 f3 43. gxf3 Rxf3 44. Rf1 Rg3+
+45. Kh2 Rxg5 46. Rf7+ Kc6 47. Rf6 Ne1 0-1
+

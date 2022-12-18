@@ -1,0 +1,22 @@
+[Event "Kladovo"]
+[Site "Kladovo"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Wedberg, Tom"]
+[Black "Novoselski, Zoran"]
+[Result "0-1"]
+[ECO "B96"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7.f4"]
+[HashCode "4cf15e72"]
+[Epoch "Rook"]
+[WhiteID "1700073"]
+[WhiteCountry "SWE"]
+[BlackID "901970"]
+[BlackCountry "SRB"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qc7 8. Qf3
+b5 9. Bxf6 gxf6 10. e5 Bb7 11. Qh5 b4 12. Nxe6 Qc8 13. Bb5+ axb5 14. Nxb5 Qxc2
+15. Nbc7+ Kd7 16. Qxf7+ Be7 17. exf6 Qe4+ 18. Kd1 Qd3+ 19. Ke1 Qe3+ 20. Kf1 Be4
+21. Qxe7+ Kc8 22. Rd1 Bd3+ 23. Rxd3 Qxd3+ 24. Kf2 Rxa2 25. Rb1 Qxb1 26. Nb5
+Qxb2+ 27. Kg3 Qxg2+ 28. Kh4 Qxh2+ 29. Kg4 Rg8+ 30. Ng5 Rxg5+ 0-1

@@ -1,0 +1,18 @@
+[Event "corr Rumania"]
+[Site "corr Rumania"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Hudrea"]
+[Black "Soare"]
+[Result "0-1"]
+[ECO "A79"]
+[Opening "Benoni"]
+[Variation "classical, 11.f3"]
+[HashCode "3788bd7e"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. Nf3 Bg7 8.
+Be2 O-O 9. O-O Re8 10. Nd2 Na6 11. f3 Nd7 12. Nc4 Ne5 13. Ne3 f5 14. f4 Nf7
+15. exf5 Bd4 16. Rf3 Bxf5 17. Kh1 Nh6 18. Nb5 Be4 19. Nxd4 cxd4 20. Rh3
+dxe3 21. Bxa6 Nf5 22. Bd3 Qa5 0-1
+

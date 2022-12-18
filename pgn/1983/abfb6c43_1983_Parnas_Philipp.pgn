@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Parnas"]
+[Black "Philipp"]
+[Result "1-0"]
+[ECO "C41"]
+[Opening "Philidor"]
+[Variation "Hanham, Schlechter variation"]
+[HashCode "abfb6c43"]
+[Epoch "Rook"]
+
+1. e4 d6 2. d4 Nd7 3. Nc3 e5 4. Nf3 c6 5. Bc4 Qe7 6. O-O h6 7. a4 a5 8. b3
+Qf6 9. Be3 Be7 10. Qd2 Bd8 11. Rad1 Bc7 12. Ne1 g5 13. dxe5 dxe5 14. Nd3
+Rh7 15. Nc5 Nb6 16. Nxb7 Nxc4 17. bxc4 Qe6 18. Nd6+ Ke7 19. Ndb5 1-0
+

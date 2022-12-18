@@ -1,0 +1,21 @@
+[Event "BL2-N 8384"]
+[Site "BL2-N 8384"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Behrmann, J."]
+[Black "Gerigk, W."]
+[Result "1-0"]
+[ECO "D02"]
+[Opening "Queen's pawn game, Chigorin variation"]
+[HashCode "72bae1a4"]
+[Epoch "Rook"]
+
+1. Nf3 Nc6 2. d4 d5 3. c4 Bg4 4. Qa4 Bxf3 5. gxf3 dxc4 6. e3 a6 7. Qxc4 Nf6
+8. Nc3 e5 9. dxe5 Nxe5 10. Qe2 Bb4 11. Bd2 Bxc3 12. Bxc3 Qd5 13. e4 Qe6 14.
+O-O-O O-O 15. f4 Nc6 16. Rg1 Kh8 17. Rxg7 Nb4 18. Bxb4 Kxg7 19. e5 Nd5 20.
+Bxf8+ Kxf8 21. Qe4 Qc6+ 22. Bc4 Nxf4 23. Qxc6 bxc6 24. Rd7 Nd5 25. Bxd5
+cxd5 26. Rxc7 Re8 27. f4 Re6 28. Kd2 Rh6 29. f5 Rh5 30. f6 Ke8 31. Re7+ Kf8
+32. Ra7 Ke8 33. Re7+ Kf8 34. Kc3 Rxh2 35. Ra7 Ke8 36. Re7+ Kf8 37. Rb7 Ke8
+38. Kd4 Rd2+ 39. Kc5 Rc2+ 40. Kd6 Rc8 41. e6 d4 42. Re7+ Kf8 43. Rxf7+ Kg8
+44. Rg7+ Kh8 45. e7 d3 46. Rg2 1-0
+

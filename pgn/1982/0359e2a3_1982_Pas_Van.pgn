@@ -1,0 +1,16 @@
+[Event "HMC"]
+[Site "HMC"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Pas"]
+[Black "Van der Heijden"]
+[Result "0-1"]
+[ECO "B06"]
+[Opening "Robatsch defence"]
+[Variation "two knights, Suttles variation"]
+[HashCode "0359e2a3"]
+[Epoch "Rook"]
+
+1. e4 g6 2. Nf3 Bg7 3. d4 d6 4. Nc3 c6 5. h3 Nf6 6. Bc4 b5 7. Bb3 b4 8. Ng5
+bxc3 9. Nxf7 cxb2 10. Nxd8 bxa1=Q 0-1
+

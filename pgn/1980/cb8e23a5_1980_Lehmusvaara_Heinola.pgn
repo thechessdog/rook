@@ -1,0 +1,19 @@
+[Event "Uki"]
+[Site "Uki"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Lehmusvaara, E."]
+[Black "Heinola, Kari P."]
+[Result "0-1"]
+[ECO "C46"]
+[Opening "Three knights"]
+[Variation "Steinitz variation"]
+[HashCode "cb8e23a5"]
+[Epoch "Rook"]
+[BlackID "503495"]
+[BlackCountry "FIN"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 g6 4. Bb5 Bg7 5. O-O Nge7 6. h3 O-O 7. d3 a6 8. Ba4
+b5 9. Bb3 Bb7 10. Nd5 Nd4 11. Nxe7+ Qxe7 12. c3 Nxb3 13. Qxb3 Rfe8 14. Bg5 Bf6
+15. Bxf6 Qxf6 16. Rad1 d6 17. Rfe1 Bc8 18. d4 Bxh3 19. dxe5 dxe5 20. Nxe5 Be6
+0-1

@@ -1,0 +1,15 @@
+[Event "corr USSR"]
+[Site "corr USSR"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Zevetov"]
+[Black "Yakimov"]
+[Result "1-0"]
+[ECO "C50"]
+[Opening "King's pawn game"]
+[HashCode "0b0cf0ec"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nd4 4. Nxd4 exd4 5. O-O d6 6. c3 dxc3 7. Nxc3
+Nf6 8. d4 g6 9. Bg5 Bg7 10. f4 Qd7 11. e5 dxe5 12. fxe5 1-0
+

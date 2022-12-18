@@ -1,0 +1,21 @@
+[Event "Czestochowa"]
+[Site "Czestochowa"]
+[Date "1981.01.01"]
+[Round "6"]
+[White "Lanc, Alois"]
+[Black "Kubik, Jan"]
+[Result "0-1"]
+[ECO "B31"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (with ...g6, without ...d6)"]
+[HashCode "6ae1c5bb"]
+[Epoch "Rook"]
+[WhiteID "14900041"]
+[WhiteCountry "SVK"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. Re1 Nf6 6. c3 a6 7. Bf1 d6 8. h3
+O-O 9. d4 cxd4 10. cxd4 Bd7 11. d5 Ne5 12. Nd4 Rc8 13. a4 Qb6 14. Na3 Nh5 15.
+Nac2 f5 16. exf5 Bxf5 17. Nxf5 Rxf5 18. Be3 Qxb2 19. Nd4 Rf7 20. Rb1 Qa2 21.
+Ne6 Nf6 22. Nxg7 Kxg7 23. f4 Ned7 24. Rxb7 Kf8 25. f5 Nc5 26. Bh6+ Ke8 27. Ra7
+e5 28. Rxf7 Kxf7 29. fxg6+ Kxg6 30. Re2 Qxd5 31. Rd2 Qb3 32. Qc1 Qb6 33. Kh2 d5
+34. Rb2 Qd6 35. Qg5+ Kf7 36. Qg7+ Ke6 37. Rf2 Rf8 38. Qxf8 0-1

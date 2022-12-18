@@ -1,0 +1,19 @@
+[Event "Milan"]
+[Site "Milan"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Piredda"]
+[Black "Pantaleoni, Claudio"]
+[Result "1/2-1/2"]
+[ECO "C69"]
+[Opening "Ruy Lopez"]
+[Variation "exchange, Gligoric variation"]
+[HashCode "1e726399"]
+[Epoch "Rook"]
+[BlackID "800945"]
+[BlackCountry "ITA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O f6 6. d4 exd4 7. Nxd4 c5 8.
+Nb3 Qxd1 9. Rxd1 Bg4 10. f3 Be6 11. Be3 b6 12. Nc3 Bd6 13. Rd2 Ne7 14. f4 O-O
+15. g3 Rfe8 16. Kg2 Bf7 17. Re1 Nc6 18. Kf3 Rad8 19. h4 h5 20. g4 hxg4+ 21.
+Kxg4 1/2-1/2

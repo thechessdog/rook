@@ -1,0 +1,16 @@
+[Event "HUN-ch"]
+[Site "Budapest"]
+[Date "1982.??.??"]
+[Round "?"]
+[White "Lovass, Imre"]
+[Black "Barczay, Laszlo"]
+[Result "1/2-1/2"]
+[ECO "E42"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5, 5.Ne2 (Rubinstein)"]
+[HashCode "9a014910"]
+[Epoch "Rook"]
+[BlackCountry "HUN"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Ne2 cxd4 6. exd4 d5 7. a3 Be7 8. c5
+O-O 9. g3 Ne4 10. Bg2 f5 11. O-O Nc6 12. Nxe4 1/2-1/2

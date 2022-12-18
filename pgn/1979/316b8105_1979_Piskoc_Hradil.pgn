@@ -1,0 +1,15 @@
+[Event "corr ch-CSSR"]
+[Site "corr ch-CSSR"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Piskoc"]
+[Black "Hradil"]
+[Result "1-0"]
+[ECO "B17"]
+[Opening "Caro-Kann"]
+[Variation "Steinitz variation"]
+[HashCode "316b8105"]
+[Epoch "Rook"]
+
+1. e4 c6 2. Nc3 d5 3. d4 dxe4 4. Nxe4 Nd7 5. Qe2 Ngf6 6. Nd6# 1-0
+

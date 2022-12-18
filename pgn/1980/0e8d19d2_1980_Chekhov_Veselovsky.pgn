@@ -1,0 +1,19 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Chekhov, Valery A"]
+[Black "Veselovsky, Sergey"]
+[Result "1-0"]
+[ECO "D42"]
+[Opening "QGD"]
+[Variation "Semi-Tarrasch, 7.Bd3"]
+[HashCode "0e8d19d2"]
+[Epoch "Rook"]
+[WhiteID "4100859"]
+[WhiteCountry "RUS"]
+
+1. Nf3 c5 2. c4 Nf6 3. Nc3 Nc6 4. e3 e6 5. d4 d5 6. cxd5 Nxd5 7. Bd3 cxd4 8.
+exd4 Be7 9. O-O O-O 10. Re1 Nf6 11. a3 Qd6 12. Bc2 Rd8 13. Be3 b6 14. Qd3 g6
+15. Rad1 Bb7 16. Bg5 Qc7 17. Bb3 Nxd4 18. Nxd4 Ng4 19. Qh3 Nxf2 20. Qh4 Nxd1
+21. Bxe7 Rxd4 22. Qxd4 Nxc3 23. Rxe6 Re8 24. Rxg6+ hxg6 25. Bxf7+ 1-0

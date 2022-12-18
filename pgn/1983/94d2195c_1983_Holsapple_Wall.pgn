@@ -1,0 +1,19 @@
+[Event "Dayton,OH"]
+[Site "Dayton,OH"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Holsapple, Boyd"]
+[Black "Wall, Bill"]
+[Result "0-1"]
+[ECO "B13"]
+[Opening "Caro-Kann"]
+[Variation "exchange variation"]
+[HashCode "94d2195c"]
+[Epoch "Rook"]
+[BlackCountry "USA"]
+[WhiteCountry "USA"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. Nf3 Nf6 5. c4 Qa5+ 6. Nc3 Nc6 7. Be2 e6 8.
+O-O Bd6 9. Bg5 dxc4 10. Bxc4 Ng4 11. Re1 Nxh2 12. Nxh2 Qxg5 13. Nd5 O-O 14. Nf3
+Qg4 15. Ne3 Qh5 16. d5 Bb4 17. Re2 exd5 18. Nxd5 Bg4 19. Ne7+ Nxe7 20. Rxe7
+Bxe7 21. Bd5 Rad8 22. Qb3 Rxd5 23. Qxb7 Bxf3 0-1

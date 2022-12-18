@@ -1,0 +1,29 @@
+[Event "Dortmund"]
+[Site "Dortmund"]
+[Date "1980.01.01"]
+[Round "8"]
+[White "Lobron, Eric"]
+[Black "Ciocaltea, Victor"]
+[Result "0-1"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical system, 5.Be2"]
+[HashCode "b583fb8c"]
+[Epoch "Rook"]
+[WhiteID "4600037"]
+[WhiteCountry "GER"]
+[BlackCountry "ROU"]
+
+1. Nf3 g6 2. e4 Bg7 3. d4 d6 4. Be2 Nf6 5. Nc3 O-O 6. O-O c6 7. Re1 Na6 8. Bg5
+h6 9. Bf4 Nc7 10. h3 b5 11. a3 a6 12. Qd2 Kh7 13. Rad1 Bb7 14. Bh2 Nd7 15. e5
+d5 16. h4 c5 17. h5 e6 18. dxc5 Nxc5 19. Qe3 Qe7 20. Rd4 Rac8 21. Bd3 Nxd3 22.
+Qxd3 Kg8 23. hxg6 fxg6 24. Nh4 g5 25. Ng6 Qf7 26. Nxf8 Bxf8 27. b4 Bc6 28. Re3
+Be8 29. Ne2 Na8 30. Ng3 Nb6 31. Qd1 Nc4 32. Rf3 Qe7 33. Rc3 Qf7 34. Nf1 Qg7 35.
+Ne3 Bg6 36. Ng4 Be7 37. f3 h5 38. Nf2 Rf8 39. Qe2 Bd8 40. Rd1 Bb6 41. Kh1 g4
+42. Nd3 g3 43. Bxg3 Bxd3 44. Rdxd3 Qxg3 45. f4 Qf2 46. Rg3+ Kf7 47. Qxf2 Bxf2
+48. Rg5 h4 49. Rf3 Bg3 50. f5 Ke8 51. fxe6 Nxe5 52. Rxf8+ Kxf8 53. Rh5 Ke7 54.
+Rh7+ Kxe6 55. Ra7 Nc4 56. Rxa6+ Kd7 57. Kg1 Kc7 58. a4 bxa4 59. Rxa4 Kb6 60.
+Ra8 Kb5 61. c3 Be5 62. Rc8 Bd6 63. Rh8 Bg3 64. Rc8 Ne3 65. Re8 Nd1 66. Rc8 Ne3
+67. Re8 Nc4 68. Rc8 Kb6 69. Kf1 Ne3+ 70. Ke2 Nxg2 71. Kf3 Ne1+ 72. Kg4 Nd3 73.
+Kh3 Kb7 74. Rd8 Kc7 75. Rf8 Nf2+ 76. Kg2 Ne4 77. Rf3 Kc6 78. Re3 Bf4 79. Rf3
+Bd6 80. Re3 Ng5 81. Rd3 h3+ 82. Kh1 Ne4 83. b5+ Kc5 0-1

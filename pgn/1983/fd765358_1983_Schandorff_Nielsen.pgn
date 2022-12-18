@@ -1,0 +1,22 @@
+[Event "Nordic-tt"]
+[Site "Oslo"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Schandorff, Lars"]
+[Black "Nielsen, To"]
+[Result "0-1"]
+[ECO "C80"]
+[Opening "Ruy Lopez"]
+[Variation "open, 8...Be6"]
+[HashCode "fd765358"]
+[Epoch "Rook"]
+[WhiteID "1400070"]
+[WhiteCountry "DEN"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Be6 9. Be3 Be7 10. c3 O-O 11. Nbd2 Nxd2 12. Qxd2 Qd7 13. Rad1 Rad8 14. Qe2 Na5
+15. Bc2 Nc4 16. Bc1 Bg4 17. b3 Na5 18. Qd3 g6 19. Bh6 Rfe8 20. Rfe1 c5 21. Qe3
+Nc6 22. Qf4 Bf8 23. Bg5 Be7 24. Bh6 Bf8 25. Bg5 Be7 26. Bf6 Bxf3 27. Qxf3 Qe6
+28. g4 Bxf6 29. exf6 Ne5 30. Qf4 Qxg4+ 31. Qxg4 Nxg4 32. Rxe8+ Rxe8 33. Rxd5
+Nxf6 34. Rxc5 Re1+ 35. Kg2 Re2 36. Bd3 Rxa2 37. h3 Rd2 38. Rc6 Rxd3 39. Rxf6
+Rxc3 40. Rxa6 Rxb3 41. Rb6 0-1

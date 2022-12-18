@@ -1,0 +1,19 @@
+[Event "Soro"]
+[Site "Soro"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Rosenlund, Thorbjorn"]
+[Black "Kristiansen, Orla"]
+[Result "1-0"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Paulsen attack"]
+[HashCode "c1117b68"]
+[Epoch "Rook"]
+[BlackID "1418912"]
+[BlackCountry "DEN"]
+[WhiteID "1400614"]
+[WhiteCountry "DEN"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Be2 Nh6 7. Bxh6 Qxb2 8. Be3
+Qxa1 9. Qc2 cxd4 10. Nxd4 Nxd4 11. Bxd4 Ba3 12. Bb5+ Kf8 13. O-O 1-0

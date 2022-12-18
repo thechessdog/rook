@@ -1,0 +1,23 @@
+[Event "Berlin"]
+[Site "Berlin"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Schneider, Attila"]
+[Black "Stein, Bernd"]
+[Result "1-0"]
+[ECO "A34"]
+[Opening "English"]
+[Variation "symmetrical variation"]
+[HashCode "30813dfb"]
+[Epoch "Rook"]
+[BlackID "4600711"]
+[BlackCountry "GER"]
+[WhiteCountry "HUN"]
+
+1. g3 c5 2. c4 Nf6 3. Nc3 d5 4. cxd5 Nxd5 5. Nf3 Nc6 6. Bg2 Nc7 7. d3 e5 8. O-O
+Be7 9. Nd2 Bd7 10. a4 O-O 11. Nc4 Kh8 12. a5 Ne6 13. Nd5 f6 14. Bd2 Re8 15. f4
+exf4 16. gxf4 f5 17. Nxe7 Qxe7 18. e3 Rad8 19. Bc3 Nc7 20. Qh5 Rf8 21. Ne5 Be8
+22. Qd1 Nd5 23. Qd2 Nxc3 24. Bxc6 Ne4 25. Bxe4 fxe4 26. d4 cxd4 27. exd4 Qd6
+28. Rac1 Bb5 29. Rfd1 Ba4 30. Re1 Qxd4+ 31. Qxd4 Rxd4 32. Rc7 Rb4 33. Nc4 Bc6
+34. Rc1 Kg8 35. a6 Rxf4 36. axb7 Bxb7 37. Nd6 Bd5 38. Re7 h6 39. Rcc7 Rg4+ 40.
+Kf1 Rxb2 41. Ne8 e3 42. Nf6+ 1-0

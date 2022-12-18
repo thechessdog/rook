@@ -1,0 +1,20 @@
+[Event "corr EU"]
+[Site "corr EU"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Markotic"]
+[Black "Kiselev"]
+[Result "1-0"]
+[ECO "B89"]
+[Opening "Sicilian"]
+[Variation "Velimirovic attack"]
+[HashCode "ca6f7d75"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bc4 e6 7. Be3 Be7
+8. Qe2 a6 9. O-O-O O-O 10. Bb3 Qe8 11. Rhg1 Nd7 12. g4 Nc5 13. g5 b5 14.
+Kb1 Nxb3 15. cxb3 Bd7 16. Qh5 b4 17. Nce2 g6 18. Qh6 f5 19. exf5 exf5 20.
+Nf4 Qf7 21. Nxc6 Bxc6 22. h4 Rfc8 23. h5 Bf8 24. hxg6 hxg6 25. Qxg6+ Qxg6
+26. Nxg6 Be4+ 27. Ka1 a5 28. Nxf8 Kxf8 29. Rxd6 a4 30. bxa4 Rxa4 31. g6 b3
+32. a3 Rc2 33. g7+ Ke7 34. Re6+ Kd7 35. Rxe4 1-0
+

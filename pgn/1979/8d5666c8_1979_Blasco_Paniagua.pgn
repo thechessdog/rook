@@ -1,0 +1,19 @@
+[Event "Pellestrina-A"]
+[Site "Pellestrina"]
+[Date "1979.??.??"]
+[Round "4"]
+[White "Blasco, Domenico"]
+[Black "Paniagua, Roberto"]
+[Result "1/2-1/2"]
+[ECO "C91"]
+[Opening "Ruy Lopez"]
+[Variation "closed, 9.d4"]
+[HashCode "8d5666c8"]
+[Epoch "Rook"]
+[WhiteID "803545"]
+[BlackID "6600018"]
+[WhiteCountry "ITA"]
+[BlackCountry "PAN"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. c3
+d6 9. d4 exd4 10. cxd4 Bg4 11. e5 dxe5 12. dxe5 Qxd1 1/2-1/2

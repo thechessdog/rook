@@ -1,0 +1,22 @@
+[Event "Tucuman"]
+[Site "Tucuman"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Bernat, Miguel"]
+[Black "Varas, Carlos"]
+[Result "1-0"]
+[ECO "D41"]
+[Opening "QGD"]
+[Variation "Semi-Tarrasch with e3"]
+[HashCode "242dae01"]
+[Epoch "Rook"]
+[WhiteID "100374"]
+[BlackID "3400433"]
+[WhiteCountry "ARG"]
+[BlackCountry "CHI"]
+
+1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. Nc3 c5 5. cxd5 Nxd5 6. e3 Nxc3 7. bxc3 cxd4 8.
+cxd4 Bb4+ 9. Bd2 Bxd2+ 10. Qxd2 O-O 11. Bd3 Nc6 12. Rb1 Na5 13. Qc2 h6 14. Bh7+
+Kh8 15. Be4 Rb8 16. O-O b6 17. Rfc1 Bb7 18. Bxb7 Rxb7 19. a4 Qd6 20. Ne5 Kg8
+21. g3 Rd8 22. Rb5 Rdb8 23. Qc3 Rd8 24. Qxa5 bxa5 25. Rxb7 f6 26. Ng6 Rb8 27.
+Rxb8+ Qxb8 28. Rc8+ Qxc8 29. Ne7+ Kf7 30. Nxc8 1-0

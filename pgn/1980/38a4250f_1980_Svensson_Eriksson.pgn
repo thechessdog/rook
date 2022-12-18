@@ -1,0 +1,17 @@
+[Event "corr Tch-SWE"]
+[Site "corr Tch-SWE"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Svensson, Stig"]
+[Black "Eriksson, Bo"]
+[Result "0-1"]
+[ECO "B04"]
+[Opening "Alekhine's defence"]
+[Variation "modern, fianchetto variation"]
+[HashCode "38a4250f"]
+[Epoch "Rook"]
+[WhiteID "1438719"]
+[WhiteCountry "DEN"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. Nf3 g6 5. Bc4 Nb6 6. Bb3 Bg7 7. O-O O-O 8. Nc3
+c5 0-1

@@ -1,0 +1,20 @@
+[Event "Bayamo"]
+[Site "Bayamo"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Alzate, Dario"]
+[Black "Mateo, Ramon"]
+[Result "1/2-1/2"]
+[ECO "B19"]
+[Opening "Caro-Kann"]
+[Variation "classical, 7...Nd7"]
+[HashCode "b609995a"]
+[Epoch "Rook"]
+[WhiteID "4400046"]
+[BlackID "6400019"]
+[WhiteCountry "COL"]
+[BlackCountry "DOM"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. Nf3 Nd7 7. h4 h6 8. Bd3
+Bxd3 9. Qxd3 Ngf6 10. Bd2 e6 11. O-O-O Be7 12. Kb1 a5 13. Ne4 Nxe4 14. Qxe4 Nf6
+15. Qd3 a4 16. Ne5 a3 17. b3 Qd5 18. f3 Rd8 19. Be1 Nd7 20. Nxd7 1/2-1/2

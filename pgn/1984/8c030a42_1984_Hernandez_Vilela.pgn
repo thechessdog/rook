@@ -1,0 +1,17 @@
+[Event "Bayamo"]
+[Site "Bayamo"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Hernandez, Roman"]
+[Black "Vilela, Jose Luis"]
+[Result "1/2-1/2"]
+[ECO "E12"]
+[Opening "Queen's Indian"]
+[Variation "4.Nc3"]
+[HashCode "8c030a42"]
+[Epoch "Rook"]
+[WhiteCountry "CUB"]
+[BlackCountry "EST"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 b6 4. Nc3 Bb7 5. a3 d5 6. cxd5 Nxd5 7. e3 g6 8. Nxd5
+Qxd5 9. Qc2 Nd7 10. Qxc7 Rc8 11. Qf4 Bg7 12. Be2 O-O 13. O-O Rfd8 1/2-1/2

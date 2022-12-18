@@ -1,0 +1,18 @@
+[Event "Esbjerg"]
+[Site "Esbjerg"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Rewitz"]
+[Black "Roedgaard"]
+[Result "1-0"]
+[ECO "C15"]
+[Opening "French"]
+[Variation "Winawer, Kondratiyev variation"]
+[HashCode "14079ba3"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. Bd3 c5 5. exd5 Qxd5 6. Bd2 Bxc3 7. Bxc3
+cxd4 8. Bxd4 Qxg2 9. Qd2 Nc6 10. O-O-O Nge7 11. Ne2 Nxd4 12. Bb5+ Nec6 13.
+Nxd4 O-O 14. Rhg1 Qe4 15. Nxc6 bxc6 16. Bxc6 Qxc6 17. Rxg7+ Kh8 18. Qh6 Qe4
+19. Rxh7+ Qxh7 20. Qxf8+ Qg8 21. Qh6+ Qh7 22. Rd8# 1-0
+

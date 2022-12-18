@@ -1,0 +1,20 @@
+[Event "Aarhus"]
+[Site "Aarhus"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Sloth, Jorn"]
+[Black "Hoi, Carsten"]
+[Result "1/2-1/2"]
+[ECO "E67"]
+[Opening "King's Indian"]
+[Variation "fianchetto, classical variation"]
+[HashCode "4ca562f0"]
+[Epoch "Rook"]
+[WhiteID "1400240"]
+[BlackID "1400100"]
+[WhiteCountry "DEN"]
+[BlackCountry "DEN"]
+
+1. g3 g6 2. Bg2 Bg7 3. c4 Nf6 4. Nc3 O-O 5. Nf3 d6 6. O-O e5 7. d4 Nbd7 8. Qc2
+Qe7 9. Rd1 exd4 10. Nxd4 c6 11. b3 Re8 12. e4 Nc5 13. f3 Nfd7 14. Bf4 Bxd4+ 15.
+Rxd4 Ne6 16. Rdd1 Nxf4 17. gxf4 1/2-1/2

@@ -1,0 +1,16 @@
+[Event "Yerevan"]
+[Site "Yerevan"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Ostojic, Predrag"]
+[Black "Poutiainen, Pertti"]
+[Result "1-0"]
+[ECO "B04"]
+[Opening "Alekhine's defence"]
+[Variation "modern, Schmid variation"]
+[HashCode "1a3a4e84"]
+[Epoch "Rook"]
+[WhiteCountry "SRB"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. Nf3 Nb6 5. a4 a5 6. Bd3 g6 7. exd6 cxd6 8. O-O
+Bg7 9. Re1 O-O 10. c3 Bd7 11. Bc2 Bc6 12. Bb3 Nd5 13. Na3 Nd7 14. c4 1-0

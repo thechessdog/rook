@@ -1,0 +1,18 @@
+[Event "Pittsburgh"]
+[Site "Pittsburgh"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Beahan"]
+[Black "Henry"]
+[Result "1-0"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra gambit"]
+[HashCode "b0764e02"]
+[Epoch "Rook"]
+[BlackID "11201967"]
+[BlackCountry "BRN"]
+
+1. e4 c5 2. d4 cxd4 3. c3 dxc3 4. Nxc3 Nc6 5. Nf3 d6 6. Bc4 e6 7. O-O Nf6 8.
+Qe2 a6 9. Rd1 Qc7 10. Bg5 Be7 11. Rac1 Bd7 12. Bxf6 gxf6 13. Nd4 Nxd4 14. Rxd4
+Bc6 15. Qg4 O-O-O 16. Bxe6+ fxe6 17. Nd5 1-0

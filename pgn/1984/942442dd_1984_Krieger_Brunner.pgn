@@ -1,0 +1,24 @@
+[Event "Bundesliga 8384"]
+[Site "Duitsland tt"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Krieger, Hermann"]
+[Black "Brunner, Lucas"]
+[Result "1-0"]
+[ECO "C05"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation"]
+[HashCode "942442dd"]
+[Epoch "Rook"]
+[WhiteID "4609867"]
+[WhiteCountry "GER"]
+[BlackID "1300024"]
+[BlackCountry "SUI"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. f4 c5 6. c3 Nc6 7. Ndf3 cxd4 8. cxd4
+Nb6 9. Bd3 Bd7 10. Ne2 Be7 11. O-O g6 12. a3 a5 13. b3 a4 14. b4 Na7 15. Nc3 h6
+16. Bd2 Kf8 17. g4 Ke8 18. Qc2 Rg8 19. Kh1 Qc8 20. Rac1 Nc4 21. f5 Nxa3 22. Qa2
+Nc4 23. fxg6 fxg6 24. Bxh6 Nc6 25. Qf2 Nxb4 26. Bb1 Kd8 27. Nh4 Be8 28. g5 Qd7
+29. Ng2 a3 30. Nf4 Ra6 31. Na2 Nc6 32. Bd3 b5 33. Rb1 b4 34. Rfc1 Rb6 35. Bxc4
+dxc4 36. d5 Qb7 37. Nxe6+ Kc8 38. Rxc4 b3 39. Rbc1 bxa2 40. Qxa2 Rb2 41. Qa1
+Qb3 42. Nd4 Qd3 43. Rxc6+ Bxc6 44. Rxc6+ Kb7 45. Qe1 Qxd4 1-0

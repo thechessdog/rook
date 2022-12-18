@@ -1,0 +1,23 @@
+[Event "CSSR"]
+[Site "CSSR"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Priehoda, Vitezslav"]
+[Black "Vokac, Marek"]
+[Result "0-1"]
+[ECO "E68"]
+[Opening "King's Indian"]
+[Variation "fianchetto, classical variation, 8.e4"]
+[HashCode "47619172"]
+[Epoch "Rook"]
+[WhiteID "14900122"]
+[WhiteCountry "CZE"]
+[BlackID "300101"]
+[BlackCountry "CZE"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. g3 O-O 5. Bg2 d6 6. Nf3 Nbd7 7. O-O e5 8. e4
+c6 9. b3 Re8 10. h3 exd4 11. Nxd4 Nc5 12. Re1 a5 13. Bf4 Nh5 14. Be3 Qe7 15.
+Qc2 f5 16. exf5 Bxf5 17. Nxf5 gxf5 18. Bxc5 Qxe1+ 19. Rxe1 Rxe1+ 20. Kh2 dxc5
+21. Bf3 Nf6 22. Qxf5 Re5 23. Qd3 Rae8 24. Kg2 R5e7 25. Qd6 Rf7 26. Qd2 Kh8 27.
+h4 Ref8 28. Bd1 b5 29. f3 Rd7 30. Qc1 Rfd8 31. Be2 b4 32. Na4 Rd2 33. Kf1 Rxa2
+34. Nxc5 Rdd2 35. Bd3 Rh2 36. Ke1 Nd7 37. Nxd7 Bc3+ 38. Kd1 Rh1+ 0-1

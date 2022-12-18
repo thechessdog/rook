@@ -1,0 +1,24 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Junque"]
+[Black "Manrique"]
+[Result "1-0"]
+[ECO "D95"]
+[Opening "Gruenfeld"]
+[Variation "Botvinnik variation"]
+[HashCode "5fb53b73"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. e3 O-O 6. Qb3 e6 7. Bd2 b6 8.
+Be2 dxc4 9. Qxc4 Ba6 10. Qa4 Bb7 11. O-O Nbd7 12. Rfd1 c5 13. Be1 Qb8 14.
+Qa3 cxd4 15. Nxd4 a6 16. Rac1 Rc8 17. Na4 Rxc1 18. Rxc1 Nd5 19. Qd3 Qd8 20.
+a3 Rc8 21. Rxc8 Qxc8 22. Nc3 Ne5 23. Qd1 Qa8 24. Nxd5 Bxd5 25. f3 Nc6 26.
+Bc3 Ne5 27. e4 Bb7 28. Nb3 Qc8 29. Qd6 Nc6 30. Bxg7 Kxg7 31. Nd2 Qd8 32.
+Qxd8 Nxd8 33. Kf2 b5 34. Nb3 Nc6 35. Ke3 Kf6 36. Nc5 Bc8 37. a4 Na7 38. Kd4
+Ke7 39. axb5 axb5 40. e5 Nc6+ 41. Ke4 Na7 42. f4 Kd8 43. Kd4 Kc7 44. Ne4
+Kb6 45. Nd6 Bd7 46. Nxf7 Nc6+ 47. Kc3 Ne7 48. Bf3 Kc5 49. b4+ Kb6 50. g3 h5
+51. Ng5 Kc7 52. Kd4 Kb6 53. Be4 Nc6+ 54. Bxc6 Kxc6 55. Nh7 Be8 56. Nf6 Bf7
+57. Ke4 Kc7 58. Kf3 1-0
+

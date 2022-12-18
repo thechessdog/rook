@@ -1,0 +1,18 @@
+[Event "Milan"]
+[Site "Milan"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Barlocco"]
+[Black "Rossi"]
+[Result "1-0"]
+[ECO "B42"]
+[Opening "Sicilian"]
+[Variation "Kan, 5.Bd3"]
+[HashCode "4aa68ec8"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Nc6 6. Nxc6 dxc6 7. Be3 e5
+8. Nd2 Nf6 9. Nc4 b5 10. Nxe5 Qd6 11. f4 Qb4+ 12. c3 Qxb2 13. O-O Bb7 14.
+Rb1 Qa3 15. Bc4 Bc5 16. Bxf7+ Ke7 17. Bxc5+ Qxc5+ 18. Kh1 Qxc3 19. Rf3 Qc5
+20. Qb3 Kd8 21. Rc3 Qb6 22. Qe6 Kc7 23. Nxc6 Bxc6 24. Rbc1 1-0
+

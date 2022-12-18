@@ -1,0 +1,21 @@
+[Event "Soborg"]
+[Site "Soborg"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Willer, T."]
+[Black "Nielsen, Poul Erik"]
+[Result "1-0"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "symmetrical variation"]
+[HashCode "d99a7a64"]
+[Epoch "Rook"]
+
+1. b3 b6 2. e3 e5 3. Bb2 d6 4. d4 exd4 5. exd4 Nf6 6. Nf3 Be7 7. Bd3 O-O 8. O-O
+Bb7 9. c4 d5 10. Nbd2 Nbd7 11. Qc2 h6 12. Rfe1 c5 13. Re2 Rc8 14. Rae1 Bd6 15.
+Ne5 Qc7 16. g3 a6 17. Nxd7 Nxd7 18. Bf5 Rcd8 19. Qc3 Nf6 20. dxc5 Bxc5 21. cxd5
+Bxd5 22. Be4 Be6 23. Bg6 Ne8 24. Bf5 Bxf2+ 25. Rxf2 Qxc3 26. Bxc3 Bxf5 27. Rxf5
+Rd3 28. Ne4 Nc7 29. Bb4 Rfd8 30. Nf2 R3d7 31. Re7 Rxe7 32. Bxe7 Rd7 33. Ba3 Ne6
+34. Ng4 Rd1+ 35. Kg2 Rd2+ 36. Rf2 Rxf2+ 37. Kxf2 f5 38. Ne5 Ng5 39. Be7 Ne4+
+40. Kf3 Kh7 41. Bd8 b5 42. Nc6 Nc3 43. a3 Nb1 44. Be7 Nd2+ 45. Kf4 Nxb3 46.
+Kxf5 a5 47. Na7 Nd4+ 48. Ke4 1-0

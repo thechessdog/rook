@@ -1,0 +1,24 @@
+[Event "IBM-B"]
+[Site "Amsterdam II"]
+[Date "1977.07.01"]
+[Round "3"]
+[White "Nikolac, Juraj"]
+[Black "Scheeren, Peter"]
+[Result "1-0"]
+[ECO "A48"]
+[Opening "King's Indian"]
+[Variation "Torre attack"]
+[HashCode "1b13737e"]
+[Epoch "Rook"]
+[WhiteID "14500140"]
+[WhiteCountry "CRO"]
+[BlackID "1000136"]
+[BlackCountry "NED"]
+
+1. d4 Nf6 2. Nf3 g6 3. Bg5 Bg7 4. Nbd2 O-O 5. e3 d6 6. Bc4 Nc6 7. O-O h6 8. Bh4
+Qe8 9. h3 e5 10. c3 Kh8 11. a4 Nh7 12. dxe5 Nxe5 13. Nxe5 dxe5 14. e4 Ng5 15.
+Qb3 Qd8 16. Bxg5 Qxg5 17. Nf3 Qf4 18. Nh2 f5 19. Rae1 Kh7 20. a5 Rb8 21. Qb4 b6
+22. Bd5 fxe4 23. c4 Qg5 24. Re3 Bf5 25. axb6 Rxb6 26. Qa3 Rfb8 27. b3 a6 28. c5
+Bf8 29. Qa5 Rb5 30. Qxc7+ Qe7 31. Qxe7+ Bxe7 32. g4 Rxc5 33. Bc4 Bc8 34. Rd1
+Kg7 35. Rxe4 a5 36. Nf3 Bb7 37. Rxe5 Bxf3 38. Rxe7+ Kh8 39. Rdd7 Rxc4 40. bxc4
+g5 41. Rh7+ Kg8 1-0

@@ -1,0 +1,23 @@
+[Event "corr DDR-H"]
+[Site "corr DDR-H"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Maetz"]
+[Black "Wobick"]
+[Result "1/2-1/2"]
+[ECO "B03"]
+[Opening "Alekhine's defence"]
+[Variation "four pawns attack, 7.Be3"]
+[HashCode "badd40b9"]
+[Epoch "Rook"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. c4 Nb6 5. f4 dxe5 6. fxe5 Nc6 7. Be3 Bf5 8.
+Nc3 e6 9. Nf3 Nb4 10. Rc1 c5 11. Be2 Rc8 12. O-O cxd4 13. Nxd4 Bg6 14. Ndb5
+Qxd1 15. Rfxd1 Nxc4 16. Bxc4 Rxc4 17. Bxa7 Nd3 18. Rc2 Nxe5 19. Rcd2 Rc8
+20. Bb6 Nc4 21. Nc7+ Ke7 22. Rd7+ Kf6 23. Bd4+ e5 24. N3d5+ Kg5 25. Rc1 b5
+26. Ba7 Bf5 27. Rxf7 Nd6 28. Be3+ Kh5 29. Rxf8 Rhxf8 30. Ne7 Rxc7 31. Rxc7
+Bd3 32. h3 Nc4 33. Rc5 Rf7 34. Nd5 g5 35. Bf2 Nxb2 36. Rc6 g4 37. Nf6+ Rxf6
+38. Rxf6 Kg5 39. Rd6 gxh3 40. Be3+ Kg4 41. gxh3+ Kxh3 42. Bc1 h5 43. Bxb2
+e4 44. Kf2 Kg4 45. a3 h4 46. Bc1 h3 47. Rg6+ Kh4 48. Bf4 e3+ 49. Kxe3 Bxg6
+50. Kf2 1/2-1/2
+

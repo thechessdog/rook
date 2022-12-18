@@ -1,0 +1,18 @@
+[Event "Budapest"]
+[Site "Budapest"]
+[Date "1980.??.??"]
+[Round "?"]
+[White "Zsinka, Laszlo"]
+[Black "Szekely, Peter"]
+[Result "1/2-1/2"]
+[ECO "E21"]
+[Opening "Nimzo-Indian"]
+[Variation "three knights variation"]
+[HashCode "9f8791fe"]
+[Epoch "Rook"]
+[BlackID "14937492"]
+[BlackCountry "SVK"]
+[WhiteCountry "HUN"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Nf3 b6 5. Bg5 Bb7 6. e3 h6 7. Bh4 g5 8. Bg3
+Ne4 9. Qc2 Bxc3+ 10. bxc3 d6 11. Bd3 Nxg3 12. hxg3 Nd7 13. e4 1/2-1/2

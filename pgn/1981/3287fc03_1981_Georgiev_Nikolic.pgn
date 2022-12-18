@@ -1,0 +1,20 @@
+[Event "Nice"]
+[Site "Nice"]
+[Date "1981.01.01"]
+[Round "12"]
+[White "Georgiev, Krum"]
+[Black "Nikolic, Zivoslav"]
+[Result "1/2-1/2"]
+[ECO "C69"]
+[Opening "Ruy Lopez"]
+[Variation "exchange variation, 5.O-O"]
+[HashCode "3287fc03"]
+[Epoch "Rook"]
+[WhiteID "2900092"]
+[WhiteCountry "FID"]
+[BlackID "900540"]
+[BlackCountry "SRB"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O Bg4 6. h3 Bxf3 7. Qxf3 Qd6 8.
+d3 f6 9. Nd2 Ne7 10. Nc4 Qd7 11. a4 a5 12. Be3 Ng6 13. Rfd1 c5 14. Bd2 b6 15.
+Ne3 Bd6 16. Qf5 Qxf5 17. Nxf5 1/2-1/2

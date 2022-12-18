@@ -1,0 +1,17 @@
+[Event "England"]
+[Site "England"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Robinson"]
+[Black "Philippe"]
+[Result "0-1"]
+[ECO "C40"]
+[Opening "QP counter-gambit (elephant gambit)"]
+[HashCode "929b1c81"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 d5 3. Nxe5 Bd6 4. d4 dxe4 5. Bf4 Nf6 6. Bc4 O-O 7. Nc3 Bg4
+8. f3 exf3 9. gxf3 Be6 10. Bd3 Nbd7 11. Rg1 Re8 12. Ne4 Nh5 13. Bh6 Nxe5
+14. dxe5 Qh4+ 15. Nf2 Bxe5 16. c3 Bxc3+ 17. Kf1 Bh3+ 18. Nxh3 Qxh3+ 19. Rg2
+Re1+ 20. Qxe1 Bxe1 21. Rxe1 Qxf3+ 0-1
+

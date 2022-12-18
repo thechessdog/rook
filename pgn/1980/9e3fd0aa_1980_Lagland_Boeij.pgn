@@ -1,0 +1,19 @@
+[Event "corr Perfors mem"]
+[Site "corr Perfors mem"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Lagland"]
+[Black "Boeij"]
+[Result "1-0"]
+[ECO "C64"]
+[Opening "Ruy Lopez"]
+[Variation "classical (Cordel) defence"]
+[HashCode "9e3fd0aa"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. O-O Qf6 5. Nc3 Nge7 6. Nd5 Nxd5 7. exd5
+Nd4 8. Nxd4 exd4 9. Re1+ Kf8 10. d3 a6 11. Ba4 b5 12. Bb3 d6 13. Qh5 h6 14.
+Bd2 Bd7 15. a4 Rc8 16. Re4 Bf5 17. Re2 g5 18. h3 Kg7 19. Rae1 bxa4 20. Bxa4
+a5 21. f4 Bb4 22. Bxb4 axb4 23. Rf2 Bg6 24. Qg4 h5 25. Qxg5 Qf5 26. Qe7
+Rhd8 27. Re4 b3 28. cxb3 1-0
+

@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Cross"]
+[Black "Ekebjaerg"]
+[Result "0-1"]
+[ECO "B06"]
+[Opening "Robatsch defence"]
+[Variation "three pawns attack"]
+[HashCode "aaac019d"]
+[Epoch "Rook"]
+
+1. d4 g6 2. e4 Bg7 3. f4 c5 4. c3 cxd4 5. cxd4 Qb6 6. Nf3 Nc6 7. e5 Nh6 8.
+Na3 d5 9. Bb5 Bg4 10. O-O Nf5 11. Bxc6+ bxc6 12. Nc2 Nh4 13. b3 Bxf3 14.
+gxf3 Bh6 15. Kh1 Nf5 16. Rg1 e6 17. Qd2 f6 18. Qc3 Rc8 19. Bd2 O-O 20. Rae1
+fxe5 21. fxe5 Bxd2 22. Qxd2 c5 23. dxc5 Qxc5 24. Re2 d4 25. Rg4 Rfd8 0-1
+

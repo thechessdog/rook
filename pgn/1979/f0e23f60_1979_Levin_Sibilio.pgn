@@ -1,0 +1,26 @@
+[Event "Rome"]
+[Site "Rome"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Levin"]
+[Black "Sibilio"]
+[Result "1-0"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Nimzovich (knight's tour) variation"]
+[HashCode "f0e23f60"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. Nd2 Bg7 8.
+e4 O-O 9. Be2 Na6 10. O-O Nc7 11. a4 Re8 12. Kh1 b6 13. f3 Rb8 14. Nc4 Ba6
+15. Bg5 h6 16. Bh4 g5 17. Bf2 Bxc4 18. Bxc4 a6 19. Qd3 b5 20. axb5 axb5 21.
+Nxb5 Nd7 22. Bg3 Ne5 23. Bxe5 Bxe5 24. Ra2 Nxb5 25. Bxb5 Re7 26. b3 Reb7
+27. Bc4 Ra8 28. Rxa8 Qxa8 29. g3 Ra7 30. f4 gxf4 31. gxf4 Bg7 32. Kg2 Ra2+
+33. Kg3 Ra1 34. Rxa1 Qxa1 35. Kh3 Qc1 36. Qg3 Kf8 37. Qf3 Qc2 38. Kg3 Qd2
+39. Kh3 Qc2 40. Qd3 Qf2 41. Qg3 Qd2 42. Bf1 Qd4 43. Bg2 Bf6 44. Kg4 Ke7 45.
+Kh5 Qa1 46. Qg4 Qa7 47. Bh3 Qc7 48. Qg8 Bd4 49. Kxh6 Qd8 50. Qxd8+ Kxd8 51.
+Bg4 Bf6 52. Kh5 Ke7 53. h3 Kf8 54. Be2 Kg7 55. Kg4 Kg6 56. Bd3 Be7 57. e5+
+Kh6 58. Kf5 Kg7 59. Be2 Kh7 60. exd6 Bxd6 61. Kf6 Kg8 62. f5 Kf8 63. Bh5
+Be7+ 64. Ke5 Ke8 65. f6 Bf8 66. Bg4 Kd8 67. d6 Bh6 68. Bh5 Ke8 69. Bxf7+
+1-0
+

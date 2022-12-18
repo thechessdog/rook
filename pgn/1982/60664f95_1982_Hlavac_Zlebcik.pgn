@@ -1,0 +1,20 @@
+[Event "corr ch-CSSR"]
+[Site "corr ch-CSSR"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Hlavac"]
+[Black "Zlebcik"]
+[Result "1/2-1/2"]
+[ECO "C08"]
+[Opening "French"]
+[Variation "Tarrasch, open, 4.ed ed"]
+[HashCode "60664f95"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. exd5 exd5 5. Ngf3 a6 6. Be2 Nf6 7. O-O Be7
+8. dxc5 Bxc5 9. Nb3 Be7 10. Bg5 O-O 11. c3 Nc6 12. Nbd4 Re8 13. h3 h6 14.
+Bh4 g5 15. Bg3 Ne4 16. Bh2 Bf6 17. Re1 Nxd4 18. Nxd4 Qb6 19. Rb1 Bf5 20.
+Bd3 Bxd4 21. cxd4 Qxd4 22. Bxe4 Qxd1 23. Rbxd1 Rxe4 24. Rxe4 dxe4 25. Bc7
+Be6 26. a3 f5 27. f4 Rc8 28. Rd8+ Rxd8 29. Bxd8 gxf4 30. Bc7 f3 31. gxf3
+exf3 32. Kf2 Bd5 33. h4 1/2-1/2
+

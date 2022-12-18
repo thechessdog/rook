@@ -1,0 +1,21 @@
+[Event "Roskilde"]
+[Site "Roskilde"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Frantsen, Jan"]
+[Black "Markussen, Jakob"]
+[Result "1-0"]
+[ECO "C10"]
+[Opening "French"]
+[Variation "Fort Knox variation"]
+[HashCode "96a6df0c"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bd7 5. Nf3 Bc6 6. Bd3 Bxe4 7. Bxe4 c6
+8. O-O Nd7 9. c4 Ngf6 10. Bc2 Be7 11. b3 O-O 12. Bb2 Re8 13. Ne5 Qc7 14. f4
+Rad8 15. Qf3 g6 16. Kh1 c5 17. d5 exd5 18. cxd5 Nb6 19. f5 g5 20. Qg3 h6
+21. h4 Bd6 22. Rae1 Nh5 23. Qf3 Bxe5 24. Rxe5 Rxe5 25. Qxh5 f6 26. Qxh6
+Nxd5 27. Qg6+ Qg7 28. Qxg7+ Kxg7 29. Bxe5 fxe5 30. hxg5 Ne3 31. Rf2 Nxc2
+32. Rxc2 Rd1+ 33. Kh2 Rf1 34. g4 b6 35. Rd2 Rf4 36. Rd7+ Kf8 37. Kg3 Rd4
+38. Rxa7 Rd3+ 39. Kh4 e4 40. g6 e3 41. f6 Rd8 42. Re7 1-0
+

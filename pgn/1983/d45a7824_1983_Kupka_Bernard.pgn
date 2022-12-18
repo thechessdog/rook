@@ -1,0 +1,18 @@
+[Event "Poznan"]
+[Site "Poznan"]
+[Date "1983.01.01"]
+[Round "9"]
+[White "Kupka, Slavoj"]
+[Black "Bernard, Ryszard"]
+[Result "1/2-1/2"]
+[ECO "D27"]
+[Opening "QGA"]
+[Variation "classical, 6...a6"]
+[HashCode "d45a7824"]
+[Epoch "Rook"]
+[BlackID "1100688"]
+[BlackCountry "POL"]
+[WhiteCountry "CZE"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 dxc4 4. e3 e6 5. Bxc4 c5 6. O-O a6 7. dxc5 Bxc5 8.
+Qxd8+ Kxd8 9. a3 b5 10. Rd1+ Ke7 11. Be2 Bb7 12. b4 Bd6 13. Bb2 1/2-1/2

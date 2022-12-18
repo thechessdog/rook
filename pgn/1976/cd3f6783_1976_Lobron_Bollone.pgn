@@ -1,0 +1,19 @@
+[Event "Darmstadt"]
+[Site "Darmstadt"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Lobron, Eric"]
+[Black "Bollone, E."]
+[Result "1-0"]
+[ECO "C00"]
+[Opening "French"]
+[Variation "King's Indian attack"]
+[HashCode "cd3f6783"]
+[Epoch "Rook"]
+[WhiteID "4600037"]
+[WhiteCountry "GER"]
+
+1. e4 e6 2. d3 d5 3. Nd2 Nf6 4. Ngf3 c5 5. g3 Be7 6. Bg2 Nc6 7. O-O O-O 8. e5
+Nd7 9. Re1 Qc7 10. Qe2 b5 11. Nf1 a5 12. h4 Re8 13. Bf4 c4 14. Ne3 Ba6 15. Nxd5
+exd5 16. e6 Bd6 17. exf7+ Kxf7 18. Ng5+ Kf8 19. Nxh7+ Kg8 20. Bxd5+ Kh8 21. Qh5
+g6 22. Qh6 Bxf4 23. Ng5# 1-0

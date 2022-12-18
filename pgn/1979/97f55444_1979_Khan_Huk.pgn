@@ -1,0 +1,17 @@
+[Event "Kalkutta"]
+[Site "Kalkutta"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Khan"]
+[Black "Huk"]
+[Result "1-0"]
+[ECO "C80"]
+[Opening "Ruy Lopez"]
+[Variation "open, Bernstein variation"]
+[HashCode "97f55444"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8.
+dxe5 Be6 9. Nbd2 Bg4 10. Nxe4 dxe4 11. Bd5 Nxe5 12. Nxe5 Bxd1 13. Bxf7+ Ke7
+14. Bg5+ Kd6 15. Raxd1+ Kxe5 16. Bxd8 1-0
+

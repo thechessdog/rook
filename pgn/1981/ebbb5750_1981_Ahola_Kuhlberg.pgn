@@ -1,0 +1,17 @@
+[Event "corr SM/II"]
+[Site "corr SM/II"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Ahola, Martti"]
+[Black "Kuhlberg, Goran"]
+[Result "1-0"]
+[ECO "E90"]
+[Opening "King's Indian"]
+[Variation "5.Nf3"]
+[HashCode "ebbb5750"]
+[Epoch "Rook"]
+
+1. c4 g6 2. d4 Bg7 3. Nc3 d6 4. e4 Nf6 5. Nf3 c5 6. dxc5 dxc5 7. Qxd8+ Kxd8
+8. e5 Ne8 9. Be3 b6 10. O-O-O+ Kc7 11. Nd5+ Kb7 12. Nxe7 Bg4 13. Bd3 Bd7
+14. Be4+ Bc6 15. Nxc6 Nxc6 16. Rd7+ Nc7 17. Rxf7 1-0
+

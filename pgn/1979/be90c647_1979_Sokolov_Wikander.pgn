@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Sokolov, V."]
+[Black "Wikander, J."]
+[Result "1/2-1/2"]
+[ECO "E38"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, 4...c5"]
+[HashCode "be90c647"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 c5 5. dxc5 Bxc3+ 6. Qxc3 Ne4 7. Qc2
+Qa5+ 8. Bd2 Qxd2+ 9. Qxd2 Nxd2 10. Kxd2 Na6 11. e4 Nxc5 12. Ke3 b6 13. Ne2
+Bb7 14. Nc3 O-O-O 15. b4 Na6 16. a3 Nc7 17. f3 d5 18. cxd5 exd5 19. exd5
+Nxd5+ 20. Nxd5 Rhe8+ 21. Kf2 Rxd5 22. Rc1+ Kb8 1/2-1/2
+

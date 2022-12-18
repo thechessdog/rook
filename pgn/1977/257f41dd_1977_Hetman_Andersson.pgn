@@ -1,0 +1,19 @@
+[Event "Cienfuegos"]
+[Site "Cienfuegos"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Hetman"]
+[Black "Andersson, Ulf"]
+[Result "0-1"]
+[ECO "A77"]
+[Opening "Benoni"]
+[Variation "classical, 9...Re8, 10.Nd2"]
+[HashCode "257f41dd"]
+[Epoch "Rook"]
+[BlackID "1700014"]
+[BlackCountry "SWE"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. e4 Bg7 8. Be2
+O-O 9. O-O Re8 10. Nd2 Nbd7 11. a4 a6 12. f4 c4 13. Kh1 Nc5 14. Qc2 Nfxe4 15.
+Ncxe4 Bf5 16. Bf3 Qe7 17. Re1 Bxe4 18. Bxe4 f5 19. Ra3 fxe4 20. Nxc4 Nd3 21.
+Re2 Rac8 22. a5 Qf7 23. b3 Qxd5 0-1

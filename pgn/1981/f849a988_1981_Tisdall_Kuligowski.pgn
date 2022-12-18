@@ -1,0 +1,19 @@
+[Event "New York"]
+[Site "New York"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Tisdall, Jonathan D"]
+[Black "Kuligowski, Adam"]
+[Result "1/2-1/2"]
+[ECO "D62"]
+[Opening "QGD"]
+[Variation "Orthodox defence, 7.Qc2 c5, 8.cd (Rubinstein)"]
+[HashCode "f849a988"]
+[Epoch "Rook"]
+[BlackID "1100092"]
+[BlackCountry "POL"]
+[WhiteID "1500066"]
+[WhiteCountry "NOR"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. Bg5 O-O 6. e3 Nbd7 7. Qc2 c5 8. cxd5
+Nxd5 9. Bxe7 Qxe7 10. Nxd5 exd5 11. dxc5 Nxc5 12. Be2 Be6 13. O-O Rac8 1/2-1/2

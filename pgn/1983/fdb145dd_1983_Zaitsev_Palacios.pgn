@@ -1,0 +1,19 @@
+[Event "Havana"]
+[Site "Havana"]
+[Date "1983.01.01"]
+[Round "5"]
+[White "Zaitsev, Igor A"]
+[Black "Palacios, Antonio"]
+[Result "1-0"]
+[ECO "B42"]
+[Opening "Sicilian"]
+[Variation "Kan, 5.Bd3"]
+[HashCode "fdb145dd"]
+[Epoch "Rook"]
+[WhiteID "4103017"]
+[WhiteCountry "RUS"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Nc6 6. Nxc6 bxc6 7. O-O d5 8.
+c4 Nf6 9. Nc3 Be7 10. Qc2 h6 11. cxd5 cxd5 12. exd5 exd5 13. Be3 O-O 14. Rfd1
+Bd6 15. Bf5 Be6 16. Bd4 Rc8 17. Qd3 Ng4 18. h3 Nh2 19. Re1 Qg5 20. Rxe6 fxe6
+21. Bxe6+ Kh8 22. Bxc8 Nf3+ 23. Kh1 Nxd4 24. Qxd4 Rxc8 1-0

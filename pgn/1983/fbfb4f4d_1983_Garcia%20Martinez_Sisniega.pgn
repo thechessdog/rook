@@ -1,0 +1,20 @@
+[Event "Bayamo"]
+[Site "Bayamo"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Garcia Martinez, Silvino"]
+[Black "Sisniega, Marcel"]
+[Result "1-0"]
+[ECO "B64"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...Be7 defence, 9.f4"]
+[HashCode "fbfb4f4d"]
+[Epoch "Rook"]
+[WhiteID "3500179"]
+[WhiteCountry "CUB"]
+[BlackCountry "MEX"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd2 Be7 8.
+O-O-O O-O 9. f4 h6 10. Bxf6 Bxf6 11. Nxc6 bxc6 12. Qxd6 Qb6 13. Qd3 Rb8 14. b3
+Qa5 15. e5 Be7 16. Kb1 Rb6 17. Qg3 Ba6 18. Rd7 Bb4 19. Na4 Be1 20. Qe3 Rb4 21.
+Bxa6 Rxa4 22. bxa4 Rb8+ 23. Rb7 Rxb7+ 24. Bxb7 Bc3 25. a3 c5 26. Ka2 1-0

@@ -1,0 +1,17 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Quednau"]
+[Black "Heszmer"]
+[Result "1-0"]
+[ECO "C58"]
+[Opening "Two knights defence"]
+[HashCode "bb88d59e"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 Na5 6. Bb5+ Bd7 7. Qe2 Be7
+8. b4 Nxd5 9. Nxf7 Bxb5 10. Qxb5+ Kxf7 11. bxa5 Rf8 12. O-O Kg8 13. Bb2 c6
+14. Qb3 Bf6 15. Nc3 Qxa5 16. Rae1 Rae8 17. Re4 Rf7 18. Rfe1 Rd8 19. Ra4 Qb6
+20. Ne4 Qxb3 21. axb3 b5 22. Ra5 Nb4 23. Rc1 1-0
+

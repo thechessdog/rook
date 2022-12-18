@@ -1,0 +1,17 @@
+[Event "corr ch-CSSR"]
+[Site "corr ch-CSSR"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Hajda"]
+[Black "Mikulenka"]
+[Result "1-0"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "418c0e3c"]
+[Epoch "Rook"]
+
+1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. d4 e5 5. dxe5 Qxe5+ 6. Be3 Nc6 7. Nf3 Qd6
+8. Na3 a6 9. Qa4 Qb8 10. Ng5 Bd7 11. Qe4+ Qe5 12. Nc4 Qxe4 13. Nxe4 Nf6 14.
+Ned6+ Ke7 15. Bxc5 Ke6 16. O-O-O b5 17. g3 1-0
+

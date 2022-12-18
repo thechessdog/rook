@@ -1,0 +1,22 @@
+[Event "Linkoping"]
+[Site "Linkoping"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Lind, Jan Olov"]
+[Black "Hector, Jonny"]
+[Result "1-0"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "classical attack, Berger variation"]
+[HashCode "190768f6"]
+[Epoch "Rook"]
+[BlackID "1700090"]
+[BlackCountry "SWE"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Be7 7. O-O Nc6 8.
+Re1 Bg4 9. c3 f5 10. Nbd2 Qd6 11. Qc2 h5 12. b4 Bf6 13. a4 O-O 14. b5 Ne7 15.
+h3 Ng6 16. Ba3 Qf4 17. Bxf8 Rxf8 18. Nxe4 fxe4 19. Bxe4 dxe4 20. Rxe4 Qf5 21.
+hxg4 hxg4 22. Nh2 Nf4 23. Rf1 g6 24. Qb1 Kg7 25. Rxf4 Qxf4 26. g3 Qd2 27. Qc1
+Qd3 28. Qe3 Qf5 29. Qe2 Rh8 30. Qxg4 Qd5 31. Qf3 c6 32. bxc6 bxc6 33. Qxd5 cxd5
+34. Rb1 Rc8 35. Ng4 g5 36. Rb7+ Kg6 37. Rxa7 Bg7 38. Ra6+ Kf7 39. Rd6 Rxc3 40.
+Rxd5 Rc4 41. Rxg5 1-0

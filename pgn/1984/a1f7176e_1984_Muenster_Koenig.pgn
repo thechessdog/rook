@@ -1,0 +1,19 @@
+[Event "corr DDR/FS"]
+[Site "corr DDR/FS"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Muenster, E."]
+[Black "Koenig, R."]
+[Result "0-1"]
+[ECO "E30"]
+[Opening "Nimzo-Indian"]
+[Variation "Leningrad, ...b5 gambit"]
+[HashCode "a1f7176e"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Bg5 h6 5. Bh4 c5 6. d5 b5 7. Rc1 bxc4 8.
+e4 exd5 9. Bxf6 Qxf6 10. Qxd5 Nc6 11. Bxc4 Qe6 12. a3 Bxc3+ 13. Rxc3 Rb8
+14. Qxc5 Qg4 15. Nf3 Rxb2 16. O-O Qf4 17. e5 Bb7 18. Bb5 a6 19. Bxc6 Bxc6
+20. Qd6 Qg4 21. Rxc6 dxc6 22. Rd1 Qc8 23. Nh4 Rb7 24. e6 fxe6 25. Ng6 Rg8
+26. Ne5 Rf8 0-1
+

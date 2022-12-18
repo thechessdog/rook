@@ -1,0 +1,18 @@
+[Event "Minsk"]
+[Site "Minsk"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Jakubenja"]
+[Black "Gelfand, Boris"]
+[Result "0-1"]
+[ECO "B98"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7...Be7"]
+[HashCode "54ec74df"]
+[Epoch "Rook"]
+[BlackID "2805677"]
+[BlackCountry "ISR"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qe2
+Nbd7 9. O-O-O Qc7 10. g4 b5 11. Bg2 Bb7 12. a3 Nb6 13. Bh4 Nc4 14. g5 Nd7 15.
+Bh3 d5 16. Rhf1 Nxb2 17. Kxb2 Bxa3+ 18. Kb3 Qa5 19. Rb1 Nc5+ 0-1

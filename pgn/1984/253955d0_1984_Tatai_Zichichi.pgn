@@ -1,0 +1,22 @@
+[Event "Rome"]
+[Site "Rome"]
+[Date "1984.01.01"]
+[Round "6"]
+[White "Tatai, Stefano"]
+[Black "Zichichi, Alvise"]
+[Result "1-0"]
+[ECO "E53"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line with ...c5"]
+[HashCode "253955d0"]
+[Epoch "Rook"]
+[BlackID "800481"]
+[WhiteCountry "ITA"]
+[BlackCountry "ITA"]
+
+1. Nf3 d5 2. c4 e6 3. d4 Nf6 4. Nc3 Bb4 5. e3 c5 6. Bd3 O-O 7. O-O cxd4 8. exd4
+dxc4 9. Bxc4 b6 10. Ne5 Bb7 11. Bg5 Nbd7 12. Nxd7 Qxd7 13. Bxf6 gxf6 14. d5
+Bxc3 15. Qg4+ Kh8 16. bxc3 Rg8 17. Qh4 Rg6 18. Rfd1 Qa4 19. Rd4 e5 20. Bb3 Qd7
+21. Rd3 Rag8 22. Rg3 f5 23. Re1 Qd6 24. Qh5 Qf6 25. Qe2 e4 26. Qd2 Qd6 27. Qd4+
+f6 28. Ree3 Kg7 29. Rxg6+ hxg6 30. f3 Re8 31. fxe4 Qa3 32. e5 fxe5 33. Rxe5
+Rxe5 34. Qxe5+ Kh6 35. Qe3+ 1-0

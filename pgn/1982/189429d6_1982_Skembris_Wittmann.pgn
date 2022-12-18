@@ -1,0 +1,18 @@
+[Event "Korfu"]
+[Site "Korfu"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Skembris, Spyridon"]
+[Black "Wittmann, Walter"]
+[Result "1-0"]
+[ECO "D02"]
+[Opening "Queen's pawn game, Chigorin variation"]
+[HashCode "189429d6"]
+[Epoch "Rook"]
+[WhiteID "4200020"]
+[BlackID "1600060"]
+[WhiteCountry "GRE"]
+[BlackCountry "AUT"]
+
+1. Nf3 Nc6 2. d4 d5 3. c4 Bg4 4. cxd5 Bxf3 5. dxc6 Bxc6 6. Nc3 e6 7. e4 Bb4 8.
+f3 Qh4+ 9. g3 Qh5 10. Rb1 1-0

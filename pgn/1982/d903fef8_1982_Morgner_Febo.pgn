@@ -1,0 +1,19 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Morgner"]
+[Black "Febo"]
+[Result "1-0"]
+[ECO "D44"]
+[Opening "QGD semi-Slav"]
+[Variation "anti-Meran gambit"]
+[HashCode "d903fef8"]
+[Epoch "Rook"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. Bg5 dxc4 6. e4 b5 7. e5 h6 8. Bh4
+g5 9. Nxg5 hxg5 10. Bxg5 Nbd7 11. exf6 Bb7 12. Be2 Qb6 13. a4 b4 14. a5 Qc7
+15. a6 Bc8 16. Ne4 Rxh2 17. Rxh2 Qxh2 18. Qa4 Qc7 19. Bxc4 Nb6 20. Qb3 Nd5
+21. g3 Qb6 22. Be3 Bd7 23. Kd2 Rc8 24. Rh1 Nxe3 25. fxe3 c5 26. dxc5 Bxc5
+27. Nxc5 1-0
+

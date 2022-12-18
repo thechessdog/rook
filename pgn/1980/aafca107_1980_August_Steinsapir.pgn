@@ -1,0 +1,21 @@
+[Event "corr Wcup3"]
+[Site "corr Wcup3"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "August"]
+[Black "Steinsapir"]
+[Result "0-1"]
+[ECO "C85"]
+[Opening "Ruy Lopez"]
+[Variation "Exchange variation doubly deferred (DERLD)"]
+[HashCode "aafca107"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Bxc6 dxc6 7. d3 Nd7
+8. Nbd2 O-O 9. Nc4 f6 10. b3 Nc5 11. Bb2 Ne6 12. g3 c5 13. a4 Bd7 14. Nh4
+Nd4 15. Ne3 Bh3 16. Nhg2 Qd7 17. f4 exf4 18. gxf4 f5 19. c3 Nc6 20. Qc2
+Rae8 21. Rad1 fxe4 22. dxe4 Qe6 23. Nd5 c4 24. b4 Bd8 25. Rde1 Qf7 26. b5
+Ne7 27. Ba3 c6 28. bxc6 bxc6 29. Nde3 Bb6 30. Kh1 Rd8 31. Nxc4 Bc7 32. Nce3
+Rfe8 33. Rf3 Bc8 34. Bxe7 Rxe7 35. c4 Rd4 36. Nd5 cxd5 37. cxd5 Bg4 38.
+Rff1 Bh3 0-1
+

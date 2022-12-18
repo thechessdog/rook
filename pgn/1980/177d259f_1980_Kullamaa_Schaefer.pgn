@@ -1,0 +1,24 @@
+[Event "corr Wcup3"]
+[Site "corr Wcup3"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Kullamaa"]
+[Black "Schaefer"]
+[Result "1/2-1/2"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "177d259f"]
+[Epoch "Rook"]
+
+1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. Nf3 Nc6 5. d4 cxd4 6. cxd4 d6 7. Bc4 e6 8.
+O-O Be7 9. Qe2 O-O 10. Nc3 Nxc3 11. bxc3 dxe5 12. dxe5 b6 13. Qe4 Bb7 14.
+Bd3 g6 15. Bh6 Re8 16. Rad1 Qc7 17. Qf4 Rad8 18. Ng5 Nxe5 19. Bb5 Rxd1 20.
+Rxd1 Rc8 21. Rd7 Bxg5 22. Rxc7 Bxf4 23. Rxc8+ Bxc8 24. Bxf4 f6 25. Bxe5
+fxe5 26. Kf1 Bb7 27. g3 Kf7 28. Ke2 g5 29. Ke3 Bd5 30. a3 Ke7 31. h4 gxh4
+32. gxh4 Kd6 33. Bd3 h6 34. Bb5 a5 35. Ba6 Kc5 36. Bd3 Bc4 37. Bc2 Ba2 38.
+Bd3 Kd5 39. Bf1 Bb1 40. Be2 e4 41. Kd2 Bd3 42. Bg4 Bf1 43. Ke1 Bg2 44. Kd2
+Ke5 45. Ke3 Bf1 46. Bh5 Kf5 47. Bd1 Bg2 48. Bh5 Bf3 49. Bf7 h5 50. Bg8 e5
+51. Bh7+ Kg4 52. Bxe4 Bd1 53. Bg2 Bc2 54. Be4 Bb3 55. Bg2 Kxh4 56. Ke4 Kg4
+57. Kxe5 h4 58. f4 a4 59. f5 h3 60. Bxh3+ Kxh3 61. Kd6 1/2-1/2
+

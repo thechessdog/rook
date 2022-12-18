@@ -1,0 +1,16 @@
+[Event "corr Scotland"]
+[Site "corr Scotland"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "MacBrayne, R."]
+[Black "Crichton, D."]
+[Result "0-1"]
+[ECO "A02"]
+[Opening "Bird"]
+[Variation "From gambit, Lasker variation"]
+[HashCode "828d5b5f"]
+[Epoch "Rook"]
+
+1. f4 e5 2. fxe5 d6 3. exd6 Bxd6 4. Nf3 g5 5. d4 g4 6. Ng5 f5 7. h3 Bg3+ 8.
+Kd2 Qxd4# 0-1
+

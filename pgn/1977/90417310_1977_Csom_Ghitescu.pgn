@@ -1,0 +1,23 @@
+[Event "Moscow"]
+[Site "Moscow"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Csom, Istvan"]
+[Black "Ghitescu, Theodor"]
+[Result "1-0"]
+[ECO "E66"]
+[Opening "King's Indian"]
+[Variation "fianchetto, Yugoslav Panno"]
+[HashCode "90417310"]
+[Epoch "Rook"]
+[WhiteID "700100"]
+[WhiteCountry "HUN"]
+[BlackCountry "ROU"]
+
+1. c4 Nf6 2. d4 c5 3. Nf3 g6 4. g3 Bg7 5. Bg2 O-O 6. O-O Nc6 7. Nc3 d6 8. d5
+Na5 9. Nd2 a6 10. Qc2 Rb8 11. b3 b5 12. Bb2 bxc4 13. bxc4 Bh6 14. f4 e5 15.
+dxe6 Bxe6 16. Nd5 Bxd5 17. cxd5 Ng4 18. Bc3 Ne3 19. Qa4 Rb5 20. Rfb1 Bg7 21.
+Bxg7 Rxb1+ 22. Rxb1 Kxg7 23. Qa3 Re8 24. Be4 Ng4 25. Bf3 Ne3 26. Be4 Ng4 27. h3
+Nf6 28. Bf3 Nd7 29. Qc3+ Kg8 30. Ne4 Qc7 31. h4 h5 32. Kg2 Rb8 33. Rxb8+ Nxb8
+34. Nf6+ Kf8 35. f5 Nb7 36. Qe3 c4 37. Qh6+ Ke7 38. fxg6 fxg6 39. Qg7+ Kd8 40.
+Qf8# 1-0

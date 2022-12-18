@@ -1,0 +1,23 @@
+[Event "corr ch-DDR"]
+[Site "corr ch-DDR"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Schulze, Ulrich"]
+[Black "Schmidt, Wlodzimierz"]
+[Result "0-1"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, 6.Be3"]
+[HashCode "00ab02eb"]
+[Epoch "Rook"]
+[WhiteID "4600525"]
+[BlackID "1100041"]
+[WhiteCountry "GER"]
+[BlackCountry "POL"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 O-O 6. Be3 c5 7. dxc5 Qa5 8. Bd3
+dxc5 9. Qe2 c4 10. Bxc4 Nxe4 11. O-O Nxc3 12. bxc3 Qxc3 13. Rad1 Nc6 14. Ng5
+Bg4 15. Nf3 Rad8 16. Bb3 Bd4 17. Rd3 Bxe3+ 18. Qxe3 Rxd3 19. Qxd3 Qxd3 20. cxd3
+Bxf3 21. Rxf3 Nd4 22. Rf1 Nxb3 23. axb3 Rd8 24. Rd1 Rd4 25. g3 Rb4 26. Rb1 a5
+27. Kf2 a4 28. Ke3 Rxb3 29. Rxb3 axb3 30. Kd2 Kg7 31. Kc3 Kf6 32. Kxb3 g5 33.
+fxg5+ Kxg5 34. h3 f5 0-1

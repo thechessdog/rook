@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Caltabiano"]
+[Black "Chiarini"]
+[Result "0-1"]
+[ECO "E59"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line"]
+[HashCode "0255e4eb"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Nf3 d5 6. Bd3 c5 7. O-O Nc6 8.
+a3 Bxc3 9. bxc3 dxc4 10. Bxc4 Qc7 11. Bd3 e5 12. Qc2 Re8 13. e4 c4 14. Bxc4
+exd4 15. Ng5 Ne5 16. Bb3 d3 17. Qa2 h6 18. Nf3 Nxf3+ 19. gxf3 Bh3 20. Rd1
+Qd7 21. Kh1 Rxe4 22. Bxh6 Rh4 23. Bxg7 Bg2+ 0-1
+

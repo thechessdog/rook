@@ -1,0 +1,21 @@
+[Event "Bundesliga 8283"]
+[Site "Duitsland tt"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Reeh, Oliver"]
+[Black "Schroeder, Christoph"]
+[Result "0-1"]
+[ECO "B26"]
+[Opening "Sicilian"]
+[Variation "closed, 6.Be3"]
+[HashCode "0232f950"]
+[Epoch "Rook"]
+[WhiteID "4600142"]
+[WhiteCountry "GER"]
+[BlackID "4605250"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. Be3 e5 7. h4 h5 8. Nh3 Nge7
+9. Qd2 Nd4 10. f3 O-O 11. O-O-O b5 12. Bh6 b4 13. Bxg7 Kxg7 14. Ne2 Nb5 15. g4
+hxg4 16. Nf2 Qa5 17. Kb1 Be6 18. b3 Nc3+ 19. Nxc3 bxc3 20. Qc1 Rab8 21. Nxg4
+Ng8 22. Ne3 Rb6 23. Nc4 Bxc4 24. dxc4 Rfb8 25. Rd3 Ra6 26. a3 Rbb6 27. Ka2 0-1

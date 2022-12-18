@@ -1,0 +1,20 @@
+[Event "Regionalliga Nord"]
+[Site "RLN 8182"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Felten, Joachim"]
+[Black "Zeller, Joerg"]
+[Result "1/2-1/2"]
+[ECO "B15"]
+[Opening "Caro-Kann"]
+[Variation "Forgacs variation"]
+[HashCode "2571231c"]
+[Epoch "Rook"]
+[WhiteID "4656377"]
+[WhiteCountry "GER"]
+[BlackID "24646407"]
+[BlackCountry "GER"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ exf6 6. Bc4 Be7 7. Qh5 O-O
+8. Ne2 g6 9. Qh6 Bf5 10. c3 Re8 11. Be3 Bf8 12. Qh4 b5 13. Bb3 g5 14. Qh5 Bg6
+15. Qf3 f5 16. g3 Qf6 17. h4 h6 18. hxg5 hxg5 1/2-1/2

@@ -1,0 +1,18 @@
+[Event "Majdanpek"]
+[Site "Majdanpek"]
+[Date "1976.01.01"]
+[Round "12"]
+[White "Pribyl, Josef"]
+[Black "Matulovic, Milan"]
+[Result "1/2-1/2"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical system, 5.Be2"]
+[HashCode "ad4daef4"]
+[Epoch "Rook"]
+[WhiteID "300187"]
+[WhiteCountry "CZE"]
+[BlackCountry "SRB"]
+
+1. Nf3 g6 2. e4 d6 3. d4 Nf6 4. Nc3 Bg7 5. Be2 O-O 6. O-O Bg4 7. Be3 Nc6 8. Qd2
+e5 9. d5 Ne7 10. Rad1 Ne8 11. Ne1 Bxe2 12. Qxe2 f5 13. f4 exf4 14. Bxf4 1/2-1/2

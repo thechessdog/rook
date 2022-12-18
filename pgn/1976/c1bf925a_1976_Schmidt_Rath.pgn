@@ -1,0 +1,20 @@
+[Event "North Sea"]
+[Site "Esbjerg"]
+[Date "1976.??.??"]
+[Round "9"]
+[White "Schmidt, Wolfgang"]
+[Black "Rath, Ulrik"]
+[Result "0-1"]
+[ECO "A22"]
+[Opening "English"]
+[Variation "Bremen, Smyslov system"]
+[HashCode "c1bf925a"]
+[Epoch "Rook"]
+[WhiteID "4601173"]
+[BlackID "1400223"]
+[WhiteCountry "GER"]
+[BlackCountry "DEN"]
+
+1. c4 Nf6 2. Nc3 e5 3. g3 Bb4 4. Bg2 O-O 5. Qc2 Re8 6. Nf3 e4 7. Nd4 Qe7 8. O-O
+Qe5 9. e3 Nc6 10. Nce2 Bc5 11. Nxc6 dxc6 12. Rb1 Bd6 13. Nf4 Qg5 14. b3 Bf5 15.
+Bb2 Bxf4 16. exf4 Qg6 17. Rbd1 e3 0-1

@@ -1,0 +1,15 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Karch, R."]
+[Black "Troster, P."]
+[Result "1-0"]
+[ECO "D00"]
+[Opening "Blackmar gambit"]
+[HashCode "fd0dde36"]
+[Epoch "Rook"]
+
+1. d4 d5 2. e4 dxe4 3. Nc3 Nf6 4. f3 exf3 5. Qxf3 Qxd4 6. Be3 Qb4 7. O-O-O
+Bg4 8. Nb5 Na6 9. Qxb7 Rc8 10. Qxa6 Qe4 11. Qxc8+ Bxc8 12. Nxc7# 1-0
+

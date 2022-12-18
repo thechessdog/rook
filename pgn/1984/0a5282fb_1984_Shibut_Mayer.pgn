@@ -1,0 +1,22 @@
+[Event "Arlington,VA"]
+[Site "Arlington,VA"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Shibut, Macon"]
+[Black "Mayer, Steven F."]
+[Result "1-0"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...e6"]
+[HashCode "0a5282fb"]
+[Epoch "Rook"]
+[WhiteID "2003724"]
+[WhiteCountry "USA"]
+[BlackCountry "USA"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 e6 6. Nf3 Be7 7. b3 O-O 8. Bd3
+b6 9. O-O Bb7 10. Bb2 Nc6 11. Re1 Rc8 12. Rc1 Na5 13. Ne5 dxc4 14. bxc4 Nc6 15.
+Nxc6 Bxc6 16. d5 exd5 17. cxd5 Nxd5 18. Nxd5 Qxd5 19. Rxc6 Qxc6 20. Rxe7 Rfe8
+21. Qh5 Qc1+ 22. Bxc1 Rxc1+ 23. Bf1 Rxe7 24. Qg5 Rce1 25. g3 h6 26. Qd5 R1e5
+27. Qa8+ Kh7 28. Qf8 b5 29. Bxb5 Rc7 30. a4 g6 31. Qd6 Ree7 32. a5 Kg7 33. a6
+Rc1+ 34. Kg2 Rec7 35. Be2 R1c6 36. Qd3 Rc3 37. Qd4+ f6 38. Bf3 1-0

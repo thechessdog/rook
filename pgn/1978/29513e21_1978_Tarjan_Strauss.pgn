@@ -1,0 +1,21 @@
+[Event "USA"]
+[Site "USA"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Tarjan, James"]
+[Black "Strauss, David"]
+[Result "1-0"]
+[ECO "D86"]
+[Opening "Gruenfeld"]
+[Variation "exchange, Simagin's lesser variation"]
+[HashCode "29513e21"]
+[Epoch "Rook"]
+[BlackID "2000750"]
+[BlackCountry "USA"]
+[WhiteID "2000180"]
+[WhiteCountry "USA"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Bc4 O-O 8.
+Ne2 b6 9. h4 Nc6 10. Bd5 Bd7 11. h5 e6 12. Bb3 Na5 13. e5 c5 14. Qd3 Nxb3 15.
+axb3 cxd4 16. cxd4 f5 17. hxg6 hxg6 18. Nf4 g5 19. Ng6 Bc6 20. Qh3 Qxd4 21.
+Ne7+ Kf7 22. Qh5+ Kxe7 23. Ba3+ Kd7 24. Rd1 Qxd1+ 25. Qxd1+ Bd5 26. Rh7 1-0

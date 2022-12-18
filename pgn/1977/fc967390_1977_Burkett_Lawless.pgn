@@ -1,0 +1,15 @@
+[Event "San Francisco"]
+[Site "San Francisco"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Burkett, M."]
+[Black "Lawless, Kerry H"]
+[Result "0-1"]
+[ECO "C24"]
+[Opening "Bishop's opening"]
+[Variation "Urusov gambit"]
+[HashCode "fc967390"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Bc4 Nf6 3. d4 exd4 4. Nf3 d5 5. exd5 Bb4+ 6. Kf1 c5 7. a3 Ba5 8. b4
+Bb6 9. bxc5 Bxc5 10. Nxd4 Nxd5 11. Nb3 0-1

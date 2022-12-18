@@ -1,0 +1,19 @@
+[Event "corr NLD/M"]
+[Site "corr NLD/M"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Van der Wees"]
+[Black "Nota"]
+[Result "1-0"]
+[ECO "C11"]
+[Opening "French"]
+[Variation "Burn variation"]
+[HashCode "f36011bc"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 dxe4 5. Nxe4 Be7 6. Bxf6 Bxf6 7. Nf3
+O-O 8. c3 b6 9. Bd3 Bb7 10. Qe2 Nd7 11. O-O-O Qe7 12. g4 c5 13. h4 g6 14.
+g5 Bh8 15. h5 cxd4 16. cxd4 e5 17. hxg6 hxg6 18. dxe5 Nxe5 19. Rxh8+ Kxh8
+20. Nxe5 Qxe5 21. Rh1+ Kg7 22. Rh7+ Kxh7 23. Nf6+ Qxf6 24. gxf6 Rfe8 25.
+Qh5+ 1-0
+

@@ -1,0 +1,23 @@
+[Event "BL2-N 8384"]
+[Site "BL2-N 8384"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Schulz, H."]
+[Black "Stark, HW."]
+[Result "1-0"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack, Richter variation"]
+[HashCode "c147d7b0"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 Bf5 4. f3 Bg6 5. e3 Nc6 6. Bd3 Qd7 7. Nge2 e6 8. O-O
+Be7 9. Ng3 O-O 10. a3 Rac8 11. f4 Ne8 12. Bxe7 Nxe7 13. e4 dxe4 14. Bxe4 Nd6
+15. Bxg6 hxg6 16. d5 Ndf5 17. Nxf5 Nxf5 18. Qf3 exd5 19. Nxd5 c6 20. Nc3 Qd4+
+21. Qf2 Rfe8 22. Rad1 Qc4 23. Rfe1 c5 24. h3 Rxe1+ 25. Rxe1 b5 26. Ne4 Qd4 27.
+c3 Qxf2+ 28. Kxf2 Kf8 29. g4 Ne7 30. Nd6 Rb8 31. Kf3 a6 32. Ne4 Rc8 33. Rd1 f5
+34. Ng5 Ke8 35. Rd6 Rc6 36. Rxc6 Nxc6 37. Ne6 Kf7 38. Nxc5 a5 39. b3 Ke7 40.
+Ke3 Kd6 41. b4 axb4 42. axb4 Ne7 43. Kd4 Nc6+ 44. Kd3 Ne7 45. c4 bxc4+ 46. Kxc4
+Nd5 47. Nb7+ Ke6 48. Nd8+ Kd6 49. Nf7+ Ke6 50. Nd8+ Kd6 51. Nb7+ Ke6 52. gxf5+
+gxf5 53. Nc5+ Kd6 54. Nd3 Nb6+ 55. Kd4 Nd5 56. b5 Nc7 57. Kc4 Nd5 58. h4 Nb6+
+59. Kb4 Kd5 60. Nc5 Kd6 61. Nd3 Kd5 62. Ne5 Kd4 63. Ka5 Nc8 64. b6 Nd6 65. Ka6
+Ke4 66. Ng6 Kf3 67. Ka7 Nc8+ 68. Kb7 Nxb6 69. Kxb6 Kg4 70. Kc5 Kh5 71. Ne5 1-0

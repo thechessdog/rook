@@ -1,0 +1,20 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Unger"]
+[Black "Kampfhenkel"]
+[Result "1/2-1/2"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "modern variation"]
+[HashCode "e9805f2a"]
+[Epoch "Rook"]
+
+1. b3 e5 2. Bb2 Nc6 3. e3 d5 4. Bb5 Bd6 5. Nf3 Qe7 6. d4 Bg4 7. c4 Bb4+ 8.
+Nbd2 Nf6 9. cxd5 Nxd5 10. Bxc6+ bxc6 11. O-O Bxd2 12. Qxd2 Bxf3 13. gxf3
+Qg5+ 14. Kh1 Qh5 15. Qd1 exd4 16. Bxd4 O-O-O 17. f4 Qh3 18. Rg1 Nxe3 19.
+fxe3 c5 20. Rg3 Qe6 21. Qf3 cxd4 22. Rd1 Kb8 23. exd4 g6 24. d5 Qb6 25. Qc3
+Rhe8 26. Rd4 Re1+ 27. Kg2 Rc1 28. Qb4 Rc2+ 29. Kh3 Qxb4 30. Rxb4+ Kc8 31.
+Rc4 Rd2 32. Rgc3 Rd7 33. Ra4 Kb8 34. Rb4+ Kc8 35. Ra4 Kb8 1/2-1/2
+

@@ -1,0 +1,18 @@
+[Event "Rotterdam"]
+[Site "Rotterdam"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Boll, P."]
+[Black "Konings"]
+[Result "1/2-1/2"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, 6.Bd3"]
+[HashCode "d7649435"]
+[Epoch "Rook"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 O-O 6. Bd3 Nc6 7. O-O Bg4 8.
+e5 dxe5 9. dxe5 Nd5 10. Qe1 Ndb4 11. Qh4 Nxd3 12. Qxg4 Ndb4 13. Rf2 Nd4 14.
+Nxd4 Qxd4 15. Qe2 Rad8 16. Be3 Qd7 17. Qc4 Nc6 18. Rd2 Qc8 19. Rad1 Rxd2
+20. Rxd2 Rd8 1/2-1/2
+

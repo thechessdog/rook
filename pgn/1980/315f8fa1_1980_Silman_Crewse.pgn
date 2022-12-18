@@ -1,0 +1,20 @@
+[Event "Chicago"]
+[Site "Chicago"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Silman, Jeremy D"]
+[Black "Crewse"]
+[Result "1-0"]
+[ECO "A31"]
+[Opening "English"]
+[Variation "symmetrical, Benoni formation"]
+[HashCode "315f8fa1"]
+[Epoch "Rook"]
+[WhiteID "2000814"]
+[WhiteCountry "USA"]
+
+1. d4 Nf6 2. c4 c5 3. Nf3 d6 4. Nc3 Bg4 5. dxc5 Bxf3 6. gxf3 dxc5 7. Qxd8+ Kxd8
+8. Bf4 Nbd7 9. O-O-O Rc8 10. Bh3 a6 11. Bxd7 Nxd7 12. Rd3 Ke8 13. Rhd1 Nf6 14.
+Na4 Nh5 15. Bc7 f6 16. Rd8+ Rxd8 17. Rxd8+ Kf7 18. Nxc5 b5 19. Nxa6 bxc4 20. e3
+g6 21. a4 Ng7 22. Nc5 Ne8 23. Bb8 f5 24. a5 e6 25. Rd7+ Be7 26. Na6 Nf6 27.
+Rxe7+ 1-0

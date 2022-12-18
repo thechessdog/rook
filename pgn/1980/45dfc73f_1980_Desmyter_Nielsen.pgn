@@ -1,0 +1,24 @@
+[Event "DEN-chJ int"]
+[Site "?"]
+[Date "1980.??.??"]
+[Round "?"]
+[White "Desmyter, Erik"]
+[Black "Nielsen, Ove Hartvig"]
+[Result "0-1"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "modern variation"]
+[HashCode "45dfc73f"]
+[Epoch "Rook"]
+[WhiteID "215643"]
+[WhiteCountry "BEL"]
+
+1. b3 e5 2. Bb2 Nc6 3. e3 d6 4. Nf3 Bd7 5. d4 e4 6. Nfd2 f5 7. c4 Nf6 8. Be2 a5
+9. Nc3 Be7 10. O-O O-O 11. a3 Qe8 12. f3 exf3 13. Bxf3 Ng4 14. Nd5 Rc8 15. e4
+Bg5 16. Bxg4 fxg4 17. Re1 Qf7 18. Qe2 Ne7 19. Nxe7+ Qxe7 20. e5 dxe5 21. dxe5
+Qc5+ 22. Kh1 Rf2 23. Ne4 Rxe2 24. Nxc5 Rxb2 25. Nxd7 Rxb3 26. e6 Re8 27. Re4 h5
+28. Re5 Bf6 29. Nxf6+ gxf6 30. Rxa5 Rxe6 31. Rxh5 Rxa3 32. Rd1 Rd6 33. Re1 Rc6
+34. Rb5 b6 35. Rb4 f5 36. Rb5 Ra5 37. Rb4 Rac5 38. Rb5 Kf7 39. h4 Kf6 40. Rf1
+Ke5 41. Kh2 f4 42. Rd1 Rxb5 43. cxb5 Rc5 44. Rd7 Kf6 45. Kg1 g3 46. Kf1 Rxb5
+47. Rxc7 Kf5 48. Rb7 Rb1+ 49. Ke2 Rg1 50. Rxb6 Rxg2+ 51. Kf1 Rf2+ 52. Kg1 Kg4
+53. Rh6 Ra2 54. Rg6+ Kf3 0-1

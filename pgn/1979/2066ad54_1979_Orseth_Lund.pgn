@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Orseth, Dag S"]
+[Black "Lund"]
+[Result "1-0"]
+[ECO "A45"]
+[Opening "Trompovsky attack (Ruth, Opovcensky opening)"]
+[HashCode "2066ad54"]
+[Epoch "Rook"]
+[WhiteID "1500384"]
+[WhiteCountry "NOR"]
+
+1. d4 Nf6 2. Bg5 Ne4 3. Bh4 c5 4. f3 g5 5. fxe4 gxh4 6. e3 e6 7. Nd2 Bh6 8. Nc4
+d5 9. Qh5 dxc4 10. Qxh6 cxd4 11. Qg7 Rf8 12. exd4 b5 13. O-O-O Qa5 14. Kb1 c3
+15. d5 b4 16. Nf3 Na6 17. Ng5 f6 18. dxe6 b3 19. Rd8+ Kxd8 20. e7+ 1-0

@@ -1,0 +1,20 @@
+[Event "RLN 8283"]
+[Site "RLN 8283"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Brunner, Lucas"]
+[Black "Dietz, Juergen"]
+[Result "1/2-1/2"]
+[ECO "C18"]
+[Opening "French"]
+[Variation "Winawer, classical variation"]
+[HashCode "35567b91"]
+[Epoch "Rook"]
+[WhiteID "1300024"]
+[WhiteCountry "SUI"]
+[BlackID "4610695"]
+[BlackCountry "GER"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Qc7 7. Nf3 Bd7 8. a4
+Nc6 9. Bd3 c4 10. Be2 f6 11. O-O fxe5 12. dxe5 Nge7 13. Re1 O-O 14. Ba3 Be8 15.
+Qd2 Bg6 16. Ng5 Nd8 17. h4 h6 18. h5 Bf5 19. Nf3 1/2-1/2

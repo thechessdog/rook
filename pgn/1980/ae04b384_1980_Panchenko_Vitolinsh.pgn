@@ -1,0 +1,20 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Panchenko, A."]
+[Black "Vitolinsh, Alvis"]
+[Result "0-1"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf"]
+[HashCode "ae04b384"]
+[Epoch "Rook"]
+[WhiteCountry "RUS"]
+[BlackCountry "LVA"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. a4 e5 7. Nf3 Qc7 8. Bg5
+Nbd7 9. Nd2 h6 10. Bh4 g5 11. Bg3 Nc5 12. Bc4 Ncxe4 13. Ncxe4 Nxe4 14. Bxf7+
+Kxf7 15. Nxe4 Bf5 16. Nc3 Qc6 17. O-O h5 18. f3 h4 19. Bf2 h3 20. g3 g4 21. Be3
+Ke6 22. a5 Be7 23. Ra4 Raf8 24. Rb4 Bd8 25. Qe2 gxf3 26. Rxf3 Bd3 27. Qxd3 Qxf3
+28. Qc4+ Kd7 0-1

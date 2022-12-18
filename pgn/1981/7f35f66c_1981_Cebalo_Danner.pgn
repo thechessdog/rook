@@ -1,0 +1,21 @@
+[Event "Caorle"]
+[Site "Caorle"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Cebalo, Miso"]
+[Black "Danner, Georg"]
+[Result "0-1"]
+[ECO "E41"]
+[Opening "Nimzo-Indian"]
+[Variation "e3, Huebner variation"]
+[HashCode "7f35f66c"]
+[Epoch "Rook"]
+[WhiteID "14500094"]
+[WhiteCountry "CRO"]
+[BlackID "1600303"]
+[BlackCountry "AUT"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 Nc6 6. Nf3 Bxc3+ 7. bxc3 d6 8. e4
+e5 9. d5 Ne7 10. Rb1 Ng6 11. g3 b6 12. Nd2 Bh3 13. Qe2 O-O 14. Nf1 Qd7 15. Ne3
+Rae8 16. Bc2 Nf4 17. gxf4 exf4 18. f3 fxe3 19. Rg1 Nh5 20. Qxe3 f5 21. Qh6 fxe4
+22. Qxh5 exf3+ 23. Kd1 Bf5 24. Bxf5 Rxf5 25. Qh4 Qa4+ 26. Kd2 Rxd5+ 0-1

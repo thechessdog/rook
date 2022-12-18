@@ -1,0 +1,19 @@
+[Event "corr SWE/K tt"]
+[Site "corr SWE/K tt"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Eriksson, Bo"]
+[Black "Svensson, Frank"]
+[Result "0-1"]
+[ECO "B50"]
+[Opening "Sicilian"]
+[HashCode "86bbc359"]
+[Epoch "Rook"]
+[BlackID "1719653"]
+[BlackCountry "SWE"]
+
+1. e4 c5 2. Nf3 d6 3. c3 Nf6 4. e5 dxe5 5. Nxe5 Nbd7 6. f4 e6 7. Bb5 Bd6 8. O-O
+O-O 9. d4 cxd4 10. cxd4 Qb6 11. Bxd7 Bxd7 12. b3 Bb5 13. Nc4 Qa6 14. Nbd2 Bb4
+15. a4 Bxd2 16. axb5 Qxa1 17. Qxd2 Qb1 18. Bb2 Qf5 19. Ne5 Rfc8 20. Rc1 Ne4 21.
+Qe3 Nd6 22. Nc4 Nxb5 23. Re1 Rd8 24. Ne5 Rac8 25. g4 Qc2 26. Ba1 Rc7 27. f5
+exf5 28. Nd3 Rcc8 29. d5 Qc7 30. b4 Qd6 31. gxf5 Qxd5 0-1

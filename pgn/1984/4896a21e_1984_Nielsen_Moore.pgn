@@ -1,0 +1,16 @@
+[Event "Wisconsin"]
+[Site "Wisconsin"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Fries-Nielsen, Jens Ove"]
+[Black "Moore"]
+[Result "0-1"]
+[ECO "D44"]
+[Opening "QGD semi-Slav"]
+[Variation "anti-Meran gambit"]
+[HashCode "4896a21e"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 c6 5. Bg5 dxc4 6. e4 b5 7. e5 h6 8. Bh4 g5
+9. Nxg5 hxg5 10. Bxg5 Nbd7 11. exf6 Bb7 12. Be2 Qb6 13. O-O O-O-O 14. Be3 Nxf6
+15. Qc2 c5 16. dxc5 Qc6 17. f3 Bxc5 18. Bxc5 Qxc5+ 19. Rf2 Rxh2 0-1

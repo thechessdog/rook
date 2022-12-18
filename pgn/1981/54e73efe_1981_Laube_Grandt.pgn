@@ -1,0 +1,21 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Laube"]
+[Black "Grandt"]
+[Result "1-0"]
+[ECO "A57"]
+[Opening "Benko gambit"]
+[Variation "Zaitsev system"]
+[HashCode "54e73efe"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. Nc3 axb5 6. e4 b4 7. Nb5 d6 8.
+Bf4 Bd7 9. e5 Qa5 10. Nxd6+ exd6 11. exf6 gxf6 12. Qf3 b3+ 13. Bd2 Qxa2 14.
+Rd1 Be7 15. Bc1 Na6 16. Bd3 Nb4 17. Ne2 Nxd3+ 18. Qxd3 Qa4 19. O-O Qg4 20.
+h3 Qg6 21. Qe3 Kf8 22. Nf4 Qg5 23. Rfe1 Re8 24. Bd2 h5 25. Qf3 Qf5 26. Qxb3
+Kg8 27. Re3 Bd8 28. Rxe8+ Bxe8 29. Re1 Kg7 30. Re3 Kh7 31. Ne6 fxe6 32.
+Qb7+ Kg8 33. Rg3+ Bg6 34. Qd7 Qb1+ 35. Kh2 exd5 36. Qxd8+ Kg7 37. Qe7+ Kg8
+38. Rb3 Bf7 39. Qxf6 1-0
+

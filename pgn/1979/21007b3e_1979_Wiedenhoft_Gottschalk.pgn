@@ -1,0 +1,18 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Wiedenhoft"]
+[Black "Gottschalk"]
+[Result "1-0"]
+[ECO "B19"]
+[Opening "Caro-Kann"]
+[Variation "classical, Spassky variation"]
+[HashCode "21007b3e"]
+[Epoch "Rook"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6 7. Nf3 Nd7 8.
+h5 Bh7 9. Bd3 Bxd3 10. Qxd3 Qc7 11. Qe2 e6 12. Bd2 Be7 13. O-O-O O-O-O 14.
+Ne5 Nxe5 15. dxe5 Rd5 16. f4 Bc5 17. Ne4 Ne7 18. c4 Rxd2 19. Qxd2 Qb6 20.
+Qd7+ Kb8 21. Rh3 Rc8 22. Kb1 1-0
+

@@ -1,0 +1,18 @@
+[Event "corr Spain"]
+[Site "corr Spain"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Gavalda"]
+[Black "Lussy"]
+[Result "0-1"]
+[ECO "C36"]
+[Opening "KGA"]
+[Variation "Abbazia defence, modern variation"]
+[HashCode "d3e73947"]
+[Epoch "Rook"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 d5 4. exd5 Nf6 5. Bb5+ c6 6. dxc6 Nxc6 7. d4 Bd6
+8. O-O O-O 9. Nbd2 Bc7 10. c3 Bg4 11. Nc4 Qd5 12. Bxc6 bxc6 13. Qa4 Bxf3
+14. Rxf3 g5 15. Bd2 Rfe8 16. Raf1 Re2 17. Bc1 Rc8 18. Nd2 g4 19. R3f2 f3
+20. gxf3 Bxh2+ 21. Kxh2 Qh5+ 0-1
+

@@ -1,0 +1,23 @@
+[Event "Denmark"]
+[Site "Denmark"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Andersen, Ib"]
+[Black "Reinert, Mads"]
+[Result "0-1"]
+[ECO "A67"]
+[Opening "Benoni"]
+[Variation "Taimanov variation"]
+[HashCode "aa753ac0"]
+[Epoch "Rook"]
+[WhiteID "1401130"]
+[BlackID "1400487"]
+[WhiteCountry "DEN"]
+[BlackCountry "DEN"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. f4 Bg7 8. Bb5+
+Nfd7 9. a4 Qh4+ 10. g3 Qe7 11. Nf3 O-O 12. Bd3 Na6 13. O-O Nb4 14. Re1 Nf6 15.
+Bf1 Bg4 16. Bg2 Rfe8 17. h3 Bxf3 18. Bxf3 c4 19. Be3 Nd3 20. Re2 Nd7 21. Rb1
+N7c5 22. Bxc5 Nxc5 23. Bg2 Nd3 24. Kh2 h5 25. h4 a6 26. Qd2 Rac8 27. a5 Qc7 28.
+Na4 Nxb2 29. Nb6 c3 30. Qc1 c2 31. Nxc8 Rxc8 32. e5 Nd3 33. Qxc2 Qxc2 34. Rxc2
+Rxc2 35. exd6 Nc5 36. Kg1 Bc3 37. d7 Bxa5 38. Bh3 f5 39. d6 b5 0-1

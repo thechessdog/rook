@@ -1,0 +1,20 @@
+[Event "Thessaloniki ol (Men)"]
+[Site "Thessaloniki olm"]
+[Date "1984.11.01"]
+[Round "5"]
+[White "Bammoune, Abd'Ennacer"]
+[Black "Borg, Geoffrey"]
+[Result "0-1"]
+[ECO "C46"]
+[Opening "Four knights"]
+[Variation "Italian variation"]
+[HashCode "73c5fc54"]
+[Epoch "Rook"]
+[WhiteID "7900040"]
+[WhiteCountry "ALG"]
+[BlackID "5600014"]
+[BlackCountry "MLT"]
+
+1. e4 e5 2. Nc3 Nc6 3. Nf3 Nf6 4. Bc4 Nxe4 5. Bxf7+ Kxf7 6. Nxe4 d5 7. Nfg5+
+Ke8 8. Qh5+ g6 9. Qf3 Bf5 10. d3 dxe4 11. dxe4 Nd4 12. Qg3 Nxc2+ 13. Ke2 Nd4+
+14. Kf1 Qd6 0-1

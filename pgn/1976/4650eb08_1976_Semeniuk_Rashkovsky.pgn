@@ -1,0 +1,21 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Semeniuk, Alexander A"]
+[Black "Rashkovsky, Nukhim N"]
+[Result "1/2-1/2"]
+[ECO "B92"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Opovcensky variation"]
+[HashCode "4650eb08"]
+[Epoch "Rook"]
+[WhiteID "4105389"]
+[BlackID "4100603"]
+[WhiteCountry "RUS"]
+[BlackCountry "RUS"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8. O-O
+O-O 9. a4 Nc6 10. f4 Nb4 11. Kh1 b6 12. Bf3 Be6 13. Rf2 Rc8 14. Be3 Qc7 15. Rd2
+Rfe8 16. Nc1 exf4 17. Bxf4 Nd7 18. Rxd6 Nc5 19. Rxe6 Qxf4 20. Rxb6 Rcd8 21. Nd5
+Nxe4 22. Bxe4 1/2-1/2

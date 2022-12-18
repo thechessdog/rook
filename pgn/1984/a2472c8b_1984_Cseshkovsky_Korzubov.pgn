@@ -1,0 +1,24 @@
+[Event "Europe"]
+[Site "Europe"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Tseshkovsky, Vitaly"]
+[Black "Korzubov, Peter"]
+[Result "1-0"]
+[ECO "C11"]
+[Opening "French"]
+[Variation "Steinitz, Boleslavsky variation"]
+[HashCode "a2472c8b"]
+[Epoch "Rook"]
+[WhiteCountry "RUS"]
+[BlackCountry "BLR"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 Nc6 7. Be3 cxd4 8. Nxd4
+Bc5 9. Qd2 O-O 10. Be2 a6 11. O-O-O Nxd4 12. Bxd4 b5 13. Bf3 Bxd4 14. Qxd4 Bb7
+15. Kb1 Rc8 16. h4 Qc7 17. h5 Qc4 18. h6 Qxd4 19. Rxd4 g5 20. g3 f6 21. Bg4 f5
+22. Bf3 g4 23. Bg2 Nb8 24. Rh5 Kf7 25. a4 Rc4 26. Ne2 Nc6 27. Rd1 Rc5 28. axb5
+axb5 29. Nc1 b4 30. Nb3 Rb5 31. Bf1 Rb6 32. Nc5 Bc8 33. b3 Nb8 34. Kb2 Nd7 35.
+Nxd7 Bxd7 36. Ra1 Rb7 37. Ra6 Rg8 38. Bd3 Ke7 39. Kc1 Be8 40. Rh1 Bd7 41. Kd2
+Rgb8 42. Rha1 Rc7 43. Ke3 Kf7 44. Kd4 Kg6 45. Rh1 Bc6 46. Rh4 Kf7 47. Rh5 Bd7
+48. Rg5 Rg8 49. Rxg8 Kxg8 50. Rb6 Kf7 51. Rxb4 Kg6 52. Rb6 Bc8 53. b4 Kxh6 54.
+Bxf5 Rc4+ 55. Kd3 Kh5 56. Bxh7 1-0

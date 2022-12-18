@@ -1,0 +1,25 @@
+[Event "Lloyds Bank op"]
+[Site "Londen open"]
+[Date "1978.08.01"]
+[Round "1"]
+[White "Littlewood, Paul E"]
+[Black "Povah, Nigel E"]
+[Result "1-0"]
+[ECO "B13"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik, Czerniak variation"]
+[HashCode "cd303f62"]
+[Epoch "Rook"]
+[WhiteID "400190"]
+[WhiteCountry "ENG"]
+[BlackID "400467"]
+[BlackCountry "ENG"]
+
+1. e4 d5 2. exd5 Nf6 3. c4 c6 4. Nc3 cxd5 5. d4 Nc6 6. Bg5 Qa5 7. Qd2 e5 8. Nf3
+Ne4 9. Nxe4 dxe4 10. Qxa5 Nxa5 11. Nxe5 Bb4+ 12. Bd2 Bxd2+ 13. Kxd2 f6 14. b4
+fxe5 15. d5 Nxc4+ 16. Bxc4 Ke7 17. Bb3 Bf5 18. Rac1 Rac8 19. Rc5 b6 20. Rc6 Bd7
+21. d6+ Kf6 22. Rc7 Rxc7 23. dxc7 Rc8 24. Rc1 Ke7 25. Ke3 Kd6 26. Kxe4 Bc6+ 27.
+Kf5 Bd7+ 28. Kg5 Bc6 29. Kf5 Bd7+ 30. Kg5 Bc6 31. f3 a6 32. h4 e4 33. fxe4 Bxe4
+34. Re1 Bxg2 35. Re6+ Kxc7 36. Re7+ Kc6 37. Rxg7 Be4 38. a4 Rf8 39. Rf7 Rxf7
+40. Bxf7 Bd3 41. Kh6 b5 42. a5 Kd6 43. Bg8 Ke5 44. Bxh7 Be2 45. Kg5 Kd4 46. Bf5
+Kc3 47. Bg4 1-0

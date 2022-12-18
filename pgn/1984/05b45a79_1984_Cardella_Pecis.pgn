@@ -1,0 +1,19 @@
+[Event "corr TS87"]
+[Site "corr TS87"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Cardella"]
+[Black "Pecis"]
+[Result "0-1"]
+[ECO "B70"]
+[Opening "Sicilian"]
+[Variation "dragon variation"]
+[HashCode "05b45a79"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Bc4 Bg7 7. Qe2 O-O
+8. f4 Nc6 9. Nxc6 bxc6 10. e5 Bg4 11. Qf2 dxe5 12. h3 Ne4 13. Qe3 Nxc3 14.
+Bd2 Nd1 15. Qa3 Nf2 16. Rh2 Ne4 17. Be3 exf4 18. hxg4 fxe3 19. Qxe3 Bxb2
+20. Rd1 Qb8 21. Qh3 Qb4+ 22. Ke2 Qxc4+ 23. Rd3 Qxc2+ 24. Ke3 Qf2+ 25. Kxe4
+f5+ 26. gxf5 gxf5+ 27. Qxf5 Qxf5+ 28. Ke3 Qf2+ 29. Ke4 Rf4# 0-1
+

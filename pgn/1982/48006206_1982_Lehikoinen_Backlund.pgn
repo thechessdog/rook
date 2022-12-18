@@ -1,0 +1,18 @@
+[Event "corr Heilimo mem"]
+[Site "corr Heilimo mem"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Lehikoinen"]
+[Black "Backlund"]
+[Result "1/2-1/2"]
+[ECO "B33"]
+[Opening "Sicilian"]
+[Variation "Sveshnikov variation"]
+[HashCode "48006206"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 Nf6 3. Nc3 Nc6 4. d4 cxd4 5. Nxd4 e5 6. Ndb5 d6 7. Bg5 a6
+8. Na3 b5 9. Bxf6 gxf6 10. Nd5 f5 11. Bd3 Be6 12. c4 Qa5+ 13. Kf1 Bxd5 14.
+exd5 Nd4 15. cxb5 axb5 16. Nc2 Nxc2 17. Qxc2 e4 18. Qe2 Rb8 19. g4 Kd7 20.
+Bc2 Bg7 21. gxf5 1/2-1/2
+

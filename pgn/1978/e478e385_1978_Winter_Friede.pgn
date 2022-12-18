@@ -1,0 +1,19 @@
+[Event "DDR"]
+[Site "DDR"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Winter"]
+[Black "Friede"]
+[Result "1-0"]
+[ECO "D52"]
+[Opening "QGD"]
+[Variation "Cambridge Springs defence, Capablanca variation"]
+[HashCode "e478e385"]
+[Epoch "Rook"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Nbd7 5. e3 c6 6. Nf3 Qa5 7. Bxf6 Nxf6
+8. Bd3 dxc4 9. Bxc4 Bb4 10. O-O O-O 11. Ne5 Bxc3 12. bxc3 c5 13. g4 cxd4
+14. cxd4 Nd7 15. f4 Nxe5 16. fxe5 Qc3 17. Qe2 Bd7 18. Rac1 Qa3 19. g5 Rac8
+20. Rb1 Rxc4 21. Qxc4 Qxe3+ 22. Rf2 Bc6 23. Rb3 Qe4 24. Rbf3 Rd8 25. Qc5
+Rxd4 26. Qf8+ Kxf8 27. Rxf7+ Ke8 28. Rf8+ Kd7 29. R2f7# 1-0
+

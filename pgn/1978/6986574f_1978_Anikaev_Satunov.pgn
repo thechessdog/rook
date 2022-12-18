@@ -1,0 +1,18 @@
+[Event "corr EUR/M"]
+[Site "corr EUR/M"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Anikaev, V."]
+[Black "Satunov, V."]
+[Result "1-0"]
+[ECO "B89"]
+[Opening "Sicilian"]
+[Variation "Velimirovic attack"]
+[HashCode "6986574f"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Be3 e6 7. Bc4 Be7
+8. Qe2 O-O 9. O-O-O Bd7 10. Rhg1 a6 11. g4 b5 12. Bb3 Ne8 13. f4 Nxd4 14.
+Bxd4 Qb8 15. g5 a5 16. Qh5 e5 17. Nd5 Bd8 18. f5 Kh8 19. Rd3 Qc8 20. g6 h6
+21. gxf7 exd4 22. Rxg7 1-0
+

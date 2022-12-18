@@ -1,0 +1,18 @@
+[Event "corr USSR"]
+[Site "corr USSR"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Kulik"]
+[Black "Krychkow"]
+[Result "0-1"]
+[ECO "C57"]
+[Opening "two knights defence"]
+[Variation "Wilkes Barre (Traxler) variation"]
+[HashCode "14565c70"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 Bc5 5. Bxf7+ Ke7 6. Bd5 Qf8 7. Nc3
+Bxf2+ 8. Kf1 g6 9. Nf3 g5 10. Kxf2 g4 11. h3 gxf3 12. gxf3 Qh6 13. Qg1 Nd4
+14. Bb3 Rf8 15. Qg2 Nxf3 16. d3 Qh4+ 17. Qg3 Ng4+ 18. hxg4 Qxh1 19. Nd5+
+Kd8 20. Ne3 Qe1+ 21. Kg2 Qg1+ 22. Kh3 Qh1+ 0-1
+

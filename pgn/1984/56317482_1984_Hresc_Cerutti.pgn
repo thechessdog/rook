@@ -1,0 +1,19 @@
+[Event "Torino"]
+[Site "Torino"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Hresc"]
+[Black "Cerutti"]
+[Result "1-0"]
+[ECO "C70"]
+[Opening "Ruy Lopez"]
+[Variation "Alapin's defence deferred"]
+[HashCode "56317482"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Bb4 5. c3 Ba5 6. O-O Nge7 7. d4 exd4
+8. Nxd4 O-O 9. Bg5 h6 10. Bh4 Nxd4 11. cxd4 d6 12. Nc3 c6 13. f4 Bxc3 14.
+bxc3 Qe8 15. f5 f6 16. Bc2 Kh8 17. e5 dxe5 18. dxe5 Nd5 19. exf6 Nxf6 20.
+Qd4 Bd7 21. Rae1 Qc8 22. Re7 c5 23. Bxf6 cxd4 24. Bxg7+ Kg8 25. Bb3+ Be6
+26. Bxe6+ Qxe6 27. fxe6 1-0
+

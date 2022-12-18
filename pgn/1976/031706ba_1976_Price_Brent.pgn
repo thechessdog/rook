@@ -1,0 +1,20 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Price, J."]
+[Black "Brent, M."]
+[Result "0-1"]
+[ECO "C15"]
+[Opening "French"]
+[Variation "Winawer, fingerslip variation"]
+[HashCode "031706ba"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. Bd2 dxe4 5. Qg4 Nf6 6. Qxg7 Rg8 7. Qh6 Rg6
+8. Qe3 Nc6 9. O-O-O Qxd4 10. Nge2 Qxe3 11. fxe3 Bxc3 12. Bxc3 Nd5 13. Bd2
+e5 14. Nc3 Nxc3 15. Bxc3 a6 16. h3 Bd7 17. Be2 Rxg2 18. Bh5 Be6 19. a3 Rg5
+20. Be2 Rd8 21. Rxd8+ Kxd8 22. Rd1+ Ke7 23. h4 Rg3 24. Bd2 Bg4 25. Bxg4
+Rxg4 26. Rh1 f5 27. c4 f4 28. b4 Ke6 29. Kc2 h5 30. b5 Ne7 31. exf4 exf4
+32. c5 axb5 0-1
+

@@ -1,0 +1,15 @@
+[Event "corr NBC"]
+[Site "corr NBC"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Thoma"]
+[Black "Veenstra"]
+[Result "0-1"]
+[ECO "B06"]
+[Opening "Robatsch defence"]
+[HashCode "31dc5baa"]
+[Epoch "Rook"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 c6 4. Nf3 d5 5. e5 Bg4 6. h3 Bxf3 7. Qxf3 e6 8.
+Be3 Ne7 9. Bd3 c5 10. O-O Nbc6 11. Qf4 O-O 12. Nd1 cxd4 0-1
+

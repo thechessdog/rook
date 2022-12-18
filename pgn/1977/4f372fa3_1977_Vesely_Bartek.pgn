@@ -1,0 +1,17 @@
+[Event "corr CSSR"]
+[Site "corr CSSR"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Vesely"]
+[Black "Bartek"]
+[Result "1-0"]
+[ECO "B94"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.Bg5"]
+[HashCode "4f372fa3"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 Nbd7 7. Bc4 b5
+8. Bd5 Nxd5 9. Nxd5 Bb7 10. O-O h6 11. Ne6 Bxd5 12. Nxd8 Rxd8 13. Qxd5 hxg5
+14. Qxg5 1-0
+

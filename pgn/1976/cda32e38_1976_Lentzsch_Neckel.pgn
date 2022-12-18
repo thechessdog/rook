@@ -1,0 +1,23 @@
+[Event "corr DDR-PZ"]
+[Site "corr DDR-PZ"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Lentzsch"]
+[Black "Neckel"]
+[Result "0-1"]
+[ECO "E53"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Keres variation"]
+[HashCode "cda32e38"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 Bb4+ 4. Nc3 c5 5. e3 O-O 6. Bd3 d5 7. O-O b6 8.
+Qe2 Ba6 9. Rd1 Bxc3 10. bxc3 dxc4 11. Bxc4 Bxc4 12. Qxc4 Qc7 13. Ne5 Rc8
+14. Ba3 Nbd7 15. Nxd7 Nxd7 16. Rd2 cxd4 17. Qxc7 Rxc7 18. cxd4 Nf6 19. Rb1
+Ne4 20. Rdb2 Rac8 21. g3 f5 22. f3 Nf6 23. Bd6 Rc3 24. Re1 R8c6 25. Be5 Nd7
+26. Kf2 a6 27. Ree2 R6c4 28. f4 b5 29. Red2 Kf7 30. h3 h5 31. Ke2 Rc1 32.
+Rd1 Nb6 33. h4 Na4 34. Rxc1 Rxc1 35. Rd2 Nc3+ 36. Kf3 b4 37. Rb2 a5 38. Rd2
+Nd5 39. Ke2 g6 40. Rb2 Rc3 41. Kd2 Nxe3 42. Rb3 Nd5 43. Bd6 Ke8 44. Rxc3
+Nxc3 45. Bc7 a4 46. Ba5 Nxa2 47. Kc2 b3+ 48. Kb2 Kd7 49. Bd2 Kc6 50. Be3
+Kd5 51. Bf2 Kc4 0-1
+

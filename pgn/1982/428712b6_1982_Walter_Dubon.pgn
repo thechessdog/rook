@@ -1,0 +1,18 @@
+[Event "Ludwigshafen"]
+[Site "Ludwigshafen"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Walter"]
+[Black "Dubon"]
+[Result "1-0"]
+[ECO "C56"]
+[Opening "Two knights defence"]
+[HashCode "428712b6"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d4 exd4 5. O-O Nxe4 6. Re1 d5 7. Bxd5
+Qxd5 8. Nc3 Qa5 9. Nxe4 Be6 10. Neg5 O-O-O 11. Nxe6 fxe6 12. Rxe6 Bd6 13.
+Qe2 Rhf8 14. Bg5 Rxf3 15. Bxd8 Nxd8 16. Rxd6 Rf4 17. Rxd8+ Kxd8 18. Re1 c6
+19. Qe8+ Kc7 20. Re7+ Kb6 21. Qb8 Qd2 22. Qxb7+ Kc5 23. Re5+ Kc4 24. Qb3#
+1-0
+

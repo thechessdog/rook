@@ -1,0 +1,19 @@
+[Event "corr EU"]
+[Site "corr EU"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Wittmann, A."]
+[Black "Kunzelmann"]
+[Result "1/2-1/2"]
+[ECO "B97"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7...Qb6"]
+[HashCode "1ed328e9"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qb6 8.
+Qd2 Qxb2 9. Nb3 Qa3 10. Bxf6 gxf6 11. Be2 Nd7 12. O-O h5 13. Kh1 Be7 14. f5
+Nc5 15. Rad1 Bd7 16. fxe6 fxe6 17. e5 Nxb3 18. axb3 fxe5 19. Ne4 d5 20. Qc3
+Qb4 21. Nf6+ Kd8 22. Qxe5 Qd6 23. Qxd6 Bxd6 24. c4 Rf8 25. cxd5 Ke7 26.
+Nxd7 Kxd7 27. dxe6+ Kxe6 28. Bxh5 Rxf1+ 29. Rxf1 b6 30. g3 a5 1/2-1/2
+

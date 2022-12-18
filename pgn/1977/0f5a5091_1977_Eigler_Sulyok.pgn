@@ -1,0 +1,18 @@
+[Event "Salgotarjan"]
+[Site "Salgotarjan"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Eigler, Ferenc"]
+[Black "Sulyok, Sandor"]
+[Result "1/2-1/2"]
+[ECO "D50"]
+[Opening "QGD"]
+[Variation "4.Bg5"]
+[HashCode "0f5a5091"]
+[Epoch "Rook"]
+[BlackID "702021"]
+[BlackCountry "HUN"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Bg5 Bb4 5. e3 c5 6. Rc1 Bxc3+ 7. bxc3 Nbd7 8.
+Nf3 Qa5 9. Bxf6 Nxf6 10. Qc2 O-O 11. Nd2 cxd4 12. cxd4 dxc4 13. Bxc4 Bd7 14.
+O-O Rac8 15. Qb2 Bc6 16. Be2 Bd5 17. Bc4 Bc6 18. Be2 Bd5 1/2-1/2

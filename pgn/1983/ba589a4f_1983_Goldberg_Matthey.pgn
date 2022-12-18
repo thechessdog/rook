@@ -1,0 +1,23 @@
+[Event "Cottbus ch-DDR"]
+[Site "Cottbus ch-DDR"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Goldberg, Alexander, Dr."]
+[Black "Matthey, Harald"]
+[Result "1-0"]
+[ECO "B03"]
+[Opening "Alekhine's defence"]
+[Variation "four pawns attack, 7.Be3"]
+[HashCode "ba589a4f"]
+[Epoch "Rook"]
+[WhiteID "4611560"]
+[WhiteCountry "GER"]
+[BlackID "4623150"]
+[BlackCountry "GER"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. c4 Nb6 5. f4 dxe5 6. fxe5 Nc6 7. Be3 Bf5 8. Nc3
+e6 9. Nf3 Be7 10. d5 Nb4 11. Nd4 Bg6 12. a3 c5 13. Nxe6 fxe6 14. axb4 cxb4 15.
+Na4 O-O 16. d6 Bg5 17. Bd4 Be3 18. Bxe3 Qh4+ 19. g3 Qe4 20. Qe2 Qxh1 21. Nxb6
+axb6 22. Rxa8 Rxa8 23. Qg2 Be4 24. Qxh1 Bxh1 25. Bxb6 Bc6 26. Bg2 Bd7 27. c5
+Kf7 28. Bxb7 Rb8 29. Be4 Ke8 30. Kd2 Bc8 31. Kd3 Bb7 32. Bxb7 Rxb7 33. Kc4 Kd7
+34. Kb5 1-0

@@ -1,0 +1,21 @@
+[Event "DDR"]
+[Site "DDR"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Enders, Peter"]
+[Black "Casper, Thomas"]
+[Result "0-1"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance variation"]
+[HashCode "7c3de811"]
+[Epoch "Rook"]
+[WhiteID "4611314"]
+[BlackID "4611403"]
+[WhiteCountry "GER"]
+[BlackCountry "GER"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. a3 Qb6 6. Nf3 c4 7. Nbd2 Na5 8. g3 Bd7
+9. Bh3 Be7 10. O-O h5 11. Ne1 g5 12. Bg2 O-O-O 13. Ndf3 Nb3 14. Rb1 Nxc1 15.
+Qxc1 g4 16. Ng5 Nh6 17. h4 gxh3 18. Bxh3 f6 19. exf6 Bxf6 20. Nef3 Rdf8 21. Re1
+Ng4 22. Bxg4 hxg4 23. Ne5 Rh5 24. Nxd7 Kxd7 25. f4 Rfh8 26. Rf1 Bxd4+ 0-1

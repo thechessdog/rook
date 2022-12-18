@@ -1,0 +1,17 @@
+[Event "Alkmaar open"]
+[Site "Alkmaar open"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Van Egmond, J."]
+[Black "Broek, T."]
+[Result "0-1"]
+[ECO "C82"]
+[Opening "Ruy Lopez"]
+[Variation "open, Berlin variation"]
+[HashCode "76f460bb"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Be6 9. c3 Nc5 10. Nd4 Nxe5 11. Nxe6 fxe6 12. Re1 Qf6 13. Qh5+ Kd7 14. Qxe5 Qxe5
+15. Rxe5 Nd3 16. Bxd5 Re8 17. Bxe6+ Rxe6 18. Rxe6 Kxe6 19. Nd2 Bc5 20. Ne4 Bb6
+21. Kf1 Nxf2 22. Ng5+ Kd7 23. Nf3 Ng4 24. Bf4 Rf8 25. Rd1+ Kc8 26. g3 Ne3+ 0-1

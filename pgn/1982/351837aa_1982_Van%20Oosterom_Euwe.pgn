@@ -1,0 +1,19 @@
+[Event "corr ch10-NLD"]
+[Site "corr ch10-NLD"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Van Oosterom, J."]
+[Black "Euwe, Max"]
+[Result "1-0"]
+[ECO "B64"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...Be7 defence, 9.f4"]
+[HashCode "351837aa"]
+[Epoch "Rook"]
+[BlackCountry "NLD"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 e6 7. Qd2 Be7 8.
+O-O-O O-O 9. f4 h6 10. Bh4 Bd7 11. Nf3 Qa5 12. Qe1 Rfd8 13. Kb1 Be8 14. Bd3 Kf8
+15. Rf1 Rac8 16. h3 Nb4 17. a3 Nxd3 18. Rxd3 b5 19. Nd4 b4 20. Na2 Bb5 21. axb4
+Qb6 22. Nxb5 Qxb5 23. e5 dxe5 24. fxe5 Rxd3 25. exf6 Bxf6 26. Bxf6 Re3 27. Qf2
+gxf6 28. Qxf6 Rc7 29. Qd8+ Kg7 30. Rf4 1-0

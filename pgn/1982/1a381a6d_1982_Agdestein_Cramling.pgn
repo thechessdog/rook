@@ -1,0 +1,23 @@
+[Event "Gausdal Int"]
+[Site "Gausdal"]
+[Date "1982.??.??"]
+[Round "2"]
+[White "Agdestein, Espen"]
+[Black "Cramling, Pia"]
+[Result "0-1"]
+[ECO "E95"]
+[Opening "King's Indian"]
+[Variation "orthodox, 7...Nbd7, 8.Re1"]
+[HashCode "1a381a6d"]
+[Epoch "Rook"]
+[WhiteID "1500201"]
+[BlackID "1700030"]
+[WhiteCountry "NOR"]
+[BlackCountry "SWE"]
+
+1. d4 Nf6 2. c4 d6 3. Nc3 Nbd7 4. e4 e5 5. Nf3 g6 6. Be2 Bg7 7. O-O O-O 8. Re1
+c6 9. Bf1 Ng4 10. h3 Nh6 11. Be3 f6 12. Qd2 Nf7 13. Qc2 Ng5 14. Nxg5 fxg5 15.
+Rad1 exd4 16. Bxd4 Ne5 17. Bc5 dxc5 18. Rxd8 Rxd8 19. Rd1 Rd4 20. Ne2 Rxd1 21.
+Qxd1 Be6 22. b3 Nf7 23. g3 Rd8 24. Qc1 b6 25. f4 gxf4 26. gxf4 Bh6 27. Qe1 Bc8
+28. Bg2 Rd3 29. e5 Nd8 30. Qh4 Bf8 31. Ng3 Rd7 32. Ne4 Be7 33. Qg3 Rd4 34. Qf3
+Bf5 35. Ng3 Rd3 0-1

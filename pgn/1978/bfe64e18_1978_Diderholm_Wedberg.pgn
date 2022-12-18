@@ -1,0 +1,18 @@
+[Event "Rilton Cup"]
+[Site "Stockholm"]
+[Date "1978.??.??"]
+[Round "6"]
+[White "Diderholm, E."]
+[Black "Wedberg, Tom"]
+[Result "0-1"]
+[ECO "B29"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rubinstein variation"]
+[HashCode "bfe64e18"]
+[Epoch "Rook"]
+[BlackID "1700073"]
+[BlackCountry "SWE"]
+
+1. Nf3 c5 2. e4 Nf6 3. Nc3 Nc6 4. d4 d5 5. exd5 Nxd5 6. Nxd5 Qxd5 7. Be3 cxd4
+8. Nxd4 Bd7 9. Nb5 Qe5 10. Qd5 Qxd5 11. Nc7+ Kd8 12. Nxd5 e6 13. Bg5+ Kc8 14.
+Ne3 h6 15. Bh4 g5 16. Bg3 f5 17. f4 gxf4 18. Bxf4 e5 0-1

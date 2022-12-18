@@ -1,0 +1,17 @@
+[Event "corr EUR/M"]
+[Site "corr EUR/M"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Hervir, J."]
+[Black "Solodovnikov, V."]
+[Result "0-1"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Grand Prix attack"]
+[HashCode "1bed9c73"]
+[Epoch "Rook"]
+
+1. e4 c5 2. f4 a6 3. g3 e6 4. Qe2 b5 5. Bg2 Bb7 6. d3 Nc6 7. b3 Qc7 8. Bb2
+Nd4 9. Qf2 Nh6 10. c3 Nc6 11. d4 cxd4 12. cxd4 Nb4 13. Kd1 Ng4 14. Qe2 Ne3+
+15. Qxe3 Qc2+ 0-1
+

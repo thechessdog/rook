@@ -1,0 +1,19 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Dolmatov, Sergey"]
+[Black "Kasparov, Garry"]
+[Result "0-1"]
+[ECO "B10"]
+[Opening "Caro-Kann"]
+[Variation "closed (Breyer) variation"]
+[HashCode "1fbdb6fe"]
+[Epoch "Rook"]
+[WhiteID "4100093"]
+[WhiteCountry "RUS"]
+
+1. e4 c6 2. d3 e5 3. g3 g6 4. d4 Nf6 5. Nc3 Qa5 6. Bg2 d6 7. Ne2 Bg7 8. dxe5
+dxe5 9. Qd6 Na6 10. O-O Be6 11. Rd1 Nb4 12. Be3 Nxc2 13. b4 Nxb4 14. Bc5 Bf8
+15. Qxe5 Ng4 16. Qxh8 Qxc5 17. Rf1 O-O-O 18. Qxh7 Nd3 19. Nd1 Qe5 20. Rb1 Bc5
+21. h3 Ngxf2 22. Nxf2 Rh8 0-1

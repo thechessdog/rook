@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Canut"]
+[Black "Martenot"]
+[Result "1-0"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack"]
+[HashCode "4752ee3e"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. Bg5 d5 3. Nc3 Nbd7 4. f3 c6 5. e4 dxe4 6. fxe4 Qa5 7. Qd2 e5
+8. Nf3 Bb4 9. Bd3 exd4 10. Nxd4 O-O 11. O-O Bxc3 12. bxc3 c5 13. Nb3 Qb6
+14. c4 Qd6 15. e5 Qxe5 16. Rae1 Qb2 17. Qf4 a5 18. Qh4 h6 19. Bxh6 gxh6 20.
+Re3 h5 21. Qg5+ 1-0
+

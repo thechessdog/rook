@@ -1,0 +1,23 @@
+[Event "Poland"]
+[Site "Poland"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Pokojowczyk, Jerzy"]
+[Black "Sydor, Andrzej"]
+[Result "1-0"]
+[ECO "C79"]
+[Opening "Ruy Lopez"]
+[Variation "Steinitz defence deferred (Russian defence)"]
+[HashCode "30ebd6db"]
+[Epoch "Rook"]
+[WhiteID "1100718"]
+[WhiteCountry "POL"]
+[BlackID "1100475"]
+[BlackCountry "POL"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O d6 6. Re1 b5 7. Bb3 Na5 8. d4
+Nxb3 9. axb3 Bb7 10. dxe5 Nxe4 11. exd6 Bxd6 12. Qd4 O-O 13. Rxe4 f5 14. Re6
+Bxf3 15. Rxd6 Qe8 16. gxf3 cxd6 17. Bd2 f4 18. Nc3 Rf5 19. Bxf4 Qh5 20. Bg3 Re8
+21. Qg4 d5 22. Qxh5 Rxh5 23. Rxa6 Re1+ 24. Kg2 Rc1 25. Ra5 d4 26. Nxb5 Rxc2 27.
+Nxd4 Rxf2+ 28. Kxf2 Rxa5 29. Ke3 Ra2 30. b4 Rxb2 31. b5 Kf7 32. Kd3 Ke7 33. Kc3
+Rb1 34. Kc2 1-0

@@ -1,0 +1,15 @@
+[Event "HMC"]
+[Site "HMC"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Van der Heijden"]
+[Black "Kramer"]
+[Result "0-1"]
+[ECO "A00"]
+[Opening "Grob's attack"]
+[HashCode "06f5ad93"]
+[Epoch "Rook"]
+
+1. g4 d5 2. Bg2 c6 3. c4 Nf6 4. g5 Ne4 5. d3 Nd6 6. cxd5 cxd5 7. Bxd5 Qa5+
+8. Nc3 Bd7 9. Bd2 e6 10. Ne4 0-1
+

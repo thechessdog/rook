@@ -1,0 +1,19 @@
+[Event "corr DDR-M"]
+[Site "corr DDR-M"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Schuetz, H."]
+[Black "Junge, W."]
+[Result "1-0"]
+[ECO "C43"]
+[Opening "Petrov"]
+[Variation "modern (Steinitz) attack"]
+[HashCode "3e8b3802"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nf6 3. d4 exd4 4. e5 Ne4 5. Bb5 Bb4+ 6. c3 dxc3 7. O-O c6
+8. Bd3 cxb2 9. Bxb2 Nc5 10. Bf5 Ne6 11. Nd4 Qb6 12. Nb3 Na6 13. N1d2 Bxd2
+14. Qxd2 Nac7 15. Na5 Qa6 16. Bd3 b5 17. a4 Qb6 18. Rfd1 a6 19. Be4 O-O 20.
+Ra3 b4 21. Rg3 Kh8 22. Nc4 Qc5 23. Nd6 Nd5 24. Nf5 Nc3 25. Rxg7 Nxe4 26.
+Rxh7+ Kxh7 27. Qh6+ Kg8 28. Bd4 Re8 29. Bxc5 N4xc5 1-0
+

@@ -1,0 +1,18 @@
+[Event "Sweden"]
+[Site "Sweden"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Schneider, Lars-Ake"]
+[Black "Schussler, Harry"]
+[Result "1/2-1/2"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "classical attack, Chigorin variation"]
+[HashCode "b56d27a9"]
+[Epoch "Rook"]
+[BlackID "1700081"]
+[BlackCountry "SWE"]
+[WhiteCountry "SWE"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Nc6 7. O-O Be7 8.
+Re1 Bg4 9. c4 Nf6 10. cxd5 Bxf3 11. Qxf3 1/2-1/2

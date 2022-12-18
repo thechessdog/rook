@@ -1,0 +1,21 @@
+[Event "Trnava"]
+[Site "Trnava"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Banas, Jan"]
+[Black "Knaak, Rainer"]
+[Result "0-1"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack"]
+[HashCode "ed6e6507"]
+[Epoch "Rook"]
+[WhiteID "14900076"]
+[BlackID "4611250"]
+[WhiteCountry "SVK"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 g6 4. Qd3 Bg7 5. e4 dxe4 6. Nxe4 Bf5 7. Nxf6+ Bxf6
+8. Qb5+ c6 9. Qxb7 Bxg5 10. Qxa8 Qb6 11. Nf3 Bh6 12. Bd3 Bxd3 13. cxd3 O-O 14.
+Ne5 Qb4+ 15. Kf1 Qxd4 16. Nxc6 Qxd3+ 17. Kg1 Qe4 18. Nxe7+ Qxe7 19. g3 Qd7 20.
+Qf3 Nc6 21. Rd1 Nd4 22. Kg2 Rd8 23. Qa3 Qc6+ 24. f3 Qc2+ 25. Kh3 Rd5 26. g4 Ne6
+27. Rdg1 0-1

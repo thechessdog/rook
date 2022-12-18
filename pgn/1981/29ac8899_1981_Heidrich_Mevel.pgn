@@ -1,0 +1,26 @@
+[Event "Bundesliga 8081"]
+[Site "Duitsland tt"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Heidrich, Manfred"]
+[Black "Mevel, Alberic"]
+[Result "1-0"]
+[ECO "B52"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky attack, Sokolsky variation"]
+[HashCode "29ac8899"]
+[Epoch "Rook"]
+[WhiteID "4602722"]
+[WhiteCountry "GER"]
+[BlackID "602574"]
+[BlackCountry "FRA"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Qxd7 5. c4 Nc6 6. d4 cxd4 7. Nxd4 Nf6
+8. Nc3 g6 9. f3 Bg7 10. Be3 O-O 11. Rc1 Rfc8 12. b3 Qd8 13. O-O Qa5 14. Qd3 a6
+15. a4 Nxd4 16. Bxd4 e6 17. Rfd1 Rc6 18. Ne2 Nd7 19. Bxg7 Kxg7 20. Nd4 Rc7 21.
+Qc3 Qxc3 22. Rxc3 d5 23. exd5 exd5 24. Rcd3 Nc5 25. Rc3 dxc4 26. Rxc4 Rac8 27.
+Rc3 Kf6 28. Ne2 Ne6 29. Rcd3 Rc2 30. R1d2 h5 31. Ng3 Rxd2 32. Ne4+ Ke5 33. Nxd2
+b5 34. axb5 axb5 35. g3 g5 36. Kf2 Rc2 37. Ke1 Nc5 38. f4+ gxf4 39. gxf4+ Kxf4
+40. Rf3+ Kg4 41. Rxf7 Nd3+ 42. Kd1 Rc1+ 43. Ke2 Nf4+ 44. Kf2 Rc2 45. Rd7 Rc3
+46. Rg7+ Kf5 47. Rf7+ Kg4 48. Rg7+ Kh3 49. Nf3 Rc2+ 50. Ke3 Ng2+ 51. Kd3 Ne1+
+1-0

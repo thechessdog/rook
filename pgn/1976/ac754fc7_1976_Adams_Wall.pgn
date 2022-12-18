@@ -1,0 +1,16 @@
+[Event "North Carolina"]
+[Site "North Carolina"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Adams, Roy"]
+[Black "Wall, Bill"]
+[Result "0-1"]
+[ECO "C72"]
+[Opening "Ruy Lopez"]
+[Variation "modern Steinitz defence, 5.O-O"]
+[HashCode "ac754fc7"]
+[Epoch "Rook"]
+[BlackCountry "USA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. O-O Bg4 6. h3 h5 7. Bxc6+ bxc6 8.
+hxg4 hxg4 9. Nxe5 Qh4 0-1

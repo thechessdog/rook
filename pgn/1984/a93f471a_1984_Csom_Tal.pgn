@@ -1,0 +1,19 @@
+[Event "Titograd"]
+[Site "Titograd"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Csom, Istvan"]
+[Black "Tal, Mikhail"]
+[Result "1/2-1/2"]
+[ECO "D23"]
+[Opening "QGA"]
+[Variation "Mannheim variation"]
+[HashCode "a93f471a"]
+[Epoch "Rook"]
+[WhiteID "700100"]
+[WhiteCountry "HUN"]
+[BlackCountry "LVA"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 dxc4 4. Qa4+ c6 5. Qxc4 Bf5 6. Nc3 e6 7. g3 Be7 8.
+Bg2 O-O 9. O-O Nbd7 10. e3 Ne4 11. Qe2 Qa5 12. Bd2 Qb6 13. Nxe4 Bxe4 14. Bc3
+Rfd8 15. Rfd1 1/2-1/2

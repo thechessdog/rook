@@ -1,0 +1,24 @@
+[Event "corr Argentina"]
+[Site "corr Argentina"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Zanlungo"]
+[Black "Kexel"]
+[Result "1-0"]
+[ECO "C12"]
+[Opening "French"]
+[Variation "MacCutcheon, Lasker variation, 8...g6"]
+[HashCode "91f0be31"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Bb4 5. e5 h6 6. Bd2 Bxc3 7. bxc3 Ne4 8.
+Qg4 g6 9. Be3 Nxc3 10. Bd3 Qe7 11. h4 Nd7 12. h5 Qb4 13. hxg6 Nxe5 14.
+gxf7+ Nxf7 15. Bg6 Ne4+ 16. Ke2 Qc4+ 17. Kf3 Nf6 18. Qf4 Ke7 19. Bxf7 Kxf7
+20. Qe5 Qxc2 21. Rh4 Qg6 22. Rf4 c6 23. Ke2 Ke7 24. Nf3 Rf8 25. Nh4 Qg5 26.
+Rh1 Kd7 27. Rf3 Qxe5 28. dxe5 Nh7 29. Bxh6 Rxf3 30. Nxf3 b6 31. Bg7 Ba6+
+32. Ke3 Nf8 33. Rh8 Ke7 34. Bf6+ Kd7 35. Nh4 c5 36. Bg7 d4+ 37. Kd2 Kc6 38.
+Rxf8 Rxf8 39. Bxf8 c4 40. g4 c3+ 41. Kc2 Kd5 42. g5 Kc4 43. g6 d3+ 44. Kd1
+Bb5 45. Bh6 Be8 46. g7 Bf7 47. Ng6 b5 48. Ne7 a5 49. g8=Q Bxg8 50. Nxg8 b4
+51. Ne7 a4 52. Nc6 b3 53. Na5+ Kb4 54. axb3 Kxa5 55. bxa4 Kxa4 56. f4 Kb5
+57. f5 1-0
+

@@ -1,0 +1,23 @@
+[Event "Helsinki"]
+[Site "Helsinki"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Szabo, Laszlo"]
+[Black "Sznapik, Aleksander"]
+[Result "0-1"]
+[ECO "E88"]
+[Opening "King's Indian"]
+[Variation "Saemisch, orthodox, 7.d5 c6"]
+[HashCode "7fcd70fe"]
+[Epoch "Rook"]
+[BlackID "1100050"]
+[BlackCountry "POL"]
+[WhiteID "710741"]
+[WhiteCountry "HUN"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 e5 7. d5 c6 8. Bd3 cxd5
+9. cxd5 Ne8 10. Nge2 Bh6 11. Bxh6 Qh4+ 12. Ng3 Qxh6 13. Qd2 Qh4 14. Rc1 Nd7 15.
+O-O Nc5 16. Be2 a5 17. Qe3 Bd7 18. Bb5 Qd8 19. Bxd7 Qxd7 20. Nd1 Ng7 21. f4
+exf4 22. Rxf4 Rae8 23. Nf2 f5 24. Qd4 g5 25. Rxf5 Nxf5 26. Nxf5 h5 27. g4 hxg4
+28. Nh6+ Kh7 29. Nhxg4 Nxe4 30. Qd3 Kg7 31. Qh3 Nxf2 32. Qh6+ Kg8 33. Qg6+ Qg7
+34. Nh6+ Kh8 35. Qh5 Qh7 36. Rc7 Qb1+ 0-1

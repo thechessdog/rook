@@ -1,0 +1,19 @@
+[Event "Reggio Emilia7778"]
+[Site "Reggio Emilia"]
+[Date "1977.12.01"]
+[Round "1"]
+[White "Valenti, Giuseppe"]
+[Black "Martorelli, Antonio"]
+[Result "1-0"]
+[ECO "B43"]
+[Opening "Sicilian"]
+[Variation "Kan, 5.Nc3"]
+[HashCode "876a700f"]
+[Epoch "Rook"]
+[WhiteID "801119"]
+[WhiteCountry "ITA"]
+[BlackID "801399"]
+[BlackCountry "ITA"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 Qc7 6. Be2 b5 7. O-O Bb7 8. Bf3
+Nc6 9. Re1 Bd6 10. g3 Nxd4 11. Qxd4 Be5 12. Qd3 Rc8 1-0

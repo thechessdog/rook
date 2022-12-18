@@ -1,0 +1,20 @@
+[Event "Kuibyshev"]
+[Site "Kuibyshev"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Grechinin, Valery"]
+[Black "Glek, Igor"]
+[Result "1/2-1/2"]
+[ECO "B89"]
+[Opening "Sicilian"]
+[Variation "Velimirovic attack"]
+[HashCode "0d081cc4"]
+[Epoch "Rook"]
+[BlackID "4100484"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bc4 e6 7. Be3 Be7 8.
+Qe2 O-O 9. Bb3 a6 10. O-O-O Qc7 11. g4 Nxd4 12. Rxd4 b5 13. g5 Nd7 14. Rg1 Nc5
+15. e5 dxe5 16. Rh4 Nxb3+ 17. axb3 g6 18. Ne4 f5 19. gxf6 Bxf6 20. Rhg4 Bg7 21.
+h4 Rf5 22. h5 Rxh5 23. Nf6+ Bxf6 24. Rxg6+ hxg6 25. Rxg6+ Bg7 26. Qxh5 Bd7 27.
+Rxg7+ Kxg7 28. Bh6+ Kh7 29. Bf4+ Kg8 30. Qg6+ Kf8 31. Qh6+ 1/2-1/2

@@ -1,0 +1,22 @@
+[Event "corr Perfors mem"]
+[Site "corr Perfors mem"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Madler"]
+[Black "Endzelins"]
+[Result "1-0"]
+[ECO "B33"]
+[Opening "Sicilian"]
+[Variation "Pelikan (Lasker/Sveshnikov) variation"]
+[HashCode "c59f76e5"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 h6 7. Nd6+
+Bxd6 8. Qxd6 Qe7 9. Qxe7+ Kxe7 10. Be3 d6 11. f3 Be6 12. O-O-O Rhd8 13. g4
+Rac8 14. h4 Ne8 15. Rh2 Nc7 16. Rhd2 b6 17. Nd5+ Bxd5 18. exd5 Nb8 19. c4
+Nd7 20. b4 f6 21. Kb2 Ne8 22. Rc1 Rc7 23. Rdc2 Rdc8 24. Bd3 Rb8 25. Bf5
+Rcb7 26. Kc3 Rc7 27. Kd3 Rbb7 28. Ke4 Nf8 29. h5 Nd7 30. Rc3 Rb8 31. Bf2
+Rbc8 32. Kd3 Rb8 33. Kd2 Rbc8 34. Be3 Rb8 35. Bc2 Rd8 36. Ba4 Rdc8 37. Bc6
+Nb8 38. Ra3 Nxc6 39. dxc6 Ke6 40. b5 Rd8 41. Rd3 f5 42. gxf5+ Kxf5 43. a4
+Nf6 44. c5 bxc5 45. Bxc5 Ke6 46. Bxa7 Rxa7 47. b6 1-0
+

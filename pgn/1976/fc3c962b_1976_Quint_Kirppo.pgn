@@ -1,0 +1,19 @@
+[Event "corr SWE/M"]
+[Site "corr SWE/M"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Quint, Arne"]
+[Black "Kirppo"]
+[Result "0-1"]
+[ECO "B89"]
+[Opening "Sicilian"]
+[Variation "Velimirovic attack"]
+[HashCode "fc3c962b"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bc4 e6 7. Be3 Be7
+8. Qe2 O-O 9. O-O-O Qc7 10. Bb3 a6 11. Rhg1 Nd7 12. g4 Nc5 13. g5 b5 14.
+Qh5 b4 15. Rg3 Nxb3+ 16. axb3 bxc3 17. f4 g6 18. Qh6 cxb2+ 19. Kxb2 f5 20.
+Rd3 Nxd4 21. Bxd4 e5 22. fxe5 dxe5 23. Rc3 Qa5 24. Rc6 Rf7 25. Rh3 Rg7 26.
+Bc3 Qb5 27. Rxc8+ Rxc8 28. exf5 Bb4 29. Bxb4 Qxb4 30. fxg6 Rxc2+ 0-1
+

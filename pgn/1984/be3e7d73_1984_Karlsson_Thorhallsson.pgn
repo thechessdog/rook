@@ -1,0 +1,26 @@
+[Event "Reykjavik"]
+[Site "Reykjavik"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Karlsson, Agust S"]
+[Black "Thorhallsson, Throstur"]
+[Result "1-0"]
+[ECO "A00"]
+[Opening "Benko's opening"]
+[HashCode "be3e7d73"]
+[Epoch "Rook"]
+[WhiteID "2300419"]
+[WhiteCountry "ISL"]
+[BlackID "2300109"]
+[BlackCountry "ISL"]
+
+1. g3 e5 2. Bg2 Nf6 3. Nf3 Nc6 4. O-O Be7 5. d4 e4 6. Ne5 d6 7. Nxc6 bxc6 8. c4
+O-O 9. d5 cxd5 10. cxd5 Bf5 11. Nc3 Qd7 12. Qd4 Rfe8 13. Qc4 Rab8 14. b3 a5 15.
+Bf4 Rec8 16. Qc6 Qxc6 17. dxc6 Rb6 18. Rac1 Kf8 19. f3 exf3 20. Bxf3 h6 21. Be3
+Rbb8 22. Bd4 Be6 23. Kg2 Ng4 24. Bd5 Bf6 25. Bxe6 fxe6 26. h3 Ke7 27. Ba7 Ra8
+28. Nb5 Rxa7 29. Nxa7 Ne3+ 30. Kf3 Ra8 31. Kxe3 Bg5+ 32. Kd3 Bxc1 33. Rxc1 Rxa7
+34. Kc4 Ra8 35. a3 Ra6 36. Kb5 Rb6+ 37. Ka4 d5 38. b4 axb4 39. axb4 Kd6 40. b5
+Rb8 41. Kb4 Rf8 42. Re1 g5 43. e4 d4 44. Rd1 e5 45. Rc1 Rf2 46. Kc4 Rf3 47. Kb4
+Rf2 48. Kc4 h5 49. Kb4 d3 50. Rd1 d2 51. Ka5 Kc5 52. Ka6 h4 53. b6 cxb6 54. c7
+Rf8 55. Rxd2 Rc8 56. gxh4 gxh4 57. Kb7 Rxc7+ 58. Kxc7 b5 59. Rd5+ Kc4 60. Rxe5
+b4 61. Kc6 1-0

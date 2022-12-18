@@ -1,0 +1,17 @@
+[Event "Plymouth ch-MI op"]
+[Site "Plymouth ch-MI op"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Fuson, J."]
+[Black "Brattin, B."]
+[Result "0-1"]
+[ECO "C68"]
+[Opening "Ruy Lopez"]
+[Variation "exchange variation"]
+[HashCode "6e068844"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. d3 Bc5 6. Nxe5 Qd4 7. Ng4
+Bxg4 8. Qxg4 Qxf2+ 9. Kd1 Nf6 10. Qxg7 Rg8 11. Qh6 Rxg2 12. Qd2 Qf3+ 13.
+Ke1 Bf2+ 14. Kf1 Bg3+ 0-1
+

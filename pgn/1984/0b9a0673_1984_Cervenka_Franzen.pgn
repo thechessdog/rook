@@ -1,0 +1,18 @@
+[Event "Tirnavia-B"]
+[Site "Trnava"]
+[Date "1984.??.??"]
+[Round "1"]
+[White "Cervenka, Imrich"]
+[Black "Franzen, Jozef"]
+[Result "1/2-1/2"]
+[ECO "E14"]
+[Opening "Queen's Indian"]
+[Variation "4.e3"]
+[HashCode "0b9a0673"]
+[Epoch "Rook"]
+[BlackID "14900181"]
+[BlackCountry "SVK"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. e3 Bb7 5. Bd3 d5 6. O-O Bd6 7. Nc3 Nbd7 8. Qc2
+c5 9. cxd5 exd5 10. e4 c4 11. e5 cxd3 12. Qxd3 Be7 13. exf6 Nxf6 14. Qb5+ Kf8
+15. Bg5 h6 16. Bh4 Rc8 17. Rac1 g6 18. Ne5 Kg7 19. Ne2 Qd6 20. f4 1/2-1/2

@@ -1,0 +1,18 @@
+[Event "Wijk aan Zee"]
+[Site "Wijk aan Zee"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Van Wijgerden, Cor"]
+[Black "van Scheltinga, Theo Daniel"]
+[Result "1-0"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Grand Prix attack"]
+[HashCode "deb81a22"]
+[Epoch "Rook"]
+[BlackCountry "NLD"]
+
+1. e4 c5 2. f4 e6 3. Nf3 d5 4. exd5 exd5 5. Bb5+ Bd7 6. Bxd7+ Nxd7 7. O-O Bd6
+8. Nc3 Ne7 9. d4 a6 10. Be3 c4 11. Ne5 Nf6 12. f5 O-O 13. Bg5 Ne4 14. Nxe4 dxe4
+15. Qg4 Bxe5 16. dxe5 Qd4+ 17. Kh1 Nd5 18. Qg3 Rfe8 19. e6 fxe6 20. Rad1 Qb6
+21. f6 Rf8 22. fxg7 Rxf1+ 23. Rxf1 Qc7 24. Qxc7 Nxc7 25. Bh6 1-0

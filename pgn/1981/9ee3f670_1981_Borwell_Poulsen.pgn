@@ -1,0 +1,20 @@
+[Event "corr SCO-DEN"]
+[Site "corr SCO-DEN"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Borwell, A."]
+[Black "Poulsen, Allan"]
+[Result "1-0"]
+[ECO "D90"]
+[Opening "Gruenfeld"]
+[Variation "Three knights variation"]
+[HashCode "9ee3f670"]
+[Epoch "Rook"]
+[BlackID "1400533"]
+[BlackCountry "DEN"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. cxd5 Nxd5 6. Bd2 O-O 7. Rc1 Nb6 8.
+Bg5 h6 9. Bh4 g5 10. Bg3 c5 11. d5 e6 12. d6 Nc6 13. e3 e5 14. Bb5 Re8 15. h4
+g4 16. Nd2 f5 17. O-O Qxd6 18. Nc4 Qg6 19. Nd5 Nxd5 20. Qxd5+ Be6 21. Qxc5 Bf8
+22. Nxe5 Qg7 23. Qc3 Bb4 24. Qc2 Bf8 25. Nxc6 bxc6 26. Bxc6 Rac8 27. Qa4 Red8
+28. Rc2 1-0

@@ -1,0 +1,22 @@
+[Event "Bundesliga 8081"]
+[Site "Duitsland tt"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Budde, Vladimir"]
+[Black "Schuh, Hubert"]
+[Result "1-0"]
+[ECO "A35"]
+[Opening "English"]
+[Variation "symmetrical, four knights system"]
+[HashCode "3b334c03"]
+[Epoch "Rook"]
+[WhiteID "4602056"]
+[WhiteCountry "GER"]
+[BlackID "4600894"]
+[BlackCountry "GER"]
+
+1. Nf3 Nf6 2. c4 c5 3. Nc3 Nc6 4. e3 e6 5. d4 cxd4 6. exd4 d5 7. c5 Be7 8. Bb5
+Nd7 9. O-O O-O 10. Rb1 Bf6 11. b4 Kh8 12. Re1 g5 13. h3 Rg8 14. Bxc6 bxc6 15.
+Ne5 Bxe5 16. dxe5 Ba6 17. Qd4 Rg6 18. a4 g4 19. Bf4 gxh3 20. g3 Qh4 21. Kh2 Qh5
+22. Re3 Qf5 23. b5 Bb7 24. Rc1 h5 25. Ne4 dxe4 26. Qxd7 Rb8 27. bxc6 Bc8 28. c7
+Rb2 29. Qxc8+ Kh7 30. Rf1 h4 31. Qd8 hxg3+ 32. Bxg3 1-0

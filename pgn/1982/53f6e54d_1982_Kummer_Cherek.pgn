@@ -1,0 +1,20 @@
+[Event "corr DDR/FS"]
+[Site "corr DDR/FS"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Kummer, P."]
+[Black "Cherek, G."]
+[Result "0-1"]
+[ECO "E52"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line with ...b6"]
+[HashCode "53f6e54d"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 b6 7. O-O Bb7 8.
+cxd5 exd5 9. Bd2 Nbd7 10. Rc1 a6 11. Ne5 Nxe5 12. dxe5 Nd7 13. e6 Nf6 14.
+Ne2 Bd6 15. Nd4 Ne4 16. Bxe4 dxe4 17. Qg4 fxe6 18. Qxe6+ Kh8 19. Qg4 Rf6
+20. Bc3 Rg6 21. Qh5 Rg5 22. Qe2 Qd7 23. f4 exf3 24. Nxf3 Qh3 25. Kh1 Qg4
+26. Rf2 Rh5 27. Rcf1 Kg8 28. Qc2 Bxh2 29. Re2 Bg3+ 30. Kg1 Bxf3 31. Rxf3
+Rh1+ 32. Kxh1 Qh4+ 33. Kg1 Qh2+ 34. Kf1 Qh1# 0-1
+

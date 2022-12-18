@@ -1,0 +1,18 @@
+[Event "Schilde"]
+[Site "Schilde"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "De Wit"]
+[Black "Scholz, Jutta"]
+[Result "1-0"]
+[ECO "C84"]
+[Opening "Ruy Lopez"]
+[Variation "closed, centre attack"]
+[HashCode "09ba626b"]
+[Epoch "Rook"]
+[BlackID "24685631"]
+[BlackCountry "GER"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. d4 exd4 7. Re1 b5 8. Bb3
+d6 9. Bd5 Bb7 10. Nxd4 Qd7 11. Nf5 O-O 12. Qf3 Ne5 13. Qg3 Nh5 14. Qh3 Bxd5 15.
+exd5 Nf6 16. f4 1-0

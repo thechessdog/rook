@@ -1,0 +1,17 @@
+[Event "KNSB"]
+[Site "KNSB"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Garceran, D."]
+[Black "Fokma, W."]
+[Result "1-0"]
+[ECO "B32"]
+[Opening "Sicilian"]
+[Variation "Labourdonnais-Loewenthal (Kalashnikov) variation"]
+[HashCode "91fa9a53"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e5 5. Nb5 d6 6. N1c3 a6 7. Na3 Nf6
+8. f3 b5 9. Nd5 Be6 10. c4 bxc4 11. Nxc4 Bxd5 12. exd5 Ne7 13. Qa4+ Qd7 14.
+Nxd6+ Kd8 15. Nxf7+ Ke8 16. Qxd7+ Nxd7 17. Nxh8 1-0
+

@@ -1,0 +1,21 @@
+[Event "corr GB"]
+[Site "corr GB"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Webb, Simon"]
+[Black "Penrose, Jonathan"]
+[Result "0-1"]
+[ECO "B81"]
+[Opening "Sicilian"]
+[Variation "Scheveningen, Keres attack"]
+[HashCode "3b1a2aa1"]
+[Epoch "Rook"]
+[WhiteCountry "ENG"]
+[BlackID "400360"]
+[BlackCountry "ENG"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. g4 Nc6 7. g5 Nd7 8. Ndb5
+Ndb8 9. a4 a6 10. Na3 Be7 11. Nc4 Ne5 12. h4 Nbc6 13. Be3 Nxc4 14. Bxc4 Bd7 15.
+f4 Qa5 16. O-O h6 17. Qe2 hxg5 18. hxg5 f5 19. Bd3 d5 20. exf5 exf5 21. Rfe1
+O-O-O 22. Bb5 d4 23. Nd5 dxe3 24. Bxc6 Bc5 25. Bxd7+ Rxd7 26. Red1 Rh4 27. b4
+Qd8 28. Qc4 Qh8 29. Qxc5+ Kb8 30. Kf1 Rh2 31. Qxe3 Rh1+ 0-1

@@ -1,0 +1,28 @@
+[Event "Bogota"]
+[Site "Bogota"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Minaya, Juan"]
+[Black "Campora, Daniel H."]
+[Result "0-1"]
+[ECO "A07"]
+[Opening "Reti"]
+[Variation "King's Indian attack, Keres variation"]
+[HashCode "da7ff1d7"]
+[Epoch "Rook"]
+[WhiteID "4400283"]
+[WhiteCountry "COL"]
+[BlackID "100013"]
+[BlackCountry "ARG"]
+
+1. Nf3 d5 2. g3 Bg4 3. Bg2 Nd7 4. c4 c6 5. cxd5 cxd5 6. Nc3 e6 7. Qb3 Qb6 8.
+Qxb6 Nxb6 9. Nb5 Kd8 10. d3 a6 11. Nbd4 Bxf3 12. Nxf3 Bb4+ 13. Bd2 Bxd2+ 14.
+Kxd2 Ne7 15. Nd4 Kd7 16. Rac1 Rhc8 17. Rxc8 Rxc8 18. Rc1 Rb8 19. Nb3 Kd6 20.
+Nc5 Nc6 21. e3 g5 22. f4 gxf4 23. gxf4 Rg8 24. Bf3 Kc7 25. Ke2 Nc8 26. Kf2 Nd6
+27. a3 a5 28. Bh5 b6 29. Nb3 Kd7 30. Nd2 f6 31. Nf3 Rg7 32. h3 Rg8 33. Nh2 d4
+34. e4 a4 35. Bf3 Na5 36. Ng4 Rf8 37. Ke2 Nb3 38. Rc2 h5 39. Nf2 Nc5 40. Bxh5
+Rh8 41. Bf3 Rh4 42. Rc1 Rxf4 43. Rg1 Rh4 44. Rg7+ Kd8 45. Bg2 e5 46. Ra7 Nc8
+47. Rf7 Nd7 48. Bf3 Ke8 49. Rg7 Ne7 50. Rg1 Kf7 51. Rc1 Nc5 52. Rc4 Ng6 53. Bg4
+Nf4+ 54. Kd2 Rh8 55. Rb4 Rb8 56. Rc4 Ke7 57. Be2 Ng2 58. Ng4 Rh8 59. Rb4 Rxh3
+60. Rxb6 Nb3+ 61. Kc2 Rh1 62. Rb7+ Kd6 63. Rxb3 axb3+ 64. Kxb3 Re1 65. Bf3 Nh4
+66. Nh2 Nxf3 67. Nxf3 Re3 68. Nh4 Rxd3+ 69. Kc4 Rd2 70. Nf5+ Kc6 0-1

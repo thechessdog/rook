@@ -1,0 +1,23 @@
+[Event "corr ol8"]
+[Site "corr ol8"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Kretschmar, H."]
+[Black "Seres"]
+[Result "0-1"]
+[ECO "E77"]
+[Opening "King's Indian"]
+[Variation "Four pawns attack"]
+[HashCode "bc91a1af"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 c5 3. d5 d6 4. Nc3 g6 5. e4 Bg7 6. f4 O-O 7. Nf3 e6 8. Be2
+exd5 9. cxd5 Bg4 10. O-O Bxf3 11. Bxf3 Nbd7 12. Re1 a6 13. e5 dxe5 14. fxe5
+Ne8 15. Bf4 Nc7 16. Qd2 Re8 17. d6 Ne6 18. Nd5 Nxf4 19. Ne7+ Rxe7 20. dxe7
+Qxe7 21. Qxf4 Nxe5 22. Rad1 Rc8 23. Bd5 c4 24. Kf1 b5 25. Re2 Kh8 26. Rde1
+f6 27. h4 h5 28. Be4 Qf7 29. Rd1 c3 30. Bd5 Qf8 31. bxc3 Rxc3 32. Be6 Kh7
+33. Qd4 Rc6 34. Bd5 Rc5 35. Be6 Rc6 36. Qd5 Rc4 37. Rd4 Rc1+ 38. Rd1 Qb4
+39. g3 Rc3 40. Qd6 Rf3+ 41. Rf2 Rxf2+ 42. Kxf2 Qc3 43. Kg2 Qc2+ 44. Qd2
+Qe4+ 45. Kh3 Nf3 46. Qd5 Qe2 47. Rh1 Kh6 48. Bc8 g5 49. hxg5+ Nxg5+ 50. Kh4
+b4 51. Qf5 Qg2 0-1
+

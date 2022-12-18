@@ -1,0 +1,24 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Sandahl, Jan"]
+[Black "Brondum, Eric"]
+[Result "0-1"]
+[ECO "B99"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7...Be7 main line"]
+[HashCode "6708dd04"]
+[Epoch "Rook"]
+[WhiteID "1441574"]
+[BlackID "1400894"]
+[WhiteCountry "DEN"]
+[BlackCountry "DEN"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3
+Qc7 9. O-O-O Nbd7 10. Bd3 h6 11. Bh4 g5 12. fxg5 Ne5 13. Qe2 hxg5 14. Bxg5 Qc5
+15. Bxf6 Bxf6 16. Nb3 Qc7 17. h4 Bd7 18. Qf2 Bg7 19. Kb1 O-O-O 20. Qa7 Bf6 21.
+Bxa6 bxa6 22. Qa8+ Qb8 23. Qxa6+ Qb7 24. Qxb7+ Kxb7 25. Rxd6 Nc4 26. Nc5+ Kc7
+27. Rxd7+ Rxd7 28. Nxd7 Kxd7 29. h5 Rb8 30. Na4 Nxb2 31. Nxb2 Rxb2+ 32. Kc1
+Rxa2 33. Kd2 Kd6 34. h6 Ra8 35. Kd3 Rg8 36. h7 Rg3+ 37. Ke2 Bh8 38. Rd1+ Ke7
+39. Kf2 Rc3 40. Rb1 Rxc2+ 41. Kf3 Rc3+ 42. Kf4 Kf6 43. g4 e5# 0-1

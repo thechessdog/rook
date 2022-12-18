@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Heyland, W."]
+[Black "Darmogray, P."]
+[Result "0-1"]
+[ECO "D26"]
+[Opening "QGA"]
+[Variation "classical, Furman variation"]
+[HashCode "14f6cf73"]
+[Epoch "Rook"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. e3 e6 5. Bxc4 c5 6. Qe2 a6 7. dxc5 Bxc5
+8. O-O Nc6 9. e4 b5 10. e5 bxc4 11. exf6 gxf6 12. Rd1 Qb6 13. Nc3 Bb7 14.
+Ne4 Nb4 15. Nxf6+ Ke7 16. Nd4 Kxf6 17. Qh5 h6 18. Bxh6 Rag8 19. Qh4+ Kg6
+20. Qg5+ Kh7 21. Qh5 Rxg2+ 22. Kf1 Kg8 0-1
+

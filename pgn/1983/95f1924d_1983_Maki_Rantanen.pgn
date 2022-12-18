@@ -1,0 +1,20 @@
+[Event "Poutiainen mem"]
+[Site "Helsinki"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Maki, Veijo"]
+[Black "Rantanen, Yrjo A."]
+[Result "0-1"]
+[ECO "C64"]
+[Opening "Ruy Lopez"]
+[Variation "Cordel gambit"]
+[HashCode "95f1924d"]
+[Epoch "Rook"]
+[BlackID "500038"]
+[BlackCountry "FIN"]
+[WhiteID "500046"]
+[WhiteCountry "FIN"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. c3 f5 5. d4 fxe4 6. Nxe5 Nxe5 7. Qh5+ Ng6 8.
+dxc5 Nf6 9. Qe2 O-O 10. O-O d5 11. cxd6 Qxd6 12. h3 Kh8 13. Bg5 Qe5 14. Be3 Nh5
+15. Ba4 Ngf4 16. Qb5 Qf6 17. Kh2 Nxg2 0-1

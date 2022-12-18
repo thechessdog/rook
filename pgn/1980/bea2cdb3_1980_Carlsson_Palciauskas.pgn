@@ -1,0 +1,23 @@
+[Event "corr ICCF"]
+[Site "corr ICCF"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Carlsson, I."]
+[Black "Palciauskas, V."]
+[Result "0-1"]
+[ECO "C59"]
+[Opening "two knights defence"]
+[Variation "Steinitz variation"]
+[HashCode "bea2cdb3"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 Na5 6. Bb5+ c6 7. dxc6
+bxc6 8. Be2 h6 9. Nh3 Bc5 10. O-O O-O 11. d3 Nb7 12. Nc3 Nd5 13. Kh1 Bxh3
+14. gxh3 f5 15. f4 Nxf4 16. Bxf4 exf4 17. Rxf4 Be3 18. Rc4 Qd6 19. Qf1 Rae8
+20. h4 g5 21. hxg5 hxg5 22. Qg2 Re6 23. Bf3 Na5 24. Ra4 Rh6 25. Rxa5 Bf4
+26. h3 Rh4 27. Re1 Qh6 28. Kg1 Rxh3 29. Kf1 Rh2 30. Qg1 Rxc2 31. Ne2 Bd2
+32. Rxa7 g4 33. Nd4 Rxb2 34. Nxc6 Qh3+ 35. Qg2 Bxe1 36. Bd5+ Kh8 37. Qxh3+
+gxh3 38. Ne5 Rf6 39. Nf7+ Kg7 40. Kxe1 h2 41. Ne5+ Kh6 42. a4 Re6 43. d4
+Rb4 44. a5 Rxe5+ 45. dxe5 Re4+ 46. Bxe4 fxe4 47. e6 h1=Q+ 48. Kd2 Qh2+ 49.
+Ke3 Qg3+ 50. Kd4 Qd3+ 51. Kc5 e3 0-1
+

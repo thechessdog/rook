@@ -1,0 +1,27 @@
+[Event "Santiago"]
+[Site "Santiago"]
+[Date "1981.??.??"]
+[Round "8"]
+[White "Cifuentes Parada, Roberto"]
+[Black "Van Riemsdijk, Herman C"]
+[Result "1-0"]
+[ECO "C99"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Chigorin, 12...c5d4"]
+[HashCode "cdec23d3"]
+[Epoch "Rook"]
+[WhiteID "2253488"]
+[WhiteCountry "ESP"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. h3 Na5 10. Bc2 c5 11. d4 Qc7 12. Nbd2 cxd4 13. cxd4 Bb7 14. Nf1 Rac8 15.
+Bd3 d5 16. exd5 e4 17. Bxe4 Nxe4 18. Rxe4 Bxd5 19. Re1 Qb7 20. Ne3 Bxf3 21.
+Qxf3 Qxf3 22. gxf3 Rfd8 23. Rd1 Bf6 24. Bd2 Nc6 25. d5 Ne5 26. Ba5 Rd7 27. Rac1
+Rxc1 28. Rxc1 g6 29. Rc8+ Kg7 30. b3 Nxf3+ 31. Kg2 Nh4+ 32. Kg3 Nf5+ 33. Nxf5+
+gxf5 34. Rc6 Rxd5 35. Rxa6 Rc5 36. Bd2 Rc2 37. Bh6+ Kxh6 38. Rxf6+ Kg5 39. Rxf7
+Rxa2 40. h4+ Kg6 41. Rb7 Rd2 42. Rb6+ Kh5 43. Rxb5 Kg6 44. Rb4 Rd3+ 45. f3 Kh5
+46. Rb5 Kg6 47. Rb4 Kh5 48. Rb7 Kg6 49. Kf4 Rd4+ 50. Ke5 Rd3 51. Rb6+ Kh5 52.
+Kf4 Rc3 53. Rb7 Kg6 54. b4 Rd3 55. Rb6+ Kh5 56. Rb7 Kg6 57. b5 Rb3 58. h5+ Kxh5
+59. Rxh7+ Kg6 60. Rb7 Kf6 61. Rb8 Rb4+ 62. Kg3 Ke5 63. b6 Kd5 64. b7 Kc6 65. f4
+Rb1 66. Kh4 Rg1 67. Kh5 Kc7 68. Rf8 Kxb7 69. Rxf5 Kc6 70. Re5 Kd6 71. Re2 Kd7
+72. f5 Rg8 73. Kh6 1-0

@@ -1,0 +1,19 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Haase"]
+[Black "Siegl"]
+[Result "0-1"]
+[ECO "B96"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Polugayevsky variation"]
+[HashCode "389ae9b7"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 b5 8.
+e5 dxe5 9. fxe5 Qc7 10. Nf3 b4 11. Nb5 axb5 12. exf6 Nd7 13. Bxb5 Ra5 14.
+Qe2 gxf6 15. Bxf6 Rg8 16. Nd4 Qb6 17. Bc6 Rg6 18. Bh8 Be7 19. O-O-O Rxa2
+20. Kb1 Ra7 21. Qb5 Qa6 22. Qxa6 Rxa6 23. Be4 Rg8 24. Nb5 Nc5 25. Nc7+ Kf8
+26. Be5 Nxe4 27. Rhe1 Rd6 28. Bxd6 Nxd6 29. g3 Rg4 30. Re3 Rc4 0-1
+

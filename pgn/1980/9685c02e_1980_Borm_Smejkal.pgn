@@ -1,0 +1,24 @@
+[Event "IBM-B"]
+[Site "Amsterdam II"]
+[Date "1980.06.01"]
+[Round "1"]
+[White "Borm, Franciscus WM"]
+[Black "Smejkal, Jan"]
+[Result "0-1"]
+[ECO "C55"]
+[Opening "Two knights defence (Modern bishop's opening)"]
+[HashCode "9685c02e"]
+[Epoch "Rook"]
+[BlackID "300020"]
+[BlackCountry "CZE"]
+[WhiteCountry "NLD"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d3 Be7 5. Nc3 d6 6. Nd5 Nxd5 7. exd5 Nb8 8.
+O-O Bg4 9. Re1 O-O 10. d4 exd4 11. Qxd4 Bxf3 12. gxf3 Nd7 13. f4 Bf6 14. Qd1
+Nc5 15. c3 Qd7 16. Qf3 Rfe8 17. Bd2 Qf5 18. Rxe8+ Rxe8 19. Re1 Rxe1+ 20. Bxe1
+Be5 21. b4 Ne4 22. Bd3 Ng5 23. Qg3 Qxf4 24. Qxf4 Nh3+ 25. Kf1 Nxf4 26. Be4 g6
+27. c4 f5 28. Bc2 Kf7 29. Bd2 Kf6 30. a4 g5 31. a5 g4 32. b5 Ng6 33. b6 cxb6
+34. axb6 axb6 35. Be3 Bxh2 36. Bxb6 Ne5 37. c5 dxc5 38. Bxc5 Nc4 39. Bd3 Nd6
+40. Kg2 Be5 41. Bb6 Nf7 42. Bb5 h5 43. Bd7 h4 44. Kg1 h3 45. Bc5 Nd6 46. Bb6
+Kg5 47. Bc5 Ne4 48. Bb6 Bd6 49. Bc8 Bc5 50. Bxc5 Nxc5 51. d6 b5 52. d7 Ne6 53.
+Ba6 b4 54. Bc4 Nd8 55. Bb3 f4 0-1

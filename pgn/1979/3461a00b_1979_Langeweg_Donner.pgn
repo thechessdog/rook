@@ -1,0 +1,18 @@
+[Event "Leeuwarden ch-NED"]
+[Site "Leeuwarden ch-NED"]
+[Date "1979.04.01"]
+[Round "1"]
+[White "Langeweg, Kick"]
+[Black "Donner, Jan Hein"]
+[Result "0-1"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "4.Nf3"]
+[HashCode "3461a00b"]
+[Epoch "Rook"]
+[WhiteID "1000160"]
+[WhiteCountry "NED"]
+[BlackCountry "NLD"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 e6 4. Nc3 Be7 5. Bg5 O-O 6. Qc2 h6 7. Bxf6 Bxf6 8. e4
+dxe4 9. Qxe4 c5 10. O-O-O Nc6 11. Bd3 g6 12. Ne5 Qxd4 0-1

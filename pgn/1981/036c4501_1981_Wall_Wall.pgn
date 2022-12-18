@@ -1,0 +1,18 @@
+[Event "Dayton,OH"]
+[Site "Dayton,OH"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Wall, Lois"]
+[Black "Wall, Bill"]
+[Result "0-1"]
+[ECO "B24"]
+[Opening "Sicilian"]
+[Variation "closed"]
+[HashCode "036c4501"]
+[Epoch "Rook"]
+[BlackCountry "USA"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. Nf3 e5 6. d3 d6 7. O-O Nge7 8. Be3
+O-O 9. Re1 Nd4 10. Qd2 Nxf3+ 11. Bxf3 f5 12. Nd5 Nxd5 13. exd5 f4 14. gxf4 exf4
+15. Bxf4 Bxb2 16. Rab1 Bc3 17. Qxc3 Rxf4 18. Re3 Qg5+ 19. Kf1 Bh3+ 20. Ke2 Raf8
+21. Rxb7 R4f7 22. Rb5 Qg1 23. a4 Qc1 24. a5 Bf1# 0-1

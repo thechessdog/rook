@@ -1,0 +1,24 @@
+[Event "Hillerod"]
+[Site "Hillerod"]
+[Date "1980.01.01"]
+[Round "6"]
+[White "Jensen, Allan"]
+[Black "Hoi, Carsten"]
+[Result "0-1"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack"]
+[HashCode "c66385a1"]
+[Epoch "Rook"]
+[BlackID "1400100"]
+[BlackCountry "DEN"]
+[WhiteID "1401181"]
+[WhiteCountry "DEN"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. f4 Nf6 5. Nf3 O-O 6. Be2 c5 7. dxc5 Qa5 8. O-O
+Qxc5+ 9. Kh1 Nbd7 10. Nd2 a6 11. Nb3 Qc7 12. a4 b6 13. Bf3 Bb7 14. Be3 Rac8 15.
+Qe1 e5 16. f5 gxf5 17. exf5 d5 18. Qg3 Kh8 19. Rad1 d4 20. Nxd4 exd4 21. Bf4
+Qc4 22. Bxb7 dxc3 23. b3 Qe2 24. Bxc8 Rxc8 25. Qd3 Qg4 26. h3 Qh5 27. Qxa6 Re8
+28. Qb5 Qe2 29. Qd3 Nc5 30. Qxc3 Nfe4 31. Qc4 Qxc4 32. bxc4 Nxa4 33. Rd7 Kg8
+34. Ra7 Nb2 35. Rfa1 Nxc4 36. Ra8 Ncd6 37. R1a4 Kf8 38. f6 Bxf6 39. Rxe4 Nxe4
+40. Bh6+ Ke7 0-1

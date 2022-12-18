@@ -1,0 +1,23 @@
+[Event "Pamporovo"]
+[Site "Pamporovo"]
+[Date "1981.01.01"]
+[Round "13"]
+[White "Lukov, Valentin"]
+[Black "Ornstein, Axel"]
+[Result "0-1"]
+[ECO "E44"]
+[Opening "Nimzo-Indian"]
+[Variation "Fischer variation, 5.Ne2"]
+[HashCode "9fe5d968"]
+[Epoch "Rook"]
+[WhiteID "2900157"]
+[WhiteCountry "FID"]
+[BlackID "1700111"]
+[BlackCountry "SWE"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 b6 5. Ne2 Bb7 6. a3 Be7 7. d5 O-O 8. e4 Re8
+9. g3 b5 10. cxb5 Nxe4 11. Bg2 exd5 12. Nxd5 Bc5 13. O-O c6 14. Ndc3 cxb5 15.
+Nxe4 Rxe4 16. Qd3 Qe7 17. Bg5 f6 18. Qb3+ Kf8 19. Nc3 d5 20. Nxe4 dxe4 21. Bf4
+Nc6 22. Qxb5 Nd4 23. Qc4 Rc8 24. Rfd1 Nf3+ 25. Kh1 Qe8 26. Rac1 g5 27. Qb3 Bb6
+28. Rxc8 Bxc8 29. Bd6+ Kg7 30. Bxf3 exf3 31. Qxf3 h5 32. Qd5 Qe2 33. f3 g4 34.
+b4 gxf3 35. Qd2 Bb7 36. Bf8+ Kg8 0-1

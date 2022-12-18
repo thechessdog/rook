@@ -1,0 +1,20 @@
+[Event "Yaroslavl"]
+[Site "Yaroslavl"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Loginov, Valery A"]
+[Black "Lukin, Andrei M"]
+[Result "0-1"]
+[ECO "D02"]
+[Opening "Queen's pawn game, Krause variation"]
+[HashCode "c31ccd6c"]
+[Epoch "Rook"]
+[WhiteID "4126297"]
+[WhiteCountry "RUS"]
+[BlackID "4101251"]
+[BlackCountry "RUS"]
+
+1. Nf3 d5 2. d4 c5 3. c4 dxc4 4. d5 Nf6 5. Nc3 Bf5 6. e3 e6 7. Bxc4 exd5 8.
+Nxd5 Bd6 9. Nxf6+ Qxf6 10. e4 Bxe4 11. Qe2 Kd7 12. Ng5 Bg6 13. O-O Nc6 14. Be3
+Rhe8 15. Rfd1 Kc7 16. Nf3 Bf4 17. Qd2 Bxe3 18. Qd7+ Kb6 19. a4 a5 20. fxe3 Rad8
+21. Qg4 Re4 0-1

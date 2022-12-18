@@ -1,0 +1,25 @@
+[Event "Odessa"]
+[Site "Odessa"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Lerner, Konstantin Z"]
+[Black "Ignatiev, Felix N"]
+[Result "1-0"]
+[ECO "B15"]
+[Opening "Caro-Kann"]
+[Variation "Forgacs variation"]
+[HashCode "4809469f"]
+[Epoch "Rook"]
+[BlackID "4103106"]
+[BlackCountry "RUS"]
+[WhiteCountry "UKR"]
+
+1. e4 c6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Nf6 5. Nxf6+ exf6 6. Bc4 Bd6 7. Qe2+ Qe7
+8. Qxe7+ Kxe7 9. Ne2 Bf5 10. c3 b5 11. Bb3 Nd7 12. Bf4 Be6 13. O-O-O Nb6 14.
+Rhe1 Rhe8 15. Bxd6+ Kxd6 16. Nf4 g6 17. h4 a5 18. Kb1 Bxb3 19. axb3 f5 20. g3
+h6 21. Nd3 a4 22. bxa4 Rxe1 23. Rxe1 Nxa4 24. h5 c5 25. dxc5+ Nxc5 26. Nxc5
+Kxc5 27. hxg6 fxg6 28. Re5+ Kc4 29. Kc2 Ra2 30. Re6 Ra1 31. Rc6+ Kd5 32. Rxg6
+Rf1 33. f4 Rf2+ 34. Kb3 Rg2 35. Ka3 Kc4 36. Rc6+ Kd5 37. Rg6 Kc4 38. Rc6+ Kd5
+39. Rxh6 Rxg3 40. Kb4 Ke4 41. Kxb5 Kxf4 42. Rh8 Ke4 43. Re8+ Kd3 44. c4 f4 45.
+c5 f3 46. Rf8 Ke3 47. c6 f2 48. c7 Rf3 49. Re8+ Kd2 50. Rd8+ Ke1 51. c8=Q f1=Q+
+52. Ka4 Rf4+ 53. b4 Kf2 54. Qc2+ 1-0

@@ -1,0 +1,20 @@
+[Event "corr SC"]
+[Site "corr SC"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Korhonen, Lasse"]
+[Black "Lignell, Bo"]
+[Result "1-0"]
+[ECO "E43"]
+[Opening "Nimzo-Indian"]
+[Variation "Fischer variation"]
+[HashCode "cb9135b4"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 b6 5. Bd3 Bb7 6. Nf3 Na6 7. a3 Bxc3+ 8.
+bxc3 c5 9. O-O O-O 10. Re1 d6 11. e4 Qc7 12. e5 dxe5 13. dxe5 Nd7 14. Bxh7+
+Kh8 15. Ng5 g6 16. Qg4 Nxe5 17. Qh3 Kg7 18. Ne4 Bxe4 19. Qh6+ Kf6 20. Bg5+
+Kf5 21. Bh4 Nf3+ 22. gxf3 e5 23. Qg5+ Ke6 24. Qf6+ Kd7 25. Rxe4 Kc8 26.
+Rxe5 Nb8 27. Re7 Nd7 28. Qg7 Kb7 29. Rxf7 Rxf7 30. Qxf7 Rc8 31. Bxg6 Ne5
+32. Qd5+ Ka6 33. Bg3 Qg7 34. Be4 Re8 35. Qd1 1-0
+

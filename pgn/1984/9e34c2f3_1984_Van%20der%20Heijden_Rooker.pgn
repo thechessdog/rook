@@ -1,0 +1,19 @@
+[Event "SMB Int"]
+[Site "SMB Int"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Van der Heijden, H."]
+[Black "Rooker, C."]
+[Result "1-0"]
+[ECO "D86"]
+[Opening "Gruenfeld"]
+[Variation "exchange, classical variation"]
+[HashCode "9e34c2f3"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Bc4 c5
+8. Be3 O-O 9. Rc1 cxd4 10. cxd4 Nc6 11. Ne2 Na5 12. Bb5 Bd7 13. Qa4 Bxb5
+14. Qxb5 b6 15. d5 Nb7 16. Nd4 Nd6 17. Qb1 Qd7 18. O-O Rfc8 19. Nc6 e6 20.
+Rfd1 exd5 21. exd5 Nf5 22. Bf4 Re8 23. Qd3 Bh6 24. Bxh6 Nxh6 25. d6 Rac8
+26. Ne7+ Rxe7 27. Rxc8+ Kg7 28. dxe7 1-0
+

@@ -1,0 +1,20 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Keffler"]
+[Black "Broad"]
+[Result "1-0"]
+[ECO "C43"]
+[Opening "Petrov"]
+[Variation "modern attack, Trifunovic variation"]
+[HashCode "a0543d59"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nf6 3. d4 Nxe4 4. Bd3 d5 5. Nxe5 Bd6 6. O-O O-O 7. c4 Bxe5
+8. dxe5 Nc6 9. cxd5 Qxd5 10. Qc2 Nb4 11. Bxe4 Nxc2 12. Bxd5 Bf5 13. g4 Bg6
+14. f4 Bd3 15. Rd1 Ba6 16. e6 fxe6 17. Bxe6+ Kh8 18. Na3 Nxa1 19. Be3 Rfe8
+20. f5 Be2 21. Rxa1 Bxg4 22. Bd4 Rad8 23. Bc3 c6 24. Nc4 Rxe6 25. fxe6 Bxe6
+26. Ne5 Bd5 27. Rd1 Rf8 28. a3 Rf5 29. Rd3 Rg5+ 30. Rg3 Rxg3+ 31. hxg3 Kg8
+32. Kf2 Kf8 33. Ke3 g5 34. Nd7+ Kf7 35. Nf6 h6 36. Nxd5 cxd5 37. g4 1-0
+

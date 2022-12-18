@@ -1,0 +1,26 @@
+[Event "Nijmegen"]
+[Site "Nijmegen"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Van Wijgerden, Cornelis"]
+[Black "Scheeren, Peter"]
+[Result "0-1"]
+[ECO "E92"]
+[Opening "King's Indian"]
+[Variation "Andersson variation"]
+[HashCode "3d71bab6"]
+[Epoch "Rook"]
+[WhiteID "1000144"]
+[WhiteCountry "NED"]
+[BlackID "1000136"]
+[BlackCountry "NED"]
+
+1. c4 Nf6 2. Nc3 g6 3. e4 d6 4. d4 Bg7 5. Nf3 O-O 6. Be2 e5 7. dxe5 dxe5 8.
+Qxd8 Rxd8 9. Bg5 Re8 10. Nd5 Nxd5 11. cxd5 c6 12. Bc4 cxd5 13. Bxd5 Nc6 14. h3
+Nb4 15. Bb3 Be6 16. Ke2 Rac8 17. Rhc1 Bxb3 18. axb3 a6 19. Rc3 Nc6 20. Be3 f5
+21. Rd1 Rcd8 22. Rxd8 Rxd8 23. Bb6 Re8 24. Nd2 Nd4+ 25. Kd1 Bh6 26. f3 Ne6 27.
+Nc4 Nf4 28. Be3 fxe4 29. fxe4 Bf8 30. Rc2 Bb4 31. Kc1 Nd3+ 32. Kb1 Rf8 33. Nb6
+Rf1+ 34. Ka2 Re1 35. Nd5 Bf8 36. Rc7 Nb4+ 37. Nxb4 Bxb4 38. Bh6 Rxe4 39. Rg7+
+Kf8 40. Rxb7+ Ke8 41. Rxh7 Re2 42. g4 e4 43. Rg7 Bc3 44. Rxg6 Kf7 45. Rxa6
+Rxb2+ 46. Ka3 Rh2 47. Bf4 Rxh3 48. Ka4 e3 49. Ra7+ Ke6 50. Bxe3 Rxe3 51. g5 Rg3
+52. g6 Be5 0-1

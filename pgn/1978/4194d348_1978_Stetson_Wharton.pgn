@@ -1,0 +1,18 @@
+[Event "Arizona"]
+[Site "Arizona"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Stetson, R."]
+[Black "Wharton, William"]
+[Result "1-0"]
+[ECO "B18"]
+[Opening "Caro-Kann"]
+[Variation "classical variation"]
+[HashCode "4194d348"]
+[Epoch "Rook"]
+[BlackID "2003902"]
+[BlackCountry "USA"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Bd3 Qxd4 6. Nf3 Qd8 7. Qe2 Bxe4 8.
+Bxe4 Nf6 9. Bd2 Nbd7 10. O-O-O Qc7 11. Bf5 h6 12. Rhe1 O-O-O 13. Ne5 e6 14.
+Nxf7 exf5 15. Nxh8 g5 16. Nf7 1-0

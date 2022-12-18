@@ -1,0 +1,23 @@
+[Event "Belgrade"]
+[Site "Belgrade"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Suba, Mihai"]
+[Black "Cvetkovic, Srdjan"]
+[Result "1-0"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "classical variation (5.Bf4)"]
+[HashCode "bbe02389"]
+[Epoch "Rook"]
+[WhiteID "1203363"]
+[WhiteCountry "ESP"]
+[BlackID "900621"]
+[BlackCountry "SRB"]
+
+1. c4 e6 2. Nc3 d5 3. d4 Nf6 4. Nf3 Be7 5. Bf4 O-O 6. e3 c5 7. dxc5 Bxc5 8. a3
+Nc6 9. Qc2 Qa5 10. Nd2 Bb4 11. cxd5 e5 12. Bg3 Bxc3 13. dxc6 Bxd2+ 14. Qxd2
+Qxd2+ 15. Kxd2 Ne4+ 16. Ke1 Nxg3 17. hxg3 bxc6 18. Rh5 Re8 19. Kd2 a5 20. Kc3
+Ba6 21. Bxa6 Rxa6 22. Rd1 g6 23. Rh4 Rb8 24. Rd6 Rab6 25. b4 axb4+ 26. Rxb4
+Rxb4 27. axb4 Rb6 28. g4 h6 29. Kc4 Kg7 30. f3 h5 31. g5 Ra6 32. Rd2 Ra1 33.
+Rc2 Rb1 34. Kc5 Rb3 35. Rc4 Rxe3 36. Kxc6 Re2 1-0

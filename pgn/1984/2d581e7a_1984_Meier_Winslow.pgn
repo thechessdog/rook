@@ -1,0 +1,15 @@
+[Event "Dayton,OH"]
+[Site "Dayton,OH"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Meier, C."]
+[Black "Winslow, W."]
+[Result "1-0"]
+[ECO "D21"]
+[Opening "QGA"]
+[Variation "3.Nf3"]
+[HashCode "2d581e7a"]
+[Epoch "Rook"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 e6 4. e4 Nf6 5. Nc3 Bb4 6. Qa4+ c6 7. Qxb4 1-0
+

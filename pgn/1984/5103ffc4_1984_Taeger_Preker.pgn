@@ -1,0 +1,21 @@
+[Event "Bundesliga 8384"]
+[Site "Duitsland tt"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Taeger, Winfried"]
+[Black "Preker, Hans Juergen"]
+[Result "0-1"]
+[ECO "E30"]
+[Opening "Nimzo-Indian"]
+[Variation "Leningrad, ...b5 gambit"]
+[HashCode "5103ffc4"]
+[Epoch "Rook"]
+[WhiteID "4602650"]
+[WhiteCountry "GER"]
+[BlackID "4607724"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Bg5 h6 5. Bh4 c5 6. d5 b5 7. Qc2 O-O 8. cxb5
+a6 9. bxa6 exd5 10. a3 Nxa6 11. O-O-O Bxc3 12. Qxc3 g5 13. Bg3 d6 14. Qc2 c4
+15. Nf3 Ne4 16. Rxd5 Re8 17. Kb1 c3 18. e3 cxb2 19. Bb5 Nc7 20. Bxe8 Nxd5 21.
+Qc6 Be6 0-1

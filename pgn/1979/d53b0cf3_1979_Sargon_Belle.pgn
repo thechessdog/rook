@@ -1,0 +1,26 @@
+[Event "ACM Detroit"]
+[Site "ACM Detroit"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Sargon 3"]
+[Black "Belle"]
+[Result "0-1"]
+[ECO "B02"]
+[Opening "Alekhine's defence"]
+[Variation "Scandinavian variation"]
+[HashCode "d53b0cf3"]
+[Epoch "Rook"]
+
+1. Nc3 d5 2. e4 Nf6 3. exd5 Nxd5 4. Nxd5 Qxd5 5. Ne2 Nc6 6. d3 e5 7. Nc3
+Bb4 8. Bd2 Bxc3 9. bxc3 Bf5 10. c4 Qd4 11. Be3 Qc3+ 12. Bd2 Qa3 13. g4 Bd7
+14. Bg2 O-O 15. O-O f5 16. Qb1 Rab8 17. gxf5 Bxf5 18. Qb5 a6 19. Qd5+ Rf7
+20. Rfb1 Rd8 21. Qf3 Nd4 22. Qd1 c6 23. Bg5 Rdf8 24. Be3 Qc3 25. Rc1 Qb2
+26. a4 Bg6 27. Rab1 Qa3 28. Ra1 Qc3 29. Bd2 Qb2 30. Rab1 Qa2 31. Ra1 Qb2
+32. Be3 Kh8 33. Rab1 Qa3 34. Ra1 Qc3 35. Bd2 Qb2 36. Rab1 Qa2 37. Ra1 Qb2
+38. Be3 Re7 39. Rab1 Qa3 40. Ra1 Qc3 41. Bd2 Qb2 42. Rab1 Qa2 43. Bb4 Rff7
+44. Ra1 Qb2 45. Rab1 Qa2 46. Bxe7 Rxe7 47. Ra1 Qb2 48. Kf1 Rf7 49. Rab1 Qa2
+50. Qe1 Nxc2 51. Qxe5 Bxd3+ 52. Kg1 Qa3 53. Qb8+ Rf8 54. Qxb7 Nd4 55. Ra1
+Qc5 56. Rd1 Bxc4 57. Kh1 Bd5 58. Bxd5 Qxd5+ 59. Kg1 Ne2+ 60. Kf1 Qf3 61.
+Ke1 Qxf2+ 62. Kd2 Rd8+ 63. Kc2 Nd4+ 64. Kd3 Nb5+ 65. Qd7 Rxd7+ 66. Kc4 Qc2+
+67. Kb4 Qc3# 0-1
+

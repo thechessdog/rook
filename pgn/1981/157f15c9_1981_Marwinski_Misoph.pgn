@@ -1,0 +1,23 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Marwinski"]
+[Black "Misoph"]
+[Result "0-1"]
+[ECO "A52"]
+[Opening "Budapest"]
+[Variation "Adler variation"]
+[HashCode "157f15c9"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ng4 4. Nf3 Bc5 5. e3 Nc6 6. a3 a5 7. b3 Ngxe5 8.
+Bb2 Qe7 9. Nc3 O-O 10. Nd5 Qd6 11. Qc2 f6 12. Nd4 Bxd4 13. exd4 Nxd4 14.
+Bxd4 c6 15. Bb2 cxd5 16. O-O-O b6 17. Rxd5 Qe7 18. h4 Bb7 19. Rd2 d5 20. f4
+Ng4 21. Bd3 dxc4 22. Bxc4+ Kh8 23. Qd1 Ne3 24. Rd7 Qe4 25. Qd3 Rac8 26.
+Qxe4 Bxe4 27. Re1 Nxc4 28. bxc4 Rxc4+ 29. Kd1 Bc6 30. Rd2 Ba4+ 31. Ke2 Rxf4
+32. Rh1 Re8+ 33. Kd3 Rd8+ 34. Kc3 Rxd2 35. Kxd2 Rf2+ 36. Kc1 Rxg2 37. Bd4
+b5 38. Bb6 b4 39. axb4 axb4 40. Bd4 Bc2 41. Re1 Kg8 42. Bc5 b3 43. Re8+ Kf7
+44. Re7+ Kg6 45. Rc7 Be4 46. Ba3 Rc2+ 47. Rxc2 Bxc2 48. Bf8 f5 49. h5+ Kxh5
+50. Bxg7 f4 51. Kd2 Kg4 0-1
+

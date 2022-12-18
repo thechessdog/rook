@@ -1,0 +1,16 @@
+[Event "corr Sokolowa mem"]
+[Site "corr Sokolowa mem"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Staszko, T."]
+[Black "Ewert, I."]
+[Result "0-1"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "modern variation"]
+[HashCode "61d55d41"]
+[Epoch "Rook"]
+
+1. b3 e5 2. Bb2 d6 3. c4 Nf6 4. Nc3 Nc6 5. e4 g6 6. f3 Bg7 7. Nge2 O-O 8.
+d4 exd4 9. Nb5 Nxe4 10. fxe4 d3 11. Nec3 a6 12. Na3 Qh4+ 13. Kd2 Bh6+ 0-1
+

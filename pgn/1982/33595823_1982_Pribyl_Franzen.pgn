@@ -1,0 +1,28 @@
+[Event "Frenstat"]
+[Site "Frenstat"]
+[Date "1982.01.01"]
+[Round "4"]
+[White "Pribyl, Josef"]
+[Black "Franzen, Jozef"]
+[Result "1-0"]
+[ECO "E18"]
+[Opening "Queen's Indian"]
+[Variation "old main line, 7.Nc3"]
+[HashCode "33595823"]
+[Epoch "Rook"]
+[WhiteID "300187"]
+[WhiteCountry "CZE"]
+[BlackID "14900181"]
+[BlackCountry "SVK"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2 Be7 6. O-O O-O 7. Nc3 Ne4 8. Bd2
+Bf6 9. Rc1 d6 10. d5 Bxc3 11. Bxc3 Nxc3 12. Rxc3 e5 13. Nd2 Nd7 14. f4 Qe7 15.
+f5 a5 16. Ne4 Nf6 17. Qd2 Nxe4 18. Bxe4 f6 19. g4 Kf7 20. g5 Rh8 21. Rg3 Rag8
+22. Kh1 Bc8 23. Rfg1 fxg5 24. Rxg5 Qf6 25. Qe3 Bd7 26. Qg3 Be8 27. b3 Kf8 28.
+Qg2 h6 29. Rg3 h5 30. Rg5 h4 31. Qg4 h3 32. Rg3 Bf7 33. Kg1 Rh7 34. e3 Ke7 35.
+Bd3 Kf8 36. Rg6 Qh4 37. f6 Qxg4 38. R6xg4 g6 39. Bxg6 Rh6 40. Bxf7 Rxg4 41.
+Rxg4 Kxf7 42. Rg7+ Kxf6 43. Rxc7 Kf5 44. Rg7 Ke4 45. Kf2 Kd3 46. Re7 Rg6 47.
+Re6 Rg2+ 48. Kf3 Rxa2 49. Rxd6 a4 50. Rxb6 axb3 51. c5 Kc4 52. Ke4 Ra4 53. Kxe5
+Rb4 54. Rxb4+ Kxb4 55. d6 b2 56. d7 b1=Q 57. d8=Q Qg1 58. Qd4+ Ka5 59. Qf4 Kb5
+60. Kf6 Qg2 61. Qe5 Qc6+ 62. Kg5 Qf3 63. c6+ Kb6 64. c7 Qg2+ 65. Kh4 Kb7 66.
+Qf4 Kc8 67. Qg3 Qd5 68. Qg5 1-0

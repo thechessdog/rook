@@ -1,0 +1,21 @@
+[Event "Montreal Open"]
+[Site "Montreal Open"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Leveille, Francois"]
+[Black "Ivanov, Igor Vasilyevich"]
+[Result "0-1"]
+[ECO "A58"]
+[Opening "Benko gambit accepted"]
+[HashCode "db1fe0bc"]
+[Epoch "Rook"]
+[WhiteID "2600307"]
+[WhiteCountry "CAN"]
+[BlackCountry "RUS"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. bxa6 Bxa6 6. Nc3 g6 7. f4 Bg7 8. Nf3
+O-O 9. e4 Bxf1 10. Rxf1 d6 11. Kf2 Na6 12. Kg1 Qb6 13. Nd2 Nb4 14. Nc4 Qa6 15.
+Qe2 Rfb8 16. Rf3 Nc2 17. Qxc2 Qxc4 18. b3 Rxb3 19. Qxb3 Qxb3 20. axb3 Rxa1 21.
+Rf1 Ng4 22. Ne2 Rb1 23. h3 Nf6 24. e5 dxe5 25. Be3 Rb2 26. Nc1 Nxd5 27. Bxc5
+Nxf4 28. Rd1 Rxg2+ 29. Kf1 Rh2 30. Rd8+ Bf8 31. Bxe7 Rh1+ 32. Kf2 Ne6 33. Rc8
+Rxc1 0-1

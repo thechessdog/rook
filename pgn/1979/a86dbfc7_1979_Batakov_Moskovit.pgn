@@ -1,0 +1,18 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Batakov, O."]
+[Black "Moskovit"]
+[Result "1-0"]
+[ECO "C13"]
+[Opening "French"]
+[Variation "Albin-Alekhine-Chatard attack"]
+[HashCode "a86dbfc7"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Nfd7 6. h4 Bxg5 7. hxg5 Qxg5
+8. Nh3 Qe7 9. Nf4 Nc6 10. Qg4 g6 11. O-O-O h5 12. Qg3 Nf8 13. Ncxd5 exd5
+14. Nxd5 Qd8 15. Nf6+ Ke7 16. Qa3+ Ke6 17. Bc4+ Kf5 18. Qf3+ Kg5 19. Qe3+
+Kf5 20. g4+ 1-0
+

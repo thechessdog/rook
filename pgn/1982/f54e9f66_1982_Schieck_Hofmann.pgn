@@ -1,0 +1,19 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Schieck, E."]
+[Black "Hofmann, F."]
+[Result "1-0"]
+[ECO "B52"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky attack, 3...Bd7"]
+[HashCode "f54e9f66"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Qxd7 5. O-O Nf6 6. e5 dxe5 7. Nxe5
+Qc7 8. d4 e6 9. Bf4 Bd6 10. Na3 Bxe5 11. dxe5 Nd5 12. Nb5 Qd7 13. Nd6+ Ke7
+14. Qh5 Kf8 15. Bg3 h6 16. Rad1 b6 17. c4 Nc7 18. Nb5 Qc8 19. Rd6 Nba6 20.
+Rfd1 Nxb5 21. Rd7 g6 22. Qf3 f5 23. exf6 Nd4 24. R1xd4 cxd4 25. Bd6+ Ke8
+26. Re7+ Kd8 27. f7 1-0
+

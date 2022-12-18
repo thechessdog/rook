@@ -1,0 +1,18 @@
+[Event "corr DDR-FSM"]
+[Site "corr DDR-FSM"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Urban, H."]
+[Black "Muller, S."]
+[Result "1-0"]
+[ECO "C10"]
+[Opening "French"]
+[Variation "Rubinstein variation"]
+[HashCode "dd7d2ce4"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Nd7 5. g4 Ngf6 6. Nxf6+ Nxf6 7. Bg2
+h6 8. h4 c5 9. g5 hxg5 10. hxg5 Rxh1 11. Bxh1 Nd5 12. Nf3 Be7 13. c4 Nb6
+14. b3 Bd7 15. Ne5 cxd4 16. Qxd4 Bxg5 17. Bxb7 Bf6 18. Bxa8 Qxa8 19. Bb2
+Qh1+ 20. Kd2 Qh2 21. Re1 Qg2 22. Re2 Qb7 23. f4 a5 24. Ba3 1-0
+

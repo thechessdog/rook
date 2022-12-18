@@ -1,0 +1,20 @@
+[Event "Banco di Roma"]
+[Site "Banco di Roma"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Martorelli, Antonio"]
+[Black "Gervasi, Giancarlo"]
+[Result "1-0"]
+[ECO "C00"]
+[Opening "French"]
+[Variation "Two knights variation"]
+[HashCode "710901ab"]
+[Epoch "Rook"]
+[WhiteID "801399"]
+[BlackID "800210"]
+[WhiteCountry "ITA"]
+[BlackCountry "ITA"]
+
+1. e4 e6 2. Nf3 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. d4 Ngf6 6. Bd3 Nxe4 7. Bxe4 Nf6
+8. Bd3 c5 9. O-O cxd4 10. Nxd4 Be7 11. b3 O-O 12. Bb2 Nd5 13. Qg4 Bf6 14. Rad1
+Qe7 15. Rfe1 g6 16. Qf3 Rd8 17. c4 Nc3 18. Bxc3 Bxd4 19. Bxg6 hxg6 20. Bxd4 1-0

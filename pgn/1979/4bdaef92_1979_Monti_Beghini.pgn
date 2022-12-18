@@ -1,0 +1,20 @@
+[Event "corr Italy"]
+[Site "corr Italy"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Monti"]
+[Black "Beghini"]
+[Result "1-0"]
+[ECO "B74"]
+[Opening "Sicilian"]
+[Variation "dragon, classical, Spielmann variation"]
+[HashCode "4bdaef92"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be2 Bg7 7. Be3 Nc6
+8. O-O O-O 9. Nb3 Be6 10. f4 Na5 11. f5 Bc4 12. Bd3 Bxd3 13. cxd3 Nxb3 14.
+axb3 d5 15. Rxa7 Rxa7 16. Bxa7 dxe4 17. fxg6 fxg6 18. dxe4 Qxd1 19. Rxd1
+Ra8 20. Bd4 Rd8 21. Bxf6 Rxd1+ 22. Nxd1 Bxf6 23. Kf2 Kf7 24. Ke3 Ke6 25.
+Nc3 Kd6 26. b4 Kc6 27. Kd3 e6 28. Kc4 Be7 29. Nb5 h5 30. Nd4+ Kd6 31. Nf3
+b6 32. e5+ Kd7 33. Kb5 Bd8 34. Nd2 Bc7 35. Nc4 Ke7 36. h3 1-0
+

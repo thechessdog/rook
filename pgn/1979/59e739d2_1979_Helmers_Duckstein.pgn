@@ -1,0 +1,22 @@
+[Event "Lucerne"]
+[Site "Lucerne"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Helmers, Knut J"]
+[Black "Dueckstein, Andreas"]
+[Result "1-0"]
+[ECO "A99"]
+[Opening "Dutch"]
+[Variation "Ilyin-Genevsky variation with b3"]
+[HashCode "59e739d2"]
+[Epoch "Rook"]
+[WhiteID "1500023"]
+[WhiteCountry "NOR"]
+[BlackID "1600168"]
+[BlackCountry "AUT"]
+
+1. Nf3 f5 2. g3 Nf6 3. Bg2 d6 4. d4 e6 5. O-O Be7 6. c4 O-O 7. Nc3 Qe8 8. b3 a5
+9. e3 Na6 10. Bb2 c6 11. Qe2 Nc7 12. Na4 b5 13. Nb6 Rb8 14. Nxc8 Qxc8 15. cxb5
+cxb5 16. d5 Ncxd5 17. Nd4 Qd7 18. Rac1 Rb6 19. Rfd1 Nc7 20. Rxc7 Qxc7 21. Nxe6
+Qc8 22. Nxf8 Qxf8 23. Bd4 Rb8 24. Ba7 Rc8 25. Qxb5 Rc2 26. Qxf5 Rxa2 27. Rc1
+Qf7 28. Bd4 1-0

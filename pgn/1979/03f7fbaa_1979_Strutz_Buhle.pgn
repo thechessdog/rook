@@ -1,0 +1,19 @@
+[Event "corr DDR-H"]
+[Site "corr DDR-H"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Strutz, M."]
+[Black "Buhle, K."]
+[Result "1-0"]
+[ECO "B64"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...Be7 defence, 9.f4"]
+[HashCode "03f7fbaa"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 e6 7. Qd2 Be7
+8. O-O-O O-O 9. f4 d5 10. e5 Nd7 11. Bxe7 Qxe7 12. g4 Nb6 13. g5 Bd7 14.
+Rg1 Rac8 15. Rg3 Nxd4 16. Qxd4 Nc4 17. Rh3 Qb4 18. Bxc4 Rxc4 19. Qd3 g6 20.
+a3 Qc5 21. Qg3 Rc8 22. Qh4 h5 23. gxh6 Kh7 24. Qf6 Qf8 25. Rg1 Bc6 26. f5
+exf5 27. e6 Rc7 28. Rxg6 1-0
+

@@ -1,0 +1,25 @@
+[Event "IBM"]
+[Site "Amsterdam"]
+[Date "1979.07.01"]
+[Round "7"]
+[White "Lein, Anatoly"]
+[Black "Sahovic, Dragutin"]
+[Result "1-0"]
+[ECO "A77"]
+[Opening "Benoni"]
+[Variation "classical, 9...Re8, 10.Nd2"]
+[HashCode "8ef971f1"]
+[Epoch "Rook"]
+[WhiteID "2000270"]
+[WhiteCountry "USA"]
+[BlackCountry "SRB"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. e4 Bg7 8. Be2
+O-O 9. O-O Re8 10. Nd2 a6 11. a4 Nbd7 12. a5 b5 13. axb6 Nxb6 14. f4 Qc7 15.
+Bf3 Rb8 16. Kh1 c4 17. Ra2 Nfd7 18. Na4 Bb7 19. Nxb6 Nxb6 20. Nb1 f5 21. exf5
+gxf5 22. Nc3 Qc5 23. Na4 Nxa4 24. Rxa4 Qb5 25. Rg1 Kh8 26. Ra3 Rbc8 27. Qc2
+Bxd5 28. Bxd5 Qxd5 29. Rxa6 Re6 30. h3 Rce8 31. Ra4 Bd4 32. Qd1 Qc5 33. Ra5
+Bxg1 34. Rxc5 Bxc5 35. Bd2 Kg8 36. Qh5 Rf8 37. Qf3 Re4 38. g4 Rfe8 39. gxf5 Bd4
+40. b3 c3 41. Bxc3 Bxc3 42. Qxc3 Re3 43. Qc4+ Kf8 44. Kg2 Re2+ 45. Kg3 R8e3+
+46. Kh4 Rh2 47. f6 Rhxh3+ 48. Kg4 Reg3+ 49. Kf5 Rh5+ 50. Ke6 Re3+ 51. Kxd6 Rhh3
+52. Qc7 Rhg3 53. Qxh7 Rd3+ 54. Ke6 Rge3+ 55. Kf5 Ke8 56. f7+ Ke7 57. Qg8 1-0

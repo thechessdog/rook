@@ -1,0 +1,16 @@
+[Event "Dayton,OH"]
+[Site "Dayton,OH"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Wall, Bill"]
+[Black "Barsalou, Norm"]
+[Result "1-0"]
+[ECO "B57"]
+[Opening "Sicilian"]
+[Variation "Sozin, not Scheveningen"]
+[HashCode "fe1725d2"]
+[Epoch "Rook"]
+[WhiteCountry "USA"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bc4 e5 7. Nf5 Bxf5 8.
+exf5 Be7 9. O-O Qd7 10. Bd3 Nd4 11. Be3 Nxf5 12. Bb5 1-0

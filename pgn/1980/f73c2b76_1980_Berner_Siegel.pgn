@@ -1,0 +1,18 @@
+[Event "Mosbach Elo"]
+[Site "Mosbach Elo"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Berner, W."]
+[Black "Siegel, Georg"]
+[Result "0-1"]
+[ECO "A05"]
+[Opening "Reti opening"]
+[HashCode "f73c2b76"]
+[Epoch "Rook"]
+[BlackID "4604237"]
+[BlackCountry "GER"]
+
+1. Nf3 Nf6 2. b3 d5 3. Bb2 Bf5 4. g3 e6 5. Bg2 h6 6. c4 c6 7. O-O Be7 8. d4 O-O
+9. Nbd2 a5 10. a3 Ne4 11. Nxe4 Bxe4 12. c5 Na6 13. Ne5 Bh7 14. f4 Bf6 15. Rc1
+Bxe5 16. fxe5 b6 17. Rc3 bxc5 18. dxc5 Rb8 19. Qd4 Rb5 20. Bc1 Qe7 21. Qg4 Bg6
+22. Be3 Rfb8 23. Bd2 Rxb3 24. Rfc1 Rxc3 25. Rxc3 Nxc5 26. Be3 Nd7 0-1

@@ -1,0 +1,20 @@
+[Event "Rome"]
+[Site "Rome"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Skembris, Spyridon"]
+[Black "Kovacs, Laszlo M"]
+[Result "1-0"]
+[ECO "D58"]
+[Opening "QGD"]
+[Variation "Tartakower (Makagonov-Bondarevsky) system"]
+[HashCode "8ed35d2b"]
+[Epoch "Rook"]
+[WhiteID "4200020"]
+[WhiteCountry "GRE"]
+[BlackCountry "HUN"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. Bg5 h6 6. Bh4 O-O 7. e3 b6 8. Qc2
+Bb7 9. O-O-O Nbd7 10. Rg1 Ne4 11. Bxe7 Qxe7 12. Nxe4 dxe4 13. Nd2 f5 14. g4 Qh4
+15. Rg3 Nf6 16. h3 fxg4 17. hxg4 Nxg4 18. Bh3 Nxf2 19. Bxe6+ Kh8 20. Rdg1 Rae8
+21. d5 Re7 22. Kb1 Bc8 23. Qc3 Nd1 24. Qd4 c5 25. dxc6 Bxe6 26. Rxg7 Qf6 1-0

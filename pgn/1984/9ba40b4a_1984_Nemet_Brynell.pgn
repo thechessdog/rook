@@ -1,0 +1,18 @@
+[Event "Malmo"]
+[Site "Malmo"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Nemet"]
+[Black "Brynell, Stellan"]
+[Result "1-0"]
+[ECO "D07"]
+[Opening "QGD"]
+[Variation "Chigorin defence"]
+[HashCode "9ba40b4a"]
+[Epoch "Rook"]
+[BlackID "1700219"]
+[BlackCountry "SWE"]
+
+1. d4 d5 2. c4 Nc6 3. Nf3 Bg4 4. cxd5 Bxf3 5. dxc6 Bxc6 6. Nc3 e6 7. a3 f5 8.
+e4 Nf6 9. Bg5 h6 10. Bxf6 Qxf6 11. e5 Qf7 12. Qb3 O-O-O 13. Bc4 Bd5 14. Bxd5
+exd5 15. O-O f4 16. Rac1 Kb8 17. Nb5 Rc8 18. Rc6 g5 19. Rfc1 1-0

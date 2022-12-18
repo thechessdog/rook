@@ -1,0 +1,18 @@
+[Event "Plymouth ch-MI op"]
+[Site "Plymouth ch-MI op"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Laren, P."]
+[Black "Skidmore, M."]
+[Result "0-1"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (without ...d6)"]
+[HashCode "ba2adab1"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. d3 Qc7 6. Nbd2 g6 7. O-O Bg4
+8. Nc4 Bg7 9. c3 O-O-O 10. Bg5 Nf6 11. Qe2 h6 12. Bh4 Nh5 13. Qe3 g5 14.
+Bg3 Nf4 15. Kh1 e5 16. Rad1 h5 17. Bxf4 gxf4 18. Qxc5 Bxf3 19. gxf3 b5 20.
+Na3 Bf8 0-1
+

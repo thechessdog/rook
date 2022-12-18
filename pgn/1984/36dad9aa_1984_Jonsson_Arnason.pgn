@@ -1,0 +1,23 @@
+[Event "Reykjavik"]
+[Site "Reykjavik"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Jonsson, Bjorgvin"]
+[Black "Arnason, J."]
+[Result "0-1"]
+[ECO "D55"]
+[Opening "QGD"]
+[Variation "6.Nf3"]
+[HashCode "36dad9aa"]
+[Epoch "Rook"]
+[WhiteID "2300125"]
+[WhiteCountry "ISL"]
+[BlackCountry "ISL"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. Bg5 O-O 6. e3 a6 7. cxd5 exd5 8. Qc2
+c6 9. Bd3 Nbd7 10. O-O-O Re8 11. g4 Nf8 12. h3 Be6 13. Kb1 Qa5 14. Ne5 Ne4 15.
+Bxe7 Rxe7 16. Nxe4 dxe4 17. Bc4 Bd5 18. g5 Nd7 19. Nxd7 Rxd7 20. Bxd5 Qxd5 21.
+Rhg1 Rf8 22. Rg4 Re7 23. Rdg1 Rc8 24. Rc1 b6 25. Qc4 Ree8 26. Qxa6 b5 27. Rc5
+Qd6 28. Re5 Rf8 29. Qb6 Qb4 30. Qc5 Qe1+ 31. Qc1 Qxf2 32. Rgxe4 f6 33. gxf6
+Rxf6 34. a3 Qe2 35. Qc5 Rff8 36. Ka2 b4 37. Qxb4 Rb8 38. Qc3 Rxb2+ 39. Qxb2
+Qc4+ 0-1

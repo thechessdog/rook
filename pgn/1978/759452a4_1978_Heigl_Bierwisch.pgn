@@ -1,0 +1,22 @@
+[Event "corr DFSM"]
+[Site "corr DFSM"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Heigl"]
+[Black "Bierwisch, Bernhard"]
+[Result "1-0"]
+[ECO "A54"]
+[Opening "Old Indian"]
+[Variation "Ukrainian variation, 4.Nf3"]
+[HashCode "759452a4"]
+[Epoch "Rook"]
+[BlackID "4671139"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 d6 3. Nc3 e5 4. Nf3 Nbd7 5. Bg5 Be7 6. e3 c6 7. Qc2 h6 8. Bh4
+O-O 9. Be2 Re8 10. O-O Qc7 11. Rac1 Bf8 12. h3 g6 13. c5 exd4 14. exd4 dxc5 15.
+Rfe1 Bd6 16. Bc4 Kg7 17. Rxe8 Nxe8 18. dxc5 Nxc5 19. b4 Ne6 20. Ne4 Bf4 21.
+Qc3+ Kg8 22. Re1 Bd7 23. Bf6 a5 24. a3 axb4 25. axb4 b5 26. Bb3 Ra3 27. Qb2 Qa7
+28. Be5 g5 29. g3 c5 30. gxf4 c4 31. Bd1 Ra2 32. Qb1 Nxf4 33. Bxf4 gxf4 34. Nc5
+Nf6 35. Bc2 Bxh3 36. Bf5 Bg4 37. Bxg4 Nxg4 38. Qf5 Nxf2 39. Re8+ Kg7 40. Qe5+
+Kg6 41. Nh4+ 1-0

@@ -1,0 +1,25 @@
+[Event "AUT-ch"]
+[Site "AUT"]
+[Date "1979.??.??"]
+[Round "2"]
+[White "Beni, Alfred"]
+[Black "Herzog, Adolf"]
+[Result "0-1"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "a4724b87"]
+[Epoch "Rook"]
+[BlackID "1600214"]
+[BlackCountry "AUT"]
+[WhiteCountry "AUT"]
+
+1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. d4 cxd4 5. Qxd4 e6 6. Nf3 Nc6 7. Qe4 f5 8. exf6
+Nxf6 9. Qc2 Be7 10. Bg5 O-O 11. Nbd2 d5 12. Bd3 h6 13. Bh4 e5 14. O-O-O Qa5 15.
+Qb3 Kh8 16. Bb1 Be6 17. Qc2 Bg8 18. Rhe1 Rac8 19. Nxe5 Nxe5 20. Rxe5 Bh7 21.
+Nb3 Qa4 22. Qe2 Bxb1 23. Kxb1 Qxh4 24. g3 Qxh2 25. Rxe7 Ng8 26. f4 Qxg3 27.
+Rxb7 Rxf4 28. Qe6 Rcf8 29. Qxd5 Rf1 30. a3 R8f5 31. Qd7 Rf7 32. Rxf1 Rxd7 33.
+Rxd7 Nf6 34. Rdd1 h5 35. Nd4 Ne4 36. Nf5 Qb8 37. Rf3 Qb5 38. Nd4 Qg5 39. Ka1
+Qg2 40. Rf8+ Kh7 41. Rf5 Qg4 42. Rff1 h4 43. Nf5 h3 44. Rd7 Ng3 45. Nxg3 Qxd7
+46. Nh1 g5 47. c4 g4 48. Rc1 Qd2 49. Kb1 g3 50. Nxg3 Qd3+ 51. Ka2 Qxg3 52. c5
+h2 53. c6 Qg1 0-1

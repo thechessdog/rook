@@ -1,0 +1,20 @@
+[Event "Sherbrooke"]
+[Site "Sherbrooke"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Courteau, Bernard"]
+[Black "Cote, Jacques"]
+[Result "1-0"]
+[ECO "D85"]
+[Opening "Gruenfeld"]
+[Variation "exchange variation"]
+[HashCode "fd519046"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Be3 c5
+8. Bd3 Nc6 9. Ne2 O-O 10. d5 Ne5 11. Bxc5 Bh3 12. O-O Rc8 13. Bd4 Bg4 14.
+f3 Bd7 15. Rb1 b6 16. f4 Nc4 17. Rb4 Bxd4+ 18. cxd4 Ne3 19. Qd2 Nxf1 20.
+Kxf1 Bg4 21. Ng3 Qd6 22. h3 Bd7 23. Rb3 h5 24. e5 Qxd5 25. Nxh5 gxh5 26. f5
+Qxd4 27. Qg5+ Kh8 28. Qxh5+ Kg8 29. f6 Rc1+ 30. Ke2 Re1+ 31. Kxe1 Qe3+ 32.
+Be2 Qf4 33. Rf3 Qc1+ 34. Bd1 1-0
+

@@ -1,0 +1,25 @@
+[Event "BL2-N 8182"]
+[Site "BL2-N 8182"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Riedel, Wolfgang"]
+[Black "Lappoehn, Hardy"]
+[Result "1-0"]
+[ECO "B25"]
+[Opening "Sicilian"]
+[Variation "closed, 6.f4"]
+[HashCode "123de527"]
+[Epoch "Rook"]
+[WhiteID "4603052"]
+[WhiteCountry "GER"]
+[BlackID "4646835"]
+[BlackCountry "GER"]
+
+1. Nc3 c5 2. e4 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. f4 e6 7. Nf3 Nge7 8. O-O
+O-O 9. Be3 Nd4 10. Rb1 Bd7 11. Ne2 Nxe2+ 12. Qxe2 Qa5 13. a3 Rab8 14. Qf2 Rfc8
+15. g4 f5 16. Qh4 Qd8 17. gxf5 gxf5 18. Kh1 Ng6 19. Qh5 Be8 20. Qh3 Qf6 21. Ng5
+Nf8 22. exf5 Qxf5 23. Qg3 Bc6 24. Rg1 Rc7 25. Bd2 Ng6 26. Rbf1 Rf8 27. Ne4 Rd7
+28. Ng5 Bxg2+ 29. Rxg2 e5 30. Rgf2 exf4 31. Bxf4 Qd5+ 32. Ne4 Nxf4 33. Rxf4
+Rdf7 34. Rxf7 Rxf7 35. Rg1 Kh8 36. c4 Qc6 37. b4 cxb4 38. axb4 d5 39. b5 Qd7
+40. Ng5 Re7 41. Qb8+ Re8 42. Qf4 dxc4 43. dxc4 Rf8 44. Qe4 Qf5 45. Qxf5 Rxf5
+46. Ne6 Bc3 47. Rd1 h6 48. Rd8+ Kh7 49. Rd7+ Kh8 50. Rxb7 Rf2 1-0

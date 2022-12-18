@@ -1,0 +1,16 @@
+[Event "Columbus,OH"]
+[Site "Columbus,OH"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Latour, R."]
+[Black "Thall, Andrew S"]
+[Result "1-0"]
+[ECO "C33"]
+[Opening "KGA"]
+[Variation "bishop's gambit, Boden defence"]
+[HashCode "a17d9bd3"]
+[Epoch "Rook"]
+
+1. e4 e5 2. f4 exf4 3. Bc4 Qh4+ 4. Kf1 Nc6 5. Nf3 Qh5 6. d4 d6 7. Bxf4 Bg4 8.
+Be2 Nf6 9. Nc3 Be7 10. Qd3 O-O 11. Kf2 d5 12. e5 Bf5 13. exf6 Bxd3 14. fxe7
+Rfe8 15. Bxd3 Nb4 16. Rhe1 Nxd3+ 17. cxd3 Qf5 18. Bxc7 g5 19. Re5 1-0

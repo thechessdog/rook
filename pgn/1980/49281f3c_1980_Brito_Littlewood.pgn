@@ -1,0 +1,21 @@
+[Event "Hastings8081"]
+[Site "Hastings"]
+[Date "1980.??.??"]
+[Round "1"]
+[White "Brito, Luizmar J"]
+[Black "Littlewood, Paul E"]
+[Result "0-1"]
+[ECO "C89"]
+[Opening "Ruy Lopez"]
+[Variation "Marshall, main line, 14...Qh3"]
+[HashCode "49281f3c"]
+[Epoch "Rook"]
+[BlackID "400190"]
+[BlackCountry "ENG"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. c3
+d5 9. exd5 Nxd5 10. Nxe5 Nxe5 11. Rxe5 c6 12. d4 Bd6 13. Re1 Qh4 14. g3 Qh3 15.
+Be3 Bg4 16. Qd3 Rae8 17. Nd2 Re6 18. c4 Bf4 19. cxd5 Rh6 20. Qe4 Qxh2+ 21. Kf1
+f5 22. dxc6+ Kh8 23. Qd5 Bxe3 24. Rxe3 f4 25. gxf4 Qxf4 26. Re2 Rh2 27. f3 Bh3+
+28. Ke1 Rh1+ 29. Kf2 Rh2+ 30. Ke1 Rh1+ 31. Kf2 Rxa1 32. Qe4 Qg5 33. Nb1 Rxb1
+34. Qxb1 Qg2+ 35. Ke3 Rxf3+ 36. Kd2 Qg5+ 37. Kd1 Rf1+ 0-1

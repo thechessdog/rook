@@ -1,0 +1,20 @@
+[Event "Lugano"]
+[Site "Lugano"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Richter, Kurt"]
+[Black "Bollek"]
+[Result "0-1"]
+[ECO "B15"]
+[Opening "Caro-Kann"]
+[Variation "Tartakower (Nimzovich) variation"]
+[HashCode "69f85346"]
+[Epoch "Rook"]
+[WhiteID "4623541"]
+[WhiteCountry "GER"]
+
+1. e4 c6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Nf6 5. Nxf6+ exf6 6. Nf3 Bd6 7. Be2 O-O
+8. O-O Re8 9. c4 Be6 10. Be3 Nd7 11. Qd2 Nf8 12. Rac1 Ng6 13. Ne1 f5 14. Nd3
+Bxc4 15. Rxc4 f4 16. Bf3 fxe3 17. fxe3 Qh4 18. g3 Qg5 19. Nf4 Nh4 20. Bh1 Nf5
+21. e4 Nxg3 22. hxg3 Qxg3+ 23. Qg2 Qe3+ 24. Rf2 Bxf4 25. Rc3 Qe1+ 26. Qf1 Qxf1+
+27. Kxf1 g5 0-1

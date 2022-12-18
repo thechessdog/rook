@@ -1,0 +1,18 @@
+[Event "Plovdiv op"]
+[Site "Plovdiv op"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Trifunov"]
+[Black "Zichichi"]
+[Result "0-1"]
+[ECO "D35"]
+[Opening "QGD"]
+[Variation "exchange, positional line, 5...c6"]
+[HashCode "791b6978"]
+[Epoch "Rook"]
+
+1. c4 e6 2. Nc3 d5 3. d4 Nf6 4. cxd5 exd5 5. Bg5 c6 6. a3 Bf5 7. Qb3 Qb6 8.
+Qxb6 axb6 9. Bxf6 gxf6 10. e3 b5 11. Rd1 b4 12. axb4 Bxb4 13. Bd3 Bxd3 14.
+Rxd3 Ra2 15. Rd2 Rxb2 16. Nge2 Rb3 17. Rd3 Na6 18. O-O Kd7 19. Rfd1 Bxc3
+20. Nxc3 Nb4 0-1
+

@@ -1,0 +1,19 @@
+[Event "corr EUR/M"]
+[Site "corr EUR/M"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Siegl, E."]
+[Black "Reich, Y."]
+[Result "1-0"]
+[ECO "E06"]
+[Opening "Catalan"]
+[Variation "closed, 5.Nf3"]
+[HashCode "1e310a9a"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Bg2 Be7 5. Nf3 O-O 6. O-O dxc4 7. Qc2 a6 8.
+a4 Bd7 9. Nbd2 Bc6 10. Qxc4 Nbd7 11. b3 Bd5 12. Qd3 c5 13. Bb2 b6 14. e4
+Bb7 15. Qe2 Rc8 16. Rac1 Rc7 17. Rfd1 Qa8 18. Ne5 Rfc8 19. Nxd7 Nxd7 20. d5
+Re8 21. dxe6 fxe6 22. Nc4 Bc6 23. Qg4 Bf8 24. Nd6 Re7 25. Bf1 e5 26. Bc4+
+Kh8 27. Qf5 g6 28. Nf7+ Kg7 29. Nxe5 gxf5 30. Nxd7+ 1-0
+

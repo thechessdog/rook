@@ -1,0 +1,20 @@
+[Event "corr LADAC"]
+[Site "corr LADAC"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Bruno, Oreste"]
+[Black "Mazur, Mario"]
+[Result "1/2-1/2"]
+[ECO "E19"]
+[Opening "Queen's Indian"]
+[Variation "old main line, 9.Qxc3"]
+[HashCode "02c99062"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2 Be7 6. O-O O-O 7. Nc3 Ne4 8.
+Qc2 Nxc3 9. Qxc3 c5 10. Rd1 Bf6 11. Qd3 Na6 12. Ng5 Bxg5 13. Bxg5 Qxg5 14.
+Bxb7 Nb4 15. Qf3 Rab8 16. dxc5 bxc5 17. Rxd7 Nc2 18. Rad1 Nd4 19. Qe4 Rfd8
+20. Rxd8+ Qxd8 21. Kf1 Qc7 22. e3 f5 23. Qb1 Qxb7 24. exd4 cxd4 25. Kg1
+Qxb2 26. Qxb2 Rxb2 27. Rxd4 Rxa2 28. c5 Rc2 29. Ra4 Rxc5 30. Rxa7 e5 31. h4
+e4 32. Kf1 h6 33. Ke2 g5 1/2-1/2
+

@@ -1,0 +1,23 @@
+[Event "Reykjavik"]
+[Site "Reykjavik"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "McCambridge, Vincent"]
+[Black "King, Daniel J"]
+[Result "0-1"]
+[ECO "E41"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5"]
+[HashCode "574a8e79"]
+[Epoch "Rook"]
+[WhiteID "2000342"]
+[BlackID "400068"]
+[WhiteCountry "USA"]
+[BlackCountry "ENG"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 d5 6. Ne2 Nc6 7. O-O dxc4 8. Bxc4
+O-O 9. a3 Bxc3 10. bxc3 e5 11. Bb2 Bf5 12. f3 Qb6 13. Qd2 Na5 14. Ba2 Be6 15.
+dxe5 Bxa2 16. exf6 Rfd8 17. Qc2 Bb3 18. Qf5 Rd2 19. Ng3 Rxb2 20. Ne4 g6 21. Qg5
+Qd8 22. Nxc5 h6 23. Qxh6 Qxf6 24. Ne4 Qe5 25. Rab1 Rxb1 26. Rxb1 b6 27. h4 Rc8
+28. Rb2 Rd8 29. Qg5 Qxg5 30. hxg5 Kf8 31. Kf2 Ke7 32. Kg3 Rd3 33. Kf4 Bd5 34.
+Nf6 Bc6 35. Rc2 Nc4 36. e4 Nxa3 37. Rc1 Nc4 38. Ra1 a5 39. e5 a4 0-1

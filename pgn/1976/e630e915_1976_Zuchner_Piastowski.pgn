@@ -1,0 +1,20 @@
+[Event "corr DDR-FSM"]
+[Site "corr DDR-FSM"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Zuchner, G."]
+[Black "Piastowski"]
+[Result "1-0"]
+[ECO "B25"]
+[Opening "Sicilian"]
+[Variation "closed, 6.Ne2 e5 (Botvinnik)"]
+[HashCode "e630e915"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. Nge2 e5 7. Be3 Nge7 8.
+Qd2 Nd4 9. O-O O-O 10. f4 Rb8 11. fxe5 dxe5 12. Nd5 Nxd5 13. exd5 b6 14. c4
+Nf5 15. Rab1 Qd6 16. a3 Nxe3 17. Qxe3 Bd7 18. b4 Rbc8 19. b5 f5 20. Kh1 h5
+21. Rbe1 Bf6 22. Nc3 Rce8 23. Qh6 Kf7 24. Ne4 Qc7 25. Qh7+ Bg7 26. Ng5+ Kf6
+27. d6 Qc8 28. Bd5 Be6 29. Ne4+ Kf7 30. Rxf5+ gxf5 31. Rf1 Bxd5 32. cxd5
+Rh8 33. Rxf5+ Qxf5 34. Qxf5+ Kg8 35. Ng5 1-0
+

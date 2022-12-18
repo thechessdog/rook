@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Ilen, Olavi"]
+[Black "Kuula, Olli"]
+[Result "1-0"]
+[ECO "C25"]
+[Opening "Vienna"]
+[Variation "Pierce gambit"]
+[HashCode "59e672be"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nc3 Nc6 3. f4 exf4 4. Nf3 g5 5. d4 g4 6. Bc4 gxf3 7. Qxf3 Nxd4
+8. Bxf7+ Kxf7 9. Qh5+ Kg7 10. O-O Nf6 11. Qh4 Be7 12. Bxf4 Rf8 13. Bh6+ Kh8
+14. Bxf8 Qxf8 15. e5 Bc5 16. Kh1 Qe7 17. Rxf6 d6 18. Nd5 1-0
+

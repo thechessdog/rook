@@ -1,0 +1,29 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Konikowski, Jerzy"]
+[Black "Roese, Oliver"]
+[Result "0-1"]
+[ECO "E76"]
+[Opening "King's Indian"]
+[Variation "Four pawns attack, dynamic line"]
+[HashCode "924a17ac"]
+[Epoch "Rook"]
+[WhiteID "4601467"]
+[BlackID "4600630"]
+[WhiteCountry "GER"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 c5 3. d5 g6 4. Nc3 Bg7 5. e4 O-O 6. f4 d6 7. Nf3 b5 8. cxb5 a6
+9. a4 Qa5 10. Bd2 Nbd7 11. Ra3 Qc7 12. Bc4 Nb6 13. Ba2 axb5 14. axb5 Bb7 15.
+O-O c4 16. Rxa8 Rxa8 17. Bb1 Ng4 18. Qe1 Na4 19. h3 Qc5+ 20. Kh1 Nf6 21. Nxa4
+Rxa4 22. Bc2 Ra2 23. Bb4 Qxb5 24. Bc3 Nh5 25. Nd4 Qb6 26. Bb1 Ra1 27. Qe3 Bxd4
+28. Bxd4 Ng3+ 29. Qxg3 Qxd4 30. Qc3 Qxc3 31. bxc3 Kg7 32. Kg1 Ra3 33. Rc1 Bc8
+34. Kf2 f5 35. Ke3 Ra1 36. Kd2 Kf6 37. Re1 fxe4 38. Bxe4 Rxe1 39. Kxe1 Bf5 40.
+Bf3 g5 41. fxg5+ Kxg5 42. g3 Bxh3 43. Be2 Kf5 44. Bxc4 Ke4 45. Kf2 Bc8 46. Ke2
+h6 47. Bd3+ Ke5 48. Ke3 Kxd5 49. Be2 Ke5 50. Bd3 Bf5 51. Be2 Be6 52. Bf3 Bb3
+53. Bg2 d5 54. Bf3 Kd6 55. Bg4 e5 56. Be2 Kc5 57. Bf1 Kb6 58. Bh3 Kb5 59. Bf1+
+Bc4 60. Bh3 Ka4 61. Kd2 Kb3 62. Bg4 e4 63. Bd1+ Kb2 64. Bh5 e3+ 65. Kxe3 Kxc3
+66. Kf4 d4 67. Kf5 d3 68. Kg6 d2 69. Kxh6 Bb3 70. Kg5 Kc2 71. Kf4 Kc1 72. Ke3
+Bd1 73. Be8 Bg4 74. Ba4 Bf5 0-1

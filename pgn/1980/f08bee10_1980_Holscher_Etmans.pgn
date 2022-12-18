@@ -1,0 +1,23 @@
+[Event "corr NLD/K"]
+[Site "corr NLD/K"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Holscher, P."]
+[Black "Etmans, Maarten D"]
+[Result "0-1"]
+[ECO "A40"]
+[Opening "Queen's pawn"]
+[HashCode "f08bee10"]
+[Epoch "Rook"]
+
+1. d4 e6 2. Nc3 Bb4 3. e4 b6 4. Ne2 Bb7 5. a3 Bxc3+ 6. Nxc3 d5 7. e5 a6 8. Qg4
+Kf8 9. h4 h5 10. Qf3 c5 11. Be3 Nc6 12. O-O-O Qc7 13. dxc5 d4 14. cxb6 Qxb6 15.
+Na4 Qa5 16. Bxd4 Qxa4 17. Bc5+ Ke8 18. Rd7 Kxd7 19. Qxf7+ Nge7 20. Rh3 Qg4 21.
+Rd3+ Kc8 22. Bxe7 Nxe7 23. Qxe7 Qf4+ 24. Kb1 Qxe5 25. Re3 Qa5 26. Qd6 Bd5 27.
+c4 Rd8 28. Qe5 Qc7 29. cxd5 Qxe5 30. Rxe5 Rxd5 31. Rxd5 exd5 32. Be2 Kc7 33.
+Bxh5 Kd6 34. Kc2 Ke5 35. Bf3 Kd4 36. Kd2 a5 37. h5 Rb8 38. Kc2 Rf8 39. Kd2 Rf4
+40. Kc2 Rh4 41. Kd2 Rh1 42. Bd1 Rh2 43. Bf3 Kc4 44. Kc2 a4 45. Be2+ Kd4 46. Bf3
+Rh1 47. b3 axb3+ 48. Kxb3 Rf1 49. a4 Rxf2 50. a5 Rf1 51. Kb2 Re1 52. Bg4 Re8
+53. Kb3 Kc5 54. a6 Re3+ 55. Kc2 Kb6 56. Kd2 Ra3 57. Be2 Ra2+ 58. Kd1 Kc5 59. g4
+Kd4 60. g5 Kc3 61. Ke1 d4 62. g6 d3 63. Bg4 Rxa6 64. Kf2 Kd4 65. Kg3 Ke3 66.
+Bd1 d2 67. Bc2 Rc6 68. Ba4 Rc1 0-1

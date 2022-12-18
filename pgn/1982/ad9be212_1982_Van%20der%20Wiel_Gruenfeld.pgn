@@ -1,0 +1,20 @@
+[Event "Amsterdam"]
+[Site "Amsterdam"]
+[Date "1982.07.01"]
+[Round "3"]
+[White "Van der Wiel, John T.H."]
+[Black "Gruenfeld, Yehuda"]
+[Result "1-0"]
+[ECO "A45"]
+[Opening "Trompovsky attack (Ruth, Opovcensky opening)"]
+[HashCode "ad9be212"]
+[Epoch "Rook"]
+[BlackID "2800020"]
+[BlackCountry "ISR"]
+[WhiteID "1000020"]
+[WhiteCountry "NED"]
+
+1. d4 Nf6 2. Bg5 c5 3. d5 Ne4 4. Bf4 Qb6 5. Bc1 g6 6. f3 Nf6 7. e4 d6 8. Nc3
+Bg7 9. Nge2 O-O 10. g4 e6 11. Nf4 Re8 12. h4 Na6 13. h5 Nc7 14. hxg6 hxg6 15.
+Kf2 a6 16. Kg2 Bd7 17. a4 e5 18. Nd3 c4 19. Nf2 Qc5 20. Qe1 Rec8 21. Be3 Qb4
+22. Nfd1 Kf8 23. Be2 Nce8 24. Qf2 Ke7 25. Ra3 1-0

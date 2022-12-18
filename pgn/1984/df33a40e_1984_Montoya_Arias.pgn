@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Montoya"]
+[Black "Arias"]
+[Result "1-0"]
+[ECO "A52"]
+[Opening "Budapest"]
+[Variation "Alekhine variation"]
+[HashCode "df33a40e"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ng4 4. e4 Nxe5 5. f4 Ng6 6. Nf3 Bb4+ 7. Nc3 Qf6
+8. Qd4 Qxd4 9. Nxd4 Na6 10. Bd3 Bxc3+ 11. bxc3 c5 12. Nf5 O-O 13. h4 d6 14.
+Nxd6 Ne7 15. e5 f6 16. Be4 Rb8 17. Be3 fxe5 18. Nxc8 Nxc8 19. fxe5 Ne7 20.
+O-O-O Nf5 21. Bf2 b6 22. Rd7 Rbe8 23. e6 Rxe6 24. Bd5 Rf6 25. Re1 Kf8 26.
+Bxe6 Rxe6 27. Rxe6 Nb8 28. Rxa7 h6 29. Rxb6 Nd7 30. Rxd7 Kg8 31. Bxc5 1-0
+

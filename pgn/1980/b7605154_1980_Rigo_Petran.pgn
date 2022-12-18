@@ -1,0 +1,19 @@
+[Event "Budapest ch-HUN"]
+[Site "Budapest ch-HUN"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Rigo, Janos"]
+[Black "Petran, Pal"]
+[Result "1/2-1/2"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical system, 5.Be2"]
+[HashCode "b7605154"]
+[Epoch "Rook"]
+[BlackID "700304"]
+[BlackCountry "HUN"]
+[WhiteID "700371"]
+[WhiteCountry "HUN"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. Nf3 Nf6 5. Be2 O-O 6. O-O Bg4 7. Be3 Nc6 8. d5
+Bxf3 9. Bxf3 Ne5 10. Be2 c6 11. f4 Ned7 12. Bf3 Qa5 13. a3 1/2-1/2

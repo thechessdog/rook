@@ -1,0 +1,16 @@
+[Event "Kiev"]
+[Site "Kiev"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Briansky"]
+[Black "Komarov"]
+[Result "0-1"]
+[ECO "D06"]
+[Opening "QGD"]
+[Variation "Grau (Sahovic) defence"]
+[HashCode "f7878bf2"]
+[Epoch "Rook"]
+
+1. d4 d5 2. c4 Bf5 3. Nc3 e6 4. cxd5 exd5 5. Qb3 Nc6 6. Bf4 Nxd4 7. Qa4+
+Nc6 8. O-O-O Nf6 9. Nxd5 Nxd5 10. e4 Bb4 11. exd5 Qe7 12. dxc6 Qc5+ 0-1
+

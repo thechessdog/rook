@@ -1,0 +1,20 @@
+[Event "Bundesliga 8081"]
+[Site "Duitsland tt"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Ueter, Heinz Dieter"]
+[Black "Gass, Ulrich"]
+[Result "1-0"]
+[ECO "B00"]
+[Opening "King's pawn opening"]
+[HashCode "54627eec"]
+[Epoch "Rook"]
+[BlackID "4683307"]
+[BlackCountry "GER"]
+[WhiteID "10226774"]
+
+1. e4 d6 2. d4 Nf6 3. f3 g6 4. Be3 a6 5. Qd2 c6 6. a4 Nbd7 7. Na3 Rb8 8. a5 e5
+9. dxe5 Nxe5 10. Nc4 Be6 11. Nxe5 dxe5 12. Qc3 Qd6 13. Bd3 Qb4 14. Bd2 Qxc3 15.
+Bxc3 Nd7 16. h4 f6 17. h5 Bh6 18. Ne2 Kf7 19. Kf2 Nc5 20. b4 Nxd3+ 21. cxd3
+Rbd8 22. d4 Bc4 23. hxg6+ Kxg6 24. Rad1 exd4 25. Bxd4 Rhe8 26. Bb6 Rd2 27.
+Rxh6+ 1-0

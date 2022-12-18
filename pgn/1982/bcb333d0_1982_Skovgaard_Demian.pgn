@@ -1,0 +1,17 @@
+[Event "corr FSM/EU"]
+[Site "corr FSM/EU"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Skovgaard, I."]
+[Black "Demian, V."]
+[Result "1-0"]
+[ECO "B03"]
+[Opening "Alekhine's defence"]
+[Variation "four pawns attack"]
+[HashCode "bcb333d0"]
+[Epoch "Rook"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. c4 Nb6 5. f4 dxe5 6. fxe5 c5 7. d5 e6 8.
+Nc3 exd5 9. cxd5 c4 10. Nf3 Bg4 11. Be2 Bc5 12. Ng5 Bxe2 13. Qxe2 Be7 14.
+e6 Bxg5 15. exf7+ Kf8 16. Bxg5 1-0
+

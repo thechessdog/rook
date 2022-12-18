@@ -1,0 +1,20 @@
+[Event "Lvov"]
+[Site "Lvov"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Vorotnikov, Vladislav V"]
+[Black "Chekhov, Valery A"]
+[Result "1/2-1/2"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "2b41b1c8"]
+[Epoch "Rook"]
+[WhiteID "4103009"]
+[WhiteCountry "RUS"]
+[BlackID "4100859"]
+[BlackCountry "RUS"]
+
+1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. Nf3 Nc6 5. d4 cxd4 6. Bc4 e6 7. cxd4 d6 8. O-O
+Be7 9. Qe2 O-O 10. Nc3 Nxc3 11. bxc3 dxe5 12. dxe5 b6 13. Qe4 Qc7 14. Bg5 Bb7
+15. Bd3 g6 1/2-1/2

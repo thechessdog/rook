@@ -1,0 +1,17 @@
+[Event "Alkmaar open"]
+[Site "Alkmaar open"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Boots, A."]
+[Black "Grondsma, H."]
+[Result "0-1"]
+[ECO "E27"]
+[Opening "Nimzo-Indian"]
+[Variation "Saemisch variation"]
+[HashCode "b9c6aea5"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. a3 Bxc3+ 5. bxc3 O-O 6. Bg5 h6 7. Bh4 d5 8. e3
+Nbd7 9. cxd5 exd5 10. h3 c6 11. Bd3 Re8 12. Ne2 Qa5 13. O-O Ne4 14. Qc2 Ndf6
+15. f3 Ng5 16. Bxg5 hxg5 17. e4 dxe4 18. fxe4 c5 19. d5 c4 20. Qd2 cxd3 21.
+Qxg5 dxe2 22. Rxf6 0-1

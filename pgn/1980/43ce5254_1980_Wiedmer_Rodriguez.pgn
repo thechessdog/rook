@@ -1,0 +1,17 @@
+[Event "Malta ol"]
+[Site "Malta ol"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Wiedmer"]
+[Black "Rodriguez Vargas, Orestes"]
+[Result "0-1"]
+[ECO "C10"]
+[Opening "French"]
+[Variation "Rubinstein variation"]
+[HashCode "43ce5254"]
+[Epoch "Rook"]
+[BlackID "2203189"]
+[BlackCountry "ESP"]
+
+1. e4 e6 2. d4 d5 3. Nc3 dxe4 4. d5 exd5 5. Nxd5 Nf6 6. Bc4 Be6 7. Nxf6+ Qxf6
+8. Bd5 Bc5 9. Nh3 Bxh3 10. gxh3 Qxf2# 0-1

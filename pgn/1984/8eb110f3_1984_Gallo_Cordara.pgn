@@ -1,0 +1,18 @@
+[Event "Torino"]
+[Site "Torino"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Gallo"]
+[Black "Cordara"]
+[Result "0-1"]
+[ECO "B87"]
+[Opening "Sicilian"]
+[Variation "Sozin with ...a6 and ...b5"]
+[HashCode "8eb110f3"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 b5 8.
+O-O Be7 9. f4 Bb7 10. Be3 Nbd7 11. Bxe6 fxe6 12. Nxe6 Qc8 13. Nxg7+ Kf7 14.
+Nf5 b4 15. Nxe7 Kxe7 16. e5 Qc6 17. exf6+ Nxf6 18. Rf3 bxc3 19. Qe2 Kf7 20.
+b3 Rhg8 21. Raf1 Rae8 22. Qd3 Qb5 0-1
+

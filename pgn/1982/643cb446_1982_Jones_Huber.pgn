@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Jones"]
+[Black "Huber, S."]
+[Result "1-0"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra gambit"]
+[HashCode "643cb446"]
+[Epoch "Rook"]
+
+1. e4 c5 2. d4 cxd4 3. c3 dxc3 4. Nxc3 e5 5. Nf3 Nc6 6. Bc4 Bb4 7. O-O Bxc3
+8. bxc3 Nf6 9. Ba3 Ne7 10. Qd6 Nxe4 11. Qxe5 d5 12. Bxd5 Nf6 13. Rad1 Nxd5
+14. Rxd5 Bd7 15. Re1 1-0
+

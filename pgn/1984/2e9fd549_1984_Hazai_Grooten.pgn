@@ -1,0 +1,21 @@
+[Event "Hamburg op"]
+[Site "Hamburg"]
+[Date "1984.01.01"]
+[Round "11"]
+[White "Hazai, Laszlo Dr."]
+[Black "Grooten, Herman"]
+[Result "1-0"]
+[ECO "B80"]
+[Opening "Sicilian"]
+[Variation "Scheveningen variation"]
+[HashCode "2e9fd549"]
+[Epoch "Rook"]
+[WhiteID "700177"]
+[WhiteCountry "HUN"]
+[BlackID "1000330"]
+[BlackCountry "NED"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be3 a6 7. g4 e5 8. Nf5
+g6 9. g5 Nh5 10. Nd5 Nd7 11. Ng3 Nxg3 12. hxg3 Be7 13. Bh3 Nc5 14. Bxc5 dxc5
+15. Bxc8 Rxc8 16. f4 exf4 17. gxf4 f6 18. gxf6 Bxf6 19. Qg4 Bxb2 20. Rb1 Bg7
+21. Qe6+ 1-0

@@ -1,0 +1,20 @@
+[Event "Hoogovens-B"]
+[Site "Wijk aan Zee II"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Law, Andrew P"]
+[Black "Ligterink, Gert"]
+[Result "1/2-1/2"]
+[ECO "E42"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5, 5.Ne2 (Rubinstein)"]
+[HashCode "bacc5232"]
+[Epoch "Rook"]
+[BlackID "1000179"]
+[BlackCountry "NED"]
+[WhiteCountry "ENG"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Ne2 cxd4 6. exd4 O-O 7. a3 Be7 8. d5
+exd5 9. cxd5 Re8 10. g3 Bc5 11. Bg2 Ng4 12. O-O Qb6 13. Ne4 Rxe4 14. Bxe4 Nxf2
+15. Rxf2 Bxf2+ 16. Kg2 d6 17. Bxh7+ Kh8 18. Qa4 Be1 19. Qe8+ Kxh7 20. Be3 Qa5
+21. Qxf7 Nd7 22. Bd4 1/2-1/2

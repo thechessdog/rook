@@ -1,0 +1,16 @@
+[Event "corr APCT"]
+[Site "corr APCT"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Brent, M."]
+[Black "Swanson, V."]
+[Result "1-0"]
+[ECO "C80"]
+[Opening "Ruy Lopez"]
+[Variation "open, 6.d4"]
+[HashCode "78efea2f"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 g5 7. Nxe5 Be7
+8. Re1 Nd6 9. Bxg5 Nf5 10. Bf6 Nxe5 11. Bxh8 1-0
+

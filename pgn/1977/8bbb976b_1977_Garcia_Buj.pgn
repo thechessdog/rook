@@ -1,0 +1,18 @@
+[Event "Buenos Aires"]
+[Site "Buenos Aires"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Garces, Napoleon"]
+[Black "Buj, Pablo"]
+[Result "1-0"]
+[ECO "C69"]
+[Opening "Ruy Lopez"]
+[Variation "exchange, Bronstein variation"]
+[HashCode "8bbb976b"]
+[Epoch "Rook"]
+[WhiteID "3600130"]
+[WhiteCountry "ECU"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O Qd6 6. Na3 b5 7. Nb1 Ne7 8.
+a4 Ng6 9. d4 Bg4 10. axb5 cxb5 11. h3 Bxf3 12. Qxf3 Qxd4 13. Rd1 Qb6 14. Nc3 c6
+15. h4 Nxh4 16. Qg4 Be7 17. Qd7+ Kf8 18. Be3 Bc5 19. Rxa6 1-0

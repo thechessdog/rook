@@ -1,0 +1,20 @@
+[Event "Odessa"]
+[Site "Odessa"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Moskalenko, Viktor"]
+[Black "Yermolinsky, Alex"]
+[Result "0-1"]
+[ECO "D97"]
+[Opening "Gruenfeld"]
+[Variation "Russian, Alekhine (Hungarian) variation"]
+[HashCode "bef9a667"]
+[Epoch "Rook"]
+[WhiteID "14100100"]
+[BlackID "2005492"]
+[WhiteCountry "ESP"]
+[BlackCountry "USA"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. Nc3 d5 5. Qb3 dxc4 6. Qxc4 O-O 7. e4 a6 8. h4
+b5 9. Qb3 c5 10. e5 Ng4 11. Qd5 cxd4 12. Qxa8 dxc3 13. Qxb8 cxb2 14. Bxb2 Qa5+
+15. Nd2 Nxf2 0-1

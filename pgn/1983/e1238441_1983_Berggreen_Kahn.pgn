@@ -1,0 +1,24 @@
+[Event "corr ol8"]
+[Site "corr ol8"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Berggreen, A."]
+[Black "Kahn, M."]
+[Result "1/2-1/2"]
+[ECO "E51"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 e8g8, 5.Nf3 d7d5"]
+[HashCode "e1238441"]
+[Epoch "Rook"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Bb4 4. Nf3 Nf6 5. e3 O-O 6. Bd3 Nc6 7. O-O a6 8.
+h3 dxc4 9. Bxc4 Bd6 10. e4 e5 11. Be3 b5 12. Bb3 exd4 13. Nxd4 Nxd4 14.
+Qxd4 c5 15. Qd2 Bb7 16. Rad1 c4 17. Bc2 Be5 18. Bd4 Qc7 19. Bxe5 Qxe5 20.
+f4 Qc5+ 21. Qd4 Rac8 22. e5 Nd5 23. Qxc5 Rxc5 24. Nxd5 Bxd5 25. Rd4 Bb7 26.
+Rfd1 g6 27. Rd7 Bc8 28. R7d5 Rxd5 29. Rxd5 h5 30. Kf2 Re8 31. Rd6 h4 32.
+Be4 Kg7 33. Ke3 g5 34. a3 Re7 35. Bd5 gxf4+ 36. Kxf4 Be6 37. Ke4 Bc8 38.
+Kd4 Rc7 39. a4 bxa4 40. Bxc4 Bb7 41. Bd5 Bxd5 42. Kxd5 Rc2 43. Rxa6 Rd2+
+44. Kc6 Rxg2 45. Rxa4 Rxb2 46. Rxh4 Kg6 47. Rf4 Ra2 48. h4 Ra6+ 49. Kd5
+Ra5+ 50. Ke4 Ra4+ 51. Kf3 Ra5 52. Rf6+ Kg7 53. Rf5 Kg6 54. Rf6+ Kg7 55. Kf4
+Ra4+ 56. Kg5 Re4 1/2-1/2
+

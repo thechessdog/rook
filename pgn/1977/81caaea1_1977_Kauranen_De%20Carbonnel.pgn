@@ -1,0 +1,22 @@
+[Event "corr EUR/K tt"]
+[Site "corr EUR/K tt"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Kauranen, R."]
+[Black "De Carbonnel, H."]
+[Result "1-0"]
+[ECO "B85"]
+[Opening "Sicilian"]
+[Variation "Scheveningen, classical main line"]
+[HashCode "81caaea1"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 a6 6. Be2 Qc7 7. O-O Nf6
+8. Be3 Be7 9. f4 d6 10. Qe1 O-O 11. Qg3 Bd7 12. Rae1 b5 13. e5 dxe5 14.
+fxe5 Nxe5 15. Bh6 Ne8 16. Bf4 Bd6 17. Ne4 f6 18. Nxd6 Nxd6 19. Bxe5 fxe5
+20. Qxe5 Qb6 21. Kh1 Nc4 22. Bxc4 bxc4 23. b3 cxb3 24. axb3 Rac8 25. Rxf8+
+Rxf8 26. c4 Qb8 27. Qc5 Qf4 28. Nf3 Bc8 29. Qb6 g5 30. Kg1 g4 31. Ne5 g3
+32. hxg3 Qxg3 33. Qe3 Qxe3+ 34. Rxe3 Rd8 35. Rg3+ Kf8 36. Rf3+ Ke8 37. Rf7
+Rd1+ 38. Kf2 Rd2+ 39. Kf1 h5 40. Rh7 Kd8 41. Nc6+ Ke8 42. Rh8+ Kd7 43. Rd8+
+Kxc6 44. Rxd2 Kc5 45. b4+ 1-0
+

@@ -1,0 +1,22 @@
+[Event "Bundesliga 8081"]
+[Site "Duitsland tt"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Kiefer, Gerhard"]
+[Black "Teuchert, Bernd"]
+[Result "1-0"]
+[ECO "C12"]
+[Opening "French"]
+[Variation "MacCutcheon, Lasker variation, 8...g6"]
+[HashCode "e3a1a171"]
+[Epoch "Rook"]
+[WhiteID "4606965"]
+[WhiteCountry "GER"]
+[BlackID "4636376"]
+[BlackCountry "GER"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Bb4 5. e5 h6 6. Bd2 Bxc3 7. bxc3 Ne4 8. Qg4
+g6 9. h4 c5 10. Bd3 Nxd2 11. Kxd2 Bd7 12. Rh3 Qe7 13. Rb1 Bc6 14. Rf3 Nd7 15.
+Qf4 g5 16. hxg5 hxg5 17. Qe3 O-O-O 18. Rg3 Rdg8 19. Nh3 f6 20. exf6 Nxf6 21.
+Rxg5 c4 22. Bf5 Ne4+ 23. Bxe4 dxe4 24. Qg3 Rxg5 25. Qxg5 Qf7 26. Nf4 Rg8 27.
+Qe5 e3+ 28. fxe3 Qh7 29. Qxe6+ Kb8 30. Qxc6 1-0

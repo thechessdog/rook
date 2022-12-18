@@ -1,0 +1,17 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Verner, A."]
+[Black "Kim, V."]
+[Result "0-1"]
+[ECO "B33"]
+[Opening "Sicilian"]
+[Variation "Pelikan, Chelyabinsk variation"]
+[HashCode "f4c34284"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6
+8. Na3 b5 9. Nd5 Be7 10. Nxe7 Nxe7 11. Bxf6 gxf6 12. Qd3 Bb7 13. O-O-O d5
+14. exd5 Bxd5 15. c4 Rc8 16. Kb1 Be4 0-1
+

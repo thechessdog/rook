@@ -1,0 +1,21 @@
+[Event "corr EU"]
+[Site "corr EU"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Enigk"]
+[Black "Boyd"]
+[Result "0-1"]
+[ECO "C91"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Bogolyubov variation"]
+[HashCode "2d26ec23"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8.
+c3 O-O 9. d4 Bg4 10. Be3 exd4 11. Bxd4 Nxd4 12. cxd4 c5 13. h3 Bxf3 14.
+Qxf3 cxd4 15. Nd2 Nd7 16. Qh5 Bf6 17. f4 Rc8 18. Rad1 d3 19. Nf3 g6 20. Qg4
+Bxb2 21. f5 Rc4 22. Rxd3 Nc5 23. Bxc4 bxc4 24. Rd5 Qb6 25. Kh2 Nd3 26. Re2
+Ne5 27. Qg5 Rc8 28. Ne1 Nd7 29. fxg6 hxg6 30. Rxb2 Qxb2 31. Rxd6 Nf8 32.
+Qf6 Qxa2 33. Rxa6 Qb1 34. Nf3 Qxe4 35. Ra3 Nh7 36. Qc3 Qf4+ 37. g3 Qe4 38.
+Ra2 Rd8 39. Rf2 Rd1 40. Qc2 Rd3 41. Qb1 Qe3 42. Kg2 c3 43. Qe1 Qc5 0-1
+

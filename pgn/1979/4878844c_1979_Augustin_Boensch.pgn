@@ -1,0 +1,24 @@
+[Event "BKL-Turnier"]
+[Site "Leipzig"]
+[Date "1979.01.01"]
+[Round "7"]
+[White "Augustin, Josef"]
+[Black "Boensch, Uwe"]
+[Result "0-1"]
+[ECO "B25"]
+[Opening "Sicilian"]
+[Variation "closed, 6.f4"]
+[HashCode "4878844c"]
+[Epoch "Rook"]
+[WhiteID "300373"]
+[WhiteCountry "CZE"]
+[BlackID "4611268"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nc3 d6 3. g3 Nc6 4. Bg2 g6 5. d3 Bg7 6. f4 e6 7. Nf3 Nge7 8. O-O
+O-O 9. Kh1 b6 10. Be3 d5 11. Bg1 dxe4 12. dxe4 Ba6 13. Rf2 Qxd1 14. Rxd1 Bxc3
+15. bxc3 Rad8 16. Rfd2 Be2 17. Rxd8 Rxd8 18. Rxd8+ Nxd8 19. Be3 Nb7 20. Bc1 Nd6
+21. Ne1 f5 22. exf5 gxf5 23. Kg1 Bc4 24. a3 Kf7 25. Nf3 Ke8 26. Ne5 Be2 27. h3
+Bd1 28. g4 Bxc2 29. g5 Be4 30. h4 Ng6 31. h5 Nxe5 32. fxe5 Nc4 33. Bxe4 fxe4
+34. Kf2 Kf7 35. Ke2 a6 36. a4 b5 37. axb5 axb5 38. Be3 b4 39. cxb4 cxb4 40. Bd4
+b3 41. Kf2 Kg7 42. Kg3 b2 0-1

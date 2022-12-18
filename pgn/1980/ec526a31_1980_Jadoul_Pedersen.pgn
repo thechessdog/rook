@@ -1,0 +1,20 @@
+[Event "Berlin tt"]
+[Site "Berlin-West"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Jadoul, Michel"]
+[Black "Pedersen, Erik"]
+[Result "1/2-1/2"]
+[ECO "B16"]
+[Opening "Caro-Kann"]
+[Variation "Bronstein-Larsen variation"]
+[HashCode "ec526a31"]
+[Epoch "Rook"]
+[WhiteID "200034"]
+[BlackID "1404997"]
+[WhiteCountry "BEL"]
+[BlackCountry "DEN"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ gxf6 6. Nf3 Bf5 7. Bd3 Bg6
+8. Bf4 e6 9. Qe2 Bd6 10. Bg3 Qc7 11. O-O-O Nd7 12. Nd2 O-O-O 13. Bxg6 hxg6 14.
+Ne4 Bxg3 15. hxg3 Kb8 16. Qf3 Qa5 17. Qf4+ Qc7 18. Qf3 1/2-1/2

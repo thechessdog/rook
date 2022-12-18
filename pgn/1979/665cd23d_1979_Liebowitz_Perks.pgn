@@ -1,0 +1,20 @@
+[Event "Ohio blindfold simul"]
+[Site "Ohio blindfold simul"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Liebowitz, Errol"]
+[Black "Perks, Grant"]
+[Result "1-0"]
+[ECO "B02"]
+[Opening "Alekhine's defence"]
+[Variation "Saemisch attack"]
+[HashCode "665cd23d"]
+[Epoch "Rook"]
+[WhiteID "2003520"]
+[BlackID "2036967"]
+[WhiteCountry "USA"]
+[BlackCountry "USA"]
+
+1. e4 Nf6 2. e5 Nd5 3. Nc3 Nb6 4. d4 d6 5. Bd3 Nc6 6. Nf3 Bg4 7. exd6 exd6 8.
+Be3 Be7 9. O-O Bf6 10. Re1 O-O 11. h3 Bxf3 12. Qxf3 Nxd4 13. Bxd4 Bxd4 14. Qe4
+Bxf2+ 15. Kxf2 f5 16. Qe7 d5 17. Qxd8 Raxd8 18. Re2 1-0

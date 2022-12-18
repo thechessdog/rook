@@ -1,0 +1,20 @@
+[Event "Cuba"]
+[Site "Cuba"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Hernandez, Alberto COL"]
+[Black "Diaz, Joaquin, Dr."]
+[Result "1/2-1/2"]
+[ECO "D58"]
+[Opening "QGD"]
+[Variation "Tartakower (Makagonov-Bondarevsky) system"]
+[HashCode "3b68e251"]
+[Epoch "Rook"]
+[WhiteID "4418506"]
+[BlackID "4663349"]
+[WhiteCountry "COL"]
+[BlackCountry "GER"]
+
+1. d4 d5 2. Nf3 e6 3. c4 Nf6 4. Nc3 Be7 5. Bg5 h6 6. Bh4 O-O 7. e3 b6 8. Be2
+Bb7 9. O-O dxc4 10. Bxc4 Ne4 11. Bxe7 Qxe7 12. Qe2 c5 13. Rac1 Nd7 14. Nxe4
+Bxe4 15. Bb5 Rad8 16. Nd2 1/2-1/2

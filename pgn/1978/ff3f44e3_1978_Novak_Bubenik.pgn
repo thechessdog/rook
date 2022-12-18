@@ -1,0 +1,19 @@
+[Event "corr CSR/K"]
+[Site "corr CSR/K"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Nowak, Jan"]
+[Black "Bubenik"]
+[Result "1-0"]
+[ECO "B31"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (with ...g6, without ...d6)"]
+[HashCode "ff3f44e3"]
+[Epoch "Rook"]
+[WhiteID "1108310"]
+[WhiteCountry "POL"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. Re1 e5 6. Bxc6 bxc6 7. c3 Ne7 8. d4
+cxd4 9. cxd4 exd4 10. Nxd4 O-O 11. Nc3 Rb8 12. Rb1 Rb4 13. e5 Qb6 14. Nf3 Qb8
+15. b3 Re8 16. Be3 d6 17. exd6 Bxc3 18. Bd2 Bxd2 19. Rxe7 Be6 20. Qxd2 Rb7 21.
+Ne5 Bd5 22. Nd7 Rxd7 23. Rxd7 a6 24. Re1 Rd8 25. Rxd8+ Qxd8 26. Qf4 1-0

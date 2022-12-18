@@ -1,0 +1,20 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Lukin, Andrei M"]
+[Black "Dorfman, Iossif"]
+[Result "1/2-1/2"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Byrne (English) attack"]
+[HashCode "86c0f0e3"]
+[Epoch "Rook"]
+[BlackCountry "FRA"]
+[WhiteID "4101251"]
+[WhiteCountry "RUS"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e5 7. Nb3 Be7 8. f3
+Be6 9. Qd2 O-O 10. O-O-O b5 11. g4 b4 12. Ne2 a5 13. Kb1 a4 14. Nbc1 b3 15. g5
+bxc2+ 16. Qxc2 Nfd7 17. h4 Na6 18. f4 Qb8 19. f5 Rc8 20. Qd3 Nac5 21. Qc2 Na6
+22. Qd3 Nac5 23. Qc2 Na6 1/2-1/2

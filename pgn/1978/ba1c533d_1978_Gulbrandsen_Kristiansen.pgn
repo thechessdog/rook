@@ -1,0 +1,20 @@
+[Event "Oslo"]
+[Site "Oslo"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Gulbrandsen"]
+[Black "Kristiansen, Tor"]
+[Result "0-1"]
+[ECO "A59"]
+[Opening "Benko gambit"]
+[Variation "main line"]
+[HashCode "ba1c533d"]
+[Epoch "Rook"]
+[BlackID "1500589"]
+[BlackCountry "NOR"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. bxa6 Bxa6 6. Nc3 g6 7. e4 Bxf1 8.
+Kxf1 d6 9. Nf3 Bg7 10. g3 O-O 11. Kg2 Nbd7 12. Qc2 Qb6 13. Rb1 e6 14. dxe6 fxe6
+15. h3 d5 16. Re1 Qc6 17. a3 Nh5 18. Ng5 d4 19. Na2 Ne5 20. f4 h6 21. Nf3 Nxf3
+22. Kxf3 e5 23. Qc4+ Kh7 24. Qd5 Qc8 25. Kg2 exf4 26. gxf4 Rxf4 27. Bd2 Rh4 28.
+Rh1 Qb8 29. Rhg1 Qg3+ 30. Kf1 Rf8+ 0-1

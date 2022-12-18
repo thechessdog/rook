@@ -1,0 +1,22 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Poehland"]
+[Black "Hinkel"]
+[Result "1-0"]
+[ECO "B40"]
+[Opening "Sicilian"]
+[Variation "Pin, Koch variation"]
+[HashCode "b8b098ec"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Bb4 6. e5 Nd5 7. Qg4 Kf8
+8. a3 Ba5 9. Bd2 Nxc3 10. bxc3 Qc7 11. Qg3 Nc6 12. f4 Nxd4 13. cxd4 Bxd2+
+14. Kxd2 d5 15. Rc1 b5 16. Qb3 Qa5+ 17. Qb4+ Qxb4+ 18. axb4 a6 19. Bd3 Bd7
+20. Ra1 Ke7 21. Ra3 Bc6 22. Rf1 g6 23. Be2 h5 24. Rff3 Ra7 25. Rh3 Rha8 26.
+Ra5 Rc7 27. g4 hxg4 28. Bxg4 Bb7 29. Be2 Rac8 30. Bd3 Kf8 31. Ra1 Kg7 32.
+Rg1 Ra8 33. Rg4 Rh8 34. Rxh8 Kxh8 35. h4 Rc8 36. h5 gxh5 37. Rh4 Rg8 38.
+Rxh5+ Kg7 39. f5 exf5 40. Rg5+ Kf8 41. Rxg8+ Kxg8 42. Bxf5 f6 43. Ke3 Kf7
+44. Kf4 Ke7 45. Bg4 Kf7 46. Bd7 a5 47. bxa5 b4 48. Kf5 fxe5 49. Kxe5 1-0
+

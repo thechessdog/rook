@@ -1,0 +1,20 @@
+[Event "corr DDR/K"]
+[Site "corr DDR/K"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Starck, Ines"]
+[Black "Evers"]
+[Result "0-1"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Lipnitzky attack"]
+[HashCode "07f6c35d"]
+[Epoch "Rook"]
+[WhiteID "4612477"]
+[WhiteCountry "GER"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Be3 Be7 8. Qe2
+O-O 9. O-O-O Nc6 10. Bb3 Qc7 11. Rhg1 b5 12. g4 b4 13. Nxc6 Qxc6 14. Nd5 exd5
+15. g5 Nxe4 16. Bxd5 Qa4 17. Bxe4 Be6 18. Bd4 g6 19. h4 Rac8 20. h5 Qxa2 21. f4
+Rc4 22. Qe3 b3 23. hxg6 fxg6 24. Bxg6 Qa1+ 25. Kd2 Rxd4+ 26. Bd3 Rxd3+ 27. Kxd3
+Bf5+ 0-1

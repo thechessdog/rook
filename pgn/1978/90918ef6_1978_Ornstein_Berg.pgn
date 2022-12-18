@@ -1,0 +1,20 @@
+[Event "Rilton Cup"]
+[Site "Stockholm"]
+[Date "1978.??.??"]
+[Round "1"]
+[White "Ornstein, Axel"]
+[Black "Berg, Klaus"]
+[Result "1-0"]
+[ECO "B10"]
+[Opening "Caro-Kann"]
+[Variation "anti-anti-Caro-Kann defence"]
+[HashCode "90918ef6"]
+[Epoch "Rook"]
+[WhiteID "1700111"]
+[BlackID "1400053"]
+[WhiteCountry "SWE"]
+[BlackCountry "DEN"]
+
+1. e4 c6 2. c4 d5 3. exd5 cxd5 4. cxd5 Nf6 5. Bb5+ Bd7 6. Bc4 Qc7 7. d3 b5 8.
+Bb3 Bg4 9. f3 Bc8 10. Nc3 b4 11. Ne4 Nbd7 12. Ne2 Bb7 13. Nf4 Nb6 14. d6 exd6
+15. Nxf6+ gxf6 16. O-O Be7 17. Be3 O-O 18. Qe1 d5 19. Qg3+ 1-0

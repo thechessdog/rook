@@ -1,0 +1,23 @@
+[Event "Roskilde"]
+[Site "Roskilde"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Rajna, George"]
+[Black "Webb, Simon"]
+[Result "0-1"]
+[ECO "D59"]
+[Opening "QGD"]
+[Variation "Tartakower (Makagonov-Bondarevsky) system, 8.cd Nxd5"]
+[HashCode "615c577c"]
+[Epoch "Rook"]
+[WhiteID "2801566"]
+[WhiteCountry "ISR"]
+[BlackCountry "ENG"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 e6 4. Nc3 Be7 5. Bg5 O-O 6. e3 h6 7. Bh4 b6 8. cxd5
+Nxd5 9. Bxe7 Qxe7 10. Nxd5 exd5 11. Qa4 a5 12. a3 c5 13. Bb5 Na6 14. O-O Nc7
+15. Rfc1 c4 16. Ne5 Qd6 17. b3 Nxb5 18. Qxb5 f6 19. Ng6 Bd7 20. Qxd5+ Qxd5 21.
+Ne7+ Kf7 22. Nxd5 cxb3 23. Rab1 Rac8 24. Re1 Be6 25. Nxb6 Rc6 26. Na4 Rc2 27.
+Rec1 Rfc8 28. Nc5 R8xc5 29. dxc5 Rxc1+ 30. Rxc1 Bf5 31. f3 b2 32. Re1 b1=Q 33.
+Rxb1 Bxb1 34. Kf2 f5 35. Kg3 Ke6 36. h4 Kd5 37. Kf4 Kxc5 38. Ke5 Kb5 39. Kd6
+Ka4 40. h5 Kxa3 0-1

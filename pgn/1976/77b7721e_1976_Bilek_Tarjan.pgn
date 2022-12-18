@@ -1,0 +1,23 @@
+[Event "Odessa"]
+[Site "Odessa"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Bilek, Istvan"]
+[Black "Tarjan, James"]
+[Result "0-1"]
+[ECO "A07"]
+[Opening "Reti"]
+[Variation "King's Indian attack (with ...c5)"]
+[HashCode "77b7721e"]
+[Epoch "Rook"]
+[BlackID "2000180"]
+[BlackCountry "USA"]
+[WhiteCountry "HUN"]
+
+1. Nf3 d5 2. g3 c5 3. c4 d4 4. e3 dxe3 5. fxe3 g6 6. Bg2 Bg7 7. O-O Nf6 8. Nc3
+O-O 9. b3 Nc6 10. Bb2 Nb4 11. Na4 Nd3 12. Bc3 Bd7 13. Qe2 Bc6 14. Ne1 Bxg2 15.
+Kxg2 Nxe1+ 16. Raxe1 b6 17. Qf3 Qd3 18. Nb2 Qe4 19. d3 Qe6 20. d4 Ne4 21. d5
+Ng5 22. dxe6 Nxf3 23. Rxf3 Bxc3 24. exf7+ Kg7 25. Re2 Rad8 26. Rf1 Rxf7 27. Rd1
+Rff8 28. Nd3 Rd6 29. Rc2 Be5 30. Nb2 Rfd8 31. Rxd6 Rxd6 32. Kf3 Kf6 33. Rf2
+Bxb2 34. Ke4+ Kg5 35. Rxb2 Re6+ 36. Kf3 Rf6+ 37. Ke4 Re6+ 38. Kf3 Rd6 39. Ke4
+Kg4 40. b4 cxb4 41. Rxb4 0-1

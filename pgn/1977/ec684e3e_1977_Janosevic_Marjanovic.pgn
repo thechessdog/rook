@@ -1,0 +1,19 @@
+[Event "Vrsac"]
+[Site "Vrsac"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Janosevic, Dragoljub"]
+[Black "Marjanovic, Slavoljub"]
+[Result "1/2-1/2"]
+[ECO "B87"]
+[Opening "Sicilian"]
+[Variation "Sozin with ...a6 and ...b5"]
+[HashCode "ec684e3e"]
+[Epoch "Rook"]
+[BlackID "900354"]
+[WhiteCountry "SRB"]
+[BlackCountry "SRB"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 b5 8. O-O
+Be7 9. f4 Bb7 10. e5 dxe5 11. fxe5 Bc5 12. Be3 Nc6 13. exf6 Nxd4 14. Qh5 Qc7
+15. Rae1 g6 16. Qh3 O-O-O 17. Kh1 h5 18. a3 1/2-1/2

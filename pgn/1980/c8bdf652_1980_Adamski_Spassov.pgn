@@ -1,0 +1,21 @@
+[Event "Warsaw"]
+[Site "Warsaw"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Adamski, Jan"]
+[Black "Spassov, Liuben"]
+[Result "1/2-1/2"]
+[ECO "E15"]
+[Opening "Queen's Indian"]
+[Variation "Nimzovich variation (exaggerated fianchetto)"]
+[HashCode "c8bdf652"]
+[Epoch "Rook"]
+[WhiteID "1100190"]
+[WhiteCountry "POL"]
+[BlackID "2900220"]
+[BlackCountry "FID"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. Nbd2 c5 6. e4 cxd4 7. e5 Ng8 8. Bg2
+Bb7 9. O-O d6 10. Nb3 dxe5 11. Nxe5 Bxg2 12. Kxg2 Nd7 13. Qxd4 Ngf6 14. Bf4
+Nxe5 15. Bxe5 Qxd4 16. Nxd4 Nd7 17. Bf4 a6 18. Rad1 Rc8 19. b3 Be7 20. Rfe1 Nf6
+21. Kf3 1/2-1/2

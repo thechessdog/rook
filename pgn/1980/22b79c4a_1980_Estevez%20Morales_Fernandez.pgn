@@ -1,0 +1,23 @@
+[Event "match"]
+[Site "match"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Estevez Morales, Guillermo"]
+[Black "Fernandes, Antonio"]
+[Result "1/2-1/2"]
+[ECO "B93"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.f4"]
+[HashCode "22b79c4a"]
+[Epoch "Rook"]
+[WhiteCountry "CUB"]
+[BlackID "1900021"]
+[BlackCountry "POR"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 Qc7 7. Bd3 g6 8. O-O
+Bg7 9. Kh1 Nbd7 10. Nf3 Nc5 11. Qe1 b5 12. a3 Bb7 13. Bd2 O-O 14. b4 Nxd3 15.
+cxd3 Rac8 16. Rc1 Qd7 17. f5 e6 18. Qh4 exf5 19. Bh6 Bxh6 20. Qxh6 Ng4 21. Qd2
+fxe4 22. dxe4 f5 23. exf5 Rxf5 24. Ne2 Rcf8 25. Ned4 Rh5 26. Kg1 Bxf3 27. Nxf3
+Qa7+ 28. Qd4 Qxd4+ 29. Nxd4 Rxf1+ 30. Rxf1 Ne3 31. Rf3 Nc4 32. Ne6 Rf5 33. Rxf5
+gxf5 34. Nc7 Kf7 35. Nxa6 Nxa3 36. Nc7 Kf6 37. Kf2 Ke5 38. Kf3 d5 39. Na6 Nc2
+40. Nc7 Nxb4 41. Nxb5 d4 1/2-1/2

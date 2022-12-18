@@ -1,0 +1,20 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Kretschmer, Helmut"]
+[Black "Rau"]
+[Result "1-0"]
+[ECO "B23"]
+[Opening "Sicilian"]
+[Variation "Grand Prix attack"]
+[HashCode "b8e6070e"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nc3 Nc6 3. f4 e6 4. Nf3 Nge7 5. d4 cxd4 6. Nxd4 Nxd4 7. Qxd4
+Nc6 8. Qf2 Bb4 9. Bd2 d6 10. Qg3 O-O 11. Bd3 a6 12. O-O f5 13. exf5 exf5
+14. Bc4+ Kh8 15. Rad1 Ne7 16. Be3 Rf6 17. Bd4 Rg6 18. Qe3 Nc6 19. Bf7 Nxd4
+20. Bxg6 Bc5 21. Qh3 Nxc2+ 22. Kh1 h6 23. Rd2 Ne3 24. Re1 Qf6 25. Bh5 Bd7
+26. Rxe3 Bxe3 27. Nd5 Rc8 28. Nxf6 Bxd2 29. Kg1 Rc1+ 30. Kf2 Be1+ 31. Ke3
+gxf6 32. Bf7 Kg7 33. Qh5 Kf8 34. Bd5 1-0
+

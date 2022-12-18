@@ -1,0 +1,20 @@
+[Event "corr ICA"]
+[Site "corr ICA"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Jablokow"]
+[Black "Walhout"]
+[Result "0-1"]
+[ECO "C82"]
+[Opening "Ruy Lopez"]
+[Variation "open, Motzko attack"]
+[HashCode "76134e39"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8.
+dxe5 Be6 9. c3 Bc5 10. Qd3 O-O 11. Be3 Bxe3 12. Qxe3 Ne7 13. Nbd2 Nxd2 14.
+Nxd2 c5 15. Qxc5 Qd7 16. f4 Rac8 17. Qf2 Rc6 18. Nf3 Bg4 19. Nd4 Rg6 20.
+Kh1 Rh6 21. a4 bxa4 22. Rxa4 Rb8 23. Rfa1 Qb7 24. f5 Nxf5 25. Nxf5 Bxf5 26.
+Qxf5 g6 27. Qf4 g5 28. Qb4 Qc7 29. Qa3 Qxe5 30. h4 Rbb6 31. Rd1 Qe2 32.
+Rad4 g4 33. R4d3 Rxh4+ 0-1
+

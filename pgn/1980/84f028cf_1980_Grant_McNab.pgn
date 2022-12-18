@@ -1,0 +1,19 @@
+[Event "Wch U20"]
+[Site "Dortmund"]
+[Date "1980.??.??"]
+[Round "12"]
+[White "Grant, C."]
+[Black "McNab, Colin A"]
+[Result "0-1"]
+[ECO "B12"]
+[Opening "Caro-Kann"]
+[Variation "advance variation"]
+[HashCode "84f028cf"]
+[Epoch "Rook"]
+[BlackID "2400030"]
+[BlackCountry "SCO"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. g4 Be4 5. f3 Bg6 6. Bd3 e6 7. Be3 Be7 8. Ne2 Nd7
+9. Nbc3 a6 10. Qd2 c5 11. f4 c4 12. Bxg6 hxg6 13. O-O-O b5 14. Nb1 b4 15. c3
+Qa5 16. cxb4 Qxa2 17. Nbc3 Qb3 18. Kb1 Bxb4 19. Nc1 Bxc3 20. Nxb3 Bxd2 21. Nxd2
+Rh3 0-1

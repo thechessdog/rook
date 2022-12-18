@@ -1,0 +1,22 @@
+[Event "DEN-ch"]
+[Site "Aarhus"]
+[Date "1981.01.01"]
+[Round "9"]
+[White "Fries-Nielsen, Niels Jorgen"]
+[Black "Reinert, Mads"]
+[Result "1-0"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "modern variation"]
+[HashCode "a0466ed8"]
+[Epoch "Rook"]
+[BlackID "1400487"]
+[BlackCountry "DEN"]
+[WhiteCountry "DEN"]
+
+1. b3 e5 2. Bb2 Nc6 3. e3 d5 4. Bb5 Bd6 5. Ne2 Nf6 6. d4 e4 7. c4 O-O 8. Bxc6
+bxc6 9. Ba3 Ng4 10. Bxd6 cxd6 11. cxd5 cxd5 12. Nbc3 Qh4 13. g3 Qh6 14. h3 Nf6
+15. Kd2 a5 16. Nf4 Be6 17. Rc1 Rfb8 18. Qf1 Rb4 19. g4 g5 20. Nfe2 Nd7 21. f4
+exf3 22. Qxf3 Qg6 23. h4 a4 24. Nxa4 Nf6 25. hxg5 Ne4+ 26. Ke1 Nxg5 27. Qf4 Bd7
+28. Nac3 Be6 29. Ng3 Re8 30. Kd2 Rb7 31. Nh5 h6 32. Nf6+ Kf8 33. Nxe8 Kxe8 34.
+Rhf1 Rc7 35. Qf6 Qxf6 36. Rxf6 Rxc3 37. Rxe6+ fxe6 38. Kxc3 1-0

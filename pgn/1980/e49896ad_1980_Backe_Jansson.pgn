@@ -1,0 +1,20 @@
+[Event "Eskilstuna"]
+[Site "Eskilstuna"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Backe, Peter"]
+[Black "Jansson, Borje"]
+[Result "1-0"]
+[ECO "A18"]
+[Opening "English"]
+[Variation "Mikenas-Carls, Flohr variation"]
+[HashCode "e49896ad"]
+[Epoch "Rook"]
+[WhiteID "1701240"]
+[WhiteCountry "SWE"]
+[BlackID "1700189"]
+[BlackCountry "SWE"]
+
+1. c4 Nf6 2. Nc3 e6 3. e4 d5 4. e5 d4 5. exf6 dxc3 6. bxc3 Qxf6 7. d4 c5 8. Nf3
+h6 9. Bd3 Nc6 10. Be4 Bd7 11. O-O cxd4 12. Rb1 Rb8 13. cxd4 Bd6 14. Bb2 Qf4 15.
+Bxc6 Bxc6 16. d5 Bd7 17. g3 Qf5 18. Nh4 Qh3 19. dxe6 1-0

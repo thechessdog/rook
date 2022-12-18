@@ -1,0 +1,18 @@
+[Event "Hamburg"]
+[Site "Hamburg"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Bjarnason, Saevar"]
+[Black "Maier"]
+[Result "0-1"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, positional main line"]
+[HashCode "d4e6fcb2"]
+[Epoch "Rook"]
+[WhiteID "2300176"]
+[WhiteCountry "ISL"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 Ne7 5. a3 Bxc3+ 6. bxc3 c5 7. Nf3 Bd7 8. a4
+Qa5 9. Bd2 Nbc6 10. Rb1 Qc7 11. Be2 f6 12. Bf4 Ng6 13. Bg3 fxe5 14. dxe5 O-O
+15. Qd2 Nce7 16. h4 Bxa4 17. h5 Rxf3 18. gxf3 Nf8 19. h6 g6 20. c4 d4 0-1

@@ -1,0 +1,24 @@
+[Event "corr ch11-DDR"]
+[Site "corr ch11-DDR"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Rosenhahn, E."]
+[Black "Gerold, G."]
+[Result "1-0"]
+[ECO "B66"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...a6"]
+[HashCode "abcc83ca"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nc3 Nc6 3. Nge2 Nf6 4. d4 cxd4 5. Nxd4 d6 6. Bg5 e6 7. Qd2 a6
+8. O-O-O h6 9. Bf4 Bd7 10. Nxc6 Bxc6 11. f3 Qb6 12. Bc4 O-O-O 13. Bb3 Be7
+14. Rhe1 g5 15. Be3 Qa5 16. Kb1 Rhe8 17. Nd5 Qxd2 18. Nxe7+ Rxe7 19. Rxd2
+Kc7 20. e5 Ne8 21. h4 gxh4 22. Rh1 Red7 23. exd6+ Nxd6 24. Bxh6 Nf5 25.
+Bf4+ Kc8 26. Rxd7 Bxd7 27. c3 f6 28. Bc2 e5 29. Bd2 Rh8 30. Be1 Ne3 31.
+Rxh4 Rxh4 32. Bxh4 Nxc2 33. Kxc2 f5 34. Bf6 e4 35. fxe4 fxe4 36. Kd2 Bf5
+37. Ke3 Kd7 38. Kd4 Kd6 39. Bg5 Bg6 40. g4 Bh7 41. Be3 Bg6 42. b4 Bh7 43.
+a4 Bg6 44. Bf4+ Kc6 45. Be3 Kd6 46. a5 Bh7 47. Bg5 Bg6 48. Bd8 Bh7 49. Bb6
+Ke6 50. c4 Bg6 51. Bc7 Kd7 52. Bf4 Kc6 53. Ke5 Bh7 54. Be3 Kd7 55. Kd5 Bg8+
+56. Kc5 Kc7 57. Bf4+ Kc8 58. b5 axb5 59. cxb5 Bf7 60. b6 Bg6 61. Kd6 1-0
+

@@ -1,0 +1,17 @@
+[Event "Havana"]
+[Site "Havana"]
+[Date "1982.01.01"]
+[Round "8"]
+[White "Hernandez, Roman"]
+[Black "Vera Gonzalez-Quevedo, Reynaldo"]
+[Result "1/2-1/2"]
+[ECO "D02"]
+[Opening "Queen's pawn game, Krause variation"]
+[HashCode "803edb38"]
+[Epoch "Rook"]
+[WhiteCountry "CUB"]
+[BlackCountry "CUB"]
+
+1. d4 d5 2. Nf3 c5 3. c4 e6 4. cxd5 exd5 5. g3 Nc6 6. Bg2 Nf6 7. O-O Be7 8. b3
+Ne4 9. Bb2 Bf6 10. e3 Bg4 11. h3 Bxf3 12. Bxf3 cxd4 13. exd4 O-O 14. Na3 Re8
+15. Nc2 Qa5 16. Re1 Qb6 17. Kg2 Rad8 18. Re2 Qb5 1/2-1/2

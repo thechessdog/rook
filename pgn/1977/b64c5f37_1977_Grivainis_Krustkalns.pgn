@@ -1,0 +1,17 @@
+[Event "corr Atars mem"]
+[Site "corr Atars mem"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Grivainis, Konstant"]
+[Black "Krustkalns, E."]
+[Result "0-1"]
+[ECO "C40"]
+[Opening "Latvian counter-gambit"]
+[HashCode "b64c5f37"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 f5 3. Nxe5 Qf6 4. d4 d6 5. Nc4 fxe4 6. Nc3 Qg6 7. f3 exf3
+8. Qxf3 Nc6 9. Bd3 Qg4 10. Qf2 Qxd4 11. Be3 Qf6 12. Qe2 Be6 13. Ne4 Qh4+
+14. Ng3 Kd7 15. O-O Re8 16. Rf4 Qd8 17. Qf2 Nf6 18. Nf5 Nd5 19. Rf3 Nxe3
+20. Rxe3 g6 0-1
+

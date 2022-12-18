@@ -1,0 +1,19 @@
+[Event "Kislovodsk"]
+[Site "Kislovodsk"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Perenyi, Bela"]
+[Black "Vorotnikov, Vladislav V"]
+[Result "0-1"]
+[ECO "C34"]
+[Opening "KGA"]
+[Variation "Fischer defence"]
+[HashCode "aaea6d40"]
+[Epoch "Rook"]
+[WhiteCountry "HUN"]
+[BlackID "4103009"]
+[BlackCountry "RUS"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 d6 4. Bc4 h6 5. b4 Nc6 6. Bb2 Bg4 7. O-O Nf6 8. Qe1
+Bxf3 9. gxf3 Nxb4 10. Bb3 Be7 11. Kh1 Qd7 12. d4 d5 13. a3 Nc6 14. c4 dxc4 15.
+Ba4 Qh3 16. d5 Nh5 17. dxc6 b5 0-1

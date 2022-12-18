@@ -1,0 +1,22 @@
+[Event "corr GB"]
+[Site "corr GB"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Mason"]
+[Black "Tibbert"]
+[Result "1-0"]
+[ECO "C43"]
+[Opening "Petrov"]
+[Variation "modern attack, Symmetrical variation"]
+[HashCode "32b96dd2"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nf6 3. d4 Nxe4 4. Bd3 d5 5. Nxe5 Bd6 6. O-O O-O 7. c4 Nc6
+8. Nxc6 bxc6 9. c5 Be7 10. Qc2 Bf6 11. Be3 Re8 12. Nc3 Bf5 13. Rfe1 Bg6 14.
+Ne2 h6 15. Nf4 Bh7 16. f3 Ng5 17. Bxh7+ Nxh7 18. Bf2 Ng5 19. Rxe8+ Qxe8 20.
+Re1 Qd7 21. Nh5 Be7 22. Qe2 Bf8 23. Qe5 f6 24. Qxf6 Re8 25. Re5 Rxe5 26.
+Qxe5 Qf7 27. Nf4 g6 28. h4 Bg7 29. Qe3 Nh7 30. Qe6 Nf8 31. Qxf7+ Kxf7 32.
+Kf1 Ne6 33. Nxe6 Kxe6 34. Ke2 Bf6 35. Ke3 Kd7 36. Kf4 Ke6 37. g4 Be7 38.
+Kg3 Bf6 39. Kf4 Be7 40. Ke3 Bf6 41. Kd3 Kd7 42. Be3 Bxh4 43. Bxh6 Bf6 44.
+Bf4 Bd8 45. Be5 Be7 46. f4 Bd8 47. f5 gxf5 48. gxf5 Ke7 1-0
+

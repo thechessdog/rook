@@ -1,0 +1,23 @@
+[Event "Finland"]
+[Site "Finland"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Pyhala, Antti"]
+[Black "Maki, Veijo"]
+[Result "1-0"]
+[ECO "B25"]
+[Opening "Sicilian"]
+[Variation "closed, 6.f4"]
+[HashCode "d83853d6"]
+[Epoch "Rook"]
+[BlackID "500046"]
+[BlackCountry "FIN"]
+[WhiteCountry "FIN"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. f4 e6 7. Nf3 Nge7 8. O-O
+O-O 9. Bd2 Rb8 10. Rb1 b5 11. b3 Nd4 12. a3 a5 13. a4 bxa4 14. Nxa4 Bd7 15.
+Nxd4 Bxd4+ 16. Kh1 Bg7 17. Bc3 Bxa4 18. Bxg7 Kxg7 19. bxa4 e5 20. Qd2 Rb4 21.
+c3 Rxb1 22. Rxb1 Nc6 23. Rb5 Na7 24. Rb7 Qa8 25. Rb2 Nc6 26. h4 Rb8 27. fxe5
+dxe5 28. Rb5 Rxb5 29. axb5 Na7 30. c4 Qd8 31. Qb2 Qd4 32. Qa3 Nc8 33. Kh2 a4
+34. Qxa4 Qxd3 35. Qa6 Qxc4 36. Qxc8 Qxb5 37. Qc7 c4 38. Kh3 Qb3 39. Qxe5+ Kg8
+40. Qd5 Qc2 1-0

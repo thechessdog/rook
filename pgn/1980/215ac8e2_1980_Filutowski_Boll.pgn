@@ -1,0 +1,18 @@
+[Event "corr Europe tt"]
+[Site "corr Europe tt"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Filutowski"]
+[Black "Boll, P."]
+[Result "1/2-1/2"]
+[ECO "D87"]
+[Opening "Gruenfeld"]
+[Variation "exchange, Spassky variation"]
+[HashCode "215ac8e2"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Bc4 O-O
+8. Ne2 c5 9. O-O Nc6 10. Be3 Qc7 11. Rc1 Rd8 12. Qd2 b6 13. Bh6 Na5 14. Bd3
+Bh8 15. f4 Qd7 16. f5 cxd4 17. fxg6 hxg6 18. Qf4 Qe6 19. c4 Be5 20. Qh4 Nc6
+21. c5 Bf6 1/2-1/2
+

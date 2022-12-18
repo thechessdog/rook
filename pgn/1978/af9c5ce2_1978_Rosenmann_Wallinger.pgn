@@ -1,0 +1,20 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Rosenmann"]
+[Black "Wallinger"]
+[Result "0-1"]
+[ECO "B78"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, 10.O-O-O"]
+[HashCode "af9c5ce2"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O
+8. Bc4 d6 9. Qd2 Bd7 10. O-O-O Rc8 11. Bb3 Ne5 12. h4 Nc4 13. Bxc4 Rxc4 14.
+h5 Nxh5 15. g4 Nf6 16. Nde2 Re8 17. Bh6 Bh8 18. Rh4 Qa5 19. Qd3 Rec8 20.
+Kb1 Be6 21. Bd2 Qa6 22. Rdh1 b5 23. b3 Qb6 24. Be3 Qb7 25. Bd4 b4 26. g5
+Rxd4 27. Nxd4 Rxc3 28. Qf1 Nh5 29. Nxe6 fxe6 30. Rxh5 gxh5 31. Qh3 Qc8 32.
+Qxh5 Bg7 33. Qxh7+ Kf8 34. Qg6 Rxc2 35. e5 Rf2 36. Rf1 0-1
+

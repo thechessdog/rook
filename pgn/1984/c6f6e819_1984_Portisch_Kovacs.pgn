@@ -1,0 +1,19 @@
+[Event "Politiken Cup"]
+[Site "Copenhagen"]
+[Date "1984.??.??"]
+[Round "6"]
+[White "Portisch, Ferenc"]
+[Black "Kovacs, Laszlo M"]
+[Result "1/2-1/2"]
+[ECO "E55"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Gligoric system, Bronstein variation"]
+[HashCode "c6f6e819"]
+[Epoch "Rook"]
+[WhiteID "700487"]
+[WhiteCountry "HUN"]
+[BlackCountry "HUN"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 d5 6. Nf3 dxc4 7. Bxc4 O-O 8. O-O
+Nbd7 9. Qe2 a6 10. a3 cxd4 11. axb4 dxc3 12. bxc3 Qc7 13. e4 Ng4 14. Bd3 Nde5
+15. Nxe5 Nxe5 16. c4 Nxd3 1/2-1/2

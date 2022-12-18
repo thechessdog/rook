@@ -1,0 +1,17 @@
+[Event "corr FRG/M"]
+[Site "corr FRG/M"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Schroeder, C."]
+[Black "Kappes, D."]
+[Result "1-0"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Byrne (English) attack"]
+[HashCode "c61e2a7f"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e6 7. f4 Qc7 8.
+Qf3 Be7 9. Bd3 O-O 10. g4 Nc6 11. g5 Nd7 12. Rg1 b5 13. Rg3 Nc5 14. O-O-O
+Nxd4 15. Bxd4 b4 16. Qh5 g6 17. Qh6 f6 18. f5 Rf7 19. fxg6 1-0
+

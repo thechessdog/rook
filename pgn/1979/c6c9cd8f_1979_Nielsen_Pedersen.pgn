@@ -1,0 +1,22 @@
+[Event "Aalborg"]
+[Site "Aalborg"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Nielsen, Jens"]
+[Black "Pedersen, Erik"]
+[Result "1/2-1/2"]
+[ECO "B16"]
+[Opening "Caro-Kann"]
+[Variation "Bronstein-Larsen variation"]
+[HashCode "c6c9cd8f"]
+[Epoch "Rook"]
+[WhiteID "1409310"]
+[BlackID "1404997"]
+[WhiteCountry "DEN"]
+[BlackCountry "DEN"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ gxf6 6. Nf3 Bf5 7. Bd3 Bxd3
+8. Qxd3 Qc7 9. O-O Nd7 10. c4 e6 11. d5 O-O-O 12. dxe6 fxe6 13. Qe3 Bc5 14.
+Qxe6 Rhe8 15. Qf5 Re2 16. Bf4 Qb6 17. Bg3 Qxb2 18. Rad1 Qc2 19. Rd3 Qxc4 20.
+Rfd1 Re7 21. h4 Qe4 22. Qh3 Qe6 23. Qh2 Rde8 24. Kh1 Ne5 25. Bxe5 fxe5 26. Ng5
+Qf5 27. f3 Bd4 28. Ne4 Qe6 29. Rxd4 exd4 30. Rxd4 Rd7 31. Rxd7 1/2-1/2

@@ -1,0 +1,20 @@
+[Event "corr ch-CSSR"]
+[Site "corr ch-CSSR"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Cerny"]
+[Black "Gajdusek"]
+[Result "0-1"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (without ...d6)"]
+[HashCode "6a014ded"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 Nf6 4. e5 Nd5 5. b3 g6 6. Bb2 Bg7 7. Bxc6 dxc6
+8. O-O O-O 9. d4 cxd4 10. Bxd4 Qc7 11. Nbd2 c5 12. Bb2 Rd8 13. h3 b6 14.
+Re1 Bb7 15. Qe2 Qc6 16. Rad1 a5 17. a3 a4 18. Qe4 b5 19. h4 Qc7 20. Qg4 Bc8
+21. Qg3 Bf5 22. Ne4 Nb6 23. Nfd2 axb3 24. cxb3 c4 25. bxc4 bxc4 26. Re3 Na4
+27. Ba1 Bxe4 28. Rxe4 c3 29. Qf4 Nc5 30. Re2 Rxd2 31. Rexd2 cxd2 32. Rxd2
+Nb3 33. Qf3 Rxa3 34. Bb2 Nxd2 0-1
+

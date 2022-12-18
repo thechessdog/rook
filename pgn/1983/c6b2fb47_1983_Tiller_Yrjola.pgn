@@ -1,0 +1,23 @@
+[Event "Poutiainen mem"]
+[Site "Helsinki"]
+[Date "1983.??.??"]
+[Round "?"]
+[White "Tiller, Bjorn"]
+[Black "Yrjola, Jouni"]
+[Result "0-1"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "Dutch variation"]
+[HashCode "c6b2fb47"]
+[Epoch "Rook"]
+[WhiteID "1500112"]
+[BlackID "500011"]
+[WhiteCountry "NOR"]
+[BlackCountry "FIN"]
+
+1. b3 f5 2. Bb2 Nf6 3. g3 g6 4. Bxf6 exf6 5. c4 d5 6. cxd5 Qxd5 7. Nf3 c6 8.
+Bg2 Bd6 9. Nc3 Qf7 10. e3 Nd7 11. d4 Nb6 12. O-O Be6 13. e4 fxe4 14. Nxe4 O-O-O
+15. Re1 Bd5 16. Nc5 h5 17. b4 g5 18. a4 h4 19. a5 hxg3 20. axb6 gxf2+ 21. Kxf2
+axb6 22. Ra8+ Bb8 23. Na4 Kc7 24. h3 Qd7 25. Nc3 Bxf3 26. Qxf3 Qxd4+ 27. Re3
+Qxb4 28. Ra4 Qc5 29. Re4 b5 30. Re7+ Kb6 31. Kf1 Be5 32. Rg7 Rh4 33. Ne2 Rd1+
+34. Kf2 Bf4 35. Re7 Rd3 36. Nd4 Bxe3+ 0-1

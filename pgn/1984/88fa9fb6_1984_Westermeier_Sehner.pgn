@@ -1,0 +1,20 @@
+[Event "Bundesliga 8384"]
+[Site "Duitsland tt"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Westermeier, Arnulf"]
+[Black "Sehner, Norbert"]
+[Result "1/2-1/2"]
+[ECO "B94"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.Bg5"]
+[HashCode "88fa9fb6"]
+[Epoch "Rook"]
+[WhiteID "4604288"]
+[WhiteCountry "GER"]
+[BlackID "4600398"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 Nbd7 7. Qf3 g6 8.
+O-O-O Bg7 9. Be2 O-O 10. Qe3 Qc7 11. Bh6 b5 12. a3 Bb7 13. Bxg7 Kxg7 14. g4 Nc5
+15. f3 Nfd7 16. h4 e5 1/2-1/2

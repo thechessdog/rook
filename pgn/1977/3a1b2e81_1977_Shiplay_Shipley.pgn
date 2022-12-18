@@ -1,0 +1,16 @@
+[Event "Baltimore"]
+[Site "Baltimore"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Shiplay, A."]
+[Black "Shipley, E."]
+[Result "1-0"]
+[ECO "B29"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rubinstein variation"]
+[HashCode "3a1b2e81"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 Nf6 3. Nc3 a6 4. d4 b5 5. e5 cxd4 6. Nxd4 b4 7. exf6 bxc3
+8. fxg7 cxb2 9. gxh8=Q bxa1=Q 10. Qxf8+ Kxf8 11. Bh6+ Ke8 12. Qxa1 1-0
+

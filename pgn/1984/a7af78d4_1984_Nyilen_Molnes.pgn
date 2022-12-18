@@ -1,0 +1,20 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Nyilen"]
+[Black "Molnes"]
+[Result "1-0"]
+[ECO "B33"]
+[Opening "Sicilian"]
+[Variation "Pelikan, Chelyabinsk variation"]
+[HashCode "a7af78d4"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6
+8. Na3 b5 9. Nd5 Be7 10. Bxf6 Bxf6 11. c3 O-O 12. Nc2 Bg5 13. Be2 Be6 14.
+a4 bxa4 15. Rxa4 a5 16. Bc4 Kh8 17. O-O f5 18. exf5 Bxf5 19. Nce3 Be6 20.
+Qe2 Rb8 21. Rd1 Qd7 22. b3 Bh4 23. Rf1 Qf7 24. f4 Qa7 25. g3 Bxd5 26. Bxd5
+Ne7 27. Kg2 exf4 28. Raxf4 Rxf4 29. Rxf4 Bg5 30. Rf3 a4 31. Qf2 Bxe3 32.
+Rf8+ Ng8 33. Qf5 Bh6 34. Qc8 1-0
+

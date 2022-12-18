@@ -1,0 +1,20 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Kestler, Hans-Guenther"]
+[Black "Dankert, Peter"]
+[Result "0-1"]
+[ECO "A29"]
+[Opening "English"]
+[Variation "four knights, kingside fianchetto"]
+[HashCode "b2e8f4e1"]
+[Epoch "Rook"]
+[BlackID "4605357"]
+[BlackCountry "GER"]
+[WhiteCountry "GER"]
+
+1. c4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. g3 Bb4 5. Bg2 O-O 6. O-O e4 7. Ne1 Bxc3 8.
+dxc3 h6 9. Nc2 b6 10. Ne3 Bb7 11. f4 exf3 12. exf3 Re8 13. Nd5 Ba6 14. Ne3 Na5
+15. Qa4 d5 16. Rd1 Nxc4 17. Nxd5 Nxd5 18. Qxa6 Na5 19. f4 c6 20. c4 Nb4 21.
+Rxd8 Rexd8 0-1

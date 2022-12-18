@@ -1,0 +1,16 @@
+[Event "Tuzla"]
+[Site "Tuzla"]
+[Date "1981.01.01"]
+[Round "15"]
+[White "Nurkic, Sahbaz"]
+[Black "Sprecic, Mustafa"]
+[Result "1-0"]
+[ECO "C06"]
+[Opening "French"]
+[Variation "Tarrasch, Leningrad variation"]
+[HashCode "0096649e"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Bd3 c5 6. c3 cxd4 7. cxd4 Nc6 8. Ne2
+Nb6 9. O-O Bd7 10. a3 a5 11. f4 g6 12. Nf3 a4 13. g4 h5 14. f5 hxg4 15. fxg6
+gxf3 16. gxf7+ Kxf7 17. Rxf3+ Kg8 18. Rg3+ Bg7 19. Bg5 Qf8 20. Bf6 1-0

@@ -1,0 +1,18 @@
+[Event "Massachusetts"]
+[Site "Massachusetts"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Van Laethem, C."]
+[Black "Curdo, John"]
+[Result "0-1"]
+[ECO "C58"]
+[Opening "two knights defence"]
+[Variation "Colman variation"]
+[HashCode "c666d30f"]
+[Epoch "Rook"]
+[BlackID "2001705"]
+[BlackCountry "USA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 Na5 6. Bb5+ c6 7. dxc6 bxc6 8.
+Qf3 Rb8 9. Be2 h6 10. Ne4 Nd5 11. Nbc3 Nb4 12. Bd3 Be7 13. a3 Nxd3+ 14. Qxd3
+Qxd3 15. cxd3 Nb3 16. Rb1 Ba6 0-1

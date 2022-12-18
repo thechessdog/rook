@@ -1,0 +1,19 @@
+[Event "Bern"]
+[Site "Bern"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Speelman, Jon S"]
+[Black "Ammann, Philippe"]
+[Result "1-0"]
+[ECO "B33"]
+[Opening "Sicilian"]
+[Variation "Pelikan (Lasker/Sveshnikov) variation"]
+[HashCode "f26faad8"]
+[Epoch "Rook"]
+[WhiteCountry "ENG"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Nd5 Nxd5 8.
+exd5 Ne7 9. c4 Ng6 10. h4 a6 11. h5 axb5 12. hxg6 fxg6 13. cxb5 Be7 14. Bd3 Bf5
+15. g4 Bxd3 16. Qxd3 Bh4 17. a4 Qf6 18. Be3 O-O 19. Qd2 h6 20. a5 Bg5 21. Bxg5
+hxg5 22. Rh3 Qf4 23. Qxf4 Rxf4 24. Rb3 Rxg4 25. Raa3 Re4+ 26. Kf1 Rc4 27. a6 b6
+28. Rc3 Rb4 29. Rab3 Rd4 30. Rc6 Rxd5 31. Rxb6 Kf7 32. Rb7+ Kf6 33. a7 1-0

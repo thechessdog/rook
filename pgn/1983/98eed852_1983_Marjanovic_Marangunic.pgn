@@ -1,0 +1,23 @@
+[Event "Yugoslavia"]
+[Site "Yugoslavia"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Marjanovic, Slavoljub"]
+[Black "Marangunic, Srdjan"]
+[Result "1-0"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, 6.Bd3"]
+[HashCode "98eed852"]
+[Epoch "Rook"]
+[WhiteID "900354"]
+[WhiteCountry "SRB"]
+[BlackID "14500159"]
+[BlackCountry "CRO"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 O-O 6. Bd3 Nc6 7. O-O Bg4 8. e5
+dxe5 9. dxe5 Nd5 10. h3 Nxc3 11. bxc3 Bd7 12. Qe1 Qc8 13. Ba3 Bf5 14. Qh4 f6
+15. Rae1 Bxd3 16. cxd3 Qd7 17. Re3 fxe5 18. fxe5 Rf5 19. Ng5 h6 20. Qc4+ Kh8
+21. Nf7+ Kh7 22. Rxf5 Qxf5 23. g4 Qc8 24. e6 Na5 25. Qf4 c5 26. h4 Qb8 27. Qe4
+Bxc3 28. h5 Qg8 29. Bxc5 Nc6 30. Rh3 Bd2 31. Rh2 Bc1 32. g5 Qg7 33. hxg6+ Kg8
+34. Nxh6+ Kf8 35. Qf5+ Ke8 36. Qf7+ Qxf7 37. gxf7+ Kf8 38. Nf5 1-0

@@ -1,0 +1,24 @@
+[Event "corr GB/S jub"]
+[Site "corr GB/S jub"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Anton"]
+[Black "Bryson"]
+[Result "1-0"]
+[ECO "E41"]
+[Opening "Nimzo-Indian"]
+[Variation "e3, Huebner variation"]
+[HashCode "8721140f"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 Nc6 6. Nf3 Bxc3+ 7. bxc3 d6
+8. e4 e5 9. h3 h6 10. O-O Qc7 11. Qe2 Bd7 12. dxc5 dxc5 13. Ne1 O-O-O 14.
+Nc2 Qd6 15. Rd1 Ne8 16. Ne3 Na5 17. Nd5 Qa6 18. Be3 b6 19. Qh5 f6 20. Qf7
+Ba4 21. Ne7+ Kb8 22. Bc2 Nb7 23. Bb3 Nbd6 24. Qd5 Rd7 25. Bxa4 Qxa4 26.
+Bxc5 Rxe7 27. Bxd6+ Nc7 28. c5 Rd7 29. cxb6 axb6 30. Rab1 Ka7 31. Bxc7 Rxd5
+32. exd5 b5 33. c4 Kb7 34. d6 b4 35. a3 b3 36. Rd3 Kc6 37. Rbxb3 e4 38.
+Rb6+ Kd7 39. Rg3 g5 40. c5 Qc2 41. c6+ Ke6 42. d7 Ke7 43. Rgb3 Rf8 44. Rb8
+Qxc6 45. d8=Q+ Rxd8 46. Bxd8+ Kf7 47. R3b7+ Kg6 48. Rb1 g4 49. R8b6 Qc8 50.
+Bxf6 gxh3 51. gxh3 Qxh3 52. R1b3 Qd7 53. Bd4+ Kh5 54. R3b5+ Kg4 55. Rg6+
+Kf3 56. Rg3+ Ke2 57. Rb2+ Kd1 58. Kh1 1-0
+

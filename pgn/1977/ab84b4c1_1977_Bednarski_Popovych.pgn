@@ -1,0 +1,19 @@
+[Event "Concordia"]
+[Site "Hamburg"]
+[Date "1977.01.01"]
+[Round "2"]
+[White "Bednarski, Jacek B"]
+[Black "Popovych, Orest"]
+[Result "1/2-1/2"]
+[ECO "B87"]
+[Opening "Sicilian"]
+[Variation "Sozin with ...a6 and ...b5"]
+[HashCode "ab84b4c1"]
+[Epoch "Rook"]
+[BlackID "2002558"]
+[BlackCountry "USA"]
+[WhiteCountry "POL"]
+
+1. e4 c5 2. Nf3 d6 3. Nc3 a6 4. d4 cxd4 5. Nxd4 Nf6 6. Bc4 e6 7. Bb3 b5 8. O-O
+Be7 9. f4 O-O 10. e5 dxe5 11. fxe5 Nfd7 12. Qh5 Nc5 13. Be3 Nxb3 14. axb3 Bb7
+15. Rad1 Qc7 1/2-1/2

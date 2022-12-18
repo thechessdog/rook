@@ -1,0 +1,18 @@
+[Event "corr EU/M/GT"]
+[Site "corr EU/M/GT"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Ekmark, R."]
+[Black "Nevole, V."]
+[Result "0-1"]
+[ECO "B87"]
+[Opening "Sicilian"]
+[Variation "Sozin with ...a6 and ...b5"]
+[HashCode "c4264258"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e6 6. Bc4 a6 7. Bb3 b5 8.
+O-O Be7 9. Qf3 Qb6 10. Be3 Qb7 11. Qg3 Bd7 12. Qxg7 Rg8 13. Qh6 Rg6 14. Qh4
+b4 15. Nd1 Nxe4 16. Qxh7 Rxg2+ 17. Kh1 Nxf2+ 18. Nxf2 Rxf2+ 19. Kg1 Qg2#
+0-1
+

@@ -1,0 +1,18 @@
+[Event "Bor"]
+[Site "Bor"]
+[Date "1983.01.01"]
+[Round "12"]
+[White "Sahovic, Dragutin"]
+[Black "Arnason, Jon L"]
+[Result "1/2-1/2"]
+[ECO "E41"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5"]
+[HashCode "599c5f18"]
+[Epoch "Rook"]
+[BlackID "2300036"]
+[BlackCountry "ISL"]
+[WhiteCountry "SRB"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 O-O 6. Nf3 b6 7. O-O Bb7 8. Bd2
+cxd4 9. exd4 d5 10. cxd5 Nxd5 11. Nxd5 Bxd2 12. Nxb6 Qxb6 13. Nxd2 1/2-1/2

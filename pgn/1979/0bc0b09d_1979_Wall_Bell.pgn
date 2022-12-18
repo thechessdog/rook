@@ -1,0 +1,17 @@
+[Event "Statesville,NC"]
+[Site "Statesville,NC"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Wall, Bill"]
+[Black "Bell, Tom"]
+[Result "1-0"]
+[ECO "B06"]
+[Opening "Robatsch defence"]
+[Variation "Pseudo-Austrian attack"]
+[HashCode "0bc0b09d"]
+[Epoch "Rook"]
+[WhiteCountry "USA"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. f4 e6 5. Nf3 b6 6. Bd3 Bb7 7. Be3 Nd7 8. Qd2
+Ne7 9. O-O d5 10. exd5 Nxd5 11. Nxd5 Bxd5 12. c4 Bb7 13. Ne5 c6 14. Rae1 O-O
+15. f5 gxf5 16. Bh6 Bxh6 17. Qxh6 Nxe5 18. Rf4 Nxd3 19. Rh4 1-0

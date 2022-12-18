@@ -1,0 +1,18 @@
+[Event "Riga"]
+[Site "Riga"]
+[Date "1981.??.??"]
+[Round "12"]
+[White "Bagirov, Vladimir"]
+[Black "Klovans, Janis"]
+[Result "1/2-1/2"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "modern variation"]
+[HashCode "bc12c06d"]
+[Epoch "Rook"]
+[WhiteCountry "RUS"]
+[BlackCountry "LVA"]
+
+1. b3 e5 2. Bb2 Nc6 3. e3 d5 4. Bb5 Bd6 5. c4 Nf6 6. Nf3 e4 7. Ne5 Bxe5 8. Bxe5
+O-O 9. Bxc6 bxc6 10. O-O Be6 11. cxd5 cxd5 12. d4 exd3 13. Qxd3 Nd7 14. Bb2 c5
+15. Nd2 Rc8 16. Rac1 Qa5 17. Qc3 Qxc3 18. Bxc3 1/2-1/2

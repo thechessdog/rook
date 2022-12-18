@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Szilagyi, S."]
+[Black "Pescod, F."]
+[Result "0-1"]
+[ECO "C40"]
+[Opening "Latvian"]
+[Variation "Polerio variation"]
+[HashCode "926c7232"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 f5 3. Bc4 fxe4 4. Nxe5 d5 5. Qh5+ g6 6. Nxg6 hxg6 7. Qxh8
+Kf7 8. Be2 Bg7 9. Qh7 Nc6 10. f3 Nd4 11. fxe4 Nxe2 12. Rf1+ Nf6 13. e5 Bf5
+14. Rxf5 gxf5 15. exf6 Qxf6 16. Qh5+ Kf8 17. Kxe2 Qe5+ 18. Kf1 Re8 19. Qd1
+Qxh2 20. Qf3 Qh1+ 21. Kf2 Qe1# 0-1
+

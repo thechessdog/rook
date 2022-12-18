@@ -1,0 +1,20 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1983.01.01"]
+[Round "5"]
+[White "Norgaard, Jesper"]
+[Black "Schandorff, Lars"]
+[Result "1/2-1/2"]
+[ECO "B97"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7...Qb6"]
+[HashCode "92b596d6"]
+[Epoch "Rook"]
+[BlackID "1400070"]
+[BlackCountry "DEN"]
+[WhiteID "1400517"]
+[WhiteCountry "DEN"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qb6 8. Nb3
+Be7 9. Qf3 Nbd7 10. O-O-O Qc7 11. Bd3 h6 12. Qh3 b5 13. a3 Bb7 14. f5 e5 15.
+Rhe1 Bc6 16. g4 O-O-O 17. Bh4 Kb8 18. Kb1 1/2-1/2

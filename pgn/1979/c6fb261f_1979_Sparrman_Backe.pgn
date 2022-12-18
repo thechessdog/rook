@@ -1,0 +1,18 @@
+[Event "Boras"]
+[Site "Boras"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Sparrman, H."]
+[Black "Backe, Peter"]
+[Result "0-1"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Milner-Barry gambit"]
+[HashCode "c6fb261f"]
+[Epoch "Rook"]
+[BlackID "1701240"]
+[BlackCountry "SWE"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. Nf3 Nc6 5. c3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. Be2
+Nge7 9. b3 Nf5 10. Bb2 Bb4+ 11. Kf1 h5 12. h4 a5 13. Na3 Bxa3 14. Bxa3 Ncxd4
+15. Rc1 Nxe2 16. Kxe2 a4 17. b4 Bb5+ 18. Ke1 Ne3 0-1

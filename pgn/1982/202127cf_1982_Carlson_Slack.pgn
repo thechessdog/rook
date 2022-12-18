@@ -1,0 +1,18 @@
+[Event "corr FNPCC"]
+[Site "corr FNPCC"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Carlson, Curtis"]
+[Black "Slack"]
+[Result "1-0"]
+[ECO "C61"]
+[Opening "Ruy Lopez"]
+[Variation "Bird's defence"]
+[HashCode "202127cf"]
+[Epoch "Rook"]
+[WhiteID "2002868"]
+[WhiteCountry "USA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nd4 4. Nxd4 exd4 5. O-O c6 6. Ba4 a6 7. c3 d5 8. Re1
+d3 9. exd5+ Be7 10. dxc6 Kf8 11. Qf3 bxc6 12. Bxc6 Ra7 13. b3 Nf6 14. Ba3 Bxa3
+15. Nxa3 Rc7 16. Re3 Bg4 17. Rxd3 Bxf3 18. Rxd8+ 1-0

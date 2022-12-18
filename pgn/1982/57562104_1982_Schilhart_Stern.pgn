@@ -1,0 +1,23 @@
+[Event "Regionalliga Nord"]
+[Site "RLN 8182"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Schilhart, N."]
+[Black "Stern, Dieter"]
+[Result "1-0"]
+[ECO "C13"]
+[Opening "French"]
+[Variation "Albin-Alekhine-Chatard attack, Maroczy variation"]
+[HashCode "57562104"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Nfd7 6. h4 a6 7. Qg4 Bxg5 8. hxg5
+c5 9. g6 f5 10. Qf4 h6 11. Nf3 O-O 12. dxc5 Nxc5 13. O-O-O Nc6 14. Rh3 Qe8 15.
+Nh4 Ne4 16. Ne2 Nb4 17. a3 Qa4 18. Nd4 Na2+ 19. Kb1 Nac3+ 20. bxc3 Nxc3+ 21.
+Kc1 Qxa3+ 22. Kd2 Qb4 23. Bd3 Nb5+ 24. Ke3 Nxd4 25. Nf3 Nc6 26. Qg5 Bd7 27.
+Rdh1 f4+ 28. Ke2 Nd4+ 29. Nxd4 Qxd4 30. Kf3 Rf5 31. Rxh6 gxh6 32. Qxh6 Qxe5 33.
+Qh7+ Kf8 34. Bxf5 Be8 35. Bd3 Qg7 36. Qh5 a5 37. Qg5 a4 38. Rh7 a3 39. Rxg7
+Kxg7 40. Qe7+ Kh6 41. g7 Bh5+ 42. Kxf4 e5+ 43. Kxe5 Bg6 44. Bxg6 a2 45. Qh4+
+Kxg6 46. Qg4+ Kh7 47. g8=Q+ Rxg8 48. Qa4 Rg5+ 49. Kf4 Rxg2 50. Qxa2 Rxf2+ 51.
+Ke3 Rf5 52. Qa7 Rf7 53. Qc5 Rd7 54. Kd4 Kg7 55. Qb5 Re7 56. Kxd5 Kf7 57. c4 Rc7
+58. Qb6 Rd7+ 59. Ke5 Ke7 60. Qf6+ Ke8 61. Ke6 1-0

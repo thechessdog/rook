@@ -1,0 +1,17 @@
+[Event "corr EU"]
+[Site "corr EU"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Lizan, L."]
+[Black "Butze, Roland"]
+[Result "1/2-1/2"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Byrne (English) attack"]
+[HashCode "0438db5a"]
+[Epoch "Rook"]
+[BlackCountry "DEU"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e6 7. Be2 Qc7 8. a4
+Be7 9. O-O O-O 10. f4 Nc6 11. Kh1 Re8 12. Bf3 Rb8 13. Qd2 Nxd4 14. Bxd4 e5 15.
+Ba7 Ra8 16. Be3 exf4 17. Bxf4 Be6 18. Rfd1 Rad8 19. h3 h6 20. a5 Bf8 1/2-1/2

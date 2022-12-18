@@ -1,0 +1,17 @@
+[Event "Kazan"]
+[Site "Kazan"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Grigorenko, Dmitry"]
+[Black "Prygunov"]
+[Result "0-1"]
+[ECO "B10"]
+[Opening "Caro-Kann"]
+[Variation "two knights variation"]
+[HashCode "dc74f1b9"]
+[Epoch "Rook"]
+[WhiteID "34241345"]
+[WhiteCountry "RUS"]
+
+1. e4 c6 2. Nc3 d5 3. Nf3 dxe4 4. Nxe4 Nf6 5. Ng3 h5 6. Bc4 h4 7. Ne2 h3 8. Ne5
+e6 9. g3 b5 10. Bb3 c5 11. d3 Bb7 12. O-O Bd6 13. f4 c4 0-1

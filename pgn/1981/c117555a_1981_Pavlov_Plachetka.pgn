@@ -1,0 +1,20 @@
+[Event "Tirnava"]
+[Site "Trnava"]
+[Date "1981.01.01"]
+[Round "12"]
+[White "Pavlov, Mircea"]
+[Black "Plachetka, Jan"]
+[Result "1/2-1/2"]
+[ECO "B16"]
+[Opening "Caro-Kann"]
+[Variation "Bronstein-Larsen variation"]
+[HashCode "c117555a"]
+[Epoch "Rook"]
+[BlackID "14900068"]
+[BlackCountry "SVK"]
+[WhiteID "1200160"]
+[WhiteCountry "ROU"]
+
+1. e4 c6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Nf6 5. Nxf6+ gxf6 6. Qd3 Na6 7. a3 Bg4 8.
+Be2 Qd7 9. Be3 Nc7 10. c4 O-O-O 11. h3 Bf5 12. Qxf5 Qxf5 13. Bg4 Qd7 14. Bxd7+
+Rxd7 15. Nf3 e6 16. g4 Be7 17. Ke2 1/2-1/2

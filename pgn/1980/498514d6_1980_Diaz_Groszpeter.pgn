@@ -1,0 +1,21 @@
+[Event "Capablanca mem-A"]
+[Site "Cienfuegos"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Diaz, Joaquin, Dr."]
+[Black "Groszpeter, Attila"]
+[Result "0-1"]
+[ECO "B93"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.f4"]
+[HashCode "498514d6"]
+[Epoch "Rook"]
+[WhiteID "4663349"]
+[WhiteCountry "GER"]
+[BlackID "700053"]
+[BlackCountry "HUN"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 e5 7. Nf3 Nbd7 8. Bd3
+b5 9. a3 Bb7 10. O-O g6 11. Kh1 Bg7 12. Qe1 O-O 13. f5 gxf5 14. Nh4 f4 15. Nf5
+Nc5 16. b4 Ne6 17. g3 Rc8 18. gxf4 Rxc3 19. fxe5 dxe5 20. Nxg7 Rxd3 21. Nxe6
+Nxe4 22. Nxd8 Nf2+ 0-1

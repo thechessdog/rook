@@ -1,0 +1,24 @@
+[Event "corr Volmac"]
+[Site "corr Volmac"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Boyd, F."]
+[Black "Sorri, Kari Juhani"]
+[Result "0-1"]
+[ECO "D97"]
+[Opening "Gruenfeld"]
+[Variation "Russian, Alekhine (Hungarian) variation"]
+[HashCode "0dd13f20"]
+[Epoch "Rook"]
+[BlackID "500216"]
+[BlackCountry "FIN"]
+
+1. Nf3 Nf6 2. c4 g6 3. d4 Bg7 4. Nc3 d5 5. Qb3 dxc4 6. Qxc4 O-O 7. e4 a6 8. Be2
+b5 9. Qb3 c5 10. dxc5 Bb7 11. e5 Nfd7 12. Be3 e6 13. a4 Nxe5 14. axb5 axb5 15.
+Rxa8 Bxa8 16. Nxe5 Bxe5 17. O-O Nc6 18. Nxb5 Qf6 19. Qa4 Ne7 20. b3 Nd5 21. Bf3
+Bc6 22. Bxd5 exd5 23. f4 Rb8 24. Bd4 Bxd4+ 25. Qxd4 Qe7 26. Nc3 Rxb3 27. Ra1 h5
+28. h3 Qb7 29. f5 Qb4 30. Qxb4 Rxb4 31. Ra6 d4 32. Ne2 Be4 33. Rd6 d3 34. Nf4
+Bxf5 35. Nxd3 Rc4 36. c6 Kf8 37. Ne5 Rc5 38. Nd7+ Ke7 39. Nxc5 Kxd6 40. Nb7+
+Kc7 41. h4 Be6 42. Nc5 Kxc6 43. Nd3 Kd5 44. Nf4+ Ke4 45. g3 Kf3 46. Kh2 Bb3 47.
+Nh3 f6 48. Nf4 Bf7 49. Nh3 Ke4 50. Kg2 Kf5 51. Kh2 Bd5 52. Nf4 Bf3 53. Kh3 g5
+54. hxg5 fxg5 55. Nd3 Ke4 0-1

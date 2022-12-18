@@ -1,0 +1,25 @@
+[Event "IBM-B"]
+[Site "Amsterdam II"]
+[Date "1978.07.01"]
+[Round "2"]
+[White "Taulbut, Shaun M"]
+[Black "Hartoch, Robert G"]
+[Result "1-0"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical system, 5.Be2"]
+[HashCode "c37e7465"]
+[Epoch "Rook"]
+[WhiteID "400246"]
+[WhiteCountry "ENG"]
+[BlackCountry "NLD"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. Nf3 Nf6 5. Be2 O-O 6. O-O Bg4 7. Be3 Nc6 8. Nd2
+Bxe2 9. Qxe2 e5 10. d5 Ne7 11. Nc4 Qd7 12. f3 Rae8 13. Na5 b6 14. Nb3 Nh5 15.
+a4 a5 16. Qb5 Qd8 17. Qc4 Nc8 18. Nb5 Re7 19. Nc1 f5 20. Nd3 f4 21. Bd2 Bf6 22.
+b4 axb4 23. Nxb4 Rg7 24. Na6 Rff7 25. Ra3 Bh4 26. Rc3 Ng3 27. Re1 c5 28. dxc6
+g5 29. Nac7 Rg6 30. hxg3 Bxg3 31. Kf1 g4 32. Ke2 gxf3+ 33. gxf3 Bxe1 34. Bxe1
+Rg2+ 35. Kd1 Rg1 36. Qe6 Rg6 37. Qe8+ Qxe8 38. Nxe8 Kf8 39. Nec7 h5 40. Rd3 Rh7
+41. Bh4 Rg1+ 42. Ke2 Rg2+ 43. Kf1 Rxc2 44. Ne6+ Kg8 45. Nxd6 Rxc6 46. Nf5 Rxe6
+47. Rd8+ Kf7 48. Rxc8 Kg6 49. Rg8+ Kf7 50. Rb8 Kg6 51. Kg2 Ra7 52. Kh3 Rxa4 53.
+Rb7 1-0

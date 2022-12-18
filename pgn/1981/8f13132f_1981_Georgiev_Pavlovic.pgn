@@ -1,0 +1,21 @@
+[Event "Nice"]
+[Site "Nice"]
+[Date "1981.01.01"]
+[Round "4"]
+[White "Georgiev, Krum"]
+[Black "Pavlovic, Dragoljub"]
+[Result "1-0"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (without ...d6)"]
+[HashCode "8f13132f"]
+[Epoch "Rook"]
+[WhiteID "2900092"]
+[WhiteCountry "FID"]
+[BlackCountry "CRO"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 Qb6 4. Qe2 a6 5. Ba4 g6 6. c3 Bg7 7. O-O e5 8. d3
+Nge7 9. Be3 Qa5 10. Bb3 h6 11. Nbd2 d6 12. d4 cxd4 13. cxd4 exd4 14. Nc4 Qc7
+15. Bf4 Be5 16. Qd2 g5 17. Bg3 f6 18. Rac1 Qd8 19. Ne1 Ng6 20. Nd3 Bxg3 21.
+hxg3 Be6 22. f4 b5 23. Nb6 Qxb6 24. Bxe6 Nge7 25. Qe2 Kd8 26. Qh5 Kc7 27. Bd5
+Kb8 28. Qf7 1-0

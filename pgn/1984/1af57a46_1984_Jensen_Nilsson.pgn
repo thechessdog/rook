@@ -1,0 +1,19 @@
+[Event "Politiken Cup"]
+[Site "Copenhagen"]
+[Date "1984.??.??"]
+[Round "4"]
+[White "Jensen, Allan"]
+[Black "Nilsson, Nils Specht"]
+[Result "0-1"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Lipnitzky attack"]
+[HashCode "1af57a46"]
+[Epoch "Rook"]
+[WhiteID "1401181"]
+[WhiteCountry "DEN"]
+[BlackCountry "DNK"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 Nbd7 7. O-O g6 8.
+Bg5 Bg7 9. Bb3 h6 10. Be3 Nc5 11. f3 O-O 12. Qd2 Kh7 13. Rad1 Nxb3 14. axb3 Bd7
+15. Kh1 Rc8 16. Qf2 Qc7 17. Rd2 Rh8 18. Ra1 Rcg8 19. Qe2 e5 0-1

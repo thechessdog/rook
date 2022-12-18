@@ -1,0 +1,17 @@
+[Event "corr EUR/M"]
+[Site "corr EUR/M"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Skovgaard, I."]
+[Black "Stoklas, V."]
+[Result "1-0"]
+[ECO "B40"]
+[Opening "Sicilian"]
+[Variation "Pin, Koch variation"]
+[HashCode "fc7dde92"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Bb4 6. e5 Nd5 7. Qg4 Bxc3+
+8. bxc3 Qc7 9. Qxg7 Qxc3+ 10. Ke2 Rf8 11. Nb5 Qc4+ 12. Ke1 Qb4+ 13. c3 Qe4+
+14. Be2 1-0
+

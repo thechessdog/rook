@@ -1,0 +1,18 @@
+[Event "Lima,OH"]
+[Site "Lima,OH"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Heitkamp, Michael"]
+[Black "Ree, Hans"]
+[Result "0-1"]
+[ECO "E15"]
+[Opening "Queen's Indian"]
+[Variation "Nimzovich variation (exaggerated fianchetto)"]
+[HashCode "503abb2f"]
+[Epoch "Rook"]
+[BlackID "1000098"]
+[BlackCountry "NED"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. b3 Bb4+ 6. Bd2 Be7 7. Nc3 O-O 8. Bg2
+d5 9. O-O dxc4 10. Ne5 c6 11. Nxc6 Nxc6 12. Bxc6 Rc8 13. Bb5 Bxb5 14. Nxb5 a6
+15. Nc3 Qxd4 16. Qc2 Bb4 17. Ne4 cxb3 18. Qxb3 Bxd2 0-1

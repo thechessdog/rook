@@ -1,0 +1,31 @@
+[Event "Horsens"]
+[Site "Horsens"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Iskov, Gert"]
+[Black "Hvenekilde, Jorgen"]
+[Result "1-0"]
+[ECO "B06"]
+[Opening "Robatsch defence"]
+[Variation "two knights variation"]
+[HashCode "1ca71c38"]
+[Epoch "Rook"]
+[WhiteID "1400398"]
+[BlackID "1400649"]
+[WhiteCountry "DEN"]
+[BlackCountry "DEN"]
+
+1. Nf3 d6 2. d4 g6 3. e4 Bg7 4. Nc3 Nc6 5. d5 Ne5 6. Nxe5 Bxe5 7. Be2 Nf6 8.
+Bh6 c5 9. dxc6 bxc6 10. f4 Bxc3+ 11. bxc3 Qa5 12. Qd4 c5 13. Qe3 Ba6 14. O-O
+Bxe2 15. Qxe2 Nd7 16. e5 O-O-O 17. Qc4 f6 18. Rab1 Nb6 19. Qe6+ Rd7 20. exf6
+exf6 21. Bg7 Rd8 22. Bxf6 Rf8 23. Rfd1 Rxf6 24. Qxf6 Qxa2 25. Rbc1 Kc7 26. Rd3
+a5 27. Rcd1 Qxc2 28. Rxd6 Qxd1+ 29. Rxd1 Rxd1+ 30. Kf2 Rd2+ 31. Ke1 Rd7 32. g4
+a4 33. Qe5+ Kc6 34. Qe4+ Kb5 35. Qb1+ Kc6 36. Qa2 c4 37. Ke2 Rd3 38. Qa3 Rh3
+39. Kf2 Rxh2+ 40. Kg3 Rd2 41. f5 Rd3+ 42. Kh4 Rd6 43. Kg5 h6+ 44. Kf4 gxf5 45.
+gxf5 Kc7 46. Qc5+ Rc6 47. Qa5 Kb7 48. Kg4 Nd7 49. Qxa4 Nf6+ 50. Kf4 Nd7 51.
+Qb4+ Kc7 52. Qe7 Kc8 53. Ke4 Nf6+ 54. Kd4 Nd7 55. Qe4 Kc7 56. Qf4+ Kb7 57. Qg3
+Kb6 58. Qg7 Kc7 59. Qg8 Nf6 60. Qg3+ Kc8 61. Qg2 Kc7 62. Qh2+ Kb7 63. Qxh6 Kc7
+64. Qg7+ Nd7 65. Qg3+ Kb7 66. Qh2 Kb6 67. Qg3 Kb7 68. Qg7 Kc7 69. Kd5 Rf6 70.
+Qg3+ Kb7 71. Qg5 Rc6 72. Qd8 Nf6+ 73. Ke5 Ng4+ 74. Kf4 Nf6 75. Kf3 Ka6 76. Qe7
+Kb6 77. Kg3 Nd5 78. Qe5 Nf6 79. Qb8+ Kc5 80. Qb4+ Kd5 81. Qe7 Nh5+ 82. Kg4 Nf6+
+83. Kg5 Ne4+ 84. Kf4 1-0

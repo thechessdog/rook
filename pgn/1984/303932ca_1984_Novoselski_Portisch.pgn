@@ -1,0 +1,19 @@
+[Event "Kragujevac"]
+[Site "Kragujevac"]
+[Date "1984.01.01"]
+[Round "12"]
+[White "Novoselski, Zoran"]
+[Black "Portisch, Lajos"]
+[Result "1/2-1/2"]
+[ECO "C15"]
+[Opening "French"]
+[Variation "Winawer, Alekhine (Maroczy) gambit"]
+[HashCode "303932ca"]
+[Epoch "Rook"]
+[BlackID "700037"]
+[BlackCountry "HUN"]
+[WhiteID "901970"]
+[WhiteCountry "SRB"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. Ne2 dxe4 5. a3 Be7 6. Nxe4 Nf6 7. Qd3 b6 8. Bf4
+Bb7 9. Nxf6+ Bxf6 10. O-O-O Nc6 11. Qg3 Rc8 12. Nc3 Ne7 13. Be5 1/2-1/2

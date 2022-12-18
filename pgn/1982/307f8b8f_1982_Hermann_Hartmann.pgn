@@ -1,0 +1,22 @@
+[Event "Bundesliga 8182"]
+[Site "Duitsland tt"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Hermann, Manfred"]
+[Black "Hartmann, Wolfram"]
+[Result "1/2-1/2"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "307f8b8f"]
+[Epoch "Rook"]
+[WhiteID "4600584"]
+[WhiteCountry "GER"]
+[BlackID "4604008"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. d4 e5 5. Nf3 Nc6 6. Nxe5 Nxe5 7. dxe5 Qxe5+
+8. Be3 Bd7 9. Qb3 O-O-O 10. Nd2 Nh6 11. O-O-O Ng4 12. Nc4 Qc7 13. Be2 Be7 14.
+Bf3 Be6 15. Qa4 Nxe3 16. Nxe3 Kb8 17. Bg4 Qe5 18. Bxe6 Qxe6 19. Qf4+ Bd6 20.
+Qc4 Qxc4 21. Nxc4 Bf4+ 22. Kc2 Kc8 23. g3 Bc7 24. a4 b6 25. Rhe1 Rxd1 26. Kxd1
+Kd7 1/2-1/2

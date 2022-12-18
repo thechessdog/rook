@@ -1,0 +1,19 @@
+[Event "London"]
+[Site "London"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Barton, A."]
+[Black "Raindle"]
+[Result "1-0"]
+[ECO "A45"]
+[Opening "Queen's pawn"]
+[Variation "Bronstein gambit"]
+[HashCode "f51e57e8"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. g4 d5 3. g5 Ne4 4. f3 Nd6 5. Nc3 c6 6. e4 e6 7. Bd3 h6 8. g6
+Qh4+ 9. Kf1 Be7 10. Be3 O-O 11. Bf2 Qh5 12. Nce2 dxe4 13. Ng3 Qxg6 14. fxe4
+f5 15. exf5 Nxf5 16. Nxf5 exf5 17. Qe2 Qf6 18. Re1 Bd6 19. Nf3 b5 20. Rg1
+Bd7 21. Bh4 Qf7 22. Qg2 Na6 23. Ne5 Bxe5 24. dxe5 Nc5 25. Bf6 g5 26. Bxg5
+hxg5 27. Qxg5+ Kh8 28. Qh6+ Qh7 29. Qxh7+ Kxh7 30. Re3 1-0
+

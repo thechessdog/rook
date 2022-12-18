@@ -1,0 +1,21 @@
+[Event "England"]
+[Site "England"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Nunn, John D M"]
+[Black "Gruenfeld, Yehuda"]
+[Result "1-0"]
+[ECO "B93"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.f4"]
+[HashCode "f65646f7"]
+[Epoch "Rook"]
+[WhiteID "400017"]
+[BlackID "2800020"]
+[WhiteCountry "ENG"]
+[BlackCountry "ISR"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 Qc7 7. Bd3 g6 8. O-O
+Bg7 9. Nf3 Nbd7 10. Qe1 O-O 11. Qh4 b5 12. f5 Bb7 13. fxg6 fxg6 14. Ng5 Nc5 15.
+Rxf6 Rxf6 16. Qxh7+ Kf8 17. Be3 Nxd3 18. cxd3 Qd7 19. Nd5 Bxd5 20. exd5 Qf5 21.
+Ne6+ Rxe6 22. dxe6 Qxe6 23. Bh6 1-0

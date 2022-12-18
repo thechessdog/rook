@@ -1,0 +1,21 @@
+[Event "Copenhagen-ch"]
+[Site "Copenhagen"]
+[Date "1980.01.01"]
+[Round "5"]
+[White "Hamann, Svend"]
+[Black "Gallmeyer, Peter"]
+[Result "1-0"]
+[ECO "C41"]
+[Opening "Philidor"]
+[Variation "Larsen variation"]
+[HashCode "b87883fb"]
+[Epoch "Rook"]
+[WhiteID "1400193"]
+[WhiteCountry "DEN"]
+[BlackCountry "DEN"]
+[BlackID "1401157"]
+
+1. e4 e5 2. Nf3 d6 3. d4 exd4 4. Nxd4 g6 5. Nc3 Bg7 6. Be3 Nf6 7. f3 O-O 8. Qd2
+Nc6 9. O-O-O Nxd4 10. Bxd4 Be6 11. h4 c5 12. Be3 Qa5 13. Bh6 Bxa2 14. Bxg7 Kxg7
+15. h5 Be6 16. hxg6 Qa1+ 17. Nb1 fxg6 18. Qh6+ Kg8 19. c3 Ba2 20. Bd3 Rf7 21.
+Bc2 Bxb1 22. Bxb1 Qa6 23. Rd2 b5 24. Rhd1 Ne8 25. e5 dxe5 26. Be4 1-0

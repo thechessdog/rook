@@ -1,0 +1,18 @@
+[Event "Atlanta"]
+[Site "Atlanta"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Underwood, E."]
+[Black "Feurstman, L."]
+[Result "1-0"]
+[ECO "C38"]
+[Opening "KGA"]
+[Variation "Philidor gambit"]
+[HashCode "c0f38076"]
+[Epoch "Rook"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. Bc4 Bg7 5. h4 g4 6. Ng5 Nh6 7. d4 f6 8.
+Bxf4 d5 9. Bxd5 fxg5 10. Bxg5 Qd6 11. Qd2 Qg3+ 12. Kd1 Nf7 13. Bc4 Bh6 14.
+Bxf7+ Kxf7 15. Bxh6 Qd6 16. Rf1+ Ke8 17. e5 Qa6 18. Rf6 c6 19. Qg5 Qc4 20.
+Qh5+ Kd8 21. Nd2 Qa6 22. Bg5 Kc7 23. Qf7+ Kb6 24. Nc4+ Kb5 25. a4+ 1-0
+

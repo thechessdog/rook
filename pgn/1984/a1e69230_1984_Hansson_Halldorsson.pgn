@@ -1,0 +1,19 @@
+[Event "Reykjavik op"]
+[Site "Reykjavik"]
+[Date "1984.??.??"]
+[Round "11"]
+[White "Hansson, Dan"]
+[Black "Halldorsson, Gudmundur"]
+[Result "1/2-1/2"]
+[ECO "C81"]
+[Opening "Ruy Lopez"]
+[Variation "open, Howell attack"]
+[HashCode "a1e69230"]
+[Epoch "Rook"]
+[BlackID "2300494"]
+[BlackCountry "ISL"]
+[WhiteCountry "ISL"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 a6 6. Ba4 b5 7. Bb3 d5 8. dxe5
+Be6 9. Qe2 Be7 10. Rd1 O-O 11. c4 bxc4 12. Bxc4 Bc5 13. Be3 Bxe3 14. Qxe3 Qb8
+15. Bb3 Na5 16. Nbd2 Nxd2 17. Rxd2 1/2-1/2

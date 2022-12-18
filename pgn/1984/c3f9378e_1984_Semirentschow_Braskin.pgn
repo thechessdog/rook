@@ -1,0 +1,17 @@
+[Event "corr EU/M/GT"]
+[Site "corr EU/M/GT"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Semirentschow, II."]
+[Black "Braskin, I."]
+[Result "1-0"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Andreaschek gambit"]
+[HashCode "c3f9378e"]
+[Epoch "Rook"]
+
+1. e4 c5 2. c3 e5 3. d4 cxd4 4. Nf3 dxc3 5. Nxc3 d6 6. Bc4 h6 7. Bxf7+ Kxf7
+8. Nxe5+ Kf6 9. Qf3+ Kxe5 10. Qf7 Nf6 11. Be3 d5 12. f4+ Kd6 13. Nb5+ Kc6
+14. Nd4+ Kd6 15. e5+ Kc5 16. Ne6+ 1-0
+

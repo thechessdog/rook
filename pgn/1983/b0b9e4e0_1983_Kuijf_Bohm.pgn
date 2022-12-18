@@ -1,0 +1,33 @@
+[Event "Hoogovens-B"]
+[Site "Wijk aan Zee II"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Kuijf, Marinus"]
+[Black "Bohm, Hans"]
+[Result "1-0"]
+[ECO "B05"]
+[Opening "Alekhine's defence"]
+[Variation "modern, Flohr variation"]
+[HashCode "b0b9e4e0"]
+[Epoch "Rook"]
+[WhiteID "1000110"]
+[WhiteCountry "NED"]
+[BlackID "1000306"]
+[BlackCountry "NED"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. Nf3 Bg4 5. Be2 c6 6. c4 Nb6 7. Nbd2 N8d7 8. Ng5
+Bxe2 9. e6 fxe6 10. Qxe2 e5 11. Nde4 Nxc4 12. Qxc4 d5 13. Qb3 Qb6 14. Ne6 dxe4
+15. Qxb6 Nxb6 16. Nc7+ Kd7 17. Nxa8 Nxa8 18. dxe5 Nc7 19. O-O Ke6 20. Be3 a6
+21. Rad1 Nd5 22. Bd4 g5 23. Rfe1 Kf5 24. Bc3 Bg7 25. Rd4 Nxc3 26. bxc3 Bxe5 27.
+Rdxe4 Bf6 28. g4+ Kg6 29. Rd1 Rb8 30. c4 b5 31. c5 b4 32. Re6 Rc8 33. Rd7 Kf7
+34. Re4 Rb8 35. Rc7 b3 36. axb3 Rxb3 37. Rc4 Ke6 38. Ra4 Kd5 39. Rxa6 Kxc5 40.
+Rcxc6+ Kd4 41. Kg2 Rb8 42. Ra3 h5 43. gxh5 Rh8 44. Rca6 Ke4 45. Re3+ Kf5 46.
+Ra5+ Kg4 47. Rh3 Rh6 48. Ra8 Be5 49. Rf8 Bf6 50. Rg8 Kf5 51. Re3 Rxh5 52. Rh3
+Rxh3 53. Kxh3 Kf4 54. Kg2 g4 55. Ra8 Bh4 56. Rf8+ Bf6 57. Rb8 Be5 58. Rb4+ Kf5
+59. Rb7 Bd6 60. Rb5+ Ke4 61. Rg5 Kf4 62. Rd5 Ke4 63. Rd2 Kf4 64. Rd4+ Kf5 65.
+Rd3 Ke4 66. Rc3 Kf4 67. f3 gxf3+ 68. Rxf3+ Kg5 69. Rd3 Kf5 70. h3 Be5 71. h4
+Bf6 72. Kg3 Be5+ 73. Kh3 Bf6 74. Rg3 e6 75. Rf3+ Kg6 76. Kg4 Bb2 77. Rf4 Bc3
+78. Rf2 Bd4 79. Rd2 Bc5 80. Rd3 Kf6 81. Rf3+ Kg7 82. h5 Bb4 83. Re3 Bd2 84.
+Rxe6 Bc1 85. Re7+ Kh6 86. Re2 Kg7 87. Re1 Bd2 88. Rd1 Be3 89. Rd7+ Kh6 90. Rd6+
+Kg7 91. Kf5 Bc1 92. Rg6+ Kh7 93. h6 Bf4 94. Rg7+ Kxh6 95. Rg6+ Kh7 96. Kf6 Be5+
+97. Kf7 Kh8 98. Rh6# 1-0

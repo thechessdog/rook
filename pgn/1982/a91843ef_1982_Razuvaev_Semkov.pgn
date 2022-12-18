@@ -1,0 +1,23 @@
+[Event "Sochi"]
+[Site "Sochi"]
+[Date "1982.01.01"]
+[Round "2"]
+[White "Razuvaev, Yuri S"]
+[Black "Semkov, Semko"]
+[Result "1-0"]
+[ECO "A62"]
+[Opening "Benoni"]
+[Variation "fianchetto variation"]
+[HashCode "a91843ef"]
+[Epoch "Rook"]
+[BlackID "2900068"]
+[BlackCountry "FID"]
+[WhiteCountry "RUS"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. g3 Bg7 8. Bg2
+O-O 9. O-O a6 10. a4 Re8 11. h3 Nbd7 12. Re1 Rb8 13. Bf4 Qc7 14. e4 Nh5 15. Be3
+c4 16. a5 b5 17. axb6 Rxb6 18. g4 Nhf6 19. Bxb6 Nxb6 20. Qc2 Nfd7 21. Na4 Nxa4
+22. Rxa4 Nb6 23. Ra5 Bb7 24. Bf1 Rc8 25. b3 Nd7 26. Ra3 Qc5 27. Qa2 c3 28. b4
+Qb6 29. Bxa6 Bxa6 30. Rxa6 Qxb4 31. Rc6 Rb8 32. Qc4 Qb2 33. Rc8+ Nf8 34. e5
+dxe5 35. d6 Qb7 36. d7 Qxd7 37. Rxb8 e4 38. Qxe4 Qc7 39. Rb7 Qc5 40. Re2 h5 41.
+Rb4 1-0

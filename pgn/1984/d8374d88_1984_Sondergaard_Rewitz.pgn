@@ -1,0 +1,21 @@
+[Event "Aarhus"]
+[Site "Aarhus"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Sondergaard, Gunnar"]
+[Black "Rewitz, Poul"]
+[Result "0-1"]
+[ECO "B15"]
+[Opening "Caro-Kann"]
+[Variation "Gurgenidze system"]
+[HashCode "d8374d88"]
+[Epoch "Rook"]
+[BlackID "1401033"]
+[BlackCountry "DEN"]
+
+1. e4 c6 2. d4 d5 3. Nc3 g6 4. e5 Bg7 5. Bd3 Nh6 6. Nce2 O-O 7. h4 c5 8. c3 f6
+9. h5 c4 10. Bxg6 fxe5 11. Bc2 Nc6 12. Be3 exd4 13. cxd4 Qa5+ 14. Nc3 Nb4 15.
+a3 Nxc2+ 16. Qxc2 Nf5 17. Nf3 Nxe3 18. fxe3 Bf5 19. Qd2 Bh6 20. Ne5 Bg7 21. g4
+Bxe5 22. dxe5 Bd3 23. h6 Qc7 24. O-O-O e6 25. Rh5 Rf3 26. Nb5 Qe7 27. Nd4 Rf7
+28. Qg2 Bg6 29. Nf5 Qf8 30. Rg5 exf5 31. e6 Rf6 32. Qxd5 Re8 33. Rf1 Qxh6 34.
+Rxg6+ hxg6 35. e7+ Rf7 36. Rf4 0-1

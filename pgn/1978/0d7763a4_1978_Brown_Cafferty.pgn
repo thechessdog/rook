@@ -1,0 +1,19 @@
+[Event "London"]
+[Site "London"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Brown, S."]
+[Black "Cafferty"]
+[Result "1/2-1/2"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack, Richter variation"]
+[HashCode "0d7763a4"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 Bf5 4. f3 c6 5. Qd2 Nbd7 6. O-O-O e6 7. g4 Bg6
+8. h4 h6 9. Bf4 Bb4 10. a3 Be7 11. h5 Bh7 12. g5 hxg5 13. Bxg5 Bg6 14. h6
+Ng8 15. Bxe7 Qxe7 16. e4 O-O-O 17. exd5 exd5 18. Re1 Qf6 19. h7 Rxh7 20.
+Rxh7 Bxh7 21. b4 Qd6 22. Kb2 Ngf6 23. Qg5 Bg6 24. Nh3 Re8 25. Rxe8+ Nxe8
+26. Nf4 Qf6 27. Qxf6 Ndxf6 28. Nxg6 fxg6 29. Bd3 g5 30. Nd1 Nd6 31. Ne3 Kd7
+32. Nf5 g4 33. fxg4 Nxg4 1/2-1/2
+

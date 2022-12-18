@@ -1,0 +1,19 @@
+[Event "Esbjerg-B"]
+[Site "Esbjerg"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Wicker, Kevin J"]
+[Black "Bednarski, Jacek B"]
+[Result "0-1"]
+[ECO "C09"]
+[Opening "French"]
+[Variation "Tarrasch, open variation, main line"]
+[HashCode "33cc915c"]
+[Epoch "Rook"]
+[WhiteID "401501"]
+[WhiteCountry "ENG"]
+[BlackCountry "POL"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. Ngf3 Nc6 5. exd5 exd5 6. Bb5 Nf6 7. O-O cxd4 8.
+Nb3 Be7 9. Ne5 Qb6 10. Nxd4 O-O 11. Bxc6 bxc6 12. Nexc6 Bd6 13. c3 Re8 14. Nb4
+Bxb4 15. cxb4 Qxb4 16. Qd2 Qb6 17. f3 Ba6 18. Rf2 Qxd4 0-1

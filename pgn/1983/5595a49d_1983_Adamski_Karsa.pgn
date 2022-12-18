@@ -1,0 +1,19 @@
+[Event "Lvov"]
+[Site "Lvov"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Adamski, Jan"]
+[Black "Karsa, Laszlo"]
+[Result "1/2-1/2"]
+[ECO "E00"]
+[Opening "Catalan opening"]
+[HashCode "5595a49d"]
+[Epoch "Rook"]
+[WhiteID "1100190"]
+[WhiteCountry "POL"]
+[BlackID "700274"]
+[BlackCountry "HUN"]
+
+1. d4 Nf6 2. c4 e6 3. g3 Bb4+ 4. Bd2 a5 5. Bg2 O-O 6. Nf3 b6 7. O-O Bb7 8. Bf4
+Be7 9. Nc3 Ne4 10. Na4 d6 11. Qc2 Nd7 12. Rfe1 Rb8 13. Rad1 f5 14. Nc3 Bf6 15.
+Bc1 Qe7 16. b3 Nxc3 1/2-1/2

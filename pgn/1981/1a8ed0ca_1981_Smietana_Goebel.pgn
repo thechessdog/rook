@@ -1,0 +1,20 @@
+[Event "BL2-N 8081"]
+[Site "BL2-N 8081"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Smietana, T."]
+[Black "Goebel, Wolfgang"]
+[Result "0-1"]
+[ECO "A46"]
+[Opening "Queen's pawn"]
+[Variation "Torre attack"]
+[HashCode "1a8ed0ca"]
+[Epoch "Rook"]
+[BlackID "4630050"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. Nf3 e6 3. Bg5 c5 4. e3 cxd4 5. exd4 Be7 6. Bd3 h6 7. Bh4 b6 8.
+Nbd2 Bb7 9. O-O O-O 10. c4 d5 11. Rc1 dxc4 12. Nxc4 Nc6 13. Bb1 Rc8 14. Qd2 Qd5
+15. Ne3 Qa5 16. Qxa5 Nxa5 17. Ne5 g5 18. Bg3 Ne4 19. f3 Nd2 20. Rfd1 Nxb1 21.
+Rxb1 Rfd8 22. Be1 Nc6 23. Nxc6 Bxc6 24. Rbc1 Bf6 25. d5 exd5 26. Ng4 Bg7 27.
+Ne3 Bxb2 28. Rc2 Ba3 29. Nxd5 Bxd5 30. Rxd5 Bc5+ 31. Rcxc5 bxc5 0-1

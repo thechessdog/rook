@@ -1,0 +1,16 @@
+[Event "Stony Point,NC"]
+[Site "Stony Point,NC"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Wall, J."]
+[Black "Wall, B."]
+[Result "0-1"]
+[ECO "C33"]
+[Opening "KGA"]
+[Variation "bishop's gambit, Cozio (Morphy) defence"]
+[HashCode "79071210"]
+[Epoch "Rook"]
+
+1. e4 e5 2. f4 exf4 3. Bc4 Nf6 4. d3 d5 5. exd5 Nxd5 6. Qh5 c6 7. Bxf4 Qe7+
+8. Qe5 Nxf4 0-1
+

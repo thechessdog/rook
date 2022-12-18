@@ -1,0 +1,21 @@
+[Event "Tungsram"]
+[Site "Budapest"]
+[Date "1978.08.01"]
+[Round "1"]
+[White "Vadasz, Laszlo"]
+[Black "Jansa, Vlastimil"]
+[Result "1-0"]
+[ECO "E68"]
+[Opening "King's Indian"]
+[Variation "fianchetto, classical variation, 8.e4"]
+[HashCode "b480c9dc"]
+[Epoch "Rook"]
+[BlackID "300128"]
+[BlackCountry "CZE"]
+[WhiteCountry "HUN"]
+
+1. Nf3 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 O-O 5. O-O d6 6. d4 Nbd7 7. Nc3 e5 8. e4
+c6 9. Rb1 a6 10. h3 b5 11. c5 b4 12. Na4 Nxe4 13. cxd6 Nxd6 14. Bg5 f6 15. dxe5
+fxg5 16. exd6 Qf6 17. Qb3+ Kh8 18. Qxb4 c5 19. Qe4 Rb8 20. Qe7 Qf5 21. Nxg5 Nf6
+22. Nf7+ Kg8 23. Ne5 Be6 24. Nc6 Rbe8 25. Qa7 Qc2 26. Nxc5 Kh8 27. Nxe6 Rxe6
+28. Nd4 Qc4 29. Nxe6 Qxe6 30. Qe7 Qf5 31. Rbd1 Nd7 32. Rd5 Be5 33. f4 1-0

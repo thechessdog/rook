@@ -1,0 +1,20 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Hanke"]
+[Black "Zimmermann"]
+[Result "1-0"]
+[ECO "B33"]
+[Opening "Sicilian"]
+[Variation "Sveshnikov variation"]
+[HashCode "f8fa6d46"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6
+8. Na3 b5 9. Bxf6 gxf6 10. Nd5 f5 11. Nxb5 axb5 12. Bxb5 Bd7 13. exf5 Rb8
+14. c4 Qa5+ 15. b4 Nxb4 16. Nf6+ Kd8 17. Nxd7 Rxb5 18. O-O Rb7 19. Nxf8 Qc5
+20. Rb1 Rxf8 21. a3 Ke7 22. f6+ Kd8 23. axb4 Rxb4 24. Rxb4 Qxb4 25. Qd5 Qc5
+26. Qa8+ Qc8 27. Ra1 Kd7 28. Ra7+ Ke6 29. Qf3 Re8 30. Qd5+ Kxf6 31. Qxf7+
+Kg5 32. Ra3 1-0
+

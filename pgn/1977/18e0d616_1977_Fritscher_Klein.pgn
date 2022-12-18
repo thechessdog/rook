@@ -1,0 +1,16 @@
+[Event "Rosenheim"]
+[Site "Rosenheim"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Fritscher"]
+[Black "Klein"]
+[Result "1-0"]
+[ECO "C21"]
+[Opening "Danish gambit"]
+[HashCode "18e0d616"]
+[Epoch "Rook"]
+
+1. e4 e5 2. d4 exd4 3. c3 dxc3 4. Bc4 Nf6 5. e5 Qe7 6. Nf3 cxb2 7. Bxb2
+Qb4+ 8. Qd2 Qxc4 9. exf6 Bb4 10. Nc3 Qe6+ 11. Kd1 Kd8 12. fxg7 Rg8 13. Re1
+Qg6 14. Nd5 Bxd2 15. Bf6+ Qxf6 16. Nxf6 Bc3 17. Ne5 Bxe1 18. Nxg8 1-0
+

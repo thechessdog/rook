@@ -1,0 +1,18 @@
+[Event "Molde"]
+[Site "Molde"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Harstad, Kristian"]
+[Black "Sandum, Kjell T"]
+[Result "0-1"]
+[ECO "B16"]
+[Opening "Caro-Kann"]
+[Variation "Bronstein-Larsen variation"]
+[HashCode "eae18b8e"]
+[Epoch "Rook"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ gxf6 6. Ne2 Bf5 7. Ng3 Bg6
+8. h4 h5 9. Bf4 e6 10. Bc4 Bd6 11. Bxd6 Qxd6 12. Qd2 Nd7 13. O-O-O O-O-O 14. c3
+Nb6 15. Bb3 Nd5 16. Ne2 Rd7 17. f3 Bf5 18. Rhg1 Rg8 19. Bc2 Bxc2 20. Kxc2 f5
+21. Kb1 Qe7 22. g3 Rdd8 23. Nf4 Nxf4 24. Qxf4 Qc7 25. Qxc7+ Kxc7 26. Kc2 Rg7
+27. f4 Rdg8 28. Rd3 Rg4 29. Rf3 Rxh4 0-1

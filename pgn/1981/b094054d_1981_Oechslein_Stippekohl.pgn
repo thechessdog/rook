@@ -1,0 +1,23 @@
+[Event "Bundesliga 8081"]
+[Site "Duitsland tt"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Oechslein, Rainer"]
+[Black "Stippekohl, Peter"]
+[Result "1-0"]
+[ECO "B16"]
+[Opening "Caro-Kann"]
+[Variation "Bronstein-Larsen variation"]
+[HashCode "b094054d"]
+[Epoch "Rook"]
+[WhiteID "4607708"]
+[WhiteCountry "GER"]
+[BlackID "4606701"]
+[BlackCountry "GER"]
+
+1. e4 c6 2. Nc3 d5 3. d4 dxe4 4. Nxe4 Nf6 5. Nxf6+ gxf6 6. Ne2 Bf5 7. c3 e6 8.
+Ng3 Bg6 9. Bc4 Qc7 10. Qe2 Nd7 11. Bd2 h5 12. h4 Bd6 13. Ne4 Bxe4 14. Qxe4
+O-O-O 15. O-O-O Rdg8 16. Qf3 Kb8 17. Be2 c5 18. Be3 f5 19. dxc5 Nxc5 20. Rd4
+Rg4 21. g3 Be5 22. Rxg4 hxg4 23. Qg2 Ne4 24. c4 Rd8 25. Kb1 Nd2+ 26. Ka1 Nxc4
+27. Bxc4 Qxc4 28. Qf1 Qb4 29. Qe2 a5 30. Rc1 a4 31. Bc5 Qe4 32. Qb5 Rc8 33. Qa5
+Rxc5 34. Qxc5 Qe2 35. Rc2 Qe4 36. Rc4 Qh1+ 37. Rc1 Qe4 38. Rc4 Qh1+ 1-0

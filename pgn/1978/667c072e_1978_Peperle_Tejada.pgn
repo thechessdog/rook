@@ -1,0 +1,18 @@
+[Event "corr WER/C"]
+[Site "corr WER/C"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Peperle"]
+[Black "Tejada"]
+[Result "0-1"]
+[ECO "B92"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Opovcensky variation"]
+[HashCode "667c072e"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8.
+O-O Be6 9. f4 Qc7 10. Qd3 Nc6 11. f5 Nb4 12. Qd2 Bc4 13. a3 Nxc2 14. Qxc2
+Qb6+ 15. Kh1 Qxb3 16. Qxb3 Bxb3 17. g4 d5 18. Bf3 d4 19. g5 Nd7 20. Ne2 Nc5
+21. Ng3 Rc8 22. Nh5 Bc4 23. Nxg7+ Kf8 24. Rg1 Nb3 25. g6 hxg6 0-1
+

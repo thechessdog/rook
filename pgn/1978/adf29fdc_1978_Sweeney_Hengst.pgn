@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Sweeney, T."]
+[Black "Hengst, H."]
+[Result "1-0"]
+[ECO "A28"]
+[Opening "English"]
+[Variation "four knights, Nimzovich variation"]
+[HashCode "adf29fdc"]
+[Epoch "Rook"]
+
+1. c4 Nf6 2. Nc3 e5 3. Nf3 Nc6 4. e4 Bc5 5. Nxe5 Bxf2+ 6. Kxf2 Nxe5 7. d4
+Ng6 8. Be2 d6 9. h4 Qe7 10. Bf3 h6 11. b3 c6 12. h5 Nf8 13. Ba3 Qd7 14. Re1
+Ne6 15. e5 dxe5 16. d5 cxd5 17. cxd5 Ng5 18. Rxe5+ Kd8 19. Be7+ Kc7 20.
+Bxf6 gxf6 21. Re7 1-0
+

@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Stromer, A."]
+[Black "Picard, H."]
+[Result "1-0"]
+[ECO "C80"]
+[Opening "Ruy Lopez"]
+[Variation "open, Riga variation"]
+[HashCode "efd3b54b"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 exd4 7. Re1 d5
+8. Nxd4 Bd6 9. Nxc6 Bxh2+ 10. Kh1 Qh4 11. Bg5 Qxg5 12. Qxd5 Qxd5 13. Nb4+
+Qb5 14. Bxb5+ axb5 15. Rxe4+ Be6 16. Kxh2 1-0
+

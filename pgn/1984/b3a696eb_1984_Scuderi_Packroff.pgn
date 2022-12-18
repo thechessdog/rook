@@ -1,0 +1,17 @@
+[Event "corr TS89"]
+[Site "corr TS89"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Scuderi"]
+[Black "Packroff"]
+[Result "1-0"]
+[ECO "B04"]
+[Opening "Alekhine's defence"]
+[Variation "modern, fianchetto variation"]
+[HashCode "b3a696eb"]
+[Epoch "Rook"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. Nf3 g6 5. Bc4 Be6 6. Ng5 dxe5 7. Nxe6 fxe6
+8. dxe5 Bg7 9. f4 O-O 10. O-O c6 11. Qg4 Qb6+ 12. Kh1 Qd4 13. Na3 Kh8 14.
+Rd1 Qb6 15. Qxe6 1-0
+

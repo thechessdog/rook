@@ -1,0 +1,18 @@
+[Event "Varna"]
+[Site "Varna"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Lalev, Dimitar"]
+[Black "Kirov, Nino"]
+[Result "1/2-1/2"]
+[ECO "A99"]
+[Opening "Dutch"]
+[Variation "Ilyin-Genevsky variation with b3"]
+[HashCode "57a06c35"]
+[Epoch "Rook"]
+[WhiteID "2900254"]
+[WhiteCountry "FID"]
+[BlackCountry "BGR"]
+
+1. g3 f5 2. Bg2 Nf6 3. c4 e6 4. Nf3 Be7 5. O-O O-O 6. b3 d6 7. d4 Qe8 8. Nc3
+Qh5 9. Re1 1/2-1/2

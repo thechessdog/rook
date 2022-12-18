@@ -1,0 +1,18 @@
+[Event "Buenos Aires olm"]
+[Site "Buenos Aires olm"]
+[Date "1978.10.01"]
+[Round "1"]
+[White "Grumer, E."]
+[Black "Ochoa de Echaguen, F Javier"]
+[Result "0-1"]
+[ECO "E60"]
+[Opening "King's Indian"]
+[Variation "3.g3"]
+[HashCode "a669a2bf"]
+[Epoch "Rook"]
+[BlackID "2200210"]
+[BlackCountry "ESP"]
+
+1. c4 Nf6 2. d4 g6 3. g3 Bg7 4. Bg2 O-O 5. Nc3 c6 6. Bg5 Qa5 7. Qd2 d6 8. Bh6
+Bxh6 9. Qxh6 Qb4 10. Nf3 Qxb2 11. Qc1 Qb4 12. Nd2 Nbd7 13. O-O Qa5 14. e4 Qh5
+15. f4 e5 16. Nf3 exd4 17. Nxd4 Ng4 18. h3 Qc5 0-1

@@ -1,0 +1,14 @@
+[Event "Dayton,OH"]
+[Site "Dayton,OH"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Lovegren, Bob"]
+[Black "Wall, Bill"]
+[Result "0-1"]
+[ECO "A00"]
+[Opening "Grob's attack"]
+[HashCode "52e16d81"]
+[Epoch "Rook"]
+[BlackCountry "USA"]
+
+1. g4 e5 2. Bg2 d5 3. e3 c6 4. Nc3 Qg5 5. Bh3 h5 6. gxh5 Bxh3 7. Nxh3 Qg2 0-1

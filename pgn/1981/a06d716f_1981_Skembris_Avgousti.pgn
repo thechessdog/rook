@@ -1,0 +1,18 @@
+[Event "Budva zt"]
+[Site "Budva zt"]
+[Date "1981.01.01"]
+[Round "19"]
+[White "Skembris, Spyridon"]
+[Black "Avgousti, Petrakis"]
+[Result "1-0"]
+[ECO "D82"]
+[Opening "Gruenfeld"]
+[Variation "4.Bf4"]
+[HashCode "a06d716f"]
+[Epoch "Rook"]
+[WhiteID "4200020"]
+[WhiteCountry "GRE"]
+[BlackCountry "CYP"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Bf4 Bg7 5. e3 c6 6. Rc1 O-O 7. Nf3 a6 8. h3 Re8
+9. Qb3 Kh8 10. Be2 dxc4 11. Bxc4 e6 12. O-O b5 13. Bd3 1-0

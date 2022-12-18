@@ -1,0 +1,18 @@
+[Event "Dayton,OH"]
+[Site "Dayton,OH"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Wall, Bill"]
+[Black "Baker"]
+[Result "1-0"]
+[ECO "C80"]
+[Opening "Ruy Lopez"]
+[Variation "open, 6.d4"]
+[HashCode "8c412aeb"]
+[Epoch "Rook"]
+[WhiteCountry "USA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 d6 7. dxe5 b5 8. Bb3
+dxe5 9. Qxd8+ Nxd8 10. Bd5 Rb8 11. Bxe4 Bd6 12. Re1 O-O 13. Ng5 g6 14. Nc3 Ne6
+15. Be3 c5 16. Nxe6 Bxe6 17. Rad1 Rbd8 18. a4 bxa4 19. Rxd6 Rxd6 20. Bxc5 Rfd8
+21. Bxd6 Rxd6 22. Nxa4 f5 23. Bb7 e4 24. f3 exf3 25. Rxe6 Rxe6 26. Bd5 1-0

@@ -1,0 +1,17 @@
+[Event "Winston-Salem,NC"]
+[Site "Winston-Salem,NC"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Kidd, Jeff"]
+[Black "Wall, Bill"]
+[Result "1/2-1/2"]
+[ECO "B52"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky attack, 3...Bd7"]
+[HashCode "b4127ca0"]
+[Epoch "Rook"]
+[BlackCountry "USA"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Nxd7 5. O-O g6 6. c3 Bg7 7. Re1 e6 8.
+d4 cxd4 9. cxd4 Ne7 10. Nc3 a6 11. Be3 O-O 12. Qd2 b5 13. a3 Nb6 14. b3 Rc8 15.
+Rac1 d5 16. e5 Nf5 17. Bg5 Qd7 1/2-1/2

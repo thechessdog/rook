@@ -1,0 +1,18 @@
+[Event "New York"]
+[Site "New York"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Burger, Karl"]
+[Black "Henley, Ron"]
+[Result "0-1"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack"]
+[HashCode "fa7a06a9"]
+[Epoch "Rook"]
+[WhiteCountry "USA"]
+[BlackID "2000318"]
+[BlackCountry "USA"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 c6 4. Bxf6 exf6 5. e3 f5 6. Bd3 g6 7. Nf3 Nd7 8. Ne2
+Bd6 9. c4 dxc4 10. Bxc4 Qe7 11. O-O Nb6 12. Bb3 Be6 13. Nc3 Rd8 14. Qc2 O-O 15.
+Rfe1 c5 16. d5 Bd7 17. e4 c4 18. Ba4 Nxa4 19. Nxa4 fxe4 0-1

@@ -1,0 +1,20 @@
+[Event "Imperia"]
+[Site "Imperia"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Bruno"]
+[Black "Messa, Roberto"]
+[Result "0-1"]
+[ECO "A06"]
+[Opening "Reti"]
+[Variation "Nimzovich-Larsen attack"]
+[HashCode "b86cfd10"]
+[Epoch "Rook"]
+[BlackID "800457"]
+[BlackCountry "ITA"]
+
+1. Nf3 d5 2. b3 c5 3. e3 Nf6 4. Bb2 e6 5. d4 Nc6 6. Nbd2 Bd6 7. Ne5 O-O 8. Bd3
+Qe7 9. a3 Nd7 10. f4 f6 11. Bxh7+ Kxh7 12. Qh5+ Kg8 13. Ng6 Qe8 14. dxc5 Ne7
+15. Qh8+ Kf7 16. Nxf8 Bxc5 17. Nf3 Qxf8 18. Qh5+ Kg8 19. Rf1 Qf7 20. Qh3 Nf8
+21. Nh4 e5 22. Qf3 exf4 23. Qxf4 Qe6 24. Kd2 g5 25. Qg3 Bd6 26. Qf2 gxh4 27.
+Bxf6 Nf5 28. Bxh4 d4 29. Bg5 Nh7 0-1

@@ -1,0 +1,23 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Neckel"]
+[Black "Rudiger"]
+[Result "0-1"]
+[ECO "D47"]
+[Opening "QGD semi-Slav"]
+[Variation "Meran, Wade variation"]
+[HashCode "c55cbdf4"]
+[Epoch "Rook"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. Nf3 e6 5. e3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8.
+Bd3 Bb7 9. e4 Be7 10. e5 Nd5 11. Nxd5 cxd5 12. O-O b4 13. Be3 Rc8 14. Qe2
+O-O 15. Nd2 Qb6 16. f4 f6 17. exf6 Nxf6 18. Kh1 Rc6 19. Nf3 Ba6 20. Ne5
+Bxd3 21. Qxd3 Rc7 22. Rfc1 Ne4 23. Rxc7 Qxc7 24. Qb5 Rc8 25. h3 Rb8 26. Qa6
+Qb6 27. Qa4 Qb7 28. Rc1 Bd6 29. g4 Bxe5 30. fxe5 Qe7 31. Qc2 Qh4 32. Qg2
+Rf8 33. Kh2 h6 34. Rg1 Qe7 35. Qe2 a5 36. Kg2 a4 37. Rf1 Rc8 38. Rc1 Rxc1
+39. Bxc1 a3 40. bxa3 Qc7 41. Qe1 bxa3 42. Bxa3 Qc2+ 43. Kg1 Qd3 44. Bb2
+Qxh3 45. Qe2 Ng5 46. Kf2 Qh2+ 47. Ke1 Qg1+ 48. Kd2 Qb1 49. Kc3 Qxa2 50. Kc2
+Qa4+ 51. Kb1 Ne4 52. Kc1 Qb3 0-1
+

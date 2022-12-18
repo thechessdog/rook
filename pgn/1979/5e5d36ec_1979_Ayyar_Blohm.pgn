@@ -1,0 +1,21 @@
+[Event "Bagby"]
+[Site "San Francisco"]
+[Date "1979.??.??"]
+[Round "2"]
+[White "Ayyar, Rajan"]
+[Black "Blohm, David"]
+[Result "0-1"]
+[ECO "B99"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7...Be7 main line"]
+[HashCode "5e5d36ec"]
+[Epoch "Rook"]
+[WhiteID "2003201"]
+[BlackID "2012138"]
+[WhiteCountry "USA"]
+[BlackCountry "USA"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3
+Qc7 9. O-O-O Nbd7 10. Bd3 b5 11. Rhe1 Bb7 12. Qg3 O-O-O 13. Bxb5 axb5 14. Ndxb5
+Qb6 15. e5 Nc5 16. exf6 gxf6 17. Bh4 Rhg8 18. Qe3 Rxg2 19. Bf2 Rxf2 20. Rd4
+Rxh2 21. Rb4 Rh1 22. Rxh1 Nb3+ 0-1

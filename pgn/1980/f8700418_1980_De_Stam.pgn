@@ -1,0 +1,23 @@
+[Event "corr ch-HSB"]
+[Site "corr ch-HSB"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "De Koning"]
+[Black "Stam"]
+[Result "1-0"]
+[ECO "C64"]
+[Opening "Ruy Lopez"]
+[Variation "classical (Cordel) defence"]
+[HashCode "f8700418"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. O-O Nd4 5. Nxd4 Bxd4 6. c3 Bb6 7. d4 c6
+8. Bc4 d6 9. dxe5 dxe5 10. Qb3 Qe7 11. a4 Nf6 12. a5 Bc5 13. Qc2 h6 14. b4
+Bd6 15. Be3 O-O 16. Nd2 Nh5 17. Be2 Nf4 18. Nc4 Bc7 19. g3 Nxe2+ 20. Qxe2
+Be6 21. Bc5 Bxc4 22. Qxc4 Bd6 23. Bxd6 Qxd6 24. Rfd1 Qc7 25. Rd3 Rfd8 26.
+Rad1 Rxd3 27. Qxd3 Re8 28. Qd7 Re7 29. Qd8+ Kh7 30. Kf1 Kg6 31. Ke2 f6 32.
+Ke3 Kf7 33. Qa8 b6 34. a6 b5 35. Qd8 Qb6+ 36. Qxb6 axb6 37. Rd6 Rc7 38. f4
+exf4+ 39. gxf4 Ke7 40. e5 fxe5 41. fxe5 Ra7 42. Rxc6 Rxa6 43. Kd4 Ra2 44.
+Rxb6 Rxh2 45. Rb7+ Ke6 46. Rxg7 Rh4+ 47. Kc5 Rc4+ 48. Kxb5 Rxc3 49. Rg6+
+Kxe5 50. Rxh6 Rb3 51. Kc5 1-0
+

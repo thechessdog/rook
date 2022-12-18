@@ -1,0 +1,18 @@
+[Event "Geneve"]
+[Site "Geneve"]
+[Date "1977.01.01"]
+[Round "5"]
+[White "Hug, Werner"]
+[Black "Byrne, Robert E"]
+[Result "1/2-1/2"]
+[ECO "B51"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky (Nimzovich-Rossolimo, Moscow) attack"]
+[HashCode "18d0107e"]
+[Epoch "Rook"]
+[WhiteID "1300040"]
+[WhiteCountry "SUI"]
+[BlackCountry "USA"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Nd7 4. d4 cxd4 5. Qxd4 Nf6 6. Bg5 e6 7. Nc3 Be7 8.
+O-O-O O-O 9. Bxd7 Bxd7 10. e5 dxe5 11. Nxe5 Bc6 12. Nxc6 bxc6 13. Qxd8 1/2-1/2

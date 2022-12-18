@@ -1,0 +1,19 @@
+[Event "Yugoslavia"]
+[Site "Yugoslavia"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Radojcic, S."]
+[Black "Velickovic, Sasa"]
+[Result "1-0"]
+[ECO "A72"]
+[Opening "Benoni"]
+[Variation "classical without 9.O-O"]
+[HashCode "819d6572"]
+[Epoch "Rook"]
+[BlackID "900869"]
+[BlackCountry "SRB"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. e4 Bg7 8. Be2
+O-O 9. Nd2 a6 10. a4 Re8 11. O-O Nbd7 12. h3 Rb8 13. Qc2 Qc7 14. b3 c4 15. bxc4
+b5 16. axb5 axb5 17. Ra2 b4 18. Nb5 Qb6 19. Qb1 Nc5 20. Qxb4 Bd7 21. Qa5 Nfxe4
+22. Qxb6 Rxb6 23. Nxe4 Nxe4 24. Rd2 1-0

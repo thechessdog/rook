@@ -1,0 +1,21 @@
+[Event "Italy"]
+[Site "Italy"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Palmiotto"]
+[Black "Pagni"]
+[Result "0-1"]
+[ECO "B98"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7...Be7"]
+[HashCode "3433e8c4"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8.
+Bd3 Qb6 9. Nb3 h6 10. Bxf6 Bxf6 11. Qd2 Nc6 12. O-O-O Be7 13. Kb1 Bd7 14.
+f5 O-O-O 15. Na4 Qa7 16. c4 Kb8 17. c5 dxc5 18. fxe6 fxe6 19. Qc3 c4 20.
+Bxc4 b5 21. Rxd7 Qxd7 22. Nac5 Bxc5 23. Nxc5 Qd4 24. Nxa6+ Ka7 25. Bxb5
+Qxc3 26. bxc3 Rd2 27. g3 Kb6 28. a4 Rf8 29. Bxc6 Kxa6 30. Bb5+ Kb6 31. Bc4
+Rf3 32. Bxe6 Rxc3 33. Bf7 Re2 34. Bd5 Ka5 35. Ka1 Kxa4 36. Kb1 Ka3 37. Ka1
+Rxh2 38. Rg1 Rg2 0-1
+

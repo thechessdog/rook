@@ -1,0 +1,20 @@
+[Event "Budapest ch-HUN"]
+[Site "Budapest ch-HUN"]
+[Date "1977.11.01"]
+[Round "1"]
+[White "Portisch, Ferenc"]
+[Black "Rigo, Janos"]
+[Result "1/2-1/2"]
+[ECO "E53"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line with ...c5"]
+[HashCode "82015694"]
+[Epoch "Rook"]
+[WhiteID "700487"]
+[WhiteCountry "HUN"]
+[BlackID "700371"]
+[BlackCountry "HUN"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 c5 7. O-O cxd4 8. exd4
+dxc4 9. Bxc4 b6 10. Bg5 Bb7 11. Ne5 Bxc3 12. bxc3 Qc7 13. Bxf6 gxf6 14. Qg4+
+Kh8 15. Qh4 fxe5 16. Qf6+ 1/2-1/2

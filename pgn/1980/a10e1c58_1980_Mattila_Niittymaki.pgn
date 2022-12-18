@@ -1,0 +1,18 @@
+[Event "corr Tch-SF"]
+[Site "corr Tch-SF"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Mattila"]
+[Black "Niittymaki"]
+[Result "1/2-1/2"]
+[ECO "D85"]
+[Opening "Gruenfeld"]
+[Variation "exchange variation"]
+[HashCode "a10e1c58"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nb6 6. h3 Bg7 7. Nf3 O-O 8.
+Be2 c5 9. Be3 cxd4 10. Nxd4 Bd7 11. O-O Nc6 12. Rc1 Rc8 13. Ndb5 a6 14.
+Bxb6 Qxb6 15. Qxd7 axb5 16. Nd5 Qa6 17. Rxc6 bxc6 18. Nxe7+ Kh8 19. Nxc8
+Qxc8 20. Qd2 Rd8 21. Qc2 1/2-1/2
+

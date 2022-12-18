@@ -1,0 +1,23 @@
+[Event "Yaroslavl"]
+[Site "Yaroslavl"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Khasin, Abram"]
+[Black "Zaichik, Gennadi"]
+[Result "0-1"]
+[ECO "A30"]
+[Opening "English"]
+[Variation "symmetrical, hedgehog system"]
+[HashCode "e88d7e06"]
+[Epoch "Rook"]
+[WhiteID "4103424"]
+[WhiteCountry "RUS"]
+[BlackID "13600109"]
+[BlackCountry "USA"]
+
+1. c4 Nf6 2. Nf3 c5 3. Nc3 e6 4. g3 b6 5. Bg2 Bb7 6. O-O Be7 7. Re1 d6 8. e4 a6
+9. d4 cxd4 10. Nxd4 Qc7 11. Be3 O-O 12. Rc1 Nbd7 13. f4 Rac8 14. f5 e5 15. Nd5
+Qd8 16. Nb3 Bxd5 17. exd5 Re8 18. Qe2 e4 19. Nd4 Ne5 20. Red1 Qd7 21. Rc2 b5
+22. cxb5 Rxc2 23. Qxc2 axb5 24. Bxe4 Nc4 25. Bf2 Ng4 26. Re1 Bf6 27. b3 Nce3
+28. Qd3 Nxf2 29. Kxf2 Ng4+ 30. Kg2 Qa7 31. Rd1 Bxd4 32. Qxd4 Qxa2+ 33. Rd2 Qxb3
+34. Bf3 Ne3+ 35. Kf2 Nxf5 36. Qd3 Qxd3 37. Rxd3 b4 38. Bd1 Kf8 0-1

@@ -1,0 +1,20 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Pfeiffer"]
+[Black "Steffan"]
+[Result "1-0"]
+[ECO "C43"]
+[Opening "Petrov"]
+[Variation "modern attack, main line"]
+[HashCode "c45d3249"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nf6 3. d4 exd4 4. e5 Ne4 5. Qxd4 d5 6. exd6 Nxd6 7. Nc3 Nc6
+8. Qf4 g6 9. Bb5 Bg7 10. O-O O-O 11. Bxc6 bxc6 12. Be3 Qf6 13. Qa4 Nb5 14.
+Ne4 Qxb2 15. Bc5 Re8 16. Rab1 Nc3 17. Qxc6 Bd7 18. Qxa8 Rxa8 19. Rxb2 Ne2+
+20. Kh1 Bxb2 21. Re1 Nf4 22. c3 Bc6 23. Bd4 Ne6 24. Nf6+ Kg7 25. Be5 Bxf3
+26. gxf3 Rd8 27. Rb1 Ba3 28. Rb7 Rd1+ 29. Kg2 Ra1 30. Rxa7 Rxa2 31. Ra8 Kh6
+32. f4 g5 33. f5 Nf4+ 34. Kg3 Nh5+ 35. Kg4 1-0
+

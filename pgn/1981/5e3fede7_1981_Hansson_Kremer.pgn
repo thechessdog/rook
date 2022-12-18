@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Hansson"]
+[Black "Kremer"]
+[Result "0-1"]
+[ECO "C64"]
+[Opening "Ruy Lopez"]
+[Variation "classical defence, 4.c3"]
+[HashCode "5e3fede7"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. c3 d5 5. exd5 Qxd5 6. Qe2 Kf8 7. Bc4 Qd8
+8. Nxe5 Nxe5 9. Qxe5 Bd6 10. Qe2 Qh4 11. d4 Bg4 12. Qd3 Re8+ 13. Be3 Nh6
+14. Nd2 Nf5 15. Kf1 Rxe3 0-1
+

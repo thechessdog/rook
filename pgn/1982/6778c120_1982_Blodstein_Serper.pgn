@@ -1,0 +1,22 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Blodstein, Arkady"]
+[Black "Serper, Grigory"]
+[Result "1-0"]
+[ECO "B76"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, Rauser variation"]
+[HashCode "6778c120"]
+[Epoch "Rook"]
+[WhiteID "2806789"]
+[WhiteCountry "ISR"]
+[BlackID "2012642"]
+[BlackCountry "USA"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 Nc6 8. Qd2
+O-O 9. O-O-O Nxd4 10. Bxd4 Be6 11. Kb1 Qc7 12. h4 h5 13. g4 hxg4 14. h5 gxh5
+15. Qg5 Rfc8 16. Bd3 b5 17. fxg4 Bxg4 18. Nd5 Qd8 19. Rdg1 e5 20. Rxh5 exd4 21.
+Nxf6+ Qxf6 22. Qxg4 Rc5 23. e5 Rxe5 24. Rh7 Kf8 25. Rxg7 Ke7 26. b3 a5 27. Rf1
+a4 28. Rxf7+ 1-0

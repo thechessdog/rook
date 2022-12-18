@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Haantola, Harri"]
+[Black "Bjorkquist, A."]
+[Result "1/2-1/2"]
+[ECO "E56"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line with 7...Nc6"]
+[HashCode "b169d7b3"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 c5 7. O-O Nc6 8.
+a3 dxc4 9. axb4 cxd4 10. Bxc4 dxc3 11. Qxd8 Rxd8 12. bxc3 Ne4 13. b5 Ne7
+14. Bb2 Bd7 15. Rfd1 Rac8 16. Rxa7 Rxc4 17. Ne5 Nxc3 18. Rd6 Rb4 19. Rxd7
+Rf8 20. Nd3 Rb3 21. Ra3 Rxa3 22. Bxa3 Ra8 23. h3 Ng6 24. Rxb7 Nxb5 25. Bb4
+Na7 26. Bc5 Nc6 27. Rc7 Nce5 28. Nxe5 Nxe5 29. Bd6 Ng6 30. Rb7 1/2-1/2
+

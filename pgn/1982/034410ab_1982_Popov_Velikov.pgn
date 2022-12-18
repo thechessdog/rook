@@ -1,0 +1,20 @@
+[Event "Plovdiv"]
+[Site "Plovdiv"]
+[Date "1982.01.01"]
+[Round "12"]
+[White "Popov, Luben"]
+[Black "Velikov, Petar"]
+[Result "1/2-1/2"]
+[ECO "E18"]
+[Opening "Queen's Indian"]
+[Variation "old main line, 7.Nc3"]
+[HashCode "034410ab"]
+[Epoch "Rook"]
+[WhiteID "2900173"]
+[WhiteCountry "FID"]
+[BlackID "2900149"]
+[BlackCountry "FID"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2 Be7 6. O-O O-O 7. Nc3 Ne4 8. Nxe4
+Bxe4 9. Ne1 Bxg2 10. Nxg2 d5 11. Qa4 c6 12. cxd5 cxd5 13. Nf4 Qd7 14. Qxd7 Nxd7
+15. Bd2 Rfc8 16. Rac1 Kf8 17. Rxc8+ Rxc8 18. Rc1 Rxc1+ 19. Bxc1 1/2-1/2

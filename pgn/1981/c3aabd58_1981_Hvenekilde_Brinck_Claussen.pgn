@@ -1,0 +1,25 @@
+[Event "Aarhus"]
+[Site "Aarhus"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Hvenekilde, Jorgen"]
+[Black "Brinck-Claussen, Bjorn"]
+[Result "0-1"]
+[ECO "A05"]
+[Opening "Reti"]
+[Variation "King's Indian attack, Spassky's variation"]
+[HashCode "c3aabd58"]
+[Epoch "Rook"]
+[WhiteID "1400649"]
+[WhiteCountry "DEN"]
+[BlackCountry "DEN"]
+
+1. Nf3 Nf6 2. g3 b5 3. Bg2 Bb7 4. O-O e6 5. d3 d5 6. a4 b4 7. Nbd2 Be7 8. e4 c5
+9. e5 Nfd7 10. Re1 Nc6 11. Nf1 g5 12. h3 h5 13. g4 hxg4 14. hxg4 Qc7 15. Bxg5
+Ndxe5 16. Bxe7 Nxf3+ 17. Qxf3 Qxe7 18. c3 O-O-O 19. a5 Ba6 20. Re3 Qc7 21. Qg3
+Qxg3 22. Rxg3 bxc3 23. bxc3 Kc7 24. g5 Rb8 25. Re1 Kd6 26. g6 f5 27. g7 Rhg8
+28. c4 Nd4 29. cxd5 f4 30. Rg4 Rb7 31. Rxf4 Rbxg7 32. Ng3 Bxd3 33. Bf1 Bxf1 34.
+Kxf1 Kxd5 35. Rfe4 Rg5 36. R4e3 Rh8 37. a6 e5 38. Rb1 Rh6 39. Ra3 Rgg6 40. Rb7
+Rxa6 41. Rxa7 Rxa3 42. Rxa3 Rb6 43. Kg2 Rb2 44. Ra8 Nc6 45. Nf5 c4 46. Ne3+ Kc5
+47. Rc8 c3 48. Nd1 Rc2 49. Re8 Rc1 50. Nxc3 Rxc3 51. f4 exf4 52. Rf8 Rc4 53.
+Rf5+ Kd6 54. Rf8 Ne5 0-1

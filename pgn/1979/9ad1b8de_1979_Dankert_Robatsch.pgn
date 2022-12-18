@@ -1,0 +1,28 @@
+[Event "Munich"]
+[Site "Munich"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Dankert, Peter"]
+[Black "Robatsch, Karl"]
+[Result "0-1"]
+[ECO "B31"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (with ...g6, without ...d6)"]
+[HashCode "9ad1b8de"]
+[Epoch "Rook"]
+[WhiteID "4605357"]
+[WhiteCountry "GER"]
+[BlackCountry "AUT"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. Re1 Nf6 6. Nc3 O-O 7. e5 Ne8 8. d3
+Nd4 9. Bc4 d6 10. Bf4 Bg4 11. exd6 Nxd6 12. Bxd6 Qxd6 13. Ne4 Qc7 14. c3 Bxf3
+15. gxf3 Nf5 16. Ng3 Nd6 17. Bb3 b5 18. Qe2 e6 19. Kg2 Rab8 20. Rac1 b4 21.
+cxb4 Rxb4 22. Ne4 Bd4 23. Qd2 Rfb8 24. Qf4 Ne8 25. Qg5 Qd8 26. Qh6 Bg7 27. Qd2
+c4 28. Rxc4 Rxc4 29. dxc4 Qxd2 30. Nxd2 Bxb2 31. Ne4 Nf6 32. Rd1 Rc8 33. Nd6
+Rc5 34. Ne4 Nxe4 35. fxe4 Be5 36. h3 Kg7 37. Kf3 Bc7 38. Rd7 Kf6 39. Kg2 Rg5+
+40. Kf3 Bb6 41. Ba4 Rh5 42. Kg3 Ra5 43. Bb3 Re5 44. Bc2 Rc5 45. Bb3 g5 46. Kf3
+h5 47. Rb7 Rc8 48. Rd7 Rf8 49. Kg3 Ke5 50. Bd1 h4+ 51. Kf3 f5 52. exf5 Rxf5+
+53. Kg4 Kf6 54. f3 Rf4+ 55. Kh5 Rxc4 56. Bb3 Rc6 57. Rd2 Kf5 58. Re2 e5 59.
+Bc2+ Kf4 60. Be4 Rc1 61. Rg2 Rg1 62. Rc2 Be3 63. Rc8 Ra1 64. Bd5 Kg3 65. Rc3
+Re1 66. Be6 Kxf3 67. Kg6 Kf4 68. Rc4+ e4 69. Rc8 Rc1 70. Rf8+ Ke5 71. Bd7 Bf4
+72. Re8+ Kd4 73. Bf5 e3 74. Rd8+ Kc3 75. Bg4 Ra1 0-1

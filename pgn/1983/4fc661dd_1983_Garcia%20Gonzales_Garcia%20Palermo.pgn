@@ -1,0 +1,22 @@
+[Event "Capablanca mem-B"]
+[Site "Cienfuegos"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Garcia Gonzales, Guillermo"]
+[Black "Garcia Palermo, Carlos"]
+[Result "1/2-1/2"]
+[ECO "B19"]
+[Opening "Caro-Kann"]
+[Variation "classical, Spassky variation"]
+[HashCode "4fc661dd"]
+[Epoch "Rook"]
+[BlackID "110124"]
+[BlackCountry "ITA"]
+[WhiteCountry "CUB"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. Nf3 Nd7 7. h4 h6 8. h5
+Bh7 9. Bd3 Bxd3 10. Qxd3 e6 11. Bf4 Bb4+ 12. c3 Be7 13. O-O-O Ngf6 14. c4 O-O
+15. Ne5 Qa5 16. Kb1 Rad8 17. Qe2 Rfe8 18. Ne4 Nxe4 19. Qxe4 Nxe5 20. Bxe5 Bd6
+21. g4 Bxe5 22. Qxe5 Qxe5 23. dxe5 f6 24. exf6 gxf6 25. Kc2 Kf7 26. Rxd8 Rxd8
+27. Rd1 Rxd1 28. Kxd1 f5 29. gxf5 e5 30. Ke2 Kf6 31. Ke3 Kxf5 32. b4 b5 33.
+cxb5 cxb5 34. f3 a6 35. a3 Kf6 36. Kd3 1/2-1/2

@@ -1,0 +1,23 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Weist"]
+[Black "Schmidt Seifert, B."]
+[Result "1-0"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, poisoned pawn, Konstantinopolsky variation"]
+[HashCode "14fe4132"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Qc7 7. Qg4 Ne7 8.
+Qxg7 Rg8 9. Qxh7 cxd4 10. Ne2 dxc3 11. f4 Nd7 12. Qd3 b6 13. Nxc3 Bb7 14.
+Nb5 Qc6 15. Nd6+ Kf8 16. Bd2 Nc5 17. Qf3 Ne4 18. Nxe4 dxe4 19. Qb3 Rc8 20.
+O-O-O Nd5 21. Re1 Ne7 22. Bb4 Qd5 23. Kb1 Qxb3+ 24. cxb3 Bd5 25. Kb2 Ke8
+26. Bxe7 Kxe7 27. g3 Rc7 28. Ba6 f5 29. Rc1 Kd8 30. Rxc7 Kxc7 31. Rc1+ Kd7
+32. Rc3 Rh8 33. h4 Bc6 34. a4 Rg8 35. Bc4 Bd5 36. Bb5+ Kd8 37. Kc2 Rg7 38.
+Kd2 Ke7 39. Rc7+ Kf8 40. Rxg7 Kxg7 41. b4 Kh6 42. Kc3 Kg7 43. a5 bxa5 44.
+bxa5 Kh6 45. Kd4 Bb3 46. Be2 Kg7 47. g4 Kg6 48. gxf5+ Kxf5 49. Ke3 Ba4 50.
+Bh5 Bc2 51. Bf7 Bd1 52. h5 1-0
+

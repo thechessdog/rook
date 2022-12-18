@@ -1,0 +1,17 @@
+[Event "Buckeye Open,OH"]
+[Site "Buckeye Open,OH"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Harkins, J."]
+[Black "Bracey, J."]
+[Result "0-1"]
+[ECO "B35"]
+[Opening "Sicilian"]
+[Variation "accelerated fianchetto, modern variation with Bc4"]
+[HashCode "68c65026"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6 5. Nc3 Bg7 6. Be3 Nf6 7. Bc4 d6
+8. f3 Qb6 9. Ncb5 a6 10. Nf5 Qa5+ 11. Bd2 gxf5 12. Nxd6+ exd6 13. Bxa5 Nxa5
+14. Bd3 fxe4 15. fxe4 Be6 16. O-O Nc6 17. h3 d5 0-1
+

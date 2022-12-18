@@ -1,0 +1,25 @@
+[Event "Rouyn-Noranda"]
+[Site "Rouyn-Noranda"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Doucet, Yvan"]
+[Black "Cote, Etienne"]
+[Result "1-0"]
+[ECO "A57"]
+[Opening "Benko gambit"]
+[HashCode "218dd8ec"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. Qc2 d6 5. e4 g6 6. cxb5 a6 7. Nc3 Bg7 8. Nf3
+O-O 9. bxa6 Bxa6 10. Bxa6 Nxa6 11. O-O Qa5 12. Bd2 Nb4 13. Qb1 Rfb8 14. a3
+Na6 15. Qc2 Nd7 16. Rfb1 c4 17. Nd1 Qb5 18. Ra2 Nac5 19. Bc3 Qb3 20. Qxb3
+Nxb3 21. Bxg7 Kxg7 22. Ne3 Ra4 23. Rd1 Ndc5 24. Nd2 Nxd2 25. Rxd2 c3 26.
+bxc3 Nxe4 27. Rdc2 Rb3 28. c4 Rbxa3 29. Rxa3 Rxa3 30. g3 h5 31. Kg2 Kf6 32.
+h4 Rd3 33. Re2 Rd2 34. Rxd2 Nxd2 35. f4 e6 36. Kf2 e5 37. Ke2 exf4 38. gxf4
+Ne4 39. Kd3 Nc5+ 40. Kd4 Nb3+ 41. Kc3 Nc5 42. Kc2 Ke7 43. Kc3 Kf6 44. Kc2
+Kg7 45. Kc3 f6 46. Kd4 Kf7 47. Kc3 Ne4+ 48. Kb4 Nd2 49. c5 dxc5+ 50. Kxc5
+Ke7 51. Kc6 Ne4 52. Kc7 Nd6 53. Nc2 Nf5 54. Nb4 g5 55. hxg5 fxg5 56. fxg5
+h4 57. Nc6+ Kf8 58. Ne5 h3 59. Nf3 Ke7 60. Kc6 Ke8 61. d6 Kd8 62. g6 Ng7
+63. d7 Nf5 64. Ne5 Nd4+ 65. Kd6 Nf5+ 66. Ke6 Nd4+ 67. Kf6 h2 68. g7 h1=Q
+69. g8=Q+ Kc7 70. d8=Q+ 1-0
+

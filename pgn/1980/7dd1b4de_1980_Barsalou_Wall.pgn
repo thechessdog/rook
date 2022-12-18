@@ -1,0 +1,17 @@
+[Event "Dayton,OH"]
+[Site "Dayton,OH"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Barsalou, Norm"]
+[Black "Wall, Bill"]
+[Result "0-1"]
+[ECO "B00"]
+[Opening "KP"]
+[Variation "Nimzovich defence"]
+[HashCode "7dd1b4de"]
+[Epoch "Rook"]
+[BlackCountry "USA"]
+
+1. e4 Nc6 2. d4 d5 3. e5 Bf5 4. Nc3 e6 5. g4 Bg6 6. Bd3 Bxd3 7. Qxd3 Qh4 8. h3
+Nh6 9. Bxh6 Qxh6 10. Nge2 f6 11. exf6 Qxf6 12. f4 Bb4 13. g5 Bxc3+ 14. Qxc3 Qe7
+15. O-O-O O-O 16. h4 Nb4 17. Qa3 c5 18. c3 a5 19. b3 cxd4 20. Rxd4 Nd3+ 0-1

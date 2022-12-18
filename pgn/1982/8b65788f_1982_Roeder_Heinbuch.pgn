@@ -1,0 +1,20 @@
+[Event "Bundesliga 8182"]
+[Site "Duitsland tt"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Roeder, Gerd, Dr."]
+[Black "Heinbuch, Detlef Ulrich"]
+[Result "1-0"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "8b65788f"]
+[Epoch "Rook"]
+[WhiteID "4603303"]
+[WhiteCountry "GER"]
+[BlackID "4601289"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. d4 e6 5. Nf3 Nf6 6. Bd3 cxd4 7. cxd4 Be7 8.
+Nc3 Qd8 9. Bg5 Nc6 10. Rc1 O-O 11. h4 Re8 12. Bb1 h6 13. a3 hxg5 14. hxg5 Nd5
+15. Ne5 Nxe5 16. Rh8+ 1-0

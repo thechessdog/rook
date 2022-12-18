@@ -1,0 +1,21 @@
+[Event "IBM-B"]
+[Site "Amsterdam II"]
+[Date "1978.07.01"]
+[Round "1"]
+[White "Van der Sterren, Paul"]
+[Black "Kirov, Nino"]
+[Result "0-1"]
+[ECO "D88"]
+[Opening "Gruenfeld"]
+[Variation "Spassky variation, main line, 10...cd, 11.cd"]
+[HashCode "04aa6b0f"]
+[Epoch "Rook"]
+[WhiteID "1000071"]
+[WhiteCountry "NED"]
+[BlackCountry "BGR"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Bc4 O-O 8.
+Ne2 c5 9. O-O Nc6 10. Be3 cxd4 11. cxd4 Na5 12. Bd3 Nc6 13. Bb5 Bd7 14. Rb1 e6
+15. Bd3 Bc8 16. e5 b6 17. Ng3 Bb7 18. Ne4 Nxd4 19. Nd6 Bxg2 20. Bxd4 Bxf1 21.
+Bxf1 Qg5+ 22. Bg2 Rad8 23. Ne4 Qf4 24. Qa4 Bxe5 25. Bxe5 Qxe5 26. Qxa7 Rd4 27.
+Qb7 Rfd8 28. Bf3 Qf4 29. Kg2 Rd3 30. Be2 R3d7 31. Qc6 Rc7 32. Nf6+ Kg7 0-1

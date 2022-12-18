@@ -1,0 +1,19 @@
+[Event "Mannheim"]
+[Site "Mannheim"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Weidemmann"]
+[Black "Kouatly, Bachar"]
+[Result "0-1"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra gambit"]
+[HashCode "ab352195"]
+[Epoch "Rook"]
+[BlackID "600032"]
+[BlackCountry "FRA"]
+
+1. e4 c5 2. d4 cxd4 3. c3 Nf6 4. e5 Nd5 5. cxd4 d6 6. Bc4 Nb6 7. Bb3 Nc6 8. e6
+fxe6 9. Nf3 g6 10. Ng5 Bg7 11. Bxe6 Nxd4 12. Bf7+ Kf8 13. Be3 e6 14. O-O Qe7
+15. Nc3 Nf5 16. Nce4 Nc4 17. Rc1 Ncxe3 18. fxe3 d5 19. Rxc8+ Rxc8 20. Nxe6+
+Kxf7 21. Qxd5 Rc6 22. N4g5+ Ke8 23. Rd1 Bf6 24. Qe4 Rxe6 25. Nxe6 Kf7 0-1

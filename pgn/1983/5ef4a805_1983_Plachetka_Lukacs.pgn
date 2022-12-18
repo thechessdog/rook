@@ -1,0 +1,19 @@
+[Event "Kecskemet"]
+[Site "Kecskemet"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Plachetka, Jan"]
+[Black "Lukacs, Peter"]
+[Result "1/2-1/2"]
+[ECO "E18"]
+[Opening "Queen's Indian"]
+[Variation "old main line, 7.Nc3"]
+[HashCode "5ef4a805"]
+[Epoch "Rook"]
+[WhiteID "14900068"]
+[WhiteCountry "SVK"]
+[BlackID "700142"]
+[BlackCountry "HUN"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2 Be7 6. O-O O-O 7. Nc3 Ne4 8. Bd2
+d5 9. cxd5 exd5 10. Rc1 1/2-1/2

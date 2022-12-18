@@ -1,0 +1,18 @@
+[Event "corr Yugoslavia"]
+[Site "corr Yugoslavia"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Radojevic"]
+[Black "Mitrovic"]
+[Result "0-1"]
+[ECO "B46"]
+[Opening "Sicilian"]
+[Variation "Taimanov variation"]
+[HashCode "af8b7af1"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 a6 6. Be2 Bc5 7. Nb3 Ba7
+8. h4 Nf6 9. g4 d5 10. exd5 Nxd5 11. Nxd5 exd5 12. Bf4 Qf6 13. Qd2 Qxb2 14.
+O-O O-O 15. Qxd5 Qxc2 16. Bd3 Nb4 17. Bxc2 Nxd5 18. Bg3 Bxg4 19. Be4 Rad8
+20. Na5 f5 0-1
+

@@ -1,0 +1,20 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Schafier"]
+[Black "Martenot"]
+[Result "0-1"]
+[ECO "A40"]
+[Opening "Queen's pawn"]
+[Variation "Englund gambit"]
+[HashCode "fe78043f"]
+[Epoch "Rook"]
+
+1. d4 e5 2. dxe5 Nc6 3. Nf3 Qe7 4. Qd5 f6 5. exf6 Nxf6 6. Qb3 Na5 7. Qc3
+Nc6 8. Qb3 Na5 9. Qc3 Nc6 10. Bg5 Qe6 11. Nd4 Qd5 12. Qe3+ Ne4 13. Nb5 Qxb5
+14. Qxe4+ Be7 15. Bxe7 Nxe7 16. Qd4 O-O 17. e4 Qa5+ 18. Nc3 d6 19. Bc4+ Kh8
+20. O-O-O Qg5+ 21. Kb1 Nc6 22. Qd5 Qxg2 23. Rhg1 Qxh2 24. Qg5 Qe5 25. Qg2
+g6 26. Rd5 Qf6 27. Rh5 Ne5 28. Rxh7+ Kxh7 29. Qh2+ Kg7 30. Rh1 Bh3 31. Qxh3
+Rh8 0-1
+

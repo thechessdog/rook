@@ -1,0 +1,22 @@
+[Event "corr ch-EU"]
+[Site "corr ch-EU"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Loh, Gerhard"]
+[Black "Whiteside"]
+[Result "0-1"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical system, 5.Be2"]
+[HashCode "6ee7ee92"]
+[Epoch "Rook"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Nf3 Bg7 5. Be2 O-O 6. O-O Bg4 7. Be3 Nbd7
+8. h3 Bxf3 9. Bxf3 c6 10. g3 Qc7 11. Bg2 e5 12. Qd2 b5 13. a3 Rab8 14. Rfd1
+a5 15. dxe5 dxe5 16. g4 Rfd8 17. Qe2 Nf8 18. Rxd8 Rxd8 19. Rd1 Rxd1+ 20.
+Qxd1 Ne6 21. Ne2 Bf8 22. c3 Bc5 23. Bc1 Qa7 24. Qe1 a4 25. Ng3 Ne8 26. Bf1
+Nd6 27. Qe2 Qe7 28. Qf3 Bb6 29. Be3 Bxe3 30. Qxe3 c5 31. Qd2 c4 32. Qd5 Nf4
+33. Qc5 f6 34. f3 Qd7 35. Nh1 Nf7 36. Nf2 Ng5 37. Qe3 Qd2 38. Qxd2 Nxf3+
+39. Kh1 Nxd2 40. Kg1 Kf7 41. Bg2 Nxg2 42. Kxg2 f5 43. exf5 gxf5 44. gxf5
+Kf6 0-1
+

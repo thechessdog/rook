@@ -1,0 +1,19 @@
+[Event "Aarhus"]
+[Site "Aarhus"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Petersen, Niels Erik Mondrup"]
+[Black "Jensen, Thomas"]
+[Result "1-0"]
+[ECO "C23"]
+[Opening "Bishop's opening"]
+[Variation "Philidor variation"]
+[HashCode "3309c845"]
+[Epoch "Rook"]
+[BlackID "12901857"]
+[BlackCountry "GER"]
+
+1. e4 e5 2. Bc4 Bc5 3. c3 h6 4. d4 exd4 5. cxd4 Bb4+ 6. Nc3 d6 7. Qb3 Bxc3+ 8.
+bxc3 Qe7 9. Ne2 Nf6 10. e5 dxe5 11. Ba3 Qd7 12. dxe5 Ne4 13. Rd1 Qf5 14. Bxf7+
+Qxf7 15. Rd8+ Kxd8 16. Qxf7 Bd7 17. Qd5 Ng5 18. O-O Nc6 19. f4 Nh7 20. Rd1 Nb8
+21. Qxb7 Re8 22. Qxa8 Kc8 23. Rb1 1-0

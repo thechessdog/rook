@@ -1,0 +1,23 @@
+[Event "Moscow"]
+[Site "Moscow"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Meduna, Eduard"]
+[Black "Anikaev, Yuri N"]
+[Result "1/2-1/2"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Nimzovich (knight's tour) variation"]
+[HashCode "ce0a406c"]
+[Epoch "Rook"]
+[WhiteID "300055"]
+[WhiteCountry "CZE"]
+[BlackID "4101650"]
+[BlackCountry "RUS"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. Nd2 Nbd7 8. e4
+Bg7 9. Be2 O-O 10. O-O Re8 11. f4 a6 12. a4 c4 13. e5 dxe5 14. Nxc4 Nb6 15.
+fxe5 Nfxd5 16. Nd6 Nxc3 17. bxc3 Rxe5 18. Nxf7 Qxd1 19. Bxd1 Rf5 20. Nh6+ Bxh6
+21. Bxh6 Rxf1+ 22. Kxf1 Nd5 23. Rb1 b5 24. Bf3 Be6 25. axb5 axb5 26. Rxb5 Nxc3
+27. Rc5 Rc8 28. Ra5 Rd8 29. Bg5 Re8 30. Kf2 Bf7 31. Bc6 Re6 32. Bh6 Rxc6 33.
+Ra8+ Be8 34. Rxe8+ Kf7 35. Rf8+ Ke6 36. Re8+ Kf7 37. Rf8+ Ke6 38. Re8+ 1/2-1/2

@@ -1,0 +1,19 @@
+[Event "TUN"]
+[Site "Budapest"]
+[Date "1978.08.01"]
+[Round "1"]
+[White "Fernandez, Juan Luis"]
+[Black "Barczay, Laszlo"]
+[Result "0-1"]
+[ECO "B71"]
+[Opening "Sicilian"]
+[Variation "dragon, Levenfish; Flohr variation"]
+[HashCode "c65b66fe"]
+[Epoch "Rook"]
+[BlackCountry "HUN"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nbd7 6. f4 g6 7. Nf3 Bg7 8. e5
+dxe5 9. fxe5 Ng4 10. e6 fxe6 11. Ng5 Bxc3+ 12. bxc3 Qa5 13. Qxg4 Qxc3+ 14. Kd1
+Qxa1 15. Qxe6 Qd4+ 16. Bd2 Qa1+ 17. Bc1 Qd4+ 18. Bd2 Nc5 19. Bb5+ Kd8 20. Nf7+
+Kc7 21. Qxe7+ Kb6 22. a3 Qg4+ 23. Kc1 Kxb5 24. Ne5 Qa4 25. c4+ Ka6 26. Qxc5 Bf5
+27. Kb2 Rhe8 0-1

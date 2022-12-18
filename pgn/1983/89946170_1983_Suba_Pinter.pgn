@@ -1,0 +1,31 @@
+[Event "Rome"]
+[Site "Rome"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Suba, Mihai"]
+[Black "Pinter, Jozsef"]
+[Result "1-0"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...e6"]
+[HashCode "89946170"]
+[Epoch "Rook"]
+[WhiteID "1203363"]
+[WhiteCountry "ESP"]
+[BlackID "700045"]
+[BlackCountry "HUN"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 e6 6. Nf3 Be7 7. cxd5 Nxd5 8.
+Bd3 O-O 9. O-O Nc6 10. a3 b6 11. Re1 Bb7 12. Ne4 Nf6 13. Nc3 Rc8 14. Bb1 Na5
+15. Ne5 Nc4 16. Bd3 Nd6 17. Qc2 Re8 18. Bg5 g6 19. Bh6 Nd5 20. Qd2 Nf5 21. Nxd5
+Bxd5 22. Bb5 Nxh6 23. Bxe8 Bg5 24. f4 Bh4 25. g3 Qxe8 26. gxh4 Qd8 27. Rac1
+Rxc1 28. Rxc1 Bb7 29. d5 Bxd5 30. Qc3 Qxh4 31. Qg3 Qh5 32. Rc8+ Kg7 33. Qc3
+Qd1+ 34. Kf2 Ng8 35. Ng4+ f6 36. Qc7+ Kh8 37. Rxg8+ Kxg8 38. Nxf6+ Kf8 39.
+Nxh7+ Kg8 40. Nf6+ Kf8 41. Nxd5 Qxd5 42. Qb8+ Kg7 43. Qxa7+ Kh6 44. Qxb6 Qd2+
+45. Kf3 Qxh2 46. Qd4 Qh1+ 47. Ke2 Kh7 48. a4 Qc6 49. Kf2 Qc2+ 50. Kg3 Qb3+ 51.
+Kf2 Qc2+ 52. Ke3 Kg8 53. a5 Qc1+ 54. Kf2 Qc2+ 55. Kg3 Qb3+ 56. Qc3 Qd1 57. Qe3
+Qd6 58. Qe4 Kf7 59. b4 g5 60. Qc4 Kg6 61. a6 gxf4+ 62. Kf3 e5 63. Qe4+ Kf6 64.
+a7 Qd1+ 65. Kf2 Qd2+ 66. Kg1 Qd1+ 67. Kg2 Qd2+ 68. Kh1 Qd1+ 69. Kh2 Qh5+ 70.
+Kg2 Qg4+ 71. Kf2 Qh4+ 72. Ke2 Qh2+ 73. Kd3 Qh3+ 74. Kc2 Qh2+ 75. Kb3 Qh3+ 76.
+Kb2 Qh2+ 77. Qc2 Qh1 78. b5 Kg5 79. Qc6 Qh2+ 80. Kb3 Qh3+ 81. Kb4 Qh2 82. a8=Q
+Qb2+ 83. Ka5 1-0

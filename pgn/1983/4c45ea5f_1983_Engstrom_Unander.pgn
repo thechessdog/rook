@@ -1,0 +1,19 @@
+[Event "Sweden"]
+[Site "Sweden"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Engstrom, Kaj"]
+[Black "Unander, Matts"]
+[Result "1/2-1/2"]
+[ECO "B02"]
+[Opening "Alekhine's defence"]
+[Variation "Scandinavian variation"]
+[HashCode "4c45ea5f"]
+[Epoch "Rook"]
+[WhiteID "1701134"]
+[WhiteCountry "SWE"]
+[BlackID "1701541"]
+[BlackCountry "SWE"]
+
+1. e4 Nf6 2. Nc3 d5 3. e5 d4 4. exf6 dxc3 5. fxg7 cxd2+ 6. Bxd2 Bxg7 7. Qh5 Qd4
+8. c3 Qe5+ 9. Qxe5 Bxe5 10. Nf3 1/2-1/2

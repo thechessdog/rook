@@ -1,0 +1,18 @@
+[Event "corr WER/M"]
+[Site "corr WER/M"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Dekeyser"]
+[Black "Kubler"]
+[Result "1-0"]
+[ECO "A52"]
+[Opening "Budapest"]
+[Variation "Alekhine, Abonyi variation"]
+[HashCode "b50a2175"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ng4 4. e4 Nxe5 5. f4 Nec6 6. a3 g6 7. Nf3 Bg7 8.
+Be2 O-O 9. Nc3 d6 10. O-O Bg4 11. Be3 f5 12. Ng5 Bxe2 13. Nxe2 Qe8 14. Qd5+
+Kh8 15. Ne6 Rf7 16. N2d4 h6 17. exf5 Nd7 18. fxg6 Re7 19. f5 Nf6 20. Qf3
+Nxd4 21. Bxd4 1-0
+

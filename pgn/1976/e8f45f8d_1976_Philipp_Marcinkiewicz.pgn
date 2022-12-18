@@ -1,0 +1,16 @@
+[Event "corr WT/M"]
+[Site "corr WT/M"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Philipp, W."]
+[Black "Marcinkiewicz, J."]
+[Result "1-0"]
+[ECO "B28"]
+[Opening "Sicilian"]
+[Variation "O'Kelly variation"]
+[HashCode "e8f45f8d"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 a6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Nde2 Bc5 7. Ng3 d6
+8. Bg5 Qb6 9. Qd2 Ng4 10. O-O-O Nxf2 11. Nd5 Qc6 12. Nh5 1-0
+

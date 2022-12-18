@@ -1,0 +1,19 @@
+[Event "New York Int"]
+[Site "New York Int"]
+[Date "1984.01.01"]
+[Round "8"]
+[White "Benko, Pal"]
+[Black "Reshevsky, Samuel Herman"]
+[Result "1/2-1/2"]
+[ECO "E19"]
+[Opening "Queen's Indian"]
+[Variation "old main line, 9.Qxc3"]
+[HashCode "a08b2e50"]
+[Epoch "Rook"]
+[WhiteID "2000687"]
+[WhiteCountry "USA"]
+[BlackCountry "USA"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2 Be7 6. O-O O-O 7. Nc3 Ne4 8. Qc2
+Nxc3 9. Qxc3 c5 10. Be3 d6 11. Rfd1 Qc7 12. dxc5 bxc5 13. Bg5 Rd8 14. Bxe7 Qxe7
+15. Rd2 1/2-1/2

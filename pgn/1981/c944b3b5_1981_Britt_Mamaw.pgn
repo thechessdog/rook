@@ -1,0 +1,18 @@
+[Event "Columbus,OH"]
+[Site "Columbus,OH"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Britt, Tom"]
+[Black "Mamaw, J."]
+[Result "1-0"]
+[ECO "C10"]
+[Opening "French"]
+[Variation "Rubinstein variation"]
+[HashCode "c944b3b5"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ gxf6 6. Nf3 c5 7. c3 Nc6
+8. Bb5 Bd7 9. dxc5 Bxc5 10. Qe2 Qb6 11. O-O e5 12. Nd2 Rg8 13. Bc4 Bh3 14.
+Bxf7+ Kxf7 15. Qh5+ Ke6 16. Qxh3+ f5 17. Ne4 Be7 18. Ng3 Raf8 19. b3 Rg7
+20. Bh6 1-0
+

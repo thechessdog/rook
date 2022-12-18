@@ -1,0 +1,25 @@
+[Event "corr DFSM"]
+[Site "corr DFSM"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Burger, Karl"]
+[Black "Rosen, Willy"]
+[Result "0-1"]
+[ECO "E83"]
+[Opening "King's Indian"]
+[Variation "Saemisch, 6...Nc6"]
+[HashCode "c8f00535"]
+[Epoch "Rook"]
+[BlackID "4605535"]
+[WhiteCountry "USA"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 Nc6 7. Nge2 Bd7 8. Qd2
+Re8 9. Rb1 e5 10. d5 Na5 11. Nc1 c5 12. a3 Rc8 13. b3 Nh5 14. Nb5 Bxb5 15. cxb5
+f5 16. b6 axb6 17. g3 f4 18. Bf2 fxg3 19. hxg3 Rf8 20. Bg2 c4 21. Bh3 Rxf3 22.
+Be6+ Kh8 23. Bg4 c3 24. Qc2 Qf8 25. Bxc8 Qxc8 26. Ne2 Bh6 27. Rh2 Bd2+ 28. Kf1
+Qg4 29. Rg2 Nf6 30. Ng1 Qxe4 31. Qxe4 Nxe4 32. Nxf3 c2 33. Rc1 Bxc1 34. Ne1
+Bxa3 35. Nxc2 Bc5 36. Bxc5 bxc5 37. Na3 Kg7 38. Ke2 Nc3+ 39. Kd3 Nxd5 40. Nb5
+Nb4+ 41. Ke4 c4 42. g4 Nxb3 43. Nxd6 c3 44. Kxe5 c2 45. Rxc2 Nxc2 46. Nxb7 g5
+47. Kf5 Kh6 48. Ke4 Kg6 49. Nd6 Nc5+ 50. Kf3 Nd7 51. Nc4 Nb4 52. Kg3 Nc6 53.
+Ne3 Nce5 0-1

@@ -1,0 +1,18 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Kuntermann, H."]
+[Black "Wagner, H."]
+[Result "0-1"]
+[ECO "B31"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (with ...g6, without ...d6)"]
+[HashCode "ccffb301"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. Re1 e5 6. c3 Nge7 7. d4 cxd4 8.
+cxd4 exd4 9. Bf4 a6 10. Bxc6 dxc6 11. Be5 Bxe5 12. Nxe5 O-O 13. Nd2 c5 14.
+Rc1 b6 15. f4 f6 16. Nd3 Be6 17. Rf1 f5 18. b4 c4 19. Ne5 b5 20. Qf3 c3 21.
+Nb3 fxe4 22. Qxe4 Bxb3 23. axb3 Qd5 24. Qd3 Rad8 0-1
+

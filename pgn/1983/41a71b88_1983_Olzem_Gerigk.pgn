@@ -1,0 +1,21 @@
+[Event "BL2-N 8283"]
+[Site "BL2-N 8283"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Olzem, Lothar"]
+[Black "Gerigk, Wolf"]
+[Result "0-1"]
+[ECO "B00"]
+[Opening "KP"]
+[Variation "Nimzovich defence"]
+[HashCode "41a71b88"]
+[Epoch "Rook"]
+[WhiteID "4607716"]
+[WhiteCountry "GER"]
+[BlackID "4684249"]
+[BlackCountry "GER"]
+
+1. e4 Nc6 2. Nf3 d5 3. exd5 Qxd5 4. d4 Bg4 5. Be2 e5 6. Nc3 Bb4 7. O-O Bxc3 8.
+bxc3 O-O-O 9. c4 Qe4 10. d5 Bxf3 11. Bxf3 Qxc4 12. Bb2 Nf6 13. Re1 Rhe8 14. Qd2
+h6 15. Rad1 Qxa2 16. Qc3 Nd4 17. Ra1 Nxf3+ 18. gxf3 Qxd5 19. Rxa7 Nd7 20. Ra8+
+Nb8 21. Qa3 Re6 22. Qa7 Rg6+ 23. Kf1 Qc4+ 24. Re2 Rd1# 0-1

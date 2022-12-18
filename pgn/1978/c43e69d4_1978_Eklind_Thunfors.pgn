@@ -1,0 +1,18 @@
+[Event "corr SWE/K tt"]
+[Site "corr SWE/K tt"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Eklind, Bengt"]
+[Black "Thunfors, B."]
+[Result "1-0"]
+[ECO "C07"]
+[Opening "French"]
+[Variation "Tarrasch, open variation"]
+[HashCode "c43e69d4"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. exd5 Qxd5 5. Ngf3 Bd7 6. Bc4 Qh5 7. Nf1 cxd4
+8. Qxd4 Nc6 9. Qf4 Nf6 10. Be3 Qa5+ 11. N1d2 Nb4 12. Rc1 b5 13. a3 Nxc2+
+14. Rxc2 bxc4 15. O-O c3 16. Rxc3 Nd5 17. Qe5 Be7 18. Nc4 Qa6 19. Rcc1 Rc8
+20. Qxg7 Bf6 21. Qg4 h5 22. Qe4 Ke7 23. Nce5 Bb5 24. Rfd1 1-0
+

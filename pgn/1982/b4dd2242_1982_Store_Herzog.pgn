@@ -1,0 +1,18 @@
+[Event "Gausdal Int"]
+[Site "Gausdal"]
+[Date "1982.??.??"]
+[Round "5"]
+[White "Store, Thor"]
+[Black "Herzog, Juerg"]
+[Result "0-1"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, poisoned pawn, Konstantinopolsky variation"]
+[HashCode "b4dd2242"]
+[Epoch "Rook"]
+[BlackID "1300210"]
+[BlackCountry "SUI"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Qg4 Qc7 8.
+Qxg7 Rg8 9. Qxh7 cxd4 10. Ne2 Nbc6 11. f4 Bd7 12. Qd3 dxc3 13. Be3 d4 14. Bxd4
+Nxd4 15. Nxd4 O-O-O 16. Qe4 Qb6 17. Bc4 Nf5 18. Rd1 Bc6 0-1

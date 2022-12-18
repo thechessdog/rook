@@ -1,0 +1,19 @@
+[Event "DDR"]
+[Site "DDR"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Hofmann"]
+[Black "Muller, Hans P"]
+[Result "1-0"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, 6.Bd3"]
+[HashCode "1bd4cd96"]
+[Epoch "Rook"]
+[BlackID "3223167"]
+[BlackCountry "AUS"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 O-O 6. Bd3 Nc6 7. e5 dxe5 8. fxe5
+Ng4 9. Be4 f6 10. h3 Nh6 11. Bd5+ Kh8 12. O-O Nf5 13. Re1 Nfxd4 14. Nxd4 Nxd4
+15. Qxd4 c6 16. Bf4 cxd5 17. e6 Qa5 18. Nxd5 Rd8 19. c4 b5 20. Qc5 Bb7 21. Bc7
+Rdc8 22. Qxe7 Qd2 23. Rad1 Qxb2 24. Qd7 bxc4 25. e7 Re8 26. Bd8 1-0

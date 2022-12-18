@@ -1,0 +1,18 @@
+[Event "corr FRG/M"]
+[Site "corr FRG/M"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Valet, R."]
+[Black "Winkelmann, H."]
+[Result "0-1"]
+[ECO "B25"]
+[Opening "Sicilian"]
+[Variation "closed, 6.f4"]
+[HashCode "0cdcdb1a"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. f4 e6 7. Nf3 Nge7 8.
+O-O O-O 9. Be3 Nd4 10. Rb1 Nec6 11. Ne2 e5 12. c3 Nxf3+ 13. Bxf3 f5 14. d4
+exd4 15. cxd4 fxe4 16. Bxe4 Qe7 17. Bd5+ Kh8 18. Qd2 Re8 19. Bxc6 bxc6 20.
+Kf2 Bh3 21. Rfe1 Qe4 22. Rg1 Bg4 0-1
+

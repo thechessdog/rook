@@ -1,0 +1,26 @@
+[Event "Bundesliga 8283"]
+[Site "Duitsland tt"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Robatsch, Karl"]
+[Black "Heidrich, Manfred"]
+[Result "1-0"]
+[ECO "D14"]
+[Opening "QGD Slav"]
+[Variation "exchange variation, 6.Bf4 Bf5"]
+[HashCode "2258939d"]
+[Epoch "Rook"]
+[BlackID "4602722"]
+[BlackCountry "GER"]
+[WhiteCountry "AUT"]
+
+1. Nf3 d5 2. c4 c6 3. d4 Nf6 4. cxd5 cxd5 5. Nc3 Nc6 6. Bf4 Bf5 7. e3 e6 8. Ne5
+Nd7 9. Bb5 Ndxe5 10. Bxe5 f6 11. Bg3 Be7 12. O-O Rc8 13. Rc1 O-O 14. Na4 Qa5
+15. Bxc6 Rxc6 16. Rxc6 bxc6 17. Qb3 Qb5 18. Nc5 Bxc5 19. Qxb5 cxb5 20. dxc5 Rc8
+21. Rc1 Kf7 22. c6 Ke7 23. f3 e5 24. Be1 Bd7 25. Bb4+ Ke6 26. c7 Be8 27. Kf2
+Kd7 28. Ba5 Kd6 29. Ke2 Bc6 30. Kd3 Kd7 31. Kc3 Kd6 32. Kd3 Be8 33. Bb4+ Kd7
+34. Ba5 Kd6 35. g4 Bd7 36. Bb4+ Ke6 37. f4 Be8 38. h3 Kd7 39. Ba5 Bg6+ 40. f5
+Be8 41. h4 Ke7 42. g5 Bd7 43. e4 dxe4+ 44. Kxe4 Kf7 45. Rd1 Ke7 46. Bb4+ Ke8
+47. Rc1 Kf7 48. Ba5 Ke7 49. Rc3 Kf7 50. Bb4 Ke8 51. Bd6 Kf7 52. Bb4 Ke8 53. a3
+Ra8 54. Ba5 Ke7 55. b3 Rc8 56. Rc1 Kf7 57. Rd1 Ke7 58. gxf6+ gxf6 59. Bb4+ Ke8
+60. Rd6 Rxc7 61. Rxf6 Bc6+ 62. Kxe5 Bf3 63. Ke6 1-0

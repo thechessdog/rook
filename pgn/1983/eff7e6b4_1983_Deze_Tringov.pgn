@@ -1,0 +1,17 @@
+[Event "Novi Sad"]
+[Site "Novi Sad"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Deze, Anton"]
+[Black "Tringov, Georgi P"]
+[Result "1/2-1/2"]
+[ECO "A65"]
+[Opening "Benoni"]
+[Variation "6.e4"]
+[HashCode "eff7e6b4"]
+[Epoch "Rook"]
+[BlackCountry "BGR"]
+[WhiteCountry "SRB"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. f3 Bg7 8. Bg5
+O-O 9. Qd2 a6 10. a4 Nbd7 11. Nh3 Qc7 12. Nf2 Rb8 13. Qe2 c4 14. Be3 1/2-1/2

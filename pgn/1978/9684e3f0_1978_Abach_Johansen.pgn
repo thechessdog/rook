@@ -1,0 +1,18 @@
+[Event "Horsens"]
+[Site "Horsens"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Abach, HC."]
+[Black "Johansen, Eigil"]
+[Result "0-1"]
+[ECO "A58"]
+[Opening "Benko gambit"]
+[Variation "fianchetto variation"]
+[HashCode "9684e3f0"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. bxa6 Bxa6 6. Nc3 d6 7. Nf3 g6 8.
+g3 Bg7 9. Bg2 O-O 10. O-O Nbd7 11. Qc2 Qb6 12. Re1 Rfb8 13. e4 Ng4 14. h3
+Nge5 15. Nxe5 Nxe5 16. b3 c4 17. bxc4 Nxc4 18. Be3 Qa5 19. Rec1 Rb2 20. Qa4
+Bxc3 21. Qc6 Bb5 0-1
+

@@ -1,0 +1,17 @@
+[Event "Berlin"]
+[Site "Berlin"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Fries-Nielsen, Niels Jorgen"]
+[Black "Defize, Alain"]
+[Result "1-0"]
+[ECO "A00"]
+[Opening "Van't Kruijs opening"]
+[HashCode "abc0c266"]
+[Epoch "Rook"]
+[BlackID "200166"]
+[BlackCountry "BEL"]
+
+1. e3 Nf6 2. Nf3 g6 3. b4 Bg7 4. Bb2 O-O 5. Be2 d6 6. O-O e5 7. d3 Nbd7 8. Nbd2
+Nd5 9. c3 c6 10. Qb3 Kh8 11. c4 Nc7 12. d4 Qe7 13. c5 exd4 14. cxd6 Qxd6 15.
+Nxd4 Nd5 16. a3 N7f6 17. Bf3 Bg4 18. e4 Bxf3 19. N4xf3 1-0

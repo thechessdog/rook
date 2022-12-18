@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Gerloff"]
+[Black "Gatto"]
+[Result "1/2-1/2"]
+[ECO "B92"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Opovcensky variation"]
+[HashCode "0d1f191a"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nf3 Be7 8.
+O-O Qc7 9. Bg5 Be6 10. Bxf6 Bxf6 11. Nd5 Bxd5 12. Qxd5 Nd7 13. c3 O-O 14.
+Nd2 b5 15. Kh1 Nb6 16. Qd3 Rad8 17. c4 bxc4 18. Nxc4 Qxc4 19. Qxc4 Nxc4 20.
+Bxc4 a5 21. Bd5 1/2-1/2
+

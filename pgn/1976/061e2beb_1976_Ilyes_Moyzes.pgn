@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Ilyes"]
+[Black "Moyzes"]
+[Result "1-0"]
+[ECO "C51"]
+[Opening "Evans gambit"]
+[Variation "Morphy attack"]
+[HashCode "061e2beb"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 Bxb4 5. c3 Ba5 6. d4 exd4 7. O-O Bb6
+8. cxd4 d6 9. Nc3 Nge7 10. Ng5 Bxd4 11. Nxf7 Qd7 12. Nxh8 Bxc3 13. Qh5+ g6
+14. Qxh7 Bxa1 15. Qf7+ Kd8 16. Qf8+ Qe8 17. Nf7+ Kd7 18. Be6+ Kxe6 19. Qxe8
+Bf6 20. f4 b6 21. Ng5+ Bxg5 22. fxg5 1-0
+

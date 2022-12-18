@@ -1,0 +1,21 @@
+[Event "corr EU"]
+[Site "corr EU"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Heister"]
+[Black "Van der Kooij"]
+[Result "1-0"]
+[ECO "E41"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5"]
+[HashCode "a8e6ab57"]
+[Epoch "Rook"]
+[BlackID "1011812"]
+[BlackCountry "NED"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 O-O 6. Ne2 d5 7. O-O dxc4 8. Bxc4
+cxd4 9. exd4 Nbd7 10. Bb3 Bd6 11. Be3 Ng4 12. Bf4 e5 13. dxe5 Ndxe5 14. Ng3 Qh4
+15. Nge4 Bc7 16. Bg3 Qd8 17. h3 Nh6 18. Qh5 Bf5 19. Rad1 Qb8 20. Nf6+ Kh8 21.
+Bxe5 Bxe5 22. Nd7 Bxd7 23. Rxd7 Bxc3 24. bxc3 Qc8 25. Rfd1 Qxc3 26. Rxb7 Qf6
+27. Rdd7 Rfe8 28. g3 Re5 29. Qd1 Ree8 30. Kg2 Nf5 31. Rxf7 Qc6+ 32. Kh2 Qc5 33.
+Qf3 h6 34. Rbc7 Qb6 35. Bc2 1-0

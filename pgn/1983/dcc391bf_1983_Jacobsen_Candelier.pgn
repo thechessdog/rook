@@ -1,0 +1,18 @@
+[Event "corr EU/I/GT"]
+[Site "corr EU/I/GT"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Jacobsen, Bo"]
+[Black "Candelier"]
+[Result "0-1"]
+[ECO "A93"]
+[Opening "Dutch"]
+[Variation "stonewall, Botwinnik variation"]
+[HashCode "dcc391bf"]
+[Epoch "Rook"]
+[WhiteID "1400738"]
+[WhiteCountry "DEN"]
+
+1. d4 f5 2. c4 Nf6 3. g3 e6 4. Bg2 Be7 5. Nf3 O-O 6. O-O d5 7. b3 c6 8. Nc3 Ne4
+9. Bb2 Nd7 10. Qc2 Qe8 11. Nxe4 fxe4 12. Ne5 Qh5 13. cxd5 exd5 14. Nxd7 Bxd7
+15. e3 Rf6 16. Bh1 Bh3 17. Bg2 Rf3 18. a4 Raf8 19. Ba3 Bxa3 20. Rxa3 R8f6 0-1

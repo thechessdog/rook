@@ -1,0 +1,17 @@
+[Event "corr NBC"]
+[Site "corr NBC"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Van Eijk, J."]
+[Black "Sinke, H."]
+[Result "0-1"]
+[ECO "C40"]
+[Opening "Latvian"]
+[Variation "Fraser defence"]
+[HashCode "a8e2c70f"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 f5 3. Nxe5 Nc6 4. Qh5+ g6 5. Nxg6 Nf6 6. Qh4 hxg6 7. Qxh8
+Qe7 8. d3 fxe4 9. Be3 d5 10. d4 Bf5 11. Qh4 O-O-O 12. c3 Qe6 13. Nd2 Be7
+14. O-O-O Ng4 15. Qg3 g5 16. f4 Bd6 17. Re1 Nxe3 0-1
+

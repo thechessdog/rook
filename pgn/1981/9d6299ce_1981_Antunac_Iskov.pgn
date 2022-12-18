@@ -1,0 +1,19 @@
+[Event "Ed.Lasker mem"]
+[Site "New York"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Antunac, Goran"]
+[Black "Iskov, Gert"]
+[Result "1/2-1/2"]
+[ECO "A46"]
+[Opening "Queen's pawn"]
+[Variation "Torre attack"]
+[HashCode "9d6299ce"]
+[Epoch "Rook"]
+[WhiteID "14500264"]
+[BlackID "1400398"]
+[WhiteCountry "CRO"]
+[BlackCountry "DEN"]
+
+1. d4 Nf6 2. Nf3 e6 3. Bg5 h6 4. Bh4 b6 5. Nbd2 Bb7 6. e3 c5 7. Bd3 Be7 8. O-O
+Kf8 9. c3 1/2-1/2

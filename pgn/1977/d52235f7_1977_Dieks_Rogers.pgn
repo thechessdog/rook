@@ -1,0 +1,22 @@
+[Event "Wijk aan Zee"]
+[Site "Wijk aan Zee"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Dieks"]
+[Black "Rogers"]
+[Result "0-1"]
+[ECO "D32"]
+[Opening "QGD"]
+[Variation "Tarrasch, von Hennig-Schara gambit"]
+[HashCode "d52235f7"]
+[Epoch "Rook"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c5 4. cxd5 cxd4 5. Qxd4 Nc6 6. Qd1 exd5 7. Qxd5
+Be6 8. Qxd8+ Rxd8 9. e3 a6 10. a3 g6 11. Nf3 Bg7 12. Be2 Nge7 13. e4 Nd4
+14. Nxd4 Bxd4 15. O-O O-O 16. Bh6 Rfe8 17. Rac1 Nc6 18. Kh1 Bb3 19. f3 Ne5
+20. Bg5 Rc8 21. h3 Kg7 22. Bh4 Be3 23. Rb1 g5 24. Bf2 Bd2 25. Be1 Red8 26.
+Bxd2 Rxd2 27. Rfe1 Bc2 28. Ra1 Bd3 29. Bxd3 Nxd3 30. Re2 Rxe2 31. Nxe2 Rc2
+32. Nd4 Rxb2 33. Nf5+ Kf6 34. Kh2 Rd2 35. Ne3 b5 36. Rd1 Rxd1 37. Nxd1 h5
+38. Nc3 Ke5 39. h4 gxh4 40. Kh3 Nf4+ 41. Kxh4 Kd4 42. Nd1 Nxg2+ 43. Kxh5
+Ne1 44. Kg4 Nc2 45. Kf5 Ne3+ 46. Nxe3 Kxe3 47. e5 Kxf3 0-1
+

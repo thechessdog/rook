@@ -1,0 +1,19 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Simchen, L."]
+[Black "Stejskal, R."]
+[Result "1-0"]
+[ECO "B85"]
+[Opening "Sicilian"]
+[Variation "Scheveningen, classical main line"]
+[HashCode "bb124a4c"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be2 Nc6 7. Be3 Be7
+8. O-O a6 9. f4 Qc7 10. Qe1 O-O 11. Qg3 Nxd4 12. Bxd4 b5 13. a3 Bb7 14.
+Rae1 Rfd8 15. Kh1 Ne8 16. Bd3 Bf8 17. Qh3 Bc6 18. Rf3 g6 19. Rg3 e5 20.
+fxe5 dxe5 21. Be3 a5 22. Rf1 b4 23. Bc4 bxc3 24. Rxf7 Qxf7 25. Bxf7+ Kh8
+26. Rxg6 Bg7 27. Rxc6 Rd1+ 28. Bg1 cxb2 29. Ba2 Rb8 30. Qe6 1-0
+

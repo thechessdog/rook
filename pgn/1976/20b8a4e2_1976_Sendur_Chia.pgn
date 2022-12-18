@@ -1,0 +1,23 @@
+[Event "Wattignies"]
+[Site "Wattignies"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Sendur, Adnan"]
+[Black "Chia, Alphonsus"]
+[Result "0-1"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...g6"]
+[HashCode "20b8a4e2"]
+[Epoch "Rook"]
+[WhiteID "6300880"]
+[WhiteCountry "TUR"]
+[BlackID "5800099"]
+[BlackCountry "SGP"]
+
+1. e4 d5 2. exd5 Nf6 3. c4 c6 4. d4 cxd5 5. Nc3 g6 6. cxd5 Nxd5 7. Bc4 Nb6 8.
+Bb3 Bg7 9. Be3 O-O 10. Nge2 N8d7 11. Qd2 Nf6 12. O-O-O a5 13. a3 a4 14. Ba2
+Nbd5 15. Kb1 Bf5+ 16. Ka1 Rc8 17. Rc1 Qd7 18. f3 Rfd8 19. g4 Be6 20. Rhd1 b5
+21. Nxd5 Nxd5 22. Rxc8 Rxc8 23. Bf2 Qb7 24. Be1 Rc7 25. Kb1 Qc8 26. Bg3 Rc6 27.
+Be5 f6 28. Bg3 Bf7 29. Nc1 Nb6 30. d5 Nc4 31. Qe1 Rc5 32. d6 exd6 33. Bxd6 Nxd6
+34. Rxd6 Rxc1+ 35. Qxc1 Bxa2+ 0-1

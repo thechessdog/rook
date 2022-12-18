@@ -1,0 +1,20 @@
+[Event "corr YUG"]
+[Site "corr YUG"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Pirs, E."]
+[Black "Djuric, Stefan"]
+[Result "0-1"]
+[ECO "B99"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7...Be7 main line"]
+[HashCode "55ff6c2f"]
+[Epoch "Rook"]
+[BlackID "900133"]
+[BlackCountry "SRB"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qb6 8. Nb3
+Nbd7 9. Qf3 Qc7 10. O-O-O Be7 11. Nd4 b5 12. Kb1 b4 13. Nce2 Bb7 14. Ng3 Nc5
+15. Bd3 h6 16. Bh4 Rc8 17. Qe2 O-O 18. f5 Nfxe4 19. Bxe7 Nxg3 20. hxg3 Qxe7 21.
+fxe6 fxe6 22. Nf5 Qf6 23. Nxd6 Na4 24. c3 bxc3 25. Nxc8 Rxc8 26. Rhf1 c2+ 27.
+Qxc2 Rxc2 28. Rxf6 Rxb2+ 0-1

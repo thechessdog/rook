@@ -1,0 +1,25 @@
+[Event "Buenos Aires"]
+[Site "Buenos Aires"]
+[Date "1978.01.01"]
+[Round "2"]
+[White "Olivera, Horacio"]
+[Black "Lofiego"]
+[Result "0-1"]
+[ECO "D91"]
+[Opening "Gruenfeld"]
+[Variation "5.Bg5"]
+[HashCode "90e7a446"]
+[Epoch "Rook"]
+[WhiteID "101621"]
+[WhiteCountry "ARG"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Bg5 Ne4 6. cxd5 Nxg5 7. Nxg5 e6 8.
+Nf3 exd5 9. e3 O-O 10. Rc1 c6 11. Bd3 Bg4 12. O-O Re8 13. h3 Bxf3 14. Qxf3 Bf8
+15. Qd1 Nd7 16. a3 f5 17. b4 a6 18. Qb3 Qe7 19. Nxd5 cxd5 20. Qxd5+ Kh8 21. Rc7
+Nf6 22. Qxb7 Qd8 23. Rfc1 Bd6 24. R7c6 a5 25. Qb6 Be7 26. Qxd8 Rexd8 27. Re6
+axb4 28. axb4 Nd5 29. b5 Rd6 30. Rxd6 Bxd6 31. Rc6 Ra1+ 32. Bf1 Be7 33. g3 Rb1
+34. Kg2 Rb2 35. Kf3 Kg7 36. Bd3 Nb4 37. Rc3 Nxd3 38. Rxd3 Rxb5 39. e4 fxe4+ 40.
+Kxe4 Kf6 41. f4 Ke6 42. g4 Rb1 43. f5+ Kd6 44. fxg6 hxg6 45. Ra3 Re1+ 46. Kd3
+Ke6 47. Rc3 Bg5 48. Rc6+ Kf7 49. Rc5 Re3+ 50. Kc2 Be7 51. Rc3 Rxc3+ 52. Kxc3
+Bh4 53. Kd3 Kf6 54. Ke4 Kg5 55. Ke5 Bg3+ 56. Ke6 Kh4 57. d5 g5 58. Kf5 Bc7 59.
+Kg6 Bd8 0-1

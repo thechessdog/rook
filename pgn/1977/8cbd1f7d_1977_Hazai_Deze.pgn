@@ -1,0 +1,19 @@
+[Event "Zalaegerszeg"]
+[Site "Zalaegerszeg"]
+[Date "1977.01.01"]
+[Round "9"]
+[White "Hazai, Laszlo Dr."]
+[Black "Deze, Anton"]
+[Result "1/2-1/2"]
+[ECO "B25"]
+[Opening "Sicilian"]
+[Variation "closed, 6.f4 e5 (Botvinnik)"]
+[HashCode "8cbd1f7d"]
+[Epoch "Rook"]
+[WhiteID "700177"]
+[WhiteCountry "HUN"]
+[BlackCountry "SRB"]
+
+1. e4 c5 2. d3 Nc6 3. g3 g6 4. Bg2 Bg7 5. Nc3 d6 6. f4 e5 7. Nh3 Nge7 8. O-O
+exf4 9. Nxf4 O-O 10. Be3 Rb8 11. g4 h6 12. h3 b5 13. Rb1 b4 14. Ncd5 Nxd5 15.
+Nxd5 Be6 16. Qd2 Kh7 17. g5 1/2-1/2

@@ -1,0 +1,18 @@
+[Event "Sweden"]
+[Site "Sweden"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Helmertz, Per Inge"]
+[Black "Hammar, Bengt"]
+[Result "1/2-1/2"]
+[ECO "B91"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Zagreb (fianchetto) variation"]
+[HashCode "b6d4a0e9"]
+[Epoch "Rook"]
+[BlackID "1700391"]
+[BlackCountry "SWE"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. g3 e6 7. Bg2 Be7 8. O-O
+Qc7 9. a4 Nc6 10. Nxc6 bxc6 11. a5 Bb7 12. Be3 c5 13. Qe2 O-O 14. Rfe1 Bc6 15.
+Bf4 1/2-1/2

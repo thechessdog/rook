@@ -1,0 +1,20 @@
+[Event "Malmo"]
+[Site "Malmo"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Wedberg, Tom"]
+[Black "Jakobsen, Ole"]
+[Result "1-0"]
+[ECO "B98"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Browne variation"]
+[HashCode "c8930f36"]
+[Epoch "Rook"]
+[BlackCountry "DNK"]
+[WhiteID "1700073"]
+[WhiteCountry "SWE"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 h6 8. Bh4
+Be7 9. Qf3 Qc7 10. O-O-O Nbd7 11. Be2 Rg8 12. Bxf6 Nxf6 13. h4 h5 14. Qg3 b5
+15. e5 dxe5 16. fxe5 Bb7 17. Nxe6 fxe6 18. Qg6+ Kf8 19. Bxh5 Nxh5 20. Qxh5 b4
+21. Rhf1+ Bf6 22. exf6 bxc3 23. fxg7+ Kxg7 24. Rd4 cxb2+ 25. Kb1 1-0

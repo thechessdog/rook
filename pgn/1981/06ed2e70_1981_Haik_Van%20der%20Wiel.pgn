@@ -1,0 +1,28 @@
+[Event "Hoogovens-B"]
+[Site "Wijk aan Zee II"]
+[Date "1981.01.01"]
+[Round "7"]
+[White "Haik, Aldo"]
+[Black "Van der Wiel, John T.H."]
+[Result "0-1"]
+[ECO "E26"]
+[Opening "Nimzo-Indian"]
+[Variation "Saemisch, O'Kelly variation"]
+[HashCode "06ed2e70"]
+[Epoch "Rook"]
+[WhiteID "600091"]
+[WhiteCountry "FRA"]
+[BlackID "1000020"]
+[BlackCountry "NED"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. a3 Bxc3+ 5. bxc3 c5 6. e3 b6 7. Bd3 Qc7 8. Ne2
+Ba6 9. e4 d6 10. d5 O-O 11. O-O Nbd7 12. f4 exd5 13. exd5 Bb7 14. a4 a6 15. Rb1
+b5 16. axb5 axb5 17. Rxb5 Ba6 18. Rb1 Nb6 19. Ng3 Nxc4 20. Ra1 Na5 21. c4 Rfb8
+22. Ra3 Bxc4 23. Rxa5 Qxa5 24. Bxc4 Qc3 25. Be2 Ra1 26. Bf3 Rbb1 27. Ne2 Qc4
+28. Qd2 Rb3 29. Ng3 Rbb1 30. Qe2 Qxe2 31. Nxe2 c4 32. Kf2 Nd7 33. Be4 Rb8 34.
+Bd2 Ra2 35. Rd1 Nc5 36. Bf3 Rbb2 37. Be3 Na4 38. Rc1 Rc2 39. Rxc2 Rxc2 40. Ke1
+Nb2 41. Be4 Nd3+ 42. Kd1 Ra2 43. Nd4 Ra5 44. Nf5 Ra6 45. Kd2 g6 46. Ne7+ Kf8
+47. Nc8 Ra2+ 48. Kc3 Ra3+ 49. Kd4 f5 50. Bf3 Ne1 51. Bc1 Nxf3+ 52. gxf3 Rxf3
+53. Kxc4 Rf2 54. Kd3 Rxh2 55. Nxd6 h5 56. Nc4 h4 57. d6 h3 58. Ba3 Ke8 59. Ne5
+Rh1 60. Bc5 Rd1+ 61. Ke2 Rb1 62. Bf2 Rb2+ 63. Kf3 h2 64. Kg2 Rxf2+ 65. Kh1 Rxf4
+66. Nxg6 Rf2 67. Ne5 Re2 68. Nf3 Kd7 69. Nxh2 Kxd6 0-1

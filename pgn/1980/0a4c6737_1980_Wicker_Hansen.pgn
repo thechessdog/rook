@@ -1,0 +1,23 @@
+[Event "Esbjerg-B"]
+[Site "Esbjerg"]
+[Date "1980.??.??"]
+[Round "9"]
+[White "Wicker, Kevin J"]
+[Black "Hansen, Curt"]
+[Result "0-1"]
+[ECO "D51"]
+[Opening "QGD"]
+[Variation "4.Bg5 Nbd7"]
+[HashCode "0a4c6737"]
+[Epoch "Rook"]
+[WhiteID "401501"]
+[BlackID "1400010"]
+[WhiteCountry "ENG"]
+[BlackCountry "DEN"]
+
+1. c4 e6 2. Nc3 d5 3. d4 Nf6 4. Bg5 Nbd7 5. cxd5 exd5 6. e3 c6 7. Bd3 Be7 8.
+Qc2 O-O 9. Nge2 h6 10. Bf4 Nh5 11. O-O-O Nxf4 12. exf4 Nb6 13. f5 Bd7 14. g4
+Rc8 15. h4 c5 16. f6 Bxf6 17. g5 cxd4 18. gxf6 dxc3 19. Bh7+ Kh8 20. fxg7+ Kxg7
+21. Rdg1+ Kh8 22. b3 Qf6 23. Ng3 Qf4+ 24. Kb1 f5 25. Bg6 d4 26. Rd1 Bb5 27. Nh5
+Qg4 28. Rhg1 d3 29. Qc1 c2+ 30. Kb2 Qd4+ 31. Ka3 Qc5+ 32. Kb2 Qc3+ 33. Ka3 Nc4#
+0-1

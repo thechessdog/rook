@@ -1,0 +1,20 @@
+[Event "Dortmund"]
+[Site "Dortmund"]
+[Date "1979.04.01"]
+[Round "10"]
+[White "Perecz, Laszlo"]
+[Black "Schussler, Harry"]
+[Result "1/2-1/2"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, 6.e5"]
+[HashCode "a9a6214b"]
+[Epoch "Rook"]
+[WhiteID "700746"]
+[WhiteCountry "HUN"]
+[BlackID "1700081"]
+[BlackCountry "SWE"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. f4 Nf6 5. Nf3 O-O 6. e5 dxe5 7. fxe5 Nd5 8. Bc4
+Nb6 9. Bb3 Nc6 10. Be3 Na5 11. Qe2 Nxb3 12. axb3 f6 13. O-O Be6 14. Rad1 c6
+1/2-1/2

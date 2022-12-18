@@ -1,0 +1,22 @@
+[Event "corr DDR-H"]
+[Site "corr DDR-H"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Laube, B."]
+[Black "Hofmann, H."]
+[Result "0-1"]
+[ECO "A28"]
+[Opening "English"]
+[Variation "four knights, 4.e3"]
+[HashCode "dc730d96"]
+[Epoch "Rook"]
+
+1. c4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. e3 Bb4 5. Qc2 O-O 6. d3 Re8 7. Bd2 d5 8.
+cxd5 Nxd5 9. a3 Bf8 10. Be2 Nf6 11. b4 a6 12. O-O Bf5 13. Ne4 Nd5 14. Nc5
+Bxc5 15. Qxc5 e4 16. dxe4 Bxe4 17. Rfd1 Qe7 18. Rac1 Rad8 19. Qxe7 Rxe7 20.
+Ne1 Bg6 21. Nd3 Bxd3 22. Bxd3 Nf4 23. Bc4 Nd3 24. Rc2 Nce5 25. Bxd3 Rxd3
+26. Kf1 Rxa3 27. Bc1 Rd3 28. Rxd3 Nxd3 29. Rd2 Rd7 30. Bb2 Ne5 31. Rxd7
+Nxd7 32. Ke2 f6 33. f4 c5 34. Bc3 cxb4 35. Bxb4 f5 36. Kd3 Kf7 37. Kd4 Ke6
+38. h3 h5 39. e4 g6 40. g3 fxe4 41. Kxe4 b6 42. Kd4 Nf6 43. Ba3 Nd5 44. Kc4
+h4 0-1
+

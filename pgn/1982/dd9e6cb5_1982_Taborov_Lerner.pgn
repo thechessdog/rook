@@ -1,0 +1,22 @@
+[Event "Yalta"]
+[Site "Yalta"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Taborov, Boris"]
+[Black "Lerner, Konstantin Z"]
+[Result "0-1"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "classical variation (5.Bf4)"]
+[HashCode "dd9e6cb5"]
+[Epoch "Rook"]
+[WhiteID "14100347"]
+[WhiteCountry "UKR"]
+[BlackCountry "UKR"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. Bf4 O-O 6. e3 c5 7. dxc5 Bxc5 8. Qc2
+Nc6 9. Rd1 Qa5 10. a3 Be7 11. Nd2 Bd7 12. Be2 Rfc8 13. O-O Qd8 14. cxd5 Nxd5
+15. Nc4 Qe8 16. Bg3 b5 17. Nd6 Bxd6 18. Bxd6 Na5 19. Rd4 Nxc3 20. bxc3 Nc4 21.
+Bxc4 Rxc4 22. Rfd1 Rac8 23. Bb4 Rxd4 24. Rxd4 Bc6 25. e4 h6 26. Qd3 f5 27. exf5
+exf5 28. f3 Qe1+ 29. Qf1 Qe5 30. Qd3 Re8 31. c4 bxc4 32. Qxc4+ Kh7 33. h3 Bxf3
+34. gxf3 Qg3+ 35. Kf1 Qxf3+ 36. Kg1 Re2 0-1

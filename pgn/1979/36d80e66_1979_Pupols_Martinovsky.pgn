@@ -1,0 +1,20 @@
+[Event "Chicago"]
+[Site "Chicago"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Pupols, V."]
+[Black "Martinovsky, Eugene"]
+[Result "0-1"]
+[ECO "B10"]
+[Opening "Caro-Kann"]
+[Variation "closed (Breyer) variation"]
+[HashCode "36d80e66"]
+[Epoch "Rook"]
+[BlackCountry "MKD"]
+
+1. e4 c6 2. d3 d5 3. Nd2 dxe4 4. dxe4 e5 5. Ngf3 Bc5 6. Bc4 Qe7 7. O-O Nf6 8.
+Qe1 Nbd7 9. Nb3 Bd6 10. Bd2 Nb6 11. Bd3 O-O 12. a4 Bg4 13. a5 Nbd7 14. Qe2 Kh8
+15. h3 Be6 16. Bc3 Nh5 17. Bd2 g6 18. Nh2 Nc5 19. Nxc5 Bxc5 20. Kh1 Rae8 21.
+Bc3 f6 22. Rfd1 Nf4 23. Qe1 Rd8 24. Bf1 a6 25. Nf3 g5 26. Ng1 Qg7 27. Ne2 g4
+28. Nxf4 exf4 29. Bb4 Bxb4 30. Qxb4 gxh3 31. Rxd8 Rxd8 32. Qc3 hxg2+ 33. Bxg2
+Rg8 0-1

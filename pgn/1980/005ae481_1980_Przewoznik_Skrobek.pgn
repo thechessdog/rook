@@ -1,0 +1,22 @@
+[Event "Poland"]
+[Site "Poland"]
+[Date "1980.01.01"]
+[Round "3"]
+[White "Przewoznik, Jan"]
+[Black "Skrobek, Ryszard"]
+[Result "1-0"]
+[ECO "B31"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (with ...g6, without ...d6)"]
+[HashCode "005ae481"]
+[Epoch "Rook"]
+[WhiteID "1100149"]
+[WhiteCountry "POL"]
+[BlackID "1100165"]
+[BlackCountry "POL"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. Qe2 e5 6. Nc3 Nge7 7. d3 O-O 8. Bg5
+h6 9. Bh4 d6 10. h3 g5 11. Bg3 Nd4 12. Nxd4 cxd4 13. Nd1 d5 14. exd5 Qxd5 15.
+Bc4 Qd6 16. Re1 Ng6 17. c3 Kh8 18. cxd4 Qxd4 19. Nc3 Bd7 20. Qh5 Kh7 21. Ne4 f6
+22. Kh1 b5 23. Bb3 Qxb2 24. d4 Bc6 25. Rab1 Qxd4 26. Rbd1 Qb6 27. Rd6 Qb7 28.
+Nxg5+ 1-0

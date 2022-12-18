@@ -1,0 +1,21 @@
+[Event "Bundesliga 8182"]
+[Site "Duitsland tt"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Podzielny, Karl-Heinz"]
+[Black "Kordsachia, Tariel"]
+[Result "0-1"]
+[ECO "E08"]
+[Opening "Catalan"]
+[Variation "closed, Qc2 & b3"]
+[HashCode "fe4975a1"]
+[Epoch "Rook"]
+[BlackID "4603222"]
+[BlackCountry "GER"]
+[WhiteCountry "DEU"]
+
+1. Nf3 d5 2. c4 e6 3. g3 Nf6 4. Bg2 Be7 5. d4 O-O 6. Qc2 c6 7. O-O Nbd7 8. b3
+Ne4 9. Nbd2 f5 10. Bb2 Bd6 11. e3 Ndf6 12. Nxe4 fxe4 13. Nd2 Bd7 14. f3 exf3
+15. Bxf3 Be8 16. e4 Bg6 17. Rae1 Bb4 18. Bc3 dxe4 19. Nxe4 Nxe4 20. Bxe4 Rxf1+
+21. Kxf1 Qf6+ 22. Kg1 Bxc3 23. Qxc3 Rf8 24. Qe3 Bxe4 25. Qxe4 Qf2+ 26. Kh1 Rf6
+27. d5 Rh6 0-1

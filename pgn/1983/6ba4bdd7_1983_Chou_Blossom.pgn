@@ -1,0 +1,17 @@
+[Event "Ohio"]
+[Site "Ohio"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Chou"]
+[Black "Blossom, Don"]
+[Result "1-0"]
+[ECO "B94"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.Bg5"]
+[HashCode "6ba4bdd7"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 Nbd7 7. f4 e6 8.
+Qf3 Qb6 9. O-O-O e5 10. Nf5 h6 11. Bh4 exf4 12. Bf2 Qc6 13. Qxf4 Ne5 14.
+Be2 Be6 15. Bh4 g5 16. Nxd6+ Ke7 17. Qxe5 Bg7 18. Rhf1 Ne8 19. Rxf7+ 1-0
+

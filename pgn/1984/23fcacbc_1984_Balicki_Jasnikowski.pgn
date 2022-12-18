@@ -1,0 +1,19 @@
+[Event "Wroclaw"]
+[Site "Wroclaw"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Balicki, Cezary"]
+[Black "Jasnikowski"]
+[Result "1-0"]
+[ECO "D85"]
+[Opening "Gruenfeld"]
+[Variation "modern exchange variation"]
+[HashCode "23fcacbc"]
+[Epoch "Rook"]
+[WhiteID "1101641"]
+[WhiteCountry "POL"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Nf3 c5 8.
+Rb1 O-O 9. Be2 Qa5 10. Qd2 a6 11. O-O Nc6 12. d5 Bxc3 13. Qh6 Bg7 14. Qh4 Qxa2
+15. Rb2 Bxb2 16. Ng5 h5 17. Bxh5 Kg7 18. Nxf7 Bxc1 19. Qg3 Rxf7 20. Qxg6+ Kh8
+21. Qxf7 Qb2 22. dxc6 Bd2 23. Rd1 b5 24. Qxe7 c4 25. e5 Qc2 26. Rxd2 1-0

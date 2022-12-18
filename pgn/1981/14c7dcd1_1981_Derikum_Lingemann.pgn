@@ -1,0 +1,19 @@
+[Event "Regionalliga Nord"]
+[Site "RLN 8081"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Derikum, Axel"]
+[Black "Lingemann, D."]
+[Result "1-0"]
+[ECO "A10"]
+[Opening "English opening"]
+[HashCode "14c7dcd1"]
+[Epoch "Rook"]
+[WhiteID "4602242"]
+[WhiteCountry "GER"]
+
+1. c4 g6 2. Nf3 Bg7 3. Nc3 c5 4. e3 Nf6 5. d4 O-O 6. Be2 d5 7. O-O cxd4 8. exd4
+Nc6 9. Ne5 Bf5 10. Bf4 Rc8 11. Nxc6 Rxc6 12. c5 Ne4 13. Rc1 Nxc3 14. Rxc3 f6
+15. b4 e5 16. Be3 Rc8 17. b5 b6 18. Qa4 Qe7 19. Rfc1 Rfd8 20. Bf1 Be6 21. cxb6
+Rxc3 22. Rxc3 axb6 23. Rc6 f5 24. dxe5 Bxe5 25. Bxb6 Rb8 26. Bc5 Qe8 27. Bd6
+Ra8 28. Ra6 Rxa6 29. Qxa6 Bd4 30. b6 Qc6 1-0

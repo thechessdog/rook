@@ -1,0 +1,21 @@
+[Event "corr LADAC"]
+[Site "corr LADAC"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Canova, Guillermo"]
+[Black "Sarlo, Miguel"]
+[Result "1-0"]
+[ECO "B33"]
+[Opening "Sicilian"]
+[Variation "Pelikan, Bird variation"]
+[HashCode "9008980f"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e6 5. Nb5 Nf6 6. N1c3 d6 7. Bf4 e5
+8. Bg5 a6 9. Na3 Be6 10. Nc4 Nd4 11. Bxf6 Qxf6 12. Bd3 Qg6 13. O-O Be7 14.
+Ne3 O-O 15. Ncd5 Bd8 16. c3 Bxd5 17. Nxd5 Ne6 18. a4 Nf4 19. Nxf4 exf4 20.
+e5 Qe6 21. exd6 Bf6 22. Re1 Qd7 23. Qd2 g5 24. Bc2 Kg7 25. Qd3 Rh8 26. a5
+Rad8 27. Rad1 h5 28. Re4 Qc6 29. Ba4 b5 30. axb6 Qxb6 31. Rb4 Qa7 32. Qd5
+Rb8 33. Rxb8 Rxb8 34. b3 Kg6 35. c4 g4 36. c5 g3 37. hxg3 fxg3 38. fxg3 a5
+39. Kh2 1-0
+

@@ -1,0 +1,17 @@
+[Event "corr DDR/FS"]
+[Site "corr DDR/FS"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Friedrich"]
+[Black "Leisebein, Peter"]
+[Result "0-1"]
+[ECO "C57"]
+[Opening "two knights defence"]
+[Variation "Wilkes Barre (Traxler) variation"]
+[HashCode "e873c73a"]
+[Epoch "Rook"]
+[BlackCountry "DEU"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 Bc5 5. Bxf7+ Ke7 6. Bd5 Rf8 7. Nf3 Nd4 8.
+Nxe5 Nxd5 9. Nd3 Nf4 10. Nxf4 Rxf4 11. f3 Kf8 12. Rf1 Qh4+ 13. g3 Qxh2 14. gxf4
+Qg3+ 15. Rf2 Nxc2+ 16. Qxc2 Qxf2+ 0-1

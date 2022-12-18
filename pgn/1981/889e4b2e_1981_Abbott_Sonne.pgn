@@ -1,0 +1,15 @@
+[Event "El Paso"]
+[Site "El Paso"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Abbott, H."]
+[Black "Sonne"]
+[Result "1-0"]
+[ECO "B50"]
+[Opening "Sicilian"]
+[HashCode "889e4b2e"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 Nf6 4. Nc3 g6 5. dxc5 Qa5 6. cxd6 Nxe4 7. dxe7 Bg7
+8. Qd8+ Qxd8 9. exd8=Q+ Kxd8 10. Nxe4 1-0
+

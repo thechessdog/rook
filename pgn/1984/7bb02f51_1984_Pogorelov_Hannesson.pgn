@@ -1,0 +1,24 @@
+[Event "corr EU/M/GT"]
+[Site "corr EU/M/GT"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Pogorelov, A."]
+[Black "Hannesson, G."]
+[Result "1-0"]
+[ECO "B73"]
+[Opening "Sicilian"]
+[Variation "dragon, classical, Richter variation"]
+[HashCode "7bb02f51"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be2 Bg7 7. Be3 Nc6
+8. O-O O-O 9. Qd2 Ng4 10. Bxg4 Bxg4 11. f4 Nxd4 12. Bxd4 e5 13. fxe5 dxe5
+14. Be3 Qxd2 15. Bxd2 Rad8 16. Be3 b6 17. h3 Be6 18. Rfd1 Bc4 19. b3 Ba6
+20. Nd5 Kh8 21. c4 Bb7 22. a4 f5 23. Bg5 Rd7 24. a5 Bxd5 25. exd5 e4 26.
+Ra2 h6 27. Bc1 Rb8 28. Bf4 Rbd8 29. axb6 axb6 30. Be3 Rb7 31. Ra6 Rdb8 32.
+b4 Bc3 33. c5 bxc5 34. bxc5 Rb1 35. Rxb1 Rxb1+ 36. Kf2 Rb2+ 37. Kf1 Rb1+
+38. Ke2 Rb2+ 39. Kd1 Be5 40. Rxg6 Rb1+ 41. Kc2 Rb2+ 42. Kc1 Rb3 43. Re6 Bg7
+44. Bd2 Rb5 45. Rc6 Bd4 46. d6 Rxc5+ 47. Rxc5 Bxc5 48. d7 Be7 49. Ba5 Kg7
+50. d8=Q Bxd8 51. Bxd8 Kg6 52. Bc7 Kf6 53. Kd2 Kf7 54. Ke3 Kg6 55. Bf4 h5
+56. Kd4 Kf6 57. Kd5 h4 58. Kd6 Kf7 59. Ke5 Kg6 60. Ke6 1-0
+

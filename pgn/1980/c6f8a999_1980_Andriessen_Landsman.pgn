@@ -1,0 +1,18 @@
+[Event "Amsterdam"]
+[Site "Amsterdam"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Andriessen, William"]
+[Black "Landsman, Klaas"]
+[Result "1-0"]
+[ECO "A35"]
+[Opening "English"]
+[Variation "symmetrical, four knights system"]
+[HashCode "c6f8a999"]
+[Epoch "Rook"]
+
+1. Nf3 c5 2. c4 Nf6 3. Nc3 Nc6 4. g3 d5 5. cxd5 Nxd5 6. Bg2 g6 7. O-O Bg7
+8. Nxd5 Qxd5 9. d3 O-O 10. Be3 Qd6 11. Rc1 Nd4 12. Nd2 Bg4 13. Re1 Qb6 14.
+Nc4 Qa6 15. Bxd4 cxd4 16. Qb3 Rab8 17. Qb4 e5 18. Na5 b5 19. Rc6 Rb6 20.
+Rc7 Rbb8 21. Nc6 Rbe8 22. Rxa7 Qb6 23. a4 1-0
+

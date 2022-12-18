@@ -1,0 +1,17 @@
+[Event "Dayton,OH"]
+[Site "Dayton,OH"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "McMechan, L."]
+[Black "Rowan, Clifton"]
+[Result "0-1"]
+[ECO "C36"]
+[Opening "KGA"]
+[Variation "Abbazia defence, modern variation"]
+[HashCode "00af9627"]
+[Epoch "Rook"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 d5 4. exd5 Nf6 5. c4 c6 6. dxc6 Nxc6 7. Nc3 Bg4
+8. d4 g5 9. Be2 Bxf3 10. Bxf3 Bd6 11. Qa4 O-O 12. Bxc6 Qe7+ 13. Ne2 bxc6
+14. Qxc6 Bb4+ 15. Bd2 Bxd2+ 16. Kxd2 Qe3+ 17. Kd1 Ne4 0-1
+

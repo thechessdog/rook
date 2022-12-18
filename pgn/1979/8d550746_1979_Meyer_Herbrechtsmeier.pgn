@@ -1,0 +1,22 @@
+[Event "corr DFSM"]
+[Site "corr DFSM"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Meyer, K."]
+[Black "Herbrechtsmeier"]
+[Result "1-0"]
+[ECO "D44"]
+[Opening "QGD semi-Slav"]
+[Variation "anti-Meran, Lilienthal variation"]
+[HashCode "8d550746"]
+[Epoch "Rook"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. Bg5 dxc4 6. e4 b5 7. e5 h6 8. Bh4
+g5 9. Nxg5 hxg5 10. Bxg5 Nbd7 11. g3 Bb7 12. exf6 Qb6 13. Bg2 c5 14. dxc5
+Bxc5 15. O-O O-O-O 16. Qe2 Bd4 17. Rad1 Nc5 18. Bxb7+ Qxb7 19. Rxd4 Rxd4
+20. Be3 e5 21. a4 a6 22. axb5 axb5 23. Ra1 Rhd8 24. Ra5 Nb3 25. Bxd4 Nxa5
+26. Bc5 Nc6 27. Ne4 Qc7 28. h4 Rd3 29. h5 Qd7 30. Kg2 Nd4 31. Bxd4 Rxd4 32.
+h6 Qf5 33. Qf3 Qxf3+ 34. Kxf3 Rd1 35. Ng5 Rh1 36. Nxf7 Kc7 37. Nxe5 Rxh6
+38. f7 Rf6+ 39. Ke3 Kd6 40. f4 Ke6 41. g4 b4 42. g5 Rf5 43. g6 Ke7 44. Nxc4
+1-0
+

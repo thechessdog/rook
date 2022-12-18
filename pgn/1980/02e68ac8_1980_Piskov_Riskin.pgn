@@ -1,0 +1,17 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Piskov, Yury"]
+[Black "Riskin, A."]
+[Result "0-1"]
+[ECO "C12"]
+[Opening "French"]
+[Variation "MacCutcheon, Lasker variation"]
+[HashCode "02e68ac8"]
+[Epoch "Rook"]
+[WhiteID "4101731"]
+[WhiteCountry "RUS"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Bb4 5. e5 h6 6. Bd2 Bxc3 7. Bxc3 Ne4 8. Bb4
+c5 9. dxc5 Nxf2 10. Kxf2 Qh4+ 0-1

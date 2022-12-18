@@ -1,0 +1,19 @@
+[Event "Hungary"]
+[Site "Hungary"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Forintos, Gyozo V"]
+[Black "Szalanczy, Emil"]
+[Result "1/2-1/2"]
+[ECO "A61"]
+[Opening "Benoni defence"]
+[HashCode "ab696014"]
+[Epoch "Rook"]
+[BlackID "700347"]
+[WhiteID "700690"]
+[WhiteCountry "HUN"]
+[BlackCountry "HUN"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. Bf4 a6 8. e4
+Bg7 9. Qa4+ Bd7 10. Qb3 Bg4 11. Qxb7 Bxf3 12. gxf3 Nh5 13. Bg3 Nxg3 14. hxg3
+Nd7 15. Bh3 Ne5 16. f4 Nf3+ 17. Kf1 O-O 18. Kg2 Nd4 1/2-1/2

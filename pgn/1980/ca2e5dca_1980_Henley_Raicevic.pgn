@@ -1,0 +1,22 @@
+[Event "Lone Pine"]
+[Site "Lone Pine"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Henley, Ron"]
+[Black "Raicevic, Vladimir"]
+[Result "1-0"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "4.Nf3"]
+[HashCode "ca2e5dca"]
+[Epoch "Rook"]
+[WhiteID "2000318"]
+[WhiteCountry "USA"]
+[BlackID "900605"]
+[BlackCountry "SRB"]
+
+1. d4 e6 2. c4 d5 3. Nf3 Nf6 4. Nc3 Be7 5. Bg5 Nbd7 6. e3 c6 7. Bd3 O-O 8. O-O
+dxc4 9. Bxc4 Nd5 10. Bxe7 Qxe7 11. e4 Nxc3 12. bxc3 b6 13. e5 Bb7 14. Re1 Rfd8
+15. Bd3 c5 16. Be4 Bxe4 17. Rxe4 cxd4 18. cxd4 b5 19. Rg4 a5 20. Qb3 b4 21. Ng5
+Rac8 22. Nxh7 Rc3 23. Qb1 Rdc8 24. Ng5 f5 25. exf6 Nxf6 26. Rg3 Rc2 27. h4 R8c6
+28. Qe1 Qd6 29. a3 Qxd4 30. Nxe6 Qb2 31. Rd1 Kh8 32. Rd8+ Ng8 33. Rxg7 1-0

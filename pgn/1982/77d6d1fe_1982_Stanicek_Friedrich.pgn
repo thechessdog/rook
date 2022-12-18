@@ -1,0 +1,19 @@
+[Event "corr ch-CSSR"]
+[Site "corr ch-CSSR"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Stanicek"]
+[Black "Friedrich"]
+[Result "1-0"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, 6.Bd3"]
+[HashCode "77d6d1fe"]
+[Epoch "Rook"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 O-O 6. Bd3 Nc6 7. e5 dxe5 8.
+fxe5 Ng4 9. Be4 f6 10. h3 Nh6 11. Bxc6 bxc6 12. Bf4 Be6 13. O-O g5 14. Bg3
+Qd7 15. Qd2 Nf5 16. exf6 exf6 17. Bf2 Nd6 18. Rad1 Nc4 19. Qc1 Rad8 20. b3
+Nb6 21. Ne4 Nd5 22. Bg3 Rfe8 23. Rde1 h6 24. c4 Nb6 25. Nc5 Qc8 26. Bxc7
+Bf7 27. Bxd8 Rxe1 28. Qxe1 1-0
+

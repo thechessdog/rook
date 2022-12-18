@@ -1,0 +1,22 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Karl"]
+[Black "Spitzner"]
+[Result "0-1"]
+[ECO "B18"]
+[Opening "Caro-Kann"]
+[Variation "classical, 6.h4"]
+[HashCode "5ff8235d"]
+[Epoch "Rook"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6 7. h5 Bh7 8.
+Nf3 Nd7 9. Bd3 Bxd3 10. Qxd3 Qc7 11. Bd2 e6 12. Qe2 Ngf6 13. c4 O-O-O 14.
+Bc3 Bd6 15. Ne4 Nxe4 16. Qxe4 Nf6 17. Qc2 Kb8 18. O-O-O c5 19. Qa4 Ne4 20.
+Qc2 Nxc3 21. Qxc3 cxd4 22. Nxd4 Rc8 23. b3 Be5 24. g3 Qc5 25. Rhe1 Bf6 26.
+f4 Qxh5 27. Qe3 Qc5 28. Qe4 Rhd8 29. Nc2 Bc3 30. Rf1 Rxd1+ 31. Rxd1 Qe7 32.
+Rd3 Bf6 33. Kb1 g5 34. g4 Bg7 35. f5 Qf6 36. Qd4 Qxd4 37. Nxd4 Bxd4 38.
+Rxd4 Kc7 39. Kc2 exf5 40. gxf5 Re8 41. Rd5 g4 42. f6 g3 43. Rd2 h5 44. Rd5
+h4 45. Rg5 Re6 46. Rg4 Rxf6 47. Rxh4 g2 0-1
+

@@ -1,0 +1,18 @@
+[Event "corr FRG/K"]
+[Site "corr FRG/K"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Rosen, W."]
+[Black "Baier, G."]
+[Result "1-0"]
+[ECO "B80"]
+[Opening "Sicilian"]
+[Variation "Scheveningen variation"]
+[HashCode "23ede6ee"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be3 Be7 7. f4 O-O 8.
+Qf3 Nc6 9. O-O-O Bd7 10. Rg1 Nxd4 11. Bxd4 Bc6 12. g4 Qa5 13. g5 Nd7 14.
+Qh5 Rfd8 15. Bc4 g6 16. Qh6 Bf8 17. Qh4 b5 18. Rg3 Ne5 19. Rh3 h5 20. gxh6
+bxc4 21. h7+ Kh8 22. fxe5 d5 23. exd5 Bxd5 24. Qf6+ Bg7 25. Qxf7 1-0
+

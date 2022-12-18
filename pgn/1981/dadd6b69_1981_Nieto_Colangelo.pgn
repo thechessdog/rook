@@ -1,0 +1,18 @@
+[Event "Buenos Aires"]
+[Site "Buenos Aires"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Nieto"]
+[Black "Colangelo"]
+[Result "0-1"]
+[ECO "B72"]
+[Opening "Sicilian"]
+[Variation "dragon, classical attack"]
+[HashCode "dadd6b69"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be2 Bg7 7. Be3 Nc6
+8. f3 O-O 9. Qd2 Nxd4 10. Bxd4 Be6 11. g4 Qa5 12. h4 Rac8 13. h5 Qb4 14.
+O-O-O Rxc3 15. Bxc3 Qa4 16. hxg6 hxg6 17. Bd3 Qxa2 18. Qh2 Rc8 19. Qg2 Rxc3
+20. bxc3 Nxe4 21. Bxe4 Bxc3 0-1
+

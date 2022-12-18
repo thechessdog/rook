@@ -1,0 +1,22 @@
+[Event "Quebec Invitational"]
+[Site "Quebec Invitational"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Nadeau, Renaud"]
+[Black "Hebert, Jean"]
+[Result "0-1"]
+[ECO "B31"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (with ...g6, without ...d6)"]
+[HashCode "0749d784"]
+[Epoch "Rook"]
+[BlackID "2600048"]
+[BlackCountry "CAN"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. c3 Nf6 6. d4 Nxe4 7. d5 Nb8 8. Re1
+Nd6 9. Bf4 Nxb5 10. d6 Nc6 11. dxe7 Nxe7 12. Qe2 O-O 13. Qxb5 d6 14. Na3 Nf5
+15. Rad1 Bd7 16. Qxb7 Rb8 17. Qxa7 Bc6 18. Qa6 Bxf3 19. gxf3 Nh4 20. Rxd6 Nxf3+
+21. Kh1 Qh4 22. Bg3 Qh5 23. Re3 Rxb2 24. Qf1 Rxa2 25. Nb5 Bh6 26. Red3 Nd2 27.
+Qe1 Nf3 28. Qf1 Rd2 29. Nc7 Qf5 30. Nd5 Kh8 31. Rxd2 Bxd2 32. Qe2 h5 33. Ne7
+Qb1+ 34. Kg2 Qg1+ 35. Kh3 Ng5+ 36. Kh4 Qg2 37. Nxg6+ fxg6 38. Be5+ Kh7 39. Rd7+
+Rf7 40. Rxf7+ Nxf7 41. Bf6 Qxh2# 0-1

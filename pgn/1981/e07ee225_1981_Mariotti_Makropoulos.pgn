@@ -1,0 +1,21 @@
+[Event "Budva zt"]
+[Site "Budva zt"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Mariotti, Sergio"]
+[Black "Makropoulos, Georgios"]
+[Result "0-1"]
+[ECO "B13"]
+[Opening "Caro-Kann"]
+[Variation "exchange variation"]
+[HashCode "e07ee225"]
+[Epoch "Rook"]
+[WhiteID "800023"]
+[BlackID "4200047"]
+[WhiteCountry "ITA"]
+[BlackCountry "GRE"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c3 Nc6 5. Bf4 g6 6. Nf3 Bg7 7. Be2 Nh6 8. O-O
+O-O 9. Qc1 Nf5 10. Nbd2 f6 11. Nb3 e5 12. dxe5 fxe5 13. Bg5 Qb6 14. Qd1 Be6 15.
+Bc1 Kh8 16. Ng5 Bg8 17. Qd3 Rae8 18. Qh3 a5 19. c4 e4 20. cxd5 e3 21. dxc6
+exf2+ 22. Kh1 Rxe2 0-1

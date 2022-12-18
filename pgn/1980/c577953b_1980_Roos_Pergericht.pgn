@@ -1,0 +1,23 @@
+[Event "Berlin tt"]
+[Site "Berlin-West"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Roos, Daniel"]
+[Black "Pergericht, Daniel"]
+[Result "0-1"]
+[ECO "B25"]
+[Opening "Sicilian"]
+[Variation "closed, 6.f4"]
+[HashCode "c577953b"]
+[Epoch "Rook"]
+[WhiteID "600253"]
+[WhiteCountry "FRA"]
+[BlackCountry "BEL"]
+
+1. e4 c5 2. Nc3 d6 3. g3 Nc6 4. Bg2 g6 5. d3 Bg7 6. f4 e6 7. Nf3 Nge7 8. O-O
+O-O 9. Be3 Nd4 10. Qd2 Nec6 11. Nh4 f5 12. a3 Rb8 13. Rae1 Qa5 14. Qf2 b5 15.
+Nd1 fxe4 16. Bxe4 d5 17. Bg2 b4 18. c3 bxc3 19. Nxc3 Ne7 20. Bc1 Nb3 21. Qc2
+Kh8 22. Bh3 Nc6 23. Nf3 Ncd4 24. Nxd4 cxd4 25. Nb1 Bd7 26. Bd2 Nxd2 27. Qxd2
+Qxd2 28. Nxd2 Rxb2 29. Nf3 Bb5 30. Rd1 Rb3 31. Bxe6 Rxd3 32. Ne5 Bxe5 33. fxe5
+Rxf1+ 34. Rxf1 Re3 35. Rf8+ Kg7 36. Rf7+ Kh6 37. Bxd5 d3 38. Be6 d2 39. Bg4 Be2
+0-1

@@ -1,0 +1,19 @@
+[Event "corr NBC"]
+[Site "corr NBC"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Spieringshoek"]
+[Black "Lonis"]
+[Result "1-0"]
+[ECO "B72"]
+[Opening "Sicilian"]
+[Variation "dragon, classical attack"]
+[HashCode "a9c2da96"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. Be2 Nc6
+8. h4 h5 9. f3 O-O 10. Qd2 Nxd4 11. Bxd4 Bd7 12. Bc4 Rc8 13. Bb3 Qa5 14.
+O-O-O Kh7 15. Kb1 b5 16. Bxf6 Bxf6 17. Nd5 Qxd2 18. Nxf6+ Kg7 19. Nxh5+
+gxh5 20. Rxd2 a5 21. a3 a4 22. Ba2 Rc5 23. Rhd1 Rfc8 24. c3 Kf8 25. Rd5 Be6
+26. Rxc5 Bxa2+ 27. Kxa2 Rxc5 28. Rd5 f5 29. b3 f4 30. c4 1-0
+

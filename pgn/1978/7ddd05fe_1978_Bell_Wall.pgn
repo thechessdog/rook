@@ -1,0 +1,17 @@
+[Event "Statesville,NC"]
+[Site "Statesville,NC"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Bell, Tom"]
+[Black "Wall, Bill"]
+[Result "0-1"]
+[ECO "C45"]
+[Opening "Scotch"]
+[Variation "Schmidt variation"]
+[HashCode "7ddd05fe"]
+[Epoch "Rook"]
+[BlackCountry "USA"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nf6 5. Nxc6 bxc6 6. Nc3 Bb4 7. Bd2 O-O
+8. a3 Bxc3 9. Bxc3 Nxe4 10. Qd4 Nxc3 11. Qxc3 Re8+ 12. Be2 Ba6 13. O-O-O Bxe2
+0-1

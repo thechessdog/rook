@@ -1,0 +1,16 @@
+[Event "New Paltz,NY"]
+[Site "New Paltz,NY"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Rodriguez, Keith"]
+[Black "Gosselin, Frank"]
+[Result "1-0"]
+[ECO "C05"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation"]
+[HashCode "00518edd"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. c4 Nc6 6. Ngf3 b6 7. cxd5 exd5
+8. Bb5 Ne7 9. e6 fxe6 10. Ne5 Ng6 11. Ndf3 Bb4+ 12. Bd2 Bxd2+ 13. Qxd2 1-0
+

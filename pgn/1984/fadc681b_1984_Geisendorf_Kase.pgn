@@ -1,0 +1,19 @@
+[Event "corr DDR/FS"]
+[Site "corr DDR/FS"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Geisendorf"]
+[Black "Kase"]
+[Result "0-1"]
+[ECO "E40"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3"]
+[HashCode "fadc681b"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 d5 5. a3 Be7 6. Nf3 O-O 7. Bd3 b6 8.
+O-O Bb7 9. Qc2 dxc4 10. Bxc4 Nbd7 11. e4 c5 12. Re1 cxd4 13. Nxd4 Rc8 14.
+Ba2 Nc5 15. Rd1 Bxe4 16. Qe2 Bd3 17. Rxd3 Nxd3 18. Nxe6 fxe6 19. Bxe6+ Kh8
+20. Bxc8 Bc5 21. Bf5 Bxf2+ 22. Kf1 Nxc1 23. Rxc1 Bc5 24. Rd1 Qc7 25. Rd3
+Qxh2 26. Qf3 g6 0-1
+

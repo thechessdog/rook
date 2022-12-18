@@ -1,0 +1,19 @@
+[Event "corr SM"]
+[Site "corr SM"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Kotka, Reino"]
+[Black "Hakala, Helge"]
+[Result "1-0"]
+[ECO "B33"]
+[Opening "Sicilian"]
+[Variation "Pelikan, Chelyabinsk variation"]
+[HashCode "3121b728"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6
+8. Na3 b5 9. Nd5 Be7 10. Bxf6 Bxf6 11. c3 O-O 12. Nc2 Rb8 13. a4 bxa4 14.
+Ncb4 Bb7 15. Qxa4 Nxb4 16. Nxb4 Bxe4 17. Nxa6 Rxb2 18. Qxe4 d5 19. Qe3 Bg5
+20. Qc5 Bd2+ 21. Kd1 Qg5 22. h4 Qf4 23. Nb4 Qe4 24. Nd3 d4 25. cxd4 exd4
+26. Nxb2 Qe1+ 27. Kc2 Qxa1 28. Kxd2 Qxb2+ 29. Qc2 Qa1 30. Qxh7+ 1-0
+

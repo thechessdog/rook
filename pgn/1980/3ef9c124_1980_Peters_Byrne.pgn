@@ -1,0 +1,19 @@
+[Event "Greenville ch-USA"]
+[Site "Greenville ch-USA"]
+[Date "1980.01.01"]
+[Round "10"]
+[White "Peters, John A"]
+[Black "Byrne, Robert E"]
+[Result "1/2-1/2"]
+[ECO "B25"]
+[Opening "Sicilian"]
+[Variation "closed, 6.f4"]
+[HashCode "3ef9c124"]
+[Epoch "Rook"]
+[BlackCountry "USA"]
+[WhiteCountry "USA"]
+[WhiteID "2000229"]
+
+1. e4 c5 2. Nc3 d6 3. g3 Nc6 4. Bg2 g6 5. d3 Bg7 6. f4 e6 7. Nf3 Nge7 8. O-O
+O-O 9. Be3 Nd4 10. Rb1 Nec6 11. Ne2 Nxf3+ 12. Bxf3 Nd4 13. Bg2 Bd7 14. c3 Nxe2+
+15. Qxe2 Rc8 1/2-1/2

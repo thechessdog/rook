@@ -1,0 +1,20 @@
+[Event "Milan"]
+[Site "Milan"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Contedini"]
+[Black "Palmiotto"]
+[Result "1-0"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra gambit"]
+[HashCode "acb6698f"]
+[Epoch "Rook"]
+
+1. e4 c5 2. d4 cxd4 3. c3 dxc3 4. Nxc3 Nc6 5. Nf3 d6 6. Bc4 e6 7. O-O Be7
+8. Qe2 a6 9. Rd1 Qc7 10. Bf4 Ne5 11. Bb3 Nf6 12. Nd4 Bd7 13. Bg3 Qb6 14. f4
+Neg4 15. Kh1 h5 16. e5 dxe5 17. fxe5 Nh7 18. Rac1 Bg5 19. Na4 Bxa4 20.
+Bxa4+ Kf8 21. Rc3 g6 22. h3 Nh6 23. Bb3 Re8 24. Nf3 Be7 25. Bf2 Qa5 26. Rd7
+b6 27. Rcc7 Nf5 28. Bc2 Rd8 29. Bxf5 Rxd7 30. Rxd7 gxf5 31. Be3 Ke8 32. Rb7
+Nf8 33. Rb8+ Kd7 34. Bxb6 Qb5 35. Qd1+ Qd5 36. Nd4 Bh4 37. Qa4+ Ke7 1-0
+

@@ -1,0 +1,19 @@
+[Event "corr SWE/K"]
+[Site "corr SWE/K"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Sellberg, Jan"]
+[Black "Nilsson, Ulf"]
+[Result "1/2-1/2"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...e6"]
+[HashCode "1041acb4"]
+[Epoch "Rook"]
+[BlackID "1710842"]
+[BlackCountry "SWE"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 e6 6. Nf3 Bb4 7. cxd5 exd5 8.
+Bb5+ Bd7 9. O-O O-O 10. Qb3 Bxc3 11. bxc3 Bxb5 12. Qxb5 Qb6 13. Rb1 Nbd7 14.
+Ne5 Qxb5 15. Rxb5 Nb6 16. f3 Rfc8 17. Bd2 Ne8 18. Nd3 Nd6 19. Rc5 Ndc4 20. Be1
+Na4 21. Rb5 Ne3 22. Rf2 Nxc3 23. Rxb7 Ncd1 1/2-1/2

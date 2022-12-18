@@ -1,0 +1,21 @@
+[Event "corr Heilimo mem"]
+[Site "corr Heilimo mem"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Bartis"]
+[Black "Ojanen"]
+[Result "0-1"]
+[ECO "B35"]
+[Opening "Sicilian"]
+[Variation "accelerated fianchetto, modern variation with Bc4"]
+[HashCode "3e22f47b"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6 5. Nc3 Bg7 6. Be3 Nf6 7. Bc4 O-O
+8. Bb3 Ng4 9. Qxg4 Nxd4 10. Qd1 Nxb3 11. axb3 a5 12. Bd4 Ra6 13. Bxg7 Kxg7
+14. O-O f6 15. Qd3 d6 16. Rad1 Be6 17. Nd5 Qd7 18. c4 Rc6 19. Rfe1 Rc5 20.
+Nc3 Qc8 21. f4 b5 22. Nxb5 a4 23. Na3 axb3 24. Qxb3 Bxc4 25. Nxc4 Rxc4 26.
+Qe3 Qc5 27. b3 Qxe3+ 28. Rxe3 Rc2 29. h4 Ra8 30. Kh2 Raa2 31. Rg3 Rf2 32.
+e5 dxe5 33. fxe5 f5 34. h5 Rab2 35. hxg6 hxg6 36. Rc1 Rfc2 37. Rf1 Kf7 38.
+Ra1 Rc6 39. Re1 Rb6 40. Ree3 Rb1 41. Rc3 Re1 0-1
+

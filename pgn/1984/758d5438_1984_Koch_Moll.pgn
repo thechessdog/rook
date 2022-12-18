@@ -1,0 +1,20 @@
+[Event "Bez"]
+[Site "Bez"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Koch"]
+[Black "Moll"]
+[Result "0-1"]
+[ECO "C55"]
+[Opening "Two knights defence"]
+[HashCode "758d5438"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Bc4 Nf6 3. d4 Nc6 4. Nf3 Bb4+ 5. c3 Bd6 6. O-O O-O 7. dxe5 Bxe5
+8. Bd5 Qe7 9. Nxe5 Nxe5 10. Bg5 c6 11. Bb3 h6 12. Bxf6 Qxf6 13. f4 Ng6 14.
+e5 Qe7 15. Qh5 d5 16. Bc2 Qc5+ 17. Kh1 Qe3 18. Bxg6 fxg6 19. Qxg6 Qe2 20.
+Na3 Qxb2 21. Qd6 Bf5 22. Qb4 Qxb4 23. cxb4 a5 24. bxa5 Rxa5 25. Nb1 Rfa8
+26. a3 Rb5 27. Nd2 Rb2 28. Nf3 c5 29. Nh4 Be4 30. f5 Kf7 31. Kg1 c4 32.
+Rfc1 Rc8 33. Rc3 Bd3 34. Rac1 Re8 35. e6+ Kf6 36. g4 d4 37. Rxc4 Bxc4 38.
+Rxc4 d3 39. Rd4 Rc8 0-1
+

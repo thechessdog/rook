@@ -1,0 +1,17 @@
+[Event "Erfurt"]
+[Site "Erfurt"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Siegemund"]
+[Black "Eger, Axel"]
+[Result "0-1"]
+[ECO "B00"]
+[Opening "KP"]
+[Variation "Nimzovich defence"]
+[HashCode "f3655075"]
+[Epoch "Rook"]
+[BlackID "12901407"]
+[BlackCountry "GER"]
+
+1. e4 Nc6 2. d4 e5 3. d5 Nce7 4. c4 Ng6 5. Nf3 Bc5 6. Nc3 d6 7. Na4 Bb6 8. b4
+Nf6 9. Bg5 Bxf2+ 10. Ke2 Nxe4 0-1

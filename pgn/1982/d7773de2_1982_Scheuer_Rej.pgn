@@ -1,0 +1,21 @@
+[Event "Denmark"]
+[Site "Denmark"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Scheuer, Jorgen"]
+[Black "Rej, Dennis"]
+[Result "1-0"]
+[ECO "A40"]
+[Opening "Queen's pawn"]
+[Variation "Keres defence"]
+[HashCode "d7773de2"]
+[Epoch "Rook"]
+[WhiteID "1403206"]
+[BlackID "1402692"]
+[WhiteCountry "DEN"]
+[BlackCountry "DEN"]
+
+1. c4 b6 2. d4 e6 3. e4 Bb7 4. Bd3 f5 5. exf5 Bxg2 6. Qh5+ g6 7. fxg6 Bg7 8.
+gxh7+ Kf8 9. Bg5 Nf6 10. Qh4 Nc6 11. Ne2 Bxh1 12. Nd2 Nb4 13. Bg6 Ke7 14. a3 d5
+15. axb4 dxc4 16. f3 Qd6 17. Ne4 Qxb4+ 18. Kf2 Rhf8 19. Qf4 Rac8 20. Rxa7 Qb5
+21. Qd6# 1-0

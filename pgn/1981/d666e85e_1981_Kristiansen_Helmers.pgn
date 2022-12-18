@@ -1,0 +1,22 @@
+[Event "Reykjavik"]
+[Site "Reykjavik"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Kristiansen, Jens"]
+[Black "Helmers, Knut J"]
+[Result "1/2-1/2"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf"]
+[HashCode "d666e85e"]
+[Epoch "Rook"]
+[BlackID "1500023"]
+[BlackCountry "NOR"]
+[WhiteID "1400061"]
+[WhiteCountry "DEN"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. a4 Nc6 7. Be2 g6 8. O-O
+Bg7 9. Nb3 O-O 10. Be3 Be6 11. f4 Na5 12. e5 Ne8 13. Nd4 Bc4 14. Nf3 Rc8 15.
+Bxc4 Nxc4 16. Bd4 Nxb2 17. Qb1 Nc4 18. Qxb7 dxe5 19. fxe5 Nxe5 20. Bxe5 Bxe5
+21. Nxe5 Qd4+ 22. Kh1 Nd6 23. Qxe7 Rfe8 24. Nxg6 hxg6 25. Qf6 Qxf6 26. Rxf6
+Rxc3 27. Rxd6 Rxc2 1/2-1/2

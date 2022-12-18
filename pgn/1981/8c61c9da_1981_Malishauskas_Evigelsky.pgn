@@ -1,0 +1,18 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Malishauskas"]
+[Black "Evigelsky"]
+[Result "1-0"]
+[ECO "B40"]
+[Opening "Sicilian"]
+[Variation "Pin, Koch variation"]
+[HashCode "8c61c9da"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Bb4 6. e5 Nd5 7. Bd2 Bxc3
+8. bxc3 Qc7 9. f4 a6 10. Qg4 O-O 11. c4 Qb6 12. f5 exf5 13. Nxf5 Qg6 14.
+Qf3 Qe6 15. cxd5 Qxe5+ 16. Kf2 Qxa1 17. Bc3 Qb1 18. Bd3 Qb6+ 19. Bd4 Qb4
+20. Qg4 1-0
+

@@ -1,0 +1,17 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Kleeschaetzky"]
+[Black "Enders"]
+[Result "0-1"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "Dutch variation"]
+[HashCode "29b29ed3"]
+[Epoch "Rook"]
+
+1. b3 f5 2. Bb2 Nf6 3. d3 Nc6 4. e4 e5 5. exf5 d5 6. Ne2 Bxf5 7. Ng3 Qd7 8.
+Nd2 Bc5 9. Be2 Ng4 10. Bxg4 Bxg4 11. f3 Bf5 12. Qe2 O-O 13. O-O-O Bg6 14.
+Ngf1 a5 15. Ne3 a4 16. Ng4 axb3 17. axb3 Qd6 18. Bxe5 Nxe5 0-1
+

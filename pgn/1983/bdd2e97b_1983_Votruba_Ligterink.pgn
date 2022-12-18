@@ -1,0 +1,20 @@
+[Event "Hoogovens-B"]
+[Site "Wijk aan Zee II"]
+[Date "1983.01.01"]
+[Round "2"]
+[White "Votruba, Pavel"]
+[Black "Ligterink, Gert"]
+[Result "1/2-1/2"]
+[ECO "A35"]
+[Opening "English"]
+[Variation "symmetrical, four knights system"]
+[HashCode "bdd2e97b"]
+[Epoch "Rook"]
+[WhiteID "301019"]
+[WhiteCountry "CZE"]
+[BlackID "1000179"]
+[BlackCountry "NED"]
+
+1. Nf3 c5 2. c4 Nf6 3. Nc3 Nc6 4. e3 e6 5. d4 d5 6. a3 Ne4 7. Bd3 Nxc3 8. bxc3
+dxc4 9. Bxc4 Be7 10. O-O O-O 11. Qe2 b6 12. Rd1 Bb7 13. Bb2 cxd4 14. cxd4 Na5
+15. Bd3 1/2-1/2

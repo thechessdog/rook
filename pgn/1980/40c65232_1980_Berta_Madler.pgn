@@ -1,0 +1,18 @@
+[Event "corr Perfors mem"]
+[Site "corr Perfors mem"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Berta"]
+[Black "Madler"]
+[Result "0-1"]
+[ECO "E22"]
+[Opening "Nimzo-Indian"]
+[Variation "Spielmann variation"]
+[HashCode "40c65232"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qb3 c5 5. d5 b5 6. dxe6 bxc4 7. exf7+ Kxf7
+8. Qc2 d5 9. a3 Ba5 10. e3 Re8 11. Bd2 Nc6 12. Nf3 Kf8 13. O-O-O Be6 14.
+Be2 Rb8 15. g4 d4 16. exd4 cxd4 17. Be3 d3 18. Bxd3 cxd3 19. Rxd3 Qc8 20.
+g5 Bb3 21. Qe2 Ne4 22. Nd2 Nxc3 23. Rxc3 Bxc3 24. bxc3 Nd4 25. Qd3 Ne2+ 0-1
+

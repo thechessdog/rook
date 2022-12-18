@@ -1,0 +1,22 @@
+[Event "San Francisco"]
+[Site "San Francisco"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Kane, George Francis"]
+[Black "Silman, Jeremy D"]
+[Result "1-0"]
+[ECO "D07"]
+[Opening "QGD"]
+[Variation "Chigorin defence, Janowski variation"]
+[HashCode "d607e80a"]
+[Epoch "Rook"]
+[WhiteID "2001659"]
+[WhiteCountry "USA"]
+[BlackID "2000814"]
+[BlackCountry "USA"]
+
+1. d4 d5 2. c4 Nc6 3. Nc3 dxc4 4. Nf3 Nf6 5. d5 Na5 6. Qa4+ c6 7. b4 b5 8. Qxa5
+Qxa5 9. bxa5 b4 10. Na4 cxd5 11. Be3 e6 12. Bd4 Bd7 13. Nc5 Bb5 14. e4 a6 15.
+e5 Nd7 16. Nxd7 Kxd7 17. Ng5 Ke8 18. f4 Be7 19. Be2 Bd8 20. O-O Bxa5 21. f5 Bd8
+22. f6 g6 23. Bc5 Rc8 24. Bxb4 Bb6+ 25. Kh1 Rc7 26. Bd6 Rd7 27. a4 Bc6 28. Rab1
+Ba7 29. Bg4 h6 30. Nxe6 fxe6 31. Bxe6 Rxd6 32. exd6 Rf8 33. f7+ Kd8 34. Rf6 1-0

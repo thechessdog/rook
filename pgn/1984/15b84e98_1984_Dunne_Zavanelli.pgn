@@ -1,0 +1,20 @@
+[Event "corr USCCC"]
+[Site "corr USCCC"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Dunne, A."]
+[Black "Zavanelli, Max"]
+[Result "0-1"]
+[ECO "A89"]
+[Opening "Dutch"]
+[Variation "Leningrad, main variation with Nc6"]
+[HashCode "15b84e98"]
+[Epoch "Rook"]
+[BlackID "2049686"]
+[BlackCountry "USA"]
+
+1. d4 f5 2. g3 Nf6 3. Bg2 g6 4. c4 Bg7 5. Nc3 O-O 6. Nf3 d6 7. O-O Nc6 8. d5
+Ne5 9. Nxe5 dxe5 10. e4 Ng4 11. c5 f4 12. Bf3 Nh6 13. b4 g5 14. g4 e6 15. h3
+exd5 16. Qb3 Nf7 17. exd5 h5 18. Re1 hxg4 19. Bxg4 Nh6 20. d6+ Kh8 21. dxc7
+Qxc7 22. Nd5 Qf7 23. Bxc8 Raxc8 24. Bb2 Rce8 25. Re4 Qh5 26. Nc7 f3 27. h4 Ng4
+28. Qc4 Rf4 29. Rxf4 gxf4 30. Qe4 Nf6 0-1

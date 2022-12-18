@@ -1,0 +1,24 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Hobusch, W."]
+[Black "Anton, V."]
+[Result "0-1"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, positional main line"]
+[HashCode "304c3415"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Nf3 Nbc6
+8. a4 Qa5 9. Bd2 Bd7 10. c4 Qc7 11. cxd5 Nxd5 12. c3 cxd4 13. cxd4 Ncb4 14.
+Rc1 Qa5 15. Rc5 Qxa4 16. Qxa4 Bxa4 17. Bxb4 Nxb4 18. Bb5+ Bxb5 19. Rxb5 a5
+20. Rxb7 O-O 21. Kd2 Rfc8 22. Ra1 Rc2+ 23. Kd1 Rac8 24. Rxa5 Nd3 25. Nd2
+Nxf2+ 26. Ke1 Nd3+ 27. Kd1 h6 28. Raa7 Nf4 29. Nb3 Rxg2 30. Rxf7 Nd5 31.
+Nc5 Nc3+ 32. Ke1 Nb5 33. Rad7 Nxd4 34. Kf1 Rg6 35. Rc7 Rxc7 36. Rxc7 Rg5
+37. Rd7 Rxe5 38. Nd3 Rf5+ 39. Kg2 Nf3 40. Kg3 Ne5 41. Rd8+ Kf7 42. Ne1 Rf1
+43. Nc2 Rf3+ 44. Kg2 Rd3 45. Rxd3 Nxd3 46. Kf3 Kf6 47. Ke4 Ne5 48. Ne3 h5
+49. Nf1 Nf7 50. Kf4 e5+ 51. Kg3 Nd6 52. Kf3 e4+ 53. Kf4 g5+ 54. Ke3 Ke5 55.
+Nd2 Nf5+ 56. Ke2 Kf4 57. Nc4 h4 58. Kf2 e3+ 59. Ke2 g4 60. Kf1 Nd4 0-1
+

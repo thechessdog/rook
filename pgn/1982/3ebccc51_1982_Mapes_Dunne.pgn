@@ -1,0 +1,19 @@
+[Event "corr USCCC"]
+[Site "corr USCCC"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Mapes, R."]
+[Black "Dunne, A."]
+[Result "1-0"]
+[ECO "D02"]
+[Opening "Queen's pawn game, Chigorin variation"]
+[HashCode "3ebccc51"]
+[Epoch "Rook"]
+
+1. Nf3 Nc6 2. d4 d5 3. c4 Bg4 4. cxd5 Bxf3 5. gxf3 Qxd5 6. e3 e5 7. Nc3 Qa5
+8. d5 O-O-O 9. Bd2 Nce7 10. e4 Ng6 11. a3 Qb6 12. Be3 Bc5 13. Na4 Bxe3 14.
+Nxb6+ Bxb6 15. Rg1 Nf6 16. Qc2 Kb8 17. O-O-O Rd6 18. Kb1 Rhd8 19. Bc4 Nh5
+20. Rd2 Nhf4 21. Rc1 Ne6 22. b4 Nd4 23. Qc3 Rf6 24. Be2 Nh4 25. a4 Nhxf3
+26. Bxf3 Rxf3 27. Qc4 a5 28. Rb2 Rd6 29. Ka2 Rdf6 30. bxa5 Bxa5 31. Qc5 Bb6
+32. Qb4 Rxf2 33. Rb1 1-0
+

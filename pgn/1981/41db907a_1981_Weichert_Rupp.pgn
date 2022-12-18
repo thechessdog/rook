@@ -1,0 +1,25 @@
+[Event "Bundesliga 8081"]
+[Site "Duitsland tt"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Weichert, Helmut"]
+[Black "Rupp, Claus"]
+[Result "0-1"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, 6.Bd3"]
+[HashCode "41db907a"]
+[Epoch "Rook"]
+[WhiteID "4623258"]
+[WhiteCountry "GER"]
+[BlackID "4606345"]
+[BlackCountry "GER"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. f4 Nf6 5. Nf3 O-O 6. Bd3 c6 7. e5 Nd5 8. Nxd5
+cxd5 9. Qe2 Nc6 10. c3 a6 11. Bd2 b5 12. O-O b4 13. h3 Qb6 14. exd6 e6 15. Ne5
+Rd8 16. Nxc6 Qxc6 17. g4 Rxd6 18. Rf2 a5 19. f5 exf5 20. gxf5 Ba6 21. Bxa6 Qxa6
+22. Qxa6 Rdxa6 23. Re1 Kf8 24. Kf1 bxc3 25. Bxc3 Bf6 26. Rf3 Re8 27. Rxe8+ Kxe8
+28. Ke2 a4 29. Kd3 Bg5 30. Bd2 Bxd2 31. Kxd2 Rf6 32. Re3+ Kd7 33. fxg6 hxg6 34.
+Kc3 Rc6+ 35. Kd3 Re6 36. Rf3 Ke7 37. Kc3 Rc6+ 38. Kd3 f5 39. Rf1 Kf6 40. Re1
+Re6 41. Rc1 f4 42. Rc5 Re3+ 43. Kd2 Ke6 44. Ra5 Rxh3 45. Rxa4 Kf5 46. b4 Ke4
+47. b5 Rh2+ 48. Kc3 f3 49. Ra8 f2 50. Rf8 Rh3+ 0-1

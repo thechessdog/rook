@@ -1,0 +1,18 @@
+[Event "corr EH"]
+[Site "corr EH"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Nokso"]
+[Black "Koivisto, Antti"]
+[Result "1-0"]
+[ECO "C72"]
+[Opening "Ruy Lopez"]
+[Variation "modern Steinitz defence, 5.O-O"]
+[HashCode "f5cd4c2c"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. O-O Bg4 6. h3 h5 7. d4 b5 8. Bb3
+Nxd4 9. hxg4 hxg4 10. Ng5 Nh6 11. f4 c6 12. Be3 Nxb3 13. axb3 exf4 14. Bxf4
+Be7 15. Qd2 Bf6 16. c3 g3 17. Nh3 Qb6+ 18. Qe3 Qxe3+ 19. Bxe3 Be5 20. Rf3
+Ng4 21. Bd4 Rh4 22. Nd2 c5 23. Bxe5 dxe5 24. Rxg3 1-0
+

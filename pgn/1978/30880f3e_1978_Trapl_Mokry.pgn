@@ -1,0 +1,21 @@
+[Event "Bohemians"]
+[Site "Prague"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Trapl, Jindrich"]
+[Black "Mokry, Karel"]
+[Result "0-1"]
+[ECO "B33"]
+[Opening "Sicilian"]
+[Variation "Pelikan (Lasker/Sveshnikov) variation"]
+[HashCode "30880f3e"]
+[Epoch "Rook"]
+[BlackID "306070"]
+[BlackCountry "CZE"]
+[WhiteCountry "CZE"]
+
+1. e4 c5 2. Nc3 Nc6 3. Nge2 Nf6 4. d4 cxd4 5. Nxd4 e5 6. Ndb5 d6 7. Nd5 Nxd5 8.
+exd5 Nb8 9. c4 Be7 10. Bd3 O-O 11. O-O f5 12. f4 a6 13. Nc3 Nd7 14. Kh1 g6 15.
+Be3 Bf6 16. Qd2 exf4 17. Bxf4 Ne5 18. Be2 Bd7 19. Rac1 Rc8 20. Nd1 b5 21. cxb5
+Rxc1 22. Qxc1 Bxb5 23. Bxb5 axb5 24. Qd2 Qa8 25. b3 Rc8 26. h3 Qa3 27. Nc3 Qb4
+28. Rc1 Nd3 29. Bxd6 Qd4 30. Qe2 Kg7 31. Rc2 Rxc3 32. Qe8 h5 0-1

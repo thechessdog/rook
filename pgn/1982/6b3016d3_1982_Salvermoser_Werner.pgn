@@ -1,0 +1,17 @@
+[Event "Porz"]
+[Site "Porz"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Salvermoser"]
+[Black "Wenner, Tobias"]
+[Result "0-1"]
+[ECO "D08"]
+[Opening "QGD"]
+[Variation "Albin counter-gambit"]
+[HashCode "6b3016d3"]
+[Epoch "Rook"]
+[BlackID "4619714"]
+[BlackCountry "GER"]
+
+1. d4 d5 2. c4 e5 3. dxe5 d4 4. a3 Nc6 5. e3 Bf5 6. Nf3 Qe7 7. Bd3 Bg4 8. exd4
+Nxd4 9. Bxh7 O-O-O 10. Bg5 Nxf3+ 0-1

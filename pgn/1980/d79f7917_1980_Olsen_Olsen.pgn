@@ -1,0 +1,18 @@
+[Event "Goenge"]
+[Site "Goenge"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Olsen, Kim"]
+[Black "Olsen, Leif"]
+[Result "0-1"]
+[ECO "C30"]
+[Opening "King's gambit"]
+[HashCode "d79f7917"]
+[Epoch "Rook"]
+[WhiteID "1406922"]
+[WhiteCountry "DEN"]
+
+1. e4 e5 2. f4 f5 3. d3 Nc6 4. Nf3 Bc5 5. fxe5 Nge7 6. d4 fxe4 7. dxc5 exf3 8.
+Qxf3 Nxe5 9. Qh5+ N7g6 10. Bd3 O-O 11. Bg5 Nxd3+ 12. cxd3 Qe8+ 13. Qe2 Ne5 14.
+Kd2 h6 15. Bh4 d6 16. d4 Ng6 17. Qc4+ Kh8 18. Bg3 Qe4 19. Rg1 dxc5 20. Qxc5 Rd8
+21. Bf2 Nf4 22. Nc3 Qd3+ 23. Kc1 Bf5 24. Ne4 Ne2# 0-1

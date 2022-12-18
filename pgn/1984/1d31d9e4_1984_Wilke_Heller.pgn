@@ -1,0 +1,17 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Wilke, T."]
+[Black "Heller"]
+[Result "1-0"]
+[ECO "C55"]
+[Opening "two knights"]
+[Variation "Max Lange attack, Steinitz variation"]
+[HashCode "1d31d9e4"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d4 exd4 5. O-O Bc5 6. e5 Ng4 7. Bf4 d5 8.
+exd6 cxd6 9. Re1+ Kd7 10. Bb5 d3 11. Bg3 Qf6 12. Qxd3 Qxb2 13. Qf5+ Kc7 14.
+Qxc5 Qxa1 15. Nc3 Qb2 16. Nd5+ 1-0
+

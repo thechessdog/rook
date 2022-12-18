@@ -1,0 +1,23 @@
+[Event "Reykjavik"]
+[Site "Reykjavik"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Olafsson, Helgi"]
+[Black "Hjartarson, Johann"]
+[Result "1-0"]
+[ECO "E04"]
+[Opening "Catalan"]
+[Variation "open, 5.Nf3"]
+[HashCode "b2be3a16"]
+[Epoch "Rook"]
+[WhiteID "2300010"]
+[BlackID "2300044"]
+[WhiteCountry "ISL"]
+[BlackCountry "ISL"]
+
+1. Nf3 Nf6 2. c4 e6 3. g3 d5 4. d4 dxc4 5. Bg2 c5 6. O-O Nc6 7. Qa4 cxd4 8.
+Nxd4 Qxd4 9. Bxc6+ Bd7 10. Rd1 Qxd1+ 11. Qxd1 Bxc6 12. Nd2 c3 13. bxc3 O-O-O
+14. Qb3 Bc5 15. Nf3 Ne4 16. Nd4 Rxd4 17. cxd4 Bxd4 18. Rb1 Bxf2+ 19. Kf1 h5 20.
+Bf4 g5 21. Bxg5 h4 22. gxh4 Bxh4 23. Qb2 f6 24. Bxh4 Rxh4 25. Rc1 Kc7 26. Qa3
+Nd6 27. Qg3 Rh5 28. Rd1 Bd5 29. Qg7+ Kc6 30. Rc1+ Bc4 31. Qg4 Rf5+ 32. Ke1 b5
+33. h4 e5 34. h5 Rf4 35. Qg2+ Kb6 36. h6 Ne4 37. h7 Rh4 38. h8=Q 1-0

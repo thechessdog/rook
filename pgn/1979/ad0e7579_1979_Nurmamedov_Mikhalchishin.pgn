@@ -1,0 +1,23 @@
+[Event "URS Spartakiad"]
+[Site "Moscow"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Nurmamedov, Mammed"]
+[Black "Mikhalchishin, Adrian"]
+[Result "0-1"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf"]
+[HashCode "ad0e7579"]
+[Epoch "Rook"]
+[BlackID "14602385"]
+[BlackCountry "SLO"]
+[WhiteID "14000172"]
+[WhiteCountry "TKM"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. a4 e6 7. Be2 Be7 8. O-O
+O-O 9. Be3 Nbd7 10. f4 Qc7 11. Bf3 Nb6 12. Qc1 Nc4 13. Bf2 e5 14. Nde2 Be6 15.
+f5 Bd7 16. g4 h6 17. h4 Bc6 18. b3 Nb6 19. Qe3 Nbd7 20. Rad1 Nh7 21. Kg2 b5 22.
+Rh1 b4 23. Nb1 Nc5 24. Nd2 Ng5 25. Ng3 Nxf3 26. Qxf3 Nxe4 27. Ndxe4 d5 28. Nd2
+e4 29. Qe2 e3 30. Bxe3 d4+ 31. Nf3 dxe3 32. f6 Bxf6 33. g5 hxg5 34. hxg5 Bxg5
+35. Rd4 Rfd8 0-1

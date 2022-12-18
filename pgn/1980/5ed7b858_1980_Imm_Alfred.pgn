@@ -1,0 +1,17 @@
+[Event "Ohio HS Team"]
+[Site "Ohio HS Team"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Imm"]
+[Black "Alfred"]
+[Result "0-1"]
+[ECO "A48"]
+[Opening "King's Indian"]
+[Variation "East Indian defence"]
+[HashCode "5ed7b858"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. Nf3 g6 3. e3 Bg7 4. Bd3 d6 5. Nbd2 Nbd7 6. O-O O-O 7. Re1 Re8
+8. c3 e5 9. e4 b6 10. Ng5 Nh5 11. Ndf3 h6 12. Nh3 Nf8 13. Kf1 Bxh3 14. gxh3
+Qd7 15. Kg2 Ne6 16. h4 Nef4+ 17. Bxf4 Nxf4+ 18. Kf1 Qh3+ 19. Kg1 Qg2# 0-1
+

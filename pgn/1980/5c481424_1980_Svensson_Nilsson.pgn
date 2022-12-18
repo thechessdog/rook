@@ -1,0 +1,18 @@
+[Event "corr Tch-SWE"]
+[Site "corr Tch-SWE"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Svensson, Stig"]
+[Black "Nilsson, Uno"]
+[Result "0-1"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "5c481424"]
+[Epoch "Rook"]
+[WhiteID "1438719"]
+[BlackID "1731947"]
+[WhiteCountry "DEN"]
+[BlackCountry "SWE"]
+
+1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. d4 cxd4 5. cxd4 d6 6. Nf3 e6 0-1

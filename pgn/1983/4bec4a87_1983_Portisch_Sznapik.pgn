@@ -1,0 +1,19 @@
+[Event "Bratislava"]
+[Site "Bratislava"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Portisch, Ferenc"]
+[Black "Sznapik, Aleksander"]
+[Result "0-1"]
+[ECO "E61"]
+[Opening "King's Indian defence, 3.Nc3"]
+[HashCode "4bec4a87"]
+[Epoch "Rook"]
+[WhiteID "700487"]
+[WhiteCountry "HUN"]
+[BlackID "1100050"]
+[BlackCountry "POL"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. Nf3 O-O 5. Bf4 c5 6. e3 cxd4 7. exd4 d5 8. Be5
+dxc4 9. Bxc4 Nc6 10. O-O Bf5 11. a3 Rc8 12. Qe2 Bg4 13. Rfd1 Qa5 14. b4 Bxf3
+15. gxf3 Qd8 16. Rac1 e6 17. Bb5 Nxe5 18. dxe5 Nd5 19. Nxd5 Qg5+ 0-1

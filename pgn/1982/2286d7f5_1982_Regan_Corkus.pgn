@@ -1,0 +1,16 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Regan"]
+[Black "Corkus"]
+[Result "0-1"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Grand Prix attack"]
+[HashCode "2286d7f5"]
+[Epoch "Rook"]
+
+1. e4 c5 2. f4 Nc6 3. Nh3 d6 4. c4 Bxh3 5. gxh3 g6 6. Nc3 Bg7 7. d3 e5 8.
+Bd2 Qh4+ 9. Ke2 Nd4+ 10. Ke3 exf4# 0-1
+

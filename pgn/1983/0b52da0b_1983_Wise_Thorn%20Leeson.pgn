@@ -1,0 +1,17 @@
+[Event "corr NLD/K"]
+[Site "corr NLD/K"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Wise, M."]
+[Black "Thorn Leeson, J."]
+[Result "1/2-1/2"]
+[ECO "E15"]
+[Opening "Queen's Indian"]
+[Variation "4.g3"]
+[HashCode "0b52da0b"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb4+ 5. Bd2 Bxd2+ 6. Qxd2 Ba6 7. b3 d5
+8. Bg2 O-O 9. Nc3 c6 10. Ne5 Qd6 11. O-O Nbd7 12. cxd5 cxd5 13. Rfd1 Rac8
+14. Nxd7 Qxd7 15. e4 Bb7 16. exd5 1/2-1/2
+

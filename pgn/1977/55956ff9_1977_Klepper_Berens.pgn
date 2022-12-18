@@ -1,0 +1,18 @@
+[Event "Dayton,OH"]
+[Site "Dayton,OH"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Klepper, W."]
+[Black "Berens"]
+[Result "1-0"]
+[ECO "C34"]
+[Opening "KGA"]
+[Variation "Fischer defence"]
+[HashCode "55956ff9"]
+[Epoch "Rook"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 d6 4. d4 f5 5. Nc3 Nf6 6. e5 dxe5 7. Nxe5 Nbd7
+8. Bxf4 Nxe5 9. Bxe5 c5 10. Qd2 cxd4 11. O-O-O Bb4 12. Bb5+ Bd7 13. Qxd4
+Bxc3 14. Qxc3 Rc8 15. Bxd7+ Nxd7 16. Qb3 Qg5+ 17. Kb1 Nxe5 18. Qe6+ Qe7 19.
+Qxc8+ 1-0
+

@@ -1,0 +1,23 @@
+[Event "Bundesliga 8384"]
+[Site "Germany"]
+[Date "1984.??.??"]
+[Round "?"]
+[White "Bastian, Herbert"]
+[Black "Kindermann, Stefan"]
+[Result "0-1"]
+[ECO "B25"]
+[Opening "Sicilian"]
+[Variation "closed, 6.f4"]
+[HashCode "d8efefeb"]
+[Epoch "Rook"]
+[WhiteID "4601700"]
+[BlackID "4600053"]
+[WhiteCountry "GER"]
+[BlackCountry "AUT"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. f4 e6 7. Nf3 Nge7 8. O-O
+O-O 9. Be3 Nd4 10. Rb1 b6 11. f5 exf5 12. Bxd4 cxd4 13. Nb5 Bb7 14. Re1 fxe4
+15. dxe4 Nc6 16. Nbxd4 Nxd4 17. Nxd4 Qg5 18. c3 Rfe8 19. Qd3 Re7 20. Rbd1 Rae8
+21. Nb5 Qc5+ 22. Kh1 d5 23. b4 Qc6 24. e5 Rxe5 25. Rxe5 Rxe5 26. Nxa7 Qe8 27.
+Rf1 Re1 28. Kg1 Re3 29. Qb5 Qe6 30. c4 Bd4 31. Kh1 Re2 32. c5 Rxa2 33. cxb6
+Bxb6 0-1

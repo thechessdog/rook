@@ -1,0 +1,18 @@
+[Event "Reggio Emilia8081"]
+[Site "Reggio Emilia"]
+[Date "1980.01.01"]
+[Round "5"]
+[White "Taruffi, Daniele"]
+[Black "Bertok, Mario"]
+[Result "1/2-1/2"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "3c7762ae"]
+[Epoch "Rook"]
+[WhiteID "800287"]
+[WhiteCountry "ITA"]
+[BlackCountry "HRV"]
+
+1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. d4 e6 5. Nf3 Nf6 6. Na3 Nc6 7. Nb5 Qd8 8.
+dxc5 Bxc5 9. Qxd8+ Kxd8 10. Bg5 a6 11. Rd1+ Ke7 12. Nbd4 Nxd4 13. Nxd4 1/2-1/2

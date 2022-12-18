@@ -1,0 +1,20 @@
+[Event "BUL-ch"]
+[Site "Sofia"]
+[Date "1982.??.??"]
+[Round "14"]
+[White "Lalev, Dimitar"]
+[Black "Popov, Luben"]
+[Result "1/2-1/2"]
+[ECO "A07"]
+[Opening "Reti"]
+[Variation "King's Indian attack (Barcza system)"]
+[HashCode "0b3b4f81"]
+[Epoch "Rook"]
+[WhiteID "2900254"]
+[BlackID "2900173"]
+[WhiteCountry "FID"]
+[BlackCountry "FID"]
+
+1. Nf3 d5 2. g3 c6 3. Bg2 Bf5 4. d3 Nd7 5. O-O Ngf6 6. Nbd2 e6 7. b3 h6 8. Bb2
+Be7 9. c4 O-O 10. Qc2 a5 11. a3 Bh7 12. Rac1 b5 13. cxb5 cxb5 14. Qb1 Qb6 15.
+Qa1 Rfc8 16. Rxc8+ Rxc8 17. Rc1 Rxc1+ 1/2-1/2

@@ -1,0 +1,23 @@
+[Event "Belgrade"]
+[Site "Belgrade"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Raicevic, Vladimir"]
+[Black "Keene, Raymond D"]
+[Result "1-0"]
+[ECO "E83"]
+[Opening "King's Indian"]
+[Variation "Saemisch, 6...Nc6"]
+[HashCode "b3e60c86"]
+[Epoch "Rook"]
+[BlackID "400211"]
+[BlackCountry "ENG"]
+[WhiteID "900605"]
+[WhiteCountry "SRB"]
+
+1. d4 g6 2. c4 Bg7 3. Nc3 d6 4. e4 Nf6 5. f3 O-O 6. Be3 Nc6 7. Qd2 a6 8. O-O-O
+Rb8 9. Bh6 e5 10. d5 Nd4 11. Nge2 Nxe2+ 12. Bxe2 Bd7 13. g4 b5 14. h4 b4 15.
+Nb1 Bxh6 16. Qxh6 Qe7 17. Nd2 c6 18. dxc6 Bxc6 19. h5 Rbc8 20. Kb1 Rfd8 21. Rh2
+Nd7 22. Nf1 Nf8 23. Ne3 Kh8 24. Rg1 Ne6 25. hxg6 fxg6 26. Qxg6 Nf4 27. Qh6 Qg7
+28. Qh4 Rd7 29. Nf5 Qf7 30. Rgh1 Rf8 31. Bf1 a5 32. Qf2 Qe8 33. Qb6 Qa8 34.
+Rxh7+ 1-0

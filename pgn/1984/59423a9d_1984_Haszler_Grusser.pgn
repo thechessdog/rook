@@ -1,0 +1,18 @@
+[Event "corr DDR/H"]
+[Site "corr DDR/H"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Haszler"]
+[Black "Grusser"]
+[Result "1-0"]
+[ECO "E07"]
+[Opening "Catalan"]
+[Variation "closed, 6...Nbd7"]
+[HashCode "59423a9d"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Bg2 Be7 5. Nf3 O-O 6. O-O Nbd7 7. b3 b6 8.
+Bb2 Bb7 9. Nc3 c5 10. e3 Rc8 11. Qe2 dxc4 12. bxc4 cxd4 13. exd4 Bxf3 14.
+Bxf3 Qc7 15. Rac1 Qxc4 16. Nd5 Qxe2 17. Nxe7+ Kh8 18. Bxe2 Rxc1 19. Rxc1
+Re8 20. Nc6 a5 21. Bb5 1-0
+

@@ -1,0 +1,24 @@
+[Event "Sweden"]
+[Site "Sweden"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Svenn, Matti"]
+[Black "Svensson, Bengt"]
+[Result "1-0"]
+[ECO "B91"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Zagreb (fianchetto) variation"]
+[HashCode "f569bbce"]
+[Epoch "Rook"]
+[WhiteID "1705091"]
+[BlackID "1722891"]
+[WhiteCountry "SWE"]
+[BlackCountry "SWE"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. g3 e5 7. Nde2 Be7 8. Bg2
+O-O 9. h3 b5 10. a4 b4 11. Nd5 Nxd5 12. Qxd5 Ra7 13. Be3 Be6 14. Qd2 Rb7 15.
+O-O b3 16. cxb3 Bxb3 17. Rfc1 Qd7 18. a5 Be6 19. Kh2 Nc6 20. Nc3 Bd8 21. Nd5
+Bxd5 22. exd5 Nb8 23. Bf1 f5 24. b4 Qf7 25. f4 exf4 26. gxf4 Re8 27. b5 Bf6 28.
+Ra2 g5 29. bxa6 gxf4 30. Bf2 Rbe7 31. a7 Nd7 32. Rac2 Ne5 33. Qd1 Rxa7 34. Bxa7
+Qxa7 35. Qh5 Rf8 36. a6 Qe3 37. Rg2+ Ng4+ 38. hxg4 Qxc1 39. gxf5+ Kh8 40. Qh6
+Rf7 41. a7 Qa3 42. Rc2 Qg3+ 43. Kh1 Qg8 44. Ba6 Bg7 45. Qe6 1-0

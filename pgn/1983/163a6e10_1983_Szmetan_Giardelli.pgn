@@ -1,0 +1,18 @@
+[Event "Buenos Aires"]
+[Site "Buenos Aires"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Szmetan, Jorge"]
+[Black "Giardelli, Sergio C."]
+[Result "1/2-1/2"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...g6"]
+[HashCode "163a6e10"]
+[Epoch "Rook"]
+[WhiteID "100366"]
+[WhiteCountry "ARG"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 g6 6. cxd5 Bg7 7. Qb3 O-O 8.
+Bc4 Nbd7 9. Nf3 Nb6 10. O-O Nxc4 11. Qxc4 b6 12. Bf4 Bb7 13. d6 exd6 14. Qd3
+Nd5 15. Nxd5 Bxd5 16. Rac1 Qd7 17. Rc3 1/2-1/2

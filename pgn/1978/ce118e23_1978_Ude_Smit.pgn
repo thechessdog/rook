@@ -1,0 +1,21 @@
+[Event "corr Tch-EU"]
+[Site "corr Tch-EU"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Ude"]
+[Black "Smit"]
+[Result "1-0"]
+[ECO "C60"]
+[Opening "Ruy Lopez"]
+[Variation "fianchetto (Smyslov/Barnes) defence"]
+[HashCode "ce118e23"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 g6 4. d4 exd4 5. Bg5 Be7 6. Bxe7 Ngxe7 7. Nxd4
+d5 8. Nc3 dxe4 9. Bxc6+ Nxc6 10. Nxc6 Qxd1+ 11. Rxd1 bxc6 12. Nxe4 Bf5 13.
+Rd4 Rb8 14. b3 Rb5 15. Kd2 Ke7 16. Re1 Be6 17. Nc3 Rh5 18. h3 Rd8 19. Rxd8
+Kxd8 20. Re3 Rg5 21. g4 h5 22. f3 hxg4 23. fxg4 Bd7 24. Ne4 Rd5+ 25. Ke2
+Ra5 26. a4 g5 27. b4 Re5 28. Nc5 Rd5 29. c4 Rd4 30. Re4 Rxe4+ 31. Nxe4 Ke7
+32. Nxg5 Kf6 33. Ne4+ Ke5 34. Nc5 Bc8 35. Ke3 f5 36. Nd3+ Kf6 37. Kf4 fxg4
+38. hxg4 Bd7 39. Nc5 Bc8 40. Nd3 Be6 41. Ne5 a6 42. g5+ Ke7 43. Ke4 1-0
+

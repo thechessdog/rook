@@ -1,0 +1,20 @@
+[Event "Cienfuegos"]
+[Site "Cienfuegos"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Garces, Napoleon"]
+[Black "Cordoba"]
+[Result "1-0"]
+[ECO "C82"]
+[Opening "Ruy Lopez"]
+[Variation "open, Motzko attack"]
+[HashCode "5f28626a"]
+[Epoch "Rook"]
+[WhiteID "3600130"]
+[WhiteCountry "ECU"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Be6 9. c3 Bc5 10. Qd3 O-O 11. Be3 Ne7 12. Nd4 Bxd4 13. cxd4 Bf5 14. Qd1 h6 15.
+f3 Ng5 16. Nc3 Be6 17. Rc1 f5 18. exf6 Rxf6 19. Bxg5 hxg5 20. Qd2 c6 21. Qxg5
+Nf5 22. Ne2 Qd6 23. Rfd1 Bd7 24. Ng3 Nxg3 25. Qxg3 Rf4 26. Rd2 Qf6 27. Qf2 Rf8
+28. Re1 Bf5 29. g3 Qg6 30. Qg2 1-0

@@ -1,0 +1,24 @@
+[Event "Bundesliga 8384"]
+[Site "Duitsland tt"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Wolf, Volker"]
+[Black "Middendorf, Ferdinand"]
+[Result "0-1"]
+[ECO "B92"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Opovcensky variation"]
+[HashCode "d0aee925"]
+[Epoch "Rook"]
+[WhiteID "4602862"]
+[WhiteCountry "GER"]
+[BlackID "4610970"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8. Bg5
+Be6 9. Bxf6 Bxf6 10. Nd5 O-O 11. Nxf6+ Qxf6 12. Qxd6 Nc6 13. O-O Rfd8 14. Qa3
+Bxb3 15. axb3 Rd2 16. Bd3 Rd8 17. Rad1 Rxd1 18. Rxd1 Qf4 19. Qa1 h5 20. Qc1
+Qxc1 21. Rxc1 Nb4 22. Rd1 Nxd3 23. Rxd3 Rxd3 24. cxd3 Kf8 25. Kf1 Ke7 26. Ke2
+Kd6 27. b4 Kc6 28. d4 exd4 29. Kd3 Kb5 30. f4 Kxb4 31. Kxd4 a5 32. f5 f6 33. e5
+fxe5+ 34. Kxe5 Kc4 35. h4 a4 36. g4 hxg4 37. Kf4 Kd5 38. Kxg4 b5 39. h5 b4 40.
+f6 Ke6 41. fxg7 Kf7 42. h6 a3 43. bxa3 bxa3 0-1

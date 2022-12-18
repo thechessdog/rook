@@ -1,0 +1,18 @@
+[Event "Hamburg HSV"]
+[Site "Hamburg"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Reefschlaeger, Helmut, Dr."]
+[Black "Cordes, Hans-Joerg"]
+[Result "1/2-1/2"]
+[ECO "E06"]
+[Opening "Catalan"]
+[Variation "closed, 5.Nf3"]
+[HashCode "fb7960a0"]
+[Epoch "Rook"]
+[WhiteID "4600878"]
+[WhiteCountry "GER"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. g3 Be7 5. Bg2 O-O 6. O-O dxc4 7. Ne5 Nc6 8.
+Nxc6 bxc6 9. Bxc6 1/2-1/2

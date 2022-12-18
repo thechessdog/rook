@@ -1,0 +1,20 @@
+[Event "Univ Chicago"]
+[Site "Univ Chicago"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Felt, R."]
+[Black "Nekvasil, M."]
+[Result "1-0"]
+[ECO "B78"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, 10.O-O-O"]
+[HashCode "46552d23"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 g6 6. Be3 Bg7 7. Qd2 Nf6
+8. f3 O-O 9. Bc4 Bd7 10. O-O-O Qc7 11. Bb3 Ne5 12. h4 Nc4 13. Qe2 Nxe3 14.
+Qxe3 h5 15. g4 hxg4 16. h5 gxh5 17. Qg5 e6 18. fxg4 Qc5 19. Nf5 exf5 20.
+Nd5 Nxd5 21. Rxd5 Qf2 22. Rd2 Qf3 23. Qxh5 Qxh1+ 24. Qxh1 fxe4 25. Qxe4
+Rae8 26. Qf4 Re1+ 27. Rd1 Bxb2+ 28. Kxb2 Rxd1 29. Qg5+ Kh7 30. Qh5+ Kg7 31.
+g5 Rf1 32. Qh6+ Kg8 33. g6 Rc8 34. gxf7+ Rxf7 35. Qg6+ Kh8 36. Bxf7 1-0
+

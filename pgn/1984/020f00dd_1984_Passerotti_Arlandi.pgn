@@ -1,0 +1,27 @@
+[Event "Rome-B"]
+[Site "Rome"]
+[Date "1984.01.01"]
+[Round "5"]
+[White "Passerotti, Pierluigi"]
+[Black "Arlandi, Ennio"]
+[Result "1-0"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "020f00dd"]
+[Epoch "Rook"]
+[WhiteID "800309"]
+[WhiteCountry "ITA"]
+[BlackID "800104"]
+[BlackCountry "ITA"]
+
+1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. d4 e6 5. Nf3 Nf6 6. Bd3 Be7 7. O-O O-O 8. c4
+Qd7 9. dxc5 Rd8 10. Bc2 Qxd1 11. Rxd1 Rxd1+ 12. Bxd1 Bxc5 13. Nc3 Nc6 14. Bg5
+b6 15. Bc2 Bb7 16. Rd1 Rd8 17. Rxd8+ Nxd8 18. a3 h6 19. Bf4 Bxf3 20. gxf3 Bd4
+21. Bd2 Ne8 22. b4 Nd6 23. Bb3 Nc6 24. f4 Kf8 25. Kf1 Ke7 26. Ke2 Kd8 27. Be1
+g5 28. Ba4 Ne7 29. Kd3 Nef5 30. fxg5 hxg5 31. h3 a6 32. Bc6 Kc7 33. Bh1 f6 34.
+a4 Nf7 35. Ne2 Ne5+ 36. Kc2 Nd7 37. Be4 Be5 38. Bxf5 exf5 39. Ng3 f4 40. Ne4
+Bd6 41. Bc3 Be7 42. f3 f5 43. Nd2 Kd6 44. Nb3 Ne5 45. Nd4 Nxc4 46. Nxf5+ Ke6
+47. Nxe7 Kxe7 48. Kd3 Nd6 49. Bd4 Nc8 50. Bf2 Ke6 51. h4 gxh4 52. Bxh4 Nd6 53.
+Bg5 Kf5 54. Be7 Nf7 55. Kd4 Ke6 56. Bh4 Ne5 57. Ke4 Nc4 58. Bf2 a5 59. b5 Nb2
+60. Bxb6 Nxa4 61. Bxa5 Kd6 62. Kd4 1-0

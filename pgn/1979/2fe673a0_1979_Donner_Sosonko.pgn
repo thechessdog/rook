@@ -1,0 +1,19 @@
+[Event "IBM"]
+[Site "Amsterdam"]
+[Date "1979.07.01"]
+[Round "3"]
+[White "Donner, Jan Hein"]
+[Black "Sosonko, Gennadi"]
+[Result "1/2-1/2"]
+[ECO "E41"]
+[Opening "Nimzo-Indian"]
+[Variation "e3, Huebner variation"]
+[HashCode "2fe673a0"]
+[Epoch "Rook"]
+[BlackID "1000039"]
+[BlackCountry "NED"]
+[WhiteCountry "NLD"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 Nc6 6. Nf3 Bxc3+ 7. bxc3 d6 8. e4
+e5 9. d5 Ne7 10. Nd2 Qa5 11. Qb3 O-O 12. f3 Nh5 13. g3 Bh3 14. Nf1 f5 15. exf5
+Bxf5 16. Bxf5 Nxf5 17. Nd2 Nf6 1/2-1/2

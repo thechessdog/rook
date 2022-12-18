@@ -1,0 +1,16 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Arito"]
+[Black "Berti"]
+[Result "1-0"]
+[ECO "C43"]
+[Opening "Petrov"]
+[Variation "modern attack, Symmetrical variation"]
+[HashCode "280bffbb"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nf6 3. d4 Nxe4 4. dxe5 Bc5 5. Nd4 f6 6. Qg4 d5 7. Qxg7 Rf8
+8. Be2 Bxd4 9. Bh5+ Rf7 10. Qxf7# 1-0
+

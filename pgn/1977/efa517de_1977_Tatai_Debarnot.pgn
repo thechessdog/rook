@@ -1,0 +1,19 @@
+[Event "Las Palmas"]
+[Site "Las Palmas"]
+[Date "1977.01.01"]
+[Round "11"]
+[White "Tatai, Stefano"]
+[Black "Debarnot, Roberto"]
+[Result "0-1"]
+[ECO "E92"]
+[Opening "King's Indian"]
+[Variation "Gligoric-Taimanov system"]
+[HashCode "efa517de"]
+[Epoch "Rook"]
+[BlackID "100595"]
+[BlackCountry "ARG"]
+[WhiteCountry "ITA"]
+
+1. c4 Nf6 2. Nc3 g6 3. e4 d6 4. d4 Bg7 5. Nf3 O-O 6. Be2 e5 7. Be3 exd4 8. Nxd4
+Re8 9. f3 c6 10. Qd2 Nbd7 11. O-O d5 12. exd5 cxd5 13. Ndb5 Bf8 14. Bf4 Nh5 15.
+Nc7 Nxf4 16. Nxe8 Qg5 0-1

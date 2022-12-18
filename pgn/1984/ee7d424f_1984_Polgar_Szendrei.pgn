@@ -1,0 +1,19 @@
+[Event "Budapest"]
+[Site "Budapest"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Polgar, Judit"]
+[Black "Szendrei, L."]
+[Result "1-0"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Lipnitzky attack"]
+[HashCode "ee7d424f"]
+[Epoch "Rook"]
+[WhiteID "700070"]
+[WhiteCountry "HUN"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 Nf6 6. Bc4 e6 7. Bb3 Be7 8. f4
+O-O 9. Qf3 Nbd7 10. g4 e5 11. Nf5 Nc5 12. Nxe7+ Qxe7 13. g5 Nfd7 14. f5 a5 15.
+Nd5 Qd8 16. Rg1 b6 17. Rg4 Nxb3 18. axb3 Nc5 19. Nf6+ gxf6 20. gxf6+ Kh8 21.
+Qh3 Rg8 1-0

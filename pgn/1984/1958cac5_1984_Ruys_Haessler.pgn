@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Ruys, F."]
+[Black "Haessler, C."]
+[Result "0-1"]
+[ECO "B13"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik, Gunderam attack"]
+[HashCode "1958cac5"]
+[Epoch "Rook"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. c5 e5 6. Nc3 Nc6 7. Bb5 exd4 8.
+Qxd4 Be7 9. Nge2 O-O 10. Bxc6 bxc6 11. O-O Nd7 12. Na4 Bf6 13. Qd1 Ba6 14.
+Re1 Re8 15. Bd2 Ne5 16. Nec3 Qd7 17. a3 Nd3 18. Rxe8+ Rxe8 19. Qf3 Qe6 20.
+h3 d4 21. Na2 Bb5 22. Nb4 Qe2 0-1
+

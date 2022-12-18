@@ -1,0 +1,20 @@
+[Event "Torino"]
+[Site "Torino"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Pantaleoni, Claudio"]
+[Black "Belotti"]
+[Result "0-1"]
+[ECO "E42"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5, 5.Ne2 (Rubinstein)"]
+[HashCode "24f616ed"]
+[Epoch "Rook"]
+[WhiteID "800945"]
+[WhiteCountry "ITA"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Ne2 cxd4 6. exd4 O-O 7. a3 Be7 8. d5
+exd5 9. cxd5 Bc5 10. b4 Bb6 11. Na4 d6 12. Nxb6 Qxb6 13. Be3 Qd8 14. h3 Bf5 15.
+Ng3 Bg6 16. Qd4 Nbd7 17. Be2 Re8 18. O-O Ne4 19. Nh5 Nef6 20. Nf4 Be4 21. Rfd1
+Nb6 22. Bb5 Re5 23. f3 Nbxd5 24. fxe4 Nxe3 25. Qxe3 Rxb5 26. Rd4 Qb6 27. Rad1
+Re5 28. Kh1 Rae8 29. Re1 Nxe4 30. Nd5 Ng3+ 0-1

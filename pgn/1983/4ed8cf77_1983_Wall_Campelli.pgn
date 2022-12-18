@@ -1,0 +1,17 @@
+[Event "Dayton,OH"]
+[Site "Dayton,OH"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Wall, Bill"]
+[Black "Campelli, Cris"]
+[Result "1-0"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "symmetrical variation"]
+[HashCode "4ed8cf77"]
+[Epoch "Rook"]
+[WhiteCountry "USA"]
+
+1. b3 b6 2. Bb2 Bb7 3. e3 e6 4. d4 Nf6 5. c4 Bb4+ 6. Nc3 Ne4 7. Ne2 d5 8. a3
+Bxc3+ 9. Nxc3 dxc4 10. Bxc4 Nd7 11. O-O Qg5 12. g3 Ndf6 13. Nb5 Nh5 14. Nxc7+
+Kf8 15. Bxe6 Nhxg3 16. hxg3 Nxg3 17. Qg4 Ne2+ 18. Kh2 Qh6+ 19. Qh3 1-0

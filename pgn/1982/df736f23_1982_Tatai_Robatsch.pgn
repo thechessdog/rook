@@ -1,0 +1,19 @@
+[Event "Rome"]
+[Site "Rome"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Tatai, Stefano"]
+[Black "Robatsch, Karl"]
+[Result "1/2-1/2"]
+[ECO "E42"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5, 5.Ne2 (Rubinstein)"]
+[HashCode "df736f23"]
+[Epoch "Rook"]
+[WhiteCountry "ITA"]
+[BlackCountry "AUT"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Ne2 cxd4 6. exd4 O-O 7. a3 Be7 8. d5
+exd5 9. cxd5 Bc5 10. Na4 b6 11. b4 Bd6 12. Nec3 Re8+ 13. Be2 Be5 14. f4 Bxc3+
+15. Nxc3 Ba6 16. O-O Bxe2 17. Nxe2 a5 18. Bb2 axb4 19. axb4 Rxa1 20. Bxa1 Na6
+21. Ng3 Nxb4 22. Nf5 d6 23. Qb3 Qc8 1/2-1/2

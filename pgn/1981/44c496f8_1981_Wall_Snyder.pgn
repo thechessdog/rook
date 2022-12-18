@@ -1,0 +1,20 @@
+[Event "Dayton,OH"]
+[Site "Dayton,OH"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Wall, Bill"]
+[Black "Snyder, Bill"]
+[Result "1-0"]
+[ECO "B03"]
+[Opening "Alekhine's defence"]
+[Variation "four pawns attack, fianchetto variation"]
+[HashCode "44c496f8"]
+[Epoch "Rook"]
+[WhiteCountry "USA"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. c4 Nb6 5. f4 g6 6. Nf3 Bg4 7. b3 e6 8. Bd3 Nc6
+9. Be3 Nb4 10. O-O Nxd3 11. Qxd3 d5 12. c5 Nd7 13. Nc3 f6 14. Nh4 Bf5 15. Nxf5
+gxf5 16. Nxd5 fxe5 17. Nb4 a5 18. c6 Nc5 19. dxc5 axb4 20. Qxd8+ Rxd8 21. cxb7
+c6 22. fxe5 Rb8 23. Rac1 Rxb7 24. Bd2 Rb5 25. Rf4 Bh6 26. Rd4 Bxd2 27. Rxd2 Ke7
+28. Rd6 Rc8 29. Rc4 Rc7 30. Rh4 Rbb7 31. Rxh7+ Ke8 32. Rxe6+ Re7 33. Rhxe7+
+Rxe7 34. Rxe7+ Kxe7 35. Kf2 1-0

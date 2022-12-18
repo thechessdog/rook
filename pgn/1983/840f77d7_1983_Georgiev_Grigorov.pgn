@@ -1,0 +1,19 @@
+[Event "BUL-ch"]
+[Site "Pernik"]
+[Date "1983.??.??"]
+[Round "1"]
+[White "Georgiev, Krum"]
+[Black "Grigorov, Jordan N"]
+[Result "1/2-1/2"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (without ...d6)"]
+[HashCode "840f77d7"]
+[Epoch "Rook"]
+[WhiteID "2900092"]
+[WhiteCountry "FID"]
+[BlackCountry "BGR"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 Nf6 4. Qe2 g6 5. e5 Ng4 6. c3 Bg7 7. d4 cxd4 8. cxd4
+Qb6 9. h3 Nh6 10. O-O Nf5 11. Bxc6 dxc6 12. Rd1 h5 13. Nc3 Be6 14. Na4 Qb5 15.
+Qxb5 cxb5 1/2-1/2

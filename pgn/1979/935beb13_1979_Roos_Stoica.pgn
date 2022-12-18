@@ -1,0 +1,21 @@
+[Event "Bagneaux"]
+[Site "Bagneaux"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Roos, Daniel"]
+[Black "Stoica, Valentin"]
+[Result "1-0"]
+[ECO "B25"]
+[Opening "Sicilian"]
+[Variation "closed, 6.f4 e5 (Botvinnik)"]
+[HashCode "935beb13"]
+[Epoch "Rook"]
+[WhiteID "600253"]
+[BlackID "1200070"]
+[WhiteCountry "FRA"]
+[BlackCountry "ROU"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. f4 e5 7. Nh3 exf4 8. Bxf4
+Nge7 9. Qd2 h6 10. O-O Ne5 11. Kh1 Bd7 12. Rae1 b5 13. Nd5 Nxd5 14. exd5 g5 15.
+Bxe5 Bxe5 16. b4 O-O 17. bxc5 Qc8 18. Nxg5 hxg5 19. Rxe5 f6 20. Re7 Qd8 21.
+cxd6 Be8 22. Bh3 Qxd6 23. Be6+ Kh8 24. Qxg5 1-0

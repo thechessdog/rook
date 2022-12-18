@@ -1,0 +1,23 @@
+[Event "corr ch-DK"]
+[Site "corr ch-DK"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Kelstrup"]
+[Black "Waagner Nielsen, Ch"]
+[Result "0-1"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "classical attack, Chigorin variation"]
+[HashCode "4cad4d6e"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Be7 7. O-O Nc6
+8. Re1 Bf5 9. Nc3 Nxc3 10. bxc3 Bxd3 11. Qxd3 O-O 12. c4 dxc4 13. Qxc4 Qd6
+14. c3 Bf6 15. a4 Rfd8 16. Ba3 Qd5 17. Qe2 Na5 18. Rab1 b6 19. Bc1 c5 20.
+Be3 cxd4 21. Bxd4 Bxd4 22. cxd4 Nb3 23. Red1 Rac8 24. Qe3 Na5 25. h3 Re8
+26. Qd3 Nc4 27. Re1 Nd6 28. Rxe8+ Rxe8 29. Re1 Rxe1+ 30. Nxe1 Qa5 31. Qd1
+h6 32. Nf3 b5 33. axb5 Qxb5 34. Qc1 a5 35. Qa3 Qb1+ 36. Kh2 Qb4 37. Qxb4
+axb4 38. Nd2 f5 39. Kg1 Kf7 40. Kf1 Ke6 41. Ke2 Kd5 42. Kd3 Ne4 43. Nf3
+Nxf2+ 44. Ke2 Ne4 45. Kd3 g5 46. Ne5 Nd6 47. Nd7 Kc6 48. Nf6 Kb5 49. Nd7
+Ka4 50. Nc5+ Ka5 51. Kc2 Nc4 0-1
+

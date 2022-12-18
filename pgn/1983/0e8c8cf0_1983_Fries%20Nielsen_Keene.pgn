@@ -1,0 +1,20 @@
+[Event "Aarhus"]
+[Site "Aarhus"]
+[Date "1983.??.??"]
+[Round "3"]
+[White "Fries-Nielsen, Jens Ove"]
+[Black "Keene, Raymond D"]
+[Result "0-1"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, 6.Be3"]
+[HashCode "0e8c8cf0"]
+[Epoch "Rook"]
+[BlackID "400211"]
+[BlackCountry "ENG"]
+[WhiteCountry "DEN"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. f4 Nf6 5. Nf3 O-O 6. Be3 Nbd7 7. h3 c5 8. d5 b5
+9. Bxb5 Nxe4 10. Nxe4 Qa5+ 11. Nc3 Bxc3+ 12. bxc3 Qxb5 13. Nd2 Nb6 14. c4 Nxc4
+15. Qe2 Ba6 16. Nxc4 Qxc4 17. Qxc4 Bxc4 18. Kf2 Bxd5 19. Rhb1 Rfb8 20. a4 Be4
+21. Rxb8+ Rxb8 22. Ra2 Bd5 0-1

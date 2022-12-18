@@ -1,0 +1,22 @@
+[Event "Sverdlovsk"]
+[Site "Sverdlovsk"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Tunik, Gennady"]
+[Black "Veingold, Aleksandr"]
+[Result "0-1"]
+[ECO "D86"]
+[Opening "Gruenfeld"]
+[Variation "exchange, classical variation"]
+[HashCode "6840cfeb"]
+[Epoch "Rook"]
+[WhiteID "4101219"]
+[WhiteCountry "RUS"]
+[BlackID "4500032"]
+[BlackCountry "EST"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Bc4 c5 8.
+Be3 Nc6 9. Ne2 O-O 10. O-O Bg4 11. f3 Na5 12. Bb5 cxd4 13. cxd4 Bd7 14. Rb1 Rc8
+15. Qd3 a6 16. Bxd7 Qxd7 17. Rfd1 Nc4 18. Bf2 b5 19. f4 e6 20. a4 bxa4 21. Rb4
+Nd6 22. d5 exd5 23. e5 Nb5 24. Rxa4 Nc7 25. Ra5 f6 26. exf6 Rxf6 27. Bd4 Re6
+28. Bxg7 Qxg7 29. Nd4 Re4 30. f5 Rce8 31. Raa1 Rxd4 0-1

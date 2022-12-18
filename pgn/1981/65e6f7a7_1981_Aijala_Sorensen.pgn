@@ -1,0 +1,19 @@
+[Event "corr FSM/EU"]
+[Site "corr FSM/EU"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Aijala, J."]
+[Black "Sorensen, Henrik"]
+[Result "0-1"]
+[ECO "A22"]
+[Opening "English opening"]
+[HashCode "65e6f7a7"]
+[Epoch "Rook"]
+[BlackID "1400827"]
+[BlackCountry "DEN"]
+
+1. c4 e5 2. Nc3 Nf6 3. e4 Bc5 4. d3 d6 5. h3 Nfd7 6. g3 Nf8 7. Bg2 Ne6 8. Nge2
+O-O 9. O-O f5 10. exf5 Rxf5 11. Ne4 Bb6 12. Kh2 Nc6 13. f4 exf4 14. Nxf4 Bd4
+15. Nxe6 Bxe6 16. Rxf5 Bxf5 17. Ng5 Ne5 18. g4 Bd7 19. Qe2 Qf6 20. Qe4 g6 21.
+Qxb7 Bc6 22. Bxc6 Qf2+ 23. Bg2 Qg1+ 24. Kg3 Bf2+ 25. Kf4 Qh2+ 26. Ke4 Qxg2+ 27.
+Kf4 Nxd3# 0-1

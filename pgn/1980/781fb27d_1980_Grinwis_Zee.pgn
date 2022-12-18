@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Grinwis"]
+[Black "Zee"]
+[Result "0-1"]
+[ECO "B99"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7...Be7 main line"]
+[HashCode "781fb27d"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Nbd7 8.
+Qf3 Qc7 9. O-O-O Be7 10. Bd3 b5 11. Rhe1 Bb7 12. Qg3 Rc8 13. Bxb5 O-O 14.
+Bxd7 Qxd7 15. e5 Nh5 16. Qh4 Bxg5 17. Qxg5 g6 18. exd6 Rxc3 19. bxc3 Qxd6
+20. g3 Qa3+ 21. Kd2 Rc8 22. Nb3 Bd5 23. Ra1 f6 24. Qg4 Qb2 25. c4 Rxc4 26.
+Qd1 Bf3 27. Re2 Bxe2 28. Kxe2 Rxc2+ 0-1
+

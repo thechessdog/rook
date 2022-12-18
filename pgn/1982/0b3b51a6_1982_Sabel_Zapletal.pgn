@@ -1,0 +1,18 @@
+[Event "corr EU"]
+[Site "corr EU"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Sabel"]
+[Black "Zapletal"]
+[Result "1-0"]
+[ECO "B76"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, 7...O-O"]
+[HashCode "0b3b51a6"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. f3 Bg7 7. Be3 O-O 8.
+Qd2 b6 9. O-O-O Bb7 10. h4 h5 11. Bc4 Nc6 12. Nxc6 Bxc6 13. Bh6 Qd7 14. g4
+b5 15. Bb3 Kh7 16. Bxg7 Kxg7 17. Nd5 Bxd5 18. Bxd5 Rab8 19. Bb3 Qc7 20. g5
+Nd7 21. Qd4+ Kh7 22. f4 1-0
+

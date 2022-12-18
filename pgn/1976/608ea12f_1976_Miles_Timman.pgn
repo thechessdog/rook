@@ -1,0 +1,19 @@
+[Event "Haifa ol (Men)"]
+[Site "Haifa olm"]
+[Date "1976.10.01"]
+[Round "1"]
+[White "Miles, Anthony J"]
+[Black "Timman, Jan H"]
+[Result "1/2-1/2"]
+[ECO "E19"]
+[Opening "Queen's Indian"]
+[Variation "old main line, 9.Qxc3"]
+[HashCode "608ea12f"]
+[Epoch "Rook"]
+[BlackID "1000012"]
+[BlackCountry "NED"]
+[WhiteCountry "ENG"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2 Be7 6. O-O O-O 7. Nc3 Ne4 8. Qc2
+Nxc3 9. Qxc3 c5 10. Rd1 cxd4 11. Nxd4 Bxg2 12. Kxg2 Qc8 13. Qf3 Nc6 14. Nxc6
+dxc6 15. Bd2 1/2-1/2

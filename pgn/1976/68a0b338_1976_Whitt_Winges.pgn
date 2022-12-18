@@ -1,0 +1,20 @@
+[Event "Dayton,OH"]
+[Site "Dayton,OH"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Whitt"]
+[Black "Winges"]
+[Result "0-1"]
+[ECO "A85"]
+[Opening "Dutch with c4 & Nc3"]
+[HashCode "68a0b338"]
+[Epoch "Rook"]
+
+1. d4 f5 2. c4 Nf6 3. Nc3 g6 4. Nf3 d6 5. Bf4 Bg7 6. Qa4+ c6 7. e3 O-O 8.
+Be2 Na6 9. O-O-O Bd7 10. Qb3 Rb8 11. c5+ Kh8 12. cxd6 e6 13. Ng5 Qe8 14.
+Bc4 Nd5 15. Nxd5 cxd5 16. Bxa6 Ba4 17. Qa3 Qc6+ 18. Qc3 Qxa6 19. Kb1 Bxd1
+20. Rxd1 Rbc8 21. Qb3 Rc4 22. Nxe6 Rfc8 23. Be5 Qc6 24. Bxg7+ Kg8 25. a3
+Qxd6 26. Be5 Qxe6 27. Qxb7 Qf7 28. Qxf7+ Kxf7 29. Bd6 Rc2 30. Bc5 Rxf2 31.
+Bxa7 Rcc2 32. b4 Rb2+ 33. Ka1 Ra2+ 34. Kb1 Rxa3 35. Bc5 Rb3+ 36. Ka1 Rxg2
+37. Rb1 Ra3# 0-1
+

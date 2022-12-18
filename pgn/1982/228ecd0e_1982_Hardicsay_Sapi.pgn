@@ -1,0 +1,20 @@
+[Event "Hungary"]
+[Site "Hungary"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Hardicsay, Peter"]
+[Black "Sapi, Laszlo"]
+[Result "1/2-1/2"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra gambit"]
+[HashCode "228ecd0e"]
+[Epoch "Rook"]
+[WhiteID "700622"]
+[BlackID "701513"]
+[WhiteCountry "HUN"]
+[BlackCountry "HUN"]
+
+1. e4 c5 2. d4 cxd4 3. c3 Nf6 4. e5 Nd5 5. Nf3 Nc6 6. Bc4 Nb6 7. Bb3 d5 8. exd6
+Qxd6 9. O-O Be6 10. Bxe6 Qxe6 11. cxd4 Rd8 12. Nc3 Qc4 13. Be3 e6 14. Qb1 Be7
+15. Rc1 Nd5 16. Ne4 1/2-1/2

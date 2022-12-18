@@ -1,0 +1,19 @@
+[Event "Lone Pine open"]
+[Site "Lone Pine open"]
+[Date "1980.03.01"]
+[Round "1"]
+[White "Shamkovich, Leonid"]
+[Black "Arnason, J."]
+[Result "1-0"]
+[ECO "B43"]
+[Opening "Sicilian"]
+[Variation "Kan, 5.Nc3"]
+[HashCode "fd051dbc"]
+[Epoch "Rook"]
+[WhiteCountry "RUS"]
+[BlackCountry "ISL"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 Qc7 6. Be2 b5 7. O-O Bb7 8. Bf3
+Nc6 9. Nxc6 dxc6 10. e5 Qxe5 11. Re1 Qc7 12. Bh5 Be7 13. Rxe6 g6 14. Qd4 fxe6
+15. Bf4 Bf6 16. Qe3 Qe7 17. Bg4 e5 18. Bg3 h5 19. Bf3 h4 20. Bf4 exf4 21. Qb6
+Bxc3 22. Bxc6+ Kf8 1-0

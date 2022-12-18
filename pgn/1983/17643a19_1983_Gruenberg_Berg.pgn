@@ -1,0 +1,19 @@
+[Event "Hamburg"]
+[Site "Hamburg"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Gruenberg, Rainer"]
+[Black "Berg, Klaus"]
+[Result "0-1"]
+[ECO "A50"]
+[Opening "Queen's pawn game"]
+[HashCode "17643a19"]
+[Epoch "Rook"]
+[BlackID "1400053"]
+[BlackCountry "DEN"]
+[WhiteID "4601262"]
+[WhiteCountry "GER"]
+
+1. d4 Nf6 2. c4 a6 3. f3 c5 4. d5 b5 5. e4 d6 6. cxb5 g6 7. Na3 Bg7 8. Ne2 O-O
+9. Nc3 Nbd7 10. Bg5 axb5 11. Bxb5 Ba6 12. Nc4 Nxe4 13. fxe4 Bxc3+ 14. bxc3 Bxb5
+15. Ne3 Ne5 16. Ng4 Qa5 0-1

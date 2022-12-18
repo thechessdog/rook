@@ -1,0 +1,26 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Beliavsky, Alexander G"]
+[Black "Lutikov, Anatoly S"]
+[Result "1-0"]
+[ECO "C76"]
+[Opening "Ruy Lopez"]
+[Variation "modern Steinitz defence, fianchetto (Bronstein) variation"]
+[HashCode "816a84fc"]
+[Epoch "Rook"]
+[WhiteID "14602377"]
+[WhiteCountry "SLO"]
+[BlackCountry "RUS"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. c3 Bd7 6. d4 g6 7. Be3 Nf6 8. Nbd2
+Ng4 9. Bg5 Be7 10. Bxe7 Qxe7 11. O-O O-O 12. Re1 Nf6 13. h3 Rfe8 14. Bb3 Na5
+15. Bc2 c5 16. d5 Rec8 17. b3 Nh5 18. Nf1 Nf4 19. Ne3 b5 20. Kh2 Kh8 21. Ng1
+Rf8 22. g3 Nh5 23. Ng2 Qg5 24. Re3 Qh6 25. Qd2 f5 26. exf5 gxf5 27. f4 Nf6 28.
+Re2 Nb7 29. fxe5 Ng4+ 30. Kh1 Qxd2 31. Rxd2 Nxe5 32. Rf1 a5 33. Ne3 c4 34. bxc4
+b4 35. Rdf2 Nc5 36. Kg2 bxc3 37. Ne2 Ncd3 38. Bxd3 Nxd3 39. Rf3 Ne5 40. Rf4
+Rfe8 41. Nxc3 Nd3 42. R4f3 Ne5 43. R3f2 Rac8 44. Rb1 Nd3 45. Rf3 Ne5 46. Rb6
+Rcd8 47. Rxd6 f4 48. gxf4 Nxf3 49. Kxf3 Bg4+ 50. hxg4 Rxd6 51. g5 Rg6 52. Ne4
+Rb6 53. c5 Rb4 54. Nd6 Re7 55. c6 a4 56. Ndc4 Rc7 57. a3 Rb5 58. Ke4 Rc5 59.
+Ne5 1-0

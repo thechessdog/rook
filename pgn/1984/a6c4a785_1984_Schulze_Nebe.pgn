@@ -1,0 +1,20 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Schulze, Ulrich"]
+[Black "Nebe"]
+[Result "1/2-1/2"]
+[ECO "B25"]
+[Opening "Sicilian"]
+[Variation "closed, 6.f4"]
+[HashCode "a6c4a785"]
+[Epoch "Rook"]
+[WhiteID "4600525"]
+[WhiteCountry "GER"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. f4 e6 7. Nf3 Nge7 8. O-O
+O-O 9. Bd2 Rb8 10. Rb1 b5 11. a3 f5 12. b4 Qb6 13. Kh1 d5 14. e5 d4 15. Ne2 a5
+16. bxc5 Qxc5 17. a4 bxa4 18. Rxb8 Nxb8 19. Nexd4 Rd8 20. Qa1 a3 21. Qc3 Qxc3
+22. Bxc3 Nec6 23. Ra1 Bf8 24. Nb5 Nb4 25. Nxa3 Nxd3 26. cxd3 Rxd3 27. Bxa5 Rxa3
+28. Rxa3 Bxa3 29. Nd4 1/2-1/2

@@ -1,0 +1,22 @@
+[Event "SVK-ch"]
+[Site "Detva"]
+[Date "1977.??.??"]
+[Round "4"]
+[White "Petrik, Stanislav"]
+[Black "Franzen, Jozef"]
+[Result "0-1"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical (two knights) system"]
+[HashCode "8bd55ecf"]
+[Epoch "Rook"]
+[WhiteID "14901366"]
+[WhiteCountry "SVK"]
+[BlackID "14900181"]
+[BlackCountry "SVK"]
+
+1. e4 g6 2. d4 Bg7 3. Nf3 d6 4. Nc3 Nf6 5. Bc4 O-O 6. Qe2 c6 7. e5 dxe5 8. dxe5
+Nd5 9. Nxd5 cxd5 10. Bb3 Nc6 11. h3 a5 12. c3 a4 13. Bc2 d4 14. Bd2 Qb6 15. Rb1
+Be6 16. b3 axb3 17. Bxb3 Bxb3 18. axb3 Ra2 19. c4 e6 20. O-O Nxe5 21. Nxe5 Bxe5
+22. Qd3 Bg7 23. b4 e5 24. Bc1 Qe6 25. Qb3 Rfa8 26. c5 Qxb3 27. Rxb3 Rc2 28. Ba3
+Bf8 29. Re1 Rc3 30. Reb1 Rxa3 0-1

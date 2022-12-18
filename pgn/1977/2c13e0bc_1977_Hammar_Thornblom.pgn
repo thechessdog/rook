@@ -1,0 +1,17 @@
+[Event "Sweden"]
+[Site "Sweden"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Hammar, Bengt"]
+[Black "Thornblom, Nils"]
+[Result "1/2-1/2"]
+[ECO "C10"]
+[Opening "French"]
+[Variation "Rubinstein variation"]
+[HashCode "2c13e0bc"]
+[Epoch "Rook"]
+[WhiteID "1700391"]
+[WhiteCountry "SWE"]
+
+1. e4 e6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Bg5 Be7 6. Nxf6+ Bxf6 7. Bxf6 Qxf6
+8. Nf3 O-O 9. Bd3 Nd7 10. O-O e5 11. Nxe5 Nxe5 12. dxe5 Qxe5 1/2-1/2

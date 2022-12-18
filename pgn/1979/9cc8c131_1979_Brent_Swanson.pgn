@@ -1,0 +1,19 @@
+[Event "corr APCT"]
+[Site "corr APCT"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Brent, M."]
+[Black "Swanson, V."]
+[Result "1-0"]
+[ECO "C80"]
+[Opening "Ruy Lopez"]
+[Variation "open, Bernstein variation"]
+[HashCode "9cc8c131"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8.
+dxe5 Be6 9. Nbd2 Nc5 10. c3 Nd3 11. Bc2 Ncxe5 12. Nxe5 Nxe5 13. Re1 Bd6 14.
+f4 Nc4 15. Nxc4 dxc4 16. Qh5 g6 17. Bxg6 fxg6 18. Qd5 O-O 19. Rxe6 Rf7 20.
+Qe4 Qf8 21. g3 g5 22. fxg5 Rf1+ 23. Kg2 Rd8 24. g6 Qf2+ 25. Kh3 Rg1 26.
+gxh7+ Kh8 27. Bf4 1-0
+

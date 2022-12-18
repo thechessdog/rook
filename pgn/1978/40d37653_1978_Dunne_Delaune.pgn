@@ -1,0 +1,18 @@
+[Event "corr ch-North America"]
+[Site "corr ch-North America"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Dunne, Alex"]
+[Black "Delaune, Richard"]
+[Result "0-1"]
+[ECO "B71"]
+[Opening "Sicilian"]
+[Variation "dragon, Levenfish variation"]
+[HashCode "40d37653"]
+[Epoch "Rook"]
+[WhiteID "2004330"]
+[WhiteCountry "USA"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. f4 Nc6 7. Be2 Bg7 8. Be3
+O-O 9. Nb3 Be6 10. g4 Na5 11. g5 Nd7 12. h4 Nc4 13. Bd4 f6 14. Bxc4 Bxc4 15. h5
+e5 16. Be3 exf4 17. Bxf4 fxg5 18. Bxd6 Qf6 19. Bxf8 Rxf8 20. Ne2 Ne5 0-1

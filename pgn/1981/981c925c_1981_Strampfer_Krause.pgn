@@ -1,0 +1,23 @@
+[Event "Regionalliga Nord"]
+[Site "RLN 8081"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Strampfer, J."]
+[Black "Krause, Ullrich"]
+[Result "1-0"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "classical variation"]
+[HashCode "981c925c"]
+[Epoch "Rook"]
+[BlackID "4613058"]
+[BlackCountry "GER"]
+
+1. b3 d5 2. e3 e6 3. Bb2 Nf6 4. f4 Be7 5. Nf3 O-O 6. g3 c5 7. Bg2 Nc6 8. Qe2 a6
+9. O-O b5 10. d3 Bb7 11. h3 Qb6 12. g4 Nd7 13. Nbd2 Rac8 14. h4 Bf6 15. Bxf6
+Nxf6 16. Ng5 Na5 17. f5 exf5 18. Rxf5 c4 19. bxc4 dxc4 20. Bxb7 Nxb7 21. Raf1
+cxd3 22. Qxd3 Nxg4 23. Rc5 Qg6 24. Rxc8 Rxc8 25. Qd7 Rf8 26. Qxg4 h6 27. Qg2
+hxg5 28. Qxb7 gxh4+ 29. Qg2 Qxc2 30. Rf2 Qxa2 31. Ne4 Qa1+ 32. Kh2 Qe5+ 33. Rf4
+f6 34. Qg6 Qc7 35. Kh3 Qd7+ 36. Kxh4 Qd1 37. Ng3 Qe1 38. Re4 Qf2 39. Re7 Qh2+
+40. Kg4 Qh6 41. Qxh6 gxh6 42. Ra7 Re8 43. Nf5 Re4+ 44. Kh5 Re6 45. Kg6 Kf8 46.
+Rf7+ Ke8 47. Ng7+ 1-0

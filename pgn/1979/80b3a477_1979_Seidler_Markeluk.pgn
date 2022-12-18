@@ -1,0 +1,20 @@
+[Event "Mar del Plata GP2"]
+[Site "Mar del Plata GP2"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Seidler, Horacio"]
+[Black "Markeluk, Sergio"]
+[Result "1-0"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "80b3a477"]
+[Epoch "Rook"]
+[BlackID "100447"]
+[BlackCountry "ARG"]
+
+1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. d4 e6 5. Nf3 Nc6 6. Be3 cxd4 7. cxd4 Nf6 8.
+Nc3 Qd8 9. a3 Be7 10. Bd3 O-O 11. Bc2 b6 12. Qd3 g6 13. h4 Re8 14. h5 Bf8 15.
+hxg6 hxg6 16. O-O-O Bb7 17. Bg5 Rc8 18. Ne5 Nxe5 19. Qh3 Nd3+ 20. Rxd3 Bg7 21.
+Qh4 Bxg2 22. Rh2 Bb7 23. Rdh3 Rc4 24. Qf4 Kf8 25. Rh8+ Ke7 26. R8h7 e5 27.
+Qxe5+ Kf8 28. Rxg7 Rxe5 29. dxe5 1-0

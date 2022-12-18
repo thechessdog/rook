@@ -1,0 +1,20 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Gallinnis, N."]
+[Black "Frese, N."]
+[Result "1-0"]
+[ECO "C41"]
+[Opening "Philidor"]
+[Variation "exchange variation"]
+[HashCode "134c7c01"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 d6 3. d4 exd4 4. Nxd4 c5 5. Bb5+ Bd7 6. Bxd7+ Nxd7 7. Nf3
+Ngf6 8. Nc3 a6 9. Bf4 Nb6 10. O-O Be7 11. Qd3 Nh5 12. Be3 O-O 13. Rad1 c4
+14. Qd4 Nd7 15. Qxc4 b5 16. Qd3 Ne5 17. Nxe5 dxe5 18. Qxd8 Rfxd8 19. Bb6
+Rxd1 20. Rxd1 Nf6 21. Bc7 Bb4 22. Nd5 Nxd5 23. exd5 Be7 24. Bxe5 Bf6 25.
+Bxf6 gxf6 26. Rd4 Rd8 27. Kf1 Kg7 28. b3 Kg6 29. c4 bxc4 30. bxc4 f5 31. c5
+Kf6 32. f4 Ke7 33. Ke2 Rc8 1-0
+

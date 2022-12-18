@@ -1,0 +1,18 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Neubert"]
+[Black "Hattendorf"]
+[Result "1-0"]
+[ECO "C24"]
+[Opening "Bishop's opening"]
+[Variation "Berlin defence"]
+[HashCode "49186527"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Bc4 Nf6 3. d3 c6 4. Qe2 Be7 5. Nf3 d5 6. exd5 Bg4 7. dxc6 Nxc6
+8. Be3 O-O 9. Nbd2 Nd5 10. h3 Be6 11. O-O a6 12. Bb3 f5 13. Nxe5 Nxe5 14.
+Bd4 Nf7 15. Qxe6 Nf4 16. Qe1 Re8 17. Nf3 Bf6 18. Bxf6 Qxf6 19. Qb4 Ne2+ 20.
+Kh1 Re7 21. d4 g5 22. Ne5 1-0
+

@@ -1,0 +1,19 @@
+[Event "Budapest ch-HUN"]
+[Site "Budapest ch-HUN"]
+[Date "1977.11.01"]
+[Round "1"]
+[White "Farago, Ivan"]
+[Black "Barczay, Laszlo"]
+[Result "0-1"]
+[ECO "E54"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Gligoric system, Smyslov variation"]
+[HashCode "a69ded25"]
+[Epoch "Rook"]
+[WhiteID "700134"]
+[WhiteCountry "HUN"]
+[BlackCountry "HUN"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 O-O 6. Nf3 d5 7. O-O dxc4 8. Bxc4
+Qe7 9. a3 Ba5 10. Qd3 Nbd7 11. Ne4 Bc7 12. Nxc5 Nxc5 13. dxc5 Qxc5 14. b4 Qe7
+15. Bb2 e5 16. Ng5 e4 17. Qc3 h6 18. Nxf7 Rxf7 19. Rac1 Be6 0-1

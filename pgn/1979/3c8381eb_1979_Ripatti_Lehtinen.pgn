@@ -1,0 +1,19 @@
+[Event "corr EH"]
+[Site "corr EH"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Ripatti, Markku"]
+[Black "Lehtinen, Pauli"]
+[Result "1-0"]
+[ECO "C51"]
+[Opening "Evans gambit"]
+[Variation "Cordel variation"]
+[HashCode "3c8381eb"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 Bxb4 5. c3 Be7 6. d4 Na5 7. Nxe5 Nxc4
+8. Nxc4 d5 9. exd5 Qxd5 10. Ne3 Qa5 11. O-O Nf6 12. Re1 Be6 13. c4 c6 14.
+a4 O-O 15. Nd2 Rad8 16. Nf3 Bb4 17. Re2 Ne4 18. Qb3 b5 19. Bb2 Nc3 20. Bxc3
+Bxc3 21. Rc1 Bxd4 22. Nxd4 Rxd4 23. axb5 cxb5 24. Qb2 Bxc4 25. Qxd4 Bxe2
+26. Nf5 1-0
+

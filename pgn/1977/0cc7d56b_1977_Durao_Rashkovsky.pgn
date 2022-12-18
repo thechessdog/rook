@@ -1,0 +1,19 @@
+[Event "Sochi"]
+[Site "Sochi"]
+[Date "1977.??.??"]
+[Round "6"]
+[White "Durão, Joaquim Manuel"]
+[Black "Rashkovsky, Nukhim N"]
+[Result "1/2-1/2"]
+[ECO "B93"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.f4"]
+[HashCode "0cc7d56b"]
+[Epoch "Rook"]
+[BlackID "4100603"]
+[BlackCountry "RUS"]
+[WhiteCountry "PRT"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 Qc7 7. Bd3 g6 8. O-O
+Bg7 9. Nf3 Nbd7 10. Qe1 O-O 11. Kh1 b5 12. Qh4 Bb7 13. f5 e6 14. Bd2 Rae8 15.
+fxg6 fxg6 16. a4 b4 17. Ne2 a5 18. Ned4 Nc5 1/2-1/2

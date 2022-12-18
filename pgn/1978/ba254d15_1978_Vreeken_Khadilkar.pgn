@@ -1,0 +1,19 @@
+[Event "Buenos Aires olm"]
+[Site "Buenos Aires olm"]
+[Date "1978.10.01"]
+[Round "1"]
+[White "Vreeken, C."]
+[Black "Khadilkar, J."]
+[Result "1-0"]
+[ECO "C64"]
+[Opening "Ruy Lopez"]
+[Variation "classical (Cordel) defence"]
+[HashCode "ba254d15"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. O-O Nd4 5. Nxd4 Bxd4 6. c3 Bb6 7. d4 c6
+8. Ba4 d6 9. Na3 Be6 10. Nc2 Nf6 11. Qe2 h6 12. f4 Bc7 13. f5 Bd7 14. Qf3
+c5 15. Bxd7+ Qxd7 16. Kh1 cxd4 17. cxd4 Qc6 18. dxe5 dxe5 19. Nb4 Qxe4 20.
+Qb3 O-O 21. Be3 a5 22. Nc2 a4 23. Qc3 Ba5 24. b4 Rfc8 25. Bc5 Nd5 26. Qg3
+Qxc2 27. f6 g6 28. Qh3 Kh7 29. Qd7 Kg8 30. Qxd5 b6 31. Be7 1-0
+

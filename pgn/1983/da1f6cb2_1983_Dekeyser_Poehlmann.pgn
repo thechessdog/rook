@@ -1,0 +1,18 @@
+[Event "corr EU/M"]
+[Site "corr EU/M"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Dekeyser"]
+[Black "Poehlmann"]
+[Result "0-1"]
+[ECO "E54"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Gligoric system with 7...dc"]
+[HashCode "da1f6cb2"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 O-O 6. Nf3 d5 7. O-O dxc4 8.
+Bxc4 cxd4 9. exd4 b6 10. Qe2 Bb7 11. Bg5 Bxc3 12. bxc3 Nbd7 13. Rac1 Qc7
+14. Ne5 Nxe5 15. dxe5 Ne4 16. Bf4 Qc6 17. f3 Rac8 18. Bd3 Nxc3 19. Qe1 Qd7
+20. Qe3 Nxa2 21. Rcd1 Bd5 0-1
+

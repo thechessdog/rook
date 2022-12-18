@@ -1,0 +1,16 @@
+[Event "corr NS/II"]
+[Site "corr NS/II"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Ojala, Teuvo"]
+[Black "Wennerstrom, Rainer"]
+[Result "1-0"]
+[ECO "A58"]
+[Opening "Benko gambit accepted"]
+[HashCode "ff9ff804"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. bxa6 Bxa6 6. Nc3 Qb6 7. g3 e5 8.
+Bg2 d6 9. e4 Bc4 10. Nge2 Na6 11. Qa4+ Nd7 12. Qxc4 Nb4 13. O-O Be7 14. Nb5
+O-O 15. a4 1-0
+

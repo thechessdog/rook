@@ -1,0 +1,23 @@
+[Event "Duitsland tt"]
+[Site "Duitsland tt"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Steinbacher, Matthias, Dr."]
+[Black "Fahnenschmidt, Gerhard"]
+[Result "0-1"]
+[ECO "E48"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 O-O, 5.Bd3 d5"]
+[HashCode "bec9b5d0"]
+[Epoch "Rook"]
+[WhiteID "4600908"]
+[BlackID "4600568"]
+[WhiteCountry "GER"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. a3 Bd6 7. Nf3 dxc4 8. Bxc4
+Nc6 9. e4 e5 10. d5 Na5 11. Be2 c5 12. Bg5 Bd7 13. Nd2 Rc8 14. b3 h6 15. Bh4 a6
+16. O-O b5 17. Qb1 c4 18. b4 Nb7 19. Qc2 Qe7 20. Rfb1 Ra8 21. Nf1 a5 22. bxa5
+Nxa5 23. Nxb5 Nb3 24. Nxd6 Nxa1 25. Rxa1 Qxd6 26. Ne3 Rxa3 27. Rc1 Rc8 28. Nxc4
+Bb5 29. Bxf6 gxf6 30. g3 Qa6 31. d6 Ra2 32. Qd1 Rxe2 33. d7 Bxd7 34. Qxe2 Be6
+35. Qf3 Kg7 0-1

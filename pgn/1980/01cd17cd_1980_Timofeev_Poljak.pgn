@@ -1,0 +1,20 @@
+[Event "corr tt"]
+[Site "corr tt"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Timofeev"]
+[Black "Poljak"]
+[Result "1-0"]
+[ECO "B33"]
+[Opening "Sicilian"]
+[Variation "Pelikan (Lasker/Sveshnikov) variation"]
+[HashCode "01cd17cd"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 Be6
+8. Nd5 Rc8 9. c4 a6 10. Nbc3 Nd4 11. Bd3 h6 12. Bxf6 gxf6 13. O-O f5 14. f4
+fxe4 15. Nxe4 Bg7 16. fxe5 dxe5 17. Nef6+ Kf8 18. Qh5 Nc6 19. Bf5 Bxd5 20.
+Nxd5 Rc7 21. Be6 f6 22. Rf2 Re7 23. Nxe7 Qxe7 24. Bd5 Qe8 25. Qh4 Qe7 26.
+Bxc6 bxc6 27. Rd1 Kf7 28. Qh5+ Kg8 29. Qg6 Rh7 30. Rfd2 Kh8 31. Rd7 Qc5+
+32. Kh1 1-0
+

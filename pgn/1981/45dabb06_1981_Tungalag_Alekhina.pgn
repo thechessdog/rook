@@ -1,0 +1,18 @@
+[Event "Sochi"]
+[Site "Sochi"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Tungalag, Suiri"]
+[Black "Alekhina, Natalia V"]
+[Result "0-1"]
+[ECO "A31"]
+[Opening "English"]
+[Variation "symmetrical, Benoni formation"]
+[HashCode "45dabb06"]
+[Epoch "Rook"]
+[BlackID "4108868"]
+[BlackCountry "RUS"]
+
+1. d4 Nf6 2. c4 c5 3. Nf3 cxd4 4. Nxd4 e5 5. Nb5 d5 6. cxd5 Bc5 7. d6 O-O 8.
+Nc7 Ne4 9. e3 Bb4+ 10. Ke2 Qh4 11. f3 Qf2+ 12. Kd3 Nxd6 13. Qe2 Bf5+ 14. e4
+Qd4+ 15. Kc2 Rc8 16. Nc3 Rxc7 17. exf5 Bxc3 18. bxc3 Qxc3+ 0-1

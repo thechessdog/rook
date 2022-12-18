@@ -1,0 +1,17 @@
+[Event "Minsk"]
+[Site "Minsk"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Malisov"]
+[Black "Mochalov"]
+[Result "0-1"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack"]
+[HashCode "c415620b"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 c5 4. Bxf6 gxf6 5. e4 dxe4 6. dxc5 Qa5 7. Qh5
+Bg7 8. Bb5+ Nc6 9. Ne2 O-O 10. Bxc6 bxc6 11. O-O f5 12. Ng3 Qxc5 13. Ncxe4
+Qb5 14. a4 Qc4 15. b3 Qxc2 16. Rac1 Qxb3 17. Nxf5 Bxf5 18. Qxf5 Qd5 19. Qf3
+Bd4 20. Rfd1 Rad8 21. Rc5 Bxf2+ 22. Kxf2 Qxd1 23. Rc3 Qxf3+ 0-1
+

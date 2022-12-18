@@ -1,0 +1,20 @@
+[Event "Zagreb"]
+[Site "Zagreb"]
+[Date "1977.01.01"]
+[Round "10"]
+[White "Marangunic, Srdjan"]
+[Black "Knezevic, Milorad"]
+[Result "1/2-1/2"]
+[ECO "A36"]
+[Opening "English"]
+[Variation "symmetrical, Botvinnik system reversed"]
+[HashCode "6282c639"]
+[Epoch "Rook"]
+[WhiteID "14500159"]
+[WhiteCountry "CRO"]
+[BlackID "950238"]
+[BlackCountry "SRB"]
+
+1. g3 c5 2. Bg2 Nc6 3. c4 g6 4. Nc3 Bg7 5. e3 e5 6. Nge2 Nge7 7. d3 d6 8. O-O
+O-O 9. a3 Be6 10. Nd5 Qd7 11. Nec3 Bg4 12. Qc2 Nxd5 13. Nxd5 Bh3 14. Rb1 Bxg2
+15. Kxg2 Rfe8 1/2-1/2

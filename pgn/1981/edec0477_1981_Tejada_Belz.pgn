@@ -1,0 +1,18 @@
+[Event "corr WER/C"]
+[Site "corr WER/C"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Tejada"]
+[Black "Belz"]
+[Result "1-0"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Lipnitzky attack"]
+[HashCode "edec0477"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Be3 b5 8.
+Bb3 b4 9. Na4 Nxe4 10. Nxe6 Bxe6 11. Qf3 d5 12. Nb6 Ra7 13. Ba4+ Bd7 14.
+Nxd7 Rxd7 15. Qf5 Qe7 16. Qxd5 Nc5 17. Bxd7+ Nbxd7 18. O-O-O Qe4 19. Qd2
+Be7 20. Rhe1 Qa8 21. Bxc5 Nxc5 22. Rxe7+ Kxe7 23. Qd6+ Ke8 24. Qxc5 1-0
+

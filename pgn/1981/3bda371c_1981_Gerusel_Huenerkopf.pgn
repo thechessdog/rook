@@ -1,0 +1,23 @@
+[Event "Bundesliga 8081"]
+[Site "Duitsland tt"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Gerusel, Mathias"]
+[Black "Huenerkopf, Heinz"]
+[Result "1-0"]
+[ECO "D82"]
+[Opening "Gruenfeld"]
+[Variation "4.Bf4"]
+[HashCode "3bda371c"]
+[Epoch "Rook"]
+[WhiteID "4601122"]
+[WhiteCountry "GER"]
+[BlackID "4603443"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Bf4 Bg7 5. e3 c5 6. dxc5 Qa5 7. Qa4+ Qxa4 8.
+Nxa4 Ne4 9. f3 Bd7 10. fxe4 Bxa4 11. Bxb8 Rxb8 12. exd5 Bxb2 13. Rb1 Bc3+ 14.
+Kf2 O-O 15. Ne2 Be5 16. Rb4 Bd7 17. Nc1 Rfc8 18. Nd3 Bg7 19. Be2 a5 20. Rb6 e5
+21. Rhb1 e4 22. c6 exd3 23. cxd7 Rd8 24. Rxb7 Rxb7 25. Rxb7 dxe2 26. Rc7 Kf8
+27. d6 f5 28. Rc8 Bf6 29. c5 Kf7 30. c6 Ke6 31. c7 Kxd7 32. cxd8=Q+ Bxd8 33.
+Ra8 Bb6 34. Kxe2 Kxd6 35. Rh8 1-0

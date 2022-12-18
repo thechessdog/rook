@@ -1,0 +1,19 @@
+[Event "Plovdiv"]
+[Site "Plovdiv"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Velikov, Petar"]
+[Black "Tringov, Georgi P"]
+[Result "1/2-1/2"]
+[ECO "E69"]
+[Opening "King's Indian"]
+[Variation "fianchetto, classical main line"]
+[HashCode "03c54a9a"]
+[Epoch "Rook"]
+[WhiteID "2900149"]
+[WhiteCountry "FID"]
+[BlackCountry "BGR"]
+
+1. d4 Nf6 2. Nf3 g6 3. g3 Bg7 4. Bg2 O-O 5. O-O d6 6. c4 c6 7. Nc3 Nbd7 8. h3
+e5 9. e4 Qb6 10. Re1 exd4 11. Nxd4 Re8 12. Nb3 Ne5 13. Qxd6 Nxc4 14. Qc5 Be6
+15. Na4 Qxc5 16. Naxc5 1/2-1/2

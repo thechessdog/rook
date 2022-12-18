@@ -1,0 +1,17 @@
+[Event "North Wilkesboro,NC"]
+[Site "North Wilkesboro,NC"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Wall, Bill"]
+[Black "Hamilton"]
+[Result "1-0"]
+[ECO "C41"]
+[Opening "Philidor"]
+[Variation "Hanham variation"]
+[HashCode "9aba3951"]
+[Epoch "Rook"]
+[WhiteCountry "USA"]
+
+1. e4 e5 2. Nf3 d6 3. d4 Nd7 4. dxe5 dxe5 5. Nc3 Ngf6 6. Bc4 Be7 7. Bxf7+ Kxf7
+8. Ng5+ Kg6 9. Ne6 Qg8 10. Nxc7 Rb8 11. N7d5 Bc5 12. b4 Bd6 13. Nxf6 Nxf6 14.
+Qxd6 1-0

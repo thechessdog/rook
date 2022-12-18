@@ -1,0 +1,20 @@
+[Event "Dortmund"]
+[Site "Dortmund"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Giorgadze, Tamaz"]
+[Black "Zapata, Alonso"]
+[Result "1/2-1/2"]
+[ECO "E70"]
+[Opening "King's Indian"]
+[Variation "4.e4"]
+[HashCode "2cddaddf"]
+[Epoch "Rook"]
+[WhiteID "13600028"]
+[BlackID "4400011"]
+[WhiteCountry "GEO"]
+[BlackCountry "COL"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 O-O 5. f3 c5 6. d5 d6 7. Bg5 e6 8. Qd2 exd5
+9. cxd5 a6 10. a4 Re8 11. Nge2 Nbd7 12. Ng3 Qa5 13. Be2 Ne5 14. O-O Qb4 15. a5
+b5 16. axb6 Qxb6 17. Be3 Qb7 18. h3 Ned7 19. Ra2 Nb6 20. Rfa1 Nfxd5 1/2-1/2

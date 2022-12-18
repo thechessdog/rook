@@ -1,0 +1,18 @@
+[Event "Statesville,NC"]
+[Site "Statesville,NC"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Wall, Bill"]
+[Black "Bell, Tom"]
+[Result "1-0"]
+[ECO "B20"]
+[Opening "Sicilian"]
+[Variation "Steinitz variation"]
+[HashCode "79c48368"]
+[Epoch "Rook"]
+[WhiteCountry "USA"]
+
+1. e4 c5 2. g3 Nc6 3. Bg2 e5 4. Ne2 Nf6 5. O-O d6 6. f4 Bg4 7. Nbc3 Be7 8. d3
+O-O 9. a3 Nd4 10. fxe5 dxe5 11. h3 Nxe2+ 12. Nxe2 Bxe2 13. Qxe2 Nd7 14. Qg4 Nf6
+15. Qg5 Nxe4 16. Qxe5 Nf6 17. Bg5 Qd4+ 18. Qxd4 cxd4 19. Bxb7 Rab8 20. Ba6 h6
+21. Rae1 hxg5 22. Rxe7 Rxb2 23. Rxa7 Rxc2 24. Bc4 Kh8 25. Bxf7 1-0

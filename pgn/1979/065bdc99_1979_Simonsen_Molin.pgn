@@ -1,0 +1,24 @@
+[Event "Hillerod"]
+[Site "Hillerod"]
+[Date "1979.01.01"]
+[Round "4"]
+[White "Simonsen, Per"]
+[Black "Molin, Claus"]
+[Result "0-1"]
+[ECO "B92"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Opovcensky variation"]
+[HashCode "065bdc99"]
+[Epoch "Rook"]
+[WhiteID "1406639"]
+[WhiteCountry "DEN"]
+[BlackID "1407783"]
+[BlackCountry "DEN"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8. O-O
+Be6 9. f4 exf4 10. Bxf4 Nc6 11. Kh1 O-O 12. Nd4 Nxd4 13. Qxd4 Qc7 14. Rad1 Rad8
+15. Rd3 Qc5 16. Qxc5 dxc5 17. Rg3 Kh8 18. Bg5 h6 19. Bf4 b5 20. e5 Nd5 21. Nxd5
+Rxd5 22. Ra3 g5 23. Bg3 Rd2 24. Bh5 Bd5 25. Rf2 Rxf2 26. Bxf2 Ra8 27. Rd3 Rd8
+28. b3 c4 29. Rd1 Kg8 30. Bb6 Rb8 31. Bc7 Rb7 32. Bd6 Be4 33. Rd4 Bxc2 34. Bf3
+Rd7 35. Bc6 Rd8 36. Rd2 Bg6 37. bxc4 bxc4 38. Bb7 c3 39. Rd1 c2 40. Rc1 Bxd6
+41. exd6 Rxd6 42. Kg1 Rb6 0-1

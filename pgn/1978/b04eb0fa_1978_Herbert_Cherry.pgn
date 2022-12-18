@@ -1,0 +1,18 @@
+[Event "corr GB"]
+[Site "corr GB"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Herbert, D."]
+[Black "Cherry, R."]
+[Result "1-0"]
+[ECO "B26"]
+[Opening "Sicilian"]
+[Variation "closed, 6.Be3"]
+[HashCode "b04eb0fa"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. Be3 e6 7. Qc1 h6 8.
+Nge2 Nge7 9. O-O Nd4 10. Rb1 e5 11. f4 Bg4 12. Qd2 Rb8 13. h3 Be6 14. g4 f5
+15. gxf5 gxf5 16. Ng3 Kd7 17. Kh2 Qe8 18. b4 b6 19. bxc5 dxc5 20. Nd5 Qf7
+21. Nxe7 Kxe7 22. c3 fxe4 23. dxe4 1-0
+

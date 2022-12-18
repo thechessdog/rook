@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Manzoni, Enrique"]
+[Black "Tapia, Ciro"]
+[Result "1-0"]
+[ECO "C69"]
+[Opening "Ruy Lopez"]
+[Variation "exchange variation, Alapin gambit"]
+[HashCode "29e9a363"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O Bg4 6. h3 h5 7. d3 Qf6 8.
+Nbd2 Ne7 9. Re1 Ng6 10. d4 Bd6 11. hxg4 hxg4 12. Nh2 Nf4 13. Ndf1 Rh4 14.
+Bxf4 exf4 15. e5 Qh6 16. exd6+ Kd7 17. g3 Rxh2 18. Qxg4+ Kxd6 19. Nxh2 g5
+20. c4 Rh8 21. c5+ 1-0
+

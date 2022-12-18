@@ -1,0 +1,17 @@
+[Event "Columbus,OH"]
+[Site "Columbus,OH"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Wiseman, M."]
+[Black "Lawton, C."]
+[Result "1-0"]
+[ECO "B07"]
+[Opening "Pirc"]
+[Variation "Byrne variation"]
+[HashCode "91cafb3a"]
+[Epoch "Rook"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Bg5 Bg7 5. f4 h6 6. Bh4 c5 7. e5 dxe5 8. dxe5
+Qxd1+ 9. Rxd1 Nfd7 10. Nd5 g5 11. Bg3 Kd8 12. fxg5 Nc6 13. e6 fxe6 14. Nc7 Bxb2
+15. Nxe6+ Ke8 16. Nc7+ Kd8 17. Bd3 Bc3+ 18. Kf1 Rf8+ 19. Nf3 Nd4 20. Nxa8 hxg5
+21. Bc7+ 1-0

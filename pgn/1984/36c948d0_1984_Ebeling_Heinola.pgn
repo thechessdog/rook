@@ -1,0 +1,22 @@
+[Event "corr Helsinki"]
+[Site "corr Helsinki"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Ebeling"]
+[Black "Heinola"]
+[Result "1-0"]
+[ECO "B00"]
+[Opening "KP"]
+[Variation "Nimzovich defence, Bogolyubov variation"]
+[HashCode "36c948d0"]
+[Epoch "Rook"]
+
+1. e4 Nc6 2. d4 d5 3. Nc3 e5 4. dxe5 d4 5. Nd5 f5 6. exf6 Nxf6 7. Bc4 Be6
+8. Bg5 Nxd5 9. Bxd8 Bb4+ 10. Qd2 Bxd2+ 11. Kxd2 Rxd8 12. Bxd5 Bxd5 13. exd5
+Rxd5 14. Re1+ Kf7 15. Nf3 Rhd8 16. Re4 Na5 17. Rhe1 c5 18. Rf4+ Kg8 19. Re7
+Rf8 20. Rxf8+ Kxf8 21. Rc7 a6 22. Kd3 b5 23. Kd2 Rh5 24. g4 Rh6 25. Rxc5
+Nc6 26. g5 Rd6 27. Ne5 Ne7 28. f4 g6 29. Ng4 Nf5 30. Re5 Rd8 31. Kd3 Rc8
+32. Nf6 Kf7 33. Ng4 Rc6 34. Nh6+ Kf8 35. Nxf5 gxf5 36. Rxf5+ Kg7 37. Rd5
+Kg6 38. Rxd4 Kf5 39. c3 Kg4 40. Ke3 Kh3 41. f5 Kxh2 42. f6 Kg3 43. f7 Rc8
+44. Rf4 Rf8 45. Ke4 1-0
+

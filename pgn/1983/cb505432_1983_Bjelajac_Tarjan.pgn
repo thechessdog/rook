@@ -1,0 +1,24 @@
+[Event "Vrsac"]
+[Site "Vrsac"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Bjelajac, Milan"]
+[Black "Tarjan, James"]
+[Result "0-1"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "cb505432"]
+[Epoch "Rook"]
+[BlackID "2000180"]
+[BlackCountry "USA"]
+[WhiteID "901261"]
+[WhiteCountry "SRB"]
+
+1. e4 c5 2. c3 e6 3. d4 d5 4. exd5 exd5 5. Nf3 Nc6 6. Be3 c4 7. b3 cxb3 8. axb3
+Bd6 9. Bd3 Nge7 10. O-O O-O 11. Nh4 Be6 12. f4 Ng6 13. Qh5 Qxh4 14. Bxg6 Qxh5
+15. Bxh5 Ne7 16. Bc1 Rfc8 17. Ba3 Bxa3 18. Rxa3 a5 19. Be2 Nf5 20. Bd3 Nd6 21.
+Rf2 Bd7 22. Rfa2 b6 23. Kf2 Nb5 24. Bxb5 Bxb5 25. Rb2 Bd7 26. c4 dxc4 27. bxc4
+Rxc4 28. Rxb6 Kf8 29. Ke3 Rc2 30. d5 Rxg2 31. Rb7 Bf5 32. d6 Re8+ 33. Kd4 Rd8
+34. Rxa5 Rxd6+ 35. Rd5 Rxd5+ 36. Kxd5 Rxh2 37. Nc3 g6 38. Rb8+ Kg7 39. Nb5 Rb2
+40. Kc5 Bd7 0-1

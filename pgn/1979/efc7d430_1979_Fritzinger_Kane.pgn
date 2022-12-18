@@ -1,0 +1,23 @@
+[Event "San Francisco"]
+[Site "San Francisco"]
+[Date "1979.01.01"]
+[Round "3"]
+[White "Fritzinger, Dennis"]
+[Black "Kane, George Francis"]
+[Result "1-0"]
+[ECO "C77"]
+[Opening "Ruy Lopez"]
+[Variation "Wormald (Alapin) attack"]
+[HashCode "efc7d430"]
+[Epoch "Rook"]
+[WhiteID "2004216"]
+[WhiteCountry "USA"]
+[BlackID "2001659"]
+[BlackCountry "USA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. Qe2 Be7 6. c3 b5 7. Bc2 d5 8. d3
+O-O 9. Nbd2 Re8 10. O-O Bb7 11. exd5 Nxd5 12. Re1 Qd7 13. Ne4 Bf8 14. Qf1 f5
+15. Ng3 g6 16. a4 Bg7 17. Bd2 h6 18. axb5 axb5 19. d4 e4 20. Qxb5 Rab8 21. Nh4
+Kh7 22. Nxg6 Kxg6 23. f3 Bc8 24. Qa4 Nb6 25. Qb3 Nxd4 26. cxd4 Qxd4+ 27. Be3
+Qxb2 28. Qxb2 Bxb2 29. Rad1 exf3 30. gxf3 Bc3 31. Re2 Nc4 32. Ba7 Rxe2 33. Nxe2
+Ra8 34. Nxc3 Rxa7 35. Rd8 Nd6 36. Kf2 Be6 37. Ne2 Ra4 38. Bxa4 1-0

@@ -1,0 +1,25 @@
+[Event "Sweden"]
+[Site "Sweden"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Bengtsson, Bo"]
+[Black "Jansson, Borje"]
+[Result "1-0"]
+[ECO "B02"]
+[Opening "Alekhine's defence"]
+[Variation "Saemisch attack"]
+[HashCode "b2ca8218"]
+[Epoch "Rook"]
+[WhiteID "1700804"]
+[BlackID "1700189"]
+[WhiteCountry "SWE"]
+[BlackCountry "SWE"]
+
+1. e4 Nf6 2. e5 Nd5 3. Nc3 Nxc3 4. dxc3 d6 5. Nf3 Nc6 6. Bc4 dxe5 7. Qxd8+ Nxd8
+8. Nxe5 f6 9. Nd3 e5 10. O-O Be6 11. Bxe6 Nxe6 12. Re1 O-O-O 13. Be3 g5 14. f3
+Be7 15. Bf2 Rd7 16. h4 h6 17. hxg5 hxg5 18. Be3 Bd6 19. c4 Bf8 20. Rad1 b6 21.
+a4 a5 22. b3 Be7 23. Kf2 Rg8 24. Rh1 g4 25. fxg4 Rxg4 26. Rh8+ Bd8 27. Rdh1
+Rdg7 28. R1h2 Kd7 29. c5 e4 30. Nb2 bxc5 31. R8h5 c6 32. R5h4 Nd4 33. Rxg4 Rxg4
+34. Nc4 Ke6 35. Rh8 Bc7 36. Rh5 Bg3+ 37. Kf1 f5 38. Rh6+ Kd7 39. Nxa5 Nxc2 40.
+Bxc5 Be5 41. Nc4 Bc7 42. a5 e3 43. Rh7+ Kc8 44. a6 Rf4+ 45. Ke2 Rf2+ 46. Kd3
+Ne1+ 47. Kxe3 Ra2 48. Rh8+ 1-0

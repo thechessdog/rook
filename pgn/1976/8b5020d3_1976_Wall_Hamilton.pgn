@@ -1,0 +1,16 @@
+[Event "North Wilkesboro,NC"]
+[Site "North Wilkesboro,NC"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Wall, Bill"]
+[Black "Hamilton, Howard"]
+[Result "1-0"]
+[ECO "D35"]
+[Opening "QGD"]
+[Variation "exchange variation"]
+[HashCode "8b5020d3"]
+[Epoch "Rook"]
+[WhiteCountry "USA"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. cxd5 Nxd5 5. Nxd5 exd5 6. Nf3 b6 7. e3 Bb7 8.
+Bd2 Be7 9. Bb5+ Nd7 10. Ne5 1-0

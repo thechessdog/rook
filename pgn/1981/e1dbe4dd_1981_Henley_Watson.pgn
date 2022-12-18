@@ -1,0 +1,21 @@
+[Event "Ed.Lasker mem"]
+[Site "New York"]
+[Date "1981.01.01"]
+[Round "10"]
+[White "Henley, Ron"]
+[Black "Watson, John L"]
+[Result "0-1"]
+[ECO "C05"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation"]
+[HashCode "e1dbe4dd"]
+[Epoch "Rook"]
+[WhiteID "2000318"]
+[WhiteCountry "USA"]
+[BlackCountry "USA"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. f4 c5 6. c3 Nc6 7. Ndf3 Qb6 8. g3 f6
+9. Bd3 cxd4 10. cxd4 Be7 11. Ne2 fxe5 12. fxe5 O-O 13. Nf4 Nxd4 14. Nxd4 Nxe5
+15. Nc2 Bb4+ 16. Bd2 Bxd2+ 17. Kxd2 Nxd3 18. Nxd3 e5 19. Kc1 Bf5 20. Kb1 Rac8
+21. Rf1 Qb5 22. Rxf5 Rxf5 23. a4 Qb6 24. a5 Qb5 25. Ra3 d4 26. Qh1 Rcf8 27. Qe4
+Rf1+ 28. Nde1 h6 29. Ka2 Qc4+ 30. Rb3 Qa4+ 0-1

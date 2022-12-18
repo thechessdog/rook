@@ -1,0 +1,20 @@
+[Event "Hungary"]
+[Site "Hungary"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Krnavek"]
+[Black "Hardicsay"]
+[Result "0-1"]
+[ECO "B31"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (with ...g6, without ...d6)"]
+[HashCode "fb719b3a"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. Re1 Nf6 6. c3 O-O 7. d4 cxd4 8.
+cxd4 d5 9. e5 Ne4 10. Nc3 Bf5 11. Bxc6 Nxc3 12. bxc3 bxc6 13. Nh4 Be6 14.
+f4 Qd7 15. Qf3 f6 16. Qg3 fxe5 17. fxe5 Rab8 18. Bf4 Rb2 19. Qe3 Bf5 20.
+Bh6 Be4 21. Bxg7 Kxg7 22. h3 Rff2 23. Qg3 c5 24. Rf1 Rxg2+ 25. Nxg2 Rxg2+
+26. Qxg2 Bxg2 27. Kxg2 cxd4 28. cxd4 Qa4 29. Rf4 Qc2+ 30. Kg1 Qc3 31. Raf1
+Qg3+ 32. Kh1 Qxh3+ 33. Kg1 Qg3+ 34. Kh1 h5 35. R1f3 Qe1+ 36. Kg2 h4 0-1
+

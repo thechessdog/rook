@@ -1,0 +1,20 @@
+[Event "Reykjavik op"]
+[Site "Reykjavik"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Josteinsson, Leifur"]
+[Black "Petursson, Margeir"]
+[Result "0-1"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "modern variation"]
+[HashCode "dc8679bb"]
+[Epoch "Rook"]
+[BlackID "2300028"]
+[BlackCountry "ISL"]
+
+1. b3 e5 2. Bb2 Nc6 3. e3 d5 4. Bb5 Bd6 5. Ne2 Nf6 6. d4 e4 7. c4 O-O 8. Bxc6
+bxc6 9. Ba3 a5 10. Qc1 Ba6 11. Bxd6 cxd6 12. c5 Nd7 13. cxd6 c5 14. Qd2 Qg5 15.
+Nf4 Rac8 16. Nc3 Qf6 17. Nfxd5 Qxd6 18. Nf4 cxd4 19. Nxe4 Qe5 20. Rd1 Qxe4 21.
+Qxa5 Qxf4 22. Qxa6 dxe3 23. O-O Ne5 24. f3 Rc2 25. Rde1 Rf2 26. Qa4 Nxf3+ 27.
+Kh1 Rxf1+ 28. Rxf1 Qxh2# 0-1

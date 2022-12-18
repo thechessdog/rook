@@ -1,0 +1,18 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Kuspiel, M."]
+[Black "Muenster, H."]
+[Result "1-0"]
+[ECO "C09"]
+[Opening "French"]
+[Variation "Tarrasch, open variation, main line"]
+[HashCode "d3e404e3"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. Ngf3 Nc6 5. exd5 exd5 6. Bb5 Bd6 7. dxc5
+Bxc5 8. O-O Ne7 9. Nb3 Bd6 10. Nbd4 O-O 11. Be3 Bg4 12. Qd2 Rc8 13. c3 Bb8
+14. Bf4 Nxd4 15. Nxd4 Bxf4 16. Qxf4 Bh5 17. Rfe1 Nc6 18. Nf5 Rc7 19. Bxc6
+bxc6 20. Qe5 f6 21. Nh6+ 1-0
+

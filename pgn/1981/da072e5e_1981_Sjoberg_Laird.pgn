@@ -1,0 +1,21 @@
+[Event "Gausdal Int"]
+[Site "Gausdal"]
+[Date "1981.??.??"]
+[Round "2"]
+[White "Sjoberg, Mats"]
+[Black "Laird, Craig"]
+[Result "1-0"]
+[ECO "D47"]
+[Opening "QGD semi-Slav"]
+[Variation "Meran, Wade variation"]
+[HashCode "da072e5e"]
+[Epoch "Rook"]
+[WhiteID "1700375"]
+[BlackID "3200159"]
+[WhiteCountry "SWE"]
+[BlackCountry "AUS"]
+
+1. d4 Nf6 2. c4 c6 3. Nc3 d5 4. Nf3 e6 5. e3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8. Bd3
+Bb7 9. O-O b4 10. Na4 c5 11. dxc5 Qa5 12. a3 Bxc5 13. Nxc5 Nxc5 14. Bc2 bxa3
+15. b4 Qxb4 16. Bxa3 Qc3 17. Qd6 Qxc2 18. Bxc5 Nd5 19. Rfc1 Qf5 20. Rxa7 Rd8
+21. Rxb7 Rxd6 22. Bxd6 Kd8 23. Ne5 1-0

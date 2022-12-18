@@ -1,0 +1,17 @@
+[Event "St Paul"]
+[Site "St Paul"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Cook, H."]
+[Black "Opland"]
+[Result "0-1"]
+[ECO "B07"]
+[Opening "Pirc"]
+[Variation "Ufimtsev-Pytel variation"]
+[HashCode "6a8e5419"]
+[Epoch "Rook"]
+
+1. e4 Nf6 2. Nc3 d6 3. d4 c6 4. Bg5 Qa5 5. Bd2 Qb6 6. e5 dxe5 7. dxe5 Ng4
+8. Ne4 Bf5 9. f3 Bxe4 10. fxg4 Bd5 11. Bc3 Nd7 12. Nf3 e6 13. Qd2 a5 14. a3
+Be7 15. O-O-O h6 16. Kb1 Nc5 17. Qd4 Rd8 18. Bc4 Bxf3 0-1
+

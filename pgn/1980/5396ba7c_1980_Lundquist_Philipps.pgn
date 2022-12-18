@@ -1,0 +1,16 @@
+[Event "Austria"]
+[Site "Austria"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Lundquist"]
+[Black "Philipps"]
+[Result "1-0"]
+[ECO "C15"]
+[Opening "French"]
+[Variation "Winawer, fingerslip variation"]
+[HashCode "5396ba7c"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. Bd2 dxe4 5. Qg4 Nf6 6. Qxg7 Rg8 7. Qh6 Qxd4
+8. O-O-O Ng4 9. Qh4 Qxf2 10. Qd8+ 1-0
+

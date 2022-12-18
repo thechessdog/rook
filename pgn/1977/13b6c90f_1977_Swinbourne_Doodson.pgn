@@ -1,0 +1,19 @@
+[Event "Manchester"]
+[Site "Manchester"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Swinbourne, W."]
+[Black "Doodson, C."]
+[Result "0-1"]
+[ECO "B02"]
+[Opening "Alekhine's defence"]
+[Variation "Maroczy variation"]
+[HashCode "13b6c90f"]
+[Epoch "Rook"]
+
+1. e4 Nf6 2. d3 d5 3. Nd2 dxe4 4. dxe4 e6 5. Ngf3 Bc5 6. Bc4 O-O 7. O-O b6
+8. Re1 Bb7 9. Bd3 Nbd7 10. e5 Ng4 11. Re2 f6 12. exf6 Ndxf6 13. h3 Nh6 14.
+Qe1 Bd5 15. Ng5 Qd7 16. Nxe6 Bxe6 17. Rxe6 Bxf2+ 18. Kxf2 Nfg4+ 19. Kg1
+Qd4+ 20. Kh1 Nf2+ 21. Kh2 Nhg4+ 22. hxg4 Nxg4+ 23. Kh1 Nf2+ 24. Kh2 Qh4+
+25. Kg1 Qh1# 0-1
+

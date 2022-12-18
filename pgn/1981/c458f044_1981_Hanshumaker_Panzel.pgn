@@ -1,0 +1,17 @@
+[Event "Cleveland,OH"]
+[Site "Cleveland,OH"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Hanshumaker, David"]
+[Black "Panzel, Kenneth"]
+[Result "0-1"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "classical attack"]
+[HashCode "c458f044"]
+[Epoch "Rook"]
+[BlackCountry "HUN"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Be7 7. O-O Nc6 8. c3
+Bg4 9. Re1 f5 10. Bb5 O-O 11. Qd3 Bd6 12. Bxc6 bxc6 13. Ne5 Qh4 14. g3 Qh3 15.
+f3 Bxe5 16. dxe5 f4 17. fxe4 f3 18. Be3 Qg2# 0-1

@@ -1,0 +1,19 @@
+[Event "Eindhoven"]
+[Site "Eindhoven"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Kuijf, H."]
+[Black "Van der Vliet, Fred"]
+[Result "1-0"]
+[ECO "B82"]
+[Opening "Sicilian"]
+[Variation "Scheveningen, 6.f4"]
+[HashCode "1565b4da"]
+[Epoch "Rook"]
+[BlackID "1000659"]
+[BlackCountry "NED"]
+
+1. e4 c5 2. Ne2 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. f4 a6 7. Qf3 Nbd7 8. Bd3
+e5 9. Nf5 b5 10. g4 g6 11. Ng3 h5 12. g5 exf4 13. e5 fxg3 14. exf6 Rb8 15. Bf4
+Ne5 16. Bxe5 dxe5 17. O-O-O Bd6 18. hxg3 Qb6 19. Bxg6 Bg4 20. Qd5 O-O 21. Bxf7+
+1-0

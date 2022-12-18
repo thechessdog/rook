@@ -1,0 +1,16 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Vehre, John"]
+[Black "Mann, Kenneth"]
+[Result "1-0"]
+[ECO "E04"]
+[Opening "Catalan"]
+[Variation "open, 5.Nf3"]
+[HashCode "b5011084"]
+[Epoch "Rook"]
+[WhiteCountry "USA"]
+
+1. d4 d5 2. c4 e6 3. g3 Nf6 4. Nf3 dxc4 5. Bg2 c5 6. O-O Nc6 7. Qa4 Bd7 8. Qxc4
+Qb6 9. dxc5 Bxc5 10. Nc3 Na5 11. Qd3 h6 12. Ne5 Rd8 13. Qc2 Qc7 14. Bf4 1-0

@@ -1,0 +1,19 @@
+[Event "Val Thorens"]
+[Site "Val Thorens"]
+[Date "1984.01.01"]
+[Round "2"]
+[White "Sahovic, Dragutin"]
+[Black "Adamski, Jan"]
+[Result "1/2-1/2"]
+[ECO "A30"]
+[Opening "English"]
+[Variation "symmetrical, hedgehog system"]
+[HashCode "ceeaa7f0"]
+[Epoch "Rook"]
+[BlackID "1100190"]
+[BlackCountry "POL"]
+[WhiteCountry "SRB"]
+
+1. c4 c5 2. Nf3 Nf6 3. g3 b6 4. Bg2 Bb7 5. O-O e6 6. Nc3 Be7 7. d4 Ne4 8. Nxe4
+Bxe4 9. d5 O-O 10. Nh4 exd5 11. cxd5 Bxg2 12. Nxg2 d6 13. Bf4 Bg5 14. Qd2 Bxf4
+15. Qxf4 Nd7 16. Qxd6 Nf6 17. Qf4 Qxd5 18. Rfd1 1/2-1/2

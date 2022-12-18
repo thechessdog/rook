@@ -1,0 +1,23 @@
+[Event "Hillerod"]
+[Site "Hillerod"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Markovic, Bozidar"]
+[Black "Schultz, Jesper"]
+[Result "0-1"]
+[ECO "C00"]
+[Opening "French"]
+[Variation "Labourdonnais variation"]
+[HashCode "1429999b"]
+[Epoch "Rook"]
+
+1. e4 e6 2. f4 d5 3. exd5 exd5 4. Nf3 Bd6 5. d4 Ne7 6. Bd3 Bf5 7. O-O O-O
+8. c3 c6 9. Bxf5 Nxf5 10. Qd3 Qc8 11. Re1 Ne7 12. Be3 Qf5 13. Qxf5 Nxf5 14.
+g3 Nd7 15. Nbd2 h5 16. Kg2 f6 17. Bf2 Kf7 18. Re2 Rfe8 19. Rxe8 Rxe8 20.
+Re1 Nb6 21. Rxe8 Kxe8 22. Ne1 Na4 23. Nd3 Be7 24. Kf3 Nd6 25. Nb1 Ne4 26.
+Be1 Nb6 27. b3 f5 28. Ne5 Bf6 29. Na3 Bxe5 30. fxe5 Nd7 31. Nc2 Nf8 32. c4
+Kd7 33. h3 Ke6 34. Nb4 dxc4 35. bxc4 c5 36. dxc5 Nxc5 37. Bc3 Nfd7 38. Kf4
+g5+ 39. Ke3 Nxe5 40. Kd4 Ne4 41. Nd5 Nc6+ 42. Ke3 Nxc3 43. Nxc3 Ke5 44. Ne2
+Na5 45. Kd3 h4 46. gxh4 gxh4 47. c5 Nc6 48. Ke3 Nb4 49. a4 Na6 50. Nf4 Nxc5
+51. Ng6+ Kf6 52. Nxh4 Nxa4 0-1
+

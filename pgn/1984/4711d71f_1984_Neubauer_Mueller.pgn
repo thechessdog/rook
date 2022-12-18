@@ -1,0 +1,18 @@
+[Event "corr DDR/FS"]
+[Site "corr DDR/FS"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Neubauer"]
+[Black "Mueller"]
+[Result "1-0"]
+[ECO "C14"]
+[Opening "French"]
+[Variation "classical, Steinitz variation"]
+[HashCode "4711d71f"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Nfd7 6. Bxe7 Qxe7 7. f4 O-O
+8. Nf3 c5 9. Bd3 f5 10. Nb5 Nb6 11. c3 c4 12. Bc2 a6 13. Nd6 Nc6 14. O-O
+Nd8 15. g4 g6 16. gxf5 gxf5 17. Ng5 h6 18. Kh1 hxg5 19. Rg1 g4 20. Rxg4+
+fxg4 21. Qxg4+ Qg7 22. Qh5 1-0
+

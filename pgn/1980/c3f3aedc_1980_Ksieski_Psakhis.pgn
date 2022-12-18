@@ -1,0 +1,23 @@
+[Event "Naleczow"]
+[Site "Naleczow"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Ksieski, Zbigniew"]
+[Black "Psakhis, Lev"]
+[Result "0-1"]
+[ECO "A75"]
+[Opening "Benoni"]
+[Variation "classical with ...a6 and 10...Bg4"]
+[HashCode "c3f3aedc"]
+[Epoch "Rook"]
+[WhiteID "1100564"]
+[WhiteCountry "POL"]
+[BlackID "2800012"]
+[BlackCountry "ISR"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. e4 Bg7 8. Be2
+O-O 9. O-O a6 10. a4 Bg4 11. Bf4 Bxf3 12. Bxf3 Qe7 13. Qc2 Nbd7 14. b3 Rab8 15.
+a5 Rfe8 16. Rfe1 h6 17. h3 g5 18. Bd2 Ne5 19. Be2 Ng6 20. Bf1 Qe5 21. g3 h5 22.
+Na4 h4 23. Bc3 Qe7 24. Qb2 Ne5 25. Kg2 hxg3 26. fxg3 g4 27. hxg4 Nfxg4 28. Nb6
+Qg5 29. Be2 Ne3+ 30. Kf2 Qf6+ 31. Kg1 Qg6 32. Bh5 Qxg3+ 33. Kh1 Qh4+ 34. Qh2
+Qxe4+ 35. Kg1 N5g4 36. Bxg4 Qxg4+ 37. Kh1 Qf3+ 38. Kg1 Ng4 0-1

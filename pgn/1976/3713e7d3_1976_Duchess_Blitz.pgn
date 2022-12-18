@@ -1,0 +1,20 @@
+[Event "ACM Houston"]
+[Site "ACM Houston"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Duchess"]
+[Black "Blitz IV"]
+[Result "1-0"]
+[ECO "C54"]
+[Opening "Giuoco Piano"]
+[HashCode "3713e7d3"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d4 exd4 6. cxd4 Bb4+ 7. Bd2
+Bxd2+ 8. Nbxd2 d5 9. exd5 Nxd5 10. Qb3 Qe7+ 11. Kf1 Nf4 12. Re1 Ne6 13. d5
+Qd6 14. dxe6 fxe6 15. Bxe6 Ne7 16. Bxc8 Qa6+ 17. Kg1 Rxc8 18. Qb4 c5 19.
+Qg4 Kf8 20. Qe4 Re8 21. Qf4+ Kg8 22. Rxe7 Rxe7 23. Qb8+ Kf7 24. Qxh8 Qxa2
+25. b3 h6 26. Qd8 Qa1+ 27. Nf1 Qc3 28. Qc8 g5 29. h4 Kg6 30. hxg5 hxg5 31.
+Qg8+ Qg7 32. Qd5 g4 33. Nh4+ Kh6 34. Nf5+ Kg6 35. Qd6+ Qf6 36. Nxe7+ Kg7
+37. Rh7+ Kxh7 38. Qxf6 b6 39. Qg6+ Kh8 40. Qg8# 1-0
+

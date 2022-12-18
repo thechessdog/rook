@@ -1,0 +1,22 @@
+[Event "DSV-Turnier"]
+[Site "Halle"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Rodriguez Cespedes, Amador"]
+[Black "Vaisman, Volodia"]
+[Result "1-0"]
+[ECO "B42"]
+[Opening "Sicilian"]
+[Variation "Kan, Swiss cheese variation"]
+[HashCode "afa87401"]
+[Epoch "Rook"]
+[BlackID "600296"]
+[BlackCountry "FRA"]
+[WhiteCountry "ESP"]
+
+1. e4 e6 2. d4 c5 3. Nf3 cxd4 4. Nxd4 a6 5. Bd3 g6 6. c4 Bg7 7. Nc2 Ne7 8. Nc3
+d5 9. cxd5 exd5 10. Bg5 d4 11. Nd5 Nbc6 12. Qd2 h6 13. Bf6 Bxf6 14. Nxf6+ Kf8
+15. f4 Kg7 16. e5 Nd5 17. Nxd5 Qxd5 18. O-O Rd8 19. Rf3 Ne7 20. Qb4 Nf5 21. Rd1
+Nh4 22. Rg3 Bf5 23. Bxf5 Nxf5 24. Rgd3 Qxa2 25. g4 Rac8 26. gxf5 Rxc2 27. Qe7
+Rxb2 28. Qf6+ Kh7 29. fxg6+ fxg6 30. Qe7+ Kh8 31. Qxd8+ Kh7 32. Qe7+ Kh8 33.
+Rg3 g5 34. Qf8+ 1-0

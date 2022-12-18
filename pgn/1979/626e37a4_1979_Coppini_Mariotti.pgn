@@ -1,0 +1,29 @@
+[Event "Rome"]
+[Site "Rome"]
+[Date "1979.01.01"]
+[Round "11"]
+[White "Coppini, Giorgio"]
+[Black "Mariotti, Sergio"]
+[Result "1/2-1/2"]
+[ECO "D45"]
+[Opening "QGD semi-Slav"]
+[Variation "Stoltz variation"]
+[HashCode "626e37a4"]
+[Epoch "Rook"]
+[BlackID "800023"]
+[BlackCountry "ITA"]
+[WhiteID "800988"]
+[WhiteCountry "ITA"]
+
+1. Nf3 Nf6 2. c4 e6 3. Nc3 d5 4. d4 c6 5. e3 Nbd7 6. Qc2 dxc4 7. Bxc4 b5 8. Be2
+Bb7 9. O-O Rc8 10. Rd1 b4 11. Na4 Qa5 12. b3 c5 13. Nb2 cxd4 14. Nc4 Qc7 15.
+Nxd4 a6 16. a3 bxa3 17. Bxa3 Bxa3 18. Rxa3 O-O 19. Bf3 Bxf3 20. Nxf3 Nd5 21. e4
+Nb4 22. Qd2 Rb8 23. Ra4 Nc6 24. Qe3 Ra8 25. Raa1 Rfb8 26. Rxd7 Qxd7 27. Nb6 Qa7
+28. Nxa8 Qxe3 29. fxe3 Rxa8 30. Nd4 Nb4 31. Ra4 Rb8 32. e5 Rb6 33. Kf1 Nd3 34.
+Ra5 h6 35. Ke2 Nc1+ 36. Kf3 Nd3 37. Ke2 Nb4 38. Kd2 Kh7 39. e4 Nc6 40. Nxc6
+Rxc6 41. Kd3 Kg6 42. b4 Kg5 43. Rc5 Rb6 44. Kc4 Kf4 45. Rc7 Kxe4 46. Rxf7 Rc6+
+47. Kb3 g5 48. Rh7 Kxe5 49. Rxh6 Kf5 50. h3 g4 51. Rh5+ Ke4 52. Rc5 Rb6 53.
+hxg4 e5 54. Kc3 Rg6 55. Ra5 Rb6 56. Kc4 Rc6+ 57. Rc5 Re6 58. g3 Rh6 59. Ra5
+Rc6+ 60. Rc5 Rg6 61. Ra5 Rxg4 62. Rxa6 Rxg3 63. Rf6 Rg1 64. Kc5 Rc1+ 65. Kb6
+Kd5 66. b5 e4 67. Rf8 e3 68. Rd8+ Ke4 69. Re8+ Kd4 70. Ka7 Rc5 71. b6 Ra5+ 72.
+Kb8 Re5 73. Rxe5 Kxe5 74. b7 e2 75. Ka8 e1=Q 76. b8=Q+ 1/2-1/2

@@ -1,0 +1,24 @@
+[Event "Nordic-tt"]
+[Site "Oslo"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Ornstein, Axel"]
+[Black "Apol, Luitjen"]
+[Result "1-0"]
+[ECO "B19"]
+[Opening "Caro-Kann"]
+[Variation "classical, Spassky variation"]
+[HashCode "9f1c758c"]
+[Epoch "Rook"]
+[WhiteID "1700111"]
+[WhiteCountry "SWE"]
+[BlackID "7200102"]
+[BlackCountry "FAI"]
+
+1. e4 c6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6 7. Nf3 Nd7 8. h5
+Bh7 9. Bd3 Bxd3 10. Qxd3 Ngf6 11. Bf4 e6 12. O-O-O Nd5 13. Bd2 Qc7 14. c4 N5f6
+15. Qe2 Bd6 16. Nf5 Bf4 17. Bxf4 Qxf4+ 18. Ne3 O-O-O 19. c5 Nd5 20. g3 Qc7 21.
+Nc4 Kb8 22. Nd6 Rhf8 23. Rd3 N7f6 24. Rb3 Rxd6 25. cxd6 Qxd6 26. Qe5 Qc7 27.
+Qxc7+ Kxc7 28. Ne5 Nb6 29. Rh4 Nbd5 30. Kd2 Ne7 31. Rh1 Nf5 32. Rd3 Nd6 33. f3
+Nd5 34. Kc1 Re8 35. Kb1 f6 36. Ng6 Nf5 37. g4 Nfe7 38. Nxe7 Rxe7 39. Rf1 Kd6
+40. f4 f5 41. g5 a5 42. Rg3 b5 43. Kc1 c5 44. dxc5+ Kxc5 45. gxh6 1-0

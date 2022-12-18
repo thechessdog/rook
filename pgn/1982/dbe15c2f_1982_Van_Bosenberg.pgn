@@ -1,0 +1,17 @@
+[Event "corr EU"]
+[Site "corr EU"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Van der Kooij"]
+[Black "Bosenberg"]
+[Result "0-1"]
+[ECO "B00"]
+[Opening "King's pawn opening"]
+[HashCode "dbe15c2f"]
+[Epoch "Rook"]
+[WhiteID "1011812"]
+[WhiteCountry "NED"]
+
+1. e4 d6 2. f4 Nf6 3. Nc3 g6 4. Nf3 Bg7 5. Bc4 O-O 6. d4 c6 7. Bd3 Nbd7 8. O-O
+e5 9. dxe5 dxe5 10. f5 Nc5 11. fxg6 hxg6 12. Nxe5 Qd4+ 13. Rf2 Qxe4 14. Bf4 Qd4
+15. Qd2 Ng4 0-1

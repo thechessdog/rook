@@ -1,0 +1,20 @@
+[Event "Zamardi"]
+[Site "Zamardi"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Dorfman, Iossif"]
+[Black "Trois, Francisco R.T."]
+[Result "1-0"]
+[ECO "A46"]
+[Opening "Queen's pawn game"]
+[HashCode "2b5560a5"]
+[Epoch "Rook"]
+[BlackID "2100096"]
+[BlackCountry "BRA"]
+[WhiteCountry "FRA"]
+
+1. d4 Nf6 2. Nf3 e6 3. g3 b5 4. Bg2 Bb7 5. O-O d5 6. c3 Nbd7 7. a4 b4 8. cxb4
+Bxb4 9. Bd2 Bxd2 10. Nbxd2 c5 11. dxc5 Nxc5 12. b4 Nce4 13. Nb3 Rc8 14. Qd4 Qb6
+15. Rfc1 O-O 16. Ne5 Rxc1+ 17. Rxc1 Rc8 18. Rxc8+ Bxc8 19. b5 Bb7 20. Bxe4 dxe4
+21. Qxb6 axb6 22. Nc4 Nd5 23. a5 Nc3 24. axb6 Nxe2+ 25. Kf1 Nc3 26. Nba5 Bd5
+27. Nd6 Kf8 28. Nc6 Nxb5 29. b7 1-0

@@ -1,0 +1,26 @@
+[Event "Esbjerg"]
+[Site "Esbjerg"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Brinck-Claussen, Bjorn"]
+[Black "Nielsen, Jens"]
+[Result "1-0"]
+[ECO "E47"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 O-O, 5.Bd3"]
+[HashCode "cd827ef3"]
+[Epoch "Rook"]
+[BlackID "1409310"]
+[WhiteCountry "DEN"]
+[BlackCountry "DEN"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 c5 6. Nf3 b6 7. O-O Bb7 8. Na4
+cxd4 9. a3 Be7 10. exd4 d5 11. c5 Nbd7 12. b4 Ne4 13. Bb2 a6 14. Qe2 Bc6 15.
+Nc3 bxc5 16. dxc5 Bf6 17. Rac1 Nxc3 18. Bxc3 Bxc3 19. Rxc3 Qf6 20. Rcc1 e5 21.
+Bxa6 e4 22. Nd2 Nb8 23. Bb5 Rxa3 24. Rb1 Bxb5 25. Qxb5 Nc6 26. Qe2 Qg6 27. Rfd1
+Nd4 28. Qf1 Re8 29. b5 Rd3 30. Kh1 Nf5 31. b6 Qc6 32. Nb3 Rxd1 33. Qxd1 e3 34.
+fxe3 Nxe3 35. Qf3 Qb5 36. Nd2 Qxc5 37. b7 Rb8 38. Qf4 Qa7 39. Qc7 g6 40. Nf3
+Ng4 41. Qc8+ Kg7 42. Qxg4 Rxb7 43. Rd1 Qe3 44. h3 Qe4 45. Qg5 Rb1 46. Rxb1
+Qxb1+ 47. Kh2 Qe4 48. Kg3 f6 49. Qf4 g5 50. Qxe4 dxe4 51. Nd4 Kg6 52. Kf2 f5
+53. Ke3 Kf6 54. Nc6 Ke6 55. Kd4 Kd6 56. Ne5 Ke7 57. Nc4 Kf6 58. Ne3 f4 59. Nd5+
+Kf5 60. Nc3 e3 61. g4+ fxg3 62. Kxe3 g4 63. h4 g2 64. Ne2 Ke5 65. Kf2 1-0

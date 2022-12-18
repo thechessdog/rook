@@ -1,0 +1,19 @@
+[Event "Groningen"]
+[Site "Groningen"]
+[Date "1984.01.01"]
+[Round "11"]
+[White "Horvath, Csaba"]
+[Black "Stewart, Ewan"]
+[Result "1-0"]
+[ECO "C64"]
+[Opening "Ruy Lopez"]
+[Variation "classical (Cordel) defence"]
+[HashCode "ad7d406a"]
+[Epoch "Rook"]
+[WhiteID "700118"]
+[WhiteCountry "HUN"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. O-O Nd4 5. Nxd4 Bxd4 6. c3 Bb6 7. d4 c6 8.
+Ba4 d6 9. Na3 exd4 10. cxd4 Qh4 11. d5 Nf6 12. dxc6 O-O 13. Qf3 Nxe4 14. Qf4
+Qe7 15. Be3 Bc7 16. Nb5 Ba5 17. Rad1 g5 18. Qf3 bxc6 19. Nd4 Ba6 20. Nxc6 Qe8
+21. Rd4 Nc5 22. Qf6 Bd8 23. Nxd8 Qxd8 24. Bxg5 Bxf1 25. Rg4 1-0

@@ -1,0 +1,20 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Nielsen, Jens"]
+[Black "Sloth, Jorn"]
+[Result "1/2-1/2"]
+[ECO "B12"]
+[Opening "Caro-Kann"]
+[Variation "advance variation"]
+[HashCode "839982b0"]
+[Epoch "Rook"]
+[WhiteID "1409310"]
+[BlackID "1400240"]
+[WhiteCountry "DEN"]
+[BlackCountry "DEN"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nc3 Qb6 5. h4 h6 6. a4 e6 7. a5 Qc7 8. Bd2 Bb4
+9. Nce2 Bxd2+ 10. Qxd2 c5 11. Qc3 Nd7 12. Ng3 Ne7 13. b4 c4 14. Nxf5 exf5 15.
+Ne2 Nf8 1/2-1/2

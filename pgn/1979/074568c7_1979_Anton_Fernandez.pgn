@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Anton"]
+[Black "Fernandes, Antonio"]
+[Result "0-1"]
+[ECO "E30"]
+[Opening "Nimzo-Indian"]
+[Variation "Leningrad, ...b5 gambit"]
+[HashCode "074568c7"]
+[Epoch "Rook"]
+[BlackID "1900021"]
+[BlackCountry "POR"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Bg5 h6 5. Bh4 c5 6. d5 b5 7. e4 exd5 8. cxd5
+g5 9. e5 Qe7 10. Bg3 Bb7 11. Qf3 Nxd5 12. O-O-O Bxc3 13. bxc3 g4 14. Qe4 f5 15.
+Qxf5 Nxc3 16. Re1 Nc6 17. e6 O-O-O 18. Qxg4 Nxa2+ 19. Kd1 dxe6+ 20. Kc2 Qh7+
+21. Kb3 Nd4+ 0-1

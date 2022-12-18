@@ -1,0 +1,19 @@
+[Event "Skien op"]
+[Site "Skien"]
+[Date "1980.??.??"]
+[Round "9"]
+[White "Hatlebakk, Einar"]
+[Black "Angantysson, Haukur"]
+[Result "0-1"]
+[ECO "C18"]
+[Opening "French"]
+[Variation "Winawer, advance variation"]
+[HashCode "6f50e417"]
+[Epoch "Rook"]
+[WhiteID "1500309"]
+[WhiteCountry "NOR"]
+[BlackCountry "ISL"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Qa5 7. Bd2 Ne7 8. Qg4
+Kf8 9. a4 Nbc6 10. Nf3 c4 11. Be2 b5 12. h4 bxa4 13. h5 h6 14. Qf4 a3 15. Ra2
+Rb8 16. O-O Rb2 17. Rfa1 Rxa2 18. Rxa2 Qb6 19. Ne1 Qb2 0-1

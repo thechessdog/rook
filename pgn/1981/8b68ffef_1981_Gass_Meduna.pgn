@@ -1,0 +1,22 @@
+[Event "Biel op"]
+[Site "Biel"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Gass, Ulrich"]
+[Black "Meduna, Eduard"]
+[Result "0-1"]
+[ECO "B17"]
+[Opening "Caro-Kann"]
+[Variation "Steinitz variation"]
+[HashCode "8b68ffef"]
+[Epoch "Rook"]
+[WhiteID "4683307"]
+[WhiteCountry "GER"]
+[BlackID "300055"]
+[BlackCountry "CZE"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Nxf6+ Nxf6 7. Ne5 Be6
+8. Be3 g6 9. Qd2 Nd5 10. Bd3 Nxe3 11. Qxe3 Bg7 12. O-O O-O 13. f4 Qd6 14. f5
+gxf5 15. Rae1 Rad8 16. Rf4 Kh8 17. Qh3 Bxe5 18. Rxe5 Rg8 19. c3 Bd5 20. g3 e6
+21. Kf1 c5 22. Re2 Bc6 23. Ke1 Qf8 24. g4 Qd6 25. Ref2 cxd4 26. Rxd4 Qe5+ 27.
+Re2 Qg7 28. Rxd8 Rxd8 29. gxf5 Qg1+ 30. Kd2 Bb5 31. Re3 Qf2+ 32. Kc1 Bxd3 0-1

@@ -1,0 +1,17 @@
+[Event "corr EUR/K"]
+[Site "corr EUR/K"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Kauranen, R."]
+[Black "Baluev, A."]
+[Result "1-0"]
+[ECO "B89"]
+[Opening "Sicilian"]
+[Variation "Sozin, 7.Be3"]
+[HashCode "31d33fd6"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Be3 e6 7. Bc4 a6 8.
+Qe2 Be7 9. O-O-O O-O 10. Bb3 Qc7 11. Rhg1 b5 12. g4 Nxd4 13. Bxd4 Nd7 14.
+g5 Nc5 15. Qh5 b4 16. Bf6 Rd8 17. Rg3 1-0
+

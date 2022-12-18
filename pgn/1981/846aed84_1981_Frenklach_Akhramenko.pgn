@@ -1,0 +1,17 @@
+[Event "Mosyr"]
+[Site "Mosyr"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Frenklach"]
+[Black "Akhramenko"]
+[Result "1-0"]
+[ECO "C13"]
+[Opening "French"]
+[Variation "classical, Anderssen variation"]
+[HashCode "846aed84"]
+[Epoch "Rook"]
+
+1. d4 d5 2. Nc3 Nf6 3. Bg5 e6 4. e4 Be7 5. Bxf6 Bxf6 6. e5 Be7 7. Nf3 O-O
+8. Bd3 Nd7 9. h4 f6 10. Ng5 fxg5 11. Bxh7+ Kxh7 12. hxg5+ Kg8 13. Rh8+ Kxh8
+14. Qh5+ Kg8 15. g6 1-0
+

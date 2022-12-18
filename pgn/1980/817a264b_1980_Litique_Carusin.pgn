@@ -1,0 +1,20 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Litique, M."]
+[Black "Carusin, V."]
+[Result "0-1"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "817a264b"]
+[Epoch "Rook"]
+
+1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. d4 Nc6 5. Nf3 cxd4 6. cxd4 d6 7. Nc3 dxe5
+8. dxe5 Ndb4 9. Be2 Qxd1+ 10. Kxd1 Bg4 11. a3 O-O-O+ 12. Bd2 Nd3 13. Bxd3
+Rxd3 14. Ke2 Nxe5 15. Rhc1 Rxf3 16. gxf3 Bxf3+ 17. Ke3 g6 18. Ne4+ Kb8 19.
+Kf4 f6 20. Re1 h5 21. h4 Bg4 22. Kg3 Nf3 23. Red1 Bg7 24. Bc3 Bh6 25. Rd3
+Nxh4 26. Rh1 Be2 27. Rd5 Nf5+ 28. Kg2 Bc4 29. Rdd1 Bb5 30. Bd2 Bc6 31. f3
+Bxd2 32. Rxd2 g5 33. Kf2 Nh4 0-1
+

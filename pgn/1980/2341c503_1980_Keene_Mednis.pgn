@@ -1,0 +1,23 @@
+[Event "New York Inv"]
+[Site "New York"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Keene, Raymond D"]
+[Black "Mednis, Edmar John"]
+[Result "1-0"]
+[ECO "E42"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5, 5.Ne2 (Rubinstein)"]
+[HashCode "2341c503"]
+[Epoch "Rook"]
+[WhiteID "400211"]
+[WhiteCountry "ENG"]
+[BlackCountry "USA"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Ne2 cxd4 6. exd4 O-O 7. a3 Be7 8. d5
+exd5 9. cxd5 Re8 10. h3 Bc5 11. b4 Bb6 12. g4 a5 13. b5 Ne4 14. Nxe4 Rxe4 15.
+Bg2 Re8 16. O-O Qf6 17. Bd2 d6 18. Bc3 Qg5 19. Nd4 h5 20. Re1 Rxe1+ 21. Qxe1
+Kf8 22. Qe4 hxg4 23. Re1 Bd7 24. hxg4 Kg8 25. Nf5 Bc5 26. Nxg7 Bxg4 27. Qe8+
+Kh7 28. Qxf7 Qg6 29. Qe7 Nd7 30. Ne6+ Kg8 31. Qxd7 Bxa3 32. Qe7 Re8 33. Qf6
+Qxf6 34. Bxf6 Kf7 35. Bc3 Bb4 36. Bxb4 axb4 37. Ng5+ Kf8 38. Nh7+ Kf7 39. Rxe8
+Bf5 40. Re4 Bxe4 41. Bxe4 1-0

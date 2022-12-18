@@ -1,0 +1,21 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Heynisch"]
+[Black "Mathes"]
+[Result "1-0"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Lipnitzky attack"]
+[HashCode "8446e462"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 Nbd7 7. Be3 Qc7
+8. Bb3 Nc5 9. f3 e6 10. O-O Be7 11. a4 b6 12. Qd2 O-O 13. Ba2 Re8 14. b4
+Ncd7 15. Nce2 Ne5 16. c4 Bb7 17. Rac1 Rac8 18. Nf4 Kh8 19. Qf2 Qd7 20. b5
+g5 21. Nde2 gxf4 22. Nxf4 Rg8 23. Bxb6 Nxf3+ 24. Qxf3 Bxe4 25. Qh3 e5 26.
+g3 exf4 27. Qxd7 Nxd7 28. Rxf4 Bg5 29. Bd4+ Ne5 30. Rxe4 Bxc1 31. c5 Rg7
+32. Kg2 f6 33. c6 f5 34. Re1 Bg5 35. Be6 Re8 36. Bxf5 axb5 37. axb5 Bd8 38.
+b6 Kg8 39. Bd7 Rxd7 40. cxd7 Rf8 41. Bxe5 dxe5 42. b7 1-0
+

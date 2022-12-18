@@ -1,0 +1,18 @@
+[Event "corr Tch-EU"]
+[Site "corr Tch-EU"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Campeert"]
+[Black "Kahn"]
+[Result "0-1"]
+[ECO "E42"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5, 5.Ne2 (Rubinstein)"]
+[HashCode "a8fd0636"]
+[Epoch "Rook"]
+
+1. c4 e6 2. d4 Nf6 3. Nc3 Bb4 4. e3 c5 5. Ne2 b6 6. a3 Ba5 7. Qa4 Na6 8. g3
+Bb7 9. d5 exd5 10. Bg2 Bc6 11. Qc2 dxc4 12. Bxc6 dxc6 13. O-O O-O 14. e4
+Qd3 15. Qa4 Nxe4 16. Nxe4 Qxe4 17. Be3 Rfe8 18. Rac1 c3 19. Qxe4 Rxe4 20.
+Nxc3 Bxc3 21. Rxc3 Nc7 22. f3 Re6 23. Bc1 Rd8 24. Kf2 Nb5 25. Re3 Rxe3 0-1
+

@@ -1,0 +1,19 @@
+[Event "corr EU/I"]
+[Site "corr EU/I"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Tonn, W."]
+[Black "Leone, F."]
+[Result "0-1"]
+[ECO "A02"]
+[Opening "Bird"]
+[Variation "From gambit"]
+[HashCode "f6fa2d1a"]
+[Epoch "Rook"]
+
+1. f4 e5 2. fxe5 d6 3. exd6 Bxd6 4. Nf3 Nf6 5. g3 Nc6 6. Bg2 Qe7 7. c3 Bg4
+8. d4 O-O-O 9. Bf4 Bxf4 10. gxf4 Nd5 11. Qd2 Ne3 12. Kf2 Bxf3 13. Bxf3 Rhe8
+14. h4 Qd6 15. Na3 Qxf4 16. Nc4 Nxd4 17. cxd4 Rxd4 18. Qxe3 Rxe3 19. Nxe3
+Rd2 20. b3 Qd4 21. Bg4+ Kb8 22. h5 f5 23. Bxf5 Qf4+ 24. Ke1 Qxe3 25. Bg4
+Qd4 26. Rc1 Rxa2 0-1
+

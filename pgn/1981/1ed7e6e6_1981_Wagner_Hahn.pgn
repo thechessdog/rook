@@ -1,0 +1,23 @@
+[Event "corr DDR/K"]
+[Site "corr DDR/K"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Wagner"]
+[Black "Hahn"]
+[Result "1-0"]
+[ECO "B15"]
+[Opening "Caro-Kann"]
+[Variation "Forgacs variation"]
+[HashCode "1ed7e6e6"]
+[Epoch "Rook"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ exf6 6. Bc4 Bd6 7. Qe2+
+Qe7 8. Qxe7+ Kxe7 9. Ne2 Re8 10. O-O Bf5 11. Bb3 Kf8 12. Re1 Nd7 13. Bf4
+Bxf4 14. Nxf4 Rxe1+ 15. Rxe1 Re8 16. Rxe8+ Kxe8 17. Kf1 g5 18. Nh5 Bg4 19.
+Ng3 Be6 20. Ne4 Ke7 21. Ke2 h6 22. Kd3 b5 23. c4 Nb6 24. c5 Bxb3 25. axb3
+Nd5 26. Nd6 Ke6 27. g4 Nf4+ 28. Ke4 h5 29. f3 hxg4 30. fxg4 Nd5 31. Nf5 Nc7
+32. Ne3 b4 33. Kd3 Kd7 34. Kc4 Ne6 35. d5 Nf4 36. dxc6+ Kxc6 37. Nc2 a5 38.
+Nd4+ Kc7 39. Kb5 Nd3 40. Nf5 Nxb2 41. Ne3 a4 42. Nd5+ Kd8 43. bxa4 b3 44.
+Nc3 Kc7 45. a5 Nd3 46. Kc4 Ne5+ 47. Kxb3 Nxg4 48. Nd5+ Kb7 49. Kb4 Ka6 50.
+c6 Ne5 51. Kc5 1-0
+

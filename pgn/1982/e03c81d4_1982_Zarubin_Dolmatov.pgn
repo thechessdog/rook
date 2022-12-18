@@ -1,0 +1,23 @@
+[Event "Severodonetsk"]
+[Site "Severodonetsk"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Zarubin, Pavel"]
+[Black "Dolmatov, Sergey"]
+[Result "1-0"]
+[ECO "A75"]
+[Opening "Benoni"]
+[Variation "classical with ...a6 and 10...Bg4"]
+[HashCode "e03c81d4"]
+[Epoch "Rook"]
+[BlackID "4100093"]
+[BlackCountry "RUS"]
+[WhiteID "4102487"]
+[WhiteCountry "RUS"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. e4 Bg7 8. Be2
+O-O 9. O-O a6 10. a4 Bg4 11. Bf4 Nh5 12. Bg5 Qb6 13. Qd2 Re8 14. h3 Bxf3 15.
+Bxf3 Nf6 16. a5 Qc7 17. Ra2 Nbd7 18. Qf4 h5 19. Bh6 Bh8 20. Bd1 Rab8 21. Ba4
+Rec8 22. Qg3 b5 23. axb6 Rxb6 24. f4 Bg7 25. Bxg7 Kxg7 26. Re1 Re8 27. Bc6 Qb8
+28. Re2 Re7 29. Qd3 h4 30. Rxa6 Rxb2 31. Nb5 Rxe2 32. Qxe2 Rxe4 33. Qf2 Nb6 34.
+Qxh4 Nh5 35. Kh2 Rxf4 36. Qe7 Nf6 37. Nc7 Nc8 38. Ne6+ 1-0

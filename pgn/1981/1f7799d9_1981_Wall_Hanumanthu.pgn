@@ -1,0 +1,17 @@
+[Event "Dayton,OH"]
+[Site "Dayton,OH"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Wall, Bill"]
+[Black "Hanumanthu, S."]
+[Result "1-0"]
+[ECO "C60"]
+[Opening "Ruy Lopez"]
+[Variation "Nuernberg variation"]
+[HashCode "1f7799d9"]
+[Epoch "Rook"]
+[WhiteCountry "USA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 f6 4. O-O Nge7 5. Nh4 a6 6. Bxc6 Nxc6 7. Qh5+ g6 8.
+Nxg6 Rg8 9. Nxe5+ Ke7 10. Qf7+ Kd6 11. Nc4+ Kc5 12. Qd5+ Kb4 13. c3+ Ka4 14.
+b3# 1-0

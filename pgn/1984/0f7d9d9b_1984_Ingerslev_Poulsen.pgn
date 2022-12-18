@@ -1,0 +1,18 @@
+[Event "corr ch-DK"]
+[Site "corr ch-DK"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Ingerslev"]
+[Black "Poulsen"]
+[Result "0-1"]
+[ECO "B25"]
+[Opening "Sicilian"]
+[Variation "closed, 6.f4"]
+[HashCode "0f7d9d9b"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. f4 e6 7. Nf3 Nge7 8.
+O-O O-O 9. Bd2 b6 10. Rb1 Bb7 11. Ne2 Qd7 12. Bc3 e5 13. Nh4 f5 14. Qd2 d5
+15. exd5 Nxd5 16. Nf3 Rae8 17. Rfe1 Bh6 18. Qc1 Nxc3 19. bxc3 e4 20. dxe4
+fxe4 0-1
+

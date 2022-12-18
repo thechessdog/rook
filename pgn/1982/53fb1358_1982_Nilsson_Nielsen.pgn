@@ -1,0 +1,18 @@
+[Event "Espergarde"]
+[Site "Espergarde"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Nilsson, Zandor"]
+[Black "Nielsen, Eigild"]
+[Result "1-0"]
+[ECO "A30"]
+[Opening "English"]
+[Variation "symmetrical variation"]
+[HashCode "53fb1358"]
+[Epoch "Rook"]
+[WhiteCountry "SWE"]
+
+1. c4 c5 2. Nf3 g6 3. d4 Bg7 4. Bg5 cxd4 5. Nxd4 Qb6 6. Nb5 Bxb2 7. N1c3 Bxa1
+8. Qxa1 Qa5 9. Bd2 f6 10. Nd5 Qd8 11. Nbc7+ Kf7 12. Nxa8 Na6 13. Qd4 e6 14. Nb4
+Nxb4 15. Bxb4 Ne7 16. Qxa7 Nc6 17. Qc5 b6 18. Nxb6 Nxb4 19. Qxb4 Bb7 20. c5 Qc7
+21. Nc4 Bc6 22. e4 Rb8 23. Nd6+ Ke7 24. Bb5 Bxb5 25. Nxb5 Qc6 26. a4 1-0

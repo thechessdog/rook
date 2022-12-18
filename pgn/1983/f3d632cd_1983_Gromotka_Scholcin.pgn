@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Gromotka, H."]
+[Black "Scholcin, E."]
+[Result "1-0"]
+[ECO "B97"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7...Qb6"]
+[HashCode "f3d632cd"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qb6 8.
+Nb3 Nbd7 9. Qe2 Qc7 10. O-O-O Be7 11. Bh4 b5 12. a3 Bb7 13. Kb1 Rc8 14. g4
+Nxe4 15. Nxe4 Bxe4 16. Qxe4 Bxh4 17. Bd3 d5 18. Qf3 Bf6 19. Rhe1 O-O 20. g5
+Be7 21. Re3 g6 22. h4 Nc5 23. Nxc5 Bxc5 24. Re2 Bd6 25. h5 Bxf4 26. hxg6
+hxg6 27. Qh3 Be5 28. Rh1 Rfe8 29. Qh7+ Kf8 30. Rf2 Qd7 31. Rf6 1-0
+

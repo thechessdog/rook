@@ -1,0 +1,22 @@
+[Event "Bundesliga 8283"]
+[Site "Duitsland tt"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Bartsch, Berthold"]
+[Black "Reefschlaeger, Helmut, Dr."]
+[Result "0-1"]
+[ECO "C00"]
+[Opening "French"]
+[Variation "Chigorin variation"]
+[HashCode "82001d2c"]
+[Epoch "Rook"]
+[WhiteID "4604660"]
+[WhiteCountry "GER"]
+[BlackID "4600878"]
+[BlackCountry "GER"]
+
+1. e4 e6 2. Qe2 c5 3. g3 Nc6 4. Bg2 g6 5. d3 Bg7 6. c3 Nge7 7. h4 h5 8. Nh3 d5
+9. O-O b6 10. f4 O-O 11. g4 hxg4 12. Qxg4 Ba6 13. h5 Bxd3 14. hxg6 Bxf1 15.
+Bxf1 Nxg6 16. Ng5 Qd7 17. Qh5 Rfd8 18. e5 Nce7 19. Nd2 Nf5 20. Ndf3 Bh6 21. Bd3
+Kg7 22. Nh3 Rh8 23. Kf2 Rag8 24. Qg4 Kf8 25. Nhg5 Bxg5 26. fxg5 Nfh4 27. Bf1
+Nxf3 28. Qxf3 Nxe5 29. Qg3 Ng6 30. Bd2 e5 31. Re1 Qf5+ 32. Kg1 Rh4 0-1

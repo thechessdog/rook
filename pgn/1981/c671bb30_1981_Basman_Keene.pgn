@@ -1,0 +1,20 @@
+[Event "Manchester"]
+[Site "Manchester"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Basman, Michael J"]
+[Black "Keene, Raymond D"]
+[Result "0-1"]
+[ECO "A00"]
+[Opening "Grob's attack"]
+[HashCode "c671bb30"]
+[Epoch "Rook"]
+[WhiteID "400505"]
+[BlackID "400211"]
+[WhiteCountry "ENG"]
+[BlackCountry "ENG"]
+
+1. g4 d5 2. h3 e5 3. Bg2 c6 4. d4 e4 5. c4 Bd6 6. Nc3 Ne7 7. g5 Be6 8. h4 Nf5
+9. Bh3 O-O 10. cxd5 cxd5 11. Nxd5 Ng3 12. Nf6+ gxf6 13. fxg3 Bxg3+ 14. Kf1 Nc6
+15. Be3 Nb4 16. Kg2 Nd5 17. Kxg3 Nxe3 18. Qd2 Qd6+ 19. Kf2 Qf4+ 20. Nf3 exf3
+0-1

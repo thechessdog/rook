@@ -1,0 +1,21 @@
+[Event "Arnheim"]
+[Site "Arnheim"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Bernink"]
+[Black "Sorensen, Henrik"]
+[Result "0-1"]
+[ECO "A57"]
+[Opening "Benko gambit"]
+[Variation "Zaitsev system"]
+[HashCode "fadd23bc"]
+[Epoch "Rook"]
+[BlackID "1400827"]
+[BlackCountry "DEN"]
+
+1. d4 Nf6 2. c4 a6 3. Nc3 c5 4. d5 b5 5. cxb5 axb5 6. e4 b4 7. Nb5 d6 8. Nf3 g6
+9. Bf4 Bg7 10. Bc4 O-O 11. Qe2 Nh5 12. Bg5 h6 13. Bc1 Nd7 14. O-O Nb6 15. e5
+Nxc4 16. Qxc4 Ba6 17. a4 bxa3 18. bxa3 dxe5 19. Rb1 Rc8 20. Re1 Nf4 21. Bxf4
+exf4 22. Ne5 Bb7 23. Rbd1 e6 24. dxe6 Qg5 25. exf7+ Kh7 26. Rd5 f3 27. g3 Bxd5
+28. Qxd5 Bxe5 29. Qxe5 Qxe5 30. Rxe5 c4 31. h4 c3 32. Re1 c2 33. Rc1 Rfd8 34.
+Kh2 Kg7 0-1

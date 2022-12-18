@@ -1,0 +1,19 @@
+[Event "Trnava"]
+[Site "Trnava"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Ornstein, Axel"]
+[Black "Plachetka, Jan"]
+[Result "1/2-1/2"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "classical variation (5.Bf4)"]
+[HashCode "96517d02"]
+[Epoch "Rook"]
+[WhiteID "1700111"]
+[WhiteCountry "SWE"]
+[BlackID "14900068"]
+[BlackCountry "SVK"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. Bf4 O-O 6. e3 c5 7. dxc5 Bxc5 8. Qc2
+Nc6 9. Rd1 Qa5 10. a3 Be7 11. Nd2 e5 12. Bg5 d4 1/2-1/2

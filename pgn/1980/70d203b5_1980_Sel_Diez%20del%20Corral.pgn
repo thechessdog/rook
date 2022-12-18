@@ -1,0 +1,24 @@
+[Event "Groningen ch-EU jr"]
+[Site "Groningen ch-EU jr"]
+[Date "1980.01.01"]
+[Round "5"]
+[White "Sel, Cetin"]
+[Black "Diez del Corral, Jesus"]
+[Result "0-1"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (without ...d6)"]
+[HashCode "70d203b5"]
+[Epoch "Rook"]
+[WhiteID "6300138"]
+[WhiteCountry "TUR"]
+[BlackCountry "ESP"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 e6 4. O-O Nge7 5. c3 a6 6. Bxc6 Nxc6 7. d4 d5 8. e5
+cxd4 9. cxd4 Be7 10. b3 Bd7 11. Bb2 Rc8 12. Nc3 O-O 13. Rc1 Nb4 14. Qd2 Qa5 15.
+a3 Nc6 16. Na4 Qb5 17. Nc5 Bxc5 18. Rxc5 Qxb3 19. Rfc1 Ne7 20. Rc7 Rxc7 21.
+Rxc7 Rd8 22. Qc3 Qb6 23. Rc5 Rc8 24. Rxc8+ Bxc8 25. h3 Bd7 26. Ne1 Bb5 27. Qb3
+Nc6 28. a4 Qa5 29. axb5 Qxe1+ 30. Kh2 axb5 31. Qxb5 Qb4 32. Qxb4 Nxb4 33. Kg3
+Nc6 34. Kf3 h5 35. Ke3 Kh7 36. Bc3 Kg6 37. f4 Kf5 38. Kf3 h4 39. Ke3 Ne7 40.
+Kf3 Ng6 41. Bd2 b5 42. Be1 Nxf4 43. Bxh4 Nxg2 44. Kxg2 Ke4 45. Be7 Kxd4 46. Bd6
+Kc3 47. Bf8 b4 48. Bxg7 b3 49. h4 b2 50. h5 b1=Q 51. h6 Qg6+ 0-1

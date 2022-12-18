@@ -1,0 +1,19 @@
+[Event "corr EU/M/GT"]
+[Site "corr EU/M/GT"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Fiedler, F."]
+[Black "Gerasimov, D."]
+[Result "0-1"]
+[ECO "B40"]
+[Opening "Sicilian"]
+[Variation "Anderssen variation"]
+[HashCode "b311bef9"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Ndb5 Bc5 7. Nd6+
+Ke7 8. Nxc8+ Rxc8 9. Bd3 Ne5 10. h3 Qb6 11. O-O Qc6 12. Bb5 Qb6 13. Qe2 a6
+14. Bd3 Qc7 15. Be3 h5 16. f4 Qb6 17. fxe5 Bxe3+ 18. Kh1 Ng4 19. Nd1 Bd4
+20. c3 Bxe5 21. Nf2 Bb8 22. Nxg4 hxg4 23. Qxg4 Qd6 24. e5 Qxe5 25. Kg1 Qe3+
+26. Kh1 Qxd3 27. Rad1 Qg3 28. Rxd7+ Kxd7 29. Rxf7+ Kd8 0-1
+

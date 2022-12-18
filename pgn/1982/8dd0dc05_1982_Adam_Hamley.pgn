@@ -1,0 +1,17 @@
+[Event "Luzern olm"]
+[Site "Luzern olm"]
+[Date "1982.10.01"]
+[Round "1"]
+[White "Adam, A."]
+[Black "Hamley, P."]
+[Result "1/2-1/2"]
+[ECO "A17"]
+[Opening "English opening"]
+[HashCode "8dd0dc05"]
+[Epoch "Rook"]
+[BlackID "11300027"]
+[BlackCountry "BOT"]
+
+1. c4 Nf6 2. Nc3 e6 3. g3 d5 4. d4 b6 5. Bg2 Bb7 6. cxd5 Nxd5 7. Nf3 c5 8. O-O
+Nxc3 9. bxc3 Nd7 10. Re1 Nf6 11. Bg5 Be7 12. Qa4+ Qd7 13. Qxd7+ Nxd7 14. a4
+Bxg5 15. Nxg5 Bxg2 16. Kxg2 Ke7 1/2-1/2

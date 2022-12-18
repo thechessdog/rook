@@ -1,0 +1,19 @@
+[Event "Bayern"]
+[Site "Bayern"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Bindl, T."]
+[Black "Kraft, Volker"]
+[Result "1-0"]
+[ECO "B70"]
+[Opening "Sicilian"]
+[Variation "dragon variation"]
+[HashCode "c04080f7"]
+[Epoch "Rook"]
+[BlackID "4606221"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be2 Bg7 7. O-O Nc6 8.
+Nb3 O-O 9. Bg5 Be6 10. Kh1 Qc8 11. f4 Bg4 12. Nd5 Bxe2 13. Qxe2 Nxd5 14. exd5
+Nb4 15. Qe4 Na6 16. f5 Re8 17. c3 Qd7 18. Rf3 gxf5 19. Qh4 e5 20. Rg3 f4 21.
+Bf6 1-0

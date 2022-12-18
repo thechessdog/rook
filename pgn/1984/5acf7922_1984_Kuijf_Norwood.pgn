@@ -1,0 +1,23 @@
+[Event "London"]
+[Site "London"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Kuijf, Marinus"]
+[Black "Norwood, David R"]
+[Result "1/2-1/2"]
+[ECO "B06"]
+[Opening "Robatsch defence"]
+[Variation "Pseudo-Austrian attack"]
+[HashCode "5acf7922"]
+[Epoch "Rook"]
+[WhiteID "1000110"]
+[BlackID "400106"]
+[WhiteCountry "NED"]
+[BlackCountry "AND"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. f4 Nc6 5. Be3 Nf6 6. h3 O-O 7. g4 a6 8. Qf3 Rb8
+9. O-O-O b5 10. e5 Nxd4 11. Bxd4 Bb7 12. Qf2 Bxh1 13. exf6 exf6 14. Nf3 b4 15.
+Ne4 Re8 16. Ng3 Bxf3 17. Qxf3 a5 18. f5 d5 19. Qf4 a4 20. b3 axb3 21. axb3 Qe7
+22. Bf2 c5 23. Rxd5 Qa7 24. Rxc5 Bf8 25. Rc4 Qa1+ 26. Kd2 Bd6 27. Qxd6 Rbd8 28.
+Qxd8 Rxd8+ 29. Bd3 Qe5 30. Ne4 gxf5 31. gxf5 Qxf5 32. Kc1 Qxh3 33. Nxf6+ Kg7
+34. Rh4 Qf3 35. Rxh7+ Kxf6 36. Bh4+ Ke6 37. Bxd8 Qe3+ 38. Kd1 Qf3+ 1/2-1/2

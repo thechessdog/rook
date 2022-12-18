@@ -1,0 +1,22 @@
+[Event "corr Tch-SF"]
+[Site "corr Tch-SF"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Soini"]
+[Black "Ranta"]
+[Result "0-1"]
+[ECO "B69"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...a6 defence, 11.Bxf6"]
+[HashCode "fcd97312"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd2 a6 8.
+O-O-O Bd7 9. f4 Be7 10. Nf3 b5 11. Bxf6 gxf6 12. f5 b4 13. Ne2 Qb6 14. g4
+e5 15. Kb1 Na5 16. Nc1 Nc6 17. Bc4 a5 18. Rhg1 Rc8 19. Bb3 Nd8 20. Rg3 a4
+21. Bd5 Bc6 22. Ne1 Bxd5 23. exd5 Nb7 24. b3 Nc5 25. Re3 Kd7 26. Ned3 Na6
+27. Re4 Rb8 28. Nb2 axb3 29. cxb3 h5 30. Na4 Qb5 31. h3 Bd8 32. Nd3 Bb6 33.
+Nxb6+ Qxb6 34. g5 Qd8 35. Rg1 Rg8 36. h4 Nc5 37. Nxc5+ dxc5 38. d6 Rb6 39.
+Qd5 Rxd6 40. Qxf7+ Kc6 41. Rc1 Rd1 42. Qe6+ Kc7 43. Qc4 Rxc1+ 44. Kxc1 Kb6
+45. Qe2 Qd7 46. Qf2 Kc6 47. gxf6 Qd3 48. Qc2 Rg1+ 49. Kb2 Qf1 0-1
+

@@ -1,0 +1,23 @@
+[Event "US Open"]
+[Site "US Open"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Paxton, Larry"]
+[Black "Teodorson, E."]
+[Result "1-0"]
+[ECO "E97"]
+[Opening "King's Indian"]
+[Variation "orthodox, Aronin-Taimanov variation (Yugoslav attack / Mar del Plata variation)"]
+[HashCode "d9bb2dba"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 g6 3. Nf3 Bg7 4. Nc3 d6 5. e4 O-O 6. Be2 Nc6 7. O-O e5 8.
+d5 Ne7 9. h3 Ne8 10. Nh2 f5 11. f4 fxe4 12. fxe5 Bxe5 13. Bh6 Ng7 14. Ng4
+Nef5 15. Nxe4 Bxb2 16. Bg5 Bd4+ 17. Kh2 Qe8 18. Ngf6+ Bxf6 19. Nxf6+ Rxf6
+20. Bxf6 Ne3 21. Qd4 Nxf1+ 22. Rxf1 Nf5 23. Qd2 b6 24. Bd3 Qe3 25. Qxe3
+Nxe3 26. Re1 Nf5 27. g4 Kf7 28. Bg5 h6 29. gxf5 hxg5 30. fxg6+ Kf8 31. Rf1+
+Kg8 32. Rf7 Ba6 33. Rxc7 Rc8 34. Rc6 Rd8 35. Kg3 Kg7 36. Rc7+ Kg8 37. Kg4
+Rc8 38. Rc6 Kg7 39. Kxg5 Bb7 40. Rxd6 Rc7 41. h4 Re7 42. Re6 Rd7 43. h5 Ba6
+44. h6+ Kf8 45. g7+ Kf7 46. Rf6+ Ke7 47. g8=Q Rxd5+ 48. cxd5 Bxd3 49. Qg7+
+Kd8 50. Rf8# 1-0
+

@@ -1,0 +1,24 @@
+[Event "Esbjerg"]
+[Site "Esbjerg"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Hansen, Curt"]
+[Black "Nielsen, Jens"]
+[Result "1-0"]
+[ECO "B06"]
+[Opening "Robatsch defence"]
+[Variation "Pseudo-Austrian attack"]
+[HashCode "107f737b"]
+[Epoch "Rook"]
+[BlackID "1409310"]
+[WhiteID "1400010"]
+[WhiteCountry "DEN"]
+[BlackCountry "DEN"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. f4 c6 5. Nf3 Bg4 6. Be3 Qb6 7. Qd2 Bxf3 8. gxf3
+Nd7 9. O-O-O Qa5 10. Kb1 f5 11. Rg1 Nh6 12. Bc4 Nf6 13. Be6 Nh5 14. Rde1 Rf8
+15. Bf2 Rf6 16. d5 Rxe6 17. dxe6 Bxc3 18. Qxc3 Qxc3 19. bxc3 Ng7 20. Rg3 O-O-O
+21. Rh3 Nh5 22. Bd4 fxe4 23. fxe4 c5 24. Be3 Ng4 25. f5 Nhf6 26. Bg5 gxf5 27.
+exf5 Rg8 28. Bxf6 Nxf6 29. Rg3 Rxg3 30. hxg3 d5 31. c4 dxc4 32. Kb2 Kc7 33. a4
+Kc6 34. Rd1 h5 35. Rd8 b6 36. Ra8 a6 37. Ra7 Nd5 38. Kc1 c3 39. Kd1 Ne3+ 40.
+Ke2 Nxf5 41. Kd3 Nxg3 42. Rxe7 1-0

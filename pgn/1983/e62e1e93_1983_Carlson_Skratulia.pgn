@@ -1,0 +1,18 @@
+[Event "corr USCCC"]
+[Site "corr USCCC"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Carlson, Curtis"]
+[Black "Skratulia"]
+[Result "1-0"]
+[ECO "B88"]
+[Opening "Sicilian"]
+[Variation "Sozin, Leonhardt variation"]
+[HashCode "e62e1e93"]
+[Epoch "Rook"]
+[WhiteID "2002868"]
+[WhiteCountry "USA"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bc4 e6 7. Bb3 a6 8. Be3
+Qc7 9. Qe2 Na5 10. g4 b5 11. f3 Bb7 12. g5 Nd7 13. O-O-O Nxb3+ 14. axb3 b4 15.
+Na4 Be7 16. Kb1 g6 17. Qf2 Nc5 18. h4 1-0

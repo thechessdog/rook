@@ -1,0 +1,18 @@
+[Event "corr CSSR"]
+[Site "corr CSSR"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Melicharek"]
+[Black "Hecko"]
+[Result "0-1"]
+[ECO "C08"]
+[Opening "French"]
+[Variation "Tarrasch, open, 4.ed ed"]
+[HashCode "3b46521e"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. exd5 exd5 5. Bb5+ Bd7 6. Qe2+ Be7 7. dxc5
+Nf6 8. Nb3 O-O 9. Be3 Re8 10. Nf3 Bxc5 11. Nxc5 Qa5+ 12. Qd2 Qxb5 13. O-O-O
+Bc6 14. Bd4 Ne4 15. Nxe4 dxe4 16. Ne1 Nd7 17. h4 Nf8 18. Rh3 Ne6 19. Rg3
+Rad8 20. Qh6 Rxd4 21. Rxd4 Qe5 22. Rd1 Qxg3 0-1
+

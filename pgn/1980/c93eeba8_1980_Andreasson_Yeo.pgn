@@ -1,0 +1,20 @@
+[Event "Benedictine"]
+[Site "Manchester open"]
+[Date "1980.09.01"]
+[Round "1"]
+[White "Andreasson, I."]
+[Black "Yeo, M."]
+[Result "1-0"]
+[ECO "D02"]
+[Opening "Queen's pawn game, Chigorin variation"]
+[HashCode "c93eeba8"]
+[Epoch "Rook"]
+
+1. Nf3 Nc6 2. d4 d5 3. c4 Bg4 4. Nc3 e5 5. cxd5 Bxf3 6. gxf3 exd4 7. dxc6
+dxc3 8. cxb7 Qxd1+ 9. Kxd1 Rd8+ 10. Kc2 cxb2 11. Bxb2 Rb8 12. f4 Rxb7 13.
+Bg2 Rb6 14. Be5 c5 15. Bc7 Rg6 16. Be4 Re6 17. Bd5 Rxe2+ 18. Kd3 Rxf2 19.
+Bc6+ Ke7 20. Rhg1 Kf6 21. Rae1 Ne7 22. Be5+ Ke6 23. Be8 Kd5 24. Ke3 Rxh2
+25. Bxf7+ Kc6 26. Be8+ Kb6 27. Rb1+ Ka6 28. Bb5+ Kb7 29. Bd7+ Ka6 30. Rgd1
+Rh6 31. Bb5+ Ka5 32. Bc7+ Rb6 33. Bxb6+ Kxb6 34. Be8+ Kc7 35. Ke4 Nc6 36.
+Bxc6 Kxc6 37. Rd8 c4 38. Rbb8 c3 39. Kd3 1-0
+

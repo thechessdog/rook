@@ -1,0 +1,17 @@
+[Event "St Louis"]
+[Site "St Louis"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Lewis"]
+[Black "Applebee, J."]
+[Result "0-1"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Milner-Barry gambit"]
+[HashCode "bf0ba918"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bb4+ 8.
+Nc3 Nge7 9. O-O Bd7 10. Nb5 a6 11. Nc3 Nxd4 12. Be3 Nxf3+ 13. Qxf3 d4 14.
+Bf4 dxc3 15. bxc3 Bc6 16. Be4 Bxe4 17. Qxe4 Bxc3 18. Rab1 Qc6 0-1
+

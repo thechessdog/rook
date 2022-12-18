@@ -1,0 +1,18 @@
+[Event "Espergarde"]
+[Site "Espergarde"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Nilsson, Zandor"]
+[Black "Mortensen"]
+[Result "0-1"]
+[ECO "A73"]
+[Opening "Benoni"]
+[Variation "classical, 9.O-O"]
+[HashCode "d631beec"]
+[Epoch "Rook"]
+[WhiteCountry "SWE"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. Be2 Bg7 8. Nf3
+O-O 9. O-O Bg4 10. Be3 a6 11. a4 Nbd7 12. Nd2 Bxe2 13. Nxe2 Re8 14. Qc2 Rb8 15.
+a5 Qe7 16. Ra4 Ne5 17. f3 Qd7 18. f4 Nxd5 19. Bxc5 dxc5 20. exd5 Ng4 21. Ne4
+Ne3 22. Nxc5 Qxd5 0-1

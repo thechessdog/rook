@@ -1,0 +1,24 @@
+[Event "corr WT/M/GT"]
+[Site "corr WT/M/GT"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Borwell, A."]
+[Black "Ihlebaeck, R."]
+[Result "0-1"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Nimzovich system"]
+[HashCode "f6ee0c31"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. Nf3 cxd4 5. Bd3 Nc6 6. O-O Bc5 7. a3 Nge7 8.
+Bf4 Ng6 9. Bg3 O-O 10. Nbd2 f5 11. exf6 gxf6 12. Nb3 Bb6 13. Nh4 Kg7 14. f4
+e5 15. Nxg6 hxg6 16. fxe5 fxe5 17. Rxf8 Qxf8 18. Bb5 Qf6 19. Qf3 d3+ 20.
+Kh1 Qxf3 21. gxf3 dxc2 22. Bxc6 bxc6 23. Bxe5+ Kf7 24. Kg2 Bf5 25. Nd4 Bxd4
+26. Bxd4 a6 27. b4 Re8 28. Kf2 Bd3 29. Be3 Re5 30. Re1 d4 31. Bc1 Ke6 32.
+Bf4 Rxe1 33. Kxe1 Kd5 34. Kd2 Kc4 35. Kc1 Bf5 36. Kb2 Kd3 37. h4 Ke2 38.
+Kc1 Kxf3 39. Bg5 Ke2 40. Bf4 Kd3 41. Bd2 Kc4 42. Kb2 a5 43. Be1 c1=Q+ 44.
+Kxc1 Kb3 45. Bf2 Kxa3 46. bxa5 c5 47. a6 Kb4 48. a7 Be4 49. Kd2 Kb5 50. Bg3
+c4 51. Be5 c3+ 52. Kc1 Kc4 53. Bf6 d3 54. Bg5 Bf3 55. Bh6 d2+ 56. Bxd2
+cxd2+ 57. Kxd2 Kd4 0-1
+

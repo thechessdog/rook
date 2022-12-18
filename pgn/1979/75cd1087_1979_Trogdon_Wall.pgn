@@ -1,0 +1,16 @@
+[Event "Dayton,OH"]
+[Site "Dayton,OH"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Trogdon, Tim"]
+[Black "Wall, Bill"]
+[Result "0-1"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "classical variation"]
+[HashCode "75cd1087"]
+[Epoch "Rook"]
+[BlackCountry "USA"]
+
+1. b3 d5 2. Bb2 Nf6 3. f4 g6 4. Nf3 Bg7 5. d3 O-O 6. e3 c5 7. Nbd2 Nc6 8. g3
+Re8 9. Be2 Ng4 10. Bxg7 Nxe3 11. Qc1 Kxg7 12. Nf1 Qa5+ 13. Qd2 Nxc2+ 0-1

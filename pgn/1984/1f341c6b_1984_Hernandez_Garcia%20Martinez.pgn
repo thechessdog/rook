@@ -1,0 +1,18 @@
+[Event "Bayamo"]
+[Site "Bayamo"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Hernandez, Roman"]
+[Black "Garcia Martinez, Silvino"]
+[Result "1/2-1/2"]
+[ECO "E12"]
+[Opening "Queen's Indian"]
+[Variation "4.Nc3"]
+[HashCode "1f341c6b"]
+[Epoch "Rook"]
+[BlackID "3500179"]
+[BlackCountry "CUB"]
+[WhiteCountry "CUB"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 b6 4. Nc3 Bb4 5. Qb3 a5 6. a3 Bxc3+ 7. Qxc3 Bb7 8. e3
+O-O 9. Be2 d6 10. b3 Nbd7 11. Bb2 Ne4 1/2-1/2

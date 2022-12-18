@@ -1,0 +1,18 @@
+[Event "Brussels"]
+[Site "Brussels"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Jadoul, Michel"]
+[Black "Becker, N."]
+[Result "1-0"]
+[ECO "C17"]
+[Opening "French"]
+[Variation "Winawer, advance variation"]
+[HashCode "2a418e7e"]
+[Epoch "Rook"]
+[WhiteID "200034"]
+[WhiteCountry "BEL"]
+
+1. d4 e6 2. e4 d5 3. Nc3 Bb4 4. e5 c5 5. Nf3 Nc6 6. Bb5 Ne7 7. O-O Bd7 8. dxc5
+Bxc3 9. Bxc6 Nxc6 10. bxc3 Qa5 11. Be3 Qxc3 12. Rb1 O-O-O 13. Rb3 Qa5 14. Qd3
+Qc7 15. Rfb1 Na5 16. Rxb7 Nxb7 17. Qa6 1-0

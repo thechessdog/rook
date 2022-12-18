@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Bernard"]
+[Black "Konikowski"]
+[Result "1/2-1/2"]
+[ECO "C64"]
+[Opening "Ruy Lopez"]
+[Variation "classical defence, 4.c3"]
+[HashCode "e35d8913"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. c3 d5 5. Nxe5 Qg5 6. O-O Qxe5 7. d4 Qe6
+8. exd5 Qxd5 9. dxc5 Qxc5 10. Qe2+ Be6 11. Be3 Qf5 12. Bxc6+ bxc6 13. Nd2
+Ne7 14. Nf3 Qb5 15. Nd4 Qxe2 16. Nxe2 O-O-O 17. b3 Kb7 18. Rad1 f6 19. Bc5
+Nf5 20. Nd4 Nxd4 21. Rxd4 Rxd4 22. Bxd4 1/2-1/2
+

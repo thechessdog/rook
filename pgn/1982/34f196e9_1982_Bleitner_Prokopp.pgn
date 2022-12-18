@@ -1,0 +1,25 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Bleitner"]
+[Black "Prokopp, H."]
+[Result "1-0"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, poisoned pawn, Konstantinopolsky variation"]
+[HashCode "34f196e9"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Qg4 Qc7 8.
+Qxg7 Rg8 9. Qxh7 cxd4 10. Ne2 Nbc6 11. f4 Bd7 12. Rb1 dxc3 13. Qd3 Nf5 14.
+h4 d4 15. h5 O-O-O 16. Rh3 a6 17. Ng3 Rxg3 18. Rxg3 Nxe5 19. fxe5 Qxe5+ 20.
+Kf2 Nxg3 21. Qxg3 Qf5+ 22. Ke1 Qe4+ 23. Be2 Ba4 24. Qf3 Bxc2 25. Rb4 b5 26.
+Qxe4 Bxe4 27. a4 Bxg2 28. axb5 a5 29. Rc4+ Kb7 30. Bg5 Rd5 31. h6 Be4 32.
+h7 Bxh7 33. Bf3 Kb6 34. Bxd5 exd5 35. Rxd4 Be4 36. Be3 Kxb5 37. Kf2 Kc6 38.
+Kg3 Kc5 39. Kf4 f5 40. Ke5 Kc6 41. Rd1 Kb5 42. Kd4 Kb4 43. Ra1 a4 44. Bc1
+c2 45. Ra2 Kb5 46. Bd2 Kc6 47. Rxa4 Kb5 48. Rb4+ Kc6 49. Rb3 Kc7 50. Be3
+Kc6 51. Bf4 Kd7 52. Rc3 Ke6 53. Rc7 Kf6 54. Rc6+ Ke7 55. Ke5 Kd7 56. Rc5 d4
+57. Kf6 d3 58. Rc7+ Kd8 59. Ke6 d2 60. Rd7+ Kc8 61. Bxd2 Bc6 62. Rf7 Be4
+63. Kd6 Kb8 64. Rc7 Ka8 65. Kc5 Kb8 66. Kb6 1-0
+

@@ -1,0 +1,24 @@
+[Event "Moscow"]
+[Site "Moscow"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Karner, Hillar"]
+[Black "Gutman, Lev"]
+[Result "0-1"]
+[ECO "A16"]
+[Opening "English"]
+[Variation "Anglo-Gruenfeld defense"]
+[HashCode "01f2a882"]
+[Epoch "Rook"]
+[BlackID "4600177"]
+[BlackCountry "GER"]
+[WhiteID "4500202"]
+[WhiteCountry "EST"]
+
+1. c4 Nf6 2. Nc3 d5 3. cxd5 Nxd5 4. Nf3 Nxc3 5. dxc3 Qxd1+ 6. Kxd1 f6 7. e4 e5
+8. Bc4 Bc5 9. Ke2 Nd7 10. Rd1 Nb6 11. Bb3 a5 12. a4 Bg4 13. h3 Bh5 14. Be3 Bxe3
+15. Kxe3 Ke7 16. g4 Be8 17. g5 Bh5 18. Rg1 Bxf3 19. Kxf3 Rad8 20. Ke3 Rd7 21.
+gxf6+ Kxf6 22. f4 exf4+ 23. Kxf4 g6 24. Rg5 Rf8 25. Rc5 Rd3 26. e5+ Kg7+ 27.
+Ke4 Rdf3 28. Rxc7+ Kh6 29. Kd4 Rd8+ 30. Ke4 Rxh3 31. Rxb7 Rh4+ 32. Ke3 Rh3+ 33.
+Ke4 Rh4+ 34. Ke3 Rh3+ 35. Kf2 Rd2+ 36. Kg1 Nd7 37. Re1 Nc5 38. e6 Nxb7 39. e7
+Nd6 40. Re6 Rxb2 41. Bc4 Rxc3 0-1

@@ -1,0 +1,20 @@
+[Event "Buna-Turnier"]
+[Site "Halle"]
+[Date "1981.??.??"]
+[Round "10"]
+[White "Hausner, Ivan"]
+[Black "Lechtynsky, Jiri"]
+[Result "0-1"]
+[ECO "B96"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7.f4"]
+[HashCode "f0b94f55"]
+[Epoch "Rook"]
+[WhiteID "300110"]
+[BlackID "300217"]
+[WhiteCountry "CZE"]
+[BlackCountry "CZE"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Nbd7 8. Qf3
+Qc7 9. O-O-O b5 10. e5 dxe5 11. Qxa8 exd4 12. Rxd4 Bc5 13. Rd1 O-O 14. Qf3 Bb7
+15. Qg3 b4 16. Bh6 Nh5 17. Qg5 Ndf6 18. Ne2 Be3+ 19. Kb1 Ne4 0-1

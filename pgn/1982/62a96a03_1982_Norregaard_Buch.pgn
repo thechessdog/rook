@@ -1,0 +1,20 @@
+[Event "Denmark"]
+[Site "Denmark"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Norregaard, Christoffer"]
+[Black "Buch, Carsten"]
+[Result "1-0"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "62a96a03"]
+[Epoch "Rook"]
+[WhiteID "1401025"]
+[WhiteCountry "DEN"]
+
+1. e4 c5 2. c3 Nf6 3. d3 e6 4. Nf3 d5 5. Nbd2 Nc6 6. Qc2 Be7 7. a3 O-O 8. b4
+cxb4 9. axb4 b5 10. e5 Nd7 11. d4 Qb6 12. Bd3 f5 13. g4 fxg4 14. Bxh7+ Kh8 15.
+Rg1 Ndxe5 16. dxe5 Nxe5 17. Nd4 Bh4 18. Rg2 Bd7 19. N2b3 Rf6 20. Be3 Nc4 21.
+O-O-O Nxe3 22. fxe3 e5 23. Nc5 Bc8 24. Nf5 Bg5 25. Ne7 Bxe3+ 26. Kb2 Bxc5 27.
+Nxd5 Qd6 28. bxc5 Qf8 29. Nxf6 Qxf6 30. Rf2 Qh4 31. Rf8# 1-0

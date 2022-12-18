@@ -1,0 +1,20 @@
+[Event "Novi Sad"]
+[Site "Novi Sad"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Bjelajac, Milan"]
+[Black "Cabrilo, Goran"]
+[Result "1-0"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "97aec6bc"]
+[Epoch "Rook"]
+[BlackID "900249"]
+[BlackCountry "SRB"]
+[WhiteID "901261"]
+[WhiteCountry "SRB"]
+
+1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. d4 e6 5. Nf3 Nf6 6. Be2 Be7 7. O-O O-O 8. c4
+Qd7 9. Nc3 cxd4 10. Nxd4 b6 11. Bf3 Bb7 12. Nf5 Rd8 13. Nxe7+ Qxe7 14. Bxb7 Nc6
+15. Bxa8 Rxd1 16. Rxd1 Ne5 17. b3 1-0

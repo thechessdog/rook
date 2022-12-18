@@ -1,0 +1,23 @@
+[Event "corr DDR-M"]
+[Site "corr DDR-M"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Drescher, W."]
+[Black "Nicklich, W."]
+[Result "1-0"]
+[ECO "A88"]
+[Opening "Dutch"]
+[Variation "Leningrad, main variation with c6"]
+[HashCode "6dcc5f53"]
+[Epoch "Rook"]
+
+1. c4 c6 2. Nf3 f5 3. d4 Nf6 4. Nc3 g6 5. g3 Bg7 6. Bg2 d6 7. O-O O-O 8. d5
+e5 9. dxe6 Bxe6 10. Qd3 Na6 11. Ng5 Qe7 12. Bf4 Rad8 13. Rad1 Ng4 14. Nxe6
+Qxe6 15. e4 Nc5 16. exf5 Rxf5 17. Qe2 Qxe2 18. Nxe2 Ne5 19. Nd4 Rxf4 20.
+gxf4 Ned3 21. Nb3 Bxb2 22. Rd2 Bc3 23. Rc2 Bg7 24. Rd1 Nxb3 25. Rxd3 Nc5
+26. Re3 Kf7 27. h4 Kf6 28. Kh2 Kf5 29. Kg3 Bh6 30. Bh3+ Kf6 31. Bg2 Kf5 32.
+Re7 Bxf4+ 33. Kf3 Rf8 34. Bh3+ Kf6 35. Rxh7 g5 36. h5 Rf7 37. Rxf7+ Kxf7
+38. Bf5 Kg7 39. Kg4 b5 40. cxb5 cxb5 41. Re2 Be5 42. Kxg5 Bf6+ 43. Kg4 b4
+44. Re8 a5 45. Ra8 a4 46. Ra7+ Kf8 47. h6 a3 48. Bg6 Bb2 49. Ra8+ Ke7 50.
+h7 b3 51. axb3 Nxb3 52. Rxa3 1-0
+

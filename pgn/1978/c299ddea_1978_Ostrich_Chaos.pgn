@@ -1,0 +1,21 @@
+[Event "ACM Washington"]
+[Site "ACM Washington"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Ostrich"]
+[Black "Chaos"]
+[Result "0-1"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (without ...d6)"]
+[HashCode "c299ddea"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 Nf6 4. e5 Nd5 5. O-O Nc7 6. Nc3 Nxb5 7. Nxb5 h6
+8. c3 d5 9. exd6 exd6 10. Qe2+ Be6 11. d4 Be7 12. Be3 O-O 13. Rfd1 cxd4 14.
+cxd4 Nb4 15. a3 Nd5 16. Nc3 Qb6 17. Kh1 Qb3 18. Nxd5 Qxd5 19. h3 Rfe8 20.
+b4 Rec8 21. Rdc1 Qe4 22. Rxc8+ Rxc8 23. Nd2 Qc6 24. b5 Qc2 25. Rb1 d5 26.
+Rb3 Bxa3 27. b6 a5 28. Kg1 Bb4 29. Qd3 Qxd3 30. Rxd3 Rc6 31. Nb3 Bf5 32.
+Rd2 Bxd2 33. Bxd2 a4 34. Nc5 a3 35. g4 Bc2 36. Bc1 a2 37. Bb2 Rxb6 38. Ba1
+Rb1+ 0-1
+

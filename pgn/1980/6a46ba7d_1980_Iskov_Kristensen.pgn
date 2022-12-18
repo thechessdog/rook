@@ -1,0 +1,19 @@
+[Event "Hillerod"]
+[Site "Hillerod"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Iskov, Gert"]
+[Black "Kristensen, Bjarke Hautop"]
+[Result "0-1"]
+[ECO "B10"]
+[Opening "Caro-Kann"]
+[Variation "Goldman (Spielmann) variation"]
+[HashCode "6a46ba7d"]
+[Epoch "Rook"]
+[WhiteID "1400398"]
+[WhiteCountry "DEN"]
+
+1. e4 c6 2. Nc3 d5 3. Qf3 dxe4 4. Nxe4 Nd7 5. b3 Ndf6 6. Ne2 Nxe4 7. Qxe4 Nf6
+8. Qf3 g6 9. Bb2 Bg7 10. h3 O-O 11. g4 a5 12. a4 Qd6 13. Bg2 Be6 14. Qf4 Qc5
+15. Nd4 Bd5 16. Bxd5 e5 17. Qg3 cxd5 18. Ne2 Ne4 19. Qe3 Qxc2 20. Ba3 d4 21.
+Qf3 Nxd2 22. Qxb7 Rab8 23. Qc7 0-1

@@ -1,0 +1,18 @@
+[Event "corr DDR cup"]
+[Site "corr DDR cup"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Greiser"]
+[Black "Scholz"]
+[Result "1-0"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...e6"]
+[HashCode "82fa74fb"]
+[Epoch "Rook"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 e6 6. Nf3 Be7 7. Bf4 O-O 8.
+Qc2 Nh5 9. Be3 f5 10. cxd5 f4 11. Bd2 exd5 12. Nxd5 Bd6 13. Bc4 Kh8 14. h4
+Qe8+ 15. Kf1 Bf5 16. Qb3 b6 17. Re1 Qc8 18. Nb4 Bxb4 19. Bxb4 Re8 20. Ne5
+Rxe5 21. Rxe5 Nc6 22. Bd5 Nxe5 23. Bxa8 Qc1+ 24. Ke2 f3+ 1-0
+

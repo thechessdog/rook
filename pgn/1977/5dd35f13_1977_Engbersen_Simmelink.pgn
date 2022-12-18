@@ -1,0 +1,20 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Engbersen, J."]
+[Black "Simmelink, J."]
+[Result "0-1"]
+[ECO "B50"]
+[Opening "Sicilian"]
+[Variation "wing gambit deferred"]
+[HashCode "5dd35f13"]
+[Epoch "Rook"]
+[BlackCountry "NLD"]
+
+1. e4 c5 2. Nf3 d6 3. b4 cxb4 4. d4 Nf6 5. Bd3 d5 6. Nbd2 e6 7. O-O Be7 8. Re1
+Nc6 9. e5 Nd7 10. Nf1 Nb6 11. Qe2 Na4 12. Bd2 Nc3 13. Bxc3 bxc3 14. Bb5 Bd7 15.
+Qd3 Rc8 16. Ng3 Nb4 17. Bxd7+ Qxd7 18. Qd1 Qa4 19. a3 Na6 20. Qd3 Qc4 21. Qe3
+Nc7 22. Nh5 Nb5 23. Nxg7+ Kd7 24. Qf4 Rhf8 25. Nh5 Nxa3 26. Nf6+ Kc7 27. Nxh7
+Nxc2 28. Nxf8 Rxf8 29. Rxa7 Nxe1 30. Nxe1 c2 31. Qc1 Kb8 32. Ra1 Rc8 33. Nf3
+Qc3 0-1

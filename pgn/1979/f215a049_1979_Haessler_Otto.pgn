@@ -1,0 +1,18 @@
+[Event "corr DDR-H"]
+[Site "corr DDR-H"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Haessler, W."]
+[Black "Otto, W."]
+[Result "1-0"]
+[ECO "C08"]
+[Opening "French"]
+[Variation "Tarrasch, open, 4.ed ed"]
+[HashCode "f215a049"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. exd5 exd5 5. Bb5+ Nc6 6. Qe2+ Be6 7. Ngf3
+Qb6 8. O-O O-O-O 9. dxc5 Bxc5 10. c3 Nf6 11. b4 Bd6 12. Nb3 Rhe8 13. Be3
+Qc7 14. Bxc6 bxc6 15. Qa6+ Kb8 16. Na5 Bd7 17. Nd4 Rxe3 18. fxe3 Bxh2+ 19.
+Kh1 Ne4 20. Naxc6+ 1-0
+

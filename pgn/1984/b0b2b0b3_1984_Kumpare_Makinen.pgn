@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Kumpare"]
+[Black "Makinen"]
+[Result "0-1"]
+[ECO "E14"]
+[Opening "Queen's Indian"]
+[Variation "4.e3"]
+[HashCode "b0b2b0b3"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. e3 Bb7 5. Bd3 Be7 6. Nc3 d5 7. O-O O-O 8.
+b3 Nbd7 9. Bb2 c5 10. Qe2 Rc8 11. Rfd1 Qc7 12. Rac1 dxc4 13. bxc4 Rfd8 14.
+Ne5 a6 15. f4 Nf8 16. d5 exd5 17. cxd5 b5 18. Bf5 Rb8 19. e4 Ng6 20. Bxg6
+hxg6 21. g3 c4 22. a3 Ba8 23. Qf3 Bc5+ 24. Kh1 b4 25. Na4 bxa3 26. Bxa3 Rb3
+27. Rc3 Bxa3 0-1
+

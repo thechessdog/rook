@@ -1,0 +1,21 @@
+[Event "USA National League"]
+[Site "USA National League"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Sprague, Ross"]
+[Black "Winslow, E."]
+[Result "0-1"]
+[ECO "B25"]
+[Opening "Sicilian"]
+[Variation "closed, 6.f4"]
+[HashCode "608e62b3"]
+[Epoch "Rook"]
+[WhiteID "2036975"]
+[WhiteCountry "USA"]
+
+1. e4 c5 2. Nc3 d6 3. g3 Nc6 4. Bg2 g6 5. d3 Bg7 6. f4 f5 7. Nf3 Nf6 8. O-O O-O
+9. h3 Kh8 10. Be3 Be6 11. Qe1 Qd7 12. Ng5 Bg8 13. exf5 gxf5 14. Qf2 Rae8 15.
+Rae1 Nd4 16. Bxd4 cxd4 17. Ne2 h6 18. Nf3 e5 19. Nh4 Bh7 20. fxe5 dxe5 21. Nxf5
+Nd5 22. Be4 Ne3 23. g4 Nxc2 24. Qh4 Nxe1 25. Rxe1 Bxf5 26. Bxf5 Rxf5 27. gxf5
+Qxf5 28. Nxd4 Qxd3 29. Qe4 Qg3+ 30. Kh1 Qxh3+ 31. Kg1 Rg8 32. Nf5 Bf6+ 33. Kf2
+Qh2+ 34. Ke3 Bg5+ 35. Kf3 Bf4 0-1

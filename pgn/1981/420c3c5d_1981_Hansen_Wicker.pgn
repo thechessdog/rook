@@ -1,0 +1,20 @@
+[Event "Esbjerg"]
+[Site "Esbjerg"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Hansen, Curt"]
+[Black "Wicker, Kevin J"]
+[Result "1-0"]
+[ECO "C07"]
+[Opening "French"]
+[Variation "Tarrasch, open variation"]
+[HashCode "420c3c5d"]
+[Epoch "Rook"]
+[BlackID "401501"]
+[WhiteID "1400010"]
+[WhiteCountry "DEN"]
+[BlackCountry "ENG"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. Ngf3 Nf6 5. exd5 Nxd5 6. c4 Nf6 7. dxc5 Bxc5 8.
+Be2 Nc6 9. O-O Qc7 10. a3 a5 11. b3 O-O 12. Bb2 e5 13. Qc2 Re8 14. Ne4 Nxe4 15.
+Qxe4 Bd4 1-0

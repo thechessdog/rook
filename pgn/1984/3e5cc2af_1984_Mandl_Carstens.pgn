@@ -1,0 +1,29 @@
+[Event "Bundesliga 8384"]
+[Site "Duitsland tt"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Mandl, Rudolf"]
+[Black "Carstens, Andreas"]
+[Result "0-1"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "Indian variation"]
+[HashCode "3e5cc2af"]
+[Epoch "Rook"]
+[WhiteID "4604830"]
+[WhiteCountry "GER"]
+[BlackID "4600770"]
+[BlackCountry "GER"]
+
+1. b3 Nf6 2. Bb2 g6 3. g3 Bg7 4. Bg2 d6 5. f4 O-O 6. Nf3 c6 7. O-O e5 8. fxe5
+Ng4 9. h3 Nxe5 10. Nxe5 dxe5 11. e4 Be6 12. Rf2 Qg5 13. Kh2 f5 14. h4 Qe7 15.
+exf5 Rxf5 16. Qe2 Nd7 17. Na3 Rxf2 18. Qxf2 Nf6 19. Qe2 Ng4+ 20. Kg1 Rd8 21.
+Rf1 b5 22. Nb1 Qd6 23. Bf3 e4 24. Bxg4 Qxg3+ 25. Qg2 Qxg2+ 26. Kxg2 Bxg4 27.
+Bxg7 Kxg7 28. Kg3 Bf5 29. b4 Kf6 30. Kf4 Rd4 31. a3 e3+ 32. Kxe3 Rxh4 33. Nc3
+Ke5 34. d3 Rh3+ 35. Kd2 Rh2+ 36. Kd1 h5 37. Re1+ Kf6 38. a4 bxa4 39. b5 cxb5
+40. Nxb5 h4 41. d4 Rxc2 42. Nd6 Rc6 43. Ne8+ Kg5 44. d5 Rc5 45. d6 a3 46. Rg1+
+Bg4+ 47. Kd2 Rc8 48. Ng7 Kf6 49. Rxg4 Kxg7 50. Rb4 Rd8 51. Ra4 Rxd6+ 52. Ke3 a6
+53. Kf4 Kf6 54. Rxa3 Re6 55. Ra1 Ke7 56. Kg5 Kd7 57. Kxh4 Kc7 58. Kg5 Rc6 59.
+Kh6 Kb6 60. Rb1+ Kc5 61. Rc1+ Kb5 62. Rb1+ Ka4 63. Ra1+ Kb3 64. Kg5 Rc5+ 65.
+Kxg6 a5 66. Rb1+ Kc2 67. Rb8 a4 68. Ra8 Kb3 69. Rb8+ Kc3 70. Ra8 Kb4 71. Kf6 a3
+72. Ke6 Ra5 73. Rb8+ Kc3 74. Rc8+ Kd2 75. Rd8+ Ke2 76. Ra8 Rxa8 0-1

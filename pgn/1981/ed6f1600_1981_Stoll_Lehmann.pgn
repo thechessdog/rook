@@ -1,0 +1,28 @@
+[Event "Bundesliga 8081"]
+[Site "Duitsland tt"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Stoll, Joachim"]
+[Black "Lehmann, Heinz Dr"]
+[Result "0-1"]
+[ECO "D80"]
+[Opening "Gruenfeld"]
+[Variation "Stockholm variation"]
+[HashCode "ed6f1600"]
+[Epoch "Rook"]
+[WhiteCountry "GER"]
+[BlackCountry "DEU"]
+
+1. c4 Nf6 2. d4 g6 3. Nc3 d5 4. Bg5 Ne4 5. Bf4 Nxc3 6. bxc3 Bg7 7. Qa4+ Bd7 8.
+Qa5 c6 9. Qxd8+ Kxd8 10. e3 Be6 11. Nf3 f6 12. cxd5 Bxd5 13. c4 Bxf3 14. gxf3
+e5 15. dxe5 fxe5 16. Bg5+ Kc7 17. Rd1 Re8 18. Bh3 h6 19. Bh4 g5 20. Bg3 Re7 21.
+Bf5 Nd7 22. h4 Nf6 23. Rg1 Rf8 24. Bg6 Nd7 25. Ke2 Rf6 26. Bh5 Rd6 27. Bh2 Bf6
+28. hxg5 hxg5 29. Bg4 Rxd1 30. Rxd1 Nc5 31. Bg3 Re8 32. Rh1 Rh8 33. Rxh8 Bxh8
+34. f4 gxf4 35. exf4 Ne4 36. Bh2 Kd6 37. Ke3 Nc3 38. fxe5+ Bxe5 39. f4 Bf6 40.
+a3 a5 41. Bc8 b6 42. Kd3 Na4 43. f5+ Be5 44. Bxe5+ Kxe5 45. f6 Kxf6 46. Kd4 Nc5
+47. Bh3 Ke7 48. Ke5 Nd7+ 49. Kd4 Kd6 50. Bg2 Nc5 51. Bf3 Ne6+ 52. Kc3 Kc5 53.
+Bg4 Nf4 54. Bf3 Ng6 55. Bh5 Ne5 56. Be2 Nf7 57. Bf1 Ng5 58. Bg2 Kd6 59. Kd3 c5
+60. Ke3 Ke5 61. a4 Nf7 62. Bf1 Nh6 63. Bh3 Ng8 64. Bg2 Ne7 65. Be4 Nc8 66. Bh7
+Nd6 67. Bd3 Nf7 68. Bf1 Nd8 69. Bg2 Ne6 70. Bd5 Nf4 71. Bf3 Ng6 72. Bg2 Kd6 73.
+Be4 Ne5 74. Bd5 Ng4+ 75. Kf4 Nf2 76. Be4 Nh3+ 77. Kf5 Ng1 78. Bd3 Nf3 79. Kf4
+Nd4 0-1

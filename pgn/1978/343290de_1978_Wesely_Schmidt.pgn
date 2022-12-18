@@ -1,0 +1,24 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Wesely, H."]
+[Black "Schmidt, Wlodzimierz"]
+[Result "0-1"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, 6.Bd3"]
+[HashCode "343290de"]
+[Epoch "Rook"]
+[BlackID "1100041"]
+[BlackCountry "POL"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 O-O 6. Bd3 Nc6 7. e5 dxe5 8. fxe5
+Nd5 9. Nxd5 Qxd5 10. c3 Rd8 11. Bc2 Bg4 12. h3 Bxf3 13. Qxf3 Qxf3 14. gxf3 a5
+15. Be4 f5 16. Bxc6 bxc6 17. f4 a4 18. Be3 Rab8 19. O-O-O e6 20. c4 Bf8 21. Kc2
+Be7 22. Rd3 Kf7 23. Rg1 h6 24. Rd2 Rb7 25. c5 Rg8 26. Kc3 Rbb8 27. Rdg2 Rg7 28.
+Bf2 Rgg8 29. h4 Rb7 30. Be1 Rb5 31. Kc4 Rb7 32. Rh1 Ra7 33. Kb4 Rd8 34. Bf2
+Rb7+ 35. Ka3 Rdb8 36. Be3 Rg8 37. Rc2 Rgb8 38. Rh3 Rb4 39. Bf2 R4b7 40. Rhc3
+Ra8 41. Rc4 Rba7 42. Rb4 g5 43. hxg5 hxg5 44. fxg5 Bxg5 45. Bg1 f4 46. Rg2 Kg6
+47. d5 Kf5 48. d6 cxd6 49. cxd6 Ra5 50. Bh2 Rd5 51. Rb7 c5 52. b3 axb3+ 53.
+Kxb3 Rxe5 54. Rf7+ Ke4 55. Re2+ 0-1

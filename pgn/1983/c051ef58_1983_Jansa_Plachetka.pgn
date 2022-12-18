@@ -1,0 +1,20 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Jansa, Vlastimil"]
+[Black "Plachetka, Jan"]
+[Result "1/2-1/2"]
+[ECO "B17"]
+[Opening "Caro-Kann"]
+[Variation "Steinitz variation"]
+[HashCode "c051ef58"]
+[Epoch "Rook"]
+[WhiteID "300128"]
+[WhiteCountry "CZE"]
+[BlackID "14900068"]
+[BlackCountry "SVK"]
+
+1. e4 c6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Nxf6+ Nxf6 7. Ne5 Nd7
+8. Nd3 e6 9. Be2 Bd6 10. Be3 Qc7 11. Qd2 O-O 12. O-O-O e5 13. dxe5 Nxe5 14.
+Nxe5 1/2-1/2

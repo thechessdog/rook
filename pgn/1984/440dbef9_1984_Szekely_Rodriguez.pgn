@@ -1,0 +1,18 @@
+[Event "Yerevan"]
+[Site "Yerevan"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Szekely, Peter"]
+[Black "Rodriguez Cespedes, Amador"]
+[Result "1/2-1/2"]
+[ECO "D14"]
+[Opening "QGD Slav"]
+[Variation "exchange variation, 6.Bf4 Bf5"]
+[HashCode "440dbef9"]
+[Epoch "Rook"]
+[WhiteID "14937492"]
+[WhiteCountry "SVK"]
+[BlackCountry "ESP"]
+
+1. Nf3 Nf6 2. c4 c6 3. Nc3 d5 4. cxd5 cxd5 5. d4 Nc6 6. Bf4 Bf5 7. e3 e6 8. Bd3
+Bxd3 9. Qxd3 Bd6 10. Bg3 O-O 11. O-O Rc8 12. Rac1 Bxg3 13. hxg3 1/2-1/2

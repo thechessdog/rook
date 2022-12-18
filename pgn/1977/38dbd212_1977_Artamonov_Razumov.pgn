@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Artamonov"]
+[Black "Razumov"]
+[Result "1-0"]
+[ECO "A65"]
+[Opening "Benoni"]
+[Variation "6.e4"]
+[HashCode "38dbd212"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. Bd3 Bg7 8.
+Nge2 O-O 9. O-O a6 10. a4 b6 11. h3 Nbd7 12. Ng3 Re8 13. f4 h5 14. e5 dxe5
+15. f5 gxf5 16. Bxf5 Nf8 17. Bg5 Bxf5 18. Nxf5 N8h7 19. Nxg7 Kxg7 20. Qc1
+Kh8 21. Bxf6+ 1-0
+

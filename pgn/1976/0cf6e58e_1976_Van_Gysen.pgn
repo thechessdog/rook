@@ -1,0 +1,15 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Van Geemen"]
+[Black "Gysen"]
+[Result "1-0"]
+[ECO "A45"]
+[Opening "Blackmar-Diemer gambit"]
+[HashCode "0cf6e58e"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. f3 d5 3. e4 dxe4 4. Nc3 exf3 5. Qxf3 Qxd4 6. Be3 Qe5 7. O-O-O
+Nc6 8. h3 Qf5 9. Nb5 1-0
+

@@ -1,0 +1,20 @@
+[Event "Salgotarjan"]
+[Site "Salgotarjan"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Sulyok, Sandor"]
+[Black "Bakos, S."]
+[Result "1-0"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical system, 5.Be2"]
+[HashCode "2ae2b976"]
+[Epoch "Rook"]
+[WhiteID "702021"]
+[WhiteCountry "HUN"]
+
+1. e4 g6 2. Nf3 Bg7 3. d4 d6 4. Be2 Nf6 5. Nc3 O-O 6. O-O c6 7. h3 b5 8. a3 a6
+9. Be3 Nbd7 10. Qd2 Qc7 11. Bh6 Bb7 12. Bxg7 Kxg7 13. Rfe1 c5 14. dxc5 Nxc5 15.
+Nd5 Bxd5 16. exd5 Rac8 17. Rac1 Qb7 18. Rcd1 Nce4 19. Qd4 Nc5 20. b4 Na4 21. g4
+Qb6 22. g5 Qxd4 23. Rxd4 Nd7 24. c4 Nc3 25. Bf1 Rfe8 26. Re3 Na2 27. cxb5 axb5
+28. Bxb5 Rc7 29. Bxd7 Rxd7 30. Rd2 Nc1 31. Rc3 1-0

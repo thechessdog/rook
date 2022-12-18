@@ -1,0 +1,19 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Rudnick"]
+[Black "Fechner"]
+[Result "1-0"]
+[ECO "C57"]
+[Opening "two knights defence"]
+[Variation "Wilkes Barre (Traxler) variation"]
+[HashCode "3c18e5ac"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 Bc5 5. d4 d5 6. Bxd5 Nxd4 7. Bxf7+
+Ke7 8. Bc4 Rf8 9. c3 Nc6 10. Qxd8+ Kxd8 11. f3 Ke7 12. h4 h6 13. Nh3 a5 14.
+a4 Nh5 15. b3 Nd8 16. Ba3 Bxa3 17. Nxa3 c6 18. O-O-O Ng3 19. Rh2 Ne6 20.
+Nf2 Nf4 21. Nd3 Nxd3+ 22. Bxd3 Be6 23. Nc4 Bxc4 24. Bxc4 Rad8 25. Rxd8 Rxd8
+26. h5 b5 27. axb5 cxb5 28. Bxb5 Rb8 29. Bc4 a4 30. Rh3 1-0
+

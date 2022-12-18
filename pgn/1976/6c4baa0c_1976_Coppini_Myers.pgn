@@ -1,0 +1,20 @@
+[Event "Firenze"]
+[Site "Firenze"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Coppini, Giorgio"]
+[Black "Myers, Hugh S"]
+[Result "1/2-1/2"]
+[ECO "B00"]
+[Opening "KP"]
+[Variation "Nimzovich defence"]
+[HashCode "6c4baa0c"]
+[Epoch "Rook"]
+[WhiteID "800988"]
+[BlackID "2091720"]
+[WhiteCountry "ITA"]
+[BlackCountry "USA"]
+
+1. e4 Nc6 2. Nf3 d6 3. d4 Nf6 4. Nc3 Bg4 5. Be3 e5 6. Be2 Be7 7. d5 Nb8 8. Nd2
+Bxe2 9. Qxe2 c6 10. O-O Nbd7 11. Rad1 cxd5 12. exd5 O-O 13. Kh1 Nb6 14. Nb3 Rc8
+15. Bxb6 Qxb6 16. f4 Nd7 17. f5 Qb4 1/2-1/2

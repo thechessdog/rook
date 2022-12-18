@@ -1,0 +1,18 @@
+[Event "Latina"]
+[Site "Latina"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Vallifuoco, Gc"]
+[Black "Martorelli"]
+[Result "0-1"]
+[ECO "A28"]
+[Opening "English"]
+[Variation "four knights, 4.e3"]
+[HashCode "a274924f"]
+[Epoch "Rook"]
+
+1. c4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. e3 Bb4 5. Qc2 O-O 6. a3 Bxc3 7. Qxc3 Re8
+8. b4 d5 9. cxd5 Nxd5 10. Qc5 Bg4 11. Bb2 e4 12. b5 exf3 13. bxc6 fxg2 14.
+Bxg2 Nf4 15. O-O Nxg2 16. Kxg2 Re6 17. cxb7 Rb8 18. f3 Qxd2+ 19. Kg3 Bh3
+20. Kxh3 Rh6+ 21. Kg4 Qg2+ 22. Kf4 Rh4+ 23. Ke5 Qg5# 0-1
+

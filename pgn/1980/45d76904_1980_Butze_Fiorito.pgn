@@ -1,0 +1,18 @@
+[Event "corr EU"]
+[Site "corr EU"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Butze, Roland"]
+[Black "Fiorito, M."]
+[Result "1-0"]
+[ECO "B84"]
+[Opening "Sicilian"]
+[Variation "Scheveningen (Paulsen), classical variation"]
+[HashCode "45d76904"]
+[Epoch "Rook"]
+[WhiteCountry "DEU"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e6 7. O-O Qc7 8. f4
+Be7 9. Be3 O-O 10. g4 b5 11. g5 Nfd7 12. a3 Re8 13. f5 Bf8 14. g6 Nf6 15. Bh5
+Kh8 16. gxf7 Re7 17. fxe6 Rxe6 18. Nd5 Nxd5 19. Nxe6 Bxe6 20. exd5 Bc8 21. Qd4
+Nd7 22. Bh6 Bb7 23. Rae1 Qc5 24. Qxc5 dxc5 25. Bg5 Bxd5 26. Re8 1-0

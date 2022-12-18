@@ -1,0 +1,19 @@
+[Event "Monte Carlo"]
+[Site "Monte Carlo"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Casa"]
+[Black "Ripa, A."]
+[Result "0-1"]
+[ECO "B06"]
+[Opening "Robatsch defence"]
+[Variation "two knights, Suttles variation"]
+[HashCode "a9e50d3a"]
+[Epoch "Rook"]
+
+1. e4 g6 2. d4 Bg7 3. Nf3 d6 4. Nc3 c6 5. Bc4 Nf6 6. Qe2 O-O 7. Bb3 Bg4 8.
+O-O Nbd7 9. e5 dxe5 10. dxe5 Nd5 11. Nxd5 cxd5 12. Bxd5 Nxe5 13. Bxb7 Rb8
+14. Be4 f5 15. Rd1 fxe4 16. Rxd8 Rbxd8 17. Bg5 exf3 18. Qb5 Rd7 19. h3 Be6
+20. Re1 fxg2 21. Kxg2 Bd5+ 22. Kg3 Rf3+ 23. Kh2 Rxf2+ 24. Kg3 Rf3+ 25. Kh2
+Rf2+ 26. Kg3 Rf3+ 27. Kh2 Rf5 28. Bc1 Rf2+ 29. Kg3 Rg2+ 30. Kf4 g5+ 0-1
+

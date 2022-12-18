@@ -1,0 +1,25 @@
+[Event "Mosbach Elo"]
+[Site "Mosbach Elo"]
+[Date "1980.01.01"]
+[Round "9"]
+[White "Busch, Raimund"]
+[Black "Arnold, Lothar"]
+[Result "0-1"]
+[ECO "A67"]
+[Opening "Benoni"]
+[Variation "Taimanov variation"]
+[HashCode "1293c8ea"]
+[Epoch "Rook"]
+[WhiteID "4602480"]
+[WhiteCountry "GER"]
+[BlackID "4604300"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. f4 Bg7 8. Bb5+
+Nfd7 9. Bd3 O-O 10. Nf3 Na6 11. O-O Nb4 12. Be2 Re8 13. a3 Na6 14. Nd2 Nb6 15.
+a4 Bd7 16. a5 Nc8 17. Nc4 Nb4 18. Be3 Bf8 19. e5 b5 20. axb6 Nxb6 21. Nxb6 axb6
+22. Rxa8 Qxa8 23. Ne4 Be7 24. Bf3 Qb8 25. Qd2 Bf5 26. exd6 Bh4 27. Ng3 Bxg3 28.
+hxg3 Qxd6 29. Rd1 h5 30. Bf2 Nd3 31. Ra1 Qf6 32. Ra2 b5 33. Ra5 Qb6 34. b4 Nxf2
+35. Qxf2 Rc8 36. Ra2 Qd6 37. bxc5 Rxc5 38. Ra8+ Rc8 39. Rxc8+ Bxc8 40. Qc2 Bb7
+41. Qb2 b4 42. Qe5 Qxe5 43. fxe5 b3 44. Be4 b2 45. Kf2 Bxd5 46. Bb1 Kf8 47. Ke3
+Ke7 48. Kd4 Ke6 49. Kc3 Kxe5 50. Kxb2 Bxg2 51. Kc3 Be4 52. Ba2 0-1

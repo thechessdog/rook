@@ -1,0 +1,19 @@
+[Event "Salgotarjan"]
+[Site "Salgotarjan"]
+[Date "1978.??.??"]
+[Round "?"]
+[White "Gal, Gabor"]
+[Black "Ponyi, Attila"]
+[Result "1/2-1/2"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "Dutch variation"]
+[HashCode "4b2198c9"]
+[Epoch "Rook"]
+[WhiteID "704261"]
+[BlackID "715972"]
+[WhiteCountry "HUN"]
+[BlackCountry "HUN"]
+
+1. b3 f5 2. Bb2 e6 3. Nf3 Nf6 4. d3 b6 5. g3 Bb7 6. Bg2 Be7 7. Nbd2 O-O 8. O-O
+Qe8 9. e3 Qh5 10. Ne5 Qxd1 11. Rfxd1 Bxg2 12. Kxg2 d6 1/2-1/2

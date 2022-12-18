@@ -1,0 +1,20 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Osnos, Vyacheslav"]
+[Black "Makarichev, Sergey"]
+[Result "0-1"]
+[ECO "E21"]
+[Opening "Nimzo-Indian"]
+[Variation "three knights variation"]
+[HashCode "3dbf1e16"]
+[Epoch "Rook"]
+[BlackID "4100468"]
+[BlackCountry "RUS"]
+[WhiteCountry "RUS"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Nf3 c5 5. e3 O-O 6. Bd2 cxd4 7. exd4 d5 8. c5
+b6 9. Na4 bxc5 10. Nxc5 Bxd2+ 11. Qxd2 Ne4 12. Nxe4 dxe4 13. Ng5 Bb7 14. f3
+exf3 15. gxf3 Nc6 16. O-O-O Nxd4 17. Qxd4 Qxg5+ 18. f4 Rac8+ 19. Kb1 Qd8 20.
+Rg1 Be4+ 0-1

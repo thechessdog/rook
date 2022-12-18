@@ -1,0 +1,23 @@
+[Event "Ohio"]
+[Site "Ohio"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Schulien, Charles"]
+[Black "Diebert, Charles"]
+[Result "1-0"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Nimzovich (knight's tour) variation"]
+[HashCode "846f9618"]
+[Epoch "Rook"]
+[BlackID "2065517"]
+[WhiteID "2001527"]
+[WhiteCountry "USA"]
+[BlackCountry "USA"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. Nd2 Bg7 8. Nc4
+O-O 9. Bg5 h6 10. Bf4 Re8 11. Nxd6 Nh5 12. Nxe8 Bxc3+ 13. bxc3 Nxf4 14. Qd2 g5
+15. Qe3 Kf8 16. Qxc5+ Kxe8 17. e4 Nd7 18. Qd4 f6 19. h4 g4 20. h5 Ne5 21. Qe3
+Qa5 22. Rd1 Nh3 23. f4 Nxf4 24. Qxf4 Qxc3+ 25. Rd2 Qc1+ 26. Kf2 g3+ 27. Kxg3
+Kf7 28. Rh4 Bd7 29. Rf2 Rg8+ 30. Kh2 Qc3 31. Qxf6+ Ke8 32. d6 Qg3+ 33. Kg1 Nc6
+34. Rhf4 Bh3 35. Qf7+ Kd8 36. Qxg8+ Qxg8 37. Rf8+ Qxf8 38. Rxf8+ 1-0

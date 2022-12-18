@@ -1,0 +1,19 @@
+[Event "corr Baltic tt"]
+[Site "corr Baltic tt"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Szewczyk, G."]
+[Black "Eriksson, L."]
+[Result "1-0"]
+[ECO "E43"]
+[Opening "Nimzo-Indian"]
+[Variation "Fischer variation"]
+[HashCode "0abb1a13"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 b6 5. Bd3 Bb7 6. Nf3 Ne4 7. O-O Nxc3 8.
+bxc3 Bxc3 9. Rb1 f5 10. Qc2 Ba5 11. e4 Nc6 12. Bg5 Ne7 13. exf5 h6 14. Bh4
+Bxf3 15. gxf3 exf5 16. Bxf5 O-O 17. Rb5 d6 18. Qe4 Re8 19. Kh1 c5 20. Rg1
+Bd2 21. Qe6+ Kh8 22. Qf7 Bg5 23. Bxg5 hxg5 24. Qh5+ Kg8 25. Be6+ Kf8 26.
+Qf7# 1-0
+

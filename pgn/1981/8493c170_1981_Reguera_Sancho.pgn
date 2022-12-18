@@ -1,0 +1,19 @@
+[Event "corr Spain"]
+[Site "corr Spain"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Reguera"]
+[Black "Sancho"]
+[Result "0-1"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, poisoned pawn variation"]
+[HashCode "8493c170"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 Ne7 5. a3 Bxc3+ 6. bxc3 c5 7. Qg4 Ng6 8.
+h4 h5 9. Qg3 Nc6 10. Bd3 Nce7 11. Qg5 Bd7 12. Bxg6 fxg6 13. Ne2 cxd4 14.
+cxd4 Qc7 15. c3 Bb5 16. Bd2 Rf8 17. Nc1 O-O-O 18. Qg3 Qc4 19. f4 Nf5 20.
+Qf2 g5 21. hxg5 h4 22. a4 Ba6 23. Ra2 Ng3 24. Rg1 Rh8 25. Be3 Ne4 26. Qc2
+h3 0-1
+

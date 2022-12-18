@@ -1,0 +1,19 @@
+[Event "Denmark"]
+[Site "Denmark"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Nielsen, Poul Erik"]
+[Black "Danielsen, Henrik"]
+[Result "0-1"]
+[ECO "A13"]
+[Opening "English opening"]
+[HashCode "262d292d"]
+[Epoch "Rook"]
+[BlackID "1400185"]
+[BlackCountry "ISL"]
+
+1. c4 e6 2. g3 d5 3. Bg2 c6 4. Qc2 Nf6 5. Nf3 Nbd7 6. O-O Bd6 7. d4 Ne4 8. Ne1
+f5 9. f3 Nxg3 10. hxg3 Bxg3 11. f4 Qh4 12. Nf3 Qh5 13. e3 g5 14. fxg5 h6 15.
+gxh6 Nf6 16. Rd1 Ne4 17. Kf1 Rg8 18. Nc3 b6 19. Qa4 Bd7 20. Bd2 Bb8 21. Ne1
+Rxg2 22. Nxg2 Qf3+ 23. Kg1 Qf2+ 24. Kh1 Ng3+ 25. Kh2 Ne2+ 26. Kh1 Qg3 27. Nf4
+Qf3+ 28. Kh2 Bxf4+ 29. exf4 Qg3+ 30. Kh1 Qh3# 0-1

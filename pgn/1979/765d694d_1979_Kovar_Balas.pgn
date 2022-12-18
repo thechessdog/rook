@@ -1,0 +1,19 @@
+[Event "corr CSR/K"]
+[Site "corr CSR/K"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Kovar"]
+[Black "Balas"]
+[Result "1-0"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "classical attack, Chigorin variation"]
+[HashCode "765d694d"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Nc6 7. O-O Be7
+8. Re1 Bg4 9. c3 f5 10. Qb3 O-O 11. Nbd2 Na5 12. Qa4 Nxd2 13. Bxd2 Bxf3 14.
+Qxa5 Be4 15. Bf1 f4 16. f3 b6 17. Qb5 Bg6 18. Bxf4 c5 19. Be5 c4 20. Qc6
+Rc8 21. Qe6+ Rf7 22. g4 Bf8 23. f4 Qd7 24. f5 Qxe6 25. fxe6 Rb7 26. Bg2 Rd8
+27. Bg3 Be8 28. Re5 Bc6 29. Rf1 Bd6 30. Rxd5 Bxd5 31. Bxd5 Re7 32. Bh4 1-0
+

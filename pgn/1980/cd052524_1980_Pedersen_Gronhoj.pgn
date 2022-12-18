@@ -1,0 +1,19 @@
+[Event "Denmark"]
+[Site "Denmark"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Pedersen, Gert"]
+[Black "Gronhoj, Benny"]
+[Result "1-0"]
+[ECO "C00"]
+[Opening "French"]
+[Variation "Labourdonnais variation"]
+[HashCode "cd052524"]
+[Epoch "Rook"]
+[BlackID "1404245"]
+[BlackCountry "DEN"]
+
+1. e4 e6 2. f4 c5 3. Nf3 Nc6 4. Nc3 d5 5. Bb5 d4 6. Ne2 Bd7 7. Bxc6 Bxc6 8. d3
+f5 9. Ng3 fxe4 10. dxe4 g6 11. O-O Bg7 12. f5 exf5 13. exf5 Qd5 14. Qe2+ Kd7
+15. Qe6+ Kc7 16. Bf4+ Kb6 17. Rae1 Qxe6 18. Rxe6 Re8 19. Ne5 Nf6 20. Nxc6 Rxe6
+21. fxe6 Kxc6 22. Bg5 Nd5 23. Rf7 Rg8 24. e7 Kd7 25. Ne4 b6 26. e8=Q+ 1-0

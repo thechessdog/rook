@@ -1,0 +1,18 @@
+[Event "corr Denmark"]
+[Site "corr Denmark"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Tronhjem, Thomas"]
+[Black "Korning, Peter"]
+[Result "0-1"]
+[ECO "C41"]
+[Opening "Philidor"]
+[Variation "exchange variation"]
+[HashCode "9adb15d3"]
+[Epoch "Rook"]
+[BlackID "1723332"]
+[BlackCountry "SWE"]
+
+1. e4 e5 2. Nf3 d6 3. d4 exd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. Qd2 Nc6 8. f3
+Bd7 9. Be2 a6 10. g4 h6 11. O-O-O Qe7 12. Nb3 Be6 13. Nd5 Nxd5 14. exd5 Bxd5
+15. c4 Be6 16. Rhe1 O-O-O 0-1

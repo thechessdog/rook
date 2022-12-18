@@ -1,0 +1,20 @@
+[Event "BKL-Turnier"]
+[Site "Leipzig"]
+[Date "1984.??.??"]
+[Round "10"]
+[White "Hennings, Artur"]
+[Black "Moehring, Guenther"]
+[Result "0-1"]
+[ECO "B12"]
+[Opening "Caro-Kann"]
+[Variation "advance variation"]
+[HashCode "3e3863df"]
+[Epoch "Rook"]
+[WhiteID "4611594"]
+[BlackID "4611462"]
+[WhiteCountry "GER"]
+[BlackCountry "GER"]
+
+1. e4 c6 2. d4 d5 3. e5 c5 4. dxc5 Nc6 5. Nf3 Bg4 6. Bb5 Qa5+ 7. Nc3 e6 8. Be3
+Ne7 9. O-O a6 10. Be2 Nf5 11. Bd2 Qc7 12. Na4 Rd8 13. Re1 Be7 14. Bf4 Bxf3 15.
+Bxf3 g5 16. g4 Nh4 17. Bg3 Qa5 18. b3 Qxe1+ 0-1

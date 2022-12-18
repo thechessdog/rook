@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Van der Wees, A."]
+[Black "Moiseev, Viktor"]
+[Result "0-1"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack"]
+[HashCode "0bb415ce"]
+[Epoch "Rook"]
+[BlackID "4101464"]
+[BlackCountry "RUS"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 Nbd7 4. f3 c5 5. e4 cxd4 6. Qxd4 e5 7. Qa4 d4 8. Nb5
+Be7 9. Bxf6 gxf6 10. c3 a6 11. cxd4 axb5 12. Qxa8 Bb4+ 13. Kf2 Nb6 14. Bxb5+
+Kf8 15. Qb8 Qxd4+ 16. Kg3 Rg8+ 17. Kh4 Qe3 18. g4 Qf2+ 19. Kh3 Rg6 0-1

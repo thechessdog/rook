@@ -1,0 +1,17 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Wiemann"]
+[Black "Gulich"]
+[Result "0-1"]
+[ECO "C44"]
+[Opening "Ponziani"]
+[Variation "Jaenisch counter-attack"]
+[HashCode "54ee42b7"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. c3 Nf6 4. Qc2 d5 5. exd5 Qxd5 6. d3 Bf5 7. Nh4 Bg4
+8. Bg5 Be7 9. Nd2 h6 10. Bxf6 gxf6 11. f3 Be6 12. g3 f5 13. Ng2 Bg5 14. Be2
+O-O-O 15. Rg1 Qc5 16. O-O-O Qf2 17. Rde1 Bd5 18. Bd1 Bc4 19. Ref1 Qxf1 0-1
+

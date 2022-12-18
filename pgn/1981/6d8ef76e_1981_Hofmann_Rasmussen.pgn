@@ -1,0 +1,21 @@
+[Event "Haderslev"]
+[Site "Haderslev"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Hofmann, Michael"]
+[Black "Rasmussen, Karsten"]
+[Result "0-1"]
+[ECO "B10"]
+[Opening "Caro-Kann"]
+[Variation "closed (Breyer) variation"]
+[HashCode "6d8ef76e"]
+[Epoch "Rook"]
+[WhiteID "1300601"]
+[WhiteCountry "SUI"]
+[BlackID "1400088"]
+[BlackCountry "DEN"]
+
+1. e4 c6 2. d3 e5 3. Nd2 g6 4. Ngf3 Bg7 5. c3 d6 6. Be2 Nh6 7. b4 a5 8. Bb2
+axb4 9. cxb4 O-O 10. Qc2 f6 11. O-O Be6 12. a4 Nf7 13. b5 c5 14. Bc3 f5 15.
+Rfb1 h5 16. a5 f4 17. Nc4 g5 18. Nb6 Ra7 19. Ne1 g4 20. f3 Qh4 21. Bf1 Ng5 22.
+Nc4 gxf3 23. gxf3 Rf6 24. Qf2 Rg6 0-1

@@ -1,0 +1,16 @@
+[Event "corr Scotland"]
+[Site "corr Scotland"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Sutherland, M."]
+[Black "Hawkes, J."]
+[Result "0-1"]
+[ECO "C55"]
+[Opening "Two knights defence, Perreux variation"]
+[HashCode "ab1fc0ca"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 Nf6 5. Ng5 Ne5 6. Qxd4 Nxc4 7. Qxc4
+d5 8. exd5 Qxd5 9. Qe2+ Be7 10. O-O Bd7 11. Re1 O-O 12. Qxe7 Rae8 13. Qb4
+Qc5 14. Qd2 Qxg5 15. Rf1 Qg6 16. c3 Bf5 17. Na3 Bd3 0-1
+

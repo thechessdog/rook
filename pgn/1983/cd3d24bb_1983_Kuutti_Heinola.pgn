@@ -1,0 +1,16 @@
+[Event "KankSK club"]
+[Site "KankSK club"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Kuutti, L."]
+[Black "Heinola, Kari P."]
+[Result "0-1"]
+[ECO "B00"]
+[Opening "Reversed Grob (Borg/Basman defence/macho Grob)"]
+[HashCode "cd3d24bb"]
+[Epoch "Rook"]
+[BlackID "503495"]
+[BlackCountry "FIN"]
+
+1. e4 g5 2. d4 Bg7 3. Nc3 h6 4. Bc4 c6 5. e5 d5 6. Bd3 c5 7. Bb5+ Nc6 8. dxc5
+Bxe5 9. Qxd5 Bxc3+ 0-1

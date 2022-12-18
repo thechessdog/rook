@@ -1,0 +1,19 @@
+[Event "IBM"]
+[Site "Amsterdam"]
+[Date "1976.07.01"]
+[Round "1"]
+[White "Ree, Hans"]
+[Black "Langeweg, Kick"]
+[Result "1-0"]
+[ECO "B40"]
+[Opening "Sicilian defence"]
+[HashCode "15a34fa3"]
+[Epoch "Rook"]
+[WhiteID "1000098"]
+[BlackID "1000160"]
+[WhiteCountry "NED"]
+[BlackCountry "NED"]
+
+1. e4 c5 2. Nf3 e6 3. c3 Nf6 4. e5 Nd5 5. d4 cxd4 6. cxd4 d6 7. a3 Bd7 8. Bd3
+Bc6 9. O-O Nd7 10. Re1 Be7 11. exd6 Bxd6 12. Nbd2 O-O 13. Nc4 Be7 14. Nfe5 Rc8
+15. Bd2 Bb5 16. Qb3 Ba6 17. Ba5 Qe8 18. Rac1 f6 19. Bxh7+ 1-0

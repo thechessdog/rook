@@ -1,0 +1,20 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Bisquert"]
+[Black "Ripoll"]
+[Result "1-0"]
+[ECO "E52"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line with ...b6"]
+[HashCode "dbad07d5"]
+[Epoch "Rook"]
+
+1. d4 e6 2. c4 Nf6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 b6 7. O-O dxc4 8.
+Bxc4 c5 9. a3 cxd4 10. axb4 dxc3 11. Qxd8 Rxd8 12. bxc3 Bb7 13. Be2 Nc6 14.
+Bb2 a5 15. b5 Ne7 16. Rfd1 Kf8 17. Ne5 Ke8 18. Nc4 Nc8 19. f3 Rxd1+ 20.
+Rxd1 Nd7 21. e4 f5 22. exf5 exf5 23. Ba3 Ra7 24. Nd6+ Nxd6 25. Rxd6 Kd8 26.
+c4 Bc8 27. c5 bxc5 28. Bxc5 Ra8 29. b6 Ke7 30. Ba3 Rb8 31. Bb5 Ne5 32. Bc5
+Be6 33. b7 Kf7 34. Rb6 1-0
+

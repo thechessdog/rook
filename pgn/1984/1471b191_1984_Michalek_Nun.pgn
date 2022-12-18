@@ -1,0 +1,19 @@
+[Event "corr ch-CSSR"]
+[Site "corr ch-CSSR"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Michalek"]
+[Black "Nun"]
+[Result "1-0"]
+[ECO "B15"]
+[Opening "Caro-Kann"]
+[Variation "Gurgenidze system"]
+[HashCode "1471b191"]
+[Epoch "Rook"]
+
+1. e4 c6 2. d4 g6 3. Nc3 d5 4. e5 h5 5. h3 Nh6 6. Nf3 Bf5 7. Be2 e6 8. O-O
+a6 9. Be3 Nd7 10. Qd2 Qc7 11. b4 a5 12. b5 c5 13. dxc5 Nxc5 14. b6 Qc8 15.
+Nb5 Ne4 16. Nc7+ Kd8 17. Bg5+ Nxg5 18. Qxg5+ Be7 19. Qd2 Bc5 20. Nxa8 Qxa8
+21. c4 Bb4 22. Qd1 Ke7 23. cxd5 exd5 24. a3 Bc5 25. Qxd5 Rc8 26. Qd2 Ng8
+27. Rfc1 Rd8 28. Qg5+ 1-0
+

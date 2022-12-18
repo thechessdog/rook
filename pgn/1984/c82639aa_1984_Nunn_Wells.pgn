@@ -1,0 +1,21 @@
+[Event "Chichester"]
+[Site "Chichester"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Nunn, John D M"]
+[Black "Wells, Peter K"]
+[Result "1-0"]
+[ECO "B12"]
+[Opening "Caro-Kann"]
+[Variation "advance variation"]
+[HashCode "c82639aa"]
+[Epoch "Rook"]
+[WhiteID "400017"]
+[WhiteCountry "ENG"]
+[BlackID "400327"]
+[BlackCountry "ENG"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nc3 e6 5. g4 Bg6 6. Nge2 c5 7. h4 cxd4 8. Nxd4
+h5 9. f4 hxg4 10. Bb5+ Nd7 11. f5 Rxh4 12. Rf1 Rh2 13. Qxg4 Bxf5 14. Nxf5 exf5
+15. e6 Qe7 16. Bxd7+ Kd8 17. Qf4 Rxc2 18. Qxf5 Qh4+ 19. Kd1 Rg2 20. Bf4 Nf6 21.
+Nxd5 1-0

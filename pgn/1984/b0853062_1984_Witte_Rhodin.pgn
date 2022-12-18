@@ -1,0 +1,19 @@
+[Event "BL2-N 8384"]
+[Site "BL2-N 8384"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Witte, M."]
+[Black "Rhodin, Christian"]
+[Result "1/2-1/2"]
+[ECO "C47"]
+[Opening "Four knights"]
+[Variation "Belgrade gambit"]
+[HashCode "b0853062"]
+[Epoch "Rook"]
+[BlackID "4606051"]
+[BlackCountry "GER"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. d4 exd4 5. Nd5 Nb4 6. Bc4 Nbxd5 7. exd5 Bb4+
+8. Bd2 Qe7+ 9. Qe2 Qxe2+ 10. Kxe2 Bxd2 11. Kxd2 Ne4+ 12. Ke2 c5 13. dxc6 dxc6
+14. Nxd4 Nd6 15. Bd3 c5 16. Nb5 Nxb5 17. Bxb5+ Bd7 18. Bxd7+ Kxd7 19. Rad1+ Kc6
+20. Rd2 Rad8 21. Rhd1 Rhe8+ 22. Kf3 Rxd2 1/2-1/2

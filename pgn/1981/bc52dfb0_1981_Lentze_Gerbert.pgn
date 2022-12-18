@@ -1,0 +1,25 @@
+[Event "Bundesliga 8081"]
+[Site "Duitsland tt"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Lentze, Ingo, Dr."]
+[Black "Gerbert, Philipp"]
+[Result "1-0"]
+[ECO "B33"]
+[Opening "Sicilian"]
+[Variation "Sveshnikov variation"]
+[HashCode "bc52dfb0"]
+[Epoch "Rook"]
+[WhiteID "4606256"]
+[WhiteCountry "GER"]
+[BlackID "4608151"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6 8.
+Na3 b5 9. Bxf6 gxf6 10. Nd5 f5 11. Bd3 Be6 12. c4 Nd4 13. O-O Bxd5 14. exd5 Bg7
+15. cxb5 e4 16. Bc4 Qg5 17. Kh1 Be5 18. Be2 Rg8 19. g3 f4 20. bxa6 e3 21. Nb5
+exf2 22. Rxf2 fxg3 23. Rg2 Nf5 24. Qc2 Kf8 25. Rag1 Ne3 26. Qc6 Rd8 27. a7 Nxg2
+28. a8=Q gxh2 29. Qxd8+ Qxd8 30. Rc1 Ne1 31. Rxe1 Qh4 32. Qc8+ Kg7 33. Qg4+
+Qxg4 34. Bxg4 Kh6 35. Bf3 Bxb2 36. Nxd6 Ra8 37. Nxf7+ Kg7 38. d6 Ra7 39. Bd5
+Ba3 40. Kxh2 Rxf7 41. Bxf7 Bxd6+ 42. Kh3 Kxf7 43. a4 Be7 44. a5 Bb4 45. Ra1 Bc5
+46. a6 Ba7 47. Rb1 Ke6 48. Rb7 1-0

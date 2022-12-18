@@ -1,0 +1,18 @@
+[Event "Budapest"]
+[Site "Budapest"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Veroci_Petronic, Zs"]
+[Black "Porubszky, Maria"]
+[Result "1-0"]
+[ECO "B33"]
+[Opening "Sicilian"]
+[Variation "Sveshnikov variation"]
+[HashCode "53109849"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6
+8. Na3 b5 9. Bxf6 gxf6 10. Nd5 f5 11. Bxb5 axb5 12. Nxb5 Ra4 13. Nbc7+ Kd7
+14. O-O Ne7 15. c4 Rxc4 16. Qb3 Rc5 17. Qa4+ Nc6 18. b4 Rc4 19. Qb5 Rxb4
+20. Nxb4 Qxc7 21. Rac1 Bb7 22. Nd5 1-0
+

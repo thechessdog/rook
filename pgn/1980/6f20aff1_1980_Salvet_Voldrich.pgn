@@ -1,0 +1,18 @@
+[Event "corr CSSR"]
+[Site "corr CSSR"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Salvet"]
+[Black "Voldrich"]
+[Result "1-0"]
+[ECO "C51"]
+[Opening "Evans gambit"]
+[Variation "Cordel variation"]
+[HashCode "6f20aff1"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 Bxb4 5. c3 Be7 6. d4 Na5 7. Bd3 d6 8.
+dxe5 Bg4 9. Nbd2 Nc6 10. Qa4 Bd7 11. exd6 Ne5 12. Bb5 Nd3+ 13. Ke2 Nxc1+
+14. Rhxc1 Bxd6 15. e5 Be7 16. Qb3 Rb8 17. Bc4 Nh6 18. e6 fxe6 19. Ne5 Bg5
+20. Rd1 Nf7 21. Ndf3 Nd6 22. Nxd7 Kxd7 23. Qb5+ Ke7 24. Qxg5+ 1-0
+

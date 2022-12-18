@@ -1,0 +1,21 @@
+[Event "corr DDR/M"]
+[Site "corr DDR/M"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Erler, R."]
+[Black "Tolksdorf"]
+[Result "1-0"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "classical attack, Chigorin variation"]
+[HashCode "447a1d7b"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Be7 7. O-O Nc6
+8. Re1 Bg4 9. c3 f5 10. Qb3 O-O 11. Nbd2 Kh8 12. h3 Bd6 13. hxg4 fxg4 14.
+Bxe4 dxe4 15. Ne5 Nxe5 16. dxe5 e3 17. Rxe3 Bc5 18. Ne4 Qh4 19. g3 Qh3 20.
+Ng5 Qh5 21. Re2 Rf3 22. Bf4 h6 23. Qf7 Qxg5 24. Qxc7 Qe7 25. e6 Qxc7 26.
+Bxc7 Kg8 27. Rd1 Re8 28. Rd7 Rf6 29. b4 Be7 30. Bf4 g5 31. Bd2 Bf8 32. e7
+Bg7 33. Rxb7 Ra6 34. Be1 Kf7 35. c4 Bf6 36. b5 Ra4 37. c5 Rxe7 38. c6 Rc4
+39. Rexe7+ Bxe7 40. c7 Kf6 41. Rxa7 1-0
+

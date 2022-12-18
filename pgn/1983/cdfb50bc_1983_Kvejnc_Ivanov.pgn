@@ -1,0 +1,17 @@
+[Event "Riga"]
+[Site "Riga"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Kvejnc"]
+[Black "Ivanov, Alexander V"]
+[Result "0-1"]
+[ECO "B70"]
+[Opening "Sicilian"]
+[Variation "dragon variation"]
+[HashCode "cdfb50bc"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be2 Nc6 7. f4 Bg7 8. Be3
+Ng4 9. Bxg4 Bxg4 10. Qxg4 Nxd4 11. O-O-O Nc6 12. e5 O-O 13. Kb1 Qa5 14. exd6
+Bxc3 15. bxc3 Qxc3 16. Bc1 Qc4 17. dxe7 Nb4 18. exf8=Q+ Rxf8 19. Bb2 Qxc2+ 20.
+Ka1 Qc4 21. Kb1 Qe4+ 0-1

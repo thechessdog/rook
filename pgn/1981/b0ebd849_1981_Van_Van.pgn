@@ -1,0 +1,18 @@
+[Event "corr Netherlands"]
+[Site "corr Netherlands"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Van Aalzum"]
+[Black "Van der Kooij"]
+[Result "1-0"]
+[ECO "C32"]
+[Opening "KGD"]
+[Variation "Falkbeer, main line, 7...Bf5"]
+[HashCode "b0ebd849"]
+[Epoch "Rook"]
+[BlackID "1011812"]
+[BlackCountry "NED"]
+
+1. e4 e5 2. f4 d5 3. exd5 e4 4. d3 Nf6 5. dxe4 Nxe4 6. Nf3 Bc5 7. Qe2 Bf5 8.
+Nc3 Bb4 9. Qb5+ Nc6 10. dxc6 Nxc3 11. Qxf5 Qd1+ 12. Kf2 Ne4+ 13. Kg1 Qxc2 14.
+Be3 1-0

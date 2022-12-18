@@ -1,0 +1,23 @@
+[Event "corr DDR-H"]
+[Site "corr DDR-H"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Grigutsch, KD."]
+[Black "Fleck, D."]
+[Result "0-1"]
+[ECO "A27"]
+[Opening "English"]
+[Variation "three knights system"]
+[HashCode "b100a42a"]
+[Epoch "Rook"]
+
+1. c4 e5 2. Nc3 Nc6 3. Nf3 g6 4. d4 exd4 5. Nxd4 Bg7 6. Nxc6 bxc6 7. g3 d6
+8. Bg2 Bd7 9. Qc2 Ne7 10. O-O O-O 11. Bg5 f6 12. Bf4 Be6 13. b3 Qc8 14.
+Rad1 Bh3 15. Qe4 Bxg2 16. Qxg2 f5 17. Bg5 Bf6 18. Bxf6 Rxf6 19. e4 f4 20.
+f3 Qe6 21. Ne2 fxg3 22. Qxg3 c5 23. Nf4 Qe5 24. Nd5 Qxg3+ 25. hxg3 Nxd5 26.
+cxd5 Re8 27. Rde1 g5 28. f4 gxf4 29. gxf4 Rc8 30. e5 Rg6+ 31. Kh2 Rh6+ 32.
+Kg3 Rg6+ 33. Kh4 Rh6+ 34. Kg4 dxe5 35. fxe5 Rg6+ 36. Kh5 Rd8 37. Rd1 Kg7
+38. Rf5 Rd7 39. Rg5 Re7 40. e6 Kf6 41. Rf1+ Kg7 42. Rxg6+ hxg6+ 43. Kg5 c6
+44. d6 Rxe6 45. Rd1 Re8 46. d7 Rd8 47. Rd6 Kf7 48. Rxc6 Rxd7 49. Rxc5 Re7
+50. Ra5 Rb7 51. Ra6 Rb5+ 52. Kh6 Rh5# 0-1
+

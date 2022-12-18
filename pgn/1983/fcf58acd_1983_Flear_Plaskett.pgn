@@ -1,0 +1,20 @@
+[Event "Lewisham"]
+[Site "Lewisham"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Flear, Glenn C"]
+[Black "Plaskett, H James"]
+[Result "0-1"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Nimzovich (knight's tour) variation"]
+[HashCode "fcf58acd"]
+[Epoch "Rook"]
+[WhiteID "400165"]
+[WhiteCountry "ENG"]
+[BlackCountry "ENG"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. Nd2 Nbd7 8. e4
+Bg7 9. Be2 O-O 10. O-O Re8 11. a4 g5 12. Qc2 Ne5 13. Nc4 Nxc4 14. Bxc4 Nh5 15.
+g3 Bh3 16. Re1 Be5 17. Qd1 Ng7 18. Bb5 Rf8 19. f4 gxf4 20. gxf4 Bd4+ 21. Be3
+Qh4 22. Qf3 Nh5 23. Kh1 Kh8 24. Rg1 Rg8 25. Rae1 Bg2+ 0-1

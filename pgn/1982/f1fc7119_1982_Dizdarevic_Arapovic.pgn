@@ -1,0 +1,20 @@
+[Event "Sarajevo"]
+[Site "Sarajevo"]
+[Date "1982.03.01"]
+[Round "1"]
+[White "Dizdarevic, Emir"]
+[Black "Arapovic, Vitomir"]
+[Result "1/2-1/2"]
+[ECO "C09"]
+[Opening "French"]
+[Variation "Tarrasch, open variation, main line"]
+[HashCode "f1fc7119"]
+[Epoch "Rook"]
+[WhiteID "14400049"]
+[WhiteCountry "BIH"]
+[BlackID "14401614"]
+[BlackCountry "BIH"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. exd5 exd5 5. Ngf3 Nc6 6. Bb5 Bd6 7. O-O cxd4 8.
+Nxd4 Ne7 9. c4 O-O 10. Bxc6 Nxc6 11. Nxc6 bxc6 12. cxd5 cxd5 13. Nb3 Re8 14.
+Be3 Ba6 15. Re1 1/2-1/2

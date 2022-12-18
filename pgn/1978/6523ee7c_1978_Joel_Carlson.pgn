@@ -1,0 +1,22 @@
+[Event "corr USCCC"]
+[Site "corr USCCC"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Joel"]
+[Black "Carlson, Curtis"]
+[Result "0-1"]
+[ECO "B92"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Opovcensky variation"]
+[HashCode "6523ee7c"]
+[Epoch "Rook"]
+[BlackID "2002868"]
+[BlackCountry "USA"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8. O-O
+O-O 9. f4 b5 10. Bf3 Bb7 11. Be3 Nbd7 12. Qe2 b4 13. Nd1 Nxe4 14. fxe5 dxe5 15.
+Nf2 Nec5 16. Bxb7 Nxb7 17. Nd3 Rc8 18. Rac1 f6 19. Qg4 Kh8 20. Rf3 Qc7 21. Nxb4
+f5 22. Nxa6 fxg4 23. Rxf8+ Bxf8 24. Nxc7 Rxc7 25. c3 Nd6 26. Nd2 Nf5 27. Bf2
+Nc5 28. Rc2 e4 29. Nf1 Nd3 30. Re2 Nxf2 31. Kxf2 Bc5+ 32. Ke1 e3 33. Kd1 g6 34.
+Kc2 Kg7 35. Kd3 Kf6 36. b4 Ba7 37. a4 Rd7+ 38. Kc2 Ke5 39. a5 Rd5 40. Kb3 Rd1
+41. Ng3 Nxg3 42. hxg3 Ke4 43. Kc2 Rf1 0-1

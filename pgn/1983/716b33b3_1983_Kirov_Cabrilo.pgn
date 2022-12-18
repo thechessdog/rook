@@ -1,0 +1,18 @@
+[Event "Varna"]
+[Site "Varna"]
+[Date "1983.01.01"]
+[Round "12"]
+[White "Kirov, Nino"]
+[Black "Cabrilo, Goran"]
+[Result "1/2-1/2"]
+[ECO "C68"]
+[Opening "Ruy Lopez"]
+[Variation "exchange, Alekhine variation"]
+[HashCode "716b33b3"]
+[Epoch "Rook"]
+[BlackID "900249"]
+[BlackCountry "SRB"]
+[WhiteCountry "BGR"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. d4 exd4 6. Qxd4 Qxd4 7. Nxd4 Bd7
+8. Be3 O-O-O 9. Nc3 f6 1/2-1/2

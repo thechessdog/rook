@@ -1,0 +1,22 @@
+[Event "Capablanca mem-A"]
+[Site "Cienfuegos"]
+[Date "1980.01.01"]
+[Round "?"]
+[White "Estevez Morales, Guillermo"]
+[Black "Radulov, Ivan"]
+[Result "0-1"]
+[ECO "B31"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (with ...g6, without ...d6)"]
+[HashCode "e5387c72"]
+[Epoch "Rook"]
+[BlackID "2900300"]
+[BlackCountry "FID"]
+[WhiteCountry "CUB"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. Nc3 e5 6. Bxc6 dxc6 7. h3 f6 8. d3
+Nh6 9. Be3 b6 10. Qd2 Nf7 11. Nh2 g5 12. Ne2 h5 13. f3 Qe7 14. a4 a5 15. Ng3 h4
+16. Ne2 O-O 17. Kh1 Nd8 18. c3 Ne6 19. Qc2 Bh6 20. g3 f5 21. gxh4 fxe4 22. dxe4
+Nf4 23. Bxf4 gxf4 24. Rg1+ Kh7 25. Rg2 Ba6 26. Rag1 Qxh4 27. Qb3 Rab8 28. Qe6
+Qf6 29. Qd7+ Qf7 30. Qxf7+ Rxf7 31. Rd1 Bf8 32. Ng4 Re8 33. Nc1 c4 34. Rgd2 b5
+35. Rd7 Kg8 36. Rd8 Rxd8 37. Rxd8 0-1

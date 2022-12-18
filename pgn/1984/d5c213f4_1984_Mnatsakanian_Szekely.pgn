@@ -1,0 +1,19 @@
+[Event "Yerevan"]
+[Site "Yerevan"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Mnatsakanian, Eduard A"]
+[Black "Szekely, Peter"]
+[Result "1/2-1/2"]
+[ECO "B97"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7...Qb6"]
+[HashCode "d5c213f4"]
+[Epoch "Rook"]
+[BlackID "14937492"]
+[BlackCountry "SVK"]
+[WhiteCountry "ARM"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qb6 8. Nb3
+Nbd7 9. Qf3 Be7 10. g4 h6 11. Bxf6 Bxf6 12. O-O-O Qc7 13. Bg2 Be7 14. h4 Nb6
+15. g5 Bd7 16. Qg3 O-O-O 1/2-1/2

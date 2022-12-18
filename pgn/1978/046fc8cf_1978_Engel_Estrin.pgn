@@ -1,0 +1,22 @@
+[Event "corr EUR/K"]
+[Site "corr EUR/K"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Engel, Klaus"]
+[Black "Estrin, Yakov Borisovich"]
+[Result "1-0"]
+[ECO "B81"]
+[Opening "Sicilian"]
+[Variation "Scheveningen, Keres attack"]
+[HashCode "046fc8cf"]
+[Epoch "Rook"]
+[BlackCountry "RUS"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. g4 a6 7. Bg2 Qc7 8. O-O
+Nc6 9. h3 h6 10. a4 Bd7 11. Nxc6 Bxc6 12. Be3 Be7 13. Qd2 Rd8 14. a5 Qb8 15.
+Rfd1 d5 16. exd5 Nxd5 17. Nxd5 Bxd5 18. Bb6 Rc8 19. Bxd5 exd5 20. Re1 Qd6 21.
+Rad1 O-O 22. Qxd5 Qxd5 23. Rxd5 Bd8 24. Bxd8 Rfxd8 25. Rxd8+ Rxd8 26. Re7 Rb8
+27. Kf1 b6 28. axb6 Rxb6 29. b3 a5 30. Ke2 Rc6 31. Kd3 Rd6+ 32. Kc3 Rc6+ 33.
+Kb2 Rc5 34. c4 f5 35. Kc3 fxg4 36. hxg4 Rg5 37. Re4 h5 38. gxh5 Rf5 39. f4 Rxh5
+40. Re5 Rh3+ 41. Kb2 a4 42. bxa4 Rh4 43. a5 Rxf4 44. Kb3 Rf1 45. Kb4 Ra1 46.
+Kb5 Kf7 47. Kb6 Kf6 48. Rb5 g5 49. c5 g4 50. c6 g3 51. Rb2 1-0

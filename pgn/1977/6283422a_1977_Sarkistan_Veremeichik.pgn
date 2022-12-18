@@ -1,0 +1,20 @@
+[Event "Kiev"]
+[Site "Kiev"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Sarkistan"]
+[Black "Veremeichik"]
+[Result "1-0"]
+[ECO "B31"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (with ...g6, without ...d6)"]
+[HashCode "6283422a"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. c3 e5 6. Na3 Nge7 7. Re1 O-O 8.
+d4 cxd4 9. cxd4 exd4 10. e5 a6 11. Bxc6 Nxc6 12. Nc4 d5 13. exd6 b5 14. Bg5
+f6 15. Qb3 Kh8 16. Nce5 Nxe5 17. Nxe5 fxg5 18. Nf7+ Rxf7 19. Qxf7 Bf5 20.
+d7 Qxd7 21. Re7 Qxe7 22. Qxe7 Bc2 23. Re1 Rf8 24. Qd7 d3 25. Re7 Bxb2 26.
+Rxh7+ Kg8 27. Rh3 Rf6 28. Qe8+ Kg7 29. Rh8 Rf7 30. Rg8+ Kf6 31. Qc6+ Ke5
+32. Re8+ 1-0
+

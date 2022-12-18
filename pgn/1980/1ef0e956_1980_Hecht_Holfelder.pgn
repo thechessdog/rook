@@ -1,0 +1,19 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Hecht, Hans-Joachim"]
+[Black "Holfelder, Joachim"]
+[Result "1-0"]
+[ECO "B51"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky (Nimzovich-Rossolimo, Moscow) attack"]
+[HashCode "1ef0e956"]
+[Epoch "Rook"]
+[WhiteCountry "DEU"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Nd7 4. d4 cxd4 5. Qxd4 a6 6. Bxd7+ Bxd7 7. Nc3 e6 8.
+Bg5 Qc7 9. O-O-O Bc6 10. Rhe1 f6 11. Bh4 O-O-O 12. Bg3 e5 13. Qa7 Qa5 14. Nd2
+Qc5 15. Qxc5 dxc5 16. Nc4 Rxd1+ 17. Rxd1 b5 18. Na5 Ba8 19. Nd5 Bxd5 20. Rxd5
+Kc7 21. f4 Kb6 22. Nb3 exf4 23. Bxf4 c4 24. Nd4 Ne7 25. Rd6+ Kb7 26. Rd7+ Kb6
+27. Bc7+ 1-0

@@ -1,0 +1,20 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Fioravanti"]
+[Black "Marchiori"]
+[Result "0-1"]
+[ECO "C57"]
+[Opening "two knights defence"]
+[Variation "Fritz variation"]
+[HashCode "5af3ee98"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 Nd4 6. d6 Qxd6 7. Bxf7+
+Ke7 8. Bb3 Nxb3 9. axb3 h6 10. Nf3 e4 11. Ng1 Kf7 12. Nc3 Qc6 13. Qe2 Bc5
+14. h3 Re8 15. Nd1 Nd5 16. Qh5+ g6 17. Qxh6 Nb4 18. Kf1 Nxc2 19. Rb1 b6 20.
+d3 Ba6 21. Nc3 Bxd3+ 22. Nge2 Rh8 23. Qg5 Rh5 24. Qg4 Rf5 25. Kg1 Rxf2 26.
+Kh2 Nd4 27. Nxd4 Bxd4 28. Bf4 e3 29. Rbc1 Bf5 30. Qg3 Rh8 31. Ne2 Bxh3 32.
+Qxf2 Bxg2+ 33. Kg3 exf2 34. Rxc6 Rxh1 0-1
+

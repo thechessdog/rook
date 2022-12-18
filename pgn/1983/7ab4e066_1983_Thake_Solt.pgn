@@ -1,0 +1,19 @@
+[Event "corr ol"]
+[Site "corr ol"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Thake"]
+[Black "Solt"]
+[Result "0-1"]
+[ECO "B12"]
+[Opening "Caro-Kann"]
+[Variation "advance variation"]
+[HashCode "7ab4e066"]
+[Epoch "Rook"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Bd7 6. h5 e6 7. f4 c5 8. c3 Nc6
+9. Nf3 Qb6 10. Bh3 Rc8 11. O-O cxd4 12. cxd4 Nxd4 13. Be3 Nxf3+ 14. Rxf3
+Qxb2 15. Nd2 Bc5 16. Bxc5 Rxc5 17. Qe1 Qd4+ 18. Kh1 Rc2 19. Nb3 Qb6 20. Rb1
+Bc6 21. Bg2 Ne7 22. f5 Rxa2 23. f6 gxf6 24. exf6 Nc8 25. Rf4 Qc7 26. Rd4
+Nd6 27. Rc1 Ne4 28. Nc5 Ng3+ 0-1
+

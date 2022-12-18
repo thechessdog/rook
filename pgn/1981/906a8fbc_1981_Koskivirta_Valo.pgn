@@ -1,0 +1,23 @@
+[Event "corr SM-E"]
+[Site "corr SM-E"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Koskivirta, Ossi"]
+[Black "Valo, Veikko"]
+[Result "1-0"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, Smyslov variation"]
+[HashCode "906a8fbc"]
+[Epoch "Rook"]
+[BlackID "509094"]
+[BlackCountry "FIN"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. a4 Nbc6 8. Nf3
+Qa5 9. Bd2 Bd7 10. Be2 c4 11. O-O f6 12. exf6 gxf6 13. Nh4 Ng6 14. Bh5 O-O-O
+15. Bxg6 hxg6 16. Nxg6 Rhg8 17. Nf4 e5 18. Ne2 Qc7 19. f3 Rh8 20. Be1 Bf5 21.
+Bg3 Qh7 22. Ra2 Qh6 23. Qc1 Qxc1 24. Rxc1 Rd7 25. Kf2 Rdh7 26. Rb2 Re8 27. Rb5
+Rd7 28. Bh4 Re6 29. g4 Bh7 30. f4 exd4 31. cxd4 Rxe2+ 32. Kxe2 Nxd4+ 33. Kf2
+Nxb5 34. axb5 Rd6 35. f5 a6 36. Ra1 Kd7 37. bxa6 bxa6 38. Rb1 Bg8 39. Bg3 Rc6
+40. Rb7+ Ke8 41. h4 d4 42. h5 c3 43. Ke2 Bc4+ 44. Kd1 Kf8 45. h6 Bg8 46. h7
+Bxh7 47. Rxh7 Rc4 48. Rc7 Ra4 49. g5 1-0

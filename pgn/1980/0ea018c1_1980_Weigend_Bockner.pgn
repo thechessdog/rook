@@ -1,0 +1,20 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Weigend"]
+[Black "Bockner"]
+[Result "1-0"]
+[ECO "C28"]
+[Opening "Vienna game"]
+[HashCode "0ea018c1"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nc3 Nc6 3. Bc4 Nf6 4. f4 Bc5 5. fxe5 Nxe5 6. d4 Nxc4 7. dxc5
+O-O 8. Qd4 Na5 9. Bg5 Nc6 10. Qf2 Ng4 11. Qh4 f6 12. Qxg4 fxg5 13. O-O-O
+Qe7 14. Nf3 Qxc5 15. Rhe1 h6 16. h4 d5 17. Qh5 d4 18. Nd5 Be6 19. hxg5 Bxd5
+20. gxh6 Nb4 21. Nxd4 Nxa2+ 22. Kb1 Nc3+ 23. Kc1 Nxd1 24. hxg7 Nf2 25. Qh8+
+Kf7 26. gxf8=Q+ Qxf8 27. Qh5+ Kg8 28. Qxd5+ Kh7 29. Kb1 c6 30. Qh5+ Kg8 31.
+Rf1 Qf6 32. e5 Qf4 33. Qg6+ Kh8 34. Ne6 Qxe5 35. Rxf2 Qe1+ 36. Ka2 Qa5+ 37.
+Kb3 Qb6+ 38. Kc4 Qb5+ 39. Kc3 Qd5 40. Qg7# 1-0
+

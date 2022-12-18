@@ -1,0 +1,18 @@
+[Event "Italy"]
+[Site "Italy"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Trabattoni"]
+[Black "Zichichi"]
+[Result "1/2-1/2"]
+[ECO "B46"]
+[Opening "Sicilian"]
+[Variation "Taimanov variation"]
+[HashCode "48cd5f8b"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 a6 6. Be2 Qc7 7. O-O Nf6
+8. Kh1 Bb4 9. Bg5 d6 10. f4 Bxc3 11. Bxf6 gxf6 12. bxc3 Ne7 13. c4 Bd7 14.
+Qd3 Rg8 15. Rab1 Rg7 16. Rb2 Rd8 17. Rfb1 Bc8 18. Bf3 Ng6 19. g3 Nf8 20. f5
+Nd7 21. fxe6 Ne5 22. exf7+ Qxf7 1/2-1/2
+

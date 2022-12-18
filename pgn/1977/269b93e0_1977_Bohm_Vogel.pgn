@@ -1,0 +1,23 @@
+[Event "Nederland tt"]
+[Site "Nederland tt"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Bohm, Hans"]
+[Black "Vogel, Jaap"]
+[Result "1-0"]
+[ECO "E30"]
+[Opening "Nimzo-Indian"]
+[Variation "Leningrad variation"]
+[HashCode "269b93e0"]
+[Epoch "Rook"]
+[WhiteID "1000306"]
+[WhiteCountry "NED"]
+[BlackID "1000764"]
+[BlackCountry "NED"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Bg5 c5 5. d5 Bxc3+ 6. bxc3 d6 7. e3 e5 8. f3
+Nbd7 9. Bd3 Nf8 10. Ne2 Ng6 11. O-O h6 12. Bxf6 Qxf6 13. f4 exf4 14. Nxf4 Nxf4
+15. Rxf4 Qg5 16. Qf3 O-O 17. Rf1 Qe7 18. Bg6 f6 19. Re4 Qd8 20. g4 Bd7 21. h4
+Be8 22. Bf5 Bf7 23. Qg3 Re8 24. Rff4 Re5 25. Rxe5 dxe5 26. Rf2 Qe7 27. g5 fxg5
+28. hxg5 Qxg5 29. Bh7+ Kxh7 30. Qxg5 hxg5 31. Rxf7 Kg6 32. Rxb7 Kf5 33. Rc7 Ke4
+34. Rxc5 Rd8 35. Kf2 g4 36. Rc6 Rh8 37. d6 Rh2+ 38. Kg3 Rh1 39. Rc5 1-0

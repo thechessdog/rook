@@ -1,0 +1,19 @@
+[Event "Southport ch-BCF"]
+[Site "Southport ch-BCF"]
+[Date "1983.08.01"]
+[Round "1"]
+[White "Hawksworth, John C"]
+[Black "Richardson, John R"]
+[Result "1/2-1/2"]
+[ECO "D59"]
+[Opening "QGD"]
+[Variation "Tartakower (Makagonov-Bondarevsky) system, 8.cd Nxd5"]
+[HashCode "42508c33"]
+[Epoch "Rook"]
+[WhiteID "400521"]
+[BlackID "401617"]
+[WhiteCountry "ENG"]
+[BlackCountry "ENG"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. Bg5 O-O 6. e3 h6 7. Bh4 b6 8. cxd5
+Nxd5 9. Bxe7 Qxe7 10. Nxd5 exd5 11. Rc1 1/2-1/2

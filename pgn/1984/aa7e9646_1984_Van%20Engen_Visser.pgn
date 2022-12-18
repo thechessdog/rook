@@ -1,0 +1,19 @@
+[Event "KNSB"]
+[Site "KNSB"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Van Engen, H."]
+[Black "Visser, Yge"]
+[Result "0-1"]
+[ECO "A57"]
+[Opening "Benko gambit half accepted"]
+[HashCode "aa7e9646"]
+[Epoch "Rook"]
+[BlackID "1000578"]
+[BlackCountry "NED"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. e3 g6 6. Nc3 Bg7 7. Nf3 d6 8. a4 O-O
+9. Ra3 Nbd7 10. e4 axb5 11. Bxb5 Ba6 12. Nd2 Ne5 13. Bxa6 Rxa6 14. Qe2 Qa8 15.
+O-O Ned7 16. Rb3 Rb6 17. Rb5 Rfb8 18. b3 Nh5 19. Bb2 Nf4 20. Qf3 Ne5 21. Qxf4
+Nd3 22. Qf3 Nxb2 23. Rxb6 Rxb6 24. Rb1 Qa5 25. Rxb2 Bxc3 26. Nc4 Qb4 27. Rb1
+Qxc4 0-1

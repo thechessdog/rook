@@ -1,0 +1,22 @@
+[Event "AUT-ch"]
+[Site "AUT"]
+[Date "1979.??.??"]
+[Round "10"]
+[White "Wittmann, Walter"]
+[Black "Groiss, Werner"]
+[Result "1-0"]
+[ECO "B97"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Poisoned pawn variation"]
+[HashCode "731a36e4"]
+[Epoch "Rook"]
+[WhiteID "1600060"]
+[BlackID "1608592"]
+[WhiteCountry "AUT"]
+[BlackCountry "AUT"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qb6 8. Qd2
+Qxb2 9. Rb1 Qa3 10. f5 Nc6 11. fxe6 fxe6 12. Nxc6 bxc6 13. e5 dxe5 14. Bxf6
+gxf6 15. Ne4 Qxa2 16. Rd1 Be7 17. Be2 O-O 18. O-O f5 19. Qh6 Qxc2 20. Rf3 f4
+21. Rh3 Rf7 22. Rhd3 Bd7 23. Bf3 Bc5+ 24. Kh1 Bd4 25. Nf6+ Rxf6 26. Qxf6 Qc5
+27. Qg5+ 1-0

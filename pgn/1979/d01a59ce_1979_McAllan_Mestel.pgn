@@ -1,0 +1,17 @@
+[Event "Chester ch-BCF"]
+[Site "Chester ch-BCF"]
+[Date "1979.08.01"]
+[Round "2"]
+[White "McAllan, I."]
+[Black "Mestel, A Jonathan"]
+[Result "0-1"]
+[ECO "B71"]
+[Opening "Sicilian"]
+[Variation "dragon, Levenfish variation"]
+[HashCode "d01a59ce"]
+[Epoch "Rook"]
+[BlackID "400122"]
+[BlackCountry "ENG"]
+
+1. e4 c5 2. Nf3 d6 3. d4 Nf6 4. Nc3 cxd4 5. Nxd4 g6 6. f4 Bg7 7. e5 Nh5 8. Bb5+
+Bd7 9. Bxd7+ Qxd7 10. exd6 Qxd6 11. Ndb5 Qc6 12. Nd5 Na6 0-1

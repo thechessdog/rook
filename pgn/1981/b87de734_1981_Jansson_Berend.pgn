@@ -1,0 +1,18 @@
+[Event "Groningen"]
+[Site "Groningen"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Jansson, Borje"]
+[Black "Berend, Fred"]
+[Result "1-0"]
+[ECO "B50"]
+[Opening "Sicilian"]
+[HashCode "b87de734"]
+[Epoch "Rook"]
+[BlackID "4000102"]
+[BlackCountry "LUX"]
+[WhiteID "1700189"]
+[WhiteCountry "SWE"]
+
+1. e4 c5 2. Nf3 d6 3. d4 Nd7 4. c3 g6 5. Bc4 Bg7 6. Bxf7+ Kf8 7. Ng5 Ndf6 8.
+Qb3 Bh6 9. Bxg8 d5 10. Bxd5 1-0

@@ -1,0 +1,21 @@
+[Event "Netherlands"]
+[Site "Netherlands"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Keene, Raymond D"]
+[Black "Langeweg, Kick"]
+[Result "1-0"]
+[ECO "E47"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 O-O, 5.Bd3"]
+[HashCode "648b61cc"]
+[Epoch "Rook"]
+[WhiteID "400211"]
+[BlackID "1000160"]
+[WhiteCountry "ENG"]
+[BlackCountry "NED"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 c5 6. Ne2 d5 7. O-O Nc6 8. cxd5
+exd5 9. a3 cxd4 10. axb4 dxc3 11. b5 Ne5 12. Nxc3 Qc7 13. Be2 Rd8 14. Qd4 b6
+15. b3 Bf5 16. Bb2 Ng6 17. g4 Be6 18. f4 Ne7 19. f5 Bc8 20. g5 Ne8 21. Bd3 f6
+22. Ne2 Kh8 23. Rf3 Bd7 24. Raf1 1-0

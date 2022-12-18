@@ -1,0 +1,19 @@
+[Event "corr NS/I"]
+[Site "corr NS/I"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Hasari, Seppo"]
+[Black "Tupola, Terho"]
+[Result "1-0"]
+[ECO "E39"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, Pirc variation"]
+[HashCode "5fa6669a"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 c5 5. dxc5 O-O 6. Bg5 Bxc5 7. Nf3 Nc6
+8. a3 Be7 9. e4 d6 10. Bd3 h6 11. Bd2 b6 12. O-O Bb7 13. Rfe1 Rc8 14. Rad1
+Qc7 15. Ne2 Ng4 16. Ng3 Nge5 17. Nxe5 Nxe5 18. Rc1 Rfd8 19. Bf1 d5 20. exd5
+Bxd5 21. Rxe5 Qxe5 22. Bc3 Qc7 23. cxd5 Rxd5 24. Qb1 Qd7 25. Be2 b5 26. Bf3
+Rdc5 27. Rd1 Qc7 28. Ne2 a5 29. Bxa5 1-0
+

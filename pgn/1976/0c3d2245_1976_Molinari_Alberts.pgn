@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Molinari, E."]
+[Black "Alberts, L."]
+[Result "1-0"]
+[ECO "C40"]
+[Opening "Latvian gambit, 3.Bc4"]
+[HashCode "0c3d2245"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 f5 3. Bc4 fxe4 4. Nxe5 Qg5 5. d4 Qxg2 6. Qh5+ g6 7. Bf7+
+Kd8 8. Bxg6 Qxh1+ 9. Ke2 c6 10. Nc3 e3 11. Bxe3 Qxa1 12. Qg5+ Kc7 13. Nf7
+b6 14. Bf4+ d6 15. Bxd6+ Bxd6 16. Qd8+ Kb7 17. Nxd6+ Ka6 18. Bd3+ b5 19. b4
+Bg4+ 20. Kd2 1-0
+

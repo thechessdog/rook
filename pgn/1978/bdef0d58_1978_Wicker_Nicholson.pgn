@@ -1,0 +1,19 @@
+[Event "Aaronson"]
+[Site "Londen open"]
+[Date "1978.01.01"]
+[Round "10"]
+[White "Wicker, Kevin J"]
+[Black "Nicholson, John G"]
+[Result "0-1"]
+[ECO "A45"]
+[Opening "Trompovsky attack (Ruth, Opovcensky opening)"]
+[HashCode "bdef0d58"]
+[Epoch "Rook"]
+[WhiteID "401501"]
+[WhiteCountry "ENG"]
+[BlackID "401730"]
+[BlackCountry "ENG"]
+
+1. d4 Nf6 2. Bg5 c5 3. d5 Ne4 4. Bh4 Qb6 5. Qc1 g5 6. Bg3 Bg7 7. c3 Qh6 8. Bxb8
+Rxb8 9. Nd2 Nxd2 10. Qxd2 b5 11. e4 b4 12. Ne2 bxc3 13. Nxc3 Qb6 14. Rb1 Qa5
+15. Bd3 Rxb2 0-1

@@ -1,0 +1,18 @@
+[Event "Cincinnati"]
+[Site "Cincinnati"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Johnson, John"]
+[Black "Glueck, David"]
+[Result "0-1"]
+[ECO "C00"]
+[Opening "French"]
+[Variation "King's Indian attack"]
+[HashCode "965c8048"]
+[Epoch "Rook"]
+[BlackID "2001110"]
+[BlackCountry "USA"]
+
+1. e4 e6 2. d3 c5 3. Nf3 Nc6 4. Nc3 d5 5. e5 f6 6. exf6 Nxf6 7. Bg5 Bd6 8. Be2
+O-O 9. O-O Bd7 10. d4 cxd4 11. Nxd4 Rc8 12. Ncb5 Bb8 13. Bg4 Nxd4 14. Nxd4 Qc7
+15. g3 Nxg4 16. Qxg4 e5 17. Ne6 Qd6 18. Bh6 Rf7 0-1

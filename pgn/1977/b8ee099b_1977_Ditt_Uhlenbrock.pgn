@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Ditt, Egon"]
+[Black "Uhlenbrock, E."]
+[Result "1-0"]
+[ECO "A16"]
+[Opening "English"]
+[Variation "Anglo-Gruenfeld, Smyslov defense"]
+[HashCode "b8ee099b"]
+[Epoch "Rook"]
+[WhiteID "4603400"]
+[WhiteCountry "GER"]
+
+1. c4 Nf6 2. Nc3 d5 3. cxd5 Nxd5 4. g3 g6 5. Bg2 Nxc3 6. bxc3 Bg7 7. d4 c5 8.
+e3 Qc7 9. Ne2 O-O 10. O-O e5 11. Ba3 Na6 12. Qb3 Rb8 13. h3 Re8 14. Rfd1 cxd4
+15. cxd4 exd4 16. Nxd4 Qa5 17. Bd6 Nc7 18. Rac1 Be5 19. Rxc7 1-0

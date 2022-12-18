@@ -1,0 +1,23 @@
+[Event "Lugano"]
+[Site "Lugano"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Lau, Ralf"]
+[Black "Trepp, Markus"]
+[Result "0-1"]
+[ECO "B66"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...a6"]
+[HashCode "80e9bec1"]
+[Epoch "Rook"]
+[WhiteID "4600134"]
+[WhiteCountry "GER"]
+[BlackCountry "CHE"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd2 a6 8.
+O-O-O h6 9. Be3 Bd7 10. f3 b5 11. Nxc6 Bxc6 12. Kb1 Qc7 13. Bd3 Qb7 14. Rhe1
+Nd7 15. Bf1 Be7 16. Nd5 Bxd5 17. exd5 e5 18. f4 Bf6 19. g3 O-O 20. Bd3 Rfe8 21.
+Qg2 exf4 22. Bxf4 Nc5 23. Qf3 Na4 24. Bc1 Re5 25. Rxe5 Bxe5 26. Qe4 g6 27. Qf3
+Qc7 28. Re1 Bg7 29. Bf1 Rc8 30. Qd3 Rb8 31. c3 b4 32. c4 b3 33. a3 Qd7 34. Re2
+Nc5 35. Qf3 Re8 36. Bd2 Na4 37. Bc1 Nc5 38. Bd2 Rxe2 39. Bxe2 Qe7 40. Qe3 Qf6
+41. Bc1 Qf5+ 42. Ka1 Qc2 0-1

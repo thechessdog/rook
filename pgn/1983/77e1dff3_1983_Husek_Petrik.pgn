@@ -1,0 +1,21 @@
+[Event "SVK-ch"]
+[Site "Nova Bana"]
+[Date "1983.??.??"]
+[Round "10"]
+[White "Husek, Zdenek"]
+[Black "Petrik, Karol"]
+[Result "0-1"]
+[ECO "A64"]
+[Opening "Benoni"]
+[Variation "fianchetto, 11...Re8"]
+[HashCode "77e1dff3"]
+[Epoch "Rook"]
+[WhiteID "14901331"]
+[BlackID "14900238"]
+[WhiteCountry "SVK"]
+[BlackCountry "SVK"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. g3 g6 7. Bg2 Bg7 8. Nf3
+O-O 9. O-O a6 10. a4 Re8 11. Nd2 Nbd7 12. h3 Rb8 13. Nc4 Ne5 14. Na3 Nh5 15. e4
+Rf8 16. Be3 f5 17. exf5 Bxf5 18. g4 Bxg4 19. hxg4 Qh4 20. Re1 Nxg4 21. Ne4 Rbe8
+22. Re2 Rxe4 23. Bxe4 Qh2+ 0-1

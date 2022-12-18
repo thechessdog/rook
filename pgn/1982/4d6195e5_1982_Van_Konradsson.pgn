@@ -1,0 +1,18 @@
+[Event "corr EU"]
+[Site "corr EU"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Van der Kooij"]
+[Black "Konradsson"]
+[Result "1-0"]
+[ECO "B10"]
+[Opening "Caro-Kann"]
+[Variation "two knights variation"]
+[HashCode "4d6195e5"]
+[Epoch "Rook"]
+[WhiteID "1011812"]
+[WhiteCountry "NED"]
+
+1. e4 c6 2. Nc3 d5 3. Nf3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h5 7. d4 e6 8. Ne5
+Ne7 9. Be3 Nd7 10. Nxg6 Nxg6 11. Qd2 Nxh4 12. Bg5 Be7 13. Ne4 Nf6 14. Rxh4 Nxe4
+15. Bxe7 Nxd2 16. Bxd8 1-0

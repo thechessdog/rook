@@ -1,0 +1,23 @@
+[Event "Vrnjacka Banja"]
+[Site "Vrnjacka Banja"]
+[Date "1984.04.01"]
+[Round "1"]
+[White "Sahovic, Dragutin"]
+[Black "Spassov, Liuben"]
+[Result "1-0"]
+[ECO "E15"]
+[Opening "Queen's Indian"]
+[Variation "Nimzovich variation (exaggerated fianchetto)"]
+[HashCode "9f8889b9"]
+[Epoch "Rook"]
+[BlackID "2900220"]
+[BlackCountry "FID"]
+[WhiteCountry "SRB"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. b3 Bb4+ 6. Bd2 Be7 7. Bg2 O-O 8. O-O
+c6 9. Qc2 d5 10. Rd1 Nbd7 11. Be1 Rc8 12. Nbd2 c5 13. Qb2 cxd4 14. Nxd4 Bc5 15.
+cxd5 exd5 16. N2f3 Re8 17. Rac1 Bb7 18. Bh3 a5 19. a3 Qe7 20. b4 axb4 21. axb4
+Bxd4 22. Nxd4 Rc4 23. Nf5 Qf8 24. Rxc4 dxc4 25. Nd6 Rb8 26. Nxc4 Qe7 27. Nd6
+Ba8 28. Nf5 Qe4 29. f3 Qe8 30. Nxg7 Qe3+ 31. Bf2 Qh6 32. Bxd7 Nxd7 33. Rxd7
+Qxg7 34. Qxg7+ Kxg7 35. Bd4+ Kf8 36. b5 Ke8 37. Rd6 Ke7 38. Rxb6 Rc8 39. Kf2
+Bd5 40. Ra6 1-0

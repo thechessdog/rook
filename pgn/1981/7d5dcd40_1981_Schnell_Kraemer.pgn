@@ -1,0 +1,17 @@
+[Event "corr DDR-cup8"]
+[Site "corr DDR-cup8"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Schnell, B."]
+[Black "Kraemer, M."]
+[Result "0-1"]
+[ECO "B98"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Browne variation"]
+[HashCode "7d5dcd40"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8.
+Qf3 h6 9. Bh4 Qc7 10. O-O-O Nbd7 11. Be2 b5 12. a3 Rb8 13. Rhe1 b4 14. axb4
+Rxb4 15. Qg3 g5 16. fxg5 hxg5 17. Qxg5 Nf8 18. Bf3 Ng6 19. Bg3 Nxe4 0-1
+

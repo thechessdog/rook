@@ -1,0 +1,19 @@
+[Event "corr CSSR"]
+[Site "corr CSSR"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Gvozdek"]
+[Black "Stracanek"]
+[Result "0-1"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "Nimzovich attack"]
+[HashCode "db61328a"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. Nc3 Nxc3 6. dxc3 Be7 7. Bd3
+Nc6 8. Bf4 Bg4 9. h3 Be6 10. Qd2 Qd7 11. O-O h6 12. a4 g5 13. Bg3 g4 14.
+hxg4 Bxg4 15. Be2 O-O-O 16. b4 Bf6 17. Rfe1 Qf5 18. Nh2 Bxe2 19. Rxe2 Nxb4
+20. Ra3 Nc6 21. c4 Qc5 22. Qd3 Rde8 23. Rxe8+ Rxe8 24. Rb3 Nd4 25. Rb1 Ne2+
+26. Kf1 Nxg3+ 27. fxg3 a6 28. Ng4 Bg5 29. Qd5 Qxd5 30. cxd5 Re4 0-1
+

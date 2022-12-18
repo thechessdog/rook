@@ -1,0 +1,24 @@
+[Event "Snekkersten"]
+[Site "Snekkersten"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Andersen, John"]
+[Black "Hirtsgaard, Niels"]
+[Result "1-0"]
+[ECO "A22"]
+[Opening "English"]
+[Variation "Bremen, Smyslov system"]
+[HashCode "603f77c8"]
+[Epoch "Rook"]
+[WhiteID "1420151"]
+[WhiteCountry "DEN"]
+[BlackID "1401351"]
+[BlackCountry "DEN"]
+
+1. c4 Nf6 2. Nc3 e5 3. g3 Bb4 4. Bg2 O-O 5. Nf3 Re8 6. O-O Nc6 7. Nd5 Bc5 8. d3
+h6 9. e3 e4 10. Nxf6+ Qxf6 11. dxe4 Rxe4 12. Qd5 Qe7 13. a3 a5 14. Bd2 Bd6 15.
+Bh3 g6 16. Bc3 Nd4 17. Nxd4 c6 18. Nf5 cxd5 19. Nxe7+ Bxe7 20. cxd5 a4 21. Bd4
+Bd6 22. Rfc1 b5 23. Bg2 Re8 24. f4 f5 25. Kf2 Bb7 26. Bc5 Bb8 27. Rc3 Kf7 28.
+Rd1 g5 29. Bf1 Ba6 30. Bd3 Kg6 31. g4 gxf4 32. Bxf5+ Kf7 33. e4 Be5 34. Bd4
+Bxd4+ 35. Rxd4 Kf6 36. Bxd7 Ke5 37. Rb4 Red8 38. Rc6 f3 39. h4 Rxd7 40. Re6+
+Kf4 41. e5# 1-0

@@ -1,0 +1,19 @@
+[Event "USA"]
+[Site "USA"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Powell, C."]
+[Black "Weinberger, Tibor"]
+[Result "1-0"]
+[ECO "B16"]
+[Opening "Caro-Kann"]
+[Variation "Bronstein-Larsen variation"]
+[HashCode "48251d67"]
+[Epoch "Rook"]
+[BlackID "2003449"]
+[BlackCountry "USA"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ gxf6 6. Nf3 Bf5 7. Bf4 Nd7
+8. Qd2 Bg7 9. O-O-O O-O 10. g4 Be4 11. Qe3 f5 12. gxf5 Nf6 13. Rg1 Bxf5 14. Nh4
+Bg6 15. Be5 Qd5 16. f4 e6 17. f5 Qxa2 18. fxg6 fxg6 19. Bh3 Rae8 20. Nxg6 Nd5
+21. Ne7+ Rxe7 22. Rxg7+ Rxg7 23. Bxe6+ Rff7 24. Bxf7+ Kxf7 25. Qf3+ 1-0

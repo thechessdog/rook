@@ -1,0 +1,17 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Kivlan, Ivars"]
+[Black "Pavlenko, Oleg"]
+[Result "1/2-1/2"]
+[ECO "D76"]
+[Opening "Neo-Gruenfeld, 6.cd Nxd5, 7.O-O Nb6"]
+[HashCode "2f13078d"]
+[Epoch "Rook"]
+[WhiteID "11600381"]
+[WhiteCountry "LAT"]
+
+1. d4 Nf6 2. c4 g6 3. Nf3 Bg7 4. g3 O-O 5. Bg2 d5 6. cxd5 Nxd5 7. O-O Nb6 8.
+Nc3 Nc6 9. Bf4 Bg4 10. d5 Bxf3 11. Bxf3 Nd4 12. Bg2 e5 13. Bc1 Qd7 14. b3 e4
+15. Ba3 Rfd8 16. Nxe4 Nb5 17. Bc5 Nxd5 18. a4 Nbc3 19. Rb1 1/2-1/2

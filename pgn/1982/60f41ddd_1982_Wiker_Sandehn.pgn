@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Wiker, B."]
+[Black "Sandehn, K."]
+[Result "0-1"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, poisoned pawn variation"]
+[HashCode "60f41ddd"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Qg4 O-O 8.
+Bd3 c4 9. Be2 Qa5 10. Bd2 Nbc6 11. Nh3 f6 12. f4 Bd7 13. Rf1 b5 14. Rf3 Qa4
+15. Bd1 b4 16. exf6 Rxf6 17. Ng5 h6 18. Rh3 Qxa3 19. Rb1 Qa2 20. Rxb4 Nxb4
+21. cxb4 Raf8 22. Nf3 c3 23. Be3 Nf5 24. Bf2 Qb2 25. Ne5 Bb5 26. Qf3 Nxd4
+27. Bxd4 Rxf4 28. Qxc3 Rf1+ 29. Kd2 Rxd1+ 30. Kxd1 Rf1+ 0-1
+

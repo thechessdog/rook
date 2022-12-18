@@ -1,0 +1,19 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Kovalev"]
+[Black "Rok"]
+[Result "1-0"]
+[ECO "D86"]
+[Opening "Gruenfeld"]
+[Variation "exchange, classical variation"]
+[HashCode "0ae7b98a"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Bc4 c5
+8. Ne2 Nc6 9. Be3 O-O 10. O-O Qc7 11. Rc1 Rd8 12. f4 e6 13. Qe1 Na5 14. Bb3
+c4 15. Bc2 f5 16. g4 b5 17. Qh4 Bb7 18. d5 exd5 19. exf5 Re8 20. fxg6 d4
+21. Qxh7+ Kf8 22. Bxd4 Rxe2 23. Rf2 Rae8 24. Bxg7+ Qxg7 25. Rxe2 Rxe2 26.
+Rd1 Bc6 27. Rd8+ Be8 28. f5 Qf6 29. Kf1 Re7 30. g5 Re1+ 31. Kf2 1-0
+

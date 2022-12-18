@@ -1,0 +1,19 @@
+[Event "Budapest Tungsram"]
+[Site "Budapest Tungsram"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Csom, Istvan"]
+[Black "Filip, Miroslav"]
+[Result "1/2-1/2"]
+[ECO "A14"]
+[Opening "English"]
+[Variation "Neo-Catalan declined"]
+[HashCode "aeaedcd2"]
+[Epoch "Rook"]
+[WhiteID "700100"]
+[WhiteCountry "HUN"]
+[BlackCountry "CZE"]
+
+1. c4 Nf6 2. g3 e6 3. Bg2 d5 4. Nf3 Be7 5. O-O O-O 6. d4 b6 7. cxd5 exd5 8. Nc3
+Bb7 9. Qb3 Ne4 10. Bf4 Nxc3 11. Qxc3 Na6 12. Rfd1 c5 13. dxc5 Nxc5 14. Be5 Re8
+15. Rac1 Rc8 16. Bh3 Ne6 17. Qd2 Rxc1 18. Rxc1 Bg5 19. Bf4 1/2-1/2

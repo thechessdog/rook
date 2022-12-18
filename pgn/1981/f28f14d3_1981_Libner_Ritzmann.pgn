@@ -1,0 +1,16 @@
+[Event "DDR"]
+[Site "DDR"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Libner"]
+[Black "Ritzmann"]
+[Result "1-0"]
+[ECO "C07"]
+[Opening "French"]
+[Variation "Tarrasch, open variation"]
+[HashCode "f28f14d3"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. Ngf3 cxd4 5. Nxd4 Bc5 6. N2b3 dxe4 7. Bb5+
+Bd7 8. Nxc5 Bxb5 9. Nxb7 Qd5 10. Nxb5 Qxd1+ 11. Kxd1 Kd7 12. Na5 1-0
+

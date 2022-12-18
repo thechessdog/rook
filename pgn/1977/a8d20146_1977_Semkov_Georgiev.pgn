@@ -1,0 +1,20 @@
+[Event "Varna"]
+[Site "Varna"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Semkov, Semko"]
+[Black "Georgiev, K."]
+[Result "0-1"]
+[ECO "B96"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7.f4"]
+[HashCode "a8d20146"]
+[Epoch "Rook"]
+[BlackCountry "BGR"]
+[WhiteID "2900068"]
+[WhiteCountry "FID"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qc7 8. Qf3
+Nbd7 9. O-O-O b5 10. Bxb5 axb5 11. e5 Ra5 12. exf6 gxf6 13. Rhe1 b4 14. Nc6 Rg8
+15. Ne4 Rxa2 16. Kb1 Bb7 17. Nxf6+ Nxf6 18. Bxf6 Rg6 19. Bh4 Bxc6 20. Qb3 Ra5
+21. f5 Qa7 0-1

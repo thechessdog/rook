@@ -1,0 +1,18 @@
+[Event "corr ol9"]
+[Site "corr ol9"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Sarosy, Zoltan"]
+[Black "Heidenfeld, Wolfgang"]
+[Result "0-1"]
+[ECO "A89"]
+[Opening "Dutch"]
+[Variation "Leningrad, main variation with Nc6"]
+[HashCode "7f59b02b"]
+[Epoch "Rook"]
+[WhiteCountry "CAN"]
+[BlackCountry "IRL"]
+
+1. c4 f5 2. Nf3 g6 3. Nc3 Nf6 4. g3 d6 5. d4 Bg7 6. Bg2 O-O 7. O-O Nc6 8. d5
+Ne5 9. Nxe5 dxe5 10. e4 e6 11. dxe6 c6 12. exf5 gxf5 13. Re1 Qxd1 14. Nxd1 e4
+15. e7 Re8 16. Bd2 Rxe7 17. Bc3 Be6 18. b3 Nd7 19. Nb2 Bxc3 0-1

@@ -1,0 +1,18 @@
+[Event "corr NAICCC II"]
+[Site "corr NAICCC II"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Greene, Sanford"]
+[Black "Neff, Bert"]
+[Result "1/2-1/2"]
+[ECO "D88"]
+[Opening "Gruenfeld"]
+[Variation "Spassky variation, main line, 10...cd, 11.cd"]
+[HashCode "a52b0f8a"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 c5 7. Bc4 Bg7
+8. Ne2 O-O 9. O-O cxd4 10. cxd4 Nc6 11. Be3 Na5 12. Bd3 Nc6 13. Bb5 Qa5 14.
+a4 Bg4 15. f3 Bd7 16. d5 Ne5 17. Rb1 Rfd8 18. h3 Bxb5 19. Rxb5 Qc7 20. Qb3
+Qc4 21. Qxc4 Nxc4 22. Bd4 b6 23. Bxg7 Kxg7 24. Nd4 Na5 25. Rc1 1/2-1/2
+

@@ -1,0 +1,17 @@
+[Event "Boulogne"]
+[Site "Boulogne"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "San Marco, Bruno"]
+[Black "Falgas"]
+[Result "1-0"]
+[ECO "C41"]
+[Opening "Philidor's defence"]
+[HashCode "0ea293c6"]
+[Epoch "Rook"]
+[WhiteID "600768"]
+[WhiteCountry "FRA"]
+
+1. e4 e5 2. Nf3 d6 3. d4 Bg4 4. dxe5 Bxf3 5. Qxf3 dxe5 6. Bc4 Qf6 7. Qb3 b6 8.
+Be3 Nd7 9. Nc3 c6 10. O-O-O b5 11. Nxb5 cxb5 12. Bxb5 Bd6 13. Bxd7+ Kxd7 14.
+Qb7+ Ke6 15. Rxd6+ Kxd6 16. Rd1+ Ke6 17. Qd7# 1-0

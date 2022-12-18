@@ -1,0 +1,25 @@
+[Event "US Open"]
+[Site "US Open"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Glueck, David"]
+[Black "Unger, Tom"]
+[Result "0-1"]
+[ECO "B02"]
+[Opening "Alekhine's defence"]
+[Variation "Scandinavian variation"]
+[HashCode "8621b5f9"]
+[Epoch "Rook"]
+[WhiteID "2001110"]
+[WhiteCountry "USA"]
+
+1. e4 Nf6 2. Nc3 d5 3. e5 Ne4 4. Nce2 d4 5. c3 Nc6 6. cxd4 Ng5 7. Qa4 a6 8. d3
+Ne6 9. Be3 b5 10. Qc2 Bb7 11. Nf3 g6 12. Qc3 Qd7 13. Ng3 O-O-O 14. Rc1 Bg7 15.
+Be2 f5 16. exf6 Bxf6 17. Ne5 Bxe5 18. dxe5 h5 19. O-O Ncd4 20. Bxd4 Nxd4 21.
+Rfe1 Qc6 22. Qxc6 Bxc6 23. Bf1 Bd5 24. b3 Kb7 25. Ne2 Ne6 26. Nc3 c5 27. Nxd5
+Rxd5 28. g3 Kb6 29. Re3 Rhd8 30. f4 Ng7 31. Kf2 Nf5 32. Re4 Nd4 33. h3 a5 34.
+g4 hxg4 35. hxg4 b4 36. Kg3 a4 37. Rb1 axb3 38. axb3 Ra8 39. Ree1 Ra3 40. Bg2
+Rd8 41. Be4 Rg8 42. Kh4 Nxb3 43. Bd5 Rh8+ 44. Kg5 Nd2 45. Rh1 Rxh1 46. Rxh1
+Rxd3 47. Bf7 b3 48. Bxg6 Rd4 49. Bb1 c4 50. f5 Nf3+ 51. Kh5 Nxe5 52. Re1 Nxg4
+53. Re6+ Kb5 54. Rxe7 Kb4 55. Kg5 c3 56. Rc7 Ne5 57. f6 Rc4 58. f7 Nxf7+ 59.
+Rxf7 c2 0-1

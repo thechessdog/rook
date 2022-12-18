@@ -1,0 +1,20 @@
+[Event "corr Italy"]
+[Site "corr Italy"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Colucci"]
+[Black "Barbera Estelles, Rosendo"]
+[Result "1-0"]
+[ECO "B96"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7.f4"]
+[HashCode "189fd60d"]
+[Epoch "Rook"]
+[BlackID "2201046"]
+[BlackCountry "ESP"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Nbd7 8. Qf3
+Qc7 9. O-O-O b5 10. Bd3 Be7 11. Rhe1 b4 12. Nd5 Nxd5 13. exd5 e5 14. Bxe7 Kxe7
+15. Nf5+ Kf8 16. fxe5 Nxe5 17. Rxe5 dxe5 18. d6 Qb8 19. Nxg7 Qxd6 20. Nf5 Qb8
+21. Be4 Bxf5 22. Bxa8 Qc8 23. Be4 Bxe4 24. Qxe4 f6 25. Qxb4+ Kg7 26. Qe7+ Kg6
+27. Rd3 1-0

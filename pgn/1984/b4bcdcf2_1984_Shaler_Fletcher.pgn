@@ -1,0 +1,17 @@
+[Event "Plymouth ch-MI op"]
+[Site "Plymouth ch-MI op"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Shaler, To"]
+[Black "Fletcher, G."]
+[Result "1-0"]
+[ECO "C37"]
+[Opening "KGA"]
+[Variation "King's knight's gambit"]
+[HashCode "b4bcdcf2"]
+[Epoch "Rook"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. Bc4 Nf6 5. Nxg5 d5 6. exd5 Nxd5 7. Qe2+
+Be7 8. Nxf7 Kxf7 9. Qh5+ Ke6 10. d4 Bh4+ 11. g3 fxg3 12. Qe5+ Kf7 13. Bxd5+
+Kg6 14. hxg3 Re8 15. Be4+ Kf7 16. Qh5+ Kg8 17. Qxh7+ Kf8 18. Bh6# 1-0
+

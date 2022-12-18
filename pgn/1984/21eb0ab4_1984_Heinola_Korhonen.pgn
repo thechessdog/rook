@@ -1,0 +1,26 @@
+[Event "Vantaa"]
+[Site "Vantaa"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Heinola, Kari P."]
+[Black "Korhonen, E."]
+[Result "1-0"]
+[ECO "A00"]
+[Opening "Polish"]
+[Variation "Outflank variation"]
+[HashCode "21eb0ab4"]
+[Epoch "Rook"]
+[WhiteID "503495"]
+[WhiteCountry "FIN"]
+
+1. b4 c6 2. Bb2 d5 3. e3 Bf5 4. Nf3 e6 5. b5 Nf6 6. a4 Be7 7. c4 dxc4 8. Bxc4
+O-O 9. O-O cxb5 10. axb5 Qc7 11. Qe2 Nbd7 12. Rc1 Rfc8 13. Na3 Qd8 14. d4 Bg4
+15. h3 Bh5 16. Rd1 Nb6 17. Bb3 Ne4 18. Nc4 Ng5 19. Nce5 Nd5 20. Rdc1 Bb4 21. e4
+Nc3 22. Qd3 Ncxe4 23. Nxg5 Rxc1+ 24. Bxc1 Nxg5 25. h4 f6 26. Bxg5 fxg5 27.
+Bxe6+ Kh8 28. Bf5 Bd6 29. Re1 Qa5 30. Rc1 Bxe5 31. dxe5 Rd8 32. Qe3 Qxb5 33.
+hxg5 Be8 34. g6 hxg6 35. Qh3+ Kg8 36. Be6+ Bf7 37. Bxf7+ Kxf7 38. Qf3+ Kg8 39.
+Qg3 Qb6 40. Re1 Re8 41. Rd1 Qe6 42. f4 Qb6+ 43. Kh2 Kf7 44. Rd7+ Re7 45. Rd6
+Qb1 46. Qe3 Qb4 47. Qg3 Re6 48. Rxe6 Kxe6 49. Qxg6+ Kd5 50. Qxg7 Ke4 51. Qg3
+Qb2 52. Qf3+ Kf5 53. Kh3 Qb6 54. g4+ Ke6 55. Qd3 Qg1 56. Qd6+ Kf7 57. e6+ Kg7
+58. Qe5+ Kh7 59. e7 Qh1+ 60. Kg3 Qg1+ 61. Kf3 Qf1+ 62. Ke4 Qe2+ 63. Kf5 Qc2+
+64. Qe4 Qc8+ 65. Kf6+ Kh6 66. Qg6# 1-0

@@ -1,0 +1,20 @@
+[Event "Aarhus"]
+[Site "Aarhus"]
+[Date "1983.01.01"]
+[Round "6"]
+[White "Tisdall, Jonathan D"]
+[Black "Helmers, Knut J"]
+[Result "1/2-1/2"]
+[ECO "E42"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5, 5.Ne2 (Rubinstein)"]
+[HashCode "ddab6a95"]
+[Epoch "Rook"]
+[WhiteID "1500066"]
+[WhiteCountry "NOR"]
+[BlackID "1500023"]
+[BlackCountry "NOR"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Ne2 cxd4 6. exd4 O-O 7. a3 Be7 8. d5
+exd5 9. cxd5 Re8 10. Be3 Ng4 11. Bd4 d6 12. h3 Ne5 13. Ng3 Bh4 14. Be2 Bxg3
+1/2-1/2

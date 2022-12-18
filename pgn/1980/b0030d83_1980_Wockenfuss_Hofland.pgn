@@ -1,0 +1,20 @@
+[Event "Berlin"]
+[Site "Berlin"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Wockenfuss, Klaus"]
+[Black "Hofland, Leonard"]
+[Result "1/2-1/2"]
+[ECO "A00"]
+[Opening "Benko's opening"]
+[HashCode "b0030d83"]
+[Epoch "Rook"]
+[WhiteID "4600746"]
+[WhiteCountry "GER"]
+[BlackID "1000837"]
+[BlackCountry "NED"]
+
+1. g3 g6 2. Bg2 Bg7 3. d3 d5 4. Nf3 c6 5. O-O Nd7 6. e4 e5 7. Nc3 Ne7 8. Bg5 f6
+9. Bd2 O-O 10. Rb1 b6 11. d4 Bb7 12. dxe5 fxe5 13. Ng5 Rf6 14. f4 h6 15. Nf3
+exf4 16. Bxf4 Nc5 17. exd5 cxd5 18. Re1 d4 19. Nb5 Nf5 20. Nc7 Ne3 21. Bxe3
+Qxc7 22. Bxd4 Bxf3 23. Bxf3 1/2-1/2

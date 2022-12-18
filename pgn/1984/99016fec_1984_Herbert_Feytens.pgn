@@ -1,0 +1,20 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Herbert"]
+[Black "Feytens"]
+[Result "1/2-1/2"]
+[ECO "C11"]
+[Opening "French"]
+[Variation "Burn variation"]
+[HashCode "99016fec"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 dxe4 5. Nxe4 Be7 6. Ng3 h6 7. Bxf6 Bxf6
+8. c3 g6 9. Bd3 Nd7 10. Nf3 Bg7 11. h4 c6 12. Qe2 O-O 13. h5 g5 14. O-O-O
+Re8 15. Ne5 f5 16. Bc4 Kh7 17. Ng6 b5 18. Bb3 Nf6 19. Rhe1 a5 20. Ne5 a4
+21. Bc2 Qd5 22. c4 bxc4 23. Qxc4 Qxg2 24. Qxc6 Qxc6 25. Nxc6 Bb7 26. Nb4
+Kh8 27. Rd2 Bf8 28. Nd3 f4 29. Ne2 a3 30. Nc3 axb2+ 31. Kxb2 Bf3 32. Ne5
+Nd5 33. Nxd5 Bxd5 34. Bb3 Bxb3 35. axb3 1/2-1/2
+

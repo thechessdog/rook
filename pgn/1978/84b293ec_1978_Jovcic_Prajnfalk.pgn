@@ -1,0 +1,19 @@
+[Event "corr Vidmar mem"]
+[Site "corr Vidmar mem"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Jovcic"]
+[Black "Prajnfalk"]
+[Result "1/2-1/2"]
+[ECO "C59"]
+[Opening "two knights defence"]
+[Variation "Goering variation"]
+[HashCode "84b293ec"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 Na5 6. Bb5+ c6 7. dxc6
+bxc6 8. Be2 h6 9. Nf3 e4 10. Ne5 Qc7 11. f4 Bc5 12. d4 exd3 13. cxd3 O-O
+14. Nc3 Rd8 15. Bd2 Rb8 16. Qc2 Bd4 17. Nd1 Nd5 18. Qa4 Nxf4 19. Bxf4 Bxe5
+20. O-O Qb6+ 21. Be3 Bd4 22. Bf2 Be6 23. Qc2 c5 24. Bxd4 Rxd4 25. Rf2 c4
+26. dxc4 Nxc4 27. Bxc4 Rxc4 28. Nc3 Rbc8 29. Rd1 Bg4 1/2-1/2
+

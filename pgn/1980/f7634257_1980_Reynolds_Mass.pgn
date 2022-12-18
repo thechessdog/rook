@@ -1,0 +1,17 @@
+[Event "corr Wcup3"]
+[Site "corr Wcup3"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Reynolds"]
+[Black "Mass"]
+[Result "1-0"]
+[ECO "A75"]
+[Opening "Benoni"]
+[Variation "classical with ...a6 and 10...Bg4"]
+[HashCode "f7634257"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 c5 4. d5 exd5 5. cxd5 d6 6. e4 g6 7. Nf3 Bg7 8.
+Be2 O-O 9. O-O a6 10. a4 Bg4 11. Nd2 Bxe2 12. Qxe2 Nbd7 13. Nc4 Nb6 14. Ne3
+Qc7 15. g4 Rfe8 16. f3 Qe7 17. a5 Nbd7 18. Nc4 Nxd5 19. Nxd5 1-0
+

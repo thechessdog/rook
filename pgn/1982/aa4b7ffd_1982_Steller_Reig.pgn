@@ -1,0 +1,15 @@
+[Event "Strobeck"]
+[Site "Strobeck"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Steller"]
+[Black "Reig"]
+[Result "1-0"]
+[ECO "D06"]
+[Opening "QGD"]
+[Variation "Marshall defence"]
+[HashCode "aa4b7ffd"]
+[Epoch "Rook"]
+
+1. d4 d5 2. c4 Nf6 3. cxd5 Qxd5 4. Nc3 Qa5 5. Bd2 Bf5 6. e4 Bg6 7. Nd5 1-0
+

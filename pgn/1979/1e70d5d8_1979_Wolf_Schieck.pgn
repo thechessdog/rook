@@ -1,0 +1,19 @@
+[Event "corr DDR-M"]
+[Site "corr DDR-M"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Wolf, L."]
+[Black "Schieck, E."]
+[Result "1-0"]
+[ECO "A17"]
+[Opening "English"]
+[Variation "Nimzo-English opening"]
+[HashCode "1e70d5d8"]
+[Epoch "Rook"]
+
+1. c4 Nf6 2. Nc3 e6 3. Nf3 Bb4 4. Qc2 c5 5. a3 Ba5 6. e3 O-O 7. d4 b6 8.
+Bd3 Bb7 9. O-O Bxc3 10. bxc3 d5 11. Ne5 dxc4 12. Nxc4 cxd4 13. exd4 h6 14.
+Ne5 Nc6 15. f4 Rc8 16. Qe2 Ne7 17. Bb2 g6 18. c4 Kh7 19. g4 Nfg8 20. f5
+exf5 21. gxf5 Nxf5 22. Rxf5 gxf5 23. Bxf5+ Kh8 24. d5 Qg5+ 25. Kh1 f6 26.
+Ng6+ Kg7 27. Rg1 Qxf5 28. Ne7+ Qg5 29. Rxg5+ hxg5 30. Nxc8 1-0
+

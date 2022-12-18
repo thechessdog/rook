@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Santini"]
+[Black "Manna"]
+[Result "1-0"]
+[ECO "B99"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7...Be7 main line"]
+[HashCode "116a8679"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8.
+Qf3 Qc7 9. O-O-O Nbd7 10. Bd3 h6 11. Qh3 Nb6 12. Bxf6 Bxf6 13. Nde2 O-O 14.
+g4 Bd7 15. g5 Bxc3 16. Nxc3 hxg5 17. e5 g6 18. Ne4 Kg7 19. Nf6 Rh8 20. Qg4
+dxe5 21. Rhg1 Kxf6 22. Qxg5+ Kg7 23. Bxg6 f6 24. Qg4 Kf8 25. Bf7 1-0
+

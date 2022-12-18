@@ -1,0 +1,19 @@
+[Event "corr SM/ME"]
+[Site "corr SM/ME"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Vuori, J."]
+[Black "Heinola, Kari P."]
+[Result "0-1"]
+[ECO "C63"]
+[Opening "Ruy Lopez"]
+[Variation "Schliemann defence"]
+[HashCode "9e31a583"]
+[Epoch "Rook"]
+[BlackID "503495"]
+[BlackCountry "FIN"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 f5 4. Bxc6 dxc6 5. Qe2 Bd6 6. d3 fxe4 7. dxe4 Nf6 8.
+h3 O-O 9. O-O Qe8 10. Nh2 Qg6 11. Qd3 Nxe4 12. Nd2 Bf5 13. Nxe4 Bxe4 14. Qg3
+Qxg3 15. fxg3 Bc5+ 16. Kh1 Bxc2 17. Bd2 Rf2 18. Bc3 Raf8 19. Rxf2 Rxf2 20. Ng4
+Re2 21. Nxe5 Be4 22. Nf3 Bd6 23. Re1 Rxe1+ 24. Bxe1 c5 25. Kg1 Bd5 0-1

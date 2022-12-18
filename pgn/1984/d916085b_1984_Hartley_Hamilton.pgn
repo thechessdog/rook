@@ -1,0 +1,24 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Hartley, R."]
+[Black "Hamilton, K."]
+[Result "0-1"]
+[ECO "C17"]
+[Opening "French"]
+[Variation "Winawer, advance, 5.a3"]
+[HashCode "d916085b"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 cxd4 6. Qxd4 Nc6 7. Bb5 Bd7 8.
+Bxc6 Bxc3+ 9. Qxc3 Bxc6 10. Nf3 Rc8 11. Be3 b6 12. Qd4 Ne7 13. Bg5 O-O 14.
+Qg4 Qc7 15. Bf6 Ng6 16. h4 gxf6 17. exf6 Qf4 18. Qh5 Qxf6 19. Ng5 Qe5+ 20.
+Kf1 Bb5+ 21. Kg1 Qg7 22. c3 Nf4 23. Qf3 Qf6 24. g3 Ne2+ 25. Kg2 Qxf3+ 26.
+Kxf3 h6 27. Nh3 d4 28. Rhe1 dxc3 29. Rxe2 Bxe2+ 30. Kxe2 cxb2 31. Rb1 Rc3
+32. Rxb2 Rfc8 33. Kd2 Rxa3 34. Nf4 Rd8+ 35. Ke2 e5 36. Ng2 Rad3 37. Ne3 Kg7
+38. Nf5+ Kg6 39. Ne7+ Kh5 40. Nc6 R8d5 41. Ne7 Rd7 42. g4+ Kxg4 43. Rb4+
+R7d4 44. f3+ Rxf3 45. Rxd4+ exd4 46. Nc6 d3+ 47. Kd2 Kf4 48. Nxa7 Ke4 49.
+Nb5 Rf2+ 50. Ke1 Ke3 51. Nc3 d2+ 52. Kd1 Rf1+ 53. Kc2 Rc1+ 54. Kb3 Rxc3+
+55. Kxc3 d1=Q 0-1
+

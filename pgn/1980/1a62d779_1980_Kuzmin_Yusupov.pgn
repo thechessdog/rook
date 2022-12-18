@@ -1,0 +1,22 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Kuzmin, G."]
+[Black "Yusupov, A."]
+[Result "1-0"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "classical attack, close variation"]
+[HashCode "1a62d779"]
+[Epoch "Rook"]
+[WhiteID "4132041"]
+[WhiteCountry "RUS"]
+[BlackCountry "RUS"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d3 Nf6 6. d4 d5 7. Bd3 Bd6 8. O-O
+O-O 9. h3 h6 10. Nc3 c6 11. Ne5 Nbd7 12. Bf4 Qc7 13. Re1 Re8 14. Re3 Nxe5 15.
+dxe5 Rxe5 16. Bxe5 Bxe5 17. Qe2 Bh2+ 18. Kh1 Bd7 19. g3 d4 20. Rf3 dxc3 21.
+Kxh2 cxb2 22. Rb1 Qa5 23. Re3 Nd5 24. Re5 f6 25. Re4 Nc3 26. Qd2 Qa3 27. Bc4+
+Kh7 28. Qxd7 Nxb1 29. Bd3 f5 30. Qxf5+ Kg8 31. Qe6+ Kh8 32. Qg6 Qxd3 33. cxd3
+Nc3 34. Re7 Rg8 35. Rxb7 b1=Q 36. Rxb1 Nxb1 37. Qxc6 Nd2 38. Kg2 1-0

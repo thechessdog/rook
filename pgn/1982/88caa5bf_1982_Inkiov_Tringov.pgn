@@ -1,0 +1,22 @@
+[Event "Plovdiv"]
+[Site "Plovdiv"]
+[Date "1982.01.01"]
+[Round "10"]
+[White "Inkiov, Ventzislav"]
+[Black "Tringov, Georgi P"]
+[Result "0-1"]
+[ECO "B95"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6...e6"]
+[HashCode "88caa5bf"]
+[Epoch "Rook"]
+[WhiteID "2900033"]
+[WhiteCountry "FID"]
+[BlackCountry "BGR"]
+
+1. e4 c5 2. Nc3 d6 3. Nge2 Nf6 4. d4 cxd4 5. Nxd4 a6 6. Bg5 e6 7. Qf3 h6 8. Bh4
+Nbd7 9. O-O-O Qc7 10. Qh3 Be7 11. f4 Nc5 12. Bd3 b5 13. a3 Bb7 14. Rhe1 O-O-O
+15. Bf2 Kb8 16. Kb1 Rc8 17. Nb3 Rhd8 18. Qg3 g6 19. h3 Nxb3 20. cxb3 Bc6 21. e5
+Nd7 22. b4 g5 23. fxg5 Nxe5 24. gxh6 Rg8 25. Qe3 Bg5 26. Qd4 Bxh6 27. Be4 Bxe4+
+28. Nxe4 Nc4 29. Re2 Rxg2 30. Qa7+ Qxa7 31. Bxa7+ Kxa7 32. Rxg2 d5 33. Nc3 Ne3
+34. Rf2 Nxd1 35. Rxf7+ Kb6 0-1

@@ -1,0 +1,21 @@
+[Event "NBSB"]
+[Site "NBSB"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Welling, Gerard"]
+[Black "Kleyberg"]
+[Result "1-0"]
+[ECO "C26"]
+[Opening "Vienna"]
+[Variation "Mengarini variation"]
+[HashCode "8bc1c5af"]
+[Epoch "Rook"]
+[WhiteID "1000446"]
+[WhiteCountry "NED"]
+
+1. e4 e5 2. Nc3 Nf6 3. a3 Bc5 4. Nf3 d5 5. exd5 O-O 6. Bc4 e4 7. d4 exf3 8.
+dxc5 fxg2 9. Rg1 Bg4 10. Be2 Bxe2 11. Kxe2 Nbd7 12. Qd4 Re8+ 13. Be3 Ne5 14.
+Rxg2 Qd7 15. Rag1 Ng6 16. Kd2 Rad8 17. Bg5 Qf5 18. Bxf6 gxf6 19. Kc1 Kh8 20.
+Rg4 Re5 21. Kb1 Rde8 22. Qd2 Qf3 23. Ka2 Rh5 24. R4g3 Qf5 25. Re3 Rxe3 26. fxe3
+Ne5 27. e4 Qd7 28. Qf4 Qe7 29. d6 Qe6+ 30. Nd5 f5 31. dxc7 Ng6 32. Rxg6 hxg6
+33. Qd6 1-0

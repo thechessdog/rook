@@ -1,0 +1,16 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Krause"]
+[Black "Hoppe"]
+[Result "0-1"]
+[ECO "A00"]
+[Opening "Polish (Sokolsky) opening"]
+[HashCode "147b1c8b"]
+[Epoch "Rook"]
+
+1. b4 e5 2. Bb2 Bxb4 3. Bxe5 Nf6 4. Nf3 Nc6 5. Bb2 O-O 6. Nc3 d5 7. a3 Ba5
+8. Nb5 Ne4 9. e3 Bg4 10. c3 a6 11. d3 Ng5 12. h4 Ne6 13. Nbd4 Nexd4 14.
+exd4 Re8+ 15. Kd2 Bxf3 16. gxf3 Nxd4 17. Bg2 Qf6 0-1
+

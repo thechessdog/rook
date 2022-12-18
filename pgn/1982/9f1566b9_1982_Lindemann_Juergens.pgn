@@ -1,0 +1,21 @@
+[Event "BL2-N"]
+[Site "Germany"]
+[Date "1982.??.??"]
+[Round "?"]
+[White "Lindemann, Sven"]
+[Black "Juergens, Uwe"]
+[Result "0-1"]
+[ECO "B83"]
+[Opening "Sicilian"]
+[Variation "modern Scheveningen, main line with Nb3"]
+[HashCode "9f1566b9"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be2 Be7 7. O-O O-O
+8. f4 Nc6 9. Be3 Bd7 10. Nb3 a6 11. a4 b6 12. Rf2 Qc7 13. Bf3 Rab8 14. g4
+Bc8 15. Qf1 Na5 16. Nd2 Nd7 17. g5 Bb7 18. h4 Rfc8 19. h5 Nc4 20. Nxc4 Qxc4
+21. Be2 Qb4 22. Bd2 Bf8 23. Bd3 Ra8 24. g6 Qc5 25. Qh3 Nf6 26. f5 exf5 27.
+gxf7+ Kh8 28. Qxf5 Nxh5 29. Qh3 g6 30. Rf1 Bg7 31. Be3 Qe5 32. Ne2 Rf8 33.
+Qh4 d5 34. Bd4 Qd6 35. exd5 Qxd5 36. Bc4 Qc6 37. Bxg7+ Nxg7 38. Nf4 g5 39.
+Qxg5 Qh1# 0-1
+

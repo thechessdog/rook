@@ -1,0 +1,22 @@
+[Event "Reykjavik"]
+[Site "Reykjavik"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Hoi, Carsten"]
+[Black "Jonsson, Bjorgvin"]
+[Result "1-0"]
+[ECO "A57"]
+[Opening "Benko gambit half accepted"]
+[HashCode "9dbaae1d"]
+[Epoch "Rook"]
+[BlackID "2300125"]
+[WhiteID "1400100"]
+[WhiteCountry "DEN"]
+[BlackCountry "ISL"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. e3 g6 6. Nc3 Bg7 7. Nf3 d6 8. a4 O-O
+9. Qb3 Nbd7 10. Ra3 Bb7 11. e4 Qa5 12. Bd2 Rfb8 13. Be2 Qd8 14. O-O axb5 15.
+Bxb5 Ba6 16. Rfa1 Bxb5 17. axb5 Nb6 18. h3 Nfd7 19. Be3 Qe8 20. Rxa8 Rxa8 21.
+Ra6 Qc8 22. Qa2 Rb8 23. Ra7 Qe8 24. Bf4 Nc8 25. Ra5 Ncb6 26. Nd2 Qd8 27. Ra7
+Nc8 28. Ra8 Ncb6 29. Rxb8 Qxb8 30. Qa5 Bd4 31. Qa6 Kf8 32. Na4 c4 33. Nxb6 Qxb6
+34. Bh6+ Ke8 35. Qc8+ Qd8 36. Qxc4 1-0

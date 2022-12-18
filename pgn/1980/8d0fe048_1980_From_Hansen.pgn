@@ -1,0 +1,21 @@
+[Event "Denmark"]
+[Site "Denmark"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "From, Sigfred"]
+[Black "Hansen, Curt"]
+[Result "0-1"]
+[ECO "B94"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.Bg5"]
+[HashCode "8d0fe048"]
+[Epoch "Rook"]
+[BlackID "1400010"]
+[BlackCountry "DEN"]
+[WhiteCountry "DNK"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 Nbd7 7. f4 Qb6 8.
+Qd2 e6 9. O-O-O Be7 10. Be2 h6 11. Bxf6 Nxf6 12. Kb1 Qc7 13. Bf3 e5 14. Nf5
+Bxf5 15. exf5 Rc8 16. Rhe1 b5 17. Re2 O-O 18. g4 b4 19. Nd5 Nxd5 20. Bxd5 exf4
+21. Qxf4 Bf6 22. Qf2 Rfe8 23. Red2 Re5 24. h4 Qe7 25. Rh1 Bxh4 26. Qb6 Re1+ 27.
+Rd1 Qe2 28. Rc1 Qxc2+ 0-1

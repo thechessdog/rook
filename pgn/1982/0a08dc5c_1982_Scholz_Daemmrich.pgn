@@ -1,0 +1,19 @@
+[Event "corr DDR/FS"]
+[Site "corr DDR/FS"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Scholz"]
+[Black "Daemmrich"]
+[Result "1/2-1/2"]
+[ECO "E46"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 O-O"]
+[HashCode "0a08dc5c"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Qc2 b6 6. Nf3 Bb7 7. a3 Bxc3+ 8.
+Qxc3 Bxf3 9. gxf3 d5 10. Be2 Nbd7 11. Bd2 c5 12. h4 dxc4 13. Bxc4 cxd4 14.
+Qxd4 Qc7 15. Bc3 Rad8 16. h5 Rfe8 17. O-O-O Nc5 18. Qh4 Rxd1+ 19. Rxd1 Nce4
+20. fxe4 Qxc4 21. h6 Nxe4 22. hxg7 Nd6 23. Qh5 Nb5 24. Rh1 Qd3 25. Rd1 Qc4
+26. Rh1 Qd3 1/2-1/2
+

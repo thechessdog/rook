@@ -1,0 +1,21 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Timofeev"]
+[Black "Chekhov, Valery A"]
+[Result "1-0"]
+[ECO "B02"]
+[Opening "Alekhine's defence"]
+[Variation "Maroczy variation"]
+[HashCode "2fe1d296"]
+[Epoch "Rook"]
+[BlackID "4100859"]
+[BlackCountry "RUS"]
+
+1. e4 Nf6 2. d3 d5 3. Nd2 c5 4. Ngf3 Nc6 5. g3 e5 6. Bg2 Be7 7. O-O O-O 8. exd5
+Nxd5 9. Nc4 f6 10. a4 Ndb4 11. Ne1 Be6 12. b3 Qd7 13. c3 Nd5 14. Qc2 Rfd8 15.
+Ba3 b6 16. Rd1 Rab8 17. Ne3 a6 18. Be4 f5 19. Bf3 b5 20. axb5 axb5 21. Bb2 Nf6
+22. N1g2 Rbc8 23. Rfe1 g6 24. Nf1 Bd5 25. Bxd5+ Nxd5 26. Nfe3 Nc7 27. f4 Ne6
+28. Qe2 exf4 29. gxf4 Nc7 30. d4 cxd4 31. cxd4 Nd5 32. Qxb5 Bf6 33. Nxd5 Qxd5
+34. Re8+ 1-0

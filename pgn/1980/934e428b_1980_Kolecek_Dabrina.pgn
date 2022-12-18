@@ -1,0 +1,19 @@
+[Event "corr CSSR"]
+[Site "corr CSSR"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Kolecek"]
+[Black "Dabrina"]
+[Result "1-0"]
+[ECO "B92"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Opovcensky variation"]
+[HashCode "934e428b"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8.
+f4 O-O 9. a4 b6 10. O-O Bb7 11. Bf3 Nbd7 12. Be3 exf4 13. Bxf4 Ne5 14. Nd5
+Nxf3+ 15. Qxf3 Nxd5 16. exd5 Qc7 17. c3 Qc4 18. Nd4 Bxd5 19. Qg3 Rfd8 20.
+Nf5 Bf8 21. Nxg7 Bxg7 22. Bh6 Kf8 23. Bxg7+ Ke8 24. Bf6 Qc5+ 25. Rf2 Rdc8
+26. b4 Qc4 27. Qxd6 Qe4 28. Rd1 Bc4 29. Rfd2 1-0
+

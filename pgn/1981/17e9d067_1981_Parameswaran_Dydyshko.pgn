@@ -1,0 +1,21 @@
+[Event "Bangalore"]
+[Site "Bangalore"]
+[Date "1981.07.01"]
+[Round "1"]
+[White "Parameswaran, T."]
+[Black "Dydyshko, Viacheslav"]
+[Result "0-1"]
+[ECO "E60"]
+[Opening "King's Indian"]
+[Variation "3.g3"]
+[HashCode "17e9d067"]
+[Epoch "Rook"]
+[BlackID "13500031"]
+[BlackCountry "BLR"]
+
+1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 O-O 5. e4 c5 6. d5 d6 7. Nc3 Na6 8. h3 Nc7
+9. Nge2 b5 10. e5 Nd7 11. e6 fxe6 12. dxe6 Ne5 13. cxb5 Nf3+ 14. Kf1 Bxe6 15.
+Bxf3 Rxf3 16. Nf4 Bc4+ 17. Kg2 Rxc3 18. bxc3 Qf8 19. Be3 e5 20. Ne2 Bd5+ 21.
+Kh2 Bxh1 22. Qxh1 d5 23. Rf1 d4 24. Qc6 Nxb5 25. cxd4 exd4 26. Qxb5 dxe3 27.
+Nf4 Rb8 28. Qd3 Qf7 29. Qxe3 Bd4 30. Qe4 Qxa2 31. Nd5 Qa6 32. Ne7+ Kg7 33. Nc6
+Qxf1 34. Qe7+ Kh8 0-1

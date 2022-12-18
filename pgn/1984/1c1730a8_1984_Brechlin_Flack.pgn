@@ -1,0 +1,17 @@
+[Event "corr DDR/FS"]
+[Site "corr DDR/FS"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Brechlin"]
+[Black "Flack"]
+[Result "0-1"]
+[ECO "A00"]
+[Opening "Dunst (Sleipner, Heinrichsen) opening"]
+[HashCode "1c1730a8"]
+[Epoch "Rook"]
+
+1. Nc3 d5 2. e4 dxe4 3. Nxe4 e5 4. Bc4 f5 5. d3 fxe4 6. Qh5+ Kd7 7. Bxg8
+Rxg8 8. Qf7+ Be7 9. Qd5+ Bd6 10. Qf7+ Kc6 11. Qc4+ Bc5 12. b4 Qd5 13. Qxc5+
+Qxc5 14. bxc5 exd3 15. cxd3 Bf5 16. Nf3 Re8 17. Bb2 Nd7 18. Kd2 Rad8 19.
+Rac1 Bxd3 20. Kxd3 e4+ 21. Kc4 exf3 22. gxf3 Ne5+ 23. Kb4 Nd3+ 0-1
+

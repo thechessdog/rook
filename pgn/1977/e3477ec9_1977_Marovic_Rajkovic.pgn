@@ -1,0 +1,20 @@
+[Event "Zagreb"]
+[Site "Zagreb"]
+[Date "1977.01.01"]
+[Round "13"]
+[White "Marovic, Drazen"]
+[Black "Rajkovic, Dusan"]
+[Result "1/2-1/2"]
+[ECO "A75"]
+[Opening "Benoni"]
+[Variation "classical with ...a6 and 10...Bg4"]
+[HashCode "e3477ec9"]
+[Epoch "Rook"]
+[WhiteID "14500183"]
+[WhiteCountry "CRO"]
+[BlackID "900265"]
+[BlackCountry "SRB"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. e4 Bg7 8. Be2
+O-O 9. O-O a6 10. a4 Bg4 11. Nd2 Bxe2 12. Qxe2 Nbd7 13. Nc4 Nb6 14. Nxb6 Qxb6
+15. a5 1/2-1/2

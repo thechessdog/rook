@@ -1,0 +1,16 @@
+[Event "Dayton,OH"]
+[Site "Dayton,OH"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Hoog, D."]
+[Black "Campelli, C."]
+[Result "1-0"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Andreaschek gambit"]
+[HashCode "74e53496"]
+[Epoch "Rook"]
+
+1. e4 c5 2. d4 cxd4 3. c3 e5 4. Nf3 Nc6 5. cxd4 Qc7 6. a3 a6 7. Nc3 exd4 8.
+Nxd4 Bc5 9. Ndb5 Qe5 10. Qd5 Qxd5 11. Nxd5 Nge7 12. Ndc7+ Kd8 13. Nxa8 1-0
+

@@ -1,0 +1,20 @@
+[Event "Luzern olm"]
+[Site "Luzern olm"]
+[Date "1982.10.01"]
+[Round "1"]
+[White "Hamley, P."]
+[Black "Chiu, Y."]
+[Result "1-0"]
+[ECO "A40"]
+[Opening "Queen's pawn"]
+[Variation "Keres defence"]
+[HashCode "e8f6b779"]
+[Epoch "Rook"]
+[WhiteID "11300027"]
+[WhiteCountry "BOT"]
+
+1. d4 e6 2. c4 b6 3. e4 Bb7 4. d5 exd5 5. cxd5 Bc5 6. Nc3 Qh4 7. Qc2 Ba6 8. Nf3
+Qg4 9. h3 Qg6 10. Ne5 Qh5 11. Nd3 Ne7 12. Bf4 Bd6 13. Bxd6 cxd6 14. b4 O-O 15.
+b5 Bb7 16. Be2 Qg5 17. O-O f5 18. e5 a6 19. a4 dxe5 20. Nxe5 f4 21. Nf3 Qf6 22.
+Bd3 Rc8 23. Ne4 Qh6 24. Bc4 d6 25. Qd3 Nd7 26. bxa6 Rxc4 27. axb7 Raxa4 28.
+Rxa4 Rxa4 29. Qb5 Rxe4 30. Qxd7 Kf7 31. b8=Q g6 32. Qde8+ 1-0

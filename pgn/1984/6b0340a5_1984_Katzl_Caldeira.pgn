@@ -1,0 +1,17 @@
+[Event "corr ch-USA"]
+[Site "corr ch-USA"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Katzl"]
+[Black "Caldeira"]
+[Result "0-1"]
+[ECO "C13"]
+[Opening "French"]
+[Variation "Albin-Alekhine-Chatard attack"]
+[HashCode "6b0340a5"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Nfd7 6. h4 Bxg5 7. hxg5 Qxg5
+8. Nh3 Qe7 9. Qg4 g6 10. O-O-O f5 11. Qg3 c6 12. Nf4 Nf8 13. Be2 b6 14. Rh6
+Qf7 15. Nxg6 Nxg6 16. Rxg6 hxg6 0-1
+

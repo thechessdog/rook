@@ -1,0 +1,19 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Jung"]
+[Black "Schmidt, Jan Peter"]
+[Result "1-0"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, poisoned pawn, Konstantinopolsky variation"]
+[HashCode "c3b3bb33"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 Ne7 5. a3 Bxc3+ 6. bxc3 c5 7. Qg4 Qc7 8.
+Qxg7 Rg8 9. Qxh7 cxd4 10. Ne2 Nbc6 11. f4 Bd7 12. Qd3 dxc3 13. h3 O-O-O 14. Be3
+Nf5 15. Bf2 d4 16. g4 Nfe7 17. Bg2 Ng6 18. Rb1 Ngxe5 19. fxe5 Nxe5 20. Qg3 Bc6
+21. O-O Bxg2 22. Qxg2 f5 23. Bg3 fxg4 24. Bxe5 gxh3 25. Bxc7 Rxg2+ 26. Kh1 Kxc7
+27. Nf4 Rdg8 28. Nxe6+ Kd6 29. Nxd4 Rd2 30. Nb5+ Kd7 31. Rf7+ Ke6 32. Rf3 a6
+33. Nxc3 Rxc2 34. Re3+ Kd7 35. Rxh3 1-0

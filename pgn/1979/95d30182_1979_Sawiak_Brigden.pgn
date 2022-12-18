@@ -1,0 +1,18 @@
+[Event "corr GB"]
+[Site "corr GB"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Sawiak, J."]
+[Black "Brigden, F."]
+[Result "0-1"]
+[ECO "A63"]
+[Opening "Benoni"]
+[Variation "fianchetto, 9...Nbd7"]
+[HashCode "95d30182"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. g3 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. Bg2 Bg7 8.
+Nf3 O-O 9. O-O Nbd7 10. Bf4 Qe7 11. Nb5 Ne8 12. Qc2 a6 13. Nc3 b5 14. e4
+Nc7 15. Rae1 f6 16. g4 Ne5 17. h3 Bd7 18. Nxe5 fxe5 19. Be3 b4 20. Ne2 Nb5
+21. Nc1 Nd4 22. Qd1 Bb5 23. Nd3 Qh4 24. f4 exf4 25. Rxf4 Qg3 26. Nf2 0-1
+

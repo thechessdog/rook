@@ -1,0 +1,18 @@
+[Event "corr ASPC"]
+[Site "corr ASPC"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Brent, M."]
+[Black "Parker, Robert"]
+[Result "1-0"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (without ...d6)"]
+[HashCode "84883d79"]
+[Epoch "Rook"]
+[BlackID "405086"]
+[BlackCountry "ENG"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 d6 4. O-O Bd7 5. Re1 e6 6. c3 a6 7. Bf1 Nf6 8. d4
+cxd4 9. cxd4 d5 10. Bg5 dxe4 11. Bxf6 Qxf6 12. Rxe4 Be7 13. Nc3 Nd8 14. d5 Qg6
+15. Ne5 Qg5 16. Nxd7 Kxd7 17. dxe6+ Ke8 18. Qd7+ Kf8 19. exf7 1-0

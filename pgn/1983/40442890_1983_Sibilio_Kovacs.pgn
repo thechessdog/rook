@@ -1,0 +1,33 @@
+[Event "Banco di Roma"]
+[Site "Banco di Roma"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Sibilio, Mario"]
+[Black "Kovacs, Lajos D"]
+[Result "0-1"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "modern variation"]
+[HashCode "40442890"]
+[Epoch "Rook"]
+[WhiteID "800422"]
+[BlackID "704156"]
+[WhiteCountry "ITA"]
+[BlackCountry "HUN"]
+
+1. b3 e5 2. Bb2 Nc6 3. e3 Nf6 4. Bb5 Qe7 5. Nf3 e4 6. Nd4 Nxd4 7. Bxd4 c6 8.
+Be2 d5 9. c4 dxc4 10. bxc4 Qe6 11. Nc3 Be7 12. Rb1 O-O 13. Qc2 Re8 14. O-O c5
+15. Bxf6 Bxf6 16. Nd5 Be5 17. f4 exf3 18. Rxf3 Qh6 19. h3 b6 20. Rbf1 Be6 21.
+Bd3 Rad8 22. Bf5 Bxd5 23. cxd5 Bb8 24. Qc4 Re7 25. Bc2 Bd6 26. Qg4 Bc7 27. Rf6
+g6 28. Bb3 Rd6 29. Rxd6 Bxd6 30. Rf6 Be5 31. Rc6 Qh5 32. Qc8+ Kg7 33. d6 Qh4
+34. Kf1 Qf6+ 35. Ke2 Bxd6 36. a4 Qe5 37. Qg4 h5 38. Qf3 Rd7 39. Qd5 Qxd5 40.
+Bxd5 Be5 41. Bf3 h4 42. Be4 Bb2 43. Bc2 Bc1 44. d3 Re7 45. e4 Ba3 46. Bb3 Bb4
+47. Bc4 Bc3 48. Bb3 Bd4 49. Bc4 Kh6 50. Kf3 Kg5 51. Bd5 Kh6 52. Ke2 Kh5 53. Bc4
+f6 54. Re6 Rg7 55. Re8 Kg5 56. Kf3 Be5 57. Re6 Rb7 58. Bb5 Bd4 59. Re8 Rg7 60.
+Bc4 Be5 61. Bb5 Bg3 62. Bc4 Rd7 63. Re6 Rd4 64. Ke2 f5 65. exf5 gxf5 66. Re3
+Rd7 67. Re6 Bh2 68. Re3 Bg1 69. Re6 Bd4 70. Bb5 Rg7 71. Kf3 f4 72. Ke4 f3 73.
+Kxf3 Kf5 74. Re4 Rg3+ 75. Ke2 Rxg2+ 76. Kd1 Kg5 77. Bd7 Rg3 78. Ke2 Bf6 79. Re8
+a6 80. Rb8 Bd4 81. Ra8 Kf4 82. Rf8+ Ke5 83. Ra8 Rg2+ 84. Kf3 Rg3+ 85. Ke2 a5
+86. Rf8 Kd6 87. Rf7 Rg2+ 88. Kd1 Bc3 89. Bb5 Rh2 90. Rb7 Rxh3 91. Rxb6+ Ke5 92.
+Ke2 Kf4 93. Rg6 Rh2+ 94. Kf1 Bd4 95. Rg8 h3 96. Bc6 Ra2 97. Rf8+ Kg3 98. Rg8+
+Kf4 99. Rf8+ Ke5 100. Ra8 h2 101. Rxa5 Rf2+ 0-1

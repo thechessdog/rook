@@ -1,0 +1,19 @@
+[Event "Esbjerg"]
+[Site "Esbjerg"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Nielsen, Jens"]
+[Black "Kristensen, Bjarke Hautop"]
+[Result "1-0"]
+[ECO "B23"]
+[Opening "Sicilian"]
+[Variation "closed"]
+[HashCode "0126b3d0"]
+[Epoch "Rook"]
+[WhiteID "1409310"]
+[WhiteCountry "DEN"]
+
+1. e4 c5 2. Nc3 g6 3. f4 Bg7 4. Nf3 Nc6 5. g3 d6 6. Bg2 e6 7. O-O Nge7 8. d3
+O-O 9. Rb1 b6 10. Ne2 d5 11. Bd2 Bb7 12. a3 Qd7 13. e5 d4 14. g4 f5 15. exf6
+Rxf6 16. c4 e5 17. h3 Raf8 18. b4 h5 19. b5 hxg4 20. bxc6 Nxc6 21. Ng5 exf4 22.
+Bd5+ Kh8 23. Nxf4 Ne5 24. Qe1 1-0

@@ -1,0 +1,20 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Beliavsky, N."]
+[Black "Rapoport"]
+[Result "0-1"]
+[ECO "C72"]
+[Opening "Ruy Lopez"]
+[Variation "modern Steinitz defence, 5.O-O"]
+[HashCode "f90bec50"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. O-O Bg4 6. h3 h5 7. d4 b5 8. Bb3
+Nxd4 9. hxg4 hxg4 10. Ng5 Nh6 11. Be3 Be7 12. Nxf7 Nxf7 13. Bxd4 exd4 14.
+Bd5 Ne5 15. Bxa8 Bg5 16. Bc6+ Ke7 17. Qxd4 Bf4 18. Rd1 Rh1+ 19. Kxh1 Qh8+
+20. Kg1 Nf3+ 21. Kf1 Nxd4 22. Rxd4 Be5 23. Rb4 Qh1+ 24. Ke2 g3 25. fxg3
+Qxg2+ 26. Kd1 Qf1+ 27. Kd2 Bxg3 28. c3 Bf4+ 29. Kc2 Qc1+ 30. Kb3 Qd1+ 31.
+Ka3 Be3 0-1
+

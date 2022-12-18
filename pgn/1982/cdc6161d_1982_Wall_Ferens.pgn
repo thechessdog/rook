@@ -1,0 +1,18 @@
+[Event "Dayton,OH"]
+[Site "Dayton,OH"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Wall, Bill"]
+[Black "Ferens, Dan"]
+[Result "1-0"]
+[ECO "A70"]
+[Opening "Benoni"]
+[Variation "classical with e4 and Nf3"]
+[HashCode "cdc6161d"]
+[Epoch "Rook"]
+[WhiteCountry "USA"]
+
+1. d4 c5 2. d5 Nf6 3. c4 e6 4. Nf3 exd5 5. cxd5 d6 6. Nc3 g6 7. e4 Bg7 8. Bd3
+O-O 9. O-O a6 10. Bf4 b5 11. Rc1 Bg4 12. h3 Bxf3 13. Qxf3 Nh5 14. b3 Qf6 15.
+Ne2 Qb2 16. Bxd6 Rc8 17. Rc2 Qa3 18. e5 Nd7 19. e6 fxe6 20. dxe6 Ndf6 21. g4
+Bf8 22. e7 Bxe7 23. Bxe7 Re8 24. gxh5 Nxh5 25. Qd5+ Kg7 26. Bxc5 1-0

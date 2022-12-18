@@ -1,0 +1,20 @@
+[Event "Kharkov"]
+[Site "Kharkov"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Filipenko, Alexander V"]
+[Black "Gorelov, Sergey G"]
+[Result "0-1"]
+[ECO "D05"]
+[Opening "Queen's pawn game"]
+[HashCode "08ecdee2"]
+[Epoch "Rook"]
+[BlackCountry "RUS"]
+[WhiteID "4104471"]
+[WhiteCountry "RUS"]
+
+1. d4 Nf6 2. Nf3 e6 3. e3 d5 4. c4 c5 5. a3 dxc4 6. Bxc4 a6 7. b3 b5 8. Be2 Bb7
+9. O-O Nbd7 10. Bb2 Be7 11. a4 b4 12. Nbd2 O-O 13. Nc4 Nd5 14. Rc1 Rc8 15. Nfe5
+cxd4 16. Bxd4 Nc5 17. Bf3 f6 18. Nd3 Nc3 19. Bxc3 Bxf3 20. Qxf3 Nxb3 21. Bxb4
+Nxc1 22. Bxe7 Qxd3 23. Nb2 Ne2+ 24. Kh1 Qd2 25. Qh3 Rc1 26. Qxe6+ Kh8 27. g3
+Rxf1+ 28. Kg2 Rxf2+ 0-1

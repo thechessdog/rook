@@ -1,0 +1,17 @@
+[Event "Boston"]
+[Site "Boston"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Curdo"]
+[Black "Lukowiak, W."]
+[Result "1-0"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (without ...d6)"]
+[HashCode "08076b1f"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 d6 4. O-O Bd7 5. Re1 Qc7 6. c3 g6 7. d4 Bg7 8.
+Na3 Rc8 9. Bf4 a6 10. Bf1 cxd4 11. cxd4 Bg4 12. Rc1 Bxf3 13. gxf3 Bxd4 14.
+Rxc6 Qxc6 15. Qxd4 e5 16. Bxe5 dxe5 17. Qxe5+ Kf8 18. Qxh8 Qc5 1-0
+

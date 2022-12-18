@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Nemes"]
+[Black "Nanhegyi"]
+[Result "0-1"]
+[ECO "D04"]
+[Opening "Queen's pawn game"]
+[HashCode "3890a5cd"]
+[Epoch "Rook"]
+
+1. d4 d5 2. Nf3 Nf6 3. e3 c5 4. dxc5 e6 5. b4 a5 6. c3 axb4 7. cxb4 b6 8.
+Qc2 bxc5 9. bxc5 Nc6 10. Bb5 Qa5+ 11. Nc3 Bd7 12. a4 Nb4 13. Qe2 Bxc5 14.
+O-O O-O 15. Bd2 Nc2 16. Nxd5 Bxb5 17. Nxf6+ gxf6 18. axb5 Qxa1 19. Rxa1
+Rxa1+ 20. Ne1 Nxe1 21. Bxe1 Rd8 0-1
+

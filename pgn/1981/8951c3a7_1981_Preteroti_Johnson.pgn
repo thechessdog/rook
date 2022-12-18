@@ -1,0 +1,18 @@
+[Event "Pennsylvania"]
+[Site "Pennsylvania"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Preteroti"]
+[Black "Johnson"]
+[Result "0-1"]
+[ECO "B27"]
+[Opening "Sicilian"]
+[Variation "Hungarian variation"]
+[HashCode "8951c3a7"]
+[Epoch "Rook"]
+[BlackID "25736477"]
+[BlackCountry "IND"]
+
+1. e4 c5 2. Nf3 g6 3. d4 cxd4 4. Nxd4 Bg7 5. Be3 Nf6 6. Nc3 O-O 7. Qd2 Nc6 8.
+O-O-O d6 9. Nxc6 bxc6 10. Be2 Rb8 11. h4 Be6 12. b3 Qa5 13. Bd3 Nxe4 14. Nxe4
+Qa3+ 15. Kb1 Qb2# 0-1

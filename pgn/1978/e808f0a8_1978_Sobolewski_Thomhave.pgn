@@ -1,0 +1,16 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Sobolewski"]
+[Black "Thomhave"]
+[Result "1-0"]
+[ECO "C57"]
+[Opening "two knights defence"]
+[Variation "Wilkes Barre (Traxler) variation"]
+[HashCode "e808f0a8"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 Bc5 5. Bxf7+ Ke7 6. Bd5 Qe8 7. O-O d6
+8. c3 Qg6 9. d4 exd4 10. Bf7 Qh6 11. Ne6 g5 12. Bxg5 1-0
+

@@ -1,0 +1,19 @@
+[Event "Tbilisi tt"]
+[Site "Tbilisi tt"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Nekrasov"]
+[Black "Gusev"]
+[Result "0-1"]
+[ECO "C04"]
+[Opening "French"]
+[Variation "Tarrasch, Guimard main line"]
+[HashCode "c08a5d45"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nc6 4. Ngf3 Nf6 5. e5 Nd7 6. Be2 f6 7. exf6 Nxf6
+8. O-O Bd6 9. c4 O-O 10. c5 Bf4 11. Bb5 Bd7 12. Qe2 Qe8 13. Re1 Qh5 14.
+Bxc6 Bxc6 15. Nf1 Ne4 16. Ng3 Qh6 17. Bxf4 Rxf4 18. Ne5 Raf8 19. f3 Ng5 20.
+Qe3 Be8 21. Rad1 Rh4 22. Rd2 Rxh2 23. Ng4 Nxf3+ 24. Qxf3 Qxd2 25. Qxf8+
+Kxf8 26. Rf1+ Kg8 27. Kxh2 Qxd4 0-1
+

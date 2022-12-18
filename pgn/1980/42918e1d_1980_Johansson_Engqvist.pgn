@@ -1,0 +1,19 @@
+[Event "SWE-chJ"]
+[Site "?"]
+[Date "1980.??.??"]
+[Round "6"]
+[White "Johansson, Lars Erik"]
+[Black "Engqvist, Thomas"]
+[Result "0-1"]
+[ECO "B17"]
+[Opening "Caro-Kann"]
+[Variation "Steinitz variation"]
+[HashCode "42918e1d"]
+[Epoch "Rook"]
+[BlackID "1700332"]
+[BlackCountry "SWE"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Nxf6+ exf6 7. Bf4 Nb6
+8. Bd3 Bd6 9. Bg3 Be6 10. O-O Bxg3 11. fxg3 Qc7 12. b3 O-O-O 13. Qd2 Bg4 14. a4
+Qd6 15. c3 c5 16. a5 Na8 17. Ra4 Bxf3 18. gxf3 Nc7 19. Rc4 cxd4 20. cxd4 Kb8
+21. Rfc1 Ne6 22. Bf5 Nxd4 23. Qd3 Qe5 24. Be4 f5 25. Rc5 fxe4 0-1

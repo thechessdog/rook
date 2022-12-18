@@ -1,0 +1,18 @@
+[Event "Columbus,OH"]
+[Site "Columbus,OH"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Spraggett, Kevin"]
+[Black "Agrachov, D."]
+[Result "1-0"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (without ...d6)"]
+[HashCode "ac36c9a5"]
+[Epoch "Rook"]
+[WhiteID "2600013"]
+[WhiteCountry "CAN"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 Nf6 4. Nc3 Nd4 5. a4 e6 6. e5 Nxb5 7. axb5 Ng4 8. h3
+Nh6 9. d4 Nf5 10. dxc5 Bxc5 11. g4 Nh4 12. Nxh4 Qxh4 13. Ne4 Be7 14. Ra4 g5 15.
+Nd6+ Bxd6 16. Qxd6 h5 17. Bd2 f5 18. Bb4 1-0

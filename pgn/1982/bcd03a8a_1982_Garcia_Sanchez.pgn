@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Garces, Napoleon"]
+[Black "Sanchez"]
+[Result "1-0"]
+[ECO "A45"]
+[Opening "Trompovsky attack (Ruth, Opovcensky opening)"]
+[HashCode "bcd03a8a"]
+[Epoch "Rook"]
+[WhiteID "3600130"]
+[WhiteCountry "ECU"]
+
+1. d4 Nf6 2. Bg5 c5 3. Nc3 cxd4 4. Qxd4 Nc6 5. Qh4 e6 6. e4 Be7 7. f4 b5 8.
+Bxb5 Qb6 9. e5 Nd4 10. exf6 gxf6 11. Bxf6 Bxf6 12. Qxf6 Nxc2+ 13. Kd2 Nxa1 14.
+Qxh8+ Ke7 15. Nge2 a6 16. Nd5+ exd5 17. Nd4 Qa5+ 18. Kd1 Kd6 19. b4 1-0

@@ -1,0 +1,20 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Preussner"]
+[Black "Ponisch"]
+[Result "1-0"]
+[ECO "C09"]
+[Opening "French"]
+[Variation "Tarrasch, open variation, main line"]
+[HashCode "b73c1f58"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. exd5 exd5 5. Ngf3 Nc6 6. Bb5 cxd4 7. O-O Bd6
+8. Nb3 Ne7 9. Nbxd4 O-O 10. Be3 Bg4 11. Qd2 Qc7 12. h3 Bh5 13. Nh4 Bg6 14.
+Nxg6 hxg6 15. Bd3 a6 16. Nxc6 Nxc6 17. c3 Rad8 18. f4 Rfe8 19. Qf2 Rd7 20.
+Bb6 Qb8 21. f5 Bg3 22. Qf3 g5 23. f6 Bh2+ 24. Kh1 Ne5 25. Qf5 g6 26. Qxg5
+Re6 27. Ba7 Qd6 28. Bf5 Rxf6 29. Bxd7 Rxf1+ 30. Rxf1 Nxd7 31. Qd8+ Kg7 32.
+Bd4+ Be5 33. Bxe5+ 1-0
+

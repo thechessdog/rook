@@ -1,0 +1,26 @@
+[Event "Fort Worth"]
+[Site "Fort Worth"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Henley, Ron"]
+[Black "Jacobs, John N"]
+[Result "1-0"]
+[ECO "E12"]
+[Opening "Queen's Indian"]
+[Variation "4.Nc3"]
+[HashCode "50ac8c7e"]
+[Epoch "Rook"]
+[BlackID "2002027"]
+[BlackCountry "USA"]
+[WhiteID "2000318"]
+[WhiteCountry "USA"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. Nc3 Bb7 5. a3 d5 6. cxd5 exd5 7. g3 a6 8. Bf4
+Bd6 9. Bxd6 cxd6 10. Bg2 O-O 11. O-O Nc6 12. b4 b5 13. Qb3 Ne7 14. Nd2 Qb6 15.
+e3 Bc6 16. Rac1 a5 17. Rc2 a4 18. Qa2 Qb7 19. Rfc1 Rac8 20. Bf1 g6 21. Qb2 Rce8
+22. Bd3 Ne4 23. Ne2 Rc8 24. Nf4 Nxd2 25. Rxd2 Bd7 26. Rdc2 Rxc2 27. Rxc2 Rc8
+28. Ne2 Bc6 29. Nc3 Rb8 30. Rc1 Qd7 31. Qe2 Kg7 32. Kg2 f5 33. h4 Ng8 34. h5
+Nf6 35. hxg6 hxg6 36. Rh1 Ne8 37. Qf3 Qe7 38. Qf4 Nf6 39. Qg5 Ng8 40. Qf4 Qf6
+41. Qf3 Ne7 42. Qe2 Qe6 43. Nxb5 Bxb5 44. Bxb5 Rc8 45. Bxa4 Ra8 46. Bc2 Rxa3
+47. Qb5 Ra2 48. Qe8 Qf6 49. Bb3 Rb2 50. Qh8+ Kf7 51. Bxd5+ Nxd5 52. Rh7+ Ke6
+53. Qc8# 1-0

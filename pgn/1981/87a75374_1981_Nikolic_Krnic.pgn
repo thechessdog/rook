@@ -1,0 +1,19 @@
+[Event "Nice"]
+[Site "Nice"]
+[Date "1981.01.01"]
+[Round "11"]
+[White "Nikolic, Zivoslav"]
+[Black "Krnic, Zdenko"]
+[Result "1/2-1/2"]
+[ECO "A48"]
+[Opening "King's Indian"]
+[Variation "Torre attack"]
+[HashCode "87a75374"]
+[Epoch "Rook"]
+[WhiteID "900540"]
+[WhiteCountry "SRB"]
+[BlackCountry "SRB"]
+
+1. d4 Nf6 2. Nf3 g6 3. Bg5 Bg7 4. Nbd2 d5 5. e3 O-O 6. Bd3 c5 7. c3 b6 8. O-O
+Bb7 9. Qe2 Nbd7 10. Rad1 Ne4 11. Bh4 Qe8 12. Bb5 Nd6 13. Bd3 e5 14. dxe5 Nxe5
+15. Nxe5 Qxe5 16. Ba6 Bc6 17. Bg3 Qe6 18. Bxd6 Qxd6 19. Bb5 Bb7 20. Ba6 1/2-1/2

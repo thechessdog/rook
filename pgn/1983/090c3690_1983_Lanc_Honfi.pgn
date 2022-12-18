@@ -1,0 +1,25 @@
+[Event "Elekes mem-B"]
+[Site "Budapest"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Lanc, Alois"]
+[Black "Honfi, Karoly"]
+[Result "1-0"]
+[ECO "B35"]
+[Opening "Sicilian"]
+[Variation "accelerated fianchetto, modern variation with Bc4"]
+[HashCode "090c3690"]
+[Epoch "Rook"]
+[WhiteID "14900041"]
+[WhiteCountry "SVK"]
+[BlackCountry "HUN"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6 5. Nc3 Bg7 6. Be3 Nf6 7. Bc4 O-O 8.
+Bb3 a5 9. f3 d6 10. Qd2 Bd7 11. a4 Nxd4 12. Bxd4 Be6 13. Nd5 Bxd5 14. Bxd5 Nxd5
+15. exd5 Bxd4 16. Qxd4 Qc7 17. c4 Rfc8 18. b3 Ra6 19. Kd2 Rb6 20. Ra3 Rb4 21.
+h4 e5 22. dxe6 fxe6 23. h5 Qc5 24. Qxc5 Rxc5 25. hxg6 hxg6 26. Re1 Kf7 27. Re3
+d5 28. cxd5 Rxd5+ 29. Ke2 Rc5 30. Ra2 Rc1 31. Rd2 Ke7 32. Kf2 Rb1 33. Rdd3 Rb2+
+34. Kg3 b5 35. Rc3 bxa4 36. Rc6 Rd2 37. Rcxe6+ Kd7 38. Re7+ Kc6 39. R3e6+ Rd6
+40. bxa4 Rxa4 41. Rxd6+ Kxd6 42. Rg7 Rc4 43. Rxg6+ Kc5 44. f4 a4 45. Ra6 Kb4
+46. f5 a3 47. f6 Kb3 48. Ra8 Rc7 49. Kh4 a2 50. g4 Rc8 51. Rxa2 Kxa2 52. g5 Rf8
+53. Kg4 Kb3 54. Kf5 Kc4 55. g6 1-0

@@ -1,0 +1,20 @@
+[Event "Roskilde"]
+[Site "Roskilde"]
+[Date "1978.01.01"]
+[Round "6"]
+[White "Jakobsen, Ole"]
+[Black "Fedder, Steen"]
+[Result "1/2-1/2"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Byrne (English) attack"]
+[HashCode "635bd113"]
+[Epoch "Rook"]
+[BlackID "1400126"]
+[BlackCountry "DEN"]
+[WhiteCountry "DNK"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e6 7. a4 Be7 8. Be2
+O-O 9. O-O Nc6 10. f4 Bd7 11. Nb3 b6 12. Bf3 Rb8 13. Qe2 Qc8 14. Kh1 Na5 15. e5
+Ne8 16. Nd4 Nc4 17. Bc1 dxe5 18. fxe5 Qc7 19. Re1 Bb4 20. Bd2 Nxd2 21. Qxd2
+Bxc3 22. bxc3 1/2-1/2

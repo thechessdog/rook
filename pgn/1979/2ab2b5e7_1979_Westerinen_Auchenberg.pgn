@@ -1,0 +1,21 @@
+[Event "Copenhagen AS04"]
+[Site "Copenhagen"]
+[Date "1979.01.01"]
+[Round "6"]
+[White "Westerinen, Heikki M.J."]
+[Black "Auchenberg, Per"]
+[Result "1-0"]
+[ECO "B42"]
+[Opening "Sicilian"]
+[Variation "Kan, 5.Bd3"]
+[HashCode "2ab2b5e7"]
+[Epoch "Rook"]
+[WhiteID "500020"]
+[WhiteCountry "FIN"]
+[BlackCountry "DNK"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Qc7 6. O-O Nf6 7. Kh1 d6 8. f4
+Nbd7 9. c4 b6 10. Nc3 Bb7 11. Qe2 Be7 12. b3 O-O 13. Bb2 Rfe8 14. Rae1 e5 15.
+Nf5 Bf8 16. Nd5 Bxd5 17. cxd5 g6 18. fxe5 Nxe5 19. Ng3 Nxd3 20. Qxd3 Nd7 21.
+Nh5 Qd8 22. Qf3 f5 23. Qh3 Qe7 24. Nf4 Nc5 25. Nxg6 Qg5 26. Nxf8 Rxf8 27. Qc3
+f4 28. Qh8+ Kf7 29. Qxh7+ Ke8 30. e5 1-0

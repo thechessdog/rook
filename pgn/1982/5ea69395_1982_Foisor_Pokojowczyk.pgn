@@ -1,0 +1,20 @@
+[Event "Rubinstein Memorial"]
+[Site "Polancia Zdroj"]
+[Date "1982.08.01"]
+[Round "1"]
+[White "Foisor, Ovidiu-Doru"]
+[Black "Pokojowczyk, Jerzy"]
+[Result "1-0"]
+[ECO "A71"]
+[Opening "Benoni"]
+[Variation "classical, 8.Bg5"]
+[HashCode "5ea69395"]
+[Epoch "Rook"]
+[WhiteID "1200143"]
+[WhiteCountry "ROU"]
+[BlackID "1100718"]
+[BlackCountry "POL"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. e4 Bg7 8. Bg5
+h6 9. Bh4 a6 10. Nd2 b5 11. Be2 Nbd7 12. Qc2 O-O 13. a4 b4 14. Nd1 Re8 15. Ne3
+b3 16. Qb1 Qa5 1-0

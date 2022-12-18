@@ -1,0 +1,17 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Nicklich"]
+[Black "Grisbach"]
+[Result "0-1"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, 6.Bd3"]
+[HashCode "ae1878a5"]
+[Epoch "Rook"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 O-O 6. Bd3 Nc6 7. O-O Bg4 8.
+Be3 e5 9. dxe5 dxe5 10. f5 Nd4 11. Be2 Nxe2+ 12. Qxe2 gxf5 13. exf5 e4 14.
+Nxe4 Nxe4 15. Qc4 Bxf5 16. Ne5 Nd6 17. Qf4 Re8 18. Ng4 Bxg4 0-1
+

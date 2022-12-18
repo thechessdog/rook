@@ -1,0 +1,19 @@
+[Event "New York"]
+[Site "New York"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Farrell"]
+[Black "Chipkin"]
+[Result "0-1"]
+[ECO "A00"]
+[Opening "Grob"]
+[Variation "Fritz gambit"]
+[HashCode "2c7dfa6d"]
+[Epoch "Rook"]
+
+1. g4 d5 2. Bg2 Bxg4 3. c4 dxc4 4. Bxb7 Nd7 5. Bxa8 Qxa8 6. f3 e6 7. Qa4
+Be7 8. Qxc4 Ngf6 9. Nc3 O-O 10. Ne4 Ne5 11. Nxf6+ Bxf6 12. Qe4 Bh4+ 13. Kd1
+Qxe4 14. fxe4 Nd3 15. Nh3 Nxc1 16. Nf4 Nxe2 17. Nxe2 Rd8 18. Rc1 f5 19. Rg1
+Bh5 20. Rxc7 g6 21. Rc3 Kh8 22. exf5 exf5 23. Rg2 f4 24. Rg1 f3 25. Re3
+fxe2+ 26. Kc2 Bf2 0-1
+

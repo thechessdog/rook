@@ -1,0 +1,20 @@
+[Event "Linkoping"]
+[Site "Linkoping"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Ohman, A."]
+[Black "Backe, Peter"]
+[Result "1/2-1/2"]
+[ECO "E45"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Bronstein (Byrne) variation"]
+[HashCode "7d1f8814"]
+[Epoch "Rook"]
+[BlackID "1701240"]
+[BlackCountry "SWE"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 b6 5. Ne2 Ba6 6. a3 Bxc3+ 7. Nxc3 d5 8. b3
+c5 9. Be2 O-O 10. dxc5 bxc5 11. O-O Nc6 12. cxd5 Bxe2 13. Nxe2 Qxd5 14. Nc3
+Qxd1 15. Rxd1 Rfd8 16. Kf1 Rxd1+ 17. Nxd1 Rb8 18. Rb1 Ne4 19. f3 Nd6 20. Nc3
+Na5 21. b4 cxb4 22. axb4 Nac4 23. Ke2 f6 24. e4 Kf7 25. Be3 Nxe3 26. Kxe3 Nb5
+27. Nxb5 Rxb5 1/2-1/2

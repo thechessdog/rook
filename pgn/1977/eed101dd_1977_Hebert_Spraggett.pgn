@@ -1,0 +1,22 @@
+[Event "Ottawa"]
+[Site "Ottawa"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Hebert, Jean"]
+[Black "Spraggett, Kevin"]
+[Result "0-1"]
+[ECO "B97"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7...Qb6"]
+[HashCode "eed101dd"]
+[Epoch "Rook"]
+[BlackID "2600013"]
+[BlackCountry "CAN"]
+[WhiteID "2600048"]
+[WhiteCountry "CAN"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qb6 8. Nb3
+Be7 9. Qf3 Nbd7 10. O-O-O Qc7 11. Bd3 b5 12. Rhe1 Bb7 13. g4 b4 14. Ne2 a5 15.
+Kb1 a4 16. Nbd4 a3 17. b3 O-O 18. f5 Ne5 19. Qg2 Nxd3 20. cxd3 Nxe4 21. dxe4
+Bxg5 22. fxe6 Rae8 23. Ng3 fxe6 24. Nb5 Qc5 25. Nd4 Qe5 26. Qe2 Rc8 27. Rg1 Rc3
+28. Rge1 Rfc8 29. Qf2 Qc5 0-1

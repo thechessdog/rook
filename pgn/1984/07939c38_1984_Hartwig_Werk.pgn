@@ -1,0 +1,21 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Hartwig"]
+[Black "Werk"]
+[Result "0-1"]
+[ECO "D09"]
+[Opening "QGD"]
+[Variation "Albin counter-gambit, 5.g3"]
+[HashCode "07939c38"]
+[Epoch "Rook"]
+
+1. d4 d5 2. c4 e5 3. dxe5 d4 4. Nf3 Nc6 5. g3 Bg4 6. Bg2 Qd7 7. a3 O-O-O 8.
+O-O d3 9. exd3 Bc5 10. Bf4 Qf5 11. b4 Rxd3 12. Qc2 Bd4 13. Ra2 Bxf3 14.
+Bxf3 g5 15. Re1 gxf4 16. Be4 Rxg3+ 17. hxg3 Qh5 18. Qd3 fxg3 19. Qxg3 Nge7
+20. Bf3 Qh6 21. Bg4+ Kb8 22. Rd2 Rg8 23. Kf1 Qh1+ 24. Qg1 Qxg1+ 25. Kxg1
+Rxg4+ 26. Kf1 Nxe5 27. c5 N7g6 28. Rdd1 a6 29. Nd2 Nf4 30. Re4 Rh4 31. Kg1
+f5 32. Rxd4 Ne2+ 33. Kg2 Rxd4 34. Kf1 Nf4 35. Re1 Rxd2 36. Rxe5 Rd1+ 37.
+Re1 Rxe1+ 38. Kxe1 h5 39. f3 Ng6 0-1
+

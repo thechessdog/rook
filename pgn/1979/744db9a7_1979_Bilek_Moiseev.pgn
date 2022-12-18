@@ -1,0 +1,17 @@
+[Event "Naleczow"]
+[Site "Naleczow"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Bilek, Istvan"]
+[Black "Moiseev, Oleg L"]
+[Result "1/2-1/2"]
+[ECO "E18"]
+[Opening "Queen's Indian"]
+[Variation "old main line, 7.Nc3"]
+[HashCode "744db9a7"]
+[Epoch "Rook"]
+[WhiteCountry "HUN"]
+[BlackCountry "RUS"]
+
+1. d4 Nf6 2. Nf3 e6 3. g3 b6 4. Bg2 Bb7 5. O-O Be7 6. c4 O-O 7. Nc3 Ne4 8. Nxe4
+Bxe4 9. Nh4 Bxg2 10. Nxg2 1/2-1/2

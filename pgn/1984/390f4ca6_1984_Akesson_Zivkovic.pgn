@@ -1,0 +1,33 @@
+[Event "Val Thorens"]
+[Site "Val Thorens"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Akesson, Ralf"]
+[Black "Zivkovic, Vesna"]
+[Result "1/2-1/2"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Nimzovich (knight's tour) variation"]
+[HashCode "390f4ca6"]
+[Epoch "Rook"]
+[BlackID "910597"]
+[BlackCountry "SRB"]
+[WhiteID "1700120"]
+[WhiteCountry "SWE"]
+
+1. d4 Nf6 2. Nf3 c5 3. d5 e6 4. c4 exd5 5. cxd5 d6 6. Nc3 g6 7. Nd2 Nbd7 8. e4
+a6 9. a4 Bg7 10. Be2 O-O 11. O-O Re8 12. Re1 Qc7 13. Qc2 b6 14. f4 Rb8 15. Rb1
+h5 16. b3 Ng4 17. Nd1 Nf8 18. Bb2 f5 19. Bf3 fxe4 20. Nxe4 Bf5 21. Ne3 Nxe3 22.
+Rxe3 b5 23. axb5 axb5 24. Rbe1 Nh7 25. Bxg7 Qxg7 26. Qd2 Qf8 27. Ng3 Bd7 28.
+Be4 Qf7 29. Qd3 Nf8 30. f5 g5 31. Qd1 h4 32. Nh5 Re5 33. Bc2 Rxe3 34. Rxe3 Re8
+35. Re6 Bxe6 36. dxe6 Nxe6 37. fxe6 Qxe6 38. Be4 Kh8 39. Qf1 Qe5 40. Bc6 Qe3+
+41. Kh1 Qe1 42. Kg1 Qxf1+ 43. Kxf1 Re3 44. Bxb5 Rxb3 45. Be2 d5 46. Nf6 d4 47.
+Ne4 d3 48. Bd1 Rb1 49. Ke1 c4 50. Kd2 g4 51. Bxg4 Rb2+ 52. Kc3 Rc2+ 53. Kd4
+Rxg2 54. Bf3 Rc2 55. h3 Rh2 56. Bg4 Re2 57. Bf3 Rh2 58. Bg4 Re2 59. Bf3 Rc2 60.
+Nc3 Rh2 61. Bg4 Rg2 62. Be6 Rg3 63. Bxc4 d2 64. Be2 Rxh3 65. Ne4 Ra3 66. Nxd2
+Kg7 67. Nf3 h3 68. Ke4 Ra2 69. Bf1 h2 70. Nxh2 Rxh2 71. Ke5 Rd2 72. Bc4 Kf8 73.
+Ke6 Kg7 74. Ke5 Kg6 75. Bb5 Rd1 76. Bc4 Re1+ 77. Kd4 Kf6 78. Bd3 Ke6 79. Be4
+Kd6 80. Bf3 Rf1 81. Ke4 Rb1 82. Kf4 Ke6 83. Bg4+ Kf6 84. Bf3 Rb4+ 85. Be4 Ra4
+86. Ke3 Ke5 87. Bg6 Ra3+ 88. Bd3 Rb3 89. Ke2 Kd4 90. Bg6 Ke5 91. Bd3 Rb2+ 92.
+Ke3 Rh2 93. Bf1 Rh1 94. Bg2 Ra1 95. Bc6 Ra3+ 96. Ke2 Kd4 97. Bd7 Rc3 98. Bf5
+Rc7 99. Bg6 Rg7 100. Bf5 Re7+ 101. Kf3 1/2-1/2

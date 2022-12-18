@@ -1,0 +1,23 @@
+[Event "Sarajevo"]
+[Site "Sarajevo"]
+[Date "1983.03.01"]
+[Round "1"]
+[White "Osmanovic, Kemal"]
+[Black "Dizdar, Goran"]
+[Result "0-1"]
+[ECO "B80"]
+[Opening "Sicilian"]
+[Variation "Scheveningen variation"]
+[HashCode "08ec397a"]
+[Epoch "Rook"]
+[WhiteID "14400278"]
+[WhiteCountry "BIH"]
+[BlackID "14500124"]
+[BlackCountry "CRO"]
+
+1. Nf3 e6 2. d4 c5 3. e4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be3 Be7 7. f4 O-O 8. g4
+Nc6 9. g5 Nd7 10. Nf3 a6 11. Bd3 b5 12. Rg1 Re8 13. Qe2 Bb7 14. Rg3 Rc8 15. Kf2
+Bf8 16. h4 d5 17. e5 d4 18. Nxd4 Ndxe5 19. fxe5 Nxd4 20. Qg4 Nf5 21. Qh3 Nxe3
+22. Kxe3 Rc5 23. Kd2 Rxe5 24. Rf1 b4 25. Kc1 g6 26. Ne2 Qd5 27. Nf4 Qxa2 28. h5
+Bg7 29. Nxg6 hxg6 30. hxg6 fxg6 31. Qh4 Rf5 32. Rxf5 Qxb2+ 33. Kd2 Bc3+ 34. Ke2
+exf5+ 35. Kf2 Be1+ 0-1

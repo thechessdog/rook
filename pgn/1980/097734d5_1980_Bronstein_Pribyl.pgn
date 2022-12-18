@@ -1,0 +1,17 @@
+[Event "Tbilisi"]
+[Site "Tbilisi"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Bronstein, David Ionovich"]
+[Black "Pribyl, J."]
+[Result "1/2-1/2"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, dragon formation"]
+[HashCode "097734d5"]
+[Epoch "Rook"]
+[BlackCountry "CZE"]
+
+1. e4 Nf6 2. Nc3 d6 3. d4 g6 4. f4 Bg7 5. Nf3 c5 6. Bb5+ Bd7 7. e5 Ng4 8. Bxd7+
+Qxd7 9. d5 dxe5 10. h3 e4 11. Nxe4 Nf6 12. Ne5 Qc7 13. Ng5 O-O 14. c4 Nbd7 15.
+Nxd7 Qxd7 16. O-O b5 17. f5 1/2-1/2

@@ -1,0 +1,23 @@
+[Event "corr DDR/M"]
+[Site "corr DDR/M"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Heinrich, H."]
+[Black "Soldner"]
+[Result "0-1"]
+[ECO "C83"]
+[Opening "Ruy Lopez"]
+[Variation "open, classical defence"]
+[HashCode "62244032"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8.
+dxe5 Be6 9. c3 Be7 10. Be3 O-O 11. Nbd2 Qd7 12. Bc2 Nxd2 13. Qxd2 Rad8 14.
+b3 Bf5 15. Rad1 f6 16. exf6 Bxf6 17. Nd4 Bxc2 18. Qxc2 Rfe8 19. Nf3 Ne7 20.
+Bd4 Qf5 21. Qd3 c6 22. Rfe1 Qxd3 23. Rxd3 Nf5 24. Kf1 Rxe1+ 25. Kxe1 Re8+
+26. Kd1 Nxd4 27. cxd4 a5 28. Rc3 Re6 29. Ne5 Bxe5 30. dxe5 Kf7 31. Kd2 Kg6
+32. Rg3+ Kf7 33. f4 c5 34. Rd3 d4 35. Ke2 g5 36. Rh3 gxf4 37. Kf3 Rxe5 38.
+Kxf4 Rd5 39. Ke4 Rd8 40. Kd3 Ke6 41. g4 Kd5 42. Rh5+ Kc6 43. Rh3 a4 44. Rf3
+axb3 45. axb3 Kb6 46. Rf5 Re8 47. h4 Re3+ 48. Kc2 c4 49. bxc4 bxc4 50. h5
+Re2+ 0-1
+

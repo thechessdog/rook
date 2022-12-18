@@ -1,0 +1,22 @@
+[Event "corr EUR/K tt"]
+[Site "corr EUR/K tt"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Kallinger, O."]
+[Black "Milkenas, V."]
+[Result "0-1"]
+[ECO "D33"]
+[Opening "QGD"]
+[Variation "Tarrasch, Folkestone (Swedish) variation"]
+[HashCode "0526d177"]
+[Epoch "Rook"]
+
+1. d4 e6 2. c4 d5 3. Nc3 c5 4. cxd5 exd5 5. Nf3 Nc6 6. g3 c4 7. Bg2 Bb4 8.
+O-O Nge7 9. Ne5 O-O 10. Nxc6 bxc6 11. Na4 Nf5 12. Bd2 Be7 13. Bc3 Nd6 14.
+b3 cxb3 15. axb3 Nb5 16. Bb2 Bf5 17. Qd2 Re8 18. Rfc1 Bg5 19. f4 Bf6 20.
+Rxc6 Qe7 21. Rc5 Rab8 22. Rxd5 Be4 23. Rxb5 Rxb5 24. Nc3 Bxg2 25. Nxb5 Qxe2
+26. Qxe2 Rxe2 27. Bc3 Bc6 28. Nxa7 Bd7 29. Ra5 h5 30. Rd5 Bg4 31. h3 Bf3
+32. Kf1 h4 33. g4 Rc2 34. Rc5 Bg2+ 35. Kg1 Bxh3 36. g5 Bg4 37. gxf6 h3 38.
+Bd2 Rxd2 39. Rc3 Bf5 40. Re3 Be6 41. Re5 gxf6 42. Rh5 Bg4 43. Rh4 Bd7 44.
+d5 Rxd5 0-1
+

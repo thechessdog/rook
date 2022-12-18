@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Scroccarello"]
+[Black "Zappulla"]
+[Result "1-0"]
+[ECO "C88"]
+[Opening "Ruy Lopez"]
+[Variation "closed, anti-Marshall 8.a4"]
+[HashCode "165a71df"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8.
+a4 b4 9. d3 d6 10. Nbd2 Bg4 11. c3 Rb8 12. Rb1 Na5 13. d4 Nxb3 14. Nxb3 Qd7
+15. c4 Qxa4 16. Ra1 Qc6 17. Na5 Qd7 18. d5 c5 19. dxc6 Qe6 20. Bg5 Bd8 21.
+Nb7 Bxf3 22. gxf3 Qxc4 23. Rc1 Qb5 24. Bxf6 gxf6 25. Qxd6 Qb6 26. Kh1 Rc8
+27. Rg1+ Kh8 28. Qxf8# 1-0
+

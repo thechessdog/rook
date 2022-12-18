@@ -1,0 +1,16 @@
+[Event "Dayton,OH"]
+[Site "Dayton,OH"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Brigner"]
+[Black "Harmon"]
+[Result "0-1"]
+[ECO "C33"]
+[Opening "KGA"]
+[Variation "bishop's gambit, Anderssen variation"]
+[HashCode "d6de6604"]
+[Epoch "Rook"]
+
+1. e4 e5 2. f4 exf4 3. Bc4 d5 4. Bxd5 c6 5. Bc4 Qh4+ 6. g3 fxg3 7. Nf3
+Qxe4+ 8. Qe2 Qxe2+ 9. Bxe2 gxh2 10. Rxh2 Bd6 11. Rh4 Bg3+ 0-1
+

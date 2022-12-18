@@ -1,0 +1,19 @@
+[Event "Stockholm"]
+[Site "Stockholm"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Ornstein, Axel"]
+[Black "Marttala, Thomas"]
+[Result "1-0"]
+[ECO "A40"]
+[Opening "Queen's pawn"]
+[HashCode "007fc9f3"]
+[Epoch "Rook"]
+[BlackID "1701118"]
+[BlackCountry "SWE"]
+[WhiteID "1700111"]
+[WhiteCountry "SWE"]
+
+1. d4 e6 2. Nf3 f5 3. g3 b5 4. d5 Bd6 5. dxe6 dxe6 6. e4 fxe4 7. Ng5 Nf6 8.
+Bxb5+ c6 9. Bc4 Qe7 10. Nc3 Bb4 11. Qe2 c5 12. O-O Nc6 13. Ncxe4 Nd4 14. Nxf6+
+gxf6 15. Qh5+ 1-0

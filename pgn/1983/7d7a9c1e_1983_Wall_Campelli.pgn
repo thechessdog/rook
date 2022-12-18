@@ -1,0 +1,17 @@
+[Event "Dayton,OH"]
+[Site "Dayton,OH"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Wall, Bill"]
+[Black "Campelli, Cris"]
+[Result "0-1"]
+[ECO "A45"]
+[Opening "Queen's pawn"]
+[Variation "Bronstein gambit"]
+[HashCode "7d7a9c1e"]
+[Epoch "Rook"]
+[WhiteCountry "USA"]
+
+1. d4 Nf6 2. g4 Nxg4 3. e4 Nf6 4. e5 Nd5 5. c4 Nb4 6. Nc3 d5 7. a3 N4a6 8. cxd5
+c5 9. Qa4+ Bd7 10. Qb3 Qb6 11. Bb5 cxd4 12. Bxd7+ Nxd7 13. Nb5 Nxe5 14. Bf4 Nc5
+15. Qg3 Ncd3+ 16. Kf1 Nxf4 17. Qxf4 Qxb5+ 0-1

@@ -1,0 +1,19 @@
+[Event "corr Tch-EU"]
+[Site "corr Tch-EU"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Hoekstra"]
+[Black "Rios"]
+[Result "0-1"]
+[ECO "C88"]
+[Opening "Ruy Lopez"]
+[Variation "closed, anti-Marshall 8.a4"]
+[HashCode "b3382b9a"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8.
+a4 Bb7 9. d3 d6 10. Bd2 b4 11. c3 Rb8 12. cxb4 Ba8 13. Nc3 Nxb4 14. d4 exd4
+15. Nxd4 Nd3 16. Re3 Nc5 17. Bc2 Rxb2 18. Nf5 Re8 19. Rg3 g6 20. Bg5 Bf8
+21. Nd5 Bxd5 22. exd5 Nce4 23. Bxe4 Rxe4 24. Nd4 Bg7 25. Rf3 Qe8 26. Rxf6
+h6 0-1
+

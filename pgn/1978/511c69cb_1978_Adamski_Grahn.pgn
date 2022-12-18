@@ -1,0 +1,23 @@
+[Event "Slupsk"]
+[Site "Slupsk"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Adamski, Jan"]
+[Black "Grahn, Lars"]
+[Result "1-0"]
+[ECO "E18"]
+[Opening "Queen's Indian"]
+[Variation "old main line, 7.Nc3"]
+[HashCode "511c69cb"]
+[Epoch "Rook"]
+[WhiteID "1100190"]
+[WhiteCountry "POL"]
+[BlackID "1707205"]
+[BlackCountry "SWE"]
+
+1. c4 b6 2. d4 e6 3. Nf3 Nf6 4. g3 Bb7 5. Bg2 Be7 6. O-O O-O 7. Nc3 Ne4 8. Bd2
+Bf6 9. Rc1 c5 10. Nxe4 Bxe4 11. Bc3 Nc6 12. dxc5 Bxc3 13. Rxc3 bxc5 14. Qd2 Qe7
+15. Rd1 Rfd8 16. Ne1 Bxg2 17. Kxg2 a5 18. Nf3 Ra7 19. Qc2 Rb7 20. Rd2 d6 21. a3
+Qc7 22. Rb3 Rxb3 23. Qxb3 Ne7 24. Kg1 Rb8 25. Qd3 Rb6 26. Ng5 Ng6 27. h4 Qe7
+28. f4 f5 29. Qf3 h6 30. Qa8+ Nf8 31. Nf3 Qf6 32. Kf2 Rxb2 33. Rxd6 Rb3 34. Rd8
+Rxf3+ 35. Kxf3 Qc3+ 36. Kf2 Kh7 37. Rxf8 Qd4+ 38. Kg2 1-0

@@ -1,0 +1,20 @@
+[Event "New York"]
+[Site "New York"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Henley, Ron"]
+[Black "Lein, Anatoly"]
+[Result "1/2-1/2"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "4.Nf3"]
+[HashCode "8fc7d664"]
+[Epoch "Rook"]
+[BlackID "2000270"]
+[BlackCountry "USA"]
+[WhiteID "2000318"]
+[WhiteCountry "USA"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 e6 4. Nc3 Be7 5. cxd5 exd5 6. Bg5 c6 7. e3 Bf5 8. Bd3
+Bxd3 9. Qxd3 Nbd7 10. h3 Nh5 11. Bxe7 Qxe7 12. O-O Nhf6 13. b4 a6 14. a4 O-O
+15. b5 axb5 16. axb5 c5 17. dxc5 Qxc5 18. Rfd1 Nb6 1/2-1/2

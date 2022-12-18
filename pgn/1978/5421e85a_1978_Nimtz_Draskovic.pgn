@@ -1,0 +1,18 @@
+[Event "corr EU"]
+[Site "corr EU"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Nimtz, M."]
+[Black "Draskovic, M."]
+[Result "1-0"]
+[ECO "B79"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, 12.h4"]
+[HashCode "5421e85a"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8.
+Qd2 Nc6 9. Bc4 Bd7 10. Bb3 Qa5 11. O-O-O Rfc8 12. h4 Ne5 13. g4 b5 14. h5
+Nc4 15. Qd3 Nxe3 16. Qxe3 e6 17. hxg6 hxg6 18. g5 Ne8 19. f4 b4 20. Nce2
+Rc5 21. f5 exf5 22. exf5 Re5 23. Qf3 d5 24. f6 Bf8 25. Qf4 1-0
+

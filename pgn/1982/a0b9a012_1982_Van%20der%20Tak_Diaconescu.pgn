@@ -1,0 +1,17 @@
+[Event "corr Volmac"]
+[Site "corr Volmac"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Van der Tak, A."]
+[Black "Diaconescu, P."]
+[Result "1-0"]
+[ECO "B06"]
+[Opening "Robatsch defence"]
+[Variation "Gurgenidze variation"]
+[HashCode "a0b9a012"]
+[Epoch "Rook"]
+
+1. e4 c6 2. d4 d5 3. Nc3 g6 4. e5 Bg7 5. f4 h5 6. Nf3 Bg4 7. Be3 Nh6 8. h3
+Bxf3 9. Qxf3 Nf5 10. Bf2 h4 11. Bd3 e6 12. O-O Nd7 13. Ne2 Bf8 14. b3 f6
+15. c4 fxe5 16. fxe5 Bh6 17. Bxf5 1-0
+

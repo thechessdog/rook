@@ -1,0 +1,26 @@
+[Event "Varna"]
+[Site "Varna"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Semkov, Semko"]
+[Black "Stefanov, Parik"]
+[Result "1-0"]
+[ECO "E42"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5, 5.Ne2 (Rubinstein)"]
+[HashCode "0f45b309"]
+[Epoch "Rook"]
+[WhiteID "2900068"]
+[WhiteCountry "FID"]
+[BlackID "1200399"]
+[BlackCountry "ROU"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Ne2 d5 6. a3 Bxc3+ 7. Nxc3 cxd4 8.
+exd4 dxc4 9. Bxc4 Nc6 10. Be3 O-O 11. O-O a6 12. Ba2 b5 13. d5 Nxd5 14. Nxd5
+exd5 15. Bxd5 Qf6 16. Qf3 Qxf3 17. Bxf3 Bb7 18. b4 Nd8 19. Bc5 Re8 20. Rfe1 Re6
+21. Bg4 Rxe1+ 22. Rxe1 Bc6 23. Bf3 Rc8 24. Re7 h6 25. Bg4 Ra8 26. Kf1 Nb7 27.
+Rc7 Bd5 28. Be7 Nd8 29. Bxd8 Rxd8 30. Rc8 Rf8 31. f3 Bb7 32. Rc7 Rb8 33. Ke2 g6
+34. Bd7 Kg7 35. Ke3 Bd5 36. Kd4 Bc4 37. Kc5 Bf1 38. g3 Be2 39. Be6 Kf6 40. Bd5
+Rf8 41. Rc6+ Ke5 42. Rxa6 h5 43. Ra8 Rxa8 44. Bxa8 g5 45. Bc6 f5 46. Bxb5 Bxf3
+47. Ba6 f4 48. gxf4+ gxf4 49. a4 Bg2 50. a5 h4 51. b5 f3 52. b6 f2 53. Bc4 h3
+54. a6 Bd5 55. Bb5 1-0

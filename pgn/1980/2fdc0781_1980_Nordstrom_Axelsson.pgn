@@ -1,0 +1,23 @@
+[Event "corr SWE/K tt"]
+[Site "corr SWE/K tt"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Nordstrom, Osten"]
+[Black "Axelsson, Mats"]
+[Result "1-0"]
+[ECO "C00"]
+[Opening "French"]
+[Variation "Chigorin variation"]
+[HashCode "2fdc0781"]
+[Epoch "Rook"]
+
+1. e4 e6 2. Qe2 c5 3. f4 Nc6 4. Nf3 Nge7 5. g3 g6 6. d3 Bg7 7. c3 d5 8. Bg2
+O-O 9. O-O b6 10. Nbd2 Ba6 11. e5 h5 12. Re1 Rc8 13. Nf1 b5 14. Be3 d4 15.
+Bf2 Qb6 16. N1d2 Rfd8 17. Ne4 Nf5 18. h3 dxc3 19. bxc3 b4 20. Nxc5 Qa5 21.
+Nxa6 Qxa6 22. c4 Bf8 23. Ng5 Ncd4 24. Qb2 Bc5 25. Ne4 Bb6 26. Red1 Qa3 27.
+Qxa3 bxa3 28. Bf1 Rb8 29. Rab1 Nf3+ 30. Kg2 Bxf2 31. Kxf2 N3d4 32. Nc3 Nc2
+33. Rxb8 Rxb8 34. Rb1 Nb4 35. Nb5 a5 36. Rb3 Nc2 37. g4 hxg4 38. hxg4 a4
+39. Rb1 Nfd4 40. Nxa3 Rxb1 41. Nxb1 Kf8 42. Be2 g5 43. Bd1 gxf4 44. Bxc2
+Nxc2 45. Nc3 Nb4 46. d4 Nc2 47. Nb5 Ne3 48. c5 Nxg4+ 49. Kf3 Ne3 50. Kxf4
+Nd5+ 51. Ke4 1-0
+

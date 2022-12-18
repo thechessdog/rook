@@ -1,0 +1,25 @@
+[Event "BL2-N 8283"]
+[Site "BL2-N 8283"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Berlin, Dieter"]
+[Black "Cichy, Michael, Dr."]
+[Result "0-1"]
+[ECO "B44"]
+[Opening "Sicilian, Szen (`anti-Taimanov') variation"]
+[HashCode "22e25879"]
+[Epoch "Rook"]
+[BlackID "4684621"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nb5 d6 6. Bf4 e5 7. Be3 Nf6 8. Bg5
+Be6 9. Nd2 a6 10. Nc3 b5 11. Bd3 Be7 12. Nf1 Nd7 13. Be3 Nf6 14. Bg5 Nd7 15.
+Be3 O-O 16. Ng3 Bg5 17. O-O g6 18. Qd2 Bxe3 19. fxe3 Qe7 20. a4 bxa4 21. Nd5
+Bxd5 22. exd5 Ncb8 23. Rxa4 Nc5 24. Ra3 Nxd3 25. Qxd3 f5 26. b4 Ra7 27. c4 Rc8
+28. Ra5 Rb7 29. Rb1 Qd8 30. Ra3 Qc7 31. Rc3 Nd7 32. Ne2 a5 33. bxa5 Rxb1+ 34.
+Qxb1 Qxa5 35. Qb7 Rc7 36. Qb5 Qa1+ 37. Rc1 Qa7 38. Rc3 Rc5 39. Qb1 Qc7 40. Rb3
+Rxc4 41. Rb7 Qc8 42. Qb5 Rc7 43. Rxc7 Qxc7 44. Qc6 Qxc6 45. dxc6 Nb6 46. Nc3
+Kf7 47. c7 Ke6 48. e4 Kd7 49. Kf2 Kxc7 50. g3 Kd7 51. h3 fxe4 52. Nxe4 Ke7 53.
+Kf3 d5 54. Nc3 h6 55. h4 Kd6 56. g4 Nd7 57. Nb5+ Kc6 58. Na7+ Kc5 59. Nc8 g5
+60. Ne7 e4+ 61. Kg3 Nf6 62. Nf5 Ng8 63. h5 d4 64. Kf2 Kd5 65. Kg2 Kc4 66. Kf2
+Kd3 67. Ke1 e3 68. Kf1 Nf6 0-1

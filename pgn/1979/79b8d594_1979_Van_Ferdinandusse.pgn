@@ -1,0 +1,17 @@
+[Event "Belgium"]
+[Site "Belgium"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Van der Heijden"]
+[Black "Ferdinandusse"]
+[Result "1-0"]
+[ECO "A00"]
+[Opening "Grob"]
+[Variation "Fritz gambit"]
+[HashCode "79b8d594"]
+[Epoch "Rook"]
+
+1. g4 d5 2. Bg2 Bxg4 3. c4 Be6 4. Qb3 Bc8 5. cxd5 Nf6 6. Nc3 Nbd7 7. Nf3
+Nb6 8. Ne5 Qd6 9. d4 Nfd7 10. Nb5 Qf6 11. Bg5 Qf5 12. e4 Qxg5 13. Nxc7+ Kd8
+14. Nxf7+ Kxc7 15. Nxg5 1-0
+

@@ -1,0 +1,23 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Sande"]
+[Black "Sokolov, Vladimir"]
+[Result "1-0"]
+[ECO "E40"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3"]
+[HashCode "644ed2a5"]
+[Epoch "Rook"]
+[BlackID "904031"]
+[BlackCountry "SRB"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 d5 5. a3 Be7 6. Nf3 O-O 7. Bd3 b6 8. O-O c5
+9. b3 Bb7 10. Bb2 cxd4 11. exd4 Nc6 12. Rc1 Rc8 13. Re1 Re8 14. Ne2 dxc4 15.
+bxc4 Bf8 16. Ng3 g6 17. Bb1 Bg7 18. Ba2 Re7 19. Qe2 Ba6 20. Qe3 Rec7 21. d5
+exd5 22. Bxf6 Qxf6 23. cxd5 Nd4 24. Rxc7 Nxf3+ 25. gxf3 Rxc7 26. Qe8+ Bf8 27.
+Ne4 Qf5 28. d6 Bb5 29. Qxb5 Qxb5 30. dxc7 Qc6 31. Nf6+ Kg7 32. Ne8+ Kh6 33. Bd5
+Qc3 34. Re3 Qc1+ 35. Kg2 Bd6 36. Nxd6 Qxc7 37. Nxf7+ Kg7 38. a4 b5 39. axb5 Qd7
+40. Re5 Qxb5 41. Nd6 Qd7 42. Ne8+ Kh8 43. Nf6 Qd6 44. Re6 Qc5 45. Rc6 Qf8 46.
+Ng4 1-0

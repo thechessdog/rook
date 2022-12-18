@@ -1,0 +1,23 @@
+[Event "Buenos Aires"]
+[Site "Buenos Aires"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Delgado"]
+[Black "Castillo, Zarco"]
+[Result "1-0"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, Ljubojevic variation"]
+[HashCode "0292d696"]
+[Epoch "Rook"]
+
+1. e4 d6 2. d4 g6 3. Nc3 Bg7 4. f4 Nf6 5. Bc4 O-O 6. e5 dxe5 7. dxe5 Qxd1+
+8. Kxd1 Ng4 9. Ke2 c6 10. h3 Nh6 11. g4 Kh8 12. Ne4 b6 13. Kf2 Bb7 14. Nf3
+c5 15. Neg5 Nc6 16. Bd5 Rab8 17. c3 Nd8 18. Rd1 f6 19. exf6 exf6 20. Ne4 f5
+21. Bxb7 Nxb7 22. gxf5 Nxf5 23. Rd7 Rfd8 24. Rxd8+ Rxd8 25. Bd2 h6 26. Ne5
+Kh7 27. Re1 Nbd6 28. Nxd6 Rxd6 29. Bc1 Bf6 30. Nf3 a5 31. Re4 Kg7 32. a4
+Kf7 33. Ne5+ Bxe5 34. Rxe5 Rd1 35. Re1 Rxe1 36. Kxe1 Ke6 37. c4 Nd6 38. b3
+Kf5 39. Ke2 Ke4 40. Bb2 Kxf4 41. Bc1+ Kg3 42. Bxh6 Kxh3 43. Bf4 Nf5 44. Kd3
+Ne7 45. Bc7 Nc8 46. Ke4 g5 47. Kf5 g4 48. Ke6 g3 49. Bxg3 Kxg3 50. Kd7 b5
+51. Kxc8 bxc4 52. bxc4 Kf4 53. Kc7 Ke5 54. Kc6 1-0
+

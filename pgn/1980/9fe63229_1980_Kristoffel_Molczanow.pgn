@@ -1,0 +1,19 @@
+[Event "corr Wcup3"]
+[Site "corr Wcup3"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Kristoffel"]
+[Black "Molczanow"]
+[Result "1-0"]
+[ECO "C72"]
+[Opening "Ruy Lopez"]
+[Variation "modern Steinitz defence, 5.O-O"]
+[HashCode "9fe63229"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. O-O Bd7 6. d4 Nf6 7. c3 Qe7 8.
+Re1 g6 9. Nbd2 Bg7 10. Nf1 O-O 11. Bg5 h6 12. Bh4 Qe8 13. Bc2 Nh5 14. Ne3
+Ne7 15. dxe5 dxe5 16. Bg3 Nxg3 17. hxg3 Be6 18. Bb3 Rd8 19. Qc2 Qc6 20. Nc4
+Qc5 21. Nfd2 Rd7 22. Rad1 Rfd8 23. Ne3 Qc6 24. Bxe6 fxe6 25. Nb3 b6 26.
+Rxd7 1-0
+

@@ -1,0 +1,18 @@
+[Event "Arco"]
+[Site "Arco"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Stock"]
+[Black "Ceresoli"]
+[Result "0-1"]
+[ECO "C08"]
+[Opening "French"]
+[Variation "Tarrasch, open, 4.ed ed"]
+[HashCode "b68db7a0"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. exd5 exd5 5. Bb5+ Bd7 6. Qe2+ Be7 7. dxc5
+Nf6 8. Ngf3 O-O 9. Bxd7 Nbxd7 10. O-O Re8 11. Nb3 Bxc5 12. Qd3 Bf8 13. Be3
+Qc7 14. Bd4 Re4 15. h3 Rae8 16. Qc3 Qb8 17. Nbd2 Re2 18. Be3 R8xe3 19. fxe3
+Qg3 20. Ne1 Bd6 21. Ndf3 Nc5 22. Qd4 Nfe4 23. Qd1 Rf2 0-1
+

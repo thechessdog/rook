@@ -1,0 +1,17 @@
+[Event "FRG Hochschul-ch"]
+[Site "Aachen"]
+[Date "1982.??.??"]
+[Round "7.1"]
+[White "Brackenhofer"]
+[Black "Horstmann"]
+[Result "1-0"]
+[ECO "D91"]
+[Opening "Gruenfeld"]
+[Variation "5.Bg5"]
+[HashCode "0e9ea5c2"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Bg5 Ne4 6. Bh4 c5 7. Nxd5 Qa5+
+8. b4 cxb4 9. Nd2 Nc3 10. Nxc3 bxc3 11. Nb3 Qb4 12. e3 e5 13. Bd3 O-O 14.
+O-O exd4 15. exd4 Nc6 16. Re1 Qa4 17. Bf1 b5 18. Qf3 Bd7 19. Bf6 1-0
+

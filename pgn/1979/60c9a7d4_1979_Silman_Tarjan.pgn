@@ -1,0 +1,24 @@
+[Event "Lone Pine open"]
+[Site "Lone Pine open"]
+[Date "1979.03.01"]
+[Round "4"]
+[White "Silman, Jeremy D"]
+[Black "Tarjan, James"]
+[Result "0-1"]
+[ECO "B99"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7...Be7 main line"]
+[HashCode "60c9a7d4"]
+[Epoch "Rook"]
+[WhiteID "2000814"]
+[WhiteCountry "USA"]
+[BlackID "2000180"]
+[BlackCountry "USA"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3
+Qc7 9. O-O-O Nbd7 10. Bd3 h6 11. h4 hxg5 12. hxg5 Rf8 13. gxf6 Bxf6 14. Nde2
+Nc5 15. Kb1 Rb8 16. g4 b5 17. g5 Be7 18. Rdg1 Bb7 19. Rh7 g6 20. a3 Bc6 21. b4
+Nxd3 22. Qxd3 d5 23. exd5 Rd8 24. Qe3 Bxd5 25. f5 exf5 26. Nf4 Bc4 27. Re1 Rd7
+28. Qf3 Qb7 29. Qxb7 Rxb7 30. Ncd5 Bxd5 31. Nxd5 Kd8 32. Nf4 Rd7 33. Nd3 Rc7
+34. Ne5 Bxg5 35. Rd1+ Kc8 36. Rd6 Rd8 37. Rxa6 Rd1+ 38. Ka2 Kb7 39. Ra5 Kb6 40.
+a4 0-1

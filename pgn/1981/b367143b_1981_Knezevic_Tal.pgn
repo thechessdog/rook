@@ -1,0 +1,19 @@
+[Event "Porz"]
+[Site "Porz"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Knezevic, Milorad"]
+[Black "Tal, Mikhail"]
+[Result "1/2-1/2"]
+[ECO "D31"]
+[Opening "QGD"]
+[Variation "Charousek (Petrosian) variation"]
+[HashCode "b367143b"]
+[Epoch "Rook"]
+[WhiteID "950238"]
+[WhiteCountry "SRB"]
+[BlackCountry "LVA"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Be7 4. Nf3 Nf6 5. Bg5 h6 6. Bh4 O-O 7. Rc1 dxc4 8. e3
+c5 9. Bxc4 cxd4 10. exd4 Nc6 11. O-O Nh5 12. Bxe7 Nxe7 13. d5 exd5 14. Nxd5
+Nxd5 15. Qxd5 Qxd5 16. Bxd5 1/2-1/2

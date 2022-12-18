@@ -1,0 +1,18 @@
+[Event "Wattignies"]
+[Site "Wattignies"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Walker, David"]
+[Black "Sendur, Adnan"]
+[Result "1-0"]
+[ECO "C05"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation"]
+[HashCode "7fd5d9de"]
+[Epoch "Rook"]
+[BlackID "6300880"]
+[BlackCountry "TUR"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Bd3 c5 6. c3 Nc6 7. Ne2 b6 8. O-O f6
+9. Nf4 Qe7 10. Bb5 Nd8 11. Re1 f5 12. Nf3 Nf7 13. Nxd5 Qd8 14. Nf4 Qe7 15. d5
+Nd8 16. dxe6 Nxe6 17. Nxe6 Qxe6 18. Ng5 1-0

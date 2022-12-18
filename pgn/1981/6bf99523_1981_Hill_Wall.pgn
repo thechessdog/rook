@@ -1,0 +1,16 @@
+[Event "London,OH"]
+[Site "London,OH"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Hill"]
+[Black "Wall, Bill"]
+[Result "0-1"]
+[ECO "B20"]
+[Opening "Sicilian defence"]
+[HashCode "6bf99523"]
+[Epoch "Rook"]
+[BlackCountry "USA"]
+
+1. e4 c5 2. Bc4 e5 3. Nf3 d6 4. c3 Nc6 5. d4 Nf6 6. dxe5 Nxe4 7. O-O Be6 8. Bb5
+a6 9. Bd3 d5 10. c4 Be7 11. Bc2 O-O 12. Nfd2 Nxd2 13. Nxd2 Nxe5 14. f4 Bg4 15.
+Qe1 Nc6 16. cxd5 Qxd5 17. Be4 Qd4+ 18. Kh1 Rfe8 19. Bxh7+ Kxh7 0-1

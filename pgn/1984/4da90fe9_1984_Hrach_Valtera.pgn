@@ -1,0 +1,16 @@
+[Event "corr ch-CSSR"]
+[Site "corr ch-CSSR"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Hrach, J."]
+[Black "Valtera, J."]
+[Result "1/2-1/2"]
+[ECO "E60"]
+[Opening "King's Indian"]
+[Variation "3.g3"]
+[HashCode "4da90fe9"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 c5 5. d5 d6 6. Nc3 O-O 7. Nf3 e6 8. O-O
+exd5 9. cxd5 a6 10. a4 Re8 11. Bf4 Qe7 12. Qd2 Nbd7 13. Bh6 1/2-1/2
+

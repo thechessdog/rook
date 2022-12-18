@@ -1,0 +1,21 @@
+[Event "Stockholm"]
+[Site "Stockholm"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Backe, Peter"]
+[Black "Lundin, Anders"]
+[Result "0-1"]
+[ECO "D93"]
+[Opening "Gruenfeld with Bf4    e3"]
+[HashCode "d2c80dc2"]
+[Epoch "Rook"]
+[WhiteID "1701240"]
+[BlackID "1701096"]
+[WhiteCountry "SWE"]
+[BlackCountry "SWE"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Bf4 Bg7 5. e3 O-O 6. Nf3 c5 7. Be2 Nc6 8. O-O
+cxd4 9. Nxd4 Nxd4 10. Qxd4 Be6 11. cxd5 Nxd5 12. Be5 Nxc3 13. Qxc3 Rc8 14. Qd4
+Qxd4 15. exd4 Bxe5 16. dxe5 Rc2 17. Bf3 Rxb2 18. Rfb1 Rxb1+ 19. Rxb1 b6 20. a4
+Rc8 21. h3 Rc5 22. Re1 Bb3 23. Bd1 Bxd1 24. Rxd1 Rxe5 25. Kf1 Kg7 26. Rd4 Kf6
+27. f4 Rc5 28. Ke2 Ke6 29. h4 Rd5 30. Re4+ Kd6 31. g4 e6 32. Ke3 Kc5 0-1

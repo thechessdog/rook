@@ -1,0 +1,19 @@
+[Event "corr DDR/FS"]
+[Site "corr DDR/FS"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Weber"]
+[Black "Jorck"]
+[Result "1-0"]
+[ECO "E24"]
+[Opening "Nimzo-Indian"]
+[Variation "Saemisch variation"]
+[HashCode "8d4c8579"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. a3 Bxc3+ 5. bxc3 c5 6. f3 d6 7. e4 Nxe4 8.
+fxe4 Qh4+ 9. Kd2 cxd4 10. cxd4 Qxe4 11. Nf3 e5 12. Bd3 Qg4 13. Qe2 O-O 14.
+h3 Qg3 15. Bb2 Nc6 16. d5 Na5 17. Kc2 f5 18. Nxe5 dxe5 19. Bxe5 Qg6 20. g4
+Bd7 21. Rhg1 Rf7 22. c5 Re7 23. gxf5 Qe8 24. Rae1 Qc8 25. Qf2 Ba4+ 26. Kb2
+Qd7 27. f6 Rf7 28. Qh4 1-0
+

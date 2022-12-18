@@ -1,0 +1,18 @@
+[Event "Illinois Open"]
+[Site "Illinois Open"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Lutes, J."]
+[Black "Connors"]
+[Result "1-0"]
+[ECO "C35"]
+[Opening "KGA"]
+[Variation "Cunningham, Bertin gambit"]
+[HashCode "b7a62462"]
+[Epoch "Rook"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 Be7 4. Bc4 Bh4+ 5. g3 fxg3 6. O-O Nh6 7. d4 O-O
+8. Bxh6 gxh6 9. hxg3 Bxg3 10. Qd2 d5 11. Bxd5 Qd6 12. Nc3 Bf4 13. Qg2+ Kh8
+14. e5 Qg6 15. Be4 Qh5 16. Kf2 Rg8 17. Qxg8+ Kxg8 18. Rh1 Bg3+ 19. Kxg3
+Qg4+ 20. Kf2 Qf4 21. Nd5 1-0
+

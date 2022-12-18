@@ -1,0 +1,17 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Gusev, Vladimir"]
+[Black "Yuferov, Sergey  N"]
+[Result "0-1"]
+[ECO "A45"]
+[Opening "Trompovsky attack (Ruth, Opovcensky opening)"]
+[HashCode "64065088"]
+[Epoch "Rook"]
+[WhiteID "4111737"]
+[WhiteCountry "RUS"]
+
+1. d4 Nf6 2. Bg5 Ne4 3. Bh4 c5 4. f3 g5 5. fxe4 gxh4 6. e3 e6 7. Nf3 Bh6 8. Kf2
+O-O 9. Nc3 cxd4 10. exd4 Nc6 11. Bb5 f5 12. Re1 fxe4 13. Rxe4 d5 14. Re2 e5 15.
+Bxc6 bxc6 16. Rxe5 h3 17. Rh5 Qf6 18. gxh3 Bf5 0-1

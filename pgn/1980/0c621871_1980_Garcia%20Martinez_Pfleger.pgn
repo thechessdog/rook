@@ -1,0 +1,19 @@
+[Event "Capablanca mem-B"]
+[Site "Cienfuegos"]
+[Date "1980.??.??"]
+[Round "?"]
+[White "Garcia Martinez, Silvino"]
+[Black "Pfleger, Helmut, Dr."]
+[Result "1/2-1/2"]
+[ECO "B38"]
+[Opening "Sicilian"]
+[Variation "accelerated fianchetto, Maroczy bind, 6.Be3"]
+[HashCode "0c621871"]
+[Epoch "Rook"]
+[BlackID "4600100"]
+[BlackCountry "GER"]
+[WhiteID "3500179"]
+[WhiteCountry "CUB"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6 5. c4 Bg7 6. Be3 Nf6 7. Nc3 d6 8. Be2
+O-O 9. O-O Bd7 10. Rc1 a6 1/2-1/2

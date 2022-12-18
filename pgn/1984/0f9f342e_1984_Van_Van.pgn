@@ -1,0 +1,19 @@
+[Event "corr Netherlands"]
+[Site "corr Netherlands"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Van Arkel"]
+[Black "Van Gool"]
+[Result "1-0"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "modern variation"]
+[HashCode "0f9f342e"]
+[Epoch "Rook"]
+
+1. b3 e5 2. Bb2 d6 3. g3 Nf6 4. Bg2 g6 5. c4 Bg7 6. Nc3 O-O 7. e3 Nc6 8. d3
+Bf5 9. Nge2 Re8 10. e4 Bd7 11. O-O Qc8 12. Nd5 Nxd5 13. cxd5 Nd8 14. f4 c5
+15. fxe5 Bxe5 16. Bxe5 Rxe5 17. d4 Re7 18. Rc1 b6 19. dxc5 bxc5 20. b4 Nb7
+21. bxc5 Nxc5 22. Nc3 Qa6 23. Qd4 Rae8 24. Rf6 Qb6 25. Rb1 Qc7 26. Rbf1 Rf8
+27. h4 a6 28. h5 Bb5 29. Nxb5 axb5 30. hxg6 hxg6 31. R6f4 1-0
+

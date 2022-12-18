@@ -1,0 +1,25 @@
+[Event "corr NLD/K"]
+[Site "corr NLD/K"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Van der Zwan, J."]
+[Black "Den Hamer"]
+[Result "1-0"]
+[ECO "C63"]
+[Opening "Ruy Lopez"]
+[Variation "Schliemann defence, Berger variation"]
+[HashCode "25bcd989"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 f5 4. Nc3 fxe4 5. Nxe4 d5 6. Nxe5 dxe4 7. Nxc6
+Qg5 8. Qe2 Nf6 9. f4 Qh4+ 10. g3 Qh3 11. Ne5+ c6 12. Bc4 h5 13. d3 h4 14.
+Bd2 hxg3 15. Bf7+ Kd8 16. O-O-O g2 17. dxe4 Bc5 18. Rhg1 Bxg1 19. Ba5+ Ke7
+20. Bb4+ c5 21. Qc4 Qe3+ 22. Kb1 Nxe4 23. Bg8 Nd6 24. Ng6+ Ke8 25. Bf7+ Kd7
+26. Qd5 Qd4 27. Rxd4 Bxd4 28. Qxg2 Rh6 29. Qd5 b6 30. Qxa8 cxb4 31. Qd5 Bc5
+32. Qe6+ Kc7 33. Qe7+ Kb8 34. Ne5 Nf5 35. Nd7+ Kc7 36. Qe5+ Bd6 37. Qxf5
+Bxd7 38. Qg5 Rxh2 39. a3 bxa3 40. bxa3 Rd2 41. Qxg7 Bxf4 42. Qc3+ Kb8 43.
+Qf3 Bc7 44. Bd5 Rd4 45. Qf8+ Bc8 46. Bg2 Rd1+ 47. Ka2 Rd8 48. Qe7 Bb7 49.
+Bf1 Rd5 50. Bc4 Rc5 51. Qf8+ Bc8 52. Ba6 Be5 53. c4 Rc7 54. Kb3 Bg7 55. Qe8
+Bd4 56. Bb5 a5 57. Ba6 Bc5 58. Ka4 Bd6 59. Kb5 Bc5 60. Qh8 Bg1 61. Bxc8
+Rxc8 62. Qe5+ Rc7 63. Ka6 Bc5 64. a4 1-0
+

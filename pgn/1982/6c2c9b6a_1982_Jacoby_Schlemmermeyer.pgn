@@ -1,0 +1,18 @@
+[Event "Bundesliga 8182"]
+[Site "Germany"]
+[Date "1982.??.??"]
+[Round "?"]
+[White "Jacoby, Gisbert"]
+[Black "Schlemmermeyer, Wilhelm"]
+[Result "1/2-1/2"]
+[ECO "E50"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 e8g8, 5.Nf3, without ...d5"]
+[HashCode "6c2c9b6a"]
+[Epoch "Rook"]
+[WhiteID "4604768"]
+[WhiteCountry "GER"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Nf3 c5 6. Be2 d5 7. O-O cxd4 8. exd4
+dxc4 9. Bxc4 b6 10. Ne5 Bb7 11. Bg5 Be7 12. Qd3 Nc6 13. Rad1 Nb4 14. Qh3 Nfd5
+15. Bc1 Rc8 16. a3 Nxc3 17. bxc3 Nc6 18. Bd3 g6 1/2-1/2

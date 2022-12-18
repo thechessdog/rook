@@ -1,0 +1,25 @@
+[Event "Gausdal Int"]
+[Site "Gausdal"]
+[Date "1982.??.??"]
+[Round "7"]
+[White "Herzog, Juerg"]
+[Black "Andruet, Gilles"]
+[Result "0-1"]
+[ECO "A70"]
+[Opening "Benoni"]
+[Variation "classical with e4 and Nf3"]
+[HashCode "ae7ddcf3"]
+[Epoch "Rook"]
+[WhiteID "1300210"]
+[WhiteCountry "SUI"]
+[BlackCountry "FRA"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. e4 Bg7 8. Bf4
+a6 9. a4 O-O 10. Be2 Qe7 11. Nd2 Nbd7 12. O-O Ne5 13. h3 Nfd7 14. Bh2 g5 15. g3
+Ng6 16. Bg4 Nde5 17. Bxc8 Raxc8 18. Qe2 c4 19. f4 gxf4 20. gxf4 Nd3 21. e5 dxe5
+22. f5 Qc5+ 23. Kh1 Ngf4 24. Bxf4 exf4 25. Nde4 Qb6 26. f6 Bxf6 27. a5 Qd4 28.
+Qg4+ Kh8 29. Qf5 Bh4 30. Rad1 Qe5 31. Qxe5+ Nxe5 32. Rxf4 Bd8 33. Nd6 Rc7 34.
+Na4 Nd3 35. Rf3 Ne5 36. Rf5 f6 37. Nb6 c3 38. bxc3 Rxc3 39. Nxb7 Bxb6 40. axb6
+Rxh3+ 41. Kg2 Rb3 42. d6 Rg8+ 43. Kf2 Ng4+ 44. Ke2 Ne3 45. Rd3 Nxf5 46. Rxb3
+Nd4+ 47. Kd3 Nxb3 48. d7 h5 49. Kc4 h4 50. Kxb3 h3 51. d8=Q Rxd8 52. Nxd8 h2
+53. b7 h1=Q 54. Nc6 Qb1+ 0-1

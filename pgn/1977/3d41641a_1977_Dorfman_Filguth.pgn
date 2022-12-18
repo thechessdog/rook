@@ -1,0 +1,20 @@
+[Event "Mexico"]
+[Site "Mexico"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Dorfman, Iossif"]
+[Black "Filguth, Rubens Alberto"]
+[Result "1-0"]
+[ECO "E19"]
+[Opening "Queen's Indian"]
+[Variation "old main line, 9.Qxc3"]
+[HashCode "3d41641a"]
+[Epoch "Rook"]
+[BlackID "2100070"]
+[BlackCountry "BRA"]
+[WhiteCountry "FRA"]
+
+1. Nf3 Nf6 2. c4 e6 3. d4 b6 4. g3 Bb7 5. Bg2 Be7 6. O-O O-O 7. Nc3 Ne4 8. Qc2
+Nxc3 9. Qxc3 c5 10. Rd1 Bf6 11. Qd3 Nc6 12. dxc5 bxc5 13. Qxd7 Qb6 14. Bf4 Rad8
+15. Qc7 Qxb2 16. Rdb1 Qxe2 17. Qxb7 Bxa1 18. Qxc6 Qxa2 19. Rf1 Rc8 20. Qe4 h6
+21. g4 Rfd8 22. g5 hxg5 23. Nxg5 g6 24. Qb7 Rf8 25. Nxf7 Bd4 26. Ng5 1-0

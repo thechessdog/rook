@@ -1,0 +1,23 @@
+[Event "Dortmund"]
+[Site "Dortmund"]
+[Date "1980.01.01"]
+[Round "2"]
+[White "Cuartas, Carlos Enrique"]
+[Black "Chandler, Murray G"]
+[Result "1-0"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, 6.Be3"]
+[HashCode "b0e600c4"]
+[Epoch "Rook"]
+[WhiteID "4428161"]
+[WhiteCountry "COL"]
+[BlackID "400050"]
+[BlackCountry "NZL"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 O-O 6. Be3 Nc6 7. Qd2 a6 8. O-O-O
+b5 9. e5 Ng4 10. h3 Nxe3 11. Qxe3 Na5 12. g4 b4 13. Ne4 Qe8 14. Bd3 f5 15. gxf5
+Bxf5 16. Kb1 Qc6 17. Nh4 Bxe4 18. Bxe4 d5 19. Bd3 Bh6 20. Rhf1 Rf7 21. Qg3 Rg7
+22. Qe1 e6 23. Qxb4 Qb6 24. Qxb6 cxb6 25. Ng2 Rf7 26. Rf3 Nc6 27. c3 b5 28.
+Rdf1 b4 29. Ne3 Bf8 30. h4 Rc7 31. h5 bxc3 32. bxc3 Rb8+ 33. Ka1 Na5 34. hxg6
+Rxc3 35. gxh7+ Kh8 36. Nc2 Nc4 37. Rg1 Bg7 38. Rfg3 1-0

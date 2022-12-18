@@ -1,0 +1,17 @@
+[Event "Hickory"]
+[Site "Hickory"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Gantt"]
+[Black "Wall, Bill"]
+[Result "0-1"]
+[ECO "C89"]
+[Opening "Ruy Lopez"]
+[Variation "Marshall counter-attack"]
+[HashCode "f6384e5b"]
+[Epoch "Rook"]
+[BlackCountry "USA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. c3
+d5 9. exd5 Nxd5 10. Nxe5 Nxe5 11. Rxe5 Nf4 12. Qf3 Bf6 13. Qxf4 Bxe5 14. Qxe5
+Re8 0-1

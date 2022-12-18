@@ -1,0 +1,18 @@
+[Event "Hungary"]
+[Site "Hungary"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Boguslavsky, Maxim"]
+[Black "Sarosy, Zoltan"]
+[Result "1-0"]
+[ECO "B16"]
+[Opening "Caro-Kann"]
+[Variation "Bronstein-Larsen variation"]
+[HashCode "83e8eabf"]
+[Epoch "Rook"]
+[BlackCountry "CAN"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ gxf6 6. c3 Bf5 7. g3 Qd5 8.
+Nf3 Be4 9. Bg2 e6 10. O-O Bg7 11. Re1 f5 12. Ng5 Bxg2 13. Qh5 e5 14. c4 Qxc4
+15. dxe5 Be4 16. e6 Rf8 17. Bf4 h6 18. Nxf7 Qd5 19. Ne5+ Ke7 20. Ng6+ Ke8 21.
+Nxf8+ 1-0

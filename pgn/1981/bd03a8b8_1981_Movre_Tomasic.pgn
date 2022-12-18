@@ -1,0 +1,18 @@
+[Event "corr Yugoslavia"]
+[Site "corr Yugoslavia"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Movre"]
+[Black "Tomasic"]
+[Result "0-1"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "modern variation"]
+[HashCode "bd03a8b8"]
+[Epoch "Rook"]
+
+1. b3 e5 2. Bb2 Nc6 3. e3 d5 4. Bb5 Bd6 5. g3 Qe7 6. f4 Bd7 7. Nf3 f6 8.
+Nc3 Be6 9. O-O Nh6 10. fxe5 fxe5 11. d4 O-O 12. dxe5 Nxe5 13. Nxe5 Bxe5 14.
+Qh5 Ng4 15. Bd3 g6 16. Bxg6 hxg6 17. Qxg6+ Kh8 18. Rf4 Rxf4 19. gxf4 Qg7
+20. Qxg7+ Bxg7 21. Re1 Bf5 0-1
+

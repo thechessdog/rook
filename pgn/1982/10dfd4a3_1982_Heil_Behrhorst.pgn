@@ -1,0 +1,27 @@
+[Event "Bundesliga 8182"]
+[Site "Duitsland tt"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Heil, Siegfried"]
+[Black "Behrhorst, Frank"]
+[Result "0-1"]
+[ECO "B04"]
+[Opening "Alekhine's defence"]
+[Variation "modern, Schmid variation"]
+[HashCode "10dfd4a3"]
+[Epoch "Rook"]
+[WhiteID "4600835"]
+[WhiteCountry "GER"]
+[BlackID "4605322"]
+[BlackCountry "GER"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. Nf3 Nb6 5. Be2 g6 6. h4 Nc6 7. h5 dxe5 8. hxg6
+fxg6 9. Nxe5 Qxd4 10. Nxc6 Qxd1+ 11. Bxd1 bxc6 12. Bf3 Bd7 13. Be4 Kf7 14. Nd2
+Bg7 15. a4 Rab8 16. Ra3 Nd5 17. Rf3+ Nf6 18. Nc4 Ke8 19. Bd3 Be6 20. Kf1 Bd5
+21. Rfh3 Rf8 22. b3 Nh5 23. Be2 Be6 24. Rf3 Rxf3 25. Bxf3 Bxc4+ 26. bxc4 Rb1
+27. Ke2 Bb2 28. g4 Rxc1 29. Rxc1 Nf4+ 30. Kd1 Bxc1 31. Bxc6+ Kf7 32. Kxc1 Kf6
+33. Kd2 h5 34. gxh5 gxh5 35. Ke3 Ke5 36. Kf3 a5 37. Kg3 Ne6 38. Bf3 Nc5 39. Bc6
+Kd6 40. Be8 c6 41. Bxh5 Nxa4 42. Kf4 Nb6 43. Ke4 Kc5 44. Kd3 Nxc4 45. Kc3 e5
+46. Kb3 Nb6 47. Bf3 a4+ 48. Ka3 Kb5 49. Be2+ Kc5 50. Bd3 Kd4 51. Bg6 Kc5 52.
+Be8 Kb5 53. Bf7 Nd5 54. c4+ Kxc4 55. Kxa4 c5 56. Ka3 Kd4 57. Kb3 Nf4 58. f3 Nd3
+59. Bh5 Ne1 60. Kb2 c4 61. Kc1 Ke3 62. Bf7 c3 63. Bh5 c2 0-1

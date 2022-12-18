@@ -1,0 +1,20 @@
+[Event "Plymouth ch-MI op"]
+[Site "Plymouth ch-MI op"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "DuVall, D."]
+[Black "Neely, R."]
+[Result "0-1"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical (two knights) system"]
+[HashCode "dc69a849"]
+[Epoch "Rook"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Nf3 Bg7 5. Bg5 O-O 6. e5 Nfd7 7. Bc4 dxe5
+8. dxe5 Nxe5 9. Qxd8 Nxf3+ 10. gxf3 Rxd8 11. O-O Nc6 12. Rad1 Bh3 13. Rxd8+
+Rxd8 14. Re1 Ne5 15. Bd5 Rxd5 16. Nxd5 Nxf3+ 17. Kh1 Nxe1 18. Nxe7+ Kf8 19.
+Bh4 Nxc2 20. Nd5 c6 21. Nf4 Be6 22. b3 Nb4 23. Nxe6+ fxe6 24. a4 b6 25. Kg2
+Bd4 26. Kf3 c5 27. Bg5 Kf7 28. Bd2 Nd3 29. Be3 e5 30. Ke2 Bxe3 31. Kxe3 Nc1
+32. Ke4 Ke6 33. Ke3 Nxb3 34. Kd3 Kd5 35. f3 a6 36. Kc3 Nd4 0-1
+

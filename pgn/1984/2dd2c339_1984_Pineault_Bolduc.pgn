@@ -1,0 +1,22 @@
+[Event "Quebec Invitational"]
+[Site "Quebec Invitational"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Pineault, Denis"]
+[Black "Bolduc, Steve"]
+[Result "1-0"]
+[ECO "B17"]
+[Opening "Caro-Kann"]
+[Variation "Steinitz variation"]
+[HashCode "2dd2c339"]
+[Epoch "Rook"]
+[WhiteID "2602873"]
+[BlackID "2603489"]
+[WhiteCountry "CAN"]
+[BlackCountry "CAN"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Bc4 Ngf6 6. Nxf6+ exf6 7. Bf4 Qe7+
+8. Qe2 Nb6 9. Bb3 a5 10. a4 Be6 11. Bxe6 fxe6 12. Nf3 Qd7 13. O-O Kf7 14. Rfe1
+Be7 15. c4 Rhe8 16. b3 Bb4 17. Bd2 Qe7 18. Qe3 Nd7 19. Qd3 Rad8 20. Qxh7 Bxd2
+21. Nxd2 Rh8 22. Qe4 Ne5 23. f4 Rh4 24. g3 Rg4 25. Qe2 Rxd4 26. fxe5 Qc5 27.
+Qe3 Qb4 28. exf6 Qxd2 29. Qxe6+ Kg6 30. f7+ Kh7 31. f8=Q Rdf4 32. Qfg8# 1-0

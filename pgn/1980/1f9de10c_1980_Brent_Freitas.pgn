@@ -1,0 +1,17 @@
+[Event "corr ASPC"]
+[Site "corr ASPC"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Brent, M."]
+[Black "Freitas, D."]
+[Result "1-0"]
+[ECO "C43"]
+[Opening "Petrov"]
+[Variation "modern (Steinitz) attack"]
+[HashCode "1f9de10c"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nf6 3. d4 d5 4. exd5 exd4 5. Bb5+ c6 6. dxc6 Qa5+ 7. Nc3
+bxc6 8. Nxd4 cxb5 9. Qf3 b4 10. Ncb5 Nfd7 11. Qxa8 a6 12. Qe4+ Kd8 13. Bg5+
+Nf6 14. O-O-O Bd7 15. Nc6+ Nxc6 16. Qxc6 Ke8 17. Nc7+ Qxc7 18. Qxc7 1-0
+

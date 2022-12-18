@@ -1,0 +1,21 @@
+[Event "corr NLD/H"]
+[Site "corr NLD/H"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Houtman"]
+[Black "Van der Kuyl"]
+[Result "1-0"]
+[ECO "B92"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Opovcensky variation"]
+[HashCode "5685eb38"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8.
+O-O Be6 9. a4 Nbd7 10. f4 Qc7 11. Kh1 O-O 12. Be3 exf4 13. Rxf4 Ne5 14. a5
+Ng6 15. Rf1 Rac8 16. Bb6 Qd7 17. Nd4 Rfe8 18. Qd2 d5 19. Nxe6 fxe6 20. exd5
+exd5 21. Bd3 Nf8 22. Bf5 Ne6 23. Rae1 Bb4 24. Rf3 d4 25. Rd3 dxc3 26. bxc3
+Bxc3 27. Rxd7 Bxd2 28. Rxd2 Rc6 29. Rde2 Kf7 30. g4 g6 31. Bd3 Rd6 32. h3
+Nf4 33. Rxe8 Nxe8 34. Bc4+ Ne6 35. Bf2 Ng7 36. Bg3 Rc6 37. Bb3 g5 38. Be5
+Kg6 39. Bd5 Rc8 40. Rf1 1-0
+

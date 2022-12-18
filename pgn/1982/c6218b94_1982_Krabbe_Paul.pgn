@@ -1,0 +1,19 @@
+[Event "corr DDR/FS"]
+[Site "corr DDR/FS"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Krabbe"]
+[Black "Paul, K."]
+[Result "0-1"]
+[ECO "C10"]
+[Opening "French"]
+[Variation "Paulsen variation"]
+[HashCode "c6218b94"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Be7 4. Nf3 Nf6 5. exd5 exd5 6. Be2 O-O 7. O-O b6
+8. Ne5 Bb7 9. Be3 c5 10. Na4 Nc6 11. Nf3 Ne4 12. Nc3 a6 13. Qb1 Rc8 14. Rd1
+Nxc3 15. bxc3 c4 16. Ne1 Ba3 17. Bc1 Bxc1 18. Qxc1 b5 19. g3 Ne7 20. Bf1
+Rc6 21. Qd2 Bc8 22. Ng2 Nf5 23. a4 bxa4 24. Rxa4 Re8 25. Nf4 Rd6 26. Rc1
+Qg5 27. Qd1 Kf8 28. Nxd5 Rxd5 29. Bxc4 Ne3 30. fxe3 Qxe3+ 31. Kh1 Bb7 0-1
+

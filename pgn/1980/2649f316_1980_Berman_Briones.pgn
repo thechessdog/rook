@@ -1,0 +1,16 @@
+[Event "Illinois"]
+[Site "Illinois"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Berman"]
+[Black "Briones"]
+[Result "1-0"]
+[ECO "B45"]
+[Opening "Sicilian"]
+[Variation "Taimanov variation"]
+[HashCode "2649f316"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 Bc5 6. Be3 Qb6 7. Ndb5
+Bxe3 8. Nd6+ Ke7 9. fxe3 Qxe3+ 10. Be2 a6 11. Nf5+ 1-0
+

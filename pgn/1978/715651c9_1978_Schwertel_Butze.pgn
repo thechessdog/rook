@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Schwertel, G."]
+[Black "Butze, Roland"]
+[Result "0-1"]
+[ECO "C74"]
+[Opening "Ruy Lopez"]
+[Variation "modern Steinitz defence, siesta variation"]
+[HashCode "715651c9"]
+[Epoch "Rook"]
+[BlackCountry "DEU"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. c3 f5 6. exf5 Bxf5 7. d4 e4 8. Ng5
+d5 9. c4 Bb4+ 10. Nc3 dxc4 11. Bxc6+ bxc6 12. Qa4 Bxc3+ 13. bxc3 Qd5 14. h4 Nf6
+15. Ba3 e3 16. f3 Kd7 17. Qb4 Rhe8 18. Qc5 Bd3 19. Nh3 Rab8 20. Nf4 Qxc5 0-1

@@ -1,0 +1,19 @@
+[Event "Beer Sheva"]
+[Site "Beer Sheva"]
+[Date "1982.01.01"]
+[Round "4"]
+[White "Ciocaltea, Victor"]
+[Black "Lein, Anatoly"]
+[Result "1/2-1/2"]
+[ECO "B19"]
+[Opening "Caro-Kann"]
+[Variation "classical, Spassky variation"]
+[HashCode "752ae8c2"]
+[Epoch "Rook"]
+[BlackID "2000270"]
+[BlackCountry "USA"]
+[WhiteCountry "ROU"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6 7. Nf3 Nd7 8. h5
+Bh7 9. Bd3 Bxd3 10. Qxd3 Ngf6 11. Bf4 Qa5+ 12. Bd2 Qc7 13. c4 e6 14. Qe2 Be7
+15. O-O-O O-O-O 1/2-1/2

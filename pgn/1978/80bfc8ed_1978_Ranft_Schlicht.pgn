@@ -1,0 +1,21 @@
+[Event "corr DDR-M"]
+[Site "corr DDR-M"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Ranft, H."]
+[Black "Schlicht, H."]
+[Result "1-0"]
+[ECO "B63"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...Be7"]
+[HashCode "80bfc8ed"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd2 Be7
+8. O-O-O a6 9. f4 Qc7 10. Be2 Bd7 11. Rhf1 Nxd4 12. Qxd4 h6 13. Bh4 Bc6 14.
+Bf3 O-O 15. Qf2 b5 16. e5 dxe5 17. fxe5 Nd5 18. Nxd5 Bxd5 19. Bxe7 Qxe7 20.
+Bxd5 exd5 21. Rxd5 Qg5+ 22. Qd2 Qh5 23. h3 Qh4 24. Qf4 Qe7 25. Rfd1 Ra7 26.
+Qd4 Re8 27. Kb1 Rc7 28. b3 Rc6 29. Rd6 Qc7 30. Rd2 Rc5 31. Rxa6 Rcxe5 32.
+Ra7 Re1+ 33. Kb2 Qg3 34. Rd7 R8e4 35. Qd5 Qf4 36. Qxb5 Qf6+ 37. Ka3 Rb1 38.
+c4 Re8 39. Qb7 Re6 40. R7d6 Qe5 41. Qd5 1-0
+

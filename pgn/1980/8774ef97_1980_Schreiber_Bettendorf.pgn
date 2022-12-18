@@ -1,0 +1,20 @@
+[Event "corr Wcup3"]
+[Site "corr Wcup3"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Schreiber"]
+[Black "Bettendorf"]
+[Result "1-0"]
+[ECO "B10"]
+[Opening "Caro-Kann"]
+[Variation "closed (Breyer) variation"]
+[HashCode "8774ef97"]
+[Epoch "Rook"]
+
+1. e4 c6 2. d3 d5 3. Nd2 dxe4 4. dxe4 e5 5. Ngf3 Qc7 6. a4 Bg4 7. c3 Nf6 8.
+h3 Bxf3 9. Qxf3 Nbd7 10. Bc4 Be7 11. O-O O-O 12. Re1 Rad8 13. Nf1 Ne8 14.
+Ng3 Nd6 15. Ba2 Kh8 16. Be3 Bh4 17. Nf5 Nxf5 18. exf5 Be7 19. a5 Bc5 20. f6
+Bxe3 21. fxg7+ Kxg7 22. Qxe3 f5 23. Qg5+ Kh8 24. Be6 e4 25. Rad1 Nf6 26.
+Qxf5 Rde8 27. Qc5 Qg7 28. Rd6 Re7 29. Red1 e3 30. Qxe3 Rfe8 31. Qe5 Rg8 32.
+g3 Ne8 33. Qh5 Qg6 34. Qg4 Qxg4 35. Bxg4 Nxd6 36. Rxd6 a6 37. Bf5 1-0
+

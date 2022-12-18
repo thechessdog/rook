@@ -1,0 +1,18 @@
+[Event "Latina"]
+[Site "Latina"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Ciuffoletti"]
+[Black "Cocozza, Mario"]
+[Result "0-1"]
+[ECO "B12"]
+[Opening "Caro-Kann"]
+[Variation "advance variation"]
+[HashCode "2ce29927"]
+[Epoch "Rook"]
+[BlackID "800236"]
+[BlackCountry "ITA"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nc3 e6 5. g4 Bg6 6. Nge2 c5 7. h4 f6 8. h5 Bf7
+9. f4 Be7 10. Be3 fxe5 11. fxe5 Bh4+ 12. Kd2 Nc6 13. Bg2 Bg5 14. Nb5 Bxe3+ 15.
+Kxe3 Qg5+ 16. Nf4 cxd4+ 17. Kf3 Nxe5+ 18. Kg3 Nh6 0-1

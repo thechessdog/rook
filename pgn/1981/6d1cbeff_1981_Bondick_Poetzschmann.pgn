@@ -1,0 +1,19 @@
+[Event "DDR"]
+[Site "DDR"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Bondick, Karl"]
+[Black "Poetzschmann"]
+[Result "1-0"]
+[ECO "A51"]
+[Opening "Budapest"]
+[Variation "Fajarowicz variation"]
+[HashCode "6d1cbeff"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ne4 4. a3 d6 5. Nf3 Nc6 6. Qc2 Bf5 7. Nc3 Nxc3
+8. Qxf5 Na4 9. e6 f6 10. e3 Qe7 11. Qb5 Nc5 12. Nd4 a6 13. Nxc6 axb5 14.
+Nxe7 Bxe7 15. cxb5 d5 16. Be2 f5 17. Bd2 Bf6 18. Bc3 Bxc3+ 19. bxc3 Ke7 20.
+O-O Ra4 21. Rfd1 Kxe6 22. Rd4 Rha8 23. Rxa4 Rxa4 24. f3 Ra5 25. c4 dxc4 26.
+Bxc4+ 1-0
+

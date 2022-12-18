@@ -1,0 +1,18 @@
+[Event "Connecticut"]
+[Site "Connecticut"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "NN"]
+[Black "Ivanov, Igor Vasilyevich"]
+[Result "0-1"]
+[ECO "B89"]
+[Opening "Sicilian"]
+[Variation "Sozin, 7.Be3"]
+[HashCode "2219f3ee"]
+[Epoch "Rook"]
+[BlackCountry "RUS"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bc4 e6 7. Be3 Bd7 8.
+Qe2 a6 9. O-O-O Na5 10. Bb3 b5 11. f3 b4 12. Nb1 e5 13. Nf5 Nxb3+ 14. axb3 Bb5
+15. Qd2 d5 16. exd5 g6 17. Ng3 Rc8 18. Bg5 Bd6 19. f4 O-O 20. fxe5 Bxe5 21.
+Qxb4 Nxd5 22. Qd2 Nb4 23. Bxd8 Na2# 0-1

@@ -1,0 +1,16 @@
+[Event "Hayward"]
+[Site "Hayward"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Dyke"]
+[Black "Kirk"]
+[Result "1-0"]
+[ECO "C56"]
+[Opening "Two knights defence"]
+[HashCode "4dd54b0e"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d4 exd4 5. O-O Nxe4 6. Re1 d5 7. Bxd5
+Qxd5 8. Nc3 Qd8 9. Nxe4 Be7 10. Nfg5 h6 11. Qh5 g6 12. Nf6+ Kf8 13. Ngh7+
+Rxh7 14. Qxh6+ Rxh6 15. Bxh6# 1-0
+

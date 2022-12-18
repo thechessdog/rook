@@ -1,0 +1,22 @@
+[Event "FRG Tch"]
+[Site "FRG Tch"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Pieper"]
+[Black "Visetti"]
+[Result "0-1"]
+[ECO "B77"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, 9...Bd7"]
+[HashCode "3dd5c6bc"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. Bc4 O-O
+8. f3 Nc6 9. Qd2 Bd7 10. h4 Rc8 11. Bb3 h5 12. O-O-O Ne5 13. Bg5 Rc5 14.
+Bxf6 Bxf6 15. f4 Nc4 16. Qd3 b5 17. e5 Bg7 18. Rhe1 Qa5 19. e6 Bxe6 20.
+Rxe6 Nxb2 21. Kxb2 fxe6 22. Nxe6 Qxc3+ 23. Qxc3 Rxc3 24. Nxg7+ Rxb3+ 25.
+axb3 Kxg7 26. g3 Rc8 27. Ra1 Rc7 28. Ra5 Rb7 29. Kc3 b4+ 30. Kc4 Kf6 31.
+Ra6 Kf5 32. Ra5+ e5 33. Kd5 Rb6 34. Rxa7 exf4 35. Rf7+ Kg4 36. Rxf4+ Kxg3
+37. Rd4 Kf3 38. Rd1 Ke2 39. Rg1 Kd2 40. Rxg6 Kxc2 41. Rg3 Rb8 42. Kxd6 Rc8
+43. Ke5 Rc3 44. Rg2+ Kxb3 45. Kf5 Ka3 0-1
+

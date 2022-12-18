@@ -1,0 +1,23 @@
+[Event "Odessa"]
+[Site "Odessa"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Tseitlin, Mikhail S"]
+[Black "Savon, Vladimir"]
+[Result "1-0"]
+[ECO "B52"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky attack, 3...Bd7"]
+[HashCode "c9498977"]
+[Epoch "Rook"]
+[BlackID "14138786"]
+[BlackCountry "UKR"]
+[WhiteCountry "BLR"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Qxd7 5. O-O Nc6 6. c3 d5 7. exd5 Qxd5
+8. d4 e6 9. Be3 cxd4 10. Nxd4 e5 11. Qb3 Qxb3 12. Nxb3 O-O-O 13. N1d2 f5 14.
+Rad1 Nf6 15. Nc4 Be7 16. Nba5 Nxa5 17. Nxa5 Kb8 18. Nc4 Ng4 19. h3 Nxe3 20.
+fxe3 f4 21. Kf2 Rhf8 22. Ke2 Rxd1 23. Kxd1 Rf5 24. a4 Kc7 25. Rf2 Bh4 26. Rf3
+Bg3 27. e4 Rg5 28. Ke2 Bh4 29. Kf1 Rh5 30. g4 Rh6 31. Nxe5 Re6 32. Nd3 g5 33.
+e5 Kc6 34. c4 a5 35. Ke2 Kc7 36. Rf1 Rc6 37. Rc1 Kd7 38. Kf3 Ke6 39. Ke4 Rc8
+40. Rc3 b6 1-0

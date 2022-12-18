@@ -1,0 +1,20 @@
+[Event "Mar del Plata"]
+[Site "Mar del Plata"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Cuasnicu, O."]
+[Black "Hase, Juan Carlos"]
+[Result "0-1"]
+[ECO "C97"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Chigorin defence"]
+[HashCode "e535e4bc"]
+[Epoch "Rook"]
+[BlackID "100722"]
+[BlackCountry "ARG"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. h3
+d6 9. c3 Na5 10. Bc2 c5 11. d4 Qc7 12. dxe5 dxe5 13. Nbd2 Be6 14. Nh4 g6 15.
+Nf1 Rfd8 16. Qf3 Ne8 17. Qg3 Bxh4 18. Qxh4 f6 19. Ne3 Nb7 20. Ng4 Bxg4 21. Qxg4
+c4 22. f4 Nc5 23. fxe5 Qxe5 24. Be3 Ng7 25. Rad1 Nge6 26. Rd5 Rxd5 27. exd5
+Qxd5 28. Bxg6 hxg6 29. Qxg6+ Ng7 30. Bd4 0-1

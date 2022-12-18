@@ -1,0 +1,18 @@
+[Event "corr Netherlands"]
+[Site "corr Netherlands"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Van der Vaart"]
+[Black "Praagman"]
+[Result "1/2-1/2"]
+[ECO "E95"]
+[Opening "King's Indian"]
+[Variation "orthodox, 7...Nbd7, 8.Re1"]
+[HashCode "fd5f9e63"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Be2 O-O 6. Nf3 e5 7. O-O Nbd7 8.
+Re1 c6 9. Bf1 Qc7 10. dxe5 dxe5 11. Qc2 b6 12. b3 Re8 13. Bb2 Nf8 14. h3
+Ne6 15. Rad1 Bb7 16. Qb1 Nd4 17. Nxd4 exd4 18. Rxd4 Ng4 19. e5 Nxe5 20.
+Rdd1 Rad8 21. f4 Nd7 22. g3 1/2-1/2
+

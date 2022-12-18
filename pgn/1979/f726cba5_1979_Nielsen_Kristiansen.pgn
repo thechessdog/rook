@@ -1,0 +1,21 @@
+[Event "Vojens"]
+[Site "Vojens"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Fries-Nielsen, Niels Jorgen"]
+[Black "Kristiansen, Jens"]
+[Result "1-0"]
+[ECO "A35"]
+[Opening "English"]
+[Variation "symmetrical, four knights system"]
+[HashCode "f726cba5"]
+[Epoch "Rook"]
+[BlackID "1400061"]
+[BlackCountry "DEN"]
+
+1. Nf3 c5 2. c4 Nf6 3. Nc3 Nc6 4. g3 b6 5. Bg2 Bb7 6. O-O e6 7. d4 cxd4 8. Nxd4
+Qc8 9. Ndb5 Ne5 10. Bxb7 Qxb7 11. Bf4 Qb8 12. Qd4 d6 13. Ne4 Nfd7 14. Nexd6+
+Bxd6 15. Nxd6+ Ke7 16. Rad1 f6 17. Bxe5 Nxe5 18. f4 Ng4 19. f5 h5 20. fxe6 Rd8
+21. Nf5+ Kxe6 22. Qe4+ Qe5 23. Qc6+ Kf7 24. Qb7+ Ke8 25. Nd6+ Rxd6 26. Qxa8+
+Kf7 27. Rxd6 Qxd6 28. Qd5+ Qxd5 29. cxd5 Ne3 30. Rc1 Nxd5 31. e4 Nb4 32. Rc7+
+Ke6 33. Rxa7 1-0

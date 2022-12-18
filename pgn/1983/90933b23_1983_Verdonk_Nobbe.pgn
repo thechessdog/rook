@@ -1,0 +1,16 @@
+[Event "Hertogenbosch"]
+[Site "Hertogenbosch"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Verdonk"]
+[Black "Nobbe"]
+[Result "0-1"]
+[ECO "A40"]
+[Opening "Queen's pawn"]
+[Variation "Charlick (Englund) gambit"]
+[HashCode "90933b23"]
+[Epoch "Rook"]
+
+1. d4 e5 2. dxe5 Nc6 3. Nf3 Qe7 4. Bg5 f6 5. exf6 gxf6 6. Bd2 d6 7. c3 Ne5
+8. Nd4 Nd3# 0-1
+

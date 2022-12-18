@@ -1,0 +1,20 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Palacios"]
+[Black "Villa Garcia"]
+[Result "0-1"]
+[ECO "B64"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...Be7 defence, 9.f4"]
+[HashCode "31f8a9be"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 e6 7. Qd2 Be7
+8. O-O-O O-O 9. f4 h6 10. Bh4 Bd7 11. Ndb5 Nxe4 12. Nxe4 Bxh4 13. Qxd6 Qa5
+14. Qa3 Qxa3 15. Nxa3 Rfd8 16. Be2 Nb4 17. c3 Nd5 18. g3 Be7 19. Nc2 Bc6
+20. Bf3 f5 21. Nd2 Nxf4 22. gxf4 Rxd2 23. Rxd2 Bxf3 24. Re1 Kf7 25. Nd4 Be4
+26. Nb5 g5 27. fxg5 Bxg5 28. Nd6+ Kf6 29. Nxe4+ fxe4 30. Rxe4 Rd8 31. Rd4
+Rxd4 32. cxd4 Kf5 33. Kc2 Bxd2 34. Kxd2 Ke4 35. Kc3 b5 0-1
+

@@ -1,0 +1,18 @@
+[Event "LiSB 1B 84/85"]
+[Site "LiSB 1B 84/85"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Boonen, P."]
+[Black "Hinssen, C."]
+[Result "1-0"]
+[ECO "B77"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, 9.Bc4"]
+[HashCode "9dd5be11"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8.
+Qd2 Nc6 9. Bc4 a6 10. O-O-O Bd7 11. h4 Qc8 12. Bb3 h5 13. Nxc6 bxc6 14. Bh6
+a5 15. Bxg7 Kxg7 16. g4 hxg4 17. h5 Rh8 18. h6+ Kg8 19. e5 dxe5 20. h7+
+Rxh7 21. Rxh7 Kxh7 22. Rh1+ Kg8 23. Qh6 Nh5 24. Qxg6+ Kf8 25. Qxf7# 1-0
+

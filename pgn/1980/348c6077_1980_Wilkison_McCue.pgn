@@ -1,0 +1,17 @@
+[Event "USA"]
+[Site "USA"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Wilkison"]
+[Black "McCue"]
+[Result "1-0"]
+[ECO "B20"]
+[Opening "Sicilian"]
+[Variation "wing gambit, Marshall variation"]
+[HashCode "348c6077"]
+[Epoch "Rook"]
+
+1. e4 c5 2. b4 cxb4 3. a3 e5 4. axb4 Bxb4 5. c3 Ba5 6. Nf3 Nc6 7. Bc4 Nge7
+8. O-O d5 9. exd5 Nxd5 10. Qb3 Be6 11. Qxb7 Rc8 12. Bb5 Qb6 13. Qxb6 Bxb6
+14. Nxe5 Ne7 15. Ba3 Rc7 16. Bxe7 1-0
+

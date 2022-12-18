@@ -1,0 +1,18 @@
+[Event "Kirchberg"]
+[Site "Kirchberg"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Moore"]
+[Black "Elter"]
+[Result "1-0"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Andreaschek gambit"]
+[HashCode "247ff6ce"]
+[Epoch "Rook"]
+
+1. e4 c5 2. d4 cxd4 3. c3 e5 4. Nf3 dxc3 5. Nxc3 d6 6. Bc4 Be7 7. Qb3 Be6
+8. Bxe6 fxe6 9. Qxb7 Nd7 10. Nb5 Rb8 11. Nc7+ Kf7 12. Qxa7 Nc5 13. Ng5+
+Bxg5 14. Bxg5 Qxg5 15. Qxb8 Qxg2 16. O-O-O Qxe4 17. Qe8+ Kf6 18. Qf8+ Kg6
+19. Rhg1+ Kh5 20. Qxg7 Nb3+ 21. axb3 Qc6+ 22. Kd2 1-0
+

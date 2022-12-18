@@ -1,0 +1,18 @@
+[Event "corr FRG/M"]
+[Site "corr FRG/M"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Harringer, M."]
+[Black "Fierke, C."]
+[Result "1-0"]
+[ECO "B85"]
+[Opening "Sicilian"]
+[Variation "Scheveningen, classical main line"]
+[HashCode "08f26902"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be2 Be7 7. Be3 a6 8.
+O-O O-O 9. f4 Qc7 10. Qe1 Nc6 11. Rd1 b5 12. Nxc6 Qxc6 13. e5 dxe5 14. fxe5
+Nd5 15. Bf3 Rd8 16. Qf2 f6 17. exf6 Bxf6 18. Ne4 Be5 19. Ng5 Qe8 20. Be4 h6
+21. Bh7+ Kh8 22. Bg6 1-0
+

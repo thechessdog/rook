@@ -1,0 +1,20 @@
+[Event "corr LADAC"]
+[Site "corr LADAC"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Ferreyra, Guillermo"]
+[Black "Acosta, Raul"]
+[Result "1-0"]
+[ECO "B77"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, 9...Bd7"]
+[HashCode "17509809"]
+[Epoch "Rook"]
+[BlackID "170801"]
+[BlackCountry "ARG"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 Nc6 8. Qd2
+Bd7 9. Bc4 O-O 10. h4 Ne5 11. Bb3 Rc8 12. O-O-O Nc4 13. Bxc4 Rxc4 14. h5 Nxh5
+15. g4 Nf6 16. Nde2 Re8 17. Rh4 Qa5 18. Bd4 Rec8 19. Kb1 Be6 20. Rdh1 Rxc3 21.
+Nxc3 Bxa2+ 22. Kc1 Be6 23. Kb1 b5 24. g5 b4 25. Nd5 Nxd5 26. exd5 Qxd5 27. Qxb4
+Qa2+ 28. Kc1 Bxd4 29. Qxd4 Bf5 30. Qh8+ 1-0

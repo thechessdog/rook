@@ -1,0 +1,22 @@
+[Event "Aarhus"]
+[Site "Aarhus"]
+[Date "1983.01.01"]
+[Round "8"]
+[White "Tisdall, Jonathan D"]
+[Black "Mortensen, Erling"]
+[Result "1-0"]
+[ECO "E92"]
+[Opening "King's Indian"]
+[Variation "Gligoric-Taimanov system"]
+[HashCode "d3459389"]
+[Epoch "Rook"]
+[WhiteID "1500066"]
+[WhiteCountry "NOR"]
+[BlackID "1400045"]
+[BlackCountry "DEN"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Be2 O-O 6. Nf3 e5 7. Be3 c6 8. O-O
+exd4 9. Nxd4 Re8 10. f3 d5 11. cxd5 cxd5 12. Qb3 dxe4 13. Bc4 Rf8 14. Rad1 Qe7
+15. Nxe4 Nxe4 16. fxe4 Nd7 17. h3 Ne5 18. Bd5 Qh4 19. Nf3 Qg3 20. Ng5 Kh8 21.
+Bf4 Qxb3 22. Bxb3 Kg8 23. Nxf7 Nxf7 24. Bd6 Rd8 25. Rxf7 Kh8 26. Rxg7 Rxd6 27.
+Rg8# 1-0

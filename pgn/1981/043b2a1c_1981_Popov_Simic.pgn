@@ -1,0 +1,20 @@
+[Event "Novi Sad"]
+[Site "Novi Sad"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Popov, Luben"]
+[Black "Simic, Radoslav"]
+[Result "1/2-1/2"]
+[ECO "D60"]
+[Opening "QGD"]
+[Variation "Orthodox defence, Botvinnik variation"]
+[HashCode "043b2a1c"]
+[Epoch "Rook"]
+[BlackID "900184"]
+[BlackCountry "SRB"]
+[WhiteID "2900173"]
+[WhiteCountry "FID"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 Be7 5. Bg5 O-O 6. e3 Nbd7 7. Bd3 h6 8. Bh4
+c6 9. O-O dxc4 10. Bxc4 Nd5 11. Bxe7 Qxe7 12. Rc1 Nxc3 13. Rxc3 e5 14. dxe5
+Nxe5 15. Nxe5 Qxe5 1/2-1/2

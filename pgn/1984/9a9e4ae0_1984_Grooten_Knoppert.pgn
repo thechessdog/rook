@@ -1,0 +1,21 @@
+[Event "Ramsgate"]
+[Site "Ramsgate"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Grooten, Herman"]
+[Black "Knoppert, Erik"]
+[Result "1-0"]
+[ECO "E60"]
+[Opening "King's Indian, 3.Nf3"]
+[HashCode "9a9e4ae0"]
+[Epoch "Rook"]
+[WhiteID "1000330"]
+[BlackID "1000853"]
+[WhiteCountry "NED"]
+[BlackCountry "NED"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 c5 4. d5 b5 5. cxb5 a6 6. e3 Bg7 7. Nc3 O-O 8. a4 d6
+9. e4 axb5 10. Bxb5 Ba6 11. Bg5 h6 12. Bh4 Nxe4 13. Rc1 Bxb5 14. axb5 Nf6 15.
+O-O Nbd7 16. Re1 Re8 17. h3 Nb6 18. Qd3 Qd7 19. Nh2 Qb7 20. Rcd1 Na4 21. Re2
+Ra5 22. Bxf6 Bxf6 23. Ne4 Be5 24. Ng4 Nxb2 25. Qd2 Qxb5 26. Rde1 Bg7 27. Nxd6
+exd6 28. Rxe8+ Kh7 29. Qf4 f5 30. R1e7 1-0

@@ -1,0 +1,19 @@
+[Event "telephone"]
+[Site "telephone"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Frankle"]
+[Black "Baczynsky, Boris"]
+[Result "1-0"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra gambit"]
+[HashCode "c1b8c27b"]
+[Epoch "Rook"]
+
+1. e4 c5 2. d4 cxd4 3. c3 g6 4. Nf3 Bg7 5. Bc4 Nf6 6. e5 Ng8 7. cxd4 d5 8.
+exd6 Qxd6 9. Qb3 e6 10. Nc3 Nf6 11. Nb5 Qb6 12. Bf4 Na6 13. Qa3 Ne4 14. Nd2
+Bf8 15. Qa4 Qc6 16. d5 Nec5 17. dxc6 Nxa4 18. Be5 Rg8 19. Ne4 Bb4+ 20. Ke2
+Nb6 21. Nf6+ Kf8 22. Nxh7+ Ke7 23. Bf6+ Ke8 24. Rhd1 Nd5 25. cxb7 Bxb7 26.
+Nd6+ Kd7 27. Nxb7 1-0
+

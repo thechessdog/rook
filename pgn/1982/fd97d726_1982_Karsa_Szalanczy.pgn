@@ -1,0 +1,29 @@
+[Event "Budapest"]
+[Site "Budapest"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Karsa, Laszlo"]
+[Black "Szalanczy, Emil"]
+[Result "1/2-1/2"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Nimzovich (knight's tour) variation"]
+[HashCode "fd97d726"]
+[Epoch "Rook"]
+[WhiteID "700274"]
+[BlackID "700347"]
+[WhiteCountry "HUN"]
+[BlackCountry "HUN"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. Nd2 Nbd7 8. e4
+Bg7 9. Be2 O-O 10. O-O Re8 11. f4 c4 12. Kh1 Nc5 13. e5 dxe5 14. fxe5 Rxe5 15.
+Nxc4 Rf5 16. Bf3 Ng4 17. Bxg4 Rxf1+ 18. Qxf1 Bxg4 19. Ne3 Bd7 20. Bd2 Qh4 21.
+Be1 Qe7 22. Bf2 Ne4 23. Nxe4 Qxe4 24. Rc1 Qf4 25. Rc4 Qd6 26. Bg3 Be5 27. Bxe5
+Qxe5 28. Rc3 Re8 29. h3 h5 30. Qf2 a6 31. a3 Bb5 32. Qd2 Rd8 33. Qc2 Kg7 34.
+Qf2 Rd6 35. Rc8 Rf6 36. Qd2 Rf4 37. Qc3 Re4 38. Nc2 Bd7 39. Rc7 Ba4 40. d6 Qxc3
+41. Rxc3 Re6 42. Rd3 Re8 43. Nb4 Rd8 44. Rd4 Bb5 45. Nd3 b6 46. a4 Bxd3 47.
+Rxd3 Rd7 48. Kg1 Kf6 49. Kf2 Ke6 50. Ke3 Rxd6 51. Rc3 a5 52. b4 axb4 53. Rb3
+Kd5 54. Rxb4 Kc5 55. Rb5+ Kc6 56. Rb4 Rf6 57. Rb2 Rf5 58. g4 Rc5 59. Rf2 Rc3+
+60. Kd4 Rxh3 61. gxh5 gxh5 62. Rf6+ Kb7 63. Rxf7+ Ka6 64. Kc4 Rh1 65. Rh7 h4
+66. Rh5 h3 67. Kb3 Kb7 68. Rh6 Kc7 69. Kb2 Kb7 70. Ka2 Rh2+ 71. Kb3 Ka7 72. Rh5
+Ka6 73. Ka3 Kb7 74. Rh6 Kc7 75. Kb3 1/2-1/2

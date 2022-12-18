@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Sardini"]
+[Black "Pantaleoni"]
+[Result "0-1"]
+[ECO "B33"]
+[Opening "Sicilian"]
+[Variation "Pelikan (Lasker/Sveshnikov) variation"]
+[HashCode "d47ca1e0"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6
+8. Bxf6 gxf6 9. Na3 f5 10. Bc4 Qg5 11. g3 Be6 12. exf5 Qxf5 13. Bd3 Qh3 14.
+Be4 d5 15. Nxd5 O-O-O 16. Qf3 f5 17. Nb6+ Kc7 18. Bxc6 Kxb6 19. Qg2 Qh6 20.
+Bf3 Qd2+ 21. Kf1 Bxa3 22. bxa3 Bc4+ 23. Kg1 e4 0-1
+

@@ -1,0 +1,23 @@
+[Event "FIDE (31) 1979-1981"]
+[Site "Riga izt"]
+[Date "1979.09.01"]
+[Round "1"]
+[White "Van Riemsdijk, Herman Claudius"]
+[Black "Gruenfeld, Yehuda"]
+[Result "1-0"]
+[ECO "B95"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6...e6"]
+[HashCode "622b9d75"]
+[Epoch "Rook"]
+[BlackID "2800020"]
+[BlackCountry "ISR"]
+[WhiteID "2100053"]
+[WhiteCountry "BRA"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. Qf3 h6 8. Bxf6
+Qxf6 9. Qxf6 gxf6 10. f4 b5 11. f5 Bd7 12. a4 b4 13. Na2 e5 14. Nf3 d5 15. exd5
+Bxf5 16. c3 bxc3 17. Nxc3 Bc5 18. Nh4 Bh7 19. Rd1 f5 20. Bd3 e4 21. Bc2 Be7 22.
+g3 Bxh4 23. gxh4 Nd7 24. a5 Rb8 25. Ba4 Rxb2 26. d6 Kd8 27. Bxd7 Kxd7 28. Na4
+Rb5 29. Nb6+ Ke6 30. d7 Rd8 31. O-O Rxa5 32. Rc1 Rb5 33. Rc6+ Ke7 34. Rd1 Bg6
+35. Nc8+ Kf8 36. Na7 Bh5 37. Rc8 Bxd1 38. Nc6 Rd5 39. Rxd8+ Kg7 40. Rg8+ 1-0

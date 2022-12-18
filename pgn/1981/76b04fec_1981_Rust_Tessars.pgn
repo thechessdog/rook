@@ -1,0 +1,17 @@
+[Event "Regionalliga Nord"]
+[Site "RLN 8081"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Rust, Volker"]
+[Black "Tessars, R."]
+[Result "0-1"]
+[ECO "A27"]
+[Opening "English"]
+[Variation "three knights system"]
+[HashCode "76b04fec"]
+[Epoch "Rook"]
+
+1. c4 Nc6 2. Nc3 e5 3. Nf3 g6 4. d3 Bg7 5. g3 Nge7 6. Bg2 O-O 7. O-O d6 8. Rb1
+Bf5 9. Bd2 Qd7 10. b4 Bh3 11. b5 Nd8 12. Qb3 Bxg2 13. Kxg2 h6 14. Nd5 Kh7 15.
+Ng1 Ne6 16. e4 f5 17. f3 Rf7 18. Rbe1 Raf8 19. Qb1 Nd4 20. Be3 fxe4 21. fxe4
+Nxd5 22. exd5 Nf5 23. Qc1 c6 24. a4 cxd5 25. Bxa7 d4 26. Rf3 Nh4+ 0-1

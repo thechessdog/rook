@@ -1,0 +1,20 @@
+[Event "Sochi"]
+[Site "Sochi"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Zaitsev, Igor"]
+[Black "Krogius, Nikolai V"]
+[Result "1-0"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "4.Nf3"]
+[HashCode "457d3677"]
+[Epoch "Rook"]
+[BlackID "4100565"]
+[BlackCountry "RUS"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. Bg5 h6 6. Bh4 O-O 7. Qc2 b6 8. Bxf6
+Bxf6 9. e4 c5 10. e5 Be7 11. cxd5 exd5 12. dxc5 bxc5 13. O-O-O d4 14. Qe4 Na6
+15. Qxa8 Bg5+ 16. Nxg5 Qxg5+ 17. Rd2 dxc3 18. bxc3 Rd8 19. Bd3 c4 20. f4 Qxf4
+21. Qe4 Qg5 22. h4 Qg3 23. Qxc4 Qxe5 24. Bc2 Re8 25. Qe4 Qxe4 26. Bxe4 Bg4 27.
+Bd5 Nc5 28. Rf1 Re7 29. Bxf7+ 1-0

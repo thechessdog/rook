@@ -1,0 +1,25 @@
+[Event "Soro"]
+[Site "Soro"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Larsen, Jim"]
+[Black "Rewitz, Poul"]
+[Result "0-1"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Nimzovich system"]
+[HashCode "61a801d9"]
+[Epoch "Rook"]
+[BlackID "1401033"]
+[BlackCountry "DEN"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. Nf3 Qb6 5. Bd3 Bd7 6. O-O cxd4 7. Bf4 a5 8. Nbd2
+a4 9. Rb1 Nc6 10. b4 Nge7 11. a3 Na7 12. Bg3 Bb5 13. Nh4 Bxd3 14. cxd3 Nb5 15.
+Ra1 g6 16. f4 h5 17. Ndf3 Bh6 18. Qd2 O-O 19. Bf2 Rfc8 20. g3 Nc6 21. Rfc1 Bf8
+22. Ng2 Qa7 23. Nge1 Nxa3 24. Rxc6 bxc6 25. Rxa3 c5 26. bxc5 Bxc5 27. Ra2 a3
+28. Nc2 Qb6 29. Ncxd4 Qb1+ 30. Kg2 Bb4 31. Qe2 Rc3 32. Be1 Rc1 33. Bxb4 Qxb4
+34. Kh3 Qc3 35. Nb5 Qb4 36. Nbd4 Qc3 37. Nb5 Qb4 38. Nbd4 Rb1 39. Nc2 Qb2 40.
+Rxb2 Rxb2 41. Nfe1 a2 42. Qd1 Rb1 43. Qe2 Kg7 44. Kh4 Kh6 45. Qe3 Ra4 46. d4
+Kg7 47. Kg5 a1=Q 48. Nxa1 Rbxa1 49. Nc2 Rb1 50. h3 Ra2 51. Qd3 Rc1 52. Ne3 Rh2
+53. g4 Rxh3 54. f5 gxf5 55. Nxf5+ exf5 56. Qxh3 fxg4 57. Qxh5 g3 58. Qh6+ Kg8
+59. Kf6 Rc6+ 0-1

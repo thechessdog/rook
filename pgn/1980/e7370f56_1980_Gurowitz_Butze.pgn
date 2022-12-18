@@ -1,0 +1,18 @@
+[Event "corr EU"]
+[Site "corr EU"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Gurowitz, H."]
+[Black "Butze, Roland"]
+[Result "1-0"]
+[ECO "D47"]
+[Opening "QGD semi-Slav"]
+[Variation "neo-Meran (Lundin variation)"]
+[HashCode "e7370f56"]
+[Epoch "Rook"]
+[BlackCountry "DEU"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c6 4. Nf3 Nf6 5. e3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8. Bd3
+b4 9. Ne4 Be7 10. Nxf6+ Nxf6 11. e4 Bb7 12. O-O O-O 13. e5 Nd7 14. Qc2 h6 15.
+Bh7+ Kh8 16. Be4 Qb6 17. Be3 c5 18. dxc5 Bxc5 19. Rad1 Bxe4 20. Qxe4 f5 21. Qh4
+Bxe3 22. Rxd7 Bc5 23. Qg3 Rg8 24. Qg6 Bxf2+ 25. Rxf2 Rac8 26. g4 Rc2 1-0

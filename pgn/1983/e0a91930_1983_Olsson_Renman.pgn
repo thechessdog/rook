@@ -1,0 +1,21 @@
+[Event "Sweden"]
+[Site "Sweden"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Olsson, Tomas"]
+[Black "Renman, Nils-Gustaf"]
+[Result "0-1"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, poisoned pawn, Konstantinopolsky variation"]
+[HashCode "e0a91930"]
+[Epoch "Rook"]
+[WhiteID "1702696"]
+[WhiteCountry "SWE"]
+[BlackCountry "SWE"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Qg4 Qc7 8.
+Qxg7 Rg8 9. Qxh7 cxd4 10. Ne2 Nbc6 11. f4 Bd7 12. Qd3 dxc3 13. Rb1 Nf5 14. h3
+d4 15. g4 Nfe7 16. Nxd4 Nxd4 17. Qxd4 Bc6 18. Qxc3 O-O-O 19. Rh2 Nd5 20. Qc5 f6
+21. exf6 e5 22. f5 e4 23. Rg2 e3 24. f7 Qxf7 25. Bc4 Qf6 26. Bxe3 Rge8 27. Bxd5
+Rxd5 0-1

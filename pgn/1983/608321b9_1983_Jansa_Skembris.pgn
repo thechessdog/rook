@@ -1,0 +1,24 @@
+[Event "Bor"]
+[Site "Bor"]
+[Date "1983.01.01"]
+[Round "9"]
+[White "Jansa, Vlastimil"]
+[Black "Skembris, Spyridon"]
+[Result "1-0"]
+[ECO "B16"]
+[Opening "Caro-Kann"]
+[Variation "Bronstein-Larsen variation"]
+[HashCode "608321b9"]
+[Epoch "Rook"]
+[WhiteID "300128"]
+[WhiteCountry "CZE"]
+[BlackID "4200020"]
+[BlackCountry "GRE"]
+
+1. e4 c6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Nf6 5. Nxf6+ gxf6 6. Nf3 Bg4 7. Be2 Qc7
+8. O-O e6 9. Nh4 Bxe2 10. Qxe2 Nd7 11. c4 O-O-O 12. g3 h5 13. Be3 Kb8 14. d5
+Bd6 15. Rfd1 c5 16. Rd2 Ne5 17. Rad1 Ng4 18. dxe6 fxe6 19. Bf4 Bxf4 20. Rxd8+
+Rxd8 21. Rxd8+ Qxd8 22. gxf4 Qg8 23. h3 Nh6+ 24. Kh2 Qf7 25. Qe4 Kc7 26. b3 Kb6
+27. a3 a6 28. b4 cxb4 29. axb4 Ka7 30. Qd4+ b6 31. c5 bxc5 32. bxc5 Kb7 33.
+Qb4+ Kc8 34. Qb6 a5 35. Qxa5 Qc7 36. Qa8+ Kd7 37. Qe4 f5 38. Qd4+ Kc6 39. Kg2
+Nf7 40. Nf3 1-0

@@ -1,0 +1,17 @@
+[Event "Ohio"]
+[Site "Ohio"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Meidinger, C."]
+[Black "Britt, Tom"]
+[Result "1-0"]
+[ECO "D66"]
+[Opening "QGD"]
+[Variation "Orthodox defence, Bd3 line"]
+[HashCode "aca4fc52"]
+[Epoch "Rook"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. Bg5 Be7 6. e3 Nbd7 7. Rc1 O-O 8.
+Bd3 Re8 9. O-O dxc4 10. Bxc4 Nb6 11. Bd3 Nfd7 12. Bf4 Bf6 13. b4 Qe7 14. b5
+c5 15. dxc5 Nxc5 16. Bd6 Nxd3 17. Bxe7 Nb2 18. Qe2 Rxe7 19. Qxb2 1-0
+

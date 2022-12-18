@@ -1,0 +1,31 @@
+[Event "Nordic-tt"]
+[Site "Oslo"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Kaiszauri, Konstanty"]
+[Black "Hjartarson, Johann"]
+[Result "1-0"]
+[ECO "A30"]
+[Opening "English"]
+[Variation "symmetrical, hedgehog system"]
+[HashCode "08b018ed"]
+[Epoch "Rook"]
+[WhiteID "1700510"]
+[WhiteCountry "SWE"]
+[BlackID "2300044"]
+[BlackCountry "ISL"]
+
+1. c4 Nf6 2. Nc3 c5 3. Nf3 e6 4. g3 b6 5. Bg2 Bb7 6. O-O Be7 7. b3 d6 8. Bb2
+O-O 9. e3 a6 10. d4 Nbd7 11. d5 exd5 12. Nh4 Re8 13. Nf5 Bf8 14. Nxd5 Rb8 15.
+Nxf6+ Nxf6 16. Bxb7 Rxb7 17. Bxf6 Qxf6 18. Qf3 Rbb8 19. a4 g6 20. Nh4 Qxf3 21.
+Nxf3 b5 22. axb5 axb5 23. Ra7 h6 24. Rfa1 bxc4 25. bxc4 Rb4 26. R1a4 Reb8 27.
+Nd2 Rxa4 28. Rxa4 Rb2 29. Ne4 Rb4 30. Rxb4 cxb4 31. Nd2 f5 32. Kf1 Kf7 33. Nb3
+Ke6 34. Nd4+ Kd7 35. Ke2 d5 36. Kd3 dxc4+ 37. Kxc4 Kd6 38. Kxb4 Ke5+ 39. Kc3
+Ke4 40. Kd2 g5 41. f3+ Ke5 42. Kd3 g4 43. f4+ Kf6 44. e4 fxe4+ 45. Kxe4 Bc5 46.
+Nf5 h5 47. Ne3 Kf7 48. f5 Bd6 49. Nd5 h4 50. gxh4 Bxh2 51. Ne3 g3 52. Kf3 Bg1
+53. Nf1 Kf6 54. Nxg3 Bh2 55. Nf1 Bg1 56. Kg4 Bf2 57. h5 Bd4 58. Nd2 Be3 59.
+Ne4+ Kf7 60. Ng5+ Kg7 61. Ne6+ Kf6 62. Nf4 Bc1 63. Nd5+ Ke5 64. Nc3 Kf6 65.
+Ne4+ Kf7 66. Kf3 Kg7 67. Nf2 Kf6 68. Kg4 Be3 69. Ne4+ Kf7 70. Kf3 Bc1 71. Nd6+
+Ke7 72. Nc4 Kf6 73. Kg4 Bh6 74. Nb6 Bc1 75. Nd5+ Ke5 76. Nb4 Kf6 77. Nd3 Bd2
+78. Nf4 Bc1 79. h6 Bd2 80. Nd5+ Kf7 81. h7 Kg7 82. f6+ Kxh7 83. Kf5 Kg8 84. Ke6
+Kf8 85. f7 Bc1 86. Nb6 Ba3 87. Kf6 Bb2+ 88. Kg6 Ke7 89. Nd7 1-0

@@ -1,0 +1,25 @@
+[Event "Helsinki"]
+[Site "Helsinki"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Turunen"]
+[Black "Salonen"]
+[Result "1-0"]
+[ECO "B40"]
+[Opening "Sicilian"]
+[Variation "Anderssen variation"]
+[HashCode "624076e5"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Nxc6 bxc6 7. e5 Nd5
+8. Ne4 f5 9. exf6 Nxf6 10. Nd6+ Bxd6 11. Qxd6 Ba6 12. c4 Qb6 13. Qa3 c5 14.
+Be2 O-O 15. Be3 Rac8 16. Rc1 d5 17. O-O d4 18. Bxd4 cxd4 19. c5 Rxc5 20.
+Qxa6 Qxa6 21. Bxa6 Rxc1 22. Rxc1 Rd8 23. Bc4 Kf7 24. f4 g6 25. Kf2 Ng4+ 26.
+Kf3 Ne3 27. Bb3 Ke7 28. Ba4 Rb8 29. Rc7+ Kd6 30. Rd7+ Kc5 31. Bb3 a5 32.
+Rc7+ Kd6 33. Ra7 Rb6 34. Rxa5 Nf1 35. Ke2 Nxh2 36. Re5 Kd7 37. Rg5 Ke7 38.
+Kd3 Kf6 39. Rc5 Ng4 40. Kxd4 Rd6+ 41. Kc3 Ne3 42. g3 h5 43. Bc2 Nd5+ 44.
+Kc4 Ne3+ 45. Kb3 Rb6+ 46. Ka3 Ra6+ 47. Kb3 Rb6+ 48. Ka3 Ra6+ 49. Ba4 Nf1
+50. Rc3 Kf5 51. Kb4 Kg4 52. Bd1+ Kf5 53. Be2 Rxa2 54. Bxf1 Rxb2+ 55. Kc5 h4
+56. Bh3+ Ke4 57. Rc4+ Kf3 58. gxh4 Rh2 59. h5 gxh5 60. Bxe6 Kg3 61. Kd6 Rf2
+62. Ke5 h4 63. Rc3+ Kg2 64. Bh3+ Kh2 65. Bf5 1-0
+

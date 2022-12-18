@@ -1,0 +1,22 @@
+[Event "corr SWE/K"]
+[Site "corr SWE/K"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Gil, Antonio"]
+[Black "Ohlin, Jan"]
+[Result "0-1"]
+[ECO "E19"]
+[Opening "Queen's Indian"]
+[Variation "old main line, 9.Qxc3"]
+[HashCode "eaa23fed"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2 Be7 6. O-O O-O 7. Nc3 Ne4 8.
+Qc2 Nxc3 9. Qxc3 c5 10. Be3 d6 11. Rfd1 Qc7 12. dxc5 bxc5 13. Rac1 Nd7 14.
+Ne1 Bxg2 15. Nxg2 Rfb8 16. Qd2 Rb6 17. Nf4 Ne5 18. Qc2 Qb7 19. b3 a5 20.
+Nd3 Nxd3 21. Rxd3 h5 22. Qd1 Qc6 23. a4 f5 24. f3 h4 25. Kg2 hxg3 26. hxg3
+Qe8 27. Bd2 Qg6 28. Qe1 Rba6 29. Rd1 Kf7 30. e4 Rh8 31. Qe3 Bf6 32. Bc3
+Bxc3 33. Rxc3 Qh5 34. Rg1 fxe4 35. Qxe4 Rb6 36. Kf2 Qh2+ 37. Rg2 Qh6 38. f4
+Qf6 39. Qe3 g5 40. Ke2 g4 41. Kd2 Rh1 42. Re2 Ra1 43. Re1 Ra2+ 44. Kc1 Rb8
+45. Rc2 Ra1+ 46. Kd2 Rxb3 0-1
+

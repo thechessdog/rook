@@ -1,0 +1,22 @@
+[Event "Oslo"]
+[Site "Oslo"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Petersen, Finn"]
+[Black "Ornstein, Axel"]
+[Result "1-0"]
+[ECO "A46"]
+[Opening "Queen's pawn"]
+[Variation "Yusupov-Rubinstein system"]
+[HashCode "2480c89d"]
+[Epoch "Rook"]
+[BlackID "1700111"]
+[BlackCountry "SWE"]
+[WhiteID "1400754"]
+[WhiteCountry "DEN"]
+
+1. d4 Nf6 2. Nf3 e6 3. e3 b6 4. Bd3 Bb7 5. O-O Be7 6. c4 c5 7. b3 O-O 8. Bb2
+cxd4 9. exd4 d5 10. Nbd2 Nc6 11. Rc1 Rc8 12. Qe2 Rc7 13. Rfd1 dxc4 14. bxc4 Rd7
+15. Nf1 Nh5 16. Bb1 Bg5 17. Ne3 Nf4 18. Qc2 f5 19. d5 exd5 20. Nxf5 Bf6 21. Ba3
+d4 22. Qe4 Qc7 23. Nd6 d3 24. Qxf4 Be7 25. Qe4 Bxd6 26. Bxd3 g6 27. Qe6+ Rff7
+28. c5 Bxh2+ 29. Nxh2 Nd4 30. Qe8+ 1-0

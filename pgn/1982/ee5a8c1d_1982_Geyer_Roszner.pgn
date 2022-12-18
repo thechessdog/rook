@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Geyer"]
+[Black "Roszner"]
+[Result "1/2-1/2"]
+[ECO "C24"]
+[Opening "Bishop's opening"]
+[Variation "Ponziani gambit"]
+[HashCode "ee5a8c1d"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Bc4 Nf6 3. d4 exd4 4. e5 d5 5. Qxd4 Nc6 6. Bb5 Ne4 7. Nc3 Bc5
+8. Qxd5 Bxf2+ 9. Kf1 Nxc3 10. Qxd8+ Kxd8 11. Bxc6 bxc6 12. Kxf2 Ne4+ 13.
+Kf3 f5 14. exf6 Nxf6 15. Bg5 Rf8 16. h3 Rb8 17. b3 Rb5 18. h4 Bg4+ 19. Kg3
+h5 20. c4 Rf5 21. Nh3 Bxh3 22. Kxh3 Kc8 23. Bxf6 R8xf6 1/2-1/2
+

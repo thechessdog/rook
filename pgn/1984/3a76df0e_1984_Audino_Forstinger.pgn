@@ -1,0 +1,17 @@
+[Event "corr EU/I"]
+[Site "corr EU/I"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Audino"]
+[Black "Forstinger"]
+[Result "1-0"]
+[ECO "C56"]
+[Opening "Two knights defence"]
+[HashCode "3a76df0e"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d4 exd4 5. O-O Nxe4 6. Nc3 dxc3 7. Bxf7+
+Kxf7 8. Qd5+ Ke8 9. Re1 Ne7 10. Rxe4 c6 11. Qh5+ g6 12. Qh4 d5 13. Re2 Bg7
+14. Bg5 cxb2 15. Rae1 Kf7 16. Rxe7+ Qxe7 17. Rxe7+ Kg8 18. Qb4 h6 19. Rxg7+
+Kxg7 20. Qxb2+ Kg8 21. Qf6 Bf5 22. g4 Rf8 23. Qd6 hxg5 24. gxf5 1-0
+

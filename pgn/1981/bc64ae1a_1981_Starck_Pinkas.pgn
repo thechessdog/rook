@@ -1,0 +1,23 @@
+[Event "Czestochowa"]
+[Site "Czestochowa"]
+[Date "1981.01.01"]
+[Round "5"]
+[White "Starck, Bodo"]
+[Black "Pinkas, Karol"]
+[Result "1-0"]
+[ECO "E33"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, 4...Nc6"]
+[HashCode "bc64ae1a"]
+[Epoch "Rook"]
+[WhiteID "4611829"]
+[BlackID "1100319"]
+[WhiteCountry "GER"]
+[BlackCountry "POL"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 Nc6 5. Nf3 d5 6. e3 O-O 7. Bd2 Re8 8. a3
+Bxc3 9. Bxc3 a5 10. b3 b6 11. Bd3 Bb7 12. O-O Qd6 13. Bb2 Rec8 14. Ne5 dxc4 15.
+bxc4 Ne7 16. e4 c5 17. d5 exd5 18. cxd5 Ng6 19. Nc4 Qc7 20. a4 Re8 21. f4 Ba6
+22. Rae1 Rab8 23. d6 Qd7 24. f5 Bxc4 25. fxg6 Bxd3 26. gxf7+ Qxf7 27. Qxd3 Qe6
+28. Qg3 Kh8 29. d7 Rg8 30. Rd1 Nxd7 31. Rd6 Qe7 32. Rfd1 Rbd8 33. Qd3 c4 34.
+Qd5 1-0

@@ -1,0 +1,21 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Postler"]
+[Black "Hinkel"]
+[Result "1/2-1/2"]
+[ECO "B45"]
+[Opening "Sicilian"]
+[Variation "Taimanov variation"]
+[HashCode "df0cb459"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 Nf6 6. Ndb5 a6 7. Nd6+
+Bxd6 8. Qxd6 Qe7 9. Bf4 Nh5 10. Qxe7+ Kxe7 11. Bc7 Nf6 12. O-O-O Ne8 13.
+Bb6 f6 14. Be2 d6 15. Rd2 Bd7 16. f4 Rc8 17. Nd1 Nb8 18. Bf3 Bc6 19. Re1
+Nd7 20. Bg1 b5 21. Nc3 Kf7 22. Ne2 e5 23. f5 Nc5 24. Nc3 b4 25. Nd5 b3 26.
+Kb1 bxa2+ 27. Kxa2 Bxd5+ 28. Rxd5 Ke7 29. Red1 Nb7 30. c3 Nc7 31. R5d2 Rhd8
+32. Bb6 Rd7 33. Be2 Na8 34. Bf2 Rc6 35. Kb3 Nc7 36. Ra1 Nc5+ 37. Bxc5 dxc5
+38. Rad1 Rxd2 39. Rxd2 Rd6 40. Rxd6 1/2-1/2
+

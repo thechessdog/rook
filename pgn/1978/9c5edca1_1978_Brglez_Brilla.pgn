@@ -1,0 +1,24 @@
+[Event "corr EUR"]
+[Site "corr EUR"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Brglez, Rado"]
+[Black "Brilla Banfalvi"]
+[Result "0-1"]
+[ECO "D47"]
+[Opening "QGD semi-Slav"]
+[Variation "neo-Meran (Lundin variation)"]
+[HashCode "9c5edca1"]
+[Epoch "Rook"]
+[WhiteID "14600331"]
+[WhiteCountry "SLO"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 c6 5. e3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8. Bd3
+b4 9. Ne4 Nxe4 10. Bxe4 Bb7 11. b3 Be7 12. Bb2 O-O 13. Nd2 Nf6 14. Bf3 Nd5 15.
+O-O c5 16. dxc5 Bxc5 17. Ne4 Bb6 18. Rc1 Qe7 19. Rc2 Rac8 20. Nd2 Rfd8 21. Rxc8
+Bxc8 22. Bxd5 Rxd5 23. Qe2 Ba6 24. Nc4 Bc7 25. e4 Rd7 26. g3 Bb6 27. Rd1 Rxd1+
+28. Qxd1 Bxc4 29. bxc4 Qc5 30. Qc2 a5 31. Bc1 Qd6 32. Kf1 Kf8 33. Ke2 Ke7 34.
+Be3 Bxe3 35. Kxe3 Qc5+ 36. Kd3 e5 37. Ke2 a4 38. Qxa4 Qxc4+ 39. Ke3 Qd4+ 40.
+Kf3 Qd3+ 41. Kg2 Qxe4+ 42. Kg1 Qd4 43. Qb3 h6 44. h4 g6 45. Qf3 h5 46. Qb3 Kf8
+47. Kg2 Qc5 48. Qd3 Kg7 49. Kg1 Qd4 50. Qb5 e4 51. Kg2 Kh7 52. Qb7 Qc4 53. Qe7
+e3 0-1

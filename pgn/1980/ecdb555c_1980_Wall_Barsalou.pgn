@@ -1,0 +1,17 @@
+[Event "Dayton,OH"]
+[Site "Dayton,OH"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Wall, Bill"]
+[Black "Barsalou, Norm"]
+[Result "1-0"]
+[ECO "C17"]
+[Opening "French"]
+[Variation "Winawer, advance, 5.a3"]
+[HashCode "ecdb555c"]
+[Epoch "Rook"]
+[WhiteCountry "USA"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Ba5 6. dxc5 Bxc3+ 7. bxc3 Nc6 8.
+Bb5 Ne7 9. Nf3 Qa5 10. Qd3 a6 11. Bxc6+ Nxc6 12. Bd2 Qxc5 13. O-O Nxe5 14. Nxe5
+O-O 15. Be3 Qc7 16. Bf4 f6 17. Ng6 1-0

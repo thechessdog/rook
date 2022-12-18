@@ -1,0 +1,21 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Zipfel, F."]
+[Black "Griesbach, R."]
+[Result "1/2-1/2"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, 6.Be3"]
+[HashCode "2134ea74"]
+[Epoch "Rook"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 O-O 6. Be3 Ng4 7. Bg1 c5 8.
+h3 Nh6 9. g4 Kh8 10. g5 Ng8 11. Qd2 cxd4 12. Bxd4 Nc6 13. Bxg7+ Kxg7 14.
+O-O-O Qa5 15. Bc4 Qc5 16. Bb3 b5 17. Bd5 Bb7 18. Bxc6 Bxc6 19. Qd4+ f6 20.
+Rhe1 a6 21. gxf6+ Nxf6 22. Qxc5 dxc5 23. Ng5 Rfc8 24. Ne6+ Kf7 25. Nxc5 b4
+26. N3a4 Ra7 27. Nb6 Rcc7 28. Rd8 Bb5 29. Nd3 Bxd3 30. Rxd3 Rc6 31. Nd5
+Nxd5 32. Rxd5 Rac7 33. Re2 Rc5 34. Rxc5 Rxc5 35. Re3 Kf6 36. a3 a5 37. Kd2
+e5 38. axb4 axb4 39. fxe5+ Kxe5 40. Rg3 Rc4 41. c3 bxc3+ 42. bxc3 1/2-1/2
+

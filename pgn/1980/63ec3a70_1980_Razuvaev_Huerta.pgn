@@ -1,0 +1,19 @@
+[Event "Capablanca mem-B"]
+[Site "Cienfuegos"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Razuvaev, Yuri S"]
+[Black "Huerta, Ramon"]
+[Result "1-0"]
+[ECO "E06"]
+[Opening "Catalan"]
+[Variation "closed, 5.Nf3"]
+[HashCode "63ec3a70"]
+[Epoch "Rook"]
+[WhiteCountry "RUS"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. g3 Be7 5. Bg2 O-O 6. O-O dxc4 7. a4 c5 8. dxc5
+Nc6 9. Nbd2 Bxc5 10. Nxc4 Qe7 11. Nfe5 Nb4 12. Be3 Bxe3 13. Nxe3 Nfd5 14. Nxd5
+exd5 15. Nf3 Bf5 16. Nd4 Be4 17. Bh3 Qe5 18. e3 Rad8 19. Rc1 Rd6 20. Rc3 a5 21.
+f3 Rh6 22. Bg4 f5 23. fxe4 fxg4 24. Rxf8+ Kxf8 25. Qxg4 Rf6 26. Qc8+ Kf7 27.
+Rc7+ Kg6 28. Qg4+ 1-0

@@ -1,0 +1,22 @@
+[Event "Budapest"]
+[Site "Budapest"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Zsinka, Laszlo"]
+[Black "Petran, Pal"]
+[Result "0-1"]
+[ECO "D86"]
+[Opening "Gruenfeld"]
+[Variation "exchange, Simagin's lesser variation"]
+[HashCode "0ee3bad3"]
+[Epoch "Rook"]
+[BlackID "700304"]
+[BlackCountry "HUN"]
+[WhiteCountry "HUN"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Bc4 O-O 8.
+Ne2 b6 9. O-O Bb7 10. Qd3 a6 11. Be3 b5 12. Bb3 c5 13. Bc2 cxd4 14. cxd4 Nc6
+15. Rab1 e6 16. Rfd1 Qe7 17. Qd2 Qa3 18. Bb3 Rfd8 19. d5 exd5 20. exd5 Ne7 21.
+Bg5 Rd7 22. Qe3 Nxd5 23. Qh3 Qd6 24. Nf4 Nxf4 25. Bxf4 Qxf4 26. Qxd7 Be4 27.
+Bd5 Bxb1 28. Bxa8 Bxa2 29. Qc8+ Bf8 30. Qxa6 Bc4 31. Qc8 Kg7 32. g3 Qe5 33. Rd8
+Qe1+ 34. Kg2 Bf1+ 35. Kf3 Qe2+ 36. Kf4 Be7 37. Rg8+ Kh6 38. Be4 Bd6# 0-1

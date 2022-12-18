@@ -1,0 +1,16 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Graham, K."]
+[Black "Siemms, R."]
+[Result "0-1"]
+[ECO "C15"]
+[Opening "French"]
+[Variation "Winawer, fingerslip variation"]
+[HashCode "3cc71d9d"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. Bd2 dxe4 5. Qg4 Nf6 6. Qxg7 Rg8 7. Qh6 Qxd4
+8. O-O-O Bf8 9. Qh4 Rg4 10. Qh3 Qxf2 11. Be2 Rg6 12. g4 Qc5 13. Be3 Qe5 0-1
+

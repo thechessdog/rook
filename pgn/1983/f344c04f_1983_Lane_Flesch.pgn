@@ -1,0 +1,18 @@
+[Event "Lloyds Bank op"]
+[Site "London"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Lane, Gary W"]
+[Black "Flesch, János"]
+[Result "1-0"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "f344c04f"]
+[Epoch "Rook"]
+[WhiteID "3203301"]
+[WhiteCountry "AUS"]
+[BlackCountry "HUN"]
+
+1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. d4 e6 5. Nf3 Nf6 6. Be2 Be7 7. O-O O-O 8. c4
+Qf5 9. Nc3 Rd8 10. Nh4 1-0

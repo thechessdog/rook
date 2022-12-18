@@ -1,0 +1,20 @@
+[Event "corr EU"]
+[Site "corr EU"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Radeker"]
+[Black "Olafsson, Fridrik"]
+[Result "0-1"]
+[ECO "B51"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky (Nimzovich-Rossolimo, Moscow) attack"]
+[HashCode "5bb64906"]
+[Epoch "Rook"]
+[BlackID "2300052"]
+[BlackCountry "ISL"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Nd7 4. d4 Nf6 5. Nc3 cxd4 6. Qxd4 e5 7. Qd3 h6 8.
+Be3 Be7 9. Bc4 O-O 10. h3 Nb6 11. Bb3 Be6 12. Nh4 d5 13. Bxb6 Qxb6 14. exd5
+Nxd5 15. Nxd5 Bxd5 16. Ng6 fxg6 17. Bxd5+ Kh7 18. O-O Bc5 19. Bf3 Rad8 20. Qe2
+Qxb2 21. Rab1 Qd4 22. Rxb7 Qf4 23. Re1 e4 24. Qxe4 Rde8 25. Qxe8 Rxe8 26. Rxe8
+Qc1+ 27. Kh2 Bxf2 0-1

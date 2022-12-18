@@ -1,0 +1,20 @@
+[Event "corr CCCA"]
+[Site "corr CCCA"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Hebert, Jean"]
+[Black "Morgado, Juan Sebastian"]
+[Result "1/2-1/2"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "Nimzovich attack"]
+[HashCode "26bd5a8f"]
+[Epoch "Rook"]
+[WhiteID "2600048"]
+[WhiteCountry "CAN"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. Nc3 Nxc3 6. dxc3 Be7 7. Bf4 Nc6
+8. Qd2 Bg4 9. O-O-O Qd7 10. Be2 O-O-O 11. h3 Bh5 12. Rhe1 Rhe8 13. g4 Bg6 14.
+Bb5 a6 15. Ba4 b5 16. Bb3 Na5 17. c4 Nxc4 18. Bxc4 bxc4 19. Qd5 Qb5 20. Qa8+
+Qb8 21. Qxa6+ Qb7 22. Qxb7+ Kxb7 23. Re3 Bf8 24. b3 Rxe3 25. Bxe3 Ra8 26. Kb2
+cxb3 27. axb3 c5 28. b4 1/2-1/2

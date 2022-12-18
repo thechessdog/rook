@@ -1,0 +1,26 @@
+[Event "Budapest"]
+[Site "Budapest"]
+[Date "1982.01.01"]
+[Round "3"]
+[White "Zsinka, Laszlo"]
+[Black "Rajna, George"]
+[Result "1-0"]
+[ECO "A65"]
+[Opening "Benoni"]
+[Variation "6.e4"]
+[HashCode "2ac755d2"]
+[Epoch "Rook"]
+[BlackID "2801566"]
+[BlackCountry "ISR"]
+[WhiteCountry "HUN"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. Bd3 Bg7 8. Nge2
+O-O 9. O-O Na6 10. Bg5 h6 11. Bh4 g5 12. Bg3 Nh5 13. Qd2 Nb4 14. Bb1 c4 15. a3
+Nd3 16. Bxd3 cxd3 17. Qxd3 f5 18. f3 Nxg3 19. Nxg3 Qb6+ 20. Kh1 Qxb2 21. Nb5
+Qe5 22. Rab1 f4 23. Nh5 Bh8 24. Nc7 Rb8 25. Na6 g4 26. fxg4 Bxg4 27. Nxb8 Qxh5
+28. Rxb7 Be2 29. Qb1 f3 30. Rf2 Bd4 31. e5 Qf5 32. Qxf5 Rxf5 33. Nc6 Bxf2 34.
+Ne7+ Kf8 35. Nxf5 dxe5 36. h3 Bb6 37. gxf3 Bxf3+ 38. Kh2 Bxd5 39. Rd7 Be6 40.
+Rd6 Bxf5 41. Rf6+ Kg7 42. Rxf5 Kg6 43. Rf1 e4 44. Kg3 Bc7+ 45. Kg2 Bb6 46. a4
+Kg5 47. Rf7 Bc5 48. Rc7 Bb6 49. Rc6 Be3 50. Rd6 Kf5 51. Rd5+ Ke6 52. Rh5 Bg5
+53. h4 Bd2 54. Kf2 Kf6 55. Ke2 Kg6 56. Rd5 e3 57. a5 h5 58. Rd6+ Kf5 59. Ra6
+Kg4 60. Rxa7 Kxh4 61. a6 Bb4 62. Rc7 1-0

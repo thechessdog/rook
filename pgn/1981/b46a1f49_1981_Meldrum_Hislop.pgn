@@ -1,0 +1,18 @@
+[Event "corr ch-SCO"]
+[Site "corr ch-SCO"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Meldrum, M."]
+[Black "Hislop, A."]
+[Result "0-1"]
+[ECO "C77"]
+[Opening "Ruy Lopez"]
+[Variation "Wormald (Alapin) attack"]
+[HashCode "b46a1f49"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. Qe2 b5 6. Bb3 Bc5 7. a4 Rb8 8.
+axb5 axb5 9. Nc3 O-O 10. Nxb5 d5 11. exd5 e4 12. Ng5 Ne5 13. d4 exd3 14.
+Qxe5 Re8 15. Ne6 Rxb5 16. Nxd8 Rxe5+ 17. Be3 dxc2 18. Bxc2 Bxe3 19. Nc6
+Bxf2+ 20. Kxf2 Re8 21. Rhe1 Bd7 22. Ne5 Kf8 23. Ra7 Rxe5 0-1
+

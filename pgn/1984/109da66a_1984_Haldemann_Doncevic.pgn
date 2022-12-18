@@ -1,0 +1,19 @@
+[Event "Nova Park"]
+[Site "Nova Park"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Haldemann"]
+[Black "Doncevic, Dario"]
+[Result "0-1"]
+[ECO "D94"]
+[Opening "Gruenfeld"]
+[Variation "Opovcensky variation"]
+[HashCode "109da66a"]
+[Epoch "Rook"]
+[BlackID "14504553"]
+[BlackCountry "CRO"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. e3 Bg7 5. Nf3 O-O 6. Bd2 c5 7. dxc5 Na6 8. cxd5
+Nxc5 9. Bc4 Bf5 10. O-O Rc8 11. Qe2 Nfe4 12. Nxe4 Bxe4 13. Bb4 Na4 14. d6 exd6
+15. Rad1 Bxf3 16. gxf3 Nxb2 17. Rc1 Qg5+ 18. Kh1 Nxc4 19. Rxc4 Qb5 20. Rfc1 d5
+21. Bxf8 Rxc4 22. Rxc4 Qxc4 23. Qxc4 dxc4 24. Bb4 Bb2 0-1

@@ -1,0 +1,18 @@
+[Event "Missouri"]
+[Site "Missouri"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Jackson, Oliver A"]
+[Black "Townsend, C."]
+[Result "1-0"]
+[ECO "D53"]
+[Opening "QGD"]
+[Variation "4.Bg5 Be7"]
+[HashCode "9c3f8868"]
+[Epoch "Rook"]
+[WhiteID "403156"]
+[WhiteCountry "ENG"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. e3 Bd7 6. Nf3 Nc6 7. Bd3 O-O 8. O-O
+Bd6 9. cxd5 Nb4 10. e4 Nxd3 11. Qxd3 Qe8 12. e5 Be7 13. exf6 gxf6 14. Bh6 e5
+15. Nxe5 fxe5 16. Qg3+ Bg5 17. Qxg5+ 1-0

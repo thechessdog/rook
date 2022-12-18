@@ -1,0 +1,21 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Pfeuffer"]
+[Black "Klugmann"]
+[Result "0-1"]
+[ECO "D53"]
+[Opening "QGD"]
+[Variation "4.Bg5 Be7"]
+[HashCode "3c2321b6"]
+[Epoch "Rook"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. Nf3 Nbd7 6. c5 c6 7. Qc2 b6 8.
+b4 bxc5 9. bxc5 Qa5 10. Bd2 Qc7 11. e4 dxe4 12. Nxe4 e5 13. Nd6+ Bxd6 14.
+cxd6 Qxd6 15. Bc3 exd4 16. Nxd4 O-O 17. Be2 Re8 18. O-O Nd5 19. Bf3 Ne5 20.
+Rfe1 Nxf3+ 21. Nxf3 Bg4 22. Qd3 Bxf3 23. Qxf3 Qa3 24. Rec1 Re6 25. Qg3 Nxc3
+26. Qxc3 Qxc3 27. Rxc3 Rd8 28. Rac1 Red6 29. Kf1 Rd1+ 30. Rxd1 Rxd1+ 31.
+Ke2 Rd6 32. Ra3 Rd7 33. Ra6 Rc7 34. Kd3 g6 35. Kc4 Re7 36. Rxc6 Re2 37. Kb3
+Rxf2 38. Rc2 Rxc2 39. Kxc2 Kf8 40. Kd3 Ke7 41. Kc4 Kd6 42. Kb5 0-1
+

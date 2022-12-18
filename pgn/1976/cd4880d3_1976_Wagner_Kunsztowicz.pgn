@@ -1,0 +1,17 @@
+[Event "corr ch14-FRG"]
+[Site "corr ch14-FRG"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Wagner, U."]
+[Black "Kunsztowicz, Uwe"]
+[Result "1-0"]
+[ECO "E74"]
+[Opening "King's Indian"]
+[Variation "Averbakh, 6...c5"]
+[HashCode "cd4880d3"]
+[Epoch "Rook"]
+[BlackID "4602773"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Be2 O-O 6. Bg5 c5 7. d5 h6 8. Be3 b5
+9. cxb5 a6 10. a4 Qa5 11. Bd2 axb5 12. Bxb5 Qb4 13. f3 Ba6 14. Nce2 1-0

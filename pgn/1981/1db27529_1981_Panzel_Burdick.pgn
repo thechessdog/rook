@@ -1,0 +1,18 @@
+[Event "Kellner mem"]
+[Site "Kellner mem"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Panzel, Kenneth"]
+[Black "Burdick, Bruce"]
+[Result "1-0"]
+[ECO "B87"]
+[Opening "Sicilian"]
+[Variation "Sozin with ...a6 and ...b5"]
+[HashCode "1db27529"]
+[Epoch "Rook"]
+[WhiteCountry "HUN"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 b5 8. f3
+Be7 9. Be3 O-O 10. g4 h6 11. Qd2 Bd7 12. O-O-O Nc6 13. h4 Nh7 14. Rdg1 Bxh4 15.
+Nf5 exf5 16. gxf5 Bg5 17. f4 Bf6 18. Rxh6 Kh8 19. Rh3 Bxc3 20. Qxc3 Qf6 21.
+Qxf6 gxf6 22. Rgh1 1-0

@@ -1,0 +1,17 @@
+[Event "Dayton,OH"]
+[Site "Dayton,OH"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Judd, Olen"]
+[Black "Wall, Bill"]
+[Result "0-1"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "Italian variation"]
+[HashCode "f5428b19"]
+[Epoch "Rook"]
+[BlackCountry "USA"]
+
+1. e4 e5 2. Nf3 Nf6 3. Bc4 Nxe4 4. Nxe5 d5 5. Qe2 Bc5 6. Nd3 O-O 7. Nxc5 Nxc5
+8. Qh5 dxc4 9. Qxc5 Re8+ 10. Kd1 b6 11. Qxc4 Ba6 12. Qf4 Be2+ 13. Ke1 g5 14.
+Qg3 Bf3+ 15. Kf1 Re1+ 16. Kxe1 Qe7+ 17. Kf1 Qe2+ 0-1

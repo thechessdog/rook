@@ -1,0 +1,18 @@
+[Event "corr USCCC"]
+[Site "corr USCCC"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Weiss, Max"]
+[Black "Bashen"]
+[Result "1-0"]
+[ECO "B82"]
+[Opening "Sicilian"]
+[Variation "Scheveningen, Tal variation"]
+[HashCode "a3c8e499"]
+[Epoch "Rook"]
+[WhiteCountry "AUT"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. f4 Be7 7. Be3 Nc6 8. Qf3
+e5 9. Nxc6 bxc6 10. f5 Qa5 11. Bc4 Rb8 12. O-O-O O-O 13. Bg5 Rb4 14. Bb3 Rd8
+15. h4 h6 16. Bxf6 Bxf6 17. Qh5 d5 18. g4 Rxb3 19. cxb3 dxe4 20. g5 Rxd1+ 21.
+Rxd1 hxg5 22. hxg5 Be7 23. Rh1 1-0

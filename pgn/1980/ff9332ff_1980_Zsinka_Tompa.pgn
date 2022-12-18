@@ -1,0 +1,18 @@
+[Event "Budapest"]
+[Site "Budapest"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Zsinka, Laszlo"]
+[Black "Tompa, Janos"]
+[Result "1/2-1/2"]
+[ECO "E21"]
+[Opening "Nimzo-Indian"]
+[Variation "three knights variation"]
+[HashCode "ff9332ff"]
+[Epoch "Rook"]
+[BlackID "700193"]
+[BlackCountry "HUN"]
+[WhiteCountry "HUN"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Nf3 O-O 5. Bg5 d5 6. e3 h6 7. Bh4 b6 8. cxd5
+exd5 9. Bd3 Bb7 10. O-O Nbd7 1/2-1/2

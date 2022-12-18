@@ -1,0 +1,18 @@
+[Event "corr Tch-EU"]
+[Site "corr Tch-EU"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Schlachetka"]
+[Black "Azedo, F."]
+[Result "1-0"]
+[ECO "C26"]
+[Opening "Vienna"]
+[Variation "Paulsen-Mieses variation"]
+[HashCode "e0d4339e"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nc3 Nf6 3. g3 Bc5 4. Bg2 Nc6 5. d3 O-O 6. Nge2 d6 7. Na4 Bb6 8.
+Nxb6 axb6 9. O-O Qe7 10. f4 h6 11. h3 Kh7 12. Be3 Ne8 13. f5 g5 14. Qd2 f6
+15. Bf3 Qf7 16. h4 Rg8 17. hxg5 fxg5 18. Kf2 g4 19. Bxh6 Bxf5 20. Rh1 Rh8
+21. exf5 1-0
+

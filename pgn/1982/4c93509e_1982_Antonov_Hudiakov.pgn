@@ -1,0 +1,18 @@
+[Event "Gorki"]
+[Site "Gorki"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Antonov, V."]
+[Black "Hudiakov, A."]
+[Result "0-1"]
+[ECO "B01"]
+[Opening "Scandinavian"]
+[Variation "Anderssen counter-attack"]
+[HashCode "4c93509e"]
+[Epoch "Rook"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qa5 4. d4 e5 5. dxe5 Nc6 6. Bb5 Bd7 7. Qe2
+O-O-O 8. Nf3 Bb4 9. O-O Nge7 10. Bd2 Bg4 11. Bd3 Nd4 12. Qe3 Bxf3 13. gxf3
+Qxe5 14. f4 Qh5 15. f3 Nxc2 16. Qe2 Nxa1 17. Rxa1 Nf5 18. Nb5 Bc5+ 19. Kg2
+Rhe8 0-1
+

@@ -1,0 +1,21 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Merker, R."]
+[Black "Starck, E."]
+[Result "1-0"]
+[ECO "E38"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, 4...c5"]
+[HashCode "cc4db331"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 c5 5. dxc5 Bxc5 6. Nf3 d5 7. cxd5 Nxd5
+8. Nxd5 Qxd5 9. Bd2 Nc6 10. Rd1 Nb4 11. Qc3 Qf5 12. Rc1 Be7 13. Qb3 a5 14.
+a3 Nc6 15. e3 O-O 16. Bd3 Qh5 17. O-O g5 18. Bc3 Bd6 19. Qb5 f5 20. Be5 Be7
+21. Bc7 Bf6 22. Qb3 g4 23. Nd2 Qf7 24. Bb6 a4 25. Qa2 Bd7 26. Be2 Be5 27.
+f4 Bb8 28. Rfd1 Ne7 29. Ne4 Nd5 30. Ng5 Qe8 31. Rxd5 exd5 32. Qxd5+ Kg7 33.
+Qxb7 Bxf4 34. exf4 Rb8 35. Bd4+ Kh6 36. Qa6+ Qg6 37. Qa7 Qe8 38. Rc6+ Kh5
+39. Ne6 1-0
+

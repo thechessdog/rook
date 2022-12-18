@@ -1,0 +1,21 @@
+[Event "corr ch-NLD"]
+[Site "corr ch-NLD"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Jongman"]
+[Black "Schoemaker"]
+[Result "0-1"]
+[ECO "B33"]
+[Opening "Sicilian"]
+[Variation "Pelikan (Lasker/Sveshnikov) variation"]
+[HashCode "9e2cea7b"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. a4 Be6
+8. Bg5 a6 9. Na3 Rc8 10. Nc4 Nd4 11. Ne3 Be7 12. Bxf6 Bxf6 13. Bd3 Bg5 14.
+Ned5 O-O 15. O-O g6 16. f4 exf4 17. Bxa6 Nxc2 18. Bxb7 Rxc3 19. bxc3 Nxa1
+20. Bc6 Qc8 21. Bb5 Qc5+ 22. Kh1 f5 23. Qxa1 fxe4 24. c4 Bxd5 25. cxd5 Qxd5
+26. Rd1 Qe5 27. Bc4+ Kg7 28. Qxe5+ dxe5 29. a5 Rc8 30. Be6 Rc6 31. Bd7 Ra6
+32. Rd5 Bd8 33. Kg1 Rxa5 34. Rxa5 Bxa5 35. Kf2 Bb6+ 36. Ke2 Bg1 37. h3 Kf6
+38. Bc6 Kf5 39. Bd7+ Kg5 40. Bc6 e3 41. Be4 h6 42. Kf3 Kh4 0-1
+

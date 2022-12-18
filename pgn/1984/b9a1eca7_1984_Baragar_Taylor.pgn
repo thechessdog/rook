@@ -1,0 +1,20 @@
+[Event "Ottawa ch-CAN"]
+[Site "Ottawa ch-CAN"]
+[Date "1984.01.01"]
+[Round "12"]
+[White "Baragar, Fletcher"]
+[Black "Taylor, Gordon"]
+[Result "1/2-1/2"]
+[ECO "E53"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line with ...c5"]
+[HashCode "b9a1eca7"]
+[Epoch "Rook"]
+[WhiteID "2600447"]
+[BlackID "2600250"]
+[WhiteCountry "CAN"]
+[BlackCountry "CAN"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 c5 6. Nf3 d5 7. O-O cxd4 8. exd4
+dxc4 9. Bxc4 b6 10. Bg5 Bb7 11. Rc1 Nbd7 12. Re1 Rc8 13. Bd3 Be7 14. Qe2 Re8
+15. Bh4 Nd5 16. Bg3 Bb4 17. Qd2 N7f6 18. Ne5 1/2-1/2

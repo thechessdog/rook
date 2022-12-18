@@ -1,0 +1,31 @@
+[Event "Amsterdam"]
+[Site "Amsterdam"]
+[Date "1982.07.01"]
+[Round "5"]
+[White "Meulders, Richard"]
+[Black "Langeweg, Kick"]
+[Result "0-1"]
+[ECO "E48"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 O-O, 5.Bd3 d5"]
+[HashCode "0e0bf6d8"]
+[Epoch "Rook"]
+[WhiteID "200123"]
+[WhiteCountry "BEL"]
+[BlackID "1000160"]
+[BlackCountry "NED"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Ne2 dxc4 7. Bxc4 c5 8. O-O
+cxd4 9. exd4 Nbd7 10. a3 Be7 11. Be3 Nb6 12. Ba2 Bd7 13. Rc1 Bc6 14. Nf4 Nbd5
+15. Qd3 Qd6 16. g3 Rfd8 17. Nfxd5 Bxd5 18. Bf4 Qd7 19. Bb1 g6 20. Rfe1 Bc6 21.
+Rcd1 Nd5 22. Bd2 Nxc3 23. Bxc3 Qd5 24. Qe4 Qxe4 25. Bxe4 Bxe4 26. Rxe4 Bf6 27.
+Kg2 Rd5 28. f4 Rc8 29. Kf3 g5 30. fxg5 Bxg5 31. Re5 Rcd8 32. Rxd5 Rxd5 33. g4
+Bf6 34. a4 h5 35. h3 hxg4+ 36. hxg4 Kg7 37. Ke4 Kg6 38. Rh1 a6 39. Rg1 Rd8 40.
+Rh1 b5 41. axb5 axb5 42. b3 Bg7 43. Rh2 Ra8 44. Bb2 Ra2 45. Re2 Bh6 46. Kf3 Bg5
+47. Rg2 Bf6 48. Rf2 Be7 49. Re2 Bf6 50. Rf2 Bg7 51. Rg2 Ra8 52. Rh2 Bf6 53. Ke4
+Ra2 54. Re2 Be7 55. Kf3 Bb4 56. Rg2 Ra8 57. Ke4 Ra2 58. Kf3 Bf8 59. Re2 Bh6 60.
+Bc3 Ra3 61. Rb2 Ra1 62. Re2 Rf1+ 63. Rf2 Rc1 64. Bb2 Rb1 65. Re2 Rh1 66. Kg2
+Rd1 67. Bc3 Rd3 68. Rc2 Bg7 69. b4 Bxd4 70. Bd2 Rb3 71. Kf1 Rb2 72. Rxb2 Bxb2
+73. Ke2 Kf6 74. Bh6 Ba3 75. Bd2 Ke5 76. Kd3 Bb2 77. Bh6 Kd5 78. Bf8 Be5 79. Bh6
+Bd6 80. Bd2 Be7 81. Bc3 Bg5 82. Be1 e5 83. Bg3 e4+ 84. Ke2 Be7 85. Be1 Bf8 86.
+Ke3 Bh6+ 87. Kf2 Kc4 88. Ke2 Bg5 0-1

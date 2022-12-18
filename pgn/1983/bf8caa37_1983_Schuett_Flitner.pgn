@@ -1,0 +1,19 @@
+[Event "BL2-N 8283"]
+[Site "BL2-N 8283"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Schuett, Wilhelm"]
+[Black "Flitner, Sebastian"]
+[Result "0-1"]
+[ECO "E44"]
+[Opening "Nimzo-Indian"]
+[Variation "Fischer variation, 5.Ne2"]
+[HashCode "bf8caa37"]
+[Epoch "Rook"]
+[WhiteID "4631030"]
+[WhiteCountry "GER"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 b6 5. Ne2 O-O 6. a3 Bxc3+ 7. Nxc3 Bb7 8.
+Bd3 d6 9. O-O e5 10. dxe5 dxe5 11. Qc2 Qe7 12. b3 e4 13. Be2 Nbd7 14. Bb2 Ne5
+15. Rfd1 Rfd8 16. Rxd8+ Rxd8 17. Rd1 Bc6 18. Rxd8+ Qxd8 19. Nb5 Nd3 20. Nxa7
+Bb7 21. Nb5 Ne8 22. Nc3 Qg5 23. g3 Qf5 24. Nd1 Ne1 25. Qb1 Qh3 0-1

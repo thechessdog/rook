@@ -1,0 +1,17 @@
+[Event "Folsom"]
+[Site "Folsom"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Palaitis"]
+[Black "Borek, J."]
+[Result "0-1"]
+[ECO "C30"]
+[Opening "KGD"]
+[Variation "classical variation"]
+[HashCode "623fafa6"]
+[Epoch "Rook"]
+
+1. e4 e5 2. f4 Bc5 3. Nf3 d6 4. Bc4 Bg4 5. Nc3 Nc6 6. Nd5 Nge7 7. c3 Nxd5
+8. exd5 O-O 9. dxc6 e4 10. d4 exf3 11. gxf3 Qh4+ 12. Kd2 Bf5 13. Bxf7+ Rxf7
+14. dxc5 dxc5 15. Ke2 Re7+ 16. Be3 Rxe3+ 17. Kf1 Bh3+ 18. Kg1 Rae8 0-1
+

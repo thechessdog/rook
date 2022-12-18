@@ -1,0 +1,22 @@
+[Event "DDR"]
+[Site "DDR"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Fuchs, Reinhart"]
+[Black "Knaak, Rainer"]
+[Result "1-0"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Paulsen attack"]
+[HashCode "8d4322a8"]
+[Epoch "Rook"]
+[BlackID "4611250"]
+[BlackCountry "GER"]
+[WhiteID "4611357"]
+[WhiteCountry "GER"]
+
+1. e4 c5 2. Nf3 e6 3. c3 d5 4. e5 Nc6 5. d4 Qb6 6. a3 c4 7. Nbd2 Bd7 8. g3
+O-O-O 9. b3 cxb3 10. Nxb3 Na5 11. Nxa5 Qxa5 12. Bd2 Ba4 13. Qb1 Qc7 14. Be2 Ne7
+15. O-O Nc6 16. c4 dxc4 17. Rc1 Na5 18. Bxa5 Qxa5 19. Rxc4+ Bc6 20. Ng5 Rd7 21.
+Bf3 Rc7 22. Bxc6 bxc6 23. Qc2 Be7 24. Nxf7 Rf8 25. Nd6+ Kd7 26. Rc1 Qd5 27. Rc5
+Qf3 28. d5 Bxd6 29. Rxc6 Qxd5 30. Rxc7+ Bxc7 31. Qxc7+ Ke8 32. Rb1 1-0

@@ -1,0 +1,16 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Martin, G."]
+[Black "Ott, C."]
+[Result "1-0"]
+[ECO "C80"]
+[Opening "Ruy Lopez"]
+[Variation "open, Riga variation"]
+[HashCode "e493ceb9"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 exd4 7. Re1 b5
+8. Bb3 f5 9. Nxd4 Qf6 10. Nc3 Bd6 11. Nxe4 Qxd4 12. Nxd6+ 1-0
+

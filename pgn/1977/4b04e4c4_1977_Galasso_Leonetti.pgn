@@ -1,0 +1,18 @@
+[Event "corr Italy"]
+[Site "corr Italy"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Galasso"]
+[Black "Leonetti"]
+[Result "1-0"]
+[ECO "C10"]
+[Opening "French"]
+[Variation "Rubinstein variation"]
+[HashCode "4b04e4c4"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Nxf6+ Nxf6 7. Bd3
+Be7 8. Qe2 O-O 9. Bg5 c5 10. dxc5 Qa5+ 11. c3 Qxc5 12. O-O-O Rd8 13. Ne5
+Rd5 14. f4 b5 15. Bxf6 Bxf6 16. Be4 Rxd1+ 17. Rxd1 Rb8 18. Rd3 b4 19. Bxh7+
+Kf8 20. Qh5 Bxe5 21. fxe5 Qg1+ 22. Kc2 bxc3 23. Rd8+ Ke7 24. Qg5+ 1-0
+

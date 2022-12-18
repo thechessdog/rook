@@ -1,0 +1,23 @@
+[Event "Italy"]
+[Site "Italy"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Cantore, A."]
+[Black "Miotto, A."]
+[Result "0-1"]
+[ECO "C56"]
+[Opening "Two knights defence"]
+[HashCode "f922a342"]
+[Epoch "Rook"]
+
+1. e4 e5 2. d4 exd4 3. Bc4 Nf6 4. Nf3 Nc6 5. O-O Nxe4 6. Re1 d5 7. Bxd5
+Qxd5 8. Nc3 Qa5 9. Nxe4 Be6 10. Neg5 O-O-O 11. Nxe6 fxe6 12. Rxe6 Be7 13.
+Qe2 Bf6 14. Bd2 Qd5 15. Re1 d3 16. cxd3 Qxd3 17. b4 Qxe2 18. R6xe2 Rd5 19.
+a4 a6 20. Rc1 Rhd8 21. g3 Ne5 22. Nxe5 Rxd2 23. Rxd2 Rxd2 24. Nc4 Rd4 25.
+b5 axb5 26. axb5 Rd3 27. Rb1 Kd7 28. Kf1 Rd4 29. Ne3 g6 30. h4 Be7 31. Ke2
+Ke6 32. Rc1 Bd6 33. Nc4 Bb4 34. Rc2 Rd5 35. b6 c6 36. Rb2 Rb5 37. Kd3 Bc5
+38. Re2+ Kf6 39. Ne5 Bxb6 40. Nd7+ Kf7 41. Nxb6 Rxb6 42. Kc4 Rb5 43. Ra2
+Ke6 44. Re2+ Re5 45. Rb2 b5+ 46. Kd3 Kd6 47. Rb4 Kc5 48. Kc3 Re1 49. Rf4
+b4+ 50. Kb3 Rc1 51. h5 Rc3+ 52. Kb2 gxh5 53. Rh4 Rf3 54. Rxh5+ Kc4 55. Rh4+
+Kb5 0-1
+

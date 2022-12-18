@@ -1,0 +1,18 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Sandahl, Jan"]
+[Black "Stefansen, Gert"]
+[Result "1-0"]
+[ECO "B83"]
+[Opening "Sicilian"]
+[Variation "modern Scheveningen"]
+[HashCode "8d6aac13"]
+[Epoch "Rook"]
+[WhiteID "1441574"]
+[WhiteCountry "DEN"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be2 e6 7. Be3 Be7 8.
+O-O a6 9. f4 Bd7 10. Nb3 b5 11. Bf3 O-O 12. a3 Rc8 13. Ne2 g6 14. Qd2 e5 15. f5
+gxf5 16. Bh6 Re8 17. Qg5+ Kh8 18. Qg7# 1-0

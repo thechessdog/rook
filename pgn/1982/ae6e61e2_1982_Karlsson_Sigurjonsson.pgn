@@ -1,0 +1,20 @@
+[Event "Reykjavik op"]
+[Site "Reykjavik"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Karlsson, Hilmar"]
+[Black "Sigurjonsson, Johann O"]
+[Result "1-0"]
+[ECO "C45"]
+[Opening "Scotch"]
+[Variation "Schmidt variation"]
+[HashCode "ae6e61e2"]
+[Epoch "Rook"]
+[BlackID "2300710"]
+[BlackCountry "ISL"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nf6 5. Nc3 Bb4 6. Nxc6 bxc6 7. Bd3 d5 8.
+exd5 cxd5 9. O-O O-O 10. Bg5 c6 11. Ne2 Be7 12. c3 h6 13. Bf4 Bd6 14. Qd2 Bxf4
+15. Qxf4 Qb6 16. b3 Ba6 17. c4 Rfe8 18. Ng3 Qb8 19. Qh4 Qe5 20. Rac1 Rad8 21.
+Rfd1 d4 22. Nf5 c5 23. f4 Qe6 24. Re1 Qb6 25. Qg3 Nh5 26. Qg4 Rxe1+ 27. Rxe1
+Qb4 28. Rd1 Re8 29. Qxh5 Re1+ 30. Kf2 g6 31. Qxh6 gxf5 32. Bxf5 1-0

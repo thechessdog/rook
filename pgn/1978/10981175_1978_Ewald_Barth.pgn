@@ -1,0 +1,20 @@
+[Event "DDR"]
+[Site "DDR"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Ewald"]
+[Black "Barth"]
+[Result "0-1"]
+[ECO "A36"]
+[Opening "English"]
+[Variation "symmetrical, Botvinnik system reversed"]
+[HashCode "10981175"]
+[Epoch "Rook"]
+
+1. c4 c5 2. g3 Nc6 3. Bg2 g6 4. Nc3 Bg7 5. e3 e5 6. Nge2 Nge7 7. Nd5 O-O 8.
+O-O Rb8 9. Rb1 d6 10. a3 b5 11. Nxe7+ Nxe7 12. cxb5 Rxb5 13. d4 cxd4 14.
+exd4 Nf5 15. dxe5 dxe5 16. b4 Nd4 17. Be3 Bf5 18. Rb2 Rb6 19. Nc3 Qd7 20.
+Ne4 Rc8 21. Rd2 Bg4 22. f3 Bf5 23. g4 Bxe4 24. fxe4 Rbc6 25. Rdf2 Rc3 26.
+Bxd4 exd4 27. Ra2 Bh6 28. Bf3 d3 29. Kg2 Qe6 30. Ra1 R8c7 31. a4 Qe5 32.
+Qe1 Rc2+ 0-1
+

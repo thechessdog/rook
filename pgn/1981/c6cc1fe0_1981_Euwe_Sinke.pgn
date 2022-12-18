@@ -1,0 +1,17 @@
+[Event "corr NLD/K"]
+[Site "corr NLD/K"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Euwe, Max"]
+[Black "Sinke, H."]
+[Result "1-0"]
+[ECO "E62"]
+[Opening "King's Indian"]
+[Variation "fianchetto, Kavalek (Bronstein) variation"]
+[HashCode "c6cc1fe0"]
+[Epoch "Rook"]
+[WhiteCountry "NLD"]
+
+1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 O-O 5. Nc3 d6 6. Nf3 c6 7. O-O Qa5 8. d5
+Qb4 9. Nd2 Bd7 10. a3 Qb6 11. Nb3 cxd5 12. cxd5 Ng4 13. h3 Bxc3 14. bxc3 Ba4
+15. hxg4 Bxb3 16. Qd3 Rc8 17. Rb1 Rc4 18. Be3 Qb5 19. Rb2 1-0

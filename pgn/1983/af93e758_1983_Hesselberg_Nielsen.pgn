@@ -1,0 +1,19 @@
+[Event "Farum"]
+[Site "Farum"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Hesselberg, Leif"]
+[Black "Nielsen, Poul Erik"]
+[Result "1-0"]
+[ECO "C00"]
+[Opening "French"]
+[Variation "King's Indian attack"]
+[HashCode "af93e758"]
+[Epoch "Rook"]
+[WhiteID "1504061"]
+[WhiteCountry "DEN"]
+
+1. e4 e6 2. d3 c5 3. Nf3 d6 4. Be2 Be7 5. O-O Nf6 6. Nbd2 Nbd7 7. c3 b6 8. Re1
+Bb7 9. a3 Qc7 10. b4 cxb4 11. cxb4 Rc8 12. Bb2 O-O 13. Rc1 Qb8 14. Rxc8 Rxc8
+15. Nd4 d5 16. Bf1 e5 17. exd5 Nxd5 18. Nf5 Bf6 19. Ne4 Be7 20. Qg4 Bf8 21.
+Nh6+ Kh8 22. Nxf7+ Kg8 23. Qe6 1-0

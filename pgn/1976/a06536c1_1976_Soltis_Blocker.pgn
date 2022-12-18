@@ -1,0 +1,22 @@
+[Event "New York-Cleveland"]
+[Site "New York-Cleveland"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Soltis, Andrew"]
+[Black "Blocker, Calvin"]
+[Result "1-0"]
+[ECO "C77"]
+[Opening "Ruy Lopez"]
+[Variation "Wormald (Alapin) attack"]
+[HashCode "a06536c1"]
+[Epoch "Rook"]
+[BlackID "2000920"]
+[BlackCountry "USA"]
+[WhiteID "2000741"]
+[WhiteCountry "USA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. Qe2 b5 6. Bb3 Be7 7. a4 Bb7 8. axb5
+axb5 9. Rxa8 Qxa8 10. Nc3 O-O 11. Nd5 Nxd5 12. Bxd5 Nb4 13. Bxb7 Qxb7 14. d3 f6
+15. O-O d5 16. Nh4 g6 17. c3 Na6 18. Bh6 Rd8 19. b4 dxe4 20. dxe4 c5 21. Ra1
+cxb4 22. Qa2+ Kh8 23. g3 bxc3 24. Qf7 Rg8 25. Rxa6 c2 26. Ra1 b4 27. Qb3 Qxe4
+28. Rc1 Rc8 29. Qf7 Rg8 30. Qxe7 1-0

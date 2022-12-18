@@ -1,0 +1,17 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Demianova"]
+[Black "Libakova"]
+[Result "0-1"]
+[ECO "C45"]
+[Opening "Scotch"]
+[Variation "Pulling counter-attack"]
+[HashCode "d4a02248"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Qh4 5. Nxc6 Qxe4+ 6. Be3 Qxc6 7. Qe2
+Nf6 8. g3 Qxh1 9. f3 d5 10. Kd2 Ne4+ 11. Kd3 Bf5 12. Kd4 Bc5+ 13. Kxd5
+O-O-O+ 14. Ke5 Bxe3 15. Qxe3 Qxf1 16. fxe4 f6# 0-1
+

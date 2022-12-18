@@ -1,0 +1,23 @@
+[Event "Subotica"]
+[Site "Subotica"]
+[Date "1984.01.01"]
+[Round "5"]
+[White "Hulak, Krunoslav"]
+[Black "Rukavina, Josip"]
+[Result "0-1"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical system, 5.Be2"]
+[HashCode "b86f9410"]
+[Epoch "Rook"]
+[BlackID "14500191"]
+[BlackCountry "CRO"]
+[WhiteCountry "HRV"]
+
+1. e4 d6 2. d4 g6 3. Nf3 Nf6 4. Nc3 Bg7 5. Be2 O-O 6. O-O c6 7. Re1 Bg4 8. a4
+Bxf3 9. Bxf3 e5 10. Be3 a5 11. Qd2 Nbd7 12. Rad1 Re8 13. h3 Qc7 14. g3 Rad8 15.
+b3 exd4 16. Bxd4 Nc5 17. Qe3 Qb6 18. Bg2 Nh5 19. Re2 Bxd4 20. Qxd4 Ng7 21. Red2
+Nge6 22. Qe3 Qb4 23. h4 Na6 24. Bf1 Nac7 25. Bc4 Re7 26. Kg2 Ne8 27. Nd5 cxd5
+28. exd5 N8g7 29. dxe6 fxe6 30. Rd5 Kh8 31. Rb5 Qa3 32. Rxa5 Rf8 33. Bd3 Ref7
+34. f4 Qb2 35. Rb5 Qc3 36. Qe1 Qc7 37. Rd2 e5 38. fxe5 Nh5 39. Be4 Qc3 40. Rxb7
+Rf1 0-1

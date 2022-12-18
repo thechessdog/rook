@@ -1,0 +1,26 @@
+[Event "Baden-Baden"]
+[Site "Baden-Baden"]
+[Date "1980.10.01"]
+[Round "1"]
+[White "Van der Wiel, John T.H."]
+[Black "Hoelzl, Franz"]
+[Result "0-1"]
+[ECO "B32"]
+[Opening "Sicilian"]
+[Variation "Labourdonnais-Loewenthal (Kalashnikov) variation"]
+[HashCode "0bb02f33"]
+[Epoch "Rook"]
+[WhiteID "1000020"]
+[WhiteCountry "NED"]
+[BlackCountry "AUT"]
+[BlackID "1600044"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e5 5. Nb5 d6 6. c4 Be7 7. N1c3 a6 8. Na3
+Be6 9. Nd5 Nf6 10. Nxe7 Nxe7 11. Bd3 O-O 12. O-O Ng6 13. Be3 Ng4 14. Qd2 Qh4
+15. h3 Nxe3 16. fxe3 Rac8 17. Rad1 f6 18. Nb1 Nh8 19. b3 Nf7 20. Qf2 Qg5 21.
+Kh2 h5 22. Be2 h4 23. Nd2 b5 24. cxb5 axb5 25. Nf3 Qg3+ 26. Qxg3 hxg3+ 27. Kxg3
+Rc3 28. Bxb5 Ra8 29. Rd2 Rxe3 30. Bd3 Ng5 31. Kf2 Rxd3 32. Rxd3 Nxe4+ 33. Kg1
+Rxa2 34. Re3 Ng3 35. Rfe1 Nf5 36. Rd3 Ra6 37. g4 Ne7 38. Nd4 Kf7 39. Nxe6 Kxe6
+40. Kf2 Rb6 41. Ra1 e4 42. Re3 d5 43. Ra7 g5 44. Rc3 Ng6 45. Rcc7 Rxb3 46. Rg7
+Rb2+ 47. Kf1 Nf4 48. Rge7+ Kd6 49. Rf7 Ke5 50. Ra6 Rb1+ 51. Kf2 Nxh3+ 52. Ke3
+Rb3+ 53. Kd2 Kf4 0-1

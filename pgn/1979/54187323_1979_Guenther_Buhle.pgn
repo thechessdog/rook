@@ -1,0 +1,20 @@
+[Event "corr DDR-H"]
+[Site "corr DDR-H"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Guenther, F."]
+[Black "Buhle, K."]
+[Result "0-1"]
+[ECO "B89"]
+[Opening "Sicilian"]
+[Variation "Velimirovic attack"]
+[HashCode "54187323"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bc4 e6 7. Be3 Be7
+8. Qe2 O-O 9. O-O-O a6 10. Rhg1 Qc7 11. Bb3 Na5 12. g4 Nxb3+ 13. axb3 b5
+14. g5 Nd7 15. Qh5 g6 16. Qh4 Re8 17. f4 b4 18. Na2 Qb7 19. f5 Ne5 20. f6
+Bf8 21. Rg3 a5 22. c3 Bd7 23. Qf4 bxc3 24. bxc3 Nc6 25. Nxc6 Bxc6 26. Rg2
+Bxe4 27. Rb2 d5 28. b4 axb4 29. Nxb4 e5 30. Qf2 d4 31. Bxd4 exd4 32. Rxd4
+Bf5 33. Kd2 Rad8 34. Nd3 Qa6 0-1
+

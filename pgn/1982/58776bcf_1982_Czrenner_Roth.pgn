@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Czrenner, K."]
+[Black "Roth, F."]
+[Result "1-0"]
+[ECO "A00"]
+[Opening "Dunst (Sleipner, Heinrichsen) opening"]
+[HashCode "58776bcf"]
+[Epoch "Rook"]
+
+1. Nc3 d5 2. e4 dxe4 3. Nxe4 e5 4. Bc4 Nf6 5. Ng5 Bc5 6. Qe2 O-O 7. N1f3
+Nc6 8. O-O Bg4 9. c3 h6 10. Ne4 Bb6 11. h3 Bh5 12. Ng3 Re8 13. d3 Qd6 14.
+Nxh5 Nxh5 15. Ng5 Ng3 16. Qf3 Nxf1 17. Qxf7+ Kh8 18. Qxe8+ Rxe8 19. Nf7+
+Kh7 20. Nxd6 cxd6 21. Kxf1 Rf8 22. f3 1-0
+

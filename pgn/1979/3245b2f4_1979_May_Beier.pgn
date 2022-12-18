@@ -1,0 +1,20 @@
+[Event "corr DDR-H"]
+[Site "corr DDR-H"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "May, J."]
+[Black "Beier, D."]
+[Result "0-1"]
+[ECO "B40"]
+[Opening "Sicilian"]
+[Variation "Pin, Koch variation"]
+[HashCode "3245b2f4"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Bb4 6. e5 Ne4 7. Qg4 Nxc3
+8. Qxg7 Rf8 9. a3 Nb5+ 10. axb4 Nxd4 11. Bg5 Nxc2+ 12. Kd1 Qb6 13. Kxc2 Nc6
+14. Be3 Qxb4 15. Bd3 b6 16. Rhc1 Bb7 17. Kd1 Qb3+ 18. Ke1 Qxd3 19. Bh6
+O-O-O 20. Rc3 Qe4+ 21. Re3 Qb4+ 22. Kf1 Kb8 23. Bg5 Rg8 24. Qf6 Rg6 25. Qf4
+Qxb2 26. Rea3 Rdg8 27. Bh4 Qb5+ 28. Ke1 Rxg2 29. Kd2 Qb2+ 30. Ke3 R2g4 31.
+Qh6 Nxe5 0-1
+

@@ -1,0 +1,19 @@
+[Event "Malta"]
+[Site "Malta"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Guggenberger, Ilse D."]
+[Black "Gramignani, Rita"]
+[Result "1-0"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "9dac78ba"]
+[Epoch "Rook"]
+[WhiteID "4400542"]
+[BlackID "801518"]
+[WhiteCountry "COL"]
+[BlackCountry "ITA"]
+
+1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. d4 Nc6 5. Nf3 cxd4 6. cxd4 e5 7. dxe5 Qxd1+
+8. Kxd1 Bg4 9. Bf4 O-O-O+ 1-0

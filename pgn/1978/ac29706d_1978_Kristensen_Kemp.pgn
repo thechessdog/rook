@@ -1,0 +1,18 @@
+[Event "DEN-chJ int"]
+[Site "Ribe"]
+[Date "1978.??.??"]
+[Round "2"]
+[White "Kristensen, Henrik Lunden"]
+[Black "Kemp, Rasmus"]
+[Result "1-0"]
+[ECO "B00"]
+[Opening "KP"]
+[Variation "Nimzovich defence, Bogolyubov variation"]
+[HashCode "ac29706d"]
+[Epoch "Rook"]
+[WhiteID "1454501"]
+[WhiteCountry "DEN"]
+
+1. e4 Nc6 2. d4 d5 3. Nc3 dxe4 4. d5 Ne5 5. Qd4 Ng6 6. Bb5+ Bd7 7. Nge2 Nf6 8.
+Bg5 Bxb5 9. Nxb5 c6 10. dxc6 Qa5+ 11. Nec3 bxc6 12. Bxf6 cxb5 13. O-O-O Rd8 14.
+Qxe4 Qb6 15. Rxd8+ Qxd8 16. Rd1 Qc8 17. Nxb5 e6 18. Qa8 h6 19. Nc7# 1-0

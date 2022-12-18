@@ -1,0 +1,18 @@
+[Event "Buenos Aires"]
+[Site "Buenos Aires"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Behrensen, Jorge"]
+[Black "Tesone"]
+[Result "1-0"]
+[ECO "A46"]
+[Opening "Queen's pawn"]
+[Variation "Yusupov-Rubinstein system"]
+[HashCode "89195ff9"]
+[Epoch "Rook"]
+[WhiteCountry "ARG"]
+
+1. Nf3 Nf6 2. d4 e6 3. e3 b6 4. Bd3 Bb7 5. O-O c5 6. c4 Nc6 7. Nbd2 d5 8. b3
+Be7 9. Bb2 O-O 10. Qe2 cxd4 11. exd4 dxc4 12. bxc4 Re8 13. Rad1 Qc7 14. Ne5
+Rad8 15. Ndf3 Bd6 16. Ng5 Re7 17. f4 h6 18. Ngf3 Ne8 19. g4 Bxe5 20. fxe5 Red7
+21. g5 hxg5 22. Nxg5 g6 23. d5 exd5 24. e6 Re7 25. exf7+ 1-0

@@ -1,0 +1,18 @@
+[Event "corr USCCC"]
+[Site "corr USCCC"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Blajwas, H."]
+[Black "Carlson, Curtis"]
+[Result "1/2-1/2"]
+[ECO "A29"]
+[Opening "English"]
+[Variation "four knights, kingside fianchetto"]
+[HashCode "5fe2282a"]
+[Epoch "Rook"]
+[BlackID "2002868"]
+[BlackCountry "USA"]
+
+1. c4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. g3 Bb4 5. Nd5 e4 6. Nh4 Bc5 7. Bg2 O-O 8. O-O
+Re8 9. d3 exd3 10. Qxd3 Ne5 11. Qc2 c6 12. Be3 Bf8 13. Nxf6+ Qxf6 14. Rad1 d6
+15. Bd4 Qe6 1/2-1/2

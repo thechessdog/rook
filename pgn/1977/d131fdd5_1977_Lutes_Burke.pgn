@@ -1,0 +1,18 @@
+[Event "Cedar Point"]
+[Site "Cedar Point"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Lutes, W."]
+[Black "Burke, C."]
+[Result "1-0"]
+[ECO "C21"]
+[Opening "Danish gambit"]
+[Variation "Schlechter defence"]
+[HashCode "d131fdd5"]
+[Epoch "Rook"]
+
+1. e4 e5 2. d4 exd4 3. c3 dxc3 4. Bc4 cxb2 5. Bxb2 d5 6. Bxd5 Bb4+ 7. Nc3
+Bxc3+ 8. Bxc3 Nf6 9. Nf3 O-O 10. O-O c6 11. Bb3 Nxe4 12. Bb2 Bf5 13. Qe2
+Nd7 14. Rfd1 Qe7 15. Nd4 Bg6 16. f3 c5 17. Nb5 a6 18. Nc7 Rac8 19. Nd5 Qh4
+20. fxe4 Bh5 21. Ne7+ Qxe7 22. Qxh5 c4 23. Bxg7 1-0
+

@@ -1,0 +1,18 @@
+[Event "Cuba"]
+[Site "Cuba"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Hase, Juan Carlos"]
+[Black "Palermo, G."]
+[Result "1-0"]
+[ECO "B29"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rubinstein; Rubinstein counter-gambit"]
+[HashCode "3cde7977"]
+[Epoch "Rook"]
+[WhiteID "100722"]
+[WhiteCountry "ARG"]
+
+1. e4 c5 2. Nf3 Nf6 3. e5 Nd5 4. Nc3 e6 5. Nxd5 exd5 6. d4 Nc6 7. dxc5 Bxc5 8.
+Qxd5 d6 9. exd6 Qb6 10. Be3 Qxb2 11. Bc4 Qxa1+ 12. Ke2 Be6 13. d7+ Kd8 14. Qxc5
+Qxh1 15. Bxe6 Qxg2 16. Ng5 Qxh2 17. Nxf7+ Kc7 18. Qc4 1-0

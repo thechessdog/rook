@@ -1,0 +1,25 @@
+[Event "Bundesliga 8283"]
+[Site "Duitsland tt"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Tischer, Guenter"]
+[Black "Hess, Christian"]
+[Result "0-1"]
+[ECO "A59"]
+[Opening "Benko gambit"]
+[Variation "7.e4"]
+[HashCode "b7cdb0ad"]
+[Epoch "Rook"]
+[WhiteID "4601815"]
+[WhiteCountry "GER"]
+[BlackCountry "DEU"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. bxa6 Bxa6 6. Nc3 d6 7. e4 Bxf1 8.
+Kxf1 g6 9. Nf3 Bg7 10. h3 O-O 11. Kg1 Na6 12. Kh2 Qb6 13. Qe2 Nb4 14. Rd1 Rfb8
+15. Kg1 Qa6 16. Qxa6 Rxa6 17. Bg5 h6 18. Bh4 g5 19. Bg3 Nh5 20. Bh2 Nc2 21.
+Rab1 Rab6 22. e5 Nf4 23. Bxf4 gxf4 24. b3 dxe5 25. Na4 Rb4 26. Rbc1 Nd4 27.
+Rxc5 Nf5 28. Ne1 e4 29. Nc2 R4b7 30. Rc4 Nd6 31. Rc6 Ra7 32. Nd4 Rb4 33. Ne2 f3
+34. gxf3 exf3 35. Ng3 Be5 36. Rd3 Rf4 37. Re3 f6 38. Rc2 Ra5 39. Rd2 Kf7 40.
+Rdd3 Rh4 41. Rxf3 Rxh3 42. Kg2 Rh4 43. Rfe3 Rg4 44. Kf3 Rg8 45. Ne4 Nf5 46. Re1
+Nh4+ 47. Ke2 Rg4 48. Nec5 Ng2 49. Kd2 Nxe1 50. Kxe1 Bd4 51. b4 Bxc5 52. Nxc5
+Rxa2 53. Rb3 Rg1# 0-1

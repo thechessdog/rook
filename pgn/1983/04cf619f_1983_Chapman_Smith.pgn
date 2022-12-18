@@ -1,0 +1,18 @@
+[Event "Southport ch-BCF"]
+[Site "Southport ch-BCF"]
+[Date "1983.08.01"]
+[Round "10"]
+[White "Chapman, Terry P D"]
+[Black "Smith, B."]
+[Result "1-0"]
+[ECO "B13"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack"]
+[HashCode "04cf619f"]
+[Epoch "Rook"]
+[WhiteID "413399"]
+[WhiteCountry "ENG"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 Nc6 6. Nf3 Bg4 7. cxd5 Nxd5 8.
+Qb3 Bxf3 9. gxf3 Ndb4 10. Be3 e5 11. d5 Nb8 12. a3 N4a6 13. Qxb7 Nc7 14. Nb5
+Nba6 15. Nxc7+ Nxc7 16. Qc6+ Qd7 17. Bb5 1-0

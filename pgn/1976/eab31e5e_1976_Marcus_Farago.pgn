@@ -1,0 +1,23 @@
+[Event "Hoogovens-B"]
+[Site "Wijk aan Zee II"]
+[Date "1976.01.01"]
+[Round "2"]
+[White "Marcus, Joost"]
+[Black "Farago, Ivan"]
+[Result "0-1"]
+[ECO "C15"]
+[Opening "French"]
+[Variation "Winawer (Nimzovich) variation"]
+[HashCode "eab31e5e"]
+[Epoch "Rook"]
+[WhiteID "1000900"]
+[WhiteCountry "NED"]
+[BlackID "700134"]
+[BlackCountry "HUN"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. exd5 exd5 5. Bd3 Ne7 6. Ne2 Nbc6 7. Bf4 Bxc3+
+8. bxc3 Bf5 9. c4 O-O 10. O-O Qd7 11. Re1 Rfe8 12. Bg3 Nb4 13. Qd2 Nxd3 14.
+cxd3 Nc6 15. Rad1 h6 16. f3 Rad8 17. Bh4 f6 18. Bf2 dxc4 19. dxc4 Ne5 20. c5
+Nd3 21. Rf1 Nxc5 22. Ng3 Be6 23. Qb4 Na4 24. d5 c5 25. dxe6 Qxd1 26. Qxb7 Qd5
+27. Qxa7 Ra8 28. Qf7+ Kh8 29. Nh5 Rg8 30. Bh4 Raf8 31. Nf4 Qd4+ 32. Bf2 Qxf4
+33. Qd7 Rd8 34. Qf7 Rde8 0-1

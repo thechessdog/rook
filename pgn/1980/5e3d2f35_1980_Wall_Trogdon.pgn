@@ -1,0 +1,15 @@
+[Event "Dayton,OH"]
+[Site "Dayton,OH"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Wall, Bill"]
+[Black "Trogdon"]
+[Result "1-0"]
+[ECO "C25"]
+[Opening "Vienna game"]
+[HashCode "5e3d2f35"]
+[Epoch "Rook"]
+[WhiteCountry "USA"]
+
+1. e4 e5 2. Nc3 Bb4 3. Nd5 Bc5 4. b4 Bxf2+ 5. Kxf2 Qh4+ 6. g3 Qxe4 7. Nxc7+ Kd8
+8. Nxa8 Qxh1 9. Qh5 g6 10. Qh4+ f6 11. Bg2 1-0

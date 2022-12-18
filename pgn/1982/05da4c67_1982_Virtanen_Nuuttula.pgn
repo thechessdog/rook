@@ -1,0 +1,22 @@
+[Event "corr Heilimo mem"]
+[Site "corr Heilimo mem"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Virtanen"]
+[Black "Nuuttula"]
+[Result "0-1"]
+[ECO "C36"]
+[Opening "KGA"]
+[Variation "Abbazia defence, modern variation"]
+[HashCode "05da4c67"]
+[Epoch "Rook"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 d5 4. exd5 Nf6 5. c4 c6 6. d4 Bb4+ 7. Nc3 cxd5
+8. Bd3 O-O 9. O-O dxc4 10. Bxc4 Qc7 11. Qb3 Bxc3 12. bxc3 Nc6 13. Qc2 Ne7
+14. Ne5 g5 15. Qb3 Nc6 16. Ba3 Na5 17. Qb4 Bf5 18. Qe7 Qxe7 19. Bxe7 Nxc4
+20. Nxc4 Bd3 21. Rfd1 Nd5 22. Bxf8 Bxc4 23. Ba3 Nxc3 24. Rd2 b5 25. Bb4 Ne4
+26. Rdd1 a5 27. Be1 a4 28. Bb4 Rd8 29. h3 h5 30. Ba5 Rd7 31. Rab1 Kg7 32.
+Rb2 Kg6 33. Bb4 f5 34. Rc2 h4 35. Be1 Kh5 36. Bf2 g4 37. Kh1 Ng5 38. Be1
+gxh3 39. Kh2 Bd5 40. Rf2 Bxg2 41. Rxg2 hxg2 42. Kxg2 h3+ 43. Kf2 h2 44. Kg2
+Rg7 0-1
+

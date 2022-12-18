@@ -1,0 +1,32 @@
+[Event "Capablanca mem-A 13th"]
+[Site "Cienfuegos"]
+[Date "1976.05.17"]
+[Round "1"]
+[White "Kozma, Julius"]
+[Black "Sigurjonsson, Gudmundur"]
+[Result "0-1"]
+[ECO "E95"]
+[Opening "King's Indian"]
+[Variation "orthodox, 7...Nbd7, 8.Re1"]
+[HashCode "e295d1fd"]
+[Epoch "Rook"]
+[WhiteID "14934019"]
+[BlackID "2300079"]
+[WhiteCountry "SVK"]
+[BlackCountry "ISL"]
+
+1. Nf3 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. d4 O-O 6. Be2 e5 7. O-O Nbd7 8. Re1
+c6 9. Rb1 a5 10. Bf1 Re8 11. d5 Nc5 12. b3 Qc7 13. a3 cxd5 14. cxd5 Bg4 15. h3
+Bd7 16. Bd2 Nh5 17. b4 axb4 18. axb4 Na6 19. g3 Qd8 20. Bg5 f6 21. Bd2 Rc8 22.
+Nh4 Bf8 23. Qf3 Ng7 24. Bd3 Be7 25. Rec1 Rf8 26. Bh6 f5 27. exf5 Bxh4 28. gxh4
+Qxh4 29. Bxg7 Kxg7 30. Qg4 Qe7 31. Ne2 Nc7 32. Qg2 Bxf5 33. Bxf5 Rxf5 34. Ng3
+Rff8 35. b5 Qd7 36. b6 Nb5 37. Rxc8 Rxc8 38. Nh5+ Kh8 39. Nf6 Qf5 40. Rxb5 Rc1+
+41. Kh2 Qxf6 42. Qg3 Qf5 43. Qe3 Rd1 44. Rb3 e4 45. Kg2 Qxd5 46. Qc3+ Kg8 47.
+Qc8+ Kg7 48. Re3 Rd3 49. Qd8 Rd2 50. Qe7+ Qf7 51. Qxf7+ Kxf7 52. Rxe4 Rb2 53.
+Rc4 Rxb6 54. Rc7+ Ke6 55. Rxh7 d5 56. Kf3 Rb2 57. Ke3 g5 58. Rg7 Kf6 59. Rd7
+Ke5 60. Re7+ Kd6 61. Rg7 Kc5 62. Rc7+ Kd6 63. Rg7 Rb3+ 64. Kd4 Rb4+ 65. Kd3 b5
+66. Rxg5 Ra4 67. Rh5 Ra5 68. Rh8 Ra3+ 69. Kc2 Rf3 70. h4 Rxf2+ 71. Kb3 Rf3+ 72.
+Kc2 Rh3 73. h5 Kc5 74. Rc8+ Kb4 75. Rh8 d4 76. h6 d3+ 77. Kd2 Kb3 78. Rb8 b4
+79. Rb6 Ka3 80. Ra6+ Kb2 81. Rg6 b3 82. Rb6 Ka2 83. Kc3 Kb1 84. Kd2 b2 85. Ra6
+Rh2+ 86. Kxd3 Kc1 87. Rc6+ Kd1 88. Rb6 Rh3+ 89. Ke4 Kc2 90. Rc6+ Rc3 91. Rb6
+Rb3 0-1

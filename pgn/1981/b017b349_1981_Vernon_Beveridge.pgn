@@ -1,0 +1,17 @@
+[Event "corr Scotland"]
+[Site "corr Scotland"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Vernon, J."]
+[Black "Beveridge"]
+[Result "1-0"]
+[ECO "C37"]
+[Opening "KGA"]
+[Variation "double Muzio gambit"]
+[HashCode "b017b349"]
+[Epoch "Rook"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. Bc4 g4 5. O-O gxf3 6. Qxf3 Qf6 7. e5 Qxe5
+8. Bxf7+ Kxf7 9. d4 Qxd4+ 10. Be3 Qf6 11. Bxf4 Ne7 12. Nc3 Nf5 13. Rae1 d5
+14. Be5 Qg6 15. Bxh8 c6 16. Nxd5 Qh6 17. Bd4 Bd6 18. Ne3 Kg8 19. Nxf5 1-0
+

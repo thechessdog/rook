@@ -1,0 +1,21 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Chianec"]
+[Black "Pukshansky, Mikhail B"]
+[Result "0-1"]
+[ECO "A64"]
+[Opening "Benoni"]
+[Variation "fianchetto, 11...Re8"]
+[HashCode "3161e831"]
+[Epoch "Rook"]
+[BlackID "4102932"]
+[BlackCountry "RUS"]
+
+1. d4 Nf6 2. c4 c5 3. d5 d6 4. Nc3 g6 5. g3 Bg7 6. Bg2 O-O 7. Nf3 e6 8. O-O
+exd5 9. cxd5 a6 10. a4 Nbd7 11. Nd2 Re8 12. Nc4 Nb6 13. Na3 Bd7 14. h3 Qc7 15.
+Bf4 Nh5 16. Bd2 Nxa4 17. Nxa4 b5 18. g4 Nf6 19. Nc3 b4 20. Qc2 bxa3 21. Rxa3
+Bb5 22. Re1 Nd7 23. f4 Nb6 24. b3 Qe7 25. Bf3 Qh4 26. Kg2 g5 27. Nxb5 gxf4 28.
+Bxf4 Qxe1 29. Nxd6 Nxd5 30. Qf5 Rxe2+ 31. Bxe2 Qxe2+ 32. Kg3 Nxf4 33. Qxf7+ Kh8
+34. Qxf4 0-1

@@ -1,0 +1,19 @@
+[Event "Atlanta"]
+[Site "Atlanta"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Wall, Bill"]
+[Black "Sherman, Stan"]
+[Result "1-0"]
+[ECO "B81"]
+[Opening "Sicilian"]
+[Variation "Scheveningen, Keres attack"]
+[HashCode "a396b801"]
+[Epoch "Rook"]
+[WhiteCountry "USA"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. g4 h6 7. g5 hxg5 8. Bxg5
+Be7 9. f4 a6 10. Bg2 Ng8 11. Bxe7 Qxe7 12. Nf3 Nh6 13. Qe2 Nc6 14. O-O-O O-O
+15. h4 Qf6 16. Qd2 Rd8 17. Kb1 Rb8 18. Rdg1 b5 19. Bf1 b4 20. Nd1 Bb7 21. Rh3
+Kh8 22. Rhg3 Rg8 23. Rg5 Ne7 24. Bd3 Ng6 25. e5 Qxf4 26. Bxg6 Qxf3 27. Rh5 Rgd8
+28. Rxh6+ Kg8 29. Bh5 Qc6 30. Rxg7+ 1-0

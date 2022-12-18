@@ -1,0 +1,21 @@
+[Event "New York"]
+[Site "New York"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Dlugy, Maxim"]
+[Black "Schiller, Eric"]
+[Result "0-1"]
+[ECO "A04"]
+[Opening "Reti opening"]
+[HashCode "709429d0"]
+[Epoch "Rook"]
+[WhiteID "2000075"]
+[BlackID "2002973"]
+[WhiteCountry "USA"]
+[BlackCountry "USA"]
+
+1. Nf3 e6 2. g3 b6 3. Bg2 Bb7 4. O-O Be7 5. b3 f5 6. Bb2 Nf6 7. d3 O-O 8. Nbd2
+Qe8 9. c4 Qh5 10. Qc2 d6 11. e4 fxe4 12. dxe4 e5 13. Ne1 Nbd7 14. Nd3 Rf7 15.
+h3 Raf8 16. Rae1 h6 17. f4 Qg6 18. Kh2 Nh5 19. Rf3 exf4 20. gxf4 Bh4 21. f5 Qg5
+22. Ree3 g6 23. Qc3 Rg7 24. Nf4 gxf5 25. Nf1 fxe4 26. Re2 exf3 27. Ne6 fxg2 28.
+Nxg5 gxf1=Q 29. Qxg7+ Nxg7 30. Ne4 0-1

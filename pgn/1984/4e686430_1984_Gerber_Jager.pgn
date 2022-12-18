@@ -1,0 +1,19 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Gerber"]
+[Black "Jager"]
+[Result "0-1"]
+[ECO "E74"]
+[Opening "King's Indian"]
+[Variation "Averbakh, 6...c5"]
+[HashCode "4e686430"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Be2 O-O 6. Bg5 c5 7. d5 h6 8. Be3
+e6 9. Qd2 exd5 10. exd5 Kh7 11. h3 Na6 12. Nf3 Ng8 13. O-O-O Qa5 14. a3 b5
+15. cxb5 Nb4 16. Bc4 a6 17. b6 Rb8 18. Nd4 cxd4 19. Bxd4 Bxd4 20. Qxd4 Bf5
+21. g4 Nc2 22. Qf4 Nxa3 23. gxf5 Nxc4 24. Qxc4 Rfc8 25. fxg6+ fxg6 26. Qe4
+Rxb6 27. Rhg1 Rxc3+ 0-1
+

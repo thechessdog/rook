@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Polledrini"]
+[Black "Cesi"]
+[Result "1-0"]
+[ECO "C13"]
+[Opening "French"]
+[Variation "Albin-Alekhine-Chatard attack"]
+[HashCode "c170b890"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Nfd7 6. h4 Bxg5 7. hxg5 Qxg5
+8. Nf3 Qe7 9. Bd3 Nb6 10. Qd2 Bd7 11. O-O-O h6 12. Nb5 Bxb5 13. Bxb5+ c6
+14. Bd3 f6 15. exf6 Qxf6 16. Ng5 g6 17. Nxe6 Qf7 18. Rde1 Kd7 19. Qc3 Re8
+20. Nc5+ Kd8 21. Nxb7+ Qxb7 22. Rxe8+ Kxe8 23. Bxg6+ Kf8 24. Qf3+ Kg8 25.
+Rxh6 Qg7 26. Qe3 Na6 27. Qe6+ Kf8 28. Rh8+ Qxh8 29. Qf7# 1-0
+

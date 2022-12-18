@@ -1,0 +1,19 @@
+[Event "corr ch-CSSR"]
+[Site "corr ch-CSSR"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Halouzka"]
+[Black "Hrach"]
+[Result "1-0"]
+[ECO "D45"]
+[Opening "QGD semi-Slav"]
+[Variation "5...Nd7"]
+[HashCode "5a97ac86"]
+[Epoch "Rook"]
+
+1. d4 d5 2. c4 e6 3. Nf3 c6 4. e3 Nf6 5. Nc3 Nbd7 6. cxd5 exd5 7. Bd3 Bd6
+8. O-O O-O 9. Qc2 Re8 10. h3 Nf8 11. a4 a5 12. b3 Qe7 13. Bb2 Ng6 14. Rae1
+Ne4 15. Nh2 f5 16. Ne2 Qg5 17. f4 Qe7 18. Nf3 Be6 19. Rc1 Bb4 20. Nc3 Kh8
+21. Ne5 Nxe5 22. dxe5 Qh4 23. Qe2 g5 24. Nxe4 fxe4 25. f5 exd3 26. Qxd3 Kg8
+27. fxe6 Rxe6 28. Qf5 Rae8 29. Qf7+ Kh8 30. Rf6 Rxe5 31. Qxe8+ 1-0
+

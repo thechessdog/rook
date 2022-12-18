@@ -1,0 +1,23 @@
+[Event "Kiel"]
+[Site "Kiel"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Neumann, Joachim"]
+[Black "Parma, Bruno"]
+[Result "0-1"]
+[ECO "B33"]
+[Opening "Sicilian"]
+[Variation "Pelikan, Chelyabinsk variation"]
+[HashCode "0365b748"]
+[Epoch "Rook"]
+[WhiteID "4608259"]
+[WhiteCountry "GER"]
+[BlackID "14600706"]
+[BlackCountry "SLO"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6 8.
+Na3 b5 9. Nd5 Be7 10. Bxf6 Bxf6 11. c3 O-O 12. Nc2 Bg5 13. Bd3 Be6 14. Ncb4
+Nxb4 15. Nxb4 a5 16. Nd5 Bxd5 17. exd5 Rb8 18. O-O f5 19. Qe2 b4 20. cxb4 Rxb4
+21. Qc2 e4 22. Bc4 Bf6 23. Rab1 Rb8 24. a3 Qc7 25. b3 Bd4 26. Kh1 Bc5 27. a4
+Qe7 28. Rbe1 Qe5 29. f3 Rbe8 30. fxe4 fxe4 31. Rxf8+ Kxf8 32. Qe2 Kg8 33. Qg4
+e3 34. Bd3 Bb4 35. Rf1 e2 0-1

@@ -1,0 +1,20 @@
+[Event "corr BDF/H"]
+[Site "corr BDF/H"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Bonnmann, R."]
+[Black "Spenk, W."]
+[Result "1-0"]
+[ECO "A68"]
+[Opening "Benoni"]
+[Variation "four pawns attack"]
+[HashCode "dd3df0a3"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. f4 Bg7 8.
+Nf3 O-O 9. Be2 b5 10. e5 dxe5 11. fxe5 Ng4 12. Bg5 Qb6 13. O-O c4+ 14. Kh1
+Nf2+ 15. Rxf2 Qxf2 16. Ne4 Qb6 17. Be7 Re8 18. Nf6+ Bxf6 19. exf6 Nd7 20.
+d6 Qe3 21. Qd2 Qxd2 22. Nxd2 Rb8 23. Bf3 Ne5 24. Bd5 Bb7 25. Nf3 Nd7 26.
+Bxf7+ Kxf7 27. Ng5+ Kg8 28. f7+ Kg7 29. fxe8=Q Rxe8 30. Rd1 a5 31. Rd4 Rc8
+32. Ne6+ Kf7 33. Nd8+ 1-0
+

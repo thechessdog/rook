@@ -1,0 +1,17 @@
+[Event "Italy"]
+[Site "Italy"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Maresca, F."]
+[Black "Pellegrini, R."]
+[Result "1-0"]
+[ECO "E58"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line with 8...Bxc3"]
+[HashCode "a76dfbc7"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 c5 7. O-O Nc6 8.
+a3 Bxc3 9. bxc3 Qc7 10. Bb2 dxc4 11. Bxc4 e5 12. h3 e4 13. Nd2 Ne7 14. Bb3
+b5 15. c4 Be6 16. cxb5 Bxb3 17. Qxb3 Qb7 18. dxc5 1-0
+

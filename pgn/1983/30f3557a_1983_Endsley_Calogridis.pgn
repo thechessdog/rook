@@ -1,0 +1,17 @@
+[Event "Austin,TX"]
+[Site "Austin,TX"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Endsley, B."]
+[Black "Calogridis"]
+[Result "0-1"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "30f3557a"]
+[Epoch "Rook"]
+
+1. e4 c5 2. c3 d6 3. d4 Nf6 4. Bd3 g6 5. Nf3 Bg7 6. O-O O-O 7. h3 Nc6 8.
+Be3 b6 9. Nbd2 Bb7 10. Qe2 cxd4 11. Nxd4 d5 12. Rad1 Ne5 13. exd5 Nxd3 14.
+Qxd3 Qxd5 15. N2f3 e5 16. c4 Qd6 0-1
+

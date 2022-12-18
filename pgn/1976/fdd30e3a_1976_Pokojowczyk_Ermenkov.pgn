@@ -1,0 +1,23 @@
+[Event "Lublin"]
+[Site "Lublin"]
+[Date "1976.01.01"]
+[Round "3"]
+[White "Pokojowczyk, Jerzy"]
+[Black "Ermenkov, Evgenij"]
+[Result "0-1"]
+[ECO "B69"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...a6 defence, 11.Bxf6"]
+[HashCode "fdd30e3a"]
+[Epoch "Rook"]
+[BlackID "2900106"]
+[BlackCountry "FID"]
+[WhiteID "1100718"]
+[WhiteCountry "POL"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd2 a6 8.
+O-O-O Bd7 9. f4 Be7 10. Nf3 b5 11. Bxf6 Bxf6 12. Qxd6 Be7 13. Qd2 b4 14. Ne2
+Ra7 15. Ned4 Qb8 16. Nxc6 Bxc6 17. Ne5 Bxe4 18. Qe3 Qa8 19. Bc4 O-O 20. Rhe1
+Bg6 21. g4 Rc7 22. Qb3 a5 23. f5 exf5 24. Nxg6 hxg6 25. gxf5 a4 26. Qd3 gxf5
+27. Rg1 Qc6 28. Rxg7+ Kxg7 29. Rg1+ Qg6 30. Rxg6+ fxg6 31. Qe2 Bg5+ 32. Kb1 Re7
+33. Qf2 Re4 34. Bd3 Bh4 0-1

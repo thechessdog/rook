@@ -1,0 +1,19 @@
+[Event "Cheliabinsk"]
+[Site "Cheliabinsk"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Sveshnikov, Evgeny"]
+[Black "Ivkov, Borislav"]
+[Result "1-0"]
+[ECO "C55"]
+[Opening "Two knights defence"]
+[HashCode "2ede1c0b"]
+[Epoch "Rook"]
+[WhiteID "4100638"]
+[WhiteCountry "RUS"]
+[BlackID "900141"]
+[BlackCountry "SRB"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d4 exd4 5. O-O d5 6. exd5 Nxd5 7. Ng5 Be6 8.
+Re1 Be7 9. Rxe6 fxe6 10. Nxe6 Qd7 11. Bxd5 Nd8 12. Qh5+ g6 13. Qe5 Nf7 14.
+Nxc7+ Kf8 15. Qxh8+ Nxh8 16. Bh6# 1-0

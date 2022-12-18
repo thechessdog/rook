@@ -1,0 +1,19 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Hort, Vlastimil"]
+[Black "Scotland"]
+[Result "1-0"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...e6"]
+[HashCode "b72bfd95"]
+[Epoch "Rook"]
+[WhiteID "4600029"]
+[WhiteCountry "GER"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 e6 6. Nf3 Be7 7. Bg5 O-O 8. a3
+dxc4 9. Bxc4 Nbd7 10. O-O Nb6 11. Ba2 Nbd5 12. Ne5 Bd7 13. Qd3 Re8 14. Rae1 Rc8
+15. Qh3 Nxc3 16. bxc3 Rc7 17. Re3 Bc8 18. Rfe1 Nd5 19. Nxf7 Kxf7 20. Rf3+ Kg8
+21. Bb1 g6 22. Rf7 h5 23. Qd3 1-0

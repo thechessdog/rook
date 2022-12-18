@@ -1,0 +1,19 @@
+[Event "corr DDR-M"]
+[Site "corr DDR-M"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Cherek, G."]
+[Black "Schimron, H."]
+[Result "0-1"]
+[ECO "E59"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line"]
+[HashCode "38c76730"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 d5 5. Bd3 c5 6. Nf3 O-O 7. O-O Nc6 8.
+a3 Bxc3 9. bxc3 dxc4 10. Bxc4 Qc7 11. Ba2 e5 12. h3 e4 13. Nh2 Bf5 14. Bb2
+Rad8 15. Qe2 Rfe8 16. f4 exf3 17. Rxf3 Bg6 18. Rxf6 gxf6 19. Ng4 Kg7 20.
+Qf2 f5 21. d5 fxg4 22. dxc6 Qxc6 23. c4+ Kf8 24. hxg4 Rd3 25. Bf6 Rexe3 26.
+Qf4 Re6 27. Qb8+ Re8 28. Qf4 Kg8 29. Rf1 Qd6 0-1
+

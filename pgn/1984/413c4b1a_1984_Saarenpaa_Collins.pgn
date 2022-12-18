@@ -1,0 +1,18 @@
+[Event "corr EUR/K tt"]
+[Site "corr EUR/K tt"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Saarenpaa, Toivo"]
+[Black "Collins, L."]
+[Result "1-0"]
+[ECO "B40"]
+[Opening "Sicilian"]
+[Variation "Anderssen variation"]
+[HashCode "413c4b1a"]
+[Epoch "Rook"]
+[WhiteID "505650"]
+[WhiteCountry "FIN"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Ndb5 Bb4 7. a3 Bxc3+ 8.
+Nxc3 d5 9. exd5 exd5 10. Bd3 O-O 11. O-O h6 12. Bf4 d4 13. Nb5 Nd5 14. Qf3 Nxf4
+15. Qxf4 Be6 16. Nc7 1-0

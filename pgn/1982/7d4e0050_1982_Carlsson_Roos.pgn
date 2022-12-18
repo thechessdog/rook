@@ -1,0 +1,18 @@
+[Event "corr EUR/K tt"]
+[Site "corr EUR/K tt"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Carlsson, I."]
+[Black "Roos, Piet"]
+[Result "1-0"]
+[ECO "B07"]
+[Opening "Pirc"]
+[Variation "Byrne variation"]
+[HashCode "7d4e0050"]
+[Epoch "Rook"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Bg5 Nbd7 5. f4 h6 6. Bh4 Nh5 7. f5 Bg7 8.
+Bc4 c5 9. Bxf7+ Kxf7 10. fxg6+ Kxg6 11. Qg4+ Kh7 12. Qf5+ Kg8 13. Qxh5 Qf8
+14. Nd5 Nf6 15. Bxf6 Bxf6 16. Ne2 Qf7 17. Nxf6+ exf6 18. Ng3 Qxh5 19. Nxh5
+f5 20. O-O fxe4 21. Rf6 cxd4 22. Raf1 Kh7 23. Rxd6 1-0
+

@@ -1,0 +1,20 @@
+[Event "corr DDR-PK"]
+[Site "corr DDR-PK"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Unger, G."]
+[Black "Wiedenhoft, L."]
+[Result "1-0"]
+[ECO "B10"]
+[Opening "Caro-Kann"]
+[Variation "anti-anti-Caro-Kann defence"]
+[HashCode "e06605f0"]
+[Epoch "Rook"]
+
+1. e4 c6 2. c4 d5 3. cxd5 cxd5 4. exd5 Nf6 5. Nc3 Nxd5 6. Nf3 g6 7. Qb3 Nb6
+8. Bb5+ N8d7 9. Ne5 e6 10. d4 Bg7 11. Ne4 O-O 12. Bg5 f6 13. Bxd7 Nxd7 14.
+Qxe6+ Kh8 15. Nf7+ Rxf7 16. Qxf7 fxg5 17. O-O Nf8 18. d5 Bf5 19. Rfe1 Nd7
+20. Nd6 Ne5 21. Qxb7 Rb8 22. Nf7+ Nxf7 23. Qxf7 Bxb2 24. Rac1 Qg8 25. Qe7
+Qxd5 26. Rc7 Qg8 27. Re5 Rf8 28. Qd6 g4 29. Rxa7 Ba1 30. a4 g5 31. a5 Bg6
+32. Rd7 Bf7 33. Rd8 Rxd8 34. Qf6+ Qg7 35. Qxd8+ Qg8 36. Qxg8+ 1-0
+

@@ -1,0 +1,23 @@
+[Event "Mosbach Elo"]
+[Site "Mosbach Elo"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Raupp, Thomas"]
+[Black "Berner, Wolfram"]
+[Result "1-0"]
+[ECO "A93"]
+[Opening "Dutch"]
+[Variation "stonewall, Botwinnik variation"]
+[HashCode "9b34c45c"]
+[Epoch "Rook"]
+[WhiteID "4601610"]
+[WhiteCountry "GER"]
+
+1. c4 f5 2. d4 e6 3. g3 Nf6 4. Bg2 d5 5. Nf3 Be7 6. O-O O-O 7. b3 c6 8. Qc2 Qe8
+9. Ne5 Nbd7 10. Nd3 Nh5 11. e3 g5 12. f3 Qg6 13. Ba3 Bxa3 14. Nxa3 Qf6 15. Qc3
+Qh6 16. Rae1 Ndf6 17. Ne5 Nd7 18. Nd3 Ndf6 19. Nf2 Bd7 20. Nc2 Rf7 21. Nb4 Be8
+22. Nbd3 Nd7 23. e4 dxc4 24. bxc4 f4 25. g4 Ng7 26. e5 Nf8 27. Ne4 Ng6 28. Ndf2
+Nh4 29. Nh3 Ngf5 30. gxf5 Nxf5 31. Nf6+ Kh8 32. Nf2 Rd8 33. Bh3 Ne3 34. N6g4
+Nxg4 35. Bxg4 Rfd7 36. Rd1 Qg6 37. Kh1 h5 38. Bh3 Rg7 39. Rg1 Qh6 40. Ne4 g4
+41. fxg4 hxg4 42. Bxg4 b5 43. Nf6 c5 44. Bxe6 cxd4 45. Qf3 Rg3 46. Rxg3 fxg3
+47. Qxg3 Bc6+ 48. Bd5 1-0

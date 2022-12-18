@@ -1,0 +1,26 @@
+[Event "BL2-N 8081"]
+[Site "BL2-N 8081"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Juergens, H."]
+[Black "Smietana, T."]
+[Result "1-0"]
+[ECO "D93"]
+[Opening "Gruenfeld with Bf4    e3"]
+[HashCode "57e1d9c8"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. Nc3 d5 5. Bf4 O-O 6. e3 Bg4 7. Be2 c6 8.
+O-O Bxf3 9. Bxf3 dxc4 10. Qe2 Nd5 11. Bxb8 Rxb8 12. Qxc4 e6 13. Rfd1 Qh4
+14. Ne4 h5 15. Nc5 Rfd8 16. Bxd5 Rxd5 17. Qc2 Qe7 18. Rac1 h4 19. h3 Rbd8
+20. Ne4 Rf5 21. Nc3 Bh6 22. Rd3 Bg7 23. Rcd1 a6 24. a3 Bf8 25. e4 Rf4 26.
+d5 e5 27. b4 Qc7 28. dxc6 Rxd3 29. Rxd3 Qxc6 30. Qe2 f5 31. exf5 e4 32. Re3
+gxf5 33. Qa2+ Kg7 34. Ne2 Bd6 35. Qb2+ Kg6 36. Rc3 Qd5 37. Qc1 e3 38. Nxf4+
+Bxf4 39. fxe3 Bb8 40. Qf1 Qe5 41. Qd3 Qh2+ 42. Kf1 Bg3 43. Ke2 Qxg2+ 44.
+Kd1 Qxh3 45. Rc5 Qg4+ 46. Kd2 Qf3 47. Kc3 h3 48. Rc8 Be5+ 49. Kc2 Qg2+ 50.
+Kb3 Qe4 51. Qd7 Qxe3+ 52. Ka4 b5+ 53. Ka5 Kg5 54. Rg8+ Kf4 55. Rf8 Qxa3+
+56. Kb6 Qe3+ 57. Kxa6 Qe4 58. Qd2+ Kf3 59. Qd1+ Ke3 60. Qe1+ Kf4 61. Qh4+
+Ke3 62. Qxh3+ Ke2 63. Qh5+ Ke3 64. Qh3+ Ke2 65. Rc8 Bd4 66. Qh2+ Bf2 67.
+Qh5+ Kd2 68. Qg6 Qd4 69. Qg5+ Be3 70. Qg2+ Bf2 71. Qg5+ Be3 72. Qg2+ Bf2
+73. Rc5 Ke1 74. Qf3 Qd6+ 75. Rc6 1-0
+

@@ -1,0 +1,21 @@
+[Event "Nordic-tt"]
+[Site "Oslo"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Szymczak, Zbigniew"]
+[Black "Petersen, G."]
+[Result "1-0"]
+[ECO "E52"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line with ...b6"]
+[HashCode "e7b5e79c"]
+[Epoch "Rook"]
+[WhiteID "1100424"]
+[WhiteCountry "POL"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 d5 5. Bd3 O-O 6. Nf3 b6 7. O-O Bb7 8. cxd5
+exd5 9. Bd2 c5 10. a3 Bxc3 11. Bxc3 c4 12. Bc2 Nbd7 13. Nd2 b5 14. f3 Re8 15.
+Re1 Qb6 16. Rb1 Qc7 17. e4 h6 18. e5 Nh7 19. f4 a5 20. Qh5 Ndf8 21. f5 f6 22.
+Nf3 Nd7 23. e6 Ndf8 24. Bd2 Re7 25. Kh1 Bc6 26. Qg4 Kh8 27. Bf4 Qb7 28. Bd6
+Ree8 29. e7 Nd7 30. Qh5 Kg8 31. h4 b4 32. axb4 axb4 33. Ra1 b3 34. Rxa8 Qxa8
+35. Bb1 Qc8 36. g4 Nb6 37. g5 hxg5 38. hxg5 fxg5 39. Nxg5 Nf6 40. Qf7+ Kh8 1-0

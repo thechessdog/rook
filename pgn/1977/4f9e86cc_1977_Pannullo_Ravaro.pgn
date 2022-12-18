@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Pannullo, U."]
+[Black "Ravaro, E."]
+[Result "0-1"]
+[ECO "C40"]
+[Opening "Latvian"]
+[Variation "Fraser defence"]
+[HashCode "4f9e86cc"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 f5 3. Nxe5 Nc6 4. Qh5+ g6 5. Nxg6 Nf6 6. Qh3 hxg6 7. Qxh8
+Qe7 8. Qh4 d5 9. d3 Nd4 10. Na3 fxe4 11. dxe4 Bg4 12. Be3 O-O-O 13. f3
+Nxf3+ 14. gxf3 Bxf3 15. Bh3+ Kb8 16. Rf1 dxe4 17. c3 Qd6 18. Bg2 Ng4 19.
+Bxf3 Nxe3 20. Qxe4 Qd2# 0-1
+

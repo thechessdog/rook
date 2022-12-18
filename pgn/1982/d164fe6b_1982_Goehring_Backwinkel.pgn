@@ -1,0 +1,21 @@
+[Event "Bundesliga 8182"]
+[Site "Duitsland tt"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Goehring, Karl-Heinz"]
+[Black "Backwinkel, Paul"]
+[Result "0-1"]
+[ECO "E95"]
+[Opening "King's Indian"]
+[Variation "orthodox, 7...Nbd7, 8.Re1"]
+[HashCode "d164fe6b"]
+[Epoch "Rook"]
+[BlackID "4600932"]
+[BlackCountry "GER"]
+[WhiteCountry "GER"]
+
+1. d4 Nf6 2. c4 d6 3. Nf3 Nbd7 4. Nc3 e5 5. e4 g6 6. Be2 Bg7 7. O-O O-O 8. Re1
+c6 9. Bf1 Ng4 10. dxe5 Ndxe5 11. h3 Nxf3+ 12. Qxf3 Ne5 13. Qg3 a5 14. f4 Nd7
+15. Be3 a4 16. a3 Qe7 17. Rad1 Nc5 18. Bd4 Bxd4+ 19. Rxd4 Ra6 20. Red1 Rb6 21.
+Qf2 Rb3 22. Qc2 Ne6 23. Rxd6 Nxf4 24. Qf2 Qg5 25. Kh2 Nh5 26. Nxa4 Bxh3 27. Nc3
+Be6 28. R1d2 Nf6 29. Kg1 Rxc3 0-1

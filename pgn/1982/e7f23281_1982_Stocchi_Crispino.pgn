@@ -1,0 +1,18 @@
+[Event "Italy"]
+[Site "Italy"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Stocchi"]
+[Black "Crispino"]
+[Result "0-1"]
+[ECO "E62"]
+[Opening "King's Indian"]
+[Variation "fianchetto with ...Nc6"]
+[HashCode "e7f23281"]
+[Epoch "Rook"]
+
+1. Nf3 Nf6 2. g3 g6 3. Bg2 Bg7 4. c4 O-O 5. Nc3 d6 6. d4 Nc6 7. e3 a6 8.
+O-O Rb8 9. a4 Na5 10. Nd2 c5 11. d5 e6 12. f4 exd5 13. Nxd5 Nxd5 14. Bxd5
+Nc6 15. Qf3 Re8 16. Ne4 Nb4 17. Nf2 b5 18. axb5 Nxd5 19. Qxd5 Be6 20. Qd3
+axb5 21. cxb5 c4 22. Qa3 Rxb5 23. Rd1 d5 24. e4 d4 0-1
+

@@ -1,0 +1,20 @@
+[Event "EU-ch U20"]
+[Site "Groningen"]
+[Date "1981.??.??"]
+[Round "4"]
+[White "Brionne, Thierry"]
+[Black "Feistenauer, Fred"]
+[Result "0-1"]
+[ECO "E40"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Taimanov variation"]
+[HashCode "b3f34b79"]
+[Epoch "Rook"]
+[WhiteID "606642"]
+[BlackID "1600508"]
+[WhiteCountry "FRA"]
+[BlackCountry "AUT"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 Nc6 5. Bd3 e5 6. Ne2 d5 7. cxd5 Nxd5 8. O-O
+exd4 9. exd4 O-O 10. Qc2 h6 11. a3 Be7 12. Rd1 Be6 13. Nxd5 Bxd5 14. Nf4 Bf6
+15. Nxd5 Qxd5 16. Be4 Nxd4 17. Qd3 Qe6 18. Rb1 Rad8 19. Bf4 Qg4 0-1

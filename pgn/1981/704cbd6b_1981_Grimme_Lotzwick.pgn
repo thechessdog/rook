@@ -1,0 +1,18 @@
+[Event "RLN 8081"]
+[Site "RLN 8081"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Grimme, S."]
+[Black "Lotzwick, H."]
+[Result "0-1"]
+[ECO "B17"]
+[Opening "Caro-Kann"]
+[Variation "Steinitz variation"]
+[HashCode "704cbd6b"]
+[Epoch "Rook"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Ng3 e6 7. Bd3 Bd6
+8. O-O O-O 9. Re1 Qc7 10. Qe2 Re8 11. Ne5 Nf8 12. Nh5 Nxh5 13. Qxh5 Re7 14.
+Re3 f6 15. Rh3 Bxe5 16. Bxh7+ Nxh7 17. Qxh7+ Kf8 18. Qg6 Rf7 19. Rh8+ Ke7
+20. dxe5 Qxe5 21. Be3 Qd6 22. Rg8 e5 23. Rxg7 Be6 24. Re1 0-1
+

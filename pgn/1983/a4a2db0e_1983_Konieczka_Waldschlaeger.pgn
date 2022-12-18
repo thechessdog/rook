@@ -1,0 +1,22 @@
+[Event "BL2-N 8283"]
+[Site "BL2-N 8283"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Konieczka, Frank"]
+[Black "Waldschlaeger, Juergen"]
+[Result "1-0"]
+[ECO "C05"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation"]
+[HashCode "a4a2db0e"]
+[Epoch "Rook"]
+[WhiteID "4607104"]
+[WhiteCountry "GER"]
+[BlackID "4631145"]
+[BlackCountry "GER"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. f4 c5 6. c3 Nc6 7. Ndf3 Be7 8. g3
+cxd4 9. cxd4 f5 10. exf6 Nxf6 11. Bh3 O-O 12. Ne2 Qb6 13. O-O Bd7 14. Kg2 Rac8
+15. Nc3 Rce8 16. Re1 Bd6 17. b3 Bc8 18. Bb2 a6 19. Rc1 Re7 20. Na4 Qd8 21. Ne5
+Ne4 22. Nxc6 bxc6 23. Rxc6 g5 24. Rxe4 dxe4 25. d5 Bb7 26. Qg4 e5 27. Qxg5+ Rg7
+28. Be6+ Kh8 29. Rxd6 Qxg5 30. fxg5 e3 31. Bxe5 1-0

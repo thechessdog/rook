@@ -1,0 +1,21 @@
+[Event "Gladsaxe"]
+[Site "Gladsaxe"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Mortensen, Erling"]
+[Black "Kristensen, Bjarke Hautop"]
+[Result "1-0"]
+[ECO "B38"]
+[Opening "Sicilian"]
+[Variation "accelerated fianchetto, Maroczy bind, 6.Be3"]
+[HashCode "3886bb6f"]
+[Epoch "Rook"]
+[WhiteID "1400045"]
+[WhiteCountry "DEN"]
+
+1. e4 g6 2. d4 Bg7 3. c4 c5 4. Nf3 cxd4 5. Nxd4 Nc6 6. Be3 b6 7. Nc3 Bb7 8. Be2
+Nf6 9. f4 O-O 10. Bf3 Rc8 11. e5 Ne8 12. O-O Na5 13. Bxb7 Nxb7 14. Qe2 d6 15.
+e6 f5 16. b4 Nf6 17. Nd5 Ng4 18. Rac1 Qe8 19. Nb5 Nd8 20. Nxa7 Ra8 21. Nb5 Nxe6
+22. Bxb6 Qd7 23. Rfe1 Kf7 24. Nbc7 Nxc7 25. Qxe7+ Qxe7 26. Rxe7+ Kg8 27. Rxc7
+Rxa2 28. h3 Bb2 29. Rd1 Nf6 30. Nxf6+ Bxf6 31. Bd4 Ra4 32. b5 Bxd4+ 33. Rxd4
+Rd8 34. Rd5 Rb4 35. Kh2 Kf8 36. Rxh7 1-0

@@ -1,0 +1,18 @@
+[Event "WchT U26 fin-B"]
+[Site "Caracas"]
+[Date "1976.??.??"]
+[Round "3"]
+[White "Perez, L."]
+[Black "Azadharf, Farrokh"]
+[Result "1-0"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Lipnitzky attack"]
+[HashCode "f53555bf"]
+[Epoch "Rook"]
+[BlackID "612472"]
+[BlackCountry "FRA"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Qe2 b5 8. Bb3
+Nbd7 9. Be3 Nc5 10. f3 Bb7 11. O-O-O b4 12. Na4 Qa5 13. Nxc5 dxc5 14. Nxe6 fxe6
+15. Bxe6 Qc7 16. Qc4 Bc6 17. e5 Bb5 18. Qf4 Qc6 19. Qf5 1-0

@@ -1,0 +1,21 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Gutman, Lev"]
+[Black "Vitolinsh, Alvis"]
+[Result "0-1"]
+[ECO "E46"]
+[Opening "Nimzo-Indian"]
+[Variation "Reshevsky variation"]
+[HashCode "3712a54b"]
+[Epoch "Rook"]
+[WhiteID "4600177"]
+[WhiteCountry "GER"]
+[BlackCountry "LVA"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Ne2 b5 6. cxb5 a6 7. Ng3 Bb7 8. Bd2
+Bxc3 9. Bxc3 axb5 10. Bxb5 Bxg2 11. Rg1 Bc6 12. Nh5 Nxh5 13. Qxh5 Bxb5 14. Qh6
+g6 15. d5 e5 16. Bxe5 f6 17. Rxg6+ hxg6 18. Qxg6+ Kh8 19. Kd2 Bd3 20. Kxd3 Qe7
+21. e4 Qg7 22. Qh5+ Kg8 23. Bd4 c5 24. Bxc5 Rc8 25. f4 Na6 26. Bf2 Nb4+ 27. Ke2
+Rxa2 0-1

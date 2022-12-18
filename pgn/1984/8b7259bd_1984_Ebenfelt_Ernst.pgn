@@ -1,0 +1,22 @@
+[Event "Linkoping"]
+[Site "Linkoping"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Ebenfelt, Anders"]
+[Black "Ernst, Thomas"]
+[Result "0-1"]
+[ECO "B81"]
+[Opening "Sicilian"]
+[Variation "Scheveningen, Keres attack"]
+[HashCode "8b7259bd"]
+[Epoch "Rook"]
+[BlackID "1700065"]
+[BlackCountry "SWE"]
+[WhiteID "1700774"]
+[WhiteCountry "SWE"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. g4 a6 7. g5 Nfd7 8. Bg2
+Be7 9. f4 O-O 10. h4 Nc6 11. h5 Nxd4 12. Qxd4 e5 13. Qd3 exf4 14. Bxf4 Nc5 15.
+Qg3 Ne6 16. Nd5 Bxg5 17. Bxd6 Re8 18. e5 Nf4 19. Bc7 Bh4 20. Rxh4 Qxh4 21. Kf2
+Qxg3+ 22. Kxg3 Nxg2 23. Nb6 Ne3 24. Nxa8 Be6 25. Nb6 Nxc2 26. Rc1 Nd4 27. Bd6
+0-1

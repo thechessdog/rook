@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Seeliger"]
+[Black "Maeder"]
+[Result "0-1"]
+[ECO "B87"]
+[Opening "Sicilian"]
+[Variation "Sozin with ...a6 and ...b5"]
+[HashCode "6e97961c"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 b5 8.
+O-O Be7 9. f4 O-O 10. f5 b4 11. Na4 e5 12. Ne2 Bb7 13. Ng3 Nbd7 14. Re1 Bc6
+15. Bg5 Qc7 16. c3 a5 17. Nh5 Nxe4 18. Rxe4 Bxg5 19. Rg4 Bf6 20. Rxg7+ Kh8
+21. Rg3 Rg8 22. Qe2 Qa7+ 23. Kf1 Bh4 24. Rxg8+ Rxg8 25. g3 Rg5 26. Bc2 0-1
+

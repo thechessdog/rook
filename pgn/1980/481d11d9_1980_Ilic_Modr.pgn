@@ -1,0 +1,20 @@
+[Event "Prague"]
+[Site "Prague"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Ilic, Zoran"]
+[Black "Modr, Bretislav"]
+[Result "1-0"]
+[ECO "D76"]
+[Opening "Neo-Gruenfeld, 6.cd Nxd5, 7.O-O Nb6"]
+[HashCode "481d11d9"]
+[Epoch "Rook"]
+[WhiteID "15001350"]
+[WhiteCountry "MKD"]
+[BlackCountry "CZE"]
+
+1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 d5 5. cxd5 Nxd5 6. Nf3 O-O 7. O-O Nb6 8.
+Nc3 Nc6 9. d5 Na5 10. e4 c6 11. Bg5 h6 12. Bf4 cxd5 13. Nxd5 Nc6 14. Qc1 Nxd5
+15. exd5 Nb4 16. Bxh6 Nxd5 17. Bxg7 Kxg7 18. Rd1 e6 19. Ne5 Qa5 20. Ng4 Rh8 21.
+Qc4 Nf6 22. Nxf6 Kxf6 23. Rd5 exd5 24. Qd4+ Ke7 25. Qxh8 b6 26. b4 Qxb4 27.
+Bxd5 Be6 28. Qxa8 Qd4 29. Re1 1-0

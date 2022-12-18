@@ -1,0 +1,19 @@
+[Event "Cardinal Open,OH"]
+[Site "Cardinal Open,OH"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Scales, Leonard"]
+[Black "Chiarelli, Joseph"]
+[Result "1-0"]
+[ECO "B79"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, 12.h4"]
+[HashCode "adea5fa4"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6 5. Nc3 Bg7 6. Be3 Nf6 7. Bc4 d6
+8. f3 O-O 9. Qd2 Bd7 10. h4 Qa5 11. O-O-O Rfc8 12. Bb3 Ne5 13. h5 Nxh5 14.
+g4 Nf6 15. Kb1 b5 16. Bh6 Bh8 17. Nd5 Qd8 18. Nf5 Nxd5 19. Bxd5 Nc4 20. Qf4
+Be5 21. Bxf7+ Kxf7 22. Nxd6+ Kg8 23. Qf7+ Kh8 24. Bg7+ Bxg7 25. Rxh7+ Kxh7
+26. Rh1# 1-0
+

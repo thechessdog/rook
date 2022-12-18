@@ -1,0 +1,20 @@
+[Event "IBM"]
+[Site "Amsterdam"]
+[Date "1976.07.01"]
+[Round "9"]
+[White "Ivkov, Borislav"]
+[Black "Farago, Ivan"]
+[Result "1/2-1/2"]
+[ECO "E55"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Gligoric system, Bronstein variation"]
+[HashCode "caca816d"]
+[Epoch "Rook"]
+[WhiteID "900141"]
+[WhiteCountry "SRB"]
+[BlackID "700134"]
+[BlackCountry "HUN"]
+
+1. d4 e6 2. c4 Nf6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 c5 7. O-O dxc4 8. Bxc4
+Nbd7 9. Qe2 b6 10. Rd1 cxd4 11. exd4 Bb7 12. Bd2 Rc8 13. Ba6 Bxa6 14. Qxa6 Bxc3
+15. Bxc3 1/2-1/2

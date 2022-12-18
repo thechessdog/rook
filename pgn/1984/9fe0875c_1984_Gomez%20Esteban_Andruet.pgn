@@ -1,0 +1,19 @@
+[Event "Rome-B"]
+[Site "Rome"]
+[Date "1984.??.??"]
+[Round "6"]
+[White "Gomez Esteban, Juan Mario"]
+[Black "Andruet, Gilles"]
+[Result "1-0"]
+[ECO "E17"]
+[Opening "Queen's Indian"]
+[Variation "anti-Queen's Indian system"]
+[HashCode "9fe0875c"]
+[Epoch "Rook"]
+[BlackCountry "FRA"]
+[WhiteID "2200163"]
+[WhiteCountry "ESP"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2 Be7 6. Nc3 O-O 7. Qc2 c5 8. d5
+exd5 9. Ng5 g6 10. Qd2 Na6 11. h4 Nc7 12. h5 gxh5 13. cxd5 d6 14. b3 b5 15. Rh2
+b4 16. Nce4 Ncxd5 17. Nxh7 Nxh7 18. Qh6 1-0

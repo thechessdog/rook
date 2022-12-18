@@ -1,0 +1,18 @@
+[Event "Dayton,OH"]
+[Site "Dayton,OH"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Beard, Brian"]
+[Black "Bath, John"]
+[Result "1-0"]
+[ECO "A27"]
+[Opening "English"]
+[Variation "three knights system"]
+[HashCode "26e29524"]
+[Epoch "Rook"]
+[BlackID "2018438"]
+[BlackCountry "USA"]
+
+1. c4 e5 2. Nc3 Nc6 3. Nf3 f5 4. d3 Nf6 5. g3 d6 6. Bg2 g6 7. O-O Bg7 8. Be3
+O-O 9. Qc1 Rf7 10. Ng5 Re7 11. Nd5 Re8 12. Nxf6+ Bxf6 13. Bd5+ Kf8 14. Nxh7+
+Kg7 15. Nxf6 Qxf6 16. Bg5 1-0

@@ -1,0 +1,19 @@
+[Event "Hoogovens-B"]
+[Site "Wijk aan Zee II"]
+[Date "1982.01.01"]
+[Round "8"]
+[White "Hjartarson, Johann"]
+[Black "Langeweg, Kick"]
+[Result "1/2-1/2"]
+[ECO "E14"]
+[Opening "Queen's Indian"]
+[Variation "4.e3"]
+[HashCode "8944f61e"]
+[Epoch "Rook"]
+[WhiteID "2300044"]
+[WhiteCountry "ISL"]
+[BlackID "1000160"]
+[BlackCountry "NED"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. e3 Bb7 5. Bd3 d5 6. b3 Bd6 7. O-O O-O 8. Bb2
+Nbd7 9. Nbd2 Qe7 10. Ne5 Ne4 11. Nxd7 1/2-1/2

@@ -1,0 +1,24 @@
+[Event "Bundesliga 8081"]
+[Site "Duitsland tt"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Kreutzkamp, Reinhold"]
+[Black "Lenz, Juergen"]
+[Result "1-0"]
+[ECO "B11"]
+[Opening "Caro-Kann"]
+[Variation "two knights, 3...Bg4"]
+[HashCode "b386ce88"]
+[Epoch "Rook"]
+[WhiteID "4606230"]
+[WhiteCountry "GER"]
+[BlackID "4603010"]
+[BlackCountry "GER"]
+
+1. e4 c6 2. Nc3 d5 3. Nf3 Bg4 4. h3 Bxf3 5. Qxf3 Nf6 6. d3 dxe4 7. Nxe4 Nbd7 8.
+g3 e6 9. Nxf6+ Nxf6 10. Bg2 Bd6 11. O-O Qc7 12. c3 O-O 13. d4 e5 14. dxe5 Bxe5
+15. Qf5 Nd7 16. Rd1 Nb6 17. Be3 g6 18. Qc2 Rad8 19. b3 Rxd1+ 20. Rxd1 Rd8 21.
+c4 Rd7 22. a4 Qd8 23. Rxd7 Qxd7 24. a5 Nc8 25. a6 bxa6 26. Qe4 Bc7 27. Qxc6
+Qxc6 28. Bxc6 a5 29. Bh6 Bb6 30. Kg2 Bc5 31. Kf3 Nb6 32. Be3 Bxe3 33. Kxe3 Kf8
+34. Kd4 Ke7 35. c5 Nd7 36. Bxd7 Kxd7 37. Kd5 h6 38. h4 f6 39. g4 a6 40. c6+ Kc7
+41. Kc5 h5 42. gxh5 gxh5 43. f3 f5 44. f4 1-0

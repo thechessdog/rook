@@ -1,0 +1,21 @@
+[Event "Austria"]
+[Site "Austria"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Wittmann, Walter"]
+[Black "Janetschek"]
+[Result "1-0"]
+[ECO "B04"]
+[Opening "Alekhine's defence"]
+[Variation "modern, Larsen variation"]
+[HashCode "ecf55a12"]
+[Epoch "Rook"]
+[WhiteID "1600060"]
+[WhiteCountry "AUT"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. Nf3 dxe5 5. Nxe5 Nd7 6. Nxf7 Kxf7 7. Qh5+ Ke6
+8. c4 N5f6 9. d5+ Kd6 10. Qf7 Nb8 11. Nc3 Qe8 12. Bf4+ Kd7 13. Qe6+ Kd8 14. Qe5
+Na6 15. O-O-O Qd7 16. Bd3 Rg8 17. Rhe1 g6 18. c5 Nxc5 19. Bb5 Qd6 20. Qg5 Nce4
+21. Nxe4 Nxe4 22. Rxe4 Qc5+ 23. Bc4 h6 24. Qg3 Bf5 25. b4 Qxb4 26. Bxc7+ Ke8
+27. d6 Qc5 28. Rd5 Qc6 29. Rxf5 gxf5 30. Rxe7+ Bxe7 31. Qxg8+ Kd7 32. Qe6+ Ke8
+33. Qxe7# 1-0

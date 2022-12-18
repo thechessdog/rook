@@ -1,0 +1,22 @@
+[Event "Trinec"]
+[Site "Trinec"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Vaindl, J."]
+[Black "Pekarek, Ales"]
+[Result "0-1"]
+[ECO "B78"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, 10.O-O-O"]
+[HashCode "cffba130"]
+[Epoch "Rook"]
+[BlackID "300080"]
+[BlackCountry "CZE"]
+
+1. e4 c5 2. Nf3 d6 3. d4 Nf6 4. Nc3 cxd4 5. Nxd4 g6 6. Be3 Bg7 7. f3 O-O 8. Qd2
+Nc6 9. Bc4 Bd7 10. O-O-O Rc8 11. Bb3 Ne5 12. h4 h5 13. Bg5 Rc5 14. g4 hxg4 15.
+h5 gxh5 16. Bxf6 Bxf6 17. f4 e6 18. Qh2 Ng6 19. Nd5 h4 20. f5 exd5 21. fxg6 Qe7
+22. Nf5 Bxf5 23. exf5 g3 24. Qg2 Qe5 25. gxf7+ Kg7 26. Rxd5 Qxb2+ 27. Kd2 Rxd5+
+28. Qxd5 Qe5 29. Qf3 Qd4+ 30. Kc1 d5 31. Rd1 Qb2+ 32. Kd2 Rxf7 33. Ke2 Qe5+ 34.
+Kf1 Bg5 35. Rxd5 Qf4 36. Qxf4 Bxf4 37. Kg2 Re7 38. Bc4 Kf6 39. Bd3 Rh7 40. Kh3
+Rg7 41. Be4 g2 0-1

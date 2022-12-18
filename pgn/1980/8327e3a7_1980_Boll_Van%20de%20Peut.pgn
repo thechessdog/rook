@@ -1,0 +1,17 @@
+[Event "corr BdF"]
+[Site "corr BdF"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Boll, P."]
+[Black "Van de Peut, A."]
+[Result "1-0"]
+[ECO "B32"]
+[Opening "Sicilian"]
+[Variation "Labourdonnais-Loewenthal variation"]
+[HashCode "8327e3a7"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e5 5. Nb5 a6 6. Nd6+ Bxd6 7. Qxd6
+Qf6 8. Qd1 Qg6 9. Nc3 d5 10. Nxd5 Qxe4+ 11. Be3 Nd4 12. Rc1 Bg4 13. Qd3
+Qxd5 14. c3 Rc8 15. cxd4 Ra8 16. Qa3 1-0
+

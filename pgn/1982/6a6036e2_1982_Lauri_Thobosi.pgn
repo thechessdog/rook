@@ -1,0 +1,17 @@
+[Event "Luzern olm"]
+[Site "Luzern olm"]
+[Date "1982.10.01"]
+[Round "1"]
+[White "Lauri, J."]
+[Black "Thobosi, R."]
+[Result "1-0"]
+[ECO "A08"]
+[Opening "Reti"]
+[Variation "King's Indian attack"]
+[HashCode "6a6036e2"]
+[Epoch "Rook"]
+
+1. Nf3 c5 2. g3 d5 3. Bg2 Nc6 4. O-O e5 5. d3 Bd6 6. e4 d4 7. Ne1 Be6 8. f4
+exf4 9. gxf4 g6 10. Nf3 f5 11. Ng5 Bd7 12. e5 Be7 13. e6 Bxg5 14. exd7+
+Qxd7 15. fxg5 1-0
+

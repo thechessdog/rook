@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Montanelli"]
+[Black "Bassoli"]
+[Result "0-1"]
+[ECO "B00"]
+[Opening "KP"]
+[Variation "Nimzovich defence, Bogolyubov variation"]
+[HashCode "6d9687c9"]
+[Epoch "Rook"]
+
+1. e4 Nc6 2. d4 d5 3. Nc3 dxe4 4. d5 Ne5 5. Bf4 Ng6 6. Bg3 f5 7. Nh3 e5 8.
+dxe6 Qxd1+ 9. Rxd1 c6 10. Bc4 Be7 11. Ne2 Bf6 12. c3 Nf8 13. O-O Bxe6 14.
+Bxe6 Nxe6 15. Nhf4 Nxf4 16. Bxf4 Ne7 17. Bd6 Rd8 18. Bc5 Rxd1 19. Rxd1 b6
+20. Bd4 Rf8 21. g3 Ng6 22. Kg2 Ke7 0-1
+

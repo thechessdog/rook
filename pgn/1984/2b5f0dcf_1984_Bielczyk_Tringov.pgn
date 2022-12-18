@@ -1,0 +1,21 @@
+[Event "Kraljevo"]
+[Site "Kraljevo"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Bielczyk, Jacek"]
+[Black "Tringov, Georgi P"]
+[Result "1/2-1/2"]
+[ECO "B87"]
+[Opening "Sicilian"]
+[Variation "Sozin with ...a6 and ...b5"]
+[HashCode "2b5f0dcf"]
+[Epoch "Rook"]
+[BlackCountry "BGR"]
+[WhiteID "1100530"]
+[WhiteCountry "POL"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 b5 8. O-O
+Be7 9. f4 Bb7 10. Be3 b4 11. e5 bxc3 12. exf6 Bxf6 13. bxc3 O-O 14. Qd2 Qc7 15.
+Rad1 Nc6 16. f5 Nxd4 17. cxd4 d5 18. Bg5 Bxg5 19. Qxg5 h6 20. Qh4 exf5 21. Rxf5
+a5 22. a4 Rae8 23. Re1 Qc3 24. Rfe5 Rxe5 25. Rxe5 Bc6 26. h3 Bxa4 27. Rf5 Bxb3
+28. cxb3 Re8 29. Kh2 1/2-1/2

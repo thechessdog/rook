@@ -1,0 +1,19 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Henriksen, Bjarne Meldgaard"]
+[Black "Sandahl, Jan"]
+[Result "0-1"]
+[ECO "B97"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Poisoned pawn variation"]
+[HashCode "5a7ff2de"]
+[Epoch "Rook"]
+[BlackID "1441574"]
+[BlackCountry "DEN"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qb6 8. Qd2
+Qxb2 9. Rb1 Qa3 10. Be2 Be7 11. e5 dxe5 12. fxe5 Nfd7 13. Ne4 O-O 14. Rb3 Bxg5
+15. Qxg5 Qa5+ 16. c3 Qxe5 17. Qh4 Nf6 18. Bd3 Nxe4 19. Nf3 Qc5 20. Qxe4 f5 21.
+Qe2 Nc6 22. Bc4 b5 23. Bxe6+ Bxe6 24. Qxe6+ Kh8 25. Kd1 Rae8 0-1

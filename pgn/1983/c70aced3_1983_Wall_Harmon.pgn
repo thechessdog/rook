@@ -1,0 +1,17 @@
+[Event "Dayton,OH"]
+[Site "Dayton,OH"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Wall, Bill"]
+[Black "Harmon, Bill"]
+[Result "1-0"]
+[ECO "A40"]
+[Opening "Queen's pawn"]
+[Variation "Charlick (Englund) gambit"]
+[HashCode "c70aced3"]
+[Epoch "Rook"]
+[WhiteCountry "USA"]
+
+1. d4 e5 2. dxe5 Nc6 3. Bf4 Qe7 4. Nf3 g6 5. Nc3 Bg7 6. Nd5 Qd8 7. e4 Nge7 8.
+e6 Nxd5 9. exf7+ Kxf7 10. Qxd5+ Kf8 11. Bc4 Qf6 12. Bxc7 Qe6 13. Qc5+ Qe7 14.
+Bd6 Qxd6 15. Qxd6+ Ke8 16. Ng5 Be5 17. Bf7+ Kd8 18. Ne6# 1-0

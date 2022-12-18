@@ -1,0 +1,20 @@
+[Event "corr NLD/M"]
+[Site "corr NLD/M"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Dijkstra"]
+[Black "Adriaanse"]
+[Result "0-1"]
+[ECO "E83"]
+[Opening "King's Indian"]
+[Variation "Saemisch, Ruban variation"]
+[HashCode "fb01f0aa"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 Nc6 7. Nge2 Rb8 8.
+a3 Re8 9. b4 e5 10. d5 Nd4 11. Nxd4 exd4 12. Bxd4 c5 13. dxc6 bxc6 14. Rc1
+d5 15. cxd5 cxd5 16. Bxf6 Qxf6 17. Bd3 dxe4 18. fxe4 Qh4+ 19. g3 Bxc3+ 20.
+Rxc3 Rxe4+ 21. Kd2 Qd8 22. Kc2 Rd4 23. Qe2 a5 24. Qe5 Bb7 25. Rf1 Rc8 26.
+Rd1 axb4 27. axb4 Ba6 28. Rxc8 Qxc8+ 29. Qc5 Bxd3+ 30. Rxd3 Rc4+ 31. Rc3
+Rxc5 32. Rxc5 Qh3 0-1
+

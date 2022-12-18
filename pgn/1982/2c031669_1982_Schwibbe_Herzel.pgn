@@ -1,0 +1,22 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Schwibbe, R."]
+[Black "Herzel"]
+[Result "0-1"]
+[ECO "B43"]
+[Opening "Sicilian"]
+[Variation "Kan, 5.Nc3"]
+[HashCode "2c031669"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 Qc7 6. Be3 Bb4 7. Ne2 Nf6
+8. a3 Bc5 9. Bxc5 Qxc5 10. Qd4 d6 11. O-O-O Qxd4 12. Rxd4 Ke7 13. h3 h5 14.
+g3 b5 15. Bg2 Bb7 16. Rhd1 Rd8 17. f4 Nc6 18. R4d3 Na5 19. Bf3 g6 20. g4
+hxg4 21. hxg4 g5 22. Nd4 Rab8 23. e5 dxe5 24. fxe5 Nd5 25. Nxd5+ exd5 26.
+Nf5+ Ke6 27. Nd6 Ba8 28. b3 Rd7 29. Bxd5+ Bxd5 30. Rxd5 Rc8 31. R5d3 Rg8
+32. Ne4 Rxd3 33. Nc5+ Kxe5 34. Nxd3+ Ke4 35. Rf1 Nxb3+ 36. cxb3 Kxd3 37.
+Rf3+ Kd4 38. Rxf7 Re8 39. Rf5 Re5 40. Rf6 Re4 41. Rxa6 Kc3 42. Rc6+ Kxb3
+43. Rc5 Rc4+ 44. Rxc4 bxc4 45. Kd2 Kb2 0-1
+

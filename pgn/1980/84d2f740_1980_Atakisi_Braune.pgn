@@ -1,0 +1,18 @@
+[Event "corr EU"]
+[Site "corr EU"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Atakisi"]
+[Black "Braune"]
+[Result "1-0"]
+[ECO "E85"]
+[Opening "King's Indian"]
+[Variation "Saemisch, orthodox variation"]
+[HashCode "84d2f740"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 e5 7. Nge2 Nc6 8.
+Qd2 exd4 9. Nxd4 Nxd4 10. Bxd4 c6 11. O-O-O a6 12. g4 b5 13. g5 Ne8 14.
+Bxg7 Kxg7 15. e5 Bf5 16. exd6 Qd7 17. c5 Kg8 18. Re1 Be6 19. Kb1 Nc7 20.
+Ne4 Nd5 21. Qxd5 Bxd5 22. Nf6+ 1-0
+

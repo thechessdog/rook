@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Carlson, Curtis"]
+[Black "Battell"]
+[Result "1-0"]
+[ECO "B15"]
+[Opening "Caro-Kann"]
+[Variation "Gurgenidze system"]
+[HashCode "81ad1d77"]
+[Epoch "Rook"]
+[WhiteID "2002868"]
+[WhiteCountry "USA"]
+
+1. e4 c6 2. d4 d5 3. Nc3 g6 4. Nf3 Bg7 5. h3 Nh6 6. Bf4 dxe4 7. Nxe4 Nf5 8. c3
+O-O 9. Bd3 Qb6 10. Qe2 Nd7 11. g4 Nd6 12. Nxd6 exd6 13. Bxd6 Rd8 14. O-O-O Nf6
+15. Be5 Be6 16. Bc4 Re8 17. Bxe6 1-0

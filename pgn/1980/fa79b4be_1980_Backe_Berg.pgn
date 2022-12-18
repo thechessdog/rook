@@ -1,0 +1,28 @@
+[Event "Hallsberg"]
+[Site "Hallsberg"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Backe, Peter"]
+[Black "Berg, Klaus"]
+[Result "0-1"]
+[ECO "A19"]
+[Opening "English"]
+[Variation "Mikenas-Carls, Sicilian variation"]
+[HashCode "fa79b4be"]
+[Epoch "Rook"]
+[WhiteID "1701240"]
+[WhiteCountry "SWE"]
+[BlackID "1400053"]
+[BlackCountry "DEN"]
+
+1. c4 e6 2. Nc3 Nf6 3. e4 c5 4. e5 Ng8 5. Nf3 Nc6 6. d4 cxd4 7. Nxd4 Nxe5 8.
+Bf4 Ng6 9. Bg3 a6 10. Qa4 e5 11. Ndb5 Nf6 12. O-O-O Qb6 13. Bd3 Rb8 14. Bxg6
+axb5 15. Nxb5 Ng4 16. Rhe1 hxg6 17. h3 Be7 18. hxg4 f6 19. f4 O-O 20. fxe5 fxe5
+21. Rxe5 Bf6 22. Ree1 d5 23. Bxb8 Bxg4 24. Bc7 Qf2 25. Nc3 Bf5 26. g3 b5 27.
+cxb5 Rc8 28. Re2 Bg5+ 29. Bf4 Bxf4+ 30. gxf4 Qxe2 31. b6 Qe3+ 32. Rd2 Qe1+ 33.
+Qd1 Qe4 34. Rc2 Qxc2+ 35. Qxc2 Bxc2 36. Kxc2 d4 37. b7 Rb8 38. Ne2 d3+ 39. Kxd3
+Rxb7 40. Kc2 Kf7 41. a3 Kf6 42. b4 g5 43. fxg5+ Kxg5 44. Kc3 Kg4 45. a4 g5 46.
+a5 Kf3 47. Nd4+ Ke3 48. Nf5+ Kf4 49. Nh6 Ke5 50. Kc4 Rh7 51. Ng4+ Kd6 52. Nf6
+Rh4+ 53. Kb5 g4 54. Ne4+ Ke5 55. Nd2 Rh2 56. Nf1 Rf2 57. Ng3 Rf3 58. Nh1 Kd6
+59. Kb6 Kd7 60. b5 Kc8 61. Ka7 Rf7+ 62. Ka6 Kb8 63. Ng3 Rf3 64. Ne4 g3 65. Nc5
+g2 66. b6 Rf7 0-1

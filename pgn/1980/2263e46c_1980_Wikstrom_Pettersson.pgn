@@ -1,0 +1,20 @@
+[Event "corr SWE/K tt"]
+[Site "corr SWE/K tt"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Wikstrom, Lars"]
+[Black "Pettersson, Dick"]
+[Result "1-0"]
+[ECO "B13"]
+[Opening "Caro-Kann"]
+[Variation "exchange, Rubinstein variation"]
+[HashCode "2263e46c"]
+[Epoch "Rook"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. Bd3 Nc6 5. c3 Nf6 6. Bf4 Bg4 7. Qb3 Na5
+8. Qa4+ Bd7 9. Qc2 a6 10. a4 b5 11. axb5 axb5 12. b4 Nc4 13. Rxa8 Qxa8 14.
+Nf3 Nh5 15. Bc1 g6 16. O-O Ng7 17. Bh6 Bf5 18. Nbd2 Bxd3 19. Qxd3 Nf5 20.
+Bxf8 Kxf8 21. Nxc4 dxc4 22. Qe2 e6 23. Qe5 Ke7 24. Qc7+ Kf6 25. Ne5 Rf8 26.
+Nd7+ Kg7 27. Nxf8 Kxf8 28. Qc5+ Kg8 29. Qxb5 Nh4 30. Qg5 Nf5 31. Qf4 Qa3
+32. b5 Qxc3 33. b6 Qb4 34. Qc7 1-0
+

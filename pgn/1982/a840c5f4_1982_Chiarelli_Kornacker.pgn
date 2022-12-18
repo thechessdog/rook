@@ -1,0 +1,17 @@
+[Event "USA"]
+[Site "USA"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Chiarelli, Joseph"]
+[Black "Kornacker"]
+[Result "1-0"]
+[ECO "C15"]
+[Opening "French"]
+[Variation "Winawer, Alekhine gambit"]
+[HashCode "a840c5f4"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. Ne2 dxe4 5. a3 Bxc3+ 6. Nxc3 Nf6 7. Bg5 Nc6
+8. Bb5 Bd7 9. Nxe4 Nxd4 10. Bxd7+ Qxd7 11. Bxf6 Nf5 12. Qxd7+ Kxd7 13.
+O-O-O+ Ke8 14. Bc3 f6 15. Nc5 1-0
+

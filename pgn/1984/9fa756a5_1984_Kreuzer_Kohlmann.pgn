@@ -1,0 +1,17 @@
+[Event "Verbandsliga"]
+[Site "Verbandsliga"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Kreuzer, U."]
+[Black "Kohlmann"]
+[Result "1-0"]
+[ECO "A00"]
+[Opening "Polish (Sokolsky) opening"]
+[HashCode "9fa756a5"]
+[Epoch "Rook"]
+
+1. b4 e6 2. Bb2 Nf6 3. b5 a6 4. a4 axb5 5. axb5 Rxa1 6. Bxa1 d5 7. e3 Be7
+8. Nf3 O-O 9. c4 c6 10. Be2 Nbd7 11. O-O Qa5 12. Bc3 Qa2 13. d3 Rd8 14.
+Nbd2 dxc4 15. dxc4 Nc5 16. Qa1 Qc2 17. Nd4 Qa4 18. bxc6 bxc6 19. Qxa4 Nxa4
+20. Ba5 Rd6 21. Ra1 Nc5 22. Bb4 Nfd7 23. Bxc5 Nxc5 24. Ra8 1-0
+

@@ -1,0 +1,17 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Mann, W."]
+[Black "Schinagl, H."]
+[Result "1-0"]
+[ECO "B75"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack"]
+[HashCode "07cee48e"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 Nc6 8.
+Qd2 Bd7 9. O-O-O a5 10. g4 a4 11. h4 a3 12. b3 Nb4 13. Ndb5 O-O 14. Kb1 Qa5
+15. h5 Bxb5 16. Nxb5 Rfc8 17. Rc1 Nd7 18. hxg6 fxg6 19. c3 Nc6 20. Bc4+ 1-0
+

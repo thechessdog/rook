@@ -1,0 +1,28 @@
+[Event "Dubna"]
+[Site "Dubna"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Sveshnikov, Evgeny"]
+[Black "Knezevic, Milorad"]
+[Result "1-0"]
+[ECO "B02"]
+[Opening "Alekhine's defence"]
+[Variation "two pawns' (Lasker's) attack"]
+[HashCode "aa128476"]
+[Epoch "Rook"]
+[WhiteID "4100638"]
+[WhiteCountry "RUS"]
+[BlackID "950238"]
+[BlackCountry "SRB"]
+
+1. e4 Nf6 2. e5 Nd5 3. c4 Nb6 4. c5 Nd5 5. Nc3 c6 6. Bc4 d6 7. Qb3 Nd7 8. Nxd5
+cxd5 9. Bxd5 e6 10. Bxe6 fxe6 11. Qxe6+ Qe7 12. Qxe7+ Kxe7 13. cxd6+ Kf7 14. d4
+Nb6 15. f4 g6 16. Nf3 Bh6 17. f5 Bxc1 18. e6+ Bxe6 19. fxe6+ Kxe6 20. Rxc1 Rac8
+21. O-O Rxc1 22. Rxc1 Kxd6 23. h4 Re8 24. Kf2 Nd5 25. Re1 Rf8 26. Kg3 Nf4 27.
+Re5 Ne6 28. Ra5 a6 29. Ra3 Kd5 30. Ra5+ Kd6 31. b4 Kc7 32. d5 Nf4 33. Ng5 h6
+34. Rc5+ Kd7 35. Nf3 Kd6 36. Nd2 Nxd5 37. Nc4+ Ke6 38. b5 axb5 39. Rxb5 Rb8 40.
+a4 Nc3 41. Rb6+ Kd5 42. Ne3+ Ke4 43. Ng4 h5 44. Nf6+ Kf5 45. Nd7 Ne4+ 46. Kf3
+Ra8 47. Rb4 Nc3 48. Rc4 Rd8 49. Nc5 b6 50. Rxc3 bxc5 51. Rxc5+ Kf6 52. Rc3 Rd4
+53. Ra3 Rxh4 54. a5 Rd4 55. a6 Rd8 56. a7 Ra8 57. Kf4 g5+ 58. Ke4 Re8+ 59. Kf3
+Ra8 60. Ra5 Kg6 61. Ra3 Kf5 62. Ra6 Ke5 63. Ra5+ Kf6 64. Ke4 Re8+ 65. Kd4 Ra8
+66. Kc5 Kf5 67. Kb6+ Kf4 68. Kb7 Rxa7+ 69. Kxa7 h4 70. Kb6 g4 71. Ra3 1-0

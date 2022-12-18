@@ -1,0 +1,24 @@
+[Event "Bundesliga 8182"]
+[Site "Duitsland tt"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Wittmann, Rainer"]
+[Black "Ehrler, Eberhard"]
+[Result "1-0"]
+[ECO "B07"]
+[Opening "Pirc"]
+[Variation "bayonet (Mariotti) attack"]
+[HashCode "e5de3d05"]
+[Epoch "Rook"]
+[WhiteID "4603150"]
+[WhiteCountry "GER"]
+[BlackID "4607899"]
+[BlackCountry "GER"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Be2 Bg7 5. h4 Nc6 6. Be3 e5 7. d5 Nd4 8. Bxd4
+exd4 9. Qxd4 O-O 10. Qd2 c5 11. h5 gxh5 12. Bxh5 b5 13. Bf3 Re8 14. Qf4 b4 15.
+Nce2 Qe7 16. Rh4 Rb8 17. O-O-O Rb6 18. Ng3 Qe5 19. Qxe5 Rxe5 20. N1e2 Rb7 21.
+Nf4 Rg5 22. Rdh1 Ng4 23. Bxg4 Rxg4 24. Rxg4 Bxg4 25. f3 Bc8 26. Ngh5 Bh8 27. g4
+h6 28. Ng2 c4 29. Ne3 b3 30. axb3 cxb3 31. c3 Rb6 32. Nc4 Ra6 33. Kd2 Bd7 34.
+Nf4 Ra2 35. Rb1 Ra6 36. Nd3 Bb5 37. Na3 Ba4 38. Nb4 Rb6 39. Nc4 Rb8 40. Ra1 Bd7
+41. Rxa7 1-0

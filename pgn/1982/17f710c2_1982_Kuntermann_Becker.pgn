@@ -1,0 +1,19 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Kuntermann, H."]
+[Black "Becker, M1."]
+[Result "0-1"]
+[ECO "C00"]
+[Opening "French"]
+[Variation "Two knights variation"]
+[HashCode "17f710c2"]
+[Epoch "Rook"]
+
+1. e4 e6 2. Nc3 d5 3. Nf3 Nf6 4. exd5 Nxd5 5. g3 Nxc3 6. bxc3 b6 7. Bg2 Bb7 8.
+O-O Be7 9. d4 Nd7 10. c4 O-O 11. c3 Bf6 12. Ba3 c5 13. Qb3 Qc7 14. Rfd1 Rfd8
+15. d5 exd5 16. cxd5 c4 17. d6 Qxd6 18. Bxd6 cxb3 19. Bc7 Rdc8 20. Rxd7 Bxc3
+21. Rad1 bxa2 22. Be5 a1=Q 23. Rxa1 Bxa1 24. Rxb7 Rc1+ 25. Bf1 Bxe5 26. Nxe5 f6
+27. Nd3 Rb1 28. Nf4 a5 29. Nh5 a4 30. Rxg7+ Kf8 31. Rxh7 Ra5 32. Kg2 Rxf1 33.
+Kxf1 a3 34. Nxf6 a2 35. Nd7+ Ke8 36. Nf6+ Kd8 37. Rd7+ Kc8 0-1

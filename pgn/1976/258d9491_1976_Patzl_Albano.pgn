@@ -1,0 +1,18 @@
+[Event "Imperia"]
+[Site "Imperia"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Patzl"]
+[Black "Albano"]
+[Result "0-1"]
+[ECO "C57"]
+[Opening "two knights defence"]
+[Variation "Fritz, Gruber variation"]
+[HashCode "258d9491"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 Nd4 6. c3 b5 7. Bf1 Nxd5
+8. Ne4 Qh4 9. Ng3 Ne6 10. Bxb5+ Bd7 11. Bxd7+ Kxd7 12. Qf3 c6 13. d4 exd4
+14. Qxf7+ Be7 15. Qf5 Rhf8 16. Qc2 Bd6 17. O-O Ndf4 18. cxd4 Rf6 19. Bxf4
+Nxf4 20. Nd2 Ne2+ 21. Kh1 Qxh2+ 0-1
+

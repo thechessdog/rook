@@ -1,0 +1,19 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Becker, M1."]
+[Black "Fluegge, G."]
+[Result "0-1"]
+[ECO "C05"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation"]
+[HashCode "b0a96401"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. f4 c5 6. c3 Nc6 7. Ndf3 Qb6 8. g3
+cxd4 9. cxd4 Bb4+ 10. Kf2 f6 11. Kg2 fxe5 12. fxe5 O-O 13. Bd3 g6 14. Ne2 Rxf3
+15. Kxf3 Nxd4+ 16. Kg2 Nc6 17. a3 Bf8 18. Nf4 Ndxe5 19. b4 Qd4 20. Ra2 Nxd3 21.
+Qxd3 Qxd3 22. Nxd3 e5 23. Re1 Bf5 24. Rd2 Bh6 25. Rdd1 Bxc1 26. Nxc1 Rd8 27. b5
+Be4+ 28. Kf2 Rf8+ 29. Ke3 Rf3+ 30. Kd2 Nd4 31. Re3 Rf2+ 32. Ne2 Rxh2 33. Rf1
+Nxb5 34. Kd1 Nd6 35. Rc3 Bf5 36. Ke1 d4 0-1

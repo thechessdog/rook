@@ -1,0 +1,22 @@
+[Event "Israel"]
+[Site "Israel"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Lederman, Leon"]
+[Black "Bruk, Ofer"]
+[Result "0-1"]
+[ECO "B12"]
+[Opening "Caro-Kann"]
+[Variation "advance variation"]
+[HashCode "b52d7bc5"]
+[Epoch "Rook"]
+[WhiteID "2800403"]
+[BlackID "2800098"]
+[WhiteCountry "ISR"]
+[BlackCountry "ISR"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Ne2 e6 5. Ng3 Bg6 6. h4 h6 7. h5 Bh7 8. Bd3 Bxd3
+9. cxd3 c5 10. dxc5 Bxc5 11. d4 Bf8 12. Nc3 Nc6 13. Qg4 Qb6 14. Nce2 Qb4+ 15.
+Kf1 Nxe5 16. Qh3 Nd3 17. Kg1 Bd6 18. Nf1 Nxc1 19. Rxc1 Nf6 20. b3 O-O 21. g4
+Rac8 22. Rxc8 Rxc8 23. g5 hxg5 24. h6 g6 25. h7+ Kh8 26. Qf3 Be7 27. Ne3 Qd2
+28. Kg2 Qd3 29. Qh3 Qxe2 0-1

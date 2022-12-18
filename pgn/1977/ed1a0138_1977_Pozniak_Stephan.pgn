@@ -1,0 +1,17 @@
+[Event "corr CCLA"]
+[Site "corr CCLA"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Pozniak"]
+[Black "Stephan"]
+[Result "1-0"]
+[ECO "C50"]
+[Opening "Giuoco Pianissimo"]
+[Variation "Italian four knights variation"]
+[HashCode "ed1a0138"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d3 Bc5 5. Nc3 d6 6. O-O Bg4 7. h3 h5 8.
+hxg4 hxg4 9. Ng5 g3 10. Bxf7+ Ke7 11. Be3 Nd4 12. fxg3 Nf5 13. Bxc5 Nxg3
+14. Kf2 dxc5 15. Kxg3 1-0
+

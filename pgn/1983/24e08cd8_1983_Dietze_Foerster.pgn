@@ -1,0 +1,20 @@
+[Event "RLN 8283"]
+[Site "RLN 8283"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Dietze, Frank"]
+[Black "Foerster, Andreas"]
+[Result "0-1"]
+[ECO "A44"]
+[Opening "Semi-Benoni (`blockade variation')"]
+[HashCode "24e08cd8"]
+[Epoch "Rook"]
+[BlackID "4608143"]
+[BlackCountry "GER"]
+
+1. d4 c5 2. d5 e5 3. e4 d6 4. Bd3 Be7 5. Ne2 Bg5 6. Nd2 Nf6 7. a4 O-O 8. Ng3
+Ne8 9. O-O g6 10. Nc4 Bxc1 11. Qxc1 Qe7 12. Qh6 Nd7 13. Rae1 Kh8 14. f4 exf4
+15. Rxf4 f6 16. Rg4 Qf7 17. Rf1 Rg8 18. Qe3 Ne5 19. Nxe5 dxe5 20. Rh4 Qe7 21.
+Bc4 f5 22. Qh6 Nd6 23. exf5 gxf5 24. Bd3 e4 25. Be2 Bd7 26. Rff4 Rg7 27. Nh5
+Rg6 28. Qxg6 hxg6 29. Nf6+ Kg7 30. Rh7+ Kxf6 31. Rxe7 Kxe7 32. Rh4 Nf7 33. Rh7
+Rh8 0-1

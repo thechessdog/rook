@@ -1,0 +1,19 @@
+[Event "Orebro"]
+[Site "Orebro"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Westerlund, Ola"]
+[Black "Backe, Peter"]
+[Result "0-1"]
+[ECO "A15"]
+[Opening "English opening"]
+[HashCode "182d285d"]
+[Epoch "Rook"]
+[WhiteID "1712101"]
+[BlackID "1701240"]
+[WhiteCountry "SWE"]
+[BlackCountry "SWE"]
+
+1. Nf3 Nf6 2. c4 b6 3. g3 Bb7 4. Bg2 g6 5. Nc3 Bg7 6. O-O O-O 7. b3 e6 8. Bb2
+d5 9. cxd5 exd5 10. d4 Re8 11. Rc1 Nc6 12. Rc2 Ne4 13. a3 Na5 14. Rc1 f5 15.
+Qc2 a6 16. Ra1 Rc8 17. Rfd1 Qd6 18. Ra2 c5 19. dxc5 Qxc5 20. Kf1 Qxf2# 0-1

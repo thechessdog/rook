@@ -1,0 +1,17 @@
+[Event "Seattle"]
+[Site "Seattle"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Schill"]
+[Black "Spiegel"]
+[Result "1-0"]
+[ECO "C34"]
+[Opening "KGA"]
+[Variation "Fischer defence"]
+[HashCode "5778e142"]
+[Epoch "Rook"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 d6 4. d4 g5 5. Bc4 Bg7 6. O-O h6 7. c3 Ne7 8. g3
+fxg3 9. hxg3 O-O 10. Bxg5 hxg5 11. Nxg5 Bh6 12. Qh5 Bxg5 13. Qxg5+ Kh7 14.
+Rf6 Ng6 15. Bxf7 1-0
+

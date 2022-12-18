@@ -1,0 +1,18 @@
+[Event "corr NLD/H"]
+[Site "corr NLD/H"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Polee"]
+[Black "Schut"]
+[Result "0-1"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, poisoned pawn variation"]
+[HashCode "3d58af79"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Qg4 O-O 8.
+Nf3 Nbc6 9. Bd3 f5 10. exf6 Rxf6 11. Qh4 h6 12. O-O c4 13. Bg5 Rxf3 14.
+gxf3 hxg5 15. Bh7+ Kf7 16. Qxg5 g6 17. h4 Qh8 18. Bxg6+ Nxg6 19. h5 Nge7
+20. Kh1 Bd7 0-1
+

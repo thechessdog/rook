@@ -1,0 +1,18 @@
+[Event "Dayton,OH"]
+[Site "Dayton,OH"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Holsapple, Boyd"]
+[Black "Wall, Bill"]
+[Result "0-1"]
+[ECO "A56"]
+[Opening "Czech Benoni"]
+[Variation "King's Indian system"]
+[HashCode "e5de623d"]
+[Epoch "Rook"]
+[BlackCountry "USA"]
+[WhiteCountry "USA"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e5 4. Nc3 d6 5. e4 g6 6. f4 Nh5 7. fxe5 Qh4+ 8. g3
+Nxg3 9. Nf3 Qh5 10. Rg1 Nxf1 11. Kxf1 Bh3+ 12. Kf2 Bg4 13. Rg2 Bxf3 14. Qxf3
+Qxe5 15. Bg5 Bg7 16. h4 Qd4+ 17. Qe3 Qxc4 0-1

@@ -1,0 +1,17 @@
+[Event "Hallsberg"]
+[Site "Hallsberg"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Wikstrom, M."]
+[Black "Eriksson, G."]
+[Result "1/2-1/2"]
+[ECO "C70"]
+[Opening "Ruy Lopez"]
+[Variation "Classical defence deferred"]
+[HashCode "c5fa8075"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Bc5 5. O-O Qf6 6. c3 Nge7 7. d4 exd4
+8. Bg5 Qg6 9. Bxe7 Bxe7 10. cxd4 b5 11. Bc2 d6 12. e5 Bf5 13. Bxf5 Qxf5 14.
+Re1 O-O 15. Nc3 Rad8 16. Nd5 dxe5 17. Rxe5 Qd7 1/2-1/2
+

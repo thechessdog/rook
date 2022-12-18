@@ -1,0 +1,15 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Bruni"]
+[Black "Compton"]
+[Result "1-0"]
+[ECO "C42"]
+[Opening "Petrov's defence"]
+[HashCode "69f9b45d"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 Qe7 4. d4 Nxe4 5. Qe2 d5 6. c4 Qb4+ 7. Nd2 Nxd2
+8. Nc6+ Qe7 9. Nxe7 Nxf1 10. Nxc8+ Kd8 11. Kxf1 Kxc8 12. Qe8# 1-0
+

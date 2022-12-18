@@ -1,0 +1,21 @@
+[Event "Ribe"]
+[Site "Ribe"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Nielsen, Jens"]
+[Black "Reinert, Mads"]
+[Result "0-1"]
+[ECO "E10"]
+[Opening "Queen's pawn game"]
+[HashCode "1d975b3f"]
+[Epoch "Rook"]
+[WhiteID "1409310"]
+[BlackID "1400487"]
+[WhiteCountry "DEN"]
+[BlackCountry "DEN"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 exd5 5. cxd5 d6 6. g3 g6 7. Bg2 Bg7 8. O-O
+O-O 9. Nc3 a6 10. Nd2 Re8 11. h3 Nbd7 12. a4 Rb8 13. Nc4 Ne5 14. Na3 Nh5 15. e4
+f5 16. exf5 Bxf5 17. g4 Bxg4 18. hxg4 Qh4 19. gxh5 Rf8 20. h6 Bh8 21. Ne4 Ng4
+22. Qxg4 Qxg4 23. Nc4 b5 24. axb5 axb5 25. Ne3 Qh4 26. Ra7 Be5 27. Re1 Rbe8 28.
+Nf1 Bd4 0-1

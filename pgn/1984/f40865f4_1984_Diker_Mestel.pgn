@@ -1,0 +1,22 @@
+[Event "Beer Sheva"]
+[Site "Beer Sheva"]
+[Date "1984.01.01"]
+[Round "3"]
+[White "Diker, Michael"]
+[Black "Mestel, A Jonathan"]
+[Result "0-1"]
+[ECO "E95"]
+[Opening "King's Indian"]
+[Variation "orthodox, 7...Nbd7, 8.Re1"]
+[HashCode "f40865f4"]
+[Epoch "Rook"]
+[BlackID "400122"]
+[BlackCountry "ENG"]
+[WhiteID "2800748"]
+[WhiteCountry "ISR"]
+
+1. Nf3 Nf6 2. c4 g6 3. d4 Bg7 4. Nc3 O-O 5. e4 d6 6. Be2 Nbd7 7. O-O e5 8. Re1
+c6 9. Bf1 Qe7 10. h3 exd4 11. Nxd4 a5 12. Nf3 Re8 13. Bf4 Ne5 14. Nxe5 dxe5 15.
+Be3 Be6 16. Na4 Nxe4 17. Qc2 f5 18. Bd3 Ng5 19. Bc5 Qf6 20. f3 Bf7 21. Nb6 Rad8
+22. Rab1 e4 23. fxe4 fxe4 24. Bxe4 Nxh3+ 25. gxh3 Qg5+ 26. Kh1 Qxc5 27. Na4
+Qxc4 0-1

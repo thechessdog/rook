@@ -1,0 +1,18 @@
+[Event "Alkmaar open"]
+[Site "Alkmaar open"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Smit, M."]
+[Black "Coerts, M."]
+[Result "1-0"]
+[ECO "B97"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7...Qb6"]
+[HashCode "715fe072"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qb6 8. Qd2
+Qxb2 9. Nb3 Qa3 10. Be2 Be7 11. O-O h6 12. Bh4 Qb4 13. Qd3 Nxe4 14. Nxe4 Bxh4
+15. Nxd6+ Ke7 16. Rad1 Nc6 17. Bh5 Rd8 18. Qh3 Bf6 19. Nxf7 Rxd1 20. Rxd1 Qxf4
+21. Nh8 Qb4 22. Ng6+ Ke8 23. Qd3 Qb5 24. Nf4+ Kf8 25. Qh7 Ne5 26. Qh8+ Ke7 27.
+Qd8# 1-0

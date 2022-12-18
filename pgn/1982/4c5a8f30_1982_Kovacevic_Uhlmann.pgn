@@ -1,0 +1,19 @@
+[Event "Sarajevo"]
+[Site "Sarajevo"]
+[Date "1982.03.01"]
+[Round "1"]
+[White "Kovacevic, Vlatko"]
+[Black "Uhlmann, Wolfgang"]
+[Result "1/2-1/2"]
+[ECO "A45"]
+[Opening "Trompovsky attack (Ruth, Opovcensky opening)"]
+[HashCode "4c5a8f30"]
+[Epoch "Rook"]
+[WhiteID "14500078"]
+[WhiteCountry "CRO"]
+[BlackID "4611284"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. Bg5 e6 3. Nd2 h6 4. Bh4 d5 5. e3 Be7 6. Bd3 b6 7. Ngf3 Bb7 8. Ne5
+Nfd7 9. Bxe7 Qxe7 10. f4 Ba6 11. Bxa6 Nxa6 12. O-O O-O 13. c3 c5 14. Qa4 Nab8
+15. b4 Nxe5 16. fxe5 Nd7 17. Rab1 cxd4 1/2-1/2

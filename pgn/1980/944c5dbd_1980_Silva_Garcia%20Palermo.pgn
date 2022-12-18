@@ -1,0 +1,24 @@
+[Event "Santiago"]
+[Site "Santiago de Chile"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Silva, Ceu"]
+[Black "Garcia Palermo, Carlos"]
+[Result "0-1"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Lipnitzky attack"]
+[HashCode "944c5dbd"]
+[Epoch "Rook"]
+[WhiteID "1900560"]
+[WhiteCountry "POR"]
+[BlackID "110124"]
+[BlackCountry "ITA"]
+
+1. e4 c5 2. Nc3 d6 3. Nge2 Nf6 4. d4 cxd4 5. Nxd4 a6 6. Bc4 e6 7. O-O Be7 8. a3
+O-O 9. Ba2 Nc6 10. Be3 Qc7 11. Kh1 b5 12. f4 Rb8 13. f5 Nxd4 14. Qxd4 exf5 15.
+exf5 Bb7 16. Rad1 Rfe8 17. Bg5 Rbd8 18. Rd2 d5 19. b4 Ne4 20. Bxe7 Qxe7 21. Re2
+Qg5 22. Nxe4 dxe4 23. Qb6 Rd7 24. Qe3 Qxe3 25. Rxe3 Rd2 26. Bb3 Kf8 27. Kg1 Ke7
+28. c4 bxc4 29. Bxc4 Rc8 30. Bb3 Kf6 31. Rfe1 Rc7 32. h3 Ke5 33. Rg3 f6 34. Be6
+g5 35. Rb1 h5 36. h4 g4 37. b5 axb5 38. Rxb5+ Kf4 39. Kh2 Rd1 40. Rgb3 g3+ 41.
+Rxg3 Rcc1 0-1

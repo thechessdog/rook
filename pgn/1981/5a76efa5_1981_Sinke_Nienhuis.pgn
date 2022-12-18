@@ -1,0 +1,17 @@
+[Event "corr Netherlands"]
+[Site "corr Netherlands"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Sinke, J."]
+[Black "Nienhuis, K."]
+[Result "1/2-1/2"]
+[ECO "C33"]
+[Opening "KGA"]
+[Variation "bishop's gambit, Jaenisch variation"]
+[HashCode "5a76efa5"]
+[Epoch "Rook"]
+
+1. e4 e5 2. f4 exf4 3. Bc4 Nf6 4. Nc3 c6 5. d4 d5 6. exd5 Nxd5 7. Qe2+ Be7
+8. Bxd5 cxd5 9. Qb5+ Nc6 10. Bxf4 a6 11. Qxd5 Be6 12. Qe4 Qxd4 13. Qxd4
+Nxd4 14. O-O-O O-O-O 15. Nf3 1/2-1/2
+

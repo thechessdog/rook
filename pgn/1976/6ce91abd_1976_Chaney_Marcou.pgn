@@ -1,0 +1,16 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Chaney"]
+[Black "Marcou"]
+[Result "0-1"]
+[ECO "D39"]
+[Opening "QGD"]
+[Variation "Ragozin, Vienna variation"]
+[HashCode "6ce91abd"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Bg5 Bb4+ 5. Nc3 dxc4 6. Qa4+ Nc6 7. Ne5
+Qxd4 8. Nxc6 Bxc3+ 9. bxc3 Qxc3+ 10. Kd1 Qxa1+ 11. Kc2 Bd7 0-1
+

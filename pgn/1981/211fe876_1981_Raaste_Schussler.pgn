@@ -1,0 +1,21 @@
+[Event "Reykjavik"]
+[Site "Reykjavik"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Raaste, Eero J."]
+[Black "Schussler, Harry"]
+[Result "1/2-1/2"]
+[ECO "B16"]
+[Opening "Caro-Kann"]
+[Variation "Bronstein-Larsen variation"]
+[HashCode "211fe876"]
+[Epoch "Rook"]
+[WhiteID "500097"]
+[WhiteCountry "FIN"]
+[BlackID "1700081"]
+[BlackCountry "SWE"]
+
+1. e4 c6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Nf6 5. Nxf6+ gxf6 6. Nf3 Bf5 7. Bd3 Bxd3
+8. Qxd3 e6 9. Bf4 Na6 10. Qb3 Qa5+ 11. Bd2 Qb6 12. Qxb6 axb6 13. O-O Kd7 14. c4
+Nc7 15. a4 Be7 16. Bc3 b5 17. axb5 cxb5 18. b3 bxc4 19. bxc4 b5 20. cxb5 Nxb5
+21. Bd2 Nc7 22. g3 Nd5 23. Rfb1 Bd6 24. Kg2 Bc7 1/2-1/2

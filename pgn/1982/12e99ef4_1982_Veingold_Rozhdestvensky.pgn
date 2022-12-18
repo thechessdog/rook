@@ -1,0 +1,20 @@
+[Event "Parnu"]
+[Site "Parnu"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Veingold, Aleksandr"]
+[Black "Rozhdestvensky, Vla"]
+[Result "1-0"]
+[ECO "E12"]
+[Opening "Queen's Indian"]
+[Variation "4.Nc3"]
+[HashCode "12e99ef4"]
+[Epoch "Rook"]
+[WhiteID "4500032"]
+[WhiteCountry "EST"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. Nc3 Bb7 5. a3 Be7 6. d5 exd5 7. cxd5 O-O 8. e3
+d6 9. Bc4 Nbd7 10. O-O Ne5 11. Ba2 Ba6 12. Nxe5 dxe5 13. Re1 Bb7 14. e4 c6 15.
+b4 a5 16. b5 cxd5 17. exd5 Rc8 18. Bb2 Bd6 19. Qd3 Nd7 20. Ne4 Qe7 21. f4 f6
+22. Rac1 Rxc1 23. Rxc1 Kh8 24. Bb1 f5 25. Nxd6 Qxd6 26. fxe5 Nxe5 27. Qd4 Re8
+28. Re1 1-0

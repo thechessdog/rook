@@ -1,0 +1,18 @@
+[Event "Gorki"]
+[Site "Gorki"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Davydov"]
+[Black "Zhukov, V."]
+[Result "1-0"]
+[ECO "E70"]
+[Opening "King's Indian"]
+[Variation "4.e4"]
+[HashCode "535f2312"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 O-O 5. Be3 d6 6. h3 c6 7. Bd3 e5 8. d5
+cxd5 9. cxd5 Na6 10. g4 Ne8 11. Nge2 Bd7 12. a3 Nc5 13. Bc2 a5 14. b4 axb4
+15. axb4 Rxa1 16. Qxa1 Na6 17. Qa3 f5 18. gxf5 gxf5 19. exf5 Bxf5 20. Bxf5
+Rxf5 21. Ne4 Nac7 22. Qd3 Qh4 23. N2g3 Rf8 24. Bg5 1-0
+

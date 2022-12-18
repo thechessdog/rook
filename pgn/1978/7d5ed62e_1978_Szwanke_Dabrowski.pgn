@@ -1,0 +1,16 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Szwanke, J."]
+[Black "Dabrowski, F."]
+[Result "0-1"]
+[ECO "A00"]
+[Opening "Grob"]
+[Variation "Fritz gambit"]
+[HashCode "7d5ed62e"]
+[Epoch "Rook"]
+
+1. g4 d5 2. Bg2 Bxg4 3. c4 e6 4. Qb3 Nf6 5. Qxb7 Nbd7 6. cxd5 exd5 7. Nc3
+Nc5 8. Qb5+ c6 0-1
+

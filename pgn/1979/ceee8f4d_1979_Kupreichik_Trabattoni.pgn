@@ -1,0 +1,23 @@
+[Event "Tunis tt"]
+[Site "Tunis tt"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Kupreichik"]
+[Black "Trabattoni"]
+[Result "0-1"]
+[ECO "B67"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...a6 defence, 8...Bd7"]
+[HashCode "ceee8f4d"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd2 a6 8.
+O-O-O Bd7 9. f3 Be7 10. h4 Qc7 11. g4 O-O-O 12. Be3 Ne5 13. Qf2 Be8 14. Be2
+Kb8 15. Kb1 Nc4 16. Bxc4 Qxc4 17. Nb3 Nd7 18. Bg5 f6 19. Bf4 Ne5 20. Bh2
+Qc7 21. a4 Nc4 22. Bg1 b6 23. f4 Bf7 24. f5 h5 25. Nd4 Rc8 26. Rd3 Ne5 27.
+fxe6 Nxd3 28. cxd3 Bg6 29. Nd5 Qb7 30. Nf5 Bxf5 31. gxf5 b5 32. axb5 Rc5
+33. Qg2 Rxb5 34. Bd4 Rc8 35. Rg1 Rb3 36. Qxg7 Qb5 37. Qg3 Rxd3 38. Qf2 Qb3
+39. Qe2 Rxd4 40. Nxe7 Ra4 41. Nxc8 Qa2+ 42. Kc2 Rc4+ 43. Kd1 Qb1+ 44. Kd2
+Qc2+ 45. Ke1 Rxe4 46. Rg2 Qc1+ 47. Kf2 Rxe2+ 48. Kxe2 Qc2+ 49. Kf1 Qxf5+
+50. Rf2 Qh3+ 0-1
+

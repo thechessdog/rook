@@ -1,0 +1,20 @@
+[Event "Pasadena ch-USA"]
+[Site "Pasadena ch-USA"]
+[Date "1978.01.01"]
+[Round "12"]
+[White "Regan, Kenneth"]
+[Black "Rogoff, Kenneth"]
+[Result "1/2-1/2"]
+[ECO "B02"]
+[Opening "Alekhine's defence"]
+[Variation "Saemisch attack"]
+[HashCode "2f1219fe"]
+[Epoch "Rook"]
+[WhiteID "2000725"]
+[WhiteCountry "USA"]
+[BlackID "2000237"]
+[BlackCountry "USA"]
+
+1. e4 Nf6 2. e5 Nd5 3. Nc3 Nxc3 4. dxc3 d6 5. Nf3 Nc6 6. Bf4 dxe5 7. Qxd8+ Nxd8
+8. Bxe5 c6 9. O-O-O f6 10. Bg3 e5 11. Nd2 Ne6 12. Bc4 Bd7 13. Ne4 O-O-O 14.
+Nd6+ Bxd6 15. Rxd6 Rhe8 16. f3 Kc7 1/2-1/2

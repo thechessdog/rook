@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Kolenbrander, Jaap"]
+[Black "Roos"]
+[Result "1/2-1/2"]
+[ECO "A75"]
+[Opening "Benoni"]
+[Variation "classical with ...a6 and 10...Bg4"]
+[HashCode "66df538a"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. Nf3 Bg7 8.
+Be2 O-O 9. O-O a6 10. a4 Bg4 11. Bf4 Bxf3 12. Bxf3 Ne8 13. a5 Nd7 14. Be2
+Qc7 15. Qd2 Nef6 16. f3 Rfb8 17. Na4 b5 18. axb6 Nxb6 19. Rfb1 Nfd7 20. Be3
+Nxa4 1/2-1/2
+

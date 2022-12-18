@@ -1,0 +1,27 @@
+[Event "Belgrade"]
+[Site "Belgrade"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Govedarica, Radovan"]
+[Black "Sznapik, Aleksander"]
+[Result "0-1"]
+[ECO "B07"]
+[Opening "Pirc"]
+[Variation "bayonet (Mariotti) attack"]
+[HashCode "6104a0fb"]
+[Epoch "Rook"]
+[BlackID "1100050"]
+[BlackCountry "POL"]
+[WhiteID "900630"]
+[WhiteCountry "SRB"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. h4 Nf6 5. Be2 h5 6. Be3 c6 7. Nh3 Ng4 8. Bxg4
+hxg4 9. Ng1 d5 10. exd5 cxd5 11. Qd2 Nc6 12. Nge2 Bf5 13. Ng3 e5 14. Bg5 Qa5
+15. Nxf5 gxf5 16. dxe5 d4 17. Ne2 Qxe5 18. O-O f6 19. Bf4 Qd5 20. Rfd1 O-O-O
+21. c3 d3 22. Nd4 Ne5 23. g3 Bf8 24. Bxe5 fxe5 25. Nxf5 Bc5 26. b4 Rhf8 27. Ne3
+Bxe3 28. Qxe3 Kb8 29. c4 Qd4 30. Qxd4 Rxd4 31. Rac1 e4 32. a3 Rf3 33. Kg2 Rd7
+34. Rd2 Kc7 35. h5 Kd6 36. Rh1 Ke5 37. h6 Rh7 38. Rh4 Kf5 39. Rd1 Kg5 40. Rdh1
+Rf5 41. Rh5+ Kg6 42. Rxf5 Kxf5 43. Kf1 Ke5 44. Ke1 Kd4 45. c5 Kc3 46. Kd1 a6
+47. Rh5 d2 48. Ke2 Rd7 49. Rh1 Rh7 50. Rd1 e3 51. Kxe3 Rxh6 52. Rxd2 Re6+ 53.
+Kf4 Kxd2 54. Kxg4 Re8 55. a4 Kc3 56. b5 Kc4 57. bxa6 bxa6 58. Kf5 Kxc5 59. f4
+Kd6 60. g4 Rf8+ 0-1

@@ -1,0 +1,21 @@
+[Event "Dieren"]
+[Site "Dieren"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Blees, Albert"]
+[Black "Ligterink, Gert"]
+[Result "1/2-1/2"]
+[ECO "E56"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line with 7...Nc6"]
+[HashCode "014b513f"]
+[Epoch "Rook"]
+[BlackID "1000179"]
+[BlackCountry "NED"]
+[WhiteID "1000217"]
+[WhiteCountry "NED"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 c5 6. Nf3 d5 7. O-O Nc6 8. a3
+cxd4 9. exd4 Bxc3 10. bxc3 dxc4 11. Bxc4 Qa5 12. Qe2 Qxc3 13. Bb2 Qa5 14. Rfd1
+Ne7 15. Ne5 Ned5 16. g4 b5 17. Bd3 Bb7 18. Qf3 Qd8 19. g5 Nd7 20. Bxh7+ Kxh7
+21. g6+ fxg6 22. Qh3+ Kg8 23. Qxe6+ Kh7 24. Qh3+ 1/2-1/2

@@ -1,0 +1,23 @@
+[Event "Budapest"]
+[Site "Budapest"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Rajna, George"]
+[Black "Lukacs, Peter"]
+[Result "1-0"]
+[ECO "C33"]
+[Opening "KGA"]
+[Variation "bishop's gambit, Jaenisch variation"]
+[HashCode "d9785eb4"]
+[Epoch "Rook"]
+[BlackID "700142"]
+[BlackCountry "HUN"]
+[WhiteID "2801566"]
+[WhiteCountry "ISR"]
+
+1. e4 e5 2. f4 exf4 3. Bc4 Nf6 4. Nc3 c6 5. Bb3 d5 6. exd5 Bd6 7. Qe2+ Be7 8.
+Nf3 O-O 9. O-O Bd6 10. d4 Bg4 11. Qd3 Nbd7 12. dxc6 bxc6 13. Ng5 Qc7 14. Nce4
+Nxe4 15. Nxe4 Bf5 16. Nf6+ Nxf6 17. Qxf5 c5 18. Bxf4 c4 19. Ba4 Qb6 20. Rad1
+Bxf4 21. Rxf4 Qxb2 22. d5 Qxa2 23. Bb5 Rac8 24. d6 Qa5 25. d7 Qb6+ 26. Kh1 Rb8
+27. Bxc4 Rfd8 28. Rfd4 Rb7 29. Bb3 Qb5 30. Qf3 h5 31. Ba4 Qb6 32. Rd6 Qb4 33.
+h3 Rc7 34. Rxf6 Rc3 35. Rf4 1-0

@@ -1,0 +1,16 @@
+[Event "corr Pan American tt"]
+[Site "corr Pan American tt"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Roura, W."]
+[Black "Sarosy, Zoltan"]
+[Result "0-1"]
+[ECO "C45"]
+[Opening "Scotch"]
+[Variation "Potter variation"]
+[HashCode "8da9a8e0"]
+[Epoch "Rook"]
+[BlackCountry "CAN"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Bc5 5. Nb3 Bb6 6. a4 a6 7. Nc3 d6 8. Nd5
+Ba7 0-1

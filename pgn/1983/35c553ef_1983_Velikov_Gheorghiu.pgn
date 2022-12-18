@@ -1,0 +1,18 @@
+[Event "Banco di Roma"]
+[Site "Banco di Roma"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Velikov, Petar"]
+[Black "Gheorghiu, Florin"]
+[Result "1/2-1/2"]
+[ECO "E60"]
+[Opening "King's Indian, 3.Nf3"]
+[HashCode "35c553ef"]
+[Epoch "Rook"]
+[BlackID "1200011"]
+[BlackCountry "ROU"]
+[WhiteID "2900149"]
+[WhiteCountry "FID"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. Nc3 O-O 5. Bg5 c5 6. d5 d6 7. e4 e6 8. Be2 h6
+9. Bf4 exd5 10. exd5 Nh5 11. Bd2 f5 12. O-O Nd7 13. Ne1 Ne5 14. Qc1 1/2-1/2

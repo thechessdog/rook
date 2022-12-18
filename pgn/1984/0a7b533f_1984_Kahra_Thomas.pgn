@@ -1,0 +1,17 @@
+[Event "corr Tch-EU"]
+[Site "corr Tch-EU"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Kahra, Harry"]
+[Black "Thomas"]
+[Result "1/2-1/2"]
+[ECO "B18"]
+[Opening "Caro-Kann"]
+[Variation "classical, 6.h4"]
+[HashCode "0a7b533f"]
+[Epoch "Rook"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6 7. f4 e6 8.
+Nf3 Nd7 9. h5 Bh7 10. Bd3 Bxd3 11. Qxd3 Qc7 12. Bd2 O-O-O 13. O-O-O Bd6 14.
+Ne2 Ngf6 15. g3 c5 16. Nc3 a6 17. Ne4 Nxe4 18. Qxe4 Nf6 19. Qe2 1/2-1/2
+

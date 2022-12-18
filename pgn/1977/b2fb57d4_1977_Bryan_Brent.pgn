@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Bryan, D."]
+[Black "Brent, M."]
+[Result "0-1"]
+[ECO "C15"]
+[Opening "French"]
+[Variation "Winawer, fingerslip variation"]
+[HashCode "b2fb57d4"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. Bd2 dxe4 5. Nxe4 Qxd4 6. Nc3 Bd7 7. Nf3 Qb6
+8. a3 Be7 9. Rb1 c5 10. Bf4 Nf6 11. Ne5 O-O 12. Bd3 Nc6 13. Nxd7 Nxd7 14.
+Ne4 e5 15. Ng5 exf4 16. Qg4 Bxg5 17. Qxg5 Rfe8+ 18. Be2 Nd4 19. Qg4 Nf6 20.
+Qxf4 Qb5 21. O-O Nxe2+ 22. Kh1 Nxf4 23. g3 Qe2 24. gxf4 Qf3+ 25. Kg1 Nh5
+26. Rfe1 Nxf4 27. Kf1 Qh1# 0-1
+

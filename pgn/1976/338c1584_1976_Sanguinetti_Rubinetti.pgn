@@ -1,0 +1,27 @@
+[Event "Mar del Plata"]
+[Site "Mar del Plata"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Sanguinetti, Renato"]
+[Black "Rubinetti, Jorge"]
+[Result "1-0"]
+[ECO "A75"]
+[Opening "Benoni"]
+[Variation "classical with ...a6 and 10...Bg4"]
+[HashCode "338c1584"]
+[Epoch "Rook"]
+[BlackID "100161"]
+[BlackCountry "ARG"]
+[WhiteCountry "ARG"]
+
+1. d4 c5 2. d5 Nf6 3. c4 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. Nf3 Bg7 8. Be2
+O-O 9. O-O a6 10. a4 Bg4 11. Bf4 Re8 12. Nd2 Bxe2 13. Qxe2 Nh5 14. Be3 Nd7 15.
+Kh1 Qc7 16. f4 Nhf6 17. Qf3 c4 18. Rae1 Rab8 19. Ba7 Rbc8 20. Bd4 Qb8 21. a5
+Qc7 22. Bxf6 Nxf6 23. e5 dxe5 24. fxe5 Rxe5 25. d6 Qxd6 26. Rxe5 Qxe5 27. Qxb7
+Qc7 28. Qxa6 Ng4 29. Nf3 Rb8 30. Nd5 Qc5 31. Nb6 Nf2+ 32. Kg1 Ng4+ 33. Kh1 Nf2+
+34. Kg1 Ne4+ 35. Kh1 Qc6 36. Qa7 Rf8 37. Qe7 Bxb2 38. Nd7 Ba3 39. Qxe4 Qxd7 40.
+Qxc4 Bb2 41. Ng5 Kg7 42. a6 Bf6 43. Nxh7 Kxh7 44. Rxf6 Kg7 45. Rf1 Ra8 46. Ra1
+Qd6 47. h3 Ra7 48. Qf1 Qc6 49. Ra5 Qb6 50. Ra4 Qc6 51. Qa1+ f6 52. Ra2 Qb6 53.
+Qf1 Qe6 54. Ra1 Qc6 55. Qd3 Qb6 56. Ra4 Qc6 57. Ra1 Qe6 58. Qb5 Qd6 59. Qc4 g5
+60. Qc8 Qb4 61. Qc6 Qb2 62. Rf1 Rf7 63. Qd6 Qa2 64. Rc1 Qa5 65. Kh2 g4 66. Rc4
+gxh3 67. Qg3+ Kf8 68. Rc8+ 1-0

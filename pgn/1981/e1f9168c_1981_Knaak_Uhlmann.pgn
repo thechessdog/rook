@@ -1,0 +1,23 @@
+[Event "Leipzig"]
+[Site "Leipzig"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Knaak, Rainer"]
+[Black "Uhlmann, Wolfgang"]
+[Result "0-1"]
+[ECO "E88"]
+[Opening "King's Indian"]
+[Variation "Saemisch, orthodox, 7.d5 c6"]
+[HashCode "e1f9168c"]
+[Epoch "Rook"]
+[BlackID "4611284"]
+[WhiteID "4611250"]
+[WhiteCountry "GER"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 e5 7. d5 c6 8. Bd3 cxd5
+9. cxd5 Nh5 10. Nge2 f5 11. exf5 gxf5 12. O-O Nd7 13. Qd2 Nc5 14. Bc2 a5 15. a3
+Bd7 16. b4 Na6 17. Rab1 axb4 18. axb4 Qe8 19. Nd1 Rc8 20. Nf2 Nc7 21. Nh3 Kh8
+22. Rbc1 f4 23. Bf2 Bxh3 24. gxh3 Nxd5 25. Bxh7 Ne3 26. Bxe3 fxe3 27. Qd3 Rxc1
+28. Rxc1 Qe6 29. Be4 Qxh3 30. Bxb7 Bh6 31. Rc4 Rg8+ 32. Rg4 Rxg4+ 33. fxg4 Bf4
+34. Bg2 Qxh2+ 35. Kf1 Qh4 36. Kg1 Qe1+ 0-1

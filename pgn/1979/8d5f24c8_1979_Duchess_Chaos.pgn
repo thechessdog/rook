@@ -1,0 +1,33 @@
+[Event "ACM Detroit"]
+[Site "ACM Detroit"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Duchess"]
+[Black "Chaos"]
+[Result "1-0"]
+[ECO "B24"]
+[Opening "Sicilian"]
+[Variation "closed"]
+[HashCode "8d5f24c8"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 e6 4. Nf3 d5 5. exd5 exd5 6. d4 Bg4 7. Be2 Nf6 8.
+Bg5 Bxf3 9. Bxf3 Qe7+ 10. Kf1 cxd4 11. Nxd5 Qd8 12. Qe2+ Kd7 13. Qb5 Rb8
+14. Nxf6+ gxf6 15. Qf5+ Kc7 16. Bxf6 Be7 17. Bxh8 Qxh8 18. Qxf7 Qg8 19.
+Qxg8 Rxg8 20. Be4 Rh8 21. f4 Na5 22. Ke2 Nc4 23. Rhb1 Bf6 24. Kd3 Nb6 25.
+Re1 Kb8 26. Rab1 Na4 27. Bf5 h5 28. Bg6 Nc5+ 29. Kc4 Nd7 30. Re8+ Rxe8 31.
+Bxe8 Nb6+ 32. Kc5 h4 33. gxh4 Kc8 34. h5 Kd8 35. Bb5 Kc7 36. h6 a6 37. Bd3
+Bh8 38. Bf5 Na4+ 39. Kb4 b5 40. Ka5 Kb7 41. Be4+ Ka7 42. h7 Nb6 43. h4 Nc4+
+44. Kb4 Kb6 45. c3 a5+ 46. Kb3 dxc3 47. Rd1 Nd2+ 48. Rxd2 cxd2 49. Kc2 b4
+50. h5 Kc5 51. Kxd2 Bxb2 52. h6 Bh8 53. Ke3 Kc4 54. Bc2 Kd5 55. Bb3+ Kc5
+56. Ke4 Kd6 57. Kf5 Kd7 58. Kg6 Ke7 59. f5 Be5 60. Bc2 Bf6 61. Be4 Bh8 62.
+Bf3 Be5 63. Bc6 Bf6 64. Be8 Be5 65. Bb5 Bh8 66. Bc4 a4 67. Bg8 Bf6 68. Bd5
+Be5 69. Kg5 Bf6+ 70. Kf4 Kf8 71. Ke4 Ke7 72. Be6 a3 73. Kd3 Bh8 74. Kc4 Bc3
+75. Kc5 Kd8 76. Kd6 Ke8 77. Bb3 Bb2 78. Ke6 Bh8 79. Ba4+ Kf8 80. Bd1 Ke8
+81. f6 Kf8 82. Bb3 Ke8 83. Ba4+ Kf8 84. Bd1 Ke8 85. Bb3 Kf8 86. Bc4 Ke8 87.
+Bb5+ Kf8 88. Ba4 b3 89. Bxb3 Ke8 90. Bc2 Kf8 91. Bd3 Ke8 92. Bb5+ Kf8 93.
+Ba6 Ke8 94. Bd3 Kf8 95. Be2 Ke8 96. Bh5+ Kf8 97. Bg4 Ke8 98. Bf3 Kf8 99.
+Be4 Ke8 100. Bg6+ Kf8 101. Bf5 Ke8 102. Be4 Kf8 103. Bb1 Ke8 104. Bf5 Kf8
+105. Bc2 Ke8 106. Ba4+ Kf8 107. Bd1 Ke8 108. Be2 Kf8 109. Bf3 Ke8 110. Bc6+
+Kf8 111. Bd5 1-0
+

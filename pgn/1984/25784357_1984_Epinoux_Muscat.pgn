@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Epinoux"]
+[Black "Muscat"]
+[Result "0-1"]
+[ECO "C69"]
+[Opening "Ruy Lopez"]
+[Variation "exchange, Bronstein variation"]
+[HashCode "25784357"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O Qd6 6. Na3 b5 7. c4 Bg4
+8. h3 h5 9. Qb3 O-O-O 10. hxg4 hxg4 11. Nh2 Qh6 12. Qg3 Rd3 13. Qxe5 Bd6
+14. Qf5+ Kd8 15. Re1 Qxh2+ 16. Kf1 Nh6 17. Qg5+ Be7 18. Qxg7 Rg8 19. Qh7 f5
+20. exf5 Bf6 21. Re6 Qh4 22. Re7 Bxe7 23. f6 Rd7 24. f7 Rf8 25. d3 Rxf7 0-1
+

@@ -1,0 +1,28 @@
+[Event "Skien op"]
+[Site "Skien"]
+[Date "1980.??.??"]
+[Round "7"]
+[White "Goodman, David S C"]
+[Black "Wahlbom, Magnus"]
+[Result "1-0"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Nimzovich (knight's tour) variation"]
+[HashCode "a4a45f68"]
+[Epoch "Rook"]
+[BlackID "1700685"]
+[BlackCountry "SWE"]
+[WhiteID "400351"]
+[WhiteCountry "ENG"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. Nd2 Nbd7 8. e4
+Bg7 9. Be2 O-O 10. O-O Re8 11. a4 a6 12. Qc2 Ne5 13. b3 Rb8 14. Bb2 g5 15. a5
+g4 16. Na4 Nfd7 17. Bc3 Qg5 18. Rae1 Qf4 19. g3 Qh6 20. Bxe5 Nxe5 21. Nb6 Qg6
+22. Nxc8 Rbxc8 23. Nc4 Nxc4 24. Bxc4 Bd4 25. Kg2 Re5 26. f4 gxf3+ 27. Rxf3 Rce8
+28. Bd3 Qg7 29. Ref1 R5e7 30. Qd1 Be5 31. Rf5 Kh8 32. Qf3 f6 33. Rh5 Rg8 34.
+Bb1 Qg6 35. Kh1 Reg7 36. Bc2 Qe8 37. Bd1 Qd8 38. Qd3 Qxa5 39. Bf3 Qa2 40. Bg2
+Bxg3 41. hxg3 Rxg3 42. Bf3 R8g6 43. e5 dxe5 44. d6 Rg7 45. Qf5 Qd2 46. Be4 R3g6
+47. Qc8+ Rg8 48. Qxb7 R8g7 49. Qc8+ Rg8 50. Qd7 Rg1+ 51. Rxg1 Rxg1+ 52. Kxg1
+Qe1+ 53. Kh2 Qf2+ 54. Bg2 Qf4+ 55. Kg1 Qe3+ 56. Kf1 Qd3+ 57. Kf2 Qd2+ 58. Kf3
+e4+ 59. Kxe4 Qxg2+ 60. Kf5 Qg6+ 61. Ke6 Qxh5 62. Qd8+ Kg7 63. Qxf6+ Kg8 64. Ke7
+1-0

@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Van de Aart"]
+[Black "Van de Riet"]
+[Result "0-1"]
+[ECO "C57"]
+[Opening "two knights defence"]
+[Variation "Wilkes Barre (Traxler) variation"]
+[HashCode "4a75dedc"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 Bc5 5. Nxf7 Bxf2+ 6. Kf1 Qe7 7. Nxh8
+d5 8. exd5 Nd4 9. c3 Bg4 10. Qa4+ Nd7 11. Kxf2 Qh4+ 12. g3 Qf6+ 13. Ke1 Qf5
+14. cxd4 Qe4+ 15. Kf2 Qf3+ 16. Ke1 Qxh1+ 17. Bf1 Qe4+ 18. Kf2 O-O-O 19. d3
+Rf8+ 20. Bf4 Qf3+ 21. Ke1 exf4 22. Qc2 Re8+ 23. Kd2 Qxf1 24. Kc3 Re2 0-1
+

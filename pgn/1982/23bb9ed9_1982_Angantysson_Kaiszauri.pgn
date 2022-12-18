@@ -1,0 +1,19 @@
+[Event "Reykjavik"]
+[Site "Reykjavik"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Angantysson, Haukur"]
+[Black "Kaiszauri, Konstanty"]
+[Result "1-0"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical system, 5.Be2"]
+[HashCode "23bb9ed9"]
+[Epoch "Rook"]
+[WhiteCountry "ISL"]
+[BlackID "1700510"]
+[BlackCountry "SWE"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Nf3 Bg7 5. Be2 O-O 6. O-O Bg4 7. Be3 Nc6 8. h3
+Bxf3 9. Bxf3 e5 10. d5 Ne7 11. Be2 Nd7 12. g4 Kh8 13. Kg2 Ng8 14. h4 Qxh4 15.
+g5 1-0

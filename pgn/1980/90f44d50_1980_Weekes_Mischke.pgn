@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Weekes"]
+[Black "Mischke"]
+[Result "0-1"]
+[ECO "B03"]
+[Opening "Alekhine's defence"]
+[Variation "four pawns attack, 7.Be3"]
+[HashCode "90f44d50"]
+[Epoch "Rook"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. c4 Nb6 5. f4 dxe5 6. fxe5 Nc6 7. Be3 Bf5 8.
+Nc3 e6 9. Nf3 Be7 10. d5 Nb4 11. Rc1 exd5 12. a3 c5 13. axb4 d4 14. bxc5
+dxc3 15. Qxd8+ Rxd8 16. b3 Nd7 17. b4 a5 18. b5 Nxc5 19. Rxc3 Ne4 20. Rd3
+Bb4+ 21. Nd2 O-O 22. Rd5 Be6 0-1
+

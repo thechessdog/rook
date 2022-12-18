@@ -1,0 +1,28 @@
+[Event "Tallinn"]
+[Site "Tallinn"]
+[Date "1979.01.01"]
+[Round "9"]
+[White "Zilberstein, Valery I"]
+[Black "Veingold, Aleksandr"]
+[Result "0-1"]
+[ECO "D83"]
+[Opening "Gruenfeld"]
+[Variation "Gruenfeld gambit, Botvinnik variation"]
+[HashCode "adb1f194"]
+[Epoch "Rook"]
+[BlackID "4500032"]
+[BlackCountry "EST"]
+[WhiteCountry "RUS"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Bf4 Bg7 5. Rc1 O-O 6. e3 c5 7. dxc5 Be6 8. Nf3
+Nc6 9. Be2 Ne4 10. O-O Nxc3 11. bxc3 dxc4 12. Ng5 Bd7 13. Bxc4 Na5 14. Be2 e5
+15. Bg3 Bc6 16. f4 Bh6 17. Nf3 exf4 18. Bxf4 Bxf4 19. exf4 Qe7 20. Nd4 Qxc5 21.
+f5 Rfe8 22. Qd2 Qe5 23. Rfe1 Rad8 24. Bf1 Qxf5 25. Rxe8+ Bxe8 26. Re1 Qc5 27.
+Re3 Nc4 28. Bxc4 Qxc4 29. Qf2 Bc6 30. Qf6 Qd5 31. Re2 Re8 32. Rxe8+ Bxe8 33. a3
+Bc6 34. Qf2 Qe4 35. h3 Bd5 36. Qd2 a6 37. Nf3 Qb1+ 38. Kh2 Qe4 39. Nd4 Kg7 40.
+Kg1 b5 41. Nf3 h6 42. Ne1 f5 43. Nd3 a5 44. Nc5 Qc4 45. Qe3 Kf7 46. Nd3 Qe4 47.
+Qg3 g5 48. Qc7+ Kg6 49. Ne5+ Kh5 50. Nf3 g4 51. hxg4+ fxg4 52. Qh2+ Kg6 53.
+Qd6+ Qe6 54. Qxe6+ Bxe6 55. Nd4 Bd7 56. Kf2 h5 57. g3 Kg5 58. Nb3 Be6 59. Nd4
+Bc4 60. Ke3 a4 61. Ke4 h4 62. gxh4+ Kxh4 63. Nf5+ Kh3 64. Kf4 Bf1 65. Ng3 Bd3
+66. Nh5 Kg2 67. Nf6 Be2 68. Ne4 Bf3 69. Nd2 Kf2 70. c4 Ke2 71. Nb1 Kd3 72. cxb5
+Kc2 0-1

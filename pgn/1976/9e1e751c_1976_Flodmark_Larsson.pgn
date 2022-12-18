@@ -1,0 +1,21 @@
+[Event "corr SWE/K tt"]
+[Site "corr SWE/K tt"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Flodmark, Tarras"]
+[Black "Larsson, Anders"]
+[Result "1/2-1/2"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Nimzovich (knight's tour) variation"]
+[HashCode "9e1e751c"]
+[Epoch "Rook"]
+[WhiteID "1719858"]
+[BlackID "1712128"]
+[WhiteCountry "SWE"]
+[BlackCountry "SWE"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. Nd2 Nbd7 8. e4
+Bg7 9. Be2 O-O 10. O-O Re8 11. a4 a6 12. Qc2 Ne5 13. h3 g5 14. Ra3 Qe7 15. Nc4
+Nxc4 16. Bxc4 Nd7 17. Ne2 Ne5 18. Ba2 Ng6 19. Bb1 Be5 20. f4 gxf4 21. Nxf4 Bd7
+22. Qf2 Nxf4 23. Bxf4 Bd4 24. Be3 Be5 25. Bf4 Bd4 1/2-1/2

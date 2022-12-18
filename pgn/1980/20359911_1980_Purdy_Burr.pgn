@@ -1,0 +1,17 @@
+[Event "corr CCLA"]
+[Site "corr CCLA"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Purdy, C."]
+[Black "Burr"]
+[Result "1-0"]
+[ECO "C65"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence, 4.O-O"]
+[HashCode "20359911"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Be7 5. Nc3 d6 6. Bxc6+ bxc6 7. d4 Nd7
+8. dxe5 dxe5 9. Qe2 f6 10. Rd1 Bd6 11. Nh4 g6 12. Nf3 Nb6 13. a4 a5 14. b3
+1-0
+

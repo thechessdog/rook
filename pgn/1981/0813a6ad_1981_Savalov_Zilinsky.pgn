@@ -1,0 +1,16 @@
+[Event "Antrazit"]
+[Site "Antrazit"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Savalov"]
+[Black "Zilinsky"]
+[Result "0-1"]
+[ECO "D06"]
+[Opening "QGD"]
+[Variation "Grau (Sahovic) defence"]
+[HashCode "0813a6ad"]
+[Epoch "Rook"]
+
+1. d4 d5 2. c4 Bf5 3. cxd5 Bxb1 4. Rxb1 Qxd5 5. Qa4+ Nc6 6. Nf3 e5 7. dxe5
+Bb4+ 8. Bd2 Qe4 9. Qd1 O-O-O 10. g3 Bxd2+ 11. Nxd2 Qxh1 0-1
+

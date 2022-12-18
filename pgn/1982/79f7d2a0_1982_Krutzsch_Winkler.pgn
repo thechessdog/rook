@@ -1,0 +1,20 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Krutzsch"]
+[Black "Winkler"]
+[Result "1-0"]
+[ECO "C07"]
+[Opening "French"]
+[Variation "Tarrasch, open variation"]
+[HashCode "79f7d2a0"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. Ngf3 cxd4 5. Nxd4 Nf6 6. e5 Nfd7 7. f4 Nc6
+8. N2b3 a5 9. Bd3 a4 10. Nxc6 bxc6 11. Nd4 c5 12. Nxe6 fxe6 13. Qh5+ Ke7
+14. f5 Qa5+ 15. Bd2 Qb6 16. Bg5+ Nf6 17. fxe6 Bxe6 18. Rf1 Qxb2 19. exf6+
+Kd7 20. Rd1 c4 21. Be2 Bb4+ 22. Bd2 Bxd2+ 23. Rxd2 Qb1+ 24. Bd1 Rae8 25.
+Re2 Qb4+ 26. Kf2 Qb6+ 27. Ke1 g6 28. Qf3 Qb4+ 29. c3 Qa5 30. f7 Re7 31. Qe3
+Rf8 32. Rf6 1-0
+

@@ -1,0 +1,25 @@
+[Event "corr Tch-EU"]
+[Site "corr Tch-EU"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Hawkes"]
+[Black "Krantz"]
+[Result "0-1"]
+[ECO "E42"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5, 5.Ne2 (Rubinstein)"]
+[HashCode "4b2239cf"]
+[Epoch "Rook"]
+
+1. c4 e6 2. d4 Bb4+ 3. Nc3 Nf6 4. e3 c5 5. Ne2 cxd4 6. exd4 d5 7. c5 Ne4 8.
+Bd2 Nxd2 9. Qxd2 b6 10. a3 Bxc3 11. Nxc3 bxc5 12. dxc5 a5 13. Na4 O-O 14.
+Be2 Nc6 15. O-O e5 16. Nb6 Rb8 17. b4 axb4 18. axb4 Nd4 19. Ra3 Be6 20. Re1
+Qf6 21. Bf1 Rfd8 22. Ra6 Nb3 23. Qc2 Nd4 24. Qc3 e4 25. Qa1 Nc2 26. Qxf6
+gxf6 27. Rb1 d4 28. c6 Rf8 29. b5 d3 30. c7 Rb7 31. Na8 Nd4 32. b6 Bb3 33.
+Rb2 Kg7 34. h3 f5 35. Ra3 Kf6 36. Kh2 Rg8 37. Kh1 Ke5 38. Rbxb3 Nxb3 39.
+Rxb3 d2 40. Be2 Rxa8 41. Rb2 f4 42. Bd1 Rc8 43. Kg1 e3 44. Kf1 Kd4 45. Ke2
+Kc5 46. fxe3 fxe3 47. Kxe3 Rxb6 48. Rc2+ Kd6 49. Rxd2+ Ke5 50. Bf3 Rxc7 51.
+Rd5+ Kf6 52. Kf4 Rc4+ 53. Kg3 Kg6 54. Bh5+ Kh6 55. Bf3 Rg6+ 56. Kh2 Rf4 57.
+Rh5+ Kg7 58. Rd5 f6 59. Rd7+ Kh6 60. Ra7 Rg5 61. Rb7 Kg6 62. Rb8 Rd4 63.
+Rg8+ Kf5 64. Rh8 Rg7 65. Be2 Kf4 66. Bc4 Rxc4 0-1
+

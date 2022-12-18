@@ -1,0 +1,19 @@
+[Event "Luzern olm"]
+[Site "Luzern olm"]
+[Date "1982.10.01"]
+[Round "1"]
+[White "Behrenfelt"]
+[Black "Kgatshe, S."]
+[Result "1-0"]
+[ECO "E00"]
+[Opening "Queen's pawn game"]
+[HashCode "19a12377"]
+[Epoch "Rook"]
+[BlackID "11300035"]
+[BlackCountry "BOT"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 g6 4. Bg5 d5 5. Nf3 Be7 6. Bh6 c5 7. e3 Ng4 8. Bg7
+Rg8 9. Be5 Nc6 10. Bg3 Bd7 11. cxd5 exd5 12. Nxd5 Be6 13. Nc7+ Kf8 14. Nxe6+
+fxe6 15. Bc4 Nh6 16. O-O Qc8 17. dxc5 Na5 18. Rc1 Nf5 19. Nd4 Nxc4 20. Rxc4
+Nxg3 21. fxg3+ Ke8 22. Qa4+ Qd7 23. c6 bxc6 24. Nxc6 Rc8 25. Rd1 Bd6 26. Rxd6
+Qxd6 27. Ne5+ Ke7 28. Qxa7+ Kf6 29. Qf7+ Kg5 30. Qf4+ 1-0

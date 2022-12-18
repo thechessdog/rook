@@ -1,0 +1,19 @@
+[Event "Pamporovo"]
+[Site "Pamporovo"]
+[Date "1982.01.01"]
+[Round "8"]
+[White "Kirov, Nino"]
+[Black "Velikov, Petar"]
+[Result "1/2-1/2"]
+[ECO "B10"]
+[Opening "Caro-Kann"]
+[Variation "anti-anti-Caro-Kann defence"]
+[HashCode "b58bed7a"]
+[Epoch "Rook"]
+[BlackID "2900149"]
+[BlackCountry "FID"]
+[WhiteCountry "BGR"]
+
+1. e4 c6 2. c4 d5 3. cxd5 cxd5 4. exd5 Nf6 5. Nc3 g6 6. Bb5+ Nbd7 7. d6 exd6 8.
+Qe2+ Qe7 9. Qxe7+ Kxe7 10. Nf3 a6 11. Bc4 Bg7 12. d4 h6 13. O-O Nb6 14. Bb3 Be6
+15. Bxe6 fxe6 16. Re1 Kf7 1/2-1/2

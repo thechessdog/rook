@@ -1,0 +1,23 @@
+[Event "Skara etc"]
+[Site "Skara etc"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Kagan, Shimon"]
+[Black "Plachetka, Jan"]
+[Result "1-0"]
+[ECO "B45"]
+[Opening "Sicilian"]
+[Variation "Taimanov variation"]
+[HashCode "35749197"]
+[Epoch "Rook"]
+[WhiteID "2800284"]
+[WhiteCountry "ISR"]
+[BlackID "14900068"]
+[BlackCountry "SVK"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 d6 6. g3 Bd7 7. Bg2 Nf6 8. O-O
+a6 9. b3 Be7 10. Bb2 Nxd4 11. Qxd4 Bc6 12. Nd1 O-O 13. Ne3 Qc7 14. c4 b6 15.
+Rfe1 Rfd8 16. Rac1 Qb7 17. Nc2 d5 18. exd5 exd5 19. Qf4 Bc5 20. Bxf6 gxf6 21.
+b4 Bf8 22. Nd4 Bxb4 23. Nf5 Bf8 24. cxd5 Bxd5 25. Rc7 Bxg2 26. Rxb7 Bxb7 27.
+Qc7 Bd5 28. Qxb6 Re8 29. Ra1 Re6 30. Qd4 Be4 31. Ne3 Rc8 32. Qd7 Rec6 33. Qg4+
+Kh8 34. Qxe4 1-0

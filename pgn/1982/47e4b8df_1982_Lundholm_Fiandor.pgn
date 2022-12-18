@@ -1,0 +1,22 @@
+[Event "corr ch-EU"]
+[Site "corr ch-EU"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Lundholm"]
+[Black "Fiandor"]
+[Result "1-0"]
+[ECO "E19"]
+[Opening "Queen's Indian"]
+[Variation "old main line, 9.Qxc3"]
+[HashCode "47e4b8df"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2 Be7 6. O-O O-O 7. Nc3 Ne4 8.
+Qc2 Nxc3 9. Qxc3 Be4 10. Rd1 f5 11. Ne1 Bxg2 12. Nxg2 Bf6 13. Qf3 Nc6 14.
+Be3 g5 15. Rab1 Qe7 16. Qh5 Qg7 17. d5 Nd4 18. dxe6 dxe6 19. Bxd4 Bxd4 20.
+e3 Bxb2 21. Rxb2 Qxb2 22. Rd7 Qb1+ 23. Ne1 f4 24. Qxg5+ Qg6 25. Qxg6+ hxg6
+26. exf4 Rf7 27. Rd2 Rb8 28. a4 a6 29. Nf3 b5 30. axb5 axb5 31. Ne5 Rg7 32.
+cxb5 Rxb5 33. Rd8+ Kh7 34. h4 c5 35. Rc8 Ra7 36. Kg2 Ra2 37. Rc7+ Kg8 38.
+Nxg6 Rbb2 39. h5 Rxf2+ 40. Kh3 Rh2+ 41. Kg4 c4 42. Kg5 Ra5+ 43. Ne5 c3 44.
+Kg6 1-0
+

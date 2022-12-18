@@ -1,0 +1,19 @@
+[Event "corr DDR-M"]
+[Site "corr DDR-M"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Poehlmann, E."]
+[Black "Guenther, M."]
+[Result "1/2-1/2"]
+[ECO "C43"]
+[Opening "Petrov"]
+[Variation "modern attack, main line"]
+[HashCode "048b3719"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nf6 3. d4 exd4 4. e5 Ne4 5. Qxd4 d5 6. exd6 Nxd6 7. Bg5 f6
+8. Bf4 Nc6 9. Qa4 Bd7 10. Nbd2 Qe7+ 11. Be3 Nf5 12. O-O-O Nxe3 13. Re1 Nb4
+14. Qb3 O-O-O 15. Rxe3 Qc5 16. Bc4 Nc6 17. Ne4 Qb4 18. Be6 Qxb3 19. Bxd7+
+Rxd7 20. axb3 Bb4 21. Nh4 Rhd8 22. c3 Bf8 23. f4 Rd5 24. g4 g5 25. fxg5
+fxg5 26. Nf3 h6 27. Rhe1 Bg7 28. Ng3 Bf8 29. Nf5 1/2-1/2
+

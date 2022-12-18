@@ -1,0 +1,17 @@
+[Event "Malmo"]
+[Site "Malmo"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Nilzon"]
+[Black "Garces, Napoleon"]
+[Result "0-1"]
+[ECO "B01"]
+[Opening "Scandinavian"]
+[Variation "Pytel-Wade variation"]
+[HashCode "603e32e8"]
+[Epoch "Rook"]
+[BlackID "3600130"]
+[BlackCountry "ECU"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Nf3 Bg4 6. Bc4 c6 7. Bxf7+ Kxf7
+8. Ne5+ Qxe5+ 0-1

@@ -1,0 +1,16 @@
+[Event "Dayton,OH"]
+[Site "Dayton,OH"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Ferens, Dan"]
+[Black "Wall, Bill"]
+[Result "0-1"]
+[ECO "A51"]
+[Opening "Budapest"]
+[Variation "Fajarowicz variation"]
+[HashCode "9096e795"]
+[Epoch "Rook"]
+[BlackCountry "USA"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ne4 4. Nf3 Bc5 5. e3 d6 6. Nbd2 Bf5 7. Nxe4 Bxe4 8.
+Bd3 Bxd3 9. Qxd3 O-O 10. O-O Nc6 11. exd6 Bxd6 12. b3 Bxh2+ 0-1

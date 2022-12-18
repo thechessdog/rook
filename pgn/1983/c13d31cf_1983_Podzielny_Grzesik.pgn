@@ -1,0 +1,24 @@
+[Event "Bundesliga 8283"]
+[Site "Germany"]
+[Date "1983.??.??"]
+[Round "?"]
+[White "Podzielny, Karl-Heinz"]
+[Black "Grzesik, Thomas"]
+[Result "1-0"]
+[ECO "A78"]
+[Opening "Benoni"]
+[Variation "classical with ...Re8 and ...Na6"]
+[HashCode "c13d31cf"]
+[Epoch "Rook"]
+[BlackID "4603982"]
+[BlackCountry "GER"]
+[WhiteCountry "DEU"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. e4 Bg7 8. Be2
+O-O 9. O-O Re8 10. Nd2 Na6 11. Re1 Nc7 12. a4 b6 13. Qc2 Rb8 14. Nc4 Ba6 15.
+Bf4 Bxc4 16. Bxc4 Nh5 17. Be3 a6 18. Qd3 b5 19. axb5 axb5 20. Nxb5 Bxb2 21. Ra2
+Bg7 22. Na7 Qh4 23. Nc6 Ra8 24. Bd2 Rxa2 25. Bxa2 Nf6 26. g3 Qh3 27. f3 Nd7 28.
+Ba5 Ra8 29. f4 Bd4+ 30. Kh1 Nf6 31. Qf3 Ng4 32. Re2 Nb5 33. Bc4 Bc3 34. Bxb5
+Bxa5 35. Ra2 Bd8 36. Bf1 Rxa2 37. Bxh3 Nf2+ 38. Kg1 Nxh3+ 39. Kf1 Rf2+ 40. Qxf2
+Nxf2 41. Kxf2 Bb6 42. Ke2 Kf8 43. Kd3 Ke8 44. Kc4 Kd7 45. Kb5 Bc7 46. e5 Bd8
+47. Nxd8 1-0

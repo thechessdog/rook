@@ -1,0 +1,18 @@
+[Event "Svenigorod"]
+[Site "Svenigorod"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Gurevich, Vladimir"]
+[Black "Voloshin, Viliam"]
+[Result "0-1"]
+[ECO "D91"]
+[Opening "Gruenfeld"]
+[Variation "5.Bg5"]
+[HashCode "bb15a08e"]
+[Epoch "Rook"]
+[BlackID "4104684"]
+[BlackCountry "RUS"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. Nf3 d5 5. Bg5 dxc4 6. e3 Be6 7. Ne5 Nd5 8.
+Bxc4 Nxc3 9. bxc3 Bxc4 10. Nxc4 Qd5 11. Qf3 Qxc4 12. Qxb7 O-O 13. Qxa8 Nc6 14.
+Qb7 Rb8 15. Qxc7 Rb2 0-1

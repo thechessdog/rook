@@ -1,0 +1,19 @@
+[Event "corr ICA"]
+[Site "corr ICA"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Sims"]
+[Black "Walhout, D."]
+[Result "1-0"]
+[ECO "C53"]
+[Opening "Giuoco Piano"]
+[Variation "LaBourdonnais variation"]
+[HashCode "edce3562"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 d6 5. d4 exd4 6. cxd4 Bb6 7. Nc3 Nf6
+8. Be3 Bg4 9. Bb3 O-O 10. Qd3 Re8 11. O-O Qe7 12. Rae1 Bh5 13. Bg5 Bxf3 14.
+Nd5 Qd8 15. Nxb6 Bxg2 16. Kxg2 axb6 17. Rh1 h6 18. f4 Ra5 19. e5 Nb4 20.
+Qc4 Nbd5 21. Bh4 g5 22. fxg5 Ng4 23. g6 Qxh4 24. gxf7+ Kf8 25. fxe8=Q+ Kxe8
+26. exd6+ Kd7 1-0
+

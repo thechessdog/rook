@@ -1,0 +1,20 @@
+[Event "corr NLD/K"]
+[Site "corr NLD/K"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Timmerman"]
+[Black "Holscher"]
+[Result "1-0"]
+[ECO "B87"]
+[Opening "Sicilian"]
+[Variation "Sozin with ...a6 and ...b5"]
+[HashCode "90168e26"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 b5 8.
+Bg5 Be7 9. Qf3 Qc7 10. O-O-O Nc6 11. e5 Nxd4 12. Qxa8 dxe5 13. Bxf6 Bxf6
+14. Kb1 O-O 15. Qe4 Bb7 16. Qg4 h5 17. Qxh5 Bxg2 18. Rhg1 Bf3 19. Qh6 g6
+20. Rde1 Qc6 21. Qe3 Nf5 22. Qc1 Kg7 23. Ne2 Nh4 24. Ng3 Ng2 25. Ref1 Rh8
+26. c4 Rc8 27. Bd1 Bd5 28. c5 Be7 29. Bb3 Bf3 30. Bd1 Be4+ 31. Bc2 Bxc2+
+32. Qxc2 Nf4 33. Rc1 f5 34. b4 e4 35. Qd2 Qc7 36. Qxf4 1-0
+

@@ -1,0 +1,21 @@
+[Event "England"]
+[Site "England"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Lawson, David"]
+[Black "Wright"]
+[Result "1-0"]
+[ECO "C57"]
+[Opening "two knights defence"]
+[Variation "Wilkes Barre (Traxler) variation"]
+[HashCode "35aaa8c2"]
+[Epoch "Rook"]
+[WhiteID "2400103"]
+[WhiteCountry "SCO"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 Bc5 5. Nxf7 Bxf2+ 6. Kf1 Qe7 7. Nxh8 d5
+8. Be2 Nxe4 9. d3 Qf6 10. dxe4 Bc5+ 11. Bf3 dxe4 12. Qd5 exf3 13. Qxc5 fxg2+
+14. Kxg2 Bh3+ 15. Kxh3 Qf3+ 16. Kh4 Qxh1 17. Qf2 Qxc1 18. Qf7+ Kd8 19. Qd5+ Ke7
+20. Qf7+ Kd6 21. Nc3 Qh6+ 22. Kg3 Qf4+ 23. Kg2 Rf8 24. Rd1+ Nd4 25. Nb5+ Kc5
+26. Qxf4 Rxf4 27. Nxd4 exd4 28. Rf1 Re4 29. Nf7 Re2+ 30. Rf2 Re1 31. Ng5 Ra1
+32. Ne6+ Kd6 33. Nxd4 Rxa2 34. b3 g6 35. Nb5+ Kc6 36. Nc3 1-0

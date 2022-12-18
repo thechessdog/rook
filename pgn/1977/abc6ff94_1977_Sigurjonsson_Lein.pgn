@@ -1,0 +1,26 @@
+[Event "New York"]
+[Site "New York"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Sigurjonsson, Gudmundur"]
+[Black "Lein, Anatoly"]
+[Result "1-0"]
+[ECO "C75"]
+[Opening "Ruy Lopez"]
+[Variation "modern Steinitz defence"]
+[HashCode "abc6ff94"]
+[Epoch "Rook"]
+[BlackID "2000270"]
+[BlackCountry "USA"]
+[WhiteID "2300079"]
+[WhiteCountry "ISL"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. c3 Bd7 6. O-O Nf6 7. Re1 Be7 8. d4
+O-O 9. Nbd2 Re8 10. Nf1 Bf8 11. Bg5 b5 12. Bb3 h6 13. Bxf6 Qxf6 14. Ne3 Qd8 15.
+a4 Na5 16. Bc2 exd4 17. cxd4 c6 18. Qd3 g6 19. b4 Nb7 20. axb5 axb5 21. Rxa8
+Qxa8 22. h4 h5 23. Ng5 Nd8 24. f4 Bg7 25. f5 f6 26. Bb3+ d5 27. Nf3 Kf8 28.
+exd5 gxf5 29. Qc3 Qa7 30. dxc6 Nxc6 31. Nd5 Rxe1+ 32. Qxe1 Qb8 33. Qc3 Qd6 34.
+Nb6 Be8 35. Qc5 Qxc5 36. bxc5 Bh6 37. Kf2 Na5 38. Be6 Bc1 39. Bxf5 Bc6 40. Ke2
+Nc4 41. Bg6 Nxb6 42. cxb6 Ke7 43. Bxh5 Kd6 44. Bf7 Bh6 45. d5 Bb7 46. Nd4 Bf8
+47. h5 b4 48. Kd3 Ba6+ 49. Kc2 Ke5 50. Ne6 Bd6 51. h6 b3+ 52. Kxb3 Bd3 53. b7
+Bh7 54. Nf8 Bf5 55. Bg6 1-0

@@ -1,0 +1,19 @@
+[Event "Jaszbereny"]
+[Site "Jaszbereny"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Sapi, Janos"]
+[Black "Rosta, Sandor"]
+[Result "0-1"]
+[ECO "B33"]
+[Opening "Sicilian"]
+[Variation "Pelikan (Lasker/Sveshnikov) variation"]
+[HashCode "8b984024"]
+[Epoch "Rook"]
+[BlackID "705209"]
+[BlackCountry "HUN"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Nf5 d5 7. exd5 Bxf5 8.
+dxc6 Qxd1+ 9. Nxd1 bxc6 10. Ne3 Bg6 11. Ba6 Rb8 12. O-O Bc5 13. c3 O-O 14. a4
+Bxe3 15. fxe3 Rfd8 16. b4 Bd3 17. Bxd3 Rxd3 18. Ra3 Nd5 19. Bb2 Nxe3 20. Re1
+Nc2 21. Rxe5 Nxa3 22. Bxa3 Rxc3 0-1

@@ -1,0 +1,19 @@
+[Event "DDR Tch5"]
+[Site "DDR Tch5"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Lautenschlager"]
+[Black "Kuzaj, H."]
+[Result "0-1"]
+[ECO "B28"]
+[Opening "Sicilian"]
+[Variation "O'Kelly variation"]
+[HashCode "aed73a76"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 a6 3. d3 d6 4. Be2 Nc6 5. c3 g6 6. Be3 Bg7 7. Nbd2 e5 8. a4
+Nge7 9. Nc4 Rb8 10. a5 Be6 11. Nfd2 O-O 12. g4 f5 13. gxf5 gxf5 14. Bg5 Qc7
+15. Rg1 Kh8 16. Nb6 d5 17. Bxe7 Nxe7 18. f3 Bf6 19. Qb3 Bh4+ 20. Kd1 fxe4
+21. fxe4 Rbd8 22. c4 dxc4 23. dxc4 Nc6 24. Nd5 Qd7 25. Nf3 Nd4 26. Qe3 Rxf3
+27. Bxf3 Qf7 28. Rf1 Rf8 29. Be2 Qxf1+ 30. Bxf1 Rxf1+ 31. Kd2 Rxa1 0-1
+

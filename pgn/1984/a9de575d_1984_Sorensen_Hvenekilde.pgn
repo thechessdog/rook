@@ -1,0 +1,22 @@
+[Event "Aarhus-A"]
+[Site "Aarhus"]
+[Date "1984.01.01"]
+[Round "2"]
+[White "Sorensen, Torben"]
+[Black "Hvenekilde, Jorgen"]
+[Result "1/2-1/2"]
+[ECO "C14"]
+[Opening "French"]
+[Variation "classical, Steinitz variation"]
+[HashCode "a9de575d"]
+[Epoch "Rook"]
+[WhiteID "1463357"]
+[BlackID "1400649"]
+[WhiteCountry "DEN"]
+[BlackCountry "DEN"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Nfd7 6. Bxe7 Qxe7 7. f4 c5 8. Nb5
+O-O 9. Nc7 cxd4 10. Nxa8 f6 11. Nf3 Nc6 12. Be2 fxe5 13. fxe5 Ndxe5 14. O-O
+Nxf3+ 15. Bxf3 Rd8 16. Kh1 e5 17. Qd2 Be6 18. Rae1 Rxa8 19. c4 dxc3 20. bxc3
+Rd8 21. Bd1 Kh8 22. Ba4 Bg8 23. Qe3 e4 24. c4 d4 25. Qxe4 Qxe4 26. Rxe4 Bxc4
+27. Rd1 Bxa2 28. Bxc6 bxc6 29. Rexd4 Bd5 30. Kg1 Rb8 31. R1d2 1/2-1/2

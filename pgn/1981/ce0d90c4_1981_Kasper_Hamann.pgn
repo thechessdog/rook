@@ -1,0 +1,18 @@
+[Event "BL2-N 8081"]
+[Site "BL2-N 8081"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Kasper, T."]
+[Black "Hamann, Gunther"]
+[Result "1/2-1/2"]
+[ECO "C26"]
+[Opening "Vienna"]
+[Variation "Paulsen-Mieses variation"]
+[HashCode "ce0d90c4"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nc3 Nf6 3. g3 d5 4. exd5 Nxd5 5. Bg2 Nxc3 6. bxc3 Bd6 7. Rb1 c6 8.
+Nf3 O-O 9. O-O Qc7 10. d3 Nd7 11. Re1 b6 12. c4 Bb7 13. a4 a5 14. c3 Ba6 15.
+Be3 Rab8 16. Qb3 b5 17. cxb5 cxb5 18. axb5 Bxb5 19. c4 Bc6 20. Qc2 Bb4 21. Rec1
+Qb7 22. Ne1 Bxg2 23. Nxg2 Qc6 24. d4 exd4 25. Bxd4 Rfe8 26. Ne3 Bc5 27. Rxb8
+Nxb8 28. Bxc5 Qxc5 29. Qa4 Rxe3 30. fxe3 Qxe3+ 31. Kg2 Qd2+ 1/2-1/2

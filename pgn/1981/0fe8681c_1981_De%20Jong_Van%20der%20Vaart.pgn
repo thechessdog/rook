@@ -1,0 +1,16 @@
+[Event "corr NLD/M"]
+[Site "corr NLD/M"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "De Jong, B."]
+[Black "Van der Vaart, W."]
+[Result "1-0"]
+[ECO "B71"]
+[Opening "Sicilian"]
+[Variation "dragon, Levenfish variation"]
+[HashCode "0fe8681c"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. f4 Bg7 7. e5 dxe5 8.
+fxe5 Ng4 9. Bb5+ Nc6 10. Nxc6 Qb6 11. Qd4 1-0
+

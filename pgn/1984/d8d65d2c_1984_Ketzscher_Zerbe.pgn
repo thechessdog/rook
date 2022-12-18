@@ -1,0 +1,19 @@
+[Event "corr EUR th"]
+[Site "corr EUR th"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Ketzscher"]
+[Black "Zerbe"]
+[Result "1-0"]
+[ECO "E54"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Gligoric system with 7...dc"]
+[HashCode "d8d65d2c"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 c5 7. O-O dxc4 8.
+Bxc4 Nc6 9. a3 Ba5 10. Qd3 a6 11. Rd1 b5 12. Ba2 c4 13. Qe2 Qe8 14. Bb1 e5
+15. d5 Bxc3 16. bxc3 e4 17. Nd2 Na5 18. a4 Qe5 19. Ba3 Re8 20. Bb4 Nb3 21.
+Nxb3 cxb3 22. axb5 Bg4 23. f3 exf3 24. gxf3 Bh3 25. Rxa6 Rxa6 26. bxa6 Nxd5
+27. Rxd5 Qxd5 28. Be4 Qg5+ 29. Kh1 Rxe4 30. fxe4 Bg4 31. a7 1-0
+

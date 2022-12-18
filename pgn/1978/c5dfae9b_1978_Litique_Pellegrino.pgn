@@ -1,0 +1,18 @@
+[Event "corr France"]
+[Site "corr France"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Litique"]
+[Black "Pellegrino"]
+[Result "1-0"]
+[ECO "C07"]
+[Opening "French"]
+[Variation "Tarrasch, open variation"]
+[HashCode "c5dfae9b"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. Ngf3 Nf6 5. e5 Nfd7 6. c4 dxc4 7. Nxc4 cxd4
+8. Bd3 Nb6 9. Bg5 Qd5 10. O-O Na6 11. Rc1 Bd7 12. Nxb6 axb6 13. Bc4 Qe4 14.
+Re1 Qg4 15. h3 Qh5 16. Bxa6 h6 17. Bh4 bxa6 18. g4 Qg6 19. Qxd4 Bc5 20.
+Rxc5 bxc5 21. Qd6 1-0
+

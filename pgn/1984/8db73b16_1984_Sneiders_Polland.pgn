@@ -1,0 +1,16 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Sneiders"]
+[Black "Polland"]
+[Result "1-0"]
+[ECO "D00"]
+[Opening "Blackmar gambit"]
+[HashCode "8db73b16"]
+[Epoch "Rook"]
+
+1. d4 d5 2. e4 dxe4 3. Nc3 Nf6 4. f3 c6 5. Nxe4 Bf5 6. Bd3 Qxd4 7. Ne2 Qd8
+8. O-O Qb6+ 9. Kh1 Bxe4 10. fxe4 Nbd7 11. Ng3 e5 12. Nf5 Nc5 13. Be3 Qxb2
+14. Bxc5 Bxc5 15. Nxg7+ Kf8 16. Qf3 Be7 17. Nh5 Qd4 18. Nxf6 1-0
+

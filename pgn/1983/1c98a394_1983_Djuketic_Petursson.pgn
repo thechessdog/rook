@@ -1,0 +1,20 @@
+[Event "Bela Crkva open"]
+[Site "Bela Crkva open"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Djuketic, N."]
+[Black "Petursson, M."]
+[Result "0-1"]
+[ECO "D03"]
+[Opening "Torre attack (Tartakower variation)"]
+[HashCode "1c98a394"]
+[Epoch "Rook"]
+[BlackCountry "ISL"]
+
+1. d4 d5 2. Nf3 Nf6 3. Bg5 c6 4. c3 Nbd7 5. Nbd2 g6 6. e3 Bg7 7. Bd3 O-O 8. O-O
+Re8 9. e4 dxe4 10. Nxe4 Nxe4 11. Bxe4 Qc7 12. Bh4 e5 13. d5 Nc5 14. d6 Qb6 15.
+Qe2 h6 16. Be7 Be6 17. b4 Nxe4 18. Qxe4 Bd5 19. Qe2 e4 20. Nd2 Bxc3 21. Nxe4
+Bxa1 22. Rxa1 Qd4 23. Re1 Qxe4 24. Qxe4 Bxe4 25. Rxe4 Rad8 26. f3 Rd7 27. a4
+Rc8 28. Kf2 f5 29. Re5 b6 30. Ke2 c5 31. b5 c4 32. Kd2 c3+ 33. Kc2 Rc4 34. Re3
+Kf7 35. Rxc3 Rxc3+ 36. Kxc3 Ke6 37. g4 Rb7 38. h4 h5 39. gxh5 gxh5 40. Kd4 Rb8
+41. Bg5 0-1

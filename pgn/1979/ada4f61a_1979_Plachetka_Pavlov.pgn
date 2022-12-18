@@ -1,0 +1,19 @@
+[Event "Tirnavia-A"]
+[Site "Trnava"]
+[Date "1979.??.??"]
+[Round "13"]
+[White "Plachetka, Jan"]
+[Black "Pavlov, Mircea"]
+[Result "1/2-1/2"]
+[ECO "B52"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky attack, 3...Bd7"]
+[HashCode "ada4f61a"]
+[Epoch "Rook"]
+[WhiteID "14900068"]
+[WhiteCountry "SVK"]
+[BlackID "1200160"]
+[BlackCountry "ROU"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Qxd7 5. O-O Nf6 6. Nc3 Nc6 7. d4 cxd4
+8. Nxd4 g6 9. Bg5 Bg7 10. Nde2 O-O 11. Qd2 Rac8 12. Rad1 Qd8 13. Ng3 1/2-1/2

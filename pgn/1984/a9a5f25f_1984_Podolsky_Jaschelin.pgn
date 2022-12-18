@@ -1,0 +1,26 @@
+[Event "corr EUR/K"]
+[Site "corr EUR/K"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Podolsky, A."]
+[Black "Jaschelin, P."]
+[Result "0-1"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "a9a5f25f"]
+[Epoch "Rook"]
+
+1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. d4 cxd4 5. Nf3 Nc6 6. cxd4 d6 7. Bc4 Nb6 8.
+Bb5 d5 9. O-O Bf5 10. Bg5 h6 11. Bh4 g5 12. Bg3 e6 13. Nbd2 Be7 14. Nb3 Nd7
+15. Rc1 Qb6 16. Bd3 Bxd3 17. Qxd3 Nb4 18. Qb1 a5 19. Rfd1 a4 20. Na1 g4 21.
+Ne1 Nc6 22. Qd3 Qxb2 23. Rc2 Qb6 24. Rcc1 Qa6 25. Qb1 b5 26. Nac2 b4 27.
+Ne3 h5 28. f4 b3 29. f5 bxa2 30. Qxa2 Nb4 31. Qf2 a3 32. Bh4 Bf8 33. fxe6
+fxe6 34. Bg5 Rh7 35. h3 gxh3 36. Qf3 Rc8 37. Rxc8+ Qxc8 38. Qxh3 Qc6 39.
+Ra1 a2 40. Kh2 Be7 41. Bxe7 Kxe7 42. Nd1 Qc4 43. Qa3 Nxe5 44. Qa7+ Nd7 45.
+Nf3 Kf6 46. Qa5 Re7 47. Qd8 Nc2 48. Qh8+ Rg7 49. Qd8+ Kg6 50. Ne3 Nxe3 51.
+Qg5+ Kh7 52. Qxe3 Qc7+ 53. Kg1 Qc2 54. Ng5+ Kh8 55. Qxe6 Qg6 56. Qxd5 Qxg5
+57. Qxg5 Rxg5 58. Rxa2 Rd5 59. g3 Rxd4 60. Kg2 Kg7 61. Ra3 Kg6 62. Kh3 Nf6
+63. Rb3 Kg5 64. Ra3 Rd5 65. Rb3 Ng4 66. Rb2 Nh6 67. Rb3 Nf5 68. Ra3 Rd8 69.
+Rc3 Re8 70. Rc5 Re3 71. Kh2 Rd3 72. Ra5 Kg4 73. Ra4+ Nd4 0-1
+

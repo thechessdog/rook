@@ -1,0 +1,23 @@
+[Event "Marshall Int"]
+[Site "Marshall Int"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Boskovic, M."]
+[Black "Morris, W."]
+[Result "1-0"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack"]
+[HashCode "b1c8e087"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 c6 4. Qd2 e6 5. e4 Bb4 6. Bd3 dxe4 7. Bxf6 Qxf6
+8. Bxe4 O-O 9. Nf3 c5 10. dxc5 Bxc5 11. a3 Nd7 12. O-O Qe7 13. Rfe1 Nf6 14.
+Rad1 a6 15. Qf4 Nxe4 16. Qxe4 Qf6 17. Qe5 Qxe5 18. Nxe5 Be7 19. Na4 Bd8 20.
+c4 b5 21. cxb5 axb5 22. Nc3 Ba6 23. Nd7 Re8 24. Nc5 Bf6 25. Nxa6 Rxa6 26.
+Nd5 Bd8 27. Nb4 Ra8 28. Re3 Bf6 29. Rb3 Rad8 30. Rxd8 Rxd8 31. Nd3 g5 32.
+Kf1 Rd5 33. Ke2 Bd4 34. f3 f5 35. Rb4 e5 36. g4 Kf7 37. h3 Kf6 38. a4 e4
+39. fxe4 fxe4 40. Nf2 Ke5 41. Rxb5 Rxb5 42. axb5 Bxb2 43. b6 Kf4 44. b7 Be5
+45. Nd1 Bb8 46. Nc3 h6 47. Kf2 Ba7+ 48. Ke2 Ke5 49. Nb5 Bb8 50. Ke3 Kd5 51.
+Nc3+ Kc6 52. Kxe4 Kxb7 53. Kf5 Bd6 54. Kg6 Bf8 55. Kf7 Bd6 56. Ne4 Kc6 57.
+Nxd6 Kxd6 58. Kg6 Ke6 59. Kxh6 Kf6 60. Kh5 1-0
+

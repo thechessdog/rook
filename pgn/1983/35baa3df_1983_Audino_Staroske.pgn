@@ -1,0 +1,18 @@
+[Event "corr EU/I"]
+[Site "corr EU/I"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Audino"]
+[Black "Staroske"]
+[Result "1-0"]
+[ECO "B96"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Polugayevsky, Simagin variation"]
+[HashCode "35baa3df"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 b5 8.
+e5 dxe5 9. fxe5 Qc7 10. Qe2 Nfd7 11. O-O-O Bb7 12. Qh5 g6 13. Qh4 Qxe5 14.
+Bxb5 axb5 15. Rhe1 Qc5 16. Rxe6+ fxe6 17. Nxe6 Qf5 18. Nxb5 Ra5 19. Nec7+
+1-0
+

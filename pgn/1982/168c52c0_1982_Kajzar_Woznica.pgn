@@ -1,0 +1,18 @@
+[Event "corr ch-CSSR"]
+[Site "corr ch-CSSR"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Kajzar"]
+[Black "Woznica"]
+[Result "1-0"]
+[ECO "D27"]
+[Opening "QGA"]
+[Variation "classical, Rubinstein variation"]
+[HashCode "168c52c0"]
+[Epoch "Rook"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. e3 e6 5. Bxc4 c5 6. O-O a6 7. a4 Nc6 8.
+Qe2 cxd4 9. Rd1 Be7 10. exd4 O-O 11. Bg5 Qa5 12. Nc3 Bb4 13. Bxf6 gxf6 14.
+Ne4 f5 15. Nf6+ Kg7 16. Nh5+ Kg6 17. Nh4+ Kh6 18. Qe3+ f4 19. Nxf4 Qg5 20.
+Nf3 Qg4 21. Nxe6+ Kg6 22. Bd3+ f5 23. Nxf8+ Bxf8 24. d5 1-0
+

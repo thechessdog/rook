@@ -1,0 +1,16 @@
+[Event "Chita"]
+[Site "Chita"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Kudeev"]
+[Black "Gergez"]
+[Result "1-0"]
+[ECO "C41"]
+[Opening "Philidor"]
+[Variation "Philidor counter-gambit"]
+[HashCode "aaecc88a"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 d6 3. d4 f5 4. dxe5 fxe4 5. Ng5 Bf5 6. Qd5 Ne7 7. Qxb7 Nd7
+8. e6 Ne5 9. Nf7 Nxf7 10. Bb5+ c6 11. Bxc6+ Nxc6 12. exf7# 1-0
+

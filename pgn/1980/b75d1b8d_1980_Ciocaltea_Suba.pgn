@@ -1,0 +1,18 @@
+[Event "Bucharest"]
+[Site "Bucharest"]
+[Date "1980.??.??"]
+[Round "3"]
+[White "Ciocaltea, Victor"]
+[Black "Suba, Mihai"]
+[Result "1/2-1/2"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "b75d1b8d"]
+[Epoch "Rook"]
+[BlackID "1203363"]
+[WhiteCountry "ROU"]
+[BlackCountry "ESP"]
+
+1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. d4 e6 5. Nf3 Nf6 6. Be2 Nc6 7. Na3 Qd8 8. Nc2
+Be7 9. O-O O-O 10. Ne5 Qb6 11. Nxc6 bxc6 12. dxc5 Bxc5 13. b4 Be7 1/2-1/2

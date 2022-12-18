@@ -1,0 +1,16 @@
+[Event "Dieren"]
+[Site "Dieren"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Rosenblatt"]
+[Black "Wolferink"]
+[Result "1-0"]
+[ECO "C44"]
+[Opening "Scotch gambit"]
+[Variation "Dubois-Reti defence"]
+[HashCode "7e7265c4"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 Nf6 5. e5 Ng4 6. Bxf7+ Kxf7 7. Ng5+
+Kg8 8. Qxg4 d6 9. Qf3 1-0
+

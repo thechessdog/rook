@@ -1,0 +1,20 @@
+[Event "Kamen Piskov mem 2"]
+[Site "Ruse"]
+[Date "1978.??.??"]
+[Round "5"]
+[White "Lukacs, Peter"]
+[Black "Kolarov, Atanas S."]
+[Result "1/2-1/2"]
+[ECO "E47"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 O-O, 5.Bd3"]
+[HashCode "7be98349"]
+[Epoch "Rook"]
+[WhiteID "700142"]
+[WhiteCountry "HUN"]
+[BlackID "2900246"]
+[BlackCountry "FID"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 c5 6. Nf3 Nc6 7. O-O Bxc3 8.
+bxc3 d6 9. e4 e5 10. d5 Ne7 11. Nh4 Ne8 12. Nf5 Nxf5 13. exf5 Qh4 14. f4 Nf6
+15. fxe5 dxe5 16. h3 Re8 17. Be3 1/2-1/2

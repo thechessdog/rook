@@ -1,0 +1,26 @@
+[Event "Randaberg"]
+[Site "Randaberg"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Vaage, Jon"]
+[Black "Haugen, Arild"]
+[Result "0-1"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Paulsen attack"]
+[HashCode "9240a560"]
+[Epoch "Rook"]
+[BlackID "1505076"]
+[BlackCountry "NOR"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. b3 Bd7 7. Bd3 cxd4 8. cxd4
+Nxd4 9. Be3 Nxf3+ 10. Qxf3 Bb4+ 11. Bd2 Qd4 12. O-O Bxd2 13. Nxd2 Qxe5 14. Rac1
+Nf6 15. Rfe1 Qd6 16. Qe3 Ng4 17. Qh3 Qf4 18. Nf3 h5 19. Rc5 Bc6 20. Bb5 Bxb5
+21. Rxb5 Rc8 22. Rxd5 Rc1 23. Rdd1 Rxd1 24. Rxd1 g5 25. Qg3 Qxg3 26. hxg3 f6
+27. Rc1 O-O 28. Rc7 Rf7 29. Rc8+ Kg7 30. Nd4 Rd7 31. f3 Rxd4 32. fxg4 Rd1+ 33.
+Kh2 Rd7 34. gxh5 g4 35. Kg1 Kh6 36. Rh8+ Rh7 37. Rf8 Kg5 38. h6 f5 39. Re8 Kf6
+40. Rf8+ Ke7 41. Rg8 Kf6 42. Rf8+ Ke7 43. Rg8 b6 44. Ra8 Kd6 45. Kf2 a5 46.
+Rd8+ Kc7 47. Re8 Rxh6 48. Re7+ Kd6 49. Rb7 Kc6 50. Rb8 Rf6 51. Ke3 e5 52. Rc8+
+Kd7 53. Rb8 f4+ 54. gxf4 exf4+ 55. Kf2 Rd6 56. Ke1 Ke6 57. Ke2 Kf5 58. Rf8+ Kg5
+59. Rg8+ Kh4 60. Kf1 Kg3 61. Rf8 Rc6 62. Ke1 Rc1+ 63. Kd2 Ra1 64. a4 Ra2+ 65.
+Ke1 Rb2 66. Rf6 Rxb3 67. Kd1 Rb4 0-1

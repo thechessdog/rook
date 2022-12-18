@@ -1,0 +1,23 @@
+[Event "Bratislava"]
+[Site "Bratislava"]
+[Date "1983.01.01"]
+[Round "9"]
+[White "Vera Gonzalez-Quevedo, Reynaldo"]
+[Black "Lechtynsky, Jiri"]
+[Result "1-0"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Lipnitzky attack"]
+[HashCode "66c81540"]
+[Epoch "Rook"]
+[BlackID "300217"]
+[BlackCountry "CZE"]
+[WhiteCountry "CUB"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 Nc6 8. f4
+Be7 9. Be3 O-O 10. Qf3 Qc7 11. f5 Nxd4 12. Bxd4 b5 13. a3 Rb8 14. g4 b4 15. g5
+Ne8 16. axb4 Bxg5 17. O-O Bf6 18. Bxf6 Nxf6 19. fxe6 fxe6 20. Qh3 Qe7 21. Ra4
+Kh8 22. Qh4 Bb7 23. Bc4 d5 24. exd5 exd5 25. Bd3 Bc6 26. b5 axb5 27. Ra6 Bb7
+28. Rb6 Qc5+ 29. Qf2 d4 30. Rxb5 Qd6 31. Ne2 Ng4 32. Qg3 Rxf1+ 33. Kxf1 Nxh2+
+34. Ke1 Qxg3+ 35. Nxg3 Re8+ 36. Kd1 Nf3 37. Ne2 Ba6 38. Rf5 Bxd3 39. cxd3 Ne5
+40. Kd2 1-0

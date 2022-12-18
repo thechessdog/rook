@@ -1,0 +1,24 @@
+[Event "Ann Arbor ch-MI op"]
+[Site "Ann Arbor ch-MI op"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Small, L."]
+[Black "Gaba, H."]
+[Result "1-0"]
+[ECO "C43"]
+[Opening "Petrov"]
+[Variation "modern attack, Symmetrical variation"]
+[HashCode "b9150f1c"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nf6 3. d4 Nxe4 4. dxe5 d5 5. exd6 Nxd6 6. Bd3 Be7 7. O-O
+O-O 8. Re1 Be6 9. Nd4 Bc4 10. Bxc4 Nxc4 11. Qg4 Nd6 12. Nc3 Bf6 13. Be3 Nd7
+14. Nd5 Kh8 15. Rad1 Ne5 16. Qh5 Rc8 17. Nxf6 Qxf6 18. Bc1 Nc6 19. Nxc6
+bxc6 20. Qa5 Nf5 21. Qxa7 h6 22. Qc5 Qg6 23. Qc3 Rfe8 24. Rxe8+ Rxe8 25.
+Qd3 Re6 26. Bf4 Qh5 27. Bxc7 Re4 28. Rf1 Rg4 29. f3 Rg6 30. g4 Nh4 31. Bg3
+Qc5+ 32. Bf2 Qe7 33. Rd1 Kh7 34. Rf1 Qf6 35. Bg3 Kh8 36. Qc3 Qd8 37. Qe1
+Qd4+ 38. Kh1 Re6 39. Qd1 Qxd1 40. Rxd1 Nxf3 41. Rd6 Re2 42. Rxc6 Nd4 43.
+Rc8+ Kh7 44. c3 Nc2 45. a4 Rd2 46. Re8 Na1 47. b4 Nb3 48. a5 Ra2 49. Ra8
+Nd2 50. b5 Nc4 51. Bc7 Ne3 52. h3 g5 53. b6 Rb2 54. a6 Ng2 55. b7 Nh4 56.
+b8=Q 1-0
+

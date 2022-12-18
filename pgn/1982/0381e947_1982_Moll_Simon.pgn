@@ -1,0 +1,23 @@
+[Event "Bez"]
+[Site "Bez"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Moll"]
+[Black "Simon"]
+[Result "1-0"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Milner-Barry gambit"]
+[HashCode "0381e947"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8.
+O-O Rc8 9. Nc3 Nxd4 10. Nxd4 Qxd4 11. Qe2 a6 12. a3 Ne7 13. Kh1 Ng6 14. f4
+Qa7 15. f5 Ne7 16. f6 gxf6 17. exf6 Nc6 18. Nxd5 Nd4 19. Qe5 Nb3 20. Be3
+Bc5 21. Rae1 Bxe3 22. Nxe3 Qd4 23. Qxd4 Nxd4 24. Nc4 Rc6 25. Ne5 Rd6 26.
+Bb1 Bb5 27. Rf4 Nc6 28. Nxc6 Bxc6 29. Rf2 h5 30. Kg1 Rg8 31. Ba2 Rg4 32.
+Bb3 Rgd4 33. h3 h4 34. Rfe2 Kf8 35. Bc2 Rd2 36. Be4 Bb5 37. Rxd2 Rxd2 38.
+Rc1 Ke8 39. Rc8+ Kd7 40. Rf8 Bc6 41. Rxf7+ Ke8 42. Re7+ Kf8 43. Bxc6 bxc6
+44. Rxe6 Rc2 45. b4 Kf7 46. Rd6 Ke8 47. g4 hxg3 48. h4 a5 49. bxa5 Rh2 50.
+Rxc6 Rxh4 51. Rc7 Ra4 52. Ra7 Rxa3 53. a6 Ra2 54. Re7+ Kf8 55. a7 1-0
+

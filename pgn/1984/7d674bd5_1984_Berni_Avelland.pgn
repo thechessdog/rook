@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Berni"]
+[Black "Avelland"]
+[Result "1-0"]
+[ECO "C16"]
+[Opening "French"]
+[Variation "Winawer, Petrosian variation"]
+[HashCode "7d674bd5"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 Qd7 5. Bd2 b6 6. Nf3 Ba6 7. Bxa6 Nxa6 8.
+Qe2 Bxc3 9. Bxc3 Nb8 10. O-O Nc6 11. b3 Nge7 12. Bb2 a6 13. Rfd1 Na5 14.
+Ba3 O-O 15. c4 Rfe8 16. Rac1 dxc4 17. bxc4 Qa4 18. Bxe7 Rxe7 19. Qe4 Qc6
+20. d5 exd5 21. cxd5 Qg6 22. Qb4 Rd7 23. e6 1-0
+

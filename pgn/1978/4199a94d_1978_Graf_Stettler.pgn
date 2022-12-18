@@ -1,0 +1,18 @@
+[Event "East Germany"]
+[Site "East Germany"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Graf"]
+[Black "Stettler"]
+[Result "0-1"]
+[ECO "B10"]
+[Opening "Caro-Kann"]
+[Variation "closed (Breyer) variation"]
+[HashCode "4199a94d"]
+[Epoch "Rook"]
+
+1. e4 c6 2. d3 d5 3. Nd2 g6 4. Ngf3 Bg7 5. g3 e5 6. Bg2 Ne7 7. O-O O-O 8.
+exd5 cxd5 9. Re1 Nbc6 10. c4 Bf5 11. Qb3 Rb8 12. cxd5 Nxd5 13. Nc4 Be6 14.
+Bd2 b5 15. Ncxe5 Nxe5 16. Nxe5 Ne3 17. Qc3 Nxg2 18. Kxg2 Qd5+ 19. f3 Rfc8
+20. Qb3 Qxe5 21. Rxe5 Bxb3 22. Re7 Be6 0-1
+

@@ -1,0 +1,17 @@
+[Event "corr DFSM"]
+[Site "corr DFSM"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Soltau"]
+[Black "Grzeskowiak"]
+[Result "1-0"]
+[ECO "A13"]
+[Opening "English"]
+[Variation "Neo-Catalan"]
+[HashCode "70abe9c2"]
+[Epoch "Rook"]
+
+1. Nf3 Nf6 2. c4 e6 3. g3 d5 4. Bg2 c5 5. O-O Nc6 6. d4 dxc4 7. Qa4 Bd7 8.
+Qxc4 Rc8 9. dxc5 Na5 10. Qd3 Bxc5 11. Ne5 Qb6 12. Nc3 Bd4 13. Nxd7 Nxd7 14.
+Nb5 Bc5 15. b4 Nc4 16. Na3 1-0
+

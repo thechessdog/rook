@@ -1,0 +1,19 @@
+[Event "Tampere"]
+[Site "Tampere"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Rytilahti, Kauko"]
+[Black "Heinola, Kari P."]
+[Result "0-1"]
+[ECO "B00"]
+[Opening "KP"]
+[Variation "Nimzovich defence"]
+[HashCode "cdfb00b2"]
+[Epoch "Rook"]
+[WhiteID "503983"]
+[BlackID "503495"]
+[WhiteCountry "FIN"]
+[BlackCountry "FIN"]
+
+1. e4 Nc6 2. Nf3 d5 3. exd5 Qxd5 4. Nc3 Qa5 5. Bc4 Bg4 6. d3 e6 7. Bd2 Qh5 8.
+Bb5 Ne7 9. Ne4 Qxb5 0-1

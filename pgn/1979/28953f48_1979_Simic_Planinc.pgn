@@ -1,0 +1,21 @@
+[Event "Yugoslavia"]
+[Site "Yugoslavia"]
+[Date "1979.01.01"]
+[Round "2"]
+[White "Simic, Radoslav"]
+[Black "Planinc, Albin"]
+[Result "1-0"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical system, 5.Be2"]
+[HashCode "28953f48"]
+[Epoch "Rook"]
+[WhiteID "900184"]
+[WhiteCountry "SRB"]
+[BlackCountry "SVN"]
+
+1. d4 g6 2. e4 Bg7 3. Nc3 d6 4. Nf3 Nf6 5. Be2 O-O 6. O-O c6 7. a4 a5 8. Bf4
+Na6 9. h3 Nb4 10. Qc1 Nd7 11. Rd1 Qc7 12. Bc4 e5 13. Bh6 Nb6 14. Bb3 Be6 15.
+Bxg7 Kxg7 16. dxe5 dxe5 17. Bxe6 fxe6 18. Ne2 Nd7 19. Qd2 Nc5 20. Ng3 Rf4 21.
+Qc3 Nd7 22. Rxd7+ Qxd7 23. Nxe5 Qe7 24. Nh5+ gxh5 25. Qg3+ Kh8 26. Qxf4 Nxc2
+27. Rd1 Qg7 28. Rd7 Rf8 29. Nf7+ Kg8 30. Nh6+ Kh8 31. Rxg7 Rxf4 32. Rg8# 1-0

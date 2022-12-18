@@ -1,0 +1,18 @@
+[Event "corr HUN-YUG"]
+[Site "corr HUN-YUG"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Rosza"]
+[Black "Gaberg"]
+[Result "1-0"]
+[ECO "C37"]
+[Opening "KGA"]
+[Variation "Muzio gambit"]
+[HashCode "b19351f0"]
+[Epoch "Rook"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. Bc4 g4 5. O-O gxf3 6. Qxf3 Qf6 7. c3 Nc6
+8. d4 Nxd4 9. Bxf7+ Qxf7 10. cxd4 Bh6 11. Nc3 d6 12. Nd5 Be6 13. Nxf4 Bc4
+14. Rf2 O-O-O 15. d5 Qf6 16. Qh3+ Rd7 17. Ne6 Qe7 18. Bxh6 Nxh6 19. Qxh6 c6
+20. b3 Bd3 21. Qe3 Bxe4 22. Qxa7 1-0
+

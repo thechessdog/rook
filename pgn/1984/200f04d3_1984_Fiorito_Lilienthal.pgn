@@ -1,0 +1,21 @@
+[Event "corr EU"]
+[Site "corr EU"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Fiorito"]
+[Black "Lilienthal, Andor Arnoldovich"]
+[Result "0-1"]
+[ECO "B97"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7...Qb6"]
+[HashCode "200f04d3"]
+[Epoch "Rook"]
+[BlackCountry "HUN"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qb6 8. Qd2
+Qxb2 9. Nb3 Nbd7 10. Bd3 d5 11. Bxf6 gxf6 12. Nd1 Qa3 13. exd5 Qd6 14. dxe6
+fxe6 15. Nc3 Bg7 16. Rd1 f5 17. Be2 Qxd2+ 18. Kxd2 Nb6 19. Nb1 Nd5 20. g3 b6
+21. c4 Nf6 22. Bf3 Ra7 23. c5 bxc5 24. Nxc5 O-O 25. Ke2 e5 26. fxe5 Ne4 27. Nd3
+Be6 28. g4 Ng5 29. gxf5 Bxf5 30. Bd5+ Kh8 31. Rdf1 Bxd3+ 32. Kxd3 Rd8 33. Nc3
+Re7 34. h4 Nf7 35. e6 Nh6 36. Rhg1 Rxe6 37. Rg5 Red6 38. Rd1 Bf6 39. Rh5 Ng4
+0-1

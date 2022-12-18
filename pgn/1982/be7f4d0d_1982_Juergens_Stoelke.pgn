@@ -1,0 +1,18 @@
+[Event "RLN 8182"]
+[Site "RLN 8182"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Juergens, H."]
+[Black "Stoelke, G."]
+[Result "1-0"]
+[ECO "E10"]
+[Opening "Queen's pawn game"]
+[HashCode "be7f4d0d"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 c5 4. e3 cxd4 5. exd4 Bb4+ 6. Bd2 Bxd2+ 7. Nbxd2
+O-O 8. Bd3 b6 9. O-O Bb7 10. Qe2 d6 11. b4 Nbd7 12. Ng5 Re8 13. Nge4 Nxe4
+14. Nxe4 Nf6 15. c5 dxc5 16. dxc5 Nxe4 17. Bxe4 Bxe4 18. Qxe4 bxc5 19. bxc5
+Rc8 20. Rfd1 Qg5 21. c6 Red8 22. h4 Qa5 23. Rd7 g6 24. Rad1 Rf8 25. Qc2 Qb6
+26. c7 Qb4 27. Qc6 Qxh4 28. Qd6 1-0
+

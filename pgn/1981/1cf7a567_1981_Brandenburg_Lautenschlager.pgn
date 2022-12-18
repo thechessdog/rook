@@ -1,0 +1,21 @@
+[Event "DDR Tch5"]
+[Site "DDR Tch5"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Brandenburg"]
+[Black "Lautenschlager"]
+[Result "0-1"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "4.Nf3"]
+[HashCode "1cf7a567"]
+[Epoch "Rook"]
+
+1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. Nc3 Be7 5. cxd5 exd5 6. Bf4 c6 7. Qc2 Nbd7
+8. e3 O-O 9. Bd3 Re8 10. g4 Nf8 11. h3 Qa5 12. a3 Bb4 13. Nd2 Ne6 14. Be5
+h6 15. Bxf6 gxf6 16. axb4 Qxa1+ 17. Ncb1 a5 18. b5 Nxd4 19. Qc3 Nxb5 20.
+Qxf6 Re6 21. Bh7+ Kf8 22. Qh8+ Ke7 23. O-O Rf6 24. e4 Nc7 25. e5 Rf4 26.
+Bf5 Bxf5 27. Qf6+ Ke8 28. gxf5 Ne6 29. Nc3 Qxb2 30. Nce4 Rd8 31. Nc5 Rxf5
+32. Qxf5 Nxc5 33. Nf3 Ne4 34. Qf4 a4 35. e6 Qf6 36. exf7+ Qxf7 37. Qe3 Rd6
+0-1
+

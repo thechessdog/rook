@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Lens, J."]
+[Black "Leeners, H."]
+[Result "0-1"]
+[ECO "C57"]
+[Opening "two knights defence"]
+[Variation "Ulvestad variation"]
+[HashCode "e2419e79"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 b5 6. Bxb5 Qxd5 7. Bxc6+
+Qxc6 8. Qf3 e4 9. Qb3 Bc5 10. Qxf7+ Kd8 11. O-O h6 12. Qxg7 Rg8 13. Qxh6
+Bb7 14. Kh1 e3 15. f3 e2 16. Re1 Ne4 17. fxe4 Qxh6 18. Nf7+ Kd7 19. Nxh6
+Raf8 0-1
+

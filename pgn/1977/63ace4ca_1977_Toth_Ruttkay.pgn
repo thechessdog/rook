@@ -1,0 +1,17 @@
+[Event "Jaszbereny"]
+[Site "Jaszbereny"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Toth, Jozsef"]
+[Black "Ruttkay, Pavol"]
+[Result "0-1"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack"]
+[HashCode "63ace4ca"]
+[Epoch "Rook"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. e5 dxe5 6. fxe5 Nd5 7. Nf3 O-O 8. Bc4
+Be6 9. Bb3 c5 10. dxc5 Nxc3 11. Qxd8 Rxd8 12. bxc3 Bg4 13. Nd4 Bxe5 14. O-O
+Rxd4 15. Bxf7+ Kg7 16. cxd4 Bxd4+ 17. Kh1 Bxa1 18. Bd5 Nc6 19. Rf7+ Kh8 20. h3
+Bf5 21. c4 Bg7 22. g4 Bd7 23. h4 Rf8 24. Rxg7 Kxg7 25. Bb2+ e5 0-1

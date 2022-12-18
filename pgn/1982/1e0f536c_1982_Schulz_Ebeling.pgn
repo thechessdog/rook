@@ -1,0 +1,17 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Schulz, Klaus-Juergen"]
+[Black "Ebeling"]
+[Result "1-0"]
+[ECO "C07"]
+[Opening "French"]
+[Variation "Tarrasch, open variation"]
+[HashCode "1e0f536c"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. exd5 Qxd5 5. Ngf3 cxd4 6. Bc4 Qd6 7. O-O Nf6 8.
+Nb3 Nc6 9. Nbxd4 Nxd4 10. Nxd4 a6 11. b3 Be7 12. Bb2 O-O 13. Qf3 Rb8 14. Rad1
+Qc7 15. Bd3 b5 16. Nc6 Bb7 17. Bxf6 Bxc6 18. Bxh7+ Kxh7 19. Rd3 Qf4 20. Bxe7
+Rfe8 21. Bd6 1-0

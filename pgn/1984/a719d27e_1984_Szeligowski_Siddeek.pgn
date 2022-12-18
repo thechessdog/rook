@@ -1,0 +1,15 @@
+[Event "Colorade"]
+[Site "Colorade"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Szeligowski"]
+[Black "Siddeek, J."]
+[Result "0-1"]
+[ECO "A00"]
+[Opening "Polish (Sokolsky) opening"]
+[HashCode "a719d27e"]
+[Epoch "Rook"]
+
+1. b4 e6 2. Bb2 Nf6 3. a3 b6 4. e3 Bb7 5. Nf3 c5 6. b5 Qc7 7. c4 Be7 8. d3
+a6 9. a4 d5 10. Nbd2 Nbd7 11. g3 O-O 12. Bg2 e5 0-1
+

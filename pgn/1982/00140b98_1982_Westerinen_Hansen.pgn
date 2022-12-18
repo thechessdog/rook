@@ -1,0 +1,28 @@
+[Event "Esbjerg"]
+[Site "Esbjerg"]
+[Date "1982.01.01"]
+[Round "9"]
+[White "Westerinen, Heikki M.J."]
+[Black "Hansen, Curt"]
+[Result "0-1"]
+[ECO "B03"]
+[Opening "Alekhine's defence"]
+[Variation "four pawns attack, Trifunovic variation"]
+[HashCode "00140b98"]
+[Epoch "Rook"]
+[WhiteID "500020"]
+[WhiteCountry "FIN"]
+[BlackID "1400010"]
+[BlackCountry "DEN"]
+
+1. e4 Nf6 2. e5 Nd5 3. c4 Nb6 4. d4 d6 5. f4 Bf5 6. Nc3 e6 7. Nf3 dxe5 8. fxe5
+Nc6 9. Be3 Nb4 10. Rc1 c5 11. Be2 cxd4 12. Nxd4 Bg6 13. O-O Bc5 14. Ncb5 O-O
+15. a3 Nc6 16. b4 Bxd4 17. Bxd4 Qg5 18. Rc3 Rad8 19. Nd6 Nd7 20. Rg3 Qe7 21.
+Nxb7 Ndxe5 22. Nxd8 Rxd8 23. Bc5 Rxd1 24. Bxe7 Rxf1+ 25. Kxf1 Nxe7 26. b5 Kf8
+27. Rb3 Nd7 28. c5 Nd5 29. c6 N7b6 30. Bf3 Ke7 31. Bxd5 exd5 32. Rb4 Kd6 33. a4
+Nc4 34. a5 Kc5 35. c7 Bf5 36. b6 axb6 37. a6 Kc6 38. Ra4 Na5 39. a7 Kb7 40. Rf4
+Bc8 41. Rxf7 Kxa7 42. Ke2 b5 43. Kd3 b4 44. Kd4 b3 45. Kxd5 Kb7 46. Rf2 Kxc7
+47. Kd4 Kd6 48. Kc3 Be6 49. Rf8 Ke7 50. Rb8 Nc6 51. Rb6 Ne5 52. Kd4 Kf6 53. Rb5
+Ng6 54. Ke4 Nh4 55. g3 Nf5 56. Rb6 h5 57. Kd3 g5 58. Ke4 Ne7 59. Rb5 Nc6 60.
+Kd3 Ne5+ 61. Kc3 g4 62. Kd4 Nf3+ 63. Ke3 Nxh2 64. Rxh5 Nf1+ 65. Kf4 Nd2 66. Rb5
+Nb1 0-1

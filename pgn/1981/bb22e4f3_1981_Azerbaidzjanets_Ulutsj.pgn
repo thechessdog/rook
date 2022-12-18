@@ -1,0 +1,16 @@
+[Event "corr USSR"]
+[Site "corr USSR"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Azerbaidzjanets"]
+[Black "Ulutsj"]
+[Result "0-1"]
+[ECO "C58"]
+[Opening "Two knights defence"]
+[HashCode "bb22e4f3"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 Na5 6. Bb5+ c6 7. dxc6
+bxc6 8. Ba4 h6 9. Nf3 e4 10. Ne5 Qd4 11. Bxc6+ Nxc6 12. Nxc6 Qd5 13. Nxa7
+Bg4 14. Nc3 Qf5 15. Ne2 Bc5 16. O-O Bd6 17. Nc6 Bxh2+ 18. Kxh2 Qh5+ 0-1
+

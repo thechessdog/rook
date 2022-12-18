@@ -1,0 +1,20 @@
+[Event "London tt"]
+[Site "London tt"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Carleton"]
+[Black "Keene, Raymond D"]
+[Result "0-1"]
+[ECO "B15"]
+[Opening "Caro-Kann"]
+[Variation "Forgacs variation"]
+[HashCode "9264d39e"]
+[Epoch "Rook"]
+[BlackID "400211"]
+[BlackCountry "ENG"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ exf6 6. Bc4 Qe7+ 7. Qe2 Be6
+8. Bb3 Nd7 9. Bf4 Nb6 10. O-O-O Nd5 11. Bg3 g6 12. Nf3 Bh6+ 13. Kb1 O-O 14.
+Rhe1 Rfe8 15. Qe4 Qd7 16. Qh4 Bg7 17. h3 a5 18. a3 b5 19. Nd2 a4 20. Ba2 b4 21.
+axb4 a3 22. Bb3 g5 23. Qh5 axb2 24. Kxb2 Nxb4 25. Kc3 Na2+ 26. Bxa2 Rxa2 27.
+Ra1 Rxa1 28. Rxa1 c5 29. Nb3 Bxb3 0-1

@@ -1,0 +1,23 @@
+[Event "IBM-B"]
+[Site "Amsterdam II"]
+[Date "1976.07.01"]
+[Round "2"]
+[White "Woodhams, Michael"]
+[Black "Hartoch, Robert G"]
+[Result "0-1"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical system, 5.Be2"]
+[HashCode "645709b7"]
+[Epoch "Rook"]
+[WhiteID "3200108"]
+[WhiteCountry "AUS"]
+[BlackCountry "NLD"]
+
+1. d4 g6 2. e4 Bg7 3. Nc3 d6 4. Nf3 Nf6 5. Be2 O-O 6. O-O Bg4 7. Be3 Nc6 8. Qd2
+e5 9. d5 Ne7 10. Rad1 Bxf3 11. Bxf3 Nd7 12. g3 f5 13. Be2 Nf6 14. f3 Qd7 15.
+Bb5 Qc8 16. Bc4 Kh8 17. a4 Rf7 18. a5 a6 19. Qg2 Nh5 20. Ne2 Qf8 21. Rd3 Bh6
+22. Bf2 fxe4 23. fxe4 Nf6 24. h3 Qg7 25. Rb3 Raf8 26. Nc3 g5 27. Rxb7 g4 28. h4
+Ng6 29. Bxa6 Nh5 30. Ba7 Rf3 31. Rxf3 gxf3 32. Qh2 Nf6 33. Kf1 Ng4 34. Qg1 Qd7
+35. Bb5 Qe7 36. Bf2 Qf6 37. a6 Nxh4 38. gxh4 Qf4 39. Qxg4 Qxg4 40. a7 Qg2+ 41.
+Ke1 Bd2+ 42. Kxd2 Qxf2+ 43. Kc1 Qg1+ 44. Nd1 Kg7 45. Rxc7+ Kf6 0-1

@@ -1,0 +1,20 @@
+[Event "Bohemians"]
+[Site "Prague"]
+[Date "1981.??.??"]
+[Round "?"]
+[White "Dobosz, Henryk"]
+[Black "Szymczak, Zbigniew"]
+[Result "0-1"]
+[ECO "D27"]
+[Opening "QGA"]
+[Variation "classical, 6...a6"]
+[HashCode "1bc7df76"]
+[Epoch "Rook"]
+[WhiteID "1100114"]
+[BlackID "1100424"]
+[WhiteCountry "POL"]
+[BlackCountry "POL"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. e3 e6 5. Bxc4 c5 6. O-O a6 7. Nc3 b5 8. Bb3
+Bb7 9. Qe2 Nbd7 10. Rd1 Qb8 11. e4 cxd4 12. Nxd4 Bd6 13. e5 Bxe5 14. Bxe6 fxe6
+15. Nxe6 Kf7 16. Ng5+ Kg8 17. f4 h6 18. Nf3 Bxf3 0-1

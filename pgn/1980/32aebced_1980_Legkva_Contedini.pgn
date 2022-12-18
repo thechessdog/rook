@@ -1,0 +1,16 @@
+[Event "Leipzig ol"]
+[Site "Leipzig ol"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Legkva"]
+[Black "Contedini"]
+[Result "0-1"]
+[ECO "A51"]
+[Opening "Budapest"]
+[Variation "Fajarowicz, Steiner variation"]
+[HashCode "32aebced"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ne4 4. Qc2 Bb4+ 5. Bd2 d5 6. exd6 Bf5 7. Qa4+
+Nc6 8. a3 Nc5 9. dxc7 Qe7 10. Qd1 Nd3# 0-1
+

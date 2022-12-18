@@ -1,0 +1,20 @@
+[Event "corr ICCF"]
+[Site "corr ICCF"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Vasilkov"]
+[Black "Jacek"]
+[Result "0-1"]
+[ECO "A00"]
+[Opening "Polish (Sokolsky) opening"]
+[HashCode "fc0bc902"]
+[Epoch "Rook"]
+
+1. b4 e5 2. Bb2 Bxb4 3. Bxe5 Nf6 4. e3 Nc6 5. f4 d5 6. Nf3 Qe7 7. Be2 Bg4
+8. c3 Bd6 9. Bxf6 Qxf6 10. Qb3 O-O 11. Qxd5 Nb4 12. Qb3 Bf5 13. Na3 Nd3+
+14. Bxd3 Bxd3 15. Nc4 Rfe8 16. Nxd6 Qxd6 17. Ne5 Rxe5 18. fxe5 Qxe5 19. Qb4
+Qh5 20. g4 Qh4+ 21. Kd1 Qf2 22. Qf4 Qe2+ 23. Kc1 h6 24. h3 Qg2 25. Rh2 Qc6
+26. Qd4 Qa6 27. a3 b6 28. Rf2 c5 29. Qd5 Rf8 30. a4 Bc4 31. Qd7 b5 32. d3
+Qa5 33. Kb2 Be6 34. Qb7 bxa4 35. Rf4 c4 36. Rd4 Qe5 37. Qxa7 Rb8+ 38. Kc2
+Qh2+ 0-1
+

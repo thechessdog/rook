@@ -1,0 +1,16 @@
+[Event "corr ICCF"]
+[Site "corr ICCF"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Bjorkquist, A."]
+[Black "Chouinard"]
+[Result "1-0"]
+[ECO "C44"]
+[Opening "Ponziani"]
+[Variation "Jaenisch counter-attack"]
+[HashCode "7b900b57"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. c3 Nf6 4. d4 d5 5. Bb5 Bg4 6. Qa4 Bd7 7. Bg5 dxe4 8.
+Nxe5 Nb8 9. Qb3 Qe7 10. Bc4 Nc6 11. Bxf7+ Kd8 12. Qxb7 1-0
+

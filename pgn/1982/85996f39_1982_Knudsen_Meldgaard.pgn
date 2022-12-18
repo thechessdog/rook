@@ -1,0 +1,18 @@
+[Event "Soro"]
+[Site "Soro"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Knudsen, Peter Bang"]
+[Black "Meldgaard, Niels"]
+[Result "1-0"]
+[ECO "D35"]
+[Opening "QGD"]
+[Variation "exchange, positional line"]
+[HashCode "85996f39"]
+[Epoch "Rook"]
+[WhiteID "1442554"]
+[WhiteCountry "DEN"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. cxd5 exd5 5. Bg5 Be7 6. e3 c6 7. Qc2 Nbd7 8.
+Bd3 h6 9. Bh4 Qa5 10. Ne2 Ne4 11. Bxe7 Nxc3 12. b4 Qc7 13. Nxc3 Nb6 14. Bh4 O-O
+15. O-O f5 16. Bg3 Qe7 17. b5 g5 18. Ne2 cxb5 19. Bxb5 Bd7 20. Bd3 Rac8 1-0

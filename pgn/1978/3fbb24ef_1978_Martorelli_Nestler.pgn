@@ -1,0 +1,19 @@
+[Event "Rome"]
+[Site "Rome"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Martorelli"]
+[Black "Nestler"]
+[Result "1-0"]
+[ECO "B81"]
+[Opening "Sicilian"]
+[Variation "Scheveningen, Keres attack"]
+[HashCode "3fbb24ef"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. g4 a6 7. g5 Nfd7 8.
+h4 Nb6 9. a4 Bd7 10. a5 Nc8 11. Bg2 Nc6 12. Nb3 Be7 13. Qe2 N8a7 14. Be3
+Nb4 15. O-O Bb5 16. Nxb5 Nxb5 17. Rfd1 Qc8 18. c4 Nc7 19. c5 dxc5 20. Nxc5
+Bxc5 21. Bxc5 Nc6 22. e5 Nb5 23. Rac1 Qb8 24. Qe4 Qc7 25. Bb6 Qxe5 26. Rxc6
+Qxe4 27. Bxe4 1-0
+

@@ -1,0 +1,21 @@
+[Event "corr ch10-DDR"]
+[Site "corr ch10-DDR"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Pfretzschner, R."]
+[Black "Schlachetka, W."]
+[Result "1-0"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (without ...d6)"]
+[HashCode "6e13ea2f"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 d6 4. O-O Bd7 5. Re1 Nf6 6. c3 a6 7. Bf1 e5 8.
+h3 Be7 9. d4 b5 10. Nbd2 Qc7 11. Bd3 O-O 12. Nf1 cxd4 13. cxd4 exd4 14. Bg5
+Rfe8 15. Qd2 Qb6 16. b3 Rac8 17. Rad1 h6 18. Bh4 Be6 19. Bb1 d5 20. Bxf6
+Bxf6 21. e5 Be7 22. Qd3 g6 23. Ng3 Qa7 24. Qd2 Kg7 25. Qf4 f5 26. exf6+
+Bxf6 27. Rxe6 Rxe6 28. Qg4 Rce8 29. Bxg6 Kf8 30. Bxe8 Rxe8 31. Qh5 Qh7 32.
+Qxd5 Qc2 33. Rd2 Qc1+ 34. Kh2 Ne7 35. Qd6 Kf7 36. Nh5 Qc6 37. Qxf6+ Qxf6
+38. Nxf6 Kxf6 39. Nxd4 1-0
+

@@ -1,0 +1,24 @@
+[Event "Bundesliga 8182"]
+[Site "Duitsland tt"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Kindermann, Stefan"]
+[Black "Werner, Dimo"]
+[Result "0-1"]
+[ECO "C05"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation"]
+[HashCode "3f7c26c8"]
+[Epoch "Rook"]
+[WhiteID "4600053"]
+[WhiteCountry "AUT"]
+[BlackID "4601696"]
+[BlackCountry "GER"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. c3 c5 6. f4 cxd4 7. cxd4 Nc6 8. Ndf3
+Nb6 9. Bd3 Bd7 10. a3 a5 11. g4 h5 12. gxh5 Rxh5 13. Ne2 g6 14. Ng3 Rh8 15. h4
+Ne7 16. h5 Nf5 17. hxg6 Rxh1+ 18. Nxh1 fxg6 19. Ng3 Qc7 20. Nxf5 gxf5 21. Ng5
+O-O-O 22. Bd2 Nc4 23. Rc1 a4 24. b3 axb3 25. Qxb3 b5 26. Bb4 Qa7 27. Bxf8 Qxd4
+28. Bxc4 dxc4 29. Qf3 Rxf8 30. Rd1 Qg1+ 31. Kd2 Qc5 32. Kc2 Bc6 33. Qh3 Bd5 34.
+Qh6 Rd8 35. Rd2 Kb8 36. Qf6 Rd7 37. Rh2 Kb7 38. Qh8 Qxa3 39. Qe8 Be4+ 40. Nxe4
+Qb3+ 0-1

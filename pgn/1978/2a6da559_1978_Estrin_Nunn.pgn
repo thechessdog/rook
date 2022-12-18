@@ -1,0 +1,23 @@
+[Event "Lublin"]
+[Site "Lublin"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Estrin, Yakov Borisovich"]
+[Black "Nunn, John D M"]
+[Result "1-0"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, 6.e5"]
+[HashCode "2a6da559"]
+[Epoch "Rook"]
+[BlackID "400017"]
+[BlackCountry "ENG"]
+[WhiteCountry "RUS"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. f4 Nf6 5. Nf3 O-O 6. e5 Nfd7 7. h4 c5 8. e6
+fxe6 9. h5 gxh5 10. Rxh5 Nf6 11. Rh4 cxd4 12. Nxd4 Nc6 13. Be3 Qb6 14. Qd3 Nb4
+15. Qd2 e5 16. fxe5 dxe5 17. O-O-O exd4 18. Bxd4 Qa5 19. Bc4+ Kh8 20. Rdh1 Bf5
+21. Qg5 Nc6 22. Nd5 Nxd4 23. Nxe7 Qb6 24. Nxf5 Nxf5 25. Qxf5 Nh5 26. Qxh5 Qxb2+
+27. Kd1 Qa1+ 28. Kd2 Qc3+ 29. Kc1 Qa3+ 30. Kd2 Rf2+ 31. Kd1 Rd8+ 32. Bd5 h6 33.
+Qg5 Rxd5+ 34. Qxd5 Qe3 35. Re1 Qg3 36. Re8+ Rf8 37. Rxf8+ Bxf8 38. Qd4+ Bg7 39.
+Qd8+ 1-0

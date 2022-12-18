@@ -1,0 +1,19 @@
+[Event "Reggio Emilia8182"]
+[Site "Reggio Emilia"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Rossi, Carlo"]
+[Black "Santolini, Luigi"]
+[Result "0-1"]
+[ECO "B52"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky attack, 3...Bd7"]
+[HashCode "2458c60d"]
+[Epoch "Rook"]
+[BlackID "801151"]
+[BlackCountry "ITA"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. a4 e6 5. O-O Nc6 6. Re1 Be7 7. c3 a6 8. Bf1
+Nf6 9. d4 cxd4 10. cxd4 O-O 11. Nc3 d5 12. e5 Ne8 13. Bd3 f5 14. exf6 Bxf6 15.
+Re3 Nd6 16. Ne5 Bxe5 17. Rh3 Bxd4 18. Bxh7+ Kf7 19. Qh5+ Ke7 20. Bg5+ Bf6 21.
+Re1 Qa5 22. Qg6 Ne8 23. Rd3 d4 24. Bxf6+ Rxf6 25. Qe4 dxc3 26. Red1 Rd8 0-1

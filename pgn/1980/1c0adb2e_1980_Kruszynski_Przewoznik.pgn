@@ -1,0 +1,24 @@
+[Event "POL-ch"]
+[Site "?"]
+[Date "1980.??.??"]
+[Round "9"]
+[White "Kruszynski, Wlodzimierz"]
+[Black "Przewoznik, Jan"]
+[Result "0-1"]
+[ECO "B31"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (with ...g6, without ...d6)"]
+[HashCode "1c0adb2e"]
+[Epoch "Rook"]
+[WhiteID "1100670"]
+[BlackID "1100149"]
+[WhiteCountry "POL"]
+[BlackCountry "POL"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. c3 Bg7 5. O-O Nf6 6. Re1 O-O 7. d4 cxd4 8.
+cxd4 d5 9. e5 Ne4 10. Nc3 Nxc3 11. bxc3 Na5 12. Ba3 Qc7 13. Qd2 a6 14. Bd3 Bg4
+15. Nh4 Rfe8 16. h3 Be6 17. f4 Nc4 18. Bxc4 dxc4 19. Qf2 Qd7 20. Rf1 Qa4 21.
+Bc1 Qa5 22. f5 Bd5 23. Qg3 Qc7 24. Rf2 b5 25. Ba3 a5 26. Qg4 Rab8 27. f6 Bf8
+28. Nf5 b4 29. fxe7 Bxe7 30. Nxe7+ Rxe7 31. cxb4 axb4 32. Bc1 Qc8 33. Qh4 Ra7
+34. e6 Bxe6 35. Bf4 b3 36. Be5 Rb5 37. Qf6 Rxe5 38. Qxe5 c3 39. Rb1 c2 40. Rxc2
+bxc2 0-1

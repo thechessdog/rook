@@ -1,0 +1,22 @@
+[Event "Lodz Makarczyka Mem"]
+[Site "Lodz Makarczyka Mem"]
+[Date "1980.01.01"]
+[Round "13"]
+[White "Dobosz, Henryk"]
+[Black "Bellin, Robert"]
+[Result "0-1"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (without ...d6)"]
+[HashCode "5a77bd5e"]
+[Epoch "Rook"]
+[WhiteID "1100114"]
+[WhiteCountry "POL"]
+[BlackID "400343"]
+[BlackCountry "ENG"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 d6 4. O-O Bd7 5. c3 Nf6 6. Re1 a6 7. Bf1 Bg4 8. h3
+Bxf3 9. Qxf3 g6 10. d3 Bg7 11. g4 O-O 12. Qg3 e5 13. Na3 Ne8 14. Nc4 b5 15. Ne3
+Bh6 16. Nd5 Bxc1 17. Raxc1 g5 18. Re3 Ne7 19. d4 Nxd5 20. exd5 exd4 21. cxd4 c4
+22. b3 f5 23. gxf5 Ng7 24. Rec3 Nxf5 25. Qg4 Qf6 26. Rf3 Qg6 27. bxc4 h5 28.
+Qe4 Rae8 29. Qd3 g4 30. hxg4 hxg4 31. Rf4 Qg5 32. Qd2 Re4 0-1

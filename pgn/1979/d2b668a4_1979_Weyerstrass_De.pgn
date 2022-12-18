@@ -1,0 +1,16 @@
+[Event "HK DDI-BSGI"]
+[Site "HK DDI-BSGI"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Weyerstrass, Ronald"]
+[Black "De Bolster"]
+[Result "1/2-1/2"]
+[ECO "A34"]
+[Opening "English"]
+[Variation "symmetrical variation"]
+[HashCode "d2b668a4"]
+[Epoch "Rook"]
+
+1. c4 c5 2. Nc3 g6 3. g3 Bg7 4. Bg2 Nf6 5. e4 d6 6. Nge2 Nc6 7. O-O O-O 8. Rb1
+Bd7 9. a3 Rc8 10. b4 b6 11. d3 Nd4 12. Nxd4 cxd4 13. Ne2 e5 14. f4 Bg4 15. h3
+Bxe2 16. Qxe2 Nh5 17. Kh2 exf4 18. Bxf4 Nxf4 19. gxf4 Qh4 20. Qg4 1/2-1/2

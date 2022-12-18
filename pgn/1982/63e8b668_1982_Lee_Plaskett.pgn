@@ -1,0 +1,19 @@
+[Event "Torquay ch-BCF"]
+[Site "Torquay ch-BCF"]
+[Date "1982.08.01"]
+[Round "5"]
+[White "Lee, Graham D"]
+[Black "Plaskett, H James"]
+[Result "1/2-1/2"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical system, 5.Be2"]
+[HashCode "63e8b668"]
+[Epoch "Rook"]
+[WhiteID "400750"]
+[WhiteCountry "ENG"]
+[BlackCountry "ENG"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. Nf3 Nf6 5. Be2 O-O 6. O-O c6 7. a4 a5 8. h3 Na6
+9. Be3 Nc7 10. Qd2 d5 11. exd5 cxd5 12. Bd3 Bf5 13. Bxf5 gxf5 14. Bh6 Ne4 15.
+Nxe4 dxe4 16. Bxg7 Kxg7 17. Ne5 f6 1/2-1/2

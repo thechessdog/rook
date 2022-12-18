@@ -1,0 +1,22 @@
+[Event "corr DDR/H"]
+[Site "corr DDR/H"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Blasing, Bernd"]
+[Black "Ronneberger"]
+[Result "1-0"]
+[ECO "C57"]
+[Opening "two knights defence"]
+[Variation "Wilkes Barre (Traxler) variation"]
+[HashCode "99eadb3d"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 Bc5 5. Bxf7+ Ke7 6. Bd5 Rf8 7. Nf3
+Nxd5 8. exd5 Nd4 9. Nxd4 Bxd4 10. O-O d6 11. c3 Bb6 12. d4 Kf7 13. dxe5
+dxe5 14. Be3 Bf5 15. c4 Qf6 16. c5 Ba5 17. Qa4 Qg6 18. Kh1 Qa6 19. Na3 Bd3
+20. Rg1 b5 21. Qb3 b4 22. d6+ Kf6 23. Rad1 Be2 24. Rd5 bxa3 25. Bg5+ Kxg5
+26. Rxe5+ Rf5 27. h4+ Kg6 28. Re6+ Kh5 29. dxc7 Qd3 30. Qa4 Rxc5 31. Qf4
+Bd2 32. Qf7+ Kxh4 33. Qe7+ Rg5 34. Rxe2 axb2 35. Re4+ Kh5 36. Qf7+ Rg6 37.
+Qf5+ Bg5 38. g3 Qxe4+ 39. Qxe4 Rf8 40. Kg2 Bf4 41. Rh1+ Kg5 42. gxf4+ Rxf4
+43. Qxg6+ Kxg6 44. c8=Q 1-0
+

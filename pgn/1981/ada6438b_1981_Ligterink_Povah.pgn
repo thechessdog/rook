@@ -1,0 +1,20 @@
+[Event "Hoogovens-B"]
+[Site "Wijk aan Zee II"]
+[Date "1981.01.01"]
+[Round "7"]
+[White "Ligterink, Gert"]
+[Black "Povah, Nigel E"]
+[Result "1/2-1/2"]
+[ECO "E15"]
+[Opening "Queen's Indian"]
+[Variation "Nimzovich variation (exaggerated fianchetto)"]
+[HashCode "ada6438b"]
+[Epoch "Rook"]
+[WhiteID "1000179"]
+[WhiteCountry "NED"]
+[BlackID "400467"]
+[BlackCountry "ENG"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. Nbd2 d5 6. Bg2 Be7 7. O-O O-O 8. Ne5
+c6 9. b3 Bb7 10. Bb2 Nbd7 11. Nd3 Qb8 12. Re1 Rd8 13. Qc2 dxc4 14. Nxc4 c5 15.
+dxc5 Bxg2 16. Kxg2 Qb7+ 1/2-1/2

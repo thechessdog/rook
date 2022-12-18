@@ -1,0 +1,21 @@
+[Event "corr ch8-DDR"]
+[Site "corr ch8-DDR"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Weinitschke, G."]
+[Black "Essegern, K."]
+[Result "0-1"]
+[ECO "B52"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky attack, Sokolsky variation"]
+[HashCode "b91f48bc"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Qxd7 5. c4 Nc6 6. d4 cxd4 7. Nxd4
+g6 8. O-O Bg7 9. Be3 Nh6 10. f3 f5 11. Nc3 fxe4 12. Nxc6 bxc6 13. Bxh6 Bxh6
+14. fxe4 O-O-O 15. Qd4 Rhf8 16. Rad1 Bf4 17. Qd3 Rf6 18. Rf3 Rdf8 19. c5
+Be5 20. Rxf6 Rxf6 21. Ne2 Qb7 22. Qh3+ Kd8 23. Qxh7 Qxb2 24. Qg8+ Kd7 25.
+Qc4 Rf8 26. cxd6 exd6 27. g3 Qb5 28. Qxb5 cxb5 29. Nf4 Bxf4 30. gxf4 Rxf4
+31. e5 Ra4 32. Rxd6+ Ke7 33. Rxg6 Rxa2 34. h4 b4 35. Rg7+ Ke6 36. Rb7 a5
+37. Rb5 Re2 38. Rxa5 b3 39. Ra6+ Kxe5 40. Kf1 Ra2 0-1
+

@@ -1,0 +1,21 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Zavanelli, M."]
+[Black "Baker, B."]
+[Result "0-1"]
+[ECO "C55"]
+[Opening "two knights"]
+[Variation "Max Lange attack, Marshall variation"]
+[HashCode "af2927be"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Bc4 Nf6 3. d4 exd4 4. Nf3 Nc6 5. O-O Bc5 6. e5 d5 7. exf6 dxc4
+8. Re1+ Be6 9. Ng5 Qd5 10. Nc3 Qf5 11. Nce4 O-O-O 12. g4 Qe5 13. Nxe6 fxe6
+14. Bg5 Bb6 15. f4 d3+ 16. Kh1 Qxb2 17. c3 h6 18. fxg7 hxg5 19. gxh8=Q Rxh8
+20. Qd2 Qxd2 21. Nxd2 gxf4 22. Rxe6 Nd4 23. Re4 Ne2 24. Rxc4 Be3 25. Nf1 d2
+26. Rd1 b5 27. Rb4 Rd8 28. Rb2 Nxc3 29. Rdxd2 Bxd2 30. Rxd2 Rxd2 31. Nxd2
+c5 32. h4 Kd7 33. h5 Ke7 34. a3 c4 35. g5 Ne2 36. h6 c3 37. Nb3 Kf7 38. h7
+Kg7 39. g6 c2 40. Kg2 a5 41. Kf3 a4 0-1
+

@@ -1,0 +1,23 @@
+[Event "Bydgoszcz"]
+[Site "Bydgoszcz"]
+[Date "1980.??.??"]
+[Round "?"]
+[White "Sejkora, Vlastimil"]
+[Black "Hawelko, Marek"]
+[Result "0-1"]
+[ECO "B97"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Poisoned pawn variation"]
+[HashCode "0ab6dab0"]
+[Epoch "Rook"]
+[WhiteID "302457"]
+[BlackID "1100203"]
+[WhiteCountry "CZE"]
+[BlackCountry "POL"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qb6 8. Qd2
+Qxb2 9. Rb1 Qa3 10. e5 dxe5 11. fxe5 Nfd7 12. Bc4 Bb4 13. Rb3 Qa5 14. O-O O-O
+15. Bf6 gxf6 16. Qh6 Bxc3 17. Nf5 exf5 18. Rf3 Nxe5 19. Rg3+ Ng4 20. Bd3 Bd4+
+21. Kf1 Qe1+ 22. Kxe1 Bf2+ 23. Kd1 Bxg3 24. Qh5 Bf4 25. Rb4 Nf2+ 26. Ke2 Nxd3
+27. cxd3 Bg5 28. h4 Re8+ 29. Kf1 Be3 30. Qf3 Nc6 31. Rc4 f4 32. Qh5 Ne5 33. Re4
+Bg4 34. Qh6 Rac8 0-1

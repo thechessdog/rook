@@ -1,0 +1,18 @@
+[Event "corr Wcup3"]
+[Site "corr Wcup3"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Sauermann, Wilfried"]
+[Black "Rybkin"]
+[Result "1-0"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, poisoned pawn variation"]
+[HashCode "390c9d5c"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 Ne7 5. a3 Bxc3+ 6. bxc3 c5 7. Qg4 Nf5 8. Bd3
+h5 9. Qh3 Qa5 10. Bd2 Qa4 11. Bxf5 exf5 12. Qg3 Rh7 13. Ne2 Qxc2 14. Rc1 Qe4
+15. f3 f4 16. Bxf4 Qf5 17. dxc5 h4 18. Qf2 g5 19. Be3 Qxe5 20. O-O h3 21. g3
+Nc6 22. Nd4 Bd7 23. Nb5 O-O-O 24. f4 Qf6 25. fxg5 Qxf2+ 26. Rxf2 Be6 27. Nd6+
+Kb8 28. Bf4 Ka8 29. Rb1 Rd7 30. Rfb2 Nd8 31. Ne8 Bf5 32. Nf6 1-0

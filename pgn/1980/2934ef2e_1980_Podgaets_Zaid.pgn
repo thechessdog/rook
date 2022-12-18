@@ -1,0 +1,17 @@
+[Event "Kharkov"]
+[Site "Kharkov"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Podgaets"]
+[Black "Zaid"]
+[Result "1/2-1/2"]
+[ECO "A75"]
+[Opening "Benoni"]
+[Variation "classical with ...a6 and 10...Bg4"]
+[HashCode "2934ef2e"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. e4 a6 8. a4
+Bg7 9. Be2 O-O 10. O-O Bg4 11. h3 Bxf3 12. Bxf3 Nbd7 13. Bf4 Qc7 14. Qc2
+Rfe8 15. Be2 Re7 16. Rfe1 Rae8 17. Bf1 Ne5 18. Rad1 c4 19. b4 1/2-1/2
+

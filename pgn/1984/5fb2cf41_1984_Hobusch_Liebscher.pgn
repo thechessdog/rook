@@ -1,0 +1,18 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Hobusch"]
+[Black "Liebscher"]
+[Result "1-0"]
+[ECO "C93"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Smyslov defence"]
+[HashCode "5fb2cf41"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8.
+c3 O-O 9. h3 h6 10. d4 Bb7 11. Nbd2 Re8 12. Nf1 Bf8 13. Ng3 Ne7 14. dxe5
+Nh7 15. e6 f6 16. Nf5 Kh8 17. N3h4 Bc8 18. Bd5 Ra7 19. Nxe7 Bxe7 20. Ng6+
+Kg8 21. Qg4 f5 22. Qxf5 Rf8 23. Qf7+ Rxf7 24. exf7# 1-0
+

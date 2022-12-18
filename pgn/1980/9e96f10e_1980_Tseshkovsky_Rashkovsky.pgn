@@ -1,0 +1,19 @@
+[Event "Sochi"]
+[Site "Sochi"]
+[Date "1980.09.01"]
+[Round "6"]
+[White "Tseshkovsky, Vitaly"]
+[Black "Rashkovsky, Nukhim N"]
+[Result "1/2-1/2"]
+[ECO "B92"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Opovcensky variation"]
+[HashCode "9e96f10e"]
+[Epoch "Rook"]
+[BlackID "4100603"]
+[WhiteCountry "RUS"]
+[BlackCountry "RUS"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8. O-O
+O-O 9. Bg5 Be6 10. f4 exf4 11. Bxf4 Nc6 12. Kh1 d5 13. exd5 Nxd5 14. Nxd5 Qxd5
+15. Bf3 Qc4 16. Be2 Qd5 1/2-1/2

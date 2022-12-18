@@ -1,0 +1,18 @@
+[Event "Ohio"]
+[Site "Ohio"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Ruden, B."]
+[Black "Nichols, R."]
+[Result "1-0"]
+[ECO "C13"]
+[Opening "French"]
+[Variation "Albin-Alekhine-Chatard attack, Teichmann variation"]
+[HashCode "a5d728b9"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Nfd7 6. h4 f6 7. exf6 Bxf6 8.
+Nf3 Bxg5 9. hxg5 c5 10. Bd3 Nf8 11. dxc5 Nc6 12. Nb5 Qa5+ 13. c3 e5 14.
+Nd6+ Ke7 15. b4 Qc7 16. Nxe5 Nxe5 17. Qe2 Ke6 18. Bf5+ Ke7 19. Qxe5+ Be6
+20. Qxg7+ 1-0
+

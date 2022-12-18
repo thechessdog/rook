@@ -1,0 +1,21 @@
+[Event "Soborg"]
+[Site "Soborg"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Nielsen, Poul Erik"]
+[Black "Hansen, Soren Bech"]
+[Result "0-1"]
+[ECO "A65"]
+[Opening "Benoni"]
+[Variation "6.e4"]
+[HashCode "d1734f2a"]
+[Epoch "Rook"]
+[BlackID "1400681"]
+[BlackCountry "DEN"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. Bd3 Bg7 8. Nge2
+O-O 9. Ng3 Nbd7 10. f4 Nb6 11. O-O Ng4 12. Be2 Bd4+ 13. Kh1 Nf2+ 14. Rxf2 Bxf2
+15. Qd3 Bd4 16. f5 a6 17. Bg4 Nd7 18. fxg6 fxg6 19. Be6+ Kh8 20. Bxd7 Bxd7 21.
+Nce2 Bb5 22. Qd1 Bg7 23. Nf4 Bd7 24. Rb1 Qe7 25. b4 c4 26. Nfe2 Rf7 27. Bb2
+Bxb2 28. Rxb2 Raf8 29. Qd4+ Qf6 30. Qxf6+ Rxf6 31. Rb1 Rf2 32. Kg1 Bg4 33. Nc3
+Rc2 34. Na4 Rxa2 35. Nb6 Rff2 36. Nf1 Rxg2+ 37. Kh1 Bf3 0-1

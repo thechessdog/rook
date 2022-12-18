@@ -1,0 +1,22 @@
+[Event "corr DFSM"]
+[Site "corr DFSM"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Bierwisch, Bernhard"]
+[Black "Dunhaupt"]
+[Result "0-1"]
+[ECO "C86"]
+[Opening "Ruy Lopez"]
+[Variation "Worrall attack, sharp line"]
+[HashCode "12078a2b"]
+[Epoch "Rook"]
+[WhiteID "4671139"]
+[WhiteCountry "GER"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Qe2 b5 7. Bb3 O-O 8. c3
+d6 9. a4 Bg4 10. h3 Bd7 11. d4 b4 12. Nbd2 bxc3 13. bxc3 Qe8 14. Re1 Kh8 15.
+Nf1 Ng8 16. Bd5 f6 17. Ng3 Bd8 18. Be3 Nge7 19. Bc4 a5 20. Bb5 exd4 21. cxd4
+Nb4 22. e5 Bxb5 23. axb5 Ned5 24. Ra3 Nxe3 25. Rxe3 Nd5 26. Ra3 dxe5 27. Qc4
+Nb6 28. Qa2 Qxb5 29. dxe5 Be7 30. Rb3 Qd5 31. Qb1 Bb4 32. Re4 Rad8 33. Rd4 Qg8
+34. Rh4 Nd5 35. Ne4 Be7 36. exf6 Bxf6 37. Neg5 h6 38. Rb7 Ra8 39. Qg6 Bxg5 40.
+Qxg5 Qe6 41. Rb5 Rf5 42. Qd2 Ne7 43. Rb1 Rxf3 0-1

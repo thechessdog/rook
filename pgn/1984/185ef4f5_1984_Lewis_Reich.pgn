@@ -1,0 +1,18 @@
+[Event "corr EUR/K tt"]
+[Site "corr EUR/K tt"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Lewis"]
+[Black "Reich"]
+[Result "1/2-1/2"]
+[ECO "C63"]
+[Opening "Ruy Lopez"]
+[Variation "Schliemann defence, Berger variation"]
+[HashCode "185ef4f5"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 f5 4. Nc3 fxe4 5. Nxe4 Nf6 6. Nxf6+ Qxf6 7. Qe2
+Be7 8. Bxc6 dxc6 9. Qxe5 Bg4 10. Qxf6 Bxf6 11. Ng1 O-O-O 12. f3 Bf5 13. d3
+Rhe8+ 14. Ne2 Re7 15. Kf2 Rde8 16. Re1 Bh3 17. Bd2 Bxg2 18. Ng3 Bh3 19. c3
+c5 20. Rxe7 Rxe7 21. Re1 Rxe1 1/2-1/2
+

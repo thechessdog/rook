@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Livbrandt, L."]
+[Black "Binas, J."]
+[Result "1-0"]
+[ECO "D41"]
+[Opening "QGD"]
+[Variation "Semi-Tarrasch, 5.cd"]
+[HashCode "86612f1c"]
+[Epoch "Rook"]
+
+1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. Nc3 c5 5. cxd5 Nxd5 6. e4 Nxc3 7. bxc3 cxd4
+8. cxd4 Nc6 9. Be2 Bb4+ 10. Bd2 Qa5 11. Rb1 Bxd2+ 12. Qxd2 Qxd2+ 13. Kxd2
+b6 14. Rhc1 Bd7 15. Bb5 Rc8 16. d5 exd5 17. Ne5 1-0
+

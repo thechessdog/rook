@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Mahony"]
+[Black "Lietz"]
+[Result "1-0"]
+[ECO "B97"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Poisoned pawn variation"]
+[HashCode "418ce56e"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qb6 8.
+Qd2 Qxb2 9. Rb1 Qa3 10. f5 b5 11. Be2 b4 12. Rb3 bxc3 13. Rxc3 Qxa2 14.
+Rxc8+ Kd7 15. Qc3 Qb1+ 16. Bd1 Qb7 17. fxe6+ fxe6 18. Bg4 1-0
+

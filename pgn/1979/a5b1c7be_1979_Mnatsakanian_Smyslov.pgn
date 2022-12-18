@@ -1,0 +1,17 @@
+[Event "Moscow"]
+[Site "Moscow"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Mnatsakanian, Eduard A"]
+[Black "Smyslov, Vasily"]
+[Result "1/2-1/2"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "Cozio (Lasker) attack"]
+[HashCode "a5b1c7be"]
+[Epoch "Rook"]
+[BlackCountry "RUS"]
+[WhiteCountry "ARM"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. Qe2 Qe7 6. d3 Nf6 7. Nc3 Qxe2+ 8.
+Bxe2 Bg4 9. h3 Bxf3 10. Bxf3 Nc6 11. Be3 O-O-O 12. O-O-O 1/2-1/2

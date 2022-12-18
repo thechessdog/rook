@@ -1,0 +1,19 @@
+[Event "Budapest ch-HUN"]
+[Site "Budapest ch-HUN"]
+[Date "1977.11.01"]
+[Round "1"]
+[White "Lukacs, Peter"]
+[Black "Sax, Gyula"]
+[Result "1/2-1/2"]
+[ECO "E70"]
+[Opening "King's Indian"]
+[Variation "4.e4"]
+[HashCode "54fa791d"]
+[Epoch "Rook"]
+[WhiteID "700142"]
+[WhiteCountry "HUN"]
+[BlackCountry "HUN"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Be3 O-O 6. Bg5 h6 7. Be3 c5 8. e5
+dxe5 9. dxe5 Qxd1+ 10. Rxd1 Ng4 11. Bxc5 Nc6 12. f4 b6 13. Bf2 Be6 14. Nd5 g5
+15. g3 Rae8 1/2-1/2

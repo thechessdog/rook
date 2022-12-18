@@ -1,0 +1,18 @@
+[Event "Kubin op"]
+[Site "Kubin"]
+[Date "1978.??.??"]
+[Round "?"]
+[White "Nemec, Anton"]
+[Black "Skrovina, Milan"]
+[Result "1-0"]
+[ECO "B32"]
+[Opening "Sicilian"]
+[Variation "Labourdonnais-Loewenthal (Kalashnikov) variation"]
+[HashCode "581bc923"]
+[Epoch "Rook"]
+[WhiteID "14905272"]
+[WhiteCountry "SVK"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e5 5. Nb5 d6 6. N1c3 a6 7. Na3 Be6 8.
+Nc4 Nf6 9. Bg5 Rc8 10. Nd5 b5 11. Bxf6 gxf6 12. Nce3 Bg7 13. Bd3 Qa5+ 14. c3
+Ne7 15. O-O f5 16. Nxe7 Kxe7 17. exf5 Bc4 18. a4 Bxd3 19. Qxd3 Rhd8 20. b4 1-0

@@ -1,0 +1,20 @@
+[Event "telex"]
+[Site "telex"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Amsterdam"]
+[Black "London"]
+[Result "1/2-1/2"]
+[ECO "B33"]
+[Opening "Sicilian"]
+[Variation "Sveshnikov variation"]
+[HashCode "ec9af045"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6
+8. Bxf6 gxf6 9. Na3 b5 10. Nd5 f5 11. Bd3 Be6 12. Qh5 Rg8 13. c3 Bxd5 14.
+exd5 Ne7 15. Bxf5 Nxf5 16. Qxf5 Rxg2 17. Qf3 Rg6 18. Nc2 Bh6 19. Ne3 Bxe3
+20. Qxe3 Rc8 21. O-O-O b4 22. f4 bxc3 23. fxe5 Kf8 24. bxc3 Qa5 25. Kb1 Rg4
+26. Rd2 Rxc3 27. Qh6+ Ke8 28. Rb2 Qxd5 29. Rb8+ Kd7 30. Qxd6+ Qxd6 31. exd6
+Kxd6 32. Rf1 Rh3 33. Rb6+ Kc5 34. Rxa6 Rxh2 1/2-1/2
+

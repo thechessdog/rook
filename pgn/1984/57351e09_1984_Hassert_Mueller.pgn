@@ -1,0 +1,21 @@
+[Event "corr DDR/FS"]
+[Site "corr DDR/FS"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Hassert"]
+[Black "Mueller"]
+[Result "1-0"]
+[ECO "E24"]
+[Opening "Nimzo-Indian"]
+[Variation "Saemisch variation"]
+[HashCode "57351e09"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. a3 Bxc3+ 5. bxc3 Ne4 6. Qc2 f5 7. e3 b6 8.
+Bd3 Bb7 9. Ne2 Qh4 10. Ng3 Nxg3 11. fxg3 Qe7 12. O-O Nc6 13. e4 g6 14. Be3
+Na5 15. exf5 gxf5 16. d5 O-O-O 17. Bf2 exd5 18. Rae1 Qd6 19. cxd5 Qxd5 20.
+Bd4 Rhf8 21. Re5 Qd6 22. Rxa5 bxa5 23. Bxa7 f4 24. Rb1 Rde8 25. Qb2 Qc6 26.
+Bb5 Qe6 27. Bxd7+ Kxd7 28. Qxb7 Qe5 29. Rd1+ Ke7 30. Bd4 Qd6 31. Bf6+ Rxf6
+32. Rxd6 Kxd6 33. Qa6+ c6 34. Qd3+ Ke7 35. Qxh7+ Rf7 36. Qh4+ Kd6 37. gxf4
+c5 38. Qf2 Rfe7 39. Qd2+ Kc6 40. c4 1-0
+

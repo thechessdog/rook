@@ -1,0 +1,18 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Afanasova"]
+[Black "Museridze, N."]
+[Result "1-0"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (without ...d6)"]
+[HashCode "43a016e7"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 d6 4. Bxc6+ bxc6 5. O-O Bg4 6. Re1 g6 7. e5 d5
+8. h3 Bf5 9. c4 Bxb1 10. Rxb1 e6 11. Qa4 Qc7 12. d4 Qd7 13. Be3 cxd4 14.
+Nxd4 c5 15. Nb5 d4 16. Bd2 Rc8 17. a3 Ra8 18. Nc7+ Kd8 19. Qxd7+ Kxd7 20.
+Nxa8 Kc8 21. Ba5 Kb7 22. Nc7 a6 23. b4 cxb4 24. axb4 1-0
+

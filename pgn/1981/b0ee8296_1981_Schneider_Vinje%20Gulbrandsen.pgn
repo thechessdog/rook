@@ -1,0 +1,19 @@
+[Event "Viking"]
+[Site "Oslo"]
+[Date "1981.??.??"]
+[Round "4"]
+[White "Schneider, Lars-Ake"]
+[Black "Vinje Gulbrandsen, Arne"]
+[Result "1-0"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "modern variation"]
+[HashCode "b0ee8296"]
+[Epoch "Rook"]
+[WhiteCountry "SWE"]
+[BlackCountry "NOR"]
+
+1. b3 e5 2. Bb2 Nc6 3. e3 Nh6 4. c4 Be7 5. Nf3 d6 6. Nc3 O-O 7. d4 f6 8. Be2
+Nf7 9. O-O a5 10. a3 f5 11. Qc2 Ng5 12. Nxg5 Bxg5 13. dxe5 dxe5 14. Rad1 Qe8
+15. Nd5 Qf7 16. f4 Bf6 17. Nxf6+ gxf6 18. e4 Nd4 19. Bxd4 exd4 20. Rxd4 fxe4
+21. Qxe4 Re8 22. Qd3 Bf5 23. Qxf5 1-0

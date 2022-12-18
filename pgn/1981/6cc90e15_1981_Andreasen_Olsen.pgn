@@ -1,0 +1,20 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Andreasen, Per Naesby"]
+[Black "Olsen, Kim"]
+[Result "0-1"]
+[ECO "A28"]
+[Opening "English"]
+[Variation "four knights system"]
+[HashCode "6cc90e15"]
+[Epoch "Rook"]
+[WhiteID "1400886"]
+[BlackID "1406922"]
+[WhiteCountry "DEN"]
+[BlackCountry "DEN"]
+
+1. c4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. d4 d5 5. dxe5 d4 6. exf6 dxc3 7. Qxd8+ Nxd8
+8. fxg7 Bxg7 9. Be3 cxb2 10. Rb1 Bf5 11. Nd2 Bxb1 12. Nxb1 Nc6 13. g3 Nb4 14.
+Bg2 Nc2+ 15. Kf1 O-O-O 0-1

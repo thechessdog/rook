@@ -1,0 +1,22 @@
+[Event "Salgotarjan"]
+[Site "Salgotarjan"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Sulyok, Sandor"]
+[Black "Frink, Ferenc"]
+[Result "0-1"]
+[ECO "A65"]
+[Opening "Benoni"]
+[Variation "6.e4"]
+[HashCode "c9de3eed"]
+[Epoch "Rook"]
+[WhiteID "702021"]
+[WhiteCountry "HUN"]
+[BlackID "704946"]
+[BlackCountry "HUN"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 a6 7. a4 g6 8. Bf4 Bg7
+9. Bc4 O-O 10. Nge2 Re8 11. f3 Qc7 12. O-O Nbd7 13. Qd2 Ne5 14. Bxe5 Rxe5 15.
+Ng3 Bd7 16. Rae1 Ree8 17. h3 Bxa4 18. f4 Nd7 19. e5 Nb6 20. Ba2 f5 21. exf6
+Bxf6 22. f5 Rxe1 23. Qxe1 Re8 24. Nge4 Bd4+ 25. Kh1 gxf5 26. Rxf5 Qe7 27. Qg3+
+Kh8 28. Nxd6 Qe1+ 29. Kh2 Qg1# 0-1

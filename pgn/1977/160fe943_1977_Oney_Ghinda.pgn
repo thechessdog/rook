@@ -1,0 +1,23 @@
+[Event "Balkaniad tt"]
+[Site "Albena"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Oney, Feridun"]
+[Black "Ghinda, Mihail-Viorel"]
+[Result "0-1"]
+[ECO "E76"]
+[Opening "King's Indian"]
+[Variation "Four pawns attack, dynamic line"]
+[HashCode "160fe943"]
+[Epoch "Rook"]
+[WhiteID "6300057"]
+[WhiteCountry "TUR"]
+[BlackCountry "ROU"]
+
+1. c4 Nf6 2. Nc3 g6 3. e4 d6 4. d4 Bg7 5. f4 O-O 6. Nf3 c5 7. d5 b5 8. cxb5 a6
+9. b6 Qxb6 10. Be2 Nbd7 11. Nd2 Qc7 12. O-O Nb6 13. a4 a5 14. Nc4 Ba6 15. Na3
+Bxe2 16. Qxe2 Rfe8 17. Nc4 Nxc4 18. Qxc4 Qb8 19. Nb5 e6 20. dxe6 Rxe6 21. e5
+dxe5 22. f5 Rc6 23. fxg6 hxg6 24. Ra3 Qc8 25. Rg3 Re6 26. Bg5 Qc6 27. Bxf6 Rxf6
+28. Rxf6 Qxf6 29. Rf3 Qe7 30. Nd6 Rf8 31. Ne4 Rd8 32. Qxc5 Qxc5+ 33. Nxc5 Rd5
+34. Ne4 Rd4 35. Nc3 e4 36. Re3 f5 37. Re1 Rd2 38. Rb1 Bd4+ 39. Kh1 e3 40. g3
+Bxc3 41. bxc3 e2 42. Rb8+ Kg7 0-1

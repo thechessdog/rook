@@ -1,0 +1,21 @@
+[Event "Novi Sad"]
+[Site "Novi Sad"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Smejkal, Jan"]
+[Black "Van der Wiel, John T.H."]
+[Result "1/2-1/2"]
+[ECO "A17"]
+[Opening "English"]
+[Variation "Nimzo-English opening"]
+[HashCode "b5f073b3"]
+[Epoch "Rook"]
+[BlackID "1000020"]
+[BlackCountry "NED"]
+[WhiteID "300020"]
+[WhiteCountry "CZE"]
+
+1. c4 Nf6 2. Nc3 e6 3. Nf3 Bb4 4. Qc2 O-O 5. a3 Bxc3 6. Qxc3 b6 7. b4 a5 8. Bb2
+Qe7 9. e3 axb4 10. axb4 Rxa1+ 11. Bxa1 Na6 12. b5 Nc5 13. Be2 Bb7 14. O-O Ra8
+15. Qc2 Qd8 16. Bxf6 gxf6 17. d4 Ne4 18. d5 f5 19. Nd4 Qf6 20. Rd1 Ra3 21. Qb2
+Ra4 22. Qc2 Ra3 1/2-1/2

@@ -1,0 +1,26 @@
+[Event "Yugoslavia"]
+[Site "Yugoslavia"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Vukic, Milan"]
+[Black "Ilic, Zoran"]
+[Result "1-0"]
+[ECO "A70"]
+[Opening "Benoni"]
+[Variation "classical with e4 and Nf3"]
+[HashCode "07ada818"]
+[Epoch "Rook"]
+[BlackID "15001350"]
+[WhiteID "900273"]
+[WhiteCountry "BIH"]
+[BlackCountry "MKD"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. e4 Bg7 8. Bf4
+a6 9. a4 O-O 10. Nd2 Nh5 11. Be3 Nd7 12. Be2 Ne5 13. O-O Qh4 14. f4 Ng4 15.
+Bxg4 Bxg4 16. Qe1 Qe7 17. Qf2 Rfe8 18. Rae1 b5 19. axb5 axb5 20. Nxb5 Reb8 21.
+Na3 Nf6 22. h3 Rxb2 23. Nac4 Nxe4 24. Bxc5 dxc5 25. Nxb2 Bd4 26. hxg4 Bxf2+ 27.
+Rxf2 f5 28. Nxe4 fxe4 29. Nc4 Qh4 30. d6 Qxg4 31. Ne5 Qe6 32. Rd2 Rd8 33. d7 c4
+34. Rxe4 c3 35. Rd3 c2 36. Rc3 Qd5 37. Rec4 Qd1+ 38. Kf2 Qd2+ 39. Kf3 Qd1+ 40.
+Ke4 Qe2+ 41. Kd5 Kg7 42. Rxc2 Qd1+ 43. Ke6 Rf8 44. Ke7 Qd5 45. Rc5 Qd4 46. g3
+g5 47. R2c4 Qe3 48. d8=Q Rxd8 49. Kxd8 Qxg3 50. Rc7+ Kf6 51. Nd7+ Kf7 52. Nb6+
+Kg6 53. R7c6+ Kh5 54. R6c5 h6 55. f5 1-0

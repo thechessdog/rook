@@ -1,0 +1,20 @@
+[Event "Berlin"]
+[Site "Berlin"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Lanzendoerfer, Johannes"]
+[Black "Harandi, Khosro"]
+[Result "0-1"]
+[ECO "A34"]
+[Opening "English"]
+[Variation "symmetrical variation"]
+[HashCode "5615d6fd"]
+[Epoch "Rook"]
+[WhiteID "4606558"]
+[BlackID "12500011"]
+[WhiteCountry "GER"]
+[BlackCountry "IRI"]
+
+1. c4 Nf6 2. Nc3 c5 3. g3 e6 4. Bg2 Be7 5. Nh3 O-O 6. O-O Nc6 7. Nf4 d6 8. b3
+Bd7 9. Bb2 a6 10. e3 Rb8 11. Qe2 Re8 12. h4 Bf8 13. g4 e5 14. g5 exf4 15. gxf6
+Qxf6 16. Bxc6 bxc6 17. Qh5 Re5 18. Ne4 Rxh5 19. Bxf6 d5 0-1

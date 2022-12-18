@@ -1,0 +1,17 @@
+[Event "corr WER/C"]
+[Site "corr WER/C"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Lazarus"]
+[Black "Dobrinine"]
+[Result "0-1"]
+[ECO "C35"]
+[Opening "KGA"]
+[Variation "Cunningham, Euwe defence"]
+[HashCode "d11ed9c8"]
+[Epoch "Rook"]
+
+1. f4 e5 2. e4 exf4 3. Nf3 Be7 4. Bc4 Nf6 5. e5 Ng4 6. Nc3 Bh4+ 7. Kf1 O-O
+8. Qe2 Kh8 9. Nxh4 Qxh4 10. Nd5 Nxh2+ 11. Kg1 f3 12. gxf3 Qg3+ 13. Qg2
+Nxf3+ 14. Kf1 Qe1# 0-1
+

@@ -1,0 +1,20 @@
+[Event "DEN-chJ int"]
+[Site "Hinnerup"]
+[Date "1979.??.??"]
+[Round "2"]
+[White "Bank Friis, Carsten"]
+[Black "Oehlerich, Per"]
+[Result "1/2-1/2"]
+[ECO "B15"]
+[Opening "Caro-Kann"]
+[Variation "Forgacs variation"]
+[HashCode "8c121370"]
+[Epoch "Rook"]
+[WhiteID "1400495"]
+[BlackID "1408410"]
+[WhiteCountry "DEN"]
+[BlackCountry "DEN"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ exf6 6. Bc4 Bd6 7. Ne2 Nd7
+8. Bf4 Nb6 9. Bb3 Bg4 10. Qd2 O-O 11. f3 Be6 12. O-O Re8 13. Rfe1 a5 14. c3
+Bxb3 15. axb3 Nd5 16. Bxd6 Qxd6 17. Ng3 Rxe1+ 1/2-1/2

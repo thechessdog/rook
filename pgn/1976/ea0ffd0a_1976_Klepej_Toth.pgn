@@ -1,0 +1,20 @@
+[Event "Salgo"]
+[Site "Salgo"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Klepej, J."]
+[Black "Toth, J."]
+[Result "1-0"]
+[ECO "D00"]
+[Opening "Queen's pawn"]
+[Variation "stonewall attack"]
+[HashCode "ea0ffd0a"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. e3 d5 3. Bd3 c5 4. c3 c4 5. Bc2 Nc6 6. f4 Bg4 7. Nf3 e6 8.
+Nbd2 Bd6 9. O-O b5 10. Qe1 Qc7 11. Ne5 Bf5 12. e4 dxe4 13. Nxe4 Nxe4 14.
+Bxe4 Bxe4 15. Qxe4 Bxe5 16. fxe5 Rd8 17. Qg4 g6 18. Qf3 Rd5 19. Bh6 Rg8 20.
+h4 f5 21. exf6 Kf7 22. Rae1 Qd7 23. g4 e5 24. Re4 Qd6 25. dxe5 Nxe5 26. Qe3
+Re8 27. Qxa7+ Nd7 28. Re7+ Rxe7 29. fxe7+ Rf5 30. e8=Q+ Kxe8 31. Qa8+ Ke7
+32. gxf5 1-0
+

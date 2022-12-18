@@ -1,0 +1,20 @@
+[Event "Europe"]
+[Site "Europe"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Rowley"]
+[Black "Wriggles"]
+[Result "1/2-1/2"]
+[ECO "B20"]
+[Opening "Sicilian"]
+[Variation "Keres variation (2.Ne2)"]
+[HashCode "32a9c9ac"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Ne2 d6 3. g3 d5 4. d4 dxe4 5. Nbc3 Nc6 6. Be3 Bg4 7. dxc5 Bf3
+8. Qxd8+ Rxd8 9. Rg1 Nf6 10. h3 e5 11. Bg2 Nd4 12. Bxd4 exd4 13. Na4 Bxg2
+14. Rxg2 d3 15. cxd3 exd3 16. Nec3 Nd7 17. b4 Ne5 18. f4 Nc4 19. O-O-O Be7
+20. Rf2 d2+ 21. Kb1 Rd3 22. Re2 Kd7 23. Kc2 Rxg3 24. Kb3 b5 25. cxb6 Nxb6
+26. Nxb6+ axb6 27. Rdxd2+ Bd6 28. Kb2 Rxh3 29. Nb5 Rh6 30. Rd4 Kc6 31. a4
+Rd8 32. Red2 Rf6 33. Kb3 h5 34. f5 Rh6 35. Rc2+ 1/2-1/2
+

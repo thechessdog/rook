@@ -1,0 +1,23 @@
+[Event "Molde"]
+[Site "Molde"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Sandum, Kjell T"]
+[Black "Brekke, Oystein"]
+[Result "1-0"]
+[ECO "A46"]
+[Opening "Queen's pawn game"]
+[HashCode "52a88ff8"]
+[Epoch "Rook"]
+[BlackID "1500740"]
+[BlackCountry "NOR"]
+
+1. d4 Nf6 2. Nf3 e6 3. Bf4 c5 4. c3 b6 5. h3 Bb7 6. e3 Be7 7. Be2 O-O 8. O-O d6
+9. dxc5 bxc5 10. Nbd2 Nbd7 11. Qc2 d5 12. c4 Qb6 13. Qb3 Qc6 14. Ne5 Nxe5 15.
+cxd5 exd5 16. Bxe5 Rfd8 17. Bf3 Nd7 18. Bg3 Bf6 19. e4 Ne5 20. Bxe5 Bxe5 21.
+exd5 Qa6 22. Rfe1 Bd4 23. Re7 Bc8 24. Rae1 Bf5 25. d6 Be6 26. R1xe6 c4 27. Qxc4
+Qxc4 28. Nxc4 fxe6 29. Bxa8 Rxa8 30. Rxe6 Kf7 31. Re2 Rd8 32. b3 Kf6 33. Kf1
+Bc5 34. Rd2 Ke6 35. Ke2 g5 36. Rd3 h5 37. a3 a5 38. Nxa5 Bxa3 39. Nb7 Rd7 40.
+Re3+ Kf6 41. Re7 Rxe7+ 42. dxe7 Kxe7 43. Na5 Ke6 44. Kf3 Kd5 45. Nc4 Bc5 46.
+Nd2 Kd4 47. Ne4 Be7 48. Ng3 g4+ 49. hxg4 hxg4+ 50. Kxg4 Kc3 51. f4 Kxb3 52. f5
+Kc4 53. Ne4 Kd4 54. f6 Bb4 55. Kf5 Kd5 56. g4 1-0

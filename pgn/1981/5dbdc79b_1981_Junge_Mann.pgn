@@ -1,0 +1,21 @@
+[Event "corr DDR/M"]
+[Site "corr DDR/M"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Junge"]
+[Black "Mann"]
+[Result "1/2-1/2"]
+[ECO "B87"]
+[Opening "Sicilian"]
+[Variation "Sozin with ...a6 and ...b5"]
+[HashCode "5dbdc79b"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 b5 8.
+f4 Bb7 9. f5 e5 10. Nde2 Nbd7 11. Bg5 Be7 12. Bxf6 Nxf6 13. Qd3 Rc8 14.
+O-O-O Qb6 15. h3 a5 16. g4 a4 17. Bd5 Nxd5 18. Nxd5 Bxd5 19. exd5 b4 20. h4
+O-O 21. Ng3 a3 22. Ne4 axb2+ 23. Kxb2 Rc3 24. Nxc3 bxc3+ 25. Kxc3 Qa5+ 26.
+Kb2 Rb8+ 27. Kc1 Rb4 28. g5 Qxa2 29. Qc3 Rb1+ 30. Kd2 Qxd5+ 31. Qd3 Qa5+
+32. Qc3 Rb4 33. Rh3 Qb6 34. Rf1 Rxh4 35. f6 Qd4+ 36. Qxd4 Rxd4+ 37. Rd3
+Rxd3+ 38. Kxd3 Bf8 1/2-1/2
+

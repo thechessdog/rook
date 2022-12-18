@@ -1,0 +1,20 @@
+[Event "Salgotarjan"]
+[Site "Salgotarjan"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Szokacs, Laszlo"]
+[Black "Sulyok, Sandor"]
+[Result "0-1"]
+[ECO "B20"]
+[Opening "Sicilian"]
+[Variation "Steinitz variation"]
+[HashCode "a51330a4"]
+[Epoch "Rook"]
+[BlackID "702021"]
+[BlackCountry "HUN"]
+
+1. e4 c5 2. g3 d6 3. Bg2 Nf6 4. Ne2 Nc6 5. Nbc3 e5 6. d3 Be7 7. O-O Nd4 8. Nxd4
+cxd4 9. Ne2 b6 10. c3 dxc3 11. bxc3 Bb7 12. c4 O-O 13. f4 Nd7 14. Bb2 Nc5 15.
+Kh1 Qd7 16. Ng1 b5 17. fxe5 dxe5 18. cxb5 Nxd3 19. a4 Rad8 20. Qb3 Bc5 21. Nh3
+Nxb2 22. Qxb2 Bd4 23. Qa2 Bxa1 24. Qxa1 Qd4 25. Qe1 Qxa4 26. Qe2 f6 27. Nf2 Rd4
+28. Bh3 Bxe4+ 29. Nxe4 Rxe4 30. Be6+ Kh8 31. Qh5 Qxb5 32. Rd1 Qe2 0-1

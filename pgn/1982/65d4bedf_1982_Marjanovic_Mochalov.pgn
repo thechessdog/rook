@@ -1,0 +1,30 @@
+[Event "Minsk"]
+[Site "Minsk"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Marjanovic, Slavoljub"]
+[Black "Mochalov, Evgeny V"]
+[Result "0-1"]
+[ECO "B64"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...Be7 defence, 9.f4"]
+[HashCode "65d4bedf"]
+[Epoch "Rook"]
+[WhiteID "900354"]
+[WhiteCountry "SRB"]
+[BlackID "13500074"]
+[BlackCountry "BLR"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd2 Be7 8.
+O-O-O O-O 9. f4 d5 10. exd5 exd5 11. Nb3 Bb4 12. Be2 Bf5 13. Bf3 Rc8 14. g4
+Bxc3 15. bxc3 Be4 16. Bxe4 Nxe4 17. Bxd8 Nxd2 18. Rxd2 Rfxd8 19. Kb2 Kf8 20.
+Rhd1 Ne7 21. Rd4 Re8 22. f5 Rc6 23. h3 Rec8 24. R4d3 Rb6 25. Re3 g6 26. fxg6
+hxg6 27. a4 Rc4 28. a5 Rb5 29. Red3 Ra4 30. Kc1 Re4 31. Kb2 Re5 32. Ra1 a6 33.
+Ra4 Nc6 34. c4 dxc4 35. Rxc4 Nxa5 36. Rc7 Nxb3 37. cxb3 Rec5 38. Rd8+ Kg7 39.
+Re7 Re5 40. Rc7 Re2+ 41. Rc2 Re3 42. Rc3 Re2+ 43. Rc2 Rxc2+ 44. Kxc2 g5 45. Kb2
+Re5 46. Rd7 b5 47. Ra7 Re3 48. Rxa6 Rxh3 49. Rb6 Rg3 50. Rxb5 Rxg4 51. b4 Kg6
+52. Rb8 Kf5 53. b5 Re4 54. Kc3 g4 55. Rg8 Re1 56. Kd4 Kf4 57. b6 Rb1 58. Kc5 f5
+59. Kc6 Kg3 60. Rg5 f4 61. Rb5 Rh1 62. b7 Rh8 63. Kc7 f3 64. Rh5 Rf8 65. Rf5
+Rg8 66. Rg5 Rf8 67. Rf5 Rxf5 68. b8=Q f2 69. Kd7+ Rf4 70. Qb3+ Rf3 71. Qb8+ Rf4
+72. Qb3+ Rf3 73. Qb8+ Kg2 74. Qb2 Kh1 75. Qh8+ Kg1 76. Qd4 g3 77. Ke7 g2 78.
+Ke6 Rh3 79. Ke5 Kh1 80. Qg4 Re3+ 81. Kd4 g1=Q 0-1

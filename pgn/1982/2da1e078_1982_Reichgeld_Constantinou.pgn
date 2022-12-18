@@ -1,0 +1,18 @@
+[Event "corr Eu Mkl"]
+[Site "corr Eu Mkl"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Reichgeld, M."]
+[Black "Constantinou, A."]
+[Result "0-1"]
+[ECO "B78"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, 10.O-O-O"]
+[HashCode "2da1e078"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 Nc6 8.
+Bc4 O-O 9. Qd2 Bd7 10. O-O-O Qc7 11. Bb3 Rfc8 12. g4 Na5 13. Kb1 Nc4 14.
+Bxc4 Qxc4 15. Nb3 a5 16. Qd3 Qe6 17. Nd4 Qe5 18. f4 Rxc3 19. Qxc3 Qxe4 20.
+h3 Nd5 0-1
+

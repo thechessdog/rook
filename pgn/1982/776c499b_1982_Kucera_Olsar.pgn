@@ -1,0 +1,20 @@
+[Event "corr ch-CSSR"]
+[Site "corr ch-CSSR"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Kucera"]
+[Black "Olsar"]
+[Result "0-1"]
+[ECO "D09"]
+[Opening "QGD"]
+[Variation "Albin counter-gambit, 5.g3"]
+[HashCode "776c499b"]
+[Epoch "Rook"]
+
+1. d4 d5 2. c4 e5 3. dxe5 d4 4. Nf3 Nc6 5. g3 Bc5 6. Bf4 Bg4 7. Bg2 f6 8.
+exf6 Nxf6 9. Ne5 Nxe5 10. Bxe5 O-O 11. h3 Bh5 12. g4 Bg6 13. O-O h5 14. b4
+Bxb4 15. Bxd4 hxg4 16. Nc3 c6 17. e3 gxh3 18. Bxh3 Qe7 19. Qb3 Bxc3 20.
+Bxc3 Ne4 21. Bg2 Rf5 22. Qb2 Rh5 23. Rfd1 Qh4 24. Be5 Qxf2+ 25. Qxf2 Nxf2
+26. Kxf2 Rxe5 27. Rd4 Rf8+ 28. Rf4 Ra5 29. Bf3 Ra4 30. Bd1 Rb4 31. Bb3 c5
+32. Rg1 Rxf4+ 33. exf4 Bf7 34. Rc1 a5 0-1
+

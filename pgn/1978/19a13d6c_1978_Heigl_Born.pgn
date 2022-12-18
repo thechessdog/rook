@@ -1,0 +1,22 @@
+[Event "corr DFSM"]
+[Site "corr DFSM"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Heigl"]
+[Black "Born"]
+[Result "0-1"]
+[ECO "E55"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Gligoric system, Bronstein variation"]
+[HashCode "19a13d6c"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Nf3 O-O 6. Bd3 d5 7. O-O dxc4 8.
+Bxc4 Nbd7 9. Qe2 a6 10. a3 Ba5 11. Bd3 Qe7 12. Bd2 e5 13. dxe5 Nxe5 14.
+Nxe5 Qxe5 15. Ne4 Bxd2 16. Nxf6+ Qxf6 17. Qxd2 Bf5 18. Bxf5 Qxf5 19. Rfd1
+Qf6 20. Qc2 Rad8 21. h3 b6 22. Qc3 Rxd1+ 23. Rxd1 Rd8 24. Rd2 Rxd2 25. Qxd2
+h6 26. Kf1 b5 27. Qc2 Qe5 28. Ke2 Qd5 29. f3 g6 30. Qc3 Qa2 31. Kd3 Qb1+
+32. Qc2 Qf1+ 33. Ke4 c4 34. Qd2 h5 35. Kd4 c3 36. Qxc3 Qxg2 37. Qc8+ Kh7
+38. Qxa6 Qxh3 39. Qf6 Kg8 40. e4 h4 41. e5 Qc8 42. Ke3 Qc1+ 43. Ke4 Qc4+
+44. Ke3 Qc1+ 45. Ke4 g5 46. f4 Qe1+ 47. Kf5 Qg3 48. Ke4 0-1
+

@@ -1,0 +1,24 @@
+[Event "corr ch11-DDR"]
+[Site "corr ch11-DDR"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Skorna, U."]
+[Black "Weber, B."]
+[Result "0-1"]
+[ECO "C73"]
+[Opening "Ruy Lopez"]
+[Variation "modern Steinitz defence, Alapin variation"]
+[HashCode "e13dbc23"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. Bxc6+ bxc6 6. d4 f6 7. c4 Bd7 8.
+Be3 Qb8 9. Qd2 Ne7 10. Nc3 Qb4 11. c5 Ng6 12. O-O-O Be7 13. h4 Rb8 14. dxe5
+Nxe5 15. Nxe5 fxe5 16. f3 O-O 17. Bg5 Bxg5 18. hxg5 Qxc5 19. g6 hxg6 20.
+Qg5 Kf7 21. Rhf1 Be6 22. f4 Qe3+ 23. Rd2 Kg8 24. Rf3 Qg1+ 25. Rd1 Qb6 26.
+Rd2 Rxf4 27. Rxf4 Qg1+ 28. Kc2 exf4 29. Qe7 Bxa2 30. Nxa2 Qa1 31. Qe6+ Kf8
+32. b4 g5 33. Qf5+ Qf6 34. Qa5 Rb6 35. Nc3 Qg6 36. Rd3 g4 37. Na4 Rb7 38.
+Nc3 Rb6 39. e5 d5 40. Qc5+ Ke8 41. Qd4 Qf5 42. e6 Qf6 43. Na4 Rb5 44. Nc3
+Rb7 45. Qc5 Qxe6 46. Rd2 Qd6 47. Re2+ Kf7 48. Qf2 Rxb4 49. Qh4 f3 50. gxf3
+gxf3 51. Qf2 Qg6+ 52. Kc1 Qf6 53. Re3 Rf4 54. Qf1 f2 55. Nd1 Qa1+ 56. Kc2
+Qa4+ 0-1
+

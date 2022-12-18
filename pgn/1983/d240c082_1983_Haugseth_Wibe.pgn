@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Haugseth"]
+[Black "Wibe"]
+[Result "1/2-1/2"]
+[ECO "E96"]
+[Opening "King's Indian"]
+[Variation "orthodox, 7...Nbd7, main line"]
+[HashCode "d240c082"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 O-O 5. Be2 d6 6. Nf3 c6 7. O-O Nbd7 8.
+Re1 e5 9. Bf1 a5 10. dxe5 dxe5 11. Na4 Qe7 12. Qc2 Nc5 13. Nxc5 Qxc5 14.
+Be3 Qe7 15. c5 Ng4 16. Bg5 f6 17. Bd2 Nh6 18. Be3 Kh8 19. h3 g5 20. Rad1 g4
+21. Nh4 gxh3 1/2-1/2
+

@@ -1,0 +1,16 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Haugen"]
+[Black "Lerfald"]
+[Result "1-0"]
+[ECO "E15"]
+[Opening "Queen's Indian"]
+[Variation "Rubinstein variation"]
+[HashCode "98ac284c"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2 c5 6. d5 exd5 7. Nh4 Be7 8.
+cxd5 O-O 9. d6 1-0
+

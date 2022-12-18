@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Filipov"]
+[Black "Lacis"]
+[Result "1-0"]
+[ECO "C57"]
+[Opening "two knights defence"]
+[Variation "Wilkes Barre (Traxler) variation"]
+[HashCode "92681e20"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 Bc5 5. Nxf7 Bxf2+ 6. Kxf2 Nxe4+ 7.
+Ke3 Qe7 8. c3 Rf8 9. Kxe4 d5+ 10. Bxd5 Qh4+ 11. Kd3 Bf5+ 12. Ke2 Be4 13. g3
+Qg4+ 14. Ke3 Qg6 15. Bxe4 Qxf7 16. Qf3 Qe6 17. Qg2 O-O-O 18. d3 1-0
+

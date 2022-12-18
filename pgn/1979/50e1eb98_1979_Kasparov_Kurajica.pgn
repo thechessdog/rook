@@ -1,0 +1,17 @@
+[Event "Banja Luka"]
+[Site "Banja Luka"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Kasparov, Garry"]
+[Black "Kurajica, Bojan"]
+[Result "1/2-1/2"]
+[ECO "E46"]
+[Opening "Nimzo-Indian"]
+[Variation "Simagin variation"]
+[HashCode "50e1eb98"]
+[Epoch "Rook"]
+[BlackID "14400057"]
+[BlackCountry "BIH"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Ne2 d5 6. a3 Bd6 7. c5 Be7 8. b4 b6
+9. Ng3 c6 10. f4 Ne8 11. Bd3 f5 12. O-O 1/2-1/2

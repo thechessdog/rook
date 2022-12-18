@@ -1,0 +1,18 @@
+[Event "Milan"]
+[Site "Milan"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Deze"]
+[Black "Lanzani"]
+[Result "1-0"]
+[ECO "D42"]
+[Opening "QGD"]
+[Variation "Semi-Tarrasch, 7.Bd3"]
+[HashCode "8049f71d"]
+[Epoch "Rook"]
+
+1. c4 Nf6 2. Nc3 c5 3. Nf3 e6 4. e3 d5 5. d4 Nc6 6. cxd5 Nxd5 7. Bd3 cxd4
+8. exd4 Be7 9. O-O O-O 10. Re1 Nxc3 11. bxc3 Bf6 12. Qe2 g6 13. Rb1 Qc7 14.
+h4 b6 15. h5 Bb7 16. Ng5 e5 17. hxg6 hxg6 18. Qg4 exd4 19. Qh4 Bxg5 20.
+Bxg5 1-0
+

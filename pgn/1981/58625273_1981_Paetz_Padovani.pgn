@@ -1,0 +1,19 @@
+[Event "Berkeley"]
+[Site "Berkeley"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Paetz, M."]
+[Black "Padovani, M."]
+[Result "0-1"]
+[ECO "E62"]
+[Opening "King's Indian"]
+[Variation "fianchetto, Uhlmann (Szabo) variation"]
+[HashCode "58625273"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 d6 5. Nf3 O-O 6. O-O Nc6 7. Nc3 e5 8.
+d5 Ne7 9. e4 Nd7 10. Nh4 f5 11. f4 Nf6 12. Rb1 c6 13. fxe5 Nxe4 14. Nxe4
+fxe4 15. exd6 Rxf1+ 16. Kxf1 Qxd6 17. Bxe4 Bh3+ 18. Bg2 Rf8+ 19. Ke1 Bxg2
+20. Nxg2 cxd5 21. cxd5 Qb4+ 22. Bd2 Qe4+ 23. Ne3 Nxd5 24. Qc2 Qh1+ 25. Ke2
+Qxh2+ 26. Kd3 Nxe3 27. Bxe3 Rd8+ 0-1
+

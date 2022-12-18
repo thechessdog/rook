@@ -1,0 +1,21 @@
+[Event "Ins"]
+[Site "Ins"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Stanway, G."]
+[Black "De Coverly, Roger D"]
+[Result "0-1"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, 6.e5"]
+[HashCode "51c5c0a8"]
+[Epoch "Rook"]
+[BlackID "405213"]
+[BlackCountry "ENG"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 O-O 6. e5 Nfd7 7. h4 c5 8. e6
+fxe6 9. h5 gxh5 10. Rxh5 Nf6 11. Rh4 Nc6 12. dxc5 Qa5 13. Be3 Nd5 14. Bd3 h6
+15. Bd2 Nxc3 16. Bxc3 Bxc3+ 17. bxc3 Qxc3+ 18. Nd2 e5 19. Rg4+ Bxg4 20. Qxg4+
+Kh8 21. O-O-O Qa3+ 22. Kb1 Qb4+ 23. Nb3 Rf6 24. Rh1 Rg8 25. Qf3 Qxf4 26. Qd5 e6
+27. Qxd6 Rd8 28. Qc7 e4 29. Qxf4 Rxf4 30. Bc4 Kg7 31. Bxe6 Re8 32. Bc4 e3 33.
+Nc1 Rf2 34. Re1 Rxg2 35. Re2 Rxe2 36. Nxe2 Re5 0-1

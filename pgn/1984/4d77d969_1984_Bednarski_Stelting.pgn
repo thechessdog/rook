@@ -1,0 +1,19 @@
+[Event "Hamburg op"]
+[Site "Hamburg"]
+[Date "1984.01.01"]
+[Round "8"]
+[White "Bednarski, Jacek B"]
+[Black "Stelting, Thorsten"]
+[Result "1-0"]
+[ECO "B42"]
+[Opening "Sicilian"]
+[Variation "Kan, 5.Bd3"]
+[HashCode "4d77d969"]
+[Epoch "Rook"]
+[BlackID "4605616"]
+[BlackCountry "GER"]
+[WhiteCountry "POL"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Ne7 6. O-O Nbc6 7. Nxc6 Nxc6 8.
+Qg4 b5 9. Qg3 Bb7 10. a4 Nb4 11. axb5 Nxd3 12. cxd3 axb5 13. Rxa8 Bxa8 14. Nc3
+b4 15. Nb5 d6 16. e5 dxe5 17. Qxe5 Bc6 1-0

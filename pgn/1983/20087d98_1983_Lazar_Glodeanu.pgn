@@ -1,0 +1,17 @@
+[Event "Eforie"]
+[Site "Eforie"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Lazar"]
+[Black "Glodeanu, Ion"]
+[Result "1-0"]
+[ECO "C45"]
+[Opening "Scotch"]
+[Variation "Schmidt variation"]
+[HashCode "20087d98"]
+[Epoch "Rook"]
+[BlackID "1201395"]
+[BlackCountry "ROU"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nf6 5. Bc4 Nxe4 6. Bxf7+ Kxf7 7. Qh5+ g6
+8. Qd5+ Kg7 9. Nxc6 Nf6 10. Bh6+ Kxh6 11. Qd2+ Kg7 12. Nxd8 1-0

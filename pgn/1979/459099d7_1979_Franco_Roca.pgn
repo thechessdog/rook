@@ -1,0 +1,24 @@
+[Event "Esquel"]
+[Site "Esquel"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Franco Ocampos, Zenon"]
+[Black "Rocha, Antonio"]
+[Result "0-1"]
+[ECO "C44"]
+[Opening "Ponziani"]
+[Variation "Jaenisch counter-attack"]
+[HashCode "459099d7"]
+[Epoch "Rook"]
+[WhiteCountry "PAR"]
+[BlackID "1901869"]
+[BlackCountry "POR"]
+
+1. e4 e5 2. Nf3 Nc6 3. c3 Nf6 4. d4 exd4 5. e5 Ne4 6. Qe2 d5 7. exd6 f5 8. Nxd4
+Nxd4 9. cxd4 Bxd6 10. f3 Qh4+ 11. g3 Bxg3+ 12. hxg3 Qxh1 13. fxe4 Qxe4 14.
+Qxe4+ fxe4 15. Bf4 c6 16. Nc3 Bf5 17. Bg2 O-O 18. Nxe4 Bxe4 19. Bxe4 Rxf4 20.
+Bxh7+ Kxh7 21. gxf4 Rf8 22. Ke2 Rxf4 23. Rh1+ Kg6 24. Ke3 Rf6 25. Rh8 Kf5 26.
+Rg8 Re6+ 27. Kf3 Re7 28. b4 Ke6 29. Ra8 Kd5 30. Rxa7 Kxd4 31. a4 Rf7+ 32. Kg4
+Kc4 33. a5 Kb5 34. Kg5 Rd7 35. Kf5 Kxb4 36. Ke6 Rd1 37. Rxb7+ Kxa5 38. Rxg7 Kb4
+39. Ke5 c5 40. Ke4 c4 41. Ke3 Kb3 42. Ke2 Rd8 43. Rb7+ Kc2 44. Re7 c3 45. Re6
+Kc1 46. Rc6 c2 47. Rc7 Re8+ 48. Kd3 Kd1 0-1

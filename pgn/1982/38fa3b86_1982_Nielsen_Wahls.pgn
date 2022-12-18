@@ -1,0 +1,26 @@
+[Event "DEN-chJ int"]
+[Site "Soro"]
+[Date "1982.01.01"]
+[Round "6"]
+[White "Nielsen, Lars"]
+[Black "Wahls, Matthias"]
+[Result "1-0"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra gambit"]
+[HashCode "38fa3b86"]
+[Epoch "Rook"]
+[BlackID "4600070"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. d4 cxd4 3. c3 Nf6 4. e5 Nd5 5. Nf3 Nc6 6. cxd4 d6 7. Bc4 Nb6 8. Bb5
+dxe5 9. Nxe5 Bd7 10. Bxc6 Bxc6 11. Nxc6 bxc6 12. Nc3 g6 13. Bf4 Bg7 14. Be5 O-O
+15. O-O Bxe5 16. dxe5 Qxd1 17. Nxd1 c5 18. Rc1 c4 19. Ne3 Rfc8 20. Rc2 Rc5 21.
+f4 Rac8 22. Rfc1 e6 23. Kf2 a5 24. Kf3 a4 25. a3 Kf8 26. h3 h5 27. g3 Ke7 28.
+Ke4 R5c6 29. g4 hxg4 30. hxg4 R8c7 31. Rc3 Kd7 32. Kd4 Rb7 33. Nxc4 Nxc4 34.
+Rxc4 Rxc4+ 35. Rxc4 Rxb2 36. Rxa4 Rg2 37. g5 Ra2 38. Ra7+ Ke8 39. Kc5 Kf8 40.
+Ra4 Ra1 41. Kc4 Rf1 42. Kb5 Rf3 43. Ra8+ Ke7 44. Ra7+ Kf8 45. a4 Rxf4 46. Rc7
+Rf5 47. Rc5 Rxg5 48. a5 Rg1 49. a6 Rb1+ 50. Kc6 g5 51. a7 Ra1 52. Kb6 Rxa7 53.
+Kxa7 Kg7 54. Kb6 f5 55. exf6+ Kxf6 56. Rc8 g4 57. Kc5 Ke5 58. Rg8 Kf4 59. Kd4
+e5+ 60. Kd3 Kf3 61. Rf8+ Kg2 62. Ke2 g3 63. Re8 Kh2 64. Rxe5 g2 65. Rh5+ Kg1
+66. Rg5 1-0

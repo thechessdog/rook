@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Abram"]
+[Black "Salceanu"]
+[Result "1-0"]
+[ECO "B31"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (with ...g6, without ...d6)"]
+[HashCode "ddf51094"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. Nc3 d6 6. e5 Bd7 7. exd6 exd6
+8. Re1+ Nge7 9. Ne4 Qc7 10. d4 Nxd4 11. Nxd4 cxd4 12. Bh6 Be5 13. f4 Bxb5
+14. fxe5 dxe5 15. Bg7 Rg8 16. Nf6+ Kd8 17. Nxg8 Nxg8 18. Rxe5 1-0
+

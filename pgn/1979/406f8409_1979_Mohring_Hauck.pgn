@@ -1,0 +1,17 @@
+[Event "RDT"]
+[Site "RDT"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Moehring, Guenther"]
+[Black "Hauck"]
+[Result "1-0"]
+[ECO "A43"]
+[Opening "Old Benoni defence"]
+[HashCode "406f8409"]
+[Epoch "Rook"]
+[WhiteID "4611462"]
+[WhiteCountry "GER"]
+
+1. d4 c5 2. Nf3 cxd4 3. Nxd4 d5 4. g3 e5 5. Nb3 Nc6 6. Bg2 Be6 7. O-O Nf6 8.
+Bg5 Be7 9. Nc3 d4 10. Bxf6 gxf6 11. Ne4 Bd5 12. c4 Bxc4 13. Nec5 Rc8 14. Nxb7
+Qb6 15. Rc1 Bxb3 16. Qxb3 Bb4 17. Rxc6 Rxc6 18. Bxc6+ Qxc6 19. Qxb4 1-0

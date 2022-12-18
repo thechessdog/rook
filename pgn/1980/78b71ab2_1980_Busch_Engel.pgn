@@ -1,0 +1,24 @@
+[Event "Mosbach Elo"]
+[Site "Mosbach Elo"]
+[Date "1980.01.01"]
+[Round "3"]
+[White "Busch, Raimund"]
+[Black "Engel, Berthold"]
+[Result "0-1"]
+[ECO "E40"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3"]
+[HashCode "78b71ab2"]
+[Epoch "Rook"]
+[WhiteID "4602480"]
+[WhiteCountry "GER"]
+[BlackID "4604717"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 Bxc3+ 5. bxc3 Qe7 6. Bd3 d6 7. e4 e5 8. Ne2
+O-O 9. O-O Ne8 10. Ng3 c5 11. f4 f6 12. fxe5 dxe5 13. d5 Nd6 14. Be3 Na6 15.
+Qe2 Bd7 16. Rf2 Rf7 17. Nf1 Raf8 18. g4 b6 19. Ng3 Kh8 20. a4 Nb7 21. Nf5 Bxf5
+22. Rxf5 Nc7 23. Qf2 Ne8 24. a5 bxa5 25. Rf3 Qc7 26. Rb1 Ned6 27. Rh3 g6 28.
+Bh6 Rc8 29. Rf3 f5 30. gxf5 gxf5 31. Rxf5 Nxf5 32. exf5 Qe7 33. h4 e4 34. Bg5
+Rg8 35. Kh1 Rxg5 36. hxg5 exd3 37. g6 Qe4+ 38. Kg1 Qg4+ 39. Kh1 Rxf5 40. g7+
+Kg8 41. Rxb7 Rxf2 0-1

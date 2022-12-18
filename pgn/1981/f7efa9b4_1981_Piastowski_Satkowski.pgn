@@ -1,0 +1,19 @@
+[Event "corr ch-DDR"]
+[Site "corr ch-DDR"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Piastowski"]
+[Black "Satkowski"]
+[Result "1-0"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "modern variation"]
+[HashCode "f7efa9b4"]
+[Epoch "Rook"]
+
+1. b3 e5 2. Bb2 Nc6 3. e3 Nf6 4. Bb5 d6 5. Ne2 Bd7 6. f4 a6 7. Bxc6 Bxc6 8.
+O-O Qd7 9. Qe1 exf4 10. Nxf4 Be7 11. c4 Rg8 12. Nc3 O-O-O 13. e4 Qe8 14.
+Nfd5 Nxd5 15. Nxd5 Bg5 16. d3 Bxd5 17. cxd5 f6 18. Bd4 Kb8 19. a4 b6 20.
+Ra2 Qe7 21. h4 Bh6 22. Rc2 Qd7 23. Rc6 Kb7 24. Qb4 Rb8 25. Rf2 Ka8 26. a5
+Rgd8 27. Ra2 Qg4 28. axb6 Qd1+ 29. Kf2 1-0
+

@@ -1,0 +1,18 @@
+[Event "Copenhagen op"]
+[Site "Copenhagen op"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Zieher, H."]
+[Black "Kaiszauri, K."]
+[Result "1-0"]
+[ECO "B07"]
+[Opening "Pirc"]
+[Variation "Holmov system"]
+[HashCode "ba5e11eb"]
+[Epoch "Rook"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Bc4 Bg7 5. Qe2 e5 6. dxe5 dxe5 7. Nf3 Nc6
+8. Be3 Bg4 9. Rd1 Nd7 10. Bxf7+ Kf8 11. Bb3 Nd4 12. Nxd4 Bxe2 13. Ne6+ Ke7
+14. Kxe2 Qc8 15. Nxg7 Kf6 16. Ne6 Nb6 17. Bg5+ Kf7 18. Rd3 Re8 19. Rf3+ Kg8
+20. Nd8+ 1-0
+

@@ -1,0 +1,24 @@
+[Event "corr ch-CSSR"]
+[Site "corr ch-CSSR"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Kukucza"]
+[Black "Tesarek"]
+[Result "0-1"]
+[ECO "A45"]
+[Opening "Trompovsky attack (Ruth, Opovcensky opening)"]
+[HashCode "004b3a5a"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. Bg5 Ne4 3. Bh4 c5 4. f3 g5 5. fxe4 gxh4 6. e3 e6 7. Nd2 Nc6 8.
+c3 b6 9. Qh5 Qf6 10. Ngf3 Be7 11. d5 exd5 12. exd5 Nd8 13. Bd3 d6 14. Rg1
+h6 15. O-O-O Rg8 16. h3 Rg7 17. Rde1 Nb7 18. e4 Bd7 19. e5 dxe5 20. Ne4
+Qf4+ 21. Kb1 O-O-O 22. Nxe5 f5 23. Nxd7 fxe4 24. Rxe4 Qh2 25. Ree1 Rxd7 26.
+Qxh6 Bg5 27. Qh8+ Bd8 28. Bf5 Kc7 29. Bxd7 Rxd7 30. Qg8 Nd6 31. Rgf1 Nc4
+32. Kc2 b5 33. Re2 Qd6 34. Rd1 Qf4 35. Qg6 Rd6 36. Qd3 Bg5 37. Rde1 Qf7 38.
+Rd1 Qg6 39. Qxg6 Rxg6 40. Rd3 Kd6 41. b4 Ne3+ 42. Kb1 cxb4 43. cxb4 Nxd5
+44. g3 hxg3 45. Rxg3 Rh6 46. Kc2 Nxb4+ 47. Kb3 Bf4 48. Rf3 Nd5 49. Re4 Bg5
+50. Rd3 Bf6 51. a4 a6 52. Re8 Rh4 53. axb5 Rb4+ 54. Ka3 Rxb5 55. Ka4 Rc5
+56. Ra8 Rc4+ 57. Ka3 Rc6 58. Ka4 Kc5 59. Ra7 Kc4 60. Rd2 Rb6 61. Rc2+ Bc3
+62. Rxc3+ Nxc3+ 63. Ka5 Nd5 64. Rd7 Rb5+ 0-1
+

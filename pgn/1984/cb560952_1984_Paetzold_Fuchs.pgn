@@ -1,0 +1,18 @@
+[Event "corr DDR/FS"]
+[Site "corr DDR/FS"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Paetzold"]
+[Black "Fuchs, Reinhart"]
+[Result "1-0"]
+[ECO "C35"]
+[Opening "KGA"]
+[Variation "Cunningham, Euwe defence"]
+[HashCode "cb560952"]
+[Epoch "Rook"]
+[BlackID "4611357"]
+[BlackCountry "GER"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 Be7 4. Bc4 Nf6 5. Nc3 Nxe4 6. Ne5 Bh4+ 7. g3 fxg3 8.
+O-O gxh2+ 9. Kxh2 Bg3+ 10. Kg2 Bxe5 11. Bxf7+ Kf8 12. Nxe4 Qh4 13. Bd5+ Ke8 14.
+Rh1 Qe7 15. d4 Bf6 16. Re1 Kf8 17. Nxf6 Qxf6 18. Rf1 1-0

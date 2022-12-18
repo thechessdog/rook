@@ -1,0 +1,29 @@
+[Event "Rostock"]
+[Site "Rostock"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Bernard, Ryszard"]
+[Black "Jeske, Eckhard"]
+[Result "0-1"]
+[ECO "B13"]
+[Opening "Caro-Kann"]
+[Variation "exchange variation"]
+[HashCode "5582033b"]
+[Epoch "Rook"]
+[BlackID "4641485"]
+[BlackCountry "GER"]
+[WhiteID "1100688"]
+[WhiteCountry "POL"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. Bd3 Nc6 5. c3 e5 6. dxe5 Nxe5 7. Nf3 Nc6 8.
+O-O Bc5 9. Nbd2 Nge7 10. Nb3 Bb6 11. Re1 O-O 12. Be3 Bxe3 13. Rxe3 h6 14. Nfd4
+Nxd4 15. Nxd4 Nc6 16. Bc2 Qf6 17. Qd3 g6 18. Rae1 Bd7 19. Bb3 Nxd4 20. Qxd4
+Qxd4 21. cxd4 Bc6 22. f4 Kg7 23. Kf2 a5 24. Bd1 Ra6 25. Bf3 Rd8 26. R1e2 Rd6
+27. Rc3 Rb6 28. Rd2 Rb4 29. a3 Rb6 30. Be2 Bb5 31. Bxb5 Rxb5 32. Rc5 Rdb6 33.
+Rxb5 Rxb5 34. Rc2 b6 35. Ke2 Rb3 36. Rd2 Kf6 37. g4 Rh3 38. Kf1 Rf3+ 39. Rf2
+Rd3 40. Ke2 Rxd4 41. Ke3 Re4+ 42. Kd3 h5 43. h3 Ke6 44. b3 Re1 45. Rc2 Kd6 46.
+gxh5 gxh5 47. Rc8 Rh1 48. Rh8 Rxh3+ 49. Kd4 Ke6 50. b4 Rh4 51. Rb8 Rxf4+ 52.
+Ke3 Re4+ 53. Kf3 axb4 54. Rxb6+ Ke5 55. axb4 Rc4 56. Rb8 Rc3+ 57. Kf2 h4 58. b5
+Rc2+ 59. Ke3 d4+ 60. Kd3 Rc3+ 61. Kd2 Rb3 62. Kc2 Rb4 63. Kd3 h3 64. b6 h2 65.
+Rh8 Rxb6 66. Rxh2 Rb3+ 67. Kc2 Rc3+ 68. Kd2 f5 69. Rh8 Ke4 70. Re8+ Kf3 71. Rd8
+Rc4 0-1

@@ -1,0 +1,20 @@
+[Event "Tungsram"]
+[Site "Budapest"]
+[Date "1978.08.01"]
+[Round "1"]
+[White "Portisch, Ferenc"]
+[Black "Lukacs, Peter"]
+[Result "1/2-1/2"]
+[ECO "E55"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Gligoric system, Bronstein variation"]
+[HashCode "9a59e3e5"]
+[Epoch "Rook"]
+[WhiteID "700487"]
+[WhiteCountry "HUN"]
+[BlackID "700142"]
+[BlackCountry "HUN"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 c5 7. O-O dxc4 8. Bxc4
+Nbd7 9. a3 cxd4 10. Qxd4 Bxc3 11. Qxc3 Qc7 12. Qc2 b6 13. Bd3 Qxc2 14. Bxc2 Ba6
+15. Rd1 Rac8 16. Ne1 Rc7 17. Bd2 Rfc8 18. Rdc1 Nc5 19. f3 Bc4 1/2-1/2

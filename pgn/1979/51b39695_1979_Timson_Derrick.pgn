@@ -1,0 +1,20 @@
+[Event "corr GB"]
+[Site "corr GB"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Timson, P."]
+[Black "Derrick, K."]
+[Result "0-1"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "modern variation"]
+[HashCode "51b39695"]
+[Epoch "Rook"]
+
+1. b3 e5 2. Bb2 Nc6 3. e3 Nf6 4. Bb5 d6 5. Ne2 Bd7 6. O-O a6 7. Bxc6 Bxc6
+8. f4 Be7 9. Qe1 e4 10. Ng3 Qd7 11. Nc3 h5 12. Nge2 Ng4 13. Nd4 Bf6 14.
+Nxc6 Qxc6 15. Qe2 g6 16. a4 d5 17. Kh1 Nh6 18. b4 Nf5 19. b5 Qd7 20. Ba3 h4
+21. Rfb1 Bxc3 22. dxc3 Ng3+ 23. hxg3 hxg3+ 24. Kg1 f6 25. Be7 Kxe7 26. bxa6
+Kf8 27. Qe1 Qg4 28. axb7 Rb8 29. a5 Qh4 30. Kf1 Qh1+ 31. Ke2 Qxg2+ 32. Kd1
+Rh1 33. Qxh1 Qxh1+ 34. Kd2 Qg2+ 35. Kc1 Qf1+ 36. Kd2 Qf2+ 0-1
+

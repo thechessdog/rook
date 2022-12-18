@@ -1,0 +1,16 @@
+[Event "Alkmaar open"]
+[Site "Alkmaar open"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Mulder, R."]
+[Black "Coerts, M."]
+[Result "0-1"]
+[ECO "B00"]
+[Opening "King's pawn opening"]
+[HashCode "f0b448c8"]
+[Epoch "Rook"]
+
+1. e4 d6 2. d4 Nf6 3. Bd3 g6 4. Nf3 Bg7 5. O-O O-O 6. Bg5 h6 7. Bf4 Nh5 8. Be3
+c5 9. c3 Qb6 10. Qd2 Bg4 11. Nh4 cxd4 12. cxd4 Bxd4 13. Bxh6 Qxb2 14. Qg5 Qxa1
+15. Qxg4 Bg7 16. Bc4 e6 17. Rd1 Nc6 18. f4 Na5 19. Bd3 Qd4+ 20. Kh1 Nf6 21. Qg5
+Nxe4 0-1

@@ -1,0 +1,19 @@
+[Event "Groningen"]
+[Site "Groningen"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Adler, Joel"]
+[Black "Landsman, Klaas"]
+[Result "1/2-1/2"]
+[ECO "D80"]
+[Opening "Gruenfeld"]
+[Variation "Stockholm variation"]
+[HashCode "a577d351"]
+[Epoch "Rook"]
+[WhiteID "1300563"]
+[WhiteCountry "SUI"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Bg5 Ne4 5. Bh4 c5 6. e3 Qa5 7. Qb3 cxd4 8. exd4
+Nc6 9. Nf3 e5 10. cxd5 exd4 11. dxc6 dxc3 12. bxc3 Bg7 13. cxb7 Qxc3+ 14. Qxc3
+Bxc3+ 15. Kd1 Bxb7 16. Bb5+ Kf8 17. Rc1 Kg7 18. Ke2 Ba5 19. Bc6 Bxc6 20. Rxc6
+Rhc8 21. Rxc8 Rxc8 22. Kd3 Nd6 23. Bg3 1/2-1/2

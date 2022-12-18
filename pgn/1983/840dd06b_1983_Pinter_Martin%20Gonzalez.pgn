@@ -1,0 +1,22 @@
+[Event "Banco di Roma"]
+[Site "Banco di Roma"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Pinter, Jozsef"]
+[Black "Martin, Andrew D"]
+[Result "1-0"]
+[ECO "A75"]
+[Opening "Benoni"]
+[Variation "classical with ...a6 and 10...Bg4"]
+[HashCode "840dd06b"]
+[Epoch "Rook"]
+[WhiteID "700045"]
+[WhiteCountry "HUN"]
+[BlackID "400300"]
+[BlackCountry "ENG"]
+
+1. d4 Nf6 2. c4 c5 3. d5 a6 4. a4 e6 5. Nc3 exd5 6. cxd5 d6 7. e4 g6 8. Be2 Bg7
+9. Nf3 Bg4 10. O-O O-O 11. Bg5 Nbd7 12. Nd2 Bxe2 13. Qxe2 Qc7 14. Rae1 Rae8 15.
+f4 b5 16. axb5 axb5 17. Qxb5 Rb8 18. Qd3 Rxb2 19. Nc4 Rb3 20. Bxf6 Bxf6 21. e5
+dxe5 22. d6 Qa7 23. Qc2 Qb7 24. fxe5 Nxe5 25. Ne4 Bg7 26. Nxc5 Nf3+ 27. Rxf3
+Qb4 28. Nxb3 Qxe1+ 29. Rf1 Qe6 30. Qd3 Rc8 31. d7 Rd8 32. Rd1 Bf6 33. Nc5 1-0

@@ -1,0 +1,18 @@
+[Event "Maryland"]
+[Site "Maryland"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Formanek, Edward"]
+[Black "Mayer, Steven F."]
+[Result "1-0"]
+[ECO "A56"]
+[Opening "Czech Benoni defence"]
+[HashCode "dc883feb"]
+[Epoch "Rook"]
+[WhiteID "2001640"]
+[WhiteCountry "USA"]
+[BlackCountry "USA"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e5 4. Nc3 d6 5. e4 Be7 6. g3 Nbd7 7. Bh3 O-O 8. Nf3 a6
+9. Nd2 Ne8 10. O-O b5 11. Qe2 Nc7 12. b3 Rb8 13. Nd1 a5 14. a4 bxa4 15. bxa4
+Bf6 16. Nc3 Na6 17. Nb5 Qe7 18. Nb3 Qd8 19. Bd2 Nb4 20. Nxd6 Nc2 21. Bxa5 1-0

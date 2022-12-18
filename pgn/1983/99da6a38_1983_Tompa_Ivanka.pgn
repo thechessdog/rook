@@ -1,0 +1,28 @@
+[Event "Elekes mem-B"]
+[Site "Budapest"]
+[Date "1983.01.01"]
+[Round "?"]
+[White "Tompa, Janos"]
+[Black "Ivanka, Maria"]
+[Result "0-1"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical system, 5.Be2"]
+[HashCode "99da6a38"]
+[Epoch "Rook"]
+[WhiteID "700193"]
+[WhiteCountry "HUN"]
+[BlackCountry "HUN"]
+
+1. e4 g6 2. d4 Bg7 3. Nf3 d6 4. Be2 Nf6 5. Nc3 c6 6. O-O O-O 7. Re1 Qc7 8. e5
+dxe5 9. Nxe5 Nd5 10. Bc4 Be6 11. Ne4 Nd7 12. Nxd7 Bxd7 13. c3 h6 14. Qf3 b6 15.
+Bb3 a5 16. c4 a4 17. cxd5 axb3 18. Bf4 Qd8 19. d6 exd6 20. Bxd6 Re8 21. Qxb3
+Bxd4 22. Bf4 Be6 23. Qg3 Bd5 24. Nc3 Kh7 25. Bd2 Qf6 26. Rxe8 Rxe8 27. Rd1 b5
+28. h3 Bc4 29. b3 Be5 30. Qg4 Bxc3 31. Bxc3 Qxc3 32. bxc4 Re1+ 33. Rxe1 Qxe1+
+34. Kh2 Qxf2 35. cxb5 cxb5 36. Qd7 Qf4+ 37. Kh1 Qc1+ 38. Kh2 Qc4 39. a3 Kg7 40.
+Qd6 Kh7 41. Qe5 g5 42. Qf5+ Kg8 43. Qd7 Kg7 44. Qe7 Kg6 45. Qd6+ f6 46. Qd7
+Qf4+ 47. Kh1 Qf1+ 48. Kh2 h5 49. Qe8+ Kf5 50. Qc8+ Ke4 51. Qc6+ Kd4 52. a4 b4
+53. a5 b3 54. Qb7 Qf4+ 55. Kh1 Qc1+ 56. Kh2 b2 57. Qb4+ Kd5 58. Qb5+ Kd6 59.
+Qb4+ Kd7 60. Qb5+ Ke7 61. Qb7+ Kf8 62. Qb8+ Kg7 63. Qb7+ Kh6 64. Qb6 Kg6 65.
+Qb3 b1=Q 66. Qg8+ Kh6 67. Qh8+ Kg6 68. Qg8+ Kf5 69. Qd5+ Kf4 70. Qd4+ Qe4 71.
+Qxf6+ Ke3 0-1

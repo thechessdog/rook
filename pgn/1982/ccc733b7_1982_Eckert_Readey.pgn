@@ -1,0 +1,20 @@
+[Event "St Louis"]
+[Site "St Louis"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Eckert, Doug"]
+[Black "Readey, John"]
+[Result "1-0"]
+[ECO "D02"]
+[Opening "Queen's pawn game"]
+[HashCode "ccc733b7"]
+[Epoch "Rook"]
+[WhiteID "2001993"]
+[BlackID "2002566"]
+[WhiteCountry "USA"]
+[BlackCountry "USA"]
+
+1. Nf3 d5 2. d4 Bf5 3. c4 e6 4. Nc3 c6 5. Bf4 Nf6 6. e3 Qb6 7. Qb3 Na6 8. c5
+Qxb3 9. axb3 Nb4 10. Ra4 Nd3+ 11. Bxd3 Bxd3 12. Kd2 Bg6 13. Rha1 a6 14. Rb4 b5
+15. Ne5 Nd7 16. Nxc6 Nxc5 17. dxc5 f6 18. Nxb5 Kd7 19. Nba7 e5 20. Rb7+ Ke6 21.
+Rxa6 exf4 22. Nd4+ Ke5 23. Re6# 1-0

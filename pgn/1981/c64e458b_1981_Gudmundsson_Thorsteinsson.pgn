@@ -1,0 +1,23 @@
+[Event "ISL-ch"]
+[Site "Reykjavik"]
+[Date "1981.??.??"]
+[Round "6"]
+[White "Gudmundsson, Elvar"]
+[Black "Thorsteinsson, Bjorn"]
+[Result "0-1"]
+[ECO "E15"]
+[Opening "Queen's Indian"]
+[Variation "4.g3 Bb7"]
+[HashCode "c64e458b"]
+[Epoch "Rook"]
+[WhiteID "2300206"]
+[BlackID "2300184"]
+[WhiteCountry "ISL"]
+[BlackCountry "ISL"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2 d5 6. O-O dxc4 7. Qa4+ Nbd7 8.
+Ne5 Bxg2 9. Kxg2 c5 10. dxc5 Bxc5 11. Nc3 Qc7 12. Bf4 O-O 13. Nxc4 e5 14. Be3
+Bd4 15. Rac1 Rfc8 16. Bxd4 exd4 17. Nb1 Qb7+ 18. Kg1 Qd5 19. Ncd2 Re8 20. Qc4
+Qh5 21. Qxd4 Rxe2 22. Nc3 Ree8 23. Kg2 Ne5 24. Rce1 Rad8 25. Qf4 Nd3 26. Rxe8+
+Rxe8 27. Qd4 Ne1+ 28. Rxe1 Rxe1 29. Nde4 Ne8 30. Qd2 Ra1 31. Qd8 Qe5 32. f4 Qe6
+33. Ng5 Qe1 34. Nf3 Qf1# 0-1

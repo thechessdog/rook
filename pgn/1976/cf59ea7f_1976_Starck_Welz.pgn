@@ -1,0 +1,22 @@
+[Event "corr DDR-FSM"]
+[Site "corr DDR-FSM"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Starck, E."]
+[Black "Welz, W."]
+[Result "0-1"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Lipnitzky attack"]
+[HashCode "cf59ea7f"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. O-O b5 8.
+Bb3 Be7 9. a3 O-O 10. f4 Bb7 11. f5 e5 12. Nde2 Nbd7 13. Ng3 Rc8 14. Bg5
+Nb6 15. Nh5 Nc4 16. Bxc4 Rxc4 17. Qf3 Nxh5 18. Bxe7 Qxe7 19. Qxh5 Bxe4 20.
+Rae1 g6 21. Qh6 Bxf5 22. Nd5 Qh4 23. Qxh4 Rxh4 24. Ne7+ Kh8 25. Nxf5 gxf5
+26. Rxf5 Kg7 27. Rd1 Rh6 28. Rf3 f5 29. Rc3 Rd8 30. Rc7+ Kf6 31. Rc6 Kg5
+32. Rxa6 d5 33. Rxh6 Kxh6 34. c3 Kg5 35. Kf2 h5 36. Rd3 h4 37. h3 f4 38.
+Rd1 Kf5 39. Kf3 Ke6 40. Rd2 Rg8 41. Rf2 Kd6 42. Ke2 Kc5 43. Kd2 Rg3 44. Kc2
+d4 0-1
+

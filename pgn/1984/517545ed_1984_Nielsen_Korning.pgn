@@ -1,0 +1,19 @@
+[Event "corr ch-DEN"]
+[Site "corr ch-DEN"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Nielsen, Henning"]
+[Black "Korning, Peter"]
+[Result "0-1"]
+[ECO "A10"]
+[Opening "English opening"]
+[HashCode "517545ed"]
+[Epoch "Rook"]
+[BlackID "1723332"]
+[BlackCountry "SWE"]
+
+1. c4 b6 2. Nc3 Bb7 3. d4 e6 4. e4 Bb4 5. f3 f5 6. exf5 exf5 7. Qd3 Qh4+ 8. g3
+Qf6 9. Bd2 Ne7 10. O-O-O Nbc6 11. Nb5 O-O 12. Nxc7 Rac8 13. Nb5 a6 14. Na3 Bxa3
+15. Qxa3 Nxd4 16. Qe3 Nd5 17. Qf2 b5 18. Nh3 Ne6 19. Nf4 Nexf4 20. Bxf4 bxc4
+21. Rd4 Nxf4 22. Rxf4 c3 23. b3 c2 24. Qd4 Qe6 25. Qd2 Qe5 26. Rd4 Bxf3 27. Rg1
+Rfe8 0-1

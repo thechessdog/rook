@@ -1,0 +1,19 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Winkler"]
+[Black "Lentzsch"]
+[Result "0-1"]
+[ECO "C36"]
+[Opening "KGA"]
+[Variation "Abbazia defence, modern variation"]
+[HashCode "8a2adc6d"]
+[Epoch "Rook"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 d5 4. exd5 Nf6 5. Bb5+ Nbd7 6. O-O Nxd5 7. c4
+Nb6 8. Re1+ Be7 9. c5 c6 10. cxb6 cxb5 11. bxa7 O-O 12. d4 Bd6 13. Nc3 Nf6
+14. Nxb5 Be6 15. Nxd6 Qxd6 16. Ne5 g5 17. b3 Rxa7 18. Bb2 Rc8 19. Qd3 Qd5
+20. Nc4 Nd7 21. Ne5 b5 22. Nxd7 Qxd7 23. Re5 f6 24. Rxb5 Rac7 25. Rd1 Rc2
+26. Ba3 Bd5 27. Rc5 Rxg2+ 28. Kf1 Rxh2 0-1
+

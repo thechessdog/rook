@@ -1,0 +1,25 @@
+[Event "Maribor"]
+[Site "Maribor"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Barle, Janez"]
+[Black "Szabo, Laszlo"]
+[Result "0-1"]
+[ECO "B33"]
+[Opening "Sicilian"]
+[Variation "Sveshnikov variation"]
+[HashCode "845550bd"]
+[Epoch "Rook"]
+[WhiteID "14600021"]
+[BlackID "710741"]
+[WhiteCountry "SLO"]
+[BlackCountry "HUN"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Ndb5 d6 7. Bf4 e5 8.
+Bg5 a6 9. Na3 b5 10. Bxf6 gxf6 11. Nd5 f5 12. Bd3 Be6 13. c4 Nd4 14. Nc2 Nxc2+
+15. Bxc2 fxe4 16. Bxe4 Rc8 17. cxb5 Qa5+ 18. Qd2 Qxd2+ 19. Kxd2 Bh6+ 20. Kd1 f5
+21. Bf3 e4 22. Bh5+ Kd8 23. Nc3 axb5 24. Nxb5 Rc5 25. Nc3 d5 26. Kc2 d4 27.
+Rad1 d3+ 28. Kb1 Ke7 29. Ka1 Ra8 30. a3 Rxc3 31. bxc3 Rxa3+ 32. Kb1 Rb3+ 33.
+Ka1 Rxc3 34. Rb1 Bg7 35. Kb2 Rc2+ 36. Ka3 Bc3 37. Ka4 Bc4 38. Rb3 Bxb3+ 39.
+Kxb3 Bd4 40. Rf1 Bxf2 41. Bd1 Rd2 42. Kc3 e3 43. Bf3 e2 44. Rxf2 Rc2+ 45. Kxd3
+e1=Q 0-1

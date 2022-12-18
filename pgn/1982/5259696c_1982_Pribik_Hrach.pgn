@@ -1,0 +1,20 @@
+[Event "corr ch-CSSR"]
+[Site "corr ch-CSSR"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Pribik"]
+[Black "Hrach"]
+[Result "1-0"]
+[ECO "C05"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation"]
+[HashCode "5259696c"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. c3 c5 6. f4 Nc6 7. Ndf3 Qa5 8.
+Be3 cxd4 9. Nxd4 Nxd4 10. Bxd4 f5 11. g4 Qd8 12. Nf3 Nc5 13. gxf5 exf5 14.
+Ng5 Ne4 15. e6 Bxe6 16. Qh5+ Ke7 17. Nxe4 fxe4 18. f5 Bf7 19. Bc5+ Kf6 20.
+Qh4+ Ke5 21. Qg3+ Kf6 22. Be3 h6 23. Bh3 Be8 24. Rg1 Kf7 25. O-O-O Kg8 26.
+f6 Qxf6 27. Rdf1 Qe7 28. Be6+ Kh7 29. Bxh6 g6 30. Rxf8 Qxe6 31. Rgf1 Rxf8
+32. Rxf8 Qe7 33. Qf4 1-0
+

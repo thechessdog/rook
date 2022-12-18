@@ -1,0 +1,20 @@
+[Event "Sochi"]
+[Site "Sochi"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Sveshnikov, Evgeny"]
+[Black "Ghitescu, Theodor"]
+[Result "1-0"]
+[ECO "B67"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...a6 defence, 8...Bd7"]
+[HashCode "e30b7c1f"]
+[Epoch "Rook"]
+[WhiteID "4100638"]
+[WhiteCountry "RUS"]
+[BlackCountry "ROU"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 Nc6 7. Qd2 Bd7 8.
+O-O-O e6 9. f4 b5 10. Bxf6 gxf6 11. Nxc6 Bxc6 12. Qe1 h5 13. Bd3 Bh6 14. Rf1
+Qe7 15. Kb1 Bb7 16. Qe2 O-O-O 17. a4 b4 18. Na2 a5 19. c3 d5 20. cxb4 axb4 21.
+Ba6 dxe4 22. Qb5 Rxd1+ 23. Rxd1 Bxf4 24. Nxb4 Be3 25. Re1 1-0

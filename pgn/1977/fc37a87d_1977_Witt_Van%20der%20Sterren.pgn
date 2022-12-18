@@ -1,0 +1,28 @@
+[Event "Hoogovens-B"]
+[Site "Wijk aan Zee II"]
+[Date "1977.01.01"]
+[Round "3"]
+[White "Witt, Rob"]
+[Black "Van der Sterren, Paul"]
+[Result "0-1"]
+[ECO "A32"]
+[Opening "English"]
+[Variation "symmetrical variation"]
+[HashCode "fc37a87d"]
+[Epoch "Rook"]
+[WhiteID "1000667"]
+[WhiteCountry "NED"]
+[BlackID "1000071"]
+[BlackCountry "NED"]
+
+1. d4 Nf6 2. c4 c5 3. Nf3 cxd4 4. Nxd4 e6 5. Nc3 Bb4 6. g3 Ne4 7. Qd3 Qa5 8.
+Nc2 Bxc3+ 9. bxc3 Nc5 10. Qd4 O-O 11. Bf4 Nc6 12. Qd2 Ne4 13. Qd3 d5 14. Bg2
+Qxc3+ 15. Qxc3 Nxc3 16. Bd2 Ne4 17. Be3 Ne5 18. cxd5 exd5 19. f3 Nf6 20. Bd4
+Nc6 21. Bb2 Bf5 22. Nd4 Nxd4 23. Bxd4 Rfc8 24. Kf2 Rc4 25. Rhd1 Be6 26. Bxf6
+gxf6 27. f4 Rc2 28. Ke1 Rd8 29. Rd2 Rdc8 30. Rb1 b6 31. Rb2 Rxb2 32. Rxb2 Rc5
+33. Kd2 Kf8 34. e3 Ke7 35. Bf1 Ra5 36. Bd3 h6 37. Bb1 Kd6 38. Rb4 Bd7 39. Kc3
+Kc5 40. Kb3 Be6 41. f5 Bd7 42. a4 b5 43. Rh4 bxa4+ 44. Ka3 Rb5 45. Bc2 Rb6 46.
+Rxh6 Kc4 47. Rh7 Kc3 48. Rxf7 Bc6 49. Bd1 Bb5 50. Rc7+ Bc4 51. Be2 Rb1 52. Bxc4
+dxc4 53. Ka2 Rb2+ 54. Ka3 Rxh2 55. Rc6 Rg2 56. Rxf6 Rxg3 57. e4 Kd4+ 58. Kb4
+Rb3+ 59. Kxa4 Kxe4 60. Rh6 Rb8 61. f6 c3 62. f7 c2 63. Rc6 Kd3 64. Ka3 Kd2 65.
+Rd6+ Kc1 66. Ka2 Rb2+ 67. Ka1 Rb5 68. Ra6 Kd2 0-1

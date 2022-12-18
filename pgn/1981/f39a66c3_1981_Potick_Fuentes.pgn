@@ -1,0 +1,19 @@
+[Event "Moron op"]
+[Site "Moron"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Potick, Carlos"]
+[Black "Fuentes, Alberto"]
+[Result "1-0"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "f39a66c3"]
+[Epoch "Rook"]
+[WhiteID "101486"]
+[BlackID "103209"]
+[WhiteCountry "ARG"]
+[BlackCountry "ARG"]
+
+1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. d4 Nc6 5. Nf3 cxd4 6. cxd4 Bg4 7. Nc3 Qd6 8.
+Nb5 Qd8 9. d5 Bxf3 10. Qxf3 Nb4 11. Qb3 Na6 12. Qa4 Qd7 13. Nd6+ 1-0

@@ -1,0 +1,22 @@
+[Event "Rome"]
+[Site "Rome"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Mariotti, Sergio"]
+[Black "Tatai, Stefano"]
+[Result "1-0"]
+[ECO "E69"]
+[Opening "King's Indian"]
+[Variation "fianchetto, classical main line"]
+[HashCode "96f8d612"]
+[Epoch "Rook"]
+[WhiteID "800023"]
+[WhiteCountry "ITA"]
+[BlackCountry "ITA"]
+
+1. d4 Nf6 2. c4 d6 3. Nc3 e5 4. Nf3 Nbd7 5. e4 g6 6. g3 Bg7 7. Bg2 O-O 8. O-O
+c6 9. h3 Re8 10. Re1 a5 11. b3 exd4 12. Nxd4 Nc5 13. Rb1 Qb6 14. Bb2 Nfd7 15.
+Ba1 Nf8 16. Kh2 h5 17. Qd2 h4 18. g4 Nfe6 19. Nxe6 Nxe6 20. f4 Qd4 21. Qxd4
+Bxd4 22. Ne2 Bxa1 23. Rxa1 Nc5 24. Rad1 Kf8 25. Ng1 a4 26. b4 Na6 27. a3 Be6
+28. Bf1 Ke7 29. Nf3 Rh8 30. f5 Bc8 31. e5 dxe5 32. Rxe5+ Kf6 33. Rd6+ Kg7 34.
+fxg6 1-0

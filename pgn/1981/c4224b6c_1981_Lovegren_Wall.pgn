@@ -1,0 +1,16 @@
+[Event "Dayton,OH"]
+[Site "Dayton,OH"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Lovegren, R."]
+[Black "Wall, Bill"]
+[Result "0-1"]
+[ECO "C50"]
+[Opening "Giuoco Piano"]
+[HashCode "c4224b6c"]
+[Epoch "Rook"]
+[BlackCountry "USA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. O-O d6 5. d4 exd4 6. Bxf7+ Kxf7 7. Ng5+ Kf8
+8. Qf3+ Qf6 9. Nd2 Qxf3 10. Ngxf3 Bg4 11. b3 Nb4 12. Bb2 Nxc2 13. Rac1 d3 14.
+Nc4 Bxf3 15. gxf3 b5 16. Ne3 Nxe3 0-1

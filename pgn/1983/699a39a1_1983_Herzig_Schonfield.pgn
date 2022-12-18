@@ -1,0 +1,19 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Herzig"]
+[Black "Schonfield"]
+[Result "1-0"]
+[ECO "A28"]
+[Opening "English"]
+[Variation "four knights system"]
+[HashCode "699a39a1"]
+[Epoch "Rook"]
+
+1. c4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. d4 exd4 5. Nxd4 Bb4 6. Bg5 h6 7. Bh4
+Bxc3+ 8. bxc3 d6 9. f3 Ne5 10. e4 Ng6 11. Bf2 O-O 12. Be2 Nd7 13. Qd2 Nb6
+14. Nb3 f5 15. c5 dxc5 16. Bxc5 Qxd2+ 17. Nxd2 Rd8 18. a4 Nf4 19. Bf1 Nd3+
+20. Bxd3 Rxd3 21. Bd4 c5 22. Ke2 Rxd2+ 23. Kxd2 cxd4 24. cxd4 a5 25. Rhc1
+fxe4 26. fxe4 Bd7 27. Rc7 Rb8 28. Rb1 1-0
+

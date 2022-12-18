@@ -1,0 +1,25 @@
+[Event "Yugoslavia"]
+[Site "Yugoslavia"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Nemet, Ivan"]
+[Black "Bukic, Enver"]
+[Result "1-0"]
+[ECO "E97"]
+[Opening "King's Indian"]
+[Variation "orthodox, Aronin-Taimanov variation (Yugoslav attack / Mar del Plata variation)"]
+[HashCode "a7314282"]
+[Epoch "Rook"]
+[BlackID "14600030"]
+[BlackCountry "SLO"]
+[WhiteCountry "CHE"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. Nc3 O-O 5. e4 d6 6. Be2 e5 7. O-O Nc6 8. d5
+Ne7 9. Nd2 c5 10. dxc6 bxc6 11. b4 a6 12. Nb3 Rb8 13. Ba3 d5 14. cxd5 cxd5 15.
+Nc5 d4 16. N3a4 Ra8 17. Rb1 Ne8 18. Nb2 Nc7 19. Nbd3 f5 20. Bf3 Rb8 21. Bc1 Kh8
+22. a4 fxe4 23. Bxe4 Ned5 24. Bd2 Bf5 25. Re1 Qd6 26. Rc1 Rfe8 27. Qc2 Rec8 28.
+Qc4 Nb6 29. Qa2 Nbd5 30. h3 Rd8 31. g4 Bxe4 32. Nxe4 Qd7 33. Ndc5 Qf7 34. Ng5
+Qe7 35. Nd3 h6 36. Rxe5 Bxe5 37. Nxe5 Kg7 38. Nc6 Qd6 39. Nxd8 hxg5 40. Rxc7+
+Nxc7 41. Qf7+ Kh8 42. Bxg5 Nd5 43. Ne6 Qe5 44. Nf8 Qg7 45. Nxg6+ Kh7 46. Qxd5
+Qxg6 47. Qxd4 Qb1+ 48. Kh2 Rxb4 49. Qd7+ Kg6 50. Bd2 Rb7 51. Qe6+ Kh7 52. Qxa6
+Qe4 53. Qf6 Kg8 54. Bc3 Rh7 55. g5 Rh4 56. Qg7# 1-0

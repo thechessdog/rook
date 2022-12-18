@@ -1,0 +1,20 @@
+[Event "NOR-ch"]
+[Site "Oslo"]
+[Date "1984.??.??"]
+[Round "1"]
+[White "Hoen, Ragnar"]
+[Black "Kristiansen, Erling"]
+[Result "1-0"]
+[ECO "C78"]
+[Opening "Ruy Lopez"]
+[Variation "Moeller defence"]
+[HashCode "835e8676"]
+[Epoch "Rook"]
+[WhiteID "1500147"]
+[BlackID "1500244"]
+[WhiteCountry "NOR"]
+[BlackCountry "NOR"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Bc5 6. c3 Ba7 7. d4 b5 8. Bb3
+Qe7 9. Bd5 exd4 10. cxd4 Bb7 11. Nc3 b4 12. e5 bxc3 13. exf6 Qd6 14. fxg7 Rg8
+15. Re1+ Ne7 16. Bxb7 cxb2 17. Bxb2 Rb8 18. Qc2 1-0

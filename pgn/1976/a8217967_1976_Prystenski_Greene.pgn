@@ -1,0 +1,19 @@
+[Event "corr NAICCC II"]
+[Site "corr NAICCC II"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Prystenski, Arthur"]
+[Black "Greene, Sanford"]
+[Result "1-0"]
+[ECO "B26"]
+[Opening "Sicilian"]
+[Variation "closed, 6.Be3"]
+[HashCode "a8217967"]
+[Epoch "Rook"]
+[WhiteID "2622505"]
+[WhiteCountry "CAN"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. Be3 e6 7. Qd2 Nge7 8. Bh6
+O-O 9. h4 f5 10. h5 Rf7 11. hxg6 hxg6 12. Bxg7 Rxg7 13. Nf3 Nd4 14. O-O-O Nxf3
+15. Bxf3 Rb8 16. d4 c4 17. exf5 Nxf5 18. g4 Nh4 19. Be2 d5 20. f4 b6 21. Rh2
+Rbb7 22. Rdh1 Rh7 23. Qe3 Rh8 24. Qe5 Rbh7 25. Bf3 Bd7 26. g5 Qe8 27. Nxd5 1-0

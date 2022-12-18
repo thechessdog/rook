@@ -1,0 +1,20 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Porzig"]
+[Black "Schwarzbach"]
+[Result "0-1"]
+[ECO "E35"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, Noa variation, 5.cd ed"]
+[HashCode "cd837a44"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 d5 5. cxd5 exd5 6. Bg5 h6 7. Bxf6 Qxf6
+8. a3 Bxc3+ 9. Qxc3 O-O 10. e3 Bf5 11. Ne2 c6 12. Ng3 Nd7 13. Be2 Qe6 14.
+Nxf5 Qxf5 15. b4 Qg6 16. O-O f5 17. a4 f4 18. Bf3 Rf6 19. b5 Nb6 20. a5 Nc4
+21. bxc6 bxc6 22. Kh1 fxe3 23. fxe3 Qg5 24. Rae1 Raf8 25. e4 Nd2 26. exd5
+Nxf1 27. dxc6 Nd2 28. c7 Rc8 29. Re5 Qf4 30. Rd5 Rxc7 31. Rd8+ Kf7 32. Qa3
+Nxf3 33. Qf8+ Kg6 0-1
+

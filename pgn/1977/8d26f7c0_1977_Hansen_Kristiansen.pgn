@@ -1,0 +1,19 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Hansen, Jacob Brendstrup"]
+[Black "Kristiansen, Jens"]
+[Result "0-1"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (without ...d6)"]
+[HashCode "8d26f7c0"]
+[Epoch "Rook"]
+[BlackID "1400061"]
+[BlackCountry "DEN"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 Nf6 4. e5 Nd5 5. Nc3 Nxc3 6. dxc3 Qc7 7. Bf4 e6 8.
+O-O b6 9. Re1 Bb7 10. Ng5 h6 11. Ne4 O-O-O 12. Nd6+ Bxd6 13. exd6 Qb8 14. h4 g5
+15. hxg5 hxg5 16. Bxg5 Rdg8 17. Bf4 Nd4 18. cxd4 Bxg2 19. Bg3 Qa8 20. Ba6+ Kb8
+21. d5 Bxd5 22. Kf1 Bf3 23. Rxe6 Rh1# 0-1

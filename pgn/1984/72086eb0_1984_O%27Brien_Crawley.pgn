@@ -1,0 +1,23 @@
+[Event "Ramsgate"]
+[Site "Ramsgate/Margate"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "O'Brien, Richard"]
+[Black "Crawley, Gavin"]
+[Result "0-1"]
+[ECO "C89"]
+[Opening "Ruy Lopez"]
+[Variation "Marshall counter-attack"]
+[HashCode "72086eb0"]
+[Epoch "Rook"]
+[BlackID "400386"]
+[BlackCountry "ENG"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. c3
+d5 9. d3 Bb7 10. Nbd2 dxe4 11. dxe4 Bc5 12. Qe2 Ng4 13. Rf1 Qe7 14. h3 Nf6 15.
+Re1 Nd8 16. Bc2 Ne6 17. Nb3 Bd6 18. Na5 c5 19. a4 c4 20. Nh4 g6 21. Bh6 Rfe8
+22. Qf3 Rab8 23. axb5 axb5 24. Nxb7 Rxb7 25. Ra6 Bb8 26. g3 Nd7 27. Ng2 Ba7 28.
+h4 b4 29. Be3 b3 30. Rxa7 Rxa7 31. Bxa7 bxc2 32. Qe2 Nf6 33. Be3 Nxe4 34. Qxc4
+Qb7 35. Bc1 N4c5 36. Qe2 Qb3 37. Ne3 Nd4 38. cxd4 exd4 39. Qxc2 Rxe3 40. Qd2
+Rxe1+ 41. Qxe1 Nd3 42. Qe8+ Kg7 43. Bf4 Qxb2 44. Be5+ Kh6 45. Qxf7 Qc1+ 46. Kg2
+Nxe5 0-1

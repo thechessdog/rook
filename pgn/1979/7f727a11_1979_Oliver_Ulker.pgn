@@ -1,0 +1,16 @@
+[Event "corr CCLA"]
+[Site "corr CCLA"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Oliver"]
+[Black "Ulker"]
+[Result "1-0"]
+[ECO "B42"]
+[Opening "Sicilian"]
+[Variation "Kan, 5.Bd3"]
+[HashCode "7f727a11"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Nc6 6. Nxc6 dxc6 7. O-O e5
+1-0
+

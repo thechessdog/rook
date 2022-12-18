@@ -1,0 +1,23 @@
+[Event "Lloyds Bank"]
+[Site "London"]
+[Date "1980.01.01"]
+[Round "9"]
+[White "Pritchett, Craig W"]
+[Black "Ligterink, Gert"]
+[Result "0-1"]
+[ECO "B64"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...Be7 defence, 9.f4"]
+[HashCode "820b1beb"]
+[Epoch "Rook"]
+[WhiteID "2400065"]
+[WhiteCountry "SCO"]
+[BlackID "1000179"]
+[BlackCountry "NED"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 e6 7. Qd2 Be7 8.
+O-O-O O-O 9. f4 h6 10. Bh4 Bd7 11. Nf3 Qa5 12. Kb1 Rfc8 13. Bd3 b5 14. g4 b4
+15. Ne2 d5 16. Bxf6 Bxf6 17. e5 Be7 18. f5 b3 19. cxb3 Qxd2 20. Rxd2 Bg5 21.
+Rdd1 Be3 22. Rhe1 Rab8 23. fxe6 fxe6 24. Ba6 Rf8 25. Ned4 Nxd4 26. Nxd4 Bf2 27.
+Re2 Rb6 28. Rxf2 Rxf2 29. Bd3 Rb8 30. h4 Rbf8 31. h5 Rg2 32. Bg6 Rff2 33. Nc2
+Be8 34. Bd3 Rxg4 0-1

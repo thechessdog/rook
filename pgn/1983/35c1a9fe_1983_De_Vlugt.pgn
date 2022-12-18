@@ -1,0 +1,24 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1983.01.01"]
+[Round "1"]
+[White "De Jong, Tom"]
+[Black "Vlugt, Frans"]
+[Result "1-0"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, 6.Bd3"]
+[HashCode "35c1a9fe"]
+[Epoch "Rook"]
+[BlackID "1010360"]
+[BlackCountry "NED"]
+[WhiteID "1000543"]
+[WhiteCountry "NED"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 O-O 6. Bd3 Nc6 7. O-O Bg4 8. e5
+dxe5 9. dxe5 Nd5 10. Nxd5 Qxd5 11. h3 Bf5 12. Bxf5 Qc5+ 13. Kh1 gxf5 14. Qe2 e6
+15. Be3 Qe7 16. Rad1 Rfd8 17. b3 Qb4 18. Qf2 a6 19. c4 Bf8 20. g4 fxg4 21. Qg1
+Qe7 22. Qxg4+ Bg7 23. Rg1 f5 24. exf6 Qxf6 25. Rxd8+ Rxd8 26. Ng5 Re8 27. Ne4
+Qf7 28. Qxg7+ Qxg7 29. Nf6+ Kf7 30. Rxg7+ Kxf6 31. Rxh7 Kf5 32. Kg2 Ke4 33. Bf2
+Ne7 34. Bh4 Nf5 35. Bg5 Rc8 36. h4 b5 37. c5 a5 38. h5 a4 39. b4 e5 40. Rd7 Rg8
+41. Rd8 Rg7 42. Re8 Ne3+ 43. Kh3 Rd7 44. h6 Nf5 45. Kg4 1-0

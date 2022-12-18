@@ -1,0 +1,22 @@
+[Event "Bad Neuenahr"]
+[Site "Bad Neuenahr"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Bastian, Herbert"]
+[Black "Glienke, Manfred, Dr."]
+[Result "1-0"]
+[ECO "B25"]
+[Opening "Sicilian"]
+[Variation "closed, 6.f4 e5 (Botvinnik)"]
+[HashCode "a93d04a0"]
+[Epoch "Rook"]
+[WhiteID "4601700"]
+[BlackID "4603702"]
+[WhiteCountry "GER"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. f4 e5 7. Nf3 Nge7 8. O-O
+O-O 9. Be3 Nd4 10. Rb1 b6 11. Bf2 Nxf3+ 12. Bxf3 Bb7 13. g4 f5 14. exf5 Bxf3
+15. Qxf3 gxf5 16. Bh4 fxg4 17. Qxg4 Qd7 18. Bxe7 Qxe7 19. Rbe1 Rae8 20. Ne4 h6
+21. Kh1 Kh8 22. c3 Rf7 23. Re2 Ref8 24. Rg2 b5 25. Ng3 a5 26. Nh5 b4 27. Rfg1
+bxc3 28. Nxg7 1-0

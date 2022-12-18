@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Cardani"]
+[Black "Felappi"]
+[Result "1-0"]
+[ECO "B96"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Polugayevsky, Simagin variation"]
+[HashCode "2bafb189"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 b5 8.
+e5 dxe5 9. fxe5 Qc7 10. Qe2 Nfd7 11. O-O-O Bb7 12. Qg4 Qxe5 13. Be2 h5 14.
+Qh4 b4 15. Rhe1 bxc3 16. Bxh5 cxb2+ 17. Kb1 Rxh5 18. Qxh5 Be4 19. Qh4 Nc5
+20. Nxe6 Bxc2+ 21. Kxc2 Qf5+ 22. Re4 1-0
+

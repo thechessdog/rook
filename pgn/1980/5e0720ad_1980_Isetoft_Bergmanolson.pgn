@@ -1,0 +1,18 @@
+[Event "corr SWE/K tt"]
+[Site "corr SWE/K tt"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Isetoft, Bengt"]
+[Black "Bergmanolson, Micha"]
+[Result "1-0"]
+[ECO "C63"]
+[Opening "Ruy Lopez"]
+[Variation "Schliemann defence, Berger variation"]
+[HashCode "5e0720ad"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 f5 4. Nc3 Nd4 5. Ba4 Nf6 6. Nxe5 Bc5 7. Nd3 Qe7
+8. e5 O-O 9. O-O Ng4 10. Nd5 Qh4 11. h3 b6 12. b4 Bb7 13. c4 Qg3 14. hxg4
+Qxd3 15. Nf4 Qxc4 16. bxc5 fxg4 17. d3 Qxc5 18. Qxg4 Qxe5 19. Bd1 Rf5 20.
+Be3 Raf8 21. Bxd4 Qxd4 22. Bb3+ d5 23. Nxd5 Qxg4 24. Nf6+ Kh8 25. Nxg4 1-0
+

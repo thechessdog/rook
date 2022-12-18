@@ -1,0 +1,23 @@
+[Event "Lubniewice ch-POL"]
+[Site "Lubniewice ch-POL"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Flis, Jacek"]
+[Black "Szymczak, Zbigniew"]
+[Result "0-1"]
+[ECO "B87"]
+[Opening "Sicilian"]
+[Variation "Sozin with ...a6 and ...b5"]
+[HashCode "4c2d9811"]
+[Epoch "Rook"]
+[WhiteID "1100351"]
+[BlackID "1100424"]
+[WhiteCountry "POL"]
+[BlackCountry "POL"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 b5 8. O-O
+Be7 9. Qf3 Qb6 10. Be3 Qb7 11. a3 Nc6 12. Qg3 Bd7 13. Rad1 O-O 14. f4 Nxd4 15.
+Bxd4 Bc6 16. e5 dxe5 17. fxe5 Nd7 18. Qf2 a5 19. Ne2 Qc7 20. Qe3 b4 21. axb4
+axb4 22. Ng3 Ra5 23. Rde1 Bc5 24. Rf4 Rb8 25. Ref1 Bxd4 26. Qxd4 Qxe5 27. Qd2
+Nf6 28. Kh1 Rab5 29. Re1 Qxb2 30. Qd6 Qc3 31. Ref1 Qc5 32. Qd2 Qg5 33. Qd6 R5b6
+34. Qd1 0-1

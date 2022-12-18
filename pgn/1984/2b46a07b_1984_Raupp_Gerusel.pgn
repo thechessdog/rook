@@ -1,0 +1,23 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Raupp, Thomas"]
+[Black "Gerusel, Mathias"]
+[Result "0-1"]
+[ECO "A34"]
+[Opening "English"]
+[Variation "symmetrical variation"]
+[HashCode "2b46a07b"]
+[Epoch "Rook"]
+[WhiteID "4601610"]
+[BlackID "4601122"]
+[WhiteCountry "GER"]
+[BlackCountry "GER"]
+
+1. c4 Nf6 2. Nc3 c5 3. g3 Nc6 4. Bg2 d6 5. e3 e5 6. Nge2 Bg4 7. d3 g6 8. h3 Bf5
+9. O-O Qd7 10. Nd5 Bg7 11. Kh2 O-O 12. f4 exf4 13. gxf4 Nh5 14. Nec3 Be6 15.
+Rb1 Rab8 16. Bd2 a6 17. a3 b5 18. b4 Nf6 19. Qe2 bxc4 20. dxc4 Bf5 21. e4 Rfe8
+22. Qd3 Be6 23. bxc5 dxc5 24. e5 Nh5 25. Ne4 Nxe5 26. fxe5 Bxe5+ 27. Kg1 Bxd5
+28. cxd5 Bd4+ 29. Kh1 Rxb1 30. Rxb1 Qf5 31. Qf3 Qxe4 32. Re1 Qxe1+ 33. Bxe1
+Rxe1+ 34. Bf1 Rxf1+ 0-1

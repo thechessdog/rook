@@ -1,0 +1,20 @@
+[Event "Zagreb"]
+[Site "Zagreb"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Ivanovic, Bozidar"]
+[Black "Knezevic, Milorad"]
+[Result "1/2-1/2"]
+[ECO "C49"]
+[Opening "Four knights"]
+[Variation "double Ruy Lopez"]
+[HashCode "0067ef5b"]
+[Epoch "Rook"]
+[WhiteID "900095"]
+[BlackID "950238"]
+[WhiteCountry "MNE"]
+[BlackCountry "SRB"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. Nc3 Bb4 5. Nd5 Nxd5 6. exd5 e4 7. dxc6 dxc6
+8. Be2 exf3 9. Bxf3 Qe7+ 10. Qe2 Qxe2+ 11. Kxe2 Be6 12. d3 O-O-O 13. Be3 Kb8
+14. a3 Bd6 15. Bd4 f6 16. Be3 Bd5 17. Bxd5 cxd5 18. c4 dxc4 19. dxc4 1/2-1/2

@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Macura, M."]
+[Black "Lopez Esnaola, B."]
+[Result "0-1"]
+[ECO "C81"]
+[Opening "Ruy Lopez"]
+[Variation "open, Howell attack"]
+[HashCode "ba280a9c"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8.
+dxe5 Be6 9. Qe2 Be7 10. Rd1 O-O 11. a4 b4 12. c4 Nc5 13. Nbd2 d4 14. Ba2 f6
+15. Bb1 d3 16. Qe3 fxe5 17. Ne4 Nd4 18. Nxe5 Ne2+ 19. Kh1 Nxc1 20. Nxc5
+Bxc5 21. Qxc5 Nb3 22. Qc6 Qd6 0-1
+

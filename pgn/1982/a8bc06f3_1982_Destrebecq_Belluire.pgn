@@ -1,0 +1,20 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Destrebecq"]
+[Black "Belluire"]
+[Result "1-0"]
+[ECO "A52"]
+[Opening "Budapest"]
+[Variation "Rubinstein variation"]
+[HashCode "a8bc06f3"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ng4 4. Bf4 Bb4+ 5. Nd2 d6 6. exd6 Qf6 7. Nh3
+Nxf2 8. Kxf2 Bxh3 9. g3 Bxf1 10. dxc7 Nc6 11. Rxf1 Qd4+ 12. Kg2 Qxb2 13. c5
+Qd4 14. Rc1 Qd5+ 15. Nf3 Qxd1 16. Rfxd1 O-O 17. Bd6 Rfe8 18. Kf1 Rac8 19.
+Rb1 f6 20. Nd4 Bxc5 21. Bxc5 Nxd4 22. Bxd4 b6 23. Rdc1 Re7 24. Rb3 Rcxc7
+25. Rxc7 Rxc7 26. Rc3 Rd7 27. e3 Kf7 28. Ke2 Ke6 29. Kd3 f5 30. Rc8 Rd5 31.
+Re8+ 1-0
+

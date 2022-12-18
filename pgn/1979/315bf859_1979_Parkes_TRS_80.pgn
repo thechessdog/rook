@@ -1,0 +1,16 @@
+[Event "New York"]
+[Site "New York"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Parkes, J."]
+[Black "TRS_80"]
+[Result "1-0"]
+[ECO "C34"]
+[Opening "King's knight's gambit"]
+[HashCode "315bf859"]
+[Epoch "Rook"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 Bb4 4. Bc4 d5 5. Bxd5 Nf6 6. Bc4 Nxe4 7. Ne5 O-O
+8. c3 Re8 9. Nxf7 Qh4+ 10. g3 Nxg3+ 11. Ne5+ Kh8 12. d4 Nxh1+ 13. Kd2 Nf2
+14. Qe2 f3 15. Nf7+ Kg8 16. Qxe8+ Bf8 17. Nh6+ Kh8 18. Qxf8# 1-0
+

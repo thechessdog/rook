@@ -1,0 +1,16 @@
+[Event "Hickory,NC"]
+[Site "Hickory,NC"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Wall, Bill"]
+[Black "Keller, Darrell"]
+[Result "1-0"]
+[ECO "C70"]
+[Opening "Ruy Lopez"]
+[Variation "Caro variation"]
+[HashCode "db71c2e5"]
+[Epoch "Rook"]
+[WhiteCountry "USA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 b5 5. Bb3 f5 6. O-O fxe4 7. Nxe5 Nxe5 8.
+Qh5+ Ng6 9. Qd5 1-0

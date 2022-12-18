@@ -1,0 +1,19 @@
+[Event "Warsaw II zt"]
+[Site "Warsaw II zt"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Adorjan, Andras"]
+[Black "Ghinda, Mihail-Viorel"]
+[Result "1/2-1/2"]
+[ECO "D69"]
+[Opening "QGD"]
+[Variation "Orthodox defence, classical, 13.de"]
+[HashCode "10acc31d"]
+[Epoch "Rook"]
+[WhiteID "700096"]
+[WhiteCountry "HUN"]
+[BlackCountry "ROU"]
+
+1. c4 e6 2. d4 Nf6 3. Nf3 d5 4. Bg5 Be7 5. Nc3 O-O 6. e3 Nbd7 7. Rc1 c6 8. Bd3
+dxc4 9. Bxc4 Nd5 10. Bxe7 Qxe7 11. Ne4 N5f6 12. Nc3 Nd5 13. O-O Nxc3 14. Rxc3
+e5 15. dxe5 Nxe5 16. Nxe5 Qxe5 1/2-1/2

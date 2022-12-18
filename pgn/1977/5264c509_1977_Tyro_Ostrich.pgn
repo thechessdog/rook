@@ -1,0 +1,21 @@
+[Event "ACM Seattle"]
+[Site "ACM Seattle"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Tyro"]
+[Black "Ostrich"]
+[Result "0-1"]
+[ECO "D20"]
+[Opening "QGA"]
+[Variation "3.e4"]
+[HashCode "5264c509"]
+[Epoch "Rook"]
+
+1. d4 d5 2. c4 dxc4 3. e4 Nc6 4. d5 Ne5 5. f4 Bg4 6. Nf3 Bxf3 7. gxf3 Nd3+
+8. Bxd3 cxd3 9. Qxd3 c6 10. Kd2 Qd7 11. dxc6 Qxd3+ 12. Kxd3 O-O-O+ 13. Ke2
+bxc6 14. Rd1 Rd6 15. Be3 Rh6 16. Bxa7 Rxh2+ 17. Bf2 h5 18. b3 Rh6 19. a4
+Rf6 20. Ke3 Rh3 21. b4 e5 22. fxe5 Rfxf3+ 23. Ke2 Bxb4 24. Bb6 Ne7 25. Rd4
+Re3+ 26. Kf2 Be1+ 27. Kf1 Rhf3+ 28. Kg1 Re2 29. Rd8+ Kb7 30. Bd4 Rxe4 31.
+Rd7+ Kc8 32. Rxe7 Rg4+ 33. Kh2 Rxd4 34. Kg2 Rf2+ 35. Kg3 Rd3+ 36. Kh4 Rf5#
+0-1
+

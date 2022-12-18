@@ -1,0 +1,18 @@
+[Event "corr BdF/AK"]
+[Site "corr BdF/AK"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Woschkat"]
+[Black "Dluhosch"]
+[Result "0-1"]
+[ECO "A00"]
+[Opening "Polish"]
+[Variation "Outflank variation"]
+[HashCode "ceaf4298"]
+[Epoch "Rook"]
+
+1. b4 c6 2. Bb2 a5 3. a3 axb4 4. axb4 Rxa1 5. Bxa1 Qb6 6. c3 d5 7. d4 Nf6
+8. e3 e6 9. Nf3 Bd6 10. Be2 O-O 11. O-O Nbd7 12. Nbd2 e5 13. dxe5 Bxe5 14.
+Nxe5 Nxe5 15. Nf3 Nxf3+ 16. Bxf3 Bf5 17. Bb2 Be4 18. Bxe4 Nxe4 19. f3 Qxe3+
+0-1
+

@@ -1,0 +1,22 @@
+[Event "Italy"]
+[Site "Italy"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Crispino"]
+[Black "Menale"]
+[Result "1-0"]
+[ECO "D85"]
+[Opening "Gruenfeld"]
+[Variation "modern exchange variation"]
+[HashCode "5a36167a"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Nf3 c5
+8. Be3 Qa5 9. Qd2 Nc6 10. Rb1 cxd4 11. cxd4 Qxd2+ 12. Kxd2 O-O 13. d5 Rd8
+14. Bd3 Na5 15. Nd4 Bd7 16. Rhc1 Rac8 17. Nb3 Nxb3+ 18. Rxb3 Rxc1 19. Kxc1
+b6 20. Ra3 Ra8 21. Bc2 a5 22. Bxb6 Rb8 23. Ba7 Bb2+ 24. Kd2 Bxa3 25. Bxb8
+Bc5 26. Bc7 a4 27. f3 a3 28. Kc3 Bb5 29. Bd3 Bb4+ 30. Kd4 Bc5+ 31. Kxc5
+Bxd3 32. e5 Kf8 33. d6 Ke8 34. Kc6 Bf5 35. Ba5 exd6 36. exd6 Be6 37. Kc7
+Bd7 38. Bb4 Ba4 39. Bxa3 f5 40. Bc1 Bb5 41. Bg5 Ba4 42. Be7 Bb5 43. Kb6 Bd7
+44. Ka5 Bc6 45. a4 Kd7 46. Kb4 Kc8 47. a5 Kb7 48. Kc5 Bd7 49. Bd8 1-0
+

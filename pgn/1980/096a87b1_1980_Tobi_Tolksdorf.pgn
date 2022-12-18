@@ -1,0 +1,20 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Tobi, Kurt"]
+[Black "Tolksdorf"]
+[Result "0-1"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "classical attack, Chigorin variation"]
+[HashCode "096a87b1"]
+[Epoch "Rook"]
+[WhiteID "12923770"]
+[WhiteCountry "GER"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Be7 7. O-O Nc6 8.
+Re1 Bg4 9. c4 Nf6 10. cxd5 Qxd5 11. Nc3 Qh5 12. Bb5 a6 13. Bxc6+ bxc6 14. Qa4
+Bxf3 15. gxf3 Qxf3 16. d5 Rd8 17. Bg5 Kf8 18. dxc6 Bd6 19. Qh4 h6 20. Ne4 Nh5
+21. Bxd8 Nf4 22. Be7+ Bxe7 23. Qxe7+ Kxe7 24. Nd2+ Ne2+ 25. Kf1 Qh1+ 26. Kxe2
+Qxc6 0-1

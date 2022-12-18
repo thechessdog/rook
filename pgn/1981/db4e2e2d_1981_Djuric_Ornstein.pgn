@@ -1,0 +1,21 @@
+[Event "Pamporovo"]
+[Site "Pamporovo"]
+[Date "1981.01.01"]
+[Round "7"]
+[White "Djuric, Stefan"]
+[Black "Ornstein, Axel"]
+[Result "0-1"]
+[ECO "E12"]
+[Opening "Queen's Indian"]
+[Variation "Miles variation"]
+[HashCode "db4e2e2d"]
+[Epoch "Rook"]
+[WhiteID "900133"]
+[WhiteCountry "SRB"]
+[BlackID "1700111"]
+[BlackCountry "SWE"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. Bf4 Bb7 5. e3 Be7 6. h3 c5 7. Nc3 cxd4 8. Nxd4
+O-O 9. Ndb5 Ne8 10. Nd6 Nxd6 11. Bxd6 Na6 12. Bxe7 Qxe7 13. Qd2 Rfd8 14. Rd1 d5
+15. cxd5 Bxd5 16. Qc1 Bb7 17. Rxd8+ Rxd8 18. h4 Nb4 19. a3 Bxg2 20. Rh2 Bxf1
+21. Kxf1 Qc7 22. Kg2 Nd3 23. Qb1 Nxf2 0-1

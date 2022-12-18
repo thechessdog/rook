@@ -1,0 +1,19 @@
+[Event "Plymouth ch-MI op"]
+[Site "Plymouth ch-MI op"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Reno, G."]
+[Black "Keck, M."]
+[Result "1-0"]
+[ECO "B10"]
+[Opening "Caro-Kann defence"]
+[HashCode "d4ce24a2"]
+[Epoch "Rook"]
+
+1. e4 c6 2. Nf3 d5 3. exd5 cxd5 4. Bb5+ Bd7 5. Bxd7+ Qxd7 6. d3 Nc6 7. O-O
+e5 8. Re1 Bd6 9. Nc3 Nf6 10. Bg5 d4 11. Nb5 Qe6 12. Nbxd4 Nxd4 13. Bxf6
+Nxf3+ 14. Qxf3 Qxf6 15. Qxb7 O-O 16. Re2 Rfe8 17. Rae1 Qe7 18. Qd5 Qe6 19.
+Qc6 Qxa2 20. Qxd6 Qxb2 21. h3 h6 22. Qd5 Rac8 23. c4 Qb8 24. Rxe5 Rcd8 25.
+Rxe8+ Rxe8 26. Rxe8+ Qxe8 27. g3 Qe1+ 28. Kg2 a5 29. c5 Kf8 30. c6 Qc3 31.
+Qd8# 1-0
+

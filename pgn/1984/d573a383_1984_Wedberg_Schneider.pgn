@@ -1,0 +1,21 @@
+[Event "Reykjavik op"]
+[Site "Reykjavik"]
+[Date "1984.01.01"]
+[Round "2"]
+[White "Wedberg, Tom"]
+[Black "Schneider, Lars-Ake"]
+[Result "1-0"]
+[ECO "B89"]
+[Opening "Sicilian"]
+[Variation "Sozin, 7.Be3"]
+[HashCode "d573a383"]
+[Epoch "Rook"]
+[WhiteID "1700073"]
+[WhiteCountry "SWE"]
+[BlackCountry "SWE"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bc4 e6 7. Be3 a6 8. Qe2
+Qc7 9. Bb3 Na5 10. g4 Nxb3 11. axb3 Be7 12. g5 Nd7 13. h4 Ne5 14. f4 Nc6 15. h5
+Bd7 16. O-O-O b5 17. g6 b4 18. Na4 Nxd4 19. Bxd4 Bxa4 20. bxa4 f6 21. h6 hxg6
+22. hxg7 Rg8 23. Qg4 b3 24. Bc3 bxc2 25. Qxe6 cxd1=Q+ 26. Kxd1 Qc6 27. Rh8
+Qxa4+ 28. b3 1-0

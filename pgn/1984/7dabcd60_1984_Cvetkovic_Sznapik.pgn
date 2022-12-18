@@ -1,0 +1,23 @@
+[Event "Belgrade"]
+[Site "Belgrade"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Cvetkovic, Srdjan"]
+[Black "Sznapik, Aleksander"]
+[Result "0-1"]
+[ECO "E90"]
+[Opening "King's Indian"]
+[Variation "5.Nf3"]
+[HashCode "7dabcd60"]
+[Epoch "Rook"]
+[WhiteID "900621"]
+[WhiteCountry "SRB"]
+[BlackID "1100050"]
+[BlackCountry "POL"]
+
+1. c4 Nf6 2. Nc3 g6 3. e4 d6 4. d4 Bg7 5. Nf3 O-O 6. h3 c5 7. d5 b5 8. cxb5 a6
+9. bxa6 Qa5 10. Nd2 Bxa6 11. Be2 Nbd7 12. O-O Rfb8 13. Re1 Ne8 14. Bxa6 Qxa6
+15. Nf3 Nc7 16. Qe2 Nb5 17. Nxb5 Qxb5 18. Qxb5 Rxb5 19. Re2 Ra4 20. a3 h6 21.
+Kf1 g5 22. Ke1 c4 23. Kd1 e6 24. dxe6 fxe6 25. Kc2 Nc5 26. Rb1 Nd3 27. Ne1 Nxc1
+28. Kxc1 h5 29. Nc2 Rb3 30. Ne3 Be5 31. Kc2 Rb7 32. b3 cxb3+ 33. Rxb3 Rc7+ 34.
+Kb1 Rxe4 35. Rc2 Ra7 36. Rc4 Rd4 37. Rxd4 Bxd4 38. f3 Kf7 39. Nc4 0-1

@@ -1,0 +1,18 @@
+[Event "Aarhus"]
+[Site "Aarhus"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Enevoldsen, Svend"]
+[Black "Fastrup, Henrik"]
+[Result "0-1"]
+[ECO "A77"]
+[Opening "Benoni"]
+[Variation "classical, 9...Re8, 10.Nd2"]
+[HashCode "83e18839"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. e4 Bg7 8.
+Be2 O-O 9. O-O Re8 10. Nd2 a6 11. a4 Nbd7 12. Re1 Ne5 13. Bf1 Nh5 14. f3
+Qh4 15. g3 Nxg3 16. hxg3 Qxg3+ 17. Bg2 Nd3 18. Re2 Bd4+ 19. Kf1 Qh2 20. Re3
+Bxe3 21. Ke2 Nxc1+ 22. Rxc1 Bxd2 0-1
+

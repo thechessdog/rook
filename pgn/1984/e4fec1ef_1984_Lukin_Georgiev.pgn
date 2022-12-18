@@ -1,0 +1,22 @@
+[Event "Plovdiv"]
+[Site "Plovdiv"]
+[Date "1984.01.01"]
+[Round "6"]
+[White "Lukin, Andrei M"]
+[Black "Georgiev, Krum"]
+[Result "0-1"]
+[ECO "B93"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.f4"]
+[HashCode "e4fec1ef"]
+[Epoch "Rook"]
+[WhiteID "4101251"]
+[WhiteCountry "RUS"]
+[BlackID "2900092"]
+[BlackCountry "FID"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 e6 7. Qf3 Qc7 8. Be3
+b5 9. Bd3 Bb7 10. g4 Nc6 11. g5 Nd7 12. O-O-O Nc5 13. Kb1 Be7 14. Rhg1 Rc8 15.
+Nce2 Na5 16. Bc1 Nc4 17. f5 Ne5 18. Qh3 Nexd3 19. cxd3 e5 20. f6 exd4 21. fxg7
+Rg8 22. Qxh7 Kd7 23. Nxd4 Ne6 24. Nxe6 fxe6 25. h4 Qc2+ 26. Ka1 Qf2 27. h5 Qd4
+28. h6 d5 29. Qg6 b4 30. e5 b3 31. axb3 Qb4 32. d4 Qxb3 33. Qd3 Rxc1+ 0-1

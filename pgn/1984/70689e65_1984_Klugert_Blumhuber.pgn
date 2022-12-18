@@ -1,0 +1,16 @@
+[Event "corr BGD-WFT"]
+[Site "corr BGD-WFT"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Klugert"]
+[Black "Blumhuber"]
+[Result "1-0"]
+[ECO "D00"]
+[Opening "Blackmar gambit"]
+[HashCode "70689e65"]
+[Epoch "Rook"]
+
+1. d4 d5 2. e4 dxe4 3. Nc3 Nf6 4. Be2 c6 5. f3 Bf5 6. Bg5 exf3 7. Nxf3 e6
+8. O-O Be7 9. Nh4 Bg6 10. Kh1 Nbd7 11. Bf3 Qc7 12. Qe2 O-O-O 13. a3 Nb6 14.
+Rad1 Rhe8 15. b4 Nbd5 16. Qe1 1-0
+

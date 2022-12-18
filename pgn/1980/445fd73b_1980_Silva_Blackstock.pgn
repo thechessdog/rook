@@ -1,0 +1,22 @@
+[Event "London"]
+[Site "London"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Silva Sanchez, Carlos"]
+[Black "Blackstock, Lesly S F"]
+[Result "1-0"]
+[ECO "B47"]
+[Opening "Sicilian"]
+[Variation "Taimanov (Bastrikov) variation"]
+[HashCode "445fd73b"]
+[Epoch "Rook"]
+[BlackID "2400200"]
+[BlackCountry "SCO"]
+[WhiteID "3400115"]
+[WhiteCountry "CHI"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 Qc7 6. g3 a6 7. Bg2 Nf6 8. O-O
+h6 9. Re1 Nxd4 10. Qxd4 Bc5 11. Qd1 d6 12. Be3 e5 13. Qd3 Be6 14. Bxc5 Qxc5 15.
+Rad1 Ke7 16. Rd2 Rhd8 17. h3 b5 18. Nd1 Rac8 19. Ne3 g6 20. c3 Rc6 21. Kh2 b4
+22. cxb4 Qxb4 23. f4 Nd7 24. f5 Bc4 25. Nd5+ Bxd5 26. exd5 Rc5 27. fxg6 Nf6 28.
+gxf7 Kxf7 29. Rf1 Kg7 30. Rxf6 Kxf6 31. Rf2+ Kg7 32. Qf5 1-0

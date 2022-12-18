@@ -1,0 +1,20 @@
+[Event "corr Wcup3"]
+[Site "corr Wcup3"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Steinsapir"]
+[Black "Wieczorek"]
+[Result "1-0"]
+[ECO "B00"]
+[Opening "KP"]
+[Variation "Nimzovich defence"]
+[HashCode "e0e84c3f"]
+[Epoch "Rook"]
+
+1. e4 Nc6 2. Nf3 Nf6 3. d3 e5 4. g3 d5 5. Nbd2 Bg4 6. h3 dxe4 7. hxg4 exf3
+8. g5 Ng4 9. Qxf3 Qxg5 10. Bh3 h5 11. Nc4 Qg6 12. Ne3 Qf6 13. Qg2 Nxe3 14.
+Bxe3 g5 15. Qe4 g4 16. Bg2 Qe6 17. Qa4 a6 18. f3 O-O-O 19. O-O-O Nb4 20.
+fxg4 Nxa2+ 21. Kb1 Nb4 22. gxh5 b5 23. Qa5 Kb8 24. Bd2 Nd5 25. c4 bxc4 26.
+dxc4 Nf6 27. Bc3 Rc8 28. Bxe5 Rh6 29. Bf4 Ne4 30. Bxh6 Bxh6 31. Bh3 Qxc4
+32. Bxc8 Kxc8 33. Qd5 Qxd5 34. Rxd5 Nxg3 35. Re1 f6 36. Re6 1-0
+

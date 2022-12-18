@@ -1,0 +1,17 @@
+[Event "BL-SW 7778"]
+[Site "BL-SW 7778"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Preker, H."]
+[Black "Bernhardt, Rolf"]
+[Result "0-1"]
+[ECO "A00"]
+[Opening "Anderssen's opening"]
+[HashCode "8b143a48"]
+[Epoch "Rook"]
+[BlackID "4600800"]
+[BlackCountry "GER"]
+
+1. a3 g6 2. c4 Bg7 3. Nc3 f5 4. d4 Nf6 5. g3 d6 6. Bg2 O-O 7. b4 c5 8. e3 Nc6
+9. Rb1 cxd4 10. exd4 Nxd4 11. Qxd4 Ne4 12. Qd3 Bxc3+ 13. Kf1 Bg7 14. Ne2 e5 15.
+Bxe4 fxe4 16. Qxe4 Qf6 17. Be3 Bf5 18. Qd5+ Be6 19. Qd3 d5 20. f4 d4 0-1

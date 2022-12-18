@@ -1,0 +1,24 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Roos"]
+[Black "Posthoff, C."]
+[Result "0-1"]
+[ECO "C08"]
+[Opening "French"]
+[Variation "Tarrasch, open, 4.ed ed"]
+[HashCode "da66c201"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. exd5 exd5 5. Bb5+ Nc6 6. Ne2 Nf6 7. O-O Bd6
+8. dxc5 Bxc5 9. Nb3 Be7 10. c3 O-O 11. Bg5 a6 12. Bd3 h6 13. Bxf6 Bxf6 14.
+Nf4 d4 15. Qc2 Be5 16. Ne2 dxc3 17. Nxc3 Nb4 18. Bh7+ Kh8 19. Qe4 Bxc3 20.
+bxc3 Nc6 21. Bf5 Qf6 22. Bxc8 Raxc8 23. Nc5 Rfe8 24. Qc2 Qe7 25. Nd3 Nd4
+26. Qb2 Ne2+ 27. Kh1 Qe4 28. Rad1 Rxc3 29. Qb1 b5 30. Rfe1 Rxd3 31. Qxd3
+Qxd3 32. Rxd3 Ng3+ 33. hxg3 Rxe1+ 34. Kh2 Kh7 35. g4 Kg6 36. f4 Kf6 37.
+Rd6+ Re6 38. Rd7 Rc6 39. Ra7 Ke6 40. a3 g6 41. g3 f5 42. Kh3 fxg4+ 43. Kxg4
+Kd5 44. Rh7 h5+ 45. Kg5 Rc3 46. Kxg6 Rxg3+ 47. Kf6 Rxa3 48. Rxh5+ Kc4 49.
+f5 Rf3 50. Ke7 b4 51. f6 b3 52. Rh4+ Kc3 53. Ra4 Rxf6 54. Kxf6 b2 55. Ra3+
+Kc4 0-1
+

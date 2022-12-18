@@ -1,0 +1,21 @@
+[Event "Keszthely"]
+[Site "Keszthely"]
+[Date "1981.01.01"]
+[Round "11"]
+[White "Chandler, Murray G"]
+[Black "Szeles, Karoly"]
+[Result "1-0"]
+[ECO "D32"]
+[Opening "QGD"]
+[Variation "Tarrasch, von Hennig-Schara gambit"]
+[HashCode "110e247f"]
+[Epoch "Rook"]
+[WhiteID "400050"]
+[WhiteCountry "NZL"]
+[BlackID "700924"]
+[BlackCountry "HUN"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c5 4. cxd5 cxd4 5. Qa4+ Bd7 6. Qxd4 exd5 7. Qxd5 Nc6
+8. Qd1 Nf6 9. Nf3 Bc5 10. e3 Qe7 11. Be2 O-O-O 12. O-O g5 13. b4 Bxb4 14. Bb2
+Rhg8 15. Nd4 Kb8 16. Ncb5 Ne5 17. Qb3 g4 18. Rfc1 Nf3+ 19. Nxf3 gxf3 20. Bxf3
+Bxb5 21. a3 Rd2 22. Bd4 Ne4 23. Qxb4 Ng5 24. Rc8+ Rxc8 25. Qxe7 1-0

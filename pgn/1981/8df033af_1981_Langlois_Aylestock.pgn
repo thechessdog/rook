@@ -1,0 +1,21 @@
+[Event "corr CCCA"]
+[Site "corr CCCA"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Langlois, C."]
+[Black "Aylestock, Michael"]
+[Result "1-0"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical system, 5.Be2"]
+[HashCode "8df033af"]
+[Epoch "Rook"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Nf3 Bg7 5. Be2 O-O 6. O-O Bg4 7. Be3 Nc6 8.
+d5 Bxf3 9. Bxf3 Ne5 10. Be2 c6 11. f4 Ned7 12. dxc6 bxc6 13. Qd2 Qc7 14.
+Rad1 Nb6 15. a4 a5 16. b3 Rfd8 17. Bf3 Nbd7 18. g4 Ne8 19. Kg2 e6 20. h4
+Rac8 21. Rh1 d5 22. e5 d4 23. Bxd4 c5 24. Nb5 Qb8 25. Be3 Nxe5 26. Qf2 Nxf3
+27. Qxf3 Bd4 28. Bd2 Qb6 29. h5 Nd6 30. hxg6 fxg6 31. c4 Nb7 32. Qe4 Rd7
+33. Rde1 Re8 34. Rxh7 Kxh7 35. Nxd4 e5 36. Rh1+ Kg7 37. Nf3 Qd8 38. Bc3 Kg8
+39. Nxe5 Rd6 40. Rh8+ 1-0
+

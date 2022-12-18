@@ -1,0 +1,20 @@
+[Event "HUN-ch"]
+[Site "Budapest"]
+[Date "1978.??.??"]
+[Round "?"]
+[White "Orso, Miklos"]
+[Black "Rigo, Janos"]
+[Result "1/2-1/2"]
+[ECO "A46"]
+[Opening "Queen's pawn"]
+[Variation "Torre attack"]
+[HashCode "0a059ddf"]
+[Epoch "Rook"]
+[WhiteID "700290"]
+[BlackID "700371"]
+[WhiteCountry "HUN"]
+[BlackCountry "HUN"]
+
+1. d4 Nf6 2. Nf3 e6 3. Bg5 d5 4. e3 c6 5. Bd3 Nbd7 6. O-O h6 7. Bh4 Bd6 8. c4
+O-O 9. Nc3 dxc4 10. Bxc4 e5 11. d5 Nb6 12. Bb3 cxd5 13. Nxd5 Nbxd5 14. Bxd5 Bg4
+15. Bxf6 Qxf6 16. Qb3 Rab8 1/2-1/2

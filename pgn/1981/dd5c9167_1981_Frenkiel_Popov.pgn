@@ -1,0 +1,17 @@
+[Event "Montreal"]
+[Site "Montreal"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Frenkiel, H."]
+[Black "Popov, T."]
+[Result "1-0"]
+[ECO "B35"]
+[Opening "Sicilian"]
+[Variation "accelerated fianchetto, modern variation with Bc4"]
+[HashCode "dd5c9167"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 g6 3. d4 Bg7 4. Nc3 cxd4 5. Nxd4 Nc6 6. Be3 Nf6 7. Bc4 Qa5
+8. Qd2 Qb4 9. Bb5 Nxe4 10. Nxc6 Qxb2 11. Nxe4 Qxa1+ 12. Ke2 Qxh1 13. Nxe7
+Qb1 14. Qd5 Qxb5+ 15. Qxb5 Kxe7 16. Qc5+ Kd8 17. Bg5+ f6 18. Nxf6 1-0
+

@@ -1,0 +1,29 @@
+[Event "Capablanca mem"]
+[Site "Cienfuegos"]
+[Date "1979.??.??"]
+[Round "2"]
+[White "Sveshnikov, Evgeny"]
+[Black "Estevez Morales, Guillermo"]
+[Result "1-0"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "84cbc5cd"]
+[Epoch "Rook"]
+[WhiteID "4100638"]
+[WhiteCountry "RUS"]
+[BlackCountry "CUB"]
+
+1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. d4 cxd4 5. Nf3 d6 6. Qxd4 e6 7. Nbd2 Nc6 8. Qe4
+Nxe5 9. Nxe5 dxe5 10. Qxe5 Qd6 11. Qe4 Be7 12. Nc4 Qc7 13. Bd3 Bf6 14. O-O Bd7
+15. f4 Bc6 16. Qe2 O-O 17. Ne5 g6 18. c4 Nb6 19. b3 Nd7 20. Bb2 Nxe5 21. fxe5
+Be7 22. Kh1 Bc5 23. Rad1 a5 24. Bc1 a4 25. Bg5 axb3 26. axb3 Be7 27. Bf6 Bxf6
+28. exf6 Ra5 29. Qe3 Rh5 30. Qf4 e5 31. Qg3 h6 32. Rf2 Rd8 33. h3 Qb6 34. Kh2
+Rg5 35. Qh4 Qe3 36. Re1 Qxf2 37. Qxf2 Rxg2+ 38. Qxg2 Bxg2 39. Bxg6 Rd2 40. Bb1
+Bc6+ 41. Kg3 Rg2+ 42. Kh4 Rf2 43. Rxe5 Rxf6 44. Bf5 Rd6 45. Re3 Kg7 46. Rd3 Rf6
+47. Kg4 Kf8 48. Kf4 Bg2 49. Ke5 Rb6 50. c5 f6+ 51. Kd4 Rb4+ 52. Kc3 Rf4 53. Bc8
+Rf3 54. Rxf3 Bxf3 55. b4 Ke7 56. b5 Kd8 57. Bg4 Bg2 58. Kd4 Kc7 59. b6+ Kc6 60.
+Kc4 Bf1+ 61. Kb4 Bg2 62. Bf5 Bf3 63. h4 Bd5 64. Bg6 Kd7 65. Kc3 Bg2 66. Kd4 Bf3
+67. Bc2 Bg2 68. Bg6 Bf3 69. h5 Bg4 70. Bf7 Kc8 71. Ke3 Kd7 72. Ke4 Kc6 73. Kd4
+Kd7 74. Bg6 f5 75. Ke5 Kc6 76. Kd4 Kd7 77. Bf7 f4 78. Bd5 Kc8 79. Bf7 f3 80.
+Ke3 Kd7 81. Bd5 Bxh5 82. Bxb7 f2 83. Kxf2 Bg4 84. Kg3 Be6 85. Kf4 1-0

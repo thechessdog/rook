@@ -1,0 +1,19 @@
+[Event "corr EU/M/GT"]
+[Site "corr EU/M/GT"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Horvat, M."]
+[Black "Wittmann, Walter"]
+[Result "0-1"]
+[ECO "B25"]
+[Opening "Sicilian"]
+[Variation "closed, 6.f4"]
+[HashCode "a50af4ec"]
+[Epoch "Rook"]
+[BlackID "1600060"]
+[BlackCountry "AUT"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. f4 e6 7. Nf3 Nge7 8. O-O
+O-O 9. Be3 Nd4 10. Rb1 Rb8 11. Ne2 Nxf3+ 12. Bxf3 Qa5 13. a3 Qc7 14. c3 b6 15.
+d4 Bb7 16. d5 exd5 17. exd5 Rfe8 18. Kf2 Nf5 19. Bd2 c4 20. g4 Qc5+ 21. Kg2
+Nh4+ 22. Kg3 Nxf3 23. Rxf3 Bxd5 24. b4 cxb3 0-1

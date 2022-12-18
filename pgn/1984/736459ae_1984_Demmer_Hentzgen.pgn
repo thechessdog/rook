@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Demmer"]
+[Black "Hentzgen"]
+[Result "0-1"]
+[ECO "C69"]
+[Opening "Ruy Lopez"]
+[Variation "exchange, Bronstein variation"]
+[HashCode "736459ae"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O Qd6 6. d3 f6 7. Be3 Bg4
+8. Nbd2 Qe6 9. Qe2 Bd6 10. Rfb1 Ne7 11. b4 g5 12. h3 Bxf3 13. Qxf3 h5 14.
+c4 g4 15. Qe2 Ng6 16. c5 Be7 17. hxg4 hxg4 18. g3 O-O-O 19. Kg2 f5 20. exf5
+Qxf5 21. Ne4 Rxd3 22. f3 gxf3+ 0-1
+

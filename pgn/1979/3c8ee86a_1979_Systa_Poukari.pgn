@@ -1,0 +1,20 @@
+[Event "corr NS/III"]
+[Site "corr NS/III"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Systa, Kari"]
+[Black "Poukari, Manu"]
+[Result "1-0"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, poisoned pawn, Konstantinopolsky variation"]
+[HashCode "3c8ee86a"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Qg4 cxd4
+8. Qxg7 Rg8 9. Qxh7 Qc7 10. Ne2 Nbc6 11. cxd4 Nxd4 12. Kd1 Nxe2 13. Bxe2
+Qxe5 14. Rb1 Rxg2 15. Bb5+ Nc6 16. Qh4 Bd7 17. Bf1 Rg8 18. Rxb7 Qf5 19. Bb5
+Qg4+ 20. Qxg4 Rxg4 21. h4 a6 22. Be2 Na5 23. Bxg4 Nxb7 24. h5 e5 25. Be2
+Ke7 26. h6 Bb5 27. Bf3 e4 28. Bg4 Nd6 29. h7 Rh8 30. Bb2 f6 31. Rh6 Ne8 32.
+Bh5 Ng7 33. Bxf6+ Kf8 34. Bd4 1-0
+

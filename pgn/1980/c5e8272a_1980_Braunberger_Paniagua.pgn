@@ -1,0 +1,28 @@
+[Event "Reggio Emilia8081"]
+[Site "Reggio Emilia"]
+[Date "1980.01.01"]
+[Round "7"]
+[White "Braunberger, Federico"]
+[Black "Paniagua, Roberto"]
+[Result "0-1"]
+[ECO "D20"]
+[Opening "QGA"]
+[Variation "3.e4"]
+[HashCode "c5e8272a"]
+[Epoch "Rook"]
+[WhiteID "804606"]
+[WhiteCountry "ITA"]
+[BlackID "6600018"]
+[BlackCountry "PAN"]
+
+1. d4 d5 2. c4 dxc4 3. e4 Nf6 4. Nc3 a6 5. e5 Nd5 6. Bxc4 Nb6 7. Bb3 e6 8. Nf3
+Be7 9. O-O Nd5 10. Ne4 b6 11. Bc2 Bb7 12. a3 Nd7 13. Re1 b5 14. Nfg5 Bxg5 15.
+Bxg5 Ne7 16. Qg4 Bd5 17. Rac1 h6 18. Bh4 g5 19. Bg3 Ng6 20. Qh5 Qe7 21. Nc3 Nb6
+22. Bxg6 fxg6 23. Qxg6+ Qf7 24. Qxf7+ Kxf7 25. Nxd5 Nxd5 26. f3 Ke7 27. Bf2 Kd7
+28. Be3 a5 29. Kf2 a4 30. Bd2 Nb6 31. Rc5 Nc4 32. Bc3 c6 33. Ke2 Rhg8 34. Kd3
+Nb6 35. Bd2 Rab8 36. g3 Nc4 37. Bc1 Rbf8 38. Rf1 h5 39. Kc3 Nb6 40. Kd3 g4 41.
+Rc2 Rf5 42. Rcf2 Rgf8 43. Ke2 Nc4 44. fxg4 hxg4 45. Rxf5 exf5 46. Kd3 Ke6 47.
+Kc3 Kd5 48. Re1 Ke6 49. Re2 Rd8 50. Bf4 Nb6 51. Be3 Nd5+ 52. Kd3 c5 53. Rc2 c4+
+54. Ke2 Rh8 55. Bg1 f4 56. gxf4 Rh3 57. Kd1 Nxf4 58. Rd2 Kd5 59. Rf2 Rd3+ 60.
+Rd2 Rb3 61. Kc2 Nd3 62. Kb1 b4 63. axb4 a3 64. Ka2 axb2 65. Rd1 Rxb4 66. Kb1
+Ra4 67. Kc2 Ra1 68. Rb1 c3 0-1

@@ -1,0 +1,19 @@
+[Event "Milwaukee"]
+[Site "Milwaukee"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Martinovsky, Eugene"]
+[Black "Elmquist, Ronald"]
+[Result "1-0"]
+[ECO "E61"]
+[Opening "King's Indian"]
+[Variation "Smyslov system"]
+[HashCode "bd08b47d"]
+[Epoch "Rook"]
+[BlackID "2006782"]
+[BlackCountry "USA"]
+[WhiteCountry "MKD"]
+
+1. d4 g6 2. c4 Bg7 3. Nc3 d6 4. Nf3 Nf6 5. Bg5 h6 6. Bh4 O-O 7. e3 b6 8. Bd3
+Bb7 9. O-O c5 10. d5 g5 11. Bg3 Nh5 12. Nxg5 Nxg3 13. fxg3 Nd7 14. Bh7+ Kh8 15.
+Bb1 Ne5 16. Qc2 1-0

@@ -1,0 +1,19 @@
+[Event "Helsinki"]
+[Site "Helsinki"]
+[Date "1983.03.01"]
+[Round "8"]
+[White "Gurevich, Dmitry"]
+[Black "Balashov, Yuri S"]
+[Result "1/2-1/2"]
+[ECO "E18"]
+[Opening "Queen's Indian"]
+[Variation "old main line, 7.Nc3"]
+[HashCode "e79e617a"]
+[Epoch "Rook"]
+[WhiteID "2000407"]
+[WhiteCountry "USA"]
+[BlackID "4100263"]
+[BlackCountry "RUS"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2 Be7 6. O-O O-O 7. Nc3 Ne4 8. Nxe4
+Bxe4 9. Ne1 Bxg2 10. Nxg2 d5 11. Qa4 Qd7 12. Qxd7 Nxd7 13. cxd5 exd5 1/2-1/2

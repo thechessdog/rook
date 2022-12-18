@@ -1,0 +1,21 @@
+[Event "Bratislava"]
+[Site "Bratislava"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Mokry, Karel"]
+[Black "Ftacnik, Lubomir"]
+[Result "0-1"]
+[ECO "B99"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7...Be7 main line"]
+[HashCode "546c08de"]
+[Epoch "Rook"]
+[BlackID "14900017"]
+[BlackCountry "SVK"]
+[WhiteID "306070"]
+[WhiteCountry "CZE"]
+
+1. e4 c5 2. Nf3 d6 3. d4 Nf6 4. Nc3 cxd4 5. Nxd4 a6 6. Bg5 e6 7. f4 Be7 8. Qf3
+Qc7 9. O-O-O Nbd7 10. g4 b5 11. Bxf6 Nxf6 12. g5 Nd7 13. f5 Nc5 14. h4 b4 15.
+Nce2 e5 16. Nb3 Nxe4 17. Qxe4 Bb7 18. Rd5 Rc8 19. c3 Qc4 20. Qxc4 Rxc4 21. Bg2
+Bxd5 22. Bxd5 Rxh4 23. Rxh4 Bxg5+ 24. Nd2 Bxh4 25. cxb4 Ke7 26. Nc3 Bg5 0-1

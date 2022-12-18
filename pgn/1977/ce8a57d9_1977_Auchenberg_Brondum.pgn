@@ -1,0 +1,21 @@
+[Event "Espergarde op"]
+[Site "Espergarde"]
+[Date "1977.01.01"]
+[Round "4"]
+[White "Auchenberg, Per"]
+[Black "Brondum, Eric"]
+[Result "0-1"]
+[ECO "B26"]
+[Opening "Sicilian"]
+[Variation "closed, 6.Be3"]
+[HashCode "ce8a57d9"]
+[Epoch "Rook"]
+[BlackID "1400894"]
+[BlackCountry "DEN"]
+[WhiteCountry "DNK"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. Be3 e5 7. Qd2 Nd4 8. Nd1
+Ne7 9. c3 Ndc6 10. Bh6 Bxh6 11. Qxh6 Be6 12. Nf3 f6 13. Qg7 Rf8 14. Qxh7 Qd7
+15. Qh6 O-O-O 16. Qe3 g5 17. d4 exd4 18. cxd4 g4 19. d5 Nxd5 20. exd5 Bxd5 21.
+O-O gxf3 22. Bxf3 Bxf3 23. Qxf3 Rh8 24. Ne3 Nd4 25. Qg2 Rxh2 26. Kxh2 Rh8+ 27.
+Kg1 Ne2# 0-1

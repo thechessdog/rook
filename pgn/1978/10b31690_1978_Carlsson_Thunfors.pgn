@@ -1,0 +1,22 @@
+[Event "corr SWE/K tt"]
+[Site "corr SWE/K tt"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Carlsson, Ake"]
+[Black "Thunfors, B."]
+[Result "0-1"]
+[ECO "D31"]
+[Opening "QGD"]
+[Variation "3.Nc3"]
+[HashCode "10b31690"]
+[Epoch "Rook"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Bb4 4. Nf3 dxc4 5. Qa4+ Nc6 6. e4 Bd7 7. Qc2 Na5
+8. Be2 b5 9. O-O c6 10. d5 Ne7 11. dxe6 Bxe6 12. Ng5 Bd7 13. Rd1 Qc7 14.
+Be3 h6 15. Nf3 Bd6 16. Qd2 Nb7 17. a4 a5 18. axb5 cxb5 19. e5 Bc5 20. e6
+Bxe6 21. Nxb5 Qb6 22. Bxc5 Qxc5 23. Nd6+ Nxd6 24. Qxd6 Rc8 25. Qa6 Nc6 26.
+Nd2 O-O 27. Ne4 Qe5 28. Bf3 Nd4 29. Qxa5 Nxf3+ 30. gxf3 Qxb2 31. Rab1 Qc2
+32. Rbc1 Qb3 33. Kg2 Qb8 34. Nd6 Rc6 35. Nf5 Qc7 36. Qxc7 Rxc7 37. Nd4 Rd8
+38. Nb5 Rxd1 39. Rxd1 Rc5 40. Nc3 Rg5+ 41. Kf1 Bh3+ 42. Ke2 Re5+ 43. Kd2
+Bg2 44. f4 Rh5 0-1
+

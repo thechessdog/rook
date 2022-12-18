@@ -1,0 +1,20 @@
+[Event "SVK-ch"]
+[Site "Bardejov"]
+[Date "1981.??.??"]
+[Round "8"]
+[White "Franzen, Jozef"]
+[Black "Petran, Peter"]
+[Result "1/2-1/2"]
+[ECO "B19"]
+[Opening "Caro-Kann"]
+[Variation "classical, Spassky variation"]
+[HashCode "cc51fa33"]
+[Epoch "Rook"]
+[BlackID "14900114"]
+[BlackCountry "SVK"]
+[WhiteID "14900181"]
+[WhiteCountry "SVK"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. Nf3 Nd7 7. h4 h6 8. h5
+Bh7 9. Bd3 Bxd3 10. Qxd3 Qc7 11. Bd2 Ngf6 12. O-O-O e6 13. Ne4 Nxe4 14. Qxe4
+O-O-O 15. Bf4 Bd6 1/2-1/2

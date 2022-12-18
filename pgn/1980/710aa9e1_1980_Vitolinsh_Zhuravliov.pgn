@@ -1,0 +1,22 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Vitolinsh, Alvis"]
+[Black "Zhuravliov, Valerij"]
+[Result "1-0"]
+[ECO "C70"]
+[Opening "Ruy Lopez"]
+[Variation "Taimanov (chase/wing/accelerated counterthrust) variation"]
+[HashCode "710aa9e1"]
+[Epoch "Rook"]
+[WhiteCountry "LVA"]
+[BlackID "11600055"]
+[BlackCountry "LAT"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 b5 5. Bb3 Na5 6. Bxf7+ Kxf7 7. Nxe5+ Ke7
+8. d4 Nf6 9. O-O Qe8 10. Nc3 Kd8 11. Nd5 Bb7 12. Bg5 Bxd5 13. exd5 Be7 14. Re1
+Rb8 15. a4 b4 16. c4 h6 17. Bh4 g5 18. Bg3 d6 19. Nd3 Nxc4 20. Rc1 Na5 21. Nc5
+dxc5 22. d6 cxd6 23. dxc5 d5 24. Bxb8 Qc6 25. Bd6 Bxd6 26. cxd6 Qxd6 27. Qc2
+Qd7 28. Qc5 Nc4 29. b3 Ne4 30. Qd4 Rh7 31. bxc4 Nc3 32. Qb6+ Qc7 33. Qxb4 d4
+34. Qf8+ Kd7 35. Qe8+ Kd6 36. Qe5+ Kc6 37. Qxd4 1-0

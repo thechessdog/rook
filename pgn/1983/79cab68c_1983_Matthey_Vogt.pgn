@@ -1,0 +1,22 @@
+[Event "DDR-ch 32th"]
+[Site "Cottbus"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Matthey, Harald"]
+[Black "Vogt, Lothar"]
+[Result "0-1"]
+[ECO "E78"]
+[Opening "King's Indian"]
+[Variation "Four pawns attack, with Be2 and Nf3"]
+[HashCode "79cab68c"]
+[Epoch "Rook"]
+[WhiteID "4623150"]
+[WhiteCountry "GER"]
+[BlackID "4611292"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f4 O-O 6. Nf3 c5 7. Be2 cxd4 8. Nxd4
+Bg4 9. Be3 Qc8 10. h3 Bxe2 11. Qxe2 Nh5 12. Nd5 Re8 13. Nf5 gxf5 14. Qxh5 e6
+15. Nc3 Qxc4 16. Rc1 Nc6 17. Kf2 Nb4 18. Rhd1 fxe4 19. Nd5 Qxd5 20. Rxd5 Nxd5
+21. f5 exf5 22. Rd1 Nxe3 23. Kxe3 Re5 24. Ke2 d5 25. Rc1 d4 26. Rc7 d3+ 27. Ke1
+Rf8 28. Rd7 Rc5 29. Qg5 h6 30. Qf4 Rc2 31. Rxb7 d2+ 32. Kd1 Rd8 0-1

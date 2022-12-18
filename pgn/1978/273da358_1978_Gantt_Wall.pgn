@@ -1,0 +1,18 @@
+[Event "Hickory,NC"]
+[Site "Hickory,NC"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Gantt"]
+[Black "Wall, Bill"]
+[Result "0-1"]
+[ECO "B15"]
+[Opening "Caro-Kann"]
+[Variation "Alekhine gambit"]
+[HashCode "273da358"]
+[Epoch "Rook"]
+[BlackCountry "USA"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Bd3 Nbd7 6. c3 g6 7. Nf3 Bg7 8.
+Bg5 O-O 9. Nxf6+ Nxf6 10. Bc4 Qa5 11. O-O Bg4 12. h3 Bxf3 13. Qxf3 Qxg5 14.
+Rfe1 e6 15. Qe3 Qxe3 16. Rxe3 b5 17. Bd3 b4 18. Be4 Nd5 19. Bxd5 cxd5 20. Rc1
+bxc3 21. Rcxc3 Bxd4 0-1

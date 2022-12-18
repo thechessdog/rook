@@ -1,0 +1,19 @@
+[Event "corr EUR/K"]
+[Site "corr EUR/K"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Carusin"]
+[Black "Schreiter"]
+[Result "1-0"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Lipnitzky attack"]
+[HashCode "37c8e013"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 Be7 8.
+f4 O-O 9. Qf3 Qc7 10. f5 Nc6 11. Be3 Nxd4 12. Bxd4 b5 13. a3 e5 14. Be3 Bb7
+15. O-O Bc6 16. Rad1 Rab8 17. g4 b4 18. axb4 Rxb4 19. g5 Nxe4 20. Qh5 Nxc3
+21. bxc3 Re4 22. f6 Bd8 23. fxg7 Kxg7 24. g6 hxg6 25. Qh6+ Kg8 26. Qxg6+
+Kh8 27. Rxf7 Rxf7 28. Bxf7 Rg4+ 29. Qxg4 Qxf7 30. Rxd6 1-0
+

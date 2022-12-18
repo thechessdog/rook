@@ -1,0 +1,26 @@
+[Event "corr USCCC"]
+[Site "corr USCCC"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Wolff, Patrick"]
+[Black "Carlson, Curtis"]
+[Result "0-1"]
+[ECO "B51"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky (Nimzovich-Rossolimo, Moscow) attack"]
+[HashCode "961e5f14"]
+[Epoch "Rook"]
+[WhiteID "2000148"]
+[BlackID "2002868"]
+[WhiteCountry "USA"]
+[BlackCountry "USA"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Nd7 4. d4 Nf6 5. Nc3 cxd4 6. Qxd4 e5 7. Qd3 h6 8.
+Be3 Be7 9. O-O-O a6 10. Bc4 Qc7 11. h3 b5 12. Bd5 Rb8 13. Kb1 b4 14. Ne2 Nxd5
+15. exd5 Nc5 16. Bxc5 Qxc5 17. Qe3 Qxe3 18. fxe3 f5 19. e4 fxe4 20. Nd2 Bf5 21.
+Ng3 Bg6 22. Ndxe4 Rf8 23. Kc1 Rf4 24. Rhe1 h5 25. Nd2 Rb5 26. Nf3 Rc5 27. Re2
+Rfc4 28. Rdd2 h4 29. Nf1 Bh5 30. Ne3 Rf4 31. Rf2 e4 32. Nd4 Rxf2 33. Rxf2 Bg5
+34. Kd2 Rxd5 35. c3 bxc3+ 36. bxc3 Ra5 37. Rf5 Rxa2+ 38. Nc2 Bxe3+ 39. Kxe3 g6
+40. Rf2 Bd1 41. Nd4 Rxf2 42. Kxf2 a5 43. c4 a4 44. Nb5 Kd7 45. Ke3 Kc6 46. Kd4
+Be2 47. Na7+ Kb6 48. Nc8+ Kc7 49. Ne7 a3 50. Kc3 Bxc4 51. Nxg6 a2 52. Kb2 e3
+53. Nxh4 Bd5 0-1

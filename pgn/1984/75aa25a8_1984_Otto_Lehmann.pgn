@@ -1,0 +1,19 @@
+[Event "corr DDR/FS"]
+[Site "corr DDR/FS"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Otto, N."]
+[Black "Lehmann, Heinz Dr"]
+[Result "0-1"]
+[ECO "E42"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5, 5.Ne2 (Rubinstein)"]
+[HashCode "75aa25a8"]
+[Epoch "Rook"]
+[BlackCountry "DEU"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Ne2 cxd4 6. exd4 d5 7. a3 Be7 8. c5
+b6 9. b4 O-O 10. g3 a5 11. Na4 Nfd7 12. Nec3 axb4 13. axb4 Nc6 14. b5 Nxd4 15.
+Qxd4 Bxc5 16. Qd2 d4 17. Ne4 f5 18. Nexc5 Nxc5 19. Qd1 Qd5 20. Rg1 Qe5+ 21. Be2
+d3 22. Bb2 dxe2 23. Qc2 Qe4 24. Qxe4 Nxe4 25. Nxb6 Rb8 26. Bd4 Rd8 27. Ra4 e5
+0-1

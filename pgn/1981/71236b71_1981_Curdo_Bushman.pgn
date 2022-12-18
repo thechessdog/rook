@@ -1,0 +1,18 @@
+[Event "Boston"]
+[Site "Boston"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Curdo"]
+[Black "Bushman, R."]
+[Result "1-0"]
+[ECO "C49"]
+[Opening "Four knights"]
+[Variation "symmetrical variation"]
+[HashCode "71236b71"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Bb5 Bb4 5. O-O O-O 6. d3 d6 7. Bg5 Bxc3
+8. bxc3 Ne7 9. Nh4 Ng6 10. Nxg6 hxg6 11. f4 c6 12. Ba4 Qb6+ 13. Kh1 Ng4 14.
+Qf3 Qa5 15. Bb3 Qxc3 16. f5 gxf5 17. exf5 Nh6 18. Bxh6 gxh6 19. Qg4+ Kh7
+20. Bxf7 Qd2 21. Qg6+ Kh8 22. Qf6+ 1-0
+

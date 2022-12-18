@@ -1,0 +1,17 @@
+[Event "Dayton,OH"]
+[Site "Dayton,OH"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Judd, Olen"]
+[Black "Wall, Bill"]
+[Result "0-1"]
+[ECO "B17"]
+[Opening "Caro-Kann"]
+[Variation "Steinitz variation"]
+[HashCode "337f4833"]
+[Epoch "Rook"]
+[BlackCountry "USA"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Bc4 Ngf6 6. Qe2 Nxe4 7. Qxe4 Nf6
+8. Qe5 Ng4 9. Qf4 Nf6 10. Ne2 Qa5+ 11. Bd2 Qb6 12. b3 e6 13. O-O Be7 14. Be3
+O-O 15. d5 Bc5 16. Nd4 Nxd5 17. Qe4 Nxe3 18. Bd3 f5 19. Qxe3 Bxd4 0-1

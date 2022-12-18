@@ -1,0 +1,21 @@
+[Event "Aarhus"]
+[Site "Aarhus"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Jensen, Vagn"]
+[Black "Sorensen, Henrik"]
+[Result "0-1"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf"]
+[HashCode "f91dbdcc"]
+[Epoch "Rook"]
+[WhiteID "1400851"]
+[WhiteCountry "DEN"]
+[BlackID "1400827"]
+[BlackCountry "DEN"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bd3 Nc6 7. Nxc6 bxc6 8.
+O-O g6 9. f4 Bg7 10. Kh1 Qb6 11. Qe1 O-O 12. Qh4 a5 13. f5 Ba6 14. Rf3 Bxd3 15.
+cxd3 a4 16. Rb1 Rfb8 17. Bd2 Qc5 18. Qe1 Nd7 19. Rf1 Qd4 20. Qe2 Ne5 21. Rf3
+Nxf3 22. Qxf3 Rb7 0-1

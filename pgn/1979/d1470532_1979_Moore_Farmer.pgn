@@ -1,0 +1,21 @@
+[Event "Hahn"]
+[Site "Hahn"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Moore, B."]
+[Black "Farmer, S."]
+[Result "1-0"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra gambit"]
+[HashCode "d1470532"]
+[Epoch "Rook"]
+
+1. e4 c5 2. d4 cxd4 3. c3 d5 4. exd5 Qxd5 5. cxd4 Nc6 6. Nf3 Bg4 7. Nc3 Qa5
+8. Be2 e6 9. O-O Bb4 10. Bd2 Nf6 11. a3 Be7 12. Qb3 Bxf3 13. Bxf3 Nxd4 14.
+Qxb7 Nxf3+ 15. gxf3 Rd8 16. Rad1 Qb6 17. Qxb6 axb6 18. Be3 Bc5 19. Rxd8+
+Kxd8 20. Bxc5 bxc5 21. Na4 Nd7 22. Rc1 Ke7 23. Nxc5 Rc8 24. Nd3 Rxc1+ 25.
+Nxc1 Ne5 26. f4 Nc4 27. Nd3 f6 28. f3 Kd6 29. Kf2 Kd5 30. a4 Kd4 31. Ke2 h6
+32. b4 Kd5 33. a5 Nd6 34. Nc5 Nb5 35. Kd3 Nd4 36. a6 Nc6 37. Kc3 g5 38. Nd7
+f5 39. b5 Na7 40. b6 1-0
+

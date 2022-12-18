@@ -1,0 +1,21 @@
+[Event "Parnu"]
+[Site "Parnu"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Uusi, Gunnar"]
+[Black "Nei, Iivo"]
+[Result "0-1"]
+[ECO "A06"]
+[Opening "Reti"]
+[Variation "Nimzovich-Larsen attack"]
+[HashCode "f3fd7589"]
+[Epoch "Rook"]
+[BlackID "4500059"]
+[BlackCountry "EST"]
+[WhiteCountry "EST"]
+
+1. Nf3 d5 2. b3 Bg4 3. Bb2 Nd7 4. e3 e6 5. d3 h6 6. Nbd2 Ngf6 7. h3 Bh5 8. g4
+Bg6 9. Nh4 Bh7 10. f4 Bd6 11. Nhf3 Qe7 12. Ne5 Ba3 13. Qc1 Bxb2 14. Qxb2 Nxe5
+15. Qxe5 O-O-O 16. Be2 Nd7 17. Qxg7 e5 18. fxe5 Rdg8 19. Qxh6 Be4 20. Qxh8 Rxh8
+21. dxe4 Qh4+ 22. Kf1 Qg3 23. exd5 Nxe5 24. Re1 f5 25. gxf5 Qxe3 26. Rd1 Qf4+
+27. Ke1 Qg3+ 28. Kf1 Rh4 0-1

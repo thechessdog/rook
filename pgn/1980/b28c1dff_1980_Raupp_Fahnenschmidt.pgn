@@ -1,0 +1,23 @@
+[Event "Mosbach Elo"]
+[Site "Mosbach Elo"]
+[Date "1980.01.01"]
+[Round "7"]
+[White "Raupp, Thomas"]
+[Black "Fahnenschmidt, Gerhard"]
+[Result "0-1"]
+[ECO "A28"]
+[Opening "English"]
+[Variation "four knights, 4.e3"]
+[HashCode "b28c1dff"]
+[Epoch "Rook"]
+[WhiteID "4601610"]
+[WhiteCountry "GER"]
+[BlackID "4600568"]
+[BlackCountry "GER"]
+
+1. c4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. e3 Be7 5. d4 exd4 6. Nxd4 O-O 7. Nc2 Nb4 8.
+Nxb4 Bxb4 9. Bd2 c6 10. Be2 d5 11. cxd5 cxd5 12. O-O a6 13. Bf3 Bd6 14. Qb3 Be6
+15. Qxb7 Bxh2+ 16. Kxh2 Qd6+ 17. g3 Rfb8 18. Qxa8 Rxa8 19. Rad1 Bg4 20. Bxg4
+Nxg4+ 21. Kg2 d4 22. exd4 Qxd4 23. Bf4 Qb6 24. Rd2 Nf6 25. Re1 h6 26. Red1 Re8
+27. Kg1 Kh7 28. b3 Qa5 29. Rd3 Ng4 30. Kg2 Qh5 31. Rd5 Qh2+ 32. Kf3 Qh3 33. Ne4
+f5 0-1

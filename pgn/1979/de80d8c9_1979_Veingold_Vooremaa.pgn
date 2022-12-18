@@ -1,0 +1,20 @@
+[Event "Tallinn"]
+[Site "Tallinn"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Veingold, Aleksandr"]
+[Black "Vooremaa, Andres"]
+[Result "1/2-1/2"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "4.Nf3"]
+[HashCode "de80d8c9"]
+[Epoch "Rook"]
+[BlackID "4500083"]
+[BlackCountry "EST"]
+[WhiteID "4500032"]
+[WhiteCountry "EST"]
+
+1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. Nc3 Be7 5. Bg5 c6 6. e3 Nbd7 7. cxd5 exd5 8.
+Bd3 O-O 9. Qc2 Re8 10. O-O Nf8 11. Rac1 Be6 12. Na4 N6d7 13. Bxe7 Qxe7 14. Nc5
+Nxc5 15. dxc5 g6 1/2-1/2

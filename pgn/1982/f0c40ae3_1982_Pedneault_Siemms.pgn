@@ -1,0 +1,19 @@
+[Event "corr CCCA"]
+[Site "corr CCCA"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Pedneault, M."]
+[Black "Siemms, R."]
+[Result "1-0"]
+[ECO "B38"]
+[Opening "Sicilian"]
+[Variation "accelerated fianchetto, Maroczy bind, 6.Be3"]
+[HashCode "f0c40ae3"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6 5. c4 Bg7 6. Be3 d6 7. Nc3 Nh6 8.
+Be2 O-O 9. O-O f5 10. exf5 Bxf5 11. Bf3 Bd7 12. c5 Nf5 13. Nxf5 Bxf5 14.
+Qb3+ Kh8 15. Qxb7 Rb8 16. Qxc6 Rxb2 17. Rac1 Qa5 18. Qa4 Qxa4 19. Nxa4 Rxa2
+20. Nc3 Ra5 21. cxd6 exd6 22. Rfd1 Rc8 23. Rxd6 h5 24. Rc6 Re8 25. h4 Re7
+26. g3 Be5 27. Ne4 1-0
+

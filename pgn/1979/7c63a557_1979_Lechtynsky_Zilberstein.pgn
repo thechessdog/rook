@@ -1,0 +1,19 @@
+[Event "Tallinn"]
+[Site "Tallinn"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Lechtynsky, Jiri"]
+[Black "Zilberstein, Valery I"]
+[Result "1/2-1/2"]
+[ECO "B52"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky attack, 3...Bd7"]
+[HashCode "7c63a557"]
+[Epoch "Rook"]
+[WhiteID "300217"]
+[WhiteCountry "CZE"]
+[BlackCountry "RUS"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Nxd7 5. O-O Ngf6 6. Qe2 Rc8 7. c4 g6 8.
+b3 Bg7 9. Bb2 O-O 10. d4 cxd4 11. Nxd4 Nh5 12. Rd1 Nc5 13. g3 Qd7 14. Nc3 Qh3
+15. Rd2 Ne6 16. Nd5 Rfe8 17. Rad1 1/2-1/2

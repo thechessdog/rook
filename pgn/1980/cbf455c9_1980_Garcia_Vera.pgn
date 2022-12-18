@@ -1,0 +1,20 @@
+[Event "Capablanca mem-B"]
+[Site "Cienfuegos"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Garcia, Gildardo"]
+[Black "Vera Gonzalez-Quevedo, Reynaldo"]
+[Result "1-0"]
+[ECO "B61"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Larsen variation, 7.Qd2"]
+[HashCode "cbf455c9"]
+[Epoch "Rook"]
+[WhiteID "4400020"]
+[WhiteCountry "COL"]
+[BlackCountry "CUB"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 Bd7 7. Qd2 Rc8 8.
+O-O-O Nxd4 9. Qxd4 Qa5 10. Be3 a6 11. f3 b5 12. Kb1 e5 13. Qa7 Qc7 14. Qxa6 b4
+15. Bb6 Qb8 16. Nd5 Nxd5 17. Rxd5 Be7 18. Bb5 Bc6 19. Bf2 Kd7 20. Rhd1 f6 21.
+Rc5 Bxb5 22. Rxb5 Qa8 23. Rb7+ Ke8 24. Qb5+ Kf8 25. Qd7 Re8 26. Be1 1-0

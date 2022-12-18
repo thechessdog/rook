@@ -1,0 +1,20 @@
+[Event "corr DDR/FS"]
+[Site "corr DDR/FS"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Mann"]
+[Black "Lehmann, Heinz Dr"]
+[Result "1-0"]
+[ECO "E41"]
+[Opening "Nimzo-Indian"]
+[Variation "e3, Huebner variation"]
+[HashCode "0c0e7233"]
+[Epoch "Rook"]
+[BlackCountry "DEU"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 Nc6 6. Nf3 Bxc3+ 7. bxc3 d6 8.
+O-O e5 9. Ng5 Qe7 10. Qc2 Bd7 11. f4 O-O-O 12. fxe5 dxe5 13. d5 Na5 14. e4 h6
+15. Nf3 Ne8 16. Be3 b6 17. Qf2 g5 18. Nd2 Rh7 19. Rab1 Nb7 20. a4 Kc7 21. a5
+Nxa5 22. Ra1 Nb7 23. Rxa7 Bc8 24. Nb3 Kb8 25. Rfa1 Nc7 26. Qa2 Qd6 27. Rxb7+
+Bxb7 28. Qa7+ Kc8 29. Bxc5 Nb5 30. Bxd6 Nxa7 31. Bxe5 Nc6 32. dxc6 Rxd3 33.
+cxb7+ Kxb7 34. Bd4 1-0

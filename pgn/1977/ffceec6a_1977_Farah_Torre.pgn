@@ -1,0 +1,22 @@
+[Event "Buenos Aires"]
+[Site "Buenos Aires"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Farah, Rodolfo"]
+[Black "Torre, Eugenio"]
+[Result "1-0"]
+[ECO "C81"]
+[Opening "Ruy Lopez"]
+[Variation "open, Howell attack, Adam variation"]
+[HashCode "ffceec6a"]
+[Epoch "Rook"]
+[WhiteID "103616"]
+[BlackID "5200016"]
+[WhiteCountry "ARG"]
+[BlackCountry "PHI"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Be6 9. Qe2 Be7 10. c4 bxc4 11. Bxc4 Nc5 12. Rd1 Na5 13. Bxd5 Bxd5 14. Nc3 c6
+15. b4 Ncb3 16. axb3 Nxb3 17. Nxd5 cxd5 18. Rxa6 Rb8 19. Ba3 Bxb4 20. Qa2 Nc5
+21. Bxb4 Nxa6 22. Rxd5 Qxd5 23. Qxd5 Rxb4 24. Qc6+ Ke7 25. Qd6+ Ke8 26. Nd2 Rb2
+27. e6 Rxd2 28. Qxd2 fxe6 29. Qd6 Kf7 30. Qxa6 1-0

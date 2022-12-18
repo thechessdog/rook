@@ -1,0 +1,23 @@
+[Event "Roskilde"]
+[Site "Roskilde"]
+[Date "1978.01.01"]
+[Round "5"]
+[White "Fedder, Steen"]
+[Black "Westerinen, Heikki M.J."]
+[Result "0-1"]
+[ECO "E98"]
+[Opening "King's Indian"]
+[Variation "orthodox, Aronin-Taimanov, 9.Ne1"]
+[HashCode "7ee3d9e1"]
+[Epoch "Rook"]
+[BlackID "500020"]
+[BlackCountry "FIN"]
+[WhiteID "1400126"]
+[WhiteCountry "DEN"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. O-O Nc6 8. d5
+Ne7 9. Ne1 Nd7 10. Nd3 f5 11. Bd2 fxe4 12. Nxe4 Nf5 13. Bg4 Nf6 14. f3 Bd7 15.
+Ndf2 Nh5 16. Bxh5 gxh5 17. Re1 Qe8 18. Kh1 Qg6 19. Rc1 c5 20. b4 b6 21. a4 Kh8
+22. bxc5 bxc5 23. Rb1 Rg8 24. Rg1 Rab8 25. Rxb8 Rxb8 26. Qc2 Nd4 27. Qa2 h4 28.
+h3 Rg8 29. Bg5 h6 30. Be3 Nf5 31. Bd2 Bf6 32. Nxf6 Ng3+ 33. Kh2 Nf1+ 34. Kh1
+Qg3 0-1

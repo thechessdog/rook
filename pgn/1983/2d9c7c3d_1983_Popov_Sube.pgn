@@ -1,0 +1,22 @@
+[Event "corr YUG"]
+[Site "corr YUG"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Popov, Z."]
+[Black "Sube, S."]
+[Result "1-0"]
+[ECO "B46"]
+[Opening "Sicilian"]
+[Variation "Taimanov variation"]
+[HashCode "2d9c7c3d"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 Nc6 6. Be3 Nge7 7. Nb3 Ng6
+8. f4 Qc7 9. Qf3 b5 10. O-O-O b4 11. Na4 a5 12. h4 h5 13. g4 hxg4 14. Qxg4
+Rb8 15. Rh2 d6 16. h5 Nge7 17. Rhd2 Ng8 18. e5 d5 19. Bd3 Nce7 20. Nd4 Bd7
+21. b3 f5 22. exf6 Nxf6 23. Bg6+ Kd8 24. Nxe6+ Kc8 25. Qe2 Qc6 26. Nd4 Qa8
+27. Bf7 Ne4 28. Rd3 Rh6 29. f5 Rf6 30. Be6 Bxe6 31. fxe6 Qb7 32. Qg4 Qc7
+33. Ne2 Qe5 34. Bd4 Qxe6 35. Qxe6+ Rxe6 36. Nf4 Rh6 37. Be3 Rh8 38. Nxd5
+Nxd5 39. Rxd5 Nf6 40. Rxa5 Rxh5 41. Ra7 Nd5 42. Bd4 g6 43. Re1 Kd8 44. Ra6
+g5 45. Be5 Rb5 46. Ra8+ Ke7 47. Bg7+ Kf7 48. Bxf8 Rh8 49. Re5 1-0
+

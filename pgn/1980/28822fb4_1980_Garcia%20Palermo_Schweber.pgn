@@ -1,0 +1,25 @@
+[Event "Santiago"]
+[Site "Santiago de Chile"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Garcia Palermo, Carlos"]
+[Black "Schweber, Samuel"]
+[Result "1/2-1/2"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "Indian variation"]
+[HashCode "28822fb4"]
+[Epoch "Rook"]
+[WhiteID "110124"]
+[WhiteCountry "ITA"]
+[BlackCountry "ARG"]
+
+1. b3 Nf6 2. Bb2 g6 3. e4 d6 4. g3 Bg7 5. Bg2 O-O 6. d4 e5 7. dxe5 Ng4 8. Nc3
+Nxe5 9. Qd2 Nbc6 10. O-O-O a5 11. f4 Nd7 12. Nge2 Nb6 13. a4 Be6 14. h3 f5 15.
+Nd5 Bxb2+ 16. Kxb2 Bxd5 17. exd5 Qf6+ 18. Qc3 Qxc3+ 19. Nxc3 Nb4 20. Rhe1 Rae8
+21. Re6 Nd7 22. Rde1 Nf6 23. Nb5 Rc8 24. R1e2 Na6 25. Re1 Rfe8 26. Bf3 Rxe6 27.
+Rxe6 Re8 28. Rxe8+ Nxe8 29. g4 Ng7 30. g5 Kf7 31. Kc3 Ke7 32. Kc4 Kd7 33. Nd4
+Nc5 34. Kb5 b6 35. c3 Nd3 36. Ne2 Ne1 37. Bh1 Nh5 38. Kc4 Kc8 39. Kd4 Kb7 40.
+c4 Nc2+ 41. Kc3 Nb4 42. Bf3 Ng7 43. h4 Kc8 44. Ng3 Kd7 45. Bg2 Ke7 46. Bf3 Kd7
+47. Ne2 Na6 48. Nd4 Nb4 49. Kd2 Ke7 50. Ke3 Kd7 51. Be2 Ke7 52. Kf2 Kd7 53. Bf3
+Ke7 54. Kg3 Nd3 55. Bd1 Nb4 56. Be2 Kd7 1/2-1/2

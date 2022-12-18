@@ -1,0 +1,21 @@
+[Event "Reggio Emilia8081"]
+[Site "Reggio Emilia"]
+[Date "1980.01.01"]
+[Round "9"]
+[White "Messa, Roberto"]
+[Black "Minic, Dragoljub"]
+[Result "0-1"]
+[ECO "B92"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Opovcensky variation"]
+[HashCode "32e06555"]
+[Epoch "Rook"]
+[WhiteID "800457"]
+[WhiteCountry "ITA"]
+[BlackCountry "SRB"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8. a4
+Be6 9. O-O Nbd7 10. f4 Rc8 11. a5 O-O 12. Be3 exf4 13. Rxf4 Ne5 14. Nd4 Re8 15.
+Nf5 Bf8 16. Ra4 Ng6 17. Rf2 Qd7 18. Qd4 d5 19. Ra1 Nxe4 20. Nxe4 Bxf5 21. Ng3
+Bc5 22. Qxc5 Rxc5 23. Bxc5 Bxc2 24. Bd4 Ne5 25. Rc1 Bg6 26. h4 Nc6 27. Bb6 Qd6
+0-1

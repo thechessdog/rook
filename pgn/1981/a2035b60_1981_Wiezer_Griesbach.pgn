@@ -1,0 +1,20 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Wiezer"]
+[Black "Griesbach"]
+[Result "1-0"]
+[ECO "B10"]
+[Opening "Caro-Kann"]
+[Variation "closed (Breyer) variation"]
+[HashCode "a2035b60"]
+[Epoch "Rook"]
+
+1. e4 c6 2. d3 d5 3. Nd2 dxe4 4. dxe4 e5 5. Ngf3 Qc7 6. Nc4 Nd7 7. a4 Ngf6
+8. Bd3 Be7 9. O-O O-O 10. b3 Ne8 11. Bb2 f6 12. Re1 Nc5 13. Bf1 Bg4 14. h3
+Bh5 15. Re3 Rd8 16. Qe1 Ne6 17. Nh4 Nd4 18. Bd3 Bf7 19. Nd2 Nd6 20. Qd1 f5
+21. Nxf5 N6xf5 22. exf5 Bg5 23. Bxd4 exd4 24. Re1 Qf4 25. Ne4 Bd5 26. Nxg5
+Qxg5 27. Qg4 Qf6 28. Re2 c5 29. Rae1 a6 30. Re5 Qc6 31. Rxd5 Rxd5 32. Bc4
+b5 33. Re7 Rf7 34. f6 Rxe7 35. fxe7 1-0
+

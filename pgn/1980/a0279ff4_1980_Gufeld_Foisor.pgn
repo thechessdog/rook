@@ -1,0 +1,19 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Gufeld, Eduard"]
+[Black "Foisor, Ovidiu-Doru"]
+[Result "0-1"]
+[ECO "B92"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Opovcensky variation"]
+[HashCode "a0279ff4"]
+[Epoch "Rook"]
+[WhiteCountry "RUS"]
+[BlackID "1200143"]
+[BlackCountry "ROU"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8. O-O
+O-O 9. Kh1 b5 10. a4 Bb7 11. axb5 axb5 12. Rxa8 Bxa8 13. Qd3 Nbd7 14. Qxb5 Nxe4
+15. Nd5 Bg5 16. Bxg5 Qxg5 17. Nc7 Nc3 18. bxc3 0-1

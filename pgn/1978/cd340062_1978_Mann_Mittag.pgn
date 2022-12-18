@@ -1,0 +1,18 @@
+[Event "corr DDR-M"]
+[Site "corr DDR-M"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Mann, W."]
+[Black "Mittag, L."]
+[Result "1-0"]
+[ECO "E87"]
+[Opening "King's Indian"]
+[Variation "Saemisch, orthodox, 7.d5"]
+[HashCode "cd340062"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 e5 7. d5 Nh5 8. Qd2
+f5 9. O-O-O Nd7 10. Bd3 a6 11. exf5 gxf5 12. Nge2 b5 13. Ng3 Nxg3 14. hxg3
+bxc4 15. Bxc4 Nf6 16. Rh2 Rf7 17. Rdh1 Qe7 18. Bg5 Qf8 19. Bd3 Bd7 20. g4
+e4 21. Bxf6 Bxf6 22. fxe4 fxg4 23. e5 Bxe5 24. Rxh7 Rxh7 25. Bxh7+ 1-0
+

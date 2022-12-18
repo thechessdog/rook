@@ -1,0 +1,20 @@
+[Event "DDR-ch 33th"]
+[Site "Eilenburg"]
+[Date "1984.??.??"]
+[Round "4"]
+[White "Rossmann, Helmut"]
+[Black "Womacka, Mathias"]
+[Result "1/2-1/2"]
+[ECO "B52"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky attack, 3...Bd7"]
+[HashCode "0eff6649"]
+[Epoch "Rook"]
+[WhiteID "4612094"]
+[BlackID "4611390"]
+[WhiteCountry "GER"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Qxd7 5. O-O Nf6 6. e5 dxe5 7. Nxe5 Qc8
+8. Qf3 e6 9. d3 Be7 10. Nc3 O-O 11. Bf4 Nfd7 12. Nc4 Nc6 13. Rfe1 Nd4 14. Qd1
+b5 15. Ne5 Bf6 1/2-1/2

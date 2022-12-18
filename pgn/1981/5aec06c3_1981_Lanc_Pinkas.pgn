@@ -1,0 +1,23 @@
+[Event "Czestochowa"]
+[Site "Czestochowa"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Lanc, Alois"]
+[Black "Pinkas, Karol"]
+[Result "0-1"]
+[ECO "C15"]
+[Opening "French"]
+[Variation "Winawer, Alekhine (Maroczy) gambit"]
+[HashCode "5aec06c3"]
+[Epoch "Rook"]
+[WhiteID "14900041"]
+[WhiteCountry "SVK"]
+[BlackID "1100319"]
+[BlackCountry "POL"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. Ne2 dxe4 5. a3 Be7 6. Nxe4 Nf6 7. N2g3 Nc6 8.
+c3 Nd5 9. Bc4 O-O 10. f4 f5 11. Nf2 Na5 12. Ba2 c5 13. c4 Nb6 14. dxc5 Bxc5 15.
+Nd3 Bd4 16. c5 Nbc4 17. Rb1 b5 18. b3 Ne3 19. Bxe3 Bxe3 20. Qe2 Bd4 21. h4 Nc6
+22. Kf1 Kh8 23. b4 a5 24. Rh3 axb4 25. axb4 e5 26. Rd1 Qc7 27. Bd5 e4 28. Nf2
+Rd8 29. Bxc6 Qxc6 30. Nh5 Be6 31. Rxd4 Rxd4 32. Qb2 Qd7 33. Kg1 Ra2 34. Qc3
+Rd1+ 35. Nxd1 Qxd1+ 36. Kh2 Qxh5 37. Qe5 Qg4 38. h5 Qxg2# 0-1

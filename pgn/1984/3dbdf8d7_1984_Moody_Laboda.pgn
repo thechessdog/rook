@@ -1,0 +1,18 @@
+[Event "Plymouth ch-MI op"]
+[Site "Plymouth ch-MI op"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Moody, David W"]
+[Black "Laboda, M."]
+[Result "1-0"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...g6"]
+[HashCode "3dbdf8d7"]
+[Epoch "Rook"]
+[WhiteID "30910722"]
+[WhiteCountry "USA"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 g6 6. c5 Bf5 7. Nf3 Bg7 8. Bb5+
+Nbd7 9. Ne5 O-O 10. c6 bxc6 11. Nxc6 Qc7 12. Nxe7+ Kh8 13. Nxf5 gxf5 14. O-O
+Rg8 15. Qf3 Qb6 16. Qxf5 1-0

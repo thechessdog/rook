@@ -1,0 +1,23 @@
+[Event "Leeuwarden ch-NED"]
+[Site "Leeuwarden ch-NED"]
+[Date "1977.04.01"]
+[Round "1"]
+[White "Langeweg, Kick"]
+[Black "Van der Vliet, Fred"]
+[Result "1-0"]
+[ECO "A77"]
+[Opening "Benoni"]
+[Variation "classical, 9...Re8, 10.Nd2"]
+[HashCode "fc30f395"]
+[Epoch "Rook"]
+[WhiteID "1000160"]
+[WhiteCountry "NED"]
+[BlackID "1000659"]
+[BlackCountry "NED"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. e4 Bg7 8. Be2
+O-O 9. Nd2 Re8 10. O-O Nbd7 11. a4 Ne5 12. Ra3 Bg4 13. f3 Bd7 14. Qc2 g5 15.
+Nc4 Nxc4 16. Bxc4 Nh5 17. Ne2 Qf6 18. Bb5 Bxb5 19. axb5 Nf4 20. Ng3 Qd4+ 21.
+Kh1 Qb4 22. Nf5 Qxb5 23. Qd1 Qd7 24. h4 h6 25. hxg5 hxg5 26. Bxf4 gxf4 27. Qc1
+Qd8 28. Qxf4 Qf6 29. Qg4 Kf8 30. f4 Rxe4 31. Rg3 Rae8 32. Nxg7 Re1 33. Rxe1
+Rxe1+ 34. Kh2 Qh6+ 35. Nh5 Ke7 36. Rh3 Re4 37. Qc8 Qg6 38. f5 1-0

@@ -1,0 +1,17 @@
+[Event "Peoria"]
+[Site "Peoria"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Sprenkle, David"]
+[Black "Lybarger"]
+[Result "1-0"]
+[ECO "E76"]
+[Opening "King's Indian"]
+[Variation "Four pawns attack"]
+[HashCode "0f45a346"]
+[Epoch "Rook"]
+[WhiteID "2001667"]
+[WhiteCountry "USA"]
+
+1. c4 Nf6 2. Nc3 g6 3. e4 d6 4. d4 Bg7 5. f4 O-O 6. Nf3 c6 7. Be2 Re8 8. e5
+dxe5 9. fxe5 Nfd7 10. c5 f6 11. Bc4+ Kh8 12. h4 fxe5 13. h5 1-0

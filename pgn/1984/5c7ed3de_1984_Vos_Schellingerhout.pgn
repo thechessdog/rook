@@ -1,0 +1,20 @@
+[Event "corr NBC"]
+[Site "corr NBC"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Vos"]
+[Black "Schellingerhout"]
+[Result "1-0"]
+[ECO "C43"]
+[Opening "Petrov"]
+[Variation "modern attack, main line"]
+[HashCode "5c7ed3de"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nf6 3. d4 exd4 4. e5 Ne4 5. Qxd4 d5 6. exd6 Nxd6 7. Nc3 Nc6
+8. Qf4 g6 9. Bb5 Bg7 10. Bxc6+ bxc6 11. O-O O-O 12. Be3 a5 13. Bc5 Qf6 14.
+Qxf6 Bxf6 15. Bd4 Bxd4 16. Nxd4 c5 17. Nde2 Rb8 18. b3 c4 19. Rfd1 Ba6 20.
+Nd4 Bb5 21. Ncxb5 Nxb5 22. Nc6 Ra8 23. bxc4 Na3 24. Rd7 Nxc2 25. Rb1 Na3
+26. Rc1 Rfe8 27. Kf1 Re4 28. Rxc7 Rxc4 29. Rxc4 Nxc4 30. Ne7+ Kf8 31. Nxg6+
+1-0
+

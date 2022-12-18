@@ -1,0 +1,19 @@
+[Event "Marshall Int"]
+[Site "Marshall Int"]
+[Date "1979.01.01"]
+[Round "9"]
+[White "Ostojic, Predrag"]
+[Black "Rohde, Michael"]
+[Result "1/2-1/2"]
+[ECO "B13"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack"]
+[HashCode "7ed267a4"]
+[Epoch "Rook"]
+[BlackID "2000172"]
+[BlackCountry "USA"]
+[WhiteCountry "SRB"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 Nc6 6. cxd5 Nxd5 7. Nf3 Bg4 8.
+Be2 e6 9. h3 Bh5 10. O-O Be7 11. Qb3 Nxc3 12. bxc3 Qc7 13. Qb5 Bxf3 14. Bxf3
+1/2-1/2

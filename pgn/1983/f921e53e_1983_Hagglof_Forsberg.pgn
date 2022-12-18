@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Hagglof, Karl"]
+[Black "Forsberg"]
+[Result "0-1"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Nimzovich (knight's tour) variation"]
+[HashCode "f921e53e"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. Nd2 Bg7 8.
+Nc4 O-O 9. Bf4 Na6 10. Bxd6 Re8 11. Be5 Nb4 12. Bxf6 Bxf6 13. Ne3 Qb6 14.
+Qd2 Bg5 15. a3 Rxe3 16. axb4 cxb4 17. Na2 b3 18. Nc3 Bg4 19. fxe3 Bxe3 20.
+Qd3 Bf5 21. Ne4 Qb4+ 22. Qc3 Qxe4 23. g4 Bxg4 24. Qxb3 Qd4 0-1
+

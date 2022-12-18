@@ -1,0 +1,18 @@
+[Event "corr CSSR-YU"]
+[Site "corr CSSR-YU"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Vasiliev"]
+[Black "Kovacevski"]
+[Result "0-1"]
+[ECO "C58"]
+[Opening "two knights defence"]
+[Variation "Paoli variation"]
+[HashCode "41acbe5f"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 Na5 6. Bb5+ c6 7. dxc6
+bxc6 8. Qf3 Qc7 9. Bd3 Bd6 10. O-O Bg4 11. Qe3 O-O 12. Nc3 e4 13. Ncxe4
+Bxh2+ 14. Kh1 Bf4 15. Nxf6+ gxf6 16. Qd4 f5 17. g3 Be5 18. Qa4 Bf3+ 19. Kh2
+Rad8 20. Be2 Rd4 21. Qxd4 Bxd4 22. Bxf3 Nc4 23. Be2 Ne5 24. f4 Ng4+ 0-1
+

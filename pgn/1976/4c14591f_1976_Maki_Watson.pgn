@@ -1,0 +1,19 @@
+[Event "Phoenix op"]
+[Site "Phoenix"]
+[Date "1976.??.??"]
+[Round "?"]
+[White "Maki, Juha"]
+[Black "Watson, John L"]
+[Result "0-1"]
+[ECO "C05"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation"]
+[HashCode "4c14591f"]
+[Epoch "Rook"]
+[WhiteID "506354"]
+[WhiteCountry "FIN"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Bd3 c5 6. c3 Nc6 7. Ne2 Qb6 8. Nf3
+cxd4 9. cxd4 f6 10. exf6 Nxf6 11. O-O Bd6 12. b3 O-O 13. Bg5 e5 14. dxe5 Nxe5
+15. Nxe5 Bxe5 16. Rc1 Ng4 17. Bb1 Rxf2 18. Rxf2 Bxh2+ 19. Kh1 Nxf2+ 20. Kxh2
+Nxd1 21. Rxd1 Bg4 0-1

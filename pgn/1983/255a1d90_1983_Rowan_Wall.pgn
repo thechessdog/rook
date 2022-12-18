@@ -1,0 +1,18 @@
+[Event "Xenia,OH"]
+[Site "Xenia,OH"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Rowan, Clifton"]
+[Black "Wall, Bill"]
+[Result "0-1"]
+[ECO "C01"]
+[Opening "French"]
+[Variation "exchange variation"]
+[HashCode "255a1d90"]
+[Epoch "Rook"]
+[BlackCountry "USA"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. Nc3 Nf6 5. Bd3 Bb4 6. Ne2 O-O 7. a3 Be7 8.
+O-O a6 9. Ng3 Bg4 10. f3 Be6 11. Nf5 Nc6 12. Bg5 Bxf5 13. Bxf5 b6 14. Qd2 Nxd4
+15. Bh3 c5 16. Rfe1 Nb5 17. Nxb5 axb5 18. Re5 d4 19. Rae1 Ra7 20. Bf5 Bd6 21.
+Rd5 Bxh2+ 22. Kxh2 Qxd5 0-1

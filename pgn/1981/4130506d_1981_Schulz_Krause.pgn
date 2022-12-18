@@ -1,0 +1,20 @@
+[Event "Regionalliga Nord"]
+[Site "RLN 8081"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Schulz, Dietmar"]
+[Black "Krause, Ullrich"]
+[Result "1-0"]
+[ECO "C15"]
+[Opening "French"]
+[Variation "Winawer (Nimzovich) variation"]
+[HashCode "4130506d"]
+[Epoch "Rook"]
+[WhiteID "12925322"]
+[WhiteCountry "GER"]
+[BlackID "4613058"]
+[BlackCountry "GER"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. exd5 exd5 5. Bd3 Ne7 6. Qh5 Nbc6 7. Nf3 g6 8.
+Qh6 Nf5 9. Bxf5 Bxf5 10. O-O Qd7 11. Bg5 Be7 12. Bxe7 Nxe7 13. Ne5 Qe6 14. Qg7
+Rg8 15. Qxh7 Qf6 16. Nxd5 1-0

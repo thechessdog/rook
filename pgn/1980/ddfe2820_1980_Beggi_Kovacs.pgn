@@ -1,0 +1,29 @@
+[Event "Rome-B"]
+[Site "Rome"]
+[Date "1980.01.01"]
+[Round "5"]
+[White "Beggi, Pierluigi"]
+[Black "Kovacs, Laszlo M"]
+[Result "0-1"]
+[ECO "E38"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, 4...c5"]
+[HashCode "ddfe2820"]
+[Epoch "Rook"]
+[WhiteID "801127"]
+[WhiteCountry "ITA"]
+[BlackCountry "HUN"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 c5 5. dxc5 Nc6 6. Nf3 Bxc5 7. Bg5 O-O 8.
+e3 b6 9. Be2 Bb7 10. O-O h6 11. Bh4 Rc8 12. Rad1 Be7 13. Qb1 Na5 14. b3 d5 15.
+Qb2 Qe8 16. cxd5 Nxd5 17. Bb5 Qd8 18. Nxd5 Bxd5 19. e4 Bxh4 20. Nxh4 Qxh4 21.
+exd5 Rc5 22. a4 Rxd5 23. Rxd5 exd5 24. Rd1 Qb4 25. Rxd5 Nxb3 26. h3 Rc8 27. Rd3
+Qe1+ 28. Kh2 Nc5 29. Re3 Qd1 30. Qe5 Rd8 31. Rg3 Ne6 32. Qe4 Qd5 33. Qh4 Qd6
+34. Bc4 Qf4 35. Qxf4 Nxf4 36. Re3 Kf8 37. Re5 Rd4 38. Bb3 Nd3 39. Rf5 f6 40. a5
+Nc5 41. axb6 axb6 42. Ba2 Ke7 43. Rf3 Kd6 44. Rg3 g5 45. Rf3 Ke5 46. Bb1 Rd2
+47. h4 Rb2 48. Bg6 Rb3 49. Rf5+ Ke6 50. hxg5 hxg5 51. f4 Ne4 52. fxg5 Nxg5 53.
+Rf2 Nf7 54. Bh7 Rb4 55. Bg8 Ke7 56. Bxf7 Kxf7 57. Rc2 Ke6 58. Rc6+ Ke5 59. g4
+Rb1 60. Kg3 b5 61. Rb6 b4 62. Rb5+ Ke4 63. Rb6 b3 64. Re6+ Kd5 65. Rb6 Kc5 66.
+Rb8 Kc4 67. Rb6 Rg1+ 68. Kh3 Kc3 69. Rc6+ Kd4 70. Rb6 Rb1 71. Kg2 Ke5 72. Rb4
+Rb2+ 73. Kg3 Kd5 74. Rb6 Rb1 75. Kg2 Kc5 76. Rb8 Kc4 77. Rb6 Rd1 78. Kf2 Rd5
+79. Ke3 Rb5 80. Rc6+ Kd5 0-1

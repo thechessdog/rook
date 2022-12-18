@@ -1,0 +1,28 @@
+[Event "Cienfuegos B"]
+[Site "Cienfuegos B"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Pinal, Nelson"]
+[Black "Vilela, Jose Luis"]
+[Result "0-1"]
+[ECO "C03"]
+[Opening "French"]
+[Variation "Tarrasch"]
+[HashCode "c79ba0c0"]
+[Epoch "Rook"]
+[BlackCountry "EST"]
+
+1. e4 e6 2. d4 d5 3. Nd2 a6 4. Ngf3 c5 5. exd5 exd5 6. dxc5 Bxc5 7. Nb3 Ba7 8.
+Be2 Nf6 9. O-O O-O 10. Bg5 Nc6 11. c3 Re8 12. Bh4 Bg4 13. Re1 h6 14. Nfd4 Nxd4
+15. Nxd4 Bxd4 16. cxd4 Bxe2 17. Rxe2 Qd6 18. Bxf6 Qxf6 19. Re3 Rxe3 20. fxe3
+Re8 21. Qd3 Qg5 22. Re1 h5 23. a4 g6 24. Qb3 Re7 25. Qc3 Kg7 26. a5 h4 27. h3
+Re4 28. Qb3 Re7 29. Qc3 Qg3 30. Qd2 Re4 31. Qe2 f5 32. Rc1 Rxe3 33. Qc2 Re1+
+34. Rxe1 Qxe1+ 35. Kh2 Qg3+ 36. Kh1 Qe1+ 37. Kh2 Qg3+ 38. Kh1 Qe1+ 39. Kh2 Qxa5
+40. Qc8 Qb6 41. Qd7+ Kh6 42. Qxd5 Qc7+ 43. Kg1 Qc1+ 44. Kh2 Qf4+ 45. Kh1 Qc1+
+46. Kh2 Qc7+ 47. Kg1 Qe7 48. Kh1 Kg5 49. b3 Kf6 50. Qg8 Qd6 51. Qh7 b5 52.
+Qxh4+ Ke6 53. Qe1+ Kd5 54. Qc3 Ke4 55. Qa1 Kd3 56. Qd1+ Kc3 57. d5 Kb4 58. Qd4+
+Kxb3 59. h4 b4 60. g3 Ka4 61. Kh2 Kb5 62. Kh3 a5 63. Qd3+ Kc5 64. Qc2+ Kb6 65.
+Qf2+ Qc5 66. Qf3 Qd4 67. Kh2 Qd2+ 68. Kg1 Kc5 69. d6 Qxd6 70. h5 gxh5 71. Qxf5+
+Qd5 72. Qc8+ Kb5 73. Qe8+ Kc4 74. Qe2+ Kb3 75. Qe3+ Ka2 76. Qf2+ Ka3 77. Qf8
+Qd1+ 78. Kh2 Qe2+ 79. Kh1 Qe4+ 80. Kg1 h4 81. gxh4 Qxh4 82. Qc5 Qe1+ 83. Kh2
+Qd2+ 84. Kh1 a4 85. Qf8 Ka2 86. Qg8+ b3 87. Qf7 Qd1+ 88. Kh2 0-1

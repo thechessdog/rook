@@ -1,0 +1,19 @@
+[Event "Graz"]
+[Site "Graz"]
+[Date "1979.??.??"]
+[Round "11"]
+[White "Duer, Arne"]
+[Black "Watzka, Horst"]
+[Result "1/2-1/2"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "8c92eddd"]
+[Epoch "Rook"]
+[WhiteID "1600117"]
+[BlackID "1600311"]
+[WhiteCountry "AUT"]
+[BlackCountry "AUT"]
+
+1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. d4 cxd4 5. cxd4 e5 6. dxe5 Bb4+ 7. Bd2 Qxe5+
+8. Qe2 Qxe2+ 9. Bxe2 Bxd2+ 10. Nxd2 Nf6 11. Ngf3 O-O 12. O-O Nc6 1/2-1/2

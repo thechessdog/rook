@@ -1,0 +1,18 @@
+[Event "corr Netherlands"]
+[Site "corr Netherlands"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Smit, J."]
+[Black "Schenning, A."]
+[Result "1/2-1/2"]
+[ECO "D82"]
+[Opening "Gruenfeld"]
+[Variation "4.Bf4"]
+[HashCode "d50c1e3d"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Bf4 Bg7 5. e3 c5 6. dxc5 Qa5 7. Qa4+ Qxa4
+8. Nxa4 Nc6 9. Nf3 Be6 10. Nd4 Nxd4 11. exd4 dxc4 12. Be5 O-O 13. Rc1 b5
+14. cxb6 axb6 15. Nxb6 Rxa2 16. Nxc4 Rc8 17. b3 Bf8 18. Bd3 Bh6 19. Rd1 Nd5
+20. O-O 1/2-1/2
+

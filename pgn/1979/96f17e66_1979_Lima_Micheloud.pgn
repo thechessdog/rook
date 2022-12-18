@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Lima, R."]
+[Black "Micheloud, L."]
+[Result "0-1"]
+[ECO "C77"]
+[Opening "Ruy Lopez"]
+[Variation "Treybal (Bayreuth) variation (exchange var. deferred)"]
+[HashCode "96f17e66"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. Bxc6 dxc6 6. Nc3 Bg4 7. h3 Bh5
+8. d3 Bc5 9. g4 Bg6 10. Nxe5 Bxf2+ 11. Kf1 Ba7 12. Nxg6 Qd4 13. Qf3 fxg6
+14. Bf4 O-O 15. Kg2 g5 16. Bg3 Nh5 17. Qe2 Nxg3 18. Kxg3 Rf2 0-1
+

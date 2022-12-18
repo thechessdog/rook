@@ -1,0 +1,23 @@
+[Event "Perfors"]
+[Site "Perfors"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Sarink, Hendrik"]
+[Black "Endzelins, Lucius"]
+[Result "1-0"]
+[ECO "B35"]
+[Opening "Sicilian"]
+[Variation "accelerated fianchetto, modern variation with Bc4"]
+[HashCode "7369a7a4"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. Bc4 O-O
+8. Bb3 d6 9. f3 Bd7 10. Qd2 Nxd4 11. Bxd4 b5 12. h4 a5 13. a4 bxa4 14. Nxa4
+e5 15. Be3 Be6 16. O-O-O Bxb3 17. cxb3 Qb8 18. Nb6 Ra6 19. Qxd6 Qb7 20. Kb1
+h5 21. Rd3 Rb8 22. Rc1 Ne8 23. Qd5 Rxb6 24. Bxb6 Qxb6 25. Rc6 Qg1+ 26. Ka2
+Qxg2 27. Qxa5 Qf2 28. Rd8 Rxd8 29. Qxd8 Qa7+ 30. Kb1 Kf8 31. b4 Qe7 32. Qa5
+Bf6 33. b5 Qd7 34. Rc3 Bxh4 35. b6 Bf2 36. Rb3 Nd6 37. Qd5 Qe6 38. Qxe6
+fxe6 39. b7 Nxb7 40. Rxb7 h4 41. b4 Kg8 42. Rc7 h3 43. Rc1 h2 44. Rh1 Bg1
+45. b5 Kf7 46. b6 Bxb6 47. Rxh2 Be3 48. Kc2 Ke7 49. Kd3 Bf4 50. Rg2 g5 51.
+Ra2 Kd6 52. Ra7 Kc6 53. Ke2 Kd6 54. Kf2 Kc6 55. Kg2 1-0
+

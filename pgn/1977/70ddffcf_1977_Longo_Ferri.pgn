@@ -1,0 +1,17 @@
+[Event "corr Italy"]
+[Site "corr Italy"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Longo"]
+[Black "Ferri"]
+[Result "1-0"]
+[ECO "B43"]
+[Opening "Sicilian"]
+[Variation "Kan, 5.Nc3"]
+[HashCode "70ddffcf"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 Qc7 6. Bd3 b5 7. O-O Bb7 8.
+Re1 Bc5 9. Be3 Nf6 10. Ndxb5 axb5 11. Nxb5 Qc6 12. Bxc5 Qxc5 13. e5 Nd5 14.
+Nd6+ Kf8 15. Qh5 g6 16. Bxg6 1-0
+

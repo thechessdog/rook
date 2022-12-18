@@ -1,0 +1,19 @@
+[Event "URS-ch U26"]
+[Site "Vilnius"]
+[Date "1978.01.01"]
+[Round "13"]
+[White "Psakhis, Lev"]
+[Black "Gavrikov, Viktor"]
+[Result "1-0"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (without ...d6)"]
+[HashCode "34de5396"]
+[Epoch "Rook"]
+[WhiteID "2800012"]
+[WhiteCountry "ISR"]
+[BlackID "24131849"]
+[BlackCountry "RUS"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 Nf6 4. Nc3 d6 5. e5 dxe5 6. Nxe5 Qc7 7. Nxc6 bxc6 8.
+Bc4 Bf5 9. d3 h6 10. Qf3 e6 11. Bf4 Bd6 12. Nb5 Qa5+ 13. Bd2 1-0

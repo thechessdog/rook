@@ -1,0 +1,18 @@
+[Event "Riga"]
+[Site "Riga"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Shur"]
+[Black "Lanka"]
+[Result "0-1"]
+[ECO "C82"]
+[Opening "Ruy Lopez"]
+[Variation "open, Berlin variation"]
+[HashCode "05373b43"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8.
+dxe5 Be6 9. c3 Nc5 10. Bc2 Bg4 11. Qe2 Be7 12. Rd1 Qd7 13. Nbd2 Rd8 14. Nf1
+d4 15. Bf4 d3 16. Qe3 O-O 17. b4 Bxf3 18. gxf3 Qe6 19. Bb1 Nd7 20. Re1 Qg6+
+21. Kh1 Nb6 22. Nd2 Nd5 23. Qe4 Nxf4 0-1
+

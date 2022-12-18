@@ -1,0 +1,20 @@
+[Event "Reykjavik"]
+[Site "Reykjavik"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Halldorsson, Bragi"]
+[Black "Gudmundsson"]
+[Result "0-1"]
+[ECO "D58"]
+[Opening "QGD"]
+[Variation "Tartakower (Makagonov-Bondarevsky) system"]
+[HashCode "e50fcf26"]
+[Epoch "Rook"]
+[WhiteID "2300907"]
+[WhiteCountry "ISL"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Nf3 Be7 5. Bg5 h6 6. Bh4 O-O 7. e3 b6 8. Rc1
+Bb7 9. Bd3 c5 10. O-O Nbd7 11. Qe2 dxc4 12. Bxc4 Ne4 13. Bg3 Nxg3 14. hxg3 a6
+15. Rfd1 b5 16. dxc5 bxc4 17. Ne5 Nxe5 18. Rxd8 Rfxd8 19. Na4 Rac8 20. b4 cxb3
+21. axb3 Nd3 22. Rb1 Nxc5 23. Nb6 Rb8 24. Nc4 Be4 25. Ra1 Bd3 26. Qg4 Nxb3 27.
+Rxa6 Rb4 28. Rc6 Na5 29. Rxe6 Rxc4 0-1

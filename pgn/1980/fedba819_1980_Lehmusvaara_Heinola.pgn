@@ -1,0 +1,21 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Lehmusvaara, E."]
+[Black "Heinola, Kari P."]
+[Result "0-1"]
+[ECO "C57"]
+[Opening "two knights defence"]
+[Variation "Wilkes Barre (Traxler) variation"]
+[HashCode "fedba819"]
+[Epoch "Rook"]
+[BlackID "503495"]
+[BlackCountry "FIN"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 Bc5 5. Nxf7 Bxf2+ 6. Kf1 Qe7 7. Nxh8 d5
+8. exd5 Nd4 9. h3 Bh4 10. c3 Nf5 11. d4 e4 12. Qa4+ Bd7 13. Qb4 Nd6 14. Be3
+O-O-O 15. Nd2 Nh5 16. Rg1 Ng3+ 17. Ke1 Ngf5+ 18. Ke2 Nxe3 19. Kxe3 Qg5+ 20. Ke2
+Bg4+ 21. hxg4 Qxg4+ 22. Nf3 exf3+ 23. gxf3 Qh3 24. Nf7 Nxf7 25. d6 Qh2+ 26. Kd3
+Re8 27. d7+ Kxd7 28. Bb5+ c6 29. Bxc6+ bxc6 30. Qb7+ Kd6 31. Qb4+ Kc7 32. Kc4
+Qe2+ 0-1

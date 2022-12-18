@@ -1,0 +1,18 @@
+[Event "corr Wch sf"]
+[Site "corr Wch sf"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Berry, Jonathan"]
+[Black "Soltau, A."]
+[Result "1/2-1/2"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "b85d42f1"]
+[Epoch "Rook"]
+[WhiteID "2600463"]
+[WhiteCountry "CAN"]
+
+1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. d4 e6 5. Nf3 Nf6 6. Bd3 Nc6 7. O-O Be7 8. c4
+Qh5 9. Be2 O-O 10. Nbd2 cxd4 11. Nxd4 Qg6 12. Nxc6 bxc6 13. Bf3 Bb7 14. Qb3
+Rfb8 15. Re1 Nd7 16. Be4 f5 17. Bc2 c5 1/2-1/2

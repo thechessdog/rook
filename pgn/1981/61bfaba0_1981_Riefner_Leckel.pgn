@@ -1,0 +1,28 @@
+[Event "Bundesliga 8081"]
+[Site "Duitsland tt"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Riefner, Edwin"]
+[Black "Leckel, Helmut"]
+[Result "1-0"]
+[ECO "C65"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence, Beverwijk variation"]
+[HashCode "61bfaba0"]
+[Epoch "Rook"]
+[WhiteID "4607465"]
+[WhiteCountry "GER"]
+[BlackID "4617568"]
+[BlackCountry "GER"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. O-O Nf6 5. Nxe5 Nxe4 6. Qe2 Nxe5 7. Qxe4 Qe7
+8. Re1 Ng6 9. Nc3 c6 10. Qxe7+ Bxe7 11. Bd3 d5 12. Bxg6 hxg6 13. b3 Be6 14. Ne2
+Bf6 15. Rb1 Kd7 16. Bb2 g5 17. Bxf6 gxf6 18. f4 Rh4 19. Rf1 Kd6 20. Rf2 a5 21.
+a3 c5 22. d4 b6 23. Rd1 Re8 24. dxc5+ bxc5 25. Nc3 gxf4 26. Nxd5 Bxd5 27. c4
+Re5 28. Rfd2 Re3 29. Rxd5+ Ke7 30. R1d3 Re2 31. Rd2 Re3 32. Rxc5 Rxb3 33. Rxa5
+Rb1+ 34. Kf2 Rxh2 35. Rf5 Rhh1 36. Re2+ Kf8 37. Rxf4 Rhf1+ 38. Kg3 Rb3+ 39. Kg4
+Ra1 40. Rxf6 Raxa3 41. Rf3 Rxf3 42. gxf3 Ra5 43. Rc2 Rc5 44. Kf4 Ke7 45. Ke4
+Kd6 46. Kd4 Rf5 47. Ke4 Re5+ 48. Kf4 Rc5 49. Ke4 Re5+ 50. Kd4 Rf5 51. Rc3 Rf4+
+52. Ke3 Rf5 53. Ra3 Rc5 54. Rd3+ Ke6 55. Rd4 Ra5 56. Rd3 Rc5 57. Rd4 Ra5 58. f4
+Ra3+ 59. Kd2 Kf5 60. Kc2 Kg4 61. Kb2 Re3 62. c5 f5 63. c6 Re6 64. Rc4 Re8 65.
+Kc3 Rd8 66. Kb4 1-0

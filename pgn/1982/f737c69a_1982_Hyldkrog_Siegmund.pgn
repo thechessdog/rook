@@ -1,0 +1,27 @@
+[Event "corr EU"]
+[Site "corr EU"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Hyldkrog, Lars"]
+[Black "Siegmund"]
+[Result "1-0"]
+[ECO "B46"]
+[Opening "Sicilian"]
+[Variation "Taimanov variation"]
+[HashCode "f737c69a"]
+[Epoch "Rook"]
+[WhiteID "1402781"]
+[WhiteCountry "DEN"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e6 5. Nc3 a6 6. g3 Qc7 7. Bg2 Nf6 8. O-O
+Be7 9. Re1 Nxd4 10. Qxd4 Bc5 11. Qd1 d6 12. Be3 O-O 13. Qd2 Bd7 14. a3 Bc6 15.
+Rad1 Bxe3 16. Rxe3 Rfd8 17. Rd3 Ne8 18. Qg5 Rd7 19. g4 h6 20. Qh5 Qd8 21. e5
+Bxg2 22. Kxg2 Qb6 23. b3 f6 24. Qg6 Qc6+ 25. Kg1 d5 26. Ne4 fxe5 27. Rc3 dxe4
+28. Rxc6 Rxd1+ 29. Kg2 bxc6 30. Qxe6+ Kf8 31. Qxc6 Ra7 32. Qxe4 Rd4 33. Qxe5
+Rxg4+ 34. Kf1 Rg5 35. Qe6 Rf7 36. Qxa6 Rgf5 37. Qb6 R7f6 38. Qe3 Nd6 39. a4 Rf4
+40. a5 Ne4 41. Ke1 Nxf2 42. Qa7 Re4+ 43. Kd2 Ree6 44. b4 Re7 45. Qa8+ Re8 46.
+Qb7 Re7 47. Qc8+ Re8 48. Qc4 Rd6+ 49. Kc1 Re1+ 50. Kb2 Nd1+ 51. Ka2 Re3 52.
+Qc8+ Ke7 53. Qc7+ Rd7 54. Qc5+ Ke6 55. Qc6+ Rd6 56. Qe8+ Kf6 57. Qf8+ Ke6 58.
+Ka1 Re4 59. Qe8+ Kd5 60. Qh5+ Kc6 61. b5+ Kd7 62. Qf7+ Re7 63. Qf5+ Ree6 64. a6
+Ne3 65. Qc5 Rxa6+ 66. bxa6 Rxa6+ 67. Kb2 Nxc2 68. Qxc2 Ke7 69. Qc7+ Kf6 70.
+Qd8+ Ke5 71. Qe7+ Kf5 72. Qxg7 1-0

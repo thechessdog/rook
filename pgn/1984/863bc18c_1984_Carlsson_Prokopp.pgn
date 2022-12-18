@@ -1,0 +1,21 @@
+[Event "corr EUR/K"]
+[Site "corr EUR/K"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Carlsson"]
+[Black "Prokopp"]
+[Result "1-0"]
+[ECO "E54"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Gligoric system with 7...dc"]
+[HashCode "863bc18c"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 c5 7. O-O dxc4 8.
+Bxc4 Bd7 9. Qe2 Bc6 10. Rd1 Qe7 11. d5 exd5 12. Nxd5 Nxd5 13. Bxd5 Bxd5 14.
+Rxd5 Nc6 15. a3 Ba5 16. Qc4 Rfd8 17. e4 Rxd5 18. exd5 Ne5 19. Nxe5 Qxe5 20.
+Be3 Qxb2 21. Rd1 Qxa3 22. d6 Qb4 23. Qd5 c4 24. d7 Bd8 25. Bc5 Qb5 26. Qd6
+h6 27. Qf8+ Kh7 28. Bd4 Qg5 29. Qxf7 c3 30. Bxc3 Bb6 31. h4 Qg4 32. Rd3 Rd8
+33. Bf6 Bxf2+ 34. Kf1 Bxh4 35. Bxd8 Bxd8 36. Qf3 Qg6 37. g4 a5 38. Qf5 a4
+39. Re3 1-0
+

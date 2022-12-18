@@ -1,0 +1,16 @@
+[Event "Ohio"]
+[Site "Ohio"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Wall, Bill"]
+[Black "Pelan, D."]
+[Result "1-0"]
+[ECO "A03"]
+[Opening "Bird's opening"]
+[HashCode "8daabd46"]
+[Epoch "Rook"]
+[WhiteCountry "USA"]
+
+1. f4 d5 2. g3 Nf6 3. Nh3 Nc6 4. Bg2 e5 5. O-O Bc5+ 6. e3 Ng4 7. a3 a6 8. b4
+Bb6 9. Nc3 e4 10. Ng5 d4 11. Ncxe4 dxe3 12. dxe3 Bxe3+ 13. Bxe3 Qxd1 14. Rfxd1
+Nxe3 15. Re1 Nxc2 16. Nf6+ Kd8 17. Nxf7# 1-0

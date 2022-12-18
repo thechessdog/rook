@@ -1,0 +1,21 @@
+[Event "Reykjavik op"]
+[Site "Reykjavik"]
+[Date "1984.??.??"]
+[Round "6"]
+[White "Wesseln, Kai"]
+[Black "Angantysson, Haukur"]
+[Result "1-0"]
+[ECO "A77"]
+[Opening "Benoni"]
+[Variation "classical, 9...Re8, 10.Nd2"]
+[HashCode "129fc0e1"]
+[Epoch "Rook"]
+[BlackCountry "ISL"]
+[WhiteID "4601106"]
+[WhiteCountry "GER"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. Nd2 Bg7 8. e4
+O-O 9. Be2 Re8 10. O-O Nbd7 11. f4 c4 12. e5 dxe5 13. Nxc4 exf4 14. Bxf4 Ne4
+15. Bf3 Ndc5 16. Nxe4 Nxe4 17. Re1 Bf5 18. d6 b5 19. d7 Re6 20. Qd5 bxc4 21.
+Bxe4 Qb6+ 22. Be3 Bxe4 23. Qxa8+ Bxa8 24. Bxb6 Bf6 25. Rxe6 fxe6 26. d8=Q+ Bxd8
+27. Bxd8 Kf7 28. b3 Bd5 29. bxc4 Bxc4 30. a3 1-0

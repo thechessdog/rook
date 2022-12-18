@@ -1,0 +1,23 @@
+[Event "Randers I zt"]
+[Site "Randers I zt"]
+[Date "1982.01.01"]
+[Round "6"]
+[White "Birnboim, Nathan"]
+[Black "Arnason, Jon L"]
+[Result "0-1"]
+[ECO "A64"]
+[Opening "Benoni"]
+[Variation "fianchetto, 11...Re8"]
+[HashCode "dec3e979"]
+[Epoch "Rook"]
+[WhiteID "2800209"]
+[WhiteCountry "ISR"]
+[BlackID "2300036"]
+[BlackCountry "ISL"]
+
+1. d4 Nf6 2. c4 e6 3. g3 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. Bg2 Bg7 8. Nf3
+O-O 9. O-O a6 10. a4 Nbd7 11. Nd2 Re8 12. h3 Rb8 13. Nc4 Ne5 14. Na3 Nh5 15. e4
+Rf8 16. Kh2 f5 17. f4 b5 18. fxe5 Nxg3 19. Kxg3 Bxe5+ 20. Kf2 Qh4+ 21. Kg1 Qg3
+22. Rf3 Qh2+ 23. Kf1 Bd7 24. Nc4 bxc4 25. Ra3 fxe4 26. Nxe4 Bxh3 27. Bxh3 Qxh3+
+28. Ke2 Qg2+ 29. Nf2 c3 30. Rxf8+ Rxf8 31. Be3 Qf3+ 32. Kd3 c4+ 33. Kxc4 Qxe3
+34. Ng4 Rf4+ 35. Kb3 Qb6+ 36. Kc2 0-1

@@ -1,0 +1,21 @@
+[Event "Albena"]
+[Site "Albena"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Spassov, Liuben"]
+[Black "Danner, Georg"]
+[Result "1/2-1/2"]
+[ECO "A65"]
+[Opening "Benoni"]
+[Variation "6.e4"]
+[HashCode "6b3c7b56"]
+[Epoch "Rook"]
+[WhiteID "2900220"]
+[WhiteCountry "FID"]
+[BlackID "1600303"]
+[BlackCountry "AUT"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. f3 Bg7 8. Bg5 h6
+9. Be3 O-O 10. Qd2 Kh7 11. Nge2 Na6 12. Ng3 Nc7 13. Be2 Rb8 14. a4 a6 15. Rb1
+b5 16. axb5 Nxb5 17. Nxb5 axb5 18. b4 c4 19. O-O Ra8 20. Bd4 Bb7 21. Ra1 Qe7
+22. Qb2 h5 23. Rxa8 Rxa8 24. Bd1 Ne8 25. Bxg7 Nxg7 26. Ne2 Bc8 1/2-1/2

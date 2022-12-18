@@ -1,0 +1,18 @@
+[Event "Gausdal Int"]
+[Site "Gausdal"]
+[Date "1983.??.??"]
+[Round "?"]
+[White "Madsen, Pa"]
+[Black "Karlsson, Hilmar"]
+[Result "0-1"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "classical attack"]
+[HashCode "223f1fb7"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 Be7 6. Bd3 d5 7. O-O Nd6
+8. Bf4 O-O 9. Re1 Re8 10. Nc3 c6 11. h4 Nd7 12. Ng5 Nf8 13. Qf3 Be6 14.
+Rxe6 fxe6 15. Bxd6 Bxg5 16. Bxf8 Rxf8 17. Qh5 Bh6 18. g4 Qf6 19. Rf1 Qf3
+20. Be2 Qh3 21. g5 Rf4 0-1
+

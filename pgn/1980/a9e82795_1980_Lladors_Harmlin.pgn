@@ -1,0 +1,19 @@
+[Event "corr Wcup3"]
+[Site "corr Wcup3"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Lladors"]
+[Black "Harmlin"]
+[Result "0-1"]
+[ECO "B50"]
+[Opening "Sicilian"]
+[HashCode "a9e82795"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. c3 dxc3 5. Nxc3 Nc6 6. Bc4 e6 7. O-O Nge7
+8. Bg5 a6 9. Qe2 h6 10. Be3 Ng6 11. Rad1 Be7 12. Nd4 Nxd4 13. Bxd4 e5 14.
+Be3 O-O 15. Nd5 Be6 16. Nb6 Bxc4 17. Qxc4 Rb8 18. Qa4 Nf4 19. Rd2 Bg5 20.
+Qd7 Ne6 21. Qxd6 Bxe3 22. fxe3 Nc5 23. Rfd1 Qxd6 24. Rxd6 Nxe4 25. R6d5
+Rfe8 26. Kf1 Nf6 27. Rc5 Rbd8 28. Rxd8 Rxd8 29. Ke2 Ne4 30. Rc2 Rd6 31.
+Rc8+ Kh7 32. Nc4 Rd5 33. a4 b5 0-1
+

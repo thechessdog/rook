@@ -1,0 +1,21 @@
+[Event "OHRA"]
+[Site "Amsterdam / Arnhem"]
+[Date "1983.07.01"]
+[Round "1"]
+[White "De Roode, Peter"]
+[Black "Van der Sterren, Paul"]
+[Result "1-0"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "classical variation (5.Bf4)"]
+[HashCode "806d571b"]
+[Epoch "Rook"]
+[WhiteID "1001140"]
+[WhiteCountry "NED"]
+[BlackID "1000071"]
+[BlackCountry "NED"]
+
+1. c4 e6 2. Nc3 d5 3. d4 Nf6 4. Nf3 Be7 5. Bf4 O-O 6. e3 c5 7. dxc5 Bxc5 8. Qc2
+Nc6 9. Rd1 Qa5 10. a3 Be7 11. Rd2 Rd8 12. Be2 Ne4 13. Nxe4 dxe4 14. Qxe4 e5 15.
+Bg3 f5 16. Qc2 e4 17. Nd4 Nxd4 18. exd4 Bg5 19. Be5 Be6 20. h4 Bh6 21. Rh3
+Bxd2+ 22. Qxd2 Qxd2+ 23. Kxd2 f4 24. Rb3 Rd7 25. g3 fxg3 1-0

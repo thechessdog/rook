@@ -1,0 +1,18 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Steffan, J."]
+[Black "Wolff, G."]
+[Result "1-0"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Byrne (English) attack"]
+[HashCode "aa71873e"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 Ng4 7. Bc4 Qc7
+8. Bb3 Nxe3 9. fxe3 e6 10. O-O Nc6 11. Qg4 Ne5 12. Qg3 g6 13. h4 Qe7 14.
+Rf2 Bh6 15. Rd1 Bd7 16. Rfd2 Rd8 17. a4 O-O 18. Nf5 exf5 19. Nd5 Bxe3+ 20.
+Kh1 1-0
+

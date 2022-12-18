@@ -1,0 +1,23 @@
+[Event "Nederland tt"]
+[Site "Nederland tt"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "De Boer, Gert-Jan"]
+[Black "Timman, Jan H"]
+[Result "1-0"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Nimzovich (knight's tour) variation"]
+[HashCode "237ed707"]
+[Epoch "Rook"]
+[BlackID "1000012"]
+[BlackCountry "NED"]
+[WhiteID "1000233"]
+[WhiteCountry "NED"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. Nd2 Nbd7 8. e4
+Bg7 9. Be2 O-O 10. O-O Re8 11. a4 Ne5 12. Ra3 g5 13. Re1 Nfg4 14. Nf1 Nh6 15.
+Ng3 Ng6 16. Bd2 f5 17. Bb5 Re5 18. exf5 Nxf5 19. Nce4 Nf4 20. Nh5 Nxh5 21. Qxh5
+Qe7 22. Bd3 h6 23. f4 gxf4 24. Bxf4 Bd7 25. Bxe5 Qxe5 26. Raa1 Qd4+ 27. Nf2 Rf8
+28. Re4 Qxb2 29. Rb1 Qd2 30. Re2 Qc3 31. Qg6 Rf6 32. Re8+ Bxe8 33. Qxe8+ Rf8
+34. Qe6+ Kh8 35. Bxf5 Bd4 36. Qxh6+ 1-0

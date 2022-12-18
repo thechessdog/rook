@@ -1,0 +1,22 @@
+[Event "Karlovac"]
+[Site "Karlovac"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Nemet, Ivan"]
+[Black "Rogulj, Branko"]
+[Result "0-1"]
+[ECO "A76"]
+[Opening "Benoni"]
+[Variation "classical, 9...Re8"]
+[HashCode "1c26c22c"]
+[Epoch "Rook"]
+[BlackID "14500213"]
+[BlackCountry "CRO"]
+[WhiteCountry "CHE"]
+
+1. d4 Nf6 2. Nf3 c5 3. d5 e6 4. c4 exd5 5. cxd5 d6 6. Nc3 g6 7. e4 Bg7 8. Be2
+O-O 9. O-O Re8 10. Qc2 Na6 11. Re1 Bg4 12. Bf4 c4 13. Bxc4 Bxf3 14. gxf3 Nh5
+15. Bg3 Be5 16. Bf1 Qf6 17. Qd2 Nc5 18. Rac1 Bf4 19. Re3 a6 20. Bh3 Rad8 21. b4
+Nd7 22. Ne2 Bxe3 23. Qxe3 Qb2 24. Bh4 Ndf6 25. Nf4 Rb8 26. Nd3 Qa3 27. Qd2 a5
+28. Rc3 Qa4 29. Rc7 axb4 30. Nf4 Qa5 31. Nxh5 Nxh5 32. Rd7 Qa3 33. Bg4 Qc3 34.
+Qh6 Nf6 35. Rxd6 Nxg4 36. fxg4 Rxe4 37. Bf6 Rxg4+ 38. Kf1 Qd3+ 39. Ke1 Rg1# 0-1

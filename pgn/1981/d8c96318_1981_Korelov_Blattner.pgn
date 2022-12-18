@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Korelov, Alexander P"]
+[Black "Blattner, K."]
+[Result "1-0"]
+[ECO "E15"]
+[Opening "Queen's Indian"]
+[Variation "4.g3 Bb7"]
+[HashCode "d8c96318"]
+[Epoch "Rook"]
+[WhiteID "4103858"]
+[WhiteCountry "RUS"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2 c5 6. d5 d6 7. Nc3 Be7 8. O-O O-O
+9. dxe6 fxe6 10. Bh3 e5 11. Ng5 Qe8 12. Ne6 Qh5 13. Bg2 Ng4 14. h3 Bxg2 15.
+Kxg2 Nxf2 16. Rxf2 Rxf2+ 17. Kxf2 Qf7+ 18. Nf4 exf4 19. Bxf4 Qxc4 20. Qh1 d5
+21. Nxd5 1-0

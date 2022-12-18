@@ -1,0 +1,21 @@
+[Event "Bayamo"]
+[Site "Bayamo"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Armas Gutierrez, Jorge Enrique"]
+[Black "Garcia, Gildardo"]
+[Result "0-1"]
+[ECO "B68"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...a6 defence, 9...Be7"]
+[HashCode "167d47e1"]
+[Epoch "Rook"]
+[BlackID "4400020"]
+[BlackCountry "COL"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 e6 7. Qd2 a6 8.
+O-O-O Bd7 9. f4 Be7 10. Nf3 b5 11. Bd3 b4 12. Ne2 Qb6 13. h3 O-O 14. g4 a5 15.
+f5 b3 16. cxb3 Nb4 17. Nc3 a4 18. Be3 Qb7 19. a3 axb3 20. Kb1 Na2 21. Nd4 Rfc8
+22. Nde2 Bc6 23. Bg5 Nxc3+ 24. Nxc3 Bxe4 25. Bxf6 Bxd3+ 26. Qxd3 Bxf6 27. Ne4
+Be5 28. Nxd6 Rc2 29. Nc4 Bf6 30. Rhe1 h6 31. fxe6 fxe6 32. Rc1 Rd8 33. Qe3 Rc8
+34. Qxe6+ Kh8 35. Rxc2 bxc2+ 36. Kc1 Rxc4 0-1

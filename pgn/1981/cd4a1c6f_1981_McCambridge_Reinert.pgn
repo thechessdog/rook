@@ -1,0 +1,24 @@
+[Event "Politiken Cup"]
+[Site "Copenhagen"]
+[Date "1981.01.01"]
+[Round "2"]
+[White "McCambridge, Vincent"]
+[Black "Reinert, Mads"]
+[Result "1/2-1/2"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Nimzovich (knight's tour) variation"]
+[HashCode "cd4a1c6f"]
+[Epoch "Rook"]
+[WhiteID "2000342"]
+[WhiteCountry "USA"]
+[BlackID "1400487"]
+[BlackCountry "DEN"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. Nd2 Bg7 8. Nc4
+O-O 9. Bg5 h6 10. Bh4 g5 11. Bg3 Ne8 12. e4 Qe7 13. Be2 Nd7 14. O-O Ne5 15.
+Nxe5 Bxe5 16. f4 Bd4+ 17. Kh1 Nf6 18. e5 Bxc3 19. exd6 Qxd6 20. fxg5 Qxd5 21.
+bxc3 Qxd1 22. Raxd1 Ne4 23. gxh6 Nxc3 24. Bd3 Nxd1 25. h7+ Kg7 26. Be5+ Kh6 27.
+Rxf7 Bf5 28. Rxf8 Rxf8 29. Bxf5 Ne3 30. Bd3 Ng4 31. h8=Q+ Rxh8 32. Bxh8 Nf2+
+33. Kg1 Nxd3 34. Kf1 b5 35. Bc3 b4 36. Bd2+ Kg6 37. Ke2 c4 38. Ke3 a5 39. Kd4
+Nb2 40. h3 b3 41. axb3 cxb3 42. Kc3 Nc4 43. Bf4 b2 44. Kc2 Kf5 1/2-1/2

@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Kaiser, R."]
+[Black "Rau, J."]
+[Result "1-0"]
+[ECO "B25"]
+[Opening "Sicilian"]
+[Variation "closed, 6.f4"]
+[HashCode "a38c026d"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. f4 e6 7. Nf3 Nge7 8.
+O-O O-O 9. Ne2 f5 10. c3 b6 11. Ng5 h6 12. Nh3 Rb8 13. Be3 Qc7 14. Qd2 Kh7
+15. Rad1 d5 16. Nf2 dxe4 17. dxe4 Rd8 18. Qc2 Ba6 19. Rxd8 Rxd8 20. Rd1 Na5
+21. Rxd8 Qxd8 22. h4 Qd3 23. Nxd3 1-0
+

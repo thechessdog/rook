@@ -1,0 +1,20 @@
+[Event "Sweden"]
+[Site "Sweden"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Johansson, Mikael"]
+[Black "Kinnmark, Ove"]
+[Result "0-1"]
+[ECO "E24"]
+[Opening "Nimzo-Indian"]
+[Variation "Saemisch variation"]
+[HashCode "1cdfdea2"]
+[Epoch "Rook"]
+[BlackCountry "SWE"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. a3 Bxc3+ 5. bxc3 d6 6. f3 Qe7 7. e4 e5 8. Bd3
+O-O 9. Bg5 h6 10. Be3 Nc6 11. Ne2 Re8 12. g4 Nh7 13. h4 Qf6 14. Ng3 exd4 15.
+Nh5 Qe5 16. cxd4 Nxd4 17. f4 Qa5+ 18. Kf2 Ne6 19. Bc2 Nc5 20. Qd4 f6 21. g5 Bg4
+22. Nxf6+ gxf6 23. g6 Rf8 24. gxh7+ Kh8 25. f5 Qb6 26. e5 Bxf5 27. Bxf5 fxe5
+28. Qg4 Qb2+ 29. Kg3 Qc3 30. Rae1 Rf7 31. Bg6 Rf4 32. Qh5 Raf8 33. Qxh6 Rf3+
+34. Kg2 Qb2+ 35. Kg1 Rg3# 0-1

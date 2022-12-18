@@ -1,0 +1,25 @@
+[Event "Reykjavik op"]
+[Site "Reykjavik"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Bischoff, Klaus"]
+[Black "Westerinen, Heikki M.J."]
+[Result "1-0"]
+[ECO "D45"]
+[Opening "QGD semi-Slav"]
+[Variation "Stoltz variation"]
+[HashCode "d26b4dc3"]
+[Epoch "Rook"]
+[BlackID "500020"]
+[BlackCountry "FIN"]
+[WhiteID "4600045"]
+[WhiteCountry "GER"]
+
+1. c4 e6 2. Nf3 d5 3. d4 c6 4. Nc3 Nf6 5. e3 Nbd7 6. Qc2 Bd6 7. Bd2 O-O 8.
+O-O-O e5 9. cxd5 Nxd5 10. Nxd5 cxd5 11. dxe5 Nxe5 12. Bc3 Nxf3 13. gxf3 Be6 14.
+Rg1 f6 15. Bd3 Rf7 16. Bxh7+ Kf8 17. Bf5 Qc8 18. Rxd5 Be5 19. Bxe6 Qxe6 20. Qe4
+Qh3 21. Bb4+ Kg8 22. f4 Bc7 23. Qg6 Qh7 24. Qxh7+ Kxh7 25. Bc3 Re8 26. Rh5+ Kg8
+27. Rh6 Re6 28. h4 Bb6 29. Rhg6 Kh7 30. h5 Rc6 31. Kd2 Bc5 32. Ke2 b5 33. f5 b4
+34. Be5 Bf8 35. Bd4 Ra6 36. Ra1 Ra5 37. e4 b3 38. a4 Re7 39. Kf3 Ra6 40. h6 Rd7
+41. Be3 gxh6 42. Rh1 Kh8 43. Rhg1 Kh7 44. Bxh6 Bxh6 45. Rh1 Rg7 46. Rgxh6+ Kg8
+47. Rh8+ Kf7 48. Rb8 1-0

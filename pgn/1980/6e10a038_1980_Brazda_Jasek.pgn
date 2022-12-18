@@ -1,0 +1,20 @@
+[Event "corr ch-CSSR"]
+[Site "corr ch-CSSR"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Brazda"]
+[Black "Jasek"]
+[Result "0-1"]
+[ECO "C15"]
+[Opening "French"]
+[Variation "Winawer, Alekhine gambit, Kan variation"]
+[HashCode "6e10a038"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. Ne2 dxe4 5. a3 Bxc3+ 6. Nxc3 Nc6 7. Bb5 Ne7
+8. O-O O-O 9. Bxc6 Nxc6 10. d5 exd5 11. Qxd5 Nd4 12. Bg5 Qxd5 13. Nxd5 Ne6
+14. Be3 Re8 15. Rad1 b6 16. f3 f5 17. fxe4 fxe4 18. Bf4 c6 19. Nb4 c5 20.
+Nd5 Bb7 21. c4 Rad8 22. a4 Nd4 23. Rfe1 Bxd5 24. cxd5 Rxd5 25. Be3 Rdd8 26.
+Bxd4 cxd4 27. Kf2 Kf7 28. Kg3 Kf6 29. Kf4 g5+ 30. Kg4 d3 31. Re3 Ke5 32.
+Kh3 Kd4 0-1
+

@@ -1,0 +1,19 @@
+[Event "Agard"]
+[Site "Agard"]
+[Date "1976.01.01"]
+[Round "3"]
+[White "Sapi, Laszlo"]
+[Black "Estrin, Yakov Borisovich"]
+[Result "1/2-1/2"]
+[ECO "E55"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Gligoric system, Bronstein variation"]
+[HashCode "4b8a907d"]
+[Epoch "Rook"]
+[WhiteID "701513"]
+[WhiteCountry "HUN"]
+[BlackCountry "RUS"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 d5 6. Nf3 O-O 7. O-O dxc4 8. Bxc4
+Nbd7 9. a3 cxd4 10. axb4 dxc3 11. bxc3 Qc7 12. Qb3 Nb6 13. Be2 e5 14. Ra5 Be6
+15. Qc2 Nbd7 16. Bb2 1/2-1/2

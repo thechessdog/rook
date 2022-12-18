@@ -1,0 +1,21 @@
+[Event "HUN-ch"]
+[Site "Budapest"]
+[Date "1977.??.??"]
+[Round "?"]
+[White "Farago, Ivan"]
+[Black "Rigo, Janos"]
+[Result "1-0"]
+[ECO "E47"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 O-O, 5.Bd3"]
+[HashCode "50a767bf"]
+[Epoch "Rook"]
+[WhiteID "700134"]
+[BlackID "700371"]
+[WhiteCountry "HUN"]
+[BlackCountry "HUN"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 c5 6. Nf3 b6 7. O-O Bxc3 8. bxc3
+Bb7 9. Re1 Ne4 10. Nd2 f5 11. f3 Ng5 12. e4 fxe4 13. Nxe4 Nxe4 14. Bxe4 d5 15.
+cxd5 exd5 16. Bc2 c4 17. Qe2 Nd7 18. Qe6+ Kh8 19. Qh3 Nf6 20. Bg5 Qc7 21. Re5
+Rad8 22. Rae1 Rd7 23. Re8 Rf7 24. Bxf6 gxf6 25. Qh6 Qd6 26. Bxh7 1-0

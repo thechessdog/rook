@@ -1,0 +1,19 @@
+[Event "Thessaloniki olm"]
+[Site "Thessaloniki olm"]
+[Date "1984.11.01"]
+[Round "1"]
+[White "Gamarra Caceres, Carlos"]
+[Black "Gunawan, Ronny"]
+[Result "0-1"]
+[ECO "E77"]
+[Opening "King's Indian"]
+[Variation "Four pawns attack, Florentine gambit"]
+[HashCode "f3635bf2"]
+[Epoch "Rook"]
+[BlackID "7100035"]
+[BlackCountry "INA"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f4 O-O 6. Nf3 c5 7. d5 e6 8. Be2 exd5
+9. e5 dxe5 10. fxe5 Ng4 11. Bg5 Qa5 12. cxd5 Nxe5 13. O-O Nxf3+ 14. Rxf3 Bd4+
+15. Kh1 f6 16. Bh6 Re8 17. Nb5 Qd8 18. d6 Nc6 19. Nc7 Be6 20. Nxe6 Rxe6 21. Bc4
+Qd7 22. Qb3 0-1

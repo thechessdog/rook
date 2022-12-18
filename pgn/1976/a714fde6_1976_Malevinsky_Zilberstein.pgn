@@ -1,0 +1,19 @@
+[Event "RSFSR"]
+[Site "RSFSR"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Malevinsky"]
+[Black "Zilberstein"]
+[Result "1/2-1/2"]
+[ECO "B97"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7...Qb6"]
+[HashCode "a714fde6"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qb6 8.
+Nb3 Nbd7 9. Qf3 Qc7 10. a4 b6 11. Bd3 Bb7 12. O-O Be7 13. Qh3 h6 14. f5 e5
+15. Rf3 d5 16. exd5 Nxd5 17. Bxe7 Nxc3 18. f6 gxf6 19. Bxf6 Nxf6 20. bxc3
+Bxf3 21. Qxf3 Ke7 22. Nd4 exd4 23. Re1+ Kf8 24. Qxf6 Rg8 25. Qxh6+ Rg7 26.
+Qh8+ Rg8 1/2-1/2
+

@@ -1,0 +1,20 @@
+[Event "corr Heilimo mem"]
+[Site "corr Heilimo mem"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Joentausta"]
+[Black "Valtonen"]
+[Result "1-0"]
+[ECO "B46"]
+[Opening "Sicilian"]
+[Variation "Taimanov variation"]
+[HashCode "126174c8"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 a6 6. Be3 Qc7 7. Bd3 Nf6
+8. Nb3 b5 9. f4 d6 10. Qf3 Be7 11. O-O Bb7 12. a3 O-O 13. g4 Nd7 14. Qh3
+Nc5 15. Nxc5 dxc5 16. e5 g6 17. Ne4 Nd4 18. Bxd4 cxd4 19. Nf6+ Bxf6 20.
+exf6 Qd8 21. f5 exf5 22. Rxf5 Qe8 23. Rf4 Qe3+ 24. Qxe3 dxe3 25. g5 Rfe8
+26. Kf1 Re5 27. h4 Rd8 28. Ke2 h5 29. a4 Bc8 30. axb5 axb5 31. Re4 Rxe4 32.
+Bxe4 Re8 33. Bf3 Bf5 34. Ra8 1-0
+

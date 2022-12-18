@@ -1,0 +1,20 @@
+[Event "Neskaupsstadur"]
+[Site "Neskaupsstadur"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Knezevic, Milorad"]
+[Black "McCambridge, Vincent"]
+[Result "1/2-1/2"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "classical variation (5.Bf4)"]
+[HashCode "cf47ccd5"]
+[Epoch "Rook"]
+[BlackID "2000342"]
+[BlackCountry "USA"]
+[WhiteID "950238"]
+[WhiteCountry "SRB"]
+
+1. d4 Nf6 2. Nf3 d5 3. c4 e6 4. Nc3 Be7 5. Bf4 O-O 6. e3 a6 7. cxd5 Nxd5 8.
+Nxd5 exd5 9. a3 c5 10. dxc5 Bxc5 11. Rc1 Bb6 12. Be2 Nc6 13. O-O Re8 14. Qc2 h6
+15. Rfd1 Be6 16. Qa4 Qd7 17. h3 1/2-1/2

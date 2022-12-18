@@ -1,0 +1,27 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Dydyshko, Viacheslav"]
+[Black "Kapengut, Albert Z"]
+[Result "0-1"]
+[ECO "A79"]
+[Opening "Benoni"]
+[Variation "classical, 11.f3"]
+[HashCode "57dcc9db"]
+[Epoch "Rook"]
+[BlackID "13500058"]
+[BlackCountry "USA"]
+[WhiteID "13500031"]
+[WhiteCountry "BLR"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. e4 Bg7 8. Be2
+O-O 9. O-O Re8 10. Nd2 Na6 11. f3 Nc7 12. Kh1 Qe7 13. Nc4 b5 14. Na5 Bd7 15.
+Nc6 Bxc6 16. dxc6 a6 17. Bg5 h6 18. Bh4 g5 19. Bf2 Rad8 20. Re1 d5 21. exd5
+Nfxd5 22. Bd3 Qf8 23. Nxd5 Nxd5 24. Rxe8 Qxe8 25. Qe2 Qxe2 26. Bxe2 Nf4 27. Rd1
+Rc8 28. Bf1 Rxc6 29. a4 c4 30. Rd8+ Kh7 31. g3 Ne6 32. Rb8 Bd4 33. axb5 axb5
+34. Kg2 Rc5 35. Bxd4 Nxd4 36. Kf2 Rf5 37. Be2 g4 38. f4 Nxe2 39. Kxe2 Rh5 40.
+Kf1 Kg6 41. Rb6+ f6 42. Rb7 Rd5 43. Ke2 Kf5 44. Rb6 Kg6 45. Rb7 Rh5 46. Kf1
+Rxh2 47. Rxb5 Rc2 48. Kg1 Kf7 49. Rb6 h5 50. Kf1 Ke7 51. Kg1 Kf7 52. Kf1 Rc1+
+53. Kf2 Rb1 54. Rb4 c3 55. bxc3 Rxb4 56. cxb4 Ke6 57. f5+ Kxf5 58. Ke3 Ke5 59.
+b5 Kd5 0-1

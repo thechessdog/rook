@@ -1,0 +1,18 @@
+[Event "England"]
+[Site "England"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Regan"]
+[Black "Littlewood, Paul E"]
+[Result "0-1"]
+[ECO "C44"]
+[Opening "Scotch gambit"]
+[Variation "Dubois-Reti defence"]
+[HashCode "48a1e8c3"]
+[Epoch "Rook"]
+[BlackID "400190"]
+[BlackCountry "ENG"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 Nf6 5. e5 Ng4 6. Qe2 Qe7 7. Bf4 b5 8.
+Bxb5 Qb4+ 9. c3 dxc3 10. Nxc3 Qxf4 11. Nd5 Qh6 12. O-O Nd4 13. Nxc7+ Kd8 14.
+Ne6+ fxe6 0-1

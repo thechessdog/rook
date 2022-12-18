@@ -1,0 +1,21 @@
+[Event "Odessa"]
+[Site "Odessa"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Palatnik, Semon"]
+[Black "Eingorn, Vereslav S"]
+[Result "0-1"]
+[ECO "A22"]
+[Opening "English"]
+[Variation "Bremen, Smyslov system"]
+[HashCode "dc89f3a2"]
+[Epoch "Rook"]
+[WhiteID "2014610"]
+[BlackID "14100053"]
+[WhiteCountry "USA"]
+[BlackCountry "UKR"]
+
+1. c4 e5 2. Nc3 Bb4 3. g3 Nf6 4. Bg2 O-O 5. Qb3 Nc6 6. Bxc6 Bxc3 7. Qxc3 bxc6
+8. Nf3 d6 9. d3 e4 10. Ng5 exd3 11. Qxd3 Re8 12. Be3 h6 13. Nf3 c5 14. h3 Ne4
+15. g4 Qf6 16. Rb1 Rb8 17. Qc2 Bb7 18. Rg1 Qe6 19. Qd3 d5 20. cxd5 Bxd5 21. Nd2
+c4 22. Qa3 Nxf2 23. Rg3 Nh1 0-1

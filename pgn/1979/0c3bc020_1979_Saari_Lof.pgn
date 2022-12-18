@@ -1,0 +1,20 @@
+[Event "corr NS/III"]
+[Site "corr NS/III"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Saari, Juha"]
+[Black "Lof, Sven"]
+[Result "0-1"]
+[ECO "E30"]
+[Opening "Nimzo-Indian"]
+[Variation "Leningrad, ...b5 gambit"]
+[HashCode "0c3bc020"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Bg5 h6 5. Bh4 c5 6. d5 b5 7. e4 exd5 8.
+cxd5 g5 9. Bg3 Nxe4 10. Rc1 Qe7 11. Be2 f5 12. Bxb8 Rxb8 13. Nh3 O-O 14.
+O-O Bxc3 15. bxc3 d6 16. f3 Nf6 17. Qd2 Re8 18. Rfe1 Qe3+ 19. Qxe3 Rxe3 20.
+c4 bxc4 21. Bxc4 Rxe1+ 22. Rxe1 Rb4 23. Bd3 Kf7 24. Rc1 Nxd5 25. Rd1 Rd4
+26. Nf2 Nb4 27. a3 Nxd3 28. Rxd3 Rxd3 29. Nxd3 Ba6 30. Nc1 Bc4 31. Kf2 d5
+0-1
+

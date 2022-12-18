@@ -1,0 +1,19 @@
+[Event "Rio de Janeiro Interzonal"]
+[Site "Rio de Janeiro izt"]
+[Date "1979.09.01"]
+[Round "3"]
+[White "Petrosian, Tigran A."]
+[Black "Vaganian, Rafael A"]
+[Result "1/2-1/2"]
+[ECO "D59"]
+[Opening "QGD"]
+[Variation "Tartakower (Makagonov-Bondarevsky) system, 8.cd Nxd5"]
+[HashCode "3efba530"]
+[Epoch "Rook"]
+[WhiteID "13300849"]
+[WhiteCountry "ARM"]
+[BlackID "13300016"]
+[BlackCountry "ARM"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Be7 4. Nf3 Nf6 5. Bg5 h6 6. Bh4 O-O 7. e3 b6 8. cxd5
+Nxd5 9. Bxe7 Qxe7 10. Nxd5 exd5 11. Qd2 a5 12. Rc1 Be6 1/2-1/2

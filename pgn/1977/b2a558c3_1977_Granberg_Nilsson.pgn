@@ -1,0 +1,17 @@
+[Event "Snekkersten"]
+[Site "Snekkersten"]
+[Date "1977.01.01"]
+[Round "2"]
+[White "Granberg, Niels"]
+[Black "Nilsson, Nils Specht"]
+[Result "1/2-1/2"]
+[ECO "B52"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky attack, 3...Bd7"]
+[HashCode "b2a558c3"]
+[Epoch "Rook"]
+[BlackCountry "DNK"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Nxd7 5. O-O g6 6. d4 Bg7 7. c3 Qc7 8.
+Re1 Rc8 9. Na3 a6 10. Bg5 h6 11. Bh4 b5 12. Rc1 c4 13. Nc2 e6 14. Nd2 g5 15.
+Bg3 Ne7 16. f4 e5 17. fxe5 dxe5 1/2-1/2

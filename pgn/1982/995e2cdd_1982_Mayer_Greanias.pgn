@@ -1,0 +1,18 @@
+[Event "Arlington,VA"]
+[Site "Arlington,VA"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Mayer, Steven F."]
+[Black "Greanias, Steven"]
+[Result "0-1"]
+[ECO "A00"]
+[Opening "Benko's opening"]
+[HashCode "995e2cdd"]
+[Epoch "Rook"]
+[BlackID "2006987"]
+[BlackCountry "USA"]
+[WhiteCountry "USA"]
+
+1. g3 d5 2. Bg2 Nf6 3. d3 e5 4. Nf3 Nc6 5. O-O Be7 6. c3 a5 7. a4 O-O 8. Nbd2
+e4 9. dxe4 dxe4 10. Nd4 Nxd4 11. cxd4 Bf5 12. Nc4 Re8 13. Ne3 Be6 14. b3 Qd7
+15. Nc4 Bh3 16. Qc2 Bd6 17. Bb2 Qf5 18. f3 Bxg2 19. Kxg2 exf3+ 0-1

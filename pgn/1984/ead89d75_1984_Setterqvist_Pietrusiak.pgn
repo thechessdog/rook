@@ -1,0 +1,22 @@
+[Event "Linkoping"]
+[Site "Linkoping"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Setterqvist, Kurt"]
+[Black "Pietrusiak, Bogdan"]
+[Result "1-0"]
+[ECO "E95"]
+[Opening "King's Indian"]
+[Variation "orthodox, 7...Nbd7, 8.Re1"]
+[HashCode "ead89d75"]
+[Epoch "Rook"]
+[WhiteID "1700669"]
+[WhiteCountry "SWE"]
+[BlackCountry "POL"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. Nc3 d6 5. e4 O-O 6. Be2 Nbd7 7. O-O e5 8. Re1
+c6 9. Bf1 exd4 10. Nxd4 Ng4 11. Qxg4 Bxd4 12. Be3 Bg7 13. Qd1 Nc5 14. Bd4 Be5
+15. Qd2 Qf6 16. Rad1 g5 17. Qe3 Qe7 18. g3 g4 19. Rd2 a5 20. Red1 Ne6 21. Ne2
+Ng5 22. Bg2 Be6 23. Rc2 f5 24. Qc3 fxe4 25. Bxe5 dxe5 26. Qxe5 Rae8 27. Nf4 Bf5
+28. Qxa5 Nf3+ 29. Bxf3 exf3 30. Rcc1 Ra8 31. Qc3 Rxa2 32. Re1 Qf6 33. Re5 Bg6
+34. Rce1 Raa8 35. Qe3 Bf7 36. Qc3 Rad8 37. h3 h5 38. h4 Kg7 39. Rg5+ 1-0

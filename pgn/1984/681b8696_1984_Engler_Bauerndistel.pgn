@@ -1,0 +1,18 @@
+[Event "corr FRG/M"]
+[Site "corr FRG/M"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Engler"]
+[Black "Bauerndistel, B."]
+[Result "0-1"]
+[ECO "A51"]
+[Opening "Budapest"]
+[Variation "Fajarowicz, Steiner variation"]
+[HashCode "681b8696"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ne4 4. Qc2 Bb4+ 5. Nc3 d5 6. exd6 Bf5 7. Bd2
+Nxd6 8. e4 Bg6 9. Nf3 Nd7 10. a3 Bxc3 11. Bxc3 Bxe4 12. Qd1 Qe7 13. Be2
+Bxf3 14. gxf3 O-O-O 15. O-O Rhe8 16. Re1 Qg5+ 17. Kh1 Ne5 18. Qa4 Qf4 19.
+Qxa7 Nc6 20. Qa8+ Kd7 21. Qa4 Rxe2 0-1
+

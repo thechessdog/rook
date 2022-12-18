@@ -1,0 +1,23 @@
+[Event "corr WER/K"]
+[Site "corr WER/K"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Svenningsson, Jorge"]
+[Black "Richardson"]
+[Result "0-1"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, 6.Bd3"]
+[HashCode "b3ea64c1"]
+[Epoch "Rook"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. f4 Nf6 5. Nf3 O-O 6. Bd3 Na6 7. e5 Nd7 8.
+Qe2 c5 9. Be3 cxd4 10. Bxd4 Ndc5 11. Bc4 Be6 12. O-O-O Rc8 13. Bb3 Bxb3 14.
+axb3 Ne6 15. Qe3 Qa5 16. exd6 Nxd4 17. Nxd4 exd6 18. Rhe1 Nb4 19. Kb1 Rc5
+20. Re2 Rfc8 21. Qh3 h5 22. Qf3 Qa6 23. Na4 b5 24. c3 bxa4 25. cxb4 Bxd4
+26. bxc5 axb3 27. Qxb3 Qxe2 28. Rxd4 dxc5 29. Rd7 Qf1+ 30. Ka2 Qxf4 31.
+Rxa7 Rb8 32. Qd5 Qf2 33. Qe5 Rd8 34. Qe7 Rf8 35. Qe4 Qf6 36. Re7 Kg7 37.
+Qe5 Rd8 38. Qxf6+ Kxf6 39. Re2 Rd5 40. Kb3 Re5 41. Rf2+ Kg5 42. Kc4 f5 43.
+Kb5 f4 44. Kc6 Kf5 45. b3 g5 46. Kd6 g4 47. Rc2 h4 48. Rf2 Re3 49. Kxc5
+Rxb3 50. Kc4 Re3 51. Ra2 f3 52. gxf3 gxf3 0-1
+

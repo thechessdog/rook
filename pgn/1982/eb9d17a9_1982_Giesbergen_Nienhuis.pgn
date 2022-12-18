@@ -1,0 +1,18 @@
+[Event "corr ch10-NLD"]
+[Site "corr ch10-NLD"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Giesbergen, H."]
+[Black "Nienhuis, K."]
+[Result "1/2-1/2"]
+[ECO "C26"]
+[Opening "Vienna"]
+[Variation "Paulsen-Mieses variation"]
+[HashCode "eb9d17a9"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nc3 Nf6 3. g3 Bc5 4. Bg2 Nc6 5. Nge2 d6 6. h3 O-O 7. O-O a6 8.
+d3 Be6 9. Nd5 Nd4 10. Nxd4 Bxd4 11. c3 Ba7 12. Kh2 Nxd5 13. exd5 Bd7 14. f4
+f6 15. f5 Kh8 16. Qe2 a5 17. g4 Qe8 18. Be3 Bxe3 19. Qxe3 Qb8 20. Rae1 c5
+21. Qd2 1/2-1/2
+

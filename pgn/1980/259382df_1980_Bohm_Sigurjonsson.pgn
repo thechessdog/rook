@@ -1,0 +1,23 @@
+[Event "Hoogovens"]
+[Site "Wijk aan Zee"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Bohm, Hans"]
+[Black "Sigurjonsson, Gudmundur"]
+[Result "1-0"]
+[ECO "E32"]
+[Opening "Nimzo-Indian"]
+[Variation "classical variation"]
+[HashCode "259382df"]
+[Epoch "Rook"]
+[WhiteID "1000306"]
+[WhiteCountry "NED"]
+[BlackID "2300079"]
+[BlackCountry "ISL"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 O-O 5. Bg5 d6 6. e3 e5 7. Ne2 Re8 8. O-O-O
+Bxc3 9. Nxc3 h6 10. Bh4 exd4 11. exd4 c6 12. f3 Nbd7 13. g4 Qa5 14. Rg1 Nh7 15.
+Bd3 Ndf8 16. f4 f6 17. Kb1 Be6 18. d5 cxd5 19. cxd5 Bf7 20. g5 fxg5 21. fxg5
+hxg5 22. Bxg5 Bh5 23. Bh6 Re7 24. Rdf1 Rae8 25. Qf2 Rf7 26. Qg3 Rxf1+ 27. Rxf1
+Re7 28. Qxd6 Rf7 29. Rxf7 Bxf7 30. Qg3 g6 31. Qe5 Ne6 32. a3 Qc7 33. Qxc7 Nxc7
+34. d6 Ne6 35. Nd5 Nhf8 36. Nf6+ Kh8 37. d7 Nh7 38. Nxh7 Kxh7 39. Bg5 1-0

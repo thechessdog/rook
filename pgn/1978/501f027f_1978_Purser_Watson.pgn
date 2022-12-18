@@ -1,0 +1,15 @@
+[Event "Ramstein"]
+[Site "Ramstein"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Purser, Tom"]
+[Black "Watson, Lavelle"]
+[Result "1-0"]
+[ECO "A45"]
+[Opening "Paleface attack"]
+[HashCode "501f027f"]
+[Epoch "Rook"]
+[WhiteCountry "USA"]
+
+1. d4 Nf6 2. f3 e6 3. e4 Nxe4 4. fxe4 Qh4+ 5. Ke2 Qxe4+ 6. Be3 b6 7. Nd2 Ba6+
+8. Kf2 Qh4+ 9. g3 Qf6+ 10. Qf3 Bb7 11. Qxf6 gxf6 12. Bg2 1-0

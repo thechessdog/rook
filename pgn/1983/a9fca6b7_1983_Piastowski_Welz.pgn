@@ -1,0 +1,18 @@
+[Event "corr ch-DDR"]
+[Site "corr ch-DDR"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Piastowski, K."]
+[Black "Welz, P."]
+[Result "0-1"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "Dutch variation"]
+[HashCode "a9fca6b7"]
+[Epoch "Rook"]
+
+1. b3 f5 2. Bb2 Nf6 3. d3 d6 4. e4 e5 5. Ne2 Be7 6. g3 O-O 7. Bg2 c6 8. Nd2
+Na6 9. O-O Qe8 10. Nc4 Nc5 11. exf5 Bxf5 12. d4 Ncd7 13. dxe5 dxe5 14. Bxe5
+Nxe5 15. Nxe5 Rd8 16. Nd3 Bc5 17. h3 Bb6 18. a4 Ng4 19. hxg4 Bxg4 20. Re1
+Rxd3 21. Qxd3 Bxf2+ 22. Kf1 Bxg3+ 23. Kg1 Bf2+ 24. Kh2 Qe5+ 0-1
+

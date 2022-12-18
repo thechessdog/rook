@@ -1,0 +1,25 @@
+[Event "Copenhagen AS04"]
+[Site "Copenhagen"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Wahlbom, Magnus"]
+[Black "Schussler, Harry"]
+[Result "0-1"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical system, 5.Be2"]
+[HashCode "4d5d5ba5"]
+[Epoch "Rook"]
+[BlackID "1700081"]
+[BlackCountry "SWE"]
+[WhiteID "1700685"]
+[WhiteCountry "SWE"]
+
+1. e4 g6 2. d4 Bg7 3. Nf3 d6 4. Nc3 Nf6 5. Be2 O-O 6. O-O Nc6 7. Be3 e5 8. d5
+Ne7 9. Ne1 c6 10. dxc6 bxc6 11. Nd3 d5 12. exd5 Nfxd5 13. Nxd5 cxd5 14. c3 Nf5
+15. Bc5 Re8 16. Bg4 a5 17. f4 e4 18. Bxf5 Bxf5 19. Ne5 f6 20. Nc6 Qc7 21. Qxd5+
+Be6 22. Qxe4 f5 23. Qf3 Ra6 24. Ne7+ Kf7 25. Ba3 Rxe7 26. Bxe7 Qxe7 27. Rfe1 a4
+28. Kh1 Qc7 29. h3 a3 30. bxa3 Rb6 31. Rab1 Bxa2 32. Rxb6 Qxb6 33. Qe2 Be6 34.
+c4 Qc6 35. a4 Bc3 36. Rc1 Ba5 37. c5 Qxa4 38. Qe5 Qe4 39. Qh8 Qxf4 40. Qxh7+
+Kf6 41. Rd1 Bc7 42. Qh8+ Kg5 43. h4+ Qxh4+ 44. Qxh4+ Kxh4 45. Re1 Bd5 46. c6
+Kg3 47. Re2 Be4 48. Rb2 Be5 49. Re2 g5 0-1

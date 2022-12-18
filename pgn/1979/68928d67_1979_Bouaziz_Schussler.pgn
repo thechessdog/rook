@@ -1,0 +1,19 @@
+[Event "Dortmund"]
+[Site "Dortmund"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Bouaziz, Slim"]
+[Black "Schussler, Harry"]
+[Result "1/2-1/2"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, 6.Bd3"]
+[HashCode "68928d67"]
+[Epoch "Rook"]
+[WhiteID "5500010"]
+[BlackID "1700081"]
+[WhiteCountry "TUN"]
+[BlackCountry "SWE"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 O-O 6. Bd3 Na6 7. e5 Nd7 8. e6
+fxe6 9. Ng5 Nf6 10. Qe2 c5 11. Bxa6 1/2-1/2

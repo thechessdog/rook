@@ -1,0 +1,21 @@
+[Event "DDR"]
+[Site "DDR"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Knaak, Rainer"]
+[Black "Paehtz, Thomas"]
+[Result "1-0"]
+[ECO "E88"]
+[Opening "King's Indian"]
+[Variation "Saemisch, orthodox, 7.d5 c6"]
+[HashCode "409adc88"]
+[Epoch "Rook"]
+[WhiteID "4611250"]
+[WhiteCountry "GER"]
+[BlackID "4611349"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 e5 7. d5 c6 8. Qd2 cxd5
+9. cxd5 Ne8 10. Bd3 f5 11. exf5 gxf5 12. Nge2 Nd7 13. O-O Ndf6 14. Bg5 Kh8 15.
+Kh1 Qc7 16. Ng3 Ng8 17. Nh5 f4 18. g3 Bh6 19. gxf4 Qf7 20. Bxh6 Nxh6 21. fxe5
+Qxh5 22. e6 b6 23. Rg1 Qxf3+ 24. Rg2 Rg8 1-0

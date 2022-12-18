@@ -1,0 +1,25 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Yermolinsky, Alex"]
+[Black "Chekhov, Valery A"]
+[Result "1-0"]
+[ECO "A30"]
+[Opening "English"]
+[Variation "symmetrical, hedgehog system"]
+[HashCode "c457fe0d"]
+[Epoch "Rook"]
+[BlackID "4100859"]
+[BlackCountry "RUS"]
+[WhiteID "2005492"]
+[WhiteCountry "USA"]
+
+1. Nf3 c5 2. c4 Nf6 3. Nc3 e6 4. g3 b6 5. Bg2 Bb7 6. O-O Be7 7. Re1 a6 8. e4 d6
+9. d4 cxd4 10. Nxd4 Qc7 11. Be3 Nbd7 12. f4 O-O 13. Rc1 Rfe8 14. g4 g6 15. g5
+Nh5 16. f5 Bf8 17. Bf3 Ne5 18. Bxh5 gxh5 19. Rc2 Qd7 20. Qxh5 d5 21. fxe6 fxe6
+22. cxd5 exd5 23. Nxd5 Bxd5 24. exd5 Qxd5 25. Rc7 Qe4 26. Bf2 Qg4+ 27. Qxg4
+Nxg4 28. Ne6 Nxf2 29. Kxf2 Rac8 30. Rxc8 Rxc8 31. Kf3 Rc2 32. Nxf8 Kxf8 33. Re2
+Rc6 34. Kg4 h6 35. h4 hxg5 36. hxg5 Kf7 37. Kh5 b5 38. Rd2 Kg7 39. Rd7+ Kf8 40.
+Ra7 Rc2 41. Rxa6 Rxb2 42. Kg6 b4 43. Ra8+ Ke7 44. Kg7 Kd6 45. g6 Kc5 46. Kg8
+Kd4 47. g7 Rg2 1-0

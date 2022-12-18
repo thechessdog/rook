@@ -1,0 +1,18 @@
+[Event "corr Potter mem"]
+[Site "corr Potter mem"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Steiner, Joseph"]
+[Black "Napolitano, Mariano"]
+[Result "1/2-1/2"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...g6"]
+[HashCode "9be0d52d"]
+[Epoch "Rook"]
+[BlackCountry "ITA"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 g6 6. Qb3 Bg7 7. cxd5 O-O 8.
+Be2 Nbd7 9. Bf3 Nb6 10. Bg5 a5 11. a4 Bf5 12. Qb5 Nc8 13. Be2 Nd6 14. Qb3 Nfe8
+15. Nf3 Bg4 16. O-O Bxf3 17. Bxf3 Bxd4 18. Rfe1 Bf6 19. Bxf6 Nxf6 20. Rad1 Rc8
+21. Nb5 Qd7 22. Nxd6 exd6 23. h3 1/2-1/2

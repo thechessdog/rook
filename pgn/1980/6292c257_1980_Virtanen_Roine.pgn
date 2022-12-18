@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Virtanen"]
+[Black "Roine"]
+[Result "1-0"]
+[ECO "D98"]
+[Opening "Gruenfeld"]
+[Variation "Russian, Smyslov variation"]
+[HashCode "6292c257"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Qb3 dxc4 6. Qxc4 O-O 7. e4 Bg4
+8. Be3 Nfd7 9. Nd2 Nb6 10. Qd3 f5 11. f3 fxe4 12. Ndxe4 Bf5 13. g4 Bd7 14.
+Nc5 Bc8 15. Be2 c6 16. O-O-O Nd5 17. h4 Nxc3 18. Qxc3 b6 19. Bc4+ Kh8 20.
+Nd3 Rxf3 21. Ne5 Bxe5 22. dxe5 Qf8 23. e6+ Kg8 24. Rhf1 Rxf1 25. Rxf1 Qg7
+26. Qxg7+ Kxg7 27. Rf7+ 1-0
+

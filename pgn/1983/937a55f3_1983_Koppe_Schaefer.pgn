@@ -1,0 +1,20 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Koppe, F."]
+[Black "Schaefer, H."]
+[Result "1-0"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Milner-Barry gambit"]
+[HashCode "937a55f3"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Nh6 8.
+Nc3 Bd7 9. O-O g6 10. Na4 Qc7 11. Bg5 Bg7 12. Qc1 Nf5 13. Bxf5 exf5 14. Nc3
+Qa5 15. a3 Be6 16. b4 Qb6 17. Rd1 O-O 18. Bh6 Rac8 19. Bxg7 Kxg7 20. Qe3 a6
+21. Na4 Qd8 22. Nc5 Qe7 23. Rac1 Rc7 24. Nxb7 Nxd4 25. Nxd4 Rxb7 26. Rc6 a5
+27. bxa5 Ra8 28. a6 Rc7 29. Rdc1 Rxc6 30. Rxc6 Bc8 31. e6 Bxa6 32. Qc3 Kg8
+33. exf7+ Qxf7 34. Rxa6 1-0
+

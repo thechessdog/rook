@@ -1,0 +1,18 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Kats"]
+[Black "Kudashev"]
+[Result "0-1"]
+[ECO "A02"]
+[Opening "Bird"]
+[Variation "From gambit, Lasker variation"]
+[HashCode "774ae585"]
+[Epoch "Rook"]
+
+1. f4 e5 2. fxe5 d6 3. exd6 Bxd6 4. Nf3 g5 5. g3 g4 6. Nh4 Ne7 7. d4 Ng6 8.
+Nxg6 hxg6 9. Qd3 Nc6 10. c3 Qe7 11. Bg2 Bf5 12. e4 O-O-O 13. O-O Ne5 14.
+Qc2 Rxh2 15. Rxf5 Rxg2+ 16. Kxg2 gxf5 17. dxe5 Qxe5 18. Bf4 Qh8 19. Na3
+Qh3+ 0-1
+

@@ -1,0 +1,19 @@
+[Event "corr ch-CSSR"]
+[Site "corr ch-CSSR"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Cmiel"]
+[Black "Hecko"]
+[Result "0-1"]
+[ECO "A63"]
+[Opening "Benoni"]
+[Variation "fianchetto, 9...Nbd7"]
+[HashCode "d3243f1c"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 c5 4. d5 exd5 5. cxd5 d6 6. Nf3 g6 7. g3 Bg7 8.
+Bg2 O-O 9. O-O Nbd7 10. Nd2 a6 11. a4 Rb8 12. a5 b5 13. e4 Re8 14. f3 c4
+15. Re1 Nc5 16. Bf1 Qc7 17. Be2 Nb7 18. Qc2 Bh3 19. Bf1 Bxf1 20. Kxf1 Nxa5
+21. f4 Nd7 22. Nd1 Ra8 23. Nf3 Nb3 24. Ra3 Qc8 25. Nf2 Nb6 26. Bd2 Nxd2+
+27. Nxd2 Qc5 28. Rae3 Nxd5 0-1
+

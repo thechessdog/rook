@@ -1,0 +1,18 @@
+[Event "US Open"]
+[Site "US Open"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Gisselquist, Pete"]
+[Black "Storbakken, Alan"]
+[Result "0-1"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "339a5abd"]
+[Epoch "Rook"]
+
+1. e4 c5 2. c3 d6 3. d4 Nf6 4. dxc5 Nc6 5. cxd6 Nxe4 6. Bf4 e5 7. Bxe5 Nxd6
+8. Nf3 Bg4 9. Bxd6 Bxd6 10. Be2 O-O 11. O-O Qc7 12. Nbd2 Rad8 13. g3 Rfe8
+14. Re1 Bc5 15. Bf1 Ne5 16. Bg2 Bxf3 17. Bxf3 Bxf2+ 18. Kg2 Bxe1 19. Qxe1
+Nxf3 0-1
+

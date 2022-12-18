@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Balthasar, A."]
+[Black "Scholvin, E."]
+[Result "1-0"]
+[ECO "D06"]
+[Opening "QGD"]
+[Variation "symmetrical (Austrian) defence"]
+[HashCode "f95f1e94"]
+[Epoch "Rook"]
+
+1. d4 d5 2. c4 c5 3. cxd5 Qxd5 4. Nf3 cxd4 5. Nc3 Qh5 6. Nxd4 Bd7 7. g3 a6
+8. Bg2 e5 9. Nd5 Bd6 10. Nb6 Ra7 11. Nc6 Bxc6 12. Qxd6 Bxg2 13. Qxb8+ Ke7
+14. Rg1 Qxh2 15. Qxe5+ 1-0
+

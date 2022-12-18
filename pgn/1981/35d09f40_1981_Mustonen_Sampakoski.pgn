@@ -1,0 +1,20 @@
+[Event "corr JSM/I"]
+[Site "corr JSM/I"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Mustonen, Vesa"]
+[Black "Sampakoski, Kimmo"]
+[Result "1-0"]
+[ECO "A58"]
+[Opening "Benko gambit"]
+[Variation "fianchetto variation"]
+[HashCode "35d09f40"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. bxa6 Bxa6 6. Nc3 g6 7. Nf3 d6 8.
+g3 Bg7 9. Bh3 Nbd7 10. O-O Nb6 11. Re1 O-O 12. e4 Nfd7 13. Qc2 Qc7 14. Rb1
+Nc4 15. Bxd7 Qxd7 16. b3 Ne5 17. Nxe5 Bxe5 18. Bb2 Ra7 19. Nd1 Bxb2 20.
+Nxb2 Rfa8 21. Ra1 Qg4 22. Nd1 h5 23. Re3 Qh3 24. Nc3 Kg7 25. f3 Bc8 26. Qg2
+Qd7 27. e5 dxe5 28. Rxe5 Qb7 29. Rc1 Qb6 30. Qf2 Bh3 31. Re4 e6 32. Rc4
+exd5 33. Rxc5 Rc7 34. Nxd5 1-0
+

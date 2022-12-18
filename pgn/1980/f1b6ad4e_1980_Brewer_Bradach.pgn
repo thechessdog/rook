@@ -1,0 +1,16 @@
+[Event "Dayton,OH"]
+[Site "Dayton,OH"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Brewer, H."]
+[Black "Bradach, M."]
+[Result "1-0"]
+[ECO "C70"]
+[Opening "Ruy Lopez"]
+[Variation "Caro variation"]
+[HashCode "f1b6ad4e"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 b5 5. Bb3 Nf6 6. O-O d5 7. exd5 Nxd5
+8. d4 exd4 9. Nxd4 Nde7 10. Nxc6 Nxc6 11. Qf3 Bb7 12. Qxf7# 1-0
+

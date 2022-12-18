@@ -1,0 +1,25 @@
+[Event "BL8182"]
+[Site "BL8182"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Ehrke"]
+[Black "Steen"]
+[Result "1/2-1/2"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "classical variation"]
+[HashCode "ac995ddd"]
+[Epoch "Rook"]
+
+1. b3 d5 2. e3 Nf6 3. Bb2 c5 4. f4 Nc6 5. Bb5 Bg4 6. Nf3 e6 7. O-O Bd6 8.
+d3 O-O 9. Bxc6 bxc6 10. Nbd2 Nd7 11. Qe1 Bxf3 12. Rxf3 e5 13. f5 f6 14. e4
+Qa5 15. Qe2 Nb6 16. Rh3 Rf7 17. Nf1 c4 18. dxc4 Nxc4 19. bxc4 Qb6+ 20. Kh1
+Qxb2 21. Rd1 d4 22. c5 Bxc5 23. Rb3 Qxa2 24. Qc4 Bb6 25. Qxc6 Raf8 26. Ng3
+Qa6 27. c3 Qc8 28. Qxc8 Rxc8 29. cxd4 exd4 30. Ne2 Re7 31. Nf4 Rxe4 32. g3
+Rc2 33. Nd5 Ree2 34. Nxb6 axb6 35. Rxb6 Rxh2+ 36. Kg1 Rcg2+ 37. Kf1 Rh1+
+38. Kxg2 Rxd1 39. Rb8+ Kf7 40. Rb7+ Kf8 41. Rb8+ Ke7 42. Rb7+ Kd6 43. Rxg7
+Ke5 44. Rxh7 Kxf5 45. Rd7 Ke4 46. Re7+ Kd5 47. Re8 Ra1 48. Kf3 Kc4 49. Rc8+
+Kd3 50. Rc6 Rf1+ 51. Kg2 Rf5 52. Kh3 Ke2 53. Re6+ Re5 54. Rxf6 d3 55. Rd6
+d2 56. Kg4 d1=Q 57. Rxd1 Kxd1 58. Kf4 Re8 59. g4 Ke2 60. g5 Kd3 61. Kf5 Kd4
+62. g6 Ra8 63. g7 1/2-1/2
+

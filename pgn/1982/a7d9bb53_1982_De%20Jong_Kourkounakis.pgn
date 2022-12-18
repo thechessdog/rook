@@ -1,0 +1,21 @@
+[Event "Lloyds Bank op"]
+[Site "Londen open"]
+[Date "1982.08.01"]
+[Round "6"]
+[White "De Jong, Tom"]
+[Black "Kourkounakis, Ilias"]
+[Result "1-0"]
+[ECO "E77"]
+[Opening "King's Indian"]
+[Variation "Four pawns attack"]
+[HashCode "a7d9bb53"]
+[Epoch "Rook"]
+[WhiteID "1000543"]
+[WhiteCountry "NED"]
+[BlackID "4200080"]
+[BlackCountry "GRE"]
+
+1. e4 g6 2. d4 Bg7 3. c4 d6 4. Nc3 Nf6 5. f4 c5 6. d5 O-O 7. Nf3 e6 8. Be2 exd5
+9. cxd5 b5 10. Bxb5 Nxe4 11. Nxe4 Qa5+ 12. Kf2 Qxb5 13. Nxd6 Qb6 14. Nc4 Qa6
+15. Qe2 Nd7 16. Rd1 Nf6 17. Nce5 Qd6 18. Be3 Nxd5 19. Rac1 Rd8 20. Bxc5 Qf6 21.
+g3 Be6 22. Nc6 Nxf4 23. Rxd8+ Qxd8 24. gxf4 Qc7 25. Qe4 1-0

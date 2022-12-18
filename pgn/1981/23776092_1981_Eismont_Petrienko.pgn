@@ -1,0 +1,18 @@
+[Event "Rostov"]
+[Site "Rostov"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Eismont"]
+[Black "Petrienko"]
+[Result "0-1"]
+[ECO "D94"]
+[Opening "Gruenfeld"]
+[Variation "5.e3"]
+[HashCode "23776092"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. e3 O-O 6. Be2 c5 7. O-O cxd4 8.
+exd4 Nc6 9. Ne5 Be6 10. Bf3 dxc4 11. Nxc6 bxc6 12. Bxc6 Rb8 13. Bf4 Rxb2
+14. Na4 c3 15. Nxc3 Nd5 16. Bxd5 Bxd5 17. Qa4 Ba8 18. Rfd1 Qb6 19. Be3 Qb7
+0-1
+

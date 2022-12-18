@@ -1,0 +1,18 @@
+[Event "corr APCT"]
+[Site "corr APCT"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Wood, J."]
+[Black "Brent, M."]
+[Result "0-1"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Nimzovich system"]
+[HashCode "3e4db221"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. Nf3 Qb6 5. c3 Nc6 6. Be2 cxd4 7. cxd4 Nh6 8.
+Na3 Bxa3 9. bxa3 Nf5 10. Qa4 Nxd4 11. Be3 Nxf3+ 12. Bxf3 Qc7 13. Bf4 Bd7
+14. O-O Nxe5 15. Qb3 Nxf3+ 16. Qxf3 Qd8 17. Qg3 O-O 18. Bg5 f6 19. Bh6 Rf7
+20. Rfe1 e5 0-1
+

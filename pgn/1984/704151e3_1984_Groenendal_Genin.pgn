@@ -1,0 +1,18 @@
+[Event "corr Netherlands"]
+[Site "corr Netherlands"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Groenendal"]
+[Black "Genin"]
+[Result "0-1"]
+[ECO "D00"]
+[Opening "Queen's pawn"]
+[Variation "Chigorin variation"]
+[HashCode "704151e3"]
+[Epoch "Rook"]
+
+1. d4 d5 2. Nc3 Bf5 3. e3 e6 4. Nf3 a6 5. Ne5 Nf6 6. Be2 Nbd7 7. g4 Be4 8.
+Nxe4 Nxe4 9. O-O Nxe5 10. dxe5 h5 11. f3 Ng5 12. f4 Nh3+ 13. Kg2 hxg4 14.
+Bxg4 Qh4 15. Kf3 O-O-O 16. Qe1 Ng5+ 17. fxg5 Qxh2 18. Qc3 Be7 19. e4 dxe4+
+20. Kxe4 Qg2+ 21. Qf3 Qxc2+ 22. Kf4 Rd4+ 23. Kg3 Qh2# 0-1
+

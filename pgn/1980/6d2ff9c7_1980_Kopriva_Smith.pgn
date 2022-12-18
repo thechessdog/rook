@@ -1,0 +1,20 @@
+[Event "corr Eu Mkl"]
+[Site "corr Eu Mkl"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Kopriva, V."]
+[Black "Smith, O."]
+[Result "0-1"]
+[ECO "C78"]
+[Opening "Ruy Lopez"]
+[Variation "Archangelsk (counterthrust) variation"]
+[HashCode "6d2ff9c7"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Bb7 7. Re1 Bc5 8.
+c3 d6 9. d4 Bb6 10. h3 h6 11. Be3 exd4 12. cxd4 Na5 13. e5 dxe5 14. dxe5
+Qxd1 15. Bxd1 Nd5 16. Bxb6 Nxb6 17. Nbd2 O-O-O 18. b4 Nac4 19. Nxc4 Nxc4
+20. e6 fxe6 21. Rxe6 Rhe8 22. Rg6 Re7 23. Bc2 Bxf3 24. gxf3 Rd6 25. Rxd6
+Nxd6 26. Kf1 Kb7 27. Re1 Rxe1+ 28. Kxe1 Kb6 29. Kd2 c5 30. bxc5+ Kxc5 31.
+Kc3 a5 32. Bb3 g5 0-1
+

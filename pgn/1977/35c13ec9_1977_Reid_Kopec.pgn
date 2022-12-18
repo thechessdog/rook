@@ -1,0 +1,19 @@
+[Event "SCO-ch"]
+[Site "Glasgow"]
+[Date "1977.07.21"]
+[Round "5"]
+[White "Reid, Alan"]
+[Black "Kopec, Danny"]
+[Result "0-1"]
+[ECO "E44"]
+[Opening "Nimzo-Indian"]
+[Variation "Fischer variation, 5.Ne2"]
+[HashCode "35c13ec9"]
+[Epoch "Rook"]
+[WhiteID "2400367"]
+[WhiteCountry "SCO"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 b6 5. Ne2 Bb7 6. a3 Bd6 7. f3 Nh5 8. e4
+Qh4+ 9. g3 Bxg3+ 10. hxg3 Qxh1 11. Qd3 f5 12. Bf4 O-O 13. O-O-O Nxf4 14. Nxf4
+Qh2 15. Nce2 fxe4 16. fxe4 Qh6 17. Bg2 g5 18. Rh1 Qg7 19. Nh5 Qg6 20. Qe3 d6
+21. Bh3 Bxe4 22. Nc3 Bxh1 23. Bxe6+ Kh8 24. d5 c5 25. Kd1 Rf3 0-1

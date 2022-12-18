@@ -1,0 +1,20 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Peters"]
+[Black "Marakanow"]
+[Result "0-1"]
+[ECO "C41"]
+[Opening "Philidor"]
+[Variation "Larsen variation"]
+[HashCode "1a3b1403"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 d6 3. d4 exd4 4. Nxd4 g6 5. Nc3 Bg7 6. Bf4 Nc6 7. Bb5 Bd7
+8. Nxc6 bxc6 9. Bc4 Rb8 10. Bb3 Ne7 11. g4 Qc8 12. h3 Rb4 13. Qf3 O-O 14.
+g5 d5 15. exd5 cxd5 16. O-O-O d4 17. Ne4 Bc6 18. a3 Rb6 19. Rde1 Qf5 20.
+Rhg1 d3 21. Qe3 Nd5 22. Bxd5 Bxb2+ 23. Kd2 Qxd5 24. Qxd3 Qa5+ 25. Ke3 Bxe4
+26. Kxe4 Re6+ 27. Kf3 Rxe1 28. Bd2 Qxd2 29. Qxd2 Rxg1 30. Qa5 Bd4 31. Qxc7
+Bb6 32. Qc4 Rxg5 0-1
+

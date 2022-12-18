@@ -1,0 +1,19 @@
+[Event "Levico"]
+[Site "Levico"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Pedrani"]
+[Black "Amovilli"]
+[Result "1-0"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Lipnitzky attack"]
+[HashCode "82e58bd9"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Be3 b5 8.
+Bb3 b4 9. Na4 Nxe4 10. O-O d5 11. f4 Be7 12. f5 O-O 13. Qg4 Nf6 14. Qh3 e5
+15. Nf3 d4 16. Bf2 Nbd7 17. Rae1 Bd6 18. g4 h6 19. g5 hxg5 20. Nxg5 Bb7 21.
+c3 bxc3 22. bxc3 dxc3 23. Nxc3 Bb4 24. Nd5 Bxe1 25. Rxe1 Re8 26. Nxf7 Qa5
+27. Nxf6+ Kf8 28. Nxd7+ Ke7 29. f6+ 1-0
+

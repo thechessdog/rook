@@ -1,0 +1,24 @@
+[Event "Esbjerg"]
+[Site "Esbjerg"]
+[Date "1977.01.01"]
+[Round "8"]
+[White "Westerinen, Heikki M.J."]
+[Black "Kristiansen, Jens"]
+[Result "0-1"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (without ...d6)"]
+[HashCode "2e4e1fdd"]
+[Epoch "Rook"]
+[WhiteID "500020"]
+[WhiteCountry "FIN"]
+[BlackID "1400061"]
+[BlackCountry "DEN"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 Nf6 4. e5 Nd5 5. O-O g6 6. Qe2 Nc7 7. Ba4 Bg7 8. c3
+O-O 9. Rd1 d6 10. d4 cxd4 11. cxd4 Bg4 12. Bxc6 bxc6 13. Nbd2 Nd5 14. Qe4 Qd7
+15. h3 Bf5 16. Qh4 f6 17. Nc4 Be6 18. b3 Nb6 19. Ne3 Nd5 20. exd6 Nxe3 21. fxe3
+exd6 22. e4 f5 23. e5 dxe5 24. Ba3 Bf6 25. Qf2 e4 26. Ne5 Qc7 27. Bxf8 Rxf8 28.
+Rac1 Bd5 29. Nxc6 Bg5 30. Rc5 e3 31. Qe1 Bxc6 32. d5 Qe5 33. Rxc6 e2 34. Rb1
+Re8 35. Re6 Rxe6 36. dxe6 Bf4 37. e7 Kf7 38. Qh4 Ke8 39. Re1 Bg3 40. Qa4+ Kxe7
+0-1

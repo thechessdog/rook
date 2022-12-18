@@ -1,0 +1,23 @@
+[Event "Berlin op"]
+[Site "Berlin-West"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Paust, Wolf Dieter"]
+[Black "Akesson, Ralf"]
+[Result "0-1"]
+[ECO "A62"]
+[Opening "Benoni"]
+[Variation "fianchetto variation"]
+[HashCode "88356dc1"]
+[Epoch "Rook"]
+[BlackID "1700120"]
+[BlackCountry "SWE"]
+
+1. d4 Nf6 2. c4 e6 3. g3 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. Bg2 Bg7 8. Nf3
+O-O 9. O-O Re8 10. Bf4 a6 11. a4 Qe7 12. h3 Nbd7 13. Rb1 Nh5 14. Bg5 Qf8 15.
+Bd2 c4 16. b4 cxb3 17. Rxb3 Nc5 18. Rb4 Bd7 19. a5 Rac8 20. Nd4 Rc7 21. Qb1 Bc8
+22. Rc1 Nf6 23. Bf4 Bh6 24. e3 Bxf4 25. exf4 Rce7 26. Rb6 Nfd7 27. Rb2 Qg7 28.
+Nf3 Nf6 29. Nd4 Bd7 30. Re2 Rxe2 31. Ncxe2 Qh6 32. h4 Qh5 33. Re1 Nfe4 34. f3
+Nf6 35. Nc3 Rc8 36. Ne4 Ncxe4 37. fxe4 Rc3 38. Kh2 Ng4+ 39. Kg1 Rxg3 40. Qxb7
+Qxh4 41. Re2 Qh2+ 42. Kf1 Ne3+ 43. Ke1 Qg1+ 44. Kd2 Qd1+ 45. Kc3 Qc1+ 46. Kb3
+Nc2+ 47. Bf3 Nxd4+ 48. Kb4 Qc5# 0-1

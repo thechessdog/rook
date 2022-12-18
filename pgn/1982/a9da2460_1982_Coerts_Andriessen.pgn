@@ -1,0 +1,17 @@
+[Event "Alkmaar"]
+[Site "Alkmaar"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Coerts, Marten"]
+[Black "Andriessen, William"]
+[Result "0-1"]
+[ECO "B40"]
+[Opening "Sicilian defence"]
+[HashCode "a9da2460"]
+[Epoch "Rook"]
+[WhiteID "1013645"]
+[WhiteCountry "NED"]
+
+1. e4 c5 2. Nf3 e6 3. b3 Nc6 4. Bb2 Nf6 5. e5 Nd5 6. g3 Be7 7. Bg2 O-O 8. O-O
+f6 9. c4 Nc7 10. exf6 Bxf6 11. Bxf6 Qxf6 12. Nc3 d5 13. cxd5 exd5 14. Nh4 Be6
+15. Rc1 g5 0-1

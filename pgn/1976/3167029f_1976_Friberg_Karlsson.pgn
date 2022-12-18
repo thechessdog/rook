@@ -1,0 +1,24 @@
+[Event "Sweden"]
+[Site "Sweden"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Friberg, Hans"]
+[Black "Karlsson, Lars"]
+[Result "0-1"]
+[ECO "B51"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky (Nimzovich-Rossolimo, Moscow) attack"]
+[HashCode "3167029f"]
+[Epoch "Rook"]
+[WhiteID "1701088"]
+[WhiteCountry "SWE"]
+[BlackID "1700057"]
+[BlackCountry "SWE"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Nd7 4. O-O Nf6 5. Re1 a6 6. Bf1 e6 7. c3 Be7 8. a4
+b6 9. Na3 Bb7 10. d3 O-O 11. h3 Qc7 12. Bf4 Bc6 13. Rc1 b5 14. axb5 axb5 15. d4
+Qb7 16. e5 dxe5 17. Nxe5 Nxe5 18. Bxe5 Rfd8 19. Qe2 c4 20. Nc2 Nd7 21. Bf4 Ra2
+22. Rb1 Nb6 23. f3 Na4 24. Bc1 Qa7 25. Qd2 Bd5 26. Be2 e5 27. Bd1 exd4 28. Nxd4
+Nxc3 29. Qxc3 b4 30. Rxe7 Qxe7 31. Qe3 Qxe3+ 32. Bxe3 Rda8 33. Kf1 Ra1 34. Rc1
+Rxc1 35. Bxc1 Ra1 36. Ne2 c3 37. bxc3 Bc4 38. Ke1 Bxe2 39. Kxe2 Rxc1 40. cxb4
+Rb1 41. b5 Rxb5 42. Kf2 Rb2+ 0-1

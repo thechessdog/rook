@@ -1,0 +1,19 @@
+[Event "Bohemians"]
+[Site "Prague"]
+[Date "1978.??.??"]
+[Round "11"]
+[White "Dobosz, Henryk"]
+[Black "Arnason, Jon L"]
+[Result "1/2-1/2"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (without ...d6)"]
+[HashCode "b00f83a1"]
+[Epoch "Rook"]
+[WhiteID "1100114"]
+[BlackID "2300036"]
+[WhiteCountry "POL"]
+[BlackCountry "ISL"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 d6 4. O-O Bd7 5. Re1 a6 6. Bf1 g6 7. c3 Bg7 8. h3 e5
+9. d4 1/2-1/2

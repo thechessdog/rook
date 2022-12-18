@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Vincenzi, R."]
+[Black "Siviero, G."]
+[Result "1-0"]
+[ECO "A46"]
+[Opening "Queen's pawn"]
+[Variation "Torre attack"]
+[HashCode "53389ad0"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. Nf3 e6 3. Bg5 Be7 4. e3 d5 5. Bd3 Nbd7 6. Nbd2 O-O 7. O-O h6
+8. Bh4 Ne8 9. Bxe7 Qxe7 10. e4 dxe4 11. Nxe4 Nef6 12. c3 Nxe4 13. Bxe4 e5
+14. Re1 f6 15. Qb3+ 1-0
+

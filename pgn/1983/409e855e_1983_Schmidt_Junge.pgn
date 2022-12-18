@@ -1,0 +1,20 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Schmidt, H."]
+[Black "Junge, W."]
+[Result "1-0"]
+[ECO "E13"]
+[Opening "Queen's Indian"]
+[Variation "4.Nc3, main line"]
+[HashCode "409e855e"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. Bg5 Bb4+ 5. Nc3 h6 6. Bh4 Bb7 7. e3 Bxc3+
+8. bxc3 d6 9. Qc2 Nbd7 10. Rd1 g5 11. Bg3 Ne4 12. d5 Ndf6 13. dxe6 fxe6 14.
+Ne5 Nd7 15. f3 dxe5 16. Bxe5 Rf8 17. fxe4 c5 18. Bd6 Rf7 19. e5 g4 20. Qg6
+Qh4+ 21. g3 Qg5 22. Qxe6+ Re7 23. Bxe7 Qxe7 24. Qg8+ Nf8 25. Bd3 Qe6 26.
+Qxe6+ Nxe6 27. O-O Bf3 28. Rxf3 gxf3 29. Be4 Rc8 30. Bf5 Rc6 31. Bxe6 Rxe6
+32. Rd5 Re7 33. Kf2 Rf7 34. Rd6 h5 35. h4 1-0
+

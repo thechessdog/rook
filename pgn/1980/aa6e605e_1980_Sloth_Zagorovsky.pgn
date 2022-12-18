@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Sloth, Jorn"]
+[Black "Zagorovsky"]
+[Result "1/2-1/2"]
+[ECO "D79"]
+[Opening "Neo-Gruenfeld, 6.O-O, main line"]
+[HashCode "aa6e605e"]
+[Epoch "Rook"]
+[WhiteID "1400240"]
+[WhiteCountry "DEN"]
+
+1. Nf3 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 c6 5. d4 d5 6. cxd5 cxd5 7. O-O O-O 8. Nc3
+Ne4 9. Ne5 Nxc3 10. bxc3 Nc6 11. Nxc6 bxc6 12. Ba3 Ba6 13. Re1 Re8 14. e4 e6
+15. h4 Bc4 16. e5 Bf8 17. Bxf8 Rxf8 18. Qd2 Qe7 19. Reb1 1/2-1/2

@@ -1,0 +1,21 @@
+[Event "Czestochowa"]
+[Site "Czestochowa"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Gazik, Igor"]
+[Black "Kubik, Jan"]
+[Result "0-1"]
+[ECO "B63"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack"]
+[HashCode "8a4c3c13"]
+[Epoch "Rook"]
+[WhiteID "14900149"]
+[WhiteCountry "SVK"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd2 h6 8.
+Bxf6 gxf6 9. O-O-O a6 10. f4 Qb6 11. Nf3 Bd7 12. f5 h5 13. Kb1 O-O-O 14. g3 Ne5
+15. Nd4 Bh6 16. Qe2 Kb8 17. Bh3 Rc8 18. Ka1 Nc4 19. Nb3 Rc7 20. Rd3 a5 21. a4
+Qb4 22. fxe6 fxe6 23. Kb1 Bg7 24. Na2 Qxa4 25. Nd4 f5 26. Rhd1 Nxb2 27. Kxb2
+Qb5+ 28. Kc1 Bxd4 29. c3 Bxc3 30. Nxc3 Rxc3+ 31. Kd2 Qb2+ 32. Ke1 Qxe2+ 33.
+Kxe2 Bb5 0-1

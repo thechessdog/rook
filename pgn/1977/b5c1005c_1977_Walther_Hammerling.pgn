@@ -1,0 +1,20 @@
+[Event "corr DDR-FSM"]
+[Site "corr DDR-FSM"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Walther, J."]
+[Black "Hammerling, G."]
+[Result "1-0"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Lipnitzky attack"]
+[HashCode "b5c1005c"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 Nc6 8.
+Be3 Be7 9. Qe2 O-O 10. O-O-O Qc7 11. Kb1 b5 12. Nxc6 Qxc6 13. Bd4 Bb7 14.
+Rhe1 Rfe8 15. a3 Qc7 16. f4 Bc6 17. g4 Nd7 18. g5 g6 19. h4 Nc5 20. Ba2
+Rad8 21. h5 d5 22. hxg6 fxg6 23. Rh1 Bf8 24. Bf6 Qb7 25. Bxd8 Rxd8 26. exd5
+exd5 27. Nxd5 Bxd5 28. Rxd5 Rxd5 29. Rd1 Qe7 30. Qxe7 Bxe7 31. Rxd5 Kf8 32.
+f5 gxf5 33. Rxf5+ Ke8 34. Rf7 Bxg5 35. Rxh7 Nd7 36. b4 1-0
+

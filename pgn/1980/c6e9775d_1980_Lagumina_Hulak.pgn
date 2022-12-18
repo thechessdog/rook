@@ -1,0 +1,21 @@
+[Event "Pescara"]
+[Site "Pescara"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Lagumina"]
+[Black "Hulak"]
+[Result "0-1"]
+[ECO "B25"]
+[Opening "Sicilian"]
+[Variation "closed, 6.f4 e5 (Botvinnik)"]
+[HashCode "c6e9775d"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. f4 e5 7. Nh3 Nge7 8. f5
+Nd4 9. O-O gxf5 10. Qh5 h6 11. Rf2 Be6 12. exf5 Bxf5 13. Bxb7 Bg6 14. Qd1
+Rb8 15. Bg2 d5 16. Kh1 O-O 17. Ne2 Bh5 18. Nhg1 f5 19. c3 Ne6 20. Qf1 d4
+21. c4 Bg6 22. Nf3 Bh7 23. Nh4 Qd7 24. b3 e4 25. Nf4 e3 26. Re2 Nxf4 27.
+Qxf4 Qe6 28. Bb2 Rbd8 29. Rf1 a5 30. Qc7 f4 31. Rxf4 Bxd3 32. Re1 Rxf4 33.
+gxf4 Rc8 34. Qb7 Rf8 35. f5 Qe5 36. Nf3 Qd6 37. Nh4 Bxf5 38. Rg1 Bc8 39.
+Bd5+ Qxd5+ 0-1
+

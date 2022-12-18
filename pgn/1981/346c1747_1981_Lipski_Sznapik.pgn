@@ -1,0 +1,22 @@
+[Event "Lubniewice ch-POL"]
+[Site "Lubniewice ch-POL"]
+[Date "1981.01.01"]
+[Round "7"]
+[White "Lipski, Tadeusz"]
+[Black "Sznapik, Krzysztof"]
+[Result "1-0"]
+[ECO "B06"]
+[Opening "Robatsch defence"]
+[Variation "Pseudo-Austrian attack"]
+[HashCode "346c1747"]
+[Epoch "Rook"]
+[BlackID "1103164"]
+[BlackCountry "POL"]
+[WhiteID "1104101"]
+[WhiteCountry "POL"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. f4 a6 5. Nf3 b5 6. Bd3 Bb7 7. Qe2 Nd7 8. e5 e6
+9. O-O Ne7 10. a4 b4 11. Ne4 Bxe4 12. Bxe4 d5 13. Bd3 a5 14. Kh1 c5 15. dxc5
+Nxc5 16. Bb5+ Kf8 17. Be3 Ne4 18. Ng5 Nxg5 19. fxg5 h5 20. gxh6 Bxh6 21. Qf3
+Nf5 22. Bc5+ Kg7 23. g4 Qc7 24. gxf5 Qxe5 25. fxe6 f6 26. Rae1 Be3 27. Re2 d4
+28. Bxd4 Qxd4 29. Rxe3 1-0

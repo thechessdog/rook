@@ -1,0 +1,21 @@
+[Event "Manchester op"]
+[Site "Manchester"]
+[Date "1981.01.01"]
+[Round "?"]
+[White "Murey, Jacob"]
+[Black "Ligterink, Gert"]
+[Result "1-0"]
+[ECO "B66"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...a6"]
+[HashCode "a40f53ae"]
+[Epoch "Rook"]
+[BlackID "1000179"]
+[BlackCountry "NED"]
+[WhiteID "2803585"]
+[WhiteCountry "ISR"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 e6 7. Qd2 a6 8.
+O-O-O h6 9. Be3 Nxd4 10. Bxd4 b5 11. Qe3 e5 12. Bb6 Qd7 13. Be2 Bb7 14. f4 exf4
+15. Qxf4 Be7 16. e5 Nd5 17. Nxd5 Bg5 18. Qxg5 hxg5 19. Nc7+ Ke7 20. Rxd6 Qc8
+21. Rhd1 Re8 22. Bc5 1-0

@@ -1,0 +1,22 @@
+[Event "Mosbach Elo"]
+[Site "Mosbach Elo"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Fahnenschmidt, Gerhard"]
+[Black "Vatter, Hans-Joachim"]
+[Result "1-0"]
+[ECO "E81"]
+[Opening "King's Indian"]
+[Variation "Saemisch, 5...O-O"]
+[HashCode "9c3f35fa"]
+[Epoch "Rook"]
+[WhiteID "4600568"]
+[WhiteCountry "GER"]
+[BlackCountry "GER"]
+
+1. c4 Nf6 2. Nc3 g6 3. e4 d6 4. d4 Bg7 5. f3 O-O 6. Be3 Nbd7 7. Qd2 c5 8. O-O-O
+a6 9. dxc5 dxc5 10. Bxc5 b6 11. Be3 Qc7 12. Kb1 Nc5 13. Nge2 Bb7 14. Bf4 e5 15.
+Be3 Rfd8 16. Nd5 Bxd5 17. cxd5 Ne8 18. Rc1 Qa7 19. h4 Nd6 20. h5 f5 21. hxg6
+hxg6 22. exf5 gxf5 23. Nc3 Rac8 24. Bd3 Qd7 25. g4 Nxd3 26. Qxd3 Nc4 27. gxf5
+Nxe3 28. Qxe3 Qxf5+ 29. Ka1 b5 30. Rcg1 Rd7 31. Qh6 Kf8 32. Qxa6 Rdc7 33. Nxb5
+Rc2 34. Qa3+ R8c5 35. Nd6 1-0

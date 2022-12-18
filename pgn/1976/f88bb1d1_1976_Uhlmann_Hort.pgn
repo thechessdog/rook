@@ -1,0 +1,19 @@
+[Event "FIDE (30) 1976-1978"]
+[Site "Manila izt"]
+[Date "1976.06.01"]
+[Round "14"]
+[White "Uhlmann, Wolfgang"]
+[Black "Hort, Vlastimil"]
+[Result "1/2-1/2"]
+[ECO "D42"]
+[Opening "QGD"]
+[Variation "Semi-Tarrasch, 7.Bd3"]
+[HashCode "f88bb1d1"]
+[Epoch "Rook"]
+[WhiteID "4611284"]
+[WhiteCountry "GER"]
+[BlackID "4600029"]
+[BlackCountry "GER"]
+
+1. c4 Nf6 2. Nc3 e6 3. Nf3 d5 4. d4 c5 5. cxd5 Nxd5 6. e3 Nc6 7. Bd3 Be7 8. O-O
+Nxc3 9. bxc3 O-O 10. Qe2 b6 11. Bb2 Bb7 12. Rfd1 cxd4 13. cxd4 1/2-1/2

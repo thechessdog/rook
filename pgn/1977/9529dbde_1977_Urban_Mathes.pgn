@@ -1,0 +1,20 @@
+[Event "corr DDR-FSM"]
+[Site "corr DDR-FSM"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Urban, H."]
+[Black "Mathes, W."]
+[Result "1-0"]
+[ECO "B94"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.Bg5"]
+[HashCode "9529dbde"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 Nbd7 7. Bc4 Nb6
+8. Bb3 e5 9. Nde2 Be6 10. Bxe6 fxe6 11. O-O Be7 12. Qd3 Rc8 13. Qh3 Qd7 14.
+f4 O-O 15. Rad1 exf4 16. e5 Nfd5 17. Nxd5 Nxd5 18. Rxd5 Bxg5 19. Nd4 f3 20.
+Rxd6 Be3+ 21. Kh1 Qa4 22. Qxe6+ Kh8 23. Nxf3 Qxc2 24. Rfd1 Rce8 25. Qd5
+Qxb2 26. Rd7 b5 27. Qe4 Qf2 28. e6 Bb6 29. h4 Rxe6 30. Qxe6 Rxf3 31. Qxb6
+1-0
+

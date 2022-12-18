@@ -1,0 +1,16 @@
+[Event "Buenos Aires ch-ARG"]
+[Site "Buenos Aires ch-ARG"]
+[Date "1976.01.01"]
+[Round "4"]
+[White "Stupfler, R."]
+[Black "Botto, S."]
+[Result "0-1"]
+[ECO "B20"]
+[Opening "Sicilian"]
+[Variation "wing gambit, Carlsbad variation"]
+[HashCode "8648fbb5"]
+[Epoch "Rook"]
+
+1. e4 c5 2. b4 cxb4 3. a3 bxa3 4. Nxa3 e6 5. d4 d5 6. e5 Ne7 7. c3 Nd7 8. f4 h5
+9. Bd3 g6 10. Ne2 h4 11. Bd2 Nf5 12. Nb5 a6 13. O-O Nb6 14. Na3 Bd7 15. c4 Bxa3
+16. Bxf5 gxf5 17. c5 Nc4 0-1

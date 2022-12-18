@@ -1,0 +1,18 @@
+[Event "corr Coupe Latine III"]
+[Site "corr Coupe Latine III"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Demian"]
+[Black "Weiss"]
+[Result "0-1"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack"]
+[HashCode "ff42ec0f"]
+[Epoch "Rook"]
+
+1. Nc3 d5 2. d4 Nf6 3. Bg5 g6 4. Nf3 Bg7 5. e3 Nbd7 6. Bd3 c6 7. O-O O-O 8.
+h3 Re8 9. Bf4 Nh5 10. Bh2 e5 11. g4 e4 12. gxh5 Nf6 13. hxg6 fxg6 14. Ne5
+exd3 15. cxd3 Bxh3 16. Re1 Nh5 17. f4 Qh4 18. Qf3 Bxe5 19. dxe5 Rxe5 20.
+fxe5 Rf8 21. Qxf8+ Kxf8 22. Re2 Qg4+ 23. Kh1 Ng3+ 24. Bxg3 Qxg3 25. Rg1
+Qf3+ 26. Kh2 Bf1 0-1
+

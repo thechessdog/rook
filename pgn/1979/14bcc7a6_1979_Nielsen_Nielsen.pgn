@@ -1,0 +1,23 @@
+[Event "Hillerod"]
+[Site "Hillerod"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Nielsen, Bjorn"]
+[Black "Nielsen, Jacob Woge"]
+[Result "0-1"]
+[ECO "A57"]
+[Opening "Benko gambit"]
+[Variation "Zaitsev system"]
+[HashCode "14bcc7a6"]
+[Epoch "Rook"]
+[WhiteID "1416839"]
+[WhiteCountry "DEN"]
+[BlackID "1402900"]
+[BlackCountry "DEN"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. Nc3 axb5 6. e4 b4 7. Nb5 d6 8. f3 Qb6
+9. a4 Ba6 10. Be3 g6 11. Rc1 Nbd7 12. Nh3 Bg7 13. Nf2 O-O 14. Be2 Rfb8 15. O-O
+Ne8 16. b3 Nc7 17. Nxc7 Qxc7 18. Bxa6 Rxa6 19. Qe2 Qa5 20. Nd1 Nb6 21. Nb2 Bxb2
+22. Qxb2 c4 23. Ra1 cxb3 24. Qxb3 Nxa4 25. f4 Qb5 26. Bd4 Nc5 27. Qf3 Qc4 28.
+Bxc5 Qxc5+ 29. Qf2 Rxa1 30. Rxa1 Qc3 31. Rb1 Rc8 32. g3 Qd3 33. Qe1 b3 34. Rd1
+Qf3 35. e5 Rc2 36. Rd2 Qc3 37. Re2 Rc1 0-1

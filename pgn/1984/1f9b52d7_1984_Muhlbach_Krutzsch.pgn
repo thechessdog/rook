@@ -1,0 +1,23 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Muhlbach"]
+[Black "Krutzsch"]
+[Result "0-1"]
+[ECO "B17"]
+[Opening "Caro-Kann"]
+[Variation "Steinitz variation"]
+[HashCode "1f9b52d7"]
+[Epoch "Rook"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Ng3 e6 7. Bd3 c5
+8. O-O cxd4 9. Nxd4 Bc5 10. Nf3 O-O 11. b3 b6 12. c4 Qc7 13. Bb2 Bb7 14.
+Re1 Rad8 15. Qc2 Bxf3 16. gxf3 Qf4 17. Qe2 Rfe8 18. Bc1 Qe5 19. Bb2 Qxe2
+20. Bxe2 h6 21. Rad1 Nh7 22. Ne4 Bb4 23. Rf1 Nc5 24. Nd6 Rxd6 25. Rxd6 Na4
+26. bxa4 Bxd6 27. Rd1 Rd8 28. Ba3 Bc7 29. Rxd8+ Bxd8 30. Bd6 f5 31. Bb8 a5
+32. Ba7 Nf6 33. Bb8 Nd7 34. Bd6 Kf7 35. Bd1 Be7 36. Bc7 g5 37. f4 g4 38. f3
+Bc5+ 39. Kg2 h5 40. fxg4 hxg4 41. h3 gxh3+ 42. Kxh3 Ke7 43. Bf3 Bd6 44.
+Bxd6+ Kxd6 45. Bd1 Kc5 46. Bb3 Kd4 47. Kh4 Nc5 48. Kg5 Ne4+ 49. Kg6 Ke3 50.
+Kf7 Nc5 51. Bd1 Kxf4 0-1
+

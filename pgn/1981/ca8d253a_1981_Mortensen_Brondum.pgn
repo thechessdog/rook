@@ -1,0 +1,23 @@
+[Event "Politiken Cup"]
+[Site "Copenhagen"]
+[Date "1981.01.01"]
+[Round "4"]
+[White "Mortensen, Erling"]
+[Black "Brondum, Eric"]
+[Result "1-0"]
+[ECO "B92"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Opovcensky variation"]
+[HashCode "ca8d253a"]
+[Epoch "Rook"]
+[WhiteID "1400045"]
+[WhiteCountry "DEN"]
+[BlackID "1400894"]
+[BlackCountry "DEN"]
+
+1. e4 c5 2. Nf3 Nf6 3. Nc3 d6 4. d4 cxd4 5. Nxd4 a6 6. Be2 e5 7. Nb3 Be7 8. O-O
+O-O 9. a4 Be6 10. f4 Qc7 11. Kh1 Nbd7 12. f5 Bc4 13. a5 Rac8 14. Bxc4 Qxc4 15.
+Ra4 Qc6 16. Qf3 h6 17. Be3 Rfe8 18. Nd2 Qc7 19. Nc4 Qb8 20. Rd1 Bf8 21. b3 Rc6
+22. g4 Be7 23. h4 Nh7 24. Qg3 Qd8 25. Bf2 Nhf6 26. Raa1 h5 27. g5 Ng4 28. Bg1
+Nc5 29. Bxc5 Rxc5 30. Nd5 Bf8 31. Rd2 Rc6 32. Nce3 Nxe3 33. Qxe3 Be7 34. Qf3 g6
+35. Rf2 1-0

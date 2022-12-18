@@ -1,0 +1,22 @@
+[Event "Bundesliga 8081"]
+[Site "Germany"]
+[Date "1981.??.??"]
+[Round "?"]
+[White "Bachmann, Karlheinz"]
+[Black "Ditt, Egon"]
+[Result "0-1"]
+[ECO "A88"]
+[Opening "Dutch"]
+[Variation "Leningrad, main variation with c6"]
+[HashCode "1982d1d3"]
+[Epoch "Rook"]
+[WhiteID "4602021"]
+[BlackID "4603400"]
+[WhiteCountry "GER"]
+[BlackCountry "GER"]
+
+1. c4 g6 2. d4 f5 3. g3 Bg7 4. Bg2 Nf6 5. Nf3 O-O 6. O-O d6 7. Nc3 c6 8. d5
+cxd5 9. cxd5 Na6 10. Be3 Nc5 11. Bd4 Bd7 12. Rc1 Qa5 13. a3 Nce4 14. Nd2 Nxc3
+15. Bxc3 Qa6 16. Re1 Rac8 17. h3 Ba4 18. b3 Bd7 19. e3 Bb5 20. a4 Bd3 21. Bd4
+Be2 22. Rxe2 Rxc1 23. Qxc1 Qxe2 24. Bf1 Qh5 25. Qc7 Qd1 26. Nc4 Ne4 27. Bxg7
+Qe1 0-1

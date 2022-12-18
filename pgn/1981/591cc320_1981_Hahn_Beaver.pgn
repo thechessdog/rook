@@ -1,0 +1,19 @@
+[Event "E Lansing ch-MI M/X"]
+[Site "E Lansing ch-MI M/X"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Hahn, D."]
+[Black "Beaver, A."]
+[Result "1-0"]
+[ECO "C26"]
+[Opening "Vienna"]
+[Variation "Paulsen-Mieses variation"]
+[HashCode "591cc320"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nc3 Nf6 3. g3 d5 4. exd5 Nxd5 5. Bg2 Nxc3 6. bxc3 Bc5 7. Ne2
+Qe7 8. d4 Bd6 9. O-O O-O 10. Re1 f6 11. Nf4 c6 12. Nd3 Qc7 13. a4 Na6 14.
+f4 exf4 15. Bxf4 Bf5 16. Bxd6 Qxd6 17. Qf3 Be6 18. Nf4 Bd7 19. Bf1 Nc7 20.
+Bc4+ Kh8 21. Qh5 f5 22. Bf7 Qh6 23. Qxh6 gxh6 24. Re7 Rad8 25. Rae1 a5 26.
+Bb3 b6 27. Rxh7+ Kxh7 28. Re7+ Kh8 29. Ng6# 1-0
+

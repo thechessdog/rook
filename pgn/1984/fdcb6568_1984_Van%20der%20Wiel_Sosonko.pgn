@@ -1,0 +1,20 @@
+[Event "Hoogovens"]
+[Site "Wijk aan Zee"]
+[Date "1984.01.01"]
+[Round "6"]
+[White "Van der Wiel, John T.H."]
+[Black "Sosonko, Gennadi"]
+[Result "1/2-1/2"]
+[ECO "B26"]
+[Opening "Sicilian"]
+[Variation "closed, 6.Be3"]
+[HashCode "fdcb6568"]
+[Epoch "Rook"]
+[WhiteID "1000020"]
+[WhiteCountry "NED"]
+[BlackID "1000039"]
+[BlackCountry "NED"]
+
+1. e4 c5 2. Nc3 d6 3. g3 Nc6 4. Bg2 g6 5. d3 Bg7 6. Be3 Rb8 7. Nge2 Nd4 8. O-O
+b5 9. b4 e6 10. a4 a6 11. axb5 axb5 12. Rb1 Bd7 13. Na2 Ne7 14. bxc5 dxc5 15.
+c3 Nxe2+ 16. Qxe2 Rc8 17. f4 O-O 18. Qf2 1/2-1/2

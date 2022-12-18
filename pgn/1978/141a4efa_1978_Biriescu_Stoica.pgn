@@ -1,0 +1,19 @@
+[Event "Bucharest"]
+[Site "Bucharest"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Biriescu, Ion"]
+[Black "Stoica, Valentin"]
+[Result "1/2-1/2"]
+[ECO "B94"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.Bg5"]
+[HashCode "141a4efa"]
+[Epoch "Rook"]
+[BlackID "1200070"]
+[BlackCountry "ROU"]
+
+1. e4 c5 2. Nf3 d6 3. d4 Nf6 4. Nc3 cxd4 5. Nxd4 a6 6. Bg5 Nc6 7. Qd3 e6 8. Be2
+Bd7 9. O-O Be7 10. Nb3 b5 11. Bxf6 gxf6 12. Qg3 Qb6 13. a4 b4 14. a5 Qc7 15.
+Qg7 Rf8 16. Nd1 Qa7 17. Ne3 Ne5 18. Rfd1 Qb7 19. Rd4 Nc6 20. Rdd1 Ne5 21. Rd4
+Nc6 22. Rdd1 Ne5 1/2-1/2

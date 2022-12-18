@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Wiese, W."]
+[Black "Bierbaum, H."]
+[Result "1-0"]
+[ECO "C05"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation"]
+[HashCode "6cc43040"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Bd3 c5 6. c3 Nc6 7. Ne2 Qb6 8.
+Nf3 cxd4 9. cxd4 Bb4+ 10. Kf1 f6 11. Nf4 Na5 12. a3 Be7 13. b4 Nc4 14. Qe2
+Qa6 15. b5 Qxb5 16. Nxe6 Qc6 17. Nxg7+ Kf7 18. Nf5 fxe5 19. dxe5 Rf8 20.
+N3d4 1-0
+

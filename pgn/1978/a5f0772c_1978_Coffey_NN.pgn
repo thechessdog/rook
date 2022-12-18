@@ -1,0 +1,16 @@
+[Event "Indiana"]
+[Site "Indiana"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Coffey, J."]
+[Black "NN"]
+[Result "1-0"]
+[ECO "A35"]
+[Opening "English"]
+[Variation "symmetrical, four knights system"]
+[HashCode "a5f0772c"]
+[Epoch "Rook"]
+
+1. c4 c5 2. Nc3 Nc6 3. Nf3 Nf6 4. d4 e6 5. d5 Ne7 6. d6 Nc6 7. Nb5 Bxd6 8.
+Qxd6 1-0
+

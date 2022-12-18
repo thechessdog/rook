@@ -1,0 +1,19 @@
+[Event "Ljubljana"]
+[Site "Ljubljana"]
+[Date "1981.01.01"]
+[Round "4"]
+[White "Bukic, Enver"]
+[Black "Ostojic, Predrag"]
+[Result "1/2-1/2"]
+[ECO "E16"]
+[Opening "Queen's Indian"]
+[Variation "Yates variation"]
+[HashCode "f5bb36ef"]
+[Epoch "Rook"]
+[WhiteID "14600030"]
+[WhiteCountry "SLO"]
+[BlackCountry "SRB"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2 Bb4+ 6. Bd2 a5 7. O-O O-O 8. Bf4
+Be7 9. Nc3 Ne4 10. Nxe4 Bxe4 11. Rc1 d6 12. Qd2 Nd7 13. Rfd1 Qc8 14. Ne1 Bxg2
+15. Nxg2 Bf6 16. Bg5 Qb7 1/2-1/2

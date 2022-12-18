@@ -1,0 +1,20 @@
+[Event "Poland"]
+[Site "Poland"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Pokojowczyk, Jerzy"]
+[Black "Maciejewski, Andrzej"]
+[Result "1/2-1/2"]
+[ECO "C10"]
+[Opening "French"]
+[Variation "Fort Knox variation"]
+[HashCode "faee462b"]
+[Epoch "Rook"]
+[BlackID "1100181"]
+[BlackCountry "POL"]
+[WhiteID "1100718"]
+[WhiteCountry "POL"]
+
+1. e4 e6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Bd7 5. Nf3 Bc6 6. Bd3 Nd7 7. O-O Ngf6 8.
+Nxf6+ Nxf6 9. Qe2 Be7 10. c3 Qd5 11. c4 Qd6 12. Rd1 Rd8 13. Ne5 Qxd4 14. Nxc6
+bxc6 15. Be3 Qh4 16. g3 Qh3 17. Bxa7 c5 18. Be4 1/2-1/2

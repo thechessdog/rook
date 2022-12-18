@@ -1,0 +1,18 @@
+[Event "corr DDR/M"]
+[Site "corr DDR/M"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Krug, N."]
+[Black "Schwarzbach, W."]
+[Result "1-0"]
+[ECO "C95"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Breyer, Borisenko variation"]
+[HashCode "b6c41aa9"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8.
+c3 d6 9. h3 Nb8 10. d4 Nbd7 11. Nbd2 Bb7 12. Bc2 Re8 13. b4 Bf8 14. a4 c5
+15. d5 Qc7 16. a5 cxb4 17. cxb4 Rec8 18. Bd3 Qc3 19. Nb3 Nxd5 20. exd5 Bxd5
+21. Bxh7+ Kxh7 22. Qxd5 Nf6 23. Ng5+ 1-0
+

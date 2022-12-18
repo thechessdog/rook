@@ -1,0 +1,18 @@
+[Event "Berlin tt"]
+[Site "Berlin-West"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Giffard, Nicolas"]
+[Black "Hecht, Hans-Joachim"]
+[Result "1/2-1/2"]
+[ECO "E20"]
+[Opening "Nimzo-Indian defence"]
+[HashCode "7c19f324"]
+[Epoch "Rook"]
+[WhiteID "600571"]
+[WhiteCountry "FRA"]
+[BlackCountry "DEU"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Bd2 d5 5. cxd5 exd5 6. Nf3 O-O 7. g3 c5 8. Bg2
+cxd4 9. Nxd4 Nc6 10. Nxc6 bxc6 11. O-O Be6 12. Na4 Bxd2 13. Qxd2 Ne4 14. Qd4
+Qa5 15. Rac1 c5 16. Nxc5 Nxc5 17. Rxc5 Qxa2 18. Bxd5 1/2-1/2

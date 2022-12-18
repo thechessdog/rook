@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Schreiber, H."]
+[Black "Roisin, L."]
+[Result "0-1"]
+[ECO "E29"]
+[Opening "Nimzo-Indian"]
+[Variation "Saemisch, main line"]
+[HashCode "92cf7599"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. a3 Bxc3+ 5. bxc3 c5 6. e3 Nc6 7. Bd3 O-O
+8. Nf3 d6 9. O-O e5 10. d5 Ne7 11. Bc2 Ne8 12. Ng5 f5 13. f4 e4 14. g4 Nf6
+15. h3 fxg4 16. Nxe4 Nxe4 17. Bxe4 gxh3 18. Bd3 Qe8 19. e4 Qg6+ 20. Kf2
+Qg2+ 21. Ke3 Nf5+ 0-1
+

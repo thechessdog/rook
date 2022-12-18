@@ -1,0 +1,23 @@
+[Event "Lucerne"]
+[Site "Lucerne"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Lobron, Eric"]
+[Black "Gruenfeld, Yehuda"]
+[Result "1-0"]
+[ECO "B15"]
+[Opening "Caro-Kann"]
+[Variation "Gurgenidze system"]
+[HashCode "d16dc9ad"]
+[Epoch "Rook"]
+[WhiteID "4600037"]
+[BlackID "2800020"]
+[WhiteCountry "GER"]
+[BlackCountry "ISR"]
+
+1. e4 g6 2. d4 c6 3. Nc3 d5 4. h3 Bg7 5. Nf3 Nf6 6. Bd3 dxe4 7. Nxe4 Nxe4 8.
+Bxe4 Bf5 9. Bxf5 Qa5+ 10. c3 Qxf5 11. O-O Nd7 12. Re1 e6 13. Qb3 b6 14. Qa3 a5
+15. c4 Bf8 16. Qb3 Bb4 17. Re2 O-O 18. Bg5 h5 19. Qe3 a4 20. Nh4 Qa5 21. a3 Bd6
+22. Nxg6 fxg6 23. Qxe6+ Rf7 24. Qxg6+ Rg7 25. Qe6+ Rf7 26. Bd2 Qa6 27. Qxd6
+Qxc4 28. Qg6+ Rg7 29. Qe6+ Qxe6 30. Rxe6 c5 31. d5 b5 32. Rae1 Ra7 33. Re8+ Nf8
+34. Bh6 Rgf7 35. R1e5 1-0

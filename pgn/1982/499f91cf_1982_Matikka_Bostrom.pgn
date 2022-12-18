@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Matikka"]
+[Black "Bostrom, Olavi"]
+[Result "1-0"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack, Richter variation"]
+[HashCode "499f91cf"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 Bf5 4. f3 Nbd7 5. Qd2 c6 6. O-O-O Qa5 7. e4 dxe4
+8. fxe4 Bg4 9. Nf3 e6 10. Qf4 Bh5 11. Bh4 h6 12. Be1 g5 13. Qg3 Bxf3 14.
+gxf3 Nh5 15. Qf2 O-O-O 16. Kb1 Qc7 17. Bd2 Nf4 18. Ne2 Nxe2 19. Bxe2 e5 20.
+Be3 b6 21. c3 Bd6 22. Bc4 Nf8 23. dxe5 Bxe5 24. Rxd8+ Kxd8 25. h4 f6 26.
+hxg5 fxg5 27. f4 Bxf4 28. Bxf4 Qxf4 29. Qd4+ Kc7 30. Rf1 Ne6 31. Qxh8 Qxe4+
+32. Kc1 Kd6 33. Rd1+ Kc5 34. Bxe6 Qe3+ 35. Kb1 1-0
+

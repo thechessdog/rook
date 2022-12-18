@@ -1,0 +1,23 @@
+[Event "corr DDR-M"]
+[Site "corr DDR-M"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Walther, J."]
+[Black "Fuchs, Reinhart"]
+[Result "1-0"]
+[ECO "B17"]
+[Opening "Caro-Kann"]
+[Variation "Steinitz variation"]
+[HashCode "031808ac"]
+[Epoch "Rook"]
+[BlackID "4611357"]
+[BlackCountry "GER"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Nxf6+ Nxf6 7. Bc4 g6
+8. Ne5 Nd5 9. Qf3 Be6 10. Bd2 Bg7 11. O-O-O Qd6 12. Rde1 f6 13. Nd3 Bd7 14. Nc5
+b6 15. Ne4 Qc7 16. Bxd5 cxd5 17. Nxf6+ Bxf6 18. Qxf6 O-O-O 19. Rxe7 Qc6 20.
+Qxc6+ Bxc6 21. Rhe1 Rd7 22. Bg5 Rf8 23. f3 Rf7 24. Re8+ Kb7 25. R8e3 Kc8 26. h4
+Rc7 27. c3 Kb7 28. Kd2 Bd7 29. Re7 Rxe7 30. Rxe7 Bc6 31. Re5 Rf7 32. Ke3 Kc7
+33. g4 Kd6 34. Bh6 Bd7 35. h5 gxh5 36. Rxh5 Be6 37. Bf4+ Kd7 38. Be5 Ke8 39. f4
+b5 40. f5 Bc8 41. Rh6 Re7 42. Kf4 Rf7 43. Bh8 Re7 44. Rd6 Bb7 45. Bf6 Rd7 46.
+Rxd7 Kxd7 47. Ke5 a5 48. Bh4 1-0

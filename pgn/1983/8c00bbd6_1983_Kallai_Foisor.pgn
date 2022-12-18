@@ -1,0 +1,24 @@
+[Event "Bucharest"]
+[Site "Bucharest"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Kallai, Gabor"]
+[Black "Foisor, Ovidiu-Doru"]
+[Result "0-1"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Nimzovich (knight's tour) variation"]
+[HashCode "8c00bbd6"]
+[Epoch "Rook"]
+[BlackID "1200143"]
+[BlackCountry "ROU"]
+[WhiteID "700282"]
+[WhiteCountry "HUN"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. Nd2 Nbd7 8. e4
+Bg7 9. Be2 O-O 10. O-O Re8 11. f4 c4 12. Bxc4 Nc5 13. e5 dxe5 14. fxe5 Rxe5 15.
+Nf3 Re8 16. Kh1 Nfe4 17. Nxe4 Rxe4 18. Bg5 f6 19. Rc1 fxg5 20. d6+ Rxc4 21.
+Rxc4 g4 22. Rxc5 gxf3 23. Qxf3 Be6 24. Rd1 Qb6 25. Rc7 Rf8 26. Qxb7 Qd4 27.
+Rcc1 Qxb2 28. Qxa7 Bd5 29. Qg1 Bd4 30. Rb1 Qxa2 31. Ra1 Bxg1 32. Rxa2 Bxa2 33.
+Kxg1 Kf7 34. Kf2 Ke6+ 35. Ke3 Rd8 36. Kf4 h6 37. h4 Rxd6 38. Rxd6+ Kxd6 39. h5
+g5+ 40. Kf5 Bf7 0-1

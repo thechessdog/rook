@@ -1,0 +1,16 @@
+[Event "Europe"]
+[Site "Europe"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "NN"]
+[Black "Bodin, Anders"]
+[Result "0-1"]
+[ECO "D09"]
+[Opening "QGD"]
+[Variation "Albin counter-gambit, 5.g3"]
+[HashCode "ef325c79"]
+[Epoch "Rook"]
+
+1. d4 d5 2. c4 e5 3. dxe5 d4 4. Nf3 Nc6 5. g3 Bb4+ 6. Bd2 Qe7 7. Bg2 Nxe5
+8. Qa4+ Bd7 9. Qxb4 Nd3+ 0-1
+

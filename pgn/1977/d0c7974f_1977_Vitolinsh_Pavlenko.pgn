@@ -1,0 +1,16 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Vitolinsh, Alvis"]
+[Black "Pavlenko, Oleg"]
+[Result "1-0"]
+[ECO "B40"]
+[Opening "Sicilian defence"]
+[HashCode "d0c7974f"]
+[Epoch "Rook"]
+[WhiteCountry "LVA"]
+
+1. e4 c5 2. Nf3 e6 3. d4 b6 4. Nc3 d6 5. Bc4 Be7 6. O-O Ba6 7. Qe2 Bxc4 8. Qxc4
+Nf6 9. dxc5 bxc5 10. e5 d5 11. Qa4+ Nfd7 12. Qg4 g5 13. Qh5 Nc6 14. Bxg5 Bxg5
+15. Nxg5 Ncxe5 16. Nxe6 1-0

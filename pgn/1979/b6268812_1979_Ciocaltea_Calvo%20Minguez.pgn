@@ -1,0 +1,19 @@
+[Event "Zagreb"]
+[Site "Zagreb"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Ciocaltea, Victor"]
+[Black "Calvo José Minguez, Ricardo"]
+[Result "0-1"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (without ...d6)"]
+[HashCode "b6268812"]
+[Epoch "Rook"]
+[WhiteCountry "ROU"]
+[BlackCountry "EST"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 e6 4. c3 a6 5. Ba4 Nge7 6. O-O c4 7. Bc2 d5 8. b3
+Ng6 9. Qe2 cxb3 10. axb3 d4 11. Nxd4 Nxd4 12. cxd4 Qxd4 13. Ra4 Qa7 14. d4 Bd7
+15. Ra2 Qxd4 16. Be3 Qb4 17. Na3 Bc5 18. Bd2 Qb6 19. b4 Bd4 20. Nc4 Qc7 21. Bd3
+O-O 22. Rc1 Rac8 23. g3 Bb5 24. h4 Qxg3+ 0-1

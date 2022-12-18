@@ -1,0 +1,20 @@
+[Event "Regionalliga Nord"]
+[Site "RLN 8182"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Teloudis, Angelis"]
+[Black "Dietz, Juergen"]
+[Result "0-1"]
+[ECO "C18"]
+[Opening "French"]
+[Variation "Winawer, classical variation"]
+[HashCode "4f1ee2bf"]
+[Epoch "Rook"]
+[BlackID "4610695"]
+[BlackCountry "GER"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Qc7 7. Qg4 f6 8. Nf3
+cxd4 9. cxd4 Qxc2 10. Qxg7 Qc3+ 11. Kd1 Bd7 12. a4 Qxa1 13. Bd3 Bxa4+ 14. Ke2
+Nd7 15. Qxh8 O-O-O 16. Re1 fxe5 17. Bd2 Qa3 18. Nxe5 Ngf6 19. Qg7 Nxe5 20. dxe5
+Ne4 21. Rc1+ Bc6 22. Qf7 Kb8 23. Rc2 Rf8 24. Qxe6 Rxf2+ 25. Ke3 d4+ 26. Kxd4
+Rxd2 27. Qg8+ Kc7 28. Qxh7+ Kb6 29. Rxc6+ bxc6 30. Qh3 Qb4+ 31. Ke3 Rxd3+ 0-1

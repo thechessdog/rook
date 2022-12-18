@@ -1,0 +1,19 @@
+[Event "corr ch-DDR"]
+[Site "corr ch-DDR"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Lauckner"]
+[Black "Guszmer"]
+[Result "1-0"]
+[ECO "A45"]
+[Opening "Queen's pawn game"]
+[HashCode "39728f41"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. Nc3 c5 3. d5 g6 4. e4 d6 5. f4 Bg7 6. Bb5+ Nfd7 7. a4 O-O 8.
+Nf3 a6 9. Be2 Nf6 10. O-O Bg4 11. h3 Bxf3 12. Bxf3 Nbd7 13. Qe2 Qc7 14. g4
+c4 15. Kg2 Rab8 16. a5 h6 17. h4 Nh7 18. Be3 Kh8 19. Rfd1 Rfc8 20. Qd2 Nc5
+21. f5 b5 22. Bxh6 b4 23. Bxg7+ Kxg7 24. Ne2 c3 25. bxc3 b3 26. Rdb1 Nf6
+27. fxg6 fxg6 28. Nd4 bxc2 29. Qxc2 Qd7 30. g5 Ng4 31. Ne6+ Nxe6 32. Bxg4
+Rxb1 33. Rxb1 Nf4+ 34. Kf3 1-0
+

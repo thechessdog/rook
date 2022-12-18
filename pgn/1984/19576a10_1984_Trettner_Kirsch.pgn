@@ -1,0 +1,18 @@
+[Event "corr DDR/FS"]
+[Site "corr DDR/FS"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Trettner"]
+[Black "Kirsch, Michael"]
+[Result "1/2-1/2"]
+[ECO "C09"]
+[Opening "French"]
+[Variation "Tarrasch, open variation, main line"]
+[HashCode "19576a10"]
+[Epoch "Rook"]
+[BlackID "12969460"]
+[BlackCountry "GER"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. Ngf3 Nc6 5. exd5 exd5 6. Bb5 Bd6 7. O-O Ne7 8.
+dxc5 Bxc5 9. Nb3 Bb6 10. Re1 O-O 11. Bg5 Qd6 12. Qd2 Bg4 13. Bf4 Qg6 14. Ne5
+Nxe5 15. Rxe5 Be6 16. Rg5 Qf6 17. Be5 Qxf2+ 18. Qxf2 Bxf2+ 19. Kxf2 1/2-1/2

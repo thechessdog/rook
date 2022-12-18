@@ -1,0 +1,21 @@
+[Event "ACM Houston"]
+[Site "ACM Houston"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Chaos"]
+[Black "L'Excentrique"]
+[Result "1-0"]
+[ECO "D31"]
+[Opening "QGD"]
+[Variation "3.Nc3"]
+[HashCode "911ce8d9"]
+[Epoch "Rook"]
+
+1. d4 e6 2. c4 d5 3. Nc3 dxc4 4. e4 e5 5. d5 b5 6. Nxb5 Bb4+ 7. Bd2 Bxd2+
+8. Qxd2 a6 9. Nc3 f5 10. Nf3 fxe4 11. Nxe5 Qd6 12. Qg5 Qf6 13. Nxe4 Qxg5
+14. Nxg5 h6 15. Nef7 hxg5 16. Nxh8 Ne7 17. Bxc4 Nd7 18. O-O-O Ne5 19. Be2
+Bf5 20. d6 cxd6 21. Rxd6 Rc8+ 22. Kd2 Rc2+ 23. Kd1 Rxb2 24. Rf1 Rxa2 25.
+Rxa6 Rxa6 26. Bxa6 Kf8 27. Re1 Ng4 28. f3 Nxh2 29. Rh1 Nxf3 30. gxf3 g4 31.
+fxg4 Bxg4+ 32. Kd2 Bf5 33. Bd3 Bxd3 34. Kxd3 g5 35. Rh5 Kg7 36. Rxg5+ Kxh8
+37. Ke4 Kh7 38. Ke5 Nc6+ 39. Kf6 Kh6 40. Rd5 Nb4 41. Rd4 Nc6 42. Rh4# 1-0
+

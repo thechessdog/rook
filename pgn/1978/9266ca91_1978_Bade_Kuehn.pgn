@@ -1,0 +1,18 @@
+[Event "corr ch9-DDR"]
+[Site "corr ch9-DDR"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Bade, U."]
+[Black "Kuehn, W."]
+[Result "1-0"]
+[ECO "B27"]
+[Opening "Sicilian"]
+[Variation "Hungarian variation"]
+[HashCode "9266ca91"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 g6 3. d4 cxd4 4. Qxd4 Nf6 5. Bb5 Qa5+ 6. Qc3 Nc6 7. Qxa5
+Nxa5 8. Nc3 Bg7 9. e5 Ng4 10. Nd5 Rb8 11. Bf4 Nc6 12. h3 Nh6 13. O-O-O a6
+14. Nc7+ Kd8 15. Nxa6 Ra8 16. Bxc6 bxc6 17. Nb4 Bb7 18. a3 Kc7 19. Rd3 Ba6
+20. Nxa6+ Rxa6 21. Rhd1 Rd8 22. Ng5 1-0
+

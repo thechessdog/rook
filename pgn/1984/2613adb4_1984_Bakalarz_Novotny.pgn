@@ -1,0 +1,20 @@
+[Event "Katowice"]
+[Site "Katowice"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Bakalarz, Mieczysla"]
+[Black "Novotny, Joseph"]
+[Result "1-0"]
+[ECO "B86"]
+[Opening "Sicilian"]
+[Variation "Sozin attack"]
+[HashCode "2613adb4"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bc4 Be7 7. Be3 O-O
+8. Bb3 Nc6 9. Qe2 a6 10. O-O-O Qc7 11. Rhg1 Nd7 12. g4 Nc5 13. g5 Nxb3+ 14.
+cxb3 b5 15. Kb1 Bd7 16. Qh5 g6 17. Qh6 Rfd8 18. Rg3 Bf8 19. Qh4 Bg7 20. Rh3
+b4 21. Qxh7+ Kf8 22. Nf5 exf5 23. Nd5 Qa5 24. Nf6 Be6 25. Qg8+ Ke7 26. Qxg7
+fxe4 27. Rh4 d5 28. Nxe4 d4 29. Qf6+ Kd7 30. Bxd4 Nxd4 31. Qxd4+ Kc7 32.
+Rc1+ Kb8 33. Rh8 Kb7 34. Nc5+ 1-0
+

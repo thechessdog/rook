@@ -1,0 +1,17 @@
+[Event "Dayton,OH"]
+[Site "Dayton,OH"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Wolford, Dave"]
+[Black "Jordan, James"]
+[Result "0-1"]
+[ECO "C33"]
+[Opening "KGA"]
+[Variation "bishop's gambit"]
+[HashCode "2015432b"]
+[Epoch "Rook"]
+
+1. e4 e5 2. f4 exf4 3. Bc4 Qh4+ 4. Kf1 d6 5. Nf3 Qh5 6. d4 g5 7. Qe1 Be7 8.
+e5 g4 9. Ng1 f3 10. Bf4 fxg2+ 11. Kxg2 Qf5 12. Qf2 Qe4+ 13. Kg3 h5 14. h4
+Qxh1 15. exd6 Bxh4# 0-1
+

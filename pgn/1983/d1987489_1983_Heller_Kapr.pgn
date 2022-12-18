@@ -1,0 +1,18 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Heller"]
+[Black "Kapr"]
+[Result "0-1"]
+[ECO "C45"]
+[Opening "Scotch"]
+[Variation "Potter variation"]
+[HashCode "d1987489"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Bc5 5. Nb3 Bb6 6. a4 a6 7. Nc3 d6 8.
+a5 Ba7 9. Be2 Nf6 10. O-O O-O 11. Bg5 h6 12. Bh4 Re8 13. Bf3 Be6 14. Nd5 g5
+15. Bg3 Ne5 16. Ra4 Bd7 17. Ra3 Nxf3+ 18. gxf3 Nxd5 19. Qxd5 Qf6 20. e5 Qf5
+21. Qxb7 Bb5 22. Re1 Qxc2 23. Rc1 Qxb2 24. Rxc7 Bc5 25. h4 Ra7 0-1
+

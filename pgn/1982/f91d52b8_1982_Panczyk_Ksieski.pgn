@@ -1,0 +1,22 @@
+[Event "Poland"]
+[Site "Poland"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Panczyk, Krzysztof"]
+[Black "Ksieski, Zbigniew"]
+[Result "0-1"]
+[ECO "E95"]
+[Opening "King's Indian"]
+[Variation "orthodox, 7...Nbd7, 8.Re1"]
+[HashCode "f91d52b8"]
+[Epoch "Rook"]
+[WhiteID "1100211"]
+[BlackID "1100564"]
+[WhiteCountry "POL"]
+[BlackCountry "POL"]
+
+1. d4 d6 2. c4 g6 3. Nc3 Bg7 4. e4 Nf6 5. Be2 O-O 6. Nf3 Nbd7 7. O-O e5 8. Re1
+c6 9. Bf1 exd4 10. Nxd4 Ng4 11. Qxg4 Bxd4 12. Qd1 Qf6 13. Be3 Bc5 14. Qd2 Re8
+15. Rad1 Nf8 16. h3 h5 17. Bd4 Qe7 18. Bxc5 dxc5 19. f4 Be6 20. e5 Rad8 21. Qf2
+Bf5 22. g3 Ne6 23. Qg2 h4 24. Rxd8 Rxd8 25. g4 Nxf4 26. Qf2 Qg5 27. Kh1 Bd3 28.
+Qe3 Rd4 29. Rd1 Bxf1 30. Rxf1 Ne6 31. Qe1 Rd3 0-1

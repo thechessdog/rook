@@ -1,0 +1,18 @@
+[Event "corr SWE/K tt"]
+[Site "corr SWE/K tt"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Johansson, Curt"]
+[Black "Nordstrom, Osten"]
+[Result "1/2-1/2"]
+[ECO "E41"]
+[Opening "Nimzo-Indian"]
+[Variation "e3, Huebner variation"]
+[HashCode "da5656b9"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 Nc6 6. Nf3 Bxc3+ 7. bxc3 d6
+8. e4 e5 9. d5 Ne7 10. Nh4 h6 11. f4 Ng6 12. Nxg6 fxg6 13. O-O Qe7 14. Qf3
+O-O 15. Qg3 Kh7 16. f5 g5 17. Qh3 Kg8 18. Rb1 Rb8 19. g4 Bd7 20. Qg3 Nh7
+21. Kg2 Ba4 22. Rh1 a6 23. Qf2 b5 24. cxb5 Bxb5 25. Bxb5 1/2-1/2
+

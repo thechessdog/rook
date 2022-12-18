@@ -1,0 +1,18 @@
+[Event "corr FRG/K"]
+[Site "corr FRG/K"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Tiemeyer"]
+[Black "Dunhaupt"]
+[Result "1/2-1/2"]
+[ECO "E54"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Gligoric system, Smyslov variation"]
+[HashCode "a6c46703"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 c5 7. O-O dxc4 8.
+Bxc4 Qe7 9. a3 Ba5 10. Qd3 Nbd7 11. Ne4 Bc7 12. Nxf6+ Qxf6 13. Bd2 b6 14.
+Bc3 Qg6 15. Qxg6 hxg6 16. Rfd1 Bb7 17. Rac1 Rac8 18. Ba2 Rfd8 19. Ng5 cxd4
+20. Bxd4 Nf8 21. Bc3 1/2-1/2
+

@@ -1,0 +1,19 @@
+[Event "corr Tch-SF"]
+[Site "corr Tch-SF"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Nordby"]
+[Black "Halme"]
+[Result "0-1"]
+[ECO "C45"]
+[Opening "Scotch"]
+[Variation "Potter variation"]
+[HashCode "13d33ba4"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Bc5 5. Nb3 Bb6 6. a4 a6 7. Nc3 Nf6
+8. Bg5 d6 9. Qd2 O-O 10. O-O-O Be6 11. f3 Re8 12. Kb1 Ne5 13. Nd5 Bxd5 14.
+exd5 h6 15. Bxf6 Qxf6 16. a5 Ba7 17. Be2 Nd7 18. g3 Re3 19. f4 Rae8 20. Bg4
+Rxb3 21. cxb3 Qg6+ 22. Qc2 Qxg4 23. Qxc7 Nc5 24. Qxd6 Qf5+ 25. Ka2 Qc2 26.
+Rde1 Qxb3+ 27. Kb1 Rxe1+ 28. Rxe1 Nd3 29. Qa3 Qxa3 0-1
+

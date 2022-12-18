@@ -1,0 +1,18 @@
+[Event "KNSB"]
+[Site "KNSB"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Booij"]
+[Black "Dissel, H."]
+[Result "1-0"]
+[ECO "B99"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7...Be7 main line"]
+[HashCode "d00f0201"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8.
+Qf3 Qc7 9. O-O-O Nbd7 10. Bxf6 Bxf6 11. f5 Nb6 12. fxe6 fxe6 13. Bb5+ axb5
+14. Ndxb5 Qc5 15. Nxd6+ Ke7 16. e5 Qxe5 17. Rhe1 Bg5+ 18. Kb1 Qf4 19. Nxc8+
+Rhxc8 20. Qxb7+ Ke8 21. Qxb6 e5 22. Qe6+ 1-0
+

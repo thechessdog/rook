@@ -1,0 +1,26 @@
+[Event "Bundesliga 8384"]
+[Site "Duitsland tt"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Rieke, Theo"]
+[Black "Mack, Peter"]
+[Result "1-0"]
+[ECO "C05"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation"]
+[HashCode "8d6f24c5"]
+[Epoch "Rook"]
+[WhiteID "4620216"]
+[WhiteCountry "GER"]
+[BlackID "4603265"]
+[BlackCountry "GER"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. f4 c5 6. Ndf3 Nc6 7. Ne2 Qa5+ 8. c3
+cxd4 9. Nexd4 Qb6 10. Qb3 Nxd4 11. Nxd4 Bc5 12. Qxb6 Nxb6 13. Be3 Nc4 14. Bxc4
+dxc4 15. Nf5 Bf8 16. Nd4 Bd7 17. O-O Bc5 18. Nf5 exf5 19. Bxc5 b6 20. Bb4 Ba4
+21. Rf2 O-O-O 22. Bd6 Kb7 23. Rb1 Bc6 24. Rd1 Be4 25. Rd4 Bd3 26. b3 b5 27. a4
+a6 28. bxc4 Bxc4 29. Rfd2 Kc8 30. Kf2 Rd7 31. g3 Rhd8 32. Rb2 Rb7 33. Rb1 Rdd7
+34. Ke3 Be6 35. Ra1 Rb6 36. Rb4 Rdb7 37. axb5 axb5 38. Ra8+ Kd7 39. Bc5 Rb8 40.
+Ra7+ R6b7 41. Ra6 Rc8 42. Rd4+ Ke8 43. Bb4 Rd7 44. Rb6 Bc4 45. g4 fxg4 46. f5
+Rxd4 47. cxd4 g6 48. f6 Kd7 49. d5 Kc7 50. Ba5 h5 51. Rxb5+ Kd7 52. Rb7+ Ke8
+53. Bb4 1-0

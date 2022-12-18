@@ -1,0 +1,22 @@
+[Event "Leeuwarden ch-NED"]
+[Site "Leeuwarden ch-NED"]
+[Date "1977.04.01"]
+[Round "1"]
+[White "Ligterink, Gert"]
+[Black "Bohm, Hans"]
+[Result "1-0"]
+[ECO "C07"]
+[Opening "French"]
+[Variation "Tarrasch, open variation"]
+[HashCode "e2f4de29"]
+[Epoch "Rook"]
+[WhiteID "1000179"]
+[WhiteCountry "NED"]
+[BlackID "1000306"]
+[BlackCountry "NED"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. Ngf3 c4 5. e5 b5 6. g3 Nc6 7. c3 b4 8. Ng1 Rb8
+9. Bg2 Bd7 10. Ne2 Qa5 11. O-O bxc3 12. bxc3 Ba3 13. Nb3 Qa4 14. Bxa3 Qxa3 15.
+Nc5 Nxe5 16. Nf4 Nd3 17. Nfxd3 cxd3 18. Rb1 Rb6 19. Qg4 g6 20. Qf4 Ne7 21. Qe5
+Rg8 22. c4 Qxa2 23. Ra1 Qxc4 24. Rxa7 Nc6 25. Ra8+ Ke7 26. Qg5+ f6 27. Qh6 Nxd4
+28. Rxg8 Qxc5 29. Qf8# 1-0

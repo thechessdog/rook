@@ -1,0 +1,23 @@
+[Event "Lucerne"]
+[Site "Lucerne"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Veprek"]
+[Black "Pernici, Barbara"]
+[Result "0-1"]
+[ECO "B25"]
+[Opening "Sicilian"]
+[Variation "closed, 6.f4"]
+[HashCode "10b2166e"]
+[Epoch "Rook"]
+[BlackID "801500"]
+[BlackCountry "ITA"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. f4 e6 7. Nf3 Nge7 8. O-O
+O-O 9. h3 Rb8 10. a4 a6 11. g4 f5 12. Ne2 b5 13. axb5 axb5 14. c3 b4 15. exf5
+exf5 16. g5 bxc3 17. bxc3 Na5 18. Nh2 Bb7 19. Bxb7 Rxb7 20. Qa4 Nac6 21. Qc4+
+Kh8 22. Ra6 Nb8 23. Ra8 Qd7 24. Ba3 Nc8 25. Qa2 Nb6 26. Ra5 Re8 27. Nf3 Qe6 28.
+Qxe6 Rxe6 29. Kf2 Rbe7 30. Nfg1 Nd5 31. Ra8 Re8 32. Rb1 Nc6 33. Rxe8+ Rxe8 34.
+c4 Ndb4 35. Nc1 Bd4+ 36. Kf1 Nc2 37. Bb2 Re1+ 38. Kg2 Rxg1+ 39. Kh2 Re1 40.
+Bxd4+ N6xd4 41. Kg2 Re7 42. Kf2 Nb4 43. Ra1 Kg7 44. Ra8 d5 45. Rc8 Ne6 46. Kf3
+Ra7 47. cxd5 Nxd5 48. Nb3 Ra3 0-1

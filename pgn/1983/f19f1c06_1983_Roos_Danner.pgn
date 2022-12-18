@@ -1,0 +1,20 @@
+[Event "Banco di Roma"]
+[Site "Banco di Roma"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Roos, Daniel"]
+[Black "Danner, Georg"]
+[Result "1/2-1/2"]
+[ECO "B25"]
+[Opening "Sicilian"]
+[Variation "closed, 6.f4 e5 (Botvinnik)"]
+[HashCode "f19f1c06"]
+[Epoch "Rook"]
+[WhiteID "600253"]
+[WhiteCountry "FRA"]
+[BlackID "1600303"]
+[BlackCountry "AUT"]
+
+1. e4 c5 2. Nc3 d6 3. g3 g6 4. Bg2 Bg7 5. d3 Nc6 6. f4 e5 7. Nh3 exf4 8. Bxf4
+Nge7 9. O-O O-O 10. Qd2 Ne5 11. Bh6 Be6 12. Bxg7 Kxg7 13. Nf4 Qa5 14. Qe3 b5
+15. Nce2 Bg4 1/2-1/2

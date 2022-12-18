@@ -1,0 +1,18 @@
+[Event "Naleczow"]
+[Site "Naleczow"]
+[Date "1979.01.01"]
+[Round "5"]
+[White "Moiseev, Oleg L"]
+[Black "Tseitlin, Mikhail S"]
+[Result "1/2-1/2"]
+[ECO "E53"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line with ...c5"]
+[HashCode "7fd758d8"]
+[Epoch "Rook"]
+[BlackCountry "BLR"]
+[WhiteCountry "RUS"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Nf3 O-O 6. Bd3 d5 7. O-O cxd4 8. exd4
+dxc4 9. Bxc4 b6 10. Bg5 Bb7 11. Qe2 Bxc3 12. bxc3 Nbd7 13. Bd3 Qc7 14. Rac1 Ng4
+15. Be4 Bxe4 16. Qxe4 Ngf6 1/2-1/2

@@ -1,0 +1,17 @@
+[Event "Ohio"]
+[Site "Ohio"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Trogdon, T."]
+[Black "Wall, Bill"]
+[Result "0-1"]
+[ECO "A02"]
+[Opening "Bird"]
+[Variation "From gambit"]
+[HashCode "75c54031"]
+[Epoch "Rook"]
+[BlackCountry "USA"]
+
+1. f4 e5 2. fxe5 d6 3. exd6 Bxd6 4. Nf3 h5 5. d4 h4 6. c4 b6 7. Qd3 Bb7 8. Ng5
+Bb4+ 9. Nc3 Qe7 10. Bd2 Rh5 11. Nh3 Nd7 12. O-O-O O-O-O 13. Nf4 Ra5 14. Kb1
+Bxc3 15. Bxc3 Be4 0-1

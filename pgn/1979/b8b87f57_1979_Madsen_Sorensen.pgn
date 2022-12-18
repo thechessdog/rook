@@ -1,0 +1,20 @@
+[Event "Randers"]
+[Site "Randers"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Madsen, Svend"]
+[Black "Sorensen, Helge"]
+[Result "1-0"]
+[ECO "C00"]
+[Opening "French"]
+[Variation "Reti (Spielmann) variation"]
+[HashCode "b8b87f57"]
+[Epoch "Rook"]
+[WhiteID "1419846"]
+[WhiteCountry "DEN"]
+
+1. e4 e6 2. b3 b6 3. Bb2 Bb7 4. Nc3 Nf6 5. e5 Nd5 6. Nxd5 Bxd5 7. Qg4 c5 8. Ne2
+Bb7 9. Nc3 f5 10. exf6 Qxf6 11. O-O-O Qf5 12. Qg3 Bc6 13. Bd3 Qf7 14. Qc7 Be7
+15. Qc8+ Bd8 16. Ne4 O-O 17. Rde1 a5 18. Nd6 Qh5 19. Nb7 a4 20. Nxd8 Na6 21.
+Nxc6 Rfxc8 22. Ne7+ Kh8 23. Nxc8 Rxc8 24. Bxa6 Ra8 25. Bd3 axb3 26. axb3 Kg8
+27. Re3 Qf7 28. Rf3 Qe8 29. Rg3 g6 30. h4 Qf7 31. f3 Kf8 32. h5 1-0

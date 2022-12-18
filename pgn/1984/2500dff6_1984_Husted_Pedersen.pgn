@@ -1,0 +1,20 @@
+[Event "Aarhus"]
+[Site "Aarhus"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Husted, Peter"]
+[Black "Pedersen, Karsten"]
+[Result "1/2-1/2"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Paulsen attack"]
+[HashCode "2500dff6"]
+[Epoch "Rook"]
+[WhiteID "1403303"]
+[BlackID "1455192"]
+[WhiteCountry "DEN"]
+[BlackCountry "DEN"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. a3 c4 7. g3 Be7 8. Nbd2 Na5
+9. Rb1 Bd7 10. h4 Bc6 11. Bh3 h6 12. h5 Kd7 13. b4 cxb3 14. Nxb3 Nxb3 15. Qxb3
+Qxb3 16. Rxb3 Bd8 17. O-O 1/2-1/2

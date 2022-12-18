@@ -1,0 +1,21 @@
+[Event "Ramat Hasharon"]
+[Site "Ramat Hasharon"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Lobron, Eric"]
+[Black "Gruenfeld, Yehuda"]
+[Result "1-0"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Byrne (English) attack"]
+[HashCode "aa0e3379"]
+[Epoch "Rook"]
+[WhiteID "4600037"]
+[BlackID "2800020"]
+[WhiteCountry "GER"]
+[BlackCountry "ISR"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 Qc7 7. Be2 e6 8. a4
+Be7 9. O-O O-O 10. f4 Nc6 11. Kh1 Nxd4 12. Qxd4 e5 13. Qd3 exf4 14. Rxf4 Be6
+15. Raf1 Rac8 16. Rxf6 gxf6 17. Bd4 Qd8 18. Nd5 Bxd5 19. exd5 Kh8 20. Qh3 Rg8
+21. Bd3 Rg7 22. Re1 Kg8 23. Rxe7 1-0

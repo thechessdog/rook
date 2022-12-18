@@ -1,0 +1,20 @@
+[Event "Lugano op"]
+[Site "Lugano"]
+[Date "1983.??.??"]
+[Round "9"]
+[White "Defize, Alain"]
+[Black "Rigo, Janos"]
+[Result "0-1"]
+[ECO "E14"]
+[Opening "Queen's Indian"]
+[Variation "4.e3"]
+[HashCode "85c51bfe"]
+[Epoch "Rook"]
+[WhiteID "200166"]
+[BlackID "700371"]
+[WhiteCountry "BEL"]
+[BlackCountry "HUN"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 b6 4. e3 Bb4+ 5. Nbd2 O-O 6. Bd3 d5 7. O-O Bb7 8. a3
+Be7 9. b3 Ne4 10. Qc2 f5 11. Bb2 Nd7 12. Rad1 Rf6 13. Ne5 Rh6 14. f3 Nxe5 15.
+dxe5 Bc5 16. Rfe1 Qh4 17. h3 Ng5 0-1

@@ -1,0 +1,21 @@
+[Event "Dortmund"]
+[Site "Dortmund"]
+[Date "1977.05.01"]
+[Round "4"]
+[White "Popovych, Orest"]
+[Black "Kochyev, Alexander"]
+[Result "0-1"]
+[ECO "B47"]
+[Opening "Sicilian"]
+[Variation "Taimanov (Bastrikov) variation"]
+[HashCode "aacfdf6a"]
+[Epoch "Rook"]
+[WhiteID "2002558"]
+[WhiteCountry "USA"]
+[BlackID "4100719"]
+[BlackCountry "RUS"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 Qc7 6. g3 d6 7. Bg2 Nf6 8. O-O
+Bd7 9. Re1 Be7 10. Ncb5 Qb8 11. c4 O-O 12. b3 a6 13. Nc3 Nxd4 14. Qxd4 b5 15.
+cxb5 axb5 16. b4 Rc8 17. Bf1 Ng4 18. e5 Nxe5 19. Rxe5 Bf6 20. f4 dxe5 21. Qxd7
+Rxc3 22. Bb2 Rc2 23. Bxe5 Qb6+ 24. Kh1 Qf2 0-1

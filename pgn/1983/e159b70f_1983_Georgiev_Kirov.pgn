@@ -1,0 +1,18 @@
+[Event "Varna"]
+[Site "Varna"]
+[Date "1983.01.01"]
+[Round "6"]
+[White "Georgiev, Krum"]
+[Black "Kirov, Nino"]
+[Result "1/2-1/2"]
+[ECO "A28"]
+[Opening "English"]
+[Variation "four knights system"]
+[HashCode "e159b70f"]
+[Epoch "Rook"]
+[WhiteID "2900092"]
+[WhiteCountry "FID"]
+[BlackCountry "BGR"]
+
+1. c4 e5 2. Nc3 Nc6 3. Nf3 Nf6 4. d4 exd4 5. Nxd4 Bb4 6. Bg5 h6 7. Bxf6 Bxc3+
+8. bxc3 Qxf6 9. e3 O-O 10. Be2 d6 11. O-O 1/2-1/2

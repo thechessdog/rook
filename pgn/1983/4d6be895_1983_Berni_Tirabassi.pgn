@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Berni"]
+[Black "Tirabassi"]
+[Result "0-1"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack"]
+[HashCode "4d6be895"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. Bg5 d5 3. Nc3 c5 4. Bxf6 gxf6 5. e4 dxe4 6. dxc5 Qa5 7. Qh5
+Bg7 8. Bb5+ Nc6 9. Ne2 O-O 10. Bxc6 bxc6 11. O-O-O Rb8 12. Nd4 Qb4 13. Nb3
+f5 14. a3 Qc4 15. Qe2 Qe6 16. Nd4 Qh6+ 17. Qe3 Qf6 18. Kb1 Be6 19. f3 Qe5
+20. fxe4 fxe4 21. Nxe4 f5 22. Nf6+ Bxf6 23. Qxe5 Bxe5 24. Nxe6 Rxb2+ 25.
+Kc1 Ra2 26. Kd2 Rf6 27. Ng5 Rxa3 28. Nf3 Bf4+ 29. Ke2 Re6+ 30. Kf2 Be3+ 31.
+Kg3 Rg6+ 32. Kh3 Bxc5 33. Rhf1 Bd6 34. g3 f4 35. gxf4 Bxf4 36. Rb1 Rc3 0-1
+

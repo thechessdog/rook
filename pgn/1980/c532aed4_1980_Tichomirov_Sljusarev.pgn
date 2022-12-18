@@ -1,0 +1,17 @@
+[Event "Moscow"]
+[Site "Moscow"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Tichomirov"]
+[Black "Sljusarev"]
+[Result "1-0"]
+[ECO "C60"]
+[Opening "Ruy Lopez"]
+[Variation "fianchetto (Smyslov/Barnes) defence"]
+[HashCode "c532aed4"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 g6 4. c3 Bg7 5. d4 exd4 6. cxd4 d5 7. exd5 Qxd5
+8. Nc3 Qd6 9. O-O Bd7 10. Re1+ Nge7 11. d5 Ne5 12. Bxd7+ Kxd7 13. Rxe5 Bxe5
+14. Ne4 Bxh2+ 15. Nxh2 Qe5 16. Ng4 Qf5 17. Ngf6+ Kc8 18. g4 Qe5 19. f4 1-0
+

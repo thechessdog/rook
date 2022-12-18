@@ -1,0 +1,22 @@
+[Event "BL2-N 8384"]
+[Site "BL2-N 8384"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Tomczak, Rainer"]
+[Black "Stark, HW."]
+[Result "1-0"]
+[ECO "A52"]
+[Opening "Budapest"]
+[Variation "Adler variation"]
+[HashCode "3660b6dd"]
+[Epoch "Rook"]
+[WhiteID "4603141"]
+[WhiteCountry "GER"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ng4 4. Nf3 Bc5 5. e3 Nc6 6. Bd2 Ngxe5 7. Nxe5 Nxe5
+8. Bc3 Qe7 9. Qd2 a5 10. a3 a4 11. Bd4 Bxd4 12. Qxd4 O-O 13. Nc3 d6 14. Be2 f5
+15. Nd5 Qf7 16. O-O Be6 17. Rac1 c5 18. Qd2 Bxd5 19. Qxd5 Qxd5 20. cxd5 Rfb8
+21. f4 Nd7 22. g4 g6 23. gxf5 gxf5 24. Bd3 Rf8 25. Kf2 Nb6 26. Rg1+ Kh8 27. Rg5
+Nxd5 28. Bxf5 Nf6 29. e4 d5 30. e5 Ne4+ 31. Bxe4 dxe4 32. f5 Rad8 33. Rxc5 Rd2+
+34. Ke3 Rxh2 35. e6 Rh6 36. e7 Re8 37. Rd5 Rh3+ 38. Ke2 Rd3 39. f6 Rxd5 40.
+Rxd5 Kg8 41. Rd8 Kf7 42. Rxe8 Kxe8 43. Ke3 1-0

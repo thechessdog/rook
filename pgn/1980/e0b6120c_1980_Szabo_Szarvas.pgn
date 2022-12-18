@@ -1,0 +1,20 @@
+[Event "Salgotarjan"]
+[Site "Salgotarjan"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Szabo, E."]
+[Black "Szarvas, S."]
+[Result "0-1"]
+[ECO "A30"]
+[Opening "English"]
+[Variation "symmetrical variation"]
+[HashCode "e0b6120c"]
+[Epoch "Rook"]
+
+1. c4 c5 2. Nf3 g6 3. g3 Bg7 4. d4 cxd4 5. Nxd4 Nc6 6. Nc2 Nf6 7. Bg2 O-O
+8. Nc3 d6 9. Bd2 Be6 10. b3 d5 11. Rb1 d4 12. Nb5 d3 13. exd3 Qxd3 14. Nb4
+Qd7 15. O-O Bf5 16. Rc1 a6 17. Nxc6 bxc6 18. Nc3 Rfd8 19. Be3 Qb7 20. Qf3
+Rac8 21. h3 Nd7 22. Bf4 Nc5 23. Na4 Nxa4 24. bxa4 e5 25. Bg5 Rd3 26. Qe2
+Ra3 27. Rfd1 Qb4 28. Bxc6 Qc5 29. Bd7 Rxg3+ 30. Kh2 Rxg5 31. Bxc8 Qxc8 32.
+c5 e4 33. Qe3 Qc7+ 0-1
+

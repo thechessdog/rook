@@ -1,0 +1,18 @@
+[Event "Wittlich"]
+[Site "Wittlich"]
+[Date "1980.01.01"]
+[Round "10"]
+[White "Dietrich, A."]
+[Black "Marian, R."]
+[Result "0-1"]
+[ECO "B87"]
+[Opening "Sicilian"]
+[Variation "Sozin with ...a6 and ...b5"]
+[HashCode "3335f4c0"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 b5 8. O-O
+Be7 9. f4 Bb7 10. f5 e5 11. Nde2 Nbd7 12. Ng3 h5 13. Bg5 h4 14. Nge2 b4 15.
+Bxf6 Nxf6 16. Nd5 Nxe4 17. Kh1 h3 18. gxh3 Qa5 19. c4 bxc3 20. Nexc3 Nxc3 21.
+bxc3 Rxh3 22. Rf3 Rh4 23. h3 Bf6 24. Kh2 O-O-O 25. Rg3 Qc5 26. Qd2 Rdh8 27.
+Nxf6 gxf6 28. Rag1 Rf4 29. Rg8+ Kc7 0-1

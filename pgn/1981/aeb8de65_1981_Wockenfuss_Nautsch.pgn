@@ -1,0 +1,26 @@
+[Event "Bundesliga 8081"]
+[Site "Duitsland tt"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Wockenfuss, Klaus"]
+[Black "Nautsch, Werner"]
+[Result "1-0"]
+[ECO "B07"]
+[Opening "Pirc"]
+[Variation "Sveshnikov system"]
+[HashCode "aeb8de65"]
+[Epoch "Rook"]
+[WhiteID "4600746"]
+[WhiteCountry "GER"]
+[BlackID "4601602"]
+[BlackCountry "GER"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. g3 Bg7 5. Bg2 O-O 6. Nge2 Nc6 7. O-O e5 8. Re1
+Bg4 9. h3 Bd7 10. dxe5 dxe5 11. Bg5 Qc8 12. Kh2 h6 13. Bxf6 Bxf6 14. Nd5 Bg7
+15. Qd2 Be6 16. c4 Re8 17. Rad1 a5 18. f4 exf4 19. gxf4 Ra6 20. Ng3 Bxd5 21.
+cxd5 Nd4 22. Qf2 c5 23. dxc6 Nxc6 24. e5 Ne7 25. Rc1 Qe6 26. Ne4 Qxa2 27. Nd6
+Rd8 28. Bxb7 Raxd6 29. exd6 Nf5 30. Rc8 Rxc8 31. d7 Rf8 32. Re8 Bf6 33. Qc5
+Qxb2+ 34. Bg2 Be7 35. Rxf8+ Kg7 36. Qxe7 Nxe7 37. d8=Q Qf6 38. Qb8 g5 39. Rd8
+gxf4 40. Rd3 Ng6 41. Qd6 Qg5 42. Qd4+ Ne5 43. Rc3 Qf6 44. Kh1 Qg5 45. Rc5 f6
+46. Rc7+ Kg6 47. Be4+ Kh5 48. Qd1+ Kh4 49. Qe1+ Kxh3 50. Rc3+ Kg4 51. Qe2+ Kh4
+52. Qh2+ Kg4 53. Qh3# 1-0

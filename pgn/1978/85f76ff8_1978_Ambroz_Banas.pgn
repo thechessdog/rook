@@ -1,0 +1,20 @@
+[Event "CSR-ch"]
+[Site "Marianske Lazne"]
+[Date "1978.??.??"]
+[Round "6"]
+[White "Ambroz, Jan"]
+[Black "Banas, Jan"]
+[Result "1/2-1/2"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (without ...d6)"]
+[HashCode "85f76ff8"]
+[Epoch "Rook"]
+[WhiteID "300209"]
+[BlackID "14900076"]
+[WhiteCountry "CZE"]
+[BlackCountry "SVK"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 d6 4. O-O Bd7 5. c3 Nf6 6. Qe2 a6 7. Ba4 e5 8. d4 b5
+9. dxe5 Nxe5 10. Nxe5 dxe5 11. Bc2 Be7 12. Rd1 Qc7 13. Nd2 O-O 14. Nf1 Bc6 15.
+Bg5 Rfd8 1/2-1/2

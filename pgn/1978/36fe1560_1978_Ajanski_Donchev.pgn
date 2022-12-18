@@ -1,0 +1,18 @@
+[Event "Varna"]
+[Site "Varna"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Ajanski, Jordan"]
+[Black "Donchev, Dimitar I."]
+[Result "0-1"]
+[ECO "C00"]
+[Opening "French"]
+[Variation "King's Indian attack"]
+[HashCode "36fe1560"]
+[Epoch "Rook"]
+[BlackID "2900025"]
+[BlackCountry "FID"]
+
+1. e4 e6 2. d3 d5 3. Nd2 Nf6 4. Ngf3 b6 5. g3 Bb7 6. e5 Nfd7 7. Bg2 c5 8. O-O
+Nc6 9. Re1 Qc7 10. Qe2 Be7 11. c3 g5 12. h3 h5 13. Nb3 g4 14. hxg4 hxg4 15. Nh2
+Qxe5 16. Nxg4 Qh5 17. Bf4 d4 18. cxd4 Nxd4 19. Nxd4 Qh1+ 0-1

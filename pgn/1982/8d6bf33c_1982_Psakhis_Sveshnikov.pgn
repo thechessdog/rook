@@ -1,0 +1,24 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Psakhis, Lev"]
+[Black "Sveshnikov, Evgeny"]
+[Result "0-1"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (without ...d6)"]
+[HashCode "8d6bf33c"]
+[Epoch "Rook"]
+[BlackID "4100638"]
+[BlackCountry "RUS"]
+[WhiteID "2800012"]
+[WhiteCountry "ISR"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 e6 4. O-O Nge7 5. c3 a6 6. Ba4 b5 7. Bc2 Bb7 8. Re1
+d5 9. exd5 Nxd5 10. d4 cxd4 11. cxd4 Be7 12. a3 Rc8 13. Nbd2 Qc7 14. Bb1 O-O
+15. Ne4 Rfd8 16. Qd3 Nxd4 17. Qxd4 Qxc1 18. Nd6 Qxe1+ 19. Nxe1 Rxd6 20. Bc2 Bf6
+21. Qd3 g6 22. Rb1 Rdc6 23. Qd2 Rd8 24. Bd3 Rcd6 25. g3 Nb6 26. Qe3 Kg7 27. b3
+Nd5 28. Qd2 Bc3 29. Qe2 Nf6 30. Bc2 Rd2 31. Qe3 Nd5 32. Qg5 f6 33. Qg4 Bd4 34.
+Nd3 e5 35. Rc1 Bc8 36. Qe4 Nc3 37. Qc6 Bf5 38. Nxe5 Bxf2+ 39. Kh1 Rxc2 40. Qc7+
+Rd7 41. Qxd7+ Bxd7 42. Rxc2 fxe5 43. Rxf2 a5 44. Rd2 Be6 0-1

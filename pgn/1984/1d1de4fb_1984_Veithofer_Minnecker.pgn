@@ -1,0 +1,18 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Veithofer"]
+[Black "Minnecker"]
+[Result "0-1"]
+[ECO "C57"]
+[Opening "two knights defence"]
+[Variation "Wilkes Barre (Traxler) variation"]
+[HashCode "1d1de4fb"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 Bc5 5. Nxf7 Bxf2+ 6. Kf1 Qe7 7. Nxh8
+d5 8. exd5 Bg4 9. d6 Qxd6 10. Nf7 Qd4 11. Be2 Bh4 12. g3 Ne4 13. Qe1 Bxg3
+14. hxg3 Nxg3+ 15. Qxg3 Bxe2+ 16. Kxe2 Qe4+ 17. Kf2 Qxh1 18. Qxg7 Nd4 19.
+Nxe5 Qh2+ 20. Qg2 Qxe5 21. Nc3 O-O-O 22. d3 Rf8+ 23. Kg1 Qe1+ 0-1
+

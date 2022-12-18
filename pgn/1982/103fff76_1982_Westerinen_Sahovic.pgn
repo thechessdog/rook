@@ -1,0 +1,25 @@
+[Event "Reykjavik op"]
+[Site "Reykjavik"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Westerinen, Heikki M.J."]
+[Black "Sahovic, Dragutin"]
+[Result "0-1"]
+[ECO "B00"]
+[Opening "KP"]
+[Variation "Nimzovich defence"]
+[HashCode "103fff76"]
+[Epoch "Rook"]
+[WhiteID "500020"]
+[WhiteCountry "FIN"]
+[BlackCountry "SRB"]
+
+1. e4 Nc6 2. Nf3 e6 3. d4 d5 4. e5 b6 5. c3 a5 6. Bb5 Bd7 7. Bd3 Na7 8. Ng5 g6
+9. Qf3 Qe7 10. h4 h6 11. Nh3 Qxh4 12. Be3 Qe7 13. Nd2 Bg7 14. Nf4 O-O-O 15. c4
+Bc6 16. cxd5 exd5 17. Rc1 Bb7 18. Rc3 Kb8 19. O-O Bxe5 20. Bxg6 Nb5 21. Nd3
+Bxd4 22. Rb3 Bxe3 23. fxe3 Nd6 24. Bh5 d4 25. e4 f5 26. Nf4 fxe4 27. Qh3 Rh7
+28. Ne6 Rc8 29. Nxd4 Nf6 30. Be2 Rg8 31. Rg3 Rxg3 32. Qxg3 e3 33. N2f3 Rg7 34.
+Qf4 Ng4 35. Rc1 Qf6 36. Qg3 Ne4 37. Qh4 Qxh4 38. Nxh4 Ng3 39. Bd1 c5 40. Nhf5
+cxd4 41. Nxg7 e2 42. Bc2 Be4 43. Ne6 Bxc2 44. Nxd4 Bd1 45. Nf3 Ne5 46. Ne1 Ne4
+47. Rc3 Nxc3 48. bxc3 Kc7 49. Kf2 Kd6 50. Kg3 Kd5 51. Kh4 Ke4 52. Kh5 Nd3 53.
+Nf3 e1=Q 0-1

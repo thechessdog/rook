@@ -1,0 +1,18 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Meltzer, H."]
+[Black "Lange, J."]
+[Result "1-0"]
+[ECO "A56"]
+[Opening "Benoni defence, Hromodka system"]
+[HashCode "20278794"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 c5 3. d5 d6 4. Nc3 g6 5. e4 Bg7 6. Bd3 O-O 7. h3 e6 8. Nf3
+exd5 9. exd5 Re8+ 10. Be3 a6 11. O-O Nbd7 12. Bg5 Qc7 13. Qd2 b6 14. Rae1
+Bb7 15. b3 Rac8 16. Nh4 Nf8 17. f4 h6 18. Bxf6 Bxf6 19. Nf3 Rxe1 20. Rxe1
+Qd8 21. Ne4 Bg7 22. f5 Rc7 23. Qf4 Rd7 24. f6 g5 25. Nfxg5 hxg5 26. Qxg5
+Ng6 27. h4 Kh7 28. h5 Bh6 29. hxg6+ fxg6 30. Qh4 1-0
+

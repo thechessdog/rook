@@ -1,0 +1,25 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Zatulovskaya, Tatiana"]
+[Black "Titorenko, Natalia I"]
+[Result "0-1"]
+[ECO "B10"]
+[Opening "Caro-Kann"]
+[Variation "closed (Breyer) variation"]
+[HashCode "07f2f913"]
+[Epoch "Rook"]
+[BlackID "4110129"]
+[BlackCountry "RUS"]
+[WhiteID "4109902"]
+[WhiteCountry "ISR"]
+
+1. e4 c6 2. d3 d5 3. Nd2 Nf6 4. Ngf3 Bg4 5. h3 Bh5 6. c3 e6 7. Be2 Be7 8. O-O
+O-O 9. Nh2 Bg6 10. e5 Nfd7 11. d4 c5 12. Nb3 Nc6 13. Be3 a5 14. Nf3 cxd4 15.
+cxd4 Nb4 16. Ne1 Rc8 17. Rc1 Qb6 18. a4 Nc2 19. Bb5 Nxe3 20. fxe3 Nxe5 21. dxe5
+Qxe3+ 22. Kh1 Qxe5 23. Nf3 Qxb2 24. Nbd4 Bf6 25. Rxc8 Rxc8 26. Bd3 Be4 27. Nb5
+Qb4 28. Bxe4 dxe4 29. Nh2 Rd8 30. Qc2 h5 31. Rb1 Rd2 32. Qc8+ Qf8 33. Qxf8+
+Kxf8 34. Nf1 Ra2 35. Nd6 Rxa4 36. Nxb7 Rb4 37. Rxb4 axb4 38. Nc5 e3 39. Ng3 Ke7
+40. Nb3 Kd6 41. Kg1 Kd5 42. Kf1 Kc4 43. Na5+ Kd3 44. Ne2 Kc2 45. Nf4 Be5 46.
+Ne2 b3 47. Nxb3 Kxb3 0-1

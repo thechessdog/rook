@@ -1,0 +1,20 @@
+[Event "Stockholm"]
+[Site "Stockholm"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Carlson, Mats"]
+[Black "Adler, Bo"]
+[Result "1-0"]
+[ECO "D24"]
+[Opening "QGA, Bogolyubov variation"]
+[HashCode "4b03f17c"]
+[Epoch "Rook"]
+[BlackID "1702149"]
+[BlackCountry "SWE"]
+[WhiteID "1700731"]
+[WhiteCountry "SWE"]
+
+1. d4 Nf6 2. Nf3 d5 3. c4 dxc4 4. Nc3 a6 5. e4 b5 6. e5 Nd5 7. Ng5 Nxc3 8. bxc3
+c6 9. e6 Bxe6 10. Nxe6 fxe6 11. Qh5+ g6 12. Qe5 Rg8 13. Qxe6 Qd5 14. Qc8+ Kf7
+15. Qb7 Bg7 16. Qxa8 Bxd4 17. cxd4 Qxd4 18. Rb1 Rd8 19. Be3 Qc3+ 20. Ke2 Nd7
+21. Qa7 Ne5 22. Rd1 Qb2+ 23. Rd2 c3 24. Rxb2 cxb2 25. Bg5 1-0

@@ -1,0 +1,21 @@
+[Event "Stary Smokovec"]
+[Site "Stary Smokovec"]
+[Date "1977.??.??"]
+[Round "2"]
+[White "Sznapik, Aleksander"]
+[Black "Ftacnik, Lubomir"]
+[Result "1-0"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack"]
+[HashCode "e31c751e"]
+[Epoch "Rook"]
+[WhiteID "1100050"]
+[BlackID "14900017"]
+[WhiteCountry "POL"]
+[BlackCountry "SVK"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. f4 Nf6 5. Nf3 O-O 6. Be2 c5 7. dxc5 Qa5 8. O-O
+Qxc5+ 9. Kh1 Nc6 10. Bd3 Bg4 11. Qe1 Rfc8 12. Be3 Qa5 13. Qg3 Bxf3 14. Qxf3 e6
+15. Bd2 Qd8 16. f5 Ne5 17. Qh3 Nxd3 18. cxd3 Qd7 19. Bg5 Rf8 20. Qh4 Nh5 21. f6
+h6 22. fxg7 hxg5 23. gxf8=Q+ 1-0

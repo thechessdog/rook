@@ -1,0 +1,25 @@
+[Event "Esbjerg"]
+[Site "Esbjerg"]
+[Date "1981.01.01"]
+[Round "6"]
+[White "Nicholson, John"]
+[Black "Iskov, Gert"]
+[Result "1-0"]
+[ECO "B42"]
+[Opening "Sicilian"]
+[Variation "Kan, 5.Bd3"]
+[HashCode "5227f6e5"]
+[Epoch "Rook"]
+[WhiteID "2501724"]
+[WhiteCountry "IRL"]
+[BlackID "1400398"]
+[BlackCountry "DEN"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Nf6 6. O-O d6 7. c4 Be7 8. Nc3
+O-O 9. Kh1 b6 10. f4 Bb7 11. Qe2 Nc6 12. Nf3 Nd7 13. Bd2 Nc5 14. Rac1 Nxd3 15.
+Qxd3 Rc8 16. Be3 Nb8 17. Rfd1 Qc7 18. Nd2 Nd7 19. b4 d5 20. exd5 Bxb4 21. Nde4
+Bxc3 22. Rxc3 f5 23. Ng5 exd5 24. Rcc1 d4 25. Qxd4 Nc5 26. Qd6 Qxd6 27. Rxd6
+Rfe8 28. Bxc5 bxc5 29. Rcd1 h6 30. Ne6 Rc6 31. Rxc6 Bxc6 32. Rd8 Rxd8 33. Nxd8
+Be4 34. Kg1 Bd3 35. a3 Bxc4 36. Nb7 Kf7 37. Nd6+ Ke6 38. Nxc4 Kd5 39. Ne5 g5
+40. Kf2 gxf4 41. Nd3 Kd4 42. Ke2 a5 43. Kd2 f3 44. gxf3 c4 45. Nc1 c3+ 46. Ke2
+a4 47. h3 Ke5 48. Ke3 Kf6 49. Ne2 c2 50. h4 Kg6 51. Nf4+ Kf6 52. Kd2 1-0

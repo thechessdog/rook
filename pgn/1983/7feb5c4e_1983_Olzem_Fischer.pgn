@@ -1,0 +1,20 @@
+[Event "BL2-N 8283"]
+[Site "BL2-N 8283"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Olzem, Lothar"]
+[Black "Fischer, Jo"]
+[Result "0-1"]
+[ECO "B97"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Poisoned pawn variation"]
+[HashCode "7feb5c4e"]
+[Epoch "Rook"]
+[WhiteID "4607716"]
+[WhiteCountry "GER"]
+
+1. e4 c5 2. d4 cxd4 3. Nf3 d6 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qb6 8. Qd2
+Qxb2 9. Rb1 Qa3 10. f5 Nc6 11. fxe6 fxe6 12. Nxc6 bxc6 13. e5 dxe5 14. Bxf6
+gxf6 15. Be2 Qd6 16. Bh5+ Ke7 17. Qf2 Qd4 18. Qf3 Bh6 19. Ne2 Qe3 20. Qxc6 Bd7
+21. Rb7 Rhd8 22. Qf3 Rab8 23. Qxe3 Bxe3 24. Rb3 Ba4 25. Rxb8 Rxb8 26. Nc3 Bxc2
+27. Ke2 Bd4 28. Nd1 Rb1 29. Kd2 Be4 30. Bf3 Bxf3 31. gxf3 Ra1 0-1

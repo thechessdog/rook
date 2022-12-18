@@ -1,0 +1,19 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Braune"]
+[Black "Ripper"]
+[Result "0-1"]
+[ECO "B16"]
+[Opening "Caro-Kann"]
+[Variation "Bronstein-Larsen variation"]
+[HashCode "69787828"]
+[Epoch "Rook"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ gxf6 6. Bf4 Bf5 7. Nf3
+Nd7 8. Qd2 e6 9. Bc4 Rg8 10. Bg3 Nb6 11. Bb3 Nd5 12. a3 Qb6 13. O-O O-O-O
+14. Bxd5 Rxd5 15. c4 Rd7 16. b4 Qd8 17. c5 e5 18. Qe3 Rxg3 19. fxg3 exd4
+20. Qf4 Be6 21. Rfd1 d3 22. Rd2 Bg7 23. a4 Qf8 24. g4 Bh6 25. g5 fxg5 26.
+Nxg5 Qg7 27. h4 Qxa1+ 0-1
+

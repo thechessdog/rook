@@ -1,0 +1,16 @@
+[Event "Dasice"]
+[Site "Dasice"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Lokvenc, Josef"]
+[Black "Janatschek"]
+[Result "1-0"]
+[ECO "B33"]
+[Opening "Sicilian"]
+[Variation "Pelikan (Lasker/Sveshnikov) variation"]
+[HashCode "04d2e263"]
+[Epoch "Rook"]
+[WhiteCountry "AUT"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Nd5 Nxd5 8.
+exd5 Ne7 9. c4 Bf5 10. Qa4 Bd7 11. Nxd6# 1-0

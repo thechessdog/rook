@@ -1,0 +1,20 @@
+[Event "Yugoslavia"]
+[Site "Yugoslavia"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Djuric, Stefan"]
+[Black "Nikolic, Sava N"]
+[Result "1-0"]
+[ECO "C50"]
+[Opening "Hungarian defence"]
+[Variation "Tartakower variation"]
+[HashCode "2190b703"]
+[Epoch "Rook"]
+[WhiteID "900133"]
+[BlackID "901857"]
+[WhiteCountry "SRB"]
+[BlackCountry "SRB"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 Be7 5. c3 Nf6 6. e5 Ne4 7. Bd5 Nc5 8.
+cxd4 Ne6 9. Nc3 Bb4 10. Bb3 Na5 11. d5 Nxb3 12. axb3 Nf8 13. O-O Ng6 14. Bg5 f6
+15. exf6 gxf6 16. Re1+ Kf7 17. Ne5+ Kg8 18. d6 Nxe5 19. Rxe5 Bxd6 20. Bh6 1-0

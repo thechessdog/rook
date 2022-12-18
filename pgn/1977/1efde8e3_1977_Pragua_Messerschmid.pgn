@@ -1,0 +1,17 @@
+[Event "corr FRG/C"]
+[Site "corr FRG/C"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Pragua, C."]
+[Black "Messerschmid, J."]
+[Result "1-0"]
+[ECO "B33"]
+[Opening "Sicilian"]
+[Variation "Pelikan (Lasker/Sveshnikov) variation"]
+[HashCode "1efde8e3"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 a6 7. Nd6+
+Bxd6 8. Qxd6 h6 9. Be3 Qa5 10. O-O-O Ng4 11. Nd5 Nxe3 12. fxe3 Kd8 13. Bc4
+Re8 14. Rhf1 Ne7 15. Nb6 1-0
+

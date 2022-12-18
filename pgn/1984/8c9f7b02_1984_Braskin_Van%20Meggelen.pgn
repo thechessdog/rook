@@ -1,0 +1,18 @@
+[Event "corr EU/M/GT"]
+[Site "corr EU/M/GT"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Braskin, I."]
+[Black "Van Meggelen, A."]
+[Result "0-1"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance variation"]
+[HashCode "8c9f7b02"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. Bb5+ Bd7 5. Bxd7+ Nxd7 6. Nf3 cxd4 7. Qxd4
+Ne7 8. O-O Ng6 9. c3 Qc7 10. Bf4 Bc5 11. Qd2 Ndxe5 12. Nxe5 Nxe5 13. Re1
+Bd6 14. Bxe5 Bxe5 15. g3 O-O 16. Qg5 Bf6 17. Qe3 Rfd8 18. Na3 a6 19. Nc2 e5
+20. Rad1 d4 21. cxd4 Qxc2 0-1
+

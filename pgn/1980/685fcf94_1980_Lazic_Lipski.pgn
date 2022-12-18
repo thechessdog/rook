@@ -1,0 +1,18 @@
+[Event "Kragujevac"]
+[Site "Kragujevac"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Lazic, Dragoljub"]
+[Black "Lipski, Tadeusz"]
+[Result "0-1"]
+[ECO "C63"]
+[Opening "Ruy Lopez"]
+[Variation "Schliemann defence, Berger variation"]
+[HashCode "685fcf94"]
+[Epoch "Rook"]
+[BlackID "1104101"]
+[BlackCountry "POL"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 f5 4. Nc3 fxe4 5. Nxe4 d5 6. Nxe5 dxe4 7. Nxc6 Qg5
+8. Qe2 Nf6 9. f4 Qxf4 10. d4 Qd6 11. Nxa7+ c6 12. Nxc8 Qb4+ 13. Kd1 Qxb5 14. c4
+Qa4+ 15. b3 Qa5 0-1

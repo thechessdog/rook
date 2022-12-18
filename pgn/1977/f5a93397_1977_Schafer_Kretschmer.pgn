@@ -1,0 +1,19 @@
+[Event "corr DDR/M"]
+[Site "corr DDR/M"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Schafer, H."]
+[Black "Kretschmer, H."]
+[Result "1-0"]
+[ECO "E42"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5, 5.Ne2 (Rubinstein)"]
+[HashCode "f5a93397"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Ne2 cxd4 6. exd4 d5 7. a3 Be7 8.
+c5 b6 9. b4 O-O 10. g3 bxc5 11. bxc5 Nc6 12. Bg2 Bd7 13. O-O Rb8 14. Bf4
+Rb7 15. Rb1 Rxb1 16. Qxb1 Nh5 17. Be3 Qa5 18. Qa2 Rb8 19. Rb1 Rxb1+ 20.
+Nxb1 g6 21. Qb3 Nf6 22. Nbc3 Kg7 23. h3 Qa6 24. a4 Na5 25. Qb4 Bd8 26. c6
+1-0
+

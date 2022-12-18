@@ -1,0 +1,20 @@
+[Event "Athens"]
+[Site "Athens"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Makropoulos, Georgios"]
+[Black "Parma, Bruno"]
+[Result "1/2-1/2"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Paulsen attack"]
+[HashCode "f609d1ae"]
+[Epoch "Rook"]
+[BlackID "14600706"]
+[BlackCountry "SLO"]
+[WhiteID "4200047"]
+[WhiteCountry "GRE"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Nge7 6. Na3 Nf5 7. Nc2 Bd7 8. Bd3
+cxd4 9. cxd4 Nb4 10. Nxb4 Bxb4+ 11. Bd2 Bxd2+ 12. Qxd2 Qb6 13. Bxf5 exf5 14.
+O-O Rc8 15. Rae1 1/2-1/2

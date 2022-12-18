@@ -1,0 +1,18 @@
+[Event "corr EUR"]
+[Site "corr EUR"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Firnhaber, I."]
+[Black "Kokoska"]
+[Result "1-0"]
+[ECO "C21"]
+[Opening "Danish gambit"]
+[Variation "Schlechter defence"]
+[HashCode "28d97d5d"]
+[Epoch "Rook"]
+
+1. e4 e5 2. d4 exd4 3. c3 dxc3 4. Bc4 cxb2 5. Bxb2 d5 6. Bxd5 Bb4+ 7. Nc3
+Bxc3+ 8. Bxc3 Nf6 9. Qf3 Nxd5 10. exd5 O-O 11. Ne2 c6 12. Rd1 Qg5 13. O-O
+Qg4 14. Qe3 Bd7 15. Rd4 Qg6 16. Nf4 Qh6 17. Qg3 f5 18. dxc6 Bxc6 19. Rd6 g6
+20. Nxg6 1-0
+

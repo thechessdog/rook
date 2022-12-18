@@ -1,0 +1,18 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Braun, G."]
+[Black "Weiss, W."]
+[Result "1-0"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "e1d8d4b4"]
+[Epoch "Rook"]
+
+1. e4 c5 2. c3 d5 3. exd5 Nf6 4. Bb5+ Bd7 5. Bxd7+ Qxd7 6. c4 e6 7. Qe2 Bd6
+8. dxe6 fxe6 9. Nf3 Nc6 10. O-O O-O-O 11. d3 h6 12. Nc3 Ng4 13. Re1 Nd4 14.
+Nxd4 Bxh2+ 15. Kh1 Qxd4 16. Nb5 Nxf2+ 17. Kxh2 Qh4+ 18. Kg1 Rhf8 19. Qxe6+
+Rd7 20. Nd6+ Kb8 21. Nf5 Rxf5 22. Qxf5 Nxd3 23. Re8+ Kc7 24. Re4 1-0
+

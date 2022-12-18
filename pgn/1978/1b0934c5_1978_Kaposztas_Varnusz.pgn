@@ -1,0 +1,20 @@
+[Event "Salgotarjan"]
+[Site "Salgotarjan"]
+[Date "1978.??.??"]
+[Round "?"]
+[White "Kaposztas, Miklos"]
+[Black "Varnusz, Egon"]
+[Result "1/2-1/2"]
+[ECO "E06"]
+[Opening "Catalan"]
+[Variation "closed, 5.Nf3"]
+[HashCode "1b0934c5"]
+[Epoch "Rook"]
+[WhiteID "700711"]
+[WhiteCountry "HUN"]
+[BlackCountry "HUN"]
+
+1. c4 Nf6 2. g3 e6 3. d4 d5 4. Bg2 Be7 5. Nf3 O-O 6. O-O dxc4 7. Qa4 a6 8. Qxc4
+b5 9. Qc2 Bb7 10. Bg5 Nbd7 11. Nbd2 Rc8 12. Rac1 c5 13. dxc5 Bxc5 14. Qb1 Qb6
+15. Bxf6 Nxf6 16. Ne1 Bxg2 17. Nxg2 h6 18. Nb3 Bd6 19. Rxc8 Rxc8 20. Rc1 Rxc1+
+21. Nxc1 Qd4 22. Ne3 h5 23. Nb3 Qa4 24. Nd2 h4 25. Nf3 hxg3 26. hxg3 1/2-1/2

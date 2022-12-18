@@ -1,0 +1,18 @@
+[Event "Politiken Cup"]
+[Site "Copenhagen"]
+[Date "1982.01.01"]
+[Round "10"]
+[White "Trepp, Markus"]
+[Black "Bentzen, Eric"]
+[Result "0-1"]
+[ECO "C44"]
+[Opening "Scotch gambit"]
+[Variation "Dubois-Reti defence"]
+[HashCode "27cb7cb6"]
+[Epoch "Rook"]
+[BlackID "1402153"]
+[BlackCountry "DEN"]
+[WhiteCountry "CHE"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 Nf6 5. e5 d5 6. Bb5 Ne4 7. Nxd4 Bc5 8.
+O-O O-O 9. Nxc6 bxc6 10. Bxc6 Ba6 11. Qxd5 Bxf1 12. Bxa8 Bc4 0-1

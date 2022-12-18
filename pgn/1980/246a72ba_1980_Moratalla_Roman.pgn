@@ -1,0 +1,21 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Moratalla"]
+[Black "Roman"]
+[Result "0-1"]
+[ECO "C47"]
+[Opening "Four knights"]
+[Variation "Belgrade gambit"]
+[HashCode "246a72ba"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. d4 exd4 5. Nd5 Nxe4 6. Qe2 f5 7. Bf4 Bb4+
+8. Nxb4 Nxb4 9. Nxd4 O-O 10. Qc4+ d5 11. Qxb4 c5 12. Qa4 Re8 13. Ne2 Bd7
+14. Qa3 Bb5 15. f3 Nf6 16. Kd2 Nh5 17. Bg3 Bxe2 18. Bxe2 Qg5+ 19. f4 Nxf4
+20. Bxf4 Rxe2+ 21. Kxe2 Qxg2+ 22. Kd3 c4+ 23. Kc3 d4+ 24. Kxd4 Qe4+ 25. Kc3
+Qf3+ 26. Kd2 c3+ 27. Qxc3 Rd8+ 28. Qd3 Rxd3+ 29. cxd3 Qxf4+ 30. Kc3 Qc7+
+31. Kd2 Qa5+ 32. Kc2 Qc5+ 33. Kd2 Qd4 34. Kc2 g5 35. Raf1 Qc5+ 36. Kd1 Qd4
+37. Kc2 f4 38. Rhg1 Qc5+ 39. Kb1 h5 40. d4 Qf5+ 41. Ka1 f3 0-1
+

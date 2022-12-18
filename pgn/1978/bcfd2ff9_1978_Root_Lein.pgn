@@ -1,0 +1,23 @@
+[Event "USA"]
+[Site "USA"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Root, D."]
+[Black "Lein, Anatoly"]
+[Result "1-0"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Nimzovich variation"]
+[HashCode "bcfd2ff9"]
+[Epoch "Rook"]
+[BlackID "2000270"]
+[BlackCountry "USA"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. Qg4 cxd4 5. Nf3 Nc6 6. Bd3 Bd7 7. O-O f5 8. Qg3
+Qe7 9. Re1 Qf7 10. a3 Qg6 11. Qxg6+ hxg6 12. b4 a6 13. Nbd2 Nge7 14. Bb2 Nc8
+15. Bxd4 Nxd4 16. Nxd4 b5 17. N2f3 Be7 18. g3 Nb6 19. h4 Kf7 20. Kg2 Na4 21.
+Rh1 Bd8 22. Ng5+ Bxg5 23. hxg5 Rxh1 24. Rxh1 Rc8 25. Kf3 Kg8 26. Ke3 Kf7 27.
+Ne2 Nb2 28. f3 Bc6 29. Kd4 Nc4 30. Bxc4 dxc4 31. Ke3 a5 32. Rd1 axb4 33. axb4
+Ra8 34. Rd6 Ra3+ 35. c3 Be8 36. Kd4 Ra2 37. Nf4 Rd2+ 38. Kc5 Rc2 39. Rxe6 Rxc3
+40. Kd6 Kf8 41. Re7 Bf7 42. Rc7 Rc1 43. Rc8+ Be8 44. Ke6 Kg8 45. Rxe8+ Kh7 46.
+Kf7 1-0

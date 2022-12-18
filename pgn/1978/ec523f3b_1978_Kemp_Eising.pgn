@@ -1,0 +1,17 @@
+[Event "Ribe"]
+[Site "Ribe"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Kemp, P."]
+[Black "Eising, J."]
+[Result "0-1"]
+[ECO "C09"]
+[Opening "French"]
+[Variation "Tarrasch, open variation, main line"]
+[HashCode "ec523f3b"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. exd5 exd5 5. Ngf3 Nc6 6. Bb5 Bd6 7. O-O Ne7
+8. Re1 O-O 9. h3 Qb6 10. Qe2 Nf5 11. dxc5 Bxc5 12. Nf1 Nfd4 13. Nxd4 Nxd4
+14. Qd3 Bf5 0-1
+

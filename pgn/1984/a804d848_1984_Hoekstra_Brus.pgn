@@ -1,0 +1,18 @@
+[Event "corr Netherlands"]
+[Site "corr Netherlands"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Hoekstra"]
+[Black "Brus"]
+[Result "1/2-1/2"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, 6.e5"]
+[HashCode "a804d848"]
+[Epoch "Rook"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 O-O 6. e5 dxe5 7. dxe5 Qxd1+
+8. Kxd1 Nh5 9. Bc4 Nc6 10. Rf1 Bg4 11. Ke1 Rad8 12. Ne2 Na5 13. Bd3 f6 14.
+exf6 exf6 15. f5 g5 16. h3 Bxf3 17. Rxf3 Nc6 18. Bc4+ Kh8 19. g4 Ne5 20.
+Rc3 Nf4 21. Nxf4 gxf4 22. Bxf4 Rd4 23. Bxe5 fxe5 24. Be2 c6 1/2-1/2
+

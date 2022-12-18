@@ -1,0 +1,25 @@
+[Event "corr NBC"]
+[Site "corr NBC"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Ladee"]
+[Black "Van der Kooy"]
+[Result "0-1"]
+[ECO "D00"]
+[Opening "Blackmar-Diemer gambit"]
+[HashCode "dae347f4"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. Nc3 d5 3. e4 dxe4 4. f3 e6 5. fxe4 Bb4 6. Bd3 Nxe4 7. Ne2 Nf6
+8. O-O Nc6 9. Bb5 Bd7 10. Bg5 Be7 11. Ng3 Nb4 12. Be2 Nfd5 13. Nxd5 Nxd5
+14. Bxe7 Qxe7 15. Qd2 O-O 16. c4 Nf6 17. Bf3 Bc6 18. Bxc6 bxc6 19. b4 Rfd8
+20. Rae1 Qd6 21. Rf4 c5 22. bxc5 Qxc5 23. Qc3 Qd6 24. Re5 Rab8 25. Ne2 Nd7
+26. Ra5 Nf6 27. Qc1 Rb7 28. Kf2 Qc6 29. Qc2 Rb4 30. Rc5 Qd6 31. a3 Rb7 32.
+a4 Rdb8 33. Rb5 c6 34. Rxb7 Rxb7 35. g3 Qa3 36. h3 Rb2 37. Qd1 Rb4 38. c5
+a5 39. Rf3 Qxa4 40. Qxa4 Rxa4 41. Rb3 Rb4 42. Ra3 a4 43. Ke3 Rb3+ 44. Rxb3
+axb3 45. Kd2 Ne4+ 46. Kc1 Kf8 47. Kb2 e5 48. Kxb3 exd4 49. Nxd4 Nxc5+ 50.
+Kc4 Ne4 51. Nxc6 Nxg3 52. Kd4 f6 53. Ke3 h5 54. Kf4 h4 55. Kg4 g5 56. Nd4
+Kf7 57. Nf3 Kg6 58. Ne1 f5+ 59. Kf3 Kh5 60. Nd3 g4+ 61. hxg4+ fxg4+ 62. Kg2
+Kg5 63. Nf2 Nf5 64. Ne4+ Kf4 65. Nf2 Ne3+ 66. Kg1 Kf3 67. Nd3 Nd1 68. Kf1
+h3 0-1
+

@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Etmans"]
+[Black "Sprinkhuizen"]
+[Result "1-0"]
+[ECO "B51"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky (Nimzovich-Rossolimo, Moscow) attack"]
+[HashCode "ae43a84f"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Nd7 4. d4 cxd4 5. Qxd4 Nf6 6. Bg5 e6 7. Nc3 Be7
+8. Rd1 O-O 9. O-O Qa5 10. Bxd7 Bxd7 11. Bxf6 gxf6 12. e5 fxe5 13. Nxe5 Bb5
+14. Ng4 h5 15. Rfe1 Bc6 16. Nf6+ Kh8 17. Nfd5+ e5 18. Qe3 Qd8 19. Qh6+ Kg8
+20. Qxh5 1-0
+

@@ -1,0 +1,19 @@
+[Event "corr Heilimo mem"]
+[Site "corr Heilimo mem"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Kupila"]
+[Black "Valtonen"]
+[Result "1-0"]
+[ECO "C87"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Averbach variation"]
+[HashCode "d6c26a2f"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 d6 7. c3 Bg4 8.
+d3 Qd7 9. Nbd2 h6 10. Nf1 Nh7 11. h3 Bh5 12. Ng3 Bg6 13. d4 b5 14. Bc2 Ng5
+15. Nh2 f6 16. a4 Rb8 17. axb5 axb5 18. Ng4 O-O 19. h4 Nf7 20. d5 Ncd8 21.
+Ne3 Nb7 22. Nef5 Bxf5 23. Nxf5 g6 24. Qg4 Kh7 25. Nxh6 Qxg4 26. Nxg4 Nfd8
+27. Ra7 c6 28. h5 g5 29. Bd2 c5 30. b4 Nf7 31. Rea1 Bd8 32. R1a6 1-0
+

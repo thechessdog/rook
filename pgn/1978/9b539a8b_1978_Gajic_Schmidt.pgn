@@ -1,0 +1,21 @@
+[Event "Smederevska Palanka"]
+[Site "Smederevska Palanka"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Gajic, Zoran"]
+[Black "Schmidt, Wlodzimierz"]
+[Result "0-1"]
+[ECO "B46"]
+[Opening "Sicilian"]
+[Variation "Taimanov variation"]
+[HashCode "9b539a8b"]
+[Epoch "Rook"]
+[BlackID "1100041"]
+[BlackCountry "POL"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 a6 6. Be2 d6 7. Be3 Nf6 8. O-O
+Be7 9. f4 O-O 10. Qe1 Bd7 11. Qg3 Nxd4 12. Bxd4 Bc6 13. Rae1 b5 14. a3 Qd7 15.
+Bd3 a5 16. Qh3 e5 17. fxe5 Qxh3 18. gxh3 dxe5 19. Bxe5 b4 20. axb4 axb4 21. Nd1
+Bc5+ 22. Kg2 Nd7 23. Bf4 Rae8 24. Kg3 Nf6 25. e5 Nh5+ 26. Kg4 Nxf4 27. Rxf4 Bd6
+28. Rc4 Bd7+ 29. Bf5 h5+ 30. Kf4 Bxf5 31. Kxf5 g6+ 32. Kg5 Bxe5 33. Rce4 Kg7
+34. Kh4 f6 35. c3 Bxh2 36. Rxe8 Kh6 37. Rxf8 0-1

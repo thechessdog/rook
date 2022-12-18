@@ -1,0 +1,19 @@
+[Event "Elekes mem-A"]
+[Site "Budapest"]
+[Date "1981.01.01"]
+[Round "?"]
+[White "Castro, Oscar H."]
+[Black "Szabolcsi, Janos"]
+[Result "1/2-1/2"]
+[ECO "B12"]
+[Opening "Caro-Kann"]
+[Variation "advance variation"]
+[HashCode "6e3f6d67"]
+[Epoch "Rook"]
+[BlackID "701270"]
+[BlackCountry "HUN"]
+[WhiteCountry "COL"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nc3 e6 5. g4 Bg6 6. Nge2 c5 7. h4 cxd4 8. Nxd4
+h5 9. Bg5 Be7 10. Ncb5 Qb6 11. gxh5 Bxh5 12. Qd2 Nc6 13. Nxc6 bxc6 14. Bxe7
+Nxe7 15. Nd6+ Kf8 16. c3 Nc8 17. Nxc8 1/2-1/2

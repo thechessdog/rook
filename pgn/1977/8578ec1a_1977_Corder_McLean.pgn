@@ -1,0 +1,17 @@
+[Event "Memphis"]
+[Site "Memphis"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Corder, L."]
+[Black "McLean, L."]
+[Result "0-1"]
+[ECO "B12"]
+[Opening "Caro-Kann"]
+[Variation "advance variation"]
+[HashCode "8578ec1a"]
+[Epoch "Rook"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Bd3 Qd7 5. Nf3 f6 6. O-O g5 7. exf6 exf6 8.
+Re1+ Ne7 9. Bxf5 Qxf5 10. Qe2 Kf7 11. b3 Nd7 12. Ba3 Ng6 13. Bxf8 Raxf8 14.
+Nbd2 g4 15. Nh4 Nxh4 16. Qe7+ Kg6 17. g3 Nf3+ 18. Nxf3 gxf3 19. Re3 Re8 0-1
+

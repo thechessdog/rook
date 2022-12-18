@@ -1,0 +1,22 @@
+[Event "Majdanpek"]
+[Site "Majdanpek"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Raicevic, Vladimir"]
+[Black "Honfi, Karoly"]
+[Result "1-0"]
+[ECO "E69"]
+[Opening "King's Indian"]
+[Variation "fianchetto, classical main line"]
+[HashCode "35653af5"]
+[Epoch "Rook"]
+[BlackCountry "HUN"]
+[WhiteID "900605"]
+[WhiteCountry "SRB"]
+
+1. c4 e5 2. Nc3 Nf6 3. Nf3 d6 4. d4 Nbd7 5. g3 g6 6. Bg2 Bg7 7. O-O O-O 8. e4
+c6 9. h3 Re8 10. Be3 exd4 11. Nxd4 Nc5 12. Qc2 a5 13. Rad1 Qe7 14. Rfe1 Nfd7
+15. f4 a4 16. Bf2 h5 17. Re2 Qf8 18. Kh2 Nb6 19. Nb1 Bd7 20. Nd2 f5 21. Rde1 h4
+22. e5 dxe5 23. fxe5 hxg3+ 24. Kxg3 Ne4+ 25. Bxe4 Bxe5+ 26. Kg2 fxe4 27. Rxe4
+Qf6 28. N2f3 Bc7 29. Bh4 Qh8 30. Ne6 Bd8 31. Rg4 Rxe6 32. Rxe6 g5 33. Nxg5 Bxe6
+34. Nxe6+ Kf7 35. Qg6# 1-0

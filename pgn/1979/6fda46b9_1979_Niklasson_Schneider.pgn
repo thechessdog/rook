@@ -1,0 +1,22 @@
+[Event "Gladsaxe"]
+[Site "Gladsaxe"]
+[Date "1979.01.01"]
+[Round "9"]
+[White "Niklasson, Christer"]
+[Black "Schneider, Lars-Ake"]
+[Result "0-1"]
+[ECO "E26"]
+[Opening "Nimzo-Indian"]
+[Variation "Saemisch, O'Kelly variation"]
+[HashCode "6fda46b9"]
+[Epoch "Rook"]
+[WhiteID "1700316"]
+[WhiteCountry "SWE"]
+[BlackCountry "SWE"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. a3 Bxc3+ 5. bxc3 c5 6. e3 b6 7. Ne2 O-O 8. Ng3
+Nc6 9. e4 Ne8 10. Be3 Ba6 11. Bd3 Na5 12. Qe2 Rc8 13. Rc1 Nd6 14. dxc5 Ndxc4
+15. cxb6 axb6 16. e5 Nxe3 17. Bxa6 Nxg2+ 18. Kf1 Nf4 19. Qe4 Qh4 20. Bxc8 Rxc8
+21. h3 g6 22. c4 Nb3 23. Rd1 b5 24. Qb7 Rxc4 25. Qxd7 Kg7 26. Kg1 Nd4 27. Qb7
+Rc3 28. Kf1 Rf3 29. Rg1 Qxh3+ 30. Ke1 Qh2 31. Rf1 Nc2+ 32. Kd2 Rxf2+ 33. Rxf2
+Qxf2+ 34. Kc1 Nxa3 0-1

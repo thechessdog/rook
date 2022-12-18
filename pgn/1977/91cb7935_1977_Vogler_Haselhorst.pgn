@@ -1,0 +1,17 @@
+[Event "Biel"]
+[Site "Biel"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Vogler"]
+[Black "Haselhorst"]
+[Result "1-0"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack"]
+[HashCode "91cb7935"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 c5 4. Bxf6 gxf6 5. e3 Nc6 6. Qh5 cxd4 7. exd4 e6
+8. O-O-O Bd7 9. Nge2 b5 10. Nf4 b4 11. Ncxd5 exd5 12. Re1+ Be7 13. Nxd5 Qa5
+14. Rxe7+ Kd8 15. Qxf7 Nxe7 16. Qxe7+ Kc8 17. Qd6 Re8 18. Ba6+ Kd8 19.
+Qxf6+ Re7 20. Qxe7# 1-0
+

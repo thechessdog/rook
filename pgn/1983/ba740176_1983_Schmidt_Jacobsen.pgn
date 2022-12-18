@@ -1,0 +1,20 @@
+[Event "Aarhus"]
+[Site "Aarhus"]
+[Date "1983.01.01"]
+[Round "3"]
+[White "Schmidt, Kristen"]
+[Black "Jacobsen, Bo"]
+[Result "0-1"]
+[ECO "C66"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence, 4.O-O, d6"]
+[HashCode "ba740176"]
+[Epoch "Rook"]
+[WhiteID "1400436"]
+[WhiteCountry "DEN"]
+[BlackID "1400738"]
+[BlackCountry "DEN"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O d6 5. Re1 Be7 6. c3 Bd7 7. d4 O-O 8. Nbd2
+Nxd4 9. cxd4 Bxb5 10. dxe5 dxe5 11. Nxe5 Bc5 12. Ng4 Re8 13. Qc2 Bb6 14. Nxf6+
+Qxf6 15. Nf1 Bd3 16. Qd2 Rxe4 17. Rxe4 Bxe4 18. Qf4 Qxf4 0-1

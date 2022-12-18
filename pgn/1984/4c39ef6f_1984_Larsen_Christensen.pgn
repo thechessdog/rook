@@ -1,0 +1,18 @@
+[Event "Aars"]
+[Site "Aars"]
+[Date "1984.01.01"]
+[Round "4"]
+[White "Larsen, Henning"]
+[Black "Christensen, Bent"]
+[Result "1/2-1/2"]
+[ECO "C66"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence, 4.O-O, d6"]
+[HashCode "4c39ef6f"]
+[Epoch "Rook"]
+[WhiteID "1404172"]
+[WhiteCountry "DEN"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 d6 4. O-O Nf6 5. d4 exd4 6. Nxd4 Bd7 7. Nc3 Be7 8.
+Be3 O-O 9. Qd2 Re8 10. Rfe1 Ng4 11. Nf3 Bf6 12. Bg5 Bxg5 13. Nxg5 h6 14. Nf3
+Nce5 15. Nxe5 Nxe5 16. f4 1/2-1/2

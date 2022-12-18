@@ -1,0 +1,18 @@
+[Event "Budapest"]
+[Site "Budapest"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Marosi, Gyorgy"]
+[Black "Makropoulos, Georgios"]
+[Result "1/2-1/2"]
+[ECO "D34"]
+[Opening "QGD"]
+[Variation "Tarrasch, Prague variation, 9.Bg5"]
+[HashCode "e225fd7d"]
+[Epoch "Rook"]
+[BlackID "4200047"]
+[BlackCountry "GRE"]
+
+1. Nf3 c5 2. c4 Nf6 3. Nc3 e6 4. g3 d5 5. cxd5 exd5 6. d4 Nc6 7. Bg2 Be7 8. O-O
+O-O 9. Bg5 c4 10. Ne5 Be6 11. Nxc6 bxc6 12. b3 Qa5 13. Bd2 Bb4 14. Qc2 cxb3 15.
+axb3 1/2-1/2

@@ -1,0 +1,20 @@
+[Event "London"]
+[Site "London"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Quinteros, Miguel A."]
+[Black "Nunn, John D M"]
+[Result "1-0"]
+[ECO "A18"]
+[Opening "English"]
+[Variation "Mikenas-Carls, Flohr variation"]
+[HashCode "e27fcef5"]
+[Epoch "Rook"]
+[BlackID "400017"]
+[BlackCountry "ENG"]
+[WhiteID "100021"]
+[WhiteCountry "ARG"]
+
+1. c4 Nf6 2. Nc3 e6 3. e4 d5 4. e5 Nfd7 5. cxd5 exd5 6. d4 c5 7. Nf3 Nc6 8. Bb5
+cxd4 9. Nxd4 Ndxe5 10. Qe2 Qe7 11. Nxd5 Nd3+ 12. Bxd3 Nxd4 13. Qxe7+ Bxe7 14.
+Nc7+ Kd8 15. Nxa8 Bb4+ 16. Bd2 Re8+ 17. Kd1 Bxd2 18. Kxd2 1-0

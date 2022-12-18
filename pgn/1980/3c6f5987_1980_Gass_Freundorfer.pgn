@@ -1,0 +1,21 @@
+[Event "Wuerttemberg-ch"]
+[Site "Wuerttemberg"]
+[Date "1980.??.??"]
+[Round "?"]
+[White "Gass, Ulrich"]
+[Black "Freundorfer, Josef"]
+[Result "0-1"]
+[ECO "A45"]
+[Opening "Trompovsky attack (Ruth, Opovcensky opening)"]
+[HashCode "3c6f5987"]
+[Epoch "Rook"]
+[WhiteID "4683307"]
+[BlackID "4609956"]
+[WhiteCountry "GER"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. Bg5 d5 3. Bxf6 exf6 4. e3 c6 5. Bd3 Qb6 6. b3 a5 7. c3 g6 8. Nd2
+Be6 9. Ne2 Nd7 10. h4 f5 11. h5 Bh6 12. c4 Nf6 13. hxg6 hxg6 14. Nf4 O-O-O 15.
+c5 Qc7 16. g3 Bd7 17. b4 g5 18. Ne2 f4 19. gxf4 gxf4 20. Qa4 fxe3 21. fxe3 Ng4
+22. bxa5 Bxe3 23. Rf1 Rde8 24. a6 bxa6 25. Qxa6+ Kd8 26. O-O-O Nf2 27. Rde1 Bc8
+28. Qa3 Rh3 29. Rxf2 Bxf2 30. Rf1 Rxe2 0-1

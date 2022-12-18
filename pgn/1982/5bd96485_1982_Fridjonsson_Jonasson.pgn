@@ -1,0 +1,23 @@
+[Event "ISL-ch"]
+[Site "Reykjavik"]
+[Date "1982.??.??"]
+[Round "2"]
+[White "Fridjonsson, Julius"]
+[Black "Jonasson, Benedikt"]
+[Result "1-0"]
+[ECO "B93"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.f4"]
+[HashCode "5bd96485"]
+[Epoch "Rook"]
+[WhiteID "2300842"]
+[BlackID "2300338"]
+[WhiteCountry "ISL"]
+[BlackCountry "ISL"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 Nbd7 7. Nf3 e6 8. e5
+dxe5 9. fxe5 Ng4 10. Bf4 Qc7 11. Bd3 Bb4 12. Qd2 Ngxe5 13. O-O Qc5+ 14. Kh1
+Nxf3 15. Rxf3 O-O 16. Qe2 Bxc3 17. bxc3 Re8 18. Raf1 f6 19. Rg3 Re7 20. Rd1 Ne5
+21. Bxh7+ Kf8 22. Bxe5 Qxe5 23. Qxe5 fxe5 24. Rd8+ Re8 25. Rxe8+ Kxe8 26. Rxg7
+a5 27. Be4 Ra6 28. h4 Rb6 29. h5 Rb1+ 30. Kh2 Re1 31. Rg4 Kf7 32. h6 Rd1 33.
+Rg7+ Kf6 34. Rg8 1-0

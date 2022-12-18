@@ -1,0 +1,19 @@
+[Event "Capablanca mem-B"]
+[Site "Cienfuegos B"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Lebredo, Gerardo"]
+[Black "Lukacs, Peter"]
+[Result "1/2-1/2"]
+[ECO "C25"]
+[Opening "Vienna"]
+[Variation "Paulsen variation"]
+[HashCode "0ca1d34c"]
+[Epoch "Rook"]
+[BlackID "700142"]
+[BlackCountry "HUN"]
+[WhiteCountry "CUB"]
+
+1. e4 e5 2. Nc3 Nc6 3. g3 Bc5 4. Bg2 a6 5. d3 d6 6. Nge2 Nge7 7. Nd5 Nxd5 8.
+exd5 Ne7 9. d4 exd4 10. Nxd4 O-O 11. O-O Nf5 12. Nb3 Bb6 13. Qd3 Re8 14. Bd2
+Bd7 15. Rae1 Qf6 1/2-1/2

@@ -1,0 +1,20 @@
+[Event "Glucksburg"]
+[Site "Glucksburg"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Rath, Ulrik"]
+[Black "Sigurjonsson, Gudmundur"]
+[Result "1/2-1/2"]
+[ECO "A48"]
+[Opening "King's Indian"]
+[Variation "London system"]
+[HashCode "b76d1231"]
+[Epoch "Rook"]
+[WhiteID "1400223"]
+[WhiteCountry "DEN"]
+[BlackID "2300079"]
+[BlackCountry "ISL"]
+
+1. d4 Nf6 2. Nf3 g6 3. Bf4 Bg7 4. e3 d6 5. h3 O-O 6. Be2 c6 7. c3 Nbd7 8. Nbd2
+b6 9. O-O Bb7 10. Bh2 c5 11. a4 a6 12. b4 Qc7 13. Qb3 cxb4 14. cxb4 Bd5 15. Qa3
+Qb7 16. Rfc1 Rfc8 17. Rxc8+ Rxc8 18. Rc1 h6 1/2-1/2

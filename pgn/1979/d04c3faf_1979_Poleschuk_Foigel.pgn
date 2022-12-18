@@ -1,0 +1,18 @@
+[Event "corr USSR"]
+[Site "corr USSR"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Poleschuk, Nikolai"]
+[Black "Foigel"]
+[Result "1-0"]
+[ECO "B96"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7.f4"]
+[HashCode "d04c3faf"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Nbd7 8.
+Qf3 Qc7 9. O-O-O b5 10. Bxb5 axb5 11. e5 Qb7 12. Ndxb5 dxe5 13. fxe5 Rxa2
+14. Kb1 Ra5 15. exf6 Qxf3 16. Nc7+ Kd8 17. fxg7+ Kxc7 18. gxh8=Q Qa8 19.
+Bd8+ Kxd8 20. Qxf8+ Kc7 21. Qd6+ Kd8 22. Kc1 1-0
+

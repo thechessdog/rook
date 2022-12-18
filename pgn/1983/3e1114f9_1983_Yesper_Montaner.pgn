@@ -1,0 +1,21 @@
+[Event "corr LADAC"]
+[Site "corr LADAC"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Yesper, Alfredo"]
+[Black "Montaner, Luis"]
+[Result "0-1"]
+[ECO "C68"]
+[Opening "Ruy Lopez"]
+[Variation "exchange, Alekhine variation"]
+[HashCode "3e1114f9"]
+[Epoch "Rook"]
+[BlackID "110450"]
+[BlackCountry "ARG"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. d4 exd4 6. Qxd4 Qxd4 7. Nxd4 Bd7
+8. Nc3 O-O-O 9. Be3 Re8 10. O-O-O Bb4 11. Nde2 f5 12. a3 Bd6 13. Na4 fxe4 14.
+Nb6+ cxb6 15. Rxd6 Nf6 16. Rd2 Nd5 17. Bd4 Rhf8 18. h3 c5 19. Be3 Nxe3 20. fxe3
+Rf2 21. Nc3 Ref8 22. Rhd1 Rxd2 23. Rxd2 Rf1+ 24. Rd1 Rxd1+ 25. Kxd1 Bc6 26. Ke2
+b5 27. Kf2 b4 28. axb4 cxb4 29. Ne2 Kc7 30. c3 bxc3 31. Nxc3 Kb6 32. Kg3 Kc5
+33. Kf4 a5 0-1

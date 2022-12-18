@@ -1,0 +1,20 @@
+[Event "Reykjavik"]
+[Site "Reykjavik"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Ree, Hans"]
+[Black "Hjartarson, Johann"]
+[Result "0-1"]
+[ECO "D30"]
+[Opening "QGD"]
+[HashCode "9e8af173"]
+[Epoch "Rook"]
+[WhiteID "1000098"]
+[WhiteCountry "NED"]
+[BlackID "2300044"]
+[BlackCountry "ISL"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Bg5 Be7 5. Nc3 h6 6. Bh4 O-O 7. Qc2 b6 8. Bxf6
+Bxf6 9. e4 Nc6 10. O-O-O dxe4 11. Qxe4 Bb7 12. h4 Rb8 13. Bd3 g6 14. Qg4 Bg7
+15. Be2 Ne7 16. h5 g5 17. Ne5 Nf5 18. Bf3 c5 19. dxc5 Qc7 20. Nd7 Bxc3 21. bxc3
+bxc5 22. Nxf8 Qa5 23. Kd2 Nd4 24. Ke1 Nxf3+ 25. Kf1 Qa4 26. Rd6 f5 0-1

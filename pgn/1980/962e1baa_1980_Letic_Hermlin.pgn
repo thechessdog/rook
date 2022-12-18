@@ -1,0 +1,19 @@
+[Event "corr Wcup3"]
+[Site "corr Wcup3"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Letic"]
+[Black "Hermlin"]
+[Result "0-1"]
+[ECO "E52"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line with ...b6"]
+[HashCode "962e1baa"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 b6 7. O-O Bb7 8.
+cxd5 exd5 9. Ne5 Nbd7 10. Qc2 c5 11. a3 Bxc3 12. bxc3 Re8 13. Nxd7 Qxd7 14.
+dxc5 bxc5 15. Rd1 Qc6 16. Qe2 c4 17. Bf5 d4 18. f3 g6 19. Bxg6 hxg6 20.
+Rxd4 Rad8 21. e4 Rxd4 22. cxd4 c3 23. Qf2 Nxe4 24. fxe4 Rxe4 25. Ra2 Qe6
+0-1
+

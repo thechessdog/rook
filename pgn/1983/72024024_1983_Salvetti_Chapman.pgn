@@ -1,0 +1,17 @@
+[Event "Mendrisio"]
+[Site "Mendrisio"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Salvetti"]
+[Black "Chapman"]
+[Result "1-0"]
+[ECO "C44"]
+[Opening "Scotch gambit"]
+[Variation "Dubois-Reti defence"]
+[HashCode "72024024"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 Nf6 5. e5 d5 6. exf6 dxc4 7. O-O gxf6
+8. Re1+ Be6 9. Na3 Qd5 10. Bf4 O-O-O 11. Qe2 h5 12. Rad1 h4 13. h3 Rg8 14.
+Kh2 Qf5 15. Qe4 Rxg2+ 16. Kxg2 Qxh3+ 17. Kg1 Bd5 18. Ng5 fxg5 1-0
+

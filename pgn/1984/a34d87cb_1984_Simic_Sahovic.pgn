@@ -1,0 +1,19 @@
+[Event "Vrnjacka Banja"]
+[Site "Vrnjacka Banja"]
+[Date "1984.04.01"]
+[Round "1"]
+[White "Simic, Radoslav"]
+[Black "Sahovic, Dragutin"]
+[Result "1/2-1/2"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "4.Nf3"]
+[HashCode "a34d87cb"]
+[Epoch "Rook"]
+[WhiteID "900184"]
+[WhiteCountry "SRB"]
+[BlackCountry "SRB"]
+
+1. c4 Nf6 2. Nc3 e6 3. Nf3 d5 4. d4 Be7 5. cxd5 exd5 6. Bg5 c6 7. e3 Bf5 8. Bd3
+Bxd3 9. Qxd3 Nbd7 10. O-O O-O 11. Rfb1 a5 12. a3 Re8 13. Qc2 Nh5 14. Bxe7 Qxe7
+15. Ne1 Nhf6 1/2-1/2

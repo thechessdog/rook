@@ -1,0 +1,19 @@
+[Event "Albena"]
+[Site "Albena"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Spiridonov, Nikola"]
+[Black "Velikov, Petar"]
+[Result "1/2-1/2"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "modern variation"]
+[HashCode "a824a9de"]
+[Epoch "Rook"]
+[BlackID "2900149"]
+[BlackCountry "FID"]
+[WhiteID "2900238"]
+[WhiteCountry "FID"]
+
+1. b3 e5 2. Bb2 Nc6 3. c4 g6 4. g3 Bg7 5. Bg2 Nge7 6. d3 O-O 7. Nc3 d6 8. Nf3
+h6 9. O-O Be6 10. a3 Qd7 11. Re1 a5 12. Nd2 1/2-1/2

@@ -1,0 +1,18 @@
+[Event "corr FIN-NZL"]
+[Site "corr FIN-NZL"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Sabel, Henrik"]
+[Black "Barnard"]
+[Result "1-0"]
+[ECO "C35"]
+[Opening "KGA"]
+[Variation "Cunningham defence"]
+[HashCode "3fc4e984"]
+[Epoch "Rook"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 Be7 4. Bc4 Bh4+ 5. Kf1 d5 6. exd5 Bg4 7. d4 Ne7
+8. Nc3 Ng6 9. Ne4 c6 10. dxc6 Nxc6 11. c3 Nce5 12. Bb5+ Ke7 13. Qb3 Nc6 14.
+Nxh4 Nxh4 15. d5 Bf5 16. Qa3+ Ke8 17. Nd6+ Kd7 18. Nxb7 Qc7 19. Bxc6+ Kc8
+20. Nd6+ Kd8 21. Bxf4 Bd3+ 22. Kf2 1-0
+

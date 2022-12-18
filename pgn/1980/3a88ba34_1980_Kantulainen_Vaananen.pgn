@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Kantulainen"]
+[Black "Vaananen"]
+[Result "1-0"]
+[ECO "E86"]
+[Opening "King's Indian"]
+[Variation "Saemisch, orthodox, 7.Nge2 c6"]
+[HashCode "3a88ba34"]
+[Epoch "Rook"]
+
+1. d4 g6 2. c4 Nf6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 e5 7. Nge2 c6 8.
+Qd2 a6 9. O-O-O Nbd7 10. Kb1 b5 11. dxe5 dxe5 12. Nc1 Bb7 13. Be2 b4 14.
+Na4 a5 15. Nb3 Qc7 16. Qd6 Rfc8 17. Qxc7 Rxc7 18. Nb6 1-0
+

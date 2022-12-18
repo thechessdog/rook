@@ -1,0 +1,17 @@
+[Event "Palo Alto,CA"]
+[Site "Palo Alto,CA"]
+[Date "1981.01.01"]
+[Round "2"]
+[White "Gobets, Roy"]
+[Black "Wang, Arthur D"]
+[Result "1-0"]
+[ECO "A10"]
+[Opening "English opening"]
+[HashCode "da2ec892"]
+[Epoch "Rook"]
+[BlackID "2011328"]
+[BlackCountry "USA"]
+
+1. c4 g6 2. Nf3 Bg7 3. g3 e5 4. d4 exd4 5. Nxd4 d5 6. Bg2 dxc4 7. e3 c6 8. Nc3
+Ne7 9. O-O Nd7 10. Qa4 Nb6 11. Qa5 Ned5 12. Rd1 Nxc3 13. bxc3 Nd5 14. Nxc6 Qxa5
+15. Nxa5 Nxc3 16. Ba3 Nxd1 17. Rxd1 Bg4 18. Nxb7 Rc8 19. Bc6+ Bd7 20. Bxd7# 1-0

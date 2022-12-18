@@ -1,0 +1,15 @@
+[Event "Stavropol"]
+[Site "Stavropol"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Gureev"]
+[Black "Boiky, I."]
+[Result "1-0"]
+[ECO "B44"]
+[Opening "Sicilian defence"]
+[HashCode "c6a8fc7e"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e6 5. Bf4 Nge7 6. Nb5 Ng6 7. Nc7+
+Ke7 8. Qd6+ Kf6 9. Nd5# 1-0
+

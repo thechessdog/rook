@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Mittag"]
+[Black "Schreiber"]
+[Result "0-1"]
+[ECO "B20"]
+[Opening "Sicilian"]
+[Variation "wing gambit, Marshall variation"]
+[HashCode "504ebaf7"]
+[Epoch "Rook"]
+
+1. e4 c5 2. b4 cxb4 3. a3 d5 4. exd5 Qxd5 5. Nf3 e5 6. axb4 Bxb4 7. Ba3
+Bxa3 8. Rxa3 Nc6 9. Nc3 Qc5 10. Nb5 Qe7 11. Qa1 Nf6 12. Bc4 O-O 13. O-O Bg4
+14. Re1 Bxf3 15. Rxf3 a6 16. Nc3 Rad8 17. Bd3 Nd4 18. Rfe3 Ng4 19. Rh3 f5
+20. f4 Qc5 0-1
+

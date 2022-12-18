@@ -1,0 +1,23 @@
+[Event "Tirnavia"]
+[Site "Trnava"]
+[Date "1984.01.01"]
+[Round "13"]
+[White "Lanc, Alois"]
+[Black "Mokry, Karel"]
+[Result "0-1"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Byrne (English) attack"]
+[HashCode "cdf87510"]
+[Epoch "Rook"]
+[WhiteID "14900041"]
+[WhiteCountry "SVK"]
+[BlackID "306070"]
+[BlackCountry "CZE"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e6 7. f4 b5 8. Qf3
+Bb7 9. Bd3 Nbd7 10. g4 h6 11. O-O-O Rc8 12. g5 hxg5 13. fxg5 Ne5 14. Qg2 Nfg4
+15. Bf4 b4 16. Nce2 Be7 17. h3 Nxd3+ 18. Rxd3 Ne5 19. Rdd1 Qc7 20. Be3 Nc4 21.
+g6 Nxe3 22. gxf7+ Kd7 23. Qxg7 Nxc2 24. Nxe6 Qc4 25. f8=Q Nd4+ 26. Kb1 Bxe4+
+27. Ka1 Nc2+ 28. Kb1 Rhxf8 29. Nxf8+ Rxf8 30. Qg4+ Kd8 31. Ng3 Na3+ 32. Ka1
+Bxh1 0-1

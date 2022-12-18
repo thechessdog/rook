@@ -1,0 +1,16 @@
+[Event "corr CCCA"]
+[Site "corr CCCA"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Danenhower, P."]
+[Black "Oaker, W."]
+[Result "0-1"]
+[ECO "A56"]
+[Opening "Benoni defence, Hromodka system"]
+[HashCode "611923f7"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 c5 3. d5 d6 4. Nc3 g6 5. e4 Bg7 6. Be2 O-O 7. Bg5 h6 8. Bf4
+e6 9. dxe6 Bxe6 10. Bxd6 Re8 11. Nf3 Qb6 12. Bxb8 Raxb8 13. Qc2 Nh5 14. O-O
+Nf4 0-1
+

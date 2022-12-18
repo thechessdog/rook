@@ -1,0 +1,21 @@
+[Event "Grindavik"]
+[Site "Grindavik"]
+[Date "1984.01.01"]
+[Round "8"]
+[White "Angantysson, Haukur"]
+[Black "Gutman, Lev"]
+[Result "0-1"]
+[ECO "B96"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7.f4"]
+[HashCode "25a6d873"]
+[Epoch "Rook"]
+[BlackID "4600177"]
+[BlackCountry "GER"]
+[WhiteCountry "ISL"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Nbd7 8. Qf3
+Qc7 9. O-O-O b5 10. Bxf6 Nxf6 11. a3 Rb8 12. g4 b4 13. axb4 Rxb4 14. g5 Nd7 15.
+f5 Ne5 16. Qf2 Qb6 17. Qd2 Be7 18. fxe6 fxe6 19. Nf5 exf5 20. Nd5 Ra4 21. b3
+Ra1+ 22. Kb2 Rxd1 23. Qxd1 Qd8 24. exf5 Bxf5 25. Bxa6 O-O 26. h4 Be4 27. Re1
+Bxd5 28. Qxd5+ Kh8 29. Bb7 Qb6 30. Ra1 g6 31. Ra8 Kg7 32. b4 0-1

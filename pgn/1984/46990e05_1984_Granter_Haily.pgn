@@ -1,0 +1,15 @@
+[Event "Scotland"]
+[Site "Scotland"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Granter"]
+[Black "Haily"]
+[Result "1-0"]
+[ECO "B32"]
+[Opening "Sicilian"]
+[Variation "Labourdonnais-Loewenthal variation"]
+[HashCode "46990e05"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e5 5. Nb5 Nge7 6. Nd6# 1-0
+

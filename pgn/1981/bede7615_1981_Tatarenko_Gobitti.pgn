@@ -1,0 +1,17 @@
+[Event "corr Oekr"]
+[Site "corr Oekr"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Tatarenko"]
+[Black "Gobitti"]
+[Result "0-1"]
+[ECO "C64"]
+[Opening "Ruy Lopez"]
+[Variation "Cordel gambit"]
+[HashCode "bede7615"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. c3 f5 5. d4 fxe4 6. Bxc6 dxc6 7. Nxe5 Bd6
+8. O-O Qh4 9. Qb3 Bxe5 10. dxe5 Ne7 11. Nd2 Nd5 12. f4 e3 13. g3 Qg4 14.
+Ne4 Rf8 15. c4 Nxf4 16. Qxe3 Ne2+ 0-1
+

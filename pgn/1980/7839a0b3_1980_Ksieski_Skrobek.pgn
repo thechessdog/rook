@@ -1,0 +1,20 @@
+[Event "Poland ch"]
+[Site "Poland ch"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Ksieski, Z."]
+[Black "Skrobek, Ryszard"]
+[Result "0-1"]
+[ECO "A70"]
+[Opening "Benoni"]
+[Variation "classical with e4 and Nf3"]
+[HashCode "7839a0b3"]
+[Epoch "Rook"]
+[BlackID "1100165"]
+[BlackCountry "POL"]
+
+1. d4 e6 2. c4 Nf6 3. Nc3 c5 4. d5 exd5 5. cxd5 g6 6. e4 d6 7. Nf3 Bg7 8. Nd2
+O-O 9. Be2 Nbd7 10. O-O Re8 11. Kh1 a6 12. a4 Ne5 13. Qc2 g5 14. Nd1 Rb8 15. a5
+Bd7 16. Ne3 g4 17. f4 gxf3 18. gxf3 Kh8 19. Ndc4 Bh3 20. Rg1 Nh5 21. Nxe5 Bxe5
+22. Nc4 Rg8 23. Rxg8+ Qxg8 24. Bd3 Bxh2 25. Be3 Qg7 26. Kxh2 Qg3+ 27. Kh1 Qxf3+
+28. Kh2 Qg3+ 29. Kh1 Bg4 30. Rf1 Rg8 31. Qg2 Bf3 0-1

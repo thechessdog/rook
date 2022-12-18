@@ -1,0 +1,19 @@
+[Event "Colorado"]
+[Site "Colorado"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Andersson, Ulf"]
+[Black "Hooper, David"]
+[Result "1-0"]
+[ECO "D53"]
+[Opening "QGD"]
+[Variation "4.Bg5 Be7"]
+[HashCode "9b420174"]
+[Epoch "Rook"]
+[WhiteID "1700014"]
+[WhiteCountry "SWE"]
+
+1. d4 e6 2. c4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e3 c6 6. Nf3 Nbd7 7. Rc1 h6 8. Bh4
+Qa5 9. Bd3 g5 10. Bg3 dxc4 11. Bxc4 Ne4 12. O-O Nxc3 13. Rxc3 Nb6 14. Bb3 Nd5
+15. Rc1 h5 16. e4 h4 17. Be5 f6 18. exd5 exd5 19. Qd3 Qd8 20. Qg6+ Kd7 21. Bxd5
+fxe5 22. Rxc6 1-0

@@ -1,0 +1,26 @@
+[Event "Kopenhagen open"]
+[Site "Kopenhagen open"]
+[Date "1980.06.01"]
+[Round "7"]
+[White "Brondum, Eric"]
+[Black "Roth, Rolf"]
+[Result "1-0"]
+[ECO "E12"]
+[Opening "Queen's Indian"]
+[Variation "4.Nc3"]
+[HashCode "7086a9ec"]
+[Epoch "Rook"]
+[WhiteID "1400894"]
+[WhiteCountry "DEN"]
+[BlackID "1300458"]
+[BlackCountry "SUI"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. Nc3 Bb7 5. Bg5 Be7 6. e3 h6 7. Bh4 Ne4 8. Bxe7
+Qxe7 9. Qc2 Nxc3 10. Qxc3 d6 11. O-O-O Nd7 12. Be2 Nf6 13. Nd2 Ne4 14. Nxe4
+Bxe4 15. Bf3 Bxf3 16. gxf3 Qf6 17. e4 O-O-O 18. Rd3 Kb7 19. Kb1 g5 20. Qb3 d5
+21. cxd5 exd5 22. e5 Qf5 23. Rc1 c6 24. Ka1 Rhe8 25. Rdc3 Rc8 26. a4 Qf4 27.
+Rxc6 Qxc1+ 28. Rxc1 Rxc1+ 29. Ka2 Rd8 30. f4 Rc4 31. Qe3 gxf4 32. Qxf4 Rd7 33.
+Ka3 h5 34. Qe3 a5 35. f4 Kc7 36. f5 Rc6 37. f6 Kb7 38. Qh3 Rdc7 39. Qf3 Ka7 40.
+Qxd5 Rc2 41. Qd6 Kb7 42. d5 Rd2 43. h4 Rd3+ 44. Ka2 Rd4 45. e6 fxe6 46. Qxe6
+Rxa4+ 47. Kb1 Rf4 48. d6 Rf1+ 49. Ka2 Rcc1 50. f7 Rf4 51. Qe7+ Ka6 52. d7 Ra4+
+53. Kb3 Rac4 54. f8=Q a4+ 55. Ka2 1-0

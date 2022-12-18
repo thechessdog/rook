@@ -1,0 +1,23 @@
+[Event "Poland"]
+[Site "Poland"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Maciejewski, Andrzej"]
+[Black "Ksieski, Zbigniew"]
+[Result "1-0"]
+[ECO "B81"]
+[Opening "Sicilian"]
+[Variation "Scheveningen, Keres attack"]
+[HashCode "55e52b22"]
+[Epoch "Rook"]
+[WhiteID "1100181"]
+[WhiteCountry "POL"]
+[BlackID "1100564"]
+[BlackCountry "POL"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. g4 h6 7. h4 Nc6 8. Rg1
+Nd7 9. g5 hxg5 10. hxg5 Nde5 11. Be3 a6 12. f4 Nxd4 13. Bxd4 Nc6 14. Be3 b5 15.
+Bg2 Bb7 16. Qg4 Rc8 17. O-O-O Qc7 18. g6 b4 19. gxf7+ Kxf7 20. Nd5 exd5 21. e5
+Nd4 22. Qg6+ Kg8 23. Bxd4 Rh6 24. Qf5 Qf7 25. Bh3 Qxf5 26. Bxf5 Re8 27. Bd7 Re7
+28. e6 Rhxe6 29. Bxe6+ Rxe6 30. f5 Rh6 31. f6 g6 32. Rh1 Kf7 33. c3 bxc3 34.
+bxc3 Bc8 35. Kd2 g5 36. Rxh6 Bxh6 37. Rh1 Kg6 1-0

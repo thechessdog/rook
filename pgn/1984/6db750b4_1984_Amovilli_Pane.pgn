@@ -1,0 +1,17 @@
+[Event "corr Italy"]
+[Site "corr Italy"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Amovilli"]
+[Black "Pane"]
+[Result "1-0"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (without ...d6)"]
+[HashCode "6db750b4"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 bxc6 5. O-O d5 6. d3 Bg4 7. c4 e6 8.
+Qa4 Ne7 9. Ne5 Bh5 10. exd5 exd5 11. Re1 f6 12. Nxc6 Qd7 13. cxd5 Bg6 14.
+d6 1-0
+

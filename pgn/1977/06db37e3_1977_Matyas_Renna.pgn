@@ -1,0 +1,15 @@
+[Event "Hazleton"]
+[Site "Hazleton"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Matyas"]
+[Black "Renna, A."]
+[Result "0-1"]
+[ECO "B07"]
+[Opening "Pirc defence"]
+[HashCode "06db37e3"]
+[Epoch "Rook"]
+
+1. d4 d6 2. e4 Nf6 3. Nc3 Nbd7 4. f4 e5 5. Nf3 exd4 6. Qxd4 Be7 7. Be2 O-O
+8. Be3 Ng4 9. Bd2 Bf6 10. Qd5 Nc5 11. h3 Be6 12. Qh5 g6 0-1
+

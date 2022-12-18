@@ -1,0 +1,22 @@
+[Event "corr FSM"]
+[Site "corr FSM"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Hahn, K."]
+[Black "Lehmann, W."]
+[Result "1-0"]
+[ECO "E38"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, 4...c5"]
+[HashCode "177b1e93"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 c5 5. Nf3 O-O 6. a3 Bxc3+ 7. bxc3 d5
+8. cxd5 exd5 9. Bg5 cxd4 10. cxd4 h6 11. Bh4 Nc6 12. e3 Qa5+ 13. Qd2 Ne4
+14. Qxa5 Nxa5 15. Bd3 Bf5 16. Bxe4 Bxe4 17. O-O Nb3 18. Ra2 a5 19. Nd2 Nxd2
+20. Rxd2 Rfc8 21. Rb2 Bd3 22. Rd1 Ba6 23. Be7 b5 24. Bc5 Rab8 25. f3 f5 26.
+Kf2 Kf7 27. h3 Re8 28. g4 g6 29. gxf5 gxf5 30. Rg1 Rg8 31. Rxg8 Rxg8 32.
+Rc2 Rc8 33. Kg3 Ke6 34. Kf4 Kf6 35. Rg2 b4 36. Rb2 Rb8 37. axb4 axb4 38.
+Bxb4 Rb7 39. Ra2 Bc4 40. Ra4 h5 41. Bc5 Rb8 42. Ra7 Rg8 43. Rb7 Re8 44.
+Rb6+ Re6 45. Rb8 Kg6 46. Rg8+ 1-0
+

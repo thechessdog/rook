@@ -1,0 +1,18 @@
+[Event "Capablanca mem"]
+[Site "Cienfuegos"]
+[Date "1979.??.??"]
+[Round "9"]
+[White "Rodriguez Cespedes, Amador"]
+[Black "Estevez Morales, Guillermo"]
+[Result "1/2-1/2"]
+[ECO "C88"]
+[Opening "Ruy Lopez"]
+[Variation "closed, anti-Marshall 8.a4"]
+[HashCode "78d440b8"]
+[Epoch "Rook"]
+[WhiteCountry "ESP"]
+[BlackCountry "CUB"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. a4
+Bb7 9. d3 d6 10. Nc3 b4 11. Nd5 Nxd5 12. Bxd5 Na5 13. Bxb7 Nxb7 14. d4 Bf6 15.
+dxe5 Bxe5 16. Nxe5 dxe5 17. Be3 Qxd1 18. Raxd1 Rfd8 1/2-1/2

@@ -1,0 +1,20 @@
+[Event "corr EU"]
+[Site "corr EU"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Popp, F."]
+[Black "Drescher, W."]
+[Result "0-1"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, 6.Bd3"]
+[HashCode "f6def957"]
+[Epoch "Rook"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. f4 Nf6 5. Nf3 O-O 6. Bd3 Nc6 7. O-O Bg4 8.
+Be3 e5 9. d5 Nd4 10. fxe5 dxe5 11. Be2 Bxf3 12. Bxf3 Nd7 13. Bxd4 exd4 14.
+Ne2 Qg5 15. Kh1 Qe5 16. Qd2 Nb6 17. Qd3 c6 18. dxc6 bxc6 19. Rad1 c5 20. b3
+Rac8 21. Qb5 Qe8 22. Qa6 Qe7 23. a4 Be5 24. a5 Nd7 25. Nc1 Qh4 26. h3 Qg3
+27. Kg1 Qh2+ 28. Kf2 c4 29. b4 d3 30. cxd3 Bd4+ 31. Ke2 Ne5 32. Bg4 cxd3+
+0-1
+

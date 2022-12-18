@@ -1,0 +1,19 @@
+[Event "Quebec Invitational"]
+[Site "Quebec Invitational"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Witt, Leslie"]
+[Black "Williams, Leo"]
+[Result "1-0"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Paulsen attack"]
+[HashCode "41c14ca5"]
+[Epoch "Rook"]
+[BlackID "2600730"]
+[BlackCountry "CAN"]
+
+1. e4 c5 2. c3 e6 3. d4 d5 4. e5 Nc6 5. Nf3 Nge7 6. Bd3 cxd4 7. cxd4 Nf5 8.
+Bxf5 exf5 9. Nc3 Be6 10. h4 h6 11. Ne2 Be7 12. Nf4 Qd7 13. a3 O-O-O 14. h5 Kb8
+15. b4 Rdg8 16. Bd2 g5 17. Nxe6 Qxe6 18. b5 Nd8 19. a4 g4 20. Bg5 f4 21. Kf1
+Qd7 22. Kg1 1-0

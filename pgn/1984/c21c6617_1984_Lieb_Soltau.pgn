@@ -1,0 +1,20 @@
+[Event "BL2-N 8384"]
+[Site "BL2-N 8384"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Lieb, Harald"]
+[Black "Soltau, A."]
+[Result "1-0"]
+[ECO "A32"]
+[Opening "English"]
+[Variation "symmetrical variation"]
+[HashCode "c21c6617"]
+[Epoch "Rook"]
+[WhiteID "4604814"]
+[WhiteCountry "GER"]
+
+1. d4 Nf6 2. c4 c5 3. Nf3 cxd4 4. Nxd4 e6 5. Nc3 d5 6. g3 e5 7. Nf3 d4 8. Nxe5
+dxc3 9. Qxd8+ Kxd8 10. Nxf7+ Ke8 11. Nxh8 Bb4 12. b3 Nc6 13. Bg2 Bf5 14. O-O
+Kf8 15. a3 Be7 16. Bg5 Ne4 17. Bxe7+ Kxe7 18. g4 Nd2 19. gxf5 Nxf1 20. Kxf1
+Rxh8 21. Rc1 Rd8 22. Bxc6 bxc6 23. Rxc3 Rd1+ 24. Kg2 Kf6 25. Rd3 Rxd3 26. exd3
+Ke5 27. Kf3 Kd4 28. Ke2 Kc3 29. b4 a6 30. Ke3 Kb3 31. Kd4 1-0

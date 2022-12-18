@@ -1,0 +1,25 @@
+[Event "Schilde"]
+[Site "Schilde"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Andersen, Morten"]
+[Black "Tangborn, E."]
+[Result "1-0"]
+[ECO "C05"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation"]
+[HashCode "e3e6a74b"]
+[Epoch "Rook"]
+[WhiteID "1504908"]
+[WhiteCountry "DEN"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Ng8 5. c3 b6 6. Ndf3 Qd7 7. Bd3 Ba6 8. Bxa6
+Nxa6 9. Ne2 c5 10. O-O Ne7 11. Ng3 Rc8 12. Bg5 h6 13. Bxe7 Bxe7 14. Qd2 cxd4
+15. cxd4 Qa4 16. b3 Qa5 17. Qf4 g5 18. Qg4 Qc3 19. Nh5 Nb4 20. h4 Qd3 21. Rac1
+Rxc1 22. Rxc1 Kd8 23. Nf6 Qg6 24. hxg5 Nd3 25. Ra1 Bxf6 26. exf6 hxg5 27. Qxg5
+Qh7 28. Kf1 Rg8 29. Qh4 Qxh4 30. Nxh4 Nf4 31. g3 Nh5 32. Nf3 Rg6 33. Ne5 Rxf6
+34. Ke2 Ng7 35. Nc6+ Kd7 36. Nxa7 Nf5 37. Nb5 Nd6 38. Nxd6 Kxd6 39. Rh1 Rg6 40.
+Rh8 f6 41. a4 e5 42. dxe5+ fxe5 43. b4 e4 44. a5 bxa5 45. Ra8 Ke5 46. bxa5 Kd4
+47. a6 Rb6 48. a7 Rb7 49. g4 Rb2+ 50. Kf1 Rb7 51. Kg2 Kd3 52. Kg3 Ke2 53. g5 d4
+54. Rd8 Rxa7 55. Rxd4 Re7 56. Ra4 Kd3 57. Kg4 Rh7 58. g6 Rh2 59. Ra3+ Kd4 60.
+g7 1-0

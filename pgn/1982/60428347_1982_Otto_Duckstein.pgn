@@ -1,0 +1,21 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Otto"]
+[Black "Dueckstein, Andreas"]
+[Result "0-1"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "modern variation"]
+[HashCode "60428347"]
+[Epoch "Rook"]
+[BlackID "1600168"]
+[BlackCountry "AUT"]
+
+1. b3 e5 2. Bb2 Nc6 3. e3 d5 4. Bb5 Bd6 5. f4 Qe7 6. Nf3 f6 7. Bxc6+ bxc6 8.
+fxe5 fxe5 9. Nxe5 Qh4+ 10. g3 Bxe5 11. gxh4 Bxb2 12. Nc3 Bxa1 13. Qxa1 Nf6 14.
+Ne2 O-O 15. Qe5 Rf7 16. Nd4 Bb7 17. Rg1 Re8 18. Qg5 Ne4 19. Qg4 Bc8 20. Qg2 c5
+21. Ne2 d4 22. d3 Nd6 23. e4 Bb7 24. Kd1 Bc8 25. Nf4 Ree7 26. Nd5 Re5 27. Qg3
+Re6 28. h5 c6 29. Nf4 Ref6 30. e5 Nf5 31. exf6 Nxg3 32. hxg3 Rxf6 33. Re1 Bg4+
+34. Kd2 Kf7 35. Re5 Rf5 36. Re6 Rxf4 0-1

@@ -1,0 +1,20 @@
+[Event "Aarhus"]
+[Site "Aarhus"]
+[Date "1983.01.01"]
+[Round "9"]
+[White "Jacobsen, Bo"]
+[Black "Van der Wiel, John T.H."]
+[Result "1-0"]
+[ECO "A36"]
+[Opening "English"]
+[Variation "ultra-symmetrical variation"]
+[HashCode "b2005178"]
+[Epoch "Rook"]
+[BlackID "1000020"]
+[BlackCountry "NED"]
+[WhiteID "1400738"]
+[WhiteCountry "DEN"]
+
+1. c4 c5 2. g3 g6 3. Bg2 Bg7 4. Nc3 Nc6 5. e3 Nh6 6. Nge2 Nf5 7. O-O b6 8. d4
+cxd4 9. Nxd4 Nfxd4 10. exd4 Bxd4 11. Bh6 Bxc3 12. bxc3 Bb7 13. c5 Qc7 14. Re1
+bxc5 15. Rb1 a6 16. Bf4 Qc8 17. Rxe7+ 1-0

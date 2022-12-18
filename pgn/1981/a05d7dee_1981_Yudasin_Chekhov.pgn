@@ -1,0 +1,23 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Yudasin, Leonid"]
+[Black "Chekhov, Valery A"]
+[Result "1-0"]
+[ECO "C80"]
+[Opening "Ruy Lopez"]
+[Variation "open, Friess attack"]
+[HashCode "a05d7dee"]
+[Epoch "Rook"]
+[WhiteID "2802341"]
+[BlackID "4100859"]
+[WhiteCountry "ISR"]
+[BlackCountry "RUS"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Nxe5 Nxe5 8.
+dxe5 d5 9. Bb3 c6 10. Be3 Be7 11. Nd2 Bf5 12. Nf3 Bg4 13. h3 Bh5 14. c3 Bc5 15.
+Bxc5 Nxc5 16. Bc2 O-O 17. Re1 Re8 18. a4 bxa4 19. Qd4 Bxf3 20. Qxc5 Qg5 21. g3
+Qh5 22. Qe3 g6 23. Qf4 g5 24. Qf5 Rab8 25. Re3 Rxb2 26. g4 Qg6 27. Qxg6+ hxg6
+28. Bxa4 Be4 29. Bxc6 Rxe5 30. c4 Re6 31. cxd5 Rxc6 32. dxc6 Bxc6 33. Rc1 Bb5
+34. Re5 a5 35. Rc8+ Kg7 36. Rb8 1-0

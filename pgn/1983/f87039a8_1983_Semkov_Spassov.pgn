@@ -1,0 +1,23 @@
+[Event "BUL-ch"]
+[Site "Pernik"]
+[Date "1983.??.??"]
+[Round "6"]
+[White "Semkov, Semko"]
+[Black "Spassov, Liuben"]
+[Result "1-0"]
+[ECO "E42"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5, 5.Ne2 (Rubinstein)"]
+[HashCode "f87039a8"]
+[Epoch "Rook"]
+[WhiteID "2900068"]
+[BlackID "2900220"]
+[WhiteCountry "FID"]
+[BlackCountry "FID"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Ne2 cxd4 6. exd4 O-O 7. a3 Be7 8. g3
+d5 9. c5 b6 10. b4 bxc5 11. dxc5 e5 12. Bg2 Be6 13. O-O h6 14. f4 e4 15. f5 Bc8
+16. Nf4 Bxf5 17. Nfxd5 Bh7 18. Bf4 Nc6 19. Kh1 Nxd5 20. Nxd5 a6 21. Ra2 Ra7 22.
+Rd2 Bg5 23. a4 Bxf4 24. Rxf4 Qe8 25. b5 axb5 26. axb5 Qe5 27. Rf1 Ne7 28. b6
+Ra5 29. Nxe7+ Qxe7 30. c6 Qc5 31. b7 Rb5 32. Rc2 Qb6 33. Qd6 Bf5 34. Rcc1 g6
+35. h3 Rb2 36. g4 Rd8 37. Qxd8+ Qxd8 38. c7 Qd2 39. b8=Q+ Kh7 40. Qxb2 1-0

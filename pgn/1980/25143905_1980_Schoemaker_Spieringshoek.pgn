@@ -1,0 +1,17 @@
+[Event "corr ch-NLD"]
+[Site "corr ch-NLD"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Schoemaker, E."]
+[Black "Spieringshoek, P."]
+[Result "0-1"]
+[ECO "A69"]
+[Opening "Benoni"]
+[Variation "four pawns attack, main line"]
+[HashCode "25143905"]
+[Epoch "Rook"]
+
+1. c4 Nf6 2. Nc3 g6 3. e4 d6 4. d4 Bg7 5. f4 O-O 6. Nf3 c5 7. d5 e6 8. Be2
+exd5 9. cxd5 Re8 10. e5 dxe5 11. fxe5 Ng4 12. Bg5 Qa5 13. O-O Nxe5 14. Nxe5
+Bxe5 15. Bc4 Qb4 16. Qf3 Bf5 17. g4 Qxb2 18. Ne2 Bd4+ 19. Nxd4 Qxd4+ 0-1
+

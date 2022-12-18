@@ -1,0 +1,16 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Stoddard"]
+[Black "Bielefeld"]
+[Result "0-1"]
+[ECO "B20"]
+[Opening "Sicilian"]
+[Variation "Steinitz variation"]
+[HashCode "e9820291"]
+[Epoch "Rook"]
+
+1. e4 c5 2. g3 d5 3. exd5 Qxd5 4. Nf3 Bg4 5. Bg2 Qe6+ 6. Qe2 Qxe2+ 7. Kxe2
+Nc6 8. d3 Nd4+ 0-1
+

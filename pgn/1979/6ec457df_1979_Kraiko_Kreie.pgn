@@ -1,0 +1,15 @@
+[Event "Biel"]
+[Site "Biel"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Kraiko"]
+[Black "Kreie"]
+[Result "1-0"]
+[ECO "C55"]
+[Opening "Two knights defence"]
+[HashCode "6ec457df"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 Nf6 5. O-O d5 6. exd5 Na5 7. Qe1+ Be7
+8. Qxa5 1-0
+

@@ -1,0 +1,17 @@
+[Event "corr Heilimo mem"]
+[Site "corr Heilimo mem"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Endzelins, Lucius"]
+[Black "Hultquist, Torsten"]
+[Result "1/2-1/2"]
+[ECO "A29"]
+[Opening "English"]
+[Variation "four knights, kingside fianchetto"]
+[HashCode "0b12b4d2"]
+[Epoch "Rook"]
+
+1. c4 Nf6 2. Nc3 e5 3. Nf3 Nc6 4. g3 Bb4 5. Bg2 O-O 6. O-O e4 7. Ne1 Bxc3
+8. dxc3 h6 9. Nc2 Re8 10. Ne3 d6 11. b3 b6 12. a4 Qe7 13. Nd5 Nxd5 14. cxd5
+Nb8 15. a5 Bf5 16. Be3 Nd7 17. c4 Bg6 18. Bd4 f5 19. Qd2 1/2-1/2
+

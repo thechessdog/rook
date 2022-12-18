@@ -1,0 +1,22 @@
+[Event "Reykjavik op"]
+[Site "Reykjavik op"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Bischoff, Klaus"]
+[Black "Petursson, M."]
+[Result "1/2-1/2"]
+[ECO "D34"]
+[Opening "QGD"]
+[Variation "Tarrasch, Prague variation, Normal position"]
+[HashCode "29d50445"]
+[Epoch "Rook"]
+[WhiteID "4600045"]
+[WhiteCountry "GER"]
+[BlackCountry "ISL"]
+
+1. c4 c5 2. Nc3 e6 3. Nf3 Nc6 4. g3 Nf6 5. Bg2 Be7 6. O-O O-O 7. d4 d5 8. cxd5
+exd5 9. b3 Re8 10. Bb2 Bg4 11. dxc5 Bxc5 12. Rc1 a6 13. Nxd5 Bxf2+ 14. Rxf2
+Nxd5 15. Ne5 Nxe5 16. Qxd5 Qg5 17. Rcf1 Rad8 18. Qxb7 f6 19. Bxe5 Qxe5 20. e4
+a5 21. Rc2 Rd7 22. Qb6 Bd1 23. Rcf2 Bg4 24. Rc2 Bd1 25. Rcf2 Bg4 26. Qe3 Red8
+27. Rc2 h5 28. Qc5 Qxc5+ 29. Rxc5 Rd2 30. Rd5 R8xd5 31. exd5 Rxa2 32. Rc1 Rd2
+33. Rc5 1/2-1/2

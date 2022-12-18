@@ -1,0 +1,15 @@
+[Event "Eindhoven"]
+[Site "Eindhoven"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Tjio"]
+[Black "Verheij, R."]
+[Result "0-1"]
+[ECO "A51"]
+[Opening "Budapest defence declined"]
+[HashCode "2ae2402c"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e5 3. Bg5 exd4 4. Qxd4 Nc6 5. Qd1 Bc5 6. Nf3 Ne4 7. Bh4
+Qxh4 0-1
+

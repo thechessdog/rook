@@ -1,0 +1,23 @@
+[Event "Mar del Plata"]
+[Site "Mar del Plata"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Emma, Jaime"]
+[Black "Schweber, Samuel"]
+[Result "1-0"]
+[ECO "E59"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line"]
+[HashCode "e1dc7eb4"]
+[Epoch "Rook"]
+[WhiteCountry "ARG"]
+[BlackCountry "ARG"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 d5 6. Nf3 O-O 7. O-O Nc6 8. a3
+dxc4 9. Bxc4 Bxc3 10. bxc3 Qc7 11. Bb5 b6 12. Re1 Bb7 13. e4 Nxe4 14. Rxe4 Nxd4
+15. Rh4 Bxf3 16. gxf3 Qd8 17. Rxd4 cxd4 18. cxd4 Qh4 19. f4 Rac8 20. Be3 Rfd8
+21. Be2 Rc3 22. a4 Qe7 23. Bf3 Ra3 24. Rxa3 Qxa3 25. Qc2 Qd6 26. Be4 f5 27. Bf3
+Qd7 28. Qb3 h6 29. h4 Kh7 30. Kf1 g6 31. Qb5 Qxb5+ 32. axb5 Kg7 33. Ke2 h5 34.
+Kd3 Kf7 35. Bc6 Rc8 36. Kc4 Ke7 37. Bc1 Kd6 38. Ba3+ Kc7 39. Be7 a6 40. Bf6
+axb5+ 41. Kxb5 Kd6 42. Be5+ Ke7 43. Kxb6 Rf8 44. Kc7 Kf7 45. Kd7 Re8 46. d5
+Re7+ 47. Kd8 1-0

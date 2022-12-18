@@ -1,0 +1,18 @@
+[Event "Poland"]
+[Site "Poland"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Wawrowski, Zbigniew"]
+[Black "Frackowiak"]
+[Result "1-0"]
+[ECO "B97"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7...Qb6"]
+[HashCode "a41a7e81"]
+[Epoch "Rook"]
+[WhiteID "1102524"]
+[WhiteCountry "POL"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qb6 8. Nb3
+Nc6 9. Qd2 Bd7 10. Be2 Qc7 11. O-O-O O-O-O 12. Kb1 Na5 13. Nxa5 Qxa5 14. e5
+dxe5 15. fxe5 Qxe5 16. Bf4 Qa5 17. Nb5 Qb6 18. Qa5 1-0

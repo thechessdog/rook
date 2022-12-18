@@ -1,0 +1,20 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Timoshchenko, Gennadi"]
+[Black "Shafianovsky"]
+[Result "1-0"]
+[ECO "B67"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...a6 defence, 8...Bd7"]
+[HashCode "fbd57b9e"]
+[Epoch "Rook"]
+[WhiteCountry "SVK"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd2 a6 8.
+O-O-O Bd7 9. f4 b5 10. Nxc6 Bxc6 11. Qe3 Be7 12. Bxf6 gxf6 13. Bd3 Qa5 14. Rhe1
+b4 15. Nd5 Bd8 16. Qd4 Rg8 17. Nxf6+ Bxf6 18. Qxf6 Qxa2 19. g3 Rd8 20. Kd2 e5
+21. fxe5 Qxb2 22. Rf1 Rd7 23. exd6 Qxf6 24. Rxf6 Rg6 25. Rxg6 hxg6 26. e5 a5
+27. Rf1 Rb7 28. Ba6 Ra7 29. Bc4 a4 30. Kd3 Rb7 31. Kd4 b3 32. cxb3 axb3 33. Rb1
+Ba4 34. Kc3 1-0

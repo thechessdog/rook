@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Haglund"]
+[Black "Korman"]
+[Result "0-1"]
+[ECO "C34"]
+[Opening "KGA"]
+[Variation "Becker defence"]
+[HashCode "fb79c3c2"]
+[Epoch "Rook"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 h6 4. d4 g5 5. Nc3 d6 6. g3 fxg3 7. h4 g4 8. Ng1
+Be7 9. Bg2 Bxh4 10. Bf4 Bg5 11. Bxg3 Ne7 12. Nge2 Ng6 13. e5 dxe5 14. dxe5
+Nd7 15. e6 fxe6 16. Rf1 Nde5 17. Ne4 h5 18. Qd4 Qxd4 19. Nxd4 Bh4 20. O-O-O
+Bxg3 21. Nxg3 c6 22. Be4 h4 23. Bxg6+ Nxg6 24. Rf6 hxg3 25. Rxg6 e5 26. Ne2
+Kf7 27. Rgd6 g2 28. Rd8 Be6 0-1
+

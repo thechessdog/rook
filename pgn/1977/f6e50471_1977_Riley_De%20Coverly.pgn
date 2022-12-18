@@ -1,0 +1,18 @@
+[Event "BE one day"]
+[Site "BE one day"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Riley, RA."]
+[Black "De Coverly, Roger D"]
+[Result "1-0"]
+[ECO "B97"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Poisoned pawn variation"]
+[HashCode "f6e50471"]
+[Epoch "Rook"]
+[BlackID "405213"]
+[BlackCountry "ENG"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qb6 8. Qd2
+Qxb2 9. Rb1 Qa3 10. Bd3 Nc6 11. Nxc6 bxc6 12. O-O Be7 13. Kh1 O-O 14. e5 dxe5
+15. fxe5 Nd5 16. Ne4 Qxa2 17. Bxe7 Nxe7 18. Nf6+ gxf6 19. exf6 Nf5 20. Bxf5 1-0

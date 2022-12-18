@@ -1,0 +1,21 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Winkler, E."]
+[Black "Papai, J."]
+[Result "0-1"]
+[ECO "C32"]
+[Opening "KGD"]
+[Variation "Falkbeer, Keres variation"]
+[HashCode "a68f8499"]
+[Epoch "Rook"]
+
+1. e4 e5 2. f4 d5 3. exd5 e4 4. d3 Nf6 5. Nd2 exd3 6. Bxd3 Nxd5 7. Qe2+ Qe7
+8. Ne4 Nb4 9. Be3 Nxd3+ 10. cxd3 Bf5 11. Nf3 Na6 12. O-O Bxe4 13. dxe4 Qxe4
+14. Ng5 Qe7 15. Rfe1 O-O-O 16. Qg4+ Qd7 17. Qf3 Bc5 18. Bxc5 Nxc5 19. Rad1
+Nd3 20. Re3 Ne5 21. Qh3 Qxh3 22. Rxd8+ Rxd8 23. gxh3 h6 24. Rxe5 hxg5 25.
+fxg5 Rd2 26. Re7 Rxb2 27. Rxf7 c5 28. h4 c4 29. Rf3 Rxa2 30. h5 Ra6 31.
+Rf8+ Kd7 32. Rf7+ Kc6 33. h6 gxh6 34. gxh6 Kd5 35. Rf5+ Ke4 36. Rc5 c3 37.
+h7 c2 0-1
+

@@ -1,0 +1,25 @@
+[Event "BL2-N 8081"]
+[Site "BL2-N 8081"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Hawranke, Dietrich"]
+[Black "Juergensen, Michael"]
+[Result "0-1"]
+[ECO "E12"]
+[Opening "Queen's Indian"]
+[Variation "4.Nc3"]
+[HashCode "83b7a625"]
+[Epoch "Rook"]
+[WhiteID "24613401"]
+[WhiteCountry "GER"]
+[BlackID "4606930"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 b6 4. Nc3 Bb7 5. e3 Be7 6. Bd3 O-O 7. O-O d5 8. Qe2
+Nbd7 9. Rd1 c5 10. b3 Ne4 11. Bb2 f5 12. Rac1 Bf6 13. cxd5 exd5 14. Ba6 Qc7 15.
+Bxb7 Qxb7 16. dxc5 Bxc3 17. Bxc3 bxc5 18. Ba1 Rac8 19. Qd3 Nb6 20. Ne5 Nd6 21.
+Rb1 f4 22. exf4 Rxf4 23. Qg3 Rcf8 24. f3 c4 25. bxc4 Ndxc4 26. Nxc4 Rxc4 27.
+Rxd5 Rc2 28. Rg5 Rf7 29. h4 Rxa2 30. Rd1 h6 31. Rg6 Rd7 32. Re1 Re7 33. Rc1 Qd7
+34. Rd6 Qf5 35. Bd4 Nd5 36. Rg6 Qd7 37. h5 Nc7 38. Rxg7+ Rxg7 39. Qxg7+ Qxg7
+40. Bxg7 Kxg7 41. Rxc7+ Kf6 42. Rc6+ Kg5 43. g4 Kf4 44. Rf6+ Kg3 45. Kf1 a5 46.
+Ke1 a4 47. Rxh6 Kxf3 48. g5 a3 49. Ra6 0-1

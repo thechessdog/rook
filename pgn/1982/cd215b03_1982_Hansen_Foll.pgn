@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Hansen, H."]
+[Black "Foll, T."]
+[Result "1-0"]
+[ECO "D85"]
+[Opening "Gruenfeld"]
+[Variation "modern exchange variation"]
+[HashCode "cd215b03"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. cxd5 Nxd5 6. e4 Nxc3 7. bxc3 O-O
+8. Be3 c5 9. Be2 Qa5 10. O-O Qxc3 11. Rc1 Qa3 12. Rxc5 Qxa2 13. Bc4 Qb2 14.
+Qd3 Qb6 15. Bxf7+ Kh8 16. Rb1 Na6 17. Rxc8 Qxb1+ 18. Qxb1 Raxc8 19. Be6 Rc7
+20. h4 Rf6 21. Ng5 h6 22. e5 Rf8 23. Qxg6 1-0
+

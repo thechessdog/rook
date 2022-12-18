@@ -1,0 +1,17 @@
+[Event "corr NLD/H"]
+[Site "corr NLD/H"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Welling, Gerard"]
+[Black "Kruithof, R."]
+[Result "1-0"]
+[ECO "A03"]
+[Opening "Bird's opening"]
+[HashCode "f5d74472"]
+[Epoch "Rook"]
+[WhiteID "1000446"]
+[WhiteCountry "NED"]
+
+1. f4 d5 2. Nf3 c5 3. e4 dxe4 4. Ng5 Nf6 5. Bc4 Bg4 6. Bxf7+ Kd7 7. Qxg4+ Nxg4
+8. Be6+ Ke8 9. Bf7+ Kd7 10. Be6+ Kc6 11. Bxg4 e5 12. Nf7 Qf6 13. Nxe5+ Kd6 14.
+Nc3 Qxf4 15. d4 1-0

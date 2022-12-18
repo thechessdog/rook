@@ -1,0 +1,18 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "James"]
+[Black "Fahnenschmidt, Gerhard"]
+[Result "0-1"]
+[ECO "E30"]
+[Opening "Nimzo-Indian"]
+[Variation "Leningrad variation"]
+[HashCode "186ec1d3"]
+[Epoch "Rook"]
+[BlackID "4600568"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Bg5 c5 5. d5 Bxc3+ 6. bxc3 d6 7. e3 O-O 8. Bd3
+e5 9. Ne2 Re8 10. f4 exf4 11. exf4 Qe7 12. O-O Qe3+ 13. Kh1 Bg4 14. Re1 Nbd7
+15. Bh4 Ne4 16. Qc2 Bf5 17. Bxe4 Bxe4 18. Qb3 Qh3 0-1

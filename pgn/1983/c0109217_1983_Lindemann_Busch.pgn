@@ -1,0 +1,18 @@
+[Event "Bremen"]
+[Site "Bremen"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Lindemann, T."]
+[Black "Busch, Klaus"]
+[Result "1/2-1/2"]
+[ECO "A45"]
+[Opening "Queen's pawn"]
+[Variation "Bronstein gambit"]
+[HashCode "c0109217"]
+[Epoch "Rook"]
+[BlackID "4600460"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. g4 Nxg4 3. e4 d6 4. Bc4 e5 5. h3 Qh4 6. Qe2 Nxf2 7. Qxf2 Qxe4+ 8.
+Kf1 d5 9. Nc3 Qxd4 10. Qxd4 exd4 11. Nxd5 Bd6 12. Nf3 c5 13. Rg1 Bxh3+ 14. Kf2
+g6 15. Nf6+ Ke7 16. Bg5 1/2-1/2

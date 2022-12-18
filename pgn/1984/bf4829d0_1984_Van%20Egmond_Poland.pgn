@@ -1,0 +1,20 @@
+[Event "Alkmaar open"]
+[Site "Alkmaar open"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Van Egmond, J."]
+[Black "Poland, J."]
+[Result "1-0"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...g6"]
+[HashCode "bf4829d0"]
+[Epoch "Rook"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 g6 6. Qb3 Bg7 7. Nf3 O-O 8. Be3
+Nbd7 9. Ne5 Nxe5 10. dxe5 Ng4 11. Nxd5 Bxe5 12. Bc5 Re8 13. Rd1 Bd6 14. Bxd6
+exd6+ 15. Be2 Qa5+ 16. Kf1 Qc5 17. Bxg4 Bxg4 18. Nf6+ Kf8 19. Nxg4 Re4 20. Nf6
+Re7 21. Qd3 Kg7 22. Nd5 Re5 23. b4 Qc8 24. Ne3 Re6 25. g3 Qc6 26. Nd5 Rae8 27.
+Qd4+ Kg8 28. b5 Qc5 29. Nf6+ Rxf6 30. Qxf6 Qxc4+ 31. Kg2 Qe4+ 32. Qf3 Qc2 33.
+Rhe1 Rf8 34. Qxb7 Qxa2 35. Ra1 Qd2 36. Re7 Qd4 37. Rxa7 d5 38. Qc7 g5 39. Qe5
+Qxe5 40. Rxe5 d4 1-0

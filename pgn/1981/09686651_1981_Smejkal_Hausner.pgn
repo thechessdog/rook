@@ -1,0 +1,24 @@
+[Event "CSSR"]
+[Site "CSSR"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Smejkal, Jan"]
+[Black "Hausner, Ivan"]
+[Result "0-1"]
+[ECO "E68"]
+[Opening "King's Indian"]
+[Variation "fianchetto, classical variation, 8.e4"]
+[HashCode "09686651"]
+[Epoch "Rook"]
+[WhiteID "300020"]
+[WhiteCountry "CZE"]
+[BlackID "300110"]
+[BlackCountry "CZE"]
+
+1. c4 d6 2. Nc3 Nf6 3. g3 g6 4. Bg2 Bg7 5. Nf3 O-O 6. d4 Nbd7 7. O-O e5 8. e4
+c6 9. b3 a5 10. h3 exd4 11. Nxd4 Re8 12. Re1 Nc5 13. Rb1 Nfd7 14. Be3 Ne5 15.
+Qc2 a4 16. Red1 axb3 17. axb3 Qe7 18. f4 Ned7 19. Bf2 Nf8 20. b4 Nce6 21. Na4
+Nxd4 22. Bxd4 Be6 23. Bxg7 Kxg7 24. b5 Qc7 25. bxc6 bxc6 26. c5 dxc5 27. Nxc5
+Kg8 28. Rb7 Qc8 29. Kh2 Ra2 30. Rb2 Rxb2 31. Qxb2 Rd8 32. Rc1 h5 33. Rc2 h4 34.
+g4 Qc7 35. e5 Bd5 36. Ne4 Bxe4 37. Bxe4 c5 38. Qc3 Ne6 39. f5 Rd4 40. Bg2 Qxe5+
+41. Kg1 gxf5 42. gxf5 Rd1+ 43. Bf1 Nd4 44. Rg2+ Kh8 45. Qa3 Ne2+ 0-1

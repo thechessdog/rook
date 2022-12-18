@@ -1,0 +1,19 @@
+[Event "Aarhus"]
+[Site "Aarhus"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Nielsen, Jens"]
+[Black "Jacobsen, Bo"]
+[Result "1/2-1/2"]
+[ECO "C50"]
+[Opening "King's pawn game"]
+[HashCode "40fa111b"]
+[Epoch "Rook"]
+[WhiteID "1409310"]
+[BlackID "1400738"]
+[WhiteCountry "DEN"]
+[BlackCountry "DEN"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 d6 4. c3 h6 5. d4 Qe7 6. O-O Nf6 7. Re1 g6 8. b4 a6
+9. a4 Bg7 10. Ba3 Nd7 11. b5 Nd8 12. Nbd2 O-O 13. bxa6 bxa6 14. Rb1 Re8 15. Bd5
+Ra7 16. Nc4 exd4 17. cxd4 Nf6 18. Ne3 1/2-1/2

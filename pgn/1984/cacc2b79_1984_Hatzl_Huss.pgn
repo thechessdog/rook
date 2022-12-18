@@ -1,0 +1,19 @@
+[Event "San Bernardino"]
+[Site "San Bernardino"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Hatzl"]
+[Black "Huss, Andreas"]
+[Result "0-1"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Milner-Barry gambit"]
+[HashCode "cacc2b79"]
+[Epoch "Rook"]
+[BlackID "1300180"]
+[BlackCountry "SUI"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. O-O
+Nxd4 9. Ng5 Nc6 10. Re1 Be7 11. Nc3 Bxg5 12. Bxg5 Nge7 13. Qh5 a6 14. Rac1 Rc8
+15. Na4 Qb4 16. Nc5 Nxe5 17. Nxe6 Rxc1 18. Nxg7+ Kf8 19. Rxc1 Nxd3 20. Qh6 Nxc1
+21. h3 Ne2+ 22. Kf1 Bb5 23. Bd2 Nf4+ 0-1

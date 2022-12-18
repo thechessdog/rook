@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Svensson, Gert"]
+[Black "Bjarnason"]
+[Result "1-0"]
+[ECO "B92"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Opovcensky variation"]
+[HashCode "70f77e08"]
+[Epoch "Rook"]
+[WhiteID "1701533"]
+[WhiteCountry "SWE"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 g6 7. Be3 Bg7 8. h4
+Qc7 9. h5 e5 10. Ndb5 axb5 11. Nxb5 Qa5+ 12. b4 Qxb4+ 13. c3 Qa5 14. Qxd6 Nbd7
+15. Rd1 Nxe4 16. Nc7+ Kd8 17. Ne6+ fxe6 18. Bb6+ 1-0

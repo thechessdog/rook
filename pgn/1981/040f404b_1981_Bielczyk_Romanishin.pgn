@@ -1,0 +1,20 @@
+[Event "Riga"]
+[Site "Riga"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Bielczyk, Jacek"]
+[Black "Romanishin, Oleg M"]
+[Result "1/2-1/2"]
+[ECO "B46"]
+[Opening "Sicilian"]
+[Variation "Taimanov variation"]
+[HashCode "040f404b"]
+[Epoch "Rook"]
+[BlackID "14100088"]
+[BlackCountry "UKR"]
+[WhiteID "1100530"]
+[WhiteCountry "POL"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e6 5. Nc3 a6 6. g3 Qc7 7. Bg2 Nf6 8. O-O
+h6 9. Nxc6 dxc6 10. Be3 e5 11. Na4 Be6 12. Bb6 Qc8 13. Nc5 Be7 14. Qd2 O-O 15.
+Rad1 Re8 16. Qc3 Bh3 17. a3 1/2-1/2

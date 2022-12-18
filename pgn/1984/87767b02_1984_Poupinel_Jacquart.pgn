@@ -1,0 +1,20 @@
+[Event "corr France"]
+[Site "corr France"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Poupinel"]
+[Black "Jacquart"]
+[Result "0-1"]
+[ECO "D88"]
+[Opening "Gruenfeld"]
+[Variation "Spassky variation, main line, 10...cd, 11.cd"]
+[HashCode "87767b02"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Bc4 c5
+8. Ne2 cxd4 9. cxd4 Nc6 10. Be3 O-O 11. O-O Bg4 12. f3 Na5 13. Rc1 Nxc4 14.
+Rxc4 Bd7 15. Qb3 a6 16. Nc3 b5 17. Rc5 Rc8 18. Rd1 Re8 19. d5 Qb6 20. Na4
+Qd6 21. Rxc8 Rxc8 22. Nc5 Rxc5 23. Bxc5 Qxc5+ 24. Kh1 b4 25. Qb1 a5 26. Rc1
+Bc3 27. Qc2 Bb5 28. Qb1 Be2 29. Qc2 Qe3 30. a3 Bd3 31. Qd1 b3 32. Rxc3 b2
+33. h3 a4 34. Kh2 b1=Q 0-1
+

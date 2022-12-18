@@ -1,0 +1,19 @@
+[Event "corr ch-CSSR"]
+[Site "corr ch-CSSR"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Jezek"]
+[Black "Paroulek"]
+[Result "1-0"]
+[ECO "C92"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Flohr-Zaitsev system (Lenzerheide variation)"]
+[HashCode "427d7df1"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8.
+c3 d6 9. h3 Bb7 10. d4 Re8 11. Nbd2 Bf8 12. Bc2 g6 13. d5 Ne7 14. b4 Nh5
+15. g3 Qd7 16. Kh2 Bc8 17. Ng1 Ng7 18. c4 c6 19. a4 Qa7 20. Qf3 Qd4 21. Rb1
+Qa7 22. Bb2 Rd8 23. Bb3 bxa4 24. Bxa4 cxd5 25. exd5 Bb7 26. Nb3 Rac8 27.
+Na5 Ba8 28. Qe2 Nef5 29. Nf3 1-0
+

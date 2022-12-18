@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Weber"]
+[Black "Brinkmann"]
+[Result "1/2-1/2"]
+[ECO "A45"]
+[Opening "Queen's pawn"]
+[Variation "Bronstein gambit"]
+[HashCode "7a73fde6"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. g4 Nxg4 3. e4 d6 4. Nc3 e5 5. Nf3 exd4 6. Qxd4 Nc6 7. Bb5 Bd7
+8. Bxc6 Bxc6 9. Rg1 Nf6 10. Bg5 Be7 11. Nd5 Bxd5 12. exd5 h6 13. Be3 Kf8
+14. O-O-O Ne8 15. Rde1 Bf6 16. Qf4 Qd7 17. Bd4 Qd8 1/2-1/2
+

@@ -1,0 +1,19 @@
+[Event "Buenos Aires ol (Men)"]
+[Site "Buenos Aires olm"]
+[Date "1978.10.01"]
+[Round "1"]
+[White "Cooper, John G"]
+[Black "Verduga, Denis Homero"]
+[Result "1-0"]
+[ECO "E30"]
+[Opening "Nimzo-Indian"]
+[Variation "Leningrad, ...b5 gambit"]
+[HashCode "301cb32e"]
+[Epoch "Rook"]
+[BlackCountry "ECU"]
+[WhiteID "1800027"]
+[WhiteCountry "WLS"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Bg5 h6 5. Bh4 c5 6. d5 b5 7. e3 Bb7 8. Qf3 g5
+9. Bg3 g4 10. Qf4 bxc4 11. e4 Rg8 12. Bxc4 Nxd5 13. exd5 exd5 14. O-O-O Bxc3
+15. bxc3 Qa5 16. Qf6 1-0

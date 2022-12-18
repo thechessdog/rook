@@ -1,0 +1,20 @@
+[Event "BL-S 7778"]
+[Site "BL-S 7778"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Fritz, R."]
+[Black "Feustel, Bernd"]
+[Result "0-1"]
+[ECO "A00"]
+[Opening "Benko's opening"]
+[HashCode "6d65c6d4"]
+[Epoch "Rook"]
+[BlackID "4601742"]
+[BlackCountry "GER"]
+
+1. g3 g6 2. Bg2 Bg7 3. d3 e5 4. Nf3 Ne7 5. O-O O-O 6. e4 d5 7. Nc3 d4 8. Ne2 h6
+9. Ne1 c5 10. f4 Nbc6 11. Nf3 f6 12. h3 Rb8 13. g4 b5 14. a4 a6 15. f5 g5 16.
+Ng3 Bd7 17. h4 Be8 18. hxg5 fxg5 19. Kf2 c4 20. Rh1 Nb4 21. Qg1 cxd3 22. Bxg5
+hxg5 23. Qh2 Rf6 24. Qh7+ Kf8 25. Nh5 Bxh5 26. Rxh5 Ng8 27. Nxe5 dxc2 28. Rxg5
+Rb7 29. axb5 d3 30. bxa6 Qd4+ 31. Kf3 d2 32. axb7 d1=Q+ 33. Kg3 Qxe5+ 34. Kh4
+Rh6+ 35. Qxh6 Nxh6 0-1

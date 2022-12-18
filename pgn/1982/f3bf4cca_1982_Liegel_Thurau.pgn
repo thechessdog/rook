@@ -1,0 +1,18 @@
+[Event "corr DDR/FS"]
+[Site "corr DDR/FS"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Liegel"]
+[Black "Thurau"]
+[Result "1/2-1/2"]
+[ECO "E21"]
+[Opening "Nimzo-Indian"]
+[Variation "three knights variation"]
+[HashCode "f3bf4cca"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Nf3 c5 5. a3 Bxc3+ 6. bxc3 Qa5 7. Bd2 Ne4
+8. Qc2 f5 9. e3 Qc7 10. Bd3 Nxd2 11. Qxd2 d5 12. cxd5 c4 13. Bc2 exd5 14.
+Ne5 O-O 15. f4 Nd7 16. O-O Nf6 17. Rf3 a6 18. a4 Bd7 19. a5 Rab8 20. Rff1
+b5 21. axb6 Rxb6 22. Rfb1 Rxb1+ 23. Rxb1 g6 1/2-1/2
+

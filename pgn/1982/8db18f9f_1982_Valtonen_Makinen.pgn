@@ -1,0 +1,21 @@
+[Event "corr Heilimo mem"]
+[Site "corr Heilimo mem"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Valtonen"]
+[Black "Makinen"]
+[Result "0-1"]
+[ECO "B96"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7.f4"]
+[HashCode "8db18f9f"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Nbd7 8.
+Qf3 h6 9. Bh4 e5 10. Nf5 exf4 11. Bxf6 Nxf6 12. O-O-O Bxf5 13. exf5 Be7 14.
+Kb1 O-O 15. Qxf4 Rc8 16. g4 Rxc3 17. bxc3 d5 18. Bg2 Qa5 19. Rd3 Ba3 20. c4
+Re8 21. Qd2 Qxd2 22. Rxd2 dxc4 23. c3 Nxg4 24. Bd5 Ne3 25. Re1 Re7 26. Bf3
+b6 27. f6 gxf6 28. Bc6 f5 29. Rg1+ Kh7 30. Rd8 Rc7 31. Ba4 Be7 32. Rb8 Nd5
+33. Rg3 Bh4 34. Rh3 Bg5 35. Bc2 Re7 36. Bxf5+ Kg7 37. a4 Re1+ 38. Kb2 Bc1+
+39. Ka2 Re2+ 40. Kb1 Be3 0-1
+

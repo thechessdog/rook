@@ -1,0 +1,15 @@
+[Event "Stuttgart"]
+[Site "Stuttgart"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "NN"]
+[Black "Braun, Michael"]
+[Result "0-1"]
+[ECO "B12"]
+[Opening "Caro-Kann defence"]
+[HashCode "81e28e20"]
+[Epoch "Rook"]
+
+1. e4 c6 2. d4 Na6 3. Bxa6 Qa5+ 4. Nc3 Qxa6 5. Qe2 b5 6. Nf3 d6 7. O-O b4
+0-1
+

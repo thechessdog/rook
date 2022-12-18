@@ -1,0 +1,20 @@
+[Event "HM"]
+[Site "HM"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Heidl"]
+[Black "Zimmermann"]
+[Result "0-1"]
+[ECO "B03"]
+[Opening "Alekhine's defence"]
+[Variation "four pawns attack, 7.Be3"]
+[HashCode "92eab499"]
+[Epoch "Rook"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. c4 Nb6 5. f4 dxe5 6. fxe5 Nc6 7. Be3 Bf5 8.
+Nc3 e6 9. Nf3 Nb4 10. Rc1 c5 11. Be2 Be7 12. O-O O-O 13. a3 cxd4 14. Nxd4
+Nc6 15. Nxc6 bxc6 16. Qe1 Bh4 17. g3 Bg5 18. Qf2 Nd7 19. Rcd1 Be7 20. Bxa7
+Qc7 21. Be3 Nxe5 22. Bf4 g5 23. Bc1 Ng4 24. Bxg4 Bxg4 25. Rd3 Bh3 26. Rfd1
+Rad8 27. b4 c5 28. b5 Rxd3 29. Rxd3 Rd8 30. Re3 Rd4 31. Qe2 Qd8 32. Nd5 Bf8
+33. Nc3 Bg7 34. Kf2 Bg4 35. Qc2 Rxc4 36. Ke1 Qa8 37. Bb2 Qh1+ 0-1
+

@@ -1,0 +1,21 @@
+[Event "DDR-POL-CSR U26"]
+[Site "Zinnowitz"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Panczyk, Krzysztof"]
+[Black "Tischbierek, Raj"]
+[Result "1-0"]
+[ECO "E41"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5"]
+[HashCode "a05f892c"]
+[Epoch "Rook"]
+[BlackID "4611322"]
+[BlackCountry "GER"]
+[WhiteID "1100211"]
+[WhiteCountry "POL"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 Nc6 6. Ne2 d5 7. O-O O-O 8. cxd5
+exd5 9. a3 cxd4 10. Nxd4 Bxc3 11. Nxc6 bxc6 12. bxc3 Qc7 13. Qa4 Ng4 14. Qf4
+Qxf4 15. exf4 a5 16. Rb1 Nf6 17. f3 Re8 18. Kf2 g6 19. Be3 Be6 20. g4 a4 21.
+Bd4 1-0

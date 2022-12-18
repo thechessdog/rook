@@ -1,0 +1,18 @@
+[Event "corr DDR/FS"]
+[Site "corr DDR/FS"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Thomas"]
+[Black "Roloff"]
+[Result "1-0"]
+[ECO "C52"]
+[Opening "Evans gambit"]
+[Variation "Waller attack"]
+[HashCode "418cf2e2"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 Bxb4 5. c3 Ba5 6. d4 exd4 7. O-O d6 8.
+Qb3 Qf6 9. e5 dxe5 10. Re1 Bb6 11. Bg5 Qf5 12. Nxe5 Nxe5 13. f4 dxc3+ 14.
+Kh1 Bd4 15. Nxc3 Nh6 16. Qa3 c5 17. Rxe5+ Bxe5 18. Qxc5 Ng8 19. Re1 f6 20.
+Rxe5+ fxe5 21. Bxg8 Qxg5 22. fxg5 Rxg8 23. g6 hxg6 24. Nd5 1-0
+

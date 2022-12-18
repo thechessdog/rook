@@ -1,0 +1,23 @@
+[Event "Berlin"]
+[Site "Berlin"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Petersen, Finn"]
+[Black "Pritchett, Craig W"]
+[Result "1/2-1/2"]
+[ECO "A30"]
+[Opening "English"]
+[Variation "symmetrical variation"]
+[HashCode "29eba14c"]
+[Epoch "Rook"]
+[BlackID "2400065"]
+[BlackCountry "SCO"]
+[WhiteID "1400754"]
+[WhiteCountry "DEN"]
+
+1. c4 c5 2. b3 Nf6 3. Bb2 e6 4. Nf3 Be7 5. e3 O-O 6. Be2 b6 7. O-O Bb7 8. Nc3
+d5 9. d4 Nc6 10. cxd5 exd5 11. Rc1 Rc8 12. Re1 Re8 13. Bf1 Bf8 14. Na4 Ne4 15.
+a3 Qd7 16. dxc5 bxc5 17. Nd2 Qf5 18. Nxe4 dxe4 19. Qc2 Ne5 20. Red1 h5 21. f4
+Nd3 22. Ra1 Red8 23. Bc3 Ba6 24. Nb2 Rd5 25. Nc4 Rcd8 26. Bxd3 exd3 27. Qf2
+Bxc4 28. bxc4 R5d7 29. Qf3 Re8 30. Bd2 g6 31. Rab1 Re4 32. Rb8 Rde7 33. Rdb1
+Re8 34. R1b7 1/2-1/2

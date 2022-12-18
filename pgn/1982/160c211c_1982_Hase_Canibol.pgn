@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Hase, W."]
+[Black "Canibol, H."]
+[Result "0-1"]
+[ECO "D97"]
+[Opening "Gruenfeld"]
+[Variation "Russian variation with e4"]
+[HashCode "160c211c"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Qb3 dxc4 6. Qxc4 O-O 7. e4 Nfd7
+8. Be3 c5 9. dxc5 Na6 10. Be2 Ndxc5 11. Bxc5 Be6 12. Qb5 Bd7 13. Qc4 Rc8
+14. Bxe7 Qxe7 15. Nd5 Qd6 16. Qb3 Nc5 17. Qa3 Rfe8 18. Ne3 Rxe4 19. Rd1 Qe7
+20. Qxa7 Ra4 21. Qb6 Rc6 22. Nd5 Qe8 23. Qb5 Re6 24. Qxc5 Rxe2+ 25. Kf1 Bb5
+26. Kg1 Bd4 0-1
+

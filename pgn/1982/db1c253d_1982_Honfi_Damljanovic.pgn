@@ -1,0 +1,19 @@
+[Event "Reti mem"]
+[Site "Trnava"]
+[Date "1982.01.01"]
+[Round "9"]
+[White "Honfi, Karoly"]
+[Black "Damljanovic, Branko"]
+[Result "1/2-1/2"]
+[ECO "B93"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.f4"]
+[HashCode "db1c253d"]
+[Epoch "Rook"]
+[BlackID "900125"]
+[BlackCountry "SRB"]
+[WhiteCountry "HUN"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 e5 7. Nf3 Nbd7 8. Bc4
+Be7 9. O-O O-O 10. a4 exf4 11. Bxf4 Qb6+ 12. Kh1 Qxb2 13. Nd5 Nxd5 14. Bxd5 Nf6
+15. Rb1 Qc3 16. Bxb7 Rb8 17. Bxc8 Rxb1 18. Qxb1 Qxc8 19. e5 1/2-1/2

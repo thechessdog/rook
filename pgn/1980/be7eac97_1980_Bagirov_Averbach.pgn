@@ -1,0 +1,20 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Bagirov, Vladimir"]
+[Black "Averbakh, Yuri L"]
+[Result "1/2-1/2"]
+[ECO "E47"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 O-O, 5.Bd3"]
+[HashCode "be7eac97"]
+[Epoch "Rook"]
+[BlackID "4101529"]
+[WhiteCountry "RUS"]
+[BlackCountry "RUS"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 c5 6. d5 b5 7. dxe6 bxc4 8.
+exf7+ Kh8 9. Bxc4 d5 10. Bd3 Nc6 11. Ne2 d4 12. exd4 cxd4 13. Bb5 Qb6 14. Bxc6
+dxc3 15. bxc3 Bxc3+ 16. Nxc3 Qxc6 17. Ne2 Qxg2 18. Rg1 Qe4 19. Qd4 Rxf7 20.
+Qxe4 Nxe4 21. Be3 Ba6 22. Rc1 Re8 23. Nf4 h6 24. h4 g5 25. hxg5 1/2-1/2

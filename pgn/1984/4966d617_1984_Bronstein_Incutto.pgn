@@ -1,0 +1,23 @@
+[Event "Buenos Aires"]
+[Site "Buenos Aires"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Bronstein, Luis Marcos"]
+[Black "Incutto, Carlos"]
+[Result "1-0"]
+[ECO "C80"]
+[Opening "Ruy Lopez"]
+[Variation "open, 8...Be6"]
+[HashCode "4966d617"]
+[Epoch "Rook"]
+[WhiteID "100463"]
+[WhiteCountry "ARG"]
+[BlackCountry "ARG"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Be6 9. a4 Rb8 10. axb5 axb5 11. c3 Be7 12. Nbd2 Nc5 13. Nd4 Qd7 14. Bc2 Nxd4
+15. cxd4 Nb7 16. Nb3 O-O 17. Be3 Rfc8 18. Qb1 g6 19. f4 Bf5 20. Bxf5 Qxf5 21.
+Qxf5 gxf5 22. Rfc1 Bb4 23. Kf2 Nd8 24. Kf3 h5 25. g3 Ne6 26. h3 Kh7 27. g4
+hxg4+ 28. hxg4 Kg6 29. Ra6 Rh8 30. Kg3 Ra8 31. Rxa8 Rxa8 32. Rh1 Ng7 33. Kf3
+Ra2 34. Bc1 Ra6 35. Rg1 Ne6 36. Rh1 Rc6 37. gxf5+ Kxf5 38. Rh5+ Kg6 39. Kg4 Nd8
+40. f5+ Kg7 41. Bg5 1-0

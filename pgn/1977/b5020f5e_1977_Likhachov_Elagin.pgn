@@ -1,0 +1,15 @@
+[Event "Barnaul"]
+[Site "Barnaul"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Likhachov"]
+[Black "Elagin"]
+[Result "0-1"]
+[ECO "A42"]
+[Opening "Modern defence"]
+[Variation "Averbakh system, Kotov variation"]
+[HashCode "b5020f5e"]
+[Epoch "Rook"]
+
+1. d4 g6 2. c4 d6 3. Nc3 Bg7 4. e4 Nc6 5. Nge2 e5 6. d5 Nd4 7. g3 Nf3# 0-1
+

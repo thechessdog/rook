@@ -1,0 +1,16 @@
+[Event "FRG Hochschul-ch"]
+[Site "FRG Tch"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Schulz, Klaus-Juergen"]
+[Black "Cattelains"]
+[Result "1-0"]
+[ECO "B96"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7.f4"]
+[HashCode "ba4933d5"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 h6 8. Bh4
+Be7 9. Qf3 Nbd7 10. O-O-O Qc7 11. Be2 Rb8 12. Qg3 Rg8 13. Rhf1 b5 14. e5 dxe5
+15. Nxe6 fxe6 16. Qg6+ Kf8 17. f5 exf5 18. Bh5 Nxh5 19. Bxe7+ 1-0

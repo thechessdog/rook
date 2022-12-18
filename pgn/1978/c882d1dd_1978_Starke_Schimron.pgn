@@ -1,0 +1,23 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Starke"]
+[Black "Schimron"]
+[Result "0-1"]
+[ECO "E30"]
+[Opening "Nimzo-Indian"]
+[Variation "Leningrad variation"]
+[HashCode "c882d1dd"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Bg5 d5 5. e3 c5 6. Nf3 h6 7. Bxf6 Qxf6 8.
+Bd3 Nc6 9. O-O Bxc3 10. bxc3 O-O 11. Qb3 dxc4 12. Bxc4 Na5 13. Qb5 Nxc4 14.
+Qxc4 cxd4 15. cxd4 b6 16. Qc6 Ba6 17. Rfc1 Qe7 18. Qc7 Qxc7 19. Rxc7 Rfc8
+20. Rac1 Rxc7 21. Rxc7 Rc8 22. Rxc8+ Bxc8 23. Ne5 Bb7 24. f3 f6 25. Nd3 Bd5
+26. a3 a5 27. Kf2 Kf7 28. e4 Bc6 29. Ke3 Ke7 30. Kd2 g5 31. g4 f5 32. Ne5
+Bb7 33. exf5 exf5 34. Nc4 Bxf3 35. gxf5 b5 36. Nxa5 Bd5 37. Kc3 h5 38. Kb4
+Kd6 39. f6 h4 40. f7 Bxf7 41. Nb7+ Kd5 42. Kc3 g4 43. Nc5 Bg6 44. Nd7 g3
+45. hxg3 hxg3 46. Ne5 Ke4 47. Nd3 g2 48. Nf2+ Kf3 49. Nh3 Bf5 50. Ng1+ Kf2
+0-1
+

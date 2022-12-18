@@ -1,0 +1,22 @@
+[Event "corr DDR-FSM"]
+[Site "corr DDR-FSM"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Potthammel, J."]
+[Black "Ruppe, O."]
+[Result "1-0"]
+[ECO "B43"]
+[Opening "Sicilian"]
+[Variation "Kan, 5.Nc3"]
+[HashCode "266a4ff7"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 Qc7 6. Be2 Nf6 7. a3 b5 8.
+O-O Bb7 9. Bf3 d6 10. Re1 Nbd7 11. Bg5 Be7 12. Bxf6 Nxf6 13. e5 dxe5 14.
+Bxb7 Qxb7 15. Qf3 Qxf3 16. Nxf3 Nd7 17. Nxe5 Nxe5 18. Rxe5 O-O-O 19. Re2
+Rd7 20. Nd1 Rhd8 21. Ne3 Bc5 22. Kf1 Kb7 23. Ke1 Bxe3 24. Rxe3 Rd2 25. Re2
+R2d4 26. c3 Rd3 27. Rc2 R3d5 28. Rac1 Re5+ 29. Re2 Red5 30. Rec2 Re5+ 31.
+Kf1 Rc5 32. Ke1 Re5+ 33. Re2 Red5 34. Re4 Rd2 35. Rb4 R2d5 36. c4 Re5+ 37.
+Kf1 Rc5 38. a4 Rdc8 39. axb5 axb5 40. b3 Kb6 41. Ra1 R8c7 42. Ra8 Kb7 43.
+Ra5 1-0
+

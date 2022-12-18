@@ -1,0 +1,18 @@
+[Event "Tirnavia-A"]
+[Site "Trnava"]
+[Date "1979.??.??"]
+[Round "2"]
+[White "Pribyl, Josef"]
+[Black "Lengyel, Levente"]
+[Result "1/2-1/2"]
+[ECO "D00"]
+[Opening "Levitsky attack (Queen's bishop attack)"]
+[HashCode "e88007d2"]
+[Epoch "Rook"]
+[WhiteID "300187"]
+[WhiteCountry "CZE"]
+[BlackCountry "HUN"]
+
+1. d4 d5 2. Bg5 h6 3. Bh4 c6 4. e3 Qb6 5. b3 Bf5 6. Nf3 e6 7. Bd3 Bxd3 8. Qxd3
+Nd7 9. Nbd2 Ngf6 10. O-O Bd6 11. e4 dxe4 12. Nxe4 Nxe4 13. Qxe4 O-O 14. c4 Qa5
+15. Rfe1 Rae8 16. Qd3 1/2-1/2

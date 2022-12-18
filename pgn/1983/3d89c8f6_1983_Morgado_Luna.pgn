@@ -1,0 +1,19 @@
+[Event "corr ch7-ARG"]
+[Site "corr ch7-ARG"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Morgado, Juan Sebastian"]
+[Black "Luna, Julio"]
+[Result "1-0"]
+[ECO "C85"]
+[Opening "Ruy Lopez"]
+[Variation "Exchange variation doubly deferred (DERLD)"]
+[HashCode "3d89c8f6"]
+[Epoch "Rook"]
+[BlackID "3302180"]
+[BlackCountry "BOL"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Bxc6 dxc6 7. d3 Nd7 8.
+Nbd2 O-O 9. Nc4 f6 10. Ne3 Rf7 11. Nh4 c5 12. Nef5 Nf8 13. f4 Ng6 14. Nxg6 hxg6
+15. Nh4 Kh7 16. f5 Bxf5 17. exf5 Qd4+ 18. Kh1 Qxh4 19. Rf3 Kg8 20. fxg6 Rff8
+21. Rh3 Qd4 22. Rh8+ Kxh8 23. Qh5+ 1-0

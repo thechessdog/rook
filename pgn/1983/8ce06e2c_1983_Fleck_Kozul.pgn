@@ -1,0 +1,21 @@
+[Event "Chesme"]
+[Site "Chesme"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Fleck, Juergen"]
+[Black "Kozul, Zdenko"]
+[Result "1-0"]
+[ECO "B77"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, 9.Bc4"]
+[HashCode "8ce06e2c"]
+[Epoch "Rook"]
+[WhiteID "4600614"]
+[BlackID "14502879"]
+[WhiteCountry "GER"]
+[BlackCountry "CRO"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be3 g6 7. f3 Bg7 8. Qd2
+O-O 9. Bc4 Nd7 10. h4 Nb6 11. Bb3 Na5 12. Qd3 Bd7 13. h5 Rc8 14. hxg6 hxg6 15.
+O-O-O Nbc4 16. Bh6 e5 17. Bxg7 Kxg7 18. Nde2 Qg5+ 19. Kb1 b5 20. g3 b4 21. Nd5
+Bb5 22. f4 Qd8 23. Qf3 Bc6 24. f5 f6 25. fxg6 Bxd5 26. Rh7+ Kg8 27. Qh5 1-0

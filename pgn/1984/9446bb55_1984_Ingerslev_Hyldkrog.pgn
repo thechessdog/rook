@@ -1,0 +1,20 @@
+[Event "corr ch-DEN"]
+[Site "corr ch-DEN"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Ingerslev"]
+[Black "Hyldkrog"]
+[Result "1/2-1/2"]
+[ECO "E32"]
+[Opening "Nimzo-Indian"]
+[Variation "classical variation"]
+[HashCode "9446bb55"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 O-O 5. a3 Bxc3+ 6. Qxc3 b6 7. Nf3 Bb7
+8. b3 d6 9. g3 Nbd7 10. Bg2 c5 11. O-O Qe7 12. Bb2 Rac8 13. Rac1 Rfd8 14.
+b4 cxd4 15. Qxd4 e5 16. Qe3 Rc7 17. Nd4 Ng4 18. Nf5 Nxe3 19. Nxe7+ Kf8 20.
+Nd5 Nxd5 21. cxd5 Rdc8 22. Rxc7 Rxc7 23. Rc1 Rxc1+ 24. Bxc1 f5 25. Bh3 g6
+26. e4 Nf6 27. exf5 Bc8 28. Bg5 Kg7 29. f4 Bxf5 30. Bxf5 gxf5 31. Bxf6+
+Kxf6 32. Kf2 1/2-1/2
+

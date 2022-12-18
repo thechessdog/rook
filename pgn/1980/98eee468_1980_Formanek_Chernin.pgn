@@ -1,0 +1,21 @@
+[Event "Amsterdam"]
+[Site "Amsterdam"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Formanek, Edward"]
+[Black "Chernin, Alexander"]
+[Result "0-1"]
+[ECO "B07"]
+[Opening "Pirc"]
+[Variation "150 attack"]
+[HashCode "98eee468"]
+[Epoch "Rook"]
+[WhiteID "2001640"]
+[WhiteCountry "USA"]
+[BlackID "715620"]
+[BlackCountry "HUN"]
+
+1. d4 d6 2. e4 Nf6 3. Nc3 g6 4. Be3 c6 5. Qd2 b5 6. Bd3 Nbd7 7. Nf3 Qc7 8. Bh6
+b4 9. Nd1 Bxh6 10. Qxh6 c5 11. c3 Bb7 12. d5 Ng4 13. Qg7 O-O-O 14. Qxf7 Ndf6
+15. h3 Rdf8 16. Qg7 Nh5 17. Qxh8 Rxh8 18. hxg4 Nf4 19. Bf1 e6 20. g3 Nxd5 21.
+exd5 Bxd5 22. Bg2 Qb7 0-1

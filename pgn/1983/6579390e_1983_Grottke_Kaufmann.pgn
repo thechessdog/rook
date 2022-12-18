@@ -1,0 +1,22 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Grottke"]
+[Black "Kaufmann"]
+[Result "1-0"]
+[ECO "C85"]
+[Opening "Ruy Lopez"]
+[Variation "Exchange variation doubly deferred (DERLD)"]
+[HashCode "6579390e"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Bxc6 dxc6 7. Nc3 Bg4
+8. h3 Bh5 9. g4 Bg6 10. Qe2 Nd7 11. d4 f6 12. Be3 O-O 13. Rad1 Bd6 14. Nh4
+Bf7 15. d5 c5 16. Nf5 b5 17. a4 b4 18. Nb1 a5 19. Nd2 Nb6 20. b3 Nc8 21.
+Nc4 Ne7 22. f4 Ng6 23. fxe5 Nxe5 24. Nxe5 fxe5 25. Rf3 Bg6 26. Qf2 Bxf5 27.
+gxf5 Qe7 28. Kh2 Kh8 29. Rf1 Rg8 30. f6 gxf6 31. Rxf6 Rad8 32. Rf7 Rdf8 33.
+Rxf8 Rxf8 34. Qxf8+ Qxf8 35. Rxf8+ Bxf8 36. Bg5 Kg7 37. Bd8 Bd6 38. Kg3 h5
+39. Kf3 Kf7 40. Ke2 Ke8 41. Bh4 c4 42. bxc4 Kd7 43. Bf2 c5 44. Bh4 Ke8 45.
+Kf3 Kf7 46. Bd8 Ke8 47. Bxa5 Kd7 48. Kg3 Be7 49. Bb6 Kc8 50. d6 1-0
+

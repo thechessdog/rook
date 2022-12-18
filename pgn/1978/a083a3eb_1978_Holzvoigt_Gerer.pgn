@@ -1,0 +1,18 @@
+[Event "corr BRD"]
+[Site "corr BRD"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Holzvoigt, G."]
+[Black "Gerer, J."]
+[Result "0-1"]
+[ECO "C34"]
+[Opening "KGA"]
+[Variation "Fischer defence"]
+[HashCode "a083a3eb"]
+[Epoch "Rook"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 d6 4. Bc4 h6 5. d4 g5 6. O-O Bg7 7. c3 Nc6 8. g3
+Nf6 9. gxf4 g4 10. e5 gxf3 11. exf6 Qxf6 12. Qxf3 Bf5 13. Nd2 O-O-O 14. Bd5
+h5 15. Kh1 Rde8 16. b4 Bg4 17. Qg2 Re2 18. Qg3 Nxd4 19. Qd3 Qh4 20. Bg2 Nf5
+21. Nb3 Rhe8 0-1
+

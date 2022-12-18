@@ -1,0 +1,17 @@
+[Event "corr DDR-M"]
+[Site "corr DDR-M"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Tolksdorf, H."]
+[Black "Grille, W."]
+[Result "0-1"]
+[ECO "C21"]
+[Opening "Danish gambit"]
+[HashCode "c658c008"]
+[Epoch "Rook"]
+
+1. e4 e5 2. d4 exd4 3. c3 dxc3 4. Bc4 cxb2 5. Bxb2 d6 6. Nf3 Nc6 7. O-O Be6
+8. Bd5 Nf6 9. Qb3 Qc8 10. Ng5 Bxd5 11. exd5 Ne5 12. Re1 Be7 13. Bxe5 dxe5
+14. Rxe5 Qd7 15. d6 Qxd6 16. Nxf7 Qd4 17. Qe6 O-O 18. Ng5+ Kh8 19. Nc3 Qxc3
+20. Rae1 Bc5 21. Qf5 g6 0-1
+

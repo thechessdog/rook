@@ -1,0 +1,23 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Hodgson, Julian M"]
+[Black "Salov, Valery"]
+[Result "0-1"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Grand Prix attack"]
+[HashCode "5872b6a5"]
+[Epoch "Rook"]
+[WhiteID "400076"]
+[WhiteCountry "ENG"]
+[BlackID "4100069"]
+[BlackCountry "RUS"]
+
+1. e4 c5 2. f4 d5 3. exd5 Nf6 4. c4 e6 5. dxe6 Bxe6 6. Nf3 Nc6 7. d4 Nxd4 8.
+Nxd4 Qxd4 9. Qxd4 cxd4 10. Bd3 Nd7 11. f5 Nc5 12. fxe6 Nxd3+ 13. Ke2 Ne5 14.
+exf7+ Kxf7 15. b3 Re8 16. Kd1 Kg6 17. Bf4 Ng4 18. Rf1 Bc5 19. h3 Ne3+ 20. Bxe3
+dxe3 21. Nc3 Bb4 22. Kc2 e2 23. Rfe1 Re3 24. Nxe2 Kh6 25. Rad1 Bxe1 26. Rxe1 g5
+27. Kd2 Rhe8 28. Kd1 Rd8+ 29. Kc2 Kg7 30. Kc1 Rde8 31. Kd2 a5 32. Kd1 h5 33. g3
+Kh6 34. Kd2 R8e4 35. Kd1 Rd3+ 36. Kc2 Rxg3 0-1

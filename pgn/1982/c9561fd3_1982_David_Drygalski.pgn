@@ -1,0 +1,18 @@
+[Event "corr EU"]
+[Site "corr EU"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "David, Alberto"]
+[Black "Drygalski"]
+[Result "0-1"]
+[ECO "C44"]
+[Opening "Scotch gambit"]
+[Variation "Dubois-Reti defence"]
+[HashCode "c9561fd3"]
+[Epoch "Rook"]
+[WhiteID "4000013"]
+[WhiteCountry "ITA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d4 exd4 5. e5 Ng4 6. Bxf7+ Kxf7 7. Ng5+ Kg8
+8. Qxg4 h6 9. Nf3 d6 10. Qe4 dxe5 11. Nxe5 Qe8 12. Bf4 Bd6 13. O-O Nxe5 14. Re1
+Bf5 0-1

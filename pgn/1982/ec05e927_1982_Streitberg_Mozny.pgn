@@ -1,0 +1,20 @@
+[Event "Bohemians"]
+[Site "Prague"]
+[Date "1982.??.??"]
+[Round "7"]
+[White "Streitberg, Petr"]
+[Black "Mozny, Milos"]
+[Result "1-0"]
+[ECO "E06"]
+[Opening "Catalan"]
+[Variation "closed, 5.Nf3"]
+[HashCode "ec05e927"]
+[Epoch "Rook"]
+[WhiteID "301396"]
+[BlackID "300454"]
+[WhiteCountry "CZE"]
+[BlackCountry "CZE"]
+
+1. d4 d5 2. c4 e6 3. g3 Nf6 4. Bg2 Be7 5. Nf3 O-O 6. O-O b6 7. cxd5 exd5 8. Nc3
+Bb7 9. Bf4 c5 10. dxc5 bxc5 11. Ne5 Na6 12. Nc4 Qd7 13. Na5 Rad8 14. Nxb7 Qxb7
+15. Qa4 Qxb2 16. Be5 d4 17. Qxa6 Qxc3 18. Rfc1 Qd2 19. Bf4 1-0

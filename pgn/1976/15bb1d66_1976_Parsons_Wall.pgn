@@ -1,0 +1,16 @@
+[Event "North Wilkesboro,NC"]
+[Site "North Wilkesboro,NC"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Parsons, Joshua"]
+[Black "Wall, Bill"]
+[Result "0-1"]
+[ECO "C56"]
+[Opening "Two knights defence"]
+[HashCode "15bb1d66"]
+[Epoch "Rook"]
+[BlackCountry "USA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d4 exd4 5. O-O Nxe4 6. Re1 d5 7. Bxd5 Qxd5 8.
+Nc3 Qa5 9. Rxe4+ Be7 10. Nxd4 Nxd4 11. Qxd4 Be6 12. Qxg7 O-O-O 13. Rxe6 fxe6
+14. Qxe7 Rd1+ 15. Nxd1 Qe1# 0-1

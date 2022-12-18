@@ -1,0 +1,17 @@
+[Event "Burevestnik"]
+[Site "Burevestnik"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Loboda"]
+[Black "Velibekov"]
+[Result "1-0"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack, Richter variation"]
+[HashCode "26685448"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 Bf5 4. f3 c6 5. Qd2 Nbd7 6. O-O-O Bg6 7. e4 dxe4
+8. d5 Qc7 9. Bf4 Qb6 10. Bc4 Rd8 11. Na4 e3 12. Qc3 e2 13. Nxe2 Qf2 14. Bg3
+Qxg2 15. Nf4 Qxc2+ 16. Qxc2 Bxc2 17. Kxc2 Ne5 18. Bb3 g5 19. Nh5 Nxh5 20.
+Bxe5 f6 21. Bc3 1-0
+

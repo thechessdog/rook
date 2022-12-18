@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Picardi"]
+[Black "Perduca"]
+[Result "1-0"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra gambit"]
+[HashCode "7f917637"]
+[Epoch "Rook"]
+
+1. e4 c5 2. d4 cxd4 3. c3 dxc3 4. Nxc3 Nc6 5. Nf3 e6 6. Bc4 d6 7. O-O Nf6
+8. Qe2 Be7 9. Rd1 e5 10. Be3 O-O 11. Rac1 Ng4 12. Bc5 a6 13. h3 b6 14. Ba3
+Nf6 15. Nd5 Bb7 16. Nxe7+ Nxe7 17. Rxd6 Qb8 18. Rxf6 gxf6 19. Bxe7 Re8 20.
+Bxf6 Qd6 21. Nxe5 Qxf6 22. Qg4+ 1-0
+

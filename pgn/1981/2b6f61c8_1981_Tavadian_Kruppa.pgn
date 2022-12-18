@@ -1,0 +1,20 @@
+[Event "USSR Dynamo"]
+[Site "USSR Dynamo"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Tavadian"]
+[Black "Kruppa"]
+[Result "1-0"]
+[ECO "C63"]
+[Opening "Ruy Lopez"]
+[Variation "Schliemann defence, Berger variation"]
+[HashCode "2b6f61c8"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 f5 4. Nc3 Nd4 5. Bc4 d6 6. O-O Nf6 7. Re1 Nxf3+
+8. Qxf3 f4 9. d4 c6 10. a4 a5 11. b3 Qb6 12. dxe5 dxe5 13. Bxf4 exf4 14. e5
+Ng4 15. Ne4 Bf5 16. Qxf4 Bxe4 17. Qf7+ Kd8 18. Rxe4 Nxf2 19. Re2 Nd1+ 20.
+Kh1 Qd4 21. Qxb7 Bc5 22. Qxa8+ Kc7 23. Qxa5+ Bb6 24. Rxd1 Qxd1+ 25. Qe1 Qd4
+26. e6 Re8 27. Rd2 Qc5 28. Rd7+ Kb8 29. Rf7 Bc7 30. g3 h5 31. Qe4 g5 32.
+Rf5 Qd6 33. Qd3 Qb4 34. c3 Qa3 35. Qd7 Rd8 36. Qxc6 Qc1+ 37. Bf1 1-0
+

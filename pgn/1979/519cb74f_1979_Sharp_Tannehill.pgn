@@ -1,0 +1,18 @@
+[Event "Columbus,OH"]
+[Site "Columbus,OH"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Sharp, D."]
+[Black "Tannehill, John"]
+[Result "0-1"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, poisoned pawn variation"]
+[HashCode "519cb74f"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Qg4 O-O 8.
+Bd3 c4 9. Be2 Qa5 10. Bd2 f6 11. Nf3 Nbc6 12. Qh5 Bd7 13. exf6 Rxf6 14. Ng5
+h6 15. h4 Raf8 16. Bg4 Be8 17. Bxe6+ Rxe6+ 18. Nxe6 Bxh5 19. Nxf8 Kxf8 20.
+f3 Bg6 0-1
+

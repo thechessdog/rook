@@ -1,0 +1,16 @@
+[Event "Dayton,OH"]
+[Site "Dayton,OH"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Hatherill, Chuck"]
+[Black "Wall, Bill"]
+[Result "0-1"]
+[ECO "B02"]
+[Opening "Alekhine's defence"]
+[Variation "Maroczy variation"]
+[HashCode "4a06ae00"]
+[Epoch "Rook"]
+[BlackCountry "USA"]
+
+1. e4 Nf6 2. d3 d5 3. Nc3 d4 4. e5 dxc3 5. exf6 cxb2 6. Bxb2 exf6 7. c4 Bb4+ 8.
+Ke2 Qe7+ 9. Kf3 O-O 10. a3 Bd6 11. d4 f5 12. c5 Qe4# 0-1

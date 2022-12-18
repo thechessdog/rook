@@ -1,0 +1,20 @@
+[Event "corr SWE/K"]
+[Site "corr SWE/K"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Gil, Antonio"]
+[Black "Akesson, Ralf"]
+[Result "1-0"]
+[ECO "A58"]
+[Opening "Benko gambit"]
+[Variation "fianchetto variation"]
+[HashCode "3a9127b8"]
+[Epoch "Rook"]
+[BlackID "1700120"]
+[BlackCountry "SWE"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. Nc3 d6 6. Nf3 g6 7. bxa6 Bxa6 8. g3
+Bg7 9. Bg2 O-O 10. O-O Nbd7 11. Nd2 Qa5 12. Qc2 Rfb8 13. b3 Ne8 14. Bb2 c4 15.
+Rfc1 Nc5 16. Nce4 Nxe4 17. Bxe4 Bxb2 18. Qxb2 cxb3 19. axb3 Qb4 20. Bf3 Bb5 21.
+Rxa8 Rxa8 22. Kg2 Nf6 23. Rc7 Nd7 24. Qc2 Rb8 25. h4 Qd4 26. Ne4 Qe5 27. Rc8+
+Rxc8 28. Qxc8+ Nf8 29. Nc3 Bd7 30. Qc4 Qf5 31. b4 1-0

@@ -1,0 +1,20 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Klewe"]
+[Black "Rheinheimer, H."]
+[Result "1-0"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack"]
+[HashCode "6569147e"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 c5 4. Bxf6 gxf6 5. e4 dxe4 6. dxc5 Qa5 7. Qh5
+Bg7 8. Bc4 O-O 9. O-O-O f5 10. Nge2 Qxc5 11. Bb3 Nd7 12. g4 Nf6 13. Qg5 h6
+14. Qh4 fxg4 15. h3 Qg5+ 16. Qxg5 hxg5 17. Rdg1 Bf5 18. Nd1 Rfd8 19. Ne3
+Bg6 20. Nxg4 Nd5 21. h4 gxh4 22. Rxh4 e6 23. Ne3 Nxe3 24. fxe3 Rd6 25. Nf4
+Kf8 26. Nxg6+ fxg6 27. Rxe4 e5 28. Rh4 Rad8 29. Rh7 Rf6 30. e4 Rdd6 31. a4
+Rf2 32. Bd5 b6 33. b4 g5 34. c4 Rh6 35. Rxh6 Bxh6 36. c5 Ke7 37. c6 Kd6 38.
+b5 Kc7 39. Be6 Rf6 40. Bf5 Rf8 41. Kc2 1-0
+

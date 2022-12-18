@@ -1,0 +1,20 @@
+[Event "corr ch-CSSR"]
+[Site "corr ch-CSSR"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Badura"]
+[Black "Smajstrla"]
+[Result "0-1"]
+[ECO "C69"]
+[Opening "Ruy Lopez"]
+[Variation "exchange, Gligoric variation"]
+[HashCode "07677a66"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O f6 6. d4 exd4 7. e5 Bg4
+8. Qd3 Bxf3 9. Qxf3 Qd5 10. Qxd5 cxd5 11. exf6 Nxf6 12. Re1+ Kf7 13. Bd2
+Re8 14. Rxe8 Kxe8 15. Bf4 Kd7 16. Nd2 Bd6 17. Bxd6 Kxd6 18. Nf3 c5 19. b4
+b6 20. Kf1 Re8 21. Rd1 Ne4 22. Rd3 Nc3 23. bxc5+ bxc5 24. Nd2 Nxa2 25. Ra3
+Nb4 26. Nf3 Kc6 27. g4 Kb5 28. Rb3 a5 29. Ne1 a4 30. Rb1 a3 31. Nd3 a2 32.
+Ra1 Nxd3 33. cxd3 0-1
+

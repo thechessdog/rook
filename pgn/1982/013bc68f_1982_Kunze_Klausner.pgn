@@ -1,0 +1,23 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Kunze"]
+[Black "Klausner"]
+[Result "0-1"]
+[ECO "A88"]
+[Opening "Dutch"]
+[Variation "Leningrad, main variation with c6"]
+[HashCode "013bc68f"]
+[Epoch "Rook"]
+
+1. d4 f5 2. g3 Nf6 3. Bg2 g6 4. Nf3 Bg7 5. O-O O-O 6. c4 d6 7. Nc3 c6 8. d5
+e5 9. dxe6 Bxe6 10. Qd3 Na6 11. Ng5 Qe7 12. Bf4 Rad8 13. Rad1 Ng4 14. Nxe6
+Qxe6 15. e4 Ne5 16. Bxe5 Qxe5 17. exf5 Nc5 18. Qd2 Qxf5 19. f4 Rfe8 20. b3
+Qf6 21. Nb1 Ne6 22. Rfe1 Nd4 23. Na3 Qf5 24. Kh1 Qh5 25. Nb1 Nf5 26. Qd3
+Ne3 27. Rd2 Ng4 28. Rxe8+ Rxe8 29. Be4 Qh3 30. Rg2 Kh8 31. Nd2 d5 32. cxd5
+cxd5 33. Qxd5 Ne3 34. Qd3 Nxg2 35. Bxg2 Qc8 36. h4 Rd8 37. Qc4 Qxc4 38.
+Nxc4 b5 39. Ne5 Bxe5 40. fxe5 Re8 41. a4 Rxe5 42. Kh2 b4 43. Bf3 Re3 44.
+Bd5 Rd3 45. Bc4 Rc3 46. Bd5 Kg7 47. Kg2 Kf6 48. Kf2 h6 49. Bg8 Ke5 50. Bf7
+g5 0-1
+

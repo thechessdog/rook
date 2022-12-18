@@ -1,0 +1,21 @@
+[Event "Leeuwarden ch-NED"]
+[Site "Leeuwarden ch-NED"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Sosonko, Gennadi"]
+[Black "Bohm, Hans"]
+[Result "1-0"]
+[ECO "A40"]
+[Opening "Queen's pawn"]
+[HashCode "3d8f64e0"]
+[Epoch "Rook"]
+[WhiteID "1000039"]
+[WhiteCountry "NED"]
+[BlackID "1000306"]
+[BlackCountry "NED"]
+
+1. d4 e6 2. Nf3 b6 3. e4 Ba6 4. Bxa6 Nxa6 5. O-O g6 6. Qe2 Nb8 7. d5 Bg7 8. Bg5
+Ne7 9. Nc3 h6 10. Bh4 g5 11. Bg3 O-O 12. Rad1 Ng6 13. e5 Ne7 14. h4 g4 15. Nd4
+exd5 16. Qxg4 Nbc6 17. Nxd5 Nxd4 18. Nf6+ Kh8 19. Rxd4 d6 20. Nh5 Rg8 21. exd6
+Nf5 22. Nxg7 Nxd4 23. Qxd4 c5 24. Qc3 Rxg7 25. Be5 Qf8 26. Rd1 Kg8 27. Bxg7
+Qxg7 28. d7 Rd8 29. Qxg7+ Kxg7 30. Kh2 Kf6 31. Kg3 Kf5 32. Rd5+ 1-0

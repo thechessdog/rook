@@ -1,0 +1,20 @@
+[Event "corr DFSM"]
+[Site "corr DFSM"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Loh"]
+[Black "Gobel"]
+[Result "1/2-1/2"]
+[ECO "B69"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...a6 defence, 11.Bxf6"]
+[HashCode "5491bc99"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd2 a6 8.
+O-O-O Bd7 9. f4 Be7 10. Nf3 b5 11. Bxf6 gxf6 12. f5 Rc8 13. Kb1 Qa5 14. Bd3
+Nb4 15. Nd4 Nxd3 16. Qxd3 b4 17. fxe6 fxe6 18. Nce2 Qc5 19. Rhf1 Qc4 20.
+Qd2 a5 21. b3 Qc5 22. Nf4 Kf7 23. Nf3 Ke8 24. Rfe1 Rc7 25. Re3 Kf7 26. Nd3
+Qb6 27. Qe2 e5 28. Nfxe5+ dxe5 29. Nxe5+ Ke8 30. Nc4 Rxc4 31. bxc4 h5 32.
+h3 Bc6 33. g4 hxg4 34. hxg4 Rh2 35. Qxh2 Qxe3 36. Qh5+ 1/2-1/2
+

@@ -1,0 +1,19 @@
+[Event "corr ch9-CSSR"]
+[Site "corr ch9-CSSR"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Lacha"]
+[Black "Jerman, R."]
+[Result "1-0"]
+[ECO "A67"]
+[Opening "Benoni"]
+[Variation "Taimanov variation"]
+[HashCode "7c6aa703"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. f4 Bg7 8.
+Bb5+ Nfd7 9. a4 O-O 10. Nf3 Na6 11. O-O Nc7 12. Bd3 Rb8 13. Qe1 b6 14. e5
+Re8 15. Qg3 Ba6 16. Bb5 dxe5 17. fxe5 Bxb5 18. axb5 Nxe5 19. Rxa7 Nxd5 20.
+Bh6 Bh8 21. Nxe5 Bxe5 22. Rfxf7 Nxc3 23. Qxe5 Qd1+ 24. Kf2 Qc2+ 25. Kg3
+Qd3+ 26. Kh4 Qc4+ 27. Qf4 Re4 28. Rg7+ Kh8 29. Rxh7+ Kg8 30. Rag7# 1-0
+

@@ -1,0 +1,23 @@
+[Event "Bundesliga 8081"]
+[Site "Germany"]
+[Date "1981.??.??"]
+[Round "?"]
+[White "Rosin, Wolfgang"]
+[Black "Jahr, Ulrich"]
+[Result "0-1"]
+[ECO "A83"]
+[Opening "Dutch"]
+[Variation "Staunton gambit, Staunton's line"]
+[HashCode "c5a0cbbf"]
+[Epoch "Rook"]
+[WhiteID "4607473"]
+[BlackID "4605977"]
+[WhiteCountry "GER"]
+[BlackCountry "GER"]
+
+1. d4 f5 2. e4 fxe4 3. Nc3 Nf6 4. Bg5 Nc6 5. d5 Ne5 6. Qd4 Nf7 7. h4 g6 8. Bxf6
+exf6 9. Nxe4 Bg7 10. Qb4 f5 11. Ng3 a5 12. Qa3 d6 13. Bb5+ c6 14. dxc6 O-O 15.
+N1e2 bxc6 16. Bxc6 Rb8 17. c3 Qb6 18. Qa4 Ba6 19. O-O f4 20. Nxf4 Bxf1 21. Rxf1
+Be5 22. Nd5 Qxb2 23. Ne4 Nh6 24. Qc4 Kh8 25. f4 Bg7 26. Nxd6 Nf5 27. Nxf5 Rxf5
+28. g4 Rff8 29. f5 gxf5 30. gxf5 Rg8 31. Kh1 Be5 32. Nf4 Rg4 33. Bg2 Rxh4+ 34.
+Kg1 Qb6+ 35. Rf2 Rxf4 36. Qe6 0-1

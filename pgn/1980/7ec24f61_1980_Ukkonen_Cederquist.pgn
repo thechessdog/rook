@@ -1,0 +1,20 @@
+[Event "corr SWE/K tt"]
+[Site "corr SWE/K tt"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Ukkonen, Tapio"]
+[Black "Cederquist, Bengt"]
+[Result "1-0"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "classical attack, Chigorin variation"]
+[HashCode "7ec24f61"]
+[Epoch "Rook"]
+[WhiteID "1712098"]
+[WhiteCountry "SWE"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Be7 7. O-O Nc6 8.
+Re1 Bg4 9. c4 Nf6 10. Nc3 O-O 11. cxd5 Nxd5 12. h3 Be6 13. Ne4 h6 14. Ng3 Qd7
+15. a3 Bf6 16. Bc2 Nce7 17. Qd3 Ng6 18. Ne4 Rfe8 19. Nc5 Qc8 20. Bd2 b6 21.
+Nxe6 Rxe6 22. Rxe6 Qxe6 23. Re1 Qd7 24. Ne5 Bxe5 25. dxe5 Nf8 26. Qg3 Kh8 27.
+f4 Ne7 28. Bc3 Ng8 29. f5 Re8 30. e6 fxe6 31. Ba4 1-0

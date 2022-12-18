@@ -1,0 +1,16 @@
+[Event "New York"]
+[Site "New York"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Kastner, J."]
+[Black "Paolozzi, Marcos"]
+[Result "1/2-1/2"]
+[ECO "B91"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Zagreb (fianchetto) variation"]
+[HashCode "43f0c642"]
+[Epoch "Rook"]
+[BlackCountry "BRA"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. g3 e5 7. Nb3 Be7 8. Bg2
+O-O 1/2-1/2

@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Lentzsch"]
+[Black "Freidank"]
+[Result "0-1"]
+[ECO "A02"]
+[Opening "Bird"]
+[Variation "From gambit, Lasker variation"]
+[HashCode "b48661f0"]
+[Epoch "Rook"]
+
+1. f4 e5 2. fxe5 d6 3. exd6 Bxd6 4. Nf3 g5 5. d4 g4 6. Ne5 Bxe5 7. dxe5
+Qxd1+ 8. Kxd1 Nc6 9. Bf4 Nge7 10. Nc3 Ng6 11. e3 Bd7 12. e6 fxe6 13. Bxc7
+e5 14. Bd3 Nge7 15. e4 Be6 16. Kd2 Kd7 17. Bxe5 Nxe5 18. Rad1 Rad8 19. Kc1
+Kc8 20. Rhf1 Rhf8 21. b3 Nxd3+ 22. cxd3 Rxf1 23. Rxf1 Rxd3 0-1
+

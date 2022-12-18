@@ -1,0 +1,20 @@
+[Event "IBM"]
+[Site "Amsterdam"]
+[Date "1980.06.01"]
+[Round "1"]
+[White "Sosonko, Gennadi"]
+[Black "Van der Wiel, John T.H."]
+[Result "1/2-1/2"]
+[ECO "E15"]
+[Opening "Queen's Indian"]
+[Variation "Nimzovich variation (exaggerated fianchetto)"]
+[HashCode "90a6f4f9"]
+[Epoch "Rook"]
+[WhiteID "1000039"]
+[WhiteCountry "NED"]
+[BlackID "1000020"]
+[BlackCountry "NED"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. Nbd2 Bb7 6. Bg2 c5 7. O-O cxd4 8.
+Nxd4 Bxg2 9. Kxg2 Be7 10. e4 Nc6 11. Nxc6 dxc6 12. Qf3 Qc7 13. Nb3 Nd7 14. Bf4
+e5 15. Be3 O-O 16. Rfd1 1/2-1/2

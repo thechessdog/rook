@@ -1,0 +1,25 @@
+[Event "Gladsaxe"]
+[Site "Gladsaxe"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Cramling, Pia"]
+[Black "Mortensen, Erling"]
+[Result "1-0"]
+[ECO "B82"]
+[Opening "Sicilian"]
+[Variation "Scheveningen, 6.f4"]
+[HashCode "3c9314e9"]
+[Epoch "Rook"]
+[WhiteID "1700030"]
+[WhiteCountry "SWE"]
+[BlackID "1400045"]
+[BlackCountry "DEN"]
+
+1. e4 c5 2. Nf3 e6 3. Nc3 d6 4. d4 cxd4 5. Nxd4 Nf6 6. f4 a6 7. Be2 Be7 8. O-O
+Qc7 9. Bf3 O-O 10. Kh1 Nc6 11. Nxc6 bxc6 12. Na4 Bb7 13. c4 c5 14. Nc3 Nd7 15.
+Be3 Bf6 16. Rc1 Rad8 17. Qd2 g6 18. Rfd1 Nb8 19. Qf2 Bg7 20. Rd2 Nc6 21. Ne2 f5
+22. exf5 gxf5 23. Rcd1 Rf7 24. Ng3 Nd4 25. Bxb7 Qxb7 26. Nh5 Bh8 27. Qg3+ Kf8
+28. Qg5 Ke8 29. Bxd4 Bxd4 30. Qg8+ Ke7 31. Qg5+ Kd7 32. Rd3 Qa8 33. Rg3 Bxb2
+34. Re1 Bd4 35. Qh6 Re8 36. Rb3 Rfe7 37. Reb1 Rg8 38. Ng3 Kc7 39. Qh5 Rg6 40.
+Qe2 Re8 41. Qe1 Rd8 42. Qa5+ Kd7 43. Rb7+ Ke8 44. Nxf5 exf5 45. Qe1+ Be5 46.
+fxe5 Kf8 47. Qh4 Rg7 48. Qf6+ Kg8 49. Qxg7# 1-0

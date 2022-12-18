@@ -1,0 +1,19 @@
+[Event "corr Wcup3"]
+[Site "corr Wcup3"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Idema"]
+[Black "Lepape"]
+[Result "1-0"]
+[ECO "A67"]
+[Opening "Benoni"]
+[Variation "Taimanov variation"]
+[HashCode "f64eaeee"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. f4 Bg7 8.
+Bb5+ Nfd7 9. a4 O-O 10. Nf3 Na6 11. O-O Nb4 12. Be3 Nf6 13. h3 b6 14. Qd2
+Rb8 15. Bc4 Bb7 16. Rad1 Nd7 17. Bf2 a6 18. Bg3 f6 19. e5 b5 20. axb5 Nb6
+21. b3 Nxc4 22. bxc4 axb5 23. Nxb5 dxe5 24. fxe5 fxe5 25. Nxe5 Rxf1+ 26.
+Rxf1 Bxd5 27. cxd5 Rxb5 28. d6 Rb7 29. Qd1 c4 30. Qg4 1-0
+

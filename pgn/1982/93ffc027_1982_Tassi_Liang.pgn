@@ -1,0 +1,23 @@
+[Event "Lugano op"]
+[Site "Lugano op"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Tassi, Oliviero"]
+[Black "Liang, Jinrong"]
+[Result "0-1"]
+[ECO "B87"]
+[Opening "Sicilian"]
+[Variation "Sozin with ...a6 and ...b5"]
+[HashCode "93ffc027"]
+[Epoch "Rook"]
+[WhiteID "800384"]
+[WhiteCountry "ITA"]
+[BlackID "8600066"]
+[BlackCountry "CHN"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 b5 8. O-O
+Be7 9. Qf3 Qb6 10. Be3 Qb7 11. a3 O-O 12. Rfe1 Nbd7 13. Qg3 Kh8 14. f3 Ne5 15.
+Kh1 Bd7 16. Bg5 Rac8 17. f4 Nc6 18. Nf3 Na5 19. e5 dxe5 20. fxe5 Ng8 21. Bxe7
+Nxe7 22. Ne4 Nf5 23. Qf4 Nxb3 24. cxb3 Bc6 25. Nc5 Qa8 26. b4 Rfd8 27. Rad1 h6
+28. Kg1 a5 29. Rxd8+ Rxd8 30. bxa5 Qxa5 31. Ne4 Nd4 32. Kf2 Qa7 33. Kg3 Nf5+
+34. Kh3 Rd3 35. Rc1 Qa8 36. Nc5 g5 37. Qb4 Bxf3 0-1

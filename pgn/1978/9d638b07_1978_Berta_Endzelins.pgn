@@ -1,0 +1,16 @@
+[Event "corr Vidmar mem"]
+[Site "corr Vidmar mem"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Berta"]
+[Black "Endzelins"]
+[Result "1/2-1/2"]
+[ECO "C15"]
+[Opening "French"]
+[Variation "Winawer (Nimzovich) variation"]
+[HashCode "9d638b07"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. exd5 exd5 5. Bd3 Nc6 6. Ne2 Nge7 7. O-O Bf5
+8. Ng3 Bg6 9. a3 Bd6 10. Nb5 O-O 11. Nxd6 Qxd6 12. c3 1/2-1/2
+

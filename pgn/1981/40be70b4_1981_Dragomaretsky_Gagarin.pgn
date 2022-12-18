@@ -1,0 +1,26 @@
+[Event "Kuibyshev"]
+[Site "Kuibyshev"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Dragomarezkij, Evgeni"]
+[Black "Gagarin, Vasilij"]
+[Result "1-0"]
+[ECO "E81"]
+[Opening "King's Indian"]
+[Variation "Saemisch, 5...O-O"]
+[HashCode "40be70b4"]
+[Epoch "Rook"]
+[WhiteID "4101944"]
+[BlackID "4103610"]
+[WhiteCountry "RUS"]
+[BlackCountry "RUS"]
+
+1. c4 Nf6 2. Nc3 g6 3. e4 d6 4. d4 Bg7 5. f3 O-O 6. Be3 c5 7. dxc5 dxc5 8. Qxd8
+Rxd8 9. Bxc5 Nc6 10. Nd5 Nd7 11. Nxe7+ Nxe7 12. Bxe7 Bxb2 13. Rb1 Bc3+ 14. Kf2
+Bd4+ 15. Kg3 Re8 16. Bg5 b6 17. Ne2 Bg7 18. Rd1 Ne5 19. Nd4 Ba6 20. Nb5 Rec8
+21. Rc1 h6 22. Be3 Bxb5 23. cxb5 Rxc1 24. Bxc1 Rc8 25. Be2 Rc2 26. Re1 Rxa2 27.
+f4 Nd7 28. Bc4 Rc2 29. Bd5 Nc5 30. Be3 Rc3 31. e5 g5 32. fxg5 hxg5 33. Kg4 Nd3
+34. Bd4 Rc2 35. Re3 Nf4 36. Bf3 Nxg2 37. Rc3 Rd2 38. Rc8+ Bf8 39. Bc3 Ne3+ 40.
+Kxg5 Rc2 41. h4 Nf1 42. Bd5 Ne3 43. Bb3 Rf2 44. h5 Rf5+ 45. Kh4 Ng2+ 46. Kg3
+Rg5+ 47. Kh3 Ne3 48. e6 Rxh5+ 49. Kg3 fxe6 50. Bxe6+ Kh7 51. Rxf8 Rxb5 52. Bf7
+Nf5+ 53. Kf4 Ng7 54. Bg8+ 1-0

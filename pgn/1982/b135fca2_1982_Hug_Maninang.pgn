@@ -1,0 +1,19 @@
+[Event "Luzern ol (Men)"]
+[Site "Luzern olm"]
+[Date "1982.10.01"]
+[Round "11"]
+[White "Hug, Werner"]
+[Black "Maninang, Rafaelito"]
+[Result "0-1"]
+[ECO "B25"]
+[Opening "Sicilian"]
+[Variation "closed"]
+[HashCode "b135fca2"]
+[Epoch "Rook"]
+[WhiteID "1300040"]
+[WhiteCountry "SUI"]
+[BlackID "5200245"]
+[BlackCountry "PHI"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. Nge2 e6 7. O-O Nge7 8. Bg5
+h6 9. Be3 O-O 10. d4 d5 11. exd5 exd5 12. h3 0-1

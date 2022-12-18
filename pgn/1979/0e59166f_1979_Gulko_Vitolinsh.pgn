@@ -1,0 +1,20 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Gulko, Boris"]
+[Black "Vitolinsh, Alvis"]
+[Result "1-0"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Wade variation"]
+[HashCode "0e59166f"]
+[Epoch "Rook"]
+[WhiteID "2000040"]
+[WhiteCountry "USA"]
+[BlackCountry "LVA"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Bd7 5. Nf3 Qb6 6. Bd3 Bb5 7. dxc5 Bxc5 8. O-O
+a5 9. Bxb5+ Qxb5 10. Na3 Bxa3 11. bxa3 Ne7 12. a4 Qc4 13. Rb1 Nbc6 14. Rxb7 O-O
+15. Ba3 Rfe8 16. Qb3 Ng6 17. Qxc4 dxc4 18. Re1 Rab8 19. Rb5 Nce7 20. Re4 Rbc8
+21. Nd2 Rcd8 22. Bd6 Nxe5 23. Bxe5 Rxd2 24. g3 f6 25. Bf4 e5 1-0

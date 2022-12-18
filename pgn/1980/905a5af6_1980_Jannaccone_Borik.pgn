@@ -1,0 +1,21 @@
+[Event "Berlin"]
+[Site "Berlin"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Jannaccone"]
+[Black "Borik, Otto"]
+[Result "0-1"]
+[ECO "B51"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky (Nimzovich-Rossolimo, Moscow) attack"]
+[HashCode "905a5af6"]
+[Epoch "Rook"]
+[BlackID "4600762"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Nc6 4. O-O Bd7 5. c3 a6 6. Bxc6 Bxc6 7. Re1 e5 8. d4
+Qc7 9. Nbd2 b5 10. Nf1 Nf6 11. Ng3 g6 12. b3 Bg7 13. dxc5 dxc5 14. Bb2 Nd7 15.
+Qc2 O-O 16. c4 b4 17. Nd2 Bh6 18. Ndf1 Rfe8 19. Bc1 Bf4 20. Ne3 Bxe3 21. Bxe3
+Bb7 22. Bh6 Nb8 23. Nf1 Nc6 24. Ne3 Nd4 25. Qd2 f5 26. exf5 gxf5 27. Ng4 Kh8
+28. Bg5 Re6 29. Nxe5 Rg8 30. f3 Qg7 31. Bf4 Rxe5 32. Bxe5 Nxf3+ 33. Kh1 Nxe5
+0-1

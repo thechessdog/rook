@@ -1,0 +1,19 @@
+[Event "Biel"]
+[Site "Biel"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Ammann, Philippe"]
+[Black "Nikolaiczuk, Lothar"]
+[Result "1-0"]
+[ECO "B23"]
+[Opening "Sicilian"]
+[Variation "Grand Prix attack"]
+[HashCode "cfc077d5"]
+[Epoch "Rook"]
+[BlackID "4604490"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nc3 Nc6 3. f4 g6 4. Nf3 Bg7 5. Bc4 e6 6. e5 d6 7. exd6 Qxd6 8. Ne4
+Qe7 9. O-O Nh6 10. Ne5 Nxe5 11. fxe5 Bxe5 12. d4 Bxd4+ 13. Kh1 Nf5 14. c3 Be5
+15. Bb5+ Kf8 16. g4 Nd6 17. Bh6+ Kg8 18. Nxd6 Bxd6 19. Qf3 Be5 20. Rad1 f6 21.
+Rde1 1-0

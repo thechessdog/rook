@@ -1,0 +1,16 @@
+[Event "Dayton,OH"]
+[Site "Dayton,OH"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Thall, Andrew S"]
+[Black "Palmer, Mark"]
+[Result "1-0"]
+[ECO "C30"]
+[Opening "KGD"]
+[Variation "classical, 4.c3"]
+[HashCode "5cc4095a"]
+[Epoch "Rook"]
+
+1. e4 e5 2. f4 Bc5 3. Nf3 d6 4. c3 Qe7 5. f5 Nf6 6. Qc2 Nc6 7. a4 a5 8. Bb5 Bd7
+9. d3 h6 10. Bd2 d5 11. Bxc6 Bxc6 12. d4 exd4 13. cxd4 dxe4 14. Ne5 Bb6 15.
+Nxc6 bxc6 16. Qxc6+ 1-0

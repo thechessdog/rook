@@ -1,0 +1,20 @@
+[Event "simul"]
+[Site "simul"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Stean, Michael F"]
+[Black "Meloche, Jacques"]
+[Result "1/2-1/2"]
+[ECO "C05"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation"]
+[HashCode "aa72b0a5"]
+[Epoch "Rook"]
+[WhiteID "400130"]
+[WhiteCountry "ENG"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. f4 c5 6. Ndf3 Nc6 7. c3 Qb6 8. g3
+cxd4 9. cxd4 Bb4+ 10. Kf2 f6 11. Kg2 O-O 12. Bd3 g6 13. Ne2 fxe5 14. fxe5 Rxf3
+15. Kxf3 Nxd4+ 16. Kg2 Nxe5 17. Be3 Bc5 18. Rc1 Nxd3 19. Qxd3 Nxe2 20. Rxc5 d4
+21. Bxd4 Nxd4 22. Qxd4 Bd7 23. Rf1 Bc6+ 24. Kg1 Rd8 25. Qf2 Qc7 26. Qf6 Qd6 27.
+Rcc1 Qd5 1/2-1/2

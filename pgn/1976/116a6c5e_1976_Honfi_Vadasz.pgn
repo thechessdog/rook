@@ -1,0 +1,17 @@
+[Event "TUN"]
+[Site "Budapest"]
+[Date "1976.08.01"]
+[Round "1"]
+[White "Honfi, Karoly"]
+[Black "Vadasz, Laszlo"]
+[Result "0-1"]
+[ECO "B06"]
+[Opening "Robatsch (modern) defence"]
+[HashCode "116a6c5e"]
+[Epoch "Rook"]
+[WhiteCountry "HUN"]
+[BlackCountry "HUN"]
+
+1. e4 g6 2. h4 d5 3. h5 dxe4 4. hxg6 fxg6 5. Nc3 Nf6 6. Nh3 Nc6 7. Ng5 Bf5 8.
+Bb5 Bg7 9. Rh4 h6 10. Ngxe4 Nxe4 11. Nxe4 Qd5 12. Bxc6+ Qxc6 13. d3 O-O-O 14.
+Qe2 g5 15. Rh1 Bxe4 16. Qxe4 Qxc2 0-1

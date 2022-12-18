@@ -1,0 +1,20 @@
+[Event "Bundesliga 8081"]
+[Site "Duitsland tt"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Teschner, Rudolf"]
+[Black "Schuh, Hubert"]
+[Result "1/2-1/2"]
+[ECO "A58"]
+[Opening "Benko gambit accepted"]
+[HashCode "de221fb6"]
+[Epoch "Rook"]
+[BlackID "4600894"]
+[BlackCountry "GER"]
+[WhiteCountry "SRB"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. bxa6 Bxa6 6. Nc3 d6 7. g3 g6 8. Bg2
+Bg7 9. Nf3 O-O 10. O-O Nbd7 11. Re1 Ng4 12. Qc2 Qc7 13. h3 Nge5 14. Nxe5 Nxe5
+15. Rb1 Rfb8 16. b3 c4 17. b4 Nd3 18. exd3 cxd3 19. Qd1 Bxc3 20. Bd2 Bf6 21. a4
+Qc4 22. Rc1 Qa2 23. b5 Bb7 24. Bc3 Bxd5 25. Qxd3 Bxg2 26. Kxg2 Qxa4 27. Bxf6
+exf6 28. Qxd6 Qxb5 1/2-1/2

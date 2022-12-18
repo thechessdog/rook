@@ -1,0 +1,17 @@
+[Event "Breslavia"]
+[Site "Breslavia"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Swierczewski"]
+[Black "Evangelisti"]
+[Result "0-1"]
+[ECO "C48"]
+[Opening "Four knights"]
+[Variation "Rubinstein counter-gambit"]
+[HashCode "9a914f61"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. Nc3 Nd4 5. Bc4 Bc5 6. O-O O-O 7. d3 d5 8.
+Nxd5 Bg4 9. Bg5 b5 10. Bb3 a5 11. c3 Nxf3+ 12. gxf3 Bh3 13. Re1 Ra6 14. Qe2
+Nxd5 0-1
+

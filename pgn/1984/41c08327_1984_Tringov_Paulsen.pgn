@@ -1,0 +1,22 @@
+[Event "Hamburg op"]
+[Site "Hamburg"]
+[Date "1984.01.01"]
+[Round "8"]
+[White "Tringov, Georgi P"]
+[Black "Paulsen, Dirk"]
+[Result "1-0"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical, h3 system"]
+[HashCode "41c08327"]
+[Epoch "Rook"]
+[BlackID "4601343"]
+[WhiteCountry "BGR"]
+[BlackCountry "GER"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Nf3 Bg7 5. h3 O-O 6. Be3 a6 7. Bd3 b5 8. Ne2
+Bb7 9. Ng3 Nbd7 10. O-O e5 11. c3 Re8 12. d5 c6 13. c4 bxc4 14. dxc6 Bxc6 15.
+Bxc4 Qb8 16. Re1 Rd8 17. Rc1 Bb5 18. Bxf7+ Kxf7 19. Qb3+ d5 20. exd5 Qd6 21.
+Ng5+ Kg8 22. a4 Qxd5 23. Qxd5+ Nxd5 24. axb5 axb5 25. Ne6 Rdc8 26. Rcd1 N7f6
+27. Bg5 Rc2 28. Nxg7 Kxg7 29. Rxe5 Rxb2 30. Rexd5 Nxd5 31. Rxd5 Ra1+ 32. Kh2
+Rxf2 33. Be3 1-0

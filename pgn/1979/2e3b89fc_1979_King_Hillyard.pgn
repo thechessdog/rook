@@ -1,0 +1,22 @@
+[Event "Lloyds Bank op"]
+[Site "Londen open"]
+[Date "1979.08.01"]
+[Round "7"]
+[White "King, Daniel J"]
+[Black "Hillyard, Graham D"]
+[Result "1-0"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...g6"]
+[HashCode "2e3b89fc"]
+[Epoch "Rook"]
+[WhiteID "400068"]
+[WhiteCountry "ENG"]
+[BlackID "401234"]
+[BlackCountry "ENG"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 g6 6. Qb3 Bg7 7. cxd5 O-O 8.
+Be2 Nbd7 9. Bf3 Nb6 10. Bg5 a5 11. a4 Qd6 12. Nge2 Rd8 13. Bxf6 Bxf6 14. Ne4
+Qb4+ 15. Qxb4 axb4 16. Nxf6+ exf6 17. O-O Nxd5 18. Rfc1 Be6 19. Rc5 Nb6 20. Rb5
+Nc4 21. Rxb4 Na5 22. Rd1 Bb3 23. Rc1 Bd5 24. Bxd5 Rxd5 25. Nc3 Rd6 26. d5 Rc8
+27. Rd1 Rc5 28. Rb5 b6 29. Rxc5 bxc5 30. Ne4 Rb6 31. d6 1-0

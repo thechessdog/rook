@@ -1,0 +1,20 @@
+[Event "Sverdlovsk"]
+[Site "Sverdlovsk"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Petrosian, Arshak B"]
+[Black "Kataev, Simcho"]
+[Result "1/2-1/2"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "4.Nf3"]
+[HashCode "a4ffe1a6"]
+[Epoch "Rook"]
+[BlackID "4106644"]
+[BlackCountry "RUS"]
+[WhiteID "13300288"]
+[WhiteCountry "ARM"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 Be7 5. cxd5 exd5 6. Bg5 O-O 7. e3 c6 8. Bd3
+Nbd7 9. Qc2 Re8 10. O-O Nf8 11. Ne5 Ng4 12. Bxe7 Qxe7 13. Nxg4 Bxg4 14. Bf5
+Bxf5 15. Qxf5 Qe6 16. Qxe6 1/2-1/2

@@ -1,0 +1,21 @@
+[Event "EUCup"]
+[Site "Budapest"]
+[Date "1982.??.??"]
+[Round "?"]
+[White "Dolmatov, Sergey"]
+[Black "Schneider, Attila"]
+[Result "0-1"]
+[ECO "B76"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, Rauser variation"]
+[HashCode "480699ff"]
+[Epoch "Rook"]
+[WhiteID "4100093"]
+[WhiteCountry "RUS"]
+[BlackCountry "HUN"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8. Qd2
+Nc6 9. O-O-O d5 10. exd5 Nxd5 11. Nxc6 bxc6 12. Bd4 e5 13. Bc5 Be6 14. Ne4 Rb8
+15. g4 f5 16. gxf5 gxf5 17. Rg1 fxe4 18. Qh6 Qf6 19. Rxg7+ Qxg7 20. Qxe6+ Kh8
+21. Bxf8 Qg5+ 22. Kb1 Rxf8 23. Qxc6 Ne3 24. Re1 Nxf1 25. Rxf1 exf3 26. Qe4 f2
+27. c4 Rf4 28. Qd3 e4 29. Qc3+ Rf6 30. Kc2 e3 31. Kd3 Qf4 32. b3 Kg7 0-1

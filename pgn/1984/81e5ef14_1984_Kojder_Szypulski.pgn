@@ -1,0 +1,20 @@
+[Event "Czestochowa"]
+[Site "Czestochowa"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Kojder, Konrad"]
+[Black "Szypulski, Andrzej"]
+[Result "1/2-1/2"]
+[ECO "E15"]
+[Opening "Queen's Indian"]
+[Variation "Nimzovich variation (exaggerated fianchetto)"]
+[HashCode "81e5ef14"]
+[Epoch "Rook"]
+[WhiteID "1101471"]
+[WhiteCountry "POL"]
+[BlackID "1100262"]
+[BlackCountry "POL"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. Qc2 Bb4+ 6. Bd2 Be7 7. Bg2 O-O 8. O-O
+d5 9. Ne5 c6 10. cxd5 cxd5 11. Nc3 Nfd7 12. Nf3 Bb7 13. e4 dxe4 14. Nxe4 Nc6
+15. Rad1 Rc8 16. Qb1 Nf6 17. Nxf6+ Bxf6 18. Bc3 Ne7 1/2-1/2

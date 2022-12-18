@@ -1,0 +1,17 @@
+[Event "corr EUR/M"]
+[Site "corr EUR/M"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Siriaev, A."]
+[Black "Leis, H."]
+[Result "1-0"]
+[ECO "C00"]
+[Opening "French"]
+[Variation "Wing gambit"]
+[HashCode "c41aae5b"]
+[Epoch "Rook"]
+
+1. e4 e6 2. Nf3 d5 3. e5 c5 4. b4 cxb4 5. a3 bxa3 6. d4 Nc6 7. c3 Nge7 8.
+Bd3 Ng6 9. h4 Be7 10. h5 Nf8 11. Nxa3 Nd7 12. Qc2 h6 13. g4 Nb6 14. Rg1
+Bxa3 15. Bxa3 Na5 16. g5 Nac4 17. Bc5 Qc7 18. g6 Bd7 19. gxf7+ 1-0
+

@@ -1,0 +1,17 @@
+[Event "Thessaloniki olw"]
+[Site "Thessaloniki olw"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Horvath, Maria"]
+[Black "Guggenberger, I."]
+[Result "0-1"]
+[ECO "D31"]
+[Opening "QGD"]
+[Variation "3.Nc3"]
+[HashCode "c1977a15"]
+[Epoch "Rook"]
+[WhiteID "1601660"]
+[WhiteCountry "AUT"]
+
+1. d4 d5 2. c4 e6 3. Nc3 f5 4. Nf3 Nf6 5. g3 c6 6. e3 Bd6 7. Qc2 Nbd7 8. Ne2
+Ne4 9. Nf4 e5 10. dxe5 Nxe5 11. Nxe5 Qa5+ 12. Bd2 Nxd2 13. Qxd2 0-1

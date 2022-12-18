@@ -1,0 +1,18 @@
+[Event "St Louis"]
+[Site "St Louis"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Applebee, J."]
+[Black "Delay, Fabrice"]
+[Result "1-0"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra gambit"]
+[HashCode "7d0ad8e2"]
+[Epoch "Rook"]
+[BlackID "1301608"]
+[BlackCountry "SUI"]
+
+1. e4 c5 2. d4 cxd4 3. c3 e6 4. Nf3 Nc6 5. Bb5 dxc3 6. Nxc3 Bb4 7. Qb3 Bxc3+ 8.
+Qxc3 Nf6 9. Bg5 h6 10. Bh4 g5 11. Bg3 Nxe4 12. Qxh8+ Ke7 13. Qxd8+ Kxd8 14.
+Bxc6 bxc6 15. Ne5 Nxg3 16. hxg3 1-0

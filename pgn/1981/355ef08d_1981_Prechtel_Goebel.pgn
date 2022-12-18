@@ -1,0 +1,17 @@
+[Event "corr BdF"]
+[Site "corr BdF"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Prechtel, H."]
+[Black "Goebel, E."]
+[Result "1-0"]
+[ECO "E14"]
+[Opening "Queen's Indian"]
+[Variation "4.e3"]
+[HashCode "355ef08d"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. e3 Bb7 5. Bd3 Be7 6. Nc3 O-O 7. e4 c5 8. e5
+Ne8 9. d5 d6 10. h4 h6 11. Rh3 Nd7 12. Bxh6 gxh6 13. Rg3+ Kh8 14. Qd2 Bg5
+15. hxg5 hxg5 16. Rxg5 Ng7 17. Rh5+ 1-0
+

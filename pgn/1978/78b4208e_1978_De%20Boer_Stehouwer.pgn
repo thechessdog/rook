@@ -1,0 +1,21 @@
+[Event "Netherlands"]
+[Site "Netherlands"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "De Boer, Gert-Jan"]
+[Black "Stehouwer, Coen"]
+[Result "1-0"]
+[ECO "B07"]
+[Opening "Pirc"]
+[Variation "Holmov system"]
+[HashCode "78b4208e"]
+[Epoch "Rook"]
+[BlackID "1000799"]
+[BlackCountry "NED"]
+[WhiteCountry "NED"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Bc4 Bg7 5. Qe2 c6 6. e5 Nd5 7. Bd2 O-O 8. O-O-O
+Nc7 9. h4 d5 10. Bd3 b6 11. h5 c5 12. hxg6 hxg6 13. Qe3 Nc6 14. Qg3 cxd4 15.
+Qh4 f5 16. Nf3 Ne6 17. Qh7+ Kf7 18. Rh6 Ke8 19. Qxg6+ Rf7 20. Ne2 Bxh6 21. Bxh6
+Nb4 22. Bb5+ Bd7 23. Ng5 Bxb5 24. Qxf7+ Kd7 25. Qxe6+ Kc7 26. Nxd4 Bd7 27. Qg6
+Qg8 28. Qh5 Nxa2+ 29. Kb1 Nb4 30. e6 Be8 31. Qh2+ Kb7 32. c3 Na6 33. Qe5 1-0

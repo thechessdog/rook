@@ -1,0 +1,18 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Rudiger"]
+[Black "Rosenhahn"]
+[Result "0-1"]
+[ECO "C63"]
+[Opening "Ruy Lopez"]
+[Variation "Schliemann defence, Berger variation"]
+[HashCode "65bfddba"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 f5 4. Nc3 fxe4 5. Nxe4 d5 6. Nxe5 dxe4 7. Nxc6
+Qg5 8. Qe2 Nf6 9. f4 Qh4+ 10. g3 Qh3 11. Ne5+ c6 12. Bc4 Bc5 13. d3 Bf5 14.
+dxe4 Nxe4 15. Be3 O-O-O 16. Bxc5 Nxc5 17. Rd1 Nd7 18. g4 Nxe5 19. Rxd8+
+Rxd8 20. gxf5 Nf3+ 21. Kf2 Rd2 22. Be6+ Kc7 23. Qxd2 Nxd2 24. Rd1 Qf3+ 0-1
+

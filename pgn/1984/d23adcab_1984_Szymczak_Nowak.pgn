@@ -1,0 +1,19 @@
+[Event "Poznan"]
+[Site "Poznan"]
+[Date "1984.01.01"]
+[Round "7"]
+[White "Szymczak, Zbigniew"]
+[Black "Nowak, Ignacy"]
+[Result "1/2-1/2"]
+[ECO "E41"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5"]
+[HashCode "d23adcab"]
+[Epoch "Rook"]
+[WhiteID "1100424"]
+[BlackID "1100157"]
+[WhiteCountry "POL"]
+[BlackCountry "POL"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 Nc6 6. Ne2 d5 7. O-O O-O 8. cxd5
+exd5 9. a3 cxd4 10. axb4 dxc3 1/2-1/2

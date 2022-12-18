@@ -1,0 +1,26 @@
+[Event "Bundesliga 8081"]
+[Site "Duitsland tt"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Borngaesser, Rene"]
+[Black "Tischer, Guenter"]
+[Result "1-0"]
+[ECO "B02"]
+[Opening "Alekhine's defence"]
+[Variation "Saemisch attack"]
+[HashCode "4cfec147"]
+[Epoch "Rook"]
+[WhiteID "4600940"]
+[WhiteCountry "GER"]
+[BlackID "4601815"]
+[BlackCountry "GER"]
+
+1. e4 Nf6 2. e5 Nd5 3. Nc3 Nxc3 4. dxc3 Nc6 5. Nf3 d6 6. Bb5 e6 7. Bf4 a6 8.
+Bxc6+ bxc6 9. Qe2 Be7 10. O-O-O d5 11. h4 a5 12. Ng5 h6 13. Ne4 Bd7 14. Ng3 Qb8
+15. Nh5 g6 16. Nf6+ Bxf6 17. exf6 Qb6 18. Qe5 Kd8 19. c4 Kc8 20. c5 Qa7 21. Rh3
+Rb8 22. Rb3 Rxb3 23. axb3 g5 24. hxg5 hxg5 25. Be3 a4 26. bxa4 Qxa4 27. b3 Qa3+
+28. Kb1 Kb7 29. Qxg5 e5 30. Qxe5 Re8 31. Qa1 Qb4 32. Rd4 Qe1+ 33. Kb2 Qxa1+ 34.
+Kxa1 Bf5 35. Kb2 Be4 36. g4 Kc8 37. Ra4 Kd7 38. Ra7 Bg6 39. c3 Re4 40. g5 Bf5
+41. Kc1 Bg6 42. Kd2 Bf5 43. Ra8 Bg6 44. Rh8 Rg4 45. Rg8 Rg1 46. Bf4 Rb1 47. Rb8
+d4 48. cxd4 Ke6 49. Be5 Kd5 50. f3 Ke6 51. Bxc7 Kf5 52. f4 Ke4 53. Be5 Rb2+ 54.
+Kc3 1-0

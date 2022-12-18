@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Poponczyk, T."]
+[Black "Hengst, H."]
+[Result "1-0"]
+[ECO "E11"]
+[Opening "Bogo-Indian defence, Gruenfeld variation"]
+[HashCode "6b1e4f7d"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 Bb4+ 4. Nbd2 d5 5. a3 Be7 6. e3 O-O 7. Bd3 Nbd7
+8. O-O c5 9. cxd5 exd5 10. Qe2 Re8 11. b3 b6 12. Bb2 Bb7 13. Ne5 Nxe5 14.
+dxe5 Ne4 15. Nxe4 dxe4 16. Bb5 Rf8 17. Rfd1 Qb8 18. Rd7 Re8 19. Qh5 g6 20.
+Qh6 Bf8 21. Qf4 Re7 22. Qf6 Rxd7 23. e6 1-0
+

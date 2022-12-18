@@ -1,0 +1,20 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Wedervang, Kim"]
+[Black "Hansen, Morten"]
+[Result "1/2-1/2"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "classical variation"]
+[HashCode "fdb3a686"]
+[Epoch "Rook"]
+[WhiteID "1424521"]
+[BlackID "1402552"]
+[WhiteCountry "DEN"]
+[BlackCountry "DEN"]
+
+1. b3 d5 2. Bb2 Nf6 3. e3 c5 4. Nf3 Nc6 5. Bb5 Bg4 6. c4 e6 7. cxd5 exd5 8. O-O
+Be7 9. Be2 O-O 10. d4 cxd4 11. Nxd4 Bxe2 12. Qxe2 Qd7 13. Rd1 Rfd8 14. Nd2 Rac8
+15. Nf1 1/2-1/2

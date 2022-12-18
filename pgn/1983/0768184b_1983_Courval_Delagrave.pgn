@@ -1,0 +1,17 @@
+[Event "Montreal"]
+[Site "Montreal"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Courval, Francois"]
+[Black "Delagrave, Sylvain"]
+[Result "0-1"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Grand Prix attack"]
+[HashCode "0768184b"]
+[Epoch "Rook"]
+[WhiteID "2607387"]
+[WhiteCountry "CAN"]
+
+1. e4 c5 2. f4 Nc6 3. Nf3 e6 4. g3 Nf6 5. Nc3 d5 6. exd5 exd5 7. Bg2 Be7 8. d4
+O-O 9. O-O cxd4 10. Nxd4 Bc5 0-1

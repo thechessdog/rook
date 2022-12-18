@@ -1,0 +1,20 @@
+[Event "Ljubljana"]
+[Site "Ljubljana"]
+[Date "1981.01.01"]
+[Round "5"]
+[White "Danner, Georg"]
+[Black "Jelen, Iztok"]
+[Result "1/2-1/2"]
+[ECO "E55"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Gligoric system, Bronstein variation"]
+[HashCode "327da8d4"]
+[Epoch "Rook"]
+[WhiteID "1600303"]
+[WhiteCountry "AUT"]
+[BlackID "14600056"]
+[BlackCountry "SLO"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 c5 7. O-O dxc4 8. Bxc4
+Nbd7 9. Qe2 b6 10. a3 cxd4 11. exd4 Bxc3 12. bxc3 Qc7 13. Bd2 Bb7 14. Bd3 Nd5
+15. Qe4 N5f6 16. Qe2 Nd5 17. Qe4 N5f6 1/2-1/2

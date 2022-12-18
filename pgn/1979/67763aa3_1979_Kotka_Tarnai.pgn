@@ -1,0 +1,24 @@
+[Event "corr EU/FSM"]
+[Site "corr EU/FSM"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Kotka, R."]
+[Black "Tarnai, K."]
+[Result "0-1"]
+[ECO "B10"]
+[Opening "Caro-Kann"]
+[Variation "closed (Breyer) variation"]
+[HashCode "67763aa3"]
+[Epoch "Rook"]
+
+1. e4 c6 2. d3 d5 3. Nd2 g6 4. g3 Bg7 5. Bg2 e5 6. Ngf3 Ne7 7. O-O O-O 8.
+c3 Nd7 9. b4 b6 10. Bb2 Bb7 11. Re1 Re8 12. Bh3 Qc7 13. exd5 Nxd5 14. Qb3
+c5 15. Re2 Re7 16. Rae1 Rae8 17. a3 h6 18. c4 N5f6 19. d4 cxd4 20. Bxd4 Nc5
+21. bxc5 exd4 22. cxb6 axb6 23. Nxd4 Rxe2 24. Rxe2 Rxe2 25. Nxe2 Qd6 26.
+Qe3 Qc6 27. Kf1 Bf8 28. Ke1 g5 29. f4 Qh1+ 30. Bf1 Bc5 31. Nd4 Qxh2 32.
+fxg5 Ng4 33. Qe8+ Bf8 34. Kd1 Qf2 35. Nc2 hxg5 36. Qb8 Be4 37. Bh3 Bxc2+
+38. Kxc2 Ne3+ 39. Kd3 g4 40. Ne4 Qf3 41. Qf4 Qxf4 42. gxf4 gxh3 43. Kxe3 h2
+44. Ng3 Bxa3 45. Ke4 Bd6 46. Kf5 Kf8 47. Nh1 Ke7 48. Ke4 Kd7 49. Nf2 Kc6
+50. f5 Bg3 51. Nh1 Bh4 52. Kd4 Kd6 53. Ke4 Kc5 54. Kd3 f6 55. Kc3 Be1+ 56.
+Kd3 Kb4 57. Kd4 Kb3 58. Kd3 Bh4 59. Kd4 Kc2 0-1
+

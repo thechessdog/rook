@@ -1,0 +1,21 @@
+[Event "Kiel"]
+[Site "Kiel"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Parma, Bruno"]
+[Black "Hamann, Svend"]
+[Result "1-0"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf"]
+[HashCode "c08d0b96"]
+[Epoch "Rook"]
+[BlackID "1400193"]
+[BlackCountry "DEN"]
+[WhiteID "14600706"]
+[WhiteCountry "SLO"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. a4 e6 7. Be2 Nc6 8. Be3
+Bd7 9. f4 Be7 10. O-O O-O 11. Kh1 Qc7 12. Qe1 Nxd4 13. Bxd4 Bc6 14. Qg3 g6 15.
+f5 e5 16. Be3 b5 17. Bh6 Rfb8 18. Bd3 b4 19. Bc4 Kh8 20. Bxf7 bxc3 21. fxg6
+hxg6 22. Bg7+ Kxg7 23. Qxg6+ Kf8 24. Be6 Bxe4 25. Qf7# 1-0

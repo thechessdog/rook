@@ -1,0 +1,23 @@
+[Event "Warsaw"]
+[Site "Warsaw"]
+[Date "1983.01.01"]
+[Round "4"]
+[White "Foisor, Ovidiu-Doru"]
+[Black "Kindermann, Stefan"]
+[Result "0-1"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Nimzovich (knight's tour) variation"]
+[HashCode "274c336e"]
+[Epoch "Rook"]
+[BlackID "4600053"]
+[BlackCountry "AUT"]
+[WhiteCountry "ROU"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. Nd2 Nbd7 8. e4
+Bg7 9. Be2 O-O 10. O-O Re8 11. a4 Ne5 12. Qc2 Qe7 13. b3 Bd7 14. Bb2 a6 15. a5
+g5 16. Rfe1 g4 17. Nd1 Nh5 18. g3 f5 19. Ne3 f4 20. Nec4 f3 21. Bf1 Bb5 22. Nb6
+Rad8 23. b4 Bxf1 24. Rxf1 c4 25. Rab1 Nf6 26. Bxe5 Qxe5 27. Nbxc4 Qh5 28. Kh1
+Qg6 29. Rbe1 Nxd5 30. Qb3 Qe6 31. h4 Nc7 32. Re3 Nb5 33. Nb6 Bh6 34. Nd5 Bxe3
+35. Qxe3 Qxd5 36. exd5 Rxe3 37. fxe3 Rc8 38. Ne4 Kg7 39. Nf2 Rc4 40. e4 h5 41.
+Re1 Nd4 0-1

@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Cespedes"]
+[Black "Fortuny"]
+[Result "0-1"]
+[ECO "E41"]
+[Opening "Nimzo-Indian"]
+[Variation "e3, Huebner variation"]
+[HashCode "cf27ab63"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 Nc6 6. Nf3 Bxc3+ 7. bxc3 d6
+8. O-O e5 9. d5 Ne7 10. e4 Ng6 11. Re1 O-O 12. Bg5 h6 13. Bd2 Bd7 14. h3
+Nh5 15. Kh2 Nhf4 16. Bf1 f5 17. Nxe5 dxe5 18. g3 fxe4 19. gxf4 Qh4 20. Rxe4
+Bf5 21. Re1 Qxf2+ 22. Kh1 Qg3 23. Re3 Qxf4 24. Rf3 Qh4 25. Kg1 Be4 26.
+Rxf8+ Rxf8 27. Qe1 Rxf1+ 0-1
+

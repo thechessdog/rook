@@ -1,0 +1,24 @@
+[Event "IBM"]
+[Site "Amsterdam"]
+[Date "1976.??.??"]
+[Round "1"]
+[White "Sigurjonsson, Gudmundur"]
+[Black "Bohm, Hans"]
+[Result "1-0"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...e6"]
+[HashCode "b32d684c"]
+[Epoch "Rook"]
+[WhiteID "2300079"]
+[BlackID "1000306"]
+[WhiteCountry "ISL"]
+[BlackCountry "NED"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 e6 6. Nf3 Be7 7. cxd5 Nxd5 8.
+Bd3 Nc6 9. O-O O-O 10. Re1 Nf6 11. a3 b6 12. Bc2 Bb7 13. Qd3 g6 14. Bh6 Re8 15.
+Rad1 Bf8 16. Bg5 Be7 17. Ba4 Rc8 18. Ne5 Nd5 19. Bxe7 Rxe7 20. Nxd5 Qxd5 21.
+Qg3 Nxe5 22. dxe5 Qc4 23. Qg5 Qc7 24. h4 h5 25. Rc1 Qd8 26. Rxc8 Bxc8 27. Rd1
+Qc7 28. Rc1 Qd8 29. Rd1 Qc7 30. Bc6 Ba6 31. b3 Be2 32. Rd6 Bg4 33. b4 a6 34. a4
+Bf5 35. g3 Kg7 36. b5 axb5 37. axb5 Kg8 38. Kg2 Bg4 39. Kh2 Bf5 40. Kg2 Bg4 41.
+Rd4 Kh7 42. Qf6 1-0

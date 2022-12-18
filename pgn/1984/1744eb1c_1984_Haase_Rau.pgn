@@ -1,0 +1,19 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Haase, J."]
+[Black "Rau, J."]
+[Result "0-1"]
+[ECO "A28"]
+[Opening "English"]
+[Variation "four knights system"]
+[HashCode "1744eb1c"]
+[Epoch "Rook"]
+
+1. c4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. d4 exd4 5. Nxd4 Bb4 6. Bg5 h6 7. Bh4
+Bxc3+ 8. bxc3 d6 9. f4 Qe7 10. Nxc6 bxc6 11. Qd4 Bf5 12. g4 Be4 13. Rg1 c5
+14. Bxf6 gxf6 15. Qd2 f5 16. g5 hxg5 17. Rxg5 Rxh2 18. Qe3 Kd7 19. Qg3 Rah8
+20. Rd1 Qe6 21. Rd2 Qxc4 22. Rg8 R8h4 23. Qg5 Qxc3 24. Qd8+ Kc6 25. Qe8+
+Kb6 26. Qb8+ Bb7 27. Rc8 Qc1+ 0-1
+

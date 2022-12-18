@@ -1,0 +1,17 @@
+[Event "corr Atars mem"]
+[Site "corr Atars mem"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Krustkains"]
+[Black "Martinez, Gustavo"]
+[Result "1-0"]
+[ECO "C40"]
+[Opening "Latvian gambit, 3.Bc4"]
+[HashCode "0d0000db"]
+[Epoch "Rook"]
+[BlackID "3300072"]
+[BlackCountry "BOL"]
+
+1. e4 e5 2. Nf3 f5 3. Bc4 fxe4 4. Nxe5 Qg5 5. d4 Qxg2 6. Qh5+ g6 7. Bf7+ Ke7 8.
+Qh4+ Nf6 9. Bg5 Bg7 10. Nc3 c6 11. Nxe4 Qxh1+ 12. Ke2 Qxe4+ 13. Qxe4 d6 14.
+Nxc6+ Kxf7 15. Qe7+ Kg8 16. Nd8 h6 17. Bxf6 Rh7 18. Qf7+ Kh8 19. Qf8# 1-0

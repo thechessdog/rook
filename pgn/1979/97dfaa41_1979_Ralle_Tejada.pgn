@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Ralle"]
+[Black "Tejada"]
+[Result "0-1"]
+[ECO "B25"]
+[Opening "Sicilian"]
+[Variation "closed, 6.f4 e5 (Botvinnik)"]
+[HashCode "97dfaa41"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nc3 d6 3. g3 g6 4. Bg2 Bg7 5. d3 Nc6 6. f4 e5 7. Nh3 Nge7 8.
+O-O Nd4 9. Rb1 h5 10. fxe5 Bg4 11. Qe1 Bxe5 12. Qf2 Nf3+ 13. Bxf3 Bxh3 14.
+Bg2 Bd4 15. Be3 Bxe3 16. Qxe3 Bxg2 17. Kxg2 Qd7 18. e5 Nf5 19. Qe4 d5 20.
+Qf3 O-O-O 21. b4 d4 22. Ne4 c4 23. Nc5 Qc6 24. Qxc6+ bxc6 25. Rxf5 gxf5 26.
+Rf1 Rd5 27. Rxf5 c3 0-1
+

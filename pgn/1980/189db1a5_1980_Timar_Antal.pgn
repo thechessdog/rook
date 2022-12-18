@@ -1,0 +1,16 @@
+[Event "Berettyoujfalu"]
+[Site "Berettyoujfalu"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Timar, Zsolt"]
+[Black "Antal, Arpad"]
+[Result "0-1"]
+[ECO "C00"]
+[Opening "French"]
+[Variation "Labourdonnais variation"]
+[HashCode "189db1a5"]
+[Epoch "Rook"]
+[WhiteCountry "HUN"]
+
+1. e4 e6 2. f4 Nc6 3. Nf3 d6 4. Bd3 Be7 5. c4 Nf6 6. Nc3 e5 7. f5 g6 8. g4 Nxg4
+9. c5 Bh4+ 0-1

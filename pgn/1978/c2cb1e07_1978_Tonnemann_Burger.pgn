@@ -1,0 +1,22 @@
+[Event "corr DFSM"]
+[Site "corr DFSM"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Tonnemann"]
+[Black "Burger, Karl"]
+[Result "0-1"]
+[ECO "C80"]
+[Opening "Ruy Lopez"]
+[Variation "open, 6.d4"]
+[HashCode "c2cb1e07"]
+[Epoch "Rook"]
+[BlackCountry "USA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 a6 6. Ba4 Be7 7. dxe5 Nc5 8.
+Bxc6 bxc6 9. Nd4 O-O 10. Nc3 Ne6 11. Nf5 f6 12. Nxe7+ Qxe7 13. exf6 Qxf6 14.
+Ne4 Qg6 15. Ng3 d6 16. f4 Nc5 17. b4 Ne4 18. Nxe4 Qxe4 19. Qd2 Bf5 20. Bb2 Qxc2
+21. Qd4 Rf7 22. Rfe1 Qd3 23. Qf2 Bd7 24. a3 Qf5 25. Re3 Qxf4 26. Rf3 Qc4 27.
+Rxf7 Qxf7 28. Qxf7+ Kxf7 29. Rf1+ Kg8 30. Re1 Rf8 31. Re7 Rf7 32. Rxf7 Kxf7 33.
+Kf2 Ke6 34. Bxg7 Kd5 35. Ke3 Kc4 36. Bf6 a5 37. bxa5 Bc8 38. Bd8 d5 39. Bxc7 c5
+40. Kd2 d4 41. Bd8 Kd5 42. Bh4 c4 43. Be1 c3+ 44. Kc2 Kc4 45. Kc1 d3 46. Kd1
+Bb7 47. g3 Bc8 48. Kc1 h5 0-1

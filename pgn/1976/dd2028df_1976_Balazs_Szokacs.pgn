@@ -1,0 +1,17 @@
+[Event "Salgotarjan"]
+[Site "Salgotarjan"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Balazs, J."]
+[Black "Szokacs, Laszlo"]
+[Result "0-1"]
+[ECO "A85"]
+[Opening "Dutch with c4 & Nc3"]
+[HashCode "dd2028df"]
+[Epoch "Rook"]
+
+1. d4 f5 2. c4 Nf6 3. Nc3 e6 4. Bg5 Be7 5. g3 c6 6. Bg2 d5 7. cxd5 exd5 8. e3
+O-O 9. Bxf6 Bxf6 10. Nge2 Nd7 11. O-O Be7 12. Nf4 Nf6 13. Nd3 Bd6 14. b4 Qe7
+15. a3 a5 16. Qb3 Ne4 17. Rfd1 b6 18. Nf4 g5 19. Bxe4 fxe4 20. Ng2 Qf7 21. Rd2
+axb4 22. Nd1 Bd7 23. a4 Be6 24. Ne1 c5 25. dxc5 bxc5 26. a5 c4 27. Qb2 Rfb8 28.
+a6 c3 29. Nxc3 bxc3 30. Qxc3 Bb4 31. Qd4 Bxd2 32. Qxd2 Qf6 0-1

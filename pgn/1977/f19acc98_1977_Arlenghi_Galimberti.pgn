@@ -1,0 +1,19 @@
+[Event "corr Italy"]
+[Site "corr Italy"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Arlenghi"]
+[Black "Galimberti"]
+[Result "1-0"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Lipnitzky attack"]
+[HashCode "f19acc98"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 b5 7. Bb3 Bb7 8.
+Qe2 Nbd7 9. Nf3 Nc5 10. Nd2 b4 11. Ba4+ Nxa4 12. Nxa4 Bc6 13. b3 Bxa4 14.
+bxa4 Qa5 15. Nc4 Qc7 16. a5 Rc8 17. Nb6 Qc3+ 18. Kd1 Qd4+ 19. Qd2 Qxa1 20.
+Nxc8 Nxe4 21. Qxb4 Nxf2+ 22. Kd2 Nxh1 23. Qa4+ Kd8 24. Nb6 Kc7 25. Qd7+ Kb8
+26. Qc8+ Ka7 27. Qa8# 1-0
+

@@ -1,0 +1,21 @@
+[Event "Kecskemet"]
+[Site "Kecskemet"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Honfi, Karoly"]
+[Black "Barczay, Laszlo"]
+[Result "0-1"]
+[ECO "B93"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.f4"]
+[HashCode "fcd797f3"]
+[Epoch "Rook"]
+[BlackCountry "HUN"]
+[WhiteCountry "HUN"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 Qb6 7. Nb3 g6 8. Be2
+Nbd7 9. Bf3 Bg7 10. Qe2 O-O 11. g4 e6 12. Be3 Qc7 13. g5 Ne8 14. Bd4 e5 15.
+fxe5 Nxe5 16. Nd5 Qd8 17. h4 Be6 18. O-O-O Bxd5 19. exd5 Nc7 20. Be4 Qe7 21.
+Kb1 Nb5 22. Bf2 Rfe8 23. Rde1 f5 24. gxf6 Qxf6 25. c3 Nc4 26. Qxc4 Qxf2 27. Re2
+Qf6 28. Qd3 Rac8 29. c4 Rxc4 30. Qxc4 Qxb2+ 31. Rxb2 Na3+ 32. Kc1 Bxb2+ 33.
+Kxb2 Nxc4+ 34. Kc3 Rxe4 35. Nd4 Nb6 0-1

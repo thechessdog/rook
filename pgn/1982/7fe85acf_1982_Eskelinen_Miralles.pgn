@@ -1,0 +1,20 @@
+[Event "EU-ch U20"]
+[Site "Groningen"]
+[Date "1982.??.??"]
+[Round "12"]
+[White "Eskelinen, Aarno"]
+[Black "Miralles, Gilles"]
+[Result "0-1"]
+[ECO "C05"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation"]
+[HashCode "7fe85acf"]
+[Epoch "Rook"]
+[WhiteID "501751"]
+[BlackID "600059"]
+[WhiteCountry "FIN"]
+[BlackCountry "FRA"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. f4 c5 6. c3 Nc6 7. Ndf3 cxd4 8. cxd4
+Qb6 9. Kf2 f6 10. Ne2 fxe5 11. fxe5 Ndxe5 12. Nxe5 Nxe5 13. Nc3 Nc6 14. Bb5 Be7
+0-1

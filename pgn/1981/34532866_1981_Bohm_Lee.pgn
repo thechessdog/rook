@@ -1,0 +1,23 @@
+[Event "Hoogovens-B"]
+[Site "Wijk aan Zee II"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Bohm, Hans"]
+[Black "Lee, Graham D"]
+[Result "1-0"]
+[ECO "E33"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, Milner-Barry (Zurich) variation"]
+[HashCode "34532866"]
+[Epoch "Rook"]
+[WhiteID "1000306"]
+[WhiteCountry "NED"]
+[BlackID "400750"]
+[BlackCountry "ENG"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 Nc6 5. Nf3 d6 6. Bd2 e5 7. a3 Bxc3 8. Bxc3
+Qe7 9. e3 O-O 10. Be2 a5 11. b3 Bg4 12. d5 Bxf3 13. gxf3 Nb8 14. Qf5 c6 15.
+dxc6 bxc6 16. f4 exf4 17. Qxf4 Qe4 18. Rg1 Qxf4 19. exf4 Nbd7 20. O-O-O d5 21.
+cxd5 cxd5 22. Bb5 Rfc8 23. Kb2 Rxc3 24. Kxc3 Ne4+ 25. Kb2 Ndf6 26. f3 Nc5 27.
+Bc6 Rd8 28. b4 axb4 29. axb4 Rb8 30. Ka3 Ne6 31. f5 Nf4 32. Rge1 Ng2 33. Re5
+Nh4 34. Bxd5 1-0

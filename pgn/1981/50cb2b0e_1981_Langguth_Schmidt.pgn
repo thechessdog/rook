@@ -1,0 +1,21 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Langguth"]
+[Black "Schmidt Seifert"]
+[Result "0-1"]
+[ECO "C17"]
+[Opening "French"]
+[Variation "Winawer, advance, 5.a3"]
+[HashCode "50cb2b0e"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Ba5 6. Qg4 Ne7 7. b4 cxb4 8.
+Nb5 bxa3+ 9. c3 O-O 10. Bg5 a6 11. Bf6 g6 12. Qg5 axb5 13. Bd3 Nd7 14. Bxe7
+Qxe7 15. Qxe7 Bxc3+ 16. Ke2 Bxa1 17. h4 Bxd4 18. Nf3 a2 19. Nxd4 a1=Q 20.
+Rxa1 Rxa1 21. Qd6 Ra6 22. Qc7 Nb6 23. Nxb5 Nc4 24. Bxc4 Rc6 25. Qe7 Rxc4
+26. Nd6 Rc2+ 27. Kf3 b6 28. Ne8 Ba6 29. Nf6+ Kg7 30. Nd7 Rfc8 31. Qf6+ Kg8
+32. h5 Be2+ 33. Kg3 Bxh5 34. Kh4 h6 35. g4 R2c4 36. f3 Bxg4 37. fxg4 Rc3
+0-1
+

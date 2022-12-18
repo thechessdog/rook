@@ -1,0 +1,19 @@
+[Event "Novi Sad"]
+[Site "Novi Sad"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Notaros, Krasoje"]
+[Black "Bjelajac, Milan"]
+[Result "1/2-1/2"]
+[ECO "A39"]
+[Opening "English"]
+[Variation "symmetrical, main line with d4"]
+[HashCode "ca52bc91"]
+[Epoch "Rook"]
+[WhiteID "901636"]
+[BlackID "901261"]
+[WhiteCountry "SRB"]
+[BlackCountry "SRB"]
+
+1. Nf3 c5 2. g3 Nc6 3. Bg2 Nf6 4. c4 g6 5. Nc3 Bg7 6. O-O O-O 7. d4 cxd4 8.
+Nxd4 Nxd4 9. Qxd4 d6 10. Bg5 h6 11. Bd2 Be6 1/2-1/2

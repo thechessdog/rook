@@ -1,0 +1,19 @@
+[Event "Columbus,OH"]
+[Site "Columbus,OH"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Multhopp, Hans"]
+[Black "Bullock, Randy"]
+[Result "1-0"]
+[ECO "C35"]
+[Opening "KGA"]
+[Variation "Cunningham, three pawns gambit"]
+[HashCode "537eb12b"]
+[Epoch "Rook"]
+[WhiteID "2011638"]
+[WhiteCountry "USA"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 Be7 4. Bc4 Bh4+ 5. g3 fxg3 6. O-O gxh2+ 7. Kh1 d5 8.
+Bxd5 Nf6 9. Bb3 O-O 10. Nxh4 Nxe4 11. Qe1 Nd6 12. Nc3 Re8 13. Qg3 Be6 14. d3
+Nc6 15. Bh6 g6 16. Nd5 Bxd5+ 17. Bxd5 Re5 18. Nxg6 hxg6 19. Qxg6+ Kh8 20. Qg7#
+1-0

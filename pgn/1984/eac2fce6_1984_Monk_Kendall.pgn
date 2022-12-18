@@ -1,0 +1,20 @@
+[Event "corr CB"]
+[Site "corr CB"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Monk"]
+[Black "Kendall"]
+[Result "0-1"]
+[ECO "B78"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, 10.O-O-O"]
+[HashCode "eac2fce6"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8.
+Qd2 Nc6 9. Bc4 Bd7 10. O-O-O Qb8 11. h4 b5 12. Ndxb5 Ne5 13. Be2 Qb7 14.
+Nd4 a5 15. Rdg1 Rfb8 16. Nd1 a4 17. g4 Rc8 18. h5 Nc4 19. Bxc4 Rxc4 20.
+hxg6 fxg6 21. Ne2 Rac8 22. Nec3 Be8 23. Rh2 Bf7 24. Rgh1 Rb8 25. Bh6 Rb4
+26. Bxg7 Kxg7 27. e5 dxe5 28. Ne4 Rxb2 29. Qh6+ Kg8 30. Nxf6+ exf6 31. Nxb2
+Qxb2+ 32. Kd1 Qd4+ 33. Kc1 Rd8 0-1
+

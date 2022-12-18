@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Batthany"]
+[Black "Bata"]
+[Result "0-1"]
+[ECO "B03"]
+[Opening "Alekhine's defence"]
+[Variation "four pawns attack, 7.Be3"]
+[HashCode "c57b4f47"]
+[Epoch "Rook"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. c4 Nb6 5. f4 dxe5 6. fxe5 Nc6 7. Be3 Bf5 8.
+Nc3 e6 9. Nf3 Qd7 10. Qd2 O-O-O 11. Be2 f6 12. exf6 gxf6 13. O-O-O Na5 14.
+c5 Nbc4 15. Bxc4 Nxc4 16. Qe2 Nxe3 17. Qxe3 h5 18. Ne2 Bh6 19. Nf4 e5 20.
+dxe5 Qa4 21. Rd2 Rxd2 0-1
+

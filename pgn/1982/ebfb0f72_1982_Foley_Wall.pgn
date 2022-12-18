@@ -1,0 +1,16 @@
+[Event "Dayton,OH"]
+[Site "Dayton,OH"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Foley"]
+[Black "Wall, Bill"]
+[Result "0-1"]
+[ECO "E22"]
+[Opening "Nimzo-Indian"]
+[Variation "Spielmann variation"]
+[HashCode "ebfb0f72"]
+[Epoch "Rook"]
+[BlackCountry "USA"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qb3 Qe7 5. a3 Bxc3+ 6. Qxc3 Ne4 7. Qc2 d5 8.
+b3 c5 9. dxc5 Qf6 10. f3 Qh4+ 11. g3 Nxg3 0-1

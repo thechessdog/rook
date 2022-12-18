@@ -1,0 +1,18 @@
+[Event "Latvia"]
+[Site "Latvia"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Zhuravliov, Valerij"]
+[Black "Scinkar"]
+[Result "1-0"]
+[ECO "B23"]
+[Opening "Sicilian"]
+[Variation "closed"]
+[HashCode "2825c1db"]
+[Epoch "Rook"]
+[WhiteID "11600055"]
+[WhiteCountry "LAT"]
+
+1. e4 c5 2. Nc3 d6 3. f4 g6 4. Nf3 Bg7 5. Bc4 Nc6 6. O-O e6 7. f5 exf5 8. d3
+Nge7 9. Qe1 O-O 10. Qh4 Qe8 11. Bh6 d5 12. exd5 Nd4 13. Rae1 Bxh6 14. Qxh6
+Nxf3+ 15. Rxf3 f4 16. Ne4 f6 17. d6+ Kh8 18. Ng5 fxg5 19. Rxe7 1-0

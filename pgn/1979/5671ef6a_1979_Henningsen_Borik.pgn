@@ -1,0 +1,14 @@
+[Event "Dortmund"]
+[Site "Dortmund"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Henningsen"]
+[Black "Borik, R."]
+[Result "1-0"]
+[ECO "A00"]
+[Opening "Mieses opening"]
+[HashCode "5671ef6a"]
+[Epoch "Rook"]
+
+1. d3 f5 2. e4 fxe4 3. dxe4 d6 4. Bc4 Nf6 5. e5 d5 6. exf6 dxc4 7. f7+ 1-0
+

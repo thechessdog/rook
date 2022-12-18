@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Kretschmer"]
+[Black "Karsaiev"]
+[Result "0-1"]
+[ECO "C25"]
+[Opening "Vienna gambit"]
+[HashCode "2f447ce2"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nc3 Nc6 3. f4 exf4 4. Nf3 Nf6 5. d4 Bb4 6. Bd3 d5 7. exd5 Nxd5
+8. Bd2 O-O 9. O-O Bg4 10. Nxd5 Qxd5 11. c3 Bd6 12. Qc2 Qh5 13. Rae1 Rae8
+14. Be4 g5 15. Bxc6 bxc6 16. Ne5 c5 17. Qa4 Re6 18. Nxg4 Qxg4 19. Qxa7 Rh6
+20. Rf3 Qf5 21. h3 Qd5 22. Qa4 f5 23. Re8 Re6 24. g4 Qxf3 0-1
+

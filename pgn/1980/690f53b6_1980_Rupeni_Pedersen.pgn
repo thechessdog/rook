@@ -1,0 +1,21 @@
+[Event "Berlin tt"]
+[Site "Berlin-West"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Rupeni, Franco"]
+[Black "Pedersen, Erik"]
+[Result "0-1"]
+[ECO "B13"]
+[Opening "Caro-Kann"]
+[Variation "exchange, Rubinstein variation"]
+[HashCode "690f53b6"]
+[Epoch "Rook"]
+[WhiteID "801100"]
+[WhiteCountry "ITA"]
+[BlackID "1404997"]
+[BlackCountry "DEN"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. Bd3 Nc6 5. c3 Nf6 6. Bf4 Bg4 7. Qb3 Na5 8.
+Qa4+ Bd7 9. Qc2 a6 10. Nf3 Bb5 11. Nbd2 Bxd3 12. Qxd3 e6 13. h3 Rc8 14. b3 Be7
+15. c4 dxc4 16. bxc4 b5 17. Rc1 Nd5 18. Be5 bxc4 19. Nxc4 Nxc4 20. Rxc4 Qa5+
+21. Kf1 O-O 22. Qb3 Qb5 23. Nd2 Rxc4 0-1

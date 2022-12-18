@@ -1,0 +1,20 @@
+[Event "Berlin"]
+[Site "Berlin"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Goldberg, Alexander, Dr."]
+[Black "Poor"]
+[Result "0-1"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, Smyslov variation"]
+[HashCode "08fa8f92"]
+[Epoch "Rook"]
+[WhiteID "4611560"]
+[WhiteCountry "GER"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. a4 Qa5 8. Bd2
+c4 9. Nh3 Bd7 10. Be2 Nbc6 11. O-O O-O-O 12. f4 f5 13. exf6 gxf6 14. Bg4 Nf5
+15. Re1 Rdg8 16. Bh5 Nh4 17. g3 e5 18. fxe5 Bxh3 19. exf6 Qc7 20. g4 Qd7 21. f7
+Rxg4+ 22. Bxg4 Bxg4 23. Re8+ Nd8 24. Rg8 Bxd1 25. f8=Q Rxg8+ 26. Qxg8 Ng6 27.
+Be1 Bf3 28. Kf2 Qg4 0-1

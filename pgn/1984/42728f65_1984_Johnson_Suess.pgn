@@ -1,0 +1,23 @@
+[Event "Plymouth ch-MI op"]
+[Site "Plymouth ch-MI op"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Johnson, J."]
+[Black "Suess, J."]
+[Result "1-0"]
+[ECO "B03"]
+[Opening "Alekhine's defence"]
+[HashCode "42728f65"]
+[Epoch "Rook"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 e6 4. Nf3 a6 5. c4 Nb4 6. Nc3 c6 7. a3 Qa5 8. Be3
+d5 9. c5 Nd7 10. axb4 Qxb4 11. Qc2 Nxc5 12. dxc5 Bxc5 13. Bxc5 Qxc5 14. Bd3
+h6 15. O-O b5 16. Rac1 Bb7 17. Na2 Qb6 18. Qc5 Qxc5 19. Rxc5 O-O 20. Nd4
+Rfc8 21. Rfc1 Kf8 22. Nxc6 Ke8 23. Na5 Rxc5 24. Rxc5 Rc8 25. Rxc8+ Bxc8 26.
+Nb4 f6 27. Bg6+ Kf8 28. f4 d4 29. Kf2 fxe5 30. fxe5 Ke7 31. Nbc6+ Kd7 32.
+Nxd4 Kc7 33. Bf7 Kb6 34. b4 g5 35. Bxe6 Bxe6 36. Nxe6 g4 37. Nc6 Kxc6 38.
+Nf4 h5 39. Ke3 h4 40. Kd4 Kd7 41. Kd5 a5 42. bxa5 b4 43. Nd3 b3 44. a6 Kc7
+45. a7 Kb7 46. Nc5+ Kxa7 47. Nxb3 Kb7 48. Kd6 g3 49. hxg3 hxg3 50. e6 Kb6
+51. e7 Kb5 52. e8=Q+ Kb4 53. Qc8 Ka3 54. Nd4 Kb2 55. Kd5 Kb1 56. Qc2+ Ka1
+57. Nb3# 1-0
+

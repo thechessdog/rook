@@ -1,0 +1,16 @@
+[Event "corr ch-POL jr"]
+[Site "corr ch-POL jr"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Probola, R."]
+[Black "Nawrocki, L."]
+[Result "1/2-1/2"]
+[ECO "C35"]
+[Opening "KGA"]
+[Variation "Cunningham defence"]
+[HashCode "0394d476"]
+[Epoch "Rook"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 Be7 4. Bc4 d5 5. Bxd5 Nf6 6. Nc3 O-O 7. O-O Bb4
+8. d4 Bxc3 9. bxc3 Nxd5 10. exd5 Qxd5 11. Bxf4 c5 1/2-1/2
+

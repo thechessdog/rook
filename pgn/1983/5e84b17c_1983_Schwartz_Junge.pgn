@@ -1,0 +1,15 @@
+[Event "corr FRG/H"]
+[Site "corr FRG/H"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Schwartz, G."]
+[Black "Junge, Ralph, Dr."]
+[Result "0-1"]
+[ECO "C13"]
+[Opening "French"]
+[Variation "Albin-Alekhine-Chatard attack, Breyer variation"]
+[HashCode "5e84b17c"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Nfd7 6. h4 c5 7. Bxe7 Kxe7 8. f4
+Qb6 9. Nf3 Qxb2 10. Nb5 a6 11. Nc7 Qc3+ 12. Ke2 Qc4+ 13. Ke1 Qb4+ 14. Ke2 0-1

@@ -1,0 +1,19 @@
+[Event "Bor"]
+[Site "Bor"]
+[Date "1983.01.01"]
+[Round "13"]
+[White "Rukavina, Josip"]
+[Black "Sahovic, Dragutin"]
+[Result "1/2-1/2"]
+[ECO "E19"]
+[Opening "Queen's Indian"]
+[Variation "old main line, 9.Qxc3"]
+[HashCode "a19f0ff7"]
+[Epoch "Rook"]
+[WhiteID "14500191"]
+[WhiteCountry "CRO"]
+[BlackCountry "SRB"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2 Be7 6. O-O O-O 7. Nc3 Ne4 8. Qc2
+Nxc3 9. Qxc3 Bf6 10. Rd1 c5 11. Qc2 Nc6 12. Be3 cxd4 13. Nxd4 Bxd4 14. Bxd4 Qc7
+15. Rac1 1/2-1/2

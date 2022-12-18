@@ -1,0 +1,18 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Kampers"]
+[Black "Schumann"]
+[Result "0-1"]
+[ECO "C36"]
+[Opening "KGA"]
+[Variation "Abbazia defence, modern variation"]
+[HashCode "fd67c304"]
+[Epoch "Rook"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 d5 4. exd5 Nf6 5. c4 c6 6. d4 Bb4+ 7. Nc3 cxd5
+8. Bxf4 O-O 9. Bd3 Re8+ 10. Be5 Nc6 11. O-O Nxe5 12. dxe5 dxc4 13. Bxc4
+Qxd1 14. Raxd1 Ng4 15. Nd5 Bc5+ 16. Nd4 Be6 17. Rf4 Nxe5 18. b3 Bxd5 19.
+Bxd5 Rad8 20. Bc4 Rxd4 0-1
+

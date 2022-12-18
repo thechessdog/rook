@@ -1,0 +1,19 @@
+[Event "New York Int"]
+[Site "New York Int"]
+[Date "1984.01.01"]
+[Round "6"]
+[White "Fedorowicz, John"]
+[Black "Browne, Walter S"]
+[Result "1/2-1/2"]
+[ECO "E46"]
+[Opening "Nimzo-Indian"]
+[Variation "Simagin variation"]
+[HashCode "7466b2bd"]
+[Epoch "Rook"]
+[WhiteID "2000083"]
+[WhiteCountry "USA"]
+[BlackCountry "USA"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Ne2 d5 6. a3 Bd6 7. cxd5 exd5 8. b4
+Nbd7 9. Ng3 Nb6 10. Bd3 c6 11. O-O Re8 12. Re1 a5 13. bxa5 Rxa5 14. a4 Ra7 15.
+Ba3 Bxa3 16. Rxa3 Be6 17. Ra2 Nc8 18. Rae2 1/2-1/2

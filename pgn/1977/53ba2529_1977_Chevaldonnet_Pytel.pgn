@@ -1,0 +1,17 @@
+[Event "Val Thorens"]
+[Site "Val Thorens"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Chevaldonnet, Franc"]
+[Black "Pytel"]
+[Result "0-1"]
+[ECO "C69"]
+[Opening "Ruy Lopez"]
+[Variation "exchange variation, 5.O-O"]
+[HashCode "53ba2529"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O Bd6 6. d4 exd4 7. Qxd4 f6
+8. Nbd2 Be6 9. Nb3 b6 10. e5 fxe5 11. Nxe5 Ne7 12. Bg5 O-O 13. Nxc6 Nxc6
+14. Bxd8 Nxd4 15. Nxd4 Bc4 16. Bg5 Bxf1 17. Rxf1 Rae8 18. Be3 Rxe3 0-1
+

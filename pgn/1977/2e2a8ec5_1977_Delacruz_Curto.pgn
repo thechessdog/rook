@@ -1,0 +1,20 @@
+[Event "California"]
+[Site "California"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Delacruz, G."]
+[Black "Curto, E."]
+[Result "1-0"]
+[ECO "C40"]
+[Opening "QP counter-gambit"]
+[Variation "Maroczy gambit"]
+[HashCode "2e2a8ec5"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 d5 3. exd5 Bd6 4. d3 Nf6 5. Nc3 Nbd7 6. g3 Nf8 7. Bg2 Ng6
+8. O-O Bg4 9. Qe1 O-O 10. Nd2 Bb4 11. Ndb1 Qd7 12. a3 Be7 13. Nd2 Nh5 14.
+Nc4 Rae8 15. Na5 Nhf4 16. Bxf4 exf4 17. Qd2 Bh3 18. Rfe1 Bxg2 19. Kxg2 f3+
+20. Kh1 Qh3 21. Rg1 Nh4 22. Nc4 Ng2 23. Ne4 f5 24. Nc3 Rf6 25. Ne5 f4 26.
+Nxf3 fxg3 27. fxg3 Rxf3 28. Qxg2 Qh5 29. Raf1 Rxf1 30. Rxf1 Bf6 31. Ne4
+Bxb2 32. a4 Rd8 33. c4 Bd4 34. Qf3 Qg6 35. Ng5 Qf6 36. Ne6 1-0
+

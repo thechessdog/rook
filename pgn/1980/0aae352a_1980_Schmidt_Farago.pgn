@@ -1,0 +1,19 @@
+[Event "Lodz Makarczyka Mem"]
+[Site "Lodz Makarczyka Mem"]
+[Date "1980.01.01"]
+[Round "9"]
+[White "Schmidt, Wlodzimierz"]
+[Black "Farago, Ivan"]
+[Result "1/2-1/2"]
+[ECO "D42"]
+[Opening "QGD"]
+[Variation "Semi-Tarrasch, 7.Bd3"]
+[HashCode "0aae352a"]
+[Epoch "Rook"]
+[WhiteID "1100041"]
+[WhiteCountry "POL"]
+[BlackID "700134"]
+[BlackCountry "HUN"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 c5 5. cxd5 Nxd5 6. e3 Nc6 7. Bd3 Be7 8. O-O
+O-O 9. a3 cxd4 10. exd4 Bf6 11. Be4 Qd6 12. Qd3 h6 13. Re1 1/2-1/2

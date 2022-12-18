@@ -1,0 +1,18 @@
+[Event "corr DDR/K"]
+[Site "corr DDR/K"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Welz"]
+[Black "Lange"]
+[Result "1-0"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, 6.Bd3"]
+[HashCode "688334a3"]
+[Epoch "Rook"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 O-O 6. Bd3 Nc6 7. e5 Nd7 8.
+h4 Nb4 9. h5 Nxd3+ 10. Qxd3 Nb6 11. hxg6 hxg6 12. Be3 Bf5 13. Qe2 c6 14.
+Nh4 Qd7 15. Nxf5 Qxf5 16. g4 Qd7 17. f5 gxf5 18. Qh2 f6 19. Qh7+ Kf7 20.
+gxf5 dxe5 21. Qg6+ Kg8 22. Rh7 1-0
+

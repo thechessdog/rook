@@ -1,0 +1,18 @@
+[Event "BL2-N 8384"]
+[Site "BL2-N 8384"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Fischer, J."]
+[Black "Kauschmann, Herbert"]
+[Result "1-0"]
+[ECO "B00"]
+[Opening "King's pawn opening"]
+[HashCode "a50c2a83"]
+[Epoch "Rook"]
+[BlackID "4606523"]
+[BlackCountry "GER"]
+
+1. e4 d6 2. f4 Nf6 3. d3 c6 4. Nf3 g6 5. e5 Nd5 6. Nc3 Nxc3 7. bxc3 Bg7 8. d4
+Qa5 9. Bd2 O-O 10. Bd3 Qc7 11. O-O c5 12. Qe1 c4 13. Be4 e6 14. Qh4 d5 15. f5
+exf5 16. Bxd5 Nc6 17. Bh6 Rd8 18. Bxc4 Nxd4 19. cxd4 Bxh6 20. Qxh6 Qxc4 21. Ng5
+Be6 22. Rad1 Bd5 23. Nxh7 f6 24. Qxg6+ Kh8 25. Nxf6 1-0

@@ -1,0 +1,22 @@
+[Event "IBM-B"]
+[Site "Amsterdam II"]
+[Date "1979.07.01"]
+[Round "10"]
+[White "Bohm, Hans"]
+[Black "Langeweg, Kick"]
+[Result "0-1"]
+[ECO "B20"]
+[Opening "Sicilian defence"]
+[HashCode "68a0aeb1"]
+[Epoch "Rook"]
+[WhiteID "1000306"]
+[WhiteCountry "NED"]
+[BlackID "1000160"]
+[BlackCountry "NED"]
+
+1. e4 c5 2. c4 Nc6 3. Ne2 e6 4. d3 Nge7 5. Nbc3 Nd4 6. Nxd4 cxd4 7. Ne2 Nc6 8.
+Nf4 Bb4+ 9. Bd2 O-O 10. Bxb4 Nxb4 11. Qd2 a5 12. g3 f5 13. exf5 e5 14. Ne2 d5
+15. a3 Na6 16. Bg2 dxc4 17. dxc4 Nc5 18. Bd5+ Kh8 19. g4 Qh4 20. h3 Nb3 21. Qd1
+Nxa1 22. Ng3 Bd7 23. Qxa1 Bc6 24. Bxc6 bxc6 25. Qd1 Rab8 26. b3 c5 27. Kf1 Qh6
+28. Kg2 Qc6+ 29. f3 a4 30. Re1 axb3 31. Rxe5 b2 32. Qb1 Rfe8 33. Rd5 Qh6 34. f6
+Qd2+ 0-1

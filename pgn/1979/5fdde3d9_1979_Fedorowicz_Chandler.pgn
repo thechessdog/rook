@@ -1,0 +1,20 @@
+[Event "Brighton"]
+[Site "Brighton"]
+[Date "1979.12.01"]
+[Round "1"]
+[White "Fedorowicz, John"]
+[Black "Chandler, Murray G"]
+[Result "0-1"]
+[ECO "B07"]
+[Opening "Pirc"]
+[Variation "Holmov system"]
+[HashCode "5fdde3d9"]
+[Epoch "Rook"]
+[WhiteID "2000083"]
+[WhiteCountry "USA"]
+[BlackID "400050"]
+[BlackCountry "NZL"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Bc4 Bg7 5. Qe2 Nc6 6. e5 Nd7 7. e6 fxe6 8. Nf3
+d5 9. Bb5 Nxd4 10. Nxd4 Bxd4 11. h4 c6 12. Bd3 e5 13. h5 e4 14. hxg6 hxg6 15.
+Rxh8+ Bxh8 0-1

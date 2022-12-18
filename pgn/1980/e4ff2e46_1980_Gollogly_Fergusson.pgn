@@ -1,0 +1,18 @@
+[Event "NZD-chB"]
+[Site "?"]
+[Date "1980.??.??"]
+[Round "?"]
+[White "Gollogly, David"]
+[Black "Fergusson, R."]
+[Result "1-0"]
+[ECO "B33"]
+[Opening "Sicilian"]
+[Variation "Pelikan (Lasker/Sveshnikov) variation"]
+[HashCode "e4ff2e46"]
+[Epoch "Rook"]
+[WhiteID "4300220"]
+[WhiteCountry "NZL"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Nd5 Nxd5 8.
+exd5 Ne7 9. c4 a6 10. Qa4 axb5 11. Qxa8 bxc4 12. Bxc4 Qb6 13. O-O f6 14. Be3
+Qb4 15. Rfc1 b6 16. Ba6 1-0

@@ -1,0 +1,21 @@
+[Event "Rome"]
+[Site "Rome"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Ostojic, Predrag"]
+[Black "Passerotti, Pierluigi"]
+[Result "1-0"]
+[ECO "C81"]
+[Opening "Ruy Lopez"]
+[Variation "open, Howell attack"]
+[HashCode "470598e0"]
+[Epoch "Rook"]
+[BlackID "800309"]
+[BlackCountry "ITA"]
+[WhiteCountry "SRB"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Be6 9. Qe2 Be7 10. Rd1 Nc5 11. Nc3 Nxb3 12. cxb3 Na5 13. b4 Bxb4 14. Nxb5 Be7
+15. Nbd4 c5 16. Nxe6 fxe6 17. b4 Nb7 18. bxc5 Nxc5 19. Nd4 Qd7 20. Qh5+ g6 21.
+Qh6 Bf8 22. Qh3 Kf7 23. Bh6 Be7 24. Qf3+ Kg8 25. Rac1 Re8 26. h4 Na4 27. Qg4
+Bf8 28. Bxf8 Kxf8 29. Nc6 Nb6 30. Qb4+ 1-0

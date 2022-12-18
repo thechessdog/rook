@@ -1,0 +1,21 @@
+[Event "Fredrikstad"]
+[Site "Fredrikstad"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Rorvall, Goran"]
+[Black "Pytel, Krzysztof"]
+[Result "0-1"]
+[ECO "B92"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Opovcensky variation"]
+[HashCode "6a8abdf4"]
+[Epoch "Rook"]
+[WhiteID "1700650"]
+[BlackID "600199"]
+[WhiteCountry "SWE"]
+[BlackCountry "FRA"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8. O-O
+O-O 9. f4 b5 10. Bf3 Bb7 11. Qe1 Nbd7 12. f5 Rc8 13. a3 Nb6 14. Na5 Ba8 15. Bg5
+Na4 16. Nxa4 bxa4 17. b4 Rxc2 18. Bd1 Rc8 19. Bxf6 Bxf6 20. Bxa4 d5 21. Rc1
+dxe4 22. Rxc8 Qd4+ 23. Qf2 Rxc8 24. Rd1 e3 25. Qe2 Qe4 26. Re1 Bh4 0-1

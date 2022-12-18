@@ -1,0 +1,24 @@
+[Event "corr ch-CSSR"]
+[Site "corr ch-CSSR"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Konkolsky"]
+[Black "Kopecky"]
+[Result "0-1"]
+[ECO "C08"]
+[Opening "French"]
+[Variation "Tarrasch, open, 4.ed ed"]
+[HashCode "2145b68d"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. exd5 exd5 5. Bb5+ Bd7 6. Qe2+ Be7 7. dxc5
+Nf6 8. Nb3 O-O 9. Be3 Re8 10. O-O-O a6 11. Bxd7 Nbxd7 12. Nf3 Nxc5 13. Nfd4
+Rc8 14. Nxc5 Bxc5 15. Kb1 Qd7 16. h3 Qa4 17. Qd3 Qc4 18. c3 Ne4 19. Rhe1 b5
+20. f3 Nf6 21. Qf5 Bb6 22. Nc2 Rc6 23. Bg5 Rce6 24. Bxf6 Rxe1 25. Rxe1
+Rxe1+ 26. Nxe1 gxf6 27. Qd3 Bf2 28. b3 Qh4 29. Nc2 Qg3 30. Qf1 Bc5 31. b4
+Bb6 32. a4 Qe5 33. Qd3 bxa4 34. f4 Qc7 35. Nd4 Qxf4 36. Nf5 Qe4 37. Qc2 a3
+38. Qxe4 dxe4 39. Ka2 e3 40. Ng3 Bc7 41. Ne2 Kg7 42. Kxa3 Kg6 43. Kb3 Kf5
+44. Kc2 Ke4 45. Nc1 f5 46. Kd1 Be5 47. Nb3 Bxc3 48. Nc5+ Kf4 49. Nxa6 Kg3
+50. Ke2 f4 51. Nc5 Bxb4 52. Nd3 Bc3 53. Kf1 f3 54. gxf3 Kxf3 55. Nc1 f5 56.
+Ne2 Bb2 57. Ng1+ Kg3 0-1
+

@@ -1,0 +1,22 @@
+[Event "IBM"]
+[Site "Amsterdam"]
+[Date "1977.07.01"]
+[Round "13"]
+[White "Torre, Eugenio"]
+[Black "Van Wijgerden, Cornelis"]
+[Result "1-0"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical system, 5.Be2"]
+[HashCode "7fd37f8a"]
+[Epoch "Rook"]
+[WhiteID "5200016"]
+[WhiteCountry "PHI"]
+[BlackID "1000144"]
+[BlackCountry "NED"]
+
+1. e4 g6 2. d4 Bg7 3. Nf3 d6 4. Be2 Nf6 5. Nc3 O-O 6. O-O c6 7. Re1 Qc7 8. e5
+dxe5 9. Nxe5 Nbd7 10. Bf4 Nxe5 11. Bxe5 Qb6 12. Na4 Qd8 13. Bf3 Nd7 14. Bxg7
+Kxg7 15. c4 e6 16. Nc3 Nf6 17. Qd2 Bd7 18. Rad1 Rc8 19. Re5 b6 20. h4 h5 21. g3
+Qe7 22. Ne2 Rh8 23. Nf4 Qd6 24. Qc3 Rce8 25. Rg5 Rh6 26. d5 cxd5 27. Nxd5 exd5
+28. Rgxd5 Qc6 29. Rxd7 Re1+ 30. Kg2 1-0

@@ -1,0 +1,17 @@
+[Event "corr ICCF/WT/M/GT"]
+[Site "corr ICCF/WT/M/GT"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Radoslavic"]
+[Black "Walther, Edgar"]
+[Result "1-0"]
+[ECO "C09"]
+[Opening "French"]
+[Variation "Tarrasch, open variation, main line"]
+[HashCode "9f73df9b"]
+[Epoch "Rook"]
+[BlackCountry "CHE"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. exd5 exd5 5. Ngf3 Nc6 6. Bb5 Bd6 7. O-O cxd4 8.
+Nb3 Ne7 9. Nbxd4 O-O 10. Bg5 Qc7 11. Re1 h6 12. Be3 Bg4 13. h3 Bh5 14. Qd2 Bg6
+15. c3 Rac8 16. Rad1 Na5 17. b3 a6 18. Bd3 Qxc3 19. Qxc3 Rxc3 20. Bxg6 1-0

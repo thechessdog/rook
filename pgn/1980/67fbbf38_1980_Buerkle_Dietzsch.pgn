@@ -1,0 +1,25 @@
+[Event "Wittlich"]
+[Site "Wittlich"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Buerkle, K."]
+[Black "Dietzsch, Herbert"]
+[Result "0-1"]
+[ECO "B31"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (with ...g6, without ...d6)"]
+[HashCode "67fbbf38"]
+[Epoch "Rook"]
+[BlackID "4608364"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. c3 Nf6 6. e5 Nd5 7. d4 cxd4 8. cxd4
+O-O 9. Nc3 Nxc3 10. bxc3 d6 11. exd6 Qxd6 12. Re1 a6 13. Bxc6 Qxc6 14. Bg5 e6
+15. Qd2 b5 16. Ne5 Qd5 17. Bh6 Bb7 18. f3 Rac8 19. Re4 f5 20. Re2 Bxh6 21. Qxh6
+Rxc3 22. Rd1 Rc7 23. h4 Rg7 24. Kh2 Rc8 25. Red2 Qd8 26. Nd3 Bd5 27. Nf4 Qd6
+28. Kh3 Rc4 29. Re1 Rc8 30. Re5 Rf8 31. Rde2 Qd7 32. Nxe6 Bxe6 33. Rxe6 Qxd4
+34. Rxa6 f4 35. Rae6 Qd7 36. Kh2 b4 37. Qg5 Rgf7 38. Re7 Qf5 39. Rxf7 Qxf7 40.
+Qc5 Qf6 41. Qd5+ Kg7 42. Qd7+ Rf7 43. Qg4 h5 44. Qg5 Qxg5 45. hxg5 Ra7 46. Rb2
+Kf7 47. Kg1 Ke6 48. Kf2 Kf5 49. Ke2 Kxg5 50. Kd3 Kh4 51. Ke4 Kg3 52. Ke5 g5 53.
+Kf5 Ra5+ 54. Kg6 h4 55. Rc2 g4 56. fxg4 Kxg4 57. Rb2 Ra4 58. Rc2 Kg3 59. Kg5
+Ra5+ 60. Kg6 h3 0-1

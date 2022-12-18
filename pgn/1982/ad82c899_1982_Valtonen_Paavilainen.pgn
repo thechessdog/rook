@@ -1,0 +1,19 @@
+[Event "corr Heilimo mem"]
+[Site "corr Heilimo mem"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Valtonen"]
+[Black "Paavilainen"]
+[Result "0-1"]
+[ECO "E52"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line with ...b6"]
+[HashCode "ad82c899"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 b6 7. O-O Bb7 8.
+a3 Bd6 9. cxd5 exd5 10. Qc2 c5 11. Nb5 Nc6 12. Nxd6 Qxd6 13. Rd1 c4 14. Bf1
+b5 15. Bd2 Rfe8 16. g3 Bc8 17. Ne5 g6 18. Bg2 Bf5 19. Qc1 a5 20. f3 h5 21.
+Nxc6 Qxc6 22. Kf2 Qb6 23. Rg1 g5 24. h3 g4 25. hxg4 hxg4 26. Rh1 gxf3 27.
+Bxf3 Ne4+ 28. Bxe4 Rxe4 29. Kg1 Qf6 30. Kg2 Rxd4 0-1
+

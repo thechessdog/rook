@@ -1,0 +1,19 @@
+[Event "Greece"]
+[Site "Greece"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Kaloskambis, M."]
+[Black "Skalkotas, Nikolaos"]
+[Result "1-0"]
+[ECO "E56"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line with 7...Nc6"]
+[HashCode "fca63544"]
+[Epoch "Rook"]
+[BlackID "4200144"]
+[BlackCountry "GRE"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 O-O 6. Nf3 d5 7. O-O Nc6 8. a3
+cxd4 9. exd4 dxc4 10. Bxc4 Be7 11. Re1 b6 12. Bd3 Bb7 13. Bc2 Rc8 14. Qd3 Re8
+15. d5 exd5 16. Bg5 Ne4 17. Nxe4 dxe4 18. Qxe4 g6 19. Qh4 h5 20. Bb3 Rc7 21.
+Rad1 Rd7 22. Qe4 Rd6 23. Qf4 Rxd1 24. Qxf7+ Kh8 25. Rxd1 Qc8 26. Qxg6 1-0

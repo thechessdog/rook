@@ -1,0 +1,17 @@
+[Event "corr Finland"]
+[Site "corr Finland"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Kandelin"]
+[Black "Laiho"]
+[Result "1-0"]
+[ECO "A09"]
+[Opening "Reti"]
+[Variation "advance variation"]
+[HashCode "db957017"]
+[Epoch "Rook"]
+
+1. Nf3 d5 2. c4 d4 3. e3 Nc6 4. exd4 Nxd4 5. Nxd4 Qxd4 6. Nc3 Bf5 7. d3
+O-O-O 8. Be3 Qd7 9. d4 e5 10. d5 Ne7 11. Bxa7 b6 12. c5 Kb7 13. c6+ Nxc6
+14. Bb5 1-0
+

@@ -1,0 +1,18 @@
+[Event "corr DDR/FS"]
+[Site "corr DDR/FS"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Klingenberg"]
+[Black "Leisebein, Peter"]
+[Result "0-1"]
+[ECO "C63"]
+[Opening "Ruy Lopez"]
+[Variation "Schliemann defence"]
+[HashCode "d4d77b8d"]
+[Epoch "Rook"]
+[BlackCountry "DEU"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 f5 4. d3 fxe4 5. dxe4 Nf6 6. Bxc6 bxc6 7. Nxe5 Ba6
+8. Nc3 Bc5 9. Bf4 O-O 10. Qd2 Qe7 11. f3 Nh5 12. g3 Nxf4 13. gxf4 Qh4+ 14. Kd1
+Rxf4 15. Ne2 Rxe4 16. fxe4 Qxe4 17. Re1 Qxe5 18. Nc3 Qh5+ 19. Kc1 d5 20. b3
+Ba3+ 21. Kb1 Rf8 22. Ne2 Bxe2 23. Rxe2 Rf1+ 24. Re1 Qe5 0-1

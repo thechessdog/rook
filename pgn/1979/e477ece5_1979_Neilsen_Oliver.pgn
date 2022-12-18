@@ -1,0 +1,18 @@
+[Event "corr CCLA"]
+[Site "corr CCLA"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Neilsen"]
+[Black "Oliver"]
+[Result "1-0"]
+[ECO "B19"]
+[Opening "Caro-Kann"]
+[Variation "classical, Spassky variation"]
+[HashCode "e477ece5"]
+[Epoch "Rook"]
+
+1. e4 c6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6 7. Nf3 Nd7 8.
+h5 Bh7 9. Bd3 Bxd3 10. Qxd3 Qc7 11. Bd2 Ngf6 12. Qe2 e6 13. c4 O-O-O 14. c5
+e5 15. dxe5 Re8 16. O-O Nxe5 17. Bf4 Nfg4 18. Nxe5 Nxe5 19. Rfe1 f6 20. b4
+Rg8 21. Rad1 Qf7 22. Bxe5 1-0
+

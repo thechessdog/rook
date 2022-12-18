@@ -1,0 +1,16 @@
+[Event "Ohio"]
+[Site "Ohio"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Reilly, C."]
+[Black "Tavel, M."]
+[Result "1-0"]
+[ECO "B18"]
+[Opening "Caro-Kann"]
+[Variation "classical variation"]
+[HashCode "8eeb94e2"]
+[Epoch "Rook"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Bd3 Qxd4 6. Nf3 Qd8 7. O-O e6
+8. b3 Nf6 9. Nxf6+ Qxf6 10. Bg5 Qg6 11. Bxf5 1-0
+

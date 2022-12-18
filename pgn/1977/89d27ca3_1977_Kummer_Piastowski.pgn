@@ -1,0 +1,21 @@
+[Event "corr DDR-FSM"]
+[Site "corr DDR-FSM"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Kummer, G."]
+[Black "Piastowski"]
+[Result "1-0"]
+[ECO "E56"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line with 7...Nc6"]
+[HashCode "89d27ca3"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 Nc6 6. Nf3 d5 7. O-O O-O 8.
+a3 cxd4 9. axb4 dxc3 10. bxc3 dxc4 11. Bxc4 Qc7 12. Qb3 e5 13. b5 Na5 14.
+Rxa5 Qxa5 15. Ba3 Bg4 16. Bxf8 Rxf8 17. Nxe5 Bh5 18. Bd3 Rc8 19. c4 Re8 20.
+Qb2 Qc7 21. f4 Ng4 22. Nxg4 Bxg4 23. Qa3 b6 24. h3 Be6 25. Qc3 f6 26. Qc2
+h6 27. Qe2 Qc5 28. Re1 Rc8 29. Kh1 Qe7 30. e4 Rc5 31. e5 fxe5 32. Qe4 Kf8
+33. fxe5 Ke8 34. Be2 Rc8 35. Bh5+ Kf8 36. Qh7 Qg5 37. Bg6 Rxc4 38. Qh8+ Bg8
+39. e6 1-0
+

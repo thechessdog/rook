@@ -1,0 +1,16 @@
+[Event "corr CCLA"]
+[Site "corr CCLA"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Brink"]
+[Black "Venclovas"]
+[Result "1-0"]
+[ECO "B29"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rubinstein; Rubinstein counter-gambit"]
+[HashCode "990896bb"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 Nf6 3. e5 Nd5 4. Nc3 e6 5. Nxd5 exd5 6. d4 Nc6 7. dxc5 Bxc5
+8. Be2 d6 9. Qxd5 Be6 10. Qe4 dxe5 11. Nxe5 Nxe5 12. Qxe5 Qa5+ 13. Kf1 1-0
+

@@ -1,0 +1,22 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Fromm"]
+[Black "Roszner"]
+[Result "0-1"]
+[ECO "A28"]
+[Opening "English"]
+[Variation "four knights, Capablanca variation"]
+[HashCode "a0b5b818"]
+[Epoch "Rook"]
+
+1. c4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. d3 b6 5. g3 Bb7 6. Bg2 Nd4 7. O-O Nxf3+
+8. exf3 Bc5 9. Re1 Bd4 10. Nb5 O-O 11. f4 Bxg2 12. fxe5 Bxf2+ 13. Kxf2 Bb7
+14. Bg5 Ne4+ 15. Rxe4 Qxg5 16. Rf4 Qh6 17. Rh4 Qc6 18. b3 Qg2+ 19. Ke3 f6
+20. Qh5 h6 21. e6 dxe6 22. Nxc7 Rad8 23. Qe2 Qc6 24. Nb5 e5 25. Nc3 Qc5+
+26. Kd2 Rd7 27. Kc2 Rfd8 28. Rd1 Rd4 29. Rxd4 exd4 30. Qe6+ Kf8 31. Nb1 Re8
+32. Qg4 Bc8 33. Qf4 Bf5 34. g4 Bg6 35. h4 b5 36. Kb2 bxc4 37. dxc4 Re4 38.
+Qb8+ Kf7 39. Qb7+ Kg8 40. h5 Re2+ 41. Rd2 Qe5 42. Qb4 Bxb1 43. Rxe2 Qxe2+
+44. Kxb1 d3 0-1
+

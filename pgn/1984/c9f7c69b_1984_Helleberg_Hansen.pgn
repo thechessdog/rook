@@ -1,0 +1,20 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Helleberg, Jorgen"]
+[Black "Hansen, Soren Bech"]
+[Result "1/2-1/2"]
+[ECO "A46"]
+[Opening "Queen's pawn"]
+[Variation "Torre attack"]
+[HashCode "c9f7c69b"]
+[Epoch "Rook"]
+[WhiteID "1441396"]
+[WhiteCountry "DEN"]
+[BlackID "1400681"]
+[BlackCountry "DEN"]
+
+1. d4 Nf6 2. Nf3 e6 3. Bg5 b6 4. e3 Bb7 5. Bd3 c5 6. c3 Be7 7. Nbd2 d5 8. Ne5
+Nbd7 9. Bb5 O-O 10. Bxf6 Nxf6 11. Bc6 Qc7 12. Bxb7 Qxb7 13. O-O c4 14. f4 b5
+15. a3 a5 16. Qe2 Qc7 17. Qf3 Bd6 18. Ng4 Be7 19. Ne5 Bd6 1/2-1/2

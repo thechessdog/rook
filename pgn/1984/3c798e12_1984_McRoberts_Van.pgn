@@ -1,0 +1,18 @@
+[Event "corr SCO-NLD"]
+[Site "corr SCO-NLD"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "McRoberts"]
+[Black "Van der Kooij"]
+[Result "0-1"]
+[ECO "C69"]
+[Opening "Ruy Lopez"]
+[Variation "exchange variation, 5.O-O"]
+[HashCode "3c798e12"]
+[Epoch "Rook"]
+[BlackID "1011812"]
+[BlackCountry "NED"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O Bg4 6. d3 f6 7. Be3 Qd7 8.
+Nbd2 O-O-O 9. Qb1 h5 10. Nh4 Ne7 11. Nhf3 g5 12. Bxg5 fxg5 13. Nxe5 Qe6 14.
+Nef3 Bg7 15. Nc4 Bxf3 16. gxf3 Qh3 17. f4 gxf4 18. f3 Bd4+ 0-1

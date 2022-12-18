@@ -1,0 +1,18 @@
+[Event "Groningen"]
+[Site "Groningen"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Alexopoulos, Georgi"]
+[Black "Hoeksema, Hendrik Pieter"]
+[Result "1/2-1/2"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Paulsen attack"]
+[HashCode "8f370a8d"]
+[Epoch "Rook"]
+[BlackID "1000454"]
+[BlackCountry "NED"]
+
+1. e4 c5 2. c3 e6 3. d4 d5 4. e5 Nc6 5. Nf3 Qb6 6. a3 c4 7. g3 Bd7 8. Bh3 O-O-O
+9. Ng5 Nh6 10. Qf3 Be7 11. Qh5 Rdf8 12. O-O Na5 13. Nd2 Ba4 14. f4 Bc2 15. Rf2
+Bg6 16. Qe2 1/2-1/2

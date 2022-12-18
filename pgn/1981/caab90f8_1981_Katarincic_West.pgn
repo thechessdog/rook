@@ -1,0 +1,18 @@
+[Event "corr USA"]
+[Site "corr USA"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Katarincic"]
+[Black "West, W."]
+[Result "0-1"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, poisoned pawn variation"]
+[HashCode "caab90f8"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Qg4 Qc7 8.
+Bd3 cxd4 9. Ne2 dxc3 10. Qxg7 Rg8 11. Qxh7 Nbc6 12. f4 Qb6 13. Ng3 Bd7 14.
+Rf1 O-O-O 15. Qh3 Nd4 16. Ne2 Nxe2 17. Kxe2 Rh8 18. Qf3 Rxh2 19. Be3 d4 20.
+Bf2 Bc6 0-1
+

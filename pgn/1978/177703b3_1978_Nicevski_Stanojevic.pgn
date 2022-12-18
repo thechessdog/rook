@@ -1,0 +1,21 @@
+[Event "Yugoslavia"]
+[Site "Yugoslavia"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Nicevski, Risto"]
+[Black "Stanojevic, Branko"]
+[Result "0-1"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...g6"]
+[HashCode "177703b3"]
+[Epoch "Rook"]
+[BlackID "902560"]
+[BlackCountry "SRB"]
+[WhiteCountry "MKD"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 g6 6. Qb3 Bg7 7. cxd5 O-O 8.
+Nge2 b5 9. Qxb5 Ba6 10. Qb3 Nbd7 11. Nf4 Bxf1 12. Kxf1 Nb6 13. a4 Rb8 14. Qa2
+a5 15. h4 Qd7 16. h5 Rfd8 17. hxg6 hxg6 18. d6 e6 19. Nfe2 Nfd5 20. Bg5 Rdc8
+21. Nb5 Nxa4 22. Qxa4 Rxb5 23. Qa3 f6 24. Bd2 Rc2 25. Bc1 Nb4 26. Qg3 g5 27.
+Ra3 Rd5 28. Qh2 Qb5 0-1

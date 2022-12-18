@@ -1,0 +1,28 @@
+[Event "Reykjavik op"]
+[Site "Reykjavik"]
+[Date "1984.01.01"]
+[Round "5"]
+[White "Halldorsson, Bragi"]
+[Black "Taylor, Gordon"]
+[Result "0-1"]
+[ECO "E24"]
+[Opening "Nimzo-Indian"]
+[Variation "Saemisch variation"]
+[HashCode "6bb42c68"]
+[Epoch "Rook"]
+[WhiteID "2300907"]
+[WhiteCountry "ISL"]
+[BlackID "2600250"]
+[BlackCountry "CAN"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. a3 Bxc3+ 5. bxc3 c5 6. f3 Nh5 7. Nh3 f5 8. Bg5
+Qa5 9. Qd2 Nc6 10. g4 fxg4 11. fxg4 Nf6 12. Bxf6 gxf6 13. e3 b6 14. Be2 Bb7 15.
+O-O cxd4 16. exd4 h5 17. g5 fxg5 18. Qxg5 Ne7 19. Qxa5 bxa5 20. Bf3 Bxf3 21.
+Rxf3 Rb8 22. Nf2 Rb2 23. a4 Rg8+ 24. Kh1 Nf5 25. d5 Nh4 26. Rf4 Ng6 27. Rf3 Ne5
+28. Rf4 Rf8 29. Rxf8+ Kxf8 30. Rf1 Ke7 31. dxe6 Kxe6 32. Nh3 Ng4 33. Nf4+ Kd6
+34. h3 Ne3 35. c5+ Kc6 36. Rf3 Rb1+ 37. Kh2 Rb2+ 38. Kg1 Rb1+ 39. Kf2 Nd1+ 40.
+Ke2 Nb2 41. Nd3 Nxa4 42. Rf6+ Kb5 43. Rf7 Nxc3+ 44. Kd2 Ne4+ 45. Kc2 Rh1 46.
+Rxd7 Rh2+ 47. Kc1 Rxh3 48. Kc2 Nxc5 49. Nxc5 Kxc5 50. Rxa7 Kb4 51. Rb7+ Ka3 52.
+Rb1 a4 53. Ra1+ Kb4 54. Rf1 a3 55. Rf4+ Kc5 56. Kb1 Kd5 57. Ka2 Ke5 58. Ra4 h4
+59. Ra5+ Kf4 60. Ra4+ Kg3 61. Rxa3+ Kg2 62. Ra4 Rh1 63. Rb4 Rh2 64. Ka1 h3 65.
+Rb2+ Kg3 66. Rb3+ Kf4 67. Rb4+ Ke3 68. Rb8 Rd2 0-1

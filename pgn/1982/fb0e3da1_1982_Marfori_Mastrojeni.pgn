@@ -1,0 +1,19 @@
+[Event "corr Italy"]
+[Site "corr Italy"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Marfori"]
+[Black "Mastrojeni"]
+[Result "0-1"]
+[ECO "B99"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7...Be7 main line"]
+[HashCode "fb0e3da1"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8.
+Qf3 Qc7 9. O-O-O Nbd7 10. Qh3 b5 11. Re1 Bb7 12. e5 dxe5 13. fxe5 Nxe5 14.
+Nxe6 fxe6 15. Qxe6 Ng6 16. Bxf6 gxf6 17. Bd3 Ne5 18. Be4 Bxe4 19. Nxe4 Nd3+
+20. Kb1 Nxe1 21. Rxe1 Kf8 22. Rf1 Kg7 23. Nxf6 Rhf8 24. Nh5+ Kh8 25. Re1
+Bh4 26. g3 Qe7 0-1
+

@@ -1,0 +1,17 @@
+[Event "corr Volmac"]
+[Site "corr Volmac"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Bergraser, Volf"]
+[Black "Backlund, A."]
+[Result "1/2-1/2"]
+[ECO "E65"]
+[Opening "King's Indian"]
+[Variation "fianchetto, Yugoslav, 7.O-O"]
+[HashCode "293e8a21"]
+[Epoch "Rook"]
+[WhiteCountry "FRA"]
+
+1. d4 Nf6 2. Nf3 g6 3. g3 Bg7 4. Bg2 O-O 5. O-O d6 6. c4 c5 7. Nc3 Nc6 8. h3
+Bd7 9. Be3 Qc8 10. dxc5 dxc5 11. Kh2 Rd8 12. Qc1 Nd4 13. Rd1 Bc6 14. Nxd4 cxd4
+15. Bxd4 Bxg2 16. Kxg2 Qxc4 17. e3 Qc6+ 18. Kg1 Qe6 19. Kg2 1/2-1/2

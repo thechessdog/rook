@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Lucas"]
+[Black "Coppens"]
+[Result "0-1"]
+[ECO "C34"]
+[Opening "KGA"]
+[Variation "Fischer defence"]
+[HashCode "958642fc"]
+[Epoch "Rook"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 d6 4. Bc4 Be6 5. Bxe6 fxe6 6. d4 Qf6 7. O-O Nc6
+8. d5 Nd8 9. dxe6 Nxe6 10. Nc3 Ne7 11. Nd5 Nxd5 12. exd5 Nc5 13. Nd4 g5 14.
+c3 Bg7 15. Re1+ 0-1
+

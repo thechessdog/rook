@@ -1,0 +1,21 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Chikovani, Yuri"]
+[Black "Zaichik, Gennadi"]
+[Result "0-1"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "5999f926"]
+[Epoch "Rook"]
+[BlackID "13600109"]
+[BlackCountry "USA"]
+
+1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. d4 cxd4 5. Nf3 Nc6 6. cxd4 d6 7. Bc4 dxe5 8.
+Bxd5 Qxd5 9. Nc3 Qd6 10. d5 Nd4 11. Nxd4 exd4 12. Qxd4 e5 13. Qe4 Be7 14. O-O
+f5 15. Qe2 O-O 16. Nb5 Qf6 17. f4 Bd7 18. a4 a6 19. Na3 Rfe8 20. Qc4 Bd6 21.
+fxe5 Rxe5 22. Bd2 Rc8 23. Qd3 Qf7 24. Qg3 Rxd5 25. Bf4 Bc5+ 26. Kh1 Bd4 27. Qb3
+Be6 28. Rac1 Rxc1 29. Rxc1 Rc5 30. Qb4 Rxc1+ 31. Bxc1 Qc7 32. Bd2 Be5 33. h3
+Bd5 0-1

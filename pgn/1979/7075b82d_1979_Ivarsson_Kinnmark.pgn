@@ -1,0 +1,19 @@
+[Event "Sweden"]
+[Site "Sweden"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Ivarsson, Stefan"]
+[Black "Kinnmark, Ove"]
+[Result "0-1"]
+[ECO "A45"]
+[Opening "Trompovsky attack (Ruth, Opovcensky opening)"]
+[HashCode "7075b82d"]
+[Epoch "Rook"]
+[WhiteID "1700286"]
+[WhiteCountry "SWE"]
+[BlackCountry "SWE"]
+
+1. d4 Nf6 2. Bg5 g6 3. Bxf6 exf6 4. e3 Bg7 5. g3 O-O 6. Bg2 d6 7. Ne2 c6 8. O-O
+Re8 9. c4 Nd7 10. Nbc3 f5 11. b4 Nf6 12. Qd3 Qe7 13. c5 d5 14. b5 Ne4 15. a4 a5
+16. bxa6 Rxa6 17. Rfb1 h5 18. h4 g5 19. hxg5 Qxg5 20. Nf4 h4 21. Nh3 Qh6 22.
+gxh4 Qxh4 23. Ne2 Bh6 24. Nef4 Bxf4 25. exf4 Re6 26. Bxe4 fxe4 27. Qe3 Rh6 0-1

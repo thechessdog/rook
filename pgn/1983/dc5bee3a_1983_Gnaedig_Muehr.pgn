@@ -1,0 +1,19 @@
+[Event "corr DDR/FS"]
+[Site "corr DDR/FS"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Gnaedig"]
+[Black "Muehr"]
+[Result "1-0"]
+[ECO "E55"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Gligoric system, Bronstein variation"]
+[HashCode "dc5bee3a"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 c5 7. O-O dxc4 8.
+Bxc4 Nbd7 9. Qe2 a6 10. a3 cxd4 11. exd4 Be7 12. Rd1 b5 13. Bb3 Bb7 14. Ne5
+Qc7 15. Bg5 h6 16. Bh4 Bd6 17. Bg3 Nb6 18. Rac1 Rac8 19. Qe1 Qb8 20. f3 Nh5
+21. Ne2 Rcd8 22. Nc3 Nxg3 23. Qxg3 Bxe5 24. dxe5 Ba8 25. Ne2 Rxd1+ 26. Rxd1
+Rd8 27. Rd6 g5 28. h4 Kg7 29. hxg5 h5 30. g6 Rxd6 31. exd6 Nd7 32. Nf4 1-0
+

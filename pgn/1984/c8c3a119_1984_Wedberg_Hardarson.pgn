@@ -1,0 +1,20 @@
+[Event "Neskaupsstadur"]
+[Site "Neskaupsstadur"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Wedberg, Tom"]
+[Black "Hardarson, Robert"]
+[Result "1-0"]
+[ECO "C80"]
+[Opening "Ruy Lopez"]
+[Variation "open, 8...Be6"]
+[HashCode "c8c3a119"]
+[Epoch "Rook"]
+[WhiteID "1700073"]
+[WhiteCountry "SWE"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Be6 9. Be3 Be7 10. c3 O-O 11. Nbd2 Bg4 12. Nxe4 dxe4 13. Qd5 exf3 14. Qxc6 Qc8
+15. gxf3 Bd7 16. Qe4 Bf5 17. Qf4 Be6 18. Qg3 Kh8 19. Bc2 Bf5 20. Be4 Bxe4 21.
+fxe4 f6 22. f4 fxe5 23. f5 Bf6 24. Rf3 Qd7 25. Qg4 g6 26. Kh1 Bg7 27. Rh3 gxf5
+28. Qh5 Bf6 29. Rd1 1-0

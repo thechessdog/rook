@@ -1,0 +1,20 @@
+[Event "AUT-ch"]
+[Site "AUT"]
+[Date "1979.??.??"]
+[Round "12"]
+[White "Roth, Peter"]
+[Black "Nagel, Herbert"]
+[Result "1-0"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Lipnitzky attack"]
+[HashCode "d6aa22b9"]
+[Epoch "Rook"]
+[WhiteID "1600281"]
+[BlackID "1600613"]
+[WhiteCountry "AUT"]
+[BlackCountry "AUT"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 Be7 8. Qe2
+O-O 9. Be3 b5 10. f3 Qc7 11. g4 Bb7 12. g5 Nh5 13. f4 g6 14. f5 b4 15. Nxe6
+fxe6 16. Bxe6+ Kh8 17. Bd4+ Bf6 18. gxf6 bxc3 19. Qxh5 Nc6 20. fxg6 1-0

@@ -1,0 +1,22 @@
+[Event "Hillerod"]
+[Site "Hillerod"]
+[Date "1980.01.01"]
+[Round "5"]
+[White "Reinert, Mads"]
+[Black "Jensen, Allan"]
+[Result "1-0"]
+[ECO "C34"]
+[Opening "KGA"]
+[Variation "Schallop defence"]
+[HashCode "88688cf8"]
+[Epoch "Rook"]
+[WhiteID "1400487"]
+[WhiteCountry "DEN"]
+[BlackID "1401181"]
+[BlackCountry "DEN"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 Nf6 4. e5 Nh5 5. Be2 d5 6. O-O Nc6 7. d4 Bg4 8. Ne1
+Bxe2 9. Qxe2 Qh4 10. c3 O-O-O 11. Nd3 g5 12. Nd2 Ng7 13. b4 Ne6 14. Nc5 Bxc5
+15. bxc5 g4 16. Rb1 f3 17. Qb5 Nf4 18. Nxf3 gxf3 19. Bxf4 Qxf4 20. Rxf3 Qe4 21.
+Qxb7+ Kd7 22. Rxf7+ Ne7 23. Qb5+ Kc8 24. Rxe7 Qxb1+ 25. Qxb1 Rde8 26. c6 Rxe7
+27. Qb7+ Kd8 28. Qb8# 1-0

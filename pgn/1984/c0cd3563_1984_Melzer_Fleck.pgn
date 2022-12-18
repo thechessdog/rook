@@ -1,0 +1,19 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Melzer, G."]
+[Black "Fleck, Juergen"]
+[Result "1-0"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack"]
+[HashCode "c0cd3563"]
+[Epoch "Rook"]
+[BlackID "4600614"]
+[BlackCountry "GER"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 O-O 6. Be2 c5 7. dxc5 Qa5 8. O-O
+Qxc5+ 9. Kh1 b5 10. e5 dxe5 11. fxe5 Ng4 12. Qd5 Qb6 13. Bg5 e6 14. Qe4 f5 15.
+exf6 Nxf6 16. Qxa8 Bb7 17. Be3 Qxe3 18. Qxb7 Ng4 19. Qe4 Nf2+ 20. Rxf2 Qxf2 21.
+Qxe6+ 1-0

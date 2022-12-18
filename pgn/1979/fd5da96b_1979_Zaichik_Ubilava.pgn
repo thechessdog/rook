@@ -1,0 +1,24 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Zaichik, Gennadi"]
+[Black "Ubilava, Elizbar"]
+[Result "1-0"]
+[ECO "E06"]
+[Opening "Catalan"]
+[Variation "closed, 5.Nf3"]
+[HashCode "fd5da96b"]
+[Epoch "Rook"]
+[WhiteID "13600109"]
+[BlackID "13600052"]
+[WhiteCountry "USA"]
+[BlackCountry "ESP"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Bg2 Be7 5. Nf3 O-O 6. O-O c6 7. Nc3 b6 8. b3 Ba6
+9. Nd2 Nbd7 10. Bb2 Rc8 11. e4 dxc4 12. Nxc4 b5 13. Ne3 c5 14. d5 b4 15. Ne2
+Nb6 16. Re1 exd5 17. exd5 c4 18. bxc4 Bxc4 19. Nd4 Qd7 20. Nc6 Bd8 21. Nxd8
+Qxd8 22. Nf5 Re8 23. Rxe8+ Nxe8 24. Qg4 h5 25. Qxh5 Bd3 26. Re1 Bxf5 27. Qxf5
+Nc4 28. Ba1 Ncd6 29. Qg4 a5 30. Bf1 Nf6 31. Qg5 Nfe8 32. Qg4 Nf6 33. Qg5 Nfe8
+34. Qe5 Rc2 35. Bd3 Rd2 36. Bb1 Nf6 37. Qg5 Rxf2 38. Qh4 Nf5 39. Bxf5 Rg2+ 40.
+Kh1 Re2 41. Rxe2 1-0

@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Sayovits"]
+[Black "Montanelli"]
+[Result "1-0"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Adams attack"]
+[HashCode "5c96c0fb"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. h3 b5 7. Nd5 Nxd5 8.
+exd5 Bb7 9. c4 bxc4 10. Bxc4 g6 11. O-O Bg7 12. Re1 O-O 13. Bg5 Re8 14. Rc1
+Nd7 15. Nc6 Bxc6 16. dxc6 Nf6 17. c7 Qd7 18. Qe2 1-0
+

@@ -1,0 +1,22 @@
+[Event "Buenos Aires ol (Men)"]
+[Site "Buenos Aires olm"]
+[Date "1978.10.01"]
+[Round "1"]
+[White "Borik, Otto"]
+[Black "Tarjan, James"]
+[Result "0-1"]
+[ECO "B51"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky (Nimzovich-Rossolimo, Moscow) attack"]
+[HashCode "6a6aaf7f"]
+[Epoch "Rook"]
+[WhiteID "4600762"]
+[WhiteCountry "GER"]
+[BlackID "2000180"]
+[BlackCountry "USA"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Nc6 4. O-O Bd7 5. c3 Nf6 6. Re1 a6 7. Bf1 e5 8. h3
+Be7 9. d4 Qc7 10. Nbd2 b5 11. a4 Rb8 12. d5 Na5 13. axb5 axb5 14. b4 Nb7 15.
+Bb2 c4 16. Ra7 O-O 17. Qa1 Qc8 18. Qa6 Ne8 19. Ra1 Nc7 20. Qa2 f5 21. exf5 Bxf5
+22. g4 Bg6 23. Re1 Nxd5 24. Nxc4 bxc4 25. Nxe5 Bh4 26. Nxg6 Bxf2+ 27. Kh1 hxg6
+28. Re4 Ne3 29. Rxc4 Nxc4 30. Bxc4+ Kh7 31. Bd5 Qe8 0-1

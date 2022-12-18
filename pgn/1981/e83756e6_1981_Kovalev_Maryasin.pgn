@@ -1,0 +1,24 @@
+[Event "Sokolsky mem"]
+[Site "Minsk"]
+[Date "1981.??.??"]
+[Round "1"]
+[White "Kovalev, Andrei"]
+[Black "Maryasin, Boris"]
+[Result "0-1"]
+[ECO "B64"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...Be7 defence, 9.f4"]
+[HashCode "e83756e6"]
+[Epoch "Rook"]
+[WhiteID "13500023"]
+[BlackID "2801892"]
+[WhiteCountry "BLR"]
+[BlackCountry "ISR"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 e6 7. Qd2 Be7 8.
+O-O-O O-O 9. f4 h6 10. Bxf6 Bxf6 11. Nxc6 bxc6 12. Qxd6 Qb6 13. Qd3 Rb8 14. b3
+Rd8 15. Qf3 Bd4 16. Be2 Qa5 17. Na4 c5 18. c3 Bd7 19. cxd4 Bxa4 20. Kb1 cxd4
+21. Bc4 Qb4 22. Qd3 Bc6 23. Rc1 Rb6 24. Rhe1 a5 25. f5 exf5 26. exf5 a4 27. f6
+axb3 28. axb3 Bb5 29. Re3 Bxc4 30. Rxc4 Qxc4 31. Re8+ Rxe8 32. Qxc4 Rd6 33. Kc2
+d3+ 34. Kd2 g6 35. Qf4 Re2+ 36. Kd1 Ree6 37. Qxh6 Rxf6 38. Qe3 d2 39. Qe8+ Kh7
+40. Qb5 Rfe6 0-1

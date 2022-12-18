@@ -1,0 +1,21 @@
+[Event "Palermo"]
+[Site "Palermo"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Lagumina"]
+[Black "Martorelli"]
+[Result "1-0"]
+[ECO "B23"]
+[Opening "Sicilian"]
+[Variation "closed, Korchnoi variation"]
+[HashCode "4a639a23"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nc3 e6 3. g3 d5 4. Bg2 Nf6 5. e5 Nfd7 6. f4 g5 7. d3 Nc6 8. Qh5
+Nd4 9. Nf3 Nxc2+ 10. Kd1 Nxa1 11. Nxg5 Qe7 12. Nb5 Nb6 13. f5 Kd7 14. Nxf7
+Rg8 15. f6 Qe8 16. Qxh7 Kc6 17. Qxg8 Bd7 18. Nc3 Kc7 19. Bf4 d4 20. Ne4
+Ba4+ 21. Kc1 Qb5 22. Qh7 Nb3+ 23. axb3 Qxb3 24. Nfd6+ Nd7 25. Kb1 Qc2+ 26.
+Ka1 Qxg2 27. Rc1 Bxd6 28. exd6+ Kb6 29. Nxc5 Nxc5 30. Qc7+ Ka6 31. Qxc5 e5
+32. Qa3 b5 33. Bxe5 Qd5 34. Qc5 Bb3 35. Qxd5 Bxd5 36. Rf1 Bb7 37. Bxd4 Re8
+38. d7 Rf8 39. Bc5 Rd8 40. f7 1-0
+

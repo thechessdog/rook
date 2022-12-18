@@ -1,0 +1,18 @@
+[Event "corr SCO-NLD"]
+[Site "corr SCO-NLD"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Boyle, C."]
+[Black "Mathieu, P."]
+[Result "1-0"]
+[ECO "B72"]
+[Opening "Sicilian"]
+[Variation "dragon, classical attack"]
+[HashCode "3f7e2c77"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be2 Bg7 7. Be3 O-O
+8. O-O Nc6 9. Kh1 Bd7 10. f4 Re8 11. Bf3 Qb6 12. e5 dxe5 13. fxe5 Nxe5 14.
+Nf5 Qxb2 15. Nxg7 Kxg7 16. Bd4 Nxf3 17. Qxf3 Bf5 18. g4 Bd7 19. Rab1 Qa3
+20. Rxb7 Kg8 21. Rxd7 1-0
+

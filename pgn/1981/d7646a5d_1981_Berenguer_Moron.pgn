@@ -1,0 +1,18 @@
+[Event "corr Spain"]
+[Site "corr Spain"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Berenguer"]
+[Black "Moron"]
+[Result "1-0"]
+[ECO "C41"]
+[Opening "Philidor"]
+[Variation "Nimzovich, Sokolsky variation"]
+[HashCode "d7646a5d"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 d6 3. d4 Nf6 4. dxe5 Nxe4 5. Nbd2 Nc5 6. Nc4 d5 7. Ne3 Be6
+8. c4 c6 9. cxd5 cxd5 10. Bb5+ Nc6 11. Nd4 Qc7 12. O-O Be7 13. f4 O-O-O 14.
+b4 Nxb4 15. Ba3 Nc6 16. Rc1 Nxd4 17. Qxd4 b6 18. f5 a6 19. Bxa6+ Kd7 20.
+fxe6+ Kxe6 21. Qg4+ 1-0
+

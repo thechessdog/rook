@@ -1,0 +1,18 @@
+[Event "FIDE (31) 1979-1981"]
+[Site "Riga izt"]
+[Date "1979.09.01"]
+[Round "16"]
+[White "Ribli, Zoltan"]
+[Black "Polugaevsky, Lev"]
+[Result "1/2-1/2"]
+[ECO "E18"]
+[Opening "Queen's Indian"]
+[Variation "old main line, 7.Nc3"]
+[HashCode "0165221c"]
+[Epoch "Rook"]
+[WhiteID "700010"]
+[WhiteCountry "HUN"]
+[BlackCountry "BLR"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2 Be7 6. O-O O-O 7. Nc3 Ne4 8. Nxe4
+Bxe4 9. Ne1 d5 1/2-1/2

@@ -1,0 +1,21 @@
+[Event "Thessaloniki olm"]
+[Site "Thessaloniki olm"]
+[Date "1984.11.01"]
+[Round "1"]
+[White "Schmidt, Wlodzimierz"]
+[Black "Zapata, Alonso"]
+[Result "1/2-1/2"]
+[ECO "E86"]
+[Opening "King's Indian"]
+[Variation "Saemisch, orthodox, 7.Nge2 c6"]
+[HashCode "b90abcf4"]
+[Epoch "Rook"]
+[WhiteID "1100041"]
+[BlackID "4400011"]
+[WhiteCountry "POL"]
+[BlackCountry "COL"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 O-O 5. Be3 d6 6. f3 e5 7. Nge2 c6 8. Qd2
+Nbd7 9. d5 cxd5 10. Nxd5 Nxd5 11. Qxd5 Nf6 12. Qd2 Be6 13. Nc3 Qa5 14. Rc1 Rfc8
+15. b3 Nd7 16. Be2 a6 17. Nd5 Qxd2+ 18. Kxd2 Bxd5 19. cxd5 Bf6 20. Rxc8+ Rxc8
+21. Rc1 Rxc1 22. Kxc1 Bd8 23. b4 Bb6 24. Bd2 Kf8 1/2-1/2

@@ -1,0 +1,17 @@
+[Event "corr DDR-M"]
+[Site "corr DDR-M"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Jarosczinsky, E."]
+[Black "Otte, H."]
+[Result "1-0"]
+[ECO "C07"]
+[Opening "French"]
+[Variation "Tarrasch, open variation"]
+[HashCode "55d9c9a8"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. Ngf3 Nf6 5. exd5 Nxd5 6. Nb3 Nd7 7. Bd2 cxd4
+8. Nfxd4 b6 9. Qf3 Qf6 10. Be2 Bb7 11. c4 Bc5 12. Nb5 a6 13. Nxc5 Nxc5 14.
+Nd6+ Ke7 15. Nxb7 Qxb2 16. Rd1 Qxa2 17. cxd5 1-0
+

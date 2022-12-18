@@ -1,0 +1,23 @@
+[Event "Elekes mem-B"]
+[Site "Budapest"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Hardicsay, Peter"]
+[Black "Boensch, Uwe"]
+[Result "0-1"]
+[ECO "A67"]
+[Opening "Benoni"]
+[Variation "Taimanov variation"]
+[HashCode "d0d2d4c4"]
+[Epoch "Rook"]
+[WhiteID "700622"]
+[WhiteCountry "HUN"]
+[BlackID "4611268"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 c5 4. d5 exd5 5. cxd5 d6 6. e4 g6 7. f4 Bg7 8. Bb5+
+Nfd7 9. a4 O-O 10. Nf3 Na6 11. O-O Nc7 12. Bc4 Nb6 13. Bd3 Bg4 14. h3 Bxf3 15.
+Qxf3 Na6 16. a5 Nd7 17. e5 dxe5 18. f5 Nb4 19. Be4 Nf6 20. Be3 Rc8 21. g4 Qd7
+22. Rad1 b6 23. axb6 axb6 24. g5 Nxe4 25. Qxe4 f6 26. fxg6 f5 27. gxh7+ Kh8 28.
+Qg2 f4 29. Bc1 Qf5 30. Ne4 Rcd8 31. d6 Nc6 32. Ng3 Qxg5 33. Qxc6 Qxg3+ 34. Qg2
+Qxg2+ 35. Kxg2 Rf6 36. d7 Rf7 37. Rd6 Rfxd7 38. Rxb6 Rd1 0-1

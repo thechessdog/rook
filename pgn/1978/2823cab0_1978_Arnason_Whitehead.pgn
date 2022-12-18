@@ -1,0 +1,25 @@
+[Event "Lone Pine open"]
+[Site "Lone Pine open"]
+[Date "1978.04.01"]
+[Round "7"]
+[White "Arnason, Asgeir T"]
+[Black "Whitehead, Jay E"]
+[Result "0-1"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (without ...d6)"]
+[HashCode "2823cab0"]
+[Epoch "Rook"]
+[WhiteID "2300427"]
+[WhiteCountry "ISL"]
+[BlackCountry "USA"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 d6 4. O-O Bg4 5. c3 Nf6 6. d4 Qb6 7. Na3 a6 8. Ba4
+cxd4 9. cxd4 Bxf3 10. Qxf3 Qxd4 11. Bxc6+ bxc6 12. e5 Ne4 13. exd6 exd6 14. Nc2
+Qc4 15. Ne3 Qe6 16. Re1 g6 17. Ng4 f5 18. Nf6+ Qxf6 19. Rxe4+ Be7 20. Re2 d5
+21. Bd2 Kf7 22. Rae1 Rhe8 23. Bc3 d4 24. Re6 dxc3 25. Rxf6+ Bxf6 26. Rb1 cxb2
+27. g4 fxg4 28. Qb3+ Kg7 29. Rxb2 Bxb2 30. Qxb2+ Kh6 31. Qc1+ Kh5 32. Qxc6 Rf8
+33. Qd7 Kh6 34. Qxg4 Rf6 35. Qh3+ Kg7 36. Qd7+ Kh8 37. Qd5 Raf8 38. Qd4 h5 39.
+Qd3 Kh7 40. Qd7+ R8f7 41. Qd3 a5 42. Qd8 a4 43. Qd4 Rf4 44. Qd1 h4 45. Qd8 R7f6
+46. Qd1 a3 47. Qd7+ Kh6 48. Qd2 g5 49. Qd8 Rxf2 50. Qh8+ Kg6 51. Qg8+ Kh5 52.
+Qe8+ Kg4 53. Qd7+ R6f5 54. Qa4+ Kh3 55. Qd7 Rf1# 0-1

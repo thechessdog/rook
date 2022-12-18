@@ -1,0 +1,16 @@
+[Event "Italy"]
+[Site "Italy"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Carta"]
+[Black "Cassano"]
+[Result "0-1"]
+[ECO "C35"]
+[Opening "KGA"]
+[Variation "Cunningham defence"]
+[HashCode "5d44f436"]
+[Epoch "Rook"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 Be7 4. Bc4 Bh4+ 5. Nxh4 Qxh4+ 6. g3 fxg3 7. O-O
+Qxh2# 0-1
+

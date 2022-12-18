@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Mateo"]
+[Black "Riera"]
+[Result "1-0"]
+[ECO "B87"]
+[Opening "Sicilian"]
+[Variation "Sozin with ...a6 and ...b5"]
+[HashCode "585dc8ca"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 b5 8.
+a3 Bb7 9. Qe2 Nbd7 10. f3 Nc5 11. Bg5 Nxb3 12. Nxb3 Be7 13. h4 h6 14. Be3
+d5 15. O-O-O b4 16. axb4 Bxb4 17. Na4 Be7 18. g4 h5 19. Nb6 hxg4 20. Nxa8
+gxf3 21. Qxf3 Qxa8 22. Rhf1 dxe4 23. Qg2 g6 24. Bd4 Bd5 25. Bxf6 Bxf6 26.
+Rxf6 Rxh4 27. Rdf1 Rh7 28. Rxf7 Rxf7 29. Qxg6 e5 30. Qg8+ Ke7 31. Rxf7+ 1-0
+

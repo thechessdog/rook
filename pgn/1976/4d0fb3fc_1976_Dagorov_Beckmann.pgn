@@ -1,0 +1,16 @@
+[Event "Bulgaria"]
+[Site "Bulgaria"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Dagorov"]
+[Black "Beckmann"]
+[Result "1-0"]
+[ECO "B06"]
+[Opening "Robatsch defence"]
+[Variation "Pseudo-Austrian attack"]
+[HashCode "4d0fb3fc"]
+[Epoch "Rook"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. f4 c6 5. a4 Qb6 6. Nf3 Bg4 7. a5 Bxf3 8.
+axb6 Bxd1 9. Rxa7 1-0
+

@@ -1,0 +1,21 @@
+[Event "IBM-B"]
+[Site "Amsterdam II"]
+[Date "1978.07.01"]
+[Round "7"]
+[White "Ligterink, Gert"]
+[Black "Borm, Franciscus WM"]
+[Result "1-0"]
+[ECO "D66"]
+[Opening "QGD"]
+[Variation "Orthodox defence, Bd3 line"]
+[HashCode "7d66a7cc"]
+[Epoch "Rook"]
+[WhiteID "1000179"]
+[WhiteCountry "NED"]
+[BlackCountry "NLD"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Bg5 Be7 5. e3 O-O 6. Rc1 Nbd7 7. Nf3 c6 8. Bd3
+h6 9. Bh4 dxc4 10. Bxc4 b5 11. Bd3 Bb7 12. O-O a6 13. a4 b4 14. Bxf6 Nxf6 15.
+Ne4 Nxe4 16. Bxe4 Rc8 17. Ne5 Bd6 18. f4 f5 19. Bxc6 Bxc6 20. Nxc6 Qb6 21. Qf3
+Kh8 22. Rc4 Rc7 23. Rfc1 Rfc8 24. b3 Bf8 25. Ne5 Kg8 26. Rxc7 Rxc7 27. Rxc7
+Qxc7 28. Qc6 Qxc6 29. Nxc6 Bd6 30. Nd8 1-0

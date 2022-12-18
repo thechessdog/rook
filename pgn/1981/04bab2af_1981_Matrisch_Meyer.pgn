@@ -1,0 +1,17 @@
+[Event "corr FSM/BRD"]
+[Site "corr FSM/BRD"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Matrisch, G."]
+[Black "Meyer, K."]
+[Result "0-1"]
+[ECO "A65"]
+[Opening "Benoni"]
+[Variation "6.e4"]
+[HashCode "04bab2af"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. Bd3 Bg7 8.
+Nge2 O-O 9. O-O b6 10. f4 Re8 11. Ng3 Ng4 12. Qf3 Bd4+ 13. Kh1 Nxh2 14.
+Kxh2 Qh4# 0-1
+

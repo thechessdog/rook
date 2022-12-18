@@ -1,0 +1,17 @@
+[Event "corr ch-DDR"]
+[Site "corr ch-DDR"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Muller, Hans P"]
+[Black "Schutz"]
+[Result "1-0"]
+[ECO "A00"]
+[Opening "Dunst (Sleipner, Heinrichsen) opening"]
+[HashCode "3c6abbb5"]
+[Epoch "Rook"]
+[WhiteID "3223167"]
+[WhiteCountry "AUS"]
+
+1. Nc3 d5 2. e3 e5 3. Nf3 e4 4. Ne5 Nf6 5. d3 Bd6 6. f4 exf3 7. Nxf3 Bd7 8. Bd2
+O-O 9. Be2 c5 10. O-O Qc7 11. Qe1 h6 12. Qh4 Bc6 13. e4 dxe4 14. dxe4 Re8 15.
+Bxh6 Nxe4 16. Qg4 f5 17. Bc4+ Kh8 18. Qg6 Bxh2+ 19. Nxh2 Nd6 20. Bf4 1-0

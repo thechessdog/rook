@@ -1,0 +1,19 @@
+[Event "Regionalliga Nord"]
+[Site "RLN 8182"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Brodhuhn, CP."]
+[Black "Kuever, M."]
+[Result "0-1"]
+[ECO "B98"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Browne variation"]
+[HashCode "b3c690e5"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 h6 8. Bh4
+Be7 9. Qf3 Qc7 10. O-O-O Nbd7 11. Bd3 g5 12. e5 gxh4 13. exf6 Nxf6 14. Rhe1 Bd7
+15. Re3 O-O-O 16. Bxa6 bxa6 17. Qa8+ Qb8 18. Qxa6+ Qb7 19. Qa5 d5 20. Ncb5 Bxb5
+21. Nxb5 Kd7 22. Qa4 Ra8 23. Na7+ Kd8 24. Nc6+ Ke8 25. Rb3 Rxa4 26. Rxb7 Bd6
+27. Rd3 Bxf4+ 28. Kd1 Nd7 29. Rdb3 Rxa2 30. Ra3 Rxa3 31. bxa3 Rg8 32. a4 Rxg2
+33. Ra7 Nc5 34. a5 Rg1+ 35. Ke2 Ra1 36. Nb4 Bxh2 37. a6 0-1

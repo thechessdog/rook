@@ -1,0 +1,20 @@
+[Event "Wch U20"]
+[Site "Dortmund"]
+[Date "1980.??.??"]
+[Round "11"]
+[White "Sequeira, Joao F A"]
+[Black "Tavares, Shawn P"]
+[Result "1/2-1/2"]
+[ECO "B87"]
+[Opening "Sicilian"]
+[Variation "Sozin with ...a6 and ...b5"]
+[HashCode "9d0e2407"]
+[Epoch "Rook"]
+[BlackID "7700016"]
+[BlackCountry "ENG"]
+[WhiteID "1900145"]
+[WhiteCountry "POR"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 b5 8. O-O
+Bb7 9. Re1 Nbd7 10. f4 Nc5 11. e5 dxe5 12. fxe5 Nxb3 13. axb3 Bc5 14. Be3 Nd5
+15. Nxd5 Qxd5 16. Nf3 O-O-O 1/2-1/2

@@ -1,0 +1,21 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Khalifman, Alexander"]
+[Black "Malishev, Vasily"]
+[Result "0-1"]
+[ECO "C03"]
+[Opening "French"]
+[Variation "Tarrasch"]
+[HashCode "ae80e5c0"]
+[Epoch "Rook"]
+[WhiteID "4100115"]
+[WhiteCountry "RUS"]
+
+1. e4 e6 2. d4 d5 3. Nd2 a6 4. Ngf3 c5 5. dxc5 Bxc5 6. Bd3 Nc6 7. O-O Nge7 8.
+Qe2 O-O 9. Nb3 Ba7 10. Bg5 Qc7 11. Rad1 Ng6 12. Rfe1 Nf4 13. Qd2 Nxd3 14. Qxd3
+dxe4 15. Rxe4 f6 16. Rh4 g6 17. Bf4 e5 18. Bh6 Re8 19. Re4 Bf5 20. Qc4+ Qf7 21.
+Qxf7+ Kxf7 22. Rc4 g5 23. h4 Be6 24. Re4 g4 25. Ne1 Rad8 26. Rxd8 Rxd8 27. Nd3
+Bf5 28. Rc4 g3 29. Nbc5 b5 30. Rc3 e4 31. Nb7 Rd5 32. Rxc6 exd3 33. Nd6+ Kg6
+34. Nxf5 Rxf5 0-1

@@ -1,0 +1,20 @@
+[Event "corr SWE/K tt"]
+[Site "corr SWE/K tt"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Holst, Conny"]
+[Black "Thapper, Roland"]
+[Result "0-1"]
+[ECO "E00"]
+[Opening "Catalan opening"]
+[HashCode "3b6e1a99"]
+[Epoch "Rook"]
+[WhiteID "1701428"]
+[BlackID "1735934"]
+[WhiteCountry "SWE"]
+[BlackCountry "SWE"]
+
+1. d4 Nf6 2. c4 e6 3. g3 c5 4. Nf3 cxd4 5. Nxd4 Qc7 6. Bg2 Bb4+ 7. Nc3 Qxc4 8.
+O-O O-O 9. Bg5 Bxc3 10. bxc3 Nd5 11. e3 h6 12. Bxh6 f6 13. Bf4 Nxc3 14. Qh5 Nc6
+15. Bd6 Rf7 16. Nf3 Qd3 17. Bc5 d6 18. Nh4 g5 19. e4 gxh4 20. Be3 Kf8 21. Rad1
+Qb5 0-1

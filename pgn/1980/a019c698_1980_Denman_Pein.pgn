@@ -1,0 +1,22 @@
+[Event "Brighton ch-BCF"]
+[Site "Brighton ch-BCF"]
+[Date "1980.08.01"]
+[Round "5"]
+[White "Denman, Brian"]
+[Black "Pein, Malcolm"]
+[Result "0-1"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, dragon formation"]
+[HashCode "a019c698"]
+[Epoch "Rook"]
+[BlackID "400289"]
+[BlackCountry "ENG"]
+[WhiteID "2400316"]
+[WhiteCountry "SCO"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 c5 6. e5 Nfd7 7. e6 fxe6 8. Ng5
+Nf6 9. dxc5 d5 10. Bb5+ Nc6 11. Qe2 d4 12. Nce4 Nxe4 13. Nxe4 e5 14. fxe5 O-O
+15. Qc4+ Kh8 16. Bxc6 bxc6 17. Ng5 e6 18. h4 Bxe5 19. h5 Bg3+ 20. Kd1 e5 21.
+hxg6 Bg4+ 22. Nf3 h5 23. Bh6 Rf6 24. Qd3 Qe8 25. g7+ Kg8 26. Bg5 e4 27. Qc4+
+Qe6 28. Qxd4 exf3 0-1

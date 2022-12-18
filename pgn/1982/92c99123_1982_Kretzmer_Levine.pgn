@@ -1,0 +1,17 @@
+[Event "corr USCCC"]
+[Site "corr USCCC"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Kretzmer, B."]
+[Black "Levine, A."]
+[Result "1/2-1/2"]
+[ECO "D86"]
+[Opening "Gruenfeld"]
+[Variation "exchange, classical variation"]
+[HashCode "92c99123"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Bc4 Nc6
+8. Ne2 Na5 9. Bb3 c5 10. Be3 Nxb3 11. axb3 cxd4 12. Bxd4 Bxd4 13. Qxd4 Qxd4
+14. Nxd4 Bd7 15. O-O e5 16. Nc2 Bc6 17. f3 Ke7 18. Nb4 Rhc8 19. c4 1/2-1/2
+

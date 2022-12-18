@@ -1,0 +1,16 @@
+[Event "corr ch16-SU"]
+[Site "corr ch16-SU"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Tsamriuk, A."]
+[Black "Zelinsky, Yuri"]
+[Result "1/2-1/2"]
+[ECO "E11"]
+[Opening "Bogo-Indian defence, Gruenfeld variation"]
+[HashCode "b5ad0d2e"]
+[Epoch "Rook"]
+[BlackID "2804360"]
+[BlackCountry "ISR"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 Bb4+ 4. Nbd2 d5 5. e3 O-O 6. a3 Be7 7. Bd3 b6 8. b3
+c5 9. Bb2 Bb7 10. O-O Qc7 11. Qe2 Ne4 12. Rfd1 1/2-1/2

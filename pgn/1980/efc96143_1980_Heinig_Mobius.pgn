@@ -1,0 +1,18 @@
+[Event "Plauen"]
+[Site "Plauen"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Heinig, Wolfram, Dr."]
+[Black "Mobius"]
+[Result "1-0"]
+[ECO "E04"]
+[Opening "Catalan"]
+[Variation "open, 5.Nf3"]
+[HashCode "efc96143"]
+[Epoch "Rook"]
+[WhiteID "4611926"]
+[WhiteCountry "GER"]
+
+1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. g3 dxc4 5. Bg2 c5 6. O-O Nc6 7. Qa4 cxd4 8.
+Nxd4 Qxd4 9. Bxc6+ Bd7 10. Rd1 Qxd1+ 11. Qxd1 Bxc6 12. Qc2 Bc5 13. Qxc4 Bb6 14.
+Nc3 h5 15. h3 h4 16. g4 O-O-O 17. Be3 Bxe3 18. fxe3 Nd5 19. b4 1-0

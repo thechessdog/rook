@@ -1,0 +1,19 @@
+[Event "Rochester"]
+[Site "Rochester"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Dunne, A."]
+[Black "Koopmans, B."]
+[Result "1-0"]
+[ECO "C00"]
+[Opening "French"]
+[Variation "Two knights variation"]
+[HashCode "4bc480c6"]
+[Epoch "Rook"]
+
+1. e4 e6 2. Nc3 d5 3. Nf3 dxe4 4. Nxe4 Nd7 5. d4 Ngf6 6. Nxf6+ Nxf6 7. Bd3
+Be7 8. O-O O-O 9. Ne5 c5 10. dxc5 Qc7 11. Qe2 Bxc5 12. Bg5 Be7 13. Rad1 Rb8
+14. Bf4 Nd5 15. Bxh7+ Kxh7 16. Rxd5 exd5 17. Qh5+ Kg8 18. Ng6 fxg6 19.
+Qxd5+ Kh7 20. Bxc7 Ra8 21. Re1 Bf6 22. h3 Bxb2 23. Re4 Bf6 24. g4 g5 25. f4
+gxf4 26. Rxf4 Be7 27. Qe4+ Kg8 28. Qxe7 1-0
+

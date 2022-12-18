@@ -1,0 +1,20 @@
+[Event "Bundesliga 8081"]
+[Site "Duitsland tt"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Vatter, Hans-Joachim"]
+[Black "Klundt, Klaus"]
+[Result "0-1"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "9511b810"]
+[Epoch "Rook"]
+[BlackID "4600436"]
+[BlackCountry "GER"]
+[WhiteCountry "GER"]
+
+1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. d4 cxd4 5. cxd4 d6 6. Nf3 Nc6 7. Bc4 Nb6 8. Bb5
+dxe5 9. Nxe5 Bd7 10. Nxd7 Qxd7 11. O-O e6 12. Qg4 Bd6 13. Qxg7 O-O-O 14. Be3
+Rhg8 15. Qh6 f5 16. Bxc6 bxc6 17. Kh1 Rg6 18. Qh3 Rdg8 19. Rg1 Nd5 20. Nc3 Nxe3
+21. Qxe3 Bxh2 22. Kxh2 f4 23. Qxf4 Qd6 0-1

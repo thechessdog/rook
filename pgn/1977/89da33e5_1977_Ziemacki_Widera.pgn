@@ -1,0 +1,18 @@
+[Event "Swinoujscie"]
+[Site "Swinoujscie"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Ziemacki, J."]
+[Black "Widera"]
+[Result "1-0"]
+[ECO "C33"]
+[Opening "KGA"]
+[Variation "Keres (Mason-Steinitz) gambit"]
+[HashCode "89da33e5"]
+[Epoch "Rook"]
+
+1. e4 e5 2. f4 exf4 3. Nc3 Qh4+ 4. Ke2 Qd8 5. d4 g5 6. h4 Be7 7. hxg5 Bxg5
+8. Nf3 d6 9. g3 Bg4 10. gxf4 Bf6 11. Bh3 h5 12. Bxg4 hxg4 13. Ng5 Nh6 14.
+Be3 Qd7 15. f5 c6 16. e5 Nxf5 17. Nce4 Bg7 18. Rxh8+ Bxh8 19. Qh1 Bg7 20.
+Qh7 dxe5 21. Qg8+ Ke7 22. Qxf7+ Kd8 23. Ne6+ 1-0
+

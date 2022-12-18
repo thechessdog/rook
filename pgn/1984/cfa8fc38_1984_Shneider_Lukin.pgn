@@ -1,0 +1,19 @@
+[Event "Sverdlovsk"]
+[Site "Sverdlovsk"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Shneider, Aleksandr"]
+[Black "Lukin, Andrei M"]
+[Result "1/2-1/2"]
+[ECO "D10"]
+[Opening "QGD Slav defence"]
+[HashCode "cfa8fc38"]
+[Epoch "Rook"]
+[WhiteID "14100045"]
+[BlackID "4101251"]
+[WhiteCountry "UKR"]
+[BlackCountry "RUS"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Na6 4. Bf4 Nf6 5. e3 Bf5 6. Nf3 e6 7. Bd3 Bxd3 8. Qxd3
+Bd6 9. Bxd6 Qxd6 10. O-O O-O 11. Rfc1 Rac8 12. Nb5 Qb8 13. Nc3 Qd6 14. Nb5 Qb8
+15. Nc3 Qd6 1/2-1/2

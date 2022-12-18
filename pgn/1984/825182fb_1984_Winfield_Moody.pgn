@@ -1,0 +1,18 @@
+[Event "E Detroit Motor City op"]
+[Site "E Detroit Motor City op"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Winfield, J."]
+[Black "Moody, David W"]
+[Result "0-1"]
+[ECO "C69"]
+[Opening "Ruy Lopez"]
+[Variation "exchange, Bronstein variation"]
+[HashCode "825182fb"]
+[Epoch "Rook"]
+[BlackID "30910722"]
+[BlackCountry "USA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O Qd6 6. d4 exd4 7. Qxd4 Qxd4
+8. Nxd4 g6 9. f4 Bc5 10. c3 Nf6 11. Nd2 Bg4 12. h3 Be2 13. Re1 Bd3 14. e5 Nd5
+0-1

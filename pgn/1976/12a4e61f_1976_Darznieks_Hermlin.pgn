@@ -1,0 +1,18 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Darznieks, Artur"]
+[Black "Hermlin, Arne"]
+[Result "0-1"]
+[ECO "E32"]
+[Opening "Nimzo-Indian"]
+[Variation "classical variation"]
+[HashCode "12a4e61f"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 O-O 5. Nf3 c5 6. dxc5 Na6 7. a3 Bxc3+
+8. Qxc3 Nxc5 9. g3 d5 10. cxd5 Nfe4 11. Qc2 Bd7 12. b4 Ba4 13. Qb2 Nb3 14.
+Rb1 Rc8 15. Bh3 Nc3 16. O-O Nxb1 17. dxe6 Rxc1 18. exf7+ Kh8 19. Rxc1 Nxc1
+0-1
+

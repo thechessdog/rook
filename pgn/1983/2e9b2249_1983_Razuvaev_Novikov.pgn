@@ -1,0 +1,18 @@
+[Event "Volgodonsk"]
+[Site "Volgodonsk"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Razuvaev, Yuri S"]
+[Black "Novikov, Igor"]
+[Result "1/2-1/2"]
+[ECO "E04"]
+[Opening "Catalan"]
+[Variation "open, 5.Nf3"]
+[HashCode "2e9b2249"]
+[Epoch "Rook"]
+[WhiteCountry "RUS"]
+[BlackCountry "USA"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Nf3 dxc4 5. Bg2 a6 6. O-O b5 7. Ne5 c6 8. Nxc6
+Qb6 9. Ne5 Bb7 10. a4 Bxg2 11. Kxg2 Qb7+ 12. Kg1 Nbd7 13. b3 cxb3 14. axb5 Qxb5
+15. Nc3 Qb7 16. Rb1 Rb8 17. Bf4 Bd6 18. Nxd7 Qxd7 19. Bxd6 1/2-1/2

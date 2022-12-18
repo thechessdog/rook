@@ -1,0 +1,24 @@
+[Event "corr DDR/FS"]
+[Site "corr DDR/FS"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Langlotz"]
+[Black "Krechlok"]
+[Result "1/2-1/2"]
+[ECO "A00"]
+[Opening "Polish"]
+[Variation "Outflank variation"]
+[HashCode "3d6e13ce"]
+[Epoch "Rook"]
+
+1. b4 c6 2. Bb2 Qb6 3. a3 a5 4. c4 axb4 5. c5 Qc7 6. axb4 Rxa1 7. Bxa1 Nf6
+8. Nc3 d5 9. cxd6 exd6 10. b5 Be7 11. e3 d5 12. Nf3 O-O 13. Be2 Bg4 14. O-O
+Ne4 15. bxc6 bxc6 16. Qc2 Nf6 17. e4 Bd6 18. h3 Bxf3 19. Bxf3 d4 20. Na4
+Qb7 21. Nb2 Nfd7 22. Nc4 Bc7 23. Bb2 Ne5 24. Nxe5 Bxe5 25. d3 c5 26. Bg4
+Bd6 27. f4 f6 28. Rc1 Qe7 29. Qc4+ Kh8 30. Ba3 f5 31. Bf3 fxe4 32. dxe4
+Bxf4 33. Qxc5 Qxc5 34. Rxc5 Bd6 35. Ra5 Bxa3 36. Rxa3 Nc6 37. Ra6 Ne5 38.
+Rd6 d3 39. Rd5 Re8 40. Bd1 g6 41. Ba4 Re7 42. Bb5 Kg7 43. Kf2 Kf6 44. Ke3
+g5 45. Bxd3 Rd7 46. Kd4 h6 47. Bb5 Rxd5+ 48. Kxd5 Ng6 49. Kd6 Ne5 50. Be2
+Nf7+ 51. Kd5 Ne5 52. Bh5 Nd3 53. Bf3 Ne5 54. Kd6 Nc4+ 55. Kd7 Ke5 56. Ke7
+Nd2 57. Kf7 h5 58. Kg6 g4 59. Bxg4 hxg4 60. hxg4 Nxe4 1/2-1/2
+

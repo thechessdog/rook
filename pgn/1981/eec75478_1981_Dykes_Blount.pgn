@@ -1,0 +1,16 @@
+[Event "Dayton,OH"]
+[Site "Dayton,OH"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Dykes, B."]
+[Black "Blount, M."]
+[Result "0-1"]
+[ECO "C37"]
+[Opening "KGA"]
+[Variation "Muzio gambit"]
+[HashCode "eec75478"]
+[Epoch "Rook"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. Bc4 g4 5. O-O gxf3 6. Qxf3 Bc5+ 7. Kh1 Qf6
+8. Qh5 Qg6 9. Qe5+ Be7 10. Qxh8 Bf6 0-1
+

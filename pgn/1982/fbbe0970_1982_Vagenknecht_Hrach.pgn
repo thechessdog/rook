@@ -1,0 +1,17 @@
+[Event "corr ch-CSSR"]
+[Site "corr ch-CSSR"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Vagenknecht"]
+[Black "Hrach"]
+[Result "1/2-1/2"]
+[ECO "C06"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation, main line"]
+[HashCode "fbbe0970"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. c3 c5 6. Bd3 Nc6 7. Ne2 cxd4 8.
+cxd4 f6 9. exf6 Nxf6 10. Nf3 Bd6 11. O-O O-O 12. Nc3 Qe8 13. Re1 Qh5 14. h3
+Bd7 15. Bd2 Rae8 1/2-1/2
+

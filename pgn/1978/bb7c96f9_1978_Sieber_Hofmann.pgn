@@ -1,0 +1,22 @@
+[Event "corr DDR-H"]
+[Site "corr DDR-H"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Sieber, H."]
+[Black "Hofmann, F."]
+[Result "1-0"]
+[ECO "B71"]
+[Opening "Sicilian"]
+[Variation "dragon, Levenfish variation"]
+[HashCode "bb7c96f9"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. f4 Nc6 7. Nxc6 bxc6
+8. e5 dxe5 9. Qxd8+ Kxd8 10. fxe5 Ng4 11. Bf4 Be6 12. Ne4 Bh6 13. Bxh6 Nxh6
+14. O-O-O+ Kc7 15. Nc5 Bf5 16. h3 Rad8 17. Bc4 g5 18. g4 Bg6 19. e6 Rxd1+
+20. Rxd1 Rd8 21. Rxd8 Kxd8 22. exf7 Bxf7 23. Bd3 Bg8 24. Be4 Kc7 25. Kd2
+Kd6 26. b4 Bxa2 27. Bxh7 Bd5 28. Be4 Ke5 29. Ke3 Ng8 30. Nd3+ Kd6 31. Bxd5
+cxd5 32. Kd4 Nf6 33. Ne5 Ne4 34. c4 Nf2 35. c5+ Ke6 36. c6 Kd6 37. b5 Ne4
+38. Nf7+ Kc7 39. Kxd5 Nf6+ 40. Ke6 a6 41. bxa6 Kxc6 42. Nxg5 Kb6 43. Kxe7
+Nd5+ 44. Kf7 Ne3 45. Ne6 1-0
+

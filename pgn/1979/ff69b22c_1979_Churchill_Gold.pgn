@@ -1,0 +1,19 @@
+[Event "MOTCF,OH"]
+[Site "MOTCF,OH"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Churchill"]
+[Black "Gold"]
+[Result "0-1"]
+[ECO "B89"]
+[Opening "Sicilian"]
+[Variation "Velimirovic attack"]
+[HashCode "ff69b22c"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bc4 e6 7. Be3 Be7
+8. Qe2 a6 9. Bb3 O-O 10. O-O-O Qe8 11. g4 b5 12. g5 Nxd4 13. Bxd4 Nd7 14.
+Rhg1 Nc5 15. Bf6 Kh8 16. Bxe7 Qxe7 17. Qg4 b4 18. Ne2 Nxb3+ 19. cxb3 e5 20.
+Qh4 a5 21. Rg3 a4 22. Kb1 axb3 23. Nc1 Be6 24. Nxb3 Qa7 25. Rdd3 Rfc8 26.
+a3 Qxf2 27. g6 Qe1+ 28. Ka2 Rxa3+ 0-1
+

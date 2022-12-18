@@ -1,0 +1,18 @@
+[Event "Kragujevac"]
+[Site "Kragujevac"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Tringov, Georgi P"]
+[Black "Portisch, Lajos"]
+[Result "1/2-1/2"]
+[ECO "C16"]
+[Opening "French"]
+[Variation "Winawer, advance variation"]
+[HashCode "c6155ee3"]
+[Epoch "Rook"]
+[BlackID "700037"]
+[BlackCountry "HUN"]
+[WhiteCountry "BGR"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 Ne7 5. Bd2 b6 6. Qg4 Nf5 7. Bd3 h5 8. Qf4
+Qh4 9. Qxh4 Nxh4 10. g3 Nf5 11. Nge2 c6 1/2-1/2

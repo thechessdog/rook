@@ -1,0 +1,16 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Wenz, W."]
+[Black "Mooren, L."]
+[Result "0-1"]
+[ECO "C36"]
+[Opening "KGA"]
+[Variation "Abbazia defence, modern variation"]
+[HashCode "6e35e79d"]
+[Epoch "Rook"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 d5 4. exd5 Nf6 5. Bb5+ c6 6. dxc6 Nxc6 7. O-O
+Qb6+ 8. d4 Qxb5 9. Re1+ Be6 10. Nc3 Qb6 11. Bxf4 O-O-O 0-1
+

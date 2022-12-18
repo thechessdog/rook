@@ -1,0 +1,18 @@
+[Event "Bayamo"]
+[Site "Bayamo"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Alzate, Dario"]
+[Black "Hernandez, Roman"]
+[Result "1/2-1/2"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "classical attack, Mason variation"]
+[HashCode "2f36f435"]
+[Epoch "Rook"]
+[WhiteID "4400046"]
+[WhiteCountry "COL"]
+[BlackCountry "CUB"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Be7 7. O-O O-O 8.
+Re1 1/2-1/2

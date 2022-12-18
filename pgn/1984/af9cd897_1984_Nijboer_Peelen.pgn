@@ -1,0 +1,23 @@
+[Event "OHRA-B"]
+[Site "Amsterdam"]
+[Date "1984.??.??"]
+[Round "4"]
+[White "Nijboer, Friso"]
+[Black "Peelen, Piet"]
+[Result "0-1"]
+[ECO "C89"]
+[Opening "Ruy Lopez"]
+[Variation "Marshall, main line, 12.d2d4"]
+[HashCode "af9cd897"]
+[Epoch "Rook"]
+[WhiteID "1000063"]
+[BlackID "1000403"]
+[WhiteCountry "NED"]
+[BlackCountry "NED"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. c3
+d5 9. exd5 Nxd5 10. Nxe5 Nxe5 11. Rxe5 c6 12. d4 Bd6 13. Re2 Qh4 14. g3 Qh3 15.
+Nd2 Bf5 16. Bxd5 cxd5 17. f3 Qh5 18. Rf2 Rae8 19. Nf1 Re6 20. a4 Rfe8 21. Bf4
+Bxf4 22. gxf4 bxa4 23. Ng3 Qh3 24. Qxa4 Bd3 25. Qd1 Bb5 26. Rg2 h5 27. f5 Re3
+28. Qd2 h4 29. Nh5 Re2 30. Qg5 Re1+ 31. Rxe1 Rxe1+ 32. Kf2 Rf1+ 33. Ke3 Qxf3+
+0-1

@@ -1,0 +1,19 @@
+[Event "corr ch-BRD"]
+[Site "corr ch-BRD"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Kolander"]
+[Black "Walther"]
+[Result "1-0"]
+[ECO "B17"]
+[Opening "Caro-Kann"]
+[Variation "Steinitz variation"]
+[HashCode "b83523ee"]
+[Epoch "Rook"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Ng3 e6 7. Bc4 Nb6
+8. Bb3 c5 9. c3 Qc7 10. dxc5 Nbd7 11. c6 bxc6 12. O-O Be7 13. Re1 O-O 14.
+Bg5 Re8 15. Qe2 Bd6 16. Rad1 h6 17. Bc1 c5 18. Qd2 Bf8 19. Qf4 e5 20. Qh4
+Nh7 21. Bxh6 gxh6 22. Bxf7+ Kxf7 23. Qh5+ Ke7 24. Nxe5 Nxe5 25. Rxe5+ Be6
+26. Rxe6+ Kxe6 27. Qf5+ 1-0
+

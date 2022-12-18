@@ -1,0 +1,24 @@
+[Event "Belgrade"]
+[Site "Belgrade"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Chandler, Murray G"]
+[Black "Govedarica, Radovan"]
+[Result "0-1"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Byrne (English) attack"]
+[HashCode "89ed3b46"]
+[Epoch "Rook"]
+[WhiteID "400050"]
+[WhiteCountry "NZL"]
+[BlackID "900630"]
+[BlackCountry "SRB"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 Nc6 7. f3 e6 8. Qd2
+Be7 9. g4 O-O 10. O-O-O Nxd4 11. Bxd4 Nd7 12. h4 b5 13. h5 Ne5 14. Qf2 Qc7 15.
+f4 Nd7 16. h6 g6 17. Bg7 Re8 18. Bg2 Bb7 19. Rhf1 b4 20. f5 Bg5+ 21. Kb1 Ne5
+22. Ne2 Nxg4 23. Qg3 exf5 24. exf5 Bxg2 25. Qxg4 Bxf1 26. Rxf1 Qe7 27. fxg6
+hxg6 28. Nc1 a5 29. b3 Kh7 30. Nd3 Rac8 31. Bb2 f6 32. Bc1 Bxc1 33. Rxc1 Rc7
+34. Qd4 Rc3 35. a3 Rec8 36. axb4 axb4 37. Re1 Qc7 38. Nxb4 Rxc2 39. Nd3 Rd2 40.
+Qa4 Qc2+ 0-1

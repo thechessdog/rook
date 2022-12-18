@@ -1,0 +1,19 @@
+[Event "corr DDR-M"]
+[Site "corr DDR-M"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Wuensch, R."]
+[Black "Juechen, HP."]
+[Result "1-0"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical (two knights) system"]
+[HashCode "5ec90f59"]
+[Epoch "Rook"]
+
+1. e4 Nf6 2. Nc3 d6 3. d4 g6 4. Nf3 Bg7 5. Bc4 O-O 6. Bg5 Nxe4 7. Nxe4 d5
+8. Bxd5 Qxd5 9. Nc3 Qa5 10. O-O Bg4 11. Ne4 Nc6 12. c3 h6 13. Be3 Rad8 14.
+Nc5 Qb5 15. b3 Ne5 16. d5 Nxf3+ 17. gxf3 Bh3 18. c4 Qe8 19. Nxb7 Ra8 20.
+Re1 Qc8 21. Nc5 Bxa1 22. Qxa1 Kh7 23. Qe5 Qf5 24. Qxc7 Qxf3 25. Qg3 Qf5 26.
+Bd4 Rfd8 27. Ne4 Rd7 28. f3 g5 29. Nf2 g4 30. fxg4 Bxg4 31. Re4 1-0
+

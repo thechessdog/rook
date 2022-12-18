@@ -1,0 +1,23 @@
+[Event "Ohio Congress"]
+[Site "Ohio Congress"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Hayes, Rea"]
+[Black "Burns, Robert Jr"]
+[Result "0-1"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "5963d2ff"]
+[Epoch "Rook"]
+
+1. e4 c5 2. c3 g6 3. d4 cxd4 4. cxd4 d5 5. e5 Nc6 6. Nc3 Nh6 7. Bxh6 Bxh6
+8. g3 O-O 9. Bg2 Qb6 10. Nge2 Bg4 11. O-O Bxe2 12. Nxe2 e6 13. Rb1 Rac8 14.
+a3 Na5 15. b3 Rc7 16. Qd3 Rfc8 17. f4 Qa6 18. Qxa6 bxa6 19. b4 Nc4 20. Ra1
+Ne3 21. Rfc1 Nc2 22. Ra2 Nxd4 23. Rxc7 Nxe2+ 24. Rxe2 Rxc7 25. Kf2 Bf8 26.
+Bf1 a5 27. Rb2 axb4 28. axb4 Rb7 29. b5 Rc7 30. Ke3 Bc5+ 31. Kd2 Bb6 32.
+Rb3 Kf8 33. g4 Ba5+ 34. Kd1 Rc3 35. Rxc3 Bxc3 36. h4 Ke7 37. g5 Kd7 38. Be2
+Kc7 39. h5 Kb6 40. hxg6 hxg6 41. Bd3 Kc5 42. Ke2 Kd4 43. Bc2 Ba5 44. Bb1
+Kc3 45. Bd3 Bb6 46. Bb1 Bg1 47. Bd3 Bh2 48. b6 axb6 49. Bb5 Bxf4 50. Be8
+Kd4 0-1
+

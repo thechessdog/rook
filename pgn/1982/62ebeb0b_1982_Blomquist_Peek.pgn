@@ -1,0 +1,23 @@
+[Event "corr USA"]
+[Site "corr USA"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Blomquist, G."]
+[Black "Peek"]
+[Result "0-1"]
+[ECO "C17"]
+[Opening "French"]
+[Variation "Winawer, advance, 5.a3"]
+[HashCode "62ebeb0b"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Ba5 6. b4 cxb4 7. Nb5 f5 8.
+exf6 Nxf6 9. axb4 Bxb4+ 10. c3 Ba5 11. Ba3 Ne4 12. Qh5+ g6 13. Qh6 Qf6 14.
+f3 Ng5 15. Bd6 Nf7 16. Qf4 Qxf4 17. Bxf4 Bb6 18. Bc7 Na6 19. Rxa6 bxa6 20.
+Nd6+ Nxd6 21. Bxd6 Kd7 22. Ba3 Ba5 23. Kd2 Rb8 24. Kc2 Bb7 25. Bd3 Bc6 26.
+Ne2 Bb5 27. Ra1 Bxd3+ 28. Kxd3 Bb6 29. Bc1 a5 30. Bf4 Rb7 31. Nc1 Rc8 32.
+Nb3 Rc6 33. Nxa5 Bxa5 34. Rxa5 a6 35. Kc2 Rcb6 36. Bc1 Ra7 37. Ba3 Rb5 38.
+Rxb5 axb5 39. Kb3 Ra4 40. f4 h5 41. g3 Ke8 42. h3 Kf7 43. g4 hxg4 44. hxg4
+Ke8 45. Bd6 Kd7 46. Bf8 Ra1 47. Bg7 Kc6 48. Be5 Rb1+ 49. Kc2 Rg1 50. Kb3
+Rxg4 0-1
+

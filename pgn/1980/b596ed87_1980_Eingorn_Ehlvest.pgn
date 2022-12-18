@@ -1,0 +1,23 @@
+[Event "Tallinn"]
+[Site "Tallinn"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Eingorn, Vereslav S"]
+[Black "Ehlvest, Jaan"]
+[Result "1-0"]
+[ECO "A70"]
+[Opening "Benoni"]
+[Variation "classical with e4 and Nf3"]
+[HashCode "b596ed87"]
+[Epoch "Rook"]
+[WhiteID "14100053"]
+[WhiteCountry "UKR"]
+[BlackID "4500016"]
+[BlackCountry "USA"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. e4 Bg7 8. Bf4
+O-O 9. Nd2 b6 10. h3 Re8 11. Bb5 Bd7 12. a4 Nh5 13. Bh2 Qg5 14. Bxd7 Nxd7 15.
+Qg4 Qe7 16. O-O a6 17. Nc4 Bxc3 18. bxc3 Nhf6 19. Qf3 Nxe4 20. Rae1 Qh4 21. Bg3
+Qe7 22. Nxd6 f5 23. Nxe8 Rxe8 24. Qe3 Qf7 25. f3 Nef6 26. Qd3 Rxe1 27. Rxe1
+Qxd5 28. Qxd5+ Nxd5 29. c4 N5f6 30. Re7 g5 31. Be5 Nxe5 32. Rxe5 Kf7 33. Rxf5
+h6 34. a5 1-0

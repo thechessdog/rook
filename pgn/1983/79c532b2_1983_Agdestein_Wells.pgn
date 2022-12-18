@@ -1,0 +1,20 @@
+[Event "Gausdal"]
+[Site "Gausdal"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Agdestein, Simen"]
+[Black "Wells, Peter K"]
+[Result "0-1"]
+[ECO "E12"]
+[Opening "Queen's Indian"]
+[Variation "Petrosian system"]
+[HashCode "79c532b2"]
+[Epoch "Rook"]
+[WhiteID "1500015"]
+[BlackID "400327"]
+[WhiteCountry "NOR"]
+[BlackCountry "ENG"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. a3 c5 5. d5 Ba6 6. Qc2 exd5 7. cxd5 d6 8. Nc3
+g6 9. g3 Bg7 10. Bg2 O-O 11. O-O Re8 12. Re1 b5 13. Nd2 Nbd7 14. b4 Rc8 15. Bb2
+Qb6 16. h3 Bb7 17. Qb3 Nh5 18. Kf1 cxb4 19. axb4 Bh6 20. Nf3 Qxf2+ 0-1

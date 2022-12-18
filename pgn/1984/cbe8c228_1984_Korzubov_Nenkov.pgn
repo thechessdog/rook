@@ -1,0 +1,19 @@
+[Event "Pernik"]
+[Site "Pernik"]
+[Date "1984.??.??"]
+[Round "15"]
+[White "Korzubov, Peter"]
+[Black "Nenkov, Ljudmil"]
+[Result "1/2-1/2"]
+[ECO "B92"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Opovcensky variation"]
+[HashCode "cbe8c228"]
+[Epoch "Rook"]
+[BlackID "2901110"]
+[BlackCountry "FID"]
+[WhiteCountry "BLR"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8. O-O
+O-O 9. a4 Be6 10. f4 exf4 11. Bxf4 Nc6 12. Kh1 d5 13. e5 Nd7 14. Nxd5 Bg5 15.
+Bg3 Bh4 16. Bf4 Bg5 17. Bg3 1/2-1/2

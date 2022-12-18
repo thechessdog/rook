@@ -1,0 +1,18 @@
+[Event "Ann Arbor ch-MI op"]
+[Site "Ann Arbor ch-MI op"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Zumbrunnen, R."]
+[Black "Pegeron, J."]
+[Result "1-0"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "classical variation"]
+[HashCode "7b2b6f8a"]
+[Epoch "Rook"]
+
+1. b3 d5 2. Bb2 Nf6 3. f4 c5 4. Nf3 e6 5. e3 Be7 6. d4 O-O 7. Bd3 b6 8. Qe2
+Nc6 9. Ne5 Bb7 10. Nxc6 Bxc6 11. Nd2 cxd4 12. exd4 Bd6 13. O-O Nd7 14. Rae1
+Qh4 15. g3 Qh6 16. Nf3 Bc7 17. Ne5 Nxe5 18. fxe5 Qg5 19. Ba3 Rfc8 20. Kg2
+Qd8 21. Rxf7 1-0
+

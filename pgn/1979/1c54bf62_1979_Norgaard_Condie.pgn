@@ -1,0 +1,22 @@
+[Event "Viborg"]
+[Site "Viborg"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Norgaard, Jesper"]
+[Black "Condie, Mark L"]
+[Result "1-0"]
+[ECO "C80"]
+[Opening "Ruy Lopez"]
+[Variation "open, 7.Bb3"]
+[HashCode "1c54bf62"]
+[Epoch "Rook"]
+[WhiteID "1400517"]
+[WhiteCountry "DEN"]
+[BlackID "2400014"]
+[BlackCountry "SCO"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. a4
+Be6 9. axb5 axb5 10. Rxa8 Qxa8 11. dxe5 Na5 12. Nd4 Nxb3 13. cxb3 Qa6 14. f3
+Nc5 15. f4 g6 16. g4 h5 17. f5 Bd7 18. Nc3 Qb7 19. Qe2 b4 20. e6 fxe6 21. fxe6
+Nxe6 22. Nxe6 Qb6+ 23. Nd4+ Kd8 24. Qe5 Rg8 25. Nxd5 Qc5 26. Bg5+ Kc8 27. Rxf8+
+Rxf8 28. Ne7+ 1-0

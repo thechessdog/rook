@@ -1,0 +1,19 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Neuronov"]
+[Black "Mandzhdaladze"]
+[Result "1-0"]
+[ECO "B18"]
+[Opening "Caro-Kann"]
+[Variation "classical variation"]
+[HashCode "afdb81c7"]
+[Epoch "Rook"]
+
+1. e4 c6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. Nf3 Nd7 7. Bd3 e6
+8. O-O Qc7 9. c4 O-O-O 10. Bxg6 hxg6 11. Qa4 Kb8 12. b4 Nh6 13. Re1 Nf5 14.
+Qb3 Be7 15. a4 Nf8 16. Bb2 f6 17. a5 g5 18. b5 cxb5 19. cxb5 Qd7 20. Nxf5
+exf5 21. a6 g4 22. axb7 Qxb7 23. d5 gxf3 24. Bd4 a5 25. Rxa5 Qc7 26. d6
+Qxa5 27. Bc3 Qb6 28. dxe7 Re8 29. Bb4 Qc7 30. g3 Nd7 31. Qa3 1-0
+

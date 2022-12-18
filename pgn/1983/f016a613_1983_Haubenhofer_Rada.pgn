@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Haubenhofer, J."]
+[Black "Rada, H."]
+[Result "0-1"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, poisoned pawn, Konstantinopolsky variation"]
+[HashCode "f016a613"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Qg4 cxd4
+8. Qxg7 Rg8 9. Qxh7 Qc7 10. Ne2 Nbc6 11. f4 Bd7 12. Qd3 dxc3 13. Rb1 O-O-O
+14. Qxc3 d4 15. Qb2 Nf5 16. g3 Na5 17. Bg2 Bc6 18. O-O Bxg2 19. Kxg2 Nc4
+0-1
+

@@ -1,0 +1,19 @@
+[Event "October Revolution 60"]
+[Site "Leningrad"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Smyslov, Vasily"]
+[Black "Romanishin, Oleg M"]
+[Result "1/2-1/2"]
+[ECO "E15"]
+[Opening "Queen's Indian"]
+[Variation "4.g3"]
+[HashCode "5edab184"]
+[Epoch "Rook"]
+[BlackID "14100088"]
+[BlackCountry "UKR"]
+[WhiteCountry "RUS"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 b6 4. g3 Bb4+ 5. Bd2 a5 6. Bg2 O-O 7. O-O Ba6 8. Qc2
+d5 9. Ne5 c6 10. Rd1 Nfd7 11. Nxd7 Nxd7 12. Bxb4 axb4 13. Nd2 Qe7 14. a3 Bb7
+15. axb4 1/2-1/2

@@ -1,0 +1,16 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Chepukaitis, Genrik"]
+[Black "Jakovljev, Zoran"]
+[Result "0-1"]
+[ECO "A45"]
+[Opening "Trompovsky attack (Ruth, Opovcensky opening)"]
+[HashCode "2069a167"]
+[Epoch "Rook"]
+[BlackID "908860"]
+[BlackCountry "SRB"]
+
+1. d4 Nf6 2. Bg5 Ne4 3. Bh4 d5 4. f3 g5 5. fxe4 gxh4 6. exd5 Qxd5 7. Nc3 Qa5 8.
+Nf3 h3 9. g3 Bh6 10. Qd3 Nc6 11. e4 Bg4 12. Nd2 Nb4 13. Qb5+ c6 0-1

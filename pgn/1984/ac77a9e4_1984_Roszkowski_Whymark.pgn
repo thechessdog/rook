@@ -1,0 +1,17 @@
+[Event "corr GB"]
+[Site "corr GB"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Roszkowski"]
+[Black "Whymark"]
+[Result "1/2-1/2"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack"]
+[HashCode "ac77a9e4"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 Nbd7 4. f3 c5 5. e4 cxd4 6. Bxf6 dxc3 7. Bxc3
+dxe4 8. fxe4 e5 9. Qf3 Qf6 10. O-O-O Nb6 11. Bb5+ Bd7 12. Qd3 O-O-O 13. Nf3
+Qf4+ 14. Kb1 f6 15. Ba5 Qg4 16. Rd2 Be7 17. Rhd1 Bxb5 18. Qxb5 Qxg2 19.
+Bxb6 axb6 20. Rxd8+ Rxd8 21. Qc4+ 1/2-1/2
+

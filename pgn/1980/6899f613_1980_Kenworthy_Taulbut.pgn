@@ -1,0 +1,21 @@
+[Event "Brighton ch-BCF"]
+[Site "Brighton ch-BCF"]
+[Date "1980.08.01"]
+[Round "6"]
+[White "Kenworthy, Gary"]
+[Black "Taulbut, Shaun M"]
+[Result "0-1"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, 6.Bd3"]
+[HashCode "6899f613"]
+[Epoch "Rook"]
+[WhiteID "401587"]
+[WhiteCountry "ENG"]
+[BlackID "400246"]
+[BlackCountry "ENG"]
+
+1. e4 g6 2. d4 d6 3. Nc3 Bg7 4. f4 Nf6 5. Nf3 O-O 6. Bd3 Na6 7. Be3 c5 8. Qd2
+b6 9. h3 Bb7 10. O-O Rc8 11. e5 cxd4 12. Bxd4 dxe5 13. Bxe5 Nc5 14. Rad1 Nxd3
+15. cxd3 Qd7 16. d4 Rfd8 17. Qe1 b5 18. a3 a5 19. Qh4 b4 20. axb4 axb4 21. Ne2
+Rc2 22. Ng3 Qa4 23. Rb1 Qb3 24. f5 Qe3+ 25. Kh1 g5 26. Rfe1 gxh4 0-1

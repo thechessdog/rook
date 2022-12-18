@@ -1,0 +1,20 @@
+[Event "Kecskemet"]
+[Site "Kecskemet"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Estrin, Yakov Borisovich"]
+[Black "Groszpeter, Attila"]
+[Result "0-1"]
+[ECO "B13"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack"]
+[HashCode "ace9b382"]
+[Epoch "Rook"]
+[BlackID "700053"]
+[BlackCountry "HUN"]
+[WhiteCountry "RUS"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 Nc6 6. Bg5 Be6 7. Bxf6 exf6 8.
+c5 g6 9. Bb5 h5 10. Qa4 Qd7 11. Nge2 Bh6 12. b4 O-O 13. Bd3 a5 14. b5 Nb4 15.
+Bb1 Bg4 16. f3 Bf5 17. Qd1 Rae8 18. a3 Re3 19. Bxf5 Qxf5 20. axb4 axb4 21. Na4
+Rd3 22. Qb1 Re8 23. Kf2 Rxe2+ 24. Kxe2 Rd2+ 25. Kf1 Qg5 0-1

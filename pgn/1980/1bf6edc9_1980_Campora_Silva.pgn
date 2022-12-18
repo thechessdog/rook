@@ -1,0 +1,27 @@
+[Event "Santiago"]
+[Site "Santiago de Chile"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Campora, Daniel H."]
+[Black "Silva, Ceu"]
+[Result "1-0"]
+[ECO "B52"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky attack, Sokolsky variation"]
+[HashCode "1bf6edc9"]
+[Epoch "Rook"]
+[WhiteID "100013"]
+[WhiteCountry "ARG"]
+[BlackID "1900560"]
+[BlackCountry "POR"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Qxd7 5. c4 e5 6. O-O g6 7. Nc3 Bg7 8.
+a3 Ne7 9. d3 Nbc6 10. Rb1 O-O 11. b4 Nd4 12. bxc5 dxc5 13. Nxd4 cxd4 14. Nd5
+Nc6 15. Bd2 f5 16. f3 fxe4 17. fxe4 Rxf1+ 18. Qxf1 Rf8 19. Qe2 Rf7 20. h3 h5
+21. Bg5 Nd8 22. Bxd8 Qxd8 23. Rf1 Rxf1+ 24. Qxf1 Qg5 25. Kh2 Bf8 26. a4 b6 27.
+Qf2 Ba3 28. h4 Qd8 29. g4 hxg4 30. Kg3 Kg7 31. Kxg4 Bc1 32. Qg3 Qd6 33. Kh3 Kh6
+34. Qf3 Qe6+ 35. Kg3 Kg7 36. Qg4 Kf7 37. Qf3+ Kg7 38. h5 Bd2 39. Qe2 Bf4+ 40.
+Nxf4 exf4+ 41. Kxf4 Qf6+ 42. Kg4 gxh5+ 43. Kxh5 Kf7 44. Kg4 Qe6+ 45. Kg3 Qe5+
+46. Kh3 Qh8+ 47. Kg2 Qg7+ 48. Kf1 Qh8 49. Qg4 Qh1+ 50. Kf2 Qh2+ 51. Kf3 Qc2 52.
+Qd7+ Kg6 53. Qxd4 Qxa4 54. Qd6+ Kf7 55. Kf4 Qa5 56. Qd5+ Qxd5 57. exd5 Ke7 58.
+Ke5 1-0

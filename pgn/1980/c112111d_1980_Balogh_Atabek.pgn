@@ -1,0 +1,20 @@
+[Event "corr RUM jub"]
+[Site "corr RUM jub"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Balogh, Janos"]
+[Black "Atabek, Fazil"]
+[Result "1-0"]
+[ECO "B41"]
+[Opening "Sicilian"]
+[Variation "Kan, Maroczy bind (Reti variation)"]
+[HashCode "c112111d"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. c4 Nf6 6. Nc3 Qc7 7. a3 Nc6 8.
+Be3 d6 9. Be2 Be7 10. O-O Bd7 11. Rc1 O-O 12. f3 Nxd4 13. Qxd4 e5 14. Qd2
+Rac8 15. a4 Qb8 16. a5 Bd8 17. Ra1 Be6 18. b3 Nd7 19. Rfd1 Rc6 20. Nd5 Bxd5
+21. cxd5 Rc8 22. b4 Be7 23. Rab1 Rc7 24. b5 Qc8 25. bxa6 bxa6 26. Rdc1 Nc5
+27. Rb6 f6 28. Rxc5 Rxc5 29. Bxa6 Qc7 30. Bxc5 Qxc5+ 31. Kf1 f5 32. Rc6 Qa3
+33. exf5 Rxf5 34. Bd3 Rh5 35. g4 Bg5 36. Qc2 1-0
+

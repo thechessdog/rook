@@ -1,0 +1,19 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Hobell"]
+[Black "Dornieden, Manfred, Dr."]
+[Result "0-1"]
+[ECO "B06"]
+[Opening "Robatsch defence"]
+[Variation "Pseudo-Austrian attack"]
+[HashCode "e90f04c9"]
+[Epoch "Rook"]
+[BlackID "4604369"]
+[BlackCountry "GER"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. f4 Nc6 5. Be3 Nf6 6. h3 O-O 7. g4 e5 8. dxe5
+dxe5 9. f5 Nd4 10. Qd2 gxf5 11. gxf5 Nxe4 12. Nxe4 Bxf5 13. Ng3 Nxc2+ 14. Ke2
+Bg6 15. Rc1 Nxe3 16. Qxe3 f5 17. Qb3+ Kh8 18. Bg2 Qg5 19. Rc3 f4 20. h4 Qg4+
+21. Bf3 Qxg3 22. Bxb7 Bh5+ 23. Kf1 f3 24. Nxf3 e4 25. Bxe4 Rae8 0-1

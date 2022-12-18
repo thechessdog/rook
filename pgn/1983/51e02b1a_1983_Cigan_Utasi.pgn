@@ -1,0 +1,19 @@
+[Event "Ravenna"]
+[Site "Ravenna"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Cigan, Stefan"]
+[Black "Utasi, Tamas"]
+[Result "0-1"]
+[ECO "B25"]
+[Opening "Sicilian"]
+[Variation "closed, 6.f4"]
+[HashCode "51e02b1a"]
+[Epoch "Rook"]
+[WhiteID "14600064"]
+[WhiteCountry "SLO"]
+[BlackCountry "HUN"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. f4 Nd4 7. Nce2 Nf6 8. c3
+Nxe2 9. Qxe2 O-O 10. Nf3 Bd7 11. O-O Bc6 12. Be3 e6 13. f5 e5 14. Nh4 b5 15.
+Bg5 Rb8 16. Rf2 c4 17. dxc4 Qb6 0-1

@@ -1,0 +1,17 @@
+[Event "corr HUN-CSSR tt"]
+[Site "corr HUN-CSSR tt"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Hrabacek, R."]
+[Black "Timar, Zsolt"]
+[Result "0-1"]
+[ECO "B86"]
+[Opening "Sicilian"]
+[Variation "Sozin attack"]
+[HashCode "856d4bad"]
+[Epoch "Rook"]
+[BlackCountry "HUN"]
+
+1. e4 c5 2. Nf3 d6 3. Bc4 e6 4. d4 cxd4 5. Nxd4 Nf6 6. Nc3 a6 7. O-O b5 8. Bd3
+Bb7 9. Qe2 Be7 10. a3 O-O 11. Qe3 Nbd7 12. Bd2 Rc8 13. b4 Qc7 14. Nce2 Ne5 15.
+f4 Nc4 16. Bxc4 Qxc4 17. Ng3 Ng4 0-1

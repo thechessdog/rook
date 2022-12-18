@@ -1,0 +1,22 @@
+[Event "Vancouver"]
+[Site "Vancouver"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Suttles, Duncan"]
+[Black "O'Donnell, Tom"]
+[Result "1-0"]
+[ECO "A00"]
+[Opening "Benko's opening"]
+[HashCode "bd9bc3ce"]
+[Epoch "Rook"]
+[BlackID "2600064"]
+[BlackCountry "CAN"]
+[WhiteID "2600056"]
+[WhiteCountry "CAN"]
+
+1. g3 e5 2. Bg2 d5 3. d3 c5 4. Nc3 Be6 5. e4 d4 6. Nce2 Bd6 7. f4 f6 8. Nf3 Nc6
+9. O-O Nge7 10. c4 O-O 11. f5 Bf7 12. g4 g5 13. h4 h6 14. Ng3 Nc8 15. Rf2 Be7
+16. Bf1 Nd6 17. a3 a6 18. b3 b6 19. Raa2 Kg7 20. Rh2 Qd7 21. Raf2 Rh8 22. Bd2
+a5 23. Qc1 Rag8 24. Be2 Kf8 25. Rh1 Qe8 26. Rfh2 Kg7 27. hxg5 hxg5 28. Nxg5
+Rxh2 29. Ne6+ Bxe6 30. Rxh2 Rh8 31. Bh6+ Kg8 32. fxe6 Nd8 33. g5 fxg5 34. Bh5
+Qc6 35. Bxg5 Qc7 36. Nf5 Nxf5 37. exf5 1-0

@@ -1,0 +1,16 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Berger, Gerd"]
+[Black "Kuhn, H."]
+[Result "0-1"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Nimzovich system"]
+[HashCode "a8cd0c82"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. Nf3 Qb6 5. Bd3 cxd4 6. O-O Nc6 7. Re1 f6 8. exf6
+Nxf6 9. Bf5 Be7 10. Bxe6 Bxe6 11. Rxe6 O-O 12. c3 Ne4 13. Nxd4 Nxf2 14. Qe2 Ne4
+15. Be3 Nxd4 0-1

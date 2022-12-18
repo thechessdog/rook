@@ -1,0 +1,18 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Ehrler, Eberhard"]
+[Black "Haakert, Jurgen"]
+[Result "1/2-1/2"]
+[ECO "C26"]
+[Opening "Vienna"]
+[Variation "Paulsen-Mieses variation"]
+[HashCode "98c34667"]
+[Epoch "Rook"]
+[WhiteID "4607899"]
+[WhiteCountry "GER"]
+
+1. e4 Nf6 2. Nc3 e5 3. g3 c6 4. d4 Bb4 5. Bg2 d6 6. Ne2 Nbd7 7. O-O O-O 8. h3
+Re8 9. Be3 exd4 10. Bxd4 Nc5 11. Bxf6 Qxf6 12. a3 Bxc3 13. Nxc3 Bd7 14. Qd2
+Rad8 15. Rad1 Bc8 16. Qd4 Qxd4 17. Rxd4 Kf8 18. Rfd1 Ke7 1/2-1/2

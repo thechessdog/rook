@@ -1,0 +1,19 @@
+[Event "Amsterdam"]
+[Site "Amsterdam"]
+[Date "1981.05.01"]
+[Round "1"]
+[White "Timman, Jan H"]
+[Black "Hort, Vlastimil"]
+[Result "1/2-1/2"]
+[ECO "D41"]
+[Opening "QGD"]
+[Variation "Semi-Tarrasch, 5.cd"]
+[HashCode "84b0e45d"]
+[Epoch "Rook"]
+[WhiteID "1000012"]
+[WhiteCountry "NED"]
+[BlackID "4600029"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 c5 5. cxd5 Nxd5 6. e4 Nxc3 7. bxc3 cxd4 8.
+cxd4 Nc6 9. Bc4 Bb4+ 10. Bd2 Bxd2+ 11. Qxd2 O-O 12. O-O 1/2-1/2

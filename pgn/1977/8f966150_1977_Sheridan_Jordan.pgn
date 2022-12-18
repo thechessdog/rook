@@ -1,0 +1,18 @@
+[Event "Buckeye Open,OH"]
+[Site "Buckeye Open,OH"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Sheridan"]
+[Black "Jordan"]
+[Result "1-0"]
+[ECO "B92"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Opovcensky variation"]
+[HashCode "8f966150"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8.
+O-O Be6 9. Bg5 Nbd7 10. Be3 Qc7 11. a4 O-O 12. f4 Rfc8 13. f5 Bc4 14. g4
+Bxe2 15. Qxe2 h6 16. Rf2 Qc4 17. Qf3 Nc5 18. Nxc5 dxc5 19. h4 Qb4 20. Rb1
+Bd8 21. g5 hxg5 22. hxg5 Nh7 23. Qh5 1-0
+

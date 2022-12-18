@@ -1,0 +1,19 @@
+[Event "Italy"]
+[Site "Italy"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Miriello"]
+[Black "Gatto"]
+[Result "1-0"]
+[ECO "B95"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6...e6"]
+[HashCode "83376c5e"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. Qf3 h6 8.
+Bh4 Nbd7 9. O-O-O Be7 10. h3 Qc7 11. Be2 b5 12. a3 Rb8 13. Qe3 Nc5 14. Bg3
+b4 15. axb4 Rxb4 16. e5 dxe5 17. Qxe5 Qb6 18. b3 O-O 19. Bc4 Bb7 20. f3 Rc8
+21. Qe2 Nh5 22. Qf2 Nxg3 23. Qxg3 Bd5 24. Nf5 Bf6 25. Nxd5 exd5 26. Rxd5
+Nxb3+ 27. cxb3 Rxb3 1-0
+

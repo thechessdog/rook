@@ -1,0 +1,18 @@
+[Event "Riga"]
+[Site "Riga"]
+[Date "1981.01.01"]
+[Round "10"]
+[White "Adorjan, Andras"]
+[Black "Bagirov, Vladimir"]
+[Result "1/2-1/2"]
+[ECO "D52"]
+[Opening "QGD"]
+[Variation "Cambridge Springs defence, Bogoljubow variation"]
+[HashCode "c4db5a11"]
+[Epoch "Rook"]
+[WhiteID "700096"]
+[WhiteCountry "HUN"]
+[BlackCountry "RUS"]
+
+1. c4 Nf6 2. Nc3 e6 3. Nf3 d5 4. d4 c6 5. Bg5 Nbd7 6. e3 Qa5 7. Nd2 Bb4 8. Qc2
+Ne4 9. Ndxe4 dxe4 10. Bh4 1/2-1/2

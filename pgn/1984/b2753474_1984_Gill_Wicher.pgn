@@ -1,0 +1,16 @@
+[Event "corr USA"]
+[Site "corr USA"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Gill"]
+[Black "Wicher"]
+[Result "0-1"]
+[ECO "A45"]
+[Opening "Queen's pawn game"]
+[HashCode "b2753474"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. Nc3 c5 3. Nf3 cxd4 4. Nxd4 d5 5. Bf4 Nbd7 6. Nf3 e6 7. e3 Qa5
+8. a3 Ne4 9. b4 Bxb4 10. axb4 Qxb4 11. Qd4 Qxc3+ 12. Qxc3 Nxc3 13. Bd3 f6
+14. Bd6 Nb6 15. Kd2 Ne4+ 16. Bxe4 dxe4 17. Bc5 Nd7 18. Bxa7 exf3 0-1
+

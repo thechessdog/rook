@@ -1,0 +1,22 @@
+[Event "Bundesliga 8081"]
+[Site "Duitsland tt"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Berry, Stephen H"]
+[Black "Heidrich, Manfred"]
+[Result "1/2-1/2"]
+[ECO "B31"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack, Gurgenidze variation"]
+[HashCode "c5f09c0f"]
+[Epoch "Rook"]
+[WhiteID "403369"]
+[WhiteCountry "ENG"]
+[BlackID "4602722"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. Re1 e5 6. b4 Nxb4 7. c3 Nc6 8. d4
+a6 9. Bxc6 dxc6 10. dxe5 Qxd1 11. Rxd1 Bg4 12. Be3 Bxf3 13. gxf3 Bxe5 14. Bxc5
+Nf6 15. Na3 Nd7 16. Bd4 f6 17. Nc4 O-O-O 18. Kg2 Kc7 19. a4 b6 20. Rab1 b5 21.
+Nxe5 fxe5 22. Be3 Nb6 23. axb5 axb5 24. Rdc1 Nc4 25. Bc5 Ra8 26. h4 h5 27. Kg3
+Rhe8 28. Ra1 1/2-1/2

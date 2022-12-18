@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Rossini"]
+[Black "Caltabiano"]
+[Result "0-1"]
+[ECO "A78"]
+[Opening "Benoni"]
+[Variation "classical with ...Re8 and ...Na6"]
+[HashCode "3f25f4ef"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. Nf3 Bg7 8.
+Be2 O-O 9. O-O Re8 10. Nd2 Na6 11. Bxa6 bxa6 12. f3 Bd7 13. a4 Rb8 14. Nc4
+Re7 15. Nxd6 Bxa4 16. Nxf7 Rxf7 17. Qxa4 Rb6 18. Qa5 Qd6 19. f4 Ng4 20. e5
+Nxe5 21. fxe5 Rxf1+ 22. Kxf1 Qxe5 23. Qxc5 Rf6+ 24. Bf4 Qxf4+ 25. Kg1 Rf5
+26. Rd1 Be5 27. g3 Qf3 28. Re1 Bxg3 29. Re8+ Kg7 30. Qxa7+ Kh6 0-1
+

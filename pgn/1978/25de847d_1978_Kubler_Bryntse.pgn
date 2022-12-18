@@ -1,0 +1,18 @@
+[Event "corr EUR/M"]
+[Site "corr EUR/M"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Kubler, A."]
+[Black "Bryntse, Arne"]
+[Result "0-1"]
+[ECO "B40"]
+[Opening "Sicilian"]
+[Variation "Pin, Koch variation"]
+[HashCode "25de847d"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Bb4 6. e5 Nd5 7. Qg4 Kf8
+8. a3 h5 9. Qg3 h4 10. Qf3 Bxc3+ 11. bxc3 Qc7 12. Bb2 Qxe5+ 13. Ne2 Nc6 14.
+O-O-O b5 15. Nd4 Qg5+ 16. Kb1 Ne5 17. Qe2 Nc4 18. Nf3 Qe7 19. g3 Bb7 20.
+Rd3 Nxb2 21. Kxb2 Nb6 0-1
+

@@ -1,0 +1,16 @@
+[Event "Xenia,OH"]
+[Site "Xenia,OH"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Wall, Bill"]
+[Black "Davis"]
+[Result "0-1"]
+[ECO "D85"]
+[Opening "Gruenfeld"]
+[Variation "modern exchange variation"]
+[HashCode "a66f61fb"]
+[Epoch "Rook"]
+[WhiteCountry "USA"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Nf3 O-O 8.
+Be3 c5 9. Rb1 Qa5 10. Qd2 cxd4 11. cxd4 Nc6 12. Be2 Rd8 13. d5 Bc3 0-1

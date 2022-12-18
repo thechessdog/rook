@@ -1,0 +1,20 @@
+[Event "Lone Pine open"]
+[Site "Lone Pine open"]
+[Date "1976.03.01"]
+[Round "7"]
+[White "Strauss, David"]
+[Black "De Firmian, Nick"]
+[Result "0-1"]
+[ECO "B26"]
+[Opening "Sicilian"]
+[Variation "closed, 6.Be3"]
+[HashCode "c255a7b1"]
+[Epoch "Rook"]
+[WhiteID "2000750"]
+[WhiteCountry "USA"]
+[BlackID "2000105"]
+[BlackCountry "USA"]
+
+1. e4 c5 2. Nc3 g6 3. g3 Bg7 4. Bg2 Nc6 5. d3 d6 6. Be3 e5 7. f4 Nge7 8. Nf3
+O-O 9. O-O Nd4 10. Qd2 Rb8 11. Nh4 exf4 12. Bxf4 b5 13. a3 a5 14. Rae1 Qc7 15.
+Kh1 b4 16. axb4 cxb4 17. Nb1 Nxc2 18. Qxc2 0-1

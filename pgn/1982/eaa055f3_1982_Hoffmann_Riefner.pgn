@@ -1,0 +1,28 @@
+[Event "Bundesliga 8182"]
+[Site "Duitsland tt"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Hoffmann, Hans"]
+[Black "Riefner, Edwin"]
+[Result "1-0"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, poisoned pawn variation"]
+[HashCode "eaa055f3"]
+[Epoch "Rook"]
+[WhiteID "4602536"]
+[WhiteCountry "GER"]
+[BlackID "4607465"]
+[BlackCountry "GER"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Qg4 O-O 8. Nf3
+Nbc6 9. Bd3 f5 10. exf6 Rxf6 11. Qh4 h6 12. O-O c4 13. Be2 Qc7 14. Qg3 Qxg3 15.
+hxg3 Ng6 16. Rd1 Bd7 17. Nh2 Be8 18. f4 Nge7 19. Re1 Nf5 20. g4 Ng3 21. Bf3 Bg6
+22. f5 exf5 23. Bxd5+ Bf7 24. Bf3 Re8 25. Rxe8+ Bxe8 26. Rb1 b6 27. Bf4 Ne4 28.
+Re1 g5 29. Be5 Nxe5 30. dxe5 Rf8 31. gxf5 Nc5 32. Ng4 Kg7 33. Ne3 h5 34. f6+
+Kg6 35. Nxc4 Bf7 36. Nd6 Be6 37. c4 h4 38. Be4+ Nxe4 39. Rxe4 g4 40. Kf1 Rh8
+41. Kg1 Rd8 42. Rf4 Rd7 43. f7 Bxf7 44. Rxg4+ Kh5 45. Rg7 Be6 46. Rxd7 Bxd7 47.
+Nb5 Kg5 48. Nc7 Kf5 49. e6 Bxe6 50. Nxe6 Kxe6 51. Kh2 Kf5 52. Kh3 Kg5 53. g3
+hxg3 54. Kxg3 Kf5 55. Kf3 Ke5 56. Ke3 Kd6 57. Kd4 Kc6 58. Kc3 Kc5 59. Kb3 a6
+60. Kc3 b5 61. cxb5 axb5 62. Kb3 Kd5 63. Kb4 Kc6 64. Ka5 Kc5 65. c3 Kc6 66. Ka6
+Kc5 67. Kb7 Kd5 68. Kb6 Kc4 69. Kc6 1-0

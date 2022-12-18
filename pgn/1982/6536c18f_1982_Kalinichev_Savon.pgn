@@ -1,0 +1,21 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Kalinitschew, Sergey"]
+[Black "Savon, Vladimir"]
+[Result "1/2-1/2"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...e6"]
+[HashCode "6536c18f"]
+[Epoch "Rook"]
+[BlackID "14138786"]
+[BlackCountry "UKR"]
+[WhiteID "4637321"]
+[WhiteCountry "GER"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 e6 6. Nf3 Be7 7. cxd5 Nxd5 8.
+Bd3 Nc6 9. O-O O-O 10. Re1 Nf6 11. a3 b6 12. Bc2 Bb7 13. Bg5 Nd5 14. Qd3 g6 15.
+Bh6 Re8 16. Bb3 Na5 17. Ba2 Nxc3 18. bxc3 Bd5 19. Ne5 Bxa2 20. Rxa2 Rc8 21. Qf3
+f6 22. Ng4 f5 23. Ne5 Qc7 1/2-1/2

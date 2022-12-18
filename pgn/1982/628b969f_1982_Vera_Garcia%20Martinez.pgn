@@ -1,0 +1,19 @@
+[Event "Havana"]
+[Site "Havana"]
+[Date "1982.01.01"]
+[Round "11"]
+[White "Vera Gonzalez-Quevedo, Reynaldo"]
+[Black "Garcia Martinez, Silvino"]
+[Result "1/2-1/2"]
+[ECO "B52"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky attack, 3...Bd7"]
+[HashCode "628b969f"]
+[Epoch "Rook"]
+[BlackID "3500179"]
+[BlackCountry "CUB"]
+[WhiteCountry "CUB"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Nxd7 5. d4 cxd4 6. Qxd4 Ngf6 7. Nc3 Qb6
+8. Qxb6 Nxb6 9. Bg5 Rc8 10. Bxf6 gxf6 11. O-O-O Rg8 12. g3 a6 13. Nd5 Nd7 14.
+Nd4 e6 15. Nc3 Rg4 16. f4 1/2-1/2

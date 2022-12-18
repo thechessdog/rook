@@ -1,0 +1,17 @@
+[Event "Poland"]
+[Site "Poland"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Majdziuk, B."]
+[Black "Dulias, J."]
+[Result "1-0"]
+[ECO "A00"]
+[Opening "Polish"]
+[Variation "Outflank variation"]
+[HashCode "64258c6f"]
+[Epoch "Rook"]
+
+1. b4 c6 2. Bb2 Qb6 3. a3 a5 4. c4 axb4 5. c5 Qxc5 6. axb4 Qxb4 7. Rxa8 Qd6
+8. Nf3 f6 9. e3 Qc7 10. Ra1 d5 11. d4 Bf5 12. Bd3 Bg6 13. O-O Nh6 14. Be2
+Bf7 15. Nbd2 g6 16. Nb3 Nf5 17. Nc5 Nd6 18. Qb3 1-0
+

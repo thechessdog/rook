@@ -1,0 +1,22 @@
+[Event "corr ch16-SU"]
+[Site "corr ch16-SU"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Lutovinov, A."]
+[Black "Akopov, R."]
+[Result "0-1"]
+[ECO "B12"]
+[Opening "Caro-Kann"]
+[Variation "advance variation"]
+[HashCode "3a8c3e0d"]
+[Epoch "Rook"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nc3 e6 5. g4 Bg6 6. Nge2 c5 7. Be3 Nc6 8.
+dxc5 Nxe5 9. Nd4 Nc6 10. h4 h5 11. Bd3 Bxd3 12. cxd3 Nxd4 13. Bxd4 hxg4 14.
+Qxg4 Nh6 15. Qg5 Nf5 16. Qg4 Qa5 17. Kf1 Qb4 18. Ne2 Nxd4 19. Qxd4 Qxd4 20.
+Nxd4 Bxc5 21. Nf3 Bd6 22. Ke2 Bf4 23. d4 Rc8 24. Kd3 Rh5 25. Rae1 Ke7 26.
+Rhg1 g6 27. Re2 Rf5 28. Rh1 Rh8 29. Rg1 Bh6 30. Rg3 Bg7 31. Ke3 Bh6+ 32.
+Kd3 Rf4 33. Rc2 Kd6 34. Rh3 Bg7 35. Rc1 Bf6 36. Rch1 Rh5 37. Ke3 Rhf5 38.
+R1h2 Re4+ 39. Kd3 Rff4 40. Kc3 Bxd4+ 41. Nxd4 Rxd4 42. h5 gxh5 43. Rxh5 Rd1
+44. Rg2 Rc4+ 45. Kb3 Rd3# 0-1
+

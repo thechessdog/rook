@@ -1,0 +1,18 @@
+[Event "Dayton,OH"]
+[Site "Dayton,OH"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Hatherill, Chuck"]
+[Black "Sakanashi, H."]
+[Result "1-0"]
+[ECO "B60"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer"]
+[HashCode "0b7aa6e4"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e5 7. Nf3 Be7
+8. h3 O-O 9. Be2 Nh5 10. Qd2 Bxg5 11. Nxg5 Nf4 12. Nf3 Nxg2+ 13. Kd1 Nf4
+14. Bc4 Bxh3 15. Nd5 Bg2 16. Rg1 Bxf3+ 17. Kc1 Na5 18. Nxf4 Nxc4 19. Qc3
+exf4 20. Qxg7# 1-0
+

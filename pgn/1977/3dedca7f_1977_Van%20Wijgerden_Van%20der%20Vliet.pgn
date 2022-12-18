@@ -1,0 +1,20 @@
+[Event "Leeuwarden ch-NED"]
+[Site "Leeuwarden ch-NED"]
+[Date "1977.04.01"]
+[Round "1"]
+[White "Van Wijgerden, Cornelis"]
+[Black "Van der Vliet, Fred"]
+[Result "1/2-1/2"]
+[ECO "C15"]
+[Opening "French"]
+[Variation "Winawer (Nimzovich) variation"]
+[HashCode "3dedca7f"]
+[Epoch "Rook"]
+[WhiteID "1000144"]
+[WhiteCountry "NED"]
+[BlackID "1000659"]
+[BlackCountry "NED"]
+
+1. e4 e6 2. Nc3 d5 3. d4 Bb4 4. Qg4 Nf6 5. Qxg7 Rg8 6. Qh6 dxe4 7. Ne2 b6 8.
+Bg5 Nbd7 9. Ng3 Rg6 10. Qh4 Bb7 11. Bb5 Be7 12. Qf4 Nh5 13. Bxe7 Nxf4 14. Bxd8
+Rxd8 15. Rg1 Ke7 1/2-1/2

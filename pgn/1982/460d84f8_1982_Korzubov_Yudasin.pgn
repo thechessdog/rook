@@ -1,0 +1,24 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Korzubov, Peter"]
+[Black "Yudasin, Leonid"]
+[Result "0-1"]
+[ECO "B65"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...Be7 defence, 9...Nxd4"]
+[HashCode "460d84f8"]
+[Epoch "Rook"]
+[BlackID "2802341"]
+[BlackCountry "ISR"]
+[WhiteCountry "BLR"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 e6 7. Qd2 Be7 8.
+O-O-O O-O 9. f4 Nxd4 10. Qxd4 Qa5 11. Bc4 Bd7 12. Bb3 Bc6 13. Kb1 Rfd8 14. Rhe1
+h6 15. Bh4 Qh5 16. Bg3 d5 17. e5 Ne4 18. Ne2 a5 19. c3 a4 20. Bc2 a3 21. b3 Bb5
+22. c4 Bc6 23. cxd5 Rxd5 24. Qe3 Rxd1+ 25. Bxd1 Bb4 26. Nd4 Qg6 27. Bc2 Bxe1
+28. Nxc6 Nc3+ 29. Qxc3 Bxc3 30. Ne7+ Kh7 31. Nxg6 fxg6 32. Be4 Bb4 33. Bxb7 Rd8
+34. Kc1 Bd2+ 35. Kc2 Be3 36. Be1 Bxf4 37. Bc3 Bxh2 38. b4 h5 39. Be4 Kh6 40.
+Kb3 g5 41. Kxa3 g4 42. b5 Bg1 43. Kb3 h4 44. a4 h3 45. gxh3 gxh3 46. Kc2 Kg5
+47. Bd2+ Rxd2+ 48. Kxd2 Kf4 49. Kd3 g5 50. a5 g4 51. b6 g3 52. b7 Ba7 0-1

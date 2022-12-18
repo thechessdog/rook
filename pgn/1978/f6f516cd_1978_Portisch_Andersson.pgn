@@ -1,0 +1,20 @@
+[Event "Buenos Aires olm"]
+[Site "Buenos Aires olm"]
+[Date "1978.10.01"]
+[Round "1"]
+[White "Portisch, Lajos"]
+[Black "Andersson, Ulf"]
+[Result "1/2-1/2"]
+[ECO "E53"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line with ...c5"]
+[HashCode "f6f516cd"]
+[Epoch "Rook"]
+[WhiteID "700037"]
+[BlackID "1700014"]
+[WhiteCountry "HUN"]
+[BlackCountry "SWE"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 c5 6. Nf3 d5 7. O-O cxd4 8. exd4
+dxc4 9. Bxc4 b6 10. Bg5 Bb7 11. Re1 Nbd7 12. Rc1 Rc8 13. Bd3 Re8 14. Qe2 Bxc3
+15. bxc3 Qc7 16. Bh4 Nh5 17. Qe3 Ndf6 18. Bg3 Nxg3 1/2-1/2

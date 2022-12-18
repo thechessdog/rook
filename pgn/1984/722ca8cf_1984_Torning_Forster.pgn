@@ -1,0 +1,17 @@
+[Event "corr AUS"]
+[Site "corr AUS"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Torning"]
+[Black "Forster"]
+[Result "1-0"]
+[ECO "B33"]
+[Opening "Sicilian"]
+[Variation "Pelikan (Lasker/Sveshnikov) variation"]
+[HashCode "722ca8cf"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 Bc5 7. Bg5 a6
+8. Nd6+ Kf8 9. Bc4 Qe7 10. Nxf7 Rg8 11. O-O b5 12. Bb3 h6 13. Nxh6 Rh8 14.
+Nd5 Qd6 15. Nf5 Qb8 16. Nxf6 gxf6 17. Qd5 Rxh2 18. Qg8# 1-0
+

@@ -1,0 +1,21 @@
+[Event "Bundesliga 8384"]
+[Site "Duitsland tt"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Capelan, Guenter"]
+[Black "Hickl, Thomas"]
+[Result "1-0"]
+[ECO "B16"]
+[Opening "Caro-Kann"]
+[Variation "Bronstein-Larsen variation"]
+[HashCode "c724c02d"]
+[Epoch "Rook"]
+[WhiteID "4600592"]
+[WhiteCountry "GER"]
+[BlackID "4604040"]
+[BlackCountry "GER"]
+
+1. e4 c6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Nf6 5. Nxf6+ gxf6 6. Ne2 Bg4 7. Qd3 Na6
+8. Qb3 Qd7 9. Be3 e6 10. Ng3 Bd6 11. h3 Bxg3 12. hxg4 Bd6 13. Bd3 Nb4 14. Rxh7
+O-O-O 15. Rxh8 Rxh8 16. O-O-O Nd5 17. Bd2 Nf4 18. Bf1 Rh2 19. Qf3 Ng6 20. Qxf6
+Be7 21. g3 Qd5 22. c4 Qe4 23. Qxf7 Qxg4 24. d5 cxd5 25. cxd5 exd5 26. Bd3 1-0

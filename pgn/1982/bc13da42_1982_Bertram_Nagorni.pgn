@@ -1,0 +1,21 @@
+[Event "Regionalliga Nord"]
+[Site "RLN 8182"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Bertram, Andreas"]
+[Black "Nagorni, Walter"]
+[Result "1-0"]
+[ECO "B31"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (with ...g6, without ...d6)"]
+[HashCode "bc13da42"]
+[Epoch "Rook"]
+[WhiteID "4636252"]
+[WhiteCountry "GER"]
+[BlackID "4666593"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. Re1 Nf6 6. c3 O-O 7. d4 cxd4 8.
+cxd4 d6 9. h3 Bd7 10. Nc3 a6 11. Bf1 e6 12. Bf4 Ne8 13. Qd2 Rc8 14. Rad1 Na5
+15. Bh6 Nc4 16. Bxc4 Rxc4 17. Bxg7 Nxg7 18. b3 Rc8 19. Rc1 Bc6 20. d5 exd5 21.
+exd5 Bd7 22. Ne4 Rxc1 23. Qxc1 Bf5 24. Qh6 g5 25. Nf6+ 1-0

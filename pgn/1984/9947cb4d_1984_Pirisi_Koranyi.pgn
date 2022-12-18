@@ -1,0 +1,19 @@
+[Event "Hungary"]
+[Site "Hungary"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Pirisi, Gabor"]
+[Black "Koranyi, Attila"]
+[Result "1-0"]
+[ECO "B10"]
+[Opening "Caro-Kann"]
+[Variation "two knights variation"]
+[HashCode "9947cb4d"]
+[Epoch "Rook"]
+[WhiteID "700444"]
+[WhiteCountry "HUN"]
+
+1. e4 c6 2. Nc3 d5 3. Nf3 dxe4 4. Nxe4 Nf6 5. Ng3 Nbd7 6. d4 e6 7. Bd3 Bd6 8.
+O-O O-O 9. c3 c5 10. Re1 Qc7 11. Qe2 Bf4 12. Ne5 Bxc1 13. Raxc1 Re8 14. Qf3 Nf8
+15. dxc5 Qxc5 16. Re4 Bd7 17. Nh5 Qe7 18. Nxf6+ gxf6 19. Rg4+ Kh8 20. Nxd7 Nxd7
+21. Bxh7 1-0

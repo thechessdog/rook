@@ -1,0 +1,20 @@
+[Event "corr ch-HUN"]
+[Site "corr ch-HUN"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Karsai"]
+[Black "Banszky"]
+[Result "0-1"]
+[ECO "C69"]
+[Opening "Ruy Lopez"]
+[Variation "exchange, Gligoric variation"]
+[HashCode "5ae3d4e6"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O f6 6. d4 exd4 7. Nxd4 Ne7
+8. Be3 Ng6 9. f4 Bd6 10. Nf5 O-O 11. Qg4 Qe8 12. Nd2 Bd7 13. Rf3 Bxf5 14.
+exf5 Ne7 15. c4 c5 16. Rg3 Qf7 17. Rh3 Rae8 18. Re1 Nc6 19. Qh4 h6 20. Qf2
+Nd4 21. g4 Re7 22. Bxd4 Rxe1+ 23. Qxe1 cxd4 24. Qf1 Re8 25. Rf3 c5 26. h4
+Qe7 27. Qf2 Qe1+ 28. Qxe1 Rxe1+ 29. Rf1 Rxf1+ 30. Kxf1 Bxf4 31. Ne4 b6 32.
+Ke2 Kf7 33. Kf3 Bc7 34. Nf2 Ke7 35. Nd3 Kd7 0-1
+

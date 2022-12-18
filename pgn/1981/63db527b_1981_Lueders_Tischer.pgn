@@ -1,0 +1,27 @@
+[Event "Bundesliga 8081"]
+[Site "Duitsland tt"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Lueders, Gerhard"]
+[Black "Tischer, Guenter"]
+[Result "0-1"]
+[ECO "E98"]
+[Opening "King's Indian"]
+[Variation "orthodox, Aronin-Taimanov, 9.Ne1"]
+[HashCode "63db527b"]
+[Epoch "Rook"]
+[WhiteID "4608240"]
+[WhiteCountry "GER"]
+[BlackID "4601815"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Be2 O-O 6. Nf3 e5 7. O-O Nc6 8. d5
+Ne7 9. Ne1 Nd7 10. Be3 f5 11. f3 Nf6 12. c5 f4 13. Bf2 g5 14. Rc1 Ne8 15. b4
+Ng6 16. Nd3 Rf7 17. Qb3 h5 18. Rc2 g4 19. Rfc1 Bf6 20. cxd6 cxd6 21. a4 Bh4 22.
+Nb5 Bxf2+ 23. Nxf2 g3 24. Nd3 Bd7 25. h3 a6 26. Na3 Rc8 27. Nc4 b5 28. axb5
+Bxb5 29. Na5 Rxc2 30. Qxc2 Qb6+ 31. Kh1 Rc7 32. Nc6 Ne7 33. Nxe7+ Rxe7 34. Qd2
+Qd4 35. Bf1 Rc7 36. Rxc7 Nxc7 37. Qc2 Ne8 38. Qc8 Kf8 39. Qf5+ Ke7 40. Qg5+ Kd7
+41. Qf5+ Kc7 42. Qf7+ Kd8 43. Nxf4 exf4 44. Qxf4 Qf2 45. Qg5+ Kc7 46. Qc1+ Kb8
+47. Bxb5 axb5 48. f4 Qe2 49. e5 dxe5 50. f5 Nd6 51. f6 Qf2 52. f7 Qxf7 53. Qg1
+Qf2 54. Qa1 Qe2 55. Qg1 Kb7 56. Qc1 Nc4 57. d6 Nxd6 58. Qb1 Ne4 59. h4 Nf2+ 60.
+Kg1 Qd1+ 0-1

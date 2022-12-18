@@ -1,0 +1,19 @@
+[Event "Tunis tt"]
+[Site "Tunis tt"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Martorelli"]
+[Black "Sprotte"]
+[Result "1-0"]
+[ECO "C00"]
+[Opening "French"]
+[Variation "Two knights variation"]
+[HashCode "06cf2cf8"]
+[Epoch "Rook"]
+
+1. e4 e6 2. Nf3 d5 3. Nc3 Nf6 4. e5 Nfd7 5. d4 c5 6. dxc5 Nc6 7. Bf4 Bxc5
+8. Bd3 f6 9. exf6 Nxf6 10. O-O O-O 11. Qe2 a6 12. Rae1 Kh8 13. Ne5 Nxe5 14.
+Bxe5 Bd7 15. Qf3 Qe7 16. Qg3 Qf7 17. Qh4 Be7 18. Qd4 Rac8 19. Re3 Bc5 20.
+Qh4 Bxe3 21. fxe3 Qe7 22. Bd6 Qxd6 23. Rxf6 g6 24. Bxg6 Kg7 25. Rf7+ Rxf7
+26. Qxh7+ Kf6 27. Qxf7+ Kg5 28. Be4 1-0
+

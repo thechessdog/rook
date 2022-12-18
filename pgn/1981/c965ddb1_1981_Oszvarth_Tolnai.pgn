@@ -1,0 +1,20 @@
+[Event "Budapest"]
+[Site "Budapest"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Oszvarth"]
+[Black "Tolnai, Tibor"]
+[Result "1-0"]
+[ECO "B12"]
+[Opening "Caro-Kann"]
+[Variation "Tartakower (fantasy) variation"]
+[HashCode "c965ddb1"]
+[Epoch "Rook"]
+[BlackID "700126"]
+[BlackCountry "HUN"]
+
+1. e4 c6 2. d4 d5 3. f3 dxe4 4. fxe4 e5 5. Nf3 exd4 6. Bc4 Be7 7. O-O Be6 8.
+Bxe6 fxe6 9. Nbd2 c5 10. Nc4 Nc6 11. Bf4 Nf6 12. Ng5 Qd7 13. e5 Nd5 14. Qh5+ g6
+15. Qg4 Nxf4 16. Rxf4 b5 17. Nd6+ Bxd6 18. exd6 O-O-O 19. Nxe6 Ne5 20. Qh3 g5
+21. Rf6 g4 22. Qa3 Qxd6 23. Qxa7 Rd7 24. Qa8+ Qb8 25. Qa6+ Qb7 26. Nxc5 Qxa6
+27. Rxa6 1-0

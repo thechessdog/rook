@@ -1,0 +1,17 @@
+[Event "USA"]
+[Site "USA"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Moore"]
+[Black "Lucero, E."]
+[Result "1-0"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra gambit"]
+[HashCode "bdd6e7d6"]
+[Epoch "Rook"]
+
+1. e4 c5 2. d4 cxd4 3. c3 dxc3 4. Nxc3 d6 5. Nf3 Nc6 6. Bc4 e6 7. O-O Be7
+8. Qe2 a6 9. Rd1 Qc7 10. Bf4 Ne5 11. Bxe5 dxe5 12. Rac1 Qb8 13. Bb5+ axb5
+14. Nxb5 Ra5 15. b4 Bxb4 16. Qc4 Bd7 17. Nc7+ Kd8 18. Qxb4 1-0
+

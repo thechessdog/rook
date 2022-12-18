@@ -1,0 +1,21 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Poenisch"]
+[Black "Zingler"]
+[Result "1-0"]
+[ECO "C07"]
+[Opening "French"]
+[Variation "Tarrasch, open variation"]
+[HashCode "939dfae9"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. Ngf3 Nc6 5. Bb5 Nf6 6. exd5 Qxd5 7. c4 Qh5
+8. Qe2 Be7 9. Ne5 Qxe2+ 10. Kxe2 Bd7 11. Bxc6 Bxc6 12. Nxc6 bxc6 13. Nb3
+Nd7 14. Be3 cxd4 15. Nxd4 Rc8 16. Rad1 Bc5 17. Rd2 Ne5 18. Nc2 Bxe3 19.
+Nxe3 Ke7 20. Rhd1 Rhd8 21. Rxd8 Rxd8 22. Rxd8 Kxd8 23. f4 Nd7 24. b4 Ke7
+25. Kd3 f6 26. a4 g6 27. g4 f5 28. gxf5 gxf5 29. Kd4 Kf6 30. c5 e5+ 31.
+fxe5+ Nxe5 32. b5 cxb5 33. Nd5+ Ke6 34. Nf4+ Kd7 35. axb5 Nf3+ 36. Kd5 Nxh2
+37. c6+ Kc7 38. Kc5 1-0
+

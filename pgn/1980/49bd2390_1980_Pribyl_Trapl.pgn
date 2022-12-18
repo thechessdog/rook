@@ -1,0 +1,21 @@
+[Event "Czechoslovakia"]
+[Site "Czechoslovakia"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Pribyl, Josef"]
+[Black "Trapl, Jindrich"]
+[Result "1-0"]
+[ECO "A06"]
+[Opening "Reti"]
+[Variation "Nimzovich-Larsen attack"]
+[HashCode "49bd2390"]
+[Epoch "Rook"]
+[BlackCountry "CZE"]
+[WhiteID "300187"]
+[WhiteCountry "CZE"]
+
+1. Nf3 d5 2. b3 c5 3. Bb2 f6 4. e3 e5 5. d4 cxd4 6. exd4 e4 7. Nfd2 f5 8. c4
+Nf6 9. Nc3 Be6 10. cxd5 Nxd5 11. Bc4 Nc6 12. Ndxe4 Nxc3 13. Nxc3 Bxc4 14. bxc4
+Qxd4 15. Qh5+ g6 16. Qe2+ Qe5 17. Nd5 Qxe2+ 18. Kxe2 Rg8 19. Nc7+ Kd7 20. Nxa8
+Be7 21. Rhd1+ Kc8 22. Rab1 Kb8 23. Rd7 Kxa8 24. Bc3 Re8 25. Rbxb7 Bc5+ 26. Kf1
+1-0

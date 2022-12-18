@@ -1,0 +1,19 @@
+[Event "corr EU"]
+[Site "corr EU"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Mischke"]
+[Black "Schmid"]
+[Result "1-0"]
+[ECO "D85"]
+[Opening "Gruenfeld"]
+[Variation "modern exchange variation"]
+[HashCode "0907e4b2"]
+[Epoch "Rook"]
+
+1. c4 Nf6 2. d4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Nf3 c5
+8. Rb1 O-O 9. Be2 cxd4 10. cxd4 Qa5+ 11. Qd2 Qxd2+ 12. Bxd2 Rd8 13. Be3 b6
+14. h3 Nc6 15. Rd1 Bb7 16. Rd2 Rac8 17. O-O Nb4 18. a3 Nc2 19. d5 Rc3 20.
+a4 Nxe3 21. fxe3 Rxe3 22. Bd3 Bh6 23. Rdd1 e6 24. Ne5 Bg7 25. Nxf7 Rf8 26.
+dxe6 Bc6 27. e7 Re8 28. Bc4 1-0
+

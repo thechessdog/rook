@@ -1,0 +1,19 @@
+[Event "Baile Herculane zt"]
+[Site "Baile Herculane zt"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Ghinda, Mihail-Viorel"]
+[Black "Meduna, Eduard"]
+[Result "1/2-1/2"]
+[ECO "B11"]
+[Opening "Caro-Kann"]
+[Variation "two knights, 3...Bg4"]
+[HashCode "03c02f6f"]
+[Epoch "Rook"]
+[BlackID "300055"]
+[BlackCountry "CZE"]
+[WhiteCountry "ROU"]
+
+1. e4 c6 2. Nc3 d5 3. Nf3 Bg4 4. h3 Bh5 5. exd5 cxd5 6. d4 Nc6 7. g4 Bg6 8. Ne5
+e6 9. h4 f6 10. h5 Bf7 11. Nxf7 Kxf7 12. Ne2 Bd6 13. Bg2 Nge7 14. c3 Rf8 15.
+O-O Qc7 16. f4 f5 17. g5 Kg8 1/2-1/2

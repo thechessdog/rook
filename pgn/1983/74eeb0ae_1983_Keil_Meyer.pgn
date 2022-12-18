@@ -1,0 +1,19 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Keil"]
+[Black "Mevel, Alberic"]
+[Result "0-1"]
+[ECO "C05"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation"]
+[HashCode "74eeb0ae"]
+[Epoch "Rook"]
+[BlackID "602574"]
+[BlackCountry "FRA"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Bd3 c5 6. c3 Nc6 7. Ne2 Qb6 8. Nf3
+cxd4 9. cxd4 f6 10. exf6 Nxf6 11. O-O Bd6 12. Rb1 O-O 13. Bf4 Nb4 14. a3 Nxd3
+15. Qxd3 Bd7 16. Qe3 Ng4 17. Qd2 Bb5 18. Bxd6 Qxd6 19. h3 Rxf3 20. hxg4 Rd3 21.
+Qa5 Bc4 22. Rfe1 Rf8 23. Qxa7 Rd2 24. Kf1 Qh2 25. f3 Rxf3+ 0-1

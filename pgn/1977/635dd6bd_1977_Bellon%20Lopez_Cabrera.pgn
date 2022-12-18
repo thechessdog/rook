@@ -1,0 +1,18 @@
+[Event "Las Palmas"]
+[Site "Las Palmas"]
+[Date "1977.01.01"]
+[Round "3"]
+[White "Bellon Lopez, Juan Manuel"]
+[Black "Cabrera, Gabriel"]
+[Result "1-0"]
+[ECO "A48"]
+[Opening "King's Indian"]
+[Variation "Torre attack"]
+[HashCode "635dd6bd"]
+[Epoch "Rook"]
+[WhiteID "2200031"]
+[WhiteCountry "SWE"]
+
+1. d4 Nf6 2. Nf3 g6 3. Bg5 Bg7 4. Nbd2 d5 5. e3 O-O 6. Be2 b6 7. Rc1 Bb7 8. O-O
+Nbd7 9. c4 dxc4 10. Qa4 c5 11. Nxc4 a6 12. Qa3 Re8 13. dxc5 bxc5 14. Rfd1 Qc7
+15. Na5 Rab8 16. b4 Qb6 17. bxc5 1-0

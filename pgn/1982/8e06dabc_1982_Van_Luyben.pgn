@@ -1,0 +1,18 @@
+[Event "corr Netherlands"]
+[Site "corr Netherlands"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Van Geemen"]
+[Black "Luyben"]
+[Result "1-0"]
+[ECO "C17"]
+[Opening "French"]
+[Variation "Winawer, advance, 5.a3"]
+[HashCode "8e06dabc"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Ba5 6. b4 cxd4 7. Nb5 Bc7 8. f4
+Nc6 9. Nf3 Nge7 10. Bd3 Bb8 11. Nbxd4 a6 12. Be3 Ba7 13. c3 Qc7 14. O-O O-O
+15. Bxh7+ Kxh7 16. Ng5+ Kg8 17. Qh5 Rd8 18. Qxf7+ Kh8 19. Ndxe6 Bxe3+ 20.
+Kh1 Bxe6 21. Qxe6 1-0
+

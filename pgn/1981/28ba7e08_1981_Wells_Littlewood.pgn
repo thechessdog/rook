@@ -1,0 +1,32 @@
+[Event "Morecambe ch-BCF"]
+[Site "Morecambe ch-BCF"]
+[Date "1981.08.04"]
+[Round "2"]
+[White "Wells, Peter K"]
+[Black "Littlewood, Paul E"]
+[Result "0-1"]
+[ECO "E53"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line with ...c5"]
+[HashCode "28ba7e08"]
+[Epoch "Rook"]
+[WhiteID "400327"]
+[WhiteCountry "ENG"]
+[BlackID "400190"]
+[BlackCountry "ENG"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 c5 7. O-O cxd4 8. exd4
+dxc4 9. Bxc4 b6 10. Ne5 Bb7 11. Bg5 Nc6 12. Bxf6 gxf6 13. Nxc6 Bxc6 14. Rc1 Rc8
+15. Bb3 Bb7 16. Qd3 Kh8 17. a3 Rg8 18. Ne4 Rxc1 19. Rxc1 f5 20. Ng3 Bd6 21. d5
+Qg5 22. Re1 f4 23. dxe6 fxg3 24. hxg3 Qe7 25. Rd1 Rd8 26. exf7 Qf6 27. Re1 Bf8
+28. Qe2 Bd5 29. Rd1 Bxf7 30. Rxd8 Bxb3 31. Qe8 Kg8 32. Rd3 Bf7 33. Qe2 Bg7 34.
+Qd2 h5 35. b3 Qa1+ 36. Kh2 Qxa3 37. Qg5 Qc5 38. Qf4 Qe7 39. Qf3 Bg6 40. Re3 Qd7
+41. Qf4 Qf7 42. Qb8+ Kh7 43. Rf3 Qd7 44. Rf4 Bd4 45. Rf8 Qe7 46. Rd8 Bf6 47.
+Rd2 Bf7 48. Qc8 Be6 49. Qc6 Bf5 50. Qb5 Kg6 51. Re2 Qd7 52. Qb4 Kf7 53. Qf4 Kg6
+54. Qb4 Qd5 55. Qa4 a5 56. Qe8+ Qf7 57. Qb5 Bd4 58. Qc6+ Kg7 59. Rd2 Bc5 60.
+Rd5 Be4 61. Rg5+ Bg6 62. f3 Qf6 63. Rxc5 bxc5 64. Qxc5 Qf5 65. Qc3+ Kg8 66. g4
+hxg4 67. fxg4 Qf4+ 68. Kg1 Qb4 69. Qc8+ Kh7 70. Qc7+ Kh6 71. Qc1+ Kg7 72. Qc7+
+Bf7 73. Qe5+ Kf8 74. Qf6 Qc5+ 75. Qf2 Qc3 76. Qf4 Ke8 77. Kf2 Qb4 78. Qe3+ Kd8
+79. Qg5+ Kd7 80. Qf5+ Be6 81. Qd3+ Kc7 82. Qh7+ Kc6 83. Qg6 Qxb3 84. Qe8+ Kc5
+85. Qe7+ Kb5 86. Qb7+ Ka4 87. Qc6+ Ka3 88. Qc5+ Qb4 89. Qe3+ Bb3 90. g5 Qc4 91.
+Qe5 a4 92. Kg1 Ka2 93. Qf5 Qd4+ 94. Kh2 a3 95. Qf1 Qe5+ 96. Kg1 Qa1 0-1

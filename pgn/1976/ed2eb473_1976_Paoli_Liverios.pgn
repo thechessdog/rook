@@ -1,0 +1,25 @@
+[Event "Kallithea"]
+[Site "Kallithea"]
+[Date "1976.??.??"]
+[Round "2"]
+[White "Paoli, Enrico"]
+[Black "Liverios, Thisefs"]
+[Result "1-0"]
+[ECO "B17"]
+[Opening "Caro-Kann"]
+[Variation "Steinitz variation"]
+[HashCode "ed2eb473"]
+[Epoch "Rook"]
+[BlackID "4200284"]
+[WhiteCountry "ITA"]
+[BlackCountry "GRE"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Nxf6+ Nxf6 7. Bc4 Bf5
+8. c3 e6 9. Bg5 Be7 10. O-O Bg4 11. h3 Bxf3 12. Qxf3 Nd5 13. Bd2 Bg5 14. Rad1
+O-O 15. Rfe1 Bxd2 16. Rxd2 Qf6 17. Qd1 Rad8 18. Rd3 Rd7 19. a3 Rfd8 20. Rf3 Qe7
+21. b4 a5 22. Qc2 axb4 23. axb4 b5 24. Ba2 Ra7 25. Bb1 g6 26. g3 Ra3 27. Kg2
+Kg7 28. h4 h5 29. Re5 Rh8 30. Rg5 f5 31. Qb2 Raa8 32. Qe2 Ra3 33. c4 Rxf3 34.
+cxd5 Rb3 35. Bxf5 Rh6 36. Qe5+ Qf6 37. Qc7+ Qf7 38. Qe5+ Qf6 39. dxe6 Qxe5 40.
+dxe5 Rxb4 41. Bxg6 Kf8 42. Bf7 Ke7 43. f4 Re4 44. f5 Rxe5 45. f6+ Kxf6 46. Rxe5
+Kxe5 47. e7 Rh8 48. e8=Q+ Rxe8 49. Bxe8 b4 50. Bxc6 b3 51. Ba4 b2 52. Bc2 Kd4
+53. Bb1 Ke3 54. g4 Kf4 55. g5 1-0

@@ -1,0 +1,21 @@
+[Event "corr ch-YUG"]
+[Site "corr ch-YUG"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Iveges, Z."]
+[Black "Tagirov, B."]
+[Result "1-0"]
+[ECO "D80"]
+[Opening "Gruenfeld"]
+[Variation "Stockholm variation"]
+[HashCode "75e48798"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Bg5 Ne4 5. Bh4 c5 6. cxd5 Nxc3 7. bxc3 Qxd5
+8. e3 Bg7 9. Nf3 Nc6 10. Be2 cxd4 11. cxd4 e5 12. dxe5 Qa5+ 13. Qd2 Qxd2+
+14. Kxd2 Nxe5 15. Rab1 O-O 16. Nd4 a6 17. Rhc1 Re8 18. f4 Nd7 19. Bf3 Rb8
+20. Rc7 Bf8 21. Bxb7 Bxb7 22. Rcxb7 Bc5 23. Rxb8 Nxb8 24. Rb7 a5 25. Nc2
+Bd6 26. Bf6 Kf8 27. Bc3 Nc6 28. Rb6 Rc8 29. g3 Be7 30. a4 Bd8 31. Rb5 Ke7
+32. Nd4 Nxd4 33. exd4 Rc4 34. Kc2 Rc8 35. Kd3 Ra8 36. Rb7+ Ke8 37. d5 h5
+38. Be5 1-0
+

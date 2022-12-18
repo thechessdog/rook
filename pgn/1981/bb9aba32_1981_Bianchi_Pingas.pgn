@@ -1,0 +1,21 @@
+[Event "Buenos Aires"]
+[Site "Buenos Aires"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Bianchi, Guillermo"]
+[Black "Pingas"]
+[Result "1-0"]
+[ECO "C15"]
+[Opening "French"]
+[Variation "Winawer (Nimzovich) variation"]
+[HashCode "bb9aba32"]
+[Epoch "Rook"]
+[WhiteID "100080"]
+[WhiteCountry "ARG"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. exd5 exd5 5. Qf3 c6 6. Bd3 Qf6 7. Bf4 Bd6 8.
+Bg3 Qxf3 9. Nxf3 Bxg3 10. hxg3 Nf6 11. Kd2 h6 12. Rae1+ Kf8 13. Nh4 Na6 14.
+Bxa6 bxa6 15. Nf3 Bf5 16. Ne5 Rc8 17. f3 c5 18. dxc5 Rxc5 19. Rh4 g5 20. Rb4
+Kg7 21. Rb7 Rf8 22. Nd3 Ra5 23. Re5 Bg6 24. a4 Bxd3 25. Kxd3 Rc5 26. Rxa7 a5
+27. Nb5 Nh5 28. Nc7 Rc8 29. Ne6+ Kf6 30. Nxc5 Kxe5 31. Rxa5 Nxg3 32. b4 Nh5 33.
+Ke3 Nf4 34. g3 d4+ 35. Kd2 Nd5 36. Nd7+ 1-0

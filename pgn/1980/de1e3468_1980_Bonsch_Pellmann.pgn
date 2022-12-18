@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Bonsch, H."]
+[Black "Pellmann, R."]
+[Result "0-1"]
+[ECO "D83"]
+[Opening "Gruenfeld"]
+[Variation "Gruenfeld gambit, Botvinnik variation"]
+[HashCode "de1e3468"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Bf4 Bg7 5. e3 O-O 6. Rc1 c5 7. dxc5 Be6 8.
+Qb3 Na6 9. Qxb7 Nxc5 10. Qb5 Rc8 11. Nxd5 Bxd5 12. Rd1 a6 13. Qb4 Bxg2 14.
+Rxd8 Rfxd8 15. Qa3 Bxh1 16. b4 Nfe4 0-1
+

@@ -1,0 +1,19 @@
+[Event "corr EU/M/GT"]
+[Site "corr EU/M/GT"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Braskin, I."]
+[Black "Eroshkin, BF."]
+[Result "0-1"]
+[ECO "B41"]
+[Opening "Sicilian"]
+[Variation "Kan variation"]
+[HashCode "5a08a284"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bc4 Nf6 6. Nc3 Qc7 7. Bd3 Nc6
+8. Be3 b5 9. a3 Bb7 10. Nxc6 Bxc6 11. O-O Qb7 12. e5 Nd5 13. Nxd5 Bxd5 14.
+Qg4 Qc7 15. f4 g6 16. b3 Qc3 17. Qe2 Bc5 18. Bxc5 Qxc5+ 19. Qf2 Qc3 20. Qb6
+O-O 21. Qd6 f6 22. f5 Qd4+ 23. Kh1 fxe5 24. Qe7 exf5 25. Rad1 Rae8 26. Qg5
+Qg4 27. Qxg4 fxg4 28. Rxf8+ Rxf8 29. Bxg6 hxg6 30. Rxd5 0-1
+

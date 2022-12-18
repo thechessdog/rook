@@ -1,0 +1,17 @@
+[Event "corr DDR-cup6"]
+[Site "corr DDR-cup6"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Reichl, A."]
+[Black "Rosenhahn, E."]
+[Result "0-1"]
+[ECO "C57"]
+[Opening "two knights defence"]
+[Variation "Wilkes Barre (Traxler) variation"]
+[HashCode "602237ea"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 Bc5 5. Bxf7+ Ke7 6. Bb3 Rf8 7. O-O d6
+8. Nc3 Qe8 9. d3 h6 10. Nd5+ Kd8 11. Nf3 Bg4 12. Be3 Nxd5 13. Bxd5 Qh5 14.
+Bxc6 Rxf3 15. Bxc5 bxc6 16. Ba3 Kd7 17. Qd2 Rh3 18. gxh3 Bf3 0-1
+

@@ -1,0 +1,20 @@
+[Event "Southfield ch-MI M/X"]
+[Site "Southfield ch-MI M/X"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Quigley, L."]
+[Black "Dowling, J."]
+[Result "1/2-1/2"]
+[ECO "E42"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5, 5.Ne2 (Rubinstein)"]
+[HashCode "670dc3b5"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Ne2 O-O 6. a3 cxd4 7. axb4 dxc3
+8. Nxc3 d5 9. cxd5 exd5 10. Be2 Nc6 11. b5 Ne5 12. b3 Re8 13. Bb2 Bf5 14.
+O-O Qd6 15. h3 Qe6 16. Qd4 b6 17. Rac1 Rad8 18. g4 Bd3 19. Kg2 Bxe2 20.
+Nxe2 Ng6 21. Ng3 Nh4+ 22. Kh1 Nf3 23. Qf4 Nd2 24. Rfd1 Nfe4 25. Nf5 f6 26.
+Rc6 Qf7 27. Rxd2 Nxd2 28. Rxf6 Qb7 29. Rc6 Rd7 30. Nd6 Rxd6 31. Qxd6 Qf7
+32. Kg1 Qf3 33. Rc8 Qd1+ 34. Kh2 Nf1+ 35. Kg2 Nxe3+ 1/2-1/2
+

@@ -1,0 +1,26 @@
+[Event "Amsterdam"]
+[Site "Amsterdam"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "De Savornin, Lohman"]
+[Black "Schiffer, Kai"]
+[Result "1-0"]
+[ECO "B03"]
+[Opening "Alekhine's defence"]
+[Variation "exchange variation"]
+[HashCode "aa68b3cf"]
+[Epoch "Rook"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. c4 Nb6 5. exd6 exd6 6. Nc3 Be7 7. Bd3 Nc6
+8. Nge2 Bg4 9. f3 Bh5 10. O-O Bg6 11. b3 d5 12. c5 Nc8 13. Bxg6 hxg6 14.
+Nf4 Bf6 15. Re1+ N8e7 16. Nfxd5 Bxd4+ 17. Be3 Bxc3 18. Nxc3 O-O 19. Bg5 f6
+20. Bf4 Qc8 21. b4 g5 22. Bg3 Rd8 23. Qb3+ Kf8 24. Nb5 Rd7 25. Bxc7 Nf5 26.
+Bd6+ Nxd6 27. Nxd6 Qc7 28. Qd3 Kg8 29. f4 gxf4 30. Qc4+ Kf8 31. Qxf4 Re7
+32. Qh4 Kg8 33. Rxe7 Qxe7 34. Re1 Ne5 35. Qe4 Rb8 36. Qd5+ Kf8 37. Re3 b6
+38. Nc4 Qd8 39. Qxd8+ Rxd8 40. Nxe5 fxe5 41. Rxe5 bxc5 42. bxc5 Rd2 43. c6
+Rc2 44. Ra5 Rxc6 45. Rxa7 Rc2 46. h3 Kg8 47. Kh2 Kh7 48. h4 Kh6 49. Kh3
+Rc3+ 50. g3 Rc2 51. Ra6+ Kh7 52. h5 Rc4 53. g4 Rc3+ 54. Kh4 Rc4 55. Ra5 Kh6
+56. Ra6+ Kh7 57. a4 Rb4 58. Kg5 Rc4 59. Ra5 Rb4 60. Kf5 Rb1 61. g5 Rf1+ 62.
+Ke6 Ra1 63. Kd5 Rh1 64. Kc6 Ra1 65. Kb6 Re1 66. Rc5 Re6+ 67. Rc6 Re1 68. a5
+Rb1+ 69. Kc7 Rb5 70. a6 Ra5 71. Kb7 Rb5+ 72. Rb6 Re5 73. a7 1-0
+

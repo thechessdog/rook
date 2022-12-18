@@ -1,0 +1,23 @@
+[Event "Esbjerg"]
+[Site "Esbjerg"]
+[Date "1978.01.01"]
+[Round "6"]
+[White "Hoi, Carsten"]
+[Black "Schneider, Lars-Ake"]
+[Result "1-0"]
+[ECO "E54"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Gligoric system with 7...dc"]
+[HashCode "6d98009c"]
+[Epoch "Rook"]
+[WhiteID "1400100"]
+[WhiteCountry "DEN"]
+[BlackCountry "SWE"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 O-O 6. Nf3 d5 7. O-O dxc4 8. Bxc4
+b6 9. Qe2 Bb7 10. Rd1 cxd4 11. exd4 Nd5 12. Bg5 Qc8 13. Nxd5 Bxd5 14. Bxd5 exd5
+15. a3 Bd6 16. Rac1 Qd7 17. Ne5 Qe6 18. Be3 Nd7 19. Nxd7 Qxd7 20. Rc2 Rfe8 21.
+Qf3 Re4 22. Rdc1 Rae8 23. g3 f5 24. Kh1 f4 25. gxf4 Bxf4 26. Bxf4 Qf5 27. Qg3
+Qxf4 28. Rc7 Re1+ 29. Rxe1 Rxe1+ 30. Kg2 Qxd4 31. Qf3 Qf6 32. Qxd5+ Kf8 33. Rc6
+Qf4 34. Rc8+ Re8 35. Rxe8+ Kxe8 36. Qa8+ Ke7 37. Qxa7+ Kf8 38. Qa8+ Ke7 39.
+Qb7+ Kf8 40. Qf3 1-0

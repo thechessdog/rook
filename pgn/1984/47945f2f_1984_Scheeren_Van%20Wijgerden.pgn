@@ -1,0 +1,23 @@
+[Event "Hilversum ch-NED"]
+[Site "Hilversum ch-NED"]
+[Date "1984.01.01"]
+[Round "6"]
+[White "Scheeren, Peter"]
+[Black "Van Wijgerden, Cornelis"]
+[Result "0-1"]
+[ECO "E09"]
+[Opening "Catalan"]
+[Variation "closed, main line"]
+[HashCode "47945f2f"]
+[Epoch "Rook"]
+[WhiteID "1000136"]
+[WhiteCountry "NED"]
+[BlackID "1000144"]
+[BlackCountry "NED"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Bg2 Be7 5. Nf3 O-O 6. O-O Nbd7 7. Qc2 c6 8. Nbd2
+b6 9. e4 Bb7 10. b3 Rc8 11. Bb2 c5 12. exd5 exd5 13. Ne5 cxd4 14. Bxd4 Ba6 15.
+Rfd1 Nxe5 16. Bxe5 Ng4 17. Nf3 Nxe5 18. Nxe5 Qc7 19. Qf5 Bf6 20. Rxd5 Bb7 21.
+Rb5 Ba6 22. Be4 Rfd8 23. Nc6 Kf8 24. Nxd8 Rxd8 25. Re1 Bxb5 26. Qxb5 Qe7 27.
+Re2 g6 28. Bf3 Qa3 29. Bd5 Qc1+ 30. Kg2 Qd1 31. Re3 Kg7 32. Qc6 Qd4 33. Qc7
+Rxd5 34. cxd5 Qxd5+ 35. Rf3 0-1

@@ -1,0 +1,24 @@
+[Event "Bundesliga 8081"]
+[Site "Duitsland tt"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Rosen, Willy"]
+[Black "Dankert, Peter"]
+[Result "0-1"]
+[ECO "A28"]
+[Opening "English"]
+[Variation "four knights, 4.e3"]
+[HashCode "9f6b9f39"]
+[Epoch "Rook"]
+[WhiteID "4605535"]
+[WhiteCountry "GER"]
+[BlackID "4605357"]
+[BlackCountry "GER"]
+
+1. c4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. e3 Bb4 5. Nd5 d6 6. Nxb4 Nxb4 7. d4 e4 8. a3
+Nc6 9. Nd2 O-O 10. Be2 Re8 11. b4 Ne7 12. Bb2 Ng6 13. h4 d5 14. h5 Nf8 15. cxd5
+Nxd5 16. Qb3 c6 17. b5 Be6 18. bxc6 bxc6 19. Qc2 Qg5 20. Nf1 Rab8 21. Bc1 f5
+22. g3 Nd7 23. f4 exf3 24. Bxf3 Qf6 25. Rh2 Bf7 26. Re2 c5 27. Bb2 c4 28. Bc3
+Rb3 29. Bxd5 Bxd5 30. Nd2 Rbb8 31. Qa4 Nb6 32. Qxa7 Qd6 33. Rb1 Qxg3+ 34. Kd1
+Rb7 35. Qa5 Ra8 36. Qc5 Rc8 37. Qa5 Qd6 38. Bb4 Qc6 39. Bc5 Nd7 40. Rxb7 Qxb7
+41. Bb4 Ra8 0-1

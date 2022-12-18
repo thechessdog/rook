@@ -1,0 +1,19 @@
+[Event "corr Wcup3"]
+[Site "corr Wcup3"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Sterud"]
+[Black "Idema"]
+[Result "1/2-1/2"]
+[ECO "E88"]
+[Opening "King's Indian"]
+[Variation "Saemisch, orthodox, 7.d5 c6"]
+[HashCode "8b7ea9f8"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 O-O 5. Be3 d6 6. f3 e5 7. d5 c6 8. Qd2
+cxd5 9. cxd5 Nbd7 10. O-O-O a6 11. g4 b5 12. Kb1 Nc5 13. Rc1 b4 14. Nd1 a5
+15. Ne2 Nfxe4 16. fxe4 Nxe4 17. Qc2 Bxg4 18. Ng3 Nxg3 19. hxg3 Rc8 20. Qh2
+Bf5+ 21. Ka1 h5 22. Bc4 a4 23. Qd2 b3 24. Bh6 Rc5 25. Rc3 Qa5 26. Bxg7 Kxg7
+27. Rh4 Bd7 28. Nf2 Rfc8 29. Ne4 Rxc4 30. Rxh5 1/2-1/2
+

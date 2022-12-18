@@ -1,0 +1,24 @@
+[Event "Salgotarjan"]
+[Site "Salgotarjan"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Frink, Ferenc"]
+[Black "Kaposztas, Miklos"]
+[Result "0-1"]
+[ECO "B27"]
+[Opening "Sicilian"]
+[Variation "Hungarian variation"]
+[HashCode "1be818d5"]
+[Epoch "Rook"]
+[WhiteID "704946"]
+[WhiteCountry "HUN"]
+[BlackID "700711"]
+[BlackCountry "HUN"]
+
+1. e4 c5 2. Nf3 g6 3. d4 Bg7 4. Be3 Nc6 5. c3 cxd4 6. cxd4 d5 7. e5 Bg4 8. Be2
+e6 9. Nc3 Nge7 10. O-O Bxf3 11. Bxf3 Nf5 12. Qd2 O-O 13. g4 Nxe3 14. Qxe3 f6
+15. exf6 Qxf6 16. Bg2 Nxd4 17. Rad1 Rae8 18. f4 Nc6 19. Qg3 Qd8 20. Kh1 Qb6 21.
+Rf2 Kh8 22. h4 a6 23. Re1 Qa5 24. Rfe2 Nd4 25. Rf2 Nb5 26. f5 d4 27. f6 Rxf6
+28. Rxf6 Bxf6 29. Nd5 Bg7 30. Rxe6 Qd8 31. Re4 Rxe4 32. Bxe4 Nd6 33. Bg2 Nc4
+34. b3 Ne5 35. h5 Qc8 36. Nf4 Nxg4 37. Bf3 Qc1+ 38. Kg2 Ne3+ 39. Kh3 Qf1+ 40.
+Bg2 Nxg2 0-1

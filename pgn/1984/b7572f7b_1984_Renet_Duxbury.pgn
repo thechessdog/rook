@@ -1,0 +1,21 @@
+[Event "Ramsgate"]
+[Site "Ramsgate/Margate"]
+[Date "1984.??.??"]
+[Round "?"]
+[White "Renet, Olivier"]
+[Black "Duxbury, Craig"]
+[Result "1-0"]
+[ECO "C05"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation"]
+[HashCode "b7572f7b"]
+[Epoch "Rook"]
+[WhiteID "600040"]
+[BlackID "3202089"]
+[WhiteCountry "FRA"]
+[BlackCountry "AUS"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. c3 c5 6. Bd3 Nc6 7. Ne2 Qb6 8. O-O
+cxd4 9. cxd4 f6 10. exf6 Nxf6 11. Nf3 Bd6 12. Nc3 O-O 13. Be3 Qd8 14. Re1 Qe8
+15. Ne5 Bxe5 16. dxe5 Nxe5 17. Bc5 Nxd3 18. Qxd3 Bd7 19. Bxf8 Qxf8 20. Qd4 Qd6
+21. Ne4 Nxe4 22. Rxe4 Rc8 23. Re3 Rc4 24. Qxa7 1-0

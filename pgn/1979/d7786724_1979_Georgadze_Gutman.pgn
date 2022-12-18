@@ -1,0 +1,24 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Giorgadze, Tamaz"]
+[Black "Gutman, Lev"]
+[Result "1-0"]
+[ECO "D83"]
+[Opening "Gruenfeld"]
+[Variation "Gruenfeld gambit"]
+[HashCode "d7786724"]
+[Epoch "Rook"]
+[WhiteID "13600028"]
+[BlackID "4600177"]
+[WhiteCountry "GEO"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Bf4 Bg7 5. e3 O-O 6. Qb3 dxc4 7. Bxc4 c5 8.
+dxc5 Qa5 9. Nf3 Ne4 10. O-O Nxc3 11. bxc3 Nd7 12. Bxf7+ Kh8 13. Bd5 Nxc5 14.
+Qc4 Bf5 15. Be5 Rad8 16. Bxg7+ Kxg7 17. e4 Bc8 18. Nd4 Rf6 19. Rab1 a6 20. e5
+Rff8 21. Bf3 Qc7 22. Bxb7 Bxb7 23. Qxc5 Qxc5 24. Ne6+ Kf7 25. Nxc5 Bd5 26. Rfe1
+Bxa2 27. e6+ Kg8 28. Rb7 Rf5 29. Nd7 Rb5 30. Rc7 Bxe6 31. Nc5 Rd6 32. h4 Kf7
+33. Ne4 Rdb6 34. Ng5+ Kf6 35. Nxh7+ Kf7 36. Ng5+ Kf6 37. Rxe6+ Rxe6 38. Nxe6
+Kxe6 39. Rc6+ Kf5 40. Rxa6 Rc5 41. Ra3 1-0

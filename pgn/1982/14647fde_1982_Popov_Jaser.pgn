@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Popov, B."]
+[Black "Jaser, H."]
+[Result "1-0"]
+[ECO "E73"]
+[Opening "King's Indian"]
+[Variation "Averbakh system"]
+[HashCode "14647fde"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Be2 O-O 6. Bg5 h6 7. Be3 e5 8. d5
+c6 9. Qd2 cxd5 10. cxd5 h5 11. f3 Ne8 12. g4 f5 13. exf5 gxf5 14. gxh5 Bf6
+15. O-O-O Nd7 16. f4 exf4 17. Bxf4 Ne5 18. Nf3 Nxf3 19. Bxf3 Bd7 20. Rhg1+
+Kh7 21. Rg6 1-0
+

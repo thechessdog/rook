@@ -1,0 +1,22 @@
+[Event "Nice"]
+[Site "Nice"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Kuligowski, Adam"]
+[Black "Tringov, Georgi P"]
+[Result "1-0"]
+[ECO "A71"]
+[Opening "Benoni"]
+[Variation "classical, 8.Bg5"]
+[HashCode "e0be57e1"]
+[Epoch "Rook"]
+[WhiteID "1100092"]
+[WhiteCountry "POL"]
+[BlackCountry "BGR"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. Nf3 Bg7 8. Bg5
+h6 9. Bh4 a6 10. Nd2 b5 11. f3 Nbd7 12. Qc2 O-O 13. a4 bxa4 14. Be2 Nb6 15.
+Nxa4 g5 16. Bf2 Nxa4 17. Rxa4 g4 18. fxg4 Nxg4 19. Bxg4 Bxg4 20. O-O Be2 21.
+Re1 Bb5 22. Ra3 Re8 23. Rg3 Kh8 24. Nf3 Qf6 25. b4 Qc3 26. Qxc3 Bxc3 27. bxc5
+Kh7 28. Re3 Bh8 29. cxd6 Rad8 30. e5 Bc4 31. Ng5+ hxg5 32. Rxg5 Kh6 33. Rg4 Kh5
+34. Rxc4 Rxe5 35. Rh4+ Kg6 36. Rxh8 1-0

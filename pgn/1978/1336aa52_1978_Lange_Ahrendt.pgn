@@ -1,0 +1,20 @@
+[Event "corr DDR-H"]
+[Site "corr DDR-H"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Lange, J."]
+[Black "Ahrendt, J."]
+[Result "1-0"]
+[ECO "A09"]
+[Opening "Reti"]
+[Variation "advance variation"]
+[HashCode "1336aa52"]
+[Epoch "Rook"]
+
+1. Nf3 d5 2. c4 d4 3. d3 Nc6 4. g3 e5 5. Bg2 Nf6 6. O-O Bc5 7. b4 Bxb4 8.
+Nxe5 Nxe5 9. Qa4+ Ned7 10. Qxb4 c5 11. Qb2 O-O 12. a4 a5 13. Na3 Ne5 14.
+Nb5 Ng6 15. e3 Bf5 16. e4 Bd7 17. h3 Bxb5 18. Qxb5 Qc7 19. f4 Ra6 20. Bd2
+Nd7 21. Rfb1 Rb8 22. Qb3 Ne7 23. Qd1 Nc6 24. Kh2 Nb4 25. Qe2 Re8 26. Rf1 f5
+27. e5 Nf8 28. Bd5+ Kh8 29. Qf3 Rb6 30. Rg1 Qd7 31. g4 g6 32. gxf5 gxf5 33.
+Rg8# 1-0
+

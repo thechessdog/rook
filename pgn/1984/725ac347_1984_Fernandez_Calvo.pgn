@@ -1,0 +1,19 @@
+[Event "Torremolinos"]
+[Site "Torremolinos"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Fernandes, Antonio"]
+[Black "Calvo José Minguez, Ricardo"]
+[Result "0-1"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, 6.Bd3"]
+[HashCode "725ac347"]
+[Epoch "Rook"]
+[WhiteID "1900021"]
+[WhiteCountry "POR"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 O-O 6. Bd3 Na6 7. e5 Nd7 8. h4 c5
+9. e6 fxe6 10. h5 cxd4 11. hxg6 dxc3 12. Ng5 cxb2 13. Bxb2 Qa5+ 14. Ke2 Bxb2
+15. Rxh7 Rxf4 16. Qh1 Qe5+ 17. Kd1 Qxg5 18. Rh8+ Kg7 19. Rh7+ Kf6 20. Rf7+ Ke5
+21. Rxf4 Qxf4 22. Qh5+ Kd4 23. Rb1 Bc3 24. Qe2 Nf6 25. Bxa6 Qg4 0-1

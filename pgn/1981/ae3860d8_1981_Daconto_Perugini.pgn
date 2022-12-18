@@ -1,0 +1,24 @@
+[Event "Firenze ch-ITA"]
+[Site "Firenze ch-ITA"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Daconto, R."]
+[Black "Perugini"]
+[Result "0-1"]
+[ECO "A00"]
+[Opening "Grob"]
+[Variation "Fritz gambit"]
+[HashCode "ae3860d8"]
+[Epoch "Rook"]
+
+1. g4 d5 2. Bg2 Bxg4 3. c4 Nf6 4. cxd5 Nbd7 5. Qa4 a6 6. Nc3 Rb8 7. d4 e6
+8. e4 Be7 9. h3 Bh5 10. dxe6 fxe6 11. e5 Nd5 12. Nxd5 b5 13. Nxc7+ Qxc7 14.
+Qb3 Nxe5 15. dxe5 Qxe5+ 16. Be3 O-O 17. Ne2 Bh4 18. Nf4 Rxf4 19. O-O Rc4
+20. Rfc1 Rbc8 21. Rxc4 Rxc4 22. a4 Qf5 23. axb5 axb5 24. Ra8+ Kf7 25. Qa3
+b4 26. Qa7+ Kg6 27. Qb8 Bg5 28. Ra6 Bxe3 29. Qe8+ Kg5 30. Qe7+ Qf6 31. Ra5+
+Kg6 32. Qe8+ Qf7 33. Qxf7+ Kxf7 34. Rxh5 Bd4 35. Bf1 Rc2 36. Bd3 Rxb2 37.
+Kh1 Rxf2 38. Bxh7 Rd2 39. Rb5 Bc3 40. Rb7+ Kf6 41. Rb5 g6 42. Rb8 Rh2+ 43.
+Kg1 Rxh3 44. Rb7 Be5 45. Bg8 Rh8 46. Bxe6 Kxe6 47. Rxb4 Rh2 48. Rc4 Rb2 49.
+Rg4 Kf5 50. Ra4 g5 51. Rc4 g4 52. Rc8 g3 53. Rf8+ Ke4 54. Kh1 g2+ 55. Kg1
+Bd4+ 56. Rf2 Rxf2 57. Kh2 Kf3 58. Kg1 Rf1+ 59. Kh2 Rh1# 0-1
+

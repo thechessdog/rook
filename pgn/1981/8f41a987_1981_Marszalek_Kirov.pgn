@@ -1,0 +1,19 @@
+[Event "Pernik"]
+[Site "Pernik"]
+[Date "1981.01.01"]
+[Round "5"]
+[White "Marszalek, Rafal"]
+[Black "Kirov, Nino"]
+[Result "1/2-1/2"]
+[ECO "D47"]
+[Opening "QGD semi-Slav"]
+[Variation "Meran variation"]
+[HashCode "8f41a987"]
+[Epoch "Rook"]
+[WhiteID "1101358"]
+[WhiteCountry "POL"]
+[BlackCountry "BGR"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c6 4. e3 Nf6 5. Nf3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8. Be2
+b4 9. Na4 Bb7 10. O-O Be7 11. a3 bxa3 12. bxa3 O-O 13. Bd2 c5 14. Nxc5 Nxc5 15.
+dxc5 Bxc5 16. Bb4 Bxb4 17. axb4 Qb6 18. Qd4 Nd5 19. b5 1/2-1/2

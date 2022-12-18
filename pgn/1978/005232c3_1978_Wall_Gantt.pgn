@@ -1,0 +1,15 @@
+[Event "Hickory,NC"]
+[Site "Hickory,NC"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Wall, Bill"]
+[Black "Gantt"]
+[Result "1-0"]
+[ECO "D25"]
+[Opening "QGA, Smyslov variation"]
+[HashCode "005232c3"]
+[Epoch "Rook"]
+[WhiteCountry "USA"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. e3 g6 5. Bxc4 Bg7 6. Qa4+ Nbd7 7. Bxf7+ Kxf7
+8. Ng5+ 1-0

@@ -1,0 +1,19 @@
+[Event "corr EUR/M"]
+[Site "corr EUR/M"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Racoce"]
+[Black "Siegl"]
+[Result "0-1"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Lipnitzky attack"]
+[HashCode "90074fe9"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 Be7 8.
+O-O O-O 9. Be3 b5 10. f4 Qc7 11. Qf3 b4 12. Nce2 Bb7 13. Ng3 Nbd7 14. Bxe6
+fxe6 15. Nxe6 Qc4 16. Nxf8 Bxf8 17. b3 Qe6 18. Rae1 Nxe4 19. Bc1 d5 20. Bb2
+Qb6+ 21. Kh1 Nd2 22. Qg4 Nxf1 23. Nf5 Qg6 24. Ne7+ Bxe7 25. Qxd7 Ng3+ 26.
+hxg3 Bc5 27. Qh3 Re8 28. Be5 Bf2 29. f5 Qg5 30. Re2 Qc1+ 31. Kh2 Qg1# 0-1
+

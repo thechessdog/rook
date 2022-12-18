@@ -1,0 +1,18 @@
+[Event "corr Italy"]
+[Site "corr Italy"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Apicelli"]
+[Black "Bucholz"]
+[Result "1-0"]
+[ECO "B96"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Polugayevsky variation"]
+[HashCode "15764c9e"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 b5 8.
+e5 dxe5 9. fxe5 Qc7 10. Bf4 Bb4 11. Bxb5+ axb5 12. O-O Bxc3 13. exf6 Bxd4+
+14. Qxd4 Nc6 15. fxg7 Rg8 16. Qc3 Qb7 17. Bg5 Ra4 18. Rad1 Rc4 19. Qf6 Qc7
+20. Rd6 e5 21. Rfd1 Rd4 22. R1xd4 1-0
+

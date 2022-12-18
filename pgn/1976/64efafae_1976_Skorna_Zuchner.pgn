@@ -1,0 +1,19 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Skorna, U."]
+[Black "Zuchner"]
+[Result "1/2-1/2"]
+[ECO "C15"]
+[Opening "French"]
+[Variation "Winawer (Nimzovich) variation"]
+[HashCode "64efafae"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. Qg4 Nf6 5. Qxg7 Rg8 6. Qh6 c5 7. e5 cxd4 8.
+a3 dxc3 9. axb4 cxb2 10. Bxb2 Qb6 11. O-O-O Rg6 12. Qf4 Ne4 13. Nh3 Qxb4
+14. Bd3 Nc6 15. f3 Nf2 16. Bxg6 Qxf4+ 17. Nxf4 fxg6 18. h4 Nxd1 19. Kxd1
+Kf7 20. Nd3 b6 21. h5 Ba6 22. hxg6+ hxg6 23. Rh7+ Kg8 24. Rc7 Rc8 25. Rxc6
+Rxc6 26. Nb4 1/2-1/2
+

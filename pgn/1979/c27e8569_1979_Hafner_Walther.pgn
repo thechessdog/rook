@@ -1,0 +1,15 @@
+[Event "corr EU/M"]
+[Site "corr EU/M"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Hafner"]
+[Black "Walther, Edgar"]
+[Result "1-0"]
+[ECO "A23"]
+[Opening "English"]
+[Variation "Bremen system, Keres variation"]
+[HashCode "c27e8569"]
+[Epoch "Rook"]
+[BlackCountry "CHE"]
+
+1. c4 Nf6 2. Nc3 e5 3. g3 c6 4. Nf3 e4 5. Nd4 Qb6 6. e3 a5 7. Qc2 1-0

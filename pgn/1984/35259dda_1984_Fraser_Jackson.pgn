@@ -1,0 +1,20 @@
+[Event "Plymouth ch-MI op"]
+[Site "Plymouth ch-MI op"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Fraser, T."]
+[Black "Jackson, J."]
+[Result "0-1"]
+[ECO "B70"]
+[Opening "Sicilian"]
+[Variation "dragon variation"]
+[HashCode "35259dda"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Bg5 Bg7 7. Nb3 Nc6
+8. Qd2 h6 9. Bh4 g5 10. Bg3 Nh5 11. O-O-O Nxg3 12. hxg3 Be6 13. Nd5 Bxd5
+14. Qxd5 Qb6 15. Bc4 Rf8 16. f4 a5 17. e5 O-O-O 18. e6 a4 19. exf7 axb3 20.
+Bxb3 Kb8 21. fxg5 hxg5 22. Rhe1 Bf6 23. Rf1 Nb4 24. Qe6 Rc8 25. Rxf6 exf6
+26. Rxd6 Qg1+ 27. Rd1 Nd3+ 28. Kd2 Qf2+ 29. Kxd3 Rfd8+ 30. Bd5 Qxc2+ 31.
+Ke3 Qxd1 0-1
+

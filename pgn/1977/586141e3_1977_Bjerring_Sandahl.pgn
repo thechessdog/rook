@@ -1,0 +1,20 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Bjerring, Kai"]
+[Black "Sandahl, Jan"]
+[Result "1-0"]
+[ECO "B97"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Poisoned pawn variation"]
+[HashCode "586141e3"]
+[Epoch "Rook"]
+[BlackID "1441574"]
+[BlackCountry "DEN"]
+[WhiteCountry "DNK"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qb6 8. Qd2
+Qxb2 9. Rb1 Qa3 10. Bxf6 gxf6 11. f5 e5 12. Nb3 Nd7 13. Nd5 Qxa2 14. Ra1 Qb2
+15. Nc7+ Ke7 16. Bc4 Nb6 17. Nd5+ Nxd5 18. Qxd5 Qc3+ 19. Kd1 b5 20. Qxf7+ Kd8
+21. Bd5 Rb8 22. Qxf6+ Kd7 23. Qxh8 Be7 24. f6 1-0

@@ -1,0 +1,19 @@
+[Event "Tallinn"]
+[Site "Tallinn"]
+[Date "1981.03.01"]
+[Round "3"]
+[White "Petursson, Margeir"]
+[Black "Uusi, Gunnar"]
+[Result "1/2-1/2"]
+[ECO "E16"]
+[Opening "Queen's Indian"]
+[Variation "Capablanca variation"]
+[HashCode "048f90ae"]
+[Epoch "Rook"]
+[WhiteID "2300028"]
+[WhiteCountry "ISL"]
+[BlackCountry "EST"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2 Bb4+ 6. Nbd2 O-O 7. O-O d5 8. Ne5
+c6 9. Ndf3 Ne4 10. Qc2 Bd6 11. Nd3 Nd7 12. Bf4 Bxf4 13. Nxf4 a5 14. Rfc1 Qe7
+15. cxd5 exd5 16. Nd3 c5 17. dxc5 bxc5 18. Nf4 Rfd8 19. Nd2 1/2-1/2

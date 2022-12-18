@@ -1,0 +1,22 @@
+[Event "Naleczow"]
+[Site "Naleczow"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Gross, Stefan"]
+[Black "Kindermann, Stefan"]
+[Result "1-0"]
+[ECO "E42"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5, 5.Ne2 (Rubinstein)"]
+[HashCode "ffdb5aad"]
+[Epoch "Rook"]
+[BlackID "4600053"]
+[BlackCountry "AUT"]
+[WhiteCountry "CZE"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Ne2 cxd4 6. exd4 O-O 7. a3 Be7 8. d5
+exd5 9. cxd5 Bc5 10. b4 Bb6 11. Na4 d6 12. Nxb6 axb6 13. Qb3 Re8 14. Bb2 Bf5
+15. f3 Nbd7 16. Kf2 Ne5 17. Nd4 Bg6 18. Bb5 Nh5 19. Rhe1 Re7 20. g3 Rc7 21.
+Rad1 Rac8 22. Re2 Nf6 23. Rde1 h6 24. h3 Nh5 25. f4 Qf6 26. Kg2 Nxf4+ 27. gxf4
+Qxf4 28. Qg3 Qf6 29. Rf1 Qd8 30. Nf3 f6 31. Bxe5 dxe5 32. Qxg6 Qxd5 33. Bd3 Rc1
+34. Rxc1 1-0

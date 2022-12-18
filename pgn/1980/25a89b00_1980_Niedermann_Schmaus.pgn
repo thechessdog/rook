@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Niedermann"]
+[Black "Schmaus"]
+[Result "0-1"]
+[ECO "C13"]
+[Opening "French"]
+[Variation "Albin-Alekhine-Chatard attack, Breyer variation"]
+[HashCode "25a89b00"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. Nc3 e6 3. e4 d5 4. Bg5 Be7 5. e5 Nfd7 6. h4 c5 7. Bxe7 Kxe7 8.
+f4 Qb6 9. Na4 Qa5+ 10. c3 Nc6 11. Bd3 c4 12. Bc2 b5 13. Nc5 Nxc5 14. dxc5
+b4 15. Rh3 Qxc5 16. Kf1 Bd7 17. Qg4 Rhg8 18. h5 h6 19. Re1 Kd8 20. Ba4 Ne7
+21. Bxd7 Kxd7 22. Nf3 Nf5 23. Rd1 Ne3+ 0-1
+

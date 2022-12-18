@@ -1,0 +1,21 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Nesterets"]
+[Black "Grinkevich"]
+[Result "0-1"]
+[ECO "C69"]
+[Opening "Ruy Lopez"]
+[Variation "exchange, Gligoric variation"]
+[HashCode "646cdd3c"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O f6 6. d4 Bg4 7. dxe5 Qxd1
+8. Rxd1 fxe5 9. Rd3 Bd6 10. Nbd2 b5 11. b3 Ne7 12. h3 Bd7 13. Bb2 Ng6 14.
+Nf1 O-O-O 15. Rad1 Rhf8 16. Bc1 h6 17. g4 Nf4 18. Bxf4 Rxf4 19. Ng3 Rdf8
+20. Kg2 Be6 21. R1d2 c5 22. Nh4 c4 23. Rxd6 cxd6 24. Ng6 c3 25. Re2 R8f6
+26. Nxf4 exf4 27. Nf5 f3+ 28. Kxf3 g6 29. Kf4 b4 30. Ke3 gxf5 31. exf5 Bg8
+32. Kf4 Kd7 33. h4 Rf8 34. f3 a5 35. g5 Bh7 36. f6 Re8 37. Rg2 hxg5+ 38.
+Rxg5 Bxc2 39. Rg7+ Ke6 40. Kg5 Bd3 0-1
+

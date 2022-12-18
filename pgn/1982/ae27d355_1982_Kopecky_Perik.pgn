@@ -1,0 +1,21 @@
+[Event "corr ch-CSSR"]
+[Site "corr ch-CSSR"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Kopecky"]
+[Black "Perik"]
+[Result "1-0"]
+[ECO "D80"]
+[Opening "Gruenfeld"]
+[Variation "Stockholm variation"]
+[HashCode "ae27d355"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Bg5 Ne4 5. Bh4 c5 6. cxd5 Nxc3 7. bxc3 Qa5
+8. Qd2 Bh6 9. e3 cxd4 10. Qxd4 O-O 11. Bxe7 Bg7 12. Bb4 Qc7 13. Qc4 Qxc4
+14. Bxc4 Bf5 15. Bxf8 Bxc3+ 16. Ke2 Bxa1 17. Nf3 Kxf8 18. Rxa1 Nd7 19. Nd4
+Nb6 20. Nxf5 Nxc4 21. Ng3 Ke7 22. Rb1 b6 23. Rc1 b5 24. Kd3 Kd6 25. Kd4 f5
+26. f3 Rf8 27. Rc3 Kd7 28. Ne2 g5 29. Nc1 Re8 30. Nb3 Kd6 31. Nc5 g4 32. e4
+gxf3 33. gxf3 fxe4 34. fxe4 Re7 35. Rxc4 bxc4 36. e5+ Rxe5 37. Nb7+ Kc7 38.
+Kxe5 Kxb7 39. Kd4 1-0
+

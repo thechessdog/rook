@@ -1,0 +1,19 @@
+[Event "Aarhus-A"]
+[Site "Aarhus"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Sorensen, Torben"]
+[Black "Rasmussen, Karsten"]
+[Result "1/2-1/2"]
+[ECO "C16"]
+[Opening "French"]
+[Variation "Winawer, advance variation"]
+[HashCode "227a965f"]
+[Epoch "Rook"]
+[BlackID "1400088"]
+[BlackCountry "DEN"]
+[WhiteID "1463357"]
+[WhiteCountry "DEN"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 Ne7 5. a3 Bxc3+ 6. bxc3 b6 7. Qg4 Kf8 8. Nf3
+Ba6 9. Bxa6 Nxa6 10. Nh4 Rc8 11. O-O Qd7 12. a4 Kg8 13. Qe2 1/2-1/2

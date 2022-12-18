@@ -1,0 +1,18 @@
+[Event "corr ch14-FRG"]
+[Site "corr ch14-FRG"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Scherfke, M."]
+[Black "Weber, V."]
+[Result "1-0"]
+[ECO "B92"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Opovcensky variation"]
+[HashCode "bba36d11"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8.
+O-O O-O 9. Be3 Qc7 10. a4 b6 11. Qd2 Be6 12. Rfd1 Rc8 13. Nc1 Nc6 14. N1a2
+Qb7 15. f3 Rc7 16. Bf1 Rac8 17. Kh1 Bxa2 18. Rxa2 Nb4 19. Raa1 d5 20. exd5
+Rd7 21. Bg5 Nbxd5 22. Bxf6 Nxf6 23. Qe2 1-0
+

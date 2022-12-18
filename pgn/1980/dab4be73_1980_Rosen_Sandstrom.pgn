@@ -1,0 +1,23 @@
+[Event "corr SWE/K tt"]
+[Site "corr SWE/K tt"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Rosen, Peter"]
+[Black "Sandstrom, Borje"]
+[Result "0-1"]
+[ECO "B41"]
+[Opening "Sicilian"]
+[Variation "Kan, Maroczy bind (Reti variation)"]
+[HashCode "dab4be73"]
+[Epoch "Rook"]
+[WhiteID "1704877"]
+[WhiteCountry "SWE"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. c4 Nf6 6. Nc3 Bb4 7. Bd2 O-O 8. e5
+Bxc3 9. Bxc3 Ne4 10. Bb4 d6 11. Qe2 Qb6 12. Nc2 Nc6 13. a3 d5 14. f3 Nc5 15.
+Qe3 d4 16. Nxd4 Nxb4 17. axb4 Qxb4+ 18. Qd2 Qxd2+ 19. Kxd2 f6 20. Re1 a5 21.
+Kc3 Bd7 22. exf6 gxf6 23. f4 Rae8 24. Bd3 e5 25. Ne2 b5 26. cxb5 Nxd3 27. Kxd3
+Bxb5+ 28. Kd2 Rd8+ 29. Kc2 Bd3+ 30. Kd2 Rf7 31. Ke3 Rb7 32. Rd1 e4 33. Rd2 Rdb8
+34. Nc1 Rxb2 35. Nxd3 exd3 36. Rxb2 Rxb2 37. Kxd3 Rxg2 38. Ra1 Rxh2 39. Rxa5
+Kg7 40. Ke4 Rh3 41. Rb5 Kg6 42. Rb8 f5+ 43. Ke5 Re3+ 44. Kd5 Kh5 45. Rg8 h6 46.
+Rg7 Re4 47. Rg8 Kh4 48. Rg2 h5 49. Rg1 Rxf4 50. Ke5 Rf3 0-1

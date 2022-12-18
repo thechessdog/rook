@@ -1,0 +1,19 @@
+[Event "corr Yugoslavia"]
+[Site "corr Yugoslavia"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Horakova"]
+[Black "Popov, Luben"]
+[Result "1/2-1/2"]
+[ECO "C68"]
+[Opening "Ruy Lopez"]
+[Variation "exchange, Keres variation"]
+[HashCode "2160b668"]
+[Epoch "Rook"]
+[BlackID "2900173"]
+[BlackCountry "FID"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. Nc3 f6 6. d4 exd4 7. Nxd4 c5 8.
+Nde2 Qxd1+ 9. Nxd1 Be6 10. Bf4 O-O-O 11. Ne3 Ne7 12. Bg3 Nc6 13. O-O g5 14.
+Rfd1 Nd4 15. Kf1 Be7 16. Rd2 Nxe2 17. Kxe2 Rd4 18. f3 Rhd8 19. Rad1 b5 20. b3
+c6 1/2-1/2

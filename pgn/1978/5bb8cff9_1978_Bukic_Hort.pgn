@@ -1,0 +1,20 @@
+[Event "Bugojno"]
+[Site "Bugojno"]
+[Date "1978.02.01"]
+[Round "8"]
+[White "Bukic, Enver"]
+[Black "Hort, Vlastimil"]
+[Result "1/2-1/2"]
+[ECO "E19"]
+[Opening "Queen's Indian"]
+[Variation "old main line, 9.Qxc3"]
+[HashCode "5bb8cff9"]
+[Epoch "Rook"]
+[WhiteID "14600030"]
+[WhiteCountry "SLO"]
+[BlackID "4600029"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2 Be7 6. O-O O-O 7. Nc3 Ne4 8. Qc2
+Nxc3 9. Qxc3 d6 10. Qc2 Qc8 11. e4 Nd7 12. Re1 Re8 13. Bd2 c5 14. d5 Bf6 15.
+Rad1 Qc7 16. Bf4 exd5 17. exd5 1/2-1/2

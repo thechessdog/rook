@@ -1,0 +1,20 @@
+[Event "DEN-chJ int"]
+[Site "Soro"]
+[Date "1982.01.01"]
+[Round "7"]
+[White "Engelen, Guilaume"]
+[Black "Olesen, Martin"]
+[Result "0-1"]
+[ECO "B25"]
+[Opening "Sicilian"]
+[Variation "closed, 6.f4"]
+[HashCode "9dada5f4"]
+[Epoch "Rook"]
+[BlackID "1400860"]
+[BlackCountry "DEN"]
+
+1. e4 c5 2. Nc3 d6 3. g3 g6 4. Bg2 Bg7 5. d3 Nc6 6. f4 e6 7. Nf3 Nge7 8. O-O
+O-O 9. Be3 Nd4 10. Rb1 Rb8 11. Ne2 Nxf3+ 12. Bxf3 b6 13. c3 Bb7 14. Bg2 Qc8 15.
+d4 f5 16. exf5 Bxg2 17. Kxg2 Qc6+ 18. Kg1 exf5 19. dxc5 dxc5 20. Qb3+ Nd5 21.
+c4 Nxe3 22. Qxe3 Rfe8 23. Qd2 Rbd8 24. Qc2 Rxe2 25. Qxe2 Bd4+ 26. Rf2 Re8 27.
+Qf1 Qf3 28. Re1 Qxf2+ 0-1

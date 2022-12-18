@@ -1,0 +1,22 @@
+[Event "Bogota"]
+[Site "Bogota"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Gonzalez, JA."]
+[Black "Beliavsky, Alexander G"]
+[Result "0-1"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "modern variation"]
+[HashCode "4bda68e4"]
+[Epoch "Rook"]
+[BlackID "14602377"]
+[BlackCountry "SLO"]
+
+1. b3 e5 2. Bb2 d6 3. e3 Nf6 4. Nf3 g6 5. d4 e4 6. Nfd2 Bg7 7. c4 O-O 8. Nc3
+Re8 9. Qc2 Bf5 10. h3 h5 11. O-O-O Nbd7 12. Be2 Nf8 13. g4 hxg4 14. hxg4 Nxg4
+15. Bxg4 Bxg4 16. Rdg1 Bf5 17. Ndxe4 c6 18. f3 d5 19. Qg2 dxe4 20. fxe4 Bd7 21.
+e5 Bf5 22. Ne2 Rxe5 23. Ng3 Qg5 24. dxe5 Qxe3+ 25. Qd2 Bh6 26. Qxe3 Bxe3+ 27.
+Kd1 Rd8+ 28. Ke1 Bg4 29. Ne2 Bxg1 30. Rxg1 Bxe2 31. Kxe2 Ne6 32. Ke3 Kg7 33.
+Ba3 c5 34. b4 Rd4 35. Rc1 Rh4 36. Rc3 g5 37. bxc5 Rh3+ 38. Kd2 Rxc3 39. Kxc3
+Kg6 40. Bc1 Kf5 0-1

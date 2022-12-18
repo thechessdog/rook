@@ -1,0 +1,19 @@
+[Event "British CCC"]
+[Site "British CCC"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Robertson, PC."]
+[Black "Shephard, C."]
+[Result "0-1"]
+[ECO "A69"]
+[Opening "Benoni"]
+[Variation "four pawns attack, main line"]
+[HashCode "ae8226e0"]
+[Epoch "Rook"]
+
+1. c4 g6 2. Nc3 Bg7 3. d4 Nf6 4. e4 d6 5. f4 O-O 6. Nf3 c5 7. d5 e6 8. Be2
+exd5 9. cxd5 Re8 10. e5 dxe5 11. fxe5 Ng4 12. Bg5 Qb6 13. O-O Nxe5 14. d6
+Qxb2 15. Nd5 Nxf3+ 16. Bxf3 Qd4+ 17. Kh1 Qxa1 18. Qxa1 Bxa1 19. Rxa1 Nd7
+20. Nc7 Re5 21. Be7 Rb8 22. Rd1 Nb6 23. a4 Bd7 24. a5 Ba4 25. Rf1 Nd7 26.
+Bg4 c4 27. Bh4 Rxa5 28. Ra1 Nb6 29. h3 c3 30. d7 Nxd7 0-1
+

@@ -1,0 +1,19 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Duda"]
+[Black "Krockert"]
+[Result "0-1"]
+[ECO "C12"]
+[Opening "French"]
+[Variation "MacCutcheon, Lasker variation, 8...g6"]
+[HashCode "180071c6"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Bb4 5. e5 h6 6. Bd2 Bxc3 7. bxc3 Ne4 8.
+Qg4 g6 9. Bc1 c5 10. Bd3 cxd4 11. Ne2 Nc6 12. Bxe4 dxe4 13. Qxe4 dxc3 14.
+f4 Qa5 15. O-O Ne7 16. Qc4 Nd5 17. Rb1 a6 18. Rf3 Bd7 19. Rxb7 Rc8 20. Qb3
+Bc6 21. Rb8 O-O 22. Rxc8 Rxc8 23. Nxc3 Qc5+ 24. Kh1 Ba8 25. Bb2 Ne3 26. Rg3
+Nxg2 0-1
+

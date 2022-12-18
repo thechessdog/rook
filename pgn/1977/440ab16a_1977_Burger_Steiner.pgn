@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Burger, H."]
+[Black "Steiner, J."]
+[Result "1-0"]
+[ECO "E06"]
+[Opening "Catalan"]
+[Variation "closed, 5.Nf3"]
+[HashCode "440ab16a"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Bg2 Be7 5. Nf3 O-O 6. O-O dxc4 7. Qc2 a6 8.
+a4 Nc6 9. Qxc4 Qd5 10. Qd3 Rd8 11. Nc3 Qh5 12. Qc4 Nd5 13. a5 Rb8 14. e4
+Ndb4 15. Bf4 e5 16. Nxe5 Bd6 17. Nxc6 Nxc6 18. e5 Be7 19. Rfd1 g5 20. Be3
+Be6 21. d5 Bg4 22. dxc6 Bxd1 23. Nd5 1-0
+

@@ -1,0 +1,18 @@
+[Event "Dayton,OH"]
+[Site "Dayton,OH"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Snyder"]
+[Black "Smith, Andrew Philip"]
+[Result "1-0"]
+[ECO "D53"]
+[Opening "QGD"]
+[Variation "4.Bg5 Be7"]
+[HashCode "90c34067"]
+[Epoch "Rook"]
+[BlackID "2500833"]
+[BlackCountry "IRL"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. Nf3 Nbd7 6. e3 c5 7. cxd5 Nxd5 8.
+Bxe7 Qxe7 9. Rc1 Nxc3 10. Rxc3 O-O 11. Bd3 cxd4 12. Nxd4 b6 13. Qc2 Nf6 14. O-O
+Bb7 15. Rc7 1-0

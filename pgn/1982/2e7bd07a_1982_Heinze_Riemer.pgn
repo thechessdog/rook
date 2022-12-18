@@ -1,0 +1,18 @@
+[Event "corr ICCF WT/II"]
+[Site "corr ICCF WT/II"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Heinze, B."]
+[Black "Riemer, Wolfgang"]
+[Result "0-1"]
+[ECO "E15"]
+[Opening "Queen's Indian"]
+[Variation "Nimzovich variation (exaggerated fianchetto)"]
+[HashCode "2e7bd07a"]
+[Epoch "Rook"]
+[BlackCountry "DEU"]
+
+1. Nf3 Nf6 2. c4 e6 3. d4 b6 4. g3 Ba6 5. Nbd2 Bb4 6. Qc2 c5 7. Bg2 Nc6 8. e3
+O-O 9. O-O d5 10. dxc5 Bxc5 11. Rd1 Nb4 12. Qb3 dxc4 13. Nxc4 Bxc4 14. Rxd8
+Bxb3 15. Rxf8+ Rxf8 16. axb3 Nd3 17. Ng5 a5 18. Rb1 Bb4 19. Bf1 Nc5 20. Bg2
+Nxb3 21. e4 Nxc1 22. Nxe6 Ne2+ 23. Kf1 Nxg3+ 24. hxg3 fxe6 0-1

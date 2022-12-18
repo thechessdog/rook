@@ -1,0 +1,22 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Vorotnikov, Vladislav V"]
+[Black "Pukshansky, Mikhail B"]
+[Result "1-0"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "036dcc3e"]
+[Epoch "Rook"]
+[BlackID "4102932"]
+[BlackCountry "RUS"]
+[WhiteID "4103009"]
+[WhiteCountry "RUS"]
+
+1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. d4 e6 5. Nf3 Nc6 6. Na3 Qd8 7. Nc2 Nf6 8. Bd3
+cxd4 9. Ncxd4 Bd7 10. Qe2 Nxd4 11. Nxd4 Be7 12. Bf4 Nd5 13. Bg3 Bf6 14. Nb5 O-O
+15. O-O Bxb5 16. Bxb5 Qb6 17. Bd3 Rfd8 18. Rad1 g6 19. h4 h5 20. Be4 Kg7 21.
+Rd2 Ne7 22. Rfd1 Rxd2 23. Rxd2 Nc6 24. Rd7 Re8 25. Bc7 Qc5 26. Bd6 Qb6 27. Bxg6
+Kxg6 28. Qd3+ Kg7 29. Qg3+ Kh8 30. Rxf7 1-0

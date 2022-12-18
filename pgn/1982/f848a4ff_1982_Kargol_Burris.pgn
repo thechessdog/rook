@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Kargol"]
+[Black "Burris"]
+[Result "0-1"]
+[ECO "B96"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7.f4"]
+[HashCode "f848a4ff"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qc7 8.
+Bxf6 gxf6 9. Be2 Nc6 10. Bh5 Qb6 11. Nxc6 Qxb2 12. Na4 Qb5 13. Qd4 bxc6 14.
+Qxf6 Qxh5 15. Qxh8 Qa5+ 16. Nc3 e5 17. Kd2 Qb4 0-1
+

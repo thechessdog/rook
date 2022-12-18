@@ -1,0 +1,20 @@
+[Event "Bundesliga 8384"]
+[Site "Duitsland tt"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Weih, Klaus"]
+[Black "Podzielny, Karl-Heinz"]
+[Result "0-1"]
+[ECO "A77"]
+[Opening "Benoni"]
+[Variation "classical, 9...Re8, 10.Nd2"]
+[HashCode "79c543f6"]
+[Epoch "Rook"]
+[BlackCountry "DEU"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. e4 Bg7 8. Be2
+O-O 9. O-O Re8 10. Nd2 a6 11. a4 Nbd7 12. Qc2 Ne5 13. b3 g5 14. Bb2 Ng6 15. Nc4
+Nf4 16. Rfe1 b6 17. Bf1 Ng4 18. g3 Ng6 19. a5 N4e5 20. Nxb6 Nf3+ 21. Kh1 Nxe1
+22. Rxe1 Ra7 23. Bg2 Rae7 24. Bc1 h6 25. Nd1 f5 26. Nxc8 Qxc8 27. Ne3 fxe4 28.
+Nc4 Qd8 29. Rxe4 Ne5 30. Ne3 Qd7 31. Qe2 Rf8 32. Bd2 Ref7 33. Be1 Qb5 34. Nc4
+Nxc4 35. bxc4 Qb1 36. f3 Bc3 37. Kg1 Rb7 38. Re8 Rxe8 39. Qxe8+ Kg7 0-1

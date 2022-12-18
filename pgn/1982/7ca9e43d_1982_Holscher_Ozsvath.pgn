@@ -1,0 +1,23 @@
+[Event "corr WER/K"]
+[Site "corr WER/K"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Holscher, H."]
+[Black "Ozsvath, Andras"]
+[Result "1-0"]
+[ECO "E81"]
+[Opening "King's Indian"]
+[Variation "Saemisch, 5...O-O"]
+[HashCode "7ca9e43d"]
+[Epoch "Rook"]
+[BlackCountry "HUN"]
+
+1. d4 g6 2. e4 Bg7 3. c4 d6 4. Nc3 Nf6 5. f3 O-O 6. Be3 Nbd7 7. Qd2 c5 8. Nge2
+a6 9. O-O-O Qa5 10. Kb1 b5 11. dxc5 dxc5 12. Nd5 Nxd5 13. Qxa5 Nxe3 14. Rc1 Ne5
+15. Nf4 Rb8 16. Qc7 Rb7 17. Qxc5 Nxf1 18. Rhxf1 bxc4 19. Rf2 Bd7 20. Rxc4 Rb5
+21. Qc7 Nxc4 22. Qxc4 Rfb8 23. Rd2 Rxb2+ 24. Rxb2 Bxb2 25. Kc2 Be5 26. Nd5 e6
+27. Ne7+ Kg7 28. Qxa6 Rb2+ 29. Kc1 Rxg2 30. Qa8 Bf4+ 31. Kb1 Bb5 32. Qg8+ Kh6
+33. Qh8 Bd3+ 34. Ka1 Bc1 35. Ng8+ Kg5 36. Qf6+ Kh5 37. a4 Bb2+ 38. Qxb2 Rxb2
+39. Kxb2 Kg5 40. e5 Be2 41. Kc3 Bxf3 42. Kd4 Kf4 43. Nh6 g5 44. Nxf7 h5 45. Nd8
+Bd5 46. a5 Kf5 47. Nf7 Kg6 48. Nd6 g4 49. a6 h4 50. Ke3 Kg5 51. a7 h3 52. Kf2
+Kf4 53. Nc4 1-0

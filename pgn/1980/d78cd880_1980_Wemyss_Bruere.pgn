@@ -1,0 +1,15 @@
+[Event "corr CCLA"]
+[Site "corr CCLA"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Wemyss"]
+[Black "Bruere"]
+[Result "1-0"]
+[ECO "B02"]
+[Opening "Alekhine's defence"]
+[Variation "Spielmann variation"]
+[HashCode "d78cd880"]
+[Epoch "Rook"]
+
+1. e4 Nf6 2. Nc3 d5 3. e5 Nfd7 4. e6 fxe6 5. Qh5+ 1-0
+

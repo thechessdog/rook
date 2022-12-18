@@ -1,0 +1,23 @@
+[Event "corr EU/M/GT"]
+[Site "corr EU/M/GT"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Gislason, G."]
+[Black "Lilienthal, Siegfried"]
+[Result "0-1"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, 6.Be3"]
+[HashCode "ecfb2358"]
+[Epoch "Rook"]
+[BlackCountry "GER"]
+
+1. e4 d6 2. d4 g6 3. Nc3 Bg7 4. f4 Nf6 5. Nf3 O-O 6. Be3 c6 7. Bd3 Bg4 8. h3
+Bxf3 9. Qxf3 e5 10. dxe5 dxe5 11. fxe5 Nfd7 12. Rd1 Nxe5 13. Qf2 Nbd7 14. O-O
+Qe7 15. Qd2 b6 16. Bh6 Nc5 17. Bxg7 Kxg7 18. Rf2 Rad8 19. Qe3 Ne6 20. b3 Rd7
+21. Rfd2 Rfd8 22. Bf1 Qg5 23. Qxg5 Nxg5 24. Rxd7 Rxd7 25. Rxd7 Nxd7 26. Kf2 Kf6
+27. Ke3 Ke5 28. a4 a5 29. h4 Ne6 30. Bc4 Nd4 31. Bd3 Nc5 32. Nb1 f5 33. exf5
+gxf5 34. Nd2 f4+ 35. Kf2 Nxd3+ 36. cxd3 b5 37. g4 fxg3+ 38. Kxg3 Ne2+ 39. Kf3
+Nc1 40. Ke3 Kd5 41. d4 b4 42. h5 h6 43. Kf4 Kxd4 44. Kf5 c5 45. Kg6 Nxb3 46.
+Nxb3+ Kd5 47. Kxh6 c4 48. Nxa5 b3 49. Kg7 b2 50. h6 b1=Q 51. h7 Qb2+ 52. Kg8
+Qg2+ 53. Kf7 Qf3+ 54. Kg7 Qg4+ 0-1

@@ -1,0 +1,21 @@
+[Event "Bayamo"]
+[Site "Bayamo"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Leon Rodriguez, Orlando"]
+[Black "Garcia Gonzales, Guillermo"]
+[Result "0-1"]
+[ECO "C15"]
+[Opening "French"]
+[Variation "Winawer, Alekhine gambit, Kan variation"]
+[HashCode "fe9b6c7d"]
+[Epoch "Rook"]
+[BlackCountry "CUB"]
+[WhiteID "2210665"]
+[WhiteCountry "ESP"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. Ne2 dxe4 5. a3 Bxc3+ 6. Nxc3 Nc6 7. Bb5 Ne7 8.
+Bg5 f6 9. Be3 O-O 10. Qd2 f5 11. O-O-O Nd5 12. Bxc6 bxc6 13. Bf4 Bd7 14. Na4
+Be8 15. Be5 Bh5 16. g4 fxg4 17. Nc5 Qe7 18. Rde1 Bg6 19. Rhg1 h5 20. h3 Rf3 21.
+hxg4 h4 22. Nxe4 Raf8 23. Rg2 Rxa3 24. c4 Ra1+ 25. Kc2 Nb4+ 26. Kb3 Rxe1 27.
+Qxe1 Nd3 28. Qe3 Qb4+ 29. Ka2 Qxb2# 0-1

@@ -1,0 +1,18 @@
+[Event "TUN"]
+[Site "Budapest"]
+[Date "1978.08.01"]
+[Round "1"]
+[White "Hardicsay, Peter"]
+[Black "Regan, K."]
+[Result "1-0"]
+[ECO "B40"]
+[Opening "Sicilian"]
+[Variation "Anderssen variation"]
+[HashCode "a3f51e38"]
+[Epoch "Rook"]
+[WhiteID "700622"]
+[WhiteCountry "HUN"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Ndb5 Bb4 7. a3 Bxc3+ 8.
+Nxc3 d5 9. exd5 Nxd5 10. Bd2 Qh4 11. Qf3 Nd4 12. Qd3 e5 13. Nxd5 Bf5 14. Qc3
+Qe4+ 15. Ne3 Rc8 16. Bd3 Rxc3 17. Bxe4 Rxe3+ 18. fxe3 Bxe4 19. exd4 1-0

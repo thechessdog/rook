@@ -1,0 +1,17 @@
+[Event "Warren Motor City op"]
+[Site "Warren Motor City op"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Finegold, Mark"]
+[Black "Sprague, R."]
+[Result "0-1"]
+[ECO "A51"]
+[Opening "Budapest"]
+[Variation "Fajarowicz variation"]
+[HashCode "17c5d5ae"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ne4 4. Nd2 Nc5 5. Ngf3 Nc6 6. e3 d6 7. exd6 Qxd6
+8. Be2 Bf5 9. O-O O-O-O 10. a3 Qf6 11. e4 Nxe4 12. Nxe4 Bxe4 13. Qe1 h6 14.
+Ra2 Bd6 15. Be3 Rhe8 16. c5 Bxc5 17. Bxc5 Bxf3 18. Be3 Bd5 19. Ra1 Qg6 0-1
+

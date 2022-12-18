@@ -1,0 +1,17 @@
+[Event "Sverdlovsk"]
+[Site "Sverdlovsk"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Stavitsky"]
+[Black "Ponomariov, Boris"]
+[Result "0-1"]
+[ECO "A07"]
+[Opening "Reti"]
+[Variation "King's Indian attack (Barcza system)"]
+[HashCode "b0ccfdd9"]
+[Epoch "Rook"]
+[BlackID "14103753"]
+[BlackCountry "UKR"]
+
+1. Nf3 d5 2. g3 Nc6 3. Bg2 e5 4. d3 Bg4 5. Nbd2 Nf6 6. b3 e4 7. Ng1 Bc5 8. f3
+Qe7 9. fxe4 Qe5 10. b4 Bxg1 11. Nb3 Bxh2 12. Bf4 Bxg3+ 0-1

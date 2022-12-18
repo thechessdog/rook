@@ -1,0 +1,20 @@
+[Event "Groningen"]
+[Site "Groningen"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Tiller, Bjorn"]
+[Black "Neunenschwander"]
+[Result "1-0"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra gambit"]
+[HashCode "e176c30c"]
+[Epoch "Rook"]
+[WhiteID "1500112"]
+[WhiteCountry "NOR"]
+
+1. e4 c5 2. d4 cxd4 3. c3 Nf6 4. e5 Nd5 5. cxd4 Nc6 6. Nf3 d6 7. Bc4 e6 8. O-O
+Be7 9. Qe2 O-O 10. Nc3 Nxc3 11. bxc3 dxe5 12. dxe5 b6 13. Qe4 Bb7 14. Bd3 g6
+15. Bh6 Re8 16. Rad1 Qc7 17. Qf4 Rad8 18. Ng5 Nxe5 19. Bb5 Rxd1 20. Rxd1 Rc8
+21. c4 Bf8 22. Qh4 Bxh6 23. Qxh6 Rd8 24. Qxh7+ Kf8 25. Nxe6+ fxe6 26. Qh8+ Ke7
+27. Qh4+ 1-0

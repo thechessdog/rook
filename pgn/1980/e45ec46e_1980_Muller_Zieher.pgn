@@ -1,0 +1,21 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Muller, Hans P"]
+[Black "Zieher, Hartmut"]
+[Result "1-0"]
+[ECO "A00"]
+[Opening "Benko's opening"]
+[HashCode "e45ec46e"]
+[Epoch "Rook"]
+[WhiteID "3223167"]
+[BlackID "4607821"]
+[WhiteCountry "AUS"]
+[BlackCountry "GER"]
+
+1. g3 g6 2. Bg2 Bg7 3. Nf3 e5 4. O-O Ne7 5. c4 c5 6. Nc3 O-O 7. Ne1 Nbc6 8. Nc2
+d6 9. a3 Be6 10. Ne3 Qd7 11. Rb1 Bh3 12. b4 Bxg2 13. Kxg2 cxb4 14. axb4 Nd4 15.
+Ned5 b5 16. Nxe7+ Qxe7 17. e3 Qb7+ 18. f3 Nf5 19. Nxb5 d5 20. Na3 dxc4 21. Nxc4
+e4 22. Na5 Qe7 23. Qb3 Rac8 24. Qd5 Rc2 25. Kh1 exf3 26. Qxf3 Rfc8 27. b5 Nd6
+28. Nc6 Qb7 29. Ba3 Rxd2 30. Rbd1 Rxd1 31. Rxd1 Bf8 32. Bxd6 1-0

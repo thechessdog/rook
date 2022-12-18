@@ -1,0 +1,22 @@
+[Event "Mexico"]
+[Site "Mexico"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Baragar, Fletcher"]
+[Black "Kinlay, Jonathan"]
+[Result "0-1"]
+[ECO "A75"]
+[Opening "Benoni"]
+[Variation "classical with ...a6 and 10...Bg4"]
+[HashCode "333f049e"]
+[Epoch "Rook"]
+[WhiteID "2600447"]
+[BlackID "401919"]
+[WhiteCountry "CAN"]
+[BlackCountry "ENG"]
+
+1. d4 Nf6 2. c4 c5 3. d5 d6 4. Nc3 g6 5. e4 Bg7 6. Be2 e6 7. Nf3 O-O 8. O-O
+exd5 9. cxd5 a6 10. a4 Bg4 11. Bg5 Bxf3 12. Bxf3 Nbd7 13. Qd2 Re8 14. Qf4 Qc7
+15. Qh4 b6 16. Nd1 Rac8 17. Ne3 c4 18. Rfc1 b5 19. Ra2 Qc5 20. Nc2 b4 21. Ne3
+b3 22. Raa1 Qd4 23. Rab1 Nxe4 24. Bxe4 Rxe4 25. Qh3 f5 26. a5 Ne5 27. Rd1 Nd3
+28. Qf3 h6 29. Nxc4 Qxc4 30. Rxd3 hxg5 0-1

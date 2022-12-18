@@ -1,0 +1,22 @@
+[Event "corr Heilimo mem"]
+[Site "corr Heilimo mem"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Rasanen"]
+[Black "Nokso_Koivisto"]
+[Result "1-0"]
+[ECO "B97"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7...Qb6"]
+[HashCode "bca5b9de"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qb6 8.
+Nb3 Nbd7 9. Qf3 Qc7 10. O-O-O b5 11. a3 Bb7 12. Bd3 O-O-O 13. Kb1 Kb8 14.
+Rhe1 Be7 15. Qf1 Nc5 16. Nxc5 dxc5 17. e5 Nd5 18. Nxd5 exd5 19. Bxe7 Qxe7
+20. Bf5 d4 21. g3 Bd5 22. Be4 Qb7 23. Qh1 Rhe8 24. g4 Kc7 25. h4 a5 26. b3
+Bxe4 27. Qxe4 Qxe4 28. Rxe4 Re7 29. Re2 b4 30. a4 Rde8 31. Rg2 f6 32. exf6
+gxf6 33. g5 Rf8 34. h5 fxg5 35. fxg5 Kd6 36. g6 hxg6 37. Rxg6+ Kd5 38. h6
+Ref7 39. Kc1 Rf1 40. Rg5+ Kd6 41. Rh5 R1f3 42. h7 Rh8 43. Rg1 Rf7 44. Rg6+
+Kd7 45. Ra6 1-0
+

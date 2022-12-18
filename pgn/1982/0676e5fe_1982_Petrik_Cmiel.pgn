@@ -1,0 +1,20 @@
+[Event "corr ch-CSSR"]
+[Site "corr ch-CSSR"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Petrik"]
+[Black "Cmiel"]
+[Result "1-0"]
+[ECO "E02"]
+[Opening "Catalan"]
+[Variation "open, 5.Qa4"]
+[HashCode "0676e5fe"]
+[Epoch "Rook"]
+
+1. d4 d5 2. c4 e6 3. g3 dxc4 4. Bg2 Nf6 5. Qa4+ c6 6. Qxc4 Na6 7. Bxc6+
+bxc6 8. Qxc6+ Qd7 9. Qxa8 Bb4+ 10. Bd2 O-O 11. Qg2 Bxd2+ 12. Nxd2 Nb4 13.
+Rc1 Nxa2 14. Rd1 Nb4 15. Ngf3 Nc2+ 16. Kf1 Ba6 17. Nb3 Ng4 18. Qh3 e5 19.
+Qh5 Nf6 20. Nxe5 Qb5 21. Qf3 Bb7 22. Qc3 Bxh1 23. Qxc2 Be4 24. Nd3 Qf5 25.
+Nbc5 Ng4 26. Qd2 Nxh2+ 27. Kg1 Ba8 28. Nf4 Ng4 29. f3 Nf6 30. e4 Qg5 31.
+Kg2 Nh5 32. Nxh5 Qxh5 33. d5 1-0
+

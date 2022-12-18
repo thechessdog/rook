@@ -1,0 +1,17 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Ollek"]
+[Black "Schott"]
+[Result "1-0"]
+[ECO "C18"]
+[Opening "French"]
+[Variation "Winawer, classical variation"]
+[HashCode "52aa58c4"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Qc7 7. Qg4 f6 8.
+Bb5+ Kf7 9. Nf3 cxd4 10. exf6 Nxf6 11. Ng5+ Ke7 12. Qxd4 Nbd7 13. a4 e5 14.
+Ba3+ Ke8 15. Qb4 Qd8 16. Qd6 1-0
+

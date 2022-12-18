@@ -1,0 +1,20 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Morgulev"]
+[Black "Korsunsky"]
+[Result "0-1"]
+[ECO "B31"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (with ...g6, without ...d6)"]
+[HashCode "75fbb71a"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. c3 Nf6 6. Re1 O-O 7. d4 cxd4 8.
+cxd4 d5 9. e5 Ne4 10. Bxc6 bxc6 11. Nbd2 c5 12. dxc5 Nxc5 13. Nb3 Nxb3 14.
+Qxb3 d4 15. Bg5 Bg4 16. Rad1 Rb8 17. Qa3 Bxf3 18. Bxe7 Bxd1 19. Bxd8 Bc2
+20. Ba5 Rb5 21. f4 Rfb8 22. b3 Bf8 23. Qc1 Rc8 24. Bd2 Bf5 25. Qd1 h5 26.
+h3 h4 27. Qf3 Rc2 28. a4 Rb8 29. Rd1 Rb2 30. b4 Rc8 31. Be1 d3 32. Bxh4 d2
+33. Kh2 Rc1 34. Qa8 Rbc2 35. Qf3 Rxd1 36. Qxd1 Bxb4 0-1
+

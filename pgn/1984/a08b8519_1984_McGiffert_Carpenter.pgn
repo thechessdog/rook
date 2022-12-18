@@ -1,0 +1,16 @@
+[Event "USA"]
+[Site "USA"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "McGiffert"]
+[Black "Carpenter"]
+[Result "0-1"]
+[ECO "C57"]
+[Opening "two knights defence"]
+[Variation "Fritz variation"]
+[HashCode "a08b8519"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 Nd4 6. d6 Qxd6 7. Bxf7+
+Ke7 8. Bb3 Nxb3 9. axb3 h6 10. Nf3 e4 11. Nh4 Kf7 12. g3 g5 13. Ng2 Bg4 0-1
+

@@ -1,0 +1,20 @@
+[Event "Brighton"]
+[Site "Brighton"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Chandler, Murray G"]
+[Black "Gruchacz, Robert"]
+[Result "1-0"]
+[ECO "E42"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5, 5.Ne2 (Rubinstein)"]
+[HashCode "2e36e610"]
+[Epoch "Rook"]
+[WhiteID "400050"]
+[WhiteCountry "NZL"]
+
+1. d4 e6 2. c4 Nf6 3. Nc3 Bb4 4. e3 c5 5. Ne2 d5 6. cxd5 Nxd5 7. g3 cxd4 8.
+exd4 Bd7 9. Bg2 Bc6 10. O-O O-O 11. Nxd5 Bxd5 12. Bxd5 Qxd5 13. Nf4 Qd7 14. d5
+exd5 15. Nxd5 Bd6 16. Qb3 Na6 17. Be3 Nc5 18. Qc2 Qa4 19. Qe2 Rfe8 20. Rfd1
+Rad8 21. Rac1 b6 22. Rc4 Qxa2 23. Rh4 Bf8 24. Qh5 h6 25. Rg4 Qb3 26. Nf6+ Kh8
+27. Qxh6+ 1-0

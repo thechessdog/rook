@@ -1,0 +1,19 @@
+[Event "Gausdal Int"]
+[Site "Gausdal"]
+[Date "1981.??.??"]
+[Round "8"]
+[White "Ostermeyer, Peter, Dr."]
+[Black "Cramling, Dan"]
+[Result "1/2-1/2"]
+[ECO "E95"]
+[Opening "King's Indian"]
+[Variation "orthodox, 7...Nbd7, 8.Re1"]
+[HashCode "e4947142"]
+[Epoch "Rook"]
+[WhiteID "4600355"]
+[BlackID "1700162"]
+[WhiteCountry "GER"]
+[BlackCountry "SWE"]
+
+1. d4 g6 2. c4 Bg7 3. Nc3 d6 4. e4 e5 5. Nf3 Nd7 6. Be2 Ngf6 7. O-O O-O 8. Re1
+c6 9. Bf1 Ng4 10. h3 exd4 11. Nxd4 Qb6 12. hxg4 Bxd4 1/2-1/2

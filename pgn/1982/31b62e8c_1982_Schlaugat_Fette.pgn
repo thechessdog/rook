@@ -1,0 +1,24 @@
+[Event "Bundesliga 8182"]
+[Site "Duitsland tt"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Schlaugat, Michael"]
+[Black "Fette, Martin"]
+[Result "1-0"]
+[ECO "B12"]
+[Opening "Caro-Kann"]
+[Variation "advance variation"]
+[HashCode "31b62e8c"]
+[Epoch "Rook"]
+[WhiteID "4607503"]
+[WhiteCountry "GER"]
+[BlackID "4600827"]
+[BlackCountry "GER"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Ne2 e6 6. Ng3 Bg6 7. Be2 c5 8. c3 Bxb1
+9. Rxb1 g6 10. Qa4+ Nc6 11. Bg5 Qd7 12. Bb5 cxd4 13. cxd4 Bb4+ 14. Kf1 Be7 15.
+Be3 Nh6 16. Rc1 Rc8 17. Bxc6 bxc6 18. b4 Ng4 19. Bd2 Kf8 20. Ne2 Kg7 21. Rh3
+Qb7 22. a3 Qb6 23. Rhc3 Bxh4 24. Rxc6 Rxc6 25. Rxc6 Qd8 26. f3 Nh6 27. Bxh6+
+Kxh6 28. Qxa7 Rh7 29. Rc7 Qe8 30. a4 Bd8 31. Rd7 g5 32. b5 g4 33. f4 h4 34. f5
+h3 35. Kg1 Bb6 36. Qb7 Kg5 37. Qc6 Kxf5 38. Qc2+ Kg5 39. Qd2+ Kg6 40. Rd6 Bd8
+41. Qc2+ Kg5 42. Qxh7 1-0

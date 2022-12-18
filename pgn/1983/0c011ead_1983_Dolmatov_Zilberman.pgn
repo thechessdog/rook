@@ -1,0 +1,20 @@
+[Event "Frunze"]
+[Site "Frunze"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Dolmatov, Sergey"]
+[Black "Zilberman, Nathan R"]
+[Result "1/2-1/2"]
+[ECO "C15"]
+[Opening "French"]
+[Variation "Winawer (Nimzovich) variation"]
+[HashCode "0c011ead"]
+[Epoch "Rook"]
+[WhiteID "4100093"]
+[WhiteCountry "RUS"]
+[BlackID "13800035"]
+[BlackCountry "KGZ"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. Bd3 dxe4 5. Bxe4 Nf6 6. Bd3 c5 7. dxc5 Nbd7 8.
+Bd2 Nxc5 9. Bc4 O-O 10. Nf3 Nce4 11. Nxe4 Nxe4 12. Bxb4 Qb6 13. O-O Qxb4 14.
+Qd4 Nd6 15. Bb3 Qxd4 16. Nxd4 1/2-1/2

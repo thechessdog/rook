@@ -1,0 +1,18 @@
+[Event "E Lansing ch-MI M/X"]
+[Site "E Lansing ch-MI M/X"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Fairclough, N."]
+[Black "Fischvogt, Eric"]
+[Result "0-1"]
+[ECO "C67"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence, open variation"]
+[HashCode "48e1f3fe"]
+[Epoch "Rook"]
+[BlackID "30930782"]
+[BlackCountry "USA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. Re1 Nd6 6. Nxe5 Nxe5 7. Rxe5+ Be7
+8. d4 Nxb5 9. Bg5 f6 10. Bxf6 gxf6 11. Qh5+ Kf8 12. Qh6+ Kg8 13. Re3 d5 14. Nd2
+Bf5 0-1

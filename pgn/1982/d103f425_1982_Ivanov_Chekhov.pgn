@@ -1,0 +1,23 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Ivanov, Alexander V"]
+[Black "Chekhov, Valery A"]
+[Result "0-1"]
+[ECO "B91"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Zagreb (fianchetto) variation"]
+[HashCode "d103f425"]
+[Epoch "Rook"]
+[BlackID "4100859"]
+[BlackCountry "RUS"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. g3 e5 7. Nde2 Nbd7 8. a4
+b6 9. Bg2 Bb7 10. h3 Be7 11. g4 O-O 12. Ng3 Nc5 13. h4 g6 14. g5 Nfd7 15. Nd5
+Ne6 16. Be3 Rc8 17. c3 Re8 18. Qd2 Ndc5 19. Ra3 Nf4 20. Bxf4 exf4 21. Ne2 Bxd5
+22. Qxd5 Ne6 23. Kf1 Bf8 24. Rh3 Bg7 25. Ra1 Be5 26. Nc1 Nc5 27. Nd3 a5 28. Rf3
+Nxd3 29. Rxd3 Kg7 30. Rh3 Rh8 31. Qd1 h6 32. gxh6+ Rxh6 33. h5 Qd7 34. Rh1 Rch8
+35. Bf3 gxh5 36. Bxh5 Kf8 37. Qf3 Qc6 38. Ke2 b5 39. Bg4 bxa4 40. Rxh6 Rxh6 41.
+Qd3 Qb6 42. Qd2 a3 43. bxa3 Rh2 44. Rf1 Qb5+ 45. Qd3 Qb2+ 46. Kf3 Qxa3 47. Bd7
+Qc5 48. Qc2 Bd4 49. Bf5 Qc4 0-1

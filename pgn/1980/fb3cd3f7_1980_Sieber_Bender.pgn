@@ -1,0 +1,20 @@
+[Event "corr DDR-cup6"]
+[Site "corr DDR-cup6"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Sieber, H."]
+[Black "Bender, H."]
+[Result "1-0"]
+[ECO "B94"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.Bg5"]
+[HashCode "fb3cd3f7"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 Nbd7 7. f4 Qb6
+8. Nb3 h6 9. Bxf6 Nxf6 10. Qd2 e6 11. O-O-O Be7 12. Be2 Qc7 13. Bf3 Nd7 14.
+Kb1 Nc5 15. Nxc5 dxc5 16. e5 Bd7 17. Qf2 O-O-O 18. Rd3 Kb8 19. Rhd1 c4 20.
+R3d2 f5 21. g4 g6 22. Qg2 Bc5 23. Bxb7 Bb5 24. Rxd8+ Rxd8 25. Rxd8+ Qxd8
+26. a4 Qb6 27. gxf5 gxf5 28. axb5 Qxb7 29. Qg8+ Qc8 30. Qxc8+ Kxc8 31. bxa6
+Kb8 32. b3 Ka7 33. Nb5+ Kxa6 34. Nc7+ Kb6 35. Nxe6 Be3 36. Ng7 1-0
+

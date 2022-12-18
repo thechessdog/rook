@@ -1,0 +1,20 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Kabisch"]
+[Black "Wierschke"]
+[Result "1-0"]
+[ECO "C08"]
+[Opening "French"]
+[Variation "Tarrasch, open, 4.ed ed"]
+[HashCode "16b98b4f"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. exd5 exd5 5. Bb5+ Bd7 6. Qe2+ Qe7 7. Bxd7+
+Nxd7 8. dxc5 Qxe2+ 9. Nxe2 Bxc5 10. Nb3 Bb6 11. Nbd4 Ngf6 12. Bf4 O-O 13.
+f3 Nc5 14. O-O-O Ne6 15. Be5 Nxd4 16. Nxd4 Nd7 17. Bd6 Rfe8 18. Nf5 Nf6 19.
+Ne7+ Kh8 20. Nxd5 Nxd5 21. Rxd5 Be3+ 22. Kd1 Rad8 23. Re1 Re6 24. Rd3 Rdxd6
+25. Rxe3 g5 26. Rxe6 Rxd3+ 27. cxd3 fxe6 28. Ke2 Kg7 29. Ke3 Kf6 30. Ke4 b6
+31. d4 h5 32. g4 hxg4 33. fxg4 a6 34. h3 b5 35. b4 Kf7 36. Ke5 1-0
+

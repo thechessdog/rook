@@ -1,0 +1,20 @@
+[Event "San Francisco"]
+[Site "San Francisco"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Baja, Victor"]
+[Black "Smith, Andrew Philip"]
+[Result "1-0"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Lipnitzky attack"]
+[HashCode "03e69c5c"]
+[Epoch "Rook"]
+[WhiteID "2003210"]
+[WhiteCountry "USA"]
+[BlackID "2500833"]
+[BlackCountry "IRL"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. O-O b5 8. Bb3
+b4 9. Na4 Nxe4 10. Re1 d5 11. c4 Nc5 12. Nxc5 Bxc5 13. Ba4+ Kf8 14. cxd5 Qxd5
+15. Nxe6+ fxe6 16. Qxd5 exd5 17. Re8+ Kf7 18. Rxh8 Bf5 19. Bc6 1-0

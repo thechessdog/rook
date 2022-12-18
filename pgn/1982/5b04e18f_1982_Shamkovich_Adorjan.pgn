@@ -1,0 +1,18 @@
+[Event "Reykjavik op"]
+[Site "Reykjavik op"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Shamkovich, Leonid"]
+[Black "Adorjan, Andras"]
+[Result "1/2-1/2"]
+[ECO "B17"]
+[Opening "Caro-Kann"]
+[Variation "Steinitz variation"]
+[HashCode "5b04e18f"]
+[Epoch "Rook"]
+[BlackID "700096"]
+[BlackCountry "HUN"]
+[WhiteCountry "RUS"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Nxf6+ Nxf6 7. Ne5 Nd7
+8. Nxd7 Bxd7 9. Bc4 Bf5 10. O-O e6 1/2-1/2

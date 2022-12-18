@@ -1,0 +1,24 @@
+[Event "Wroclaw"]
+[Site "Wroclaw"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Pokojowczyk, Jerzy"]
+[Black "Popovic, Petar"]
+[Result "0-1"]
+[ECO "B06"]
+[Opening "Robatsch defence"]
+[Variation "Pseudo-Austrian attack"]
+[HashCode "d923c134"]
+[Epoch "Rook"]
+[WhiteID "1100718"]
+[WhiteCountry "POL"]
+[BlackID "900109"]
+[BlackCountry "SRB"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. f4 Nc6 5. Be3 Nf6 6. Nf3 O-O 7. Be2 a6 8. h3
+Nh5 9. g4 Ng3 10. Rg1 Nxe2 11. Qxe2 e5 12. O-O-O exd4 13. Nxd4 Bd7 14. Nxc6
+Bxc6 15. Bd4 Bxd4 16. Rxd4 Qh4 17. Qd3 Rae8 18. Qg3 Qf6 19. Rgd1 Re7 20. g5 Qg7
+21. h4 Rfe8 22. h5 gxh5 23. Qf3 h4 24. Kb1 Qg6 25. Nd5 Bxd5 26. exd5 Qf5 27.
+R4d2 Re4 28. Rf2 Re1 29. Rf1 R8e2 30. Qc3 Rxf1 31. Rxf1 h3 32. Qc4 Qe4 33. Qxe4
+Rxe4 34. b3 h2 35. Rh1 Re2 36. Kb2 Kg7 37. f5 f6 38. gxf6+ Kxf6 39. Kc3 Kxf5
+40. Kd3 Rf2 0-1

@@ -1,0 +1,27 @@
+[Event "DDR-POL-CSR U26"]
+[Site "Zinnowitz"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Boensch, Uwe"]
+[Black "Panczyk, Krzysztof"]
+[Result "1-0"]
+[ECO "C77"]
+[Opening "Ruy Lopez"]
+[Variation "Wormald (Alapin) attack"]
+[HashCode "1562377a"]
+[Epoch "Rook"]
+[WhiteID "4611268"]
+[WhiteCountry "GER"]
+[BlackID "1100211"]
+[BlackCountry "POL"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. Qe2 b5 6. Bb3 Bc5 7. c3 d6 8. O-O
+O-O 9. Rd1 Bb6 10. h3 Bb7 11. d3 Kh8 12. Nbd2 Nh5 13. Nf1 Qe7 14. Ne3 Nf4 15.
+Qf1 Na5 16. Bc2 Qf6 17. Ng4 Qg6 18. Bxf4 exf4 19. b4 h5 20. Ngh2 Nc6 21. d4 Qh6
+22. Qd3 Rg8 23. Nh4 Ne7 24. Nf5 Nxf5 25. exf5 Rge8 26. Re1 Qf6 27. Nf3 Kg8 28.
+a4 Bc6 29. a5 Ba7 30. h4 Bxf3 31. Qxf3 Qxh4 32. Be4 Rad8 33. Bc6 Re7 34. Re4
+Qf6 35. Rae1 Rxe4 36. Qxe4 h4 37. Qe7 Qxe7 38. Rxe7 Bb8 39. d5 Kf8 40. Re4 Ba7
+41. Kf1 f3 42. gxf3 Rb8 43. f6 gxf6 44. Rxh4 Ke7 45. Re4+ Kf8 46. f4 f5 47. Re1
+f6 48. Kg2 Kf7 49. Rh1 Kg7 50. Kf3 Kg6 51. Bd7 Rd8 52. Rg1+ Kh7 53. Bc6 Rg8 54.
+Rxg8 Kxg8 55. Bb7 Kf7 56. Bxa6 Ke7 57. Bxb5 Kd8 58. Ba6 Kd7 59. Bb7 Kd8 60. Ke2
+Kd7 61. f3 Kd8 62. Kd3 Kd7 63. Kc4 Be3 64. Kb5 Ba7 65. c4 Kd8 66. Kc6 1-0

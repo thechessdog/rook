@@ -1,0 +1,20 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Lohwasser, R."]
+[Black "Zehm, W."]
+[Result "0-1"]
+[ECO "E30"]
+[Opening "Nimzo-Indian"]
+[Variation "Leningrad variation"]
+[HashCode "9a84c3d4"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Bg5 h6 5. Bh4 c5 6. d5 Bxc3+ 7. bxc3 d6 8.
+e3 e5 9. Bd3 e4 10. Bc2 Nbd7 11. Ne2 Qe7 12. O-O g5 13. Bg3 Nb6 14. Bb3 Bg4
+15. h3 Bh5 16. Qc2 O-O 17. h4 Ng4 18. hxg5 hxg5 19. a4 Kg7 20. Qd2 Rh8 21.
+Rae1 Rh6 22. Nc1 Rah8 23. f3 exf3 24. gxf3 Ne5 25. Qe2 Nxf3+ 26. Rxf3 Qe4
+27. Ref1 Bxf3 28. Qxf3 Rh1+ 29. Kg2 Qxf3+ 30. Rxf3 Rxc1 31. Bxd6 Nd7 32. e4
+f6 33. Rd3 Re1 0-1
+

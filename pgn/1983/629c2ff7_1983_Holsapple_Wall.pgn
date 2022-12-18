@@ -1,0 +1,18 @@
+[Event "Dayton,OH"]
+[Site "Dayton,OH"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Holsapple, Boyd"]
+[Black "Wall, Bill"]
+[Result "0-1"]
+[ECO "C53"]
+[Opening "Giuoco Piano"]
+[HashCode "629c2ff7"]
+[Epoch "Rook"]
+[BlackCountry "USA"]
+[WhiteCountry "USA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 h6 5. O-O Na5 6. Bxf7+ Kxf7 7. Nxe5+ Ke6
+8. d4 Nf6 9. Ng6 Re8 10. dxc5 Nxe4 11. Qg4+ Kf7 12. Re1 d5 13. Qh5 Kg8 14. b4
+Nxc3 15. Rxe8+ Qxe8 16. Bd2 Ne2+ 17. Kf1 Nc4 18. Qxd5+ Be6 19. Qe4 Rd8 20. Kxe2
+Bg4+ 0-1

@@ -1,0 +1,21 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Kiefer, Gerhard"]
+[Black "Marschner, Jurgen"]
+[Result "1-0"]
+[ECO "C13"]
+[Opening "French"]
+[Variation "classical, Frankfurt variation"]
+[HashCode "35e0ae90"]
+[Epoch "Rook"]
+[WhiteID "4606965"]
+[WhiteCountry "GER"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Ng8 6. Be3 b6 7. h4 h5 8. g3 g6
+9. Qd2 Ba6 10. Bg2 Qd7 11. Nh3 Nc6 12. Nf4 Bb4 13. a3 Bxc3 14. Qxc3 Nge7 15.
+Bh3 O-O-O 16. O-O-O Kb8 17. Rhe1 Rc8 18. Kb1 Na5 19. b3 c5 20. dxc5 Nb7 21. Qb2
+bxc5 22. Nxd5 Nxd5 23. c4 Qc6 24. cxd5 exd5 25. Bf4 Ka8 26. e6 d4 27. exf7 Rcf8
+28. Re6 Qf3 29. Rde1 Bd3+ 30. Ka1 Na5 31. Re8+ Kb7 32. R1e7+ Ka6 33. Bc8+ Kb5
+34. a4+ Kc6 35. Re6+ 1-0

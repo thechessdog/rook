@@ -1,0 +1,19 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Erbe"]
+[Black "Geyer"]
+[Result "0-1"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "classical attack"]
+[HashCode "40c85c70"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Be7 7. Nbd2 f5
+8. Ne5 O-O 9. c4 c6 10. cxd5 cxd5 11. Nxe4 fxe4 12. Bc2 Nc6 13. Nxc6 bxc6
+14. O-O Ba6 15. Re1 Bc5 16. Be3 Qc7 17. g3 Rf3 18. Kg2 Raf8 19. a3 Qf7 20.
+Qd2 Bc8 21. Bd1 Qf5 22. Rg1 Qh3+ 23. Kh1 Bg4 24. Be2 Rxf2 25. Bxg4 Qxh2#
+0-1
+

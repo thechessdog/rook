@@ -1,0 +1,23 @@
+[Event "Yugoslavia"]
+[Site "Yugoslavia"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Ivkov, Borislav"]
+[Black "Simic, Radoslav"]
+[Result "1-0"]
+[ECO "A05"]
+[Opening "Reti"]
+[Variation "King's Indian attack"]
+[HashCode "81aea095"]
+[Epoch "Rook"]
+[WhiteID "900141"]
+[WhiteCountry "SRB"]
+[BlackID "900184"]
+[BlackCountry "SRB"]
+
+1. Nf3 Nf6 2. g3 g6 3. b3 Bg7 4. Bb2 d5 5. c4 c6 6. Bg2 O-O 7. d3 Bg4 8. Nbd2
+Nbd7 9. O-O Rc8 10. Rc1 Ne8 11. Qc2 Bxb2 12. Qxb2 Bxf3 13. Nxf3 e6 14. b4 Qe7
+15. Rc2 Nc7 16. Rfc1 dxc4 17. Rxc4 Rcd8 18. R4c2 Rfe8 19. Nd2 Nf6 20. Nc4 e5
+21. Na5 Nb5 22. a4 Nd4 23. Rc4 Nd5 24. e3 Ne6 25. Qb3 Rd7 26. b5 c5 27. Nxb7
+Nb4 28. Nxc5 Nxc5 29. Qxb4 Nxd3 30. Qxe7 Rexe7 31. Rb1 f5 32. Bc6 Rd8 33. e4
+fxe4 34. Bxe4 Red7 35. a5 1-0

@@ -1,0 +1,17 @@
+[Event "Laren"]
+[Site "Laren"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Weyerstrass, Ronald"]
+[Black "De Vries, S."]
+[Result "1-0"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "modern variation"]
+[HashCode "fbec93cc"]
+[Epoch "Rook"]
+
+1. b3 e5 2. Bb2 Nc6 3. e3 Nf6 4. Bb5 d6 5. Ne2 Bd7 6. O-O a6 7. Bxc6 Bxc6 8. d4
+exd4 9. Nxd4 Qd7 10. Nxc6 Qxc6 11. Bxf6 gxf6 12. Nd2 O-O-O 13. c4 Rg8 14. Qf3
+d5 15. Rfd1 Bb4 16. Nf1 Rg5 17. h4 Re5 18. cxd5 Rdxd5 19. Rxd5 Rxd5 20. Qg4+
+Qe6 21. Qxb4 1-0

@@ -1,0 +1,24 @@
+[Event "Silkeborg"]
+[Site "Silkeborg"]
+[Date "1983.01.01"]
+[Round "3"]
+[White "Hansen, Curt"]
+[Black "Knudsen, Per"]
+[Result "1-0"]
+[ECO "C11"]
+[Opening "French"]
+[Variation "Steinitz, Boleslavsky variation"]
+[HashCode "e3cf034f"]
+[Epoch "Rook"]
+[WhiteID "1400010"]
+[WhiteCountry "DEN"]
+[BlackID "1400509"]
+[BlackCountry "DEN"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 Nc6 7. Be3 a6 8. Qd2
+Be7 9. Be2 b5 10. dxc5 Nxc5 11. a3 Bb7 12. Nd4 Nxd4 13. Bxd4 Qc7 14. O-O O-O
+15. Qe3 Rac8 16. b4 Ne4 17. Nxe4 dxe4 18. c3 f5 19. a4 Qd7 20. axb5 axb5 21.
+Ra5 Bc6 22. Ra7 Rc7 23. Rfa1 Rb8 24. R1a5 Bd8 25. h3 Bd5 26. Bc5 Qe8 27. Kh2
+Rcb7 28. Rxb7 Rxb7 29. Ra8 Rd7 30. Rc8 Rb7 31. Bb6 Rxb6 32. Qxb6 Bxb6 33. Rxe8+
+Kf7 34. Rc8 Be3 35. g3 g5 36. fxg5 f4 37. gxf4 Bxf4+ 38. Kg1 Bxe5 39. Bxb5 Bb7
+40. Rd8 1-0

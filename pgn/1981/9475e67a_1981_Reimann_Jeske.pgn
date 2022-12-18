@@ -1,0 +1,21 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Reimann"]
+[Black "Jeske"]
+[Result "0-1"]
+[ECO "B15"]
+[Opening "Caro-Kann"]
+[Variation "Forgacs variation"]
+[HashCode "9475e67a"]
+[Epoch "Rook"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ exf6 6. Bc4 Bd6 7. Qe2+
+Be7 8. Nf3 O-O 9. O-O Bd6 10. Re1 Na6 11. a4 Nc7 12. c3 Re8 13. Qd1 Bg4 14.
+Rxe8+ Qxe8 15. h3 Be6 16. Bd3 Qd7 17. c4 Re8 18. Be3 b6 19. Nh2 Bf5 20.
+Bxf5 Qxf5 21. b3 Rd8 22. Qb1 Qd7 23. Nf3 Ne6 24. b4 Bc7 25. Qb2 a6 26. Qb3
+b5 27. axb5 axb5 28. c5 Bb8 29. Qa2 g5 30. g3 Ng7 31. Kg2 Nf5 32. g4 Ne7
+33. Qb3 Nd5 34. Ra2 h5 35. Kf1 hxg4 36. hxg4 Qxg4 37. Ng1 Bh2 38. Ne2 Re8
+39. Ke1 Bf4 40. Ra3 Qf3 0-1
+

@@ -1,0 +1,22 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Kirillov"]
+[Black "Ambarian"]
+[Result "1-0"]
+[ECO "C99"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Chigorin, 12...c5d4"]
+[HashCode "feb6ec19"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Be7 7. Re1 d6 8.
+c3 Na5 9. Bc2 c5 10. d4 Qc7 11. Nbd2 O-O 12. h3 cxd4 13. cxd4 Nc6 14. Nb3
+a5 15. Be3 a4 16. Nbd2 Nb4 17. Bb1 Bd7 18. a3 Nc6 19. Ba2 Rac8 20. Rc1 Qb8
+21. Qe2 Na5 22. Qd3 h6 23. dxe5 dxe5 24. Nh4 Rxc1 25. Rxc1 Rc8 26. Rxc8+
+Bxc8 27. Ng6 Bd6 28. Bc5 Nb7 29. Bxd6 Nxd6 30. Nxe5 Bb7 31. Qd4 Qc7 32. f3
+Bc8 33. Nd3 Nfe8 34. Qc5 Qxc5+ 35. Nxc5 Nc7 36. Kf2 Kf8 37. Ke3 f6 38. h4
+g5 39. hxg5 hxg5 40. Nb1 Ke7 41. Nc3 Nb7 42. Nxb7 Bxb7 43. Kd4 Kd6 44. Bd5
+Bc8 45. g3 Bd7 46. f4 1-0
+

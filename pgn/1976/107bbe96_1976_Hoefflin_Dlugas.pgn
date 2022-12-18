@@ -1,0 +1,17 @@
+[Event "Poe Ditch Open,OH"]
+[Site "Poe Ditch Open,OH"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Hoefflin, Mel"]
+[Black "Dlugas, Dan"]
+[Result "0-1"]
+[ECO "A58"]
+[Opening "Benko gambit accepted"]
+[HashCode "107bbe96"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. bxa6 Bxa6 6. Nc3 d6 7. f3 g6 8.
+e4 Bxf1 9. Kxf1 Bg7 10. Nge2 O-O 11. Kf2 Nbd7 12. Rf1 Nb6 13. Kg1 Qb8 14.
+Qc2 Rc8 15. f4 Nfd7 16. f5 Bd4+ 17. Kh1 Ne5 18. fxg6 hxg6 19. h3 Kg7 20.
+Qd2 Rh8 21. Nxd4 cxd4 22. Qxd4 0-1
+

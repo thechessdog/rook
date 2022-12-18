@@ -1,0 +1,18 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Degli Eredi"]
+[Black "Gruneberg"]
+[Result "0-1"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack"]
+[HashCode "1055fd13"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. Bg5 d5 3. Nc3 Nbd7 4. Nf3 e6 5. e4 h6 6. Bh4 g5 7. Bg3 Nxe4 8.
+Nxe4 dxe4 9. Nd2 f5 10. h4 g4 11. Nc4 Bg7 12. Qd2 Nf6 13. O-O-O O-O 14. h5
+b5 15. Ne5 a6 16. Ng6 Rf7 17. Be2 Bb7 18. Bf4 Kh7 19. Ne5 Rf8 20. f3 exf3
+21. gxf3 gxf3 22. Nxf3 Be4 23. Rdg1 Ng4 24. Rh3 Qd5 25. b3 Rad8 26. Rgg3
+Bxf3 27. Bxf3 Qxd4 28. Qxd4 Bxd4 29. Rxg4 fxg4 30. Be4+ Kh8 0-1
+

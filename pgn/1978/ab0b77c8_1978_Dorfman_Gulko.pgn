@@ -1,0 +1,20 @@
+[Event "Tbilisi ch-URS"]
+[Site "Tbilisi ch-URS"]
+[Date "1978.12.01"]
+[Round "1"]
+[White "Dorfman, Iossif"]
+[Black "Gulko, Boris"]
+[Result "1/2-1/2"]
+[ECO "D94"]
+[Opening "Gruenfeld"]
+[Variation "Opovcensky variation"]
+[HashCode "ab0b77c8"]
+[Epoch "Rook"]
+[BlackID "2000040"]
+[BlackCountry "USA"]
+[WhiteCountry "FRA"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. Nc3 d5 5. e3 O-O 6. Bd2 c5 7. dxc5 Na6 8. cxd5
+Nxc5 9. Bc4 Bf5 10. O-O Rc8 11. Qe2 Nfe4 12. Rfd1 Nxc3 13. Bxc3 Bxc3 14. bxc3
+Ne4 15. Rd4 Qa5 16. g4 Qxc3 17. Rad1 Nd6 18. gxf5 Rxc4 19. Rxc4 Qxc4 20. Qxc4
+Nxc4 1/2-1/2

@@ -1,0 +1,22 @@
+[Event "Denmark"]
+[Site "Denmark"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Astrom, Goran"]
+[Black "Hansen, Lars Bo"]
+[Result "0-1"]
+[ECO "B16"]
+[Opening "Caro-Kann"]
+[Variation "Bronstein-Larsen variation"]
+[HashCode "a756cad8"]
+[Epoch "Rook"]
+[WhiteID "1700847"]
+[BlackID "1400037"]
+[WhiteCountry "SWE"]
+[BlackCountry "DEN"]
+
+1. e4 c6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Nf6 5. Nxf6+ gxf6 6. c3 Bf5 7. Nf3 e6 8.
+Bf4 Bd6 9. Bxd6 Qxd6 10. g3 Nd7 11. Bg2 O-O-O 12. O-O Bg4 13. Qa4 Nb6 14. Qc2
+Bxf3 15. Bxf3 h5 16. a4 h4 17. a5 Nd5 18. a6 b6 19. c4 Ne7 20. Rfd1 hxg3 21.
+hxg3 Nf5 22. d5 Qc5 23. dxc6 Rdg8 24. Qd3 Rxg3+ 25. Kf1 Rh1+ 26. Bxh1 Rxd3 27.
+Rxd3 Qxc4 0-1

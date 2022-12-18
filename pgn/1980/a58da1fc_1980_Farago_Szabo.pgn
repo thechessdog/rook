@@ -1,0 +1,23 @@
+[Event "Hungary"]
+[Site "Hungary"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Farago, Ivan"]
+[Black "Szabo, Laszlo"]
+[Result "1-0"]
+[ECO "E12"]
+[Opening "Queen's Indian"]
+[Variation "4.Nc3"]
+[HashCode "a58da1fc"]
+[Epoch "Rook"]
+[WhiteID "700134"]
+[WhiteCountry "HUN"]
+[BlackID "710741"]
+[BlackCountry "HUN"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. Nc3 Bb7 5. a3 d5 6. cxd5 Nxd5 7. e3 Nd7 8. Bd3
+Nxc3 9. bxc3 Bd6 10. O-O e5 11. e4 O-O 12. Bg5 Be7 13. Be3 Bf6 14. Qc2 Qe7 15.
+a4 Rfe8 16. Nd2 Bg5 17. f4 exf4 18. Bxf4 c5 19. Qb3 Rf8 20. Bc4 cxd4 21. cxd4
+Kh8 22. e5 Rad8 23. Bxg5 Qxg5 24. Nf3 Qf4 25. Rad1 Qg4 26. Bxf7 Rxf7 27. Qxf7
+Rf8 28. Qb3 h6 29. Qe3 Bd5 30. Rd2 Re8 31. Rdf2 Nf8 32. Ng5 Kg8 33. Nf7 Ne6 34.
+Qxh6 gxh6 35. Nxh6+ Kh7 36. Nxg4 1-0

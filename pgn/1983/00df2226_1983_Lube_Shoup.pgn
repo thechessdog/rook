@@ -1,0 +1,20 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Lube, M."]
+[Black "Shoup, N."]
+[Result "0-1"]
+[ECO "C89"]
+[Opening "Ruy Lopez"]
+[Variation "Marshall counter-attack, 11...c6"]
+[HashCode "00df2226"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8.
+c3 d5 9. exd5 Nxd5 10. Nxe5 Nxe5 11. Rxe5 c6 12. g3 Bd6 13. Re1 Re8 14. d4
+Bg4 15. Rxe8+ Qxe8 16. f3 Bh3 17. Bxd5 cxd5 18. Kf2 Ra7 19. Bd2 Re7 20. a4
+Bf5 21. axb5 axb5 22. Qf1 h6 23. Na3 Bh3 24. Qxb5 Bd7 25. Qd3 Bxa3 26. bxa3
+Bb5 27. c4 Bxc4 28. Qc3 Re2+ 29. Kg1 Qe6 30. Re1 Rxe1+ 31. Bxe1 Qh3 32. Kf2
+Qf1+ 33. Ke3 Qe2+ 34. Kf4 g5+ 35. Kg4 Qe6+ 36. Kh5 Qh3# 0-1
+

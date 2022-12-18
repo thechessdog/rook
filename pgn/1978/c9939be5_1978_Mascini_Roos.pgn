@@ -1,0 +1,18 @@
+[Event "corr NLD/H"]
+[Site "corr NLD/H"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Mascini"]
+[Black "Roos"]
+[Result "1/2-1/2"]
+[ECO "C91"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Bogolyubov variation"]
+[HashCode "c9939be5"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8.
+c3 O-O 9. d4 Bg4 10. Be3 Qd7 11. Nbd2 Rad8 12. a4 d5 13. axb5 axb5 14. exd5
+Nxd5 15. dxe5 Nxe3 16. Rxe3 Bg5 17. Re2 Bxd2 18. Rxd2 Qxd2 19. Qxd2 Rxd2
+20. Nxd2 Nxe5 1/2-1/2
+

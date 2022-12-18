@@ -1,0 +1,20 @@
+[Event "corr ch11-DDR"]
+[Site "corr ch11-DDR"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Poetzschmann, R."]
+[Black "Rosenhahn, E."]
+[Result "0-1"]
+[ECO "C56"]
+[Opening "two knights defence"]
+[Variation "Canal variation"]
+[HashCode "3c20f89e"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Bc4 Nf6 3. Nf3 Nc6 4. d4 exd4 5. O-O Nxe4 6. Re1 d5 7. Nc3 Be6
+8. Nxe4 dxc4 9. Neg5 Be7 10. Nxe6 fxe6 11. Rxe6 O-O 12. Qe2 Qd5 13. Bd2 Bf6
+14. Re1 d3 15. Qe4 Qxe4 16. R6xe4 dxc2 17. Rxc4 Bxb2 18. Rxc2 Ba3 19. Rb1
+Rab8 20. Ng5 Rfe8 21. Bf4 Nd4 22. Rc4 Ne2+ 23. Kf1 Nxf4 24. Rxf4 b5 25. Ne4
+a5 26. Rb3 Be7 27. Rg4 b4 28. Rbg3 g6 29. h4 Rb5 30. Rh3 a4 31. h5 g5 32.
+Re3 Rd8 33. Rgg3 Rd1+ 34. Re1 Rxe1+ 35. Kxe1 b3 0-1
+

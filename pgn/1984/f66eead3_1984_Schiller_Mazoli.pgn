@@ -1,0 +1,20 @@
+[Event "New York op"]
+[Site "New York op"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Schiller, Eric"]
+[Black "Mazoli"]
+[Result "1-0"]
+[ECO "A68"]
+[Opening "Benoni"]
+[Variation "four pawns attack"]
+[HashCode "f66eead3"]
+[Epoch "Rook"]
+[WhiteID "2002973"]
+[WhiteCountry "USA"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 c5 4. d5 exd5 5. cxd5 d6 6. e4 g6 7. f4 Bg7 8. Nf3
+O-O 9. Be2 b5 10. e5 dxe5 11. fxe5 Nfd7 12. Bg5 Qb6 13. Be7 Re8 14. d6 Bb7 15.
+O-O Nxe5 16. Nxe5 Bxe5 17. Bxb5 Bxc3 18. Bxe8 Bd4+ 19. Kh1 Bd5 20. Bxf7+ Bxf7
+21. Rxf7 Kxf7 22. Qf3+ Ke8 23. Qxa8 Qxb2 24. Rf1 c4 25. Qe4 Kd7 26. Qg4+ Kc6
+27. d7 Nxd7 28. Qe6+ Kc7 29. Qd6+ 1-0

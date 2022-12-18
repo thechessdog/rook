@@ -1,0 +1,18 @@
+[Event "corr EU"]
+[Site "corr EU"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Pagani"]
+[Black "Van der Kooij"]
+[Result "1/2-1/2"]
+[ECO "E30"]
+[Opening "Nimzo-Indian"]
+[Variation "Leningrad variation"]
+[HashCode "f03d491f"]
+[Epoch "Rook"]
+[BlackID "1011812"]
+[BlackCountry "NED"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Bg5 h6 5. Bh4 c5 6. d5 g5 7. Bg3 Ne4 8. Qc2
+Bxc3+ 9. bxc3 Nxg3 10. hxg3 d6 11. e4 Qf6 12. a4 Nd7 13. Nf3 Ne5 14. Nxe5 Qxe5
+15. Bd3 f5 16. O-O-O f4 17. Rhf1 Bd7 18. gxf4 Qxf4+ 19. Kb1 e5 1/2-1/2

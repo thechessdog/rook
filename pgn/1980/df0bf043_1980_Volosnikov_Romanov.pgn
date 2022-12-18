@@ -1,0 +1,16 @@
+[Event "Ishevsk"]
+[Site "Ishevsk"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Volosnikov"]
+[Black "Romanov"]
+[Result "0-1"]
+[ECO "C69"]
+[Opening "Ruy Lopez"]
+[Variation "exchange variation, Alapin gambit"]
+[HashCode "df0bf043"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O Bg4 6. h3 h5 7. c3 Qd3 8.
+hxg4 hxg4 9. Nxe5 Bd6 10. Nxg4 O-O-O 11. Qf3 Rh1+ 12. Kxh1 Qxf1# 0-1
+

@@ -1,0 +1,21 @@
+[Event "corr ch-SU"]
+[Site "corr ch-SU"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Bragin"]
+[Black "Filtser"]
+[Result "0-1"]
+[ECO "C05"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation"]
+[HashCode "27b4e85e"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. f4 c5 6. c3 Nc6 7. Ndf3 Qa5 8.
+Kf2 b5 9. Bd3 b4 10. Ne2 Nb6 11. Kg3 bxc3 12. bxc3 g6 13. a4 Ba6 14. dxc5
+Bxc5 15. Bxa6 Qxa6 16. Ba3 Bxa3 17. Rxa3 Na5 18. Ned4 Nbc4 19. Ra2 Rb8 20.
+Qd3 Rb6 21. Rb1 O-O 22. Rb5 Nb7 23. Qb1 Nc5 24. Qb4 Ne4+ 25. Kh3 Rfb8 26.
+Re2 Rxb5 27. axb5 Qa3 28. Qxa3 Nxa3 29. Ra2 Nxb5 30. Nxb5 Rxb5 31. Rxa7 Rc5
+32. g3 Rxc3 33. Nd4 Rc4 34. Nb5 Rc8 35. g4 h6 36. Rd7 Rb8 37. Nd6 Nxd6 38.
+Rxd6 Rb3+ 39. Kg2 Re3 40. h4 g5 0-1
+

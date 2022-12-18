@@ -1,0 +1,16 @@
+[Event "Varna"]
+[Site "Varna"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Kenev"]
+[Black "Todorov"]
+[Result "0-1"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Grand Prix attack"]
+[HashCode "cefd720f"]
+[Epoch "Rook"]
+
+1. e4 c5 2. f4 a6 3. c4 b6 4. Nc3 Bb7 5. Nf3 e6 6. Bd3 Nc6 7. O-O Nf6 8. e5
+Ng4 9. Ng5 Ncxe5 10. Nxf7 Qh4 11. h3 Qg3 0-1
+

@@ -1,0 +1,18 @@
+[Event "Stony Point,NC"]
+[Site "Stony Point,NC"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Wall, Jerry"]
+[Black "Wall, Bill"]
+[Result "0-1"]
+[ECO "C89"]
+[Opening "Ruy Lopez"]
+[Variation "Marshall, Herman Steiner variation"]
+[HashCode "a7ea077c"]
+[Epoch "Rook"]
+[BlackCountry "USA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. c3
+d5 9. exd5 e4 10. dxc6 exf3 11. Qxf3 Bg4 12. Qg3 Bd6 13. f4 Qb8 14. d4 Qb6 15.
+h3 Bh5 16. Bc2 Qxc6 17. Nd2 Rae8 18. Rxe8 Rxe8 19. Qg5 Re1+ 20. Kh2 h6 21. Qg3
+Re2 22. Bd1 Bxf4 0-1

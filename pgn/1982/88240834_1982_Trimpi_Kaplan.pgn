@@ -1,0 +1,17 @@
+[Event "Pennsylvania"]
+[Site "Pennsylvania"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Trimpi"]
+[Black "Kaplan, Julio"]
+[Result "0-1"]
+[ECO "C37"]
+[Opening "KGA"]
+[Variation "Quaade gambit"]
+[HashCode "88240834"]
+[Epoch "Rook"]
+[BlackID "2000326"]
+[BlackCountry "USA"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. Nc3 g4 5. Nd4 Qh4+ 6. Ke2 Bc5 7. Nf5 Qf2+ 8.
+Kd3 Nc6 9. Qe2 Ne5# 0-1

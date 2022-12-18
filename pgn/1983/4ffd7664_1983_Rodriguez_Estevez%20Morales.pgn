@@ -1,0 +1,22 @@
+[Event "Manzanillo"]
+[Site "Manzanillo"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Rodriguez, Ad"]
+[Black "Estevez Morales, Guillermo"]
+[Result "1-0"]
+[ECO "A79"]
+[Opening "Benoni"]
+[Variation "classical, 11.f3"]
+[HashCode "4ffd7664"]
+[Epoch "Rook"]
+[BlackCountry "CUB"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 exd5 5. cxd5 g6 6. Nc3 Bg7 7. e4 O-O 8. Be2
+d6 9. Nd2 Re8 10. O-O Na6 11. f3 Nc7 12. a4 b6 13. Nc4 Ba6 14. Bg5 h6 15. Bh4
+Qd7 16. Rb1 Rab8 17. Qd2 Bxc4 18. Bxc4 a6 19. b4 b5 20. axb5 Nxb5 21. Bxb5 axb5
+22. Bf2 Rec8 23. Rb3 Nh5 24. Rfb1 c4 25. Ra3 Ra8 26. Rba1 Rxa3 27. Rxa3 Qe8 28.
+Bd4 Bxd4+ 29. Qxd4 Nf4 30. Ra5 Ra8 31. g3 Nd3 32. Rxb5 Ra1+ 33. Kg2 Rc1 34. Ra5
+Rc2+ 35. Kg1 Qe5 36. Nb5 Ne1 37. Ra3 Qxd4+ 38. Nxd4 Rc1 39. Kf2 Nd3+ 40. Ke2
+Nxb4 41. Kd2 Rh1 42. Kc3 Nd3 43. Nb5 Rxh2 44. Nxd6 Rf2 45. f4 Rf3 46. Ra8+ Kg7
+47. Kxc4 Rxg3 48. e5 Nxf4 49. Ne8+ 1-0

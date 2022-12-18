@@ -1,0 +1,19 @@
+[Event "Lubniewice ch-POL"]
+[Site "Lubniewice ch-POL"]
+[Date "1981.01.01"]
+[Round "6"]
+[White "Panczyk, Krzysztof"]
+[Black "Nowak, Ignacy"]
+[Result "1/2-1/2"]
+[ECO "E53"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line with ...c5"]
+[HashCode "3fb672da"]
+[Epoch "Rook"]
+[WhiteID "1100211"]
+[BlackID "1100157"]
+[WhiteCountry "POL"]
+[BlackCountry "POL"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 d5 6. Nf3 O-O 7. O-O cxd4 8. exd4
+dxc4 9. Bxc4 b6 10. Bg5 Bb7 11. Re1 Nbd7 12. Rc1 Rc8 1/2-1/2

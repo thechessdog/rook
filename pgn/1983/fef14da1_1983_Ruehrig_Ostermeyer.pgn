@@ -1,0 +1,25 @@
+[Event "Bundesliga 8283"]
+[Site "Duitsland tt"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Ruehrig, Volkhard"]
+[Black "Ostermeyer, Peter, Dr."]
+[Result "0-1"]
+[ECO "B93"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.f4"]
+[HashCode "fef14da1"]
+[Epoch "Rook"]
+[BlackID "4600355"]
+[BlackCountry "GER"]
+[WhiteCountry "DEU"]
+
+1. e4 c5 2. Nf3 d6 3. d4 Nf6 4. Nc3 cxd4 5. Nxd4 a6 6. f4 e5 7. Nf3 Qc7 8. Bd3
+Be7 9. O-O b5 10. Qe1 O-O 11. a4 bxa4 12. Nxa4 Nbd7 13. c4 exf4 14. Bxf4 Ne5
+15. Nxe5 dxe5 16. Bd2 Rb8 17. Ba5 Qd7 18. Qe3 Ng4 19. Qe2 Bb4 20. Nc3 Bc5+ 21.
+Kh1 Nf2+ 22. Rxf2 Bxf2 23. Nd5 Bd4 24. Rb1 Rb3 25. Qc2 Qb7 26. c5 Rxb2 27. Rxb2
+Qxb2 28. Qxb2 Bxb2 29. c6 Ba3 30. Nb6 Rd8 31. Nxc8 Rxd3 32. Kg1 Rd1+ 33. Kf2
+Rc1 34. c7 Kf8 35. Ke2 Ke8 36. Kd2 Kd7 37. Nb6+ Kxc7 38. Nc4+ Kc6 39. Nxa3 Rg1
+40. g3 Rg2+ 41. Kd3 Rxh2 42. Nc4 f6 43. Ne3 h5 44. Nf5 Rg2 45. Be1 a5 46. Kc4
+a4 47. Bb4 g6 48. Ne7+ Kd7 49. Nxg6 Rxg3 50. Nf8+ Kc6 51. Nh7 a3 52. Bc3 a2 53.
+Bb2 Rf3 54. Nxf6 Rxf6 0-1

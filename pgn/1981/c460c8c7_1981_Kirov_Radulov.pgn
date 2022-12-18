@@ -1,0 +1,18 @@
+[Event "Pamporovo"]
+[Site "Pamporovo"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Kirov, Nino"]
+[Black "Radulov, Ivan"]
+[Result "1/2-1/2"]
+[ECO "D94"]
+[Opening "Gruenfeld"]
+[Variation "5.e3"]
+[HashCode "c460c8c7"]
+[Epoch "Rook"]
+[WhiteCountry "BGR"]
+[BlackID "2900300"]
+[BlackCountry "FID"]
+
+1. Nf3 d5 2. d4 Nf6 3. c4 g6 4. e3 Bg7 5. Nc3 O-O 6. Be2 c5 7. O-O Nc6 8. cxd5
+cxd4 9. exd4 Nb8 10. h3 h6 11. Be3 Bf5 1/2-1/2

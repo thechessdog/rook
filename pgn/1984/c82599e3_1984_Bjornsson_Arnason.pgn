@@ -1,0 +1,21 @@
+[Event "Reykjavik op"]
+[Site "Reykjavik"]
+[Date "1984.01.01"]
+[Round "5"]
+[White "Bjornsson, Tomas"]
+[Black "Arnason, J."]
+[Result "0-1"]
+[ECO "C57"]
+[Opening "two knights defence"]
+[Variation "Ulvestad variation"]
+[HashCode "c82599e3"]
+[Epoch "Rook"]
+[BlackCountry "ISL"]
+[WhiteID "2300303"]
+[WhiteCountry "ISL"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 b5 6. Bxb5 Qxd5 7. Nc3 Qxg2 8.
+Qf3 Qxf3 9. Nxf3 Bd7 10. Rg1 e4 11. Ng5 Ne5 12. Bxd7+ Kxd7 13. Rg3 Re8 14. Kf1
+Nc6 15. d3 Bd6 16. Rh3 exd3 17. Nxf7 Rhf8 18. Nxd6 cxd6 19. cxd3 Ng4 20. Nd1
+Nd4 21. Rxh7 Rf7 22. Bg5 Nf3 23. Bh4 Re1+ 24. Kg2 Rg1+ 25. Kh3 Nxh4 26. Kxh4
+Ne5 0-1

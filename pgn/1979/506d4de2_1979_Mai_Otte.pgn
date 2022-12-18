@@ -1,0 +1,17 @@
+[Event "corr DDR-M"]
+[Site "corr DDR-M"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Mai, W."]
+[Black "Otte, H."]
+[Result "1-0"]
+[ECO "A02"]
+[Opening "Bird"]
+[Variation "From gambit"]
+[HashCode "506d4de2"]
+[Epoch "Rook"]
+
+1. f4 e5 2. fxe5 d6 3. exd6 Bxd6 4. Nf3 Nf6 5. d4 Ng4 6. Qd3 c5 7. Bg5 Qa5+
+8. Bd2 Qb6 9. Qe4+ Be6 10. Nc3 cxd4 11. Nxd4 Bxh2 12. Rxh2 Nxh2 13. Na4 Qc7
+14. Bf4 Qa5+ 15. Nc3 Qh5 16. Nxe6 1-0
+

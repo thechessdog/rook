@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Teichgraber, G."]
+[Black "Van der Wees, A."]
+[Result "0-1"]
+[ECO "E42"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5, 5.Ne2 (Rubinstein)"]
+[HashCode "74213212"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Ne2 cxd4 6. exd4 d5 7. a3 Be7 8.
+c5 b6 9. b4 O-O 10. Bf4 a5 11. Nb5 axb4 12. axb4 Rxa1 13. Qxa1 Nc6 14. Qa3
+bxc5 15. bxc5 e5 16. dxe5 Nd7 17. Nd6 Ndxe5 18. Nc3 Bxd6 19. cxd6 Re8 20.
+Kd2 Qb6 0-1
+

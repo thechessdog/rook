@@ -1,0 +1,27 @@
+[Event "CSR-ch"]
+[Site "Ostrava"]
+[Date "1976.??.??"]
+[Round "2"]
+[White "Lechtynsky, Jiri"]
+[Black "Privara, Igor"]
+[Result "1-0"]
+[ECO "B31"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (with ...g6, without ...d6)"]
+[HashCode "a51ebd06"]
+[Epoch "Rook"]
+[WhiteID "300217"]
+[BlackID "14901340"]
+[WhiteCountry "CZE"]
+[BlackCountry "SVK"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. c3 Nf6 6. e5 Nd5 7. Qe2 Nc7 8. Bxc6
+dxc6 9. h3 Bf5 10. d4 cxd4 11. cxd4 Bxb1 12. Rxb1 Qd5 13. b3 O-O 14. Rd1 Rad8
+15. Be3 Rd7 16. Rbc1 Rfd8 17. Rd2 Ne6 18. Rdc2 f6 19. Rc4 Nc7 20. Qc2 Qe6 21.
+Qe4 Nd5 22. Bd2 Nb6 23. R4c2 fxe5 24. dxe5 Rd5 25. Qh4 Qf5 26. Qxe7 R5d7 27.
+Qh4 Bxe5 28. Nxe5 Rxd2 29. Rxd2 Rxd2 30. Ng4 g5 31. Nh6+ Kh8 32. Nxf5 gxh4 33.
+Re1 Kg8 34. Re7 Rd7 35. Re2 Nd5 36. Nxh4 Nc3 37. Rc2 Rd1+ 38. Kh2 Ne4 39. Nf5
+Rd2 40. Rxd2 Nxd2 41. Nd6 b5 42. Kg3 a5 43. Kf4 a4 44. bxa4 bxa4 45. Ke3 Nb3
+46. Ne4 a3 47. Nc3 Nc5 48. f4 Kf7 49. g4 Ke6 50. Kd4 Na6 51. f5+ Kf6 52. Ne4+
+Kf7 53. Kc4 Nc7 54. Ng5+ Kg8 55. Ne6 Nd5 56. Kb3 Ne3 57. Nf4 Kf7 58. Kxa3 Kf6
+59. Kb4 Ke5 60. Kc5 1-0

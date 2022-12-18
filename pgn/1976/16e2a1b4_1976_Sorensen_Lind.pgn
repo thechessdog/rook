@@ -1,0 +1,18 @@
+[Event "Aarhus"]
+[Site "Aarhus"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Sorensen, Per"]
+[Black "Lind, Allan"]
+[Result "0-1"]
+[ECO "B93"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.f4"]
+[HashCode "16e2a1b4"]
+[Epoch "Rook"]
+[WhiteID "1455486"]
+[WhiteCountry "DEN"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 e6 7. Qf3 Qc7 8. Be3
+b5 9. a3 Bb7 10. O-O-O Nc6 11. g4 b4 12. Nb1 Rc8 13. Bd3 Nxd4 14. Bxd4 Nxe4 15.
+Bxe4 f5 16. gxf5 exf5 17. Qh5+ g6 18. Bc6+ Bxc6 19. Qe2+ Be4 20. Rhe1 Qxc2+ 0-1

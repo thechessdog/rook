@@ -1,0 +1,19 @@
+[Event "corr ch-CSSR"]
+[Site "corr ch-CSSR"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Filipek"]
+[Black "Juricek, S."]
+[Result "1-0"]
+[ECO "E04"]
+[Opening "Catalan"]
+[Variation "open, 5.Nf3"]
+[HashCode "185a40f8"]
+[Epoch "Rook"]
+
+1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. g3 dxc4 5. Bg2 Nc6 6. Qa4 Bb4+ 7. Bd2 Nd5
+8. Bxb4 Nxb4 9. a3 b5 10. Qxb5 Nc2+ 11. Kf1 Bd7 12. Ra2 Qf6 13. Qc5 Rb8 14.
+e3 Qg6 15. Nbd2 Qd3+ 16. Kg1 Ne1 17. Qxc4 Nxf3+ 18. Bxf3 Qxd2 19. b4 Na5
+20. Qxc7 Qxa2 21. Qxb8+ Ke7 22. Qxh8 Nc4 23. Qxg7 Nd2 24. Bb7 Qc4 25. Qg5+
+Ke8 26. Kg2 Qc7 27. Ba8 1-0
+

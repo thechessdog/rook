@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Savo, Juan"]
+[Black "Aguilar, Pedro"]
+[Result "1-0"]
+[ECO "B96"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Polugayevsky, Simagin variation"]
+[HashCode "a97019db"]
+[Epoch "Rook"]
+[BlackID "3300650"]
+[BlackCountry "BOL"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 b5 8. e5
+dxe5 9. fxe5 Qc7 10. Qe2 Nfd7 11. O-O-O Bb7 12. Qg4 Qb6 13. Be2 Nc6 14. Nxe6
+Ncxe5 15. Nxf8 Nxf8 16. Qb4 Nfg6 17. Rhe1 f6 18. Bh5 Kf7 19. Rxe5 Rhd8 20. Qb3+
+Kf8 21. Be3 Rxd1+ 22. Nxd1 1-0

@@ -1,0 +1,20 @@
+[Event "DSV-Turnier"]
+[Site "Halle"]
+[Date "1981.01.01"]
+[Round "2"]
+[White "Chekhov, Valery A"]
+[Black "Espig, Lutz"]
+[Result "1/2-1/2"]
+[ECO "A55"]
+[Opening "Old Indian"]
+[Variation "main line"]
+[HashCode "b541f31c"]
+[Epoch "Rook"]
+[WhiteID "4100859"]
+[WhiteCountry "RUS"]
+[BlackID "4611276"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 d6 3. Nf3 Nbd7 4. Nc3 e5 5. e4 Be7 6. Be2 O-O 7. O-O c6 8. Qc2
+a6 9. b4 Re8 10. Bb2 Bf8 11. Rad1 Qc7 12. Rfe1 b5 13. dxe5 Nxe5 14. Nxe5 dxe5
+15. a3 Be6 16. Nb1 bxc4 17. Bxc4 1/2-1/2

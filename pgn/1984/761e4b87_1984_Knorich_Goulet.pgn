@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Knorich"]
+[Black "Goulet"]
+[Result "1-0"]
+[ECO "D00"]
+[Opening "Blackmar gambit"]
+[HashCode "761e4b87"]
+[Epoch "Rook"]
+
+1. d4 d5 2. e4 dxe4 3. Nc3 e5 4. Qh5 Nf6 5. Qxe5+ Qe7 6. Bf4 c6 7. Bc4 Qxe5
+8. dxe5 Nh5 9. Be3 Bb4 10. Be2 g6 11. Bh6 Rg8 12. g4 Ng7 13. Nh3 Ne6 14.
+Ng5 Nxg5 15. Bxg5 Be6 16. O-O-O Nd7 17. Nxe4 Bd5 18. Rd4 Be7 19. Bxe7 Kxe7
+20. f4 Nc5 21. Rxd5 Nxe4 22. Rd4 Nc5 23. Rhd1 Rad8 24. Rxd8 Rxd8 25. Rxd8
+Kxd8 26. Kd2 Ne6 27. Ke3 Ke7 28. f5 Nc7 29. f6+ Ke6 30. Ke4 Nd5 31. g5 b5
+32. Bg4# 1-0
+

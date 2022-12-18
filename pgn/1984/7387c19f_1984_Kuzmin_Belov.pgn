@@ -1,0 +1,26 @@
+[Event "Moscow"]
+[Site "Moscow"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Kuzmin, Alexey"]
+[Black "Belov, Igor"]
+[Result "1-0"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical system, 5.Be2"]
+[HashCode "7387c19f"]
+[Epoch "Rook"]
+[WhiteID "4100794"]
+[WhiteCountry "RUS"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. Be2 Nf6 5. Nf3 O-O 6. O-O c5 7. d5 Na6 8. Bf4
+Nc7 9. a4 Bg4 10. h3 Bxf3 11. Bxf3 Nd7 12. Re1 a6 13. Be2 b6 14. Qd2 Re8 15.
+Bf1 Rb8 16. Rab1 Qc8 17. b4 Ne5 18. bxc5 bxc5 19. Rxb8 Qxb8 20. Rb1 Qa7 21. Nd1
+Rb8 22. Rb3 Rxb3 23. cxb3 Qb6 24. Qc2 h5 25. Nb2 Qb7 26. Nc4 Nxc4 27. Bxc4 Qb4
+28. Bd2 Qb6 29. Qd1 Bd4 30. h4 Ne8 31. Kf1 Nf6 32. f3 Nd7 33. f4 Nf6 34. Qe2
+Ng4 35. g3 Qb7 36. Kg2 Kh7 37. Qf3 Qc8 38. Qe2 Nf2 39. f5 Qb7 40. Qf3 Kg8 41.
+e5 Ng4 42. fxg6 fxg6 43. e6 Bf6 44. Qe4 Kh7 45. Bd3 Ne5 46. Bc2 Qa8 47. Bf4 Qe8
+48. Qe2 Ng4 49. Qxa6 Be5 50. Bg5 Qf8 51. Qf1 Bf6 52. Bd2 Qg7 53. Qf3 Bd4 54.
+Qf7 Ne5 55. Qxg7+ Kxg7 56. Bg5 Ng4 57. Be4 Nf6 58. Bf3 Bc3 59. Kf2 Ba5 60. Ke2
+Kf8 61. Kd3 Be1 62. Kc4 Ke8 63. Kb5 Kd8 64. Bxf6 exf6 65. a5 c4 66. bxc4 Bxg3
+67. a6 Bf2 68. Kc6 Bxh4 1-0

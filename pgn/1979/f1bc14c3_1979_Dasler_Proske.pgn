@@ -1,0 +1,20 @@
+[Event "corr DDR-H"]
+[Site "corr DDR-H"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Dasler, H."]
+[Black "Proske, J."]
+[Result "0-1"]
+[ECO "B33"]
+[Opening "Sicilian"]
+[Variation "Pelikan, Chelyabinsk variation"]
+[HashCode "f1bc14c3"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6
+8. Na3 b5 9. Nd5 Be7 10. Bxf6 Bxf6 11. c4 b4 12. Nc2 a5 13. Qf3 Bg5 14. Rd1
+O-O 15. Be2 Be6 16. O-O Rc8 17. b3 f5 18. exf5 Bxf5 19. Nde3 Be6 20. Qe4
+Ne7 21. Qd3 Rc6 22. Bf3 Rxf3 23. gxf3 Qe8 24. Ne1 Qh5 25. N3g2 Nf5 26. Qe4
+Rc8 27. Rd3 Qh6 28. Ne3 Bf4 29. Ng4 Qh3 30. Ng2 g5 31. Rdd1 Nh4 32. Nxh4
+Bxg4 0-1
+

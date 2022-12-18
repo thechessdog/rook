@@ -1,0 +1,17 @@
+[Event "BL2-N 8081"]
+[Site "BL2-N 8081"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Liersch, A."]
+[Black "Stein, Bernd"]
+[Result "1-0"]
+[ECO "A04"]
+[Opening "Reti opening"]
+[HashCode "58a6c900"]
+[Epoch "Rook"]
+[BlackID "4600711"]
+[BlackCountry "GER"]
+
+1. Nf3 c5 2. c3 Nf6 3. d4 e6 4. Nbd2 cxd4 5. cxd4 d5 6. e3 Bd6 7. Bd3 O-O 8.
+Ne5 Nfd7 9. f4 Qh4+ 10. g3 Qh3 11. Nef3 f6 12. Nh4 f5 13. Bf1 Qg4 14. Be2 Qh3
+15. Ndf3 1-0

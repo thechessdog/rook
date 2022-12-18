@@ -1,0 +1,19 @@
+[Event "Casilda"]
+[Site "Casilda"]
+[Date "1984.01.01"]
+[Round "5"]
+[White "Garbarino, Rodolfo"]
+[Black "Dienavorian, Manuel"]
+[Result "1-0"]
+[ECO "C00"]
+[Opening "French"]
+[Variation "Reti (Spielmann) variation"]
+[HashCode "41aa7f68"]
+[Epoch "Rook"]
+[WhiteID "100412"]
+[WhiteCountry "ARG"]
+[BlackCountry "URY"]
+
+1. e4 e6 2. b3 d5 3. Bb2 dxe4 4. Nc3 Nf6 5. Qe2 Nc6 6. O-O-O Nd4 7. Qe1 Be7 8.
+d3 c5 9. dxe4 Qc7 10. e5 Nd7 11. f4 b6 12. Nge2 Nxe2+ 13. Bxe2 a6 14. Ne4 Bb7
+15. Nd6+ Bxd6 16. exd6 Qd8 17. Qg3 Rg8 18. Bd3 g6 19. f5 1-0

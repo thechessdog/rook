@@ -1,0 +1,21 @@
+[Event "corr DFSM"]
+[Site "corr DFSM"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Loh"]
+[Black "Maeder"]
+[Result "0-1"]
+[ECO "B92"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Opovcensky variation"]
+[HashCode "46aea5a9"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8.
+O-O Be6 9. a4 Nbd7 10. f4 Rc8 11. Kh1 O-O 12. f5 Bc4 13. Be3 Nb6 14. Nd2
+Bxe2 15. Qxe2 d5 16. a5 d4 17. axb6 dxc3 18. bxc3 Qd7 19. g4 Qc6 20. Qf3 h6
+21. g5 hxg5 22. Bxg5 Rfd8 23. Rae1 Rd7 24. Qg2 Qxc3 25. Bh6 Bf8 26. Rf2 Rc6
+27. Rg1 Ng4 28. Qxg4 Rxh6 29. Qg5 Rh7 30. f6 g6 31. Nb3 Rd6 32. Qf5 Bg7 33.
+Rf3 Qxc2 34. Qxe5 Bf8 35. h3 Rh4 36. Nc5 Rd1 37. Nxb7 Rxg1+ 38. Kxg1 Qb1+
+39. Kg2 Rxe4 0-1
+

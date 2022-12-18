@@ -1,0 +1,23 @@
+[Event "Reykjavik op"]
+[Site "Reykjavik"]
+[Date "1984.01.01"]
+[Round "11"]
+[White "Johannesson, Larus"]
+[Black "Halldorsson, Bragi"]
+[Result "1-0"]
+[ECO "B19"]
+[Opening "Caro-Kann"]
+[Variation "classical, Spassky variation"]
+[HashCode "2119bd31"]
+[Epoch "Rook"]
+[BlackID "2300907"]
+[BlackCountry "ISL"]
+[WhiteID "2300311"]
+[WhiteCountry "ISL"]
+
+1. e4 c6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6 7. Nf3 Nd7 8. h5
+Bh7 9. Bd3 Bxd3 10. Qxd3 Ngf6 11. Bf4 e6 12. O-O-O Be7 13. Rhe1 a5 14. Kb1 a4
+15. Ne5 a3 16. b3 O-O 17. Nxd7 Nxd7 18. Ne4 b5 19. g4 Nb6 20. Qg3 Nd5 21. Bc1
+b4 22. Rg1 Ra5 23. f4 c5 24. g5 hxg5 25. fxg5 cxd4 26. Nf6+ Bxf6 27. gxf6 Qxf6
+28. Rdf1 Nc3+ 29. Ka1 Rf5 30. Rxf5 exf5 31. Bg5 f4 32. Qh4 Qf5 33. Bf6 Re8 34.
+Bxg7 Ne2 35. Rg5 Ng3 36. Be5+ 1-0

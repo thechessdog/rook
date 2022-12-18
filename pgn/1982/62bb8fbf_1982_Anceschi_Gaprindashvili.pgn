@@ -1,0 +1,23 @@
+[Event "Reggio Emilia"]
+[Site "Reggio Emilia"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Anceschi, Vittorio"]
+[Black "Gaprindashvili, Nona"]
+[Result "0-1"]
+[ECO "B96"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7.f4"]
+[HashCode "62bb8fbf"]
+[Epoch "Rook"]
+[WhiteID "800708"]
+[WhiteCountry "ITA"]
+[BlackID "13600125"]
+[BlackCountry "GEO"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qc7 8. Qf3
+b5 9. Bd3 Bb7 10. a3 Nbd7 11. Bxf6 gxf6 12. g4 h5 13. O-O-O hxg4 14. Qxg4 O-O-O
+15. f5 Ne5 16. Qe2 Qc6 17. Nb3 Rh3 18. Rhf1 Bh6+ 19. Kb1 Bg5 20. a4 Rdh8 21.
+axb5 axb5 22. Bxb5 Rxh2 23. Na4 Qc7 24. Rf2 Rxf2 25. Qxf2 Bxe4 26. fxe6 fxe6
+27. Ba6+ Kb8 28. Rd4 Qxc2+ 29. Qxc2 Rh1+ 30. Ka2 Bxc2 31. Rxd6 Kc7 32. Rxe6 Rh4
+33. Nc3 Nd7 34. Nd5+ Kd8 35. Nc5 Nxc5 0-1

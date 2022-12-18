@@ -1,0 +1,18 @@
+[Event "Moscow-4teams"]
+[Site "Moscow tt"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Razuvaev, Yuri S"]
+[Black "Bagirov, Vladimir"]
+[Result "1/2-1/2"]
+[ECO "D22"]
+[Opening "QGA"]
+[Variation "Alekhine defence"]
+[HashCode "791d933c"]
+[Epoch "Rook"]
+[WhiteCountry "RUS"]
+[BlackCountry "RUS"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 a6 4. e3 Bg4 5. Bxc4 e6 6. Nc3 Nf6 7. O-O c5 8. dxc5
+Qxd1 9. Rxd1 Bxc5 10. b3 Nc6 11. Bb2 O-O 12. Be2 Rfd8 13. Kf1 Kf8 14. Na4 Be7
+15. Nd4 Bxe2+ 16. Kxe2 Nxd4+ 17. Bxd4 1/2-1/2

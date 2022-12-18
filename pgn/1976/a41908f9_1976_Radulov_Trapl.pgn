@@ -1,0 +1,19 @@
+[Event "Decin"]
+[Site "Decin"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Radulov, Ivan"]
+[Black "Trapl, Jindrich"]
+[Result "0-1"]
+[ECO "C45"]
+[Opening "Scotch"]
+[Variation "Horwitz attack"]
+[HashCode "a41908f9"]
+[Epoch "Rook"]
+[WhiteID "2900300"]
+[WhiteCountry "FID"]
+[BlackCountry "CZE"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Qh4 5. Nb5 Bb4+ 6. c3 Ba5 7. Nd2 a6 8.
+Na3 Bb6 9. g3 Qe7 10. Bg2 Nf6 11. O-O O-O 12. Ndc4 Ba7 13. Be3 Bb8 14. Re1 d6
+15. Qc2 Ng4 16. Bf4 Ba7 17. Re2 Be6 18. Rae1 Nce5 19. Na5 Nxf2 20. Rxf2 Ng4 0-1

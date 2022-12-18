@@ -1,0 +1,18 @@
+[Event "Riga"]
+[Site "Riga"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Ermenkov, Evgenij"]
+[Black "Vogt, Lothar"]
+[Result "1/2-1/2"]
+[ECO "E60"]
+[Opening "King's Indian, 3.Nf3"]
+[HashCode "8fbec0db"]
+[Epoch "Rook"]
+[WhiteID "2900106"]
+[BlackID "4611292"]
+[WhiteCountry "FID"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. Nc3 O-O 5. Bf4 d6 6. h3 c6 7. e3 a6 8. Be2 b5
+9. a3 Nbd7 10. O-O Bb7 11. Bh2 bxc4 12. Bxc4 c5 13. Rc1 1/2-1/2

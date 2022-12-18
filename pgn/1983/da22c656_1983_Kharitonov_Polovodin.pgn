@@ -1,0 +1,18 @@
+[Event "Tallinn"]
+[Site "Tallinn"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Kharitonov, A."]
+[Black "Polovodin, Igor A"]
+[Result "1/2-1/2"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "classical variation (5.Bf4)"]
+[HashCode "da22c656"]
+[Epoch "Rook"]
+[WhiteCountry "RUS"]
+[BlackCountry "RUS"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Nf3 Be7 5. Bf4 O-O 6. e3 c5 7. dxc5 Bxc5 8. Qc2
+Nc6 9. Rd1 Qa5 10. a3 Be7 11. Nd2 e5 12. Bg5 d4 13. Nb3 Qd8 14. Be2 a5 15. Na4
+h6 16. Bh4 Bd7 17. Nbc5 Bc8 18. Nb3 Bd7 19. Nbc5 1/2-1/2

@@ -1,0 +1,19 @@
+[Event "corr RUM-DEN"]
+[Site "corr RUM-DEN"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Ilie"]
+[Black "Boldt"]
+[Result "1-0"]
+[ECO "C08"]
+[Opening "French"]
+[Variation "Tarrasch, open, 4.ed ed"]
+[HashCode "ab607261"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. exd5 exd5 5. Bb5+ Nc6 6. Qe2+ Be7 7. dxc5
+Nf6 8. Nb3 O-O 9. Bg5 Ne4 10. Bxe7 Qxe7 11. Nf3 Be6 12. Bxc6 bxc6 13. Qe3
+a5 14. a4 f5 15. O-O f4 16. Qd4 Rf6 17. Rfe1 Rh6 18. c4 Ng5 19. Nbd2 Nxf3+
+20. Nxf3 Qc7 21. Re5 dxc4 22. Rae1 Rd8 23. Qe4 Bf7 24. Re7 Qb8 25. Ng5 Bh5
+26. Ne6 1-0
+

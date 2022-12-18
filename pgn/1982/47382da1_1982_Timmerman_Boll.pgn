@@ -1,0 +1,18 @@
+[Event "Eindhoven"]
+[Site "Eindhoven"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Timmerman, G."]
+[Black "Boll, P."]
+[Result "1-0"]
+[ECO "B87"]
+[Opening "Sicilian"]
+[Variation "Sozin with ...a6 and ...b5"]
+[HashCode "47382da1"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 b5 8.
+Bg5 Bb7 9. Qe2 Nbd7 10. O-O-O Qb6 11. f4 Be7 12. Bxe6 fxe6 13. Nxe6 Kf7 14.
+Bxf6 Nxf6 15. Ng5+ Ke8 16. Nd5 Bxd5 17. exd5 Ra7 18. Rhe1 h6 19. Ne6 Kf7
+20. g4 Nh7 21. Qe4 Bh4 22. Ng5+ 1-0
+

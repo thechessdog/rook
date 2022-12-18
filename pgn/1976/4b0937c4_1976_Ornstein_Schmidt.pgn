@@ -1,0 +1,23 @@
+[Event "Malmo"]
+[Site "Malmo"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Ornstein, Axel"]
+[Black "Schmidt, Wlodzimierz"]
+[Result "0-1"]
+[ECO "A34"]
+[Opening "English"]
+[Variation "symmetrical, three knights system"]
+[HashCode "4b0937c4"]
+[Epoch "Rook"]
+[WhiteID "1700111"]
+[WhiteCountry "SWE"]
+[BlackID "1100041"]
+[BlackCountry "POL"]
+
+1. c4 c5 2. Nf3 Nf6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nb4 6. Bc4 Be6 7. Bxe6 Nd3+ 8.
+Kf1 fxe6 9. Ng5 Nc6 10. Nxe6 Qd7 11. Nd5 Rc8 12. Qb3 Nce5 13. Qb5 Qxb5 14.
+Nec7+ Kf7 15. Nxb5 e6 16. Ne3 a6 17. Na3 c4 18. Nac2 g5 19. Ne1 Bg7 20. Rb1
+Rhd8 21. Nxd3 Nxd3 22. Ke2 b5 23. h4 h6 24. f3 a5 25. b3 cxb3 26. axb3 Rd7 27.
+hxg5 hxg5 28. Ba3 Nf4+ 29. Ke1 Kg6 30. g3 Nd3+ 31. Ke2 Be5 32. Nd5 exd5 33.
+Kxd3 dxe4+ 34. Kxe4 Re8 0-1

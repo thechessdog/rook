@@ -1,0 +1,22 @@
+[Event "Bialystok"]
+[Site "Bialystok"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Kosciuk, J."]
+[Black "Meduna, Eduard"]
+[Result "1-0"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Nimzovich (knight's tour) variation"]
+[HashCode "01075b5d"]
+[Epoch "Rook"]
+[BlackID "300055"]
+[BlackCountry "CZE"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. Nd2 Na6 8. Nc4
+Nc7 9. a4 b6 10. Bg5 Be7 11. Bh6 Ng4 12. Bf4 O-O 13. h3 Nf6 14. e4 Ba6 15. Bd3
+Bxc4 16. Bxc4 a6 17. O-O Nd7 18. Bh6 Re8 19. f4 Bf6 20. e5 dxe5 21. f5 gxf5 22.
+Rxf5 e4 23. Qg4+ Kh8 24. Raf1 Rg8 25. Qh5 Qe7 26. Bf4 Ne8 27. d6 Nxd6 28. Nd5
+Bd4+ 29. Kh1 Qf8 30. Bxd6 Qxd6 31. Rxf7 Rg7 32. Ne7 Rxf7 33. Rxf7 Nf8 34. Rxh7+
+Nxh7 35. Qf7 b5 36. Bd5 Rd8 37. Bxe4 Bg7 38. Ng6+ Qxg6 39. Qxg6 Rd1+ 40. Kh2
+1-0

@@ -1,0 +1,19 @@
+[Event "Hungary"]
+[Site "Hungary"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Flesch, János"]
+[Black "Kadar, Gabor"]
+[Result "1-0"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra gambit"]
+[HashCode "d48a3626"]
+[Epoch "Rook"]
+[BlackID "700770"]
+[BlackCountry "HUN"]
+[WhiteCountry "HUN"]
+
+1. e4 c5 2. d4 cxd4 3. c3 dxc3 4. Nxc3 Nc6 5. Nf3 g6 6. Bc4 Bg7 7. O-O Nh6 8.
+Bf4 O-O 9. e5 Kh8 10. Re1 Ng8 11. Ng5 Nh6 12. Qd2 a6 13. Re3 Ng4 14. Rh3 Ngxe5
+15. Nxh7 d5 16. Rh4 Nxc4 17. Nf6+ Bh6 18. Be5 1-0

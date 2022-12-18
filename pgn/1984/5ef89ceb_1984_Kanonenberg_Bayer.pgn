@@ -1,0 +1,17 @@
+[Event "Berlin op"]
+[Site "Berlin-West"]
+[Date "1984.01.01"]
+[Round "4"]
+[White "Kanonenberg, Wilhelm"]
+[Black "Bayer, Ernst Wolfgang"]
+[Result "1-0"]
+[ECO "B23"]
+[Opening "Sicilian"]
+[Variation "closed"]
+[HashCode "5ef89ceb"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nc3 d6 3. f4 Nc6 4. Nf3 g6 5. Bc4 Bg7 6. O-O e6 7. f5 exf5 8. d3
+Nge7 9. Qe1 O-O 10. Qh4 a6 11. a4 Qd7 12. Bg5 b6 13. Rae1 Ra7 14. Bh6 fxe4 15.
+Ng5 Qg4 16. Rxf7 Bd4+ 17. Kh1 Rxf7 18. Bxf7+ Kh8 19. Bg7+ Kxg7 20. Qxh7+ Kf8
+21. Rf1 Qxg5 22. Be6+ Ke8 23. Rf8+ 1-0

@@ -1,0 +1,19 @@
+[Event "corr NLD/M"]
+[Site "corr NLD/M"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Hamers"]
+[Black "Oosterhoff"]
+[Result "0-1"]
+[ECO "B98"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7...Be7"]
+[HashCode "807ef74f"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8.
+Qf3 h6 9. Bh4 Nbd7 10. O-O-O Qc7 11. Be2 Rb8 12. Qg3 O-O 13. Nd5 Nxd5 14.
+exd5 Bxh4 15. Qxh4 e5 16. Nf5 Nc5 17. Ne7+ Kh7 18. f5 f6 19. Ng6 Re8 20. g4
+Bd7 21. Qg3 Rbc8 22. c3 Ba4 23. Rdf1 b5 24. Kb1 Qa5 25. Qe3 b4 26. c4 Bd7
+27. h4 Na4 28. g5 Nc3+ 29. bxc3 bxc3 30. Kc2 Ba4+ 31. Kc1 Qb4 0-1
+

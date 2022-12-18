@@ -1,0 +1,18 @@
+[Event "Bucharest"]
+[Site "Bucharest"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Mancin"]
+[Black "Segheato"]
+[Result "0-1"]
+[ECO "C05"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation"]
+[HashCode "555d5a37"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. f4 c5 6. c3 Nc6 7. Ndf3 Qb6 8.
+Ne2 cxd4 9. cxd4 Bb4+ 10. Kf2 O-O 11. g4 f6 12. Kg3 Be7 13. h4 Rf7 14. Bh3
+fxe5 15. fxe5 Ndxe5 16. dxe5 Bxh4+ 17. Kxh4 Qf2+ 18. Ng3 Rxf3 19. Qe1 Qd4
+20. Qe2 Nxe5 21. Rd1 Ng6+ 22. Kh5 Nf4+ 23. Bxf4 Qxf4 0-1
+

@@ -1,0 +1,17 @@
+[Event "corr DFSM"]
+[Site "corr DFSM"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Skarke"]
+[Black "Herbrechtsmeier"]
+[Result "1/2-1/2"]
+[ECO "A13"]
+[Opening "English"]
+[Variation "Neo-Catalan"]
+[HashCode "85f2b3f1"]
+[Epoch "Rook"]
+
+1. c4 e6 2. Nf3 d5 3. g3 Nf6 4. Bg2 c5 5. O-O Nc6 6. Na3 Be7 7. d4 O-O 8.
+cxd5 exd5 9. b3 Ne4 10. Bb2 Bf6 11. Nc2 Re8 12. Qe1 a5 13. Rc1 Nb4 14. a3
+Nxc2 15. Rxc2 Qb6 16. dxc5 Qxb3 1/2-1/2
+

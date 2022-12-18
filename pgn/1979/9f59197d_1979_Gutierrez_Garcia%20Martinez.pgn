@@ -1,0 +1,23 @@
+[Event "Capablanca mem"]
+[Site "Cienfuegos"]
+[Date "1979.01.01"]
+[Round "5"]
+[White "Gutierrez, Jose Antonio"]
+[Black "Garcia Martinez, Silvino"]
+[Result "1-0"]
+[ECO "B42"]
+[Opening "Sicilian"]
+[Variation "Kan, Swiss cheese variation"]
+[HashCode "9f59197d"]
+[Epoch "Rook"]
+[BlackID "3500179"]
+[BlackCountry "CUB"]
+[WhiteCountry "COL"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 g6 6. O-O Bg7 7. Be3 Ne7 8. Nc3
+Nbc6 9. Nde2 d5 10. exd5 exd5 11. Na4 d4 12. Bd2 O-O 13. Ng3 Ne5 14. Re1 Re8
+15. Nc5 Nd5 16. Bf1 Qb6 17. Nd3 Bg4 18. Qc1 Rac8 19. Bh6 Nxd3 20. Rxe8+ Rxe8
+21. Bxd3 Bxh6 22. Qxh6 Qxb2 23. Rf1 Qb4 24. Ne4 Bd7 25. h4 Bc6 26. h5 Qf8 27.
+Qg5 f5 28. Nd2 Qf6 29. Qg3 Kh8 30. hxg6 Rg8 31. Nf3 Nb4 32. Ne5 Nxd3 33. Qh2
+Rg7 34. Nf7+ Rxf7 35. gxf7 Qxf7 36. cxd3 f4 37. Re1 Qg6 38. Qh3 Bd5 39. Qc8+
+Bg8 40. Qd8 f3 41. Qxd4+ Qg7 42. Qxg7+ Kxg7 43. Re7+ Kf6 44. Rxb7 1-0

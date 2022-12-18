@@ -1,0 +1,23 @@
+[Event "Baku"]
+[Site "Baku"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Agzamov, Georgy"]
+[Black "Psakhis, Lev"]
+[Result "0-1"]
+[ECO "A75"]
+[Opening "Benoni"]
+[Variation "classical with ...a6 and 10...Bg4"]
+[HashCode "03898675"]
+[Epoch "Rook"]
+[BlackID "2800012"]
+[BlackCountry "ISR"]
+[WhiteCountry "RUS"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. e4 Bg7 8. Be2
+O-O 9. O-O a6 10. a4 Bg4 11. Bf4 Bxf3 12. Bxf3 Qe7 13. Qc2 Nbd7 14. Rae1 c4 15.
+Be2 Rac8 16. Bg5 h6 17. Bh4 g5 18. Bg3 Rfe8 19. Qd1 Ne5 20. Kh1 Ng6 21. Bf3 Qd7
+22. h3 b5 23. axb5 axb5 24. Na2 h5 25. Bxh5 Nxe4 26. Nc3 Nc5 27. Bg4 f5 28.
+Rxe8+ Rxe8 29. Bh5 Kh7 30. f4 gxf4 31. Bxf4 Nd3 32. Ne2 Re4 33. Bxg6+ Kxg6 34.
+Ng3 Rxf4 35. Qh5+ Kf6 36. Rxf4 Nxf4 37. Qh4+ Ke5 38. Nf1 Bf6 39. Qg3 Qa7 40.
+Nd2 Qa1+ 41. Kh2 Kxd5 0-1

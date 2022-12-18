@@ -1,0 +1,21 @@
+[Event "corr ch9-DDR"]
+[Site "corr ch9-DDR"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Richter, D."]
+[Black "Berndt, K."]
+[Result "0-1"]
+[ECO "E48"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 O-O, 5.Bd3 d5"]
+[HashCode "5ffadf6f"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Qc2 c5 7. dxc5 Bxc5 8.
+cxd5 exd5 9. Nge2 Nc6 10. a3 Bd6 11. Nb5 Bb8 12. Nbd4 Ne5 13. h3 Nxd3+ 14.
+Qxd3 Ne4 15. Nc3 Qh4 16. Nxe4 dxe4 17. Qe2 Be5 18. Bd2 Rd8 19. Bc3 Qg5 20.
+O-O-O Bxd4 21. Rxd4 Rxd4 22. Bxd4 Qxg2 23. Qe1 g6 24. Rg1 Qf3 25. Qa5 Bxh3
+26. Qe5 Rc8+ 27. Kb1 f6 28. Qe7 Rf8 29. Qxb7 Qxf2 30. Rc1 Be6 31. Bxa7 Qd2
+32. Rh1 Rf7 33. Qa6 Qd5 34. Bd4 Rc7 35. Bc3 Qa2+ 36. Kc1 Qa1+ 37. Kd2 Qxh1
+38. Qxe6+ Rf7 39. Bxf6 Qh2+ 40. Kc3 Qc7+ 41. Kb4 Qd7 42. Qc4 Qd6+ 0-1
+

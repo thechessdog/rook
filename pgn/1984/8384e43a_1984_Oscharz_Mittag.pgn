@@ -1,0 +1,18 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Oscharz"]
+[Black "Mittag"]
+[Result "1-0"]
+[ECO "B93"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.f4"]
+[HashCode "8384e43a"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 e6 7. Be2 Qc7 8.
+O-O Be7 9. Be3 O-O 10. Qe1 b5 11. a3 Bb7 12. Bf3 Nbd7 13. Qg3 Kh8 14. e5
+dxe5 15. fxe5 Bxf3 16. exf6 Qxg3 17. hxg3 Bb7 18. fxe7 Rfe8 19. Rxf7 Kg8
+20. Raf1 Nf6 21. Rf8+ Rxf8 22. exf8=Q+ Rxf8 23. Nxe6 1-0
+

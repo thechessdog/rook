@@ -1,0 +1,19 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Hasselmann"]
+[Black "Ketzscher"]
+[Result "0-1"]
+[ECO "C08"]
+[Opening "French"]
+[Variation "Tarrasch, open, 4.ed ed"]
+[HashCode "ab3439df"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. exd5 exd5 5. Bb5+ Bd7 6. Bxd7+ Nxd7 7. Ne2
+Bd6 8. O-O Ngf6 9. Nf3 O-O 10. dxc5 Nxc5 11. Bg5 Nce4 12. Bxf6 Nxf6 13. c3
+Qd7 14. Qb3 Rad8 15. Rad1 Rfe8 16. Ned4 Bb8 17. Qc2 a6 18. Nf5 Ne4 19. Ne3
+Qe6 20. Qb3 Nxf2 21. Rxf2 Qxe3 22. Qxb7 Re6 23. Rxd5 Rxd5 24. Qxd5 Rd6 25.
+Qb3 Ba7 0-1
+

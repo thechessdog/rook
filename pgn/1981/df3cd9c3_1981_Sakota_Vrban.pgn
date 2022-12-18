@@ -1,0 +1,19 @@
+[Event "corr YUG"]
+[Site "corr YUG"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Sakota, J."]
+[Black "Vrban, S."]
+[Result "1-0"]
+[ECO "A77"]
+[Opening "Benoni"]
+[Variation "classical, 9...Re8, 10.Nd2"]
+[HashCode "df3cd9c3"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. Nf3 Bg7 8.
+Be2 O-O 9. O-O Re8 10. Nd2 Nbd7 11. a4 a6 12. Qc2 Rb8 13. Nc4 Nb6 14. Na3
+Bd7 15. Bg5 h6 16. Bh4 Qc7 17. a5 Nc8 18. Nc4 Bb5 19. f4 Bxc4 20. Bxc4 Ng4
+21. Nd1 Bd4+ 22. Kh1 Ne3 23. Nxe3 Bxe3 24. e5 Kh7 25. Ra3 Bd4 26. Raf3 Ne7
+27. f5 Nxf5 28. Rxf5 gxf5 29. Qxf5+ Kg8 30. Qg4+ 1-0
+

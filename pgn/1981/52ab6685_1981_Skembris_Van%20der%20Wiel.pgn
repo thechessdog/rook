@@ -1,0 +1,19 @@
+[Event "Graz"]
+[Site "Graz"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Skembris, Spyridon"]
+[Black "Van der Wiel, John T.H."]
+[Result "1/2-1/2"]
+[ECO "E12"]
+[Opening "Queen's Indian"]
+[Variation "Petrosian system"]
+[HashCode "52ab6685"]
+[Epoch "Rook"]
+[BlackID "1000020"]
+[BlackCountry "NED"]
+[WhiteID "4200020"]
+[WhiteCountry "GRE"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 b6 4. a3 c5 5. d5 Ba6 6. b3 b5 7. cxb5 Bxb5 8. Nc3
+exd5 9. Nxb5 Qa5+ 10. Nc3 Qxc3+ 11. Bd2 Qb2 12. Rb1 Qxa3 13. Ra1 1/2-1/2

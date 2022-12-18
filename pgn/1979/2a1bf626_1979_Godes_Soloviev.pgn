@@ -1,0 +1,18 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Godes, Dmitry R"]
+[Black "Soloviev"]
+[Result "1-0"]
+[ECO "A16"]
+[Opening "English"]
+[Variation "Anglo-Gruenfeld, Czech defense"]
+[HashCode "2a1bf626"]
+[Epoch "Rook"]
+[WhiteID "4102320"]
+[WhiteCountry "RUS"]
+
+1. c4 Nf6 2. g3 g6 3. Bg2 d5 4. cxd5 Nxd5 5. Nc3 Nb6 6. h4 h5 7. d4 Bg7 8. d5
+O-O 9. Bg5 Nc4 10. Qb3 Nd6 11. e4 c6 12. Nge2 cxd5 13. Nxd5 Nc6 14. O-O Kh7 15.
+Rad1 f6 16. Be3 Bg4 17. f3 Be6 18. f4 1-0

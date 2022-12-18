@@ -1,0 +1,18 @@
+[Event "Bagneaux"]
+[Site "Bagneaux"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Wauters, Alain"]
+[Black "Maier"]
+[Result "0-1"]
+[ECO "C05"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation"]
+[HashCode "2d113faf"]
+[Epoch "Rook"]
+[WhiteID "601373"]
+[WhiteCountry "FRA"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. f4 c5 6. c3 Nc6 7. Ndf3 cxd4 8. cxd4
+f6 9. Bd3 Bb4+ 10. Bd2 O-O 11. Ne2 fxe5 12. fxe5 Rxf3 13. gxf3 Qh4+ 14. Ng3
+Qxd4 15. Qc2 Qe3+ 0-1

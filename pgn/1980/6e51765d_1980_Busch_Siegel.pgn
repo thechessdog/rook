@@ -1,0 +1,20 @@
+[Event "Mosbach Elo"]
+[Site "Mosbach Elo"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Busch, Raimund"]
+[Black "Siegel, Georg"]
+[Result "1-0"]
+[ECO "A31"]
+[Opening "English"]
+[Variation "symmetrical, Benoni formation"]
+[HashCode "6e51765d"]
+[Epoch "Rook"]
+[WhiteID "4602480"]
+[WhiteCountry "GER"]
+[BlackID "4604237"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 c5 3. Nf3 cxd4 4. Nxd4 a6 5. Nc3 e6 6. e4 Qc7 7. Nc2 b6 8. Be3
+Bb7 9. f3 Bd6 10. Na4 Bxh2 11. Rxh2 Qxh2 12. Nxb6 d5 13. exd5 exd5 14. Nxa8
+Bxa8 15. Qd2 O-O 16. O-O-O dxc4 17. Bf4 1-0

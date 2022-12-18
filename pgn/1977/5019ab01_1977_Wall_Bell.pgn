@@ -1,0 +1,17 @@
+[Event "Statesville"]
+[Site "Statesville"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Wall, Bill"]
+[Black "Bell, Tom"]
+[Result "1-0"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Paulsen attack"]
+[HashCode "5019ab01"]
+[Epoch "Rook"]
+[WhiteCountry "USA"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 cxd4 6. cxd4 Bb4+ 7. Bd2 Qb6 8. Bc3
+Nge7 9. Be2 Bxc3+ 10. bxc3 Qb2 11. O-O Qxa1 12. Qc2 Nxd4 13. Nxd4 Nc6 14. Bb5
+Bd7 15. Bxc6 Bxc6 16. Na3 1-0

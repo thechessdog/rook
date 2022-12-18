@@ -1,0 +1,17 @@
+[Event "New Hampshire ch"]
+[Site "New Hampshire ch"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Panzel, Kenneth"]
+[Black "Schalk, Alan P"]
+[Result "1/2-1/2"]
+[ECO "B87"]
+[Opening "Sicilian"]
+[Variation "Sozin with ...a6 and ...b5"]
+[HashCode "de364401"]
+[Epoch "Rook"]
+[WhiteCountry "HUN"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 b5 7. Bb3 e6 8. O-O
+Be7 9. f4 Bb7 10. e5 dxe5 11. fxe5 Bc5 12. Be3 Nc6 13. exf6 Bxd4 14. Bxd4 Qxd4+
+15. Qxd4 1/2-1/2

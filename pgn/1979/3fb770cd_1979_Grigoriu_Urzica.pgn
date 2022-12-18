@@ -1,0 +1,16 @@
+[Event "Athens"]
+[Site "Athens"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Grigoriu"]
+[Black "Urzica"]
+[Result "0-1"]
+[ECO "D00"]
+[Opening "Queen's pawn game"]
+[HashCode "3fb770cd"]
+[Epoch "Rook"]
+
+1. d4 d5 2. g3 Nf6 3. Bg2 g6 4. c4 dxc4 5. Na3 e5 6. Qa4+ Bd7 7. Qxc4 Nc6
+8. d5 Nd4 9. f4 Bd6 10. e3 Nf5 11. Nf3 exf4 12. e4 Qe7 13. O-O Nxe4 14. Re1
+Bc5+ 0-1
+

@@ -1,0 +1,23 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Kovalev, Andrei"]
+[Black "Smirin, Ilia"]
+[Result "1-0"]
+[ECO "B64"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...Be7 defence, 9.f4"]
+[HashCode "0703eb3e"]
+[Epoch "Rook"]
+[WhiteID "13500023"]
+[BlackID "2801990"]
+[WhiteCountry "BLR"]
+[BlackCountry "ISR"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 e6 7. Qd2 Be7 8.
+O-O-O O-O 9. f4 h6 10. Bh4 Bd7 11. Nf3 Qa5 12. Kb1 Rfc8 13. g4 b5 14. Bd3 b4
+15. Ne2 Nxg4 16. Be1 d5 17. e5 Bc5 18. Nc1 Qb6 19. Nb3 Bf2 20. Rf1 Bxe1 21.
+Rdxe1 a5 22. h3 a4 23. Nc1 b3 24. hxg4 Nb4 25. c3 bxa2+ 26. Ka1 Nc6 27. Qf2 Qb8
+28. Nd4 a3 29. b3 Nxd4 30. Qxd4 Ra4 31. b4 Bb5 32. Nb3 Bc4 33. Bxc4 Rxc4 34.
+Qd3 Qb5 35. Nd4 Qa6 36. Rf3 Qc8 37. Kxa2 1-0

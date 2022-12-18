@@ -1,0 +1,21 @@
+[Event "US Open"]
+[Site "US Open"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Johnson, K."]
+[Black "Madsen, C."]
+[Result "0-1"]
+[ECO "C15"]
+[Opening "French"]
+[Variation "Winawer (Nimzovich) variation"]
+[HashCode "905b135e"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. a3 Bxc3+ 5. bxc3 dxe4 6. Qg4 Nf6 7. Qxg7
+Rg8 8. Qh6 Nbd7 9. Ne2 c5 10. Ng3 Qa5 11. Bd2 Qa4 12. Qe3 Qxc2 13. Be2 Qb2
+14. O-O Nd5 15. Qh6 Rg6 16. Qxh7 Qxd2 17. Qh8+ Ke7 18. Bh5 Qh6 19. Qxh6
+Rxh6 20. c4 N5f6 21. Bd1 cxd4 22. Ra2 Nc5 23. Re1 Bd7 24. Bc2 Rah8 25. h3
+Bc6 26. Bb1 Rg6 27. Rd2 e5 28. Nf1 Rxh3 29. Nh2 Rh8 30. f3 Rgh6 31. Nf1 e3
+32. Nxe3 Rh1+ 33. Kf2 dxe3+ 34. Rxe3 Rxb1 35. Rxe5+ Ne6 36. f4 Ng4+ 37. Kg3
+Nxe5 38. fxe5 Rf1 39. Rd6 f5 40. Rd3 Nc5 0-1
+

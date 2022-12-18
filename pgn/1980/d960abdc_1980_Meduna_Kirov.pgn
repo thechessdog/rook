@@ -1,0 +1,24 @@
+[Event "Leipzig"]
+[Site "Leipzig"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Meduna, Eduard"]
+[Black "Kirov, Nino"]
+[Result "0-1"]
+[ECO "D14"]
+[Opening "QGD Slav"]
+[Variation "exchange variation, 6.Bf4 Bf5"]
+[HashCode "d960abdc"]
+[Epoch "Rook"]
+[WhiteID "300055"]
+[WhiteCountry "CZE"]
+[BlackCountry "BGR"]
+
+1. d4 d5 2. c4 c6 3. cxd5 cxd5 4. Nc3 Nc6 5. Nf3 Nf6 6. Bf4 Bf5 7. e3 e6 8. Bb5
+Nd7 9. O-O Be7 10. Qb3 O-O 11. Rfc1 g5 12. Bg3 h5 13. h3 Kg7 14. Bxc6 bxc6 15.
+Na4 g4 16. hxg4 hxg4 17. Nd2 Rh8 18. Rxc6 Qg8 19. f4 Nf6 20. Qb7 Re8 21. Rc7
+Bd8 22. Nc5 Bxc7 23. Qxc7 Ra8 24. Qe5 Qd8 25. Rc1 Rc8 26. Rc3 Rh5 27. Nb7 Qd7
+28. Rxc8 Qxc8 29. Nc5 Qd8 30. b4 a5 31. bxa5 Kg6 32. a6 Qa5 33. Nf1 Bd3 34. Qb8
+Bxf1 35. Qb1+ Ne4 36. Nxe4 dxe4 37. Qxf1 Qxa2 38. Qd1 f5 39. Qf1 Rh8 40. Qb5
+Qa1+ 41. Kf2 Qa2+ 42. Kg1 Qa1+ 43. Kf2 Rc8 44. Qb3 Qxa6 45. Bh4 Qc4 46. Qb6
+Qa2+ 47. Kf1 Rc1+ 48. Be1 g3 0-1

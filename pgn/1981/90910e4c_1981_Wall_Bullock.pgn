@@ -1,0 +1,18 @@
+[Event "Dayton,OH"]
+[Site "Dayton,OH"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Wall, Bill"]
+[Black "Bullock, Randy"]
+[Result "1-0"]
+[ECO "C35"]
+[Opening "KGA"]
+[Variation "Cunningham, three pawns gambit"]
+[HashCode "90910e4c"]
+[Epoch "Rook"]
+[WhiteCountry "USA"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 Be7 4. Bc4 Bh4+ 5. g3 fxg3 6. O-O gxh2+ 7. Kh1 d5 8.
+Bxd5 Nh6 9. d4 Be6 10. Nc3 Ng4 11. Bxb7 Nd7 12. Nxh4 Rb8 13. Nf5 Bc4 14. Qxg4
+Bxf1 15. Nxg7+ Ke7 16. Bg5+ f6 17. Nd5+ Kf7 18. Rxf1 Rxb7 19. Bxf6 Nxf6 20.
+Rxf6+ 1-0

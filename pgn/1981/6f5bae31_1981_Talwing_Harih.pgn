@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Talwing"]
+[Black "Harih"]
+[Result "1-0"]
+[ECO "C30"]
+[Opening "KGD"]
+[Variation "classical, 4.c3"]
+[HashCode "6f5bae31"]
+[Epoch "Rook"]
+
+1. e4 e5 2. f4 Bc5 3. Nf3 d6 4. c3 Nf6 5. d4 Bb6 6. fxe5 dxe5 7. Nxe5 O-O
+8. Bd3 Nxe4 9. Qf3 Ng5 10. Qh5 h6 11. h4 Nh7 12. Bxh6 Qd6 13. Bxg7 f5 14.
+Bxf8 1-0
+

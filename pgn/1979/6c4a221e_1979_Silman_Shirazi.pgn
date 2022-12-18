@@ -1,0 +1,21 @@
+[Event "Lone Pine open"]
+[Site "Lone Pine open"]
+[Date "1979.03.01"]
+[Round "8"]
+[White "Silman, Jeremy D"]
+[Black "Shirazi, Kamran"]
+[Result "0-1"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (without ...d6)"]
+[HashCode "6c4a221e"]
+[Epoch "Rook"]
+[WhiteID "2000814"]
+[WhiteCountry "USA"]
+[BlackID "2000733"]
+[BlackCountry "FRA"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 Qb6 4. Nc3 e6 5. O-O a6 6. Bc4 Qa5 7. Re1 b5 8. Bd5
+Nge7 9. d3 Qc7 10. Bxc6 Nxc6 11. e5 Bb7 12. Bf4 f5 13. a4 b4 14. Nb1 Ne7 15. h4
+h6 16. Nbd2 g5 17. Nc4 Ng6 18. Bg3 g4 19. h5 gxf3 20. hxg6 Rg8 21. Re3 Rxg6 22.
+Rxf3 Bxf3 23. Qxf3 Qc6 24. Qh5 Kf7 25. f3 Be7 26. Kh1 Kg7 27. Bh4 Rg5 0-1

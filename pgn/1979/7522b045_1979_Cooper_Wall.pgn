@@ -1,0 +1,15 @@
+[Event "Dayton,OH"]
+[Site "Dayton,OH"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Cooper, Stan"]
+[Black "Wall, Bill"]
+[Result "0-1"]
+[ECO "B20"]
+[Opening "Sicilian defence"]
+[HashCode "7522b045"]
+[Epoch "Rook"]
+[BlackCountry "USA"]
+
+1. e4 c5 2. Bd3 e6 3. Nf3 d5 4. O-O c4 5. Be2 dxe4 6. Bxc4 exf3 7. Bb5+ Bd7 8.
+Bxd7+ Qxd7 9. gxf3 Bd6 0-1

@@ -1,0 +1,20 @@
+[Event "Salgotarjan"]
+[Site "Salgotarjan"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Szabo, Ervin"]
+[Black "Bakos, S."]
+[Result "0-1"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack"]
+[HashCode "fb8ef31a"]
+[Epoch "Rook"]
+
+1. e4 g6 2. d4 Bg7 3. f4 d6 4. Nf3 Nf6 5. Nc3 O-O 6. Be2 c5 7. O-O cxd4 8. Nxd4
+Nc6 9. Nxc6 bxc6 10. Be3 Qa5 11. Bf3 Rb8 12. Rb1 Rd8 13. a3 d5 14. exd5 cxd5
+15. Ne2 Ba6 16. Re1 Qc7 17. Nd4 e6 18. Kh1 Rb7 19. b4 Bc4 20. Nb3 Rbb8 21. Qd2
+Bb5 22. Qf2 a6 23. Nc5 Nd7 24. Nb3 Nb6 25. Be2 Nc4 26. Bxc4 Qxc4 27. Na5 Qa2
+28. Bd4 Bxd4 29. Qxd4 Qxc2 30. Nb3 Qd3 31. Qf6 Qf5 32. Qd4 Bc4 33. Nc5 a5 34.
+Rb2 axb4 35. axb4 h5 36. Re5 Qf6 37. Qd2 Ra8 38. Re1 Bb5 39. h3 Ra3 40. Kh2
+Rda8 41. Re5 Ra1 42. Kg3 R8a3+ 43. Rb3 h4+ 44. Kh2 R3a2 45. Ne4 dxe4 0-1

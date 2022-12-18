@@ -1,0 +1,21 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Pasqua"]
+[Black "Fioravanti"]
+[Result "1-0"]
+[ECO "B89"]
+[Opening "Sicilian"]
+[Variation "Velimirovic attack"]
+[HashCode "38a56f7e"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bc4 e6 7. Be3 Be7
+8. Qe2 Nxd4 9. Bxd4 e5 10. Be3 O-O 11. O-O-O Be6 12. f3 Qa5 13. Kb1 Rfc8
+14. Nd5 Nxd5 15. Bxd5 Rab8 16. h4 b5 17. g4 Qc7 18. g5 a5 19. h5 a4 20. g6
+Bxd5 21. gxh7+ Kh8 22. Rxd5 b4 23. Rg1 b3 24. cxb3 axb3 25. axb3 Rxb3 26.
+Rc1 Qb7 27. Rxc8+ Qxc8 28. Rb5 Qc3 29. Rxb3 Qxb3 30. Bd2 Kxh7 31. Qe3 Qxe3
+32. Bxe3 f6 33. Kc2 g6 34. hxg6+ Kxg6 35. Kd3 Kf7 36. Kc4 Ke6 37. b4 Bd8
+38. b5 Ba5 39. b6 Kd7 40. Kb5 1-0
+

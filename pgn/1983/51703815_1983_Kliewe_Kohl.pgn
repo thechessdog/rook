@@ -1,0 +1,19 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Kliewe"]
+[Black "Kohl"]
+[Result "0-1"]
+[ECO "E87"]
+[Opening "King's Indian"]
+[Variation "Saemisch, orthodox, 7.d5"]
+[HashCode "51703815"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 e5 7. d5 Nh5 8. Qd2
+f5 9. O-O-O Nd7 10. exf5 gxf5 11. Nge2 a6 12. Kb1 Ndf6 13. Ng3 f4 14. Nxh5
+fxe3 15. Nxf6+ Qxf6 16. Qxe3 e4 17. fxe4 Bd7 18. Bd3 b5 19. e5 Qxe5 20.
+Qxe5 Bxe5 21. Rdf1 bxc4 22. Bxc4 Bf5+ 23. Kc1 Rab8 24. Bb3 Bd3 25. Rd1 Bf4+
+26. Rd2 Be3 27. Kd1 Bg6 28. g4 Bxd2 0-1
+

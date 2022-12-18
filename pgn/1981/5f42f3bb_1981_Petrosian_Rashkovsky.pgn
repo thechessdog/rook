@@ -1,0 +1,19 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Petrosian, Arshak B"]
+[Black "Rashkovsky, Nukhim N"]
+[Result "1/2-1/2"]
+[ECO "E11"]
+[Opening "Bogo-Indian defence, Gruenfeld variation"]
+[HashCode "5f42f3bb"]
+[Epoch "Rook"]
+[BlackID "4100603"]
+[BlackCountry "RUS"]
+[WhiteID "13300288"]
+[WhiteCountry "ARM"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 Bb4+ 4. Nbd2 O-O 5. e3 d5 6. a3 Be7 7. b4 b6 8. c5 a5
+9. Bb2 bxc5 10. dxc5 c6 11. Nb3 Ne4 12. Bd3 Ba6 13. Bxa6 Rxa6 14. O-O Bf6 15.
+Bxf6 Qxf6 16. Nxa5 Nxc5 17. Qd4 Ne4 1/2-1/2

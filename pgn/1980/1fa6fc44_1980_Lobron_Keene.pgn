@@ -1,0 +1,20 @@
+[Event "Dortmund"]
+[Site "Dortmund"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Lobron, Eric"]
+[Black "Keene, Raymond D"]
+[Result "1/2-1/2"]
+[ECO "B10"]
+[Opening "Caro-Kann"]
+[Variation "closed (Breyer) variation"]
+[HashCode "1fa6fc44"]
+[Epoch "Rook"]
+[WhiteID "4600037"]
+[BlackID "400211"]
+[WhiteCountry "GER"]
+[BlackCountry "ENG"]
+
+1. e4 c6 2. d3 d5 3. Nd2 Qc7 4. Ngf3 Bg4 5. h3 Bh5 6. Be2 e6 7. O-O Nf6 8. c3
+Be7 9. Nh2 Bg6 10. Ng4 dxe4 11. Nxf6+ gxf6 12. dxe4 Nd7 13. f4 f5 14. e5 O-O-O
+15. b4 f6 16. Qa4 Kb8 17. Nf3 Bh5 18. Qb3 1/2-1/2

@@ -1,0 +1,23 @@
+[Event "Kragujevac"]
+[Site "Kragujevac"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Novoselski, Zoran"]
+[Black "Filip, Miroslav"]
+[Result "0-1"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...e6"]
+[HashCode "7fc955b0"]
+[Epoch "Rook"]
+[WhiteID "901970"]
+[WhiteCountry "SRB"]
+[BlackCountry "CZE"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 e6 6. Nf3 Bb4 7. Bg5 Qa5 8.
+Bxf6 Bxc3+ 9. bxc3 Qxc3+ 10. Nd2 gxf6 11. cxd5 O-O 12. Qg4+ Kh8 13. Rb1 exd5
+14. Qh4 Nd7 15. Kd1 Rg8 16. Bb5 a6 17. Ba4 Rxg2 18. Rc1 Qa3 19. Bc2 Nf8 20.
+Qxf6+ Kg8 21. Bb3 Rg6 22. Qe5 Be6 23. Rc3 Qb4 24. Rg3 Re8 25. Qf4 Bd7 26. Bc2
+Ne6 27. Qf6 Ba4 28. Nb3 Bxb3 29. axb3 Rxg3 30. Bxh7+ Kf8 31. fxg3 Qxd4+ 32.
+Qxd4 Nxd4 33. b4 Nc6 34. b5 axb5 35. Kd2 b4 36. h4 Kg7 37. Bd3 f6 38. h5 Kh6
+39. Rf1 Re6 0-1

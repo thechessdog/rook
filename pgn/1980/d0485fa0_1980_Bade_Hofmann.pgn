@@ -1,0 +1,21 @@
+[Event "DDR"]
+[Site "DDR"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Bade, Heidrun"]
+[Black "Hofmann"]
+[Result "0-1"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Lipnitzky attack"]
+[HashCode "d0485fa0"]
+[Epoch "Rook"]
+[WhiteID "4612710"]
+[WhiteCountry "GER"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. a3 Be7 8. O-O
+O-O 9. Bb3 Qc7 10. f4 Nc6 11. Nxc6 Qxc6 12. Qf3 Nd7 13. Be3 Nc5 14. Bxc5 dxc5
+15. e5 Qxf3 16. Rxf3 b5 17. Rd1 c4 18. Ba2 Bc5+ 19. Kh1 Bb7 20. Rff1 Rfd8 21.
+Ne2 g6 22. c3 Be4 23. Bb1 Rxd1 24. Rxd1 Bxb1 25. Rxb1 Rd8 26. g3 Rd2 27. Ng1
+Rc2 28. Rd1 Bxg1 29. Kxg1 Rxb2 30. Rd6 Rb3 31. Rxa6 Rxc3 32. a4 b4 33. Rb6 b3
+34. a5 Rc2 0-1

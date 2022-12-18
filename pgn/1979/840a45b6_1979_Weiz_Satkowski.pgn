@@ -1,0 +1,19 @@
+[Event "corr DDR-M"]
+[Site "corr DDR-M"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Weiz, W."]
+[Black "Satkowski, P."]
+[Result "1-0"]
+[ECO "E88"]
+[Opening "King's Indian"]
+[Variation "Saemisch, orthodox, 7.d5 c6"]
+[HashCode "840a45b6"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 e5 7. d5 c6 8. Bd3
+Nh5 9. Qd2 f5 10. exf5 gxf5 11. O-O-O f4 12. Bf2 cxd5 13. cxd5 a6 14. g4
+Nf6 15. h4 Qc7 16. Qc2 Bh8 17. h5 h6 18. Nh3 b5 19. g5 Nxh5 20. gxh6 Bf6
+21. a3 Kh8 22. Rdg1 Qe7 23. Bg6 Ng3 24. Bxg3 fxg3 25. Rxg3 Bh4 26. Rg2 Bxh3
+27. Rxh3 Nd7 28. Bf5 1-0
+

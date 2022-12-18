@@ -1,0 +1,19 @@
+[Event "corr Argentina"]
+[Site "corr Argentina"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Walsh"]
+[Black "Galante"]
+[Result "1-0"]
+[ECO "E52"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line with ...b6"]
+[HashCode "43a51316"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 b6 7. O-O Bb7 8.
+cxd5 exd5 9. Ne5 c5 10. Bd2 Nc6 11. a3 Bxc3 12. Bxc3 Nxe5 13. dxe5 Nd7 14.
+f4 Re8 15. Qh5 g6 16. Qh6 d4 17. f5 Qe7 18. fxg6 hxg6 19. exd4 cxd4 20. Bc4
+Nxe5 21. Rxf7 Qxf7 22. Bxf7+ Kxf7 23. Qh7+ Ke6 24. Bxd4 Bd5 25. Bxe5 Kxe5
+26. Re1+ 1-0
+

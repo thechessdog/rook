@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Van der Kleij, Care"]
+[Black "Hoekstra"]
+[Result "1-0"]
+[ECO "B03"]
+[Opening "Alekhine's defence"]
+[Variation "four pawns attack, fianchetto variation"]
+[HashCode "b8b4667f"]
+[Epoch "Rook"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. c4 Nb6 5. f4 g6 6. Nc3 dxe5 7. fxe5 Bg7 8.
+Be3 O-O 9. Nf3 c5 10. dxc5 N6d7 11. e6 fxe6 12. Be2 Qa5 13. O-O Nxc5 14.
+Qe1 Bf6 15. Rd1 Nc6 16. Ng5 Kg7 17. Qh4 Rh8 18. Rxf6 exf6 19. Nge4 Nxe4 20.
+Qh6+ Kf7 21. Nxe4 Qc7 22. Nxf6 Ne7 23. Rf1 Nf5 24. Nxh7 Bd7 25. Rxf5+ 1-0
+

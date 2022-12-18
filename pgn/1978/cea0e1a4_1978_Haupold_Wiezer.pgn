@@ -1,0 +1,18 @@
+[Event "corr DDR-M"]
+[Site "corr DDR-M"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Haupold, E."]
+[Black "Wiezer, S."]
+[Result "1-0"]
+[ECO "B23"]
+[Opening "Sicilian"]
+[Variation "closed"]
+[HashCode "cea0e1a4"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nc3 e6 3. Nge2 Nc6 4. Ng3 Nge7 5. Bb5 a6 6. Bxc6 Nxc6 7. f4 Be7
+8. Qg4 g6 9. O-O b5 10. f5 Bf6 11. d3 Ne5 12. Qh3 Bg5 13. fxg6 fxg6 14. Nh5
+Qe7 15. Bxg5 Qxg5 16. Nf6+ Kd8 17. Rf2 h5 18. a4 b4 19. Ne2 Nc6 20. Raf1 d6
+21. Rf3 Ra7 22. Rg3 Qd2 23. Nf4 Nd4 24. Qh4 e5 25. Nxg6 1-0
+

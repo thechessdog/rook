@@ -1,0 +1,24 @@
+[Event "Kringsja"]
+[Site "Oslo"]
+[Date "1978.??.??"]
+[Round "1"]
+[White "Michelsen, Svein"]
+[Black "Ofstad, Per"]
+[Result "1-0"]
+[ECO "C81"]
+[Opening "Ruy Lopez"]
+[Variation "open, Howell attack, Ekstroem variation"]
+[HashCode "bd439a0d"]
+[Epoch "Rook"]
+[WhiteID "1500686"]
+[BlackID "1500708"]
+[WhiteCountry "NOR"]
+[BlackCountry "NOR"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Be6 9. Qe2 Be7 10. Rd1 O-O 11. c4 bxc4 12. Bxc4 Qd7 13. Nc3 Nxc3 14. bxc3 f6
+15. exf6 Bxf6 16. Ng5 Bxg5 17. Bxg5 Bf7 18. Be3 Qf5 19. Qd3 Qxd3 20. Bxd3 Ne5
+21. Be2 c6 22. Rab1 Bg6 23. Rb6 a5 24. Bd4 Rfe8 25. Kf1 Rac8 26. f4 Nf7 27. Bg4
+Rc7 28. Re1 Be4 29. Bf3 Bd3+ 30. Kf2 Rxe1 31. Kxe1 Rc8 32. Bg4 Re8+ 33. Kd2 Bc4
+34. Rb7 g6 35. a4 Nd6 36. Rg7+ Kf8 37. Rxh7 Nf7 38. f5 Ne5 39. Rh8+ Kf7 40.
+Rxe8 Kxe8 41. Bxe5 1-0

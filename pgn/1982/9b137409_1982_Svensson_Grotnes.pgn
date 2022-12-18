@@ -1,0 +1,19 @@
+[Event "Gausdal Young Men"]
+[Site "Gausdal"]
+[Date "1982.??.??"]
+[Round "3"]
+[White "Svensson, Bengt"]
+[Black "Grotnes, Nils"]
+[Result "1-0"]
+[ECO "B10"]
+[Opening "Caro-Kann"]
+[Variation "anti-Caro-Kann defence"]
+[HashCode "9b137409"]
+[Epoch "Rook"]
+[WhiteID "1722891"]
+[BlackID "1500317"]
+[WhiteCountry "SWE"]
+[BlackCountry "NOR"]
+
+1. e4 c6 2. c4 Qa5 3. Nc3 Nf6 4. Nf3 e5 5. Be2 Bb4 6. Qc2 d6 7. a3 Na6 8. Na2
+d5 9. axb4 1-0

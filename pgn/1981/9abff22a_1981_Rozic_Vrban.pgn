@@ -1,0 +1,18 @@
+[Event "corr YUG"]
+[Site "corr YUG"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Rozic, M."]
+[Black "Vrban, S."]
+[Result "1-0"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Nimzovich (knight's tour) variation"]
+[HashCode "9abff22a"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. Nd2 Bg7 8.
+Nc4 O-O 9. Bg5 Na6 10. Qd2 Nc7 11. a4 b6 12. e4 Re8 13. O-O-O Ba6 14. e5
+dxe5 15. d6 Bxc4 16. dxc7 Qxd2+ 17. Rxd2 Bxf1 18. Rxf1 Rac8 19. Rd6 Ng4 20.
+Rd8 e4 21. Rxe8+ Rxe8 22. Bd8 1-0
+

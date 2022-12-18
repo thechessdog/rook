@@ -1,0 +1,18 @@
+[Event "Denmark"]
+[Site "Denmark"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Nielsen, Jan"]
+[Black "Schyberg, Brian"]
+[Result "0-1"]
+[ECO "B20"]
+[Opening "Sicilian"]
+[Variation "Steinitz variation"]
+[HashCode "639a0a03"]
+[Epoch "Rook"]
+[BlackID "1405934"]
+[BlackCountry "DEN"]
+
+1. e4 c5 2. g3 d6 3. Bg2 Nc6 4. d3 Nf6 5. c3 g6 6. Bg5 Bg7 7. Ne2 h6 8. Bd2 O-O
+9. O-O Bd7 10. h3 b5 11. f4 Rb8 12. g4 Nh7 13. f5 b4 14. Qc1 bxc3 15. bxc3 Ne5
+16. Qc2 c4 17. Nc1 cxd3 18. Nxd3 Qb6+ 19. Kh1 Nxd3 20. Qxd3 Qb2 0-1

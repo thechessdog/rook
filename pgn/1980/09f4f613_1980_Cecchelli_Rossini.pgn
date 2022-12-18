@@ -1,0 +1,18 @@
+[Event "corr Italy"]
+[Site "corr Italy"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Cecchelli"]
+[Black "Rossini"]
+[Result "1-0"]
+[ECO "A00"]
+[Opening "Polish"]
+[Variation "Outflank variation"]
+[HashCode "09f4f613"]
+[Epoch "Rook"]
+
+1. b4 c6 2. Bb2 a5 3. b5 Qb6 4. e4 f6 5. Nc3 a4 6. Ba3 d6 7. Bc4 h5 8. Rb1
+Qc7 9. Nge2 e5 10. d4 Nd7 11. bxc6 bxc6 12. d5 Nb6 13. Rxb6 Qxb6 14. dxc6
+Ba6 15. Bd5 Rd8 16. Bxg8 d5 17. Bxf8 Rxg8 18. Nxd5 Qxc6 19. Ba3 Qc4 20.
+Nec3 Kf7 21. Qxh5+ g6 22. Qf3 Qc6 23. h4 Bc4 24. Be7 1-0
+

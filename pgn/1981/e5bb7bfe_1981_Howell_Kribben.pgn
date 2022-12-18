@@ -1,0 +1,18 @@
+[Event "Biel op"]
+[Site "Biel"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Howell, James C"]
+[Black "Kribben, N."]
+[Result "1-0"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "e5bb7bfe"]
+[Epoch "Rook"]
+[WhiteID "400297"]
+[WhiteCountry "ENG"]
+
+1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. d4 Nc6 5. Nf3 Bg4 6. Be2 cxd4 7. cxd4 e6 8.
+Nc3 Qd8 9. O-O Nf6 10. h3 Bh5 11. Qb3 Rb8 12. Rd1 Nd5 13. Nxd5 Qxd5 14. Bc4 Qd7
+15. d5 Bxf3 16. Qxf3 Ne5 17. Qg3 Rc8 18. Qxe5 Rxc4 19. Bg5 1-0

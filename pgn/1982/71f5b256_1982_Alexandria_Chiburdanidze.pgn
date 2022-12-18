@@ -1,0 +1,21 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Alexandria, Nana"]
+[Black "Chiburdanidze, Maia"]
+[Result "0-1"]
+[ECO "A42"]
+[Opening "Modern defence"]
+[Variation "Averbakh system, Kotov variation"]
+[HashCode "71f5b256"]
+[Epoch "Rook"]
+[WhiteID "13600230"]
+[WhiteCountry "GEO"]
+[BlackID "13600036"]
+[BlackCountry "GEO"]
+
+1. d4 g6 2. c4 Bg7 3. Nc3 d6 4. e4 Nc6 5. d5 Nd4 6. Nge2 c5 7. Nxd4 cxd4 8. Nb5
+Qb6 9. c5 dxc5 10. Bf4 Kf8 11. b4 d3 12. Bxd3 Qf6 13. Nc7 Qxf4 14. Nxa8 Bc3+
+15. Kf1 cxb4 16. Rc1 Nf6 17. f3 Kg7 18. a3 Ng4 19. g3 Qf6 20. Qe2 Bd4 21. axb4
+Nf2 22. f4 Bh3+ 23. Ke1 Rxa8 24. Rf1 Nxd3+ 25. Qxd3 Bxf1 26. Kxf1 Bb6 0-1

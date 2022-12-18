@@ -1,0 +1,21 @@
+[Event "corr DDR-FSM"]
+[Site "corr DDR-FSM"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Walther, J."]
+[Black "Fechner, J."]
+[Result "0-1"]
+[ECO "C69"]
+[Opening "Ruy Lopez"]
+[Variation "exchange variation, Alapin gambit"]
+[HashCode "62519971"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O Bg4 6. h3 h5 7. d3 Qf6 8.
+Nbd2 Ne7 9. Nc4 Bxf3 10. Qxf3 Qxf3 11. gxf3 Ng6 12. Be3 O-O-O 13. a4 f6 14.
+Rfb1 c5 15. Kf1 Be7 16. Ke2 Nf8 17. a5 g5 18. c3 Ne6 19. b4 cxb4 20. cxb4
+c6 21. Rb2 h4 22. Rc1 Kd7 23. Nb6+ Ke8 24. Na4 Rh7 25. Rcb1 Rf7 26. Nb6 Bf8
+27. Nc4 Rh7 28. Nb6 Kf7 29. Na4 Kg6 30. Nc5 Bxc5 31. bxc5 Rdd7 32. Rb3 Rhe7
+33. Rb4 f5 34. exf5+ Kxf5 35. R1b2 Nf4+ 36. Bxf4 gxf4 37. Rb1 Rg7 38. R4b3
+Ke6 39. Rb4 Kd5 0-1
+

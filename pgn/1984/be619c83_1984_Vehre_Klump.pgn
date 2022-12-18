@@ -1,0 +1,18 @@
+[Event "Findlay,OH"]
+[Site "Findlay,OH"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Vehre, John"]
+[Black "Klump, Henry"]
+[Result "1-0"]
+[ECO "E76"]
+[Opening "King's Indian"]
+[Variation "Four pawns attack"]
+[HashCode "be619c83"]
+[Epoch "Rook"]
+[WhiteCountry "USA"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f4 O-O 6. Nf3 Bg4 7. e5 Bxf3 8. Qxf3
+dxe5 9. dxe5 Nh5 10. g4 Nxf4 11. Bxf4 c6 12. Rd1 Qa5 13. Qe3 Na6 14. Bd3 Rfd8
+15. O-O Rd7 16. Bb1 Rad8 17. Rxd7 Rxd7 18. e6 Bd4 19. exf7+ Kxf7 20. Be5+ Ke8
+21. Bxd4 1-0

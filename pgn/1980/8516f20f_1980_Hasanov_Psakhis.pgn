@@ -1,0 +1,23 @@
+[Event "Alma Ata"]
+[Site "Alma Ata"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Hasanov, Marat"]
+[Black "Psakhis, Lev"]
+[Result "1-0"]
+[ECO "A72"]
+[Opening "Benoni"]
+[Variation "classical without 9.O-O"]
+[HashCode "8516f20f"]
+[Epoch "Rook"]
+[WhiteID "4112490"]
+[WhiteCountry "RUS"]
+[BlackID "2800012"]
+[BlackCountry "ISR"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. e4 Bg7 8. Be2
+O-O 9. Nd2 Nbd7 10. O-O Re8 11. a4 Ne5 12. Ra3 g5 13. Re1 g4 14. Nf1 a6 15. Ng3
+Bd7 16. Bg5 h6 17. Bh4 Qc8 18. a5 Ng6 19. Bxf6 Bxf6 20. Na4 Bd8 21. Nb6 Bxb6
+22. axb6 Ne5 23. f4 gxf3 24. gxf3 Qd8 25. f4 Ng6 26. Bg4 Kh7 27. Bxd7 Qxd7 28.
+Nh5 Qe7 29. Rg3 Qh4 30. Qg4 Qxg4 31. Nf6+ Kh8 32. Rxg4 Re7 33. h4 Kg7 34. e5 h5
+35. Nxh5+ Kh6 36. Ng3 1-0

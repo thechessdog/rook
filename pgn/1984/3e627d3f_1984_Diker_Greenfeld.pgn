@@ -1,0 +1,23 @@
+[Event "Beer Sheva"]
+[Site "Beer Sheva"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Diker, Michael"]
+[Black "Greenfeld, Alon"]
+[Result "0-1"]
+[ECO "B92"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Opovcensky variation"]
+[HashCode "3e627d3f"]
+[Epoch "Rook"]
+[BlackID "2800039"]
+[BlackCountry "ISR"]
+[WhiteID "2800748"]
+[WhiteCountry "ISR"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8. Be3
+Be6 9. O-O O-O 10. f4 exf4 11. Rxf4 Nc6 12. Nd5 Bxd5 13. exd5 Ne5 14. Rb4 Qc7
+15. a4 Rfe8 16. Bb6 Qc8 17. Bf2 Nfd7 18. c3 Bg5 19. a5 Nf6 20. Qd4 h5 21. h3
+Neg4 22. Bxg4 hxg4 23. h4 Bh6 24. Qd3 Re5 25. Bd4 Rxd5 26. Rf1 Nh5 27. Qe4 Qe6
+28. Qxe6 fxe6 29. Rxb7 e5 30. c4 Rxd4 31. Nxd4 exd4 32. Rf5 Re8 33. Rxh5 g3 34.
+Kf1 Bd2 0-1

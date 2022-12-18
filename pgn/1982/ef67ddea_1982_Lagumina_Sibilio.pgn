@@ -1,0 +1,20 @@
+[Event "Arco di Trento"]
+[Site "Arco di Trento"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Lagumina, Giulio"]
+[Black "Sibilio, Mario"]
+[Result "0-1"]
+[ECO "B27"]
+[Opening "Sicilian"]
+[Variation "Katalimov variation"]
+[HashCode "ef67ddea"]
+[Epoch "Rook"]
+[WhiteID "800619"]
+[BlackID "800422"]
+[WhiteCountry "ITA"]
+[BlackCountry "ITA"]
+
+1. e4 c5 2. Nf3 b6 3. d4 cxd4 4. Nxd4 Bb7 5. Nc3 a6 6. Bd3 e6 7. O-O Qc7 8. Be3
+Nf6 9. f4 d6 10. Qf3 h5 11. h3 Nbd7 12. a4 Nc5 13. Nb3 d5 14. Nxc5 bxc5 15.
+exd5 exd5 16. Rfe1 Be7 17. Bf2 c4 18. Bf5 g6 19. Bd4 gxf5 20. Qe3 Rh6 0-1

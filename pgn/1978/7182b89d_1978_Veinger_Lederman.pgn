@@ -1,0 +1,22 @@
+[Event "Beer Sheva"]
+[Site "Beer Sheva"]
+[Date "1978.02.01"]
+[Round "1"]
+[White "Veinger, Itzchak"]
+[Black "Lederman, Leon"]
+[Result "1-0"]
+[ECO "E04"]
+[Opening "Catalan"]
+[Variation "open, 5.Nf3"]
+[HashCode "7182b89d"]
+[Epoch "Rook"]
+[BlackID "2800403"]
+[BlackCountry "ISR"]
+
+1. c4 Nf6 2. Nf3 e6 3. g3 d5 4. d4 dxc4 5. Bg2 b6 6. Ne5 Nd5 7. Qa4+ c6 8. Qxc4
+Bb7 9. O-O Be7 10. Rd1 O-O 11. e4 Nf6 12. Nc3 Qc8 13. Bh3 b5 14. Qe2 Nbd7 15.
+Bf4 Nxe5 16. Bxe5 Nd7 17. Bf4 Nb6 18. d5 cxd5 19. Nxd5 Bxd5 20. exd5 Qe8 21.
+Bg2 exd5 22. Bxd5 Nxd5 23. Rxd5 Bf6 24. Qxb5 Qxb5 25. Rxb5 Rfc8 26. Rc1 Rxc1+
+27. Bxc1 Bd4 28. Kg2 g6 29. Kf3 Rc8 30. Be3 Bxe3 31. Kxe3 Rc2 32. a4 Kg7 33. a5
+Kf6 34. Rb7 g5 35. b4 Rb2 36. b5 Ke5 37. f4+ gxf4+ 38. gxf4+ Kd6 39. Rxf7 Rxb5
+40. Rxa7 Rh5 41. a6 Rxh2 42. Ra8 Kc6 43. f5 Rh1 44. f6 Rf1 45. Rb8 1-0

@@ -1,0 +1,20 @@
+[Event "Eeklo"]
+[Site "Eeklo"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Karp"]
+[Black "Janssen, Lieselotte"]
+[Result "0-1"]
+[ECO "E47"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 O-O, 5.Bd3"]
+[HashCode "c8e89d24"]
+[Epoch "Rook"]
+[BlackID "4612515"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d6 6. Ne2 e5 7. O-O Re8 8. Qc2
+Bxc3 9. Nxc3 Qe7 10. Bd2 e4 11. Be2 Bf5 12. Nd5 Qd8 13. Rac1 Nbd7 14. b4 c6 15.
+Nc3 Nf8 16. d5 Ng6 17. Qb3 Ne5 18. Na4 Nfg4 19. Nb2 Qh4 20. h3 Nf3+ 21. Bxf3
+exf3 22. gxf3 Qxh3 23. fxg4 Qxg4+ 24. Kh2 Qh3+ 25. Kg1 Be4 26. f3 Qg3+ 27. Kh1
+Re5 0-1

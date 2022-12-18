@@ -1,0 +1,18 @@
+[Event "Roskilde"]
+[Site "Roskilde"]
+[Date "1978.01.01"]
+[Round "2"]
+[White "Rajna, George"]
+[Black "Schneider, Lars-Ake"]
+[Result "1/2-1/2"]
+[ECO "B62"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Keres variation"]
+[HashCode "b119669e"]
+[Epoch "Rook"]
+[WhiteID "2801566"]
+[WhiteCountry "ISR"]
+[BlackCountry "SWE"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd3 a6 8. f4
+Bd7 9. O-O-O b5 10. Nf3 1/2-1/2

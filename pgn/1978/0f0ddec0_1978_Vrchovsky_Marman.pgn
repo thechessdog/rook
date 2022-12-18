@@ -1,0 +1,18 @@
+[Event "Bohemians-B"]
+[Site "Prague"]
+[Date "1978.??.??"]
+[Round "2"]
+[White "Vrchovsky, V."]
+[Black "Marman, Vladimir"]
+[Result "1/2-1/2"]
+[ECO "E54"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Gligoric system with 7...dc"]
+[HashCode "0f0ddec0"]
+[Epoch "Rook"]
+[BlackID "14901374"]
+[BlackCountry "SVK"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 d5 5. Bd3 O-O 6. Nf3 c5 7. O-O dxc4 8. Bxc4
+b6 9. a3 cxd4 10. axb4 dxc3 11. Qxd8 Rxd8 12. bxc3 Bb7 13. Be2 Nc6 14. Bb2 Kf8
+15. Rfd1 Rxd1+ 16. Rxd1 Ke8 17. Kf1 Rd8 18. Rxd8+ Kxd8 1/2-1/2

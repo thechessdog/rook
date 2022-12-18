@@ -1,0 +1,19 @@
+[Event "Havana"]
+[Site "Havana"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Zapata, Alonso"]
+[Black "Mihaljcisin, Mihajlo"]
+[Result "1/2-1/2"]
+[ECO "C87"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Averbach variation"]
+[HashCode "aa0ec6ce"]
+[Epoch "Rook"]
+[WhiteID "4400011"]
+[WhiteCountry "COL"]
+[BlackCountry "SRB"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 d6 7. c3 Bg4 8. d3
+O-O 9. Nbd2 Re8 10. h3 Bd7 11. Nf1 Bf8 12. Ng3 g6 13. d4 Bg7 14. Bc2 Qe7
+1/2-1/2

@@ -1,0 +1,19 @@
+[Event "corr ICCF"]
+[Site "corr ICCF"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Gaspero"]
+[Black "Strelis"]
+[Result "0-1"]
+[ECO "A93"]
+[Opening "Dutch"]
+[Variation "stonewall, Botwinnik variation"]
+[HashCode "a8e620df"]
+[Epoch "Rook"]
+
+1. d4 f5 2. g3 Nf6 3. Bg2 e6 4. Nf3 Be7 5. O-O O-O 6. c4 d5 7. b3 c6 8. Ne5
+Nbd7 9. Nd3 Ne4 10. Bb2 g5 11. f3 Nd6 12. c5 Nf7 13. b4 Bf6 14. f4 gxf4 15.
+gxf4 Kh8 16. a4 Rg8 17. Kh1 Nh6 18. Ne5 Bxe5 19. dxe5 Ng4 20. Bd4 b6 21.
+Ra3 Rg6 22. Qc2 Ba6 23. Rh3 Rb8 24. cxb6 axb6 25. Qxc6 Rc8 26. Qd6 Bxe2 27.
+Re1 Rc4 28. Bg1 Rc2 29. Bxd5 exd5 30. e6 Qh4 0-1
+

@@ -1,0 +1,20 @@
+[Event "US Open"]
+[Site "US Open"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "DeMerse, Irwin"]
+[Black "Pain, Robert"]
+[Result "0-1"]
+[ECO "A46"]
+[Opening "Queen's pawn"]
+[Variation "Yusupov-Rubinstein system"]
+[HashCode "45940a06"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. Nf3 e6 3. e3 b6 4. Bd3 Bb7 5. Nbd2 Be7 6. e4 c5 7. dxc5 bxc5
+8. e5 Nd5 9. O-O f5 10. c4 Nf4 11. Nb3 Nxd3 12. Qxd3 g5 13. Ne1 Nc6 14. f4
+g4 15. Bd2 Qc7 16. Qe3 Nd4 17. Na5 Be4 18. Rc1 Rg8 19. Bc3 h5 20. Qd2 Nf3+
+21. gxf3 gxf3+ 22. Kf2 Bh4+ 23. Ke3 Be7 24. Nxf3 d5 25. exd6 Bxd6 26. Ne5
+O-O-O 27. Qe1 Bxe5 28. Bxe5 Rd3+ 29. Ke2 Qd8 30. Nb3 Rg2+ 31. Rf2 Bf3+ 32.
+Kf1 Qg8 33. Rxf3 Rxf3+ 0-1
+

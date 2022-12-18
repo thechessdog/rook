@@ -1,0 +1,19 @@
+[Event "Sweden"]
+[Site "Sweden"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Lind, Jan Olov"]
+[Black "Unander, Matts"]
+[Result "1-0"]
+[ECO "B89"]
+[Opening "Sicilian"]
+[Variation "Sozin, 7.Be3"]
+[HashCode "b7fd6a80"]
+[Epoch "Rook"]
+[BlackID "1701541"]
+[BlackCountry "SWE"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bc4 e6 7. Be3 a6 8. Qe2
+Qc7 9. O-O-O Be7 10. Bb3 O-O 11. g4 Nd7 12. Nf5 exf5 13. Nd5 Qd8 14. gxf5 Na5
+15. Rhg1 Nxb3+ 16. axb3 Kh8 17. Rg3 Re8 18. Qh5 Bf8 19. Rh3 h6 20. Bxh6 gxh6
+21. Rg1 Nf6 22. Qxf7 Qd7 23. Qxf6+ Bg7 24. Rxg7 1-0

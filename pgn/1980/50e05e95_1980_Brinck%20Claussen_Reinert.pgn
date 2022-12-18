@@ -1,0 +1,24 @@
+[Event "Hillerod"]
+[Site "Hillerod"]
+[Date "1980.01.01"]
+[Round "2"]
+[White "Brinck-Claussen, Bjorn"]
+[Black "Reinert, Mads"]
+[Result "1-0"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Nimzovich (knight's tour) variation"]
+[HashCode "50e05e95"]
+[Epoch "Rook"]
+[BlackID "1400487"]
+[BlackCountry "DEN"]
+[WhiteCountry "DEN"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. Nd2 Bg7 8. Nc4
+O-O 9. Bg5 h6 10. Bh4 b6 11. a4 Ba6 12. e3 Qe7 13. Rc1 Bxc4 14. Bxc4 Nbd7 15.
+O-O g5 16. Bg3 Ne8 17. Bd3 f5 18. f4 Qxe3+ 19. Kh1 gxf4 20. Bxf4 Qe7 21. Qc2
+Be5 22. Ne2 Ng7 23. Bxh6 Qh4 24. Bf4 Rf6 25. g3 Qh5 26. Qd2 Kf7 27. Bg5 Bxb2
+28. Rc2 Rh8 29. Ng1 Be5 30. Bxf6 Nxf6 31. Qg2 Qg4 32. Ne2 Qxa4 33. Rc4 Qb3 34.
+Nc1 Qa3 35. Qf3 Ke7 36. Kg2 Rh5 37. Rc2 Qb4 38. Bc4 Ng4 39. h3 Nf6 40. Nd3 Qa4
+41. Qe2 Ne4 42. Nxe5 dxe5 43. Ra2 Qd7 44. Bd3 Nc3 45. Qxe5+ Kf8 46. Bxf5 Kg8
+47. Qb8+ Qe8 48. Qxe8+ Nxe8 49. Rxa7 1-0

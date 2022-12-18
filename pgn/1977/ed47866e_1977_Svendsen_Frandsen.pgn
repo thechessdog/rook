@@ -1,0 +1,18 @@
+[Event "Espergarde op"]
+[Site "Espergarde"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Svendsen, Niels Leth"]
+[Black "Frandsen, Ole"]
+[Result "0-1"]
+[ECO "C01"]
+[Opening "French"]
+[Variation "exchange variation"]
+[HashCode "ed47866e"]
+[Epoch "Rook"]
+[WhiteID "1411420"]
+[WhiteCountry "DEN"]
+
+1. d4 e6 2. e4 d5 3. exd5 exd5 4. Bd3 Bd6 5. Nc3 Ne7 6. Nge2 c6 7. Ng3 Ng6 8.
+Nce2 Qe7 9. O-O O-O 10. c3 f5 11. f4 Be6 12. Qc2 Qf7 13. Bd2 Nd7 14. Rae1 c5
+15. dxc5 Nxc5 16. Nd4 Ne4 17. Bxe4 dxe4 18. Nxe4 fxe4 19. f5 Bc4 0-1

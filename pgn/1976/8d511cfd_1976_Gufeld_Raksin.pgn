@@ -1,0 +1,25 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Gufeld, Eduard"]
+[Black "Raksin"]
+[Result "1-0"]
+[ECO "B31"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (with ...g6, without ...d6)"]
+[HashCode "8d511cfd"]
+[Epoch "Rook"]
+[WhiteCountry "RUS"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. Re1 Nf6 6. c3 O-O 7. h3 d5 8. e5
+Ne8 9. d4 cxd4 10. cxd4 Bd7 11. Nc3 Nc7 12. Bf1 a6 13. Bf4 b5 14. Rc1 Qb8 15.
+Qd2 Qb6 16. g3 Rac8 17. Bg2 Rfd8 18. g4 Be8 19. Red1 Na5 20. b3 b4 21. Ne2 Ne6
+22. Bh6 Rxc1 23. Rxc1 Nc6 24. Bxg7 Kxg7 25. Rd1 Rc8 26. Nh2 Qd8 27. f4 Nc7 28.
+Nf1 f5 29. Ne3 e6 30. Kh2 Nb5 31. Qe1 Nc3 32. Nxc3 bxc3 33. Rd3 Nxd4 34. Rxd4
+c2 35. Nc4 Qe7 36. gxf5 gxf5 37. Rd2 dxc4 38. Rxc2 Bb5 39. Bf1 c3 40. Bxb5 axb5
+41. Rxc3 Rxc3 42. Qxc3 Qa7 43. Qd2 Kf7 44. Kg2 Qb7+ 45. Kg3 Qa7 46. Qf2 Qd7 47.
+Qf3 Kg6 48. Qa8 Kg7 49. a4 bxa4 50. bxa4 Qd3+ 51. Qf3 Qd2 52. Qg2 Qe1+ 53. Kh2+
+Kf7 54. Qb7+ Kg6 55. Qc6 Kf7 56. Qd7+ Kf8 57. Qd8+ Kf7 58. Qf6+ Kg8 59. Qxe6+
+Kg7 60. Qf6+ Kg8 61. Qg5+ Kh8 62. Qd8+ Kg7 63. Qd4 Kf7 64. Kg2 Kf8 65. Qd3 Ke7
+66. Qxf5 1-0

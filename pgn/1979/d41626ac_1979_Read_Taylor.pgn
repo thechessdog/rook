@@ -1,0 +1,19 @@
+[Event "Ohio Scholastic"]
+[Site "Ohio Scholastic"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Read, J."]
+[Black "Taylor, N."]
+[Result "0-1"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Paulsen attack"]
+[HashCode "d41626ac"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Nh6 6. Bxh6 gxh6 7. Qc1 Qb6 8.
+Qd2 Bd7 9. g3 O-O-O 10. Be2 cxd4 11. cxd4 Bg7 12. O-O f6 13. Rc1 fxe5 14.
+dxe5 Kb8 15. Nc3 Ka8 16. Rab1 Nxe5 17. Nxe5 Bxe5 18. Qxh6 Bd4 19. Rf1 Rhf8
+20. Nd1 e5 21. Qxb6 Bxb6 22. Nc3 Bh3 23. Rfd1 Rxf2 24. Rxd5 Rxe2+ 25. Kh1
+Bg2# 0-1
+

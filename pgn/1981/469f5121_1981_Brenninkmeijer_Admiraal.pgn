@@ -1,0 +1,19 @@
+[Event "Netherlands"]
+[Site "Netherlands"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Brenninkmeijer, Joris"]
+[Black "Admiraal"]
+[Result "0-1"]
+[ECO "C48"]
+[Opening "Four knights"]
+[Variation "Spanish variation"]
+[HashCode "469f5121"]
+[Epoch "Rook"]
+[WhiteID "1000047"]
+[WhiteCountry "NED"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Bb5 d6 5. O-O Bg4 6. h3 Bh5 7. Re1 Qd7 8. d3
+h6 9. Bd2 a6 10. Ba4 b5 11. Bb3 Nd4 12. Kh2 g5 13. Rg1 g4 14. Nxd4 g3+ 15. fxg3
+Bxd1 16. Raxd1 exd4 17. Ne2 c5 18. Rdf1 Be7 19. Rf2 d5 20. a3 dxe4 21. dxe4 c4
+0-1

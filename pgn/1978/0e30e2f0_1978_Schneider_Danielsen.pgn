@@ -1,0 +1,20 @@
+[Event "Roskilde"]
+[Site "Roskilde"]
+[Date "1978.01.01"]
+[Round "3"]
+[White "Schneider, Lars-Ake"]
+[Black "Danielsen, Verner"]
+[Result "1-0"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "Indian variation"]
+[HashCode "0e30e2f0"]
+[Epoch "Rook"]
+[WhiteCountry "SWE"]
+
+1. b3 Nf6 2. Bb2 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2 Be7 6. c4 O-O 7. O-O c5 8. d4 d6
+9. Nc3 Ne4 10. Qd3 d5 11. cxd5 exd5 12. Rad1 Nxc3 13. Bxc3 Na6 14. Ne5 Nc7 15.
+dxc5 bxc5 16. Qf5 Qc8 17. Qxc8 Raxc8 18. Ba5 Ba6 19. Rfe1 Bf6 20. Nd7 Rfe8 21.
+Nxf6+ gxf6 22. e3 d4 23. Bc6 Red8 24. exd4 Rxd4 25. Bc3 Rxd1 26. Rxd1 Ne8 27.
+Bd7 Rd8 28. Ba5 Rb8 29. Rc1 Bb5 30. Bg4 h5 31. Bxh5 Rc8 32. Bg4 Rc6 33. Bd7 Ra6
+34. Bxb5 1-0

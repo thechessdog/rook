@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Mourier"]
+[Black "Dickel, K."]
+[Result "1-0"]
+[ECO "B33"]
+[Opening "Sicilian"]
+[Variation "Pelikan (Lasker/Sveshnikov) variation"]
+[HashCode "a9bcb60a"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Nd5 Nxd5
+8. exd5 Nb8 9. c4 a6 10. Qa4 Bd7 11. Qa3 Bf5 12. Bd2 Nc6 13. dxc6 axb5 14.
+Qf3 Be6 15. cxb5 bxc6 16. bxc6 Rxa2 17. Rxa2 Bxa2 18. Bb5 Qc7 19. Qa3 Bd5
+20. Qa8+ Ke7 21. Ba5 1-0
+

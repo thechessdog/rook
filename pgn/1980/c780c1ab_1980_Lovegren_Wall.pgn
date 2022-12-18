@@ -1,0 +1,15 @@
+[Event "Dayton,OH"]
+[Site "Dayton,OH"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Lovegren"]
+[Black "Wall, Bill"]
+[Result "0-1"]
+[ECO "C34"]
+[Opening "King's knight's gambit"]
+[HashCode "c780c1ab"]
+[Epoch "Rook"]
+[BlackCountry "USA"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. d3 Nc6 5. d4 g4 6. Ne5 Nxe5 7. dxe5 Qh4+ 8.
+Kd2 Qf2+ 9. Kd3 Bc5 10. c3 d5 11. Qe2 dxe4+ 12. Qxe4 Be6 13. Bxf4 Rd8+ 0-1

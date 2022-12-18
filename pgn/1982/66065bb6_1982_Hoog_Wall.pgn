@@ -1,0 +1,20 @@
+[Event "Dayton,OH"]
+[Site "Dayton,OH"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Hoog"]
+[Black "Wall, Bill"]
+[Result "1-0"]
+[ECO "E32"]
+[Opening "Nimzo-Indian"]
+[Variation "classical variation"]
+[HashCode "66065bb6"]
+[Epoch "Rook"]
+[BlackCountry "USA"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 O-O 5. e3 b6 6. Nf3 Bb7 7. Be2 Ne4 8. Bd2
+Nxd2 9. Qxd2 d5 10. cxd5 exd5 11. a3 Be7 12. O-O Nd7 13. Rac1 c5 14. Rc2 c4 15.
+Qe1 Nf6 16. Bd1 Bd6 17. h3 Re8 18. Re2 Ne4 19. Bc2 Ng5 20. Nd2 Nxh3+ 21. gxh3
+Qg5+ 22. Kh1 Bc8 23. f4 Qh5 24. Qg3 Re6 25. Qg4 Rh6 26. Qxh5 Rxh5 27. Rh2 g5
+28. Rg1 Kh8 29. Nxd5 Bb7 30. Be4 gxf4 31. Nxf4 Bxf4 32. exf4 Bxe4+ 33. Nxe4 Rh4
+34. Rg4 1-0

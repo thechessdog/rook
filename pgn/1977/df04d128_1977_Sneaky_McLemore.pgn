@@ -1,0 +1,23 @@
+[Event "Cardinal Open,OH"]
+[Site "Cardinal Open,OH"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Sneaky Pete"]
+[Black "McLemore, Shawn"]
+[Result "1-0"]
+[ECO "C43"]
+[Opening "Petrov"]
+[Variation "modern (Steinitz) attack"]
+[HashCode "df04d128"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nf6 3. d4 exd4 4. e5 Nc6 5. exf6 Qxf6 6. Bd3 Bb4+ 7. Nbd2
+Qe6+ 8. Qe2 Qxe2+ 9. Kxe2 O-O 10. Nb3 d6 11. Nbxd4 Nxd4+ 12. Nxd4 Re8+ 13.
+Be3 Bc5 14. c3 Bg4+ 15. Kd2 a5 16. Nf5 Bxf5 17. Bxf5 Bxe3+ 18. fxe3 g6 19.
+Bd3 c5 20. Rhf1 Rab8 21. Rf4 b5 22. Re1 b4 23. a3 bxc3+ 24. Kxc3 a4 25.
+Rxa4 d5 26. Ra5 Rbc8 27. a4 Red8 28. Rb5 d4+ 29. Kc4 dxe3 30. Rxe3 Rd4+ 31.
+Kc3 Rxa4 32. Rb6 c4 33. Be2 Kg7 34. Re4 h5 35. Rxc4 Raxc4+ 36. Bxc4 Kh6 37.
+Rf6 Rc7 38. Rxf7 Rxf7 39. Bxf7 g5 40. b4 g4 41. b5 Kg5 42. b6 h4 43. b7 Kf6
+44. Bc4 h3 45. gxh3 gxh3 46. b8=Q Kf5 47. Qg3 Ke4 48. Qxh3 Ke5 49. Qe3+ Kf5
+50. Kd4 Kf6 51. h4 Kg7 52. h5 Kf6 53. Qe5# 1-0
+

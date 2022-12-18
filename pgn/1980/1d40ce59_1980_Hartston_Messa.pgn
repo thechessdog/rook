@@ -1,0 +1,22 @@
+[Event "Berlin tt"]
+[Site "Berlin-West"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Hartston, William R"]
+[Black "Messa, Roberto"]
+[Result "1-0"]
+[ECO "D32"]
+[Opening "QGD"]
+[Variation "Tarrasch, von Hennig-Schara gambit"]
+[HashCode "1d40ce59"]
+[Epoch "Rook"]
+[WhiteID "400262"]
+[WhiteCountry "ENG"]
+[BlackID "800457"]
+[BlackCountry "ITA"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c5 4. cxd5 cxd4 5. Qa4+ Bd7 6. Qxd4 exd5 7. Qxd5 Nc6
+8. Nf3 Nf6 9. Qd1 Bc5 10. e3 Qe7 11. Be2 g5 12. O-O g4 13. Nd4 O-O-O 14. b4 Bb6
+15. b5 Ne5 16. Qb3 g3 17. fxg3 Neg4 18. Bxg4 Bxg4 19. Na4 Bxd4 20. exd4 Nd5 21.
+Bf4 Nxf4 22. Rxf4 Be6 23. Qe3 Rhe8 24. Re1 Qd7 25. Qd3 b6 26. Nc3 Bf5 27. Qc4+
+Kb8 28. Rxe8 Rxe8 29. d5 Re3 30. Qd4 Rd3 31. Qe5+ Kb7 32. Qxf5 1-0

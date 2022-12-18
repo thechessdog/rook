@@ -1,0 +1,23 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Hansen, Soren Bech"]
+[Black "Villadsen, Leo"]
+[Result "0-1"]
+[ECO "C65"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence, 4.O-O"]
+[HashCode "cae1e82c"]
+[Epoch "Rook"]
+[WhiteID "1400681"]
+[WhiteCountry "DEN"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Be7 5. Re1 d6 6. h3 O-O 7. c3 a6 8. Ba4
+Be6 9. d4 exd4 10. cxd4 d5 11. e5 Ne4 12. Nc3 Ng5 13. Nxg5 Bxg5 14. f4 Bh4 15.
+Rf1 f5 16. Be3 Kh8 17. Qf3 b5 18. Bb3 g5 19. Qh5 gxf4 20. Bxf4 Nxd4 21. Bxd5
+Bxd5 22. Rad1 Bc4 23. e6 Bxf1 24. Be5+ Bf6 25. Rxd4 Qe8 26. Qxf5 Qg6 27. Qxg6
+hxg6 28. Bxf6+ Rxf6 29. e7 Rd6 30. Rh4+ Kg7 31. Kxf1 Re8 32. Re4 Kf7 33. Rf4+
+Kxe7 34. Ne4 Rd4 35. Rg4 Kf8 36. Nf6 Rxg4 37. Nxg4 Re6 38. Kf2 c5 39. Ne3 c4
+40. a3 Ke7 41. Ke2 Kd6 42. Kd2 Kc5 43. h4 a5 44. g4 b4 45. h5 gxh5 46. gxh5 Rh6
+47. axb4+ axb4 48. Kc2 Rxh5 49. Kb1 b3 0-1

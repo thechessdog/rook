@@ -1,0 +1,18 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Hauszler"]
+[Black "Balimann"]
+[Result "1/2-1/2"]
+[ECO "C36"]
+[Opening "KGA"]
+[Variation "Abbazia defence, modern variation"]
+[HashCode "57e05624"]
+[Epoch "Rook"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 d5 4. exd5 Nf6 5. c4 b5 6. d4 Bb4+ 7. Nc3 O-O 8.
+Bd2 c6 9. Be2 Bg4 10. O-O bxc4 11. Ne5 Bxe2 12. Qxe2 Bxc3 13. bxc3 cxd5 14.
+Bxf4 Nbd7 15. Bg5 Qa5 16. Nxd7 Nxd7 17. Qg4 f5 18. Rxf5 Qxc3 19. Rxf8+ Nxf8
+20. Rf1 a6 1/2-1/2
+

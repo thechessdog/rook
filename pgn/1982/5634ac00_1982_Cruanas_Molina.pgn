@@ -1,0 +1,21 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Cruanas"]
+[Black "Molina"]
+[Result "1-0"]
+[ECO "C64"]
+[Opening "Ruy Lopez"]
+[Variation "classical defence, 4.c3"]
+[HashCode "5634ac00"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. c3 Nf6 5. d4 exd4 6. e5 Ne4 7. O-O d5 8.
+exd6 O-O 9. dxc7 Qf6 10. Bxc6 bxc6 11. cxd4 Bb6 12. Re1 Bf5 13. Bf4 Nd6 14.
+Bg5 Qg6 15. Be7 Rfe8 16. Ne5 Qh6 17. Bd8 Nb5 18. Qb3 Be6 19. Ng4 Qf4 20. d5
+Nd4 21. Qd1 cxd5 22. Nc3 Rf8 23. Ne3 Nc6 24. Ncxd5 Bxd5 25. Qxd5 Bxc7 26.
+Bxc7 Qxc7 27. Rac1 Rac8 28. Qg5 h6 29. Qb5 Rfe8 30. Red1 Re6 31. Nd5 Qe5
+32. f4 Qe2 33. Qxe2 Rxe2 34. Nb4 Rb8 35. Kf1 Re4 36. Nxc6 Rxb2 37. Nd4
+Rxf4+ 38. Nf3 Rxa2 39. Ra1 1-0
+

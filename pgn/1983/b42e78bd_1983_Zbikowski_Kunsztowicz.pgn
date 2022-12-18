@@ -1,0 +1,18 @@
+[Event "Duitsland tt"]
+[Site "Duitsland tt"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Zbikowski, Wolfgang"]
+[Black "Kunsztowicz, U."]
+[Result "1-0"]
+[ECO "B26"]
+[Opening "Sicilian"]
+[Variation "closed, 6.Be3"]
+[HashCode "b42e78bd"]
+[Epoch "Rook"]
+[WhiteID "4605896"]
+[WhiteCountry "GER"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. Be3 Bd7 7. Qd2 b5 8. Nge2
+b4 9. Nd1 Qc8 10. d4 cxd4 11. Nxd4 a5 12. O-O Nf6 13. Re1 Ne5 14. Bh6 Bxh6 15.
+Qxh6 Qc5 16. Nb3 Qxf2+ 17. Nxf2 1-0

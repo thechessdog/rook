@@ -1,0 +1,17 @@
+[Event "Erevan"]
+[Site "Erevan"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Knezevic, Milorad"]
+[Black "Vadasz, Laszlo"]
+[Result "1/2-1/2"]
+[ECO "A45"]
+[Opening "Trompovsky attack (Ruth, Opovcensky opening)"]
+[HashCode "27ada252"]
+[Epoch "Rook"]
+[WhiteID "950238"]
+[WhiteCountry "SRB"]
+[BlackCountry "HUN"]
+
+1. d4 Nf6 2. Bg5 c5 3. d5 d6 4. Nc3 g6 5. e4 Bg7 6. Nf3 O-O 7. Be2 Qa5 8. Bd2
+a6 1/2-1/2

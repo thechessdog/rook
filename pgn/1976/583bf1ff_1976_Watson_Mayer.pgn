@@ -1,0 +1,17 @@
+[Event "Vancouver"]
+[Site "Vancouver"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Watson"]
+[Black "Mayer"]
+[Result "1-0"]
+[ECO "A36"]
+[Opening "English"]
+[Variation "ultra-symmetrical variation"]
+[HashCode "583bf1ff"]
+[Epoch "Rook"]
+
+1. c4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. a3 a6 6. Rb1 Rb8 7. Qa4 e6 8. b4
+cxb4 9. axb4 Nge7 10. b5 axb5 11. cxb5 Qa5 12. bxc6 Bxc3 13. Qxa5 Bxa5 14.
+cxb7 O-O 15. bxc8=Q 1-0
+

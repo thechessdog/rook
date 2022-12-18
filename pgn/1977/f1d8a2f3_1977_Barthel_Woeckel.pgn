@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Barthel"]
+[Black "Woeckel"]
+[Result "1-0"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra gambit"]
+[HashCode "f1d8a2f3"]
+[Epoch "Rook"]
+
+1. e4 c5 2. d4 cxd4 3. c3 dxc3 4. Nxc3 e6 5. Nf3 a6 6. Bc4 b5 7. Bb3 Bb7 8.
+Qe2 Bb4 9. O-O Bxc3 10. bxc3 Ne7 11. Rd1 Nbc6 12. Ng5 Qc7 13. Qh5 g6 14.
+Qf3 O-O 15. Bf4 Qc8 16. Qh3 h5 17. g4 f6 18. Rxd7 Nd5 19. exd5 Qxd7 20.
+dxe6 Qe7 21. Bd6 Qxd6 22. e7+ Kh8 23. gxh5 fxg5 24. hxg6+ Kg7 25. Qh7+ Kf6
+26. exf8=Q+ 1-0
+

@@ -1,0 +1,18 @@
+[Event "Uki"]
+[Site "Uki"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Lehmusvaara, E."]
+[Black "Heinola, Kari P."]
+[Result "0-1"]
+[ECO "C63"]
+[Opening "Ruy Lopez"]
+[Variation "Schliemann defence, Berger variation"]
+[HashCode "8bdd22b1"]
+[Epoch "Rook"]
+[BlackID "503495"]
+[BlackCountry "FIN"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 f5 4. Nc3 fxe4 5. Nxe4 d5 6. Nxe5 dxe4 7. Nxc6 Qd5
+8. c4 Qd6 9. Nxa7+ Bd7 10. Bxd7+ Qxd7 11. Qh5+ g6 12. Qe5+ Kf7 13. Qxh8 Nf6 14.
+b3 Rd8 15. Bb2 Qxd2+ 16. Kf1 Qxb2 17. Re1 Be7 0-1

@@ -1,0 +1,19 @@
+[Event "corr EUR/K"]
+[Site "corr EUR/K"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Quist"]
+[Black "Mikenas"]
+[Result "1-0"]
+[ECO "E06"]
+[Opening "Catalan"]
+[Variation "closed, 5.Nf3"]
+[HashCode "d845e724"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Bg2 Be7 5. Nf3 O-O 6. O-O dxc4 7. Qc2 a6 8.
+a4 Nc6 9. Qxc4 Qd5 10. Nbd2 Rd8 11. e3 Rb8 12. Qc2 Qh5 13. e4 Bd7 14. Nb3
+Rbc8 15. h3 h6 16. Nh4 Nb4 17. Qd2 g5 18. Bf3 g4 19. hxg4 Nxg4 20. Kg2 f5
+21. Qe2 Bc6 22. d5 exd5 23. exf5 Bxh4 24. Bxg4 d4+ 25. Kh2 Qf7 26. gxh4 Bd5
+27. Bh5 Qxf5 28. Nxd4 Qf6 29. Rg1+ Kh8 30. Nf5 c5 31. Bf4 Nc6 32. Rg6 1-0
+

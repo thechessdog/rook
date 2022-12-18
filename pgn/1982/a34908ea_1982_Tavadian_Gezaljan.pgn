@@ -1,0 +1,17 @@
+[Event "Erevan"]
+[Site "Erevan"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Tavadian, Ragik"]
+[Black "Gezaljan, Tigran"]
+[Result "1-0"]
+[ECO "D27"]
+[Opening "QGA"]
+[Variation "classical, Rubinstein variation"]
+[HashCode "a34908ea"]
+[Epoch "Rook"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. e3 e6 5. Bxc4 c5 6. O-O a6 7. a4 Nc6 8.
+Qe2 cxd4 9. Rd1 d3 10. Bxd3 Qc7 11. Nc3 Bc5 12. Bd2 O-O 13. Rac1 Qe7 14.
+Ng5 Bd7 15. Nxh7 Nxh7 16. Bxh7+ Kxh7 17. Ne4 Bxe3 18. Bxe3 Kg8 19. Bc5 1-0
+

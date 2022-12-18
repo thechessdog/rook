@@ -1,0 +1,17 @@
+[Event "New York"]
+[Site "New York"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Antunac, J."]
+[Black "Iskov, Gert"]
+[Result "1/2-1/2"]
+[ECO "A46"]
+[Opening "Queen's pawn"]
+[Variation "Torre attack"]
+[HashCode "9da294f6"]
+[Epoch "Rook"]
+[BlackID "1400398"]
+[BlackCountry "DEN"]
+
+1. d4 Nf6 2. Nf3 e6 3. Bg5 h6 4. Bh4 b6 5. Nbd2 Bb7 6. e3 c5 7. Bd3 Be7 8. O-O
+O-O 9. c3 1/2-1/2

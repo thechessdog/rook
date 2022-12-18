@@ -1,0 +1,27 @@
+[Event "Espergarde op"]
+[Site "Espergarde"]
+[Date "1977.01.01"]
+[Round "2"]
+[White "Kallenberg, Ebbe"]
+[Black "Pedersen, Jesper"]
+[Result "0-1"]
+[ECO "B00"]
+[Opening "KP"]
+[Variation "Nimzovich defence"]
+[HashCode "905c5928"]
+[Epoch "Rook"]
+[WhiteID "1425684"]
+[WhiteCountry "DEN"]
+[BlackID "1417029"]
+[BlackCountry "DEN"]
+
+1. e4 Nc6 2. Nf3 d5 3. exd5 Qxd5 4. Nc3 Qa5 5. Bc4 Bg4 6. d4 O-O-O 7. Bd2 Qh5
+8. Be2 Nxd4 9. Nxd4 Rxd4 10. Nb5 Bxe2 11. Qxe2 Qxe2+ 12. Kxe2 Rd5 13. Nxa7+ Kb8
+14. Be3 Re5 15. Rhd1 Rxe3+ 16. fxe3 Kxa7 17. Rd8 Nf6 18. Rad1 g6 19. Rc8 Bg7
+20. Rxc7 Re8 21. Rd3 Kb8 22. Rc4 Rc8 23. Rxc8+ Kxc8 24. b3 Nd7 25. c4 Kc7 26.
+Rd1 Ne5 27. h3 Nc6 28. g4 Be5 29. Kf3 Nb4 30. a3 Nc6 31. g5 Bb2 32. a4 Be5 33.
+h4 Bd6 34. e4 Ne5+ 35. Ke2 Kc6 36. Rd5 Nd7 37. Ke3 Bg3 38. Rd1 Bxh4 39. Kf4 f6
+40. gxf6 Bxf6 41. Rd5 h5 42. b4 g5+ 43. Kf5 h4 44. b5+ Kc7 45. b6+ Kc6 46. a5
+h3 47. Rd3 g4 48. a6 bxa6 49. b7 h2 50. Rxd7 h1=Q 51. b8=Q Qf3+ 52. Ke6 Qxe4+
+53. Kf7 Qxc4+ 54. Kf8 Kxd7 55. Qd8+ Kc6 56. Qd7+ Kc5 57. Qf5+ Kb4 58. Qb1+ Ka3
+59. Qe1 Qc3 60. Qe6 a5 61. Qxg4 a4 62. Qe6 Qb4 63. Kf7 Bc3 64. Ke8 0-1

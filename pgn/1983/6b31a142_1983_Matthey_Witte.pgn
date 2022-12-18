@@ -1,0 +1,20 @@
+[Event "corr DDR/FS"]
+[Site "corr DDR/FS"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Matthey"]
+[Black "Witte"]
+[Result "1/2-1/2"]
+[ECO "A34"]
+[Opening "English"]
+[Variation "symmetrical, three knights system"]
+[HashCode "6b31a142"]
+[Epoch "Rook"]
+
+1. c4 c5 2. Nf3 Nf6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nb4 6. Bb5+ N8c6 7. d4
+cxd4 8. a3 dxc3 9. Qxd8+ Kxd8 10. axb4 cxb2 11. Bxb2 e6 12. Ke2 Bxb4 13.
+Bxg7 Rg8 14. Bf6+ Be7 15. Rhd1+ Ke8 16. Bxe7 Kxe7 17. Bxc6 bxc6 18. Ne5
+Rxg2 19. Nxc6+ Kf6 20. Ra4 e5 21. Rd6+ Be6 22. Ra6 Rxh2 23. Nd8 Rxd8 24.
+Rxd8 Ke7 25. Ra8 Bc4+ 26. Kf3 Bxa6 27. Rxa7+ Kf8 28. Rxa6 Rh4 29. Ra4 Rf4+
+30. Kg3 Kg7 31. f3 1/2-1/2
+

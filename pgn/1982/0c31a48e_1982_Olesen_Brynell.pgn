@@ -1,0 +1,21 @@
+[Event "DEN-chJ int"]
+[Site "Soro"]
+[Date "1982.??.??"]
+[Round "3"]
+[White "Olesen, Martin"]
+[Black "Brynell, Stellan"]
+[Result "0-1"]
+[ECO "C80"]
+[Opening "Ruy Lopez"]
+[Variation "open, Bernstein variation"]
+[HashCode "0c31a48e"]
+[Epoch "Rook"]
+[WhiteID "1400860"]
+[BlackID "1700219"]
+[WhiteCountry "DEN"]
+[BlackCountry "SWE"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Be6 9. Nbd2 Nc5 10. c3 d4 11. Bxe6 Nxe6 12. cxd4 Ncxd4 13. a4 Bc5 14. Ne4 Bb6
+15. Be3 O-O 16. Nxd4 Bxd4 17. Bxd4 Qxd4 18. Qxd4 Nxd4 19. f4 Rfd8 20. g3 Kf8
+21. Kg2 Nc2 0-1

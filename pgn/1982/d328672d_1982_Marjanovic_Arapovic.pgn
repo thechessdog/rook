@@ -1,0 +1,22 @@
+[Event "Sarajevo"]
+[Site "Sarajevo"]
+[Date "1982.03.01"]
+[Round "1"]
+[White "Marjanovic, Slavoljub"]
+[Black "Arapovic, Vitomir"]
+[Result "1-0"]
+[ECO "C06"]
+[Opening "French"]
+[Variation "Tarrasch, Leningrad variation"]
+[HashCode "d328672d"]
+[Epoch "Rook"]
+[WhiteID "900354"]
+[WhiteCountry "SRB"]
+[BlackID "14401614"]
+[BlackCountry "BIH"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. c3 c5 6. Bd3 Nc6 7. Ne2 cxd4 8. cxd4
+Nb6 9. a3 a5 10. b3 a4 11. b4 Bd7 12. O-O Rc8 13. f4 Na7 14. f5 exf5 15. Bxf5
+Bxf5 16. Rxf5 g6 17. Rf3 Bg7 18. Nc3 Qd7 19. Nf1 O-O 20. Bg5 Nc6 21. Bf6 Nd8
+22. Qe1 Ne6 23. Qh4 h6 24. Ne2 Kh7 25. Ne3 Bxf6 26. Rxf6 Kg7 27. Raf1 Nc4 28.
+Nf5+ gxf5 29. Qxh6+ Kg8 30. R1xf5 1-0

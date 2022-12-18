@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Hartog"]
+[Black "Spierings"]
+[Result "1-0"]
+[ECO "A89"]
+[Opening "Dutch"]
+[Variation "Leningrad, main variation with Nc6"]
+[HashCode "ad4a69e5"]
+[Epoch "Rook"]
+
+1. d4 f5 2. c4 Nf6 3. g3 g6 4. Bg2 Bg7 5. Nf3 O-O 6. O-O d6 7. Nc3 Nc6 8.
+d5 Ne5 9. Nxe5 dxe5 10. Qb3 Kh8 11. Rd1 f4 12. gxf4 Ng4 13. h3 exf4 14.
+hxg4 Bxg4 15. f3 Bd7 16. Ne4 Qc8 17. Bd2 Rf5 18. Bc3 Rh5 19. Bxg7+ Kxg7 20.
+Kf2 1-0
+

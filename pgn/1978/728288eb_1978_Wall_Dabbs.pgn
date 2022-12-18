@@ -1,0 +1,16 @@
+[Event "Statesville,NC"]
+[Site "Statesville,NC"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Wall, Bill"]
+[Black "Dabbs, Ron"]
+[Result "1-0"]
+[ECO "C13"]
+[Opening "French"]
+[Variation "Albin-Alekhine-Chatard attack, Breyer variation"]
+[HashCode "728288eb"]
+[Epoch "Rook"]
+[WhiteCountry "USA"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Nfd7 6. h4 c5 7. Nb5 O-O 8. Bxe7
+Qxe7 9. Nc7 1-0

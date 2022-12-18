@@ -1,0 +1,20 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Schulze, T."]
+[Black "Vorwerk, H."]
+[Result "1-0"]
+[ECO "E80"]
+[Opening "King's Indian"]
+[Variation "Saemisch variation"]
+[HashCode "6c90bcc8"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 c6 6. Be3 a6 7. Qd2 b5 8.
+O-O-O Qa5 9. Kb1 Nbd7 10. Bh6 Bxh6 11. Qxh6 e5 12. d5 b4 13. Nce2 cxd5 14.
+cxd5 Bb7 15. Nc1 Nc5 16. Nh3 Rc8 17. Ng5 Ke7 18. Nb3 Nxb3 19. axb3 Qb6 20.
+Bc4 a5 21. f4 exf4 22. Qg7 Rhf8 23. e5 Ne8 24. exd6+ Nxd6 25. Rhe1+ Kd7 26.
+Nxh7 Rfd8 27. Nf6+ Kc7 28. Re7+ Kb8 29. Nd7+ Rxd7 30. Rxd7 Nxc4 31. bxc4
+Rxc4 32. Qe5+ Ka8 33. d6 b3 34. Rxb7 1-0
+

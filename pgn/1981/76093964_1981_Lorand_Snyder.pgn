@@ -1,0 +1,16 @@
+[Event "Dayton,OH"]
+[Site "Dayton,OH"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Lorand, Victor"]
+[Black "Snyder, Bill"]
+[Result "0-1"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance variation"]
+[HashCode "76093964"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. b3 cxd4 5. Qxd4 Nc6 6. Bb5 Qa5+ 7. b4 Bxb4+
+8. c3 Qxb5 9. a4 Nxd4 10. axb5 Bxc3+ 11. Nxc3 Nc2+ 0-1
+

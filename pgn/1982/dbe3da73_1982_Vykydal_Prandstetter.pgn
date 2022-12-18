@@ -1,0 +1,27 @@
+[Event "Frenstat"]
+[Site "Frenstat"]
+[Date "1982.01.01"]
+[Round "3"]
+[White "Vykydal, Frantisek"]
+[Black "Prandstetter, Eduard"]
+[Result "0-1"]
+[ECO "C05"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation"]
+[HashCode "dbe3da73"]
+[Epoch "Rook"]
+[BlackID "300225"]
+[BlackCountry "CZE"]
+[WhiteID "301744"]
+[WhiteCountry "CZE"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. f4 c5 6. c3 Nc6 7. Ndf3 Qa5 8. Be3
+cxd4 9. Nxd4 Nxd4 10. Bxd4 Nb8 11. Nf3 Bd7 12. Be2 Bb5 13. Bxb5+ Qxb5 14. Qe2
+Qxe2+ 15. Kxe2 Nc6 16. Rad1 Be7 17. Ne1 g5 18. g3 gxf4 19. gxf4 Nxd4+ 20. Rxd4
+Rg8 21. Rd3 Rg4 22. Rf1 Rh4 23. h3 Rc8 24. Rff3 Rh6 25. Ng2 Rc6 26. Ne3 Rg6 27.
+Nc2 Bc5 28. Rg3 Bb6 29. Rxg6 hxg6 30. h4 Rc4 31. Nd4 Ke7 32. Kf3 a5 33. Kg4 Rc8
+34. Nf3 Bc5 35. Nd4 a4 36. a3 Ra8 37. Rd2 Ra6 38. h5 gxh5+ 39. Kxh5 Ra8 40. Kg4
+Rg8+ 41. Kf3 Rg1 42. Rg2 Rxg2 43. Kxg2 f6 44. Kg3 fxe5 45. fxe5 Bxd4 46. cxd4
+Kf7 47. Kf4 Kg6 48. Kg4 b6 49. Kh4 Kf5 50. Kh5 b5 51. Kh6 Ke4 52. Kg6 Kxd4 53.
+Kf6 Kc4 54. Kxe6 d4 55. Kf6 d3 56. e6 d2 57. e7 d1=Q 58. e8=Q Qf1+ 59. Kg6 Kb3
+60. Qe5 Ka2 61. Kg7 Qg2+ 62. Kh7 Qxb2 63. Qc5 Qb3 64. Qd6 Qxa3 0-1

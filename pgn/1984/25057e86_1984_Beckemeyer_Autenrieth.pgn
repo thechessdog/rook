@@ -1,0 +1,19 @@
+[Event "Augsburg"]
+[Site "Augsburg"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Beckemeyer, Werner"]
+[Black "Autenrieth, Michael, Dr."]
+[Result "1/2-1/2"]
+[ECO "C41"]
+[Opening "Philidor"]
+[Variation "Nimzovich, Sokolsky variation"]
+[HashCode "25057e86"]
+[Epoch "Rook"]
+[WhiteID "4601408"]
+[WhiteCountry "GER"]
+[BlackID "4605039"]
+[BlackCountry "GER"]
+
+1. e4 e5 2. Nf3 d6 3. d4 Nf6 4. dxe5 Nxe4 5. Nbd2 Nxd2 6. Bxd2 Be7 7. exd6 Qxd6
+8. Bc3 1/2-1/2

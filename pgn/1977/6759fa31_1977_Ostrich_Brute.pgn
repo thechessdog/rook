@@ -1,0 +1,18 @@
+[Event "ACM Seattle"]
+[Site "ACM Seattle"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Ostrich"]
+[Black "Brute Force"]
+[Result "1-0"]
+[ECO "B01"]
+[Opening "Scandinavian (centre counter) defence"]
+[HashCode "6759fa31"]
+[Epoch "Rook"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qe5+ 4. Nge2 a5 5. d4 Qf5 6. Be3 g5 7. Ng3 Qg6
+8. Bd3 f5 9. O-O Nf6 10. Nb5 Kd8 11. d5 g4 12. Bd4 e6 13. dxe6 Bb4 14. Bxf5
+Ke7 15. Bxg6 hxg6 16. Bxf6+ Kxf6 17. Qd4+ Ke7 18. Qg7+ Kxe6 19. Nxc7+ Kd6
+20. Nxa8 Re8 21. Qc7+ Ke6 22. Rfe1+ Bxe1 23. Rxe1+ Kf6 24. Rxe8 Bd7 25.
+Qe5+ Kf7 26. Qe7# 1-0
+

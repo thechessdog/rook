@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Ecenarro"]
+[Black "Kristjansson, Bragi"]
+[Result "0-1"]
+[ECO "C15"]
+[Opening "French"]
+[Variation "Winawer, fingerslip variation"]
+[HashCode "0b1ce799"]
+[Epoch "Rook"]
+[BlackID "2300346"]
+[BlackCountry "ISL"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. Bd2 Nc6 5. Qg4 Nf6 6. Qxg7 Rg8 7. Qh6 Rg6 8.
+Qe3 dxe4 9. Nge2 e5 10. dxe5 Ng4 11. Qxe4 Nxf2 12. Kxf2 Qxd2 13. g3 Bc5+ 14.
+Kg2 Nb4 15. Rd1 Nxc2 0-1

@@ -1,0 +1,19 @@
+[Event "Ohio Congress"]
+[Site "Ohio Congress"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Babcock, William"]
+[Black "Perks, Grant"]
+[Result "1-0"]
+[ECO "B05"]
+[Opening "Alekhine's defence"]
+[Variation "modern variation, 4...Bg4"]
+[HashCode "b93ab525"]
+[Epoch "Rook"]
+[BlackID "2036967"]
+[BlackCountry "USA"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. Nf3 Bg4 5. Bc4 Nb6 6. Bxf7+ Kd7 7. exd6 cxd6 8.
+Ne5+ dxe5 9. Qxg4+ Kc7 10. dxe5 Nc6 11. O-O Qd4 12. Qg3 Rd8 13. Be3 Qxb2 14.
+Nc3 Qxc2 15. Nb5+ Kb8 16. e6+ Ka8 17. Nc7+ Kb8 18. Na6+ Ka8 19. Rac1 Qxa2 20.
+Qb8+ 1-0

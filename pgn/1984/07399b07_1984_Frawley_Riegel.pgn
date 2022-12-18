@@ -1,0 +1,17 @@
+[Event "Plymouth ch-MI op"]
+[Site "Plymouth ch-MI op"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Frawley, E."]
+[Black "Riegel, P."]
+[Result "1-0"]
+[ECO "B87"]
+[Opening "Sicilian"]
+[Variation "Sozin with ...a6 and ...b5"]
+[HashCode "07399b07"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 b5 8.
+Qe2 Qc7 9. Bg5 Be7 10. O-O-O Nbd7 11. Bxe6 fxe6 12. Nxe6 Qc6 13. Nxg7+ Kf7
+14. Nf5 Ne5 15. Nxe7 Kxe7 16. Nd5+ 1-0
+

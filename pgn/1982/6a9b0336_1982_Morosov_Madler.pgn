@@ -1,0 +1,22 @@
+[Event "corr Heilimo mem"]
+[Site "corr Heilimo mem"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Morosov"]
+[Black "Madler"]
+[Result "1/2-1/2"]
+[ECO "B83"]
+[Opening "Sicilian"]
+[Variation "Scheveningen, 6.Be2"]
+[HashCode "6a9b0336"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be2 Be7 7. O-O O-O
+8. Be3 a6 9. f4 Nc6 10. Kh1 Qc7 11. Qe1 Nxd4 12. Bxd4 b5 13. a3 Bb7 14. Qg3
+Bc6 15. Bd3 Qb7 16. Rae1 b4 17. axb4 Qxb4 18. Ne2 Qb7 19. e5 Nh5 20. Qh3 g6
+21. Ng3 Nxg3+ 22. Qxg3 dxe5 23. Bxe5 Rac8 24. b3 a5 25. Ba1 Rfe8 26. f5
+exf5 27. Bxf5 Bxg2+ 28. Qxg2 Qxg2+ 29. Kxg2 gxf5 30. Rxf5 Rxc2+ 31. Kf3
+Rf2+ 32. Kg4 Rxf5 33. Kxf5 Kf8 34. Bc3 Rb8 35. Bxa5 Rxb3 36. Bc7 Rb5+ 37.
+Kg4 f6 38. Bf4 Kf7 39. Re2 Bd8 40. Ra2 Ba5 41. Rc2 Kg6 42. Rc8 h5+ 43. Kh3
+Rb3+ 1/2-1/2
+

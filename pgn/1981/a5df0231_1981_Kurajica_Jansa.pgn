@@ -1,0 +1,20 @@
+[Event "Sarajevo"]
+[Site "Sarajevo"]
+[Date "1981.03.01"]
+[Round "9"]
+[White "Kurajica, Bojan"]
+[Black "Jansa, Vlastimil"]
+[Result "1/2-1/2"]
+[ECO "C92"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Flohr-Zaitsev system (Lenzerheide variation)"]
+[HashCode "a5df0231"]
+[Epoch "Rook"]
+[WhiteID "14400057"]
+[WhiteCountry "BIH"]
+[BlackID "300128"]
+[BlackCountry "CZE"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. h3 Bb7 10. d4 Re8 11. Nbd2 Bf8 12. d5 Nb8 13. Nf1 Nbd7 14. Bc2 c6 15.
+dxc6 Bxc6 16. N3h2 1/2-1/2

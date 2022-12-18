@@ -1,0 +1,18 @@
+[Event "Krasnodar"]
+[Site "Krasnodar"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Feigelson"]
+[Black "Lukovnikov"]
+[Result "1-0"]
+[ECO "B06"]
+[Opening "Robatsch defence"]
+[Variation "Pseudo-Austrian attack"]
+[HashCode "517365c1"]
+[Epoch "Rook"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. f4 c6 5. Nf3 Bg4 6. Be3 Qb6 7. Qd2 Bxf3 8.
+gxf3 Nd7 9. O-O-O Qc7 10. h4 Ngf6 11. Bh3 Nb6 12. f5 Nc4 13. Qd3 b5 14. Bg5
+Qa5 15. a3 Nd7 16. fxg6 hxg6 17. e5 Ndb6 18. exd6 O-O 19. dxe7 Rfb8 20. Be6
+Nd6 21. Qxg6 Kh8 22. Bxf7 Nxf7 23. Bf6 1-0
+

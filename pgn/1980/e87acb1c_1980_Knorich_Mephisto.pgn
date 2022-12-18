@@ -1,0 +1,18 @@
+[Event "corr WER/C"]
+[Site "corr WER/C"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Knorich"]
+[Black "Mephisto 2"]
+[Result "0-1"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Paulsen attack"]
+[HashCode "e87acb1c"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. a3 c4 7. g3 f6 8. exf6
+Nxf6 9. Bh3 Be7 10. Qc2 O-O 11. Nbd2 Bd6 12. b4 e5 13. Bxc8 Raxc8 14. dxe5
+Nxe5 15. Nxe5 Bxe5 16. O-O Ng4 17. Nb1 Rxf2 18. Rxf2 Rf8 19. Ra2 Rxf2 20.
+Qxf2 Nxf2 21. Rxf2 Qg6 0-1
+

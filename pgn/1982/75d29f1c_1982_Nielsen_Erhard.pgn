@@ -1,0 +1,19 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Nielsen, Poul Erik"]
+[Black "Erhard, Steen"]
+[Result "0-1"]
+[ECO "E41"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5"]
+[HashCode "75d29f1c"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 Nc6 6. Ne2 cxd4 7. exd4 Bxc3+ 8.
+bxc3 Qa5 9. O-O O-O 10. Bc2 Re8 11. Qd3 e5 12. f3 d5 13. cxd5 Qxd5 14. Ng3 exd4
+15. c4 Qe5 16. Bd2 Bd7 17. Rae1 Qc5 18. Ne4 Nxe4 19. fxe4 Ne5 20. Qg3 d3+ 21.
+Be3 Qxc4 22. Bb3 Qxe4 23. Bf4 Qd4+ 24. Kh1 Nc4 25. Bh6 Rxe1 26. Rxe1 d2 27. Rd1
+Bg4 28. Bxc4 Qxc4 29. Bxg7 Qe2 30. Rg1 d1=Q 31. h3 Qxg1+ 32. Kxg1 Kxg7 33. Qc3+
+Kg8 0-1

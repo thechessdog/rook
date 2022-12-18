@@ -1,0 +1,20 @@
+[Event "Reykjavik op"]
+[Site "Reykjavik"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Karlsson, Lars"]
+[Black "Helmers, Knut J"]
+[Result "0-1"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Paulsen attack"]
+[HashCode "d035b312"]
+[Epoch "Rook"]
+[BlackID "1500023"]
+[BlackCountry "NOR"]
+[WhiteID "1700057"]
+[WhiteCountry "SWE"]
+
+1. e4 c5 2. c3 e6 3. d4 d5 4. e5 Nc6 5. Nf3 Qb6 6. Be2 Nh6 7. Bxh6 gxh6 8. b3
+cxd4 9. cxd4 f6 10. exf6 Bb4+ 11. Kf1 O-O 12. a3 Bd6 13. Nc3 Qd8 14. Bb5 Qxf6
+15. Bxc6 bxc6 16. Qd3 Kh8 17. h4 e5 18. dxe5 Bxe5 19. Rc1 Bf5 20. Qe3 Bf4 0-1

@@ -1,0 +1,22 @@
+[Event "corr DDR-cup5"]
+[Site "corr DDR-cup5"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Mohaupt, H."]
+[Black "Schwarz, E."]
+[Result "1-0"]
+[ECO "B64"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...Be7 defence, 9.f4"]
+[HashCode "5d1b426d"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd2 Be7
+8. O-O-O O-O 9. f4 h6 10. Bh4 d5 11. e5 Ne4 12. Bxe7 Nxd2 13. Bxd8 Nxf1 14.
+Nxc6 bxc6 15. Be7 Ne3 16. Bxf8 Nxd1 17. Rxd1 Kxf8 18. Na4 Ke7 19. Nc5 Kd8
+20. Rd3 Kc7 21. Rb3 a5 22. a4 Ra7 23. Kd2 Ba6 24. Ke3 Bc4 25. Rc3 h5 26.
+Kd4 Ra8 27. g3 g6 28. Re3 Rh8 29. b3 Bf1 30. Re1 Bh3 31. Rb1 h4 32. b4 hxg3
+33. hxg3 Kb6 34. bxa5+ Kxa5 35. Rh1 Rh5 36. Nb7+ Kxa4 37. Nd8 Bf5 38. Rxh5
+gxh5 39. Nxf7 Kb5 40. Nd6+ Kb6 41. Nxf5 c5+ 42. Kc3 exf5 43. Kb3 Kc6 44.
+Ka4 1-0
+

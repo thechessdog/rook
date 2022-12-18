@@ -1,0 +1,20 @@
+[Event "Interpolis"]
+[Site "Tilburg"]
+[Date "1983.10.01"]
+[Round "1"]
+[White "Ljubojevic, Ljubomir"]
+[Black "Andersson, Ulf"]
+[Result "1/2-1/2"]
+[ECO "D67"]
+[Opening "QGD"]
+[Variation "Orthodox defence, Bd3 line, 11.O-O"]
+[HashCode "ece30f38"]
+[Epoch "Rook"]
+[WhiteID "900010"]
+[BlackID "1700014"]
+[WhiteCountry "SRB"]
+[BlackCountry "SWE"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. Bg5 O-O 6. e3 Nbd7 7. Rc1 c6 8. Bd3
+dxc4 9. Bxc4 Nd5 10. Bxe7 Qxe7 11. O-O Rd8 12. Qb3 N7f6 13. Rfd1 b6 14. e4 Bb7
+15. e5 Ne8 16. Ne4 1/2-1/2

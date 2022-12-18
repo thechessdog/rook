@@ -1,0 +1,22 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Hartewig"]
+[Black "Katz"]
+[Result "0-1"]
+[ECO "A82"]
+[Opening "Dutch"]
+[Variation "Staunton gambit"]
+[HashCode "98ced102"]
+[Epoch "Rook"]
+
+1. d4 f5 2. e4 fxe4 3. Nc3 Nf6 4. f3 exf3 5. Nxf3 g6 6. Bf4 Bg7 7. Qd2 O-O
+8. O-O-O d5 9. Ne5 Nbd7 10. Kb1 c6 11. Be2 Nxe5 12. Bxe5 Nd7 13. Bxg7 Kxg7
+14. h4 e5 15. h5 Rh8 16. h6+ Kf7 17. dxe5 Nxe5 18. Qd4 Re8 19. Ne4 Bf5 20.
+Ng3 Bd7 21. Rhf1+ Kg8 22. Ne4 dxe4 23. Bc4+ Kh8 24. Bf7 Bf5 25. Qc3 Qe7 26.
+Bxe8 Rxe8 27. Qg3 Ng4 28. Rh1 e3 29. Rde1 Qe5 30. Qh4 e2 31. a3 Bxc2+ 32.
+Ka1 Bf5 33. g3 Qf6 34. Qxf6+ Nxf6 35. b3 Re3 36. Rh2 Bg4 37. Rf2 Ng8 38.
+Kb2 Nxh6 39. Rf4 Rxg3 40. Re4 Rd3 41. Kc2 Rd1 42. R1xe2 Bxe2 43. Rxe2 Rd7
+0-1
+

@@ -1,0 +1,17 @@
+[Event "Copenhagen op"]
+[Site "Copenhagen op"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Laird, C."]
+[Black "Taulbut, Shaun M"]
+[Result "0-1"]
+[ECO "A40"]
+[Opening "Queen's pawn"]
+[HashCode "e8c0a638"]
+[Epoch "Rook"]
+[BlackID "400246"]
+[BlackCountry "ENG"]
+
+1. d4 e6 2. Nf3 Nf6 3. g3 d5 4. Bg2 Be7 5. O-O O-O 6. c4 dxc4 7. Qc2 a6 8. Qxc4
+b5 9. Qc2 Bb7 10. Bf4 Nc6 11. Rd1 Nb4 12. Qc1 Rc8 13. a3 Nbd5 14. b4 a5 15. Nc3
+axb4 16. Nxb5 c5 17. axb4 cxb4 18. Qd2 Qb6 19. Qd3 Nxf4 0-1

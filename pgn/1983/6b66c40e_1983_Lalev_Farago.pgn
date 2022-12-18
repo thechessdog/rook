@@ -1,0 +1,23 @@
+[Event "Albena"]
+[Site "Albena"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Lalev, Dimitar"]
+[Black "Farago, Ivan"]
+[Result "0-1"]
+[ECO "E15"]
+[Opening "Queen's Indian"]
+[Variation "Nimzovich variation (exaggerated fianchetto)"]
+[HashCode "6b66c40e"]
+[Epoch "Rook"]
+[BlackID "700134"]
+[BlackCountry "HUN"]
+[WhiteID "2900254"]
+[WhiteCountry "FID"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. b3 Bb4+ 6. Bd2 Be7 7. Bg2 d5 8. Ne5
+O-O 9. Bc3 c6 10. Nd2 Nfd7 11. Nd3 b5 12. O-O bxc4 13. bxc4 Bxc4 14. Nxc4 dxc4
+15. Nb2 Nb6 16. e4 Na6 17. a4 Bb4 18. Qc2 c5 19. d5 exd5 20. exd5 Bxc3 21. Qxc3
+Rb8 22. Rfd1 Qf6 23. Rac1 Nxd5 24. Bxd5 Rxb2 25. Qxf6 gxf6 26. Bxc4 Nb8 27. Rd5
+Rb4 28. a5 Rc8 29. Bf1 c4 30. Bh3 Rc7 31. Rd4 Rc5 32. Bf1 Nc6 33. Rdxc4 Rbxc4
+34. Rxc4 Rxc4 35. Bxc4 Nxa5 36. Bd5 Kf8 37. f4 f5 38. Kf2 Ke7 39. Ke3 0-1

@@ -1,0 +1,19 @@
+[Event "Rome-B"]
+[Site "Rome"]
+[Date "1980.01.01"]
+[Round "2"]
+[White "Kovacs, Laszlo M"]
+[Black "Messa, Roberto"]
+[Result "1/2-1/2"]
+[ECO "D34"]
+[Opening "QGD"]
+[Variation "Tarrasch, Prague variation, 9.Bg5"]
+[HashCode "5a4d3215"]
+[Epoch "Rook"]
+[BlackID "800457"]
+[BlackCountry "ITA"]
+[WhiteCountry "HUN"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c5 4. cxd5 exd5 5. Nf3 Nc6 6. g3 Nf6 7. Bg2 Be7 8. O-O
+O-O 9. Bg5 c4 10. Ne5 Be6 11. e3 Nd7 12. Bxe7 Nxe7 13. f4 f6 14. Nf3 Re8 15.
+Qd2 Nf5 16. Rfe1 Nd6 17. e4 1/2-1/2

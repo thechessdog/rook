@@ -1,0 +1,20 @@
+[Event "corr FRG/M"]
+[Site "corr FRG/M"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Michel, D."]
+[Black "Neumann, Joachim"]
+[Result "0-1"]
+[ECO "B89"]
+[Opening "Sicilian"]
+[Variation "Velimirovic attack"]
+[HashCode "0db3587a"]
+[Epoch "Rook"]
+[BlackID "4608259"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bc4 e6 7. Be3 Be7 8.
+Qe2 a6 9. O-O-O Qc7 10. Bb3 O-O 11. g4 Nxd4 12. Rxd4 b5 13. g5 Nd7 14. e5 dxe5
+15. Rh4 Rd8 16. Qh5 Nf8 17. Ne4 Bb7 18. Nf6+ Bxf6 19. gxf6 Bxh1 20. fxg7 Kxg7
+21. Bh6+ Kg8 22. Qg5+ Ng6 23. Qf6 Rd1+ 24. Kxd1 Qd8+ 25. Qxd8+ Rxd8+ 26. Ke2
+Nxh4 0-1

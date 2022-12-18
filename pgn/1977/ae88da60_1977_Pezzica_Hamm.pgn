@@ -1,0 +1,17 @@
+[Event "corr Italy"]
+[Site "corr Italy"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Pezzica"]
+[Black "Hamm"]
+[Result "1-0"]
+[ECO "B78"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, 10.O-O-O"]
+[HashCode "ae88da60"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8.
+Qd2 Nc6 9. Bc4 Bd7 10. O-O-O Qb8 11. h4 Rc8 12. Bb3 a5 13. h5 Nxh5 14. g4
+Nxd4 15. Bxd4 Bxd4 16. Qxd4 Nf4 17. e5 g5 18. Bxf7+ 1-0
+

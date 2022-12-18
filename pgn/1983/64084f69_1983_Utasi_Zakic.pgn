@@ -1,0 +1,24 @@
+[Event "Ravenna-J"]
+[Site "Ravenna"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Utasi, Tamas"]
+[Black "Zakic, Srdjan"]
+[Result "1-0"]
+[ECO "B33"]
+[Opening "Sicilian"]
+[Variation "Pelikan (Lasker/Sveshnikov) variation"]
+[HashCode "64084f69"]
+[Epoch "Rook"]
+[BlackID "900729"]
+[BlackCountry "SRB"]
+[WhiteCountry "HUN"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Nd5 Nxd5 8.
+exd5 Nb8 9. c4 Be7 10. Be2 O-O 11. O-O a6 12. Nc3 f5 13. f4 Nd7 14. Kh1 Bf6 15.
+Qc2 g6 16. Be3 Re8 17. Rae1 Kh8 18. b4 b6 19. fxe5 Bxe5 20. Qd2 Qh4 21. Bf4 Bb7
+22. Bxe5+ Rxe5 23. Rf4 Qe7 24. Ref1 Re8 25. Qd4 Qf6 26. Bd1 Re3 27. Qxf6+ Nxf6
+28. R4f3 Rxf3 29. Bxf3 Rc8 30. Be2 Ng4 31. Na4 Ne3 32. Nxb6 Re8 33. c5 Nxf1 34.
+Bxf1 a5 35. g4 axb4 36. c6 Bc8 37. g5 Kg7 38. Bb5 Kf7 39. Kg2 Ke7 40. c7 Rf8
+41. h4 Rh8 42. Kf3 Rg8 43. Ke2 Rh8 44. Ke3 Rg8 45. Kd4 Rf8 46. Kd3 Rg8 47. Kc4
+f4 48. Kxb4 Bh3 49. a4 Rc8 50. Nxc8+ Bxc8 51. a5 Bd7 52. a6 f3 53. a7 1-0

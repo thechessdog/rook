@@ -1,0 +1,27 @@
+[Event "Denmark"]
+[Site "Denmark"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Jakobsen, Ole"]
+[Black "Hansen, Curt"]
+[Result "0-1"]
+[ECO "A46"]
+[Opening "Queen's pawn game"]
+[HashCode "ea45b776"]
+[Epoch "Rook"]
+[BlackID "1400010"]
+[WhiteCountry "DNK"]
+[BlackCountry "DEN"]
+
+1. d4 Nf6 2. Nf3 e6 3. g3 b5 4. Bg2 Bb7 5. O-O Be7 6. c3 O-O 7. Bg5 d6 8. a4
+bxa4 9. Rxa4 Nbd7 10. Nbd2 c5 11. Qa1 Qc7 12. Ne1 Bxg2 13. Nxg2 Nb6 14. Ra6
+cxd4 15. cxd4 Rfc8 16. Ne1 Nfd5 17. Bxe7 Qxe7 18. Nd3 Rc2 19. Rd1 Qb7 20. Ra2
+h6 21. Ne1 Rc7 22. Nd3 Nc4 23. Nf1 a5 24. Nd2 Qb5 25. Ra4 Ndb6 26. Ra2 Nd5 27.
+Ra4 Rc6 28. Nxc4 Rxc4 29. Rxc4 Qxc4 30. e3 Qc2 31. Qc1 Rc8 32. Qa1 Qe2 33. Nf4
+Nxf4 34. exf4 Rc2 35. Rf1 Qb5 36. b3 d5 37. Re1 Qxb3 38. Qxa5 Qb2 39. Qa1 Rxf2
+40. Qxb2 Rxb2 41. f5 exf5 42. Re5 g6 43. Rxd5 Rd2 44. h4 h5 45. Kf1 Kf8 46. Kg1
+Ke7 47. Kf1 Ke6 48. Rd8 f4 49. gxf4 Rh2 50. d5+ Ke7 51. Ra8 Rxh4 52. Ra7+ Kf6
+53. Ra6+ Kf5 54. Ra4 Rh1+ 55. Ke2 Rb1 56. Rd4 Kf6 57. Re4 Kf5 58. Rd4 Rb7 59.
+Ke3 Re7+ 60. Kf3 Rd7 61. Rd1 Rd6 62. Ke3 Rd8 63. Kd4 Kxf4 64. Rf1+ Kg3 65. Rxf7
+g5 66. Rf5 Kg4 67. Rf1 h4 68. Rg1+ Kh5 69. Ke5 h3 70. d6 g4 71. Rd1 h2 72. Kf4
+Kh4 73. d7 g3 74. Rd6 Kh3 0-1

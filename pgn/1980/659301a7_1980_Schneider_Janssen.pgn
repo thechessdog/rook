@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Schneider, Bernd"]
+[Black "Janssen, Han"]
+[Result "0-1"]
+[ECO "C08"]
+[Opening "French"]
+[Variation "Tarrasch, open, 4.ed ed"]
+[HashCode "659301a7"]
+[Epoch "Rook"]
+[BlackID "1000608"]
+[BlackCountry "NED"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. exd5 exd5 5. Bb5+ Nc6 6. Qe2+ Be7 7. dxc5 Nf6 8.
+Nb3 O-O 9. Be3 a6 10. Bxc6 bxc6 11. Nf3 a5 12. Ne5 Qc7 13. Bf4 Re8 14. Qf3 a4
+15. Nd3 Bd6+ 16. Be3 Bxh2 17. g3 axb3 18. Rxh2 d4 0-1

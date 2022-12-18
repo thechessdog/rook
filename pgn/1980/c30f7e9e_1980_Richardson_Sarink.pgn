@@ -1,0 +1,19 @@
+[Event "corr Perfors mem"]
+[Site "corr Perfors mem"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Richardson"]
+[Black "Sarink, Hendrik"]
+[Result "1-0"]
+[ECO "C85"]
+[Opening "Ruy Lopez"]
+[Variation "Exchange variation doubly deferred (DERLD)"]
+[HashCode "c30f7e9e"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Bxc6 dxc6 7. d3 Nd7
+8. Nbd2 O-O 9. b3 f6 10. Bb2 c5 11. Nh4 Nb8 12. Nf5 Bxf5 13. exf5 Nc6 14.
+Ne4 Qd5 15. Re1 Nd4 16. Ng3 b5 17. Re4 Rfd8 18. Rh4 Qf7 19. c3 Nc6 20. Qf3
+Qe8 21. Re1 b4 22. Ne4 bxc3 23. Bc1 Kh8 24. Re3 Nb4 25. Qg4 Kg8 26. Reh3
+Kf7 27. Qxg7+ 1-0
+

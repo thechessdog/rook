@@ -1,0 +1,21 @@
+[Event "Viborg"]
+[Site "Viborg"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Jonsson, Johannes G"]
+[Black "Thomson, Craig S M"]
+[Result "0-1"]
+[ECO "B16"]
+[Opening "Caro-Kann"]
+[Variation "Bronstein-Larsen variation"]
+[HashCode "79f9bb53"]
+[Epoch "Rook"]
+[BlackID "2400081"]
+[BlackCountry "SCO"]
+[WhiteID "2300257"]
+[WhiteCountry "ISL"]
+
+1. e4 c6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Nf6 5. Nxf6+ gxf6 6. Nf3 Bg4 7. Be2 Qc7
+8. O-O Nd7 9. h3 Bf5 10. c4 O-O-O 11. Qa4 Kb8 12. Be3 Rg8 13. Kh1 Be4 14. Rfd1
+e6 15. b4 Bd6 16. d5 c5 17. dxe6 fxe6 18. Rd2 Ne5 19. Rad1 Nxf3 20. Bxf3 Bxf3
+21. gxf3 Qg7 0-1

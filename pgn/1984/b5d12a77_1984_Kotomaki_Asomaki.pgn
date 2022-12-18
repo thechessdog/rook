@@ -1,0 +1,19 @@
+[Event "corr Tch-SF"]
+[Site "corr Tch-SF"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Kotomaki"]
+[Black "Asomaki"]
+[Result "0-1"]
+[ECO "B03"]
+[Opening "Alekhine's defence"]
+[Variation "four pawns attack, Trifunovic variation"]
+[HashCode "b5d12a77"]
+[Epoch "Rook"]
+
+1. e4 Nf6 2. e5 Nd5 3. c4 Nb6 4. d4 d6 5. f4 Bf5 6. Nf3 e6 7. Be2 dxe5 8.
+fxe5 c5 9. Be3 cxd4 10. Bxd4 Nc6 11. Nc3 Nxd4 12. Qxd4 a6 13. O-O-O Qxd4
+14. Nxd4 Bg6 15. Bf3 O-O-O 16. Be2 Bc5 17. Nc2 Nd7 18. Na4 Be7 19. b3 Nxe5
+20. c5 Bd3 21. Bf1 Be4 22. Re1 Nd3+ 23. Bxd3 Bxd3 24. Rhg1 Bb5 25. Nb6+ Kc7
+26. b4 Bg5+ 27. Kb2 Rd2 28. Kb3 Rhd8 29. a4 Bd3 30. Ne3 Bg6 0-1
+

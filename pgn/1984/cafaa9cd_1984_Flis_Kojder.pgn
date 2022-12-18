@@ -1,0 +1,19 @@
+[Event "Czestochowa"]
+[Site "Czestochowa"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Flis, Jacek"]
+[Black "Kojder, Konrad"]
+[Result "1/2-1/2"]
+[ECO "B46"]
+[Opening "Sicilian"]
+[Variation "Taimanov variation"]
+[HashCode "cafaa9cd"]
+[Epoch "Rook"]
+[WhiteID "1100351"]
+[WhiteCountry "POL"]
+[BlackID "1101471"]
+[BlackCountry "POL"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 a6 6. Be2 Qc7 7. O-O Nf6 8.
+Kh1 Bb4 9. Qd3 O-O 10. Nxc6 bxc6 11. Bg5 Bxc3 1/2-1/2

@@ -1,0 +1,18 @@
+[Event "corr Netherlands"]
+[Site "corr Netherlands"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Dessens"]
+[Black "Hospers"]
+[Result "0-1"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, poisoned pawn, Konstantinopolsky variation"]
+[HashCode "e844b479"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Qg4 cxd4
+8. Qxg7 Rg8 9. Qxh7 Qc7 10. Ne2 Nbc6 11. f4 Bd7 12. cxd4 Nxd4 13. Nxd4 Qc3+
+14. Ke2 Qxa1 15. Nb3 Qc3 16. Bd2 Qb2 17. Bb4 Rc8 18. Kd1 Ba4 19. Qd3 Nc6
+20. g3 Nxb4 21. axb4 Rc3 22. Qd4 Qxc2+ 23. Ke1 0-1
+

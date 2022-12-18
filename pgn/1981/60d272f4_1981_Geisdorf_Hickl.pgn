@@ -1,0 +1,24 @@
+[Event "Bundesliga 8081"]
+[Site "Duitsland tt"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Geisdorf, Herbert"]
+[Black "Hickl, Thomas"]
+[Result "1/2-1/2"]
+[ECO "B10"]
+[Opening "Caro-Kann"]
+[Variation "two knights variation"]
+[HashCode "60d272f4"]
+[Epoch "Rook"]
+[BlackID "4604040"]
+[BlackCountry "GER"]
+
+1. e4 c6 2. Nc3 d5 3. Nf3 dxe4 4. Nxe4 Nf6 5. Nfg5 h6 6. Nxf6+ gxf6 7. Ne4 Bf5
+8. Qe2 e6 9. d3 Na6 10. g3 Be7 11. Bg2 h5 12. Bd2 Nb4 13. O-O-O Nxa2+ 14. Kb1
+Nb4 15. Nxf6+ Bxf6 16. Bxb4 Qb6 17. Qd2 O-O-O 18. Rde1 Bxb2 19. Kxb2 a5 20. Ka3
+axb4+ 21. Qxb4 Qxf2 22. Rb1 Qa7+ 23. Kb2 Rd4 24. Qe7 Rd7 25. Qb4 Bxd3 26. Rhd1
+Bxc2 27. Ra1 Rxd1 28. Rxa7 Rb1+ 29. Kxc2 Rxb4 30. Ra8+ Kd7 31. Rxh8 Rb5 32. Bf3
+Rf5 33. Bxh5 Rf2+ 34. Kd1 Rxh2 35. Rh7 Kd6 36. g4 f6 37. Ke1 b5 38. Kf1 c5 39.
+Rb7 b4 40. Rb6+ Kd7 41. Bf7 Kc7 42. Rxe6 b3 43. Re7+ Kd6 44. Re6+ Kd7 45. Re2
+b2 46. Bg6 b1=Q+ 47. Bxb1 Rh1+ 48. Kf2 Rxb1 49. Ke3 Rb4 50. Rc2 Kd6 51. Rf2 Ke6
+52. Rf5 Rc4 53. Rh5 Rc1 54. Kd2 Rc4 55. Ke3 Kf7 56. g5 f5 1/2-1/2

@@ -1,0 +1,18 @@
+[Event "corr EUR/K tt"]
+[Site "corr EUR/K tt"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Carlsson, L."]
+[Black "Flum, G."]
+[Result "1-0"]
+[ECO "B72"]
+[Opening "Sicilian"]
+[Variation "dragon, classical attack"]
+[HashCode "8546e924"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be2 Bg7 7. Be3 Nc6
+8. h4 O-O 9. h5 d5 10. hxg6 fxg6 11. exd5 Nxd5 12. Bc4 e6 13. Nxd5 exd5 14.
+Bb3 Re8 15. Kf1 Kh8 16. c3 Qb6 17. Nf3 Qb5+ 18. Kg1 Be6 19. Ng5 Bg8 20. Qg4
+Re7 21. Nxh7 Bxh7 22. Qxg6 Be5 23. Bc2 1-0
+

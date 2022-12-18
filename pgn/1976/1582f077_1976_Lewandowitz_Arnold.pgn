@@ -1,0 +1,19 @@
+[Event "corr DDR/M"]
+[Site "corr DDR/M"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Lewandowitz, D."]
+[Black "Arnold, H."]
+[Result "1-0"]
+[ECO "C89"]
+[Opening "Ruy Lopez"]
+[Variation "Marshall, Herman Steiner variation"]
+[HashCode "1582f077"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8.
+c3 d5 9. exd5 e4 10. dxc6 exf3 11. d4 fxg2 12. Qf3 Ng4 13. Bf4 Bh4 14. Re2
+Nf6 15. h3 Ne8 16. Qxg2 Qf6 17. Be5 Qh6 18. Nd2 Bxh3 19. Qh2 Bd8 20. Re3
+Qg5+ 21. Kh1 Bf5 22. Nf3 Qg4 23. Rg1 Qh3 24. Ng5 Qxh2+ 25. Kxh2 h6 26. Nxf7
+Kh7 27. Rf3 g6 28. Rxf5 gxf5 29. Be6 Rxf7 30. Bxf7 Bf6 31. Rg8 1-0
+

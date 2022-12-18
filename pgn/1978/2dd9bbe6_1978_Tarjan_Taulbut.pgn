@@ -1,0 +1,23 @@
+[Event "Lone Pine open"]
+[Site "Lone Pine open"]
+[Date "1978.04.01"]
+[Round "9"]
+[White "Tarjan, James"]
+[Black "Taulbut, Shaun M"]
+[Result "0-1"]
+[ECO "E76"]
+[Opening "King's Indian"]
+[Variation "Four pawns attack, dynamic line"]
+[HashCode "2dd9bbe6"]
+[Epoch "Rook"]
+[WhiteID "2000180"]
+[WhiteCountry "USA"]
+[BlackID "400246"]
+[BlackCountry "ENG"]
+
+1. d4 g6 2. e4 d6 3. c4 Bg7 4. Nc3 Nf6 5. f4 O-O 6. Nf3 c5 7. d5 e6 8. dxe6
+fxe6 9. Be2 Nc6 10. O-O a6 11. Be3 Ng4 12. Bd2 Nd4 13. g3 b5 14. Nxd4 Bxd4+ 15.
+Kg2 Nf6 16. cxb5 axb5 17. Nxb5 Bxb2 18. Rb1 Bd4 19. Nxd4 cxd4 20. Qc2 d5 21. e5
+Ne4 22. Bb4 Re8 23. a3 Ba6 24. Bxa6 Rxa6 25. Rfc1 Qd7 26. Qd3 Rc6 27. Bd2 Rec8
+28. Rxc6 Qxc6 29. Rc1 Qb7 30. Rxc8+ Qxc8 31. Bb4 h5 32. a4 g5 33. fxg5 Qc1 34.
+Qb5 Qc2+ 35. Kh1 Nf2+ 36. Kg1 Nh3+ 37. Kh1 Qe4# 0-1

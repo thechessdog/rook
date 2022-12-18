@@ -1,0 +1,18 @@
+[Event "corr ch-CSSR"]
+[Site "corr ch-CSSR"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Batik"]
+[Black "Jandovsky"]
+[Result "0-1"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Grand Prix attack"]
+[HashCode "0594acd3"]
+[Epoch "Rook"]
+
+1. e4 c5 2. f4 e6 3. Nf3 Nc6 4. Nc3 Nge7 5. d4 Nxd4 6. Nxd4 cxd4 7. Qxd4
+Nc6 8. Qf2 d5 9. Be3 Bb4 10. exd5 Bxc3+ 11. bxc3 Qxd5 12. Bd3 e5 13. O-O
+exf4 14. Qxf4 Be6 15. Be4 Qc4 16. Rab1 O-O 17. Rxb7 Qxc3 18. Rc7 Rac8 19.
+Bxa7 Qa5 20. Rxc8 Qxa7+ 21. Kh1 Rxc8 22. a4 g6 23. Bd3 Qd4 24. h3 Qxf4 0-1
+

@@ -1,0 +1,15 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Steinhoff, Ivo"]
+[Black "Morgado, Juan Sebastian"]
+[Result "0-1"]
+[ECO "D32"]
+[Opening "QGD"]
+[Variation "Tarrasch defence, Marshall gambit"]
+[HashCode "504e132d"]
+[Epoch "Rook"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c5 4. cxd5 exd5 5. e4 dxe4 6. dxc5 Qxd1+ 7. Kxd1 Nf6
+8. Be3 Bg4+ 0-1

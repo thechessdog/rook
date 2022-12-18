@@ -1,0 +1,20 @@
+[Event "Salgo"]
+[Site "Salgo"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Frink, F."]
+[Black "Szokacs, L."]
+[Result "1-0"]
+[ECO "D31"]
+[Opening "QGD"]
+[Variation "3.Nc3"]
+[HashCode "e60cd2d7"]
+[Epoch "Rook"]
+
+1. d4 e6 2. c4 d5 3. Nc3 f5 4. c5 b6 5. cxb6 axb6 6. Bf4 Nf6 7. e3 Bd6 8.
+Bg5 O-O 9. Nf3 c5 10. dxc5 bxc5 11. Nxd5 exd5 12. Bxf6 Qxf6 13. Qxd5+ Kh8
+14. Qxa8 Qxb2 15. Rd1 Qb4+ 16. Nd2 Bb7 17. a3 Qb2 18. Qa4 Qe5 19. Qb3 Bd5
+20. Nc4 Bxc4 21. Bxc4 Bc7 22. f4 Ba5+ 23. Kf2 Qf6 24. Rd5 Nc6 25. Rxc5 Rb8
+26. Rb5 Re8 27. Bd5 Bd8 28. Qb2 Qe7 29. Qc3 Na5 30. Rhb1 h5 31. g3 h4 32.
+Qc5 Qf6 33. Bf3 hxg3+ 34. hxg3 1-0
+

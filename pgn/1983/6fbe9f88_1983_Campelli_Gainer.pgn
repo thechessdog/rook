@@ -1,0 +1,16 @@
+[Event "Ohio"]
+[Site "Ohio"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Campelli, C."]
+[Black "Gainer, G."]
+[Result "1-0"]
+[ECO "D11"]
+[Opening "QGD Slav"]
+[Variation "3.Nf3"]
+[HashCode "6fbe9f88"]
+[Epoch "Rook"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Na6 4. Nc3 dxc4 5. e4 e5 6. Nxe5 Nh6 7. Bxc4 Be7
+8. Bxh6 gxh6 9. Nxf7 1-0
+

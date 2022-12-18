@@ -1,0 +1,20 @@
+[Event "corr Netherlands"]
+[Site "corr Netherlands"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Wouters"]
+[Black "Wijker"]
+[Result "1-0"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "modern variation"]
+[HashCode "602ec0c6"]
+[Epoch "Rook"]
+
+1. b3 e5 2. Bb2 Nc6 3. e3 d5 4. Bb5 f6 5. Ne2 a6 6. Bxc6+ bxc6 7. d4 e4 8.
+Nf4 Nh6 9. h3 Nf7 10. c4 Be7 11. Qc2 Qd7 12. Nd2 Bb7 13. O-O-O Ng5 14. Kb1
+Bd6 15. f3 exf3 16. gxf3 O-O-O 17. Nd3 Nxh3 18. e4 dxe4 19. Nxe4 Kb8 20.
+Ndc5 Qc8 21. d5 Nf4 22. Nxd6 cxd6 23. Nxb7 Kxb7 24. Rxh7 Rxh7 25. Qxh7 Rd7
+26. Qe4 Nh3 27. c5 Ng5 28. Qb4+ Ka8 29. Rc1 Nf7 30. cxd6 c5 31. Rxc5 Qb7
+32. Qa5 1-0
+

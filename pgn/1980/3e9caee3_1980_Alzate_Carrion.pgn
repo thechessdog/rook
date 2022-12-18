@@ -1,0 +1,21 @@
+[Event "WchT U26"]
+[Site "Mexico"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Alzate, Dario"]
+[Black "Carrion, Marcelo"]
+[Result "1-0"]
+[ECO "B96"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7.f4"]
+[HashCode "3e9caee3"]
+[Epoch "Rook"]
+[BlackID "6400094"]
+[BlackCountry "DOM"]
+[WhiteID "4400046"]
+[WhiteCountry "COL"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 h6 8. Bh4
+Qb6 9. Qd2 Qxb2 10. Rb1 Qa3 11. f5 Be7 12. fxe6 fxe6 13. Bc4 d5 14. exd5 Nxd5
+15. Bxe7 Qxc3 16. Bxd5 Qxd2+ 17. Kxd2 exd5 18. Rhe1 Kf7 19. Bd6 Nd7 20. Re7+
+Kg6 21. Rb3 Nf6 22. Rg3+ Kh5 23. Rgxg7 Ne4+ 24. Kc1 Ng5 25. Ne2 1-0

@@ -1,0 +1,21 @@
+[Event "Brighton"]
+[Site "Brighton"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Gruchacz, Robert"]
+[Black "Van der Vliet, Fred"]
+[Result "0-1"]
+[ECO "B96"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Polugayevsky, Simagin variation"]
+[HashCode "5ea47f20"]
+[Epoch "Rook"]
+[BlackID "1000659"]
+[BlackCountry "NED"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 b5 8. e5
+dxe5 9. fxe5 Qc7 10. Qe2 Nfd7 11. O-O-O Bb7 12. Qg4 Qxe5 13. Bd3 h6 14. Nxe6
+hxg5 15. Rde1 Rh4 16. Qd1 fxe6 17. Bg6+ Ke7 18. Rxe5 Nxe5 19. Qd2 Rf4 20. Rd1
+Nbc6 21. Qd6+ Kf6 22. Nd5+ Kxg6 23. Nxf4+ gxf4 24. Qxe6+ Kh7 25. Rd5 Rc8 26. a3
+Rc7 27. Qf5+ Kg8 28. Qxf4 Rf7 29. Qg3 Nc4 30. Rd1 Bc5 31. Re1 Nd4 32. h4 Nf5
+33. Qb8+ Bf8 34. g3 Nd4 35. g4 Rf2 0-1

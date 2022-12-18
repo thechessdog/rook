@@ -1,0 +1,19 @@
+[Event "Yurmala"]
+[Site "Yurmala"]
+[Date "1983.01.01"]
+[Round "10"]
+[White "Pytel, Krzysztof"]
+[Black "Gipslis, Aivars"]
+[Result "1/2-1/2"]
+[ECO "E15"]
+[Opening "Queen's Indian"]
+[Variation "Nimzovich variation (exaggerated fianchetto)"]
+[HashCode "e201b5e5"]
+[Epoch "Rook"]
+[WhiteID "600199"]
+[WhiteCountry "FRA"]
+[BlackCountry "LVA"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. b3 Bb4+ 6. Bd2 Be7 7. Nc3 d5 8. cxd5
+exd5 9. Bg2 O-O 10. O-O Bb7 11. Rc1 Na6 12. Bg5 Ne4 13. Bxe7 Qxe7 14. e3 c5 15.
+dxc5 Nxc3 16. Rxc3 bxc5 17. Nh4 1/2-1/2

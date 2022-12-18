@@ -1,0 +1,21 @@
+[Event "Futurity"]
+[Site "Chicago"]
+[Date "1982.01.01"]
+[Round "2"]
+[White "Kornfeld, Andreas"]
+[Black "Silman, Jeremy D"]
+[Result "0-1"]
+[ECO "E41"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5"]
+[HashCode "c80a4992"]
+[Epoch "Rook"]
+[BlackID "2000814"]
+[BlackCountry "USA"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 Nc6 6. Ne2 cxd4 7. exd4 d5 8. O-O
+dxc4 9. Bxc4 O-O 10. a3 Bd6 11. Qd3 b6 12. Rd1 Bb7 13. Qh3 Ne7 14. Bg5 Rc8 15.
+Ba2 Ne4 16. Bh4 Kh8 17. d5 Nxc3 18. Nxc3 exd5 19. Bb1 f5 20. Bxe7 Qxe7 21. Bxf5
+Rxf5 22. Qxf5 Rf8 23. Qh5 Bc5 24. Rd2 d4 25. Na4 Qe4 26. Qh3 Be7 27. Rad1 Bf6
+28. Rd3 Re8 29. f3 Qc6 30. b3 Qc2 31. Qd7 Bc6 32. Qc7 Re2 33. Qc8+ Re8 34. Qf5
+h6 35. Qh5 Re2 36. Qg4 b5 37. Qc8+ Kh7 38. Qf5+ g6 39. Qg4 bxa4 0-1

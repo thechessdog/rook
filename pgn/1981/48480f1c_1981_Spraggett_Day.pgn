@@ -1,0 +1,24 @@
+[Event "Montreal zt"]
+[Site "Montreal zt"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Spraggett, Kevin"]
+[Black "Day, Lawrence A."]
+[Result "1-0"]
+[ECO "E54"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Gligoric system with 7...dc"]
+[HashCode "48480f1c"]
+[Epoch "Rook"]
+[WhiteID "2600013"]
+[WhiteCountry "CAN"]
+[BlackID "2600137"]
+[BlackCountry "CAN"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 c5 6. Nf3 d5 7. O-O dxc4 8. Bxc4
+cxd4 9. exd4 Nc6 10. a3 Be7 11. Bd3 b6 12. Re1 Bb7 13. Bc2 Rc8 14. Qd3 Re8 15.
+d5 exd5 16. Bg5 Ne4 17. Nxe4 dxe4 18. Qxe4 g6 19. Rad1 Qc7 20. Qh4 Bf8 21. Bf4
+Rxe1+ 22. Rxe1 Qd8 23. Bg5 Qc7 24. Bb3 Nd8 25. Ne5 Qd6 26. Ng4 h5 27. Nf6+ Kh8
+28. Nxh5 gxh5 29. Qxh5+ Kg7 30. Bxd8 Qg6 31. Qxg6+ Kxg6 32. Bh4 Bg7 33. h3 Bxb2
+34. Re7 Rc1+ 35. Kh2 Bc6 36. Bxf7+ Kf5 37. Be6+ Kg6 38. Rxa7 Rc3 39. g4 Be4 40.
+Bf7+ Kh6 41. g5+ 1-0

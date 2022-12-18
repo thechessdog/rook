@@ -1,0 +1,20 @@
+[Event "Alessandria"]
+[Site "Alessandria"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Fabbri, Mario"]
+[Black "Santolini, Luigi"]
+[Result "0-1"]
+[ECO "B20"]
+[Opening "Sicilian"]
+[Variation "Steinitz variation"]
+[HashCode "dda6b927"]
+[Epoch "Rook"]
+[WhiteID "801330"]
+[BlackID "801151"]
+[WhiteCountry "ITA"]
+[BlackCountry "ITA"]
+
+1. e4 c5 2. g3 d5 3. Nc3 d4 4. Nce2 e5 5. d3 Be6 6. c4 dxc3 7. bxc3 Nc6 8. Be3
+Qd7 9. Qd2 Nf6 10. h3 c4 11. Nc1 cxd3 12. Bxd3 Rd8 13. a4 Be7 14. f3 O-O 15. g4
+Na5 16. Bxa7 Nb3 17. Nxb3 Bxb3 18. Ke2 Bc4 19. Rd1 Qxa4 20. Qe3 Qxd1+ 0-1

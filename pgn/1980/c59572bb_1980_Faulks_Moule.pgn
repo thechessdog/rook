@@ -1,0 +1,20 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Faulks"]
+[Black "Moule"]
+[Result "1-0"]
+[ECO "C43"]
+[Opening "Petrov"]
+[Variation "modern attack, main line"]
+[HashCode "c59572bb"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nf6 3. d4 exd4 4. e5 Ne4 5. Qxd4 d5 6. exd6 Nxd6 7. Nc3 Nc6
+8. Qf4 Be6 9. Bd2 g6 10. O-O-O Bg7 11. Bd3 Qf6 12. Qg3 h6 13. Na4 O-O 14.
+Bc3 Qd8 15. Bxg7 Kxg7 16. Nc5 Qf6 17. h4 Bf5 18. h5 Nb4 19. hxg6 Nxd3+ 20.
+Nxd3 fxg6 21. Nde5 Rad8 22. Rd4 Ne4 23. Qh2 g5 24. g4 Bh7 25. Nd3 Rd6 26.
+Rxd6 cxd6 27. Nd4 Rf7 28. Nf5+ Bxf5 29. gxf5 Nc5 30. Nb4 g4 31. f4 gxf3 32.
+Rg1+ Kf8 33. Rg6 f2 1-0
+

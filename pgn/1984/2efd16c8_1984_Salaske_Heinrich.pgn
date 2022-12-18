@@ -1,0 +1,18 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Salaske, P."]
+[Black "Heinrich"]
+[Result "1-0"]
+[ECO "D55"]
+[Opening "QGD"]
+[Variation "6.Nf3"]
+[HashCode "2efd16c8"]
+[Epoch "Rook"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. e3 O-O 6. Nf3 c6 7. Bxf6 Bxf6 8.
+Qc2 Nd7 9. Bd3 g6 10. h4 dxc4 11. Bxc4 b5 12. Bd3 h5 13. Bxg6 Qa5 14. Be4
+Bb7 15. Ng5 b4 16. Bxc6 Bxg5 17. Bxb7 bxc3 18. b4 Qxb4 19. Bxa8 Bxe3 20.
+fxe3 Rxa8 21. O-O Nb6 22. Rab1 Qc4 23. Rf3 Nd5 24. Rb7 Nc7 25. Rxf7 1-0
+

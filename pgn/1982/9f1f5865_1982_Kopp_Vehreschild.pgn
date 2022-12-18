@@ -1,0 +1,18 @@
+[Event "corr FRG/K"]
+[Site "corr FRG/K"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Kopp"]
+[Black "Vehreschild"]
+[Result "0-1"]
+[ECO "B78"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, 10.O-O-O"]
+[HashCode "9f1f5865"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8.
+Qd2 Nc6 9. Bc4 Bd7 10. O-O-O Qb8 11. h4 Rc8 12. Bb3 a5 13. h5 a4 14. Bd5 e6
+15. hxg6 exd5 16. gxh7+ Kh8 17. Bh6 Ne8 18. Nf5 Bxf5 19. exf5 a3 20. Rde1
+axb2+ 21. Kb1 Ne5 22. f4 Qa7 23. fxe5 Rxc3 24. Qxd5 Qa4 25. Re2 Rc4 0-1
+

@@ -1,0 +1,22 @@
+[Event "corr GB candidates"]
+[Site "corr GB candidates"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Beach, S."]
+[Black "Sloth, Jorn"]
+[Result "0-1"]
+[ECO "A75"]
+[Opening "Benoni"]
+[Variation "classical with ...a6 and 10...Bg4"]
+[HashCode "4bdebce3"]
+[Epoch "Rook"]
+[BlackID "1400240"]
+[BlackCountry "DEN"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 c5 4. d5 exd5 5. cxd5 d6 6. e4 g6 7. Nf3 Bg7 8. Be2
+O-O 9. O-O a6 10. a4 Bg4 11. Bf4 Re8 12. Nd2 Bxe2 13. Qxe2 Nh5 14. Be3 Nd7 15.
+g4 Bxc3 16. bxc3 Nhf6 17. Bg5 h6 18. Bxh6 Nxd5 19. f4 Qh4 20. Bg5 Qh3 21. Rf3
+Qxg4+ 22. Kh1 Nxc3 23. Qd3 Nxe4 24. Nxe4 c4 25. Qc3 Rxe4 26. Rh3 f6 27. Bxf6
+Qf5 28. Bg5 Rf8 29. Rd1 Nf6 30. Rxd6 Rfe8 31. Rd1 Nh7 32. Rh6 Qe6 33. Rg1 Re1
+34. Rxg6+ Qxg6 35. Rxe1 Rxe1+ 36. Qxe1 Nxg5 37. fxg5 Qc6+ 38. Kg1 c3 39. Qc1 c2
+40. Kf2 Qe4 41. Qd2 Kf7 42. Kg3 Kg6 43. Qd6+ Kxg5 44. Qd8+ Kf5 45. Qc8+ Ke5 0-1

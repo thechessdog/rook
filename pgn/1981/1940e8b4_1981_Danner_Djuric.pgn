@@ -1,0 +1,26 @@
+[Event "Ljubljana"]
+[Site "Ljubljana"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Danner, Georg"]
+[Black "Djuric, Stefan"]
+[Result "0-1"]
+[ECO "E76"]
+[Opening "King's Indian"]
+[Variation "Four pawns attack, dynamic line"]
+[HashCode "1940e8b4"]
+[Epoch "Rook"]
+[WhiteID "1600303"]
+[WhiteCountry "AUT"]
+[BlackID "900133"]
+[BlackCountry "SRB"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f4 O-O 6. Nf3 c5 7. d5 e6 8. dxe6
+Bxe6 9. Bd3 Bd7 10. O-O Bc6 11. Bd2 Na6 12. a3 Qb6 13. Na4 Qd8 14. Qc2 Rb8 15.
+Nc3 Nc7 16. b4 b6 17. Rae1 cxb4 18. axb4 a5 19. Nb5 Na6 20. e5 dxe5 21. Nxe5
+Ba8 22. bxa5 bxa5 23. c5 Nd5 24. Nd6 Ndb4 25. Qc4 Bd5 26. Qd4 Nc7 27. f5 Nc6
+28. Qf4 Nxe5 29. Rxe5 g5 30. Qg3 Bxe5 31. Qxe5 f6 32. Qd4 Ra8 33. h4 h6 34. Kf2
+Qe7 35. hxg5 hxg5 36. Rh1 Qe5 37. Qxe5 fxe5 38. Rh5 Ne6 39. c6 Rad8 40. Nb7 Ra8
+41. Bc3 Nf4 42. Rxg5+ Kf7 43. Bb5 Kf6 44. Rg3 Kxf5 45. Re3 Kg4 46. Kg1 Nxg2 47.
+Rxe5 Nf4 48. Be2+ Nxe2+ 49. Rxe2 a4 50. Na5 Rf3 51. Bb4 a3 52. c7 a2 53. Re1
+Kh3 0-1

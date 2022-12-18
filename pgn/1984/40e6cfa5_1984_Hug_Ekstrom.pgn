@@ -1,0 +1,19 @@
+[Event "Zurich"]
+[Site "Zurich"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Hug, Werner"]
+[Black "Ekstroem, Roland"]
+[Result "1/2-1/2"]
+[ECO "B10"]
+[Opening "Caro-Kann"]
+[Variation "closed (Breyer) variation"]
+[HashCode "40e6cfa5"]
+[Epoch "Rook"]
+[WhiteID "1300040"]
+[WhiteCountry "SUI"]
+[BlackID "1302302"]
+[BlackCountry "SUI"]
+
+1. e4 c6 2. d3 d5 3. Nd2 g6 4. Ngf3 Bg7 5. g3 e5 6. Bg2 Ne7 7. O-O O-O 8. Re1
+d4 9. a4 c5 10. Rf1 Nbc6 11. Nh4 Qc7 12. f4 exf4 13. gxf4 f5 14. Nc4 1/2-1/2

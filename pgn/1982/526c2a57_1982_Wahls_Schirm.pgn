@@ -1,0 +1,27 @@
+[Event "Regionalliga Nord"]
+[Site "RLN 8182"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Wahls, Matthias"]
+[Black "Schirm, Friedmar"]
+[Result "0-1"]
+[ECO "C08"]
+[Opening "French"]
+[Variation "Tarrasch, open, 4.ed ed"]
+[HashCode "526c2a57"]
+[Epoch "Rook"]
+[WhiteID "4600070"]
+[WhiteCountry "GER"]
+[BlackID "4604920"]
+[BlackCountry "GER"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. exd5 exd5 5. Bb5+ Nc6 6. Qe2+ Be7 7. dxc5 Nf6 8.
+Nb3 O-O 9. Be3 Re8 10. O-O-O a6 11. Ba4 Bd7 12. Nf3 a5 13. Kb1 Na7 14. Bxd7
+Qxd7 15. Ne5 Qc7 16. Nd3 a4 17. Nd4 a3 18. c3 axb2 19. Qxb2 Bxc5 20. Nxc5 Qxc5
+21. Qb4 Qc8 22. Rd2 Ne4 23. Rc2 Nc6 24. Nxc6 bxc6 25. Rb2 Qf5 26. Ka1 Rac8 27.
+Bc5 h6 28. h3 Nxc5 29. Qxc5 Re4 30. Rhb1 Qe5 31. Rb4 Rxb4 32. Rxb4 Qe2 33. Rb1
+Ra8 34. Rb2 Qd1+ 35. Rb1 Qa4 36. Rb2 Re8 37. Qd4 Qa3 38. Qd2 c5 39. Rb3 Qa8 40.
+Rb1 Qa5 41. Rd1 Rb8 42. Qc2 Rd8 43. f3 d4 44. cxd4 cxd4 45. Rd3 Qe5 46. Qd1 Rd5
+47. Qd2 Kh7 48. Qd1 Qd6 49. Qc2 g6 50. Qd2 Qe5 51. Qd1 Qf6 52. Qd2 Re5 53. Qc2
+Re1+ 54. Kb2 Qe5 55. Kb3 Qb5+ 56. Ka3 Re3 57. Rb3 Qa6+ 58. Kb4 Qd6+ 59. Ka4 d3
+60. Qd1 Qc5 61. Qd2 Qd4+ 62. Ka3 Re8 63. Rb4 Ra8+ 64. Kb3 Qd5+ 65. Rc4 Rc8 0-1

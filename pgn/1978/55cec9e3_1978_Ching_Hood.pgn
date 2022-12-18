@@ -1,0 +1,17 @@
+[Event "Memphis"]
+[Site "Memphis"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Ching"]
+[Black "Hood"]
+[Result "0-1"]
+[ECO "C89"]
+[Opening "Ruy Lopez"]
+[Variation "Marshall counter-attack, 11...c6"]
+[HashCode "55cec9e3"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8.
+c3 d5 9. exd5 Nxd5 10. Nxe5 Nxe5 11. Rxe5 c6 12. g3 Bd6 13. Re1 Qd7 14. Qe2
+Qh3 15. Qf1 Qh5 16. Qg2 Bh3 17. Qh1 Rae8 18. Rd1 Qxd1+ 0-1
+

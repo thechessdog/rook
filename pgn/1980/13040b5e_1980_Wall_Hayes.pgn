@@ -1,0 +1,16 @@
+[Event "Dayton,OH"]
+[Site "Dayton,OH"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Wall, Bill"]
+[Black "Hayes"]
+[Result "1-0"]
+[ECO "C39"]
+[Opening "KGA"]
+[Variation "Allgaier gambit"]
+[HashCode "13040b5e"]
+[Epoch "Rook"]
+[WhiteCountry "USA"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. h4 g4 5. Ng5 f6 6. Qxg4 fxg5 7. Qh5+ Ke7 8.
+Qxg5+ Ke8 9. Qe5+ Qe7 10. Qxh8 Qxe4+ 11. Kd1 1-0

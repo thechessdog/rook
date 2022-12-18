@@ -1,0 +1,20 @@
+[Event "ACM Detroit"]
+[Site "ACM Detroit"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Rufus"]
+[Black "L'Excentrique"]
+[Result "0-1"]
+[ECO "A10"]
+[Opening "English"]
+[Variation "Anglo-Dutch defense"]
+[HashCode "6ae1779f"]
+[Epoch "Rook"]
+
+1. c4 f5 2. Nc3 Nf6 3. Nf3 a5 4. e3 e6 5. Be2 Be7 6. O-O O-O 7. d4 Ne4 8.
+Bd2 d5 9. cxd5 exd5 10. Qb3 Nxc3 11. Qxc3 Bb4 12. Qc2 Qe7 13. Ne5 Bxd2 14.
+Qxd2 a4 15. Rac1 g6 16. Rfe1 Kg7 17. Bf3 c6 18. Qd3 Nd7 19. Nxd7 Bxd7 20.
+Rc5 b6 21. Rcc1 h5 22. g3 h4 23. b3 a3 24. h3 Rh8 25. Bg2 g5 26. g4 fxg4
+27. hxg4 h3 28. Bf3 Qf6 29. Qe2 Raf8 30. Bh1 h2+ 31. Kf1 Bxg4 32. Qc2 Bh3+
+33. Ke2 Qxf2+ 34. Kd3 Bf5+ 35. e4 Rh3+ 36. Bf3 Rxf3+ 37. Re3 Qxe3# 0-1
+

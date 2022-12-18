@@ -1,0 +1,22 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Sandak"]
+[Black "Wolf"]
+[Result "1-0"]
+[ECO "C45"]
+[Opening "Scotch"]
+[Variation "Mieses variation"]
+[HashCode "0056b62d"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nf6 5. Nxc6 bxc6 6. e5 Nd5 7. c4 Nb6
+8. Bd3 Be7 9. Qg4 g6 10. O-O d5 11. Qg3 Be6 12. f4 Qd7 13. Nc3 d4 14. Ne4
+Nxc4 15. b3 Nb6 16. Ba3 O-O-O 17. Nc5 Bxc5 18. Bxc5 Kb7 19. Rfd1 h5 20. Be2
+Qc8 21. a4 a5 22. Bxd4 Rd5 23. Qc3 Bg4 24. Rdc1 Qe6 25. Bf1 Rhd8 26. Bxb6
+cxb6 27. Bc4 Rc5 28. Bxe6 Rxc3 29. Bxf7 Rf8 30. e6 Rxc1+ 31. Rxc1 Bxe6 32.
+Bxe6 Rxf4 33. Rf1 Rd4 34. Rf7+ Kb8 35. Rg7 Rd1+ 36. Kf2 Rd2+ 37. Kf3 b5 38.
+axb5 cxb5 39. Rxg6 a4 40. Rg5 a3 41. Rxb5+ Kc7 42. Ra5 Rd6 43. Bc4 Rf6+ 44.
+Kg3 Rg6+ 45. Kh3 1-0
+

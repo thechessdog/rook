@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Guitarte"]
+[Black "Anton"]
+[Result "1-0"]
+[ECO "C85"]
+[Opening "Ruy Lopez"]
+[Variation "Exchange variation doubly deferred (DERLD)"]
+[HashCode "14b0654b"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Bxc6 dxc6 7. d3 Bg4
+8. Nbd2 Nd7 9. Nc4 O-O 10. Ne3 Bh5 11. Nf5 Nc5 12. Ng3 Bxf3 13. Qxf3 Ne6
+14. c3 Bc5 15. Nf5 b5 16. Qg3 Qf6 17. Nh6+ Kh8 18. Ng4 Qd8 19. Nxe5 Bd6 20.
+f4 Bxe5 21. fxe5 c5 22. Rf5 g6 23. Rf3 c6 24. Bh6 Ng7 25. Bg5 Qd7 26. Bf6
+Rg8 27. Qg5 b4 28. Qh6 1-0
+

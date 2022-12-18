@@ -1,0 +1,21 @@
+[Event "USA"]
+[Site "USA"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Belle"]
+[Black "Chaos"]
+[Result "1-0"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "f1106023"]
+[Epoch "Rook"]
+
+1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. d4 Nc6 5. Nf3 cxd4 6. cxd4 d6 7. Bc4 Nb6 8.
+Bb5 e6 9. O-O Be7 10. exd6 Qxd6 11. Nc3 O-O 12. Re1 Bd7 13. Be3 Nd5 14. Ba4
+Nxe3 15. fxe3 Rfc8 16. e4 a6 17. Bxc6 Rxc6 18. Ne5 Rc7 19. Re2 Be8 20. Nf3
+Rac8 21. e5 Qb4 22. d5 Qc5+ 23. Kh1 exd5 24. Nxd5 Rd8 25. Rd2 Rcd7 26. b4
+Qxd5 27. Rxd5 Rxd5 28. Qe1 Ba4 29. Qc3 Bc6 30. a3 Bg5 31. Qc2 Bf4 32. Re1
+Rd3 33. Qc4 Bh6 34. e6 Rxa3 35. exf7+ Kf8 36. Qc5+ Kxf7 37. Qe7+ Kg8 38.
+Qxd8+ 1-0
+

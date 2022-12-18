@@ -1,0 +1,20 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Grehl"]
+[Black "Schmidt Seifert, B."]
+[Result "1-0"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, poisoned pawn variation"]
+[HashCode "792d965f"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Qg4 Ng6 8.
+Bd2 Qc7 9. h4 h5 10. Qg5 cxd4 11. cxd4 Qxc2 12. Rc1 Qe4+ 13. Qe3 Qxe3+ 14.
+fxe3 Nc6 15. Bd3 Nge7 16. Nf3 Bd7 17. O-O O-O 18. Ng5 g6 19. Rf6 Nf5 20.
+Bxf5 exf5 21. e6 Kg7 22. Rxf7+ Rxf7 23. exf7 a5 24. Rc5 Kf6 25. f8=Q+ Rxf8
+26. Nh7+ Kf7 27. Nxf8 Kxf8 28. Rxd5 Be8 29. Bxa5 Nxa5 30. Rxa5 Ke7 31. Re5+
+Kd7 32. Rxe8 Kxe8 33. Kf2 Ke7 34. Kf3 1-0
+

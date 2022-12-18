@@ -1,0 +1,17 @@
+[Event "St Charles"]
+[Site "St Charles"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Lutes, W."]
+[Black "Marklin, A."]
+[Result "1-0"]
+[ECO "C21"]
+[Opening "Danish gambit"]
+[HashCode "a0911762"]
+[Epoch "Rook"]
+
+1. e4 e5 2. d4 exd4 3. c3 dxc3 4. Bc4 cxb2 5. Bxb2 Ne7 6. Qb3 d5 7. exd5
+Qd6 8. Nc3 a6 9. Ne4 Qb6 10. d6 Qxb3 11. Bxb3 Nf5 12. dxc7 Nc6 13. O-O-O
+Bd7 14. Nf3 Be7 15. Bxf7+ Kxf7 16. Rxd7 Rhe8 17. g4 Ke6 18. Rhd1 Nh6 19.
+Nfg5+ Bxg5+ 20. Nxg5# 1-0
+

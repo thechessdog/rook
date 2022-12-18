@@ -1,0 +1,24 @@
+[Event "Mexico"]
+[Site "Mexico"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Ehlvest, Jaan"]
+[Black "Salov, Valery"]
+[Result "1-0"]
+[ECO "E52"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line with ...b6"]
+[HashCode "2f50f09d"]
+[Epoch "Rook"]
+[WhiteID "4500016"]
+[BlackID "4100069"]
+[WhiteCountry "USA"]
+[BlackCountry "RUS"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 b6 7. O-O Bb7 8. a3
+Bd6 9. b4 a5 10. c5 axb4 11. Na4 bxc5 12. dxc5 Rxa4 13. Qxa4 Bxc5 14. axb4 Bd6
+15. Be2 e5 16. b5 Ne4 17. Qc2 Nd7 18. Ba3 Re8 19. Ne1 Nb6 20. Bxd6 Nxd6 21. Nd3
+d4 22. Nc5 Ba8 23. e4 f5 24. Bd3 fxe4 25. Nxe4 Kh8 26. Rfe1 Nd5 27. Nxd6 cxd6
+28. Be4 Rf8 29. Qb3 Nb6 30. Bxa8 Nxa8 31. f3 h6 32. Rac1 Qa5 33. Re2 Qa7 34.
+Kh1 Nb6 35. h3 Nd7 36. Qe6 Qa3 37. Rc7 d3 38. Qxd7 Qa1+ 39. Kh2 e4 40. Rxe4 d2
+41. Re8 1-0

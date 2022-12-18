@@ -1,0 +1,23 @@
+[Event "Reykjavik"]
+[Site "Reykjavik"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Arnason, J."]
+[Black "Ivanovic, Bozidar"]
+[Result "0-1"]
+[ECO "B12"]
+[Opening "Caro-Kann"]
+[Variation "3.Nd2"]
+[HashCode "0fe41ad4"]
+[Epoch "Rook"]
+[WhiteCountry "ISL"]
+[BlackID "900095"]
+[BlackCountry "MNE"]
+
+1. e4 c6 2. d4 d5 3. Nd2 g6 4. Ngf3 Bg7 5. c3 Nh6 6. Bd3 O-O 7. O-O Na6 8. Re1
+Nc7 9. h3 f6 10. Nb3 Nf7 11. Bf4 b6 12. Bg3 e6 13. Qc2 Bb7 14. Re2 f5 15. exf5
+exf5 16. Rae1 Bf6 17. Be5 Nxe5 18. Nxe5 Qd6 19. c4 dxc4 20. Nxc4 Qd8 21. Ne5
+Kg7 22. Rd2 Re8 23. Be2 Nd5 24. Bf3 Rc8 25. Rde2 Ba6 26. Rd2 Qd6 27. Qd1 Bg5
+28. Rc2 Nb4 29. Rc3 Bb5 30. Nc1 Nd5 31. Rc2 Rcd8 32. a3 Ne7 33. Rc3 Nd5 34. Rc2
+Re6 35. b3 Qxa3 36. Nc4 Rxe1+ 37. Qxe1 Qe7 38. Re2 Qb4 39. Qf1 Qc3 40. Nd3 Qxb3
+41. Nde5 Nc3 42. Re1 Rxd4 43. Ra1 a6 0-1

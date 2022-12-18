@@ -1,0 +1,25 @@
+[Event "Bor"]
+[Site "Bor"]
+[Date "1983.01.01"]
+[Round "13"]
+[White "Inkiov, Ventzislav"]
+[Black "Stojanovic, Zoran"]
+[Result "1-0"]
+[ECO "E56"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line with 7...Nc6"]
+[HashCode "9ceb5cda"]
+[Epoch "Rook"]
+[WhiteID "2900033"]
+[WhiteCountry "FID"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 Bb4+ 4. Nc3 O-O 5. e3 c5 6. Bd3 d5 7. O-O Nc6 8. a3
+Ba5 9. cxd5 exd5 10. dxc5 Bxc3 11. bxc3 Qa5 12. Qc2 Qxc5 13. c4 dxc4 14. Bxc4
+Be6 15. Bd3 Qh5 16. Bb2 Rac8 17. Qa4 Qg4 18. Qxg4 Bxg4 19. Ng5 Rcd8 20. Bb1
+Rfe8 21. h3 Be2 22. Re1 Bd3 23. Ba2 Bg6 24. Nf3 Be4 25. Nd4 a6 26. Rac1 Nxd4
+27. Bxd4 Bd5 28. Bb1 Ne4 29. Red1 Bc6 30. f3 Ng5 31. Bb6 Rc8 32. Bc2 Ne6 33.
+Bb3 g6 34. a4 Nf8 35. a5 Ne6 36. Rc2 Ng7 37. e4 Ne6 38. Kf2 Kg7 39. Rdc1 Nf4
+40. Ke3 g5 41. h4 h6 42. hxg5 hxg5 43. g3 Ng6 44. Bd5 Ne7 45. Bb3 Nf5+ 46. Kf2
+Ne7 47. Bc5 g4 48. Bd4+ Kg6 49. Rh1 gxf3 50. Rh4 Bd7 51. Rxc8 Rxc8 52. Rf4 f5
+53. g4 fxe4 54. Rf6+ Kg5 55. Rf7 Nc6 56. Be3+ Kxg4 57. Rxd7 Re8 58. Bd5 Re5 59.
+Rg7+ Kh4 60. Bf7 Nb4 61. Bf4 Nd3+ 62. Ke3 f2 63. Bxe5 f1=Q 64. Bg3+ 1-0

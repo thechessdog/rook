@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Pajarinen"]
+[Black "Pennanen"]
+[Result "1-0"]
+[ECO "E27"]
+[Opening "Nimzo-Indian"]
+[Variation "Saemisch variation"]
+[HashCode "4b75ca25"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. a3 Bxc3+ 5. bxc3 O-O 6. f3 Ne8 7. e4 b6 8.
+Nh3 Qh4+ 9. Nf2 d6 10. Bd3 e5 11. O-O Nd7 12. Ra2 Bb7 13. Nh3 h6 14. f4
+Nef6 15. Re2 Rfe8 16. Rf3 exf4 17. Rxf4 Qh5 18. Qe1 Qg6 19. Rh4 Nh7 20. Nf4
+Qf6 21. Rg4 g5 22. h4 c5 23. e5 dxe5 24. Bxh7+ Kxh7 25. hxg5 Qg7 26. Rh4
+cxd4 27. Rxh6+ Kg8 28. Nh5 Qxh6 29. gxh6 Re6 30. cxd4 Rae8 31. Ng7 1-0
+

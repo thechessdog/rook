@@ -1,0 +1,20 @@
+[Event "Hillerod"]
+[Site "Hillerod"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Haahr, Niels"]
+[Black "Hirtsgaard, Niels"]
+[Result "0-1"]
+[ECO "B40"]
+[Opening "Sicilian"]
+[Variation "Anderssen variation"]
+[HashCode "bcfa7e8b"]
+[Epoch "Rook"]
+[BlackID "1401351"]
+[BlackCountry "DEN"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Bd3 d6 6. Nc3 Nc6 7. Be3 a6 8. O-O
+Qc7 9. Kh1 g6 10. f4 Bg7 11. Nf3 b5 12. a3 O-O 13. Qe1 Ng4 14. Bg1 f5 15. exf5
+gxf5 16. Rd1 Rb8 17. h3 Nf6 18. Nd4 Nxd4 19. Bxd4 Nh5 20. Bxg7 Qxg7 21. Kh2 e5
+22. g3 exf4 23. gxf4 Kh8 24. Rg1 Qh6 25. Nd5 Bb7 26. Qc3+ Nf6 27. Bf1 Rbc8 28.
+Nc7 Rf7 29. Rxd6 Qxf4+ 30. Qg3 Qxg3+ 31. Rxg3 Ne4 0-1

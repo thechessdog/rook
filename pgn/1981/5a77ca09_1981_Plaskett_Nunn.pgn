@@ -1,0 +1,18 @@
+[Event "Ramsgate"]
+[Site "Ramsgate"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Plaskett, H James"]
+[Black "Nunn, John D M"]
+[Result "1/2-1/2"]
+[ECO "B95"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6...e6"]
+[HashCode "5a77ca09"]
+[Epoch "Rook"]
+[BlackID "400017"]
+[BlackCountry "ENG"]
+[WhiteCountry "ENG"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. Qd2 h6 8. Bxf6
+Qxf6 9. f4 Nc6 10. Nf3 g5 11. fxg5 hxg5 12. Qxg5 Qxg5 13. Nxg5 Ne5 1/2-1/2

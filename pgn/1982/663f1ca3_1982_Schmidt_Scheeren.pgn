@@ -1,0 +1,28 @@
+[Event "Nijmegen"]
+[Site "Nijmegen"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Schmidt, Bodo"]
+[Black "Scheeren, Peter"]
+[Result "1/2-1/2"]
+[ECO "A46"]
+[Opening "Queen's pawn"]
+[Variation "Torre attack"]
+[HashCode "663f1ca3"]
+[Epoch "Rook"]
+[BlackID "1000136"]
+[BlackCountry "NED"]
+[WhiteID "4601505"]
+[WhiteCountry "GER"]
+
+1. d4 Nf6 2. Nf3 e6 3. Bg5 c5 4. c3 d5 5. e3 Nbd7 6. Nbd2 Be7 7. Bd3 O-O 8. O-O
+Qc7 9. Bf4 Bd6 10. Bxd6 Qxd6 11. Qe2 e5 12. e4 exd4 13. cxd4 Re8 14. Rfe1 cxd4
+15. e5 Qb8 16. Nb3 b6 17. Nbxd4 Bb7 18. Nf5 Ne4 19. Bb5 Qd8 20. Rad1 Nxe5 21.
+Bxe8 Qxe8 22. Nxe5 Qxe5 23. Nd4 Qf4 24. f3 Nf6 25. Qe5 Qxe5 26. Rxe5 Kf8 27.
+Rc1 Rc8 28. Rxc8+ Bxc8 29. Re1 Bd7 30. Rc1 Ne8 31. Kf2 Ke7 32. Nc6+ Bxc6 33.
+Rxc6 Kd7 34. Rc1 Nc7 35. Ke3 Ne6 36. g3 Nc5 37. b4 Ne6 38. Kd3 f5 39. Rc3 a6
+40. Rc1 Nc7 41. a4 Kd6 42. Re1 Ne6 43. f4 g6 44. Rc1 Kd7 45. Ke3 a5 46. bxa5
+bxa5 47. h3 Kd6 48. Rc8 Nc5 49. Ra8 Kc6 50. Rxa5 d4+ 51. Kf3 Ne4 52. Re5 d3 53.
+Rxe4 fxe4+ 54. Ke3 Kc5 55. a5 Kc4 56. a6 Kc3 57. a7 d2 58. a8=Q d1=Q 59. Qc6+
+Kb3 60. Qb6+ Kc4 61. Qc6+ Kb3 62. Qe6+ Ka3 63. Qxe4 Qe1+ 64. Kd4 Qb4+ 65. Ke5
+Qe7+ 1/2-1/2

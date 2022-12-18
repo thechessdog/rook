@@ -1,0 +1,23 @@
+[Event "corr EUR/K"]
+[Site "corr EUR/K"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Anton"]
+[Black "Mayer"]
+[Result "1-0"]
+[ECO "E00"]
+[Opening "Queen's pawn game"]
+[HashCode "663e9ac2"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 b6 4. f3 d5 5. e3 Bb7 6. Bd2 c5 7. dxc5 Bxc5 8.
+Na4 Bd6 9. Qb3 O-O 10. c5 Bc7 11. cxb6 axb6 12. Bb5 Bc6 13. Ne2 Bxb5 14.
+Qxb5 Qd7 15. Nac3 Ra5 16. Qxd7 Nbxd7 17. Nd4 Raa8 18. Ncb5 Rfc8 19. Ke2 Bd8
+20. Rhc1 Rxc1 21. Rxc1 Be7 22. a3 Bc5 23. Nc6 Kf8 24. b4 Be7 25. Nca7 Ne5
+26. Rc8+ Rxc8 27. Nxc8 Nc4 28. Bc3 Ne8 29. Bd4 Bd8 30. Kd3 Nc7 31. Nca7 g6
+32. a4 Ke8 33. e4 Kd7 34. exd5 exd5 35. Nxc7 Bxc7 36. h3 Ke6 37. Nb5 Bd8
+38. Bc3 Ne5+ 39. Bxe5 Kxe5 40. g3 g5 41. Ke3 Ke6 42. f4 f6 43. f5+ Kxf5 44.
+Nd4+ Kg6 45. Nc6 Bc7 46. Kf3 Kf5 47. a5 bxa5 48. bxa5 h5 49. Ne7+ Ke5 50.
+a6 Bb6 51. Nc8 Bc5 52. a7 Bxa7 53. Nxa7 d4 54. Nc6+ Kd5 55. Na5 Ke5 56.
+Nc4+ Kd5 57. Nb2 Ke5 58. Nd3+ Kd5 59. Nf2 Ke5 60. h4 1-0
+

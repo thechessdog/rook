@@ -1,0 +1,16 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Gramstad"]
+[Black "Amundsen"]
+[Result "1-0"]
+[ECO "C00"]
+[Opening "French"]
+[Variation "Reti (Spielmann) variation"]
+[HashCode "fe3e77ca"]
+[Epoch "Rook"]
+
+1. b3 e6 2. e4 Nf6 3. Nc3 Nc6 4. Nf3 Bb4 5. Bb2 O-O 6. Bd3 b6 7. O-O Bb7 8.
+Ne2 Re8 9. a3 Bc8 10. e5 Nd5 11. c4 Nde7 12. Ng3 d6 13. Bxh7+ 1-0
+

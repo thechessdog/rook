@@ -1,0 +1,19 @@
+[Event "corr DDR-M"]
+[Site "corr DDR-M"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Otte, H."]
+[Black "Schwarzbach, W."]
+[Result "1-0"]
+[ECO "E58"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line with 8...Bxc3"]
+[HashCode "8147b487"]
+[Epoch "Rook"]
+
+1. c4 Nf6 2. Nc3 e6 3. d4 Bb4 4. e3 d5 5. Bd3 O-O 6. Nf3 c5 7. O-O Nc6 8.
+a3 Bxc3 9. bxc3 b6 10. cxd5 exd5 11. a4 Re8 12. Ba3 Ne4 13. Qc2 Bb7 14. Nd2
+Qg5 15. f4 Qg6 16. Rf3 f5 17. Rh3 cxd4 18. exd4 Rac8 19. Nf3 Qf6 20. Bb5
+Re6 21. Qd3 Ne7 22. Bd7 Rxc3 23. Bxe6+ Qxe6 24. Qe2 Nc6 25. Bb2 Rc4 26. Ne5
+Nxd4 27. Qd1 1-0
+

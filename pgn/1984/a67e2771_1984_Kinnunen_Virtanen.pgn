@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Kinnunen, V."]
+[Black "Virtanen, E."]
+[Result "0-1"]
+[ECO "C80"]
+[Opening "Ruy Lopez"]
+[Variation "open, 7.Bb3"]
+[HashCode "a67e2771"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 Be7 8.
+Nxe5 Nxe5 9. dxe5 Bb7 10. Qg4 O-O 11. Bh6 Ng5 12. Bxg7 Kxg7 13. f4 Kh8 14.
+fxg5 Bxg5 15. Rxf7 Be3+ 16. Kf1 Rxf7+ 17. Bxf7 Qe7 18. Ke2 Bc1 19. Nd2 Bxd2
+20. e6 dxe6 21. Qd4+ e5 0-1
+

@@ -1,0 +1,20 @@
+[Event "Regionalliga Nord"]
+[Site "RLN 8081"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Weiss, Siegfried"]
+[Black "Sieg, Ulrich, Dr."]
+[Result "0-1"]
+[ECO "A15"]
+[Opening "English, 1...Nf6 (Anglo-Indian defense)"]
+[HashCode "93463172"]
+[Epoch "Rook"]
+[WhiteID "4699408"]
+[WhiteCountry "GER"]
+[BlackID "4614763"]
+[BlackCountry "GER"]
+
+1. c4 Nf6 2. g3 e6 3. Bg2 c5 4. e4 d5 5. e5 Nfd7 6. f4 dxc4 7. Nh3 Nb6 8. Nc3
+Be7 9. Be4 Na6 10. Qg4 g6 11. Qf3 Nb4 12. Nf2 f5 13. exf6 Bxf6 14. h4 O-O 15.
+Ng4 Bd4 16. Qe2 e5 17. h5 Nd3+ 18. Kf1 Nxf4 19. Nh6+ Kg7 20. gxf4 Rxf4+ 21. Ke1
+Rf2 22. Qd1 Qg5 23. Ne2 Bh3 24. Nxd4 Qg3 25. Ne2 Rf1# 0-1

@@ -1,0 +1,17 @@
+[Event "BL2-N 8384"]
+[Site "BL2-N 8384"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Schulz, H."]
+[Black "Hagemann, T."]
+[Result "1/2-1/2"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack"]
+[HashCode "07e94251"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 h6 4. Bh4 c5 5. e4 Nxe4 6. Nxe4 dxe4 7. d5 Na6
+8. Ne2 Qa5+ 9. Nc3 Nc7 10. Bg3 a6 11. Be2 Bf5 12. O-O Rd8 13. Qd2 Nxd5 14.
+Qe1 Nxc3 15. bxc3 e6 16. f3 e3 17. Bf4 Bd6 18. Bxd6 Rxd6 19. Qg3 Ke7 20.
+Qxg7 Rhd8 21. f4 1/2-1/2
+

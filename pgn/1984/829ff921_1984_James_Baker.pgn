@@ -1,0 +1,20 @@
+[Event "Brighton ch-BCF"]
+[Site "Brighton ch-BCF"]
+[Date "1984.08.01"]
+[Round "7"]
+[White "James, Simon"]
+[Black "Baker, Chris W"]
+[Result "0-1"]
+[ECO "E40"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Taimanov variation"]
+[HashCode "829ff921"]
+[Epoch "Rook"]
+[BlackID "401676"]
+[BlackCountry "ENG"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 Nc6 5. Bd3 e5 6. Ne2 d5 7. cxd5 Nxd5 8. a3
+Nxc3 9. bxc3 Bd6 10. Qc2 Qh4 11. d5 Nb8 12. Ng3 O-O 13. O-O Na6 14. Bxa6 bxa6
+15. c4 f5 16. c5 Be7 17. f4 exf4 18. Rxf4 Qf6 19. Bb2 Qf7 20. e4 Bg5 21. Rxf5
+Bxf5 22. Nxf5 Bf6 23. Rf1 Bxb2 24. Nh6+ gxh6 25. Rxf7 Bd4+ 26. Kh1 Rxf7 27. h3
+Raf8 0-1

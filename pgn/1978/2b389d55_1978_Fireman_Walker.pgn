@@ -1,0 +1,18 @@
+[Event "New York"]
+[Site "New York"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Fireman"]
+[Black "Walker"]
+[Result "1-0"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra gambit"]
+[HashCode "2b389d55"]
+[Epoch "Rook"]
+
+1. e4 c5 2. d4 cxd4 3. c3 g6 4. cxd4 d5 5. e5 Bg7 6. Nc3 Nh6 7. Bg5 Qb6 8.
+Nxd5 Qa5+ 9. Nc3 Qd8 10. Bc4 O-O 11. Nge2 Nc6 12. Qd2 Nf5 13. O-O-O Bh8 14.
+h4 Ng7 15. Nf4 Bf5 16. f3 Rc8 17. g4 Bd7 18. h5 gxh5 19. Qh2 h6 20. Bxh6
+Nxe5 21. Bxg7 Nxg4 22. Qxh5 1-0
+

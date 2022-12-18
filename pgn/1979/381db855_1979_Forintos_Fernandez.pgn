@@ -1,0 +1,20 @@
+[Event "Havana"]
+[Site "Havana"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Forintos, Gyozo V"]
+[Black "Fernandes, Antonio"]
+[Result "1-0"]
+[ECO "A40"]
+[Opening "Queen's pawn"]
+[Variation "Keres defence"]
+[HashCode "381db855"]
+[Epoch "Rook"]
+[WhiteID "700690"]
+[WhiteCountry "HUN"]
+[BlackID "1900021"]
+[BlackCountry "POR"]
+
+1. d4 e6 2. c4 b6 3. e4 Bb7 4. Bd3 f5 5. exf5 Bxg2 6. Qh5+ g6 7. fxg6 Bg7 8.
+gxh7+ Kf8 9. Ne2 Bxh1 10. Bg5 Nf6 11. Qh4 Nc6 12. Nf4 Nb4 13. Bg6 Qe7 14. Nh5
+Nc2+ 15. Bxc2 Qb4+ 16. Nd2 Nxh5 17. O-O-O 1-0

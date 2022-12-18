@@ -1,0 +1,21 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Hoi, Carsten"]
+[Black "Wicker, Kevin J"]
+[Result "1-0"]
+[ECO "A04"]
+[Opening "Reti opening"]
+[HashCode "85b9572f"]
+[Epoch "Rook"]
+[BlackID "401501"]
+[WhiteID "1400100"]
+[WhiteCountry "DEN"]
+[BlackCountry "ENG"]
+
+1. Nf3 g6 2. d4 d6 3. c4 Bg7 4. Nc3 Bg4 5. e3 Nc6 6. Be2 e5 7. d5 Nce7 8. e4
+Bxf3 9. Bxf3 f5 10. h4 Nf6 11. Bg5 fxe4 12. Nxe4 Nf5 13. h5 O-O 14. hxg6 hxg6
+15. Qd3 Kf7 16. Bg4 Rh8 17. O-O-O Qd7 18. Bxf6 Bxf6 19. Ng3 Qa4 20. Bxf5 gxf5
+21. Qxf5 Qxc4+ 22. Kb1 Qf4 23. Rh7+ Rxh7 24. Qxh7+ Bg7 25. Rc1 c5 26. dxc6 Rh8
+27. Qxh8 Bxh8 28. c7 1-0

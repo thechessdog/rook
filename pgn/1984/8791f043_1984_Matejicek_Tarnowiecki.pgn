@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Matejicek"]
+[Black "Tarnowiecki"]
+[Result "0-1"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Byrne (English) attack"]
+[HashCode "8791f043"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e5 7. Nb3 Be6 8.
+Qd2 Nbd7 9. f4 exf4 10. Bxf4 Ne5 11. O-O-O Be7 12. Nd4 O-O 13. Nf5 Bxf5 14.
+exf5 Qc8 15. Bd3 b5 16. Rhf1 b4 17. Bxe5 dxe5 18. Ne4 a5 19. g4 h6 20. Kb1
+Rb8 21. Nxf6+ Bxf6 22. Qe2 e4 23. Bxe4 Qc7 24. Rd5 a4 25. h4 Rfe8 26. g5
+Bxb2 27. Kxb2 a3+ 28. Kc1 b3 29. axb3 Rxb3 30. c4 Rc3+ 0-1
+

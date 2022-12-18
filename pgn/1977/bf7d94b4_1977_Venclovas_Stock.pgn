@@ -1,0 +1,19 @@
+[Event "corr ch-AUS"]
+[Site "corr ch-AUS"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Venclovas"]
+[Black "Stock"]
+[Result "1-0"]
+[ECO "B18"]
+[Opening "Caro-Kann"]
+[Variation "classical variation"]
+[HashCode "bf7d94b4"]
+[Epoch "Rook"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. Bc4 e6 7. Nh3 Bd6
+8. O-O Nd7 9. Nf4 Qh4 10. Nh3 c5 11. c3 h6 12. Qb3 O-O-O 13. Kh1 Ne7 14.
+Be2 Nd5 15. c4 N5f6 16. Qa3 Kb8 17. dxc5 Nxc5 18. Be3 b6 19. b4 Nb7 20. c5
+Bc7 21. c6 Nd6 22. Rfd1 Nd5 23. Rd4 Qe7 24. Qa6 Nxe3 25. fxe3 e5 26. Rd5 f5
+27. Rf1 Rhf8 28. Bd3 e4 29. Nf4 Bh7 30. Bc4 Rf7 31. Ne6 Rc8 32. Rfd1 1-0
+

@@ -1,0 +1,19 @@
+[Event "Dortmund"]
+[Site "Dortmund"]
+[Date "1984.??.??"]
+[Round "10"]
+[White "Gruenfeld, Yehuda"]
+[Black "Mikhalchishin, Adrian"]
+[Result "1/2-1/2"]
+[ECO "C43"]
+[Opening "Petrov"]
+[Variation "modern attack, Symmetrical variation"]
+[HashCode "7801fa64"]
+[Epoch "Rook"]
+[WhiteID "2800020"]
+[BlackID "14602385"]
+[WhiteCountry "ISR"]
+[BlackCountry "SLO"]
+
+1. e4 e5 2. Nf3 Nf6 3. d4 Nxe4 4. Bd3 d5 5. Nxe5 Bd6 6. Nd2 Bxe5 7. dxe5 Nc5 8.
+Nf3 O-O 9. h3 Nxd3+ 10. Qxd3 1/2-1/2

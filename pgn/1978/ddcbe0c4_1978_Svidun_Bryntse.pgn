@@ -1,0 +1,17 @@
+[Event "corr EUR/K"]
+[Site "corr EUR/K"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Svidun, J."]
+[Black "Bryntse, Arne"]
+[Result "1-0"]
+[ECO "B40"]
+[Opening "Sicilian"]
+[Variation "Pin, Koch variation"]
+[HashCode "ddcbe0c4"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Bb4 6. e5 Nd5 7. Qg4 Kf8
+8. a3 h5 9. Qe4 f5 10. Nxf5 Qa5 11. axb4 Qxa1 12. Kd2 Nxc3 13. bxc3 d5 14.
+exd6 Nc6 15. Nh4 Rh6 16. Ng6+ Kf7 17. Qf4+ 1-0
+

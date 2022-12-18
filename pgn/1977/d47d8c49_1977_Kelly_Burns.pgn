@@ -1,0 +1,18 @@
+[Event "Ohio Congress"]
+[Site "Ohio Congress"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Kelly, D."]
+[Black "Burns, Robert Jr"]
+[Result "0-1"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...g6"]
+[HashCode "d47d8c49"]
+[Epoch "Rook"]
+
+1. e4 d5 2. exd5 Nf6 3. c4 c6 4. d4 cxd5 5. Nc3 g6 6. Qb3 Bg7 7. cxd5 O-O
+8. Nf3 Nbd7 9. Bc4 Nb6 10. O-O Bf5 11. Ne5 Rc8 12. Bg5 Nxc4 13. Nxc4 Bd3
+14. Ne5 Bxf1 15. Rxf1 Ne8 16. Qxb7 f6 17. Nc6 Rxc6 18. dxc6 fxg5 19. Nb5
+Nd6 20. Nxd6 Qxd6 21. Rc1 Qxd4 0-1
+

@@ -1,0 +1,20 @@
+[Event "corr ICCF"]
+[Site "corr ICCF"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Lanz Calavia"]
+[Black "Wanke"]
+[Result "1-0"]
+[ECO "C43"]
+[Opening "Petrov"]
+[Variation "modern attack, Symmetrical variation"]
+[HashCode "d54c9e35"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nf6 3. d4 Nxe4 4. Bd3 d5 5. Nxe5 Be7 6. O-O O-O 7. h3 Be6
+8. c4 f6 9. Nf3 Nc6 10. cxd5 Bxd5 11. Nc3 Nxc3 12. bxc3 Qd7 13. Nh4 f5 14.
+Qh5 Bxh4 15. Qxh4 Na5 16. Bf4 Nc4 17. Qg3 c6 18. Rfe1 Rae8 19. Be5 Re6 20.
+f3 b5 21. Re2 Rg6 22. Qf4 Nb6 23. Rae1 Be6 24. Qd2 Bc4 25. Bf4 Re6 26. Rxe6
+Bxe6 27. Bb1 Nd5 28. a3 h6 29. h4 Kf7 30. g3 Rg8 31. Re5 Kf6 32. g4 fxg4
+33. fxg4 Kf7 34. Qf2 Nf6 35. Bc1 Bxg4 36. Ba2+ Kg6 37. Qc2+ 1-0
+

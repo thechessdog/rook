@@ -1,0 +1,22 @@
+[Event "Krk"]
+[Site "Krk"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Palatnik, Semon"]
+[Black "Krnic, Zdenko"]
+[Result "1-0"]
+[ECO "D85"]
+[Opening "Gruenfeld"]
+[Variation "exchange variation"]
+[HashCode "2509c3a8"]
+[Epoch "Rook"]
+[WhiteID "2014610"]
+[WhiteCountry "USA"]
+[BlackCountry "SRB"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. g3 Bg7 6. Bg2 Nb6 7. Nf3 O-O 8.
+O-O Nc6 9. d5 Nb4 10. e4 c6 11. Qb3 Na6 12. Rd1 cxd5 13. exd5 Bf5 14. Be3 Rc8
+15. Bd4 Nc5 16. Qb4 Na6 17. Qb3 Nc5 18. Qb5 Ne4 19. Bxg7 Kxg7 20. Nd4 Bd7 21.
+Qe2 Nxc3 22. bxc3 Ba4 23. Qe5+ Kg8 24. Re1 Rc7 25. Qg5 Kh8 26. h4 Qd6 27. h5
+Qf6 28. Qh6 Qg7 29. Qf4 Rxc3 30. d6 Rd3 31. dxe7 Re8 32. h6 Qxd4 33. Qxf7 Rg8
+34. e8=Q Bxe8 35. Rxe8 1-0

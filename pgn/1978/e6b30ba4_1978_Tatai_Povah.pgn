@@ -1,0 +1,21 @@
+[Event "London"]
+[Site "London"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Tatai, Stefano"]
+[Black "Povah, Nigel E"]
+[Result "1/2-1/2"]
+[ECO "A77"]
+[Opening "Benoni"]
+[Variation "classical, 9...Re8, 10.Nd2"]
+[HashCode "e6b30ba4"]
+[Epoch "Rook"]
+[BlackID "400467"]
+[WhiteCountry "ITA"]
+[BlackCountry "ENG"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. Nf3 Bg7 8. Be2
+O-O 9. O-O Re8 10. Nd2 Nbd7 11. a4 Ne5 12. Qc2 g5 13. Ra3 g4 14. b3 Nh5 15. Nc4
+Qf6 16. Nb5 Nxc4 17. bxc4 Re7 18. h3 a6 19. Bxg4 axb5 20. Bxh5 Rxa4 21. Rxa4
+bxa4 22. Qxa4 Rxe4 23. Qa8 Qd8 24. Bg4 Re8 25. Bf4 Bxg4 26. Qxd8 Rxd8 27. hxg4
+Bf8 28. Rb1 Ra8 29. Rxb7 Ra4 30. Rd7 1/2-1/2

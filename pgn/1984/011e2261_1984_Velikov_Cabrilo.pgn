@@ -1,0 +1,20 @@
+[Event "Tirnavia"]
+[Site "Trnava"]
+[Date "1984.01.01"]
+[Round "6"]
+[White "Velikov, Petar"]
+[Black "Cabrilo, Goran"]
+[Result "1-0"]
+[ECO "A56"]
+[Opening "Benoni defence, Hromodka system"]
+[HashCode "011e2261"]
+[Epoch "Rook"]
+[WhiteID "2900149"]
+[WhiteCountry "FID"]
+[BlackID "900249"]
+[BlackCountry "SRB"]
+
+1. d4 Nf6 2. c4 c5 3. d5 d6 4. Nc3 g6 5. e4 Bg7 6. Bd3 O-O 7. Nf3 e6 8. O-O
+exd5 9. exd5 Bg4 10. h3 Bxf3 11. Qxf3 Nbd7 12. Qd1 Re8 13. a4 a6 14. Bd2 Ne5
+15. Be2 Re7 16. a5 Qf8 17. Ra3 Ne8 18. f4 Nd7 19. Rb3 Rb8 20. Bd3 Bd4+ 21. Kh2
+Nef6 22. Re1 Rxe1 23. Qxe1 Ng4+ 24. hxg4 1-0

@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Charpentier, Ricard"]
+[Black "Morgado, Juan Sebastian"]
+[Result "0-1"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "Nimzovich attack"]
+[HashCode "4bbe60e2"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. Nc3 Nxc3 6. dxc3 Be7 7. Bd3 Nc6
+8. Bf4 Bg4 9. Be4 Bh5 10. Qd5 Bg6 11. O-O-O Qd7 12. Rhe1 Bxe4 13. Rxe4 O-O 14.
+Ne5 Nxe5 15. Bxe5 Rfe8 16. Bd4 c6 17. Qh5 g6 18. Rg4 Bf8 19. Qh3 Qe6 20. c4
+Qxc4 21. b3 Qe6 22. Qf3 d5 23. Kb2 f5 24. Rg3 c5 25. Be3 d4 26. Bf4 b5 27. h4
+Bg7 28. Kb1 c4 29. h5 Rad8 30. hxg6 hxg6 31. b4 d3 0-1

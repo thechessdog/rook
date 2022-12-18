@@ -1,0 +1,22 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Alvarado"]
+[Black "Ballester"]
+[Result "1-0"]
+[ECO "C85"]
+[Opening "Ruy Lopez"]
+[Variation "Exchange variation doubly deferred (DERLD)"]
+[HashCode "4843d338"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Bxc6 dxc6 7. d3 Nd7
+8. Nbd2 O-O 9. Nc4 f6 10. Nh4 Nc5 11. Qf3 Be6 12. Ne3 Rf7 13. Nef5 Bf8 14.
+Ng3 f5 15. Ngxf5 Bxf5 16. Nxf5 Ne6 17. Qg3 g6 18. Qxe5 Qd7 19. Nh6+ Bxh6
+20. Bxh6 Re8 21. Be3 Nf4 22. Qg5 h6 23. Qxh6 Nxg2 24. Qg5 Nxe3 25. Qxe3
+Qg4+ 26. Qg3 Qxg3+ 27. hxg3 Rf3 28. Kg2 Ref8 29. Rae1 g5 30. e5 R3f5 31.
+Re4 Kg7 32. f4 R8f7 33. g4 Rxf4 34. Rfxf4 gxf4 35. Kf3 Kg6 36. Rxf4 Rh7 37.
+e6 Re7 38. Re4 c5 39. Kf4 Kf6 40. g5+ Kg6 41. Re5 b6 42. Ke4 c6 43. c3 b5
+44. d4 c4 45. d5 cxd5+ 46. Kxd5 Kg7 47. Kd6 Kf8 48. Rc5 1-0
+

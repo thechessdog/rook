@@ -1,0 +1,18 @@
+[Event "Vrnjacka Banja"]
+[Site "Vrnjacka Banja"]
+[Date "1983.04.01"]
+[Round "1"]
+[White "Maksimovic, Branimir"]
+[Black "Martinovic, Slobodan"]
+[Result "0-1"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack, Richter variation"]
+[HashCode "28dbe84b"]
+[Epoch "Rook"]
+[BlackCountry "SRB"]
+[WhiteID "901490"]
+[WhiteCountry "SRB"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 Bf5 4. f3 c6 5. e3 Nbd7 6. g4 Bg6 7. Bd3 e6 8. Nge2
+Be7 9. Nf4 e5 10. Bxg6 hxg6 11. Nd3 exd4 12. Bxf6 Bxf6 13. exd4 Bxd4 14. Ne2
+Be3 15. Kf1 Qh4 16. h3 Ne5 0-1

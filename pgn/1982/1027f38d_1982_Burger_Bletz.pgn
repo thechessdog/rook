@@ -1,0 +1,19 @@
+[Event "Gausdal Int"]
+[Site "Gausdal"]
+[Date "1982.??.??"]
+[Round "6"]
+[White "Burger, Karl"]
+[Black "Bletz, Harald"]
+[Result "1/2-1/2"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Uhlmann variation"]
+[HashCode "1027f38d"]
+[Epoch "Rook"]
+[BlackID "4603885"]
+[BlackCountry "GER"]
+[WhiteCountry "USA"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. Bg5 h6 8. Bh4
+Bg7 9. e3 a6 10. a4 g5 11. Bg3 Nh5 12. Nd2 Nxg3 13. hxg3 Bf5 14. Nc4 Bxc3+ 15.
+bxc3 Qf6 16. Ra3 Nd7 1/2-1/2

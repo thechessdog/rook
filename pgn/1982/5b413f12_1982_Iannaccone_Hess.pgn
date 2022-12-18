@@ -1,0 +1,22 @@
+[Event "Rome-B"]
+[Site "Rome"]
+[Date "1982.01.01"]
+[Round "?"]
+[White "Iannaccone, Ernesto"]
+[Black "Hess, Ralf E."]
+[Result "1-0"]
+[ECO "D38"]
+[Opening "QGD"]
+[Variation "Ragozin variation"]
+[HashCode "5b413f12"]
+[Epoch "Rook"]
+[BlackID "4601890"]
+[BlackCountry "GER"]
+[WhiteID "800163"]
+[WhiteCountry "ITA"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Bb4 5. Bg5 h6 6. Bxf6 Qxf6 7. e3 O-O 8. Rc1
+dxc4 9. Bxc4 Nc6 10. O-O a6 11. Ne4 Qe7 12. Ne5 Nxe5 13. dxe5 Bd7 14. Qg4 Rfd8
+15. f4 Bb5 16. Rf3 Kh8 17. Rg3 Rg8 18. Bxb5 axb5 19. a3 Ba5 20. Qh5 Bb6 21. Nf6
+Rgd8 22. Qg4 Qf8 23. Nh5 Rd3 24. Re1 g6 25. Nf6 Rad8 26. Kh1 b4 27. h4 bxa3 28.
+bxa3 Qxa3 29. h5 Rxe3 30. Rgxe3 1-0

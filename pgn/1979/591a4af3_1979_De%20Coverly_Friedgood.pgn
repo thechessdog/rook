@@ -1,0 +1,21 @@
+[Event "Ins"]
+[Site "Ins"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "De Coverly, Roger D"]
+[Black "Friedgood, David"]
+[Result "0-1"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, 6.e5"]
+[HashCode "591a4af3"]
+[Epoch "Rook"]
+[WhiteID "405213"]
+[BlackID "401226"]
+[WhiteCountry "ENG"]
+[BlackCountry "ENG"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 O-O 6. e5 Nfd7 7. e6 fxe6 8. h4
+Nf6 9. Bc4 c5 10. dxc5 d5 11. Bd3 Nc6 12. h5 gxh5 13. Ne5 Qa5 14. Bd2 Qxc5 15.
+Nxc6 bxc6 16. Qe2 e5 17. b4 Qb6 18. Na4 Qb8 19. fxe5 Bg4 20. Qe3 Ne4 21. Bxe4
+dxe4 22. Bc3 Rf5 23. e6 Bxc3+ 24. Qxc3 Qb5 25. Qd2 Raf8 0-1

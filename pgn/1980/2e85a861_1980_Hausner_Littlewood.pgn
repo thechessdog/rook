@@ -1,0 +1,21 @@
+[Event "Skara etc"]
+[Site "Skara etc"]
+[Date "1980.01.01"]
+[Round "3"]
+[White "Hausner, Ivan"]
+[Black "Littlewood, Paul E"]
+[Result "1-0"]
+[ECO "E00"]
+[Opening "Catalan opening"]
+[HashCode "2e85a861"]
+[Epoch "Rook"]
+[WhiteID "300110"]
+[WhiteCountry "CZE"]
+[BlackID "400190"]
+[BlackCountry "ENG"]
+
+1. d4 Nf6 2. c4 e6 3. g3 c5 4. Nf3 cxd4 5. Nxd4 Qb6 6. Bg2 Bc5 7. e3 Nc6 8. Nc2
+d5 9. cxd5 exd5 10. O-O Bg4 11. Qd2 Ne5 12. Nc3 O-O 13. Na4 Qc6 14. Nxc5 Qxc5
+15. f3 Bd7 16. b3 Rfe8 17. Nd4 h5 18. Bb2 Qd6 19. Rfd1 h4 20. g4 Bxg4 21. fxg4
+Nexg4 22. Bh3 Nxe3 23. Nf5 Nxf5 24. Bxf5 Rad8 25. Qf2 h3 26. Rd3 Nh5 27. Rf1
+Qa6 28. Rxh3 Re2 29. Bh7+ Kh8 30. Bxg7+ Kxg7 31. Qxf7+ Kh8 32. Rxh5 1-0

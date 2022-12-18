@@ -1,0 +1,18 @@
+[Event "corr SWE/K tt"]
+[Site "corr SWE/K tt"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Nilsson, Uno"]
+[Black "Eriksson, Bo"]
+[Result "1-0"]
+[ECO "B04"]
+[Opening "Alekhine's defence"]
+[Variation "modern, fianchetto variation"]
+[HashCode "a83feaf8"]
+[Epoch "Rook"]
+[WhiteID "1731947"]
+[WhiteCountry "SWE"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. Nf3 g6 5. Bc4 Nb6 6. Bb3 Bg7 7. Qe2 O-O 8. h3
+a5 9. a4 Na6 10. Be3 c5 11. Nc3 cxd4 12. Bxd4 Nb4 13. exd6 exd6 14. O-O Bxd4
+15. Nxd4 Qf6 16. Rad1 d5 17. Ncb5 Be6 18. Nc7 1-0

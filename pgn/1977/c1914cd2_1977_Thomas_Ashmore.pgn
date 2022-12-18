@@ -1,0 +1,17 @@
+[Event "Washington"]
+[Site "Washington"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Thomas, George Alan"]
+[Black "Ashmore, C."]
+[Result "0-1"]
+[ECO "C57"]
+[Opening "two knights defence"]
+[Variation "Wilkes Barre (Traxler) variation"]
+[HashCode "c1914cd2"]
+[Epoch "Rook"]
+[WhiteCountry "ENG"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 Bc5 5. Nxf7 Bxf2+ 6. Kf1 Qe7 7. Nxh8 d5
+8. exd5 Nd4 9. Nc3 Ng4 10. Be2 Qh4 11. Ne4 Bf5 12. h3 Bxe4 13. Bxg4 Bxc2 14.
+Bh5+ Ke7 15. d6+ cxd6 16. d3 Bxd1 17. Ng6+ hxg6 18. Bxd1 Rf8 0-1

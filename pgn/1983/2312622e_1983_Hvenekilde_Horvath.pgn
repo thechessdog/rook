@@ -1,0 +1,22 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1983.05.22"]
+[Round "8"]
+[White "Hvenekilde, Jorgen"]
+[Black "Horvath, Tamas"]
+[Result "0-1"]
+[ECO "A78"]
+[Opening "Benoni"]
+[Variation "classical with ...Re8 and ...Na6"]
+[HashCode "2312622e"]
+[Epoch "Rook"]
+[WhiteID "1400649"]
+[BlackID "700185"]
+[WhiteCountry "DEN"]
+[BlackCountry "HUN"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. e4 Bg7 8. Be2
+O-O 9. O-O Re8 10. Nd2 Na6 11. f4 c4 12. e5 dxe5 13. Nxc4 e4 14. Be3 Nb4 15. d6
+Be6 16. Nb5 Nd3 17. Bxd3 exd3 18. Ne5 Nd5 19. Bf2 Nxf4 20. Nxd3 Bc4 21. Nxf4
+Bxb5 22. Re1 Rxe1+ 23. Qxe1 Qxd6 24. Bg3 Re8 25. Qa5 Bc6 26. Rf1 Bxb2 27. h4
+Re5 28. Ne2 Rxe2 0-1

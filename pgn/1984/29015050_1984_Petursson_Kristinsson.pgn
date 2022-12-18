@@ -1,0 +1,24 @@
+[Event "Reykjavik"]
+[Site "Reykjavik"]
+[Date "1984.??.??"]
+[Round "?"]
+[White "Petursson, Margeir"]
+[Black "Kristinsson, Jon"]
+[Result "1-0"]
+[ECO "E88"]
+[Opening "King's Indian"]
+[Variation "Saemisch, orthodox, 7.d5 c6"]
+[HashCode "29015050"]
+[Epoch "Rook"]
+[WhiteID "2300028"]
+[BlackID "2300141"]
+[WhiteCountry "ISL"]
+[BlackCountry "ISL"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 e5 7. d5 c6 8. Bd3 cxd5
+9. cxd5 Nh5 10. Nge2 f5 11. exf5 gxf5 12. O-O Nd7 13. Kh1 Nc5 14. Bc2 a5 15. f4
+exf4 16. Nxf4 Nxf4 17. Bxf4 Qb6 18. Rf3 Ne4 19. Nxe4 fxe4 20. Be3 Qxb2 21. Rg3
+Bd7 22. Rb1 Qe5 23. Bd4 Rf1+ 24. Qxf1 Qxd4 25. Qf4 Rf8 26. Qxe4 Qxe4 27. Bxe4
+b5 28. Rc1 b4 29. h3 Kh8 30. Rc7 Bd4 31. Rf3 Rxf3 32. gxf3 Bb5 33. Rxh7+ Kg8
+34. Rc7 Bc5 35. h4 Bc4 36. h5 Bxa2 37. h6 Bd4 38. h7+ Kf8 39. Rc8+ Ke7 40. Ra8
+b3 41. Rxa5 Kd7 42. Kg2 Kc7 43. Ra8 1-0

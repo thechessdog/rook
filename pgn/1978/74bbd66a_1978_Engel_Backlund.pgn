@@ -1,0 +1,22 @@
+[Event "corr EUR/K"]
+[Site "corr EUR/K"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Engel, Klaus"]
+[Black "Backlund, A."]
+[Result "1-0"]
+[ECO "B28"]
+[Opening "Sicilian"]
+[Variation "O'Kelly variation"]
+[HashCode "74bbd66a"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 a6 3. c4 d6 4. d4 Bg4 5. d5 e5 6. Nc3 Ne7 7. Be2 Ng6 8. g3
+Qc8 9. h3 Bxh3 10. Na4 Bg2 11. Rh2 Bxf3 12. Bxf3 Qc7 13. Qd3 Nd7 14. Bg4
+Rb8 15. Nc3 Nf6 16. Bf5 Be7 17. a4 Nd7 18. Bd2 Bf6 19. O-O-O Ke7 20. Rdh1
+h6 21. f4 Rhe8 22. Qf1 Ngf8 23. Rf2 Kd8 24. Kc2 b6 25. Bg4 Rb7 26. Bh5 Ng6
+27. Qe2 Ndf8 28. Ra1 Qe7 29. f5 Nh8 30. a5 Bg5 31. Be1 Qc7 32. axb6 Qxb6
+33. Nb5 axb5 34. Ba5 Qxa5 35. Rxa5 b4 36. Rf1 Nd7 37. Rfa1 Kc7 38. Rb5 Nb6
+39. Ra6 Reb8 40. b3 Bd8 41. Qf1 Kd7 42. Qa1 Bc7 43. f6 g6 44. Rbxb6 Bxb6
+45. Qa4+ 1-0
+

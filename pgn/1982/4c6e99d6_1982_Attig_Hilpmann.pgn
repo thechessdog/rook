@@ -1,0 +1,19 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Attig"]
+[Black "Hilpmann"]
+[Result "1-0"]
+[ECO "C09"]
+[Opening "French"]
+[Variation "Tarrasch, open variation, main line"]
+[HashCode "4c6e99d6"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. exd5 exd5 5. Ngf3 Nc6 6. Bb5 Bd6 7. dxc5
+Bxc5 8. O-O Ne7 9. Nb3 Bd6 10. Bg5 O-O 11. Re1 Bg4 12. h3 Bh5 13. Bxc6 bxc6
+14. Nbd4 Qc7 15. Bxe7 Bxe7 16. Nxc6 Qxc6 17. Rxe7 Qf6 18. Rb7 Bxf3 19. Qxf3
+Qxf3 20. gxf3 Rfd8 21. Re1 Re8 22. Rxe8+ Rxe8 23. Rxa7 Re1+ 24. Kg2 Kf8 25.
+a4 1-0
+

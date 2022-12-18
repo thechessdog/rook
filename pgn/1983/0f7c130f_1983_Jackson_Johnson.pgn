@@ -1,0 +1,20 @@
+[Event "E Detroit Motor City op"]
+[Site "E Detroit Motor City op"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Jackson, J."]
+[Black "Johnson, K."]
+[Result "1-0"]
+[ECO "C53"]
+[Opening "Giuoco Piano"]
+[Variation "LaBourdonnais variation"]
+[HashCode "0f7c130f"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 d6 5. d4 exd4 6. cxd4 Bb6 7. O-O Nf6
+8. Nc3 O-O 9. Bg5 Qe7 10. Nd5 Qd8 11. Nxf6+ gxf6 12. Bh6 Bg4 13. Bxf8 Qxf8
+14. Qd3 Bxf3 15. Qxf3 Bxd4 16. Rab1 Qe7 17. Bd5 Qd7 18. Rfd1 Be5 19. Bxc6
+Qxc6 20. Qg4+ Kh8 21. b3 Qe8 22. f4 Bc3 23. Rbc1 Ba5 24. Qf5 Bb6+ 25. Kh1
+Kg8 26. Rd3 Kf8 27. Qxh7 Ke7 28. e5 fxe5 29. fxe5 Rc8 30. e6 Qg8 31. Qxf7+
+Qxf7 32. exf7 Kxf7 33. Re1 1-0
+

@@ -1,0 +1,21 @@
+[Event "Sochi"]
+[Site "Sochi"]
+[Date "1982.01.01"]
+[Round "15"]
+[White "Dvoirys, Semen I."]
+[Black "Averkin, Orest N"]
+[Result "1-0"]
+[ECO "E42"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5, 5.Ne2 (Rubinstein)"]
+[HashCode "53864f03"]
+[Epoch "Rook"]
+[WhiteID "4100379"]
+[WhiteCountry "RUS"]
+[BlackCountry "MDA"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Ne2 cxd4 6. exd4 d5 7. c5 a5 8. a3
+Bxc3+ 9. Nxc3 b6 10. Bf4 bxc5 11. dxc5 O-O 12. Bd6 Re8 13. Be2 Nc6 14. O-O Bd7
+15. Rb1 e5 16. f4 exf4 17. Rxf4 d4 18. Nb5 Nd5 19. Rf2 Ne3 20. Qd2 Bf5 21. Rc1
+Be4 22. Nc7 a4 23. Nxe8 Qxe8 24. Bb5 f5 25. Re1 Qg6 26. Bxc6 Bxc6 27. Bf4 Rf8
+28. Bxe3 dxe3 29. Qxe3 Be4 30. Qd4 Qc6 31. Rxe4 1-0

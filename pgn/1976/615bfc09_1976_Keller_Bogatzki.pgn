@@ -1,0 +1,15 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Keller, Martina"]
+[Black "Bogatzki, W."]
+[Result "1-0"]
+[ECO "C35"]
+[Opening "KGA"]
+[Variation "Cunningham defence"]
+[HashCode "615bfc09"]
+[Epoch "Rook"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 Be7 4. Nc3 h6 5. Bc4 d6 6. d4 g5 7. O-O c6 8. g3
+fxg3 9. Bxf7+ Kxf7 10. Ne5+ 1-0

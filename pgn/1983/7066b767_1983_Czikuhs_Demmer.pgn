@@ -1,0 +1,19 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Czikuhs"]
+[Black "Demmer"]
+[Result "1-0"]
+[ECO "A28"]
+[Opening "English"]
+[Variation "four knights system"]
+[HashCode "7066b767"]
+[Epoch "Rook"]
+
+1. c4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. d4 exd4 5. Nxd4 Bb4 6. Bg5 h6 7. Bh4
+Bxc3+ 8. bxc3 d6 9. Nxc6 bxc6 10. e3 g5 11. Bg3 c5 12. Rb1 Bf5 13. Bd3 Ne4
+14. Rb3 Rb8 15. f3 Nxg3 16. hxg3 Bd7 17. Ra3 Qf6 18. Qc2 Rb7 19. Be4 c6 20.
+O-O O-O 21. Ra6 Rfb8 22. Qd3 Qe5 23. f4 Qe8 24. g4 Kg7 25. Bf3 d5 26. cxd5
+cxd5 27. c4 Rc7 28. Bxd5 Rb6 29. Rxb6 axb6 30. fxg5 Be6 31. Qc3+ 1-0
+

@@ -1,0 +1,20 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Criton"]
+[Black "Evrard"]
+[Result "0-1"]
+[ECO "C58"]
+[Opening "two knights defence"]
+[Variation "Colman variation"]
+[HashCode "66b0f9ff"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 Na5 6. Bb5+ c6 7. dxc6
+bxc6 8. Qf3 Rb8 9. Bd3 h6 10. Ne4 Nd5 11. b3 Be7 12. Bb2 f6 13. Qh5+ Kf8
+14. g3 Nb4 15. Qf3 Nxd3+ 16. Qxd3 Qxd3 17. cxd3 Bf5 18. f3 Rd8 19. Ke2 Kf7
+20. Ke3 Bc8 21. Na3 f5 22. Nf2 Bc5+ 23. Ke2 Ba6 24. Bc3 Bxa3 25. Bxa5 Rd5
+26. b4 Rb5 27. Rab1 c5 28. Bc7 cxb4 29. f4 exf4 30. Bxf4 Rd5 31. h4 Bb5 32.
+Be3 a5 33. Kf3 Rc8 34. d4 Rc2 35. Ra1 Bb2 36. Rab1 Bxd4 0-1
+

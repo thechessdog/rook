@@ -1,0 +1,20 @@
+[Event "Nordic-ch"]
+[Site "Esbjerg"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Westerinen, Heikki M.J."]
+[Black "Forintos, Gyozo V"]
+[Result "1/2-1/2"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Grand Prix attack"]
+[HashCode "f8dd941e"]
+[Epoch "Rook"]
+[WhiteID "500020"]
+[WhiteCountry "FIN"]
+[BlackID "700690"]
+[BlackCountry "HUN"]
+
+1. e4 c5 2. f4 g6 3. d4 Bg7 4. d5 d6 5. Bb5+ Nd7 6. a4 a6 7. Bc4 Ngf6 8. Nc3
+O-O 9. Nf3 Nb6 10. Be2 Bg4 11. O-O Bxf3 12. Bxf3 Ne8 13. Qe2 Nd7 14. Bd2 Nc7
+15. Be1 e6 16. Rd1 Bd4+ 17. Kh1 exd5 18. exd5 Re8 1/2-1/2

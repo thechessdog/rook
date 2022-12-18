@@ -1,0 +1,22 @@
+[Event "Plymouth ch-MI op"]
+[Site "Plymouth ch-MI op"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Leonard, K."]
+[Black "Dinda, B."]
+[Result "1-0"]
+[ECO "A27"]
+[Opening "English"]
+[Variation "three knights system"]
+[HashCode "9e56c0b5"]
+[Epoch "Rook"]
+
+1. c4 e5 2. Nc3 Nc6 3. Nf3 Bc5 4. e3 d6 5. d4 Bb4 6. d5 Bxc3+ 7. bxc3 Nce7
+8. e4 a5 9. Rb1 f5 10. exf5 Nxf5 11. Bd3 b6 12. O-O Nh4 13. Be4 Ng6 14. Qd3
+N8e7 15. h4 Rf8 16. Ng5 Bf5 17. Bxf5 Rxf5 18. Ne6 Qd7 19. Nxg7+ Kf7 20.
+Nxf5 Qxf5 21. Qxf5+ Nxf5 22. g3 Rg8 23. Kh2 h5 24. Bg5 Nge7 25. a4 Nc8 26.
+Rb2 Kg6 27. Re2 Re8 28. f4 e4 29. Rfe1 e3 30. Kg2 Re4 31. Kf3 Rxc4 32. Rxe3
+Kf7 33. Rd3 Rxa4 34. g4 hxg4+ 35. Kxg4 Nfe7 36. h5 b5 37. h6 Ng6 38. Kf5
+Nce7+ 39. Rxe7+ Nxe7+ 40. Bxe7 Ra1 41. Rh3 Rg1 42. h7 Rg8 43. hxg8=B+ Kxe7
+44. Rh7+ Kf8 45. Be6 a4 46. Kf6 b4 47. Rh8# 1-0
+

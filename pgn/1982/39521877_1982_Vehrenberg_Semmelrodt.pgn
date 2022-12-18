@@ -1,0 +1,17 @@
+[Event "FRG Hochschul-ch"]
+[Site "FRG Tch"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Vehrenberg"]
+[Black "Semmelrodt"]
+[Result "0-1"]
+[ECO "D55"]
+[Opening "QGD"]
+[Variation "6.Nf3"]
+[HashCode "39521877"]
+[Epoch "Rook"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. Nf3 O-O 6. e3 c5 7. Rc1 cxd4 8. Nxd4
+Nc6 9. cxd5 Nxd5 10. Bxe7 Ncxe7 11. Bd3 e5 12. Nf3 Qa5 13. O-O Rd8 14. Nxe5
+Nxc3 15. Rxc3 Bf5 16. Qc2 Qxe5 17. Rc5 Bxd3 18. Rxe5 Bxc2 19. Rxe7 Rab8 20. e4
+Rd2 0-1

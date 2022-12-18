@@ -1,0 +1,22 @@
+[Event "Esbjerg"]
+[Site "Esbjerg"]
+[Date "1984.??.??"]
+[Round "9"]
+[White "Mortensen, Erling"]
+[Black "Karlsson, Lars"]
+[Result "0-1"]
+[ECO "B78"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, 10.O-O-O"]
+[HashCode "cbf29fe0"]
+[Epoch "Rook"]
+[WhiteID "1400045"]
+[BlackID "1700057"]
+[WhiteCountry "DEN"]
+[BlackCountry "SWE"]
+
+1. e4 c5 2. Nf3 d6 3. d4 Nf6 4. Nc3 cxd4 5. Nxd4 g6 6. Be3 Bg7 7. f3 Nc6 8. Qd2
+O-O 9. Bc4 Bd7 10. O-O-O Rc8 11. Bb3 Ne5 12. g4 b5 13. h4 b4 14. Nb1 a5 15. a4
+bxa3 16. Nxa3 Qb6 17. Ba2 Qb7 18. Qg2 Rb8 19. c3 Rfc8 20. h5 Nxf3 21. hxg6 hxg6
+22. Nxf3 Nxe4 23. Bd5 Qb4 24. Bxe4 Rxc3+ 25. Nc2 Rxc2+ 26. Qxc2 Bxb2+ 27. Kb1
+Bd4+ 28. Kc1 Qa3+ 0-1

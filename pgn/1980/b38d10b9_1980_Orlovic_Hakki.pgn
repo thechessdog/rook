@@ -1,0 +1,18 @@
+[Event "Benedictine"]
+[Site "Manchester open"]
+[Date "1980.09.01"]
+[Round "1"]
+[White "Orlovic, I."]
+[Black "Hakki, Imad"]
+[Result "0-1"]
+[ECO "B70"]
+[Opening "Sicilian"]
+[Variation "dragon variation"]
+[HashCode "b38d10b9"]
+[Epoch "Rook"]
+[BlackID "7600038"]
+[BlackCountry "SYR"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Bc4 Bg7 7. Be3 O-O 8. f3
+Nc6 9. Bb3 Bd7 10. O-O Na5 11. Ba4 Nc4 12. Bc1 Qb6 13. Bxd7 Nxd7 14. e5 dxe5
+15. b3 Qxd4+ 0-1

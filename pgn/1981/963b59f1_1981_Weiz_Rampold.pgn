@@ -1,0 +1,19 @@
+[Event "corr DDR/K"]
+[Site "corr DDR/K"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Weiz"]
+[Black "Rampold"]
+[Result "1-0"]
+[ECO "B12"]
+[Opening "Caro-Kann"]
+[Variation "advance variation"]
+[HashCode "963b59f1"]
+[Epoch "Rook"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. c4 dxc4 5. Bxc4 e6 6. Nc3 Nd7 7. Nge2 Nb6 8.
+Bd3 Bxd3 9. Qxd3 Ne7 10. Ne4 Ned5 11. O-O Be7 12. Qg3 g6 13. Bg5 Bxg5 14.
+Nxg5 h6 15. Ne4 O-O 16. Rad1 Qe7 17. Rd3 Rad8 18. Rf3 Qc7 19. Qh4 Kg7 20.
+Rh3 Rh8 21. f4 Nc8 22. g4 Nce7 23. Kh1 h5 24. f5 exf5 25. gxf5 Nxf5 26. Qg5
+Kf8 27. N2g3 Nde3 28. Nxf5 Nxf5 29. Qf6 Rg8 30. e6 Rg7 31. Rxf5 1-0
+

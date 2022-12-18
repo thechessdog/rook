@@ -1,0 +1,21 @@
+[Event "Copenhagen-ch"]
+[Site "Copenhagen"]
+[Date "1981.??.??"]
+[Round "9"]
+[White "Bjerring, Kai"]
+[Black "Poulsen, Allan"]
+[Result "1-0"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Nimzovich (knight's tour) variation"]
+[HashCode "1ccc395a"]
+[Epoch "Rook"]
+[BlackID "1400533"]
+[BlackCountry "DEN"]
+[WhiteCountry "DNK"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. Nd2 Bg7 8. Nc4
+O-O 9. Bf4 Ne8 10. Qd2 a6 11. a4 Qc7 12. Ne4 Be5 13. Nxe5 dxe5 14. Bh6 Ng7 15.
+Rc1 Nd7 16. Nxc5 Nxc5 17. b4 Qd7 18. bxc5 Qxa4 19. g3 Bd7 20. Bg2 Rac8 21. O-O
+Qb5 22. Qc3 f6 23. e4 Rf7 24. Rfe1 Qa4 25. Be3 Be8 26. c6 bxc6 27. Ra1 Qb5 28.
+Bf1 Qb8 29. Bxa6 Rb7 30. Bxb7 Qxb7 31. Ra7 cxd5 32. Qa3 Qb5 33. Qe7 1-0

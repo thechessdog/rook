@@ -1,0 +1,22 @@
+[Event "POL-ch"]
+[Site "?"]
+[Date "1980.??.??"]
+[Round "16"]
+[White "Jasnikowski, Zbigniew"]
+[Black "Sznapik, Aleksander"]
+[Result "0-1"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical (two knights) system"]
+[HashCode "ec2ec7fe"]
+[Epoch "Rook"]
+[WhiteID "1100076"]
+[BlackID "1100050"]
+[WhiteCountry "POL"]
+[BlackCountry "POL"]
+
+1. d4 Nf6 2. Nc3 g6 3. e4 d6 4. Nf3 Bg7 5. Bc4 Nc6 6. Qe2 O-O 7. e5 dxe5 8.
+dxe5 Ng4 9. e6 fxe6 10. O-O Qd6 11. Rd1 Nd4 12. Rxd4 Bxd4 13. Ne4 Rxf3 14. Nxd6
+Rxf2 15. Qxg4 Rf4+ 16. Kh1 Rxg4 17. Nxc8 Kf7 18. Bh6 Bf6 19. Bb3 Re4 20. g4
+Rxc8 21. Rf1 g5 22. c3 Rg8 23. h4 Rxg4 24. Bxg5 Re4 25. Bc2 Re2 26. Bxh7 Rh8
+27. Bd3 Rxb2 28. Bc4 Kg7 29. Kg1 Bxg5 30. hxg5 Rhh2 31. Bxe6 Rbg2# 0-1

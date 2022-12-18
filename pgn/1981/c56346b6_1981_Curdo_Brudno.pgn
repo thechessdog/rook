@@ -1,0 +1,18 @@
+[Event "Providence"]
+[Site "Providence"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Curdo"]
+[Black "Brudno, S."]
+[Result "1-0"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (without ...d6)"]
+[HashCode "c56346b6"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 d5 4. exd5 Qxd5 5. Nc3 Qe6+ 6. Be2 Qd6 7. O-O
+Nf6 8. d4 e6 9. Bg5 Be7 10. Bxf6 Bxf6 11. Ne4 Qe7 12. dxc5 Bxb2 13. Rb1 Ba3
+14. Qd3 Bxc5 15. Qc3 Bb6 16. Qxg7 Qf8 17. Qc3 f5 18. Nd6+ Ke7 19. Rfd1 Qf6
+20. Qa3 1-0
+

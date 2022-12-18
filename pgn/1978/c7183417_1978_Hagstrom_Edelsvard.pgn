@@ -1,0 +1,24 @@
+[Event "corr SWE/K"]
+[Site "corr SWE/K"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Hagstrom, Allan"]
+[Black "Edelsvard, Olle"]
+[Result "1-0"]
+[ECO "B32"]
+[Opening "Sicilian"]
+[Variation "Labourdonnais-Loewenthal variation"]
+[HashCode "c7183417"]
+[Epoch "Rook"]
+
+1. e4 c5 2. d4 cxd4 3. Nf3 Nc6 4. Nxd4 e5 5. Nb5 a6 6. Nd6+ Bxd6 7. Qxd6
+Qf6 8. Qd1 Qg6 9. Nc3 Nge7 10. h4 h5 11. Bg5 d5 12. exd5 Nd4 13. Bd3 Bf5
+14. Bxf5 Nexf5 15. Qd3 f6 16. Be3 Qxg2 17. O-O-O O-O 18. Ne4 Rac8 19. Bxd4
+Nxd4 20. c3 Qf3 21. Qxf3 Nxf3 22. Nd6 Rc7 23. Rd3 Rd8 24. Ne4 Nd4 25. Kd2
+Nf5 26. b3 b5 27. Ke2 Kf7 28. f3 Nd6 29. Nxd6+ Rxd6 30. Rc1 Rc5 31. c4 Ke7
+32. Ke3 f5 33. f4 Kf6 34. Rdd1 bxc4 35. bxc4 Rd7 36. fxe5+ Kxe5 37. Re1 Ra5
+38. Kd3+ Kf6 39. Re6+ Kf7 40. Re5 Kf6 41. Re2 g5 42. hxg5+ Kxg5 43. Rg1+
+Kf4 44. Rf2+ Ke5 45. Re1+ Kd6 46. Kd4 Rf7 47. Re6+ Kd7 48. Rh6 Rg7 49. Rxf5
+Rxa2 50. Rff6 Rg4+ 51. Kc5 Rg8 52. Rh7+ Kc8 53. Rb6 Ra4 54. Rxh5 Ra5+ 55.
+Kb4 Ra1 56. Rhh6 1-0
+

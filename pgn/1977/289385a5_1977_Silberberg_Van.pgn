@@ -1,0 +1,20 @@
+[Event "corr EU tt"]
+[Site "corr EU tt"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Silberberg"]
+[Black "Van Manen"]
+[Result "0-1"]
+[ECO "E99"]
+[Opening "King's Indian"]
+[Variation "orthodox, Aronin-Taimanov, Benko attack"]
+[HashCode "289385a5"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. Nf3 d6 5. e4 O-O 6. Be2 e5 7. O-O Nc6 8.
+d5 Ne7 9. Ne1 Nd7 10. f3 f5 11. g4 Nf6 12. Be3 Qd7 13. h3 h5 14. g5 f4 15.
+gxf6 Bxf6 16. Bd2 Bh4 17. Bd3 Qxh3 18. Nb5 Qd7 19. Rc1 a6 20. Na3 b6 21. b4
+g5 22. c5 b5 23. Qc2 Rf7 24. cxd6 cxd6 25. Bc3 Rg7 26. Qh2 Bg3 27. Qb2 g4
+28. Rc2 Bxe1 29. Bxe1 gxf3+ 30. Kh1 f2 31. Rcxf2 Qh3+ 32. Rh2 Qxd3 33. Qe2
+Qxa3 34. Rf3 Qc1 35. Rc3 f3 36. Qf2 Qf4 37. Qxf3 Qxf3+ 38. Rxf3 Bg4 0-1
+

@@ -1,0 +1,20 @@
+[Event "Budapest ch-HUN"]
+[Site "Budapest ch-HUN"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Barczay, Laszlo"]
+[Black "Orso, Miklos"]
+[Result "1-0"]
+[ECO "B93"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.f4"]
+[HashCode "c0ea7c03"]
+[Epoch "Rook"]
+[BlackID "700290"]
+[WhiteCountry "HUN"]
+[BlackCountry "HUN"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 Qc7 7. Bd3 g6 8. O-O
+Bg7 9. Nf3 Nbd7 10. Qe1 Nc5 11. e5 dxe5 12. fxe5 Ng4 13. Bf4 Nd7 14. Kh1 Ndxe5
+15. Qg3 Qc5 16. Nxe5 Nxe5 17. Rae1 Nxd3 18. Bd6 Be5 19. Bxc5 Bxg3 20. Rxe7+ Kd8
+21. cxd3 b6 22. Ba3 Bh4 1-0

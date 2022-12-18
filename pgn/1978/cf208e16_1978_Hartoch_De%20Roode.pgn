@@ -1,0 +1,21 @@
+[Event "IBM-B"]
+[Site "Amsterdam II"]
+[Date "1978.07.01"]
+[Round "8"]
+[White "Hartoch, Robert G"]
+[Black "De Roode, Peter"]
+[Result "1/2-1/2"]
+[ECO "E76"]
+[Opening "King's Indian"]
+[Variation "Four pawns attack, dynamic line"]
+[HashCode "cf208e16"]
+[Epoch "Rook"]
+[BlackID "1001140"]
+[BlackCountry "NED"]
+[WhiteCountry "NLD"]
+
+1. c4 Nf6 2. Nc3 g6 3. e4 d6 4. d4 Bg7 5. f4 O-O 6. Nf3 c5 7. d5 e6 8. dxe6
+fxe6 9. Bd3 Nc6 10. O-O Nd4 11. Qe1 a6 12. Qh4 Nd7 13. Qh3 Nxf3+ 14. Rxf3 Nb8
+15. Be3 Nc6 16. Raf1 Nd4 17. R3f2 Rb8 18. Ne2 b5 19. Bxd4 cxd4 20. cxb5 axb5
+21. f5 exf5 22. exf5 Qg5 23. Qg3 Qxg3 24. Nxg3 Bh6 25. Kh1 Be3 26. Rc2 gxf5 27.
+Nxf5 Be6 28. b3 Bxf5 29. Bxf5 1/2-1/2

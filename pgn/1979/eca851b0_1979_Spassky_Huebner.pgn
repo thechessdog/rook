@@ -1,0 +1,20 @@
+[Event "Montreal"]
+[Site "Montreal"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Spassky, Boris V."]
+[Black "Huebner, Robert"]
+[Result "1/2-1/2"]
+[ECO "A46"]
+[Opening "Queen's pawn"]
+[Variation "Torre attack"]
+[HashCode "eca851b0"]
+[Epoch "Rook"]
+[WhiteID "600024"]
+[WhiteCountry "RUS"]
+[BlackID "4600010"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. Nf3 e6 3. Bg5 d5 4. e3 Be7 5. Nbd2 b6 6. Bd3 Bb7 7. c3 c5 8. O-O
+O-O 9. Ne5 Nfd7 10. Bxe7 Qxe7 11. f4 Ba6 12. Bxa6 Nxa6 13. Qa4 Nab8 14. b4 Nxe5
+15. fxe5 Qd7 16. Qb3 cxb4 17. cxb4 Nc6 1/2-1/2

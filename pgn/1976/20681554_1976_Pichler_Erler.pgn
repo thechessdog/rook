@@ -1,0 +1,16 @@
+[Event "corr DDR-PK"]
+[Site "corr DDR-PK"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Pichler, M."]
+[Black "Erler, R."]
+[Result "1/2-1/2"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "modern variation"]
+[HashCode "20681554"]
+[Epoch "Rook"]
+
+1. b3 e5 2. Bb2 Nc6 3. e3 d5 4. Bb5 Bd6 5. Ne2 Ne7 6. d4 O-O 7. O-O Ng6 8.
+c4 exd4 9. Bxc6 bxc6 10. Nxd4 1/2-1/2
+

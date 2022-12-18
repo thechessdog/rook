@@ -1,0 +1,19 @@
+[Event "Reutlingen"]
+[Site "Reutlingen"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Schlenker, R."]
+[Black "Muckl, P."]
+[Result "1-0"]
+[ECO "C33"]
+[Opening "KGA"]
+[Variation "Breyer gambit"]
+[HashCode "48f82806"]
+[Epoch "Rook"]
+
+1. e4 e5 2. f4 exf4 3. Qf3 d6 4. d4 Qh4+ 5. g3 fxg3 6. hxg3 Qg4 7. Qd3 Nf6
+8. Bh3 Qxe4+ 9. Qxe4+ Nxe4 10. Bxc8 Nxg3 11. Rh3 Nc6 12. Bxb7 Nxd4 13. Bxa8
+Nxc2+ 14. Kd1 Nxa1 15. Bc6+ Kd8 16. Rxg3 h5 17. Nc3 h4 18. Bg5+ f6 19. Re3
+Be7 20. Nd5 fxg5 21. Rxe7 h3 22. Rd7+ Kc8 23. Rxc7+ Kb8 24. Rb7+ Kc8 25.
+Rxa7 h2 26. Ra8# 1-0
+

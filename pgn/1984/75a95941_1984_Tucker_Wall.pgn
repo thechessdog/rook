@@ -1,0 +1,16 @@
+[Event "Dayton,OH"]
+[Site "Dayton,OH"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Tucker, Andre"]
+[Black "Wall, Bill"]
+[Result "0-1"]
+[ECO "C63"]
+[Opening "Ruy Lopez"]
+[Variation "Schliemann defence"]
+[HashCode "75a95941"]
+[Epoch "Rook"]
+[BlackCountry "USA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 f5 4. d3 d6 5. Bg5 Nf6 6. Nc3 a6 7. Bxc6+ bxc6 8. d4
+h6 9. dxe5 hxg5 10. exf6 Qxf6 11. O-O f4 12. Qd3 Qh6 13. e5 g4 0-1

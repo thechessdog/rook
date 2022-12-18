@@ -1,0 +1,20 @@
+[Event "Krasnodar"]
+[Site "Krasnodar"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Voloshin"]
+[Black "Khodos"]
+[Result "0-1"]
+[ECO "A04"]
+[Opening "Reti opening"]
+[HashCode "e5ad4b71"]
+[Epoch "Rook"]
+
+1. Nf3 c5 2. g3 Nc6 3. Bg2 g6 4. c3 Bg7 5. O-O e5 6. e4 Nge7 7. d3 d6 8. a3
+O-O 9. b4 a6 10. Be3 b6 11. Ra2 f5 12. exf5 gxf5 13. Qc1 Ra7 14. Bh6 Ng6
+15. Ne1 Nce7 16. Bxg7 Kxg7 17. Re2 f4 18. d4 cxd4 19. cxd4 Bg4 20. Nf3 Bxf3
+21. Bxf3 Nf5 22. dxe5 Nd4 23. Qc3 Nxe2+ 24. Bxe2 dxe5 25. Nd2 Rc7 26. Qb2
+Qd4 27. Qa2 e4 28. Nb3 Qe5 29. Bxa6 Ra8 30. b5 f3 31. Nd2 Qf5 32. Qb2+ Kh6
+33. Qd4 Re8 34. Qe3+ Kg7 35. Qxb6 Qh3 36. Qxc7+ Re7 37. Qc3+ Ne5 38. Nxf3
+exf3 0-1
+

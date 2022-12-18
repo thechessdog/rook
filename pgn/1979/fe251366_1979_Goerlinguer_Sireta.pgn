@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Goerlinguer"]
+[Black "Sireta"]
+[Result "1-0"]
+[ECO "B33"]
+[Opening "Sicilian"]
+[Variation "Sveshnikov variation"]
+[HashCode "fe251366"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6
+8. Na3 b5 9. Bxf6 gxf6 10. Nd5 f5 11. Bxb5 axb5 12. Nxb5 Qg5 13. Ndc7+ Kd8
+14. Qd5 Rb8 15. Qxc6 Bd7 16. Ne6+ fxe6 17. Qc7+ Ke7 18. Qxb8 Bh6 19. Qxd6+
+Kf6 20. Nc3 Qxg2 21. Rf1 Bb5 22. Nd5+ 1-0
+

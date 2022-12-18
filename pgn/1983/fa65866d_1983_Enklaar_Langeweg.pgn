@@ -1,0 +1,21 @@
+[Event "Wijk aan Zee"]
+[Site "Wijk aan Zee"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Enklaar, Bertus F"]
+[Black "Langeweg, Kick"]
+[Result "0-1"]
+[ECO "E48"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 O-O, 5.Bd3 d5"]
+[HashCode "fa65866d"]
+[Epoch "Rook"]
+[BlackID "1000160"]
+[BlackCountry "NED"]
+[WhiteCountry "NLD"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Ne2 b6 7. a3 Bd6 8. Ng3
+dxc4 9. Bxc4 Bb7 10. O-O Nc6 11. b4 e5 12. d5 Ne7 13. Bb2 a6 14. Nge4 Ng6 15.
+Nxf6+ Qxf6 16. Qh5 e4 17. Bb3 a5 18. b5 Rae8 19. h3 Qd8 20. Rad1 Re5 21. Qe2
+Qh4 22. Kh1 Bc8 23. f4 exf3 24. Rxf3 Bg4 25. Rdf1 Bxf3 26. Qxf3 Qe7 27. e4 f5
+28. Qd1 fxe4 29. Ne2 Ref5 30. Rg1 Rf2 31. Bd4 e3 32. Qd3 Qh4 0-1

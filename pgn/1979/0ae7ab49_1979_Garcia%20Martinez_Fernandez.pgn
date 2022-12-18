@@ -1,0 +1,18 @@
+[Event "Capablanca mem"]
+[Site "Cienfuegos"]
+[Date "1979.??.??"]
+[Round "7"]
+[White "Garcia Martinez, Silvino"]
+[Black "Fernandez Garcia, Jose Luis"]
+[Result "1/2-1/2"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical system, 5.Be2"]
+[HashCode "0ae7ab49"]
+[Epoch "Rook"]
+[WhiteID "3500179"]
+[WhiteCountry "CUB"]
+
+1. e4 g6 2. d4 Bg7 3. Nf3 d6 4. Be2 Nf6 5. Nc3 O-O 6. O-O Bg4 7. Be3 Nc6 8. d5
+Bxf3 9. Bxf3 Ne5 10. Be2 c6 11. a4 Qa5 12. Ra3 Rfc8 13. Rb3 Rab8 14. Kh1 Ned7
+15. Bf3 Nc5 16. Ra3 Nfd7 1/2-1/2

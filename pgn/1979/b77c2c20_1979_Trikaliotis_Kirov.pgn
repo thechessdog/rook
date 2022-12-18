@@ -1,0 +1,19 @@
+[Event "Bihac"]
+[Site "Bihac"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Trikaliotis, Georgios"]
+[Black "Kirov, Nino"]
+[Result "1/2-1/2"]
+[ECO "D97"]
+[Opening "Gruenfeld"]
+[Variation "Russian, Prins variation"]
+[HashCode "b77c2c20"]
+[Epoch "Rook"]
+[BlackCountry "BGR"]
+[WhiteID "4200322"]
+[WhiteCountry "GRE"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Qb3 dxc4 6. Qxc4 O-O 7. e4 Na6 8. h3
+c5 9. Be3 b5 10. Qxb5 Rb8 11. Qa4 cxd4 12. Nxd4 Nxe4 13. Bxa6 Nc5 14. Qc4 Bxd4
+15. Qxd4 1/2-1/2

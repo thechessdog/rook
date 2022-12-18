@@ -1,0 +1,20 @@
+[Event "corr ch-CSSR"]
+[Site "corr ch-CSSR"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Mikulka"]
+[Black "Gadorek"]
+[Result "1-0"]
+[ECO "B77"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, 9...Bd7"]
+[HashCode "9e0c373b"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. Bc4 Nc6
+8. f3 Bd7 9. Qd2 O-O 10. h4 Ne5 11. Bb3 h5 12. O-O-O Rc8 13. g4 Qa5 14. Kb1
+Rc7 15. g5 Ne8 16. Nd5 Qxd2 17. Nxe7+ Kh7 18. Rxd2 a5 19. a3 b5 20. Nd5 Rb7
+21. f4 Ng4 22. Rf1 a4 23. Ba2 Nc7 24. Bg1 Na6 25. f5 Be5 26. fxg6+ Kxg6 27.
+Ne7+ Kg7 28. Bd5 Rc7 29. Ndf5+ Bxf5 30. exf5 b4 31. f6+ Kh8 32. Bb6 bxa3
+33. Bxc7 Nxc7 34. c4 Ne3 35. g6 1-0
+

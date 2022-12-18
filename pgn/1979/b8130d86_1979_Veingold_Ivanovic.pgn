@@ -1,0 +1,21 @@
+[Event "Tallinn"]
+[Site "Tallinn"]
+[Date "1979.01.01"]
+[Round "13"]
+[White "Veingold, Aleksandr"]
+[Black "Ivanovic, Bozidar"]
+[Result "1-0"]
+[ECO "D24"]
+[Opening "QGA, 4.Nc3"]
+[HashCode "b8130d86"]
+[Epoch "Rook"]
+[WhiteID "4500032"]
+[WhiteCountry "EST"]
+[BlackID "900095"]
+[BlackCountry "MNE"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 dxc4 4. Nc3 e6 5. e4 Bb4 6. Bg5 b5 7. a4 c6 8. e5 h6
+9. Bh4 g5 10. Nxg5 hxg5 11. Bxg5 Nbd7 12. exf6 Nb6 13. Be2 Nxa4 14. Rxa4 bxa4
+15. Qxa4 Qb6 16. O-O Bb7 17. d5 O-O-O 18. dxe6 Rdg8 19. Bf4 Qd4 20. Bg3 a5 21.
+Rd1 Qxf6 22. Nd5 Qd8 23. Nxb4 Qe8 24. Qxa5 Rxg3 25. hxg3 fxe6 26. Qe5 Rh6 27.
+Bxc4 Qe7 28. Na6 Ba8 29. Qb8# 1-0

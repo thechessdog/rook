@@ -1,0 +1,20 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Korsunsky, Rostisla"]
+[Black "Makarichev, Sergey"]
+[Result "0-1"]
+[ECO "B66"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...a6"]
+[HashCode "885fedaf"]
+[Epoch "Rook"]
+[BlackID "4100468"]
+[BlackCountry "RUS"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd2 a6 8.
+O-O-O h6 9. Bf4 Bd7 10. Nxc6 Bxc6 11. Qe2 Qc7 12. Nd5 Nxd5 13. exd5 Bb5 14. Qe4
+e5 15. Be3 Be7 16. Bd3 Rc8 17. Kb1 Bxd3 18. cxd3 O-O 19. g4 Qd7 20. Rdg1 Qb5
+21. h4 Rc3 22. Rd1 Rfc8 23. Rd2 Bxh4 24. g5 hxg5 25. Qf5 Qxd5 26. Qh3 R3c6 27.
+f4 exf4 28. Bf2 Qe6 0-1

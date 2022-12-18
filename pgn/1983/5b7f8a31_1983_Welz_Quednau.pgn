@@ -1,0 +1,21 @@
+[Event "corr ch11-DDR"]
+[Site "corr ch11-DDR"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Welz, P."]
+[Black "Quednau, Hans"]
+[Result "1-0"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Paulsen attack"]
+[HashCode "5b7f8a31"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. a3 c4 7. Nbd2 Bd7 8. b3
+cxb3 9. Nxb3 Na5 10. Nxa5 Qxa5 11. Bd2 Qa4 12. Qb1 b6 13. Bd3 h6 14. h4 Ne7
+15. h5 Rc8 16. Nh4 Rc7 17. g4 Nc8 18. f4 Be7 19. f5 Bg5 20. fxe6 Bxd2+ 21.
+Kxd2 fxe6 22. Ng6 Rg8 23. Rf1 Ne7 24. Qb4 Qxb4 25. axb4 Nc6 26. Rf3 Nd8 27.
+Raf1 Bc6 28. Nf8 Rf7 29. Rxf7 Nxf7 30. Nxe6 Ke7 31. Bg6 Nd8 32. Nxd8 Kxd8
+33. Rf7 a5 34. Bh7 Rh8 35. Rxg7 a4 36. c4 dxc4 37. Rg8+ Rxg8 38. Bxg8 b5
+39. g5 1-0
+

@@ -1,0 +1,18 @@
+[Event "Kecskemet"]
+[Site "Kecskemet"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Augustin, Josef"]
+[Black "Hazai, Laszlo Dr."]
+[Result "1/2-1/2"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack"]
+[HashCode "3eb8b461"]
+[Epoch "Rook"]
+[BlackID "700177"]
+[BlackCountry "HUN"]
+[WhiteID "300373"]
+[WhiteCountry "CZE"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 Nbd7 4. e3 g6 5. Bd3 Bg7 6. Nf3 O-O 7. O-O c5 8. Re1
+b6 9. Ne5 Bb7 10. Bb5 Rc8 11. Qf3 a6 12. Bf1 Ne4 1/2-1/2

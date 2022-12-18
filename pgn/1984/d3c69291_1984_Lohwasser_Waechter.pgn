@@ -1,0 +1,23 @@
+[Event "corr DDR/FS"]
+[Site "corr DDR/FS"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Lohwasser"]
+[Black "Waechter"]
+[Result "1-0"]
+[ECO "E30"]
+[Opening "Nimzo-Indian"]
+[Variation "Leningrad variation"]
+[HashCode "d3c69291"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Bg5 c5 5. d5 O-O 6. e4 d6 7. Bd3 Bxc3+ 8.
+bxc3 e5 9. Ne2 Nbd7 10. O-O Qe8 11. Ng3 h6 12. Bd2 Nb6 13. f4 Bg4 14. Qe1
+Nh7 15. f5 f6 16. Nh1 g5 17. fxg6 Qxg6 18. Qh4 Kg7 19. Bxh6+ Qxh6 20. Qxg4+
+Kh8 21. Qe2 Nc8 22. Rf2 Rg8 23. Raf1 Ne7 24. Ng3 Rg5 25. Nf5 Nxf5 26. Rxf5
+Rag8 27. Rxg5 Rxg5 28. Qd2 Rh5 29. Qxh6 Rxh6 30. Rb1 b6 31. a4 Nf8 32. a5
+Nd7 33. Be2 Rh7 34. Bg4 bxa5 35. Rb7 Nb6 36. Rb8+ Kg7 37. Bf5 Rh8 38. Rb7+
+Kh6 39. Rxa7 a4 40. h4 Kh5 41. g3 Nxc4 42. Rxa4 Ne3 43. Kh2 Rb8 44. Kh3 Rb3
+45. Ra7 Nxf5 46. exf5 Kh6 47. Rf7 Rxc3 48. Rxf6+ Kg7 49. Rxd6 Rd3 50. Kg4
+e4 51. Re6 e3 52. Kf4 c4 53. Rxe3 Rxd5 54. Ke4 Rc5 55. Rc3 1-0
+

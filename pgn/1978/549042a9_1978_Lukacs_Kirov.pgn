@@ -1,0 +1,18 @@
+[Event "Makarczyk mem"]
+[Site "Makarczyk op"]
+[Date "1978.01.01"]
+[Round "11"]
+[White "Lukacs, Peter"]
+[Black "Kirov, Nino"]
+[Result "1/2-1/2"]
+[ECO "D93"]
+[Opening "Gruenfeld with Bf4    e3"]
+[HashCode "549042a9"]
+[Epoch "Rook"]
+[WhiteID "700142"]
+[WhiteCountry "HUN"]
+[BlackCountry "BGR"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Bf4 O-O 6. e3 c5 7. dxc5 Ne4 8. Rc1
+Nxc3 9. bxc3 Qa5 10. cxd5 Bxc3+ 11. Nd2 Bf5 12. f3 Rc8 13. e4 Bd7 14. Kf2 Qxc5+
+15. Be3 1/2-1/2

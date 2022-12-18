@@ -1,0 +1,18 @@
+[Event "corr FSM"]
+[Site "corr FSM"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Bernhoft, E."]
+[Black "Manneck"]
+[Result "1/2-1/2"]
+[ECO "B50"]
+[Opening "Sicilian"]
+[HashCode "3081eed1"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. b3 Nf6 4. Bb5+ Bd7 5. Bxd7+ Nbxd7 6. d3 e6 7. O-O Be7
+8. Bb2 O-O 9. Nc3 a6 10. Nd2 d5 11. f4 d4 12. Ne2 Ng4 13. Rf3 Ne3 14. Qc1
+b5 15. Nf1 Nxf1 16. Qxf1 Qc7 17. Rg3 f6 18. Qf3 e5 19. Rf1 Bd6 20. Qg4 Rf7
+21. Rh3 exf4 22. Nxf4 Bxf4 23. Rxf4 Re8 24. Rf1 Nf8 25. Qh4 Qa5 26. a3 Qb6
+27. Qf2 Re5 28. Rf3 Qd6 29. Bc1 Ng6 1/2-1/2
+

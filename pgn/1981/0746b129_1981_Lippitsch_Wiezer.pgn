@@ -1,0 +1,19 @@
+[Event "corr DDR/M"]
+[Site "corr DDR/M"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Lippitsch"]
+[Black "Wiezer"]
+[Result "1/2-1/2"]
+[ECO "B89"]
+[Opening "Sicilian"]
+[Variation "Sozin, 7.Be3"]
+[HashCode "0746b129"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bc4 e6 7. Be3 a6 8.
+Qe2 Qc7 9. O-O-O Be7 10. Bb3 Na5 11. g4 b5 12. g5 Nxb3+ 13. Nxb3 Nd7 14. f4
+b4 15. Nb1 a5 16. N1d2 Ba6 17. Qf2 a4 18. Na1 e5 19. f5 b3 20. axb3 a3 21.
+bxa3 Bd3 22. Kb1 Rxa3 23. cxd3 O-O 24. Nc2 Ra2 25. Nc4 Rfa8 26. Qd2 Qb7 27.
+Qb4 Ra1+ 1/2-1/2
+

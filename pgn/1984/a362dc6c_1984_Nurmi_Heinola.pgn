@@ -1,0 +1,16 @@
+[Event "Tampere"]
+[Site "Tampere"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Nurmi, T."]
+[Black "Heinola, Kari P."]
+[Result "1-0"]
+[ECO "A43"]
+[Opening "Old Benoni defence"]
+[HashCode "a362dc6c"]
+[Epoch "Rook"]
+[BlackID "503495"]
+[BlackCountry "FIN"]
+
+1. d4 c5 2. d5 Nf6 3. g3 b5 4. Bg2 Bb7 5. e4 e6 6. Ne2 Na6 7. O-O Qb6 8. a4 Qa5
+9. Na3 bxa4 10. Nc3 c4 11. Nxc4 Qc7 12. Rxa4 Bb4 13. Nb5 Qb8 14. Bf4 Qd8 1-0

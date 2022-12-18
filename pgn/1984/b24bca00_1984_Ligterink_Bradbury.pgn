@@ -1,0 +1,23 @@
+[Event "Oxford"]
+[Site "Oxford"]
+[Date "1984.01.01"]
+[Round "6"]
+[White "Ligterink, Gert"]
+[Black "Bradbury, Neil H"]
+[Result "1-0"]
+[ECO "A62"]
+[Opening "Benoni"]
+[Variation "fianchetto variation"]
+[HashCode "b24bca00"]
+[Epoch "Rook"]
+[WhiteID "1000179"]
+[WhiteCountry "NED"]
+[BlackID "400513"]
+[BlackCountry "ENG"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. g3 Bg7 8. Bg2
+O-O 9. O-O a6 10. a4 Nbd7 11. e4 Rb8 12. Re1 Ng4 13. Nh4 Nge5 14. f4 Nc4 15.
+Qc2 b5 16. axb5 axb5 17. Bf1 Na5 18. Nxb5 c4 19. Nc3 Nb3 20. Rb1 Nxc1 21. Qxc1
+Nf6 22. Qd2 Ng4 23. h3 Nf6 24. Kh2 Nh5 25. Nf3 Bh6 26. Bxc4 Bxh3 27. Kxh3 Qc8+
+28. Kg2 Qxc4 29. e5 dxe5 30. Nxe5 Qc8 31. d6 Nf6 32. d7 Qb7+ 33. Kh2 Rfd8 34.
+Qd6 Nxd7 35. Nxf7 Kxf7 36. Re7+ Kg8 37. Qe6+ Kh8 38. Qf7 Nf8 39. Rxb7 1-0

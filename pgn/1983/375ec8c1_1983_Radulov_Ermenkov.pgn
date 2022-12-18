@@ -1,0 +1,19 @@
+[Event "Albena"]
+[Site "Albena"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Radulov, Ivan"]
+[Black "Ermenkov, Evgenij"]
+[Result "1/2-1/2"]
+[ECO "C06"]
+[Opening "French"]
+[Variation "Tarrasch, Leningrad variation"]
+[HashCode "375ec8c1"]
+[Epoch "Rook"]
+[WhiteID "2900300"]
+[WhiteCountry "FID"]
+[BlackID "2900106"]
+[BlackCountry "FID"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. Bd3 c5 5. e5 Nfd7 6. c3 Nc6 7. Ne2 cxd4 8. cxd4
+Nb6 9. O-O Bd7 10. f4 g6 11. a3 1/2-1/2

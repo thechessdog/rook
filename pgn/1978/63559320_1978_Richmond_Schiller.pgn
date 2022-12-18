@@ -1,0 +1,18 @@
+[Event "New York"]
+[Site "New York"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Richmond"]
+[Black "Schiller, Eric"]
+[Result "0-1"]
+[ECO "D00"]
+[Opening "Queen's pawn game"]
+[HashCode "63559320"]
+[Epoch "Rook"]
+[BlackID "2002973"]
+[BlackCountry "USA"]
+
+1. d4 d5 2. e3 g6 3. Nf3 Bg7 4. Nbd2 Nf6 5. Bd3 O-O 6. O-O c6 7. c3 Nbd7 8. e4
+dxe4 9. Nxe4 Qc7 10. Re1 Nd5 11. Ng3 Re8 12. Re4 e5 13. Rh4 exd4 14. Nxd4 Ne5
+15. Bh6 Nxd3 16. Qxd3 Bxh6 17. Rxh6 Qf4 18. Rh3 Bxh3 19. gxh3 Rad8 20. Nde2 Qh4
+21. Qd4 Qxd4 22. Nxd4 0-1

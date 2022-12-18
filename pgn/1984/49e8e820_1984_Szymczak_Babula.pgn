@@ -1,0 +1,20 @@
+[Event "Poznan"]
+[Site "Poznan"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Szymczak, Zbigniew"]
+[Black "Babula, Milan"]
+[Result "1/2-1/2"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "4.Nf3"]
+[HashCode "49e8e820"]
+[Epoch "Rook"]
+[WhiteID "1100424"]
+[BlackID "300632"]
+[WhiteCountry "POL"]
+[BlackCountry "CZE"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. cxd5 exd5 6. Bg5 c6 7. e3 Bf5 8. Bd3
+Bxd3 9. Qxd3 Nbd7 10. O-O O-O 11. Rab1 Ne4 12. Bxe7 Qxe7 13. Nd2 f5 14. f3 Nxd2
+15. Qxd2 Rae8 16. Rfe1 Rf6 1/2-1/2

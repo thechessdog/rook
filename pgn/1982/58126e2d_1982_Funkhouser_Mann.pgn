@@ -1,0 +1,17 @@
+[Event "Columbus,OH"]
+[Site "Columbus,OH"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Funkhouser, D."]
+[Black "Mann, Klaus"]
+[Result "0-1"]
+[ECO "C70"]
+[Opening "Ruy Lopez"]
+[Variation "Schliemann defence deferred"]
+[HashCode "58126e2d"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 f5 5. Nc3 b5 6. Bb3 fxe4 7. Nxe5 Qg5
+8. d4 Qxg2 9. Qh5+ g6 10. Bf7+ Kd8 11. Bxg6 Qxh1+ 12. Ke2 Nxd4+ 13. Ke3
+Qe1+ 14. Kxd4 c5+ 0-1
+

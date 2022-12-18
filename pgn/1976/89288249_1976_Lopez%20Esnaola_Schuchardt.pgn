@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Lopez Esnaola, B."]
+[Black "Schuchardt, G."]
+[Result "1-0"]
+[ECO "E25"]
+[Opening "Nimzo-Indian"]
+[Variation "Saemisch, Romanovsky variation"]
+[HashCode "89288249"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. a3 Bxc3+ 5. bxc3 c5 6. f3 d5 7. cxd5 Nxd5
+8. dxc5 f5 9. Nh3 Qc7 10. Nf2 Qxc5 11. Qd2 O-O 12. e4 Nxc3 13. a4 fxe4 14.
+fxe4 Nxe4 15. Nxe4 Qe5 16. Bd3 Qxa1 17. Nc3 Bd7 18. Bb1 Rf4 19. Bb2 Re4+
+20. Kf2 Rd4 21. Qc1 1-0
+

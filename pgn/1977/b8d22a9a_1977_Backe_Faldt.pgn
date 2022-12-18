@@ -1,0 +1,20 @@
+[Event "Stockholm"]
+[Site "Stockholm"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Backe, Peter"]
+[Black "Faldt, Magnus"]
+[Result "1/2-1/2"]
+[ECO "D82"]
+[Opening "Gruenfeld"]
+[Variation "4.Bf4"]
+[HashCode "b8d22a9a"]
+[Epoch "Rook"]
+[WhiteID "1701240"]
+[BlackID "1701835"]
+[WhiteCountry "SWE"]
+[BlackCountry "SWE"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Bf4 c6 5. e3 Bg7 6. Qb3 O-O 7. Nf3 dxc4 8. Bxc4
+Nbd7 9. O-O Nb6 10. Rfe1 Nxc4 11. Qxc4 Nd5 12. Bg3 Bg4 13. Ne5 Nb6 14. Qb3 Be6
+15. Qc2 Rc8 16. Rad1 Nd7 1/2-1/2

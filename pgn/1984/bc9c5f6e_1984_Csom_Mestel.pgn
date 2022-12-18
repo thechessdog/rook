@@ -1,0 +1,20 @@
+[Event "Esbjerg"]
+[Site "Esbjerg"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Csom, Istvan"]
+[Black "Mestel, A Jonathan"]
+[Result "1/2-1/2"]
+[ECO "A62"]
+[Opening "Benoni"]
+[Variation "fianchetto variation"]
+[HashCode "bc9c5f6e"]
+[Epoch "Rook"]
+[WhiteID "700100"]
+[BlackID "400122"]
+[WhiteCountry "HUN"]
+[BlackCountry "ENG"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. g3 Bg7 8. Bg2
+O-O 9. O-O a6 10. a4 Nbd7 11. Nd2 Rb8 12. Nc4 Qe7 13. Bf4 Ne8 14. a5 Ne5 15.
+Nxe5 Bxe5 16. Bxe5 dxe5 17. Qd2 1/2-1/2

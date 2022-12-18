@@ -1,0 +1,18 @@
+[Event "corr Wcup3"]
+[Site "corr Wcup3"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Markotic"]
+[Black "Tomkowicz"]
+[Result "0-1"]
+[ECO "B57"]
+[Opening "Sicilian"]
+[Variation "Magnus Smith trap"]
+[HashCode "c1cb3977"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bc4 g6 7. Nxc6 bxc6
+8. e5 Ng4 9. Bf4 Bh6 10. e6 Bxf4 11. Qxg4 Be5 12. exf7+ Kf8 13. Qf3 d5 14.
+Bb3 Kg7 15. O-O-O e6 16. h4 Rf8 17. Ne2 Qf6 18. Qxf6+ Bxf6 19. f4 Rxf7 20.
+c3 a5 21. Ba4 c5 22. g3 Rb8 23. Rhe1 Rfb7 24. Rd2 Rb6 25. Ng1 Bxc3 0-1
+

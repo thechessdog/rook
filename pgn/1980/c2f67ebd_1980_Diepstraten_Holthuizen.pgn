@@ -1,0 +1,17 @@
+[Event "Laren"]
+[Site "Laren"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Diepstraten, L."]
+[Black "Holthuizen, N."]
+[Result "1-0"]
+[ECO "C40"]
+[Opening "Latvian counter-gambit"]
+[HashCode "c2f67ebd"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 f5 3. Nxe5 Qf6 4. Nc4 fxe4 5. Nc3 Qe6 6. d3 exd3+ 7. Be3
+dxc2 8. Qxc2 d5 9. Nb5 Qc6 10. Nca3 Qxc2 11. Nxc2 Na6 12. Bf4 c6 13. Nd6+
+Bxd6 14. Bxd6 Nf6 15. Bxa6 bxa6 16. O-O Ne4 17. Rfe1 Kf7 18. Be5 Bb7 19. f3
+Nc5 20. Bd6 Nd3 21. Re7+ Kf6 22. Rxb7 1-0
+

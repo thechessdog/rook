@@ -1,0 +1,22 @@
+[Event "Regionalliga Nord"]
+[Site "RLN 8081"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Syska, Heiko"]
+[Black "Semmler, Guenter"]
+[Result "0-1"]
+[ECO "B32"]
+[Opening "Sicilian"]
+[Variation "Labourdonnais-Loewenthal variation"]
+[HashCode "3d305609"]
+[Epoch "Rook"]
+[BlackID "4630220"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e5 5. Nb5 a6 6. Nd6+ Bxd6 7. Qxd6 Qe7 8.
+Qd1 Nf6 9. Nc3 d6 10. Bg5 Be6 11. Nd5 Bxd5 12. exd5 Nb8 13. Bd3 h6 14. Bxf6
+Qxf6 15. O-O Nd7 16. f4 exf4 17. Qd2 g5 18. Qb4 O-O-O 19. a4 Nc5 20. Ra3 Rhe8
+21. Rc3 Kb8 22. Kh1 Rc8 23. a5 Qe5 24. Bc4 Rc7 25. Rcf3 Qd4 26. b3 Ne4 27. c3
+Qc5 28. Qa4 Rce7 29. Qa2 Rc8 30. Rd1 Nf6 31. Rff1 Ng4 32. Rd4 Ne3 33. Re1 Qc7
+34. h3 Rce8 35. Rb1 Nf5 36. Rdd1 Ne3 37. Rd4 Nf5 38. Rdd1 Ng3+ 39. Kh2 Re3 40.
+Qd2 Ne4 41. Qd4 Nxc3 0-1

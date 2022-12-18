@@ -1,0 +1,23 @@
+[Event "Budapest"]
+[Site "Budapest"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Szabo, Laszlo"]
+[Black "Tompa"]
+[Result "1-0"]
+[ECO "E43"]
+[Opening "Nimzo-Indian"]
+[Variation "Fischer variation"]
+[HashCode "b62926a2"]
+[Epoch "Rook"]
+[WhiteID "710741"]
+[WhiteCountry "HUN"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 b6 5. Bd3 Bb7 6. Nf3 c5 7. O-O O-O 8. Bd2
+Bxc3 9. Bxc3 Ne4 10. Bxe4 Bxe4 11. dxc5 bxc5 12. Qd6 Bxf3 13. Qg3 f6 14. Qxf3
+Nc6 15. Rad1 Qc7 16. Rd2 Rad8 17. Rfd1 Ne5 18. Qg3 d6 19. b3 Rd7 20. h4 Kh8 21.
+h5 Rdd8 22. Qh3 Qe7 23. h6 gxh6 24. Qxh6 Rg8 25. Kf1 Rg6 26. Qh3 Nf7 27. Ke2
+Ng5 28. Qh4 e5 29. Rh1 Ne6 30. g3 Nd4+ 31. Kd1 Nf5 32. Qe4 Rh6 33. Ba5 Rc8 34.
+Kc2 Rxh1 35. Qxh1 Ng7 36. Qd5 Ne8 37. g4 Kg7 38. f4 Qf7 39. Qe4 Kg8 40. Rg2
+exf4 41. exf4 Ng7 42. Bc3 Re8 43. Qc6 Ne6 44. f5 Nd4+ 45. Bxd4 cxd4 46. g5 d3+
+47. Kxd3 Qh5 48. gxf6+ Kh8 49. Kc3 Qh3+ 50. Kb2 Rf8 51. Qb7 1-0

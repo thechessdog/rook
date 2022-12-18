@@ -1,0 +1,19 @@
+[Event "corr BdF"]
+[Site "corr BdF"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Todter"]
+[Black "Caprano"]
+[Result "0-1"]
+[ECO "C41"]
+[Opening "Philidor"]
+[Variation "Nimzovich, Sozin variation"]
+[HashCode "868ad232"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 d6 3. d4 Nf6 4. Nc3 Nbd7 5. Bc4 Be7 6. O-O O-O 7. Qe2 c6 8.
+a4 exd4 9. Nxd4 Re8 10. Ba2 d5 11. exd5 Bd6 12. Qd1 Qc7 13. g3 Ne5 14. dxc6
+Bh3 15. Ncb5 Qb8 16. Nf5 Bc7 17. Nxc7 Qxc7 18. Qd6 Nf3+ 19. Kh1 Ne4 20. Qd1
+Nxf2+ 21. Rxf2 Re1+ 22. Qxe1 Nxe1 23. Nd4 Qe5 24. Bxf7+ Kh8 25. Re2 Qxd4
+26. Bd2 Bg2+ 27. Rxg2 Nxg2 0-1
+

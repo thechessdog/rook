@@ -1,0 +1,20 @@
+[Event "Agard"]
+[Site "Agard"]
+[Date "1976.01.01"]
+[Round "4"]
+[White "Stoica, Valentin"]
+[Black "Prandstetter, Eduard"]
+[Result "1-0"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Byrne (English) attack"]
+[HashCode "8e46e44a"]
+[Epoch "Rook"]
+[WhiteID "1200070"]
+[WhiteCountry "ROU"]
+[BlackID "300225"]
+[BlackCountry "CZE"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e6 7. f4 Be7 8. Qf3
+Qc7 9. O-O-O Nbd7 10. g4 h6 11. h4 b5 12. g5 hxg5 13. hxg5 Rxh1 14. Qxh1 Ng8
+15. Qh8 Kf8 16. f5 e5 17. Nd5 Qb7 18. f6 gxf6 19. Nf5 1-0

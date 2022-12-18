@@ -1,0 +1,17 @@
+[Event "corr SWE/K tt"]
+[Site "corr SWE/K tt"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Wirgren, Anders"]
+[Black "Larsson, Elias 2006"]
+[Result "0-1"]
+[ECO "D38"]
+[Opening "QGD"]
+[Variation "Ragozin variation"]
+[HashCode "fbb1ddff"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Bb4 5. Bg5 h6 6. Bxf6 Qxf6 7. Qa4+ Nc6 8.
+cxd5 exd5 9. e3 O-O 10. Be2 a6 11. O-O Be6 12. Qc2 Rad8 13. Na4 Bd6 14. Nc5 Bc8
+15. Rfc1 g5 16. a3 g4 17. Ne1 h5 18. g3 Kg7 19. Ng2 Ne7 20. b4 Rh8 21. Rf1 h4
+22. Bd3 Rh6 23. Rae1 Rdh8 24. Re2 Nf5 25. Ne1 hxg3 26. fxg3 Bxg3 0-1

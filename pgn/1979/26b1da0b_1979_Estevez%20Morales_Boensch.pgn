@@ -1,0 +1,23 @@
+[Event "Capablanca mem"]
+[Site "Cienfuegos"]
+[Date "1979.01.01"]
+[Round "3"]
+[White "Estevez Morales, Guillermo"]
+[Black "Boensch, Uwe"]
+[Result "0-1"]
+[ECO "A71"]
+[Opening "Benoni"]
+[Variation "classical, 8.Bg5"]
+[HashCode "26b1da0b"]
+[Epoch "Rook"]
+[BlackID "4611268"]
+[BlackCountry "GER"]
+[WhiteCountry "CUB"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. e4 Bg7 8. Bg5
+a6 9. Nd2 b5 10. a4 b4 11. Ncb1 O-O 12. Bd3 a5 13. O-O Nbd7 14. Nc4 Ba6 15.
+Nbd2 Nb6 16. Nxb6 Qxb6 17. Bxa6 Qxa6 18. b3 Nd7 19. Rc1 f5 20. Nc4 fxe4 21. Be7
+Rf5 22. Bxd6 Bd4 23. Bg3 Rxd5 24. Ne3 Rh5 25. Nc2 Qc6 26. Qe2 Qe6 27. Rcd1 Nf6
+28. Nxd4 cxd4 29. Rxd4 Qxb3 30. Rd6 Rf8 31. Qa6 Rf5 32. Re6 Qd3 33. Qb6 Nd7 34.
+Qa7 Rd5 35. Re7 Rf7 36. Rxf7 Kxf7 37. h3 b3 38. Qb7 Rd4 39. Bh4 Rb4 40. Qc7 b2
+41. Qd8 Qxf1+ 42. Kh2 Ke6 0-1

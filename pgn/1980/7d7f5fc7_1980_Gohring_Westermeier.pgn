@@ -1,0 +1,17 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Goehring, Karl-Heinz"]
+[Black "Westermeier, Arnulf"]
+[Result "1/2-1/2"]
+[ECO "D66"]
+[Opening "QGD"]
+[Variation "Orthodox defence, Bd3 line"]
+[HashCode "7d7f5fc7"]
+[Epoch "Rook"]
+[BlackID "4604288"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Nf3 Be7 5. Bg5 Nbd7 6. e3 O-O 7. Rc1 c6 8. Bd3
+a6 9. c5 h6 10. Bf4 b6 11. cxb6 Qxb6 12. Na4 1/2-1/2

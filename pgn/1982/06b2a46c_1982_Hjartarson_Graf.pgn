@@ -1,0 +1,22 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1982.01.01"]
+[Round "9"]
+[White "Hjartarson, Johann"]
+[Black "Graf, Juergen"]
+[Result "1-0"]
+[ECO "E81"]
+[Opening "King's Indian"]
+[Variation "Saemisch, 5...O-O"]
+[HashCode "06b2a46c"]
+[Epoch "Rook"]
+[WhiteID "2300044"]
+[WhiteCountry "ISL"]
+[BlackID "4600312"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Bg5 c5 7. d5 e6 8. Qd2 exd5
+9. cxd5 Re8 10. Nge2 a6 11. a4 Nbd7 12. Ng3 Qa5 13. Ra3 Qb4 14. Be2 Ne5 15. Na2
+Qxd2+ 16. Kxd2 h6 17. Be3 Bd7 18. a5 Bb5 19. Rc1 Rab8 20. b4 Bxe2 21. Nxe2 cxb4
+22. Nxb4 Nfd7 23. Bd4 Nc5 24. Bxc5 dxc5 25. Nd3 Nxd3 26. Rxd3 Rec8 27. d6 Rc6
+28. Rd5 Rd8 29. e5 f6 30. f4 g5 31. g3 b6 32. Nd4 Rcc8 33. e6 1-0

@@ -1,0 +1,20 @@
+[Event "Lucerne"]
+[Site "Lucerne"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Van Gent, F."]
+[Black "Fassler"]
+[Result "1-0"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra gambit"]
+[HashCode "c76eb7a1"]
+[Epoch "Rook"]
+
+1. e4 c5 2. d4 cxd4 3. c3 dxc3 4. Nxc3 Nc6 5. Nf3 d6 6. Bc4 e6 7. O-O Be7
+8. Qe2 Nf6 9. Rd1 e5 10. h3 O-O 11. Bg5 a6 12. Rac1 Be6 13. Bxf6 Bxf6 14.
+Bd5 Qd7 15. Na4 Rad8 16. Bxc6 bxc6 17. Nc5 Qa7 18. Nxe6 fxe6 19. Rxc6 Be7
+20. Qc4 d5 21. exd5 Rf4 22. Qxa6 Qxa6 23. Rxa6 exd5 24. Nxe5 Bf6 25. Nd3
+Rc4 26. b3 Rc2 27. Nb4 Rb2 28. Nxd5 Rf8 29. Nxf6+ Rxf6 30. Rxf6 gxf6 31. a4
+Kg7 32. Rd3 1-0
+

@@ -1,0 +1,23 @@
+[Event "corr GPDF sf"]
+[Site "corr GPDF sf"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Martin, Pedro"]
+[Black "Delmas"]
+[Result "1-0"]
+[ECO "E53"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Keres variation"]
+[HashCode "3acdf966"]
+[Epoch "Rook"]
+[WhiteID "108383"]
+[WhiteCountry "ARG"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 c5 7. O-O b6 8. cxd5
+exd5 9. dxc5 bxc5 10. Ne2 Bb7 11. b3 Nbd7 12. Bb2 Ba5 13. Ng3 g6 14. Rc1 Rc8
+15. Rc2 Qe7 16. Qe2 Rc7 17. Rfc1 Rfc8 18. Ba3 Bb6 19. Ba6 Bxa6 20. Qxa6 Nb8 21.
+Qb5 Qd7 22. Qd3 Qe7 23. Bb2 Nc6 24. a3 Rd8 25. Bxf6 Qxf6 26. Ne2 d4 27. exd4
+cxd4 28. b4 Ne5 29. Nxe5 Rxc2 30. Rxc2 Qxe5 31. g3 f5 32. Rd2 Kg7 33. a4 Qe4
+34. a5 Qxd3 35. Rxd3 Bc7 36. Rxd4 Kf7 37. Rc4 Rd7 38. Nd4 Ke7 39. Nc6+ Ke6 40.
+Nxa7 Bxa5 41. bxa5 Rxa7 42. Ra4 Ra6 43. Kg2 Ke5 44. h4 h6 45. Kf3 g5 46. Ke3
+Kd5 47. Kd3 1-0

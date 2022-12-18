@@ -1,0 +1,33 @@
+[Event "Belgrade"]
+[Site "Belgrade"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Barlov, Dragan"]
+[Black "Govedarica, Radovan"]
+[Result "1-0"]
+[ECO "C16"]
+[Opening "French"]
+[Variation "Winawer, Petrosian variation"]
+[HashCode "2955e91d"]
+[Epoch "Rook"]
+[BlackID "900630"]
+[BlackCountry "SRB"]
+[WhiteID "900214"]
+[WhiteCountry "SRB"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 Qd7 5. Bd2 b6 6. Nh3 f6 7. exf6 Nxf6 8. Ng5
+O-O 9. Nf3 c5 10. a3 Bxc3 11. Bxc3 Ba6 12. Bxa6 Nxa6 13. Ne5 Qb7 14. O-O Nb8
+15. f3 Nc6 16. Re1 Rae8 17. Qd2 Nxe5 18. Rxe5 Nd7 19. Re3 e5 20. dxe5 d4 21.
+Bxd4 cxd4 22. Qxd4 Nc5 23. b4 Ne6 24. Qc4 b5 25. Qb3 Qc6 26. Rd1 Rf4 27. Rc3
+Qb6+ 28. Kf1 Rd4 29. Rdd3 Rxd3 30. Rxd3 Qb7 31. Rd6 Qf7 32. Qd5 Nc7 33. Qxf7+
+Kxf7 34. f4 Re6 35. Rd7+ Re7 36. Rd6 h5 37. Ke2 g6 38. g3 Ne6 39. Kd3 Rb7 40.
+c4 bxc4+ 41. Kxc4 Ke7 42. a4 Rb8 43. b5 Rc8+ 44. Kb4 h4 45. Ra6 Rc7 46. a5 h3
+47. b6 axb6 48. Rxb6 Kd7 49. Rd6+ Ke7 50. Rd2 Rb7+ 51. Kc4 Nc7 52. Ra2 Na6 53.
+Kd4 Ke6 54. Rc2 Nb4 55. Rc5 Kf5 56. Kc4 Nc2 57. a6 Na3+ 58. Kd5 Ra7 59. Ra5 Nb1
+60. Kc6 Nd2 61. Kb6 Rh7 62. Ra4 Nf3 63. Ra2 Rh8 64. a7 g5 65. fxg5 Nxe5 66. Ra5
+Rg8 67. Rb5 Ke6 68. g6 Nxg6 69. Rg5 Kf6 70. Rh5 Re8 71. Rh7 Nf8 72. Rc7 Ne6 73.
+Rb7 Nf8 74. Ka6 Ne6 75. Kb6 Nf8 76. Ka5 Ra8 77. Ka6 Ne6 78. Rb6 Rd8 79. Rc6 Kf5
+80. g4+ Ke5 81. Kb7 Ng5 82. Rc5+ Kf4 83. Rc4+ Kf3 84. a8=Q Rxa8 85. Kxa8 Ke3
+86. Rc3+ Kf4 87. Rg3 Nf3 88. Rxh3 Kxg4 89. Rg3+ Kf4 90. Rg2 Nh4 91. Rg8 Nf3 92.
+h3 Kf5 93. Rf8+ Ke4 94. Kb7 Nh4 95. Kc7 Nf5 96. Kd7 Nh4 97. Rf1 Ng6 98. Ke8 Nf4
+99. h4 Kf5 100. h5 Kg5 1-0

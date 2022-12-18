@@ -1,0 +1,18 @@
+[Event "BL2-N 8384"]
+[Site "BL2-N 8384"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Von Herman, Ulf"]
+[Black "Sack, Bruno Wolfgang"]
+[Result "0-1"]
+[ECO "E38"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, 4...c5"]
+[HashCode "53164b3e"]
+[Epoch "Rook"]
+[WhiteID "4608500"]
+[WhiteCountry "GER"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 c5 5. dxc5 Bxc5 6. Bf4 d5 7. e3 Qa5 8. Rd1
+Nc6 9. Nf3 O-O 10. a3 Be7 11. Nd2 e5 12. Bg3 d4 13. Nb3 Qb6 14. c5 Qd8 15. exd4
+Nxd4 16. Nxd4 exd4 17. Nb5 Bd7 18. Rxd4 Rc8 19. b4 Qe8 0-1

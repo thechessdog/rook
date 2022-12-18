@@ -1,0 +1,19 @@
+[Event "Dortmund"]
+[Site "Dortmund"]
+[Date "1979.04.01"]
+[Round "10"]
+[White "Nikolac, Juraj"]
+[Black "Boehmfeldt, Bruno"]
+[Result "1-0"]
+[ECO "A51"]
+[Opening "Budapest"]
+[Variation "Fajarowicz variation"]
+[HashCode "3369b10c"]
+[Epoch "Rook"]
+[WhiteID "14500140"]
+[WhiteCountry "CRO"]
+[BlackID "4604695"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ne4 4. Nd2 Bb4 5. g3 Nc6 6. Bg2 Nxd2 7. Bxd2 Bxd2+
+8. Qxd2 Nxe5 9. Qc3 Qe7 10. f4 Ng6 11. Qxg7 Qb4+ 12. Kf1 Rf8 13. Nf3 1-0

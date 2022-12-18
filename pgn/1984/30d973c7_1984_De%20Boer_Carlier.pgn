@@ -1,0 +1,22 @@
+[Event "Dieren"]
+[Site "Dieren"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "De Boer, Gert-Jan"]
+[Black "Carlier, Bruno"]
+[Result "0-1"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Nimzovich (knight's tour) variation"]
+[HashCode "30d973c7"]
+[Epoch "Rook"]
+[BlackID "1000314"]
+[BlackCountry "NED"]
+[WhiteCountry "NED"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. Nd2 Bg7 8. e4
+O-O 9. Be2 b6 10. O-O Ba6 11. Bxa6 Nxa6 12. f3 Nc7 13. a4 Nd7 14. Nc4 Ne5 15.
+Ne3 Nd7 16. f4 Re8 17. Nc4 Bd4+ 18. Be3 Bxc3 19. bxc3 Rxe4 20. Qd3 Qe7 21. Rae1
+Re8 22. f5 Nf6 23. fxg6 fxg6 24. Bd2 Ncxd5 25. Nb2 Qe5 26. Qf3 Rxe1 27. Rxe1
+Ne4 28. Qd1 Rf8 29. Nd3 Qf5 30. Bh6 Ndxc3 31. Qb3+ c4 32. Qb2 cxd3 33. Bxf8 d2
+34. Qb3+ Kxf8 0-1

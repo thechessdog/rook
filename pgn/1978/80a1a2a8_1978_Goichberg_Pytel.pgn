@@ -1,0 +1,22 @@
+[Event "Skien"]
+[Site "Skien"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Goichberg, William"]
+[Black "Pytel, Krzysztof"]
+[Result "1/2-1/2"]
+[ECO "B93"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.f4"]
+[HashCode "80a1a2a8"]
+[Epoch "Rook"]
+[WhiteID "2001462"]
+[BlackID "600199"]
+[WhiteCountry "USA"]
+[BlackCountry "FRA"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 e5 7. Nf3 Qc7 8. a4
+Be7 9. Bd3 O-O 10. O-O Nbd7 11. Qe1 Re8 12. Nh4 exf4 13. Bxf4 Nc5 14. Kh1 Be6
+15. Bg5 d5 16. e5 Ng4 17. Bxe7 Qxe7 18. Nf3 Rad8 19. h3 d4 20. Ne4 Ne3 21. Nxc5
+Qxc5 22. Qh4 h6 23. Rf2 Bd5 24. Qf4 Re7 25. Qxd4 Qxd4 26. Nxd4 Nxg2 27. Kh2
+Rxe5 28. Nf5 Ne3 29. Nxe3 1/2-1/2

@@ -1,0 +1,21 @@
+[Event "Viborg"]
+[Site "Viborg"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Short, Nigel D"]
+[Black "Graf, Juergen"]
+[Result "1-0"]
+[ECO "B51"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky (Nimzovich-Rossolimo, Moscow) attack"]
+[HashCode "364e14c9"]
+[Epoch "Rook"]
+[WhiteID "400025"]
+[WhiteCountry "ENG"]
+[BlackID "4600312"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Nd7 4. O-O a6 5. Bxd7+ Bxd7 6. d4 cxd4 7. Qxd4 Nf6
+8. Bg5 e6 9. Nc3 Bc6 10. Nd5 Bxd5 11. exd5 e5 12. Qb4 Qd7 13. Bxf6 gxf6 14. Nd2
+Qb5 15. Qe4 Qxb2 16. Rab1 Qxa2 17. Rxb7 Bg7 18. Nc4 O-O 19. Nxd6 Rab8 20. Rxb8
+Rxb8 21. c4 Bf8 22. Qg4+ 1-0

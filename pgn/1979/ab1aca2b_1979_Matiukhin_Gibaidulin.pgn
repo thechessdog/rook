@@ -1,0 +1,15 @@
+[Event "corr USSR"]
+[Site "corr USSR"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Matiukhin"]
+[Black "Gibaidulin"]
+[Result "0-1"]
+[ECO "A00"]
+[Opening "Polish (Sokolsky) opening"]
+[HashCode "ab1aca2b"]
+[Epoch "Rook"]
+
+1. b4 e5 2. Bb2 Bxb4 3. Bxe5 Nf6 4. Nc3 Nc6 5. Bxf6 Qxf6 6. Nd5 Qe5 7. Nxb4
+Nxb4 8. c3 Nd3# 0-1
+

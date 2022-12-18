@@ -1,0 +1,20 @@
+[Event "corr SM"]
+[Site "corr SM"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Niemi, Valio"]
+[Black "Koskinen, Olli"]
+[Result "0-1"]
+[ECO "B82"]
+[Opening "Sicilian"]
+[Variation "Scheveningen, 6.f4"]
+[HashCode "74b1d988"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e6 6. f4 a6 7. Be3 b5 8.
+Qf3 Bb7 9. Bd3 Nbd7 10. g4 b4 11. Nce2 Nc5 12. Ng3 d5 13. e5 Nfe4 14. f5
+Qc7 15. Qf4 g5 16. Qf1 Qxe5 17. Nxe4 Nxd3+ 18. Qxd3 dxe4 19. Qb3 O-O-O 20.
+Qc4+ Qc5 21. Qxc5+ Bxc5 22. c3 bxc3 23. bxc3 e5 24. Nc2 Bxe3 25. Nxe3 Rd3
+26. Nc4 f6 27. h4 e3 28. Rh3 gxh4 29. Rc1 Bg2 30. Rxh4 Bf3 31. Nb2 Rd2 32.
+Nc4 Rhd8 0-1
+

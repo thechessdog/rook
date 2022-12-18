@@ -1,0 +1,18 @@
+[Event "Lugano"]
+[Site "Lugano"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Weiss"]
+[Black "Villanyi"]
+[Result "1-0"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "37eb26ab"]
+[Epoch "Rook"]
+
+1. e4 c5 2. c3 d5 3. Bb5+ Bd7 4. Bxd7+ Qxd7 5. exd5 Qxd5 6. Nf3 Nc6 7. O-O
+O-O-O 8. d4 e5 9. Qc2 exd4 10. cxd4 Nxd4 11. Nxd4 Qxd4 12. Be3 Qd3 13. Qa4
+a6 14. Nc3 Bd6 15. Rfd1 Qf5 16. Ne4 Qe5 17. Bf4 Qxf4 18. Nxd6+ Qxd6 19.
+Rxd6 Rxd6 20. Qg4+ 1-0
+

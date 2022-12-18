@@ -1,0 +1,16 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Pecis"]
+[Black "Cavadini"]
+[Result "1-0"]
+[ECO "C78"]
+[Opening "Ruy Lopez"]
+[Variation "5.O-O"]
+[HashCode "a61eac55"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 d5 7. exd5 Nxd5
+8. Nxe5 Nce7 9. Nc3 Bb7 10. Ne4 f6 11. Qh5+ g6 12. Nxf6+ 1-0
+

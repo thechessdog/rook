@@ -1,0 +1,19 @@
+[Event "corr SWE/M"]
+[Site "corr SWE/M"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Isetoft"]
+[Black "Hallerod"]
+[Result "1-0"]
+[ECO "B16"]
+[Opening "Caro-Kann"]
+[Variation "Bronstein-Larsen variation"]
+[HashCode "fe512b00"]
+[Epoch "Rook"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ gxf6 6. Be3 Bf5 7. Ne2
+Bg4 8. h3 Bxe2 9. Bxe2 e6 10. O-O f5 11. c4 Bg7 12. Qd2 O-O 13. Rfd1 Nd7
+14. Bh6 Qf6 15. Bxg7 Qxg7 16. Qb4 Rab8 17. Rd3 Kh8 18. Rad1 Nf6 19. Qa5 a6
+20. Rg3 Qh6 21. Qe5 Rbc8 22. Bf3 Rfe8 23. b4 Rcd8 24. a4 Rd7 25. Rb1 Qh4
+26. Rd1 Red8 27. d5 exd5 28. cxd5 Re8 29. Qc3 Rg8 30. Rd4 1-0
+

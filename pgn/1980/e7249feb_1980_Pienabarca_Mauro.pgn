@@ -1,0 +1,17 @@
+[Event "corr Italy"]
+[Site "corr Italy"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Pienabarca"]
+[Black "Mauro"]
+[Result "0-1"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "modern variation"]
+[HashCode "e7249feb"]
+[Epoch "Rook"]
+
+1. b3 e5 2. Bb2 Nc6 3. e3 d5 4. Bb5 Bd6 5. f4 f6 6. fxe5 fxe5 7. Nf3 Qe7 8.
+Bxc6+ bxc6 9. Nxe5 Qh4+ 10. g3 Qh3 11. Qe2 Nf6 12. Rg1 O-O 13. Na3 Ne4 14.
+Qg2 Qh5 15. Nd3 Bh3 16. Qh1 Bg4 17. Qg2 Bf3 18. Qf1 Qxh2 19. Nf2 Bxg3 0-1
+

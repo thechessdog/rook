@@ -1,0 +1,20 @@
+[Event "Gdynia"]
+[Site "Gdynia"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Stempin, Pawel"]
+[Black "Kuczynski, Robert"]
+[Result "1/2-1/2"]
+[ECO "D47"]
+[Opening "QGD semi-Slav"]
+[Variation "Meran variation"]
+[HashCode "081995f5"]
+[Epoch "Rook"]
+[WhiteID "1100068"]
+[WhiteCountry "POL"]
+[BlackID "1100033"]
+[BlackCountry "POL"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. e3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8. Bb3
+Bb7 9. O-O b4 10. Ne2 Be7 11. Nf4 Qb6 12. Ng5 c5 13. Re1 O-O 14. e4 cxd4 15. e5
+Nd5 16. Nxd5 1/2-1/2

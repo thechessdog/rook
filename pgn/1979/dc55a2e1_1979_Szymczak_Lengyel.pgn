@@ -1,0 +1,18 @@
+[Event "Poland"]
+[Site "Poland"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Szymczak, Zbigniew"]
+[Black "Lengyel, Bela"]
+[Result "1-0"]
+[ECO "D24"]
+[Opening "QGA, Bogolyubov variation"]
+[HashCode "dc55a2e1"]
+[Epoch "Rook"]
+[WhiteID "1100424"]
+[WhiteCountry "POL"]
+[BlackCountry "HUN"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. Nc3 a6 5. e4 b5 6. e5 Nd5 7. a4 Bb7 8. e6 f6
+9. Ne4 Nb4 10. Nc5 Bxf3 11. gxf3 N8c6 12. Be3 g6 13. Bg2 Rb8 14. O-O Qd6 15. f4
+Bh6 16. d5 Nd8 17. Ne4 1-0

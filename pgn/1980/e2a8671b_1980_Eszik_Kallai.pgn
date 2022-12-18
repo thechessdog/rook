@@ -1,0 +1,20 @@
+[Event "Salgotarjan"]
+[Site "Salgotarjan"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Eszik, A."]
+[Black "Kallai, Gabor"]
+[Result "1-0"]
+[ECO "A34"]
+[Opening "English"]
+[Variation "symmetrical, three knights system"]
+[HashCode "e2a8671b"]
+[Epoch "Rook"]
+[BlackID "700282"]
+[BlackCountry "HUN"]
+
+1. Nf3 c5 2. c4 Nf6 3. Nc3 d5 4. cxd5 Nxd5 5. d4 cxd4 6. Qxd4 Nxc3 7. Qxc3 Nc6
+8. e4 Bg4 9. Bb5 Rc8 10. Be3 Bxf3 11. gxf3 a6 12. Rd1 Qc7 13. Bxc6+ Qxc6 14.
+Qd4 Qd6 15. O-O Qxd4 16. Rxd4 e5 17. Rd5 f6 18. Rfd1 Be7 19. Bb6 Rc6 20. Bd8
+Bf8 21. Ba5 Kf7 22. Rd7+ Be7 23. Rxb7 Ke6 24. Bc3 g5 25. Rdd7 Re8 26. Kf1 h5
+27. Ke2 h4 28. Rdc7 Rxc7 29. Rxc7 Rd8 30. Ra7 1-0

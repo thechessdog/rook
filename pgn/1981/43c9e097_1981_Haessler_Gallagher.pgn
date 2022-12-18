@@ -1,0 +1,16 @@
+[Event "Tacoma,WA"]
+[Site "Tacoma,WA"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Haessler"]
+[Black "Gallagher"]
+[Result "0-1"]
+[ECO "A00"]
+[Opening "Grob's attack"]
+[HashCode "43c9e097"]
+[Epoch "Rook"]
+
+1. g4 e5 2. Bg2 Bc5 3. d3 d5 4. g5 Nc6 5. Nf3 Qd6 6. Nbd2 f5 7. gxf6 Nxf6
+8. e4 dxe4 9. dxe4 Bg4 10. c3 O-O-O 11. Qe2 Rhf8 12. O-O Nh5 13. Nb3 Bb6
+14. h3 Ng3 0-1
+

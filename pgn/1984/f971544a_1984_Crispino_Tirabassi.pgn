@@ -1,0 +1,18 @@
+[Event "Italy"]
+[Site "Italy"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Crispino"]
+[Black "Tirabassi"]
+[Result "0-1"]
+[ECO "D29"]
+[Opening "QGA"]
+[Variation "classical, 8...Bb7"]
+[HashCode "f971544a"]
+[Epoch "Rook"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. e3 e6 5. Bxc4 c5 6. O-O a6 7. Qe2 b5 8.
+Bb3 Bb7 9. Rd1 Nbd7 10. e4 cxd4 11. e5 Nd5 12. Rxd4 Qc7 13. Nbd2 Bc5 14.
+Rg4 h5 15. Rh4 Be7 16. Rd4 g5 17. h3 Rg8 18. Nf1 g4 19. hxg4 hxg4 20. N3h2
+Nxe5 21. Bxd5 Bxd5 22. Nxg4 Nxg4 23. Rxg4 O-O-O 24. Bf4 Qxf4 0-1
+

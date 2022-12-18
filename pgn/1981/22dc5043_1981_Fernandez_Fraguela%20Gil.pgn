@@ -1,0 +1,22 @@
+[Event "Spain"]
+[Site "Spain"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Fernandes, Antonio"]
+[Black "Fraguela Gil, Jose M."]
+[Result "1-0"]
+[ECO "C06"]
+[Opening "French"]
+[Variation "Tarrasch, Leningrad variation"]
+[HashCode "22dc5043"]
+[Epoch "Rook"]
+[BlackID "2201011"]
+[BlackCountry "ESP"]
+[WhiteID "1900021"]
+[WhiteCountry "POR"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. c3 c5 6. Bd3 Nc6 7. Ne2 cxd4 8. cxd4
+Nb6 9. O-O Bd7 10. Nf3 Be7 11. Re1 Nb4 12. Bb1 a5 13. a3 Nc6 14. a4 Nb4 15. b3
+Nc8 16. Nf4 b5 17. axb5 Na7 18. Nh5 g6 19. Ng7+ Kf8 20. Bh6 Kg8 21. Qd2 Nxb5
+22. Qf4 Qc7 23. Nh5 f5 24. Ng5 Qc3 25. Bxf5 exf5 26. Nf6+ Bxf6 27. exf6 Rf8 28.
+Qe5 Qc8 29. Qe7 1-0

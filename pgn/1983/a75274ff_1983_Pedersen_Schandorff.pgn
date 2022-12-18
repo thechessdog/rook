@@ -1,0 +1,18 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Pedersen, Erik"]
+[Black "Schandorff, Lars"]
+[Result "1/2-1/2"]
+[ECO "D03"]
+[Opening "Torre attack (Tartakower variation)"]
+[HashCode "a75274ff"]
+[Epoch "Rook"]
+[WhiteID "1404997"]
+[WhiteCountry "DEN"]
+[BlackID "1400070"]
+[BlackCountry "DEN"]
+
+1. d4 d5 2. Nf3 Nf6 3. Bg5 Ne4 4. Bf4 c5 5. e3 Qb6 6. Qc1 Nc6 7. c3 Bf5 8. Nbd2
+e6 9. Nh4 1/2-1/2

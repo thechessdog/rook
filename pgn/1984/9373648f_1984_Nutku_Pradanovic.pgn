@@ -1,0 +1,20 @@
+[Event "corr ch-EU"]
+[Site "corr ch-EU"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Nutku"]
+[Black "Pradanovic"]
+[Result "0-1"]
+[ECO "C95"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Breyer, Borisenko variation"]
+[HashCode "9373648f"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8.
+c3 d6 9. h3 Nb8 10. d4 Nbd7 11. Nbd2 c5 12. Nf1 Qc7 13. Ne3 Nb6 14. dxe5
+dxe5 15. Qe2 c4 16. Bc2 g6 17. a4 Bb7 18. Nd5 Nfxd5 19. exd5 f6 20. Bh6
+Rfe8 21. Nh4 Bf8 22. Bxf8 Rxf8 23. axb5 axb5 24. Rxa8 Rxa8 25. d6 Qxd6 26.
+Qg4 Bc8 27. Qg3 Nd5 28. Rd1 Be6 29. Nxg6 hxg6 30. Qxg6+ Kf8 31. Qh6+ Ke8
+32. Qh7 Qe7 0-1
+

@@ -1,0 +1,18 @@
+[Event "San Francisco"]
+[Site "San Francisco"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Levine, D."]
+[Black "Liebowitz, Errol"]
+[Result "0-1"]
+[ECO "D40"]
+[Opening "QGD"]
+[Variation "Semi-Tarrasch defence, Pillsbury variation"]
+[HashCode "df060f0a"]
+[Epoch "Rook"]
+[BlackID "2003520"]
+[BlackCountry "USA"]
+
+1. d4 e6 2. c4 d5 3. Nf3 c5 4. Nc3 Nf6 5. Bg5 cxd4 6. Nxd4 e5 7. Bxf6 gxf6 8.
+Ndb5 a6 9. Qa4 Bd7 10. cxd5 Bxb5 11. Nxb5 axb5 12. Qxa8 Bb4+ 13. Kd1 Qxd5+ 14.
+Kc2 O-O 15. a4 Qe4+ 16. Kd1 Rd8+ 17. Kc1 Rc8+ 18. Kd1 Qc2# 0-1

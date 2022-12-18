@@ -1,0 +1,19 @@
+[Event "corr DDR/FS"]
+[Site "corr DDR/FS"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Mann"]
+[Black "Steinmetz"]
+[Result "1-0"]
+[ECO "C59"]
+[Opening "Two knights defence"]
+[HashCode "6e24092b"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 Na5 6. Bb5+ c6 7. dxc6
+bxc6 8. Be2 h6 9. Nf3 e4 10. Ne5 Bd6 11. f4 exf3 12. Nxf3 O-O 13. O-O c5
+14. d4 Qc7 15. Nc3 a6 16. Kh1 Bb7 17. d5 Rad8 18. Nh4 Be5 19. Nf5 Nxd5 20.
+Nxd5 Bxd5 21. Qe1 Rfe8 22. Qh4 Re6 23. Bxh6 Rxh6 24. Nxh6+ gxh6 25. Qxh6
+Rd6 26. Qh5 Bg7 27. h3 Bxb2 28. Rad1 Be6 29. Bd3 Nc4 30. Rde1 Qd7 31. Rf4
+Rd5 32. Qh7+ Kf8 33. Bxc4 Rd1 34. Rxd1 Qxd1+ 35. Rf1 Qd6 36. Rxf7+ 1-0
+

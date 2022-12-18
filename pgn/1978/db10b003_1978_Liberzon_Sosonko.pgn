@@ -1,0 +1,19 @@
+[Event "Nederland tt"]
+[Site "Nederland tt"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Liberzon, Vladimir M"]
+[Black "Sosonko, Gennadi"]
+[Result "1/2-1/2"]
+[ECO "B64"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...Be7 defence, 9.f4"]
+[HashCode "db10b003"]
+[Epoch "Rook"]
+[BlackID "1000039"]
+[WhiteCountry "ISR"]
+[BlackCountry "NED"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd2 Be7 8.
+O-O-O O-O 9. f4 h6 10. Bh4 Bd7 11. Nf3 Nxe4 12. Nxe4 Bxh4 13. Qxd6 Be8 14. Nxh4
+Qxh4 15. g3 Qh5 16. a3 1/2-1/2

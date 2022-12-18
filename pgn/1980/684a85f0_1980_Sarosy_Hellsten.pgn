@@ -1,0 +1,21 @@
+[Event "corr CCCA"]
+[Site "corr CCCA"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Sarosy, Zoltan"]
+[Black "Hellsten, Ole"]
+[Result "1-0"]
+[ECO "A19"]
+[Opening "English"]
+[Variation "Mikenas-Carls, Sicilian variation"]
+[HashCode "684a85f0"]
+[Epoch "Rook"]
+[BlackID "2625342"]
+[BlackCountry "CAN"]
+[WhiteCountry "CAN"]
+
+1. c4 Nf6 2. Nc3 e6 3. e4 c5 4. e5 Ng8 5. d4 cxd4 6. Qxd4 Nc6 7. Qe4 d6 8. Nf3
+dxe5 9. Nxe5 Nf6 10. Nxc6 Nxe4 11. Nxd8 Nxc3 12. Nxf7 Kxf7 13. bxc3 Be7 14. Bd3
+Bd7 15. Be3 Bc6 16. f3 Rhd8 17. Ke2 Rd7 18. Rhd1 b6 19. a4 Rad8 20. a5 Bc5 21.
+axb6 axb6 22. Bxc5 bxc5 23. Ra5 Rc8 24. Ke3 Bb7 25. Bg6+ Ke7 26. Rxd7+ Kxd7 27.
+Bxh7 Rh8 28. Be4 Bxe4 29. Kxe4 1-0

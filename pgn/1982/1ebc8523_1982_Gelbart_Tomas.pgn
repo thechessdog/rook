@@ -1,0 +1,17 @@
+[Event "match"]
+[Site "match"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Gelbart, S."]
+[Black "Tomas Batet, Joan"]
+[Result "1/2-1/2"]
+[ECO "B84"]
+[Opening "Sicilian"]
+[Variation "Scheveningen, classical, Nd7 system"]
+[HashCode "1ebc8523"]
+[Epoch "Rook"]
+[BlackID "2205270"]
+[BlackCountry "ESP"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e6 7. O-O Nbd7 8. f4
+Qc7 9. Bf3 g6 10. Be3 Be7 11. g4 h6 1/2-1/2

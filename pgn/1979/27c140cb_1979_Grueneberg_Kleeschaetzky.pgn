@@ -1,0 +1,21 @@
+[Event "corr DDR-H"]
+[Site "corr DDR-H"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Grueneberg, G."]
+[Black "Kleeschaetzky, R."]
+[Result "0-1"]
+[ECO "B97"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7...Qb6"]
+[HashCode "27c140cb"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qb6 8.
+Nb3 Nbd7 9. Qf3 Be7 10. Bd3 h6 11. Bxf6 Bxf6 12. Nd1 Nc5 13. Qe3 Nxd3+ 14.
+Qxd3 O-O 15. c3 Bd7 16. Qe3 Qc7 17. O-O b5 18. Nf2 e5 19. f5 Bc6 20. Rad1
+Rad8 21. Ng4 Bg5 22. Qf3 Qb7 23. Nd2 f6 24. Nf2 Bxd2 25. Rxd2 d5 26. Re2
+Rd7 27. Qg4 Rfd8 28. exd5 Bxd5 29. b3 Bc6 30. Rc2 Rd2 31. Rxd2 Rxd2 32. a4
+Qb6 33. axb5 Bxb5 34. c4 Bc6 35. Qg3 Rb2 36. Rd1 e4 37. Re1 e3 38. Ng4
+Rxg2+ 0-1
+

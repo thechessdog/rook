@@ -1,0 +1,19 @@
+[Event "Makarczyk mem"]
+[Site "Makarczyk op"]
+[Date "1978.01.01"]
+[Round "11"]
+[White "Lengyel, Levente"]
+[Black "Skrobek, Ryszard"]
+[Result "1/2-1/2"]
+[ECO "A63"]
+[Opening "Benoni"]
+[Variation "fianchetto, 9...Nbd7"]
+[HashCode "ca566371"]
+[Epoch "Rook"]
+[BlackID "1100165"]
+[BlackCountry "POL"]
+[WhiteCountry "HUN"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. g3 Bg7 8. Bg2
+O-O 9. O-O Nbd7 10. Bf4 Ne8 11. e4 a6 12. a4 Rb8 13. a5 Qe7 14. Re1 b5 15. axb6
+Rxb6 16. Qc2 Nc7 17. Bf1 Re8 18. Bg5 Bf6 1/2-1/2

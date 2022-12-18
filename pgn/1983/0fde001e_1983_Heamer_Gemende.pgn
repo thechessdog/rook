@@ -1,0 +1,18 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Heamer, D."]
+[Black "Gemende"]
+[Result "0-1"]
+[ECO "B06"]
+[Opening "Robatsch defence"]
+[Variation "Pseudo-Austrian attack"]
+[HashCode "0fde001e"]
+[Epoch "Rook"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. f4 Nc6 5. Be3 Nf6 6. h3 Nh5 7. Nge2 O-O 8.
+g4 Nf6 9. f5 e5 10. d5 Nd4 11. Nxd4 exd4 12. Bxd4 Re8 13. fxg6 fxg6 14. Qd3
+Nd7 15. O-O-O Ne5 16. Bxe5 Bxe5 17. Nb5 Bd7 18. Nd4 c5 19. dxc6 bxc6 20.
+Qe3 Qb6 21. Bc4+ d5 22. exd5 c5 0-1
+

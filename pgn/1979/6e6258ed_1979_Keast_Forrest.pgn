@@ -1,0 +1,15 @@
+[Event "corr CCLA"]
+[Site "corr CCLA"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Keast"]
+[Black "Forrest"]
+[Result "1-0"]
+[ECO "A00"]
+[Opening "Durkin's attack"]
+[HashCode "6e6258ed"]
+[Epoch "Rook"]
+
+1. Na3 e5 2. e3 d5 3. d4 Nc6 4. Nf3 Bg4 5. Be2 e4 6. Nd2 Bxe2 7. Qxe2 Qd7
+8. c4 f5 9. Nc2 1-0
+

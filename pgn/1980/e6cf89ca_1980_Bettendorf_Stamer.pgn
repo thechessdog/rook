@@ -1,0 +1,17 @@
+[Event "corr BdF"]
+[Site "corr BdF"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Bettendorf"]
+[Black "Stamer, W."]
+[Result "0-1"]
+[ECO "C40"]
+[Opening "Latvian"]
+[Variation "Fraser defence"]
+[HashCode "e6cf89ca"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 f5 3. Nxe5 Nc6 4. Qh5+ g6 5. Nxg6 Nf6 6. Qh3 fxe4 7. Nxh8
+d5 8. Qb3 Bd6 9. Bb5 Qe7 10. Bxc6+ bxc6 11. O-O Qe5 12. g3 Qh5 13. h4 Qf5
+14. Re1 Ng4 15. Re2 Ne5 16. Re3 Ba6 17. d3 O-O-O 18. dxe4 Qh3 0-1
+

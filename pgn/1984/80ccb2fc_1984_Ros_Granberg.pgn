@@ -1,0 +1,18 @@
+[Event "corr ch-DK"]
+[Site "corr ch-DK"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Ros"]
+[Black "Granberg"]
+[Result "1-0"]
+[ECO "D29"]
+[Opening "QGA"]
+[Variation "classical, 8...Bb7"]
+[HashCode "80ccb2fc"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. Nf3 d5 3. c4 dxc4 4. e3 e6 5. Bxc4 c5 6. O-O a6 7. Qe2 b5 8.
+Bb3 Bb7 9. Rd1 Nbd7 10. Nc3 Qc7 11. e4 cxd4 12. Nxd4 Nc5 13. Bg5 Nxb3 14.
+axb3 Bc5 15. b4 Bxd4 16. Rxd4 e5 17. Rd3 Rd8 18. Nd5 Bxd5 19. exd5 Qd6 20.
+Rc1 O-O 21. Rc6 e4 22. Rg3 1-0
+

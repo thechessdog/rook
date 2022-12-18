@@ -1,0 +1,17 @@
+[Event "corr Tch-SF"]
+[Site "corr Tch-SF"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Purhonen"]
+[Black "Poyry"]
+[Result "1-0"]
+[ECO "E41"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5"]
+[HashCode "7295344e"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 d5 6. cxd5 Nxd5 7. Ne2 cxd4
+8. exd4 O-O 9. O-O Nxc3 10. bxc3 Ba5 11. Bb2 Qd6 12. Ng3 f5 13. Qb3 Rf7 14.
+Rfe1 Nc6 15. Bxf5 exf5 16. Re8+ Qf8 17. Rxf8+ Kxf8 18. d5 Ne7 19. Qa3 1-0
+

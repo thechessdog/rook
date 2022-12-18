@@ -1,0 +1,20 @@
+[Event "Rostock"]
+[Site "Rostock"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Boensch, Uwe"]
+[Black "Chekhov, Valery A"]
+[Result "1/2-1/2"]
+[ECO "D27"]
+[Opening "QGA"]
+[Variation "classical, 6...a6"]
+[HashCode "d2dd2a84"]
+[Epoch "Rook"]
+[WhiteID "4611268"]
+[BlackID "4100859"]
+[WhiteCountry "GER"]
+[BlackCountry "RUS"]
+
+1. d4 d5 2. c4 dxc4 3. e3 Nf6 4. Bxc4 e6 5. Nf3 a6 6. O-O c5 7. dxc5 Qxd1 8.
+Rxd1 Bxc5 9. a3 b5 10. Be2 Bb7 11. b4 Be7 12. Bb2 Nbd7 13. Nbd2 O-O 14. Nb3
+Rfc8 15. Rac1 Rxc1 1/2-1/2

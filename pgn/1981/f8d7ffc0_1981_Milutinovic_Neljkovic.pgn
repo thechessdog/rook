@@ -1,0 +1,17 @@
+[Event "corr YUG"]
+[Site "corr YUG"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Milutinovic, I."]
+[Black "Neljkovic, M."]
+[Result "1-0"]
+[ECO "A45"]
+[Opening "Trompovsky attack (Ruth, Opovcensky opening)"]
+[HashCode "f8d7ffc0"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. Bg5 Ne4 3. Bh4 c5 4. f3 g5 5. fxe4 gxh4 6. e3 Qb6 7. Nf3 Qxb2
+8. Nbd2 Qc3 9. Bd3 Bh6 10. O-O Bxe3+ 11. Kh1 Bxd2 12. Nxd2 Nc6 13. Rxf7 h3
+14. gxh3 Qxd4 15. Qh5 Kd8 16. Rd1 Qe5 17. Rf5 Qb2 18. Nc4 Qxa2 19. Qg5 b5
+20. Qg7 1-0
+

@@ -1,0 +1,18 @@
+[Event "Espergarde op"]
+[Site "Espergarde"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Grumme, Hugo"]
+[Black "Kallenberg, Ebbe"]
+[Result "1-0"]
+[ECO "C64"]
+[Opening "Ruy Lopez"]
+[Variation "classical defence, 4.c3"]
+[HashCode "98349019"]
+[Epoch "Rook"]
+[BlackID "1425684"]
+[BlackCountry "DEN"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. c3 Nf6 5. d4 exd4 6. cxd4 Bb4+ 7. Bd2 Nxe4 8.
+Qe2 Qe7 9. Bxb4 Nxb4 10. O-O c6 11. Ba4 O-O 12. Nc3 d5 13. a3 Na6 14. Rfe1 Re8
+15. Nxe4 Qxe4 16. Qd2 1-0

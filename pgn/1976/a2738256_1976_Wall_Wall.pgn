@@ -1,0 +1,18 @@
+[Event "Stony Point,NC"]
+[Site "Stony Point,NC"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Wall, Jerry"]
+[Black "Wall, Bill"]
+[Result "0-1"]
+[ECO "A31"]
+[Opening "English"]
+[Variation "symmetrical, Benoni formation"]
+[HashCode "a2738256"]
+[Epoch "Rook"]
+[BlackCountry "USA"]
+
+1. d4 Nf6 2. c4 c5 3. Nf3 cxd4 4. Nxd4 e5 5. Nf3 d6 6. Qc2 g6 7. Nc3 Bg7 8. Nd5
+O-O 9. Bg5 Nbd7 10. e4 h6 11. Bh4 g5 12. Bg3 Nc5 13. Bd3 Nxd3+ 14. Qxd3 Nxd5
+15. cxd5 f5 16. Nd2 Bd7 17. f3 fxe4 18. fxe4 Rc8 19. Bf2 Qa5 20. O-O Bb5 21.
+Nb3 Qa6 0-1

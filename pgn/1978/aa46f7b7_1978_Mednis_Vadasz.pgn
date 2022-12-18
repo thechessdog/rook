@@ -1,0 +1,18 @@
+[Event "Tungsram"]
+[Site "Budapest"]
+[Date "1978.08.01"]
+[Round "1"]
+[White "Mednis, Edmar John"]
+[Black "Vadasz, Laszlo"]
+[Result "1-0"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, 6.Bd3"]
+[HashCode "aa46f7b7"]
+[Epoch "Rook"]
+[WhiteCountry "USA"]
+[BlackCountry "HUN"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. f4 Nf6 5. Nf3 O-O 6. Bd3 Nc6 7. O-O Bg4 8. e5
+Nh5 9. Be3 dxe5 10. dxe5 f6 11. exf6 Bxf6 12. h3 Bxf3 13. Qxf3 Bd4 14. Ne2 e5
+15. Nxd4 Nxd4 16. Qe4 Nxf4 17. Bc4+ 1-0

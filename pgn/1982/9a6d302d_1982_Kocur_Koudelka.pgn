@@ -1,0 +1,22 @@
+[Event "corr ch-CSSR"]
+[Site "corr ch-CSSR"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Kocur"]
+[Black "Koudelka"]
+[Result "1-0"]
+[ECO "E41"]
+[Opening "Nimzo-Indian"]
+[Variation "e3, Huebner variation"]
+[HashCode "9a6d302d"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 Nc6 6. Nf3 Bxc3+ 7. bxc3 d6
+8. e4 e5 9. d5 Ne7 10. h3 Ng6 11. O-O Qa5 12. Qc2 Bd7 13. a4 O-O-O 14. Be3
+Kb8 15. Rfb1 Ka8 16. Nd2 Nh5 17. Nb3 Qc7 18. a5 Ngf4 19. Bf1 Rhg8 20. g4
+Nf6 21. Nc1 h5 22. g5 Nh7 23. Bxf4 exf4 24. h4 f6 25. e5 Nf8 26. e6 Be8 27.
+Rb6 Ng6 28. Rab1 Rb8 29. Qb3 a6 30. Nd3 Nxh4 31. Nb4 cxb4 32. cxb4 Bg6 33.
+Rc1 Be4 34. Rc3 Nf5 35. c5 Nd4 36. Qd1 dxc5 37. Qxd4 Qxb6 38. Qxe4 Qxb4 39.
+Rc4 Qd2 40. e7 fxg5 41. Rxc5 g4 42. Rc2 Qd1 43. Rc3 g5 44. Rd3 Qc2 45. d6
+g3 46. Qe2 Qc5 47. d7 1-0
+

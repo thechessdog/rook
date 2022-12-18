@@ -1,0 +1,17 @@
+[Event "corr Volmac"]
+[Site "corr Volmac"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Berggreen, A."]
+[Black "Diaconescu, P."]
+[Result "1-0"]
+[ECO "A07"]
+[Opening "Reti"]
+[Variation "King's Indian attack, Yugoslav variation"]
+[HashCode "348021ef"]
+[Epoch "Rook"]
+
+1. Nf3 d5 2. g3 Nf6 3. Bg2 c6 4. O-O Bg4 5. d3 Nbd7 6. Nbd2 e6 7. h3 Bxf3
+8. Nxf3 Be7 9. b3 O-O 10. Bb2 Qc7 11. c4 e5 12. cxd5 Nxd5 13. Rc1 Qd6 14.
+e4 Nb4 15. d4 exd4 16. a3 Na6 17. Nxd4 Rfd8 18. Nf5 Qe6 19. Nxg7 1-0
+

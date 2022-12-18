@@ -1,0 +1,20 @@
+[Event "Buenos Aires"]
+[Site "Buenos Aires"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Buj, Pablo"]
+[Black "Tovillas"]
+[Result "0-1"]
+[ECO "A77"]
+[Opening "Benoni"]
+[Variation "classical, 9...Re8, 10.Nd2"]
+[HashCode "4b160d6b"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. Be2 Bg7 8.
+Nf3 O-O 9. O-O Re8 10. Nd2 Nbd7 11. Qc2 Ne5 12. Re1 g5 13. Nf1 g4 14. Bg5
+h6 15. Be3 Nh5 16. Qd2 Qf6 17. Ng3 Nxg3 18. fxg3 Qg6 19. Rf1 Bd7 20. a4
+Rab8 21. Rab1 f5 22. exf5 Bxf5 23. Rbd1 a6 24. Bf4 Re7 25. Na2 Bc2 26. Rc1
+Bxa4 27. b4 b6 28. Bxa6 Bd7 29. Be2 Bf5 30. Rfd1 Rbe8 31. Bb5 Ra8 32. bxc5
+bxc5 33. Nc3 Rb8 34. Ba4 Nd3 35. Rb1 Bd4+ 36. Kf1 Rxb1 0-1
+

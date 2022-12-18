@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Moreno Gea"]
+[Black "Ingles Manso"]
+[Result "0-1"]
+[ECO "C57"]
+[Opening "two knights defence"]
+[Variation "Wilkes Barre (Traxler) variation"]
+[HashCode "5a5ac3a8"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 Bc5 5. Nxf7 Bxf2+ 6. Kf1 Qe7 7. Nxh8
+d5 8. Qf3 Bh4 9. Bb5 Bg4 10. Qa3 Nxe4 11. Qxe7+ Kxe7 12. g3 Rf8+ 13. Kg1
+Nd4 14. h3 Rf2 0-1
+

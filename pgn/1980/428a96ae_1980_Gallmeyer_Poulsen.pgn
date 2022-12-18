@@ -1,0 +1,21 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Gallmeyer, Peter"]
+[Black "Poulsen, Allan"]
+[Result "0-1"]
+[ECO "A42"]
+[Opening "Modern defence"]
+[Variation "Averbakh system, Kotov variation"]
+[HashCode "428a96ae"]
+[Epoch "Rook"]
+[WhiteID "1401157"]
+[BlackID "1400533"]
+[WhiteCountry "DEN"]
+[BlackCountry "DEN"]
+
+1. c4 g6 2. e4 Bg7 3. d4 d6 4. Nc3 Nc6 5. Be3 e5 6. d5 Nce7 7. g4 f5 8. gxf5
+gxf5 9. Qh5+ Ng6 10. exf5 Qh4 11. Qxh4 Nxh4 12. Nb5 Kd8 13. Nxa7 Bxf5 14. Nb5
+Be4 15. f3 Bxf3 16. Nxf3 Nxf3+ 17. Kd1 e4 18. Kc2 Ne7 19. Bh3 Rf8 20. Rhf1 Nf5
+21. Bg5+ Kd7 22. Nc3 Bxc3 23. Kxc3 c5 24. Bg4 0-1

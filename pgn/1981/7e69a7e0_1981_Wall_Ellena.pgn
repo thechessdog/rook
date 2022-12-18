@@ -1,0 +1,17 @@
+[Event "Dayton,OH"]
+[Site "Dayton,OH"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Wall, Bill"]
+[Black "Ellena, Bill"]
+[Result "1-0"]
+[ECO "C30"]
+[Opening "KGD"]
+[Variation "2...Nf6"]
+[HashCode "7e69a7e0"]
+[Epoch "Rook"]
+[WhiteCountry "USA"]
+
+1. e4 e5 2. f4 Nf6 3. Nf3 Nc6 4. Bc4 Nxe4 5. fxe5 d6 6. O-O Nxe5 7. Nxe5 dxe5
+8. Bxf7+ Ke7 9. c3 g6 10. b3 Bh6 11. Ba3+ c5 12. Qf3 Bf5 13. d3 Ng5 14. Qxb7+
+Qd7 15. Bxc5+ Kxf7 16. Qxd7+ 1-0

@@ -1,0 +1,20 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Kaczarowski"]
+[Black "Frenzel"]
+[Result "0-1"]
+[ECO "B85"]
+[Opening "Sicilian"]
+[Variation "Scheveningen, classical main line"]
+[HashCode "d9ca96b3"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be2 e6 7. O-O Be7
+8. Be3 a6 9. f4 Qc7 10. Qe1 O-O 11. Qg3 b5 12. e5 dxe5 13. Nxc6 Qxc6 14.
+fxe5 Ne4 15. Nxe4 Qxe4 16. Bd3 Qd5 17. Bh6 g6 18. Bxf8 Bxf8 19. Kh1 Bb7 20.
+Rad1 Qc6 21. h4 Bg7 22. Rd2 Rf8 23. Rdf2 Qc5 24. h5 Qxe5 25. Qxe5 Bxe5 26.
+hxg6 hxg6 27. Bxg6 f5 28. Re2 Be4 29. b3 Kg7 30. Rxe4 Rh8+ 31. Kg1 fxe4 32.
+Bxe4 Bd4+ 0-1
+

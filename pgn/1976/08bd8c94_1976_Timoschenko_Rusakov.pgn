@@ -1,0 +1,17 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Timoshchenko, Gennadi"]
+[Black "Rusakov, Yuri"]
+[Result "1/2-1/2"]
+[ECO "B93"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.f4"]
+[HashCode "08bd8c94"]
+[Epoch "Rook"]
+[WhiteCountry "SVK"]
+
+1. e4 c5 2. Nf3 d6 3. d4 Nf6 4. Nc3 cxd4 5. Nxd4 a6 6. f4 Qc7 7. a4 g6 8. Nf3
+Nbd7 9. Bd3 Bg7 10. O-O O-O 11. Kh1 b6 12. Qe1 Bb7 13. Qh4 Nc5 14. f5 b5 15.
+Bh6 b4 16. Nd2 1/2-1/2

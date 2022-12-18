@@ -1,0 +1,22 @@
+[Event "corr NBC"]
+[Site "corr NBC"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Houtman"]
+[Black "Van der Klashorst"]
+[Result "1-0"]
+[ECO "B60"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer"]
+[HashCode "836b9428"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 Qb6 7. Nb3 e6
+8. Qd2 Be7 9. O-O-O a6 10. f3 Qc7 11. g4 b5 12. Be3 Ne5 13. g5 Nfd7 14. f4
+Nc4 15. Qd4 Nxe3 16. Qxe3 b4 17. Ne2 Nc5 18. Ng3 Nxb3+ 19. axb3 h6 20. h4
+hxg5 21. hxg5 Rxh1 22. Nxh1 g6 23. Nf2 e5 24. Bc4 Qc5 25. Qxc5 dxc5 26. Rh1
+exf4 27. Rh7 Be6 28. Bxe6 fxe6 29. Ng4 Rd8 30. Ne5 Bxg5 31. Rh8+ Ke7 32.
+Rxd8 Kxd8 33. Nf7+ Ke7 34. Nxg5 Kf6 35. Nh3 Ke5 36. Nf2 f3 37. Nd3+ Kxe4
+38. Kd2 e5 39. Nxc5+ Kf4 40. Nd3+ Kg3 41. Ke3 g5 42. c4 bxc3 43. bxc3 g4
+44. Nf2 1-0
+

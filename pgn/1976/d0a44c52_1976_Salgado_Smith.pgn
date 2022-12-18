@@ -1,0 +1,19 @@
+[Event "San Francisco"]
+[Site "San Francisco"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Salgado"]
+[Black "Smith, Andrew Philip"]
+[Result "1-0"]
+[ECO "C44"]
+[Opening "Scotch"]
+[Variation "Goering gambit"]
+[HashCode "d0a44c52"]
+[Epoch "Rook"]
+[BlackID "2500833"]
+[BlackCountry "IRL"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. c3 d5 5. exd5 Qxd5 6. cxd4 Bg4 7. Be2 Nf6 8.
+Nc3 Bb4 9. O-O Bxc3 10. bxc3 O-O 11. h3 Bh5 12. Bf4 Qd7 13. Rb1 Ne4 14. Qc1 b6
+15. Rb5 Nf6 16. Rg5 Bg6 17. Bb5 Ne4 18. Ne5 Qe6 19. Bxc6 Nxg5 20. Bxa8 Nxh3+
+21. gxh3 Rxa8 22. Nxg6 hxg6 23. Qd2 Qxh3 24. Bxc7 Rc8 25. Bg3 1-0

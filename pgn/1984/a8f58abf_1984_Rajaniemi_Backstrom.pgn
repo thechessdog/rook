@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Rajaniemi"]
+[Black "Backstrom"]
+[Result "1-0"]
+[ECO "B64"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, Geller variation"]
+[HashCode "a8f58abf"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd2 Be7
+8. O-O-O O-O 9. f4 e5 10. Nf5 Bxf5 11. exf5 Rc8 12. Kb1 Nd4 13. Bd3 Qa5 14.
+g4 exf4 15. Bxf4 d5 16. g5 Nh5 17. Be3 Nc6 18. f6 Bb4 19. fxg7 Rfd8 20. Qf2
+d4 21. Qh4 dxc3 22. Qxh5 Rxd3 23. Rxd3 Qb5 24. Rhd1 Ba5 25. b3 Nb4 26. Rf1
+Qe8 27. g6 1-0
+

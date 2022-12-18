@@ -1,0 +1,19 @@
+[Event "US Open"]
+[Site "US Open"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Martz, William E"]
+[Black "Soltis, Andrew"]
+[Result "1/2-1/2"]
+[ECO "A42"]
+[Opening "Modern defence"]
+[Variation "Averbakh system"]
+[HashCode "dccd13aa"]
+[Epoch "Rook"]
+[BlackID "2000741"]
+[WhiteCountry "USA"]
+[BlackCountry "USA"]
+
+1. d4 g6 2. c4 Bg7 3. e4 d6 4. Nc3 c6 5. Be3 Nd7 6. Qd2 a6 7. f4 b5 8. Nf3 Bb7
+9. Rc1 bxc4 10. Bxc4 Ngf6 11. Bb3 O-O 12. e5 Nd5 13. Nxd5 cxd5 14. O-O a5 15.
+Qc2 Nb6 16. Qc7 1/2-1/2

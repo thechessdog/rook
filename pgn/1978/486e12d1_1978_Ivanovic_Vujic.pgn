@@ -1,0 +1,21 @@
+[Event "corr ch-YUG"]
+[Site "corr ch-YUG"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Ivanovic, M."]
+[Black "Vujic, L."]
+[Result "1-0"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack, Richter variation"]
+[HashCode "486e12d1"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 Bf5 4. f3 c6 5. Qd2 Nbd7 6. O-O-O e6 7. e3 Be7
+8. Bd3 Bxd3 9. cxd3 b5 10. Kb1 a5 11. Rc1 O-O 12. h4 Qb6 13. g4 a4 14. Bxf6
+Bxf6 15. g5 Be7 16. f4 Rfc8 17. h5 Bb4 18. g6 fxg6 19. hxg6 h6 20. Nf3 Qa5
+21. a3 Be7 22. Na2 Qxd2 23. Nxd2 c5 24. dxc5 Nxc5 25. Nb4 Nb3 26. Nxb3 Bxb4
+27. Nd4 Bc5 28. Nxe6 Bxe3 29. Rce1 d4 30. Rh5 b4 31. axb4 a3 32. Ra5 axb2
+33. Rxa8 Rxa8 34. Kxb2 Bd2 35. Re4 Bxb4 36. Nxd4 Bd6 37. Nf5 Ba3+ 38. Kb3
+Rf8 39. Ng3 Bd6 40. Nh5 Rd8 41. Kc4 Kf8 42. f5 Ra8 43. Re6 Bh2 44. d4 Rc8+
+45. Kd3 Rc7 46. f6 gxf6 47. Rxf6+ Kg8 48. Rf2 1-0
+

@@ -1,0 +1,23 @@
+[Event "Bundesliga 8081"]
+[Site "Duitsland tt"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Lenz, Juergen"]
+[Black "Besser, Hans"]
+[Result "0-1"]
+[ECO "A42"]
+[Opening "Modern defence"]
+[Variation "Averbakh system, Kotov variation"]
+[HashCode "7b72568d"]
+[Epoch "Rook"]
+[WhiteID "4603010"]
+[WhiteCountry "GER"]
+[BlackID "4601033"]
+[BlackCountry "GER"]
+
+1. d4 g6 2. c4 Bg7 3. Nc3 d6 4. e4 Nc6 5. Be3 e5 6. Nge2 Nh6 7. f3 f5 8. d5 Ne7
+9. Qd2 f4 10. Bf2 g5 11. O-O-O g4 12. Kb1 O-O 13. Nc1 Ng6 14. Be2 Bf6 15. g3
+gxf3 16. Bxf3 Bg4 17. Bxg4 Nxg4 18. gxf4 Nxf2 19. Qxf2 exf4 20. Nd3 Bxc3 21.
+bxc3 Qf6 22. Qd4 Rae8 23. Rde1 b6 24. Rhf1 f3 25. Re3 Ne5 26. Nxe5 Rxe5 27. Qd1
+f2 28. Qe2 Rg5 29. Kc2 Qf4 30. h3 Rg1 31. Kd3 Rf6 32. a3 Qh2 33. Kc2 Qg2 34. e5
+Qxf1 0-1

@@ -1,0 +1,20 @@
+[Event "corr GB"]
+[Site "corr GB"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Whymark"]
+[Black "Naldrett"]
+[Result "1-0"]
+[ECO "A23"]
+[Opening "English"]
+[Variation "Bremen system, Keres variation"]
+[HashCode "797f8b10"]
+[Epoch "Rook"]
+
+1. c4 e5 2. Nc3 Nf6 3. g3 c6 4. e4 d5 5. cxd5 cxd5 6. exd5 Nxd5 7. Bg2 Nb4
+8. Be4 N8c6 9. Nf3 Bh3 10. Qe2 Bg2 11. Nxe5 Nd4 12. Qc4 Nbc2+ 13. Kd1 Qe7
+14. Bxg2 Qxe5 15. Be4 Nxa1 16. Re1 Kd8 17. Bxb7 Qh5+ 18. f3 Nxf3 19. Qe2
+Bd6 20. Bxf3 Qg6 21. Be4 Re8 22. Qd3 Qe6 23. Re2 Rc8 24. Bf5 Rxc3 25. dxc3
+Qxe2+ 26. Qxe2 Rxe2 27. Kxe2 Ke7 28. b3 a5 29. Bb2 g6 30. Bd3 Nxb3 31. axb3
+f5 32. Bc1 Kf6 33. Bf4 1-0
+

@@ -1,0 +1,18 @@
+[Event "corr Tch-France"]
+[Site "corr Tch-France"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Poupinel"]
+[Black "Agarkoff"]
+[Result "1-0"]
+[ECO "B64"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...Be7 defence, 9.f4"]
+[HashCode "d1635136"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd2 Be7
+8. O-O-O O-O 9. f4 h6 10. Bh4 Bd7 11. Nf3 Qa5 12. Kb1 Rfc8 13. Bd3 d5 14.
+e5 Ne8 15. Bxe7 Nxe7 16. g4 g6 17. f5 exf5 18. Qxh6 Qb6 19. Ng5 Be6 20.
+gxf5 gxf5 21. Nh7 f4 22. Qf8# 1-0
+

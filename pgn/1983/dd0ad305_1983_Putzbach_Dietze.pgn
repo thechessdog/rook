@@ -1,0 +1,18 @@
+[Event "RLN 8283"]
+[Site "RLN 8283"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Putzbach, Gerd"]
+[Black "Dietze, Frank"]
+[Result "1-0"]
+[ECO "B91"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Zagreb (fianchetto) variation"]
+[HashCode "dd0ad305"]
+[Epoch "Rook"]
+[WhiteID "4611128"]
+[WhiteCountry "GER"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. g3 e5 7. Nde2 Be7 8. Bg2
+Nbd7 9. a4 O-O 10. h3 b6 11. g4 Bb7 12. Ng3 Rc8 13. g5 Ne8 14. h4 g6 15. Qg4
+Ng7 16. h5 Ne6 17. hxg6 fxg6 18. Qxe6+ Kh8 19. Qxg6 1-0

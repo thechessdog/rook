@@ -1,0 +1,19 @@
+[Event "Krasnodar"]
+[Site "Krasnodar"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Voloshin"]
+[Black "Mishin"]
+[Result "1-0"]
+[ECO "A34"]
+[Opening "English"]
+[Variation "symmetrical, three knights system"]
+[HashCode "6cfbb2de"]
+[Epoch "Rook"]
+
+1. Nf3 Nf6 2. c4 c5 3. Nc3 d5 4. cxd5 Nxd5 5. g3 Nc6 6. Bg2 e5 7. Nxe5 Nxc3
+8. Nxc6 Nxd1 9. Nxd8 Nxf2 10. Nxf7 Nd3+ 11. exd3 Kxf7 12. O-O+ Kg6 13. Be4+
+Kh6 14. b3 Bd6 15. Bb2 Re8 16. Rf7 g6 17. Bg7+ Kh5 18. Bf6 h6 19. Rg7 Rxe4
+20. dxe4 Bf8 21. Rf7 Bh3 22. Rxb7 Re8 23. Re1 Re6 24. Bc3 Kg4 25. Rd7 c4
+26. b4 h5 27. Rc7 Bd6 28. Rxc4 Bb8 29. Bd4 1-0
+

@@ -1,0 +1,25 @@
+[Event "Bundesliga 8081"]
+[Site "Duitsland tt"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Klundt, Klaus"]
+[Black "Huelsmann, Josef"]
+[Result "1/2-1/2"]
+[ECO "C05"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation"]
+[HashCode "b0be1521"]
+[Epoch "Rook"]
+[WhiteID "4600436"]
+[WhiteCountry "GER"]
+[BlackID "4607929"]
+[BlackCountry "GER"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. f4 c5 6. c3 Nc6 7. Ndf3 cxd4 8. cxd4
+Nb6 9. Bd3 Bd7 10. Ne2 g6 11. O-O h5 12. Nc3 Nb4 13. Bb1 a5 14. a3 Nc6 15. Bd3
+a4 16. Qc2 Rg8 17. Be3 Na5 18. h3 h4 19. Bf2 Be7 20. Ng5 Bxg5 21. fxg5 Nac4 22.
+Bxh4 Ne3 23. Nb5 Bxb5 24. Bxb5+ Kf8 25. Qf2 Nxf1 26. Rxf1 Rg7 27. Qf4 Nc4 28.
+Be1 Nxb2 29. h4 Kg8 30. h5 gxh5 31. Bh4 Qf8 32. Be2 Qxa3 33. Bxh5 Rf8 34. Qg4
+Qe3+ 35. Kh2 Qe4 36. Rf4 Qc2 37. g6 fxg6 38. Qxe6+ Kh7 39. Rxf8 gxh5 40. Bg5
+Qg6 41. Qc8 Rg8 42. Qxb7+ Rg7 43. Qc8 Rg8 44. Qd7+ Rg7 45. Qc8 Rg8 46. Qb7+ Rg7
+47. Qc8 1/2-1/2

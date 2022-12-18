@@ -1,0 +1,17 @@
+[Event "corr CCLA"]
+[Site "corr CCLA"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Forrest"]
+[Black "England"]
+[Result "1-0"]
+[ECO "B78"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, 10.O-O-O"]
+[HashCode "45307cea"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 Nc6 8.
+Qd2 O-O 9. Bc4 Bd7 10. O-O-O Qb8 11. Bb3 Rc8 12. h4 a5 13. a3 b5 14. Ndxb5
+Nb4 15. Nxd6 exd6 16. axb4 a4 17. Bd5 a3 1-0
+

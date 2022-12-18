@@ -1,0 +1,18 @@
+[Event "Lloyds Bank op"]
+[Site "Londen open"]
+[Date "1982.08.01"]
+[Round "9"]
+[White "Leclerc, Louis"]
+[Black "Polgar, Susan"]
+[Result "0-1"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "5a620d16"]
+[Epoch "Rook"]
+[BlackCountry "USA"]
+[WhiteID "612170"]
+[WhiteCountry "FRA"]
+
+1. e4 c5 2. c3 e6 3. d4 d5 4. exd5 exd5 5. Nf3 Nc6 6. Nbd2 cxd4 7. cxd4 Bd6 8.
+Bd3 Nge7 9. O-O O-O 10. Bxh7+ Kxh7 11. Ng5+ Kg8 12. Qh5 Bf5 13. Re1 Bg6 0-1

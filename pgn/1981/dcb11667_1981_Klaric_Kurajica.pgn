@@ -1,0 +1,19 @@
+[Event "Sarajevo"]
+[Site "Sarajevo"]
+[Date "1981.03.01"]
+[Round "13"]
+[White "Klaric, Zlatko"]
+[Black "Kurajica, Bojan"]
+[Result "1/2-1/2"]
+[ECO "B19"]
+[Opening "Caro-Kann"]
+[Variation "classical, Spassky variation"]
+[HashCode "dcb11667"]
+[Epoch "Rook"]
+[WhiteID "14500248"]
+[WhiteCountry "CRO"]
+[BlackID "14400057"]
+[BlackCountry "BIH"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. Nf3 Nd7 7. h4 h6 8. h5
+Bh7 9. Bd3 Bxd3 10. Qxd3 Ngf6 11. Bf4 Qa5+ 12. c3 1/2-1/2

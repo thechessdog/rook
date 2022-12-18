@@ -1,0 +1,18 @@
+[Event "corr FRG-GBR"]
+[Site "corr FRG-GBR"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Heider, K."]
+[Black "Faldon"]
+[Result "1-0"]
+[ECO "C43"]
+[Opening "Petrov"]
+[Variation "modern attack, Symmetrical variation"]
+[HashCode "7caedf50"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nf6 3. d4 Nxe4 4. Bd3 d5 5. Nxe5 Nd7 6. Nxd7 Bxd7 7. O-O
+Qh4 8. c4 O-O-O 9. c5 g5 10. g3 Qh3 11. Nc3 Bc6 12. Qc2 Bg7 13. Bxg5 Bxd4
+14. Nxe4 dxe4 15. Bxe4 Bxe4 16. Qxe4 Rhe8 17. Qf4 Rd7 18. Rae1 Rg8 19. Bf6
+Bxc5 20. Qg5 1-0
+

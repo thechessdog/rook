@@ -1,0 +1,15 @@
+[Event "corr AUS"]
+[Site "corr AUS"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Thomas, P."]
+[Black "Vrewe, J."]
+[Result "1/2-1/2"]
+[ECO "A00"]
+[Opening "Grob's attack"]
+[HashCode "6e833a16"]
+[Epoch "Rook"]
+
+1. g4 e5 2. c4 h5 3. gxh5 Bc5 4. Nc3 d5 5. cxd5 Bxf2+ 6. Kxf2 Qh4+ 7. Ke3
+Qd4+ 1/2-1/2
+

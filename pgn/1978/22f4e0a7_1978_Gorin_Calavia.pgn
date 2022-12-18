@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Gorin"]
+[Black "Calavia"]
+[Result "1-0"]
+[ECO "C24"]
+[Opening "Bishop's opening"]
+[Variation "Berlin defence"]
+[HashCode "22f4e0a7"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Bc4 Nf6 3. d3 Nc6 4. Bg5 h6 5. Bxf6 Qxf6 6. Qf3 Nd4 7. Qxf6
+gxf6 8. Bb3 a5 9. c3 Nxb3 10. axb3 c6 11. b4 b6 12. bxa5 Rxa5 13. Rxa5 bxa5
+14. Nd2 Ba6 15. Ke2 d5 16. Ngf3 dxe4 17. Nxe4 f5 18. Nf6+ Ke7 19. Nh5 e4
+20. Ne5 Bxd3+ 21. Nxd3 exd3+ 22. Kxd3 Rg8 23. g3 Rg6 24. Ra1 Rd6+ 25. Ke3
+Rd5 26. c4 Re5+ 27. Kd3 Kd6 28. f4 Rc5 29. b3 Be7 30. Re1 1-0
+

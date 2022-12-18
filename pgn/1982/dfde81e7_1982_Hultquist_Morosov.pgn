@@ -1,0 +1,18 @@
+[Event "corr Heilimo mem"]
+[Site "corr Heilimo mem"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Hultquist"]
+[Black "Morosov"]
+[Result "1/2-1/2"]
+[ECO "B66"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...a6"]
+[HashCode "dfde81e7"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd2 a6 8.
+O-O-O h6 9. Be3 Bd7 10. f3 b5 11. g4 b4 12. Nxc6 Bxc6 13. Ne2 d5 14. Nd4
+Bb7 15. e5 Nd7 16. f4 Nc5 17. Bg2 Ne4 18. Qe2 Qc7 19. Kb1 Be7 20. Bxe4 dxe4
+21. h4 O-O-O 22. h5 Rd5 23. Nb3 Rhd8 24. Rxd5 1/2-1/2
+

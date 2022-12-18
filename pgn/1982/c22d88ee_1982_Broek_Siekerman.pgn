@@ -1,0 +1,19 @@
+[Event "Alkmaar open"]
+[Site "Alkmaar open"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Broek, T."]
+[Black "Siekerman, P."]
+[Result "0-1"]
+[ECO "C15"]
+[Opening "French"]
+[Variation "Winawer, fingerslip variation"]
+[HashCode "c22d88ee"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. Bd2 Ne7 5. Qg4 Bxc3 6. Bxc3 Ng6 7. e5 Nd7
+8. f4 Qh4+ 9. Qxh4 Nxh4 10. O-O-O c5 11. g3 Ng6 12. Nf3 c4 13. b3 b5 14. b4
+Nb6 15. Bd2 Bd7 16. c3 a5 17. Kb1 axb4 18. cxb4 Ke7 19. Ne1 Ra7 20. Nc2
+Rha8 21. a3 Ke8 22. h4 Ne7 23. g4 Nc6 24. Ka2 Nxd4 25. Be3 Nxc2 26. Bxb6
+Nxb4+ 27. Kb2 Rxa3 28. Bc5 Ra2+ 29. Kc3 R8a3+ 30. Kxb4 Rb3# 0-1
+

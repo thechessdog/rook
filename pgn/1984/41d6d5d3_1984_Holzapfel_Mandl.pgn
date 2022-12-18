@@ -1,0 +1,24 @@
+[Event "Bundesliga 8384"]
+[Site "Duitsland tt"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Holzapfel, Daniel"]
+[Black "Mandl, Rudolf"]
+[Result "1-0"]
+[ECO "D20"]
+[Opening "QGA"]
+[Variation "3.e4"]
+[HashCode "41d6d5d3"]
+[Epoch "Rook"]
+[WhiteID "4604059"]
+[WhiteCountry "GER"]
+[BlackID "4604830"]
+[BlackCountry "GER"]
+
+1. d4 d5 2. c4 dxc4 3. e4 c5 4. Nf3 cxd4 5. Qxd4 Qxd4 6. Nxd4 Bd7 7. Bxc4 Nc6
+8. Nxc6 Bxc6 9. Nc3 Rc8 10. Be3 a6 11. Ke2 e6 12. Rac1 Nf6 13. f3 Bd6 14. a3
+Rg8 15. Kf2 g5 16. Ne2 b5 17. Ba2 Nd7 18. Nd4 Bb7 19. Rxc8+ Bxc8 20. Rc1 Bb7
+21. Nc6 Ne5 22. Nxe5 Bxe5 23. Rc5 Bd6 24. Rxg5 Rxg5 25. Bxg5 Be5 26. Bc1 Ke7
+27. Bb1 Kd6 28. g3 Bd4+ 29. Ke2 e5 30. Ba2 f6 31. Bg8 h6 32. b3 h5 33. Bf7 a5
+34. Bd2 a4 35. Bb4+ Bc5 36. Bxc5+ Kxc5 37. bxa4 bxa4 38. Be8 Ba6+ 39. Ke3 Bb5
+40. Bxb5 Kxb5 41. Kd3 Kc5 42. h4 1-0

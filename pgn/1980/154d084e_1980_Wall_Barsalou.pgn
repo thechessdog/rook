@@ -1,0 +1,21 @@
+[Event "Dayton,OH"]
+[Site "Dayton,OH"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Wall, Bill"]
+[Black "Barsalou, Norm"]
+[Result "1-0"]
+[ECO "B03"]
+[Opening "Alekhine's defence"]
+[Variation "four pawns attack, Trifunovic variation"]
+[HashCode "154d084e"]
+[Epoch "Rook"]
+[WhiteCountry "USA"]
+
+1. e4 Nf6 2. e5 Nd5 3. c4 Nb6 4. d4 d6 5. f4 Bf5 6. Nc3 e6 7. Nf3 N8d7 8. Be2
+d5 9. c5 Nc4 10. Bxc4 dxc4 11. O-O Bg4 12. h3 Bh5 13. Qa4 c6 14. Qxc4 Be7 15.
+Nh2 O-O 16. g4 Bg6 17. f5 exf5 18. gxf5 Bh5 19. Bf4 Bg5 20. f6 Bxf4 21. Rxf4
+gxf6 22. Kh1 fxe5 23. Rg1+ Bg6 24. Rfg4 Qf6 25. Rf1 Qe6 26. Qb4 Rab8 27. Nf3
+Qf5 28. Nd2 Qd3 29. Rg2 exd4 30. Nce4 Qxh3+ 31. Rh2 Qd3 32. Rg1 Kh8 33. Rg3
+Bxe4+ 34. Nxe4 Qxe4+ 35. Rhg2 Rg8 36. Qb3 Rxg3 37. Qxg3 Qe5 38. Qg4 f5 39. Qg5
+Nf6 40. Qg7# 1-0

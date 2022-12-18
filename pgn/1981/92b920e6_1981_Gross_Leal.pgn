@@ -1,0 +1,21 @@
+[Event "corr LADAC"]
+[Site "corr LADAC"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Gross, Daniel"]
+[Black "Leal, Domingo"]
+[Result "1-0"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "classical attack, Mason variation"]
+[HashCode "92b920e6"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Be7 7. O-O O-O
+8. Re1 Nd6 9. Bf4 Bg4 10. Nbd2 Nd7 11. c3 Nf6 12. Qc2 c6 13. Ne5 Be6 14.
+Re2 Re8 15. Rae1 h6 16. Ng6 Nd7 17. Nxe7+ Qxe7 18. Nf3 Qf8 19. h3 c5 20.
+Qd1 b6 21. g4 Nf6 22. Ne5 g5 23. Bh2 Nc4 24. Bb1 Nxe5 25. Bxe5 Qe7 26. Qc2
+Kf8 27. f4 Ne4 28. f5 f6 29. Rxe4 dxe4 30. fxe6 Kg8 31. Qxe4 fxe5 32. Rf1
+Rf8 33. Qg6+ Qg7 34. e7 Rxf1+ 35. Kxf1 Qxg6 36. Bxg6 exd4 37. cxd4 cxd4 38.
+Ke2 Kg7 39. e8=Q Rxe8+ 40. Bxe8 Kf6 41. Kd3 Ke5 42. Bf7 1-0
+

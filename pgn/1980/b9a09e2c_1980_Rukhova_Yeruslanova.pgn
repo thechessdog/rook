@@ -1,0 +1,17 @@
+[Event "Rostov"]
+[Site "Rostov"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Ruchieva, Natalia"]
+[Black "Yeruslanova"]
+[Result "0-1"]
+[ECO "B23"]
+[Opening "Sicilian"]
+[Variation "Grand Prix attack"]
+[HashCode "b9a09e2c"]
+[Epoch "Rook"]
+[WhiteID "4124251"]
+[WhiteCountry "UKR"]
+
+1. e4 c5 2. Nc3 Nc6 3. f4 e6 4. Nf3 g6 5. Bb5 Bg7 6. O-O Nge7 7. d3 O-O 8. Be3
+Nd4 9. a4 d5 10. Ne2 a6 11. Nexd4 cxd4 12. Nxd4 axb5 0-1

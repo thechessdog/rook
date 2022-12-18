@@ -1,0 +1,17 @@
+[Event "Columbus,OH"]
+[Site "Columbus,OH"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Winslow, Dan"]
+[Black "Sherwin, James T"]
+[Result "0-1"]
+[ECO "B00"]
+[Opening "KP"]
+[Variation "Nimzovich defence, Bogolyubov variation"]
+[HashCode "380d02aa"]
+[Epoch "Rook"]
+[BlackID "2000997"]
+[BlackCountry "USA"]
+
+1. e4 Nc6 2. d4 d5 3. Nc3 dxe4 4. d5 Ne5 5. Bf4 Ng6 6. Bg3 f5 7. f3 f4 8. Bxf4
+Nxf4 9. fxe4 e5 0-1

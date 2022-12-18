@@ -1,0 +1,18 @@
+[Event "corr ch-SCO"]
+[Site "corr ch-SCO"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Gillam, S."]
+[Black "Sprott, G."]
+[Result "1-0"]
+[ECO "E53"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Keres variation"]
+[HashCode "906d4d44"]
+[Epoch "Rook"]
+
+1. d4 e6 2. c4 Nf6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 c5 7. O-O b6 8.
+cxd5 exd5 9. dxc5 bxc5 10. Ne2 Nc6 11. b3 Bb7 12. Bb2 Rc8 13. Rc1 Nd7 14.
+Nf4 Ne7 15. Bxh7+ Kh8 16. Ng5 Ng6 17. Nxf7+ Rxf7 18. Nxg6+ Kxh7 19. Qh5+
+Kg8 20. Qh8# 1-0
+

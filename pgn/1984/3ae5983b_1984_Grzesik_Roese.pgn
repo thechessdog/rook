@@ -1,0 +1,19 @@
+[Event "Bundesliga 8384"]
+[Site "Duitsland tt"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Grzesik, Frank"]
+[Black "Roese, Oliver"]
+[Result "1/2-1/2"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "3ae5983b"]
+[Epoch "Rook"]
+[WhiteID "4605764"]
+[WhiteCountry "GER"]
+[BlackID "4600630"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. d4 Nc6 5. Nf3 Bg4 6. Be2 cxd4 7. cxd4 e6 8.
+Nc3 Bb4 9. O-O Qa5 10. a3 1/2-1/2

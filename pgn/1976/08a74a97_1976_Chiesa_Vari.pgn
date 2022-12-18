@@ -1,0 +1,17 @@
+[Event "corr Italy"]
+[Site "corr Italy"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Chiesa"]
+[Black "Vari"]
+[Result "1-0"]
+[ECO "B34"]
+[Opening "Sicilian"]
+[Variation "accelerated fianchetto, modern variation"]
+[HashCode "08a74a97"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6 5. Nc3 Nf6 6. Nxc6 bxc6 7. e5 Ng8
+8. Qf3 Bg7 9. Bc4 e6 10. Bf4 f6 11. Ne4 fxe5 12. Bg5 Qc7 13. Bxe6 dxe6 14.
+Rd1 1-0
+

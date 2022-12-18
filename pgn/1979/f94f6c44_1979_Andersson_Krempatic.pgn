@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Andersson, Ulf"]
+[Black "Krempatic"]
+[Result "1-0"]
+[ECO "B43"]
+[Opening "Sicilian"]
+[Variation "Kan, 5.Nc3"]
+[HashCode "f94f6c44"]
+[Epoch "Rook"]
+[WhiteID "1700014"]
+[WhiteCountry "SWE"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 Qc7 6. Bd3 b5 7. O-O Bb7 8. Re1
+d6 9. a4 b4 10. Na2 e5 11. Nf5 a5 12. c3 bxc3 13. Nxc3 g6 14. Nb5 Qd7 15.
+Nbxd6+ Bxd6 16. Bb5 Bc6 17. Nxd6+ Kf8 18. Bc4 1-0

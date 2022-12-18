@@ -1,0 +1,23 @@
+[Event "Hallsberg"]
+[Site "Hallsberg"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Andersson, Ulf"]
+[Black "Backe, Peter"]
+[Result "0-1"]
+[ECO "C15"]
+[Opening "French"]
+[Variation "Winawer (Nimzovich) variation"]
+[HashCode "f101dbec"]
+[Epoch "Rook"]
+[BlackID "1701240"]
+[BlackCountry "SWE"]
+[WhiteID "1700014"]
+[WhiteCountry "SWE"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. a3 Bxc3+ 5. bxc3 dxe4 6. Qg4 Nf6 7. Qxg7 Rg8 8.
+Qh6 Rg6 9. Qd2 c5 10. dxc5 Qxd2+ 11. Bxd2 e5 12. Ne2 Nbd7 13. c6 bxc6 14. Ng3
+Nc5 15. Be2 Be6 16. O-O O-O-O 17. Be3 Nfd7 18. Rfd1 f5 19. Bh5 Rgg8 20. Rd6 Kc7
+21. Rxe6 Nxe6 22. Bf7 Rg6 23. Bxg6 hxg6 24. Bxa7 c5 25. Ne2 Kb7 26. Bxc5 Ndxc5
+27. Kf1 Nf4 28. g3 Nxe2 29. Kxe2 Kc6 30. Rb1 Ra8 31. g4 Rxa3 32. Kd2 e3+ 33.
+fxe3 Ne4+ 34. Kc1 Rxc3 0-1

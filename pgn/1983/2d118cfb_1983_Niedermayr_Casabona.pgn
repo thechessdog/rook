@@ -1,0 +1,19 @@
+[Event "corr ol10"]
+[Site "corr ol10"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Niedermayr"]
+[Black "Casabona"]
+[Result "0-1"]
+[ECO "A48"]
+[Opening "King's Indian"]
+[Variation "Torre attack"]
+[HashCode "2d118cfb"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. Nf3 g6 3. Bg5 Bg7 4. Nbd2 O-O 5. e4 d6 6. c3 c5 7. dxc5 dxc5
+8. Qc2 h6 9. Be3 Qc7 10. h3 b6 11. Bc4 Nc6 12. O-O Na5 13. Be2 Bb7 14. Nh2
+Rad8 15. Ng4 Kh7 16. Nxf6+ exf6 17. Rfe1 Rfe8 18. Bb5 Re7 19. Rac1 Bc8 20.
+b4 Nb7 21. Qa4 f5 22. bxc5 Nxc5 23. Bxc5 Qxc5 24. Nb3 Qc7 25. Bc6 fxe4 26.
+Rxe4 Bxc3 27. Rc4 Bb2 28. Rb1 Bf5 29. Be4 Qe5 30. Bxf5 Qxf5 0-1
+

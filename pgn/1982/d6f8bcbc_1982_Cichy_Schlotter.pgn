@@ -1,0 +1,28 @@
+[Event "Regionalliga Nord"]
+[Site "RLN 8182"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Cichy, Michael, Dr."]
+[Black "Schlotter, Dietrich"]
+[Result "0-1"]
+[ECO "E95"]
+[Opening "King's Indian"]
+[Variation "orthodox, 7...Nbd7, 8.Re1"]
+[HashCode "d6f8bcbc"]
+[Epoch "Rook"]
+[WhiteID "4684621"]
+[WhiteCountry "GER"]
+[BlackID "12994600"]
+[BlackCountry "GER"]
+
+1. Nf3 Nf6 2. d4 g6 3. c4 Bg7 4. Nc3 O-O 5. e4 d6 6. Be2 e5 7. O-O Nbd7 8. Re1
+exd4 9. Nxd4 Re8 10. Bf1 Nc5 11. f3 a5 12. Be3 Nfd7 13. Qd2 Nf8 14. Rad1 Nfe6
+15. Nxe6 Nxe6 16. Nd5 b6 17. b3 Rb8 18. a3 Bb7 19. Qc2 c5 20. Nf4 Nd4 21. Qd3
+f5 22. Bf2 fxe4 23. fxe4 Be5 24. Bg3 Bc6 25. Nd5 Bg7 26. Rb1 b5 27. Qd1 b4 28.
+axb4 axb4 29. Ra1 Rb7 30. Ra6 Rf7 31. Bd3 Ref8 32. Rf1 Rxf1+ 33. Bxf1 Bxd5 34.
+exd5 Nxb3 35. Rxd6 Qg5 36. Re6 Bd4+ 37. Kh1 Qc1 38. Re1 Qxd1 39. Rxd1 Na5 40.
+Bd3 b3 41. d6 b2 42. d7 Nc6 43. Be4 Nd8 44. Bd5+ Kg7 45. Bd6 Rh8 46. Be4 Kf6
+47. Bf4 Ke6 48. Bf3 h5 49. h4 Kxd7 50. Be5 Re8 51. Bf4 Kc8 52. g3 Kd7 53. Kg2
+Nc6 54. g4 Ra8 55. Be4 Ra1 56. Rb1 Na5 57. Bxg6 hxg4 58. h5 Nxc4 59. h6 Na3 60.
+Rf1 Rxf1 61. Kxf1 c4 62. h7 c3 63. Bf5+ Ke7 64. Be3 Bh8 65. Bc5+ Kf6 66. Bd3 c2
+67. Bd4+ Kg5 0-1

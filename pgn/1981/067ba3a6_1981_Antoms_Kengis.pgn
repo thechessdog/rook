@@ -1,0 +1,19 @@
+[Event "Riga"]
+[Site "Riga"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Antoms"]
+[Black "Kengis, Edvins"]
+[Result "0-1"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "067ba3a6"]
+[Epoch "Rook"]
+[BlackID "11600039"]
+[BlackCountry "LAT"]
+
+1. e4 c5 2. c3 d6 3. d4 Nf6 4. dxc5 Nc6 5. cxd6 Nxe4 6. dxe7 Qxd1+ 7. Kxd1
+Nxf2+ 8. Ke1 Nxh1 9. exf8=Q+ Kxf8 10. g3 h5 11. Nf3 Bg4 12. Bg2 h4 13. Nxh4 Ne5
+14. Bxh1 Nd3+ 15. Kd2 Rd8 16. Kc2 Nxc1 17. Nd2 Nd3 18. Bxb7 Nxb2 19. Rf1 Kg8
+20. Rf4 Be6 21. Ne4 Nd3 22. Rf1 Ne5 23. Ng5 Rh6 24. Nxe6 Rxe6 25. Be4 Nc4 0-1

@@ -1,0 +1,21 @@
+[Event "Zagreb"]
+[Site "Zagreb"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Rajkovic, Dusan"]
+[Black "Kurajica, Bojan"]
+[Result "0-1"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "4.Nf3"]
+[HashCode "6c1e7e43"]
+[Epoch "Rook"]
+[BlackID "14400057"]
+[BlackCountry "BIH"]
+[WhiteID "900265"]
+[WhiteCountry "SRB"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 Be7 5. cxd5 exd5 6. Bg5 c6 7. Qc2 g6 8. e3
+Bf5 9. Bd3 Bxd3 10. Qxd3 Nbd7 11. Bh6 Ng4 12. Bf4 O-O 13. O-O Re8 14. e4 dxe4
+15. Nxe4 Ndf6 16. Nc3 Nd5 17. Be5 Bf6 18. Rfe1 Bxe5 19. dxe5 Qb6 20. Qc2 Nxc3
+21. bxc3 Qc5 22. Qe2 Re7 23. h3 Nxe5 24. Nxe5 Rae8 25. Nd7 Qxc3 0-1

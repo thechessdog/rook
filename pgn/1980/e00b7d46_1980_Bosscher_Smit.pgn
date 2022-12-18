@@ -1,0 +1,16 @@
+[Event "Zevenbergen"]
+[Site "Zevenbergen"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Bosscher"]
+[Black "Smit, L."]
+[Result "0-1"]
+[ECO "C31"]
+[Opening "KGD"]
+[Variation "Nimzovich counter-gambit"]
+[HashCode "e00b7d46"]
+[Epoch "Rook"]
+
+1. e4 e5 2. f4 d5 3. exd5 c6 4. fxe5 Qh4+ 5. Ke2 Qe4+ 6. Kf2 Bc5+ 7. Kg3
+Qxe5+ 8. Kf3 Nf6 9. Be2 Bg4# 0-1
+

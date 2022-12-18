@@ -1,0 +1,17 @@
+[Event "USA"]
+[Site "USA"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Davis"]
+[Black "Dearman"]
+[Result "0-1"]
+[ECO "C46"]
+[Opening "Four knights"]
+[Variation "Italian variation"]
+[HashCode "04621d8b"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Nc3 Nxe4 5. Nxe4 d5 6. Bb5 dxe4 7. Nxe5
+Qd5 8. Nxc6 Qxb5 9. Nd4 Qg5 10. g3 Bg4 11. f3 exf3 12. Nxf3 Qh5 13. O-O
+O-O-O 14. d3 Bc5+ 15. Kh1 Rhe8 16. c3 Re1 17. Qxe1 Bxf3+ 18. Rxf3 Qxf3# 0-1
+

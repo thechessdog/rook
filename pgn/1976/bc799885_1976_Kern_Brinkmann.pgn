@@ -1,0 +1,18 @@
+[Event "corr FRG"]
+[Site "corr FRG"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Kern, M."]
+[Black "Brinkmann, W."]
+[Result "1-0"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical system, 5.Be2"]
+[HashCode "bc799885"]
+[Epoch "Rook"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Nf3 Bg7 5. Be2 O-O 6. Be3 Bg4 7. Qd2 Nc6 8.
+d5 Bxf3 9. gxf3 Ne5 10. h4 c5 11. h5 Qb6 12. O-O-O Rfc8 13. Rdg1 Ned7 14.
+hxg6 fxg6 15. Bh6 Bh8 16. Qg5 a6 17. f4 Nxe4 18. Qf5 Bxc3 19. Qe6+ Kh8 20.
+Bg7+ Kxg7 21. Rxh7+ 1-0
+

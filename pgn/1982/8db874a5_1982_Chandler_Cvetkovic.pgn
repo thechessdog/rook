@@ -1,0 +1,23 @@
+[Event "Belgrade"]
+[Site "Belgrade"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Chandler, Murray G"]
+[Black "Cvetkovic, Srdjan"]
+[Result "1-0"]
+[ECO "B81"]
+[Opening "Sicilian"]
+[Variation "Scheveningen, Keres attack"]
+[HashCode "8db874a5"]
+[Epoch "Rook"]
+[WhiteID "400050"]
+[WhiteCountry "NZL"]
+[BlackID "900621"]
+[BlackCountry "SRB"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. g4 a6 7. g5 Nfd7 8. h4
+b5 9. a3 Bb7 10. Be3 Nc6 11. h5 Rc8 12. Rh3 Be7 13. f4 Nxd4 14. Qxd4 e5 15. Qd2
+exf4 16. Bxf4 Ne5 17. O-O-O O-O 18. Kb1 Qb6 19. g6 Bf6 20. gxh7+ Kxh7 21. h6 g6
+22. Qxd6 Qxd6 23. Rxd6 Rc6 24. Rxc6 Bxc6 25. Nd5 Bxd5 26. exd5 Rd8 27. Bg2 Nc4
+28. Bc1 Nd6 29. Rh1 Be5 30. Re1 Re8 31. b3 f6 32. Bf1 Rd8 33. Bd3 Rd7 34. Re2
+Rd8 35. c4 bxc4 36. bxc4 Rc8 37. Rc2 1-0

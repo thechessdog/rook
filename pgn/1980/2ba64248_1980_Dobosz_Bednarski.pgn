@@ -1,0 +1,19 @@
+[Event "Esbjerg"]
+[Site "Esbjerg"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Dobosz, Henryk"]
+[Black "Bednarski, Jacek B"]
+[Result "0-1"]
+[ECO "A00"]
+[Opening "Polish (Sokolsky) opening"]
+[HashCode "2ba64248"]
+[Epoch "Rook"]
+[WhiteID "1100114"]
+[WhiteCountry "POL"]
+[BlackCountry "POL"]
+
+1. b4 e5 2. Bb2 Bxb4 3. Bxe5 Nf6 4. c4 O-O 5. e3 d5 6. Nf3 Re8 7. Qb3 Nc6 8.
+Bb2 d4 9. Be2 dxe3 10. fxe3 Ne4 11. Nc3 Nxd2 12. Nxd2 Rxe3 13. Nf3 Bg4 14. Kf2
+Bxf3 15. Bxf3 Qd2+ 16. Kg3 Bd6+ 17. Kh3 Rxc3 18. Qxc3 Qh6+ 19. Kg4 f5+ 20. Kxf5
+Qg6# 0-1

@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Pal"]
+[Black "Szabo, Laszlo"]
+[Result "0-1"]
+[ECO "A52"]
+[Opening "Budapest"]
+[Variation "Rubinstein variation"]
+[HashCode "73a3d8c1"]
+[Epoch "Rook"]
+[BlackID "710741"]
+[BlackCountry "HUN"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ng4 4. Bf4 Nc6 5. Nf3 Bb4+ 6. Nc3 Qe7 7. Qd5 f6 8.
+exf6 Nxf6 9. Qd2 O-O 10. a3 Ne4 11. Qd3 Bxc3+ 12. bxc3 Rxf4 13. g3 Rf8 14. Bg2
+Nc5 15. Qd5+ Kh8 16. Nd4 Nxd4 0-1

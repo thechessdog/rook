@@ -1,0 +1,19 @@
+[Event "Columbus,OH"]
+[Site "Columbus,OH"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Hernly, T."]
+[Black "Blocker, Calvin"]
+[Result "0-1"]
+[ECO "B19"]
+[Opening "Caro-Kann"]
+[Variation "classical, Spassky variation"]
+[HashCode "63f63d5f"]
+[Epoch "Rook"]
+[BlackID "2000920"]
+[BlackCountry "USA"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. Nf3 Nd7 7. h4 h6 8. h5
+Bh7 9. Bd3 Bxd3 10. Qxd3 e6 11. Bd2 Ngf6 12. Qe2 Qc7 13. O-O-O O-O-O 14. Ne5
+Nb6 15. Ba5 Rd5 16. Qd2 Bd6 17. f4 Rd8 18. Qc3 Qe7 19. Rhf1 Kb8 20. Kb1 Rb5 21.
+Qe1 Bxe5 22. fxe5 Nc4 23. Bc3 Nxb2 24. exf6 Nd3+ 25. Ka1 Nxe1 0-1

@@ -1,0 +1,15 @@
+[Event "Dayton,OH"]
+[Site "Dayton,OH"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Mantia, Anthony"]
+[Black "Trogdon, T."]
+[Result "0-1"]
+[ECO "A18"]
+[Opening "English"]
+[Variation "Mikenas-Carls, Kevitz variation"]
+[HashCode "ba35e1fe"]
+[Epoch "Rook"]
+
+1. c4 Nf6 2. Nc3 e6 3. e4 Nc6 4. Nge2 b6 5. g3 Ne5 6. d4 Nf3# 0-1
+

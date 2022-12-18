@@ -1,0 +1,22 @@
+[Event "ACM Seattle"]
+[Site "ACM Seattle"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Xenarbor"]
+[Black "Chess 4 6"]
+[Result "0-1"]
+[ECO "A60"]
+[Opening "Benoni defence"]
+[HashCode "9c030e1e"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nf3 exd5 5. cxd5 d6 6. e3 Bf5 7. Nc3 Nbd7 8.
+g3 Ne5 9. Nxe5 dxe5 10. Qb3 Qb6 11. Qxb6 axb6 12. Bg2 Bd3 13. e4 Bd6 14.
+Be3 O-O 15. O-O-O Bc4 16. b3 Ba6 17. Na4 Bb5 18. Nxb6 Ra6 19. a4 Be2 20.
+Rd2 Rxb6 21. Rxe2 Rxb3 22. Rc2 Rc8 23. Bh3 Ra8 24. Rc4 b5 25. Rc2 Rxa4 26.
+Bg2 c4 27. h4 c3 28. Re2 Nxe4 29. Bxe4 Rxe4 30. Ra2 Ra3 31. Rxa3 Bxa3+ 32.
+Kc2 Bb4 33. Ra1 f5 34. Ra8+ Kf7 35. Rb8 f4 36. Kd3 fxe3 37. fxe3 Rc4 38.
+Rxb5 c2 39. Kxc4 Be7 40. e4 c1=Q+ 41. Kd3 Qf1+ 42. Ke3 Qxb5 43. g4 Bxh4 44.
+Kd2 Qc4 45. d6 Qxe4 46. g5 Bxg5+ 47. Kc3 h5 48. Kb3 h4 49. Ka2 Qb4 50. Ka1
+Bc1 51. Ka2 Qb2# 0-1
+

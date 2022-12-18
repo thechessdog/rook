@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Moiseev, Viktor"]
+[Black "Atanasov, B."]
+[Result "0-1"]
+[ECO "C81"]
+[Opening "Ruy Lopez"]
+[Variation "open, Howell attack"]
+[HashCode "d6d7d0ea"]
+[Epoch "Rook"]
+[WhiteID "4101464"]
+[WhiteCountry "RUS"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Be6 9. Qe2 Be7 10. c3 Nc5 11. Bc2 d4 12. Be4 Nxe4 13. Qxe4 Qd5 14. Qf4 d3 15.
+a4 O-O 16. Nbd2 f6 17. exf6 Rxf6 18. Qxc7 Bd6 19. Qb6 Bc5 20. Qc7 Ra7 21. Qg3
+Rg6 22. Qh4 Rg4 23. Qh3 Rxa4 0-1

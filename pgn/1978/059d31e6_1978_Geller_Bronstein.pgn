@@ -1,0 +1,17 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Geller, Efim P"]
+[Black "Bronstein, David Ionovich"]
+[Result "1/2-1/2"]
+[ECO "C05"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation"]
+[HashCode "059d31e6"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Bd3 c5 6. c3 Nc6 7. Ne2 f6 8. exf6
+Qxf6 9. Nf3 Bd6 10. Bg5 Qf7 11. Be3 cxd4 12. Nexd4 h6 13. O-O e5 14. Nh4 Ne7
+15. Ndf5 Nxf5 16. Nxf5 Bc7 17. Bc2 Nf6 18. Bc5 Bxf5 19. Bxf5 Nd7 20. Qc2 e4 21.
+Bxd7+ Qxd7 1/2-1/2

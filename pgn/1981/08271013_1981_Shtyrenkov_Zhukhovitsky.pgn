@@ -1,0 +1,25 @@
+[Event "Anapa"]
+[Site "Anapa"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Shtyrenkov, V."]
+[Black "Zhukhovitsky, Samuel"]
+[Result "1-0"]
+[ECO "B31"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (with ...g6, without ...d6)"]
+[HashCode "08271013"]
+[Epoch "Rook"]
+[BlackID "4101383"]
+[BlackCountry "RUS"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. Re1 Nf6 6. c3 O-O 7. d4 cxd4 8.
+cxd4 d5 9. e5 Ne4 10. Nc3 Nxc3 11. bxc3 Bf5 12. Bxc6 bxc6 13. Ba3 Re8 14. Nd2
+Qc8 15. Qe2 a5 16. Nb3 Qa6 17. Qe3 Qd3 18. Qxd3 Bxd3 19. Nc5 Bf5 20. f4 Ra7 21.
+Kf2 e6 22. Re2 Rb8 23. Na4 Bh6 24. g3 g5 25. Rg1 g4 26. Ke3 Bf8 27. Bxf8 Kxf8
+28. Rgg2 Ke7 29. Nc5 Raa8 30. Rb2 Rb5 31. Rb3 Rab8 32. Rgb2 R8b6 33. Kd2 Rxb3
+34. Rxb3 Rxb3 35. axb3 Kd8 36. Nb7+ Kc7 37. Nxa5 Kb6 38. b4 Kb5 39. Nb7 Bg6 40.
+Nd6+ Ka4 41. Nc8 Kb5 42. Ne7 Kb6 43. Kc1 Kc7 44. Kb2 Kb7 45. Kb3 Bd3 46. Ng8 h5
+47. Nf6 Bg6 48. c4 dxc4+ 49. Kxc4 Kb6 50. Ne8 Bb1 51. Nd6 Bg6 52. b5 cxb5+ 53.
+Nxb5 Kc6 54. Nd6 f5 55. d5+ exd5+ 56. Kd4 Bh7 57. Nc8 Kd7 58. Nb6+ Ke6 59. Nxd5
+Bg6 60. Kc5 Kd7 61. Nb4 1-0

@@ -1,0 +1,19 @@
+[Event "Warsaw"]
+[Site "Warsaw"]
+[Date "1983.01.01"]
+[Round "15"]
+[White "Sznapik, Aleksander"]
+[Black "Schmidt, Wlodzimierz"]
+[Result "1/2-1/2"]
+[ECO "B46"]
+[Opening "Sicilian"]
+[Variation "Taimanov variation"]
+[HashCode "c7e6df11"]
+[Epoch "Rook"]
+[WhiteID "1100050"]
+[WhiteCountry "POL"]
+[BlackID "1100041"]
+[BlackCountry "POL"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 a6 6. Be2 d6 7. O-O Nf6 8. Be3
+Be7 9. f4 O-O 10. a4 Qc7 11. Kh1 Re8 12. Bd3 Nb4 13. Qf3 Bd7 14. Rae1 1/2-1/2

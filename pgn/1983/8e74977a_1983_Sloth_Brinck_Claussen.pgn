@@ -1,0 +1,19 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Sloth, Jorn"]
+[Black "Brinck-Claussen, Bjorn"]
+[Result "1/2-1/2"]
+[ECO "E18"]
+[Opening "Queen's Indian"]
+[Variation "old main line, 7.Nc3"]
+[HashCode "8e74977a"]
+[Epoch "Rook"]
+[WhiteID "1400240"]
+[WhiteCountry "DEN"]
+[BlackCountry "DEN"]
+
+1. d4 e6 2. Nf3 b6 3. g3 Bb7 4. Bg2 Nf6 5. c4 Be7 6. O-O O-O 7. Nc3 Ne4 8. Nxe4
+Bxe4 9. Ne1 Bxg2 10. Nxg2 d5 11. Qa4 Qd7 12. Qxd7 Nxd7 13. cxd5 exd5 14. Bf4
+Rac8 15. Rac1 c5 16. dxc5 1/2-1/2

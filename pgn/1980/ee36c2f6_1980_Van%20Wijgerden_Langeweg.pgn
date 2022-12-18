@@ -1,0 +1,23 @@
+[Event "IBM-B"]
+[Site "Amsterdam II"]
+[Date "1980.06.01"]
+[Round "1"]
+[White "Van Wijgerden, Cornelis"]
+[Black "Langeweg, Kick"]
+[Result "1/2-1/2"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra gambit"]
+[HashCode "ee36c2f6"]
+[Epoch "Rook"]
+[WhiteID "1000144"]
+[WhiteCountry "NED"]
+[BlackID "1000160"]
+[BlackCountry "NED"]
+
+1. e4 c5 2. d4 cxd4 3. c3 Nf6 4. e5 Nd5 5. Nf3 d6 6. cxd4 Nc6 7. Bc4 Nb6 8. Bb5
+dxe5 9. Nxe5 Bd7 10. Bxc6 Bxc6 11. Nxc6 bxc6 12. O-O g6 13. Re1 Bg7 14. Bg5 Nc8
+15. Qa4 O-O 16. Qxc6 Rb8 17. Qc2 Qb6 18. Bc1 Nd6 19. Nc3 Nf5 20. d5 Rfc8 21.
+Qd3 Qd4 22. Qe2 Qb4 23. Bd2 Qxb2 24. Rab1 Qa3 25. Rxb8 Rxb8 26. Qe4 Nd6 27. Qa4
+Qc5 28. Ne4 Qxd5 29. Bf4 Qd4 30. Qa5 Rc8 31. Nxd6 exd6 32. Be3 Qc3 33. Qxc3
+Rxc3 34. Bxa7 1/2-1/2

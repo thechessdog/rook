@@ -1,0 +1,18 @@
+[Event "corr ch-SCO"]
+[Site "corr ch-SCO"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Livie, G."]
+[Black "Livie, D."]
+[Result "1-0"]
+[ECO "B89"]
+[Opening "Sicilian"]
+[Variation "Sozin, 7.Be3"]
+[HashCode "2738faa8"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bc4 e6 7. Be3 Be7
+8. Bb3 O-O 9. Qe2 Bd7 10. O-O-O Qb8 11. g4 Nxd4 12. Bxd4 b5 13. g5 Ne8 14.
+Qh5 b4 15. Rd3 bxc3 16. f4 cxb2+ 17. Bxb2 d5 18. Rf1 Qb5 19. a4 Qc5 20. Rh3
+h6 21. Bxg7 1-0
+

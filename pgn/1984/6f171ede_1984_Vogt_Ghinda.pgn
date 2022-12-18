@@ -1,0 +1,25 @@
+[Event "DDR"]
+[Site "DDR"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Vogt, Lothar"]
+[Black "Ghinda, Mihail-Viorel"]
+[Result "0-1"]
+[ECO "B84"]
+[Opening "Sicilian"]
+[Variation "Scheveningen (Paulsen), classical variation"]
+[HashCode "6f171ede"]
+[Epoch "Rook"]
+[WhiteID "4611292"]
+[WhiteCountry "GER"]
+[BlackCountry "ROU"]
+
+1. e4 c5 2. Nf3 d6 3. d4 Nf6 4. Nc3 cxd4 5. Nxd4 a6 6. Be2 e6 7. f4 Qc7 8. O-O
+Be7 9. Kh1 O-O 10. Qe1 b5 11. Bf3 Bb7 12. e5 Ne8 13. f5 dxe5 14. fxe6 Bxf3 15.
+exf7+ Rxf7 16. Nxf3 Nd7 17. Qe4 Rc8 18. Bg5 Bf8 19. Rf2 Nd6 20. Qd5 Qc4 21. Re2
+Qxd5 22. Nxd5 e4 23. Ng1 Rc5 24. Rd1 Nb6 25. Nxb6 Rxg5 26. Nd5 Nc4 27. b3 Nd6
+28. g3 Re5 29. Kg2 g6 30. Nh3 Kg7 31. Nf2 h5 32. Ne3 Nf5 33. Nxf5+ gxf5 34. Nh3
+h4 35. Nf4 hxg3 36. hxg3 Rc7 37. Red2 Kf7 38. Rd7+ Re7 39. Rxe7+ Bxe7 40. Rd2
+Bg5 41. Kf1 Bxf4 42. gxf4 Ke6 43. Rh2 Rc3 44. Rh6+ Kd5 45. Rxa6 e3 46. Kg2 Ke4
+47. Kg3 Rxc2 48. a4 b4 49. Ra5 Rc1 50. Re5+ Kd3 51. Rd5+ Ke2 52. Kg2 Rc2 53. a5
+Rd2 54. Rxf5 Kd1+ 55. Kf3 e2 56. Re5 e1=Q 57. Rxe1+ Kxe1 0-1

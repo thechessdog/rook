@@ -1,0 +1,17 @@
+[Event "Argentina"]
+[Site "Argentina"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Maura"]
+[Black "Chiburdanidze, Maia"]
+[Result "0-1"]
+[ECO "B40"]
+[Opening "Sicilian"]
+[Variation "Pin variation (Sicilian counter-attack)"]
+[HashCode "776f5c27"]
+[Epoch "Rook"]
+[BlackID "13600036"]
+[BlackCountry "GEO"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Bb4 6. f3 O-O 7. Be3 e5 8. Nb3
+d5 9. Bc5 Bxc5 10. Nxc5 d4 11. Ne2 Qa5+ 0-1

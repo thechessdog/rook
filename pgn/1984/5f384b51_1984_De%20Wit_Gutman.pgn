@@ -1,0 +1,18 @@
+[Event "Hoogovens-B"]
+[Site "Wijk aan Zee II"]
+[Date "1984.01.01"]
+[Round "8"]
+[White "De Wit, Johannes S"]
+[Black "Gutman, Lev"]
+[Result "1-0"]
+[ECO "B96"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7.f4"]
+[HashCode "5f384b51"]
+[Epoch "Rook"]
+[BlackID "4600177"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Nbd7 8. Qf3
+Qc7 9. O-O-O b5 10. Bxb5 axb5 11. Ndxb5 Qb6 12. e5 Bb7 13. Qe2 Ne4 14. Nxe4
+Bxe4 15. exd6 Rc8 16. Nc7+ Rxc7 17. dxc7 Bb7 18. f5 e5 19. Qxe5+ 1-0

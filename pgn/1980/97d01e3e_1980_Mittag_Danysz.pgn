@@ -1,0 +1,19 @@
+[Event "corr EU-M"]
+[Site "corr EU-M"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Mittag, L."]
+[Black "Danysz"]
+[Result "1-0"]
+[ECO "B99"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7...Be7 main line"]
+[HashCode "97d01e3e"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8.
+Qf3 Nbd7 9. O-O-O Qc7 10. g4 b5 11. Bxf6 Nxf6 12. g5 Nd7 13. a3 Rb8 14. h4
+b4 15. axb4 Rxb4 16. Bh3 Qb7 17. Bxe6 fxe6 18. Nxe6 Bf8 19. f5 Ne5 20. Qh5+
+Qf7 21. g6 Qb7 22. Nxf8 Kxf8 23. Rxd6 Qe7 24. Rhd1 Bd7 25. f6 gxf6 26. Rxa6
+Kg7 27. Nd5 Qc5 28. Rxf6 Ba4 29. Rf2 Rxe4 30. Qf5 Nxg6 31. h5 1-0
+

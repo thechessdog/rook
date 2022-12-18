@@ -1,0 +1,18 @@
+[Event "corr ch-EU"]
+[Site "corr ch-EU"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Rantchen, W."]
+[Black "Germanov, A."]
+[Result "1-0"]
+[ECO "B77"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, 9.Bc4"]
+[HashCode "17050636"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8.
+Qd2 Nc6 9. Bc4 Nxd4 10. Bxd4 Be6 11. Bb3 Ne8 12. g4 Qa5 13. O-O-O Nc7 14.
+Bxg7 Kxg7 15. h4 Bxb3 16. axb3 Ne6 17. f4 Rfc8 18. f5 Qa1+ 19. Nb1 Nc5 20.
+Rh3 f6 21. b4 Na4 22. Qd4 1-0
+

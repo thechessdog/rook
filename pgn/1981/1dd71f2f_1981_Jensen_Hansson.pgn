@@ -1,0 +1,22 @@
+[Event "Politiken Cup"]
+[Site "Copenhagen"]
+[Date "1981.01.01"]
+[Round "5"]
+[White "Jensen, Allan"]
+[Black "Hansson, Dan"]
+[Result "0-1"]
+[ECO "B87"]
+[Opening "Sicilian"]
+[Variation "Sozin with ...a6 and ...b5"]
+[HashCode "1dd71f2f"]
+[Epoch "Rook"]
+[WhiteID "1401181"]
+[WhiteCountry "DEN"]
+[BlackCountry "ISL"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 b5 8. O-O
+Be7 9. Qf3 Qb6 10. Be3 Qb7 11. a3 O-O 12. Rae1 Bd7 13. Qg3 Nc6 14. f4 Nxd4 15.
+Bxd4 Bc6 16. e5 dxe5 17. Bxe5 g6 18. f5 Bc5+ 19. Kh1 Nh5 20. Qg4 exf5 21. Rxf5
+Bxg2+ 22. Qxg2 Qxg2+ 23. Kxg2 gxf5 24. Rf1 f4 25. Nd5 Rfe8 26. Bc3 Re2+ 27. Kh3
+Rae8 28. Nxf4 Nxf4+ 29. Rxf4 R8e3+ 30. Kg4 Rg2+ 31. Kf5 Bd6 32. Rf1 Rxh2 33.
+Rd1 Rf2+ 34. Kg4 Rg3+ 35. Kh4 Rh2# 0-1

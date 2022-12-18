@@ -1,0 +1,22 @@
+[Event "Chicago"]
+[Site "Chicago"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Bellmard"]
+[Black "Condrom, J."]
+[Result "1-0"]
+[ECO "A02"]
+[Opening "Bird"]
+[Variation "From gambit"]
+[HashCode "75258d75"]
+[Epoch "Rook"]
+
+1. f4 e5 2. fxe5 d6 3. exd6 Bxd6 4. Nf3 Bg4 5. g3 h5 6. Bg2 h4 7. Nxh4 Rxh4
+8. gxh4 Qxh4+ 9. Kf1 Bh3 10. e3 Nf6 11. Qf3 Bxg2+ 12. Qxg2 Ng4 13. h3 Qf6+
+14. Ke2 Ne5 15. Qxb7 c6 16. Rf1 Qh4 17. Qc8+ Ke7 18. Qf5 g6 19. Qf2 Qxh3
+20. d4 Qh5+ 21. Ke1 Ng4 22. Qxf7+ Kd8 23. Qg8+ Kc7 24. Rf7+ Nd7 25. Qh7
+Bg3+ 26. Kd2 Qd5 27. Nc3 Qe6 28. Re7 Rh8 29. Rxd7+ Qxd7 30. Qxh8 Qf5 31.
+Qg7+ Kb6 32. Qe7 Qf2+ 33. Kd3 Qf1+ 34. Ne2 Nf2+ 35. Kc3 Qxe2 36. Qc5+ Kb7
+37. Qb4+ Ka8 38. Kb3 Ne4 39. Qc4 Qg4 40. Qxc6+ Kb8 41. a4 Bd6 42. a5 Qe6+
+43. c4 Qg4 44. a6 1-0
+

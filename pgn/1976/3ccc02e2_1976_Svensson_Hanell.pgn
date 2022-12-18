@@ -1,0 +1,18 @@
+[Event "corr SWE/K tt"]
+[Site "corr SWE/K tt"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Svensson, Conny"]
+[Black "Hanell, Gosta"]
+[Result "1/2-1/2"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Lipnitzky attack"]
+[HashCode "3ccc02e2"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 Nc6 7. Bb3 e6 8.
+Be3 Be7 9. f4 O-O 10. Qf3 Bd7 11. g4 Na5 12. g5 Nxb3 13. axb3 Ne8 14. h4
+Qc8 15. O-O-O b5 16. f5 b4 17. f6 Bd8 18. Na4 Rb8 19. h5 Rb7 20. fxg7 Nxg7
+21. Qg2 e5 22. h6 Ne8 23. Nf5 Bxa4 24. bxa4 b3 25. Rd2 Rb4 26. Nxd6 1/2-1/2
+

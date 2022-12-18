@@ -1,0 +1,21 @@
+[Event "corr DDR/FS"]
+[Site "corr DDR/FS"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Ripper, M."]
+[Black "Melzer"]
+[Result "1-0"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "624b2c84"]
+[Epoch "Rook"]
+
+1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. d4 e6 5. Nf3 cxd4 6. Qxd4 Nc6 7. Qe4 a6 8.
+Nbd2 b5 9. Bd3 Bb7 10. O-O Na5 11. Qe1 Be7 12. Ne4 O-O 13. Qe2 Rc8 14. Bd2
+Nc4 15. Bxc4 Rxc4 16. b3 Nf4 17. Bxf4 Rxe4 18. Qd2 f6 19. Bg3 Rg4 20. Rad1
+Bc6 21. h3 Rg6 22. Kh2 f5 23. Nd4 Bd5 24. f3 Qa8 25. Bf4 h6 26. Qd3 Bg5 27.
+Bg3 Rc8 28. Ne2 h5 29. h4 Bh6 30. Nf4 Bxf4 31. Bxf4 Qc6 32. Rc1 Kf7 33. Rf2
+Qb6 34. g3 Rc7 35. Rfc2 Qb8 36. c4 Bc6 37. cxb5 axb5 38. Rxc6 Rxc6 39. Rxc6
+Rh6 40. Bxh6 1-0
+

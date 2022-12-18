@@ -1,0 +1,18 @@
+[Event "corr ch-CSSR"]
+[Site "corr ch-CSSR"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Kraus"]
+[Black "Nejezchlebova"]
+[Result "1-0"]
+[ECO "C07"]
+[Opening "French"]
+[Variation "Tarrasch, open variation"]
+[HashCode "a666856f"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. exd5 Qxd5 5. Ngf3 Nf6 6. Bc4 Qc6 7. a4 a6 8.
+O-O b6 9. Ne5 Qc7 10. Re1 Nc6 11. Ndf3 Nxe5 12. dxe5 Nd7 13. Ng5 Bb7 14.
+Nxf7 Kxf7 15. Bxe6+ Ke8 16. Qg4 g6 17. Bf4 Nb8 18. Rad1 Qc6 19. Bg5 Qc7 20.
+Bd7+ 1-0
+

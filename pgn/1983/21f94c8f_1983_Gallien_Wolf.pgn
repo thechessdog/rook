@@ -1,0 +1,18 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Gallien, K."]
+[Black "Wolf, D."]
+[Result "0-1"]
+[ECO "B55"]
+[Opening "Sicilian"]
+[Variation "Prins variation, Venice attack"]
+[HashCode "21f94c8f"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. f3 e5 6. Bb5+ Bd7 7. Bxd7+
+Nbxd7 8. Nf5 d5 9. exd5 Qa5+ 10. Nc3 Nb6 11. Qe2 O-O-O 12. O-O Nfxd5 13.
+Qxe5 Bc5+ 14. Kh1 g6 15. Nxd5 Nxd5 16. Nh6 Rhe8 17. Qg3 f6 18. Ng4 Qb5 19.
+Re1 Rxe1+ 20. Qxe1 Re8 21. Qd1 Bf2 22. Bd2 Re1+ 0-1
+

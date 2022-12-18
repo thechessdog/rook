@@ -1,0 +1,22 @@
+[Event "Brighton"]
+[Site "Brighton"]
+[Date "1979.12.01"]
+[Round "1"]
+[White "Chandler, Murray G"]
+[Black "Denman, Brian"]
+[Result "1-0"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Nimzovich (knight's tour) variation"]
+[HashCode "c066cf98"]
+[Epoch "Rook"]
+[WhiteID "400050"]
+[WhiteCountry "NZL"]
+[BlackID "2400316"]
+[BlackCountry "SCO"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. Nd2 Bg7 8. Nc4
+O-O 9. Bg5 h6 10. Bf4 b6 11. Bxd6 Re8 12. Bg3 Ne4 13. Nxe4 Rxe4 14. e3 b5 15.
+Nd2 Rb4 16. b3 c4 17. a3 Rxb3 18. Be2 Rb2 19. O-O c3 20. Nf3 Bf5 21. Nd4 Be4
+22. Rc1 Qxd5 23. Rxc3 Nc6 24. Rxc6 Qa2 25. Bf3 Bxc6 26. Nxc6 Rf8 27. Bd5 Qxa3
+28. Bd6 b4 29. Bxf8 Kxf8 30. Qf3 f5 31. Qf4 Bc3 32. Qd6+ 1-0

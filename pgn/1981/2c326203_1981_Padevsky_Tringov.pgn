@@ -1,0 +1,18 @@
+[Event "Plovdiv"]
+[Site "Plovdiv"]
+[Date "1981.01.01"]
+[Round "4"]
+[White "Padevsky, Nikola"]
+[Black "Tringov, Georgi P"]
+[Result "1/2-1/2"]
+[ECO "E06"]
+[Opening "Catalan"]
+[Variation "closed, 5.Nf3"]
+[HashCode "2c326203"]
+[Epoch "Rook"]
+[WhiteID "2900190"]
+[WhiteCountry "FID"]
+[BlackCountry "BGR"]
+
+1. d4 Nf6 2. g3 d5 3. c4 e6 4. Bg2 Be7 5. Nf3 O-O 6. cxd5 exd5 7. O-O c6 8. Nc3
+Bf5 9. Bf4 Nbd7 10. Ne5 Nxe5 11. Bxe5 Qb6 1/2-1/2

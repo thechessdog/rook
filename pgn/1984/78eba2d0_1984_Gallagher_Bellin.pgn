@@ -1,0 +1,19 @@
+[Event "Brighton ch-BCF"]
+[Site "Brighton ch-BCF"]
+[Date "1984.08.01"]
+[Round "3"]
+[White "Gallagher, Joseph G."]
+[Black "Bellin, Robert"]
+[Result "1/2-1/2"]
+[ECO "E48"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 O-O, 5.Bd3 d5"]
+[HashCode "78eba2d0"]
+[Epoch "Rook"]
+[WhiteID "1303422"]
+[WhiteCountry "SUI"]
+[BlackID "400343"]
+[BlackCountry "ENG"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 Nc6 7. O-O a6 8. Ne5
+Nxe5 9. dxe5 dxc4 10. exf6 Qxd3 11. Qg4 Qg6 12. Qxc4 Bxc3 13. Qxc3 Qxf6 1/2-1/2

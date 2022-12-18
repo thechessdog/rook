@@ -1,0 +1,26 @@
+[Event "Bundesliga 8081"]
+[Site "Duitsland tt"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Paulsen, Dirk"]
+[Black "Ruehrig, Volkhard"]
+[Result "0-1"]
+[ECO "B03"]
+[Opening "Alekhine's defence"]
+[Variation "exchange variation"]
+[HashCode "0a08e0bc"]
+[Epoch "Rook"]
+[WhiteID "4601343"]
+[WhiteCountry "GER"]
+[BlackCountry "DEU"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. c4 Nb6 5. exd6 exd6 6. Nc3 Be7 7. Bd3 Nc6 8.
+Nge2 O-O 9. b3 a5 10. Be3 Nb4 11. d5 c6 12. a3 Nxd3+ 13. Qxd3 Nd7 14. Nd4 Ne5
+15. Qd2 c5 16. Ndb5 a4 17. Nxa4 Rxa4 18. bxa4 Nxc4 19. Qc2 Qa5+ 20. Bd2 Nxd2
+21. Qxd2 Qxa4 22. Nc3 Qc4 23. Ne2 Bg4 24. Rc1 Qa6 25. O-O Qxe2 26. Qf4 g5 27.
+Qg3 Bf6 28. Qxd6 Qe7 29. Qxc5 Qxc5 30. Rxc5 Ra8 31. h3 Bf5 32. d6 Be6 33. Rd1
+Rd8 34. Rc7 Rd7 35. a4 Bd8 36. Rc5 b6 37. Rb5 Kf8 38. g4 Ke8 39. f4 gxf4 40.
+Rh5 Ra7 41. Rd4 Kd7 42. Kg2 Kc6 43. Rxf4 Kxd6 44. Rd4+ Ke7 45. Rxh7 Rc7 46. h4
+Rc2+ 47. Kf3 Rc3+ 48. Kf4 Bc7+ 49. Kg5 Kf8 50. Kh6 Rc6 51. Rh8+ Ke7 52. Re4 Kd6
+53. Kg5 Kd5 54. Rb4 Bd6 55. Rb5+ Ke4 56. Re8 Kf3 57. Rxe6 Bf4+ 58. Kf6 fxe6 59.
+g5 e5+ 60. Kf7 e4 61. g6 Rc7+ 0-1

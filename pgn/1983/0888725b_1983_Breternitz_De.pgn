@@ -1,0 +1,20 @@
+[Event "corr EU"]
+[Site "corr EU"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Breternitz"]
+[Black "De Reu"]
+[Result "0-1"]
+[ECO "C09"]
+[Opening "French"]
+[Variation "Tarrasch, open variation, main line"]
+[HashCode "0888725b"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. Ngf3 Nc6 5. exd5 exd5 6. Bb5 Bd6 7. O-O Ne7
+8. c3 c4 9. Re1 O-O 10. Ba4 Qc7 11. h3 Ng6 12. Bc2 f5 13. Ng5 Rf6 14. Nf1
+h6 15. Nf3 f4 16. b3 Bf5 17. N1d2 Nce7 18. bxc4 Bxc2 19. Qxc2 dxc4 20. Ne4
+Rf5 21. Nxd6 Qxd6 22. a4 Qf6 23. Qe4 Nd5 24. Bd2 Qf7 25. Rab1 b6 26. Rb5
+Rd8 27. Ne5 Nxe5 28. dxe5 Qe6 29. Rbb1 Rdf8 30. f3 Ne3 31. Re2 Rxe5 32. Qd4
+Rd5 33. Qe4 Re5 34. Qd4 Qg6 35. Rxb6 Qd3 36. Rg6 Qxe2 37. Rxg7+ Kxg7 0-1
+

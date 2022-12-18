@@ -1,0 +1,18 @@
+[Event "Hungary"]
+[Site "Budapest"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Barczay, Laszlo"]
+[Black "Schneider, Attila"]
+[Result "0-1"]
+[ECO "E15"]
+[Opening "Queen's Indian"]
+[Variation "Nimzovich variation (exaggerated fianchetto)"]
+[HashCode "2be494eb"]
+[Epoch "Rook"]
+[WhiteCountry "HUN"]
+[BlackCountry "HUN"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. b3 Bb4+ 6. Bd2 Be7 7. Nc3 c6 8. e4 d5
+9. Qc2 dxe4 10. Nxe4 Bb7 11. Bd3 c5 12. Bc3 Nc6 13. dxc5 bxc5 14. O-O Qc7 15.
+Rad1 O-O-O 16. Qe2 Rxd3 17. Rxd3 Nxe4 0-1

@@ -1,0 +1,23 @@
+[Event "CalChess Tournament"]
+[Site "CalChess Tournament"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Martinovsky, Eugene"]
+[Black "Whitehead, Jay E"]
+[Result "1-0"]
+[ECO "E14"]
+[Opening "Queen's Indian"]
+[Variation "4.e3"]
+[HashCode "e7799d21"]
+[Epoch "Rook"]
+[WhiteCountry "MKD"]
+[BlackCountry "USA"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. e3 Bb7 5. Bd3 d5 6. O-O Bd6 7. b3 O-O 8. Bb2 c5
+9. Qe2 Nbd7 10. Nbd2 Qb8 11. h3 Re8 12. Rad1 e5 13. dxe5 Nxe5 14. cxd5 Nxd5 15.
+Be4 Qc7 16. Nb1 Nxe3 17. Qxe3 Nxf3+ 18. gxf3 f5 19. Rxd6 Qxd6 20. Qg5 Qe7 21.
+Qxe7 Rxe7 22. Bxb7 Rxb7 23. Rd1 Kf7 24. f4 Re8 25. Be5 b5 26. Rc1 Rc8 27. Nc3
+Rd8 28. Nd1 g6 29. Ne3 Rd2 30. a4 Rd3 31. Rxc5 Rxb3 32. axb5 R3xb5 33. Rc8 Ke6
+34. Ra8 Ra5 35. Kg2 Ra2 36. h4 a5 37. h5 Rb3 38. Kg3 gxh5 39. Ra6+ Kd7 40. Rh6
+a4 41. Rxh7+ Kc6 42. Rxh5 a3 43. Rxf5 Rd2 44. Rf8 a2 45. Ra8 Rb5 46. Kf3 Kd7
+47. Ra7+ Ke8 48. Nc4 Rb3+ 49. Kg2 Re2 50. Nd6+ Kf8 51. Bf6 Rb8 52. Rh7 1-0

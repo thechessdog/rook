@@ -1,0 +1,22 @@
+[Event "Borovo"]
+[Site "Borovo"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Jelen, Igor"]
+[Black "Cebalo, Miso"]
+[Result "0-1"]
+[ECO "E21"]
+[Opening "Nimzo-Indian"]
+[Variation "three knights variation"]
+[HashCode "1631efeb"]
+[Epoch "Rook"]
+[WhiteID "14600668"]
+[WhiteCountry "SLO"]
+[BlackID "14500094"]
+[BlackCountry "CRO"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Nf3 b6 5. Bg5 Bb7 6. e3 h6 7. Bh4 g5 8. Bg3
+Ne4 9. Nd2 Bxc3 10. bxc3 Nxg3 11. hxg3 d6 12. Bd3 Nd7 13. Be4 Bxe4 14. Nxe4 Qe7
+15. Qa4 f5 16. Qc6 Kf7 17. Nd2 Nf6 18. Rxh6 Rxh6 19. Qxa8 Rh1+ 20. Nf1 Qd7 21.
+a4 a5 22. f3 g4 23. Qa6 Kg6 24. Qb5 Qh7 25. O-O-O Rg1 26. c5 Rxg2 27. cxb6 cxb6
+28. fxg4 fxg4 29. Qc6 d5 30. Qxe6 Qc7 0-1

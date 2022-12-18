@@ -1,0 +1,20 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Rosenlund, Thorbjorn"]
+[Black "Jensen, Vagn"]
+[Result "1-0"]
+[ECO "D55"]
+[Opening "QGD"]
+[Variation "6.Nf3"]
+[HashCode "3ee97633"]
+[Epoch "Rook"]
+[BlackID "1400851"]
+[BlackCountry "DEN"]
+[WhiteID "1400614"]
+[WhiteCountry "DEN"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 d5 4. Nc3 Be7 5. Bg5 O-O 6. e3 c6 7. Qc2 Nbd7 8. Rd1
+Re8 9. a3 a5 10. Bd3 h6 11. Bh4 dxc4 12. Bxc4 b5 13. Bd3 Qb6 14. O-O Ba6 15.
+Ne5 Rad8 16. Ne4 g5 17. Bg3 c5 18. Nxf6+ Nxf6 19. Bg6 Rf8 20. dxc5 1-0

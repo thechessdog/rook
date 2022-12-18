@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Schmidt, Wlodzimierz"]
+[Black "Pietruske, S."]
+[Result "0-1"]
+[ECO "C30"]
+[Opening "KGD"]
+[Variation "classical variation"]
+[HashCode "95d1d570"]
+[Epoch "Rook"]
+[WhiteID "1100041"]
+[WhiteCountry "POL"]
+
+1. e4 e5 2. f4 Bc5 3. Nf3 d6 4. Bc4 Nf6 5. Nc3 Nc6 6. d3 a6 7. f5 Nd4 8. Ng5
+O-O 9. Nd5 b5 10. Nxf6+ Qxf6 11. Qh5 h6 12. Bb3 Nxb3 13. axb3 hxg5 14. Bxg5 g6
+15. Qh4 Qh8 16. Qxh8+ Kxh8 17. Rf1 gxf5 18. Bf6+ Kh7 19. exf5 Bb7 20. O-O-O
+Be3+ 0-1

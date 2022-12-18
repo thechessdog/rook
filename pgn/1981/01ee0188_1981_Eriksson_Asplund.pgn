@@ -1,0 +1,22 @@
+[Event "corr SWE/K"]
+[Site "corr SWE/K"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Eriksson, Ola"]
+[Black "Asplund, Lennart"]
+[Result "0-1"]
+[ECO "E30"]
+[Opening "Nimzo-Indian"]
+[Variation "Leningrad variation"]
+[HashCode "01ee0188"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Bg5 h6 5. Bxf6 Qxf6 6. Rc1 O-O 7. Nf3 d6
+8. e3 e5 9. dxe5 dxe5 10. Nd2 Bxc3 11. Rxc3 Qe7 12. c5 Be6 13. Bc4 Bxc4 14.
+Rxc4 Nc6 15. b4 Rad8 16. Qc2 f5 17. b5 Na5 18. Ra4 b6 19. Nb3 f4 20. Nxa5
+bxa5 21. e4 f3 22. g3 Qd7 23. h3 Qxb5 24. Qb3+ Qxb3 25. axb3 Rd3 26. O-O
+Rxb3 27. Rxa5 Rc3 28. Rd1 Rb8 29. Rxa7 Rxc5 30. Ra3 Rf8 31. Rdd3 Rc1+ 32.
+Kh2 Rf1 33. Ra2 h5 34. h4 Re1 35. Ra4 Rf6 36. Rc4 c6 37. Rd8+ Kh7 38. Re8
+Re2 39. Rxe5 Rxf2+ 40. Kh3 Rf1 41. Rxh5+ Kg8 42. e5 Rh1+ 43. Kg4 f2 44.
+exf6 f1=Q 45. Rhc5 gxf6 46. Kh5 Kh7 0-1
+

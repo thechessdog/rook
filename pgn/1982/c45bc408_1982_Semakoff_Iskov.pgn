@@ -1,0 +1,23 @@
+[Event "Gausdal Int"]
+[Site "Gausdal"]
+[Date "1982.??.??"]
+[Round "6"]
+[White "Semakoff, Aleks"]
+[Black "Iskov, Gert"]
+[Result "0-1"]
+[ECO "B95"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6...e6"]
+[HashCode "c45bc408"]
+[Epoch "Rook"]
+[WhiteID "1500635"]
+[BlackID "1400398"]
+[WhiteCountry "NOR"]
+[BlackCountry "DEN"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. Qe2 Qc7 8. f4
+Nbd7 9. O-O-O b5 10. Bxf6 Nxf6 11. g4 b4 12. Nb1 e5 13. Nf5 g6 14. Ne3 exf4 15.
+Nd5 Nxd5 16. exd5+ Be7 17. Re1 Ra7 18. Qe4 O-O 19. Qxf4 Qd8 20. Nd2 Bg5 21. Qd4
+Re7 22. Bd3 Rfe8 23. Kd1 Rxe1+ 24. Rxe1 Rxe1+ 25. Kxe1 Bxd2+ 26. Kxd2 Qg5+ 27.
+Qe3 Qxg4 28. Be2 Qf5 29. Qd4 Bb7 30. Qxb4 Qxd5+ 31. Bd3 Qg5+ 32. Kc3 Qe5+ 33.
+Kd2 Qxh2+ 34. Kc3 0-1

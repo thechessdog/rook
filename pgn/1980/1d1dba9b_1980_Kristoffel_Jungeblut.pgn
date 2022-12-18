@@ -1,0 +1,17 @@
+[Event "corr Wcup3"]
+[Site "corr Wcup3"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Kristoffel"]
+[Black "Jungeblut"]
+[Result "1-0"]
+[ECO "B01"]
+[Opening "Scandinavian"]
+[Variation "Marshall variation"]
+[HashCode "1d1dba9b"]
+[Epoch "Rook"]
+
+1. e4 d5 2. exd5 Nf6 3. d4 Nxd5 4. Nf3 Bg4 5. c4 Nb6 6. Be2 g6 7. c5 Nd5 8.
+Qb3 Nc6 9. Nc3 Nxc3 10. bxc3 Bg7 11. Ng5 Bxe2 12. Qxf7+ Kd7 13. Qe6+ Ke8
+14. Qxe2 Qd5 15. O-O Kd7 16. Re1 Rae8 17. Rb1 Kc8 18. Qe6+ 1-0
+

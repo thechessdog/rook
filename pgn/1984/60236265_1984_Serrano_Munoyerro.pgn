@@ -1,0 +1,17 @@
+[Event "corr Spain"]
+[Site "corr Spain"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Serrano, A."]
+[Black "Munoyerro"]
+[Result "1-0"]
+[ECO "B01"]
+[Opening "Scandinavian"]
+[Variation "Marshall variation"]
+[HashCode "60236265"]
+[Epoch "Rook"]
+
+1. e4 d5 2. exd5 Nf6 3. d4 Nxd5 4. c4 Nb6 5. Nf3 Bg4 6. c5 N6d7 7. Qb3 Nc6
+8. Nbd2 e5 9. Bc4 Bh5 10. Qxb7 Nxd4 11. Nxd4 exd4 12. Bb5 Rc8 13. O-O Bxc5
+14. Qd5 c6 15. Bxc6 Bg6 16. Qxc5 1-0
+

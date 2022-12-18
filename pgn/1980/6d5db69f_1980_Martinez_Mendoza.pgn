@@ -1,0 +1,21 @@
+[Event "Bogota"]
+[Site "Bogota"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Martinez, Cristian"]
+[Black "Mendoza, Rafael"]
+[Result "1-0"]
+[ECO "C99"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Chigorin, 12...c5d4"]
+[HashCode "6d5db69f"]
+[Epoch "Rook"]
+[WhiteCountry "COL"]
+[BlackID "4400119"]
+[BlackCountry "COL"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. h3
+d6 9. c3 Na5 10. Bc2 c5 11. d4 cxd4 12. cxd4 Qc7 13. Nbd2 Bd7 14. Nf1 Rac8 15.
+Ne3 Rfe8 16. Bd2 Bf8 17. Rc1 Qb6 18. Nd5 Nxd5 19. exd5 exd4 20. Rxe8 Rxe8 21.
+Ng5 g6 22. Qf3 f5 23. b3 Nb7 24. g4 Bg7 25. gxf5 Rf8 26. Nxh7 Rxf5 27. Bxf5
+Bxf5 28. Ng5 Nc5 29. b4 1-0

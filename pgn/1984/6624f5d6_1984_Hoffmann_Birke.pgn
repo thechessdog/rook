@@ -1,0 +1,29 @@
+[Event "GER Elo"]
+[Site "Germany"]
+[Date "1984.??.??"]
+[Round "?"]
+[White "Hoffmann, Hans"]
+[Black "Birke, Andreas"]
+[Result "0-1"]
+[ECO "B10"]
+[Opening "Caro-Kann"]
+[Variation "two knights variation"]
+[HashCode "6624f5d6"]
+[Epoch "Rook"]
+[WhiteID "4602536"]
+[BlackID "4612140"]
+[WhiteCountry "GER"]
+[BlackCountry "GER"]
+
+1. e4 c6 2. Nc3 d5 3. Nf3 dxe4 4. Nxe4 Nf6 5. Nxf6+ gxf6 6. d4 Bg4 7. Be2 Qc7
+8. Be3 Nd7 9. Qd2 O-O-O 10. O-O-O e6 11. h3 Bh5 12. g4 Bg6 13. Nh4 Be7 14. Nxg6
+hxg6 15. h4 Nb6 16. Qa5 Kb8 17. c4 f5 18. gxf5 gxf5 19. c5 Nd5 20. Qxc7+ Kxc7
+21. h5 Bf6 22. Rd3 Rhg8 23. Bd2 Rg2 24. Kd1 Rxf2 25. Ke1 Rg2 26. Bf3 Rg3 27.
+Kf2 Rgg8 28. h6 Bh8 29. h7 Rg6 30. Ba5+ b6 31. cxb6+ axb6 32. Bd2 Nf6 33. Bf4+
+Kb7 34. Be5 Ng4+ 35. Ke2 Nxe5 36. dxe5 Rxd3 37. Kxd3 Kc7 38. Ke3 c5 39. Kf4 f6
+40. exf6 Rxf6 41. b3 Rg6 42. Be2 Kd6 43. Rd1+ Ke7 44. Bb5 Rg4+ 45. Kf3 Rh4 46.
+Rd7+ Kf6 47. Rd6 Rh3+ 48. Kg2 Rxh7 49. Bc4 Re7 50. Rxb6 f4 51. a4 Kf5 52. a5 e5
+53. a6 e4 54. Be6+ Ke5 55. Bc8 f3+ 56. Kf1 Rh7 57. Rb7 Rh1+ 58. Kf2 Bf6 59. Rf7
+Bh4+ 60. Ke3 Re1+ 61. Kd2 e3+ 62. Kd3 f2 63. a7 Ra1 64. Kxe3 Rxa7 65. Rf5+ Kd6
+66. Rf3 Ra3 67. Ke2 c4 68. Bh3 Rxb3 69. Re3 Rb2+ 70. Kf3 f1=Q+ 71. Bxf1 Rf2+
+0-1

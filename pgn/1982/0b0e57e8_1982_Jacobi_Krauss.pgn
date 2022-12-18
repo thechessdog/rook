@@ -1,0 +1,19 @@
+[Event "corr USCCC"]
+[Site "corr USCCC"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Jacobi, N."]
+[Black "Krauss, G."]
+[Result "1-0"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Paulsen attack"]
+[HashCode "0b0e57e8"]
+[Epoch "Rook"]
+
+1. e4 c5 2. c3 e6 3. d4 d5 4. e5 Nc6 5. Nf3 Qb6 6. a3 Nh6 7. b4 cxd4 8.
+Bxh6 gxh6 9. cxd4 a5 10. b5 Na7 11. Nc3 Bd7 12. Bd3 Rc8 13. Qb3 a4 14. Nxa4
+Qa5+ 15. Ke2 Nxb5 16. Rhb1 Nxd4+ 17. Nxd4 Qxa4 18. Qxa4 Bxa4 19. Rxb7 Bc5
+20. Bb5+ Bxb5+ 21. Nxb5 O-O 22. a4 Ra8 23. a5 Ra6 24. Nc7 Ra7 25. a6 Bd4
+26. Rab1 Rxb7 27. axb7 Ba7 28. Na6 Bb8 29. f4 f6 30. Rc1 fxe5 31. Nxb8 1-0
+

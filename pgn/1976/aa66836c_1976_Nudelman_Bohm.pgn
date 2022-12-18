@@ -1,0 +1,18 @@
+[Event "Stockholm"]
+[Site "Stockholm"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Nudelman, L."]
+[Black "Bohm, Hans"]
+[Result "1-0"]
+[ECO "C15"]
+[Opening "French"]
+[Variation "Winawer, Alekhine gambit"]
+[HashCode "aa66836c"]
+[Epoch "Rook"]
+[BlackID "1000306"]
+[BlackCountry "NED"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. Ne2 dxe4 5. a3 Bxc3+ 6. Nxc3 f5 7. f3 exf3 8.
+Qxf3 Qxd4 9. Qg3 Nc6 10. Nb5 Qe4+ 11. Be3 f4 12. Qxf4 Qxf4 13. Bxf4 e5 14. Bg5
+Rb8 15. Nxc7+ Kf8 16. Bc4 Nf6 17. O-O Bg4 18. h3 Bh5 19. Ne6+ 1-0

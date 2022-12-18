@@ -1,0 +1,24 @@
+[Event "Reykjavik"]
+[Site "Reykjavik"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Kristinsson, Jon"]
+[Black "Bjarnason, Saevar"]
+[Result "1-0"]
+[ECO "E42"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5, 5.Ne2 (Rubinstein)"]
+[HashCode "60adc18a"]
+[Epoch "Rook"]
+[BlackID "2300176"]
+[BlackCountry "ISL"]
+[WhiteID "2300141"]
+[WhiteCountry "ISL"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Ne2 cxd4 6. exd4 O-O 7. a3 Be7 8. Nf4
+b6 9. Be2 Bb7 10. d5 Re8 11. O-O Bf8 12. Be3 d6 13. Qd2 e5 14. Nd3 Nbd7 15. f4
+Rc8 16. fxe5 dxe5 17. Nf2 a5 18. Nfe4 Nxe4 19. Nxe4 Nc5 20. Bxc5 bxc5 21. Bg4
+a4 22. Rad1 Rc7 23. d6 Bxe4 24. dxc7 Qxc7 25. Qd7 Qxd7 26. Rxd7 f6 27. Bf3 Bc2
+28. Rf2 Bb3 29. Bd5+ Kh8 30. Rd2 g6 31. Bf7 Rb8 32. Ra7 Bh6 33. Rdd7 Be3+ 34.
+Kf1 Kg7 35. Be6+ Kh6 36. Ke2 Bd4 37. h4 Rh8 38. g4 Bc2 39. Rab7 Be4 40. Bd5 Bc2
+41. Kd2 1-0

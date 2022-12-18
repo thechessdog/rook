@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Piecha, W."]
+[Black "Jonscher, P."]
+[Result "1-0"]
+[ECO "E59"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line"]
+[HashCode "ecccc35c"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 Nc6 6. Nf3 d5 7. O-O O-O 8.
+a3 Bxc3 9. bxc3 dxc4 10. Bxc4 Na5 11. Bd3 c4 12. Bc2 b6 13. e4 h6 14. a4
+Ba6 15. Ba3 Re8 16. Qe2 Bb7 17. Ne5 Qc7 18. f4 Rac8 19. Rf3 Nc6 20. Rg3 Kh8
+21. Bd6 1-0
+

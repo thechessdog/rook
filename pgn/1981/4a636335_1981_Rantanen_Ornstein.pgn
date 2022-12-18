@@ -1,0 +1,21 @@
+[Event "Nordic-ch"]
+[Site "Reykjavik"]
+[Date "1981.??.??"]
+[Round "?"]
+[White "Rantanen, Yrjo A."]
+[Black "Ornstein, Axel"]
+[Result "1-0"]
+[ECO "C82"]
+[Opening "Ruy Lopez"]
+[Variation "open, St. Petersburg variation"]
+[HashCode "4a636335"]
+[Epoch "Rook"]
+[BlackID "1700111"]
+[BlackCountry "SWE"]
+[WhiteID "500038"]
+[WhiteCountry "FIN"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Be6 9. c3 Bc5 10. Nbd2 O-O 11. Bc2 f5 12. Nb3 Bb6 13. Nfd4 Nxd4 14. Nxd4 Bxd4
+15. Qxd4 c5 16. Qd1 f4 17. f3 Ng5 18. a4 b4 19. cxb4 c4 20. b3 d4 21. bxc4 Bxc4
+22. Bb3 Qd5 23. Bxc4 Qxc4 24. Rb1 Kh8 25. Qb3 Qe2 26. h4 Nf7 27. Bxf4 1-0

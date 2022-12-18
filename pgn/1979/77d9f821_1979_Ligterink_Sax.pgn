@@ -1,0 +1,19 @@
+[Event "IBM"]
+[Site "Amsterdam"]
+[Date "1979.07.01"]
+[Round "13"]
+[White "Ligterink, Gert"]
+[Black "Sax, Gyula"]
+[Result "1/2-1/2"]
+[ECO "B84"]
+[Opening "Sicilian"]
+[Variation "Scheveningen (Paulsen), classical variation"]
+[HashCode "77d9f821"]
+[Epoch "Rook"]
+[WhiteID "1000179"]
+[WhiteCountry "NED"]
+[BlackCountry "HUN"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be2 a6 7. O-O Be7 8. f4
+Qc7 9. Kh1 O-O 10. a4 Nc6 11. Be3 Rd8 12. Qe1 Nxd4 13. Bxd4 e5 14. Bg1 exf4 15.
+a5 Re8 16. Bb6 Qb8 17. Rxf4 d5 18. Qf2 Be6 1/2-1/2

@@ -1,0 +1,19 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Kupreichik, Viktor D"]
+[Black "Makarichev, Sergey"]
+[Result "1/2-1/2"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "Nimzovich attack"]
+[HashCode "6d293d78"]
+[Epoch "Rook"]
+[WhiteCountry "BLR"]
+[BlackID "4100468"]
+[BlackCountry "RUS"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. Nc3 Nxc3 6. dxc3 Be7 7. Bf4 O-O
+8. Qd2 Nd7 9. O-O-O Nc5 10. Nd4 Re8 11. f3 Ne6 12. h4 Nxf4 13. Qxf4 d5 14. Nf5
+Bf6 15. Bd3 Be5 16. Qd2 1/2-1/2

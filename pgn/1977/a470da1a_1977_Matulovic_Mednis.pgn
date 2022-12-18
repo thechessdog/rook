@@ -1,0 +1,18 @@
+[Event "Nice"]
+[Site "Nice"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Matulovic, Milan"]
+[Black "Mednis, Edmar John"]
+[Result "1/2-1/2"]
+[ECO "C05"]
+[Opening "French"]
+[Variation "Tarrasch, Botvinnik variation"]
+[HashCode "a470da1a"]
+[Epoch "Rook"]
+[WhiteCountry "SRB"]
+[BlackCountry "USA"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Bd3 c5 6. c3 b6 7. Ne2 Ba6 8. Bxa6
+Nxa6 9. O-O Nc7 10. Nf3 Be7 11. Re1 h6 12. Nf4 Qc8 13. dxc5 bxc5 14. c4 dxc4
+15. Nd2 Qa6 16. Qc2 Nb6 17. Ne4 Ncd5 18. Nxd5 1/2-1/2

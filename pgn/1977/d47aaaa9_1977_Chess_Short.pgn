@@ -1,0 +1,17 @@
+[Event "London"]
+[Site "London"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Chess 4 6"]
+[Black "Short, Nigel D"]
+[Result "0-1"]
+[ECO "C31"]
+[Opening "KGD"]
+[Variation "Falkbeer counter-gambit"]
+[HashCode "d47aaaa9"]
+[Epoch "Rook"]
+[BlackID "400025"]
+[BlackCountry "ENG"]
+
+1. f4 e5 2. e4 d5 3. exd5 exf4 4. Nf3 Bd6 5. d4 Ne7 6. c4 Ng6 7. c5 Be7 8. Qb3
+Bh4+ 9. Kd1 O-O 10. Qxb7 Bxb7 11. Bc4 0-1

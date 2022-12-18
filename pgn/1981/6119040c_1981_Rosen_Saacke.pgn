@@ -1,0 +1,20 @@
+[Event "Bundesliga 8081"]
+[Site "Duitsland tt"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Rosen, Willy"]
+[Black "Saacke, Bernd"]
+[Result "0-1"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Wade variation"]
+[HashCode "6119040c"]
+[Epoch "Rook"]
+[WhiteID "4605535"]
+[WhiteCountry "GER"]
+[BlackCountry "DEU"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Qb6 5. Nf3 Bd7 6. Be2 Nc6 7. dxc5 Bxc5 8. O-O
+Nh6 9. Bxh6 gxh6 10. b4 Bf8 11. Re1 Bg7 12. Bd3 O-O 13. a4 Qc7 14. Qe2 Rac8 15.
+Nbd2 Ne7 16. c4 dxc4 17. Nxc4 Bc6 18. b5 Bd5 19. Nd6 Rcd8 20. Rac1 Qb8 21. Bb1
+Ng6 22. Qc2 Bxf3 23. gxf3 Bxe5 24. Rxe5 Qxd6 25. Rce1 Rc8 26. Qe4 Qxe5 0-1

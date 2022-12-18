@@ -1,0 +1,16 @@
+[Event "Mechelen"]
+[Site "Mechelen"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Meulders"]
+[Black "Schuurmans"]
+[Result "0-1"]
+[ECO "C45"]
+[Opening "Scotch"]
+[Variation "Potter variation"]
+[HashCode "f18a474b"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Bc5 5. Nb3 Bb6 6. a4 Qh4 7. Qe2 d6
+8. Nc3 Bg4 9. Qd2 Nb4 10. Bc4 Be3 0-1
+

@@ -1,0 +1,20 @@
+[Event "Bologna"]
+[Site "Bologna"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Cappello, R."]
+[Black "Iannaccone, E."]
+[Result "0-1"]
+[ECO "C69"]
+[Opening "Ruy Lopez"]
+[Variation "exchange, Bronstein variation"]
+[HashCode "a17c217d"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O Qd6 6. d4 exd4 7. Nxd4
+Bd7 8. Nc3 O-O-O 9. Be3 Nh6 10. f3 Qg6 11. Qe1 Bd6 12. Qf2 f5 13. Qh4 Be5
+14. Rad1 fxe4 15. Nxe4 Nf5 16. Nxf5 Bxf5 17. c3 b6 18. a3 Rhe8 19. Rxd8+
+Rxd8 20. Nf2 Re8 21. Nd1 Kb7 22. Qf2 Qh5 23. g3 Rf8 24. f4 Bd6 25. Qd2 Re8
+26. c4 Bg4 27. Nf2 Bf3 28. b4 c5 29. Nd3 Be2 30. bxc5 Bxd3 31. Qxd3 Rxe3
+0-1
+

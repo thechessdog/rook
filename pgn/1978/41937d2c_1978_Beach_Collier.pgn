@@ -1,0 +1,17 @@
+[Event "corr GB"]
+[Site "corr GB"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Beach, TJ."]
+[Black "Collier, C."]
+[Result "1-0"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Lipnitzky attack"]
+[HashCode "41937d2c"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 Be7 8. f4
+O-O 9. Qf3 Qc7 10. f5 e5 11. Nde2 b5 12. a3 Bb7 13. g4 Nbd7 14. g5 Ne8 15. Bd5
+Kh8 16. Qh3 Bxd5 17. Nxd5 Qd8 18. Rg1 g6 19. f6 Nexf6 20. gxf6 Bxf6 21. Nxf6
+Nxf6 22. Bg5 Kg8 23. Qh4 1-0

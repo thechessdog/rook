@@ -1,0 +1,20 @@
+[Event "Kuibyshev"]
+[Site "Kuibyshev"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Kengis, Edvins"]
+[Black "Lysenko, A."]
+[Result "1-0"]
+[ECO "B31"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (with ...g6, without ...d6)"]
+[HashCode "ec85526b"]
+[Epoch "Rook"]
+[WhiteID "11600039"]
+[WhiteCountry "LAT"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Nf6 5. Re1 Bg7 6. e5 Nd5 7. b3 O-O 8. Bb2
+Nc7 9. Bxc6 dxc6 10. d3 Bg4 11. Nbd2 Ne6 12. h3 Bxf3 13. Nxf3 Qd5 14. Re4 a5
+15. a4 b6 16. Qe2 Rae8 17. Re1 h6 18. Qe3 Qd7 19. Bc3 Nc7 20. Qc1 Ne6 21. Bd2
+g5 22. R1e2 Qd5 23. Qe1 Nd4 24. Nxd4 cxd4 25. h4 f5 26. exf6 Bxf6 27. hxg5 hxg5
+28. Rg4 Qf5 29. f3 Rf7 30. Bxg5 Qxg4 31. fxg4 1-0

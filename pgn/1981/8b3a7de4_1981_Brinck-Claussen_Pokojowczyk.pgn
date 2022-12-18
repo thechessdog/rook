@@ -1,0 +1,20 @@
+[Event "Politiken Cup"]
+[Site "Copenhagen"]
+[Date "1981.01.01"]
+[Round "7"]
+[White "Brinck-Claussen, Bjorn"]
+[Black "Pokojowczyk, Jerzy"]
+[Result "1-0"]
+[ECO "E52"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line with ...b6"]
+[HashCode "8b3a7de4"]
+[Epoch "Rook"]
+[BlackID "1100718"]
+[WhiteCountry "DEN"]
+[BlackCountry "POL"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 b6 7. O-O Bb7 8. cxd5
+exd5 9. Ne5 Bd6 10. f4 c5 11. Rf3 Nc6 12. Nxd5 Bxe5 13. fxe5 Qxd5 14. exf6 g6
+15. Qe1 Ne5 16. dxe5 Qxd3 17. e4 Qxe4 18. Qg3 Rad8 19. Bf4 Qd4+ 20. Rf2 Kh8 21.
+Qg5 Qe4 22. Bd2 Bc8 23. Rf4 Qe2 24. Qh6 1-0

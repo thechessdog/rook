@@ -1,0 +1,17 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "NN"]
+[Black "Fritz, Roland"]
+[Result "0-1"]
+[ECO "C50"]
+[Opening "Giuoco Piano"]
+[HashCode "ce04f31e"]
+[Epoch "Rook"]
+[BlackID "4601246"]
+[BlackCountry "GER"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. O-O d6 5. c3 Bg4 6. Qb3 Bxf3 7. Bxf7+ Kf8 8.
+Bxg8 Rxg8 9. gxf3 Qc8 10. Kh1 g5 11. d3 g4 12. f4 g3 13. fxg3 Qh3 14. Rf3 Rxg3
+15. Rxg3 Qf1+ 16. Rg1 Qxg1# 0-1

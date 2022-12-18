@@ -1,0 +1,18 @@
+[Event "Columbus,OH"]
+[Site "Columbus,OH"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Bohn"]
+[Black "Meinking, D."]
+[Result "0-1"]
+[ECO "D31"]
+[Opening "QGD"]
+[Variation "semi-Slav, Abrahams variation"]
+[HashCode "4cd46e39"]
+[Epoch "Rook"]
+
+1. d4 d5 2. c4 c6 3. Nc3 e6 4. Nf3 dxc4 5. e3 b5 6. a4 Bb4 7. Bd2 a5 8.
+axb5 Bxc3 9. Bxc3 cxb5 10. Qd2 Nf6 11. Bxa5 Ne4 12. Qb4 Nc6 13. Qxb5 Rxa5
+14. Qxc6+ Bd7 15. Qxe4 Rxa1+ 16. Ke2 c3 17. bxc3 Bb5+ 18. Kd2 Bxf1 19. Rxf1
+Rxf1 0-1
+

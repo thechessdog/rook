@@ -1,0 +1,19 @@
+[Event "Fredrikstad"]
+[Site "Fredrikstad"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Backe, Peter"]
+[Black "Johansson, Martin"]
+[Result "1/2-1/2"]
+[ECO "A18"]
+[Opening "English"]
+[Variation "Mikenas-Carls, Flohr variation"]
+[HashCode "bd938107"]
+[Epoch "Rook"]
+[WhiteID "1701240"]
+[WhiteCountry "SWE"]
+[BlackCountry "SWE"]
+
+1. c4 Nf6 2. Nc3 e6 3. e4 d5 4. e5 d4 5. exf6 dxc3 6. fxg7 cxd2+ 7. Qxd2 Qxd2+
+8. Bxd2 Bxg7 9. O-O-O O-O 10. Nf3 Nc6 11. Bd3 e5 12. Be4 Nd4 13. Bb4 Rd8 14.
+Nxd4 exd4 15. Rhe1 Be6 1/2-1/2

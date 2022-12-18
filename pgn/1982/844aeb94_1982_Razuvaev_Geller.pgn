@@ -1,0 +1,16 @@
+[Event "Sochi"]
+[Site "Sochi"]
+[Date "1982.01.01"]
+[Round "15"]
+[White "Razuvaev, Yuri S"]
+[Black "Geller, Efim P"]
+[Result "1/2-1/2"]
+[ECO "E06"]
+[Opening "Catalan"]
+[Variation "closed, 5.Nf3"]
+[HashCode "844aeb94"]
+[Epoch "Rook"]
+[WhiteCountry "RUS"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. g3 Be7 5. Bg2 O-O 6. O-O dxc4 7. Qc2 a6 8. Qxc4
+b5 9. Qc2 Bb7 10. Bf4 Nc6 11. Rd1 Nb4 12. Qc1 1/2-1/2

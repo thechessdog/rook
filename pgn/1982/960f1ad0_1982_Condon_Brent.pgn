@@ -1,0 +1,25 @@
+[Event "Stockton CC"]
+[Site "Stockton CC"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Condon, W."]
+[Black "Brent, M."]
+[Result "0-1"]
+[ECO "C00"]
+[Opening "French"]
+[Variation "Chigorin variation"]
+[HashCode "960f1ad0"]
+[Epoch "Rook"]
+
+1. e4 e6 2. Qe2 c5 3. f4 Nc6 4. Nf3 Nge7 5. g3 d5 6. e5 g6 7. Bg2 Bg7 8.
+Nc3 a6 9. a3 O-O 10. d3 b5 11. Bd2 Qc7 12. g4 Nd4 13. Qd1 f6 14. Nxd4 cxd4
+15. exf6 dxc3 16. Bxc3 Bxf6 17. Bxf6 Rxf6 18. f5 Qe5+ 19. Qe2 Qxe2+ 20.
+Kxe2 exf5 21. g5 Re6+ 22. Kd2 Bb7 23. Rhe1 Rxe1 24. Rxe1 Kf8 25. Re6 Rd8
+26. h4 Ng8 27. Bf3 Kf7 28. Rb6 Rd7 29. Rxb7 Ke6 30. Rxd7 Kxd7 31. Bxd5 Ne7
+32. Bb7 a5 33. c4 Kc7 34. Ba6 bxc4 35. Bxc4 Kc6 36. b4 axb4 37. axb4 Nd5
+38. b5+ Kc5 39. b6 Nxb6 40. Bg8 Nd5 41. Bxh7 Ne7 42. Bxg6 Nxg6 43. h5 Nf4
+44. g6 Nxh5 45. Ke3 Ng7 46. d4+ Kd5 47. Kf3 Kxd4 48. Kf4 Kd5 49. Kf3 Kd4
+50. Kf4 Kd5 51. Kf3 Ke5 52. Ke3 Kf6 53. Kf3 Kxg6 54. Kf2 Kg5 55. Kf3 f4 56.
+Kf2 Kg4 57. Kg2 f3+ 58. Kf2 Nf5 59. Kg1 Kg3 60. Kh1 Ne3 61. Kg1 f2+ 62. Kh1
+f1=R# 0-1
+

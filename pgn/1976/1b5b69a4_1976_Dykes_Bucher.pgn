@@ -1,0 +1,17 @@
+[Event "Denver"]
+[Site "Denver"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Dykes, D."]
+[Black "Bucher, P."]
+[Result "1-0"]
+[ECO "D35"]
+[Opening "QGD"]
+[Variation "exchange, positional line"]
+[HashCode "1b5b69a4"]
+[Epoch "Rook"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. cxd5 exd5 5. Bg5 Be7 6. e3 O-O 7. Bd3 Nbd7
+8. Qc2 c6 9. Nf3 h6 10. h4 hxg5 11. hxg5 Ne4 12. Bxe4 dxe4 13. Qxe4 g6 14.
+Qh4 1-0
+

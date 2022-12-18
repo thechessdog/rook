@@ -1,0 +1,29 @@
+[Event "Jaszbereny"]
+[Site "Jaszbereny"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Rigo, Janos"]
+[Black "Schrancz, Istvan"]
+[Result "0-1"]
+[ECO "B32"]
+[Opening "Sicilian"]
+[Variation "Labourdonnais-Loewenthal variation"]
+[HashCode "73b9a40c"]
+[Epoch "Rook"]
+[WhiteID "700371"]
+[WhiteCountry "HUN"]
+[BlackID "702978"]
+[BlackCountry "HUN"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e5 5. Nb5 a6 6. Nd6+ Bxd6 7. Qxd6 Qf6 8.
+Qd2 Nge7 9. b3 Qg6 10. Nc3 d5 11. Nxd5 Nxd5 12. Qxd5 Be6 13. Qc5 Rc8 14. Ba3
+Qxe4+ 15. Be2 Qxg2 16. O-O-O Qg5+ 17. f4 Qxf4+ 18. Kb1 Qf6 19. Rhf1 Qe7 20. Rd6
+Rc7 21. Kb2 Nd4 22. Qxe5 Rxc2+ 23. Kb1 Rxe2 24. Qxd4 O-O 25. Bb4 Bh3 26. Rf3
+Bg2 27. Rg3 Qe4+ 28. Ka1 Qxd4+ 29. Rxd4 Rc8 30. Bc3 g6 31. h4 Rc2 32. Rdd3 Be4
+33. Rde3 Rd8 34. Rg1 f5 35. h5 Kf7 36. hxg6+ hxg6 37. Rh3 Rg8 38. Rh7+ Ke6 39.
+Bb4 Ke5 40. Rf1 Re8 41. Be7 Rec8 42. Bg5 Re8 43. Rg7 Re6 44. Rf7 Kd4 45. Rd1+
+Kc5 46. Be3+ Kb4 47. Rd4+ Kc3 48. Rfd7 b5 49. Rd1 Kb4 50. R7d4+ Ka3 51. Bc1+
+Rxc1+ 52. Rxc1 g5 53. Rcd1 g4 54. b4 Rc6 55. Rg1 Rc2 56. Rg3+ Bf3 57. Rd3+ Kxb4
+58. Rb3+ Ka5 59. Rgxf3 gxf3 60. Rxf3 Rc5 61. Kb2 b4 62. a3 bxa3+ 63. Kxa3 Kb5
+64. Kb3 Kc6 65. Rf1 Kd6 66. Rd1+ Ke5 67. Kb4 Rc6 68. Re1+ Kd4 69. Rf1 Rb6+ 70.
+Ka5 Rf6 0-1

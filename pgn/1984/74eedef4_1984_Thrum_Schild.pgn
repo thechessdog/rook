@@ -1,0 +1,18 @@
+[Event "corr DDR/FS"]
+[Site "corr DDR/FS"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Thrum"]
+[Black "Schild"]
+[Result "1-0"]
+[ECO "E41"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5"]
+[HashCode "74eedef4"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 Nc6 6. Ne2 d5 7. cxd5 Nxd5 8.
+a3 Qa5 9. Bd2 Bxc3 10. Nxc3 cxd4 11. Nb5 Qb6 12. Nd6+ Ke7 13. Nc4 Qd8 14.
+e4 Nb6 15. Na5 Nxa5 16. Bxa5 Bd7 17. O-O e5 18. f4 Qb8 19. Bb4+ Ke8 20. Qh5
+exf4 21. Qg5 f6 22. Qxg7 1-0
+

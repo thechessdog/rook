@@ -1,0 +1,19 @@
+[Event "Tallinn"]
+[Site "Tallinn"]
+[Date "1981.03.01"]
+[Round "2"]
+[White "Vogt, Lothar"]
+[Black "Gipslis, Aivars"]
+[Result "1/2-1/2"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical system, 5.Be2"]
+[HashCode "24be3f88"]
+[Epoch "Rook"]
+[WhiteID "4611292"]
+[WhiteCountry "GER"]
+[BlackCountry "LVA"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Nf3 Bg7 5. Be2 O-O 6. O-O c6 7. a4 Nbd7 8. e5
+dxe5 9. dxe5 Nd5 10. Nxd5 cxd5 11. Bf4 Qc7 12. Ra3 Nxe5 13. Kh1 Rd8 14. Re3 f6
+15. b3 Bf5 16. Qa1 Be4 17. Nd2 Bf5 18. Nf3 Be4 1/2-1/2

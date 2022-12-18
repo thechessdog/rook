@@ -1,0 +1,19 @@
+[Event "corr ch-CSSR"]
+[Site "corr ch-CSSR"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Mikoska"]
+[Black "Martinko"]
+[Result "1-0"]
+[ECO "B19"]
+[Opening "Caro-Kann"]
+[Variation "classical, Spassky variation"]
+[HashCode "341e59ba"]
+[Epoch "Rook"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6 7. Nf3 Nd7 8.
+h5 Bh7 9. Bd3 Bxd3 10. Qxd3 Qc7 11. Bd2 Ngf6 12. Rh4 e6 13. O-O-O Bd6 14.
+Re1 O-O-O 15. Ne2 Nd5 16. a3 f5 17. c4 N5f6 18. Nf4 Nf8 19. Nxe6 Nxe6 20.
+Rxe6 Ne4 21. Rhxe4 fxe4 22. Qxe4 Qf7 23. Qg6 Qxg6 24. Rxg6 Rhg8 25. Be3 Bc7
+26. Nh4 Rdf8 27. g4 Bd8 28. Nf5 Bf6 29. d5 cxd5 30. cxd5 b6 31. Rxf6 1-0
+

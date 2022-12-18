@@ -1,0 +1,21 @@
+[Event "Rostock"]
+[Site "Rostock"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Lanc, Alois"]
+[Black "Tseshkovsky, Vitaly"]
+[Result "1-0"]
+[ECO "B93"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.f4"]
+[HashCode "6924d5e0"]
+[Epoch "Rook"]
+[WhiteID "14900041"]
+[WhiteCountry "SVK"]
+[BlackCountry "RUS"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 Qc7 7. Bd3 g6 8. Nf3
+Bg7 9. a4 O-O 10. O-O Nc6 11. Qe1 Nb4 12. Kh1 Qd8 13. Qh4 e6 14. f5 Nxd3 15.
+cxd3 Nd7 16. Bg5 f6 17. fxg6 hxg6 18. Be3 Ne5 19. d4 Nxf3 20. gxf3 Bd7 21. Rg1
+Be8 22. Rg3 g5 23. Qh3 e5 24. Rag1 Bd7 25. Qf1 Kh7 26. h4 exd4 27. Bxd4 Bh6 28.
+hxg5 fxg5 29. R1g2 g4 30. Rh2 Qg5 31. Nd5 1-0

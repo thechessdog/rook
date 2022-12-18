@@ -1,0 +1,23 @@
+[Event "Agard"]
+[Site "Agard"]
+[Date "1976.01.01"]
+[Round "10"]
+[White "Paoli, Enrico"]
+[Black "Horvath, Gyula"]
+[Result "0-1"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (without ...d6)"]
+[HashCode "6c0749ef"]
+[Epoch "Rook"]
+[BlackID "700223"]
+[BlackCountry "HUN"]
+[WhiteCountry "ITA"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 e6 4. Bxc6 bxc6 5. O-O d6 6. b3 e5 7. d3 Ne7 8. Nbd2
+g6 9. Nc4 Bg7 10. Bd2 O-O 11. b4 d5 12. Ne3 c4 13. dxc4 d4 14. Qe2 dxe3 15.
+Bxe3 f5 16. Rfd1 Qe8 17. Bc5 h6 18. Ne1 fxe4 19. Qxe4 Rf4 20. Qd3 Ba6 21. b5
+Bc8 22. Rab1 Bf5 23. Qd6 Nc8 24. Qc7 Nb6 25. bxc6 Rxc4 26. Bxb6 axb6 27. Rxb6
+Rc8 28. Qa7 R4xc6 29. Rb7 Bf8 30. h3 Ra8 31. Qe3 Ra3 32. Qe2 Rxa2 33. g4 Bc8
+34. Rb8 Bxg4 35. Rxe8 Bxe2 36. Rdd8 Rf6 37. Rxe5 Bc4 38. Rc8 Re6 39. Rxe6 Bxe6
+40. Rc6 Kf7 41. Rc7+ Kf6 42. Kg2 Bd6 43. Rc3 Bd5+ 44. Nf3 Ra3 0-1

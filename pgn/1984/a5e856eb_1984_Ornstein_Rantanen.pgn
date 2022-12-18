@@ -1,0 +1,24 @@
+[Event "Helsinki"]
+[Site "Helsinki"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Ornstein, Axel"]
+[Black "Rantanen, Yrjo A."]
+[Result "1-0"]
+[ECO "C64"]
+[Opening "Ruy Lopez"]
+[Variation "Cordel gambit"]
+[HashCode "a5e856eb"]
+[Epoch "Rook"]
+[BlackID "500038"]
+[BlackCountry "FIN"]
+[WhiteID "1700111"]
+[WhiteCountry "SWE"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. c3 f5 5. d4 fxe4 6. Nxe5 Nxe5 7. Qh5+ Ng6 8.
+dxc5 Nf6 9. Qg5 c6 10. Be2 d5 11. cxd6 Qxd6 12. Be3 Be6 13. Nd2 O-O-O 14. O-O-O
+Qc7 15. Qc5 Nf4 16. Bxf4 Qxf4 17. g3 Qh6 18. Qxa7 Ng4 19. Kb1 Nxf2 20. Ba6 bxa6
+21. Qxa6+ Kd7 22. Nxe4+ Nxd1 23. Rxd1+ Bd5 24. Nc5+ Ke8 25. Qe2+ Kf7 26. Rf1+
+Kg8 27. Qe7 Qg6+ 28. Ka1 Ra8 29. b3 h6 30. c4 Kh7 31. cxd5 Rhe8 32. Qd7 Re2 33.
+a4 Qc2 34. Qf5+ Qxf5 35. Rxf5 Rd8 36. Ne6 Rxd5 37. Rxd5 cxd5 38. Nf4 Re5 39.
+Kb2 d4 40. b4 1-0

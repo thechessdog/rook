@@ -1,0 +1,19 @@
+[Event "Banco di Roma"]
+[Site "Banco di Roma"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Benko, Pal"]
+[Black "Velikov, Petar"]
+[Result "1/2-1/2"]
+[ECO "D10"]
+[Opening "QGD Slav defence"]
+[Variation "exchange variation"]
+[HashCode "4694fa5a"]
+[Epoch "Rook"]
+[WhiteID "2000687"]
+[WhiteCountry "USA"]
+[BlackID "2900149"]
+[BlackCountry "FID"]
+
+1. c4 c6 2. d4 d5 3. cxd5 cxd5 4. Nc3 Nc6 5. Bf4 Nf6 6. e3 Bf5 7. Nf3 e6 8. Ne5
+Nd7 9. Bb5 Ndxe5 10. Bxe5 Rc8 11. O-O 1/2-1/2

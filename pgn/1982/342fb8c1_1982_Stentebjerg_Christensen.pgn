@@ -1,0 +1,19 @@
+[Event "corr ch-DK"]
+[Site "corr ch-DK"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Stentebjerg"]
+[Black "Christensen"]
+[Result "0-1"]
+[ECO "D14"]
+[Opening "QGD Slav"]
+[Variation "exchange variation, 6.Bf4 Bf5"]
+[HashCode "342fb8c1"]
+[Epoch "Rook"]
+
+1. d4 d5 2. Nf3 c5 3. c3 cxd4 4. cxd4 Nf6 5. Nc3 Nc6 6. Bf4 Bf5 7. e3 e6 8.
+Ne5 Bd6 9. Bb5 Bxe5 10. Bxe5 O-O 11. Bxc6 bxc6 12. O-O Nd7 13. Bd6 Re8 14.
+Rc1 Nb6 15. Bg3 Qe7 16. Ne2 Rac8 17. Rc5 Nd7 18. Ra5 Ra8 19. a3 Rec8 20. b4
+Nb6 21. Rc5 a5 22. b5 cxb5 23. Rxb5 Nc4 24. a4 Na3 25. Rb2 Bc2 26. Qa1 Bxa4
+27. Ra2 Nc2 28. Qb1 Qb4 0-1
+

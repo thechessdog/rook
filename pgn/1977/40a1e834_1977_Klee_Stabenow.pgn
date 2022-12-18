@@ -1,0 +1,22 @@
+[Event "corr DDR-FSM"]
+[Site "corr DDR-FSM"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Klee, U."]
+[Black "Stabenow, J."]
+[Result "1-0"]
+[ECO "B17"]
+[Opening "Caro-Kann"]
+[Variation "Steinitz variation"]
+[HashCode "40a1e834"]
+[Epoch "Rook"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Bc4 Ngf6 6. Ng5 e6 7. Qe2 Nb6
+8. Bd3 h6 9. N5f3 c5 10. dxc5 Bxc5 11. Ne5 Nbd7 12. Ngf3 O-O 13. O-O b6 14.
+Bf4 Bb7 15. Rad1 Qe7 16. c3 a5 17. Bb5 Nxe5 18. Nxe5 Rfc8 19. Rd3 Nd5 20.
+Bc1 Qh4 21. Rg3 Nf6 22. Bd3 Be4 23. Ba6 Qh5 24. Ng4 Nxg4 25. Rxg4 Bg6 26.
+Bxc8 Rxc8 27. Qd1 Bd6 28. Bf4 Bc5 29. Rg3 Qf5 30. Be3 Bxe3 31. Rxe3 Qb5 32.
+b3 Rc5 33. Rfe1 Qc6 34. c4 a4 35. Re5 axb3 36. Rxc5 Qxc5 37. Qxb3 h5 38.
+Rd1 f6 39. a3 Be4 40. Qe3 Qc6 41. f3 Bf5 42. Rc1 e5 43. c5 bxc5 44. Qxc5
+Qa4 45. Qc4+ 1-0
+

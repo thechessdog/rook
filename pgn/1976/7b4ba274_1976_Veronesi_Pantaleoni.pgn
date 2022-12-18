@@ -1,0 +1,20 @@
+[Event "Bologna"]
+[Site "Bologna"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Veronesi, CA."]
+[Black "Pantaleoni, Claudio"]
+[Result "0-1"]
+[ECO "E82"]
+[Opening "King's Indian"]
+[Variation "Saemisch, double fianchetto variation"]
+[HashCode "7b4ba274"]
+[Epoch "Rook"]
+[BlackID "800945"]
+[BlackCountry "ITA"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 b6 7. Qd2 c5 8. d5 e6
+9. Bd3 exd5 10. exd5 Nbd7 11. O-O-O Ne5 12. g4 a6 13. h4 h5 14. gxh5 Nxh5 15.
+Qg2 b5 16. cxb5 Nxd3+ 17. Rxd3 axb5 18. Kb1 b4 19. Ne4 c4 20. Rd1 Qa5 21. b3
+cxb3 22. Rd2 b2 23. Rxb2 Bxb2 24. Qxb2 Qxd5 25. Bd4 Be6 26. Rh2 Rxa2 27. Qxa2
+Qxd4 28. Qf2 Qd1+ 29. Kb2 Qb3+ 30. Kc1 Rc8+ 0-1

@@ -1,0 +1,25 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Nieminen"]
+[Black "Sabel"]
+[Result "0-1"]
+[ECO "C08"]
+[Opening "French"]
+[Variation "Tarrasch, open, 4.ed ed"]
+[HashCode "f9366f6b"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. exd5 exd5 5. Qe2+ Be7 6. dxc5 Nf6 7. Nb3 O-O
+8. Be3 Re8 9. O-O-O a5 10. Qb5 Bd7 11. Qxb7 Nc6 12. Nd4 Nb4 13. c6 Nxa2+
+14. Kb1 Nc3+ 15. Kc1 Bc8 16. c7 Qd6 17. Qxa8 Nxd1 18. Qxa5 Nxf2 19. Nb5 Qe5
+20. Bxf2 Qf4+ 21. Qd2 Qxd2+ 22. Kxd2 Ne4+ 23. Ke2 Ba6 24. c4 dxc4 25. Nc3
+Nxc3+ 26. bxc3 Bh4+ 27. Be3 Bg5 28. Nf3 Bxe3 29. Kd1 Rc8 30. Nd2 Rxc7 31.
+Bxc4 Bxc4 32. Re1 Bb3+ 33. Nxb3 Rxc3 34. Na1 g5 35. Nc2 Bf4 36. Re8+ Kg7
+37. h3 Rd3+ 38. Ke1 h5 39. Kf2 h4 40. Ne1 Rd2+ 41. Kf1 Bg3 42. Nf3 Rf2+ 43.
+Kg1 Ra2 44. Kf1 f6 45. Rd8 Kf7 46. Rd2 Ra8 47. Rb2 Kg6 48. Rc2 Ra5 49. Ke2
+Kf5 50. Nd4+ Ke4 51. Nf3 Ra4 52. Nd2+ Kf5 53. Nf3 Bb8 54. Nd2 Be5 55. Rc4
+Ra2 56. Kd3 Bf4 57. Rc5+ Kg6 58. Rc2 Rxc2 59. Kxc2 Bxd2 60. Kxd2 Kf5 61.
+Ke3 Ke5 0-1
+

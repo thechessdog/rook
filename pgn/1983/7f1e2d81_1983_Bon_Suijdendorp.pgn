@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Bon, P."]
+[Black "Suijdendorp, H."]
+[Result "1/2-1/2"]
+[ECO "B71"]
+[Opening "Sicilian"]
+[Variation "dragon, Levenfish; Flohr variation"]
+[HashCode "7f1e2d81"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. f4 Nbd7 7. Be2 Bg7
+8. O-O a6 9. Kh1 O-O 10. Bf3 e5 11. Nde2 exf4 12. Bxf4 Ne5 13. Bxe5 dxe5
+14. Qxd8 Rxd8 15. Rad1 Be6 16. h3 h5 17. Nc1 Ne8 18. Rxd8 Rxd8 19. Rd1
+Rxd1+ 1/2-1/2
+

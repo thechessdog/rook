@@ -1,0 +1,24 @@
+[Event "corr DFSM"]
+[Site "corr DFSM"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Born"]
+[Black "Soltau"]
+[Result "0-1"]
+[ECO "D87"]
+[Opening "Gruenfeld"]
+[Variation "exchange, Spassky variation"]
+[HashCode "d99d8c0d"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Bc4 O-O
+8. Ne2 c5 9. O-O Nc6 10. Be3 Na5 11. Bd3 b6 12. Rc1 e6 13. dxc5 Qc7 14.
+cxb6 axb6 15. Qa4 Bd7 16. Qb4 b5 17. Bxb5 Bxb5 18. Qxb5 Rfb8 19. Qd3 Nc4
+20. Rb1 Rd8 21. Nd4 Rxa2 22. Bg5 Rc8 23. Rb4 h6 24. Nb5 Qc6 25. Bf4 e5 26.
+Be3 Nxe3 27. fxe3 Bf8 28. Rbb1 Rd8 29. Nd4 exd4 30. cxd4 Rc8 31. Qb3 Qc4
+32. Qxc4 Rxc4 33. Rf2 Ra3 34. Rf3 Rcc3 35. Rbf1 Rxe3 36. Rxf7 Bg7 37. e5
+Ra2 38. Rd7 h5 39. Rdf7 Rd2 40. g4 h4 41. R7f4 Ree2 42. R1f3 Bh6 43. g5
+Rg2+ 44. Kf1 Rxh2 45. Kg1 Rdg2+ 46. Kf1 Rxg5 47. Rf6 Rgg2 48. e6 Ra2 49.
+Kg1 Rhe2 50. Rxg6+ Kh7 51. Rgf6 Re1+ 52. Rf1 Be3+ 53. Kh1 Ree2 54. Rf7+ Kg6
+0-1
+

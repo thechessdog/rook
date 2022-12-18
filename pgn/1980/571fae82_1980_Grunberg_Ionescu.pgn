@@ -1,0 +1,18 @@
+[Event "Bucharest"]
+[Site "Bucharest"]
+[Date "1980.??.??"]
+[Round "11"]
+[White "Grunberg, Sergiu Henric"]
+[Black "Ionescu, Constantin"]
+[Result "1/2-1/2"]
+[ECO "D34"]
+[Opening "QGD"]
+[Variation "Tarrasch, Prague variation, 9.Bg5"]
+[HashCode "571fae82"]
+[Epoch "Rook"]
+[BlackID "1200089"]
+[BlackCountry "ROU"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Nf3 c5 5. cxd5 exd5 6. g3 Nc6 7. Bg2 Be7 8. O-O
+O-O 9. Bg5 Be6 10. e3 Ne4 11. Bxe7 Qxe7 12. dxc5 Nxc3 13. bxc3 Qxc5 14. Qb3 Na5
+15. Qb4 Rac8 16. Rfc1 Rc7 17. Qf4 b6 18. Nd4 Qe7 19. Nf5 1/2-1/2

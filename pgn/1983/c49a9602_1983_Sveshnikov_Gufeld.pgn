@@ -1,0 +1,25 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Sveshnikov, Evgeny"]
+[Black "Gufeld, Eduard"]
+[Result "1-0"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "c49a9602"]
+[Epoch "Rook"]
+[WhiteID "4100638"]
+[WhiteCountry "RUS"]
+[BlackCountry "RUS"]
+
+1. e4 c5 2. c3 d6 3. d4 Nf6 4. f3 Nbd7 5. Be3 e5 6. dxc5 dxc5 7. a4 Be7 8. Na3
+O-O 9. Qc2 Nb8 10. Bc4 Nc6 11. Ne2 Na5 12. Ba2 Qc7 13. Nc4 Be6 14. Nxa5 Bxa2
+15. b3 Qxa5 16. Rxa2 c4 17. b4 Qa6 18. Kf2 Rfd8 19. Rd1 h6 20. Ng3 Bf8 21. Raa1
+Rd3 22. Rxd3 cxd3 23. Qb3 Rd8 24. Rd1 b6 25. Ne2 b5 26. axb5 Qxb5 27. Nc1 a5
+28. bxa5 Qxa5 29. Nxd3 Rc8 30. c4 Nd7 31. Qb5 Qc7 32. Ra1 Nc5 33. Nxc5 Bxc5 34.
+Bxc5 Qxc5+ 35. Qxc5 Rxc5 36. Ra8+ Kh7 37. Ra4 Kg6 38. Ke3 Kf6 39. Kd3 Ke6 40.
+Kc3 Rc8 41. Ra6+ Kd7 42. Ra5 Ke6 43. Rd5 Rb8 44. Rd1 Rc8 45. Rd5 Rb8 46. c5 Rb5
+47. g4 h5 48. gxh5 f6 49. h4 Rb1 50. Rd6+ Ke7 51. Rd3 Rh1 52. Kc4 Rxh4 53. c6
+Rxh5 54. c7 Rh1 55. c8=Q 1-0

@@ -1,0 +1,17 @@
+[Event "corr ch-CSSR"]
+[Site "corr ch-CSSR"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Valtera"]
+[Black "Bechyne"]
+[Result "1/2-1/2"]
+[ECO "B83"]
+[Opening "Sicilian"]
+[Variation "modern Scheveningen, main line"]
+[HashCode "ae0ca574"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be2 Be7 7. O-O Nc6
+8. Be3 O-O 9. f4 e5 10. fxe5 dxe5 11. Nf5 Bxf5 12. Rxf5 Qxd1+ 13. Rxd1 g6
+14. Rff1 Nd4 15. Bd3 Ng4 16. Nd5 1/2-1/2
+

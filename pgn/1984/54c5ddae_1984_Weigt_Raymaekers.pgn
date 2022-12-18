@@ -1,0 +1,20 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Weigt"]
+[Black "Raymaekers"]
+[Result "1/2-1/2"]
+[ECO "D90"]
+[Opening "Gruenfeld"]
+[Variation "Three knights variation"]
+[HashCode "54c5ddae"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. cxd5 Nxd5 6. Bd2 O-O 7. Rc1 Nb6
+8. Bg5 h6 9. Bh4 c6 10. e3 Be6 11. Qc2 N8d7 12. Bd3 Rc8 13. Ne4 Nd5 14. a3
+f5 15. Nc5 Nxc5 16. Qxc5 b6 17. Qc2 g5 18. Bg3 f4 19. exf4 Nxf4 20. Bc4 Bd5
+21. O-O Kh8 22. Ne5 Bxe5 23. dxe5 Bxc4 24. Qxc4 Qd5 25. Bxf4 gxf4 26. Rfe1
+Rg8 27. Qe4 f3 28. g3 Qxe4 29. Rxe4 Rgf8 30. Rc3 Rcd8 31. Re1 Rf5 32. h3 c5
+33. Rc2 1/2-1/2
+

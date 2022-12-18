@@ -1,0 +1,18 @@
+[Event "corr CCLA"]
+[Site "corr CCLA"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Smith, Andrew Philip"]
+[Black "Van der Hoek"]
+[Result "1-0"]
+[ECO "C09"]
+[Opening "French"]
+[Variation "Tarrasch, open variation, main line"]
+[HashCode "6449d6ca"]
+[Epoch "Rook"]
+[WhiteID "2500833"]
+[WhiteCountry "IRL"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. Ngf3 Nc6 5. exd5 exd5 6. Bb5 Bd6 7. dxc5 Bxc5 8.
+O-O Ne7 9. Nb3 Bd6 10. Bg5 O-O 11. Bh4 Qb6 12. Bxe7 Nxe7 13. Be2 Be6 14. c3 h6
+15. a4 Nc6 16. a5 Qc7 17. a6 1-0

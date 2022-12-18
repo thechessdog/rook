@@ -1,0 +1,20 @@
+[Event "Argentina"]
+[Site "Argentina"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Bronstein, Luis Marcos"]
+[Black "Aparicio, Anibal"]
+[Result "1-0"]
+[ECO "B96"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Polugayevsky, Simagin variation"]
+[HashCode "6074bc5a"]
+[Epoch "Rook"]
+[WhiteID "100463"]
+[WhiteCountry "ARG"]
+[BlackID "101133"]
+[BlackCountry "ARG"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 b5 8. e5
+dxe5 9. fxe5 Qc7 10. Qe2 Nfd7 11. O-O-O Bb7 12. Qh5 g6 13. Qh4 Qxe5 14. Re1 Qc5
+15. Bd3 Qb6 16. Rhf1 Bg7 17. Nxe6 fxe6 18. Qxh7 1-0

@@ -1,0 +1,19 @@
+[Event "Belgrade"]
+[Site "Belgrade"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Vasiljevic, Dragan"]
+[Black "Jovanovic, Nenad"]
+[Result "1-0"]
+[ECO "E41"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5"]
+[HashCode "10a0f471"]
+[Epoch "Rook"]
+[WhiteID "902985"]
+[WhiteCountry "SRB"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 Nc6 6. Ne2 cxd4 7. exd4 d5 8. O-O
+dxc4 9. Bxc4 O-O 10. a3 Be7 11. Qd3 b6 12. Rd1 Bb7 13. Qh3 Rc8 14. Ba2 Na5 15.
+Rd3 Nd5 16. Nf4 Nxc3 17. bxc3 Be4 18. Nxe6 Qe8 19. Re3 Qa4 20. Bd2 Bb7 21. Nxf8
+Bxf8 22. Bxf7+ 1-0

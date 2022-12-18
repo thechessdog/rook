@@ -1,0 +1,20 @@
+[Event "Groningen"]
+[Site "Groningen"]
+[Date "1984.01.01"]
+[Round "5"]
+[White "Pereira, Fernando"]
+[Black "Hickl, Joerg"]
+[Result "0-1"]
+[ECO "E65"]
+[Opening "King's Indian"]
+[Variation "fianchetto, Yugoslav, 7.O-O"]
+[HashCode "ef411aa5"]
+[Epoch "Rook"]
+[WhiteID "1900153"]
+[WhiteCountry "POR"]
+[BlackID "4600118"]
+[BlackCountry "GER"]
+
+1. c4 Nf6 2. Nc3 c5 3. Nf3 g6 4. g3 Bg7 5. Bg2 O-O 6. O-O d6 7. d4 Na6 8. e4
+Bg4 9. Be3 Rc8 10. d5 Bd7 11. h3 Rb8 12. a4 Nb4 13. e5 Ne8 14. g4 Rc8 15. Bf4
+a6 16. Qe2 b5 17. Bg5 dxe5 18. Nxe5 Bxe5 19. Qxe5 f6 20. Qe2 fxg5 0-1

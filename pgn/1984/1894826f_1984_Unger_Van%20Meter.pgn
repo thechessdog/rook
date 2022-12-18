@@ -1,0 +1,20 @@
+[Event "Midwest Masters II"]
+[Site "Midwest Masters II"]
+[Date "1984.01.01"]
+[Round "5"]
+[White "Unger, Thomas"]
+[Black "Van Meter, Lester"]
+[Result "1-0"]
+[ECO "D15"]
+[Opening "QGD Slav"]
+[Variation "Tolush-Geller gambit"]
+[HashCode "1894826f"]
+[Epoch "Rook"]
+[WhiteID "2011956"]
+[WhiteCountry "USA"]
+[BlackID "2001691"]
+[BlackCountry "USA"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. e4 b5 6. e5 Nd5 7. a4 e6 8. axb5
+Bb4 9. Bd2 Bxc3 10. bxc3 cxb5 11. Ng5 Qe7 12. Qh5 Kf8 13. Be2 a5 14. O-O Ra7
+15. Rfb1 Bd7 16. Bxc4 1-0

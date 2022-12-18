@@ -1,0 +1,18 @@
+[Event "San Pablo"]
+[Site "San Pablo"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Rocha, Antonio"]
+[Black "Izquierdo"]
+[Result "0-1"]
+[ECO "B71"]
+[Opening "Sicilian"]
+[Variation "dragon, Levenfish variation"]
+[HashCode "a47dbe9f"]
+[Epoch "Rook"]
+[WhiteID "1901869"]
+[WhiteCountry "POR"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. f4 Nc6 7. Nxc6 bxc6 8.
+e5 Nd7 9. exd6 exd6 10. Qd4 Nf6 11. Be3 Be7 12. O-O-O O-O 13. h3 Qa5 14. g4 Be6
+15. f5 Bxa2 16. Bh6 Rfb8 17. g5 Rb4 18. Qe3 Nd5 19. Nxd5 cxd5 20. Qxe7 Rxb2 0-1

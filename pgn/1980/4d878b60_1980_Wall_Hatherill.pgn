@@ -1,0 +1,15 @@
+[Event "Dayton,OH"]
+[Site "Dayton,OH"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Wall, Bill"]
+[Black "Hatherill, Chuck"]
+[Result "1-0"]
+[ECO "C20"]
+[Opening "King's pawn game"]
+[HashCode "4d878b60"]
+[Epoch "Rook"]
+[WhiteCountry "USA"]
+
+1. e4 e5 2. d4 d6 3. dxe5 Nc6 4. exd6 cxd6 5. Bb5 Qa5+ 6. Nc3 Bd7 7. Bxc6 bxc6
+8. Bd2 Qb4 9. Nf3 Nf6 10. O-O d5 11. Nxd5 Qxe4 12. Re1 1-0

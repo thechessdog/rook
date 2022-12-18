@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Sauermann, Wilfried"]
+[Black "Nowak, Jan"]
+[Result "1-0"]
+[ECO "B06"]
+[Opening "Robatsch defence"]
+[Variation "Pseudo-Austrian attack"]
+[HashCode "b72008c2"]
+[Epoch "Rook"]
+[BlackID "1108310"]
+[BlackCountry "POL"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. f4 c6 5. Nf3 Nf6 6. Bd3 O-O 7. e5 dxe5 8. fxe5
+Nd5 9. Nxd5 Qxd5 10. Qe2 Bg4 11. c3 Na6 12. O-O Nc7 13. h3 Bxf3 14. Rxf3 Qd7
+15. Bd2 Rad8 16. Raf1 b5 17. Bg5 Ne6 18. Bh4 f6 19. exf6 exf6 20. Bxf6 Bxf6 21.
+Rxf6 Rxf6 22. Rxf6 Nxd4 23. Qe5 1-0

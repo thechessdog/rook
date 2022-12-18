@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Keglevic, Pavao"]
+[Black "Berta, Matyas"]
+[Result "1/2-1/2"]
+[ECO "C69"]
+[Opening "Ruy Lopez"]
+[Variation "exchange variation, Alapin gambit"]
+[HashCode "c36206e0"]
+[Epoch "Rook"]
+[WhiteID "14500680"]
+[WhiteCountry "CRO"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O Bg4 6. h3 h5 7. d3 Qf6 8.
+Nbd2 Ne7 9. Re1 Ng6 10. d4 Nf4 11. hxg4 hxg4 12. g3 gxf3 13. Qxf3 Ne6 14. dxe5
+Qxe5 15. Qf5 Qc5 16. Nf3 g6 17. Qxc5 Bxc5 18. Bd2 Bd4 19. c3 1/2-1/2

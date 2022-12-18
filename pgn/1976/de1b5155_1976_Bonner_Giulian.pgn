@@ -1,0 +1,22 @@
+[Event "SCO-ch"]
+[Site "Dundee"]
+[Date "1976.07.19"]
+[Round "3"]
+[White "Bonner, Gerald"]
+[Black "Giulian, Philip M"]
+[Result "0-1"]
+[ECO "B03"]
+[Opening "Alekhine's defence"]
+[Variation "four pawns attack, 7.Be3"]
+[HashCode "de1b5155"]
+[Epoch "Rook"]
+[WhiteID "2400340"]
+[BlackID "2400197"]
+[WhiteCountry "SCO"]
+[BlackCountry "SCO"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. c4 Nb6 5. f4 dxe5 6. fxe5 Nc6 7. Be3 Bf5 8. Nc3
+e6 9. Nf3 Nb4 10. Rc1 c5 11. a3 cxd4 12. Nxd4 Nc6 13. Nxf5 exf5 14. Nd5 Nxd5
+15. cxd5 Qa5+ 16. b4 Qxa3 17. Kf2 Nxe5 18. Bb5+ Kd8 19. Re1 Bxb4 20. Bg5+ f6
+21. Rxe5 fxg5 22. Qc2 Bd6 23. Re3 Qb4 24. Rb3 Qf4+ 25. Rf3 Qd4+ 26. Kf1 g6 27.
+Qe2 Bc5 28. Ke1 a6 29. Rxc5 axb5 0-1

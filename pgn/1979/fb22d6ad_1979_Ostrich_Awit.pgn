@@ -1,0 +1,27 @@
+[Event "ACM Detroit"]
+[Site "ACM Detroit"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Ostrich"]
+[Black "Awit"]
+[Result "1/2-1/2"]
+[ECO "B51"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky (Nimzovich-Rossolimo, Moscow) attack"]
+[HashCode "fb22d6ad"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Nc6 4. O-O Bd7 5. Nc3 Nf6 6. d4 a6 7. Bxc6 Bxc6
+8. Be3 Qb6 9. b3 Nxe4 10. Nxe4 Bxe4 11. c3 Qc6 12. Qe2 O-O-O 13. Ng5 Bg6
+14. Nf3 Bh5 15. Bg5 Kd7 16. Rad1 Bxf3 17. gxf3 cxd4 18. cxd4 Qd5 19. f4 h6
+20. Bh4 g5 21. fxg5 hxg5 22. Bg3 Rc8 23. Rd3 Bg7 24. Rfd1 e6 25. Qe3 b5 26.
+f4 f6 27. fxg5 Rc2 28. R1d2 Rc1+ 29. Be1 Qxg5+ 30. Qxg5 fxg5 31. Re3 Ke7
+32. Kg2 g4 33. Ree2 Bf6 34. Bg3 Bg5 35. Rd3 d5 36. a4 bxa4 37. bxa4 Ra1 38.
+Be5 Rg8 39. Kg3 Bh6 40. Kh4 Rxa4 41. Rg2 a5 42. Rxg4 Rf8 43. Kh5 Bc1 44.
+Rg7+ Rf7 45. Bd6+ Kxd6 46. Rxf7 Rc4 47. Kg6 Rc2 48. h4 a4 49. Rff3 a3 50.
+Rb3 a2 51. Rb6+ Kc7 52. Ra6 Kb7 53. Ra4 Kb6 54. Rf6 Kb5 55. Ra8 Be3 56.
+Rxe6 Bxd4 57. Rb8+ Ka5 58. Ra8+ Kb5 59. Rb8+ Kc4 60. Rc6+ Kd3 61. Rb3+ Bc3
+62. Ra6 Rg2+ 63. Kh5 Kc4 64. Rba3 a1=Q 65. R6a4+ Kd3 66. Rxa1 Bxa1 67. Rxa1
+Rg8 68. Rd1+ Ke4 69. Re1+ Kf5 70. Rf1+ Ke4 71. Re1+ Kf4 72. Rd1 Ke5 73.
+Re1+ Kd6 74. Rd1 Ke5 75. Re1+ Kd6 76. Rd1 Ke5 1/2-1/2
+

@@ -1,0 +1,14 @@
+[Event "Winston-Salem,NC"]
+[Site "Winston-Salem,NC"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Wall, Bill"]
+[Black "Buchanan, Richard W"]
+[Result "0-1"]
+[ECO "A45"]
+[Opening "Trompovsky attack (Ruth, Opovcensky opening)"]
+[HashCode "9889fcf5"]
+[Epoch "Rook"]
+[WhiteCountry "USA"]
+
+1. d4 Nf6 2. Bg5 d5 3. e3 e6 4. c4 c6 5. Bd3 dxc4 6. Bxc4 Qa5+ 0-1

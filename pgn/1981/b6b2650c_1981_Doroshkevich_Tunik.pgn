@@ -1,0 +1,20 @@
+[Event "Novosibirsk"]
+[Site "Novosibirsk"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Doroshkievich, Vladimir K"]
+[Black "Tunik, Gennady"]
+[Result "1-0"]
+[ECO "E39"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, Pirc variation"]
+[HashCode "b6b2650c"]
+[Epoch "Rook"]
+[BlackID "4101219"]
+[WhiteCountry "RUS"]
+[BlackCountry "RUS"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 c5 5. dxc5 O-O 6. a3 Bxc5 7. Nf3 d5 8. Bg5
+d4 9. Bxf6 gxf6 10. O-O-O Nc6 11. e3 e5 12. exd4 Nxd4 13. Nxd4 Bxd4 14. Nb5 Bg4
+15. f3 Be3+ 16. Kb1 Bd7 17. Bd3 Qe7 18. Nc7 Ba4 19. Bxh7+ Kg7 20. Qxa4 Qxc7 21.
+Rd7 Qb6 22. Be4 Rab8 23. Bd5 a5 24. c5 Qxc5 25. Qg4+ 1-0

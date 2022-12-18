@@ -1,0 +1,19 @@
+[Event "Zrenjanin"]
+[Site "Zrenjanin"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Barczay, Laszlo"]
+[Black "Spiridonov, Nikola"]
+[Result "1-0"]
+[ECO "B12"]
+[Opening "Caro-Kann"]
+[Variation "Tartakower (fantasy) variation"]
+[HashCode "05544cf6"]
+[Epoch "Rook"]
+[BlackID "2900238"]
+[WhiteCountry "HUN"]
+[BlackCountry "FID"]
+
+1. e4 c6 2. d4 d5 3. f3 g6 4. Nc3 Bg7 5. Be3 Qb6 6. Rb1 dxe4 7. fxe4 e5 8. Nf3
+Nd7 9. Bc4 Ngf6 10. Qe2 Qc7 11. Bxf7+ Kxf7 12. Qc4+ Ke8 13. Qe6+ Kd8 14. Ng5
+Rf8 15. Rd1 exd4 16. Bxd4 Ne8 17. Bc5 Qf4 18. Qe7+ 1-0

@@ -1,0 +1,20 @@
+[Event "Poznan"]
+[Site "Poznan"]
+[Date "1984.01.01"]
+[Round "6"]
+[White "Kaposztas, Miklos"]
+[Black "Paehtz, Thomas"]
+[Result "1/2-1/2"]
+[ECO "A31"]
+[Opening "English"]
+[Variation "symmetrical, Benoni formation"]
+[HashCode "46cdce6a"]
+[Epoch "Rook"]
+[WhiteID "700711"]
+[WhiteCountry "HUN"]
+[BlackID "4611349"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 c5 3. Nf3 cxd4 4. Nxd4 e5 5. Nc2 d5 6. cxd5 Qxd5 7. Qxd5 Nxd5
+8. e4 Nb4 9. Bb5+ N8c6 10. Nxb4 Bxb4+ 11. Bd2 Bd7 12. Bxc6 Bxd2+ 13. Kxd2 Bxc6
+14. Nc3 1/2-1/2

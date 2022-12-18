@@ -1,0 +1,17 @@
+[Event "Regionalliga Nord"]
+[Site "RLN 8182"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Teloudis, Angelis"]
+[Black "Lotzwick, Horst"]
+[Result "1-0"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra gambit"]
+[HashCode "a54a7a4f"]
+[Epoch "Rook"]
+
+1. e4 c5 2. d4 cxd4 3. c3 d5 4. exd5 Qxd5 5. cxd4 Nc6 6. Nf3 e6 7. Nc3 Bb4 8.
+Be2 Nf6 9. O-O Bxc3 10. bxc3 O-O 11. c4 Qa5 12. Bb2 Rd8 13. Qb3 Ne4 14. Rfd1
+Bd7 15. Bd3 Ng5 16. Ne1 h6 17. d5 Ne7 18. Bc3 Qa4 19. Qb2 f6 20. Bxf6 gxf6 21.
+Qxf6 Nf5 22. dxe6 Bxe6 23. h4 Ng7 24. hxg5 Rf8 25. Qxh6 Bf5 26. g6 1-0

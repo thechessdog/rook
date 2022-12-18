@@ -1,0 +1,17 @@
+[Event "corr Tch-SWE"]
+[Site "corr Tch-SWE"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Beijar, Hans"]
+[Black "Eriksson, Matts"]
+[Result "1-0"]
+[ECO "B04"]
+[Opening "Alekhine's defence"]
+[Variation "modern, fianchetto variation"]
+[HashCode "40f81721"]
+[Epoch "Rook"]
+[BlackID "1714252"]
+[BlackCountry "SWE"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. Nf3 g6 5. Bc4 Nb6 6. Bb3 a5 7. e6 f6 8. Ng5 c6
+9. Nf7 Qc7 10. Nxh8 a4 11. Nxg6 hxg6 12. Qg4 g5 13. Qh5+ 1-0

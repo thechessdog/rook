@@ -1,0 +1,20 @@
+[Event "BL2-N 8081"]
+[Site "BL2-N 8081"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Stelting, Thorsten"]
+[Black "Schramm, Bernd"]
+[Result "1/2-1/2"]
+[ECO "C10"]
+[Opening "French"]
+[Variation "Frere (Becker) variation"]
+[HashCode "ee3f05bc"]
+[Epoch "Rook"]
+[WhiteID "4605616"]
+[WhiteCountry "GER"]
+[BlackID "4653858"]
+[BlackCountry "GER"]
+
+1. e4 e6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Qd5 5. Bd3 Nf6 6. Qf3 Qxd4 7. Ne2 Qd8 8.
+Bd2 Nbd7 9. Bc3 Nd5 10. O-O-O Nxc3 11. N2xc3 Be7 12. Qg3 O-O 13. h4 h6 14. Nb5
+c6 15. Nc7 Rb8 16. Ng5 Bxg5+ 17. hxg5 Qxg5+ 18. Qxg5 hxg5 19. Bh7+ 1/2-1/2

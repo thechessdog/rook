@@ -1,0 +1,19 @@
+[Event "Phoenix op"]
+[Site "Phoenix"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Prcic, M."]
+[Black "Tarjan, James"]
+[Result "0-1"]
+[ECO "B88"]
+[Opening "Sicilian"]
+[Variation "Sozin, Leonhardt variation"]
+[HashCode "c6fe479f"]
+[Epoch "Rook"]
+[BlackID "2000180"]
+[BlackCountry "USA"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bc4 e6 7. Bb3 a6 8. Be3
+Qc7 9. f4 Na5 10. f5 Nxb3 11. axb3 Be7 12. g4 d5 13. g5 Nxe4 14. Nxe4 dxe4 15.
+fxe6 O-O 16. Nf5 Bxe6 17. Nxe7+ Qxe7 18. O-O Bh3 19. Rf2 Qe6 20. Rf4 f6 21. Ra4
+fxg5 22. Raxe4 Qc6 23. Rg4 Rf1+ 0-1

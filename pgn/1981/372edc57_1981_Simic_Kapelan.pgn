@@ -1,0 +1,23 @@
+[Event "Vrsac"]
+[Site "Vrsac"]
+[Date "1981.01.01"]
+[Round "4"]
+[White "Simic, Sinisa"]
+[Black "Kapelan, Milorad"]
+[Result "0-1"]
+[ECO "C43"]
+[Opening "Petrov"]
+[Variation "modern attack, Symmetrical variation"]
+[HashCode "372edc57"]
+[Epoch "Rook"]
+[WhiteID "905500"]
+[WhiteCountry "SRB"]
+[BlackID "904147"]
+[BlackCountry "SRB"]
+
+1. e4 e5 2. Nf3 Nf6 3. d4 Nxe4 4. Bd3 d5 5. Nxe5 Nd7 6. Nxd7 Bxd7 7. Nd2 Nxd2
+8. Bxd2 Qf6 9. Qe2+ Be6 10. Qe5 Qxe5+ 11. dxe5 O-O-O 12. f4 g6 13. O-O Bf5 14.
+Bxf5+ gxf5 15. Rf3 Kd7 16. Be1 Be7 17. Rd1 Ke6 18. Kf1 h5 19. Rh3 c5 20. Bh4
+Bxh4 21. Rxh4 d4 22. Rd3 c4 23. Rdh3 Kd5 24. Rxh5 Rxh5 25. Rxh5 Ke4 26. Rh6 d3
+27. cxd3+ cxd3 28. Ke1 Re8 29. Rh3 Rc8 30. Rg3 Rc1+ 31. Kd2 Rc2+ 32. Kd1 Rxb2
+33. h4 Kd4 34. h5 Kc3 35. Kc1 Rf2 0-1

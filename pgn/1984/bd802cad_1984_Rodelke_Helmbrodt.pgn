@@ -1,0 +1,18 @@
+[Event "corr DDR/K"]
+[Site "corr DDR/K"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Rodelke"]
+[Black "Helmbrodt"]
+[Result "1-0"]
+[ECO "D45"]
+[Opening "QGD semi-Slav"]
+[Variation "Stoltz variation"]
+[HashCode "bd802cad"]
+[Epoch "Rook"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. e3 Nbd7 6. Qc2 Bd6 7. b3 O-O 8.
+Bd3 Qe7 9. O-O e5 10. e4 dxc4 11. bxc4 exd4 12. Ne2 c5 13. Ng3 Bxg3 14.
+hxg3 h6 15. Nh2 Ne5 16. f3 Be6 17. f4 Nxd3 18. Qxd3 Nd7 19. Ba3 Qd6 20. Nf3
+Qa6 21. Rac1 Bg4 22. Kf2 Bxf3 23. gxf3 Qe6 24. Rb1 b6 25. Rh1 1-0
+

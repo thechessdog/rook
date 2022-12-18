@@ -1,0 +1,14 @@
+[Event "corr Atars mem"]
+[Site "corr Atars mem"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Atars, Rudite"]
+[Black "Morgado, Juan Sebastian"]
+[Result "0-1"]
+[ECO "C40"]
+[Opening "Latvian counter-gambit"]
+[HashCode "081880f0"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 f5 3. Nxe5 Qf6 4. d4 d6 5. Nc4 fxe4 6. Nc3 Qg6 7. f3 exf3 8.
+Qxf3 Nc6 9. Bd3 Qg4 10. O-O Qxf3 11. Rxf3 Nxd4 0-1

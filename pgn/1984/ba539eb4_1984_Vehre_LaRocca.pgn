@@ -1,0 +1,20 @@
+[Event "MOTCF,OH"]
+[Site "MOTCF,OH"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Vehre, John"]
+[Black "LaRocca, Mark"]
+[Result "1-0"]
+[ECO "A74"]
+[Opening "Benoni"]
+[Variation "classical, 9...a6, 10.a4"]
+[HashCode "ba539eb4"]
+[Epoch "Rook"]
+[WhiteCountry "USA"]
+
+1. d4 Nf6 2. c4 c5 3. d5 g6 4. Nc3 Bg7 5. e4 d6 6. Nf3 O-O 7. Be2 e6 8. O-O
+exd5 9. cxd5 a6 10. a4 Nbd7 11. Bf4 Ne8 12. Qc2 Qe7 13. Nd2 Ne5 14. Nc4 Nxc4
+15. Bxc4 Bd7 16. Rfe1 Be5 17. Qd2 Nc7 18. a5 Nb5 19. Bg5 Qe8 20. Bh6 Bg7 21.
+Bxg7 Kxg7 22. f4 f6 23. Re3 Nd4 24. Rae1 Bb5 25. b3 Qd8 26. e5 Bxc4 27. bxc4
+Qxa5 28. exd6 Rad8 29. Re7+ Rf7 30. Rxf7+ Kxf7 31. Re7+ Kf8 32. Qe1 Qb6 33. d7
+Nf5 34. Re8+ Kg7 35. Rxd8 Qxd8 36. Qe8 Qa5 37. d8=Q 1-0

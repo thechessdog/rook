@@ -1,0 +1,21 @@
+[Event "Jarvenpaa"]
+[Site "Jarvenpaa"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Maki, Veijo"]
+[Black "Farago, Ivan"]
+[Result "0-1"]
+[ECO "C06"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation, main line"]
+[HashCode "1ca482c6"]
+[Epoch "Rook"]
+[BlackID "700134"]
+[BlackCountry "HUN"]
+[WhiteID "500046"]
+[WhiteCountry "FIN"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Bd3 c5 6. c3 Nc6 7. Ne2 cxd4 8. cxd4
+f6 9. exf6 Nxf6 10. Nf3 Bd6 11. O-O Qb6 12. Re1 O-O 13. Nf4 Bd7 14. Be3 Qxb2
+15. Rb1 Qxa2 16. Rxb7 Rab8 17. Rxd7 Nxd7 18. Nxe6 Rf6 19. Bxh7+ Kxh7 20. Nfg5+
+Kg8 21. g3 Nf8 22. Qh5 Rb1 23. Nxf8 Rxe1+ 24. Kg2 Qb1 25. Nfh7 Rg1+ 0-1

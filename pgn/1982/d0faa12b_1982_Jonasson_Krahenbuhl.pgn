@@ -1,0 +1,23 @@
+[Event "Reykjavik op"]
+[Site "Reykjavik op"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Jonasson"]
+[Black "Krahenbuhl"]
+[Result "1/2-1/2"]
+[ECO "B72"]
+[Opening "Sicilian"]
+[Variation "dragon, 6.Be3"]
+[HashCode "d0faa12b"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. Bc4 Nc6
+8. h3 Bd7 9. O-O O-O 10. Bb3 a6 11. Qd2 b5 12. a3 Na5 13. Bh6 e5 14. Bxg7
+Kxg7 15. Nf3 Nxb3 16. cxb3 Be6 17. b4 Qe7 18. Rfe1 Rfd8 19. Rac1 Rac8 20.
+Qe3 Qb7 21. Nh4 Rd7 22. Rcd1 Ne8 23. Kh1 f6 24. f4 Bc4 25. Rd2 Kh8 26. fxe5
+dxe5 27. Nd5 Bxd5 28. exd5 Rd6 29. Red1 Rcd8 30. Qe4 Qf7 31. Nf3 Nc7 32.
+Rf1 Rxd5 33. Rc2 Qg7 34. Rfc1 Rd1+ 35. Kh2 Rxc1 36. Rxc1 Rd7 37. Qb7 h5 38.
+Qc8+ Kh7 39. Rc6 e4 40. Nd4 f5 41. Ne2 Qe5+ 42. g3 Qg7 43. h4 Nd5 44. Kh3
+Rc7 45. Qxa6 Rxc6 46. Qxc6 Qe5 47. Qd7+ Kh6 48. Qd8 Qxb2 49. Qxd5 Qxe2 50.
+Qe5 Qf1+ 51. Kh2 Qf2+ 52. Kh3 Qf1+ 53. Kh2 Qf2+ 54. Kh3 1/2-1/2
+

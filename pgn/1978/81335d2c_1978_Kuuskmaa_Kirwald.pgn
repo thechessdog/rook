@@ -1,0 +1,17 @@
+[Event "corr EUR/M"]
+[Site "corr EUR/M"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Kuuskmaa, E."]
+[Black "Kirwald, F."]
+[Result "1-0"]
+[ECO "A51"]
+[Opening "Budapest"]
+[Variation "Fajarowicz variation"]
+[HashCode "81335d2c"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ne4 4. a3 Nc6 5. Nf3 a5 6. Qc2 Nc5 7. Nc3 Be7 8.
+h4 a4 9. Be3 Ra5 10. Rd1 b6 11. Bxc5 bxc5 12. e3 h5 13. Bd3 Rh6 14. Be4 Kf8
+15. Bd5 Qe8 16. Qe4 Na7 17. Ng5 Bxg5 18. hxg5 Rh8 19. g6 fxg6 20. Qf4+ 1-0
+

@@ -1,0 +1,17 @@
+[Event "corr USSR"]
+[Site "corr USSR"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Romanov"]
+[Black "Goncharenko"]
+[Result "0-1"]
+[ECO "E34"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, Noa variation"]
+[HashCode "407a1cd0"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 d5 5. cxd5 Qxd5 6. e3 c5 7. a3 Bxc3+
+8. bxc3 O-O 9. Nf3 cxd4 10. cxd4 Bd7 11. Bc4 Qh5 12. Ne5 Bc6 13. Nxc6 Nxc6
+14. O-O Rac8 15. Qb2 b6 16. Bd2 Nxd4 17. Ba6 Ng4 18. h3 Qe5 0-1
+

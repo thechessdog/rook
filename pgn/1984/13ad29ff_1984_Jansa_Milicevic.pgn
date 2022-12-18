@@ -1,0 +1,24 @@
+[Event "Kragujevac"]
+[Site "Kragujevac"]
+[Date "1984.01.01"]
+[Round "4"]
+[White "Jansa, Vlastimil"]
+[Black "Milicevic, Miodrag"]
+[Result "1-0"]
+[ECO "C92"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Ragozin-Petrosian (`Keres') variation"]
+[HashCode "13ad29ff"]
+[Epoch "Rook"]
+[WhiteID "300128"]
+[WhiteCountry "CZE"]
+[BlackID "905364"]
+[BlackCountry "SRB"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. h3 Nd7 10. d4 Nb6 11. Nbd2 exd4 12. cxd4 d5 13. exd5 Nxd5 14. Ne4 Bf5
+15. Bd2 Ndb4 16. Rc1 Na5 17. Nc5 Nxb3 18. Qxb3 Nc6 19. Nb7 Qd7 20. d5 Nd8 21.
+Ne5 Qc8 22. d6 Bf6 23. Rxc7 Qe6 24. Nd7 Qxb3 25. Nxf6+ gxf6 26. axb3 Nxb7 27.
+Rxb7 Rfd8 28. Bf4 Be6 29. b4 Rac8 30. Rc7 Kf8 31. Bh6+ Kg8 32. Re3 Kh8 33. Bf4
+h6 34. Ra3 Ra8 35. Rc6 Rdc8 36. Rxc8+ Rxc8 37. Bxh6 Rc4 38. Rd3 Bd7 39. Bd2 Kh7
+40. Bc3 f5 41. Rg3 Rc6 1-0

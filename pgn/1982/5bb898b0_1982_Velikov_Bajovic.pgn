@@ -1,0 +1,21 @@
+[Event "Plovdiv"]
+[Site "Plovdiv"]
+[Date "1982.01.01"]
+[Round "11"]
+[White "Velikov, Petar"]
+[Black "Bajovic, Milan"]
+[Result "1-0"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Nimzovich (knight's tour) variation"]
+[HashCode "5bb898b0"]
+[Epoch "Rook"]
+[WhiteID "2900149"]
+[WhiteCountry "FID"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. Nd2 Nbd7 8. e4
+a6 9. a4 Bg7 10. Be2 O-O 11. O-O Re8 12. f4 Nf8 13. Kh1 h6 14. Bf3 Rb8 15. a5
+Bd7 16. e5 dxe5 17. fxe5 N6h7 18. e6 fxe6 19. d6 Ng5 20. Nde4 Nfh7 21. Nxc5
+Nxf3 22. Rxf3 Bc6 23. N3e4 Bd5 24. Be3 Rf8 25. Rxf8+ Nxf8 26. Bd4 Nd7 27. Bxg7
+Nxc5 28. Nxc5 Kxg7 29. Qd4+ Kg8 30. Rf1 Qg5 31. Ne4 Bxe4 32. Qxe4 e5 33. Qd5+
+Kh8 34. h3 h5 35. d7 Kg7 36. Qf7+ Kh6 37. Qf8+ 1-0

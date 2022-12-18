@@ -1,0 +1,17 @@
+[Event "Ohio"]
+[Site "Ohio"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Diebert, Charles"]
+[Black "Gatto"]
+[Result "1-0"]
+[ECO "D00"]
+[Opening "Blackmar-Diemer gambit"]
+[HashCode "3bf3fc97"]
+[Epoch "Rook"]
+[WhiteID "2065517"]
+[WhiteCountry "USA"]
+
+1. d4 Nf6 2. Nc3 d5 3. e4 dxe4 4. f3 exf3 5. Qxf3 g6 6. Bd3 Bg7 7. Nge2 Nc6 8.
+O-O Nxd4 9. Nxd4 Qxd4+ 10. Be3 Qg4 11. Bb5+ Kf8 12. Rad1 Be6 13. Qxb7 Rc8 14.
+Qxc8+ Bxc8 15. Rd8+ Ne8 16. Rxe8# 1-0

@@ -1,0 +1,21 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Schulze, Ulrich"]
+[Black "Kretzschmar"]
+[Result "1-0"]
+[ECO "C82"]
+[Opening "Ruy Lopez"]
+[Variation "open, St. Petersburg variation"]
+[HashCode "b6eb1a24"]
+[Epoch "Rook"]
+[WhiteID "4600525"]
+[WhiteCountry "GER"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Be6 9. c3 Bc5 10. Nbd2 O-O 11. Bc2 f5 12. Nb3 Ba7 13. Nbd4 Nxd4 14. cxd4 c5 15.
+dxc5 Bxc5 16. Nd4 Bc8 17. Bb3 Kh8 18. Nf3 Bb7 19. Be3 Bxe3 20. fxe3 Rc8 21. a3
+Qe7 22. Qd4 Rc5 23. Rac1 Rfc8 24. Rxc5 Rxc5 25. Qb4 Qc7 26. Rd1 a5 27. Qd4 h6
+28. Nh4 Qf7 29. Rf1 Bc8 30. g4 g5 31. e6+ Qf6 32. Ng6+ Kg7 33. e7 Bd7 34. gxf5
+Be8 35. Nf8 Kh8 36. Ne6 1-0

@@ -1,0 +1,20 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Bareev, Evgeny"]
+[Black "Neverov, Valeriy"]
+[Result "0-1"]
+[ECO "A56"]
+[Opening "Benoni defence"]
+[HashCode "f2cac6e3"]
+[Epoch "Rook"]
+[WhiteID "4100140"]
+[BlackID "14100150"]
+[WhiteCountry "CAN"]
+[BlackCountry "UKR"]
+
+1. d4 Nf6 2. c4 c5 3. e3 e6 4. Nf3 d5 5. a3 cxd4 6. exd4 Be7 7. Nc3 O-O 8. Bd3
+dxc4 9. Bxc4 a6 10. O-O b5 11. Bd3 Bb7 12. Qe2 Nc6 13. Be3 Na5 14. Ne5 Rc8 15.
+Rad1 Bxa3 16. Nxb5 Qd5 17. f3 axb5 18. bxa3 Nc4 19. Bxc4 bxc4 20. Bg5 c3 21.
+Bxf6 c2 22. Be7 cxd1=Q 23. Rxd1 Rfe8 24. Bb4 Qb3 25. h4 f6 26. Nd7 Rc2 0-1

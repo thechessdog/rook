@@ -1,0 +1,31 @@
+[Event "Bundesliga 8081"]
+[Site "Duitsland tt"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Abendroth, Guenter"]
+[Black "Lueders, Gerhard"]
+[Result "1/2-1/2"]
+[ECO "B13"]
+[Opening "Caro-Kann"]
+[Variation "exchange variation"]
+[HashCode "352915ea"]
+[Epoch "Rook"]
+[WhiteID "4640756"]
+[WhiteCountry "GER"]
+[BlackID "4608240"]
+[BlackCountry "GER"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. Bd3 Nc6 5. c3 g6 6. Nf3 Bg7 7. Bf4 Nh6 8. Qd2
+Nf5 9. O-O O-O 10. Re1 Re8 11. Na3 a6 12. h4 b5 13. Nc2 Nd6 14. Ne5 Nxe5 15.
+dxe5 Nc4 16. Bxc4 dxc4 17. Qe3 e6 18. Bg5 Qc7 19. Rad1 Bb7 20. h5 Qc6 21. f3
+Bf8 22. Bf6 Qc5 23. hxg6 Qxe3+ 24. Nxe3 fxg6 25. Rd7 Bc6 26. Rc7 Rec8 27. Rxc8
+Rxc8 28. Kf2 Rc7 29. Rd1 Rd7 30. Rxd7 Bxd7 31. Ke2 h6 32. Bd8 g5 33. g4 Kf7 34.
+Bb6 Bc6 35. Nf1 Kg6 36. Ng3 b4 37. cxb4 Bxb4 38. Ke3 c3 39. bxc3 Bxc3 40. Bc7
+Bb2 41. Ne4 Bc1+ 42. Kd3 Kf7 43. Bb6 Ba3 44. Ke3 Bd5 45. Nc3 Bc4 46. Kd4 Bf1
+47. Ne4 Bb2+ 48. Ke3 Bxe5 49. a4 Bf4+ 50. Kf2 Bd3 51. Nc5 Bc4 52. Ne4 Kg6 53.
+Ng3 Bc1 54. a5 Bb2 55. Kg2 Bd5 56. Bc7 Kf7 57. Bd6 Bc3 58. Bc7 Ke7 59. Ne2 Bb2
+60. Kf2 Kd7 61. Bb6 e5 62. Ng3 Ba3 63. Ke3 Kc6 64. Ne4 Be7 65. Kd3 Bf7 66. Ke3
+Kd5 67. Bc7 Be8 68. Nc3+ Ke6 69. Ne4 Bb4 70. Bb6 Be7 71. Nc5+ Kd5 72. Nxa6 Kc6
+73. Ke4 Bd6 74. Kd3 Bd7 75. Kc3 e4 76. fxe4 Bxg4 77. Kd4 h5 78. e5 Ba3 79. Bd8
+Be2 80. Nb8+ Kb7 81. Bxg5 Kxb8 82. Kd5 Kc7 83. e6 Bb4 84. Ke5 Ba6 85. Kf6 Bxa5
+86. Kf7 Bc4 87. Kg6 Be2 88. Kf7 Be1 89. Bf4+ Kc6 90. e7 Bc4+ 91. Kg6 1/2-1/2

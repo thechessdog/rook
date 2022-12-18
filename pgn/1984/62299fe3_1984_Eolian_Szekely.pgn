@@ -1,0 +1,20 @@
+[Event "Yerevan"]
+[Site "Yerevan"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Eolian, Levon S"]
+[Black "Szekely, Peter"]
+[Result "1/2-1/2"]
+[ECO "B92"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Opovcensky variation"]
+[HashCode "62299fe3"]
+[Epoch "Rook"]
+[WhiteID "13300075"]
+[WhiteCountry "ARM"]
+[BlackID "14937492"]
+[BlackCountry "SVK"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8. Be3
+Be6 9. O-O O-O 10. Qd2 Nbd7 11. a4 Rc8 12. a5 Qc7 13. Rfc1 Qc6 14. Bf3 Bc4 15.
+Ra4 h6 16. Rb4 Qc7 17. Ra4 Qc6 18. Rb4 1/2-1/2

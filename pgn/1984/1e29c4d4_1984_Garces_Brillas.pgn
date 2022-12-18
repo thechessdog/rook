@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Garces Perez"]
+[Black "Brillas"]
+[Result "1-0"]
+[ECO "B96"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7.f4"]
+[HashCode "1e29c4d4"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 h6 8.
+Bxf6 Qxf6 9. Qd2 b5 10. O-O-O Be7 11. g3 Bb7 12. Bg2 e5 13. Rhf1 exd4 14.
+e5 dxc3 15. Qxc3 Qe6 16. Bxb7 Ra7 17. exd6 O-O 18. dxe7 Qxe7 19. Bd5 Rc7
+20. Rfe1 Qd7 21. Qa3 Re8 22. Be4 Qc8 23. Bf5 Nd7 24. Rxe8+ Qxe8 25. Qd6 1-0
+

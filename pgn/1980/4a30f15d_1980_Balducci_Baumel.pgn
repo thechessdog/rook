@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Balducci"]
+[Black "Baumel"]
+[Result "0-1"]
+[ECO "B34"]
+[Opening "Sicilian"]
+[Variation "accelerated fianchetto, exchange variation"]
+[HashCode "4a30f15d"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6 5. Nxc6 bxc6 6. Qd4 Nf6 7. f4 Bg7
+8. Nc3 O-O 9. e5 Ne8 10. Be3 Qc7 11. Qd2 d6 12. exd6 exd6 13. h4 Nf6 14.
+O-O-O Ng4 15. Re1 Nxe3 16. Rxe3 d5 17. Rf3 Re8 18. g3 Bf5 0-1
+

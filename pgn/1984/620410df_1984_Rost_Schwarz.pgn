@@ -1,0 +1,20 @@
+[Event "corr DDR/FS"]
+[Site "corr DDR/FS"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Rost"]
+[Black "Schwarz"]
+[Result "1-0"]
+[ECO "A35"]
+[Opening "English"]
+[Variation "symmetrical variation"]
+[HashCode "620410df"]
+[Epoch "Rook"]
+
+1. c4 c5 2. Nc3 Nc6 3. Nf3 g6 4. e3 Bg7 5. d4 d6 6. d5 Ne5 7. Nd2 a6 8. Be2
+Nf6 9. O-O O-O 10. f4 Neg4 11. Nf3 h5 12. e4 Bd7 13. Bd3 Rb8 14. a4 Nh7 15.
+Qc2 e6 16. h3 Nh6 17. Ng5 Bd4+ 18. Kh1 Kg7 19. Bd2 Qe7 20. Rae1 f6 21. Nxh7
+Kxh7 22. dxe6 Bxe6 23. f5 Bf7 24. Nd5 Qd8 25. fxg6+ Bxg6 26. e5 f5 27. Nf6+
+Kg7 28. Bg5 Qc7 29. Nd5 Qd7 30. e6 Qc8 31. Bxh6+ Kxh6 32. Bxf5 Bxf5 33.
+Rxf5 Rxf5 34. Qxf5 Be5 35. Nf6 1-0
+

@@ -1,0 +1,17 @@
+[Event "Caorle"]
+[Site "Caorle"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Nigel"]
+[Black "Rorato"]
+[Result "0-1"]
+[ECO "A31"]
+[Opening "English"]
+[Variation "symmetrical, Benoni formation"]
+[HashCode "d6c6cf87"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 c5 3. Nf3 cxd4 4. Nxd4 e5 5. Nb5 d5 6. cxd5 Bc5 7. e3 O-O
+8. Qc2 Na6 9. e4 Ng4 10. N5a3 Bxf2+ 11. Kd1 Bd4 12. Nb5 Nf2+ 13. Ke1 Nb4
+14. Qc4 Qa5 15. Bd2 Qxb5 16. Qxd4 Nbd3+ 0-1
+

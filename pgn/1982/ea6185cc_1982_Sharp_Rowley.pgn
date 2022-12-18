@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Sharp, V."]
+[Black "Rowley, D."]
+[Result "1-0"]
+[ECO "C53"]
+[Opening "Giuoco Piano"]
+[Variation "LaBourdonnais variation"]
+[HashCode "ea6185cc"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 d6 5. d4 exd4 6. cxd4 Bb6 7. Nc3 Nge7
+8. Ng5 O-O 9. Qh5 h6 10. Nxf7 Rxf7 11. Qxf7+ Kh7 12. Bg5 Bxd4 13. Nd5 hxg5
+14. Qh5+ Kg8 15. Nf6+ Kf8 16. Qf7# 1-0
+

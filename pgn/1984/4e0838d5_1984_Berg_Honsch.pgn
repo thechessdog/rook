@@ -1,0 +1,21 @@
+[Event "Berlin"]
+[Site "Berlin"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Berg, Klaus"]
+[Black "Honsch, Pal"]
+[Result "1-0"]
+[ECO "E97"]
+[Opening "King's Indian"]
+[Variation "orthodox, Aronin-Taimanov variation (Yugoslav attack / Mar del Plata variation)"]
+[HashCode "4e0838d5"]
+[Epoch "Rook"]
+[BlackID "708380"]
+[BlackCountry "HUN"]
+[WhiteID "1400053"]
+[WhiteCountry "DEN"]
+
+1. d4 g6 2. c4 Bg7 3. Nf3 d6 4. Nc3 Nf6 5. e4 O-O 6. Be2 e5 7. O-O Nc6 8. d5
+Ne7 9. Nd2 c5 10. dxc6 bxc6 11. b4 Be6 12. Ba3 d5 13. cxd5 cxd5 14. b5 Re8 15.
+exd5 Nexd5 16. Nxd5 Bxd5 17. Bc4 Qa5 18. Bxd5 Nxd5 19. Nc4 Qxb5 20. Nd6 Qa5 21.
+Nxe8 Rxe8 22. Rc1 Nf4 23. Qd7 Rd8 24. Rc8 Bf6 25. Qe8+ 1-0

@@ -1,0 +1,25 @@
+[Event "Southport ch-BCF"]
+[Site "Southport ch-BCF"]
+[Date "1983.08.01"]
+[Round "6"]
+[White "Kosten, Anthony C."]
+[Black "Martin, Andrew D"]
+[Result "0-1"]
+[ECO "C63"]
+[Opening "Ruy Lopez"]
+[Variation "Schliemann defence"]
+[HashCode "bf95f569"]
+[Epoch "Rook"]
+[WhiteID "400114"]
+[WhiteCountry "FRA"]
+[BlackID "400300"]
+[BlackCountry "ENG"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 f5 4. d3 fxe4 5. dxe4 Nf6 6. Qe2 Bc5 7. Bxc6 bxc6 8.
+Nxe5 Qe7 9. Nd3 O-O 10. Nd2 Ba6 11. O-O Rae8 12. Qd1 Bb6 13. e5 Nd5 14. Nf3 c5
+15. b3 c4 16. bxc4 Bxc4 17. a4 a5 18. Bg5 Qe6 19. Qd2 h6 20. Bh4 Qg4 21. Bg3
+Re6 22. Rfe1 Rg6 23. Nb2 Rxf3 24. gxf3 Qxf3 25. Ra3 Rxg3+ 26. hxg3 Qxa3 27. c3
+Qc5 28. Re4 Ba6 29. c4 Nb4 30. e6 dxe6 31. Rxe6 Qf5 32. Re8+ Kh7 33. Nd1 Qg6
+34. Qd8 Qxg3+ 35. Kf1 Bxc4+ 36. Ke1 Bxf2+ 37. Nxf2 Qg1+ 38. Kd2 Qxf2+ 39. Kc3
+Qc2+ 40. Kd4 Nc6+ 41. Kc5 Nxd8 42. Rxd8 Be6+ 43. Kb5 Qc4+ 44. Kxa5 Qc5+ 45. Ka6
+Qb6# 0-1

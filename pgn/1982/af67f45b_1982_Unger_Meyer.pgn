@@ -1,0 +1,20 @@
+[Event "US Open"]
+[Site "US Open"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Unger, Tom"]
+[Black "Meyer, John"]
+[Result "1-0"]
+[ECO "E93"]
+[Opening "King's Indian"]
+[Variation "Petrosian system, main line"]
+[HashCode "af67f45b"]
+[Epoch "Rook"]
+[BlackID "2001187"]
+[BlackCountry "USA"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 O-O 5. Be2 d6 6. Nf3 e5 7. d5 Nbd7 8. Bg5
+h6 9. Bh4 a5 10. Nd2 Nc5 11. O-O Qd7 12. f3 Nh5 13. Bf2 Nf4 14. Nb3 b6 15. Nxc5
+bxc5 16. Rb1 h5 17. b3 Bh6 18. a3 h4 19. b4 axb4 20. axb4 cxb4 21. Rxb4 Nxg2
+22. Kxg2 Qh3+ 23. Kh1 Kh7 24. Rg1 Bf4 25. Rg2 g5 26. Rb3 Bd7 27. Bg1 Be8 28.
+Rg4 Bd7 29. Bf1 Bxg4 30. fxg4 1-0

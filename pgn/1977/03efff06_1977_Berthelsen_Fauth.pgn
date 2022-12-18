@@ -1,0 +1,16 @@
+[Event "corr EUR/M"]
+[Site "corr EUR/M"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Berthelsen"]
+[Black "Fauth"]
+[Result "0-1"]
+[ECO "D00"]
+[Opening "Blackmar gambit"]
+[HashCode "03efff06"]
+[Epoch "Rook"]
+
+1. d4 d5 2. e4 dxe4 3. Nc3 Nf6 4. f3 exf3 5. Nxf3 Bf5 6. Bc4 e6 7. O-O Be7
+8. Ne5 Bg6 9. Bg5 O-O 10. Nxg6 hxg6 11. Qd3 Nc6 12. Rf4 Nh5 13. Bxe7 Nxf4
+14. Bxd8 Nxd3 15. Bxc7 Ndb4 16. Bb3 Na6 17. Nb5 Nxd4 0-1
+

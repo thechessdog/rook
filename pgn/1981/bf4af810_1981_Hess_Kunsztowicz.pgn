@@ -1,0 +1,23 @@
+[Event "Bundesliga 8081"]
+[Site "Duitsland tt"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Hess, Ralf E."]
+[Black "Kunsztowicz, Uwe"]
+[Result "1-0"]
+[ECO "B89"]
+[Opening "Sicilian"]
+[Variation "Sozin, 7.Be3"]
+[HashCode "bf4af810"]
+[Epoch "Rook"]
+[WhiteID "4601890"]
+[WhiteCountry "GER"]
+[BlackID "4602773"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bc4 e6 7. Be3 Be7 8. f3
+O-O 9. Qd2 a6 10. O-O-O Qc7 11. g4 Nxd4 12. Qxd4 b5 13. Bb3 Nd7 14. h4 Nc5 15.
+h5 Rd8 16. h6 Bf6 17. Qd2 g6 18. Bd5 Rb8 19. g5 Be7 20. Qd4 Bf8 21. a3 a5 22.
+b4 axb4 23. axb4 exd5 24. bxc5 dxc5 25. Qf6 Be6 26. Bf4 Qe7 27. Bxb8 Rxb8 28.
+exd5 Bf5 29. d6 Qe3+ 30. Rd2 Ra8 31. Nd5 Qa3+ 32. Qb2 Qa1+ 33. Qxa1 Rxa1+ 34.
+Kb2 1-0

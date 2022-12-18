@@ -1,0 +1,15 @@
+[Event "corr GB"]
+[Site "corr GB"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Walters, J."]
+[Black "Magier, H."]
+[Result "1-0"]
+[ECO "A45"]
+[Opening "Trompovsky attack (Ruth, Opovcensky opening)"]
+[HashCode "8d35ab23"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. Bg5 Ne4 3. Bh4 c5 4. f3 g5 5. fxe4 gxh4 6. e3 Bh6 7. Kf2 Qb6
+8. Nc3 d6 9. Nd5 Qc6 10. Bb5 1-0
+

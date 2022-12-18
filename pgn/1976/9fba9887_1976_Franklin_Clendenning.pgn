@@ -1,0 +1,18 @@
+[Event "corr USA"]
+[Site "corr USA"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Franklin, Robert"]
+[Black "Clendenning, Ken"]
+[Result "1-0"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "classical attack, Chigorin variation"]
+[HashCode "9fba9887"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Be7 7. O-O Nc6
+8. Re1 Bg4 9. c3 f5 10. Qb3 O-O 11. Nbd2 Kh8 12. h3 Bxh3 13. gxh3 g5 14.
+Ne5 Nxe5 15. dxe5 Bc5 16. Nxe4 fxe4 17. Be3 Bxe3 18. Rxe3 exd3 19. Rxd3 Qd7
+20. Qxb7 Rae8 21. Rad1 Rxe5 22. Qxa7 Rf4 23. Rxd5 1-0
+

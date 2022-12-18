@@ -1,0 +1,18 @@
+[Event "Washington"]
+[Site "Washington"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Holroyd"]
+[Black "Nagao"]
+[Result "1-0"]
+[ECO "B98"]
+[Opening "Sicilian"]
+[Variation "Najdorf variation"]
+[HashCode "084de308"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8.
+Qf3 Qc7 9. O-O-O b5 10. Bxf6 Bxf6 11. Bxb5+ axb5 12. Ndxb5 Qc5 13. Nxd6+
+Kf8 14. e5 Ra6 15. exf6 Rxd6 16. Rxd6 Qxd6 17. Rd1 Qb6 18. Qf2 Qa5 19. Qc5+
+Qxc5 20. Rd8# 1-0
+

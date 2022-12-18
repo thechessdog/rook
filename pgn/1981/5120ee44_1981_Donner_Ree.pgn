@@ -1,0 +1,23 @@
+[Event "IBM"]
+[Site "Amsterdam"]
+[Date "1981.05.01"]
+[Round "1"]
+[White "Donner, Jan Hein"]
+[Black "Ree, Hans"]
+[Result "1/2-1/2"]
+[ECO "E60"]
+[Opening "King's Indian"]
+[Variation "3.g3"]
+[HashCode "5120ee44"]
+[Epoch "Rook"]
+[BlackID "1000098"]
+[WhiteCountry "NLD"]
+[BlackCountry "NED"]
+
+1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 c5 5. d5 O-O 6. Nc3 d6 7. Nf3 e6 8. O-O
+exd5 9. cxd5 a6 10. a4 Nbd7 11. h3 Re8 12. Nd2 Rb8 13. Nc4 Nb6 14. Na3 Bd7 15.
+a5 Nc8 16. Nc4 Bb5 17. Qb3 Na7 18. Bd2 Bxc4 19. Qxc4 Qd7 20. e3 Nb5 21. Ra2 b6
+22. axb6 Rxb6 23. Rfa1 Nc7 24. Na4 Rb7 25. Nc3 Reb8 26. Bc1 Rb4 27. Qd3 Qe7 28.
+Ra4 Nd7 29. Rxb4 Rxb4 30. Qc2 Rb8 31. Bf1 Nb6 32. e4 Qd7 33. h4 Re8 34. Bxa6
+Nxa6 35. Rxa6 Rb8 36. Qb3 Qb7 37. Qb5 Be5 38. Bh6 f6 39. Nd1 f5 40. exf5 Nxd5
+41. Qxb7 Rxb7 42. fxg6 hxg6 43. f4 Bd4+ 44. Kf1 Nb6 1/2-1/2

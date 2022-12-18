@@ -1,0 +1,18 @@
+[Event "corr Czech"]
+[Site "corr Czech"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Dvorak"]
+[Black "Kovdelka"]
+[Result "1-0"]
+[ECO "B33"]
+[Opening "Sicilian"]
+[Variation "Pelikan (Lasker/Sveshnikov) variation"]
+[HashCode "51eca75c"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6
+8. Bxf6 gxf6 9. Na3 f5 10. Qh5 d5 11. O-O-O Bxa3 12. bxa3 Qa5 13. Nxd5 Be6
+14. Qh4 Qxa3+ 15. Kb1 Bxd5 16. exd5 Nd4 17. Bc4 Rc8 18. Bb3 Qe7 19. Qh6
+Nxb3 20. d6 1-0
+

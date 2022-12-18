@@ -1,0 +1,18 @@
+[Event "Reggio Emilia7879"]
+[Site "Reggio Emilia"]
+[Date "1978.12.01"]
+[Round "1"]
+[White "Bertok, Mario"]
+[Black "Hess, Ralf E."]
+[Result "1/2-1/2"]
+[ECO "E45"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Bronstein (Byrne) variation"]
+[HashCode "e83e6e70"]
+[Epoch "Rook"]
+[BlackID "4601890"]
+[BlackCountry "GER"]
+[WhiteCountry "HRV"]
+
+1. c4 Nf6 2. Nc3 e6 3. d4 Bb4 4. e3 b6 5. Ne2 Ba6 6. a3 Bxc3+ 7. Nxc3 d5 8. b3
+O-O 9. Be2 Nc6 10. cxd5 Bxe2 11. Nxe2 Qxd5 12. O-O Rad8 13. Qc2 1/2-1/2

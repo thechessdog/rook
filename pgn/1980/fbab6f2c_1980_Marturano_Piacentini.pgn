@@ -1,0 +1,18 @@
+[Event "corr Italy"]
+[Site "corr Italy"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Marturano"]
+[Black "Piacentini"]
+[Result "1-0"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra gambit"]
+[HashCode "fbab6f2c"]
+[Epoch "Rook"]
+
+1. e4 c5 2. d4 cxd4 3. c3 dxc3 4. Nxc3 Nc6 5. Nf3 d6 6. Bc4 e6 7. O-O Nf6
+8. Qe2 Ne5 9. Nxe5 dxe5 10. Rd1 Bd7 11. Bg5 a6 12. Rd2 Qc7 13. Rad1 Bc6 14.
+Bxf6 gxf6 15. Qh5 Ke7 16. Nd5+ Bxd5 17. exd5 Qxc4 18. d6+ Ke8 19. d7+ Kd8
+20. Qf3 Bb4 21. Qxf6+ 1-0
+

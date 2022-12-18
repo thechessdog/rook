@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Tristan"]
+[Black "Romero Holmes, Alfonso"]
+[Result "1-0"]
+[ECO "A78"]
+[Opening "Benoni"]
+[Variation "classical with ...Re8 and ...Na6"]
+[HashCode "16cced49"]
+[Epoch "Rook"]
+[BlackID "2200066"]
+[BlackCountry "ESP"]
+
+1. c4 c5 2. Nf3 Nf6 3. d4 e6 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. e4 Bg7 8. Be2
+O-O 9. O-O Re8 10. Nd2 Na6 11. Kh1 Bd7 12. f3 Nh5 13. Nc4 Qe7 14. a4 f5 15. f4
+Nf6 16. e5 dxe5 17. d6 Qe6 18. Nxe5 Nb4 19. Bc4 Nfd5 20. Nxd5 Bxe5 21. Ne7+
+Rxe7 22. Bxe6+ Rxe6 23. fxe5 Rxe5 24. Bd2 1-0

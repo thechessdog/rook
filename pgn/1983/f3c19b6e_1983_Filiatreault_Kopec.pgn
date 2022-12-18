@@ -1,0 +1,16 @@
+[Event "South Shore"]
+[Site "South Shore"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Filiatreault, Miche"]
+[Black "Kopec, Daniel"]
+[Result "0-1"]
+[ECO "B32"]
+[Opening "Sicilian"]
+[Variation "Labourdonnais-Loewenthal variation"]
+[HashCode "f3c19b6e"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e5 5. Nb5 a6 6. Nd6+ Bxd6 7. Qxd6
+Qf6 8. Qc7 Qg6 9. Nc3 Nge7 10. Bd2 b5 11. f3 Ra7 0-1
+

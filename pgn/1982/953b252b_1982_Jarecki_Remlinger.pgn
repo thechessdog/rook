@@ -1,0 +1,18 @@
+[Event "New York"]
+[Site "New York"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Jarecki, M."]
+[Black "Remlinger, L."]
+[Result "0-1"]
+[ECO "C06"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation, main line"]
+[HashCode "953b252b"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. c3 c5 6. Bd3 Nc6 7. Ne2 cxd4 8.
+cxd4 f6 9. exf6 Nxf6 10. O-O Bd6 11. Nf3 O-O 12. Bf4 Bxf4 13. Nxf4 Kh8 14.
+Re1 Ng4 15. Nxe6 Bxe6 16. Rxe6 Qc7 17. Bb5 Rxf3 18. g3 Qf7 19. Bxc6 bxc6
+20. Rxc6 Nxf2 0-1
+

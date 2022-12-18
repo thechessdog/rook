@@ -1,0 +1,21 @@
+[Event "corr Heilimo mem"]
+[Site "corr Heilimo mem"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Palomaki"]
+[Black "Paavilainen"]
+[Result "0-1"]
+[ECO "B33"]
+[Opening "Sicilian"]
+[Variation "Sveshnikov variation"]
+[HashCode "bc51c98e"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6
+8. Bxf6 gxf6 9. Na3 b5 10. Nd5 f5 11. exf5 Bxf5 12. c3 Be6 13. Nc2 Bh6 14.
+g3 O-O 15. Bg2 f5 16. Qh5 Kg7 17. Nce3 e4 18. Bh3 Bxe3 19. Nxe3 Qf6 20.
+O-O-O Rad8 21. g4 Qg6 22. Qxg6+ hxg6 23. gxf5 gxf5 24. Rhg1+ Kf6 25. Nd5+
+Bxd5 26. Rxd5 Ne5 27. Bf1 Ke6 28. Rd1 Rh8 29. h3 Rdg8 30. Rxg8 Rxg8 31. a4
+Rh8 32. axb5 axb5 33. Bxb5 Rxh3 34. Ba6 Rf3 35. Rd2 Kd7 36. Be2 Rf4 37. b4
+Kc7 38. Ba6 Ng4 0-1
+

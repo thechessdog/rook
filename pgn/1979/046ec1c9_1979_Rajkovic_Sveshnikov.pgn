@@ -1,0 +1,19 @@
+[Event "Novi Sad"]
+[Site "Novi Sad"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Rajkovic, Dusan"]
+[Black "Sveshnikov, Evgeny"]
+[Result "1/2-1/2"]
+[ECO "A00"]
+[Opening "Benko's opening"]
+[HashCode "046ec1c9"]
+[Epoch "Rook"]
+[BlackID "4100638"]
+[BlackCountry "RUS"]
+[WhiteID "900265"]
+[WhiteCountry "SRB"]
+
+1. g3 d5 2. Bg2 e5 3. d3 g6 4. c4 dxc4 5. Qa4+ c6 6. Qxc4 Bg7 7. Nf3 Ne7 8. O-O
+O-O 9. Qc2 Na6 10. Nc3 Nb4 11. Qb3 c5 12. Qc4 b6 13. Nxe5 Bxe5 14. Bxa8 Bd4 15.
+Bg2 Be6 16. Qb5 Bd7 17. Qc4 1/2-1/2

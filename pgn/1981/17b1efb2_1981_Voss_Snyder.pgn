@@ -1,0 +1,17 @@
+[Event "Dayton,OH"]
+[Site "Dayton,OH"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Voss, E."]
+[Black "Snyder, B."]
+[Result "0-1"]
+[ECO "B10"]
+[Opening "Caro-Kann"]
+[Variation "Hillbilly attack"]
+[HashCode "17b1efb2"]
+[Epoch "Rook"]
+
+1. e4 c6 2. Bc4 d5 3. exd5 cxd5 4. Bb5+ Nc6 5. Nc3 Nf6 6. Nge2 e5 7. O-O
+Qb6 8. d4 Bd6 9. Bd3 a6 10. Na4 Qc7 11. dxe5 Bxe5 12. Bg5 Bxh2+ 13. Kh1 Be5
+14. f4 h6 15. fxe5 hxg5+ 16. Kg1 Qxe5 17. Qd2 Ng4 0-1
+

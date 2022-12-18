@@ -1,0 +1,18 @@
+[Event "corr Netherlands"]
+[Site "corr Netherlands"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Knoek"]
+[Black "Blokland"]
+[Result "0-1"]
+[ECO "B13"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik, Herzog defence"]
+[HashCode "b1ead6ae"]
+[Epoch "Rook"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 Nc6 6. Bg5 dxc4 7. d5 Na5
+8. b4 cxb3 9. axb3 Bd7 10. b4 Rc8 11. Nb5 Ne4 12. bxa5 Nxg5 13. Qe2 e6 14.
+d6 a6 15. Nc7+ Rxc7 16. dxc7 Bb4+ 17. Kd1 Qxc7 18. Qc4 Qe5 19. Ra2 Qe1+ 20.
+Kc2 O-O 0-1
+

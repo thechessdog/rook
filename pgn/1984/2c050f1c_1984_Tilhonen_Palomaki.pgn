@@ -1,0 +1,19 @@
+[Event "corr SF"]
+[Site "corr SF"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Tilhonen"]
+[Black "Palomaki"]
+[Result "0-1"]
+[ECO "E88"]
+[Opening "King's Indian"]
+[Variation "Saemisch, orthodox, 7.d5 c6"]
+[HashCode "2c050f1c"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 e5 7. d5 c6 8. Bd3
+cxd5 9. cxd5 Nbd7 10. Nge2 Nc5 11. Bc2 a5 12. g4 Bd7 13. Ng3 b5 14. h4 a4
+15. a3 Qa5 16. Qd2 Nb3 17. Bxb3 axb3 18. Rb1 b4 19. axb4 Qxb4 20. h5 Rfc8
+21. hxg6 hxg6 22. Bh6 Qd4 23. Qh2 Rxc3 24. bxc3 Qxc3+ 25. Kf2 Bxg4 26. Be3
+Ra2+ 27. Ne2 Qd3 28. Rhe1 Nxe4+ 0-1
+

@@ -1,0 +1,18 @@
+[Event "corr DFSM"]
+[Site "corr DFSM"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Dunhaupt"]
+[Black "Born"]
+[Result "1/2-1/2"]
+[ECO "E56"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line with 7...Nc6"]
+[HashCode "10466bff"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 Nc6 6. Nf3 d5 7. O-O O-O 8.
+a3 cxd4 9. axb4 dxc3 10. bxc3 dxc4 11. Bxc4 Qc7 12. Qb3 b6 13. Rd1 Bb7 14.
+Be2 Ne5 15. Nxe5 Qxe5 16. Ra2 b5 17. Ra5 Nd5 18. Rxb5 Qxc3 19. Qxc3 Nxc3
+20. Rxb7 Nxe2+ 21. Kf1 Nxc1 22. Rxc1 a5 23. b5 Rfb8 1/2-1/2
+

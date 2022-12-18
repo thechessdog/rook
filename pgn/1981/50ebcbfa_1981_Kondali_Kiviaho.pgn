@@ -1,0 +1,22 @@
+[Event "corr CCCA"]
+[Site "corr CCCA"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Kondali, J."]
+[Black "Kiviaho, Robert"]
+[Result "0-1"]
+[ECO "B74"]
+[Opening "Sicilian"]
+[Variation "dragon, classical, Reti-Tartakower variation"]
+[HashCode "50ebcbfa"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. Be2 Nc6
+8. O-O O-O 9. Nb3 Be6 10. f4 Qc8 11. Kh1 b6 12. Bg1 Rb8 13. Bf3 Nd7 14. Nd4
+Nxd4 15. Bxd4 Qc4 16. Bxg7 Kxg7 17. Qd2 Qc5 18. Rad1 Rfc8 19. Rf2 b5 20. g4
+b4 21. Na4 Qa5 22. b3 Nc5 23. Nxc5 Qxc5 24. Qd4+ Qxd4 25. Rxd4 Rc5 26. f5
+Bd7 27. Rfd2 Bc6 28. Kg2 Kf6 29. Kf2 Ba8 30. Be2 Ra5 31. c4 bxc3 32. Rc2
+Rc8 33. Bd3 Re5 34. fxg6 hxg6 35. h4 Rec5 36. Ke3 Ke5 37. Rc4 Rxc4 38. bxc4
+Rh8 39. Rxc3 Rxh4 40. c5 Bxe4 41. Bxe4 d5 42. c6 d4+ 43. Ke2 dxc3 44. c7
+Rh8 45. Bb7 Kf4 46. c8=Q Rxc8 47. Bxc8 e6 48. Bd7 g5 0-1
+

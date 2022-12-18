@@ -1,0 +1,26 @@
+[Event "Budva zt"]
+[Site "Budva zt"]
+[Date "1981.01.01"]
+[Round "19"]
+[White "Makropoulos, Georgios"]
+[Black "Ivanovic, Bozidar"]
+[Result "0-1"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "ad193f8d"]
+[Epoch "Rook"]
+[WhiteID "4200047"]
+[WhiteCountry "GRE"]
+[BlackID "900095"]
+[BlackCountry "MNE"]
+
+1. e4 c5 2. c3 d6 3. d4 Nf6 4. dxc5 Nc6 5. f3 d5 6. exd5 Nxd5 7. Bc4 e6 8. Bxd5
+exd5 9. Be3 Qh4+ 10. g3 Qh5 11. Kf2 Ne5 12. Bd4 Be7 13. Bxe5 Qxe5 14. Qd4 Qe6
+15. Nd2 O-O 16. Ne2 b6 17. Nf4 Qc6 18. Nb3 Bb7 19. Nd3 Bf6 20. Qf4 bxc5 21.
+Ndxc5 a5 22. Nxb7 Qxb7 23. Rab1 a4 24. Nd4 Rfe8 25. a3 h5 26. Rhe1 Rxe1 27.
+Kxe1 Qe7+ 28. Kf1 Re8 29. Qd2 Bg5 30. f4 Qe4 31. Rd1 Qh1+ 32. Kf2 Qxh2+ 33. Kf3
+Qh3 34. fxg5 h4 35. Rg1 Re4 36. Ne2 Qf5+ 37. Nf4 Qxg5 38. Rg2 h3 39. Re2 Qe5
+40. Nxh3 Qh5+ 41. Kf2 Qxh3 42. Kf3 Qg4+ 43. Kf2 Rxe2+ 44. Qxe2 Qxe2+ 45. Kxe2
+f5 46. Kd3 Kf7 47. c4 dxc4+ 48. Kxc4 g5 49. Kc3 Ke6 50. b4 axb3 51. a4 f4 52.
+gxf4 gxf4 53. a5 Kd6 0-1

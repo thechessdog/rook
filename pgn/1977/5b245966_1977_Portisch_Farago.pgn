@@ -1,0 +1,20 @@
+[Event "Budapest ch-HUN"]
+[Site "Budapest ch-HUN"]
+[Date "1977.11.01"]
+[Round "1"]
+[White "Portisch, Ferenc"]
+[Black "Farago, Ivan"]
+[Result "1/2-1/2"]
+[ECO "E97"]
+[Opening "King's Indian"]
+[Variation "orthodox, Aronin-Taimanov variation (Yugoslav attack / Mar del Plata variation)"]
+[HashCode "5b245966"]
+[Epoch "Rook"]
+[WhiteID "700487"]
+[WhiteCountry "HUN"]
+[BlackID "700134"]
+[BlackCountry "HUN"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. O-O Nc6 8. d5
+Ne7 9. Nd2 c5 10. Rb1 Ne8 11. b4 b6 12. a4 f5 13. a5 Nf6 14. bxc5 bxc5 15. Qa4
+Bd7 16. Qa3 Rb8 17. f3 Kh8 1/2-1/2

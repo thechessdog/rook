@@ -1,0 +1,17 @@
+[Event "Dayton,OH"]
+[Site "Dayton,OH"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Lytle, Bud"]
+[Black "Wall, Bill"]
+[Result "0-1"]
+[ECO "A97"]
+[Opening "Dutch"]
+[Variation "Ilyin-Genevsky, Winter variation"]
+[HashCode "c5bf411f"]
+[Epoch "Rook"]
+[BlackCountry "USA"]
+
+1. d4 f5 2. c4 Nf6 3. Nc3 e6 4. Nf3 Be7 5. g3 O-O 6. Bg2 d6 7. O-O Qe8 8. Re1
+Qg6 9. Qc2 Ne4 10. Nxe4 fxe4 11. Nd2 e3 12. Qxg6 exf2+ 13. Kf1 fxe1=Q+ 14. Kxe1
+hxg6 0-1

@@ -1,0 +1,18 @@
+[Event "corr Heilimo mem"]
+[Site "corr Heilimo mem"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Hoikkala"]
+[Black "Palomaki"]
+[Result "0-1"]
+[ECO "E88"]
+[Opening "King's Indian"]
+[Variation "Saemisch, orthodox, 7.d5 c6"]
+[HashCode "1eacbdaa"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 e5 7. d5 c6 8. Bd3
+cxd5 9. cxd5 Nbd7 10. Nge2 Nc5 11. b4 Nxd3+ 12. Qxd3 Nh5 13. O-O f5 14.
+Rac1 Bd7 15. Nb5 Qe7 16. Nc7 Rac8 17. Bxa7 fxe4 18. fxe4 Rxf1+ 19. Kxf1 Bg4
+20. Bb6 Bh6 21. Rc2 Qh4 22. h3 Rf8+ 0-1
+

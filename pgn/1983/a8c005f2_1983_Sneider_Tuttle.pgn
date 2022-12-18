@@ -1,0 +1,16 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Sneider"]
+[Black "Tuttle"]
+[Result "0-1"]
+[ECO "D00"]
+[Opening "Blackmar gambit"]
+[HashCode "a8c005f2"]
+[Epoch "Rook"]
+
+1. d4 d5 2. e4 dxe4 3. Nc3 Nf6 4. f3 exf3 5. Qxf3 Qxd4 6. Be3 Qg4 7. Qf2 e5
+8. a3 Nc6 9. Nf3 Bd6 10. h3 Qe6 11. g4 Nd4 12. Ng5 Qe7 13. Bg2 c6 14. Nce4
+Be6 15. O-O Nxe4 16. Nxe4 O-O 17. c3 Nb3 0-1
+

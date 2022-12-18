@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Dal Maso"]
+[Black "Botticelli"]
+[Result "1-0"]
+[ECO "B98"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7...Be7"]
+[HashCode "1360d1a7"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8.
+Qf3 Qb6 9. O-O-O Nc6 10. Nxc6 Qxc6 11. g4 h6 12. Bh4 Nxe4 13. Nxe4 d5 14.
+Bxe7 dxe4 15. Qa3 Bd7 16. Bg2 1-0
+

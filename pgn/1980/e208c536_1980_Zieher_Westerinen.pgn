@@ -1,0 +1,20 @@
+[Event "Hamburg HSK"]
+[Site "Hamburg"]
+[Date "1980.01.01"]
+[Round "9"]
+[White "Zieher, Hartmut"]
+[Black "Westerinen, Heikki M.J."]
+[Result "1/2-1/2"]
+[ECO "C72"]
+[Opening "Ruy Lopez"]
+[Variation "modern Steinitz defence, 5.O-O"]
+[HashCode "e208c536"]
+[Epoch "Rook"]
+[WhiteID "4607821"]
+[WhiteCountry "GER"]
+[BlackID "500020"]
+[BlackCountry "FIN"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. O-O Ne7 6. c3 Ng6 7. d4 Bd7 8. d5
+Nb8 9. Bxd7+ Nxd7 10. c4 Be7 11. Nc3 O-O 12. Be3 Nf6 13. Ne1 Qd7 14. f3 h5 15.
+Nd3 h4 16. Qa4 1/2-1/2

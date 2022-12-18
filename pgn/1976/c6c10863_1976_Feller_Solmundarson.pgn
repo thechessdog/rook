@@ -1,0 +1,17 @@
+[Event "Haifa olm"]
+[Site "Haifa olm"]
+[Date "1976.10.01"]
+[Round "1"]
+[White "Feller, Joseph"]
+[Black "Solmundarson, M."]
+[Result "0-1"]
+[ECO "B10"]
+[Opening "Caro-Kann"]
+[Variation "Goldman (Spielmann) variation"]
+[HashCode "c6c10863"]
+[Epoch "Rook"]
+[WhiteCountry "LUX"]
+
+1. e4 c6 2. Nc3 d5 3. Qf3 dxe4 4. Nxe4 Nf6 5. Nxf6+ gxf6 6. Bc4 Nd7 7. Qh5 Ne5
+8. Bb3 Qa5 9. Qh4 Rg8 10. f4 Rxg2 11. fxe5 Qxe5+ 12. Kf1 Rg4 13. Qf2 Rf4 14.
+Nf3 Bh3+ 0-1

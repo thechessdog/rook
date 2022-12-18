@@ -1,0 +1,19 @@
+[Event "Slough"]
+[Site "Slough"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Taylor"]
+[Black "De Coverly, Roger D"]
+[Result "0-1"]
+[ECO "E86"]
+[Opening "King's Indian"]
+[Variation "Saemisch, orthodox, 7.Nge2 c6"]
+[HashCode "e50b011f"]
+[Epoch "Rook"]
+[BlackID "405213"]
+[BlackCountry "ENG"]
+
+1. c4 Nf6 2. Nc3 g6 3. d4 Bg7 4. e4 d6 5. f3 O-O 6. Be3 e5 7. Nge2 c6 8. Qd2
+Nbd7 9. d5 cxd5 10. cxd5 Ne8 11. Nc1 f5 12. Be2 Ndf6 13. Bh6 Nxe4 14. fxe4 Qh4+
+15. g3 Qxh6 16. Qxh6 Bxh6 17. Nd3 fxe4 18. Nxe4 Bh3 19. Ndf2 Bg2 20. Rg1 Bf3
+21. g4 Bxe2 22. Kxe2 Bf4 0-1

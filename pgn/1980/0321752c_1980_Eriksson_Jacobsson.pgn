@@ -1,0 +1,23 @@
+[Event "corr SWE/K tt"]
+[Site "corr SWE/K tt"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Eriksson, Bo"]
+[Black "Jacobsson, Bengt"]
+[Result "1-0"]
+[ECO "C89"]
+[Opening "Ruy Lopez"]
+[Variation "Marshall counter-attack, 11...c6"]
+[HashCode "0321752c"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Be7 7. Re1 O-O 8.
+c3 d5 9. exd5 Nxd5 10. Nxe5 Nxe5 11. Rxe5 c6 12. g3 Bd6 13. Re1 f5 14. f4
+Kh8 15. Bxd5 cxd5 16. d4 g5 17. Qf3 Ra7 18. Be3 Rg7 19. Nd2 gxf4 20. Bxf4
+Rg4 21. Bxd6 Qxd6 22. Re5 f4 23. Rae1 Rgg8 24. Qxd5 Qxd5 25. Rxd5 fxg3 26.
+Ne4 gxh2+ 27. Kxh2 Bb7 28. Rg5 Bxe4 29. Rxg8+ Kxg8 30. Rxe4 Rf2+ 31. Kg3
+Rxb2 32. Kf4 Rxa2 33. Ke5 Ra4 34. Rf4 Rc4 35. Rf3 b4 36. cxb4 Rxb4 37. d5
+Rb1 38. d6 Re1+ 39. Kf6 Rd1 40. Ke7 Re1+ 41. Kd8 Rd1 42. d7 Kg7 43. Rc3 Kf6
+44. Kc7 Kg5 45. Rc5+ Kg4 46. Rc6 Rxd7+ 47. Kxd7 h5 48. Rg6+ Kf5 49. Rh6 Kg4
+50. Ke6 h4 51. Ke5 1-0
+

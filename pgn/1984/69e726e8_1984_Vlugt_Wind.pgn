@@ -1,0 +1,19 @@
+[Event "corr NBC"]
+[Site "corr NBC"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Vlugt, F."]
+[Black "Wind, M."]
+[Result "0-1"]
+[ECO "A40"]
+[Opening "Queen's pawn"]
+[HashCode "69e726e8"]
+[Epoch "Rook"]
+
+1. d4 h6 2. e4 g5 3. h4 gxh4 4. Qh5 Nf6 5. Qxh4 d6 6. f3 c5 7. e5 dxe5 8.
+dxe5 Nd5 9. Qe4 Nc6 10. Bd2 e6 11. Nc3 Bg7 12. f4 a6 13. Nge2 f5 14. exf6
+Nxf6 15. Qg6+ Kf8 16. Na4 Ne7 17. Qd3 Qc7 18. Ng3 b5 19. Nc3 Bb7 20. Nh5
+Nxh5 21. Rxh5 Rd8 22. Qh3 b4 23. Na4 Qd7 24. Bd3 Qxa4 25. f5 Qc6 26. O-O-O
+c4 27. Be2 c3 28. Be1 cxb2+ 29. Kb1 Qxc2+ 30. Kxc2 Rxd1 31. Bxd1 Be4+ 32.
+Kd2 b1=Q 33. fxe6 Qb2+ 0-1
+

@@ -1,0 +1,18 @@
+[Event "California"]
+[Site "California"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Lawless, K."]
+[Black "Wang, Arthur D"]
+[Result "1-0"]
+[ECO "B16"]
+[Opening "Caro-Kann"]
+[Variation "Bronstein-Larsen variation"]
+[HashCode "390faef1"]
+[Epoch "Rook"]
+[BlackID "2011328"]
+[BlackCountry "USA"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ gxf6 6. Bc4 Qb6 7. b3 e5 8.
+dxe5 fxe5 9. Be3 Bb4+ 10. Bd2 Bf5 11. c3 Bc5 12. Qf3 Bg6 13. Qf6 O-O 14. Bh6
+Bxf2+ 15. Ke2 Bd3+ 16. Kd1 1-0

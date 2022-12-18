@@ -1,0 +1,19 @@
+[Event "Yugoslavia"]
+[Site "Yugoslavia"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Suradiradja, Herman"]
+[Black "Sahovic, Dragutin"]
+[Result "0-1"]
+[ECO "C04"]
+[Opening "French"]
+[Variation "Tarrasch, Guimard main line"]
+[HashCode "60a4404b"]
+[Epoch "Rook"]
+[WhiteID "7100167"]
+[WhiteCountry "INA"]
+[BlackCountry "SRB"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nc6 4. Ngf3 Nf6 5. e5 Nd7 6. Bd3 Nb4 7. Be2 c5 8. c3
+Nc6 9. O-O f6 10. Bd3 fxe5 11. Nxe5 Ndxe5 12. dxe5 Nxe5 13. Qh5+ Nf7 14. Bxh7
+g6 15. Qh3 e5 16. g4 Qf6 17. Re1 Qg7 18. Qd3 Qxh7 19. Nf3 Bd7 0-1

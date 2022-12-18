@@ -1,0 +1,16 @@
+[Event "Dayton,OH"]
+[Site "Dayton,OH"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Ferens, Dan"]
+[Black "Wall, Bill"]
+[Result "0-1"]
+[ECO "A58"]
+[Opening "Benko gambit accepted"]
+[HashCode "795fff3f"]
+[Epoch "Rook"]
+[BlackCountry "USA"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. bxa6 Bxa6 6. Nc3 d6 7. Nf3 g6 8. e4
+Bxf1 9. Rxf1 Bg7 10. Bd2 O-O 11. Rc1 Nbd7 12. a3 Nxe4 13. Nxe4 Bxb2 14. Rc2
+Bxa3 15. Ke2 Qb6 16. Re1 Qa6+ 17. Ke3 Nb6 18. Nfg5 Nxd5+ 19. Kf3 Qd3+ 0-1

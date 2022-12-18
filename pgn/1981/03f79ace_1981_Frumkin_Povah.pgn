@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Frumkin, E."]
+[Black "Povah, Nigel E"]
+[Result "0-1"]
+[ECO "A28"]
+[Opening "English"]
+[Variation "four knights, Stean variation"]
+[HashCode "03f79ace"]
+[Epoch "Rook"]
+[BlackID "400467"]
+[BlackCountry "ENG"]
+
+1. c4 Nf6 2. Nc3 e5 3. Nf3 Nc6 4. e3 Bb4 5. Qc2 O-O 6. Nd5 Re8 7. Qf5 d6 8.
+Nxf6+ gxf6 9. Qh5 d5 10. Bd3 e4 11. cxd5 Bf8 12. a3 exd3 13. dxc6 bxc6 14. b4
+a5 15. Bb2 Re4 16. bxa5 Rb8 17. Bc3 Rb5 0-1

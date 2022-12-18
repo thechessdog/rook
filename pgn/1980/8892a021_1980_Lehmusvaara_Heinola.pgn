@@ -1,0 +1,19 @@
+[Event "Uki"]
+[Site "Uki"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Lehmusvaara, E."]
+[Black "Heinola, Kari P."]
+[Result "0-1"]
+[ECO "C58"]
+[Opening "two knights defence"]
+[Variation "Colman variation"]
+[HashCode "8892a021"]
+[Epoch "Rook"]
+[BlackID "503495"]
+[BlackCountry "FIN"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 Na5 6. Bb5+ c6 7. dxc6 bxc6 8.
+Qf3 Rb8 9. Bxc6+ Nxc6 10. Qxc6+ Nd7 11. O-O Qxg5 12. d4 Qf5 13. Re1 Bb7 14. Qa4
+Qg4 15. Rxe5+ Be7 16. f3 Bxf3 17. Kf2 Qxg2+ 18. Ke3 Qe2+ 19. Kf4 g5+ 20. Kg3
+Qg2# 0-1

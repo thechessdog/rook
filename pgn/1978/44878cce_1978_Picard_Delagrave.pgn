@@ -1,0 +1,18 @@
+[Event "Tracy"]
+[Site "Tracy"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Picard, Jean"]
+[Black "Delagrave, Sylvain"]
+[Result "1-0"]
+[ECO "B97"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Poisoned pawn variation"]
+[HashCode "44878cce"]
+[Epoch "Rook"]
+[WhiteID "2601516"]
+[WhiteCountry "CAN"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qb6 8. Qd2
+Qxb2 9. Rb1 Qa3 10. e5 dxe5 11. fxe5 Nfd7 12. Bc4 Bb4 13. Nxe6 Bxc3 14. Nc7+
+Kf8 15. O-O Qc5+ 16. Kh1 Qxc7 17. Rxf7+ Ke8 18. Re7+ Kf8 19. Qf4+ 1-0

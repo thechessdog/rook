@@ -1,0 +1,23 @@
+[Event "Bundesliga 8182"]
+[Site "Duitsland tt"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Bartsch, Berthold"]
+[Black "Borik, Otto"]
+[Result "0-1"]
+[ECO "B23"]
+[Opening "Sicilian"]
+[Variation "closed, Korchnoi variation"]
+[HashCode "3c6dd498"]
+[Epoch "Rook"]
+[WhiteID "4604660"]
+[WhiteCountry "GER"]
+[BlackID "4600762"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nc3 e6 3. g3 d5 4. Bg2 Nf6 5. d3 Nc6 6. Nh3 d4 7. Ne2 e5 8. O-O h6
+9. f4 g5 10. fxg5 Ng4 11. c3 Be6 12. Rf3 Qd7 13. gxh6 O-O-O 14. Ng5 Bxh6 15.
+Nxe6 Qxe6 16. cxd4 Bxc1 17. Qxc1 cxd4 18. h4 Ne3 19. Kh2 Kb8 20. Bh3 Qg6 21.
+Qc5 Qh5 22. Ng1 Ng4+ 23. Kh1 Qg6 24. Raf1 Ne3 25. R1f2 Rdg8 26. Ne2 Ng4 27. Rf1
+Qe6 28. Bxg4 Qxg4 29. Qd6+ Ka8 30. Rxf7 Qxh4+ 31. Kg2 Qh2+ 32. Kf3 Qh5+ 33. Kf2
+Qxf7+ 0-1

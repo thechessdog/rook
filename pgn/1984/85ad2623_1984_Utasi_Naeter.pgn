@@ -1,0 +1,15 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Utasi"]
+[Black "Naeter"]
+[Result "1-0"]
+[ECO "A52"]
+[Opening "Budapest defence"]
+[HashCode "85ad2623"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ng4 4. f4 Bc5 5. Nh3 d6 6. exd6 O-O 7. e4 Re8 8.
+Nc3 f5 9. Qd5+ Be6 10. Qxc5 cxd6 11. Qb5 Qc7 12. Qxe8# 1-0
+

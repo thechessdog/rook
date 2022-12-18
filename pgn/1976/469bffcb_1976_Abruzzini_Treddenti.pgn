@@ -1,0 +1,22 @@
+[Event "corr Italy"]
+[Site "corr Italy"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Abruzzini"]
+[Black "Treddenti"]
+[Result "1-0"]
+[ECO "B99"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7...Be7 main line"]
+[HashCode "469bffcb"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8.
+Qf3 Qc7 9. O-O-O Nbd7 10. g4 b5 11. Bxb5 axb5 12. Ndxb5 Qc6 13. Nd4 Qb6 14.
+Rhe1 Bb7 15. a3 Nc5 16. Bxf6 Bxf6 17. Qe3 O-O 18. g5 Bxd4 19. Qxd4 Rfd8 20.
+Qb4 Qc7 21. e5 dxe5 22. Rxe5 Rxd1+ 23. Kxd1 Rd8+ 24. Kc1 Qc6 25. Kb1 Na6
+26. Qa5 Ra8 27. Qb5 g6 28. Qxc6 Bxc6 29. Ra5 Kf8 30. b4 Be8 31. Ne4 Nc7 32.
+Rxa8 Nxa8 33. Kb2 Ke7 34. Kc3 Bc6 35. Kd4 Bxe4 36. Kxe4 f6 37. h4 Nb6 38.
+Kd4 Kd6 39. c4 e5+ 40. fxe5+ fxe5+ 41. Kd3 Nd7 42. Ke4 Kc6 43. c5 Kb5 44.
+Kd5 1-0
+

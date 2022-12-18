@@ -1,0 +1,31 @@
+[Event "RLN 8283"]
+[Site "RLN 8283"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Storm, Roland"]
+[Black "Liersch, Andreas, Dr."]
+[Result "1-0"]
+[ECO "B52"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky attack, 3...Bd7"]
+[HashCode "8a8854e3"]
+[Epoch "Rook"]
+[WhiteID "4601807"]
+[WhiteCountry "GER"]
+[BlackID "4605470"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Qxd7 5. O-O Nc6 6. c3 Nf6 7. Re1 e6 8.
+d4 d5 9. e5 Ng8 10. Nbd2 cxd4 11. cxd4 Rc8 12. Nf1 Bb4 13. Bd2 Nge7 14. Rc1 O-O
+15. Ng3 Ba5 16. Bxa5 Nxa5 17. b3 Rxc1 18. Qxc1 Rc8 19. Qd2 Qb5 20. h3 h6 21.
+Ne2 Qb6 22. g4 Nac6 23. Rc1 Qb4 24. Kf1 Qxd2 25. Nxd2 Nb4 26. Rxc8+ Nxc8 27.
+Nc1 Ne7 28. Nf3 g5 29. Ne1 Ng6 30. Kg2 Kg7 31. Kg3 f6 32. Ned3 Nc6 33. exf6+
+Kxf6 34. Ne2 e5 35. dxe5+ Ngxe5 36. Nec1 Nxd3 37. Nxd3 Ne5 38. Nb4 d4 39. f4
+gxf4+ 40. Kxf4 a5 41. Nd5+ Ke6 42. Ke4 Nc6 43. h4 Ne5 44. g5 hxg5 45. hxg5 Nc6
+46. Nf4+ Kf7 47. a4 Ke7 48. Ne2 Kf7 49. Nxd4 Nb4 50. Kf5 Nd3 51. g6+ Kg7 52.
+Ne6+ Kg8 53. Kf6 Nf2 54. Nd4 Ng4+ 55. Kg5 Nf2 56. Nf5 b6 57. Kf6 Ne4+ 58. Ke5
+Nc5 59. Nd4 Nd3+ 60. Kd6 Kg7 61. Kc6 Kxg6 62. Kxb6 Kf6 63. Kxa5 Ke5 64. Nc2 Kd6
+65. Kb5 Kc7 66. b4 Kb7 67. Nd4 Ka7 68. a5 Kb7 69. Ne6 Ka7 70. Nd8 Kb8 71. a6
+Ka7 72. Nc6+ Ka8 73. Ne7 Ka7 74. Nc6+ Ka8 75. Kb6 Nc5 76. Ne7 Nd7+ 77. Ka5 Ka7
+78. Nd5 Ne5 79. b5 Nc4+ 80. Ka4 Nd6 81. Kb4 Ne4 82. Ka5 Nd6 83. b6+ Kb8 84. Nc7
+Nc4+ 85. Kb5 Nd6+ 86. Kc6 Nc8 87. Kc5 Na7 88. bxa7+ Kxc7 89. a8=Q 1-0

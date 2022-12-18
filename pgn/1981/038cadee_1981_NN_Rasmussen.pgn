@@ -1,0 +1,17 @@
+[Event "Tacoma,WA"]
+[Site "Tacoma,WA"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "NN"]
+[Black "Rasmussen, E."]
+[Result "0-1"]
+[ECO "A40"]
+[Opening "Queen's pawn"]
+[Variation "Charlick (Englund) gambit"]
+[HashCode "038cadee"]
+[Epoch "Rook"]
+
+1. d4 e5 2. dxe5 Nc6 3. Nf3 f6 4. e4 fxe5 5. Bc4 Nf6 6. Bg5 Bc5 7. O-O d6
+8. h3 h6 9. Bxf6 Qxf6 10. Nc3 Ne7 11. Qe2 c6 12. Rfd1 Ng6 13. Ne1 Rf8 14.
+Nd3 Bd4 15. Qd2 Nh4 16. Kh2 Nf3+ 17. gxf3 Qxf3 0-1
+

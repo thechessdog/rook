@@ -1,0 +1,19 @@
+[Event "Yugoslavia"]
+[Site "Yugoslavia"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Hulak, Krunoslav"]
+[Black "Nikolic, Predrag"]
+[Result "1/2-1/2"]
+[ECO "C92"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Flohr-Zaitsev system (Lenzerheide variation)"]
+[HashCode "87216991"]
+[Epoch "Rook"]
+[WhiteCountry "HRV"]
+[BlackID "14400014"]
+[BlackCountry "BIH"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. h3 Bb7 10. d4 Re8 11. Nbd2 Bf8 12. Bc2 Rc8 13. a3 g6 14. Nf1 Bg7 15. Ng3
+Ba8 16. Be3 d5 17. dxe5 1/2-1/2

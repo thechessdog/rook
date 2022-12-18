@@ -1,0 +1,18 @@
+[Event "corr FIN-BRD"]
+[Site "corr FIN-BRD"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Lagergren, Henry"]
+[Black "Hort, Wolfgang"]
+[Result "1-0"]
+[ECO "C05"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation"]
+[HashCode "65cb5a73"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. f4 c5 6. c3 Nc6 7. Ndf3 Qb6 8.
+g3 cxd4 9. cxd4 Bb4+ 10. Kf2 f6 11. Kg2 O-O 12. Bd3 fxe5 13. dxe5 Bc5 14.
+Ng5 Ncxe5 15. fxe5 Rf2+ 16. Kh3 h6 17. N5f3 Be3 18. b3 Qc5 19. Qe1 Bg5 20.
+Nxg5 hxg5 21. Be3 g4+ 22. Kxg4 Nxe5+ 23. Kh3 1-0
+

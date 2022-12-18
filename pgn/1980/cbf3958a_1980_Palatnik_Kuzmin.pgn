@@ -1,0 +1,23 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Palatnik, Semon"]
+[Black "Kuzmin, G."]
+[Result "0-1"]
+[ECO "E06"]
+[Opening "Catalan"]
+[Variation "closed, 5.Nf3"]
+[HashCode "cbf3958a"]
+[Epoch "Rook"]
+[BlackID "4132041"]
+[BlackCountry "RUS"]
+[WhiteID "2014610"]
+[WhiteCountry "USA"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Nf3 Be7 5. Bg2 O-O 6. O-O dxc4 7. Ne5 Qd6 8. Na3
+Rd8 9. Naxc4 Qa6 10. Qb3 Rxd4 11. Be3 Rd8 12. Rad1 Nd5 13. Bc1 Nd7 14. e4 N5b6
+15. Bf4 Nc5 16. Rxd8+ Bxd8 17. Qb4 Be7 18. Rd1 f6 19. Na5 fxe5 20. Bf1 Nd5 21.
+exd5 Qb6 22. Qe1 exf4 23. Nc4 Qa6 24. b4 Na4 25. Qe5 Bf8 26. d6 b5 27. dxc7 Qc6
+28. Na5 Qc3 29. Qxc3 Nxc3 30. Rd8 f3 31. Nc6 Nd5 32. Bd3 g6 33. Be4 Kg7 34.
+Bxf3 Nxc7 35. Na5 Be7 36. Rd1 Nd5 0-1

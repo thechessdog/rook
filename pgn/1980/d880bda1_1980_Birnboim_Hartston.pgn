@@ -1,0 +1,19 @@
+[Event "Skara etc"]
+[Site "Skara etc"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Birnboim, Nathan"]
+[Black "Hartston, William R"]
+[Result "1-0"]
+[ECO "A56"]
+[Opening "Czech Benoni defence"]
+[HashCode "d880bda1"]
+[Epoch "Rook"]
+[BlackID "400262"]
+[BlackCountry "ENG"]
+[WhiteID "2800209"]
+[WhiteCountry "ISR"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e5 4. Nc3 d6 5. e4 Be7 6. Nf3 Nbd7 7. g3 O-O 8. Bg2
+Ne8 9. O-O g6 10. Ne1 Ng7 11. Nd3 f5 12. f4 Bf6 13. exf5 gxf5 14. Qc2 a6 15. a4
+e4 16. Nf2 Bd4 1-0

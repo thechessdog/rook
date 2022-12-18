@@ -1,0 +1,21 @@
+[Event "corr Europe"]
+[Site "corr Europe"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Hang, E."]
+[Black "Rogemont"]
+[Result "0-1"]
+[ECO "C17"]
+[Opening "French"]
+[Variation "Winawer, advance, 5.a3"]
+[HashCode "14d9b97a"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Ba5 6. b4 cxd4 7. Nb5 Bc7 8. f4
+Ne7 9. Nf3 Nbc6 10. Nbxd4 Nxd4 11. Nxd4 Nc6 12. Nb5 Bb8 13. Be3 Bd7 14. Bc5
+Ne7 15. Bd3 Nf5 16. O-O a6 17. Nd4 Nxd4 18. Bxd4 Ba7 19. Bxa7 Rxa7 20. Qg4
+g6 21. c4 dxc4 22. Bxc4 b5 23. Bb3 Qb6+ 24. Kh1 Rc7 25. Rfc1 O-O 26. Qd1
+Rfc8 27. Rxc7 Qxc7 28. h3 Qc3 29. Kh2 Bc6 30. Rc1 Qe3 31. Rc5 Qxf4+ 32. Kg1
+Kg7 33. Qc2 Qe3+ 34. Kh2 Be4 35. Qd1 Rxc5 36. bxc5 Qxc5 37. a4 Qxe5+ 38.
+Kh1 Qb2 0-1
+

@@ -1,0 +1,21 @@
+[Event "Plauen"]
+[Site "Plauen"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Hesse, Peter"]
+[Black "Lorenz, Gerd"]
+[Result "1-0"]
+[ECO "E68"]
+[Opening "King's Indian"]
+[Variation "fianchetto, classical variation, 8.e4"]
+[HashCode "ae886105"]
+[Epoch "Rook"]
+[WhiteID "4611519"]
+[WhiteCountry "GER"]
+[BlackID "4612272"]
+[BlackCountry "GER"]
+
+1. c4 Nf6 2. Nc3 d6 3. g3 g6 4. Bg2 Bg7 5. Nf3 O-O 6. O-O e5 7. d4 Nbd7 8. e4
+Re8 9. h3 c6 10. Be3 a6 11. Qc2 b6 12. Rfd1 Bb7 13. dxe5 dxe5 14. c5 b5 15. b4
+Qc7 16. Nd2 a5 17. a3 a4 18. Rac1 Nf8 19. Nf3 Bc8 20. Qd2 Be6 21. Qd6 Rac8 22.
+Nxe5 Bb3 23. Nxc6 Bxd1 24. Qxc7 Rxc7 25. Rxd1 N6d7 26. Nd4 Bxd4 27. Bxd4 1-0

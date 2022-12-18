@@ -1,0 +1,18 @@
+[Event "corr DDR/FS"]
+[Site "corr DDR/FS"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Laske"]
+[Black "Kubanek"]
+[Result "1-0"]
+[ECO "C51"]
+[Opening "Evans gambit"]
+[Variation "Morphy attack"]
+[HashCode "14aa9a23"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 Bxb4 5. c3 Bc5 6. d4 exd4 7. O-O d6 8.
+cxd4 Bb6 9. Nc3 Nf6 10. e5 dxe5 11. Ba3 Ng4 12. h3 h5 13. Qe2 Nxd4 14. Nxd4
+Qxd4 15. Nd5 Nxf2 16. Nxb6 Nd3+ 17. Kh2 axb6 18. Bxf7+ Kd8 19. Bc1 Bg4 20.
+Qc2 Kc8 21. Rb1 Kb8 22. Bd2 1-0
+

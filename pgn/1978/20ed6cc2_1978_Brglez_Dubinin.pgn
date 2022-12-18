@@ -1,0 +1,22 @@
+[Event "corr Vidmar mem"]
+[Site "corr Vidmar mem"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Brglez, Rado"]
+[Black "Dubinin, Peter Vasilievich"]
+[Result "0-1"]
+[ECO "E16"]
+[Opening "Queen's Indian"]
+[Variation "Riumin variation"]
+[HashCode "20ed6cc2"]
+[Epoch "Rook"]
+[BlackCountry "RUS"]
+[WhiteID "14600331"]
+[WhiteCountry "SLO"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2 Bb4+ 6. Bd2 Be7 7. Nc3 O-O 8. O-O
+d5 9. Ne5 c6 10. Bf4 dxc4 11. Nxc4 Nd5 12. Rc1 Nxf4 13. gxf4 Nd7 14. Ne5 Nxe5
+15. fxe5 Qc7 16. f4 Rfd8 17. Kh1 Qc8 18. Rc2 Qd7 19. Rd2 b5 20. Ne4 Qc7 21. f5
+exf5 22. Rxf5 Qd7 23. Qf1 Qe6 24. e3 Rab8 25. Rdf2 c5 26. Nxc5 Bxc5 27. Rxf7
+Bxg2+ 28. Qxg2 Bf8 29. Rxa7 Be7 30. Qe4 Rf8 31. Rxf8+ Rxf8 32. Ra8 Bd8 33. b3
+h5 34. Qg2 Qf5 35. h3 Qb1+ 36. Kh2 Qe1 0-1

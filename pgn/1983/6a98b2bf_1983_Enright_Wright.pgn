@@ -1,0 +1,21 @@
+[Event "Berkeley"]
+[Site "Berkeley"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Enright, P."]
+[Black "Wright"]
+[Result "1-0"]
+[ECO "A34"]
+[Opening "English"]
+[Variation "symmetrical, Rubinstein system"]
+[HashCode "6a98b2bf"]
+[Epoch "Rook"]
+
+1. c4 Nf6 2. Nc3 c5 3. g3 d5 4. cxd5 Nxd5 5. Bg2 Nc7 6. Nf3 Nc6 7. Qa4 Bd7
+8. Qe4 g6 9. Qc4 e5 10. O-O Be6 11. Qa4 Bg7 12. d3 h6 13. Be3 Qe7 14. Ne4
+Na6 15. Rfc1 c4 16. dxc4 f5 17. Nc3 O-O 18. Nh4 Rfc8 19. Nxg6 Qf7 20. Nh4
+f4 21. Bd2 Nd4 22. b3 Nc5 23. Qa3 Bf8 24. Qb2 Be7 25. Nf3 Bf6 26. Nxd4 exd4
+27. Nd5 Bg7 28. Nxf4 Rf8 29. Rf1 d3 30. Bc3 dxe2 31. Nxe2 Nd3 32. Qd2 Rad8
+33. Bxg7 Qxg7 34. Qe3 Bf5 35. Bd5+ Kh8 36. Nd4 Ne5 37. Rae1 Ng4 38. Nxf5
+Rxf5 39. Qe7 Rdf8 40. Qxg7+ Kxg7 41. Re7+ Kh8 42. f4 b6 43. Be6 1-0
+

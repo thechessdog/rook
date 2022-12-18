@@ -1,0 +1,25 @@
+[Event "Buenos Aires ol (Men)"]
+[Site "Buenos Aires ol"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Foo Lun Choon"]
+[Black "Jhunjhnuwala, Ramesh"]
+[Result "0-1"]
+[ECO "D82"]
+[Opening "Gruenfeld"]
+[Variation "4.Bf4"]
+[HashCode "404423f7"]
+[Epoch "Rook"]
+[BlackID "6000053"]
+[BlackCountry "HKG"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Bf4 Bg7 5. e3 c6 6. h3 O-O 7. Nf3 Bf5 8. g4 Be4
+9. Nxe4 Nxe4 10. Bd3 Qa5+ 11. Kf1 Nd7 12. Qc2 Nef6 13. c5 b6 14. cxb6 Qxb6 15.
+Kg2 c5 16. Rhc1 Rac8 17. Qa4 Rfd8 18. Ba6 Ra8 19. Rc2 e6 20. Qb5 Bf8 21. a4 Bd6
+22. Qxb6 axb6 23. Bb7 Rab8 24. Bxd6 Rxb7 25. dxc5 bxc5 26. Bxc5 Nxc5 27. Rxc5
+Rxb2 28. Nd4 Rxf2+ 29. Kxf2 Ne4+ 30. Ke2 Nxc5 31. a5 Ra8 32. Ra3 Kf8 33. Nb5
+Na6 34. Kd3 Ke7 35. Kd4 Rc8 36. Rc3 Rxc3 37. Kxc3 e5 38. Kb3 Kd7 39. Nc3 Kc6
+40. g5 Nc7 41. Kb4 Na6+ 42. Ka4 Kc5 43. Nd1 Kc4 44. Nb2+ Kc3 45. Kb5 Kxb2 46.
+Kxa6 d4 47. exd4 exd4 48. Kb6 d3 49. a6 d2 50. a7 d1=Q 51. a8=Q Qg1+ 52. Kc7
+Qg3+ 53. Kd7 Qxg5 54. Qh8+ Kc2 55. Qxh7 f5 56. Ke6 Kd3 57. h4 Qg4 58. Kf6 f4
+59. Qxg6+ Qxg6+ 60. Kxg6 f3 61. h5 f2 62. h6 f1=Q 63. h7 Qf8 0-1

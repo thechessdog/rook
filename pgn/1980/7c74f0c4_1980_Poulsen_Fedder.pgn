@@ -1,0 +1,21 @@
+[Event "Copenhagen-ch"]
+[Site "Copenhagen"]
+[Date "1980.??.??"]
+[Round "1"]
+[White "Poulsen, Allan"]
+[Black "Fedder, Steen"]
+[Result "1-0"]
+[ECO "B97"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Poisoned pawn variation"]
+[HashCode "7c74f0c4"]
+[Epoch "Rook"]
+[WhiteID "1400533"]
+[BlackID "1400126"]
+[WhiteCountry "DEN"]
+[BlackCountry "DEN"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qb6 8. Qd2
+Qxb2 9. Rb1 Qa3 10. f5 Nc6 11. fxe6 fxe6 12. Nxc6 bxc6 13. e5 dxe5 14. Bxf6
+gxf6 15. Ne4 Be7 16. Be2 h5 17. Rb3 Qa4 18. Nxf6+ Bxf6 19. c4 Be7 20. O-O Bd7
+21. Rb7 c5 22. Bf3 O-O-O 23. Qb2 Bc6 24. Qb6 1-0

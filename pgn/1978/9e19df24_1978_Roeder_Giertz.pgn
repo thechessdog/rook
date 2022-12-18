@@ -1,0 +1,18 @@
+[Event "corr FRG/M"]
+[Site "corr FRG/M"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Roeder, H."]
+[Black "Giertz, A."]
+[Result "0-1"]
+[ECO "C67"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence, Trifunovic variation"]
+[HashCode "9e19df24"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Be7 6. Qe2 d5 7. Nxe5 Bd7
+8. Bxc6 Bxc6 9. Re1 Bd7 10. Nd2 Nd6 11. Nxd7 Qxd7 12. Nf3 f6 13. Nh4 O-O
+14. Qe6+ Qxe6 15. Rxe6 Kf7 16. Re2 g5 17. Nf3 g4 18. Nd2 Rae8 19. b3 Nb5
+20. Bb2 Ba3 0-1
+

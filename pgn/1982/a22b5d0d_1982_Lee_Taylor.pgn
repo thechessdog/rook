@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Lee, A."]
+[Black "Taylor, D."]
+[Result "1-0"]
+[ECO "C80"]
+[Opening "Ruy Lopez"]
+[Variation "open, Bernstein variation"]
+[HashCode "a22b5d0d"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8.
+dxe5 Be6 9. Nbd2 Nc5 10. c3 d4 11. Bxe6 Nxe6 12. cxd4 Ncxd4 13. Ne4 Qd5 14.
+Nxd4 Qxe4 15. Nxe6 fxe6 16. Re1 Qf5 17. g4 Qg6 18. Qf3 Rd8 19. Qc6+ Kf7 20.
+Re4 Rd1+ 21. Kg2 h5 22. Rf4+ Kg8 23. Rxf8+ Kxf8 24. Qf3+ Kg8 25. Qxd1 hxg4
+26. Qd4 1-0
+

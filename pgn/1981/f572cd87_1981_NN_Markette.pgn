@@ -1,0 +1,19 @@
+[Event "USA"]
+[Site "USA"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "NN"]
+[Black "Markette"]
+[Result "0-1"]
+[ECO "C63"]
+[Opening "Ruy Lopez"]
+[Variation "Schliemann defence, Berger variation"]
+[HashCode "f572cd87"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 f5 4. Nc3 fxe4 5. Nxe4 d5 6. Nxe5 dxe4 7. Qh5+
+g6 8. Nxg6 Nf6 9. Qe5+ Kf7 10. Nxh8+ Kg7 11. Bxc6 bxc6 12. O-O Bd6 13. Qc3
+Qd7 14. d4 Qe6 15. Bg5 Nd5 16. Qd2 Kxh8 17. Rfe1 Qg6 18. Bh6 Bh3 19. Qg5
+Rg8 20. Qxg6 Rxg6 21. Bd2 Bxg2 22. c4 Nf4 23. Bxf4 Bxf4 24. d5 Bf3+ 25. Kf1
+Bxh2 0-1
+

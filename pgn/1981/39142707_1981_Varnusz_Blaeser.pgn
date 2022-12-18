@@ -1,0 +1,20 @@
+[Event "Elekes mem-B"]
+[Site "Budapest"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Varnusz, Egon"]
+[Black "Blaeser, P."]
+[Result "1-0"]
+[ECO "B13"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack"]
+[HashCode "39142707"]
+[Epoch "Rook"]
+[WhiteCountry "HUN"]
+
+1. e4 d5 2. exd5 Nf6 3. c4 c6 4. d4 cxd5 5. Nc3 Nc6 6. Bg5 Be6 7. Bxf6 exf6 8.
+c5 g6 9. Bb5 Bg7 10. Nge2 O-O 11. O-O Qc7 12. Qd2 b6 13. Nf4 Rad8 14. Rfe1 bxc5
+15. dxc5 Ne5 16. b4 d4 17. Nxe6 fxe6 18. Ne4 Ng4 19. Nd6 Rxd6 20. cxd6 Qxd6 21.
+g3 Ne5 22. Be2 d3 23. Rab1 Rd8 24. Bd1 f5 25. Qe3 d2 26. Rf1 h6 27. Qxa7 f4 28.
+b5 fxg3 29. hxg3 Nd3 30. Qa6 Qe5 31. Bg4 Rd6 32. Qa8+ Kh7 33. b6 Rd5 34. b7
+Nxf2 35. b8=Q 1-0

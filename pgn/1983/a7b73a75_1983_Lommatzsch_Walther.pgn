@@ -1,0 +1,19 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Lommatzsch, E."]
+[Black "Walther, J."]
+[Result "0-1"]
+[ECO "D87"]
+[Opening "Gruenfeld"]
+[Variation "exchange, Spassky variation"]
+[HashCode "a7b73a75"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Bc4 O-O
+8. Ne2 c5 9. O-O Nc6 10. Be3 Qc7 11. dxc5 Ne5 12. Qb3 Nxc4 13. Qxc4 e5 14.
+Qb4 Bd7 15. c4 Rfc8 16. Nc3 Bf8 17. Nd5 Qc6 18. Rfd1 Bg4 19. f3 Be6 20. Qc3
+Bxc5 21. Qxe5 Bxd5 22. exd5 Bxe3+ 23. Qxe3 Qxc4 24. d6 Re8 25. Qd4 Re1+ 26.
+Kf2 Qxd4+ 0-1
+

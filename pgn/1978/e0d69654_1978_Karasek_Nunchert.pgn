@@ -1,0 +1,25 @@
+[Event "Potsdam"]
+[Site "Potsdam"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Karasek, H."]
+[Black "Nuenchert, Eveline"]
+[Result "0-1"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Lipnitzky attack"]
+[HashCode "e0d69654"]
+[Epoch "Rook"]
+[BlackID "4612540"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 Be7 8. Be3
+Nc6 9. Qe2 Bd7 10. O-O-O Qc7 11. Rhg1 b5 12. f3 O-O 13. g4 Rfc8 14. g5 Ne8 15.
+f4 Na5 16. Bd5 b4 17. Bxa8 bxc3 18. Qxa6 Qb8 19. b3 Qxa8 20. Qxa8 Rxa8 21. Ne2
+d5 22. Nxc3 Bb4 23. Kb2 Ba3+ 24. Ka1 Bb4 25. Kb2 Ba3+ 26. Ka1 Bb4 27. Nb1 Bc6
+28. exd5 exd5 29. Kb2 Nc7 30. h4 Nb5 31. a4 Nc7 32. Bb6 Ne8 33. Nc3 Bxc3+ 34.
+Kxc3 Nd6 35. Rge1 Nab7 36. Kb4 Ne4 37. a5 Nbd6 38. Bc7 Nb5 39. Rxe4 dxe4 40.
+Kc5 Nc3 41. Kxc6 Nxd1 42. Kb7 Re8 43. a6 Nc3 44. Bb6 e3 45. a7 Nd5 46. Bxe3
+Nxe3 47. c4 Re7+ 48. Ka6 Re8 49. c5 Nd5 50. c6 Kf8 51. Kb7 Re7+ 52. Kb8 Nc7 53.
+Kc8 Na8 54. Kb8 Nc7 55. Kc8 Nd5 56. Kb8 Nb4 57. a8=Q Re8+ 58. Kb7 Rxa8 59. Kxa8
+Nxc6 0-1

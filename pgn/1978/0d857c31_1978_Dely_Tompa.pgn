@@ -1,0 +1,19 @@
+[Event "HUN-ch"]
+[Site "Budapest"]
+[Date "1978.??.??"]
+[Round "?"]
+[White "Dely, Peter"]
+[Black "Tompa, Janos"]
+[Result "1/2-1/2"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "0d857c31"]
+[Epoch "Rook"]
+[BlackID "700193"]
+[WhiteCountry "HUN"]
+[BlackCountry "HUN"]
+
+1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. d4 Nf6 5. Nf3 Nc6 6. Be2 e6 7. O-O Be7 8. Na3
+O-O 9. Nb5 Qd8 10. dxc5 Bxc5 11. Qxd8 Rxd8 12. Bf4 Nd5 13. Bg3 a6 14. Nc7 Nxc7
+15. Bxc7 Rd7 16. Bf4 Kf8 17. Ng5 e5 1/2-1/2

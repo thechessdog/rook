@@ -1,0 +1,16 @@
+[Event "Dayton,OH"]
+[Site "Dayton,OH"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Trogdon, T."]
+[Black "Whitacre, F."]
+[Result "0-1"]
+[ECO "B46"]
+[Opening "Sicilian"]
+[Variation "Taimanov variation"]
+[HashCode "bbdf23dc"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e6 5. Nc3 a6 6. Be2 Bb4 7. Qd3 Qc7
+8. O-O Nge7 9. f4 Nxd4 10. Qxd4 Bc5 0-1
+

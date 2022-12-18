@@ -1,0 +1,21 @@
+[Event "Copenhagen op"]
+[Site "Copenhagen op"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Carlsson, Gerner"]
+[Black "Ernst, Thomas"]
+[Result "0-1"]
+[ECO "A57"]
+[Opening "Benko gambit"]
+[Variation "Zaitsev system"]
+[HashCode "dbcb5ded"]
+[Epoch "Rook"]
+[WhiteID "1410237"]
+[WhiteCountry "DEN"]
+[BlackID "1700065"]
+[BlackCountry "SWE"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. Nc3 axb5 6. e4 b4 7. Nb5 d6 8. Nf3 g6
+9. e5 dxe5 10. Nxe5 Bg7 11. Bc4 O-O 12. O-O Nfd7 13. Nxf7 Rxf7 14. d6 Ne5 15.
+Bxf7+ Nxf7 16. Bg5 Bd7 17. Nc7 Nxg5 18. Qd5+ e6 19. Qxa8 Bc6 20. Qa7 Nf3+ 21.
+Kh1 Qh4 22. Qxb8+ Kf7 23. h3 Qf4 24. g3 Qf5 0-1

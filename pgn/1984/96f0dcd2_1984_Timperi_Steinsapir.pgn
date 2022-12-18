@@ -1,0 +1,18 @@
+[Event "corr EUR/M"]
+[Site "corr EUR/M"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Timperi"]
+[Black "Steinsapir, J."]
+[Result "0-1"]
+[ECO "C78"]
+[Opening "Ruy Lopez"]
+[Variation "Archangelsk (counterthrust) variation"]
+[HashCode "96f0dcd2"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Bb7 7. Re1 Bc5 8.
+c3 Qe7 9. d4 Bb6 10. Bg5 h6 11. Bh4 g5 12. Bg3 exd4 13. Nxd4 O-O-O 14. Nf5
+Qc5 15. e5 h5 16. h4 gxh4 17. Nxh4 Rhg8 18. Qf3 Na5 19. Qxf6 Rxg3 20. Bxf7
+Rf3 21. Nxf3 Qxf2+ 22. Kh1 Bxf3 23. Qxf3 Qxe1+ 24. Kh2 Qxe5+ 0-1
+

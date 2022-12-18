@@ -1,0 +1,18 @@
+[Event "corr Netherlands"]
+[Site "corr Netherlands"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Zwartveld"]
+[Black "Bolleman"]
+[Result "1/2-1/2"]
+[ECO "E88"]
+[Opening "King's Indian"]
+[Variation "Saemisch, orthodox, 7.d5 c6"]
+[HashCode "f1011075"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 e5 7. d5 c6 8. Qd2
+cxd5 9. cxd5 a6 10. O-O-O b5 11. g4 Nbd7 12. h4 h5 13. Bh6 Bxh6 14. Qxh6 b4
+15. Na4 Qa5 16. b3 Nc5 17. gxh5 Nxh5 18. Nxc5 Qxc5+ 19. Kb1 Bd7 20. Bh3
+Rfc8 21. Qd2 Bxh3 1/2-1/2
+

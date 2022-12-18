@@ -1,0 +1,18 @@
+[Event "Denmark"]
+[Site "Denmark"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Bentzen, Eric"]
+[Black "Petersen, Finn"]
+[Result "1-0"]
+[ECO "A43"]
+[Opening "Old Benoni defence"]
+[HashCode "0f910e1b"]
+[Epoch "Rook"]
+[WhiteID "1402153"]
+[BlackID "1400754"]
+[WhiteCountry "DEN"]
+[BlackCountry "DEN"]
+
+1. d4 Nf6 2. Nf3 c5 3. d5 b5 4. Bg5 Qb6 5. a4 bxa4 6. Nc3 d6 7. e4 Nbd7 8. Bb5
+h6 9. Bc1 g6 10. e5 dxe5 11. Nxe5 Bg7 12. Bc6 Bb7 13. Nc4 1-0

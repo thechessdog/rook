@@ -1,0 +1,22 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Wiedemann"]
+[Black "Tobi"]
+[Result "1/2-1/2"]
+[ECO "B92"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Opovcensky variation"]
+[HashCode "811ba88b"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8.
+O-O O-O 9. Be3 Be6 10. f4 exf4 11. Bxf4 Nc6 12. Kh1 b5 13. a3 Rc8 14. Qe1
+Kh8 15. Rd1 Qc7 16. Nc5 Nb8 17. Nxa6 Nxa6 18. Nxb5 Qxc2 19. Nd4 Qa4 20. Bb5
+Qxd1 21. Qxd1 Nc5 22. Nc6 Bd7 23. Nxe7 Bxb5 24. Nxc8 Bxf1 25. Bxd6 Ncxe4
+26. Qxf1 Rxc8 27. Bf4 Rd8 28. h3 Rd1 29. Qxd1 Nf2+ 30. Kg1 Nxd1 31. Bc1 Nd5
+32. Kf1 N1e3+ 33. Kf2 Nf5 34. Kf3 Nd6 35. Ke2 Kg8 36. Kd3 Kf8 37. Kd4 Ne7
+38. Bf4 Ndc8 39. Kc5 Ke8 40. b4 Kd7 41. b5 Ng6 42. Bh2 Nf8 43. b6 Ne6+ 44.
+Kb5 Nd8 1/2-1/2
+

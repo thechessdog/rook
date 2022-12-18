@@ -1,0 +1,18 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Griesbach"]
+[Black "Melzer"]
+[Result "0-1"]
+[ECO "E84"]
+[Opening "King's Indian"]
+[Variation "Saemisch, Panno main line"]
+[HashCode "95e92b5c"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 Nc6 7. Qd2 a6 8.
+Nge2 Rb8 9. g4 b5 10. Ng3 e5 11. d5 Nd4 12. Bg2 bxc4 13. O-O Nd7 14. Nce2
+Nxe2+ 15. Qxe2 Nb6 16. Rf2 f5 17. gxf5 gxf5 18. Nh5 Rf7 19. Nxg7 Rxg7 20.
+Kh1 Na4 21. Bc1 Qh4 22. Bf1 f4 23. Qc2 Kh8 24. Rg2 Rxg2 25. Qxg2 Bd7 0-1
+

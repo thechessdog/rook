@@ -1,0 +1,20 @@
+[Event "corr USCCC"]
+[Site "corr USCCC"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Carlson, Curtis"]
+[Black "Endsley"]
+[Result "1-0"]
+[ECO "C06"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation, main line"]
+[HashCode "9740069a"]
+[Epoch "Rook"]
+[WhiteID "2002868"]
+[WhiteCountry "USA"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Bd3 c5 6. c3 Nc6 7. Ne2 cxd4 8. cxd4
+f6 9. exf6 Nxf6 10. Nf3 Qb6 11. O-O Bd6 12. Nc3 O-O 13. Be3 Bd7 14. Rc1 Rac8
+15. h3 Qd8 16. Re1 a6 17. a3 b5 18. b4 Kh8 19. Bb1 Qe8 20. Bg5 Qh5 21. Bh4 Ne7
+22. Bg3 Nf5 23. Bxf5 Bxg3 24. Bg4 Nxg4 25. hxg4 Bxf2+ 26. Kxf2 Qxg4 27. Qd3 Be8
+28. Qe3 Bg6 29. Kg1 1-0

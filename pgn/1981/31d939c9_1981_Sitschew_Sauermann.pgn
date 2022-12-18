@@ -1,0 +1,23 @@
+[Event "corr FSM/EU"]
+[Site "corr FSM/EU"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Sitschew, A."]
+[Black "Sauermann, Wilfried"]
+[Result "1-0"]
+[ECO "A77"]
+[Opening "Benoni"]
+[Variation "classical, 9...Re8, 10.Nd2"]
+[HashCode "31d939c9"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. Nf3 Bg7 8. Be2
+O-O 9. O-O Re8 10. Nd2 Nbd7 11. h3 a6 12. a4 Rb8 13. Qc2 Qc7 14. b3 c4 15. bxc4
+b5 16. axb5 axb5 17. Ra2 b4 18. Nb5 Qb6 19. Qb3 Nc5 20. Qxb4 Bd7 21. Bb2 Ncxe4
+22. Nxe4 Nxe4 23. Bxg7 Kxg7 24. Bd3 Bxb5 25. cxb5 Nf6 26. Rb1 Nxd5 27. Qb2+ Kg8
+28. Ra6 Qc5 29. Rc1 Qb4 30. Qa1 Nf4 31. Ra4 Qb3 32. Bc4 Ne2+ 33. Kh2 Nxc1 34.
+Bxb3 Nxb3 35. Qf1 Nc5 36. Rb4 Rb6 37. h4 d5 38. h5 Rd8 39. hxg6 hxg6 40. Qc1
+Ne6 41. Rh4 Kg7 42. f4 Kf6 43. f5 gxf5 44. Rh6+ Ke7 45. Qa3+ Rbd6 46. Qh3 f4
+47. Qf5 Rf8 48. Qf6+ Ke8 49. Rh3 Kd7 50. Ra3 Rb6 51. Qe5 Rc8 52. Qxd5+ Rd6 53.
+Qb7+ Rc7 54. Qb8 Nd4 55. Ra2 Rc5 56. Ra7+ Ke6 57. Qe8+ Kd5 58. Qxf7+ Ne6 59.
+Rd7 Rxb5 60. Qh5+ 1-0

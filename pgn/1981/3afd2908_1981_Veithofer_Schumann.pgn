@@ -1,0 +1,18 @@
+[Event "corr DDR thematic"]
+[Site "corr DDR thematic"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Veithofer"]
+[Black "Schumann"]
+[Result "0-1"]
+[ECO "C57"]
+[Opening "two knights defence"]
+[Variation "Wilkes Barre (Traxler) variation"]
+[HashCode "3afd2908"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 Bc5 5. Nxf7 Bxf2+ 6. Kf1 Qe7 7. Nxh8
+d5 8. exd5 Bg4 9. Be2 Bxe2+ 10. Qxe2 Nd4 11. Qxf2 O-O-O 12. g3 Rf8 13. Kg2
+Ne4 14. Qe3 Rf2+ 15. Qxf2 Nxf2 16. Kxf2 Qf6+ 17. Kg1 Qf3 18. Nc3 Nxc2 19.
+Rb1 Ne1 0-1
+

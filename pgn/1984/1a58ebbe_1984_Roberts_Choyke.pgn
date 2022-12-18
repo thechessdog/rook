@@ -1,0 +1,16 @@
+[Event "E Detroit Motor City op"]
+[Site "E Detroit Motor City op"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Roberts, K."]
+[Black "Choyke, J."]
+[Result "1-0"]
+[ECO "D94"]
+[Opening "Gruenfeld"]
+[Variation "5.e3"]
+[HashCode "1a58ebbe"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. e3 Bg7 5. Nf3 dxc4 6. Bxc4 Nfd7 7. Bxf7+
+Kxf7 8. Ng5+ Kf6 9. Nce4+ Kf5 10. g4# 1-0
+

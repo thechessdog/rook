@@ -1,0 +1,28 @@
+[Event "Skara etc"]
+[Site "Skara etc"]
+[Date "1980.01.01"]
+[Round "5"]
+[White "Mestel, A Jonathan"]
+[Black "Nemet, Ivan"]
+[Result "1-0"]
+[ECO "B92"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Opovcensky variation"]
+[HashCode "309e9cce"]
+[Epoch "Rook"]
+[WhiteID "400122"]
+[WhiteCountry "ENG"]
+[BlackCountry "CHE"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8. a4
+O-O 9. O-O Be6 10. f4 Qc7 11. Kh1 Nbd7 12. a5 exf4 13. Bxf4 Ne5 14. Nd5 Bxd5
+15. exd5 Rfe8 16. c4 Bf8 17. Rc1 Nfd7 18. Qd2 g6 19. Nd4 b6 20. Nc6 Nc5 21.
+Bxe5 dxe5 22. b4 Nb3 23. Qe3 Nxc1 24. axb6 Qd7 25. Rxc1 e4 26. Rd1 h5 27. c5
+Kh7 28. Na5 Bh6 29. Qb3 Bf4 30. d6 e3 31. b7 Rad8 32. c6 Qf5 33. c7 Rxd6 34.
+Rxd6 Bxd6 35. c8=Q Rxc8 36. bxc8=Q Qxc8 37. Qxf7+ Kh6 38. Nc4 Bxb4 39. Qf4+ Kg7
+40. Qxe3 a5 41. Qe5+ Kh6 42. Bd3 Qd8 43. Qf4+ Qg5 44. Qxg5+ Kxg5 45. Bc2 Kf6
+46. Kg1 g5 47. Kf2 g4 48. Kg3 Kg5 49. h4+ Kf6 50. Kf4 Be1 51. g3 Bb4 52. Ba4
+Bc5 53. Be8 Bb4 54. Ke3 Be1 55. Kf4 Bb4 56. Ba4 Bc5 57. Nd2 Bd6+ 58. Ke3 Ke7
+59. Ne4 Be5 60. Kd3 Bb2 61. Kc4 Be5 62. Kd5 Bb8 63. Bb3 Kf7 64. Kc5+ Kg6 65.
+Be6 Bc7 66. Kc6 Bb8 67. Kb6 a4 68. Kb5 a3 69. Kb4 a2 70. Bxa2 Kf5 71. Bb1 Ke5
+72. Kc4 Bc7 73. Kd3 Bd8 74. Ba2 Bxh4 75. gxh4 Kf4 76. Nf6 1-0

@@ -1,0 +1,21 @@
+[Event "Warsaw"]
+[Site "Warsaw"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Boensch, Uwe"]
+[Black "Schmidt, Wlodzimierz"]
+[Result "1-0"]
+[ECO "E60"]
+[Opening "King's Indian, 3.Nf3"]
+[HashCode "14d01dc6"]
+[Epoch "Rook"]
+[WhiteID "4611268"]
+[WhiteCountry "GER"]
+[BlackID "1100041"]
+[BlackCountry "POL"]
+
+1. d4 Nf6 2. c4 g6 3. Nf3 Bg7 4. g3 c5 5. d5 d6 6. Bg2 O-O 7. Nc3 Na6 8. O-O
+Nc7 9. a4 Rb8 10. h3 b6 11. e4 a6 12. e5 Nfe8 13. Re1 b5 14. b3 bxc4 15. bxc4
+dxe5 16. Nxe5 Bxe5 17. Rxe5 Nd6 18. Bf1 Rb4 19. Ba3 Nxc4 20. Bxb4 Nxe5 21. Bxc5
+Nd7 22. Ba3 Ne8 23. Qe2 Nd6 24. Re1 Qc7 25. Qxe7 Qxc3 26. Bxd6 Qa5 27. Rc1 Qxa4
+28. Rc7 1-0

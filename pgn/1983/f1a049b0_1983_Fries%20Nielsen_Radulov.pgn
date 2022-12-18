@@ -1,0 +1,20 @@
+[Event "Silkeborg"]
+[Site "Silkeborg"]
+[Date "1983.??.??"]
+[Round "7"]
+[White "Fries-Nielsen, Jens Ove"]
+[Black "Radulov, Ivan"]
+[Result "0-1"]
+[ECO "B25"]
+[Opening "Sicilian"]
+[Variation "closed, 6.f4"]
+[HashCode "f1a049b0"]
+[Epoch "Rook"]
+[BlackID "2900300"]
+[BlackCountry "FID"]
+[WhiteCountry "DEN"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. f4 f5 7. Nf3 Nf6 8. O-O O-O
+9. Kh1 Rb8 10. Rb1 e6 11. a3 b6 12. b4 Bb7 13. Bd2 Qd7 14. Ng5 Nd4 15. Nh3 Rbc8
+16. Nf2 e5 17. Ne2 fxe4 18. dxe4 Ba6 19. Nc3 Bxf1 20. Qxf1 cxb4 21. axb4 Ng4
+22. Nxg4 Qxg4 23. Qd3 Kh8 24. h3 Qe6 25. b5 Qc4 26. Nd5 Qxc2 27. Qxc2 Rxc2 0-1

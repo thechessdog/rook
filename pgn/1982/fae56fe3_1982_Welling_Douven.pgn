@@ -1,0 +1,18 @@
+[Event "Eindhoven"]
+[Site "Eindhoven"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Welling, Gerard"]
+[Black "Douven, Rudy"]
+[Result "1-0"]
+[ECO "C30"]
+[Opening "King's gambit"]
+[HashCode "fae56fe3"]
+[Epoch "Rook"]
+[WhiteID "1000446"]
+[WhiteCountry "NED"]
+[BlackID "1000195"]
+[BlackCountry "NED"]
+
+1. f4 e5 2. e4 c6 3. Nf3 d5 4. exd5 e4 5. Ne5 Nf6 6. dxc6 Nxc6 7. Bc4 Nxe5 8.
+fxe5 Bg4 9. exf6 1-0

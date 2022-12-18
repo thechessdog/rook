@@ -1,0 +1,22 @@
+[Event "Bulgaria"]
+[Site "Bulgaria"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Ermenkov, Evgenij"]
+[Black "Radulov, Ivan"]
+[Result "1-0"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical, h3 system"]
+[HashCode "6a2254dc"]
+[Epoch "Rook"]
+[WhiteID "2900106"]
+[BlackID "2900300"]
+[WhiteCountry "FID"]
+[BlackCountry "FID"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Nf3 Bg7 5. h3 O-O 6. Be3 a6 7. a4 b6 8. e5 Ne8
+9. Bc4 e6 10. Qe2 Bb7 11. Rd1 Qc8 12. Bg5 d5 13. Ba2 Qd7 14. h4 Nc6 15. h5 Ne7
+16. Qd2 c5 17. dxc5 bxc5 18. Ne4 Qxa4 19. Nxc5 Qxa2 20. Bxe7 Bc6 21. hxg6 hxg6
+22. Qf4 Qxb2 23. Qh2 Qc3+ 24. Kf1 f6 25. Qh7+ Kf7 26. exf6 Nxf6 27. Ng5+ Ke8
+28. Ncxe6 1-0

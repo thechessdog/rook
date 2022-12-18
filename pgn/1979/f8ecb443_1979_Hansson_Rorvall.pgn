@@ -1,0 +1,19 @@
+[Event "SWE-ch"]
+[Site "?"]
+[Date "1979.??.??"]
+[Round "?"]
+[White "Hansson, Dan"]
+[Black "Rorvall, Goran"]
+[Result "0-1"]
+[ECO "B87"]
+[Opening "Sicilian"]
+[Variation "Sozin with ...a6 and ...b5"]
+[HashCode "f8ecb443"]
+[Epoch "Rook"]
+[BlackID "1700650"]
+[BlackCountry "SWE"]
+[WhiteCountry "ISL"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 b5 8. O-O
+Be7 9. f4 Bb7 10. e5 dxe5 11. fxe5 Bc5 12. Be3 Nc6 13. exf6 Bxd4 14. fxg7 Bxe3+
+15. Kh1 Rg8 16. Qf3 Rxg7 17. Qxe3 Qd4 0-1

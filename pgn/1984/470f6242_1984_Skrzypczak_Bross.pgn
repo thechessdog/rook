@@ -1,0 +1,21 @@
+[Event "Bottrop"]
+[Site "Bottrop"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Skrzypczak, Jerzy"]
+[Black "Bross, Horst"]
+[Result "0-1"]
+[ECO "A00"]
+[Opening "Benko's opening"]
+[HashCode "470f6242"]
+[Epoch "Rook"]
+[WhiteID "1103016"]
+[WhiteCountry "POL"]
+[BlackCountry "DEU"]
+
+1. g3 d6 2. Bg2 Nf6 3. d4 g6 4. Nf3 Bg7 5. O-O O-O 6. c4 Re8 7. Nc3 Nbd7 8. Rb1
+e5 9. Bg5 c6 10. d5 Qc7 11. a3 Nb6 12. Qb3 Bf5 13. Rbc1 Rac8 14. Bxf6 Bxf6 15.
+e4 Bd7 16. a4 cxd5 17. cxd5 Qc4 18. Qxc4 Nxc4 19. b3 Nb6 20. Rfe1 a5 21. Bf1
+Rc7 22. Bb5 Rec8 23. Re3 Bxb5 24. axb5 Bg7 25. Rd3 a4 26. Nd2 Bh6 27. f4 exf4
+28. Nc4 Nxc4 29. b6 Nxb6 30. bxa4 Nxa4 31. Nxa4 Rxc1+ 32. Kg2 fxg3 33. hxg3
+R8c4 34. Rb3 0-1

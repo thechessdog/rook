@@ -1,0 +1,18 @@
+[Event "Winston-Salem,NC"]
+[Site "Winston-Salem,NC"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Harris, Neal"]
+[Black "Wall, Bill"]
+[Result "1-0"]
+[ECO "B40"]
+[Opening "Sicilian"]
+[Variation "Anderssen variation"]
+[HashCode "9fc05beb"]
+[Epoch "Rook"]
+[WhiteID "2010895"]
+[WhiteCountry "USA"]
+[BlackCountry "USA"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. e5 Ng8 7. Be3 Bb4 8. Bd2
+Qc7 9. f4 Ne7 10. Qg4 O-O 11. Bd3 f5 12. exf6 Rxf6 13. O-O Bc5 1-0

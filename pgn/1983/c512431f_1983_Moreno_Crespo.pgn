@@ -1,0 +1,20 @@
+[Event "corr EU-M"]
+[Site "corr EU-M"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Moreno"]
+[Black "Crespo"]
+[Result "0-1"]
+[ECO "C12"]
+[Opening "French"]
+[Variation "MacCutcheon, Lasker variation, 8...g6"]
+[HashCode "c512431f"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Bb4 5. e5 h6 6. Bd2 Bxc3 7. bxc3 Ne4 8.
+Qg4 g6 9. Bd3 Nxd2 10. Kxd2 c5 11. Qf4 cxd4 12. cxd4 Qa5+ 13. c3 Nd7 14. h4
+b6 15. Nh3 Ba6 16. Qe3 Bxd3 17. Qxd3 Rc8 18. h5 g5 19. f4 gxf4 20. Nxf4 Rc4
+21. Ne2 Rg8 22. g3 Ra4 23. Qc2 Rg7 24. Rhf1 b5 25. Rf3 Ke7 26. Ke3 f6 27.
+exf6+ Nxf6 28. Kf2 Ne4+ 29. Kg2 Kd6 30. a3 Qd8 31. Nf4 Qh4 32. Qd3 Rc4 33.
+Rc1 Rxg3+ 0-1
+

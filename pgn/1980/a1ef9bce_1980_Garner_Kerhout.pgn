@@ -1,0 +1,18 @@
+[Event "Noordwijk"]
+[Site "Noordwijk"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Garner"]
+[Black "Kerhout"]
+[Result "1-0"]
+[ECO "C36"]
+[Opening "KGA"]
+[Variation "Abbazia defence, modern variation"]
+[HashCode "a1ef9bce"]
+[Epoch "Rook"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 d5 4. exd5 Nf6 5. c4 c6 6. d4 cxd5 7. Bxf4 Bb4+
+8. Nc3 O-O 9. Bd3 Re8+ 10. Be5 Ng4 11. O-O Bxc3 12. bxc3 Ne3 13. Bxh7+ Kxh7
+14. Qd3+ Nf5 15. g4 dxc4 16. Qe4 g6 17. gxf5 Bxf5 18. Qf4 f6 19. Qh4+ Kg7
+20. Ng5 fxe5 21. Rxf5 1-0
+

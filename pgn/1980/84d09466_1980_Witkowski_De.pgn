@@ -1,0 +1,19 @@
+[Event "Venice"]
+[Site "Venice"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Witkowski"]
+[Black "De Eccher, Stefano"]
+[Result "0-1"]
+[ECO "E12"]
+[Opening "Queen's Indian"]
+[Variation "Miles variation"]
+[HashCode "84d09466"]
+[Epoch "Rook"]
+[BlackID "800678"]
+[BlackCountry "ITA"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. Bf4 Bb7 5. e3 Bb4+ 6. Nfd2 O-O 7. a3 Be7 8. Nc3
+d5 9. Rc1 c5 10. dxc5 bxc5 11. Nf3 Nc6 12. cxd5 exd5 13. Bd3 d4 14. Ne4 Nd5 15.
+Nxc5 Bxc5 16. Rxc5 Nxf4 17. exf4 Qe7+ 18. Re5 Nxe5 19. fxe5 Bxf3 20. Qxf3 Qxe5+
+21. Qe2 Qa5+ 22. Qd2 Rfe8+ 23. Kd1 Qd5 24. f3 Rac8 25. Re1 Qb3+ 0-1

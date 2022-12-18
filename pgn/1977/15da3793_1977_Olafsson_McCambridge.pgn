@@ -1,0 +1,22 @@
+[Event "Lone Pine open"]
+[Site "Lone Pine open"]
+[Date "1977.03.01"]
+[Round "2"]
+[White "Olafsson, Helgi"]
+[Black "McCambridge, Vincent"]
+[Result "1-0"]
+[ECO "E97"]
+[Opening "King's Indian"]
+[Variation "orthodox, Aronin-Taimanov variation (Yugoslav attack / Mar del Plata variation)"]
+[HashCode "15da3793"]
+[Epoch "Rook"]
+[WhiteID "2300010"]
+[WhiteCountry "ISL"]
+[BlackID "2000342"]
+[BlackCountry "USA"]
+
+1. c4 Nf6 2. Nc3 g6 3. e4 d6 4. d4 Bg7 5. Be2 O-O 6. Nf3 e5 7. O-O Nc6 8. d5
+Ne7 9. Nd2 Nd7 10. b4 f5 11. c5 Nf6 12. f3 Bh6 13. Nc4 Bxc1 14. Rxc1 a6 15. a4
+Rb8 16. a5 Nh5 17. b5 dxc5 18. Nxe5 Qd6 19. Nc4 Qd8 20. b6 cxb6 21. axb6 Nf4
+22. Qd2 Nxe2+ 23. Qxe2 Bd7 24. Rb1 Be8 25. Rfd1 Bf7 26. e5 Nxd5 27. Nxd5 Bxd5
+28. Ne3 1-0

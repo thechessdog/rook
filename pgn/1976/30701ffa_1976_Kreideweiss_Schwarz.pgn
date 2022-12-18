@@ -1,0 +1,21 @@
+[Event "corr DDR-FSM"]
+[Site "corr DDR-FSM"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Kreideweiss, F."]
+[Black "Schwarz, H."]
+[Result "1-0"]
+[ECO "C05"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation"]
+[HashCode "30701ffa"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. f4 c5 6. c3 Nc6 7. Ndf3 cxd4 8.
+cxd4 Nb6 9. Bd3 Bd7 10. Ne2 h5 11. O-O a5 12. Nc3 g6 13. Be3 Be7 14. Rc1
+Rc8 15. a3 Na7 16. Nd2 Kf8 17. Qf3 Kg7 18. Kh1 Qg8 19. Nb3 a4 20. Nc5 Bc6
+21. Qg3 Nc4 22. Bxc4 dxc4 23. d5 Bxd5 24. N5xa4 Nc6 25. f5 Kh7 26. Nb6 Rd8
+27. f6 Bf8 28. Qg5 Nd4 29. Nbxd5 exd5 30. Bxd4 Bh6 31. Qh4 Bxc1 32. Rxc1
+Kh6 33. g4 Qe8 34. Rg1 Kh7 35. gxh5 g5 36. Qxg5 Rg8 37. Qf5+ Kh8 38. Rxg8+
+Qxg8 39. e6 Rd6 40. e7 Re6 41. Qxe6 1-0
+

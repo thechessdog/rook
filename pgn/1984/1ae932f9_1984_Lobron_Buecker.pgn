@@ -1,0 +1,21 @@
+[Event "RFT ch"]
+[Site "Bad Neuenahr"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Lobron, Eric"]
+[Black "Buecker, Stefan"]
+[Result "1-0"]
+[ECO "B20"]
+[Opening "Sicilian"]
+[Variation "Keres variation (2.Ne2)"]
+[HashCode "1ae932f9"]
+[Epoch "Rook"]
+[WhiteID "4600037"]
+[WhiteCountry "GER"]
+[BlackID "4601424"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Ne2 Nf6 3. Nbc3 e5 4. g3 d6 5. d3 Nc6 6. Bg2 g6 7. O-O Bg7 8. f4
+exf4 9. Bxf4 h6 10. Nb5 Bf8 11. e5 Nxe5 12. Bxe5 dxe5 13. Rxf6 a6 14. Qf1 axb5
+15. Rxf7 Be7 16. Be4 Rg8 17. Qf3 Ra6 18. Rf1 Bh3 19. Bxb7 Bxf1 20. Bxa6 Qb6 21.
+Bb7 1-0

@@ -1,0 +1,17 @@
+[Event "Dayton,OH"]
+[Site "Dayton,OH"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Bullock, Randy"]
+[Black "Gilmore"]
+[Result "1-0"]
+[ECO "C35"]
+[Opening "KGA"]
+[Variation "Cunningham, three pawns gambit"]
+[HashCode "3eb74728"]
+[Epoch "Rook"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 Be7 4. Bc4 Bh4+ 5. g3 fxg3 6. O-O gxh2+ 7. Kh1
+g5 8. Nxh4 Nf6 9. Bxf7+ Kxf7 10. Qh5+ Ke6 11. Qxg5 Rg8 12. Qf5+ Kf7 13.
+Qxh7+ Rg7 14. Qh5+ Kg8 15. Qf5 Kf7 16. e5 1-0
+

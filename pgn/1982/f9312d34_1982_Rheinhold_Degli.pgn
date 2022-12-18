@@ -1,0 +1,20 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Rheinhold"]
+[Black "Degli Eredi"]
+[Result "1-0"]
+[ECO "B51"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky (Nimzovich-Rossolimo, Moscow) attack"]
+[HashCode "f9312d34"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Nc6 4. O-O Bd7 5. Re1 e5 6. Nc3 a6 7. Bc4 b5 8.
+Bd5 Nf6 9. d3 Nxd5 10. Nxd5 Be6 11. b3 Ne7 12. c4 Bxd5 13. exd5 Ng6 14. Ng5
+h6 15. Ne4 Be7 16. Qg4 h5 17. Qd1 h4 18. Qg4 Qd7 19. Qf3 h3 20. g3 bxc4 21.
+dxc4 f5 22. Nc3 e4 23. Nxe4 Ne5 24. Nxd6+ Qxd6 25. Qxf5 Nf7 26. Re6 Qd8 27.
+Bb2 Kf8 28. Rae1 Bf6 29. Bxf6 gxf6 30. d6 Rh6 31. Qxc5 Kg7 32. Re7 Kg6 33.
+d7 Ne5 34. R1xe5 1-0
+

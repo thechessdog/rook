@@ -1,0 +1,18 @@
+[Event "corr YUG"]
+[Site "corr YUG"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Kovacevic, M."]
+[Black "Rozic, M."]
+[Result "0-1"]
+[ECO "C43"]
+[Opening "Petrov"]
+[Variation "modern attack, Symmetrical variation"]
+[HashCode "f0453566"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nf6 3. d4 Nxe4 4. Bd3 d5 5. Nxe5 Bd6 6. O-O O-O 7. c4 Nc6
+8. cxd5 Nxd4 9. Bxe4 Bxe5 10. Nc3 f5 11. Bd3 f4 12. Bxh7+ Kxh7 13. Qh5+ Kg8
+14. Qxe5 Nf3+ 15. gxf3 Rf5 16. Qe4 Qg5+ 17. Kh1 Bd7 18. Rg1 Qh5 19. Bxf4
+Re8 20. Qd4 Qxf3+ 21. Rg2 Rg5 22. Bxg5 Bh3 0-1
+

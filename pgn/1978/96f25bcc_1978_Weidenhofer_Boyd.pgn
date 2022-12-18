@@ -1,0 +1,17 @@
+[Event "corr CCLA"]
+[Site "corr CCLA"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Weidenhofer"]
+[Black "Boyd"]
+[Result "1-0"]
+[ECO "C75"]
+[Opening "Ruy Lopez"]
+[Variation "modern Steinitz defence, Rubinstein variation"]
+[HashCode "96f25bcc"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. c3 Bd7 6. d4 Nge7 7. Bb3 h6 8.
+Nbd2 Ng6 9. Nc4 Be7 10. Ne3 O-O 11. Nd5 exd4 12. Nxd4 Nxd4 13. Qxd4 c6 14.
+Nxe7+ Qxe7 15. O-O Be6 1-0
+

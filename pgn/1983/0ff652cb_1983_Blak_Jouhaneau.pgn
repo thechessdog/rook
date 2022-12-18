@@ -1,0 +1,21 @@
+[Event "corr EU/M/GT"]
+[Site "corr EU/M/GT"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Blak, Z."]
+[Black "Jouhaneau, J."]
+[Result "1-0"]
+[ECO "E88"]
+[Opening "King's Indian"]
+[Variation "Saemisch, orthodox, 7.d5 c6"]
+[HashCode "0ff652cb"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 e5 7. d5 c6 8. Bd3
+cxd5 9. cxd5 Ne8 10. Qd2 f5 11. exf5 Bxf5 12. Bxf5 gxf5 13. Nge2 Nd7 14.
+O-O f4 15. Bf2 a6 16. Ne4 h6 17. a4 Rf7 18. a5 Ndf6 19. N2c3 Bf8 20. Qd3
+Ng7 21. g4 fxg3 22. hxg3 Nh7 23. Kg2 Ng5 24. Nxg5 Qxg5 25. Ra4 h5 26. Be3
+Qf6 27. g4 Be7 28. gxh5 Nf5 29. Rg4+ Rg7 30. Ne4 Nxe3+ 31. Qxe3 Qf7 32. Qh6
+Rc8 33. Qxg7+ Qxg7 34. h6 Qxg4+ 35. fxg4 Rc4 36. Kf3 Kh7 37. g5 Bxg5 38.
+Nxg5+ Kxh6 39. Nf7+ Kg6 40. Nxd6 Rd4 41. Rg1+ Kh5 42. Ne8 1-0
+

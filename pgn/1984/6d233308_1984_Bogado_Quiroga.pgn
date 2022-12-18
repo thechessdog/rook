@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Bogado, Antonio"]
+[Black "Quiroga, Sergio"]
+[Result "0-1"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, dragon formation"]
+[HashCode "6d233308"]
+[Epoch "Rook"]
+[BlackID "101630"]
+[BlackCountry "ARG"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. f4 Nf6 5. Nf3 c5 6. dxc5 Qa5 7. Bd3 Qxc5 8. Qe2
+O-O 9. Be3 Qa5 10. O-O Bg4 11. h3 Bxf3 12. Rxf3 Nc6 13. g4 Qb4 14. Qd2 Qxb2 15.
+Rb1 Qa3 16. f5 Nxg4 17. Rb3 Nge5 18. Rg3 Qa5 19. Bf1 Nd7 20. Bh6 Nc5 21. Bxg7
+Kxg7 0-1

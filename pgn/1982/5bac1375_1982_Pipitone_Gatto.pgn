@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Pipitone"]
+[Black "Gatto"]
+[Result "0-1"]
+[ECO "B95"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6...e6"]
+[HashCode "5bac1375"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. Qd2 h6 8.
+Bh4 Nxe4 9. Nxe4 Qxh4 10. Bd3 Nc6 11. Nf3 Qd8 12. O-O Be7 13. c3 O-O 14.
+Rad1 d5 15. Ng3 e5 16. Qe2 Qc7 17. Bc2 Be6 18. Bf5 Rad8 19. Rfe1 e4 20. Nd4
+Nxd4 21. Rxd4 Bc5 22. Rdd1 Qf4 23. Bxe6 fxe6 24. Rf1 g6 25. b4 Bb6 26. c4
+h5 27. c5 Bc7 28. Rfe1 h4 29. Nf1 h3 30. g3 Qg5 31. Qe3 Bf4 32. Qb3 Rf7 0-1
+

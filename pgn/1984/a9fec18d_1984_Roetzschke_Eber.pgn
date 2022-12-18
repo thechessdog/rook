@@ -1,0 +1,19 @@
+[Event "corr DDR/FS"]
+[Site "corr DDR/FS"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Roetzschke"]
+[Black "Eber"]
+[Result "0-1"]
+[ECO "E41"]
+[Opening "Nimzo-Indian"]
+[Variation "e3, Huebner variation"]
+[HashCode "a9fec18d"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Nf3 d6 6. Bd3 Bxc3+ 7. bxc3 Nc6
+8. O-O e5 9. Qc2 Qe7 10. dxe5 dxe5 11. Nd2 O-O 12. Re1 Bd7 13. e4 Ne8 14.
+Nf1 Nd6 15. Ne3 f6 16. Nd5 Qf7 17. f4 f5 18. exf5 Bxf5 19. Bxf5 Qxf5 20.
+Qe2 Rae8 21. Qf1 Rf7 22. Be3 exf4 23. Bxf4 Ne5 24. Qe2 Ng6 25. Be3 Qe4 26.
+Qd1 Nh4 27. Qe2 Nxc4 28. Rad1 Nxe3 29. Rd3 Nhxg2 0-1
+

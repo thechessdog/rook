@@ -1,0 +1,20 @@
+[Event "Rome"]
+[Site "Rome"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Marovic, Drazen"]
+[Black "Hug, Werner"]
+[Result "1/2-1/2"]
+[ECO "E60"]
+[Opening "King's Indian"]
+[Variation "3.g3"]
+[HashCode "11baa0ed"]
+[Epoch "Rook"]
+[WhiteID "14500183"]
+[BlackID "1300040"]
+[WhiteCountry "CRO"]
+[BlackCountry "SUI"]
+
+1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 O-O 5. Nc3 d6 6. Nf3 c6 7. O-O Bg4 8. h3
+Bxf3 9. Bxf3 Nbd7 10. e4 e5 11. d5 c5 12. h4 h5 13. Kg2 a6 14. a4 Qb6 15. Ra3
+Kh7 16. Rb3 Qc7 17. Be2 Rae8 18. f3 Bh6 1/2-1/2

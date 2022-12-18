@@ -1,0 +1,18 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Sorokin"]
+[Black "Yusupov, A."]
+[Result "0-1"]
+[ECO "B77"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, 9.Bc4"]
+[HashCode "e5e32446"]
+[Epoch "Rook"]
+[BlackCountry "RUS"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8. Qd2
+Nc6 9. Bc4 Nxd4 10. Bxd4 Qa5 11. Bb3 Be6 12. Bxe6 fxe6 13. h4 Rac8 14. O-O-O
+Rc4 15. Qe3 Rfc8 16. Rd3 e5 17. Bxa7 R4c6 18. Nd5 Nxd5 19. exd5 Rxc2+ 20. Kb1
+e4 21. Bd4 Bxd4 22. Rxd4 Qb6 23. b3 Qc5 0-1

@@ -1,0 +1,18 @@
+[Event "Lublin"]
+[Site "Lublin"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Szekely"]
+[Black "Nunn, John D M"]
+[Result "1/2-1/2"]
+[ECO "D34"]
+[Opening "QGD"]
+[Variation "Tarrasch, Reti variation"]
+[HashCode "e93ddc06"]
+[Epoch "Rook"]
+[BlackID "400017"]
+[BlackCountry "ENG"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. g3 c5 5. cxd5 exd5 6. Bg2 Nc6 7. O-O Be7 8. Nc3
+O-O 9. dxc5 Bxc5 10. Na4 Be7 11. Be3 Bg4 12. h3 Bf5 13. Rc1 Qd7 14. Kh2 Rfe8
+15. Nc5 Bxc5 16. Bxc5 Be4 17. Bd4 Qf5 18. e3 h6 19. Bc3 Rac8 20. Kg1 a6 1/2-1/2

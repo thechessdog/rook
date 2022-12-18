@@ -1,0 +1,20 @@
+[Event "Southfield ch-MI M/X"]
+[Site "Southfield ch-MI M/X"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Finegold, Benjamin"]
+[Black "Barth, J."]
+[Result "0-1"]
+[ECO "B20"]
+[Opening "Sicilian"]
+[Variation "Keres variation (2.Ne2)"]
+[HashCode "2ca9e8e2"]
+[Epoch "Rook"]
+[WhiteID "2000261"]
+[WhiteCountry "USA"]
+
+1. e4 c5 2. Ne2 d6 3. g3 Nc6 4. Bg2 g6 5. d3 Bg7 6. O-O e5 7. c3 Nge7 8. Be3
+O-O 9. Nd2 b6 10. f4 exf4 11. gxf4 d5 12. e5 Nf5 13. Bf2 Be6 14. Nf3 Bh6 15. h4
+f6 16. d4 fxe5 17. dxc5 e4 18. Ng5 Bxg5 19. hxg5 e3 20. Be1 bxc5 21. c4 Ncd4
+22. Bc3 Nxe2+ 23. Qxe2 d4 24. Be1 d3 25. Qf3 d2 26. Rd1 dxe1=Q 27. Rfxe1 Qe7
+28. Qxa8 Rxa8 29. Bxa8 Bxc4 30. Bc6 Nd4 0-1

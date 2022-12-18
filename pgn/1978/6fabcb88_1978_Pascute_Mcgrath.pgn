@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Pascute"]
+[Black "Mcgrath"]
+[Result "0-1"]
+[ECO "B18"]
+[Opening "Caro-Kann"]
+[Variation "classical variation"]
+[HashCode "6fabcb88"]
+[Epoch "Rook"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. Nf3 Nd7 7. Bc4 Ngf6
+8. Ne2 e6 9. Nf4 Nb6 10. Nxg6 hxg6 11. Bb3 Qc7 12. O-O O-O-O 13. Bg5 Be7
+14. Ne5 Nfd5 15. Nxf7 Qxh2# 0-1
+

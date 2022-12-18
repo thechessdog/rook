@@ -1,0 +1,18 @@
+[Event "corr ch-DEN"]
+[Site "corr ch-DEN"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Jensen, V."]
+[Black "Andersen, F."]
+[Result "1/2-1/2"]
+[ECO "B66"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...a6"]
+[HashCode "654d35e0"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 e6 7. Qd2 a6 8.
+O-O-O h6 9. Bf4 Bd7 10. Nxc6 Bxc6 11. Qe1 Be7 12. Kb1 Qa5 13. f3 O-O-O 14.
+Bc4 Qc7 15. a3 Kb8 16. Ba2 Ka8 17. h4 Rhg8 18. h5 Nd7 19. Qf2 b5 20. Rd3
+1/2-1/2
+

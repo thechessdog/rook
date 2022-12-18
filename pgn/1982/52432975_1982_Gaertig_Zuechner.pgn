@@ -1,0 +1,19 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Gaertig, L."]
+[Black "Zuechner, G."]
+[Result "0-1"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, poisoned pawn variation"]
+[HashCode "52432975"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 Ne7 5. a3 Bxc3+ 6. bxc3 c5 7. Qg4 cxd4
+8. Qxg7 Rg8 9. Qxh7 Nbc6 10. Nf3 Qc7 11. Kd1 dxc3 12. Ng5 Nxe5 13. f4 Ng4
+14. Bb5+ Bd7 15. Qxf7+ Kd8 16. Re1 Bxb5 17. Nxe6+ Kc8 18. Be3 Nxe3+ 19.
+Rxe3 Qc4 20. Re1 Kd7 21. g3 Rae8 22. Rb1 a5 23. Kc1 Ba6 24. f5 Kc8 25. Nf4
+d4 26. Qe6+ Qxe6 27. fxe6 Rh8 28. h3 Reg8 29. Rg1 Rh4 0-1
+

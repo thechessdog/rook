@@ -1,0 +1,18 @@
+[Event "corr EUR"]
+[Site "corr EUR"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Schein"]
+[Black "De Reu"]
+[Result "1-0"]
+[ECO "C17"]
+[Opening "French"]
+[Variation "Winawer, advance, 5.a3"]
+[HashCode "75032a56"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Ba5 6. b4 cxb4 7. Nb5 Nc6 8.
+axb4 Bxb4+ 9. c3 Be7 10. Qg4 g6 11. Nf3 h5 12. Qg3 h4 13. Qf4 a6 14. Bd3
+Bd7 15. Nd6+ Bxd6 16. exd6 f5 17. O-O Qf6 18. Ba3 Nh6 19. c4 dxc4 20. Bxc4
+b5 21. d5 bxc4 22. dxc6 Bxc6 23. Ne5 Bb5 24. d7+ Bxd7 25. Nxd7 1-0
+

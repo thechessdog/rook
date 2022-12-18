@@ -1,0 +1,20 @@
+[Event "Banco di Roma"]
+[Site "Banco di Roma"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Bellon Lopez, Juan Manuel"]
+[Black "Gheorghiu, Florin"]
+[Result "1/2-1/2"]
+[ECO "B41"]
+[Opening "Sicilian"]
+[Variation "Kan, Maroczy bind (Reti variation)"]
+[HashCode "4a1397ab"]
+[Epoch "Rook"]
+[WhiteID "2200031"]
+[WhiteCountry "SWE"]
+[BlackID "1200011"]
+[BlackCountry "ROU"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. c4 Nf6 6. Nc3 Qc7 7. Be3 Bb4 8. Bd3
+Bxc3+ 9. bxc3 d6 10. f4 Nbd7 11. O-O Nc5 12. e5 Nfd7 13. exd6 Qxd6 14. Bc2 b6
+1/2-1/2

@@ -1,0 +1,18 @@
+[Event "corr FIN-NZL"]
+[Site "corr FIN-NZL"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Andersson, Brian"]
+[Black "Ruuttula, Aarre"]
+[Result "0-1"]
+[ECO "B71"]
+[Opening "Sicilian"]
+[Variation "dragon, Levenfish; Flohr variation"]
+[HashCode "fe0e2ab8"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. f4 Nbd7 7. Bb5 a6 8.
+Ba4 b5 9. Bb3 Bb7 10. Qe2 Bg7 11. e5 dxe5 12. Ndxb5 axb5 13. fxe5 Nh5 14.
+e6 Bxc3+ 15. bxc3 fxe6 16. Qxe6 Qc7 17. Bb2 Ra6 18. Qe2 Nf4 19. Qxb5 Nxg2+
+20. Ke2 Rf6 21. c4 Bf3+ 22. Kd2 Qf4+ 23. Kc3 Qe3+ 24. Kb4 Rb6 0-1
+

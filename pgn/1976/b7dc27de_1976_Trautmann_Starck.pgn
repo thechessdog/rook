@@ -1,0 +1,22 @@
+[Event "corr DDR-FSM"]
+[Site "corr DDR-FSM"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Trautmann, K."]
+[Black "Starck, E."]
+[Result "1-0"]
+[ECO "B00"]
+[Opening "KP"]
+[Variation "Nimzovich defence"]
+[HashCode "b7dc27de"]
+[Epoch "Rook"]
+
+1. e4 Nc6 2. d4 e5 3. dxe5 Nxe5 4. Nc3 Bc5 5. Nf3 Ng6 6. Bc4 d6 7. Bg5 N8e7
+8. Qe2 c6 9. Bb3 Bg4 10. h3 Bxf3 11. Qxf3 Ne5 12. Qg3 h6 13. Bd2 N7g6 14.
+f4 Nd7 15. h4 Qf6 16. O-O-O O-O-O 17. h5 Ne7 18. Qf3 Ng8 19. Ne2 Qe7 20. g4
+Ngf6 21. Ng3 Kc7 22. Rhe1 g6 23. Bc3 Rhf8 24. Re2 gxh5 25. gxh5 Rg8 26. Nf5
+Qf8 27. a3 Re8 28. e5 dxe5 29. fxe5 Ng4 30. e6 fxe6 31. Bxe6 Rxe6 32. Rxe6
+Ne3 33. Qf4+ Kc8 34. Ba5 Nb6 35. Rxe3 Bxe3+ 36. Qxe3 Qxf5 37. Qxh6 Nd5 38.
+Qd6 Qf4+ 39. Qxf4 Nxf4 40. h6 b6 41. Bd2 Ne2+ 42. Kb1 Rh8 43. Re1 Ng3 44.
+Re5 1-0
+

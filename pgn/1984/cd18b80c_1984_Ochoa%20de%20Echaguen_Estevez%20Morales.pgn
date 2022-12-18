@@ -1,0 +1,18 @@
+[Event "Bayamo"]
+[Site "Bayamo"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Ochoa de Echaguen, F Javier"]
+[Black "Estevez Morales, Guillermo"]
+[Result "1/2-1/2"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack, Veresov variation"]
+[HashCode "cd18b80c"]
+[Epoch "Rook"]
+[BlackCountry "CUB"]
+[WhiteID "2200210"]
+[WhiteCountry "ESP"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 Bf5 4. Bxf6 exf6 5. e3 Bb4 6. Bd3 Bxd3 7. Qxd3 Nc6
+8. Ne2 Qd7 9. a3 Bxc3+ 10. Nxc3 f5 11. O-O-O O-O 12. h3 Ne7 13. g4 c6 14. gxf5
+Qxf5 15. Qxf5 Nxf5 16. b3 Rfe8 17. Na4 Nd6 18. Nc5 Ne4 19. Nxe4 Rxe4 1/2-1/2

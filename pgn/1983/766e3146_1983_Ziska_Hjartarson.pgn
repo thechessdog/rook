@@ -1,0 +1,26 @@
+[Event "Nordic-tt"]
+[Site "Oslo"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Ziska, Bogi"]
+[Black "Hjartarson, Johann"]
+[Result "0-1"]
+[ECO "C82"]
+[Opening "Ruy Lopez"]
+[Variation "open, Italian variation"]
+[HashCode "766e3146"]
+[Epoch "Rook"]
+[WhiteID "7200161"]
+[WhiteCountry "FAI"]
+[BlackID "2300044"]
+[BlackCountry "ISL"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Be6 9. c3 Bc5 10. Qe2 O-O 11. Be3 Bxe3 12. Qxe3 Ne7 13. Rd1 Nf5 14. Qe2 Nc5 15.
+Bc2 Nh4 16. Nxh4 Qxh4 17. Rd4 Qe7 18. Nd2 f5 19. exf6 Qxf6 20. Nf3 Rae8 21. Qd2
+c6 22. Re1 Bd7 23. Rxe8 Bxe8 24. b4 Ne6 25. Rg4 Bh5 26. Rg3 Nf4 27. Bd1 Re8 28.
+h3 Bg6 29. Kh2 Nh5 30. Rg4 Qd6+ 31. Kg1 Nf6 32. Rh4 Ne4 33. Qd4 Qf6 34. Bb3
+Nxc3 35. Qxf6 gxf6 36. Nd4 Ne2+ 37. Kh2 Nxd4 38. Rxd4 Kf7 39. Kg3 Ke6 40. Kf4
+Kd6 41. f3 a5 42. a3 axb4 43. axb4 Re2 44. g4 Rb2 45. Bd1 Ra2 46. Ke3 Ra3+ 47.
+Kf4 c5 48. bxc5+ Kxc5 49. Rd2 d4 50. h4 Rd3 51. Rc2+ Rc3 52. Rd2 b4 53. h5 Bd3
+54. g5 fxg5+ 55. Kxg5 b3 56. Bxb3 Rxb3 57. f4 Kc4 58. f5 Rb5 0-1

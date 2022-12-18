@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Bruere"]
+[Black "Rowley"]
+[Result "1/2-1/2"]
+[ECO "B10"]
+[Opening "Caro-Kann"]
+[Variation "anti-anti-Caro-Kann defence"]
+[HashCode "55ae0920"]
+[Epoch "Rook"]
+
+1. e4 c6 2. c4 d5 3. exd5 cxd5 4. cxd5 Nf6 5. Qa4+ Bd7 6. Qb3 Na6 7. Nc3
+Qb6 8. Bc4 Qxb3 9. Bxb3 Nb4 10. d4 Nd3+ 11. Ke2 Nxc1+ 12. Rxc1 g6 13. Na4
+Bh6 14. Rc7 b6 15. Nf3 O-O 16. Ne5 Bxa4 17. Bxa4 Nxd5 18. Rb7 Rfb8 1/2-1/2
+

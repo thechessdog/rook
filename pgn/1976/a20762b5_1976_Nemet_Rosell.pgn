@@ -1,0 +1,20 @@
+[Event "Aarhus"]
+[Site "Aarhus"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Nemet, Ivan"]
+[Black "Rosell, Kaj"]
+[Result "1-0"]
+[ECO "E38"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, 4...c5"]
+[HashCode "a20762b5"]
+[Epoch "Rook"]
+[BlackID "1400380"]
+[BlackCountry "DEN"]
+[WhiteCountry "CHE"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 c5 5. dxc5 Nc6 6. Nf3 Bxc5 7. Bg5 O-O 8.
+e3 b6 9. a3 Bb7 10. Bd3 h6 11. h4 Be7 12. O-O-O Rc8 13. Bxf6 Bxf6 14. Ng5 Bxc3
+15. Bh7+ Kh8 16. bxc3 Qe7 17. Bg8 f5 18. Rxd7 Qxd7 19. Bxe6 Qe7 20. Bxf5 Rc7
+21. Be6 g6 22. Qxg6 Rf6 23. Qg8# 1-0

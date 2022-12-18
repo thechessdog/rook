@@ -1,0 +1,27 @@
+[Event "DDR"]
+[Site "DDR"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Enders, Peter"]
+[Black "Uhlmann, Wolfgang"]
+[Result "0-1"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance variation"]
+[HashCode "c878a916"]
+[Epoch "Rook"]
+[BlackID "4611284"]
+[BlackCountry "GER"]
+[WhiteID "4611314"]
+[WhiteCountry "GER"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. a3 Qb6 6. Nf3 c4 7. Nbd2 f6 8. b3 cxb3
+9. Nxb3 fxe5 10. dxe5 Bc5 11. Qc2 Bxf2+ 12. Kd1 Be3 13. Bd3 Bd7 14. Bxh7 O-O-O
+15. Bxe3 Qxe3 16. Re1 Qf4 17. Bxg8 Rhxg8 18. a4 g5 19. Qd2 Qc4 20. Qb2 Be8 21.
+Nfd4 Bh5+ 22. Kc1 Nb4 23. Nc5 a5 24. Kd2 Rdf8 25. Ke3 Nc2+ 26. Qxc2 Qxc5 27.
+Qb3 Rf4 28. Rab1 Rg7 29. Kd2 Rxd4+ 30. cxd4 Qxd4+ 31. Qd3 Qxd3+ 32. Kxd3 Bg6+
+33. Kd4 Bxb1 34. Rxb1 Rc7 35. Rb6 Rc4+ 36. Kd3 Rc6 37. Rb1 b6 38. Rf1 Rc4 39.
+Rf8+ Kd7 40. Rf7+ Ke8 41. Rg7 g4 42. Rb7 Rxa4 43. Rxb6 Kf7 44. Ra6 Ra2 45. Ke3
+Rxg2 46. Kf4 Rxh2 47. Ra7+ Ke8 48. Ra8+ Kd7 49. Ra7+ Kd8 50. Ra6 Kd7 51. Ra7+
+Kc6 52. Ra6+ Kb5 53. Rxe6 a4 54. Rd6 Rd2 55. e6 Kc5 56. Ra6 Rd4+ 57. Kf5 Re4
+58. Ra5+ Kd6 59. Ra6+ Kc5 60. Ra5+ Kc6 61. Ra6+ Kb5 62. Ra8 g3 63. Rg8 Re3 0-1

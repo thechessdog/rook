@@ -1,0 +1,21 @@
+[Event "Naleczow"]
+[Site "Naleczow"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Schmidt, Wlodzimierz"]
+[Black "Gavrikov"]
+[Result "1/2-1/2"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Nimzovich (knight's tour) variation"]
+[HashCode "9eefda95"]
+[Epoch "Rook"]
+[WhiteID "1100041"]
+[WhiteCountry "POL"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 exd5 5. cxd5 g6 6. Nc3 d6 7. Nd2 Nbd7 8. e4
+Bg7 9. Be2 O-O 10. O-O Re8 11. a4 Ne5 12. Qc2 a6 13. b3 Neg4 14. h3 Nh6 15. f4
+Nfg4 16. Nf3 Qa5 17. Bd2 Ne3 18. Bxe3 Qxc3 19. Qxc3 Bxc3 20. Rac1 Bb2 21. Rc2
+Rxe4 22. Bxc5 dxc5 23. Rxb2 Nf5 24. Rc1 Rxf4 25. Rxc5 Nd6 26. Nd2 Bf5 27. Nc4
+Rd8 28. Nxd6 Rxd6 29. Rc4 g5 30. Rxf4 gxf4 31. Bf3 Kg7 32. a5 Kf6 33. b4 Ke5
+34. Re2+ Kf6 35. Rb2 Ke5 36. Re2+ 1/2-1/2

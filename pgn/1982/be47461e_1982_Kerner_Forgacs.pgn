@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Kerner"]
+[Black "Forgacs"]
+[Result "1-0"]
+[ECO "A52"]
+[Opening "Budapest"]
+[Variation "Adler variation"]
+[HashCode "be47461e"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ng4 4. Nf3 Nc6 5. Bf4 Bc5 6. e3 f6 7. exf6 Qxf6
+8. Qd2 d5 9. cxd5 O-O 10. dxc6 Rd8 11. Bg5 Rxd2 12. Bxf6 Rxf2 13. Bd4 Bxd4
+14. exd4 Bf5 15. Nbd2 Re8+ 16. Ne5 Rf4 17. Bc4+ Kh8 18. O-O-O Nxe5 19. dxe5
+b5 20. Bxb5 g6 21. Nf3 1-0
+

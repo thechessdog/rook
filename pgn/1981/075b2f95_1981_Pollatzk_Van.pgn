@@ -1,0 +1,19 @@
+[Event "corr EU"]
+[Site "corr EU"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Pollatzk"]
+[Black "Van der Kooij"]
+[Result "0-1"]
+[ECO "E30"]
+[Opening "Nimzo-Indian"]
+[Variation "Leningrad variation"]
+[HashCode "075b2f95"]
+[Epoch "Rook"]
+[BlackID "1011812"]
+[BlackCountry "NED"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Bg5 h6 5. Bxf6 Qxf6 6. Nf3 c5 7. e3 d5 8. a3
+Bxc3+ 9. bxc3 O-O 10. Be2 b6 11. cxd5 exd5 12. O-O Bf5 13. Qb3 c4 14. Qb5 Qc6
+15. Qb2 Nd7 16. a4 a5 17. Nd2 Rab8 18. Bd1 Nf6 19. Re1 b5 20. axb5 Qxb5 21. Qc1
+Qb2 22. Bf3 Bd3 0-1

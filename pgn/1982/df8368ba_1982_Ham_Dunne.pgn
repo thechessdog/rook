@@ -1,0 +1,19 @@
+[Event "corr USA"]
+[Site "corr USA"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Ham"]
+[Black "Dunne"]
+[Result "0-1"]
+[ECO "C44"]
+[Opening "Ponziani"]
+[Variation "Jaenisch counter-attack"]
+[HashCode "df8368ba"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. c3 Nf6 4. d4 d5 5. Bb5 exd4 6. e5 Ne4 7. Nxd4 Bc5 8.
+O-O O-O 9. Bxc6 bxc6 10. b4 Bb6 11. Nxc6 Qe8 12. Qxd5 Nxf2 13. Rxf2 Bb7 14.
+Ne7+ Qxe7 15. Qxb7 Qxe5 16. Bd2 Rfe8 17. g3 Bxf2+ 18. Kxf2 Qe2+ 19. Kg1
+Qd1+ 20. Kg2 Re2+ 21. Kh3 Qf1+ 22. Kg4 f5+ 23. Kh4 Rxh2+ 24. Kg5 Rh5+ 25.
+Kxh5 Qh3+ 26. Kg5 Qg4# 0-1
+

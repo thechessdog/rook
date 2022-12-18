@@ -1,0 +1,24 @@
+[Event "Minsk"]
+[Site "Minsk"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Maryasin, Boris"]
+[Black "Savon, Vladimir"]
+[Result "1-0"]
+[ECO "B97"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7...Qb6"]
+[HashCode "684baa3a"]
+[Epoch "Rook"]
+[WhiteID "2801892"]
+[BlackID "14138786"]
+[WhiteCountry "ISR"]
+[BlackCountry "UKR"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qb6 8. Qd2
+Qxb2 9. Nb3 Qa3 10. Bxf6 gxf6 11. Be2 Nc6 12. O-O Bd7 13. Rf3 Na5 14. Nd5 exd5
+15. Nxa5 Qc5+ 16. Kh1 dxe4 17. Nxb7 Qc7 18. Rb3 Be6 19. c4 f5 20. Rab1 Be7 21.
+Qd4 Rg8 22. Rb6 Kf8 23. Nxd6 Rg6 24. Qh8+ Rg8 25. Qe5 Bxd6 26. Rxd6 Rc8 27. c5
+Bxa2 28. Rbd1 Rd8 29. Qxf5 e3 30. c6 Rg6 31. Qc5 Kg8 32. f5 Rgxd6 33. Rxd6 Bb1
+34. Rd4 Be4 35. f6 Qxc6 36. Qg5+ Bg6 37. h4 h6 38. Qf4 Qc5 39. h5 Bh7 40. Qxh6
+Qf8 41. Rg4+ 1-0

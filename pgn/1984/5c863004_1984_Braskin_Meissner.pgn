@@ -1,0 +1,18 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Braskin, I."]
+[Black "Meissner"]
+[Result "1/2-1/2"]
+[ECO "C36"]
+[Opening "KGA"]
+[Variation "Abbazia defence, Botvinnik variation"]
+[HashCode "5c863004"]
+[Epoch "Rook"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 d5 4. exd5 Nf6 5. Bb5+ c6 6. dxc6 bxc6 7. Bc4
+Nd5 8. O-O Bd6 9. Nc3 Be6 10. Nxd5 cxd5 11. Bb5+ Nd7 12. d4 O-O 13. Bxd7
+Qxd7 14. Ne5 Bxe5 15. dxe5 Bg4 16. Qd4 f3 17. gxf3 Bh3 18. Rd1 Qf5 19. Kf2
+Qxc2+ 20. Bd2 Qc4 21. Qxc4 dxc4 22. Bc3 1/2-1/2
+

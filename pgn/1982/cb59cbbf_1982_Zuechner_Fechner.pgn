@@ -1,0 +1,19 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Zuechner, G."]
+[Black "Fechner, J."]
+[Result "1/2-1/2"]
+[ECO "C91"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Bogolyubov variation"]
+[HashCode "cb59cbbf"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8.
+d4 d6 9. c3 Bg4 10. Be3 exd4 11. cxd4 Na5 12. Bc2 c5 13. Nc3 Nc4 14. Bc1
+cxd4 15. Qxd4 Bxf3 16. gxf3 Qc8 17. Bd1 Qh3 18. b3 Ng4 19. Nd5 Qxh2+ 20.
+Kf1 Qh3+ 21. Ke2 Bh4 22. fxg4 Ne5 23. Bb2 Qf3+ 24. Kf1 Qh1+ 25. Ke2 Qf3+
+26. Kf1 Qh1+ 1/2-1/2
+

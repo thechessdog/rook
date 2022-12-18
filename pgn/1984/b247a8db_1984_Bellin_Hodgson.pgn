@@ -1,0 +1,23 @@
+[Event "Brighton ch-BCF"]
+[Site "Brighton ch-BCF"]
+[Date "1984.08.01"]
+[Round "7"]
+[White "Bellin, Robert"]
+[Black "Hodgson, Julian M"]
+[Result "1/2-1/2"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...g6"]
+[HashCode "b247a8db"]
+[Epoch "Rook"]
+[WhiteID "400343"]
+[WhiteCountry "ENG"]
+[BlackID "400076"]
+[BlackCountry "ENG"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 g6 6. Qb3 Bg7 7. cxd5 O-O 8.
+Be2 Nbd7 9. Bf3 Nb6 10. Bf4 e6 11. d6 Nfd5 12. Bg3 Bxd4 13. Nge2 Bc5 14. O-O
+Bxd6 15. Rfd1 Bxg3 16. hxg3 Qf6 17. a4 a5 18. Nxd5 Nxd5 19. Bxd5 exd5 20. Nc3
+Be6 21. Nxd5 Bxd5 22. Rxd5 Rad8 23. Rb5 Rd2 24. Qf3 Qd4 25. Qf4 Qxf4 26. gxf4
+Re8 27. b3 Re4 28. g3 Rb4 29. Rxb4 axb4 30. Rc1 Rb2 31. Rc7 Rxb3 32. Rxb7 Rb1+
+33. Kg2 b3 34. a5 Ra1 35. Rxb3 Rxa5 1/2-1/2

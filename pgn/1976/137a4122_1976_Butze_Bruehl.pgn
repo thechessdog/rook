@@ -1,0 +1,17 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Butze, Roland"]
+[Black "Bruehl, G."]
+[Result "1/2-1/2"]
+[ECO "A69"]
+[Opening "Benoni"]
+[Variation "four pawns attack, main line"]
+[HashCode "137a4122"]
+[Epoch "Rook"]
+[WhiteCountry "DEU"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f4 O-O 6. Nf3 c5 7. d5 e6 8. Be2 exd5
+9. cxd5 Re8 10. Nd2 Ng4 11. Bxg4 Qh4+ 12. g3 Qxg4 13. Qxg4 Bxg4 14. Nb5 Na6 15.
+Kf2 Bf8 16. a3 Bd7 17. Nc3 1/2-1/2

@@ -1,0 +1,17 @@
+[Event "Moscow"]
+[Site "Moscow"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Zaitsev, Igor"]
+[Black "Cherevko"]
+[Result "1-0"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Paulsen attack"]
+[HashCode "14e3a9bd"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. a3 c4 7. Nbd2 Bd7 8. g3
+O-O-O 9. Bh3 h6 10. O-O f5 11. exf6 gxf6 12. Re1 Re8 13. Rb1 Na5 14. b4 cxb3
+15. Nxb3 Nxb3 16. Rxb3 Qc6 17. c4 dxc4 18. d5 Qa4 19. dxe6 Bc6 20. Qd7+ Bxd7
+21. exd7+ Qxd7 22. Rxe8+ 1-0

@@ -1,0 +1,21 @@
+[Event "Gausdal Jubilee"]
+[Site "Gausdal Jubilee"]
+[Date "1982.01.01"]
+[Round "9"]
+[White "Agdestein, Espen"]
+[Black "Bjerke, Richard"]
+[Result "1-0"]
+[ECO "B97"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7...Qb6"]
+[HashCode "e399e846"]
+[Epoch "Rook"]
+[BlackID "1500252"]
+[BlackCountry "NOR"]
+[WhiteID "1500201"]
+[WhiteCountry "NOR"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qb6 8. Qd2
+Qxb2 9. Nb3 Qa3 10. Bd3 Nc6 11. Bxf6 gxf6 12. O-O Bd7 13. Rab1 Rc8 14. Qe3 Nb4
+15. Nd5 exd5 16. exd5+ Kd8 17. Qb6+ Rc7 18. Na5 Nxd5 19. Nxb7+ Ke8 20. Rfe1+
+Be7 21. Qd4 Bc6 22. Nxd6+ Kd7 23. Nc4 Bc5 24. Bf5+ 1-0

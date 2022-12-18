@@ -1,0 +1,17 @@
+[Event "corr Atars mem"]
+[Site "corr Atars mem"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Budovskis, I."]
+[Black "Krustkains"]
+[Result "1-0"]
+[ECO "C40"]
+[Opening "Latvian counter-gambit"]
+[HashCode "c0af8bcd"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 f5 3. Nxe5 Qf6 4. Nc4 fxe4 5. Nc3 Qe6 6. Ne3 c6 7. d3 Bb4
+8. dxe4 Qxe4 9. Bd3 Qh4 10. Nf5 Bxc3+ 11. bxc3 Qf6 12. O-O d5 13. Re1+ Kf7
+14. Bg5 Bxf5 15. Bxf6 Bxd3 16. Bd4 Bg6 17. Qg4 Nf6 18. Qe6+ Kf8 19. Bc5#
+1-0
+

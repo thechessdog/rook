@@ -1,0 +1,17 @@
+[Event "Sweden"]
+[Site "Sweden"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Niklasson, Christer"]
+[Black "Kinnmark, Ove"]
+[Result "1/2-1/2"]
+[ECO "E11"]
+[Opening "Bogo-Indian defence, Gruenfeld variation"]
+[HashCode "24c59a15"]
+[Epoch "Rook"]
+[WhiteID "1700316"]
+[WhiteCountry "SWE"]
+[BlackCountry "SWE"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 Bb4+ 4. Nbd2 d5 5. e3 O-O 6. Bd3 Nbd7 7. O-O c5 8. a3
+Bxd2 9. Bxd2 b6 10. b4 cxd4 11. exd4 dxc4 12. Bxc4 Bb7 13. Bf4 1/2-1/2

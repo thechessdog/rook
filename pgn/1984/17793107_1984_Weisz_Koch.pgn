@@ -1,0 +1,18 @@
+[Event "corr FRG/K"]
+[Site "corr FRG/K"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Weisz"]
+[Black "Koch"]
+[Result "0-1"]
+[ECO "D82"]
+[Opening "Gruenfeld"]
+[Variation "4.Bf4"]
+[HashCode "17793107"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Bf4 Bg7 5. e3 c6 6. Nf3 O-O 7. Qb3 Qa5 8.
+Nd2 Na6 9. Be2 Nh5 10. Bxh5 dxc4 11. Nxc4 Qxh5 12. Ne5 Nc5 13. Qc4 Nd7 14.
+Nxd7 Bxd7 15. Qb4 c5 16. dxc5 Bc6 17. O-O Rad8 18. f3 Rd2 19. Rad1 Rfd8 20.
+Rxd2 Rxd2 21. Rf2 Rxf2 0-1
+

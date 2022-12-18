@@ -1,0 +1,21 @@
+[Event "corr DDR-M"]
+[Site "corr DDR-M"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Hunger, F."]
+[Black "Nicklich, W."]
+[Result "1-0"]
+[ECO "E30"]
+[Opening "Nimzo-Indian"]
+[Variation "Leningrad, ...b5 gambit"]
+[HashCode "59fa1168"]
+[Epoch "Rook"]
+
+1. c4 Nf6 2. Nc3 e6 3. d4 Bb4 4. Bg5 h6 5. Bh4 c5 6. d5 b5 7. Rc1 bxc4 8.
+e4 exd5 9. Bxf6 Qxf6 10. Qxd5 Nc6 11. Bxc4 Qe6 12. Ne2 Qxd5 13. Bxd5 Bb7
+14. O-O a6 15. e5 Nd8 16. Rfd1 Bxd5 17. Nxd5 Ne6 18. f4 O-O 19. f5 Nd8 20.
+Ne7+ Kh7 21. Rxd7 Re8 22. Nf4 Bd2 23. Rxd2 Rxe7 24. Rxc5 Nb7 25. Rcd5 a5
+26. Rd7 Rxe5 27. Rxf7 Nc5 28. Nh5 Kh8 29. Nxg7 Re1+ 30. Kf2 Rh1 31. Rd5
+Ne4+ 32. Ke3 Ng5 33. Rfd7 Rxh2 34. f6 Rxg2 35. Nf5 Rf8 36. Rd8 Rxd8 37.
+Rxd8+ Kh7 38. Rd7+ Kh8 39. Nxh6 Rxb2 40. Rd5 Kh7 41. Rxg5 1-0
+

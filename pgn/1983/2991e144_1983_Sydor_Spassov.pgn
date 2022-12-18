@@ -1,0 +1,19 @@
+[Event "Warsaw"]
+[Site "Warsaw"]
+[Date "1983.01.01"]
+[Round "15"]
+[White "Sydor, Andrzej"]
+[Black "Spassov, Liuben"]
+[Result "1/2-1/2"]
+[ECO "B52"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky attack, 3...Bd7"]
+[HashCode "2991e144"]
+[Epoch "Rook"]
+[WhiteID "1100475"]
+[WhiteCountry "POL"]
+[BlackID "2900220"]
+[BlackCountry "FID"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Qxd7 5. O-O Nc6 6. c4 e5 7. Nc3 g6 8.
+d3 Bg7 9. Ne1 Nge7 10. f4 exf4 11. Bxf4 O-O 12. Nf3 Nd4 13. Qd2 1/2-1/2

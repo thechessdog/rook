@@ -1,0 +1,20 @@
+[Event "Budapest"]
+[Site "Budapest"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Schneider, Attila"]
+[Black "Riva, F."]
+[Result "1-0"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Nimzovich (knight's tour) variation"]
+[HashCode "5326bae2"]
+[Epoch "Rook"]
+[WhiteCountry "HUN"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 c5 4. d5 exd5 5. cxd5 d6 6. Nf3 g6 7. Nd2 Nbd7 8. e4
+Bg7 9. Be2 O-O 10. O-O Re8 11. a4 a6 12. f4 Rb8 13. Kh1 b6 14. Qc2 Bb7 15. Nc4
+Qc7 16. Bf3 Ba8 17. Qb3 h6 18. Bd2 Nh7 19. Be1 g5 20. Bg3 gxf4 21. Bxf4 Ne5 22.
+Nxe5 dxe5 23. Bg3 Ng5 24. Bh5 Re7 25. Rf5 Qd6 26. Raf1 Rf8 27. h4 Nh7 28. Nd1
+Nf6 29. Qf3 Nxh5 30. Rxh5 Bb7 31. Ne3 Bc8 32. Nc4 Qg6 33. Nxe5 Bxe5 34. Rxe5
+Rxe5 35. Bxe5 Re8 36. h5 Qh7 37. Qg3+ 1-0

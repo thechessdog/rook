@@ -1,0 +1,19 @@
+[Event "Lewisham"]
+[Site "Lewisham"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Casa, Alex"]
+[Black "Formanek, Edward"]
+[Result "1-0"]
+[ECO "C44"]
+[Opening "Scotch"]
+[Variation "Goering gambit, Bardeleben variation"]
+[HashCode "ebc38e9b"]
+[Epoch "Rook"]
+[BlackID "2001640"]
+[BlackCountry "USA"]
+[WhiteID "602515"]
+[WhiteCountry "FRA"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. c3 dxc3 5. Bc4 Nf6 6. Nxc3 Bb4 7. e5 Ng4 8.
+Bxf7+ Kxf7 9. Ng5+ Kg8 10. Qd5+ 1-0

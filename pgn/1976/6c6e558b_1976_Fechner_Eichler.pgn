@@ -1,0 +1,18 @@
+[Event "corr DDR-PZ"]
+[Site "corr DDR-PZ"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Fechner, Jurgen"]
+[Black "Eichler, Gottfried"]
+[Result "1-0"]
+[ECO "B04"]
+[Opening "Alekhine's defence"]
+[Variation "modern, fianchetto variation"]
+[HashCode "6c6e558b"]
+[Epoch "Rook"]
+[BlackID "4659538"]
+[BlackCountry "GER"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. Nf3 g6 5. Be2 Bg7 6. O-O O-O 7. c4 Nb6 8. exd6
+cxd6 9. h3 Nc6 10. Nc3 Bf5 11. Be3 d5 12. c5 Nc8 13. Qd2 b6 14. Bb5 Nb4 15.
+Rfc1 a6 16. a3 bxc5 17. axb4 cxd4 18. Nxd4 axb5 19. Rxa8 1-0

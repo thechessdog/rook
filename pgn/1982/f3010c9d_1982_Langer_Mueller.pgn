@@ -1,0 +1,17 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Langer"]
+[Black "Mueller"]
+[Result "0-1"]
+[ECO "B46"]
+[Opening "Sicilian"]
+[Variation "Taimanov variation"]
+[HashCode "f3010c9d"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 Nc6 6. f4 Qc7 7. Be3 Nxd4
+8. Qxd4 b5 9. O-O-O Bb7 10. a3 Rc8 11. Rd2 Nf6 12. Be2 d5 13. Bf3 Bxa3 14.
+exd5 Qxc3 15. Qxc3 Rxc3 16. Bd4 Rxf3 0-1
+

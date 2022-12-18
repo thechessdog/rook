@@ -1,0 +1,20 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Kochyev, Alexander"]
+[Black "Pytel, Krzysztof"]
+[Result "1/2-1/2"]
+[ECO "A13"]
+[Opening "English"]
+[Variation "Romanishin gambit"]
+[HashCode "ea273ac6"]
+[Epoch "Rook"]
+[BlackID "600199"]
+[BlackCountry "FRA"]
+[WhiteID "4100719"]
+[WhiteCountry "RUS"]
+
+1. Nf3 Nf6 2. c4 e6 3. g3 a6 4. Bg2 b5 5. b3 Bb7 6. O-O c5 7. Nc3 Qa5 8. Qc2 d6
+9. Bb2 Be7 10. Ng5 Bxg2 11. Kxg2 Nbd7 12. Nce4 Qb6 13. f3 h6 14. Nxf6+ Bxf6 15.
+Bxf6 Nxf6 16. Ne4 1/2-1/2

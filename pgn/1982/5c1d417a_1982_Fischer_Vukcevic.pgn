@@ -1,0 +1,20 @@
+[Event "corr ch-EU"]
+[Site "corr ch-EU"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Fischer, Robert"]
+[Black "Vukcevich, Milan R"]
+[Result "0-1"]
+[ECO "D82"]
+[Opening "Gruenfeld"]
+[Variation "4.Bf4"]
+[HashCode "5c1d417a"]
+[Epoch "Rook"]
+[BlackID "2000458"]
+[BlackCountry "USA"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Bf4 Bg7 5. e3 c5 6. dxc5 Qa5 7. Rc1 Ne4 8. cxd5
+Nxc3 9. Qd2 Qxa2 10. bxc3 Qa5 11. Nf3 Nd7 12. Nd4 Nxc5 13. Bc4 O-O 14. O-O Ne4
+15. Qb2 Nd6 16. Bxd6 exd6 17. Ra1 Qc7 18. Be2 Bxd4 19. exd4 Bf5 20. Ra3 Rfe8
+21. c4 Re7 22. Bf3 Qxc4 23. Rc1 Qc2 24. Qxc2 Bxc2 25. h3 Bf5 26. g4 Bc8 27.
+Rac3 Bd7 28. Rc7 Rb8 29. Rb1 Bf5 0-1

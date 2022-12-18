@@ -1,0 +1,19 @@
+[Event "Caracas"]
+[Site "Caracas"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Garces, Napoleon"]
+[Black "Frey Beckman, Kenneth"]
+[Result "1-0"]
+[ECO "D26"]
+[Opening "QGA"]
+[Variation "classical, Steinitz variation"]
+[HashCode "5f2a8e51"]
+[Epoch "Rook"]
+[BlackCountry "MEX"]
+[WhiteID "3600130"]
+[WhiteCountry "ECU"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. e3 e6 5. Bxc4 c5 6. O-O cxd4 7. exd4 Be7 8.
+Ne5 O-O 9. Nc3 Nc6 10. Be3 Na5 11. Bd3 b6 12. Qf3 Bb7 13. Qh3 Rc8 14. Rad1 Re8
+15. Rfe1 Bf8 16. Bg5 h6 17. Ng4 1-0

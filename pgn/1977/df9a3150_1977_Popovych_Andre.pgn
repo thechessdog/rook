@@ -1,0 +1,20 @@
+[Event "Dortmund"]
+[Site "Dortmund"]
+[Date "1977.05.01"]
+[Round "1"]
+[White "Popovych, Orest"]
+[Black "Andre, Wolfgang"]
+[Result "1-0"]
+[ECO "B93"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.f4"]
+[HashCode "df9a3150"]
+[Epoch "Rook"]
+[WhiteID "2002558"]
+[WhiteCountry "USA"]
+[BlackID "4607260"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 Qc7 7. Bd3 g6 8. O-O
+Bg7 9. Nf3 Nbd7 10. Qe1 Nc5 11. e5 dxe5 12. fxe5 Ng4 13. Nd5 Qd8 14. Bc4 e6 15.
+Bg5 Qd7 16. Nb6 Qc6 17. Nxa8 b5 18. Be2 Bb7 19. Qg3 h5 20. Nd4 Qd5 21. Nc7+ 1-0

@@ -1,0 +1,18 @@
+[Event "Dieren"]
+[Site "Dieren"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Moors"]
+[Black "Gelpke"]
+[Result "0-1"]
+[ECO "E69"]
+[Opening "King's Indian"]
+[Variation "fianchetto, classical main line"]
+[HashCode "39c5b6c6"]
+[Epoch "Rook"]
+
+1. c4 Nf6 2. Nf3 g6 3. g3 Bg7 4. Bg2 O-O 5. O-O c6 6. Nc3 d6 7. d4 Nbd7 8.
+e4 e5 9. h3 Qa5 10. d5 cxd5 11. cxd5 b5 12. Re1 Nc5 13. a3 b4 14. axb4 Qxb4
+15. Be3 Nfd7 16. Bf1 Qxb2 17. Nb5 a5 18. Bc4 Qb4 19. Qc2 Nb6 20. Nxd6 Nxc4
+21. Reb1 Nxe3 22. fxe3 Nb3 23. Nxc8 Raxc8 24. Qxb3 Rc1+ 25. Kf2 Qxb3 0-1
+

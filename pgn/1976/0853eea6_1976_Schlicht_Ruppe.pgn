@@ -1,0 +1,18 @@
+[Event "corr DDR/M"]
+[Site "corr DDR/M"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Schlicht"]
+[Black "Ruppe, O."]
+[Result "1/2-1/2"]
+[ECO "E44"]
+[Opening "Nimzo-Indian"]
+[Variation "Fischer variation, 5.Ne2"]
+[HashCode "0853eea6"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 b6 5. Ne2 Bb7 6. a3 Bxc3+ 7. Nxc3 O-O
+8. Bd3 d5 9. O-O dxc4 10. Bxc4 Nbd7 11. b4 e5 12. d5 e4 13. Bb2 Ne5 14.
+Nxe4 Nxe4 15. Bxe5 Nd6 16. Bb3 Re8 17. Bb2 Qg5 18. Rc1 Re7 19. Re1 Rae8 20.
+Re2 Nf5 21. Kf1 Qh4 22. Kg1 1/2-1/2
+

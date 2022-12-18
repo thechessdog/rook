@@ -1,0 +1,18 @@
+[Event "Yugoslavia"]
+[Site "Yugoslavia"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Matanovic, Aleksandar"]
+[Black "Ostojic, Predrag"]
+[Result "1/2-1/2"]
+[ECO "B84"]
+[Opening "Sicilian"]
+[Variation "Scheveningen, classical, Nd7 system"]
+[HashCode "ec576b04"]
+[Epoch "Rook"]
+[WhiteID "900230"]
+[WhiteCountry "SRB"]
+[BlackCountry "SRB"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 Nbd7 7. O-O e6 8. a4
+b6 9. f4 Bb7 10. Bf3 Qc7 11. Kh1 Rc8 12. Qe2 Qc4 13. e5 1/2-1/2

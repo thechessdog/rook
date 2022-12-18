@@ -1,0 +1,21 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Petrushin, Alexander I"]
+[Black "Panchenko, A."]
+[Result "0-1"]
+[ECO "B67"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...a6 defence, 8...Bd7"]
+[HashCode "151b403a"]
+[Epoch "Rook"]
+[BlackCountry "RUS"]
+[WhiteID "4104595"]
+[WhiteCountry "RUS"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd2 a6 8.
+O-O-O Bd7 9. f4 b5 10. Bxf6 gxf6 11. Kb1 b4 12. Nce2 Qb6 13. f5 e5 14. Nb3 a5
+15. Qd3 a4 16. Nd2 Na5 17. Ng3 h5 18. h4 Ke7 19. Be2 Rg8 20. Bxh5 Qc5 21. Ndf1
+Rc8 22. c3 bxc3 23. Rc1 Bb5 24. Qxc3 Bd3+ 25. Ka1 Nb3+ 26. axb3 axb3 27. Qxc5
+dxc5 0-1

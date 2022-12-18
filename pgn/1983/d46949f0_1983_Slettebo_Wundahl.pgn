@@ -1,0 +1,17 @@
+[Event "corr EU"]
+[Site "corr EU"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Slettebo"]
+[Black "Wundahl"]
+[Result "1-0"]
+[ECO "B10"]
+[Opening "Caro-Kann"]
+[Variation "Goldman (Spielmann) variation"]
+[HashCode "d46949f0"]
+[Epoch "Rook"]
+
+1. e4 c6 2. Nc3 d5 3. Qf3 dxe4 4. Nxe4 Nd7 5. d4 Ndf6 6. Bd3 Qxd4 7. Ne2
+Qd8 8. Bg5 Bg4 9. Qg3 Nxe4 10. Bxe4 Bxe2 11. Kxe2 Nf6 12. Rhd1 Qb6 13. Bxf6
+exf6 14. Rd3 Rd8 15. Rxd8+ Qxd8 16. Rd1 Qc8 17. Bf5 1-0
+

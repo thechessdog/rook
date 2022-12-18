@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Konca"]
+[Black "Stempka"]
+[Result "0-1"]
+[ECO "D92"]
+[Opening "Gruenfeld"]
+[Variation "5.Bf4"]
+[HashCode "032dc128"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Bf4 O-O 6. Rc1 dxc4 7. e3 Be6 8.
+Ng5 Bd5 9. f3 c6 10. a4 Nh5 11. Bxb8 Rxb8 12. f4 e5 13. dxe5 Bxe5 14. Nf3
+Bg7 15. Be2 Re8 16. Qd2 Bxf3 0-1
+

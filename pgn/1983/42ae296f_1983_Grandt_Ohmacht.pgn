@@ -1,0 +1,21 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Grandt"]
+[Black "Ohmacht"]
+[Result "1-0"]
+[ECO "C88"]
+[Opening "Ruy Lopez"]
+[Variation "closed, anti-Marshall 8.a4"]
+[HashCode "42ae296f"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8.
+a4 Bb7 9. d3 d6 10. Bd2 b4 11. c3 d5 12. cxb4 dxe4 13. dxe4 Nxb4 14. Nxe5
+Bxe4 15. Nc3 Bb7 16. Qe2 Nbd5 17. Rad1 c6 18. Bg5 Qc7 19. Nxc6 Bxc6 20.
+Bxd5 Rfe8 21. Qc4 Bd6 22. Qxc6 Bxh2+ 23. Kh1 Rac8 24. Qxc7 Bxc7 25. Bxf6
+gxf6 26. Rxe8+ Rxe8 27. Bxf7+ Kxf7 28. Rd7+ Re7 29. Rxe7+ Kxe7 30. Nd5+ Kd6
+31. Nxc7 Kxc7 32. b4 Kc6 33. Kh2 Kd5 34. Kg3 Kc4 35. b5 axb5 36. axb5 Kxb5
+37. Kf4 1-0
+

@@ -1,0 +1,20 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Fiensch"]
+[Black "Eckermann"]
+[Result "1-0"]
+[ECO "C09"]
+[Opening "French"]
+[Variation "Tarrasch, open variation, main line"]
+[HashCode "241a31db"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. exd5 exd5 5. Ngf3 Nc6 6. Bb5 Bd6 7. O-O Ne7
+8. dxc5 Bxc5 9. Nb3 Bb6 10. Re1 O-O 11. Be3 Bxe3 12. Rxe3 Bg4 13. c3 Qc7
+14. h3 Bh5 15. g4 Bg6 16. Nbd4 a6 17. Bf1 Rfe8 18. Qd2 Kf8 19. Rae1 Ng8 20.
+Nxc6 Rxe3 21. Qxe3 Qxc6 22. Ne5 Qd6 23. Qb6 Rd8 24. Qxb7 Nf6 25. Nc6 Re8
+26. Rxe8+ Nxe8 27. Bxa6 Qe6 28. Qb4+ Kg8 29. Ne7+ Kh8 30. Bf1 h5 31. Nxg6+
+fxg6 32. a4 Nf6 33. gxh5 gxh5 34. a5 Ne4 35. Qf8+ Kh7 36. a6 1-0
+

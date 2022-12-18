@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Bruni"]
+[Black "Modiglino"]
+[Result "1-0"]
+[ECO "B45"]
+[Opening "Sicilian"]
+[Variation "Taimanov variation"]
+[HashCode "643d5a39"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 Bb4 6. Nxc6 bxc6 7. Bd2
+Nf6 8. Bd3 O-O 9. O-O d5 10. e5 Nd7 11. f4 Qb6+ 12. Kh1 Bxc3 13. Bxc3 d4
+14. Bxd4 Qxd4 15. Bxh7+ Kxh7 16. Qxd4 Nb6 17. Qe4+ Kg8 18. Rf3 Rd8 19. Rh3
+g6 20. f5 exf5 21. Qh4 Bb7 22. Qh8# 1-0
+

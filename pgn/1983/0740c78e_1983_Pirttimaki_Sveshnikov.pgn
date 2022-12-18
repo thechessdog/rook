@@ -1,0 +1,23 @@
+[Event "Lvov"]
+[Site "Lvov"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Pirttimaki, Timo"]
+[Black "Sveshnikov, Evgeny"]
+[Result "1-0"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (without ...d6)"]
+[HashCode "0740c78e"]
+[Epoch "Rook"]
+[BlackID "4100638"]
+[BlackCountry "RUS"]
+[WhiteCountry "FIN"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 e6 4. O-O Nge7 5. Nc3 a6 6. Bxc6 Nxc6 7. d4 cxd4 8.
+Nxd4 d6 9. Re1 Bd7 10. Nxc6 Bxc6 11. Qg4 h5 12. Qg3 h4 13. Qg4 h3 14. g3 Qa5
+15. Bg5 Kd7 16. b4 Qxb4 17. Qf3 f6 18. Nd5 Qa5 19. Bd2 Qxd2 20. Nb6+ Kd8 21.
+Nxa8 b5 22. a4 Bxa8 23. axb5 a5 24. c4 f5 25. c5 Bxe4 26. Qa3 Qd5 27. Red1 Bd3
+28. Qxa5+ Ke7 29. Qa8 Qxa8 30. Rxa8 Bxb5 31. cxd6+ Kd7 32. Ra7+ Kc6 33. Rc7+
+Kb6 34. Rc8 Kb7 35. Rdc1 f4 36. R1c7+ Kb6 37. Rb8+ Ka6 38. Rc1 Ka5 39. Ra1+ Kb4
+40. d7 Bc5 41. Rxh8 Bxd7 42. Rb8+ Kc4 43. Rc1+ Kd5 44. Rd8 1-0

@@ -1,0 +1,20 @@
+[Event "Nykobing"]
+[Site "Nykobing"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Tiller, Bjorn"]
+[Black "Pedersen, Erik"]
+[Result "1/2-1/2"]
+[ECO "B16"]
+[Opening "Caro-Kann"]
+[Variation "Bronstein-Larsen variation"]
+[HashCode "4ffe42f5"]
+[Epoch "Rook"]
+[WhiteID "1500112"]
+[BlackID "1404997"]
+[WhiteCountry "NOR"]
+[BlackCountry "DEN"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ gxf6 6. c3 Bf5 7. Bd3 Bxd3
+8. Qxd3 e6 9. Bf4 Bd6 10. Ne2 Bxf4 11. Nxf4 Qd6 12. Qf3 Nd7 13. O-O O-O-O 14.
+Rfd1 Rhg8 15. b4 Rg5 1/2-1/2

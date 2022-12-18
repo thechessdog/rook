@@ -1,0 +1,19 @@
+[Event "Varna"]
+[Site "Varna"]
+[Date "1982.01.01"]
+[Round "6"]
+[White "Garkov, Mitko"]
+[Black "Savon, Vladimir"]
+[Result "1/2-1/2"]
+[ECO "E41"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5"]
+[HashCode "6c868518"]
+[Epoch "Rook"]
+[WhiteID "2900890"]
+[WhiteCountry "FID"]
+[BlackID "14138786"]
+[BlackCountry "UKR"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 Nc6 6. Ne2 cxd4 7. exd4 d5 8. O-O
+Be7 9. Be3 O-O 10. cxd5 Nxd5 11. Nxd5 exd5 1/2-1/2

@@ -1,0 +1,25 @@
+[Event "BL2-N 8283"]
+[Site "BL2-N 8283"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Muender, Michael"]
+[Black "Cording, Harm"]
+[Result "0-1"]
+[ECO "E14"]
+[Opening "Queen's Indian"]
+[Variation "4.e3"]
+[HashCode "fb7e8db0"]
+[Epoch "Rook"]
+[WhiteID "4605209"]
+[WhiteCountry "GER"]
+[BlackID "4602684"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. e3 Bb7 5. Bd3 Bb4+ 6. Nbd2 O-O 7. O-O d5 8.
+cxd5 exd5 9. Ne5 Bd6 10. b3 c5 11. Bb2 Nc6 12. Rc1 Rc8 13. Ndf3 Qe7 14. Nxc6
+Rxc6 15. Ne5 Rc7 16. Ng4 Nd7 17. Bf5 h5 18. dxc5 bxc5 19. f4 hxg4 20. Qxg4 Nf6
+21. Qh3 d4 22. exd4 Be4 23. dxc5 Bxc5+ 24. Kh1 Bxf5 25. Qxf5 Rfc8 26. Rce1 Qd7
+27. Qg5 Bd4 28. Rd1 Ne4 29. Rxd4 Nxg5 30. Rxd7 Rxd7 31. fxg5 Rd2 32. Be5 Rxa2
+33. h3 Rcc2 34. Rg1 Re2 35. Bd6 a5 36. Kh2 Reb2 37. h4 Rxb3 38. h5 Rb5 39. Bf4
+a4 40. Kh3 Kh7 41. Rd1 g6 42. h6 Rf5 43. g3 a3 44. Rd8 Ra1 45. Ra8 a2 46. Kg2
+Rb5 47. Ra7 Rb2+ 48. Kh3 Rh1+ 49. Kg4 0-1

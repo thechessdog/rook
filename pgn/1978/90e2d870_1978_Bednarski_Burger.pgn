@@ -1,0 +1,17 @@
+[Event "Stockholm"]
+[Site "Stockholm"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Bednarski, Jacek B"]
+[Black "Burger, Karl"]
+[Result "1-0"]
+[ECO "C05"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation"]
+[HashCode "90e2d870"]
+[Epoch "Rook"]
+[WhiteCountry "POL"]
+[BlackCountry "USA"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Ngf3 Be7 6. c3 c5 7. Bd3 Nc6 8. O-O
+Qb6 9. dxc5 Nxc5 10. Bc2 Qa6 11. b4 Nd3 12. b5 Qxb5 13. Qe2 1-0

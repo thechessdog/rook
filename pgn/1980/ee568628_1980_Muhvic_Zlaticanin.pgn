@@ -1,0 +1,17 @@
+[Event "corr YUG"]
+[Site "corr YUG"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Muhvic, S."]
+[Black "Zlaticanin, A."]
+[Result "1-0"]
+[ECO "C45"]
+[Opening "Scotch game"]
+[HashCode "ee568628"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Bc5 5. Nf5 Qf6 6. Nc3 Nge7 7. Ne3
+O-O 8. Be2 Ne5 9. O-O d6 10. Ned5 Nxd5 11. Nxd5 Qd8 12. b4 Bb6 13. a4 c5
+14. a5 Bc7 15. f4 Nc6 16. c3 a6 17. f5 f6 18. Bc4 Kh8 19. Qh5 Ne5 20. Rf4
+Qd7 21. Rh4 g5 22. fxg6 Nxc4 23. Qxh7+ Qxh7 24. Rxh7+ Kg8 25. Ne7# 1-0
+

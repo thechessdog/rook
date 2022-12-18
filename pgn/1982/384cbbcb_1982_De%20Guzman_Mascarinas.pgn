@@ -1,0 +1,24 @@
+[Event "Manila"]
+[Site "Manila"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "De Guzman, Ricardo"]
+[Black "Mascarinas, Rico"]
+[Result "1-0"]
+[ECO "A46"]
+[Opening "Queen's pawn"]
+[Variation "Torre attack"]
+[HashCode "384cbbcb"]
+[Epoch "Rook"]
+[BlackID "5200024"]
+[BlackCountry "PHI"]
+[WhiteID "5200121"]
+[WhiteCountry "PHI"]
+
+1. d4 Nf6 2. Bg5 e6 3. Nf3 h6 4. Bh4 b6 5. Nbd2 Bb7 6. e3 c5 7. Bd3 d6 8. O-O
+Be7 9. c3 O-O 10. Re1 Nbd7 11. a4 e5 12. dxe5 dxe5 13. e4 Nh5 14. Bg3 Nf4 15.
+Bb5 Ng6 16. Qb3 Nf6 17. Rad1 Qc7 18. Nc4 Bxe4 19. Nfxe5 Qb7 20. Rxe4 Qxe4 21.
+Bc6 Qf5 22. Ne3 Qh5 23. Bf3 Qg5 24. h4 Qxg3 25. fxg3 Nxe5 26. Bxa8 Rxa8 27. a5
+c4 28. Nxc4 Bc5+ 29. Kf1 Neg4 30. Ke2 Nf2 31. Ne5 Nxd1 32. Qxf7+ Kh7 33. Kxd1
+bxa5 34. Qg6+ Kg8 35. g4 Rd8+ 36. Kc2 Re8 37. g5 Rxe5 38. gxf6 Bf8 39. f7+ Kh8
+40. Qc6 1-0

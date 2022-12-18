@@ -1,0 +1,21 @@
+[Event "corr CCCA"]
+[Site "corr CCCA"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Kiviaho, Robert"]
+[Black "Sarink, H."]
+[Result "1-0"]
+[ECO "C85"]
+[Opening "Ruy Lopez"]
+[Variation "Exchange variation doubly deferred (DERLD)"]
+[HashCode "93253e64"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Bxc6 dxc6 7. d3 Nd7
+8. Nbd2 O-O 9. Nc4 f6 10. d4 exd4 11. Qxd4 Nc5 12. Qe3 Be6 13. Na5 Qc8 14.
+Bd2 Re8 15. Bb4 Nd7 16. Bxe7 Rxe7 17. Nd4 Bf7 18. Nf5 Re8 19. Rfe1 Nf8 20.
+h4 Be6 21. Nd4 Bf7 22. Qf4 Re5 23. b4 Ne6 24. Nxe6 Bxe6 25. Qg3 Bf7 26. f4
+Re7 27. a3 Bg6 28. Qf3 Rb8 29. h5 Bf7 30. h6 gxh6 31. Qg3+ Kh8 32. Qh4 Qe6
+33. Rad1 Ree8 34. Nb3 Qe7 35. Nc5 Red8 36. e5 Rxd1 37. Rxd1 Rd8 38. Rxd8+
+Qxd8 39. Qxf6+ Qxf6 40. exf6 Bc4 41. Nxb7 1-0
+

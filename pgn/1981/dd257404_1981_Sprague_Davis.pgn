@@ -1,0 +1,17 @@
+[Event "MOTCF,OH"]
+[Site "MOTCF,OH"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Sprague, Ross"]
+[Black "Davis, D."]
+[Result "1-0"]
+[ECO "C77"]
+[Opening "Ruy Lopez"]
+[Variation "Morphy defence"]
+[HashCode "dd257404"]
+[Epoch "Rook"]
+[WhiteID "2036975"]
+[WhiteCountry "USA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. d4 Nxe4 6. Qe2 f5 7. d5 Ne7 8. Nxe5
+b5 9. Bb3 Nc5 10. d6 1-0

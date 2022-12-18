@@ -1,0 +1,19 @@
+[Event "Paris"]
+[Site "Paris"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Plaskett, H James"]
+[Black "Vincent, Patrick"]
+[Result "1-0"]
+[ECO "A88"]
+[Opening "Dutch"]
+[Variation "Leningrad, main variation with c6"]
+[HashCode "b1071a42"]
+[Epoch "Rook"]
+[WhiteCountry "ENG"]
+[BlackID "612413"]
+[BlackCountry "FRA"]
+
+1. d4 f5 2. c4 Nf6 3. Nf3 g6 4. g3 Bg7 5. Bg2 O-O 6. O-O d6 7. Nc3 c6 8. d5 e5
+9. dxe6 Bxe6 10. b3 Ne4 11. Nxe4 Bxa1 12. Nfg5 Qd7 13. Nxd6 Rd8 14. Bf4 Bf6 15.
+e4 Be7 16. exf5 Bxf5 17. Bd5+ Kg7 18. Be5+ Bf6 19. Bxf6+ Kxf6 20. Qd4+ 1-0

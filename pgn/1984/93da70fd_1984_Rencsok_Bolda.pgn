@@ -1,0 +1,22 @@
+[Event "Plymouth ch-MI op"]
+[Site "Plymouth ch-MI op"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Rencsok, R."]
+[Black "Bolda, DH."]
+[Result "0-1"]
+[ECO "A45"]
+[Opening "Trompovsky attack (Ruth, Opovcensky opening)"]
+[HashCode "93da70fd"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. Bg5 d6 3. e3 Ne4 4. h4 c5 5. Bd3 Qa5+ 6. c3 Nxg5 7. hxg5 cxd4
+8. g6 fxg6 9. Bxg6+ Kd8 10. exd4 Qg5 11. Be4 Nd7 12. Nf3 Qg4 13. Qd3 Nf6
+14. Nbd2 Nxe4 15. Qxe4 Qxe4+ 16. Nxe4 h6 17. O-O-O Rg8 18. Rhg1 g5 19. Ne1
+Bg7 20. Nd3 Be6 21. Kb1 Kd7 22. f3 b5 23. Nb4 a5 24. d5 Bf5 25. Nc6 e6 26.
+Nd4 Bxe4+ 27. fxe4 Bxd4 28. dxe6+ Kxe6 29. cxd4 h5 30. Rdf1 Rgf8 31. Kc2
+Rf4 32. Kd3 Raf8 33. Rxf4 Rxf4 34. Ke3 d5 35. e5 Re4+ 36. Kd3 h4 37. Rf1
+Rg4 38. Rf2 b4 39. b3 Rg3+ 40. Ke2 g4 41. Rf6+ Ke7 42. Kf2 Rd3 43. Rh6 Rxd4
+44. Rxh4 Ke6 45. Kg3 Kxe5 46. Rxg4 Rxg4+ 47. Kxg4 Ke4 48. Kh3 d4 49. g4 d3
+50. g5 0-1
+

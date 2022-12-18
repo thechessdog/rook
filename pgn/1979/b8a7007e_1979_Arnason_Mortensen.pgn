@@ -1,0 +1,21 @@
+[Event "Gladsaxe"]
+[Site "Gladsaxe"]
+[Date "1979.01.01"]
+[Round "9"]
+[White "Arnason, Jon L"]
+[Black "Mortensen, Erling"]
+[Result "1-0"]
+[ECO "B84"]
+[Opening "Sicilian"]
+[Variation "Scheveningen (Paulsen), classical variation"]
+[HashCode "b8a7007e"]
+[Epoch "Rook"]
+[WhiteID "2300036"]
+[WhiteCountry "ISL"]
+[BlackID "1400045"]
+[BlackCountry "DEN"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be2 a6 7. f4 Be7 8. O-O
+Qc7 9. Kh1 O-O 10. Qe1 b5 11. Bf3 Bb7 12. a3 Nc6 13. Be3 Na5 14. Rd1 Rfc8 15.
+Qg3 Nc4 16. Bc1 Bf8 17. Nde2 Rab8 18. b3 Nb6 19. Bb2 d5 20. exd5 exd5 21. Nxb5
+axb5 22. Bxf6 Qxc2 23. Be5 Qxb3 24. Nd4 Qa4 25. Bxg7 Rc6 26. Bf6+ 1-0

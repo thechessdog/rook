@@ -1,0 +1,16 @@
+[Event "Toronto ch-CAN - zt"]
+[Site "Toronto ch-CAN - zt"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Nickoloff, Bryon"]
+[Black "Green Krotki, J."]
+[Result "0-1"]
+[ECO "E95"]
+[Opening "King's Indian"]
+[Variation "orthodox, 7...Nbd7, 8.Re1"]
+[HashCode "896bb536"]
+[Epoch "Rook"]
+[WhiteCountry "CAN"]
+
+1. Nf3 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. d4 O-O 6. Be2 e5 7. O-O Nbd7 8. Re1
+c6 9. Bf1 Ng4 10. Bg5 f6 11. Bc1 exd4 12. Nxd4 f5 13. h3 Nxf2 14. Kxf2 Qb6 0-1

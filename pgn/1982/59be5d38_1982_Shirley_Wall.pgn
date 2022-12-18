@@ -1,0 +1,16 @@
+[Event "Dayton,OH"]
+[Site "Dayton,OH"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Shirley, R."]
+[Black "Wall, Bill"]
+[Result "0-1"]
+[ECO "C36"]
+[Opening "KGA"]
+[Variation "Abbazia defence (classical defence, modern defence[!])"]
+[HashCode "59be5d38"]
+[Epoch "Rook"]
+[BlackCountry "USA"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 d5 4. exd5 Qxd5 5. d4 Bd6 6. c4 Qe6+ 7. Be2 Bd7 8.
+O-O Nf6 9. Ng5 Qe7 10. Bxf4 Bxf4 11. Rxf4 Qe3+ 12. Rf2 Qxg5 0-1

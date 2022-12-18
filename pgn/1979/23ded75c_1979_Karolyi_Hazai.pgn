@@ -1,0 +1,19 @@
+[Event "Hungary ch"]
+[Site "Hungary ch"]
+[Date "1979.01.01"]
+[Round "12"]
+[White "Karolyi, Tibor"]
+[Black "Hazai, Laszlo Dr."]
+[Result "1/2-1/2"]
+[ECO "C80"]
+[Opening "Ruy Lopez"]
+[Variation "open, 8...Be6"]
+[HashCode "23ded75c"]
+[Epoch "Rook"]
+[WhiteID "700312"]
+[WhiteCountry "HUN"]
+[BlackID "700177"]
+[BlackCountry "HUN"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Be6 9. Be3 Nc5 10. c3 Nxb3 11. axb3 Be7 12. Nd4 1/2-1/2

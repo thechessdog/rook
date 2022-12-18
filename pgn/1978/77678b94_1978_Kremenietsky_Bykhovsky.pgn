@@ -1,0 +1,20 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Kremenietsky, Anato"]
+[Black "Bykhovsky, Anatoly A"]
+[Result "1-0"]
+[ECO "B17"]
+[Opening "Caro-Kann"]
+[Variation "Steinitz variation"]
+[HashCode "77678b94"]
+[Epoch "Rook"]
+[BlackID "4101669"]
+[BlackCountry "RUS"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Bc4 Ngf6 6. Ng5 e6 7. Qe2 Nb6 8.
+Bd3 h6 9. N5f3 c5 10. dxc5 Nbd7 11. b4 a5 12. c3 axb4 13. cxb4 b6 14. Nh3 Nd5
+15. O-O Nxb4 16. c6 Nxc6 17. Bb2 Nb4 18. Bb5 Ba6 19. Bxa6 Nxa6 20. Nf4 Nac5 21.
+Rfd1 Qc7 22. Ne5 Nxe5 23. Bxe5 Qc6 24. Nd5 O-O-O 25. Nxb6+ Qxb6 26. Rab1 Rxd1+
+27. Qxd1 Qa7 28. Qf3 Kd7 29. Rd1+ Ke7 30. Bd6+ Ke8 31. Qc6+ Nd7 32. Qc8# 1-0

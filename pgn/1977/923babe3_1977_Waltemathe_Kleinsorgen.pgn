@@ -1,0 +1,18 @@
+[Event "corr FRG/M"]
+[Site "corr FRG/M"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Waltemathe, A."]
+[Black "Kleinsorgen, H."]
+[Result "1-0"]
+[ECO "B27"]
+[Opening "Sicilian"]
+[Variation "Hungarian variation"]
+[HashCode "923babe3"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 g6 3. d4 Bg7 4. Nc3 Qa5 5. d5 d6 6. Nd2 Bxc3 7. bxc3 Qxc3
+8. Rb1 Nf6 9. Bd3 Qa5 10. O-O a6 11. c4 Nbd7 12. f4 O-O 13. Nf3 Rb8 14. a4
+e5 15. dxe6 fxe6 16. Ng5 Re8 17. e5 dxe5 18. fxe5 Nh5 19. Nxh7 Nxe5 20.
+Bxg6 Nxg6 21. Qxh5 1-0
+

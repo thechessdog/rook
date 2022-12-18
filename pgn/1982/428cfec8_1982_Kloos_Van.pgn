@@ -1,0 +1,19 @@
+[Event "corr Netherlands"]
+[Site "corr Netherlands"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Kloos"]
+[Black "Van der Kooij"]
+[Result "0-1"]
+[ECO "C31"]
+[Opening "KGD"]
+[Variation "Falkbeer, Tartakower variation"]
+[HashCode "428cfec8"]
+[Epoch "Rook"]
+[BlackID "1011812"]
+[BlackCountry "NED"]
+
+1. e4 e5 2. f4 d5 3. Nf3 dxe4 4. Nxe5 Bd6 5. Qe2 Qe7 6. Qxe4 f6 7. d4 fxe5 8.
+fxe5 Nf6 9. Qe2 O-O 10. Bg5 Qf7 11. Nd2 Re8 12. O-O-O Ng4 13. Nf3 Be7 14. h3
+Bxg5+ 15. Nxg5 Qf4+ 16. Qd2 Qxd2+ 17. Kxd2 Nh6 18. Bc4+ Kh8 19. Rhf1 Nc6 20.
+Kc1 Nd8 21. e6 Nc6 22. d5 Ne7 23. Nf7+ Nxf7 24. Rxf7 a6 25. Rff1 Kg8 0-1

@@ -1,0 +1,22 @@
+[Event "Amsterdam"]
+[Site "Amsterdam"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Baljon, Christofoor"]
+[Black "Van der Sterren, Paul"]
+[Result "0-1"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "modern variation"]
+[HashCode "48cb10ab"]
+[Epoch "Rook"]
+[WhiteID "1000772"]
+[WhiteCountry "NED"]
+[BlackID "1000071"]
+[BlackCountry "NED"]
+
+1. b3 e5 2. Bb2 Nc6 3. Nf3 e4 4. Nd4 Nf6 5. e3 Ne5 6. Nf5 d6 7. Ng3 Qe7 8. c4
+b6 9. Nc3 Bb7 10. Qb1 O-O-O 11. Be2 h5 12. h4 Kb8 13. a3 Rg8 14. Qa2 Nd3+ 15.
+Bxd3 exd3 16. f3 d5 17. cxd5 Nxd5 18. Nxd5 Bxd5 19. Nxh5 Rh8 20. Nf4 Rxh4 21.
+Kf2 Rxf4 22. exf4 Qe2+ 23. Kg3 Rd6 24. f5 Rg6+ 25. fxg6 Bd6+ 26. Kh4 Qf2+ 27.
+Kh5 Qg3 28. Bxg7 Bf4 0-1

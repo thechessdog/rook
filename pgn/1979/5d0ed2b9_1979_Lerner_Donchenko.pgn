@@ -1,0 +1,18 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Lerner, Konstantin Z"]
+[Black "Donchenko, Anatoly G"]
+[Result "1-0"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical system, 5.Be2"]
+[HashCode "5d0ed2b9"]
+[Epoch "Rook"]
+[WhiteCountry "UKR"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Nf3 Bg7 5. Be2 O-O 6. O-O c6 7. h3 Nbd7 8. Bf4
+Qa5 9. Bh2 e5 10. a3 Re8 11. dxe5 dxe5 12. Qd2 Nh5 13. Ng5 h6 14. Bxh5 hxg5 15.
+Bg4 Qd8 16. Rad1 Qe7 17. Bxd7 Rd8 18. Nd5 Qxd7 19. Qxg5 f6 20. Nxf6+ Bxf6 21.
+Qxf6 Qxd1 22. Bxe5 Qd7 23. Kh2 1-0

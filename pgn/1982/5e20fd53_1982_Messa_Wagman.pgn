@@ -1,0 +1,22 @@
+[Event "Reggio Emilia"]
+[Site "Reggio Emilia"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Messa, Roberto"]
+[Black "Wagman, Stuart"]
+[Result "1-0"]
+[ECO "B25"]
+[Opening "Sicilian"]
+[Variation "closed, 6.f4"]
+[HashCode "5e20fd53"]
+[Epoch "Rook"]
+[WhiteID "800457"]
+[WhiteCountry "ITA"]
+[BlackCountry "USA"]
+
+1. g3 g6 2. Bg2 Bg7 3. e4 c5 4. Nc3 Nc6 5. d3 d6 6. f4 e6 7. Nf3 Nge7 8. O-O
+O-O 9. Be3 Nd4 10. Rb1 Rb8 11. Ne2 Nxe2+ 12. Qxe2 b6 13. h4 Bb7 14. h5 d5 15.
+hxg6 hxg6 16. Ng5 Qd7 17. Qg4 Rfe8 18. Qh4 f6 19. Qh7+ Kf8 20. Bh3 f5 21. exf5
+exf5 22. Rbe1 d4 23. Bd2 Bd5 24. Rxe7 Rxe7 25. Qxg6 Qc6 26. Qxf5+ Ke8 27. Bg4
+Kd8 28. Re1 Rxe1+ 29. Bxe1 Ke7 30. Ne4 Rh8 31. Bf3 Qe6 32. Qg5+ Bf6 33. Qg6
+Bxa2 34. f5 Qf7 35. Qg4 Bb1 36. Qf4 Rd8 37. g4 Bxc2 38. g5 Bh8 39. g6 1-0

@@ -1,0 +1,22 @@
+[Event "corr ch-SWE"]
+[Site "corr ch-SWE"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Carlsson, Ake"]
+[Black "Tornefjell, Bjorn"]
+[Result "0-1"]
+[ECO "B41"]
+[Opening "Sicilian"]
+[Variation "Kan, Maroczy bind (Reti variation)"]
+[HashCode "ec1293ae"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 c5 3. Nf3 cxd4 4. Nxd4 a6 5. c4 Nf6 6. Nc3 Bb4 7. Bd3 Nc6 8.
+Nc2 Bxc3+ 9. bxc3 d5 10. exd5 exd5 11. O-O O-O 12. cxd5 Qxd5 13. c4 Qa5 14.
+Bb2 Ne5 15. Bxe5 Qxe5 16. Re1 Qc7 17. Ne3 Be6 18. a4 Rfd8 19. Qb3 Rd7 20.
+a5 Rad8 21. Be2 Ne4 22. Qb4 Qf4 23. Bf3 Nd2 24. Be2 g6 25. Ra2 h5 26. Rb2
+Ne4 27. Bf3 Nf6 28. Qc3 Ng4 29. Nxg4 hxg4 30. Be2 Rc8 31. g3 Qf5 32. Qb4
+Rc6 33. Rd2 Rxd2 34. Qxd2 Rc5 35. Qd8+ Kh7 36. Bd3 Qg5 37. Qb6 Re5 38. Rxe5
+Qxe5 39. Qxb7 Qe1+ 40. Kg2 Qxa5 41. c5 Qd2 42. Be4 Qd4 43. f3 Qd2+ 44. Kg1
+Qe1+ 45. Kg2 Qe2+ 46. Kg1 Bc4 0-1
+

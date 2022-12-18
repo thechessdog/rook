@@ -1,0 +1,15 @@
+[Event "Snekkersten"]
+[Site "Snekkersten"]
+[Date "1978.01.01"]
+[Round "7"]
+[White "Larsen, Ole"]
+[Black "Rosell, Per"]
+[Result "1/2-1/2"]
+[ECO "C41"]
+[Opening "Philidor"]
+[Variation "Larsen variation"]
+[HashCode "31d74beb"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 d6 3. d4 exd4 4. Nxd4 g6 5. c4 Bg7 6. Nc3 Nc6 7. Be3 Nf6 8. Be2
+O-O 9. O-O Re8 10. f3 Nxd4 1/2-1/2

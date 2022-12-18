@@ -1,0 +1,18 @@
+[Event "corr DDR-cup6"]
+[Site "corr DDR-cup6"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Hattendorf, J."]
+[Black "Kliesch, B."]
+[Result "1-0"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Paulsen attack"]
+[HashCode "cee9ce91"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Be2 cxd4 7. cxd4 Nge7 8.
+Na3 Nf5 9. Nc2 Bb4+ 10. Kf1 Be7 11. g4 Nh4 12. Nxh4 Bxh4 13. f4 Bd7 14. Kg2
+O-O-O 15. b4 h6 16. a4 Kb8 17. a5 Qc7 18. b5 Nxa5 19. Ba3 Ka8 20. Bd6 Qc3
+21. Bb4 Qb2 22. Rxa5 1-0
+

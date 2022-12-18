@@ -1,0 +1,21 @@
+[Event "Bundesliga 8182"]
+[Site "Duitsland tt"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Gawehns, Klaus"]
+[Black "Saacke, Bernd"]
+[Result "1-0"]
+[ECO "D42"]
+[Opening "QGD"]
+[Variation "Semi-Tarrasch, 7.Bd3"]
+[HashCode "41843e7b"]
+[Epoch "Rook"]
+[WhiteID "4602129"]
+[WhiteCountry "GER"]
+[BlackCountry "DEU"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 e6 4. Nc3 c5 5. cxd5 Nxd5 6. e3 Nc6 7. Bd3 Be7 8. O-O
+O-O 9. a3 cxd4 10. exd4 Bf6 11. Re1 Nxc3 12. bxc3 b6 13. Qc2 g6 14. h4 Bb7 15.
+Bh6 Bg7 16. Bxg7 Kxg7 17. h5 Rc8 18. Qd2 Na5 19. Ng5 Bd5 20. h6+ Kg8 21. Qf4
+Rxc3 22. Be4 Nc6 23. Bxd5 Qxd5 24. Ne4 Qxd4 25. Rad1 Rd3 26. Rxd3 Qxd3 27. Qf6
+Qd4 28. Rc1 Rc8 29. g3 b5 30. Rxc6 1-0

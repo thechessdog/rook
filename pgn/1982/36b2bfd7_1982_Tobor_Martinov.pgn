@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Tobor, D."]
+[Black "Martinov, G."]
+[Result "1-0"]
+[ECO "C64"]
+[Opening "Ruy Lopez"]
+[Variation "classical defence, 4.c3"]
+[HashCode "36b2bfd7"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. c3 Nge7 5. O-O Ng6 6. d4 exd4 7. cxd4 Bb6
+8. Nc3 O-O 9. Bg5 f6 10. Bc4+ Kh8 11. Be3 a6 12. e5 fxe5 13. Ng5 h6 14.
+Nf7+ Rxf7 15. Bxf7 exd4 16. Bxg6 dxc3 17. Bxb6 cxb2 18. Rb1 cxb6 19. Re1
+1-0
+

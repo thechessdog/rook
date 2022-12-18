@@ -1,0 +1,17 @@
+[Event "Budapest"]
+[Site "Budapest"]
+[Date "1980.??.??"]
+[Round "?"]
+[White "Marosi, Gyorgy"]
+[Black "Szell, Lajos"]
+[Result "1/2-1/2"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...g6"]
+[HashCode "c92c169f"]
+[Epoch "Rook"]
+[BlackCountry "HUN"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 g6 6. Qb3 Bg7 7. cxd5 O-O 8.
+Bc4 Nbd7 9. Nge2 Nb6 10. O-O Nxc4 11. Qxc4 b6 12. Bg5 Bb7 13. Nf4 Qd7 14. Rfe1
+Rac8 15. Qb3 Rfd8 1/2-1/2

@@ -1,0 +1,20 @@
+[Event "Troon"]
+[Site "Troon"]
+[Date "1984.07.01"]
+[Round "1"]
+[White "Condie, Mark L"]
+[Black "Morrison, Graham"]
+[Result "1/2-1/2"]
+[ECO "D58"]
+[Opening "QGD"]
+[Variation "Tartakower (Makagonov-Bondarevsky) system"]
+[HashCode "6561f709"]
+[Epoch "Rook"]
+[WhiteID "2400014"]
+[BlackID "2400090"]
+[WhiteCountry "SCO"]
+[BlackCountry "SCO"]
+
+1. d4 Nf6 2. Nf3 d5 3. c4 e6 4. Bg5 Be7 5. Nc3 O-O 6. e3 h6 7. Bh4 b6 8. Bd3
+Bb7 9. O-O Nbd7 10. Qe2 c5 11. Rac1 dxc4 12. Bxc4 a6 13. Rfd1 b5 14. Bd3 cxd4
+15. Nxd4 Qb6 16. Ne4 Rac8 1/2-1/2

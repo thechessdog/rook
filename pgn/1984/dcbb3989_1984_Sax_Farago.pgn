@@ -1,0 +1,19 @@
+[Event "Budapest ch-HUN"]
+[Site "Budapest ch-HUN"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Sax, Gyula"]
+[Black "Farago, Ivan"]
+[Result "1/2-1/2"]
+[ECO "C15"]
+[Opening "French"]
+[Variation "Winawer, fingerslip variation"]
+[HashCode "dcbb3989"]
+[Epoch "Rook"]
+[BlackID "700134"]
+[WhiteCountry "HUN"]
+[BlackCountry "HUN"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. Bd2 dxe4 5. Qg4 Qxd4 6. Nf3 Nh6 7. Qxe6+ Bxe6
+8. Nxd4 Bd7 9. Nxe4 Bxd2+ 10. Nxd2 Nc6 11. Nxc6 Bxc6 12. Bd3 O-O-O 13. O-O Ng4
+14. Rfe1 Nf6 15. Nc4 Bd5 16. Ne3 Be6 17. a3 1/2-1/2

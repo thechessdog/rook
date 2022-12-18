@@ -1,0 +1,24 @@
+[Event "Hungary"]
+[Site "Hungary"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Hardicsay, Peter"]
+[Black "Hradeczky, Tamas"]
+[Result "1-0"]
+[ECO "B92"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Opovcensky variation"]
+[HashCode "b32f150e"]
+[Epoch "Rook"]
+[WhiteID "700622"]
+[BlackID "701467"]
+[WhiteCountry "HUN"]
+[BlackCountry "HUN"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be6 8. f4
+Qc7 9. g4 b5 10. a3 h6 11. g5 hxg5 12. fxg5 Nfd7 13. Bg4 Rh4 14. Bxe6 fxe6 15.
+Qf3 Nc6 16. Qg3 Rh8 17. Qg4 Nd4 18. Nxd4 exd4 19. Qxe6+ Kd8 20. Ne2 Qxc2 21.
+Bd2 b4 22. Bxb4 a5 23. Qd5 axb4 24. Qxa8+ Ke7 25. Nxd4 Qxb2 26. Nf5+ Kf7 27.
+Qd5+ Ke8 28. Qd4 Rxh2 29. Rxh2 Qxh2 30. axb4 Ne5 31. Ra8+ Kf7 32. Qd5+ Kg6 33.
+Rxf8 Qg1+ 34. Kd2 Qf2+ 35. Kd1 Qf1+ 36. Kc2 Qe2+ 37. Kb3 Kxg5 38. Nxd6 Qe3+ 39.
+Kc2 1-0

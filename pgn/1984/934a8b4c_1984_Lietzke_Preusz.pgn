@@ -1,0 +1,21 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Lietzke"]
+[Black "Preusz"]
+[Result "1-0"]
+[ECO "A58"]
+[Opening "Benko gambit"]
+[Variation "Nd2 variation"]
+[HashCode "934a8b4c"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. bxa6 Bxa6 6. Nc3 d6 7. Nf3 g6 8.
+Nd2 Bg7 9. e4 Bxf1 10. Nxf1 O-O 11. Ne3 Nbd7 12. O-O Qb6 13. Qc2 Rfb8 14.
+Rb1 Rb7 15. b3 Qa6 16. Nc4 Ne8 17. a4 Rab8 18. Nb5 Nc7 19. Nxc7 Rxc7 20.
+Bb2 Bxb2 21. Rxb2 f6 22. Rfb1 Rb4 23. h4 Kg7 24. g3 Rcb7 25. Kg2 Nb6 26.
+Na3 Qa8 27. Qe2 Nc8 28. Nc2 R4b6 29. Qc4 Qb8 30. b4 cxb4 31. Rxb4 Rxb4 32.
+Rxb4 Rxb4 33. Qxb4 Qc7 34. Nd4 Qa7 35. a5 Kf7 36. Ne6 Qa6 37. Nc7 Qa7 38.
+Qc3 Qc5 39. Qxc5 dxc5 40. f3 f5 41. e5 1-0
+

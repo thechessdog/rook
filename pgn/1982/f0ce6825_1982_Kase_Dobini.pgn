@@ -1,0 +1,19 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Kase"]
+[Black "Dobini"]
+[Result "0-1"]
+[ECO "C36"]
+[Opening "KGA"]
+[Variation "Abbazia defence, modern variation"]
+[HashCode "f0ce6825"]
+[Epoch "Rook"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 d5 4. exd5 Nf6 5. Bb5+ c6 6. dxc6 Nxc6 7. d4 Bd6
+8. O-O O-O 9. Na3 Bg4 10. Bxc6 bxc6 11. Nc4 Bc7 12. c3 Qd5 13. Nce5 g5 14.
+c4 Qd6 15. Qd3 Rad8 16. Nxg4 Nxg4 17. Nxg5 Qxd4+ 18. Qxd4 Rxd4 19. b3 Bb6
+20. Ba3 Rd5+ 21. c5 Rxc5 22. Bxc5 Bxc5+ 23. Kh1 Nf2+ 24. Rxf2 Bxf2 25. Ne4
+Bd4 26. Rd1 Rd8 27. h3 Rd5 28. Rc1 Kg7 29. Rxc6 Re5 30. Nc3 Re1+ 0-1
+

@@ -1,0 +1,18 @@
+[Event "corr GB"]
+[Site "corr GB"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Ryan, F."]
+[Black "Mitchell, G."]
+[Result "0-1"]
+[ECO "C27"]
+[Opening "Vienna"]
+[Variation "`Frankenstein-Dracula' variation"]
+[HashCode "e9369a3c"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Bc4 Nf6 3. Nc3 Nxe4 4. Qh5 Nd6 5. Bb3 Nc6 6. Nb5 g6 7. Qf3 f5
+8. Qd5 Qe7 9. Nxc7+ Kd8 10. Nxa8 b6 11. d3 Bb7 12. h4 f4 13. Qf3 Bh6 14.
+Nxb6 axb6 15. Nh3 Qxh4 16. g3 Qe7 17. O-O Nd4 18. Qg4 Nf3+ 19. Kg2 Nf5 20.
+Ng1 Nd2+ 21. f3 Ne3+ 0-1
+

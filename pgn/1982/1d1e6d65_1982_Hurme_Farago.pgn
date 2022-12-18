@@ -1,0 +1,24 @@
+[Event "Jarvenpaa"]
+[Site "Jarvenpaa"]
+[Date "1982.01.01"]
+[Round "3"]
+[White "Hurme, Harri"]
+[Black "Farago, Ivan"]
+[Result "0-1"]
+[ECO "E48"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 O-O, 5.Bd3 d5"]
+[HashCode "1d1e6d65"]
+[Epoch "Rook"]
+[WhiteID "500321"]
+[WhiteCountry "FIN"]
+[BlackID "700134"]
+[BlackCountry "HUN"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Ne2 c5 7. cxd5 cxd4 8.
+exd4 Nxd5 9. O-O Nc6 10. Nxd5 Qxd5 11. Be3 Ne7 12. Nf4 Qa5 13. Qf3 Rb8 14. h4
+Bd7 15. h5 Bc6 16. Qg4 f5 17. Qe2 Rf6 18. a3 Bd6 19. Bd2 Qb6 20. Nxe6 Re8 21.
+Bg5 Rf7 22. Bxe7 Rexe7 23. Bc4 Kh8 24. h6 f4 25. hxg7+ Rxg7 26. d5 f3 27. Qxf3
+Rxe6 28. dxc6 Reg6 29. Bd5 bxc6 30. Be4 Rxg2+ 31. Qxg2 Qxb2 32. Bxc6 Bc5 33.
+Qxg7+ Kxg7 34. Rad1 h5 35. Rd3 h4 36. Kg2 Qf6 37. Be4 Qf4 38. Bf3 Qg5+ 39. Kh2
+Bd6+ 40. Kh1 Qf5 0-1

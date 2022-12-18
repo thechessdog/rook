@@ -1,0 +1,16 @@
+[Event "Winston-Salem,NC"]
+[Site "Winston-Salem,NC"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Wall, Bill"]
+[Black "Lipkin, Alan"]
+[Result "1-0"]
+[ECO "C26"]
+[Opening "Vienna"]
+[Variation "Paulsen-Mieses variation"]
+[HashCode "9c89ff9d"]
+[Epoch "Rook"]
+[WhiteCountry "USA"]
+
+1. e4 e5 2. Nc3 Nf6 3. g3 Bc5 4. Bg2 Nc6 5. Nge2 Ng4 6. O-O O-O 7. d3 d6 8. a3
+Qf6 9. Qe1 Qg6 10. Nd5 Qh5 11. h4 g5 12. Bf3 gxh4 13. Nf6+ 1-0

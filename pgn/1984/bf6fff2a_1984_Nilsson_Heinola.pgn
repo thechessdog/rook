@@ -1,0 +1,19 @@
+[Event "corr SM-E"]
+[Site "corr SM-E"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Nilsson, A."]
+[Black "Heinola, Kari P."]
+[Result "0-1"]
+[ECO "D02"]
+[Opening "Queen's pawn game"]
+[HashCode "bf6fff2a"]
+[Epoch "Rook"]
+[BlackID "503495"]
+[BlackCountry "FIN"]
+
+1. Nf3 d5 2. d4 Bg4 3. e3 Nc6 4. Bb5 e6 5. Nbd2 Ne7 6. h3 Bh5 7. O-O a6 8. Be2
+f6 9. Nb3 Nc8 10. Nh2 Bg6 11. a3 Nb6 12. Bh5 Bd6 13. Be2 Qe7 14. Nd2 e5 15. c3
+O-O 16. b3 f5 17. Bh5 Bxh5 18. Qxh5 f4 19. Bb2 fxe3 20. fxe3 exd4 21. Rfe1 g6
+22. Qh6 Bxh2+ 23. Kxh2 Qe5+ 24. Kg1 dxc3 25. Nf3 Rxf3 26. Bxc3 Qxc3 27. gxf3
+Ne5 0-1

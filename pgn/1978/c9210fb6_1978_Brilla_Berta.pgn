@@ -1,0 +1,24 @@
+[Event "corr Vidmar mem"]
+[Site "corr Vidmar mem"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Brilla Banfalvi"]
+[Black "Berta"]
+[Result "1-0"]
+[ECO "E76"]
+[Opening "King's Indian"]
+[Variation "Four pawns attack, dynamic line"]
+[HashCode "c9210fb6"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f4 O-O 6. Nf3 c5 7. d5 e6 8. dxe6
+Bxe6 9. Bd3 a6 10. f5 Bd7 11. O-O Bc6 12. Bg5 Nbd7 13. Qd2 b5 14. Rae1 Qb6
+15. b3 Rae8 16. Nd5 Bxd5 17. exd5 Ng4 18. h3 Rxe1 19. Nxe1 Ngf6 20. g4 bxc4
+21. bxc4 Ne5 22. Nf3 Nxd3 23. Qxd3 Nd7 24. Qe4 Nf6 25. Qc2 Rb8 26. Ne1 Re8
+27. fxg6 fxg6 28. Nf3 Qb4 29. Bd2 Qa3 30. Bc1 Qb4 31. Ng5 Nd7 32. Ne4 Be5
+33. Kg2 Rb8 34. Qe2 Rf8 35. Rxf8+ Nxf8 36. Bg5 Kg7 37. Be7 Qb8 38. Ng5 Nd7
+39. Ne6+ Kf7 40. Nd8+ Ke8 41. Nc6 Qc7 42. g5 Kf7 43. a4 Ke8 44. a5 Kf7 45.
+Bd8 Qb7 46. Bb6 Qc8 47. Qf3+ Ke8 48. Qg4 Kf8 49. Bxc5 Qe8 50. Bb6 Qf7 51.
+Qf3 Bb2 52. Qxf7+ Kxf7 53. Nb4 Ne5 54. c5 dxc5 55. Nxa6 c4 56. Nb4 Nd7 57.
+Be3 Ba3 58. a6 Bxb4 59. a7 Bd2 60. Bxd2 Nb6 61. Kf3 Ke7 62. Ke4 1-0
+

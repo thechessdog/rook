@@ -1,0 +1,21 @@
+[Event "Netherlands"]
+[Site "Netherlands"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Bosboom, Manuel"]
+[Black "Carlier, Bruno"]
+[Result "1-0"]
+[ECO "C41"]
+[Opening "Philidor"]
+[Variation "exchange variation"]
+[HashCode "a351fa7c"]
+[Epoch "Rook"]
+[WhiteID "1000080"]
+[BlackID "1000314"]
+[WhiteCountry "NED"]
+[BlackCountry "NED"]
+
+1. e4 e5 2. Nf3 d6 3. d4 exd4 4. Nxd4 Nf6 5. Nc3 Be7 6. Be2 O-O 7. O-O a6 8.
+Be3 Re8 9. f4 d5 10. e5 c5 11. Bf3 Nfd7 12. Nf5 d4 13. Bd5 Nb6 14. Bxf7+ Kxf7
+15. Qh5+ Kg8 16. Nxg7 Kxg7 17. f5 Kh8 18. f6 dxe3 19. Rad1 Bd7 20. Ne4 Bxf6 21.
+exf6 Rxe4 22. Qh6 Qg8 23. f7 Nc6 24. fxg8=Q+ Rxg8 25. Rf7 1-0

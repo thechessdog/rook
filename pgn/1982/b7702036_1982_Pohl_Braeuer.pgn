@@ -1,0 +1,20 @@
+[Event "FRG Tch"]
+[Site "FRG Tch"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Pohl"]
+[Black "Braeuer"]
+[Result "1-0"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical system, 5.Be2"]
+[HashCode "b7702036"]
+[Epoch "Rook"]
+
+1. d4 g6 2. e4 Nf6 3. Nc3 Bg7 4. Nf3 d6 5. Be2 c5 6. dxc5 Qa5 7. O-O Qxc5
+8. Be3 Qb4 9. a3 Qa5 10. Nd4 Nc6 11. Qd3 a6 12. f4 Bg4 13. h3 Bxe2 14.
+Ndxe2 O-O 15. Rad1 Rad8 16. Nd5 Nxd5 17. exd5 Nb8 18. b4 Qa4 19. c4 Bb2 20.
+Rb1 Bf6 21. Rfc1 Qe8 22. Bd4 e5 23. fxe5 Bxe5 24. Re1 Qe7 25. Bxe5 Qxe5 26.
+Nc3 Qg5 27. c5 Rfe8 28. Ne4 Qh4 29. g3 Qxh3 30. Nf6+ Kf8 31. Rxe8+ Rxe8 32.
+Nxe8 Kxe8 33. Qe3+ Kf8 34. Re1 Qd7 35. Qd4 Kg8 36. Qf6 1-0
+

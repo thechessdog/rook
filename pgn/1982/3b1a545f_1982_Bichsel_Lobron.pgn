@@ -1,0 +1,24 @@
+[Event "EUchT qual"]
+[Site "Lucerne"]
+[Date "1982.01.01"]
+[Round "5"]
+[White "Bichsel, Walter"]
+[Black "Lobron, Eric"]
+[Result "0-1"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, 6.Bd3"]
+[HashCode "3b1a545f"]
+[Epoch "Rook"]
+[BlackID "4600037"]
+[BlackCountry "GER"]
+[WhiteID "1300318"]
+[WhiteCountry "SUI"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. f4 Nf6 5. Nf3 O-O 6. Bd3 Na6 7. e5 Nd7 8. Ne2
+Nb4 9. Bc4 Nb6 10. Bb3 a5 11. a3 Na6 12. O-O a4 13. Ba2 c5 14. c3 cxd4 15. cxd4
+Nc7 16. Qe1 Bf5 17. Bd2 Nbd5 18. Nc3 Nxc3 19. Bxc3 Nb5 20. Nh4 Be6 21. Bxe6
+fxe6 22. Qe2 Qb6 23. Rad1 dxe5 24. fxe5 Rxf1+ 25. Qxf1 Bxe5 26. Nf3 Bf6 27. Qc4
+Nxc3 28. bxc3 Qb3 29. Qe2 Ra6 30. c4 Qxa3 31. h4 Qb3 32. d5 Qxd1+ 33. Qxd1 a3
+34. d6 exd6 35. Qe2 a2 36. Qxe6+ Kg7 37. Qd7+ Kh6 38. Qf7 a1=Q+ 39. Kh2 Be5+
+40. g3 Qf1 41. Qf8+ Kh5 0-1

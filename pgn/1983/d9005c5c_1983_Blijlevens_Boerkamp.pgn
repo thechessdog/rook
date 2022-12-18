@@ -1,0 +1,18 @@
+[Event "corr NLD/H"]
+[Site "corr NLD/H"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Blijlevens"]
+[Black "Boerkamp"]
+[Result "1/2-1/2"]
+[ECO "C69"]
+[Opening "Ruy Lopez"]
+[Variation "exchange variation, Alapin gambit"]
+[HashCode "d9005c5c"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O Bg4 6. h3 h5 7. d3 Qf6 8.
+Nbd2 g5 9. Nc4 Bxf3 10. Qxf3 Qxf3 11. gxf3 f6 12. h4 g4 13. Kg2 gxf3+ 14.
+Kxf3 Bd6 15. Rg1 Ne7 16. Bd2 Kf7 17. Ne3 Bc5 18. Nf5 Nxf5 19. exf5 Rhg8 20.
+Rae1 Rad8 21. Be3 Bxe3 1/2-1/2
+

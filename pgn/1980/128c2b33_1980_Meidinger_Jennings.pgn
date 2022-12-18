@@ -1,0 +1,23 @@
+[Event "Region V"]
+[Site "Region V"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Meidinger, Charles"]
+[Black "Jennings, Doug"]
+[Result "1-0"]
+[ECO "A59"]
+[Opening "Benko gambit"]
+[Variation "7.e4"]
+[HashCode "128c2b33"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. bxa6 Bxa6 6. Nc3 d6 7. e4 Bxf1 8.
+Kxf1 g6 9. Nf3 Bg7 10. h3 O-O 11. Kg1 Na6 12. Kh2 Qb6 13. Rb1 Nd7 14. Be3
+Rfb8 15. Re1 Nc7 16. Qc2 Nb5 17. Nxb5 Qxb5 18. b3 Qb6 19. Re2 Rb7 20. Rd1
+Rba7 21. Rdd2 Qb5 22. Ne1 Qb4 23. f3 Qc3 24. Nd3 Qxc2 25. Rxc2 Ra3 26. Red2
+Rb8 27. Kg3 f5 28. exf5 gxf5 29. Kf2 Ne5 30. Nxc5 f4 31. Bd4 Nxf3 32. Kxf3
+Bxd4 33. Rxd4 dxc5 34. Rxf4 Rba8 35. Rfc4 Rxa2 36. Rxc5 R2a3 37. Rc8+ Rxc8
+38. Rxc8+ Kf7 39. Rc3 Ke8 40. Ke4 Kd7 41. Kd4 e6 42. dxe6+ Kxe6 43. g4 Kf6
+44. b4 Ra1 45. b5 Rb1 46. Kc5 Ke7 47. Kc6 Kd8 48. Rc5 Rb3 49. Rh5 Rc3+ 50.
+Kb6 Rc7 51. Rd5+ Kc8 52. Rc5 1-0
+

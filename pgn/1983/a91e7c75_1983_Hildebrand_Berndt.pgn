@@ -1,0 +1,18 @@
+[Event "BL2-N 8283"]
+[Site "BL2-N 8283"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Hildebrand, G."]
+[Black "Berndt, Mi"]
+[Result "1-0"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "4.Nf3"]
+[HashCode "a91e7c75"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Nf3 Be7 5. e3 O-O 6. Bd3 Nbd7 7. O-O b6 8.
+cxd5 exd5 9. b3 Re8 10. Ne5 Bb7 11. Bb2 Nxe5 12. dxe5 Nd7 13. f4 Bc5 14.
+Qe2 Nxe5 15. fxe5 Rxe5 16. Nd1 Bxe3+ 17. Nxe3 d4 18. Qf2 Rg5 19. Qxf7+ Kh8
+20. Bxd4 1-0
+

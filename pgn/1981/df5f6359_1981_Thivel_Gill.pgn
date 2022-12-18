@@ -1,0 +1,24 @@
+[Event "corr EUR/K tt"]
+[Site "corr EUR/K tt"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Thivel"]
+[Black "Gill"]
+[Result "1-0"]
+[ECO "C72"]
+[Opening "Ruy Lopez"]
+[Variation "modern Steinitz defence, 5.O-O"]
+[HashCode "df5f6359"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. O-O Bd7 6. d4 exd4 7. Nxd4 b5 8.
+Nxc6 Bxc6 9. Bb3 Nf6 10. Nc3 Be7 11. Re1 O-O 12. f3 b4 13. Nd5 Nxd5 14.
+exd5 Bb5 15. a4 Bd7 16. a5 Bf6 17. Re4 Rb8 18. Bc4 Bb5 19. Bxb5 Rxb5 20.
+Ra4 Qa8 21. Raxb4 Qxd5 22. Qxd5 Rxd5 23. Kf2 Rxa5 24. c4 c6 25. Re2 d5 26.
+cxd5 cxd5 27. Be3 Rc8 28. Bd4 Rb5 29. Ra4 Bxd4+ 30. Rxd4 a5 31. b3 Kf8 32.
+Re3 Rc2+ 33. Kg3 f6 34. Re6 Rxb3 35. Rxd5 Rbb2 36. h4 Rxg2+ 37. Kf4 Kf7 38.
+Re4 Ra2 39. h5 Rgd2 40. Rb5 Rd7 41. Rc4 Ra7 42. Rcc5 g6 43. hxg6+ Kxg6 44.
+Rb6 Ra4+ 45. Kg3 Rd4 46. Rcc6 a4 47. Rxf6+ Kg7 48. Ra6 Rdd7 49. Rfd6 Rf7
+50. Rab6 a3 51. Rb1 Rfd7 52. Rdb6 a2 53. Ra1 Rd2 54. Kg4 Rg2+ 55. Kh3 Rg6
+56. Rb5 Ra3 57. Kh2 Kh8 58. Kh1 Ra4 59. f4 Ra3 60. Kh2 Rg8 1-0
+

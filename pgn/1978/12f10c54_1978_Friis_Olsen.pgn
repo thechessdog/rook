@@ -1,0 +1,17 @@
+[Event "Hillerod"]
+[Site "Hillerod"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Friis, Brian"]
+[Black "Olsen, Kim"]
+[Result "0-1"]
+[ECO "C51"]
+[Opening "Evans gambit declined"]
+[HashCode "12f10c54"]
+[Epoch "Rook"]
+[BlackID "1406922"]
+[BlackCountry "DEN"]
+
+1. e4 e5 2. Bc4 Bc5 3. Nf3 Nc6 4. b4 Bb6 5. Ba3 d6 6. Bb5 Bd7 7. c4 Nce7 8.
+Bxd7+ Qxd7 9. Nc3 c6 10. Qb3 Nh6 11. O-O O-O 12. c5 Bc7 13. b5 Rab8 14. d4 exd4
+15. Nxd4 dxc5 16. Bxc5 b6 17. Bxe7 Qxe7 18. Nxc6 Qd6 19. Nxb8 Qxh2# 0-1

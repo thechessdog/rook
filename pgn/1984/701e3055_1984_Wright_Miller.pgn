@@ -1,0 +1,18 @@
+[Event "corr ch-USA"]
+[Site "corr ch-USA"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Wright"]
+[Black "Miller"]
+[Result "0-1"]
+[ECO "B40"]
+[Opening "Sicilian"]
+[Variation "Anderssen variation"]
+[HashCode "701e3055"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 Qc7 7. O-O Nc6
+8. Nxc6 bxc6 9. Bg5 Be7 10. Kh1 d5 11. exd5 cxd5 12. Qd3 Bb7 13. Nd1 Ng4
+14. Bxg4 Bxg5 15. f4 Bxf4 16. h3 Be5 17. c3 O-O 18. Ne3 a5 19. Qc2 f5 20.
+Be2 Qc5 21. Nd1 Bc7 22. Bd3 Qd6 0-1
+

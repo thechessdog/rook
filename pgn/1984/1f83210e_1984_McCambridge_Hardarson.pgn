@@ -1,0 +1,22 @@
+[Event "Neskaupsstadur"]
+[Site "Neskaupsstadur"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "McCambridge, Vincent"]
+[Black "Hardarson, Robert"]
+[Result "1-0"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Nimzovich (knight's tour) variation"]
+[HashCode "1f83210e"]
+[Epoch "Rook"]
+[WhiteID "2000342"]
+[WhiteCountry "USA"]
+
+1. d4 Nf6 2. Nf3 c5 3. d5 e6 4. c4 exd5 5. cxd5 d6 6. Nc3 g6 7. Nd2 Bg7 8. e4
+O-O 9. Be2 Nbd7 10. O-O Re8 11. Qc2 Ne5 12. b3 Nh5 13. Bxh5 gxh5 14. Bb2 Qh4
+15. Rac1 f5 16. exf5 Rf8 17. f6 Qxf6 18. f4 Ng4 19. Nd1 Qf7 20. Bxg7 Bf5 21.
+Qc3 Qxg7 22. Nc4 Rad8 23. Qd2 Qd4+ 24. Qxd4 cxd4 25. Nf2 Nf6 26. Rcd1 b5 27.
+Na5 Nxd5 28. Nc6 Rd7 29. Rxd4 Ne3 30. Rc1 Rg7 31. g3 h4 32. Rc3 Re8 33. Nd1 Nc2
+34. Rxd6 b4 35. Rc5 hxg3 36. Rxf5 Re1+ 37. Kg2 Rxd1 38. Rxd1 Ne3+ 39. Kf3 Nxd1
+40. hxg3 Rb7 41. Rc5 Rc7 42. Rg5+ Kf7 43. Nxb4 Rb7 44. Nc6 Nc3 1-0

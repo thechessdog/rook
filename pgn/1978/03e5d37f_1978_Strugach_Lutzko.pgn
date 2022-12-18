@@ -1,0 +1,17 @@
+[Event "Minsk"]
+[Site "Minsk"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Strugach"]
+[Black "Lutzko"]
+[Result "1-0"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack"]
+[HashCode "03e5d37f"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 Nbd7 4. Nf3 g6 5. e3 Bg7 6. Bd3 O-O 7. O-O b6 8.
+Ne5 Bb7 9. f4 Ne8 10. Ba6 Bxa6 11. Nc6 f6 12. Bh4 Bxf1 13. Qxf1 g5 14. Bf2
+e6 15. Nxd8 Rxd8 16. f5 exf5 17. Nxd5 Rf7 18. Bg3 Ne5 19. dxe5 Rxd5 20.
+Qxf5 1-0
+

@@ -1,0 +1,21 @@
+[Event "Bundesliga 8182"]
+[Site "Duitsland tt"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Vogel, Robert"]
+[Black "Sack, Bruno Wolfgang"]
+[Result "1-0"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "classical variation (5.Bf4)"]
+[HashCode "b0e27da6"]
+[Epoch "Rook"]
+[WhiteID "4604253"]
+[WhiteCountry "GER"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 Be7 5. Bf4 O-O 6. e3 c6 7. Bd3 b6 8. O-O
+Bb7 9. Rc1 Nbd7 10. h3 Re8 11. Qe2 a6 12. Rfd1 c5 13. Ne5 dxc4 14. Bxc4 b5 15.
+dxc5 Qc8 16. c6 Bxc6 17. Nxc6 Qxc6 18. Nxb5 axb5 19. Bxb5 Qb7 20. Bxd7 Nxd7 21.
+Rc7 Qxc7 22. Bxc7 Nf6 23. a3 Nd5 24. Be5 Rec8 25. Qg4 Nf6 26. Qd4 Rd8 27. Bxf6
+Bxf6 28. Qg4 Rxd1+ 29. Qxd1 Bxb2 30. a4 Bf6 31. Qb3 Be5 32. Qb5 f6 33. f4 Rb8
+34. fxe5 1-0

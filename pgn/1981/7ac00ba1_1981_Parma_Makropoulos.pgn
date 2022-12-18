@@ -1,0 +1,19 @@
+[Event "Rome"]
+[Site "Rome"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Parma, Bruno"]
+[Black "Makropoulos, Georgios"]
+[Result "1/2-1/2"]
+[ECO "B15"]
+[Opening "Caro-Kann"]
+[Variation "Forgacs variation"]
+[HashCode "7ac00ba1"]
+[Epoch "Rook"]
+[WhiteID "14600706"]
+[WhiteCountry "SLO"]
+[BlackID "4200047"]
+[BlackCountry "GRE"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ exf6 6. Bc4 Qe7+ 7. Qe2 Be6
+8. Bxe6 Qxe6 9. Qxe6+ fxe6 10. Nf3 1/2-1/2

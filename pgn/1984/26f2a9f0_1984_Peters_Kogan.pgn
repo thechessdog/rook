@@ -1,0 +1,20 @@
+[Event "Berkeley ch-USA"]
+[Site "Berkeley ch-USA"]
+[Date "1984.01.01"]
+[Round "6"]
+[White "Peters, John A"]
+[Black "Kogan, Boris"]
+[Result "0-1"]
+[ECO "C03"]
+[Opening "French"]
+[Variation "Tarrasch"]
+[HashCode "26f2a9f0"]
+[Epoch "Rook"]
+[BlackID "2804352"]
+[BlackCountry "ISR"]
+[WhiteCountry "USA"]
+[WhiteID "2000229"]
+
+1. e4 e6 2. d4 d5 3. Nd2 a6 4. e5 c5 5. Ngf3 Nc6 6. dxc5 Qc7 7. Qe2 Bxc5 8. Nb3
+Bb6 9. g3 Nge7 10. Bd2 Bd7 11. h4 h5 12. Bh3 Ng6 13. Bc3 O-O-O 14. Ng5 d4 15.
+Bd2 Ncxe5 16. a4 Bc6 17. O-O d3 18. Qd1 Ng4 0-1

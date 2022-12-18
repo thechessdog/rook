@@ -1,0 +1,17 @@
+[Event "corr EUR/M"]
+[Site "corr EUR/M"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Klompus, G."]
+[Black "Philipp"]
+[Result "1-0"]
+[ECO "C78"]
+[Opening "Ruy Lopez"]
+[Variation "Moeller defence"]
+[HashCode "43ab3e00"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Bc5 6. c3 Bb6 7. d4 Nxe4 8.
+Re1 f5 9. Bxc6 dxc6 10. Nxe5 Qf6 11. Nc4 Ba7 12. f3 Be6 13. Nba3 b5 14.
+fxe4 1-0
+

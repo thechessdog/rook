@@ -1,0 +1,20 @@
+[Event "Nederland tt"]
+[Site "Nederland tt"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Bouwmeester, Hans"]
+[Black "Van der Heyden"]
+[Result "0-1"]
+[ECO "E95"]
+[Opening "King's Indian"]
+[Variation "orthodox, 7...Nbd7, 8.Re1"]
+[HashCode "1c977c51"]
+[Epoch "Rook"]
+[WhiteID "1000187"]
+[WhiteCountry "NED"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. O-O Nbd7 8. Re1
+Re8 9. d5 Nc5 10. Bf1 a5 11. b3 Nh5 12. g3 f5 13. exf5 e4 14. Bg5 Qd7 15. f6
+Nxf6 16. Nd4 Ng4 17. Be3 Rf8 18. Bg2 Nd3 19. Rf1 Rxf2 20. Bxf2 Ngxf2 21. Rxf2
+Bxd4 22. Nxe4 Qg7 23. Qxd3 Bxf2+ 24. Nxf2 Qxa1+ 25. Bf1 Bf5 26. Qe3 Rf8 27. Qe2
+Qd4 28. Kg2 Bd7 29. Nd3 Bg4 0-1

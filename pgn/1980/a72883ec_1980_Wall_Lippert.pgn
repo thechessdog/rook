@@ -1,0 +1,16 @@
+[Event "Dayton,OH"]
+[Site "Dayton,OH"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Wall, Bill"]
+[Black "Lippert, Jack"]
+[Result "1-0"]
+[ECO "C10"]
+[Opening "French"]
+[Variation "Marshall variation"]
+[HashCode "a72883ec"]
+[Epoch "Rook"]
+[WhiteCountry "USA"]
+
+1. e4 e6 2. d4 d5 3. Nc3 c5 4. exd5 cxd4 5. Qxd4 Nf6 6. Bb5+ Nc6 7. dxc6 Qxd4
+8. cxb7+ 1-0

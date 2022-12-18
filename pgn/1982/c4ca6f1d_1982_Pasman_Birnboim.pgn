@@ -1,0 +1,22 @@
+[Event "Beer Sheva"]
+[Site "Beer Sheva"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Pasman, Michael"]
+[Black "Birnboim, Nathan"]
+[Result "0-1"]
+[ECO "D85"]
+[Opening "Gruenfeld"]
+[Variation "modern exchange variation"]
+[HashCode "c4ca6f1d"]
+[Epoch "Rook"]
+[BlackID "2800209"]
+[BlackCountry "ISR"]
+[WhiteID "2800500"]
+[WhiteCountry "ISR"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Nf3 c5 8.
+Be3 Nc6 9. Rc1 cxd4 10. cxd4 Qa5+ 11. Qd2 Qxd2+ 12. Kxd2 O-O 13. d5 Rd8 14. Bg5
+h6 15. Bf4 f5 16. Ke3 e5 17. dxe6 Bxe6 18. Bc4 Re8 19. Nd2 g5 20. Bd6 Bb2 21.
+Rb1 Bc3 22. Bd3 Bxd2+ 23. Kxd2 fxe4 24. Bxe4 Rad8 25. Rxb7 Rxd6+ 26. Kc1 Bc8
+27. Bh7+ Kh8 28. Rc7 Nb4 29. Kb1 Bd7 0-1

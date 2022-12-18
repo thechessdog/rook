@@ -1,0 +1,18 @@
+[Event "corr DDR-I"]
+[Site "corr DDR-I"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Kleinke, Uwe"]
+[Black "Haenecke"]
+[Result "1-0"]
+[ECO "A00"]
+[Opening "Polish (Sokolsky) opening"]
+[HashCode "de5df8da"]
+[Epoch "Rook"]
+[WhiteID "24670030"]
+[WhiteCountry "GER"]
+
+1. b4 e6 2. Bb2 Nf6 3. b5 d5 4. Nf3 c6 5. a4 Bd7 6. e3 g6 7. c4 Bg7 8. d4 O-O
+9. Be2 a6 10. Nc3 cxb5 11. axb5 b6 12. Ba3 Re8 13. Bd6 a5 14. c5 Bf8 15. Bxf8
+Rxf8 16. c6 Qc7 17. O-O Nxc6 18. bxc6 Bxc6 19. Nb5 Bxb5 20. Bxb5 Rfc8 21. Ne5
+Qd6 22. Qf3 Ra7 23. Qxf6 1-0

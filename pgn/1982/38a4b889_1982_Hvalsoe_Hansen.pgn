@@ -1,0 +1,25 @@
+[Event "DEN-chJ int"]
+[Site "Soro"]
+[Date "1982.01.01"]
+[Round "2"]
+[White "Hvalsoe, Rune"]
+[Black "Hansen, Lars Bo"]
+[Result "0-1"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Paulsen attack"]
+[HashCode "38a4b889"]
+[Epoch "Rook"]
+[BlackID "1400037"]
+[BlackCountry "DEN"]
+[WhiteID "1710052"]
+[WhiteCountry "SWE"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Be2 Bd7 7. a3 a5 8. O-O cxd4
+9. cxd4 Nge7 10. g4 h5 11. h3 hxg4 12. hxg4 Ng6 13. Qd3 Rc8 14. Nc3 Na7 15. Rb1
+Qd8 16. g5 Qb6 17. Be3 Be7 18. Nd2 Nh4 19. f4 g6 20. Kf2 Kf8 21. Bg4 Nf5 22.
+Bxf5 gxf5 23. Rg1 Kg7 24. Nf3 Bb5 25. Qd2 Ba6 26. Kg3 Qb3 27. Rbc1 b5 28. Rge1
+b4 29. axb4 Bxb4 30. Nh4 Nb5 31. Qc2 Qxc2 32. Rxc2 Nxc3 33. bxc3 Rxc3 34. Rxc3
+Bxc3 35. Rc1 Rc8 36. Nf3 Bb4 37. Rh1 Rc3 38. Bd2 Rxf3+ 39. Kxf3 Bxd2 40. Rb1
+Bb4 41. Ke3 Bc4 42. Rh1 a4 43. Rb1 Bc3 44. Rc1 Bb2 45. Rc2 a3 46. Kd2 a2 47.
+Rxb2 a1=Q 48. Kc2 Qf1 0-1

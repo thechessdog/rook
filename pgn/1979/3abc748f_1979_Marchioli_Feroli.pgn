@@ -1,0 +1,18 @@
+[Event "Pellestrina op-F"]
+[Site "Pellestrina"]
+[Date "1979.??.??"]
+[Round "2"]
+[White "Marchioli, R."]
+[Black "Feroli, R."]
+[Result "1-0"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "classical attack"]
+[HashCode "3abc748f"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Be7 7. O-O Nc6
+8. Nc3 Nxc3 9. bxc3 Bg4 10. h3 Bh5 11. Re1 O-O 12. Bf4 Bg6 13. Rb1 Rb8 14.
+Ne5 Bf6 15. Nxg6 fxg6 16. Qg4 Re8 17. Qg3 Rxe1+ 18. Rxe1 Rc8 19. Re6 Kf7
+20. Qg4 Qd7 21. Rxf6+ Ke7 22. Rf7+ 1-0
+

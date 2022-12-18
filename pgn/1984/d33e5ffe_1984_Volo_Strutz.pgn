@@ -1,0 +1,17 @@
+[Event "corr FIN-DDR"]
+[Site "corr FIN-DDR"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Volo"]
+[Black "Strutz"]
+[Result "1-0"]
+[ECO "B33"]
+[Opening "Sicilian"]
+[Variation "Sveshnikov variation"]
+[HashCode "d33e5ffe"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6
+8. Na3 b5 9. Bxf6 gxf6 10. Nd5 f5 11. Nxb5 axb5 12. Bxb5 Bd7 13. exf5 Ra7
+14. c3 Qg5 15. Qf3 Bh6 16. Rd1 O-O 17. h4 Qd8 18. f6 Re8 19. Qh5 1-0
+

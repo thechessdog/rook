@@ -1,0 +1,20 @@
+[Event "corr Wcup3"]
+[Site "corr Wcup3"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Kuhn"]
+[Black "Trofimov"]
+[Result "0-1"]
+[ECO "B25"]
+[Opening "Sicilian"]
+[Variation "closed, 6.f4"]
+[HashCode "447ec71b"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. f4 e6 7. Nf3 Nge7 8.
+O-O O-O 9. Ne2 f5 10. c3 Kh8 11. Be3 b6 12. Rb1 e5 13. h3 Be6 14. b3 Qd7
+15. Kh2 Rae8 16. Qd2 d5 17. fxe5 dxe4 18. dxe4 fxe4 19. Ng5 Nxe5 20. Qxd7
+Bxd7 21. Nxe4 Nf5 22. Bg1 Bc6 23. Nf4 Nc4 24. Rfe1 Bxe4 25. Bxe4 Nd2 26.
+Bc6 Rc8 27. Rbd1 Rxc6 28. Rxd2 Bxc3 29. Re6 Bxd2 30. Rxc6 Bxf4 31. gxf4 Rd8
+0-1
+

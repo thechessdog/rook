@@ -1,0 +1,19 @@
+[Event "corr FRG/M"]
+[Site "corr FRG/M"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Felbecker"]
+[Black "Stader"]
+[Result "1-0"]
+[ECO "C57"]
+[Opening "two knights defence"]
+[Variation "Wilkes Barre (Traxler) variation"]
+[HashCode "74b1dcdf"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 Bc5 5. b4 Bxf2+ 6. Kxf2 d5 7. exd5
+Ng4+ 8. Ke1 Qxg5 9. dxc6 Nxh2 10. Qe2 Qh4+ 11. Qf2 Nf3+ 12. gxf3 Qxh1+ 13.
+Qf1 Qh4+ 14. Kd1 bxc6 15. d3 Qg3 16. Be3 f5 17. Nc3 h5 18. Ne2 Qg6 19. Kd2
+a5 20. Qf2 Ba6 21. Rg1 Qf6 22. Bxa6 Rxa6 23. f4 axb4 24. fxe5 Qxe5 25. Bd4
+Qa5 26. Bc5 Kd8 27. Qxf5 Qxa2 28. Rxg7 Qd5 29. Be7+ Ke8 30. Qc8+ 1-0
+

@@ -1,0 +1,16 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Machulsky, Anatoly D"]
+[Black "Shevchenko, W."]
+[Result "1-0"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (without ...d6)"]
+[HashCode "7f91fc11"]
+[Epoch "Rook"]
+[WhiteCountry "RUS"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 Qb6 4. Nc3 e6 5. O-O Nge7 6. d3 Ng6 7. Rb1 Be7 8.
+Be3 O-O 9. b4 Nxb4 10. Rxb4 1-0

@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Haantola, Harri"]
+[Black "Bostrom, Olavi"]
+[Result "0-1"]
+[ECO "D39"]
+[Opening "QGD"]
+[Variation "Ragozin, Vienna variation"]
+[HashCode "c8ac0e60"]
+[Epoch "Rook"]
+
+1. c4 Nf6 2. Nc3 e6 3. Nf3 d5 4. d4 Bb4 5. Bg5 dxc4 6. e4 c5 7. e5 cxd4 8.
+Qa4+ Nc6 9. O-O-O Bd7 10. Ne4 Be7 11. exf6 gxf6 12. Bh4 Rc8 13. Kb1 b5 14.
+Qxb5 c3 15. Nxd4 Qc7 16. Qc4 Qb6 17. Nb5 Na5 18. Nxf6+ Bxf6 19. Qxc8+ Bxc8
+20. Bxf6 c2+ 21. Kxc2 Qxf2+ 22. Be2 Qxf6 23. Rhf1 Qg6+ 24. Kc1 f6 25. g4
+Ke7 0-1
+

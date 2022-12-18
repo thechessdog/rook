@@ -1,0 +1,25 @@
+[Event "Ann Arbor ch-MI op"]
+[Site "Ann Arbor ch-MI op"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Pegeron, J."]
+[Black "Hahn, D."]
+[Result "1-0"]
+[ECO "B12"]
+[Opening "Caro-Kann"]
+[Variation "advance variation"]
+[HashCode "9959a65a"]
+[Epoch "Rook"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nc3 h5 5. Nge2 h4 6. Nf4 e6 7. Be3 Nh6 8. h3
+Qb6 9. Na4 Qc7 10. b3 c5 11. Bb5+ Nc6 12. Bxc6+ bxc6 13. c3 Be4 14. O-O Be7
+15. Nd3 c4 16. Ndc5 cxb3 17. Nxe4 dxe4 18. axb3 Rb8 19. b4 Nf5 20. Qg4 O-O
+21. Bg5 Bxg5 22. Qxg5 a5 23. bxa5 Qxa5 24. Rfc1 Ra8 25. Nc5 Qxa1 26. Rxa1
+Rxa1+ 27. Kh2 e3 28. Ne4 Rb8 29. fxe3 Rbb1 30. Nf2 Rf1 31. e4 Rxf2 32. exf5
+Rxf5 33. Qd8+ Kh7 34. Qxh4+ Kg8 35. Qd8+ Kh7 36. Qb6 Rc1 37. Qxc6 Rf2 38.
+c4 Rcc2 39. Qe4+ Kg8 40. d5 Rfe2 41. Qf3 exd5 42. cxd5 Rxe5 43. Qb3 Rc8 44.
+d6 Ra5 45. d7 Rd8 46. Qb6 Raa8 47. Qc7 Kf8 48. Qd6+ Kg8 49. Qe7 Rdb8 50. h4
+Rf8 51. Kh3 Rfb8 52. g3 Rf8 53. h5 f6 54. Kg4 Ra4+ 55. Kf5 Ra5+ 56. Kf4
+Raa8 57. g4 Rfd8 58. h6 gxh6 59. Kf5 Ra5+ 60. Kg6 Rg5+ 61. Kxh6 Rxd7 62.
+Qe8# 1-0
+

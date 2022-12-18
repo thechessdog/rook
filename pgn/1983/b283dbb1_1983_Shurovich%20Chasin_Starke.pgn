@@ -1,0 +1,21 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Shurovich Chasin, B"]
+[Black "Starke, H."]
+[Result "1-0"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical system, 5.Be2"]
+[HashCode "b283dbb1"]
+[Epoch "Rook"]
+
+1. e4 d6 2. d4 g6 3. Nc3 Bg7 4. Nf3 Nf6 5. Be2 O-O 6. O-O c6 7. a4 a5 8. h3
+Nbd7 9. Be3 e5 10. Qd2 Re8 11. dxe5 dxe5 12. Ne1 Nf8 13. Nd3 Nxe4 14. Nxe4
+f5 15. Bg5 fxe4 16. Bxd8 Rxd8 17. Qe3 exd3 18. Bxd3 Be6 19. Rad1 Rd7 20.
+Qb6 Bd5 21. f3 Ne6 22. c4 Bf8 23. Kh1 Bc5 24. Qb3 Nd4 25. Qa2 Be6 26. Rfe1
+Bd6 27. f4 Rad8 28. fxe5 Be7 29. Qb1 Kg7 30. b3 Bh4 31. Rf1 Bg3 32. Qb2 c5
+33. Qc3 Bh4 34. Qxa5 Nf5 35. Rf3 Nd4 36. Be4 Nxf3 37. Rxd7+ Rxd7 38. Bxf3
+Bf2 39. Qb6 Kf7 40. Bd5 Re7 41. Bxe6+ Rxe6 42. Qxb7+ Ke8 43. a5 1-0
+

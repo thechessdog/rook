@@ -1,0 +1,15 @@
+[Event "E Lansing ch-MI op"]
+[Site "E Lansing ch-MI op"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Lehotzky, A."]
+[Black "Marfia, James"]
+[Result "0-1"]
+[ECO "A58"]
+[Opening "Benko gambit accepted"]
+[HashCode "906a4e0e"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. bxa6 Bxa6 6. Nc3 g6 7. g3 d6 8. Bg2
+Bg7 9. Nf3 O-O 10. Ng5 Nbd7 11. O-O Qc7 12. Re1 Rfb8 13. e4 Ne5 14. Bf1 Bxf1
+15. Kxf1 c4 16. f4 Nd3 17. Re2 Nd7 18. Rb1 Bxc3 19. bxc3 Rxb1 0-1

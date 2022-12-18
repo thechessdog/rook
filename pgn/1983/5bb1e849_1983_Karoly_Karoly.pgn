@@ -1,0 +1,15 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Karoly, P."]
+[Black "Karoly, H."]
+[Result "1-0"]
+[ECO "B40"]
+[Opening "Sicilian defence"]
+[HashCode "5bb1e849"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 g6 5. Nc3 d6 6. Bc4 Bg7 7. Ndb5 Bxc3+
+8. bxc3 Ke7 9. Ba3 f6 10. Nxd6 1-0
+

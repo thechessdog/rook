@@ -1,0 +1,19 @@
+[Event "Berkeley ch-USA"]
+[Site "Berkeley ch-USA"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Alburt, Lev"]
+[Black "Henley, Ron"]
+[Result "1/2-1/2"]
+[ECO "E74"]
+[Opening "King's Indian"]
+[Variation "Averbakh, 6...c5"]
+[HashCode "953bfc49"]
+[Epoch "Rook"]
+[WhiteID "2000156"]
+[WhiteCountry "USA"]
+[BlackID "2000318"]
+[BlackCountry "USA"]
+
+1. c4 Nf6 2. Nc3 g6 3. e4 d6 4. d4 Bg7 5. Be2 O-O 6. Bg5 c5 7. d5 h6 8. Be3 e6
+9. Nf3 Re8 10. Nd2 Na6 11. O-O Nc7 12. a4 b6 13. Re1 a6 14. Bf4 Rb8 1/2-1/2

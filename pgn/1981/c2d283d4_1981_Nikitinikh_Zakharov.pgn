@@ -1,0 +1,22 @@
+[Event "Rostov"]
+[Site "Rostov"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Nikitinikh"]
+[Black "Zakharov"]
+[Result "1-0"]
+[ECO "B20"]
+[Opening "Sicilian"]
+[Variation "Steinitz variation"]
+[HashCode "c2d283d4"]
+[Epoch "Rook"]
+
+1. e4 c5 2. g3 d5 3. Nc3 d4 4. Nce2 Nc6 5. d3 h5 6. h3 e5 7. Bg2 Bd6 8. f4
+h4 9. g4 exf4 10. Nxf4 Qf6 11. Nge2 Nge7 12. Nh5 Qg6 13. Nef4 Qh7 14. O-O
+Be5 15. Nd5 Be6 16. Bg5 Ng6 17. Bf6 Bxd5 18. exd5 gxf6 19. dxc6 O-O-O 20.
+Qf3 Rd6 21. cxb7+ Kb8 22. Rae1 Qh6 23. Qe4 Rhd8 24. a3 Re6 25. Qf3 Qd2 26.
+Kh1 Ne7 27. Ng7 Red6 28. Nf5 Nxf5 29. Qxf5 c4 30. dxc4 d3 31. cxd3 Rxd3 32.
+Rxe5 Rg3 33. Rf2 Qd1+ 34. Kh2 fxe5 35. Qxe5+ Qd6 36. Qxd6+ Rxd6 37. c5 Rd7
+38. c6 Rc7 39. Rf6 Rd3 40. Rh6 Rd8 41. Rxh4 a6 42. b4 Re7 43. g5 Re2 44.
+Rc4 Kc7 45. Rf4 Re7 1-0
+

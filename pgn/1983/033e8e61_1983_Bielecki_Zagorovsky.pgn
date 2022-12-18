@@ -1,0 +1,20 @@
+[Event "corr Swinarski mem"]
+[Site "corr Swinarski mem"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Bielecki, Witold"]
+[Black "Zagorovsky, Vladimir Pavlovich"]
+[Result "0-1"]
+[ECO "D59"]
+[Opening "QGD"]
+[Variation "Tartakower variation"]
+[HashCode "033e8e61"]
+[Epoch "Rook"]
+[BlackCountry "RUS"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. e3 h6 6. Bh4 b6 7. cxd5 Nxd5 8. Bxe7
+Qxe7 9. Rc1 O-O 10. Nxd5 exd5 11. Nf3 Be6 12. Bd3 c5 13. dxc5 bxc5 14. O-O Nd7
+15. e4 d4 16. Nd2 Ne5 17. Bb1 a5 18. f4 Ng4 19. Qf3 Ne3 20. Rfe1 f6 21. Nf1
+Nxf1 22. Qxf1 Rfb8 23. b3 a4 24. Bc2 Kh8 25. Qf3 Rd8 26. Red1 Rac8 27. e5 f5
+28. Qh5 axb3 29. axb3 Qe8 30. Qh3 Qf7 31. Ra1 Ra8 32. Rdb1 Rxa1 33. Rxa1 d3 34.
+Rd1 c4 35. Qe3 Rb8 0-1

@@ -1,0 +1,19 @@
+[Event "DDR Tch5"]
+[Site "DDR Tch5"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Hunger, H."]
+[Black "Piekarz, P."]
+[Result "0-1"]
+[ECO "E49"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Botvinnik system"]
+[HashCode "e42a52f0"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. a3 Bxc3+ 7. bxc3 dxc4
+8. Bxc4 c5 9. Nf3 Qc7 10. Qe2 Nc6 11. O-O e5 12. dxe5 Nxe5 13. Nxe5 Qxe5
+14. f4 Qe7 15. Bd3 Bg4 16. Qc2 Rad8 17. h3 Bd7 18. e4 c4 19. Be2 Nxe4 20.
+Bf3 Bc6 21. Be3 Rd3 22. Bd4 Nd2 23. Rfe1 Nxf3+ 24. gxf3 Qd7 25. Qg2 f6 26.
+Qa2 Rxf3 27. Re3 Rxe3 28. Bxe3 Qxh3 29. Qxc4+ Kh8 0-1
+

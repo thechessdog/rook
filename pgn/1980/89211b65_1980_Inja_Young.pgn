@@ -1,0 +1,16 @@
+[Event "corr SCO-NLD"]
+[Site "corr SCO-NLD"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Inja, E."]
+[Black "Young, S."]
+[Result "0-1"]
+[ECO "A00"]
+[Opening "Polish (Sokolsky) opening"]
+[HashCode "89211b65"]
+[Epoch "Rook"]
+
+1. b4 e5 2. Bb2 Bxb4 3. Bxe5 Nf6 4. c4 O-O 5. e3 d5 6. Nf3 Re8 7. cxd5 Nxd5
+8. Be2 Rxe5 9. Nxe5 Qf6 10. f4 Nxe3 11. Qb3 Nxg2+ 12. Kd1 Nxf4 13. d4 Nxe2
+14. Kxe2 Nc6 15. Nf3 Bg4 0-1
+

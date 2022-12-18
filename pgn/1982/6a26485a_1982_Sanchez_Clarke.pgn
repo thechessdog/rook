@@ -1,0 +1,20 @@
+[Event "Santa Clara"]
+[Site "Santa Clara"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Sanchez, G."]
+[Black "Clarke, Peter"]
+[Result "1-0"]
+[ECO "E83"]
+[Opening "King's Indian"]
+[Variation "Saemisch, Ruban variation"]
+[HashCode "6a26485a"]
+[Epoch "Rook"]
+[BlackID "2405687"]
+[BlackCountry "SCO"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 Nc6 7. Nge2 Rb8 8. Qd2
+Re8 9. O-O-O a6 10. Nf4 Bd7 11. Nfd5 e5 12. dxe5 Nxd5 13. cxd5 Nxe5 14. h3 b5
+15. f4 Nc4 16. Bxc4 bxc4 17. Bd4 Bh6 18. g4 c5 19. dxc6 Bxc6 20. g5 Bf8 21.
+Rde1 a5 22. h4 a4 23. a3 Rb3 24. h5 gxh5 25. Rxh5 Qa8 26. Rxh7 f6 27. gxf6
+Rxc3+ 28. Bxc3 Rxe4 29. Qg2+ Kxh7 30. Rh1+ Bh6 31. Qg7# 1-0

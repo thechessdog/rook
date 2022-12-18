@@ -1,0 +1,28 @@
+[Event "Bundesliga 8182"]
+[Site "Duitsland tt"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Reefschlaeger, Helmut, Dr."]
+[Black "Goehring, Karl-Heinz"]
+[Result "1-0"]
+[ECO "E06"]
+[Opening "Catalan"]
+[Variation "closed, 5.Nf3"]
+[HashCode "259596e8"]
+[Epoch "Rook"]
+[WhiteID "4600878"]
+[WhiteCountry "GER"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Bg2 Be7 5. Nf3 O-O 6. O-O dxc4 7. Qc2 a6 8. a4
+c5 9. dxc5 Nc6 10. Na3 Bxc5 11. Nxc4 Qe7 12. Be3 Bxe3 13. Nxe3 e5 14. Rac1 Be6
+15. Qc5 Qxc5 16. Rxc5 Nd7 17. Rcc1 f6 18. Rfd1 Rfd8 19. Nd2 Nd4 20. Kf1 Nb6 21.
+a5 Nd5 22. Nxd5 Bxd5 23. Bxd5+ Rxd5 24. Nc4 Rad8 25. Nb6 Rxa5 26. e3 Rb5 27.
+Na4 Rb4 28. b3 b5 29. Nc3 Rxb3 30. exd4 Rxd4 31. Rxd4 exd4 32. Ne2 d3 33. Nd4
+Rb4 34. Nc6 Rb3 35. Ke1 Rb2 36. Rd1 Re2+ 37. Kf1 Re6 38. Nb4 a5 39. Nxd3 Kf7
+40. Rb1 Rb6 41. Ke2 Ke6 42. Kd2 Kd5 43. Rc1 Rb7 44. f3 a4 45. Nb4+ Kd4 46. Nc6+
+Kd5 47. Nb4+ Kd4 48. Rc3 f5 49. Nc2+ Ke5 50. Nb4 Rb6 51. Ke3 g5 52. Rc5+ Ke6
+53. Kd4 Rd6+ 54. Rd5 g4 55. f4 a3 56. Rxd6+ Kxd6 57. Na2 Kc6 58. Nb4+ Kd6 59.
+Kc3 Kc5 60. Kb3 Kd4 61. Kxa3 Ke4 62. Nc6 h5 63. Ne7 h4 64. Kb4 h3 65. Nxf5 Kxf5
+66. Kxb5 Ke4 67. Kc4 Kf3 68. f5 Kg2 69. f6 Kxh2 70. f7 Kxg3 71. f8=Q Kg2 72.
+Qa8+ Kg1 73. Qa1+ Kg2 74. Qb2+ Kh1 75. Qb1+ Kh2 76. Kd4 1-0

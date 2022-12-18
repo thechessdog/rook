@@ -1,0 +1,18 @@
+[Event "Zurich"]
+[Site "Zurich"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Domont, Alexandre"]
+[Black "Maier"]
+[Result "1-0"]
+[ECO "C15"]
+[Opening "French"]
+[Variation "Winawer, Alekhine gambit, Kan variation"]
+[HashCode "afbd3755"]
+[Epoch "Rook"]
+[WhiteID "1300172"]
+[WhiteCountry "SUI"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. Ne2 dxe4 5. a3 Bxc3+ 6. Nxc3 Nc6 7. Bb5 Ne7 8.
+Be3 O-O 9. Qd2 f5 10. O-O-O Nd5 11. Bxc6 bxc6 12. Bf4 a5 13. h4 Nb6 14. Rh3 Ba6
+15. Be5 Rf7 16. Qf4 Qe7 17. Rg3 Rd8 18. h5 1-0

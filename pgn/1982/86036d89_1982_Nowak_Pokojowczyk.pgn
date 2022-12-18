@@ -1,0 +1,24 @@
+[Event "POL-ch"]
+[Site "POL"]
+[Date "1982.??.??"]
+[Round "?"]
+[White "Nowak, Ignacy"]
+[Black "Pokojowczyk, Jerzy"]
+[Result "0-1"]
+[ECO "A77"]
+[Opening "Benoni"]
+[Variation "classical, 9...Re8, 10.Nd2"]
+[HashCode "86036d89"]
+[Epoch "Rook"]
+[WhiteID "1100157"]
+[BlackID "1100718"]
+[WhiteCountry "POL"]
+[BlackCountry "POL"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. Be2 Bg7 8. Nf3
+O-O 9. Nd2 Re8 10. O-O Nbd7 11. a4 Ne5 12. Qc2 g5 13. Ra3 g4 14. Nd1 Nh5 15. f4
+gxf3 16. Nxf3 Nxf3+ 17. Bxf3 Be5 18. g3 Bh3 19. Re1 Nf6 20. Nf2 Bd7 21. Bg5 Qa5
+22. Rf1 Ng4 23. Bd2 Qb6 24. Bc3 Bxc3 25. Rxc3 Ne5 26. b3 Qd8 27. Qc1 f5 28. Bh5
+Rf8 29. Qe3 Qe7 30. Rcc1 Qg7 31. Nd3 Nxd3 32. Qxd3 Qg5 33. Be2 Rae8 34. exf5
+Bxf5 35. Qc4 Qe3+ 36. Rf2 Bh3 37. Bf3 Rxf3 38. Rf1 Rxf2 39. Rxf2 Qe1+ 40. Rf1
+Qxf1+ 0-1

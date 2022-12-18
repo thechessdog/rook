@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Schroeder"]
+[Black "Koop"]
+[Result "0-1"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Nimzovich system"]
+[HashCode "73ce5690"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. Nf3 Nc6 5. Bd3 cxd4 6. O-O Qb6 7. Re1 f6 8.
+exf6 Nxf6 9. Ng5 e5 10. Bxh7 Ne7 11. Bd3 e4 12. Be2 Ng6 13. Rf1 Bd7 14. g3
+Bc5 15. Nd2 d3 16. cxd3 Bxf2+ 17. Rxf2 e3 18. Ndf3 exf2+ 19. Kg2 O-O 20. d4
+Ne4 21. Nxe4 dxe4 22. Ng5 Be6 23. Be3 Bd5 24. Qd2 Ne7 25. b3 Nf5 26. Nh3
+Rac8 27. Nf4 Rc2 0-1
+

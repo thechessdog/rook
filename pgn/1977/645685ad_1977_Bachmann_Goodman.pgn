@@ -1,0 +1,24 @@
+[Event "Dortmund"]
+[Site "Dortmund"]
+[Date "1977.05.01"]
+[Round "8"]
+[White "Bachmann, Karlheinz"]
+[Black "Goodman, David S C"]
+[Result "0-1"]
+[ECO "E83"]
+[Opening "King's Indian"]
+[Variation "Saemisch, Ruban variation"]
+[HashCode "645685ad"]
+[Epoch "Rook"]
+[WhiteID "4602021"]
+[WhiteCountry "GER"]
+[BlackID "400351"]
+[BlackCountry "ENG"]
+
+1. e4 g6 2. d4 d6 3. c4 Bg7 4. Nc3 Nf6 5. f3 O-O 6. Be3 Nc6 7. Nge2 Rb8 8. Qd2
+Re8 9. g4 a6 10. h4 b5 11. h5 b4 12. Nd5 e5 13. hxg6 hxg6 14. Bh6 Bh8 15. Bg5
+Bg7 16. Bh6 Bh8 17. Bg5 Bg7 18. O-O-O Nxd4 19. Nxd4 exd4 20. Qh2 c6 21. Bh6
+Nxg4 22. fxg4 cxd5 23. Bxg7 Qg5+ 24. Kb1 Kxg7 25. Qh7+ Kf8 26. Qh8+ Ke7 27.
+Qxd4 Bxg4 28. Qa7+ Kf8 29. Rxd5 Qf6 30. Bg2 b3 31. a3 Kg7 32. Rf1 Rxe4 33. Qg1
+Rf4 34. Rxf4 Qxf4 35. Rd4 Bf5+ 36. Ka1 Qg3 37. Rd1 Re8 38. Qd4+ Qe5 39. Qc3
+Qxc3 40. bxc3 Re2 41. Rxd6 Ra2# 0-1

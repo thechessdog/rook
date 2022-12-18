@@ -1,0 +1,20 @@
+[Event "FRG-ch"]
+[Site "Bad Neuenahr"]
+[Date "1982.??.??"]
+[Round "?"]
+[White "Schuh, Hubert"]
+[Black "Backwinkel, Paul"]
+[Result "1/2-1/2"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...g6"]
+[HashCode "7b80e5ea"]
+[Epoch "Rook"]
+[WhiteID "4600894"]
+[BlackID "4600932"]
+[WhiteCountry "GER"]
+[BlackCountry "GER"]
+
+1. d4 c5 2. e3 cxd4 3. exd4 d5 4. c4 Nf6 5. Nc3 g6 6. cxd5 Bg7 7. Bb5+ Bd7 8.
+Bc4 O-O 9. Nf3 Bg4 10. h3 Bc8 11. O-O Nbd7 12. Bg5 Nb6 13. Bb3 Nbxd5 14. Re1
+Be6 15. Qe2 Qa5 16. Bd2 Qd8 17. Bg5 1/2-1/2

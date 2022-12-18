@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Nestorenko, B."]
+[Black "Mariette, C."]
+[Result "1-0"]
+[ECO "C65"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence, Beverwijk variation"]
+[HashCode "c911d619"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. O-O Nf6 5. Nxe5 Nxe4 6. Nd3 Be7 7. Qg4
+Nf6 8. Qxg7 Rg8 9. Qh6 Rg6 10. Qe3 Ng4 11. Qe4 Kf8 12. Nf4 Rh6 13. h3 d5
+14. Qa4 Bg5 15. Bxc6 bxc6 16. d4 Kg8 17. Nc3 Qf6 18. Nce2 Bd7 19. Qb3 Qd6
+20. hxg4 Bxg4 21. Qg3 1-0
+

@@ -1,0 +1,17 @@
+[Event "Wisconsin"]
+[Site "Wisconsin"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Delapaz"]
+[Black "Passfield, A."]
+[Result "0-1"]
+[ECO "A15"]
+[Opening "English, 1...Nf6 (Anglo-Indian defense)"]
+[HashCode "3e76dd2d"]
+[Epoch "Rook"]
+
+1. c4 Nf6 2. g3 d5 3. cxd5 Qxd5 4. Nf3 c5 5. Nc3 Qd8 6. Bg2 Bd7 7. Ne5 Nc6
+8. Nxc6 Bxc6 9. Bxc6+ bxc6 10. O-O e6 11. Qa4 Qb6 12. b3 Rd8 13. Qh4 Be7
+14. Qg5 O-O 15. Na4 Qb4 16. d3 Rd5 17. Qd2 Qg4 18. Kg2 Rh5 19. Rh1 Qh3+ 20.
+Kf3 Rf5+ 0-1
+

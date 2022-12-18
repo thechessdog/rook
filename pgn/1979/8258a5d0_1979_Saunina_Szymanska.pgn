@@ -1,0 +1,19 @@
+[Event "DDR"]
+[Site "DDR"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Saunina, Ludmila"]
+[Black "Szymanska, Jadwiga"]
+[Result "1-0"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...g6"]
+[HashCode "8258a5d0"]
+[Epoch "Rook"]
+[WhiteID "4108698"]
+[WhiteCountry "RUS"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 g6 6. Qb3 Bg7 7. cxd5 O-O 8. g3
+b6 9. Bg2 Bb7 10. Nge2 e6 11. Bg5 Nbd7 12. O-O exd5 13. Nxd5 Rb8 14. Nec3 h6
+15. Bf4 Nxd5 16. Nxd5 Rc8 17. Bd6 Bxd4 18. Ne7+ Kh8 19. Bxb7 Nc5 20. Qd5 Nxb7
+21. Qxd4+ 1-0

@@ -1,0 +1,18 @@
+[Event "corr DDR/FS"]
+[Site "corr DDR/FS"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Mueller"]
+[Black "Tobies"]
+[Result "1-0"]
+[ECO "C17"]
+[Opening "French"]
+[Variation "Winawer, advance, Russian variation"]
+[HashCode "931381f5"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. Qg4 Ne7 6. dxc5 Nbc6 7. a3 Qa5 8.
+axb4 Qxa1 9. Kd1 d4 10. Ne4 Nf5 11. Nd6+ Nxd6 12. Qxg7 Rf8 13. cxd6 Nxb4
+14. Qg5 f6 15. Qg7 Rf7 16. Bb5+ Nc6 17. Qg8+ Rf8 18. Qxh7 Rf7 19. Qg8+ Rf8
+20. Qg6+ Rf7 21. exf6 Kf8 22. Nf3 Bd7 23. Ke2 Qxc1 24. Ng5 1-0
+

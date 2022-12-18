@@ -1,0 +1,17 @@
+[Event "corr SWE/C"]
+[Site "corr SWE/C"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Bernhardsson"]
+[Black "Widengard"]
+[Result "1-0"]
+[ECO "E31"]
+[Opening "Nimzo-Indian"]
+[Variation "Leningrad, main line"]
+[HashCode "127df137"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Bg5 h6 5. Bh4 c5 6. d5 d6 7. Rc1 exd5 8.
+cxd5 Nbd7 9. e3 Qa5 10. Bd3 Qxa2 11. Ne2 Qxd5 12. O-O Qe6 13. Nb5 Ba5 14.
+Bf5 Qd5 15. Nxd6+ 1-0
+

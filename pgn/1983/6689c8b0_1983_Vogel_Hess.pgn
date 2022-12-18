@@ -1,0 +1,21 @@
+[Event "Bundesliga 8283"]
+[Site "Duitsland tt"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Vogel, Robert"]
+[Black "Hess, Christian"]
+[Result "1-0"]
+[ECO "E47"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 O-O, 5.Bd3"]
+[HashCode "6689c8b0"]
+[Epoch "Rook"]
+[WhiteID "4604253"]
+[WhiteCountry "GER"]
+[BlackCountry "DEU"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 b6 6. Ne2 Bb7 7. O-O d5 8. Ng3
+dxc4 9. Bxc4 c5 10. a3 cxd4 11. exd4 Bxc3 12. bxc3 Qc7 13. Qe2 Rc8 14. Bd3 Qxc3
+15. Bb2 Qc6 16. f4 Nbd7 17. f5 Re8 18. Rac1 Qd6 19. fxe6 Rxe6 20. Qf2 Bd5 21.
+Nf5 Qf8 22. Rc7 Rae8 23. Rxa7 g6 24. Ng3 h5 25. h3 Re3 26. Bb5 Qd6 27. Ne2 Rb3
+28. Nc3 Rxc3 29. Bxc3 Ne4 30. Rxd7 Qxa3 31. Qb2 Qxc3 32. Qxc3 Nxc3 33. Rxd5 1-0

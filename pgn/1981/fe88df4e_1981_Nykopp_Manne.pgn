@@ -1,0 +1,19 @@
+[Event "Gausdal Int"]
+[Site "Gausdal"]
+[Date "1981.??.??"]
+[Round "1"]
+[White "Nykopp, Jan Michael F"]
+[Black "Manne, P."]
+[Result "1-0"]
+[ECO "B16"]
+[Opening "Caro-Kann"]
+[Variation "Bronstein-Larsen variation"]
+[HashCode "fe88df4e"]
+[Epoch "Rook"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ gxf6 6. c3 Bf5 7. Nf3 e6
+8. g3 Bd6 9. Bg2 Qc7 10. O-O Nd7 11. Nh4 Bg6 12. b4 O-O-O 13. a4 f5 14. b5
+c5 15. a5 f4 16. b6 axb6 17. a6 bxa6 18. Rxa6 fxg3 19. fxg3 Nb8 20. Ra8
+cxd4 21. cxd4 Bc5 22. Be3 Rxd4 23. Bxd4 Rd8 24. Kh1 Rxd4 25. Qa1 Be4 26.
+Bxe4 Rxe4 27. Qh8+ Kb7 28. Rxb8+ Qxb8 29. Rxf7+ Ka8 30. Qa1+ 1-0
+

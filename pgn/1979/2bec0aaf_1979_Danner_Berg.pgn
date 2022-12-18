@@ -1,0 +1,21 @@
+[Event "Lugano op"]
+[Site "Lugano op"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Danner, Georg"]
+[Black "Berg, Tine"]
+[Result "1-0"]
+[ECO "D46"]
+[Opening "QGD semi-Slav"]
+[Variation "Bogolyubov variation"]
+[HashCode "2bec0aaf"]
+[Epoch "Rook"]
+[WhiteID "1600303"]
+[BlackID "1454544"]
+[WhiteCountry "AUT"]
+[BlackCountry "DEN"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c6 4. e3 Nf6 5. Nf3 Be7 6. Bd3 Nbd7 7. e4 dxe4 8. Nxe4
+O-O 9. O-O Nxe4 10. Bxe4 Nf6 11. Bc2 b6 12. Qe2 Qc7 13. Bg5 Bb7 14. Rad1 Rfd8
+15. Rfe1 Bb4 16. Bxf6 gxf6 17. Qd3 Bxe1 18. Qxh7+ Kf8 19. Rxe1 Ke7 20. Nh4 Kd6
+21. Nf5+ exf5 22. Qxf5 Qd7 23. Qf4# 1-0

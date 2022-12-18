@@ -1,0 +1,23 @@
+[Event "RLN 8283"]
+[Site "RLN 8283"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Sander, Johann"]
+[Black "Zschaebitz, Klaus"]
+[Result "1-0"]
+[ECO "C16"]
+[Opening "French"]
+[Variation "Winawer, advance variation"]
+[HashCode "ca322b9e"]
+[Epoch "Rook"]
+[WhiteID "4604202"]
+[WhiteCountry "GER"]
+[BlackID "4602870"]
+[BlackCountry "GER"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 b6 5. Qg4 Bf8 6. a4 a5 7. Nf3 Qd7 8. Bd3 Ba6
+9. Nb5 Nc6 10. c3 Nce7 11. Bg5 Nc8 12. c4 c6 13. cxd5 cxb5 14. dxe6 fxe6 15.
+O-O Nce7 16. Bxe7 Nh6 17. Qh5+ Kxe7 18. d5 bxa4 19. d6+ Kd8 20. Be4 Rc8 21.
+Rfc1 Bc4 22. Nd2 b5 23. Nxc4 bxc4 24. Bc2 Rc5 25. Bxa4 Qf7 26. Qh4+ Be7 27. Qd4
+Bg5 28. Qxc5 Bxc1 29. Qb6+ Kc8 30. d7+ Qxd7 31. Bxd7+ Kxd7 32. Qd6+ Kc8 33.
+Rxc1 1-0

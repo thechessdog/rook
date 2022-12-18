@@ -1,0 +1,23 @@
+[Event "Reykjavik op"]
+[Site "Reykjavik"]
+[Date "1984.01.01"]
+[Round "2"]
+[White "Petursson, Margeir"]
+[Black "Zaltsman, Vitaly F"]
+[Result "0-1"]
+[ECO "D24"]
+[Opening "QGA, Bogolyubov variation"]
+[HashCode "7faad781"]
+[Epoch "Rook"]
+[WhiteID "2300028"]
+[WhiteCountry "ISL"]
+[BlackCountry "USA"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. Nc3 a6 5. e4 b5 6. e5 Nd5 7. Ng5 e6 8. Qh5
+Qd7 9. Be2 Bb7 10. Bf3 g6 11. Qg4 b4 12. Nce4 Nc6 13. Be3 h6 14. Nh3 O-O-O 15.
+O-O c3 16. bxc3 bxc3 17. a3 Na5 18. Nf4 c2 19. Rac1 Qa4 20. Nxd5 Bxd5 21. Nc3
+Bxf3 22. Qxf3 Qc6 23. Qe2 Qc4 24. Qxc2 Bxa3 25. Rb1 Bb4 26. Rfc1 Bxc3 27. Qxc3
+Qxc3 28. Rxc3 Rd5 29. Ra1 c6 30. Bc1 Kc7 31. Kf1 Rb8 32. Bxh6 Nb3 33. Ra3 Nxd4
+34. Rxa6 Rb1+ 35. Rc1 Rxc1+ 36. Bxc1 Kb7 37. Ra1 Rxe5 38. Be3 Nc2 39. Ra7+ Kc8
+40. Ke2 Nxe3 41. fxe3 f6 42. h4 Rh5 43. g3 g5 44. hxg5 Rxg5 45. Kf3 Kd8 46. e4
+c5 47. Rf7 f5 48. e5 Rg4 49. Rf6 Kd7 0-1

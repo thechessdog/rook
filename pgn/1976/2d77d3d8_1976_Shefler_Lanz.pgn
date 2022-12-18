@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Shefler"]
+[Black "Lanz Calavia"]
+[Result "0-1"]
+[ECO "C89"]
+[Opening "Ruy Lopez"]
+[Variation "Marshall counter-attack, 11...c6"]
+[HashCode "2d77d3d8"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8.
+c3 d5 9. exd5 Nxd5 10. Nxe5 Nxe5 11. Rxe5 c6 12. g3 Bd6 13. Re1 Re8 14. d4
+Rxe1+ 15. Qxe1 Bh3 16. Qe4 Qd7 17. Be3 Re8 18. Qd3 Bf4 19. Nd2 Nxe3 20.
+fxe3 Rxe3 21. Qb1 Qg4 0-1
+

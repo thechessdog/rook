@@ -1,0 +1,20 @@
+[Event "DDR-ch 32th"]
+[Site "Cottbus"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Boensch, Uwe"]
+[Black "Espig, Lutz"]
+[Result "1/2-1/2"]
+[ECO "B07"]
+[Opening "Pirc"]
+[Variation "Sveshnikov system"]
+[HashCode "67af0732"]
+[Epoch "Rook"]
+[WhiteID "4611268"]
+[WhiteCountry "GER"]
+[BlackID "4611276"]
+[BlackCountry "GER"]
+
+1. d4 d6 2. e4 Nf6 3. Nc3 g6 4. g3 Bg7 5. Bg2 O-O 6. Nge2 e5 7. O-O Nc6 8. h3
+exd4 9. Nxd4 Nxe4 10. Nxc6 Nxc3 11. Nxd8 Nxd1 12. Nxb7 Bxb7 13. Bxb7 Rab8 14.
+Rxd1 Rxb7 15. Rb1 Re8 16. Kf1 Re4 1/2-1/2

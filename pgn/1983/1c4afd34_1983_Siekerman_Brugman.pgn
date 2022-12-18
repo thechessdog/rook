@@ -1,0 +1,17 @@
+[Event "Alkmaar open"]
+[Site "Alkmaar open"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Siekerman, P."]
+[Black "Brugman, N."]
+[Result "0-1"]
+[ECO "B64"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...Be7 defence, 9.f4"]
+[HashCode "1c4afd34"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 e6 7. Qd2 Be7 8. f4
+O-O 9. O-O-O a6 10. h4 h6 11. Qe2 Nxd4 12. Rxd4 b5 13. e5 Ne8 14. Qh5 f5 15.
+Rh3 Qc7 16. Rg3 dxe5 17. Bxe7 exd4 18. Bxf8 Qxf4+ 19. Kb1 Qxf1+ 20. Nd1 Kxf8
+21. Rd3 e5 22. Qg6 Ra7 0-1

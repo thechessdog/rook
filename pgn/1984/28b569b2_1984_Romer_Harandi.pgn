@@ -1,0 +1,23 @@
+[Event "Berlin"]
+[Site "Berlin"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Romer"]
+[Black "Harandi, Khosro"]
+[Result "1-0"]
+[ECO "E48"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 O-O, 5.Bd3 d5"]
+[HashCode "28b569b2"]
+[Epoch "Rook"]
+[BlackID "12500011"]
+[BlackCountry "IRI"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 Nc6 7. O-O a6 8. h3 h6
+9. a3 dxc4 10. Bxc4 Bd6 11. e4 e5 12. Be3 b5 13. Ba2 Bb7 14. Re1 exd4 15. Bxd4
+Nxd4 16. Qxd4 c5 17. Qd2 Bc7 18. Qc2 Re8 19. Rad1 Qe7 20. Bb1 Rad8 21. Rxd8
+Qxd8 22. Kf1 b4 23. axb4 cxb4 24. Rd1 Qe7 25. Nd5 Bxd5 26. exd5 Qd6 27. Qc6 Rd8
+28. Re1 Kf8 29. Ba2 Qxc6 30. dxc6 Rc8 31. Bc4 a5 32. b3 Re8 33. Rxe8+ Nxe8 34.
+Nd4 g6 35. Ke2 Ke7 36. Nb5 Bb6 37. Kd3 f6 38. f3 f5 39. g4 fxg4 40. fxg4 Nf6
+41. c7 Bxc7 42. Nxc7 Kd6 43. Nb5+ Ke5 44. Ke3 Nd7 45. Nd4 Nc5 46. Nc6+ Kd6 47.
+Nxa5 g5 48. Kd4 Nd7 49. Nb7+ Kc7 50. Nc5 1-0

@@ -1,0 +1,21 @@
+[Event "Kiel"]
+[Site "Kiel"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Schramm"]
+[Black "Csom, Istvan"]
+[Result "0-1"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "27e36ba9"]
+[Epoch "Rook"]
+[BlackID "700100"]
+[BlackCountry "HUN"]
+
+1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. d4 e6 5. Nf3 Nf6 6. Bd3 Be7 7. O-O O-O 8. c4
+Qd8 9. dxc5 Nbd7 10. Qe2 Nxc5 11. Bc2 b6 12. Rd1 Qc7 13. Nc3 Ba6 14. Ne5 Rad8
+15. Bf4 Qc8 16. Bg3 Bb7 17. Rac1 Qa8 18. f3 Qc8 19. a3 Nh5 20. b4 Nxg3 21. hxg3
+Nd7 22. Nxd7 Rxd7 23. Rxd7 Qxd7 24. Rd1 Qc8 25. Nb5 a5 26. Nd6 Qc7 27. Qd3 g6
+28. Nxb7 Qxb7 29. Qd7 Rb8 30. Qb5 axb4 31. Rd7 Bc5+ 32. Kh2 Qc8 33. axb4 Bxb4
+34. Ba4 Bc5 35. Qc6 Qf8 36. g4 Qh6+ 37. Kg3 g5 38. f4 Qh4+ 39. Kf3 Qf2+ 0-1

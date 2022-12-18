@@ -1,0 +1,19 @@
+[Event "Linkoping"]
+[Site "Linkoping"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Bengtsson, Bo"]
+[Black "Renman, Nils-Gustaf"]
+[Result "0-1"]
+[ECO "C17"]
+[Opening "French"]
+[Variation "Winawer, advance, Bogolyubov variation"]
+[HashCode "59b27fd9"]
+[Epoch "Rook"]
+[WhiteID "1700804"]
+[WhiteCountry "SWE"]
+[BlackCountry "SWE"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. Bd2 Ne7 6. dxc5 Nbc6 7. Qg4 O-O 8. Bd3
+f5 9. exf6 Rxf6 10. O-O-O h6 11. Qh5 Bd7 12. Nf3 Qf8 13. Ne2 Be8 14. Qh4 Ng6
+15. Qg3 Qxc5 16. Bxh6 gxh6 17. Nf4 Qd6 18. Nh5 Rf8 19. Qg4 0-1

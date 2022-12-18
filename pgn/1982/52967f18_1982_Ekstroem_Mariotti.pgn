@@ -1,0 +1,20 @@
+[Event "Lugano op"]
+[Site "Lugano op"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Ekstroem, R."]
+[Black "Mariotti, Sergio"]
+[Result "1-0"]
+[ECO "C46"]
+[Opening "Three knights"]
+[Variation "Steinitz variation"]
+[HashCode "52967f18"]
+[Epoch "Rook"]
+[BlackID "800023"]
+[BlackCountry "ITA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 g6 4. Bc4 Bg7 5. d3 h6 6. Be3 d6 7. h3 f5 8. exf5
+gxf5 9. d4 exd4 10. Nxd4 Nf6 11. O-O Ne5 12. Ne6 Qe7 13. Nd5 Nxd5 14. Qh5+ Kd7
+15. Bxd5 c6 16. Bb3 d5 17. Nxg7 Qxg7 18. f4 Rg8 19. Rf2 Nc4 20. Bxc4 dxc4 21.
+Rd1+ Kc7 22. Bd4 Qg6 23. Be5+ Kb6 24. Qe2 Be6 25. Qe3+ Kb5 26. b4 b6 27. a4+
+Ka6 28. b5+ cxb5 29. axb5+ Kxb5 30. Qf3 Rgd8 31. Bd6 c3 32. Rb1+ 1-0

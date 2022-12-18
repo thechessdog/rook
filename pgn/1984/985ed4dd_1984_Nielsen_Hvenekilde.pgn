@@ -1,0 +1,17 @@
+[Event "Aarhus-A"]
+[Site "Aarhus"]
+[Date "1984.01.01"]
+[Round "7"]
+[White "Nielsen, Niels Peter"]
+[Black "Hvenekilde, Jorgen"]
+[Result "1/2-1/2"]
+[ECO "A45"]
+[Opening "Trompovsky attack (Ruth, Opovcensky opening)"]
+[HashCode "985ed4dd"]
+[Epoch "Rook"]
+[BlackID "1400649"]
+[BlackCountry "DEN"]
+
+1. d4 Nf6 2. Bg5 d5 3. Bxf6 exf6 4. e3 c6 5. Bd3 b6 6. Nd2 Ba6 7. Qe2 Bxd3 8.
+Qxd3 Bd6 9. Ne2 O-O 10. c3 Re8 11. g4 Qc8 12. Rg1 a5 13. h4 b5 14. Qf5 Qe6 15.
+O-O-O Nd7 16. Ng3 Nb6 17. g5 Bxg3 18. Qxe6 fxe6 1/2-1/2

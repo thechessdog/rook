@@ -1,0 +1,22 @@
+[Event "Nordic-tt"]
+[Site "Oslo"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Sznapik, Aleksander"]
+[Black "Sigurjonsson, Gudmundur"]
+[Result "1/2-1/2"]
+[ECO "B92"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Opovcensky variation"]
+[HashCode "b1e46f11"]
+[Epoch "Rook"]
+[WhiteID "1100050"]
+[WhiteCountry "POL"]
+[BlackID "2300079"]
+[BlackCountry "ISL"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8. O-O
+O-O 9. Be3 Be6 10. Qd2 Nbd7 11. a4 Rc8 12. Rfd1 Qc7 13. f3 Rfd8 14. a5 d5 15.
+exd5 Nxd5 16. Nxd5 Bxd5 17. Qxd5 Nf6 18. Qc4 Rxd1+ 19. Rxd1 Qxc4 20. Bxc4 Rxc4
+21. Bc5 Bxc5+ 22. Nxc5 Kf8 23. Nxb7 Rxc2 24. b4 Rb2 25. Nd8 Rxb4 26. Nc6 Rc4
+27. Rd8+ Ne8 28. Nxe5 Rc1+ 29. Kf2 Ke7 30. Rd2 Nd6 1/2-1/2

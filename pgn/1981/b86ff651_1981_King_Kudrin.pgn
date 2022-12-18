@@ -1,0 +1,23 @@
+[Event "Manchester"]
+[Site "Manchester"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "King, Daniel J"]
+[Black "Kudrin, Sergey"]
+[Result "1-0"]
+[ECO "C85"]
+[Opening "Ruy Lopez"]
+[Variation "Exchange variation doubly deferred (DERLD)"]
+[HashCode "b86ff651"]
+[Epoch "Rook"]
+[WhiteID "400068"]
+[BlackID "2000164"]
+[WhiteCountry "ENG"]
+[BlackCountry "USA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Bxc6 dxc6 7. d3 Nd7 8.
+Nbd2 O-O 9. Nc4 Bf6 10. b3 Re8 11. Bb2 c5 12. h3 a5 13. a4 b6 14. Nh2 Nf8 15.
+Ng4 Ng6 16. Qf3 Bxg4 17. hxg4 Bg5 18. g3 f6 19. Qg2 Qd7 20. f3 Bh6 21. Rf2 Rab8
+22. Raf1 c6 23. f4 b5 24. axb5 cxb5 25. Ne3 a4 26. Nf5 axb3 27. Qh3 Rb7 28. g5
+fxg5 29. fxe5 Re6 30. cxb3 Rb8 31. d4 cxd4 32. Nxd4 Rd6 33. e6 Qa7 34. Nf5 Rd2
+35. Kg2 Rbd8 36. e7 Nxe7 37. Nxh6+ 1-0

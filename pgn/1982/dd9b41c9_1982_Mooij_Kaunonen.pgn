@@ -1,0 +1,18 @@
+[Event "corr Heilimo mem"]
+[Site "corr Heilimo mem"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Mooij"]
+[Black "Kaunonen"]
+[Result "0-1"]
+[ECO "D35"]
+[Opening "QGD"]
+[Variation "exchange, positional line"]
+[HashCode "dd9b41c9"]
+[Epoch "Rook"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. cxd5 exd5 5. Bg5 Be7 6. e3 h6 7. Bxf6 Bxf6
+8. Qh5 Be6 9. Bd3 c6 10. Nge2 Qd6 11. O-O Nd7 12. f4 Be7 13. f5 Nf6 14. Qf3
+Bd7 15. b4 O-O 16. Rab1 Rfe8 17. Nf4 Nh7 18. Qf2 Bf6 19. Nh5 Re7 20. Rfe1
+Rae8 21. a3 b6 22. Nf4 Bxd4 0-1
+

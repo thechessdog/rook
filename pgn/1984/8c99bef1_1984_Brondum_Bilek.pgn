@@ -1,0 +1,22 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Brondum, Eric"]
+[Black "Bilek, Istvan"]
+[Result "1-0"]
+[ECO "A77"]
+[Opening "Benoni"]
+[Variation "classical, 9...Re8, 10.Nd2"]
+[HashCode "8c99bef1"]
+[Epoch "Rook"]
+[WhiteID "1400894"]
+[WhiteCountry "DEN"]
+[BlackCountry "HUN"]
+
+1. d4 Nf6 2. Nf3 c5 3. d5 e6 4. c4 exd5 5. cxd5 g6 6. Nc3 Bg7 7. e4 O-O 8. Be2
+Re8 9. Nd2 d6 10. O-O Nbd7 11. h3 a6 12. a4 Qc7 13. Qc2 b6 14. Nc4 Ne5 15. Na3
+Rb8 16. Bf4 Nfd7 17. Bh2 g5 18. Kh1 Nf8 19. Qd2 Qe7 20. Nc2 Neg6 21. Rae1 Be5
+22. Ne3 Nf4 23. Bg4 N8g6 24. Bxc8 Rbxc8 25. Nf5 Qf6 26. g3 Nh5 27. f4 gxf4 28.
+gxf4 Bd4 29. Nh6+ Kf8 30. e5 Qh4 31. Qg2 Ng7 32. f5 Nxe5 33. Bf4 f6 34. Ne4
+Rcd8 35. Nxf6 Qxf6 36. Bg5 Qxg5 37. Qxg5 Nf3 38. Rxe8+ Rxe8 39. Qg3 1-0

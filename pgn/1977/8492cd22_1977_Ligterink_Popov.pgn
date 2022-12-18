@@ -1,0 +1,22 @@
+[Event "IBM-B"]
+[Site "Amsterdam II"]
+[Date "1977.07.01"]
+[Round "6"]
+[White "Ligterink, Gert"]
+[Black "Popov, Luben"]
+[Result "1-0"]
+[ECO "B43"]
+[Opening "Sicilian"]
+[Variation "Kan, 5.Nc3"]
+[HashCode "8492cd22"]
+[Epoch "Rook"]
+[WhiteID "1000179"]
+[WhiteCountry "NED"]
+[BlackID "2900173"]
+[BlackCountry "FID"]
+
+1. e4 c5 2. Nf3 e6 3. Nc3 a6 4. d4 cxd4 5. Nxd4 b5 6. Bd3 Ne7 7. O-O Nec6 8.
+Nxc6 Nxc6 9. Qg4 Bb7 10. f4 Nb4 11. f5 Nxd3 12. cxd3 b4 13. Na4 Bc6 14. b3 Bxa4
+15. bxa4 e5 16. Be3 Qf6 17. d4 h5 18. Qg3 exd4 19. e5 Qb6 20. Bf2 h4 21. Qg4 h3
+22. Rac1 hxg2 23. Qxg2 Rd8 24. Rfe1 Rh6 25. Rc4 Rc6 26. Bxd4 Qc7 27. e6 Rxc4
+28. exf7+ Kxf7 29. Qd5# 1-0

@@ -1,0 +1,24 @@
+[Event "corr DDR/FS"]
+[Site "corr DDR/FS"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Lippstreu"]
+[Black "Pullis"]
+[Result "1-0"]
+[ECO "A34"]
+[Opening "English"]
+[Variation "symmetrical, three knights system"]
+[HashCode "24714d7c"]
+[Epoch "Rook"]
+
+1. Nf3 Nf6 2. c4 c5 3. Nc3 d5 4. cxd5 Nxd5 5. e3 Nc6 6. Bb5 e6 7. O-O Be7
+8. Ne5 Bd7 9. Bxc6 Bxc6 10. Nxc6 bxc6 11. Qa4 Qb6 12. Nxd5 exd5 13. b3 O-O
+14. Ba3 Rfe8 15. Rac1 Rac8 16. Rc2 Qb5 17. Bxc5 Qxa4 18. bxa4 Bxc5 19. Rxc5
+Rc7 20. Rfc1 Rec8 21. Kf1 Kf8 22. d4 Ke8 23. a5 Kd7 24. Rb1 Kd6 25. a6 f6
+26. a4 h6 27. a5 Rd8 28. Ke2 Re7 29. Rc2 Rc7 30. Kf3 g6 31. Rc5 Rf8 32. h4
+h5 33. Rc2 g5 34. Rb7 Rcc8 35. Rxa7 Ra8 36. Rb7 Rxa6 37. Rb6 Rxb6 38. axb6
+Rb8 39. Rb2 Rb7 40. g4 hxg4+ 41. Kxg4 gxh4 42. Kxh4 Ke6 43. Kh5 Kf7 44. Kg4
+Ke6 45. Kf4 f5 46. Kg5 Rg7+ 47. Kh6 Rg1 48. Kh5 f4 49. Kh4 Kf5 50. Kh3 Rg8
+51. b7 Rb8 52. f3 fxe3 53. Kg2 Ke6 54. Kf1 Kd6 55. Ke2 c5 56. dxc5+ Kc6 57.
+Kxe3 Kxc5 58. Kd3 1-0
+

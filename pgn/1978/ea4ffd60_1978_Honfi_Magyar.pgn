@@ -1,0 +1,19 @@
+[Event "Budapest"]
+[Site "Budapest"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Honfi, Karoly"]
+[Black "Magyar, Otto"]
+[Result "1-0"]
+[ECO "C67"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence, Rosenthal variation"]
+[HashCode "ea4ffd60"]
+[Epoch "Rook"]
+[BlackID "703311"]
+[WhiteCountry "HUN"]
+[BlackCountry "HUN"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 a6 6. Bxc6 dxc6 7. Qe2 Nd6 8.
+dxe5 Nf5 9. Rd1 Qe7 10. Nc3 Bd7 11. Bg5 Qe6 12. Ne4 h6 13. Bf6 Be7 14. Rxd7
+Qxd7 15. Rd1 Qe6 16. g4 Ng3 17. hxg3 gxf6 18. Nd4 Qxa2 19. exf6 1-0

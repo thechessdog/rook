@@ -1,0 +1,23 @@
+[Event "corr DDR/FS"]
+[Site "corr DDR/FS"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Linse"]
+[Black "Wiezer, S."]
+[Result "0-1"]
+[ECO "E41"]
+[Opening "Nimzo-Indian"]
+[Variation "e3, Huebner variation"]
+[HashCode "e0b27c60"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 Nc6 6. Nf3 Bxc3+ 7. bxc3 d6
+8. O-O b6 9. Qc2 Bd7 10. Nd2 Rc8 11. Rb1 Qc7 12. Nf3 Na5 13. Nd2 d5 14.
+cxd5 cxd4 15. dxe6 Bxe6 16. Qa4+ Bd7 17. Qxd4 Qxc3 18. Bb2 Qxd4 19. Bxd4
+Be6 20. Nb3 Nc4 21. Rfc1 Ke7 22. h3 Rhd8 23. Kf1 Rd6 24. Ke2 g6 25. Bxf6+
+Kxf6 26. Nd4 Ne5 27. Rxc8 Bxc8 28. Rc1 Bb7 29. f3 Nxd3 30. Kxd3 Rd5 31. e4
+Ra5 32. Rc2 Ra3+ 33. Ke2 Ba6+ 34. Kf2 Bd3 35. Rb2 Ra4 36. Ke3 Bc4 37. Nb3
+Rb4 38. Kd4 a5 39. Kc3 Be6 40. h4 Ke5 41. g3 h6 42. Rd2 Rc4+ 43. Kd3 g5 44.
+Rf2 Ra4 45. hxg5 hxg5 46. f4+ Kf6 47. Rc2 Ra3 48. Rc6 a4 49. f5 axb3 50.
+axb3 Rxb3+ 51. Kc2 Rxg3 52. Rxb6 Re3 53. fxe6 fxe6 54. Rb4 Ke5 0-1
+

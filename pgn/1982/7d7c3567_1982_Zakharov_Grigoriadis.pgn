@@ -1,0 +1,17 @@
+[Event "Tambov"]
+[Site "Tambov"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Zakharov, Alexander V"]
+[Black "Grigoriadis"]
+[Result "1-0"]
+[ECO "A45"]
+[Opening "Queen's pawn game"]
+[HashCode "7d7c3567"]
+[Epoch "Rook"]
+[WhiteCountry "RUS"]
+
+1. d4 Nf6 2. g3 g6 3. Bg2 Bg7 4. e4 O-O 5. e5 Ne8 6. Nf3 d6 7. O-O Nc6 8. exd6
+Nxd6 9. d5 Ne5 10. Nxe5 Bxe5 11. Re1 Bg7 12. Nc3 e5 13. dxe6 Bxe6 14. Bf4 Nc4
+15. Bxb7 Rb8 16. Qf3 Nd2 17. Qc6 Rxb7 18. Qxb7 Bxc3 19. Rxe6 fxe6 20. bxc3 e5
+21. Bh6 Nf3+ 22. Kg2 Rf5 23. Rd1 1-0

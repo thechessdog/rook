@@ -1,0 +1,20 @@
+[Event "corr ch11-DDR"]
+[Site "corr ch11-DDR"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Heinrich, H."]
+[Black "Mehner, B."]
+[Result "0-1"]
+[ECO "A71"]
+[Opening "Benoni"]
+[Variation "classical, 8.Bg5"]
+[HashCode "105a68f4"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 c5 4. d5 exd5 5. cxd5 d6 6. e4 g6 7. Nf3 Bg7 8.
+Bg5 h6 9. Bh4 a6 10. Be2 g5 11. Bg3 Nh5 12. Qc2 Nxg3 13. fxg3 Nd7 14. O-O
+O-O 15. a3 Ne5 16. Rac1 Qe7 17. Nxe5 Qxe5 18. b4 cxb4 19. axb4 Bd7 20. Qb1
+Rac8 21. Na2 Qb2 22. Bd3 Bd4+ 23. Kh1 Rxc1 24. Nxc1 Qxb1 25. Bxb1 Bc3 26.
+Nd3 f5 27. exf5 Bxf5 28. b5 Be4 29. Rxf8+ Kxf8 30. bxa6 bxa6 31. Kg1 Bxd5
+32. Nc1 Kf7 33. Ne2 Be5 34. Bc2 Bc6 35. Nc1 Ke6 36. Nb3 Bc3 0-1
+

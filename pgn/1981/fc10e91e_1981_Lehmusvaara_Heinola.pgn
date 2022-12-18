@@ -1,0 +1,17 @@
+[Event "corr Uki"]
+[Site "corr Uki"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Lehmusvaara, E."]
+[Black "Heinola, Kari P."]
+[Result "0-1"]
+[ECO "C74"]
+[Opening "Ruy Lopez"]
+[Variation "Siesta, Kopayev variation"]
+[HashCode "fc10e91e"]
+[Epoch "Rook"]
+[BlackID "503495"]
+[BlackCountry "FIN"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. c3 f5 6. exf5 Bxf5 7. O-O Bd3 8. Re1
+Be7 9. Qb3 Rb8 10. Qd5 e4 11. Nd4 Nf6 12. Qb3 d5 0-1

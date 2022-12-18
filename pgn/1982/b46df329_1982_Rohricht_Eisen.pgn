@@ -1,0 +1,22 @@
+[Event "corr USCCC"]
+[Site "corr USCCC"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Rohricht, W."]
+[Black "Eisen, D."]
+[Result "1-0"]
+[ECO "A57"]
+[Opening "Benko gambit"]
+[Variation "Zaitsev system"]
+[HashCode "b46df329"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. Nc3 axb5 6. e4 b4 7. Nb5 d6 8.
+Nf3 g6 9. Bc4 Bg7 10. O-O O-O 11. Qe2 Bg4 12. h3 Bxf3 13. Qxf3 Nfd7 14. Qe2
+Nb6 15. Bb3 Na6 16. Be3 Nc7 17. Nxc7 Qxc7 18. Rac1 Qa7 19. f4 Nd7 20. Kh1
+Rfc8 21. Bg1 Nb6 22. e5 Qa6 23. Qf3 c4 24. Bc2 Na4 25. Bd4 Nxb2 26. f5 Rf8
+27. f6 exf6 28. exf6 Bh8 29. Qf4 Nd3 30. Qh6 Rfe8 31. Rf5 Re5 32. Bxe5 dxe5
+33. Rcf1 gxf5 34. Rxf5 Bxf6 35. Rxf6 Qa3 36. Qg5+ Kf8 37. Qh5 Ra7 38. Qxh7
+Qc1+ 39. Kh2 Qg5 40. Rf5 Qg8 41. Qh4 Nf4 42. Qd8+ Kg7 43. Qf6+ Kf8 44. Rg5
+Qxg5 45. Qxg5 Rxa2 46. Qh6+ Ke7 47. d6+ Kd7 48. Bf5+ Ne6 49. Qf8 1-0
+

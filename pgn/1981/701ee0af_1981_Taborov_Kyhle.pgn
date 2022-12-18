@@ -1,0 +1,20 @@
+[Event "Europe"]
+[Site "Europe"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Taborov, Boris"]
+[Black "Kyhle, Bo"]
+[Result "1/2-1/2"]
+[ECO "C80"]
+[Opening "Ruy Lopez"]
+[Variation "open, 8...Be6"]
+[HashCode "701ee0af"]
+[Epoch "Rook"]
+[WhiteID "14100347"]
+[BlackID "1701150"]
+[WhiteCountry "UKR"]
+[BlackCountry "SWE"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Be6 9. a4 b4 10. a5 Nc5 11. Bg5 Qd7 12. Nbd2 h6 13. Bf4 Be7 14. Bg3 O-O 15. c3
+bxc3 16. bxc3 f5 17. exf6 Bxf6 18. Ba4 1/2-1/2

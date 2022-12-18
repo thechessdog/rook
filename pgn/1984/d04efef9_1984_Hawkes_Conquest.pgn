@@ -1,0 +1,24 @@
+[Event "Lloyds Bank op"]
+[Site "Londen open"]
+[Date "1984.08.01"]
+[Round "6"]
+[White "Hawkes, Rob"]
+[Black "Conquest, Stuart C"]
+[Result "0-1"]
+[ECO "B26"]
+[Opening "Sicilian"]
+[Variation "closed, 6.Be3"]
+[HashCode "d04efef9"]
+[Epoch "Rook"]
+[WhiteID "2600382"]
+[WhiteCountry "CAN"]
+[BlackID "400181"]
+[BlackCountry "ENG"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. Be3 b5 7. Qd2 b4 8. Nd1 e5
+9. a3 a5 10. axb4 cxb4 11. Ne2 Nf6 12. Bh6 Bxh6 13. Qxh6 b3 14. cxb3 Ba6 15.
+Qd2 Nb4 16. Nc1 Nd7 17. Ne3 Nc5 18. O-O Nbxd3 19. Nxd3 Bxd3 20. Rfd1 O-O 21.
+Qc3 Bb5 22. b4 axb4 23. Qxb4 Rb8 24. Qc3 Be2 25. Re1 Rb3 26. Qd2 Bd3 27. Nd5
+Kg7 28. f4 Qb8 29. fxe5 dxe5 30. Qg5 Qd6 31. Ra7 Nxe4 32. Bxe4 Bxe4 33. Rxe4
+Qc5+ 34. Re3 Qc1+ 35. Kg2 Rxb2+ 36. Kh3 Qf1+ 37. Kg4 h5+ 38. Qxh5 gxh5+ 39. Kg5
+Qc1 40. Kf5 Qc2+ 41. Kxe5 Re8+ 42. Kf4 Rxe3 43. Nxe3 Rb4+ 44. Kg5 Qg6# 0-1

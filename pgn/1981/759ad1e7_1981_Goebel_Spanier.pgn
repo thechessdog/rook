@@ -1,0 +1,18 @@
+[Event "BL2-N 8081"]
+[Site "BL2-N 8081"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Goebel, Wolfgang"]
+[Black "Spanier, R."]
+[Result "1/2-1/2"]
+[ECO "B17"]
+[Opening "Caro-Kann"]
+[Variation "Steinitz variation"]
+[HashCode "759ad1e7"]
+[Epoch "Rook"]
+[WhiteID "4630050"]
+[WhiteCountry "GER"]
+
+1. e4 c6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Ng3 e6 7. Bc4 Be7 8.
+O-O O-O 9. Qe2 Nb6 10. Bb3 c5 11. c3 Qc7 12. dxc5 Bxc5 13. Ne4 Be7 14. Bg5 Nbd5
+15. Nxf6+ Nxf6 16. Rfe1 Re8 17. Ne5 1/2-1/2

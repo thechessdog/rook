@@ -1,0 +1,15 @@
+[Event "corr LADAC"]
+[Site "corr LADAC"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Pereyra, Manuel"]
+[Black "Bet, Carlos"]
+[Result "1-0"]
+[ECO "A46"]
+[Opening "Queen's pawn game"]
+[HashCode "74869b27"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. Nf3 e6 3. Bf4 d5 4. e3 c5 5. Nbd2 Nc6 6. c3 Bd6 7. dxc5 Bxc5
+8. Bd3 Bd6 9. Bxd6 Qxd6 10. O-O O-O 11. c4 Rd8 12. cxd5 exd5 13. Nb3 1-0
+

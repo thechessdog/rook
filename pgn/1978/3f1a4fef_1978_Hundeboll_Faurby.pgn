@@ -1,0 +1,19 @@
+[Event "Horsens"]
+[Site "Horsens"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Hundeboll, Flemming"]
+[Black "Faurby, Ove"]
+[Result "1-0"]
+[ECO "C72"]
+[Opening "Ruy Lopez"]
+[Variation "modern Steinitz defence, 5.O-O"]
+[HashCode "3f1a4fef"]
+[Epoch "Rook"]
+[WhiteID "1408135"]
+[WhiteCountry "DEN"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. O-O b5 6. Bb3 Na5 7. d4 Nxb3 8. axb3
+exd4 9. Nxd4 Bb7 10. Re1 Be7 11. Nc3 Nf6 12. Nf5 O-O 13. Bg5 Re8 14. Qf3 Nd5
+15. Bh6 Nxc3 16. Nxg7 Nxe4 17. Qg4 Nf6 18. Qg3 Kh8 19. Nf5 Nh5 20. Bg7+ Kg8 21.
+Nh6# 1-0

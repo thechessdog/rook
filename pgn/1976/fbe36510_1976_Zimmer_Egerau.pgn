@@ -1,0 +1,16 @@
+[Event "Timisoara"]
+[Site "Timisoara"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Zimmer, P."]
+[Black "Egerau, A."]
+[Result "1-0"]
+[ECO "D00"]
+[Opening "Blackmar gambit"]
+[HashCode "fbe36510"]
+[Epoch "Rook"]
+
+1. d4 d5 2. e4 dxe4 3. Nc3 h6 4. Bc4 c6 5. f3 exf3 6. Nxf3 Nf6 7. O-O Bf5
+8. Ne5 Be6 9. Bxe6 fxe6 10. Rxf6 exf6 11. Qh5+ Ke7 12. Qf7+ Kd6 13. Nc4#
+1-0
+

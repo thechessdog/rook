@@ -1,0 +1,17 @@
+[Event "Bazylea"]
+[Site "Bazylea"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Strehle"]
+[Black "Danegan"]
+[Result "0-1"]
+[ECO "A46"]
+[Opening "Queen's pawn"]
+[Variation "Torre attack"]
+[HashCode "8969ac86"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. Nf3 e6 3. Bg5 c5 4. c3 Qb6 5. Bxf6 Qxb2 6. Bg5 Qxa1 7. Qc2 c4
+8. Bc1 b5 9. e3 d5 10. Be2 b4 11. cxb4 Nc6 12. Nc3 Bxb4 13. Kd2 Bxc3+ 14.
+Qxc3 Qxa2+ 15. Bb2 Rb8 16. Kc2 Rb3 0-1
+

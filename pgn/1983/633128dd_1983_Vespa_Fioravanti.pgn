@@ -1,0 +1,20 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Vespa"]
+[Black "Fioravanti"]
+[Result "0-1"]
+[ECO "C69"]
+[Opening "Ruy Lopez"]
+[Variation "exchange, Bronstein variation"]
+[HashCode "633128dd"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O Qd6 6. d4 exd4 7. Nxd4
+Bd7 8. Be3 O-O-O 9. Nd2 Qg6 10. Qe2 h5 11. f3 h4 12. Nc4 c5 13. Ne5 Qh5 14.
+Ndc6 Bxc6 15. Nxc6 Rd6 16. Na5 Nf6 17. e5 Qxe5 18. Nc4 Qh5 19. Nxd6+ Bxd6
+20. Rae1 Re8 21. c4 Bg3 22. Rd1 Bf4 23. Rd3 Qe5 24. Re1 Bxh2+ 25. Kf1 Nh5
+26. Qd2 Ng3+ 27. Kf2 Nf5 28. Rd1 Bg3+ 29. Kg1 Kb8 30. Rd8+ Rxd8 31. Qxd8+
+Ka7 32. Bc1 Bh2+ 33. Kh1 h3 34. gxh3 Qe2 0-1
+

@@ -1,0 +1,18 @@
+[Event "DEN-chJ int"]
+[Site "Hinnerup"]
+[Date "1979.??.??"]
+[Round "3"]
+[White "Smits, Maurice"]
+[Black "Aagaard, Michael"]
+[Result "1-0"]
+[ECO "B59"]
+[Opening "Sicilian"]
+[Variation "Boleslavsky variation, 7.Nb3"]
+[HashCode "0e844837"]
+[Epoch "Rook"]
+[BlackID "1017942"]
+[BlackCountry "NED"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Be2 e5 7. Nb3 Be7 8.
+Bg5 Nxe4 9. Nxe4 Bxg5 10. Qxd6 Bf5 11. Qxd8+ Bxd8 12. Nd6+ Kf8 13. Nxf5 Nb4 14.
+Ne3 f5 15. c3 1-0

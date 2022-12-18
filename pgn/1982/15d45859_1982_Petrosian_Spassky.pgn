@@ -1,0 +1,19 @@
+[Event "Bugojno"]
+[Site "Bugojno"]
+[Date "1982.05.01"]
+[Round "1"]
+[White "Petrosian, Tigran A."]
+[Black "Spassky, Boris V."]
+[Result "1/2-1/2"]
+[ECO "E07"]
+[Opening "Catalan"]
+[Variation "closed, 6...Nbd7"]
+[HashCode "15d45859"]
+[Epoch "Rook"]
+[WhiteID "13300849"]
+[WhiteCountry "ARM"]
+[BlackID "600024"]
+[BlackCountry "RUS"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Bg2 Be7 5. Nf3 O-O 6. O-O Nbd7 7. b3 b6 8. cxd5
+Nxd5 9. Bb2 Bb7 10. Nc3 c5 11. Nxd5 Bxd5 12. Qd2 Rc8 13. dxc5 1/2-1/2

@@ -1,0 +1,18 @@
+[Event "Poznan"]
+[Site "Poznan"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Szymczak, Zbigniew"]
+[Black "Bednarski, Jacek B"]
+[Result "1/2-1/2"]
+[ECO "E76"]
+[Opening "King's Indian"]
+[Variation "Four pawns attack, dynamic line"]
+[HashCode "cd8524be"]
+[Epoch "Rook"]
+[WhiteID "1100424"]
+[WhiteCountry "POL"]
+[BlackCountry "POL"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 O-O 5. f4 d6 6. Nf3 c5 7. d5 b5 8. cxb5 a6
+9. bxa6 Bxa6 10. Bxa6 Nxa6 1/2-1/2

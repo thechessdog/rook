@@ -1,0 +1,17 @@
+[Event "corr ICCF"]
+[Site "corr ICCF"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Stabenow, J."]
+[Black "Diener, R."]
+[Result "1-0"]
+[ECO "A00"]
+[Opening "Polish"]
+[Variation "Outflank variation"]
+[HashCode "15bd4066"]
+[Epoch "Rook"]
+
+1. b4 c6 2. Bb2 a5 3. bxa5 Qxa5 4. e3 e5 5. Nf3 d6 6. Be2 e4 7. Nd4 Qg5 8.
+Bf1 Bg4 9. f3 Bh5 10. c4 Qh4+ 11. g3 Qf6 12. Qb3 exf3 13. Kf2 Nh6 14. h3
+Qe7 1-0
+

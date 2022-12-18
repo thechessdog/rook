@@ -1,0 +1,17 @@
+[Event "Plymouth ch-MI op"]
+[Site "Plymouth ch-MI op"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Marfia, James"]
+[Black "Riegel, P."]
+[Result "1-0"]
+[ECO "A39"]
+[Opening "English"]
+[Variation "symmetrical, main line with d4"]
+[HashCode "78242af5"]
+[Epoch "Rook"]
+
+1. c4 Nf6 2. Nc3 c5 3. g3 g6 4. Bg2 Nc6 5. Nf3 Bg7 6. O-O O-O 7. d4 cxd4 8.
+Nxd4 Nxd4 9. Qxd4 h6 10. c5 Ne8 11. Qe3 Nc7 12. Rd1 Ne6 13. c6 Nd4 14. cxb7
+Bxb7 15. Rxd4 Bxg2 16. Kxg2 Bxd4 17. Qxd4 Kh7 18. Qh4 g5 19. Bxg5 Rg8 20. Qxh6#
+1-0

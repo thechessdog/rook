@@ -1,0 +1,24 @@
+[Event "Rome"]
+[Site "Rome"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Mariotti, Sergio"]
+[Black "Robatsch, Karl"]
+[Result "1/2-1/2"]
+[ECO "B66"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...a6"]
+[HashCode "48a7e034"]
+[Epoch "Rook"]
+[WhiteID "800023"]
+[WhiteCountry "ITA"]
+[BlackCountry "AUT"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd2 a6 8.
+O-O-O h6 9. Bf4 Bd7 10. Nxc6 Bxc6 11. f3 Qa5 12. Bxd6 Rd8 13. Qf4 Bxd6 14. Rxd6
+O-O 15. Rxd8 Rxd8 16. Bd3 b5 17. a3 Qb6 18. Re1 Nd7 19. Rd1 a5 20. Bxb5 Bxb5
+21. Nxb5 Qxb5 22. Qc7 Qg5+ 23. f4 Qe7 24. Qxa5 Rc8 25. Qa7 Qc5 26. Qxc5 Nxc5
+27. e5 Kf8 28. c3 Ke7 29. Kc2 f6 30. exf6+ gxf6 31. Re1 Kd6 32. b4 Nd7 33. Kb3
+Ra8 34. c4 e5 35. Re4 Ke6 36. fxe5 fxe5 37. Rh4 Kf5 38. Rh5+ Kf4 39. Rxh6 e4
+40. Re6 Kf5 41. Re7 Nb6 42. a4 Rc8 43. a5 Nxc4 44. a6 e3 45. a7 Ne5 46. Rc7
+Rxc7 47. a8=Q e2 48. Qf8+ Rf7 49. Qc8+ Rd7 50. Qf8+ Rf7 51. Qc8+ Rd7 1/2-1/2

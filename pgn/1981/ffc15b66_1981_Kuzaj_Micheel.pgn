@@ -1,0 +1,20 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Kuzaj"]
+[Black "Micheel"]
+[Result "1-0"]
+[ECO "E11"]
+[Opening "Bogo-Indian defence, Gruenfeld variation"]
+[HashCode "ffc15b66"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 Bb4+ 4. Nbd2 O-O 5. a3 Bxd2+ 6. Bxd2 b6 7. b4 Bb7
+8. e3 d6 9. Bc3 Nbd7 10. Bd3 Qe7 11. O-O Ne4 12. Qc2 f5 13. Ne1 Qg5 14. f4
+Qe7 15. Nf3 a5 16. Rac1 Ndf6 17. c5 bxc5 18. bxc5 dxc5 19. dxc5 Bd5 20. Ne5
+a4 21. Bd4 Rfb8 22. g4 Nd7 23. gxf5 exf5 24. Bc4 Qe6 25. Nxd7 Qxd7 26. Rfd1
+Bxc4 27. Qxc4+ Kh8 28. Be5 Qe8 29. Qe2 Rb3 30. c6 Nf6 31. Rd7 Rab8 32. Qg2
+Qf8 33. Rxc7 Rb1 34. Rxb1 Rxb1+ 35. Kf2 Ng4+ 36. Kf3 Nxe5+ 37. fxe5 f4 38.
+e6 1-0
+

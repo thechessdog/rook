@@ -1,0 +1,23 @@
+[Event "Yalta"]
+[Site "Yalta"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Galakhov, Sergey"]
+[Black "Huzman, Alexander"]
+[Result "0-1"]
+[ECO "E12"]
+[Opening "Queen's Indian"]
+[Variation "Petrosian system"]
+[HashCode "a531d936"]
+[Epoch "Rook"]
+[WhiteID "4106598"]
+[WhiteCountry "RUS"]
+[BlackID "2803828"]
+[BlackCountry "ISR"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. a3 Bb7 5. Nc3 d5 6. cxd5 Nxd5 7. e3 Be7 8. Bb5+
+c6 9. Bd3 O-O 10. O-O c5 11. e4 Nxc3 12. bxc3 cxd4 13. cxd4 Nc6 14. Be3 Rc8 15.
+Qe2 Na5 16. Rfd1 Rc3 17. a4 Qa8 18. d5 Nb3 19. Bd4 Rxd3 20. Qxd3 Nxa1 21. Bxa1
+Rd8 22. Nd4 Qc8 23. Qg3 Bf8 24. Bb2 Qc4 25. h3 Rc8 26. dxe6 fxe6 27. Qg4 Re8
+28. Rc1 Qb4 29. Qe2 Bc5 30. Rc4 Ba6 31. Nb5 Bxb5 32. axb5 Qxb5 33. Qc2 Qd7 34.
+Be5 Rd8 35. Kh2 Qd2 36. f4 Qe3 37. Rc3 Qg1+ 38. Kg3 Qe1+ 39. Kh2 Bg1+ 0-1

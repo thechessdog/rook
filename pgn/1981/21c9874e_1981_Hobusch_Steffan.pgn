@@ -1,0 +1,19 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Hobusch"]
+[Black "Steffan"]
+[Result "1-0"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "Nimzovich attack"]
+[HashCode "21c9874e"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. Nc3 Nxc3 6. dxc3 Be7 7. Bf4
+Nc6 8. Qd2 Be6 9. O-O-O a6 10. Kb1 Qd7 11. Bd3 O-O-O 12. Rhe1 h6 13. Qe2
+Kb8 14. Nd4 Nxd4 15. cxd4 Rhe8 16. Bxa6 Bxa2+ 17. Kxa2 Qa4+ 18. Kb1 Qxa6
+19. Rd3 Qb5 20. Re3 Qxe2 21. R1xe2 Rd7 22. c4 g5 23. Bg3 Kc8 24. f4 b6 25.
+f5 f6 26. d5 Kb7 27. Be1 1-0
+

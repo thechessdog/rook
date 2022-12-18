@@ -1,0 +1,19 @@
+[Event "corr EU"]
+[Site "corr EU"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Knoll"]
+[Black "Schutt"]
+[Result "0-1"]
+[ECO "B64"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...Be7 defence, 9.f4"]
+[HashCode "7c4eea6d"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 e6 7. Qd2 Be7
+8. O-O-O O-O 9. f4 h6 10. Bh4 Bd7 11. Bb5 Qc7 12. Bxf6 gxf6 13. f5 Kh7 14.
+Rhf1 Rg8 15. Rf3 a6 16. Rh3 Bf8 17. Nxc6 bxc6 18. Bd3 exf5 19. exf5 d5 20.
+Rf1 Rb8 21. Rf4 Qb6 22. Nd1 c5 23. c4 Rg5 24. Ne3 d4 25. Nd5 Qd6 26. Rfh4
+Re8 27. Be4 Rxe4 28. Rxe4 Bxf5 29. Rf4 Bxh3 30. Qd3+ Kh8 31. Qxh3 Rxd5 0-1
+

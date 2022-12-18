@@ -1,0 +1,25 @@
+[Event "corr DDR-PZ"]
+[Site "corr DDR-PZ"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Murach"]
+[Black "Konig"]
+[Result "1-0"]
+[ECO "E53"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Keres variation"]
+[HashCode "348d45eb"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 c5 7. O-O b6 8.
+cxd5 exd5 9. dxc5 bxc5 10. Ne2 Bg4 11. b3 Nc6 12. Bb2 Qe7 13. Bb5 Rac8 14.
+Bxf6 Qxf6 15. Qxd5 Rfd8 16. Qg5 Qxg5 17. Nxg5 h6 18. Ne4 Ne5 19. h3 Rb8 20.
+hxg4 Rxb5 21. g5 hxg5 22. Nxg5 c4 23. Nd4 Rb6 24. bxc4 Nxc4 25. Rfc1 Ne5
+26. Rc7 a6 27. Rac1 g6 28. Ndf3 Nxf3+ 29. Nxf3 Bd6 30. Rc8 Rxc8 31. Rxc8+
+Kg7 32. g3 a5 33. Rc4 Rb2 34. a4 Rb7 35. Nd4 Rb1+ 36. Kg2 Rb2 37. Nc6 Bb4
+38. Nxb4 Rxb4 39. Rxb4 axb4 40. a5 b3 41. a6 b2 42. a7 b1=Q 43. a8=Q Qb5
+44. e4 Qb2 45. Qd5 Qc3 46. f4 Qc2+ 47. Kh3 Qc8+ 48. f5 gxf5 49. Qxf5 Qc2
+50. Qg5+ Kf8 51. Qe5 Qc1 52. Qf4 Qh1+ 53. Kg4 Qd1+ 54. Kg5 Qd8+ 55. Kh6
+Qb6+ 56. Kh5 Qg6+ 57. Kh4 Qh7+ 58. Kg4 Qg6+ 59. Kf3 Qh5+ 60. g4 Qh1+ 61.
+Ke2 Qc1 62. Qxc1 1-0
+

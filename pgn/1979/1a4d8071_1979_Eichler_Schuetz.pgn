@@ -1,0 +1,28 @@
+[Event "corr ch10-DDR"]
+[Site "corr ch10-DDR"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Eichler, G."]
+[Black "Schuetz, H."]
+[Result "1-0"]
+[ECO "B28"]
+[Opening "Sicilian"]
+[Variation "O'Kelly variation"]
+[HashCode "1a4d8071"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 a6 3. c4 Nc6 4. d4 cxd4 5. Nxd4 e5 6. Nf5 d5 7. cxd5 Bxf5
+8. exf5 Nd4 9. Bd3 Nf6 10. Nc3 Qd7 11. O-O O-O-O 12. Be3 Nxd5 13. Rc1 Kb8
+14. Be4 Nf6 15. Bg5 Be7 16. Bxf6 Bxf6 17. Nd5 Qb5 18. a4 Qe2 19. Re1 Qxd1
+20. Rcxd1 Rd6 21. Kf1 Rhd8 22. Ne3 Rb6 23. Bd5 Rd7 24. b3 Rbd6 25. Be4 Nxb3
+26. Rxd6 Rxd6 27. Bd5 Nc5 28. Bxf7 e4 29. Nd5 Bd8 30. Ra1 Nb3 31. Rd1 Ba5
+32. Ke2 Nc5 33. Rd4 b5 34. axb5 axb5 35. Be8 Nb3 36. Rd1 b4 37. Ne7 Kc7 38.
+Nd5+ Kb7 39. Ke3 Nc5 40. Bb5 Bb6 41. Ke2 b3 42. Bc4 Ba5 43. Rb1 Kc6 44.
+Ne7+ Kd7 45. Nd5 Bd8 46. Nf4 Ba5 47. Bxb3 Rd2+ 48. Ke3 Kd6 49. Bg8 h6 50.
+g4 Kc6 51. Bc4 Rc2 52. Bb5+ Kd6 53. Rd1+ Ke7 54. h4 Kf6 55. Rd5 Be1 56. g5+
+hxg5 57. Nh5+ Kf7 58. hxg5 Bxf2+ 59. Kf4 Rc3 60. g6+ Ke7 61. Nxg7 Rf3+ 62.
+Kg5 Be3+ 63. Kh5 Nd3 64. Bxd3 exd3 65. Rxd3 Kf6 66. Rd7 Ke5 67. Re7+ Kf6
+68. Rf7+ Ke5 69. Ne6 Rf1 70. Nf8 Rh1+ 71. Kg4 Bh6 72. Nd7+ Ke4 73. Re7+ Kd5
+74. Nf6+ Kd6 75. Re6+ Kc5 76. Nh5 Kd5 77. Re7 Ra1 78. f6 Ra8 79. g7 Kd6 80.
+Kf5 Bc1 81. Kg6 Bb2 82. Re2 1-0
+

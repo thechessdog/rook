@@ -1,0 +1,18 @@
+[Event "corr Yugoslavia"]
+[Site "corr Yugoslavia"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Sterle"]
+[Black "Nikolic, Sava N"]
+[Result "0-1"]
+[ECO "C72"]
+[Opening "Ruy Lopez"]
+[Variation "modern Steinitz defence, 5.O-O"]
+[HashCode "9d1615ce"]
+[Epoch "Rook"]
+[BlackID "901857"]
+[BlackCountry "SRB"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. O-O Bg4 6. h3 h5 7. d4 b5 8. Bb3
+Nxd4 9. hxg4 hxg4 10. Ng5 Nh6 11. f4 d5 12. Bxd5 Bc5 13. Rf2 g3 14. Bxa8 Nf3+
+15. Qxf3 gxf2+ 16. Kf1 Ng4 17. Bc6+ Kf8 18. Ke2 Rh1 19. Nd2 Re1# 0-1

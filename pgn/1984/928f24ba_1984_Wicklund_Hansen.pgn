@@ -1,0 +1,20 @@
+[Event "corr EU"]
+[Site "corr EU"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Wicklund"]
+[Black "Hansen, Bjarne"]
+[Result "0-1"]
+[ECO "B40"]
+[Opening "Sicilian"]
+[Variation "Anderssen variation"]
+[HashCode "928f24ba"]
+[Epoch "Rook"]
+[BlackID "1403176"]
+[BlackCountry "DEN"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Nxc6 bxc6 7. e5 Nd5 8.
+Ne4 Qc7 9. f4 Qb6 10. c4 Ne3 11. Qd3 Qb4+ 12. Kf2 Nf5 13. b3 Qb6+ 14. Ke1 Be7
+15. Be2 O-O 16. Bg4 Qd4 17. Qxd4 Nxd4 18. Bd1 Bb7 19. Rg1 c5 20. Nd2 f6 21. Bb2
+fxe5 22. fxe5 Rf5 23. Bxd4 cxd4 24. Nf3 Bb4+ 25. Ke2 Bc3 26. Rc1 Bxf3+ 27. gxf3
+Rxe5+ 28. Kf2 Bd2 0-1

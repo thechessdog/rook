@@ -1,0 +1,23 @@
+[Event "Gausdal Int"]
+[Site "Gausdal"]
+[Date "1980.??.??"]
+[Round "?"]
+[White "Villeneuve, Alain"]
+[Black "Karlsson, Lars"]
+[Result "0-1"]
+[ECO "A30"]
+[Opening "English"]
+[Variation "symmetrical variation"]
+[HashCode "db8b27fa"]
+[Epoch "Rook"]
+[WhiteID "600415"]
+[BlackID "1700057"]
+[WhiteCountry "FRA"]
+[BlackCountry "SWE"]
+
+1. c4 c5 2. Nf3 e6 3. g3 b6 4. Bg2 Bb7 5. O-O Nf6 6. d4 cxd4 7. Qxd4 Be7 8. Nc3
+O-O 9. Rd1 d6 10. b3 Qc8 11. Ba3 Rd8 12. e4 Na6 13. Qe3 Nc5 14. Nd4 a6 15. Bb2
+Bf8 16. Rac1 Qc7 17. h3 Rac8 18. Kh1 Qb8 19. Rc2 Qa8 20. f3 Re8 21. Rcd2 Ncd7
+22. Qf2 Qb8 23. Nc2 Ba8 24. Bf1 Nc5 25. Re1 Re7 26. b4 Ncd7 27. Ne3 Ne5 28. Rc1
+b5 29. Kh2 bxc4 30. a3 Rec7 31. Na2 Nxf3+ 32. Qxf3 Nxe4 33. Rdc2 Nc3 34. Qh5
+Nxa2 35. Ng4 c3 36. Bd3 0-1

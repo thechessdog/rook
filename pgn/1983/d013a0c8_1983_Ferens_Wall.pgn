@@ -1,0 +1,19 @@
+[Event "Dayton,OH"]
+[Site "Dayton,OH"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Ferens, Dan"]
+[Black "Wall, Bill"]
+[Result "0-1"]
+[ECO "A65"]
+[Opening "Benoni"]
+[Variation "6.e4"]
+[HashCode "d013a0c8"]
+[Epoch "Rook"]
+[BlackCountry "USA"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 Be7 7. Nf3 O-O 8. Be2
+b5 9. Qc2 c4 10. Nxb5 Ba6 11. Nc3 Nbd7 12. Be3 Ng4 13. Bd4 Bf6 14. h3 Nge5 15.
+Nxe5 Bxe5 16. Bxe5 Nxe5 17. O-O Qh4 18. f4 Ng6 19. Qd2 f5 20. Kh2 fxe4 21. g3
+Qh6 22. Nxe4 Bc8 23. Nf2 Ne5 24. h4 Rb8 25. Qc3 Ng6 26. Bxc4 Nxh4 27. gxh4
+Qxh4+ 28. Kg1 Rf6 0-1

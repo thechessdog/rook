@@ -1,0 +1,18 @@
+[Event "corr ch-DEN"]
+[Site "corr ch-DEN"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Korning, P."]
+[Black "Waagner Nielsen, Ch"]
+[Result "1/2-1/2"]
+[ECO "A06"]
+[Opening "Reti"]
+[Variation "Nimzovich-Larsen attack"]
+[HashCode "eac9520d"]
+[Epoch "Rook"]
+
+1. Nf3 d5 2. b3 Bg4 3. Bb2 Nd7 4. g3 Bxf3 5. exf3 Ngf6 6. Bg2 e6 7. O-O Bd6
+8. f4 O-O 9. Re1 c6 10. d3 a5 11. a4 Qc7 12. Nd2 e5 13. fxe5 Bxe5 14. Bxe5
+Nxe5 15. d4 Ned7 16. Qf3 Rfe8 17. Bh3 Nf8 18. Qd3 Re7 19. Rxe7 Qxe7 20. Nf3
+1/2-1/2
+

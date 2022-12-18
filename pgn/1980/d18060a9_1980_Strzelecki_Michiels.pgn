@@ -1,0 +1,23 @@
+[Event "Groningen ch-EU jr"]
+[Site "Groningen ch-EU jr"]
+[Date "1980.01.01"]
+[Round "9"]
+[White "Strzelecki, Krzysztof"]
+[Black "Michiels, Dirk"]
+[Result "1-0"]
+[ECO "B69"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...a6 defence, 11.Bxf6"]
+[HashCode "d18060a9"]
+[Epoch "Rook"]
+[WhiteID "1100335"]
+[WhiteCountry "POL"]
+[BlackID "231363"]
+[BlackCountry "BEL"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd2 a6 8.
+O-O-O Bd7 9. f4 Be7 10. Nf3 b5 11. Bxf6 gxf6 12. Kb1 Qb6 13. f5 Qc5 14. g3 Ne5
+15. Nd4 Rc8 16. Rc1 Nc4 17. Bxc4 bxc4 18. Ka1 a5 19. Rhf1 a4 20. a3 Rb8 21. Rb1
+h5 22. Nce2 e5 23. Nf3 d5 24. exd5 Bxf5 25. Nxe5 Bxc2 26. Qxc2 fxe5 27. Qf5 Rb3
+28. Nc1 Re3 29. Qxf7+ Kd8 30. d6 Bxd6 31. Qf6+ Kd7 32. Qxh8 c3 33. Qh7+ Kc6 34.
+Qc2 cxb2+ 35. Kxb2 1-0

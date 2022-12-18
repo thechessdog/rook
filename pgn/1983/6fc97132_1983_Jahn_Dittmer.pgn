@@ -1,0 +1,19 @@
+[Event "corr DDR/FS"]
+[Site "corr DDR/FS"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Jahn"]
+[Black "Dittmer"]
+[Result "0-1"]
+[ECO "C36"]
+[Opening "KGA"]
+[Variation "Abbazia defence, modern variation"]
+[HashCode "6fc97132"]
+[Epoch "Rook"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 d5 4. exd5 Nf6 5. Bb5+ c6 6. dxc6 Nxc6 7. d4 Bd6
+8. Nc3 O-O 9. Bxc6 bxc6 10. O-O Bg4 11. Ne2 Nd5 12. c4 Ne3 13. Bxe3 fxe3
+14. Ne5 Qg5 15. Nxg4 Qxg4 16. Nc3 Qh4 17. g3 Bxg3 18. hxg3 Qxg3+ 19. Kh1
+Qh4+ 20. Kg1 f5 21. Qf3 Rf6 22. Rf2 exf2+ 23. Kf1 Rg6 24. Ne2 Re8 25. d5
+Rxe2 26. Kxe2 Rg1 0-1
+

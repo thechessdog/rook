@@ -1,0 +1,21 @@
+[Event "Regionalliga Nord"]
+[Site "RLN 8081"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Brumm, Carsten, Dr."]
+[Black "Olzem, Lothar"]
+[Result "1-0"]
+[ECO "B99"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7...Be7 main line"]
+[HashCode "cf713455"]
+[Epoch "Rook"]
+[WhiteID "4606833"]
+[WhiteCountry "GER"]
+[BlackID "4607716"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3
+Qc7 9. O-O-O Nbd7 10. Bd3 b5 11. Rhe1 Bb7 12. Nd5 exd5 13. Nf5 Bf8 14. e5 dxe5
+15. fxe5 Ne4 16. Bxe4 dxe4 17. Rxe4 Qc6 18. e6 Nf6 19. e7 Rc8 20. exf8=Q+ Kxf8
+21. Qa3+ 1-0

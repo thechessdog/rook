@@ -1,0 +1,24 @@
+[Event "FIDE (31) 1979-1981"]
+[Site "Rio de Janeiro izt"]
+[Date "1979.09.01"]
+[Round "1"]
+[White "Sunye Neto, Jaime"]
+[Black "Harandi, Khosro"]
+[Result "1-0"]
+[ECO "E18"]
+[Opening "Queen's Indian"]
+[Variation "old main line, 7.Nc3"]
+[HashCode "1fcb23dc"]
+[Epoch "Rook"]
+[WhiteID "2100037"]
+[WhiteCountry "BRA"]
+[BlackID "12500011"]
+[BlackCountry "IRI"]
+
+1. c4 Nf6 2. Nf3 b6 3. g3 Bb7 4. Bg2 e6 5. O-O Be7 6. d4 O-O 7. Nc3 Ne4 8. Bd2
+d6 9. Ne1 Nxc3 10. Bxc3 Bxg2 11. Nxg2 Bf6 12. Qd3 c5 13. Rad1 Nd7 14. Ne3 cxd4
+15. Bxd4 Nc5 16. Qc3 Bxd4 17. Qxd4 Nb7 18. f4 f5 19. Nc2 Qf6 20. b3 Rac8 21. e4
+Qxd4+ 22. Nxd4 fxe4 23. Nxe6 Rfe8 24. Nd4 a6 25. Rf2 Rc5 26. Nc2 b5 27. Ne3
+bxc4 28. Nxc4 Rd8 29. Rfd2 Kf8 30. Rd4 Rcc8 31. Kf2 Nc5 32. Nxd6 Nd3+ 33. R4xd3
+exd3 34. Nxc8 Rxc8 35. Ke3 Rc2 36. Rd2 Rc1 37. Kxd3 Ke7 38. Rc2 Rd1+ 39. Kc4
+Rd7 40. Kb4 Rd5 1-0

@@ -1,0 +1,17 @@
+[Event "Alicante"]
+[Site "Alicante"]
+[Date "1978.??.??"]
+[Round "12"]
+[White "Sanz, J."]
+[Black "Ermenkov, Evgenij"]
+[Result "1/2-1/2"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...g6"]
+[HashCode "4fda19a1"]
+[Epoch "Rook"]
+[BlackID "2900106"]
+[BlackCountry "FID"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 g6 6. cxd5 Nxd5 7. Nf3 Bg7 8.
+Be2 O-O 9. O-O Nc6 10. h3 b6 1/2-1/2

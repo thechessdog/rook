@@ -1,0 +1,16 @@
+[Event "corr Atars mem"]
+[Site "corr Atars mem"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Strelis, V."]
+[Black "Niemand, G."]
+[Result "0-1"]
+[ECO "C40"]
+[Opening "Latvian counter-gambit"]
+[HashCode "b88f10c0"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 f5 3. Nxe5 Qf6 4. Nc4 fxe4 5. Nc3 Qf7 6. Nxe4 d5 7. Qe2
+dxe4 8. Ne5 Qe6 9. Qh5+ g6 10. Nxg6 Qxg6 11. Qe5+ Be7 12. Qxc7 Bd7 13. d4
+Qd6 0-1
+

@@ -1,0 +1,16 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Munteanu"]
+[Black "Calpona"]
+[Result "0-1"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "Italian variation"]
+[HashCode "89cf0f61"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nf6 3. Bc4 Nxe4 4. Qe2 d5 5. Nxe5 Be6 6. Bb3 Qg5 7. O-O
+Qxe5 8. d3 Bd6 9. f4 Bc5+ 10. Be3 Ng3 11. hxg3 Bxe3+ 12. Kh1 Bxf4 0-1
+

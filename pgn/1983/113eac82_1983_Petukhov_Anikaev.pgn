@@ -1,0 +1,21 @@
+[Event "Krasnodar"]
+[Site "Krasnodar"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Petukhov"]
+[Black "Anikaev"]
+[Result "0-1"]
+[ECO "A34"]
+[Opening "English"]
+[Variation "symmetrical, Rubinstein system"]
+[HashCode "113eac82"]
+[Epoch "Rook"]
+
+1. c4 Nf6 2. Nc3 c5 3. g3 d5 4. cxd5 Nxd5 5. Bg2 Nc7 6. Qb3 Nc6 7. Bxc6+
+bxc6 8. Nf3 f6 9. O-O Bh3 10. Re1 e5 11. d3 Ne6 12. Be3 Rb8 13. Qa4 Qd7 14.
+Rac1 Rxb2 15. Nd2 Rb4 16. Qa5 Nd4 17. Nde4 Qe7 18. Na4 c4 19. Bxd4 Rb5 20.
+Qa6 exd4 21. Qxc6+ Bd7 22. Qa8+ Kf7 23. Rxc4 Ra5 24. Nac5 Bh3 25. Rb1 Rxa2
+26. Rcb4 Kg6 27. Rb8 Rxe2 28. Qd5 Qc7 29. R8b5 Rc2 30. Re1 Bxc5 31. Nxc5
+Qe5 32. Qxe5 fxe5 33. Ne4 Re8 34. Ra5 Rc7 35. Nd2 Rce7 36. Nf3 Kf6 37. Ra6+
+Re6 0-1
+

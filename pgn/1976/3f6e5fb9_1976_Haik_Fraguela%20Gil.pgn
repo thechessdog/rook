@@ -1,0 +1,20 @@
+[Event "Lanzarote"]
+[Site "Lanzarote"]
+[Date "1976.??.??"]
+[Round "1"]
+[White "Haik, Aldo"]
+[Black "Fraguela Gil, Jose M."]
+[Result "1-0"]
+[ECO "A57"]
+[Opening "Benko gambit"]
+[Variation "Nescafe Frappe attack"]
+[HashCode "3f6e5fb9"]
+[Epoch "Rook"]
+[WhiteID "600091"]
+[WhiteCountry "FRA"]
+[BlackID "2201011"]
+[BlackCountry "ESP"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. Nc3 axb5 6. e4 b4 7. Nb5 d6 8. Bc4
+Nxe4 9. Qe2 Nf6 10. Bf4 Ra6 11. Nxd6+ Rxd6 12. Bb5+ Rd7 13. Bxb8 Nxd5 14. O-O-O
+Bb7 15. Nf3 Qxb8 16. Ne5 Qa8 17. Bxd7+ Kd8 18. Qb5 e6 19. Bxe6 1-0

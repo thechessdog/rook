@@ -1,0 +1,17 @@
+[Event "Dayton,OH"]
+[Site "Dayton,OH"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Wall, Bill"]
+[Black "Campelli, C."]
+[Result "1-0"]
+[ECO "A38"]
+[Opening "English"]
+[Variation "symmetrical, main line with d3"]
+[HashCode "904900bf"]
+[Epoch "Rook"]
+[WhiteCountry "USA"]
+
+1. c4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. Nf3 Nf6 6. O-O O-O 7. d3 d6 8. h3
+Bd7 9. Be3 Qc8 10. Nd5 Bxh3 11. Nf4 Bxg2 12. Kxg2 Ng4 13. Qc1 Nce5 14. Nd5
+Nxe3+ 15. Qxe3 Qd7 16. Rh1 Rae8 17. Nxe5 Bxe5 18. Qh6 1-0

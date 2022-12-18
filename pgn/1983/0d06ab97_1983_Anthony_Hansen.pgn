@@ -1,0 +1,17 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Anthony, Torben W"]
+[Black "Hansen, Soren Bech"]
+[Result "1/2-1/2"]
+[ECO "E14"]
+[Opening "Queen's Indian"]
+[Variation "4.e3"]
+[HashCode "0d06ab97"]
+[Epoch "Rook"]
+[BlackID "1400681"]
+[BlackCountry "DEN"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. e3 Bb7 5. Bd3 Nc6 6. O-O Be7 7. Nc3 O-O 8. b3
+Nb4 9. Be2 c5 10. Bb2 cxd4 11. Nxd4 a6 12. Rc1 Rc8 1/2-1/2

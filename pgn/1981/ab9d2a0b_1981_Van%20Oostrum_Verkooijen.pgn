@@ -1,0 +1,15 @@
+[Event "HMC"]
+[Site "HMC"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Van Oostrum, H."]
+[Black "Verkooijen"]
+[Result "1-0"]
+[ECO "A04"]
+[Opening "Reti opening"]
+[HashCode "ab9d2a0b"]
+[Epoch "Rook"]
+
+1. Nf3 Nc6 2. g3 f5 3. Bg2 Nf6 4. c4 e5 5. Nc3 d6 6. d4 e4 7. Ng5 d5 8.
+cxd5 Nxd5 9. Qb3 Ndb4 10. Qf7# 1-0
+

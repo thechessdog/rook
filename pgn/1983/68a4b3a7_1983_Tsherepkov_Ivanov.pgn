@@ -1,0 +1,18 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Tsherepkov"]
+[Black "Ivkov, Borislav"]
+[Result "1-0"]
+[ECO "A52"]
+[Opening "Budapest"]
+[Variation "Adler variation"]
+[HashCode "68a4b3a7"]
+[Epoch "Rook"]
+[BlackID "900141"]
+[BlackCountry "SRB"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ng4 4. Nf3 Nc6 5. Nc3 Ngxe5 6. Nxe5 Nxe5 7. e4 Bc5
+8. Be2 d6 9. O-O h5 10. Nd5 Qh4 11. b4 Bb6 12. c5 dxc5 13. bxc5 Ba5 14. Bd2
+Bxd2 15. Nxc7+ Kf8 16. Qxd2 Rb8 17. Qd6+ Qe7 18. Ne6+ 1-0

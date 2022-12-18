@@ -1,0 +1,21 @@
+[Event "Denmark"]
+[Site "Denmark"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Hoiberg, Nina"]
+[Black "Pontoppidan, Erik"]
+[Result "1-0"]
+[ECO "B02"]
+[Opening "Alekhine's defence"]
+[Variation "Scandinavian variation"]
+[HashCode "a1cccf06"]
+[Epoch "Rook"]
+[WhiteID "1400720"]
+[BlackID "1403478"]
+[WhiteCountry "DEN"]
+[BlackCountry "DEN"]
+
+1. e4 Nf6 2. Nc3 d5 3. e5 Ng4 4. d4 g6 5. Be2 Nh6 6. Bf4 Nc6 7. Qd2 Nf5 8. Nf3
+e6 9. g4 Nfe7 10. Bh6 Nb4 11. Bxf8 Rxf8 12. a3 Nbc6 13. Qh6 f5 14. exf6 Rxf6
+15. Qxh7 Qd6 16. Ne5 Nxd4 17. g5 Nxc2+ 18. Kd1 Rxf2 19. Nxg6 Nxa1 20. Nb5 Qc5
+21. Qh8+ Ng8 22. Qxg8+ Rf8 23. Nxc7+ Qxc7 24. Bb5+ Bd7 25. Qxf8# 1-0

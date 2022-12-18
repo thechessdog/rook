@@ -1,0 +1,19 @@
+[Event "Zamardi op"]
+[Site "Zamardi"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Bielczyk, Jacek"]
+[Black "Ungureanu, Emil"]
+[Result "1/2-1/2"]
+[ECO "B93"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.f4"]
+[HashCode "79e7176e"]
+[Epoch "Rook"]
+[WhiteID "1100530"]
+[WhiteCountry "POL"]
+[BlackCountry "ROU"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 e5 7. Nf3 Qc7 8. a3
+Be7 9. Bd3 b6 10. O-O Bb7 11. Qe2 Nbd7 12. Kh1 O-O 13. fxe5 dxe5 14. Nd2 Nc5
+15. Nc4 1/2-1/2

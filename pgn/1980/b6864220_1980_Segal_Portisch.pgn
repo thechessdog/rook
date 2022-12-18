@@ -1,0 +1,25 @@
+[Event "Dortmund"]
+[Site "Dortmund"]
+[Date "1980.01.01"]
+[Round "9"]
+[White "Segal, Alexandru Sorin"]
+[Black "Portisch, Ferenc"]
+[Result "0-1"]
+[ECO "E76"]
+[Opening "King's Indian"]
+[Variation "Four pawns attack, dynamic line"]
+[HashCode "b6864220"]
+[Epoch "Rook"]
+[WhiteID "2100150"]
+[WhiteCountry "BRA"]
+[BlackID "700487"]
+[BlackCountry "HUN"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f4 O-O 6. Nf3 c5 7. d5 b5 8. cxb5 a6
+9. a4 axb5 10. Bxb5 Na6 11. O-O Nb4 12. Qe2 Qb6 13. h3 Ne8 14. Be3 Nc7 15. Bc4
+Ba6 16. Rac1 Bxc4 17. Qxc4 Qa6 18. Qxa6 Rxa6 19. Rfd1 Bxc3 20. bxc3 Na2 21. Rc2
+Rxa4 22. e5 Ra3 23. Bd2 Nxd5 24. Bc1 Nxc1 25. Rxd5 Rxc3 26. exd6 Rxc2 27. dxe7
+Ne2+ 28. Kh2 Re8 29. Rd8 f6 30. Rxe8+ Kf7 31. Rh8 Kxe7 32. Rxh7+ Ke6 33. Rc7
+Nxf4 34. Nd4+ Kd6 35. Nxc2 Kxc7 36. Kg3 Ne6 37. Kf3 Kd6 38. Ne3 f5 39. h4 Ke5
+40. Nc4+ Kd4 41. Na3 Kd3 42. g4 f4 43. Nb5 c4 44. h5 g5 45. Nc7 c3 46. Nxe6 c2
+47. Nc5+ Kc4 48. Ne6 c1=Q 0-1

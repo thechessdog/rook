@@ -1,0 +1,21 @@
+[Event "New York Int"]
+[Site "New York Int"]
+[Date "1984.01.01"]
+[Round "7"]
+[White "Roos, Daniel"]
+[Black "Zapata, Alonso"]
+[Result "0-1"]
+[ECO "B25"]
+[Opening "Sicilian"]
+[Variation "closed, 6.f4"]
+[HashCode "3f0ba987"]
+[Epoch "Rook"]
+[WhiteID "600253"]
+[WhiteCountry "FRA"]
+[BlackID "4400011"]
+[BlackCountry "COL"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. f4 b6 7. Nf3 Bb7 8. O-O Qd7
+9. Be3 f5 10. exf5 gxf5 11. Re1 Nf6 12. h3 O-O-O 13. Bf2 e5 14. Nh4 exf4 15.
+gxf4 d5 16. d4 Ne4 17. Nxe4 dxe4 18. Qh5 Bxd4 19. Qxf5 Rhg8 20. Re2 e3 21.
+Qxd7+ Rxd7 22. Bxe3 Bxe3+ 23. Rxe3 Nd4 24. Rf1 Nf5 0-1

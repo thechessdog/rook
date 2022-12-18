@@ -1,0 +1,20 @@
+[Event "corr JSM"]
+[Site "corr JSM"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Ilkka, Eero"]
+[Black "Sarkilahti, Osmo"]
+[Result "1-0"]
+[ECO "B19"]
+[Opening "Caro-Kann"]
+[Variation "classical, Spassky variation"]
+[HashCode "e732d9a3"]
+[Epoch "Rook"]
+[BlackID "507806"]
+[BlackCountry "FIN"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6 7. Nf3 Nd7 8. h5
+Bh7 9. Bd3 Bxd3 10. Qxd3 Qc7 11. Bd2 e6 12. Qe2 Ngf6 13. O-O-O Bd6 14. Nf5 Bf4
+15. Kb1 Bxd2 16. Nxd2 O-O-O 17. Ne3 e5 18. Rh4 Rhe8 19. Ndc4 Kb8 20. d5 cxd5
+21. Nxd5 Nxd5 22. Rxd5 Nf6 23. Rxd8+ Qxd8 24. Rh1 Qd5 25. Rd1 Qxg2 26. Nd6 Re7
+27. Nb5 Nd7 28. Rxd7 Rxd7 29. Qxe5+ Kc8 30. Qc5+ 1-0

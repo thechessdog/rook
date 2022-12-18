@@ -1,0 +1,18 @@
+[Event "Augsburg"]
+[Site "Augsburg"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Fleck"]
+[Black "Krewson"]
+[Result "1-0"]
+[ECO "D02"]
+[Opening "Queen's pawn game, Chigorin variation"]
+[HashCode "15bc5c32"]
+[Epoch "Rook"]
+
+1. d4 d5 2. Nf3 Nc6 3. c4 Bg4 4. cxd5 Bxf3 5. gxf3 Qxd5 6. e3 e5 7. Nc3 Bb4
+8. Bd2 Bxc3 9. bxc3 exd4 10. cxd4 Nge7 11. Bd3 O-O-O 12. Rb1 Qxa2 13. O-O
+f5 14. Qc1 Qd5 15. Be2 g5 16. Rb5 Qd6 17. Qb1 b6 18. d5 Nxd5 19. Qxf5+ Kb8
+20. Rd1 Nde7 21. Qe4 h6 22. Bc3 Qxd1+ 23. Bxd1 Rxd1+ 24. Kg2 Rhd8 25. Bf6
+R8d7 26. Bxe7 Nxe7 27. Re5 Nc8 28. Re8 1-0
+

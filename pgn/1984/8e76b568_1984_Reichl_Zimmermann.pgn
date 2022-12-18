@@ -1,0 +1,19 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Reichl"]
+[Black "Zimmermann"]
+[Result "1-0"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, positional main line"]
+[HashCode "8e76b568"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Nf3 Nbc6
+8. Be2 Bd7 9. O-O Ng6 10. a4 c4 11. Ne1 f5 12. exf6 gxf6 13. f4 Qa5 14. Qd2
+b5 15. Ba3 bxa4 16. Nf3 Qc7 17. f5 exf5 18. Qe3+ Kf7 19. Qh6 Rhg8 20. Nh4
+Rg7 21. Bh5 Kg8 22. Nxg6 hxg6 23. Bxg6 Qa5 24. Bc5 Rb8 25. Rae1 f4 26. Qh5
+Qxc3 27. Be8 Qh3 28. Bf7+ 1-0
+

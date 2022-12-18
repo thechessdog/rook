@@ -1,0 +1,19 @@
+[Event "corr Heilimo mem"]
+[Site "corr Heilimo mem"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Diaconescu"]
+[Black "Palmo"]
+[Result "0-1"]
+[ECO "D91"]
+[Opening "Gruenfeld"]
+[Variation "5.Bg5"]
+[HashCode "83225c2f"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Bg5 Ne4 6. Bh4 Nxc3 7. bxc3 dxc4
+8. e3 b5 9. a4 c6 10. axb5 cxb5 11. Ne5 Bb7 12. Rb1 Qd5 13. Bxc4 bxc4 14.
+Qa4+ Bc6 15. Rxb8+ Rxb8 16. Nxc6 Qb5 17. Qxb5 Rxb5 18. Kd2 Kd7 19. Nb4 e5
+20. Ra1 a5 21. Nc2 exd4 22. cxd4 Rc8 23. Na3 Rb2+ 24. Nc2 Bf8 25. Kc1 Rb5
+0-1
+

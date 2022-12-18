@@ -1,0 +1,21 @@
+[Event "Czestochowa"]
+[Site "Czestochowa"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Sapis, Witalis"]
+[Black "Gizynski, Tomasz"]
+[Result "1/2-1/2"]
+[ECO "E19"]
+[Opening "Queen's Indian"]
+[Variation "old main line, 9.Qxc3"]
+[HashCode "5538f391"]
+[Epoch "Rook"]
+[WhiteID "1100254"]
+[WhiteCountry "POL"]
+[BlackID "1100360"]
+[BlackCountry "POL"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 b6 4. g3 Bb7 5. Bg2 Be7 6. O-O O-O 7. Nc3 Ne4 8. Qc2
+Nxc3 9. Qxc3 c5 10. Rd1 Bf6 11. Qd3 Nc6 12. dxc5 bxc5 13. Qxd7 Qb6 14. Bf4 Rad8
+15. Qc7 Rxd1+ 16. Rxd1 Qxb2 17. Rd7 Ba8 18. Bd6 Bd8 19. Qc8 Be7 20. Qc7 Bd8 21.
+Qc8 Be7 22. Qc7 Bd8 1/2-1/2

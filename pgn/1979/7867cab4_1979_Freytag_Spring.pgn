@@ -1,0 +1,17 @@
+[Event "Cincinnati"]
+[Site "Cincinnati"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Freytag, R."]
+[Black "Spring, R."]
+[Result "0-1"]
+[ECO "C64"]
+[Opening "Ruy Lopez"]
+[Variation "classical (Cordel) defence"]
+[HashCode "7867cab4"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. O-O Qf6 5. d3 h6 6. Nbd2 Nge7 7. Nb3 Bb6
+8. c3 O-O 9. Qc2 d6 10. h3 Ng6 11. Re1 Bxh3 12. Qe2 Bg4 13. Nbd2 Nf4 14.
+Qf1 Nh5 15. Nh2 Be6 16. Bc4 Ng3 0-1
+

@@ -1,0 +1,18 @@
+[Event "corr DDR/FS"]
+[Site "corr DDR/FS"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Lehmann, Heinz Dr"]
+[Black "Schaefer"]
+[Result "1-0"]
+[ECO "C11"]
+[Opening "French"]
+[Variation "Burn variation"]
+[HashCode "2eef1244"]
+[Epoch "Rook"]
+[WhiteCountry "DEU"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 dxe4 5. Nxe4 Be7 6. Nxf6+ Bxf6 7. Nf3 Nd7
+8. Qd2 Be7 9. O-O-O c6 10. g4 b6 11. Qf4 Nf6 12. Ne5 Qc7 13. Bg2 O-O 14. Bxf6
+gxf6 15. Qh6 fxe5 16. Be4 f5 17. gxf5 Bf6 18. Rhg1+ Bg7 19. f6 Rf7 20. Qxh7+
+Kf8 21. fxg7+ Rxg7 22. Qh8+ Rg8 23. Qxg8+ Ke7 24. Rg7+ 1-0

@@ -1,0 +1,20 @@
+[Event "Helsinki"]
+[Site "Helsinki"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Farago, Ivan"]
+[Black "Lukacs, Peter"]
+[Result "1/2-1/2"]
+[ECO "E18"]
+[Opening "Queen's Indian"]
+[Variation "old main line, 7.Nc3"]
+[HashCode "59201e90"]
+[Epoch "Rook"]
+[WhiteID "700134"]
+[BlackID "700142"]
+[WhiteCountry "HUN"]
+[BlackCountry "HUN"]
+
+1. c4 e6 2. Nf3 b6 3. g3 Bb7 4. Bg2 Nf6 5. O-O Be7 6. d4 O-O 7. Nc3 Ne4 8. Nxe4
+Bxe4 9. Nh4 Bxg2 10. Nxg2 d5 11. Qa4 dxc4 12. Qxc4 c5 13. dxc5 Bxc5 14. Be3 Nd7
+15. Rfd1 Qc8 16. Rac1 Qb7 17. Bxc5 Nxc5 1/2-1/2

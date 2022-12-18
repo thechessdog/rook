@@ -1,0 +1,18 @@
+[Event "Plauen"]
+[Site "Plauen"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Lorenz, Gerd"]
+[Black "Zinn, Lothar"]
+[Result "1-0"]
+[ECO "B30"]
+[Opening "Sicilian defence"]
+[HashCode "01090ae6"]
+[Epoch "Rook"]
+[BlackCountry "DEU"]
+[WhiteID "4612272"]
+[WhiteCountry "GER"]
+
+1. e4 c5 2. Nf3 Nc6 3. c3 d5 4. exd5 Qxd5 5. d4 Nf6 6. Be2 Bf5 7. O-O e6 8. Re1
+Be7 9. Bb5 O-O 10. c4 Qd8 11. d5 exd5 12. cxd5 Qxd5 13. Qxd5 Nxd5 14. Nc3 Rad8
+15. Nxd5 1-0

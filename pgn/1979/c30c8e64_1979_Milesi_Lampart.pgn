@@ -1,0 +1,16 @@
+[Event "Lugano"]
+[Site "Lugano"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Milesi"]
+[Black "Lampart"]
+[Result "0-1"]
+[ECO "C59"]
+[Opening "Two knights defence"]
+[HashCode "c30c8e64"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 Na5 6. Bb5+ c6 7. dxc6
+bxc6 8. Be2 h6 9. Nf3 e4 10. Ne5 Bd6 11. f4 exf3 12. Nxf3 Ng4 13. Nc3 Nxh2
+14. Nxh2 Bg3+ 15. Kf1 Qd4 0-1
+

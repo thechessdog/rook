@@ -1,0 +1,17 @@
+[Event "Tubingen"]
+[Site "Tubingen"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Schlenker, Rainer"]
+[Black "Hillesheim"]
+[Result "1-0"]
+[ECO "A00"]
+[Opening "Dunst (Sleipner, Heinrichsen) opening"]
+[HashCode "3f7cd2f4"]
+[Epoch "Rook"]
+[WhiteID "4605837"]
+[WhiteCountry "GER"]
+
+1. Nc3 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Bc5 5. Nf5 Qf6 6. e4 Nge7 7. Ne3 O-O 8.
+Bd3 d6 9. O-O Ng6 10. Ncd5 Qd8 11. Nf5 Bxf5 12. exf5 Nge5 13. f6 gxf6 14. Bf5
+Nd4 15. Qh5 Ng6 16. Re1 Nxf5 17. Qxf5 Kg7 18. Re7 Bd4 19. Rxc7 Re8 20. Bg5 1-0

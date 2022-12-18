@@ -1,0 +1,23 @@
+[Event "Nijmegen rapid"]
+[Site "Nijmegen rapid"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Timman, Jan H"]
+[Black "Panno, Oscar"]
+[Result "1-0"]
+[ECO "C16"]
+[Opening "French"]
+[Variation "Winawer, Petrosian variation"]
+[HashCode "e5f5b565"]
+[Epoch "Rook"]
+[WhiteID "1000012"]
+[WhiteCountry "NED"]
+[BlackID "100153"]
+[BlackCountry "ARG"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 Qd7 5. Bd2 b6 6. Nf3 Ba6 7. Bxa6 Nxa6 8. Qe2
+Nb8 9. Nd1 Bf8 10. Ne3 Ne7 11. Rc1 Nbc6 12. O-O h6 13. c4 dxc4 14. Qxc4 O-O-O
+15. b4 Kb7 16. b5 Nb8 17. a4 c6 18. bxc6+ Nexc6 19. a5 Nxa5 20. Bxa5 bxa5 21.
+Rfd1 Rc8 22. Qd3 Bb4 23. Qe4+ Ka6 24. Ra1 Qb5 25. d5 Rhd8 26. Nd4 exd5 27. Qg4
+Qd7 28. e6 fxe6 29. Nxe6 Bc3 30. Rab1 Bb4 31. Rxb4 axb4 32. Qxb4 Qb5 33. Ra1+
+Kb6 34. Qd4+ Kc6 35. Qxa7 Kd6 36. Nxd8 Rxd8 37. Nf5+ Ke6 38. Re1+ 1-0

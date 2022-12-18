@@ -1,0 +1,17 @@
+[Event "corr ICCF thematic"]
+[Site "corr ICCF thematic"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Jensen, NJ."]
+[Black "Evans, R."]
+[Result "0-1"]
+[ECO "D00"]
+[Opening "Blackmar gambit"]
+[HashCode "5e6f3061"]
+[Epoch "Rook"]
+
+1. d4 d5 2. e4 dxe4 3. Nc3 Nf6 4. f3 exf3 5. Nxf3 g6 6. Bc4 Bg7 7. O-O O-O
+8. Qe1 Nbd7 9. Qh4 Nb6 10. Bd3 Nbd5 11. Ne5 Nxc3 12. bxc3 Be6 13. g4 Nd5
+14. c4 Nb4 15. g5 Nxd3 16. cxd3 Bxe5 17. dxe5 Qxd3 18. Rf4 Qd1+ 19. Kg2
+Rad8 20. Rf3 Qc2+ 21. Kg3 Qxc4 0-1
+

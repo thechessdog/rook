@@ -1,0 +1,18 @@
+[Event "corr EUR/M"]
+[Site "corr EUR/M"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Krilov, P."]
+[Black "Kubler, A."]
+[Result "1-0"]
+[ECO "B93"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.f4"]
+[HashCode "30d84d68"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 Qc7 7. Bd3 Nc6 8.
+Be3 g6 9. Qd2 Bg7 10. O-O-O Ng4 11. Nd5 Qb8 12. Be2 Nxe3 13. Qxe3 Nxd4 14.
+Rxd4 Bxd4 15. Qxd4 e5 16. fxe5 O-O 17. Nf6+ Kg7 18. exd6 Rg8 19. Nh5+ Kh6
+20. Qd2+ 1-0
+

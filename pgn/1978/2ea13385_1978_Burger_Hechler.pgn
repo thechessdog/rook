@@ -1,0 +1,23 @@
+[Event "corr DFSM"]
+[Site "corr DFSM"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Burger, Karl"]
+[Black "Hechler"]
+[Result "1-0"]
+[ECO "E04"]
+[Opening "Catalan"]
+[Variation "open, 5.Nf3"]
+[HashCode "2ea13385"]
+[Epoch "Rook"]
+[WhiteCountry "USA"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Bg2 dxc4 5. Nf3 Bb4+ 6. Bd2 Be7 7. Qc2 a6 8. a4
+Nc6 9. Qxc4 Qd5 10. Qxd5 Nxd5 11. O-O O-O 12. Na3 Rd8 13. Rfc1 Bd7 14. a5 Rac8
+15. Nc4 Be8 16. e3 Na7 17. Nfe5 Nb5 18. Nd3 h6 19. b4 c6 20. Nc5 Rb8 21. Rd1
+Ndc7 22. Bh3 Kf8 23. Be1 Bxc5 24. bxc5 f6 25. Nd6 Bf7 26. e4 Nxd6 27. cxd6 Nb5
+28. Bb4 Ke8 29. d5 cxd5 30. exd5 f5 31. Re1 Nd4 32. dxe6 Bxe6 33. Bxf5 Kd7 34.
+Bxe6+ Nxe6 35. f4 Rf8 36. Re5 g6 37. Rae1 Rbe8 38. Kf2 h5 39. Ke3 b6 40. axb6
+Rb8 41. Ba5 Rfc8 42. Kd3 Nc5+ 43. Kc4 Nb7+ 44. Kb4 Nd8 45. Re7+ Kxd6 46. R7e3
+Nc6+ 47. Ka4 Nd4 48. Bb4+ Kd5 49. Re5+ Kc6 50. Rc1+ Kxb6 51. Bc5+ Rxc5 52.
+Rexc5 Rd8 53. R5c4 Rd5 54. Rd1 Ra5+ 55. Kb4 Nf5 56. Rc6+ Kxc6 57. Kxa5 1-0

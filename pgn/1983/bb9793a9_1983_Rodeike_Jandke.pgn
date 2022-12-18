@@ -1,0 +1,17 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Rodeike, H."]
+[Black "Jandke, M."]
+[Result "0-1"]
+[ECO "E87"]
+[Opening "King's Indian"]
+[Variation "Saemisch, orthodox, 7.d5"]
+[HashCode "bb9793a9"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 O-O 5. f3 d6 6. Be3 e5 7. d5 Nh5 8. Qd2
+f5 9. O-O-O a6 10. Bd3 Nd7 11. Nge2 Nc5 12. Bc2 b5 13. cxb5 axb5 14. Nxb5
+Rxa2 15. Nec3 Ra1+ 16. Nb1 fxe4 17. fxe4 Ba6 0-1
+

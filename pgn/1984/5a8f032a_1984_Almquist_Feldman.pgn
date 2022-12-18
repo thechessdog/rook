@@ -1,0 +1,16 @@
+[Event "Plymouth ch-MI op"]
+[Site "Plymouth ch-MI op"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Almquist, W."]
+[Black "Feldman, J."]
+[Result "1-0"]
+[ECO "C65"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence"]
+[HashCode "5a8f032a"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d4 exd4 5. e5 Ng4 6. O-O d6 7. Nxd4 Bd7
+8. Bxc6 bxc6 9. e6 c5 10. exd7+ Qxd7 11. Qf3 O-O-O 12. Qa8# 1-0
+

@@ -1,0 +1,23 @@
+[Event "Espergarde op"]
+[Site "Espergarde"]
+[Date "1977.01.01"]
+[Round "2"]
+[White "Hoi, Carsten"]
+[Black "Moe, Mogens"]
+[Result "1-0"]
+[ECO "B31"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (with ...g6, without ...d6)"]
+[HashCode "c988636b"]
+[Epoch "Rook"]
+[WhiteID "1400100"]
+[WhiteCountry "DEN"]
+[BlackID "1400550"]
+[BlackCountry "DEN"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. d3 Qb6 6. a4 e6 7. Nbd2 Nge7 8. Nc4
+Qc7 9. Bg5 Nd4 10. e5 a6 11. Nxd4 cxd4 12. Qf3 Nf5 13. g4 axb5 14. axb5 Rxa1
+15. Rxa1 Bxe5 16. gxf5 Bxh2+ 17. Kh1 b6 18. Ra8 O-O 19. Bh6 Qb7 20. Nd2 Bd6 21.
+Ne4 exf5 22. Rxc8 Qxc8 23. Nxd6 Qa8 24. Kg2 Qxf3+ 25. Kxf3 Ra8 26. Nc4 d5 27.
+Nxb6 Rb8 28. Nxd5 Rxb5 29. Ne7+ Kh8 30. c4 Rxb2 31. c5 Rb7 32. Bg5 Kg7 33. c6
+Ra7 34. Nd5 Ra5 35. c7 Rc5 36. Bd8 1-0

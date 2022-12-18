@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Houtman"]
+[Black "Koevoets"]
+[Result "0-1"]
+[ECO "D31"]
+[Opening "QGD"]
+[Variation "semi-Slav"]
+[HashCode "41b45621"]
+[Epoch "Rook"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c6 4. e3 f5 5. Nf3 Bd6 6. Bd3 Nh6 7. Qc2 O-O 8. b3
+Qe8 9. Bb2 a5 10. Na4 Nd7 11. O-O Ng4 12. h3 e5 13. Bxf5 Rxf5 14. Qxf5 Ndf6
+15. Qc2 e4 16. Ne5 Bxe5 17. dxe5 Nxe5 18. Nb6 Nf3+ 19. Kh1 Bxh3 20. gxh3
+Qb8 0-1
+

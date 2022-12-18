@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Leimkuhler, D."]
+[Black "Heidsiek, E."]
+[Result "0-1"]
+[ECO "C58"]
+[Opening "two knights defence"]
+[Variation "Colman variation"]
+[HashCode "b7eece3f"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 Na5 6. Bb5+ c6 7. dxc6
+bxc6 8. Qf3 Rb8 9. Bxc6+ Nxc6 10. Qxc6+ Nd7 11. d4 Be7 12. Ne4 Rb6 13. Qa4
+O-O 14. O-O f5 15. Nc5 f4 16. Nxd7 Bxd7 17. Qxa7 Bb5 18. Re1 Bh4 19. c3
+Bxf2+ 0-1
+

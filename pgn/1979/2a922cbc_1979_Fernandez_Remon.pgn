@@ -1,0 +1,20 @@
+[Event "Cuba"]
+[Site "Cuba"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Fernandes, Antonio"]
+[Black "Remon, Adelquis"]
+[Result "1-0"]
+[ECO "D68"]
+[Opening "QGD"]
+[Variation "Orthodox defence, classical, 13.d1c2 (Vidmar)"]
+[HashCode "2a922cbc"]
+[Epoch "Rook"]
+[WhiteID "1900021"]
+[WhiteCountry "POR"]
+
+1. c4 Nf6 2. Nf3 e6 3. Nc3 d5 4. d4 Nbd7 5. Bg5 Be7 6. e3 O-O 7. Rc1 c6 8. Bd3
+dxc4 9. Bxc4 Nd5 10. Bxe7 Qxe7 11. O-O Nxc3 12. Rxc3 e5 13. Qc2 exd4 14. exd4
+Nb6 15. Re1 Qf6 16. Bb3 Bf5 17. Qd2 Bg6 18. Ne5 Rad8 19. Rce3 Nd5 20. Bxd5 Rxd5
+21. Qb4 Qd6 22. Qxb7 Rxd4 23. Nxc6 Rd2 24. Re8 h6 25. Ne7+ Kh7 26. Rxf8 Rd1 27.
+Rh8+ Kxh8 28. Qc8+ Qd8 29. Rxd1 1-0

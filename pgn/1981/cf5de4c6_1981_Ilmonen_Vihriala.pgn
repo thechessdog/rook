@@ -1,0 +1,18 @@
+[Event "corr SM/II"]
+[Site "corr SM/II"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Ilmonen, Jouko"]
+[Black "Vihriala, Martti"]
+[Result "1-0"]
+[ECO "B89"]
+[Opening "Sicilian"]
+[Variation "Velimirovic attack"]
+[HashCode "cf5de4c6"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bc4 e6 7. Be3 Be7
+8. Qe2 a6 9. Bb3 O-O 10. O-O-O Na5 11. g4 e5 12. Nf5 Nxb3+ 13. axb3 Be6 14.
+h4 g6 15. Bh6 Bxf5 16. gxf5 Re8 17. fxg6 hxg6 18. h5 Nh7 19. hxg6 Bg5+ 20.
+Kb1 fxg6 21. Qc4+ Kh8 22. Bxg5 1-0
+

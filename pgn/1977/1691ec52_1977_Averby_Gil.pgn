@@ -1,0 +1,17 @@
+[Event "corr SWE/K"]
+[Site "corr SWE/K"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Averby, Rune"]
+[Black "Gil, Antonio"]
+[Result "1/2-1/2"]
+[ECO "C09"]
+[Opening "French"]
+[Variation "Tarrasch, open variation, main line"]
+[HashCode "1691ec52"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. Ngf3 Nc6 5. exd5 exd5 6. Bb5 Bd6 7. O-O Ne7
+8. dxc5 Bxc5 9. Nb3 Bd6 10. Nbd4 O-O 11. Be3 Bg4 12. h3 Bh5 13. Qd2 Rc8 14.
+c3 Bb8 15. Bf4 Bxf3 16. Nxf3 Bxf4 17. Qxf4 Qb6 18. Bxc6 Nxc6 1/2-1/2
+

@@ -1,0 +1,22 @@
+[Event "Gausdal Int"]
+[Site "Gausdal"]
+[Date "1982.01.01"]
+[Round "7"]
+[White "Tiller, Bjorn"]
+[Black "Wedberg, Tom"]
+[Result "0-1"]
+[ECO "A36"]
+[Opening "English"]
+[Variation "symmetrical, Botvinnik system reversed"]
+[HashCode "9be2eaa5"]
+[Epoch "Rook"]
+[BlackID "1700073"]
+[BlackCountry "SWE"]
+[WhiteID "1500112"]
+[WhiteCountry "NOR"]
+
+1. c4 c5 2. g3 g6 3. Bg2 Bg7 4. Nc3 Nc6 5. e3 e5 6. a3 a5 7. Nge2 Nge7 8. O-O
+d6 9. b3 O-O 10. Bb2 Rb8 11. d3 Bg4 12. Qd2 Qd7 13. Nd5 b5 14. Nec3 bxc4 15.
+bxc4 Nxd5 16. Bxd5 Rb3 17. Nb5 Ne7 18. Bg2 d5 19. Qc2 a4 20. Rab1 dxc4 21. dxc4
+Rd8 22. Nc3 Rdb8 23. Nd5 Nxd5 24. Bxd5 Bf5 25. e4 Bh3 26. Rfd1 Qg4 27. Rd3 Rxd3
+28. Qxd3 Rb3 29. f3 Qg5 30. Qe2 Bh6 31. g4 Qe3+ 32. Qf2 Rxb2 0-1

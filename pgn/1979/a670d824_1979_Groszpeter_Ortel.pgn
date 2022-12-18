@@ -1,0 +1,24 @@
+[Event "Zamardi"]
+[Site "Zamardi"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Groszpeter, Attila"]
+[Black "Ortel, Endre"]
+[Result "1-0"]
+[ECO "C06"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation, main line"]
+[HashCode "a670d824"]
+[Epoch "Rook"]
+[BlackID "701491"]
+[BlackCountry "HUN"]
+[WhiteID "700053"]
+[WhiteCountry "HUN"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. Bd3 c5 5. e5 Nfd7 6. c3 Nc6 7. Ne2 cxd4 8. cxd4
+f6 9. exf6 Nxf6 10. Nf3 Bd6 11. O-O O-O 12. Bf4 Bxf4 13. Nxf4 Qb6 14. Re1 Bd7
+15. Nxe6 Rfe8 16. Nc5 Bg4 17. Qd2 Kh8 18. Ne5 Nxd4 19. Na4 Qc7 20. Qf4 Ne6 21.
+Qg3 Bh5 22. Bf5 Qa5 23. b3 Nd4 24. Qd3 Nc6 25. f4 d4 26. Qg3 Rf8 27. Nxc6 bxc6
+28. Re5 Qd2 29. Nc5 Bf7 30. Rae1 Nh5 31. Qd3 Qxd3 32. Nxd3 Rfe8 33. Bd7 Rxe5
+34. fxe5 g6 35. Rf1 Bd5 36. e6 Ng7 37. e7 Kg8 38. Nb4 Be6 39. Bxc6 Rc8 40. Nd5
+Rxc6 41. Rf8# 1-0

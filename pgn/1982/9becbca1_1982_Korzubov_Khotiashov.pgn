@@ -1,0 +1,18 @@
+[Event "Minsk"]
+[Site "Minsk"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Korzubov, Peter"]
+[Black "Khotiashov"]
+[Result "1-0"]
+[ECO "B64"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...Be7 defence, 9.f4"]
+[HashCode "9becbca1"]
+[Epoch "Rook"]
+[WhiteCountry "BLR"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 e6 7. Qd2 Be7 8.
+O-O-O O-O 9. f4 h6 10. Bh4 Bd7 11. Nf3 Qa5 12. Kb1 Rfd8 13. Qe1 Be8 14. Bd3
+Rac8 15. Rg1 Nb4 16. a3 Nxd3 17. cxd3 Qb6 18. Bf2 Qa6 19. g4 Nd7 20. g5 hxg5
+21. Bd4 e5 22. Nd5 Bf8 23. Nxg5 g6 24. Qh4 Bg7 25. Ne7+ Kf8 26. Nh7# 1-0

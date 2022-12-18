@@ -1,0 +1,18 @@
+[Event "Dayton,OH"]
+[Site "Dayton,OH"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Bullock"]
+[Black "Trogdon, T."]
+[Result "0-1"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra gambit"]
+[HashCode "a7b72f29"]
+[Epoch "Rook"]
+
+1. e4 c5 2. d4 cxd4 3. c3 dxc3 4. Nxc3 Nc6 5. Nf3 e6 6. Bc4 a6 7. O-O Nge7
+8. Bg5 h6 9. Bh4 b5 10. Bxb5 axb5 11. Nxb5 d5 12. e5 Qb6 13. Nd6+ Kd7 14.
+Nxf7 Rg8 15. Qd3 Ba6 16. Qa3 Nf5 17. Nd6 Bxd6 18. exd6 Bxf1 19. Qc3 d4 20.
+Qe1 Bc4 0-1
+

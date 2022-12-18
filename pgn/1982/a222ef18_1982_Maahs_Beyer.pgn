@@ -1,0 +1,18 @@
+[Event "Hamburg"]
+[Site "Hamburg"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Maahs, E."]
+[Black "Beyer, Hans"]
+[Result "0-1"]
+[ECO "C33"]
+[Opening "KGA"]
+[Variation "bishop's gambit"]
+[HashCode "a222ef18"]
+[Epoch "Rook"]
+
+1. e4 e5 2. f4 exf4 3. Bc4 Be7 4. d4 Bh4+ 5. Kf1 Ne7 6. Qf3 Ng6 7. g3 Be7
+8. h4 h5 9. Bxf4 Nxf4 10. Qxf4 O-O 11. Kg2 d5 12. exd5 b5 13. Bb3 a5 14. a4
+bxa4 15. Rxa4 Nd7 16. Nc3 Nb6 17. Ra1 a4 18. Ba2 a3 19. bxa3 Rxa3 20. Nge2
+Bb7 21. Kh2 Bd6 22. Qg5 Qxg5 23. hxg5 Rfa8 24. Rhb1 h4 0-1
+

@@ -1,0 +1,17 @@
+[Event "Los Polvorines"]
+[Site "Los Polvorines"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Enricci, J."]
+[Black "D'Agostino"]
+[Result "1-0"]
+[ECO "E15"]
+[Opening "Queen's Indian"]
+[Variation "Nimzovich variation (exaggerated fianchetto)"]
+[HashCode "b4460a7c"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. Nbd2 c5 6. Bg2 Nc6 7. dxc5 bxc5
+8. O-O Be7 9. b3 O-O 10. Bb2 d6 11. Re1 Qb6 12. Qc1 Rfe8 13. Ng5 Rad8 14.
+Nde4 Ng4 15. Bh3 Nge5 16. Qf4 h6 17. Nxf7 Nxf7 18. Bxe6 Rf8 19. Qg4 1-0
+

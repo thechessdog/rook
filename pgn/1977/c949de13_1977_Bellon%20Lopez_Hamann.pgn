@@ -1,0 +1,23 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Bellon Lopez, Juan Manuel"]
+[Black "Hamann, Svend"]
+[Result "0-1"]
+[ECO "A06"]
+[Opening "Reti"]
+[Variation "Nimzovich-Larsen attack"]
+[HashCode "c949de13"]
+[Epoch "Rook"]
+[BlackID "1400193"]
+[BlackCountry "DEN"]
+[WhiteID "2200031"]
+[WhiteCountry "SWE"]
+
+1. Nf3 d5 2. b3 Bg4 3. e3 Nd7 4. Bb2 Ngf6 5. h3 Bh5 6. d3 e6 7. Nbd2 Be7 8. g4
+Bg6 9. h4 h6 10. h5 Bh7 11. Rg1 c6 12. g5 hxg5 13. Nxg5 Bg8 14. Be2 Qa5 15. a3
+O-O-O 16. c4 Qc7 17. cxd5 exd5 18. Nf1 Ne8 19. Qc2 Bf6 20. O-O-O Kb8 21. Bxf6
+Ndxf6 22. Ng3 Qe5 23. d4 Qe7 24. Kb2 Nd6 25. Nf5 Nxf5 26. Qxf5 Nxh5 27. Rh1 f6
+28. Rxh5 Rxh5 29. Bxh5 fxg5 30. Qg4 Rf8 31. Qg3+ Ka8 32. Rg1 Bh7 33. Qg2 a6 34.
+Re1 Bf5 35. Bd1 Qe4 36. Qxe4 Bxe4 37. f3 Bxf3 38. Bxf3 Rxf3 39. Rg1 0-1

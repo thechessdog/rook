@@ -1,0 +1,21 @@
+[Event "Czestochowa"]
+[Site "Czestochowa"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Szymczak, Zbigniew"]
+[Black "Starck, Bodo"]
+[Result "1-0"]
+[ECO "D10"]
+[Opening "QGD Slav defence"]
+[Variation "exchange variation"]
+[HashCode "1261352a"]
+[Epoch "Rook"]
+[WhiteID "1100424"]
+[BlackID "4611829"]
+[WhiteCountry "POL"]
+[BlackCountry "GER"]
+
+1. d4 d5 2. c4 c6 3. cxd5 cxd5 4. Nc3 Nf6 5. Bf4 Nc6 6. e3 e6 7. Nf3 Be7 8. h3
+Qb6 9. Qb3 Qxb3 10. axb3 O-O 11. Be2 Bd7 12. O-O Rfc8 13. Rfc1 Ne8 14. Kf1 Nd6
+15. Ne1 Nb4 16. Nd3 Nxd3 17. Bxd3 h6 18. Ke2 Kf8 19. f3 Bc6 20. g4 Rd8 21. Ra2
+a6 22. Na4 Bxa4 23. bxa4 Rac8 24. Raa1 Nc4 25. Rc2 Na5 26. Bc7 1-0

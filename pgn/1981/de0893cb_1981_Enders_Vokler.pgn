@@ -1,0 +1,20 @@
+[Event "corr DDR/K jr"]
+[Site "corr DDR/K jr"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Enders"]
+[Black "Vokler"]
+[Result "1-0"]
+[ECO "B92"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Opovcensky variation"]
+[HashCode "de0893cb"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8.
+O-O O-O 9. a4 b6 10. f4 Bb7 11. Bf3 Nbd7 12. f5 Nc5 13. Nxc5 dxc5 14. Qe2
+Qc7 15. g4 c4 16. Kh1 Rfd8 17. g5 Ne8 18. Bd2 b5 19. Rg1 f6 20. axb5 axb5
+21. Rxa8 Rxa8 22. gxf6 Bxf6 23. Nxb5 Qc5 24. Nc3 Rc8 25. Nd1 Kf7 26. Ne3
+Nd6 27. Ng4 Qc6 28. Nxf6 gxf6 29. Qg2 Nxf5 30. Qg4 Ne7 31. Qh5+ Ke6 32. Rg7
+Re8 33. Bb4 1-0
+

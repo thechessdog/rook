@@ -1,0 +1,18 @@
+[Event "corr NBC Cup NLD"]
+[Site "corr NBC Cup NLD"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "De Glopper, J."]
+[Black "Peters, Toon"]
+[Result "0-1"]
+[ECO "B33"]
+[Opening "Sicilian"]
+[Variation "Pelikan (Lasker/Sveshnikov) variation"]
+[HashCode "1fe9419a"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Nd5 Nxd5
+8. exd5 Nb8 9. c4 Be7 10. Be2 O-O 11. O-O Nd7 12. f4 a6 13. Nc3 f5 14. fxe5
+Nxe5 15. Be3 Qc7 16. b3 Bd7 17. Rc1 Rae8 18. Bd4 Bf6 19. Na4 Bxa4 20. bxa4
+Nd7 21. Bxf6 Rxf6 22. Bd3 Re5 0-1
+

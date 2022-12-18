@@ -1,0 +1,23 @@
+[Event "New York Kavkasian"]
+[Site "New York"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Zapata, Alonso"]
+[Black "Burger, Karl"]
+[Result "1-0"]
+[ECO "B11"]
+[Opening "Caro-Kann"]
+[Variation "two knights, 3...Bg4"]
+[HashCode "4eb723d5"]
+[Epoch "Rook"]
+[WhiteID "4400011"]
+[WhiteCountry "COL"]
+[BlackCountry "USA"]
+
+1. e4 c6 2. Nf3 d5 3. Nc3 Bg4 4. h3 Bxf3 5. Qxf3 Nf6 6. b3 e6 7. g4 g6 8. Bb2
+Bg7 9. O-O-O Nxe4 10. Nxe4 dxe4 11. Qxe4 Bxb2+ 12. Kxb2 Qf6+ 13. d4 Nd7 14. f4
+O-O-O 15. Bg2 Rhe8 16. Kb1 Qg7 17. Qe3 Nb6 18. c4 Rd7 19. Rd2 Red8 20. Rhd1 Qf8
+21. Qc3 Qg7 22. a4 Na8 23. Qa5 Kb8 24. d5 b6 25. Qb4 a5 26. Qa3 cxd5 27. cxd5
+Qf6 28. d6 Rc8 29. Rc1 Rcd8 30. Bc6 Qxf4 31. Rcd1 Ra7 32. Qc1 Qe5 33. Rd4 b5
+34. Bxb5 Rb7 35. Qd2 Rxb5 36. axb5 Qxb5 37. Qc3 Rd7 38. Rc4 Nb6 39. Rc5 Qe2 40.
+Rc1 Rxd6 1-0

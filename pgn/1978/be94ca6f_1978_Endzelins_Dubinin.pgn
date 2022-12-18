@@ -1,0 +1,18 @@
+[Event "corr Vidmar mem"]
+[Site "corr Vidmar mem"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Endzelins"]
+[Black "Dubinin, Peter Vasilievich"]
+[Result "0-1"]
+[ECO "B89"]
+[Opening "Sicilian"]
+[Variation "Sozin, 7.Be3"]
+[HashCode "be94ca6f"]
+[Epoch "Rook"]
+[BlackCountry "RUS"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bc4 e6 7. Be3 Be7 8.
+Bb3 O-O 9. Qe2 a6 10. O-O-O Qe8 11. Rhg1 Nd7 12. g4 Nc5 13. g5 b5 14. Qh5 b4
+15. Na4 Nxd4 16. Bxd4 Nxb3+ 17. axb3 e5 18. Be3 Be6 19. Nb6 a5 20. Qe2 a4 21.
+bxa4 Rxa4 22. Nxa4 Qxa4 23. Qd3 Rc8 24. Kd2 Qc6 25. b3 d5 26. exd5 Bxd5 0-1

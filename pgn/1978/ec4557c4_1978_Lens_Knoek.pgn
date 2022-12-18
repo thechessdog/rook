@@ -1,0 +1,17 @@
+[Event "corr NLD th"]
+[Site "corr NLD th"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Lens, J."]
+[Black "Knoek, J."]
+[Result "1-0"]
+[ECO "A82"]
+[Opening "Dutch"]
+[Variation "Balogh defence"]
+[HashCode "ec4557c4"]
+[Epoch "Rook"]
+
+1. e4 d6 2. d4 f5 3. Nc3 Nf6 4. exf5 Bxf5 5. Qf3 Qc8 6. Bd3 Bxd3 7. Qxd3 e6
+8. Nh3 Qd7 9. O-O Nc6 10. d5 exd5 11. Nxd5 Ne5 12. Nxf6+ gxf6 13. Qb3 O-O-O
+14. Be3 Kb8 15. f3 Qf7 16. Qxf7 Nxf7 17. Bd4 Bg7 18. Nf4 1-0
+

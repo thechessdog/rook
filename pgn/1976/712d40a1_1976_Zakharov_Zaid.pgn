@@ -1,0 +1,17 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Zakharov, Alexander V"]
+[Black "Zaid, Leonid D"]
+[Result "1-0"]
+[ECO "C69"]
+[Opening "Ruy Lopez"]
+[Variation "exchange, Bronstein variation"]
+[HashCode "712d40a1"]
+[Epoch "Rook"]
+[WhiteCountry "RUS"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O Qd6 6. d4 exd4 7. Nxd4 Bd7 8.
+Be3 Qg6 9. Nd2 O-O-O 10. Qe2 h5 11. f3 h4 12. Nc4 Qh5 13. Rad1 g6 14. Nb3 Nh6
+15. Qf2 Kb8 16. Ba7+ Ka8 17. Bb6 Kb8 18. Bxc7+ Kxc7 19. Qb6+ Kc8 20. e5 1-0

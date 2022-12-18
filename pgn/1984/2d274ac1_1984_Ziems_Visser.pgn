@@ -1,0 +1,18 @@
+[Event "corr FRG/M"]
+[Site "corr FRG/M"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Ziems, E."]
+[Black "Visser, D."]
+[Result "0-1"]
+[ECO "A89"]
+[Opening "Dutch"]
+[Variation "Leningrad, main variation with Nc6"]
+[HashCode "2d274ac1"]
+[Epoch "Rook"]
+
+1. c4 f5 2. d4 Nf6 3. Nf3 g6 4. g3 Bg7 5. Bg2 O-O 6. O-O d6 7. Nc3 Nc6 8.
+d5 Ne5 9. Nxe5 dxe5 10. e4 f4 11. b3 g5 12. Ba3 g4 13. Re1 f3 14. Bf1 h5
+15. c5 h4 16. Bc4 Nh5 17. Rf1 hxg3 18. hxg3 Qe8 19. d6+ e6 20. Kh2 Nxg3 21.
+fxg3 Qh5+ 0-1
+

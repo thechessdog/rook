@@ -1,0 +1,20 @@
+[Event "corr DDR-H"]
+[Site "corr DDR-H"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Landmann, H."]
+[Black "Loeffler, B."]
+[Result "0-1"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack"]
+[HashCode "ffa62363"]
+[Epoch "Rook"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 O-O 6. Be2 c5 7. dxc5 Qa5 8.
+O-O Qxc5+ 9. Kh1 Nc6 10. Qe1 Nb4 11. Bd3 Nxd3 12. cxd3 b6 13. Be3 Qc7 14.
+Rc1 Qd7 15. Qd2 e6 16. Rfd1 Bb7 17. Bd4 Rfd8 18. Bxf6 Bxf6 19. d4 Rac8 20.
+Qe3 d5 21. e5 Be7 22. Rd2 Rc7 23. g4 Rdc8 24. h4 b5 25. a3 a5 26. Rdd1 Ba6
+27. Na2 b4 28. Rxc7 Rxc7 29. axb4 Qa4 30. Ra1 Rc2 31. Qa3 Qb5 32. Qe3 Re2
+33. Qg1 Qd3 34. Qd1 Qxf3+ 35. Kg1 Qg2# 0-1
+

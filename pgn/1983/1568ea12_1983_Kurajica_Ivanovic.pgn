@@ -1,0 +1,23 @@
+[Event "Sarajevo"]
+[Site "Sarajevo"]
+[Date "1983.03.01"]
+[Round "1"]
+[White "Kurajica, Bojan"]
+[Black "Ivanovic, Bozidar"]
+[Result "1-0"]
+[ECO "A49"]
+[Opening "King's Indian"]
+[Variation "fianchetto without c4"]
+[HashCode "1568ea12"]
+[Epoch "Rook"]
+[WhiteID "14400057"]
+[WhiteCountry "BIH"]
+[BlackID "900095"]
+[BlackCountry "MNE"]
+
+1. d4 Nf6 2. Nf3 g6 3. g3 Bg7 4. Bg2 O-O 5. O-O d6 6. c4 Nc6 7. d5 Na5 8. Nfd2
+c5 9. Qc2 a6 10. Nc3 Bf5 11. e4 Bd7 12. b3 e5 13. dxe6 fxe6 14. e5 Ng4 15. exd6
+Bc6 16. Bh3 Qg5 17. Bb2 Qh5 18. Bxg4 Qxg4 19. Rae1 b6 20. Nce4 e5 21. a3 Rad8
+22. b4 Nb7 23. b5 axb5 24. cxb5 Bd7 25. f3 Qh5 26. Qc4+ Kh8 27. Qd5 Na5 28. a4
+Rfe8 29. Bc3 Be6 30. Qd3 Nb7 31. f4 Bh3 32. Qd5 Bxf1 33. Rxf1 Rd7 34. fxe5 Bxe5
+35. Nf6 Rxd6 36. Qf7 Rxf6 37. Qxe8+ Kg7 38. Bxe5 1-0

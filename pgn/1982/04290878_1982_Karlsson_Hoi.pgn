@@ -1,0 +1,25 @@
+[Event "Reykjavik op"]
+[Site "Reykjavik op"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Karlsson, Lars"]
+[Black "Hoi, Carsten"]
+[Result "0-1"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical (two knights) system"]
+[HashCode "04290878"]
+[Epoch "Rook"]
+[BlackID "1400100"]
+[BlackCountry "DEN"]
+[WhiteID "1700057"]
+[WhiteCountry "SWE"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Nf3 Bg7 5. Bc4 O-O 6. O-O Bg4 7. Qe2 Nc6 8. Rd1
+Nd7 9. e5 dxe5 10. dxe5 Ncxe5 11. Bd5 c6 12. h3 cxd5 13. hxg4 e6 14. Nd4 Nc6
+15. Nb3 Rc8 16. Be3 Qe7 17. a4 Rfe8 18. a5 a6 19. Na4 Nce5 20. f3 Nc4 21. Bd4
+Bxd4+ 22. Rxd4 Nde5 23. c3 Qc7 24. Nac5 Nc6 25. Rxc4 dxc4 26. Qxc4 Nxa5 27.
+Nxa5 Qxc5+ 28. Qxc5 Rxc5 29. Nxb7 Rc6 30. Na5 Rc7 31. Kf2 Rb8 32. Ra2 f6 33.
+Ke3 Kf7 34. c4 e5 35. Kd3 f5 36. gxf5 gxf5 37. Kc3 e4 38. fxe4 fxe4 39. Kd4 Re8
+40. Ke3 Rd7 41. Nc6 Rd3+ 42. Ke2 Rg3 43. Kf2 Rg6 44. Nd4 e3+ 45. Kf3 Rf6+ 46.
+Ke2 Rf2+ 47. Ke1 e2 48. Nc2 Rf1+ 49. Kd2 Rd1+ 50. Kc3 Rc1 0-1

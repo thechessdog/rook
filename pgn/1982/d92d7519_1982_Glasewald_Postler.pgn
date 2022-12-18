@@ -1,0 +1,20 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Glasewald"]
+[Black "Postler"]
+[Result "0-1"]
+[ECO "A62"]
+[Opening "Benoni"]
+[Variation "fianchetto variation"]
+[HashCode "d92d7519"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. g3 Bg7 8.
+Bg2 O-O 9. O-O Na6 10. Nd2 Nc7 11. Nc4 Nfe8 12. a4 b6 13. Bd2 Ba6 14. Ne3
+f5 15. Nc2 Nf6 16. Re1 Qd7 17. b4 Bb7 18. a5 Nfxd5 19. Nxd5 Bxd5 20. axb6
+axb6 21. Rxa8 Rxa8 22. Bxd5+ Nxd5 23. e4 fxe4 24. Rxe4 Nf6 25. Bc3 d5 26.
+bxc5 bxc5 27. Bxf6 Bxf6 28. Re1 c4 29. Qf3 Rf8 30. Rd1 Bd4 31. Qxf8+ Kxf8
+32. Rxd4 c3 33. Kg2 Qc6 34. Kf3 Qa6 35. Ke3 Qf1 36. h3 Qc1+ 0-1
+

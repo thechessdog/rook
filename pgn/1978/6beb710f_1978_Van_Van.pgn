@@ -1,0 +1,15 @@
+[Event "Waalwijk"]
+[Site "Waalwijk"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Van der Heijden"]
+[Black "Van Wanrooy"]
+[Result "1-0"]
+[ECO "A00"]
+[Opening "Grob"]
+[Variation "Fritz gambit"]
+[HashCode "6beb710f"]
+[Epoch "Rook"]
+
+1. g4 d5 2. Bg2 Bxg4 3. c4 e6 4. Qb3 c6 5. cxd5 cxd5 6. Qa4+ 1-0
+

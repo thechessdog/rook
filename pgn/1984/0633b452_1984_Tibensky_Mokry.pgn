@@ -1,0 +1,21 @@
+[Event "Sumperk"]
+[Site "Sumperk"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Tibensky, Robert"]
+[Black "Mokry, Karel"]
+[Result "0-1"]
+[ECO "A46"]
+[Opening "Queen's pawn"]
+[Variation "Torre attack"]
+[HashCode "0633b452"]
+[Epoch "Rook"]
+[BlackID "306070"]
+[BlackCountry "CZE"]
+[WhiteCountry "SVK"]
+
+1. d4 Nf6 2. Nf3 e6 3. Bg5 c5 4. e3 h6 5. Bh4 b6 6. Nbd2 Be7 7. Bd3 O-O 8. c3
+d6 9. dxc5 bxc5 10. e4 Nh5 11. Bg3 Nd7 12. O-O Nxg3 13. hxg3 Bb7 14. Qc2 Qc7
+15. Rfe1 Bf6 16. Rad1 Rad8 17. Nc4 Nb6 18. e5 Bxf3 19. exf6 Bxd1 20. Qxd1 Nxc4
+21. Qg4 g6 22. Qh3 h5 23. Qh4 Nb6 24. g4 c4 25. Qg5 Nd5 26. Bc2 Rde8 27. gxh5
+Qd8 28. hxg6 Qxf6 29. gxf7+ Kxf7 30. Qh5+ 0-1

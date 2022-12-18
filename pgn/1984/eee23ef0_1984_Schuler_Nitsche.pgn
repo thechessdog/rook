@@ -1,0 +1,21 @@
+[Event "corr DDR/M"]
+[Site "corr DDR/M"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Schuler"]
+[Black "Nitsche"]
+[Result "0-1"]
+[ECO "B77"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, 9...Bd7"]
+[HashCode "eee23ef0"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8.
+Qd2 Nc6 9. Bc4 Bd7 10. Bb3 Qa5 11. O-O-O Rfc8 12. Kb1 Ne5 13. Bg5 Rc5 14.
+f4 Nc6 15. Nde2 Bg4 16. h3 Bxe2 17. Qxe2 Rxc3 18. bxc3 Qxc3 19. Kc1 Qa1+
+20. Kd2 Qd4+ 21. Kc1 Qxe4 22. Qxe4 Nxe4 23. Bh4 e6 24. g4 Nd4 25. Be1 Ne2+
+26. Kb1 N4c3+ 27. Bxc3 Nxc3+ 28. Kc1 Nxd1 29. Kxd1 d5 30. Kd2 Rc8 31. f5
+Kf8 32. Rf1 Ke7 33. h4 gxf5 34. gxf5 Bh6+ 35. Kd3 Rg8 36. Rf3 Rg4 37. Rh3
+b5 38. c3 Rg2 0-1
+

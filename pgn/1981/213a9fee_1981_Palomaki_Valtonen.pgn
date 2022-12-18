@@ -1,0 +1,17 @@
+[Event "corr Heilimo mem"]
+[Site "corr Heilimo mem"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Palomaki"]
+[Black "Valtonen"]
+[Result "1-0"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, positional main line"]
+[HashCode "213a9fee"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Nf3 Qc7 8.
+a4 b6 9. Bb5+ Bd7 10. O-O Bxb5 11. axb5 O-O 12. Qe2 c4 13. Ba3 Re8 14. Ng5
+h6 15. Nh3 a5 16. Kh1 Nc8 17. g4 Na7 18. Rab1 f6 19. f4 Qd7 20. g5 1-0
+

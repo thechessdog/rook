@@ -1,0 +1,16 @@
+[Event "Wilkesboro,NC"]
+[Site "Wilkesboro,NC"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Wall, Bill"]
+[Black "Lewis, P."]
+[Result "1-0"]
+[ECO "C37"]
+[Opening "KGA"]
+[Variation "MacDonnell gambit"]
+[HashCode "f876b37c"]
+[Epoch "Rook"]
+[WhiteCountry "USA"]
+
+1. e4 e5 2. f4 exf4 3. Bc4 g5 4. Nf3 g4 5. Nc3 gxf3 6. Qxf3 Qh4+ 7. g3 fxg3 8.
+Qxf7+ Kd8 9. Qxf8# 1-0

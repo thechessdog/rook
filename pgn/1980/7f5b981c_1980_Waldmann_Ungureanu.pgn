@@ -1,0 +1,20 @@
+[Event "Zamardi op"]
+[Site "Zamardi"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Waldmann, Ivan"]
+[Black "Ungureanu, Emil"]
+[Result "0-1"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Lipnitzky attack"]
+[HashCode "7f5b981c"]
+[Epoch "Rook"]
+[WhiteID "701416"]
+[WhiteCountry "HUN"]
+[BlackCountry "ROU"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Qe2 Be7 8. Be3
+O-O 9. Bb3 b5 10. O-O-O Qc7 11. Qf3 Bb7 12. a3 Nbd7 13. Qh3 Nc5 14. f3 Nxb3+
+15. Nxb3 d5 16. exd5 Nxd5 17. Nxd5 Bxd5 18. Kb1 Rfc8 19. Rd2 b4 20. axb4 Bxb4
+21. Rf2 Rab8 22. Qg4 a5 23. Bd2 0-1

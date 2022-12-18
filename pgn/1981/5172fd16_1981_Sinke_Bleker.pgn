@@ -1,0 +1,20 @@
+[Event "corr ch-NLD"]
+[Site "corr ch-NLD"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Sinke, Johannes"]
+[Black "Bleker, F."]
+[Result "0-1"]
+[ECO "B16"]
+[Opening "Caro-Kann"]
+[Variation "Bronstein-Larsen variation"]
+[HashCode "5172fd16"]
+[Epoch "Rook"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ gxf6 6. Qd3 Qd5 7. c4
+Qf5 8. Qe3 Na6 9. Bd2 Qe6 10. O-O-O Qxe3 11. fxe3 Bf5 12. Ne2 O-O-O 13. Ng3
+Bg6 14. Be2 h5 15. Rhf1 h4 16. Bg4+ f5 17. Bxf5+ Bxf5 18. Nxf5 e6 19. Nxh4
+Rxh4 20. Rxf7 Rxh2 21. Rdf1 Rh8 22. g4 Bh6 23. Re7 c5 24. dxc5 Nxc5 25.
+Rff7 Rd7 26. b4 Rxe7 27. Rxe7 Kd8 28. Rf7 Nd7 29. Kc2 Ke8 30. Rf1 Rg8 31.
+Rh1 Bf8 32. Rh4 Ne5 0-1
+

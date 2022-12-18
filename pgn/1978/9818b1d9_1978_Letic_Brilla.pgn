@@ -1,0 +1,21 @@
+[Event "corr Vidmar mem"]
+[Site "corr Vidmar mem"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Letic"]
+[Black "Brilla Banfalvi"]
+[Result "0-1"]
+[ECO "E52"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line with ...b6"]
+[HashCode "9818b1d9"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Nf3 d5 6. Bd3 b6 7. O-O Bb7 8.
+cxd5 exd5 9. Ne5 Bd6 10. Nb5 Be7 11. b3 a6 12. Nc3 c5 13. dxc5 bxc5 14. Ne2
+Bd6 15. Bb2 Qe7 16. Nf3 Nbd7 17. Ng3 g6 18. Qe2 Ng4 19. Nd4 Qh4 20. Nf3 Qh6
+21. Rfe1 d4 22. e4 Nde5 23. h3 Nxf3+ 24. Qxf3 Ne5 25. Qf6 Qg7 26. Qxg7+
+Kxg7 27. Bf1 f6 28. Nh1 a5 29. f3 Ba6 30. Nf2 Rfb8 31. Ba3 a4 32. f4 Nd7
+33. e5 fxe5 34. Ne4 Bxf1 35. Nxd6 axb3 36. axb3 Rxb3 37. fxe5 Rbxa3 38.
+Rxa3 Rxa3 39. e6 Nf6 40. Kxf1 Ra6 41. Ne4 Nxe4 42. Rxe4 Kf8 0-1
+

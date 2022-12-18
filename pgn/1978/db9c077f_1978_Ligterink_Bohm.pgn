@@ -1,0 +1,20 @@
+[Event "IBM"]
+[Site "Amsterdam II"]
+[Date "1978.07.01"]
+[Round "1"]
+[White "Ligterink, Gert"]
+[Black "Bohm, Hans"]
+[Result "1/2-1/2"]
+[ECO "B10"]
+[Opening "Caro-Kann"]
+[Variation "closed (Breyer) variation"]
+[HashCode "db9c077f"]
+[Epoch "Rook"]
+[WhiteID "1000179"]
+[BlackID "1000306"]
+[WhiteCountry "NED"]
+[BlackCountry "NED"]
+
+1. e4 c6 2. d3 d5 3. Nd2 e5 4. Ngf3 Nd7 5. d4 exd4 6. exd5 cxd5 7. Nxd4 Ngf6 8.
+Be2 g6 9. O-O Bg7 10. N2f3 a6 11. Bf4 O-O 12. c4 dxc4 13. Bxc4 Nb6 14. Bb3 Nfd5
+15. Bg5 Qd6 16. Re1 Bd7 17. Bh4 Rae8 18. Qd2 Rxe1+ 19. Rxe1 Re8 20. Bg3 1/2-1/2

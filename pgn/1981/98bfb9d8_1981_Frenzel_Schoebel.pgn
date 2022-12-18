@@ -1,0 +1,23 @@
+[Event "DDR Tch5"]
+[Site "DDR Tch5"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Frenzel, L."]
+[Black "Schoebel, H."]
+[Result "0-1"]
+[ECO "C01"]
+[Opening "French"]
+[Variation "exchange variation"]
+[HashCode "98bfb9d8"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. Bd3 Bd6 5. Nf3 Nc6 6. O-O Bg4 7. Be3 Nge7
+8. Nbd2 Qd7 9. c4 dxc4 10. Bxc4 O-O 11. Qb3 Na5 12. Qb5 Qxb5 13. Bxb5 Nf5
+14. Rfc1 a6 15. Ba4 b5 16. Bc2 Rfe8 17. Bxf5 Bxf5 18. Ne5 c5 19. Ndf3 c4
+20. a4 f6 21. g3 Bd3 22. Ne1 Be2 23. axb5 axb5 24. Rc2 Bb4 25. N5f3 Bxf3
+26. Nxf3 Nb3 27. Rd1 Ra2 28. Ne1 Bxe1 29. Rxe1 Nxd4 30. Bxd4 Rxe1+ 31. Kg2
+Kf7 32. Bc3 Rd1 33. h4 Rd3 34. Rc1 Ke6 35. Re1+ Kd6 36. Re8 Ra7 37. Bb4+
+Kc6 38. Re6+ Kc7 39. Bc5 Ra2 40. Re2 Kc6 41. Bb4 Rb3 42. Re6+ Kd5 43. Rd6+
+Ke5 44. Bc5 Rbxb2 45. Rd7 c3 46. Bd4+ Ke4 47. Bxc3 Rxf2+ 48. Kh3 h5 49.
+Rd4+ Ke3 50. g4 Rf3# 0-1
+

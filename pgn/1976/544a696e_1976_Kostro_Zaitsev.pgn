@@ -1,0 +1,22 @@
+[Event "Dubna"]
+[Site "Dubna"]
+[Date "1976.??.??"]
+[Round "?"]
+[White "Kostro, Jerzy"]
+[Black "Zaitsev, Igor A"]
+[Result "0-1"]
+[ECO "C92"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Flohr-Zaitsev system (Lenzerheide variation)"]
+[HashCode "544a696e"]
+[Epoch "Rook"]
+[WhiteID "1101188"]
+[BlackID "4103017"]
+[WhiteCountry "POL"]
+[BlackCountry "RUS"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. h3 Bb7 10. d4 Re8 11. Ng5 Rf8 12. f4 exf4 13. Bxf4 Na5 14. Bc2 Nd5 15.
+exd5 Bxg5 16. Qh5 h6 17. Nd2 Bxd5 18. Ne4 Bxf4 19. Qf5 Bxe4 20. Bxe4 Bh2+ 21.
+Kxh2 g6 22. Qf4 d5 23. Bf3 Kh7 24. b3 c6 25. Re5 Qd6 26. Rae1 Nb7 27. g3 Rad8
+28. Re7 Qxf4 29. gxf4 Nd6 30. Ra7 b4 0-1

@@ -1,0 +1,18 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Kraetke"]
+[Black "Schiegner"]
+[Result "0-1"]
+[ECO "B07"]
+[Opening "Pirc"]
+[Variation "Byrne variation"]
+[HashCode "6d30a988"]
+[Epoch "Rook"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Bg5 c6 5. f4 Bg7 6. Qd2 Qa5 7. Nf3 Nbd7 8.
+Bd3 e5 9. fxe5 dxe5 10. d5 O-O 11. dxc6 bxc6 12. O-O-O Rb8 13. h3 Qb4 14.
+b3 Nc5 15. Bc4 Nfxe4 16. Nxe4 Qa3+ 17. Kb1 Nxe4 18. Qe1 Nxg5 19. Nxg5 Rb4
+20. Ne4 Bf5 21. c3 Rxc4 22. bxc4 Bxe4+ 23. Qxe4 Qxc3 0-1
+

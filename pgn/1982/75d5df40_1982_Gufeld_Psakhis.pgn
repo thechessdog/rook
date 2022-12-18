@@ -1,0 +1,23 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Gufeld, Eduard"]
+[Black "Psakhis, Lev"]
+[Result "1-0"]
+[ECO "C95"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Breyer, Borisenko variation"]
+[HashCode "75d5df40"]
+[Epoch "Rook"]
+[WhiteCountry "RUS"]
+[BlackID "2800012"]
+[BlackCountry "ISR"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. c3
+d6 9. h3 Nb8 10. d4 Nbd7 11. Nbd2 Bb7 12. Bc2 Re8 13. Nf1 Bf8 14. Ng3 c5 15. d5
+g6 16. Bg5 h6 17. Be3 Nb6 18. b3 Nh7 19. Qe2 a5 20. a4 b4 21. cxb4 cxb4 22. Qb5
+Ra6 23. Rac1 Nf6 24. Nd2 Re7 25. Bd3 Nbxd5 26. exd5 Nxd5 27. Be4 Qa8 28. Bxd5
+Bxd5 29. Nde4 Re6 30. Rc7 Bc6 31. Qe2 f5 32. Rc1 Bg7 33. Qc2 Be8 34. Rc8 Qb7
+35. Qc4 d5 36. Qb5 Qf7 37. Nc5 Rab6 38. Nxe6 Rxb5 39. Nxg7 Kxg7 40. axb5 d4 41.
+R1c7 1-0

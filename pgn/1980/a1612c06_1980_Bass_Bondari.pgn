@@ -1,0 +1,19 @@
+[Event "USA"]
+[Site "USA"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Bass, Leonid"]
+[Black "Bondari, C."]
+[Result "1-0"]
+[ECO "A70"]
+[Opening "Benoni"]
+[Variation "classical with e4 and Nf3"]
+[HashCode "a1612c06"]
+[Epoch "Rook"]
+[WhiteID "2000300"]
+[WhiteCountry "USA"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. e4 Bg7 8. Bb5+
+Nfd7 9. Bf4 Qe7 10. O-O O-O 11. Bd3 Na6 12. Bg5 f6 13. Bh4 Ne5 14. Nxe5 dxe5
+15. d6 Qd8 16. Bxa6 bxa6 17. Qd5+ Be6 18. Qxe6+ Kh8 19. Nd5 Re8 20. Ne7 g5 21.
+Bg3 Qb6 22. h4 Rad8 23. Rad1 1-0

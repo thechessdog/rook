@@ -1,0 +1,19 @@
+[Event "Capablanca mem-A"]
+[Site "Cienfuegos"]
+[Date "1983.??.??"]
+[Round "?"]
+[White "Bielczyk, Jacek"]
+[Black "Prandstetter, Eduard"]
+[Result "1/2-1/2"]
+[ECO "C15"]
+[Opening "French"]
+[Variation "Winawer, Alekhine (Maroczy) gambit"]
+[HashCode "b1efe0db"]
+[Epoch "Rook"]
+[WhiteID "1100530"]
+[BlackID "300225"]
+[WhiteCountry "POL"]
+[BlackCountry "CZE"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. Ne2 Nf6 5. e5 Ne4 6. a3 Bxc3+ 7. Nxc3 Nxc3 8.
+bxc3 O-O 9. Bd3 f5 10. O-O b6 11. h4 Ba6 12. f4 Bxd3 13. cxd3 1/2-1/2

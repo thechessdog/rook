@@ -1,0 +1,20 @@
+[Event "Dayton,OH"]
+[Site "Dayton,OH"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Pierce"]
+[Black "Stabler"]
+[Result "1-0"]
+[ECO "D30"]
+[Opening "Queen's gambit declined"]
+[HashCode "b466d0e3"]
+[Epoch "Rook"]
+
+1. d4 d5 2. c4 e6 3. Nf3 c5 4. cxd5 exd5 5. dxc5 Bxc5 6. Nc3 Ne7 7. e3 O-O
+8. Be2 Nbc6 9. O-O a6 10. a3 d4 11. Na4 Ba7 12. exd4 Nxd4 13. Nxd4 Bxd4 14.
+Qc2 Nc6 15. Bf4 Qf6 16. Qc1 Re8 17. Bf3 Bd7 18. Be3 Bxe3 19. fxe3 Qe7 20.
+Re1 Rab8 21. Nb6 Ne5 22. Bd5 Nd3 23. Qd2 Nxe1 24. Rxe1 Be6 25. e4 Qc5+ 26.
+Qf2 Qxf2+ 27. Kxf2 Bxd5 28. Nxd5 Rbc8 29. Re2 Rc6 30. Kf3 Re5 31. Kf4 Rce6
+32. Re3 g6 33. Nf6+ Kg7 34. Ng4 Rc5 35. Nf2 f5 36. Rd3 fxe4 37. Rd7+ Kh6
+38. Ng4+ Kh5 39. Rxh7# 1-0
+

@@ -1,0 +1,25 @@
+[Event "Silkeborg"]
+[Site "Silkeborg"]
+[Date "1980.01.01"]
+[Round "6"]
+[White "Ligterink, Gert"]
+[Black "Hansen, Curt"]
+[Result "1-0"]
+[ECO "E06"]
+[Opening "Catalan"]
+[Variation "closed, 5.Nf3"]
+[HashCode "ceee043d"]
+[Epoch "Rook"]
+[WhiteID "1000179"]
+[WhiteCountry "NED"]
+[BlackID "1400010"]
+[BlackCountry "DEN"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. g3 Be7 5. Bg2 O-O 6. O-O dxc4 7. Qc2 a6 8. Qxc4
+b5 9. Qc2 Bb7 10. Bg5 Nbd7 11. Nbd2 h6 12. Bxf6 Nxf6 13. Nb3 Be4 14. Qc1 Rc8
+15. Rd1 Qd5 16. Ne1 Bxg2 17. Nxg2 c5 18. dxc5 Qc6 19. Nf4 Ne4 20. Qe3 Nxc5 21.
+Rac1 Qe4 22. Qxe4 Nxe4 23. Nd3 Bf6 24. Na5 Rfe8 25. Kg2 Kf8 26. Nb7 Rb8 27.
+Nbc5 Nxc5 28. Rxc5 a5 29. Rdc1 Rb6 30. Rc7 Re7 31. b3 Rb7 32. R7c6 Bd4 33. e3
+Bb6 34. Kf3 f6 35. h4 Kf7 36. h5 e5 37. Ke4 Red7 38. g4 Rd8 39. Rc8 Rd6 40. Ra8
+Rbd7 41. Rcc8 g5 42. Ra6 Rxd3 43. Rxb6 Rd2 44. f3 Re2 45. Rcc6 Rd4+ 46. Kf5
+Rxe3 47. Rxf6+ Ke7 48. Rxh6 Rxf3+ 49. Kxe5 1-0

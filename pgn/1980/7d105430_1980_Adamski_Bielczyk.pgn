@@ -1,0 +1,20 @@
+[Event "Poland ch"]
+[Site "Poland ch"]
+[Date "1980.01.01"]
+[Round "2"]
+[White "Adamski, Jan"]
+[Black "Bielczyk, Jacek"]
+[Result "1/2-1/2"]
+[ECO "E96"]
+[Opening "King's Indian"]
+[Variation "orthodox, 7...Nbd7, main line"]
+[HashCode "7d105430"]
+[Epoch "Rook"]
+[WhiteID "1100190"]
+[WhiteCountry "POL"]
+[BlackID "1100530"]
+[BlackCountry "POL"]
+
+1. c4 Nf6 2. d4 d6 3. Nc3 Nbd7 4. Nf3 g6 5. e4 e5 6. Be2 Bg7 7. O-O O-O 8. Re1
+c6 9. Bf1 a5 10. dxe5 dxe5 11. Na4 Qe7 12. Qc2 Ne8 13. c5 Kh8 14. Be3 Nc7 15.
+Rad1 Ne6 16. b3 f5 17. exf5 1/2-1/2

@@ -1,0 +1,19 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Zipfel, F."]
+[Black "Lauer, F."]
+[Result "1-0"]
+[ECO "B42"]
+[Opening "Sicilian"]
+[Variation "Kan, Polugaievsky variation"]
+[HashCode "2067b352"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Bc5 6. Nb3 Ba7 7. Nc3 Nc6
+8. Qe2 d6 9. Be3 Bxe3 10. Qxe3 Nf6 11. O-O-O b5 12. f4 Qc7 13. Rhg1 O-O 14.
+g4 Nb4 15. g5 Nxd3+ 16. Qxd3 Nh5 17. f5 b4 18. Ne2 Rd8 19. g6 exf5 20.
+gxh7+ Kh8 21. exf5 d5 22. Qf3 Nf6 23. Rxg7 Kxg7 24. Rg1+ Kh8 25. Qg2 Nh5
+26. Qg8+ 1-0
+

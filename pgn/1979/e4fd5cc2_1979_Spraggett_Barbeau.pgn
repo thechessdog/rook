@@ -1,0 +1,28 @@
+[Event "Quebec op"]
+[Site "Quebec op"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Spraggett, Kevin"]
+[Black "Barbeau, Sylvain"]
+[Result "1-0"]
+[ECO "B31"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (with ...g6, without ...d6)"]
+[HashCode "e4fd5cc2"]
+[Epoch "Rook"]
+[BlackID "2600099"]
+[WhiteID "2600013"]
+[WhiteCountry "CAN"]
+[BlackCountry "CAN"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. c3 e5 6. d4 cxd4 7. cxd4 exd4 8.
+Bf4 Nge7 9. Bd6 O-O 10. Nbd2 a6 11. Bc4 b5 12. Bd3 Bb7 13. a4 Re8 14. axb5 axb5
+15. Qb3 Nc8 16. Bg3 Ne5 17. Nxe5 Bxe5 18. Bxe5 Rxa1 19. Rxa1 Rxe5 20. Qb4 Qb6
+21. Nb3 Nd6 22. f3 f5 23. exf5 Nxf5 24. Bxf5 Rxf5 25. Nxd4 Qc5 26. Qxc5 Rxc5
+27. Kf2 Bc6 28. Ke3 Kf7 29. Rd1 Ke7 30. h4 Bd5 31. Rd2 Bc6 32. g3 Kf6 33. Rc2
+Rxc2 34. Nxc2 Bd5 35. Nd4 Bc4 36. f4 h6 37. Nf3 d6 38. g4 h5 39. gxh5 gxh5 40.
+Nd4 Bf1 41. Ke4 Bc4 42. Ke3 b4 43. Ke4 Bg8 44. Nc6 b3 45. Nd4 Bc4 46. Ke3 Bg8
+47. Kd2 Bc4 48. Kc3 Bd5 49. Kb4 Bg8 50. Kb5 Bd5 51. Kb6 Be4 52. Kc7 d5 53. Kd6
+Bg2 54. Kc5 Be4 55. Kb4 Bc2 56. Kc3 Bd1 57. Kd2 Bg4 58. Nxb3 Kf5 59. Ke3 Ke6
+60. Nd4+ Kd6 61. b4 Bd7 62. Ne2 Be8 63. Kd4 Ke6 64. Ng3 Kd6 65. Nf5+ Kc6 66.
+b5+ Kb6 67. Nd6 Bd7 68. Kxd5 1-0

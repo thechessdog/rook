@@ -1,0 +1,20 @@
+[Event "Sochi"]
+[Site "Sochi"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Vaisser, Anatoly"]
+[Black "Lengyel, Laszlo"]
+[Result "1-0"]
+[ECO "E42"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5, 5.Ne2 (Rubinstein)"]
+[HashCode "14001816"]
+[Epoch "Rook"]
+[BlackID "701998"]
+[BlackCountry "HUN"]
+[WhiteCountry "FRA"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Ne2 cxd4 6. exd4 d5 7. c5 Ne4 8. Bd2
+Nxd2 9. Qxd2 O-O 10. a3 Bxc3 11. Nxc3 b6 12. b4 bxc5 13. dxc5 d4 14. Nb5 e5 15.
+Be2 Bb7 16. O-O Bd5 17. f4 a6 18. Nd6 f6 19. fxe5 fxe5 20. Rxf8+ Qxf8 21. Rf1
+Qd8 22. Bf3 1-0

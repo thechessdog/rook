@@ -1,0 +1,15 @@
+[Event "Saratov"]
+[Site "Saratov"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Cheremisin, Felix"]
+[Black "Korchmar"]
+[Result "1-0"]
+[ECO "C24"]
+[Opening "Bishop's opening"]
+[Variation "Ponziani gambit"]
+[HashCode "9d6fe8f6"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Bc4 Nf6 3. d4 Nxe4 4. dxe5 c6 5. Qe2 Nc5 6. Nc3 Be7 7. Bf4 1-0
+

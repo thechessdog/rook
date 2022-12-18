@@ -1,0 +1,25 @@
+[Event "Mosbach Elo"]
+[Site "Mosbach Elo"]
+[Date "1980.01.01"]
+[Round "5"]
+[White "Herbrechtsmeier, Christof"]
+[Black "Arnold, Lothar"]
+[Result "1-0"]
+[ECO "B29"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rubinstein variation"]
+[HashCode "a82472ce"]
+[Epoch "Rook"]
+[WhiteID "4603737"]
+[WhiteCountry "GER"]
+[BlackID "4604300"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nf3 Nf6 3. Nc3 Nc6 4. d4 d5 5. exd5 Nxd5 6. Nxd5 Qxd5 7. Be3 cxd4
+8. Nxd4 a6 9. c3 e5 10. Nb3 Qe4 11. Qd3 Qxd3 12. Bxd3 Be7 13. O-O O-O 14. Rfd1
+g6 15. Be4 f5 16. Bxc6 bxc6 17. Bc5 Kf7 18. Bxe7 Kxe7 19. Rd2 Be6 20. Na5 Rac8
+21. c4 Rc7 22. Re1 e4 23. f3 exf3 24. gxf3 f4 25. b4 Rf6 26. Nb3 Kf7 27. Rd4
+Kg7 28. Nc5 Bf7 29. Re5 Ra7 30. a4 h6 31. h4 Bg8 32. a5 Bf7 33. Kf2 Bg8 34. Ke2
+Bf7 35. Kd2 Bg8 36. Kc3 Bf7 37. Nd7 Re6 38. Rxe6 Bxe6 39. Nc5 Bc8 40. Rxf4 g5
+41. hxg5 hxg5 42. Re4 Rf7 43. Re3 Rf4 44. Ne4 Kg6 45. Nd2 Bh3 46. Kd3 c5 47.
+bxc5 Bf5+ 48. Ne4 g4 49. fxg4 Rxg4 50. Kd4 Kf7 51. Ke5 1-0

@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Mol, J."]
+[Black "Jongman, R."]
+[Result "0-1"]
+[ECO "D97"]
+[Opening "Gruenfeld"]
+[Variation "Russian, Alekhine (Hungarian) variation"]
+[HashCode "1d10a2a0"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Qb3 dxc4 6. Qxc4 O-O 7. e4 a6 8.
+Qb3 b5 9. e5 Nfd7 10. Be3 Nb6 11. Bd3 Be6 12. Qc2 Nc6 13. a3 f5 14. Ng5 Bd5
+15. Nxd5 Qxd5 16. Rc1 Nxd4 17. Qxc7 Qxg2 18. Bxd4 Nd5 19. Qc6 Qxh1+ 20. Kd2
+Qg2 21. Qe6+ Kh8 22. Nf7+ Rxf7 23. Qxf7 Rf8 24. Qe6 Bh6+ 25. Kc2 Bxc1 26.
+Kxc1 Qf3 0-1
+

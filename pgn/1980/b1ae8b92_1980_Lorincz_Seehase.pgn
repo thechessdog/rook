@@ -1,0 +1,20 @@
+[Event "corr Wcup3"]
+[Site "corr Wcup3"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Lorincz"]
+[Black "Seehase"]
+[Result "1-0"]
+[ECO "B42"]
+[Opening "Sicilian"]
+[Variation "Kan, 5.Bd3"]
+[HashCode "b1ae8b92"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Nc6 6. Nxc6 bxc6 7. O-O d5
+8. c4 d4 9. e5 f5 10. exf6 Nxf6 11. Bg5 Be7 12. Qc2 g6 13. Nd2 O-O 14. Bh6
+Bd6 15. Bxf8 Qxf8 16. Ne4 Bxh2+ 17. Kxh2 Ng4+ 18. Kg1 Qh6 19. Rfe1 Bd7 20.
+Qd2 Qh2+ 21. Kf1 Rf8 22. Qg5 e5 23. Ke2 Qxg2 24. Rf1 Qf3+ 25. Kd2 Bf5 26.
+Rae1 Kg7 27. Qe7+ Kg8 28. c5 Rb8 29. b3 h6 30. Be2 Qf4+ 31. Kd1 Ne3+ 32.
+fxe3 Qxe4 33. Bc4+ Kh8 34. Qf6+ Kh7 35. Rxf5 Qb1+ 36. Ke2 Qc2+ 37. Kf3 1-0
+

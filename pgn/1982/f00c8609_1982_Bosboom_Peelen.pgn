@@ -1,0 +1,23 @@
+[Event "Hilversum"]
+[Site "Hilversum"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Bosboom, Manuel"]
+[Black "Peelen, Piet"]
+[Result "1-0"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical system, 5.Be2"]
+[HashCode "f00c8609"]
+[Epoch "Rook"]
+[BlackID "1000403"]
+[BlackCountry "NED"]
+[WhiteID "1000080"]
+[WhiteCountry "NED"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Nf3 Bg7 5. Be2 O-O 6. O-O c6 7. Be3 Qc7 8. h3
+a5 9. a4 Na6 10. Nd2 e5 11. Nc4 Nd7 12. f4 Nb4 13. dxe5 dxe5 14. fxe5 Rd8 15.
+Rxf7 b5 16. axb5 Kxf7 17. Nd6+ Kf8 18. Qf1+ Nf6 19. exf6 Nxc2 20. fxg7+ Kxg7
+21. Bf4 Qe7 22. Rd1 g5 23. Bg3 Ne3 24. Qf2 Nxd1 25. Qd4+ Kh6 26. Nxd1 cxb5 27.
+Ne3 Rf8 28. Bg4 Bxg4 29. Nxg4+ Kh5 30. Qd1 Kg6 31. Ne5+ Kg7 32. Nc6 Qe6 33. Nd4
+Qf6 34. N4f5+ Kh8 35. Qd5 Rae8 36. Nxe8 Rxe8 37. Bf2 Qe6 38. Qd4+ Qe5 1-0

@@ -1,0 +1,20 @@
+[Event "EU-chT Plovdiv"]
+[Site "Plovdiv etc"]
+[Date "1983.06.01"]
+[Round "5"]
+[White "Lau, Ralf"]
+[Black "Keene, Raymond D"]
+[Result "1/2-1/2"]
+[ECO "B06"]
+[Opening "Robatsch defence"]
+[Variation "Pseudo-Austrian attack"]
+[HashCode "199159d2"]
+[Epoch "Rook"]
+[WhiteID "4600134"]
+[WhiteCountry "GER"]
+[BlackID "400211"]
+[BlackCountry "ENG"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. f4 Nc6 5. Be3 Nf6 6. Nf3 O-O 7. Qd2 e5 8. dxe5
+dxe5 9. Qxd8 Rxd8 10. fxe5 Ng4 11. Bg5 Rd7 12. Nd5 Ncxe5 13. Be2 Nxf3+ 14. gxf3
+h6 15. Bh4 g5 16. Bg3 Ne5 17. O-O-O 1/2-1/2

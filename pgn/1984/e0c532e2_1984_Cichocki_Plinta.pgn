@@ -1,0 +1,20 @@
+[Event "Poznan op"]
+[Site "Poznan op"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Cichocki, Adam"]
+[Black "Plinta, Emil"]
+[Result "1-0"]
+[ECO "D20"]
+[Opening "QGA"]
+[Variation "3.e4"]
+[HashCode "e0c532e2"]
+[Epoch "Rook"]
+[WhiteID "1100777"]
+[BlackID "1101749"]
+[WhiteCountry "POL"]
+[BlackCountry "POL"]
+
+1. d4 d5 2. c4 dxc4 3. e4 e5 4. Bxc4 Qxd4 5. Qb3 Qxe4+ 6. Be3 Be6 7. Bxe6 Bb4+
+8. Kf1 fxe6 9. f3 Qh4 10. Bf2 Qe7 11. a3 Nc6 12. axb4 Nxb4 13. Ra5 O-O-O 14.
+Bc5 Qd7 15. Qxb4 Qd3+ 16. Kf2 Qxb1 17. Rxa7 Kd7 18. Qb5+ 1-0

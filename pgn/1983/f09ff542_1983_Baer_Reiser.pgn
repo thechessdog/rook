@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Baer"]
+[Black "Reiser"]
+[Result "1-0"]
+[ECO "C40"]
+[Opening "Latvian gambit, 3.Bc4"]
+[HashCode "f09ff542"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 f5 3. Bc4 fxe4 4. Nxe5 Qg5 5. d4 Qxg2 6. Qh5+ g6 7. Bf7+
+Kd8 8. Bxg6 Qxh1+ 9. Ke2 c6 10. Nc3 Nf6 11. Qg5 Be7 12. Nf7+ Ke8 13. Ne5+
+Kd8 14. Bf4 Qxa1 15. Nf7+ Ke8 16. Nd6+ Kd8 17. Nxb7+ Bxb7 18. Qa5+ Kc8 19.
+Qc7# 1-0
+

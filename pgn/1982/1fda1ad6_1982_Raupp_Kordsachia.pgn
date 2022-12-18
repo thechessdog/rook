@@ -1,0 +1,23 @@
+[Event "Bundesliga 8182"]
+[Site "Duitsland tt"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Raupp, Thomas"]
+[Black "Kordsachia, Tariel"]
+[Result "1-0"]
+[ECO "A29"]
+[Opening "English"]
+[Variation "four knights, kingside fianchetto"]
+[HashCode "1fda1ad6"]
+[Epoch "Rook"]
+[WhiteID "4601610"]
+[WhiteCountry "GER"]
+[BlackID "4603222"]
+[BlackCountry "GER"]
+
+1. c4 Nf6 2. Nc3 e5 3. Nf3 Nc6 4. g3 d6 5. d4 Bg4 6. d5 Nb8 7. Bg2 Qc8 8. O-O
+Be7 9. Ne1 a5 10. f3 Bd7 11. e4 Na6 12. Nd3 Nb4 13. Nf2 c6 14. Be3 cxd5 15.
+cxd5 O-O 16. Qe2 a4 17. Rfc1 Qd8 18. Bf1 Qa5 19. a3 Na6 20. Nd3 Bd8 21. Qf2 b6
+22. Na2 Nc5 23. Rc3 Ne8 24. Nab4 f5 25. exf5 Nf6 26. Rd1 Rc8 27. g4 e4 28. Nf4
+exf3 29. Qxf3 Nfe4 30. Rc4 Ng5 31. Qg2 Bb5 32. Rc2 Bxf1 33. Rxf1 Nf7 34. Ne6
+Re8 35. Nc6 Qa6 36. Bd4 Bf6 37. Bxf6 gxf6 38. g5 fxg5 39. Nxg5 1-0

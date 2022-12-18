@@ -1,0 +1,28 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Malevinsky, Alexander A"]
+[Black "Dvoirys, Semen I."]
+[Result "0-1"]
+[ECO "B95"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6...e6"]
+[HashCode "60cf108c"]
+[Epoch "Rook"]
+[WhiteID "4104994"]
+[BlackID "4100379"]
+[WhiteCountry "RUS"]
+[BlackCountry "RUS"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. Qe2 Nbd7 8. f4
+Qc7 9. O-O-O Be7 10. g4 Nb6 11. Bg2 Bd7 12. h4 Nc4 13. h5 Rc8 14. Rh3 b5 15. a3
+Qb8 16. Na2 a5 17. Rc3 h6 18. Bh4 d5 19. exd5 Qxf4+ 20. Kb1 e5 21. d6 Bxd6 22.
+Bxf6 Qxf6 23. a4 Bb4 24. Nxb4 axb4 25. Rb3 bxa4 26. Rxb4 O-O 27. Nf5 Be6 28.
+Bd5 Bxf5 29. gxf5 Nb6 30. Be4 Rfd8 31. Rxd8+ Qxd8 32. Qd3 Qc7 33. f6 Qc5 34.
+Bh7+ Kh8 35. fxg7+ Kxg7 36. Rg4+ Kh8 37. Rg2 Qe7 38. Bf5 Rg8 39. Rd2 Qc5 40.
+Rd1 Rg1 41. Rxg1 Qxg1+ 42. Ka2 Kg7 43. Qe4 Qc5 44. Qg4+ Kf8 45. Bd3 Qd6 46. Qh4
+Nd5 47. Qxa4 Nb4+ 48. Ka1 Nxd3 49. cxd3 Qxd3 50. Qb4+ Kg7 51. Qg4+ Kf6 52. Ka2
+Qd4 53. Qf3+ Qf4 54. Qd1 e4 55. Kb1 e3 56. Qd8+ Kf5 57. Qd5+ Kg4 58. Qd1+ Kg5
+59. Kc2 Qc4+ 60. Kb1 e2 61. Qe1 f5 62. b4 f4 63. Qg1+ Kxh5 64. Qh1+ Kg5 65.
+Qg1+ 0-1

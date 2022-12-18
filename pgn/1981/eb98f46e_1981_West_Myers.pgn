@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1981.01.01"]
+[Round "1"]
+[White "West, W."]
+[Black "Myers, D."]
+[Result "1-0"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, poisoned pawn, Konstantinopolsky variation"]
+[HashCode "eb98f46e"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Qg4 Qc7 8.
+Qxg7 Rg8 9. Qxh7 cxd4 10. Ne2 Nbc6 11. f4 Bd7 12. Qd3 dxc3 13. Qxc3 Nf5 14.
+Rb1 O-O-O 15. g3 d4 16. Qc4 Qa5+ 17. Kf2 a6 18. Bg2 Be8 19. Rd1 Rh8 20. h4
+Qc7 21. Rd3 Qe7 22. a4 Nxh4 23. gxh4 Qxh4+ 24. Kf1 Rg8 25. Qb3 b5 26. axb5
+axb5 27. Qxb5 Qh2 28. Qb7# 1-0
+

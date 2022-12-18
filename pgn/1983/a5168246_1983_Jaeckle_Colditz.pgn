@@ -1,0 +1,17 @@
+[Event "RLN 8283"]
+[Site "RLN 8283"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Jaeckle, Marco"]
+[Black "Colditz, Albrecht"]
+[Result "1/2-1/2"]
+[ECO "B06"]
+[Opening "Robatsch defence"]
+[Variation "Pseudo-Austrian attack"]
+[HashCode "a5168246"]
+[Epoch "Rook"]
+[WhiteID "4603451"]
+[WhiteCountry "GER"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. f4 Nc6 5. Be3 Nf6 6. Nf3 O-O 7. e5 dxe5 8. dxe5
+Ng4 9. Bg1 Qxd1+ 10. Rxd1 h5 11. Nd5 Bf5 12. Bb5 Be4 1/2-1/2

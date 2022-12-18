@@ -1,0 +1,18 @@
+[Event "corr Tch-SWE"]
+[Site "corr Tch-SWE"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Svensson, Frank"]
+[Black "Adler, Bo"]
+[Result "1-0"]
+[ECO "C40"]
+[Opening "QP counter-gambit (elephant gambit)"]
+[HashCode "78ff33b6"]
+[Epoch "Rook"]
+[WhiteID "1719653"]
+[BlackID "1702149"]
+[WhiteCountry "SWE"]
+[BlackCountry "SWE"]
+
+1. e4 e5 2. Nf3 d5 3. exd5 e4 4. Qe2 Nf6 5. Nc3 Bd6 6. d3 O-O 7. dxe4 Re8 8.
+Bg5 Bb4 9. Bxf6 Bxc3+ 10. Bxc3 1-0

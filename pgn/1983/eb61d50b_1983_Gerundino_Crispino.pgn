@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Gerundino, N."]
+[Black "Crispino, G."]
+[Result "0-1"]
+[ECO "C05"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation"]
+[HashCode "eb61d50b"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. f4 c5 6. c3 Nc6 7. Ndf3 Qb6 8.
+g3 f5 9. exf6 Nxf6 10. Ne2 cxd4 11. Nexd4 Bd6 12. Bd3 O-O 13. O-O e5 14.
+fxe5 Nxe5 15. Nxe5 Bxe5 16. Kg2 Bxd4 17. cxd4 Bg4 18. Qd2 Ne4 19. Bxe4 dxe4
+20. Rxf8+ Rxf8 21. Qc3 Qf6 22. Bf4 g5 0-1
+

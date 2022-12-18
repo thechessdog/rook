@@ -1,0 +1,19 @@
+[Event "Budapest ch-HUN"]
+[Site "Budapest ch-HUN"]
+[Date "1977.11.01"]
+[Round "1"]
+[White "Schneider, Attila"]
+[Black "Portisch, Ferenc"]
+[Result "0-1"]
+[ECO "C15"]
+[Opening "French"]
+[Variation "Winawer (Nimzovich) variation"]
+[HashCode "df50d02f"]
+[Epoch "Rook"]
+[BlackID "700487"]
+[BlackCountry "HUN"]
+[WhiteCountry "HUN"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. a3 Bxc3+ 5. bxc3 dxe4 6. Qg4 Nf6 7. Qxg7 Rg8 8.
+Qh6 b6 9. Ne2 Bb7 10. Bg5 Nbd7 11. Nf4 Ng4 12. Bxd8 Nxh6 13. Bh4 Nf5 14. Bg3
+Nf6 15. Bb5+ Ke7 16. Be2 Rac8 17. O-O-O c5 18. Kb2 Rgd8 0-1

@@ -1,0 +1,27 @@
+[Event "Regionalliga Nord"]
+[Site "RLN 8182"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Hundack, Rolf"]
+[Black "Bertram, Andreas"]
+[Result "1/2-1/2"]
+[ECO "A23"]
+[Opening "English"]
+[Variation "Bremen system, Keres variation"]
+[HashCode "ef044fb7"]
+[Epoch "Rook"]
+[WhiteID "4653092"]
+[WhiteCountry "GER"]
+[BlackID "4636252"]
+[BlackCountry "GER"]
+
+1. c4 Nf6 2. Nc3 e5 3. g3 c6 4. Nf3 e4 5. Nd4 d5 6. cxd5 cxd5 7. d3 Qb6 8. Nb3
+Ng4 9. d4 Be6 10. Bg2 Be7 11. O-O Nc6 12. Na4 Qb4 13. Nc3 h5 14. a4 h4 15. Nb5
+Rc8 16. Bd2 Qc4 17. Na5 Nxa5 18. Bxa5 b6 19. Bd2 hxg3 20. hxg3 a6 21. Rc1 axb5
+22. Rxc4 Rxc4 23. Qb3 b4 24. e3 Nh2 25. Rc1 Bg4 26. Rxc4 Nf3+ 27. Bxf3 Bxf3 28.
+Rc8+ Bd8 29. Rxd8+ Kxd8 30. Qxd5+ Ke7 31. Bxb4+ Kf6 32. Qd6+ Kg5 33. Qf4+ Kg6
+34. Qh4 Rxh4 35. gxh4 Kh5 36. a5 bxa5 37. Bxa5 Kxh4 38. Bd8+ f6 39. Kf1 Bg4 40.
+Ke1 Be6 41. b4 Kg4 42. Bc7 Kf3 43. b5 Bd5 44. Bg3 g5 45. Bd6 f5 46. Be7 Kg4 47.
+Kd2 f4 48. b6 Kf5 49. Kc3 g4 50. exf4 Kxf4 51. Kb4 Kf5 52. Kb5 Ke6 53. Bb4 Bb7
+54. Kc5 Bd5 55. Bd2 Bb7 56. Bh6 Bd5 57. Kb4 Bb7 58. Kc4 Bd5+ 59. Kc3 Bb7 60.
+Kd2 Kf5 61. Ke3 Bd5 1/2-1/2

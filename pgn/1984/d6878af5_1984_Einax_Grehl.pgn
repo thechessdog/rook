@@ -1,0 +1,18 @@
+[Event "corr DDR/FS"]
+[Site "corr DDR/FS"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Einax"]
+[Black "Grehl"]
+[Result "1-0"]
+[ECO "C17"]
+[Opening "French"]
+[Variation "Winawer, advance, 5.a3"]
+[HashCode "d6878af5"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 cxd4 6. axb4 dxc3 7. Qg4 cxb2
+8. Bg5 g6 9. Nf3 Qc7 10. Bd3 Nd7 11. O-O b6 12. Qf4 Bb7 13. Nd4 a6 14. Bxa6
+Bxa6 15. Rxa6 Rxa6 16. Nb5 Qc6 17. Nd6+ Qxd6 18. exd6 f6 19. Re1 e5 20. Qf3
+e4 21. Qb3 Nh6 22. Qxd5 Nf5 23. Rxe4+ Kd8 24. g4 Nxd6 25. Qxd6 1-0
+

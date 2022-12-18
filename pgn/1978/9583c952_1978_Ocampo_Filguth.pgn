@@ -1,0 +1,22 @@
+[Event "Mexico"]
+[Site "Mexico"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Ocampo, Raul"]
+[Black "Filguth, Rubens Alberto"]
+[Result "0-1"]
+[ECO "C15"]
+[Opening "French"]
+[Variation "Winawer, Alekhine (Maroczy) gambit"]
+[HashCode "9583c952"]
+[Epoch "Rook"]
+[WhiteID "100986"]
+[BlackID "2100070"]
+[WhiteCountry "ARG"]
+[BlackCountry "BRA"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. Ne2 dxe4 5. a3 Be7 6. Nxe4 Bd7 7. N2g3 Bc6 8.
+Be3 Nd7 9. c4 Ngf6 10. Nc3 b6 11. f3 O-O 12. Qc2 a6 13. Rd1 Re8 14. Bd3 Qb8 15.
+O-O b5 16. Nce4 bxc4 17. Bxc4 Bd5 18. Rd2 Bxc4 19. Qxc4 Nd5 20. Bf2 Qb5 21. Rc1
+f5 22. Qxb5 axb5 23. Nc3 Bg5 24. Nxd5 Bxd2 25. Rxc7 exd5 26. Rxd7 Rac8 27. h4
+Rc1+ 28. Kh2 g6 29. Rxd5 Bf4 30. Kh3 Re2 0-1

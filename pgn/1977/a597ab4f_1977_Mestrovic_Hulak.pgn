@@ -1,0 +1,17 @@
+[Event "Zagreb"]
+[Site "Zagreb"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Mestrovic, Zvonimir"]
+[Black "Hulak, Krunoslav"]
+[Result "1-0"]
+[ECO "A00"]
+[Opening "Dunst (Sleipner, Heinrichsen) opening"]
+[HashCode "a597ab4f"]
+[Epoch "Rook"]
+[BlackCountry "HRV"]
+[WhiteCountry "BIH"]
+
+1. Nc3 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e6 5. Bf4 a6 6. Nxc6 bxc6 7. Bd6 Bxd6
+8. Qxd6 Nf6 9. e4 Qb6 10. O-O-O Ng4 11. Rd4 e5 12. Nd5 Qd8 13. Nc7+ Qxc7 14.
+Qxc7 exd4 15. Qg3 1-0

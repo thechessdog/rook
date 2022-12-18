@@ -1,0 +1,23 @@
+[Event "Plymouth ch-MI op"]
+[Site "Plymouth ch-MI op"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Tumpkin, R."]
+[Black "Gale, J."]
+[Result "0-1"]
+[ECO "A04"]
+[Opening "Reti opening"]
+[HashCode "38d0b020"]
+[Epoch "Rook"]
+
+1. Nf3 Nc6 2. c4 e5 3. d4 exd4 4. Nxd4 Nxd4 5. Qxd4 Nf6 6. Bg5 Be7 7. Nc3
+O-O 8. e3 c5 9. Qd2 d6 10. Bd3 Ng4 11. Bxe7 Qxe7 12. Nd5 Qd8 13. Qc2 g6 14.
+O-O-O Re8 15. Qc3 Re6 16. Rdf1 Ne5 17. Bc2 Rb8 18. a4 Nc6 19. b3 Ne7 20.
+Nf6+ Kf8 21. Nxh7+ Ke8 22. Nf6+ Kf8 23. Nh7+ Ke8 24. Ng5 Re5 25. f4 Rxg5
+26. fxg5 Nf5 27. Bxf5 Bxf5 28. h4 Qb6 29. Qh8+ Kd7 30. Qxb8 Qxb3 31. Rf2
+Qxc4+ 32. Kd2 Qc2+ 33. Ke1 Qc1+ 34. Ke2 Qxh1 35. Qxb7+ Ke6 36. Qc8+ Ke7 37.
+Qc7+ Ke6 38. Kd2 Qxh4 39. Ke1 Qxa4 40. Qd8 Qa1+ 41. Kd2 Qa2+ 42. Ke1 Qb1+
+43. Kd2 Qc2+ 44. Ke1 Qc3+ 45. Rd2 Qc1+ 46. Ke2 Bg4+ 47. Kd3 c4+ 48. Ke4
+Bf5+ 49. Kf4 Qxd2 50. Qf6+ Kd5 51. Qxf7+ Kc5 52. Qxa7+ Kb4 53. Qb6+ Kc3 54.
+Qb5 Qf2# 0-1
+

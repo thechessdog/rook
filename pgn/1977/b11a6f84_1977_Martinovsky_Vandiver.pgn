@@ -1,0 +1,17 @@
+[Event "Detroit"]
+[Site "Detroit"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Martinovsky, Eugene"]
+[Black "Vandiver"]
+[Result "1-0"]
+[ECO "D80"]
+[Opening "Gruenfeld"]
+[Variation "Stockholm variation"]
+[HashCode "b11a6f84"]
+[Epoch "Rook"]
+[WhiteCountry "MKD"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Bg5 Ne4 5. Bh4 c5 6. e3 Qa5 7. Qb3 cxd4 8. exd4
+Nc6 9. Nf3 dxc4 10. Bxc4 Bg7 11. Bxf7+ Kf8 12. O-O Nxd4 13. Nxd4 Nd2 14. Ne6+
+Bxe6 15. Qxe6 1-0

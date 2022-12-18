@@ -1,0 +1,15 @@
+[Event "Dayton,OH"]
+[Site "Dayton,OH"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Wall, Bill"]
+[Black "Tyra, Mark"]
+[Result "1-0"]
+[ECO "A00"]
+[Opening "Grob's attack"]
+[HashCode "1ad4266f"]
+[Epoch "Rook"]
+[WhiteCountry "USA"]
+
+1. g4 g5 2. Bg2 Nf6 3. h3 d5 4. d4 h6 5. Nc3 c6 6. a3 Qd7 7. b4 Nxg4 8. hxg4
+Qxg4 9. Bh3 Qh5 10. Bd7+ 1-0

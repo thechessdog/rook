@@ -1,0 +1,18 @@
+[Event "Cleveland,OH"]
+[Site "Cleveland,OH"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Petersen, Finn"]
+[Black "Nonnenmacher"]
+[Result "0-1"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack"]
+[HashCode "98dd0a0f"]
+[Epoch "Rook"]
+[WhiteID "1400754"]
+[WhiteCountry "DEN"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 c6 4. f3 Bf5 5. Qd2 Nbd7 6. O-O-O h6 7. Bh4 b5 8. e4
+Bh7 9. exd5 b4 10. dxc6 bxc3 11. Qxc3 Nb6 12. Bb5 Qd5 13. Qc5 a6 14. Bxf6 axb5
+15. Qxb6 Qc4 16. c3 Qa4 17. Kd2 gxf6 18. c7 Bf5 19. Qb8+ Bc8 20. Ne2 h5 21. b3
+Bh6+ 22. Ke1 Qa6 23. a4 bxa4 24. b4 O-O 25. b5 Qa5 0-1

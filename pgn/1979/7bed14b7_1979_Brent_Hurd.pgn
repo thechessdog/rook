@@ -1,0 +1,19 @@
+[Event "corr ASPC"]
+[Site "corr ASPC"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Brent, M."]
+[Black "Hurd, S."]
+[Result "1/2-1/2"]
+[ECO "B51"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky (Nimzovich-Rossolimo, Moscow) attack"]
+[HashCode "7bed14b7"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Nd7 4. d4 a6 5. Bxd7+ Qxd7 6. dxc5 dxc5 7. Qe2
+Qc7 8. Nc3 e6 9. a4 Nf6 10. O-O Be7 11. Rd1 O-O 12. e5 Nd7 13. Bf4 Nb6 14.
+a5 Nd7 15. Nd2 b5 16. axb6 Nxb6 17. Nde4 Bb7 18. Rd3 Nd5 19. Bg3 Qc6 20. f3
+a5 21. Rdd1 h5 22. Qb5 Rfd8 23. Qxc6 Bxc6 24. Bf2 Nxc3 25. Rxd8+ Rxd8 26.
+Nxc3 1/2-1/2
+

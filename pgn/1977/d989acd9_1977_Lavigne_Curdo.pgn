@@ -1,0 +1,18 @@
+[Event "Massachusetts"]
+[Site "Massachusetts"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Lavigne, G."]
+[Black "Curdo, John"]
+[Result "0-1"]
+[ECO "D07"]
+[Opening "QGD"]
+[Variation "Chigorin defence"]
+[HashCode "d989acd9"]
+[Epoch "Rook"]
+[BlackID "2001705"]
+[BlackCountry "USA"]
+
+1. d4 d5 2. c4 Nc6 3. Nf3 Bg4 4. e3 e5 5. Be2 dxc4 6. Nxe5 Nxe5 7. Bxg4 Nd3+ 8.
+Kf1 Qh4 9. g3 Qf6 10. f4 h5 11. Be2 O-O-O 12. Bxd3 cxd3 13. Qxd3 Qc6 14. e4
+Qxc1+ 15. Kg2 Qxb2+ 16. Nd2 Rxd4 0-1

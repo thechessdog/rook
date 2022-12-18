@@ -1,0 +1,26 @@
+[Event "Buenos Aires ch-ARG"]
+[Site "Buenos Aires ch-ARG"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Seidler, A."]
+[Black "Bronstein, Luis Marcos"]
+[Result "0-1"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical (two knights) system"]
+[HashCode "8acd2f1c"]
+[Epoch "Rook"]
+[BlackID "100463"]
+[BlackCountry "ARG"]
+
+1. e4 Nf6 2. Nc3 d6 3. d4 g6 4. Nf3 Bg7 5. Bg5 c6 6. d5 Nbd7 7. Bc4 b5 8. Bd3
+b4 9. dxc6 bxc3 10. cxd7+ Nxd7 11. b4 h6 12. Be3 Bb7 13. O-O O-O 14. Qe1 e5 15.
+Rd1 Qc7 16. Bc1 Nf6 17. Nh4 d5 18. exd5 Bxd5 19. Be3 e4 20. Be2 Bxa2 21. Bc5
+Be6 22. Bd6 Qb7 23. Bxf8 Rxf8 24. Rd6 Qe7 25. Rxe6 Qxe6 26. Qxc3 Nd5 27. Qb3
+Nf4 28. Bc4 Qg4 29. Qg3 Ne2+ 30. Bxe2 Qxe2 31. c3 Rc8 32. h3 Qd3 33. Qg4 Qxc3
+34. Rd1 Rb8 35. Rd7 Qc1+ 36. Kh2 Qg5 37. Qxe4 Qe5+ 38. Qxe5 Bxe5+ 39. g3 Rxb4
+40. Rxa7 Rxh4 41. f4 Bxf4 42. gxf4 Rxf4 43. Kg3 Rf5 44. h4 Kg7 45. Kg4 Rf6 46.
+Ra5 Rb6 47. Ra4 f5+ 48. Kf4 Kf6 49. Ra3 g5+ 50. hxg5+ hxg5+ 51. Kg3 Kg6 52. Rc3
+Kh5 53. Ra3 f4+ 54. Kf3 Kh4 55. Ra1 g4+ 56. Kxf4 Rf6+ 57. Ke3 Kg3 58. Rg1+ Kh3
+59. Rh1+ Kg2 60. Rh8 g3 61. Rg8 Rf7 62. Ra8 Kh2 63. Rh8+ Kg1 64. Ke2 g2 65. Ra8
+Rh7 0-1

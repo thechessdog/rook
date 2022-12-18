@@ -1,0 +1,21 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Hepp"]
+[Black "Keil"]
+[Result "0-1"]
+[ECO "C68"]
+[Opening "Ruy Lopez"]
+[Variation "exchange, Keres variation"]
+[HashCode "40e809bd"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. Nc3 f6 6. d4 exd4 7. Nxd4 c5
+8. Nb3 Qxd1+ 9. Nxd1 Be6 10. Nd2 Bd6 11. O-O Ne7 12. f4 c4 13. Nf3 Nc6 14.
+c3 h6 15. Nd4 Bd7 16. Ne3 b5 17. Nd5 Nxd4 18. cxd4 Bc6 19. Nc3 b4 20. d5
+Bc5+ 21. Kh1 Bd7 22. Ne2 Bg4 23. Ng3 Bd4 24. h3 h5 25. Kh2 O-O-O 26. d6
+Rxd6 27. e5 Rdd8 28. exf6 gxf6 29. Ne4 Be2 30. Re1 Bd3 31. Ng3 h4 32. Nf1
+Rhe8 33. Bd2 Bxf1 34. Rxe8 Rxe8 35. Rxf1 c5 36. Rc1 a5 37. Rxc4 Re2 38. Bc1
+Kd7 39. a3 Kd6 40. axb4 axb4 41. b3 f5 42. Kh1 Re1+ 0-1
+

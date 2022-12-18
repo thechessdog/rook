@@ -1,0 +1,21 @@
+[Event "corr ch10-DDR"]
+[Site "corr ch10-DDR"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Weinitschke, G."]
+[Black "Petzold, J."]
+[Result "1-0"]
+[ECO "C85"]
+[Opening "Ruy Lopez"]
+[Variation "Exchange variation doubly deferred (DERLD)"]
+[HashCode "072a6b95"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Bxc6 dxc6 7. Nc3 Bg4
+8. h3 Bh5 9. g4 Nxg4 10. hxg4 Bxg4 11. Kg2 Qd6 12. Ne2 O-O-O 13. Nh2 Bh5
+14. d3 f5 15. f3 fxe4 16. fxe4 Qg6+ 17. Kh1 Bc5 18. Bd2 Rhf8 19. Qe1 Kb8
+20. Ng1 Rxf1 21. Qxf1 Rf8 22. Qh3 Rf2 23. Ngf3 Bxf3+ 24. Nxf3 Qf6 25. Rf1
+Rxf1+ 26. Qxf1 Qf7 27. a3 Qh5+ 28. Nh2 Bd6 29. Qf3 Qh4 30. Kg2 c5 31. Qg4
+Qe7 32. Nf3 b5 33. Ng5 h6 34. Nf3 g5 35. Qf5 Kb7 36. Qg6 Qf8 37. Qe6 b4 38.
+Nxe5 h5 39. Qd5+ Ka7 40. axb4 Qf6 41. Nc6+ Kb6 42. bxc5+ Bxc5 43. Ba5+ 1-0
+

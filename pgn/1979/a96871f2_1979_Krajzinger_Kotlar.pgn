@@ -1,0 +1,18 @@
+[Event "corr ch-CSSR"]
+[Site "corr ch-CSSR"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Krajzinger"]
+[Black "Kotlar"]
+[Result "1-0"]
+[ECO "B17"]
+[Opening "Caro-Kann"]
+[Variation "Steinitz variation"]
+[HashCode "a96871f2"]
+[Epoch "Rook"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Bc4 Ngf6 6. Ng5 e6 7. Qe2 Nb6
+8. Bb3 Qxd4 9. N1f3 Qc5 10. Ne5 Be7 11. Nexf7 O-O 12. Bxe6 Bxe6 13. Qxe6
+Qd5 14. Nh6+ Kh8 15. Ngf7+ Rxf7 16. Nxf7+ Kg8 17. Ng5+ Kf8 18. O-O Bc5 19.
+Qxd5 Nbxd5 20. Ne6+ 1-0
+

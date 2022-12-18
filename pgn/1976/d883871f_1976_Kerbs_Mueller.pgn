@@ -1,0 +1,19 @@
+[Event "corr DDR/M"]
+[Site "corr DDR/M"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Kerbs, J."]
+[Black "Mueller"]
+[Result "1/2-1/2"]
+[ECO "E47"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 O-O, 5.Bd3"]
+[HashCode "d883871f"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d6 6. Ne2 Qe7 7. O-O Bxc3 8.
+Nxc3 e5 9. f3 Nc6 10. a3 a5 11. d5 Nb8 12. e4 Nbd7 13. f4 exf4 14. Bxf4 Ne5
+15. Bg5 Neg4 16. Be2 h6 17. Bxg4 hxg5 18. Bf5 g6 19. Bxc8 Raxc8 20. Qf3 Kg7
+21. Rf2 Nd7 22. Raf1 Ne5 23. Qe2 g4 24. g3 Rh8 25. Nb1 Nf3+ 26. Kh1 Rce8
+27. Nd2 Nxd2 28. Qxd2 Qxe4+ 29. Kg1 f5 30. Rxf5 gxf5 1/2-1/2
+

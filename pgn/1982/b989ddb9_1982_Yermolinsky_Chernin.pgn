@@ -1,0 +1,20 @@
+[Event "Odessa"]
+[Site "Odessa"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Yermolinsky, Alex"]
+[Black "Chernin, Alexander"]
+[Result "1/2-1/2"]
+[ECO "D15"]
+[Opening "QGD Slav"]
+[Variation "Tolush-Geller gambit"]
+[HashCode "b989ddb9"]
+[Epoch "Rook"]
+[BlackID "715620"]
+[BlackCountry "HUN"]
+[WhiteID "2005492"]
+[WhiteCountry "USA"]
+
+1. Nf3 d5 2. c4 c6 3. d4 Nf6 4. Nc3 dxc4 5. e4 b5 6. e5 Nd5 7. a4 e6 8. axb5
+Nxc3 9. bxc3 cxb5 10. Ng5 Bb7 11. Qh5 Qd7 12. Be2 h6 13. Bf3 Nc6 14. Ne4 Nxd4
+15. cxd4 Bb4+ 16. Bd2 Bxd2+ 17. Nxd2 Qxd4 18. O-O Bxf3 19. Nxf3 Qb6 1/2-1/2

@@ -1,0 +1,22 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Yurtaev, Leonid"]
+[Black "Gulko, Boris"]
+[Result "0-1"]
+[ECO "C16"]
+[Opening "French"]
+[Variation "Winawer, advance variation"]
+[HashCode "d92eff96"]
+[Epoch "Rook"]
+[BlackID "2000040"]
+[WhiteCountry "KGZ"]
+[BlackCountry "USA"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 b6 5. a3 Bf8 6. Nf3 Ne7 7. b4 c5 8. bxc5
+bxc5 9. Bb5+ Bd7 10. O-O Ng6 11. Rb1 Be7 12. dxc5 O-O 13. Qd4 Qc7 14. Be3 Rc8
+15. Qa4 a6 16. Rfe1 Bc6 17. Bxc6 Nxc6 18. Na2 Qa5 19. Qxa5 Nxa5 20. Nb4 Bxc5
+21. Bxc5 Rxc5 22. Nd4 Rc3 23. Nd3 Rxa3 24. Rb4 Rc3 25. Ra1 Nc6 26. Nxc6 Rxc6
+27. Ra2 h5 28. Kf1 Rc4 29. Rb6 a5 30. g3 a4 31. Rb7 Kf8 32. Rb6 Ne7 33. Nf4 Nc6
+34. Nxh5 Nb4 35. Ra3 Nxc2 36. Rf3 Rb4 0-1

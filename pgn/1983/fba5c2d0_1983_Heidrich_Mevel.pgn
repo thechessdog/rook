@@ -1,0 +1,20 @@
+[Event "Bundesliga 8283"]
+[Site "Duitsland tt"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Heidrich, Manfred"]
+[Black "Mevel, Alberic"]
+[Result "1/2-1/2"]
+[ECO "B52"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky attack, 3...Bd7"]
+[HashCode "fba5c2d0"]
+[Epoch "Rook"]
+[WhiteID "4602722"]
+[WhiteCountry "GER"]
+[BlackID "602574"]
+[BlackCountry "FRA"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. a4 Nc6 5. O-O Nf6 6. Re1 e6 7. d3 Be7 8. Nbd2
+O-O 9. Nc4 Rc8 10. e5 dxe5 11. Nfxe5 Nxe5 12. Nxe5 Bxb5 13. axb5 Qb6 14. Bg5
+Rfd8 15. Nc4 Qxb5 16. Rxa7 Nd5 17. Bxe7 1/2-1/2

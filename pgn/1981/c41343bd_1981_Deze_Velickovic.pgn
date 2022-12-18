@@ -1,0 +1,17 @@
+[Event "Novi Sad"]
+[Site "Novi Sad"]
+[Date "1981.01.01"]
+[Round "8"]
+[White "Deze, Anton"]
+[Black "Velickovic, Sasa"]
+[Result "1/2-1/2"]
+[ECO "A56"]
+[Opening "Benoni defence, Hromodka system"]
+[HashCode "c41343bd"]
+[Epoch "Rook"]
+[BlackID "900869"]
+[BlackCountry "SRB"]
+[WhiteCountry "SRB"]
+
+1. d4 Nf6 2. c4 c5 3. d5 d6 4. Nc3 g6 5. e4 Bg7 6. Nf3 O-O 7. h3 e6 8. Bd3 exd5
+9. exd5 Re8+ 10. Be3 Bh6 11. O-O Bxe3 12. fxe3 Kg7 1/2-1/2

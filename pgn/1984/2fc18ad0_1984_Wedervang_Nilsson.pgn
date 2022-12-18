@@ -1,0 +1,27 @@
+[Event "Lyngby"]
+[Site "Lyngby"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Wedervang, Kim"]
+[Black "Nilsson, Lars"]
+[Result "1-0"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "modern variation"]
+[HashCode "2fc18ad0"]
+[Epoch "Rook"]
+[WhiteID "1424521"]
+[WhiteCountry "DEN"]
+
+1. b3 e5 2. Bb2 Nc6 3. e3 d5 4. Bb5 Bd6 5. Bxc6+ bxc6 6. Ne2 Ne7 7. O-O O-O 8.
+f4 f6 9. c4 Ng6 10. fxe5 fxe5 11. Nbc3 Be6 12. cxd5 Bxd5 13. Ng3 Qh4 14. Nf5
+Rxf5 15. Rxf5 Rf8 16. Rxf8+ Kxf8 17. Nxd5 cxd5 18. Qf3+ Ke7 19. Rf1 e4 20. Qf7+
+Kd8 21. Qg8+ Kd7 22. Qf7+ Ne7 23. Rf2 Bxh2+ 24. Kf1 Bg3 25. Ba3 Bxf2 26. Bxe7
+Qxe7 27. Qxd5+ Ke8 28. Kxf2 Qf6+ 29. Kg3 Qe7 30. Kf4 Qh4+ 31. g4 Qh2+ 32. Kg5
+Qh6+ 33. Kf5 Qg6+ 34. Kf4 Qf6+ 35. Kxe4 Qg6+ 36. Qf5 Qc6+ 37. Kf4 Qh6+ 38. Kg3
+Qd6+ 39. Kf3 Qxd2 40. Qe6+ Kd8 41. Qg8+ Kd7 42. Qxg7+ Kc6 43. Qxh7 Qd1+ 44. Kf4
+Qd6+ 45. Ke4 Qd5+ 46. Kf4 Qd6+ 47. Kg5 Qe5+ 48. Qf5 Qxe3+ 49. Qf4 Qc5+ 50. Kh4
+Qe7+ 51. g5 Qh7+ 52. Kg3 Kb7 53. Qf6 Qc2 54. g6 Qc1 55. g7 Qg1+ 56. Kf4 Qf2+
+57. Ke5 Qg3+ 58. Kd4 Qg1+ 59. Kc4 Qg4+ 60. Kc3 Qg1 61. Kb2 Qg2+ 62. Ka3 Qg1 63.
+Qf3+ Kb6 64. Qc3 a5 65. b4 axb4+ 66. Qxb4+ Ka6 67. Qc4+ Kb7 68. g8=Q Qa7+ 69.
+Qa4 1-0

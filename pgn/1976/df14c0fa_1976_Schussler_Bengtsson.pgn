@@ -1,0 +1,20 @@
+[Event "Sweden"]
+[Site "Sweden"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Schussler, Harry"]
+[Black "Bengtsson, Bo"]
+[Result "1/2-1/2"]
+[ECO "B51"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky (Nimzovich-Rossolimo, Moscow) attack"]
+[HashCode "df14c0fa"]
+[Epoch "Rook"]
+[WhiteID "1700081"]
+[WhiteCountry "SWE"]
+[BlackID "1700804"]
+[BlackCountry "SWE"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Nc6 4. O-O Bd7 5. c3 a6 6. Ba4 c4 7. d4 cxd3 8. Qxd3
+g6 9. Bf4 Bg7 10. Nbd2 Nf6 11. h3 O-O 12. Qe3 d5 13. Bb3 dxe4 14. Nxe4 Nxe4 15.
+Qxe4 Na5 1/2-1/2

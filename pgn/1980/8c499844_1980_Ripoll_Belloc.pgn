@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Ripoll"]
+[Black "Belloc"]
+[Result "1-0"]
+[ECO "C85"]
+[Opening "Ruy Lopez"]
+[Variation "Exchange variation doubly deferred (DERLD)"]
+[HashCode "8c499844"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Bxc6 dxc6 7. d3 Qd6
+8. Nbd2 Be6 9. b3 O-O 10. Bb2 Nd7 11. h3 Bf6 12. Re1 c5 13. Nh2 g6 14. Ng4
+Bg7 15. Nc4 Bxc4 16. dxc4 h5 17. Qxd6 cxd6 18. Ne3 Rad8 19. Rad1 Nb8 20.
+Rd3 Rfe8 21. Red1 Bf8 22. Nd5 Re6 23. f4 Nc6 24. f5 gxf5 25. exf5 Rh6 26.
+Bc1 1-0
+

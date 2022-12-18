@@ -1,0 +1,19 @@
+[Event "corr CSSR"]
+[Site "corr CSSR"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Vragenknecht"]
+[Black "Halouzka"]
+[Result "1-0"]
+[ECO "B92"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Opovcensky variation"]
+[HashCode "d56dc0f4"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8.
+O-O O-O 9. a4 Nc6 10. f4 b5 11. axb5 Qb6+ 12. Kh1 Nb4 13. Bd2 d5 14. fxe5
+Nxe4 15. Nxe4 dxe4 16. Bxb4 Bxb4 17. c3 Be7 18. Nd4 Bg5 19. Qe1 Qb7 20. Qg3
+Bh6 21. bxa6 Qxb2 22. Bc4 Kh8 23. Rfb1 Qd2 24. Ra2 Rb8 25. Rf1 Rb2 26. Rxb2
+Qxb2 27. e6 Qa3 28. Nb5 Qe7 29. Qd6 1-0
+

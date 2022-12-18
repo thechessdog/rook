@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Jauch"]
+[Black "Schartner"]
+[Result "1-0"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance variation"]
+[HashCode "7d3cd394"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. Bb5+ Nc6 5. c3 Qb6 6. Bxc6+ bxc6 7. Ne2 Ba6
+8. Qc2 cxd4 9. Nxd4 Ne7 10. Be3 Qb7 11. b4 Ng6 12. f4 Be7 13. Nd2 O-O 14.
+N2b3 Qd7 15. Ne2 f6 16. exf6 Rxf6 17. O-O Raf8 18. g3 e5 19. Nc5 Bxc5 1-0
+

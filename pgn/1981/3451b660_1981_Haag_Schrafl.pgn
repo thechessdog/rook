@@ -1,0 +1,18 @@
+[Event "Budapest"]
+[Site "Budapest"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Haag, Ervin"]
+[Black "Schrafl"]
+[Result "1-0"]
+[ECO "B99"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7...Be7 main line"]
+[HashCode "3451b660"]
+[Epoch "Rook"]
+[WhiteID "700398"]
+[WhiteCountry "HUN"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3
+Qc7 9. O-O-O Nbd7 10. g4 b5 11. Bxf6 gxf6 12. Bd3 Nc5 13. Rhe1 b4 14. Nd5 exd5
+15. exd5 Nxd3+ 16. Rxd3 O-O 17. Qh3 Qc4 18. Qh6 1-0

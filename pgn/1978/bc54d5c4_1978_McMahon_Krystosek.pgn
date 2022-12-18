@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1978.01.01"]
+[Round "1"]
+[White "McMahon"]
+[Black "Krystosek, T."]
+[Result "1-0"]
+[ECO "C39"]
+[Opening "KGA"]
+[Variation "Kieseritsky, Berlin defence"]
+[HashCode "bc54d5c4"]
+[Epoch "Rook"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. h4 g4 5. Ne5 Nf6 6. Nxg4 Nxe4 7. Qe2 d5 8.
+d3 Bxg4 9. Qxg4 Ng3 10. Rh3 Bd6 11. Bxf4 Qe7+ 12. Kf2 Bc5+ 13. Kxg3 Qe1+
+14. Kh2 Qxf1 15. Nc3 Bg1+ 16. Kh1 Qxa1 17. Qc8+ Ke7 18. Nxd5# 1-0
+

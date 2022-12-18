@@ -1,0 +1,20 @@
+[Event "Prague"]
+[Site "Prague"]
+[Date "1983.01.01"]
+[Round "2"]
+[White "Ambroz, Jan"]
+[Black "Prandstetter, Eduard"]
+[Result "1/2-1/2"]
+[ECO "C05"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation"]
+[HashCode "392b229c"]
+[Epoch "Rook"]
+[WhiteID "300209"]
+[WhiteCountry "CZE"]
+[BlackID "300225"]
+[BlackCountry "CZE"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. f4 b6 6. Ndf3 g6 7. Ne2 c5 8. g3 Ba6
+9. Bg2 Nc6 10. c3 Rc8 11. O-O cxd4 12. cxd4 Nb4 13. Bd2 Bd3 14. Bc3 Be4 15. Qd2
+Nc6 16. Bh3 h5 17. Rac1 Be7 18. Ng5 1/2-1/2

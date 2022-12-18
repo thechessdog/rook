@@ -1,0 +1,18 @@
+[Event "Capablanca mem-B 13th"]
+[Site "Cienfuegos"]
+[Date "1976.05.28"]
+[Round "12"]
+[White "Remon, Adelquis"]
+[Black "Perez Perez, Francisco Jose"]
+[Result "1-0"]
+[ECO "A65"]
+[Opening "Benoni"]
+[Variation "6.e4"]
+[HashCode "9af8ac3d"]
+[Epoch "Rook"]
+[BlackCountry "EST"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 c5 4. d5 exd5 5. cxd5 d6 6. e4 Be7 7. Bd3 O-O 8. Nge2
+b6 9. O-O Ba6 10. a4 Bxd3 11. Qxd3 a6 12. f4 Nfd7 13. Rf3 Re8 14. g4 Bf6 15. g5
+Bxc3 16. Qxc3 f6 17. Ng3 g6 18. b3 Nf8 19. Bb2 Nbd7 20. gxf6 Kf7 21. e5 dxe5
+22. Ne4 1-0

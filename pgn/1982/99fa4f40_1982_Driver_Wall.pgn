@@ -1,0 +1,17 @@
+[Event "Dayton,OH"]
+[Site "Dayton,OH"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Driver, Dan"]
+[Black "Wall, Bill"]
+[Result "1-0"]
+[ECO "C05"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation"]
+[HashCode "99fa4f40"]
+[Epoch "Rook"]
+[BlackCountry "USA"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. f4 c5 6. c3 Nc6 7. Ndf3 c4 8. g3 Be7
+9. Bh3 Nb6 10. Ne2 a5 11. O-O h5 12. Qc2 Bd7 13. f5 exf5 14. Bxf5 g6 15. Bxg6
+fxg6 16. Qxg6+ Kf8 17. Ng5+ 1-0

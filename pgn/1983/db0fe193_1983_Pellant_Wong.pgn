@@ -1,0 +1,18 @@
+[Event "Pasadena"]
+[Site "Pasadena"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Pellant, Timothy"]
+[Black "Wong"]
+[Result "1-0"]
+[ECO "B97"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Poisoned pawn variation"]
+[HashCode "db0fe193"]
+[Epoch "Rook"]
+[WhiteID "2002817"]
+[WhiteCountry "USA"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qb6 8. Qd2
+Qxb2 9. Rb1 Qa3 10. Be2 Nc6 11. Nxc6 bxc6 12. e5 dxe5 13. fxe5 Nd5 14. Rb3 Qa5
+15. O-O Bb4 16. Rxb4 Qc5+ 17. Rd4 Qxc3 18. Qxc3 1-0

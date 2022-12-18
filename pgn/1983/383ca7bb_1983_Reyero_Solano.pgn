@@ -1,0 +1,19 @@
+[Event "corr Spain"]
+[Site "corr Spain"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Reyero"]
+[Black "Solano"]
+[Result "0-1"]
+[ECO "E56"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line with 7...Nc6"]
+[HashCode "383ca7bb"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 c5 7. O-O Nc6 8.
+a3 Ba5 9. cxd5 exd5 10. dxc5 Bxc3 11. bxc3 Bg4 12. c4 dxc4 13. Bxc4 Qa5 14.
+Qc2 Bxf3 15. gxf3 Ne5 16. Be2 Rac8 17. Bd2 Rxc5 18. Qb2 Qc7 19. Rfc1 Rc6
+20. Rxc6 bxc6 21. Rc1 Re8 22. e4 Re6 23. Rb1 Ned7 24. Kh1 Re7 25. Rg1 Ne8
+26. Bc3 f6 27. Bc4+ Kh8 28. Ba2 Qb6 29. Bb4 Nc5 0-1
+

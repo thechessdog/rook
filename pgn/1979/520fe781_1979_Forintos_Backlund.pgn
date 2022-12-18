@@ -1,0 +1,18 @@
+[Event "corr Heilimo mem"]
+[Site "corr Heilimo mem"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Forintos, Gyozo V"]
+[Black "Backlund"]
+[Result "1/2-1/2"]
+[ECO "E77"]
+[Opening "King's Indian"]
+[Variation "Four pawns attack, 6.Be2"]
+[HashCode "520fe781"]
+[Epoch "Rook"]
+[WhiteID "700690"]
+[WhiteCountry "HUN"]
+
+1. c4 Nf6 2. Nc3 g6 3. d4 Bg7 4. e4 d6 5. Be2 O-O 6. f4 e5 7. fxe5 dxe5 8. d5
+c5 9. Bg5 h6 10. Be3 b6 11. Qd2 Kh7 12. Nf3 Ne8 13. h3 f5 14. g4 f4 15. Bf2 Nd6
+16. a3 Ba6 17. b3 Nd7 18. Qd3 Qe7 19. Nd2 Rfc8 20. Bf3 Bb7 1/2-1/2

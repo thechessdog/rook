@@ -1,0 +1,22 @@
+[Event "Yugoslavia"]
+[Site "Yugoslavia"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Sines, Josip"]
+[Black "Dizdar, Goran"]
+[Result "1-0"]
+[ECO "E20"]
+[Opening "Nimzo-Indian"]
+[Variation "Kmoch variation"]
+[HashCode "cbb80db0"]
+[Epoch "Rook"]
+[BlackID "14500124"]
+[BlackCountry "CRO"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. f3 c5 5. d5 Nh5 6. g3 Bxc3+ 7. bxc3 f5 8. Nh3
+e5 9. e4 f4 10. d6 Nc6 11. Qd5 b6 12. gxf4 Qh4+ 13. Kd1 Nf6 14. Qd3 Ba6 15. Qe2
+O-O-O 16. Rg1 Rde8 17. f5 Na5 18. Rxg7 Bxc4 19. Qg2 Qh5 20. Bxc4 Nxc4 21. Qf1
+Nxd6 22. Kc2 Rhg8 23. Rg5 Qf7 24. Qa6+ Kb8 25. Rb1 Nc4 26. Rg3 d5 27. Ng5 Qh5
+28. Rh3 Rxg5 29. Rxh5 Rxh5 30. exd5 Rxh2+ 31. Kd3 Nd6 32. Rxb6+ axb6 33. Qxb6+
+Kc8 34. Qc6+ Kd8 35. Qxd6+ Nd7 36. Bg5+ Kc8 37. Qc6+ Kb8 38. Qxd7 Rg8 39. Qb5+
+Kc7 40. Qxc5+ Kd7 41. Qc6# 1-0

@@ -1,0 +1,23 @@
+[Event "Belfort"]
+[Site "Belfort"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Georgiev, K."]
+[Black "Dlugy, Maxim"]
+[Result "1-0"]
+[ECO "D29"]
+[Opening "QGA"]
+[Variation "classical, 8...Bb7"]
+[HashCode "de41f8b9"]
+[Epoch "Rook"]
+[BlackID "2000075"]
+[WhiteCountry "BGR"]
+[BlackCountry "USA"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. e3 e6 5. Bxc4 c5 6. O-O a6 7. Qe2 b5 8. Bb3
+Bb7 9. Rd1 Be7 10. Nc3 O-O 11. e4 b4 12. d5 bxc3 13. dxe6 Qb6 14. e5 Ne4 15.
+exf7+ Kh8 16. e6 Bf6 17. Ne5 Qc7 18. Ng6+ hxg6 19. Rd3 Ng5 20. Bxg5 Bxg5 21. e7
+Nc6 22. e8=Q cxb2 23. Qxb2 Nd4 24. Rh3+ Bh6 25. Qe3 Kh7 26. Qbc1 Nf5 27. Qexc5
+Qd8 28. Qe1 Qg5 29. Rg3 Qf4 30. Qce5 Qh4 31. Rxg6 Kxg6 32. Be6 Qg5 33. g3 Qf6
+34. g4 Qxe5 35. Qxe5 Ne7 36. Bf5+ Kxf7 37. Qe6+ Ke8 38. Bg6+ Kd8 39. Rd1+ Nd5
+40. Qd6+ 1-0

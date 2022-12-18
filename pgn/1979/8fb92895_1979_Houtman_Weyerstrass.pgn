@@ -1,0 +1,16 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Houtman, A."]
+[Black "Weyerstrass, Ronald"]
+[Result "0-1"]
+[ECO "B04"]
+[Opening "Alekhine's defence"]
+[Variation "modern, Keres variation"]
+[HashCode "8fb92895"]
+[Epoch "Rook"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. Nf3 g6 5. Bc4 Nb6 6. Bb3 Bg7 7. a4 dxe5 8. a5
+N6d7 9. dxe5 Nxe5 10. Qxd8+ Kxd8 11. Nxe5 Bxe5 12. Bxf7 e6 13. Bg5+ Kd7 14. O-O
+Rf8 15. Re1 Nc6 16. f4 Bd4+ 17. Kh1 Rxf7 0-1

@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Butze, Roland"]
+[Black "Schneider, G."]
+[Result "1-0"]
+[ECO "B92"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Opovcensky variation"]
+[HashCode "699fffdf"]
+[Epoch "Rook"]
+[WhiteCountry "DEU"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8. O-O
+O-O 9. Be3 Be6 10. f4 Qc7 11. a4 Nbd7 12. Kh1 exf4 13. Rxf4 Ne5 14. a5 Bc4 15.
+Ra4 Bxe2 16. Qxe2 Rad8 17. Bb6 1-0

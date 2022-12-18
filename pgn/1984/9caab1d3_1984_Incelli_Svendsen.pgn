@@ -1,0 +1,20 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Incelli, Renato"]
+[Black "Svendsen"]
+[Result "1-0"]
+[ECO "B97"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Poisoned pawn variation"]
+[HashCode "9caab1d3"]
+[Epoch "Rook"]
+[WhiteID "843911"]
+[WhiteCountry "ITA"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qb6 8. Qd2
+Qxb2 9. Rb1 Qa3 10. Be2 Be7 11. O-O h6 12. Bh4 Nbd7 13. Kh1 Qa5 14. f5 e5 15.
+Ne6 fxe6 16. fxe6 Nf8 17. Bxf6 gxf6 18. Rxf6 Bxf6 19. Qxd6 Bxe6 20. Bh5+ Bf7
+21. Nd5 Bxh5 22. Nxf6+ Kf7 23. Rxb7+ Kg6 24. Ng4+ Kg5 25. Qf6+ Kxg4 26. Qf5+
+Kh4 27. g3# 1-0

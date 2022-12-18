@@ -1,0 +1,26 @@
+[Event "ACM Houston"]
+[Site "ACM Houston"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Chaos"]
+[Black "Duchess"]
+[Result "1-0"]
+[ECO "D57"]
+[Opening "QGD"]
+[Variation "Lasker defence, Bernstein variation"]
+[HashCode "0542a864"]
+[Epoch "Rook"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. e3 O-O 6. Nf3 h6 7. Bh4 Ne4 8.
+Bxe7 Qxe7 9. cxd5 Nxc3 10. bxc3 exd5 11. Qb3 Qd6 12. c4 dxc4 13. Bxc4 Nc6
+14. Rc1 Na5 15. Qc2 Nxc4 16. Qxc4 Bg4 17. h3 Bxf3 18. gxf3 Rfc8 19. Rg1 c6
+20. f4 Re8 21. Kd2 a6 22. a4 a5 23. Rb1 Re7 24. h4 Rc8 25. Qc3 Qd5 26. Qb3
+Qxb3 27. Rxb3 Rd8 28. Kc2 f5 29. h5 Kh8 30. Rgb1 Rdd7 31. Rg1 Rd5 32. Rg6
+b5 33. Rxc6 b4 34. Rc4 Rb7 35. Kc1 Re7 36. Rc8+ Kh7 37. Rc6 Kg8 38. Rc8+
+Kf7 39. Rb2 Re8 40. Rxe8 Kxe8 41. Rc2 Kd7 42. Kb2 Kd6 43. Kb3 Kd7 44. Rc1
+Ke8 45. Rc6 Kf7 46. Ra6 Kg8 47. Kc4 b3 48. Kxb3 Kf7 49. Kc4 Rd8 50. Rxa5
+Kf6 51. Ra6+ Kf7 52. Kb5 Kg8 53. a5 Kh8 54. Rb6 Rd5+ 55. Kb4 Rd7 56. Rb5
+Rf7 57. a6 Ra7 58. Ka5 Rf7 59. Rb7 Rf8 60. a7 Kh7 61. Rb8 Rf7 62. a8=Q Ra7+
+63. Kb6 Rxa8 64. Rxa8 g6 65. Ra7+ Kg8 66. hxg6 h5 67. Rf7 h4 68. d5 h3 69.
+d6 h2 70. d7 h1=Q 71. d8=Q# 1-0
+

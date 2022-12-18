@@ -1,0 +1,19 @@
+[Event "Capablanca mem-B"]
+[Site "Cienfuegos"]
+[Date "1984.??.??"]
+[Round "?"]
+[White "Vera Gonzalez-Quevedo, Reynaldo"]
+[Black "Zapata, Alonso"]
+[Result "1/2-1/2"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "2c9a1470"]
+[Epoch "Rook"]
+[BlackID "4400011"]
+[BlackCountry "COL"]
+[WhiteCountry "CUB"]
+
+1. e4 c5 2. c3 e6 3. d4 d5 4. exd5 exd5 5. Nf3 Nc6 6. Be3 c4 7. b3 cxb3 8. axb3
+Bd6 9. Be2 Nge7 10. O-O O-O 11. c4 Bg4 12. Nc3 a6 13. h3 Bh5 14. Qd2 Rc8 15. c5
+Bb8 16. Bf4 Re8 17. Bxb8 Rxb8 18. Rfe1 1/2-1/2

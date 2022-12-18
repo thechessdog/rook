@@ -1,0 +1,19 @@
+[Event "Reykjavik"]
+[Site "Reykjavik"]
+[Date "1976.01.01"]
+[Round "2"]
+[White "Angantysson, Haukur"]
+[Black "Antoshin, Vladimir S"]
+[Result "0-1"]
+[ECO "C41"]
+[Opening "Philidor"]
+[Variation "exchange variation"]
+[HashCode "c49f2890"]
+[Epoch "Rook"]
+[BlackCountry "RUS"]
+[WhiteCountry "ISL"]
+
+1. e4 e5 2. Nf3 d6 3. d4 exd4 4. Nxd4 Nf6 5. Nc3 Be7 6. Bc4 O-O 7. O-O a6 8. a4
+Nc6 9. Bf4 Nb4 10. Bb3 c5 11. Nf3 Be6 12. Nd2 d5 13. exd5 Nfxd5 14. Nxd5 Nxd5
+15. Bg3 b5 16. c3 Qd7 17. Nf3 Rad8 18. axb5 axb5 19. Ra5 c4 20. Bc2 b4 21. Qa1
+Bf6 22. Ne5 Qc8 23. Be4 Rfe8 24. Rd1 bxc3 25. Bxd5 c2 26. Rd2 Bxd5 0-1

@@ -1,0 +1,20 @@
+[Event "Kharkov"]
+[Site "Kharkov"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Naumkin, Igor"]
+[Black "Gorshkov"]
+[Result "1-0"]
+[ECO "A67"]
+[Opening "Benoni"]
+[Variation "Taimanov variation"]
+[HashCode "8571a436"]
+[Epoch "Rook"]
+[WhiteID "4101715"]
+[WhiteCountry "RUS"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. f4 Bg7 8. Bb5+
+Nfd7 9. Nf3 a6 10. Bd3 b5 11. O-O O-O 12. Kh1 Nf6 13. e5 dxe5 14. fxe5 Ng4 15.
+Bg5 f6 16. exf6 Nxf6 17. Qd2 Nbd7 18. Rae1 Ra7 19. Bc2 Bb7 20. d6 b4 21. Bb3+
+Kh8 22. Nd5 Bxd5 23. Bxd5 Nb6 24. Be6 Qa8 25. Qd3 Qc6 26. Ne5 Qb5 27. Qh3 Nh5
+28. Rxf8+ 1-0

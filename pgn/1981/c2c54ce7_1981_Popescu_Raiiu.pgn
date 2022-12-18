@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Popescu, N."]
+[Black "Raiiu, T."]
+[Result "1-0"]
+[ECO "B00"]
+[Opening "KP"]
+[Variation "Nimzovich defence, Bogolyubov variation"]
+[HashCode "c2c54ce7"]
+[Epoch "Rook"]
+
+1. e4 Nc6 2. d4 d5 3. Nc3 dxe4 4. d5 Ne5 5. Qd4 f6 6. Qxe4 a6 7. Bf4 Nf7 8.
+Bd3 g6 9. Nge2 Ngh6 10. Nd4 Nf5 11. Ne6 Bxe6 12. dxe6 N7d6 13. Bxd6 Nxd6
+14. Qxg6+ 1-0
+

@@ -1,0 +1,24 @@
+[Event "Yugoslavia"]
+[Site "Yugoslavia"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Matulovic, Milan"]
+[Black "Deze, Anton"]
+[Result "0-1"]
+[ECO "B69"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...a6 defence, 11.Bxf6"]
+[HashCode "4e53f95e"]
+[Epoch "Rook"]
+[WhiteCountry "SRB"]
+[BlackCountry "SRB"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 e6 7. Qd2 a6 8.
+O-O-O Bd7 9. f4 Be7 10. Nf3 b5 11. Bxf6 gxf6 12. Kb1 Qb6 13. g3 O-O-O 14. f5
+Kb8 15. fxe6 fxe6 16. Bh3 Bc8 17. Qe1 Qc5 18. Ne2 d5 19. exd5 Nb4 20. Ned4 e5
+21. Qxb4 Qxb4 22. Nc6+ Kc7 23. Nxb4 Bxh3 24. Nc6 Bg2 25. Nxd8 Rxd8 26. Nh4 Bxh1
+27. Rxh1 Rxd5 28. Nf5 Bc5 29. g4 e4 30. Ng3 e3 31. c3 h5 32. h3 h4 33. Ne4 e2
+34. Kc2 Re5 35. Kd3 f5 36. gxf5 Rxe4 37. Kxe4 Bf2 38. Kd5 Kd7 39. b3 Ke7 40. c4
+bxc4 41. bxc4 Kf6 42. c5 e1=Q 43. Rxe1 Bxe1 44. Kc6 Bf2 45. Kd6 Kxf5 46. c6 Bb6
+47. Kd7 Kf4 48. Kc8 Kg3 49. Kb7 Bd8 50. Kxa6 Kxh3 51. Kb7 Kg4 52. a4 h3 53. c7
+Bxc7 54. Kxc7 h2 55. a5 h1=Q 56. a6 0-1

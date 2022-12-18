@@ -1,0 +1,18 @@
+[Event "corr NLD/H"]
+[Site "corr NLD/H"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Lambooy"]
+[Black "Anjewierden"]
+[Result "0-1"]
+[ECO "B96"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Polugayevsky, Simagin variation"]
+[HashCode "58b497b8"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 b5 8.
+e5 dxe5 9. fxe5 Qc7 10. Qe2 Nfd7 11. O-O-O Bb7 12. Qg4 Qb6 13. Be2 Nxe5 14.
+Qh5 Nbd7 15. Rhe1 g6 16. Qh4 Bg7 17. Be7 Rc8 18. Bxb5 axb5 19. Ndxb5 Nc4
+20. a4 h6 21. Rd6 g5 22. Qh5 Nxd6 23. Bxd6 e5 24. Rf1 Qe3+ 25. Kb1 Nf6 0-1
+

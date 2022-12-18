@@ -1,0 +1,20 @@
+[Event "Helsinki"]
+[Site "Helsinki"]
+[Date "1981.01.01"]
+[Round "9"]
+[White "Raaste, Eero J."]
+[Black "Matulovic, Milan"]
+[Result "0-1"]
+[ECO "B26"]
+[Opening "Sicilian"]
+[Variation "closed, 6.Be3"]
+[HashCode "e4bdcb67"]
+[Epoch "Rook"]
+[WhiteID "500097"]
+[WhiteCountry "FIN"]
+[BlackCountry "SRB"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. Be3 e6 7. Qd2 Rb8 8. h3 b5
+9. Nge2 Nd4 10. O-O Ne7 11. Nd1 O-O 12. Nxd4 cxd4 13. Bh6 Bxh6 14. Qxh6 Bb7 15.
+h4 Rc8 16. c3 dxc3 17. bxc3 d5 18. h5 dxe4 19. dxe4 Rc5 20. g4 gxh5 21. gxh5
+Nc8 22. Ne3 Qh4 23. Bf3 Rg5+ 24. Ng2 f6 25. Rfd1 Qf4 26. Kf1 Qxf3 0-1

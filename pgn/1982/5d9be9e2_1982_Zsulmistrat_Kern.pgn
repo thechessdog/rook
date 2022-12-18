@@ -1,0 +1,18 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Zsulmistrat"]
+[Black "Kern"]
+[Result "1-0"]
+[ECO "C00"]
+[Opening "French"]
+[Variation "Alapin variation"]
+[HashCode "5d9be9e2"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Be3 dxe4 4. Nd2 Nf6 5. f3 b6 6. fxe4 Bb7 7. Bd3 Be7 8.
+Nh3 Nc6 9. c3 Qd7 10. Qe2 h6 11. O-O O-O-O 12. b4 Kb8 13. Bb5 Qc8 14. a3
+Rdf8 15. a4 Ka8 16. a5 Nb8 17. axb6 cxb6 18. Nc4 Nfd7 19. d5 exd5 20. exd5
+Qc7 21. Qf2 Nc5 22. bxc5 bxc5 23. d6 1-0
+

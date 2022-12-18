@@ -1,0 +1,19 @@
+[Event "Vancouver"]
+[Site "Vancouver"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Paranjpe, P."]
+[Black "McCann, Kevin"]
+[Result "1-0"]
+[ECO "A31"]
+[Opening "English"]
+[Variation "symmetrical, Benoni formation"]
+[HashCode "70d517af"]
+[Epoch "Rook"]
+[BlackID "2500248"]
+[BlackCountry "IRL"]
+
+1. d4 Nf6 2. c4 c5 3. Nf3 cxd4 4. Nxd4 Nc6 5. Nxc6 bxc6 6. Nc3 d5 7. cxd5 cxd5
+8. e4 d4 9. e5 dxc3 10. Qxd8+ Kxd8 11. exf6 cxb2 12. Bxb2 gxf6 13. Rd1+ Kc7 14.
+Bb5 Rb8 15. Rc1+ Kb6 16. Bd4+ Ka5 17. Bd3 e5 18. Bc3+ Ka4 19. O-O Ba3 20. Bc2+
+1-0

@@ -1,0 +1,19 @@
+[Event "Budapest"]
+[Site "Budapest"]
+[Date "1982.01.01"]
+[Round "9"]
+[White "Petran, Pal"]
+[Black "Szekely, Peter"]
+[Result "1/2-1/2"]
+[ECO "E52"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line with ...b6"]
+[HashCode "742a7e78"]
+[Epoch "Rook"]
+[WhiteID "700304"]
+[WhiteCountry "HUN"]
+[BlackID "14937492"]
+[BlackCountry "SVK"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 b6 7. O-O Bb7 8. Qe2
+Nbd7 9. Rd1 c5 10. Bd2 dxc4 11. Bxc4 cxd4 1/2-1/2

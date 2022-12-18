@@ -1,0 +1,21 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Hjartarson, Johann"]
+[Black "Aseev, Konstantin N"]
+[Result "1/2-1/2"]
+[ECO "C92"]
+[Opening "Ruy Lopez"]
+[Variation "closed, 9.h3"]
+[HashCode "10a997a6"]
+[Epoch "Rook"]
+[WhiteID "2300044"]
+[WhiteCountry "ISL"]
+[BlackCountry "RUS"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. h3 Re8 10. d4 Bb7 11. a4 h6 12. d5 Na5 13. Ba2 c6 14. Na3 cxd5 15. exd5
+bxa4 16. Qxa4 Bc8 17. b4 Nb7 18. Qc6 a5 19. Nc4 axb4 20. cxb4 Rb8 21. Nb6 Bf5
+22. Bc4 Bf8 23. Ra7 Re7 24. Be3 Nc5 25. Rxe7 Rxb6 26. Qc7 Bxe7 27. Qxd8+ Bxd8
+28. bxc5 Rb4 29. Rc1 Bc7 30. Nd2 dxc5 31. Bxc5 Rb2 32. Nf3 Ne8 33. Ba3 1/2-1/2

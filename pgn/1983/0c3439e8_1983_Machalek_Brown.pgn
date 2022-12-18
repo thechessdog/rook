@@ -1,0 +1,18 @@
+[Event "Strzybnica jr"]
+[Site "Strzybnica jr"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Machalek"]
+[Black "Brown, Simon D"]
+[Result "0-1"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Milner-Barry gambit"]
+[HashCode "0c3439e8"]
+[Epoch "Rook"]
+[BlackID "401706"]
+[BlackCountry "ENG"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. O-O
+Nxd4 9. Ng5 f5 10. exf6 Nxf6 11. Nxh7 O-O-O 12. Nxf8 Rdxf8 13. Bf4 Ne4 14. Bxe4
+Rxf4 15. Qc1+ Bc6 16. Bd3 Qc7 17. Qe3 Rf3 0-1

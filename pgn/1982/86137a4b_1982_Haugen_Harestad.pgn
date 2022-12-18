@@ -1,0 +1,19 @@
+[Event "Randaberg"]
+[Site "Randaberg"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Haugen, Arild"]
+[Black "Harestad, Ove Henning"]
+[Result "1-0"]
+[ECO "A36"]
+[Opening "English"]
+[Variation "symmetrical, Botvinnik system"]
+[HashCode "86137a4b"]
+[Epoch "Rook"]
+[WhiteID "1505076"]
+[WhiteCountry "NOR"]
+
+1. c4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. e4 d6 6. Nge2 Nf6 7. O-O O-O 8. d3
+Nh5 9. Rb1 Nd4 10. Nxd4 cxd4 11. Ne2 e5 12. h3 f5 13. exf5 gxf5 14. Nxd4 Nxg3
+15. fxg3 exd4 16. Bd5+ Kh8 17. Qf3 Be5 18. Bh6 Bg7 19. Bxg7+ Kxg7 20. Bxb7 Bxb7
+21. Qxb7+ Rf7 22. Qd5 Qc8 23. Qxd4+ Kg8 24. Qd5 1-0

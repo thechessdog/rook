@@ -1,0 +1,18 @@
+[Event "Alma Ata"]
+[Site "Alma Ata"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Golyak, Isay G"]
+[Black "Bakitzanov"]
+[Result "1-0"]
+[ECO "B07"]
+[Opening "Pirc"]
+[Variation "Byrne variation"]
+[HashCode "d7243b3c"]
+[Epoch "Rook"]
+[WhiteID "2009196"]
+[WhiteCountry "USA"]
+
+1. e4 d6 2. d4 g6 3. Nc3 Nf6 4. Bg5 Bg7 5. e5 Nfd7 6. f4 O-O 7. Nf3 c5 8. exd6
+f6 9. Bh4 exd6 10. Bc4+ Kh8 11. O-O Nc6 12. dxc5 dxc5 13. Qd6 Qa5 14. Rae1 Nb6
+15. Qxf8+ 1-0

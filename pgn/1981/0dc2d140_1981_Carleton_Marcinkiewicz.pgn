@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Carleton"]
+[Black "Marcinkiewicz"]
+[Result "1-0"]
+[ECO "B99"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7...Be7 main line"]
+[HashCode "0dc2d140"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8.
+Qf3 Qc7 9. O-O-O Nbd7 10. Bd3 h6 11. h4 Nc5 12. f5 Nxd3+ 13. Qxd3 Bd7 14.
+fxe6 fxe6 15. e5 dxe5 16. Qg6+ Kf8 17. Bxf6 Bxf6 18. Rhf1 Bc8 19. Rxf6+
+gxf6 20. Qxf6+ Kg8 21. Nf5 exf5 22. Rd8+ 1-0
+

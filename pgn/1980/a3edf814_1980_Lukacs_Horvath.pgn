@@ -1,0 +1,19 @@
+[Event "Hungary ch"]
+[Site "Hungary ch"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Lukacs, Peter"]
+[Black "Horvath, Tamas"]
+[Result "1/2-1/2"]
+[ECO "E41"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5"]
+[HashCode "a3edf814"]
+[Epoch "Rook"]
+[WhiteID "700142"]
+[WhiteCountry "HUN"]
+[BlackID "700185"]
+[BlackCountry "HUN"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 Nc6 6. Ne2 d5 7. O-O cxd4 8. exd4
+dxc4 9. Bxc4 O-O 10. a3 Be7 11. Be3 b6 12. d5 1/2-1/2

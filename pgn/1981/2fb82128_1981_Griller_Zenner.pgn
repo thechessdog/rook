@@ -1,0 +1,24 @@
+[Event "corr DDR/K"]
+[Site "corr DDR/K"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Griller"]
+[Black "Zenner"]
+[Result "0-1"]
+[ECO "B15"]
+[Opening "Caro-Kann"]
+[Variation "Tartakower (Nimzovich) variation"]
+[HashCode "2fb82128"]
+[Epoch "Rook"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ exf6 6. c3 Bd6 7. Bd3
+O-O 8. Qh5 g6 9. Qh4 Re8+ 10. Ne2 Bf8 11. O-O Bg7 12. Qg3 Qd5 13. Bd2 Bf5
+14. Nf4 Qd7 15. Rae1 Rxe1 16. Rxe1 Bxd3 17. Qxd3 Na6 18. Qe4 Kf8 19. Kf1 f5
+20. Qe2 Nc7 21. Qc4 Qd6 22. g3 Re8 23. Be3 Kg8 24. Nd3 Nd5 25. Qc5 Qb8 26.
+Bd2 Rxe1+ 27. Kxe1 Qe8+ 28. Kd1 b6 29. Qd6 f6 30. Nf4 Nxf4 31. Bxf4 g5 32.
+Be3 Qe4 33. Kd2 h5 34. h4 f4 35. gxf4 gxh4 36. f5 h3 37. Bf4 Kh7 38. Kd1
+Qxf5 39. Ke2 Qe4+ 40. Kd1 Qb1+ 41. Bc1 Qd3+ 42. Ke1 Qe4+ 43. Be3 Qb1+ 44.
+Ke2 Qxb2+ 45. Bd2 Qb5+ 46. Ke1 Qd5 47. Qf4 Qe6+ 48. Be3 Qg4 49. f3 Qxf4 50.
+Bxf4 Bh6 51. Bb8 b5 52. Kf2 a6 53. Bc7 Bd2 54. Ba5 Bf4 55. Bb4 Kg6 56. Be7
+Kf5 57. Bd8 Ke6 58. c4 bxc4 59. Ba5 h4 60. Bc3 Be3+ 61. Kf1 Kd5 0-1
+

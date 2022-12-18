@@ -1,0 +1,20 @@
+[Event "OHRA"]
+[Site "Amsterdam / Arnhem"]
+[Date "1983.07.01"]
+[Round "1"]
+[White "Henley, Ron"]
+[Black "Van der Wiel, John T.H."]
+[Result "1/2-1/2"]
+[ECO "E12"]
+[Opening "Queen's Indian"]
+[Variation "4.Nc3"]
+[HashCode "6af6474a"]
+[Epoch "Rook"]
+[WhiteID "2000318"]
+[WhiteCountry "USA"]
+[BlackID "1000020"]
+[BlackCountry "NED"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. Nc3 Bb7 5. a3 d5 6. cxd5 Nxd5 7. Qc2 c5 8. e4
+Nxc3 9. bxc3 Nd7 10. Bd3 Qc7 11. Qb1 Be7 12. O-O O-O 13. Ra2 Rfd8 14. Re2 Nf8
+15. h4 Bf6 16. Re3 Kh8 17. Bb2 Rac8 18. Qe1 1/2-1/2

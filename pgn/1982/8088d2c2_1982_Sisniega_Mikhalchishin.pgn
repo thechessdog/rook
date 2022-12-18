@@ -1,0 +1,20 @@
+[Event "Havana"]
+[Site "Havana"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Sisniega, Marcel"]
+[Black "Mikhalchishin, Adrian"]
+[Result "0-1"]
+[ECO "B82"]
+[Opening "Sicilian"]
+[Variation "Scheveningen, Tal variation"]
+[HashCode "8088d2c2"]
+[Epoch "Rook"]
+[BlackID "14602385"]
+[BlackCountry "SLO"]
+[WhiteCountry "MEX"]
+
+1. e4 c5 2. Nf3 e6 3. Nc3 d6 4. d4 cxd4 5. Nxd4 Nc6 6. f4 Nf6 7. Be3 Be7 8. Qf3
+O-O 9. O-O-O Qc7 10. g4 Nxd4 11. Rxd4 e5 12. Rd2 Bxg4 13. Qg3 exf4 14. Bxf4 Be6
+15. Bh6 Nh5 16. Qg2 Bf6 17. Nd5 Bxd5 18. Rxd5 Be5 19. Qf3 gxh6 20. Qxh5 Qb6 21.
+Bb5 Kh8 22. Qxh6 Rg8 23. Kb1 a6 24. Rxe5 Rg6 0-1

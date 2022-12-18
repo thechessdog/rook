@@ -1,0 +1,21 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Kuehnel"]
+[Black "Ivanovic, Bozidar"]
+[Result "0-1"]
+[ECO "B03"]
+[Opening "Alekhine's defence"]
+[Variation "four pawns attack, 7.Be3"]
+[HashCode "c70f1e7b"]
+[Epoch "Rook"]
+[BlackID "900095"]
+[BlackCountry "MNE"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. c4 Nb6 5. f4 dxe5 6. fxe5 Nc6 7. Be3 Bf5 8. Nc3
+e6 9. Nf3 Qd7 10. Be2 O-O-O 11. a3 Bg4 12. d5 Bxf3 13. dxc6 Qxd1+ 14. Rxd1
+Rxd1+ 15. Nxd1 Bxe2 16. cxb7+ Kxb7 17. Kxe2 Nxc4 18. Bd4 c5 19. Bc3 Be7 20. Rf1
+Rf8 21. Ne3 Nb6 22. Rd1 Kc6 23. Rd3 Nd5 24. g3 f5 25. exf6 gxf6 26. Bd2 Nc7 27.
+a4 h5 28. Nc4 Nd5 29. b3 Rg8 30. Kf3 Bd6 31. Be1 Bc7 32. Bd2 f5 33. Ba5 Bxa5
+34. Nxa5+ Kc7 35. Nc4 0-1

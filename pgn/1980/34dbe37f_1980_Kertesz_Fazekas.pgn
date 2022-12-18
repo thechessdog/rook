@@ -1,0 +1,19 @@
+[Event "Neptune"]
+[Site "Neptune"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Kertesz, Alfred"]
+[Black "Fazekas, Stefan"]
+[Result "0-1"]
+[ECO "A21"]
+[Opening "English opening"]
+[HashCode "34dbe37f"]
+[Epoch "Rook"]
+[WhiteID "4601459"]
+[WhiteCountry "GER"]
+[BlackCountry "ENG"]
+
+1. c4 e5 2. Nc3 d6 3. g3 f5 4. Bg2 Nf6 5. d3 Be7 6. e3 O-O 7. Nge2 c6 8. O-O
+Na6 9. Rb1 Nc7 10. b4 d5 11. cxd5 cxd5 12. f4 e4 13. Nd4 a5 14. dxe4 dxe4 15.
+Qb3+ Kh8 16. Rd1 axb4 17. Nxf5 Bxf5 18. Rxd8 Rfxd8 19. Ne2 Be6 20. Qc2 Rxa2 21.
+Rb2 b3 22. Qxc7 Rd1+ 23. Bf1 Bh3 0-1

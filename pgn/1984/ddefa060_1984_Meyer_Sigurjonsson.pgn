@@ -1,0 +1,25 @@
+[Event "Reykjavik op"]
+[Site "Reykjavik"]
+[Date "1984.01.01"]
+[Round "9"]
+[White "Meyer, Holger"]
+[Black "Sigurjonsson, Gudmundur"]
+[Result "0-1"]
+[ECO "E42"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5, 5.Ne2 (Rubinstein)"]
+[HashCode "ddefa060"]
+[Epoch "Rook"]
+[WhiteID "4602587"]
+[WhiteCountry "GER"]
+[BlackID "2300079"]
+[BlackCountry "ISL"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Ne2 b6 6. a3 Ba5 7. Rb1 Qe7 8. d5
+exd5 9. cxd5 Ne4 10. f3 Nxc3 11. Nxc3 O-O 12. Be2 Ba6 13. Bxa6 Nxa6 14. Qd3
+Bxc3+ 15. bxc3 Qh4+ 16. g3 c4 17. Qf1 Qf6 18. Qxc4 b5 19. Qd4 Qxf3 20. Rf1 Qh5
+21. Rxb5 Qxh2 22. Qf4 Rac8 23. Rf2 Qh1+ 24. Rf1 Qh3 25. Qd6 Rxc3 26. Bd2 Rc2
+27. Qf4 h6 28. Qf3 d6 29. Rb7 Rc7 30. Rxc7 Nxc7 31. Bc3 Qd7 32. g4 Rb8 33. Qe4
+Na6 34. g5 hxg5 35. Qd4 f6 36. Ke2 Nc5 37. Rh1 Rc8 38. Qb4 a5 39. Qb1 Qg4+ 40.
+Kf1 Qf3+ 41. Kg1 Qxe3+ 42. Kf1 Qf3+ 43. Kg1 Qg3+ 44. Kf1 Qf3+ 45. Kg1 Qxc3 46.
+Qh7+ 0-1

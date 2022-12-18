@@ -1,0 +1,16 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Whitehead"]
+[Black "Evans"]
+[Result "0-1"]
+[ECO "A02"]
+[Opening "Bird"]
+[Variation "From gambit"]
+[HashCode "1abbb649"]
+[Epoch "Rook"]
+
+1. f4 e5 2. fxe5 d6 3. Nf3 dxe5 4. e4 Nc6 5. d4 Nxd4 6. Nxe5 Qh4+ 7. Kd2
+Qxe4 8. Nf3 Bg4 9. Bb5+ Nxb5 10. Re1 O-O-O+ 11. Nd4 Rxd4# 0-1
+

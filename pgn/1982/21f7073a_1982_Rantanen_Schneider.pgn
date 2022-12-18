@@ -1,0 +1,21 @@
+[Event "Jarvenpaa"]
+[Site "Jarvenpaa"]
+[Date "1982.01.01"]
+[Round "2"]
+[White "Rantanen, Yrjo A."]
+[Black "Schneider, Lars-Ake"]
+[Result "1/2-1/2"]
+[ECO "B31"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (with ...g6, without ...d6)"]
+[HashCode "21f7073a"]
+[Epoch "Rook"]
+[WhiteID "500038"]
+[WhiteCountry "FIN"]
+[BlackCountry "SWE"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. Bxc6 bxc6 5. d4 Bg7 6. dxc5 Qa5+ 7. Bd2 Qxc5
+8. Bc3 Nf6 9. Bd4 Qa5+ 10. Qd2 Qxd2+ 11. Nbxd2 O-O 12. c4 Ba6 13. e5 Nh5 14. g3
+f6 15. exf6 Nxf6 16. h3 d5 17. O-O-O dxc4 18. Rhe1 Nd5 19. Bxg7 Kxg7 20. Nd4
+Rxf2 21. Ne4 Rh2 22. Nxc6 Bb7 23. Na5 Nb4 24. Nxb7 Rb8 25. Nec5 c3 26. Rxe7+
+Kf8 27. Rde1 Rc2+ 28. Kd1 Rd2+ 29. Kc1 Rc2+ 1/2-1/2

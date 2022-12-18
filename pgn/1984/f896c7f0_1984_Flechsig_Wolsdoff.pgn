@@ -1,0 +1,19 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Flechsig"]
+[Black "Wolsdoff"]
+[Result "0-1"]
+[ECO "E87"]
+[Opening "King's Indian"]
+[Variation "Saemisch, orthodox, 7.d5"]
+[HashCode "f896c7f0"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 e5 7. d5 Nh5 8. Qd2
+f5 9. Bd3 fxe4 10. Nxe4 Nf4 11. Bxf4 exf4 12. Ne2 Qh4+ 13. Nf2 Nd7 14. Rc1
+Nc5 15. Bb1 Bd7 16. O-O Rae8 17. b3 b6 18. Nd3 Nxd3 19. Bxd3 Qg5 20. Kh1
+Qh4 21. Qe1 Qxe1 22. Rcxe1 Re3 23. Nc1 Bc3 24. Re2 Rfe8 25. g3 Bf5 26. Bxf5
+gxf5 27. Rg2 fxg3 28. hxg3 Kf7 29. Rh2 Re1 0-1
+

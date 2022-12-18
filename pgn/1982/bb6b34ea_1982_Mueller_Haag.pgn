@@ -1,0 +1,22 @@
+[Event "corr USCCC"]
+[Site "corr USCCC"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Mueller, T."]
+[Black "Haag, R."]
+[Result "1-0"]
+[ECO "A07"]
+[Opening "Reti"]
+[Variation "King's Indian attack, Pachman system"]
+[HashCode "bb6b34ea"]
+[Epoch "Rook"]
+
+1. Nf3 d5 2. g3 g6 3. Bg2 Bg7 4. O-O e5 5. d3 Ne7 6. Nbd2 O-O 7. e4 dxe4 8.
+dxe4 b6 9. b3 a5 10. Bb2 Nbc6 11. Re1 Ba6 12. Bf1 Nd4 13. Bxa6 Rxa6 14. Nc4
+Nec6 15. c3 Nxf3+ 16. Qxf3 Qf6 17. Qxf6 Bxf6 18. Ne3 Ne7 19. Rad1 Raa8 20.
+Rd7 Rac8 21. Ng4 Kg7 22. c4 Nc6 23. f4 h5 24. Nxe5 Bxe5 25. fxe5 Nb8 26.
+e6+ Kg8 27. Re7 Nc6 28. Rxf7 Rxf7 29. exf7+ Kxf7 30. Rf1+ Ke8 31. Rf6 Rd8
+32. Rxc6 Rd1+ 33. Kg2 Rd2+ 34. Kh3 Rxb2 35. Rxc7 g5 36. Rb7 a4 37. Rxb6
+Rxa2 38. bxa4 Rxa4 39. Rb5 g4+ 40. Kh4 Rxc4 41. Rxh5 Rxe4 42. Kg5 Kf7 43.
+Rh4 Re2 44. Kxg4 Kg6 45. Rh8 1-0
+

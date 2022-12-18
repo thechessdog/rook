@@ -1,0 +1,20 @@
+[Event "Columbus,OH"]
+[Site "Columbus,OH"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Alfred, Ted"]
+[Black "Davis, David"]
+[Result "0-1"]
+[ECO "B70"]
+[Opening "Sicilian"]
+[Variation "dragon variation"]
+[HashCode "935fdfc3"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Bc4 Bg7 7. Be3 O-O
+8. O-O Nxe4 9. Nxe4 d5 10. Bd3 dxe4 11. Bc4 b6 12. Nb5 Nc6 13. Qe2 Bb7 14.
+Rad1 Qc8 15. Nc3 e6 16. Nb5 Na5 17. Nd6 Qc7 18. Bb3 Nxb3 19. cxb3 Bd5 20.
+Nb5 Qe7 21. Bf4 Rfd8 22. Nc3 Qb7 23. Rd2 Rac8 24. Rc1 b5 25. Rdc2 a6 26.
+Qg4 Rd7 27. Qg3 f6 28. Qh3 Kf7 29. b4 Bxa2 30. Re1 e5 31. Nxa2 Rxc2 32.
+Qb3+ Rc4 0-1
+

@@ -1,0 +1,22 @@
+[Event "Eksjo"]
+[Site "Eksjo"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Danner, Georg"]
+[Black "Ornstein, Axel"]
+[Result "0-1"]
+[ECO "E44"]
+[Opening "Nimzo-Indian"]
+[Variation "Fischer variation, 5.Ne2"]
+[HashCode "88477768"]
+[Epoch "Rook"]
+[BlackID "1700111"]
+[BlackCountry "SWE"]
+[WhiteID "1600303"]
+[WhiteCountry "AUT"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 b6 5. Ne2 Bb7 6. a3 Be7 7. d5 O-O 8. e4 Re8
+9. Ng3 Bd6 10. Be3 exd5 11. cxd5 Na6 12. b4 Be5 13. Rc1 c5 14. b5 Nc7 15. Bd3
+a6 16. a4 Bxc3+ 17. Rxc3 axb5 18. axb5 Ncxd5 19. exd5 Nxd5 20. Rc2 Nxe3 21.
+fxe3 Rxe3+ 22. Kf2 Qg5 23. Re1 Qf4+ 24. Kg1 Rxe1+ 25. Qxe1 Qd4+ 26. Rf2 Qxd3
+27. Qe7 Qd5 28. h4 h6 29. Re2 Qd4+ 30. Kh2 Qf4 0-1

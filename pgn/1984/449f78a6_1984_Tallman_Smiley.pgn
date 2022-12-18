@@ -1,0 +1,16 @@
+[Event "corr USA"]
+[Site "corr USA"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Tallman"]
+[Black "Smiley"]
+[Result "0-1"]
+[ECO "C40"]
+[Opening "Latvian gambit, 3.Bc4"]
+[HashCode "449f78a6"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 f5 3. Bc4 fxe4 4. Nxe5 Qg5 5. d4 Qxg2 6. Qh5+ g6 7. Bf7+
+Kd8 8. Bxg6 Bg7 9. Nf7+ Ke7 10. Bg5+ Kf8 11. Nxh8 Qxh1+ 12. Kd2 Qf3 13.
+Qxh7 Qxf2+ 14. Kc3 Qxd4+ 0-1
+

@@ -1,0 +1,21 @@
+[Event "corr FSM/BRD"]
+[Site "corr FSM/BRD"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Hund, J."]
+[Black "Schwamb, G."]
+[Result "1-0"]
+[ECO "A91"]
+[Opening "Dutch defence"]
+[HashCode "be4d66cb"]
+[Epoch "Rook"]
+
+1. d4 f5 2. c4 Nf6 3. g3 e6 4. Bg2 Be7 5. Nh3 d6 6. Nc3 O-O 7. O-O Qe8 8.
+Nf4 g5 9. Nd3 Qg6 10. f3 Nc6 11. Nf2 e5 12. d5 Nd8 13. Qd2 Nf7 14. b4 h5
+15. Nb5 Bd8 16. c5 h4 17. gxh4 gxh4 18. Kh1 f4 19. Rg1 Nh5 20. Bh3 Ng3+ 21.
+hxg3 hxg3 22. Bxc8 Ng5 23. Be6+ Kg7 24. Kg2 Rh8 25. Nh3 Nxh3 26. Rh1 Nf2
+27. Rxh8 Kxh8 28. Qe1 c6 29. Nxd6 cxd5 30. Bg4 Qh7 31. Qg1 Bf6 32. Bd2 Rg8
+33. Bf5 Qh5 34. b5 Be7 35. Qh1 Nxh1 36. Rxh1 Bh4 37. c6 bxc6 38. bxc6 Kg7
+39. c7 Qg5 40. Be6 Rf8 41. Bb4 Kg6 42. Nf5 Qf6 43. Rxh4 Rh8 44. Ne7+ Kg5
+45. Rg4+ Kh5 46. Rg6 Qh4 47. Bg4+ Qxg4 48. fxg4+ Kh4 49. Nf5# 1-0
+

@@ -1,0 +1,26 @@
+[Event "BL2-N 8081"]
+[Site "BL2-N 8081"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Goebel, Wolfgang"]
+[Black "Gerigk, Wolf"]
+[Result "0-1"]
+[ECO "B00"]
+[Opening "KP"]
+[Variation "Nimzovich defence"]
+[HashCode "da3095cd"]
+[Epoch "Rook"]
+[WhiteID "4630050"]
+[WhiteCountry "GER"]
+[BlackID "4684249"]
+[BlackCountry "GER"]
+
+1. e4 Nc6 2. Nc3 Nf6 3. d4 d5 4. e5 Nd7 5. Nxd5 Ndb8 6. Ne3 Qxd4 7. Qxd4 Nxd4
+8. c3 Ne6 9. g3 Bd7 10. Bg2 Bc6 11. f4 g5 12. Ne2 gxf4 13. gxf4 Bxg2 14. Nxg2
+Nc6 15. Be3 Rg8 16. Kf2 Ng7 17. Ng3 O-O-O 18. Rad1 Rxd1 19. Rxd1 e6 20. Nh4 Be7
+21. Nf3 Bd8 22. Rg1 Ne7 23. Ng5 Ng6 24. N3e4 Nh5 25. Kf3 Nh4+ 26. Ke2 Be7 27.
+Nf3 Rg2+ 28. Rxg2 Nxg2 29. Neg5 Nhxf4+ 30. Bxf4 Nxf4+ 31. Ke3 Nd5+ 32. Ke4 f5+
+33. exf6 Nxf6+ 34. Ke5 Kd7 35. Nxe6 Ng4+ 36. Kf4 Nxh2 37. Neg5 Nxf3 38. Nxf3
+Ke6 39. c4 Bf6 40. b3 h5 41. Ne1 Bc3 42. Nd3 Bd2+ 43. Ke4 b6 44. b4 h4 45. b5
+h3 46. Kf3 Kf5 47. c5 h2 48. Kg2 Ke4 49. cxb6 axb6 50. Nf2+ Kd4 51. a4 Be3 52.
+Ng4 Bf4 53. Nf6 Kc4 54. Kh1 Bd6 0-1

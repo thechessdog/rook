@@ -1,0 +1,17 @@
+[Event "Lappeenranta Y-ch"]
+[Site "Lappeenranta Y-ch"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Vilppolainen, M."]
+[Black "Heinola, Kari P."]
+[Result "0-1"]
+[ECO "A00"]
+[Opening "Benko's opening"]
+[HashCode "88cda9c7"]
+[Epoch "Rook"]
+[BlackID "503495"]
+[BlackCountry "FIN"]
+
+1. g3 g5 2. d4 h6 3. h4 g4 4. e4 d5 5. e5 c5 6. c3 Nc6 7. Be3 h5 8. Bd3 Nh6 9.
+Ne2 Nf5 10. Qd2 Nxe3 11. fxe3 Bh6 12. O-O Qb6 13. Nf4 e6 14. Qf2 Bd7 15. Nxd5
+exd5 16. Qxf7+ Kd8 17. Qf6+ Kc7 18. Qd6+ Kc8 19. e6 Be8 20. Bf5 Qc7 0-1

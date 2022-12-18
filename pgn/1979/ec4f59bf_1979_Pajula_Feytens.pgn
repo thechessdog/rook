@@ -1,0 +1,18 @@
+[Event "corr Eu Mkl"]
+[Site "corr Eu Mkl"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Pajula, E."]
+[Black "Feytens, R."]
+[Result "1-0"]
+[ECO "B66"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...a6"]
+[HashCode "ec4f59bf"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd2 a6 8.
+O-O-O h6 9. Be3 Bd7 10. f4 b5 11. Bd3 Be7 12. h3 Nxd4 13. Bxd4 Bc6 14. Qe1
+b4 15. Ne2 Nxe4 16. Bxg7 Rg8 17. Nd4 Qb6 18. Bxe4 d5 19. Bf3 Rxg7 20. Qe5
+1-0
+

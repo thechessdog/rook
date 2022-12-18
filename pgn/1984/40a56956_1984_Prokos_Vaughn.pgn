@@ -1,0 +1,17 @@
+[Event "Louisville"]
+[Site "Louisville"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Prokos"]
+[Black "Vaughn, Frank"]
+[Result "1-0"]
+[ECO "B34"]
+[Opening "Sicilian"]
+[Variation "accelerated fianchetto, modern variation"]
+[HashCode "40a56956"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6 5. Nc3 Bg7 6. Be3 Nxd4 7. Bxd4
+Bxd4 8. Qxd4 Nf6 9. e5 Nh5 10. e6 f6 11. exd7+ Bxd7 12. O-O-O a6 13. Bc4
+Ng7 14. Rhe1 Nf5 15. Qd5 Nd6 16. Qxd6 Bc6 17. Qe6 1-0
+

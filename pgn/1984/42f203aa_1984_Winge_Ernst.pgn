@@ -1,0 +1,22 @@
+[Event "Linkoping"]
+[Site "Linkoping"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Winge, Stefan"]
+[Black "Ernst, Thomas"]
+[Result "1-0"]
+[ECO "B96"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Polugayevsky variation"]
+[HashCode "42f203aa"]
+[Epoch "Rook"]
+[WhiteID "1700898"]
+[WhiteCountry "SWE"]
+[BlackID "1700065"]
+[BlackCountry "SWE"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 b5 8. e5
+dxe5 9. fxe5 Qc7 10. exf6 Qe5+ 11. Be2 Qxg5 12. Qd3 Ra7 13. Rf1 Rd7 14. Rd1 Qe5
+15. Rf3 Bc5 16. fxg7 Rxd4 17. Qxh7 Rxd1+ 18. Kxd1 Rxh7 19. g8=Q+ Bf8 20. Qxh7
+f5 21. Rd3 Nd7 22. Bh5+ Kd8 23. Qg8 Kc7 24. Rxd7+ Bxd7 25. Qxf8 Qd4+ 26. Kc1 e5
+27. Qf6 b4 28. Ne2 Qe3+ 29. Kd1 a5 30. Qe7 1-0

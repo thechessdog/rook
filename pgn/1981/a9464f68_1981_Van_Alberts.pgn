@@ -1,0 +1,19 @@
+[Event "corr Netherlands"]
+[Site "corr Netherlands"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Van der Kooij"]
+[Black "Alberts"]
+[Result "1-0"]
+[ECO "C10"]
+[Opening "French"]
+[Variation "Fort Knox variation"]
+[HashCode "a9464f68"]
+[Epoch "Rook"]
+[WhiteID "1011812"]
+[WhiteCountry "NED"]
+
+1. e4 e6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bd7 5. Nf3 Bc6 6. Bd3 Nd7 7. Qe2 Ngf6 8.
+Ng3 Bd5 9. O-O c5 10. Be3 Qb6 11. c3 Bd6 12. Nf5 O-O 13. Nh6+ gxh6 14. Bxh6
+Rfe8 15. Qe3 Kh8 16. Ng5 e5 17. Qg3 Rg8 18. c4 exd4 19. cxd5 Rg6 20. Qh4 Ne5
+21. Nxf7+ 1-0

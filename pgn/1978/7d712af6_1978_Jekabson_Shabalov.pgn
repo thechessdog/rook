@@ -1,0 +1,19 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Jekabson"]
+[Black "Shabalov, Alexander"]
+[Result "1-0"]
+[ECO "B29"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rubinstein variation"]
+[HashCode "7d712af6"]
+[Epoch "Rook"]
+[BlackID "2008572"]
+[BlackCountry "USA"]
+
+1. e4 c5 2. Nf3 Nf6 3. e5 Nd5 4. Nc3 e6 5. Ne4 Nc6 6. c4 Nb6 7. b4 Nxb4 8. Bb2
+Qc7 9. a4 a5 10. Ra3 Qc6 11. Qb1 h6 12. Be2 Be7 13. O-O O-O 14. Nf6+ Bxf6 15.
+exf6 d6 16. fxg7 Re8 17. Ng5 f5 18. Rh3 e5 19. Rxh6 Kxg7 20. Rh7+ Kg6 21. f4
+Bd7 22. Bh5+ 1-0

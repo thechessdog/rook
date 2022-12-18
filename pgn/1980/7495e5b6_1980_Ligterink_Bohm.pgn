@@ -1,0 +1,25 @@
+[Event "IBM-B"]
+[Site "Amsterdam"]
+[Date "1980.??.??"]
+[Round "?"]
+[White "Ligterink, Gert"]
+[Black "Bohm, Hans"]
+[Result "1-0"]
+[ECO "C82"]
+[Opening "Ruy Lopez"]
+[Variation "open, Italian variation"]
+[HashCode "7495e5b6"]
+[Epoch "Rook"]
+[WhiteID "1000179"]
+[BlackID "1000306"]
+[WhiteCountry "NED"]
+[BlackCountry "NED"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Be6 9. c3 Bc5 10. Qe2 O-O 11. Be3 Bxe3 12. Qxe3 f6 13. Rd1 Nxe5 14. Nxe5 fxe5
+15. Qxe4 dxe4 16. Bxe6+ Kh8 17. Rxd8 Raxd8 18. Bg4 c5 19. a4 b4 20. a5 Rf6 21.
+Be2 g6 22. g3 Kg7 23. Ra4 Rfd6 24. cxb4 Rd1+ 25. Bxd1 Rxd1+ 26. Kg2 Rxb1 27.
+bxc5 e3 28. Re4 exf2 29. Kxf2 Rxb2+ 30. Re2 Rb5 31. Rc2 Rb7 32. Ke2 Kf6 33. c6
+Rc7 34. Rb2 Ke6 35. Rb6 Kd5 36. Rxa6 e4 37. Rb6 Rf7 38. Rb5+ Kxc6 39. Re5 Kd6
+40. Rxe4 Ra7 41. Ra4 Ra6 42. Kd3 Kd7 43. g4 Kc7 44. Ke4 Kb7 45. h4 Ka7 46. Kf4
+Rc6 47. Kg5 Ka6 48. Kh6 Rc7 49. g5 Rf7 50. Re4 Kxa5 51. Re8 1-0

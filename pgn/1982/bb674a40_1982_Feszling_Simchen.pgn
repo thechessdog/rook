@@ -1,0 +1,19 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Feszling"]
+[Black "Simchen"]
+[Result "0-1"]
+[ECO "C58"]
+[Opening "two knights defence"]
+[Variation "Bogolyubov variation"]
+[HashCode "bb674a40"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 Na5 6. Bb5+ c6 7. dxc6
+bxc6 8. Qf3 Bb7 9. Bd3 h6 10. Ne4 Nd5 11. Bf1 Be7 12. a3 c5 13. Bb5+ Nc6
+14. Qg3 Qc7 15. Qxg7 O-O-O 16. Qg4+ Kb8 17. Qd1 Nd4 18. Bf1 Nf4 19. f3 f5
+20. Nf2 Rhg8 21. c3 Nxg2+ 22. Bxg2 Rxg2 23. cxd4 Bh4 24. Qb3 Rxf2 25. Kd1
+Ka8 0-1
+

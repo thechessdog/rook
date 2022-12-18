@@ -1,0 +1,17 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Klovans, Janis"]
+[Black "Gofstein, Leonid"]
+[Result "1/2-1/2"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, dragon formation"]
+[HashCode "dd6fff4a"]
+[Epoch "Rook"]
+[WhiteCountry "LVA"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. f4 Nf6 5. Nf3 c5 6. Bb5+ Bd7 7. e5 Ng4 8. h3
+cxd4 9. Qxd4 dxe5 10. Qc4 e4 11. hxg4 exf3 12. gxf3 Nc6 13. Bd2 a6 14. Bxc6
+Bxc6 15. Qe2 Qc7 16. O-O-O O-O-O 17. a3 1/2-1/2

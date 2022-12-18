@@ -1,0 +1,20 @@
+[Event "Ludwigshafen"]
+[Site "Ludwigshafen"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Ledbetter, R."]
+[Black "Brender, P."]
+[Result "0-1"]
+[ECO "A45"]
+[Opening "Queen's pawn"]
+[Variation "Bronstein gambit"]
+[HashCode "45fee40f"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. g4 Nxg4 3. e4 d6 4. Be2 h5 5. Nc3 e5 6. Nf3 exd4 7. Nxd4 Qh4
+8. Bxg4 Bxg4 9. Qd3 Nd7 10. Be3 Ne5 11. Qb5+ c6 12. Qxb7 Rc8 13. Nce2 Be7
+14. O-O-O O-O 15. f4 Rb8 16. Qxa7 Ra8 17. Qb7 Rfb8 18. Qc7 Rc8 19. Qb6 Bd8
+20. Qb4 Rcb8 21. Qc3 Ba5 22. b4 Bxb4 23. Qa1 Ba3+ 24. Kd2 Nc4+ 25. Kd3
+Bxe2+ 26. Nxe2 Nxe3 27. Kxe3 Bc5+ 28. Nd4 Qh3+ 29. Ke2 Qg2+ 30. Kd3 Bxd4
+31. Kxd4 Qf2+ 0-1
+

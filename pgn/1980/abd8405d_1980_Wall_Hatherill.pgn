@@ -1,0 +1,17 @@
+[Event "Dayton,OH"]
+[Site "Dayton,OH"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Wall, Bill"]
+[Black "Hatherill, Chuck"]
+[Result "1-0"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "modern variation"]
+[HashCode "abd8405d"]
+[Epoch "Rook"]
+[WhiteCountry "USA"]
+
+1. b3 e5 2. Bb2 Nc6 3. c4 Bb4 4. e3 Nf6 5. g3 d6 6. Bg2 Bg4 7. Ne2 O-O 8. O-O
+Re8 9. a3 Bc5 10. b4 Bb6 11. h3 Bh5 12. g4 Nxg4 13. hxg4 Bxg4 14. Nbc3 Qh4 15.
+Qc2 Re6 16. f3 Nd4 17. exd4 exd4 18. c5 dxc3 19. Qxc3 Rxe2 20. Qxg7# 1-0

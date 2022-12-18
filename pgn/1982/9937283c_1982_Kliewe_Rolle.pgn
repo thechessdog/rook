@@ -1,0 +1,18 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Kliewe"]
+[Black "Rolle"]
+[Result "1/2-1/2"]
+[ECO "D83"]
+[Opening "Gruenfeld"]
+[Variation "Gruenfeld gambit, Botvinnik variation"]
+[HashCode "9937283c"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Bf4 Bg7 5. e3 O-O 6. Rc1 c5 7. dxc5 Be6 8.
+Nge2 Qa5 9. Nd4 Nc6 10. Nxc6 bxc6 11. Qa4 Qxa4 12. Nxa4 dxc4 13. Bxc4 Nd5
+14. Bg3 Nb4 15. O-O Nxa2 16. Bxe6 fxe6 17. Rc4 a5 18. Bh4 Rfe8 19. Nb6 Rad8
+20. h3 Nb4 21. Ra1 Bxb2 22. Rxa5 Rd1+ 23. Kh2 Nd5 1/2-1/2
+

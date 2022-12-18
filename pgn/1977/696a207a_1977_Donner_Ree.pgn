@@ -1,0 +1,19 @@
+[Event "IBM"]
+[Site "Amsterdam"]
+[Date "1977.07.01"]
+[Round "1"]
+[White "Donner, Jan Hein"]
+[Black "Ree, Hans"]
+[Result "1/2-1/2"]
+[ECO "E60"]
+[Opening "King's Indian"]
+[Variation "3.g3"]
+[HashCode "696a207a"]
+[Epoch "Rook"]
+[BlackID "1000098"]
+[WhiteCountry "NLD"]
+[BlackCountry "NED"]
+
+1. d4 Nf6 2. c4 g6 3. g3 c6 4. Bg2 d5 5. cxd5 cxd5 6. Nc3 Bg7 7. Nf3 O-O 8. O-O
+Ne4 9. e3 Nxc3 10. bxc3 Nc6 11. Nd2 Be6 12. Ba3 Rc8 13. Re1 Re8 14. Bf1 Na5 15.
+Bb4 Nc6 16. Ba3 Na5 17. Bb4 Nc6 1/2-1/2

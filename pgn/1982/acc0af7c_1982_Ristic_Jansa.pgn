@@ -1,0 +1,22 @@
+[Event "Smederevska Palanka"]
+[Site "Smederevska Palanka"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Ristic, Nenad"]
+[Black "Jansa, Vlastimil"]
+[Result "0-1"]
+[ECO "A48"]
+[Opening "King's Indian"]
+[Variation "East Indian defence"]
+[HashCode "acc0af7c"]
+[Epoch "Rook"]
+[BlackID "300128"]
+[BlackCountry "CZE"]
+[WhiteID "901318"]
+[WhiteCountry "SRB"]
+
+1. d4 Nf6 2. Nf3 g6 3. Nc3 d5 4. g3 Bg7 5. Bg2 O-O 6. O-O c6 7. Ne5 Nbd7 8. f4
+Nb6 9. h3 Ne4 10. Nxe4 dxe4 11. e3 f6 12. Ng4 Be6 13. b3 c5 14. Bb2 c4 15. Nf2
+f5 16. Qd2 Rc8 17. Nd1 Nd5 18. Nc3 Nxe3 19. Rfd1 Nxd1 20. Rxd1 Bd5 21. Bf1 e6
+22. Rc1 Qb6 23. Na4 Qc6 24. Kh2 b6 25. Qe3 Rfd8 26. Nc3 b5 27. b4 a5 28. a3
+axb4 29. axb4 Ra8 30. g4 Bf8 31. Nxd5 Rxd5 32. gxf5 exf5 33. c3 Bd6 0-1

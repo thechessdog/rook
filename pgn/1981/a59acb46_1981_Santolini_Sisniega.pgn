@@ -1,0 +1,20 @@
+[Event "Reggio Emilia8182"]
+[Site "Reggio Emilia"]
+[Date "1981.01.01"]
+[Round "4"]
+[White "Santolini, Luigi"]
+[Black "Sisniega, Marcel"]
+[Result "0-1"]
+[ECO "E45"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Bronstein (Byrne) variation"]
+[HashCode "a59acb46"]
+[Epoch "Rook"]
+[WhiteID "801151"]
+[WhiteCountry "ITA"]
+[BlackCountry "MEX"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 b6 5. Ne2 Ba6 6. a3 Be7 7. Ng3 d5 8. cxd5
+Bxf1 9. Nxf1 exd5 10. Ng3 Qd7 11. O-O Nc6 12. Qc2 g6 13. Rd1 h5 14. e4 h4 15.
+Nge2 dxe4 16. Nxe4 O-O-O 17. Ng5 h3 18. Nxf7 Qd5 19. Nf4 Qxf7 20. Qxc6 Kb8 21.
+Ne6 Nd5 22. Bf4 Bh4 23. Rac1 Nxf4 24. Nxc7 Bxf2+ 25. Kxf2 Nd5+ 0-1

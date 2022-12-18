@@ -1,0 +1,19 @@
+[Event "corr DDR/H"]
+[Site "corr DDR/H"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Jager"]
+[Black "Dupont"]
+[Result "0-1"]
+[ECO "E06"]
+[Opening "Catalan"]
+[Variation "closed, 5.Nf3"]
+[HashCode "988ffa09"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Bg2 Be7 5. Nf3 O-O 6. O-O dxc4 7. Qc2 Nc6 8.
+Qxc4 Bd7 9. Ne5 b5 10. Nxc6 bxc4 11. Nxd8 Raxd8 12. Nc3 Bc8 13. e3 Nd5 14.
+Bd2 Ba6 15. Rfc1 Nb4 16. Ne4 c5 17. Bc3 Nd3 18. Rc2 cxd4 19. Bxd4 f5 20.
+Nd2 e5 21. Bxa7 Nb4 22. Rxc4 Rxd2 23. Rcc1 Rxb2 24. Bc5 Bxc5 25. Rxc5 e4
+26. a4 g6 27. Bf1 Bxf1 28. Kxf1 Rxf2+ 29. Kxf2 Nd3+ 0-1
+

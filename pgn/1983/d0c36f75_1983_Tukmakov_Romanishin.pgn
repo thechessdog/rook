@@ -1,0 +1,23 @@
+[Event "Simferopol"]
+[Site "Simferopol"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Tukmakov, Vladimir B"]
+[Black "Romanishin, Oleg M"]
+[Result "1-0"]
+[ECO "A70"]
+[Opening "Benoni"]
+[Variation "classical with e4 and Nf3"]
+[HashCode "d0c36f75"]
+[Epoch "Rook"]
+[WhiteID "14100096"]
+[BlackID "14100088"]
+[WhiteCountry "UKR"]
+[BlackCountry "UKR"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. e4 Bg7 8. Bf4
+O-O 9. Nd2 a6 10. a4 Bg4 11. Qb3 Nh5 12. Be3 Bd4 13. Nc4 Qf6 14. a5 Bxe3 15.
+Nxe3 Bc8 16. g3 Nd7 17. Bg2 Ne5 18. Qd1 b5 19. axb6 Rb8 20. O-O Nd7 21. Nc4
+Nxb6 22. e5 dxe5 23. Ne4 Qg7 24. Na5 Bf5 25. Nxc5 Nd7 26. b4 Rxb4 27. Nc6 Rd4
+28. Nxd4 exd4 29. Nb3 Ne5 30. Nxd4 Bg4 31. Qb3 Nf6 32. Nc6 Nfd7 33. Nxe5 Nxe5
+34. Rfe1 Qf6 35. Ra4 Bd7 36. Rae4 Ng4 37. Rf4 Qg5 38. Qb7 Qd8 1-0

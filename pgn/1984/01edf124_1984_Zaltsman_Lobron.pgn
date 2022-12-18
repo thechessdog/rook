@@ -1,0 +1,21 @@
+[Event "New York"]
+[Site "New York"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Zaltsman, Vitaly F"]
+[Black "Lobron, Eric"]
+[Result "0-1"]
+[ECO "A77"]
+[Opening "Benoni"]
+[Variation "classical, 9...Re8, 10.Nd2"]
+[HashCode "01edf124"]
+[Epoch "Rook"]
+[BlackID "4600037"]
+[BlackCountry "GER"]
+[WhiteCountry "USA"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. Nd2 Bg7 8. e4
+O-O 9. Be2 Re8 10. O-O Nbd7 11. Kh1 Ne5 12. f4 Neg4 13. Rf3 Nh5 14. Qe1 f5 15.
+h3 Ngf6 16. exf5 Bxf5 17. g4 Nxg4 18. hxg4 Bxg4 19. Kg2 Bxc3 20. bxc3 Qe7 21.
+Kf1 Nxf4 22. Rxf4 Bh3+ 23. Kg1 Qg5+ 24. Rg4 Qxg4+ 25. Bxg4 Rxe1+ 26. Kf2 Rxc1
+27. Rxc1 Bxg4 28. Ne4 Rf8+ 0-1

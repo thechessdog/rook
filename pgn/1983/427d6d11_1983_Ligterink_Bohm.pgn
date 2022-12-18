@@ -1,0 +1,20 @@
+[Event "Hoogovens-B"]
+[Site "Wijk aan Zee II"]
+[Date "1983.01.01"]
+[Round "9"]
+[White "Ligterink, Gert"]
+[Black "Bohm, Hans"]
+[Result "1/2-1/2"]
+[ECO "D14"]
+[Opening "QGD Slav"]
+[Variation "exchange variation, 6.Bf4 Bf5"]
+[HashCode "427d6d11"]
+[Epoch "Rook"]
+[WhiteID "1000179"]
+[WhiteCountry "NED"]
+[BlackID "1000306"]
+[BlackCountry "NED"]
+
+1. d4 d5 2. c4 c6 3. cxd5 cxd5 4. Nc3 Nf6 5. Nf3 Nc6 6. Bf4 Bf5 7. e3 e6 8. Bd3
+Bd6 9. Bxd6 Bxd3 10. Qxd3 Qxd6 11. O-O O-O 12. Rac1 Rfc8 13. a3 Nd7 14. Ne2 Na5
+15. Rxc8+ Rxc8 16. Rc1 1/2-1/2

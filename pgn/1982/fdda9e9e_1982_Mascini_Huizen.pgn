@@ -1,0 +1,17 @@
+[Event "corr NLD/H"]
+[Site "corr NLD/H"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Mascini"]
+[Black "Huizen"]
+[Result "1-0"]
+[ECO "C69"]
+[Opening "Ruy Lopez"]
+[Variation "exchange variation, Alapin gambit"]
+[HashCode "fdda9e9e"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O Bg4 6. h3 h5 7. d3 Qf6 8.
+Nbd2 g5 9. Nc4 Bd6 10. d4 Qg7 11. hxg4 hxg4 12. Nxg5 Nh6 13. f4 O-O-O 14.
+Nxe5 f6 15. Ne6 Qh7 16. Nxd8 Bxe5 17. fxe5 g3 18. Qh5 Qxe4 19. Bxh6 1-0
+

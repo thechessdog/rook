@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Saarinen, H."]
+[Black "Turunen, R."]
+[Result "1-0"]
+[ECO "E89"]
+[Opening "King's Indian"]
+[Variation "Saemisch, orthodox main line"]
+[HashCode "02f25be9"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 e5 7. d5 c6 8. Nge2
+cxd5 9. cxd5 a6 10. g4 Ne8 11. h4 h6 12. Qd2 Kh7 13. Ng3 Rh8 14. Rc1 b5 15.
+Bd3 Bd7 16. b4 Qf6 17. Nf5 Bxf5 18. Bg5 hxg5 19. hxg5+ Kg8 20. Rxh8+ Bxh8
+21. gxf6 1-0
+

@@ -1,0 +1,21 @@
+[Event "Morecambe ch-BCF"]
+[Site "Morecambe ch-BCF"]
+[Date "1981.08.13"]
+[Round "10"]
+[White "Wells, Peter K"]
+[Black "Pigott, John C"]
+[Result "0-1"]
+[ECO "E45"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Bronstein (Byrne) variation"]
+[HashCode "2b087b95"]
+[Epoch "Rook"]
+[WhiteID "400327"]
+[WhiteCountry "ENG"]
+[BlackID "400459"]
+[BlackCountry "ENG"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 b6 5. Ne2 Ba6 6. a3 Be7 7. Nf4 d5 8. cxd5
+Bxf1 9. Kxf1 exd5 10. g4 O-O 11. g5 Ne4 12. Ncxd5 Bxg5 13. Qc2 Nf6 14. h4 Bh6
+15. Nxf6+ Qxf6 16. Qe4 Bxf4 17. Qxa8 Nc6 18. Qb7 Bg3 19. f4 Qe6 20. Rg1 Qh3+
+21. Ke2 Qh2+ 22. Kd3 Qxg1 23. Qxc6 Qd1+ 24. Kc4 Qc2+ 25. Kb5 a6+ 0-1

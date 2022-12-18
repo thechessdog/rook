@@ -1,0 +1,16 @@
+[Event "Denmark"]
+[Site "Denmark"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Jakobsen, Ole"]
+[Black "Hansen, Jacob Brendstrup"]
+[Result "1/2-1/2"]
+[ECO "B10"]
+[Opening "Caro-Kann"]
+[Variation "closed (Breyer) variation"]
+[HashCode "d8406660"]
+[Epoch "Rook"]
+[WhiteCountry "DNK"]
+
+1. e4 c6 2. d3 g6 3. g3 Bg7 4. Bg2 d5 5. Nd2 e5 6. Ngf3 Ne7 7. O-O O-O 8. Re1
+Nd7 9. b4 a5 10. bxa5 Qxa5 11. Bb2 d4 12. a4 c5 13. Nc4 Qc7 14. c3 Nb6 1/2-1/2

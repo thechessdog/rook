@@ -1,0 +1,18 @@
+[Event "Belgrade-London tx"]
+[Site "Belgrade-London tx"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Hodgson, Julian M"]
+[Black "Paunovic"]
+[Result "1-0"]
+[ECO "B78"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, 10.O-O-O"]
+[HashCode "29deffbf"]
+[Epoch "Rook"]
+[WhiteID "400076"]
+[WhiteCountry "ENG"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 Nc6 8. Qd2
+O-O 9. Bc4 Bd7 10. O-O-O Qb8 11. h4 Rc8 12. Bb3 a5 13. h5 Nxd4 14. Bxd4 a4 15.
+Bd5 e6 16. hxg6 hxg6 17. Qg5 e5 18. Rh8+ Kxh8 19. Bxf7 Rg8 20. Rh1+ 1-0

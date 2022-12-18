@@ -1,0 +1,21 @@
+[Event "Capablanca mem-B"]
+[Site "Cienfuegos"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Garcia Gonzales, Guillermo"]
+[Black "Garcia, Gildardo"]
+[Result "0-1"]
+[ECO "A18"]
+[Opening "English"]
+[Variation "Mikenas-Carls, Flohr variation"]
+[HashCode "7cac9241"]
+[Epoch "Rook"]
+[BlackID "4400020"]
+[BlackCountry "COL"]
+[WhiteCountry "CUB"]
+
+1. c4 Nf6 2. Nc3 e6 3. e4 d5 4. e5 d4 5. exf6 dxc3 6. bxc3 Qxf6 7. d4 e5 8. Qe2
+Be7 9. dxe5 Qg6 10. h4 Nc6 11. h5 Qf5 12. Nf3 f6 13. h6 g6 14. exf6 Qxf6 15.
+Nd4 Nxd4 16. cxd4 O-O 17. c5 Be6 18. Rb1 Rae8 19. Be3 b6 20. Qc2 Bf5 21. Qc4+
+Kh8 22. Rc1 Be4 23. Rh2 c6 24. Be2 Bd8 25. cxb6 axb6 26. Kf1 Bc7 27. Rh3 Bd5
+28. Qc3 Rxe3 0-1

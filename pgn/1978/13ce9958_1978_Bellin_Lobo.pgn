@@ -1,0 +1,17 @@
+[Event "London"]
+[Site "London"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Bellin"]
+[Black "Lobo"]
+[Result "1-0"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack"]
+[HashCode "13ce9958"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 c5 4. Bxf6 gxf6 5. e4 dxe4 6. dxc5 Qa5 7. Qh5 f5
+8. Bb5+ Nc6 9. a3 Bg7 10. Ne2 e6 11. g4 fxg4 12. Qxg4 Rg8 13. Bxc6+ bxc6
+14. Qxe4 Qxc5 15. Qxh7 Kf8 16. Qd3 f5 17. O-O-O Kf7 18. Qf3 Ke7 19. Rhe1
+Rb8 20. Na4 Qb5 21. b3 Bh6+ 22. Kb1 Qxa4 23. Nd4 Kf7 24. Qh5+ 1-0
+

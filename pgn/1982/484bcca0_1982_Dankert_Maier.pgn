@@ -1,0 +1,29 @@
+[Event "Bundesliga 8182"]
+[Site "Duitsland tt"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Dankert, Peter"]
+[Black "Maier, Christian"]
+[Result "1-0"]
+[ECO "C00"]
+[Opening "French"]
+[Variation "Two knights variation"]
+[HashCode "484bcca0"]
+[Epoch "Rook"]
+[WhiteID "4605357"]
+[WhiteCountry "GER"]
+[BlackID "4601955"]
+[BlackCountry "GER"]
+
+1. e4 e6 2. Nc3 d5 3. Nf3 Nf6 4. e5 Nfd7 5. d4 b6 6. Ne2 Ba6 7. g3 c5 8. c3
+cxd4 9. cxd4 Bb4+ 10. Bd2 Qe7 11. Rc1 O-O 12. Bg2 f6 13. exf6 Nxf6 14. O-O Bxd2
+15. Qxd2 Nbd7 16. Rfe1 Ne4 17. Qe3 Qb4 18. Nc3 Ndf6 19. Nxe4 Nxe4 20. Rc2 Rac8
+21. Rec1 Rxc2 22. Rxc2 Rc8 23. Rxc8+ Bxc8 24. Ne5 Bb7 25. f3 Qd2 26. Qxd2 Nxd2
+27. Bf1 Nc4 28. Nxc4 dxc4 29. Bxc4 Bxf3 30. Bxe6+ Kf8 31. Kf2 Bb7 32. Ke3 Ke7
+33. Bf5 h6 34. Be4 Bc8 35. Kf4 Kf6 36. Bf3 g5+ 37. Ke4 Bb7+ 38. d5 Ba6 39. Bg4
+Bc4 40. b3 Ba6 41. Kd4 Bb7 42. Be2 Bc8 43. Bb5 Bh3 44. d6 Bg4 45. d7 Ke7 46.
+Ke5 Bd1 47. b4 Bg4 48. d8=Q+ Kxd8 49. Kf6 Bf3 50. Kg6 Ke7 51. Kxh6 Kf6 52. Bd7
+Be2 53. a3 b5 54. Bc8 Bf3 55. Bd7 Be2 56. g4 Bd3 57. Be8 Be2 58. Kh5 Bd3 59. h4
+gxh4 60. Kxh4 Ke5 61. g5 Kd4 62. Kg4 Kc3 63. Kf4 Kb2 64. Ke3 Bb1 65. Kd4 Kxa3
+66. Kc5 a6 67. g6 Ka4 68. g7 Ba2 69. Bc6 Bg8 70. Bd5 Bh7 71. g8=Q Bxg8 72. Bxg8
+1-0

@@ -1,0 +1,16 @@
+[Event "Chamberg"]
+[Site "Chamberg"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Lempereur"]
+[Black "Favre"]
+[Result "0-1"]
+[ECO "D34"]
+[Opening "QGD"]
+[Variation "Tarrasch, Prague variation, Normal position"]
+[HashCode "0d8f4560"]
+[Epoch "Rook"]
+
+1. Nf3 d5 2. g3 c5 3. Bg2 Nc6 4. d4 e6 5. O-O Nf6 6. c4 Be7 7. cxd5 exd5 8.
+Nc3 O-O 9. dxc5 d4 10. Na4 Bf5 11. Bf4 Be4 12. Ne5 Bxg2 13. Kxg2 Nxe5 0-1
+

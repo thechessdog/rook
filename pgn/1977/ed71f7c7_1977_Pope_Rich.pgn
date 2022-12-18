@@ -1,0 +1,16 @@
+[Event "corr CCLA"]
+[Site "corr CCLA"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Pope"]
+[Black "Rich"]
+[Result "1-0"]
+[ECO "D00"]
+[Opening "Queen's pawn"]
+[Variation "Chigorin variation"]
+[HashCode "ed71f7c7"]
+[Epoch "Rook"]
+
+1. d4 d5 2. Nc3 f5 3. g3 e6 4. Bg2 c5 5. e3 Nc6 6. Nge2 Nf6 7. O-O b6 8. b3
+Ba6 9. Re1 c4 10. Nf4 Bb4 1-0
+

@@ -1,0 +1,19 @@
+[Event "Rome"]
+[Site "Rome"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Marovic, Drazen"]
+[Black "Zichichi, Alvise"]
+[Result "1/2-1/2"]
+[ECO "D11"]
+[Opening "QGD Slav"]
+[Variation "3.Nf3"]
+[HashCode "1aea752e"]
+[Epoch "Rook"]
+[BlackID "800481"]
+[BlackCountry "ITA"]
+[WhiteID "14500183"]
+[WhiteCountry "CRO"]
+
+1. d4 d5 2. c4 c6 3. Nf3 e6 4. cxd5 cxd5 5. Nc3 Nc6 6. Bf4 Bd6 7. Bg3 f5 8. a3
+a6 9. e3 Nf6 10. Bd3 O-O 11. O-O b5 12. Rc1 1/2-1/2

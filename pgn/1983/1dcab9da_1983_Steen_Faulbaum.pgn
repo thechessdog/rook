@@ -1,0 +1,17 @@
+[Event "RLN 8283"]
+[Site "RLN 8283"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Steen, P."]
+[Black "Faulbaum, G."]
+[Result "0-1"]
+[ECO "D02"]
+[Opening "Queen's pawn game"]
+[HashCode "1dcab9da"]
+[Epoch "Rook"]
+
+1. d4 d5 2. Nf3 Bf5 3. e3 e6 4. Bd3 Bxd3 5. Qxd3 Nf6 6. Qb5+ Nbd7 7. Qxb7
+Bd6 8. Qb5 O-O 9. Nbd2 Qe7 10. Qd3 e5 11. dxe5 Nxe5 12. Nxe5 Qxe5 13. Nf3
+Qh5 14. h3 Rfe8 15. b3 Ne4 16. Bb2 Re6 17. g4 Qh6 18. Qxd5 Rae8 19. Qh5
+Bb4+ 20. c3 Qf6 21. g5 Bxc3+ 22. Kf1 Qf5 23. Bxc3 Nxc3 24. Re1 Rh6 0-1
+

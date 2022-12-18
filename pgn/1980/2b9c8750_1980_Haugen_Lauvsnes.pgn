@@ -1,0 +1,23 @@
+[Event "Randaberg"]
+[Site "Randaberg"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Haugen, Arild"]
+[Black "Lauvsnes, Arild"]
+[Result "1-0"]
+[ECO "B00"]
+[Opening "KP"]
+[Variation "Nimzovich defence"]
+[HashCode "2b9c8750"]
+[Epoch "Rook"]
+[WhiteID "1505076"]
+[BlackID "1500554"]
+[WhiteCountry "NOR"]
+[BlackCountry "NOR"]
+
+1. e4 Nc6 2. d4 d5 3. e5 Bf5 4. c3 Qd7 5. Bd3 O-O-O 6. Nf3 f6 7. O-O Nh6 8. Re1
+g5 9. Qe2 g4 10. e6 Qe8 11. Nh4 Bxd3 12. Qxd3 Na5 13. Na3 Qc6 14. Bf4 Nc4 15.
+Nxc4 dxc4 16. Qe4 Qxe4 17. Rxe4 Rg8 18. Bxh6 Bxh6 19. Nf5 Bf8 20. Ne3 b5 21. a4
+c5 22. axb5 cxd4 23. cxd4 Kb8 24. d5 Rg5 25. Rxc4 Re5 26. Rca4 Bh6 27. Rxa7
+Bxe3 28. fxe3 Rexd5 29. Ra8+ Kc7 30. Rxd8 Rxd8 31. Ra7+ Kd6 32. Rd7+ Rxd7 33.
+exd7 Kxd7 34. Kf2 h5 35. Kg3 f5 36. Kh4 e5 37. Kxh5 1-0

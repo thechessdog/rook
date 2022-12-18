@@ -1,0 +1,29 @@
+[Event "IBM"]
+[Site "Amsterdam"]
+[Date "1980.06.01"]
+[Round "1"]
+[White "Dolmatov, Sergey"]
+[Black "Van der Wiel, John T.H."]
+[Result "1-0"]
+[ECO "B66"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...a6"]
+[HashCode "5e2cc101"]
+[Epoch "Rook"]
+[WhiteID "4100093"]
+[WhiteCountry "RUS"]
+[BlackID "1000020"]
+[BlackCountry "NED"]
+
+1. e4 c5 2. Nf3 Nc6 3. Nc3 d6 4. d4 cxd4 5. Nxd4 Nf6 6. Bg5 e6 7. Qd2 a6 8.
+O-O-O h6 9. Be3 Bd7 10. f3 Qc7 11. g4 Ne5 12. Bd3 b5 13. g5 hxg5 14. Bxg5 Nc4
+15. Bxc4 Qxc4 16. Kb1 b4 17. Nce2 a5 18. h4 Nh5 19. Nb3 e5 20. Nbc1 Be6 21. b3
+Qc6 22. Rhg1 f6 23. Be3 Rd8 24. c4 Rd7 25. Qc2 Be7 26. f4 Bf7 27. f5 Rg8 28.
+Rg4 Rd8 29. Rdg1 Ra8 30. Nd3 g6 31. Nb2 Rc8 32. Qd3 g5 33. hxg5 fxg5 34. Bxg5
+Rxg5 35. Rxg5 Bxg5 36. Rxg5 Nf6 37. Ng3 Ke7 38. Qe3 Rh8 39. Nd3 Nh7 40. Rg7 Nf6
+41. Qa7+ Qd7 42. Qxa5 Kf8 43. Rg5 Nh7 44. Rg6 Bxg6 45. fxg6 Nf6 46. Nf5 Rh1+
+47. Nc1 Rg1 48. Qa8+ Ne8 49. g7+ Kg8 50. Qd5+ Kh7 51. Qd2 Kg8 52. Qd5+ Kh7 53.
+Qd2 Kg8 54. Qh2 Rxg7 55. Nxg7 Kxg7 56. Qg2+ Kf8 57. Nd3 Qb7 58. Qf2+ Kg8 59.
+Qe1 Qh7 60. Nxb4 Nf6 61. Qg3+ Kf7 62. Qf3 Kg7 63. Kb2 Qh4 64. Nd5 Nxe4 65. Ne3
+Qf4 66. Qxf4 exf4 67. Nf1 Kf6 68. a4 Ke5 69. a5 Nc5 70. b4 Nd7 71. Kc3 Ke4 72.
+a6 Nb6 73. b5 Na8 74. Nh2 Ke3 75. Ng4+ 1-0

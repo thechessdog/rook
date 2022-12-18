@@ -1,0 +1,25 @@
+[Event "ACM Washington"]
+[Site "ACM Washington"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Awit"]
+[Black "Blitz 6 5"]
+[Result "0-1"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "Indian variation"]
+[HashCode "645b241a"]
+[Epoch "Rook"]
+
+1. b3 Nf6 2. Bb2 Nc6 3. e3 e6 4. Nf3 Bc5 5. Bb5 O-O 6. a3 a6 7. Bd3 d5 8.
+O-O h6 9. b4 Bb6 10. c4 Ba7 11. Qc2 Bd7 12. Nc3 a5 13. b5 Ne7 14. Rfb1 c5
+15. Na4 dxc4 16. Qxc4 b6 17. Bxf6 gxf6 18. Qg4+ Kh8 19. Qh3 Kg7 20. Be4 Rc8
+21. Qh4 Rg8 22. Qg3+ Ng6 23. Nc3 Qe7 24. a4 Rcd8 25. d4 Bb8 26. Qh3 c4 27.
+Qh5 Kh7 28. g3 f5 29. Bc2 Rc8 30. Nd2 Qg5 31. Bd1 Qxh5 32. Bxh5 Rc7 33. Rc1
+Rgc8 34. Rab1 Kg7 35. f3 Kh7 36. e4 fxe4 37. Ncxe4 c3 38. Nf6+ Kg7 39. Nde4
+Nf8 40. Nxd7 Rxd7 41. Rxc3 Rxc3 42. Nxc3 Rxd4 43. Rc1 Nd7 44. Rd1 Rxd1+ 45.
+Nxd1 Nc5 46. Nc3 Be5 47. Ne2 Nxa4 48. Nc1 Nc3 49. f4 Bd4+ 50. Kg2 a4 51.
+Kf3 a3 52. Kg2 a2 53. Nb3 Nxb5 54. Be2 Nd6 55. h4 Ne4 56. Bf3 Nd2 57. Nxd2
+a1=Q 58. Kh3 Qc3 59. Kg4 Qxd2 60. Kh3 b5 61. Bc6 f5 62. Bxb5 Bg1 63. Bc4
+Qh2# 0-1
+

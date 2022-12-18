@@ -1,0 +1,20 @@
+[Event "San Francisco"]
+[Site "San Francisco"]
+[Date "1979.01.01"]
+[Round "5"]
+[White "Blohm, David"]
+[Black "Kane, George Francis"]
+[Result "0-1"]
+[ECO "B78"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, 10.O-O-O"]
+[HashCode "6203d5ac"]
+[Epoch "Rook"]
+[BlackID "2001659"]
+[BlackCountry "USA"]
+[WhiteID "2012138"]
+[WhiteCountry "USA"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 Nc6 8. Qd2
+O-O 9. Bc4 Bd7 10. O-O-O Ne5 11. Bb3 Rc8 12. h4 h5 13. Rhe1 Nc4 14. Bxc4 Rxc4
+15. Nde2 Qa5 16. Kb1 Rfc8 17. Bg5 Nh7 0-1

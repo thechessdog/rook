@@ -1,0 +1,23 @@
+[Event "NOR-ch"]
+[Site "Oslo"]
+[Date "1984.??.??"]
+[Round "3"]
+[White "Ostenstad, Berge"]
+[Black "Kristiansen, Erling"]
+[Result "1-0"]
+[ECO "E12"]
+[Opening "Queen's Indian"]
+[Variation "4.Nc3"]
+[HashCode "4697d487"]
+[Epoch "Rook"]
+[WhiteID "1500058"]
+[BlackID "1500244"]
+[WhiteCountry "NOR"]
+[BlackCountry "NOR"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. Nc3 Bb7 5. a3 d5 6. cxd5 Nxd5 7. e3 Be7 8. Bb5+
+c6 9. Bd3 O-O 10. e4 Nxc3 11. bxc3 c5 12. Be3 cxd4 13. cxd4 Nd7 14. O-O Nf6 15.
+Qb1 h6 16. Bd2 Rc8 17. Re1 Rc7 18. a4 Qa8 19. a5 bxa5 20. Bxa5 Rcc8 21. Bb6 a6
+22. Nd2 Rc3 23. Ba5 Rc6 24. Qb3 Rcc8 25. f3 Bd8 26. Bc3 Rb8 27. Qa3 Qa7 28. Kh1
+Bb6 29. d5 exd5 30. Bxf6 gxf6 31. exd5 Bd4 32. Qd6 Bxa1 33. Qg3+ Kh8 34. Qf4
+Kg7 35. Qg4+ Kh8 36. Qf5 1-0

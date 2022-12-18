@@ -1,0 +1,19 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Schumann, T."]
+[Black "Moll"]
+[Result "1-0"]
+[ECO "C11"]
+[Opening "French"]
+[Variation "Burn variation"]
+[HashCode "9170e3ab"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 dxe4 5. Bxf6 Qxf6 6. Nxe4 Qd8 7. Nf3
+Be7 8. Bd3 Nd7 9. Qe2 Nf6 10. O-O-O Qd5 11. Kb1 Bd7 12. c4 Qa5 13. Ne5 Bc6
+14. Ng5 O-O 15. h4 h6 16. Rde1 Bb4 17. Nxc6 bxc6 18. Ne4 Nd7 19. Rd1 Rab8
+20. g4 Ba3 21. b3 f5 22. gxf5 exf5 23. Ng3 Qc3 24. Qc2 Qxc2+ 25. Kxc2 f4
+26. Nf5 Rf7 27. h5 Rbf8 28. Nh4 1-0
+

@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Cavallini"]
+[Black "Pantaleoni, L."]
+[Result "0-1"]
+[ECO "B33"]
+[Opening "Sicilian"]
+[Variation "Pelikan (Lasker/Sveshnikov) variation"]
+[HashCode "3f1c8ed9"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Nf5 d5 7. exd5 Bxf5
+8. dxc6 Qxd1+ 9. Nxd1 bxc6 10. c3 Bc5 11. Ba6 Rb8 12. b4 Bb6 13. Bg5 Nd5
+14. O-O f6 15. Bh4 h5 16. h3 g5 17. Bg3 h4 18. Bh2 g4 19. hxg4 Bxg4 20. Rc1
+Nf4 21. Bxf4 exf4 22. Re1+ Kd7 23. Nb2 h3 24. Rc2 Rbg8 25. Rd2+ Kc7 26.
+Re7+ Kb8 27. Be2 Bxe2 0-1
+

@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Walther"]
+[Black "Sokolow"]
+[Result "0-1"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack"]
+[HashCode "913791ab"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. Bg5 d5 3. Nc3 c6 4. Bxf6 exf6 5. e3 f5 6. Bd3 g6 7. Nge2 Nd7
+8. Qd2 Nf6 9. f3 Bg7 10. O-O-O b5 11. Ng3 O-O 12. Rdg1 Re8 13. Nf1 Nd7 14.
+h4 f4 15. Ne2 fxe3 16. Nxe3 Nb6 17. g4 Nc4 18. Bxc4 dxc4 19. Nd1 c5 20. d5
+b4 21. c3 Rb8 22. Kb1 Qf6 23. Rf1 Rb5 24. Rf2 Qa6 25. Nc1 Rd8 26. Re1 Be6
+27. dxe6 Rxd2 28. e7 bxc3 0-1
+

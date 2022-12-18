@@ -1,0 +1,17 @@
+[Event "Dayton,OH"]
+[Site "Dayton,OH"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Holsapple, Boyd"]
+[Black "Wall, Bill"]
+[Result "1-0"]
+[ECO "B06"]
+[Opening "Robatsch (modern) defence"]
+[HashCode "3f0e351c"]
+[Epoch "Rook"]
+[BlackCountry "USA"]
+[WhiteCountry "USA"]
+
+1. e4 g6 2. f4 Bg7 3. Nf3 c5 4. Bc4 e6 5. d4 cxd4 6. Nxd4 a6 7. O-O Qb6 8. c3
+Nc6 9. Qb3 Qa7 10. e5 Nxd4 11. cxd4 Qxd4+ 12. Be3 Qe4 13. Nd2 Qc6 14. Rac1 b5
+15. Be2 Qd5 16. Bf3 Qxb3 17. Nxb3 Rb8 18. Ba7 Ne7 19. Bxb8 1-0

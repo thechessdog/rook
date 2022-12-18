@@ -1,0 +1,15 @@
+[Event "Hickory,NC"]
+[Site "Hickory,NC"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Wall, Bill"]
+[Black "Davidson, Dennis"]
+[Result "1-0"]
+[ECO "C22"]
+[Opening "Centre game"]
+[HashCode "bee093cd"]
+[Epoch "Rook"]
+[WhiteCountry "USA"]
+
+1. e4 e5 2. d4 exd4 3. Qxd4 Nc6 4. Qa4 Qe7 5. Nc3 Nf6 6. Bg5 d5 7. O-O-O dxe4
+8. Nxe4 Qxe4 9. Rd8+ Kxd8 10. Qxe4 1-0

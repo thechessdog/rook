@@ -1,0 +1,20 @@
+[Event "Aarhus"]
+[Site "Aarhus"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Pedersen, Erik"]
+[Black "Kristensen, Leif"]
+[Result "1/2-1/2"]
+[ECO "A87"]
+[Opening "Dutch"]
+[Variation "Leningrad, main variation"]
+[HashCode "99355465"]
+[Epoch "Rook"]
+[WhiteID "1404997"]
+[BlackID "1404571"]
+[WhiteCountry "DEN"]
+[BlackCountry "DEN"]
+
+1. d4 f5 2. g3 Nf6 3. Bg2 g6 4. Nf3 Bg7 5. c4 O-O 6. Nc3 d6 7. d5 c6 8. O-O Qa5
+9. a3 Qa6 10. Nd2 cxd5 11. cxd5 Nbd7 12. a4 Ne5 13. Nb5 Qb6 14. Nf3 Nxf3+ 15.
+Bxf3 Bd7 16. Be3 Qa5 17. Bd2 Qb6 18. Be3 Qa5 1/2-1/2

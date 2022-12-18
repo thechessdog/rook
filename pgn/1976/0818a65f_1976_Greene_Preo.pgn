@@ -1,0 +1,20 @@
+[Event "corr NAICCC II"]
+[Site "corr NAICCC II"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Greene, Sanford"]
+[Black "Preo, Nicholas"]
+[Result "0-1"]
+[ECO "D88"]
+[Opening "Gruenfeld"]
+[Variation "Spassky variation, main line, 10...cd, 11.cd"]
+[HashCode "0818a65f"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 c5 7. Bc4 cxd4
+8. cxd4 Bg7 9. Ne2 Nc6 10. Be3 O-O 11. O-O Na5 12. Bd3 e6 13. Rc1 b6 14.
+Qd2 Bb7 15. Bh6 Qd7 16. Bxg7 Kxg7 17. Qf4 Rac8 18. h4 Qe7 19. h5 Nc6 20.
+Qe3 Qh4 21. hxg6 hxg6 22. f4 Rh8 23. d5 exd5 24. exd5 Ne7 25. Rxc8 Rxc8 26.
+d6 Nd5 27. Qe5+ Nf6 28. f5 g5 29. Nd4 g4 30. Qh2 Qxh2+ 31. Kxh2 Rd8 32. Nb5
+a6 33. Nc7 b5 0-1
+

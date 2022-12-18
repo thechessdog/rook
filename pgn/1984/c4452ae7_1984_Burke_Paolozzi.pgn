@@ -1,0 +1,18 @@
+[Event "New York"]
+[Site "New York"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Burke, John"]
+[Black "Paolozzi, Marcos"]
+[Result "0-1"]
+[ECO "B92"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Opovcensky variation"]
+[HashCode "c4452ae7"]
+[Epoch "Rook"]
+[BlackCountry "BRA"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nf3 Qc7 8. O-O
+Be7 9. Be3 O-O 10. a4 Be6 11. Ng5 Nbd7 12. Nxe6 fxe6 13. Bg4 Kf7 14. f4 exf4
+15. Rxf4 Ne5 16. Bh3 g6 17. Rh4 Rae8 18. Qf1 h5 19. Bh6 Rh8 20. Bg5 Qc5+ 21.
+Kh1 0-1

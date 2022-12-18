@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Johannesson, J."]
+[Black "Olin, R."]
+[Result "1-0"]
+[ECO "C70"]
+[Opening "Ruy Lopez"]
+[Variation "Graz variation"]
+[HashCode "49786c4c"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 b5 5. Bb3 Bc5 6. c3 Qf6 7. d4 exd4 8.
+e5 Qf5 9. cxd4 Bb4+ 10. Nc3 Nge7 11. Ng5 Nxe5 12. dxe5 Qxe5+ 13. Kf1 O-O
+14. Nxf7 1-0
+

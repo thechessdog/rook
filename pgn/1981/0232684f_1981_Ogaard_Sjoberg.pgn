@@ -1,0 +1,24 @@
+[Event "Gausdal Int"]
+[Site "Gausdal"]
+[Date "1981.01.01"]
+[Round "6"]
+[White "Ogaard, Leif"]
+[Black "Sjoberg, Mats"]
+[Result "1-0"]
+[ECO "A65"]
+[Opening "Benoni"]
+[Variation "6.e4"]
+[HashCode "0232684f"]
+[Epoch "Rook"]
+[WhiteID "1500074"]
+[WhiteCountry "NOR"]
+[BlackID "1700375"]
+[BlackCountry "SWE"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. h3 Bg7 8. Nf3
+O-O 9. Bd3 Re8 10. O-O c4 11. Bc2 b5 12. a3 Nbd7 13. Nxb5 Nc5 14. Nd2 Ncxe4 15.
+Nxc4 Bb7 16. Ne3 Qb6 17. a4 Rac8 18. Ra3 Qc5 19. Nc3 Qa5 20. b4 Qb6 21. a5 Nxc3
+22. Rxc3 Qd8 23. Bb2 Rxc3 24. Bxc3 Nxd5 25. Nxd5 Bxd5 26. Bxg7 Qg5 27. Qg4 Qxg4
+28. hxg4 Kxg7 29. Rd1 Be4 30. Ba4 Rd8 31. b5 Bb7 32. Rc1 Rc8 33. Rxc8 Bxc8 34.
+a6 Kf6 35. Bb3 Ke5 36. f4+ Kd4 37. Bxf7 Bd7 38. b6 axb6 39. a7 Bc6 40. Bg8 h6
+41. Kf2 d5 42. Bf7 g5 43. f5 Ke5 44. g3 b5 1-0

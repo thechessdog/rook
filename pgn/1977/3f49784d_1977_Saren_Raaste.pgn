@@ -1,0 +1,22 @@
+[Event "Helsinki"]
+[Site "Helsinki"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Saren, Ilkka J."]
+[Black "Raaste, Eero J."]
+[Result "0-1"]
+[ECO "C82"]
+[Opening "Ruy Lopez"]
+[Variation "open, Motzko attack"]
+[HashCode "3f49784d"]
+[Epoch "Rook"]
+[WhiteID "500089"]
+[BlackID "500097"]
+[WhiteCountry "FIN"]
+[BlackCountry "FIN"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Be6 9. c3 Bc5 10. Qd3 O-O 11. Be3 f6 12. exf6 Qxf6 13. Nbd2 Nxd2 14. Qxd2 Bxe3
+15. Qxe3 Na5 16. Qc5 c6 17. Nd4 Bd7 18. Rae1 Rae8 19. f3 Re5 20. Qb6 Nxb3 21.
+axb3 Rfe8 22. Rd1 Qf4 23. Qc7 Bh3 24. Nxc6 Qg5 25. g3 Qe3+ 26. Rf2 Qe1+ 27. Rf1
+Qe2 0-1

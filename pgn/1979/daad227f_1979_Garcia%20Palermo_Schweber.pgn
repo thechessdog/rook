@@ -1,0 +1,19 @@
+[Event "Esquel"]
+[Site "Esquel"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Garcia Palermo, Carlos"]
+[Black "Schweber, Samuel"]
+[Result "0-1"]
+[ECO "B43"]
+[Opening "Sicilian"]
+[Variation "Kan, 5.Nc3"]
+[HashCode "daad227f"]
+[Epoch "Rook"]
+[WhiteID "110124"]
+[WhiteCountry "ITA"]
+[BlackCountry "ARG"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 b5 6. Bd3 Bb7 7. O-O d6 8. f4
+Nd7 9. Kh1 Ngf6 10. Qe2 Nc5 11. e5 dxe5 12. fxe5 Qxd4 13. Bxb5+ axb5 14. exf6
+Qc4 15. Qf2 Rg8 16. Bg5 b4 17. Rad1 bxc3 18. fxg7 Rxg7 19. Qf6 Nd7 0-1

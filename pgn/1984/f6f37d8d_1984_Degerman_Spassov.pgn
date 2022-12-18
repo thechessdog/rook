@@ -1,0 +1,30 @@
+[Event "Hamburg op"]
+[Site "Hamburg"]
+[Date "1984.01.01"]
+[Round "2"]
+[White "Degerman, Lars"]
+[Black "Spassov, Liuben"]
+[Result "0-1"]
+[ECO "B93"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.f4"]
+[HashCode "f6f37d8d"]
+[Epoch "Rook"]
+[WhiteID "1700227"]
+[WhiteCountry "SWE"]
+[BlackID "2900220"]
+[BlackCountry "FID"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 e5 7. Nf3 Qc7 8. a4
+Nbd7 9. Bd3 b6 10. O-O Bb7 11. Qe1 g6 12. Kh1 Bg7 13. fxe5 dxe5 14. Qh4 h6 15.
+Bd2 Nh5 16. b3 O-O 17. Bc4 Ndf6 18. Rae1 Rad8 19. h3 Qc5 20. Be3 Qa5 21. Nd5
+Nxd5 22. exd5 Bxd5 23. Qf2 Bxc4 24. Bxb6 Qb4 25. bxc4 Ng3+ 26. Qxg3 Qxb6 27.
+Nxe5 Qc7 28. Qf4 g5 29. Qf5 Rd2 30. Ng4 Qg3 31. Qf3 Qxf3 32. Rxf3 f5 33. Ne3 f4
+34. Nd5 Rxc2 35. Re6 Rc1+ 36. Kh2 Bd4 37. h4 Kg7 38. hxg5 hxg5 39. Kh3 Rg1 40.
+Kh2 Rb8 41. Re4 Rbb1 42. Kh3 Kg6 43. Nxf4+ Kf5 44. Rxd4 g4+ 45. Kh2 gxf3 46.
+gxf3 Rgd1 47. Nd3 Rd2+ 48. Kg3 Rg1+ 49. Kh3 Rgd1 50. Rf4+ Kg5 51. Rg4+ Kh6 52.
+Rh4+ Kg7 53. Rg4+ Kf8 54. Rf4+ Ke7 55. Re4+ Kd6 56. c5+ Kc7 57. Nf4 Rg1 58. Re6
+Kb7 59. Re7+ Kc8 60. Ra7 Rd7 61. Ra8+ Kb7 62. c6+ Kxa8 63. cxd7 Rd1 64. Ne6
+Rxd7 65. f4 Rd1 66. f5 Rf1 67. Kg4 Kb7 68. Kg5 Kc6 69. f6 Kd6 70. Nd4 Kd5 71.
+Nb3 Ke5 72. Nc5 Rf5+ 73. Kg4 a5 74. Nd7+ Ke6 75. Nb6 Kxf6 76. Nc4 Rc5 77. Nb6
+Ke6 0-1

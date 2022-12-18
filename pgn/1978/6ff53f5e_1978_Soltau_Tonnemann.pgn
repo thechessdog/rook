@@ -1,0 +1,20 @@
+[Event "corr DFSM"]
+[Site "corr DFSM"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Soltau"]
+[Black "Tonnemann"]
+[Result "1-0"]
+[ECO "D42"]
+[Opening "QGD"]
+[Variation "Semi-Tarrasch, 7.Bd3"]
+[HashCode "6ff53f5e"]
+[Epoch "Rook"]
+
+1. Nf3 Nf6 2. c4 c5 3. Nc3 d5 4. cxd5 Nxd5 5. e3 e6 6. d4 Nc6 7. Bd3 Be7 8.
+O-O O-O 9. Ne4 cxd4 10. exd4 Nf6 11. Nxf6+ Bxf6 12. Be3 Nb4 13. Be4 Nd5 14.
+Qd3 h6 15. Rad1 Qd6 16. Bc1 Rd8 17. Qe2 Bd7 18. Ne5 Bc6 19. Bb1 Be7 20. Rd3
+Nf6 21. Rg3 Qxd4 22. Bxh6 Bf8 23. Bg5 Be7 24. Ng6 Qd7 25. Nxe7+ Qxe7 26.
+Qe5 Kf8 27. Rh3 Ke8 28. Rh8+ Kd7 29. Rd1+ Bd5 30. Rxd5+ exd5 31. Bf5+ Kc6
+32. Qxe7 Rxh8 33. b4 1-0
+

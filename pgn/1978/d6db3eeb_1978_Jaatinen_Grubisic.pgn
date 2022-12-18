@@ -1,0 +1,17 @@
+[Event "corr FIN-YUG"]
+[Site "corr FIN-YUG"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Jaatinen, Pertti"]
+[Black "Grubisic"]
+[Result "1-0"]
+[ECO "A83"]
+[Opening "Dutch"]
+[Variation "Staunton gambit, Alekhine variation"]
+[HashCode "d6db3eeb"]
+[Epoch "Rook"]
+
+1. d4 f5 2. e4 fxe4 3. Nc3 Nf6 4. Bg5 g6 5. h4 h6 6. Bxf6 exf6 7. Qg4 Kf7
+8. h5 g5 9. Bc4+ d5 10. Qxe4 dxc4 11. Qg6+ Ke7 12. O-O-O Kd6 13. Nf3 Bd7
+14. Ne5 1-0
+

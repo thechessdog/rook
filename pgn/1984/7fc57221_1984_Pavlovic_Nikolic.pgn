@@ -1,0 +1,18 @@
+[Event "Biel"]
+[Site "Biel"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Pavlovic"]
+[Black "Nikolic, Sava N"]
+[Result "0-1"]
+[ECO "E76"]
+[Opening "King's Indian"]
+[Variation "Four pawns attack, dynamic line"]
+[HashCode "7fc57221"]
+[Epoch "Rook"]
+[BlackID "901857"]
+[BlackCountry "SRB"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f4 O-O 6. Nf3 c5 7. d5 b5 8. cxb5 a6
+9. a4 Qa5 10. Nd2 Qb4 11. Ra3 c4 12. Qf3 Nbd7 13. Bxc4 Nb6 14. Bf1 Bg4 15. Qe3
+Rfc8 16. Qxb6 Nxd5 17. exd5 Bd4 18. Rb3 Qxa4 19. Ra3 Rxc3 20. bxc3 Qd1# 0-1

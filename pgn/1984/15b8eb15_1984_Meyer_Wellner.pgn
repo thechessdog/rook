@@ -1,0 +1,21 @@
+[Event "Berlin op"]
+[Site "Berlin-West"]
+[Date "1984.01.01"]
+[Round "5"]
+[White "Meyer, Claus Dieter"]
+[Black "Wellner, Emil"]
+[Result "1-0"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Paulsen attack"]
+[HashCode "15b8eb15"]
+[Epoch "Rook"]
+[WhiteID "4601785"]
+[WhiteCountry "GER"]
+[BlackID "24652571"]
+[BlackCountry "GER"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. a3 c4 7. Be2 Bd7 8. O-O Na5
+9. Nbd2 Ne7 10. Re1 h6 11. Bf1 O-O-O 12. Rb1 g5 13. h3 Ng6 14. b4 cxb3 15. c4
+dxc4 16. Nxc4 Nxc4 17. Bxc4 Bc6 18. Be3 Qc7 19. Qxb3 Ne7 20. Rec1 Kb8 21. d5
+exd5 22. Bb5 Qd7 23. e6 1-0

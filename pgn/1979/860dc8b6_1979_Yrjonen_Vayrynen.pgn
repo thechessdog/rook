@@ -1,0 +1,19 @@
+[Event "corr EH"]
+[Site "corr EH"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Yrjonen, Markku"]
+[Black "Vayrynen, Timo"]
+[Result "0-1"]
+[ECO "A58"]
+[Opening "Benko gambit accepted"]
+[HashCode "860dc8b6"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. bxa6 Bxa6 6. Nc3 d6 7. Nf3 g6 8.
+e4 Bxf1 9. Kxf1 Bg7 10. h3 O-O 11. Kg1 Nbd7 12. Kh2 Qa5 13. Re1 Nb6 14. Qc2
+Rfb8 15. Nd2 Nfd7 16. f4 c4 17. Re3 Nc5 18. Ne2 Qb5 19. a3 Nd3 20. Nc3 Qa6
+21. Nxc4 Nxc4 22. Rxd3 Nxb2 23. Rf3 Na4 24. e5 dxe5 25. fxe5 Bxe5+ 26. Bf4
+Bxc3 27. Rxc3 Nxc3 28. Bxb8 Nxd5 29. Rb1 Qxa3 30. Qc8+ Kg7 31. Qc6 Ra5 32.
+Be5+ f6 33. Bg3 Ne3 34. Rb7 Nf1+ 0-1
+

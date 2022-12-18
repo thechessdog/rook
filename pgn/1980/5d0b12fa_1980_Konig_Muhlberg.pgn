@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Konig"]
+[Black "Muhlberg"]
+[Result "0-1"]
+[ECO "C21"]
+[Opening "Danish gambit"]
+[Variation "Schlechter defence"]
+[HashCode "5d0b12fa"]
+[Epoch "Rook"]
+
+1. e4 e5 2. d4 exd4 3. c3 dxc3 4. Bc4 cxb2 5. Bxb2 d5 6. Bxd5 Nf6 7. Bxf7+
+Kxf7 8. Qb3+ Be6 9. Qxb7 Nbd7 10. Nf3 h6 11. Ne5+ Nxe5 12. Bxe5 Qb8 13. Qc6
+Bb4+ 14. Nc3 Qb6 15. Qxb6 axb6 16. O-O Bxc3 17. Bxc3 Nxe4 18. Be5 c6 19.
+Rfe1 Bd5 20. Re2 Rhd8 21. f3 Nd6 22. a3 Nc4 23. a4 Re8 24. f4 Re6 25. h4 b5
+26. f5 Rxe5 27. Rxe5 Nxe5 28. a5 b4 29. a6 b3 0-1
+

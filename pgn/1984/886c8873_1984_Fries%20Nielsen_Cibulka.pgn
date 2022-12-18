@@ -1,0 +1,19 @@
+[Event "Tirnavia-B"]
+[Site "Trnava"]
+[Date "1984.??.??"]
+[Round "1"]
+[White "Fries-Nielsen, Jens Ove"]
+[Black "Cibulka, Vladimir"]
+[Result "1/2-1/2"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "classical variation"]
+[HashCode "886c8873"]
+[Epoch "Rook"]
+[BlackID "14901323"]
+[BlackCountry "SVK"]
+[WhiteCountry "DEN"]
+
+1. b3 d5 2. Bb2 Nf6 3. e3 g6 4. Bxf6 exf6 5. Nf3 Bg7 6. Be2 O-O 7. O-O b6 8. d4
+Bb7 9. Nbd2 c5 10. c3 Qe7 11. Re1 f5 12. Rc1 Rd8 13. Bf1 Nd7 14. Qc2 Rac8 15.
+Qb2 Qd6 16. Qa3 Qb8 17. Ba6 Re8 18. Bxb7 Qxb7 1/2-1/2

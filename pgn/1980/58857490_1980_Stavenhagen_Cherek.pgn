@@ -1,0 +1,17 @@
+[Event "corr DDR-M"]
+[Site "corr DDR-M"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Stavenhagen"]
+[Black "Cherek, G."]
+[Result "0-1"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical (two knights) system"]
+[HashCode "58857490"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. Nf3 g6 3. Nc3 Bg7 4. e4 d6 5. Bg5 O-O 6. Bc4 Bg4 7. h3 Bxf3 8.
+Qxf3 Nc6 9. O-O-O Nd7 10. Nd5 Nb6 11. Nxb6 axb6 12. Be3 Na5 13. Be2 c5 14.
+dxc5 Qc7 15. cxb6 Nb3+ 16. axb3 Qc3 0-1
+

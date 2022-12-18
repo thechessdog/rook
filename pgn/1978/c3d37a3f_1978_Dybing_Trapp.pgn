@@ -1,0 +1,18 @@
+[Event "Virginia"]
+[Site "Virginia"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Dybing"]
+[Black "Trapp"]
+[Result "0-1"]
+[ECO "C05"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation"]
+[HashCode "c3d37a3f"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Bd3 c5 6. c3 Nc6 7. Ngf3 Qb6 8.
+Ng5 cxd4 9. Nxf7 Kxf7 10. Qh5+ g6 11. Bxg6+ hxg6 12. Qxh8 Ncxe5 13. Nf3
+Nxf3+ 14. gxf3 Bg7 15. Qh7 Nf8 16. Qh4 dxc3 17. b3 c2 18. Ba3 Bc3+ 19. Kf1
+Qa6+ 20. Kg2 Qxa3 0-1
+

@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Mathes"]
+[Black "Stegmann"]
+[Result "1-0"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, poisoned pawn variation"]
+[HashCode "e437b3b0"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. Qg4 Ne7 6. a3 Bxc3+ 7. bxc3 O-O 8.
+Nf3 Nbc6 9. Bd3 f5 10. exf6 Rxf6 11. Bg5 e5 12. Bxh7+ Kxh7 13. Qh5+ Kg8 14.
+Bxf6 gxf6 15. dxe5 Nxe5 16. Nxe5 fxe5 17. Qg5+ Kf7 18. O-O Bf5 19. Rfe1 e4
+20. f3 Qg8 21. Qf4 Ke8 22. c4 Rc8 23. cxd5 Qxd5 24. Rad1 Qc6 25. fxe4 Bg6
+26. Rf1 1-0
+

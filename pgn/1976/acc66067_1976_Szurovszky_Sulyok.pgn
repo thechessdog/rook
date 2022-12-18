@@ -1,0 +1,20 @@
+[Event "Salgotarjan"]
+[Site "Salgotarjan"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Szurovszky, Elek"]
+[Black "Sulyok, Sandor"]
+[Result "1-0"]
+[ECO "B59"]
+[Opening "Sicilian"]
+[Variation "Boleslavsky variation, 7.Nb3"]
+[HashCode "acc66067"]
+[Epoch "Rook"]
+[WhiteID "702412"]
+[BlackID "702021"]
+[WhiteCountry "HUN"]
+[BlackCountry "HUN"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be2 e5 7. Nb3 Nc6 8. O-O
+Be6 9. f4 Be7 10. f5 Bxb3 11. axb3 a6 12. Be3 O-O 13. Bf3 Nd7 14. Qd2 Nb6 15.
+Rad1 Nc8 16. Nd5 Re8 17. Bh5 f6 18. Bxe8 Qxe8 1-0

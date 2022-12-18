@@ -1,0 +1,19 @@
+[Event "corr DDR/I"]
+[Site "corr DDR/I"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Kucharkowski"]
+[Black "Zibulla"]
+[Result "1-0"]
+[ECO "A00"]
+[Opening "Polish (Sokolsky) opening"]
+[HashCode "c44231f6"]
+[Epoch "Rook"]
+
+1. b4 Nf6 2. Bb2 e6 3. b5 d5 4. e3 c5 5. f4 Be7 6. Nf3 O-O 7. c4 Bd7 8. a4
+b6 9. Be2 a6 10. Nc3 Bd6 11. O-O dxc4 12. Bxc4 axb5 13. axb5 Rxa1 14. Qxa1
+Qc7 15. Ne2 Be7 16. Ne5 Bc8 17. g4 Nbd7 18. g5 Nh5 19. Ng4 Re8 20. Ng3 Nxg3
+21. Bxg7 Nf5 22. Nh6+ Nxh6 23. gxh6 Qd6 24. Rf3 f6 25. Rg3 Kf7 26. Qb1 Nf8
+27. Bxf8 Rxf8 28. Qxh7+ Ke8 29. Qg6+ Kd7 30. h7 Qxd2 31. Qe4 Qd1+ 32. Kg2
+Qd2+ 33. Kh3 Qd6 34. Rg8 f5 35. Qc6+ Qxc6 36. bxc6+ Kxc6 37. Rxf8 1-0
+

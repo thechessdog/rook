@@ -1,0 +1,21 @@
+[Event "Aarhus"]
+[Site "Aarhus"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Jacobsen, Bo"]
+[Black "Pedersen, Karsten"]
+[Result "1-0"]
+[ECO "E64"]
+[Opening "King's Indian"]
+[Variation "fianchetto, Yugoslav system"]
+[HashCode "d6bd2aff"]
+[Epoch "Rook"]
+[WhiteID "1400738"]
+[BlackID "1455192"]
+[WhiteCountry "DEN"]
+[BlackCountry "DEN"]
+
+1. c4 Nf6 2. g3 g6 3. Bg2 Bg7 4. Nc3 d6 5. d4 O-O 6. Nf3 c5 7. d5 e6 8. dxe6
+fxe6 9. O-O Nc6 10. Ng5 Qe7 11. Nge4 Nxe4 12. Nxe4 Nd4 13. Bg5 Qc7 14. Qd2 Bd7
+15. Be7 Nf5 16. Bxf8 Rxf8 17. Rad1 Bc6 18. b3 Nd4 19. f4 Nf5 20. e3 Rd8 21.
+Rfe1 b6 22. Ng5 1-0

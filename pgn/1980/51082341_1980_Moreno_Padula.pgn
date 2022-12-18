@@ -1,0 +1,16 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Moreno, F."]
+[Black "Padula, R."]
+[Result "1-0"]
+[ECO "C40"]
+[Opening "Latvian"]
+[Variation "Fraser defence"]
+[HashCode "51082341"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 f5 3. Nxe5 Nc6 4. d4 Qf6 5. Nc3 Nxe5 6. Nd5 Qc6 7. dxe5 d6
+8. Bb5 1-0
+

@@ -1,0 +1,20 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Schutze"]
+[Black "Przybylo"]
+[Result "1-0"]
+[ECO "B10"]
+[Opening "Caro-Kann"]
+[Variation "closed (Breyer) variation"]
+[HashCode "0c5d1c4a"]
+[Epoch "Rook"]
+
+1. e4 c6 2. d3 d5 3. Nd2 g6 4. Ngf3 Bg7 5. g3 e5 6. Bg2 Nd7 7. O-O Ngf6 8.
+b4 O-O 9. Bb2 Re8 10. Re1 a5 11. a3 Qb6 12. Rb1 axb4 13. axb4 Ng4 14. Re2
+dxe4 15. dxe4 Qxb4 16. h3 Ngf6 17. Bxe5 Qe7 18. Bb2 Nc5 19. Nc4 Be6 20.
+Nfe5 Nfxe4 21. Bxe4 Bxc4 22. Nxc4 Bxb2 23. Bd3 Qd7 24. Rxe8+ Rxe8 25. Nxb2
+Qxh3 26. Qf3 Qd7 27. Rd1 Qe7 28. Nc4 Nxd3 29. Rxd3 Qc5 30. Nd6 Rf8 31. c3
+Qa7 32. Qf6 Qa1+ 33. Kg2 b5 34. Nxf7 1-0
+

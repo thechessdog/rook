@@ -1,0 +1,21 @@
+[Event "Sverdlovsk"]
+[Site "Sverdlovsk"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Lukin, Andrei M"]
+[Black "Kochyev, Alexander"]
+[Result "0-1"]
+[ECO "E76"]
+[Opening "King's Indian"]
+[Variation "Four pawns attack, dynamic line"]
+[HashCode "ad4f71bf"]
+[Epoch "Rook"]
+[WhiteID "4101251"]
+[WhiteCountry "RUS"]
+[BlackID "4100719"]
+[BlackCountry "RUS"]
+
+1. c4 Nf6 2. Nc3 g6 3. e4 d6 4. d4 Bg7 5. f4 O-O 6. Nf3 c5 7. d5 b5 8. cxb5 a6
+9. bxa6 Qa5 10. Bd2 Bxa6 11. Be2 Qb4 12. Ng5 Qxb2 13. Rb1 Qa3 14. O-O Nbd7 15.
+f5 Rfb8 16. fxg6 hxg6 17. Rxb8+ Rxb8 18. Bxa6 Qxa6 19. h3 Qc4 20. Qc2 Ne5 21.
+Rc1 Qd4+ 22. Kh2 Nh5 23. Rf1 Nc4 0-1

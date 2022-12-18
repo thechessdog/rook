@@ -1,0 +1,21 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Helgeland"]
+[Black "Buvik"]
+[Result "1-0"]
+[ECO "C78"]
+[Opening "Ruy Lopez"]
+[Variation "Moeller defence"]
+[HashCode "7308cfcb"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Bc5 6. Bxc6 bxc6 7. d3 d6
+8. Nbd2 O-O 9. Nc4 h6 10. h3 Be6 11. Ne3 Nd7 12. b3 f5 13. exf5 Bxf5 14. d4
+exd4 15. Nxd4 Bxd4 16. Qxd4 Nb6 17. Bb2 Qd7 18. c4 c5 19. Qc3 Rf7 20. g4
+Be6 21. f4 Qc6 22. Rac1 Re8 23. Rc2 Bc8 24. f5 Bb7 25. Kh2 Nd7 26. Nd5 Nf6
+27. Nf4 Rfe7 28. Ne6 Bc8 29. Nf4 Bb7 30. Qd2 Ne4 31. Qd3 d5 32. Qxd5+ Qxd5
+33. cxd5 Rd7 34. Ba3 Bxd5 35. Bxc5 c6 36. b4 Kf7 37. Re1 Nxc5 38. Rxe8 Kxe8
+39. Rxc5 Bxa2 40. Rxc6 Rd4 41. Nh5 Bf7 42. Nxg7+ Kf8 43. Ne6+ 1-0
+

@@ -1,0 +1,22 @@
+[Event "Czestochowa"]
+[Site "Czestochowa"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Starck, Bodo"]
+[Black "Bugajski, Robert"]
+[Result "0-1"]
+[ECO "D88"]
+[Opening "Gruenfeld"]
+[Variation "Spassky variation, main line, 10...cd, 11.cd"]
+[HashCode "534f9808"]
+[Epoch "Rook"]
+[WhiteID "4611829"]
+[BlackID "1101528"]
+[WhiteCountry "GER"]
+[BlackCountry "POL"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 c5 7. Bc4 Bg7 8.
+Ne2 Nc6 9. Be3 O-O 10. O-O cxd4 11. cxd4 Bg4 12. f3 Na5 13. Rc1 Nxc4 14. Rxc4
+Bd7 15. Qb3 b5 16. Rc5 Qa5 17. Rfc1 Rfc8 18. Kf2 e6 19. d5 Rxc5 20. Rxc5 Bf8
+21. Rc1 e5 22. Rc2 b4 23. Qb2 Bd6 24. Nc1 Qb5 25. Nb3 a5 26. Bc5 Bc7 27. d6 Bb6
+28. Qxe5 Rc8 29. Kg3 a4 30. Nd4 Rxc5 31. Qe7 Rg5+ 32. Kf4 Bxd4 0-1

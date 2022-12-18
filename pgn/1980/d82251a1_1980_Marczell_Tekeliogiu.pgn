@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Marczell, P."]
+[Black "Tekeliogiu, O."]
+[Result "1-0"]
+[ECO "C60"]
+[Opening "Ruy Lopez"]
+[Variation "fianchetto (Smyslov/Barnes) defence"]
+[HashCode "d82251a1"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 g6 4. c3 d6 5. d4 Bd7 6. O-O Bg7 7. Qb3 Na5 8.
+Qa4 c6 9. Be2 c5 10. Bb5 Nc6 11. dxc5 dxc5 12. Rd1 Qc7 13. Be3 b6 14. Na3
+Nge7 15. Nc4 O-O 16. Rxd7 Qxd7 17. Ncxe5 Qe6 18. Nxc6 1-0
+

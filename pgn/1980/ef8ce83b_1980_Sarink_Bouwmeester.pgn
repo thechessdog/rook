@@ -1,0 +1,20 @@
+[Event "corr Perfors mem"]
+[Site "corr Perfors mem"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Sarink"]
+[Black "Bouwmeester"]
+[Result "1-0"]
+[ECO "B96"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Polugayevsky, Simagin variation"]
+[HashCode "ef8ce83b"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 b5 8.
+e5 dxe5 9. fxe5 Qc7 10. Qe2 Nfd7 11. O-O-O Bb7 12. Qg4 Qb6 13. Bf4 g6 14.
+Be2 Bg7 15. Bf3 O-O 16. h4 Nc6 17. Bxc6 Bxc6 18. h5 b4 19. Nxc6 Qxc6 20.
+Qh4 g5 21. Qxg5 h6 22. Qg3 Kh8 23. Rd6 Qc7 24. Ne2 Nb6 25. Kb1 Nd5 26. Bd2
+Rg8 27. Nf4 Ne7 28. Qd3 Nf5 29. Rd7 Qxe5 30. Bc1 Rge8 31. Rxf7 Kg8 32. Rd7
+Nd4 33. Ng6 Qc5 34. Bxh6 Bxh6 35. Rxd4 Rac8 36. Rd7 1-0
+

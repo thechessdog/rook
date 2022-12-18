@@ -1,0 +1,18 @@
+[Event "corr ch-North America"]
+[Site "corr ch-North America"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Preo, Nicholas"]
+[Black "Sarosy, Zoltan"]
+[Result "1-0"]
+[ECO "C21"]
+[Opening "Danish gambit"]
+[Variation "Soerensen defence"]
+[HashCode "563d87fa"]
+[Epoch "Rook"]
+[BlackCountry "CAN"]
+
+1. e4 e5 2. d4 exd4 3. c3 d5 4. exd5 Qxd5 5. cxd4 Nc6 6. Nf3 Bg4 7. Nc3 Bb4 8.
+Be2 Nge7 9. O-O Qa5 10. Bd2 Bxf3 11. Bxf3 Nxd4 12. Bxb7 Rd8 13. a3 Bxc3 14.
+Bxc3 Qb6 15. Qa4+ Rd7 16. Rfe1 Qxb7 17. Bxd4 c5 18. Bxc5 O-O 19. Rad1 Rc7 20.
+Qb4 1-0

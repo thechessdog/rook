@@ -1,0 +1,19 @@
+[Event "Bundesliga 8384"]
+[Site "Duitsland tt"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Deckwerth, Klaus"]
+[Black "Foerster, Andreas"]
+[Result "1-0"]
+[ECO "B31"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (with ...g6, without ...d6)"]
+[HashCode "d98e7312"]
+[Epoch "Rook"]
+[BlackID "4608143"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. c3 Qb6 6. Qa4 Nf6 7. Re1 O-O 8. e5
+Nd5 9. Na3 a6 10. Bc4 Nc7 11. Bb3 Qa7 12. Qh4 d6 13. d4 cxd4 14. cxd4 dxe5 15.
+dxe5 Qc5 16. Bh6 Nd4 17. Nxd4 Bxh6 18. Qxh6 Qxd4 19. Rac1 Qxb2 20. Nc4 Qd4 21.
+Nd2 Qd8 22. Nf3 1-0

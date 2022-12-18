@@ -1,0 +1,17 @@
+[Event "corr ch-DK"]
+[Site "corr ch-DK"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Stentebjerg"]
+[Black "Lassen"]
+[Result "1/2-1/2"]
+[ECO "A31"]
+[Opening "English"]
+[Variation "symmetrical, Benoni formation"]
+[HashCode "1e50a036"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. Nf3 c5 3. c4 cxd4 4. Nxd4 e5 5. Nb5 d5 6. cxd5 Bc5 7. e3 O-O
+8. N5c3 e4 9. Be2 Na6 10. a3 Nc7 11. Nd2 Re8 12. b4 Bf8 13. Bb2 Ncxd5 14.
+Nb3 Nxc3 15. Qxd8 Rxd8 16. Bxc3 Nd5 17. Bd4 Be6 18. Nc5 Nf4 1/2-1/2
+

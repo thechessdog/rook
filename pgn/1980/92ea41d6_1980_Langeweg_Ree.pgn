@@ -1,0 +1,33 @@
+[Event "Leeuwarden ch-NED"]
+[Site "Leeuwarden ch-NED"]
+[Date "1980.04.01"]
+[Round "1"]
+[White "Langeweg, Kick"]
+[Black "Ree, Hans"]
+[Result "1-0"]
+[ECO "D60"]
+[Opening "QGD"]
+[Variation "Orthodox defence, Botvinnik variation"]
+[HashCode "92ea41d6"]
+[Epoch "Rook"]
+[WhiteID "1000160"]
+[BlackID "1000098"]
+[WhiteCountry "NED"]
+[BlackCountry "NED"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. Bg5 O-O 6. e3 Nbd7 7. Bd3 c5 8. O-O
+cxd4 9. exd4 dxc4 10. Bxc4 Nb6 11. Bb3 Bd7 12. Ne5 Rc8 13. Qd3 Nfd5 14. Bd2 Bc6
+15. Rad1 Bf6 16. Nxc6 Rxc6 17. Ne4 Be7 18. a3 Qc7 19. g3 Rd8 20. Rfe1 Nc4 21.
+Bc1 b5 22. Ba2 Nf6 23. Bb1 Nxe4 24. Qxe4 f5 25. Qf3 Nb6 26. Ba2 Nd5 27. Bxd5
+exd5 28. Qxf5 Bf6 29. Bg5 Qf7 30. Rc1 Rxc1 31. Rxc1 Bxg5 32. Qxg5 Rf8 33. Qd2
+h6 34. Rc5 a6 35. Rc6 Qf3 36. Rc3 Qf5 37. Qe2 Rc8 38. Rxc8+ Qxc8 39. Kg2 Qc6
+40. h4 Kh8 41. Qe7 Kh7 42. b4 Qc3 43. Qe3 Qc2 44. Qe5 Qc6 45. h5 Qd7 46. Kf3
+Kh8 47. Ke3 Qc6 48. Kf4 Qc1+ 49. Qe3 Qc7+ 50. Qe5 Qc1+ 51. Qe3 Qc7+ 52. Kg4
+Qd7+ 53. Kh4 Qf7 54. Kg4 Qd7+ 55. Kh4 Qf7 56. f4 Qf6+ 57. Kg4 Qc6 58. Qe5 Qc8+
+59. Kh4 Qd8+ 60. Kg4 Qd7+ 61. f5 Qf7 62. Qe6 Qf6 63. Qxd5 Qg5+ 64. Kf3 Qxh5+
+65. Kf2 Qd1 66. Qe4 Qd2+ 67. Kf3 Qc3+ 68. Qe3 Qc6+ 69. Qe4 Qc3+ 70. Qe3 Qc6+
+71. Kg4 Qc2 72. Kf4 Qc7+ 73. Ke4 Qe7+ 74. Kf3 Qf7 75. Qe6 Qh5+ 76. Kg2 Qd1 77.
+d5 Qd2+ 78. Kh3 Qd1 79. Qe4 Qh5+ 80. Kg2 Qd1 81. Qe8+ Kh7 82. Qg6+ Kh8 83. Qe6
+Qd2+ 84. Kh3 Qd1 85. f6 Qh1+ 86. Kg4 Qd1+ 87. Kh3 Qh1+ 88. Kg4 Qd1+ 89. Kf4
+Qc1+ 90. Ke5 Qc7+ 91. d6 Qc3+ 92. Ke4 Qc2+ 93. Kd4 Qf2+ 94. Qe3 Qxf6+ 95. Kc5
+Qf8 96. Qe7 Qc8+ 97. Kb6 Qb8+ 98. Ka5 Kh7 99. Qc7 1-0

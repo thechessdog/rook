@@ -1,0 +1,19 @@
+[Event "Dublin"]
+[Site "Dublin"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Coffey, Sean"]
+[Black "Curtin, Eugene"]
+[Result "1-0"]
+[ECO "B96"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7.f4"]
+[HashCode "96b77be2"]
+[Epoch "Rook"]
+[BlackID "2500140"]
+[BlackCountry "IRL"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Bd7 8. Qf3
+Nc6 9. O-O-O Be7 10. e5 dxe5 11. Nxc6 bxc6 12. fxe5 Nd5 13. Bxe7 Nxe7 14. Ne4
+O-O 15. h4 Qc7 16. h5 h6 17. g4 c5 18. Qe3 Bc6 19. Nf6+ Kh8 20. Rg1 Rad8 21.
+Bd3 Nd5 22. Nxd5 exd5 23. g5 hxg5 24. Qxg5 f5 25. h6 Rf7 26. Bxf5 1-0

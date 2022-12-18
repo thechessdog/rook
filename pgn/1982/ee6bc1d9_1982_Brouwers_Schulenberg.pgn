@@ -1,0 +1,19 @@
+[Event "corr NLD/H"]
+[Site "corr NLD/H"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Brouwers"]
+[Black "Schulenberg"]
+[Result "1-0"]
+[ECO "C10"]
+[Opening "French"]
+[Variation "Rubinstein variation"]
+[HashCode "ee6bc1d9"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Nxf6+ Nxf6 7. Bd3
+b6 8. Qe2 Bb7 9. Bg5 Be7 10. Rd1 Nd5 11. Bxe7 Qxe7 12. Qe4 O-O-O 13. Rd2 g5
+14. O-O Rdg8 15. c4 Nf4 16. d5 Qd6 17. Ne5 Rg7 18. Qd4 f6 19. Ng4 exd5 20.
+Bf5+ Kb8 21. Nxf6 Rd8 22. Ne8 Rxe8 23. Qxg7 Nxg2 24. Qd7 Qe5 25. Kxg2 Bc8
+26. Rxd5 Bxd7 27. Rxe5 Bc6+ 28. Rd5 1-0
+

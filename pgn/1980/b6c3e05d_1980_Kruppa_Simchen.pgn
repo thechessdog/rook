@@ -1,0 +1,20 @@
+[Event "corr DDR-H"]
+[Site "corr DDR-H"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Kruppa"]
+[Black "Simchen"]
+[Result "1/2-1/2"]
+[ECO "B33"]
+[Opening "Sicilian"]
+[Variation "Pelikan, Chelyabinsk variation"]
+[HashCode "b6c3e05d"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6
+8. Na3 b5 9. Nd5 Be7 10. Bxf6 Bxf6 11. Bd3 Bg5 12. O-O O-O 13. c3 Be6 14.
+c4 bxc4 15. Bxc4 Nd4 16. Qd3 a5 17. f4 Be7 18. Kh1 Rb8 19. Rf2 Bxd5 20.
+Bxd5 Ne6 21. g3 exf4 22. gxf4 Bh4 23. Rf3 Rxb2 24. Nc4 Rf2 25. Rxf2 Bxf2
+26. Qf3 Bc5 27. f5 Qf6 28. Rf1 Nc7 29. Bc6 Na6 30. a3 Rb8 31. Qd3 Nc7 32.
+Rd1 h6 33. Qg3 Ne8 1/2-1/2
+

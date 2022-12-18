@@ -1,0 +1,21 @@
+[Event "Bowling Green simul"]
+[Site "Bowling Green simul"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Bisguier, Arthur Bernard"]
+[Black "Vehre, John"]
+[Result "0-1"]
+[ECO "B52"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky attack, Sokolsky variation"]
+[HashCode "8e7d8a74"]
+[Epoch "Rook"]
+[WhiteCountry "USA"]
+[BlackCountry "USA"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Qxd7 5. c4 Nc6 6. d4 cxd4 7. Nxd4 Nf6
+8. Nc3 g6 9. f3 Nxd4 10. Qxd4 Bg7 11. Be3 O-O 12. Qd2 Rfc8 13. b3 b5 14. O-O
+bxc4 15. b4 Qb7 16. Rab1 Nd7 17. Nd5 Ne5 18. Bh6 c3 19. Qg5 f6 20. Qh4 c2 21.
+Rbc1 Bxh6 22. Qxh6 Nd3 23. Qd2 Nxc1 24. Rxc1 Kg7 25. Rxc2 Rxc2 26. Qxc2 Rc8 27.
+Qa4 e6 28. Nf4 Qb6+ 29. Kf1 Rc1+ 30. Ke2 Qg1 31. Nd3 Qxg2+ 32. Ke3 Rc2 33. Qd7+
+Kh6 34. Qxe6 Qg1+ 0-1

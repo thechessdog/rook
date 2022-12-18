@@ -1,0 +1,22 @@
+[Event "Mar del Plata GP2"]
+[Site "Mar del Plata GP2"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Cristobal, Ruben"]
+[Black "Bernat, Miguel"]
+[Result "0-1"]
+[ECO "B41"]
+[Opening "Sicilian"]
+[Variation "Kan, Maroczy bind (Reti variation)"]
+[HashCode "800c35f3"]
+[Epoch "Rook"]
+[WhiteID "102288"]
+[WhiteCountry "ARG"]
+[BlackID "100374"]
+[BlackCountry "ARG"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. c4 Nf6 6. Nc3 Qc7 7. Be3 Nc6 8. Rc1
+Bb4 9. Nxc6 dxc6 10. Bd3 e5 11. h3 O-O 12. O-O Nd7 13. Na4 Be7 14. c5 Rd8 15.
+Qe2 Rb8 16. Bc4 Nf8 17. f4 Be6 18. Nb6 exf4 19. Rxf4 Bxc5 20. Bxc5 Qxf4 21. Rf1
+Qe5 22. b4 Nd7 23. Bxe6 Qxe6 24. Nxd7 Rxd7 25. Qf3 Re8 26. Re1 Qxa2 27. Qg4 Qe6
+28. Qf4 Qe5 29. Qf3 f5 30. Rf1 Qxe4 31. Qxf5 Qxf5 32. Rxf5 h6 33. h4 Rf7 0-1

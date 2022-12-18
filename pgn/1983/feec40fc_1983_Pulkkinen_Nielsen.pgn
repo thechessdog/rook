@@ -1,0 +1,19 @@
+[Event "Nordic-tt"]
+[Site "Oslo"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Pulkkinen, Kari"]
+[Black "Nielsen, To"]
+[Result "1-0"]
+[ECO "C77"]
+[Opening "Ruy Lopez"]
+[Variation "Morphy defence"]
+[HashCode "feec40fc"]
+[Epoch "Rook"]
+[WhiteID "500712"]
+[WhiteCountry "FIN"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. d4 exd4 6. O-O b5 7. Bb3 d5 8. exd5
+Nxd5 9. Ng5 Be6 10. Re1 Qd7 11. Nxf7 Kxf7 12. Qf3+ Kg6 13. c3 Nce7 14. Rxe6+
+Qxe6 15. Bc2+ Nf5 16. g4 Kf7 17. Bxf5 Qe1+ 18. Kg2 Nf6 19. Bd2 Qe5 20. Qxa8 g6
+21. cxd4 Qd6 22. Bc2 Qxd4 23. Qf3 1-0

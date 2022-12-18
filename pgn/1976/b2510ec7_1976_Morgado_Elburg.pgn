@@ -1,0 +1,16 @@
+[Event "corr NLD-ARG"]
+[Site "corr NLD-ARG"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Morgado, Juan Sebastian"]
+[Black "Elburg, John"]
+[Result "1/2-1/2"]
+[ECO "B61"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Larsen variation, 7.Qd2"]
+[HashCode "b2510ec7"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 Bd7 7. Qd2 Rc8 8.
+Bxf6 gxf6 9. O-O-O Nxd4 10. Qxd4 Qa5 11. Kb1 Qc5 12. Qxc5 Rxc5 13. Rd5 Rc8 14.
+Bb5 1/2-1/2

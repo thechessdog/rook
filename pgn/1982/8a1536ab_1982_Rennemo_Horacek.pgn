@@ -1,0 +1,18 @@
+[Event "corr EUR/M"]
+[Site "corr EUR/M"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Rennemo"]
+[Black "Horacek"]
+[Result "1-0"]
+[ECO "B89"]
+[Opening "Sicilian"]
+[Variation "Velimirovic attack"]
+[HashCode "8a1536ab"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bc4 e6 7. Be3 Be7
+8. Qe2 O-O 9. O-O-O a6 10. Bb3 Qc7 11. g4 Nd7 12. Nf5 exf5 13. Nd5 Qd8 14.
+gxf5 Na5 15. Nxe7+ Qxe7 16. Bd5 Nf6 17. Rhg1 Nxd5 18. Rxd5 Qxe4 19. Rxg7+
+Kh8 20. Rxh7+ 1-0
+

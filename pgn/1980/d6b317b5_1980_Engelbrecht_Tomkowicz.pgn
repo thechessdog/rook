@@ -1,0 +1,20 @@
+[Event "corr Wcup3"]
+[Site "corr Wcup3"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Engelbrecht"]
+[Black "Tomkowicz"]
+[Result "0-1"]
+[ECO "B60"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer"]
+[HashCode "d6b317b5"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 Nd7 7. Nxc6
+bxc6 8. Bc4 Nc5 9. O-O Be6 10. Be2 g6 11. Qd2 Bg7 12. b4 Nd7 13. Rad1 O-O
+14. a3 Ne5 15. f4 Nc4 16. Bxc4 Bxc4 17. Rf3 a5 18. bxa5 Qxa5 19. Ne2 Qc5+
+20. Kh1 f6 21. Bh4 Rxa3 22. Rxa3 Qxa3 23. Nd4 Qa6 24. f5 Rb8 25. Qc3 Bh6
+26. Be1 Bf7 27. Bd2 Bxd2 28. Qxd2 Qa4 29. Re1 c5 30. fxg6 hxg6 31. Nf3 Rb2
+32. Re2 Bc4 0-1
+

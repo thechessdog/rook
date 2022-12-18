@@ -1,0 +1,18 @@
+[Event "Pittsburgh"]
+[Site "Pittsburgh"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Barry, H."]
+[Black "Beahan"]
+[Result "1-0"]
+[ECO "D61"]
+[Opening "QGD"]
+[Variation "Orthodox defence, Rubinstein variation"]
+[HashCode "1827ddfc"]
+[Epoch "Rook"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. Nf3 O-O 6. e3 Nbd7 7. Qc2 Ne4 8.
+Bxe7 Qxe7 9. cxd5 Nxc3 10. Qxc3 exd5 11. Qxc7 f5 12. Be2 Rf6 13. Rc1 b6 14.
+O-O f4 15. Ne5 fxe3 16. fxe3 Rh6 17. Rf7 Qe8 18. Rcf1 Nxe5 19. Qxe5 Be6 20.
+Qxg7# 1-0
+

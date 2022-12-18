@@ -1,0 +1,18 @@
+[Event "Berlin"]
+[Site "Berlin"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Klauner, Theodore"]
+[Black "Messa, Roberto"]
+[Result "0-1"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance variation"]
+[HashCode "b09a7f4e"]
+[Epoch "Rook"]
+[BlackID "800457"]
+[BlackCountry "ITA"]
+
+1. e4 e6 2. d4 d5 3. e5 b6 4. c3 Qd7 5. f4 c5 6. Nf3 Ba6 7. Bxa6 Nxa6 8. O-O
+Ne7 9. Na3 h5 10. Nc2 Nf5 11. Ne3 g6 12. Nxf5 gxf5 13. Be3 Be7 14. Qe2 Nc7 15.
+Rac1 c4 16. b3 Qc6 17. Rc2 Rc8 18. b4 Qa4 19. Qe1 Qxc2 0-1

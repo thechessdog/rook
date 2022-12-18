@@ -1,0 +1,21 @@
+[Event "corr DFSM"]
+[Site "corr DFSM"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Mertins"]
+[Black "Rickers"]
+[Result "1/2-1/2"]
+[ECO "C83"]
+[Opening "Ruy Lopez"]
+[Variation "open, classical defence"]
+[HashCode "86a311f7"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8.
+dxe5 Be6 9. c3 Be7 10. Nbd2 O-O 11. Bc2 Bf5 12. Nd4 Nxd4 13. cxd4 f6 14. f4
+Qd7 15. Nxe4 Bxe4 16. Bxe4 dxe4 17. Be3 c6 18. Qb3+ Qd5 19. Rfc1 fxe5 20.
+fxe5 Rf7 21. Rc2 Rd8 22. Rac1 c5 23. Qxd5 Rxd5 24. dxc5 Bd8 25. e6 Rf6 26.
+c6 Bc7 27. e7 Kf7 28. Rd2 Rxd2 29. Bxd2 h6 30. Bb4 a5 31. Bc5 Rxc6 32. Rf1+
+Rf6 33. Rxf6+ gxf6 34. g4 h5 35. h3 hxg4 36. hxg4 Bf4 37. Kf2 Bg5 38. Ke2
+Ke8 1/2-1/2
+

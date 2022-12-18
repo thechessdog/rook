@@ -1,0 +1,23 @@
+[Event "Kuibyshev"]
+[Site "Kuibyshev"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Makarov, Marat"]
+[Black "Efimov, Igor"]
+[Result "1-0"]
+[ECO "A04"]
+[Opening "Reti opening"]
+[HashCode "19082b02"]
+[Epoch "Rook"]
+[WhiteID "4101103"]
+[BlackID "806404"]
+[WhiteCountry "RUS"]
+[BlackCountry "MNC"]
+
+1. Nf3 g6 2. c4 Bg7 3. Nc3 d6 4. d4 Nc6 5. d5 Nb8 6. e4 Nd7 7. Be3 e5 8. dxe6
+fxe6 9. Be2 Ngf6 10. Nd2 O-O 11. O-O b6 12. f4 Rb8 13. Bf3 a6 14. Qc2 Bh6 15.
+Rae1 Ne8 16. g3 e5 17. f5 Bxe3+ 18. Rxe3 Qg5 19. Ree1 Ng7 20. Nd5 c6 21. Ne3
+Nf6 22. Bg2 Qh5 23. h3 Qg5 24. g4 Nfe8 25. Nf3 Qe7 26. Qf2 a5 27. Qh4 Qxh4 28.
+Nxh4 g5 29. Nf3 h6 30. h4 gxh4 31. Nxh4 Kf7 32. Rd1 Kf6 33. Nf3 Ke7 34. Rf2 Nf6
+35. Nh4 Nge8 36. Ng6+ Kf7 37. Rfd2 Rg8 38. Rxd6 Nxd6 39. Nxe5+ Kg7 40. Rxd6 c5
+41. Nc6 1-0

@@ -1,0 +1,23 @@
+[Event "Bled / Portoroz"]
+[Site "Bled / Portoroz"]
+[Date "1979.06.01"]
+[Round "1"]
+[White "Barle, Janez"]
+[Black "Marjanovic, Slavoljub"]
+[Result "0-1"]
+[ECO "E42"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5, 5.Ne2 (Rubinstein)"]
+[HashCode "7c9d9022"]
+[Epoch "Rook"]
+[WhiteID "14600021"]
+[WhiteCountry "SLO"]
+[BlackID "900354"]
+[BlackCountry "SRB"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Ne2 cxd4 6. exd4 d5 7. a3 Bxc3+ 8.
+Nxc3 dxc4 9. Bxc4 O-O 10. O-O h6 11. Be3 b6 12. Qf3 Qc7 13. Ba2 Bb7 14. Qh3 Rd8
+15. Rac1 Nc6 16. Rfd1 Qe7 17. Bb1 Rd7 18. Re1 Qf8 19. Qg3 Kh8 20. Qh4 Nh7 21.
+d5 exd5 22. Nxd5 Rad8 23. Nc3 f5 24. Qf4 Ne7 25. Rcd1 Nf6 26. Rxd7 Rxd7 27. Bd4
+Ng6 28. Qxf5 Rxd4 29. Qxg6 Rg4 30. Qf5 Bxg2 31. f3 Bxf3+ 32. Kf2 Bc6 33. Re6
+Rg5 34. Rxf6 Qxf6 0-1

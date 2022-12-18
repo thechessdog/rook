@@ -1,0 +1,23 @@
+[Event "Hoogovens-B"]
+[Site "Wijk aan Zee II"]
+[Date "1982.01.01"]
+[Round "4"]
+[White "Iskov, Gert"]
+[Black "Davies, Nigel R"]
+[Result "0-1"]
+[ECO "B06"]
+[Opening "Robatsch defence"]
+[Variation "two knights variation"]
+[HashCode "cbd0cfac"]
+[Epoch "Rook"]
+[WhiteID "1400398"]
+[WhiteCountry "DEN"]
+[BlackID "404420"]
+[BlackCountry "WLS"]
+
+1. e4 g6 2. d4 Bg7 3. Nf3 d6 4. Nc3 a6 5. Be3 b5 6. h3 Bb7 7. Bd3 Nd7 8. a4 b4
+9. Nb1 e5 10. c3 Ngf6 11. Nbd2 exd4 12. cxd4 O-O 13. O-O Re8 14. Qb3 a5 15.
+Rac1 Rc8 16. d5 c6 17. dxc6 Rxc6 18. Rxc6 Bxc6 19. Rc1 Ba8 20. Qc2 d5 21. e5
+Ne4 22. Bb5 Rf8 23. Nxe4 dxe4 24. e6 exf3 25. exd7 fxg2 26. Bc6 b3 27. Qd2 Bxc6
+28. Rxc6 Qh4 29. Qd5 Qxh3 30. Qxg2 Qxd7 31. Qe4 Bxb2 32. Bh6 Bg7 33. Bxg7 Kxg7
+34. Rb6 Re8 35. Qf3 0-1

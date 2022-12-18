@@ -1,0 +1,25 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Salov, Valery"]
+[Black "Sobolev, N."]
+[Result "1-0"]
+[ECO "B97"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Poisoned pawn variation"]
+[HashCode "6fd9d714"]
+[Epoch "Rook"]
+[WhiteID "4100069"]
+[WhiteCountry "RUS"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qb6 8. Qd2
+Qxb2 9. Rb1 Qa3 10. Be2 b5 11. e5 b4 12. Rb3 bxc3 13. Qxc3 Qc5 14. Qxc5 dxc5
+15. exf6 Nd7 16. fxg7 Bxg7 17. Nc6 c4 18. Rg3 a5 19. f5 Ra6 20. fxe6 Rxc6 21.
+exd7+ Bxd7 22. O-O Bd4+ 23. Kh1 Be6 24. Rd1 Bb6 25. Bf6 Rf8 26. Bf3 Bd5 27. Bg7
+Bxf3 28. Re1+ Re6 29. Rxe6+ fxe6 30. Bxf8 Bd1 31. Bh6 Bxc2 32. Be3 Bc7 33. Rg7
+Kd8 34. Bd4 Bb1 35. a3 Kc8 36. Re7 Bd6 37. Rxe6 Kd7 38. Re1 Bd3 39. Bc3 Bxa3
+40. Bxa5 Kc6 41. Bc3 Kb5 42. Re8 Kc6 43. g4 Kd7 44. Re1 Bc5 45. Kg2 Be7 46. Kf3
+Bh4 47. Rh1 Ke6 48. Kf4 Be7 49. Re1+ Kf7 50. h3 Bh4 51. Ra1 Bf2 52. Ra6 Ke7 53.
+g5 Kf7 54. Kf3 Bg1 55. h4 Bc2 56. h5 Bc5 57. g6+ hxg6 58. hxg6+ Ke7 59. Bf6+
+Kd7 60. g7 Bh7 61. Ra8 Ke6 62. Rf8 Bb4 63. Bg5 1-0

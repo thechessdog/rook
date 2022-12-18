@@ -1,0 +1,19 @@
+[Event "Nice"]
+[Site "Nice"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Pavlovic"]
+[Black "Jansa, Vlastimil"]
+[Result "0-1"]
+[ECO "E62"]
+[Opening "King's Indian"]
+[Variation "fianchetto, Kavalek (Bronstein) variation"]
+[HashCode "05d78c45"]
+[Epoch "Rook"]
+[BlackID "300128"]
+[BlackCountry "CZE"]
+
+1. d4 Nf6 2. Nf3 g6 3. g3 Bg7 4. Bg2 O-O 5. O-O d6 6. c4 c6 7. Nc3 Qa5 8. h3
+Be6 9. d5 cxd5 10. Nd4 Bd7 11. cxd5 Rc8 12. Be3 Na6 13. Nb3 Qd8 14. Qd2 Be8 15.
+Rfc1 Nd7 16. Nd4 Nb6 17. b3 Rc5 18. Bh6 Bxh6 19. Qxh6 Rac8 20. Be4 e6 21. dxe6
+Rxc3 22. Rxc3 Rxc3 23. Nf5 Qf6 24. e7 Nd7 25. Ne3 Rxe3 0-1

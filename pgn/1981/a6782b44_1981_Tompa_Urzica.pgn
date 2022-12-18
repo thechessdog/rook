@@ -1,0 +1,22 @@
+[Event "Uljma"]
+[Site "Uljma"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Tompa, Janos"]
+[Black "Urzica, Aurel"]
+[Result "1-0"]
+[ECO "B18"]
+[Opening "Caro-Kann"]
+[Variation "classical, Flohr variation"]
+[HashCode "a6782b44"]
+[Epoch "Rook"]
+[BlackID "1200267"]
+[BlackCountry "ROU"]
+[WhiteID "700193"]
+[WhiteCountry "HUN"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. Nh3 e6 7. Nf4 Nf6 8. h4
+Bd6 9. h5 Bf5 10. Nxf5 exf5 11. Qe2+ Kd7 12. Qd3 Re8+ 13. Be2 Ne4 14. Be3 Qf6
+15. g3 Na6 16. Qb3 Nb4 17. O-O-O Kc8 18. Bc4 a5 19. a4 Re7 20. Rhe1 Na6 21. Nd3
+Nc7 22. Nc5 Ne6 23. Nxe4 fxe4 24. d5 Nc5 25. Qa2 Kc7 26. dxc6 bxc6 27. Rxd6
+Qxd6 28. Rd1 1-0

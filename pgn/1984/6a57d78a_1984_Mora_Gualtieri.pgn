@@ -1,0 +1,17 @@
+[Event "Imperia"]
+[Site "Imperia"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Mora"]
+[Black "Gualtieri"]
+[Result "1-0"]
+[ECO "B11"]
+[Opening "Caro-Kann"]
+[Variation "two knights, 3...Bg4"]
+[HashCode "6a57d78a"]
+[Epoch "Rook"]
+
+1. e4 c6 2. Nc3 d5 3. Nf3 Bg4 4. h3 Bxf3 5. Qxf3 dxe4 6. Nxe4 Nd7 7. d4
+Ndf6 8. Bd3 Qxd4 9. Be3 Qd8 10. O-O-O Nxe4 11. Bc4 Nd6 12. Rxd6 Qxd6 13.
+Qxf7+ Kd7 14. Rd1 1-0
+

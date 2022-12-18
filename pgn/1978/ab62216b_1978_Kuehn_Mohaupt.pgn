@@ -1,0 +1,16 @@
+[Event "corr ch9-DDR"]
+[Site "corr ch9-DDR"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Kuehn, W."]
+[Black "Mohaupt, H."]
+[Result "1/2-1/2"]
+[ECO "B25"]
+[Opening "Sicilian"]
+[Variation "closed, 6.f4"]
+[HashCode "ab62216b"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. f4 e6 7. Nf3 Nge7 8.
+O-O O-O 9. Ne2 f5 10. c3 Bd7 11. Be3 b6 12. Kh1 1/2-1/2
+

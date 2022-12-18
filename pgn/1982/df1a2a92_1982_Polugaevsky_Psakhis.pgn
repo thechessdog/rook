@@ -1,0 +1,24 @@
+[Event "Moscow"]
+[Site "Moscow"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Polugaevsky, Lev"]
+[Black "Psakhis, Lev"]
+[Result "0-1"]
+[ECO "A70"]
+[Opening "Benoni"]
+[Variation "classical with e4 and Nf3"]
+[HashCode "df1a2a92"]
+[Epoch "Rook"]
+[WhiteCountry "BLR"]
+[BlackID "2800012"]
+[BlackCountry "ISR"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. e4 Bg7 8. Nd2
+O-O 9. Be2 Na6 10. O-O Qe7 11. Rb1 Rb8 12. Re1 Nc7 13. a4 b6 14. b4 Ng4 15.
+Bxg4 Bxg4 16. Qb3 cxb4 17. Qxb4 Na6 18. Qa3 Nc5 19. Nd1 Bd7 20. Bb2 Bxa4 21.
+Bxg7 Kxg7 22. Nc3 Bc2 23. Ra1 Qf6 24. Nc4 Rbc8 25. e5 dxe5 26. Ne3 Nb3 27. Ne4
+Qd8 28. Nxc2 Nxa1 29. Nxa1 Qxd5 30. h4 Rc4 31. Ng5 Rxh4 32. Qe7 Rg4 33. f3 Ra4
+34. Kh2 Ra5 35. Nc2 h6 36. Ne3 Qc6 37. Ne4 Re8 38. Qb4 Ra2 39. Nd6 Rd8 40. Nxf7
+Kxf7 41. Qb3+ Qe6 42. Nc4 Ra5 43. Nxa5 bxa5 44. Qb7+ Rd7 45. Qc8 Qe7 46. Qh8
+Qh4+ 0-1

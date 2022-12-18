@@ -1,0 +1,22 @@
+[Event "Genova"]
+[Site "Genova"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Joksic"]
+[Black "Cocozza"]
+[Result "0-1"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...g6"]
+[HashCode "1e65063e"]
+[Epoch "Rook"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 g6 6. cxd5 Nxd5 7. Qb3 Nb6
+8. a4 Be6 9. Qb5+ N8d7 10. a5 a6 11. Qb4 Nd5 12. Qa3 b5 13. axb6 Qxb6 14.
+Nf3 Nb4 15. Qa4 Bb3 16. Qxb3 Nd3+ 17. Bxd3 Qxb3 18. Bb5 Bg7 19. O-O Rd8 20.
+Ra3 Qb4 21. Ra4 Qb3 22. Ra3 Qc2 23. Rxa6 O-O 24. Rd1 Nc5 25. Ne1 Qf5 26.
+Rc6 Bxd4 27. Rxd4 Rxd4 28. Be3 Ne6 29. Be2 Rd6 30. Rc4 Rb8 31. b4 h5 32. h3
+Nf8 33. g4 Qe6 34. Nf3 Ra6 35. b5 Ra1+ 36. Kg2 hxg4 37. Ng5 gxh3+ 38. Kh2
+Qf6 39. b6 Rxb6 40. Nce4 Qb2 41. Bf3 Qb1 42. Rc8 Rb3 43. Re8 Rxe3 44. fxe3
+Qg1+ 45. Kxh3 Ra2 46. Ng3 Rh2+ 47. Kg4 f5+ 0-1
+

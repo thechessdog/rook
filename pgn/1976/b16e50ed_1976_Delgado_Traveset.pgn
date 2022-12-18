@@ -1,0 +1,17 @@
+[Event "Spain"]
+[Site "Spain"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Delgado, R."]
+[Black "Traveset, N."]
+[Result "0-1"]
+[ECO "B01"]
+[Opening "Scandinavian"]
+[Variation "Kiel variation"]
+[HashCode "b16e50ed"]
+[Epoch "Rook"]
+
+1. e4 d5 2. exd5 Nf6 3. d4 Nxd5 4. c4 Nb4 5. Qa4+ N8c6 6. d5 b5 7. cxb5 Nd4
+8. Na3 e5 9. dxe6 Bxe6 10. Be3 Qh4 11. Bxd4 Qxd4 12. b6+ c6 13. Qd1 Qxb2
+14. Qc1 Qe5+ 0-1
+

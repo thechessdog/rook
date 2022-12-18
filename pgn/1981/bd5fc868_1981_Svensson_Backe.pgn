@@ -1,0 +1,22 @@
+[Event "Norrkoping"]
+[Site "Norrkoping"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Svensson, Gert"]
+[Black "Backe, Peter"]
+[Result "1-0"]
+[ECO "A05"]
+[Opening "Reti opening"]
+[HashCode "bd5fc868"]
+[Epoch "Rook"]
+[BlackID "1701240"]
+[BlackCountry "SWE"]
+[WhiteID "1701533"]
+[WhiteCountry "SWE"]
+
+1. Nf3 Nf6 2. b3 e6 3. Bb2 Be7 4. e3 O-O 5. d4 b6 6. Bd3 Bb7 7. Nbd2 c5 8. dxc5
+bxc5 9. O-O d5 10. c4 Ne4 11. Rc1 f5 12. Ne5 Nc6 13. Ndf3 Bf6 14. Nxc6 Bxc6 15.
+Ne5 Qd6 16. cxd5 exd5 17. f4 Bb7 18. Qc2 Rac8 19. Rfd1 Rfd8 20. Qe2 g6 21. Bxe4
+fxe4 22. Qg4 Rc7 23. Rd2 Bc8 24. Qg3 Qe7 25. Qf2 Be6 26. Qe2 Rb8 27. Rdc2 Qf8
+28. Ba3 Bxe5 29. fxe5 Qf5 30. Bxc5 Qxe5 31. Bd4 Rxc2 32. Qxc2 Qg5 33. Qc7 Rc8
+34. Qg7# 1-0

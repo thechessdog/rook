@@ -1,0 +1,19 @@
+[Event "corr Netherlands"]
+[Site "corr Netherlands"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Terpstra"]
+[Black "De Jong, Tom"]
+[Result "1-0"]
+[ECO "B97"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Poisoned pawn variation"]
+[HashCode "a49a7610"]
+[Epoch "Rook"]
+[BlackID "1000543"]
+[BlackCountry "NED"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qb6 8. Qd2
+Qxb2 9. Rb1 Qa3 10. Be2 Nfd7 11. O-O b5 12. Qe3 Nc5 13. f5 e5 14. Ne6 fxe6 15.
+Bh5+ Kd7 16. fxe6+ Nxe6 17. Rf7+ Kc6 18. Qd2 Nd4 19. Nd5 Nd7 20. c3 Ne6 21.
+Nb4+ Kc7 22. Qd5 Nxg5 23. Qc6+ Kd8 24. Qb6+ Nxb6 25. Nc6+ Ke8 26. Re7# 1-0

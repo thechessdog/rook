@@ -1,0 +1,24 @@
+[Event "Budapest"]
+[Site "Budapest"]
+[Date "1984.01.01"]
+[Round "4"]
+[White "Farago, Ivan"]
+[Black "Horvath, Tamas"]
+[Result "1/2-1/2"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Nimzovich (knight's tour) variation"]
+[HashCode "4a5253a9"]
+[Epoch "Rook"]
+[WhiteID "700134"]
+[WhiteCountry "HUN"]
+[BlackID "700185"]
+[BlackCountry "HUN"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. Nd2 Bg7 8. e4
+O-O 9. Be2 b6 10. O-O Ba6 11. Bxa6 Nxa6 12. Nc4 Re8 13. Re1 b5 14. Nxb5 Nxe4
+15. Bf4 Qd7 16. Nbxd6 Nxd6 17. Bxd6 Bxb2 18. Rb1 Bd4 19. Qf3 Nb4 20. a3 Rxe1+
+21. Rxe1 Re8 22. Rf1 Na2 23. Bg3 Nc3 24. d6 Qb5 25. Qd3 Na4 26. Rb1 Qd7 27. h3
+Nc3 28. Rf1 Ne4 29. Kh2 h5 30. Rb1 h4 31. Bxh4 Nxd6 32. Bg3 Nxc4 33. Qxc4 Qf5
+34. Qa4 Qe4 35. Qxe8+ Qxe8 36. Rb8 Qxb8 37. Bxb8 c4 38. Kg1 Kg7 39. Kf1 Kf6 40.
+Ke2 Ke6 41. h4 1/2-1/2

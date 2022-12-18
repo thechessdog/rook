@@ -1,0 +1,16 @@
+[Event "corr SWE/K tt"]
+[Site "corr SWE/K tt"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Cederquist, Bengt"]
+[Black "Jonsson, Lennart"]
+[Result "1-0"]
+[ECO "E10"]
+[Opening "Queen's pawn game"]
+[HashCode "4fac1a5f"]
+[Epoch "Rook"]
+[BlackID "1736302"]
+[BlackCountry "SWE"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. g3 c6 5. cxd5 exd5 6. Bg2 Bf5 7. O-O Nbd7 8.
+Nc3 Be7 9. Re1 O-O 10. Nh4 Ng4 11. Nxf5 1-0

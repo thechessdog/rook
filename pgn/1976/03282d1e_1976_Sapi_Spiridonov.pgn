@@ -1,0 +1,17 @@
+[Event "Agard"]
+[Site "Agard"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Sapi"]
+[Black "Spiridonov, Nikola"]
+[Result "1/2-1/2"]
+[ECO "A05"]
+[Opening "Reti"]
+[Variation "King's Indian attack, Spassky's variation"]
+[HashCode "03282d1e"]
+[Epoch "Rook"]
+[BlackID "2900238"]
+[BlackCountry "FID"]
+
+1. Nf3 Nf6 2. g3 b5 3. Bg2 Bb7 4. d3 e6 5. c3 c5 6. a4 b4 7. cxb4 cxb4 8. Nbd2
+Be7 9. Nb3 O-O 10. O-O d6 11. Bd2 a5 12. Rc1 Nbd7 13. Nbd4 1/2-1/2

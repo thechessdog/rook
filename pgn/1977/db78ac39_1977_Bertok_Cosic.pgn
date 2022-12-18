@@ -1,0 +1,26 @@
+[Event "Zagreb"]
+[Site "Zagreb"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Bertok, Mario"]
+[Black "Cosic, Marin"]
+[Result "1-0"]
+[ECO "D02"]
+[Opening "Queen's pawn game"]
+[HashCode "db78ac39"]
+[Epoch "Rook"]
+[WhiteCountry "HRV"]
+[BlackID "14500973"]
+[BlackCountry "CRO"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 e6 4. g3 dxc4 5. Qc2 a6 6. a4 b6 7. Nbd2 Nc6 8. Qxc4
+Bb7 9. e3 Nb4 10. Bg2 a5 11. Qb3 Bd5 12. Qd1 Nd3+ 13. Ke2 Ng4 14. Rf1 Nb4 15.
+Ne1 Nxh2 16. Rh1 Ng4 17. Kf1 Nf6 18. b3 Bxg2+ 19. Kxg2 Qd5+ 20. Qf3 Be7 21. Bb2
+Qxf3+ 22. Kxf3 O-O 23. Nc4 Nd7 24. Ba3 Rfe8 25. Bxb4 Bxb4 26. Nd3 Bf8 27. Rhd1
+f6 28. Rac1 Rad8 29. Nd2 Rc8 30. Rc6 Nb8 31. Rc4 Na6 32. Rc6 Rcd8 33. Ne4 Rd7
+34. Ke2 Nb8 35. Rcc1 Kf7 36. g4 h6 37. f4 Na6 38. g5 Rd5 39. Nc3 Rd7 40. Rg1
+Red8 41. g6+ Kg8 42. Nb5 c5 43. Rgd1 Be7 44. Kf3 Kf8 45. Nb2 Ke8 46. Nc4 Rb8
+47. f5 exf5 48. d5 Kd8 49. d6 Bf8 50. Kf4 Kc8 51. Kxf5 Kb7 52. e4 Ra8 53. e5
+fxe5 54. Nxe5 Rdd8 55. Nf7 Rd7 56. Ke6 Nb8 57. Rf1 Kc8 58. Ne5 Rd8 59. Rf7 Na6
+60. Rc4 Re8+ 61. Kd5 Rd8 62. Rcf4 Nb4+ 63. Rxb4 Bxd6 64. Nxd6+ Rxd6+ 65. Kxd6
+axb4 66. Nc6 1-0

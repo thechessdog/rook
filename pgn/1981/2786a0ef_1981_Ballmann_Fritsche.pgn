@@ -1,0 +1,18 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Ballmann, Martin"]
+[Black "Fritsche"]
+[Result "1-0"]
+[ECO "C34"]
+[Opening "KGA"]
+[Variation "Fischer defence"]
+[HashCode "2786a0ef"]
+[Epoch "Rook"]
+[WhiteID "1300350"]
+[WhiteCountry "SUI"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 d6 4. d4 g5 5. Bc4 g4 6. O-O gxf3 7. Qxf3 Qf6 8. e5
+dxe5 9. dxe5 Qxe5 10. Bxf7+ Kxf7 11. Bxf4 Qf5 12. Qb3+ Kg6 13. Be3 Qg4 14. Qf7#
+1-0

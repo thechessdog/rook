@@ -1,0 +1,17 @@
+[Event "North Wilkesboro,NC"]
+[Site "North Wilkesboro,NC"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Wall, Bill"]
+[Black "Brame, Bill"]
+[Result "1-0"]
+[ECO "D85"]
+[Opening "Gruenfeld"]
+[Variation "modern exchange variation"]
+[HashCode "cf084800"]
+[Epoch "Rook"]
+[WhiteCountry "USA"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Nf3 c5 8.
+Bb5+ Bd7 9. Bxd7+ Qxd7 10. O-O Nc6 11. d5 Rd8 12. Bf4 Bxc3 13. dxc6 Qc8 14. Qa4
+Bxa1 15. cxb7+ Qd7 16. Qxd7+ Kxd7 17. Rd1+ Ke6 18. Rxa1 1-0

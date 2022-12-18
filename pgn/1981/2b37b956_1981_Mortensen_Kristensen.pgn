@@ -1,0 +1,21 @@
+[Event "DEN-ch playoff"]
+[Site "Copenhagen"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Mortensen, Erling"]
+[Black "Kristensen, Bjarke Hautop"]
+[Result "1-0"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical system, 5.Be2"]
+[HashCode "2b37b956"]
+[Epoch "Rook"]
+[WhiteID "1400045"]
+[WhiteCountry "DEN"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Nf3 Bg7 5. Be2 O-O 6. O-O Nc6 7. d5 Ne5 8. Nxe5
+dxe5 9. Be3 Ne8 10. f3 a6 11. Na4 Nd6 12. c4 e6 13. Rc1 b5 14. Nc5 exd5 15.
+cxd5 Qe7 16. a4 f5 17. axb5 axb5 18. Qb3 Kh8 19. Rfd1 Qh4 20. Ne6 Bxe6 21. dxe6
+fxe4 22. fxe4 Rac8 23. Qd5 Nxe4 24. Qxb5 Nf6 25. Qc4 e4 26. Rf1 c5 27. b4 cxb4
+28. Qxc8 Rxc8 29. Rxc8+ Ng8 30. e7 Be5 31. Rxg8+ Kxg8 32. e8=Q+ Kg7 33. Qf8#
+1-0

@@ -1,0 +1,18 @@
+[Event "corr Wcup3"]
+[Site "corr Wcup3"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Criton"]
+[Black "Gustafsson"]
+[Result "0-1"]
+[ECO "B36"]
+[Opening "Sicilian"]
+[Variation "accelerated fianchetto, Gurgenidze variation"]
+[HashCode "e7a9116f"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6 5. c4 Nf6 6. Nc3 Nxd4 7. Qxd4 d6
+8. Be2 Bg7 9. Bd2 O-O 10. Qe3 Be6 11. h4 Qb6 12. Qxb6 axb6 13. f3 Rfc8 14.
+b3 b5 15. e5 Nh5 16. Nxb5 Bxe5 17. Bc3 Bg3+ 18. Kd1 Nf4 19. Bf1 d5 20. Nd4
+dxc4 21. Nxe6 Nxe6 22. Bxc4 b5 23. Bxe6 Rxc3 24. Bg4 Rd8+ 25. Ke2 Rc2+ 0-1
+

@@ -1,0 +1,21 @@
+[Event "Lloyds Bank op"]
+[Site "Londen open"]
+[Date "1979.08.01"]
+[Round "9"]
+[White "Muir, Andrew J"]
+[Black "Watson, William N"]
+[Result "1-0"]
+[ECO "E83"]
+[Opening "King's Indian"]
+[Variation "Saemisch, 6...Nc6"]
+[HashCode "b0c25b61"]
+[Epoch "Rook"]
+[WhiteID "2400138"]
+[WhiteCountry "SCO"]
+[BlackID "400157"]
+[BlackCountry "ENG"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 Nc6 7. Qd2 Re8 8. Nge2
+Rb8 9. O-O-O a6 10. Qe1 Nd7 11. f4 b5 12. f5 Na5 13. Nf4 Nb6 14. h4 b4 15. Ncd5
+Nbxc4 16. h5 c6 17. hxg6 cxd5 18. Qh4 Nxe3 19. Qxh7+ Kf8 20. gxf7 Qc7+ 21. Bc4
+Qxc4+ 22. Kb1 Qc2+ 23. Ka1 Nxd1 24. Qg8# 1-0

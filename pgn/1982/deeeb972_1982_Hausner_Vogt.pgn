@@ -1,0 +1,19 @@
+[Event "Trnava"]
+[Site "Trnava"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Hausner, Ivan"]
+[Black "Vogt, Lothar"]
+[Result "1/2-1/2"]
+[ECO "B40"]
+[Opening "Sicilian defence"]
+[HashCode "deeeb972"]
+[Epoch "Rook"]
+[BlackID "4611292"]
+[BlackCountry "GER"]
+[WhiteID "300110"]
+[WhiteCountry "CZE"]
+
+1. e4 c5 2. Nf3 e6 3. d3 d5 4. Nbd2 Nc6 5. g3 Bd6 6. Bg2 Nge7 7. O-O O-O 8. Re1
+b6 9. c3 a5 10. a4 Ba6 11. Qc2 Ng6 12. Bf1 Bc7 13. Nb1 f5 14. Ng5 Qd7 15. exd5
+exd5 16. f4 h6 17. Nf3 Rae8 18. Rxe8 Rxe8 19. Na3 Na7 20. Bd2 Kh7 1/2-1/2

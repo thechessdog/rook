@@ -1,0 +1,21 @@
+[Event "BL2-N 8283"]
+[Site "BL2-N 8283"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Anbuhl, Edgar"]
+[Black "Marxen, Peter, Dr."]
+[Result "0-1"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Euwe variation"]
+[HashCode "99494520"]
+[Epoch "Rook"]
+[BlackID "4607686"]
+[BlackCountry "GER"]
+[WhiteID "4607252"]
+[WhiteCountry "GER"]
+
+1. e4 c5 2. c3 e6 3. d4 d5 4. e5 Nc6 5. Nf3 Bd7 6. Be2 cxd4 7. cxd4 Nge7 8. Na3
+Nf5 9. Nc2 Be7 10. O-O Rc8 11. Rb1 a5 12. a4 O-O 13. b3 Qb6 14. Bd3 Kh8 15. Ng5
+f6 16. exf6 Bxf6 17. Qh5 Bxg5 18. Bxg5 Be8 19. Qh3 Bg6 20. Rbe1 Rce8 21. Re2
+Ncxd4 22. Nxd4 Qxd4 23. Bb5 Rc8 24. Rxe6 Rc3 25. g3 Kg8 26. Bf4 Qxf4 0-1

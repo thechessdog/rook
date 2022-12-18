@@ -1,0 +1,19 @@
+[Event "Livorno tt"]
+[Site "Livorno tt"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Bonfa"]
+[Black "Mititelu"]
+[Result "0-1"]
+[ECO "B89"]
+[Opening "Sicilian"]
+[Variation "Sozin, 7.Be3"]
+[HashCode "7418aec9"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bc4 e6 7. Be3 Qc7
+8. Qe2 a6 9. O-O-O Na5 10. Bd3 b5 11. f4 b4 12. Nb1 e5 13. Nf3 b3 14. Nc3
+bxa2 15. Nxa2 Be7 16. f5 O-O 17. g4 d5 18. Nd2 Nxe4 19. Nxe4 dxe4 20. Bxe4
+Bb7 21. Bd2 Nb3+ 22. Kb1 Nd4 23. Qg2 Qxc2+ 24. Bxc2 Bxg2 25. Rhg1 Bf3 26.
+Rdf1 e4 27. Nc3 Nxc2 28. Kxc2 Bc5 0-1
+

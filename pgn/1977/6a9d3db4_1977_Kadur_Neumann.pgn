@@ -1,0 +1,20 @@
+[Event "corr DDR/M"]
+[Site "corr DDR/M"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Kadur"]
+[Black "Neumann, W."]
+[Result "0-1"]
+[ECO "E10"]
+[Opening "Queen's pawn game"]
+[HashCode "6a9d3db4"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. Bf4 d5 5. e3 Nc6 6. Nc3 cxd4 7. exd4 dxc4
+8. Bxc4 Bd6 9. Bg5 Be7 10. O-O O-O 11. a3 Bd7 12. b4 Rc8 13. Qe2 Qc7 14.
+Nb5 Nxd4 15. Nxc7 Nxe2+ 16. Bxe2 Rxc7 17. Rfc1 Rfc8 18. Ne5 Rxc1+ 19. Rxc1
+Rxc1+ 20. Bxc1 Ba4 21. Bf3 Nd5 22. Kf1 Kf8 23. Ke1 Bf6 24. Nd3 Bc6 25. Nc5
+Ke7 26. Be2 Nc3 27. Bf1 b6 28. Nd3 Bb5 29. f4 Nd5 30. Ne5 Bxf1 31. Kxf1
+Bxe5 32. fxe5 Kd7 33. Ke2 Kc6 34. Kd3 Kb5 35. g3 Ka4 36. Kc4 Nc7 37. Bb2
+Nb5 0-1
+

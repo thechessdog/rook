@@ -1,0 +1,18 @@
+[Event "Missouri"]
+[Site "Missouri"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "McLeod"]
+[Black "Striegel"]
+[Result "1-0"]
+[ECO "D53"]
+[Opening "QGD"]
+[Variation "4.Bg5 Be7"]
+[HashCode "b338f107"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Bg5 Be7 5. Nf3 Nc6 6. e3 b6 7. Rc1 a6 8.
+Bd3 O-O 9. O-O g6 10. Bh6 Re8 11. Ng5 Nb4 12. Bb1 dxc4 13. a3 Nc6 14. Qf3
+Bd7 15. Nce4 b5 16. Rfd1 Na5 17. Nc5 Bc6 18. e4 Bf8 19. Bxf8 Rxf8 20. Qh3
+h5 21. e5 Nh7 22. Ngxe6 fxe6 23. Qxe6+ Kg7 24. Qxg6+ 1-0
+

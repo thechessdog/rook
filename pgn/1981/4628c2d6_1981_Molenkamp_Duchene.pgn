@@ -1,0 +1,18 @@
+[Event "Netherlands"]
+[Site "Netherlands"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Molenkamp"]
+[Black "Duchene, Rene"]
+[Result "0-1"]
+[ECO "D14"]
+[Opening "QGD Slav"]
+[Variation "exchange variation, 6.Bf4 Bf5"]
+[HashCode "4628c2d6"]
+[Epoch "Rook"]
+[BlackID "1006304"]
+[BlackCountry "NED"]
+
+1. c4 c6 2. d4 d5 3. cxd5 cxd5 4. Nf3 Nf6 5. Nc3 Nc6 6. Bf4 Bf5 7. e3 e6 8. Bb5
+Nd7 9. Qa4 Qb6 10. Nh4 Be4 11. f3 Bd3 12. Bxd3 Qxb2 13. Qb3 Qxa1+ 14. Kf2 Qxh1
+15. Qxb7 Rd8 16. Nxd5 exd5 0-1

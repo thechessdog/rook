@@ -1,0 +1,20 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Schubert, W."]
+[Black "Busemann, S."]
+[Result "0-1"]
+[ECO "E52"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line with ...b6"]
+[HashCode "33c886ac"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Nf3 d5 6. Bd3 b6 7. O-O Bb7 8.
+cxd5 exd5 9. Ne5 Nbd7 10. Bc2 Qe7 11. Ng4 Nxg4 12. Qxg4 Nf6 13. Qh4 Ne4 14.
+Qxe7 Bxe7 15. Bb3 Rfd8 16. Nxe4 dxe4 17. Bd2 Bd5 18. Bxd5 Rxd5 19. Bc3 Rad8
+20. f3 exf3 21. Rxf3 f5 22. Raf1 g6 23. e4 fxe4 24. Re3 R5d6 25. Rxe4 Bf6
+26. d5 Bxc3 27. bxc3 Rxd5 28. Re7 R8d7 29. Rff7 Rxe7 30. Rxe7 Rc5 31. Re3
+Kf7 32. Rh3 h5 33. Re3 Ra5 34. Rd3 Ke6 35. Rg3 Kf5 36. Kf2 Rxa2+ 0-1
+

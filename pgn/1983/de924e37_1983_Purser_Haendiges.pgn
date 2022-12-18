@@ -1,0 +1,16 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Purser, Tom"]
+[Black "Haendiges, W."]
+[Result "1-0"]
+[ECO "D00"]
+[Opening "Blackmar gambit"]
+[HashCode "de924e37"]
+[Epoch "Rook"]
+[WhiteCountry "USA"]
+
+1. d4 d5 2. e4 dxe4 3. Nc3 Nf6 4. f3 exf3 5. Nxf3 Bf5 6. Ne5 g6 7. Bc4 e6 8. g4
+Be4 9. Nxf7 Kxf7 10. O-O Bc5 11. Be3 Bxc2 12. Qxc2 Bxd4 13. Qe4 Bxe3+ 14. Qxe3
+Kg7 15. g5 1-0

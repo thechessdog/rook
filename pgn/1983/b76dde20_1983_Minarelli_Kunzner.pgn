@@ -1,0 +1,19 @@
+[Event "Mogliano"]
+[Site "Mogliano"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Minarelli"]
+[Black "Kunzner"]
+[Result "1-0"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "modern variation"]
+[HashCode "b76dde20"]
+[Epoch "Rook"]
+
+1. b3 e5 2. Bb2 d6 3. g3 Nf6 4. Bg2 g6 5. c4 Bg7 6. d3 O-O 7. Nf3 c6 8. O-O
+Nbd7 9. Nbd2 Re8 10. Ne4 d5 11. Nd6 Re6 12. Nxf7 Kxf7 13. Ng5+ Ke7 14. Ba3+
+c5 15. Nxe6 Kxe6 16. cxd5+ Nxd5 17. b4 Nxb4 18. Qb3+ Ke7 19. Bxb4 cxb4 20.
+Qxb4+ Ke8 21. Rab1 Rb8 22. Qc4 Qe7 23. Rfc1 Nb6 24. Qb5+ Qd7 25. Qa5 Qa4
+26. Bc6+ 1-0
+

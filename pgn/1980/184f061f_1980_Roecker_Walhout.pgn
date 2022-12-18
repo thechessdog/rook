@@ -1,0 +1,26 @@
+[Event "corr ICA"]
+[Site "corr ICA"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Roecker, J."]
+[Black "Walhout, D."]
+[Result "1-0"]
+[ECO "A45"]
+[Opening "Trompovsky attack (Ruth, Opovcensky opening)"]
+[HashCode "184f061f"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. Bg5 Ne4 3. Bh4 g5 4. Bg3 d6 5. Nd2 Nxg3 6. hxg3 Bg7 7. e3 c5
+8. c3 cxd4 9. exd4 Nc6 10. Bd3 h6 11. Nh3 Qb6 12. Nc4 Qc7 13. Qd2 e5 14.
+dxe5 dxe5 15. Ne3 Be6 16. Bf5 Rd8 17. Qe2 Bd5 18. Qb5 Be6 19. Qe2 Bxf5 20.
+Nxf5 Bf6 21. O-O Qd7 22. Ne3 Be7 23. Rad1 Qe6 24. Rxd8+ Bxd8 25. Rd1 h5 26.
+Nd5 f6 27. Qc4 Kf7 28. f3 Be7 29. Ne3 Qxc4 30. Nxc4 Ke6 31. Kf1 g4 32. Nf2
+f5 33. Ke2 gxf3+ 34. gxf3 Rg8 35. Nh1 b5 36. Ne3 f4 37. gxf4 exf4 38. Nd5
+Bd6 39. Nf2 h4 40. Nf6 Rg7 41. N6e4 Be7 42. Kf1 Rg8 43. Nh3 Rf8 44. Ke2 Ne5
+45. Rg1 Kf5 46. Rg7 Re8 47. Nhf2 Nd7 48. Ng4 Ke6 49. Kf2 Nc5 50. Nxc5+
+Bxc5+ 51. Kf1 Be7 52. Rg6+ Kf5 53. Ra6 Ra8 54. a4 bxa4 55. Ra5+ Ke6 56.
+Rxa4 Rb8 57. Re4+ Kd6 58. b4 Rf8 59. Kg2 Bd8 60. Kh3 Kc6 61. c4 Kb6 62.
+Re6+ Kb7 63. Ne5 Rf6 64. Rxf6 Bxf6 65. Nd3 Be7 66. Kg4 Kc7 67. Kxf4 Kd7 68.
+Kg4 Ke6 69. Nf4+ Kd7 70. Nd5 Bd8 71. f4 Kd6 72. Nc3 Ke6 73. b5 Kd7 74. Ne4
+Kc7 75. c5 Kb7 76. Nd6+ Kb8 77. f5 a5 78. bxa6 Ka7 79. c6 Kxa6 80. f6 1-0
+

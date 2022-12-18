@@ -1,0 +1,22 @@
+[Event "ACM Seattle"]
+[Site "ACM Seattle"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Ostrich"]
+[Black "Duchess"]
+[Result "0-1"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "Italian variation"]
+[HashCode "dc9711df"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nf6 3. Bc4 Nxe4 4. Qe2 d5 5. Nxe5 Be6 6. O-O Bd6 7. Nf3 O-O
+8. d3 dxc4 9. dxe4 Nc6 10. Ng5 Nd4 11. Qh5 h6 12. Nxe6 fxe6 13. Qd1 c5 14.
+c3 Nc6 15. Na3 Qb8 16. h4 Ne5 17. Be3 Be7 18. f4 Nd3 19. Nxc4 Nxf4 20. g3
+Ng6 21. Qg4 Kh7 22. h5 Ne5 23. Rxf8 Nxg4 24. Rxb8 Rxb8 25. Bf4 Rd8 26. Ne5
+Nxe5 27. Bxe5 Bf6 28. Bxf6 gxf6 29. Rf1 Kg7 30. Kg2 Kf7 31. Kf3 Rd3+ 32.
+Kg4 Rd2 33. Rb1 Rf2 34. a4 Ke7 35. b4 c4 36. Re1 Rc2 37. Re3 b6 38. a5 bxa5
+39. bxa5 Kd6 40. Kf4 Ra2 41. Rf3 Rxa5 42. Ke3 Ke5 43. Rf2 Ra1 44. Rc2 Re1+
+45. Kd2 Rxe4 46. Rc1 Rg4 47. Re1+ Kd5 0-1
+

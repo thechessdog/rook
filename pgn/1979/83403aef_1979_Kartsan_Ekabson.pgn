@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Kartsan"]
+[Black "Ekabson"]
+[Result "1-0"]
+[ECO "E30"]
+[Opening "Nimzo-Indian"]
+[Variation "Leningrad variation"]
+[HashCode "83403aef"]
+[Epoch "Rook"]
+
+1. c4 Nf6 2. d4 e6 3. Nc3 Bb4 4. Bg5 h6 5. Bh4 c5 6. d5 Bxc3+ 7. bxc3 e5 8.
+d6 Nc6 9. e3 O-O 10. Be2 Re8 11. Nh3 b6 12. f4 exf4 13. O-O Re4 14. Bd3
+Rxe3 15. Rxf4 Ne5 16. Bxf6 gxf6 17. Be4 Rb8 18. Qh5 Qf8 19. Bd5 Ba6 20.
+Raf1 Re8 21. Rxf6 Bxc4 22. Bxc4 Nxc4 23. Rxh6 Qg7 24. Rh8+ Qxh8 25. Qxf7#
+1-0
+

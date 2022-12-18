@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Runge"]
+[Black "Kellermann"]
+[Result "1-0"]
+[ECO "A45"]
+[Opening "Queen's pawn"]
+[Variation "Bronstein gambit"]
+[HashCode "2be7adeb"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. g4 d5 3. g5 Nfd7 4. Nc3 e6 5. e4 dxe4 6. Nxe4 Nc6 7. Bb5 a6 8.
+Bxc6 bxc6 9. Bf4 Bb7 10. Qd3 c5 11. Nf3 cxd4 12. Qxd4 Bxe4 13. Qxe4 Bd6 14.
+Rd1 Bxf4 15. Qxf4 Qc8 16. Qd4 f6 17. h4 Ke7 18. Rg1 Rg8 19. gxf6+ Nxf6 20.
+Qc5+ Ke8 21. Ne5 Rb8 22. Nc6 1-0
+

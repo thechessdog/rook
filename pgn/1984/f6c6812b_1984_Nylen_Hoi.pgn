@@ -1,0 +1,20 @@
+[Event "Malmo"]
+[Site "Malmo"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Nylen, Anders"]
+[Black "Hoi, Carsten"]
+[Result "0-1"]
+[ECO "D27"]
+[Opening "QGA"]
+[Variation "classical, Rubinstein variation"]
+[HashCode "f6c6812b"]
+[Epoch "Rook"]
+[BlackID "1400100"]
+[BlackCountry "DEN"]
+
+1. d4 d5 2. c4 dxc4 3. e3 Nf6 4. Bxc4 e6 5. Nf3 c5 6. O-O a6 7. a4 Nbd7 8. Qe2
+cxd4 9. exd4 Be7 10. Nc3 O-O 11. Bg5 Re8 12. Rad1 Nf8 13. Ne5 Bd7 14. f4 Bc6
+15. f5 Bd5 16. Nxd5 exd5 17. Ba2 Rc8 18. Rf3 N8d7 19. Rh3 Bd6 20. Bxd5 Nxe5 21.
+dxe5 Rxe5 22. Qf2 Rxd5 23. Rxd5 Nxd5 24. Qh4 Nf6 25. Bxf6 Bc5+ 26. Kf1 Qd1+ 27.
+Qe1 Qxe1+ 28. Kxe1 gxf6 0-1

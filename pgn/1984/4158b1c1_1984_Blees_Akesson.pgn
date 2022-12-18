@@ -1,0 +1,23 @@
+[Event "Berlin op"]
+[Site "Berlin-West"]
+[Date "1984.01.01"]
+[Round "4"]
+[White "Blees, Albert"]
+[Black "Akesson, Ralf"]
+[Result "1-0"]
+[ECO "E96"]
+[Opening "King's Indian"]
+[Variation "orthodox, 7...Nbd7, main line"]
+[HashCode "4158b1c1"]
+[Epoch "Rook"]
+[WhiteID "1000217"]
+[WhiteCountry "NED"]
+[BlackID "1700120"]
+[BlackCountry "SWE"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Be2 O-O 6. Nf3 Nbd7 7. O-O e5 8. Re1
+c6 9. Bf1 a5 10. dxe5 dxe5 11. Na4 Qe7 12. Qc2 b6 13. Be3 Rb8 14. h3 Ba6 15. b3
+Rfc8 16. Rac1 Bf8 17. Red1 Qe6 18. c5 Bxf1 19. Kxf1 b5 20. Nb2 Rb7 21. a4 bxa4
+22. bxa4 Nxe4 23. Qxe4 Rxb2 24. Qd3 Rc7 25. Qa6 e4 26. Nd4 Qe5 27. Kg1 Nxc5 28.
+Qxa5 Ra2 29. Qb6 Nd3 30. Nxc6 Qd6 31. Ne7+ Qxe7 32. Rxc7 Qa3 33. Qf6 Qb3 34.
+Bd4 1-0

@@ -1,0 +1,23 @@
+[Event "Lienz"]
+[Site "Lienz"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Danner, Georg"]
+[Black "Dueckstein, Andreas"]
+[Result "1-0"]
+[ECO "A99"]
+[Opening "Dutch"]
+[Variation "Ilyin-Genevsky variation with b3"]
+[HashCode "3edb3c15"]
+[Epoch "Rook"]
+[WhiteID "1600303"]
+[WhiteCountry "AUT"]
+[BlackID "1600168"]
+[BlackCountry "AUT"]
+
+1. d4 f5 2. g3 Nf6 3. Bg2 e6 4. Nf3 Be7 5. O-O O-O 6. c4 d6 7. Nc3 Qe8 8. b3 a5
+9. Bb2 Na6 10. Rc1 c6 11. Qc2 Bd7 12. Rce1 Qh5 13. a3 Rae8 14. e4 Nxe4 15. Nxe4
+fxe4 16. Qxe4 Bf6 17. Bc3 b6 18. Qd3 c5 19. Re3 cxd4 20. Nxd4 Nc5 21. Qc2 e5
+22. Nb5 Bg5 23. f4 exf4 24. Rxe8 Qxe8 25. Bd5+ Kh8 26. Nxd6 Qe3+ 27. Kg2 Be6
+28. Rf3 Bxd5 29. cxd5 Qe7 30. Nf5 Rxf5 31. Qxf5 h6 32. gxf4 Bh4 33. Re3 Qd8 34.
+Qf7 1-0

@@ -1,0 +1,18 @@
+[Event "Bundesliga 8182"]
+[Site "Duitsland tt"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Reefschlaeger, Helmut, Dr."]
+[Black "Ruehrig, Volkhard"]
+[Result "1-0"]
+[ECO "D13"]
+[Opening "QGD Slav"]
+[Variation "exchange variation"]
+[HashCode "5594a4bc"]
+[Epoch "Rook"]
+[WhiteID "4600878"]
+[WhiteCountry "GER"]
+[BlackCountry "DEU"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. cxd5 cxd5 5. Nc3 Bf5 6. Bf4 e6 7. e3 Be7 8. Qb3
+Qb6 9. Qxb6 axb6 10. Bb5+ Nbd7 11. Ne5 h6 12. g4 g5 13. Nxd7 Nxd7 14. Be5 1-0

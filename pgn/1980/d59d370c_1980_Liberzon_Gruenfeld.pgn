@@ -1,0 +1,21 @@
+[Event "Biel"]
+[Site "Biel"]
+[Date "1980.??.??"]
+[Round "?"]
+[White "Liberzon, Vladimir M"]
+[Black "Gruenfeld, Yehuda"]
+[Result "0-1"]
+[ECO "B97"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Poisoned pawn variation"]
+[HashCode "d59d370c"]
+[Epoch "Rook"]
+[BlackID "2800020"]
+[WhiteCountry "ISR"]
+[BlackCountry "ISR"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qb6 8. Qd2
+Qxb2 9. Rb1 Qa3 10. f5 Nc6 11. fxe6 fxe6 12. Nxc6 bxc6 13. e5 dxe5 14. Bxf6
+gxf6 15. Ne4 Qxa2 16. Rd1 Be7 17. Be2 O-O 18. O-O f5 19. Qh6 Qxc2 20. Ng5 Bc5+
+21. Kh1 Ra7 22. Bxa6 Bxa6 23. Qxe6+ Rff7 24. Rc1 Qd2 25. Nxf7 Rxf7 26. Rfd1 Qe3
+27. Re1 Qf2 28. Rxe5 Bf1 0-1

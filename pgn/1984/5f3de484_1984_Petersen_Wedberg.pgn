@@ -1,0 +1,20 @@
+[Event "Politiken Cup"]
+[Site "Copenhagen"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Petersen, Finn"]
+[Black "Wedberg, Tom"]
+[Result "1/2-1/2"]
+[ECO "C60"]
+[Opening "Ruy Lopez"]
+[Variation "Cozio defence"]
+[HashCode "5f3de484"]
+[Epoch "Rook"]
+[BlackID "1700073"]
+[BlackCountry "SWE"]
+[WhiteID "1400754"]
+[WhiteCountry "DEN"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nge7 4. O-O g6 5. d4 exd4 6. Nxd4 Bg7 7. Nxc6 bxc6
+8. Ba4 O-O 9. Nc3 Kh8 10. Be3 d6 11. Bd4 f6 12. Ne2 c5 13. Bc3 Be6 14. Nf4 Bf7
+15. Nd5 Be6 16. Re1 Bd7 17. Bxd7 Qxd7 18. Nxe7 Qxe7 19. Qd5 1/2-1/2

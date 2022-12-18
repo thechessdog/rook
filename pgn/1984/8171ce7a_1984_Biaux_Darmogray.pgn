@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Biaux"]
+[Black "Darmogray"]
+[Result "1/2-1/2"]
+[ECO "C33"]
+[Opening "KGA"]
+[Variation "Lesser bishop's (Petroff-Jaenisch-Tartakower) gambit"]
+[HashCode "8171ce7a"]
+[Epoch "Rook"]
+
+1. e4 e5 2. f4 exf4 3. Be2 d5 4. exd5 Nf6 5. Nf3 Nxd5 6. O-O Bd6 7. c4 Nf6
+8. d4 O-O 9. Nc3 Nc6 10. c5 Be7 11. Bxf4 Bg4 12. Kh1 Nb4 13. Bc4 c6 14. Qb3
+Bxf3 15. Rxf3 Nbd5 16. Qxb7 Nxf4 17. Rxf4 Rb8 18. Qxc6 Rxb2 19. d5 Rc2 20.
+Na4 Qc8 21. Qb5 g5 22. d6 gxf4 23. dxe7 Re8 24. Bxf7+ Kxf7 25. Qb3+ Kg7 26.
+Qxc2 Rxe7 27. Qf2 1/2-1/2
+

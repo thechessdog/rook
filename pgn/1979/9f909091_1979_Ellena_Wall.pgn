@@ -1,0 +1,17 @@
+[Event "San Antonio"]
+[Site "San Antonio"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Ellena, Bill"]
+[Black "Wall, Bill"]
+[Result "0-1"]
+[ECO "C57"]
+[Opening "two knights defence"]
+[Variation "Wilkes Barre (Traxler) variation"]
+[HashCode "9f909091"]
+[Epoch "Rook"]
+[BlackCountry "USA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 Bc5 5. Nxf7 Qe7 6. Nxh8 Bxf2+ 7. Kxf2
+Nxe4+ 8. Ke1 Qh4+ 9. g3 Nxg3 10. Bf7+ Ke7 11. Kf2 Ne4+ 12. Ke3 Qf2+ 13. Kxe4
+Qf4+ 14. Kd3 d5 15. c4 Bf5+ 16. Kc3 Qxc4# 0-1

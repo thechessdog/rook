@@ -1,0 +1,21 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Velker, Wim"]
+[Black "Berry, Jonathan"]
+[Result "0-1"]
+[ECO "B20"]
+[Opening "Sicilian defence"]
+[HashCode "a42313e1"]
+[Epoch "Rook"]
+[WhiteID "1036122"]
+[WhiteCountry "NED"]
+[BlackID "2600463"]
+[BlackCountry "CAN"]
+
+1. e4 c5 2. d3 g6 3. g3 Bg7 4. Bg2 Nc6 5. Nh3 d6 6. O-O Bd7 7. c3 Qc8 8. Nf4 e5
+9. Nd5 Nge7 10. Na3 Nxd5 11. exd5 Nd8 12. Nc4 Qc7 13. a4 f5 14. f4 Nf7 15. Be3
+O-O 16. Rc1 Rae8 17. b4 b6 18. b5 h6 19. fxe5 Nxe5 20. Nxe5 dxe5 21. Bf2 Qd6
+22. c4 h5 23. Re1 Bh6 24. Rc2 Re7 25. a5 f4 26. Be4 Rh7 27. axb6 axb6 28. Ra2
+Bg5 0-1

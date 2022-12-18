@@ -1,0 +1,17 @@
+[Event "Dayton,OH"]
+[Site "Dayton,OH"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Hayes, Dan"]
+[Black "Wall, Bill"]
+[Result "0-1"]
+[ECO "B15"]
+[Opening "Caro-Kann"]
+[Variation "Tartakower (Nimzovich) variation"]
+[HashCode "baac7c41"]
+[Epoch "Rook"]
+[BlackCountry "USA"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ exf6 6. Qe2+ Be7 7. Be3 O-O
+8. O-O-O Qa5 9. Kb1 Be6 10. b3 Na6 11. Bd2 Qa3 12. Bc3 Nb4 13. Bxb4 Bxb4 14.
+Qe3 Bg4 15. Rc1 Rfe8 16. Qd3 Bf5 17. Qf3 Be4 18. Qg3 Bxc2+ 19. Kxc2 Qxa2+ 0-1

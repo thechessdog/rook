@@ -1,0 +1,16 @@
+[Event "Sandnes"]
+[Site "Sandnes"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Olsen, John Thore"]
+[Black "Thorhalsson, Pall"]
+[Result "1-0"]
+[ECO "B80"]
+[Opening "Sicilian"]
+[Variation "Scheveningen variation"]
+[HashCode "fcda1918"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be3 Be7 7. Bc4 Nc6 8.
+Bb3 a6 9. a4 Qc7 10. f4 b6 11. O-O O-O 12. Qf3 Bb7 13. Rae1 Rad8 14. Qg3 g6 15.
+f5 Nh5 16. Qh3 exf5 17. exf5 Ne5 18. g4 Nf6 19. g5 Nh5 20. f6 1-0

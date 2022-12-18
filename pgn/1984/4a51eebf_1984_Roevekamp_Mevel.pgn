@@ -1,0 +1,22 @@
+[Event "Bundesliga 8384"]
+[Site "Germany"]
+[Date "1984.??.??"]
+[Round "?"]
+[White "Roevekamp, Frank"]
+[Black "Mevel, Alberic"]
+[Result "1/2-1/2"]
+[ECO "B52"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky attack, 3...Bd7"]
+[HashCode "4a51eebf"]
+[Epoch "Rook"]
+[WhiteID "4602170"]
+[BlackID "602574"]
+[WhiteCountry "GER"]
+[BlackCountry "FRA"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Qxd7 5. O-O Nc6 6. c3 d5 7. exd5 Qxd5
+8. d4 e6 9. Qe2 Nf6 10. Rd1 cxd4 11. cxd4 Be7 12. Nc3 Qd6 13. Bg5 Nd5 14. Qb5
+Bxg5 15. Nxg5 O-O 16. Qd3 g6 17. Qh3 h5 18. Qf3 Rad8 19. Nge4 Qf4 20. Qxf4 Nxf4
+21. d5 exd5 22. Nf6+ Kg7 23. Nfxd5 Nxd5 24. Nxd5 Rd6 25. Kf1 Rfd8 26. Nc3 Rd2
+27. Rab1 Ne5 28. Ke1 Rxd1+ 29. Rxd1 Rxd1+ 30. Nxd1 1/2-1/2

@@ -1,0 +1,29 @@
+[Event "Nassau Int"]
+[Site "Syosset"]
+[Date "1984.08.19"]
+[Round "9"]
+[White "Sahu, Sekhar Chandra"]
+[Black "Edelman, Daniel"]
+[Result "1-0"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical system, 5.Be2"]
+[HashCode "efb1c96f"]
+[Epoch "Rook"]
+[WhiteID "5000157"]
+[BlackID "2000660"]
+[WhiteCountry "IND"]
+[BlackCountry "USA"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Nf3 Bg7 5. Be2 O-O 6. O-O Nc6 7. h3 e5 8. d5
+Ne7 9. Be3 h6 10. Qd2 Kh7 11. Rad1 Bd7 12. Nh2 b5 13. Bd3 a5 14. f4 exf4 15.
+Bxf4 Neg8 16. Rde1 b4 17. Nd1 Nh5 18. Be3 Qh4 19. Nf3 Qe7 20. Qf2 Bf6 21. e5
+dxe5 22. Bc5 Qe8 23. Bxf8 Qxf8 24. Nxe5 Be8 25. Ng4 Bg5 26. Rxe8 Rxe8 27. Qxf7+
+Qxf7 28. Rxf7+ Ng7 29. Kf2 h5 30. Nh2 Re7 31. Rf8 Re8 32. Rxe8 Nxe8 33. Nf3 Be7
+34. Ne5 Bc5+ 35. Kf3 Ne7 36. Nd7 Bd6 37. Ne3 Kg7 38. Ke4 Bh2 39. Nc4 a4 40. Kd4
+Bg1+ 41. Ke5 Kf7 42. Be4 h4 43. Kf4 Bd4 44. Kg4 Bf6 45. Nde5+ Kg7 46. Nf3 Nd6
+47. Nxd6 cxd6 48. b3 a3 49. Kf4 Nc8 50. Ke3 Nb6 51. Kd3 Kh6 52. Nd4 Kg5 53. Nb5
+Kf4 54. Nxd6 Nd7 55. Bf3 Ne5+ 56. Ke2 Bd8 57. Ne4 g5 58. d6 g4 59. hxg4 Nxf3
+60. gxf3 h3 61. Nf2 h2 62. Nh1 Ba5 63. d7 Bb6 64. Kf1 Bd8 65. Kg2 Ke3 66. Nf2
+Kd2 67. Nd3 Kxc2 68. Nxb4+ Kc3 69. f4 Kxb4 70. g5 Kc3 71. g6 Kb2 72. g7 Kxa2
+73. g8=Q Kb2 74. Qxd8 a2 75. Qh8+ 1-0

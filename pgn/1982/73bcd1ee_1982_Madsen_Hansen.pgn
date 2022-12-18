@@ -1,0 +1,20 @@
+[Event "DEN-chJ int"]
+[Site "Soro"]
+[Date "1982.01.01"]
+[Round "8"]
+[White "Madsen, John G."]
+[Black "Hansen, Lars Bo"]
+[Result "1-0"]
+[ECO "C00"]
+[Opening "French"]
+[Variation "Two knights variation"]
+[HashCode "73bcd1ee"]
+[Epoch "Rook"]
+[BlackID "1400037"]
+[BlackCountry "DEN"]
+
+1. e4 e6 2. Nf3 d5 3. Nc3 Bb4 4. e5 Ne7 5. Ne2 c5 6. c3 Ba5 7. d4 cxd4 8. Nexd4
+Nbc6 9. Bd3 Nxd4 10. Nxd4 O-O 11. Bg5 Qc7 12. O-O a6 13. Qg4 Ng6 14. f4 h6 15.
+Bxh6 gxh6 16. Rf3 h5 17. Qxh5 Kg7 18. Rg3 Rh8 19. Qg4 Qd8 20. Nf3 Rh6 21. h4
+Qh8 22. h5 Bb6+ 23. Kf1 Rxh5 24. Bxg6 Rh1+ 25. Ke2 Rxa1 26. Rh3 Qe8 27. Bxf7+
+Kf8 28. Qg8+ Ke7 29. Qxe8# 1-0

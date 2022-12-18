@@ -1,0 +1,21 @@
+[Event "Hamburg"]
+[Site "Hamburg"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Schroeder, Christoph"]
+[Black "Horvath, Tamas"]
+[Result "0-1"]
+[ECO "B40"]
+[Opening "Sicilian defence"]
+[HashCode "ccb416db"]
+[Epoch "Rook"]
+[BlackID "700185"]
+[BlackCountry "HUN"]
+[WhiteID "4605250"]
+[WhiteCountry "GER"]
+
+1. e4 c5 2. Nf3 e6 3. d3 Nc6 4. g3 d5 5. Nbd2 Bd6 6. Bg2 Nge7 7. O-O O-O 8. Re1
+Qc7 9. c3 b6 10. Qc2 a5 11. a4 Ba6 12. exd5 exd5 13. Nf1 h6 14. Ne3 Qd7 15. h4
+Rae8 16. Kh2 Bc8 17. Ng1 Bc7 18. Bh3 Qd8 19. Ng2 Ng6 20. Rxe8 Rxe8 21. h5 Nge5
+22. Bf4 Bxh3 23. Nxh3 Qd7 24. Qd1 d4 25. c4 g5 26. hxg6 fxg6 27. Bxe5 Nxe5 28.
+Nhf4 Rf8 29. Ne1 Ng4+ 30. Kg2 g5 0-1

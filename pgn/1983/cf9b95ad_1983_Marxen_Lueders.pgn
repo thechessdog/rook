@@ -1,0 +1,26 @@
+[Event "BL2-N 8283"]
+[Site "BL2-N 8283"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Marxen, Peter, Dr."]
+[Black "Lueders, Gerhard"]
+[Result "0-1"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...g6"]
+[HashCode "cf9b95ad"]
+[Epoch "Rook"]
+[WhiteID "4607686"]
+[WhiteCountry "GER"]
+[BlackID "4608240"]
+[BlackCountry "GER"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 g6 6. Nf3 Bg7 7. cxd5 Nxd5 8.
+Bc4 Nb6 9. Bb3 O-O 10. Bf4 Nc6 11. d5 Na5 12. h3 Nxb3 13. Qxb3 Bxc3+ 14. Qxc3
+Nxd5 15. Qd2 Nxf4 16. Qxf4 Qa5+ 17. b4 Qa6 18. Qh6 f6 19. a4 Bd7 20. Qd2 Rfd8
+21. Nd4 e5 22. Qa2+ Kh8 23. Ne2 Be6 24. Qb2 Bc4 25. O-O Bxe2 26. b5 Bxb5 27.
+axb5 Qb6 28. Qb4 Qd6 29. Qb3 Qd5 30. Qb4 Kg7 31. Rac1 Rd7 32. Rc5 Qd4 33. Rc4
+Qd5 34. Rc5 Qd6 35. Qc3 Rad8 36. Rc8 Rxc8 37. Qxc8 Qc7 38. Qe8 Qd8 39. Qe6 Rd5
+40. Qg4 Rxb5 41. Rc1 Rd5 42. Rc8 Qe7 43. Qc4 Qf7 44. Kh2 Rd7 45. Qc5 b6 46. Qc6
+Rb7 47. Qd6 b5 48. Qd8 b4 49. Qh8+ Kh6 50. Qd8 b3 51. Rb8 Rxb8 52. Qxb8 Kg7 53.
+Qb4 a5 54. Qxa5 Qb7 55. Qa1 b2 56. Qb1 Qb4 0-1

@@ -1,0 +1,18 @@
+[Event "Cuba"]
+[Site "Cuba"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Rodriguez, Ad"]
+[Black "Perez Perez, Francisco Jose"]
+[Result "1/2-1/2"]
+[ECO "A71"]
+[Opening "Benoni"]
+[Variation "classical, 8.Bg5"]
+[HashCode "ca68d8dd"]
+[Epoch "Rook"]
+[BlackCountry "EST"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 exd5 5. cxd5 g6 6. Nc3 Bg7 7. e4 d6 8. Bg5
+a6 9. Nd2 h6 10. Bh4 b5 11. Be2 g5 12. Bg3 h5 13. h4 gxh4 14. Bxh4 Nbd7 15. Qc2
+c4 16. a4 Rb8 17. axb5 axb5 18. f4 Qc7 19. Nd1 Ng4 20. Bg3 Nc5 21. Rc1 Qe7 22.
+Bh4 Bf6 23. Bxf6 1/2-1/2

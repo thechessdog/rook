@@ -1,0 +1,17 @@
+[Event "corr Heilimo mem"]
+[Site "corr Heilimo mem"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Koskinen"]
+[Black "Mulder van Leens, D"]
+[Result "1/2-1/2"]
+[ECO "D42"]
+[Opening "QGD"]
+[Variation "Semi-Tarrasch, 7.Bd3"]
+[HashCode "cf2999ca"]
+[Epoch "Rook"]
+
+1. c4 Nf6 2. Nc3 c5 3. Nf3 d5 4. cxd5 Nxd5 5. e3 e6 6. d4 Nc6 7. Bd3 cxd4
+8. exd4 Be7 9. O-O O-O 10. Re1 Nf6 11. a3 b6 12. Bc2 Bb7 13. Qd3 g6 14. Bh6
+Re8 15. Rad1 Bf8 16. Bg5 Be7 17. Bh6 Bf8 1/2-1/2
+

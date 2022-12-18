@@ -1,0 +1,17 @@
+[Event "Pensacola"]
+[Site "Pensacola"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Erdall"]
+[Black "Hatherill, Chuck"]
+[Result "1-0"]
+[ECO "C16"]
+[Opening "French"]
+[Variation "Winawer, advance variation"]
+[HashCode "2e872816"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 Bxc3+ 5. bxc3 Ne7 6. Ba3 O-O 7. Bd3 b6
+8. Nh3 Ba6 9. Bxh7+ Kh8 10. Qh5 Ng8 11. Bxg8+ Kxg8 12. Ng5 Qxg5 13. Qxg5
+Re8 14. Be7 Nd7 15. Bf6 Nxf6 16. exf6 1-0
+

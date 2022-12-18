@@ -1,0 +1,20 @@
+[Event "Rome-B"]
+[Site "Rome"]
+[Date "1981.01.01"]
+[Round "3"]
+[White "De Eccher, Stefano"]
+[Black "Passerotti, Pierluigi"]
+[Result "0-1"]
+[ECO "A13"]
+[Opening "English opening"]
+[Variation "Agincourt variation"]
+[HashCode "468c5465"]
+[Epoch "Rook"]
+[BlackID "800309"]
+[BlackCountry "ITA"]
+[WhiteID "800678"]
+[WhiteCountry "ITA"]
+
+1. c4 e6 2. Nf3 d5 3. b3 d4 4. e3 Nc6 5. Bb2 e5 6. exd4 exd4 7. d3 Nh6 8. g3
+Bb4+ 9. Nbd2 O-O 10. a3 Re8+ 11. Be2 Bxd2+ 12. Qxd2 Bg4 13. O-O Qf6 14. Kg2
+Rxe2 0-1

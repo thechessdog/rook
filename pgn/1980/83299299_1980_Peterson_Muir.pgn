@@ -1,0 +1,16 @@
+[Event "corr Americas"]
+[Site "corr Americas"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Peterson, George"]
+[Black "Muir, Walter"]
+[Result "1-0"]
+[ECO "E50"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 e8g8, 5.Nf3, without ...d5"]
+[HashCode "83299299"]
+[Epoch "Rook"]
+[BlackCountry "USA"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Nf3 Ne4 6. Bd2 f5 7. Nxe4 fxe4 8.
+Bxb4 exf3 9. Bxf8 fxg2 10. Bxg2 Qxf8 1-0

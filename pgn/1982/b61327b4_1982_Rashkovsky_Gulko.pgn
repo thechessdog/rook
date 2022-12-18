@@ -1,0 +1,19 @@
+[Event "Moscow-ch"]
+[Site "Moscow"]
+[Date "1982.01.01"]
+[Round "14"]
+[White "Rashkovsky, Nukhim N"]
+[Black "Gulko, Boris"]
+[Result "1/2-1/2"]
+[ECO "D14"]
+[Opening "QGD Slav"]
+[Variation "exchange variation, 6.Bf4 Bf5"]
+[HashCode "b61327b4"]
+[Epoch "Rook"]
+[WhiteID "4100603"]
+[WhiteCountry "RUS"]
+[BlackID "2000040"]
+[BlackCountry "USA"]
+
+1. d4 d5 2. c4 c6 3. cxd5 cxd5 4. Nf3 Nc6 5. Nc3 Nf6 6. Bf4 Bf5 7. e3 e6 8. Bd3
+Bg6 9. O-O Bd6 10. Bg3 O-O 11. Bxg6 hxg6 12. Rc1 Bxg3 13. hxg3 1/2-1/2

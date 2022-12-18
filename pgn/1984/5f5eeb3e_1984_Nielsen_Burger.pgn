@@ -1,0 +1,20 @@
+[Event "corr ch-Baltic"]
+[Site "corr ch-Baltic"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Fries-Nielsen, Jens Ove"]
+[Black "Burger, Karl"]
+[Result "0-1"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...e6"]
+[HashCode "5f5eeb3e"]
+[Epoch "Rook"]
+[BlackCountry "USA"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 e6 6. Bg5 Be7 7. Nf3 O-O 8. Rc1
+dxc4 9. Bxc4 a6 10. O-O b5 11. Bb3 Bb7 12. d5 exd5 13. Re1 Nbd7 14. Nd4 Re8 15.
+Nf5 Bf8 16. Nxd5 Rxe1+ 17. Qxe1 Bxd5 18. Bxd5 Rc8 19. Rd1 Qe8 20. Qxe8 Rxe8 21.
+Bc6 Re5 22. g4 Nc5 23. Bxf6 gxf6 24. Rd8 Ne6 25. Ra8 h5 26. Bf3 Nc7 27. Rc8 Ne6
+28. Kg2 hxg4 29. Bxg4 Rc5 30. Ra8 Rc2 31. h4 Rxb2 32. Kg3 Rxa2 33. h5 Kh7 34.
+Ra7 Ng5 35. f4 Ra3+ 36. Kh4 Bc5 0-1

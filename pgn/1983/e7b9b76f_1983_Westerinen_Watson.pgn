@@ -1,0 +1,23 @@
+[Event "Brighton"]
+[Site "Brighton"]
+[Date "1983.12.01"]
+[Round "1"]
+[White "Westerinen, Heikki M.J."]
+[Black "Watson, William N"]
+[Result "0-1"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Grand Prix attack"]
+[HashCode "e7b9b76f"]
+[Epoch "Rook"]
+[WhiteID "500020"]
+[WhiteCountry "FIN"]
+[BlackID "400157"]
+[BlackCountry "ENG"]
+
+1. e4 c5 2. f4 g6 3. d4 cxd4 4. Qxd4 Nf6 5. e5 Nc6 6. Qd3 Ng8 7. Bd2 Bg7 8. Bc3
+d6 9. Nf3 Bf5 10. Qb5 Qd7 11. Nbd2 Nh6 12. O-O-O O-O 13. h3 dxe5 14. fxe5 Qc7
+15. g4 a6 16. Qb3 Bd7 17. Ne4 b5 18. Nc5 Bc8 19. Bg2 b4 20. Nd4 Nxe5 21. Bxa8
+bxc3 22. Qxc3 Bxg4 23. hxg4 Rxa8 24. g5 Nhg4 25. Rhe1 Rc8 26. Ne4 Nc4 27. Qg3
+Qxg3 28. Nxg3 Nf2 29. c3 Nxd1 30. Rxd1 h6 31. gxh6 Bxh6+ 32. Kb1 Rd8 33. Re1 e5
+34. Nc6 Re8 35. Ne4 Kg7 36. b3 Ne3 37. Nc5 Rc8 38. c4 Rxc6 39. Nd7 Re6 0-1

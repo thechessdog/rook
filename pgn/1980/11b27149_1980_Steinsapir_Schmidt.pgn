@@ -1,0 +1,20 @@
+[Event "corr Wcup3"]
+[Site "corr Wcup3"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Steinsapir"]
+[Black "Schmidt, Wlodzimierz"]
+[Result "1-0"]
+[ECO "B23"]
+[Opening "Sicilian"]
+[Variation "closed, Korchnoi variation"]
+[HashCode "11b27149"]
+[Epoch "Rook"]
+[BlackID "1100041"]
+[BlackCountry "POL"]
+
+1. e4 c5 2. Nc3 e6 3. g3 d5 4. Bg2 d4 5. Nb1 Nc6 6. d3 e5 7. f4 g6 8. Nf3 Bg4
+9. h3 Bxf3 10. Qxf3 Bg7 11. O-O Nf6 12. Nd2 b5 13. Rf2 O-O 14. Nf1 Qb6 15. g4
+c4 16. Ng3 Nd7 17. f5 Rac8 18. Bf1 cxd3 19. cxd3 Nb4 20. Bd2 Nc2 21. Rc1 f6 22.
+fxg6 hxg6 23. h4 Ne3 24. h5 Rxc1 25. Bxc1 Rc8 26. Bd2 Rc2 27. hxg6 Rxb2 28. Nf5
+Qc5 29. g5 Nxf5 30. exf5 fxg5 31. Qa8+ Bf8 32. f6 Rxd2 33. Qh1 1-0

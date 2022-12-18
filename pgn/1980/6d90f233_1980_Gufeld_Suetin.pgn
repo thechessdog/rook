@@ -1,0 +1,18 @@
+[Event "DSV-Turnier"]
+[Site "Leipzig"]
+[Date "1980.01.01"]
+[Round "5"]
+[White "Gufeld, Eduard"]
+[Black "Suetin, Alexey S"]
+[Result "1/2-1/2"]
+[ECO "D10"]
+[Opening "QGD Slav defence"]
+[Variation "exchange variation"]
+[HashCode "6d90f233"]
+[Epoch "Rook"]
+[BlackCountry "RUS"]
+[WhiteCountry "RUS"]
+
+1. d4 d5 2. c4 c6 3. cxd5 cxd5 4. Nc3 Nf6 5. Bf4 Nc6 6. e3 Bf5 7. Nf3 e6 8. Bd3
+Bxd3 9. Qxd3 Bd6 10. Bxd6 Qxd6 11. O-O O-O 12. Rfc1 Rfc8 13. Ne2 Ne4 14. Ng3 f5
+15. Ne2 a6 16. a3 g5 17. Rc2 Ne7 18. Rac1 Rxc2 19. Rxc2 1/2-1/2

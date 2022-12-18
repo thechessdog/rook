@@ -1,0 +1,19 @@
+[Event "Vladivostok"]
+[Site "Vladivostok"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Lutikov, Anatoly S"]
+[Black "Chernikov"]
+[Result "0-1"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (without ...d6)"]
+[HashCode "08147fc7"]
+[Epoch "Rook"]
+[WhiteCountry "RUS"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 d6 4. O-O Bd7 5. Re1 Nf6 6. h3 a6 7. Bf1 g5 8. e5
+dxe5 9. Nxe5 Nxe5 10. Rxe5 g4 11. hxg4 Nxg4 12. Rh5 Qb6 13. d3 Qg6 14. Rg5 Qh6
+15. Bf4 Qh4 16. Qd2 f6 17. Rxc5 e5 18. Bg3 Qxg3 19. fxg3 Bxc5+ 20. Kh1 h5 21.
+Be2 Be3 22. Qb4 h4 23. Bxg4 hxg3+ 24. Bh3 Rxh3+ 25. gxh3 Bc6+ 26. Qe4 Bxe4+ 27.
+dxe4 Rd8 28. Kg2 Bf4 29. Nc3 Rd2+ 30. Kf3 Rf2+ 31. Kg4 g2 0-1

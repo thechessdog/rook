@@ -1,0 +1,18 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Romer, U."]
+[Black "Glotz"]
+[Result "1-0"]
+[ECO "B01"]
+[Opening "Scandinavian"]
+[Variation "Marshall variation"]
+[HashCode "0194fe43"]
+[Epoch "Rook"]
+
+1. e4 d5 2. exd5 Nf6 3. d4 Nxd5 4. Nf3 Bg4 5. h3 Bh5 6. g4 Bg6 7. Ne5 Nd7
+8. Nxg6 hxg6 9. Bg2 c6 10. c4 N5b6 11. Qe2 Qc7 12. Nc3 O-O-O 13. Be3 Kb8
+14. a4 e5 15. d5 cxd5 16. cxd5 Bb4 17. O-O Qc4 18. Qf3 Nf6 19. Rfd1 Bxc3
+20. bxc3 Rd7 21. a5 Na4 22. Bf1 1-0
+

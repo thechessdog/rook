@@ -1,0 +1,17 @@
+[Event "Ohio"]
+[Site "Ohio"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Foley"]
+[Black "Wall, Bill"]
+[Result "0-1"]
+[ECO "A02"]
+[Opening "Bird"]
+[Variation "From gambit"]
+[HashCode "dc0a9ee1"]
+[Epoch "Rook"]
+[BlackCountry "USA"]
+
+1. f4 e5 2. d3 Nc6 3. Nf3 exf4 4. Bxf4 Nf6 5. Nc3 Bb4 6. a3 Ba5 7. b4 Bb6 8. b5
+Nd4 9. Nxd4 Bxd4 10. Qd2 O-O 11. e3 Re8 12. O-O-O Bb6 13. e4 Qe7 14. a4 Qa3+
+15. Kb1 Bd4 0-1

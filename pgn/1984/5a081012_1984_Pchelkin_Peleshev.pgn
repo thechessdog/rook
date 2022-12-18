@@ -1,0 +1,18 @@
+[Event "corr ch16-SU"]
+[Site "corr ch16-SU"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Pchelkin, A."]
+[Black "Peleshev, L."]
+[Result "1/2-1/2"]
+[ECO "B40"]
+[Opening "Sicilian"]
+[Variation "Pin, Koch variation"]
+[HashCode "5a081012"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Bb4 6. e5 Nd5 7. Bd2 Nxc3
+8. bxc3 Be7 9. Qg4 O-O 10. Bd3 f5 11. Qe2 Na6 12. a4 Nc5 13. O-O b6 14. c4
+a5 15. Nb5 Bb7 16. f3 Bc6 17. Kh1 d6 18. Bc3 Bxb5 19. cxb5 d5 20. Bd4 Rc8
+21. Bxc5 Bxc5 1/2-1/2
+

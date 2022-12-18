@@ -1,0 +1,17 @@
+[Event "DDR"]
+[Site "DDR"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Junge"]
+[Black "Murach"]
+[Result "0-1"]
+[ECO "A00"]
+[Opening "Polish (Sokolsky) opening"]
+[HashCode "ec955136"]
+[Epoch "Rook"]
+
+1. b4 e5 2. Bb2 Bxb4 3. Bxe5 Nf6 4. c4 Nc6 5. Bb2 O-O 6. e3 d5 7. cxd5 Nxd5
+8. Nf3 Re8 9. Be2 Bg4 10. O-O Qe7 11. Qb3 Rad8 12. a3 Ba5 13. Qxb7 Rd6 14.
+Qb3 Bb6 15. d4 Na5 16. Qd1 Nxe3 17. fxe3 Qxe3+ 18. Rf2 Bxf3 19. gxf3 Rg6+
+20. Kf1 Qg5 21. Ke1 Nc4 22. Qa4 Qg1+ 0-1
+

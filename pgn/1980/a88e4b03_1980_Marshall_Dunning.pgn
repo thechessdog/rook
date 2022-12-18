@@ -1,0 +1,17 @@
+[Event "Columbus,OH"]
+[Site "Columbus,OH"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Marshall"]
+[Black "Dunning, S."]
+[Result "1-0"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "a88e4b03"]
+[Epoch "Rook"]
+
+1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. d4 cxd4 5. Qxd4 e6 6. Bc4 Nc6 7. Qe4 d6 8.
+exd6 Nf6 9. Qe2 h6 10. Nf3 Bxd6 11. O-O O-O 12. Nbd2 e5 13. Ne4 Bc7 14. Nh4
+Re8 15. Rd1 Qe7 16. Ng6 1-0
+

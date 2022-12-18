@@ -1,0 +1,20 @@
+[Event "Tallinn"]
+[Site "Tallinn"]
+[Date "1981.03.01"]
+[Round "5"]
+[White "Nei, Iivo"]
+[Black "Vooremaa, Andres"]
+[Result "1-0"]
+[ECO "A67"]
+[Opening "Benoni"]
+[Variation "Taimanov variation"]
+[HashCode "4116fae1"]
+[Epoch "Rook"]
+[WhiteID "4500059"]
+[WhiteCountry "EST"]
+[BlackID "4500083"]
+[BlackCountry "EST"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. f4 Bg7 8. Bb5+
+Nfd7 9. Bd3 a6 10. a4 O-O 11. Nge2 Qh4+ 12. g3 Qe7 13. Kf2 Nf6 14. h3 c4 15.
+Bc2 h5 16. Kg2 Nbd7 17. Re1 Nc5 18. Ng1 Bd7 19. e5 Nh7 20. Be3 Rac8 1-0

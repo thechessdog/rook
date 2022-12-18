@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Van de Vaart"]
+[Black "Wouters"]
+[Result "0-1"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, dragon formation"]
+[HashCode "5358a14b"]
+[Epoch "Rook"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 c5 6. dxc5 Qa5 7. Bd3 Qxc5 8.
+Qe2 Bg4 9. Be3 Qa5 10. O-O Nc6 11. Qe1 O-O 12. Nd2 Nb4 13. Nb3 Qc7 14. f5
+d5 15. h3 dxe4 16. Nxe4 Nxd3 0-1
+

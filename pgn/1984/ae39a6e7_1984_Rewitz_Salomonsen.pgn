@@ -1,0 +1,24 @@
+[Event "Aarhus"]
+[Site "Aarhus"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Rewitz, Poul"]
+[Black "Salomonsen, J."]
+[Result "0-1"]
+[ECO "C33"]
+[Opening "KGA"]
+[Variation "Lesser bishop's (Petroff-Jaenisch-Tartakower) gambit"]
+[HashCode "ae39a6e7"]
+[Epoch "Rook"]
+[WhiteID "1401033"]
+[WhiteCountry "DEN"]
+
+1. e4 e5 2. f4 exf4 3. Be2 Qh4+ 4. Kf1 d5 5. exd5 Bd6 6. d4 Nh6 7. Nf3 Qe7 8.
+c4 b6 9. b4 Bxb4 10. Bxf4 Nf5 11. g4 Bd6 12. Ne5 f6 13. Qa4+ Kf8 14. gxf5 fxe5
+15. dxe5 Bxe5 16. Bxe5 Qxe5 17. Qa3+ Kf7 18. Qc3 Re8 19. Bh5+ g6 20. fxg6+ hxg6
+21. Qxe5 Rxe5 22. Bf3 Bb7 23. Nd2 Nd7 24. Kg2 Rg5+ 25. Kf2 Rf5 26. Kg3 Nc5 27.
+Rae1 Re8 28. Rxe8 Kxe8 29. Re1+ Kf7 30. Bg4 Rf6 31. Nf3 Rd6 32. Ng5+ Kf6 33.
+Nh7+ Kf7 34. Ng5+ Kf6 35. h4 Ba6 36. Rf1+ Ke7 37. Rf7+ Ke8 38. Rf4 b5 39. cxb5
+Bxb5 40. Ne6 Nxe6 41. Bxe6 c6 42. Rf6 cxd5 43. Kf4 Ke7 44. Ke5 Be8 45. h5 gxh5
+46. Rh6 Bf7 47. Bxf7 Rxh6 48. Bxd5 h4 49. Kf4 h3 50. Kg5 Rh8 51. Kg4 Kd6 52.
+Bh1 Kc5 53. Kg3 h2 0-1

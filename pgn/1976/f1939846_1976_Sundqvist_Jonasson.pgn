@@ -1,0 +1,19 @@
+[Event "corr SWE/K tt"]
+[Site "corr SWE/K tt"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Sundqvist, Hugo"]
+[Black "Jonasson, Jan"]
+[Result "0-1"]
+[ECO "C55"]
+[Opening "two knights"]
+[Variation "Max Lange attack, Steinitz variation"]
+[HashCode "f1939846"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d4 exd4 5. O-O Bc5 6. e5 Ng4 7. Bf4 O-O
+8. h3 Nh6 9. Nbd2 Nf5 10. Ne4 d5 11. exd6 Bxd6 12. Nxd6 Nxd6 13. Bg5 Qd7
+14. Bd5 Nb4 15. Bb3 c5 16. Re1 Nc6 17. Ba4 b5 18. c3 bxa4 19. cxd4 cxd4 20.
+Nxd4 Nxd4 21. Qxd4 Nf5 22. Qc3 Qd4 23. Qc2 Be6 24. Re4 Rac8 25. Rxd4 Rxc2
+26. Rxa4 Rxb2 27. Rxa7 h6 28. Bc1 Rc2 29. a4 g5 30. a5 Rd8 31. Ba3 Rdd2 0-1
+

@@ -1,0 +1,23 @@
+[Event "Bulgaria"]
+[Site "Bulgaria"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Padevsky, Nikola"]
+[Black "Radulov, Ivan"]
+[Result "0-1"]
+[ECO "B31"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (with ...g6, without ...d6)"]
+[HashCode "fbc8f205"]
+[Epoch "Rook"]
+[BlackID "2900300"]
+[BlackCountry "FID"]
+[WhiteID "2900190"]
+[WhiteCountry "FID"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. c3 e5 6. d3 Nge7 7. Be3 d6 8. d4
+cxd4 9. cxd4 O-O 10. d5 Nb8 11. Nfd2 f5 12. f3 f4 13. Bf2 g5 14. Nc3 Ng6 15.
+Rc1 Nd7 16. Be2 a6 17. Nc4 Qc7 18. a4 h5 19. a5 Nf6 20. Nb6 Rb8 21. h3 Bd7 22.
+Nca4 Bh6 23. Nxd7 Qxd7 24. Nb6 Qg7 25. Rc4 Rf7 26. Qb3 g4 27. fxg4 hxg4 28.
+hxg4 f3 29. Bxf3 Rbf8 30. Rc8 Bg5 31. Rxf8+ Qxf8 32. Nc4 Rh7 33. Bg3 Bf4 34.
+Bxf4 Nxf4 35. Qc2 Qh6 36. Nxd6 Qh1+ 0-1

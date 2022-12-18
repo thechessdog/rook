@@ -1,0 +1,20 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Moratalla"]
+[Black "Montero"]
+[Result "1-0"]
+[ECO "C09"]
+[Opening "French"]
+[Variation "Tarrasch, open variation, main line"]
+[HashCode "de59d22d"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. exd5 exd5 5. Ngf3 Nc6 6. Bb5 Bd6 7. dxc5
+Bxc5 8. O-O Ne7 9. Nb3 Bd6 10. Nbd4 Bg4 11. c3 O-O 12. Qa4 Qc7 13. Nxc6
+bxc6 14. Qxg4 cxb5 15. Bg5 Ng6 16. Rad1 Ne5 17. Nxe5 Bxe5 18. f4 Qb6+ 19.
+Kh1 f5 20. Qf3 Bf6 21. Rxd5 Bxg5 22. fxg5 g6 23. Qd3 a6 24. Rd7 Rfe8 25.
+Qh3 h5 26. gxh6 Qf2 27. Qd3 Qe2 28. Qd5+ Qe6 29. Qb7 Qc4 30. Rg7+ Kf8 31.
+Rg1 1-0
+

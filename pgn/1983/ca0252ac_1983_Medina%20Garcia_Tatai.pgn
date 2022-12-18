@@ -1,0 +1,18 @@
+[Event "Torremolinos"]
+[Site "Torremolinos"]
+[Date "1983.01.01"]
+[Round "5"]
+[White "Medina Garcia, Antonio Angel"]
+[Black "Tatai, Stefano"]
+[Result "1/2-1/2"]
+[ECO "B91"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Zagreb (fianchetto) variation"]
+[HashCode "ca0252ac"]
+[Epoch "Rook"]
+[BlackCountry "ITA"]
+[WhiteCountry "EST"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. g3 e5 7. Nde2 Be7 8. Bg2
+Nbd7 9. a4 b6 10. O-O Bb7 11. Be3 O-O 12. Nd5 Nxd5 13. exd5 Qc7 14. c4 Rae8 15.
+Rc1 Bc8 16. b4 a5 1/2-1/2

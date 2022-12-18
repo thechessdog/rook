@@ -1,0 +1,25 @@
+[Event "corr ch-SU"]
+[Site "corr ch-SU"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Kopylov, Nikolai G"]
+[Black "Markaus, Y."]
+[Result "1-0"]
+[ECO "B43"]
+[Opening "Sicilian"]
+[Variation "Kan, 5.Nc3"]
+[HashCode "a8451a9f"]
+[Epoch "Rook"]
+[WhiteCountry "RUS"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 Qc7 6. g3 Nc6 7. Bg2 Nf6 8. O-O
+Be7 9. Nb3 d6 10. a4 O-O 11. f4 b6 12. g4 d5 13. exd5 Nxd5 14. Nxd5 exd5 15. c3
+Rb8 16. h3 Na5 17. Nd4 Rd8 18. Qf3 Nc4 19. f5 Bb7 20. g5 Ne5 21. Qg3 Bd6 22.
+Bf4 g6 23. Rae1 Nc4 24. b3 Bxf4 25. Rxf4 Nd6 26. fxg6 hxg6 27. Rf6 Rd7 28. h4
+Ne4 29. Qxc7 Rxc7 30. Bxe4 dxe4 31. Re3 Ba8 32. Kf2 Rd7 33. Kg3 Kf8 34. Kf4 Ke7
+35. Nc6+ Bxc6 36. Rxc6 Rd1 37. Rxe4+ Kf8 38. Rd4 Re1 39. Rcd6 Rbe8 40. Rd8 Rf1+
+41. Kg3 Rc1 42. Rxe8+ Kxe8 43. Rc4 Kd7 44. Kf4 Kd6 45. Ke3 Re1+ 46. Kd2 Rf1 47.
+Rd4+ Kc6 48. Kd3 Rf3+ 49. Kc4 Rf1 50. b4 Rf5 51. Re4 Kd6 52. b5 axb5+ 53. axb5
+Rf1 54. Rd4+ Ke6 55. Kd3 Rb1 56. c4 Rf1 57. Kc3 Ke7 58. Kd2 f6 59. gxf6+ Rxf6
+60. Rg4 Kd6 61. Kc3 Kc5 62. Rg5+ Kd6 63. Kd3 Rf3+ 64. Ke4 Rh3 65. Rg4 Kc5 66.
+Ke5 Rf3 67. Ke6 Rf1 68. Rxg6 Kxc4 69. Rg5 1-0

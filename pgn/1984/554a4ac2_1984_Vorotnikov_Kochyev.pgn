@@ -1,0 +1,20 @@
+[Event "White Knights"]
+[Site "Leningrad"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Vorotnikov, Vladislav V"]
+[Black "Kochyev, Alexander"]
+[Result "1/2-1/2"]
+[ECO "C26"]
+[Opening "Vienna"]
+[Variation "Paulsen-Mieses variation"]
+[HashCode "554a4ac2"]
+[Epoch "Rook"]
+[WhiteID "4103009"]
+[WhiteCountry "RUS"]
+[BlackID "4100719"]
+[BlackCountry "RUS"]
+
+1. e4 e5 2. Nc3 Nf6 3. g3 Bc5 4. d3 O-O 5. Bg2 c6 6. Nf3 d6 7. O-O Re8 8. h3
+Nbd7 9. d4 Bb4 10. Re1 h6 11. a3 exd4 12. axb4 dxc3 13. Qd4 c5 14. bxc5 dxc5
+15. Qd3 cxb2 16. Bxb2 Nb6 1/2-1/2

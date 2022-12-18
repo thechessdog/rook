@@ -1,0 +1,18 @@
+[Event "Aaronson"]
+[Site "Londen open"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Goichberg, W."]
+[Black "Raindle, I."]
+[Result "1-0"]
+[ECO "B70"]
+[Opening "Sicilian"]
+[Variation "dragon variation"]
+[HashCode "3824c704"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Bc4 Bg7 7. O-O O-O
+8. h3 a6 9. Bb3 Nc6 10. Be3 Bd7 11. f4 e6 12. Nf3 Qc7 13. Qd2 Na5 14. Rad1
+Bc6 15. Bd4 Nxb3 16. axb3 Rfe8 17. Qe3 b5 18. e5 Nd5 19. Nxd5 Bxd5 20. exd6
+Qxc2 21. Bxg7 Kxg7 22. f5 f6 23. Rc1 exf5 24. Qxe8 1-0
+

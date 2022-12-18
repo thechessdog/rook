@@ -1,0 +1,20 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Dueball, Juergen"]
+[Black "Halfdanarson, Jon"]
+[Result "1-0"]
+[ECO "C16"]
+[Opening "French"]
+[Variation "Winawer, Petrosian variation"]
+[HashCode "49e7854c"]
+[Epoch "Rook"]
+[WhiteID "4600185"]
+[BlackID "2301830"]
+[WhiteCountry "GER"]
+[BlackCountry "ISL"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 Qd7 5. a3 Bxc3+ 6. bxc3 b6 7. Qg4 f5 8. Qg3
+Ba6 9. Bxa6 Nxa6 10. Ne2 Nb8 11. Nf4 Nc6 12. Nxe6 Qxe6 13. Qxg7 Qg6 14. Qxh8
+Qxg2 15. Rf1 O-O-O 16. Qxh7 Qe4+ 17. Be3 Qxc2 18. Rc1 Qe4 19. Ke2 1-0

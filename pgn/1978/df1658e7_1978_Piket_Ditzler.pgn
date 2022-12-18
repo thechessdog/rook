@@ -1,0 +1,19 @@
+[Event "Biel"]
+[Site "Biel"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Piket"]
+[Black "Ditzler"]
+[Result "1-0"]
+[ECO "A40"]
+[Opening "Queen's pawn"]
+[Variation "Keres defence"]
+[HashCode "df1658e7"]
+[Epoch "Rook"]
+
+1. c4 b6 2. d4 e6 3. e4 Bb7 4. Bd3 f5 5. exf5 Bxg2 6. Qh5+ g6 7. fxg6 Bg7
+8. gxh7+ Kf8 9. hxg8=Q+ Kxg8 10. Qg4 Bxh1 11. Bg5 Qf8 12. h4 Nc6 13. h5
+Qb4+ 14. Nd2 Qd6 15. Ne2 e5 16. c5 bxc5 17. Bc4+ Bd5 18. Ne4 Qe6 19. Bxd5
+Qxd5 20. Nf6+ Bxf6 21. Bxf6+ Kf8 22. Qg7+ Ke8 23. Qxh8+ Kf7 24. Qg7+ Ke6
+25. Bxe5 Qh1+ 26. Kd2 1-0
+

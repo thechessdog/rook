@@ -1,0 +1,22 @@
+[Event "Bundesliga 8384"]
+[Site "Duitsland tt"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Lobron, Eric"]
+[Black "Juhnke, Karl"]
+[Result "1-0"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Byrne (English) attack"]
+[HashCode "e5b457a0"]
+[Epoch "Rook"]
+[WhiteID "4600037"]
+[WhiteCountry "GER"]
+[BlackID "4602978"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e6 7. f4 b5 8. Qf3
+Bb7 9. Bd3 Nbd7 10. g4 b4 11. Nce2 Nc5 12. Ng3 Qc7 13. g5 Nfd7 14. h4 g6 15. h5
+e5 16. hxg6 fxg6 17. Nde2 exf4 18. Nxf4 Ne5 19. Qe2 Be7 20. a3 bxa3 21. Rxa3
+O-O 22. Bc4+ Nxc4 23. Qxc4+ d5 24. exd5 Nd3+ 25. cxd3 Qxc4 26. dxc4 Bxa3 27.
+bxa3 Rac8 28. c5 Rce8 29. Kd2 Bxd5 30. Nxd5 Rd8 31. Ne4 Rxd5+ 32. Ke2 1-0

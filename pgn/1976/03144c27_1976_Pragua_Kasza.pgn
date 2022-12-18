@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Pragua, P."]
+[Black "Kasza, M."]
+[Result "1-0"]
+[ECO "C59"]
+[Opening "two knights defence"]
+[Variation "Knorre variation"]
+[HashCode "03144c27"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 Na5 6. Bb5+ c6 7. dxc6
+bxc6 8. Be2 h6 9. Nf3 e4 10. Ne5 Qc7 11. d4 Bd6 12. Bd2 Bxe5 13. dxe5 Qxe5
+14. Bc3 Qg5 15. Qd6 e3 16. Bf3 exf2+ 17. Kxf2 Be6 18. Bxa5 Ng4+ 19. Bxg4
+Qxg4 20. Qxc6+ Ke7 21. Qb7+ Kf6 22. Qf3+ 1-0
+

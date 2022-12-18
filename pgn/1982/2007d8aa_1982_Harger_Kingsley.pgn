@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Harger, D."]
+[Black "Kingsley, D."]
+[Result "1-0"]
+[ECO "B13"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik, Czerniak variation"]
+[HashCode "2007d8aa"]
+[Epoch "Rook"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 Nc6 6. Bg5 Qa5 7. Bxf6 gxf6
+8. cxd5 Nb4 9. a3 Nxd5 10. Qh5 e5 11. Bb5+ Kd8 12. Qxf7 Nxc3 13. Qxf6+ Kc7
+14. Rc1 Qxb5 15. Rxc3+ 1-0
+

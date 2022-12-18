@@ -1,0 +1,17 @@
+[Event "Dayton,OH"]
+[Site "Dayton,OH"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Holsapple, Boyd"]
+[Black "Wall, Bill"]
+[Result "0-1"]
+[ECO "B00"]
+[Opening "Owen defence"]
+[HashCode "cc0b1d0e"]
+[Epoch "Rook"]
+[BlackCountry "USA"]
+[WhiteCountry "USA"]
+
+1. e4 b6 2. f4 Bb7 3. Nc3 c5 4. d3 e6 5. Nf3 d5 6. exd5 exd5 7. Qe2+ Be7 8. d4
+Nf6 9. Be3 O-O 10. O-O-O Re8 11. Qf2 Ng4 12. Qe2 Bd6 13. Ne5 Nxe3 14. Qxe3 f6
+15. Qg3 fxe5 16. fxe5 cxd4 17. Rxd4 Bxe5 0-1

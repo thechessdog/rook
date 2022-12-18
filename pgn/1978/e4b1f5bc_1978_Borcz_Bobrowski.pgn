@@ -1,0 +1,18 @@
+[Event "Warsaw"]
+[Site "Warsaw"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Borcz"]
+[Black "Bobrowski"]
+[Result "1-0"]
+[ECO "C09"]
+[Opening "French"]
+[Variation "Tarrasch, open variation, main line"]
+[HashCode "e4b1f5bc"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. exd5 exd5 5. Ngf3 Nc6 6. Bb5 Qe7+ 7. Qe2
+Qxe2+ 8. Bxe2 Nb4 9. Bb5+ Kd8 10. Ba4 b5 11. a3 bxa4 12. axb4 cxb4 13. Ne5
+Be6 14. Rxa4 f6 15. Nd3 Rc8 16. Kd1 Rc7 17. Nb3 Bd6 18. Ra6 Kd7 19. Nbc5+
+Bxc5 20. Nxc5+ Rxc5 21. dxc5 Bf5 22. Rxa7+ 1-0
+

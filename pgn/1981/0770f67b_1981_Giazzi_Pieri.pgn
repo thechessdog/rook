@@ -1,0 +1,19 @@
+[Event "corr Italy"]
+[Site "corr Italy"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Giazzi"]
+[Black "Pieri"]
+[Result "1-0"]
+[ECO "D89"]
+[Opening "Gruenfeld"]
+[Variation "exchange, Sokolsky variation"]
+[HashCode "0770f67b"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Bc4 c5
+8. Ne2 cxd4 9. cxd4 Nc6 10. Be3 O-O 11. O-O Bg4 12. f3 Be6 13. d5 Na5 14.
+Bd3 Bxa1 15. Qxa1 f6 16. Rb1 b6 17. Bh6 Re8 18. e5 Qxd5 19. exf6 Kf7 20.
+fxe7 Rxe7 21. Qg7+ Ke8 22. Qf8+ Kd7 23. Bb5+ Nc6 24. Qxa8 Bf5 25. Bxc6+
+Qxc6 26. Rd1+ 1-0
+

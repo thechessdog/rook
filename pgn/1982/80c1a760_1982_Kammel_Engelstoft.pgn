@@ -1,0 +1,18 @@
+[Event "corr DDR/FS"]
+[Site "corr DDR/FS"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Kammel, H."]
+[Black "Engelstoft, J."]
+[Result "1-0"]
+[ECO "C17"]
+[Opening "French"]
+[Variation "Winawer, advance, Russian variation"]
+[HashCode "80c1a760"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. Qg4 Ne7 6. Nf3 cxd4 7. Nxd4 Qc7 8.
+Bb5+ Bd7 9. O-O Bxc3 10. bxc3 Nbc6 11. Bxc6 Bxc6 12. Ba3 O-O 13. f4 Rfe8
+14. Bxe7 Qxe7 15. f5 g6 16. fxe6 fxe6 17. Rf6 Bd7 18. Raf1 Rf8 19. Qg5 Rxf6
+20. exf6 Qf7 21. Nf3 1-0
+

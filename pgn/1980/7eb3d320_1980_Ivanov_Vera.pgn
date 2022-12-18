@@ -1,0 +1,20 @@
+[Event "Capablanca mem-B"]
+[Site "Cienfuegos"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Ivanov, Igor Vasilyevich"]
+[Black "Vera Gonzalez-Quevedo, Reynaldo"]
+[Result "0-1"]
+[ECO "B92"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Opovcensky variation"]
+[HashCode "7eb3d320"]
+[Epoch "Rook"]
+[WhiteCountry "RUS"]
+[BlackCountry "CUB"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8. O-O
+O-O 9. Kh1 b6 10. a4 Nbd7 11. Bc4 Bb7 12. Qe2 Nxe4 13. Nxe4 d5 14. Bd3 dxe4 15.
+Bxe4 Bxe4 16. Qxe4 f5 17. Qc4+ Kh8 18. Rd1 Qe8 19. c3 Rd8 20. Re1 f4 21. Nd2
+Nc5 22. Ne4 Nd3 23. Rf1 f3 24. Qe6 fxg2+ 25. Kxg2 Qh5 26. f3 Ne1+ 27. Kh1 Nxf3
+28. h3 Rf4 0-1

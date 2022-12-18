@@ -1,0 +1,17 @@
+[Event "Reykjavik op"]
+[Site "Reykjavik"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Karlsson, Hilmar"]
+[Black "Fridjonsson, Joffus"]
+[Result "1-0"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "5f98b5b2"]
+[Epoch "Rook"]
+
+1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. d4 Nc6 5. Nf3 Bg4 6. Be2 cxd4 7. cxd4 e6 8.
+O-O Nf6 9. Nc3 Qd6 10. Nb5 Qd8 11. Bf4 Rc8 12. h3 Bh5 13. Ne5 Bxe2 14. Qxe2 Nd5
+15. Bg3 Qb6 16. Rac1 a6 17. Nd6+ Bxd6 18. Nc4 Nxd4 19. Nxd6+ Qxd6 20. Rxc8+ Kd7
+21. Qd1 1-0

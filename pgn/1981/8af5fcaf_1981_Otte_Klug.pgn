@@ -1,0 +1,20 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Otte"]
+[Black "Klug"]
+[Result "0-1"]
+[ECO "A52"]
+[Opening "Budapest"]
+[Variation "Adler variation"]
+[HashCode "8af5fcaf"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ng4 4. Nf3 Bc5 5. e3 Nc6 6. Be2 Ngxe5 7. Nc3 O-O
+8. O-O d6 9. b3 a6 10. Bb2 f5 11. Nd5 Nxf3+ 12. Bxf3 Ne5 13. Qe2 c6 14. Nf4
+Qe7 15. Rad1 g5 16. Nh5 g4 17. Kh1 Bd7 18. Rg1 Kf7 19. b4 Bb6 20. c5 Ba7
+21. Rxd6 Rad8 22. Qc2 Ke8 23. Be2 Bb8 24. Rd2 Qf7 25. Ng3 Qxa2 26. f4 gxf3
+27. gxf3 Be6 28. Nh5 Rxd2 29. Qxd2 Bd5 30. Ng7+ Kf7 31. Nxf5 Nxf3 32. Rg7+
+Ke8 33. Re7+ Kd8 34. Bxf3 Rxf5 35. e4 Rxf3 36. exd5 Qb1+ 37. Re1 Rf1+ 0-1
+

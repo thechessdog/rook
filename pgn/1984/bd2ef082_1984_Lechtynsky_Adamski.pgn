@@ -1,0 +1,20 @@
+[Event "Smederevska Palanka"]
+[Site "Smederevska Palanka"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Lechtynsky, Jiri"]
+[Black "Adamski, Jan"]
+[Result "1/2-1/2"]
+[ECO "D27"]
+[Opening "QGA"]
+[Variation "classical, 6...a6"]
+[HashCode "bd2ef082"]
+[Epoch "Rook"]
+[WhiteID "300217"]
+[WhiteCountry "CZE"]
+[BlackID "1100190"]
+[BlackCountry "POL"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. e3 e6 5. Bxc4 c5 6. O-O a6 7. Nc3 b5 8. Bb3
+Bb7 9. Qe2 Nbd7 10. Rd1 Qb6 11. a3 Rd8 12. Bc2 Be7 13. dxc5 Bxc5 14. b4 Bd6 15.
+Bb2 O-O 1/2-1/2

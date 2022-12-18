@@ -1,0 +1,21 @@
+[Event "Kuibyshev"]
+[Site "Kuibyshev"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Piesina, Gintautas"]
+[Black "Makarov, Marat"]
+[Result "1-0"]
+[ECO "D02"]
+[Opening "Queen's pawn game"]
+[HashCode "bd3f43e9"]
+[Epoch "Rook"]
+[WhiteCountry "LTU"]
+[BlackID "4101103"]
+[BlackCountry "RUS"]
+
+1. Nf3 d5 2. d4 Nf6 3. c4 e6 4. g3 Nbd7 5. Bg2 dxc4 6. O-O c6 7. a4 a5 8. Nbd2
+b5 9. Ne5 Nxe5 10. dxe5 Nd5 11. Ne4 b4 12. Qd4 Ba6 13. Bg5 Qd7 14. Nd6+ Bxd6
+15. exd6 f6 16. e4 Ne7 17. Be3 Ng6 18. Rfd1 Ne5 19. Qb6 O-O 20. Bf1 Rfc8 21.
+Bc5 Bb7 22. f4 Nf3+ 23. Kg2 Ra6 24. Qxb7 Qxb7 25. Bxc4 Rd8 26. Kxf3 Kh8 27.
+Bxe6 Raa8 28. Rd2 Rd7 29. Re1 Re8 30. Bc4 Rf8 31. Kg2 h5 32. e5 fxe5 33. fxe5
+Rf5 34. e6 Rxc5 35. e7 1-0

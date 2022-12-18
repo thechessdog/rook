@@ -1,0 +1,17 @@
+[Event "Plymouth ch-MI op"]
+[Site "Plymouth ch-MI op"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Fraser, T."]
+[Black "Brattin, V."]
+[Result "0-1"]
+[ECO "C61"]
+[Opening "Ruy Lopez"]
+[Variation "Bird's defence"]
+[HashCode "2926bd4f"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nd4 4. Nxd4 exd4 5. d3 Bc5 6. Nd2 Ne7 7. Nf3 Ng6
+8. Bg5 f6 9. Bd2 O-O 10. O-O d6 11. a4 Ne5 12. b4 a6 13. Bxa6 Rxa6 14. bxc5
+dxc5 15. Kh1 Qe8 16. a5 Bg4 17. h3 Qh5 18. Kg1 Nxf3+ 19. gxf3 Bxf3 0-1
+

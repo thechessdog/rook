@@ -1,0 +1,17 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Van Rein"]
+[Black "Steffan"]
+[Result "1-0"]
+[ECO "A18"]
+[Opening "English"]
+[Variation "Mikenas-Carls, Flohr variation"]
+[HashCode "5fed84c7"]
+[Epoch "Rook"]
+
+1. c4 Nf6 2. Nc3 e6 3. e4 d5 4. e5 d4 5. exf6 dxc3 6. bxc3 Qxf6 7. d4 c5 8.
+Nf3 h6 9. Bd3 Nc6 10. O-O Be7 11. Qe2 b6 12. Bb2 Qf4 13. Rad1 Qc7 14. Rfe1
+Bd7 15. d5 Nd8 16. Ne5 O-O 17. dxe6 Ba4 18. exf7+ 1-0
+

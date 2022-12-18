@@ -1,0 +1,22 @@
+[Event "Berkeley"]
+[Site "Berkeley"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Spargo, J."]
+[Black "Hobbs, R."]
+[Result "0-1"]
+[ECO "A02"]
+[Opening "Bird"]
+[Variation "Hobbs gambit"]
+[HashCode "5a6a60bb"]
+[Epoch "Rook"]
+
+1. f4 g5 2. fxg5 e5 3. d3 h6 4. Nf3 Nc6 5. e4 hxg5 6. Bxg5 f6 7. Be3 Nh6 8.
+Nc3 Ng4 9. Bd2 Bc5 10. Qe2 Bf2+ 11. Kd1 d6 12. Nd5 Nd4 13. Nxd4 Bxd4 14.
+Be3 Bxb2 15. Rb1 Bd4 16. Bxd4 exd4 17. Qf3 c6 18. Nf4 Ne3+ 19. Kc1 Qa5 20.
+Qg3 Bg4 21. Be2 Qxa2 22. Rb2 Qa1+ 23. Rb1 Qc3 24. Rb2 Rg8 25. Bxg4 Rxg4 26.
+Qh3 O-O-O 27. Qh7 b5 28. Ne2 Qc5 29. g3 a5 30. Qf7 Qg5 31. Qe6+ Kc7 32. Kb1
+Qe5 33. Qa2 b4 34. Rxb4 axb4 35. Qa7+ Kc8 36. Qa8+ Kd7 37. Qb7+ Ke6 38. Qb6
+Qc5 39. Nxd4+ Kf7 40. Qxd8 Rg8 41. Qd7+ Kg6 42. Qe6 Ra8 43. h4 Qxd4 44. h5+
+Kg5 0-1
+

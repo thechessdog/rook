@@ -1,0 +1,21 @@
+[Event "Riga"]
+[Site "Riga"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Shustev"]
+[Black "Lukan"]
+[Result "1-0"]
+[ECO "D85"]
+[Opening "Gruenfeld"]
+[Variation "modern exchange variation"]
+[HashCode "c32f5a58"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Nf3 c5
+8. Be3 O-O 9. Rc1 Qa5 10. Qd2 Rd8 11. d5 Bg4 12. c4 Qa3 13. Qc2 Bxf3 14.
+gxf3 Na6 15. Qb3 Qa5+ 16. Bd2 Qc7 17. f4 Bh6 18. e5 f6 19. Bh3 fxe5 20.
+Be6+ Kh8 21. h4 exf4 22. Bc3+ Bg7 23. Qb2 Bf6 24. h5 g5 25. h6 Rf8 26. Rg1
+f3 27. Rxg5 Qf4 28. Rf5 Qe4+ 29. Kd1 Bd4 30. Qc2 Qh4 31. Qd2 Nc7 32. Bf7 e5
+33. dxe6 Rfd8 34. Kc2 Nxe6 35. Bxe6 Qe4+ 36. Kb3 Qxe6 37. Rxc5 Qf6 38. Rf5
+Qb6+ 39. Kc2 Rac8 40. Rf8+ 1-0
+

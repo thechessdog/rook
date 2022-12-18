@@ -1,0 +1,17 @@
+[Event "corr Italy"]
+[Site "corr Italy"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Fremiotti"]
+[Black "Celli"]
+[Result "1-0"]
+[ECO "C33"]
+[Opening "KGA"]
+[Variation "bishop's gambit, Jaenisch variation"]
+[HashCode "cbff930f"]
+[Epoch "Rook"]
+
+1. e4 e5 2. f4 exf4 3. Bc4 Nf6 4. Nc3 c6 5. d4 Bb4 6. e5 Ne4 7. Qf3 d5 8.
+exd6 Nxd6 9. Bd3 Nf5 10. Ne2 g5 11. Bd2 Be6 12. O-O-O Nxd4 13. Nxd4 Qxd4
+14. Nb5 Bxd2+ 15. Rxd2 Qb6 16. Nd6+ Kf8 17. Qh5 h6 18. Re1 Qc7 19. Rxe6 1-0
+

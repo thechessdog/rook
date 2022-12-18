@@ -1,0 +1,21 @@
+[Event "Hoogovens-B"]
+[Site "Wijk aan Zee II"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Kindermann, Stefan"]
+[Black "Ligterink, Gert"]
+[Result "0-1"]
+[ECO "E42"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5, 5.Ne2 (Rubinstein)"]
+[HashCode "e8c9256c"]
+[Epoch "Rook"]
+[WhiteID "4600053"]
+[WhiteCountry "AUT"]
+[BlackID "1000179"]
+[BlackCountry "NED"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Ne2 cxd4 6. exd4 O-O 7. a3 Be7 8. d5
+exd5 9. cxd5 Re8 10. d6 Bf8 11. g3 Re6 12. Bg2 Rxd6 13. Qc2 Re6 14. O-O d5 15.
+Rd1 Nc6 16. Bg5 d4 17. Nb5 Re5 18. Bxf6 Qxf6 19. Nbxd4 Bc5 20. Bxc6 bxc6 21. b4
+Bb6 22. Nf4 Bg4 23. Nxc6 Re2 0-1

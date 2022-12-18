@@ -1,0 +1,15 @@
+[Event "North Wilkesboro,NC"]
+[Site "North Wilkesboro,NC"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Cagle, Jim"]
+[Black "Wall, Bill"]
+[Result "0-1"]
+[ECO "B01"]
+[Opening "Scandinavian (centre counter) defence"]
+[HashCode "55f12b22"]
+[Epoch "Rook"]
+[BlackCountry "USA"]
+
+1. e4 d5 2. exd5 e6 3. dxe6 Bxe6 4. d4 Nf6 5. Nc3 Bd6 6. d5 Nxd5 7. Nxd5 Bxd5
+8. Qxd5 Bb4+ 0-1

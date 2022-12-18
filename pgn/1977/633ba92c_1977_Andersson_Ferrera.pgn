@@ -1,0 +1,18 @@
+[Event "Cienfuegos"]
+[Site "Cienfuegos"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Andersson, Ulf"]
+[Black "Ferrera, Benjamin"]
+[Result "1-0"]
+[ECO "A00"]
+[Opening "Benko's opening"]
+[HashCode "633ba92c"]
+[Epoch "Rook"]
+[WhiteID "1700014"]
+[WhiteCountry "SWE"]
+[BlackID "2009188"]
+[BlackCountry "USA"]
+
+1. g3 e5 2. Bg2 d5 3. d3 f5 4. c4 d4 5. Nf3 Bb4+ 6. Nbd2 e4 7. Qa4+ Nc6 8. Ne5
+Qd6 9. Nxc6 Bd7 1-0

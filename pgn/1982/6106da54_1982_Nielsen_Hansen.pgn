@@ -1,0 +1,16 @@
+[Event "Vejle"]
+[Site "Vejle"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Fries-Nielsen, Niels Jorgen"]
+[Black "Hansen, Jacob Brendstrup"]
+[Result "1/2-1/2"]
+[ECO "A45"]
+[Opening "Trompovsky attack (Ruth, Opovcensky opening)"]
+[HashCode "6106da54"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. Bg5 d6 3. Bxf6 exf6 4. e3 g6 5. c4 Bg7 6. Nc3 O-O 7. g3 Re8 8. Bg2
+Nc6 9. Nge2 Bg4 10. h3 Bxe2 11. Nxe2 f5 12. O-O Qd7 13. Rb1 a5 14. b3 Ra7 15.
+Nc3 Rea8 16. a3 Nd8 17. Qc2 c6 18. Rfd1 Qe7 19. Re1 Qf6 20. Rbd1 Ne6 21. Na4
+Nc7 22. Kh2 Ra6 1/2-1/2

@@ -1,0 +1,17 @@
+[Event "Omaha"]
+[Site "Omaha"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Holm Petersen, Sejer"]
+[Black "Rochelle, J."]
+[Result "1-0"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Paulsen attack"]
+[HashCode "620ae0f6"]
+[Epoch "Rook"]
+[WhiteCountry "DNK"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Be2 cxd4 7. cxd4 Bb4+ 8. Nc3
+Nge7 9. O-O Nf5 10. Be3 Bd7 11. a3 Nxe3 12. fxe3 Bxc3 13. bxc3 Na5 14. Ng5 O-O
+15. Bd3 g6 16. Qf3 Qd8 17. Qg3 f6 18. Nxh7 1-0

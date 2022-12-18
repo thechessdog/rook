@@ -1,0 +1,23 @@
+[Event "corr Volmac"]
+[Site "corr Volmac"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Van Perlo, G."]
+[Black "Timmerman, G."]
+[Result "1/2-1/2"]
+[ECO "C85"]
+[Opening "Ruy Lopez"]
+[Variation "Exchange variation doubly deferred (DERLD)"]
+[HashCode "137e6754"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Bxc6 dxc6 7. d3 Nd7
+8. Nbd2 O-O 9. Nc4 f6 10. Nh4 Nc5 11. Nf5 Bxf5 12. exf5 Qd7 13. Qg4 b6 14.
+Ne3 Nb7 15. Qh5 Bc5 16. f3 Nd6 17. g4 Nb5 18. Kg2 a5 19. Re1 a4 20. Bd2 a3
+21. b3 Bd4 22. Rad1 Bc3 23. Bxc3 Nxc3 24. Ra1 Qd4 25. Qh4 Rfd8 26. Qf2 Qc5
+27. h4 Rd4 28. g5 Rf4 29. Ng4 Qxf2+ 30. Kxf2 Rf8 31. gxf6 gxf6 32. Rg1 Kh8
+33. Rg2 h5 34. Nh6 Rd4 35. Rag1 Rd7 36. Rg6 b5 37. Ng8 Nd5 38. c4 Nf4 39.
+Nxf6 Rxf6 40. Rxf6 Nh3+ 41. Kf1 Nxg1 42. Kxg1 Rxd3 43. Rxc6 bxc4 44. Rxc4
+Kg7 45. Rxc7+ Kf6 46. Ra7 Rd1+ 47. Kf2 Rd2+ 48. Ke3 Rxa2 49. Ke4 Re2+ 50.
+Kd3 Rh2 51. Rxa3 Rxh4 52. Ra4 Rh1 53. f4 Kxf5 1/2-1/2
+

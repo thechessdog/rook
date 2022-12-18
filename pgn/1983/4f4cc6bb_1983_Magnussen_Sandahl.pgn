@@ -1,0 +1,19 @@
+[Event "Frederiksberg"]
+[Site "Frederiksberg"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Magnussen, Magnus"]
+[Black "Sandahl, Jan"]
+[Result "1-0"]
+[ECO "B25"]
+[Opening "Sicilian"]
+[Variation "closed"]
+[HashCode "4f4cc6bb"]
+[Epoch "Rook"]
+[BlackID "1441574"]
+[BlackCountry "DEN"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 d6 4. Bg2 g6 5. d3 Bg7 6. Nge2 Nf6 7. O-O a6 8. Be3
+O-O 9. Qc1 Rb8 10. Bh6 b5 11. Bxg7 Kxg7 12. f4 Bb7 13. f5 b4 14. Nd1 Nd4 15.
+Nf4 Qc8 16. c3 bxc3 17. bxc3 Nb5 18. a4 Nc7 19. Bh3 Qe8 20. g4 e5 21. Nh5+ Nxh5
+22. gxh5 gxh5 23. Qg5+ Kh8 24. Qf6+ Kg8 25. Rf2 Qxa4 26. Rg2# 1-0

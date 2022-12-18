@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Kazincky"]
+[Black "Myry"]
+[Result "1-0"]
+[ECO "C22"]
+[Opening "Centre game"]
+[Variation "Berger variation"]
+[HashCode "0fe21b0e"]
+[Epoch "Rook"]
+
+1. e4 e5 2. d4 exd4 3. Qxd4 Nc6 4. Qe3 Nf6 5. Nc3 Bb4 6. Bd2 O-O 7. O-O-O
+Re8 8. Bc4 d6 9. f3 Ne5 10. Bd3 Be6 11. g4 Nc4 12. Bxc4 Bxc4 13. g5 Bc5 14.
+Qf4 Nd7 15. h4 b5 16. b3 Ba3+ 17. Kb1 b4 18. Nd5 Bxd5 19. exd5 a5 20. h5 f6
+21. Nh3 fxg5 22. Nxg5 Qf6 23. Qxf6 Nxf6 24. Bf4 h6 25. Nh3 Nxh5 26. Rdg1
+Nxf4 27. Nxf4 Kh7 28. Ne6 Re7 29. f4 c5 30. f5 Kh8 31. Rg6 Rg8 32. f6 1-0
+

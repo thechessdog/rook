@@ -1,0 +1,18 @@
+[Event "corr ch-DDR"]
+[Site "corr ch-DDR"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Mittag"]
+[Black "Becher"]
+[Result "1/2-1/2"]
+[ECO "C93"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Smyslov defence"]
+[HashCode "37163f5e"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8.
+c3 O-O 9. h3 h6 10. d4 Re8 11. Nbd2 Bf8 12. Nf1 Bd7 13. Ng3 a5 14. a4 bxa4
+15. Bxa4 exd4 16. cxd4 Nb4 17. Bd2 c5 18. dxc5 dxc5 19. Bxd7 Qxd7 20. Bc3
+Qxd1 21. Raxd1 1/2-1/2
+

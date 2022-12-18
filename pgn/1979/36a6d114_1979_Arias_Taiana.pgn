@@ -1,0 +1,18 @@
+[Event "corr ch8-ARG"]
+[Site "corr ch8-ARG"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Arias, Alberto"]
+[Black "Taiana, Domingo"]
+[Result "0-1"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Lipnitzky attack"]
+[HashCode "36a6d114"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Nde2 Nc6
+8. O-O Be7 9. Re1 O-O 10. a3 Qc7 11. Ba2 Bd7 12. Ng3 Rac8 13. Bg5 Rfd8 14.
+Nh5 Nxh5 15. Bxe7 Nxe7 16. Qxh5 Bc6 17. Rad1 b5 18. Re3 d5 19. Rh3 h6 20.
+Rdd3 dxe4 21. Rdg3 Nf5 22. Rg5 Qf4 0-1
+

@@ -1,0 +1,19 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Fiensch"]
+[Black "Hendriksen"]
+[Result "1-0"]
+[ECO "C06"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation, main line"]
+[HashCode "86297180"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Bd3 c5 6. c3 Nc6 7. Ne2 cxd4 8.
+cxd4 f6 9. exf6 Nxf6 10. Nf3 Bd6 11. O-O Qc7 12. Nc3 a6 13. Bg5 O-O 14. Re1
+Ng4 15. g3 Qf7 16. Be2 e5 17. dxe5 Ncxe5 18. Bf4 Nxf2 19. Nxe5 Nh3+ 20. Kh1
+Bxe5 21. Qxd5 Bd7 22. Bf3 Bxf4 23. Re7 Bc6 24. Rxf7 Bxd5 25. Rxf8+ Kxf8 26.
+Bxd5 Be5 27. Rf1+ Bf6 28. Ne4 1-0
+

@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Horvath, Sandor"]
+[Black "Edelstein, M."]
+[Result "0-1"]
+[ECO "E26"]
+[Opening "Nimzo-Indian"]
+[Variation "Saemisch variation"]
+[HashCode "0aa29e48"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. a3 Bxc3+ 5. bxc3 c5 6. e3 Nc6 7. Bd3 e5 8. d5
+e4 9. dxc6 exd3 10. cxb7 Bxb7 11. Nf3 Be4 12. Nh4 h6 13. O-O O-O 14. f3 Bb7 15.
+e4 Nxe4 16. fxe4 Qxh4 17. Qxd3 Bxe4 18. Qxd7 Rad8 19. Qxa7 Qg4 20. Ra2 Bd3 21.
+Re1 Bxc4 22. Rb2 Rd1 0-1

@@ -1,0 +1,27 @@
+[Event "BL2-N 8081"]
+[Site "BL2-N 8081"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Stein, Bernd"]
+[Black "Sprotte, Norbert"]
+[Result "1-0"]
+[ECO "C18"]
+[Opening "French"]
+[Variation "Winawer, advance variation"]
+[HashCode "0ef5c3c8"]
+[Epoch "Rook"]
+[WhiteID "4600711"]
+[WhiteCountry "GER"]
+[BlackID "4607015"]
+[BlackCountry "GER"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Qa5 7. Bd2 Qa4 8. Qb1
+a6 9. Qb3 Qxb3 10. cxb3 cxd4 11. cxd4 Nc6 12. Bc3 Nge7 13. Bd3 O-O 14. Ne2 Bd7
+15. O-O Rfc8 16. Rac1 a5 17. a4 h6 18. f4 g6 19. g4 Kg7 20. h4 Nb4 21. Bxb4
+axb4 22. Rxc8 Rxc8 23. Rc1 Nc6 24. Kf2 Na5 25. Rxc8 Bxc8 26. Nc1 Bd7 27. Ke3
+Kf8 28. Kd2 Ke7 29. Kc2 Nc6 30. Ne2 b6 31. Kd2 Na5 32. Bc2 b5 33. axb5 Bxb5 34.
+Ng3 Bd7 35. h5 Be8 36. g5 Kf8 37. hxg6 fxg6 38. gxh6 Kg8 39. Nh1 Kh7 40. Nf2
+Kxh6 41. Nd3 Nc6 42. Ke3 g5 43. fxg5+ Kxg5 44. Nc5 Nd8 45. Bd3 Bh5 46. Bb5 Bd1
+47. Ba4 Kf5 48. Nd3 Nb7 49. Kd2 Bh5 50. Nxb4 Ke4 51. Kc3 Na5 52. Nc6 Nb7 53. b4
+Be2 54. Na5 Nd8 55. Bd7 Nf7 56. Bxe6 Ng5 57. Bd7 Ke3 58. Nb3 Ne4+ 59. Kb2 Bd1
+60. b5 Bxb3 61. b6 1-0

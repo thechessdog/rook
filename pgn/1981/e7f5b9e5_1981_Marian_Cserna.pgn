@@ -1,0 +1,23 @@
+[Event "Hamburg op"]
+[Site "Hamburg"]
+[Date "1981.??.??"]
+[Round "7"]
+[White "Marian, R."]
+[Black "Cserna, Laszlo"]
+[Result "0-1"]
+[ECO "B26"]
+[Opening "Sicilian"]
+[Variation "closed, 6.Be3"]
+[HashCode "e7f5b9e5"]
+[Epoch "Rook"]
+[BlackCountry "HUN"]
+
+1. e4 c5 2. Nc3 d6 3. g3 Nc6 4. Bg2 g6 5. d3 Bg7 6. Be3 Rb8 7. Qd2 b5 8. Nd1 e6
+9. Nh3 b4 10. O-O Nge7 11. Bh6 O-O 12. Bxg7 Kxg7 13. f4 f6 14. f5 exf5 15. exf5
+Bxf5 16. Rxf5 gxf5 17. Nf4 Qc8 18. Ne3 Kh8 19. Re1 Qd7 20. c3 bxc3 21. bxc3 Ne5
+22. d4 cxd4 23. cxd4 N5g6 24. Nxg6+ hxg6 25. Nc4 Ng8 26. Bd5 Rfe8 27. Rc1 Kg7
+28. Na5 Ne7 29. Bc6 Nxc6 30. Nxc6 Rbc8 31. d5 Re4 32. Rb1 Rxc6 33. dxc6 Qxc6
+34. Rd1 Qc5+ 35. Qf2 Qxf2+ 36. Kxf2 Ra4 37. Rxd6 Rxa2+ 38. Kf3 g5 39. h3 Ra3+
+40. Kg2 Kg6 41. Rd7 a5 42. Ra7 a4 43. Rb7 Rb3 44. Ra7 a3 45. Kf2 Rb2+ 46. Kf3
+a2 47. g4 f4 48. Ra8 Rh2 49. Ke4 Rxh3 50. Rg8+ Kf7 51. Ra8 Re3+ 52. Kf5 Re5#
+0-1

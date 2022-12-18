@@ -1,0 +1,16 @@
+[Event "Yugoslavia"]
+[Site "Yugoslavia"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Velimirovic, Dragoljub"]
+[Black "Marangunic"]
+[Result "1-0"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, dragon formation"]
+[HashCode "ecbe4833"]
+[Epoch "Rook"]
+[WhiteCountry "SRB"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. f4 Nf6 5. Nf3 c5 6. e5 Nfd7 7. dxc5 dxe5 8.
+fxe5 Nc6 9. e6 fxe6 10. Ng5 Nd4 11. Be3 Nf5 12. Nxe6 Bxc3+ 13. Bd2 1-0

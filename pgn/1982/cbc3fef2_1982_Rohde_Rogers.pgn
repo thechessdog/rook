@@ -1,0 +1,21 @@
+[Event "Philadelphia"]
+[Site "Philadelphia"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Rohde, Michael"]
+[Black "Rogers, Ian"]
+[Result "0-1"]
+[ECO "D80"]
+[Opening "Gruenfeld"]
+[Variation "Stockholm variation"]
+[HashCode "cbc3fef2"]
+[Epoch "Rook"]
+[BlackID "3200019"]
+[BlackCountry "AUS"]
+[WhiteID "2000172"]
+[WhiteCountry "USA"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Bg5 Ne4 5. Bh4 Nxc3 6. bxc3 c5 7. e3 Nc6 8. Qb3
+Be6 9. Qxb7 Rc8 10. Nf3 Bg7 11. Ng5 O-O 12. Nxe6 fxe6 13. cxd5 cxd4 14. Bb5
+Qxd5 15. cxd4 Qxg2 16. Rf1 Bxd4 17. Rc1 Bb6 18. Bxc6 Qg4 19. Qa6 Qb4+ 20. Ke2
+Qb2+ 21. Kd3 Rcd8+ 22. Ke4 Rd4+ 23. exd4 Qxd4# 0-1

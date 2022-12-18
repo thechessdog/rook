@@ -1,0 +1,17 @@
+[Event "Wurttemberg"]
+[Site "Wurttemberg"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Soelch, H."]
+[Black "Eisele, Steffen"]
+[Result "1/2-1/2"]
+[ECO "D34"]
+[Opening "QGD"]
+[Variation "Tarrasch, Prague variation, Normal position"]
+[HashCode "98f307c4"]
+[Epoch "Rook"]
+[BlackID "4629779"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. Nf3 e6 3. g3 c5 4. c4 d5 5. cxd5 exd5 6. Bg2 Nc6 7. Nc3 Be7 8. O-O
+O-O 1/2-1/2

@@ -1,0 +1,18 @@
+[Event "MOTCF,OH"]
+[Site "MOTCF,OH"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Burchfield"]
+[Black "Scales"]
+[Result "0-1"]
+[ECO "C58"]
+[Opening "two knights defence"]
+[Variation "Kieseritsky variation"]
+[HashCode "ae04a7a3"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 Na5 6. d3 Nxc4 7. dxc4 h6
+8. Nf3 e4 9. Nfd2 Bb4 10. O-O O-O 11. a3 Bd6 12. g3 Re8 13. Re1 Bg4 14. f3
+Bc5+ 15. Kg2 exf3+ 16. Nxf3 Ne4 17. Be3 Bxe3 18. Rxe3 Ng5 19. Rxe8+ Qxe8
+20. Nbd2 Qe3 21. Qf1 Bh3+ 0-1
+

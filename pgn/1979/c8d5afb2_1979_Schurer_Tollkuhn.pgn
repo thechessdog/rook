@@ -1,0 +1,20 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Schurer"]
+[Black "Tollkuhn"]
+[Result "1-0"]
+[ECO "C36"]
+[Opening "KGA"]
+[Variation "Abbazia defence, modern variation"]
+[HashCode "c8d5afb2"]
+[Epoch "Rook"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 d5 4. exd5 Nf6 5. c4 c6 6. Nc3 cxd5 7. cxd5 Nxd5
+8. Qe2+ Be6 9. Qb5+ Qd7 10. Ne5 Qxb5 11. Bxb5+ Ke7 12. O-O g5 13. Re1 Nxc3
+14. bxc3 a6 15. Ba4 Kf6 16. Bb2 Bc5+ 17. d4 Ba7 18. Bb3 Nd7 19. Kh1 Nxe5
+20. Rxe5 Bb8 21. Ree1 Bd7 22. d5 Re8 23. Rxe8 Bxe8 24. c4+ Kg6 25. Ba3 Be5
+26. Rd1 b5 27. c5 a5 28. c6 b4 29. Bc1 f5 30. Rd2 a4 31. Bc4 Rd8 32. Kg1
+Bf7 33. Bb2 Kf6 34. c7 1-0
+

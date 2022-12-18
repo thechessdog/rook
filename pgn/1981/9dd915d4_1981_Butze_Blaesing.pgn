@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Butze, Roland"]
+[Black "Blaesing, B."]
+[Result "1-0"]
+[ECO "E56"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line with 7...Nc6"]
+[HashCode "9dd915d4"]
+[Epoch "Rook"]
+[WhiteCountry "DEU"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 c5 6. Nf3 d5 7. O-O Nc6 8. a3
+Ba5 9. cxd5 exd5 10. dxc5 Bxc3 11. bxc3 Bg4 12. a4 Re8 13. Ba3 Ne4 14. Qc2 Re6
+15. Nd4 Rh6 16. f3 Qh4 17. g3 Nxg3 18. hxg3 Qxg3+ 19. Qg2 Qxg2+ 20. Kxg2 Bh3+
+21. Kg3 Bxf1 22. Rxf1 Ne5 23. Be2 Rf6 24. Rb1 b6 25. f4 bxc5 26. fxe5 Rg6+ 27.
+Kf2 cxd4 28. exd4 h6 29. Bf3 Ra6 30. Bxd5 Rd8 31. Bd6 Rxa4 32. Rb7 1-0

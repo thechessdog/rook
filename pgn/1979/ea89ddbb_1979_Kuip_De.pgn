@@ -1,0 +1,17 @@
+[Event "The Hague"]
+[Site "The Hague"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Kuip"]
+[Black "De Vries, Sylvia"]
+[Result "1-0"]
+[ECO "C01"]
+[Opening "French"]
+[Variation "exchange variation"]
+[HashCode "ea89ddbb"]
+[Epoch "Rook"]
+[BlackID "1001639"]
+[BlackCountry "NED"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. c4 dxc4 5. Bxc4 Nf6 6. Nf3 Bg4 7. Bxf7+ Kxf7
+8. Ne5+ Kg8 9. Nxg4 Bd6 1-0

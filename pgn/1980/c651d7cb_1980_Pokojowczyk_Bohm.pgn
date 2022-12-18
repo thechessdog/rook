@@ -1,0 +1,22 @@
+[Event "Rubinstein Memorial"]
+[Site "Polancia Zdroj"]
+[Date "1980.08.01"]
+[Round "2"]
+[White "Pokojowczyk, Jerzy"]
+[Black "Bohm, Hans"]
+[Result "1-0"]
+[ECO "C80"]
+[Opening "Ruy Lopez"]
+[Variation "open, Bernstein variation, Karpov gambit"]
+[HashCode "c651d7cb"]
+[Epoch "Rook"]
+[WhiteID "1100718"]
+[WhiteCountry "POL"]
+[BlackID "1000306"]
+[BlackCountry "NED"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Be6 9. Nbd2 Nc5 10. c3 d4 11. Ng5 Qxg5 12. Qf3 Kd7 13. Bd5 Bxd5 14. Qxd5+ Bd6
+15. Nc4 Qg6 16. exd6 Nd3 17. Nd2 cxd6 18. cxd4 Nf4 19. Qf3 Nxd4 20. Qb7+ Ke6
+21. Nb3 Nde2+ 22. Kh1 Rab8 23. Qf3 Qd3 24. Be3 f5 25. Rfe1 Kd7 26. Rad1 Qc4 27.
+Bxf4 1-0

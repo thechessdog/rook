@@ -1,0 +1,26 @@
+[Event "Berlin"]
+[Site "Berlin"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Gheorghiu, Florin"]
+[Black "Schandorff, Lars"]
+[Result "1-0"]
+[ECO "D58"]
+[Opening "QGD"]
+[Variation "Tartakower (Makagonov-Bondarevsky) system"]
+[HashCode "3f7c3dc1"]
+[Epoch "Rook"]
+[WhiteID "1200011"]
+[WhiteCountry "ROU"]
+[BlackID "1400070"]
+[BlackCountry "DEN"]
+
+1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. Bg5 Be7 5. Nc3 h6 6. Bh4 O-O 7. e3 b6 8. Bd3
+Bb7 9. O-O Nbd7 10. Qe2 c5 11. Rfd1 Ne4 12. Bg3 Nxg3 13. hxg3 cxd4 14. Nxd4 a6
+15. cxd5 exd5 16. Bf5 g6 17. Bxd7 Qxd7 18. Qf3 Rfd8 19. Rd3 Qc7 20. Rad1 Rac8
+21. Nce2 Qe5 22. Qf4 Qg7 23. Nc3 b5 24. a3 Bd6 25. Qf3 Be5 26. Nce2 Rc4 27. b4
+Qf8 28. Nb3 Ba8 29. Ned4 Rdc8 30. Nc5 Qd6 31. Qg4 Rd8 32. Qe2 Qb6 33. Ndb3 Re8
+34. Nd7 Qd6 35. Nxe5 Qxe5 36. Rd4 Rec8 37. Nc5 a5 38. Qd2 Bc6 39. Nb3 axb4 40.
+axb4 Ra8 41. Na5 Rxd4 42. exd4 Qd6 43. Qxh6 Bd7 44. Qd2 Re8 45. Nb7 Qe7 46. Nc5
+Bg4 47. f3 Bf5 48. Kf2 g5 49. g4 Bg6 50. Re1 Qxe1+ 51. Qxe1 Rxe1 52. Kxe1 Kh7
+53. Nd7 1-0

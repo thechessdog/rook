@@ -1,0 +1,26 @@
+[Event "Hungary"]
+[Site "Hungary"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Ribli, Zoltan"]
+[Black "Portisch, Lajos"]
+[Result "1-0"]
+[ECO "D15"]
+[Opening "QGD Slav"]
+[Variation "5.e3 (Alekhine variation)"]
+[HashCode "ab6b0783"]
+[Epoch "Rook"]
+[BlackID "700037"]
+[BlackCountry "HUN"]
+[WhiteID "700010"]
+[WhiteCountry "HUN"]
+
+1. c4 c6 2. d4 d5 3. Nf3 Nf6 4. Nc3 dxc4 5. e3 b5 6. a4 b4 7. Nb1 Ba6 8. Qc2 b3
+9. Qd1 e6 10. Nbd2 Bb4 11. Be2 Ne4 12. O-O Bxd2 13. Bxd2 O-O 14. Bb4 c5 15.
+Bxc5 Nxc5 16. dxc5 Qxd1 17. Rfxd1 c3 18. Bb5 Bb7 19. bxc3 Be4 20. Rd2 Nc6 21.
+Nd4 Na5 22. f3 Bd5 23. e4 Bc4 24. Rb2 Rfc8 25. Bxc4 Nxc4 26. Rxb3 Rxc5 27. Rb5
+Rcc8 28. Kf2 g6 29. Rd1 Nb6 30. a5 Na4 31. Ne2 a6 32. Rb3 Rc7 33. Rdb1 Raa7 34.
+Ke3 Nc5 35. Ra3 Nd7 36. Ra4 Ne5 37. Rbb4 Rc8 38. h3 Rac7 39. f4 Nc4+ 40. Kd3
+Rd7+ 41. Nd4 Nd6 42. Rb6 Nb7 43. Rc4 Nc5+ 44. Kc2 Rdc7 45. e5 h5 46. Nb3 Nxb3
+47. Rxc7 Na1+ 48. Kb2 Rxc7 49. Rxa6 h4 50. Ra8+ Kg7 51. a6 Rc4 52. a7 Ra4 53.
+c4 1-0

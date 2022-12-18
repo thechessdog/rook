@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Mika"]
+[Black "Hanusz"]
+[Result "1-0"]
+[ECO "B88"]
+[Opening "Sicilian"]
+[Variation "Sozin, Leonhardt variation"]
+[HashCode "c5a1700f"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bc4 e6 7. Bb3 Be7
+8. Be3 a6 9. f4 Bd7 10. O-O O-O 11. f5 Nxd4 12. Bxd4 e5 13. Bf2 Rc8 14. Nd5
+Nxe4 15. f6 Nxf6 16. Nxe7+ Qxe7 17. Bh4 Be6 18. Rxf6 gxf6 19. Qf3 Rfd8 20.
+Bxf6 Qc7 21. Bxe6 fxe6 22. Rf1 Qc5+ 23. Kh1 Qxc2 24. Bxd8 Qf5 25. Qg3+ Qg6
+26. Qxg6+ hxg6 27. Bg5 Rc2 28. Rf6 Rxb2 29. Rxg6+ Kh7 30. Rh6+ 1-0
+

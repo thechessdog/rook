@@ -1,0 +1,18 @@
+[Event "Hungary"]
+[Site "Hungary"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Veroci_Petronic, Zs"]
+[Black "Csonkics, Tunde"]
+[Result "1-0"]
+[ECO "B93"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.f4"]
+[HashCode "3cb432f4"]
+[Epoch "Rook"]
+[BlackID "700576"]
+[BlackCountry "HUN"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 e5 7. Nf3 Qc7 8. Bd3
+Nbd7 9. O-O g6 10. Kh1 Bg7 11. Qe1 O-O 12. Qh4 b5 13. fxe5 dxe5 14. Bh6 Nh5 15.
+Nd5 Qd6 16. Bd2 Bb7 17. Bb4 Nc5 18. Qe7 1-0

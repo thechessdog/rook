@@ -1,0 +1,19 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Sorensen, Bent"]
+[Black "Hjartarson, Johann"]
+[Result "0-1"]
+[ECO "A00"]
+[Opening "Benko's opening"]
+[HashCode "d3f95d3d"]
+[Epoch "Rook"]
+[BlackID "2300044"]
+[BlackCountry "ISL"]
+[WhiteID "1400410"]
+[WhiteCountry "DEN"]
+
+1. g3 c5 2. Bg2 Nc6 3. d3 g6 4. f4 Bg7 5. Nf3 d5 6. O-O d4 7. e4 dxe3 8. Nc3 b6
+9. Bxe3 Bb7 10. Qd2 Nh6 11. Kh1 Nf5 12. g4 Nxe3 13. Qxe3 Qd7 14. h3 h5 15. g5
+Nd4 16. Rac1 Nxf3 17. Rxf3 Bxf3 18. Qxf3 Rc8 19. Re1 O-O 0-1

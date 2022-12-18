@@ -1,0 +1,18 @@
+[Event "Brighton ch-GB"]
+[Site "Brighton ch-GB"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Farrand"]
+[Black "Cubitt"]
+[Result "0-1"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack"]
+[HashCode "56d0cbc0"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 Nbd7 4. f3 c6 5. e4 dxe4 6. fxe4 e5 7. Nf3 Qa5
+8. Qd2 Bb4 9. Bd3 Ng4 10. h3 exd4 11. Nxd4 Nge5 12. Nf5 O-O 13. Bh6 gxh6
+14. Qxh6 Nxd3+ 15. Kd2 Qe5 16. cxd3 Kh8 17. Raf1 Rg8 18. g4 Rg6 19. Qe3 Nb6
+20. Nh6 Be6 21. Nxf7+ Bxf7 22. Rxf7 Rd8 23. Kc2 Bxc3 24. bxc3 Qe6 25. Rff1
+Qxa2+ 26. Kc1 Na4 0-1
+

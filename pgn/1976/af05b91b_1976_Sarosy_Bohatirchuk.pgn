@@ -1,0 +1,18 @@
+[Event "corr NAICCC II"]
+[Site "corr NAICCC II"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Sarosy, Zoltan"]
+[Black "Bohatyrchuk, Fedir Parfenovych"]
+[Result "1-0"]
+[ECO "A23"]
+[Opening "English"]
+[Variation "Bremen system, Keres variation"]
+[HashCode "af05b91b"]
+[Epoch "Rook"]
+[WhiteCountry "CAN"]
+[BlackCountry "UKR"]
+
+1. c4 e5 2. Nc3 Nf6 3. g3 c6 4. Nf3 d6 5. Bg2 Be7 6. O-O Be6 7. b3 h6 8. Qc2
+Qd7 9. Rd1 Bh3 10. d4 Bxg2 11. Kxg2 Qc7 12. Bb2 exd4 13. Nxd4 Nbd7 14. Nf5 Nc5
+15. Nxg7+ 1-0

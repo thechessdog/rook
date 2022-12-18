@@ -1,0 +1,16 @@
+[Event "corr FRG/K"]
+[Site "corr FRG/K"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Heemsoth, Hermann"]
+[Black "Scherfke, M."]
+[Result "1-0"]
+[ECO "B46"]
+[Opening "Sicilian"]
+[Variation "Taimanov variation"]
+[HashCode "6adbac57"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e6 5. Nc3 a6 6. Be2 d6 7. Be3 Nf6 8. O-O
+Bd7 9. f4 Qc7 10. Qe1 Be7 11. Rd1 b5 12. a3 O-O 13. Qg3 Nxd4 14. Bxd4 Bc6 15.
+Bd3 Nh5 16. Qe3 Rae8 17. e5 f5 18. Be2 g6 19. Bxh5 gxh5 20. Qg3+ 1-0

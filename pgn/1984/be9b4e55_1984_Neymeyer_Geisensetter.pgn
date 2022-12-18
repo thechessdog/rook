@@ -1,0 +1,23 @@
+[Event "corr DDR/FS"]
+[Site "corr DDR/FS"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Neymeyer"]
+[Black "Geisensetter"]
+[Result "0-1"]
+[ECO "B01"]
+[Opening "Scandinavian"]
+[Variation "Marshall variation"]
+[HashCode "be9b4e55"]
+[Epoch "Rook"]
+
+1. e4 d5 2. exd5 Nf6 3. d4 Nxd5 4. c4 Nb6 5. Nf3 Bg4 6. c5 N6d7 7. Be2 e6
+8. Nc3 Nc6 9. Be3 Be7 10. O-O O-O 11. d5 exd5 12. Nxd5 Bxc5 13. Bg5 Be7 14.
+Bf4 Bd6 15. Bxd6 cxd6 16. Ne3 Bxf3 17. Bxf3 Nde5 18. Bd5 Qb6 19. Qd2 Ne7
+20. Kh1 Rad8 21. f4 N5c6 22. f5 Qd4 23. Qxd4 Nxd4 24. f6 Nxd5 25. Nxd5 Rfe8
+26. Rad1 Nc6 27. g4 Re4 28. g5 Rg4 29. Rg1 Rxg1+ 30. Kxg1 Re8 31. Kf2 Re5
+32. h4 Re4 33. Re1 Rxe1 34. Kxe1 g6 35. Ke2 Kf8 36. Ke3 Ke8 37. b4 Kd7 38.
+b5 Nd8 39. Nf4 Ne6 40. Nd5 Nc5 41. Kd4 Kd8 42. Kc4 Nd7 43. Kd4 Ne5 44. Ke4
+Nc4 45. Kd4 Na3 46. b6 axb6 47. Nxb6 Kc7 48. Nd5+ Kd7 49. Nb6+ Ke6 50. Ke4
+Nb5 51. a4 Nc3+ 0-1
+

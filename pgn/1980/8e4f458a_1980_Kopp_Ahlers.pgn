@@ -1,0 +1,21 @@
+[Event "corr DFSM"]
+[Site "corr DFSM"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Kopp"]
+[Black "Ahlers"]
+[Result "0-1"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "8e4f458a"]
+[Epoch "Rook"]
+
+1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. d4 cxd4 5. cxd4 d6 6. Nf3 Nc6 7. Bc4 Nb6 8.
+Bb5 dxe5 9. Nxe5 Bd7 10. Nc3 e6 11. Bxc6 Bxc6 12. Nxc6 bxc6 13. Qg4 h5 14.
+Qf3 Nd5 15. O-O Be7 16. Be3 Rc8 17. Ne4 Nf6 18. Nc3 Nd5 19. Rac1 Nxc3 20.
+bxc3 Qd5 21. Qe2 Qb5 22. c4 Qa6 23. Rc2 Rd8 24. Rd1 Rd7 25. h3 g6 26. Rd3
+Kf8 27. Qf3 Kg7 28. d5 cxd5 29. Bd4+ f6 30. cxd5 exd5 31. Rdc3 Qe6 32. Rc7
+Rb8 33. g4 Qe1+ 34. Kg2 Rb1 35. Bxf6+ Kh7 36. Qf4 Qh1+ 37. Kg3 Rg1+ 38. Kh4
+Bxf6+ 0-1
+

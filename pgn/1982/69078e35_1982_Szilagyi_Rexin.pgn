@@ -1,0 +1,16 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Szilagyi"]
+[Black "Rexin"]
+[Result "1-0"]
+[ECO "B02"]
+[Opening "Alekhine's defence"]
+[Variation "Saemisch attack"]
+[HashCode "69078e35"]
+[Epoch "Rook"]
+
+1. e4 Nf6 2. e5 Nd5 3. Nc3 Nxc3 4. dxc3 e6 5. Bd3 Nc6 6. Nf3 Be7 7. Qe2 O-O
+8. h4 d5 9. Bxh7+ Kxh7 10. Ng5+ Kg6 11. h5+ 1-0
+

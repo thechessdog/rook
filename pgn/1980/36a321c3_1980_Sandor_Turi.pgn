@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Sandor"]
+[Black "Turi"]
+[Result "0-1"]
+[ECO "B32"]
+[Opening "Sicilian"]
+[Variation "Labourdonnais-Loewenthal (Kalashnikov) variation"]
+[HashCode "36a321c3"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e5 5. Nb5 d6 6. c4 f5 7. f3 fxe4 8.
+Be3 a6 9. N5c3 exf3 10. Qxf3 Nb4 11. Na3 Nf6 12. h3 Be7 13. c5 dxc5 14. Bc4
+Nd3+ 15. Ke2 Nxb2 16. Bb3 Qd3+ 17. Kf2 Qxc3 0-1
+

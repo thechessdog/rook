@@ -1,0 +1,19 @@
+[Event "corr NLD/H"]
+[Site "corr NLD/H"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Zwikker"]
+[Black "Batelaan"]
+[Result "1-0"]
+[ECO "B42"]
+[Opening "Sicilian"]
+[Variation "Kan, Polugaievsky variation"]
+[HashCode "6e7428ca"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Bc5 6. Nb3 Ba7 7. O-O Nc6
+8. Qe2 Nge7 9. Be3 Bxe3 10. Qxe3 e5 11. f4 exf4 12. Qxf4 O-O 13. Nc3 Nb4
+14. Qd6 Nxd3 15. cxd3 b6 16. Rac1 Bb7 17. Na4 Nc8 18. Qf4 Ne7 19. Qc7 Rb8
+20. Qd6 Bc6 21. Nc3 Ng6 22. d4 Qe7 23. Qxe7 Nxe7 24. d5 Bb7 25. Nd4 Rbc8
+26. Na4 Rxc1 27. Rxc1 Rc8 28. Rc3 Rxc3 29. bxc3 b5 30. Nc5 Bc8 31. d6 1-0
+

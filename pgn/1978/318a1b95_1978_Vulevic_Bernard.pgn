@@ -1,0 +1,18 @@
+[Event "Bagneaux"]
+[Site "Bagneaux"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Vulevic"]
+[Black "Bernard"]
+[Result "0-1"]
+[ECO "E81"]
+[Opening "King's Indian"]
+[Variation "Saemisch, 5...O-O"]
+[HashCode "318a1b95"]
+[Epoch "Rook"]
+
+1. c4 Nf6 2. Nc3 g6 3. e4 d6 4. d4 Bg7 5. f3 O-O 6. Be3 Nbd7 7. Qd2 c5 8.
+d5 a6 9. h4 Ne5 10. O-O-O b5 11. cxb5 axb5 12. Bxb5 Bd7 13. Bd3 Qa5 14.
+Nge2 Rfb8 15. Nf4 Qb4 16. Be2 c4 17. g4 Nexg4 18. fxg4 Nxe4 19. Qc2 Nxc3
+20. bxc3 Bxc3 21. Rd4 Qa3+ 22. Kd1 Ba4 0-1
+

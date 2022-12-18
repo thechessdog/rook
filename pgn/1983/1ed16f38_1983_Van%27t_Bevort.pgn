@@ -1,0 +1,18 @@
+[Event "corr Netherlands"]
+[Site "corr Netherlands"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Van't Geloof"]
+[Black "Bevort"]
+[Result "1-0"]
+[ECO "C44"]
+[Opening "Scotch"]
+[Variation "Goering gambit, Bardeleben variation"]
+[HashCode "1ed16f38"]
+[Epoch "Rook"]
+
+1. e4 e5 2. d4 exd4 3. c3 dxc3 4. Nxc3 Nc6 5. Nf3 Bb4 6. Bc4 Nf6 7. e5
+Bxc3+ 8. bxc3 Qe7 9. O-O Ng4 10. Ng5 Ngxe5 11. Re1 O-O 12. Qh5 h6 13. Bd3
+d5 14. f4 Bg4 15. Qh4 f5 16. fxe5 hxg5 17. Qxg5 Qc5+ 18. Be3 Qxc3 19. Bf1
+f4 20. Qxg4 fxe3 21. Qe6+ Rf7 22. Qxd5 1-0
+

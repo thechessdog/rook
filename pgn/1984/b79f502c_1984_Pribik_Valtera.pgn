@@ -1,0 +1,20 @@
+[Event "corr ch-CSSR"]
+[Site "corr ch-CSSR"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Pribik"]
+[Black "Valtera"]
+[Result "0-1"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "b79f502c"]
+[Epoch "Rook"]
+
+1. e4 c5 2. c3 d6 3. d4 Nf6 4. Bd3 cxd4 5. cxd4 g6 6. Nc3 Bg7 7. Nge2 Nc6
+8. O-O O-O 9. h3 e5 10. d5 Nd4 11. Be3 Nxe2+ 12. Qxe2 Nh5 13. Rac1 Nf4 14.
+Bxf4 exf4 15. Kh2 Be5 16. Qf3 Qh4 17. Be2 h5 18. Kg1 Kg7 19. Nb5 Rh8 20.
+Rc7 a6 21. Nc3 Qd8 22. Rc4 g5 23. Rd1 g4 24. Qd3 Rh6 25. Kf1 f3 26. gxf3
+gxh3 27. f4 Bxf4 28. Bf3 h2 29. Ne2 Be5 30. Bh1 Qh4 31. Nd4 Rg6 32. Ke2 Rg1
+33. Rcc1 Qg5 0-1
+

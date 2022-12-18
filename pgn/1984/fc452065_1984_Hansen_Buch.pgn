@@ -1,0 +1,16 @@
+[Event "Aarhus"]
+[Site "Aarhus"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Hansen, John"]
+[Black "Buch, Carsten"]
+[Result "1/2-1/2"]
+[ECO "B25"]
+[Opening "Sicilian"]
+[Variation "closed, 6.f4"]
+[HashCode "fc452065"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. f4 Rb8 7. Nf3 b5 8. O-O
+b4 9. Nd5 e6 10. Ne3 Nge7 1/2-1/2
+

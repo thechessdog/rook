@@ -1,0 +1,17 @@
+[Event "Dayton,OH"]
+[Site "Dayton,OH"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Jones, Ralph"]
+[Black "Wall, Bill"]
+[Result "0-1"]
+[ECO "D35"]
+[Opening "QGD"]
+[Variation "Harrwitz attack"]
+[HashCode "1a804a0e"]
+[Epoch "Rook"]
+[BlackCountry "USA"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bf4 Bb4 5. e3 O-O 6. Nf3 Ne4 7. Qc2 c5 8. a3
+Qa5 9. Be2 cxd4 10. exd4 Nxc3 11. O-O Nxe2+ 12. Qxe2 Be7 13. b4 Qd8 14. cxd5
+Qxd5 15. Rac1 b6 16. Ne5 Ba6 17. Nd3 Qxd4 0-1

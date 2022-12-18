@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Benavent, Espi"]
+[Black "Carbonnell Vila"]
+[Result "1-0"]
+[ECO "C13"]
+[Opening "French"]
+[Variation "Albin-Alekhine-Chatard attack, Maroczy variation"]
+[HashCode "10c08bc8"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Nfd7 6. h4 a6 7. Qg4 Kf8 8.
+f4 c5 9. Nf3 Nc6 10. O-O-O b5 11. Bxe7+ Qxe7 12. h5 b4 13. Na4 c4 14. Nh4
+b3 15. axb3 Qb4 16. Qf3 Na5 17. f5 Nxe5 18. dxe5 cxb3 19. f6 Rg8 20. fxg7+
+Rxg7 21. h6 Rg4 22. Qf6 Bd7 23. Be2 bxc2 24. Rdf1 Nb3+ 25. Kxc2 Rc8+ 26.
+Nc3 Rxc3+ 27. bxc3 Nd4+ 28. cxd4 Ba4+ 1-0
+

@@ -1,0 +1,19 @@
+[Event "Linkoping"]
+[Site "Linkoping"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Bengtsson, Bo"]
+[Black "Pietrusiak, Bogdan"]
+[Result "1/2-1/2"]
+[ECO "B31"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (with ...g6, without ...d6)"]
+[HashCode "e67793c8"]
+[Epoch "Rook"]
+[WhiteID "1700804"]
+[WhiteCountry "SWE"]
+[BlackCountry "POL"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. Re1 Nf6 6. c3 O-O 7. h3 e5 8. Na3
+Re8 9. d4 cxd4 10. cxd4 a6 11. Bf1 d5 12. exd5 Nxd5 13. dxe5 Nxe5 14. Nxe5 Rxe5
+15. Rxe5 Bxe5 16. Nc4 Bf6 17. Qf3 Be6 1/2-1/2

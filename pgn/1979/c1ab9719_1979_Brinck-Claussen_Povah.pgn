@@ -1,0 +1,22 @@
+[Event "ENG-DEN"]
+[Site "Ribe"]
+[Date "1979.??.??"]
+[Round "2"]
+[White "Brinck-Claussen, Bjorn"]
+[Black "Povah, Nigel E"]
+[Result "1-0"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Nimzovich (knight's tour) variation"]
+[HashCode "c1ab9719"]
+[Epoch "Rook"]
+[BlackID "400467"]
+[WhiteCountry "DEN"]
+[BlackCountry "ENG"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. Nd2 Bg7 8. Nc4
+O-O 9. Bg5 h6 10. Bh4 Re8 11. e3 b6 12. a4 Ba6 13. Rc1 Qc7 14. b3 Bxc4 15. Bxc4
+Ne4 16. Nxe4 Rxe4 17. Bg3 Nd7 18. O-O Ne5 19. Be2 Nd7 20. Qd2 Rae8 21. Bd3 R4e7
+22. Bb5 Kh7 23. Kh1 Bf6 24. Bd3 Ne5 25. Bb1 a6 26. h3 Nd7 27. Qd3 Nb8 28. e4
+Qd7 29. Rce1 b5 30. f4 bxa4 31. e5 dxe5 32. fxe5 Bxe5 33. Rxf7+ Rxf7 34. Qxg6+
+Kh8 35. Bxe5+ Rxe5 36. Rxe5 a3 37. Qxh6+ Kg8 38. Rg5+ 1-0

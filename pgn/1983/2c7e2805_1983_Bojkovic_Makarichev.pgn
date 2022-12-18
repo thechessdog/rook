@@ -1,0 +1,22 @@
+[Event "Novi Sad"]
+[Site "Novi Sad"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Bojkovic, Slobodan"]
+[Black "Makarichev, Sergey"]
+[Result "0-1"]
+[ECO "B66"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...a6"]
+[HashCode "2c7e2805"]
+[Epoch "Rook"]
+[BlackID "4100468"]
+[BlackCountry "RUS"]
+[WhiteID "902829"]
+[WhiteCountry "SRB"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd2 a6 8.
+O-O-O h6 9. Be3 Be7 10. f3 Nxd4 11. Qxd4 b5 12. h4 Bb7 13. a3 Rc8 14. Be2 h5
+15. Kb1 Qc7 16. Qb6 Qxb6 17. Bxb6 d5 18. exd5 Nxd5 19. Nxd5 Bxd5 20. Bd4 O-O
+21. Rhg1 Rfd8 22. g4 Bc4 23. Bxc4 Rxc4 24. c3 hxg4 25. Kc2 gxf3 26. Rxg7+ Kf8
+27. Rh7 Rdxd4 0-1

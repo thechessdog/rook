@@ -1,0 +1,23 @@
+[Event "Kuibyshev"]
+[Site "Kuibyshev"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Vul, Arkadi Eremeevich"]
+[Black "Belov, Igor"]
+[Result "0-1"]
+[ECO "E68"]
+[Opening "King's Indian"]
+[Variation "fianchetto, classical variation, 8.e4"]
+[HashCode "48cad97c"]
+[Epoch "Rook"]
+
+1. Nf3 g6 2. d4 Nf6 3. g3 Bg7 4. Bg2 O-O 5. O-O d6 6. c4 Nbd7 7. Nc3 e5 8. e4
+exd4 9. Nxd4 Re8 10. h3 Nc5 11. Re1 a5 12. b3 Nfd7 13. Be3 Ne5 14. Bf1 c6 15.
+f4 Ned7 16. Bg2 Nf6 17. Bf2 Nh5 18. Qd2 Qb6 19. Nde2 Qb4 20. Qxd6 Nxe4 21. Qxb4
+axb4 22. Nxe4 Bxa1 23. Rxa1 Bf5 24. Nd6 Rxe2 25. g4 Rexa2 26. Rxa2 Rxa2 27.
+gxf5 Rb2 28. Nxb7 Rxb3 29. Bxc6 Rb1+ 30. Kg2 b3 31. Be4 Rd1 32. c5 Nf6 33. c6
+Nxe4 34. c7 Rc1 35. Nc5 Nd6 36. Nxb3 Rxc7 37. fxg6 hxg6 38. Nd4 Ne4 39. Be3 Rc3
+40. Kf3 Nd2+ 41. Ke2 Nc4 42. Bf2 Rxh3 43. Nf3 f6 44. Bh4 Nd2 45. Kxd2 Rxf3 46.
+Bxf6 Rxf4 47. Bg5 Rg4 48. Be3 Kf7 49. Ke2 Ke6 50. Kf3 Kf5 51. Bc5 Rc4 52. Bb6
+Rc3+ 53. Kg2 Rb3 54. Bc5 Kg4 55. Ba7 Rb2+ 56. Kh1 Kf3 57. Bc5 Rb1+ 58. Kh2 g5
+59. Bd6 g4 60. Bc7 Rb2+ 61. Kh1 g3 0-1

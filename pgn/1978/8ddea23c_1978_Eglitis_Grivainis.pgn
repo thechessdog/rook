@@ -1,0 +1,16 @@
+[Event "corr Atars mem"]
+[Site "corr Atars mem"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Eglitis, I."]
+[Black "Grivainis, Konstant"]
+[Result "0-1"]
+[ECO "C40"]
+[Opening "Latvian"]
+[Variation "Nimzovich variation"]
+[HashCode "8ddea23c"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 f5 3. Nxe5 Qf6 4. d4 d6 5. Nc4 fxe4 6. Ne3 Nc6 7. Bc4 Qxd4
+8. Nd2 Nf6 9. c3 Qe5 10. Nb3 Be6 11. Bb5 Qxb5 0-1
+

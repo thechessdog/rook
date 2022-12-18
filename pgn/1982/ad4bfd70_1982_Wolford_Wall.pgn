@@ -1,0 +1,17 @@
+[Event "Dayton,OH"]
+[Site "Dayton,OH"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Wolford, D."]
+[Black "Wall, Bill"]
+[Result "0-1"]
+[ECO "C57"]
+[Opening "two knights defence"]
+[Variation "Wilkes Barre (Traxler) variation"]
+[HashCode "ad4bfd70"]
+[Epoch "Rook"]
+[BlackCountry "USA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 Bc5 5. Nxf7 Bxf2+ 6. Kf1 Qe7 7. d3 Rf8 8.
+Bg5 Bb6 9. c3 Rxf7 10. Bxf7+ Qxf7 11. Qf3 d6 12. Bxf6 gxf6 13. Ke1 Bd7 14. Rf1
+O-O-O 15. Qxf6 Qh5 16. h3 a6 17. Nd2 Be3 18. Nf3 Rg8 19. Ke2 Bg5 0-1

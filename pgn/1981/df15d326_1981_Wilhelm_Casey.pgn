@@ -1,0 +1,20 @@
+[Event "MOTCF,OH"]
+[Site "MOTCF,OH"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Wilhelm, Mark"]
+[Black "Casey, D."]
+[Result "1-0"]
+[ECO "D31"]
+[Opening "QGD"]
+[Variation "3.Nc3"]
+[HashCode "df15d326"]
+[Epoch "Rook"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Bd7 4. cxd5 c6 5. dxe6 Bxe6 6. Nf3 Bb4 7. Bd2 Nf6
+8. e3 O-O 9. a3 Ba5 10. b4 Bc7 11. h3 Nbd7 12. Bd3 Re8 13. O-O Nf8 14. Na4
+Bd5 15. Nc3 Be6 16. Qc2 Qc8 17. Ne4 Bxh3 18. Nxf6+ gxf6 19. gxh3 Qxh3 20.
+Qd1 Kh8 21. Ne5 fxe5 22. f4 exd4 23. Rf2 dxe3 24. Bc3+ Kg8 25. Rg2+ Ng6 26.
+Bxg6 hxg6 27. Qd4 Be5 28. fxe5 e2 29. e6 Qh6 30. Rh2 Qg5+ 31. Kh1 f6 32.
+Rg1 Qf5 33. Rxe2 Kg7 34. Qd7+ Kf8 35. Qf7# 1-0
+

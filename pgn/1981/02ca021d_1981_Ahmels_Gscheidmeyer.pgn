@@ -1,0 +1,21 @@
+[Event "BL2-N 8081"]
+[Site "BL2-N 8081"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Ahmels, Volker"]
+[Black "Gscheidmeyer, HJ."]
+[Result "0-1"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (without ...d6)"]
+[HashCode "02ca021d"]
+[Epoch "Rook"]
+[WhiteID "4604652"]
+[WhiteCountry "GER"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 bxc6 5. h3 d5 6. e5 h5 7. O-O e6 8. d3
+Be7 9. Nc3 Nh6 10. Na4 g5 11. Nh2 Nf5 12. b3 Qc7 13. Re1 Bd7 14. Ba3 Qa7 15. c4
+d4 16. Nf1 O-O-O 17. Nd2 g4 18. hxg4 hxg4 19. Ne4 Rh4 20. g3 Rh3 21. Qxg4 Rdh8
+22. Nexc5 Be8 23. Qe4 Bd8 24. Kf1 Rxg3 25. Ke2 Re3+ 26. fxe3 Ng3+ 27. Kd2 Rh2+
+28. Kc1 Nxe4 29. Nxe4 Be7 30. c5 Qc7 31. Nb6+ Kb8 32. exd4 f5 33. Nd6 Bxd6 34.
+exd6 Qg7 35. Rb1 Qg5+ 0-1

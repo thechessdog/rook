@@ -1,0 +1,20 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Lepseny"]
+[Black "Koskinen"]
+[Result "1-0"]
+[ECO "B83"]
+[Opening "Sicilian"]
+[Variation "modern Scheveningen, main line"]
+[HashCode "5c6a1fc3"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e6 6. Be2 Be7 7. O-O O-O
+8. f4 Nc6 9. Be3 Bd7 10. Qe1 Nxd4 11. Bxd4 Bc6 12. Qg3 g6 13. Bf3 Qc7 14.
+Rad1 Rad8 15. f5 e5 16. Be3 Rfe8 17. h4 Kh8 18. fxg6 fxg6 19. Rf2 b5 20. a3
+a5 21. Bg5 b4 22. axb4 axb4 23. Nd5 Bxd5 24. exd5 e4 25. Bg4 Nxg4 26. Qxg4
+Bxg5 27. Qxg5 Qg7 28. Re1 Rd7 29. Rf6 Rdd8 30. Qf4 e3 31. Rf7 Rf8 32. Rxf8+
+Rxf8 33. Qxd6 Rc8 34. Qxb4 Qe5 35. d6 Rxc2 36. d7 Qf6 37. Rf1 1-0
+

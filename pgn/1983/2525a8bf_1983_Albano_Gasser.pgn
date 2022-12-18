@@ -1,0 +1,18 @@
+[Event "Imperia"]
+[Site "Imperia"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Albano"]
+[Black "Gasser, Giorgio"]
+[Result "1-0"]
+[ECO "C69"]
+[Opening "Ruy Lopez"]
+[Variation "exchange, Gligoric variation"]
+[HashCode "2525a8bf"]
+[Epoch "Rook"]
+[BlackID "803570"]
+[BlackCountry "ITA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O f6 6. d4 Qd6 7. b3 exd4 8. e5
+fxe5 9. Nxe5 Nf6 10. Re1 Be7 11. Nc4 Qd7 12. Ba3 Nd5 13. Qxd4 Rf8 14. Nc3 Kd8
+15. Rxe7 Nxe7 16. Bxe7+ Kxe7 17. Qxg7+ 1-0

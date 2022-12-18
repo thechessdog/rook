@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Sauermann, Wilfried"]
+[Black "Wenner, Tobias"]
+[Result "1/2-1/2"]
+[ECO "C73"]
+[Opening "Ruy Lopez"]
+[Variation "modern Steinitz defence, Alapin variation"]
+[HashCode "301a28ed"]
+[Epoch "Rook"]
+[BlackID "4619714"]
+[BlackCountry "GER"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. Bxc6+ bxc6 6. d4 f6 7. c4 Ne7 8. Nc3
+Ng6 9. Qa4 Bd7 10. c5 Be7 11. Be3 O-O 12. O-O-O Kh8 1/2-1/2

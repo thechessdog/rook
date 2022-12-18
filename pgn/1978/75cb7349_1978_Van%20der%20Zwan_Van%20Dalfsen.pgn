@@ -1,0 +1,20 @@
+[Event "corr NLD/K"]
+[Site "corr NLD/K"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Van der Zwan, J."]
+[Black "Van Dalfsen, P."]
+[Result "1-0"]
+[ECO "C69"]
+[Opening "Ruy Lopez"]
+[Variation "exchange, Bronstein variation"]
+[HashCode "75cb7349"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O Qd6 6. d3 f6 7. Be3 Bg4
+8. Nbd2 Qd7 9. h3 Be6 10. d4 exd4 11. Nxd4 Bf7 12. Qe2 O-O-O 13. Rad1 g5
+14. Nc4 Re8 15. Na5 Rxe4 16. Ndxc6 Bd6 17. c4 Qe6 18. c5 Be7 19. b3 Be8 20.
+Nd4 Qe5 21. Qd3 g4 22. Nxb7 Kxb7 23. c6+ Kb6 24. Nc2+ Rxe3 25. Nxe3 Bf7 26.
+Nc4+ Bxc4 27. bxc4 Bc5 28. Qb3+ Kxc6 29. Qa4+ Kb6 30. Rd8 Qe6 31. Re8 Qf5
+32. hxg4 Qg6 33. Re6+ 1-0
+

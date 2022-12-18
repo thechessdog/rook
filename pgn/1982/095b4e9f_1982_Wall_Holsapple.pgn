@@ -1,0 +1,18 @@
+[Event "Dayton,OH"]
+[Site "Dayton,OH"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Wall, Bill"]
+[Black "Holsapple, Boyd"]
+[Result "1-0"]
+[ECO "A18"]
+[Opening "English"]
+[Variation "Mikenas-Carls, Kevitz variation"]
+[HashCode "095b4e9f"]
+[Epoch "Rook"]
+[WhiteCountry "USA"]
+[BlackCountry "USA"]
+
+1. c4 Nf6 2. Nc3 e6 3. e4 Nc6 4. Nf3 Bc5 5. d4 Bb4 6. Qc2 Bxc3+ 7. bxc3 d6 8.
+Bd3 Bd7 9. Bg5 h6 10. Bh4 g5 11. Bg3 Qe7 12. Rb1 O-O-O 13. Qb2 b6 14. c5 dxc5
+15. Qa3 cxd4 16. Qa6+ Kb8 17. Rxb6+ axb6 18. Qxb6+ Ka8 19. Qa6+ Kb8 20. Ke2 1-0

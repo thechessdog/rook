@@ -1,0 +1,21 @@
+[Event "Farum"]
+[Site "Farum"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Ornebjerg, Henrik"]
+[Black "Hansen, Soren Bech"]
+[Result "1-0"]
+[ECO "C15"]
+[Opening "French"]
+[Variation "Winawer, Alekhine (Maroczy) gambit"]
+[HashCode "de066bc4"]
+[Epoch "Rook"]
+[WhiteID "1417550"]
+[WhiteCountry "DEN"]
+[BlackID "1400681"]
+[BlackCountry "DEN"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. Ne2 Nf6 5. e5 Ne4 6. Qd3 O-O 7. Be3 Bd7 8.
+O-O-O a6 9. Nxe4 dxe4 10. Qxe4 Bc6 11. Qg4 Bd5 12. Bh6 g6 13. Bg5 Qd7 14. Qh4
+h5 15. Bf6 Re8 16. Qg5 Bf8 17. Nf4 Kh7 18. Bd3 Bh6 19. Bxg6+ Kg8 20. Qxh6 fxg6
+21. Qh8+ Kf7 22. Qg7# 1-0

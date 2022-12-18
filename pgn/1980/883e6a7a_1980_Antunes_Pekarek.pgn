@@ -1,0 +1,27 @@
+[Event "Groningen ch-EU jr"]
+[Site "Groningen ch-EU jr"]
+[Date "1980.01.01"]
+[Round "2"]
+[White "Antunes, Antonio"]
+[Black "Pekarek, Ales"]
+[Result "0-1"]
+[ECO "B07"]
+[Opening "Pirc"]
+[Variation "Sveshnikov system"]
+[HashCode "883e6a7a"]
+[Epoch "Rook"]
+[WhiteID "1900013"]
+[WhiteCountry "POR"]
+[BlackID "300080"]
+[BlackCountry "CZE"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. g3 Bg7 5. Bg2 O-O 6. Nge2 Nc6 7. O-O e5 8. d5
+Ne7 9. h3 Nd7 10. Be3 f5 11. f4 fxe4 12. Nxe4 Nf5 13. Bf2 Nf6 14. g4 Nxe4 15.
+Bxe4 Nh6 16. Bg3 Qe7 17. fxe5 Rxf1+ 18. Qxf1 Bxe5 19. Bxe5 Qxe5 20. Qf4 Qxb2
+21. Rf1 Qg7 22. Rb1 b6 23. Bg2 Bd7 24. Nd4 Rf8 25. Qd2 Nf7 26. Ne6 Bxe6 27.
+dxe6 Ne5 28. Qd5 Qe7 29. Qb7 Kg7 30. Qxa7 d5 31. Kh1 Qd6 32. Qa4 Kf6 33. Rd1 c6
+34. Rf1+ Kxe6 35. Rxf8 Qxf8 36. Qa7 Nd7 37. c4 dxc4 38. Bxc6 Qf1+ 39. Kh2 Qf2+
+40. Kh1 Nf6 41. Qa6 Qc5 42. Qc8+ Kd6 43. Qd8+ Kxc6 44. Qxf6+ Qd6 45. Qh8 Qd7
+46. Kg2 Kc5 47. a3 Qd2+ 48. Kf1 c3 49. Qc8+ Kb5 50. Qe8+ Kc4 51. Qc6+ Kd3 52.
+Qd6+ Kc2 53. Qxb6 Kc1 54. Qb4 c2 55. Qb3 Qd4 56. a4 Kd2 57. Qa2 Qd3+ 58. Kf2
+Kd1 0-1

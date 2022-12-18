@@ -1,0 +1,20 @@
+[Event "DSV-Turnier"]
+[Site "Halle"]
+[Date "1981.01.01"]
+[Round "6"]
+[White "Pavlov, Mircea"]
+[Black "Lechtynsky, Jiri"]
+[Result "1/2-1/2"]
+[ECO "C88"]
+[Opening "Ruy Lopez"]
+[Variation "closed, anti-Marshall 8.a4"]
+[HashCode "c506cd31"]
+[Epoch "Rook"]
+[BlackID "300217"]
+[BlackCountry "CZE"]
+[WhiteID "1200160"]
+[WhiteCountry "ROU"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. a4
+Bb7 9. d3 d6 10. Bd2 b4 11. a5 d5 12. exd5 Nxd5 13. Bc1 Re8 14. Nbd2 Bf8 15.
+Nc4 f6 16. Ne3 1/2-1/2

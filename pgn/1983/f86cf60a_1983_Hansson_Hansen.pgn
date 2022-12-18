@@ -1,0 +1,22 @@
+[Event "Nordic-ch"]
+[Site "Esbjerg"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Hansson, Dan"]
+[Black "Hansen, Curt"]
+[Result "0-1"]
+[ECO "B17"]
+[Opening "Caro-Kann"]
+[Variation "Steinitz variation"]
+[HashCode "f86cf60a"]
+[Epoch "Rook"]
+[BlackID "1400010"]
+[BlackCountry "DEN"]
+[WhiteCountry "ISL"]
+
+1. e4 c6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Nxf6+ Nxf6 7. Ne5 Be6
+8. Be2 g6 9. O-O Bg7 10. c3 O-O 11. Bf4 Qb6 12. Qc1 c5 13. dxc5 Qxc5 14. Nd3
+Qf5 15. Bh6 Bc4 16. Bxg7 Kxg7 17. Qe3 Rfd8 18. Rfd1 e5 19. b3 Nd5 20. Qc1 Bxd3
+21. Bxd3 e4 22. Bf1 Qe5 23. c4 Nb4 24. a3 Rxd1 25. Qxd1 Nd3 26. Ra2 Rd8 27. g3
+Qc3 28. Re2 f5 29. Re3 a5 30. g4 Rd6 31. gxf5 gxf5 32. Qh5 f4 33. Rg3+ fxg3 34.
+Qg5+ Kf8 0-1

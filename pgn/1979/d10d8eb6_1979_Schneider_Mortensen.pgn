@@ -1,0 +1,20 @@
+[Event "Gladsaxe"]
+[Site "Gladsaxe"]
+[Date "1979.01.01"]
+[Round "5"]
+[White "Schneider, Lars-Ake"]
+[Black "Mortensen, Erling"]
+[Result "1/2-1/2"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "English variation"]
+[HashCode "d10d8eb6"]
+[Epoch "Rook"]
+[BlackID "1400045"]
+[BlackCountry "DEN"]
+[WhiteCountry "SWE"]
+
+1. b3 c5 2. Bb2 Nc6 3. Nf3 d6 4. e3 e5 5. d3 Nf6 6. Be2 g6 7. O-O Bg7 8. c4 O-O
+9. Nc3 Re8 10. Rc1 b6 11. Nd2 d5 12. cxd5 Nxd5 13. Nxd5 Qxd5 14. b4 Ba6 15.
+bxc5 Nb4 16. Bf3 Qxa2 17. Bxa8 Rxa8 18. cxb6 Qxb2 19. Rb1 Qa3 20. Qf3 Rd8 21.
+bxa7 Bxd3 22. Rxb4 Qxb4 23. a8=Q Rxa8 24. Qxa8+ Bf8 1/2-1/2

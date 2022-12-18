@@ -1,0 +1,18 @@
+[Event "Los Angeles"]
+[Site "Los Angeles"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Chao, T."]
+[Black "Barre"]
+[Result "0-1"]
+[ECO "C08"]
+[Opening "French"]
+[Variation "Tarrasch, open, 4.ed ed"]
+[HashCode "4fa68932"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. exd5 exd5 5. Bb5+ Bd7 6. Qe2+ Be7 7. Bxd7+
+Nxd7 8. dxc5 Ngf6 9. Ngf3 O-O 10. O-O Nxc5 11. Nb3 Nce4 12. Be3 Qc7 13.
+Nbd4 Rfe8 14. Rfd1 Rad8 15. Nb5 Qa5 16. Nxa7 Bc5 17. Nb5 Nxf2 18. b4 Rxe3
+19. Rd4 Rxe2 20. bxa5 N2e4 0-1
+

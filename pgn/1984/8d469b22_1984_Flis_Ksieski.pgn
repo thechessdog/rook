@@ -1,0 +1,21 @@
+[Event "Poznan"]
+[Site "Poznan"]
+[Date "1984.01.01"]
+[Round "8"]
+[White "Flis, Jacek"]
+[Black "Ksieski, Zbigniew"]
+[Result "1-0"]
+[ECO "B89"]
+[Opening "Sicilian"]
+[Variation "Sozin, 7.Be3"]
+[HashCode "8d469b22"]
+[Epoch "Rook"]
+[WhiteID "1100351"]
+[BlackID "1100564"]
+[WhiteCountry "POL"]
+[BlackCountry "POL"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bc4 e6 7. Be3 a6 8. Qe2
+Be7 9. O-O-O Qc7 10. Rhg1 O-O 11. g4 Nxe4 12. Nxe4 d5 13. Bd3 dxe4 14. Bxe4 e5
+15. Nf5 Be6 16. Qf3 Rac8 17. Qh3 g6 18. Qh6 Bf6 19. Rg3 Rfd8 20. Rxd8+ Qxd8 21.
+Rh3 gxf5 22. gxf5 Bxa2 23. Rg3+ Kh8 24. Bb6 Qe7 25. Bc5 Qd8 26. Bf8 1-0

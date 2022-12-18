@@ -1,0 +1,20 @@
+[Event "DDR-ch 27th"]
+[Site "Eggesin/Torgelow"]
+[Date "1978.??.??"]
+[Round "2"]
+[White "Bodach, Hans"]
+[Black "Enders, Peter"]
+[Result "0-1"]
+[ECO "B92"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Opovcensky variation"]
+[HashCode "84c0d4ba"]
+[Epoch "Rook"]
+[WhiteID "24686484"]
+[BlackID "4611314"]
+[WhiteCountry "GER"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8. O-O
+O-O 9. f4 Nbd7 10. f5 b5 11. a3 Bb7 12. Bf3 Rc8 13. Qe2 Nb6 14. Na5 Ba8 15. Rd1
+Rxc3 16. bxc3 Na4 17. Bd2 Qxa5 18. Kh1 Qc7 0-1

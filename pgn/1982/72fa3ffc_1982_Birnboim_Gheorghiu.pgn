@@ -1,0 +1,20 @@
+[Event "Biel"]
+[Site "Biel"]
+[Date "1982.07.01"]
+[Round "8"]
+[White "Birnboim, Nathan"]
+[Black "Gheorghiu, Florin"]
+[Result "1/2-1/2"]
+[ECO "A64"]
+[Opening "Benoni"]
+[Variation "fianchetto, 11...Re8"]
+[HashCode "72fa3ffc"]
+[Epoch "Rook"]
+[WhiteID "2800209"]
+[WhiteCountry "ISR"]
+[BlackID "1200011"]
+[BlackCountry "ROU"]
+
+1. d4 Nf6 2. c4 e6 3. g3 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. Bg2 Bg7 8. Nf3
+O-O 9. O-O Re8 10. Nd2 a6 11. a4 Nbd7 12. h3 Rb8 13. Nc4 Nb6 14. Na3 Bd7 15. e4
+Nh5 1/2-1/2

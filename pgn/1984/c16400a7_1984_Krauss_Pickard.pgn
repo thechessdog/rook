@@ -1,0 +1,19 @@
+[Event "corr ch-USA"]
+[Site "corr ch-USA"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Krauss"]
+[Black "Pickard"]
+[Result "0-1"]
+[ECO "B00"]
+[Opening "KP"]
+[Variation "Nimzovich defence"]
+[HashCode "c16400a7"]
+[Epoch "Rook"]
+
+1. e4 Nc6 2. d4 d5 3. exd5 Qxd5 4. Nf3 e5 5. Nc3 Bb4 6. Bd2 Bxc3 7. Bxc3 e4
+8. Ne5 Nxe5 9. dxe5 Ne7 10. Qe2 Bf5 11. Rd1 Qc6 12. g4 e3 13. Rg1 exf2+ 14.
+Kxf2 Be6 15. Bg2 Bd5 16. Bxd5 Nxd5 17. Rg3 O-O-O 18. Bd4 b6 19. c4 Nf4 20.
+Qf3 Qxf3+ 21. Kxf3 Ne6 22. Ke4 c5 23. Rgd3 Nxd4 24. h4 Nc6 25. Kf5 Rxd3 26.
+Rxd3 Rd8 0-1
+

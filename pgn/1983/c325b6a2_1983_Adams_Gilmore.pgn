@@ -1,0 +1,18 @@
+[Event "Ohio"]
+[Site "Ohio"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Adams"]
+[Black "Gilmore, J."]
+[Result "1-0"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra gambit"]
+[HashCode "c325b6a2"]
+[Epoch "Rook"]
+
+1. e4 c5 2. d4 cxd4 3. c3 d6 4. cxd4 Nf6 5. Nc3 a6 6. Nf3 b5 7. d5 b4 8.
+Qa4+ Qd7 9. Qxb4 e6 10. dxe6 fxe6 11. Bd3 Bb7 12. Qb3 Nc6 13. Be3 Be7 14.
+Ng5 d5 15. exd5 exd5 16. O-O Qd6 17. Qxb7 Rb8 18. Qxa6 Ng4 19. Bf4 Nge5 20.
+Bxe5 Nxe5 21. Bb5+ 1-0
+

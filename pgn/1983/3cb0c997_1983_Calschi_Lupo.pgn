@@ -1,0 +1,19 @@
+[Event "corr EU/I/GT"]
+[Site "corr EU/I/GT"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Calschi"]
+[Black "Lupo"]
+[Result "1-0"]
+[ECO "E41"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5"]
+[HashCode "3cb0c997"]
+[Epoch "Rook"]
+
+1. c4 Nf6 2. Nc3 e6 3. d4 Bb4 4. e3 c5 5. Bd3 b6 6. Nf3 Bb7 7. O-O cxd4 8.
+exd4 O-O 9. Bg5 d5 10. cxd5 exd5 11. Re1 Nbd7 12. Ne5 Be7 13. Qe2 Re8 14.
+Bb5 a6 15. Bxf6 axb5 16. Bxg7 Bf6 17. Bxf6 Nxf6 18. Qxb5 Rc8 19. Re3 Re6
+20. Rae1 Ne4 21. Nxe4 dxe4 22. Rg3+ Kf8 23. Nxf7 Qd5 24. Qxd5 Bxd5 25. Ng5
+Re7 26. Rc3 Ke8 1-0
+

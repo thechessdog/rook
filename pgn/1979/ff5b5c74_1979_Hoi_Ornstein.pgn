@@ -1,0 +1,21 @@
+[Event "Malmo"]
+[Site "Malmo"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Hoi, Carsten"]
+[Black "Ornstein, Axel"]
+[Result "0-1"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack"]
+[HashCode "ff5b5c74"]
+[Epoch "Rook"]
+[WhiteID "1400100"]
+[WhiteCountry "DEN"]
+[BlackID "1700111"]
+[BlackCountry "SWE"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 c5 4. Bxf6 gxf6 5. e4 dxe4 6. d5 f5 7. Qh5 Bg7 8.
+Bb5+ Kf8 9. Nh3 Qd6 10. O-O a6 11. Be2 Qg6 12. Rfd1 Nd7 13. Qh4 Bf6 14. Qf4 Rg8
+15. g3 Be5 16. Qe3 Bd4 17. Qd2 b5 18. Rab1 Bb7 19. Bf1 Ne5 20. Bg2 e3 21. fxe3
+Nc4 22. Qe2 Nxe3 23. Rd3 Nxg2+ 24. Kxg2 b4 25. Nf4 Qd6 26. Kh3 Rg4 27. Rf3 Qh6+
+28. Kg2 e5 29. dxe6 Qxf4 0-1

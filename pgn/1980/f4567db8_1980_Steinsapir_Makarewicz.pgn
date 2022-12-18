@@ -1,0 +1,24 @@
+[Event "corr Wcup3"]
+[Site "corr Wcup3"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Steinsapir"]
+[Black "Makarewicz"]
+[Result "1-0"]
+[ECO "B26"]
+[Opening "Sicilian"]
+[Variation "closed, 6.Be3"]
+[HashCode "f4567db8"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. Be3 e5 7. Qd2 Nge7 8.
+f4 Nd4 9. Nd1 O-O 10. c3 Ne6 11. Ne2 f5 12. O-O Qc7 13. Nf2 Bd7 14. Rae1
+Bc6 15. Bh3 d5 16. fxe5 dxe4 17. dxe4 Rad8 18. Qc2 Qxe5 19. Qb3 Kh8 20. Nf4
+Nc7 21. N4d3 c4 22. Nxe5 cxb3 23. Nxc6 Nxc6 24. axb3 fxe4 25. Nxe4 b6 26.
+Ng5 Rxf1+ 27. Rxf1 Rf8 28. Bg2 Rxf1+ 29. Kxf1 Ne5 30. Bf4 Kg8 31. Nf3 Nxf3
+32. Bxf3 Ne6 33. Bb8 a6 34. Ba7 b5 35. b4 Nd8 36. Bb6 Bf6 37. Bg4 Nb7 38.
+Bc8 Nd6 39. Bxa6 Nc4 40. Bc5 Nxb2 41. Bxb5 Bxc3 42. Ke2 Kf7 43. Bd7 Be5 44.
+Ke3 Kf6 45. Ke4 Nd1 46. b5 Nc3+ 47. Kd3 Na4 48. Bg1 Ke7 49. Bh3 Bc7 50. Kc4
+h5 51. Kb4 Nb6 52. Kc5 Bd8 53. Kc6 Nc4 54. Bc5+ Ke8 55. Kd5 Nb6+ 56. Ke6
+Nd7 57. Bg1 1-0
+

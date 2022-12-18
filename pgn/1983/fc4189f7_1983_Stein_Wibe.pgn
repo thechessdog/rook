@@ -1,0 +1,20 @@
+[Event "Gjovik"]
+[Site "Gjovik"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Stein, Bernd"]
+[Black "Wibe, Terje"]
+[Result "1-0"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack"]
+[HashCode "fc4189f7"]
+[Epoch "Rook"]
+[WhiteID "4600711"]
+[WhiteCountry "GER"]
+[BlackID "1500236"]
+[BlackCountry "NOR"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. f4 Nf6 5. Nf3 O-O 6. Be2 c5 7. dxc5 Qa5 8. O-O
+Qxc5+ 9. Kh1 Nc6 10. Bd3 b5 11. Nxb5 Nxe4 12. Nc7 Nf2+ 13. Rxf2 Qxf2 14. Nxa8
+Bb7 15. Nc7 Nd4 16. Qe1 1-0

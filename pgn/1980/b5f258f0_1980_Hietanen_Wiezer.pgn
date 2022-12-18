@@ -1,0 +1,18 @@
+[Event "corr SF-DDR"]
+[Site "corr SF-DDR"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Hietanen"]
+[Black "Wiezer"]
+[Result "1-0"]
+[ECO "B98"]
+[Opening "Sicilian"]
+[Variation "Najdorf variation"]
+[HashCode "b5f258f0"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8.
+Qf3 Qc7 9. O-O-O b5 10. Bxb5+ axb5 11. Ndxb5 Qb6 12. e5 Bb7 13. Qe2 dxe5
+14. fxe5 Nd5 15. Bxe7 Nxc3 16. Nxc3 Kxe7 17. Qg4 Qe3+ 18. Kb1 Nc6 19. Rhe1
+Qh6 20. Qc4 Rhd8 21. Qc5+ Ke8 22. Nb5 1-0
+

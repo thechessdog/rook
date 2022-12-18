@@ -1,0 +1,17 @@
+[Event "corr CCLA"]
+[Site "corr CCLA"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Dubinin, Peter Vasilievich"]
+[Black "Kalinovsky"]
+[Result "1-0"]
+[ECO "B77"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, 9.Bc4"]
+[HashCode "285986d1"]
+[Epoch "Rook"]
+[WhiteCountry "RUS"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 Nc6 8. Qd2
+O-O 9. Bc4 Nxd4 10. Bxd4 Qa5 11. O-O-O Be6 12. Bb3 Bxb3 13. cxb3 Rfd8 14. Kb1
+Rd7 15. g4 Rad8 16. Qe2 Bh8 17. h4 1-0

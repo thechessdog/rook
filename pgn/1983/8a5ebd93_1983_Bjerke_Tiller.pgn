@@ -1,0 +1,22 @@
+[Event "NOR-ch"]
+[Site "Trondheim"]
+[Date "1983.??.??"]
+[Round "3"]
+[White "Bjerke, Richard"]
+[Black "Tiller, Bjorn"]
+[Result "0-1"]
+[ECO "A29"]
+[Opening "English"]
+[Variation "four knights, kingside fianchetto"]
+[HashCode "8a5ebd93"]
+[Epoch "Rook"]
+[WhiteID "1500252"]
+[BlackID "1500112"]
+[WhiteCountry "NOR"]
+[BlackCountry "NOR"]
+
+1. c4 Nf6 2. Nc3 e5 3. Nf3 Nc6 4. g3 Bb4 5. Nd5 e4 6. Nh4 Bc5 7. Bg2 O-O 8. O-O
+Re8 9. d3 exd3 10. Qxd3 Ne5 11. Qc2 c6 12. Be3 cxd5 13. Bxc5 d6 14. Bd4 dxc4
+15. Rfd1 Qe7 16. Nf5 Bxf5 17. Qxf5 d5 18. Bc3 Rad8 19. Qg5 h6 20. Qf4 Ng6 21.
+Bxf6 Qxe2 22. Qc7 gxf6 23. Bxd5 Ne5 24. Qxb7 Rd7 25. Qb5 Red8 26. Rd4 Qh5 27.
+a4 Rxd5 0-1

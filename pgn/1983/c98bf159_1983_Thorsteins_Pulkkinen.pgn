@@ -1,0 +1,21 @@
+[Event "Nordic-tt"]
+[Site "Oslo"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Thorsteins, Karl"]
+[Black "Pulkkinen, Kari"]
+[Result "1-0"]
+[ECO "B75"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack"]
+[HashCode "c98bf159"]
+[Epoch "Rook"]
+[WhiteID "2300060"]
+[WhiteCountry "ISL"]
+[BlackID "500712"]
+[BlackCountry "FIN"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 Nc6 8. Qd2
+O-O 9. g4 Nxd4 10. Bxd4 Be6 11. Nd5 Bxd5 12. exd5 Qc7 13. h4 Rfc8 14. Rh2 Rab8
+15. h5 b5 16. O-O-O b4 17. Kb1 a5 18. hxg6 hxg6 19. Ba6 Rd8 20. Rdh1 a4 21. Qg5
+b3 22. Qh4 Kf8 23. Qh8+ Bxh8 24. Rxh8+ Ng8 25. Rxg8+ 1-0

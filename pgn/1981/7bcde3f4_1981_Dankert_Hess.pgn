@@ -1,0 +1,20 @@
+[Event "Bundesliga 8081"]
+[Site "Duitsland tt"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Dankert, Peter"]
+[Black "Hess, Ralf E."]
+[Result "1/2-1/2"]
+[ECO "D38"]
+[Opening "QGD"]
+[Variation "Ragozin variation"]
+[HashCode "7bcde3f4"]
+[Epoch "Rook"]
+[WhiteID "4605357"]
+[WhiteCountry "GER"]
+[BlackID "4601890"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 d5 4. Nc3 Bb4 5. Bg5 h6 6. Bxf6 Qxf6 7. e3 O-O 8. Rc1
+dxc4 9. Bxc4 c5 10. a3 Bxc3+ 11. bxc3 Nc6 12. O-O Rd8 13. Qe2 Qe7 14. a4 b6 15.
+Rfd1 Bb7 16. Ba6 Bxa6 1/2-1/2

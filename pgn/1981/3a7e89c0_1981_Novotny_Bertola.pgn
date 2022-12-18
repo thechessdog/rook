@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Novotny, J."]
+[Black "Bertola, G."]
+[Result "1-0"]
+[ECO "C18"]
+[Opening "French"]
+[Variation "Winawer, classical variation"]
+[HashCode "3a7e89c0"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Qc7 7. Qg4 f6 8.
+Bb5+ Kf8 9. dxc5 Qxe5+ 10. Ne2 Qc7 11. a4 a6 12. Bd3 e5 13. Bf5 Nc6 14. O-O
+Nce7 15. Bxc8 Rxc8 16. Ba3 Nh6 17. Qh3 f5 18. c4 d4 19. f4 Nc6 20. fxe5
+Qxe5 21. Ng3 Qe3+ 22. Kh1 1-0
+

@@ -1,0 +1,17 @@
+[Event "corr USA"]
+[Site "corr USA"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Caristi"]
+[Black "Cohen"]
+[Result "1-0"]
+[ECO "C51"]
+[Opening "Evans gambit"]
+[Variation "Stone-Ware variation"]
+[HashCode "73253d29"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 Bxb4 5. c3 Bd6 6. d4 Qe7 7. O-O Nf6 8.
+Nbd2 O-O 9. Bd3 exd4 10. cxd4 Ba3 11. e5 Nd5 12. Bxa3 Qxa3 13. Bxh7+ Kxh7
+14. Ng5+ 1-0
+

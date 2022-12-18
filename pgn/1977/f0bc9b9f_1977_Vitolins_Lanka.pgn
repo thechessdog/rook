@@ -1,0 +1,20 @@
+[Event "Riga"]
+[Site "Riga"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Vitolins"]
+[Black "Lanka"]
+[Result "1-0"]
+[ECO "C63"]
+[Opening "Ruy Lopez"]
+[Variation "Schliemann defence"]
+[HashCode "f0bc9b9f"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 f5 4. Qe2 fxe4 5. Qxe4 Nf6 6. Qe2 Bd6 7. d4 e4
+8. Ng5 Qe7 9. c3 h6 10. Nh3 O-O 11. Nd2 a6 12. Ba4 b5 13. Bc2 Bb7 14. Nf1
+Na5 15. Ng3 Qe6 16. O-O Nc4 17. a4 Bd5 18. a5 e3 19. b3 Ng4 20. f3 Nxh2 21.
+Kxh2 Bxg3+ 22. Kxg3 Qd6+ 23. f4 g5 24. bxc4 Bxc4 25. Bd3 Rae8 26. Bxc4+
+bxc4 27. Bxe3 Qe6 28. Rae1 Kh8 29. fxg5 Qd6+ 30. Nf4 Rf5 31. gxh6 Rg5+ 32.
+Kh2 1-0
+

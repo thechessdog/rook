@@ -1,0 +1,24 @@
+[Event "Sokolsky mem"]
+[Site "Minsk"]
+[Date "1981.01.01"]
+[Round "15"]
+[White "Kovalev, Andrei"]
+[Black "Batiuta"]
+[Result "0-1"]
+[ECO "E12"]
+[Opening "Queen's Indian"]
+[Variation "Petrosian system"]
+[HashCode "c165983f"]
+[Epoch "Rook"]
+[WhiteID "13500023"]
+[WhiteCountry "BLR"]
+
+1. d4 e6 2. c4 Nf6 3. Nf3 b6 4. a3 Bb7 5. Nc3 Ne4 6. Nxe4 Bxe4 7. d5 Be7 8. Qa4
+Bxf3 9. gxf3 Bf6 10. Qd1 O-O 11. Qc2 d6 12. dxe6 fxe6 13. Qe4 Nd7 14. Qxe6+ Kh8
+15. Rb1 Ne5 16. Qd5 c6 17. Qd1 Qe8 18. e4 Qg6 19. Bf4 Nxf3+ 20. Qxf3 Be5 21.
+Qg2 Qxg2 22. Bxg2 Rxf4 23. b4 Bd4 24. f3 a5 25. Ke2 axb4 26. Rhd1 c5 27. axb4
+Rf7 28. bxc5 Bxc5 29. Rb2 g6 30. Rd3 Ra4 31. Rc2 Rf4 32. Rd5 Kg7 33. Rd3 Rh4
+34. h3 Rf4 35. Rdd2 Rf7 36. Rd5 Kh6 37. e5 Re7 38. f4 Ra3 39. Kd1 dxe5 40. Rxe5
+Rf7 41. Re4 Be3 42. Bf3 Bxf4 43. Bg4 Be3 44. Re2 Bc5 45. Kc2 Rfa7 46. Rd2 Bb4
+47. Rd7 Rc3+ 48. Kd2 Raa3 49. Be6 Rcb3+ 50. Kc2 Bc3 51. c5 Rb2+ 52. Kd3 Be5+
+53. Kc4 Rc3+ 54. Kd5 Rxc5# 0-1

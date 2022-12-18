@@ -1,0 +1,22 @@
+[Event "Groningen"]
+[Site "Groningen"]
+[Date "1984.01.01"]
+[Round "7"]
+[White "Vella, Brian"]
+[Black "Pereira, Fernando"]
+[Result "0-1"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "d243843c"]
+[Epoch "Rook"]
+[WhiteID "5600081"]
+[WhiteCountry "MLT"]
+[BlackID "1900153"]
+[BlackCountry "POR"]
+
+1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. d4 cxd4 5. Nf3 Nc6 6. Bc4 Nb6 7. Bb3 d6 8. e6
+Bxe6 9. Bxe6 fxe6 10. Ng5 dxc3 11. Nxe6 Qd7 12. Nxf8 Rxf8 13. Nxc3 Qe6+ 14. Ne2
+Qd5 15. Be3 Qxg2 16. Rg1 Qe4 17. Nc3 Qe5 18. Qd3 g6 19. O-O-O Nb4 20. Qe2 Rc8
+21. Rd4 Nxa2+ 22. Kd2 Nxc3 23. bxc3 Qa5 24. Rc1 Nc4+ 25. Ke1 Ne5 26. Kf1 Rxc3
+27. Rb1 Qc7 28. Rdb4 b6 29. Qa6 0-1

@@ -1,0 +1,20 @@
+[Event "Karlovac"]
+[Site "Karlovac"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Ree, Hans"]
+[Black "Minic, Dragoljub"]
+[Result "1-0"]
+[ECO "A56"]
+[Opening "Benoni defence, Hromodka system"]
+[HashCode "c0e70267"]
+[Epoch "Rook"]
+[WhiteID "1000098"]
+[WhiteCountry "NED"]
+[BlackCountry "SRB"]
+
+1. d4 Nf6 2. c4 c5 3. d5 d6 4. Nc3 g6 5. e4 Bg7 6. Bd3 O-O 7. h3 e6 8. Nf3 Na6
+9. O-O Nc7 10. Bg5 h6 11. Bd2 exd5 12. exd5 b5 13. b3 Re8 14. Qc2 Rb8 15. Rae1
+bxc4 16. bxc4 Bd7 17. Rb1 Na6 18. a3 Qe7 19. Bf4 Nh5 20. Bh2 f5 21. Nb5 Bxb5
+22. Rxb5 Rxb5 23. cxb5 Nc7 24. Qa4 Na8 25. Re1 Qxe1+ 26. Nxe1 Rxe1+ 27. Bf1 Nb6
+28. Qxa7 Nc4 29. g4 Nd2 30. gxh5 Nf3+ 31. Kh1 Bd4 32. Bg3 f4 33. hxg6 1-0

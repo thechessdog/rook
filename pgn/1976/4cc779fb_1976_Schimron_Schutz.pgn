@@ -1,0 +1,19 @@
+[Event "corr DDR/M"]
+[Site "corr DDR/M"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Schimron, H."]
+[Black "Schutz, H."]
+[Result "0-1"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "modern variation"]
+[HashCode "4cc779fb"]
+[Epoch "Rook"]
+
+1. b3 e5 2. Bb2 Nc6 3. e3 Nf6 4. Bb5 Bd6 5. Ne2 a6 6. Bxc6 dxc6 7. O-O Bg4
+8. f3 Bh5 9. g4 Bg6 10. Ng3 Qd7 11. Nc3 h5 12. g5 Nd5 13. Nce2 h4 14. Nh1
+O-O-O 15. c4 Nb4 16. Nf2 Qe7 17. f4 exf4 18. exf4 Bh5 19. Re1 Bxf4 20. Bf6
+Bxh2+ 21. Kxh2 Qd6+ 22. Kg1 gxf6 23. Ne4 Qe5 24. Qb1 Nd3 25. N2c3 Nxe1 26.
+Qxe1 fxg5 27. Qf2 f5 28. Nc5 Qg3+ 29. Qxg3 hxg3 30. d3 Bf3 0-1
+

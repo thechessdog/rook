@@ -1,0 +1,21 @@
+[Event "Novi Sad"]
+[Site "Novi Sad"]
+[Date "1981.01.01"]
+[Round "11"]
+[White "Petrovic, Vojislav"]
+[Black "Kirov, Nino"]
+[Result "0-1"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (without ...d6)"]
+[HashCode "efaf469f"]
+[Epoch "Rook"]
+[WhiteID "905780"]
+[WhiteCountry "SRB"]
+[BlackCountry "BGR"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 e6 4. Bxc6 bxc6 5. O-O Ne7 6. e5 Ng6 7. Nc3 f6 8. h4
+fxe5 9. h5 Nf4 10. Nxe5 d6 11. Nc4 Nxg2 12. Qf3 Nh4 13. Qxc6+ Bd7 14. Nxd6+
+Bxd6 15. Qxd6 Qg5+ 16. Qg3 Qxh5 17. Ne4 O-O 18. d3 h6 19. f4 Bc6 20. Qh3 Rf5
+21. Rf2 Raf8 22. Be3 c4 23. Kh2 cxd3 24. cxd3 e5 25. Bc5 R8f7 26. Ng3 Nf3+ 27.
+Rxf3 Qxf3 28. Rf1 Qd5 29. Nxf5 Rxf5 0-1

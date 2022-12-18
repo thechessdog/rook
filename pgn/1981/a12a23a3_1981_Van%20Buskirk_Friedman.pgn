@@ -1,0 +1,18 @@
+[Event "corr ICA"]
+[Site "corr ICA"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Van Buskirk, C."]
+[Black "Friedman, E."]
+[Result "0-1"]
+[ECO "B95"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6...e6"]
+[HashCode "a12a23a3"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. Qf3 Bd7 8.
+O-O-O Nc6 9. Nb3 Be7 10. Be2 Qc7 11. Qg3 Rc8 12. Rhe1 Ne5 13. Bxf6 Bxf6 14.
+f4 Ng6 15. Qd3 Nxf4 16. Qxd6 Nxg2 17. Rg1 Ne3 18. Qxc7 Rxc7 19. Rd3 Nc4 20.
+Kb1 b5 21. Bf1 Nxb2 22. Kxb2 b4 0-1
+

@@ -1,0 +1,17 @@
+[Event "Charleston"]
+[Site "Charleston"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Szasz, Charles"]
+[Black "Walker"]
+[Result "1-0"]
+[ECO "D00"]
+[Opening "Blackmar-Diemer gambit"]
+[HashCode "cdc17565"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. Nc3 d5 3. e4 dxe4 4. f3 exf3 5. Nxf3 Bg4 6. h3 Bh5 7. g4 Nxg4
+8. hxg4 Bxg4 9. Bb5+ c6 10. Bc4 e6 11. Qd3 Bxf3 12. Qxf3 Qxd4 13. Rf1 Qe5+
+14. Be3 f6 15. O-O-O Kf7 16. Bd4 Qg5+ 17. Kb1 Nd7 18. Qe4 Re8 19. Be3 Nc5
+20. Bxg5 Nxe4 21. Nxe4 1-0
+

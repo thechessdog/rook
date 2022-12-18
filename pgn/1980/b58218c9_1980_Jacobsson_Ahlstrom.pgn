@@ -1,0 +1,22 @@
+[Event "corr SWE/K tt"]
+[Site "corr SWE/K tt"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Jacobsson, Bengt"]
+[Black "Ahlstrom, Per"]
+[Result "1-0"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra gambit"]
+[HashCode "b58218c9"]
+[Epoch "Rook"]
+[BlackID "1713868"]
+[BlackCountry "SWE"]
+
+1. e4 c5 2. d4 cxd4 3. c3 dxc3 4. Nxc3 Nc6 5. Nf3 d6 6. Bc4 e6 7. Qe2 Be7 8.
+O-O Nf6 9. Rd1 Nd7 10. Bf4 e5 11. Be3 Nb6 12. Bd3 Be6 13. Rac1 O-O 14. Ne1 Bg5
+15. Bb1 Bxe3 16. fxe3 a6 17. b3 Qd7 18. Qd3 Rad8 19. Nd5 Nc8 20. Nf3 N8e7 21.
+Nh4 f6 22. Rf1 Kh8 23. Rf2 Bg8 24. a3 Rfe8 25. Qe2 Rc8 26. Rcf1 Qe6 27. g4 Nxd5
+28. exd5 Qxd5 29. Bf5 Be6 30. g5 Bxf5 31. Nxf5 Rcd8 32. Nxg7 Kxg7 33. Rxf6 Rf8
+34. Qh5 Rxf6 35. gxf6+ Kh8 36. f7 Rg8+ 37. fxg8=Q+ Qxg8+ 38. Kh1 Qd5+ 39. Rf3
+1-0

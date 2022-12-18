@@ -1,0 +1,19 @@
+[Event "Tirnava"]
+[Site "Trnava"]
+[Date "1981.01.01"]
+[Round "12"]
+[White "Banas, Jan"]
+[Black "Vadasz, Laszlo"]
+[Result "1/2-1/2"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...e6"]
+[HashCode "4f74e6e7"]
+[Epoch "Rook"]
+[WhiteID "14900076"]
+[WhiteCountry "SVK"]
+[BlackCountry "HUN"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 e6 6. Nf3 Bb4 7. cxd5 exd5 8.
+Qa4+ Nc6 9. Bb5 O-O 10. Bxc6 Bxc3+ 11. bxc3 bxc6 12. O-O Qb6 13. Ba3 Qa6 14.
+Qxa6 Bxa6 15. Bxf8 Bxf1 1/2-1/2

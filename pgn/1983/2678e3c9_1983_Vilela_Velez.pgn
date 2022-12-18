@@ -1,0 +1,16 @@
+[Event "Capablanca mem-B"]
+[Site "Cienfuegos B"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Vilela, Jose Luis"]
+[Black "Velez, Nestor"]
+[Result "1/2-1/2"]
+[ECO "C60"]
+[Opening "Ruy Lopez"]
+[Variation "fianchetto (Smyslov/Barnes) defence"]
+[HashCode "2678e3c9"]
+[Epoch "Rook"]
+[WhiteCountry "EST"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 g6 4. c3 Bg7 5. d4 exd4 6. cxd4 a6 7. Ba4 b5 8. Bb3
+d6 9. h3 Nge7 10. O-O O-O 11. a4 Na5 12. Bc2 b4 13. Nbd2 1/2-1/2

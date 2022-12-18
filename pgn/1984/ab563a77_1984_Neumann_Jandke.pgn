@@ -1,0 +1,19 @@
+[Event "corr ch-DDR"]
+[Site "corr ch-DDR"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Neumann"]
+[Black "Jandke"]
+[Result "1/2-1/2"]
+[ECO "E95"]
+[Opening "King's Indian"]
+[Variation "orthodox, 7...Nbd7, 8.Re1"]
+[HashCode "ab563a77"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 Nbd7 7. O-O e5 8.
+Re1 c6 9. Bf1 exd4 10. Nxd4 Ng4 11. h3 Qb6 12. hxg4 Qxd4 13. g5 Qe5 14. Be3
+Qe7 15. Qd2 Ne5 16. Rad1 Be6 17. b3 Rad8 18. f4 Ng4 19. Bd4 f6 20. Be2 Qd7
+21. gxf6 Bxf6 22. Bxa7 Qg7 23. Bd4 Qh6 24. Bxg4 Bxd4+ 25. Qxd4 Bxg4 26. Ne2
+Bxe2 27. Rxe2 Qxf4 28. Rf2 Qxf2+ 29. Qxf2 Rxf2 30. Kxf2 1/2-1/2
+

@@ -1,0 +1,20 @@
+[Event "corr CSSR cup"]
+[Site "corr CSSR cup"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Pilch"]
+[Black "Blabazna"]
+[Result "0-1"]
+[ECO "E30"]
+[Opening "Nimzo-Indian"]
+[Variation "Leningrad variation"]
+[HashCode "b2f7d63a"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Bg5 h6 5. Bxf6 Bxc3+ 6. bxc3 Qxf6 7. Nf3
+b6 8. e4 Bb7 9. e5 Qe7 10. d5 d6 11. a4 a6 12. Qd4 O-O 13. Bd3 Nd7 14. O-O
+Nc5 15. Bc2 Rfd8 16. Rfd1 dxe5 17. Nxe5 exd5 18. Qe3 dxc4 19. Nxc4 Qxe3 20.
+Nxe3 Bc6 21. Nf5 Rxd1+ 22. Bxd1 Re8 23. Kf1 b5 24. Nd4 Bd7 25. axb5 Ne4 26.
+Be2 Nxc3 27. Rxa6 Nxe2 28. Nxe2 Be6 29. Ra4 Bb3 30. Rb4 Bc2 31. Nc1 Bf5 32.
+Nb3 Bd3+ 33. Kg1 Re1# 0-1
+

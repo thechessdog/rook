@@ -1,0 +1,28 @@
+[Event "Skien"]
+[Site "Skien"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "De Firmian, Nick"]
+[Black "Schussler, Harry"]
+[Result "0-1"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, 6.Bd3"]
+[HashCode "76ab9b09"]
+[Epoch "Rook"]
+[WhiteID "2000105"]
+[WhiteCountry "USA"]
+[BlackID "1700081"]
+[BlackCountry "SWE"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. f4 Nf6 5. Bd3 O-O 6. Nf3 Na6 7. e5 Nd7 8. Ne2
+c5 9. c3 cxd4 10. cxd4 dxe5 11. fxe5 Nb4 12. Be4 Nb6 13. O-O Nc6 14. Be3 Be6
+15. Nc3 Nd5 16. Qd2 Nxc3 17. bxc3 Bd5 18. Qd3 Na5 19. Nd2 Rc8 20. Rfc1 Nc4 21.
+Rab1 b6 22. Rb4 Nxd2 23. Bxd2 Bxe5 24. Bg5 Bf6 25. Bxf6 exf6 26. Bxd5 Qxd5 27.
+c4 Qd6 28. Rb2 Rfe8 29. Qc3 Rcd8 30. Rd2 Re4 31. Rcd1 Qe7 32. h3 f5 33. Kh1 Re8
+34. c5 Re1+ 35. Kh2 Qc7+ 36. Qg3 Qxg3+ 37. Kxg3 Rxd1 38. Rxd1 bxc5 39. dxc5
+Re3+ 40. Kf4 Re4+ 41. Kf3 Rc4 42. Rd8+ Kg7 43. Ra8 Rc3+ 44. Ke2 Rxc5 45. Rxa7
+Rc2+ 46. Kf3 g5 47. Ra5 Rc3+ 48. Kf2 Kg6 49. Ra8 h5 50. Rg8+ Kf6 51. a4 Rc2+
+52. Kf3 Ra2 53. Ra8 Ra3+ 54. Kf2 h4 55. Ra5 Ra2+ 56. Kf3 Ra3+ 57. Kf2 Kg6 58.
+Ra8 f6 59. Rg8+ Kh7 60. Ra8 g4 61. a5 Kg6 62. Rg8+ Kh5 63. Ra8 Kg5 64. Ra6 Ra1
+65. Ke2 g3 66. Ke3 f4+ 67. Kf3 0-1

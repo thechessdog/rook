@@ -1,0 +1,20 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Daemel"]
+[Black "Muller, Hans P"]
+[Result "0-1"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, 6.Bd3"]
+[HashCode "5d552ccf"]
+[Epoch "Rook"]
+[BlackID "3223167"]
+[BlackCountry "AUS"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 O-O 6. Bd3 Nc6 7. e5 dxe5 8. fxe5
+Nh5 9. Be2 Bg4 10. d5 Bxf3 11. Bxf3 Nxe5 12. Bxh5 gxh5 13. Qxh5 c6 14. Bh6 Bxh6
+15. Qxh6 cxd5 16. Qg5+ Ng6 17. Nxd5 f6 18. Qf5 Qc8 19. Qxg6+ hxg6 20. Nxe7+ Kf7
+21. Nxc8 Re8+ 22. Kf2 Raxc8 23. c3 Re5 24. Rhe1 Rb5 25. Re2 g5 26. Rd1 Rc6 27.
+Re7+ Kxe7 0-1

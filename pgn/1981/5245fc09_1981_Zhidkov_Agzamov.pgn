@@ -1,0 +1,23 @@
+[Event "Cheliabinsk"]
+[Site "Cheliabinsk"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Zhidkov, Valery S"]
+[Black "Agzamov, Georgy"]
+[Result "0-1"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Nimzovich (knight's tour) variation"]
+[HashCode "5245fc09"]
+[Epoch "Rook"]
+[BlackCountry "RUS"]
+[WhiteID "14100282"]
+[WhiteCountry "UKR"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. Nd2 Bg7 8. e4
+O-O 9. Be2 Na6 10. O-O Nc7 11. Kh1 Re8 12. f3 b6 13. Rb1 Rb8 14. a4 Qd7 15. Nc4
+Ba6 16. b4 cxb4 17. Rxb4 Nh5 18. Nb5 Bxb5 19. axb5 f5 20. Ne3 fxe4 21. fxe4 Nf6
+22. Ng4 Rf8 23. Nxf6+ Rxf6 24. Rxf6 Bxf6 25. g3 Rf8 26. Kg2 Qe7 27. Bf3 Bc3 28.
+Rb3 Qf6 29. Bh6 Rf7 30. Qd3 Bd4 31. h4 Bc5 32. Rb1 Qe5 33. Qd2 Qe8 34. Qd3 Qe5
+35. Qd2 Qe8 36. h5 Nxb5 37. hxg6 Rxf3 38. gxh7+ Kxh7 39. Kxf3 Nd4+ 40. Kf4 Qh5
+0-1

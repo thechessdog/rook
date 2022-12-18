@@ -1,0 +1,17 @@
+[Event "Kecskemet"]
+[Site "Kecskemet"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Ostojic, Predrag"]
+[Black "Hazai, Laszlo Dr."]
+[Result "1/2-1/2"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical system, 5.Be2"]
+[HashCode "40cb22ff"]
+[Epoch "Rook"]
+[BlackID "700177"]
+[BlackCountry "HUN"]
+[WhiteCountry "SRB"]
+
+1. e4 g6 2. d4 Bg7 3. Nf3 d6 4. Nc3 Nf6 5. Be2 O-O 6. O-O Nc6 7. Be3 e5 1/2-1/2

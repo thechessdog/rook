@@ -1,0 +1,25 @@
+[Event "Rome"]
+[Site "Rome"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Makropoulos, Georgios"]
+[Black "Csom, Istvan"]
+[Result "0-1"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "fdf95aa2"]
+[Epoch "Rook"]
+[WhiteID "4200047"]
+[WhiteCountry "GRE"]
+[BlackID "700100"]
+[BlackCountry "HUN"]
+
+1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. d4 Nf6 5. Nf3 e6 6. Bd3 Be7 7. Be3 b6 8. O-O
+Bb7 9. c4 Qd8 10. dxc5 bxc5 11. Nc3 Nbd7 12. Qe2 Bxf3 13. gxf3 O-O 14. Rad1 Qc7
+15. Nb5 Qc6 16. Bg5 Rfe8 17. Bf4 Rec8 18. Bc2 a6 19. Nc3 Rd8 20. Be4 Nxe4 21.
+Qxe4 Qc8 22. Na4 Nf6 23. Qe2 Qc6 24. b3 Rac8 25. Bg5 h6 26. Be3 Qc7 27. Rxd8+
+Rxd8 28. Rd1 Rxd1+ 29. Qxd1 Bd6 30. Kg2 Nd7 31. Qd3 f5 32. h3 Kf7 33. Qd1 Qc6
+34. Kg1 g5 35. h4 Ne5 36. hxg5 hxg5 37. Kf1 f4 38. Bc1 Nxf3 39. Qd3 Kg7 40.
+Bb2+ Be5 41. Ke2 g4 42. Bxe5+ Nxe5 43. Qc3 Kf6 44. Nb2 Qe4+ 45. Kd2 Kf5 46. a3
+Qb1 47. b4 cxb4 48. axb4 Qxb2+ 0-1

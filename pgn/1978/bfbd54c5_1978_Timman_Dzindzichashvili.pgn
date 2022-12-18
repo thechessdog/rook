@@ -1,0 +1,19 @@
+[Event "IBM"]
+[Site "Amsterdam"]
+[Date "1978.07.01"]
+[Round "10"]
+[White "Timman, Jan H"]
+[Black "Dzindzichashvili, Roman"]
+[Result "1/2-1/2"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, 6.Bd3"]
+[HashCode "bfbd54c5"]
+[Epoch "Rook"]
+[WhiteID "1000012"]
+[WhiteCountry "NED"]
+[BlackID "2000113"]
+[BlackCountry "USA"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 O-O 6. Bd3 Na6 7. e5 Nd7 8. Ng5
+dxe5 9. fxe5 Nb6 10. Bxa6 bxa6 11. Nge4 f6 1/2-1/2

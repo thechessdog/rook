@@ -1,0 +1,22 @@
+[Event "corr NS/II"]
+[Site "corr NS/II"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Allen, Olavi"]
+[Black "Saarinen, Harri"]
+[Result "0-1"]
+[ECO "E53"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Keres variation"]
+[HashCode "4699f76b"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 c5 7. O-O b6 8.
+cxd5 exd5 9. Ne5 Re8 10. f3 Ba6 11. Re1 Bxd3 12. Nxd3 Bxc3 13. bxc3 Nbd7
+14. Nf2 Nf8 15. e4 dxe4 16. fxe4 Ng6 17. Bg5 cxd4 18. cxd4 h6 19. Bxf6 Qxf6
+20. Rc1 Rad8 21. d5 Qd6 22. Re3 f5 23. Qh5 Ne7 24. exf5 Qxd5 25. Rce1 Qf7
+26. Qxf7+ Kxf7 27. Ra3 a5 28. g4 Nd5 29. Rb1 Nf4 30. Rf3 Rd4 31. Kf1 Nd5
+32. Rd3 Ne3+ 33. Kg1 Rxd3 34. Nxd3 Nxg4 35. Rxb6 Re2 36. Rb2 Re3 37. Nc5
+Kf6 38. Nd7+ Kxf5 39. Rb5+ Kf4 40. Rxa5 g6 41. Ra8 Re1+ 42. Kg2 Re2+ 43.
+Kf1 Rxh2 44. a4 Ra2 45. a5 Nh2+ 0-1
+

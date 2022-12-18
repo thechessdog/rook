@@ -1,0 +1,17 @@
+[Event "corr YUG"]
+[Site "corr YUG"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Zelic, M."]
+[Black "Vajs, D."]
+[Result "1-0"]
+[ECO "C34"]
+[Opening "KGA"]
+[Variation "Fischer defence"]
+[HashCode "0ae81d3b"]
+[Epoch "Rook"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 d6 4. d4 g5 5. Bc4 Bg7 6. O-O h6 7. g3 g4 8. Nh4
+f3 9. c3 Nc6 10. Bf4 Bf6 11. Nd2 Bxh4 12. gxh4 Qxh4 13. e5 dxe5 14. Bg3 Qh5
+15. Qb3 Nge7 16. d5 Nd8 17. Qa3 Qg5 18. Rf2 Ng6 19. Bb5+ c6 20. Ne4 1-0
+

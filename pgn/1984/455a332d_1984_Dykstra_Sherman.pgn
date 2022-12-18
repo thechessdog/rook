@@ -1,0 +1,18 @@
+[Event "New Mexico"]
+[Site "New Mexico"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Dykstra"]
+[Black "Sherman, David"]
+[Result "1-0"]
+[ECO "D82"]
+[Opening "Gruenfeld"]
+[Variation "4.Bf4"]
+[HashCode "455a332d"]
+[Epoch "Rook"]
+[BlackID "2007886"]
+[BlackCountry "USA"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Bf4 Bg7 5. e3 c6 6. b4 O-O 7. Qb3 Be6 8. Nf3
+dxc4 9. Bxc4 Bxc4 10. Qxc4 Nbd7 11. e4 Nb6 12. Qb3 Nh5 13. Be3 Qc7 14. e5 Bh8
+15. g4 Ng7 16. Bh6 e6 17. Ne4 f5 18. exf6 Ne8 19. Bxf8 Kxf8 20. Nfg5 1-0

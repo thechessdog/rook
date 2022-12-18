@@ -1,0 +1,19 @@
+[Event "corr ch-DDR"]
+[Site "corr ch-DDR"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Mehner"]
+[Black "Piastowski"]
+[Result "1-0"]
+[ECO "B28"]
+[Opening "Sicilian"]
+[Variation "O'Kelly variation"]
+[HashCode "6b55e138"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 a6 3. c4 Nc6 4. d4 cxd4 5. Nxd4 e5 6. Nf5 d6 7. Nc3 Bxf5 8.
+exf5 Nge7 9. g4 Nd4 10. Bg2 Rb8 11. Be3 Nec6 12. Qd2 h5 13. Ne2 Nxe2 14.
+Qxe2 hxg4 15. O-O-O Qc8 16. Qxg4 g6 17. Bf3 gxf5 18. Qg5 Nb4 19. b3 Nxa2+
+20. Kb2 Nb4 21. Qf6 Rg8 22. Bh5 Qd7 23. Bc5 e4 24. Kb1 b5 25. Bxd6 Bg7 26.
+Rhg1 1-0
+

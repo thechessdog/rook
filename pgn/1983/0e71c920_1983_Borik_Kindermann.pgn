@@ -1,0 +1,21 @@
+[Event "Bundesliga 8283"]
+[Site "Duitsland tt"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Borik, Otto"]
+[Black "Kindermann, Stefan"]
+[Result "1/2-1/2"]
+[ECO "E42"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5, 5.Ne2 (Rubinstein)"]
+[HashCode "0e71c920"]
+[Epoch "Rook"]
+[WhiteID "4600762"]
+[WhiteCountry "GER"]
+[BlackID "4600053"]
+[BlackCountry "AUT"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Ne2 cxd4 6. exd4 O-O 7. a3 Be7 8. g3
+d5 9. cxd5 Nxd5 10. Bg2 Nxc3 11. bxc3 Nc6 12. O-O Bd7 13. Nf4 Rc8 14. d5 exd5
+15. Nxd5 Be6 16. Bf4 Bf6 17. Rb1 Na5 18. Nxf6+ Qxf6 19. Qd4 Qxd4 20. cxd4 b6
+21. d5 Bd7 22. Rfe1 Rfe8 23. Rxe8+ Rxe8 24. Rc1 Nb3 25. Rd1 Bg4 26. f3 1/2-1/2

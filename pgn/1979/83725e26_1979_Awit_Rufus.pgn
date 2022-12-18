@@ -1,0 +1,21 @@
+[Event "ACM Detroit"]
+[Site "ACM Detroit"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Awit"]
+[Black "Rufus"]
+[Result "1-0"]
+[ECO "A22"]
+[Opening "English"]
+[Variation "Bremen, Smyslov system"]
+[HashCode "83725e26"]
+[Epoch "Rook"]
+
+1. c4 e5 2. Nc3 Nf6 3. g3 Bb4 4. a3 Bc5 5. Bg2 Nc6 6. d3 O-O 7. Nf3 d6 8.
+b4 Bb6 9. O-O Bf5 10. Na4 Qd7 11. Nxb6 axb6 12. Bb2 Rfe8 13. Nd2 Ng4 14. h3
+Nf6 15. g4 Bg6 16. Qb3 Rac8 17. b5 Na5 18. Qb4 Rb8 19. a4 c5 20. bxc6 bxc6
+21. Nb3 Qc7 22. Kh2 Nxb3 23. Qxb3 c5 24. Qb5 Rbc8 25. f4 exf4 26. Rf2 Nd7
+27. Bh1 h5 28. Bd5 hxg4 29. hxg4 Nf6 30. Bxf6 gxf6 31. Rh1 Re5 32. Kg1 Kg7
+33. Kg2 Rh8 34. Rxh8 Kxh8 35. Qb2 Qe7 36. Kh2 Qe8 37. d4 cxd4 38. Qxd4 Qxa4
+39. Qxf4 f5 40. Qh6+ Kg8 41. Qxg6+ Kh8 42. Bxf7 d5 43. Qg8# 1-0
+

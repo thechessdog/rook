@@ -1,0 +1,19 @@
+[Event "corr Wcup3"]
+[Site "corr Wcup3"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Schiele"]
+[Black "Schreiber"]
+[Result "0-1"]
+[ECO "E76"]
+[Opening "King's Indian"]
+[Variation "Four pawns attack, dynamic line"]
+[HashCode "6d82f484"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f4 c5 6. d5 O-O 7. Nf3 e6 8. dxe6
+fxe6 9. Bd3 Nc6 10. O-O a6 11. Ng5 Qe7 12. Qe1 Bd7 13. Qh4 Nh5 14. g4 h6
+15. gxh5 hxg5 16. Qg4 gxf4 17. Rxf4 Ne5 18. Qg3 Nxd3 19. Qxd3 Qg5+ 20. Qg3
+Bd4+ 21. Kg2 Qxg3+ 22. hxg3 e5 23. Rxf8+ Rxf8 24. Nd1 Bc6 25. Nc3 gxh5 26.
+Kh3 Rf1 27. Kh4 Be3 28. Bxe3 Rxa1 29. Kxh5 b5 0-1
+

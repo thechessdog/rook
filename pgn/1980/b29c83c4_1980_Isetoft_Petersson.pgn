@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Isetoft, B."]
+[Black "Petersson, A."]
+[Result "1/2-1/2"]
+[ECO "C07"]
+[Opening "French"]
+[Variation "Tarrasch, open variation"]
+[HashCode "b29c83c4"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. Ngf3 Nf6 5. exd5 Nxd5 6. Nb3 cxd4 7. Nbxd4
+Bb4+ 8. Bd2 Bxd2+ 9. Qxd2 a6 10. Bd3 Nd7 11. c4 N5f6 12. O-O O-O 13. Bc2
+Qc7 14. b3 b6 15. Ng5 Nc5 16. Rad1 h6 17. Ngf3 Bb7 18. Qe2 Rfe8 19. Qe5
+Rac8 20. Rfe1 1/2-1/2
+

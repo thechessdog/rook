@@ -1,0 +1,21 @@
+[Event "corr WT-M"]
+[Site "corr WT-M"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Dague, Georges"]
+[Black "Peters, Toon"]
+[Result "0-1"]
+[ECO "B25"]
+[Opening "Sicilian"]
+[Variation "closed, 6.f4"]
+[HashCode "005511da"]
+[Epoch "Rook"]
+
+1. e4 d6 2. g3 c5 3. Bg2 Nc6 4. Nc3 g6 5. d3 Bg7 6. f4 e6 7. Nf3 Nge7 8.
+O-O O-O 9. Be3 Nd4 10. Rb1 Rb8 11. Ne2 Nxf3+ 12. Bxf3 b6 13. c3 Ba6 14. Qc2
+Qc7 15. Rfd1 e5 16. b4 f5 17. fxe5 Bxe5 18. d4 cxd4 19. Nxd4 Bc4 20. Bh6
+Rf7 21. Qg2 Re8 22. Re1 Bd3 23. Rbc1 fxe4 24. Bxe4 Bxe4 25. Qxe4 Qc4 26.
+Nb3 Rf1+ 27. Kg2 Qxe4+ 28. Rxe4 Rxc1 29. Nxc1 Bxc3 30. Nd3 Kf7 31. Bc1 Bf6
+32. Kf3 Rc8 33. Bb2 Bxb2 34. Nxb2 Rc3+ 35. Re3 Rxe3+ 36. Kxe3 Nd5+ 37. Kd4
+Nxb4 38. Kc4 Nxa2 39. Kb5 Ke6 40. Ka6 Kd5 0-1
+

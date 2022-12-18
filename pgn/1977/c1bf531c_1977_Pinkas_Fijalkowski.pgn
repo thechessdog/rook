@@ -1,0 +1,17 @@
+[Event "Poland"]
+[Site "Poland"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Pinkas"]
+[Black "Fijalkowski"]
+[Result "1-0"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical (two knights) system"]
+[HashCode "c1bf531c"]
+[Epoch "Rook"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. Nf3 Nf6 5. Bg5 c5 6. e5 cxd4 7. exf6 exf6
+8. Qxd4 Nc6 9. Qe3+ Kd7 10. Bf4 Re8 11. O-O-O Rxe3 12. Rxd6+ Ke7 13. Nd5+
+1-0
+

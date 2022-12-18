@@ -1,0 +1,25 @@
+[Event "Rostock"]
+[Site "Rostock"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Tischbierek, Raj"]
+[Black "Paehtz, Thomas"]
+[Result "0-1"]
+[ECO "B33"]
+[Opening "Sicilian"]
+[Variation "Pelikan (Lasker/Sveshnikov) variation"]
+[HashCode "eb6c42cf"]
+[Epoch "Rook"]
+[BlackID "4611349"]
+[BlackCountry "GER"]
+[WhiteID "4611322"]
+[WhiteCountry "GER"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Nde2 Bc5 7. Ng3 d6 8.
+Be2 Be6 9. Na4 Bb4+ 10. c3 Ba5 11. O-O Qd7 12. Be3 Bd8 13. c4 g6 14. f4 exf4
+15. Bxf4 Be7 16. Nc3 h5 17. Nb5 h4 18. Nxd6+ Bxd6 19. Bxd6 Ng4 20. Nh1 Ne3 21.
+Qd2 Nxf1 22. Rxf1 h3 23. g3 Bg4 24. c5 Bxe2 25. Qxe2 Rh5 26. Nf2 O-O-O 27. Nd3
+Re8 28. Nf4 Rg5 29. Qe3 Rg4 30. e5 Nxe5 31. Qa3 Rxf4 32. gxf4 Nc4 33. Qg3 Qf5
+34. Qg5 Qd3 35. Qg4+ f5 36. Qg3 Qd4+ 37. Qf2 Re3 38. b3 Nd2 39. Be5 Qd5 40. Rc1
+Nf3+ 41. Kh1 Nxe5+ 42. Kg1 Nf3+ 43. Kh1 Nh4+ 44. Kg1 Qg2+ 45. Qxg2 hxg2 46. Kf2
+Rf3+ 0-1

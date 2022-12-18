@@ -1,0 +1,20 @@
+[Event "corr NLD/H"]
+[Site "corr NLD/H"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Knoek"]
+[Black "Van Schaaik"]
+[Result "0-1"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra gambit"]
+[HashCode "679fb9e8"]
+[Epoch "Rook"]
+
+1. e4 c5 2. d4 cxd4 3. c3 dxc3 4. Nxc3 Nc6 5. Nf3 d6 6. Bc4 e6 7. O-O Nf6
+8. Qe2 Be7 9. Rd1 e5 10. h3 O-O 11. Be3 Be6 12. Rac1 h6 13. b4 Nxb4 14.
+Bxe6 fxe6 15. Nxe5 Qe8 16. Nf3 d5 17. exd5 Nbxd5 18. Nxd5 Nxd5 19. Rb1 b6
+20. Bd2 Bd6 21. Re1 Rf6 22. Ne5 Bxe5 23. Qxe5 Qg6 24. Qe4 Qxe4 25. Rxe4 Rc8
+26. Rc1 Rxc1+ 27. Bxc1 Nc3 28. Re3 Nxa2 29. Bb2 Rf7 30. Rxe6 Rb7 31. Re2
+Nb4 32. Ba3 Nd5 33. Rd2 Rd7 34. f4 a5 0-1
+

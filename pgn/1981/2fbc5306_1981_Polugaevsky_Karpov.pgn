@@ -1,0 +1,19 @@
+[Event "Moscow"]
+[Site "Moscow"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Polugaevsky, Lev"]
+[Black "Karpov, Anatoly"]
+[Result "1/2-1/2"]
+[ECO "E18"]
+[Opening "Queen's Indian"]
+[Variation "old main line, 7.Nc3"]
+[HashCode "2fbc5306"]
+[Epoch "Rook"]
+[BlackID "4100026"]
+[WhiteCountry "BLR"]
+[BlackCountry "RUS"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2 Be7 6. O-O O-O 7. Nc3 Ne4 8. Bd2
+d6 9. Rc1 Nxd2 10. Qxd2 c5 11. Rfd1 cxd4 12. Nxd4 Bxg2 13. Kxg2 a6 14. e4 Ra7
+15. Qe2 Qc8 16. b3 Rc7 17. a4 1/2-1/2

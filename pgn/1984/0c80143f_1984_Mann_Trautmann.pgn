@@ -1,0 +1,20 @@
+[Event "corr ch-DDR"]
+[Site "corr ch-DDR"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Mann"]
+[Black "Trautmann"]
+[Result "0-1"]
+[ECO "E44"]
+[Opening "Nimzo-Indian"]
+[Variation "Fischer variation, 5.Ne2"]
+[HashCode "0c80143f"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 b6 5. Ne2 Ne4 6. Bd2 Nxd2 7. Qxd2 Bb7
+8. a3 Bxc3 9. Nxc3 d6 10. e4 Nd7 11. Bd3 e5 12. d5 O-O 13. O-O Bc8 14. f4
+exf4 15. Rxf4 Ne5 16. Raf1 Bd7 17. Ne2 Qg5 18. Qc3 h5 19. Nd4 Bg4 20. Bc2
+Bd7 21. b4 a5 22. c5 axb4 23. axb4 bxc5 24. bxc5 Rfb8 25. Nc6 Nxc6 26. dxc6
+Be6 27. cxd6 cxd6 28. c7 Rb5 29. e5 Qxe5 30. Qf3 Rf8 31. Bg6 Qc5+ 32. Kh1
+Qxc7 33. Bxh5 Qb7 34. Qxb7 Rxb7 35. Bf3 d5 36. Rd1 Rd8 37. Kg1 Kf8 0-1
+

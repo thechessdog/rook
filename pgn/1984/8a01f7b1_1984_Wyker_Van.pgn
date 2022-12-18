@@ -1,0 +1,18 @@
+[Event "corr NBC"]
+[Site "corr NBC"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Wyker"]
+[Black "Van der Klashorst"]
+[Result "0-1"]
+[ECO "B93"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.f4"]
+[HashCode "8a01f7b1"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 Nbd7 7. a4 g6 8.
+Be2 Bg7 9. O-O O-O 10. Be3 Qc7 11. a5 b5 12. axb6 Nxb6 13. Qd3 Bb7 14. Nb3
+Nfd7 15. Na4 Nxa4 16. Rxa4 Rfc8 17. c3 Bc6 18. Rxa6 Rxa6 19. Qxa6 Bxe4 20.
+Nd2 Bb7 21. Qd3 Ra8 22. Qc2 Nb6 23. g3 Nd5 24. Bf2 Ra2 0-1
+

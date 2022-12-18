@@ -1,0 +1,20 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Olsen, Kim"]
+[Black "Yde, Jesper"]
+[Result "0-1"]
+[ECO "D20"]
+[Opening "QGA"]
+[Variation "3.e4"]
+[HashCode "923bf3b4"]
+[Epoch "Rook"]
+[WhiteID "1406922"]
+[BlackID "1418327"]
+[WhiteCountry "DEN"]
+[BlackCountry "DEN"]
+
+1. d4 d5 2. c4 dxc4 3. e4 e6 4. Bxc4 Nf6 5. Bg5 Be7 6. Nc3 c5 7. d5 exd5 8.
+Bxf6 Bxf6 9. Qxd5 Bxc3+ 10. bxc3 Qe7 11. Bb5+ Nd7 12. Bxd7+ Bxd7 13. Qxb7 O-O
+14. Rd1 Rad8 15. Ne2 Ba4 16. Rxd8 Qxb7 17. Rxf8+ Kxf8 18. O-O Qxe4 0-1

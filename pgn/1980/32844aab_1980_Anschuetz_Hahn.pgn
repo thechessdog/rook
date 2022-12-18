@@ -1,0 +1,28 @@
+[Event "corr ch10-DDR"]
+[Site "corr ch10-DDR"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Anschuetz, B."]
+[Black "Hahn, K."]
+[Result "1/2-1/2"]
+[ECO "B43"]
+[Opening "Sicilian"]
+[Variation "Kan, 5.Nc3"]
+[HashCode "32844aab"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 Qc7 6. Be3 Nc6 7. Bd3 Nf6
+8. O-O Nxd4 9. Bxd4 Bc5 10. Bxf6 gxf6 11. Qg4 Kf8 12. Kh1 h5 13. Qh4 Be7
+14. f4 b5 15. f5 Qe5 16. Rae1 Bb7 17. Rf3 Rh6 18. Ref1 Kg7 19. Rg3+ Kh8 20.
+a3 Rg8 21. Rxg8+ Kxg8 22. Rf3 Bd6 23. Nd1 Bc5 24. Qf4 Qxf4 25. Rxf4 h4 26.
+Nf2 e5 27. Rg4+ Kf8 28. Kg1 d5 29. Kf1 Rh5 30. exd5 Bxd5 31. Ke2 Ke7 32. h3
+Bd4 33. b3 Bc6 34. Be4 Bd7 35. Nd1 Bxf5 36. Bxf5 Rxf5 37. Rxh4 Rg5 38. Rg4
+Rg6 39. c3 Bb6 40. Rxg6 fxg6 41. Nb2 e4 42. a4 f5 43. axb5 axb5 44. Nd1 Ke6
+45. Ne3 Ke5 46. Nc2 Kd5 47. Na3 Kc5 48. Nc2 Bd8 49. Kd2 Bg5+ 50. Kd1 Bh6
+51. Nb4 Bf8 52. Ke2 Kd6 53. Nc2 Kd5 54. Ne3+ Ke5 55. Nc2 Kd5 56. Ne3+ Kc5
+57. Nc2 Bg7 58. Kd2 Bh6+ 59. Kd1 f4 60. Ke2 Bg7 61. Kd2 g5 62. Nb4 Be5 63.
+Nc2 Kd5 64. Nb4+ Kd6 65. Nc2 Kd5 66. Nb4+ Kc5 67. Nc2 Bf6 68. Nb4 Kd6 69.
+Nc2 Kd5 70. Nb4+ Ke6 71. Nc2 Kf5 72. c4 bxc4 73. bxc4 Ke5 74. Ke2 Be7 75.
+Na1 Kd4 76. Nb3+ Kxc4 77. Nd2+ Kd5 78. Nf1 Bb4 79. Nh2 Ke6 80. Ng4 Bc5 81.
+Nh2 Kf5 1/2-1/2
+

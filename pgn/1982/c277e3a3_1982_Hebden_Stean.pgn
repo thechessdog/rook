@@ -1,0 +1,20 @@
+[Event "Marbella zt f"]
+[Site "Marbella zt f"]
+[Date "1982.02.01"]
+[Round "7"]
+[White "Hebden, Mark L"]
+[Black "Stean, Michael F"]
+[Result "0-1"]
+[ECO "C39"]
+[Opening "KGA"]
+[Variation "Kieseritsky, Berlin defence"]
+[HashCode "c277e3a3"]
+[Epoch "Rook"]
+[WhiteID "400084"]
+[WhiteCountry "ENG"]
+[BlackID "400130"]
+[BlackCountry "ENG"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. h4 g4 5. Ne5 Nf6 6. Nxg4 Nxe4 7. d3 Ng3 8.
+Bxf4 Nxh1 9. Bg5 Be7 10. Qe2 h5 11. Qe5 f6 12. Bxf6 d6 13. Qe4 Bxg4 14. Bxh8
+Kd7 15. Bd4 Bxh4+ 0-1

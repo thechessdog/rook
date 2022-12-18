@@ -1,0 +1,15 @@
+[Event "Australia"]
+[Site "Australia"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Collins, W."]
+[Black "Parr, P."]
+[Result "0-1"]
+[ECO "B01"]
+[Opening "Scandinavian (centre counter) defence"]
+[HashCode "92ca93d2"]
+[Epoch "Rook"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qa5 4. d4 Nf6 5. Nf3 Bg4 6. Bc4 Nc6 7. O-O
+O-O-O 8. d5 e6 9. Bd2 Bxf3 10. gxf3 Ne5 11. Nb5 Qxd2 0-1
+

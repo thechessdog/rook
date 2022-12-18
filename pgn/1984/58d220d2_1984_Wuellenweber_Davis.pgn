@@ -1,0 +1,18 @@
+[Event "Castlemilk"]
+[Site "Castlemilk"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Wuellenweber"]
+[Black "Davis"]
+[Result "1-0"]
+[ECO "D07"]
+[Opening "QGD"]
+[Variation "Chigorin defence"]
+[HashCode "58d220d2"]
+[Epoch "Rook"]
+
+1. d4 d5 2. c4 Nc6 3. Nc3 dxc4 4. e3 e5 5. d5 Na5 6. Qa4+ c6 7. dxc6 Nxc6
+8. Bxc4 Bb4 9. Nf3 Bxc3+ 10. bxc3 Qf6 11. Ba3 Ne7 12. O-O O-O 13. Rab1 Rd8
+14. Rfd1 Rxd1+ 15. Qxd1 Bg4 16. Qd6 Qf5 17. Bd3 Qh5 18. Rxb7 Rd8 19. Rxe7
+g6 20. Qxc6 1-0
+

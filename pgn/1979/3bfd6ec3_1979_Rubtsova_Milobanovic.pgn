@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Rubtsova"]
+[Black "Milobanovic"]
+[Result "1-0"]
+[ECO "B33"]
+[Opening "Sicilian"]
+[Variation "Pelikan, Chelyabinsk variation"]
+[HashCode "3bfd6ec3"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6
+8. Na3 b5 9. Nd5 Qa5+ 10. Bd2 Qd8 11. c4 b4 12. Nc2 Nxe4 13. Ncxb4 Nxb4 14.
+Bxb4 a5 15. Ba3 Nc5 16. Qe2 Ne6 17. Rd1 Rb8 18. g3 Nc7 19. c5 Nb5 20. Qxb5+
+Rxb5 21. Bxb5+ Bd7 22. c6 1-0
+

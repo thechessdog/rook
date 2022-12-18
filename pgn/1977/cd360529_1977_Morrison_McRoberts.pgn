@@ -1,0 +1,16 @@
+[Event "corr Scotland"]
+[Site "corr Scotland"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Morrison, Graham"]
+[Black "McRoberts"]
+[Result "1-0"]
+[ECO "A57"]
+[Opening "Benko gambit half accepted"]
+[HashCode "cd360529"]
+[Epoch "Rook"]
+[WhiteID "2400090"]
+[WhiteCountry "SCO"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. f3 g6 6. e4 d6 7. a4 axb5 8. Bxb5+
+Bd7 9. Na3 Bg7 10. Ne2 O-O 11. Bd2 Bxb5 12. axb5 Nbd7 13. Nc4 1-0

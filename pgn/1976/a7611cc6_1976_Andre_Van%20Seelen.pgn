@@ -1,0 +1,17 @@
+[Event "Denmark"]
+[Site "Denmark"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Andre"]
+[Black "Van Seelen, B."]
+[Result "0-1"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical system, 5.Be2"]
+[HashCode "a7611cc6"]
+[Epoch "Rook"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. Nf3 Nf6 5. Be2 O-O 6. O-O Nbd7 7. e5 dxe5
+8. dxe5 Ng4 9. e6 fxe6 10. Ng5 Nxf2 11. Rxf2 Rxf2 12. Nxe6 Qe8 13. Nxc7 Qf8
+14. Nxa8 Ne5 15. Nc7 Ng4 16. h3 Rxg2+ 0-1
+

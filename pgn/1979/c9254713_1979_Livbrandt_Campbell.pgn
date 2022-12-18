@@ -1,0 +1,20 @@
+[Event "corr SCO-SWE"]
+[Site "corr SCO-SWE"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Livbrandt, L."]
+[Black "Campbell, I."]
+[Result "0-1"]
+[ECO "E88"]
+[Opening "King's Indian"]
+[Variation "Saemisch, orthodox, 7.d5 c6"]
+[HashCode "c9254713"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 e5 7. d5 c6 8. Qd2
+cxd5 9. cxd5 Na6 10. Bxa6 bxa6 11. Nge2 Ne8 12. O-O f5 13. exf5 gxf5 14. f4
+Nf6 15. fxe5 dxe5 16. Bc5 Rf7 17. d6 Be6 18. Rad1 Rc8 19. b4 a5 20. a3 axb4
+21. axb4 a5 22. Na4 Ne4 23. Qe3 axb4 24. Bxb4 Rb7 25. Be1 Rb3 26. Nec3 Nxc3
+27. Bxc3 e4 28. Qg3 Rbxc3 29. Nxc3 Rxc3 30. Qf4 Rc4 31. Rd2 Bc3 32. Qh6
+Bxd2 33. Qxe6+ Kg7 34. d7 Bg5 35. h4 Be3+ 0-1
+

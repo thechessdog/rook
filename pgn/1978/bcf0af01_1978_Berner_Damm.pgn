@@ -1,0 +1,19 @@
+[Event "GER-SW chT 7778"]
+[Site "BL-SW 7778"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Berner, Wolfram"]
+[Black "Damm, Fabian"]
+[Result "1-0"]
+[ECO "A06"]
+[Opening "Reti"]
+[Variation "Nimzovich-Larsen attack"]
+[HashCode "bcf0af01"]
+[Epoch "Rook"]
+[BlackID "4605926"]
+[BlackCountry "GER"]
+
+1. Nf3 d5 2. b3 Nf6 3. Bb2 e6 4. e3 Be7 5. c4 b6 6. cxd5 exd5 7. d4 O-O 8. Nc3
+c6 9. Rc1 Re8 10. Qc2 Bd6 11. Bd3 Bg4 12. h3 Bxf3 13. gxf3 c5 14. Nb5 Nc6 15.
+Nxd6 Qxd6 16. dxc5 Qf4 17. Qe2 Qh4 18. cxb6 d4 19. Rxc6 Rxe3 20. b7 Rd8 21. Rc8
+Rxe2+ 22. Kxe2 Nd7 23. Rhc1 1-0

@@ -1,0 +1,22 @@
+[Event "corr SWE/K tt"]
+[Site "corr SWE/K tt"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Lindfors, Tom"]
+[Black "Edin, Leif"]
+[Result "1/2-1/2"]
+[ECO "C13"]
+[Opening "French"]
+[Variation "Albin-Alekhine-Chatard attack, Teichmann variation"]
+[HashCode "83d076ee"]
+[Epoch "Rook"]
+[WhiteID "1743058"]
+[WhiteCountry "SWE"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Nfd7 6. h4 f6 7. exf6 Nxf6 8. Nf3
+c5 9. dxc5 Nc6 10. Bb5 Bxc5 11. Qe2 O-O 12. O-O-O Qa5 13. Kb1 Ne4 14. Nxe4 dxe4
+15. Bxc6 bxc6 16. Qxe4 Rb8 17. Bd2 Qb6 18. b3 e5 19. Ng5 Bf5 20. Qc4+ Kh8 21.
+Nf7+ Rxf7 22. Qxf7 Bg6 23. Qc4 Bd4 24. h5 Be4 25. f3 Bd5 26. Qd3 c5 27. c4 Qa6
+28. Rc1 Qa3 29. Rc2 e4 30. fxe4 Bxe4 31. Bc1 Qxc1+ 32. Kxc1 Bxd3 33. Rd2 Be3
+34. Re1 Bxd2+ 35. Kxd2 Rd8 36. Kc3 Bf5 37. Re5 Rd3+ 38. Kb2 g6 39. hxg6 hxg6
+40. Rxc5 Rd2+ 41. Ka1 Rd1+ 42. Kb2 Rd2+ 1/2-1/2

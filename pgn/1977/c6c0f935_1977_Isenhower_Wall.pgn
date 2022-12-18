@@ -1,0 +1,18 @@
+[Event "Barium Springs,NC"]
+[Site "Barium Springs,NC"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Isenhower, David"]
+[Black "Wall, Bill"]
+[Result "0-1"]
+[ECO "B33"]
+[Opening "Sicilian"]
+[Variation "Pelikan (Lasker/Sveshnikov) variation"]
+[HashCode "c6c0f935"]
+[Epoch "Rook"]
+[BlackCountry "USA"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Nf5 d5 7. Bb5 Bxf5 8.
+exf5 d4 9. Bxc6+ bxc6 10. Ne2 Bb4+ 11. Bd2 Qa5 12. a3 Bxd2+ 13. Qxd2 Qxd2+ 14.
+Kxd2 Ne4+ 15. Ke1 O-O-O 16. f3 Nc5 17. f4 d3 18. b4 d2+ 19. Kd1 Ne4 20. Rf1
+exf4 21. Rxf4 Rhe8 22. g4 Nc3+ 23. Nxc3 Re1# 0-1

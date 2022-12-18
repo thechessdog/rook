@@ -1,0 +1,21 @@
+[Event "Hastings8081"]
+[Site "Hastings"]
+[Date "1980.12.01"]
+[Round "9"]
+[White "Pinter, Jozsef"]
+[Black "Littlewood, Paul E"]
+[Result "0-1"]
+[ECO "E53"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line with ...c5"]
+[HashCode "9de157ed"]
+[Epoch "Rook"]
+[WhiteID "700045"]
+[WhiteCountry "HUN"]
+[BlackID "400190"]
+[BlackCountry "ENG"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Nf3 c5 5. e3 O-O 6. Bd3 d5 7. O-O cxd4 8. exd4
+dxc4 9. Bxc4 b6 10. Re1 Bb7 11. Bg5 Nbd7 12. Bd3 Rc8 13. Rc1 Bxc3 14. bxc3 Qc7
+15. Bh4 Rfd8 16. Bg3 Qc6 17. h3 Qd5 18. c4 Qa5 19. Bb1 Bxf3 20. gxf3 Nf8 21.
+Re5 Qa6 22. Rb5 0-1

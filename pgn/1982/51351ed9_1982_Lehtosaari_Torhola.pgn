@@ -1,0 +1,20 @@
+[Event "corr Heilimo mem"]
+[Site "corr Heilimo mem"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Lehtosaari"]
+[Black "Torhola, Simo"]
+[Result "0-1"]
+[ECO "C45"]
+[Opening "Scotch"]
+[Variation "Potter variation"]
+[HashCode "51351ed9"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Bc5 5. Nb3 Bb6 6. a4 Qh4 7. Qe2 a5
+8. Nc3 Nge7 9. g3 Qf6 10. Bg2 d6 11. O-O O-O 12. Kh1 Bd7 13. Nb5 Rac8 14.
+c3 Be6 15. Qc2 Bc4 16. Rd1 Bxf2 17. Bf4 Bb6 18. Bxd6 cxd6 19. Nxd6 Qe6 20.
+Nd2 Qxd6 21. Nxc4 Qc7 22. Qb3 Ba7 23. Nd6 Rcd8 24. Qxb7 Qxb7 25. Nxb7 Rxd1+
+26. Rxd1 Rb8 27. Rd7 Kf8 28. Bh3 Ne5 29. Rd8+ Rxd8 30. Nxd8 Nd3 31. Nb7
+Nxb2 32. Bd7 0-1
+

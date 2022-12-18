@@ -1,0 +1,21 @@
+[Event "Lvov"]
+[Site "Lvov"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Paehtz, Thomas"]
+[Black "Mikhalchishin, Adrian"]
+[Result "1-0"]
+[ECO "B99"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7...Be7 main line"]
+[HashCode "1b64b3cc"]
+[Epoch "Rook"]
+[WhiteID "4611349"]
+[WhiteCountry "GER"]
+[BlackID "14602385"]
+[BlackCountry "SLO"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Nbd7 8. Qf3
+Qc7 9. O-O-O Be7 10. g4 b5 11. Bxf6 Nxf6 12. g5 Nd7 13. f5 Nc5 14. h4 b4 15.
+Nce2 Bb7 16. Ng3 e5 17. Nb3 Rc8 18. Rh2 d5 19. f6 Nxb3+ 20. axb3 gxf6 21. gxf6
+dxe4 22. Qg4 Bc5 23. Nf5 Rd8 24. Ng7+ Kf8 25. Ne6+ 1-0

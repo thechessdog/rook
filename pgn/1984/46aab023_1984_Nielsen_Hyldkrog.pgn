@@ -1,0 +1,21 @@
+[Event "corr ch-DEN"]
+[Site "corr ch-DEN"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Nielsen, H."]
+[Black "Hyldkrog, L."]
+[Result "1-0"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Nimzovich (knight's tour) variation"]
+[HashCode "46aab023"]
+[Epoch "Rook"]
+
+1. Nf3 Nf6 2. d4 e6 3. c4 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. Nd2 Bg7 8.
+e4 O-O 9. Be2 Nbd7 10. O-O Re8 11. a4 Ne5 12. Re1 a6 13. Nf1 Rb8 14. h3 Qc7
+15. Qc2 c4 16. Be3 b5 17. axb5 axb5 18. Ra7 Qd8 19. f3 Bd7 20. Rea1 b4 21.
+Nd1 Bb5 22. Qd2 Bd7 23. Rc1 c3 24. bxc3 bxc3 25. Nxc3 Rc8 26. Nb5 Bxb5 27.
+Bxb5 Rf8 28. Rxc8 Qxc8 29. Ba6 Qb8 30. Rb7 Qa8 31. Qa2 Ned7 32. Ra7 Qb8 33.
+Bb7 Nc5 34. Bc6 Nh5 35. g4 Nf6 36. e5 Ne8 37. Ra8 Qb4 38. Rxe8 Rxe8 39.
+Bxe8 Bxe5 40. Qa7 Nb7 41. Qb8 1-0
+

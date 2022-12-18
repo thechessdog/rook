@@ -1,0 +1,25 @@
+[Event "IBM-B"]
+[Site "Amsterdam II"]
+[Date "1979.07.01"]
+[Round "11"]
+[White "Baljon, Christofoor"]
+[Black "Hernandez, Roman"]
+[Result "1-0"]
+[ECO "B47"]
+[Opening "Sicilian"]
+[Variation "Taimanov (Bastrikov) variation"]
+[HashCode "50a19bd9"]
+[Epoch "Rook"]
+[WhiteID "1000772"]
+[WhiteCountry "NED"]
+[BlackCountry "CUB"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e6 5. Nc3 Qc7 6. g3 a6 7. Bg2 Nf6 8. O-O
+Nxd4 9. Qxd4 Bc5 10. Qd3 h6 11. Na4 Ba7 12. c4 d6 13. b3 e5 14. Ba3 Bd4 15.
+Rac1 Bd7 16. Nc3 O-O 17. Ne2 Bc5 18. b4 Ba7 19. Rfd1 Bg4 20. Rd2 Rfd8 21. Nc3
+Rac8 22. Nd5 Nxd5 23. exd5 a5 24. bxa5 Qxa5 25. Rb2 Qa6 26. Bf1 Bd4 27. Rb3 b6
+28. Qe4 f5 29. Qb1 e4 30. Bxd6 Qa7 31. Ra3 Qf7 32. Bf4 Bc5 33. Rb3 Bf3 34. Be3
+Qh5 35. Qb2 Bxe3 36. fxe3 Qg5 37. Qd4 h5 38. Qxb6 h4 39. Qe6+ Kh8 40. Qe5 Rxd5
+41. Qxd5 hxg3 42. Qe5 gxh2+ 43. Kxh2 Qh4+ 44. Kg1 Rc6 45. Rb2 Qg5+ 46. Kf2 Rh6
+47. Rb8+ Kh7 48. Qf4 Qf6 49. Rb5 Rh5 50. Be2 Rh4 51. Qxf5+ Qxf5 52. Rxf5 Rh2+
+53. Kg3 Rxe2 54. c5 1-0

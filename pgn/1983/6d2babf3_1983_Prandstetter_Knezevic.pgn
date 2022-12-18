@@ -1,0 +1,20 @@
+[Event "Prague"]
+[Site "Prague"]
+[Date "1983.01.01"]
+[Round "12"]
+[White "Prandstetter, Eduard"]
+[Black "Knezevic, Milorad"]
+[Result "1/2-1/2"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "Cozio (Lasker) attack"]
+[HashCode "6d2babf3"]
+[Epoch "Rook"]
+[WhiteID "300225"]
+[WhiteCountry "CZE"]
+[BlackID "950238"]
+[BlackCountry "SRB"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. Qe2 Qe7 6. Nc3 Nxc3 7. dxc3 Qxe2+
+8. Bxe2 Be7 9. Bf4 Nc6 10. Nd4 Nxd4 11. cxd4 c6 12. Bd3 Be6 13. O-O O-O 14. Bg3
+Rfe8 15. c3 Bf8 1/2-1/2

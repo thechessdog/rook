@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Fiorentini"]
+[Black "Quaranta"]
+[Result "1-0"]
+[ECO "B13"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack"]
+[HashCode "13a53b3c"]
+[Epoch "Rook"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 Nc6 6. Nf3 Bg4 7. cxd5 Nxd5
+8. Qb3 Bxf3 9. gxf3 Nb6 10. d5 Nd4 11. Qd1 e5 12. dxe6 fxe6 13. Be3 Bc5 14.
+b4 Bxb4 15. Bxd4 Rc8 16. Rc1 O-O 17. Bh3 Rc6 18. O-O Qh4 19. Bg2 Rd8 20.
+Ne2 Bc5 21. Rxc5 Rxc5 22. Qa1 Rc2 23. Bxg7 Qc4 24. Bh6 Rd7 25. Qf6 Qb4 26.
+Bh3 Rxe2 27. Kh1 1-0
+

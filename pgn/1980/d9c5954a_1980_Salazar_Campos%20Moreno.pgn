@@ -1,0 +1,20 @@
+[Event "Santiago"]
+[Site "Santiago de Chile"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Salazar, Hernan"]
+[Black "Campos Lopez, Mario"]
+[Result "0-1"]
+[ECO "B47"]
+[Opening "Sicilian"]
+[Variation "Taimanov (Bastrikov) variation"]
+[HashCode "d9c5954a"]
+[Epoch "Rook"]
+[BlackID "5100100"]
+[BlackCountry "MEX"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e6 5. Nc3 Qc7 6. Be2 a6 7. f4 Nge7 8.
+Ndb5 axb5 9. Nxb5 Qb6 10. Nd6+ Kd8 11. Nxf7+ Ke8 12. Nd6+ Kd8 13. Nf7+ Ke8 14.
+Nxh8 g6 15. f5 exf5 16. exf5 Nxf5 17. Qd5 Nd8 18. Rf1 Ne6 19. g4 Ra5 20. Qf3
+Nfd4 21. Qf7+ Kd8 22. Bd3 Nxc2+ 23. Bxc2 Bb4+ 24. Ke2 Re5+ 25. Kf3 Qc6+ 26. Kg3
+Bd6 27. Kh3 Qxc2 28. Qf3 Rh5+ 0-1

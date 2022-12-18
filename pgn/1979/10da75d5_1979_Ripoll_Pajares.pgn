@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Ripoll"]
+[Black "Pajares"]
+[Result "1-0"]
+[ECO "B97"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Poisoned pawn variation"]
+[HashCode "10da75d5"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qb6 8.
+Qd2 Qxb2 9. Rb1 Qa3 10. f5 b5 11. fxe6 fxe6 12. Be2 Be7 13. Bf3 Ra7 14. Be3
+Rb7 15. e5 dxe5 16. Bxb7 Bxb7 17. Nxe6 b4 18. Rb3 Qa5 19. Nb1 Kf7 20. Ng5+
+Kg6 21. c4 Qc7 22. Qc2+ e4 23. Nd2 Re8 24. Ndf3 Ng4 25. Nxe4 1-0
+

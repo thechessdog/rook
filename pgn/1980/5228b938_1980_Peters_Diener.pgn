@@ -1,0 +1,21 @@
+[Event "corr WT-M"]
+[Site "corr WT-M"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Peters, Toon"]
+[Black "Diener, Rudolf"]
+[Result "1-0"]
+[ECO "C69"]
+[Opening "Ruy Lopez"]
+[Variation "exchange, Gligoric variation"]
+[HashCode "5228b938"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O f6 6. d4 Bg4 7. dxe5 Qxd1
+8. Rxd1 fxe5 9. Rd3 Bxf3 10. gxf3 Bd6 11. Be3 Ne7 12. Nd2 Ng6 13. Nc4 O-O-O
+14. Bg5 Rd7 15. Rad1 h6 16. Nxd6+ cxd6 17. Rxd6 Rxd6 18. Rxd6 Nf8 19. Rd8+
+Kc7 20. Be7 Ng6 21. Rxh8 Nxh8 22. Bf8 g5 23. Bxh6 Nf7 24. Bf8 Kd7 25. Kg2
+Ke6 26. Kg3 Nh8 27. Bg7 Nf7 28. Kg4 c5 29. Kh5 b5 30. Kg6 a5 31. Bf8 c4 32.
+c3 Nd8 33. Kxg5 Kf7 34. Bd6 Ke6 35. Bc7 Nc6 36. f4 a4 37. f5+ Kd7 38. f6
+Nd4 39. cxd4 a3 40. bxa3 1-0
+

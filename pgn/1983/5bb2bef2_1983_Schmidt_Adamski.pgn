@@ -1,0 +1,19 @@
+[Event "Warsaw"]
+[Site "Warsaw"]
+[Date "1983.01.01"]
+[Round "4"]
+[White "Schmidt, Wlodzimierz"]
+[Black "Adamski, Jan"]
+[Result "1/2-1/2"]
+[ECO "E12"]
+[Opening "Queen's Indian"]
+[Variation "4.Nc3"]
+[HashCode "5bb2bef2"]
+[Epoch "Rook"]
+[WhiteID "1100041"]
+[WhiteCountry "POL"]
+[BlackID "1100190"]
+[BlackCountry "POL"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. Nc3 Bb7 5. a3 g6 6. Bg5 Bg7 7. Qc2 h6 8. Bh4 d6
+9. e4 g5 10. Bg3 Nh5 11. O-O-O Nxg3 12. hxg3 g4 13. Ng1 Nc6 1/2-1/2

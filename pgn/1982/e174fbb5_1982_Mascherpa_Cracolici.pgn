@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Mascherpa"]
+[Black "Cracolici"]
+[Result "0-1"]
+[ECO "B78"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, 10.O-O-O"]
+[HashCode "e174fbb5"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8.
+Qd2 Nc6 9. Bc4 Bd7 10. O-O-O Rc8 11. Bh6 Bxh6 12. Qxh6 Nxd4 13. Rxd4 e5 14.
+Bxf7+ Rxf7 15. Rxd6 Qa5 16. Nd5 Nxd5 17. Rxd5 Qa4 18. Kb1 Qxc2+ 19. Ka1 Be6
+20. Rxe5 Rfc7 21. a3 Qc1+ 0-1
+

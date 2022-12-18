@@ -1,0 +1,20 @@
+[Event "Kallithea"]
+[Site "Kallithea"]
+[Date "1976.??.??"]
+[Round "5"]
+[White "Kovacs, Laszlo M"]
+[Black "Kaloskambis, Mihail"]
+[Result "1-0"]
+[ECO "B35"]
+[Opening "Sicilian"]
+[Variation "accelerated fianchetto, modern variation with Bc4"]
+[HashCode "52a4aec3"]
+[Epoch "Rook"]
+[BlackID "4203569"]
+[BlackCountry "GRE"]
+[WhiteCountry "HUN"]
+
+1. e4 c5 2. Nc3 Nc6 3. Nf3 g6 4. d4 cxd4 5. Nxd4 Bg7 6. Be3 Nf6 7. Bc4 O-O 8.
+Bb3 a5 9. f3 d5 10. Bxd5 Nxd5 11. Nxd5 e6 12. Nxc6 bxc6 13. Nb6 Ba6 14. Nxa8
+Qxa8 15. Kf2 Bxb2 16. Rb1 Bg7 17. Qd7 h5 18. Rhe1 Be5 19. Rb6 Rc8 20. Qe7 Bc4
+21. Qc5 1-0

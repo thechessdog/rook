@@ -1,0 +1,18 @@
+[Event "Lugano op"]
+[Site "Lugano op"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Karlsson, Lars"]
+[Black "Nadenau, O."]
+[Result "1-0"]
+[ECO "A34"]
+[Opening "English"]
+[Variation "symmetrical variation"]
+[HashCode "6c799aee"]
+[Epoch "Rook"]
+[WhiteID "1700057"]
+[WhiteCountry "SWE"]
+
+1. c4 Nf6 2. Nc3 c5 3. g3 Nc6 4. Bg2 g6 5. e3 Bg7 6. Nge2 O-O 7. a3 d6 8. d3
+Bd7 9. Rb1 a5 10. O-O Rb8 11. Nb5 Qc8 12. Nf4 b6 13. b3 Ne8 14. Nd5 Bh3 15. Na7
+Qd7 16. Nxc6 Bxg2 17. Nxb8 1-0

@@ -1,0 +1,23 @@
+[Event "Val Thorens"]
+[Site "Val Thorens"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Kindermann, Stefan"]
+[Black "Stoica, Valentin"]
+[Result "0-1"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Grand Prix attack"]
+[HashCode "c0ab8af7"]
+[Epoch "Rook"]
+[WhiteID "4600053"]
+[WhiteCountry "AUT"]
+[BlackID "1200070"]
+[BlackCountry "ROU"]
+
+1. e4 c5 2. f4 g6 3. d4 Bg7 4. d5 d6 5. Nf3 Bg4 6. h3 Bxf3 7. Qxf3 Nd7 8. Nc3
+a6 9. a4 Ngf6 10. Bc4 O-O 11. O-O Ne8 12. Bd2 b6 13. Rfe1 Nc7 14. Rad1 Rb8 15.
+Bc1 b5 16. axb5 axb5 17. Bf1 b4 18. Nb1 Nb5 19. Bxb5 Rxb5 20. Qd3 Ra5 21. Nd2
+Nb6 22. Nc4 Nxc4 23. Qxc4 Qc7 24. b3 Ra2 25. Bd2 Bc3 26. Bxc3 Rxc2 27. Rc1 Rxc3
+28. Rxc3 bxc3 29. b4 Rb8 30. bxc5 Qxc5+ 31. Qxc5 dxc5 32. Kf2 Rb2+ 33. Kf3 Rd2
+34. g3 c2 35. Rc1 c4 36. Ke3 c3 37. e5 f5 38. Kf3 Kf7 39. h4 h5 40. Ke3 Ke8 0-1

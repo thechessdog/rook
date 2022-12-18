@@ -1,0 +1,18 @@
+[Event "Ohio"]
+[Site "Ohio"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Stone, Donald"]
+[Black "Fox, Maurice"]
+[Result "0-1"]
+[ECO "D31"]
+[Opening "QGD"]
+[Variation "3.Nc3"]
+[HashCode "9611d83a"]
+[Epoch "Rook"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Bb4 4. Qc2 Nc6 5. Nf3 Nf6 6. a3 Bxc3+ 7. Qxc3 Ne4
+8. Qc2 Qf6 9. Qa4 Bd7 10. Qb3 Nxd4 11. Nxd4 Qxd4 12. Be3 Qf6 13. Qxb7 O-O
+14. Qxc7 Qxb2 15. Rc1 Rfd8 16. cxd5 exd5 17. f3 Rac8 18. Qxd7 Rxc1+ 19.
+Bxc1 Qxc1# 0-1
+

@@ -1,0 +1,20 @@
+[Event "Varna"]
+[Site "Varna"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Knezevic, Milorad"]
+[Black "Donchev, Dimitar I."]
+[Result "1/2-1/2"]
+[ECO "D11"]
+[Opening "QGD Slav"]
+[Variation "4.e3"]
+[HashCode "44c7daed"]
+[Epoch "Rook"]
+[WhiteID "950238"]
+[BlackID "2900025"]
+[WhiteCountry "SRB"]
+[BlackCountry "FID"]
+
+1. d4 d5 2. c4 c6 3. e3 Nf6 4. Nf3 g6 5. Nc3 Bg7 6. Be2 O-O 7. O-O Nbd7 8. cxd5
+cxd5 9. b3 Nb8 10. Bb2 Nc6 11. Rc1 Bg4 12. h3 Bxf3 13. Bxf3 e6 14. Qe2 Qe7 15.
+Rfd1 Rfc8 1/2-1/2

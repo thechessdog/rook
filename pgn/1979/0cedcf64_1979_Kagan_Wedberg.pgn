@@ -1,0 +1,22 @@
+[Event "Lucerne"]
+[Site "Lucerne"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Kagan, Shimon"]
+[Black "Wedberg, Tom"]
+[Result "0-1"]
+[ECO "C63"]
+[Opening "Ruy Lopez"]
+[Variation "Schliemann defence, Berger variation"]
+[HashCode "0cedcf64"]
+[Epoch "Rook"]
+[BlackID "1700073"]
+[BlackCountry "SWE"]
+[WhiteID "2800284"]
+[WhiteCountry "ISR"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 f5 4. Nc3 Nd4 5. Ba4 Nf6 6. exf5 Bc5 7. O-O O-O 8.
+d3 d5 9. Bg5 c6 10. Nxe5 Bxf5 11. h3 Qc7 12. Nf3 Bg4 13. Nxd4 Bxd1 14. Ne6 Qe5
+15. Nxc5 Qxg5 16. Raxd1 b5 17. Bb3 Rae8 18. N3e4 Nxe4 19. Nxe4 Qf4 20. Ng3 Kh8
+21. d4 Qg5 22. Rd3 Re7 23. c3 Rfe8 24. Rf3 Qd2 25. Nf5 Re1 26. Rxe1 Qxe1+ 27.
+Kh2 Rf8 28. Bc2 g6 0-1

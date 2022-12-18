@@ -1,0 +1,19 @@
+[Event "corr YUG"]
+[Site "corr YUG"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Jelacic, Z."]
+[Black "Lampret, L."]
+[Result "1-0"]
+[ECO "E88"]
+[Opening "King's Indian"]
+[Variation "Saemisch, orthodox, 7.d5 c6"]
+[HashCode "4a5f0fac"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 e5 7. d5 c6 8. Bd3
+cxd5 9. cxd5 Ne8 10. Qd2 f5 11. exf5 Bxf5 12. Ne4 a6 13. Ne2 b5 14. N2g3
+Bxe4 15. Nxe4 Nf6 16. Bg5 Nxe4 17. Bxe4 Qd7 18. O-O Rc8 19. Rac1 Ra7 20. h4
+Rxc1 21. Rxc1 Rc7 22. g4 Qc8 23. Rc6 Nxc6 24. dxc6 Rxc6 25. Qd5+ Kf8 26.
+Qxc6 Qxc6 27. Bxc6 e4 28. b4 1-0
+

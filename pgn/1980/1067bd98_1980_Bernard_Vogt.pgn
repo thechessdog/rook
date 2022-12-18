@@ -1,0 +1,24 @@
+[Event "Warsaw"]
+[Site "Warsaw"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Bernard, Ryszard"]
+[Black "Vogt, Lothar"]
+[Result "0-1"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (without ...d6)"]
+[HashCode "1067bd98"]
+[Epoch "Rook"]
+[WhiteID "1100688"]
+[BlackID "4611292"]
+[WhiteCountry "POL"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 Qc7 4. O-O e6 5. c3 Nf6 6. Re1 a6 7. Bxc6 bxc6 8. d4
+Be7 9. e5 Nd5 10. dxc5 Bxc5 11. c4 Nb6 12. b3 Bb7 13. Nbd2 f5 14. exf6 gxf6 15.
+Ne4 Be7 16. Bb2 Rf8 17. Qd2 O-O-O 18. Qh6 c5 19. Rac1 f5 20. Ned2 Qc6 21. Qxh7
+Bg5 22. Rcd1 Rg8 23. Bg7 Bf4 24. Nh4 Qd6 25. Nf1 Qe7 26. Ng6 Qxg7 27. Qxg7
+Bxh2+ 28. Nxh2 Rxg7 29. Nf4 Bxg2 30. Nxg2 Rdg8 31. Kf1 Rxg2 32. Nf3 Kc7 33. Re3
+R2g6 34. Ke2 d6 35. Rh1 e5 36. Rh7+ R8g7 37. Rxg7+ Rxg7 38. Nxe5 f4 39. Re4 Re7
+0-1

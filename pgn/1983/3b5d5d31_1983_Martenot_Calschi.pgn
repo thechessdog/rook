@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Martenot"]
+[Black "Calschi"]
+[Result "1-0"]
+[ECO "C01"]
+[Opening "French"]
+[Variation "exchange variation"]
+[HashCode "3b5d5d31"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. c4 Nf6 5. Nc3 c6 6. Nf3 Be7 7. Qb3 dxc4
+8. Bxc4 O-O 9. Ng5 Nd5 10. Nxf7 Kxf7 11. Nxd5 cxd5 12. Bxd5+ Kg6 13. Qg3+
+Bg5 14. Be4+ Bf5 15. Bxb7 Re8+ 16. Be3 Qa5+ 17. Kd1 Rxe3 18. fxe3 Qa4+ 19.
+b3 Qb5 20. h4 Qd3+ 21. Ke1 Qc3+ 22. Kf2 Qd2+ 23. Kg1 Qxe3+ 24. Kh2 Qxg3+
+25. Kxg3 1-0
+

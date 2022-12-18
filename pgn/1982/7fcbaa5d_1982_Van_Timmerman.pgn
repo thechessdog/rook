@@ -1,0 +1,19 @@
+[Event "corr ch-NLD"]
+[Site "corr ch-NLD"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Van Camp"]
+[Black "Timmerman"]
+[Result "1/2-1/2"]
+[ECO "B68"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...a6 defence, 9...Be7"]
+[HashCode "7fcbaa5d"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd2 Bd7
+8. O-O-O a6 9. f4 Be7 10. Nf3 b5 11. e5 b4 12. exf6 bxc3 13. Qxc3 gxf6 14.
+Bh4 d5 15. Kb1 a5 16. Nd4 Nxd4 17. Qxd4 Rg8 18. f5 Rc8 19. fxe6 fxe6 20. g3
+Rb8 21. Be2 Kf8 22. Rhf1 f5 23. Bxe7+ Qxe7 24. g4 Rb4 25. c4 Bb5 26. gxf5
+Bxc4 27. fxe6+ Ke8 28. Bxc4 dxc4 29. Qd5 Qc7 30. Rf7 Qc8 31. Rxh7 1/2-1/2
+

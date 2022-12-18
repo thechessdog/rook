@@ -1,0 +1,23 @@
+[Event "Bundesliga 8081"]
+[Site "Duitsland tt"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Zunker, Reinhard, Dr."]
+[Black "Huenerkopf, Heinz"]
+[Result "0-1"]
+[ECO "B87"]
+[Opening "Sicilian"]
+[Variation "Sozin with ...a6 and ...b5"]
+[HashCode "c261c5f0"]
+[Epoch "Rook"]
+[WhiteID "4617711"]
+[WhiteCountry "GER"]
+[BlackID "4603443"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 b5 8. Qe2
+Be7 9. f3 O-O 10. Be3 b4 11. Nd1 a5 12. c4 Bb7 13. Nf2 Nc6 14. Rd1 Nxd4 15.
+Bxd4 Qc7 16. Bc2 Rfc8 17. Bd3 a4 18. O-O Nd7 19. Qd2 Ne5 20. Qxb4 Nxd3 21. Rxd3
+d5 22. Qc3 Qxc4 23. Qxc4 Rxc4 24. a3 dxe4 25. fxe4 Rd8 26. Rfd1 f6 27. e5 Kf7
+28. Bc3 Rxd3 29. Rxd3 Bd5 30. Rd4 Bc5 31. Rxc4 Bxc4 32. g3 Kg6 33. Kg2 Kf5 34.
+g4+ Kf4 35. exf6 gxf6 36. Bxf6 Bd5+ 37. Kf1 Kf3 38. Nd1 Bb3 39. Nc3 Bf2 0-1

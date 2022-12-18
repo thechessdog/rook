@@ -1,0 +1,19 @@
+[Event "Sofia ch-BUL"]
+[Site "Sofia ch-BUL"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Grigorov, Jordan N"]
+[Black "Danailov, Silvio"]
+[Result "1-0"]
+[ECO "B93"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.f4"]
+[HashCode "d4c6b9b2"]
+[Epoch "Rook"]
+[BlackID "2900114"]
+[BlackCountry "FID"]
+[WhiteCountry "BGR"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 e6 7. Qf3 Nbd7 8. Nb3
+h5 9. a4 Qc7 10. a5 Nc5 11. Nxc5 Qxc5 12. Bd3 Bd7 13. Be3 Qb4 14. Bd2 Qd4 15.
+Ne2 Qc5 16. b4 Qc7 17. c4 b5 18. axb6 Qxb6 19. b5 Qb7 20. e5 1-0

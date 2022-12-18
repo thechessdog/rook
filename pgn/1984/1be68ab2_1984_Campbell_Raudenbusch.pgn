@@ -1,0 +1,18 @@
+[Event "corr USA"]
+[Site "corr USA"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Campbell"]
+[Black "Raudenbusch"]
+[Result "1-0"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra gambit"]
+[HashCode "1be68ab2"]
+[Epoch "Rook"]
+
+1. e4 c5 2. d4 cxd4 3. c3 dxc3 4. Nxc3 Nc6 5. Nf3 d6 6. Bc4 e6 7. O-O Nf6
+8. Qe2 a6 9. Rd1 Qc7 10. Bf4 Be7 11. Rac1 O-O 12. Bb3 e5 13. Bg5 Bg4 14.
+Qe3 Bxf3 15. gxf3 Nd4 16. Nb5 Qa5 17. Bxf6 Nxb3 18. Bxe7 Nxc1 19. Nxd6 Nxa2
+20. Bxf8 Rxf8 21. Qb3 Nb4 22. Rc1 Qb6 23. Nf5 Qh6 24. Nxh6+ 1-0
+

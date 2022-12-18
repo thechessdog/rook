@@ -1,0 +1,18 @@
+[Event "Reggio Emilia8081"]
+[Site "Reggio Emilia"]
+[Date "1980.01.01"]
+[Round "8"]
+[White "Martorelli, Antonio"]
+[Black "Evangelisti, Claudio"]
+[Result "1-0"]
+[ECO "C44"]
+[Opening "Scotch"]
+[Variation "Goering gambit"]
+[HashCode "ce3ddc96"]
+[Epoch "Rook"]
+[BlackCountry "ITA"]
+[WhiteID "801399"]
+[WhiteCountry "ITA"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. c3 d3 5. Bxd3 Be7 6. c4 d6 7. Nc3 Ne5 8. Be2
+Nxf3+ 9. gxf3 Nf6 10. Rg1 g6 1-0

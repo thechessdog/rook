@@ -1,0 +1,21 @@
+[Event "corr DDR/M"]
+[Site "corr DDR/M"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Antoszkiewicz, Gerh"]
+[Black "Lehmann, W."]
+[Result "0-1"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "modern variation"]
+[HashCode "f304714c"]
+[Epoch "Rook"]
+
+1. b3 e5 2. Bb2 Nc6 3. e4 Nf6 4. d3 d5 5. Nc3 Bb4 6. a3 Bxc3+ 7. Bxc3 dxe4
+8. f3 exd3 9. Bxd3 O-O 10. Ne2 a6 11. O-O Nd5 12. Bd2 f5 13. Nc3 Kh8 14.
+Nxd5 Qxd5 15. Qe2 Be6 16. Be3 Qd7 17. Rae1 Rae8 18. Qf2 Bg8 19. Qh4 Nd4 20.
+Rd1 f4 21. Bxd4 exd4 22. Be4 c5 23. a4 Re6 24. g4 fxg3 25. hxg3 Rh6 26. Qg5
+Qd6 27. Kg2 b6 28. Rh1 Rxh1 29. Rxh1 h6 30. Qd2 Bh7 31. Bb7 a5 32. Re1 Bg6
+33. Ba6 Qd5 34. Qf2 Bh5 35. Be2 Re8 36. Bd1 Re3 37. c4 Qe6 38. Rxe3 dxe3
+39. Qe2 Bg6 40. g4 Qe5 41. Kf1 Qc3 42. Kg1 Qd4 0-1
+

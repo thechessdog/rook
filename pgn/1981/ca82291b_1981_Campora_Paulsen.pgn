@@ -1,0 +1,24 @@
+[Event "Dortmund"]
+[Site "Dortmund"]
+[Date "1981.06.01"]
+[Round "1"]
+[White "Campora, Daniel H."]
+[Black "Paulsen, Dirk"]
+[Result "1-0"]
+[ECO "B05"]
+[Opening "Alekhine's defence"]
+[Variation "modern, Flohr variation"]
+[HashCode "ca82291b"]
+[Epoch "Rook"]
+[WhiteID "100013"]
+[WhiteCountry "ARG"]
+[BlackID "4601343"]
+[BlackCountry "GER"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. Nf3 Bg4 5. Be2 c6 6. c4 Nc7 7. exd6 exd6 8. O-O
+Be7 9. Nc3 Nd7 10. h3 Bh5 11. Re1 O-O 12. d5 c5 13. Bf4 a6 14. a4 f5 15. Nh2
+Bf7 16. Bd3 g6 17. Qc2 Ne8 18. Bh6 Ng7 19. f4 Re8 20. g4 Nf6 21. Kh1 fxg4 22.
+hxg4 Bf8 23. Bg5 Rxe1+ 24. Rxe1 Be7 25. Qe2 Kf8 26. Qf2 Ng8 27. Bxe7+ Nxe7 28.
+Qh4 h5 29. Ne4 Ng8 30. Ng5 Nh6 31. gxh5 gxh5 32. Nh7+ Kg8 33. Re7 Kh8 34. Qg5
+Kg8 35. Nf6+ Kf8 36. Nd7+ Kg8 37. Qxh6 Bxd5+ 38. cxd5 Qxe7 39. Qh7+ Kf7 40.
+Bg6# 1-0

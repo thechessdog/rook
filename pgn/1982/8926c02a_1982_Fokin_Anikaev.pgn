@@ -1,0 +1,22 @@
+[Event "Barnaul"]
+[Site "Barnaul"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Fokin, Sergey"]
+[Black "Anikaev, Yuri N"]
+[Result "0-1"]
+[ECO "A71"]
+[Opening "Benoni"]
+[Variation "classical, 8.Bg5"]
+[HashCode "8926c02a"]
+[Epoch "Rook"]
+[BlackID "4101650"]
+[BlackCountry "RUS"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. e4 Bg7 8. Bg5
+h6 9. Bh4 O-O 10. Nd2 Re8 11. Be2 Nbd7 12. O-O g5 13. Bg3 Ne5 14. a4 b6 15. Qc2
+a6 16. b3 Ra7 17. Rfe1 Rae7 18. Rac1 Nh7 19. f3 Nf8 20. Nd1 Nfg6 21. Ne3 Nf4
+22. Bf2 Neg6 23. Bf1 h5 24. Nf5 Bxf5 25. exf5 Rxe1 26. Rxe1 Rxe1 27. Bxe1 Ne7
+28. Bxa6 Nfxd5 29. Ne4 Nxf5 30. Qd2 Nde3 31. Be2 Bd4 32. Bf2 Qe7 33. Nc3 Bxc3
+34. Qxc3 Nxg2 35. Qd2 Nf4 36. Bf1 Qb7 37. b4 Qxf3 38. a5 c4 39. a6 c3 40. Qa2
+Qg4+ 41. Kh1 Qd1 0-1

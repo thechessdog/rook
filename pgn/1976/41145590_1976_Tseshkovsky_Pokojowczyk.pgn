@@ -1,0 +1,20 @@
+[Event "Sochi"]
+[Site "Sochi"]
+[Date "1976.??.??"]
+[Round "10"]
+[White "Tseshkovsky, Vitaly"]
+[Black "Pokojowczyk, Jerzy"]
+[Result "1-0"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Byrne (English) attack"]
+[HashCode "41145590"]
+[Epoch "Rook"]
+[BlackID "1100718"]
+[WhiteCountry "RUS"]
+[BlackCountry "POL"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e6 7. Be2 Nbd7 8. g4
+Nc5 9. Bf3 h6 10. h4 e5 11. Nf5 g6 12. Ng3 Be6 13. Qe2 Qa5 14. Bd2 Qc7 15. a4
+b6 16. Nf1 h5 17. gxh5 Nxh5 18. Bxh5 Rxh5 19. Ne3 Be7 20. Ned5 Qd8 21. O-O-O
+Ra7 22. f4 Qb8 23. f5 Bxd5 24. Nxd5 Bd8 25. Qg2 Qb7 26. Rdf1 1-0

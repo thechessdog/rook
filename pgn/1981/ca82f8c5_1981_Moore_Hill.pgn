@@ -1,0 +1,15 @@
+[Event "Pueblo"]
+[Site "Pueblo"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Moore"]
+[Black "Hill"]
+[Result "1-0"]
+[ECO "B40"]
+[Opening "Sicilian defence"]
+[HashCode "ca82f8c5"]
+[Epoch "Rook"]
+
+1. e4 c5 2. d4 e6 3. Nf3 cxd4 4. c3 dxc3 5. Nxc3 Bb4 6. Qd4 Nc6 7. Qxg7 Qf6
+8. Bh6 Bxc3+ 9. bxc3 Qxh6 10. Qxh8 1-0
+

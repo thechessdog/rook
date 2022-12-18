@@ -1,0 +1,17 @@
+[Event "corr SCO Centenary"]
+[Site "corr SCO Centenary"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Quinn, D."]
+[Black "Thomas, M."]
+[Result "0-1"]
+[ECO "C61"]
+[Opening "Ruy Lopez"]
+[Variation "Bird's defence"]
+[HashCode "de9540b2"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nd4 4. Nxd4 exd4 5. O-O Bc5 6. b4 Bxb4 7. c3 Qg5
+8. Bc4 Bc5 9. Bb2 d3 10. Na3 Nf6 11. Bxd3 d5 12. e5 Bh3 13. Qf3 Bg4 14. Qg3
+Nh5 0-1
+

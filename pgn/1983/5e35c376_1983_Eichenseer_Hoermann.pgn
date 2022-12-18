@@ -1,0 +1,18 @@
+[Event "Bayern-ch-B"]
+[Site "Pang"]
+[Date "1983.??.??"]
+[Round "?"]
+[White "Eichenseer, Fritz"]
+[Black "Hoermann, Norbert"]
+[Result "0-1"]
+[ECO "B28"]
+[Opening "Sicilian"]
+[Variation "O'Kelly variation"]
+[HashCode "5e35c376"]
+[Epoch "Rook"]
+[WhiteID "24632996"]
+[WhiteCountry "GER"]
+
+1. e4 c5 2. Nf3 a6 3. c4 e6 4. Nc3 Qc7 5. Be2 Nc6 6. O-O Nd4 7. Bd3 Bd6 8. g3
+h5 9. Nxd4 cxd4 10. Ne2 h4 11. f4 hxg3 12. hxg3 b6 13. e5 Bc5 14. a3 Bb7 15. b4
+Rh1+ 16. Kf2 Qc6 17. Rxh1 Qf3+ 0-1

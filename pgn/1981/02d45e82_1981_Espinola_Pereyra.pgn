@@ -1,0 +1,18 @@
+[Event "corr CADAP"]
+[Site "corr CADAP"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Espinola, J."]
+[Black "Pereyra, M."]
+[Result "0-1"]
+[ECO "B18"]
+[Opening "Caro-Kann"]
+[Variation "classical variation"]
+[HashCode "02d45e82"]
+[Epoch "Rook"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. Nf3 Nd7 7. Bc4 Ngf6
+8. O-O Qc7 9. Re1 O-O-O 10. Qe2 e6 11. Bb3 Bd6 12. c4 Kb8 13. Bd2 Ng4 14.
+d5 Ndf6 15. dxc6 Bc5 16. Nh1 Bd3 17. Qd1 Be4 18. Rxe4 Nxe4 19. Ng3 Bxf2+
+20. Kh1 Qxg3 21. hxg3 Nxg3# 0-1
+

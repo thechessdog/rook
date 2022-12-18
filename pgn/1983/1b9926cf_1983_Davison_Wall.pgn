@@ -1,0 +1,16 @@
+[Event "Xenia,OH"]
+[Site "Xenia,OH"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Davison, Matt"]
+[Black "Wall, Bill"]
+[Result "0-1"]
+[ECO "A15"]
+[Opening "English, 1...Nf6 (Anglo-Indian defense)"]
+[HashCode "1b9926cf"]
+[Epoch "Rook"]
+[BlackCountry "USA"]
+
+1. c4 Nf6 2. d3 g6 3. g3 Bg7 4. Bg2 O-O 5. Nf3 c5 6. O-O Nc6 7. Bf4 Nh5 8. Bc1
+f5 9. Nbd2 b6 10. a3 Bb7 11. Rb1 Rc8 12. b4 cxb4 13. axb4 d5 14. Bb2 dxc4 15.
+Bxg7 Nxg7 16. dxc4 Qc7 17. Qa4 Rfd8 18. Rfd1 Nd4 19. Kf1 e5 20. Qxa7 Ra8 0-1

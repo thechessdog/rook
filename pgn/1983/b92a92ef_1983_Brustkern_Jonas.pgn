@@ -1,0 +1,24 @@
+[Event "RLN 8283"]
+[Site "RLN 8283"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Brustkern, Juergen"]
+[Black "Jonas, Bernhard"]
+[Result "0-1"]
+[ECO "B52"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky attack, 3...Bd7"]
+[HashCode "b92a92ef"]
+[Epoch "Rook"]
+[WhiteID "4602676"]
+[WhiteCountry "GER"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Qxd7 5. O-O Nc6 6. d4 cxd4 7. Nxd4 Nf6
+8. Nc3 e6 9. Bg5 Be7 10. Qd2 O-O 11. Rad1 Rfd8 12. Rfe1 Rac8 13. Nxc6 Qxc6 14.
+Qe2 Qc4 15. Rd3 b5 16. Red1 b4 17. e5 bxc3 18. exf6 Bxf6 19. Bxf6 gxf6 20. b3
+Qf4 21. Rf3 Qe5 22. Re3 Qf5 23. Rdd3 Rc5 24. Qf3 Qxf3 25. Rxf3 f5 26. Kf1 d5
+27. Rxc3 Rdc8 28. Rxc5 Rxc5 29. c3 a5 30. Ke2 a4 31. Kd3 Kf8 32. Rf4 axb3 33.
+axb3 Kg7 34. Ra4 Kf6 35. f4 Rc7 36. b4 Rc4 37. g3 h5 38. Ra2 h4 39. b5 Ke7 40.
+Ra7+ Kd6 41. Rxf7 hxg3 42. hxg3 Rc8 43. Rg7 Kc5 44. Re7 Kd6 45. Rg7 Kc5 46. b6
+Kxb6 47. Rg6 Rc6 48. Kd4 e5+ 49. Kxd5 Rxg6 50. Kxe5 Rxg3 51. Kxf5 Rxc3 52. Kf6
+Kc6 53. f5 Kd7 54. Kf7 0-1

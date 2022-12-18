@@ -1,0 +1,22 @@
+[Event "Buenos Aires ch-ARG"]
+[Site "Buenos Aires ch-ARG"]
+[Date "1976.01.01"]
+[Round "8"]
+[White "Bronstein, Luis Marcos"]
+[Black "Szmetan, Jorge"]
+[Result "0-1"]
+[ECO "B99"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7...Be7 main line"]
+[HashCode "3f22ec63"]
+[Epoch "Rook"]
+[WhiteID "100463"]
+[WhiteCountry "ARG"]
+[BlackID "100366"]
+[BlackCountry "ARG"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3
+Qc7 9. O-O-O Nbd7 10. Qg3 h6 11. Bh4 g5 12. fxg5 Nh5 13. Qe3 Qc5 14. Be2 hxg5
+15. b4 Qxb4 16. Be1 Qa3+ 17. Kb1 Nf4 18. Bf1 Qc5 19. h4 Nb6 20. g3 Ng6 21. Bf2
+gxh4 22. gxh4 Bxh4 23. Bxh4 Rxh4 24. Rxh4 Nxh4 25. Be2 Ng6 26. Qh3 Bd7 27. Bh5
+O-O-O 28. Bxg6 fxg6 29. Nb3 Qe5 30. Qe3 Nc4 31. Qd3 Bb5 32. Nxb5 0-1

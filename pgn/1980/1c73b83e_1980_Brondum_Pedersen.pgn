@@ -1,0 +1,24 @@
+[Event "Odense"]
+[Site "Odense"]
+[Date "1980.01.01"]
+[Round "9"]
+[White "Brondum, Eric"]
+[Black "Pedersen, Erik"]
+[Result "0-1"]
+[ECO "A71"]
+[Opening "Benoni"]
+[Variation "classical, 8.Bg5"]
+[HashCode "1c73b83e"]
+[Epoch "Rook"]
+[WhiteID "1400894"]
+[BlackID "1404997"]
+[WhiteCountry "DEN"]
+[BlackCountry "DEN"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. e4 Bg7 8. Bg5
+h6 9. Bh4 a6 10. Nd2 b5 11. Qc2 O-O 12. Be2 Re8 13. O-O Nbd7 14. a4 b4 15. Nd1
+b3 16. Qxb3 g5 17. Bg3 Nxe4 18. Nxe4 Rxe4 19. Qc2 Nf6 20. Ne3 Bb7 21. Nf5 Bxd5
+22. Rad1 Re6 23. h4 Be4 24. Bd3 Bxd3 25. Rxd3 Ne4 26. Bxd6 Nxd6 27. Qxc5 Qc8
+28. Qxc8+ Nxc8 29. Rd8+ Kh7 30. Rd7 Ra7 31. Rxa7 Nxa7 32. hxg5 hxg5 33. Rd1 Nc6
+34. b3 Be5 35. Rd7 Kg6 36. g4 Bf4 37. Rb7 Ne5 38. Ne7+ Kg7 39. Nf5+ Kf6 40. Nh6
+Kg6 0-1

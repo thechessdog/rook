@@ -1,0 +1,20 @@
+[Event "Hamburg"]
+[Site "Hamburg"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Wegner, Hannu"]
+[Black "Foerster, Andreas"]
+[Result "1-0"]
+[ECO "A57"]
+[Opening "Benko gambit half accepted"]
+[HashCode "1bb42e8c"]
+[Epoch "Rook"]
+[WhiteID "4600509"]
+[WhiteCountry "GER"]
+[BlackID "4608143"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. e3 d6 6. Nc3 g6 7. Nf3 Bg7 8. e4 O-O
+9. a4 Nbd7 10. Bd2 Qc7 11. Ra3 Re8 12. Qc2 e6 13. dxe6 Rxe6 14. Bc4 Re8 15. O-O
+Nb6 16. Ba2 axb5 17. Nxb5 Qc6 18. Ng5 c4 19. Bb4 Rxa4 20. Nd4 Qd7 21. Rxa4 Nxa4
+22. Bxc4 Rd8 23. Nxf7 d5 24. Nxd8 1-0

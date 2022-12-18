@@ -1,0 +1,25 @@
+[Event "Sverdlovsk"]
+[Site "Sverdlovsk"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Osnos, Vyacheslav"]
+[Black "Moskalenko, Viktor"]
+[Result "1-0"]
+[ECO "A64"]
+[Opening "Benoni"]
+[Variation "fianchetto, 11...Re8"]
+[HashCode "23cc26ea"]
+[Epoch "Rook"]
+[BlackID "14100100"]
+[BlackCountry "ESP"]
+[WhiteCountry "RUS"]
+
+1. d4 Nf6 2. c4 c5 3. d5 d6 4. Nc3 g6 5. g3 Bg7 6. Bg2 O-O 7. Nf3 e6 8. O-O
+exd5 9. cxd5 Re8 10. Nd2 a6 11. a4 Nbd7 12. h3 Rb8 13. Nc4 Nb6 14. Na3 Bd7 15.
+e4 Qc7 16. Be3 Nxa4 17. Nxa4 Nxe4 18. Nc2 b5 19. Nc3 Nxc3 20. bxc3 Bxc3 21.
+Rxa6 b4 22. Bf4 Rb6 23. Rxb6 Qxb6 24. Bd2 Be5 25. Ne3 Bb5 26. Re1 Ra8 27. Ng4
+Ra1 28. Qxa1 Bxa1 29. Rxa1 Qb8 30. Bh6 f5 31. Nf6+ Kf7 32. Nxh7 Bd3 33. Re1 Be4
+34. Ng5+ Kf6 35. Bxe4 Qh8 36. Bd3 Qxh6 37. Re6+ Kg7 38. f4 Qh5 39. Be2 Qh8 40.
+Rxd6 Qe8 41. Ne6+ Kf7 42. Ng5+ Kg7 43. Re6 Qa4 44. d6 b3 45. Re7+ Kg8 46. d7
+Qd4+ 47. Kg2 Qd5+ 48. Kh2 b2 49. d8=Q+ Qxd8 50. Bc4+ Kf8 51. Rf7+ Ke8 52. Bb5+
+Qd7 53. Bxd7+ 1-0

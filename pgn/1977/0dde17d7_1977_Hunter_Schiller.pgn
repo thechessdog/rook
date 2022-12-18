@@ -1,0 +1,17 @@
+[Event "Marshall"]
+[Site "Marshall"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Hunter, C."]
+[Black "Schiller, Eric"]
+[Result "0-1"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "0dde17d7"]
+[Epoch "Rook"]
+[BlackID "2002973"]
+[BlackCountry "USA"]
+
+1. e4 c5 2. c3 b6 3. d4 e6 4. g3 Bb7 5. Bg2 f5 6. Qc2 cxd4 7. cxd4 Nc6 8. Be3
+Nb4 9. Qe2 fxe4 10. Qh5+ g6 11. Qe5 Nd3+ 0-1

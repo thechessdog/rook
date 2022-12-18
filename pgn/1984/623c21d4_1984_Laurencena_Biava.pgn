@@ -1,0 +1,19 @@
+[Event "corr USA"]
+[Site "corr USA"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Laurencena"]
+[Black "Biava"]
+[Result "0-1"]
+[ECO "B63"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...Be7"]
+[HashCode "623c21d4"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd2 Be7
+8. O-O-O O-O 9. Nb3 a6 10. Bxf6 gxf6 11. Be2 Kh8 12. Bh5 b5 13. f4 Qb6 14.
+Kb1 a5 15. Rhf1 b4 16. Ne2 a4 17. Nbc1 Ra5 18. Ng3 Ba6 19. Rf3 d5 20. e5
+fxe5 21. f5 Qd8 22. Bg4 e4 23. Rf2 Bc5 24. Qe1 Bxf2 25. Qxf2 Qf6 26. Nh5
+Qe5 27. Qf4 Qxf4 28. Nxf4 exf5 29. Bxf5 Ne7 30. Bg4 Rd8 0-1
+

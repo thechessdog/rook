@@ -1,0 +1,23 @@
+[Event "Reggio Emilia"]
+[Site "Reggio Emilia"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Coppini, Giorgio"]
+[Black "Trabattoni, Franco"]
+[Result "0-1"]
+[ECO "E18"]
+[Opening "Queen's Indian"]
+[Variation "old main line, 7.Nc3"]
+[HashCode "0e095023"]
+[Epoch "Rook"]
+[WhiteID "800988"]
+[BlackID "800430"]
+[WhiteCountry "ITA"]
+[BlackCountry "ITA"]
+
+1. c4 Nf6 2. Nf3 e6 3. g3 b6 4. Bg2 Bb7 5. d4 Be7 6. O-O O-O 7. Nc3 Ne4 8. Nxe4
+Bxe4 9. Ne1 Bxg2 10. Nxg2 d5 11. cxd5 exd5 12. Bf4 c5 13. Bxb8 Rxb8 14. dxc5
+bxc5 15. b3 Qd6 16. Rc1 Rfd8 17. Qd3 Rb7 18. Rfd1 Rbd7 19. h4 Bf8 20. Nf4 Qe5
+21. Qc3 Qe8 22. Rc2 Qe4 23. Nd3 d4 24. Qd2 Rd5 25. Rdc1 Qf5 26. Kg2 Bd6 27. Qa5
+Re8 28. Qa4 Qe4+ 29. Kg1 h6 30. a3 g5 31. Nxc5 Bxc5 32. Rxc5 Rxc5 33. Rxc5 gxh4
+34. Rf5 h3 35. Rf3 Qxe2 36. Qd7 Qxf3 37. Qxe8+ Kh7 0-1

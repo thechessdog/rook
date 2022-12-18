@@ -1,0 +1,20 @@
+[Event "Groningen"]
+[Site "Groningen"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Van der Wiel, John T.H."]
+[Black "McCarthy, Anthony"]
+[Result "1-0"]
+[ECO "C45"]
+[Opening "Scotch"]
+[Variation "Mieses variation"]
+[HashCode "ad8ec57b"]
+[Epoch "Rook"]
+[WhiteID "1000020"]
+[BlackID "30948355"]
+[WhiteCountry "NED"]
+[BlackCountry "USA"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nf6 5. Nxc6 bxc6 6. e5 Qe7 7. Qe2 Nd5 8.
+c4 Nb6 9. Bf4 Qb4+ 10. Nd2 Ba6 11. Qe4 Qxb2 12. Rb1 Qxa2 13. Be2 Na4 14. e6 Nc5
+15. exd7+ Kxd7 16. Bg4+ Ne6 17. O-O Bd6 18. Ra1 1-0

@@ -1,0 +1,17 @@
+[Event "Lappeenranta Y-ch"]
+[Site "Lappeenranta Y-ch"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Heinola, Kari P."]
+[Black "Niemela, M."]
+[Result "1-0"]
+[ECO "C26"]
+[Opening "Vienna"]
+[Variation "Falkbeer variation"]
+[HashCode "f1240c71"]
+[Epoch "Rook"]
+[WhiteID "503495"]
+[WhiteCountry "FIN"]
+
+1. e3 e5 2. e4 Nf6 3. Nc3 d5 4. exd5 Nxd5 5. Qh5 Qd6 6. Nf3 Nxc3 7. dxc3 e4 8.
+Nd4 g6 9. Qh4 f5 10. Nb5 Qd7 11. Bf4 Na6 12. Rd1 Qf7 13. Rd8# 1-0

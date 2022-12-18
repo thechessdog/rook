@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Matticchio"]
+[Black "Roch"]
+[Result "1-0"]
+[ECO "C69"]
+[Opening "Ruy Lopez"]
+[Variation "exchange variation, 5.O-O"]
+[HashCode "64780731"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O Ne7 6. d4 exd4 7. Nxd4
+Qd6 8. Be3 Qg6 9. Nd2 f5 10. exf5 Bxf5 11. N2f3 O-O-O 12. Nh4 Qf6 13. Nhxf5
+Nxf5 14. Qg4 g6 15. Rad1 Be7 16. Rfe1 h5 17. Qe4 Nxe3 18. Qxe3 Bd6 19. Ne6
+Rde8 20. Qa7 Qf5 21. Rxd6 1-0
+

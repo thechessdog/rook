@@ -1,0 +1,22 @@
+[Event "Columbus,OH"]
+[Site "Columbus,OH"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Costigan, Richard"]
+[Black "Spraggett, Kevin"]
+[Result "0-1"]
+[ECO "B51"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky (Nimzovich-Rossolimo, Moscow) attack"]
+[HashCode "2e07a5d0"]
+[Epoch "Rook"]
+[WhiteID "2001632"]
+[WhiteCountry "USA"]
+[BlackID "2600013"]
+[BlackCountry "CAN"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Nc6 4. O-O a6 5. Bxc6+ bxc6 6. b3 e5 7. d3 Nf6 8.
+Nbd2 Be7 9. Nc4 Be6 10. Ne3 g6 11. Bd2 O-O 12. Qc1 Nh5 13. Qa3 f5 14. exf5 gxf5
+15. Qa4 Qb6 16. Ba5 Qb5 17. Qa3 e4 18. Nd2 d5 19. Rab1 Qb7 20. Nd1 Bd6 21. g3
+exd3 22. cxd3 f4 23. Re1 Bh3 24. Bc3 Rae8 25. Nb2 fxg3 26. fxg3 Qf7 27. Rf1
+Bxf1 28. Rxf1 Re1 0-1

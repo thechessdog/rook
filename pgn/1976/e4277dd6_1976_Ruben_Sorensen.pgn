@@ -1,0 +1,20 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Ruben, H."]
+[Black "Sorensen, A."]
+[Result "0-1"]
+[ECO "C40"]
+[Opening "Latvian"]
+[Variation "Fraser defence"]
+[HashCode "e4277dd6"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 f5 3. Nxe5 Nc6 4. Nxc6 dxc6 5. d4 Qh4 6. e5 Be6 7. c3 O-O-O
+8. Bd3 c5 9. Be3 c4 10. Bc2 g5 11. Nd2 f4 12. Nf3 Qh5 13. Bd2 g4 14. Ng1
+Bd5 15. f3 Qh4+ 16. Kf1 Nh6 17. Be4 g3 18. h3 Bxe4 19. fxe4 Rg8 20. Qe2 Ng4
+21. Qxc4 Nh2+ 22. Ke1 f3 23. Nxf3 Nxf3+ 24. Kd1 Nxd2 25. Qe6+ Kb8 26. Qxg8
+Nxe4 27. Re1 Qf4 28. Kc2 Qf2+ 29. Kb3 Nd2+ 30. Ka4 Rxd4+ 31. b4 b5+ 32.
+Kxb5 Rxb4+ 33. cxb4 Qb6+ 34. Ka4 Qa6# 0-1
+

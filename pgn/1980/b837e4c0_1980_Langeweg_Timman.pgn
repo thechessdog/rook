@@ -1,0 +1,20 @@
+[Event "Nederland tt"]
+[Site "Nederland tt"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Langeweg, Kick"]
+[Black "Timman, Jan H"]
+[Result "0-1"]
+[ECO "E43"]
+[Opening "Nimzo-Indian"]
+[Variation "Fischer variation"]
+[HashCode "b837e4c0"]
+[Epoch "Rook"]
+[WhiteID "1000160"]
+[BlackID "1000012"]
+[WhiteCountry "NED"]
+[BlackCountry "NED"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 b6 5. Bd3 Bb7 6. Nf3 Ne4 7. O-O Bxc3 8.
+bxc3 f5 9. d5 Na6 10. Nd4 Nac5 11. Bxe4 fxe4 12. Qh5+ g6 13. Qe5 O-O 14. Ba3
+exd5 15. cxd5 d6 16. Qg5 Qxg5 0-1

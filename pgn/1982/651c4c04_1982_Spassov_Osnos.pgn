@@ -1,0 +1,18 @@
+[Event "Plovdiv"]
+[Site "Plovdiv"]
+[Date "1982.01.01"]
+[Round "13"]
+[White "Spassov, Liuben"]
+[Black "Osnos, Vyacheslav"]
+[Result "1/2-1/2"]
+[ECO "D02"]
+[Opening "Queen's pawn game, Krause variation"]
+[HashCode "651c4c04"]
+[Epoch "Rook"]
+[WhiteID "2900220"]
+[WhiteCountry "FID"]
+[BlackCountry "RUS"]
+
+1. Nf3 d5 2. d4 c5 3. c4 dxc4 4. e4 cxd4 5. Qxd4 Qxd4 6. Nxd4 Bd7 7. Bxc4 Nc6
+8. Nxc6 Bxc6 9. Nc3 e6 10. Nb5 Bb4+ 11. Bd2 Bxd2+ 12. Kxd2 Ke7 13. Ke3 Nf6 14.
+f3 Rhc8 1/2-1/2

@@ -1,0 +1,16 @@
+[Event "corr Wcup3"]
+[Site "corr Wcup3"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Schreiber"]
+[Black "Cheuinard"]
+[Result "1-0"]
+[ECO "C45"]
+[Opening "Scotch"]
+[Variation "Mieses variation"]
+[HashCode "68e91d3f"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nf6 5. Nxc6 bxc6 6. e5 Nd5 7. Bd3
+Qh4 8. O-O Bc5 9. Nd2 O-O 10. Ne4 Bd4 11. Bg5 1-0
+

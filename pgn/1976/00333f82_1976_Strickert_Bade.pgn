@@ -1,0 +1,21 @@
+[Event "corr DDR-FSM"]
+[Site "corr DDR-FSM"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Strickert, H."]
+[Black "Bade, U."]
+[Result "0-1"]
+[ECO "B23"]
+[Opening "Sicilian"]
+[Variation "closed, Korchnoi variation"]
+[HashCode "00333f82"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nc3 e6 3. g3 d5 4. exd5 exd5 5. d4 cxd4 6. Qxd4 Be6 7. Bg2 Nc6
+8. Qd1 d4 9. Nce2 Bd5 10. Nf3 Qf6 11. Nh4 Nge7 12. O-O g5 13. Bxd5 Nxd5 14.
+Ng2 O-O-O 15. Bd2 Bc5 16. c4 dxc3 17. Nxc3 Nxc3 18. Bxc3 Nd4 19. Ne3 Rhg8
+20. Qg4+ Kb8 21. Rad1 h5 22. Qxh5 Rh8 23. Bxd4 Rxd4 24. Qe2 Qh6 25. h4 Rxh4
+26. gxh4 Qxh4 27. Rd8+ Rxd8 28. Rd1 Rh8 29. Qf3 Bxe3 30. Rd7 Qxf2+ 31. Qxf2
+Bxf2+ 32. Kxf2 Rh2+ 33. Kf3 Rxb2 34. Rxf7 Rxa2 35. Rf5 Ra3+ 36. Kg4 a5 37.
+Rxg5 a4 38. Kf4 Ra1 39. Ke3 a3 0-1
+

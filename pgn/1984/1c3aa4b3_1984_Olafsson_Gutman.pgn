@@ -1,0 +1,28 @@
+[Event "Grind"]
+[Site "Grind"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Olafsson, Helgi"]
+[Black "Gutman, Lev"]
+[Result "0-1"]
+[ECO "D85"]
+[Opening "Gruenfeld"]
+[Variation "modern exchange variation"]
+[HashCode "1c3aa4b3"]
+[Epoch "Rook"]
+[BlackID "4600177"]
+[BlackCountry "GER"]
+[WhiteID "2300010"]
+[WhiteCountry "ISL"]
+
+1. c4 Nf6 2. Nc3 d5 3. cxd5 Nxd5 4. Nf3 Nxc3 5. bxc3 g6 6. d4 Bg7 7. e4 c5 8.
+Rb1 O-O 9. Be2 Nc6 10. d5 Ne5 11. Nxe5 Bxe5 12. Qd2 e6 13. f4 Bh8 14. c4 Re8
+15. e5 f6 16. d6 fxe5 17. O-O e4 18. Bb2 Bxb2 19. Rxb2 b6 20. Rd1 Bd7 21. Qe3
+Qf6 22. Rbd2 e5 23. Rf1 Rad8 24. Qxe4 exf4 25. Qxf4 Qxf4 26. Rxf4 Kg7 27. Kf2
+Bc6 28. Bf3 Bxf3 29. Rxf3 Rf8 30. h4 Rf6 31. d7 Rf7 32. Rxf7+ Kxf7 33. h5 gxh5
+34. Rd6 Ke7 35. Rh6 Rf8+ 36. Ke3 Rf7 37. a4 Kxd7 38. a5 Re7+ 39. Kd3 bxa5 40.
+Ra6 Kc7 41. Rxa7+ Kd6 42. Ra6+ Ke5 43. Rxa5 Rc7 44. Ke3 h4 45. Ra8 Rg7 46. Re8+
+Kd6 47. Re4 h3 48. gxh3 Rg3+ 49. Ke2 Rxh3 50. Re8 Rh5 51. Kd3 Re5 52. Rh8 h5
+53. Kc2 Ke6 54. Kb3 Kf6 55. Ka4 Kg7 56. Rd8 h4 57. Kb5 Kh6 58. Rd5 Rg5 59. Rd1
+Kh5 60. Rh1 Re5 61. Kc6 Kg4 62. Rg1+ Kf3 63. Rh1 Rh5 64. Rf1+ Kg2 65. Ra1 h3
+66. Ra2+ Kg3 67. Ra3+ Kf4 68. Ra2 h2 69. Rxh2 Rxh2 70. Kxc5 Ke5 0-1

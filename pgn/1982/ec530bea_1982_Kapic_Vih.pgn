@@ -1,0 +1,16 @@
+[Event "corr Yugoslavia"]
+[Site "corr Yugoslavia"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Kapic"]
+[Black "Vih"]
+[Result "0-1"]
+[ECO "B48"]
+[Opening "Sicilian"]
+[Variation "Taimanov variation"]
+[HashCode "ec530bea"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e6 5. Nc3 Qc7 6. Be3 a6 7. Bd3 Nf6
+8. O-O Ne5 9. Nf3 Nfg4 10. Bg5 Nxf3+ 0-1
+

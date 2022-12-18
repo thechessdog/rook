@@ -1,0 +1,20 @@
+[Event "corr Klar mem"]
+[Site "corr Klar mem"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Borwell"]
+[Black "Stertenbrink"]
+[Result "0-1"]
+[ECO "B33"]
+[Opening "Sicilian"]
+[Variation "Sveshnikov variation"]
+[HashCode "18aad139"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6
+8. Na3 b5 9. Bxf6 gxf6 10. Nd5 f5 11. Bd3 Be6 12. Qh5 Rg8 13. O-O-O h6 14.
+h3 Rc8 15. Kb1 Bxd5 16. exd5 Ne7 17. Nxb5 e4 18. Nd4 exd3 19. Rxd3 Qb6 20.
+Re1 Bg7 21. Qh4 Be5 22. f4 Rxc2 23. Kxc2 Rxg2+ 24. Re2 Qc5+ 25. Kb1 Rg1+
+26. Re1 Bf6 27. Qf2 Bxd4 28. Qe2 Rxe1+ 29. Qxe1 Qxd5 30. Qd1 Qe4 31. Ka1
+Nc6 32. a3 Qxf4 33. Qc2 Qe4 34. Qd2 f4 0-1
+

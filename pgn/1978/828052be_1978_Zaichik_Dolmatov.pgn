@@ -1,0 +1,22 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Zaichik, Gennadi"]
+[Black "Dolmatov, Sergey"]
+[Result "0-1"]
+[ECO "B13"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack"]
+[HashCode "828052be"]
+[Epoch "Rook"]
+[WhiteID "13600109"]
+[BlackID "4100093"]
+[WhiteCountry "USA"]
+[BlackCountry "RUS"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 Nc6 6. Nf3 Bg4 7. cxd5 Nxd5 8.
+Qb3 Bxf3 9. gxf3 Nb6 10. Be3 e6 11. Rg1 g6 12. Rd1 Bd6 13. h4 O-O 14. h5 Nb4
+15. a3 N4d5 16. Ne4 Bf4 17. Ke2 Rc8 18. hxg6 hxg6 19. Bh3 Kg7 20. Qd3 Rh8 21.
+Nc5 Qf6 22. Rh1 Nxe3 23. fxe3 Nd5 24. e4 Rxc5 25. Bxe6 Rxh1 26. Rxh1 fxe6 27.
+dxc5 Qxb2+ 0-1

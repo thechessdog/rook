@@ -1,0 +1,17 @@
+[Event "Dayton,OH"]
+[Site "Dayton,OH"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Kane, S."]
+[Black "Plum, M."]
+[Result "0-1"]
+[ECO "C70"]
+[Opening "Ruy Lopez"]
+[Variation "Schliemann defence deferred"]
+[HashCode "de852ef9"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 f5 5. d3 Nf6 6. Nc3 Bc5 7. O-O d6 8.
+Qe2 f4 9. h3 h6 10. Nd5 g5 11. c3 b5 12. Bb3 g4 13. Nh4 gxh3 14. Nxf6+ Qxf6
+15. Qh5+ Kd8 16. gxh3 Bxh3 17. Ng6 Bxf1 18. Nxh8 Bxd3 19. Nf7+ Ke7 0-1
+

@@ -1,0 +1,20 @@
+[Event "corr Wcup3"]
+[Site "corr Wcup3"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Zacha"]
+[Black "Kristoffel"]
+[Result "0-1"]
+[ECO "D51"]
+[Opening "QGD"]
+[Variation "4.Bg5 Nbd7"]
+[HashCode "aaec6027"]
+[Epoch "Rook"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Nbd7 5. cxd5 exd5 6. e3 c6 7. Bd3 Be7
+8. Qc2 h6 9. Bh4 O-O 10. Nf3 Re8 11. O-O Ne4 12. Bxe4 Bxh4 13. Bh7+ Kh8 14.
+Bd3 Be7 15. Rab1 a5 16. Na4 Bd6 17. Rfc1 Nf6 18. Nc5 Qe7 19. a3 Ne4 20. b4
+axb4 21. axb4 b6 22. Nb3 Bd7 23. Nbd2 f5 24. b5 c5 25. dxc5 Bxc5 26. Re1
+Qf6 27. Nf1 Rec8 28. Qb3 Ra3 29. Qxd5 Be6 30. Bxe4 Bxd5 31. Bxd5 Rd8 32.
+Red1 g5 33. Ng3 Bd6 34. Ne2 Bc5 35. g3 Qe7 36. Kg2 Bxe3 37. fxe3 Qxe3 0-1
+

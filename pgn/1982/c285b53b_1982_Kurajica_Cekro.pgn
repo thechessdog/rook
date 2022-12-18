@@ -1,0 +1,22 @@
+[Event "Sarajevo"]
+[Site "Sarajevo"]
+[Date "1982.03.01"]
+[Round "1"]
+[White "Kurajica, Bojan"]
+[Black "Cekro, Ekrem"]
+[Result "1-0"]
+[ECO "E16"]
+[Opening "Queen's Indian"]
+[Variation "Yates variation"]
+[HashCode "c285b53b"]
+[Epoch "Rook"]
+[WhiteID "14400057"]
+[WhiteCountry "BIH"]
+[BlackID "201855"]
+[BlackCountry "BEL"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 Bb4+ 4. Bd2 a5 5. g3 b6 6. Bg2 Bb7 7. O-O O-O 8. Bg5
+Be7 9. Nc3 Ne4 10. Bxe7 Qxe7 11. Rc1 d6 12. d5 Nxc3 13. Rxc3 e5 14. e4 Nd7 15.
+b3 f5 16. exf5 Rxf5 17. Re3 Qd8 18. Bh3 Rf8 19. Be6+ Kh8 20. h4 Nf6 21. Ng5 Qe8
+22. f4 h6 23. fxe5 dxe5 24. Nh3 c6 25. Rxe5 cxd5 26. Nf4 dxc4 27. Qb1 Be4 28.
+Rxe4 g5 29. hxg5 hxg5 30. Qb2 c3 31. Qxc3 1-0

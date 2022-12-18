@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Melzani"]
+[Black "Doplicher"]
+[Result "0-1"]
+[ECO "C89"]
+[Opening "Ruy Lopez"]
+[Variation "Marshall counter-attack, 11...c6"]
+[HashCode "10c2c2c9"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8.
+c3 d5 9. exd5 Nxd5 10. Nxe5 Nxe5 11. Rxe5 c6 12. Bxd5 cxd5 13. Qf3 Bd6 14.
+Re2 Bxh2+ 15. Kxh2 Qh4+ 16. Kg1 Bg4 17. Qf4 g5 18. Qe5 Bxe2 19. Qxe2 Rae8
+20. Qf1 Re6 21. Na3 Rh6 22. f3 Re8 23. Nc2 g4 24. fxg4 Qh2+ 25. Kf2 Rf6#
+0-1
+

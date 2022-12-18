@@ -1,0 +1,19 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Lubeck"]
+[Black "Darr"]
+[Result "1-0"]
+[ECO "B89"]
+[Opening "Sicilian"]
+[Variation "Velimirovic attack"]
+[HashCode "87369471"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bc4 e6 7. Be3 Be7
+8. Qe2 O-O 9. O-O-O a6 10. Bb3 Qe8 11. Rhg1 Nd7 12. g4 Nc5 13. f4 b5 14. f5
+Nxd4 15. Rxd4 Nxb3+ 16. axb3 Bd7 17. g5 exf5 18. Nd5 Qd8 19. Qh5 g6 20. Qh6
+f6 21. exf5 Bxf5 22. Rf4 fxg5 23. Bd4 Rf7 24. Rxf5 gxf5 25. Nxe7+ Qxe7 26.
+Rxg5+ Qxg5+ 27. Qxg5+ Kf8 28. Bf6 1-0
+

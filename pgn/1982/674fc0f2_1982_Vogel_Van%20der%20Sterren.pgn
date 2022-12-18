@@ -1,0 +1,24 @@
+[Event "Hoogovens"]
+[Site "Wijk aan Zee II"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Vogel, Jaap"]
+[Black "Van der Sterren, Paul"]
+[Result "0-1"]
+[ECO "E63"]
+[Opening "King's Indian"]
+[Variation "fianchetto, Panno variation"]
+[HashCode "674fc0f2"]
+[Epoch "Rook"]
+[BlackID "1000071"]
+[BlackCountry "NED"]
+[WhiteID "1000764"]
+[WhiteCountry "NED"]
+
+1. Nf3 Nf6 2. g3 g6 3. Bg2 Bg7 4. d4 O-O 5. O-O d6 6. c4 Nc6 7. Nc3 a6 8. h3
+Rb8 9. a4 a5 10. e4 e5 11. Be3 Nd7 12. Nb5 exd4 13. Nfxd4 Nc5 14. Nb3 b6 15.
+Nxc5 bxc5 16. Qd2 Be6 17. Rac1 Ne5 18. b3 Bxh3 19. Rcd1 Qc8 20. f3 Bxg2 21.
+Kxg2 f5 22. Qc2 Qb7 23. exf5 Rxf5 24. Qe4 Qxe4 25. fxe4 Rxf1 26. Rxf1 Rb7 27.
+Bf4 h5 28. Bxe5 Bxe5 29. Rf3 c6 30. Na3 Rf7 31. Nc2 Rxf3 32. Kxf3 Kf7 33. Ne3
+Kf6 34. Ng2 Ke6 35. Ne1 d5 36. cxd5+ cxd5 37. Nd3 Bd6 38. e5 c4 39. Nf4+ Kxe5
+40. Nxg6+ Kf6 0-1

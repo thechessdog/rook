@@ -1,0 +1,24 @@
+[Event "corr ch10-DDR"]
+[Site "corr ch10-DDR"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Neumann, M."]
+[Black "Weinitschke, G."]
+[Result "1-0"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "classical attack"]
+[HashCode "c51a11db"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Be7 7. O-O Nc6
+8. Nbd2 Nxd2 9. Bxd2 Bg4 10. c3 O-O 11. Bf4 f5 12. Bc2 Bd6 13. Bxd6 Qxd6
+14. Qd3 Rae8 15. Rae1 Qf4 16. Bb3 Bxf3 17. Qxf3 Qxf3 18. gxf3 Rxe1 19. Rxe1
+Rd8 20. h4 Kf7 21. Kg2 Ne7 22. Kg3 Rd6 23. Kf4 c6 24. h5 Rh6 25. Kg5 Rf6
+26. Bc2 h6+ 27. Kf4 g6 28. Rh1 gxh5 29. Rxh5 Kg6 30. Ke5 Rf8 31. Rh1 Kg7
+32. Kd6 Ng6 33. a4 Rf7 34. a5 a6 35. Rh5 f4 36. Rh1 Nf8 37. Rg1+ Kf6 38.
+Rg4 Rd7+ 39. Kc5 Re7 40. Rxf4+ Kg7 41. Rg4+ Kf7 42. Bd3 Kf6 43. Kb6 Nd7+
+44. Ka7 Nf8 45. Rf4+ Kg7 46. Bf5 h5 47. Rh4 Kh6 48. Bg4 Ng6 49. Rxh5+ Kg7
+50. Bc8 Nf4 51. Re5 Rc7 52. Bxb7 Nd3 53. Re2 Nf4 54. Rd2 Kf7 55. Kxa6 Ke6
+56. Kb6 Kd6 57. a6 1-0
+

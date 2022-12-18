@@ -1,0 +1,19 @@
+[Event "CSR-ch"]
+[Site "Trnava"]
+[Date "1980.??.??"]
+[Round "4"]
+[White "Trapl, Jindrich"]
+[Black "Vokac, Marek"]
+[Result "1/2-1/2"]
+[ECO "B32"]
+[Opening "Sicilian"]
+[Variation "Labourdonnais-Loewenthal variation"]
+[HashCode "532a389c"]
+[Epoch "Rook"]
+[BlackID "300101"]
+[BlackCountry "CZE"]
+[WhiteCountry "CZE"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e5 5. Nb5 a6 6. Nd6+ Bxd6 7. Qxd6 Qf6 8.
+Qxf6 Nxf6 9. Nc3 Nb4 10. Kd2 O-O 11. f3 d6 12. a3 Nc6 13. Ke1 h6 14. Be3 Be6
+15. Rd1 Rfd8 16. Bb6 Rd7 17. Kf2 Ne7 1/2-1/2

@@ -1,0 +1,17 @@
+[Event "Mar del Plata"]
+[Site "Mar del Plata"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Mendez, O."]
+[Black "Gasloli, L."]
+[Result "1-0"]
+[ECO "C63"]
+[Opening "Ruy Lopez"]
+[Variation "Schliemann defence, Berger variation"]
+[HashCode "fdff01ca"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 f5 4. Nc3 Nf6 5. Qe2 Nd4 6. Nxd4 exd4 7. e5 Ng4
+8. h3 Nxf2 9. Qxf2 dxc3 10. O-O c6 11. Bc4 Qb6 12. d4 cxb2 13. Bg5 bxa1=Q
+14. Bf7+ 1-0
+

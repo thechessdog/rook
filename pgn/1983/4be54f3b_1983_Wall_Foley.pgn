@@ -1,0 +1,18 @@
+[Event "Xenia,OH"]
+[Site "Xenia,OH"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Wall, Bill"]
+[Black "Foley, Dave"]
+[Result "1-0"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "4.Nf3"]
+[HashCode "4be54f3b"]
+[Epoch "Rook"]
+[WhiteCountry "USA"]
+
+1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. Nc3 Nc6 5. Bg5 h6 6. Bh4 g5 7. Bg3 Bg7 8. Nb5
+Qe7 9. Nxc7+ Kd7 10. Nxa8 Qb4+ 11. Qd2 Qxc4 12. Ne5+ Nxe5 13. Bxe5 Ne4 14. e3
+Nxd2 15. Bxc4 Nxc4 16. Bxg7 Rh7 17. Be5 Nxe5 18. dxe5 Ke8 19. Rc1 Kd8 20. Kd2
+f6 21. exf6 Kd7 22. Rc7+ 1-0

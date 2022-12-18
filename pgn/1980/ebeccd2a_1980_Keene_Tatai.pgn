@@ -1,0 +1,18 @@
+[Event "Barcelona"]
+[Site "Barcelona"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Keene, Raymond D"]
+[Black "Tatai, Stefano"]
+[Result "1/2-1/2"]
+[ECO "E41"]
+[Opening "Nimzo-Indian"]
+[Variation "e3, Huebner variation"]
+[HashCode "ebeccd2a"]
+[Epoch "Rook"]
+[WhiteID "400211"]
+[WhiteCountry "ENG"]
+[BlackCountry "ITA"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 Nc6 6. Nf3 Bxc3+ 7. bxc3 d6 8. e4
+e5 9. d5 Ne7 10. Nd2 Qa5 11. O-O Ng6 12. Nb3 Qc7 13. Bg5 1/2-1/2

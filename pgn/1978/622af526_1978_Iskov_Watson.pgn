@@ -1,0 +1,21 @@
+[Event "Gausdal"]
+[Site "Gausdal"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Iskov, Gert"]
+[Black "Watson, John"]
+[Result "0-1"]
+[ECO "C15"]
+[Opening "French"]
+[Variation "Winawer, Alekhine (Maroczy) gambit"]
+[HashCode "622af526"]
+[Epoch "Rook"]
+[WhiteID "1400398"]
+[BlackID "2000768"]
+[WhiteCountry "DEN"]
+[BlackCountry "USA"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. Ne2 dxe4 5. a3 Be7 6. Nxe4 Nc6 7. Bf4 Nf6 8.
+Qd3 O-O 9. O-O-O Nd5 10. h4 f5 11. Ng5 Rb8 12. g3 b5 13. Bg2 b4 14. a4 b3 15.
+c4 Ndb4 16. Qe3 Na5 17. d5 Qe8 18. Nc3 Na2+ 19. Kb1 Nxc3+ 20. Qxc3 Bb4 21. Qd3
+Qxa4 22. dxe6 Nxc4 0-1

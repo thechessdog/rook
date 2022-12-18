@@ -1,0 +1,23 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Goldberg"]
+[Black "Wolf"]
+[Result "1-0"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, dragon formation"]
+[HashCode "40de83d0"]
+[Epoch "Rook"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 c5 6. Bb5+ Bd7 7. e5 Ng4 8.
+h3 Bxb5 9. Nxb5 Qa5+ 10. Nc3 cxd4 11. Nxd4 Nh6 12. exd6 exd6 13. Be3 O-O
+14. O-O Nc6 15. g4 Rfe8 16. Nb3 Qd8 17. Qf3 f5 18. g5 Nf7 19. Rad1 Qc8 20.
+Nd5 Re6 21. c3 Ne7 22. Bd4 Qc4 23. Nb4 Qc8 24. Bxg7 Kxg7 25. Rde1 Rxe1 26.
+Rxe1 Qd7 27. Nd4 Nd8 28. Nd5 Nxd5 29. Qxd5 Nf7 30. Qe6 Qxe6 31. Nxe6+ Kg8
+32. Nc7 Rb8 33. Re7 a6 34. Kf2 h6 35. h4 hxg5 36. hxg5 Nd8 37. Ne6 Nxe6 38.
+Rxe6 Kf7 39. Rf6+ Kg7 40. Rxd6 b6 41. Ke3 Re8+ 42. Kf3 Rb8 43. c4 a5 44.
+Ke3 Re8+ 45. Kd3 Re4 46. Rxb6 Rxf4 47. c5 Kf7 48. Rf6+ Ke7 49. Rxg6 Kd7 50.
+Ra6 1-0
+

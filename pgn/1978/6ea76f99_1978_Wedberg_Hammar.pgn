@@ -1,0 +1,20 @@
+[Event "Sweden"]
+[Site "Sweden"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Wedberg, Tom"]
+[Black "Hammar, Bengt"]
+[Result "1/2-1/2"]
+[ECO "B25"]
+[Opening "Sicilian"]
+[Variation "closed, 6.f4"]
+[HashCode "6ea76f99"]
+[Epoch "Rook"]
+[WhiteID "1700073"]
+[WhiteCountry "SWE"]
+[BlackID "1700391"]
+[BlackCountry "SWE"]
+
+1. e4 c5 2. Nc3 d6 3. g3 Nc6 4. Bg2 g6 5. d3 Bg7 6. f4 e6 7. Nf3 Nge7 8. O-O
+Rb8 9. Rb1 O-O 10. Be3 b6 11. d4 d5 12. e5 Nf5 13. Bf2 Nfxd4 14. Bxd4 Nxd4 15.
+Nxd4 cxd4 16. Qxd4 1/2-1/2

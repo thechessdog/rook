@@ -1,0 +1,17 @@
+[Event "E Detroit Motor City op"]
+[Site "E Detroit Motor City op"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Murray, D."]
+[Black "Noren, Kevin"]
+[Result "1/2-1/2"]
+[ECO "B00"]
+[Opening "KP"]
+[Variation "Nimzovich defence, Bogolyubov variation"]
+[HashCode "57786b82"]
+[Epoch "Rook"]
+[BlackID "2093170"]
+[BlackCountry "USA"]
+
+1. e4 Nc6 2. d4 d5 3. Nc3 e6 4. e5 Nge7 5. f4 Nf5 6. Nf3 Bb4 7. Be2 h5 8. O-O
+Ncxd4 9. Nxd4 Bc5 1/2-1/2

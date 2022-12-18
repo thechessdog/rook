@@ -1,0 +1,20 @@
+[Event "Zalaegerszeg"]
+[Site "Zalaegerszeg"]
+[Date "1977.01.01"]
+[Round "8"]
+[White "Vasiukov, Evgeni"]
+[Black "Pribyl, Josef"]
+[Result "1-0"]
+[ECO "B07"]
+[Opening "Pirc"]
+[Variation "Byrne variation"]
+[HashCode "1daddfd2"]
+[Epoch "Rook"]
+[WhiteID "4100522"]
+[WhiteCountry "RUS"]
+[BlackID "300187"]
+[BlackCountry "CZE"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Bg5 Nbd7 5. f4 c5 6. e5 Nh5 7. g4 cxd4 8. Qxd4
+dxe5 9. fxe5 Ng7 10. e6 Nxe6 11. Qxh8 Nxg5 12. O-O-O a6 13. h4 Ne6 14. Bc4 Qb6
+15. Nh3 h6 16. Rhe1 Ndc5 17. Nd5 Qa7 18. g5 h5 19. Nc7+ Nxc7 20. Rxe7+ 1-0

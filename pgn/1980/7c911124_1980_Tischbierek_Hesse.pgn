@@ -1,0 +1,20 @@
+[Event "DDR-ch 29th"]
+[Site "Plauen"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Tischbierek, Raj"]
+[Black "Hesse, Peter"]
+[Result "1/2-1/2"]
+[ECO "B41"]
+[Opening "Sicilian"]
+[Variation "Kan, Maroczy bind (Reti variation)"]
+[HashCode "7c911124"]
+[Epoch "Rook"]
+[WhiteID "4611322"]
+[WhiteCountry "GER"]
+[BlackID "4611519"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. c4 Nf6 6. Nc3 Qc7 7. a3 b6 8. Be2
+Bb7 9. f3 Be7 10. Be3 d6 11. Rc1 Nbd7 12. O-O O-O 13. Qd2 Rac8 14. Rfd1 Qb8 15.
+Bf1 Rfd8 16. Qf2 Bf8 1/2-1/2

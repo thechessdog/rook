@@ -1,0 +1,19 @@
+[Event "Hungary"]
+[Site "Hungary"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Perenyi, Bela"]
+[Black "Barczay, Laszlo"]
+[Result "1-0"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Byrne (English) attack"]
+[HashCode "7593d6ef"]
+[Epoch "Rook"]
+[BlackCountry "HUN"]
+[WhiteCountry "HUN"]
+
+1. e4 c5 2. Nf3 d6 3. d4 Nf6 4. Nc3 cxd4 5. Nxd4 a6 6. Be3 e6 7. g4 h6 8. Qf3
+Nbd7 9. Qh3 Nc5 10. f3 e5 11. Nb3 Be6 12. O-O-O Nxb3+ 13. axb3 Rc8 14. Nd5 Bxd5
+15. exd5 Qc7 16. c3 Qa5 17. Bc4 b5 18. g5 Nd7 19. b4 Qa4 20. Bd3 Qa1+ 21. Kc2
+Qa2 22. g6 Qa4+ 23. Kb1 Rxc3 24. Rc1 Ra3 25. Qxd7+ 1-0

@@ -1,0 +1,18 @@
+[Event "Poland"]
+[Site "Poland"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Ehrenfeucht, Wojcie"]
+[Black "Barwinski, Dionizy"]
+[Result "1-0"]
+[ECO "B33"]
+[Opening "Sicilian"]
+[Variation "Pelikan (Lasker/Sveshnikov) variation"]
+[HashCode "343b879f"]
+[Epoch "Rook"]
+[BlackID "1104365"]
+[BlackCountry "POL"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Nd5 Nxd5 8.
+exd5 Ne7 9. c3 Ng6 10. Qa4 Bd7 11. Qb4 Bc8 12. Qc4 Ke7 13. Be3 Bf5 14. Nxd6 Qd7
+15. Nxf5+ Qxf5 16. d6+ Kf6 17. g4 1-0

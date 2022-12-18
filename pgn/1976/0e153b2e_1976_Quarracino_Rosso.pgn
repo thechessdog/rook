@@ -1,0 +1,16 @@
+[Event "Buenos Aires ch-ARG"]
+[Site "Buenos Aires ch-ARG"]
+[Date "1976.01.01"]
+[Round "6"]
+[White "Quarracino, C."]
+[Black "Rosso, R."]
+[Result "1-0"]
+[ECO "C13"]
+[Opening "French"]
+[Variation "Albin-Alekhine-Chatard attack"]
+[HashCode "0e153b2e"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Nfd7 6. h4 Bxg5 7. hxg5 Qxg5 8.
+Nh3 Qe7 9. Nf4 a6 10. Qg4 g6 11. O-O-O Nf8 12. Nfxd5 exd5 13. Qxc8+ Qd8 14.
+Qxb7 Nbd7 15. Nxd5 Ne6 16. f4 O-O 17. Qc6 a5 18. Qxd7 1-0

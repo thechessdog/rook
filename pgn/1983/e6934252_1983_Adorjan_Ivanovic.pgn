@@ -1,0 +1,20 @@
+[Event "Sarajevo"]
+[Site "Sarajevo"]
+[Date "1983.03.01"]
+[Round "1"]
+[White "Adorjan, Andras"]
+[Black "Ivanovic, Bozidar"]
+[Result "0-1"]
+[ECO "A33"]
+[Opening "English"]
+[Variation "symmetrical, Geller variation"]
+[HashCode "e6934252"]
+[Epoch "Rook"]
+[WhiteID "700096"]
+[WhiteCountry "HUN"]
+[BlackID "900095"]
+[BlackCountry "MNE"]
+
+1. c4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e6 6. g3 Qb6 7. Nb3 d5 8. Be3
+Qb4 9. cxd5 Nxd5 10. Bd2 Nxc3 11. Bxc3 Qe4 12. Rg1 e5 13. Bg2 Qf5 14. Na5 Bc5
+15. e3 Nb4 16. g4 Nd3+ 17. Ke2 Qxf2+ 18. Kxd3 Be6 19. Nxb7 e4+ 0-1

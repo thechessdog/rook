@@ -1,0 +1,17 @@
+[Event "corr RUM/K"]
+[Site "corr RUM/K"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Butnaru"]
+[Black "Nistor"]
+[Result "0-1"]
+[ECO "B33"]
+[Opening "Sicilian"]
+[Variation "Pelikan (Lasker/Sveshnikov) variation"]
+[HashCode "57a25d6d"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Nxc6 bxc6 7. Bc4
+Be7 8. Be3 O-O 9. f4 d5 10. exd5 Ng4 11. Qf3 Bh4+ 12. g3 Nxe3 13. Qxe3 exf4
+14. Qxf4 Re8+ 15. Kd1 Bg5 16. Qf2 Bg4+ 0-1
+

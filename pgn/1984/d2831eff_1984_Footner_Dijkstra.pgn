@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Footner"]
+[Black "Dijkstra"]
+[Result "0-1"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "classical variation (5.Bf4)"]
+[HashCode "d2831eff"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Nf3 Be7 5. Bf4 O-O 6. e3 c5 7. dxc5 Bxc5 8.
+Qc2 Nc6 9. a3 Qa5 10. Rd1 Be7 11. Nd2 e5 12. Bg3 d4 13. Nb3 Qb6 14. c5 Bxc5
+15. Na4 Bb4+ 16. axb4 Qxb4+ 17. Nd2 Bg4 18. Qb3 Qxb3 19. Nxb3 Bxd1 20. Kxd1
+Rfd8 21. Ke1 Rac8 22. Be2 Nb4 23. Bxe5 Ne4 24. Bf3 Nc2+ 25. Ke2 d3+ 26. Kf1
+Na1 27. Nac5 Nxb3 28. Nxb3 Nd2+ 29. Ke1 Nxb3 30. Bc3 0-1
+

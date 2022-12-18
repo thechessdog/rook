@@ -1,0 +1,24 @@
+[Event "corr ch-CSSR"]
+[Site "corr ch-CSSR"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Konkolsky"]
+[Black "Izing"]
+[Result "1-0"]
+[ECO "C43"]
+[Opening "Petrov"]
+[Variation "modern attack, main line"]
+[HashCode "1c9af544"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nf6 3. d4 exd4 4. e5 Ne4 5. Qxd4 d5 6. exd6 Nxd6 7. Bd3 Nc6
+8. Qf4 g6 9. O-O Bg7 10. Re1+ Ne7 11. Qh4 Be6 12. Nc3 h6 13. Nd4 Ndf5 14.
+Nxf5 gxf5 15. Be3 Rg8 16. Rad1 Nd5 17. Qa4+ c6 18. Bxf5 Bxc3 19. bxc3 Rxg2+
+20. Kxg2 Nxe3+ 21. fxe3 Qg5+ 22. Qg4 Qxg4+ 23. Bxg4 Bxg4 24. Rd4 Be6 25. a3
+Ke7 26. Kf2 c5 27. Rh4 Rd8 28. Ke2 h5 29. h3 Rd5 30. Rg1 Kf8 31. c4 Re5 32.
+Kd3 Bf5+ 33. e4 Bg6 34. Rf4 Ke7 35. h4 Re6 36. Rg5 b6 37. a4 Rd6+ 38. Kc3
+Rd1 39. Re5+ Kf8 40. a5 Rb1 41. Re6 Kg7 42. Re7 Ra1 43. Rxa7 bxa5 44. Rc7
+Ra3+ 45. Kb2 Re3 46. Rxc5 a4 47. Ra5 Re2 48. Re5 Re3 49. c3 f5 50. Ra5 fxe4
+51. Ra7+ Kg8 52. Rxa4 Re2+ 53. Kc1 Rg2 54. Ra8+ Kg7 55. Ra7+ Kg8 56. Re7
+Rg1+ 57. Kb2 Re1 58. c5 1-0
+

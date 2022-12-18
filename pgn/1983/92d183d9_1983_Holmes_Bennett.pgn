@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Holmes, E."]
+[Black "Bennett, M."]
+[Result "1-0"]
+[ECO "E48"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 O-O, 5.Bd3 d5"]
+[HashCode "92d183d9"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 Nc6 7. O-O Re8 8.
+Qc2 dxc4 9. Bxc4 a6 10. Rd1 b5 11. Bd3 Bb7 12. e4 h6 13. Be3 Ba5 14. Qe2
+Qe7 15. e5 Nd5 16. Nxd5 exd5 17. Rac1 f6 18. Bg6 Rf8 19. Kh1 f5 20. Bf4 Bb6
+21. h4 Nxd4 22. Nxd4 Qxh4+ 23. Bh2 Bxd4 24. Rxd4 Qxd4 25. Rxc7 Qb6 26. e6
+Rfc8 27. Bf7+ Kh7 28. Be5 g6 1-0
+

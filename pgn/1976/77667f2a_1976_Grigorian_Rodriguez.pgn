@@ -1,0 +1,21 @@
+[Event "Yerevan"]
+[Site "Yerevan"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Grigorian, Karen Ashotovich"]
+[Black "Rodriguez Cespedes, Amador"]
+[Result "1-0"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Nimzovich (knight's tour) variation"]
+[HashCode "77667f2a"]
+[Epoch "Rook"]
+[BlackCountry "ESP"]
+[WhiteCountry "ARM"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. Nd2 Nbd7 8. e4
+Bg7 9. Be2 O-O 10. O-O Re8 11. a4 Ne5 12. Qc2 g5 13. Nc4 Nxc4 14. Bxc4 Ng4 15.
+Ne2 a6 16. Ra3 Qe7 17. Rg3 Qxe4 18. Bd3 Qxd5 19. Bxh7+ Kh8 20. Nc3 Qd4 21. Ne4
+f5 22. Nxg5 Qf6 23. Rh3 Nh6 24. Bf4 Bd7 25. Qd1 Rad8 26. Qh5 Re7 27. Bg6 Be8
+28. Bxe8 Rdxe8 29. Rd3 Rd8 30. Nf3 c4 31. Rd2 Rdd7 32. Rfd1 d5 33. Rxd5 Rxd5
+34. Rxd5 Qe6 35. Rd8+ 1-0

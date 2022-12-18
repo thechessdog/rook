@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Iveges, Zoltan"]
+[Black "Belmonte, Diego"]
+[Result "0-1"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Lipnitzky attack"]
+[HashCode "d3fb8195"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. O-O b5 8.
+Bb3 Bb7 9. Re1 Nbd7 10. Bg5 h6 11. Bxf6 Nxf6 12. a4 b4 13. Na2 Nxe4 14.
+Nxb4 d5 15. Nbc6 Qb6 16. c4 Bxc6 17. a5 Qa7 18. Rxe4 dxe4 19. Nxc6 Qc7 20.
+Ba4 Bc5 0-1
+

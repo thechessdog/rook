@@ -1,0 +1,25 @@
+[Event "Bor"]
+[Site "Bor"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Pavlovic, Dean"]
+[Black "Ilic, Zoran"]
+[Result "0-1"]
+[ECO "B84"]
+[Opening "Sicilian"]
+[Variation "Scheveningen (Paulsen), classical variation"]
+[HashCode "c9f4fd4b"]
+[Epoch "Rook"]
+[WhiteID "918512"]
+[BlackID "15001350"]
+[WhiteCountry "SRB"]
+[BlackCountry "MKD"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e6 7. O-O Be7 8. Be3
+Qc7 9. f4 O-O 10. Bf3 Nc6 11. Qe1 Nxd4 12. Bxd4 e5 13. Bf2 exf4 14. Qd2 Be6 15.
+Qxf4 Nd7 16. Nd5 Bxd5 17. exd5 Ne5 18. Be4 g6 19. c3 f5 20. Bc2 Bf6 21. Qb4
+Rac8 22. Bd4 Nc4 23. Bxf6 Rxf6 24. Rae1 a5 25. Qb5 Ne5 26. h3 Kg7 27. Rf2 b6
+28. Ba4 Qc5 29. Rd1 Rf7 30. Qe2 Re7 31. Bb5 Rcc7 32. Qf1 Nf7 33. Kh2 Re3 34. a4
+Rce7 35. Rd4 R7e4 36. Rf4 Rxf4 37. Rxf4 Qc7 38. Rf3 Qe7 39. Rxe3 Qxe3 40. Bc6
+Ng5 41. Qd1 Qe5+ 42. Kg1 Qe3+ 43. Kh2 f4 44. Qg4 f3 45. Qd4+ Qxd4 46. cxd4 f2
+47. Bb5 Kf6 48. Bd3 Ne4 49. g3 Nd2 50. Kg2 f1=Q+ 0-1

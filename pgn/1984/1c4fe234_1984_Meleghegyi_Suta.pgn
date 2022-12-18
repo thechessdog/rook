@@ -1,0 +1,21 @@
+[Event "corr ol9"]
+[Site "corr ol9"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Meleghegyi, C."]
+[Black "Suta, M."]
+[Result "1-0"]
+[ECO "E13"]
+[Opening "Queen's Indian"]
+[Variation "4.Nc3, main line"]
+[HashCode "1c4fe234"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Nf3 b6 5. Bg5 h6 6. Bh4 Bb7 7. e3 g5 8.
+Bg3 Ne4 9. Qc2 Bxc3+ 10. bxc3 d6 11. Bd3 Nxg3 12. hxg3 Nd7 13. a4 a5 14.
+Be4 Bxe4 15. Qxe4 Ke7 16. Rb1 f5 17. Qc6 Rc8 18. Nd2 Nb8 19. Qb5 Nd7 20.
+Qc6 Nb8 21. Qf3 Qe8 22. Rb5 Nd7 23. e4 c6 24. Rb2 Kd8 25. O-O Kc7 26. exf5
+Rf8 27. g4 exf5 28. gxf5 Qf7 29. c5 bxc5 30. Ne4 Qd5 31. dxc5 Nxc5 32. Nxc5
+Qxc5 33. Re1 Rxf5 34. Re7+ Kd8 35. Rbb7 Rc7 36. Rbxc7 Rxf3 37. Red7+ Ke8
+38. gxf3 1-0
+

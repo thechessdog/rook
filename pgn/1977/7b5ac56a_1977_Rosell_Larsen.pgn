@@ -1,0 +1,18 @@
+[Event "Snekkersten"]
+[Site "Snekkersten"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Rosell, Per"]
+[Black "Larsen, Ole"]
+[Result "1-0"]
+[ECO "A34"]
+[Opening "English"]
+[Variation "symmetrical, Rubinstein system"]
+[HashCode "7b5ac56a"]
+[Epoch "Rook"]
+
+1. c4 Nf6 2. Nc3 c5 3. g3 d5 4. cxd5 Nxd5 5. Bg2 Nc7 6. Qa4+ Nd7 7. d3 e6
+8. Be3 Be7 9. Rc1 O-O 10. Ne4 Na6 11. Nf3 b6 12. O-O Bb7 13. Rfd1 Nc7 14.
+Bf4 Nf6 15. Nxf6+ Bxf6 16. b4 Nd5 17. bxc5 Nc3 18. Rxc3 Bxc3 19. c6 Qe8 20.
+Ne5 Bxe5 21. Bxe5 Rc8 22. Qg4 1-0
+

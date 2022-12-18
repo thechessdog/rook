@@ -1,0 +1,23 @@
+[Event "FIN-ch"]
+[Site "FIN"]
+[Date "1980.??.??"]
+[Round "?"]
+[White "Pyhala, Antti"]
+[Black "Valkesalmi, Kimmo"]
+[Result "0-1"]
+[ECO "B97"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Poisoned pawn variation"]
+[HashCode "2a5b2282"]
+[Epoch "Rook"]
+[BlackID "500054"]
+[BlackCountry "FIN"]
+[WhiteCountry "FIN"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qb6 8. Qd2
+Qxb2 9. Rb1 Qa3 10. f5 Nc6 11. fxe6 fxe6 12. Nxc6 bxc6 13. e5 dxe5 14. Bxf6
+gxf6 15. Ne4 Be7 16. Be2 h5 17. Rb3 Qa4 18. Nxf6+ Bxf6 19. c4 Ra7 20. O-O Rf7
+21. Bxh5 Rxh5 22. Rb8 Kf8 23. Rxf6 Rxf6 24. Rxc8+ Kg7 25. Qd8 Rf1+ 26. Kxf1
+Qxc4+ 27. Ke1 Qe4+ 28. Kd1 Qb1+ 29. Kd2 Qxa2+ 30. Kc3 Qa3+ 31. Kc2 Qc5+ 32. Kb3
+Qd5+ 33. Qxd5 cxd5 34. h3 Rf5 35. Rc6 Kf6 36. Rxa6 Rf2 37. Ra2 Rxa2 38. Kxa2
+Kf5 39. Kb2 Kf4 40. h4 Kg4 41. g3 e4 42. Kc2 e3 43. Kd1 d4 44. Kc1 d3 0-1

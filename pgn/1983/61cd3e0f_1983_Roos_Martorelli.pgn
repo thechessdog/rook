@@ -1,0 +1,28 @@
+[Event "Banco di Roma"]
+[Site "Banco di Roma"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Roos, Daniel"]
+[Black "Martorelli, Antonio"]
+[Result "1-0"]
+[ECO "B23"]
+[Opening "Sicilian"]
+[Variation "closed"]
+[HashCode "61cd3e0f"]
+[Epoch "Rook"]
+[WhiteID "600253"]
+[WhiteCountry "FRA"]
+[BlackID "801399"]
+[BlackCountry "ITA"]
+
+1. e4 c5 2. Nc3 e6 3. Nge2 Nc6 4. g3 d5 5. Bg2 d4 6. Nb1 e5 7. d3 Be6 8. f4 f6
+9. O-O Qd7 10. Nd2 Bd6 11. Nf3 Nge7 12. Bd2 O-O-O 13. a3 h6 14. f5 Bf7 15. Nh4
+Kb8 16. b3 Bc7 17. Bf3 Rc8 18. Nc1 h5 19. b4 cxb4 20. axb4 a6 21. b5 axb5 22.
+Na2 Ba5 23. Bxa5 Nxa5 24. Nb4 Nac6 25. Na2 Kc7 26. Nc1 Kb6 27. Rb1 Qd6 28. Qd2
+Ra8 29. Ng2 Ra3 30. Ne2 Qc5 31. Rb2 Rha8 32. Rfb1 Ra1 33. Ne1 Rxb1 34. Rxb1 Ra4
+35. Kg2 Rb4 36. Rxb4 Nxb4 37. Kh3 Nbc6 38. Kh4 g5+ 39. fxg6 Nxg6+ 40. Kh3 Be6+
+41. Kg2 h4 42. Qh6 Qb4 43. Kf2 hxg3+ 44. hxg3 Nge7 45. Qxf6 Bg8 46. Bh5 Nc8 47.
+Be8 Qe7 48. Qxe7 N8xe7 49. g4 b4 50. Nc1 Kc7 51. Nf3 Kd8 52. Bxc6 Nxc6 53. Kg3
+Ke7 54. Kh4 Kf6 55. Kh5 Be6 56. Nh4 Ne7 57. Nb3 Bf7+ 58. Kh6 Ng8+ 59. Kh7 Kg5
+60. Nf3+ Kf4 61. Nbd2 b3 62. cxb3 Ne7 63. Kg7 Bxb3 64. Nxb3 Kxf3 65. Kf7 Kxg4
+66. Kxe7 Kf4 67. Kd6 Ke3 68. Kxe5 1-0

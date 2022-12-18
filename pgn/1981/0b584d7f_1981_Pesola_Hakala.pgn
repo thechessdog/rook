@@ -1,0 +1,22 @@
+[Event "corr SM"]
+[Site "corr SM"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Pesola, Juho"]
+[Black "Hakala, Helge"]
+[Result "1-0"]
+[ECO "A73"]
+[Opening "Benoni"]
+[Variation "classical, 9.O-O"]
+[HashCode "0b584d7f"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. Nf3 Bg7 8.
+Be2 O-O 9. O-O Na6 10. Bf4 Re8 11. Nd2 Nc7 12. Re1 a6 13. a4 Rb8 14. a5 Bf8
+15. g4 h6 16. f3 b6 17. axb6 Rxb6 18. Nc4 Rb4 19. Qd2 Kh7 20. Rab1 Rb8 21.
+e5 dxe5 22. Nxe5 Nfxd5 23. Nc6 Qf6 24. Nxd5 Nxd5 25. Bxb8 Qxc6 26. Bc4
+Rxe1+ 27. Rxe1 Be6 28. Qe2 Nc7 29. Bxc7 Bxc4 30. Qxc4 Qxc7 31. Qxa6 Bg7 32.
+Qe2 Bd4+ 33. Kg2 Qf4 34. Qc4 Qf6 35. b3 Kg7 36. Re4 Qd6 37. b4 Qc6 38. Re7
+Qf6 39. Rd7 Be3 40. bxc5 Qb2+ 41. Kh3 Qf6 42. Kg3 g5 43. c6 Bf4+ 44. Kh3 h5
+45. Qd5 hxg4+ 46. Kxg4 Be5 47. Rxf7+ 1-0
+

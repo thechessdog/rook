@@ -1,0 +1,23 @@
+[Event "E Detroit Motor City op"]
+[Site "E Detroit Motor City op"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Suess, J."]
+[Black "Praedel, R."]
+[Result "0-1"]
+[ECO "B23"]
+[Opening "Sicilian"]
+[Variation "closed, 2...Nc6"]
+[HashCode "10b2fa2c"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nc3 Nc6 3. Bc4 d6 4. d3 Nf6 5. Be3 g6 6. Qf3 Bg7 7. h3 a6 8. a3
+O-O 9. Ba2 Nd4 10. Bxd4 cxd4 11. Nce2 Qb6 12. Rb1 Bd7 13. Nf4 Rac8 14. Bc4
+Qa5+ 15. Ke2 b5 16. Bb3 Bc6 17. Kf1 b4 18. a4 Nd7 19. Qe2 Nc5 20. Bd5 Bxa4
+21. Ra1 Qc7 22. b3 Bb5 23. Bc4 Bc6 24. Bd5 Bb5 25. Bc4 Bc6 26. Bd5 e6 27.
+Bc4 Rfe8 28. Qd2 Qb7 29. Nge2 d5 30. exd5 exd5 31. Ra5 dxc4 32. Rxc5 Bxg2+
+33. Nxg2 Rxc5 34. dxc4 Rce5 35. Rg1 Rxe2 36. Qg5 Rxc2 37. Qd5 Rc1+ 38. Ne1
+Rexe1+ 39. Kg2 Rxg1+ 40. Kf3 Qxd5+ 41. cxd5 d3 42. Ke3 Rge1+ 43. Kxd3 Red1+
+44. Ke4 Rd4+ 45. Kf3 Rxd5 46. h4 Rf5+ 47. Kg2 Rc2 48. Kf1 Rfxf2+ 49. Kg1
+Bd4 0-1
+

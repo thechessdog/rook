@@ -1,0 +1,22 @@
+[Event "Aaronson"]
+[Site "Londen open"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Littlewood, Paul E"]
+[Black "Haik, Aldo"]
+[Result "0-1"]
+[ECO "C46"]
+[Opening "Three knights"]
+[Variation "Steinitz, Rosenthal variation"]
+[HashCode "407a626d"]
+[Epoch "Rook"]
+[BlackID "600091"]
+[BlackCountry "FRA"]
+[WhiteID "400190"]
+[WhiteCountry "ENG"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 g6 4. d4 exd4 5. Nd5 Bg7 6. Bg5 Nce7 7. Nxd4 h6 8.
+Bh4 c6 9. Nxe7 Nxe7 10. Qd2 d5 11. O-O-O g5 12. Bg3 dxe4 13. Qe3 Qb6 14. Bd6 f5
+15. Bxe7 Kxe7 16. Qa3+ Kf7 17. Bc4+ Kg6 18. Qe7 Rf8 19. Nb3 Qxf2 20. g3 b5 21.
+Rd6+ Kh7 22. Bf7 a5 23. Nd4 f4 24. h4 gxh4 25. gxh4 Kh8 26. Rd1 Bg4 27. Ne6
+Bxd1 28. Nxg7 Qxc2# 0-1

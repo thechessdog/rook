@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Diemer"]
+[Black "Pruitt, Steve"]
+[Result "1-0"]
+[ECO "C00"]
+[Opening "French"]
+[Variation "Alapin variation"]
+[HashCode "2b71174e"]
+[Epoch "Rook"]
+
+1. d4 d5 2. e4 e6 3. Be3 dxe4 4. Nc3 Nf6 5. f3 Bb4 6. Bg5 exf3 7. Nxf3 Nbd7
+8. Bd3 c5 9. a3 Ba5 10. O-O cxd4 11. Ne4 Bc7 12. Nxd4 h6 13. Nxe6 fxe6 14.
+Qh5+ Nxh5 15. Nd6+ Bxd6 16. Bg6# 1-0
+

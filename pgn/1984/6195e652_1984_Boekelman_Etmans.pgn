@@ -1,0 +1,16 @@
+[Event "KNSB"]
+[Site "KNSB"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Boekelman"]
+[Black "Etmans, Maarten D"]
+[Result "0-1"]
+[ECO "D02"]
+[Opening "Queen's pawn game"]
+[HashCode "6195e652"]
+[Epoch "Rook"]
+
+1. Nf3 d5 2. d4 Bf5 3. c4 e6 4. cxd5 exd5 5. Qb3 b6 6. Nc3 c6 7. e4 dxe4 8. Ng5
+Nh6 9. Bc4 Bg6 10. d5 b5 11. dxc6 bxc4 12. Qb7 Na6 13. Qxa6 Be7 14. Qxc4 Qd3
+15. Qa4 O-O 16. Ngxe4 Nf5 17. Bg5 Nd4 18. Bxe7 Bxe4 19. Rd1 Nc2+ 20. Qxc2 Qxc2
+21. Bxf8 Bxg2 22. Bc5 0-1

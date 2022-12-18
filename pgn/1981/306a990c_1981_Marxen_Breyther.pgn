@@ -1,0 +1,24 @@
+[Event "BL2-N 8081"]
+[Site "BL2-N 8081"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Marxen, Peter, Dr."]
+[Black "Breyther, Ruediger"]
+[Result "0-1"]
+[ECO "E41"]
+[Opening "Nimzo-Indian"]
+[Variation "e3, Huebner variation"]
+[HashCode "306a990c"]
+[Epoch "Rook"]
+[WhiteID "4607686"]
+[WhiteCountry "GER"]
+[BlackID "4601211"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 Nc6 6. Nf3 Bxc3+ 7. bxc3 d6 8.
+O-O e5 9. Ng5 O-O 10. f4 exd4 11. exd4 h6 12. Nf3 Bg4 13. h3 Bxf3 14. Qxf3 cxd4
+15. cxd4 d5 16. Ba3 dxc4 17. Bxf8 Qxd4+ 18. Kh2 cxd3 19. Ba3 Qc3 20. Bd6 Rd8
+21. Rac1 Qa5 22. Qxd3 Ne8 23. Rxc6 bxc6 24. Bb4 Rxd3 25. Bxa5 Ra3 26. Bd8 Rxa2
+27. Re1 Nd6 28. Rc1 Nf5 29. Kh1 Ne3 30. g4 Nd5 31. f5 Nf4 32. h4 Nd3 33. Rc4
+Ne5 34. Rf4 c5 35. g5 Rd2 36. Bc7 f6 37. Re4 Rd4 38. Re1 Rxh4+ 39. Kg2 Rg4+ 40.
+Kh3 Rxg5 41. Bxe5 0-1

@@ -1,0 +1,18 @@
+[Event "corr Italy"]
+[Site "corr Italy"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Elli"]
+[Black "Negri"]
+[Result "0-1"]
+[ECO "C68"]
+[Opening "Ruy Lopez"]
+[Variation "exchange, Romanovsky variation"]
+[HashCode "40e46e12"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. Nc3 f6 6. d3 Bg4 7. O-O Qd7
+8. Qe1 Bxf3 9. gxf3 Qh3 10. Qe2 Ne7 11. f4 Ng6 12. f3 Bc5+ 13. Be3 Nxf4 14.
+Bxc5 Nxe2+ 15. Nxe2 O-O-O 16. Ng3 b6 17. Be3 h5 18. Nf5 g6 19. Ne7+ Kd7 20.
+Nxg6 Rdg8 0-1
+

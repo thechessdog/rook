@@ -1,0 +1,16 @@
+[Event "corr DDR thematic"]
+[Site "corr DDR thematic"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Kievelitz"]
+[Black "Klugert"]
+[Result "1-0"]
+[ECO "D00"]
+[Opening "Blackmar gambit"]
+[HashCode "f684985d"]
+[Epoch "Rook"]
+
+1. d4 d5 2. e4 dxe4 3. Nc3 Nf6 4. f3 exf3 5. Nxf3 Bf5 6. Ne5 h5 7. Qf3 Qc8
+8. Bc4 e6 9. Bg5 Be7 10. O-O-O c6 11. h3 Nbd7 12. Nxf7 Kxf7 13. Qxf5 Nb6
+14. Bb3 1-0
+

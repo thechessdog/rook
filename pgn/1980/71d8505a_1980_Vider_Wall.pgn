@@ -1,0 +1,17 @@
+[Event "Dayton,OH"]
+[Site "Dayton,OH"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Vider, Bob"]
+[Black "Wall, Bill"]
+[Result "0-1"]
+[ECO "B12"]
+[Opening "Caro-Kann"]
+[Variation "advance variation"]
+[HashCode "71d8505a"]
+[Epoch "Rook"]
+[BlackCountry "USA"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 e6 5. Bg5 Qb6 6. b3 Bb4+ 7. Nbd2 h6 8. Bh4
+g5 9. Nxg5 hxg5 10. Bxg5 Qxd4 11. f4 Qe3+ 12. Be2 Rxh2 13. Rf1 Qg3+ 14. Rf2
+Rh1+ 15. Bf1 Bg4 16. Qc1 Qe3+ 17. Re2 Qxe2# 0-1

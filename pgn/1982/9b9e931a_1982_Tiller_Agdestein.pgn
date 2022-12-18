@@ -1,0 +1,24 @@
+[Event "NOR-ch"]
+[Site "Lillehammer"]
+[Date "1982.??.??"]
+[Round "1"]
+[White "Tiller, Bjorn"]
+[Black "Agdestein, Espen"]
+[Result "1-0"]
+[ECO "E97"]
+[Opening "King's Indian"]
+[Variation "orthodox, Aronin-Taimanov variation (Yugoslav attack / Mar del Plata variation)"]
+[HashCode "9b9e931a"]
+[Epoch "Rook"]
+[WhiteID "1500112"]
+[BlackID "1500201"]
+[WhiteCountry "NOR"]
+[BlackCountry "NOR"]
+
+1. c4 g6 2. e4 Bg7 3. d4 d6 4. Nc3 Nf6 5. Nf3 O-O 6. Be2 e5 7. O-O Nc6 8. d5
+Ne7 9. Nd2 c5 10. Rb1 Ne8 11. b4 b6 12. bxc5 bxc5 13. Nb3 f5 14. Bd2 Kh8 15. f3
+Ng8 16. Nc1 Bh6 17. Nd3 Nef6 18. Bxh6 Nxh6 19. Qa4 Nf7 20. Rb3 fxe4 21. fxe4
+Bg4 22. Rb2 Ng5 23. Qd1 Bd7 24. Nf2 Qe8 25. Qd2 Nf7 26. Rfb1 Nh5 27. Rb7 Qd8
+28. Bf1 Nf4 29. Qe3 Ng5 30. Kh1 Bc8 31. Rb8 Rxb8 32. Rxb8 Qf6 33. Kg1 a6 34. h4
+Nf7 35. g3 Nh5 36. Bh3 Nh6 37. Rxc8 Rxc8 38. Bxc8 Qd8 39. Be6 Kg7 40. Ng4 Nxg4
+41. Bxg4 Nf6 42. Bd1 1-0

@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Mecucci"]
+[Black "Tratto"]
+[Result "0-1"]
+[ECO "E40"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3"]
+[HashCode "1ceecd36"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 d5 5. a3 Bxc3+ 6. bxc3 Nc6 7. Bd3 dxc4
+8. Bxc4 O-O 9. Nf3 Ne4 10. Qd3 Na5 11. Bxe6 Nc5 12. Qb5 Bxe6 13. dxc5 Bc4
+14. Qxa5 Qd3 15. Nd4 Rfd8 16. Bd2 Rxd4 17. O-O-O Bb3 0-1
+

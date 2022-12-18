@@ -1,0 +1,17 @@
+[Event "corr Hungary"]
+[Site "corr Hungary"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Fodor, A."]
+[Black "Timar, Zsolt"]
+[Result "0-1"]
+[ECO "D94"]
+[Opening "Gruenfeld"]
+[Variation "Opovcensky variation"]
+[HashCode "8be71678"]
+[Epoch "Rook"]
+[BlackCountry "HUN"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. e3 O-O 6. Bd2 c5 7. dxc5 Na6 8. Na4
+Bd7 9. b4 Ne4 10. Rc1 Nxd2 11. Nxd2 Nxb4 12. Qb3 Qa5 13. a3 Na6 14. Nc3 d4 15.
+exd4 Bxd4 16. Nce4 Bc6 0-1

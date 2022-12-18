@@ -1,0 +1,22 @@
+[Event "Jyvaskyla"]
+[Site "Jyvaskyla"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Heinola, Kari P."]
+[Black "Keranen, H."]
+[Result "1-0"]
+[ECO "C13"]
+[Opening "French"]
+[Variation "Albin-Alekhine-Chatard attack"]
+[HashCode "6b64ef8b"]
+[Epoch "Rook"]
+[WhiteID "503495"]
+[WhiteCountry "FIN"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Nfd7 6. h4 h6 7. Qh5 g6 8. Bxe7
+Qxe7 9. Qe2 Nc6 10. Nb5 Nb6 11. Qd2 a6 12. Na3 Bd7 13. f4 f5 14. exf6 Qxf6 15.
+Nf3 O-O-O 16. O-O-O Rdf8 17. g3 Ne7 18. Bd3 Kb8 19. Ne5 Rc8 20. Qa5 Bc6 21. b4
+Nc4 22. Bxc4 dxc4 23. b5 Be8 24. Rh2 Nd5 25. Naxc4 Qe7 26. bxa6 b6 27. Qa3
+Qxa3+ 28. Nxa3 c5 29. c4 Ne3 30. Rd3 cxd4 31. Rxd4 Nf5 32. Rd3 Rg8 33. g4 Ne7
+34. Rd6 Ka7 35. Rxe6 Nc6 36. Nb5+ Kxa6 37. Nd6 Nd4 38. Rh3 Ka5 39. Nb7+ Ka6 40.
+Nd6 Rxc4+ 41. Nexc4 Nxe6 42. Ra3+ 1-0

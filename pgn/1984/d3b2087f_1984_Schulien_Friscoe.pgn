@@ -1,0 +1,18 @@
+[Event "Columbus,OH"]
+[Site "Columbus,OH"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Schulien, Charles"]
+[Black "Friscoe, Lou"]
+[Result "1-0"]
+[ECO "D27"]
+[Opening "QGA"]
+[Variation "classical, Rubinstein variation"]
+[HashCode "d3b2087f"]
+[Epoch "Rook"]
+[WhiteID "2001527"]
+[WhiteCountry "USA"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 dxc4 4. e3 e6 5. Bxc4 c5 6. O-O a6 7. a4 Nc6 8. Qe2
+b6 9. Nc3 Nd5 10. e4 Nxc3 11. bxc3 cxd4 12. cxd4 Nxd4 13. Nxd4 Qxd4 14. Bb2 Qd8
+15. Rfd1 Qc7 16. Rac1 Qf4 17. Bb5+ axb5 18. Qxb5+ Ke7 19. Rxc8 Ra7 20. Qe8# 1-0

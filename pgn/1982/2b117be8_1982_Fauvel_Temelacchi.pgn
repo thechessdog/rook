@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Fauvel"]
+[Black "Temelacchi"]
+[Result "0-1"]
+[ECO "C80"]
+[Opening "Ruy Lopez"]
+[Variation "open, Bernstein variation"]
+[HashCode "2b117be8"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8.
+dxe5 Be6 9. Nbd2 Nc5 10. c3 Be7 11. Nd4 Nxe5 12. f4 Bg4 13. Qe1 Ned3 14.
+Qg3 Qd7 15. f5 h5 16. h3 O-O-O 17. Qh2 Bd6 18. g3 h4 19. hxg4 hxg3 20. Qg2
+Nf4 21. Rxf4 Bxf4 22. Nf1 Nd3 23. Ne2 Qd6 24. Nfxg3 Nxc1 0-1
+

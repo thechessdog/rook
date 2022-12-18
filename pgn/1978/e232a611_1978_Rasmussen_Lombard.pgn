@@ -1,0 +1,21 @@
+[Event "Mitropa Cup"]
+[Site "Mitropa Cup"]
+[Date "1978.01.01"]
+[Round "5"]
+[White "Rasmussen, Lars Garne"]
+[Black "Lombard, Andre"]
+[Result "0-1"]
+[ECO "E02"]
+[Opening "Catalan"]
+[Variation "open, 5.Qa4"]
+[HashCode "e232a611"]
+[Epoch "Rook"]
+[WhiteID "1406434"]
+[WhiteCountry "DEN"]
+[BlackID "1300091"]
+[BlackCountry "SUI"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Bg2 dxc4 5. Qa4+ Nbd7 6. Nf3 a6 7. Nc3 c5 8. O-O
+Rb8 9. dxc5 Bxc5 10. Qxc4 b5 11. Qh4 Bb7 12. Bf4 Rc8 13. Rfd1 Qb6 14. e3 Be7
+15. Qg5 Rc5 16. Ne5 Nxe5 17. Bxe5 Bxg2 18. Kxg2 b4 19. Nb1 Qb7+ 20. Kg1 Qe4 21.
+Qxg7 Rg8 22. Bxf6 Rxg7 23. Bxg7 Qg4 0-1

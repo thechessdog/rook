@@ -1,0 +1,29 @@
+[Event "Luzern olm"]
+[Site "Luzern olm"]
+[Date "1982.10.01"]
+[Round "1"]
+[White "Rivera, Daniel"]
+[Black "Purgimon, J."]
+[Result "1-0"]
+[ECO "B40"]
+[Opening "Sicilian defence"]
+[HashCode "55411af0"]
+[Epoch "Rook"]
+[WhiteID "3000052"]
+[WhiteCountry "URU"]
+
+1. e4 c5 2. Nf3 e6 3. d3 Nc6 4. g3 g6 5. Bg2 Bg7 6. O-O Nge7 7. c3 d5 8. Qe2
+dxe4 9. dxe4 e5 10. Be3 b6 11. Na3 Bg4 12. Rfd1 Qb8 13. Rd2 O-O 14. Rad1 Qb7
+15. h3 Bxf3 16. Bxf3 Rad8 17. Nb5 Rxd2 18. Rxd2 Rd8 19. Nd6 Qc7 20. Qd1 Nc8 21.
+Nxc8 Rxd2 22. Qxd2 Qxc8 23. Bg4 Qd8 24. Bd7 Na5 25. b3 Kf8 26. Qd6+ Kg8 27. Qd5
+Qc7 28. Qa8+ Bf8 29. Bh6 Qd6 30. Bxf8 Qxf8 31. Qxa7 Qd6 32. Qa8+ Kg7 33. Qd5
+Qxd5 34. exd5 Nb7 35. a4 Na5 36. b4 cxb4 37. cxb4 Nc4 38. Bb5 Nd6 39. Bc6 Kf8
+40. Kf1 Ke7 41. Ke2 Nc8 42. Kd3 Kd6 43. Kc4 Kc7 44. g4 Nd6+ 45. Kd3 g5 46. f3
+Kb8 47. Bd7 Kc7 48. Bc6 Kb8 49. a5 Kc7 50. Kc3 Nc8 51. Kc4 Nd6+ 52. Kd3 f6 53.
+Kc3 Nc8 54. Kb3 Nd6 55. Ka4 f5 56. gxf5 Nxf5 57. Kb5 Nd6+ 58. Ka6 bxa5 59. b5
+Nc4 60. Be8 Nd6 61. b6+ Kb8 62. Bd7 h5 63. Kxa5 Kb7 64. Bb5 e4 65. fxe4 Nxe4
+66. Bc6+ Kb8 67. Be8 g4 68. Bxh5 gxh3 69. Kb5 Kb7 70. Bf3 Nf6 71. d6+ Kb8 72.
+b7 Nd7 73. Kc6 Ne5+ 74. Kd5 Nd7 75. Kc6 Ne5+ 76. Kb6 h2 77. Bh1 Nc4+ 78. Kc5
+Na5 79. Kb6 Nc4+ 80. Kc5 Na5 81. d7 Nxb7+ 82. Kc6 Nd8+ 83. Kb6 Nf7 84. Bg2 Nd8
+85. Bd5 h1=Q 86. Bxh1 Nb7 87. Be4 Nd8 88. Bd5 Nb7 89. Kc6 Ka8 90. Kc7 Ka7 91.
+Bc4 Ka8 92. Bb3 Ka7 93. Bd5 Ka6 94. Bxb7+ Ka7 95. Bc8 1-0

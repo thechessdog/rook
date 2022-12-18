@@ -1,0 +1,21 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Murach"]
+[Black "Eiselt"]
+[Result "1-0"]
+[ECO "B28"]
+[Opening "Sicilian"]
+[Variation "O'Kelly variation"]
+[HashCode "20d5fc96"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 a6 3. c4 e6 4. Nc3 Qc7 5. d4 cxd4 6. Nxd4 Bb4 7. Qg4 Qe5 8.
+Ne2 Nf6 9. Qxg7 Rg8 10. Bf4 Qxc3+ 11. bxc3 Rxg7 12. cxb4 Nxe4 13. f3 Nf6
+14. Bd6 Nc6 15. Nc3 Kd8 16. a3 Ne8 17. Bg3 f6 18. Bd3 e5 19. O-O d6 20. f4
+Be6 21. Rac1 Rc8 22. Ne4 Ke7 23. b5 axb5 24. cxb5 Na7 25. fxe5 fxe5 26. Nc3
+Rb8 27. b6 Nc6 28. Be4 h6 29. Rf2 Rf7 30. Rd2 Nf6 31. Bh4 Kd7 32. Bxf6 Rxf6
+33. Nb5 Bb3 34. Na7 Nd8 35. Rc7+ Ke6 36. Nc8 Rxc8 37. Rxc8 Ke7 38. Rb2 d5
+39. Rxb3 1-0
+

@@ -1,0 +1,19 @@
+[Event "corr CADAP"]
+[Site "corr CADAP"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Cabral"]
+[Black "Lewkowitz"]
+[Result "0-1"]
+[ECO "D85"]
+[Opening "Gruenfeld"]
+[Variation "exchange variation"]
+[HashCode "68021392"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. g3 Bg7 6. Bg2 Nxc3 7. bxc3 c5
+8. e3 O-O 9. Ne2 Nc6 10. O-O Qa5 11. a4 Rd8 12. Rb1 Qc7 13. Nf4 e6 14. Nd3
+b6 15. a5 Ba6 16. axb6 axb6 17. Qc2 Rac8 18. Rd1 cxd4 19. cxd4 Nxd4 20.
+Qxc7 Ne2+ 21. Kf1 Rxc7 22. Kxe2 Rc2+ 23. Kf3 Bxd3 24. Bd2 Rc4 25. Rb4 Be4+
+0-1
+

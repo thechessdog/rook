@@ -1,0 +1,18 @@
+[Event "Yerevan op"]
+[Site "Yerevan"]
+[Date "1983.01.01"]
+[Round "3"]
+[White "Kozirev, Alexander"]
+[Black "Kuzovkin, Alexander V."]
+[Result "1/2-1/2"]
+[ECO "C04"]
+[Opening "French"]
+[Variation "Tarrasch, Guimard main line"]
+[HashCode "92eb8729"]
+[Epoch "Rook"]
+[WhiteID "4105834"]
+[WhiteCountry "RUS"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nc6 4. Ngf3 Nf6 5. e5 Nd7 6. Be2 b6 7. O-O a5 8. c4
+dxc4 9. Nxc4 Nb4 10. Bg5 Be7 11. Bxe7 Qxe7 12. Ne3 Bb7 13. Rc1 Rc8 14. a3 Nd5
+15. Bb5 O-O 16. Bc6 Bxc6 17. Rxc6 Rfd8 18. Nxd5 exd5 19. Qd2 1/2-1/2

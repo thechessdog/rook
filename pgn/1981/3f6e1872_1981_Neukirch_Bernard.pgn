@@ -1,0 +1,34 @@
+[Event "Rostock"]
+[Site "Rostock"]
+[Date "1981.01.01"]
+[Round "8"]
+[White "Neukirch, Detlef"]
+[Black "Bernard, Ryszard"]
+[Result "0-1"]
+[ECO "B92"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Opovcensky variation"]
+[HashCode "3f6e1872"]
+[Epoch "Rook"]
+[WhiteID "4611624"]
+[WhiteCountry "GER"]
+[BlackID "1100688"]
+[BlackCountry "POL"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8. O-O
+O-O 9. a4 Be6 10. f4 Qc7 11. f5 Bc4 12. a5 Nbd7 13. Bxc4 Qxc4 14. Ra4 Qc7 15.
+Qe2 Rfc8 16. Kh1 h6 17. Be3 Qd8 18. Nd2 Rc6 19. Nc4 Rac8 20. Rd1 Bf8 21. Bg1
+Qc7 22. b3 Qd8 23. Raa1 Be7 24. Rd2 Qc7 25. Ra4 Qd8 26. Bf2 Qf8 27. Nd5 Nxd5
+28. Rxd5 Nf6 29. Rd1 Qd8 30. Bh4 Ne8 31. Bxe7 Qxe7 32. Nb6 Rd8 33. c4 Qh4 34.
+g3 Qg5 35. Nd5 Rd7 36. Kg2 Qd8 37. Ra2 Nf6 38. Nxf6+ Qxf6 39. Rd5 Rdc7 40. Rad2
+b6 41. axb6 Rxb6 42. Qd1 Rcc6 43. R2d3 Kh7 44. h4 Qe7 45. Kh3 Qb7 46. Qf3 Qe7
+47. g4 Qf6 48. Qg2 g5 49. fxg6+ fxg6 50. Rf3 Qe6 51. Kh2 Rb7 52. Rd1 Rcc7 53.
+g5 Rf7 54. Rdf1 Rf4 55. Rxf4 exf4 56. Rxf4 Rxb3 57. Rf3 Qe5+ 58. Kh3 Qe6+ 59.
+Kh2 Rxf3 60. Qxf3 hxg5 61. hxg5 Qxc4 62. Qf6 Qc7 63. Qf8 d5+ 64. Kg2 Qg7 65.
+Qc8 Qb2+ 66. Kf3 dxe4+ 67. Kxe4 Qg2+ 68. Kf4 Qh2+ 69. Kf3 Qh5+ 70. Kf4 Qh4+ 71.
+Kf3 Qh1+ 72. Kg3 Qg1+ 73. Kf3 Qd1+ 74. Ke3 Qd6 75. Kf3 a5 76. Qb7+ Kg8 77. Qb5
+Qd1+ 78. Kg2 Qg4+ 79. Kh2 Qf4+ 80. Kg2 Qe4+ 81. Kh2 a4 82. Kg3 Qe3+ 83. Kg4
+Qd4+ 84. Kg3 Qd6+ 85. Kg4 a3 86. Qb3+ Kf8 87. Kf3 Qc6+ 88. Kg3 Qc7+ 89. Kg2
+Qc6+ 90. Kg3 Qd6+ 91. Kf3 Qe7 92. Kg4 Qe4+ 93. Kg3 Qe5+ 94. Kh3 Qb2 95. Qe6
+Qc3+ 96. Kg2 Qd2+ 97. Kh3 Qxg5 98. Qd6+ Qe7 99. Qxg6 Qe3+ 100. Kg2 Qe2+ 101.
+Kg3 Qe5+ 102. Kf3 a2 103. Qh6+ Kg8 104. Qg6+ Qg7 0-1

@@ -1,0 +1,20 @@
+[Event "Aarhus"]
+[Site "Aarhus"]
+[Date "1976.01.01"]
+[Round "10"]
+[White "Kristiansen, Jens"]
+[Black "Jacobsen, Bo"]
+[Result "1-0"]
+[ECO "B06"]
+[Opening "Robatsch defence"]
+[Variation "two knights variation"]
+[HashCode "c23e20d6"]
+[Epoch "Rook"]
+[WhiteID "1400061"]
+[BlackID "1400738"]
+[WhiteCountry "DEN"]
+[BlackCountry "DEN"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. Nf3 Nd7 5. Bg5 a5 6. a4 c6 7. Bc4 Qb6 8. Qd2 e5
+9. dxe5 dxe5 10. O-O-O Ngf6 11. Qd6 Bf8 12. Bxf7+ Kxf7 13. Nxe5+ Kg7 14. Qe6
+Rg8 15. Bxf6+ Nxf6 16. Qf7+ Kh8 17. Qxf6+ Bg7 18. Nf7# 1-0

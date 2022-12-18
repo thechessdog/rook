@@ -1,0 +1,20 @@
+[Event "Corrientes"]
+[Site "Corrientes"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Gomez Baillo, Jorge H."]
+[Black "Tempone, Marcelo"]
+[Result "1/2-1/2"]
+[ECO "B16"]
+[Opening "Caro-Kann"]
+[Variation "Bronstein-Larsen variation"]
+[HashCode "af3c8341"]
+[Epoch "Rook"]
+[WhiteID "100129"]
+[WhiteCountry "ARG"]
+[BlackID "100269"]
+[BlackCountry "ARG"]
+
+1. e4 c6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Nf6 5. Nxf6+ gxf6 6. c3 Bf5 7. Nf3 e6 8.
+g3 Qd5 9. Bg2 Qc4 10. Bf1 Qd5 11. Bg2 Qc4 12. Nd2 Qa6 13. Ne4 Nd7 14. Qe2 Qxe2+
+15. Kxe2 1/2-1/2

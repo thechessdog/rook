@@ -1,0 +1,18 @@
+[Event "England"]
+[Site "England"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Branford, J."]
+[Black "Martin, Pedro"]
+[Result "0-1"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Euwe variation"]
+[HashCode "5abf2fa3"]
+[Epoch "Rook"]
+[BlackID "108383"]
+[BlackCountry "ARG"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Bd7 6. a3 f6 7. exf6 Nxf6 8. Bd3
+Qc7 9. O-O c4 10. Bc2 Bd6 11. Re1 O-O-O 12. Qe2 Rdf8 13. Ne5 Be8 14. f4 g5 15.
+fxg5 Bxe5 16. dxe5 Bh5 17. Qe3 Ng4 18. Qc5 Ngxe5 19. h3 Nf3+ 0-1

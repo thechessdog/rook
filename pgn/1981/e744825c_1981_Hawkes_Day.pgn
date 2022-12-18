@@ -1,0 +1,20 @@
+[Event "Montreal zt"]
+[Site "Montreal zt"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Hawkes, Rob"]
+[Black "Day, Lawrence A."]
+[Result "0-1"]
+[ECO "C99"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Chigorin, 12...c5d4"]
+[HashCode "e744825c"]
+[Epoch "Rook"]
+[WhiteID "2600382"]
+[WhiteCountry "CAN"]
+[BlackID "2600137"]
+[BlackCountry "CAN"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. h3
+O-O 9. c3 Na5 10. Bc2 c5 11. d4 Qc7 12. Nbd2 cxd4 13. cxd4 Nc6 14. Nf1 exd4 15.
+Nxd4 0-1

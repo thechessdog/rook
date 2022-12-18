@@ -1,0 +1,22 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Mothes"]
+[Black "Heller"]
+[Result "1-0"]
+[ECO "B06"]
+[Opening "Robatsch defence"]
+[Variation "Gurgenidze variation"]
+[HashCode "af55141a"]
+[Epoch "Rook"]
+
+1. e4 c6 2. d4 d5 3. Nc3 g6 4. e5 Bg7 5. f4 h5 6. Nf3 Bg4 7. Be3 e6 8. Be2
+Nd7 9. Qd2 Nh6 10. g3 Nf5 11. Bf2 Qa5 12. h3 Bxf3 13. Bxf3 O-O-O 14. O-O-O
+b5 15. a3 Nb6 16. Ne4 Qxd2+ 17. Nxd2 h4 18. g4 Ne7 19. Bg2 Rh6 20. Nf3 Rdh8
+21. b3 Kd7 22. Kb2 a5 23. Rd3 a4 24. Rc1 Nec8 25. Be1 Bf8 26. Ng5 Ke8 27.
+Ba5 Nd7 28. bxa4 bxa4 29. Ka2 Ndb6 30. Bxb6 Nxb6 31. Rb1 Nd7 32. Rb7 Be7
+33. Ra7 c5 34. Ra8+ Bd8 35. dxc5 Nxc5 36. Rc3 Nd7 37. Rcc8 Ke7 38. Rxd8
+Rxd8 39. Rxd8 Kxd8 40. Nxf7+ Ke8 41. Nxh6 Kf8 42. g5 Nb6 43. Ng4 Nc4 44.
+Bf1 Nd2 45. Bb5 Nf3 46. Kb2 Ne1 47. Bf1 Ke7 48. Nh2 Kd7 49. Kc1 1-0
+

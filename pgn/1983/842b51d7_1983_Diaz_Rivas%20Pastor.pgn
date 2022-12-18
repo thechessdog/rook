@@ -1,0 +1,29 @@
+[Event "Capablanca mem-A"]
+[Site "Cienfuegos"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Diaz, Joaquin, Dr."]
+[Black "Rivas Pastor, Manuel"]
+[Result "1-0"]
+[ECO "C92"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Flohr-Zaitsev system (Lenzerheide variation)"]
+[HashCode "842b51d7"]
+[Epoch "Rook"]
+[WhiteID "4663349"]
+[WhiteCountry "GER"]
+[BlackID "2200058"]
+[BlackCountry "ESP"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. h3 Bb7 10. d4 Re8 11. Nbd2 Bf8 12. Bc2 g6 13. d5 Ne7 14. b3 c6 15. c4
+Qc7 16. Nf1 Rec8 17. Bd3 Bg7 18. Bd2 Nd7 19. Ng3 Nc5 20. Bc2 a5 21. Be3 cxd5
+22. cxd5 a4 23. Rc1 axb3 24. Bxb3 Qd7 25. Nh2 Nxb3 26. Qxb3 Ra6 27. Rxc8+ Bxc8
+28. Rc1 Ra4 29. f3 h5 30. Nhf1 Kh7 31. Rc2 Bh6 32. Bxh6 Kxh6 33. Qe3+ Kh7 34.
+Qg5 Rc4 35. Ne3 Rxc2 36. Nxc2 Qa7+ 37. Kh2 Ng8 38. Nb4 Qb7 39. Qd8 Qd7 40. Qb6
+h4 41. Ne2 f5 42. Nc3 Nf6 43. Nc6 fxe4 44. fxe4 Qf7 45. Nd8 Ng4+ 46. hxg4 Qf4+
+47. Kh1 Qc1+ 48. Qg1 Qxc3 49. Qa7+ Kg8 50. Qf7+ Kh8 51. Qf6+ Kh7 52. Qxh4+ Kg8
+53. Qf6 Qc1+ 54. Kh2 Qh6+ 55. Kg3 Qe3+ 56. Qf3 Qe1+ 57. Qf2 Qxf2+ 58. Kxf2 g5
+59. Kf3 Kf8 60. Nc6 Ke8 61. Nb4 Kd8 62. Nc2 Kc7 63. Ne3 Kb6 64. a3 Kc5 65. Nf5
+Bd7 66. Ke3 Be8 67. Kd3 Bg6 68. g3 Bf7 69. Ng7 Kb6 70. Ne6 Ka5 71. Nd8 Bg6 72.
+Nb7+ Ka6 73. Nxd6 Bh7 74. Nf7 1-0

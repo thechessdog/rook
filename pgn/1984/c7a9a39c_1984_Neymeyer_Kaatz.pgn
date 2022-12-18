@@ -1,0 +1,20 @@
+[Event "corr DDR/H"]
+[Site "corr DDR/H"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Neymeyer"]
+[Black "Kaatz"]
+[Result "0-1"]
+[ECO "A28"]
+[Opening "English"]
+[Variation "four knights system"]
+[HashCode "c7a9a39c"]
+[Epoch "Rook"]
+
+1. c4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. d4 exd4 5. Nxd4 Bb4 6. Bg5 h6 7. Bh4
+Bxc3+ 8. bxc3 d6 9. f3 Ne5 10. e4 Ng6 11. Bf2 O-O 12. Bd3 c6 13. Qd2 d5 14.
+O-O dxe4 15. fxe4 Ng4 16. c5 Nxf2 17. Qxf2 Qa5 18. Ne2 Be6 19. Bc2 Rae8 20.
+Qd4 Bg4 21. Ng3 Re5 22. Bb3 Qxc5 23. Kh1 Qxd4 24. cxd4 Re7 25. Rac1 Rc7 26.
+h3 Be6 27. d5 Bc8 28. Ne2 a6 29. dxc6 bxc6 30. Nd4 Ne5 31. Rc5 Re8 32. Nf5
+Rd7 33. Rd1 Rxd1+ 34. Bxd1 Bxf5 35. exf5 Nd3 0-1
+

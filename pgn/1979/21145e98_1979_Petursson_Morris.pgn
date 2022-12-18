@@ -1,0 +1,23 @@
+[Event "Lone Pine open"]
+[Site "Lone Pine open"]
+[Date "1979.03.01"]
+[Round "2"]
+[White "Petursson, Margeir"]
+[Black "Morris, Walter D"]
+[Result "0-1"]
+[ECO "E81"]
+[Opening "King's Indian"]
+[Variation "Saemisch, 5...O-O"]
+[HashCode "21145e98"]
+[Epoch "Rook"]
+[WhiteID "2300028"]
+[WhiteCountry "ISL"]
+[BlackID "2001195"]
+[BlackCountry "USA"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 a6 7. Bd3 c5 8. dxc5
+dxc5 9. e5 Nfd7 10. f4 Nc6 11. Nf3 f6 12. Be4 fxe5 13. Qd5+ e6 14. Qxe6+ Kh8
+15. Rd1 exf4 16. Bf2 Re8 17. Qd5 Qe7 18. Qd2 Bxc3 19. Qxc3+ Qg7 20. O-O Qxc3
+21. bxc3 Rxe4 22. Ng5 Re2 23. Rfe1 Rxe1+ 24. Rxe1 Nde5 25. Bxc5 h6 26. Ne4 Nd3
+27. Rd1 Nxc5 28. Nxc5 Kg7 29. Nxb7 Bxb7 30. Rd7+ Kf6 31. Rxb7 Ne5 32. c5 Rc8
+33. Rb6+ Rc6 34. h4 Kf5 0-1

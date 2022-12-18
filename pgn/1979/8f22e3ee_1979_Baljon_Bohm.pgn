@@ -1,0 +1,26 @@
+[Event "IBM-B"]
+[Site "Amsterdam II"]
+[Date "1979.07.01"]
+[Round "2"]
+[White "Baljon, Christofoor"]
+[Black "Bohm, Hans"]
+[Result "0-1"]
+[ECO "C08"]
+[Opening "French"]
+[Variation "Tarrasch, open, 4.ed ed"]
+[HashCode "8f22e3ee"]
+[Epoch "Rook"]
+[WhiteID "1000772"]
+[WhiteCountry "NED"]
+[BlackID "1000306"]
+[BlackCountry "NED"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. exd5 exd5 5. Ngf3 Nf6 6. Bb5+ Bd7 7. Qe2+ Be7 8.
+dxc5 O-O 9. Nb3 Re8 10. Be3 a6 11. Bd3 Ba4 12. Nfd4 Nbd7 13. O-O Nxc5 14. Rfd1
+Nxd3 15. Rxd3 Bd7 16. h3 Rc8 17. a4 Bd6 18. Qf3 Bb8 19. Bf4 Bxf4 20. Qxf4 Re4
+21. Qd6 Qe8 22. Nc5 Rxd4 23. Nxd7 Ne4 24. Qe5 Qxe5 25. Nxe5 Rxd3 26. cxd3 Nd2
+27. Re1 g6 28. Nd7 d4 29. Nf6+ Kg7 30. Ne8+ Kf8 31. Nd6 Rc6 32. Nxb7 Nb3 33.
+Re5 f6 34. Rd5 Ke7 35. Na5 Rc1+ 36. Kh2 Rc5 37. Rxc5 Nxc5 38. Nc6+ Kd6 39. Nxd4
+Nxa4 40. b4 Nb2 41. b5 a5 42. b6 a4 43. Kg3 Nxd3 44. Kf3 Ne1+ 45. Ke2 Nxg2 46.
+Kd3 Nf4+ 47. Kc4 a3 48. Nb5+ Kc6 49. Nxa3 Nxh3 50. f3 Nf4 51. Kd4 Kxb6 52. Ke4
+Ne6 53. f4 Kc6 54. Nc4 Ng7 0-1

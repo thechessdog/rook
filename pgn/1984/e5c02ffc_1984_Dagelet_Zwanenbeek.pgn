@@ -1,0 +1,21 @@
+[Event "Alkmaar open"]
+[Site "Alkmaar open"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Dagelet, H."]
+[Black "Zwanenbeek, I."]
+[Result "0-1"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...g6"]
+[HashCode "e5c02ffc"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 c5 3. e3 cxd4 4. exd4 g6 5. Nc3 d5 6. Bg5 Bg7 7. Bxf6 Bxf6
+8. cxd5 Qb6 9. Qd2 O-O 10. O-O-O Bf5 11. Nf3 Na6 12. Bd3 Bg4 13. Be4 Rac8
+14. Kb1 Rc7 15. h3 Bxf3 16. gxf3 Rc4 17. Qe3 Rfc8 18. Ne2 Rb4 19. b3 Rbc4
+20. Rc1 Rxc1+ 21. Rxc1 Rxc1+ 22. Kxc1 Qb4 23. Kb2 Nc5 24. a3 Qb5 25. Ka2
+Nxb3 26. Qxb3 Qxe2+ 27. Kb1 Bxd4 28. Qxb7 Qd1+ 29. Ka2 Qd2+ 30. Kb1 Qc3 31.
+Qa6 Qa1+ 32. Kc2 Qa2+ 33. Kd3 Bf6 34. Qc8+ Kg7 35. Qa6 Qb3+ 36. Ke2 Qb2+
+37. Kf1 Bd4 0-1
+

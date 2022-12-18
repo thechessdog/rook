@@ -1,0 +1,24 @@
+[Event "DDR-ch 32th"]
+[Site "Cottbus"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Knaak, Rainer"]
+[Black "Schoene, Ralf"]
+[Result "1-0"]
+[ECO "E54"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Gligoric system with 7...dc"]
+[HashCode "3e679651"]
+[Epoch "Rook"]
+[WhiteID "4611250"]
+[WhiteCountry "GER"]
+[BlackID "4611535"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 d5 5. Nf3 O-O 6. Bd3 c5 7. O-O dxc4 8. Bxc4
+Bd7 9. a3 Bxc3 10. bxc3 Bc6 11. Re1 Qa5 12. Bb2 Nbd7 13. Bd3 Be4 14. Bf1 Nb6
+15. a4 Rfd8 16. Nd2 cxd4 17. exd4 Bc6 18. Re5 Rd5 19. Nb3 Rxe5 20. Nxa5 Rxa5
+21. c4 Rxa4 22. d5 Rxa1 23. Qxa1 exd5 24. Bxf6 gxf6 25. Qxf6 dxc4 26. h4 Re8
+27. f3 Re6 28. Qg5+ Kf8 29. Qa5 Bd5 30. Qxa7 Ke7 31. Qa3+ Kd7 32. Qc3 h6 33. g3
+Rc6 34. Kf2 Be6 35. h5 Nd5 36. Qd4 b5 37. g4 Rc7 38. Qh8 Ke7 39. Qxh6 c3 40.
+Bxb5 c2 41. Qc1 Nb4 42. h6 Na2 43. Qa3+ Kf6 44. h7 Rc8 45. Qb2+ Ke7 46. Ba6 1-0

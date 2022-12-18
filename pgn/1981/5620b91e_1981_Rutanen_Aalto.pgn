@@ -1,0 +1,20 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Rutanen, Erkki"]
+[Black "Aalto, Toivo"]
+[Result "0-1"]
+[ECO "C33"]
+[Opening "KGA"]
+[Variation "Keres (Mason-Steinitz) gambit"]
+[HashCode "5620b91e"]
+[Epoch "Rook"]
+
+1. e4 e5 2. f4 exf4 3. Nc3 Qh4+ 4. Ke2 d5 5. Nxd5 Bg4+ 6. Nf3 Nc6 7. d4
+O-O-O 8. Bxf4 f5 9. Bxc7 fxe4 10. Bxd8 exf3+ 11. gxf3 Qxd8 12. c4 Be6 13.
+Qd3 Nf6 14. Rc1 Nxd5 15. cxd5 Qxd5 16. Qe4 Qxa2 17. Kf2 Kb8 18. Be2 Bd6 19.
+Rhd1 Bd7 20. Bc4 Qa5 21. d5 Ne5 22. Be2 Qd8 23. b4 Qf6 24. f4 Ng6 25. Bf3
+Nxf4 26. Kg1 Nh3+ 27. Kg2 Qg5+ 28. Kf1 Bb5+ 29. Ke1 Bxb4+ 30. Rc3 Bxc3+ 31.
+Rd2 Qxd2# 0-1
+

@@ -1,0 +1,22 @@
+[Event "corr WER/K"]
+[Site "corr WER/K"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Boey, Josef"]
+[Black "Nun, Jiri"]
+[Result "1-0"]
+[ECO "C72"]
+[Opening "Ruy Lopez"]
+[Variation "modern Steinitz defence, 5.O-O"]
+[HashCode "b0396e30"]
+[Epoch "Rook"]
+[WhiteID "200093"]
+[BlackID "300179"]
+[WhiteCountry "BEL"]
+[BlackCountry "CZE"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. O-O Bg4 6. h3 Bd7 7. c3 Nge7 8. d4
+Ng6 9. Nbd2 Be7 10. Re1 O-O 11. a3 Qe8 12. Bc2 Qc8 13. Nf1 Nd8 14. Ne3 Ne6 15.
+Nf5 Bf6 16. g3 exd4 17. cxd4 d5 18. e5 Bd8 19. Ne3 c6 20. h4 Ne7 21. Qd3 g6 22.
+Ng4 Nf5 23. Bg5 Nxg5 24. hxg5 Ng7 25. Nf6+ Kh8 26. Qe3 Bf5 27. Bxf5 Qxf5 28. g4
+Qe6 29. Qf4 1-0

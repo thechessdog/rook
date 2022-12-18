@@ -1,0 +1,16 @@
+[Event "FRG Tch"]
+[Site "FRG Tch"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Alber"]
+[Black "Mueller, M."]
+[Result "1-0"]
+[ECO "A40"]
+[Opening "Queen's pawn"]
+[Variation "Charlick (Englund) gambit"]
+[HashCode "3684d959"]
+[Epoch "Rook"]
+
+1. d4 e5 2. dxe5 Nc6 3. Nf3 Qe7 4. Nc3 Nxe5 5. Nd5 Nxf3+ 6. gxf3 Qc5 7. e4
+Nf6 8. b4 Qc6 9. b5 Qc5 10. Be3 1-0
+

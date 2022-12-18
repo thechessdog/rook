@@ -1,0 +1,16 @@
+[Event "corr FRG/C"]
+[Site "corr FRG/C"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Selke"]
+[Black "Sauermann, Wilfried"]
+[Result "1-0"]
+[ECO "A03"]
+[Opening "Bird's opening"]
+[HashCode "0f70194b"]
+[Epoch "Rook"]
+
+1. f4 d5 2. Nf3 Nf6 3. e3 g6 4. b3 Bg7 5. Bb2 O-O 6. c4 c5 7. cxd5 Nxd5 8. Bxg7
+Kxg7 9. Nc3 Bg4 10. Ne4 Qa5 11. Kf2 Nd7 12. Be2 Rfd8 13. Qc2 Bxf3 14. gxf3 N7f6
+15. h4 Nb4 16. Qc4 Nxe4+ 17. fxe4 Na6 18. h5 Qb4 19. hxg6 hxg6 20. Rh7+ Kxh7
+21. Qxf7+ 1-0

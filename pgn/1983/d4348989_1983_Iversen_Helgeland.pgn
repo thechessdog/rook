@@ -1,0 +1,21 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Iversen"]
+[Black "Helgeland"]
+[Result "1/2-1/2"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Andreaschek gambit"]
+[HashCode "d4348989"]
+[Epoch "Rook"]
+
+1. e4 c5 2. d4 cxd4 3. Nf3 e5 4. c3 dxc3 5. Nxc3 Nc6 6. Bc4 Bb4 7. O-O Nf6
+8. Qe2 d6 9. Nd5 Bc5 10. Bg5 Bg4 11. Bb5 a6 12. Bxc6+ bxc6 13. Ne3 Be6 14.
+Rfd1 h6 15. Bh4 Bxe3 16. Qxe3 Qc7 17. Rac1 g5 18. Bg3 Ke7 19. Qa3 Nxe4 20.
+Nxe5 c5 21. Nc4 Nxg3 22. Qxg3 Bxc4 23. Rxc4 Rab8 24. Re4+ Kd7 25. Qg4+ Kc6
+26. Ra4 a5 27. Qf3+ Kb6 28. b4 axb4 29. a3 Kb5 30. Qb3 Ra8 31. Rxb4+ cxb4
+32. Qxb4+ Kc6 33. Rc1+ Kd7 34. Rxc7+ Kxc7 35. Qc4+ Kb6 36. Qb4+ Kc6 37.
+Qc4+ Kb6 1/2-1/2
+

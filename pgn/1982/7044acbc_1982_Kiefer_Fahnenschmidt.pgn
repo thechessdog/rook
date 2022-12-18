@@ -1,0 +1,23 @@
+[Event "Bundesliga 8182"]
+[Site "Duitsland tt"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Kiefer, Gerhard"]
+[Black "Fahnenschmidt, Gerhard"]
+[Result "0-1"]
+[ECO "B82"]
+[Opening "Sicilian"]
+[Variation "Scheveningen, 6.f4"]
+[HashCode "7044acbc"]
+[Epoch "Rook"]
+[WhiteID "4606965"]
+[WhiteCountry "GER"]
+[BlackID "4600568"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. f4 a6 7. Bd3 b5 8. O-O
+Bb7 9. a3 Be7 10. Nf3 Nbd7 11. Qe1 Nc5 12. e5 Nxd3 13. cxd3 Nd5 14. Ne4 O-O 15.
+Qg3 Kh8 16. Qh3 Rc8 17. f5 exf5 18. Nfg5 Bxg5 19. Nxg5 h6 20. Rxf5 Kg8 21. Ne4
+dxe5 22. Qg3 Nf4 23. Bxf4 exf4 24. Rxf4 Rc2 25. Rg4 Qd4+ 26. Nf2 Qxb2 27. Rd1
+Bc8 28. Rh4 Rc1 29. h3 Rxd1+ 30. Nxd1 Qxa3 31. Kh2 Rd8 32. Re4 Bf5 33. Re5 Qxd3
+34. Ne3 Be6 0-1

@@ -1,0 +1,19 @@
+[Event "Chesterton"]
+[Site "Chesterton"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Colias, Billy"]
+[Black "Matlin, H."]
+[Result "1-0"]
+[ECO "B94"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.Bg5"]
+[HashCode "5fc76ff2"]
+[Epoch "Rook"]
+[WhiteCountry "USA"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 Bg4 7. f3 Bh5 8. Bc4
+Qa5 9. Bxf6 gxf6 10. Qd2 Nd7 11. O-O-O Rc8 12. Bb3 e6 13. g4 Bg6 14. f4 h5 15.
+Kb1 hxg4 16. f5 Bh6 17. Qg2 exf5 18. exf5 Bxf5 19. Nxf5 Qxf5 20. Ne4 Bf4 21.
+Rhf1 Rc6 22. Nxd6+ Rxd6 23. Rxd6 Qe5 24. Rd5 Qe3 25. Rxd7 Kxd7 26. Qxb7+ Kd6
+27. Rd1+ Ke5 28. Qd5# 1-0

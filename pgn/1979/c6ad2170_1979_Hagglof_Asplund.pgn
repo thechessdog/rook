@@ -1,0 +1,23 @@
+[Event "corr SWE/K"]
+[Site "corr SWE/K"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Hagglof, Karl"]
+[Black "Asplund, Lennart"]
+[Result "0-1"]
+[ECO "E77"]
+[Opening "King's Indian"]
+[Variation "Four pawns attack"]
+[HashCode "c6ad2170"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f4 O-O 6. Nf3 c5 7. d5 e6 8. Be2
+exd5 9. exd5 Re8 10. O-O Bf5 11. Bd3 Qd7 12. h3 Na6 13. a3 Nc7 14. g4 Bxd3
+15. Qxd3 b5 16. cxb5 Reb8 17. a4 a6 18. bxa6 Nxa6 19. Nd2 Rb4 20. Qf3 c4
+21. b3 cxb3 22. Ba3 Qb7 23. Bxb4 Qxb4 24. Rad1 Re8 25. Kg2 Nd7 26. Nb5 b2
+27. Qd3 Nb6 28. Nxd6 Qxd6 29. Qxa6 Qxd5+ 30. Nf3 Qa2 31. Kg3 Nxa4 32. Nd2
+h6 33. Nb1 Qb3+ 34. Rd3 Qc2 35. Qb5 Re2 36. Rd8+ Kh7 37. Qd3 Nc3 38. Nxc3
+Bxc3 39. Qxc2 Rxc2 40. Rdd1 Bd2 41. Rb1 Bc1 42. Rf2 Rxf2 43. Kxf2 Kg7 44.
+Kf3 Kf6 45. Kg3 Ke6 46. Kf3 Kd5 47. h4 Kd4 48. h5 gxh5 49. g5 hxg5 50. fxg5
+Ke5 0-1
+

@@ -1,0 +1,20 @@
+[Event "corr DDR-H"]
+[Site "corr DDR-H"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Linse, E."]
+[Black "Beier, D."]
+[Result "0-1"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack"]
+[HashCode "a9baa3b0"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 e6 4. Nf3 Be7 5. e3 O-O 6. Bd3 c5 7. O-O Nc6 8.
+Ne5 cxd4 9. Nxc6 bxc6 10. exd4 Qc7 11. Ne2 Ng4 12. Bf4 Bd6 13. Bxd6 Qxd6
+14. Ng3 f5 15. h3 Nf6 16. c3 c5 17. dxc5 Qxc5 18. Ne2 e5 19. Nc1 e4 20. Bc2
+f4 21. Nb3 Qb6 22. Qd4 Qd6 23. Nd2 Bf5 24. f3 Rad8 25. Qxa7 Nh5 26. fxe4
+Bxh3 27. exd5 Bxg2 28. Kxg2 f3+ 29. Rxf3 Rxf3 30. Kxf3 Qf4+ 31. Ke2 Re8+
+32. Kd3 Qf5+ 33. Kc4 Qxc2 34. Nb3 Qxb2 35. Rg1 Qh2 36. Kb5 Qd6 37. c4 Rb8+
+38. Qxb8+ Qxb8+ 39. Kc6 Qa8+ 0-1
+

@@ -1,0 +1,21 @@
+[Event "Novi Sad"]
+[Site "Novi Sad"]
+[Date "1981.01.01"]
+[Round "6"]
+[White "Raicevic, Vladimir"]
+[Black "Petran, Pal"]
+[Result "0-1"]
+[ECO "A30"]
+[Opening "English"]
+[Variation "symmetrical, hedgehog system"]
+[HashCode "fe9ee095"]
+[Epoch "Rook"]
+[WhiteID "900605"]
+[WhiteCountry "SRB"]
+[BlackID "700304"]
+[BlackCountry "HUN"]
+
+1. c4 Nf6 2. Nf3 e6 3. Nc3 c5 4. g3 b6 5. Bg2 Bb7 6. O-O Be7 7. d4 cxd4 8. Qxd4
+O-O 9. b3 d6 10. Ba3 Na6 11. Rad1 Nc5 12. Nd2 e5 13. Qh4 Bxg2 14. Kxg2 Nd5 15.
+Nxd5 Bxh4 16. gxh4 Qxh4 17. Bxc5 dxc5 18. Nf3 Qe4 19. Rfe1 Qg4+ 20. Kh1 e4 21.
+Rg1 Qxg1+ 22. Kxg1 exf3 23. exf3 0-1

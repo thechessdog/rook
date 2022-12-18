@@ -1,0 +1,21 @@
+[Event "Eeklo"]
+[Site "Eeklo"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Rehn, Ralf"]
+[Black "Feistenauer, Fred"]
+[Result "1-0"]
+[ECO "B87"]
+[Opening "Sicilian"]
+[Variation "Sozin with ...a6 and ...b5"]
+[HashCode "bbb9ee64"]
+[Epoch "Rook"]
+[WhiteID "502804"]
+[BlackID "1600508"]
+[WhiteCountry "FIN"]
+[BlackCountry "AUT"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 b5 8. Qe2
+Nbd7 9. Bg5 Nc5 10. Rd1 Qb6 11. O-O Bb7 12. Bxf6 gxf6 13. Qh5 Bc8 14. Rfe1 Nxb3
+15. Nd5 Qb7 16. Nxf6+ Ke7 17. Nd5+ exd5 18. exd5+ Kd8 19. cxb3 Qd7 20. Nc6+ Kc7
+21. Rc1 Kb7 22. Qh4 Rg8 23. Na5+ Kb8 24. Qd4 1-0

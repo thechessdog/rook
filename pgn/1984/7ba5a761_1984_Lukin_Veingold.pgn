@@ -1,0 +1,23 @@
+[Event "Sverdlovsk"]
+[Site "Sverdlovsk"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Lukin, Andrei M"]
+[Black "Veingold, Aleksandr"]
+[Result "1-0"]
+[ECO "B89"]
+[Opening "Sicilian"]
+[Variation "Sozin, 7.Be3"]
+[HashCode "7ba5a761"]
+[Epoch "Rook"]
+[WhiteID "4101251"]
+[WhiteCountry "RUS"]
+[BlackID "4500032"]
+[BlackCountry "EST"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bc4 e6 7. Be3 a6 8. Qe2
+Qc7 9. Bb3 Na5 10. g4 b5 11. g5 b4 12. gxf6 bxc3 13. Ba4+ Bd7 14. fxg7 Bxg7 15.
+Bxd7+ Qxd7 16. b3 h5 17. Rg1 Bf6 18. Qf3 Be5 19. Rd1 Nc6 20. Nxc6 Qxc6 21. Bf4
+Bxf4 22. Qxf4 O-O-O 23. Rg3 e5 24. Qf5+ Kb8 25. Rdd3 h4 26. Rge3 Qc5 27. Qxf7
+Rhg8 28. Rxc3 Qa5 29. Ke2 Rc8 30. Qd5 Qb6 31. Red3 Rxc3 32. Rxc3 Rf8 33. f3 Qd8
+34. Rc6 Qf6 35. Rb6+ 1-0

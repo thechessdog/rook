@@ -1,0 +1,21 @@
+[Event "Lloyds Bank op"]
+[Site "Londen open"]
+[Date "1978.08.01"]
+[Round "1"]
+[White "Tatai, Stefano"]
+[Black "Povah, Nigel E"]
+[Result "1/2-1/2"]
+[ECO "A77"]
+[Opening "Benoni"]
+[Variation "classical, 9...Re8, 10.Nd2"]
+[HashCode "40006d22"]
+[Epoch "Rook"]
+[BlackID "400467"]
+[BlackCountry "ENG"]
+[WhiteCountry "ITA"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. Nd2 Bg7 8. e4
+O-O 9. Be2 Re8 10. O-O Nbd7 11. a4 g5 12. Qc2 Ne5 13. Ra3 g4 14. b3 Nh5 15. Nc4
+Qf6 16. Nb5 Nxc4 17. bxc4 Re7 18. h3 a6 19. Bxg4 axb5 20. Bxh5 Rxa4 21. Rxa4
+bxa4 22. Qxa4 Rxe4 23. Qa8 Qd8 24. Bg4 Re8 25. Bf4 Bxg4 26. Qxd8 Rxd8 27. hxg4
+Bf8 28. Rb1 Ra8 29. Rxb7 Ra4 30. Rd7 1/2-1/2

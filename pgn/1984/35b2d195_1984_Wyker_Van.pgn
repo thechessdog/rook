@@ -1,0 +1,19 @@
+[Event "corr NBC"]
+[Site "corr NBC"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Wyker"]
+[Black "Van der Hoven"]
+[Result "1/2-1/2"]
+[ECO "C43"]
+[Opening "Petrov"]
+[Variation "modern attack, Symmetrical variation"]
+[HashCode "35b2d195"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nf6 3. d4 Nxe4 4. Bd3 d5 5. Nxe5 Be7 6. O-O O-O 7. c4 Nf6
+8. Nc3 Nbd7 9. Qb3 c6 10. Re1 dxc4 11. Bxc4 Nxe5 12. dxe5 Ne8 13. Ne4 Qa5
+14. Bd2 Qxe5 15. Ng5 Qf6 16. Bxf7+ Rxf7 17. Nxf7 Kf8 18. Bg5 Qxf7 19. Bxe7+
+Kg8 20. Bc5 Nf6 21. Qxf7+ Kxf7 22. Re7+ Kg6 23. Bd4 b6 24. Bxf6 Kxf6 25.
+Rae1 c5 26. h3 c4 27. Re8 Bb7 1/2-1/2
+

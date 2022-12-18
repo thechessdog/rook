@@ -1,0 +1,18 @@
+[Event "Wijk aan Zee"]
+[Site "Wijk aan Zee"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Browne, Walter S"]
+[Black "Adorjan, Andras"]
+[Result "1-0"]
+[ECO "E62"]
+[Opening "King's Indian"]
+[Variation "fianchetto, Uhlmann (Szabo) variation"]
+[HashCode "5e14bdc3"]
+[Epoch "Rook"]
+[BlackID "700096"]
+[BlackCountry "HUN"]
+[WhiteCountry "USA"]
+
+1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 O-O 5. Nf3 d6 6. O-O e5 7. Nc3 Nc6 8. d5
+Na5 9. Nd2 c5 10. b3 a6 11. Bb2 Rb8 12. Qc2 b5 1-0

@@ -1,0 +1,18 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Westergaard Jensen"]
+[Black "Hansen, Victor"]
+[Result "0-1"]
+[ECO "B23"]
+[Opening "Sicilian"]
+[Variation "closed, 2...Nc6"]
+[HashCode "b56afff1"]
+[Epoch "Rook"]
+[BlackID "1502638"]
+[BlackCountry "NOR"]
+
+1. e4 c5 2. Nc3 Nc6 3. Nf3 e5 4. Bc4 Be7 5. d3 Nf6 6. a4 O-O 7. h3 d6 8. Bd2
+Be6 9. Nd5 Nd4 10. g4 Nxd5 11. Nxd4 cxd4 12. exd5 Bd7 13. b4 f5 14. Rg1 fxg4
+15. hxg4 Bh4 16. Rg2 Rxf2 17. Rxf2 Qf6 18. Qe2 Bxg4 19. Qf1 Rf8 0-1

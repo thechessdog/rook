@@ -1,0 +1,26 @@
+[Event "Philadelphia"]
+[Site "Philadelphia"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Glueck"]
+[Black "Dlugy, Maxim"]
+[Result "0-1"]
+[ECO "B10"]
+[Opening "Caro-Kann"]
+[Variation "closed (Breyer) variation"]
+[HashCode "f956181e"]
+[Epoch "Rook"]
+[BlackID "2000075"]
+[BlackCountry "USA"]
+
+1. e4 c6 2. d3 d5 3. Nd2 g6 4. Ngf3 Bg7 5. g3 e5 6. Bg2 Ne7 7. O-O O-O 8. b4 a5
+9. bxa5 Rxa5 10. Bb2 Qc7 11. Qe2 dxe4 12. dxe4 b6 13. Qe3 Ra4 14. Rfd1 Nd7 15.
+Ba3 c5 16. Qb3 Qa7 17. Bb2 Nc6 18. c3 Nf6 19. Bf1 Be6 20. Bc4 Rxc4 21. Nxc4 Qa6
+22. Qxb6 Bxc4 23. Qxa6 Bxa6 24. Rd6 Bb7 25. Nd2 Ra8 26. f3 Kf8 27. Nb3 Ke7 28.
+Rdd1 Nd7 29. Bc1 Ke8 30. Nd2 Ba6 31. Kf2 Bf6 32. Nf1 Bc4 33. Ne3 Rxa2+ 34. Bd2
+Rxa1 35. Rxa1 Be6 36. Ra8+ Ncb8 37. Nc2 Kd8 38. Ne3 Kc7 39. f4 exf4 40. gxf4
+Be7 41. e5 Kb7 42. Ra1 Nb6 43. Kg3 Nc6 44. Rb1 Kc7 45. Ra1 c4 46. Ng2 Bd5 47.
+Ne1 Bc5 48. Nf3 Bxf3 49. Kxf3 Kb7 50. h4 h5 51. Ra2 Nd5 52. Ra4 Nb6 53. Ra2 Nd5
+54. Ra4 Be7 55. Be1 Nb6 56. Ra2 Nd7 57. Rg2 Bc5 58. Ke2 Ne7 59. Kf3 Bb6 60. Rb2
+Nc5 61. Bf2 Nb3 62. Bxb6 Kxb6 63. Rc2 Nd5 64. Rg2 Nxc3 65. Rg3 Kc5 66. Rg5 Nd4+
+67. Ke3 Nd5+ 68. Kf2 c3 69. Rg1 c2 0-1

@@ -1,0 +1,23 @@
+[Event "Bayamo"]
+[Site "Bayamo"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Garcia Martinez, Silvino"]
+[Black "Alzate, Dario"]
+[Result "1-0"]
+[ECO "A27"]
+[Opening "English"]
+[Variation "three knights system"]
+[HashCode "75dd49ce"]
+[Epoch "Rook"]
+[WhiteID "3500179"]
+[WhiteCountry "CUB"]
+[BlackID "4400046"]
+[BlackCountry "COL"]
+
+1. c4 e5 2. Nc3 Nc6 3. Nf3 g6 4. e3 d6 5. d4 Bg7 6. Be2 Nge7 7. d5 Nb8 8. e4
+O-O 9. h4 Bg4 10. Nh2 Bxe2 11. Qxe2 c6 12. h5 cxd5 13. cxd5 Nd7 14. hxg6 fxg6
+15. Nf3 Bf6 16. Ng5 Bxg5 17. Bxg5 Rc8 18. O-O-O Rf7 19. Kb1 a6 20. Rc1 b5 21.
+Rc2 Nb6 22. Rhc1 Qd7 23. b3 Rcf8 24. Nd1 Rc8 25. Bh6 Rxc2 26. Qxc2 Qg4 27. f3
+Qh4 28. Qd2 Nd7 29. Bg5 Qg3 30. Rc7 h6 31. Bxh6 Nf6 32. Bg5 Kg7 33. Nf2 Neg8
+34. Rxf7+ Kxf7 1-0

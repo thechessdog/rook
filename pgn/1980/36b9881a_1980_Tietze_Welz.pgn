@@ -1,0 +1,20 @@
+[Event "corr ch11-DDR"]
+[Site "corr ch11-DDR"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Tietze, U."]
+[Black "Welz, P."]
+[Result "0-1"]
+[ECO "A85"]
+[Opening "Dutch with c4 & Nc3"]
+[HashCode "36b9881a"]
+[Epoch "Rook"]
+
+1. d4 f5 2. c4 Nf6 3. Nc3 g6 4. Bg5 Bg7 5. Qd2 Nc6 6. Rd1 h6 7. Bxf6 Bxf6
+8. Nf3 d6 9. e4 e5 10. dxe5 dxe5 11. Qxd8+ Bxd8 12. Bd3 Kf7 13. Nd5 a5 14.
+a3 Re8 15. O-O g5 16. Bc2 g4 17. Ne1 f4 18. Ba4 Re6 19. f3 Nd4 20. fxg4 c6
+21. Nd3 cxd5 22. exd5 Rea6 23. Nxe5+ Kf6 24. Rde1 f3 25. gxf3 b5 26. cxb5
+Rd6 27. Nc4 Rxd5 28. Rd1 Be6 29. Kg2 Rb8 30. Ne3 Rd7 31. f4 Bb6 32. f5 Bf7
+33. h4 Re8 34. Rd3 Re4 35. Bd1 Rde7 36. g5+ hxg5 37. Ng4+ Rxg4+ 38. Bxg4
+gxh4 39. Rc1 Kg5 40. Kh3 Re4 41. Bf3 Nxf3 0-1
+

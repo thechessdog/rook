@@ -1,0 +1,17 @@
+[Event "Club Argentino"]
+[Site "Buenos Aires"]
+[Date "1977.01.01"]
+[Round "7"]
+[White "Seidler, A."]
+[Black "Schweber, Samuel"]
+[Result "0-1"]
+[ECO "C15"]
+[Opening "French"]
+[Variation "Winawer (Nimzovich) variation"]
+[HashCode "44598e06"]
+[Epoch "Rook"]
+[BlackCountry "ARG"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. a3 Bxc3+ 5. bxc3 Ne7 6. Qg4 O-O 7. e5 c5 8. Bg5
+Qa5 9. Bxe7 Qxc3+ 10. Ke2 Nc6 11. Rc1 Nxe7 12. Nf3 Nc6 13. h4 f6 14. exf6 Rxf6
+15. dxc5 e5 16. Qg3 Rxf3 0-1

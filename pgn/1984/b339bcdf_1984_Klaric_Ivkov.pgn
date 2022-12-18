@@ -1,0 +1,19 @@
+[Event "Nouro"]
+[Site "Nouro"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Klaric, Zlatko"]
+[Black "Ivkov, Borislav"]
+[Result "1/2-1/2"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "classical variation (5.Bf4)"]
+[HashCode "b339bcdf"]
+[Epoch "Rook"]
+[BlackID "900141"]
+[BlackCountry "SRB"]
+[WhiteID "14500248"]
+[WhiteCountry "CRO"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 Be7 5. Bf4 O-O 6. e3 c5 7. cxd5 exd5 8. Be2
+Nc6 9. O-O Ne4 10. Nxe4 dxe4 11. Ne5 Nxe5 12. Bxe5 Bf5 1/2-1/2

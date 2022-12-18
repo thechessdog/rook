@@ -1,0 +1,19 @@
+[Event "corr Netherlands"]
+[Site "corr Netherlands"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Bor"]
+[Black "Nicolai"]
+[Result "0-1"]
+[ECO "B31"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (with ...g6, without ...d6)"]
+[HashCode "5874b0c8"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. Qe2 e5 6. c3 Nge7 7. d3 O-O 8.
+Ne1 a6 9. Bxc6 Nxc6 10. f4 exf4 11. Bxf4 d5 12. Nd2 Be6 13. Qf2 g5 14. Bg3
+b6 15. Kh1 dxe4 16. dxe4 Ne5 17. Ndf3 Nxf3 18. Nxf3 Qe7 19. Qd2 Rfd8 20.
+Qxg5 Qxg5 21. Nxg5 Bc4 22. Rfd1 Rxd1+ 23. Rxd1 Bxa2 24. Ra1 Bb3 25. Rxa6
+Rxa6 0-1
+

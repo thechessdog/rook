@@ -1,0 +1,24 @@
+[Event "Novi Sad"]
+[Site "Novi Sad"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Planinc, Albin"]
+[Black "Spiridonov, Nikola"]
+[Result "0-1"]
+[ECO "B10"]
+[Opening "Caro-Kann"]
+[Variation "closed (Breyer) variation"]
+[HashCode "00db5e75"]
+[Epoch "Rook"]
+[BlackID "2900238"]
+[WhiteCountry "SVN"]
+[BlackCountry "FID"]
+
+1. e4 c6 2. d3 d5 3. Nd2 g6 4. Ngf3 Bg7 5. g3 e5 6. Bg2 Ne7 7. O-O O-O 8. Re1
+d4 9. c3 c5 10. cxd4 cxd4 11. b4 f6 12. Qb3+ Rf7 13. a4 Nd7 14. Ba3 Nf8 15. Nc4
+Be6 16. Nfd2 g5 17. Rec1 Nfg6 18. Qd1 Bf8 19. Nb3 b6 20. b5 Nc8 21. Bxf8 Nxf8
+22. a5 Rb8 23. axb6 axb6 24. Qd2 Rc7 25. Qb4 Qe7 26. Qxe7 Nxe7 27. Nbd2 Nd7 28.
+Ra3 Nc8 29. Rca1 Kf7 30. f4 gxf4 31. gxf4 Ke7 32. fxe5 fxe5 33. Nf3 Bxc4 34.
+dxc4 Nd6 35. Nh4 Nc5 36. Rg3 Rf8 37. Rg7+ Rf7 38. Nf5+ Nxf5 39. Rxf7+ Kxf7 40.
+Rf1 Ke6 41. Rxf5 Rg7 42. Rf8 Kd6 43. Kf1 Ne6 44. Rb8 Kc5 45. Bh3 Nf4 46. Rc8+
+Kb4 47. Bf5 d3 48. Rc6 d2 0-1

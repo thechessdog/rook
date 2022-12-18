@@ -1,0 +1,18 @@
+[Event "Cleveland,OH"]
+[Site "Cleveland,OH"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Collins"]
+[Black "Kirkham"]
+[Result "1-0"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Andreaschek gambit"]
+[HashCode "ae4177e6"]
+[Epoch "Rook"]
+
+1. e4 c5 2. d4 cxd4 3. Nf3 e5 4. c3 dxc3 5. Nxc3 Nc6 6. Bc4 Bb4 7. Ng5 Nh6
+8. O-O O-O 9. Nd5 Be7 10. Qh5 Na5 11. Be2 f6 12. Nxh7 Kxh7 13. Bxh6 gxh6
+14. Qf5+ Kh8 15. Qg6 Qe8 16. Qxh6+ Kg8 17. Bh5 Rf7 18. Qg6+ Kh8 19. Qxf7
+Qxf7 20. Bxf7 1-0
+

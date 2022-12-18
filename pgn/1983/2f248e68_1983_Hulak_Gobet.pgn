@@ -1,0 +1,23 @@
+[Event "Reggio Emilia8384"]
+[Site "Reggio Emilia"]
+[Date "1983.01.01"]
+[Round "5"]
+[White "Hulak, Krunoslav"]
+[Black "Gobet, Fernand"]
+[Result "1-0"]
+[ECO "A63"]
+[Opening "Benoni"]
+[Variation "fianchetto, 9...Nbd7"]
+[HashCode "2f248e68"]
+[Epoch "Rook"]
+[BlackID "1300083"]
+[BlackCountry "SUI"]
+[WhiteCountry "HRV"]
+
+1. d4 Nf6 2. c4 e6 3. g3 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. Bg2 Bg7 8. Nf3
+O-O 9. O-O Nbd7 10. h3 a6 11. a4 Re8 12. Nd2 Rb8 13. Nc4 Nb6 14. Na3 Bd7 15. e4
+Nc8 16. Qd3 Qc7 17. Be3 c4 18. Nxc4 b5 19. Nd2 bxa4 20. Qxa6 Ng4 21. hxg4 Bxc3
+22. Rfc1 Qa5 23. Qxa5 Bxa5 24. Nc4 Bb4 25. g5 Bb5 26. f3 Re7 27. Bh3 Reb7 28.
+Bxc8 Rxc8 29. Nxd6 Rxc1+ 30. Rxc1 Bxd6 31. Rc8+ Kg7 32. Bd4+ f6 33. gxf6+ Kh6
+34. e5 Bb4 35. e6 Ba6 36. Rd8 Rc7 37. Be3+ g5 38. Rg8 Bc5 39. Bxc5 Rxc5 40. f7
+Rc1+ 41. Kf2 Rc2+ 42. Ke3 Rc3+ 1-0

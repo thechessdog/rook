@@ -1,0 +1,19 @@
+[Event "FIDE (31) 1979-1981"]
+[Site "Riga izt"]
+[Date "1979.09.01"]
+[Round "9"]
+[White "Ribli, Zoltan"]
+[Black "Adorjan, Andras"]
+[Result "1/2-1/2"]
+[ECO "D85"]
+[Opening "Gruenfeld"]
+[Variation "exchange variation"]
+[HashCode "5ff6943c"]
+[Epoch "Rook"]
+[WhiteID "700010"]
+[WhiteCountry "HUN"]
+[BlackID "700096"]
+[BlackCountry "HUN"]
+
+1. c4 g6 2. d4 Nf6 3. Nc3 d5 4. cxd5 Nxd5 5. Nf3 Bg7 6. g3 c5 7. Bg2 Nc6 8. O-O
+cxd4 9. Nxd4 Nxc3 10. bxc3 Nxd4 1/2-1/2

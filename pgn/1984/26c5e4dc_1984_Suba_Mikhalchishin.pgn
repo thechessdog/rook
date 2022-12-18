@@ -1,0 +1,20 @@
+[Event "Dortmund"]
+[Site "Dortmund"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Suba, Mihai"]
+[Black "Mikhalchishin, Adrian"]
+[Result "1/2-1/2"]
+[ECO "E18"]
+[Opening "Queen's Indian"]
+[Variation "old main line, 7.Nc3"]
+[HashCode "26c5e4dc"]
+[Epoch "Rook"]
+[WhiteID "1203363"]
+[BlackID "14602385"]
+[WhiteCountry "ESP"]
+[BlackCountry "SLO"]
+
+1. d4 Nf6 2. Nf3 b6 3. g3 Bb7 4. Bg2 e6 5. O-O Be7 6. c4 O-O 7. Nc3 Ne4 8. Nxe4
+Bxe4 9. Ne1 Bxg2 10. Nxg2 d5 11. Qa4 Qd7 12. Qxd7 Nxd7 13. cxd5 exd5 14. Bf4 c6
+1/2-1/2

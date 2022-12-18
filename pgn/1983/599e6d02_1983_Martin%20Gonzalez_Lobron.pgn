@@ -1,0 +1,27 @@
+[Event "Rome"]
+[Site "Rome"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Martin, Andrew D"]
+[Black "Lobron, Eric"]
+[Result "0-1"]
+[ECO "B19"]
+[Opening "Caro-Kann"]
+[Variation "classical, Spassky variation"]
+[HashCode "599e6d02"]
+[Epoch "Rook"]
+[BlackID "4600037"]
+[BlackCountry "GER"]
+[WhiteID "400300"]
+[WhiteCountry "ENG"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6 7. Nf3 Nd7 8. h5
+Bh7 9. Bd3 Bxd3 10. Qxd3 Ngf6 11. Bf4 e6 12. Ne5 a5 13. O-O-O Be7 14. Kb1 a4
+15. a3 O-O 16. Ne4 Nxe4 17. Qxe4 Nf6 18. Qe2 Qd5 19. g4 Qe4 20. Qd2 Nd5 21. Bg3
+Bg5 22. f3 Qxe5 23. dxe5 Bxd2 24. Rxd2 b5 25. Rc1 Rfb8 26. Rd3 c5 27. c4 bxc4
+28. Rxc4 Ra5 29. Bf2 Rab5 30. Rd2 Rb3 31. Bxc5 Rxf3 32. Rdc2 Kh7 33. Ka2 Ra8
+34. Rd2 g5 35. hxg6+ Kxg6 36. Rdd4 Rf2 37. Re4 Rg2 38. Kb1 Rb8 39. Bd4 Ra8 40.
+Bc5 Ra5 41. Bd6 Rb5 42. Rc2 Rg3 43. Ka2 Ne3 44. Rd2 Nxg4 45. Rxa4 h5 46. Rb4
+Ra5 47. Rdd4 Ra7 48. Rb8 h4 49. Rh8 h3 50. Rxh3 Rxh3 51. Rxg4+ Kf5 52. Rb4 Rd3
+53. a4 Ra6 54. Bc7 Rd7 55. Rc4 Ra8 56. Bd6 f6 57. Ka3 fxe5 58. Bb4 e4 59. a5 e3
+60. Ka4 e2 61. Bc3 Rd3 62. Be1 Rd1 63. Bc3 Ra1+ 0-1

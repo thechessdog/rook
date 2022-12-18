@@ -1,0 +1,21 @@
+[Event "corr ch-SF snr"]
+[Site "corr ch-SF snr"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Multala"]
+[Black "Niemi"]
+[Result "0-1"]
+[ECO "B33"]
+[Opening "Sicilian"]
+[Variation "Pelikan (Lasker/Sveshnikov) variation"]
+[HashCode "eb4ded53"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Nd5 Nxd5
+8. exd5 Ne7 9. c4 Ng6 10. Qa4 Bd7 11. Qb4 Qb8 12. Be3 b6 13. h4 h5 14. g3
+Be7 15. Be2 Nf8 16. a4 a5 17. Qb3 Bxb5 18. axb5 g6 19. O-O Nd7 20. Qc2 f5
+21. Bd2 Bf6 22. f3 O-O 23. Kg2 Nc5 24. Ra3 Qb7 25. Be3 Rac8 26. Qd2 Qe7 27.
+Bxc5 Rxc5 28. Qh6 Kf7 29. Qd2 Kg7 30. b4 axb4 31. Qxb4 f4 32. Qb1 Rc7 33.
+Qe4 Kh6 34. Bd3 Qg7 35. gxf4 Rcf7 36. Kh3 Bxh4 37. Rg1 g5 38. fxg5+ Bxg5
+39. Bc2 Rf4 40. Qe2 Rh4+ 0-1
+

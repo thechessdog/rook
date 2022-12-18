@@ -1,0 +1,19 @@
+[Event "Elekes mem-B"]
+[Site "Budapest"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Hardicsay, Peter"]
+[Black "Schneider, Attila"]
+[Result "1/2-1/2"]
+[ECO "B10"]
+[Opening "Caro-Kann"]
+[Variation "anti-anti-Caro-Kann defence"]
+[HashCode "915c936a"]
+[Epoch "Rook"]
+[WhiteID "700622"]
+[WhiteCountry "HUN"]
+[BlackCountry "HUN"]
+
+1. e4 c6 2. c4 d5 3. exd5 cxd5 4. cxd5 Nf6 5. Bb5+ Bd7 6. Bc4 g6 7. Nc3 Bg7 8.
+Nge2 O-O 9. O-O Na6 10. d3 Nc7 11. Bf4 Bf5 12. Bxc7 Qxc7 13. Ng3 Bg4 14. Qd2 a6
+15. a4 Rad8 1/2-1/2

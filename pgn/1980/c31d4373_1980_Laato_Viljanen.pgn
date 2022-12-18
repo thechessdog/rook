@@ -1,0 +1,21 @@
+[Event "corr ch-SF jr"]
+[Site "corr ch-SF jr"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Laato"]
+[Black "Viljanen"]
+[Result "1-0"]
+[ECO "E56"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line with 7...Nc6"]
+[HashCode "c31d4373"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 c5 7. O-O Nc6 8.
+a3 Ba5 9. cxd5 exd5 10. dxc5 Bxc3 11. bxc3 Bg4 12. a4 Qa5 13. Qc2 Bxf3 14.
+gxf3 Ne5 15. Be2 Rfc8 16. Ba3 Ned7 17. Rfb1 Qc7 18. c4 dxc4 19. Bxc4 Nxc5
+20. Rc1 b6 21. Bb2 Qe7 22. Qf5 Rc6 23. a5 Rd8 24. axb6 axb6 25. Kh1 Ne8 26.
+Rg1 g6 27. Rg4 Ng7 28. Qc2 Nce6 29. Qb3 h5 30. Rgg1 Qh4 31. Bxe6 Nxe6 32.
+Qb5 Rc5 33. Qxb6 Qxf2 34. Rxg6+ Kh7 35. Rf6 Rcd5 36. Rg1 Rf8 37. Bd4 h4 38.
+Qb1+ 1-0
+

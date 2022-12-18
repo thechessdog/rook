@@ -1,0 +1,18 @@
+[Event "Espergarde"]
+[Site "Espergarde"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Auchenberg, Per"]
+[Black "Moe, Mogens"]
+[Result "0-1"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "modern variation"]
+[HashCode "9e622a3b"]
+[Epoch "Rook"]
+[BlackID "1400550"]
+[BlackCountry "DEN"]
+[WhiteCountry "DNK"]
+
+1. b3 e5 2. Bb2 Nc6 3. e3 Nf6 4. Bb5 Bd6 5. Na3 a6 6. Be2 Be7 7. d3 d5 8. Nf3
+Bb4+ 9. c3 Bd6 10. c4 Qe7 11. cxd5 Bb4+ 12. Nd2 Nxd5 0-1

@@ -1,0 +1,16 @@
+[Event "corr EU/I"]
+[Site "corr EU/I"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Zimmer"]
+[Black "Pane"]
+[Result "1/2-1/2"]
+[ECO "A00"]
+[Opening "Polish (Sokolsky) opening"]
+[HashCode "03dbc707"]
+[Epoch "Rook"]
+
+1. b4 e5 2. Bb2 Bxb4 3. Bxe5 Nf6 4. e3 d5 5. Nf3 O-O 6. Be2 Re8 7. Bb2 Bf8
+8. O-O c5 9. d4 Nbd7 10. c4 Qb6 11. Qc2 Ne4 12. Rd1 dxc4 13. Bxc4 cxd4 14.
+Bxd4 Bc5 15. Bxc5 Ndxc5 16. Nc3 Nxc3 17. Qxc3 Be6 18. Bxe6 Nxe6 1/2-1/2
+

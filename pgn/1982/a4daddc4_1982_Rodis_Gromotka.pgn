@@ -1,0 +1,15 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Rodis"]
+[Black "Gromotka"]
+[Result "1-0"]
+[ECO "C25"]
+[Opening "Vienna game, Max Lange defence"]
+[HashCode "a4daddc4"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nc3 Nc6 3. Bc4 Bc5 4. Qg4 Qf6 5. Nd5 Bxf2+ 6. Kf1 Qh4 7. Qxg7
+Bxg1 8. g3 Qxe4 9. Nf6+ Nxf6 10. Qxf7+ Kd8 11. Qxf6+ Ke8 12. Bf7+ 1-0
+

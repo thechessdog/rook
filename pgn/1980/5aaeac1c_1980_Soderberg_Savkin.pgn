@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Soderborg, Berndt"]
+[Black "Savkin"]
+[Result "1-0"]
+[ECO "B96"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Polugayevsky, Simagin variation"]
+[HashCode "5aaeac1c"]
+[Epoch "Rook"]
+[WhiteID "1705539"]
+[WhiteCountry "SWE"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 b5 8. e5
+dxe5 9. fxe5 Qc7 10. Qe2 Nfd7 11. O-O-O Bb7 12. Qg4 Qb6 13. Bf4 Nc5 14. Bd3 b4
+15. Na4 Nxa4 16. Nxe6 Qxe6 17. Bf5 h5 18. Qh3 Bxg2 19. Qxg2 Qxf5 20. Rhf1 Nb6
+21. e6 Qxe6 22. Rfe1 N8d7 23. Rxe6+ fxe6 24. Qg6+ Ke7 25. Rd6 e5 26. Bg5+ 1-0

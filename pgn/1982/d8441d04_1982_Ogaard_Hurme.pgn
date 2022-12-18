@@ -1,0 +1,27 @@
+[Event "Jarvenpaa"]
+[Site "Jarvenpaa"]
+[Date "1982.01.01"]
+[Round "8"]
+[White "Ogaard, Leif"]
+[Black "Hurme, Harri"]
+[Result "1-0"]
+[ECO "D67"]
+[Opening "QGD"]
+[Variation "Orthodox defence, Bd3 line, Alekhine variation"]
+[HashCode "d8441d04"]
+[Epoch "Rook"]
+[WhiteID "1500074"]
+[WhiteCountry "NOR"]
+[BlackID "500321"]
+[BlackCountry "FIN"]
+
+1. c4 e6 2. Nc3 d5 3. d4 Nf6 4. Bg5 Be7 5. Nf3 O-O 6. Rc1 c6 7. e3 Nbd7 8. Bd3
+dxc4 9. Bxc4 Nd5 10. Bxe7 Qxe7 11. Ne4 N5f6 12. Ng3 Qb4+ 13. Qd2 Qxd2+ 14. Kxd2
+b6 15. e4 Rd8 16. e5 Ne8 17. Ke3 Bb7 18. Rhd1 c5 19. d5 Nc7 20. d6 Nd5+ 21.
+Bxd5 Bxd5 22. Rxd5 exd5 23. Rd1 d4+ 24. Ke4 a5 25. Nf5 a4 26. Kd5 a3 27. b3 Re8
+28. Ne7+ Kf8 29. Nc6 Re6 30. Ng5 Rg6 31. f4 h6 32. Ne4 Rxg2 33. f5 Rxh2 34. e6
+fxe6+ 35. fxe6 Rh5+ 36. Kc4 Ne5+ 37. Kb5 Nxc6 38. Rf1+ Ke8 39. Kxc6 Re5 40. d7+
+Ke7 41. Nd6 Rh8 42. Kc7 Rd5 43. Nc8+ Kxe6 44. Re1+ Kf6 45. Nd6 g5 46. Kc6 Rd8
+47. Kxd5 Rxd7 48. Re6+ Kg7 49. Kc6 Rd8 50. Nf5+ Kf7 51. Rxh6 g4 52. Nd6+ Kg7
+53. Rh4 Kf6 54. Rxg4 Ke5 55. Re4+ Kf6 56. Re2 Rg8 57. Kxb6 d3 58. Rd2 Ke5 59.
+Kxc5 Rg3 60. Nc4+ Ke4 61. Nxa3 Rg5+ 62. Kc4 1-0

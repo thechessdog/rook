@@ -1,0 +1,21 @@
+[Event "MOTCF,OH"]
+[Site "MOTCF,OH"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Vehre, John"]
+[Black "Sprague, Ross"]
+[Result "1/2-1/2"]
+[ECO "A75"]
+[Opening "Benoni"]
+[Variation "classical with ...a6 and 10...Bg4"]
+[HashCode "7f0a1e19"]
+[Epoch "Rook"]
+[BlackID "2036975"]
+[BlackCountry "USA"]
+[WhiteCountry "USA"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. Nf3 Bg7 8. Be2
+O-O 9. O-O a6 10. a4 Bg4 11. Nd2 Bxe2 12. Qxe2 Nbd7 13. Nc4 Nb6 14. Ne3 Re8 15.
+a5 Nc8 16. f3 Qc7 17. Ra3 Na7 18. Nc4 Nd7 19. Bf4 Nc8 20. Kh1 b5 21. axb6 Ndxb6
+22. Ne3 a5 23. Rfa1 Bxc3 24. Rxc3 Qe7 25. Qf2 a4 26. Qg3 h5 27. Nf5 Qf6 28. Bg5
+Qe5 29. Bf4 Qf6 30. Bg5 1/2-1/2

@@ -1,0 +1,21 @@
+[Event "Yugoslavia"]
+[Site "Yugoslavia"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Marjanovic, Slavoljub"]
+[Black "Popovic, Petar"]
+[Result "1-0"]
+[ECO "B67"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...a6 defence, 8...Bd7"]
+[HashCode "cb348bc7"]
+[Epoch "Rook"]
+[WhiteID "900354"]
+[WhiteCountry "SRB"]
+[BlackID "900109"]
+[BlackCountry "SRB"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 e6 7. Qd2 a6 8.
+O-O-O Bd7 9. f4 h6 10. Bh4 g5 11. fxg5 Ng4 12. Nf3 Be7 13. g6 Bxh4 14. gxf7+
+Kf8 15. Qxd6+ Be7 16. Qxd7 Nf2 17. Qxb7 Nxd1 18. Qxc6 Nxc3 19. Qxc3 Rh7 20. Bc4
+Rc8 21. Nd4 Bg5+ 22. Kb1 1-0

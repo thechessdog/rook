@@ -1,0 +1,23 @@
+[Event "BL2-N 8182"]
+[Site "BL2-N 8182"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Albrecht, Rainer"]
+[Black "Dreyer, Michael, Dr."]
+[Result "0-1"]
+[ECO "C41"]
+[Opening "Philidor"]
+[Variation "Improved Hanham variation"]
+[HashCode "fe26454b"]
+[Epoch "Rook"]
+[BlackID "4608127"]
+[BlackCountry "GER"]
+[WhiteID "4604296"]
+[WhiteCountry "GER"]
+
+1. e4 e5 2. Nf3 d6 3. d4 Nd7 4. Nc3 Ngf6 5. g3 Be7 6. Bg2 O-O 7. O-O c6 8. b3
+Re8 9. Bb2 Bf8 10. Qd2 b6 11. Rad1 Bb7 12. Rfe1 Qc7 13. h3 a6 14. Kh1 b5 15. a3
+Rad8 16. Nh4 c5 17. d5 g6 18. Rg1 Bg7 19. Rdf1 Rc8 20. Nd1 Nb6 21. f4 exf4 22.
+Rxf4 Nh5 23. Bxg7 Nxf4 24. gxf4 Kxg7 25. Bf3 f6 26. Qg2 Kh8 27. Ne3 Qe7 28. c4
+Rcd8 29. Qb2 Rg8 30. Ng4 Rg7 31. Nxf6 Rf8 32. e5 bxc4 33. Kh2 cxb3 34. Be4 dxe5
+35. fxe5 Nc4 36. Qc3 Qxe5+ 37. Qxe5 Nxe5 38. Rf1 Rgf7 0-1

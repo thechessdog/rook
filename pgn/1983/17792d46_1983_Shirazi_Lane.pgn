@@ -1,0 +1,18 @@
+[Event "Los Angeles"]
+[Site "Los Angeles"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Shirazi, Kamran"]
+[Black "Lane"]
+[Result "1-0"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "Cochrane gambit"]
+[HashCode "17792d46"]
+[Epoch "Rook"]
+[WhiteID "2000733"]
+[WhiteCountry "FRA"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nxf7 Kxf7 5. d4 Be6 6. Bd3 Be7 7. O-O g6 8.
+c4 Kg7 9. Nc3 Na6 10. a3 c6 11. h3 Nc7 12. d5 Bf7 13. Be3 h6 14. f4 c5 15. e5
+Ng8 16. Ne4 Bxd5 17. cxd5 Nxd5 18. Bd2 dxe5 19. fxe5 Qd7 20. Bc4 1-0

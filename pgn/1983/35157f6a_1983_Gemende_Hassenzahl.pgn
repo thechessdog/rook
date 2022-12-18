@@ -1,0 +1,17 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Gemende, G."]
+[Black "Hassenzahl, M."]
+[Result "0-1"]
+[ECO "E70"]
+[Opening "King's Indian"]
+[Variation "4.e4"]
+[HashCode "35157f6a"]
+[Epoch "Rook"]
+
+1. c4 Nf6 2. d4 g6 3. Nc3 Bg7 4. e4 O-O 5. e5 Ne8 6. f4 d6 7. Nf3 c5 8.
+dxc5 Nc6 9. cxd6 exd6 10. Be2 Bg4 11. O-O dxe5 12. fxe5 Bxf3 13. Bxf3 Nxe5
+14. Qb3 Qd4+ 15. Kh1 Nxf3 16. Rxf3 Nd6 17. Rf4 Rae8 0-1
+

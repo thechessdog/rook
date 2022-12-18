@@ -1,0 +1,25 @@
+[Event "corr ch11-DDR"]
+[Site "corr ch11-DDR"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Stabenow, J."]
+[Black "Richter, M."]
+[Result "0-1"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (without ...d6)"]
+[HashCode "2b1ea71f"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 Nf6 4. e5 Nd5 5. O-O Nc7 6. Bxc6 dxc6 7. h3 g6
+8. Qe2 Bf5 9. d3 Qd7 10. Be3 Nd5 11. Nh4 Nxe3 12. Qxe3 b6 13. Nxf5 Qxf5 14.
+a4 Bg7 15. a5 O-O 16. Re1 Rfd8 17. Nd2 Qe6 18. b4 cxb4 19. axb6 axb6 20.
+Rxa8 Rxa8 21. Qxb6 Ra2 22. Qd8+ Bf8 23. Nc4 Rxc2 24. Nb6 Qf5 25. Rf1 Qxe5
+26. Qxf8+ Kxf8 27. Nd7+ Ke8 28. Nxe5 f6 29. Nc4 Rc3 30. Rd1 e5 31. Kf1 Ke7
+32. Ke2 Ke6 33. Kd2 e4 34. Nb2 exd3 35. Nxd3 c5 36. Re1+ Kd5 37. Re7 Kc4
+38. Nc1 h5 39. Re4+ Kd5 40. f3 c4 41. Re8 Ra3 42. Rb8 Kc5 43. Rf8 Ra6 44.
+Rb8 Ra3 45. Rg8 g5 46. Rg6 Ra6 47. h4 c3+ 48. Kd3 Rd6+ 49. Kc2 Kc4 50. Nb3
+Ra6 51. Nc1 b3+ 52. Nxb3 Ra2+ 53. Kd1 Kxb3 54. Rxf6 Rd2+ 55. Kc1 Rxg2 56.
+Rb6+ Kc4 57. Rg6 Kd3 58. Rd6+ Ke3 59. hxg5 Rxg5 60. Rf6 Rg2 61. f4 Ke4 62.
+Rc6 c2 63. Rc4+ Kd3 0-1
+

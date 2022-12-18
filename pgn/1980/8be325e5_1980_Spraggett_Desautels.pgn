@@ -1,0 +1,16 @@
+[Event "corr Montreal"]
+[Site "corr Montreal"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Spraggett"]
+[Black "Desautels"]
+[Result "1-0"]
+[ECO "A17"]
+[Opening "English"]
+[Variation "Queens Indian formation"]
+[HashCode "8be325e5"]
+[Epoch "Rook"]
+
+1. c4 Nf6 2. Nc3 e6 3. Nf3 b6 4. e4 c5 5. e5 Ng8 6. d4 Ne7 7. Bg5 h6 8. Nb5
+d5 9. exd6 hxg5 10. Nc7+ Kd7 11. Ne5+ Kxd6 12. Nb5# 1-0
+

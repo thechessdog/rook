@@ -1,0 +1,19 @@
+[Event "ISL-ch"]
+[Site "Reykjavik"]
+[Date "1981.??.??"]
+[Round "8"]
+[White "Olafsson, Helgi"]
+[Black "Sigurjonsson, Gudmundur"]
+[Result "1/2-1/2"]
+[ECO "E15"]
+[Opening "Queen's Indian"]
+[Variation "Nimzovich variation (exaggerated fianchetto)"]
+[HashCode "733fbda7"]
+[Epoch "Rook"]
+[WhiteID "2300010"]
+[BlackID "2300079"]
+[WhiteCountry "ISL"]
+[BlackCountry "ISL"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 b6 4. g3 Ba6 5. Nbd2 Bb4 6. Qb3 c5 7. Bg2 Nc6 8. dxc5
+Bxc5 9. O-O O-O 10. Qd1 d5 11. cxd5 exd5 12. Nb3 Re8 13. Re1 1/2-1/2

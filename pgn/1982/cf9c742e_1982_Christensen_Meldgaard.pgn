@@ -1,0 +1,17 @@
+[Event "Soro"]
+[Site "Soro"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Christensen, Jan"]
+[Black "Meldgaard, Niels"]
+[Result "1-0"]
+[ECO "B01"]
+[Opening "Scandinavian (centre counter) defence"]
+[HashCode "cf9c742e"]
+[Epoch "Rook"]
+[WhiteID "1400916"]
+[WhiteCountry "DEN"]
+
+1. e4 d5 2. Nc3 d4 3. Nb1 e5 4. d3 Ne7 5. g3 c5 6. Bg2 Be6 7. f4 f6 8. Nf3 Nbc6
+9. O-O Qd7 10. fxe5 fxe5 11. Ng5 O-O-O 12. Nf7 Bxf7 13. Rxf7 Qe6 14. Qf1 Kb8
+15. Na3 Ng6 16. Bg5 Re8 17. Bh3 Qxf7 1-0

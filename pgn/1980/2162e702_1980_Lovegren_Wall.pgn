@@ -1,0 +1,15 @@
+[Event "Dayton,OH"]
+[Site "Dayton,OH"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Lovegren, Bob"]
+[Black "Wall, Bill"]
+[Result "0-1"]
+[ECO "A04"]
+[Opening "Reti opening"]
+[HashCode "2162e702"]
+[Epoch "Rook"]
+[BlackCountry "USA"]
+
+1. Nf3 b5 2. d3 Bb7 3. Nbd2 Nf6 4. h3 c5 5. b3 Qc7 6. c4 Nc6 7. cxb5 Nd5 8.
+bxc6 Ne3 9. fxe3 Qg3# 0-1

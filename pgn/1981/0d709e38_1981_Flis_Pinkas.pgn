@@ -1,0 +1,26 @@
+[Event "Czestochowa"]
+[Site "Czestochowa"]
+[Date "1981.01.01"]
+[Round "7"]
+[White "Flis, Jacek"]
+[Black "Pinkas, Karol"]
+[Result "1-0"]
+[ECO "B00"]
+[Opening "KP"]
+[Variation "Nimzovich defence, Bogolyubov variation"]
+[HashCode "0d709e38"]
+[Epoch "Rook"]
+[WhiteID "1100351"]
+[BlackID "1100319"]
+[WhiteCountry "POL"]
+[BlackCountry "POL"]
+
+1. e4 Nc6 2. d4 d5 3. Nc3 e5 4. Bb5 dxe4 5. d5 a6 6. Ba4 b5 7. Nxb5 axb5 8.
+Bxb5 Ne7 9. dxc6 Qxd1+ 10. Kxd1 Nf5 11. Ne2 Be6 12. c4 Bc5 13. Nc3 Rd8+ 14. Ke1
+Nd4 15. Nxe4 Bb4+ 16. Bd2 Bxd2+ 17. Nxd2 Nc2+ 18. Ke2 Nxa1 19. Rxa1 Ke7 20. a4
+Rd4 21. b4 Rhd8 22. Ra2 Ra8 23. a5 f5 24. Rc2 Bf7 25. Nb3 Re4+ 26. Kd3 Rh4 27.
+h3 f4 28. Ke2 e4 29. Nc5 Bh5+ 30. Ke1 f3 31. gxf3 exf3 32. Ba6 Rxh3 33. Bb7 Rd8
+34. Nd7 Bg4 35. Kd2 Bxd7 36. cxd7 Rxd7+ 37. Kc3 Rd1 38. a6 Ra1 39. b5 Ra3+ 40.
+Kd4 Rh6 41. Kc5 Rd6 42. Bd5 g5 43. Kb4 Ra1 44. Bxf3 Rf6 45. Rc3 Rf5 46. Bc6
+Rxf2 47. Rd3 Ke6 48. Rd7 Rf7 49. Rd3 Ke5 50. Bd5 Rf6 51. Re3+ Kd6 52. Bc6 Rff1
+53. c5# 1-0

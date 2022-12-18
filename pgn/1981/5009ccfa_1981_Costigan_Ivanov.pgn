@@ -1,0 +1,23 @@
+[Event "Quebec op"]
+[Site "Quebec op"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Costigan, Thomas"]
+[Black "Ivanov, Igor Vasilyevich"]
+[Result "0-1"]
+[ECO "B52"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky attack, 3...Bd7"]
+[HashCode "5009ccfa"]
+[Epoch "Rook"]
+[WhiteID "2003490"]
+[WhiteCountry "USA"]
+[BlackCountry "RUS"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Nxd7 5. O-O Ngf6 6. Qe2 e6 7. d4 cxd4
+8. Nxd4 Be7 9. c4 O-O 10. Nc3 a6 11. Kh1 Qc7 12. f4 Rfe8 13. g4 d5 14. e5 Ne4
+15. cxd5 Nxc3 16. bxc3 exd5 17. Rf3 Nc5 18. Be3 Ne4 19. Rc1 Rac8 20. Nf5 Bc5
+21. c4 Qc6 22. cxd5 Qxd5 23. Rd1 Qc6 24. Bxc5 Nc3 25. Qd3 Nxd1 26. Bd4 Qc1 27.
+Rf1 Nb2 28. Qf3 Qd2 29. Bxb2 Rc2 30. Qg3 Rxb2 31. g5 Rxa2 32. Nh6+ gxh6 33.
+gxh6+ Kf8 34. Qg7+ Ke7 35. Qf6+ Kd7 36. Qxf7+ Kd8 37. Qf6+ Kc8 38. Qf5+ Kb8 39.
+Qh3 Rg8 0-1

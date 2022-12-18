@@ -1,0 +1,21 @@
+[Event "Bad Neustadt"]
+[Site "Bad Neustadt"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Keller, L."]
+[Black "Scholer, H."]
+[Result "0-1"]
+[ECO "B03"]
+[Opening "Alekhine's defence"]
+[Variation "four pawns attack, 7.Be3"]
+[HashCode "d15ec2f6"]
+[Epoch "Rook"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. c4 Nb6 5. f4 dxe5 6. fxe5 Nc6 7. Be3 Bf5 8.
+Nc3 e6 9. Nf3 Nb4 10. Rc1 c5 11. a3 cxd4 12. Nxd4 Nc6 13. Nxf5 exf5 14. Bf4
+Nd4 15. b4 Ne6 16. Bg3 Qg5 17. Nd5 Rd8 18. Bf2 Be7 19. Bxb6 axb6 20. g3 f4
+21. Rc3 Qxe5+ 22. Kd2 b5 23. Qe2 Rxd5+ 24. cxd5 Qxd5+ 25. Qd3 Qxh1 26. Rc8+
+Nd8 27. Qxb5+ Kf8 28. Qd7 Qe4 29. Rxd8+ Bxd8 30. Qxd8+ Qe8 31. Qxe8+ Kxe8
+32. gxf4 Ke7 33. Bg2 b6 34. Kc3 Rc8+ 35. Kd4 Kd6 36. a4 f5 37. Bf1 Ra8 38.
+Bb5 Ra7 39. Be8 Re7 40. Bb5 Re4+ 0-1
+

@@ -1,0 +1,21 @@
+[Event "Bagneaux"]
+[Site "Bagneaux"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Tompa, Janos"]
+[Black "Andruet, Gilles"]
+[Result "0-1"]
+[ECO "B82"]
+[Opening "Sicilian"]
+[Variation "Scheveningen, 6.f4"]
+[HashCode "64c3ae50"]
+[Epoch "Rook"]
+[WhiteID "700193"]
+[WhiteCountry "HUN"]
+[BlackCountry "FRA"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. f4 Nc6 7. Be3 Be7 8. Be2
+O-O 9. Qd2 Qc7 10. O-O-O a6 11. g4 Nxd4 12. Bxd4 e5 13. Be3 Bxg4 14. Bxg4 Nxg4
+15. Nd5 Qd7 16. f5 Nf6 17. Nxf6+ Bxf6 18. Qxd6 Qa4 19. Rhg1 Rac8 20. c3 Rfd8
+21. Rxg7+ Kh8 22. Rg8+ Kxg8 23. Rg1+ Bg7 24. Rxg7+ Kh8 25. Rxh7+ Kxh7 26. Qh6+
+Kg8 27. Qh5 Qd1+ 28. Qxd1 Rxd1+ 29. Kxd1 Rc4 0-1

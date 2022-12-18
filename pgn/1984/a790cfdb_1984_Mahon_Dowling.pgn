@@ -1,0 +1,18 @@
+[Event "corr ch-USA"]
+[Site "corr ch-USA"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Mahon"]
+[Black "Dowling"]
+[Result "0-1"]
+[ECO "E41"]
+[Opening "Nimzo-Indian"]
+[Variation "e3, Huebner variation"]
+[HashCode "a790cfdb"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 Nc6 6. Nf3 Bxc3+ 7. bxc3 d6
+8. e4 e5 9. d5 Ne7 10. Nh4 h6 11. f4 Ng6 12. Nxg6 fxg6 13. O-O O-O 14. f5
+b5 15. Qe1 bxc4 16. Bxc4 gxf5 17. exf5 Qe8 18. Be2 Rb8 19. g4 Qa4 20. c4
+Ba6 21. Qd1 Rb4 22. Bd2 Rxc4 23. Bxc4 Qxc4 0-1
+

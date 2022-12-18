@@ -1,0 +1,23 @@
+[Event "Sofia ch-BUL"]
+[Site "Sofia ch-BUL"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Grigorov, Jordan N"]
+[Black "Georgiev, Krum"]
+[Result "1-0"]
+[ECO "B93"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.f4"]
+[HashCode "9a4fc5a4"]
+[Epoch "Rook"]
+[BlackID "2900092"]
+[BlackCountry "FID"]
+[WhiteCountry "BGR"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 e6 7. Be2 Nc6 8. O-O
+Bd7 9. a4 Rc8 10. Kh1 Be7 11. Be3 O-O 12. Qe1 Nb4 13. e5 Nfd5 14. Nxd5 Nxd5 15.
+Bd2 dxe5 16. fxe5 Bh4 17. Qd1 Be7 18. c4 Nb6 19. Ba5 Rc5 20. b4 Rxa5 21. bxa5
+Nxa4 22. Bf3 Nc5 23. Nb3 Qc7 24. Nxc5 Bxc5 25. Qe2 Bc8 26. Rad1 Qxa5 27. Be4
+Qc7 28. Rf3 g6 29. Bc2 Bd7 30. h4 Bc6 31. Rg3 Rd8 32. Rgd3 Rxd3 33. Rxd3 Qe7
+34. Qg4 Bb6 35. Qf4 Qc5 36. Rd1 Qa3 37. Kh2 Bc7 38. Re1 Qb2 39. Re2 h5 40. Bxg6
+Bxe5 41. Bxf7+ 1-0

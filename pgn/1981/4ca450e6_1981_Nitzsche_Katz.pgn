@@ -1,0 +1,20 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Nitzsche"]
+[Black "Katz"]
+[Result "1-0"]
+[ECO "A92"]
+[Opening "Dutch"]
+[Variation "stonewall variation"]
+[HashCode "4ca450e6"]
+[Epoch "Rook"]
+
+1. Nf3 f5 2. d4 Nf6 3. c4 e6 4. g3 Be7 5. Bg2 d5 6. O-O O-O 7. Qc2 c6 8.
+Nbd2 a5 9. b3 Qe8 10. Ne5 Nbd7 11. Bb2 Bd6 12. a4 g5 13. cxd5 exd5 14. f4
+g4 15. Ba3 Bxa3 16. Rxa3 Nh5 17. e4 dxe4 18. Nxe4 fxe4 19. Bxe4 Nhf6 20.
+Bg2 Nb6 21. Raa1 Qd8 22. Qd2 Be6 23. f5 Bxb3 24. Qg5+ Kh8 25. Rf4 Bf7 26.
+Raf1 Nfd5 27. f6 Nxf6 28. Qxf6+ Qxf6 29. Rxf6 Kg8 30. Rxf7 Rxf7 31. Rxf7
+Rb8 32. Be4 Nxa4 33. Bxh7+ 1-0
+

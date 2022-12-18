@@ -1,0 +1,25 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Mukhin, Mikhail A"]
+[Black "Zhidkov, Valery S"]
+[Result "0-1"]
+[ECO "C88"]
+[Opening "Ruy Lopez"]
+[Variation "closed, anti-Marshall 8.a4"]
+[HashCode "812a90d7"]
+[Epoch "Rook"]
+[BlackID "14100282"]
+[WhiteCountry "KAZ"]
+[BlackCountry "UKR"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. a4
+Bb7 9. d3 d6 10. Bd2 Qd7 11. Na3 Nd4 12. Nxd4 exd4 13. c3 dxc3 14. bxc3 c5 15.
+f3 Bc6 16. d4 bxa4 17. Bc2 cxd4 18. cxd4 d5 19. e5 Ne8 20. f4 f5 21. g4 g6 22.
+gxf5 gxf5 23. Kh1 Ng7 24. Rg1 Kh8 25. Nb1 Rab8 26. Nc3 a3 27. Bc1 Bb4 28. Qf3
+Ne6 29. Ne2 Qa7 30. Rd1 Bb5 31. Ng3 Nxd4 32. Qf2 Qc5 33. Rxd4 Bc3 34. Bxa3 Qxd4
+35. Qxd4 Bxd4 36. Rd1 Be3 37. Nxf5 Rxf5 38. Bxf5 Be2 39. Rg1 Bf3+ 40. Rg2 Rg8
+41. Bh3 Rb8 42. Bf5 Rg8 43. Bh3 Bxf4 44. e6 Be3 45. Bb2+ d4 46. Ba3 h5 47. Bd6
+Be4 48. e7 d3 49. Be5+ Kh7 50. Bf5+ Bxf5 51. Rxg8 Be4+ 52. Rg2 d2 53. h4 d1=Q+
+54. Kh2 Bxg2 0-1

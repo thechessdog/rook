@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Walund"]
+[Black "Juhl"]
+[Result "1-0"]
+[ECO "B13"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack"]
+[HashCode "176dcc77"]
+[Epoch "Rook"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nc6 5. cxd5 Qxd5 6. Nf3 Bg4 7. Be2 e6
+8. O-O Bd6 9. h3 Bh5 10. Nc3 Qa5 11. d5 exd5 12. Nb5 Rd8 13. Bd2 Qb6 14.
+Be3 Bc5 15. Nfd4 Bxe2 16. Qxe2 Nce7 17. b4 Bxd4 18. Bxd4 Qg6 19. Rfe1 Rd7
+20. Rac1 f5 21. Bxg7 1-0
+

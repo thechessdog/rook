@@ -1,0 +1,17 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Timofeev"]
+[Black "Chudinovskih, Alexa"]
+[Result "1-0"]
+[ECO "B96"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7.f4"]
+[HashCode "5f4ff9e7"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Nbd7 8.
+Qf3 Qc7 9. O-O-O b5 10. a3 Bb7 11. Bd3 Nb6 12. Rhe1 Rc8 13. Bxf6 gxf6 14.
+Qh5 Qc5 15. e5 dxe5 16. Nxe6 Qe7 17. fxe5 Rxc3 18. exf6 Qxf6 19. Bxb5+ 1-0
+

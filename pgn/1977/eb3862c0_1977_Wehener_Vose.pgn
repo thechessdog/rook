@@ -1,0 +1,19 @@
+[Event "Dayton,OH"]
+[Site "Dayton,OH"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Wehener, J."]
+[Black "Vose"]
+[Result "1-0"]
+[ECO "C69"]
+[Opening "Ruy Lopez"]
+[Variation "exchange variation, 5.O-O"]
+[HashCode "eb3862c0"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O Bd6 6. d4 Bg4 7. Be3 Nf6
+8. dxe5 Bxf3 9. Qxf3 Bxe5 10. c3 Qd3 11. Na3 Qxe4 12. Qxe4 Nxe4 13. Rfe1
+O-O-O 14. Nc4 Bf6 15. f3 Nd6 16. Nxd6+ cxd6 17. Bb6 Rde8 18. Kf2 c5 19.
+Rad1 Rxe1 20. Kxe1 Re8+ 21. Kf2 Be5 22. Rd3 Bxh2 23. g3 Re6 24. b4 h5 25.
+bxc5 1-0
+

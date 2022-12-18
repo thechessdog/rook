@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Clasz"]
+[Black "Zeltwanger"]
+[Result "1-0"]
+[ECO "B79"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, 12.h4"]
+[HashCode "3cbfc05d"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6 5. Nc3 Bg7 6. Be3 Nf6 7. Bc4 O-O
+8. Bb3 d6 9. f3 Bd7 10. Qd2 Qa5 11. O-O-O Rfc8 12. h4 Ne5 13. g4 Nc4 14.
+Bxc4 Rxc4 15. h5 Rac8 16. Nb3 Qa6 17. hxg6 hxg6 18. e5 Rxc3 19. bxc3 Qxa2
+20. exf6 Bxf6 21. Bd4 e5 22. Qf4 Bg7 23. Rh7 exf4 24. Rxg7+ Kf8 25. Bf6 Be6
+26. Rg8+ Kxg8 27. Rh1 1-0
+

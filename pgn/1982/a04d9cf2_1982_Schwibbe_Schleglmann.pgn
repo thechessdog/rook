@@ -1,0 +1,21 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Schwibbe, R."]
+[Black "Schleglmann, D."]
+[Result "0-1"]
+[ECO "B89"]
+[Opening "Sicilian"]
+[Variation "Sozin, 7.Be3"]
+[HashCode "a04d9cf2"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bc4 e6 7. Be3 Be7
+8. O-O O-O 9. Bb3 a6 10. f4 Nxd4 11. Bxd4 b5 12. e5 dxe5 13. fxe5 Nd7 14.
+Qh5 Bc5 15. Ne2 Qc7 16. Rf3 Bxd4+ 17. Nxd4 Qxe5 18. Qh4 Bb7 19. Re1 Qc5 20.
+Rh3 h6 21. Kh1 Bd5 22. Rg3 Bxb3 23. Nxb3 Qxc2 24. Qxh6 Qxb2 25. Qh4 Qf6 26.
+Qe4 Rfd8 27. Rf3 Qg5 28. Rg3 Qe5 29. Qb1 Qd5 30. Qa1 Ne5 31. h4 Ng6 32. Rg5
+Qc4 33. g3 Rd5 34. Na5 Qd3 35. Rxd5 Qxd5+ 36. Kg1 Qf3 37. Kh2 Rc8 38. Qb2
+Rc3 39. Qg2 Qd3 40. Rf1 Ne5 41. Rf4 Rc2 0-1
+

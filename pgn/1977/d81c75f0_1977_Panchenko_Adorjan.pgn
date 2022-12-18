@@ -1,0 +1,19 @@
+[Event "Sochi"]
+[Site "Sochi"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Panchenko, A."]
+[Black "Adorjan, Andras"]
+[Result "1/2-1/2"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, 6.e5"]
+[HashCode "d81c75f0"]
+[Epoch "Rook"]
+[BlackID "700096"]
+[BlackCountry "HUN"]
+[WhiteCountry "RUS"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. f4 Nf6 5. Nf3 O-O 6. e5 dxe5 7. dxe5 Qxd1+ 8.
+Kxd1 Nh5 9. Be3 Nc6 10. Bc4 Bg4 11. Rf1 Na5 12. Bd3 f6 13. exf6 Bxf6 14. h3 Be6
+15. Nd2 Ng3 16. Re1 Bf5 17. Rc1 1/2-1/2

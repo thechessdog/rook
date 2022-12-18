@@ -1,0 +1,20 @@
+[Event "USA"]
+[Site "USA"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Leow, Leslie M"]
+[Black "Karklins, Andrew"]
+[Result "0-1"]
+[ECO "C69"]
+[Opening "Ruy Lopez"]
+[Variation "exchange, Bronstein variation"]
+[HashCode "46cd392c"]
+[Epoch "Rook"]
+[BlackID "2001730"]
+[BlackCountry "USA"]
+[WhiteID "5800013"]
+[WhiteCountry "SGP"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O Qd6 6. d4 exd4 7. Nxd4 Bd7 8.
+Be3 O-O-O 9. Nd2 Nh6 10. f3 f5 11. Nc4 Qg6 12. e5 f4 13. Bxf4 Be6 14. Ne3 c5
+15. Nxe6 Rxd1 16. Raxd1 Qxe6 17. Bxh6 Qxh6 18. f4 c4 19. Rd5 Qb6 0-1

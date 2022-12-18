@@ -1,0 +1,23 @@
+[Event "Riga"]
+[Site "Riga"]
+[Date "1981.01.01"]
+[Round "14"]
+[White "Klovans, Janis"]
+[Black "Bielczyk, Jacek"]
+[Result "1-0"]
+[ECO "B63"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack"]
+[HashCode "8ef9ae9e"]
+[Epoch "Rook"]
+[BlackID "1100530"]
+[BlackCountry "POL"]
+[WhiteCountry "LVA"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd2 Qb6 8.
+Nb3 Bd7 9. O-O-O a6 10. f4 O-O-O 11. Bh4 Be7 12. Bf2 Qc7 13. Be2 Kb8 14. Bf3
+Bc8 15. Rhe1 Rhe8 16. Nd4 Nd7 17. Qe3 Nxd4 18. Rxd4 b6 19. a4 Bb7 20. Red1 Rc8
+21. a5 Nc5 22. axb6 Qxb6 23. Rc4 d5 24. exd5 exd5 25. Nxd5 Bxd5 26. Rxd5 Bh4
+27. Qa3 Nb3+ 28. Qxb3 Qxb3 29. cxb3 Bxf2 30. Rd7 Be3+ 31. Kc2 Rxc4+ 32. bxc4
+Bxf4 33. Rb7+ Kc8 34. Rxf7 Be5 35. Bb7+ Kd8 36. Bxa6 Bf6 37. b4 Re2+ 38. Kd3
+Rxg2 39. c5 Rxh2 40. c6 Be5 1-0

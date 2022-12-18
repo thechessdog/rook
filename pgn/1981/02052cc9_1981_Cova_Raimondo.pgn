@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Cova"]
+[Black "Raimondo"]
+[Result "0-1"]
+[ECO "B77"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, 9...Bd7"]
+[HashCode "02052cc9"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bc4 g6 7. Be3 Bg7
+8. f3 O-O 9. Qd2 Bd7 10. h4 h5 11. O-O-O Ne5 12. Bb3 Rc8 13. Bg5 Rc5 14.
+Rhe1 b5 15. f4 Nc4 16. Qd3 Qa5 17. e5 Rfc8 18. exf6 exf6 19. Bxc4 bxc4 20.
+Qg3 fxg5 21. hxg5 Bg4 22. Nde2 d5 23. Rd2 Rb8 0-1
+

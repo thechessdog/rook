@@ -1,0 +1,24 @@
+[Event "BL2-N 8081"]
+[Site "BL2-N 8081"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Holzapfel, Daniel"]
+[Black "Lehmann, Klaus"]
+[Result "1-0"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "classical attack, close variation"]
+[HashCode "185e1ba8"]
+[Epoch "Rook"]
+[WhiteID "4604059"]
+[WhiteCountry "GER"]
+[BlackID "4603249"]
+[BlackCountry "GER"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d3 Nf6 6. d4 Be7 7. Bd3 O-O 8.
+O-O Nc6 9. c3 Bg4 10. h3 Bh5 11. Bf4 Qd7 12. Nbd2 Kh8 13. Qb3 Rab8 14. c4 Bxf3
+15. Nxf3 Nh5 16. Bh2 g6 17. d5 Nd8 18. Rae1 f5 19. c5 Nf7 20. Nd4 Bf6 21. Ne6
+Rfc8 22. Bb5 c6 23. Be2 Ng7 24. cxd6 Re8 25. Nc5 Qd8 26. d7 Re5 27. dxc6 Ng5
+28. Bxe5 Bxe5 29. Nxb7 Qf6 30. d8=Q+ Rxd8 31. Nxd8 Qxd8 32. Rd1 Qf6 33. f4 Bd4+
+34. Kh2 N7e6 35. Rxd4 Qxd4 36. Qb8+ Kg7 37. fxg5 Qe3 38. Qb7+ Kf8 39. Bc4 Nxg5
+40. c7 Qe5+ 41. Kh1 Kg7 42. c8=Q+ Kh6 43. Qf8+ Kh5 44. Qbg7 1-0

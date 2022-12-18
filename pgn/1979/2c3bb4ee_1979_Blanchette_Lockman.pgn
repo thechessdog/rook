@@ -1,0 +1,17 @@
+[Event "Outaouais"]
+[Site "Outaouais"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Blanchette, Robert"]
+[Black "Lockman, Denis"]
+[Result "1-0"]
+[ECO "B40"]
+[Opening "Sicilian defence"]
+[HashCode "2c3bb4ee"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 e6 3. Bc4 Nc6 4. Nc3 Be7 5. O-O d6 6. d4 cxd4 7. Nxd4 Nf6
+8. Nxc6 bxc6 9. f4 Qc7 10. Kh1 O-O 11. e5 dxe5 12. fxe5 Qxe5 13. Bf4 Qa5
+14. Rf3 Nd5 15. Nxd5 cxd5 16. Bd3 g6 17. Bh6 Rd8 18. Bxg6 fxg6 19. Qd4 Bf6
+20. Qxf6 Qc7 21. Qf8+ Rxf8 22. Rxf8# 1-0
+

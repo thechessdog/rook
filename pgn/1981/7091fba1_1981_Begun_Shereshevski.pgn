@@ -1,0 +1,16 @@
+[Event "Sokolsky mem"]
+[Site "Minsk"]
+[Date "1981.??.??"]
+[Round "13"]
+[White "Begun, Sergei M"]
+[Black "Sher, Miron N"]
+[Result "1/2-1/2"]
+[ECO "C48"]
+[Opening "Four knights"]
+[Variation "Rubinstein counter-gambit, exchange variation"]
+[HashCode "7091fba1"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. Nc3 Nd4 5. Nxd4 exd4 6. e5 dxc3 7. exf6 Qxf6
+8. dxc3 Qe5+ 9. Qe2 Qxe2+ 10. Bxe2 d5 11. Bf4 c6 12. O-O-O Bf5 13. Bd3 Bxd3 14.
+cxd3 Kd7 15. Rhe1 Bd6 16. Bxd6 Kxd6 1/2-1/2

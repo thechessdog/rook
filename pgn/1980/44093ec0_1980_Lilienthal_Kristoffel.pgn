@@ -1,0 +1,16 @@
+[Event "corr Wcup3"]
+[Site "corr Wcup3"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Lilienthal, Andor Arnoldovich"]
+[Black "Kristoffel"]
+[Result "0-1"]
+[ECO "D48"]
+[Opening "QGD semi-Slav"]
+[Variation "Meran, 8...a6"]
+[HashCode "44093ec0"]
+[Epoch "Rook"]
+[WhiteCountry "HUN"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. e3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8. Bd3
+a6 9. O-O c5 10. b3 Bb7 11. Re1 Rc8 12. Bb2 cxd4 13. exd4 Bb4 14. Be4 Bxc3 0-1

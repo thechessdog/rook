@@ -1,0 +1,25 @@
+[Event "Bundesliga 8081"]
+[Site "Duitsland tt"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Weichert, Helmut"]
+[Black "Lentze, Ingo, Dr."]
+[Result "0-1"]
+[ECO "B87"]
+[Opening "Sicilian"]
+[Variation "Sozin with ...a6 and ...b5"]
+[HashCode "18baed5e"]
+[Epoch "Rook"]
+[WhiteID "4623258"]
+[WhiteCountry "GER"]
+[BlackID "4606256"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 b5 8. f4
+Bb7 9. f5 e5 10. Nde2 Nbd7 11. Bg5 Be7 12. Bxf6 Nxf6 13. Ng3 h5 14. Nd5 h4 15.
+Nxf6+ Bxf6 16. Nh5 Qb6 17. Nxf6+ gxf6 18. Qd3 Rg8 19. O-O-O Rxg2 20. Qxd6 Qxd6
+21. Rxd6 Bxe4 22. Rxf6 Ra7 23. Re1 Rg4 24. Rb6 Kd8 25. Rd1+ Kc8 26. f6 Rc7 27.
+c3 Bb7 28. Rbd6 Bf3 29. Re1 Rg2 30. Rxe5 Rxh2 31. Rd3 Bg2 32. Re7 Rh1+ 33. Kd2
+Rf1 34. Bxf7 Rxf6 35. Re8+ Kb7 36. Bd5+ Bxd5 37. Rxd5 Rh7 38. Re2 h3 39. Rh2
+Rg6 40. b3 Kc6 41. Rd4 Kc5 42. b4+ Kc6 43. Kc2 Rg3 44. Kb2 Rg2+ 45. Rxg2 hxg2
+46. Rg4 Rh2 47. Kb3 Kd5 48. a4 Ke5 49. axb5 axb5 50. Rg8 Kf4 51. Rg7 0-1

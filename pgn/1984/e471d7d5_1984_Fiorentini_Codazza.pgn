@@ -1,0 +1,16 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Fiorentini"]
+[Black "Codazza"]
+[Result "1-0"]
+[ECO "B00"]
+[Opening "KP"]
+[Variation "Nimzovich defence, Bogolyubov variation"]
+[HashCode "e471d7d5"]
+[Epoch "Rook"]
+
+1. e4 Nc6 2. d4 d5 3. Nc3 dxe4 4. d5 Ne5 5. f4 exf3 6. Nxf3 Ng6 7. Bc4 e6
+8. Qe2 Be7 9. dxe6 fxe6 10. Bd2 Nf6 11. Ng5 O-O 12. Bxe6+ 1-0
+

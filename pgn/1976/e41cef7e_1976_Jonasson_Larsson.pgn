@@ -1,0 +1,20 @@
+[Event "corr SWE/K tt"]
+[Site "corr SWE/K tt"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Jonasson, Jan"]
+[Black "Larsson, Anders"]
+[Result "0-1"]
+[ECO "B94"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.Bg5"]
+[HashCode "e41cef7e"]
+[Epoch "Rook"]
+[BlackID "1712128"]
+[BlackCountry "SWE"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 Nbd7 7. f4 Qb6 8.
+Nb3 h6 9. Bh4 Qe3+ 10. Be2 Qxf4 11. Bg3 Qg5 12. Qd2 Qxd2+ 13. Nxd2 g6 14. Bf3
+Ne5 15. h3 Nxf3+ 16. gxf3 b5 17. O-O-O Bg7 18. Ne2 Bb7 19. h4 O-O 20. Rhg1 Rfe8
+21. Nb3 Rad8 22. Be1 Nh5 23. Ng3 Nxg3 24. Rxg3 Kh7 25. Bb4 Be5 26. Rg2 f5 27.
+Re1 fxe4 28. fxe4 Rf8 29. Bd2 Rf3 0-1

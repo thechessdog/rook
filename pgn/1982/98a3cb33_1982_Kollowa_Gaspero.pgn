@@ -1,0 +1,19 @@
+[Event "corr DDR/FS"]
+[Site "corr DDR/FS"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Kollowa, K."]
+[Black "Gaspero"]
+[Result "1-0"]
+[ECO "E57"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line with 8...dc and 9...cd"]
+[HashCode "98a3cb33"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 d5 6. Nf3 O-O 7. O-O Nc6 8.
+a3 dxc4 9. Bxc4 cxd4 10. exd4 Be7 11. Bd3 b6 12. Re1 Bb7 13. Bc2 Re8 14.
+Qd3 g6 15. Bb3 Rc8 16. Bg5 a6 17. Rad1 Nd5 18. Nxd5 Bxg5 19. Nxb6 Qxb6 20.
+Nxg5 Nxd4 21. Qxd4 Qxb3 22. Qf6 Rc7 23. Rd8 Bc6 24. Rxe8+ Bxe8 25. Qd8 Qb5
+26. Nxe6 fxe6 27. Qxc7 1-0
+

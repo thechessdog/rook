@@ -1,0 +1,16 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Fasoli"]
+[Black "Mazzeo"]
+[Result "0-1"]
+[ECO "B55"]
+[Opening "Sicilian"]
+[Variation "Prins variation, Venice attack"]
+[HashCode "6302a687"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. f3 e5 6. Bb5+ Nbd7 7. Nf5 d5
+8. exd5 a6 9. Ba4 b5 10. Bb3 Nb6 11. Ne3 Bc5 12. Nc3 Bb7 13. O-O Nbxd5 0-1
+

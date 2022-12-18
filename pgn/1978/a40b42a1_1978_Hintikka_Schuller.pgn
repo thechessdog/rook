@@ -1,0 +1,17 @@
+[Event "corr EUR/M"]
+[Site "corr EUR/M"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Hintikka, E."]
+[Black "Schuller, K."]
+[Result "1-0"]
+[ECO "B44"]
+[Opening "Sicilian, Szen (`anti-Taimanov') variation"]
+[HashCode "a40b42a1"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e6 5. Nb5 d6 6. c4 Nf6 7. N1c3 a6 8.
+Na3 Be7 9. Nc2 O-O 10. Be2 b6 11. O-O Bb7 12. Ne3 Qc7 13. Qd2 Ne5 14. f3
+Rfd8 15. Rd1 Bc6 16. b3 Qb7 17. a4 Rd7 18. Bb2 Rad8 19. Ncd5 Bf8 20. Qd4
+exd5 21. cxd5 Rc7 22. dxc6 Nxc6 23. Qd3 1-0
+

@@ -1,0 +1,19 @@
+[Event "Lugano"]
+[Site "Lugano"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Wagman, Stuart"]
+[Black "Dietze"]
+[Result "1-0"]
+[ECO "B87"]
+[Opening "Sicilian"]
+[Variation "Sozin with ...a6 and ...b5"]
+[HashCode "875dac64"]
+[Epoch "Rook"]
+[WhiteCountry "USA"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 b5 8. O-O
+Bb7 9. Re1 Nbd7 10. Bg5 Nc5 11. Bd5 exd5 12. exd5+ Kd7 13. b4 Na4 14. Nxa4 bxa4
+15. c4 Rc8 16. Qxa4+ Kc7 17. c5 dxc5 18. Bf4+ Bd6 19. Nc6 Bxf4 20. Qa5+ Kd7 21.
+Nxd8 Rhxd8 22. bxc5 Nxd5 23. Rad1 Kc6 24. Rxd5 Bc7 25. Qa4+ Kxd5 26. Qe4+ Kxc5
+27. Qxb7 a5 28. g3 1-0

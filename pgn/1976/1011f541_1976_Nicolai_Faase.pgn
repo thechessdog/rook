@@ -1,0 +1,17 @@
+[Event "Dortmund"]
+[Site "Dortmund"]
+[Date "1976.05.01"]
+[Round "1"]
+[White "Nicolai, W."]
+[Black "Faase, R."]
+[Result "1-0"]
+[ECO "D02"]
+[Opening "Queen's pawn game, Chigorin variation"]
+[HashCode "1011f541"]
+[Epoch "Rook"]
+
+1. Nf3 Nc6 2. d4 d5 3. Bf4 Bf5 4. e3 e6 5. Bd3 Nge7 6. c3 f6 7. Bxf5 Nxf5
+8. h4 h5 9. Qc2 Bd6 10. Bxd6 Qxd6 11. Nbd2 Nce7 12. e4 dxe4 13. Nxe4 Qc6
+14. O-O-O a5 15. Rhe1 b6 16. Ned2 Kf7 17. Re2 Nd5 18. g3 a4 19. a3 b5 20.
+Rde1 Rhe8 21. Ne4 Nb6 22. Neg5+ fxg5 23. Ne5+ 1-0
+

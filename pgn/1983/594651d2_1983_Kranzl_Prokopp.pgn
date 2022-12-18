@@ -1,0 +1,20 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Kranzl, A."]
+[Black "Prokopp, H."]
+[Result "0-1"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, positional main line"]
+[HashCode "594651d2"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Nf3 Nbc6
+8. Bd3 Qa5 9. O-O Bd7 10. Qd2 f6 11. exf6 gxf6 12. a4 c4 13. Be2 O-O-O 14.
+Ba3 Nf5 15. Rfb1 Rdg8 16. Kh1 Rg7 17. Bf1 Rhg8 18. g3 h5 19. Bh3 Nce7 20.
+Bxe7 Nxe7 21. Qe3 Nf5 22. Bxf5 exf5 23. Rb4 Qc7 24. Qh6 Rg6 25. Qxh5 f4 26.
+Rbb1 fxg3 27. fxg3 Qa5 28. Nh4 Bg4 29. Qh7 R6g7 30. Qh6 Qxc3 31. Qxf6 Rh7
+32. Rf1 Bh3 33. Nf5 Rgh8 0-1
+

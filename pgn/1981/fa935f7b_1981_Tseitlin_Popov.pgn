@@ -1,0 +1,26 @@
+[Event "Kuibyshev"]
+[Site "Kuibyshev"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Tseitlin, Mikhail S"]
+[Black "Popov, Nikolai"]
+[Result "1-0"]
+[ECO "A46"]
+[Opening "Queen's pawn"]
+[Variation "Torre attack"]
+[HashCode "fa935f7b"]
+[Epoch "Rook"]
+[BlackID "34189103"]
+[BlackCountry "RUS"]
+[WhiteCountry "BLR"]
+
+1. d4 Nf6 2. Nf3 e6 3. Bg5 b6 4. e3 Bb7 5. Nbd2 Be7 6. Bd3 d5 7. O-O Nbd7 8. c3
+c5 9. Ne5 Nxe5 10. dxe5 Nd7 11. Bxe7 Qxe7 12. f4 O-O-O 13. Qa4 Kb8 14. b4 c4
+15. Be2 f6 16. exf6 gxf6 17. Bf3 e5 18. Rae1 e4 19. Bg4 h5 20. Bf5 Nf8 21. Nb1
+Rg8 22. Qd1 Qe8 23. a4 Bc8 24. Bxc8 Kxc8 25. Na3 Ne6 26. Nb5 Kb7 27. f5 Nc7 28.
+Nd4 Rg5 29. Rf4 Qd7 30. Re2 Rdg8 31. Ra2 a6 32. Qf1 Qh7 33. a5 b5 34. Qd1 Qg7
+35. Rff2 Qd7 36. Rad2 Rd8 37. Qf1 Rf8 38. Rf4 Qe7 39. Qd1 Rd8 40. Rdf2 Qe5 41.
+Rh4 Rh8 42. Rff4 Kc8 43. Rh3 Qe8 44. Rfh4 Rh7 45. Kh1 Rhg7 46. Rxh5 Rxg2 47.
+Rh8 Rg8 48. Rxg8 Qxg8 49. Rh8 Qxh8 50. Kxg2 Qh6 51. Qe1 Kd7 52. h4 Qh5 53. Kh3
+Ne8 54. Qg1 Qh6 55. Ne6 Qh5 56. Qg4 Qxg4+ 57. Kxg4 Ke7 58. Nc5 Nc7 59. Kf4 Kf7
+60. h5 Kg8 1-0

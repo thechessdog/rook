@@ -1,0 +1,17 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Scheglmann, E."]
+[Black "Schreier, R."]
+[Result "1-0"]
+[ECO "C40"]
+[Opening "Latvian counter-gambit"]
+[HashCode "81fd744d"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 f5 3. exf5 e4 4. Ne5 Nf6 5. Be2 d6 6. Bh5+ Ke7 7. Nc4 Bxf5
+8. d4 Nc6 9. d5 Nb4 10. Nc3 Kd7 11. a3 Nxc2+ 12. Qxc2 Nxh5 13. Qa4+ Ke7 14.
+Bg5+ Nf6 15. Ne3 Qd7 16. O-O Kf7 17. Qd4 Be7 18. f3 exf3 19. Rxf3 Bg6 20.
+Raf1 Rhf8 21. Ng4 a6 22. Bxf6 gxf6 23. Rxf6+ 1-0
+

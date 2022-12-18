@@ -1,0 +1,19 @@
+[Event "BL2-N 8283"]
+[Site "BL2-N 8283"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Cording, Harm"]
+[Black "Berndt, Michael"]
+[Result "1/2-1/2"]
+[ECO "B31"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (with ...g6, without ...d6)"]
+[HashCode "f89a00d3"]
+[Epoch "Rook"]
+[WhiteID "4602684"]
+[WhiteCountry "GER"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. Re1 d6 6. c3 Bd7 7. d4 Qc7 8. h3 e5
+9. Be3 b6 10. dxc5 dxc5 11. Nbd2 Nge7 12. Nc4 O-O 13. Qd6 Qxd6 14. Nxd6 h6 15.
+Rad1 Be6 16. Bc4 Bxc4 17. Nxc4 Rfd8 18. Kf1 Kf8 19. a4 f5 20. Bc1 f4 21. g4 Kf7
+22. Nd6+ Ke6 23. Nb5 Rac8 24. Ke2 a6 25. Rxd8 Nxd8 26. Na3 1/2-1/2

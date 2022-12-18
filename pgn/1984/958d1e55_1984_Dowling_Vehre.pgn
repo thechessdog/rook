@@ -1,0 +1,21 @@
+[Event "match"]
+[Site "match"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Dowling, John"]
+[Black "Vehre, John"]
+[Result "0-1"]
+[ECO "E41"]
+[Opening "Nimzo-Indian"]
+[Variation "e3, Huebner variation"]
+[HashCode "958d1e55"]
+[Epoch "Rook"]
+[WhiteID "2017164"]
+[WhiteCountry "USA"]
+[BlackCountry "USA"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 Nc6 6. Nf3 Bxc3+ 7. bxc3 d6 8.
+O-O e5 9. Ng5 O-O 10. f4 exd4 11. exd4 cxd4 12. Bd2 d5 13. c5 h6 14. Nf3 dxc3
+15. Bxc3 Ne4 16. Bb2 Nxc5 17. Nd4 Nxd3 18. Qxd3 Qb6 19. Rf2 Nxd4 20. Bxd4 Bf5
+21. Qc3 Qg6 22. Qb3 Qc6 23. Qb2 f6 24. Rc1 Qd7 25. Rf3 b6 26. Rg3 Kh7 27. Rgc3
+Rac8 28. Qa3 Rfe8 29. Qa6 Rxc3 30. Rxc3 Re1+ 31. Kf2 Re4 0-1

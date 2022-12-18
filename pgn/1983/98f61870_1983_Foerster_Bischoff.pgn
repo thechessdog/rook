@@ -1,0 +1,23 @@
+[Event "Hamburg HSV"]
+[Site "Hamburg"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Foerster, Andreas"]
+[Black "Bischoff, Klaus"]
+[Result "0-1"]
+[ECO "E30"]
+[Opening "Nimzo-Indian"]
+[Variation "Leningrad variation"]
+[HashCode "98f61870"]
+[Epoch "Rook"]
+[WhiteID "4608143"]
+[WhiteCountry "GER"]
+[BlackID "4600045"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Bg5 h6 5. Bh4 c5 6. d5 Bxc3+ 7. bxc3 e5 8. f3
+d6 9. e4 Nbd7 10. Qd2 Nf8 11. Bf2 Ng6 12. h4 O-O 13. g3 Nh7 14. Bd3 f5 15. Ne2
+fxe4 16. Bxe4 Bf5 17. Qd3 Qf6 18. O-O Bxe4 19. fxe4 Qf3 20. Qxf3 Rxf3 21. Kg2
+Rd3 22. Rfd1 Rxd1 23. Rxd1 Nf6 24. Kf3 Rf8 25. Bg1 Nd7+ 26. Ke3 Nb6 27. Rb1
+Nxc4+ 28. Kd3 Na5 29. Be3 Rf3 30. h5 Nf8 31. g4 Nd7 32. g5 hxg5 33. Rg1 Nf6 34.
+Rxg5 c4+ 0-1

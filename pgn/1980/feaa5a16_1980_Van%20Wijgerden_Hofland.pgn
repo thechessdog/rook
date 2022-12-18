@@ -1,0 +1,19 @@
+[Event "IBM-B"]
+[Site "Amsterdam II"]
+[Date "1980.06.01"]
+[Round "1"]
+[White "Van Wijgerden, Cornelis"]
+[Black "Hofland, Leonard"]
+[Result "1/2-1/2"]
+[ECO "B13"]
+[Opening "Caro-Kann"]
+[Variation "exchange, Rubinstein variation"]
+[HashCode "feaa5a16"]
+[Epoch "Rook"]
+[WhiteID "1000144"]
+[WhiteCountry "NED"]
+[BlackID "1000837"]
+[BlackCountry "NED"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. Bd3 Nc6 5. c3 Nf6 6. Bf4 Qb6 7. Qb3 Qxb3 8.
+axb3 Bg4 9. b4 e6 10. b5 Ne7 11. b6 a6 12. Na3 Nc6 1/2-1/2

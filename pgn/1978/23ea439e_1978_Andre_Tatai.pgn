@@ -1,0 +1,23 @@
+[Event "Dortmund"]
+[Site "Dortmund"]
+[Date "1978.01.01"]
+[Round "4"]
+[White "Andre, Wolfgang"]
+[Black "Tatai, Stefano"]
+[Result "0-1"]
+[ECO "B96"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Polugayevsky variation"]
+[HashCode "23ea439e"]
+[Epoch "Rook"]
+[WhiteID "4607260"]
+[WhiteCountry "GER"]
+[BlackCountry "ITA"]
+
+1. e4 c5 2. Nf3 d6 3. d4 Nf6 4. Nc3 cxd4 5. Nxd4 a6 6. Bg5 e6 7. f4 b5 8. a3
+Nbd7 9. Qe2 Qb6 10. O-O-O Bb7 11. g4 Rc8 12. Bxf6 gxf6 13. f5 Rxc3 14. fxe6
+fxe6 15. bxc3 Qc5 16. Nxe6 Qxa3+ 17. Kd2 Nc5 18. g5 Nxe6 19. Qh5+ Ke7 20. gxf6+
+Kd8 21. Bd3 Qc5 22. Qxc5 Nxc5 23. Ke3 Bh6+ 24. Ke2 Bf4 25. Rhg1 Ne6 26. Rdf1
+Be5 27. c4 Rf8 28. cxb5 axb5 29. f7 Ke7 30. h4 b4 31. Rg8 Rxf7 32. Rxf7+ Kxf7
+33. Rb8 Nc5 34. Bc4+ Kg6 35. Bd5 Ba6+ 36. Kf3 Kh5 37. Rxb4 Bc8 38. Rb1 Bg4+ 39.
+Kg2 Ne6 40. Rh1 Nf4+ 41. Kf2 Nxd5 0-1

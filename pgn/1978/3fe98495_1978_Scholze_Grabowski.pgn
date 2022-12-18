@@ -1,0 +1,17 @@
+[Event "corr EUR/M"]
+[Site "corr EUR/M"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Scholze, J."]
+[Black "Grabowski, J."]
+[Result "1-0"]
+[ECO "E38"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, 4...c5"]
+[HashCode "3fe98495"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 c5 5. dxc5 Nc6 6. Nf3 Bxc5 7. Bg5 b6
+8. e3 Bb7 9. Be2 O-O 10. O-O Qe7 11. Rad1 d5 12. a3 dxc4 13. Ne4 b5 14.
+Bxf6 gxf6 15. Rd7 1-0
+

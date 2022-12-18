@@ -1,0 +1,19 @@
+[Event "Grozny"]
+[Site "Grozny"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Germanov, A."]
+[Black "Judin"]
+[Result "0-1"]
+[ECO "B70"]
+[Opening "Sicilian"]
+[Variation "dragon variation"]
+[HashCode "c5688422"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Ne2 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Bg5 Bg7 7. Qd2 Nc6
+8. Bb5 Bd7 9. Nb3 O-O 10. O-O-O Qb6 11. f3 Rfc8 12. Bh6 Bh8 13. Bxc6 Bxc6
+14. h4 a5 15. h5 a4 16. hxg6 axb3 17. gxh7+ Nxh7 18. Qf4 Nf8 19. Bxf8 Be5
+20. Rh8+ Bxh8 21. Bxe7 bxa2 22. Qg5+ Bg7 23. Bf6 a1=Q+ 24. Kd2 Qf2+ 25. Kd3
+Qa6+ 0-1
+

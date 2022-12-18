@@ -1,0 +1,18 @@
+[Event "corr FRG/M"]
+[Site "corr FRG/M"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Fuchs, W."]
+[Black "Losche, W."]
+[Result "1-0"]
+[ECO "B55"]
+[Opening "Sicilian"]
+[Variation "Prins variation, Venice attack"]
+[HashCode "27e08943"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. f3 e5 6. Bb5+ Bd7 7. Bxd7+
+Nbxd7 8. Nf5 d5 9. exd5 Qa5+ 10. Nc3 Nb6 11. Qe2 O-O-O 12. O-O Nbxd5 13.
+Nxd5 Rxd5 14. c4 Rd7 15. Kh1 Kb8 16. a3 g6 17. b4 Bxb4 18. Bg5 Bc3 19. Bxf6
+Rd2 20. Qe3 1-0
+

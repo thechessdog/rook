@@ -1,0 +1,21 @@
+[Event "Minsk"]
+[Site "Minsk"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Groszpeter, Attila"]
+[Black "Rivas Pastor, Manuel"]
+[Result "1-0"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical system, 5.Be2"]
+[HashCode "5d8de086"]
+[Epoch "Rook"]
+[WhiteID "700053"]
+[WhiteCountry "HUN"]
+[BlackID "2200058"]
+[BlackCountry "ESP"]
+
+1. d4 g6 2. e4 Bg7 3. Nf3 d6 4. Be2 Nf6 5. Nc3 O-O 6. O-O Nbd7 7. h3 e5 8. dxe5
+dxe5 9. b3 Re8 10. a4 Nh5 11. Re1 Nf4 12. Bf1 h5 13. Ba3 h4 14. Nd5 Ne6 15. c3
+a5 16. Qc2 Ndc5 17. Rad1 Bd7 18. Ne3 b6 19. Bb5 Ra7 20. Bxc5 Nxc5 21. b4 axb4
+22. cxb4 c6 23. bxc5 1-0

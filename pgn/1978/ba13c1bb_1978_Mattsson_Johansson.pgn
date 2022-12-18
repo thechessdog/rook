@@ -1,0 +1,20 @@
+[Event "corr SWE/K"]
+[Site "corr SWE/K"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Mattsson, Bertil"]
+[Black "Johannsson, Ingi Randver"]
+[Result "1-0"]
+[ECO "A77"]
+[Opening "Benoni"]
+[Variation "classical, 9...Re8, 10.Nd2"]
+[HashCode "ba13c1bb"]
+[Epoch "Rook"]
+[BlackCountry "ISL"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. Nf3 Bg7 8. Be2
+O-O 9. O-O Re8 10. Nd2 Nbd7 11. f4 a6 12. a4 Rb8 13. a5 b5 14. axb6 Nxb6 15.
+Ra3 c4 16. Qc2 Nfxd5 17. exd5 Bxc3 18. Qxc3 Rxe2 19. Nxc4 Bf5 20. Ne3 Be4 21.
+Qd4 f5 22. Qd1 Rxe3 23. Rxe3 Nc4 24. Rb3 Rxb3 25. Qxb3 Bxd5 26. Re1 Bf7 27. Qc3
+Qb6+ 28. Kh1 Bd5 29. b3 Qf2 30. Rg1 Na5 31. Bb2 Kf7 32. Qf6+ Ke8 33. Bd4 Qxf4
+34. Re1+ 1-0

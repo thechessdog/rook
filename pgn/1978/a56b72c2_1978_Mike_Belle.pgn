@@ -1,0 +1,20 @@
+[Event "ACM Washington"]
+[Site "ACM Washington"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Mike"]
+[Black "Belle"]
+[Result "0-1"]
+[ECO "C22"]
+[Opening "Centre game"]
+[HashCode "a56b72c2"]
+[Epoch "Rook"]
+
+1. e4 e5 2. d4 exd4 3. Qxd4 Nc6 4. Qa4 Nf6 5. Bb5 Bc5 6. Ne2 Ng4 7. f3 Nf2
+8. O-O Ng4+ 9. Kh1 Nxh2 10. Qc4 Qh4 11. g3 Qh3 12. Nf4 Qxf1+ 13. Qxf1 Nxf1
+14. Bxf1 Nd4 15. Nd5 Bd6 16. Bf4 Nxc2 17. Bxd6 cxd6 18. Bd3 Nxa1 19. Nc7+
+Kd8 20. Nxa8 b5 21. Nc3 Bb7 22. Nxb5 Bxa8 23. Nxd6 Ke7 24. Nf5+ Kf6 25. b4
+Rc8 26. Nd6 Rc1+ 27. Kh2 Rd1 28. e5+ Kxe5 29. Be4 Rxd6 30. Bxa8 Rd2+ 31.
+Kh3 Rxa2 32. f4+ Kd4 33. Bf3 d5 34. b5 Rb2 35. Bh5 g6 36. Bd1 Nc2 37. Bxc2
+Rxc2 38. Kh4 f6 39. Kh3 Ke4 40. Kg4 Rh2 41. f5 gxf5# 0-1
+

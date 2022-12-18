@@ -1,0 +1,23 @@
+[Event "corr DDR-H"]
+[Site "corr DDR-H"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Beyer, H."]
+[Black "Schulz, U."]
+[Result "0-1"]
+[ECO "E88"]
+[Opening "King's Indian"]
+[Variation "Saemisch, orthodox, 7.d5 c6"]
+[HashCode "ebf2a0fd"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 e5 7. d5 c6 8. Qd2
+cxd5 9. exd5 Re8 10. Bd3 Nh5 11. Nge2 f5 12. g3 f4 13. gxf4 exf4 14. Bxf4
+Qh4+ 15. Kd1 Nxf4 16. Qxf4 Qxf4 17. Nxf4 Re3 18. Re1 Rxe1+ 19. Kxe1 Na6 20.
+Nfe2 Nc5 21. Be4 Bd7 22. Rb1 Re8 23. Kd2 Be5 24. Ng3 Kg7 25. b4 Na6 26.
+Nce2 b5 27. f4 Bf6 28. Bd3 Rb8 29. a3 bxc4 30. Bxc4 Bb5 31. Bd3 Nc7 32. Be4
+h5 33. Nc3 Bc4 34. Nge2 a5 35. Rg1 axb4 36. Rxg6+ Kf7 37. axb4 Rxb4 38. Rh6
+Bxe2 39. Rh7+ Bg7 40. Kxe2 Kg8 41. Kd3 Rb3 42. Rxg7+ Kxg7 43. Kc4 Rb2 44.
+h3 Rf2 45. Kd4 Rxf4 46. Ke3 Rh4 47. Bg2 Kf6 48. Kf2 Ke5 49. Ke2 Rd4 50. Ke3
+Nxd5+ 51. Nxd5 Rxd5 0-1
+

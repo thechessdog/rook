@@ -1,0 +1,17 @@
+[Event "DEN-chJ int"]
+[Site "Soro"]
+[Date "1982.01.01"]
+[Round "9"]
+[White "Engelen, Guilaume"]
+[Black "Iten, Rene"]
+[Result "1/2-1/2"]
+[ECO "B25"]
+[Opening "Sicilian"]
+[Variation "closed, 6.f4"]
+[HashCode "651e0e27"]
+[Epoch "Rook"]
+[BlackID "1300660"]
+[BlackCountry "SUI"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. f4 e6 7. Nf3 Nge7 8. O-O
+O-O 9. Rb1 Rb8 10. Be3 Nd4 11. Ne2 Nxf3+ 12. Bxf3 b6 13. Bg2 Bb7 14. c3 1/2-1/2

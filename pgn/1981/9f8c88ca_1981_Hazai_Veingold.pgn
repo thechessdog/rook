@@ -1,0 +1,19 @@
+[Event "Tallinn"]
+[Site "Tallinn"]
+[Date "1981.03.01"]
+[Round "1"]
+[White "Hazai, Laszlo Dr."]
+[Black "Veingold, Aleksandr"]
+[Result "1/2-1/2"]
+[ECO "B10"]
+[Opening "Caro-Kann"]
+[Variation "closed (Breyer) variation"]
+[HashCode "9f8c88ca"]
+[Epoch "Rook"]
+[WhiteID "700177"]
+[WhiteCountry "HUN"]
+[BlackID "4500032"]
+[BlackCountry "EST"]
+
+1. e4 c6 2. d3 d5 3. Nd2 g6 4. g3 Bg7 5. Bg2 dxe4 6. dxe4 b6 7. Ne2 Nf6 8. O-O
+O-O 9. Nc3 1/2-1/2

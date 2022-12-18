@@ -1,0 +1,17 @@
+[Event "Bulgaria"]
+[Site "Bulgaria"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Stoinov"]
+[Black "Alexiev"]
+[Result "1-0"]
+[ECO "C10"]
+[Opening "French"]
+[Variation "Rubinstein variation"]
+[HashCode "8f7afe48"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Nd7 5. Nf3 Be7 6. Bd3 Ngf6 7. O-O
+Nxe4 8. Bxe4 Nf6 9. Bd3 O-O 10. Ne5 c5 11. dxc5 Qc7 12. Bf4 Qxc5 13. Qf3
+Qd5 14. Qh3 g6 15. Rfe1 Nh5 16. Bh6 Rd8 17. Re3 Bf8 18. Qxh5 b6 19. Qh3 1-0
+

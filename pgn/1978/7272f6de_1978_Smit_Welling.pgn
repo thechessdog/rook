@@ -1,0 +1,17 @@
+[Event "Helmond"]
+[Site "Helmond"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Smit"]
+[Black "Welling, Gerard"]
+[Result "0-1"]
+[ECO "C61"]
+[Opening "Ruy Lopez"]
+[Variation "Bird's defence"]
+[HashCode "7272f6de"]
+[Epoch "Rook"]
+[BlackID "1000446"]
+[BlackCountry "NED"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nd4 4. Bc4 Bc5 5. Nxe5 Qg5 6. Nxf7 Qxg2 7. Rf1 Qxe4+
+8. Be2 Nf3# 0-1

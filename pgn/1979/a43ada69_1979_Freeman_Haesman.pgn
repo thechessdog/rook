@@ -1,0 +1,20 @@
+[Event "corr NZD"]
+[Site "corr NZD"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Freeman"]
+[Black "Haesman"]
+[Result "1-0"]
+[ECO "C51"]
+[Opening "Evans gambit"]
+[Variation "5...Be7"]
+[HashCode "a43ada69"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 Bxb4 5. c3 Be7 6. Qb3 Nh6 7. d4 Na5 8.
+Qb5 Nxc4 9. Bxh6 gxh6 10. Qxc4 exd4 11. cxd4 d6 12. O-O c6 13. Re1 O-O 14.
+Nc3 Re8 15. Rab1 Rb8 16. d5 c5 17. e5 Bf5 18. Rbd1 Bg6 19. Qf4 dxe5 20.
+Rxe5 Kg7 21. d6 Bf6 22. Rxe8 Qxe8 23. d7 Qd8 24. Nd5 Bg5 25. Nxg5 hxg5 26.
+Qe5+ f6 27. Nxf6 Kf8 28. Nxh7+ Bxh7 29. Qxb8 Qxb8 30. d8=Q+ Qxd8 31. Rxd8+
+Ke7 32. Rd5 c4 33. Kf1 1-0
+

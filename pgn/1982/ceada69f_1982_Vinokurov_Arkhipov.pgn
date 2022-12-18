@@ -1,0 +1,20 @@
+[Event "Tambov"]
+[Site "Tambov"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Vinokurov, K."]
+[Black "Arkhipov, Sergey"]
+[Result "0-1"]
+[ECO "E90"]
+[Opening "King's Indian"]
+[Variation "Larsen variation"]
+[HashCode "ceada69f"]
+[Epoch "Rook"]
+[BlackID "4101146"]
+[BlackCountry "RUS"]
+
+1. d4 g6 2. c4 Nf6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be3 c5 7. d5 e6 8. h3 exd5
+9. exd5 Qa5 10. Bd3 b5 11. Nd2 b4 12. Qa4 Qxa4 13. Nxa4 Nbd7 14. O-O-O Ne5 15.
+Bc2 Re8 16. Rhe1 Bf5 17. Bxf5 gxf5 18. Kc2 Ne4 19. b3 Ng6 20. f3 Nxd2 21. Kxd2
+Re5 22. g3 Rae8 23. Bg5 Rxe1 24. Rxe1 Bc3+ 25. Nxc3 bxc3+ 26. Kd1 c2+ 27. Kd2
+Rxe1 28. Kxe1 f4 29. Kd2 fxg3 30. Kxc2 0-1

@@ -1,0 +1,18 @@
+[Event "Lugano op"]
+[Site "Lugano op"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Casa"]
+[Black "Teschner"]
+[Result "1-0"]
+[ECO "C44"]
+[Opening "Scotch"]
+[Variation "Goering gambit"]
+[HashCode "01ee6120"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. c3 dxc3 5. Bc4 cxb2 6. Bxb2 d5 7. exd5
+Nce7 8. O-O Nf5 9. Bb5+ Bd7 10. Bxd7+ Qxd7 11. Ne5 Qb5 12. Nc3 Qa6 13. Re1
+Nge7 14. Qf3 h5 15. a4 Rh6 16. Nb5 Rc8 17. Rac1 c6 18. d6 Rxd6 19. Nxd6+
+Nxd6 20. Ba3 c5 21. Bxc5 Rxc5 22. Rxc5 1-0
+

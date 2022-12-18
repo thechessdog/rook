@@ -1,0 +1,20 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Petrushin, Alexander I"]
+[Black "Zhuravliov, Valerij"]
+[Result "1/2-1/2"]
+[ECO "B17"]
+[Opening "Caro-Kann"]
+[Variation "Steinitz variation"]
+[HashCode "6b8741b9"]
+[Epoch "Rook"]
+[WhiteID "4104595"]
+[BlackID "11600055"]
+[WhiteCountry "RUS"]
+[BlackCountry "LAT"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Bc4 Ngf6 6. Ng5 e6 7. Qe2 Nb6 8.
+Bb3 h6 9. N5f3 c5 10. dxc5 Nbd7 11. c6 bxc6 12. Nd2 Qa5 13. Nf3 Ba6 14. Bc4
+Bxc4 15. Qxc4 Qd5 16. h3 1/2-1/2

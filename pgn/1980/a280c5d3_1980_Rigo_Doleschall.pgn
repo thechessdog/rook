@@ -1,0 +1,17 @@
+[Event "Budapest"]
+[Site "Budapest"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Rigo"]
+[Black "Doleschall"]
+[Result "1-0"]
+[ECO "C46"]
+[Opening "Three knights"]
+[Variation "Steinitz variation"]
+[HashCode "a280c5d3"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 g6 4. Bc4 Bg7 5. d3 Nge7 6. Ng5 O-O 7. h4 h6 8.
+h5 Na5 9. Nxf7 Rxf7 10. Bxf7+ Kxf7 11. Qf3+ Kg8 12. hxg6 Nxg6 13. Bxh6 Qf6
+14. Qh5 b6 15. Nd5 Qf7 16. Bxg7 Qxg7 17. Nxc7 Rb8 18. Ne8 Qf7 19. Nd6 1-0
+

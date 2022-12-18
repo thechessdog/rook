@@ -1,0 +1,18 @@
+[Event "E Lansing ch-MI M/X"]
+[Site "E Lansing ch-MI M/X"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Finegold, Mark"]
+[Black "Fairclough, N."]
+[Result "1-0"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Adams attack"]
+[HashCode "5a3ba546"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. h3 e6 7. g4 Nc6 8.
+g5 Nd7 9. Be3 Nde5 10. Be2 h6 11. gxh6 g6 12. Nxc6 bxc6 13. Qd2 a5 14. Rd1
+Ba6 15. Bf4 Bxh6 16. Bxh6 Bxe2 17. Kxe2 Qh4 18. Bf4 Qh5+ 19. Kf1 Qf3 20.
+Bxe5 1-0
+

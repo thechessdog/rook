@@ -1,0 +1,23 @@
+[Event "Yugoslavia"]
+[Site "Yugoslavia"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Lakic, Nikola"]
+[Black "Vukic, Milan"]
+[Result "0-1"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "modern variation"]
+[HashCode "fbb41339"]
+[Epoch "Rook"]
+[WhiteID "905321"]
+[BlackID "900273"]
+[WhiteCountry "BIH"]
+[BlackCountry "BIH"]
+
+1. b3 e5 2. Bb2 Nc6 3. e3 d5 4. Bb5 Bd6 5. f4 Qh4+ 6. g3 Qe7 7. Nf3 f6 8. fxe5
+fxe5 9. Bxc6+ bxc6 10. Nxe5 Nf6 11. Nf3 O-O 12. Qe2 Ne4 13. Qg2 Bg4 14. O-O Qd7
+15. Nc3 Bh3 16. Qe2 Bxf1 17. Rxf1 Nxc3 18. Bxc3 Qg4 19. Kg2 Rf7 20. Ng1 Qe4+
+21. Rf3 Rxf3 22. Qxf3 Qxc2 23. Qg4 Qe4+ 24. Qxe4 dxe4 25. Nh3 Re8 26. Kf1 Kf7
+27. Ke2 Kg6 28. Nf2 Re7 29. Bd4 a6 30. Kf1 h5 31. Kg2 Bb4 32. d3 c5 33. Ba1
+exd3 34. Nxd3 Rxe3 35. Nf4+ Kh6 36. h4 g5 37. hxg5+ Kxg5 38. Bb2 Kg4 0-1

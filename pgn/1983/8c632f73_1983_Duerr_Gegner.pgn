@@ -1,0 +1,17 @@
+[Event "Umkirch"]
+[Site "Umkirch"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Duerr, H."]
+[Black "Gegner, Jurgen"]
+[Result "0-1"]
+[ECO "D00"]
+[Opening "Blackmar gambit"]
+[HashCode "8c632f73"]
+[Epoch "Rook"]
+
+1. d4 d5 2. e4 dxe4 3. Nc3 Nf6 4. f3 exf3 5. Nxf3 Bf5 6. Ne5 e6 7. g4 Be4
+8. Nxe4 Nxe4 9. Bg2 Qh4+ 10. Ke2 Qf2+ 11. Kd3 Qxg2 12. Rf1 Nf2+ 13. Rxf2
+Qxf2 14. Be3 Qf6 15. Qh1 Nd7 16. Rf1 Nxe5+ 17. dxe5 O-O-O+ 18. Ke2 Qxe5 19.
+Rxf7 Bc5 0-1
+

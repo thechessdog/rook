@@ -1,0 +1,20 @@
+[Event "corr FIN-HUN"]
+[Site "corr FIN-HUN"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Szilagyi"]
+[Black "Wikman"]
+[Result "0-1"]
+[ECO "C00"]
+[Opening "French"]
+[Variation "Chigorin variation"]
+[HashCode "1e60b185"]
+[Epoch "Rook"]
+
+1. e4 e6 2. Qe2 e5 3. b3 Nc6 4. Nf3 Bc5 5. Bb2 d6 6. g3 Nge7 7. Bg2 O-O 8.
+O-O Kh8 9. c3 f5 10. d4 fxe4 11. Ng5 exd4 12. b4 Bb6 13. Qh5 Bf5 14. Nf7+
+Rxf7 15. Qxf7 Ne5 16. Qb3 d3 17. c4 N7c6 18. Nd2 e3 19. fxe3 Bxe3+ 20. Kh1
+Qd7 21. Nf3 Re8 22. Bc3 Ng4 23. Be1 Nd4 24. Nxd4 Bxd4 25. Bc3 Bxc3 26. Qxc3
+Re2 27. Qd4 h5 28. Rae1 Qa4 29. Rxf5 Rxe1+ 30. Bf1 Qc6+ 31. Kg1 Ne5 32. Qf2
+Qe4 33. Rxh5+ Kg8 34. Rf5 Ng4 35. Rf8+ Kh7 36. Qf7 Nf6 0-1
+

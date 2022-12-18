@@ -1,0 +1,19 @@
+[Event "Bucharest"]
+[Site "Bucharest"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Mazul"]
+[Black "Nicolaide"]
+[Result "1-0"]
+[ECO "B33"]
+[Opening "Sicilian"]
+[Variation "Pelikan (Lasker/Sveshnikov) variation"]
+[HashCode "8c4bcc58"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Nd5 Nxd5
+8. exd5 Nb8 9. Bd3 a6 10. Nc3 Be7 11. Qh5 g6 12. Qe2 f5 13. Bh6 Bg5 14.
+Bxg5 Qxg5 15. h4 Qe7 16. O-O-O Nd7 17. h5 Qg5+ 18. Kb1 Nf6 19. hxg6 h5 20.
+Na4 Bd7 21. Nb6 Rd8 22. Nc4 Bc8 23. f4 Qxf4 24. Rhf1 Qg4 25. Nxd6+ Rxd6 26.
+Qxe5+ 1-0
+

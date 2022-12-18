@@ -1,0 +1,23 @@
+[Event "USA"]
+[Site "USA"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Mayer, Steven F."]
+[Black "Boudreaux, Floyd"]
+[Result "1-0"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (without ...d6)"]
+[HashCode "f20414a2"]
+[Epoch "Rook"]
+[BlackID "2016370"]
+[BlackCountry "USA"]
+[WhiteCountry "USA"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 Nf6 4. Nc3 Nd4 5. e5 Nxb5 6. Nxb5 Nd5 7. a4 a6 8.
+Nc3 Nxc3 9. bxc3 d5 10. a5 Bg4 11. Ra4 Qd7 12. Ra2 Qf5 13. d4 Bxf3 14. Qxf3
+Qxf3 15. gxf3 e6 16. Ba3 O-O-O 17. Kd2 cxd4 18. cxd4 Bxa3 19. Rxa3 f6 20. f4
+Rhf8 21. Ke2 Rf7 22. Rb3 g5 23. Rb6 fxe5 24. fxe5 Rdf8 25. Rf1 Rc7 26. Rxe6
+Rxc2+ 27. Ke3 Rc3+ 28. Ke2 Rc4 29. Rf6 Rxf6 30. exf6 Rxd4 31. f4 Re4+ 32. Kd3
+Kd7 33. fxg5 Ke8 34. Rc1 Rh4 35. Rc8+ Kf7 36. Rc7+ Kf8 37. Rxb7 Rxh2 38. Kd4
+Rh5 39. Ke5 Rh1 40. Ke6 Re1+ 41. Kxd5 Rg1 42. Rxh7 1-0

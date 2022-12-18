@@ -1,0 +1,19 @@
+[Event "Imperia"]
+[Site "Imperia"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "De Palma"]
+[Black "Hort, Vlastimil"]
+[Result "0-1"]
+[ECO "B00"]
+[Opening "King's pawn opening"]
+[HashCode "b8d6991c"]
+[Epoch "Rook"]
+[BlackID "4600029"]
+[BlackCountry "GER"]
+
+1. e4 d6 2. d4 g6 3. c3 Nf6 4. Bd3 Bg7 5. Nf3 O-O 6. O-O Nc6 7. Nbd2 Nd7 8. Nc4
+Re8 9. d5 Ncb8 10. Bg5 Nb6 11. Ne3 c6 12. Qd2 Bd7 13. Rad1 Qc8 14. Bc2 Na6 15.
+Rfe1 Nc7 16. h3 a5 17. Nh2 a4 18. a3 Ra5 19. c4 Rc5 20. Qb4 Nxc4 21. Nxc4 Na6
+22. Nxd6 exd6 23. Qd2 cxd5 24. Bb1 Rb5 25. exd5 Rxb2 26. Qf4 Nc7 27. Rxe8+ Qxe8
+28. Qxd6 Nb5 0-1

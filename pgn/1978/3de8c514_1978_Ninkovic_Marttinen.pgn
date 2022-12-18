@@ -1,0 +1,16 @@
+[Event "corr EUR/M"]
+[Site "corr EUR/M"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Ninkovic"]
+[Black "Marttinen"]
+[Result "0-1"]
+[ECO "C45"]
+[Opening "Scotch game"]
+[HashCode "3de8c514"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Bc5 5. Be3 Qf6 6. c3 Nge7 7. f4 Qg6
+8. Qd3 Bxd4 9. Bxd4 Nxd4 10. Qxd4 Nc6 11. Qe3 O-O 12. f5 Qf6 13. Be2 Re8
+14. Qf3 Qh4+ 15. g3 Qxe4 16. Kd1 Qxf3 17. Bxf3 Ne5 0-1
+

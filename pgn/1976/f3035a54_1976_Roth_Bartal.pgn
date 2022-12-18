@@ -1,0 +1,18 @@
+[Event "corr Hungary"]
+[Site "corr Hungary"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Roth, Juergen Eugen"]
+[Black "Bartal"]
+[Result "0-1"]
+[ECO "C00"]
+[Opening "French"]
+[Variation "Alapin variation"]
+[HashCode "f3035a54"]
+[Epoch "Rook"]
+[WhiteID "4604180"]
+[WhiteCountry "GER"]
+
+1. e4 e6 2. d4 d5 3. Be3 dxe4 4. Nd2 f5 5. f3 Nc6 6. Bb5 Nf6 7. Qe2 Bd7 8. c3
+Be7 9. fxe4 fxe4 10. Bf4 O-O 11. Nxe4 Nxd4 12. cxd4 Nxe4 13. Bxd7 Bb4+ 14. Kd1
+Rxf4 15. Bxe6+ Kh8 16. Nf3 Nd2 17. Nxd2 Rxd4 0-1

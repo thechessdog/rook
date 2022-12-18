@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Marella"]
+[Black "Pasqua"]
+[Result "1-0"]
+[ECO "C69"]
+[Opening "Ruy Lopez"]
+[Variation "exchange, Bronstein variation"]
+[HashCode "25141134"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O Qd6 6. d4 exd4 7. Nxd4
+Bd7 8. Be3 O-O-O 9. Nd2 g5 10. Qe2 Qg6 11. f3 h5 12. Nc4 Re8 13. Qd2 g4 14.
+Rad1 Bh6 15. Nf5 Bxf5 16. exf5 Qxf5 17. fxg4 Qxg4 18. Ne5 Qe6 19. Rfe1 Qf5
+20. Qd4 c5 21. Qxc5 Rxe5 22. Qa7 Rd5 23. Qa8+ Kd7 24. Bxh6 Rxh6 25. Qe8+
+Kd6 26. c4 c6 27. cxd5 cxd5 28. Rc1 d4 29. Qb8+ 1-0
+

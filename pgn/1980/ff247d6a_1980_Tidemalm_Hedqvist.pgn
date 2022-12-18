@@ -1,0 +1,16 @@
+[Event "corr Sweden"]
+[Site "corr Sweden"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Tidemalm"]
+[Black "Hedqvist"]
+[Result "0-1"]
+[ECO "A00"]
+[Opening "Polish (Sokolsky) opening"]
+[HashCode "ff247d6a"]
+[Epoch "Rook"]
+
+1. b4 e5 2. Bb2 Bxb4 3. Bxe5 Nf6 4. c4 O-O 5. e3 d5 6. Nf3 Re8 7. Nc3 Be6
+8. Qb3 Nc6 9. Bxf6 Qxf6 10. d4 dxc4 11. Bxc4 Nxd4 12. Nxd4 Qxd4 13. Rc1
+Qxc4 0-1
+

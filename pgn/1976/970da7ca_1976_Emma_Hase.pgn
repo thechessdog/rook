@@ -1,0 +1,18 @@
+[Event "Mar del Plata"]
+[Site "Mar del Plata"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Emma, Jaime"]
+[Black "Hase, Juan Carlos"]
+[Result "1/2-1/2"]
+[ECO "E41"]
+[Opening "Nimzo-Indian"]
+[Variation "e3, Huebner variation"]
+[HashCode "970da7ca"]
+[Epoch "Rook"]
+[BlackID "100722"]
+[BlackCountry "ARG"]
+[WhiteCountry "ARG"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 Nc6 6. Nf3 Bxc3+ 7. bxc3 d6 8.
+Qe2 e5 9. dxc5 dxc5 10. Ng5 Qe7 11. Ne4 Nd7 12. Ng3 Nb6 1/2-1/2

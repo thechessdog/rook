@@ -1,0 +1,18 @@
+[Event "Gausdal"]
+[Site "Gausdal"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Iskov, Gert"]
+[Black "Lundin, Erik"]
+[Result "1-0"]
+[ECO "B01"]
+[Opening "Scandinavian (centre counter) defence"]
+[HashCode "a83e5090"]
+[Epoch "Rook"]
+[WhiteID "1400398"]
+[WhiteCountry "DEN"]
+[BlackCountry "SWE"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qa5 4. d4 Nf6 5. Nf3 Nc6 6. Bb5 e6 7. Ne5 Bb4 8.
+Qd3 a6 9. Bxc6+ bxc6 10. O-O Bb7 11. Qg3 Nh5 12. Qf3 Nf6 13. Ne4 Be7 14. Bg5
+O-O-O 15. Bxf6 gxf6 16. Nxf7 Rhg8 17. Nxd8 Bxd8 18. Nc5 1-0

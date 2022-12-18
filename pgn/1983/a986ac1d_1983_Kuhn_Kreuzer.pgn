@@ -1,0 +1,18 @@
+[Event "corr ch-DDR jr"]
+[Site "corr ch-DDR jr"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Kuhn, J."]
+[Black "Kreuzer, M."]
+[Result "0-1"]
+[ECO "D00"]
+[Opening "Blackmar-Diemer gambit"]
+[HashCode "a986ac1d"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. Nc3 d5 3. e4 dxe4 4. Bg5 Bf5 5. Bxf6 exf6 6. g4 Bg6 7. Qe2 c6
+8. O-O-O Be7 9. Nxe4 Qd5 10. Nc3 Qxh1 11. Nf3 O-O 12. Bh3 Qxd1+ 13. Nxd1
+Bd6 14. Qd2 Na6 15. c3 Nc7 16. Bg2 Rfe8 17. c4 Ne6 18. h4 Bf4 19. Ne3 Rad8
+20. d5 cxd5 21. cxd5 Nc5 22. Ne1 Ne4 23. Qd4 Rc8+ 24. Kb1 Nd2+ 25. Ka1 Rc1#
+0-1
+

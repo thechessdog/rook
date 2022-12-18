@@ -1,0 +1,23 @@
+[Event "BL2-N 8283"]
+[Site "BL2-N 8283"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Teschner, Rudolf"]
+[Black "Rostalski, Walter"]
+[Result "1-0"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, 6.Bd3"]
+[HashCode "ec5c00fa"]
+[Epoch "Rook"]
+[BlackID "4605225"]
+[BlackCountry "GER"]
+[WhiteCountry "SRB"]
+
+1. e4 g6 2. d4 d6 3. f4 Nf6 4. Nc3 Bg7 5. Nf3 O-O 6. Bd3 c5 7. dxc5 dxc5 8. O-O
+Nc6 9. Kh1 Nd4 10. e5 Nd5 11. Nxd4 cxd4 12. Nxd5 Qxd5 13. Qe2 Bf5 14. Rd1 Rfd8
+15. Be3 dxe3 16. Bxf5 Qc5 17. Bd3 f6 18. Re1 fxe5 19. Qxe3 Qxe3 20. Rxe3 exf4
+21. Rxe7 Bxb2 22. Rf1 Rf8 23. Rxb7 Bd4 24. a4 Bb6 25. Bc4+ Kh8 26. Bd5 Rae8 27.
+c4 g5 28. a5 Bf2 29. g3 Bd4 30. gxf4 Rxf4 31. Rxf4 gxf4 32. Kg2 Be3 33. Kf3 Rc8
+34. Kg4 Re8 35. h4 Re5 36. a6 h5+ 37. Kf3 Rf5 38. Rc7 Rf6 39. c5 Rxa6 40. c6
+Ra3 41. Ke4 Rc3 42. Kf5 Rc5 43. Kg6 1-0

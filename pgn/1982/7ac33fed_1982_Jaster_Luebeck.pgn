@@ -1,0 +1,19 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Jaster, R."]
+[Black "Luebeck, W."]
+[Result "1-0"]
+[ECO "D85"]
+[Opening "Gruenfeld"]
+[Variation "exchange variation"]
+[HashCode "7ac33fed"]
+[Epoch "Rook"]
+
+1. c4 Nf6 2. Nc3 g6 3. d4 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 c5 7. Nf3 Bg7
+8. Be3 Qa5 9. Qd2 Nc6 10. Rc1 cxd4 11. cxd4 Qxd2+ 12. Kxd2 Bg4 13. d5 Ne5
+14. Nd4 Rd8 15. f4 Nc6 16. Nxc6 bxc6 17. Rxc6 O-O 18. Be2 Bxe2 19. Kxe2 Rb8
+20. Rhc1 Rb2+ 21. R1c2 a5 22. e5 Rxc2+ 23. Rxc2 Rd8 24. Rd2 Bf8 25. Bb6 Ra8
+26. d6 1-0
+

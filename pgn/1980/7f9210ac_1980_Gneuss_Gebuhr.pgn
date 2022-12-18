@@ -1,0 +1,18 @@
+[Event "corr ch-DDR"]
+[Site "corr ch-DDR"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Gneuss"]
+[Black "Gebuhr"]
+[Result "0-1"]
+[ECO "E33"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, Milner-Barry (Zurich) variation"]
+[HashCode "7f9210ac"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 Nc6 5. Nf3 d6 6. Bd2 e5 7. dxe5 dxe5
+8. a3 Bxc3 9. Bxc3 Qe7 10. e3 a5 11. Be2 O-O 12. O-O-O Bg4 13. h3 Bh5 14.
+Qb3 Ne4 15. Rhf1 Nc5 16. Qa2 Nb4 17. Bxb4 axb4 18. Rd5 f6 19. Ng1 Bf7 20.
+Rd2 b5 21. Rfd1 bxa3 22. bxa3 b4 0-1
+

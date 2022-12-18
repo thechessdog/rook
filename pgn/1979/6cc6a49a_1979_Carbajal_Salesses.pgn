@@ -1,0 +1,16 @@
+[Event "corr LADAC"]
+[Site "corr LADAC"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Carbajal, Carlos"]
+[Black "Salesses, Julio"]
+[Result "1-0"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "classical attack"]
+[HashCode "6cc6a49a"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Be7 7. O-O Nd6
+8. Ne5 Be6 9. Qf3 Nd7 10. Bf4 Nf8 11. Re1 g5 12. Bg3 1-0
+

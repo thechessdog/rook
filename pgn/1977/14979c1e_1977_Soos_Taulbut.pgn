@@ -1,0 +1,22 @@
+[Event "Bern"]
+[Site "Bern"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Soos, Bela"]
+[Black "Taulbut"]
+[Result "0-1"]
+[ECO "E76"]
+[Opening "King's Indian"]
+[Variation "Four pawns attack, dynamic line"]
+[HashCode "14979c1e"]
+[Epoch "Rook"]
+[WhiteID "4601670"]
+[WhiteCountry "GER"]
+
+1. d4 g6 2. c4 Bg7 3. Nc3 d6 4. e4 Nf6 5. f4 O-O 6. Nf3 c5 7. d5 e6 8. dxe6
+fxe6 9. Bd3 Nc6 10. O-O Nd4 11. Qe1 Bd7 12. h3 a6 13. Be3 Nh5 14. Qd2 Qa5 15.
+Kh2 b5 16. Nxd4 cxd4 17. Ne2 Qb6 18. Bg1 e5 19. f5 gxf5 20. exf5 Rae8 21. g4 e4
+22. gxh5 exd3 23. Qxd3 Bxf5 24. Rxf5 Rxf5 25. Qxf5 Rxe2+ 26. Kg3 Qc6 27. Qd5+
+Qxd5 28. cxd5 d3 29. Rd1 d2 30. Bf2 Bh6 31. Kf3 Re5 32. Bg3 Rxd5 33. Ke4 Re5+
+34. Kd3 Rxh5 35. h4 Rd5+ 36. Ke2 Kf7 37. Bf2 Ke6 38. Rg1 Rf5 39. Bb6 Rf4 40.
+Bf2 Rc4 41. Rd1 Rc1 42. Bd4 Kf5 43. Bc3 Ke4 0-1

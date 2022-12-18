@@ -1,0 +1,18 @@
+[Event "ACM Seattle"]
+[Site "ACM Seattle"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Black Knight"]
+[Black "Brute Force"]
+[Result "1-0"]
+[ECO "B01"]
+[Opening "Scandinavian (centre counter) defence"]
+[HashCode "709f7789"]
+[Epoch "Rook"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qe6+ 4. Nge2 Bd7 5. d4 Na6 6. Bg5 h6 7. Be3
+Qb6 8. Qb1 g5 9. h4 gxh4 10. d5 Qb4 11. Bd4 e5 12. dxe6 f6 13. a3 Qe7 14.
+exd7+ Kd8 15. Qa2 c5 16. O-O-O cxd4 17. Nxd4 Nc5 18. Bc4 Qg7 19. Ne4 Qxg2
+20. Nxc5 Qg5+ 21. Rd2 Qxd2+ 22. Kxd2 Bxc5 23. Ne6+ Kxd7 24. Nxc5+ Kc7 25.
+Bd5 Ne7 26. Bxb7 Rad8+ 27. Kc3 Rb8 28. Qe6 Ng8 29. Qc6+ Kd8 30. Qd7# 1-0
+

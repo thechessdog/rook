@@ -1,0 +1,19 @@
+[Event "corr EU tt"]
+[Site "corr EU tt"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Sutton"]
+[Black "Staace"]
+[Result "1-0"]
+[ECO "E87"]
+[Opening "King's Indian"]
+[Variation "Saemisch, orthodox, 7.d5"]
+[HashCode "c0534250"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 e5 7. d5 Nh5 8. Qd2
+f5 9. O-O-O Nd7 10. exf5 gxf5 11. Nh3 Ndf6 12. Bg5 Bd7 13. Bd3 Qe8 14. Rhg1
+Qf7 15. Rdf1 e4 16. fxe4 Ng4 17. g3 h6 18. Be3 Nxe3 19. Qxe3 Bxc3 20. bxc3
+Qg7 21. Bc2 fxe4 22. Nf4 Nf6 23. h3 h5 24. Bd1 c6 25. g4 h4 26. g5 Nh7 27.
+Nh5 Qe7 28. g6 Nf6 29. Qh6 Nxh5 30. Rf7 1-0
+

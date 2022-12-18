@@ -1,0 +1,18 @@
+[Event "Rzeszow"]
+[Site "Rzeszow"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Petkiewicz, J."]
+[Black "Luczynowicz, W."]
+[Result "1/2-1/2"]
+[ECO "D15"]
+[Opening "QGD Slav"]
+[Variation "Schlechter variation"]
+[HashCode "9a798c86"]
+[Epoch "Rook"]
+
+1. d4 d5 2. c4 Nf6 3. Nc3 c6 4. Nf3 g6 5. e3 Bg7 6. Be2 O-O 7. O-O Bg4 8.
+b3 e6 9. Bb2 Nbd7 10. Rc1 Re8 11. Qd2 Ne4 12. Nxe4 dxe4 13. Ne1 Bxe2 14.
+Qxe2 f5 15. f3 exf3 16. Nxf3 e5 17. Qf2 exd4 18. exd4 Nf6 19. Rce1 Rxe1 20.
+Rxe1 Ne4 1/2-1/2
+

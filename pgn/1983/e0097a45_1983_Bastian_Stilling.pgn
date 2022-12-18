@@ -1,0 +1,20 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Bastian"]
+[Black "Stilling, W."]
+[Result "1-0"]
+[ECO "C58"]
+[Opening "two knights defence"]
+[Variation "Colman variation"]
+[HashCode "e0097a45"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 Na5 6. Bb5+ c6 7. dxc6
+bxc6 8. Qf3 Rb8 9. Be2 Be7 10. Nc3 O-O 11. d3 Ng4 12. Nge4 f5 13. Ng3 e4
+14. Qf4 Bd6 15. Qg5 Qxg5 16. Bxg5 exd3 17. Bxg4 fxg4 18. Nge4 Be5 19. cxd3
+Rxb2 20. Be3 Bf5 21. O-O Rd8 22. Rfd1 Bd4 23. Bxd4 Rxd4 24. Nc5 Nb7 25.
+N5e4 Nd8 26. Ng3 Bg6 27. Nce4 Nf7 28. Nc5 Ne5 29. Nge4 Bxe4 30. dxe4 Rxa2
+31. Kf1 Rxd1+ 32. Rxd1 a5 1-0
+

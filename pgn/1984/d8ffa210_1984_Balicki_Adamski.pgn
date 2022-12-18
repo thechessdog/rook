@@ -1,0 +1,20 @@
+[Event "Poznan ch-POL"]
+[Site "Poznan ch-POL"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Balicki, Cezary"]
+[Black "Adamski, Jan"]
+[Result "1/2-1/2"]
+[ECO "E15"]
+[Opening "Queen's Indian"]
+[Variation "Nimzovich variation (exaggerated fianchetto)"]
+[HashCode "d8ffa210"]
+[Epoch "Rook"]
+[BlackID "1100190"]
+[BlackCountry "POL"]
+[WhiteID "1101641"]
+[WhiteCountry "POL"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 b6 4. g3 Ba6 5. b3 Bb4+ 6. Bd2 Be7 7. Nc3 d5 8. Bg2
+c6 9. O-O O-O 10. Bf4 Nbd7 11. Qd3 c5 12. Nb5 Bb7 13. Bc7 Qc8 14. Bd6 Qd8 15.
+Bc7 Qc8 16. Bd6 Qd8 1/2-1/2

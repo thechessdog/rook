@@ -1,0 +1,22 @@
+[Event "Tallinn"]
+[Site "Tallinn"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Chiburdanidze, Maia"]
+[Black "Dvoirys, Semen I."]
+[Result "1-0"]
+[ECO "B96"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7.f4"]
+[HashCode "a9326791"]
+[Epoch "Rook"]
+[WhiteID "13600036"]
+[WhiteCountry "GEO"]
+[BlackID "4100379"]
+[BlackCountry "RUS"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Nbd7 8. Qf3
+Qc7 9. O-O-O b5 10. Bd3 Bb7 11. Rhe1 Qb6 12. Nd5 exd5 13. Nc6 Bxc6 14. exd5+
+Be7 15. dxc6 Nc5 16. Bxf6 gxf6 17. Bf5 Qc7 18. b4 Ne6 19. Qh5 Ng7 20. Bd7+ Kf8
+21. Qh6 d5 22. Rxe7 Kxe7 23. Re1+ Kf8 24. Qxf6 Kg8 25. Re7 Rf8 26. Be6 Qxe7 27.
+Qxe7 fxe6 28. c7 h5 29. Qxf8+ 1-0

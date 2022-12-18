@@ -1,0 +1,18 @@
+[Event "Bangor"]
+[Site "Bangor"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Reinert, Mads"]
+[Black "Renna, A."]
+[Result "0-1"]
+[ECO "C57"]
+[Opening "two knights defence"]
+[Variation "Wilkes Barre (Traxler) variation"]
+[HashCode "2494cf99"]
+[Epoch "Rook"]
+[WhiteID "1400487"]
+[WhiteCountry "DEN"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 Bc5 5. Bxf7+ Ke7 6. Bd5 Rf8 7. O-O d6 8.
+d3 Bg4 9. Qe1 Qe8 10. Bxc6 bxc6 11. Be3 Qh5 12. Bxc5 dxc5 13. Qe3 Be2 14. Re1
+Ng4 15. Qxc5+ Kd7 16. Nh3 Rxf2 17. Nc3 Bf3 18. Nxf2 Qxh2+ 19. Kf1 Qxg2# 0-1

@@ -1,0 +1,18 @@
+[Event "Cincinnati"]
+[Site "Cincinnati"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Mike, A."]
+[Black "Distlerath"]
+[Result "0-1"]
+[ECO "D31"]
+[Opening "QGD"]
+[Variation "Charousek (Petrosian) variation"]
+[HashCode "ef3464f9"]
+[Epoch "Rook"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Be7 4. e4 dxe4 5. Nxe4 Nf6 6. Nxf6+ Bxf6 7. Nf3 c5
+8. dxc5 Qxd1+ 9. Kxd1 Nc6 10. Rb1 e5 11. b4 Bf5 12. Rb3 O-O-O+ 13. Bd2 e4
+14. Ne1 Nxb4 15. Rxb4 Bc3 16. Nd3 Bxd2 17. Kxd2 exd3 18. g3 Rhe8 19. f3 Re1
+20. g4 Bg6 21. h4 Rc1 0-1
+

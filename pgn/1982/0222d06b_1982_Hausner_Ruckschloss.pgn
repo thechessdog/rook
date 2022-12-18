@@ -1,0 +1,24 @@
+[Event "Frenstat"]
+[Site "Frenstat"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Hausner, Ivan"]
+[Black "Ruckschloss, Karol"]
+[Result "1/2-1/2"]
+[ECO "D10"]
+[Opening "QGD Slav defence"]
+[Variation "exchange variation"]
+[HashCode "0222d06b"]
+[Epoch "Rook"]
+[BlackID "14900386"]
+[BlackCountry "SVK"]
+[WhiteID "300110"]
+[WhiteCountry "CZE"]
+
+1. d4 d5 2. c4 c6 3. cxd5 cxd5 4. Nc3 Nf6 5. Bf4 Nc6 6. e3 a6 7. Bd3 Bg4 8. f3
+Bh5 9. Qb3 Na5 10. Qa4+ Nc6 11. Rc1 e6 12. Nge2 Bg6 13. Bxg6 hxg6 14. Qb3 Na5
+15. Qd1 b5 16. Kf2 Bd6 17. g4 Bxf4 18. Nxf4 Nc4 19. b3 Nd6 20. Kg2 Nd7 21. Qd2
+Rc8 22. Nce2 Rxc1 23. Nxc1 Qh4 24. Ncd3 g5 25. Nh5 g6 26. Ng3 Qh3+ 27. Kf2
+Qxh2+ 28. Rxh2 Rxh2+ 29. Ke1 Rxd2 30. Kxd2 a5 31. e4 dxe4 32. fxe4 f5 33. e5
+Nc8 34. d5 Kf7 35. Ne2 Ne7 36. Nd4 Nxd5 37. Nxb5 Nf4 38. Nd6+ Ke7 39. Nc4 fxg4
+40. Ke3 g3 41. Ne1 Nd5+ 42. Kf3 Nb4 43. Kxg3 Nxa2 44. Nf3 Nc5 1/2-1/2

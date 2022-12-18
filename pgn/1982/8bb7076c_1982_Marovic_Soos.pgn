@@ -1,0 +1,24 @@
+[Event "Rome"]
+[Site "Rome"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Marovic, Drazen"]
+[Black "Soos, Bela"]
+[Result "1-0"]
+[ECO "A64"]
+[Opening "Benoni"]
+[Variation "fianchetto, 11...Re8"]
+[HashCode "8bb7076c"]
+[Epoch "Rook"]
+[WhiteID "14500183"]
+[WhiteCountry "CRO"]
+[BlackID "4601670"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. g3 Bg7 8. Bg2
+O-O 9. O-O Re8 10. Nd2 a6 11. a4 Nbd7 12. h3 Rb8 13. Nc4 Ne5 14. Na3 Nh5 15. e4
+c4 16. Be3 Qc7 17. a5 Qxa5 18. Nxc4 Qc7 19. Nxe5 Bxe5 20. Qd2 Bd7 21. Ne2 Rbc8
+22. Rfc1 Qb8 23. g4 Ng7 24. f4 Bf6 25. g5 Be7 26. Bd4 Rxc1+ 27. Rxc1 Rc8 28.
+Re1 Qc7 29. Bc3 Qc4 30. Ng3 Qa4 31. Kh2 Bf8 32. e5 Bf5 33. e6 Re8 34. Ne4 Bxe4
+35. Rxe4 Qb5 36. Rb4 Qc5 37. Rxb7 fxe6 38. dxe6 Re7 39. Rb8 Re8 40. Rb7 Re7 41.
+Bd5 Nf5 42. b4 1-0

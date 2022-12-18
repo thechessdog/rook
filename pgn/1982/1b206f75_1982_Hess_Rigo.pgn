@@ -1,0 +1,20 @@
+[Event "Rome-B"]
+[Site "Rome"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Hess, Ralf E."]
+[Black "Rigo, Janos"]
+[Result "1/2-1/2"]
+[ECO "E53"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Gligoric system with 7...Nbd7"]
+[HashCode "1b206f75"]
+[Epoch "Rook"]
+[WhiteID "4601890"]
+[BlackID "700371"]
+[WhiteCountry "GER"]
+[BlackCountry "HUN"]
+
+1. d4 e6 2. c4 Nf6 3. Nc3 Bb4 4. e3 c5 5. Bd3 O-O 6. Nf3 d5 7. O-O Nbd7 8. cxd5
+exd5 9. a3 Ba5 10. Ne5 cxd4 11. exd4 Bxc3 12. bxc3 Qc7 13. Re1 Qxc3 14. Bg5
+Nxe5 15. dxe5 Ne4 16. Bxe4 dxe4 17. Rxe4 Bf5 18. Re3 Qb2 1/2-1/2

@@ -1,0 +1,21 @@
+[Event "Berlin tt"]
+[Site "Berlin-West"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Keogh, Eamon"]
+[Black "Goldenberg, Richard"]
+[Result "1-0"]
+[ECO "B23"]
+[Opening "Sicilian"]
+[Variation "Grand Prix attack"]
+[HashCode "5ff494b7"]
+[Epoch "Rook"]
+[WhiteID "2500264"]
+[WhiteCountry "IRL"]
+[BlackID "600393"]
+[BlackCountry "FRA"]
+
+1. e4 c5 2. Nc3 Nc6 3. f4 g6 4. Nf3 Bg7 5. d3 d6 6. g3 Rb8 7. Bg2 b5 8. O-O b4
+9. Ne2 e6 10. g4 Nge7 11. Ng3 O-O 12. f5 Ne5 13. Nxe5 Bxe5 14. f6 Nc6 15. g5
+Qb6 16. Qg4 c4+ 17. Kh1 cxd3 18. Qh4 Kh8 19. Qh6 Rg8 20. Rf3 Bxg3 21. Rxg3 e5
+22. Bh3 Qf2 23. Be3 Qe2 24. Bxc8 1-0

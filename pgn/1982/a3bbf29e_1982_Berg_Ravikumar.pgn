@@ -1,0 +1,23 @@
+[Event "Esbjerg-B"]
+[Site "Esbjerg"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Berg, Klaus"]
+[Black "Ravikumar, Vaidyanathan"]
+[Result "0-1"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...g6"]
+[HashCode "a3bbf29e"]
+[Epoch "Rook"]
+[WhiteID "1400053"]
+[WhiteCountry "DEN"]
+[BlackID "5000149"]
+[BlackCountry "IND"]
+
+1. c4 c6 2. e4 d5 3. exd5 cxd5 4. d4 Nf6 5. Nc3 g6 6. Qb3 Bg7 7. cxd5 O-O 8.
+Be2 Nbd7 9. Bf3 Nb6 10. Nge2 Bf5 11. a4 Bd3 12. a5 Bc4 13. Qb4 Bxe2 14. Kxe2
+Nbxd5 15. Qxb7 e6 16. Ra4 Re8 17. g3 Rc8 18. Qb3 Nxc3+ 19. bxc3 e5 20. dxe5
+Rxe5+ 21. Be3 Bh6 22. Rd1 Qe8 23. Rd3 Nd7 24. Re4 Rxe4 25. Bxe4 Qxe4 26. Rxd7
+Qg4+ 27. Ke1 Qxd7 28. Bxh6 Qd3 29. Be3 a6 30. Bd4 Re8+ 31. Be3 h5 32. Qb4 Re4
+33. Qb8+ Kg7 34. Qc7 Qd5 35. Ke2 Ra4 36. Bd2 Qe4+ 37. Kd1 Ra1+ 38. Bc1 Qd3+ 0-1

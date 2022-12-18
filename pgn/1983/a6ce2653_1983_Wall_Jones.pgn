@@ -1,0 +1,17 @@
+[Event "Dayton,OH"]
+[Site "Dayton,OH"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Wall, Bill"]
+[Black "Jones, Ralph"]
+[Result "0-1"]
+[ECO "C65"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence, Beverwijk variation"]
+[HashCode "a6ce2653"]
+[Epoch "Rook"]
+[WhiteCountry "USA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. O-O Nf6 5. Nxe5 Nxe4 6. Bxc6 Nxf2 7. Rxf2
+Bxf2+ 8. Kxf2 dxc6 9. d4 Be6 10. Nc3 Qd6 11. Bf4 O-O-O 12. Ne2 Qb4 13. Nd3 Qb6
+14. Kg1 Bg4 15. c3 Rhe8 16. Ndc1 Qxb2 17. Nd3 Qxe2 18. Qb1 Bf5 19. Nc1 Qe1# 0-1

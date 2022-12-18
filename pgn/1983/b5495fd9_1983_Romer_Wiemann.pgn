@@ -1,0 +1,17 @@
+[Event "corr ch-DDR"]
+[Site "corr ch-DDR"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Romer"]
+[Black "Wiemann"]
+[Result "1-0"]
+[ECO "B17"]
+[Opening "Caro-Kann"]
+[Variation "Steinitz variation"]
+[HashCode "b5495fd9"]
+[Epoch "Rook"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Bc4 Ngf6 6. Ng5 e6 7. Qe2 Nb6
+8. Bb3 h6 9. N5f3 a5 10. a3 a4 11. Ba2 c5 12. c3 Bd7 13. Ne5 Bc6 14. Nxf7
+Kxf7 15. Qxe6+ Kg6 16. Bb1+ 1-0
+

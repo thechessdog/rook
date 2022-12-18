@@ -1,0 +1,19 @@
+[Event "Bratislava"]
+[Site "Bratislava"]
+[Date "1983.01.01"]
+[Round "13"]
+[White "Mokry, Karel"]
+[Black "Sznapik, Aleksander"]
+[Result "1/2-1/2"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical system, 5.Be2"]
+[HashCode "66b457e0"]
+[Epoch "Rook"]
+[WhiteID "306070"]
+[WhiteCountry "CZE"]
+[BlackID "1100050"]
+[BlackCountry "POL"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. Be2 Nf6 5. Nf3 O-O 6. O-O c6 7. h3 Nbd7 8. a4
+e5 9. dxe5 dxe5 10. Bc4 1/2-1/2

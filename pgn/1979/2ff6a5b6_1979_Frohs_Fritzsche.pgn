@@ -1,0 +1,23 @@
+[Event "corr DDR-H"]
+[Site "corr DDR-H"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Frohs, J."]
+[Black "Fritzsche, D."]
+[Result "1-0"]
+[ECO "D94"]
+[Opening "Gruenfeld"]
+[Variation "5.e3"]
+[HashCode "2ff6a5b6"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. e3 Bg7 5. Nf3 O-O 6. Be2 dxc4 7. Bxc4 c5 8.
+O-O cxd4 9. exd4 Bg4 10. Be3 Nc6 11. h3 Bxf3 12. Qxf3 Qc7 13. Bb3 Na5 14.
+Ba4 Nc4 15. Qe2 Nxe3 16. fxe3 Nh5 17. Rf3 e5 18. d5 f5 19. Bb3 Kh8 20. e4
+Nf4 21. Qf1 Rad8 22. Rd1 fxe4 23. Nxe4 Qb6+ 24. Kh2 Qb4 25. Ng5 Bf6 26. Ne6
+Nxe6 27. dxe6 Rxd1 28. Qxd1 Be7 29. Rd3 Qf4+ 30. Kh1 e4 31. Rd7 e3 32. Rxe7
+Qf1+ 33. Kh2 e2 34. Qd4+ Qf6 35. Qxf6+ Rxf6 36. Re8+ Kg7 37. e7 e1=Q 38.
+Rg8+ Kh6 39. e8=Q Qf2 40. Qe5 Rf5 41. Qg3 Qd4 42. Re8 a5 43. Qe3+ Qxe3 44.
+Rxe3 Rf2 45. Re7 b6 46. Bg8 Rxb2 47. h4 Kh5 48. Kh3 g5 49. Rxh7+ Kg6 50.
+h5+ Kf6 1-0
+

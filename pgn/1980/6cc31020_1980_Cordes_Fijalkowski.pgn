@@ -1,0 +1,20 @@
+[Event "Hamburg HSK"]
+[Site "Hamburg"]
+[Date "1980.01.01"]
+[Round "7"]
+[White "Cordes, Hans-Joerg"]
+[Black "Fijalkowski, Marek"]
+[Result "0-1"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Nimzovich (knight's tour) variation"]
+[HashCode "6cc31020"]
+[Epoch "Rook"]
+[BlackID "1102354"]
+[BlackCountry "POL"]
+[WhiteCountry "GER"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. Nd2 Bg7 8. e4
+O-O 9. Be2 b6 10. O-O Na6 11. f4 Nc7 12. a4 Rb8 13. Nc4 Ba6 14. Rb1 Ng4 15. e5
+dxe5 16. d6 Ne6 17. Nxe5 Bxe2 18. Qxe2 Nxe5 19. fxe5 Qh4 20. g4 Rbe8 21. Be3
+Bxe5 22. Nd5 Nd4 23. Qg2 Re6 0-1

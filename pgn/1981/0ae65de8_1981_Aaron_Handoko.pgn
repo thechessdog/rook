@@ -1,0 +1,23 @@
+[Event "Madras"]
+[Site "Madras"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Aaron, Manuel"]
+[Black "Handoko, Edhi"]
+[Result "1-0"]
+[ECO "C43"]
+[Opening "Petrov"]
+[Variation "modern attack, Symmetrical variation"]
+[HashCode "0ae65de8"]
+[Epoch "Rook"]
+[WhiteID "5000092"]
+[WhiteCountry "IND"]
+[BlackCountry "IDN"]
+
+1. e4 e5 2. Nf3 Nf6 3. d4 Nxe4 4. dxe5 d5 5. Nbd2 Nxd2 6. Bxd2 Be7 7. Bd3 Nc6
+8. h3 Be6 9. c3 Qd7 10. O-O a6 11. Qe2 Bf5 12. Rae1 O-O 13. Nd4 Nxd4 14. cxd4
+c5 15. Be3 Rac8 16. f4 cxd4 17. Bxd4 Bc5 18. Bf2 Rfe8 19. Rd1 Red8 20. Kh2 Bxf2
+21. Rxf2 g6 22. Qf3 Bxd3 23. Qxd3 Rc4 24. b3 Re4 25. Qxe4 dxe4 26. Rxd7 Rxd7
+27. Re2 Rd4 28. Kg3 a5 29. Kf2 a4 30. Ke3 Rb4 31. bxa4 Rxa4 32. Rb2 h5 33. g4
+h4 34. f5 gxf5 35. gxf5 Ra3+ 36. Rb3 Rxa2 37. Kxe4 Re2+ 38. Kf4 f6 39. e6 Rf2+
+40. Kg4 Rg2+ 41. Kxh4 Rg7 42. Rd3 b5 43. Rd5 b4 44. Rb5 1-0

@@ -1,0 +1,18 @@
+[Event "Buenos Aires"]
+[Site "Buenos Aires"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Moran"]
+[Black "Bronstein, Luis Marcos"]
+[Result "0-1"]
+[ECO "C46"]
+[Opening "Four knights"]
+[Variation "Italian variation"]
+[HashCode "91040dc0"]
+[Epoch "Rook"]
+[BlackID "100463"]
+[BlackCountry "ARG"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Nc3 Nxe4 5. Bxf7+ Kxf7 6. Nxe4 d5 7. Neg5+
+Kg8 8. d4 h6 9. Nh3 Bg4 10. dxe5 Nxe5 11. Nf4 c6 12. Be3 Qf6 13. Nxd5 Nxf3+ 14.
+Kf1 cxd5 15. Qxd5+ Be6 16. Qxb7 Bc4# 0-1

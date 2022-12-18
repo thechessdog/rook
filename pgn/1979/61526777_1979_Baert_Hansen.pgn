@@ -1,0 +1,20 @@
+[Event "DEN-chJ int"]
+[Site "Hinnerup"]
+[Date "1979.??.??"]
+[Round "3"]
+[White "Baert, Andy"]
+[Black "Hansen, John Nyholm"]
+[Result "0-1"]
+[ECO "B06"]
+[Opening "Robatsch defence"]
+[Variation "Pseudo-Austrian attack"]
+[HashCode "61526777"]
+[Epoch "Rook"]
+[WhiteID "200107"]
+[BlackID "1404156"]
+[WhiteCountry "BEL"]
+[BlackCountry "DEN"]
+
+1. Nc3 g6 2. e4 Bg7 3. d4 d6 4. f4 Nd7 5. Nf3 c5 6. Be3 Ngf6 7. h3 O-O 8. e5
+Nh5 9. Ne2 Bh8 10. g4 Ng7 11. Ng3 cxd4 12. Bxd4 Ne6 13. exd6 Nxd4 14. Nxd4 exd6
+15. Qd2 Qh4 16. Kf2 Nc5 17. Kg2 Qxg3+ 0-1

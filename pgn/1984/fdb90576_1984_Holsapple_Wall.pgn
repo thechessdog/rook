@@ -1,0 +1,17 @@
+[Event "Dayton,OH"]
+[Site "Dayton,OH"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Holsapple, Boyd"]
+[Black "Wall, Bill"]
+[Result "0-1"]
+[ECO "B02"]
+[Opening "Alekhine's defence"]
+[Variation "Brooklyn defence"]
+[HashCode "fdb90576"]
+[Epoch "Rook"]
+[BlackCountry "USA"]
+[WhiteCountry "USA"]
+
+1. e4 Nf6 2. e5 Ng8 3. d4 d6 4. Nf3 c5 5. Bb5+ Bd7 6. Bxd7+ Nxd7 7. c3 g6 8.
+O-O Bg7 9. exd6 exd6 10. Re1+ Ne7 11. Bf4 Nb6 12. dxc5 dxc5 13. Bd6 0-1

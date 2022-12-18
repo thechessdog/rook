@@ -1,0 +1,23 @@
+[Event "Linkoping"]
+[Site "Linkoping"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Engstrom, Kaj"]
+[Black "Johansson, Jan"]
+[Result "0-1"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical, h3 system"]
+[HashCode "a83a19b8"]
+[Epoch "Rook"]
+[WhiteID "1701134"]
+[BlackID "1700103"]
+[WhiteCountry "SWE"]
+[BlackCountry "SWE"]
+
+1. e4 g6 2. d4 Bg7 3. Nf3 d6 4. h3 Nf6 5. Nc3 O-O 6. Be2 c6 7. O-O Qc7 8. Be3
+Nbd7 9. Qd2 e5 10. Bh6 b5 11. Bxg7 Kxg7 12. a3 Bb7 13. Nh4 a5 14. dxe5 dxe5 15.
+Bd3 b4 16. Nd1 c5 17. f3 Nh5 18. Ne3 Nf4 19. g3 Nh5 20. Kh2 Kh8 21. c4 Nb8 22.
+Nd5 Qd8 23. Be2 Nc6 24. Qh6 Nd4 25. Bd1 Nf6 26. f4 Ng8 27. Qg5 f6 28. Qg4 Nh6
+29. Nxg6+ Kg7 30. Qh4 hxg6 31. g4 g5 32. fxg5 fxg5 33. Rxf8 gxh4 34. Rxd8 Rxd8
+35. axb4 axb4 36. Ra7 Rb8 37. Ba4 Nf7 0-1

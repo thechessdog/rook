@@ -1,0 +1,19 @@
+[Event "New Hampshire"]
+[Site "New Hampshire"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Kmiec, R."]
+[Black "Curdo, John"]
+[Result "0-1"]
+[ECO "C33"]
+[Opening "KGA"]
+[Variation "bishop's gambit"]
+[HashCode "6a21cc02"]
+[Epoch "Rook"]
+[BlackID "2001705"]
+[BlackCountry "USA"]
+
+1. f4 e5 2. e4 exf4 3. Bc4 Qh4+ 4. Kf1 d5 5. Nf3 Qh5 6. exd5 Bd6 7. Nc3 Ne7 8.
+d4 O-O 9. Ne4 Nxd5 10. Nxd6 cxd6 11. Bxd5 Qxd5 12. Bxf4 Nc6 13. c3 Bg4 14. h3
+Bh5 15. Kf2 Rae8 16. c4 Qxc4 17. Bxd6 Bxf3 18. gxf3 Nxd4 19. Bxf8 Re2+ 20. Kg3
+Nf5# 0-1

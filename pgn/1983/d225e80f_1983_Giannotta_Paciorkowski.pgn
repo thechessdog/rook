@@ -1,0 +1,18 @@
+[Event "Dayton,OH"]
+[Site "Dayton,OH"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Giannotta"]
+[Black "Paciorkowski"]
+[Result "1-0"]
+[ECO "D21"]
+[Opening "QGA"]
+[Variation "Alekhine defense, Borisenko-Furman variation"]
+[HashCode "d225e80f"]
+[Epoch "Rook"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 a6 4. e4 b5 5. a4 c6 6. axb5 cxb5 7. b3 cxb3 8.
+Qxb3 e6 9. Bxb5+ Nd7 10. Bc6 Ra7 11. Be3 Rc7 12. d5 exd5 13. exd5 Bd6 14.
+O-O Ne7 15. Bb6 Nxc6 16. Bxc7 Qxc7 17. dxc6 Qxc6 18. Re1+ Be7 19. Qc3 Qxc3
+20. Nxc3 f6 21. Nd5 1-0
+

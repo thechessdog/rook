@@ -1,0 +1,24 @@
+[Event "Regionalliga Nord"]
+[Site "RLN 8081"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Krause, Ullrich"]
+[Black "Heyken, Enno"]
+[Result "0-1"]
+[ECO "A56"]
+[Opening "Czech Benoni defence"]
+[HashCode "b98e014b"]
+[Epoch "Rook"]
+[WhiteID "4613058"]
+[WhiteCountry "GER"]
+[BlackID "4600401"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e5 4. Nc3 d6 5. e4 Be7 6. Be2 Nbd7 7. Be3 O-O 8. h3
+Ne8 9. Qd2 g6 10. g4 Ng7 11. Bh6 Nf6 12. O-O-O Kh8 13. Nf3 a6 14. Rdg1 Rb8 15.
+Ne1 b5 16. cxb5 axb5 17. f3 c4 18. a3 Ng8 19. Be3 b4 20. axb4 Rxb4 21. Nc2 Rb8
+22. Bxc4 Bd7 23. h4 f6 24. h5 g5 25. b3 h6 26. Qd3 Qc7 27. Kd2 Ra8 28. Ra1 Rfb8
+29. Rxa8 Rxa8 30. Ra1 Rxa1 31. Nxa1 Bd8 32. Nc2 Qb7 33. Bb5 Bxb5 34. Qxb5 Qf7
+35. b4 Kh7 36. Qc6 f5 37. exf5 Nf6 38. Qxd6 Bc7 39. Qc6 Nge8 40. Bc5 e4 41. d6
+Bb8 42. Nxe4 Nxe4+ 43. fxe4 Nf6 44. d7 Bf4+ 45. Kd1 Qb3 46. Bf2 Qd3+ 47. Ke1
+Bd2+ 48. Kd1 Be3+ 49. Ke1 Qd2+ 50. Kf1 Qxf2# 0-1

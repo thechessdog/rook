@@ -1,0 +1,21 @@
+[Event "Aarhus-B"]
+[Site "Aarhus"]
+[Date "1983.01.01"]
+[Round "6"]
+[White "Jensen, Vagn"]
+[Black "Rasmussen, Karsten"]
+[Result "0-1"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...e6"]
+[HashCode "bf779f19"]
+[Epoch "Rook"]
+[BlackID "1400088"]
+[BlackCountry "DEN"]
+[WhiteID "1400851"]
+[WhiteCountry "DEN"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 e6 6. Nf3 Bb4 7. Bd3 O-O 8. O-O
+dxc4 9. Bxc4 a6 10. Bg5 Nbd7 11. Qe2 b5 12. Bb3 Bb7 13. Rfd1 Nb6 14. Ne5 h6 15.
+Bh4 Bxc3 16. bxc3 Nbd5 17. Ng4 Nf4 18. Qd2 N4d5 19. Re1 Kh8 20. Nxh6 Qc7 21.
+Bxf6 Nxf6 22. Qg5 Nh7 23. Qh4 gxh6 24. Qxh6 Rg8 25. d5 Bxd5 0-1

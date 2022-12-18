@@ -1,0 +1,20 @@
+[Event "corr Italy"]
+[Site "corr Italy"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Monti"]
+[Black "Olivieri"]
+[Result "0-1"]
+[ECO "C41"]
+[Opening "Philidor"]
+[Variation "Improved Hanham variation"]
+[HashCode "1ac99ff5"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 d6 3. d4 Nf6 4. Nc3 Nbd7 5. Bc4 Be7 6. Ng5 O-O 7. dxe5 dxe5
+8. Bxf7+ Rxf7 9. Ne6 Qe8 10. Nxc7 Qd8 11. Nxa8 b5 12. Nd5 Bd6 13. Qd3 Bb7
+14. Nxf6+ Qxf6 15. f3 Bxa8 16. Qxb5 Qh4+ 17. g3 Qh5 18. Qe2 Qxf3 19. Qxf3
+Rxf3 20. Rf1 Rxf1+ 21. Kxf1 Bxe4 22. c3 Bc5 23. Bg5 h6 24. Bd8 Bd3+ 25. Ke1
+e4 26. b4 Bd6 27. Rd1 Ne5 28. h3 Nc6 29. Ba5 Bxg3+ 30. Kd2 Ne5 31. Ke3 Nc4+
+0-1
+

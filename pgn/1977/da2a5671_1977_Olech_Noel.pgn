@@ -1,0 +1,16 @@
+[Event "Atlantic City"]
+[Site "Atlantic City"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Olech, M."]
+[Black "Noel, Richard W"]
+[Result "1-0"]
+[ECO "D46"]
+[Opening "QGD semi-Slav"]
+[Variation "Chigorin defence"]
+[HashCode "da2a5671"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 c6 3. Nc3 d5 4. e3 e6 5. Nf3 Bd6 6. Bd3 Nbd7 7. O-O O-O 8. Qc2
+dxc4 9. Bxc4 e5 10. Rd1 Qc7 11. h3 Re8 12. Ng5 Re7 13. Qb3 Nb6 14. Bxf7+ Rxf7
+15. dxe5 Bxe5 16. Nxf7 Bh2+ 17. Kh1 Nbd5 18. Nxd5 1-0

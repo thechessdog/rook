@@ -1,0 +1,16 @@
+[Event "New Jersey"]
+[Site "New Jersey"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Reeder"]
+[Black "Peria"]
+[Result "1-0"]
+[ECO "B27"]
+[Opening "Sicilian"]
+[Variation "Hungarian variation"]
+[HashCode "0aa2538d"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 g6 3. d4 cxd4 4. Nxd4 e5 5. Nb5 Qa5+ 6. N1c3 Bb4 7. Nd6+
+Bxd6 8. Qxd6 Nc6 9. Bd2 Qd8 10. Nd5 Nge7 11. Nf6+ Kf8 12. Bh6# 1-0
+

@@ -1,0 +1,20 @@
+[Event "Kopenhagen open"]
+[Site "Kopenhagen open"]
+[Date "1980.06.01"]
+[Round "7"]
+[White "Brinck-Claussen, Bjorn"]
+[Black "Holm Petersen, Sejer"]
+[Result "1-0"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Nimzovich (knight's tour) variation"]
+[HashCode "33b95ece"]
+[Epoch "Rook"]
+[WhiteCountry "DEN"]
+[BlackCountry "DNK"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. Nd2 Nbd7 8. e4
+Bg7 9. Bd3 O-O 10. Nc4 Nb6 11. Ne3 Bd7 12. a4 Qe7 13. a5 Nc8 14. O-O a6 15. Re1
+Ne8 16. Qb3 Ra7 17. Nc4 Bd4 18. Be3 Bxe3 19. Rxe3 Qd8 20. h3 Ng7 21. e5 dxe5
+22. Rxe5 Nh5 23. Bf1 Qc7 24. Ne4 Bb5 25. Rxh5 Qf4 26. Re5 Bxc4 27. Qc3 b5 28.
+axb6 Nxb6 29. g3 Nxd5 30. Rxd5 Qxe4 31. Qxc4 1-0

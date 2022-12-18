@@ -1,0 +1,18 @@
+[Event "Netherlands"]
+[Site "Netherlands"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Zakic"]
+[Black "De Wit"]
+[Result "0-1"]
+[ECO "C06"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation, main line"]
+[HashCode "34d4f2c6"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Bd3 c5 6. c3 Nc6 7. Ne2 cxd4 8.
+cxd4 f6 9. exf6 Nxf6 10. Nf3 Qb6 11. O-O Bd6 12. Nc3 O-O 13. a3 Bd7 14. b4
+e5 15. dxe5 Nxe5 16. Nxe5 Bxe5 17. Bd2 Bxh2+ 18. Kxh2 Ng4+ 19. Kg1 Rxf2 20.
+Kh1 Qd6 0-1
+

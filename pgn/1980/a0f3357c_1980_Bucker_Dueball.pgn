@@ -1,0 +1,21 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Buecker, Stefan"]
+[Black "Dueball, Juergen"]
+[Result "1-0"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Wade variation"]
+[HashCode "a0f3357c"]
+[Epoch "Rook"]
+[WhiteID "4601424"]
+[BlackID "4600185"]
+[WhiteCountry "GER"]
+[BlackCountry "GER"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Qb6 5. Nf3 Bd7 6. a3 Bb5 7. c4 dxc4 8. d5 exd5
+9. Qxd5 Bc6 10. Qxc4 Bxf3 11. gxf3 Nc6 12. Nc3 Nge7 13. Be3 O-O-O 14. f4 Ng6
+15. Nd5 Qxb2 16. Bh3+ Kb8 17. O-O Nd4 18. Rab1 Qe2 19. Rxb7+ Kxb7 20. Rb1+ Kc6
+21. Bg2 Nf3+ 22. Bxf3 Qxf3 23. Qb5+ 1-0

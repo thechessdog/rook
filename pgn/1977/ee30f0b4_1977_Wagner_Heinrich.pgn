@@ -1,0 +1,22 @@
+[Event "corr DDR-FSM"]
+[Site "corr DDR-FSM"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Wagner, H."]
+[Black "Heinrich, H."]
+[Result "1-0"]
+[ECO "B85"]
+[Opening "Sicilian"]
+[Variation "Scheveningen, classical, Maroczy system"]
+[HashCode "ee30f0b4"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e6 7. O-O Be7 8.
+f4 Qc7 9. a4 Nc6 10. Kh1 O-O 11. Nb3 Na5 12. Nxa5 Qxa5 13. Qe1 Qc7 14. Bf3
+Bd7 15. Be3 Bc6 16. a5 Nd7 17. Qf2 Rac8 18. g4 Kh8 19. g5 f5 20. Qg2 fxe4
+21. Bg4 d5 22. Bxe6 d4 23. Bxd4 Qd6 24. Bxd7 Qxd7 25. Rad1 Qf5 26. Be3 Bc5
+27. Qg3 Rcd8 28. Rxd8 Rxd8 29. h3 Bxe3 30. Qxe3 Rd2 31. Rd1 Rxd1+ 32. Nxd1
+Qxa5 33. Kh2 Qb4 34. Kg3 Qd6 35. Qa3 Qd8 36. Ne3 h6 37. h4 hxg5 38. hxg5
+Kh7 39. Qc5 Be8 40. Qf5+ Bg6 41. Qh3+ Kg8 42. Qe6+ Kh7 43. Nd5 Qa5 44. f5
+Qe1+ 45. Kf4 Qf2+ 46. Ke5 Bh5 47. Qe7 Qg3+ 48. Ke6 1-0
+

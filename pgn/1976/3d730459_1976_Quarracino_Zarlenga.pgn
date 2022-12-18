@@ -1,0 +1,17 @@
+[Event "Buenos Aires ch-ARG"]
+[Site "Buenos Aires ch-ARG"]
+[Date "1976.01.01"]
+[Round "7"]
+[White "Quarracino, C."]
+[Black "Zarlenga, M."]
+[Result "1-0"]
+[ECO "B20"]
+[Opening "Sicilian"]
+[Variation "Keres variation (2.Ne2)"]
+[HashCode "3d730459"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Ne2 d6 3. g3 Nc6 4. Bg2 Bd7 5. O-O g6 6. c3 Bg7 7. d4 e5 8. d5 Nce7
+9. a4 Qc8 10. Na3 Nh6 11. Nc4 Qb8 12. f4 b5 13. axb5 Bxb5 14. Na3 f6 15. fxe5
+fxe5 16. Bh3 Bd7 17. Bxd7+ Kxd7 18. Qa4+ Kd8 19. Bg5 Rf8 20. Rxf8+ Bxf8 21. Qc6
+Nf7 22. Rf1 1-0

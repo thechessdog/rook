@@ -1,0 +1,19 @@
+[Event "corr DDR-H"]
+[Site "corr DDR-H"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Hein, R."]
+[Black "Weder, E."]
+[Result "1-0"]
+[ECO "D87"]
+[Opening "Gruenfeld"]
+[Variation "exchange, Spassky variation"]
+[HashCode "decd1198"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Bc4 O-O
+8. Ne2 c5 9. O-O Nc6 10. Be3 Qc7 11. Rc1 Rd8 12. f4 Bg4 13. f5 gxf5 14.
+Bxf7+ Kh8 15. Bd5 cxd4 16. cxd4 fxe4 17. Bxe4 e6 18. Qe1 Bxe2 19. Qxe2 Bxd4
+20. Bxd4+ Rxd4 21. Rf6 Qe5 22. Qf3 Ne7 23. Bxh7 Nf5 24. Bxf5 Qxf6 25. Qxb7
+exf5 26. Qxa8+ Rd8 27. Qxa7 Qe5 28. a4 1-0
+

@@ -1,0 +1,18 @@
+[Event "BL2-N 8384"]
+[Site "BL2-N 8384"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Berndt, Mi"]
+[Black "Brunner, Lucas"]
+[Result "0-1"]
+[ECO "A04"]
+[Opening "Reti opening"]
+[HashCode "aceb351c"]
+[Epoch "Rook"]
+[BlackID "1300024"]
+[BlackCountry "SUI"]
+
+1. Nf3 g6 2. e4 d6 3. d4 Nf6 4. Bd3 Bg7 5. O-O O-O 6. c3 Nc6 7. Re1 e5 8. Bg5
+h6 9. Bxf6 Bxf6 10. Bb5 Bg4 11. Bxc6 bxc6 12. dxe5 dxe5 13. Qxd8 Rfxd8 14. Nbd2
+Rab8 15. b3 Rd3 16. c4 Rbd8 17. h3 Be6 18. Red1 Bg5 19. Kf1 Bxd2 20. Ke2 Bc3
+21. Rxd3 Rxd3 22. Rc1 Rxf3 23. Kxf3 Bd4 24. Ke2 a5 25. Kd3 Bxf2 0-1

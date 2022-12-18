@@ -1,0 +1,19 @@
+[Event "Lodz"]
+[Site "Lodz"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Balinas, Rosendo Carrean"]
+[Black "Farago, Ivan"]
+[Result "1/2-1/2"]
+[ECO "C01"]
+[Opening "French"]
+[Variation "exchange variation"]
+[HashCode "3e02f072"]
+[Epoch "Rook"]
+[BlackID "700134"]
+[BlackCountry "HUN"]
+[WhiteCountry "PHL"]
+
+1. d4 e6 2. e4 d5 3. exd5 exd5 4. Bd3 Nc6 5. Nf3 Bg4 6. c3 Qd7 7. h3 Bh5 8. O-O
+Bd6 9. Nbd2 Nge7 10. Re1 O-O-O 11. b4 Ng6 12. Qc2 Nce7 13. Ne5 Bxe5 14. dxe5
+Nf4 15. Nb3 Nxd3 1/2-1/2

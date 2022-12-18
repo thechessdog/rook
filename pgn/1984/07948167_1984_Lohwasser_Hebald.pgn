@@ -1,0 +1,18 @@
+[Event "corr DDR/FS"]
+[Site "corr DDR/FS"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Lohwasser"]
+[Black "Hebald"]
+[Result "0-1"]
+[ECO "E30"]
+[Opening "Nimzo-Indian"]
+[Variation "Leningrad variation"]
+[HashCode "07948167"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Bg5 h6 5. Bh4 c5 6. d5 Bxc3+ 7. bxc3 e5 8.
+Qc2 d6 9. e4 g5 10. Bg3 Nh5 11. Be2 Ng7 12. Bd3 Nd7 13. Ne2 Nf8 14. O-O Ng6
+15. f3 Nh5 16. Bf2 Ngf4 17. Nxf4 gxf4 18. Rfb1 Rg8 19. Kf1 Qg5 20. Be1 Bh3
+21. Rb2 Nf6 22. Qf2 Qh5 0-1
+

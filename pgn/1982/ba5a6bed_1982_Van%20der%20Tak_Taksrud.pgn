@@ -1,0 +1,17 @@
+[Event "corr Volmac"]
+[Site "corr Volmac"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Van der Tak, A."]
+[Black "Taksrud, V."]
+[Result "1-0"]
+[ECO "C70"]
+[Opening "Ruy Lopez"]
+[Variation "Schliemann defence deferred"]
+[HashCode "ba5a6bed"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 f5 5. d4 exd4 6. e5 Bc5 7. O-O Nge7 8.
+Bb3 d5 9. exd6 Qxd6 10. Re1 Bd7 11. Bg5 O-O-O 12. Nbd2 Rhe8 13. Bf7 Ba7 14.
+Nc4 Qb4 15. a3 Qb5 16. Nfe5 Rf8 17. a4 1-0
+

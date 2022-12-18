@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Steinberg"]
+[Black "Suesman"]
+[Result "0-1"]
+[ECO "D51"]
+[Opening "QGD"]
+[Variation "4.Bg5 Nbd7"]
+[HashCode "82f0d5aa"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Bg5 Nbd7 5. cxd5 exd5 6. e3 Be7 7. Bd3 c6
+8. Qc2 O-O 9. Nf3 Re8 10. O-O Nf8 11. Rab1 Ng6 12. b4 a6 13. Ne5 Ng4 14.
+Bxe7 Qxe7 15. Nf3 Nh4 16. Nd2 Qg5 17. g3 Nxh2 18. Kxh2 Qg4 19. gxh4 Qxh4+
+0-1
+

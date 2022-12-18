@@ -1,0 +1,22 @@
+[Event "Lone Pine open"]
+[Site "Lone Pine open"]
+[Date "1979.03.01"]
+[Round "2"]
+[White "Ligterink, Gert"]
+[Black "Youngworth, Perry"]
+[Result "1-0"]
+[ECO "B58"]
+[Opening "Sicilian"]
+[Variation "Boleslavsky variation"]
+[HashCode "59cec776"]
+[Epoch "Rook"]
+[WhiteID "1000179"]
+[WhiteCountry "NED"]
+[BlackID "2001004"]
+[BlackCountry "USA"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Be2 e5 7. Nf3 h6 8. O-O
+Be7 9. b3 Be6 10. Bb2 O-O 11. Nd2 a6 12. a4 Nd4 13. Bd3 d5 14. exd5 Nxd5 15.
+Nxd5 Bxd5 16. Qh5 Bg5 17. f4 g6 18. Qd1 Bf6 19. f5 Qb6 20. Kh1 Qc6 21. Qg4 h5
+22. Qg3 e4 23. c4 exd3 24. cxd5 Qc2 25. Ne4 Qxb2 26. Nxf6+ Kh8 27. fxg6 Nf5 28.
+g7+ Nxg7 29. Qg5 1-0

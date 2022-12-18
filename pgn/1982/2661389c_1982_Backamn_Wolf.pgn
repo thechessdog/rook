@@ -1,0 +1,21 @@
+[Event "corr EU"]
+[Site "corr EU"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Backamn"]
+[Black "Wolf"]
+[Result "0-1"]
+[ECO "B36"]
+[Opening "Sicilian"]
+[Variation "accelerated fianchetto, Gurgenidze variation"]
+[HashCode "2661389c"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6 5. c4 Nf6 6. Nc3 Nxd4 7. Qxd4 d6
+8. Bg5 Bg7 9. Qd2 O-O 10. Bd3 Qa5 11. Rc1 Be6 12. O-O Rfc8 13. b3 a6 14.
+Rfe1 b5 15. Nd5 Qxd2 16. Bxd2 Bxd5 17. exd5 bxc4 18. Bxc4 Kf8 19. b4 Nd7
+20. Bxa6 Rcb8 21. Rc6 Nb6 22. b5 Nxd5 23. Re4 Nb6 24. Bg5 Nd5 25. a4 Bb2
+26. Kf1 Ba3 27. Ke2 Bc5 28. Bd2 Ke8 29. g4 Kd7 30. g5 e5 31. Rh4 Ne7 32.
+Rxc5 dxc5 33. Rxh7 Ke6 34. Rh4 Nf5 35. Rc4 Kd5 36. Rc1 Nd4+ 37. Ke3 Ra7 38.
+a5 Rh8 0-1
+

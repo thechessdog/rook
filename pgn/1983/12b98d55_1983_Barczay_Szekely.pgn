@@ -1,0 +1,19 @@
+[Event "Kecskemet"]
+[Site "Kecskemet"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Barczay, Laszlo"]
+[Black "Szekely, Peter"]
+[Result "1/2-1/2"]
+[ECO "E92"]
+[Opening "King's Indian"]
+[Variation "Andersson variation"]
+[HashCode "12b98d55"]
+[Epoch "Rook"]
+[BlackID "14937492"]
+[BlackCountry "SVK"]
+[WhiteCountry "HUN"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. dxe5 dxe5 8.
+Qxd8 Rxd8 9. Bg5 Na6 10. Nd5 Rd6 11. Bxf6 Bxf6 12. O-O-O Bg4 13. Ng1 Bxe2 14.
+Nxe2 Kg7 15. Ndc3 1/2-1/2

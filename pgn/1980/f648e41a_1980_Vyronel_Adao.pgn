@@ -1,0 +1,15 @@
+[Event "Mexico"]
+[Site "Mexico"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Vyronel"]
+[Black "Adao"]
+[Result "1-0"]
+[ECO "C44"]
+[Opening "Scotch gambit"]
+[HashCode "f648e41a"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 Bb4+ 5. c3 dxc3 6. bxc3 Be7 7. Qd5
+Nh6 8. Bxh6 O-O 9. Bg5 1-0
+

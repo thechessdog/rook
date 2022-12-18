@@ -1,0 +1,25 @@
+[Event "Elekes mem-B"]
+[Site "Budapest"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Banas, Jan"]
+[Black "Glatt, Gabor"]
+[Result "0-1"]
+[ECO "B80"]
+[Opening "Sicilian"]
+[Variation "Scheveningen, fianchetto variation"]
+[HashCode "8fee561c"]
+[Epoch "Rook"]
+[BlackID "701866"]
+[BlackCountry "HUN"]
+[WhiteID "14900076"]
+[WhiteCountry "SVK"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. g3 Be7 7. Bg2 O-O 8. O-O
+a6 9. f4 Qc7 10. g4 Nc6 11. Nxc6 bxc6 12. g5 Nd7 13. Qh5 g6 14. Qh6 f6 15. Be3
+fxg5 16. f5 Ne5 17. fxg6 Nxg6 18. Rxf8+ Bxf8 19. Qxg5 Rb8 20. b3 Qg7 21. Bd2
+Be7 22. Qh6 Qxh6 23. Bxh6 Bf6 24. Bd2 Nh4 25. Re1 Rb7 26. Bh1 Bd4+ 27. Kf1 Rf7+
+28. Ke2 Rf2+ 29. Kd3 Be5 30. Rg1+ Kf7 31. h3 Rh2 32. Na4 Rxh3+ 33. Ke2 Bd4 34.
+Rf1+ Kg7 35. c3 Ba7 36. c4 e5 37. c5 Bg4+ 38. Ke1 dxc5 39. Bc3 Ng6 40. Rg1 h5
+41. Bg2 Rg3 42. Kf1 c4 43. Rh1 cxb3 44. axb3 Rd3 45. b4 Rd1+ 46. Be1 Nf4 47.
+Nc5 Bxc5 48. bxc5 Nd3 0-1

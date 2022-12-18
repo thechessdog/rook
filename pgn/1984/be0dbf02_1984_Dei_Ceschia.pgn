@@ -1,0 +1,19 @@
+[Event "Torino"]
+[Site "Torino"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Dei"]
+[Black "Ceschia"]
+[Result "0-1"]
+[ECO "B66"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...a6"]
+[HashCode "be0dbf02"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 e6 7. Qd2 a6 8.
+O-O-O h6 9. Bh4 Nxe4 10. Qf4 Ng5 11. Nxc6 bxc6 12. Qe3 Qa5 13. Bd3 Qb4 14.
+f4 Rb8 15. a3 Qxb2+ 16. Kd2 Rb3 17. Na4 Rxd3+ 18. Qxd3 Qb5 19. Qxb5 cxb5
+20. fxg5 bxa4 21. Kc3 hxg5 22. Bxg5 f6 23. Bf4 e5 24. Be3 Bb7 25. Rd2 d5
+0-1
+

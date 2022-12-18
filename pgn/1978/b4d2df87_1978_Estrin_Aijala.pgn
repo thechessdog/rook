@@ -1,0 +1,18 @@
+[Event "corr EUR/K"]
+[Site "corr EUR/K"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Estrin, Yakov Borisovich"]
+[Black "Aijala, Jorma"]
+[Result "1-0"]
+[ECO "C04"]
+[Opening "French"]
+[Variation "Tarrasch, Guimard main line"]
+[HashCode "b4d2df87"]
+[Epoch "Rook"]
+[WhiteCountry "RUS"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nc6 4. Ngf3 Nf6 5. e5 Nd7 6. Nb3 Be7 7. Bb5 O-O 8. O-O
+Nb6 9. Re1 Bd7 10. Bd3 Nb4 11. Bf1 a5 12. c3 Nc6 13. Nc5 Bc8 14. Bd3 Bxc5 15.
+dxc5 Nd7 16. Bxh7+ Kh8 17. Bc2 Nxc5 18. Nd4 Ne4 19. Qh5+ Kg8 20. f3 g6 21. Qh6
+Nc5 22. Bg5 1-0

@@ -1,0 +1,21 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Grigutsch"]
+[Black "Wunsche"]
+[Result "0-1"]
+[ECO "A19"]
+[Opening "English"]
+[Variation "Mikenas-Carls, Sicilian variation"]
+[HashCode "0a1d0ba9"]
+[Epoch "Rook"]
+
+1. c4 Nf6 2. Nc3 e6 3. e4 c5 4. e5 Ng8 5. Nf3 Nc6 6. d4 cxd4 7. Nxd4 Nxe5
+8. Bf4 Ng6 9. Bg3 e5 10. Ndb5 a6 11. Qa4 Nf6 12. Bd3 Bc5 13. Bxg6 fxg6 14.
+O-O-O O-O 15. Bxe5 Ng4 16. Bd6 axb5 17. Qxa8 Bxd6 18. Rxd6 Nxf2 19. Re1
+bxc4 20. Kc2 Nd3 21. Re2 Qg5 22. Rd2 Qe5 23. Qb8 Qe1 24. Rd1 Qf2+ 25. Rd2
+Qf1 26. Rd1 Qxg2+ 27. Rd2 Qg1 28. Nd1 Qc5 29. Nc3 Rf1 30. Nd1 Nb4+ 31. Kb1
+Qf5+ 32. Ka1 Rxd1+ 33. Rxd1 Nc2+ 34. Kb1 Na3+ 35. Ka1 Qb1+ 36. Rxb1 Nc2#
+0-1
+

@@ -1,0 +1,21 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Ziese"]
+[Black "Floter"]
+[Result "0-1"]
+[ECO "D86"]
+[Opening "Gruenfeld"]
+[Variation "exchange, Simagin's improved variation"]
+[HashCode "fbf03a6e"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Bc4 O-O
+8. Ne2 Nc6 9. Bg5 Qd7 10. Qd2 Na5 11. Bd3 c5 12. Bh6 cxd4 13. cxd4 b6 14.
+h4 Bb7 15. Bxg7 Kxg7 16. h5 e6 17. e5 Rh8 18. Qf4 Qe7 19. h6+ Kf8 20. O-O
+Nc6 21. a3 Rd8 22. Bb5 a6 23. Bxc6 Bxc6 24. Rfc1 Bd5 25. a4 g5 26. Qg3 Rg8
+27. Qa3 Qxa3 28. Rxa3 Ke7 29. Rc7+ Rd7 30. Rac3 b5 31. axb5 axb5 32. R3c5
+Rb8 33. Nc3 b4 34. Nxd5+ exd5 35. Rxd7+ Kxd7 36. Rc2 b3 37. Rb2 Rb4 38. f3
+Kc6 0-1
+

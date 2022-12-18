@@ -1,0 +1,18 @@
+[Event "corr Cup Latin"]
+[Site "corr Cup Latin"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Menal"]
+[Black "Mariotti, Sergio"]
+[Result "0-1"]
+[ECO "C88"]
+[Opening "Ruy Lopez"]
+[Variation "closed, anti-Marshall 8.a4"]
+[HashCode "3d80bb92"]
+[Epoch "Rook"]
+[BlackID "800023"]
+[BlackCountry "ITA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. a4
+Bb7 9. c3 Na5 10. Bc2 d5 11. exd5 e4 12. Nd4 Qxd5 13. f3 Bc5 14. fxe4 Bxd4+ 15.
+Kh1 Qg5 16. cxd4 Ng4 17. Kg1 Qf4 18. Qf3 Qxh2+ 19. Kf1 Qh4 0-1

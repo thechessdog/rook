@@ -1,0 +1,23 @@
+[Event "corr ch-CSSR"]
+[Site "corr ch-CSSR"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Sykora, Robert"]
+[Black "Jezek"]
+[Result "0-1"]
+[ECO "A28"]
+[Opening "English"]
+[Variation "four knights system"]
+[HashCode "1f7a95fc"]
+[Epoch "Rook"]
+
+1. c4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. d4 exd4 5. Nxd4 Bb4 6. g3 Ne4 7. Qd3 Nxc3
+8. bxc3 Qf6 9. Qe3+ Kd8 10. Nxc6+ bxc6 11. Bd2 Re8 12. Qd4 Qxd4 13. cxd4
+Rb8 14. Kd1 c5 15. Rb1 Rb6 16. Bxb4 cxb4 17. Kd2 Ra6 18. Rb2 Ra3 19. Bg2 d6
+20. Bc6 Bd7 21. Bxd7 Kxd7 22. Ra1 c5 23. Rb3 Ra6 24. e3 Ra4 25. Rd3 cxd4
+26. exd4 d5 27. cxd5 Kd6 28. a3 Kxd5 29. Re3 Re4 30. Kc2 f5 31. Rf3 g6 32.
+h4 h5 33. Kb3 Rxa3+ 34. Rxa3 bxa3 35. Kxa3 Rxd4 36. Kb3 Rd2 37. Rf4 Re2 38.
+Kc3 Ke5 39. Kd3 Re4 40. Rf3 f4 41. Kd2 Ra4 42. Rc3 Kd5 43. Ke2 a5 44. Kf3
+fxg3 45. fxg3 Rc4 46. Rd3+ Kc5 47. Rd8 a4 48. Ra8 Kb4 49. Ra6 a3 50. Rxg6
+a2 0-1
+

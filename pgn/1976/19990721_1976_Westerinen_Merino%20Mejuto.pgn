@@ -1,0 +1,24 @@
+[Event "Caracas"]
+[Site "Caracas"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Westerinen, Heikki M.J."]
+[Black "Merino Mejuto, D."]
+[Result "1-0"]
+[ECO "B31"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (with ...g6, without ...d6)"]
+[HashCode "19990721"]
+[Epoch "Rook"]
+[WhiteID "500020"]
+[WhiteCountry "FIN"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. c3 e5 6. d4 cxd4 7. cxd4 exd4 8.
+Bf4 Nge7 9. Bd6 O-O 10. Nbd2 b6 11. Re1 Bb7 12. Rc1 a6 13. Bc4 Rc8 14. b4 h6
+15. a3 Kh7 16. e5 f6 17. exf6 Rxf6 18. Ne4 Nf5 19. Nxf6+ Qxf6 20. Bg3 Nxg3 21.
+hxg3 Ne7 22. Qxd4 b5 23. Qxf6 Bxf6 24. Bd3 Rxc1 25. Rxc1 Bb2 26. Rb1 Bf6 27.
+Nd2 Nd5 28. Be4 Bc6 29. Rb3 Nc3 30. Bxc6 dxc6 31. Nb1 Ne2+ 32. Kf1 Nd4 33. Re3
+Kg7 34. Re8 Kf7 35. Ra8 Ke6 36. Rxa6 Kd5 37. Nc3+ Kc4 38. Ne2 Kb3 39. Nxd4+
+Bxd4 40. Rxc6 Kxa3 41. Rxg6 Kxb4 42. Rxh6 Kc3 43. Ke2 Kc2 44. Rc6+ Bc3 45. f4
+b4 46. g4 b3 47. g5 b2 48. Rb6 b1=Q 49. Rxb1 Kxb1 50. Kd3 Kb2 51. f5 Kb3 52. f6
+Kb4 53. Ke4 Kc5 54. Kf5 Kd6 55. g6 1-0

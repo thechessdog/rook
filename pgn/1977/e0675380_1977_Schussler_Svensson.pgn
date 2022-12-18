@@ -1,0 +1,22 @@
+[Event "Sweden"]
+[Site "Sweden"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Schussler, Harry"]
+[Black "Svensson, Gert"]
+[Result "1-0"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Byrne (English) attack"]
+[HashCode "e0675380"]
+[Epoch "Rook"]
+[WhiteID "1700081"]
+[WhiteCountry "SWE"]
+[BlackID "1701533"]
+[BlackCountry "SWE"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e5 7. Nb3 Be7 8. f3
+Be6 9. Qd2 O-O 10. O-O-O Nbd7 11. g4 Nb6 12. g5 Ne8 13. f4 exf4 14. Bxf4 Nc4
+15. Bxc4 Bxc4 16. h4 a5 17. Nd4 d5 18. b3 Qb6 19. Na4 Qa6 20. bxc4 Qxc4 21. Nc3
+Bb4 22. Ndb5 Rc8 23. Rh3 Qc5 24. Qxd5 Ba3+ 25. Kb1 Qb6 26. Na4 Qf2 27. Qd2 Rd8
+28. Qxd8 Nd6 29. Qb6 Qe2 30. Nac3 Qg4 31. Nxa3 Qxh3 32. Bxd6 1-0

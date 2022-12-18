@@ -1,0 +1,19 @@
+[Event "corr ch-DDR"]
+[Site "corr ch-DDR"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Weinitschke"]
+[Black "Kampfhenkel"]
+[Result "0-1"]
+[ECO "C72"]
+[Opening "Ruy Lopez"]
+[Variation "modern Steinitz defence, 5.O-O"]
+[HashCode "fd7ba527"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. O-O Bg4 6. h3 h5 7. d4 b5 8. Bb3
+Nxd4 9. hxg4 hxg4 10. Ng5 Nh6 11. c3 Nxb3 12. axb3 Be7 13. Qd5 O-O 14. f4
+c6 15. Qd2 exf4 16. Qxf4 Bf6 17. e5 Bxe5 18. Qe4 f5 19. Qxc6 f4 20. Ne6 Qh4
+21. Bxf4 g3 22. Rf3 Rae8 23. Nxf8 Bd4+ 24. Be3 Bxe3+ 25. Kf1 Qh5 26. Ke2
+Bf4+ 27. Qxe8 Qxe8+ 28. Kd3 Ng4 0-1
+

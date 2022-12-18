@@ -1,0 +1,22 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Kakabadze, Revaz"]
+[Black "Shadrina, Tatiana"]
+[Result "1-0"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Lipnitzky attack"]
+[HashCode "f5b86497"]
+[Epoch "Rook"]
+[WhiteID "13600672"]
+[BlackID "4119118"]
+[WhiteCountry "GEO"]
+[BlackCountry "RUS"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. O-O b5 8. Bb3
+b4 9. Na4 Nxe4 10. f4 Nc5 11. Nxc5 dxc5 12. Qf3 Ra7 13. f5 Qxd4+ 14. Be3 Qf6
+15. Qg3 Nd7 16. fxe6 Qg6 17. exd7+ Rxd7 18. Qe5+ Kd8 19. Bg5+ f6 20. Rxf6 gxf6
+21. Bxf6+ Be7 22. Bxe7+ Rxe7 23. Rd1+ Rd7 24. Qxh8+ Kc7 25. Qe5+ Kb7 26. Rxd7+
+Bxd7 27. Qxc5 Qg4 28. Bd5+ 1-0

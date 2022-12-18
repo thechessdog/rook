@@ -1,0 +1,18 @@
+[Event "corr USA"]
+[Site "corr USA"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Wallach, H."]
+[Black "Weiss, Max"]
+[Result "1/2-1/2"]
+[ECO "A27"]
+[Opening "English"]
+[Variation "three knights system"]
+[HashCode "1870deb2"]
+[Epoch "Rook"]
+[BlackCountry "AUT"]
+
+1. c4 e5 2. Nc3 Nc6 3. Nf3 f5 4. d4 e4 5. Bg5 Be7 6. Bxe7 Ngxe7 7. Ng1 d5 8. e3
+Be6 9. Qb3 Na5 10. Qa4+ c6 11. cxd5 Nxd5 12. Nxd5 Bxd5 13. Qb4 b6 14. Be2 Qe7
+15. Qxe7+ Kxe7 16. Nh3 Rac8 17. Rc1 c5 18. dxc5 Rxc5 19. Rxc5 bxc5 20. b3 c4
+21. bxc4 Bxc4 1/2-1/2

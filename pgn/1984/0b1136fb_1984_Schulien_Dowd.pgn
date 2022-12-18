@@ -1,0 +1,20 @@
+[Event "Ohio"]
+[Site "Ohio"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Schulien, Charles"]
+[Black "Dowd, J."]
+[Result "1-0"]
+[ECO "D58"]
+[Opening "QGD"]
+[Variation "Tartakower (Makagonov-Bondarevsky) system"]
+[HashCode "0b1136fb"]
+[Epoch "Rook"]
+[WhiteID "2001527"]
+[WhiteCountry "USA"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Bg5 Be7 5. Nf3 h6 6. Bh4 O-O 7. e3 b6 8. Qc2
+Bb7 9. Bxf6 Bxf6 10. cxd5 exd5 11. O-O-O Nd7 12. h4 c5 13. g4 cxd4 14. Nxd4
+Bxh4 15. f4 g6 16. Qh2 g5 17. Bg2 Rc8 18. Nf5 Qf6 19. Bxd5 Bxd5 20. Rxd5 Nc5
+21. Nxh6+ Qxh6 22. fxg5 Qh8 23. Kb1 Qh7+ 24. Rf5 Ne6 25. Nd5 Kg7 26. Qe5+ f6
+27. Nxf6 1-0

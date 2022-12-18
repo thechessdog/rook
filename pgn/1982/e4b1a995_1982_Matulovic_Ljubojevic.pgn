@@ -1,0 +1,20 @@
+[Event "Yugoslavia"]
+[Site "Yugoslavia"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Matulovic, Milan"]
+[Black "Ljubojevic, Ljubomir"]
+[Result "1-0"]
+[ECO "C81"]
+[Opening "Ruy Lopez"]
+[Variation "open, Howell attack, Ekstroem variation"]
+[HashCode "e4b1a995"]
+[Epoch "Rook"]
+[BlackID "900010"]
+[WhiteCountry "SRB"]
+[BlackCountry "SRB"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Be6 9. Qe2 Be7 10. Rd1 O-O 11. c4 bxc4 12. Bxc4 Qd7 13. Bd3 Nc5 14. Nc3 Nxd3
+15. Rxd3 Nb4 16. Rd1 c5 17. Bg5 d4 18. Ne4 Bxa2 19. Rac1 Bb3 20. Rd2 d3 21. Qe3
+c4 22. Bf6 gxf6 23. exf6 Kh8 24. Qh6 Qg4 25. Neg5 1-0

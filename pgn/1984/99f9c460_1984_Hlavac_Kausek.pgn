@@ -1,0 +1,19 @@
+[Event "corr CSSR"]
+[Site "corr CSSR"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Hlavac"]
+[Black "Kausek"]
+[Result "0-1"]
+[ECO "B16"]
+[Opening "Caro-Kann"]
+[Variation "Bronstein-Larsen variation"]
+[HashCode "99f9c460"]
+[Epoch "Rook"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ gxf6 6. c3 Bf5 7. Ne2 h5
+8. Ng3 Bg4 9. f3 Be6 10. Bf4 Nd7 11. Bd3 h4 12. Ne4 Bh6 13. Bxh6 Rxh6 14.
+Qd2 Rh5 15. O-O Qc7 16. b4 O-O-O 17. Rab1 Nb6 18. Nc5 Bf5 19. Bxf5+ Rxf5
+20. Qh6 Nd5 21. c4 Nf4 22. Qxh4 Rh5 23. Qg4+ f5 24. Qg7 f6 25. g3 Rdh8 26.
+Rb2 R5h7 0-1
+

@@ -1,0 +1,28 @@
+[Event "Esbjerg"]
+[Site "Esbjerg"]
+[Date "1980.??.??"]
+[Round "?"]
+[White "Iskov, Gert"]
+[Black "Mortensen, Erling"]
+[Result "1-0"]
+[ECO "B83"]
+[Opening "Sicilian"]
+[Variation "Scheveningen, 6.Be2"]
+[HashCode "63ce8c94"]
+[Epoch "Rook"]
+[WhiteID "1400398"]
+[BlackID "1400045"]
+[WhiteCountry "DEN"]
+[BlackCountry "DEN"]
+
+1. e4 c5 2. Nf3 e6 3. Nc3 d6 4. d4 cxd4 5. Nxd4 Nf6 6. Be2 Be7 7. O-O Nc6 8.
+Kh1 Bd7 9. f4 Nxd4 10. Qxd4 Bc6 11. Bf3 O-O 12. Be3 Qc7 13. e5 dxe5 14. fxe5
+Nd7 15. Bxc6 Qxc6 16. Ne4 Rad8 17. Bg5 Bxg5 18. Nxg5 Qxc2 19. Rad1 h6 20. Rc1
+Qe2 21. Nf3 Nb6 22. Qf2 Qxf2 23. Rxf2 Rc8 24. Re1 Rfd8 25. g3 Nd5 26. Re4 Ne7
+27. Kg2 Nc6 28. g4 Rd5 29. h4 Rcd8 30. g5 hxg5 31. hxg5 Nd4 32. g6 Nxf3 33.
+gxf7+ Kxf7 34. Rxf3+ Kg8 35. Kg3 Rd3 36. Ra4 a6 37. Rc4 Rxf3+ 38. Kxf3 Rd2 39.
+Rc8+ Kh7 40. Re8 Rxb2 41. Rxe6 Kg8 42. Re7 Kh7 43. Rf7 Kg6 44. Rf8 Rb1 45. Ke4
+Re1+ 46. Kd5 Rd1+ 47. Kc5 Rc1+ 48. Kd6 Rd1+ 49. Ke7 Rd2 50. a4 b5 51. axb5 axb5
+52. Rb8 Kf5 53. Rxb5 g5 54. e6+ Kg6 55. Ke8 Kh5 56. Kf7 Rf2+ 57. Kg7 Re2 58.
+Kf6 Kh4 59. Re5 Rf2+ 60. Kg7 Ra2 61. e7 Ra8 62. e8=Q Rxe8 63. Rxe8 g4 64. Kf6
+g3 65. Kf5 g2 66. Kf4 1-0

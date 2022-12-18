@@ -1,0 +1,18 @@
+[Event "corr DDR/I"]
+[Site "corr DDR/I"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Kucharkowski"]
+[Black "Kinlechner"]
+[Result "1-0"]
+[ECO "A00"]
+[Opening "Polish"]
+[Variation "Outflank variation"]
+[HashCode "5f9dbfe0"]
+[Epoch "Rook"]
+
+1. b4 c6 2. Bb2 Qb6 3. a3 a5 4. c4 axb4 5. c5 Qc7 6. axb4 Rxa1 7. Bxa1 Nf6
+8. e3 d5 9. b5 cxb5 10. Bxb5+ Bd7 11. Bxd7+ Nfxd7 12. d4 b6 13. Nc3 e6 14.
+Nf3 bxc5 15. O-O c4 16. e4 Nb6 17. exd5 exd5 18. Re1+ Be7 19. Qe2 Nc6 20.
+Ne5 Nd8 21. Nb5 1-0
+

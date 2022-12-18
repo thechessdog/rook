@@ -1,0 +1,19 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Kristoffersen, Mort"]
+[Black "Hansen, Soren Bech"]
+[Result "0-1"]
+[ECO "A46"]
+[Opening "Queen's pawn"]
+[Variation "Yusupov-Rubinstein system"]
+[HashCode "b66ecbe3"]
+[Epoch "Rook"]
+[BlackID "1400681"]
+[BlackCountry "DEN"]
+
+1. d4 Nf6 2. Nf3 e6 3. e3 b6 4. Nc3 Bb7 5. Be2 Bb4 6. Bd2 O-O 7. Nb1 a5 8. Bxb4
+axb4 9. a3 c5 10. Qd3 Be4 11. Qd2 d5 12. O-O Nc6 13. c3 b3 14. c4 Ne7 15. cxd5
+Bxd5 16. dxc5 bxc5 17. Qc3 Ne4 18. Qxb3 Bxb3 19. Nbd2 Nxd2 20. Nxd2 Qxd2 21.
+Bf3 Rad8 22. h3 Nf5 23. e4 Nh4 24. Bg4 Qg5 25. a4 h5 26. Be2 Qxg2# 0-1

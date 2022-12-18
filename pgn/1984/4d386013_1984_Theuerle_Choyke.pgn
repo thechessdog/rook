@@ -1,0 +1,18 @@
+[Event "Plymouth ch-MI op"]
+[Site "Plymouth ch-MI op"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Theuerle, P."]
+[Black "Choyke, J."]
+[Result "1-0"]
+[ECO "B02"]
+[Opening "Alekhine's defence"]
+[Variation "Scandinavian variation"]
+[HashCode "4d386013"]
+[Epoch "Rook"]
+
+1. e4 Nf6 2. Nc3 d5 3. e5 Ne4 4. Qf3 Nxc3 5. Qxc3 g6 6. e6 d4 7. exf7+ Kxf7
+8. Qf3+ Ke8 9. Bc4 Qd6 10. Qf7+ Kd8 11. d3 Nc6 12. Nf3 Ne5 13. Nxe5 Qxe5+
+14. Kf1 Bg7 15. Bf4 Qf6 16. Qd5+ Ke8 17. Bxc7 e6 18. Re1 Kf7 19. Qe4 Re8
+20. Bb5 1-0
+

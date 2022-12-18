@@ -1,0 +1,20 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Zilberman, Nathan R"]
+[Black "Zhidkov, Valery S"]
+[Result "0-1"]
+[ECO "E42"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5, 5.Ne2 (Rubinstein)"]
+[HashCode "439bb654"]
+[Epoch "Rook"]
+[WhiteID "13800035"]
+[BlackID "14100282"]
+[WhiteCountry "KGZ"]
+[BlackCountry "UKR"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Ne2 cxd4 6. exd4 O-O 7. a3 Be7 8. d5
+exd5 9. cxd5 Re8 10. g3 Bc5 11. Bg2 d6 12. h3 Bf5 13. O-O Ne4 14. Na4 Nd7 15.
+g4 Bg6 16. Nf4 Nxf2 17. Rxf2 Bxf2+ 18. Kxf2 Qh4+ 19. Kf1 Bc2 20. Ra2 0-1

@@ -1,0 +1,20 @@
+[Event "Lodz"]
+[Site "Lodz"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Augustin, Josef"]
+[Black "Boensch, Uwe"]
+[Result "1/2-1/2"]
+[ECO "A30"]
+[Opening "English"]
+[Variation "symmetrical variation"]
+[HashCode "d6b08caf"]
+[Epoch "Rook"]
+[BlackID "4611268"]
+[BlackCountry "GER"]
+[WhiteID "300373"]
+[WhiteCountry "CZE"]
+
+1. c4 c5 2. Nf3 Nf6 3. e3 g6 4. b3 Bg7 5. Bb2 O-O 6. Be2 b6 7. O-O Bb7 8. d4
+cxd4 9. Nxd4 d5 10. Nc3 dxc4 11. Bxc4 Nc6 12. Nxc6 Bxc6 13. Qe2 Qd7 14. Rfd1
+Qf5 15. f3 Bh6 16. e4 Qc5+ 17. Kh1 Rfd8 18. a4 1/2-1/2

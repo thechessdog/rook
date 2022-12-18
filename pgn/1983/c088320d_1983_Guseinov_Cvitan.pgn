@@ -1,0 +1,17 @@
+[Event "Baku"]
+[Site "Baku"]
+[Date "1983.11.01"]
+[Round "1"]
+[White "Guseinov, Aidyn"]
+[Black "Cvitan, Ognjen"]
+[Result "1/2-1/2"]
+[ECO "E92"]
+[Opening "King's Indian"]
+[Variation "Gligoric-Taimanov system"]
+[HashCode "c088320d"]
+[Epoch "Rook"]
+[BlackID "14500086"]
+[BlackCountry "CRO"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. Be3 Nbd7 8. O-O
+h6 9. Ne1 exd4 10. Bxd4 Re8 1/2-1/2

@@ -1,0 +1,20 @@
+[Event "Hastings"]
+[Site "Hastings"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Giorgadze, Tamaz"]
+[Black "Nunn, John D M"]
+[Result "1/2-1/2"]
+[ECO "A77"]
+[Opening "Benoni"]
+[Variation "classical, 9...Re8, 10.Nd2"]
+[HashCode "56c59473"]
+[Epoch "Rook"]
+[WhiteID "13600028"]
+[BlackID "400017"]
+[WhiteCountry "GEO"]
+[BlackCountry "ENG"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. Nd2 Bg7 8. e4
+O-O 9. Be2 Re8 10. O-O Nbd7 11. a4 Ne5 12. Re1 a6 13. h3 g5 14. Nf1 h6 15. Ng3
+Rb8 16. Ra3 g4 1/2-1/2

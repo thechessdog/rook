@@ -1,0 +1,19 @@
+[Event "Sweden"]
+[Site "Sweden"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Bjork, Carl Magnus"]
+[Black "Fridh, Anton"]
+[Result "1-0"]
+[ECO "E17"]
+[Opening "Queen's Indian"]
+[Variation "anti-Queen's Indian system"]
+[HashCode "7bdd089a"]
+[Epoch "Rook"]
+[BlackCountry "SWE"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 b6 4. g3 Bb7 5. Bg2 Be7 6. Nc3 O-O 7. Qc2 d5 8. cxd5
+exd5 9. O-O Nbd7 10. Rd1 Re8 11. Ne5 c5 12. Nxd7 Qxd7 13. Bg5 Rac8 14. dxc5
+Rxc5 15. Be3 Rcc8 16. Qb3 Red8 17. Bd4 Ne8 18. e4 Nd6 19. exd5 Nc4 20. Re1 Bg5
+21. Rad1 Qf5 22. Be4 Qg4 23. Qc2 g6 24. f3 Qd7 25. f4 Be7 26. f5 Bb4 27. fxg6
+hxg6 28. Bxg6 Nd6 29. Bh7+ Kf8 30. Qe2 Qh3 31. Qe7# 1-0

@@ -1,0 +1,23 @@
+[Event "Montreal int"]
+[Site "Montreal"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Hebert, Jean"]
+[Black "Zurowski, Henry"]
+[Result "1-0"]
+[ECO "A57"]
+[Opening "Benko gambit"]
+[Variation "Zaitsev system"]
+[HashCode "3b94d539"]
+[Epoch "Rook"]
+[WhiteID "2600048"]
+[WhiteCountry "CAN"]
+[BlackID "2600889"]
+[BlackCountry "CAN"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. Nc3 d6 6. e3 g6 7. Nf3 Bg7 8. a4 O-O
+9. Ra3 axb5 10. Bxb5 Na6 11. O-O Nb4 12. e4 Bg4 13. Be2 Qb8 14. h3 Bc8 15. Nd2
+Nd7 16. f4 Ba6 17. Bxa6 Rxa6 18. Nb5 Nb6 19. b3 f5 20. exf5 Rxf5 21. Ne4 N6xd5
+22. Qe2 h6 23. Ng3 Rf8 24. f5 Qe8 25. Bd2 Qf7 26. Qe4 g5 27. Qb1 Be5 28. Ne4
+Qh5 29. Nf2 Qe2 30. Bxb4 Nxb4 31. Ng4 Bg7 32. f6 exf6 33. Qg6 Qd3 34. Nxh6+ Kh8
+35. Nf5 1-0

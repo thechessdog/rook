@@ -1,0 +1,17 @@
+[Event "Toledo,OH"]
+[Site "Toledo,OH"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Manski, David"]
+[Black "Vehre, John"]
+[Result "0-1"]
+[ECO "C45"]
+[Opening "Scotch"]
+[Variation "Mieses variation"]
+[HashCode "ad0df0ad"]
+[Epoch "Rook"]
+[BlackCountry "USA"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nf6 5. Nxc6 bxc6 6. e5 Qe7 7. Qe2 Nd5 8.
+c4 Ba6 9. Nd2 O-O-O 10. Qe4 Nb6 11. Nb3 f5 12. Qxf5 Bxc4 13. Bg5 Qb4+ 14. Bd2
+Qb5 15. Bxc4 Nxc4 16. f4 Bb4 17. O-O-O Bxd2+ 18. Nxd2 Qxb2# 0-1

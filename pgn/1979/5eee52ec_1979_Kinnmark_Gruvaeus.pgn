@@ -1,0 +1,18 @@
+[Event "Sweden"]
+[Site "Sweden"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Kinnmark, Ove"]
+[Black "Gruvaeus, Curt"]
+[Result "1/2-1/2"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical system, 5.Be2"]
+[HashCode "5eee52ec"]
+[Epoch "Rook"]
+[BlackID "1701320"]
+[BlackCountry "SWE"]
+[WhiteCountry "SWE"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Nf3 Bg7 5. Be2 O-O 6. O-O a6 7. a4 Nc6 8. h3 e5
+9. dxe5 dxe5 10. Be3 Qe7 11. Qc1 Be6 12. Rd1 Rfd8 1/2-1/2

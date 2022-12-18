@@ -1,0 +1,22 @@
+[Event "Pecs"]
+[Site "Pecs"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Mikhalchishin, Adrian"]
+[Black "Horvath, Tamas"]
+[Result "1-0"]
+[ECO "A34"]
+[Opening "English"]
+[Variation "symmetrical, three knights system"]
+[HashCode "5da2afec"]
+[Epoch "Rook"]
+[WhiteID "14602385"]
+[WhiteCountry "SLO"]
+[BlackID "700185"]
+[BlackCountry "HUN"]
+
+1. Nf3 c5 2. c4 Nf6 3. Nc3 d5 4. cxd5 Nxd5 5. d4 cxd4 6. Qxd4 Nxc3 7. Qxc3 Nc6
+8. e4 a6 9. Bc4 e6 10. O-O Bd7 11. Rd1 b5 12. Bg5 Qc7 13. Bd5 b4 14. Qe3 f6 15.
+Rac1 fxg5 16. Nd4 exd5 17. exd5+ Kf7 18. dxc6 Bc8 19. Qb3+ Kg6 20. Qc2+ Kf6 21.
+Rd3 g6 22. Re1 Bd6 23. Qc4 Rf8 24. Nf3 Kg7 25. Qd4+ Rf6 26. Nxg5 Bf5 27. Re6
+Bxh2+ 28. Kh1 Be5 29. Rxe5 1-0

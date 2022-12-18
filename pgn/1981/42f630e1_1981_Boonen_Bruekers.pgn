@@ -1,0 +1,16 @@
+[Event "Reuver"]
+[Site "Reuver"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Boonen, P."]
+[Black "Bruekers, J."]
+[Result "1-0"]
+[ECO "B32"]
+[Opening "Sicilian defence"]
+[HashCode "42f630e1"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6 5. Be3 Bg7 6. Nc3 e5 7. Ndb5 d6
+8. Nxd6+ Ke7 9. Bc5 Nf6 10. Nxb7+ Ke6 11. Nxd8+ Rxd8 12. Bc4+ Nd5 13. Bxd5+
+Kf6 14. Qf3+ Kg5 15. Be3+ Kh4 16. g3+ Kh3 17. g4+ Kh4 18. Qg3# 1-0
+

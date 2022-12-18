@@ -1,0 +1,18 @@
+[Event "Espergarde"]
+[Site "Espergarde"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Svendsen, Niels Leth"]
+[Black "Hansen, Jorgen"]
+[Result "1/2-1/2"]
+[ECO "B06"]
+[Opening "Robatsch defence"]
+[Variation "two knights variation"]
+[HashCode "11e8fa13"]
+[Epoch "Rook"]
+[WhiteID "1411420"]
+[WhiteCountry "DEN"]
+
+1. d4 g6 2. e4 d6 3. Nf3 Bg7 4. Nc3 e6 5. Bc4 Ne7 6. O-O O-O 7. Be3 c6 8. a4 d5
+9. Bb3 Nd7 10. Qd2 b6 11. Bh6 dxe4 12. Nxe4 Nf5 13. Bxg7 Kxg7 14. Rad1 Nf6 15.
+Rfe1 Bb7 16. c4 h5 17. Qf4 Qb8 18. Qe5 Qxe5 1/2-1/2

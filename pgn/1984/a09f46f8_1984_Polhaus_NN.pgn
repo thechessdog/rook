@@ -1,0 +1,17 @@
+[Event "Denmark"]
+[Site "Denmark"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Polhaus, Th"]
+[Black "NN"]
+[Result "0-1"]
+[ECO "D00"]
+[Opening "Blackmar gambit"]
+[HashCode "a09f46f8"]
+[Epoch "Rook"]
+
+1. d4 d5 2. e4 dxe4 3. Nc3 Nf6 4. f3 exf3 5. Nxf3 Bg4 6. h3 Bh5 7. g4 Nxg4
+8. hxg4 Bxg4 9. Be3 a6 10. Bg2 Qd6 11. Bf2 Nc6 12. Qd2 Qf6 13. Nd5 Qe6+ 14.
+Ne5 O-O-O 15. Nf4 Qf5 16. Nxc6 bxc6 17. Bxc6 Rd6 18. d5 Qe4+ 19. Qe3 Qxh1+
+20. Kd2 Qxa1 21. Qa7 Qd1+ 22. Kc3 Rxc6+ 0-1
+

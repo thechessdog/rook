@@ -1,0 +1,17 @@
+[Event "corr EUR/M"]
+[Site "corr EUR/M"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Palmo, P."]
+[Black "Karpianus, M."]
+[Result "1-0"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, 6.Bd3"]
+[HashCode "7c1eae61"]
+[Epoch "Rook"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 O-O 6. Bd3 Nc6 7. e5 dxe5 8.
+dxe5 Nd5 9. Bd2 e6 10. a3 a6 11. Qe2 Nce7 12. Ne4 Nb6 13. h4 h5 14. O-O-O
+Ned5 15. Rdg1 Bh6 16. g4 Nxf4 17. Bxf4 Bxf4+ 18. Kb1 Nd5 19. gxh5 1-0
+

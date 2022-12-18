@@ -1,0 +1,25 @@
+[Event "IBM-B"]
+[Site "Amsterdam II"]
+[Date "1977.07.01"]
+[Round "2"]
+[White "Scheeren, Peter"]
+[Black "Zwaig, Arne"]
+[Result "0-1"]
+[ECO "E04"]
+[Opening "Catalan"]
+[Variation "open, 5.Nf3"]
+[HashCode "9f723d3f"]
+[Epoch "Rook"]
+[WhiteID "1000136"]
+[WhiteCountry "NED"]
+[BlackID "1500040"]
+[BlackCountry "NOR"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Bg2 dxc4 5. Nf3 Nbd7 6. O-O Rb8 7. a4 b6 8. Nfd2
+Bb7 9. Bxb7 Rxb7 10. Nxc4 Be7 11. Nc3 Nd5 12. Bd2 O-O 13. e4 Nb4 14. Be3 Rb8
+15. Qe2 Qc8 16. Rfd1 Qb7 17. Rac1 Rfe8 18. Qf3 Rbd8 19. Kg2 a6 20. Bf4 Nf8 21.
+h4 Ng6 22. Bg5 c5 23. dxc5 bxc5 24. Bxe7 Qxe7 25. h5 Nf8 26. e5 Rd4 27. Nd6
+Rxd1 28. Nxd1 Rd8 29. Rxc5 Nd7 30. Qb7 Nd3 31. Rc8 N3xe5 32. Qxa6 Rxc8 33.
+Qxc8+ Nf8 34. Qa6 Qg5 35. Qe2 Ng4 36. Qb5 Qd2 37. Nc4 Qxd1 38. a5 Qe2 39. Qc5
+Nxf2 40. Qxf2 Qxc4 41. Qb6 Qc8 42. b4 Nd7 43. Qd6 Qb7+ 44. Kf2 h6 45. Qe7 Qa7+
+46. Ke2 Qa6+ 47. Ke3 Ne5 48. Kf4 Qe2 0-1

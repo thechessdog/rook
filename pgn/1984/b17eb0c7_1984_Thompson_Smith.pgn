@@ -1,0 +1,19 @@
+[Event "Plymouth ch-MI op"]
+[Site "Plymouth ch-MI op"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Thompson, D."]
+[Black "Smith, Wa"]
+[Result "0-1"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra gambit"]
+[HashCode "b17eb0c7"]
+[Epoch "Rook"]
+
+1. e4 c5 2. d4 cxd4 3. c3 dxc3 4. Nxc3 Nc6 5. Nf3 a6 6. Bc4 e6 7. O-O Qc7
+8. Qe2 Nge7 9. Be3 Ng6 10. Rac1 Qb8 11. Bb3 b5 12. Nd4 Na5 13. Ndxb5 axb5
+14. Nxb5 Nc6 15. f4 Ra5 16. a4 Ba6 17. f5 Nge5 18. fxe6 fxe6 19. Qh5+ g6
+20. Qh4 Be7 21. Bg5 Bxb5 22. axb5 Rxb5 23. Bxe7 g5 24. Bxg5 Ng6 25. Qh6
+Nce5 26. Bc4 Ng4 27. Qg7 Qxh2# 0-1
+

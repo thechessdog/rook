@@ -1,0 +1,27 @@
+[Event "Kallithea"]
+[Site "Kallithea"]
+[Date "1976.??.??"]
+[Round "2"]
+[White "Dimitrijevic, Milorad"]
+[Black "Skalkotas, Nikolaos"]
+[Result "0-1"]
+[ECO "E97"]
+[Opening "King's Indian"]
+[Variation "orthodox, Aronin-Taimanov variation (Yugoslav attack / Mar del Plata variation)"]
+[HashCode "962d6969"]
+[Epoch "Rook"]
+[WhiteID "959286"]
+[BlackID "4200144"]
+[WhiteCountry "SRB"]
+[BlackCountry "GRE"]
+
+1. Nf3 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. d4 O-O 6. Be2 e5 7. O-O Nc6 8. d5
+Ne7 9. Nd2 c5 10. dxc6 bxc6 11. b4 Ne8 12. Nb3 Nc7 13. Be3 f5 14. f3 f4 15. Bf2
+g5 16. Qd2 Rf6 17. b5 Qe8 18. c5 d5 19. bxc6 d4 20. Bc4+ Be6 21. Bxe6+ Rxe6 22.
+Ne2 Nxc6 23. Rab1 Bf8 24. Rfc1 a5 25. a4 Na6 26. Qd3 Nab4 27. Qc4 Kh8 28. Be1
+h5 29. h3 g4 30. Bh4 Rg6 31. hxg4 hxg4 32. Kf2 d3 33. Rh1 Kg7 34. Nc3 g3+ 35.
+Ke1 Nc2+ 36. Kd2 Na3 37. Qxd3 Nb4 38. Qf1 Qd7+ 39. Nd5 Nxd5 40. exd5 Qxd5+ 41.
+Qd3 Nxb1+ 42. Rxb1 Qxd3+ 43. Kxd3 Rh6 44. Rh1 Kf7 45. Ke4 Ke6 46. c6 Bd6 47. c7
+Rc8 48. Nxa5 Rxc7 49. Nb3 Rc4+ 50. Kd3 Rxa4 51. Nd2 Rd4+ 52. Ke2 Rxd2+ 53. Kxd2
+Be7 54. Kd3 Rxh4 55. Rxh4 Bxh4 56. Ke4 Be7 57. Kd3 Kd5 58. Ke2 e4 59. fxe4+
+Kxe4 60. Kf1 Bc5 0-1

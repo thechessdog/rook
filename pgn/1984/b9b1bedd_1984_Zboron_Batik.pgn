@@ -1,0 +1,19 @@
+[Event "corr CSSR"]
+[Site "corr CSSR"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Zboron"]
+[Black "Batik"]
+[Result "1-0"]
+[ECO "C67"]
+[Opening "Ruy Lopez"]
+[Variation "open Berlin defence, 5...Be7"]
+[HashCode "b9b1bedd"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Be7 6. Qe2 Nd6 7. Bxc6
+bxc6 8. dxe5 Nb7 9. Nc3 O-O 10. Nd4 Nc5 11. Rd1 Qe8 12. Nf5 Kh8 13. b3 Ba6
+14. Qg4 Ne6 15. Qa4 Bb7 16. Ne4 Rg8 17. Nxe7 Qxe7 18. Ba3 Qe8 19. Qb4 Bc8
+20. Qd2 a5 21. f4 a4 22. f5 Nf8 23. Qf4 Ra5 24. Bc5 axb3 25. axb3 Rxa1 26.
+Rxa1 Qd8 27. Ng5 Qe8 28. Ra8 1-0
+

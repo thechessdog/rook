@@ -1,0 +1,19 @@
+[Event "Columbus,OH"]
+[Site "Columbus,OH"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Martin, Andy"]
+[Black "Burger, Karl"]
+[Result "0-1"]
+[ECO "B96"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Polugayevsky variation"]
+[HashCode "18161fb1"]
+[Epoch "Rook"]
+[BlackCountry "USA"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 b5 8. Bd3
+Nbd7 9. Qf3 Bb7 10. Bxf6 Nxf6 11. O-O-O b4 12. Nce2 Qa5 13. Kb1 Be7 14. g4 Nd7
+15. Nc1 Qb6 16. Nde2 a5 17. g5 a4 18. Qh3 Nc5 19. g6 Bf6 20. e5 dxe5 21. gxf7+
+Kf8 22. fxe5 Bxe5 23. Qh5 Qc7 24. Rhg1 b3 25. cxb3 axb3 26. axb3 Nxd3 27. Nxd3
+Be4 28. Qg4 Bf5 29. Qb4+ Kxf7 30. Rgf1 Bf6 31. Ng3 Rhb8 32. Qe1 Rc8 0-1

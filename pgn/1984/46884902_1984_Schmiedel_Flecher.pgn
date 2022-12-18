@@ -1,0 +1,19 @@
+[Event "corr EUR"]
+[Site "corr EUR"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Schmiedel"]
+[Black "Flecher"]
+[Result "0-1"]
+[ECO "D87"]
+[Opening "Gruenfeld"]
+[Variation "exchange, Spassky variation"]
+[HashCode "46884902"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Bc4 O-O
+8. Ne2 c5 9. O-O Nc6 10. Be3 Qc7 11. Rc1 Rd8 12. f4 e6 13. h3 b6 14. Ng3
+Na5 15. Be2 Bb7 16. h4 Rac8 17. e5 Qd7 18. Bd3 cxd4 19. cxd4 Rxc1 20. Qxc1
+Qc6 21. Qxc6 Nxc6 22. Bd2 Rxd4 23. Rf3 Nb4 24. Be4 Bxe4 25. Nxe4 Rxe4 26.
+Bxb4 Rxb4 27. Rc3 Ra4 28. a3 Rxf4 0-1
+

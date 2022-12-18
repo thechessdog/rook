@@ -1,0 +1,21 @@
+[Event "Bela Crkva open"]
+[Site "Bela Crkva open"]
+[Date "1983.01.01"]
+[Round "3"]
+[White "Sevo, Dusan"]
+[Black "Matkovic, Tonci"]
+[Result "1-0"]
+[ECO "B97"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7...Qb6"]
+[HashCode "30ba2f77"]
+[Epoch "Rook"]
+[WhiteID "903680"]
+[WhiteCountry "SRB"]
+[BlackID "14501864"]
+[BlackCountry "CRO"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qb6 8. Nb3
+Qe3+ 9. Qe2 Qxe2+ 10. Bxe2 Nc6 11. Bf3 Be7 12. O-O-O h6 13. Bxf6 gxf6 14. Na4
+b5 15. Nb6 Rb8 16. Nxc8 Rxc8 17. Kb1 O-O 18. Rd2 Kg7 19. Rc1 Na7 20. c3 Rc7 21.
+Rdc2 Rfc8 22. Be2 Nc6 23. a3 Kf8 24. c4 b4 25. a4 a5 26. c5 Na7 27. Ba6 1-0

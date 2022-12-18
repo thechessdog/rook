@@ -1,0 +1,22 @@
+[Event "ACM Houston"]
+[Site "ACM Houston"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Chute 1 2"]
+[Black "Black Knight"]
+[Result "0-1"]
+[ECO "C40"]
+[Opening "Latvian counter-gambit"]
+[HashCode "bd7554e9"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 f5 3. exf5 e4 4. Nd4 Qf6 5. Nb5 Na6 6. Qh5+ Kd8 7. N5c3 g6
+8. fxg6 Nb4 9. Na3 hxg6 10. Qe2 d5 11. h3 Bd6 12. Ncb5 Bf4 13. g3 Be5 14.
+Nc3 Ne7 15. Qb5 Qd6 16. d3 Bd7 17. Qxb7 Bc6 18. Qxa8+ Bxa8 19. dxe4 Bxc3+
+20. bxc3 Qe6 21. cxb4 Qxe4+ 22. Be3 Qxh1 23. h4 Nf5 24. Bg5+ Kd7 25. Kd2
+Qf3 26. Be3 d4 27. Bb5+ c6 28. Bxd4 Nxd4 29. Bd3 Nb3+ 30. axb3 Qxf2+ 31.
+Kc1 Qxg3 32. Nc4 Kd8 33. Kb2 Qxh4 34. Rd1 Qd4+ 35. Ka3 Ke7 36. Re1+ Kf6 37.
+Ne5 c5 38. bxc5 Qxc5+ 39. Kb2 Qd4+ 40. c3 Rh2+ 41. Kb1 Qxc3 42. Ng4+ Kg5
+43. Nxh2 Qxe1+ 44. Kc2 Qf2+ 45. Kb1 Qd2 46. Bxg6 Kxg6 47. Nf1 Be4+ 48. Ka1
+Qc1+ 49. Ka2 Bb1+ 50. Ka1 Qc2 51. b4 Qa2# 0-1
+

@@ -1,0 +1,19 @@
+[Event "corr ch-CSSR"]
+[Site "corr ch-CSSR"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Botik"]
+[Black "Stanicek"]
+[Result "0-1"]
+[ECO "D53"]
+[Opening "QGD"]
+[Variation "4.Bg5 Be7, 5.e3 O-O"]
+[HashCode "039c0df8"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Bg5 Be7 5. e3 O-O 6. Bd3 Nbd7 7. Qc2 c6 8.
+Nf3 h6 9. h4 Ng4 10. Nh2 Nxh2 11. Rxh2 Bxg5 12. hxg5 Qxg5 13. O-O-O f5 14.
+f4 Qe7 15. c5 b6 16. b4 Nf6 17. Be2 Bd7 18. Rdh1 bxc5 19. bxc5 Be8 20. Rh4
+h5 21. g4 fxg4 22. Bxg4 hxg4 23. Rxg4 Bh5 24. Rg5 Bf3 25. Rhg1 Rf7 26. Qg6
+Ne4 27. Nxe4 Bxe4 28. Qh6 Qb7 29. Qxe6 Qb1+ 0-1
+

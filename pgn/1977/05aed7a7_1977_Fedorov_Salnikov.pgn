@@ -1,0 +1,17 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Fedorov, Vladislav"]
+[Black "Salnikov"]
+[Result "1-0"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "Cochrane gambit"]
+[HashCode "05aed7a7"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nxf7 Kxf7 5. d4 Be7 6. Nc3 Re8 7. Bc4+ d5 8.
+Nxd5 Be6 9. Nxf6 Bxf6 10. Bxe6+ Rxe6 11. e5 Bxe5 12. dxe5 Qxd1+ 13. Kxd1 Rxe5
+14. Be3 Nc6 15. c3 Kf6 16. Kc2 Rae8 17. Rad1 R8e7 18. Rd3 Kf5 19. Rhd1 Ra5 20.
+Rd5+ Re5 21. Rxa5 Rxa5 22. Rd7 1-0

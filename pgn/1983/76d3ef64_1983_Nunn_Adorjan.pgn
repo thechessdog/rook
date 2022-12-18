@@ -1,0 +1,20 @@
+[Event "Biel"]
+[Site "Biel"]
+[Date "1983.07.01"]
+[Round "1"]
+[White "Nunn, John D M"]
+[Black "Adorjan, Andras"]
+[Result "1/2-1/2"]
+[ECO "B81"]
+[Opening "Sicilian"]
+[Variation "Scheveningen, Keres attack"]
+[HashCode "76d3ef64"]
+[Epoch "Rook"]
+[WhiteID "400017"]
+[WhiteCountry "ENG"]
+[BlackID "700096"]
+[BlackCountry "HUN"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. g4 h6 7. h4 Nc6 8. Rg1
+h5 9. gxh5 Rxh5 10. Bg5 Rh8 11. h5 e5 12. Nb3 Be7 13. Be2 Be6 14. Bxf6 Bxf6 15.
+Bg4 Nd4 16. Qd3 1/2-1/2

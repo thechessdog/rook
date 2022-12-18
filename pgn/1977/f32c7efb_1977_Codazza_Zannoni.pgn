@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Codazza"]
+[Black "Zannoni"]
+[Result "1-0"]
+[ECO "B96"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7.f4"]
+[HashCode "f32c7efb"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Nbd7 8.
+Bc4 Qb6 9. Bb3 Be7 10. f5 Nc5 11. fxe6 fxe6 12. Na4 Qc7 13. Nxc5 Qxc5 14.
+Be3 Qe5 15. O-O Qxe4 16. Re1 e5 17. Ne6 Bxe6 18. Bxe6 Qc6 19. Bg5 b5 20.
+Qe2 Ra7 21. Rad1 Rc7 22. c3 h5 23. Qc2 Kf8 24. Rf1 Qe8 25. Rf3 b4 26. Rdf1
+bxc3 27. bxc3 h4 28. Qe4 1-0
+

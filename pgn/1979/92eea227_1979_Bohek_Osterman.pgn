@@ -1,0 +1,20 @@
+[Event "corr Yugoslavia"]
+[Site "corr Yugoslavia"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Bohek"]
+[Black "Osterman"]
+[Result "0-1"]
+[ECO "B25"]
+[Opening "Sicilian"]
+[Variation "closed, 6.f4 e5 (Botvinnik)"]
+[HashCode "92eea227"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. f4 e5 7. Nh3 Nge7 8.
+O-O exf4 9. Bxf4 h6 10. Nb5 Ne5 11. Nc3 Be6 12. Nf2 N7c6 13. Nd5 O-O 14. c3
+Rb8 15. Ne3 b5 16. g4 b4 17. Qd2 h5 18. gxh5 Qh4 19. h6 Bh8 20. Nd5 bxc3
+21. bxc3 Qh5 22. Nh1 Bxd5 23. exd5 Nd4 24. Ng3 Ndf3+ 25. Bxf3 Nxf3+ 26.
+Rxf3 Qxf3 27. Bxd6 Qxd5 28. Bxf8 Bd4+ 29. cxd4 Qxd4+ 30. Qf2 Qxa1+ 31. Nf1
+Rxf8 32. Qxc5 Rd8 0-1
+

@@ -1,0 +1,22 @@
+[Event "corr NS/I"]
+[Site "corr NS/I"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Kuro, Timo"]
+[Black "Toivola, Timo"]
+[Result "0-1"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical system, 5.Be2"]
+[HashCode "66366795"]
+[Epoch "Rook"]
+[WhiteID "509388"]
+[BlackID "507482"]
+[WhiteCountry "FIN"]
+[BlackCountry "FIN"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Nf3 Bg7 5. Be2 O-O 6. O-O c5 7. h3 cxd4 8. Nxd4
+Bd7 9. Be3 Nc6 10. Nb3 Rc8 11. f4 Kh8 12. Bf3 Ne8 13. Nd4 Qb6 14. Nd5 Bxd4 15.
+Nxb6 Bxe3+ 16. Kh2 Bxb6 17. c3 Rd8 18. Qd2 e5 19. f5 Ne7 20. Qh6 Rg8 21. g4 g5
+22. Rae1 f6 23. h4 Rg7 24. hxg5 Ng8 25. Qh3 fxg5 26. Bd1 Nef6 27. Kg3 Bc6 28.
+Bc2 d5 29. exd5 Nxd5 0-1

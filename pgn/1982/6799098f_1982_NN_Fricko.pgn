@@ -1,0 +1,17 @@
+[Event "Michigan"]
+[Site "Michigan"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "NN"]
+[Black "Fricko, Frank"]
+[Result "0-1"]
+[ECO "C07"]
+[Opening "French"]
+[Variation "Tarrasch, open variation"]
+[HashCode "6799098f"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. Ngf3 Nf6 5. exd5 Nxd5 6. Bc4 Nc6 7. Nb3 cxd4
+8. Nbxd4 Bb4+ 9. Bd2 Nxd4 10. Nxd4 Bc5 11. c3 O-O 12. O-O Nb6 13. Qb3 Bd7
+14. Bd3 Ba4 15. Nxe6 Bxb3 16. Nxd8 Rfxd8 0-1
+

@@ -1,0 +1,23 @@
+[Event "corr ch-YUG"]
+[Site "corr ch-YUG"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Marjan, D."]
+[Black "Movre, D."]
+[Result "1-0"]
+[ECO "B57"]
+[Opening "Sicilian"]
+[Variation "Magnus Smith trap"]
+[HashCode "768c3c6a"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bc4 g6 7. Nxc6 bxc6
+8. e5 Ng4 9. Bf4 d5 10. Nxd5 Bg7 11. Nc3 Qxd1+ 12. Rxd1 Nxe5 13. Bb3 O-O
+14. O-O Ba6 15. Rfe1 Nc4 16. Na4 Bb5 17. Bxc4 Bxc4 18. b3 Be6 19. h3 Rfd8
+20. Rxd8+ Rxd8 21. Nc5 Bf5 22. c4 Bd4 23. Be3 e5 24. Bxd4 exd4 25. g4 Bc2
+26. Re2 d3 27. Rd2 f5 28. f3 Kf7 29. Kf2 f4 30. Na6 Kf6 31. Nb4 c5 32. Nxc2
+dxc2 33. Rxc2 Kg5 34. Re2 Kh4 35. Re4 g5 36. b4 cxb4 37. c5 Rd5 38. Rc4
+Rd2+ 39. Ke1 Rxa2 40. Kd1 b3 41. Kc1 a5 42. c6 a4 43. Rc3 Ra1+ 44. Kb2 Ra2+
+45. Kb1 Re2 46. c7 Re8 47. c8=Q Rxc8 48. Rxc8 Kg3 49. Rh8 Kxf3 50. Rxh7 Kg3
+51. Rh5 1-0
+

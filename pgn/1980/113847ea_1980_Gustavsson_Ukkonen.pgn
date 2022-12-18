@@ -1,0 +1,25 @@
+[Event "corr SWE/K tt"]
+[Site "corr SWE/K tt"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Gustavsson, Gert"]
+[Black "Ukkonen, Tapio"]
+[Result "0-1"]
+[ECO "C69"]
+[Opening "Ruy Lopez"]
+[Variation "exchange, Gligoric variation"]
+[HashCode "113847ea"]
+[Epoch "Rook"]
+[WhiteID "1731939"]
+[BlackID "1712098"]
+[WhiteCountry "SWE"]
+[BlackCountry "SWE"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O f6 6. d4 exd4 7. Nxd4 Bd6 8.
+Nf5 Bxf5 9. exf5 Ne7 10. Qh5+ Kd7 11. Qh3 Qg8 12. Nc3 Re8 13. b3 Nd5 14. Nxd5
+Qxd5 15. c4 Qe4 16. Be3 Re5 17. Rad1 b6 18. Qg3 g5 19. fxg6 hxg6 20. Rd4 Qf5
+21. Rfd1 Rd5 22. Rxd5 cxd5 23. f4 dxc4 24. bxc4 Qc2 25. Rc1 Qe4 26. h3 Re8 27.
+Re1 Bxf4 28. Rd1+ Bd6 29. Bf4 Re6 30. Bxd6 cxd6 31. Qb3 Qe3+ 32. Kf1 Qxb3 33.
+axb3 a5 34. Kf2 Kc6 35. Kf3 Re5 36. Rd3 d5 37. cxd5+ Rxd5 38. Rc3+ Kb5 39. Ke4
+Re5+ 40. Kd4 Kb4 41. g4 b5 42. Rf3 Re1 43. Kd3 Rh1 44. Kc2 Rh2+ 45. Kc1 g5 46.
+Kb1 Ka3 47. Kc1 b4 48. Rxf6 Kxb3 0-1

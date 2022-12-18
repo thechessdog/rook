@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Hohlbein, F."]
+[Black "Schirmer, M."]
+[Result "1/2-1/2"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "classical attack, Mason variation"]
+[HashCode "b502915b"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Be7 7. O-O O-O
+8. Nbd2 Nd6 9. h3 Bf5 10. Nb3 Bxd3 11. Qxd3 Nd7 12. Bf4 Nc4 13. Rab1 Re8
+14. Nbd2 Ndb6 15. Nxc4 Nxc4 16. b3 Nb6 17. Rfe1 h6 18. c3 c6 19. Re3 Qd7
+20. Rbe1 Bf6 21. Be5 Qd8 22. Qf5 Qd7 23. Qf4 Re6 24. Bxf6 Rxf6 25. Qh4 Qd6
+26. Re8+ Rxe8 27. Rxe8+ Kh7 28. Ng5+ Kg6 29. Nf3 Kh7 1/2-1/2
+

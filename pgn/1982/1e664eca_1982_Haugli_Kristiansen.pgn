@@ -1,0 +1,22 @@
+[Event "NOR-ch"]
+[Site "Lillehammer"]
+[Date "1982.??.??"]
+[Round "6"]
+[White "Haugli, Petter"]
+[Black "Kristiansen, Erling"]
+[Result "1-0"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "modern variation"]
+[HashCode "1e664eca"]
+[Epoch "Rook"]
+[WhiteID "1500104"]
+[BlackID "1500244"]
+[WhiteCountry "NOR"]
+[BlackCountry "NOR"]
+
+1. b3 e5 2. Bb2 Nc6 3. c4 Nf6 4. e3 Be7 5. d3 O-O 6. Nf3 d6 7. Be2 Re8 8. O-O
+Bf8 9. Nbd2 g6 10. a3 a5 11. Qc2 Bg7 12. h3 Nd7 13. Rae1 f5 14. Nh2 Nf6 15. Kh1
+Bd7 16. Rg1 Rf8 17. g4 Qe7 18. Bf3 Kh8 19. Ndf1 e4 20. Bxf6 Rxf6 21. dxe4 Ne5
+22. Bg2 fxg4 23. hxg4 Nxg4 24. Nxg4 Bxg4 25. Nh2 Bd7 26. e5 Qxe5 27. Bxb7 Re8
+28. Bd5 g5 29. Rg3 Ref8 30. Nf3 Qe7 31. Nxg5 Rxf2 1-0

@@ -1,0 +1,18 @@
+[Event "Baden-Baden"]
+[Site "Baden-Baden"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Ivkov, Borislav"]
+[Black "Miles, Anthony J"]
+[Result "1/2-1/2"]
+[ECO "E41"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5"]
+[HashCode "dae064b8"]
+[Epoch "Rook"]
+[WhiteID "900141"]
+[WhiteCountry "SRB"]
+[BlackCountry "ENG"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 Nc6 6. Ne2 d5 7. O-O O-O 8. cxd5
+exd5 9. a3 Bxc3 1/2-1/2

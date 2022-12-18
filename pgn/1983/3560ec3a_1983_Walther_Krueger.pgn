@@ -1,0 +1,20 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Walther"]
+[Black "Krueger"]
+[Result "0-1"]
+[ECO "B00"]
+[Opening "KP"]
+[Variation "Nimzovich defence"]
+[HashCode "3560ec3a"]
+[Epoch "Rook"]
+
+1. e4 Nc6 2. d4 d5 3. e5 Bf5 4. Ne2 Nb4 5. Na3 c5 6. Ng3 Bg6 7. c3 Nc6 8.
+Be2 cxd4 9. cxd4 e6 10. Nc2 Bxc2 11. Qxc2 Nxd4 12. Qa4+ Nc6 13. Bb5 Kd7 14.
+O-O a6 15. Bxc6+ bxc6 16. Be3 Qc7 17. Rac1 Qb7 18. Rc2 Qb5 19. Qf4 f6 20.
+Rfc1 Rc8 21. Ne2 c5 22. Nd4 Qb8 23. Nf3 c4 24. b3 Ba3 25. Rd1 g5 26. Qg4 f5
+27. Qxg5 cxb3 28. Rxc8 Qxc8 29. axb3 Qc2 30. Rf1 Ne7 31. Nd4 Qe4 32. Qf6
+Rg8 33. Qxe6+ Ke8 34. g3 Rg6 0-1
+

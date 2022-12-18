@@ -1,0 +1,17 @@
+[Event "USA"]
+[Site "USA"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Grimaldi"]
+[Black "Hook, William"]
+[Result "1-0"]
+[ECO "C05"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation"]
+[HashCode "830f93a0"]
+[Epoch "Rook"]
+[BlackCountry "USA"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Bd3 c5 6. c3 Nc6 7. Ne2 f6 8. exf6
+Qxf6 9. Nf3 Bd6 10. O-O O-O 11. Bg5 Qf7 12. Bh4 e5 13. Bxh7+ Kh8 14. Ng5 Qh5
+15. Nf4 1-0

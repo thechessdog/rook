@@ -1,0 +1,16 @@
+[Event "corr EUR/M"]
+[Site "corr EUR/M"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Van der Spek, H."]
+[Black "Kliesch, B."]
+[Result "0-1"]
+[ECO "A00"]
+[Opening "Polish (Sokolsky) opening"]
+[HashCode "ae47bde0"]
+[Epoch "Rook"]
+
+1. b4 Nf6 2. Bb2 e6 3. b5 d5 4. e3 c5 5. c4 Nbd7 6. Nf3 Bd6 7. Be2 O-O 8.
+O-O Qe7 9. a4 e5 10. cxd5 e4 11. Ne1 Nxd5 12. d3 exd3 13. Nxd3 N7f6 14. Nd2
+Bf5 15. Nc4 Bc7 16. Nxc5 Rfd8 17. Bd4 Nc3 18. Qd2 Nxe2+ 19. Qxe2 Rxd4 0-1
+

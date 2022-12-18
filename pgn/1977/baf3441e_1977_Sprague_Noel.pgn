@@ -1,0 +1,18 @@
+[Event "Ohio Congress"]
+[Site "Ohio Congress"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Sprague, Ross"]
+[Black "Noel, Richard"]
+[Result "1-0"]
+[ECO "B03"]
+[Opening "Alekhine's defence"]
+[Variation "four pawns attack"]
+[HashCode "baf3441e"]
+[Epoch "Rook"]
+[WhiteID "2036975"]
+[WhiteCountry "USA"]
+
+1. e4 Nf6 2. e5 Nd5 3. c4 Nb6 4. d4 d6 5. f4 dxe5 6. fxe5 Bf5 7. Be3 e6 8. Nc3
+Nc6 9. Nf3 Be7 10. Be2 O-O 11. O-O f6 12. exf6 Bxf6 13. h3 Kh8 14. Rc1 Qe7 15.
+g4 1-0

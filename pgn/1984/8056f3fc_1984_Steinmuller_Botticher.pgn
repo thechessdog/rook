@@ -1,0 +1,18 @@
+[Event "corr ch-DDR"]
+[Site "corr ch-DDR"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Steinmuller"]
+[Black "Botticher"]
+[Result "1-0"]
+[ECO "C43"]
+[Opening "Petrov"]
+[Variation "modern attack, Symmetrical variation"]
+[HashCode "8056f3fc"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nf6 3. d4 Nxe4 4. Bd3 d5 5. Nxe5 Bd6 6. Nc3 Nxc3 7. bxc3
+Nd7 8. O-O Bxe5 9. dxe5 Nc5 10. Qh5 Nxd3 11. cxd3 c5 12. f4 g6 13. Qh6 Bf5
+14. Qg7 Rf8 15. d4 Qa5 16. Bb2 Qa4 17. Qf6 Be6 18. g4 Bxg4 19. f5 Bxf5 20.
+Rxf5 gxf5 21. e6 Qc6 22. Re1 Qd6 23. exf7+ Kd7 24. Qxf5+ Kc7 25. Re6 1-0
+

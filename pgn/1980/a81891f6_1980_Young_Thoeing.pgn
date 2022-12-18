@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Young, J."]
+[Black "Thoeing, J."]
+[Result "1-0"]
+[ECO "C78"]
+[Opening "Ruy Lopez"]
+[Variation "Moeller defence"]
+[HashCode "a81891f6"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Bc5 6. c3 Nxe4 7. d4 exd4
+8. cxd4 Bb6 9. d5 Bxf2+ 10. Rxf2 Nxf2 11. Kxf2 Ne7 12. d6 cxd6 13. Qxd6 Nc6
+14. Nc3 Qe7 15. Bf4 Qxd6 16. Bxd6 b5 17. Re1+ Kd8 18. Ng5 1-0
+

@@ -1,0 +1,18 @@
+[Event "Berkeley ch-USA"]
+[Site "Berkeley ch-USA"]
+[Date "1984.01.01"]
+[Round "12"]
+[White "Fedorowicz, John"]
+[Black "Byrne, Robert E"]
+[Result "1/2-1/2"]
+[ECO "E81"]
+[Opening "King's Indian"]
+[Variation "Saemisch, Byrne variation"]
+[HashCode "eb121a77"]
+[Epoch "Rook"]
+[WhiteID "2000083"]
+[WhiteCountry "USA"]
+[BlackCountry "USA"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 a6 6. Be3 c6 7. Bd3 O-O 8. Nge2 b5
+9. Qd2 Nbd7 10. Rc1 Bb7 11. O-O e5 12. cxb5 axb5 13. b3 Qa5 14. dxe5 1/2-1/2

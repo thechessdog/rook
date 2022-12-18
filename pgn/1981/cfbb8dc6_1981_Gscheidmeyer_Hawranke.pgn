@@ -1,0 +1,18 @@
+[Event "BL2-N 8081"]
+[Site "BL2-N 8081"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Gscheidmeyer, HJ."]
+[Black "Hawranke, D."]
+[Result "1/2-1/2"]
+[ECO "D91"]
+[Opening "Gruenfeld"]
+[Variation "5.Bg5"]
+[HashCode "cfbb8dc6"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. Nc3 d5 5. Bg5 Ne4 6. cxd5 Nxg5 7. Nxg5 e6
+8. Nf3 exd5 9. e3 O-O 10. Be2 c6 11. b4 a6 12. O-O Qe7 13. Qb3 Nd7 14. a4
+Nf6 15. Ne5 Be6 16. Nd3 Ne4 17. Qc2 Bf5 18. Nxe4 Bxe4 19. Qc5 Qg5 20. Nf4
+Rfe8 21. Bd3 Bf8 22. Qb6 Bf3 23. Kh1 Bd6 24. gxf3 1/2-1/2
+

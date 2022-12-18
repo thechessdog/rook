@@ -1,0 +1,18 @@
+[Event "corr ch11-DDR"]
+[Site "corr ch11-DDR"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Stark, E."]
+[Black "Rodeike, H."]
+[Result "1-0"]
+[ECO "C44"]
+[Opening "Ponziani"]
+[Variation "Jaenisch counter-attack"]
+[HashCode "9848b85d"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. c3 Nf6 4. d4 d5 5. Bb5 exd4 6. e5 Ne4 7. Nxd4 Bd7 8.
+Bxc6 bxc6 9. Rf1 Be7 10. f3 Nc5 11. Be3 O-O 12. b4 Nb7 13. f4 c5 14. bxc5
+Nxc5 15. Nd2 Na4 16. Qh5 g6 17. Qh6 Re8 18. f5 Bf8 19. Qf4 gxf5 20. Nxf5
+Bxf5 21. Qxf5 Bg7 22. Bg5 Qc8 23. Qxf7+ Kh8 24. Bf6 Qg4 25. Rf4 1-0
+

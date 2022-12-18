@@ -1,0 +1,19 @@
+[Event "Reggio Emilia8081"]
+[Site "Reggio Emilia"]
+[Date "1980.01.01"]
+[Round "4"]
+[White "Wagman, Stuart"]
+[Black "Wittmann, Walter"]
+[Result "0-1"]
+[ECO "B64"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...Be7 defence, 9.f4"]
+[HashCode "100fd186"]
+[Epoch "Rook"]
+[BlackID "1600060"]
+[BlackCountry "AUT"]
+[WhiteCountry "USA"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd2 Be7 8.
+O-O-O O-O 9. f4 h6 10. h4 Nxd4 11. Qxd4 Qa5 12. Bc4 e5 13. Qg1 Be6 14. g4 exf4
+15. Bxe6 fxe6 16. Bxh6 Rac8 17. Bxf4 Rxc3 18. Bd2 Qxa2 19. Bxc3 Nxe4 0-1

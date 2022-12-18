@@ -1,0 +1,19 @@
+[Event "IBM-B"]
+[Site "Amsterdam II"]
+[Date "1978.07.01"]
+[Round "11"]
+[White "Bohm, Hans"]
+[Black "Van Wijgerden, Cornelis"]
+[Result "1/2-1/2"]
+[ECO "D31"]
+[Opening "QGD"]
+[Variation "semi-Slav, Marshall gambit"]
+[HashCode "3b1ad6bb"]
+[Epoch "Rook"]
+[WhiteID "1000306"]
+[WhiteCountry "NED"]
+[BlackID "1000144"]
+[BlackCountry "NED"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c6 4. e4 dxe4 5. Nxe4 Bb4+ 6. Nc3 c5 7. a3 Bxc3+ 8.
+bxc3 Nf6 9. Nf3 Qa5 10. Bd2 O-O 11. Be2 Ne4 12. Qc2 Nxd2 13. Qxd2 cxd4 1/2-1/2

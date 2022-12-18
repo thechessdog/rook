@@ -1,0 +1,17 @@
+[Event "Ann Arbor MI Futurity"]
+[Site "Ann Arbor MI Futurity"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Goodman, David S C"]
+[Black "Puls, Michael"]
+[Result "1-0"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Nimzovich (knight's tour) variation"]
+[HashCode "eee26d6e"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. Nd2 Bg7 8. Nc4
+O-O 9. Bg5 h6 10. Bf4 b6 11. Bxd6 Re8 12. Bf4 Ne4 13. Nxe4 Rxe4 14. e3 b5 15.
+Nd2 Rb4 16. b3 Bf5 17. Rc1 Na6 18. Be2 Rxf4 19. exf4 Qe7 20. O-O Bb2 21. Bxb5
+Nb4 22. d6 Qxd6 23. Nc4 Qxd1 24. Rcxd1 a6 25. Bd7 Bc2 26. Nxb2 1-0

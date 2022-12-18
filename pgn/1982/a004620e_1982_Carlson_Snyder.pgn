@@ -1,0 +1,18 @@
+[Event "corr FNPCC"]
+[Site "corr FNPCC"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Carlson, Curtis"]
+[Black "Snyder"]
+[Result "1-0"]
+[ECO "B87"]
+[Opening "Sicilian"]
+[Variation "Sozin with ...a6 and ...b5"]
+[HashCode "a004620e"]
+[Epoch "Rook"]
+[WhiteID "2002868"]
+[WhiteCountry "USA"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 b5 8. Qe2
+Qb6 9. Be3 Qb7 10. f3 Be7 11. g4 Nfd7 12. O-O-O Nc5 13. Rhe1 Nxb3+ 14. axb3 O-O
+15. Rg1 Nc6 1-0

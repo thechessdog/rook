@@ -1,0 +1,20 @@
+[Event "Tapolitsa"]
+[Site "Tapolitsa"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Bijl"]
+[Black "Pirisi"]
+[Result "0-1"]
+[ECO "A64"]
+[Opening "Benoni"]
+[Variation "fianchetto, 11...Re8"]
+[HashCode "88c4124c"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. g3 g6 7. Bg2 Bg7 8.
+Nf3 O-O 9. O-O a6 10. a4 Nbd7 11. Nd2 Re8 12. h3 Rb8 13. Nc4 Ne5 14. Na3
+Nh5 15. e4 f5 16. exf5 Bxf5 17. g4 Bxg4 18. hxg4 Qh4 19. gxh5 Rf8 20. h6
+Bh8 21. Nc4 Ng4 22. Qxg4 Qxg4 23. Nxd6 Be5 24. Nde4 Rf3 25. Be3 Rbf8 26.
+Bxc5 R8f5 27. Rfe1 b6 28. Bxb6 Rh5 29. Bc5 Rh2 30. Ng3 Rxg3 31. fxg3 Qxg3
+32. Re2 Rh1+ 0-1
+

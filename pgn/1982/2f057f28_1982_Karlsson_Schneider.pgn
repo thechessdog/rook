@@ -1,0 +1,19 @@
+[Event "Eksjo"]
+[Site "Eksjo"]
+[Date "1982.01.01"]
+[Round "2"]
+[White "Karlsson, Lars"]
+[Black "Schneider, Lars-Ake"]
+[Result "1-0"]
+[ECO "A33"]
+[Opening "English"]
+[Variation "symmetrical variation"]
+[HashCode "2f057f28"]
+[Epoch "Rook"]
+[WhiteID "1700057"]
+[WhiteCountry "SWE"]
+[BlackCountry "SWE"]
+
+1. c4 Nf6 2. Nc3 e6 3. Nf3 c5 4. d4 cxd4 5. Nxd4 Nc6 6. g3 Bc5 7. e3 O-O 8. Bg2
+Ne5 9. Qe2 d5 10. cxd5 exd5 11. h3 Re8 12. O-O Bxd4 13. exd4 Nc6 14. Be3 Be6
+15. Rfe1 Qd7 16. g4 Ne4 17. Bxe4 dxe4 18. d5 Bxd5 19. Rad1 Nb4 20. Rd4 1-0

@@ -1,0 +1,27 @@
+[Event "Copenhagen AS04"]
+[Site "Copenhagen"]
+[Date "1979.01.01"]
+[Round "2"]
+[White "Brinck-Claussen, Bjorn"]
+[Black "Wahlbom, Magnus"]
+[Result "1-0"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Nimzovich (knight's tour) variation"]
+[HashCode "b3f72e64"]
+[Epoch "Rook"]
+[BlackID "1700685"]
+[WhiteCountry "DEN"]
+[BlackCountry "SWE"]
+
+1. d4 e6 2. c4 Nf6 3. Nc3 c5 4. d5 exd5 5. cxd5 d6 6. Nf3 g6 7. Nd2 Bg7 8. Nc4
+O-O 9. Bg5 Qd7 10. a4 b6 11. e3 Ba6 12. h3 Bxc4 13. Bxc4 a6 14. O-O Qb7 15. Qf3
+Nbd7 16. Qf4 Qc7 17. Be2 Rfe8 18. Rac1 Re5 19. Qh4 Qb8 20. Rcd1 Qf8 21. Bf4
+Ree8 22. Bh2 Reb8 23. b4 cxb4 24. Qxb4 Nc5 25. Nb1 b5 26. axb5 axb5 27. Nc3
+Nfe4 28. Nxe4 Ra4 29. Bxd6 Rxb4 30. Bxf8 Bxf8 31. Nxc5 Bxc5 32. Rc1 Bf8 33.
+Rfd1 Rd8 34. Rc7 Rb2 35. Bf1 Bd6 36. Rb7 b4 37. Ra1 Bc5 38. Rc1 Bd6 39. Rc6 Rb1
+40. g3 h5 41. Kg2 Rb2 42. Bc4 Rc2 43. Rbb6 Kf8 44. Rxd6 Rxd6 45. Rxd6 Rxc4 46.
+Rb6 Ke7 47. Kf3 Kd7 48. e4 Kc7 49. Rb5 f6 50. Ke3 g5 51. h4 Rc3+ 52. Kd4 gxh4
+53. gxh4 Rf3 54. Rxb4 Rxf2 55. Kc5 Rc2+ 56. Rc4 Rh2 57. Ra4 Rc2+ 58. Kd4 Rd2+
+59. Ke3 Rd1 60. Ra2 f5 61. exf5 Kd6 62. Kf4 Kxd5 63. Re2 Rg1 64. Rd2+ Kc6 65.
+f6 Kc7 66. Kf5 Rf1+ 67. Kg5 Kc8 68. Rd5 1-0

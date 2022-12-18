@@ -1,0 +1,20 @@
+[Event "England"]
+[Site "England"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Burk"]
+[Black "Marshall"]
+[Result "1-0"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Andreaschek gambit"]
+[HashCode "de279b05"]
+[Epoch "Rook"]
+
+1. e4 c5 2. d4 cxd4 3. Nf3 e5 4. c3 dxc3 5. Nxc3 Bb4 6. Bc4 Qc7 7. Bxf7+
+Kxf7 8. Qb3+ Ke8 9. Qxb4 Nc6 10. Qc4 Nf6 11. O-O a6 12. Nd5 Qd8 13. Be3
+Nxd5 14. exd5 Na5 15. Qe4 b5 16. Qxe5+ Qe7 17. Qc7 Nc4 18. Rfe1 Kf7 19.
+Ng5+ Kg8 20. h4 Qf8 21. b3 h6 22. bxc4 hxg5 23. Bxg5 bxc4 24. Re7 d6 25.
+Rae1 Bf5 26. Qxc4 Kh7 27. g3 Rc8 28. Qb4 Bd3 29. Qxd6 Rc2 30. Qh6+ Kg8 31.
+Rxg7+ Qxg7 32. Re8+ Kf7 33. Qe6# 1-0
+

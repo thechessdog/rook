@@ -1,0 +1,18 @@
+[Event "corr BRD"]
+[Site "corr BRD"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Wenner, Tobias"]
+[Black "Scherfke"]
+[Result "1/2-1/2"]
+[ECO "C15"]
+[Opening "French"]
+[Variation "Winawer (Nimzovich) variation"]
+[HashCode "deca63cc"]
+[Epoch "Rook"]
+[WhiteID "4619714"]
+[WhiteCountry "GER"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. Bd3 dxe4 5. Bxe4 Nf6 6. Bf3 c5 7. Ne2 Nc6 8.
+O-O cxd4 9. Bxc6+ bxc6 10. Nxd4 Bb7 11. Na4 Qd5 12. a3 Be7 13. Nc3 Qd7 14. Nf3
+Qc7 15. Qe2 O-O 16. b3 c5 17. Bb2 Qf4 18. Ne5 Rad8 19. Nd3 Qc7 1/2-1/2

@@ -1,0 +1,29 @@
+[Event "Hillerod op"]
+[Site "Hillerod"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Andersen, Ib"]
+[Black "Hartung Nielsen, Jens"]
+[Result "0-1"]
+[ECO "C41"]
+[Opening "Philidor"]
+[Variation "exchange variation"]
+[HashCode "9c37f267"]
+[Epoch "Rook"]
+[WhiteID "1401130"]
+[WhiteCountry "DEN"]
+[BlackCountry "NLD"]
+
+1. e4 e5 2. Nf3 d6 3. d4 exd4 4. Qxd4 Ne7 5. Bg5 Nbc6 6. Qd2 f6 7. Bh4 Ng6 8.
+Bg3 Bg4 9. Nd4 Nxd4 10. Qxd4 Qd7 11. h3 Be6 12. f4 f5 13. Nc3 Ne7 14. Bb5 c6
+15. Be2 fxe4 16. Bh5+ Kd8 17. Qxe4 Nf5 18. Bf2 d5 19. Qe2 g6 20. Bf3 Bg7 21.
+O-O-O Kc7 22. g4 Nd6 23. Na4 b6 24. Rhe1 Rhe8 25. Qa6 Nc4 26. f5 Bh6+ 27. Kb1
+gxf5 28. gxf5 Bxf5 29. Bg3+ Nd6 30. Rxe8 Qxe8 31. Re1 Qf8 32. Bg4 Bxg4 33. hxg4
+Kd7 34. Bh4 Ne4 35. Qb7+ Kd6 36. Qxh7 Qg7 37. Qf5 Rf8 38. Qh5 Bg5 39. Bxg5 Qxg5
+40. Qh2+ Qf4 41. Qh3 Qg3 42. Qh1 Qxg4 43. Qh6+ Rf6 44. Qh8 Kc7 45. b3 Qc8 46.
+Qg7+ Qd7 47. Qh8 Kb7 48. Rg1 Rf1+ 49. Rxf1 Nd2+ 50. Kb2 Nxf1 51. Qf6 Ng3 52.
+Qe5 Ne4 53. Nc3 Nxc3 54. Kxc3 c5 55. a4 Qf7 56. Kb2 Qd7 57. Ka2 c4 58. Qd4 Qc6
+59. Qg7+ Qc7 60. Qd4 Qc5 61. Qg7+ Ka6 62. Qd7 d4 63. bxc4 Qxc4+ 64. Kb2 b5 65.
+Qd6+ Ka5 66. Qb8 a6 67. Qa7 bxa4 68. Qh7 Kb4 69. Qe7+ Qc5 70. Qb7+ Qb5 71. Qe4
+a3+ 72. Ka1 Qf1+ 73. Ka2 Qc4+ 74. Kb1 Ka4 75. Kc1 Qf1+ 76. Kd2 Qf2+ 77. Kd1
+Qg1+ 0-1

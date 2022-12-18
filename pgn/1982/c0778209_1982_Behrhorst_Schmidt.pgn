@@ -1,0 +1,20 @@
+[Event "Bundesliga 8182"]
+[Site "Duitsland tt"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Behrhorst, Frank"]
+[Black "Schmidt, Bodo"]
+[Result "1/2-1/2"]
+[ECO "A11"]
+[Opening "English"]
+[Variation "Caro-Kann defensive system"]
+[HashCode "c0778209"]
+[Epoch "Rook"]
+[WhiteID "4605322"]
+[WhiteCountry "GER"]
+[BlackID "4601505"]
+[BlackCountry "GER"]
+
+1. c4 c6 2. Nc3 d5 3. cxd5 cxd5 4. d4 Nf6 5. Nf3 Nc6 6. Bf4 e6 7. e3 Be7 8. Bd3
+O-O 9. Ne5 Bd7 10. O-O Nxe5 11. Bxe5 Bc6 12. Bxf6 Bxf6 13. f4 Qb6 14. Rf2 g6
+15. g4 1/2-1/2

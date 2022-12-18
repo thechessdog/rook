@@ -1,0 +1,19 @@
+[Event "Dayton,OH"]
+[Site "Dayton,OH"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Holsapple, Boyd"]
+[Black "Wall, Bill"]
+[Result "0-1"]
+[ECO "C16"]
+[Opening "French"]
+[Variation "Winawer, Petrosian variation"]
+[HashCode "319f5a3f"]
+[Epoch "Rook"]
+[BlackCountry "USA"]
+[WhiteCountry "USA"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 Qd7 5. Qg4 f5 6. exf6 Nxf6 7. Qh4 O-O 8. Nf3
+Qa4 9. Bd3 Bxc3+ 10. bxc3 e5 11. Nxe5 Re8 12. O-O Rxe5 13. Bxh7+ Nxh7 14. Qd8+
+Re8 15. Qxd5+ Be6 16. Qxb7 Qc6 17. Qb4 Qe4 18. Qa4 Bd5 19. f3 Qg6 20. Ba3 Ng5
+21. c4 Bxf3 0-1

@@ -1,0 +1,22 @@
+[Event "Hillerod"]
+[Site "Hillerod"]
+[Date "1980.01.01"]
+[Round "3"]
+[White "Iskov, Gert"]
+[Black "Poulsen, Allan"]
+[Result "1-0"]
+[ECO "B97"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7...Qb6"]
+[HashCode "8c96f743"]
+[Epoch "Rook"]
+[WhiteID "1400398"]
+[WhiteCountry "DEN"]
+[BlackID "1400533"]
+[BlackCountry "DEN"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qb6 8. Qd2
+Qxb2 9. Nb3 Nbd7 10. Bd3 Nc5 11. O-O Bd7 12. e5 Rc8 13. exf6 Nxd3 14. fxg7 Bxg7
+15. Qxd3 Qxc3 16. Qxd6 Bf8 17. Qb6 h6 18. Bh4 Qc6 19. Qa5 Rg8 20. Rf2 Bd6 21.
+Rd1 Bxf4 22. Qh5 Rg6 23. Kh1 e5 24. Na5 Qb5 25. c4 Qxa5 26. Rxf4 Qc5 27. Re4
+Kf8 28. Rxd7 Qc6 29. Qf5 1-0

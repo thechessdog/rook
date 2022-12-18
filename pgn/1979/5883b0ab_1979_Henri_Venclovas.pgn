@@ -1,0 +1,15 @@
+[Event "corr CCLA"]
+[Site "corr CCLA"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Henri, J."]
+[Black "Venclovas"]
+[Result "1-0"]
+[ECO "C56"]
+[Opening "Two knights defence"]
+[HashCode "5883b0ab"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d4 exd4 5. O-O Nxe4 6. Re1 d5 7. Bxd5
+Qxd5 8. Nc3 Qd8 9. Rxe4+ 1-0
+

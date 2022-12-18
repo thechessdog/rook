@@ -1,0 +1,19 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Szabo, Laszlo"]
+[Black "Lehmann, Heinz Dr"]
+[Result "1-0"]
+[ECO "C57"]
+[Opening "two knights defence"]
+[Variation "Wilkes Barre (Traxler) variation"]
+[HashCode "b8140c1c"]
+[Epoch "Rook"]
+[WhiteID "710741"]
+[WhiteCountry "HUN"]
+[BlackCountry "DEU"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 Bc5 5. d4 d5 6. Bxd5 Nxd4 7. Nxf7 Qe7 8.
+Nxh8 Bg4 9. f3 Nxd5 10. h4 Nb4 11. Na3 h6 12. c3 O-O-O 13. fxg4 Ndc2+ 14. Nxc2
+Rxd1+ 15. Kxd1 Qd7+ 16. Bd2 Qxg4+ 17. Kc1 Nd3+ 18. Kb1 Qxg2 19. Rd1 Qe2 1-0

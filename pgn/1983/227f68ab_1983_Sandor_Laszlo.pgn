@@ -1,0 +1,20 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Sandor"]
+[Black "Laszlo"]
+[Result "1-0"]
+[ECO "A52"]
+[Opening "Budapest"]
+[Variation "Alekhine variation"]
+[HashCode "227f68ab"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ng4 4. e4 h5 5. Be2 Nc6 6. f4 d6 7. exd6 Bxd6 8.
+Nc3 Be6 9. Nd5 Bc5 10. Bxg4 Bxg4 11. Qd2 a5 12. Ne2 Bxe2 13. Qxe2 Nd4 14.
+Qd1 c6 15. Be3 cxd5 16. Bxd4 Bb4+ 17. Kf2 dxe4 18. Bxg7 Bc5+ 19. Ke1 Qh4+
+20. g3 Qh3 21. Qa4+ Ke7 22. Bxh8 Qg2 23. Rf1 Qxh2 24. Qb3 Bb4+ 25. Bc3
+Qxg3+ 26. Rf2 Qe3+ 27. Re2 Qg3+ 28. Kd1 Rd8+ 29. Kc1 Qxf4+ 30. Kc2 Qd6 31.
+Bxb4 axb4 32. a3 Qd4 33. Qxb4+ Ke8 34. Rd2 1-0
+

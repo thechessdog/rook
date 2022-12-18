@@ -1,0 +1,22 @@
+[Event "Luzern ol (Men)"]
+[Site "Luzern olm"]
+[Date "1982.10.01"]
+[Round "2"]
+[White "Cooper, John G"]
+[Black "Lobron, Eric"]
+[Result "0-1"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Nimzovich (knight's tour) variation"]
+[HashCode "2d8f70b4"]
+[Epoch "Rook"]
+[BlackID "4600037"]
+[BlackCountry "GER"]
+[WhiteID "1800027"]
+[WhiteCountry "WLS"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. Nd2 Nbd7 8. e4
+Bg7 9. Be2 O-O 10. O-O Re8 11. a4 Ne5 12. Kh1 Nfg4 13. Nf3 Nxf3 14. Bxf3 Qh4
+15. Bxg4 Bxg4 16. Qc2 Bd7 17. f3 f5 18. Nb5 Bxb5 19. axb5 fxe4 20. Ra4 Bd4 21.
+fxe4 Rf8 22. Rd1 Rf2 23. Qd3 Raf8 24. h3 R8f3 25. Rxd4 cxd4 26. Qxf3 Rxf3 27.
+gxf3 Qxh3+ 28. Kg1 0-1

@@ -1,0 +1,18 @@
+[Event "Bloomington"]
+[Site "Bloomington"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Henderson"]
+[Black "Bath, John"]
+[Result "1-0"]
+[ECO "C17"]
+[Opening "French"]
+[Variation "Winawer, advance variation"]
+[HashCode "34e6137d"]
+[Epoch "Rook"]
+[BlackID "2018438"]
+[BlackCountry "USA"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. dxc5 d4 6. a3 Ba5 7. b4 Bc7 8. Nb5
+Bxe5 9. Nf3 Qf6 10. Bg5 Qf5 11. Bd3 Qg4 12. h3 Qxg2 13. Rg1 Qxh3 14. Nxe5 Na6
+15. Nd6+ Kf8 16. Nexf7 h6 17. Nxh8 hxg5 18. Ng6# 1-0

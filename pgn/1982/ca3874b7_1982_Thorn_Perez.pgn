@@ -1,0 +1,20 @@
+[Event "corr ICCF"]
+[Site "corr ICCF"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Thorn Leeson"]
+[Black "Perez Condez"]
+[Result "0-1"]
+[ECO "B93"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.f4"]
+[HashCode "ca3874b7"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 e5 7. Nf3 Qc7 8.
+Bd3 Nbd7 9. O-O Be7 10. Qe1 O-O 11. Kh1 b5 12. fxe5 Nxe5 13. Nxe5 dxe5 14.
+Bg5 Be6 15. Qh4 Ra7 16. Rae1 Ne8 17. Bxe7 Qxe7 18. Qxe7 Rxe7 19. Nd5 Bxd5
+20. exd5 Nd6 21. b3 f6 22. c4 bxc4 23. bxc4 Rc8 24. Rc1 Rec7 25. Rf2 Rc5
+26. Rfc2 e4 27. Be2 f5 28. g3 Kf7 29. Kg2 Kf6 30. Kf2 g5 31. Ke3 Ke5 32.
+Bf1 f4+ 33. gxf4+ gxf4+ 34. Kf2 e3+ 0-1
+

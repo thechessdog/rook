@@ -1,0 +1,21 @@
+[Event "corr CSSR"]
+[Site "corr CSSR"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Vukcevich, Milan R"]
+[Black "Brglez, Rado"]
+[Result "1-0"]
+[ECO "C67"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence, open variation"]
+[HashCode "ce521ba2"]
+[Epoch "Rook"]
+[WhiteID "2000458"]
+[BlackID "14600331"]
+[WhiteCountry "USA"]
+[BlackCountry "SLO"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6 dxc6 7. dxe5 Nf5
+8. Qxd8+ Kxd8 9. Nc3 h6 10. h3 Be6 11. g4 Ne7 12. Nd4 Bd5 13. Nxd5 cxd5 14. Bf4
+g5 15. Bg3 c5 16. Nb5 Nc6 17. Rad1 d4 18. f4 a6 19. Nc3 gxf4 20. Rxf4 Nxe5 21.
+Rf5 Nc4 22. Nd5 1-0

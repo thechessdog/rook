@@ -1,0 +1,18 @@
+[Event "corr YUG"]
+[Site "corr YUG"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Katanic, Z."]
+[Black "Zeljko, I."]
+[Result "1-0"]
+[ECO "B53"]
+[Opening "Sicilian"]
+[Variation "Chekhover, Zaitsev variation"]
+[HashCode "8ee8313c"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Qxd4 Nc6 5. Bb5 Qd7 6. Qa4 Qc7 7. Nc3 e6
+8. Nd5 exd5 9. exd5 Bd7 10. dxc6 Bxc6 11. O-O a6 12. Re1+ Be7 13. Bxc6+
+Qxc6 14. Qxc6+ bxc6 15. Nd4 Kd7 16. Bf4 g6 17. Rad1 h6 18. Nf3 f6 19. Nh4
+Rh7 20. Nxg6 d5 21. c4 Bb4 22. Bd2 Bc5 23. cxd5 cxd5 24. Bc3 1-0
+

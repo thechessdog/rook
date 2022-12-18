@@ -1,0 +1,21 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Faibisovich, Vadim Z"]
+[Black "Kaminsky, Oleg M"]
+[Result "1-0"]
+[ECO "C78"]
+[Opening "Ruy Lopez"]
+[Variation "Archangelsk (counterthrust) variation"]
+[HashCode "5ecf2fad"]
+[Epoch "Rook"]
+[WhiteID "4102703"]
+[BlackID "2001292"]
+[WhiteCountry "RUS"]
+[BlackCountry "USA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Bb7 7. d3 Bc5 8. Nc3
+d6 9. a4 b4 10. Nd5 Nxd5 11. Bxd5 O-O 12. Be3 Bxe3 13. fxe3 Qe7 14. Qe1 a5 15.
+Qg3 Nd8 16. Nh4 c6 17. Nf5 Qf6 18. Bb3 Bc8 19. Rf3 Bxf5 20. Rxf5 Qe7 21. Raf1
+Ne6 22. Qg4 f6 23. Rh5 Rae8 24. Rf3 Rf7 25. Rfh3 Ng5 26. Qxg5 1-0

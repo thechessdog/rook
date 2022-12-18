@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Vogel, P."]
+[Black "Diepstraten, L."]
+[Result "0-1"]
+[ECO "C40"]
+[Opening "Latvian"]
+[Variation "Polerio variation"]
+[HashCode "f4fcd4fc"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 f5 3. Bc4 fxe4 4. Nxe5 d5 5. Qh5+ g6 6. Nxg6 hxg6 7. Qxg6+
+Kd7 8. Bxd5 Nf6 9. Nc3 Qe7 10. b3 Rh6 11. Qg3 Nc6 12. Bxc6+ Kxc6 13. a4 Qh7
+14. Qe5 b6 15. d4 Rg6 16. Bg5 Bd6 17. Qb5+ Kb7 18. Bxf6 Rxf6 19. O-O-O Rxf2
+20. Qd5+ Kb8 21. g3 e3 0-1
+

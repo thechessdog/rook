@@ -1,0 +1,21 @@
+[Event "Berlin op"]
+[Site "Berlin-West"]
+[Date "1984.??.??"]
+[Round "9"]
+[White "Pitschka, Claus"]
+[Black "Suer, Nevzat"]
+[Result "0-1"]
+[ECO "C24"]
+[Opening "Bishop's opening"]
+[Variation "Ponziani gambit"]
+[HashCode "5df7ca23"]
+[Epoch "Rook"]
+[WhiteID "4617762"]
+[WhiteCountry "GER"]
+[BlackCountry "TUR"]
+
+1. e4 e5 2. Bc4 Nf6 3. d4 d5 4. dxe5 dxc4 5. Qxd8+ Kxd8 6. exf6 gxf6 7. Bf4
+Bb4+ 8. Nc3 Bxc3+ 9. bxc3 Bd7 10. O-O-O Re8 11. f3 Kc8 12. Ne2 b6 13. Ng3 a5
+14. Rd5 b5 15. Rh5 b4 16. Rxh7 Be6 17. h4 Na6 18. h5 Rb8 19. h6 b3 20. cxb3
+cxb3 21. axb3 Nc5 22. Ne2 Nxb3+ 23. Kc2 a4 24. Nc1 a3 25. Na2 Rd8 26. c4 Nd4+
+27. Kc3 Ne2+ 28. Kc2 Rb2# 0-1

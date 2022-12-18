@@ -1,0 +1,19 @@
+[Event "NOR-ch"]
+[Site "Trondheim"]
+[Date "1983.??.??"]
+[Round "5"]
+[White "Stigar, Petter"]
+[Black "Orseth, Dag S"]
+[Result "1/2-1/2"]
+[ECO "D91"]
+[Opening "Gruenfeld"]
+[Variation "5.Bg5"]
+[HashCode "7f6d66c6"]
+[Epoch "Rook"]
+[WhiteID "1500341"]
+[BlackID "1500384"]
+[WhiteCountry "NOR"]
+[BlackCountry "NOR"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Bg5 dxc4 6. e4 Bg4 7. Bxc4 O-O 8.
+Qd2 Nc6 9. Rd1 1/2-1/2

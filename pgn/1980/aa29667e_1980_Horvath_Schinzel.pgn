@@ -1,0 +1,20 @@
+[Event "Baden"]
+[Site "Baden"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Horvath, Maria"]
+[Black "Schinzel, Wladyslaw"]
+[Result "1-0"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Byrne (English) attack"]
+[HashCode "aa29667e"]
+[Epoch "Rook"]
+[WhiteID "1601660"]
+[BlackID "1100327"]
+[WhiteCountry "AUT"]
+[BlackCountry "POL"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e6 7. g4 h6 8. Qf3
+Nc6 9. Rg1 Ne5 10. Qh3 Nexg4 11. Rxg4 e5 12. Nf5 g6 13. Rh4 gxf5 14. exf5 d5
+15. O-O-O d4 16. f4 Qa5 17. fxe5 dxc3 18. exf6 Qxa2 19. Re4+ Be6 20. Rxe6+ 1-0

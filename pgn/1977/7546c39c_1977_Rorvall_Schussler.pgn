@@ -1,0 +1,21 @@
+[Event "Sweden"]
+[Site "Sweden"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Rorvall, Goran"]
+[Black "Schussler, Harry"]
+[Result "0-1"]
+[ECO "B96"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7.f4"]
+[HashCode "7546c39c"]
+[Epoch "Rook"]
+[BlackID "1700081"]
+[BlackCountry "SWE"]
+[WhiteID "1700650"]
+[WhiteCountry "SWE"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qc7 8. Qf3
+Nbd7 9. O-O-O b5 10. Bxb5 axb5 11. Ndxb5 Qb6 12. e5 Bb7 13. Qe2 dxe5 14. fxe5
+Nd5 15. Rhf1 h6 16. Nxd5 Bxd5 17. Rxd5 hxg5 18. Rd6 Bxd6 19. Nxd6+ Ke7 20.
+Rxf7+ Kd8 21. Qd1 Rxa2 22. Qd3 Qg1+ 23. Kd2 Qxg2+ 24. Kc1 Ra1# 0-1

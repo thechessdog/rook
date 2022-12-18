@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Gereben, Erno"]
+[Black "Lanz Calavia, J."]
+[Result "1-0"]
+[ECO "D45"]
+[Opening "QGD semi-Slav"]
+[Variation "Stoltz variation"]
+[HashCode "8dd33ba8"]
+[Epoch "Rook"]
+[WhiteCountry "HUN"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 c6 4. Nc3 e6 5. e3 Nbd7 6. Qc2 Bd6 7. cxd5 exd5 8.
+Bd3 O-O 9. Bd2 Re8 10. O-O-O Qe7 11. h4 Ne4 12. Bxe4 dxe4 13. Ng5 Nf6 14. f3
+exf3 15. gxf3 h6 16. Rdg1 hxg5 17. hxg5 g6 18. gxf6 Qxf6 19. Ne4 Qe7 20. Bb4
+Bxb4 21. Qh2 1-0

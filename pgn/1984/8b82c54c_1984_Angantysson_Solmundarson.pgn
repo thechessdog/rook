@@ -1,0 +1,27 @@
+[Event "Reykjavik"]
+[Site "Reykjavik"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Angantysson, Haukur"]
+[Black "Solmundarson, Magnus"]
+[Result "1/2-1/2"]
+[ECO "B10"]
+[Opening "Caro-Kann"]
+[Variation "closed (Breyer) variation"]
+[HashCode "8b82c54c"]
+[Epoch "Rook"]
+[WhiteCountry "ISL"]
+[BlackID "2300850"]
+[BlackCountry "ISL"]
+
+1. e4 c6 2. d3 d5 3. Nd2 g6 4. Ngf3 Bg7 5. c3 e5 6. Be2 Ne7 7. O-O O-O 8. Re1
+Qc7 9. Bf1 Nd7 10. a4 a5 11. b4 d4 12. cxd4 axb4 13. Bb2 exd4 14. Bxd4 Bxd4 15.
+Nxd4 Nc5 16. Qc2 Qd6 17. N4f3 Ne6 18. Qb2 c5 19. e5 Qd8 20. Ne4 Nd5 21. d4 cxd4
+22. Nxd4 Qb6 23. Nb5 Bd7 24. Qd2 Bxb5 25. Bxb5 Qd4 26. Rad1 Qxd2 27. Rxd2 Nc3
+28. Rb2 Nxa4 29. Rxb4 Nac5 30. Bf1 Nxe4 31. Rbxe4 Rfd8 32. Rb4 Rd7 33. g3 Rd2
+34. Bg2 Nc5 35. Rb5 Nd3 36. Rf1 Raa2 37. Bd5 Rab2 38. Rxb2 Rxb2 39. f4 b5 40.
+e6 fxe6 41. Bxe6+ Kg7 42. Rd1 Nc5 43. Bd5 b4 44. Rc1 Nd3 45. Rc7+ Kh8 46. Rc8+
+Kg7 47. Rc7+ Kh8 48. Rc8+ Kg7 49. Rg8+ Kf6 50. Rf8+ Kg7 51. Rf7+ Kh8 52. h4 Nc1
+53. Bg2 b3 54. h5 gxh5 55. Kh2 Re2 56. Kh3 b2 57. Rb7 Nd3 58. Bf1 Nf2+ 59. Kh4
+Re1 60. Rxb2 Rxf1 61. Kxh5 Rh1+ 62. Kg5 Ne4+ 63. Kg4 h5+ 64. Kf5 Nd6+ 65. Kg6
+Re1 1/2-1/2

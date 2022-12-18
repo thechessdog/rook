@@ -1,0 +1,20 @@
+[Event "Stockholm"]
+[Site "Stockholm"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Wedberg"]
+[Black "Sahovic"]
+[Result "1-0"]
+[ECO "C16"]
+[Opening "French"]
+[Variation "Winawer, Petrosian variation"]
+[HashCode "7173f44c"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 Qd7 5. a3 Bf8 6. f4 b6 7. Qf3 Ne7 8. g4
+Bb7 9. Nge2 c5 10. Be3 Na6 11. Bg2 h5 12. h3 hxg4 13. hxg4 Rxh1+ 14. Bxh1
+O-O-O 15. O-O-O Kb8 16. Bg2 Rc8 17. Bh3 Nc6 18. f5 Na5 19. g5 Nc4 20. g6
+Nc7 21. Rf1 fxg6 22. fxe6 Qe7 23. Nf4 cxd4 24. Bxd4 Nxb2 25. Nxg6 Qg5+ 26.
+Kxb2 Qxg6 27. Qf7 Bxa3+ 28. Kxa3 Qxc2 29. Qf5 Qd2 30. Qf2 Nb5+ 31. Nxb5
+Qa5+ 32. Kb2 Qxb5+ 33. Ka1 1-0
+

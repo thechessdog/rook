@@ -1,0 +1,21 @@
+[Event "Sweden"]
+[Site "Sweden"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Schneider, Lars-Ake"]
+[Black "Engstrom, Kaj"]
+[Result "1-0"]
+[ECO "B13"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack"]
+[HashCode "e10ed56f"]
+[Epoch "Rook"]
+[BlackID "1701134"]
+[BlackCountry "SWE"]
+[WhiteCountry "SWE"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 Nc6 6. Nf3 e6 7. cxd5 Nxd5 8.
+Bd3 Be7 9. O-O O-O 10. Re1 Nxc3 11. bxc3 Bf6 12. Qe2 Ne7 13. Ne5 Ng6 14. Nxg6
+hxg6 15. Be4 Qc7 16. Qf3 Re8 17. Bf4 Qc4 18. a4 a5 19. Bd5 Qa6 20. Bg3 Rd8 21.
+Be4 Qc4 22. h4 Ra7 23. h5 g5 24. h6 b6 25. Be5 Bxe5 26. dxe5 Qc5 27. hxg7 Rd2
+28. Qf6 Rad7 29. Re3 Rd1+ 30. Rxd1 Rxd1+ 31. Kh2 g4 32. Rg3 1-0

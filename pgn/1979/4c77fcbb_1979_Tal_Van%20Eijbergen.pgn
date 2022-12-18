@@ -1,0 +1,17 @@
+[Event "Amsterdam"]
+[Site "Amsterdam"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Tal, Mikhail"]
+[Black "Van Eijbergen, J."]
+[Result "0-1"]
+[ECO "C70"]
+[Opening "Ruy Lopez"]
+[Variation "Caro variation"]
+[HashCode "4c77fcbb"]
+[Epoch "Rook"]
+[WhiteCountry "LVA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 b5 5. Bb3 Bb7 6. O-O g5 7. d4 exd4 8. Nxd4
+Nxd4 9. Qxd4 Qf6 10. e5 Qc6 11. Qg4 Nh6 12. Qg3 Nf5 13. Qxg5 Be7 14. Qg4 Nh4
+15. f3 O-O-O 16. Bxf7 h5 17. Qh3 Rh7 18. e6 Rg7 19. Rf2 Bc5 20. Qxh4 Qxf3 0-1

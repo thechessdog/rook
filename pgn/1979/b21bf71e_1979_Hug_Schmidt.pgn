@@ -1,0 +1,20 @@
+[Event "Rome"]
+[Site "Rome"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Hug, Werner"]
+[Black "Schmidt, Wlodzimierz"]
+[Result "1/2-1/2"]
+[ECO "B25"]
+[Opening "Sicilian"]
+[Variation "closed, 6.f4"]
+[HashCode "b21bf71e"]
+[Epoch "Rook"]
+[WhiteID "1300040"]
+[WhiteCountry "SUI"]
+[BlackID "1100041"]
+[BlackCountry "POL"]
+
+1. g3 g6 2. Bg2 Bg7 3. e4 c5 4. Nc3 Nc6 5. d3 d6 6. f4 e6 7. Nf3 Nge7 8. O-O
+O-O 9. Be3 Nd4 10. Rb1 Rb8 11. Ne2 Nxf3+ 12. Bxf3 b6 13. Bf2 e5 14. fxe5 dxe5
+15. c4 1/2-1/2

@@ -1,0 +1,27 @@
+[Event "Aarhus"]
+[Site "Aarhus"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Hjorth, Torben"]
+[Black "Christensen, Jan"]
+[Result "0-1"]
+[ECO "A05"]
+[Opening "Reti opening"]
+[HashCode "422a2a93"]
+[Epoch "Rook"]
+[WhiteID "1403168"]
+[BlackID "1400916"]
+[WhiteCountry "DEN"]
+[BlackCountry "DEN"]
+
+1. Nf3 Nf6 2. g3 b6 3. Bg2 Bb7 4. d3 e6 5. O-O c5 6. c4 d6 7. Nbd2 Be7 8. b3
+O-O 9. Bb2 Nbd7 10. Qc2 a6 11. e3 Rc8 12. Rfe1 Qc7 13. Rad1 Qb8 14. Nf1 Qa8 15.
+Qe2 b5 16. h3 bxc4 17. bxc4 Rb8 18. Ba1 Bc6 19. g4 Rfc8 20. Ng3 Ne8 21. g5 Rb6
+22. h4 Rcb8 23. Nh5 R8b7 24. Nf4 Qb8 25. h5 Nf8 26. Qc2 Rb4 27. Rc1 e5 28. Nd5
+Bxd5 29. cxd5 Rg4 30. Kf1 f6 31. Bh3 Rgb4 32. Bc3 R4b5 33. d4 cxd4 34. exd4
+Rxd5 35. gxf6 Bxf6 36. dxe5 dxe5 37. Qa4 Rf7 38. Qxa6 Kh8 39. Ba1 e4 40. Rc8
+Qf4 41. Rxe8 exf3 42. Qa8 Qc4+ 43. Kg1 Qc5 44. Rc8 Qd6 45. Qc6 Rg5+ 46. Kh1 Qb4
+47. Rce8 Bxa1 48. Rxa1 Rxh5 49. Qc8 Rf6 50. Rae1 Rxh3+ 51. Qxh3 Rh6 52. Qxh6
+gxh6 53. R1e4 Qb1+ 54. Kh2 Kg7 55. Rf4 Ng6 56. Rxf3 Qxa2 57. Ree3 Qa4 58. Ra3
+Qh4+ 59. Kg1 Qg4+ 60. Kh2 Qd7 61. Rab3 h5 62. Ra3 h4 63. Rab3 Ne5 64. Rfc3 Ng4+
+65. Kg2 Qd5+ 66. Kg1 Qe5 67. Rf3 h3 68. Rb7+ Kg8 0-1

@@ -1,0 +1,20 @@
+[Event "corr ch-DDR"]
+[Site "corr ch-DDR"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Fritzsche"]
+[Black "Winkelhofer"]
+[Result "1-0"]
+[ECO "C13"]
+[Opening "French"]
+[Variation "Albin-Alekhine-Chatard attack, Teichmann variation"]
+[HashCode "f0803762"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Nfd7 6. h4 f6 7. Qh5+ Kf8 8.
+exf6 Nxf6 9. Qf3 c5 10. dxc5 b6 11. Nh3 Nc6 12. Nf4 e5 13. Bxf6 Bxf6 14.
+Nfxd5 Nd4 15. Qd1 Bxh4 16. Nb5 Bxf2+ 17. Kxf2 Qxd5 18. Nxd4 exd4 19. cxb6
+axb6 20. c4 Qf7+ 21. Qf3 Bb7 22. Qxf7+ Kxf7 23. Rh4 d3 24. Rd4 Rhd8 25.
+Rxd3 Rxd3 26. Bxd3 Rd8 27. Rd1 Kf6 28. Bc2 Rf8 29. Kg3 h5 30. Rd6+ Ke5 31.
+Rxb6 1-0
+

@@ -1,0 +1,18 @@
+[Event "Lugano op"]
+[Site "Lugano op"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Hermann, Manfred"]
+[Black "Fiala"]
+[Result "1-0"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance variation"]
+[HashCode "8203aa81"]
+[Epoch "Rook"]
+[WhiteID "4600584"]
+[WhiteCountry "GER"]
+
+1. e4 c5 2. c3 e6 3. d4 d5 4. e5 Ne7 5. Bd3 cxd4 6. cxd4 Nec6 7. Nf3 Be7 8. Nc3
+O-O 9. h4 f5 10. exf6 Bxf6 11. Bxh7+ Kxh7 12. Ng5+ Kg8 13. Qh5 Bxg5 14. hxg5
+Rf5 15. g4 Rf3 16. g6 Kf8 17. Qh8+ Ke7 18. Bg5+ Rf6 19. Qxg7+ 1-0

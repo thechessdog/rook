@@ -1,0 +1,17 @@
+[Event "London"]
+[Site "London"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Baker, C."]
+[Black "Davies, P."]
+[Result "1-0"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra gambit"]
+[HashCode "6c35e345"]
+[Epoch "Rook"]
+
+1. e4 c5 2. d4 cxd4 3. c3 d5 4. exd5 Qxd5 5. cxd4 Nc6 6. Nf3 Bg4 7. Nc3 Qa5
+8. d5 Rd8 9. Bd2 Ne5 10. Nxe5 Bxd1 11. Bb5+ Rd7 12. Bxd7+ Kd8 13. Rxd1 Nh6
+14. Ne4 Qxd5 15. Bc6 1-0
+

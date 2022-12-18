@@ -1,0 +1,20 @@
+[Event "corr EUR/K tt"]
+[Site "corr EUR/K tt"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Schiffer"]
+[Black "Bulla"]
+[Result "1-0"]
+[ECO "D35"]
+[Opening "QGD"]
+[Variation "exchange, positional line, 5...c6"]
+[HashCode "898f6313"]
+[Epoch "Rook"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. cxd5 exd5 5. Bg5 c6 6. e3 Nbd7 7. Bd3 Bd6
+8. Qc2 Nf8 9. Nf3 Ng6 10. O-O-O Be6 11. h4 Ne7 12. Kb1 Nd7 13. h5 h6 14.
+Bh4 Nf6 15. Ne5 Ng4 16. Nxg4 Bxg4 17. f3 Be6 18. e4 a6 19. e5 Bc7 20. f4
+Qd7 21. g4 Bxg4 22. Rdg1 Bf5 23. Bxe7 Bxd3 24. Qxd3 Kxe7 25. Rxg7 Raf8 26.
+Rhg1 Kd8 27. Na4 Qe7 28. Qb3 Kc8 29. Nc5 Bb8 30. Qh3+ Kd8 31. R1g6 Kc7 32.
+Re6 Qd8 33. Rd6 1-0
+

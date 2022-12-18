@@ -1,0 +1,21 @@
+[Event "Aarhus-A"]
+[Site "Aarhus"]
+[Date "1984.01.01"]
+[Round "8"]
+[White "Rasmussen, Karsten"]
+[Black "Knudsen, Per"]
+[Result "1/2-1/2"]
+[ECO "C11"]
+[Opening "French"]
+[Variation "Steinitz, Boleslavsky variation"]
+[HashCode "ccafcc7a"]
+[Epoch "Rook"]
+[WhiteID "1400088"]
+[WhiteCountry "DEN"]
+[BlackID "1400509"]
+[BlackCountry "DEN"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 Nc6 7. Be3 f5 8. Be2
+Be7 9. O-O O-O 10. dxc5 Nxc5 11. Nb5 a6 12. Nbd4 Nxd4 13. Nxd4 b5 14. Nc6 Qc7
+15. Nxe7+ Qxe7 16. Qd4 Ne4 17. c3 Bd7 18. Rac1 Rfc8 19. Rfd1 Be8 20. b3 Rc7 21.
+Bf3 Rac8 22. Bxe4 1/2-1/2

@@ -1,0 +1,19 @@
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Herzog"]
+[Black "Dueckstein, Andreas"]
+[Result "0-1"]
+[ECO "C29"]
+[Opening "Vienna gambit"]
+[Variation "Breyer variation"]
+[HashCode "147512f8"]
+[Epoch "Rook"]
+[BlackID "1600168"]
+[BlackCountry "AUT"]
+
+1. e4 e5 2. Nc3 Nf6 3. f4 d5 4. fxe5 Nxe4 5. Nf3 Be7 6. d3 Nxc3 7. bxc3 c5 8.
+d4 Nc6 9. Be2 cxd4 10. cxd4 Bb4+ 11. Kf1 O-O 12. Qd3 f6 13. exf6 Qxf6 14. Be3
+Bf5 15. Qb3 Be4 16. Kg1 Rae8 17. Rf1 Qg6 18. Ng5 h6 19. Rxf8+ Bxf8 20. Nf3 Nb4
+21. c4 Bc2 22. Qa3 Qe4 0-1

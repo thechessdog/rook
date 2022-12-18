@@ -1,0 +1,19 @@
+[Event "Riga"]
+[Site "Riga"]
+[Date "1981.01.01"]
+[Round "15"]
+[White "Gipslis, Aivars"]
+[Black "Mortensen, Erling"]
+[Result "1/2-1/2"]
+[ECO "E96"]
+[Opening "King's Indian"]
+[Variation "orthodox, 7...Nbd7, main line"]
+[HashCode "834873c3"]
+[Epoch "Rook"]
+[BlackID "1400045"]
+[BlackCountry "DEN"]
+[WhiteCountry "LVA"]
+
+1. c4 e5 2. Nc3 Nf6 3. Nf3 d6 4. d4 Nbd7 5. e4 g6 6. Be2 Bg7 7. O-O O-O 8. Re1
+c6 9. Bf1 a5 10. Rb1 Re8 11. d5 Qc7 12. h3 Rf8 13. b3 cxd5 14. Nb5 Qd8 15. cxd5
+Nc5 16. Nd2 Ne8 17. Ba3 b6 18. Rc1 Bh6 19. Rc3 Kh8 1/2-1/2

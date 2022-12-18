@@ -1,0 +1,22 @@
+[Event "corr ch-CSSR"]
+[Site "corr ch-CSSR"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Banot"]
+[Black "Olsar"]
+[Result "1-0"]
+[ECO "D09"]
+[Opening "QGD"]
+[Variation "Albin counter-gambit, 5.g3"]
+[HashCode "21d093fc"]
+[Epoch "Rook"]
+
+1. d4 d5 2. c4 e5 3. dxe5 d4 4. Nf3 Nc6 5. g3 Bg4 6. Nbd2 Bxf3 7. Nxf3 Bc5
+8. Bg2 f6 9. exf6 Nxf6 10. O-O O-O 11. Qb3 Qd7 12. Ng5 Rae8 13. Bh3 Ng4 14.
+Qb5 Re5 15. Bf4 a6 16. Qb3 Re7 17. Qd3 g6 18. a3 Qf5 19. Ne4 Qxe4 20. Qxe4
+Rxe4 21. Bxg4 a5 22. Bf3 Re7 23. Bh6 Rf5 24. g4 Rfe5 25. Bf4 Rxe2 26. Bxe2
+Rxe2 27. Rab1 d3 28. Rbd1 Re4 29. Bxc7 Rxg4+ 30. Kh1 Rd4 31. Rd2 a4 32.
+Rfd1 Rxc4 33. Rxd3 Bxf2 34. Rc3 Re4 35. b4 axb3 36. Rxb3 Bc5 37. Rc3 Re7
+38. Rxc5 Rxc7 39. Rcd5 Re7 40. Rd7 Kf8 41. a4 Ke8 42. Rxe7+ Kxe7 43. Rb1
+Nd8 44. a5 1-0
+

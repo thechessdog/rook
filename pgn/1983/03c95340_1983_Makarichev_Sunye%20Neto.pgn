@@ -1,0 +1,20 @@
+[Event "Novi Sad"]
+[Site "Novi Sad"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Makarichev, Sergey"]
+[Black "Sunye Neto, Jaime"]
+[Result "1/2-1/2"]
+[ECO "A17"]
+[Opening "English"]
+[Variation "Nimzo-English opening"]
+[HashCode "03c95340"]
+[Epoch "Rook"]
+[WhiteID "4100468"]
+[WhiteCountry "RUS"]
+[BlackID "2100037"]
+[BlackCountry "BRA"]
+
+1. c4 Nf6 2. Nc3 e6 3. Nf3 Bb4 4. Qc2 b6 5. a3 Bxc3 6. Qxc3 Bb7 7. e3 O-O 8.
+Be2 d6 9. O-O Nbd7 10. d3 c5 11. b3 Re8 12. Bb2 e5 13. Rfe1 Rc8 14. Rad1 Nf8
+15. b4 1/2-1/2

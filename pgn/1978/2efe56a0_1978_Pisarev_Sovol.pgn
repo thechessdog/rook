@@ -1,0 +1,20 @@
+[Event "Krasnodar"]
+[Site "Krasnodar"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Pisarev"]
+[Black "Sovol"]
+[Result "1-0"]
+[ECO "C80"]
+[Opening "Ruy Lopez"]
+[Variation "open, Bernstein variation"]
+[HashCode "2efe56a0"]
+[Epoch "Rook"]
+[WhiteID "13713159"]
+[WhiteCountry "KAZ"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Be6 9. Nbd2 Nc5 10. c3 d4 11. Bxe6 Nxe6 12. Ne4 Be7 13. cxd4 Ncxd4 14. Be3 c5
+15. b4 Nxf3+ 16. Qxf3 c4 17. Rfd1 Qc8 18. Nd6+ Bxd6 19. exd6 O-O 20. d7 Qc7 21.
+a4 bxa4 22. Bc5 Nxc5 23. bxc5 Rab8 24. Qg3 Qa5 25. c6 Rb3 26. c7 Rxg3 27. d8=Q
+Rd3 28. Rxd3 cxd3 29. Qxf8+ Kxf8 30. c8=Q+ Ke7 31. Qc4 Qe5 32. Rd1 1-0

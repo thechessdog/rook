@@ -1,0 +1,21 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Razuvaev, Yuri S"]
+[Black "Anikaev, Yuri N"]
+[Result "1-0"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "4.Nf3"]
+[HashCode "35bceab1"]
+[Epoch "Rook"]
+[WhiteCountry "RUS"]
+[BlackID "4101650"]
+[BlackCountry "RUS"]
+
+1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. Nc3 Be7 5. Bg5 h6 6. Bh4 O-O 7. Rc1 dxc4 8. e4
+a6 9. Bxc4 b5 10. Bd3 Bb7 11. O-O b4 12. Bxf6 Bxf6 13. Ne2 Nd7 14. e5 Be7 15.
+Bb1 g6 16. Nf4 Bg5 17. Nxg5 hxg5 18. Nh3 c5 19. Qg4 cxd4 20. Nxg5 Nxe5 21. Qh4
+Kg7 22. Qh7+ Kf6 23. f4 Nd7 24. f5 Kxg5 25. fxe6 Nf6 26. Rc5+ Bd5 27. h4+ Kg4
+28. Bf5+ Kg3 29. Qh6 Nh5 30. Rxd5 Qxh4 31. Rf3# 1-0

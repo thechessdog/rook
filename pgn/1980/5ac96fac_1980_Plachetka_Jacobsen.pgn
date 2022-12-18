@@ -1,0 +1,23 @@
+[Event "Kopenhagen open"]
+[Site "Kopenhagen open"]
+[Date "1980.06.01"]
+[Round "6"]
+[White "Plachetka, Jan"]
+[Black "Jacobsen, Bo"]
+[Result "1-0"]
+[ECO "E97"]
+[Opening "King's Indian"]
+[Variation "orthodox, Aronin-Taimanov variation (Yugoslav attack / Mar del Plata variation)"]
+[HashCode "5ac96fac"]
+[Epoch "Rook"]
+[WhiteID "14900068"]
+[WhiteCountry "SVK"]
+[BlackID "1400738"]
+[BlackCountry "DEN"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. O-O Nc6 8. d5
+Ne7 9. Nd2 Ne8 10. b4 c5 11. dxc6 bxc6 12. a4 Be6 13. Ba3 f5 14. b5 c5 15. Nb3
+Nf6 16. Qd3 fxe4 17. Nxe4 Nxe4 18. Qxe4 Rf4 19. Qc2 Bf5 20. Qd2 Be4 21. Rad1
+Nf5 22. Nxc5 Bxg2 23. Ne6 Qf6 24. Nxf4 exf4 25. Kxg2 f3+ 26. Kh1 Nd4 27. Qxd4
+Qxd4 28. Rxd4 fxe2 29. Re1 Bxd4 30. Rxe2 Rc8 31. Re4 Bc5 32. Bxc5 Rxc5 33. Re7
+Rxc4 34. Rxa7 Rb4 35. Rc7 Rxa4 36. b6 1-0

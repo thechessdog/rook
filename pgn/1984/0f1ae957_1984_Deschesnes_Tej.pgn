@@ -1,0 +1,23 @@
+[Event "Shawinigan"]
+[Site "Shawinigan"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Deschesnes, Steve"]
+[Black "Tej, Yahia"]
+[Result "0-1"]
+[ECO "B92"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Opovcensky variation"]
+[HashCode "0f1ae957"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 Nbd7 7. Bg5 b5
+8. a3 Bb7 9. f3 e6 10. Qd2 Qc7 11. O-O-O Be7 12. g4 Rc8 13. h4 Nb6 14. Bxf6
+gxf6 15. Bxb5+ axb5 16. Ndxb5 Qd7 17. Nxd6+ Bxd6 18. Qxd6 Qxd6 19. Rxd6 Nc4
+20. Rd4 e5 21. Rd3 h6 22. Rhd1 h5 23. gxh5 Rxh5 24. Nb5 Ba6 25. Nd6+ Nxd6
+26. Rxd6 Be2 27. R1d5 Bxf3 28. Rxf6 Bxe4 29. Rd2 Rxh4 30. Rf1 Ke7 31. Rdf2
+Bg6 32. Re1 Ke6 33. c3 Rb8 34. Ref1 f5 35. Rg1 Kf6 36. Rd2 Rb6 37. b4 Rc6
+38. Kb2 Rhc4 39. Rdg2 Bf7 40. Rc1 f4 41. Rf2 Kf5 42. Rh2 e4 43. Rh7 Rc7 44.
+Re1 e3 45. b5 Ke4 46. b6 Rb7 47. Kc2 Rc6 48. Rb1 Kf3 49. Rxf7 Rxf7 50. b7
+Rxb7 51. Rxb7 e2 52. Kd2 Rd6+ 0-1
+

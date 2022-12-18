@@ -1,0 +1,17 @@
+[Event "Dayton,OH"]
+[Site "Dayton,OH"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Wall, Bill"]
+[Black "Campelli, Cris"]
+[Result "1-0"]
+[ECO "A74"]
+[Opening "Benoni"]
+[Variation "classical, 9...a6, 10.a4"]
+[HashCode "a297a8ec"]
+[Epoch "Rook"]
+[WhiteCountry "USA"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 c5 4. d5 exd5 5. cxd5 d6 6. Nf3 g6 7. e4 Bg7 8. Be2
+O-O 9. O-O a6 10. a4 Re8 11. Nd2 Nbd7 12. f3 Rb8 13. a5 b6 14. axb6 Qxb6 15.
+Kh1 Nh5 16. Nc4 Qa7 17. Nxd6 Re7 18. Nxc8 Rxc8 19. Rxa6 Qc7 20. d6 1-0

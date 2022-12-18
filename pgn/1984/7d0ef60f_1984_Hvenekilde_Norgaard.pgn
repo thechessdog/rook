@@ -1,0 +1,22 @@
+[Event "Politiken Cup"]
+[Site "Copenhagen"]
+[Date "1984.01.01"]
+[Round "10"]
+[White "Hvenekilde, Jorgen"]
+[Black "Norgaard, Jesper"]
+[Result "0-1"]
+[ECO "E94"]
+[Opening "King's Indian"]
+[Variation "orthodox, 7...Nbd7"]
+[HashCode "7d0ef60f"]
+[Epoch "Rook"]
+[WhiteID "1400649"]
+[BlackID "1400517"]
+[WhiteCountry "DEN"]
+[BlackCountry "DEN"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. Nc3 O-O 5. e4 d6 6. Be2 e5 7. O-O Nbd7 8. Qc2
+c6 9. Rd1 Re8 10. Rb1 exd4 11. Nxd4 Nc5 12. f3 a5 13. b3 Nh5 14. Be3 Be5 15. g3
+Qe7 16. a3 f5 17. b4 axb4 18. axb4 f4 19. gxf4 Nxf4 20. Bxf4 Bxf4 21. bxc5 dxc5
+22. Nb3 Bxh2+ 23. Kf2 Qh4+ 24. Ke3 Bf4+ 25. Kd3 Rd8+ 26. Nd5 cxd5 27. cxd5
+Rxd5+ 28. Kc4 Ra4+ 29. Kb5 Rb4+ 30. Ka5 Bc7# 0-1

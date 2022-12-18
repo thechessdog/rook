@@ -1,0 +1,23 @@
+[Event "Rumania"]
+[Site "Rumania"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Foisor, Ovidiu-Doru"]
+[Black "Stoica, Valentin"]
+[Result "1-0"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Nimzovich (knight's tour) variation"]
+[HashCode "a472bc15"]
+[Epoch "Rook"]
+[WhiteID "1200143"]
+[WhiteCountry "ROU"]
+[BlackID "1200070"]
+[BlackCountry "ROU"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. Nd2 Nbd7 8. e4
+Bg7 9. Be2 O-O 10. O-O Re8 11. a4 g5 12. Qc2 Ne5 13. Nc4 Nxc4 14. Bxc4 Nh5 15.
+Bd2 a6 16. a5 Bd7 17. Na4 Bxa4 18. Rxa4 Be5 19. g3 Qf6 20. Be2 Qg6 21. b4 Rac8
+22. Bg4 Rc7 23. bxc5 Rxc5 24. Rc4 Rxc4 25. Qxc4 Ng7 26. Bd7 Rf8 27. Bc8 f5 28.
+Bxb7 fxe4 29. Bxa6 Nh5 30. Bc8 Kh8 31. a6 Qg7 32. Be3 Qg8 33. Be6 Qg6 34. a7
+Nf4 35. Rb1 1-0

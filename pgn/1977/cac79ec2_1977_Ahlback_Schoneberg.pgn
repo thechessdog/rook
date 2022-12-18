@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Ahlback, B."]
+[Black "Schoneberg, G."]
+[Result "0-1"]
+[ECO "C06"]
+[Opening "French"]
+[Variation "Tarrasch, Leningrad variation"]
+[HashCode "cac79ec2"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Bd3 c5 6. c3 Nc6 7. Ne2 cxd4 8.
+cxd4 Nb6 9. O-O Bd7 10. f4 g6 11. Nf3 h5 12. a3 a5 13. Qe1 a4 14. h3 Na5
+15. Rb1 Nbc4 16. Nd2 Rc8 17. Nxc4 Nxc4 18. Nc3 Qa5 19. Bd2 Nxd2 20. Qxd2
+Bxa3 21. Ra1 Bxb2 0-1
+

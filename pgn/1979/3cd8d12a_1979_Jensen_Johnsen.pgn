@@ -1,0 +1,22 @@
+[Event "Gausdal"]
+[Site "Gausdal"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Jensen, Allan"]
+[Black "Johnsen, Oystein"]
+[Result "1-0"]
+[ECO "B25"]
+[Opening "Sicilian"]
+[Variation "closed, 6.f4 e5 (Botvinnik)"]
+[HashCode "3cd8d12a"]
+[Epoch "Rook"]
+[WhiteID "1401181"]
+[BlackID "1515861"]
+[WhiteCountry "DEN"]
+[BlackCountry "NOR"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. f4 e5 7. Nh3 f5 8. O-O Nf6
+9. fxe5 dxe5 10. exf5 Bxf5 11. Bg5 Qd7 12. Bxf6 Bxf6 13. Nd5 Bd8 14. Nf2 Be6
+15. c4 O-O 16. Ne4 Rxf1+ 17. Qxf1 Bxd5 18. cxd5 Nb4 19. d6 Kg7 20. Bh3 Qe8 21.
+Kh1 b6 22. Qf3 Nc2 23. Rf1 Nd4 24. d7 Qe7 25. Qg2 Rb8 26. Nf6 Nf5 27. Ne8+ Kh8
+28. Bxf5 gxf5 29. Rxf5 Qxd7 30. Rf8# 1-0

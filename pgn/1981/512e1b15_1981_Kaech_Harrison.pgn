@@ -1,0 +1,17 @@
+[Event "Tacoma,WA"]
+[Site "Tacoma,WA"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Kaech, R."]
+[Black "Harrison, C."]
+[Result "1-0"]
+[ECO "A18"]
+[Opening "English"]
+[Variation "Mikenas-Carls variation"]
+[HashCode "512e1b15"]
+[Epoch "Rook"]
+
+1. c4 Nf6 2. Nc3 e6 3. e4 d6 4. d4 Be7 5. Nf3 O-O 6. Bd3 c6 7. h4 Nfd7 8.
+e5 dxe5 9. dxe5 c5 10. Bxh7+ Kxh7 11. Ng5+ Kg6 12. h5+ Kf5 13. g4+ Kxe5 14.
+f4+ Kf6 15. Nh7# 1-0
+

@@ -1,0 +1,23 @@
+[Event "Gausdal Jubilee"]
+[Site "Gausdal Jubilee"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Agdestein, Simen"]
+[Black "Sjoberg, Mats"]
+[Result "1-0"]
+[ECO "A30"]
+[Opening "English"]
+[Variation "symmetrical, hedgehog system"]
+[HashCode "308a7b6b"]
+[Epoch "Rook"]
+[WhiteID "1500015"]
+[WhiteCountry "NOR"]
+[BlackID "1700375"]
+[BlackCountry "SWE"]
+
+1. Nf3 c5 2. g3 b6 3. Bg2 Bb7 4. O-O Nf6 5. c4 e6 6. Nc3 Be7 7. Re1 O-O 8. e4
+d6 9. d4 cxd4 10. Nxd4 Qc7 11. b3 a6 12. Bb2 Nbd7 13. f4 Rad8 14. g4 d5 15. e5
+dxc4 16. Bxb7 Qxb7 17. exf6 Nxf6 18. Qf3 Qxf3 19. Nxf3 Nxg4 20. Re2 Rd3 21. Ne5
+Bc5+ 22. Kg2 Nxe5 23. fxe5 Bd4 24. Rc1 cxb3 25. axb3 f5 26. exf6 Rxf6 27. Ne4
+Rg6+ 28. Kh1 Be3 29. Rc8+ Kf7 30. Re1 Rg4 31. Rc4 Kg6 32. Nf2 Rxc4 33. Nxd3 Re4
+34. Bc1 1-0

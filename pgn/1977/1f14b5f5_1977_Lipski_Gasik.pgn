@@ -1,0 +1,17 @@
+[Event "Cechanov"]
+[Site "Cechanov"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Lipski"]
+[Black "Gazik, Igor"]
+[Result "1-0"]
+[ECO "C44"]
+[Opening "Ponziani opening"]
+[HashCode "1f14b5f5"]
+[Epoch "Rook"]
+[BlackID "14900149"]
+[BlackCountry "SVK"]
+
+1. e4 e5 2. Nf3 Nc6 3. c3 d5 4. Bb5 dxe4 5. Nxe5 Qg5 6. Qa4 Qxg2 7. Bxc6+ bxc6
+8. Qxc6+ Ke7 9. Qxc7+ Kf6 10. Qxf7+ Kxe5 11. d4+ Kd6 12. Bf4+ Kc6 13. d5+ Kb5
+14. Qe8+ Kc4 15. Qc6+ Kd3 16. Qb5+ Kc2 17. Qe2# 1-0

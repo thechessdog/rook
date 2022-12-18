@@ -1,0 +1,17 @@
+[Event "corr DDR-M"]
+[Site "corr DDR-M"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Heinrich, H."]
+[Black "Bender, H."]
+[Result "1-0"]
+[ECO "D82"]
+[Opening "Gruenfeld"]
+[Variation "4.Bf4"]
+[HashCode "ec9414ef"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Bf4 Bg7 5. e3 c5 6. Qb3 dxc4 7. Bxc4 O-O 8.
+Nf3 Qa5 9. O-O cxd4 10. exd4 Qf5 11. Bg3 Nc6 12. Rad1 Na5 13. Qb4 Nxc4 14.
+Qxc4 Rd8 15. Bc7 Rf8 16. Rfe1 e6 17. Re5 Qc2 18. Rd2 1-0
+

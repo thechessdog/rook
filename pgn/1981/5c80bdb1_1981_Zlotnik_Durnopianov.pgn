@@ -1,0 +1,21 @@
+[Event "Moscow"]
+[Site "Moscow"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Zlotnik, Boris A"]
+[Black "Durnopianov, I."]
+[Result "1-0"]
+[ECO "A06"]
+[Opening "Reti"]
+[Variation "Nimzovich-Larsen attack"]
+[HashCode "5c80bdb1"]
+[Epoch "Rook"]
+[WhiteID "4101413"]
+[WhiteCountry "RUS"]
+
+1. Nf3 d5 2. b3 c6 3. Bb2 Bg4 4. Ne5 Bf5 5. e3 f6 6. Nf3 e5 7. Be2 Bd6 8. O-O
+Ne7 9. d3 O-O 10. Nbd2 Nd7 11. e4 Be6 12. d4 Ng6 13. g3 Qe7 14. a3 Rad8 15. c4
+f5 16. cxd5 cxd5 17. exf5 Bxf5 18. dxe5 Ngxe5 19. Re1 Qf7 20. Nd4 Bc5 21. Kg2
+Be4+ 22. f3 Ng4 23. Bb5 Nde5 24. Nxe4 Bxd4 25. Ng5 Qh5 26. Qxd4 Qxh2+ 27. Kf1
+Qh1+ 28. Ke2 Qg2+ 29. Kd1 Rc8 30. Re2 Qh1+ 31. Kd2 Qh6 32. Rxe5 Nxe5 33. Qxe5
+a6 34. Bf1 1-0

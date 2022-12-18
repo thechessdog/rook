@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Panteleev, L."]
+[Black "Freise, E."]
+[Result "1-0"]
+[ECO "C63"]
+[Opening "Ruy Lopez"]
+[Variation "Schliemann defence, Berger variation"]
+[HashCode "2a61bdec"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 f5 4. Nc3 Nd4 5. Bc4 c6 6. d3 d6 7. Nxd4 exd4 8.
+Ne2 Qf6 9. O-O g5 10. f4 g4 11. c3 dxc3 12. bxc3 Ne7 13. Be3 Bg7 14. e5 Qg6
+15. exd6 Qxd6 16. Qb3 Nd5 17. Bd4 O-O 18. Rae1 Re8 19. Ng3 Bxd4+ 20. cxd4
+Bd7 21. Re5 Rxe5 22. fxe5 1-0
+

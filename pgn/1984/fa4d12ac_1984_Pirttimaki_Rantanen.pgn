@@ -1,0 +1,18 @@
+[Event "Helsinki"]
+[Site "Helsinki"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Pirttimaki, Timo"]
+[Black "Rantanen, Yrjo A."]
+[Result "1/2-1/2"]
+[ECO "C33"]
+[Opening "KGA"]
+[Variation "bishop's gambit"]
+[HashCode "fa4d12ac"]
+[Epoch "Rook"]
+[BlackID "500038"]
+[BlackCountry "FIN"]
+[WhiteCountry "FIN"]
+
+1. e4 e5 2. f4 exf4 3. Bc4 Qh4+ 4. Kf1 d6 5. d4 Be6 6. Qd3 Nd7 7. Nc3 c6 8. Nf3
+Qf6 9. h4 Nh6 10. Ne2 Bxc4 11. Qxc4 O-O-O 12. Bxf4 Re8 13. Bg5 1/2-1/2

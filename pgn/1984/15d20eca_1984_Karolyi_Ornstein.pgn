@@ -1,0 +1,21 @@
+[Event "Helsinki"]
+[Site "Helsinki"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Karolyi, Tibor"]
+[Black "Ornstein, Axel"]
+[Result "1/2-1/2"]
+[ECO "E15"]
+[Opening "Queen's Indian"]
+[Variation "Nimzovich variation (exaggerated fianchetto)"]
+[HashCode "15d20eca"]
+[Epoch "Rook"]
+[WhiteID "700312"]
+[WhiteCountry "HUN"]
+[BlackID "1700111"]
+[BlackCountry "SWE"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. b3 Bb4+ 6. Bd2 Be7 7. Nc3 O-O 8. e4
+d5 9. cxd5 Bxf1 10. Kxf1 exd5 11. e5 Ne4 12. Rc1 c5 13. Be3 Nc6 14. Kg2 cxd4
+15. Bxd4 Rc8 16. Ne2 Bc5 17. Rf1 Re8 18. Bb2 h6 19. Ned4 Bxd4 20. Bxd4 Ng5 21.
+Nxg5 Qxg5 22. Re1 Qf5 23. Rc3 Nxd4 1/2-1/2

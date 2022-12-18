@@ -1,0 +1,19 @@
+[Event "Verbandsliga"]
+[Site "Verbandsliga"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Kreuzer"]
+[Black "Haag, Ervin"]
+[Result "0-1"]
+[ECO "A00"]
+[Opening "Polish"]
+[Variation "Outflank variation"]
+[HashCode "bffc4e60"]
+[Epoch "Rook"]
+[BlackID "700398"]
+[BlackCountry "HUN"]
+
+1. b4 c6 2. e3 Qb6 3. a3 a5 4. Bb2 d5 5. c4 dxc4 6. Bxc4 axb4 7. Bd4 c5 8. Bxc5
+Qxc5 9. Bxf7+ Kxf7 10. axb4 Rxa1 11. bxc5 Be6 12. Ne2 Na6 13. Nec3 Nf6 14. O-O
+Nxc5 15. d4 Ncd7 16. d5 Bf5 17. Qf3 Bd3 18. Rd1 Nc5 19. Rxd3 Nxd3 20. g4 Ne5
+21. Qf5 0-1

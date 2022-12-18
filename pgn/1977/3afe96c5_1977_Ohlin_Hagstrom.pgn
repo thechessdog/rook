@@ -1,0 +1,24 @@
+[Event "corr SWE/K"]
+[Site "corr SWE/K"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Ohlin, Jan"]
+[Black "Hagstrom, Allan"]
+[Result "1/2-1/2"]
+[ECO "A77"]
+[Opening "Benoni"]
+[Variation "classical, 9...Re8, 10.Nd2"]
+[HashCode "3afe96c5"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 c5 3. d5 g6 4. Nc3 d6 5. Nf3 Bg7 6. e4 O-O 7. Be2 e6 8. O-O
+exd5 9. cxd5 Re8 10. Nd2 Nbd7 11. a4 a6 12. Ra3 Ne5 13. Qc2 Qe7 14. h3 g5
+15. Re1 g4 16. hxg4 Nfxg4 17. Nf1 c4 18. Nd1 Bd7 19. Rg3 Kh8 20. Bd2 Bf6
+21. Bc3 Rg8 22. f4 Bh4 23. fxe5 dxe5 24. Bxg4 Bxg3 25. Nxg3 Rxg4 26. Nf5
+Bxf5 27. exf5 f6 28. Qd2 Rag8 29. Re2 Qc5+ 30. Ne3 Rd4 31. Bxd4 exd4 32.
+Nd1 Qxd5 33. Nc3 Qd8 34. Ne4 d3 35. Re3 Qd4 36. Nc3 Re8 37. Nd1 Re5 38. Qc3
+Qb6 39. a5 Qc5 40. b4 cxb3 41. Qxc5 Rxc5 42. Rxd3 Rb5 43. Nb2 Rxa5 44. Rxb3
+Rxf5 45. Rxb7 Rb5 46. Rxb5 axb5 47. Nd3 Kg7 48. Kf2 Kg6 49. Nb4 Kg5 50. Kg3
+h5 51. Nd5 h4+ 52. Kf3 Kf5 53. Ne7+ Kg5 54. Nc6 f5 55. Nb4 h3 56. gxh3 Kh4
+57. Kg2 f4 58. Nd3 f3+ 59. Kh2 b4 60. Ne5 1/2-1/2
+

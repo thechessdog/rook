@@ -1,0 +1,17 @@
+[Event "corr EU"]
+[Site "corr EU"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Hochgrafe"]
+[Black "Van der Nat"]
+[Result "1-0"]
+[ECO "D25"]
+[Opening "QGA, Smyslov variation"]
+[HashCode "9e547d13"]
+[Epoch "Rook"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. e3 g6 5. Bxc4 Bg7 6. O-O O-O 7. Nc3 Bg4
+8. h3 Bxf3 9. Qxf3 Nc6 10. Rd1 e6 11. b3 a6 12. Bb2 Qd7 13. Rac1 Rad8 14.
+Na4 Nd5 15. Nc5 Qc8 16. Nxa6 Nxd4 17. Bxd4 Bxd4 18. Bxd5 exd5 19. Rxc7 Qe6
+20. Rxd4 bxa6 21. Rc5 1-0
+

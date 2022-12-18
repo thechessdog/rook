@@ -1,0 +1,19 @@
+[Event "Toronto ch-CAN - zt"]
+[Site "Toronto ch-CAN - zt"]
+[Date "1978.01.01"]
+[Round "10"]
+[White "South, Robert"]
+[Black "Nickoloff, Bryon"]
+[Result "1-0"]
+[ECO "B27"]
+[Opening "Sicilian"]
+[Variation "Hungarian variation"]
+[HashCode "1c5b6532"]
+[Epoch "Rook"]
+[WhiteID "2600722"]
+[WhiteCountry "CAN"]
+[BlackCountry "CAN"]
+
+1. e4 c5 2. Nf3 g6 3. c3 Bg7 4. d4 cxd4 5. cxd4 Nf6 6. e5 Nd5 7. h4 d6 8. h5
+Nc6 9. h6 Bf8 10. Bc4 dxe5 11. dxe5 Qa5+ 12. Bd2 Qc5 13. Qb3 Be6 14. Nc3 Nf4
+15. Bxe6 Nxe6 16. Na4 1-0

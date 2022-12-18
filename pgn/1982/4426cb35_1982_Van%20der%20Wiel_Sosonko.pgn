@@ -1,0 +1,20 @@
+[Event "Amsterdam"]
+[Site "Amsterdam"]
+[Date "1982.07.01"]
+[Round "5"]
+[White "Van der Wiel, John T.H."]
+[Black "Sosonko, Gennadi"]
+[Result "1/2-1/2"]
+[ECO "B12"]
+[Opening "Caro-Kann"]
+[Variation "advance variation"]
+[HashCode "4426cb35"]
+[Epoch "Rook"]
+[WhiteID "1000020"]
+[WhiteCountry "NED"]
+[BlackID "1000039"]
+[BlackCountry "NED"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nc3 e6 5. g4 Bg6 6. Nge2 c5 7. Be3 Nc6 8. dxc5
+Qh4 9. Nb5 Be4 10. Nc7+ Kd7 11. Nxa8 Bxh1 12. Ng3 Qxh2 13. b4 Nh6 14. Qe2 Be7
+15. b5 Nxe5 1/2-1/2

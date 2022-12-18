@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Peljo"]
+[Black "Pahta"]
+[Result "1-0"]
+[ECO "C11"]
+[Opening "French"]
+[Variation "Steinitz, Boleslavsky variation"]
+[HashCode "82a549f5"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 Nc6 7. Be3 Qb6 8.
+Be2 Qxb2 9. Nb5 Nb4 10. O-O Qxc2 11. Nc7+ Kd8 12. Nxa8 h6 13. dxc5 Qe4 14.
+Bf2 Bxc5 15. Bb5 Qxf4 16. Qa4 Nd3 17. Qxf4 Nxf4 18. Rac1 b6 19. Bxc5 bxc5
+20. Nd2 a6 21. Rxf4 axb5 22. Rxf7 g5 23. Nb3 Ke8 24. Rcf1 d4 25. Nc7+ Kd8
+26. Nxe6+ Ke8 27. Nbxc5 1-0
+

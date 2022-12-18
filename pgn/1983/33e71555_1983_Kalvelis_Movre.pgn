@@ -1,0 +1,18 @@
+[Event "corr YUG-USSR"]
+[Site "corr YUG-USSR"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Kalvelis"]
+[Black "Movre"]
+[Result "0-1"]
+[ECO "C43"]
+[Opening "Petrov"]
+[Variation "modern attack, Symmetrical variation"]
+[HashCode "33e71555"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nf6 3. d4 Nxe4 4. Bd3 d5 5. Nxe5 Nd7 6. Nxd7 Bxd7 7. O-O
+Qh4 8. c4 O-O-O 9. c5 g5 10. Nc3 Bg7 11. Ne2 g4 12. Be3 Qe7 13. b4 h5 14.
+Rb1 h4 15. b5 g3 16. Qa4 h3 17. hxg3 hxg2 18. Rfc1 Nxg3 19. Nxg3 Qh4 20.
+Kxg2 Bh3+ 21. Kg1 Be5 0-1
+

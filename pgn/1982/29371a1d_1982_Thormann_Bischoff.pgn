@@ -1,0 +1,17 @@
+[Event "Bundesliga 8182"]
+[Site "Duitsland tt"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Thormann, Wolfgang2"]
+[Black "Bischoff, Klaus"]
+[Result "0-1"]
+[ECO "A42"]
+[Opening "Modern defence"]
+[Variation "Averbakh system, Kotov variation"]
+[HashCode "29371a1d"]
+[Epoch "Rook"]
+[BlackID "4600045"]
+[BlackCountry "GER"]
+
+1. d4 g6 2. c4 Bg7 3. Nc3 d6 4. e4 Nc6 5. d5 Nd4 6. Be3 c5 7. Nge2 Qb6 8. Qd2
+Nf6 9. h3 O-O 10. Rb1 Qa5 11. Rd1 Nxe4 0-1

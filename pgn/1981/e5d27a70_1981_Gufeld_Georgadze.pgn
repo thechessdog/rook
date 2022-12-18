@@ -1,0 +1,21 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Gufeld, Eduard"]
+[Black "Giorgadze, Tamaz"]
+[Result "1-0"]
+[ECO "B81"]
+[Opening "Sicilian"]
+[Variation "Scheveningen, Keres attack"]
+[HashCode "e5d27a70"]
+[Epoch "Rook"]
+[BlackID "13600028"]
+[WhiteCountry "RUS"]
+[BlackCountry "GEO"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. g4 h6 7. h4 a6 8. Bg2 g6
+9. g5 hxg5 10. Bxg5 Be7 11. Qd2 e5 12. Nde2 Be6 13. O-O-O Nbd7 14. f4 Qa5 15.
+Kb1 Nb6 16. b3 Qb4 17. Ka1 Rc8 18. f5 Bd7 19. fxg6 fxg6 20. Bh3 Rc6 21. Qe3 Rf8
+22. Rhf1 Bxh3 23. Qxh3 Nbd7 24. Kb2 Qc5 25. Rd5 Qb6 26. Rd2 Qc5 27. Nd5 Rf7 28.
+Bxf6 Rxf6 29. Rxf6 Nxf6 30. Nec3 Nxd5 31. Nxd5 b5 32. Qe6 Qa7 33. h5 1-0

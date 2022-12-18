@@ -1,0 +1,26 @@
+[Event "corr ch10-DDR"]
+[Site "corr ch10-DDR"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Barz, J."]
+[Black "Just, J."]
+[Result "1-0"]
+[ECO "C03"]
+[Opening "French"]
+[Variation "Tarrasch"]
+[HashCode "d4542ea0"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Be7 4. e5 c5 5. Qg4 Bf8 6. dxc5 Qc7 7. Ngf3 f5 8.
+Qg3 Bxc5 9. Bb5+ Nc6 10. Nb3 Bf8 11. Be3 Bd7 12. Bxc6 bxc6 13. Bc5 Nh6 14.
+c3 Bxc5 15. Nxc5 O-O 16. Kd2 a5 17. Ng5 Rae8 18. f4 Bc8 19. a3 Nf7 20. Nf3
+Nd8 21. b4 Qa7 22. Nd4 Rf7 23. Ndb3 a4 24. Na5 Nb7 25. Nxc6 Nxc5 26. Nxa7
+Ne4+ 27. Kd3 Nxg3 28. Nxc8 Rxc8 29. hxg3 Rb7 30. Rab1 Rb5 31. g4 fxg4 32.
+Rh4 Rb7 33. Rxg4 Rbc7 34. Rc1 Rc4 35. g3 Kf7 36. Rh4 h6 37. Rh2 Ke7 38. Rf2
+Rf8 39. Rf3 h5 40. Ke2 Rfc8 41. Rd3 h4 42. gxh4 Rxf4 43. Rg1 Re4+ 44. Kd2
+Rxe5 45. Rxg7+ Kd6 46. Ra7 Re4 47. Rh3 Rg8 48. Rxa4 Rg2+ 49. Kd3 Ke5 50.
+Ra8 Ree2 51. Re3+ Rxe3+ 52. Kxe3 Rg3+ 53. Kd2 Ke4 54. Kc2 e5 55. b5 Rg2+
+56. Kb3 Kd3 57. Rd8 d4 58. cxd4 e4 59. d5 e3 60. d6 Rg6 61. d7 Rd6 62. a4
+Kd2 63. Kc4 e2 64. Re8 Rxd7 65. b6 Rh7 66. Kb5 Rxh4 67. b7 Rh1 68. Ka6 Rb1
+69. a5 1-0
+

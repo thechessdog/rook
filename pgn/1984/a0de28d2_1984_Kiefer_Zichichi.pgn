@@ -1,0 +1,19 @@
+[Event "San Bernardino"]
+[Site "San Bernardino"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Kiefer"]
+[Black "Zichichi"]
+[Result "0-1"]
+[ECO "B89"]
+[Opening "Sicilian"]
+[Variation "Sozin, 7.Be3"]
+[HashCode "a0de28d2"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bc4 Nc6 7. Be3 a6 8.
+Qe2 Qc7 9. O-O-O Na5 10. Bb3 Be7 11. g4 Nxb3+ 12. axb3 b5 13. g5 Nd7 14.
+Kb1 b4 15. Na4 Nc5 16. f3 Bd7 17. h4 Bxa4 18. bxa4 Nxa4 19. h5 O-O 20. g6
+Rab8 21. h6 fxg6 22. hxg7 Nc3+ 23. bxc3 bxc3+ 24. Nb3 Rfc8 25. Rh2 Qa5 26.
+Qd3 Bf6 0-1
+

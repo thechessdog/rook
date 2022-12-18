@@ -1,0 +1,20 @@
+[Event "ACM Houston"]
+[Site "ACM Houston"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Black Knight"]
+[Black "Etaoin Shrdlu"]
+[Result "1-0"]
+[ECO "B01"]
+[Opening "Scandinavian"]
+[Variation "Pytel-Wade variation"]
+[HashCode "fcf78764"]
+[Epoch "Rook"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. Bb5+ Nc6 5. Nge2 Bf5 6. Ng3 Qe5+ 7. Kf1
+Bd7 8. Qh5 Nf6 9. Qxe5 Nxe5 10. d4 Neg4 11. Bxd7+ Nxd7 12. Nb5 Kd8 13. Bg5
+a6 14. Nc3 f6 15. Bf4 e5 16. dxe5 fxe5 17. Bg5+ Ngf6 18. Bxf6+ gxf6 19. Rd1
+Bc5 20. Nf5 h5 21. Ke2 Rg8 22. Ne4 Be7 23. h3 Rxg2 24. Nfg3 f5 25. Kf1 Rxg3
+26. Nxg3 e4 27. Rg1 Bf6 28. Nxh5 Be7 29. Rg8+ Bf8 30. Rxf8+ Ke7 31. Rxa8 e3
+32. Rg8 Nf6 33. Rg7+ Kf8 34. Rd8+ Ne8 35. Rxc7 f4 36. Ng7 1-0
+

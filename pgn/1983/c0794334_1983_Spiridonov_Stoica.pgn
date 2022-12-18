@@ -1,0 +1,16 @@
+[Event "Albena"]
+[Site "Albena"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Spiridonov, Nikola"]
+[Black "Stoica"]
+[Result "1/2-1/2"]
+[ECO "D93"]
+[Opening "Gruenfeld with Bf4    e3"]
+[HashCode "c0794334"]
+[Epoch "Rook"]
+[WhiteID "2900238"]
+[WhiteCountry "FID"]
+
+1. Nf3 g6 2. d4 Bg7 3. c4 Nf6 4. Nc3 d5 5. Bf4 O-O 6. e3 c5 7. dxc5 Be6 8. Be2
+Nc6 9. O-O dxc4 1/2-1/2

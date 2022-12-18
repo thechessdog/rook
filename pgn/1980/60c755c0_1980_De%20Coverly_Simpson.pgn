@@ -1,0 +1,23 @@
+[Event "Ins match"]
+[Site "Ins match"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "De Coverly, Roger D"]
+[Black "Simpson, A."]
+[Result "1-0"]
+[ECO "C75"]
+[Opening "Ruy Lopez"]
+[Variation "modern Steinitz defence"]
+[HashCode "60c755c0"]
+[Epoch "Rook"]
+[BlackID "8800065"]
+[WhiteID "405213"]
+[WhiteCountry "ENG"]
+[BlackCountry "BER"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. c3 Bd7 6. d4 exd4 7. cxd4 Be7 8. O-O
+Nf6 9. Re1 O-O 10. Nc3 Bg4 11. e5 dxe5 12. dxe5 Qxd1 13. Bxd1 Nd7 14. Bf4 Nc5
+15. Re3 Ne6 16. Bg3 Bc5 17. Re4 Bf5 18. Re1 Nb4 19. a3 Nd3 20. Re2 Ndf4 21. Rd2
+Rad8 22. Bh4 Rxd2 23. Nxd2 Nd3 24. Nb3 g5 25. Nxc5 Ndxc5 26. Nd5 Be4 27. Nf6+
+Kg7 28. Bg3 Bc6 29. Bc2 Nd7 30. Nxh7 Rh8 31. Nf6 Nxf6 32. exf6+ Kxf6 33. Re1
+Rc8 34. h4 gxh4 35. Bxh4+ Kg7 36. Re3 Nf4 1-0

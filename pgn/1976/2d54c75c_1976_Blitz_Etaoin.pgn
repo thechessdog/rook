@@ -1,0 +1,18 @@
+[Event "ACM Houston"]
+[Site "ACM Houston"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Blitz IV"]
+[Black "Etaoin Shrdlu"]
+[Result "1-0"]
+[ECO "C67"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence, open variation"]
+[HashCode "2d54c75c"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 exd4 6. Re1 d5 7. Nbd2 Bg4
+8. Nxe4 dxe4 9. Rxe4+ Be6 10. Nxd4 Qd5 11. Bxc6+ bxc6 12. Qe2 Rd8 13. Nxe6
+fxe6 14. Rxe6+ Kf7 15. Re3 Qd1+ 16. Qe1 Qxc2 17. Rf3+ Kg6 18. Qe6+ Kh5 19.
+Rh3# 1-0
+

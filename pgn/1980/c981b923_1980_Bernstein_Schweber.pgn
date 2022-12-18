@@ -1,0 +1,19 @@
+[Event "Malta ol (Men)"]
+[Site "La Valetta"]
+[Date "1980.10.01"]
+[Round "1"]
+[White "Bernstein, David"]
+[Black "Schweber, Samuel"]
+[Result "1/2-1/2"]
+[ECO "E04"]
+[Opening "Catalan"]
+[Variation "open, 5.Nf3"]
+[HashCode "c981b923"]
+[Epoch "Rook"]
+[WhiteID "2800276"]
+[WhiteCountry "ISR"]
+[BlackCountry "ARG"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Bg2 dxc4 5. Nf3 a6 6. Ne5 c5 7. Be3 Nd5 8. dxc5
+Qc7 9. Bd4 Bxc5 10. Nc3 Nxc3 11. Bxc3 O-O 12. e3 Be7 13. Qg4 Bf6 14. Qe4 Nd7
+15. Nxd7 Bxc3+ 16. bxc3 Qxd7 1/2-1/2

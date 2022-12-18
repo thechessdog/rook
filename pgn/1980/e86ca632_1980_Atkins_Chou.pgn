@@ -1,0 +1,18 @@
+[Event "Region V"]
+[Site "Region V"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Atkins"]
+[Black "Chou"]
+[Result "0-1"]
+[ECO "D85"]
+[Opening "Gruenfeld"]
+[Variation "exchange variation"]
+[HashCode "e86ca632"]
+[Epoch "Rook"]
+
+1. c4 Nf6 2. Nc3 g6 3. d4 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Bf4 c5
+8. Bb5+ Bd7 9. Bxd7+ Qxd7 10. Nf3 Nc6 11. O-O cxd4 12. cxd4 O-O 13. Qa4 Ne5
+14. Qxd7 Nxd7 15. Rab1 b6 16. Bd2 Nf6 17. Rfe1 Rac8 18. Bb4 Rfe8 19. Rbc1
+e6 20. Nd2 Bh6 21. Rcd1 a5 22. Bd6 Bxd2 23. Rxd2 Nxe4 0-1
+

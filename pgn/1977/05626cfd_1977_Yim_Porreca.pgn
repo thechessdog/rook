@@ -1,0 +1,24 @@
+[Event "corr Wch9"]
+[Site "corr Wch9"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Yim, T."]
+[Black "Porreca, G."]
+[Result "1-0"]
+[ECO "C67"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence, open variation"]
+[HashCode "05626cfd"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6 dxc6 7. dxe5
+Nf5 8. Qxd8+ Kxd8 9. b3 h6 10. Nc3 Be6 11. Ne2 Bc5 12. Rd1+ Kc8 13. Nf4 Rd8
+14. Rxd8+ Kxd8 15. Nxe6+ fxe6 16. Bb2 Ke8 17. Rd1 a5 18. a4 Ne7 19. Kf1 Nd5
+20. g3 b5 21. Ra1 bxa4 22. Rxa4 Bb4 23. Nd4 Kd7 24. Ne2 Nb6 25. Ra1 a4 26.
+bxa4 c5 27. f4 Kc6 28. Kf2 Rd8 29. Bc3 Bxc3 30. Nxc3 Rd2+ 31. Kf3 Rxc2 32.
+Ne4 c4 33. a5 Nc8 34. g4 Rb2 35. Ke3 g5 36. f5 exf5 37. gxf5 Ne7 38. f6
+Nf5+ 39. Kf3 Kd5 40. a6 Nd4+ 41. Kg4 Rb8 42. Nc3+ Kxe5 43. a7 Ra8 44. f7
+h5+ 45. Kxh5 Ne6 46. Kg6 Nf8+ 47. Kxg5 c6 48. Re1+ Kd4 49. Re8 Nh7+ 50. Kg6
+Rxa7 51. Ne2+ Kd3 52. Nc1+ Kc2 53. Rh8 Kxc1 54. Rxh7 Ra8 55. Kg7 Kd2 56.
+f8=Q Rxf8 57. Kxf8 c3 58. Rg7 1-0
+

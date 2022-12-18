@@ -1,0 +1,16 @@
+[Event "corr Wcup3"]
+[Site "corr Wcup3"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Kullamaa"]
+[Black "Korssak"]
+[Result "1-0"]
+[ECO "E10"]
+[Opening "Queen's pawn game"]
+[HashCode "30249974"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 exd5 5. cxd5 b5 6. a4 b4 7. Bg5 d6 8. e4
+Be7 9. Bb5+ Bd7 10. Qd3 O-O 11. Bxd7 Nbxd7 12. Nbd2 Re8 13. O-O a5 14. Rfe1
+Qc7 15. Nc4 h6 16. Bf4 Ng4 17. e5 1-0
+

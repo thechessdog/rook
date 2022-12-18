@@ -1,0 +1,20 @@
+[Event "Bundesliga 8081"]
+[Site "Duitsland tt"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Lau, Ralf"]
+[Black "Schuppert, Juergen"]
+[Result "1-0"]
+[ECO "A51"]
+[Opening "Budapest"]
+[Variation "Fajarowicz variation"]
+[HashCode "4cd9fd7d"]
+[Epoch "Rook"]
+[WhiteID "4600134"]
+[WhiteCountry "GER"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ne4 4. Nf3 Nc6 5. Nbd2 Bb4 6. a3 Nxd2 7. Bxd2 Bxd2+
+8. Qxd2 Qe7 9. Qc3 O-O 10. Rd1 Re8 11. Rd5 b6 12. e3 Bb7 13. Be2 Rad8 14. O-O
+Nb8 15. Rc1 Bxd5 16. cxd5 d6 17. Bb5 Rf8 18. e4 a6 19. Bd3 Rfe8 20. exd6 cxd6
+21. Nd4 g6 22. g3 Qb7 23. Qb4 a5 24. Qb5 Rc8 25. Nc6 Rc7 26. Rc3 Rf8 27. f4 Nd7
+28. e5 Nc5 29. exd6 Rd7 30. Ne5 1-0

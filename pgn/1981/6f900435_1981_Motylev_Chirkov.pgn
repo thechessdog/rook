@@ -1,0 +1,17 @@
+[Event "Novosibirsk"]
+[Site "Novosibirsk"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Motyliov, Anatoly"]
+[Black "Chirkov"]
+[Result "1-0"]
+[ECO "C65"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence, Nyholm attack"]
+[HashCode "6f900435"]
+[Epoch "Rook"]
+[WhiteID "4129865"]
+[WhiteCountry "RUS"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d4 exd4 5. O-O Nxe4 6. Re1 f5 7. Ng5 Ne7 8.
+Ne6 1-0

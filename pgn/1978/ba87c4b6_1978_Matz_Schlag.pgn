@@ -1,0 +1,22 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Matz"]
+[Black "Schlag"]
+[Result "1-0"]
+[ECO "D53"]
+[Opening "QGD"]
+[Variation "4.Bg5 Be7"]
+[HashCode "ba87c4b6"]
+[Epoch "Rook"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. e3 c6 6. Nf3 O-O 7. Be2 Nbd7 8.
+Qc2 dxc4 9. Bxc4 Nd5 10. Bxe7 Qxe7 11. O-O Nxc3 12. Qxc3 b6 13. Rac1 Bb7
+14. b3 c5 15. Be2 Rac8 16. Qb2 Rfd8 17. Rfd1 cxd4 18. Rxc8 Rxc8 19. Nxd4
+Nf6 20. Bf3 Bxf3 21. Nxf3 Qc7 22. h4 h6 23. Qd4 Nd5 24. Rd2 Qc1+ 25. Rd1
+Qa3 26. Rd2 Rc1+ 27. Kh2 Qd6+ 28. g3 Qc6 29. Ne5 Qb5 30. Nd3 Rc8 31. e4 Nf6
+32. f3 Qc6 33. Kg2 Qc3 34. Qxc3 Rxc3 35. Ne5 Kf8 36. Kf2 Ke7 37. g4 Rc7 38.
+Ke3 Nd7 39. Nxd7 Rxd7 40. Rxd7+ Kxd7 41. e5 Kc6 42. Kd4 Kb5 43. a3 a6 44.
+h5 g6 45. g5 1-0
+

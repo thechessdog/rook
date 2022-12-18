@@ -1,0 +1,18 @@
+[Event "Elba"]
+[Site "Elba"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Primavera"]
+[Black "Petrillo"]
+[Result "1-0"]
+[ECO "B73"]
+[Opening "Sicilian"]
+[Variation "dragon, classical, 8.O-O"]
+[HashCode "3a303cef"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. Be2 Nc6
+8. O-O h5 9. h3 h4 10. Nf3 Bd7 11. Qd2 Qc8 12. Rad1 Nh5 13. Nd5 Ne5 14.
+Nxe7 Nxf3+ 15. Bxf3 Kxe7 16. Qxd6+ Ke8 17. Bg5 f6 18. Bxh5 gxh5 19. Bxf6
+Bxf6 20. Qxf6 Rh7 21. Rd5 Be6 22. Re5 Re7 23. f4 Qc4 24. f5 1-0
+

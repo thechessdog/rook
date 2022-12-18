@@ -1,0 +1,28 @@
+[Event "Buenos Aires"]
+[Site "Buenos Aires"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Marcussi, Bartolome"]
+[Black "Seidler"]
+[Result "1-0"]
+[ECO "C80"]
+[Opening "Ruy Lopez"]
+[Variation "open, 7.Bb3"]
+[HashCode "beee2874"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 Be7 8.
+dxe5 O-O 9. Re1 Nc5 10. Bd5 Bb7 11. Nc3 Kh8 12. Be3 Ne6 13. Ne4 Na5 14.
+Bxb7 Nxb7 15. Qd5 c6 16. Qd2 d5 17. exd6 Nxd6 18. Nxd6 Bxd6 19. Rad1 Bc7
+20. Qc3 Qc8 21. Nd4 Be5 22. Qa5 Bxd4 23. Bxd4 c5 24. Be3 Qc6 25. Qc3 Rad8
+26. Qe5 Rfe8 27. Qf5 Kg8 28. c3 h6 29. h3 c4 30. Qg4 Kf8 31. Qf5 Rd6 32.
+Qh7 Red8 33. Rxd6 Rxd6 34. Qh8+ Ke7 35. Bd4 g6 36. Bf6+ Kd7 37. Qg8 g5 38.
+Qxf7+ Kc8 39. Qg8+ Kb7 40. Qf7+ Kb6 41. Be5 Nd8 42. Qf8 Rd7 43. Bd4+ Kb7
+44. Re7 Ne6 45. Qf7 Rxe7 46. Qxe7+ Kc8 47. Be3 Nc7 48. h4 gxh4 49. Qxh4 Qg6
+50. Qxh6 Qb1+ 51. Bc1 Qxa2 52. Kh2 Qb1 53. Bf4 Qf5 54. Qd6 Qh7+ 55. Kg3
+Qg8+ 56. Kf3 Qd5+ 57. Qxd5 Nxd5 58. Be5 Kd7 59. Ke4 Nb6 60. g4 Na4 61. g5
+Nxb2 62. g6 Ke8 63. f4 Nd3 64. Bd6 b4 65. cxb4 Nf2+ 66. Kd4 c3 67. f5 c2
+68. Bf4 Nh3 69. Bc1 Ke7 70. Kc3 Ng1 71. Bg5+ Ke8 72. Kxc2 Nf3 73. Bf6 Nh2
+74. Bc3 Nf1 75. Kd3 Ng3 76. f6 Kf8 77. Be5 Nf5 78. Ke4 Nh6 79. Bf4 Ng4 80.
+Bd6+ 1-0
+

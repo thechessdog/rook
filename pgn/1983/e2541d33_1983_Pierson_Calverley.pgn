@@ -1,0 +1,18 @@
+[Event "London"]
+[Site "London"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Pierson, I."]
+[Black "Calverley, M."]
+[Result "0-1"]
+[ECO "A25"]
+[Opening "English"]
+[Variation "closed system"]
+[HashCode "e2541d33"]
+[Epoch "Rook"]
+
+1. c4 Nc6 2. Nc3 e5 3. g3 g6 4. Bg2 Bg7 5. e3 d6 6. Nge2 f5 7. d4 e4 8. a3
+Nf6 9. O-O O-O 10. b4 Ne7 11. Bb2 g5 12. d5 Ng6 13. Na4 Qe7 14. Rc1 f4 15.
+Bxf6 Rxf6 16. Nd4 Ne5 17. Bxe4 Bh3 18. Re1 fxg3 19. fxg3 Raf8 20. Qc2 Qf7
+21. Qb1 Rf2 22. Ne6 Rg2+ 0-1
+

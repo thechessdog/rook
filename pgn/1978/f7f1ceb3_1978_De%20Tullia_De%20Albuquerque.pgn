@@ -1,0 +1,17 @@
+[Event "corr LADAC jub"]
+[Site "corr LADAC jub"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "De Tullia, L."]
+[Black "De Albuquerque, Mar"]
+[Result "1-0"]
+[ECO "B32"]
+[Opening "Sicilian"]
+[Variation "Labourdonnais-Loewenthal variation"]
+[HashCode "f7f1ceb3"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e5 5. Nb5 a6 6. Nd6+ Bxd6 7. Qxd6
+Qf6 8. Qd1 Nge7 9. Nc3 Nd4 10. h4 h6 11. Bg5 Qe6 12. Be3 Qb6 13. Bd3 Qxb2
+14. Na4 Qb4+ 15. c3 Qa5 16. Kf1 Ndc6 17. Bb6 1-0
+

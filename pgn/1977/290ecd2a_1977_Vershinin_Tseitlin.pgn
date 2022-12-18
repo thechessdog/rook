@@ -1,0 +1,19 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Vershinin"]
+[Black "Tseitlin"]
+[Result "0-1"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack"]
+[HashCode "290ecd2a"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 g6 4. Qd2 Bg7 5. f3 O-O 6. e4 dxe4 7. fxe4 c5 8.
+d5 a6 9. O-O-O b5 10. e5 b4 11. exf6 bxc3 12. Qxc3 exf6 13. Bf4 Nd7 14. Nf3
+f5 15. Qa3 Ra7 16. c3 h6 17. Bb5 Nf6 18. Qxc5 Re7 19. Bd6 Rb7 20. Bd3 Ne4
+21. Bxe4 fxe4 22. Nd2 e3 23. Nf3 Re8 24. Rhe1 Bxc3 25. bxc3 Bf5 26. Rxe3
+Rxe3 27. Qxe3 Qxd6 28. Kd2 Re7 29. Qd4 Qa3 30. c4 Qxa2+ 31. Kc3 Qa5+ 32.
+Kb2 0-1
+

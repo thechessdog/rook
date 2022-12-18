@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1977.01.01"]
+[Round "1"]
+[White "NN"]
+[Black "NN"]
+[Result "1-0"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Nimzovich system"]
+[HashCode "8f63bc0d"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 e6 3. d4 d5 4. e5 cxd4 5. Nxd4 Bc5 6. Bb5+ Bd7 7. Bxd7+
+Nxd7 8. Be3 Nxe5 9. Nxe6 fxe6 10. Qh5+ Ng6 11. Bxc5 Rc8 12. Bd4 Rxc2 13.
+O-O Nf6 14. Qd1 Rc4 15. Re1 Qd6 16. Na3 Rc6 17. Nb5 Qb4 18. Nxa7 Ra6 19. a3
+Qd6 20. Nb5 Qb8 21. Bxf6 gxf6 22. Qxd5 Ne5 23. Qa2 O-O 24. f4 Nd3 25. Rxe6
+Rxe6 26. Qxe6+ Rf7 27. Nd6 1-0
+

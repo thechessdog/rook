@@ -1,0 +1,17 @@
+[Event "corr North America"]
+[Site "corr North America"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Bachler, K."]
+[Black "Sarosy, Zoltan"]
+[Result "1/2-1/2"]
+[ECO "C67"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence, Minckwitz variation"]
+[HashCode "a0a2be5f"]
+[Epoch "Rook"]
+[BlackCountry "CAN"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Be7 6. dxe5 O-O 7. Qd5 Nc5 8.
+Be3 Ne6 9. Nc3 f6 10. Rad1 Nxe5 11. Nxe5 fxe5 12. Bxd7 Bxd7 13. Qxd7 Qxd7 14.
+Rxd7 Bf6 15. Ne4 Rfd8 16. Nxf6+ gxf6 17. Re7 Re8 18. Rxe8+ Rxe8 19. Rd1 1/2-1/2

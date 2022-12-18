@@ -1,0 +1,21 @@
+[Event "Hoogovens"]
+[Site "Wijk aan Zee"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Langeweg, Kick"]
+[Black "Sosonko, Gennadi"]
+[Result "0-1"]
+[ECO "E12"]
+[Opening "Queen's Indian"]
+[Variation "Petrosian system"]
+[HashCode "8c11c2c2"]
+[Epoch "Rook"]
+[WhiteID "1000160"]
+[WhiteCountry "NED"]
+[BlackID "1000039"]
+[BlackCountry "NED"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. a3 Bb7 5. Nc3 d5 6. Bg5 Be7 7. e3 Nbd7 8. Rc1
+O-O 9. cxd5 exd5 10. Bd3 c5 11. O-O Ne4 12. Bxe7 Qxe7 13. dxc5 bxc5 14. Bb1 Nb6
+15. Qd3 f5 16. Ba2 Rad8 17. Qb5 Kh8 18. Qa5 d4 19. exd4 cxd4 20. Nb5 Ng5 21.
+Nxg5 Qxg5 22. f3 Bxf3 23. Rc2 d3 0-1

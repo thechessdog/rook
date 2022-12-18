@@ -1,0 +1,18 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Zereteli"]
+[Black "Sternina"]
+[Result "1-0"]
+[ECO "C03"]
+[Opening "French"]
+[Variation "Tarrasch"]
+[HashCode "1621e75e"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nd2 b6 4. Ngf3 Bb7 5. Bd3 Nf6 6. Qe2 Be7 7. O-O h6 8.
+c3 dxe4 9. Nxe4 Nbd7 10. Re1 O-O 11. Ng3 Re8 12. Ne5 Bf8 13. Bb1 c5 14. Qc2
+cxd4 15. Nh5 g6 16. Nxg6 Ne4 17. Rxe4 d3 18. Qxd3 Nc5 19. Rg4 f5 20. Ne5+
+Kh7 21. Qxf5+ exf5 22. Bxf5+ Kh8 23. Nf7# 1-0
+

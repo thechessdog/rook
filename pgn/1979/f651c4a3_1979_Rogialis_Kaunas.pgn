@@ -1,0 +1,18 @@
+[Event "Vilnius"]
+[Site "Vilnius"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Rogialis"]
+[Black "Kaunas, Kestutis"]
+[Result "1/2-1/2"]
+[ECO "B04"]
+[Opening "Alekhine's defence"]
+[Variation "modern, Larsen variation"]
+[HashCode "f651c4a3"]
+[Epoch "Rook"]
+[BlackID "12800139"]
+[BlackCountry "LTU"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. Nf3 dxe5 5. Nxe5 Nd7 6. Nxf7 Kxf7 7. Qh5+ Ke6
+8. c4 N5f6 9. d5+ Kd6 10. Qf7 Nb8 11. c5+ Kd7 12. Bb5+ c6 13. dxc6+ bxc6 14.
+O-O Kc7 15. Bf4+ Kb7 16. Ba6+ Kxa6 17. Qc4+ Kb7 18. Qb4+ Ka6 19. Qc4+ 1/2-1/2

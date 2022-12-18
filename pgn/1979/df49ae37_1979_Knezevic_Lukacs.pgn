@@ -1,0 +1,22 @@
+[Event "Timisoara"]
+[Site "Timisoara"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Knezevic, Milorad"]
+[Black "Lukacs, Peter"]
+[Result "1-0"]
+[ECO "E32"]
+[Opening "Nimzo-Indian"]
+[Variation "classical variation"]
+[HashCode "df49ae37"]
+[Epoch "Rook"]
+[BlackID "700142"]
+[BlackCountry "HUN"]
+[WhiteID "950238"]
+[WhiteCountry "SRB"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 O-O 5. a3 Bxc3+ 6. Qxc3 b6 7. Bg5 Bb7 8.
+e3 d6 9. f3 Nbd7 10. Bd3 e5 11. Bf5 h6 12. Bh4 c5 13. d5 Bc8 14. Ne2 b5 15.
+cxb5 g5 16. Bf2 Nxd5 17. Qd2 N7b6 18. Bxc8 Rxc8 19. h4 c4 20. hxg5 hxg5 21. Qc2
+f5 22. O-O-O c3 23. b3 Nc7 24. Ng3 Qf6 25. e4 fxe4 26. Nxe4 Qf4+ 27. Kb1 Nxb5
+28. Ka2 d5 29. Nd6 1-0

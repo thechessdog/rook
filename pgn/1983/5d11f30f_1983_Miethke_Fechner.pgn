@@ -1,0 +1,23 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Miethke"]
+[Black "Fechner"]
+[Result "0-1"]
+[ECO "C57"]
+[Opening "two knights defence"]
+[Variation "Wilkes Barre (Traxler) variation"]
+[HashCode "5d11f30f"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 Bc5 5. Bxf7+ Ke7 6. Bd5 d6 7. h3 Rf8
+8. O-O Qe8 9. c3 h6 10. Nf3 Qh5 11. d4 Bb6 12. Nh2 Qxd1 13. Rxd1 exd4 14.
+Bxc6 bxc6 15. cxd4 Nxe4 16. Be3 c5 17. dxc5 Nxc5 18. Nc3 Be6 19. Nd5+ Bxd5
+20. Rxd5 Ne6 21. Re1 Rae8 22. Nf3 c6 23. Rd3 Kd7 24. Ne5+ Kc7 25. Nc4 d5
+26. Nxb6 axb6 27. Rc1 d4 28. Bd2 c5 29. a4 Kd6 30. Kf1 Kd5 31. b3 Rf6 32.
+f3 Nd8 33. Re1 Rfe6 34. Rxe6 Rxe6 35. Be1 Nc6 36. Rd2 Na5 37. Rb2 d3 38.
+Bc3 g5 39. Kf2 c4 40. Bxa5 bxa5 41. bxc4+ Kxc4 42. Rb7 Kc3 43. Rc7+ Kd2 44.
+Rc5 Re2+ 45. Kf1 Re1+ 46. Kf2 Rc1 47. Rb5 Rc2 48. Rb1 Kc3+ 49. Kf1 d2 50.
+Rd1 Kd3 0-1
+

@@ -1,0 +1,23 @@
+[Event "Plymouth ch-MI op"]
+[Site "Plymouth ch-MI op"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Griffin, J."]
+[Black "Conley, S."]
+[Result "1-0"]
+[ECO "A27"]
+[Opening "English"]
+[Variation "three knights system"]
+[HashCode "fefb617a"]
+[Epoch "Rook"]
+
+1. Nf3 Nc6 2. c4 e5 3. Nc3 Bc5 4. e3 d6 5. h3 Nf6 6. a3 Bf5 7. d4 Bb6 8. b4
+a6 9. Bb2 exd4 10. exd4 Qe7+ 11. Be2 Be4 12. O-O O-O-O 13. Nxe4 Qxe4 14.
+Bd3 Qe7 15. Qc2 Na7 16. Rfe1 Qf8 17. c5 dxc5 18. dxc5 Bxc5 19. Bf5+ Kb8 20.
+Qxc5 Qxc5 21. bxc5 Rd5 22. Re5 Rhd8 23. Rc1 Nc6 24. Rxd5 Rxd5 25. Bb1 h6
+26. Bxf6 gxf6 27. Be4 Rd8 28. Ne1 Nd4 29. Rb1 c6 30. Nf3 Ne2+ 31. Kh2 Nc3
+32. Re1 Ka7 33. g4 Nxe4 34. Rxe4 Rd5 35. Rc4 Rd3 36. Nd4 Rxa3 37. Nf5 h5
+38. gxh5 Rf3 39. Nd6 Rxf2+ 40. Kg3 Rf1 41. Rb4 Rg1+ 42. Kh4 Rg5 43. Ne4 Re5
+44. h6 f5 45. Nd6 a5 46. Rxb7+ Ka8 47. h7 Re4+ 48. Nxe4 Kxb7 49. Nc3 f6 50.
+h8=Q Ka6 51. Qxf6 Kb7 52. Qe7+ Ka6 53. Qc7 f4 54. Qb6# 1-0
+

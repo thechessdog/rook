@@ -1,0 +1,19 @@
+[Event "Gorki"]
+[Site "Gorki"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Kuporosov, Viktor"]
+[Black "Michalenko"]
+[Result "1-0"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, dragon formation"]
+[HashCode "778a6ecc"]
+[Epoch "Rook"]
+[WhiteID "4100999"]
+[WhiteCountry "RUS"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 c5 6. dxc5 Qa5 7. Bd3 Qxc5 8. Qe2
+O-O 9. Be3 Qc7 10. O-O a6 11. a4 Nbd7 12. h3 b6 13. Qf2 Bb7 14. Qh4 e5 15. Rae1
+Rae8 16. f5 gxf5 17. Bh6 Bxh6 18. Qxh6 fxe4 19. Nh4 exd3 20. Rxf6 Qd8 21. Rxd6
+f5 22. Rxd3 Qe7 23. Rg3+ 1-0

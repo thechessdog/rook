@@ -1,0 +1,18 @@
+[Event "FIDE (30) 1976-1978"]
+[Site "Il Ciocco cm qf"]
+[Date "1977.03.01"]
+[Round "10"]
+[White "Petrosian, Tigran"]
+[Black "Korchnoi, Viktor"]
+[Result "1/2-1/2"]
+[ECO "E19"]
+[Opening "Queen's Indian"]
+[Variation "old main line, 9.Qxc3"]
+[HashCode "01a16287"]
+[Epoch "Rook"]
+[WhiteCountry "GEO"]
+[BlackCountry "RUS"]
+
+1. d4 e6 2. c4 Nf6 3. Nf3 b6 4. g3 Bb7 5. Bg2 Be7 6. O-O O-O 7. Nc3 Ne4 8. Qc2
+Nxc3 9. Qxc3 Be4 10. Bf4 Nc6 11. Rfd1 d5 12. Ne5 Nxe5 13. Bxe5 Bxg2 14. Kxg2 c6
+15. Rac1 1/2-1/2

@@ -1,0 +1,18 @@
+[Event "Hungary"]
+[Site "Hungary"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Szilagyi"]
+[Black "Sergian"]
+[Result "1-0"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Uhlmann variation"]
+[HashCode "643a1fa4"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. Bg5 h6 8.
+Bh4 g5 9. Bg3 Nh5 10. e3 Bg7 11. Bb5+ Bd7 12. Bxd7+ Nxd7 13. Bxd6 Qb6 14.
+Ne4 f5 15. Nfd2 g4 16. Qa4 fxe4 17. Qxe4+ Kd8 18. Be7+ Kc7 19. d6+ Kc8 20.
+Qxg4 Qxb2 21. Rb1 Qe5 22. Rxb7 1-0
+

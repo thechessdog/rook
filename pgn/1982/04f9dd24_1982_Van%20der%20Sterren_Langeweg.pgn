@@ -1,0 +1,24 @@
+[Event "Hoogovens-B"]
+[Site "Wijk aan Zee II"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Van der Sterren, Paul"]
+[Black "Langeweg, Kick"]
+[Result "1-0"]
+[ECO "B46"]
+[Opening "Sicilian"]
+[Variation "Taimanov variation"]
+[HashCode "04f9dd24"]
+[Epoch "Rook"]
+[WhiteID "1000071"]
+[WhiteCountry "NED"]
+[BlackID "1000160"]
+[BlackCountry "NED"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 a6 6. g3 Qc7 7. Bg2 Nf6 8. O-O
+Be7 9. Re1 Nxd4 10. Qxd4 Bc5 11. Qd1 d6 12. Be3 O-O 13. Qd2 Bxe3 14. Qxe3 e5
+15. a4 Be6 16. a5 Rac8 17. Rec1 Rfd8 18. Nd5 Bxd5 19. exd5 Qc4 20. Ra3 e4 21.
+Qb3 Qe2 22. Qxb7 Ng4 23. Rf1 Rxc2 24. Qe7 Rdc8 25. Qxe4 Qxe4 26. Bxe4 Rxb2 27.
+Bf5 Rc4 28. Bd3 Rd4 29. h3 Ne5 30. Bxa6 Rdd2 31. Rc1 g5 32. Bf1 Rxf2 33. a6
+Nf3+ 34. Rxf3 Rxf3 35. a7 Rxg3+ 36. Kh1 Ra2 37. Rc8+ Kg7 38. a8=Q Rxa8 39. Rxa8
+g4 40. Rd8 Re3 41. hxg4 1-0

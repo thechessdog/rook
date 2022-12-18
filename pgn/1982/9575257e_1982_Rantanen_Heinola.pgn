@@ -1,0 +1,19 @@
+[Event "Helsinki"]
+[Site "Helsinki"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Rantanen, P."]
+[Black "Heinola, Kari P."]
+[Result "0-1"]
+[ECO "A31"]
+[Opening "English"]
+[Variation "symmetrical, Benoni formation"]
+[HashCode "9575257e"]
+[Epoch "Rook"]
+[BlackID "503495"]
+[BlackCountry "FIN"]
+
+1. d4 Nf6 2. c4 c5 3. Nf3 cxd4 4. Nxd4 e5 5. Nf3 e4 6. Nd4 Nc6 7. g3 Qb6 8. e3
+d5 9. Nb3 Ne5 10. N1d2 Bb4 11. Be2 dxc4 12. Nd4 c3 13. Bb5+ Bd7 14. bxc3 Bxb5
+15. Qc2 Nd3+ 16. Kf1 Rc8 17. Nxb5 Qxb5 18. Rb1 Qf5 19. f4 exf3 20. h3 Rxc3 21.
+Qd1 Nxc1 0-1

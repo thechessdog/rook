@@ -1,0 +1,22 @@
+[Event "Columbus,OH simul"]
+[Site "Columbus,OH simul"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Christiansen, Larry"]
+[Black "Diebert, Charles"]
+[Result "0-1"]
+[ECO "A29"]
+[Opening "English"]
+[Variation "four knights, kingside fianchetto"]
+[HashCode "f2fef44c"]
+[Epoch "Rook"]
+[BlackID "2065517"]
+[BlackCountry "USA"]
+[WhiteID "2000059"]
+[WhiteCountry "USA"]
+
+1. c4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. g3 g6 5. Bg2 Bg7 6. O-O O-O 7. d4 exd4 8.
+Nxd4 Ne5 9. b3 c6 10. Bb2 d5 11. cxd5 Nxd5 12. Nxd5 cxd5 13. Rc1 Be6 14. Qd2
+Qd7 15. Rfd1 Rac8 16. Qa5 Nc6 17. Qd2 Rfd8 18. e3 h5 19. Nxe6 fxe6 20. Bxg7
+Qxg7 21. b4 Ne5 22. Qd4 Nc4 23. Qxa7 Ra8 24. Qd4 Qxd4 25. Rxd4 Rxa2 26. Rcxc4
+Rf8 27. Rc7 Rfxf2 28. Bh3 Rxh2 29. Bxe6+ Kf8 30. Bxd5 Rhd2 31. Rd7 Ra1# 0-1

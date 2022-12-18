@@ -1,0 +1,16 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Holley, J."]
+[Black "NN"]
+[Result "1-0"]
+[ECO "D39"]
+[Opening "QGD"]
+[Variation "Ragozin, Vienna variation"]
+[HashCode "cced26b4"]
+[Epoch "Rook"]
+
+1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. Bg5 Bb4+ 5. Nc3 dxc4 6. e4 h6 7. Bxf6 Qxf6
+8. Bxc4 Nc6 9. O-O e5 10. Nd5 Qe7 11. Nxe7 1-0
+

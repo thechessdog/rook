@@ -1,0 +1,20 @@
+[Event "corr Vidmar mem"]
+[Site "corr Vidmar mem"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Prajnfalk"]
+[Black "Barczay"]
+[Result "0-1"]
+[ECO "E43"]
+[Opening "Nimzo-Indian"]
+[Variation "Fischer variation"]
+[HashCode "b7d5c814"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 b6 5. Bd3 Bb7 6. Nf3 O-O 7. O-O Bxc3 8.
+bxc3 Be4 9. Qc2 Bxd3 10. Qxd3 d6 11. e4 Nfd7 12. Ne1 Nc6 13. f4 f5 14. Nf3
+Qe8 15. Ba3 Ne7 16. Rae1 Nf6 17. exf5 exf5 18. Ng5 Qd7 19. d5 Rfe8 20. Ne6
+b5 21. Qg3 Ng6 22. Qg5 bxc4 23. Qxf5 Ne7 24. Qh3 Nexd5 25. f5 Re7 26. Bc1
+Rae8 27. Re2 Qb5 28. Rfe1 Qb6+ 29. Kh1 Qb1 30. g4 Qd3 31. Qg2 h5 32. g5 Ng4
+33. h3 Nxc3 34. hxg4 Nxe2 35. Qxe2 Qh3+ 36. Kg1 Qg3+ 37. Kf1 Rxe6 0-1
+

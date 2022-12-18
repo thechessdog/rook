@@ -1,0 +1,21 @@
+[Event "BL2-N 8283"]
+[Site "BL2-N 8283"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Zeller, Joerg"]
+[Black "Schruefer, Guenther, Dr."]
+[Result "1-0"]
+[ECO "B98"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7...Be7"]
+[HashCode "4c050ba1"]
+[Epoch "Rook"]
+[WhiteID "24646407"]
+[WhiteCountry "GER"]
+[BlackID "4608631"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qd3
+Nbd7 9. O-O-O Qc7 10. Qg3 h6 11. Bh4 g5 12. fxg5 Rg8 13. Be2 Ne5 14. Rhf1 Bd7
+15. Nf3 Nxf3 16. Qxf3 hxg5 17. Bg3 O-O-O 18. Qe3 Bc6 19. e5 Nd5 20. Nxd5 Bxd5
+21. Rxf7 1-0

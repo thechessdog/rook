@@ -1,0 +1,22 @@
+[Event "Hungary"]
+[Site "Hungary"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Rajna, George"]
+[Black "Barczay, Laszlo"]
+[Result "0-1"]
+[ECO "B87"]
+[Opening "Sicilian"]
+[Variation "Sozin with ...a6 and ...b5"]
+[HashCode "414a43a0"]
+[Epoch "Rook"]
+[WhiteID "2801566"]
+[WhiteCountry "ISR"]
+[BlackCountry "HUN"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 b5 8. a3
+Be7 9. Be3 O-O 10. Qe2 Bb7 11. f3 Nbd7 12. g4 Nc5 13. Ba2 Rc8 14. O-O-O Qa5 15.
+g5 Nfd7 16. h4 b4 17. axb4 Qxb4 18. h5 Rb8 19. g6 Bxe4 20. fxe4 Qxb2+ 21. Kd2
+Qxc3+ 22. Kc1 Qa3+ 23. Kd2 Nxe4+ 24. Ke1 Qxa2 25. Nc6 Bf6 26. h6 fxg6 27. hxg7
+Bc3+ 28. Bd2 Bxd2+ 29. Rxd2 Qa1+ 30. Qd1 Qxg7 31. Nxb8 Nxd2 32. Nc6 Nf3+ 33.
+Ke2 Nde5 34. Na5 0-1

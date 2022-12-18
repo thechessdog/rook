@@ -1,0 +1,17 @@
+[Event "corr Italy"]
+[Site "corr Italy"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Cossu"]
+[Black "Bottaro"]
+[Result "1-0"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra gambit"]
+[HashCode "162f52bf"]
+[Epoch "Rook"]
+
+1. e4 c5 2. d4 cxd4 3. c3 dxc3 4. Nxc3 Nc6 5. Nf3 d6 6. Bc4 e6 7. O-O Nf6
+8. Qe2 a6 9. Rd1 Qc7 10. Bf4 Ne5 11. Bxe5 dxe5 12. Rac1 Bd7 13. Bxe6 fxe6
+14. Nd5 Qb8 15. Nc7+ Ke7 16. Nxa8 Qxa8 17. Rc7 Ke8 18. Nxe5 Bc6 19. Qc4 1-0
+

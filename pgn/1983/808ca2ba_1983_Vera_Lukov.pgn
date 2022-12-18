@@ -1,0 +1,21 @@
+[Event "Capablanca mem-B"]
+[Site "Cienfuegos"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Vera Gonzalez-Quevedo, Reynaldo"]
+[Black "Lukov, Valentin"]
+[Result "0-1"]
+[ECO "E21"]
+[Opening "Nimzo-Indian"]
+[Variation "three knights variation"]
+[HashCode "808ca2ba"]
+[Epoch "Rook"]
+[BlackID "2900157"]
+[BlackCountry "FID"]
+[WhiteCountry "CUB"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Nf3 c5 5. g3 cxd4 6. Nxd4 O-O 7. Bg2 d5 8.
+cxd5 Nxd5 9. Bd2 Nxc3 10. bxc3 Bc5 11. Rb1 e5 12. Nc2 Nc6 13. Rb5 Qe7 14. Ne3
+Be6 15. Qb1 Rad8 16. Rxb7 Qd6 17. Qd3 Bb6 18. Qxd6 Rxd6 19. c4 Rfd8 20. Bd5 Na5
+21. Bxa5 Bxa5+ 22. Kd1 Bb6 23. Kc1 Bxe3+ 24. fxe3 Rxd5 25. cxd5 Bxd5 26. Rd1
+Rc8+ 27. Rc7 Rxc7+ 28. Kb2 Rd7 0-1

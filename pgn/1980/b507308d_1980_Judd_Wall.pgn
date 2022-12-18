@@ -1,0 +1,18 @@
+[Event "Dayton,OH"]
+[Site "Dayton,OH"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Judd, Olen"]
+[Black "Wall, Bill"]
+[Result "0-1"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Lipnitzky attack"]
+[HashCode "b507308d"]
+[Epoch "Rook"]
+[BlackCountry "USA"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 Nbd7 7. Bg5 Qa5 8.
+Qd2 e6 9. O-O h6 10. Bh4 Ne5 11. Bb3 Be7 12. a3 O-O 13. Rad1 g5 14. Bxg5 hxg5
+15. Qxg5+ Kh8 16. f4 Nc6 17. f5 exf5 18. Rd3 fxe4 19. Qh6+ Nh7 20. Rg3 Bg5 21.
+Qxd6 Qb6 0-1

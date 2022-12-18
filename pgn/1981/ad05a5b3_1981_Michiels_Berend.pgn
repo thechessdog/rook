@@ -1,0 +1,20 @@
+[Event "EU-ch U20"]
+[Site "Groningen"]
+[Date "1981.??.??"]
+[Round "5"]
+[White "Michiels, Dirk"]
+[Black "Berend, Fred"]
+[Result "1-0"]
+[ECO "B63"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...Be7"]
+[HashCode "ad05a5b3"]
+[Epoch "Rook"]
+[WhiteID "231363"]
+[BlackID "4000102"]
+[WhiteCountry "BEL"]
+[BlackCountry "LUX"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 e6 7. Qd2 Be7 8.
+O-O-O Bd7 9. Ndb5 O-O 10. Nxd6 Nb4 11. a3 Qa5 12. Nc4 Nxe4 13. Nxa5 Nxc3 14.
+bxc3 1-0

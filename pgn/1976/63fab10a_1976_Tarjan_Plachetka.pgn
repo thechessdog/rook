@@ -1,0 +1,23 @@
+[Event "Odessa"]
+[Site "Odessa"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Tarjan, James"]
+[Black "Plachetka, Jan"]
+[Result "1-0"]
+[ECO "E88"]
+[Opening "King's Indian"]
+[Variation "Saemisch, orthodox, 7.d5 c6"]
+[HashCode "63fab10a"]
+[Epoch "Rook"]
+[BlackID "14900068"]
+[BlackCountry "SVK"]
+[WhiteID "2000180"]
+[WhiteCountry "USA"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 O-O 5. Be3 d6 6. f3 e5 7. d5 c6 8. Bd3 b5
+9. Qd2 bxc4 10. Bxc4 c5 11. Nge2 Nfd7 12. g4 Nb6 13. Bd3 Ba6 14. Ng3 Bxd3 15.
+Qxd3 N8d7 16. h4 Rc8 17. h5 c4 18. Qd2 Nc5 19. Qh2 Nd3+ 20. Kd2 g5 21. Rhb1 Bf6
+22. Nf5 Qd7 23. Ke2 Na4 24. Kf1 Nxc3 25. bxc3 Bd8 26. a4 f6 27. Qa2 Ba5 28. Qa3
+Nc5 29. Bxc5 Rxc5 30. Rb5 Bb6 31. Rab1 Rxb5 32. Rxb5 Bc5 33. Qb2 Rd8 34. Kg2
+Kf8 35. Kh3 Rc8 36. Rb7 Rc7 37. Rb8+ Rc8 38. Qb7 1-0

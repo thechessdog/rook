@@ -1,0 +1,18 @@
+[Event "corr ch-NLD"]
+[Site "corr ch-NLD"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Booij, R."]
+[Black "Seewald, P."]
+[Result "0-1"]
+[ECO "B71"]
+[Opening "Sicilian"]
+[Variation "dragon, Levenfish variation"]
+[HashCode "200f2c33"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. f4 Bg7 7. e5 Nh5 8.
+Bb5+ Bd7 9. exd6 O-O 10. Be3 e5 11. fxe5 Bxe5 12. O-O Bxd6 13. Bh6 Ng7 14.
+Qd2 Bxb5 15. Ndxb5 Bc5+ 16. Kh1 Qxd2 17. Bxd2 Nc6 18. Ne4 Be7 19. Nf6+ Bxf6
+20. Rxf6 Rad8 21. Bh6 Rd7 0-1
+

@@ -1,0 +1,19 @@
+[Event "Baden-Baden"]
+[Site "Baden-Baden"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Buecker, Stefan"]
+[Black "Herbrechtsmeier, Christof"]
+[Result "0-1"]
+[ECO "C34"]
+[Opening "KGA"]
+[Variation "Schallop defence"]
+[HashCode "b13cdd50"]
+[Epoch "Rook"]
+[WhiteID "4601424"]
+[BlackID "4603737"]
+[WhiteCountry "GER"]
+[BlackCountry "GER"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 Nf6 4. e5 Nh5 5. Qe2 g5 6. g4 fxg3 7. d4 Rg8 8. Qe4
+g4 9. Qxh7 g2 10. Ng5 Rg7 0-1

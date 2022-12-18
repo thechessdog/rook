@@ -1,0 +1,16 @@
+[Event "Donskoi"]
+[Site "Donskoi"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Supnik"]
+[Black "Sadykov"]
+[Result "0-1"]
+[ECO "A31"]
+[Opening "English"]
+[Variation "symmetrical, Benoni formation"]
+[HashCode "df2c3a48"]
+[Epoch "Rook"]
+
+1. c4 c5 2. Nf3 Nf6 3. d4 cxd4 4. Nxd4 Nc6 5. Bg5 Ne4 6. Bh4 Qa5+ 7. Nc3
+Nxc3 8. Nxc6 dxc6 9. Qd2 Qh5 10. bxc3 Qxh4 11. O-O-O e5 0-1
+

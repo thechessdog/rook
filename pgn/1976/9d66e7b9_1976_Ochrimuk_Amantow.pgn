@@ -1,0 +1,18 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Ochrimuk"]
+[Black "Amantow"]
+[Result "0-1"]
+[ECO "C22"]
+[Opening "Centre game"]
+[Variation "Berger variation"]
+[HashCode "9d66e7b9"]
+[Epoch "Rook"]
+
+1. e4 e5 2. d4 exd4 3. Qxd4 Nc6 4. Qe3 Nf6 5. Nc3 Bb4 6. Bd2 O-O 7. O-O-O
+Re8 8. Bc4 Na5 9. Bd3 d5 10. Nb5 Bxd2+ 11. Qxd2 c6 12. Nc3 d4 13. Nce2 c5
+14. Ng3 c4 15. Be2 Nxe4 16. Nxe4 Rxe4 17. Bf3 c3 18. bxc3 Nc4 19. Qd3 Qg5+
+20. Kb1 Qb5+ 21. Kc1 Qb2# 0-1
+

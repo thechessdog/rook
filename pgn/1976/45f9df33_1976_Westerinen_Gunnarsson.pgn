@@ -1,0 +1,22 @@
+[Event "Reykjavik"]
+[Site "Reykjavik"]
+[Date "1976.01.01"]
+[Round "7"]
+[White "Westerinen, Heikki M.J."]
+[Black "Gunnarsson, Gunnar K"]
+[Result "1-0"]
+[ECO "B99"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7...Be7 main line"]
+[HashCode "45f9df33"]
+[Epoch "Rook"]
+[WhiteID "500020"]
+[WhiteCountry "FIN"]
+[BlackID "2300354"]
+[BlackCountry "ISL"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3
+Qc7 9. O-O-O Nbd7 10. Qg3 b6 11. Be2 Bb7 12. Bf3 O-O-O 13. Rhe1 g6 14. e5 dxe5
+15. fxe5 Nh5 16. Bxh5 Bxg5+ 17. Qxg5 gxh5 18. Qxh5 Nc5 19. Re3 b5 20. a3 Qb6
+21. Qxf7 Rhf8 22. Qe7 Rf2 23. Ncxb5 axb5 24. Rc3 Rd5 25. Qe8+ Qd8 26. Rxc5+
+Rxc5 27. Qxd8+ Kxd8 28. Nxe6+ Ke7 29. Nxc5 Bxg2 30. Rd7+ Ke8 31. Rxh7 1-0

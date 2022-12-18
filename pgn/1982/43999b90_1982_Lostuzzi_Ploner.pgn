@@ -1,0 +1,18 @@
+[Event "Genova"]
+[Site "Genova"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Lostuzzi"]
+[Black "Ploner"]
+[Result "1-0"]
+[ECO "B12"]
+[Opening "Caro-Kann"]
+[Variation "advance variation"]
+[HashCode "43999b90"]
+[Epoch "Rook"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nc3 e6 5. g4 Bg6 6. Nge2 Bb4 7. h4 Be4 8.
+Rh3 h6 9. a3 Be7 10. Nxe4 dxe4 11. Be3 Nd7 12. Nc3 Qc7 13. Nxe4 O-O-O 14.
+Qe2 Qa5+ 15. Bd2 Qa4 16. Bc3 c5 17. O-O-O f5 18. gxf5 exf5 19. Ng3 g6 20.
+Bg2 Nb6 21. Qf3 Nd5 22. Ne2 Qc6 23. Ba5 Rd7 24. dxc5 Nc7 25. Rxd7 1-0
+

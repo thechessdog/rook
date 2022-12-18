@@ -1,0 +1,15 @@
+[Event "corr BRD"]
+[Site "corr BRD"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Forster"]
+[Black "Dunkler"]
+[Result "1-0"]
+[ECO "D00"]
+[Opening "Blackmar gambit"]
+[HashCode "05e20d10"]
+[Epoch "Rook"]
+
+1. d4 d5 2. e4 dxe4 3. Nc3 Nf6 4. f3 exf3 5. Qxf3 Qxd4 6. Be3 Qg4 7. Qf2 c6
+8. Nf3 b6 9. O-O-O Ba6 10. Ne5 Qc8 11. g4 Nbd7 12. Bxa6 Qxa6 13. Rxd7 1-0
+

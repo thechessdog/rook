@@ -1,0 +1,28 @@
+[Event "Berlin tt"]
+[Site "Berlin-West"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Tonoli, Walter"]
+[Black "Borik, Otto"]
+[Result "0-1"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (without ...d6)"]
+[HashCode "4cc47be3"]
+[Epoch "Rook"]
+[WhiteID "200204"]
+[BlackID "4600762"]
+[WhiteCountry "BEL"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 d6 4. O-O Bd7 5. c3 a6 6. Ba4 Nf6 7. Re1 b5 8. Bc2
+e5 9. h3 Be7 10. d4 O-O 11. Be3 Qc7 12. Nbd2 cxd4 13. cxd4 Nb4 14. Bb1 Rfc8 15.
+dxe5 dxe5 16. a3 Nc2 17. Bxc2 Qxc2 18. Nxe5 Qxb2 19. Nxd7 Nxd7 20. Nb3 Nf8 21.
+Bd4 Qc2 22. Qg4 Ne6 23. Re3 Rc4 24. Be5 Bg5 25. Nd4 Rxd4 26. Bxd4 Bxe3 27. Bxe3
+Rd8 28. Bg5 Re8 29. Re1 a5 30. Qf5 Qa4 31. Re3 Qd1+ 32. Kh2 Qd7 33. Bh4 Qc7+
+34. Bg3 Qc4 35. Qd5 Rd8 36. Qb7 h6 37. Rf3 Ng5 38. Rf5 Rd1 39. Bf4 Nxe4 40.
+Qxb5 Qxb5 41. Rxb5 Nxf2 42. Be3 Rh1+ 43. Kg3 Ne4+ 44. Kf3 Nc3 45. Rxa5 Rf1+ 46.
+Kg3 f5 47. Kh2 f4 48. Ra8+ Kh7 49. Bb6 Rb1 50. Bc7 g5 51. h4 Nd5 52. Ra7 Kg6
+53. hxg5 hxg5 54. g4 Ne3 55. Ra6+ Kf7 56. Bd8 Nxg4+ 57. Kh3 Rg1 58. Bxg5 Nf2+
+59. Kh2 Rxg5 60. Ra4 Rg4 61. Ra7+ Ke6 62. Ra6+ Kf5 63. Ra5+ Ke4 64. Rb5 f3 65.
+Rb4+ Ke3 66. Rb3+ Nd3 67. Rb8 f2 0-1

@@ -1,0 +1,16 @@
+[Event "corr BEL-FIN"]
+[Site "corr BEL-FIN"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Van der Heede"]
+[Black "Harju"]
+[Result "0-1"]
+[ECO "C74"]
+[Opening "Ruy Lopez"]
+[Variation "modern Steinitz defence, siesta variation"]
+[HashCode "a107bc9a"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. c3 f5 6. exf5 Bxf5 7. d3 Qf6 8.
+O-O Ne7 9. Be3 d5 10. Qe2 O-O-O 11. Rd1 Bg4 12. Nbd2 d4 0-1
+

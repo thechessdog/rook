@@ -1,0 +1,23 @@
+[Event "CSSR"]
+[Site "CSSR"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Donaldson, J."]
+[Black "Gonsiev"]
+[Result "1/2-1/2"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (without ...d6)"]
+[HashCode "e15ad6ce"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 Nf6 4. Nc3 Nd4 5. e5 Nxb5 6. Nxb5 Nd5 7. O-O a6
+8. c4 Nb4 9. Nc3 d6 10. exd6 e6 11. d4 cxd4 12. Nxd4 Bxd6 13. a3 Nc6 14.
+Nxc6 bxc6 15. Ne4 Be5 16. Qxd8+ Kxd8 17. Bd2 a5 18. Rad1 Ke8 19. Be3 Ba6
+20. f4 Bc7 21. Rc1 a4 22. Rfd1 Rb8 23. Rc2 Rd8 24. Rxd8+ Kxd8 25. Kf2 e5
+26. fxe5 Bxe5 27. Nc5 Bc8 28. Nxa4 Bf5 29. Rd2+ Kc8 30. b4 h5 31. b5 cxb5
+32. cxb5 Rd8 33. Nb6+ Kc7 34. Rxd8 Kxd8 35. h3 Bc7 36. Nd5 Be6 37. Nb4 Bd6
+38. Nc6+ Kc7 39. a4 Bc4 40. Nd4 Be5 41. Nf3 Bd6 42. Nd2 Bd5 43. a5 Bb4 44.
+Bb6+ Kb7 45. Nf3 Bc4 46. Ne5 Bxb5 47. Nxf7 Ka6 48. Kg3 Bc6 49. Ng5 Bd6+ 50.
+Kf2 Bd5 1/2-1/2
+

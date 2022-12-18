@@ -1,0 +1,19 @@
+[Event "Esbjerg-B"]
+[Site "Esbjerg"]
+[Date "1981.01.01"]
+[Round "6"]
+[White "Brinck-Claussen, Bjorn"]
+[Black "Berg, Klaus"]
+[Result "1-0"]
+[ECO "D51"]
+[Opening "QGD"]
+[Variation "5...c6"]
+[HashCode "0e3ce252"]
+[Epoch "Rook"]
+[BlackID "1400053"]
+[WhiteCountry "DEN"]
+[BlackCountry "DEN"]
+
+1. d4 e6 2. c4 Nf6 3. Nc3 d5 4. Bg5 Nbd7 5. e3 c6 6. cxd5 exd5 7. Bd3 Be7 8.
+Qc2 O-O 9. h3 Re8 10. Nge2 Nf8 11. O-O-O h6 12. Bf4 Ne6 13. Be5 b5 14. Kb1 Bb7
+15. Bf5 Qb6 16. Bxe6 fxe6 17. Nf4 Bd8 18. Qg6 Rf8 19. g4 Bc8 20. h4 1-0

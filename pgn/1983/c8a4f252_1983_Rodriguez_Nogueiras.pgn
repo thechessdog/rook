@@ -1,0 +1,16 @@
+[Event "Havana"]
+[Site "Havana"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Rodriguez, Ad"]
+[Black "Nogueiras Santiago, Jesus"]
+[Result "1/2-1/2"]
+[ECO "B29"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rubinstein; Rubinstein counter-gambit"]
+[HashCode "c8a4f252"]
+[Epoch "Rook"]
+[BlackCountry "CUB"]
+
+1. e4 c5 2. Nf3 e6 3. Nc3 Nf6 4. e5 Nd5 5. Nxd5 exd5 6. d4 Nc6 7. dxc5 Bxc5 8.
+Be2 d6 9. Qxd5 Be6 10. Qe4 dxe5 1/2-1/2

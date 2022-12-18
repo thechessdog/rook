@@ -1,0 +1,19 @@
+[Event "Budapest"]
+[Site "Budapest"]
+[Date "1980.??.??"]
+[Round "?"]
+[White "Szekely, Peter"]
+[Black "Petran, Pal"]
+[Result "1/2-1/2"]
+[ECO "E55"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Gligoric system, Bronstein variation"]
+[HashCode "a9149771"]
+[Epoch "Rook"]
+[WhiteID "14937492"]
+[BlackID "700304"]
+[WhiteCountry "SVK"]
+[BlackCountry "HUN"]
+
+1. c4 Nf6 2. Nc3 e6 3. d4 Bb4 4. e3 c5 5. Bd3 O-O 6. Nf3 d5 7. O-O dxc4 8. Bxc4
+Nbd7 9. Qe2 b6 10. Rd1 cxd4 11. Nxd4 Bb7 12. Bd2 Bd6 13. Ba6 1/2-1/2

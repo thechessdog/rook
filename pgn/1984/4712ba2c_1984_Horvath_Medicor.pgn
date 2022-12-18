@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Horvath, Maria"]
+[Black "Medicor"]
+[Result "1-0"]
+[ECO "A42"]
+[Opening "Modern defence"]
+[Variation "Averbakh system, Kotov variation"]
+[HashCode "4712ba2c"]
+[Epoch "Rook"]
+[WhiteID "1601660"]
+[WhiteCountry "AUT"]
+
+1. d4 g6 2. c4 Bg7 3. Nc3 d6 4. e4 Nc6 5. d5 Nd4 6. Be3 c5 7. Nge2 Qb6 8. Nxd4
+cxd4 9. Na4 Qa5+ 10. Bd2 Qc7 11. c5 dxc5 12. Bb5+ Bd7 13. Bxd7+ Kxd7 14. Qb3 e6
+15. Nxc5+ Ke8 16. Qb5+ Ke7 17. d6+ Kxd6 18. Nxb7+ Ke7 19. Bb4+ Kf6 20. Bd6 1-0

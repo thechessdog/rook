@@ -1,0 +1,17 @@
+[Event "Frenstat"]
+[Site "Frenstat"]
+[Date "1982.01.01"]
+[Round "8"]
+[White "Danek, Libor"]
+[Black "Trapl, Jindrich"]
+[Result "1/2-1/2"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "cd7358ae"]
+[Epoch "Rook"]
+[BlackCountry "CZE"]
+
+1. e4 c5 2. c3 b6 3. d4 Bb7 4. Bd3 e6 5. Nf3 Ne7 6. O-O Ng6 7. Re1 Be7 8. Nbd2
+O-O 9. Nf1 a6 10. Ng3 b5 11. dxc5 Bxc5 12. Be3 Be7 13. Qd2 Nc6 14. Rad1 Qc7 15.
+Bb1 Rad8 16. Nh5 f6 17. Qe2 Bd6 18. Qd2 Be7 1/2-1/2

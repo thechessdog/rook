@@ -1,0 +1,20 @@
+[Event "Kuibyshev"]
+[Site "Kuibyshev"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Piesina, Gintautas"]
+[Black "Rjabchenok"]
+[Result "0-1"]
+[ECO "D35"]
+[Opening "QGD"]
+[Variation "exchange, positional line"]
+[HashCode "a8260a98"]
+[Epoch "Rook"]
+[WhiteCountry "LTU"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. cxd5 exd5 5. Bg5 Be7 6. e3 O-O 7. Bd3 Re8 8.
+Nge2 b6 9. O-O h6 10. Bxf6 Bxf6 11. b4 c6 12. Qb3 Bb7 13. Rfe1 Nd7 14. b5 c5
+15. Nxd5 Bxd5 16. Qxd5 cxd4 17. exd4 Nc5 18. Qc4 Nxd3 19. Qxd3 Qe7 20. Kf1 Rad8
+21. Ng3 Qb4 22. Nf5 Rxe1+ 23. Rxe1 g6 24. a3 Qf8 25. Qg3 Kh7 26. Qf3 gxf5 27.
+Qxf5+ Kg7 28. Re4 Rd6 29. d5 Kg8 30. g3 Bg7 31. Rc4 Qe7 32. Rc6 Qd7 33. Qf4
+Rxd5 34. Qb8+ Kh7 0-1

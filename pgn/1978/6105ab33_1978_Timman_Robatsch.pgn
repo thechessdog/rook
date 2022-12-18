@@ -1,0 +1,21 @@
+[Event "Netherlands"]
+[Site "Netherlands"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Timman, Jan H"]
+[Black "Robatsch, Karl"]
+[Result "1-0"]
+[ECO "A71"]
+[Opening "Benoni"]
+[Variation "classical, 8.Bg5"]
+[HashCode "6105ab33"]
+[Epoch "Rook"]
+[WhiteID "1000012"]
+[WhiteCountry "NED"]
+[BlackCountry "AUT"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. e4 Bg7 8. Bg5
+a6 9. Nd2 b5 10. Be2 O-O 11. Qc2 Re8 12. O-O h6 13. Bh4 b4 14. Nd1 g5 15. Bg3
+Nxd5 16. exd5 Rxe2 17. Qd3 Re8 18. Nc4 Nd7 19. Nde3 Ne5 20. Bxe5 Bxe5 21. Nxe5
+Rxe5 22. f4 gxf4 23. Rxf4 Qe7 24. Nc4 Rg5 25. Raf1 f5 26. Nb6 Rb8 27. Nxc8 Rxc8
+28. Rxf5 Rxf5 29. Qxf5 Rd8 30. Qg6+ Qg7 31. Qe6+ Kh8 32. Rf6 Qg5 33. h4 1-0

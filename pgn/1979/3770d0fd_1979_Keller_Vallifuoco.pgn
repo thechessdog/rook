@@ -1,0 +1,21 @@
+[Event "Bern"]
+[Site "Bern"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Keller, Dieter"]
+[Black "Vallifuoco"]
+[Result "0-1"]
+[ECO "B51"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky (Nimzovich-Rossolimo, Moscow) attack"]
+[HashCode "3770d0fd"]
+[Epoch "Rook"]
+[WhiteID "1300156"]
+[WhiteCountry "SUI"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Nc6 4. O-O Bd7 5. Re1 Nf6 6. c3 a6 7. Bf1 Bg4 8. d3
+e6 9. Nbd2 Be7 10. d4 cxd4 11. cxd4 O-O 12. Qb3 Na5 13. Qe3 Rc8 14. h3 Bh5 15.
+d5 exd5 16. exd5 Re8 17. Qd4 Rc5 18. Ne4 Nxe4 19. Qxe4 Bg6 20. Qe3 Nc4 21. Bxc4
+Rxc4 22. Bd2 Re4 23. Qb3 Qd7 24. Be3 Bf6 25. Rac1 h6 26. Nd2 R4e7 27. Nc4 b5
+28. Na5 Bg5 29. Rc6 f5 30. Qc3 f4 31. Bd2 Rxe1+ 32. Bxe1 Bf6 33. Qd2 f3 34. Rc1
+Bg5 0-1

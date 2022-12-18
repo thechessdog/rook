@@ -1,0 +1,22 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Lerner, Konstantin Z"]
+[Black "Gutman, Lev"]
+[Result "0-1"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "a4780ad1"]
+[Epoch "Rook"]
+[BlackID "4600177"]
+[BlackCountry "GER"]
+[WhiteCountry "UKR"]
+
+1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. d4 cxd4 5. Nf3 Nc6 6. cxd4 d6 7. Bc4 Nb6 8. Bb5
+dxe5 9. Nxe5 Bd7 10. Nc3 e6 11. Bxc6 Bxc6 12. Nxc6 bxc6 13. Qg4 Nd5 14. O-O h5
+15. Qf3 Qf6 16. Qe2 Qxd4 17. Qa6 Nb4 18. Qb7 Qd8 19. a3 Rb8 20. Qxa7 Ra8 21.
+Qe3 Nc2 22. Qe4 Nxa1 23. Qxc6+ Ke7 24. Rd1 Rc8 25. Qa4 Qc7 26. Bf4 Qc6 27. Nb5
+Nc2 28. h4 Kf6 29. Qa5 Kg6 30. Nc3 Bc5 31. Ne2 Qe4 32. Qb5 e5 33. Bg3 Nd4 34.
+Nxd4 Bxd4 0-1

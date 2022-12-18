@@ -1,0 +1,17 @@
+[Event "corr DDR/H"]
+[Site "corr DDR/H"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Beier, B."]
+[Black "Kase, O."]
+[Result "0-1"]
+[ECO "E30"]
+[Opening "Nimzo-Indian"]
+[Variation "Leningrad variation"]
+[HashCode "73950305"]
+[Epoch "Rook"]
+
+1. c4 Nf6 2. d4 e6 3. Nc3 Bb4 4. Bg5 h6 5. Bh4 c5 6. d5 g5 7. Bg3 Ne4 8.
+Qc2 Qf6 9. Rc1 exd5 10. cxd5 Qd4 11. Nf3 Qxd5 12. Be5 O-O 13. Rd1 Qxa2 14.
+Qxe4 Qxb2 15. Bd6 Nc6 16. Bxf8 Nd4 17. e3 Nxf3+ 0-1
+

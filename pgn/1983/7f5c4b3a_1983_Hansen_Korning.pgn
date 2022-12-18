@@ -1,0 +1,19 @@
+[Event "corr ch-DK"]
+[Site "corr ch-DK"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Hansen, Bjarne"]
+[Black "Korning"]
+[Result "1/2-1/2"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "modern variation"]
+[HashCode "7f5c4b3a"]
+[Epoch "Rook"]
+[WhiteID "1403176"]
+[WhiteCountry "DEN"]
+
+1. b3 e5 2. Bb2 d6 3. d4 exd4 4. Qxd4 Nc6 5. Qd2 Nf6 6. Nc3 d5 7. e3 Bb4 8. Bd3
+Ne5 9. Nf3 Nxd3+ 10. Qxd3 O-O 11. O-O-O Be6 12. Ng5 h6 13. Nxe6 fxe6 14. f3 c5
+15. Ne2 Rc8 16. c4 b5 17. a3 Ba5 18. cxb5 c4 19. bxc4 Qe8 20. c5 Rxc5+ 21. Kb1
+Rxb5 22. Ka2 Rf7 23. Rb1 Rfb7 1/2-1/2

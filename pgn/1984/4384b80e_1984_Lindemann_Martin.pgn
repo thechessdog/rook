@@ -1,0 +1,18 @@
+[Event "BL2-N 8384"]
+[Site "BL2-N 8384"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Lindemann, Sven"]
+[Black "Martin Sommerfeldt"]
+[Result "0-1"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, 6.Bd3"]
+[HashCode "4384b80e"]
+[Epoch "Rook"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 O-O 6. Bd3 b6 7. O-O Bb7 8. Qe1
+c5 9. d5 Na6 10. Qh4 Nb4 11. f5 Nxd3 12. cxd3 b5 13. fxg6 hxg6 14. Ng5 Re8 15.
+Be3 Bc8 16. Rf2 b4 17. Ne2 Bd7 18. Raf1 Rc8 19. Rxf6 exf6 20. Qh7+ Kf8 21. Nf4
+Re5 22. h4 Qe7 23. Nf3 Bg4 24. Nxe5 Qxe5 25. b3 f5 26. h5 g5 27. Ng6+ fxg6 28.
+Qxg6 Qf6 29. Bxg5 Qxg6 30. hxg6 Bd4+ 31. Kh1 Kg7 32. exf5 Rh8+ 0-1

@@ -1,0 +1,19 @@
+[Event "corr EU"]
+[Site "corr EU"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Zuhehor"]
+[Black "Van der Kooij"]
+[Result "1/2-1/2"]
+[ECO "E59"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line"]
+[HashCode "c35647d3"]
+[Epoch "Rook"]
+[BlackID "1011812"]
+[BlackCountry "NED"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 c5 7. O-O Nc6 8. a3
+Bxc3 9. bxc3 dxc4 10. Bxc4 Qc7 11. Ba2 e5 12. Qc2 Bg4 13. dxe5 Nxe5 14. Ne1 b5
+15. e4 c4 16. Be3 Bh5 17. f3 Rad8 18. Bb1 Nd3 19. Bd4 Nf4 20. Qf2 Rd7 21. Nc2
+Nd3 1/2-1/2

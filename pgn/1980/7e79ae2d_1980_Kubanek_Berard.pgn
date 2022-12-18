@@ -1,0 +1,22 @@
+[Event "corr DDR-I"]
+[Site "corr DDR-I"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Kubanek"]
+[Black "Berard"]
+[Result "0-1"]
+[ECO "B43"]
+[Opening "Sicilian"]
+[Variation "Kan, 5.Nc3"]
+[HashCode "7e79ae2d"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 Qc7 6. Bd3 Nc6 7. Nxc6 dxc6
+8. O-O Nf6 9. Be3 b5 10. f4 Bb7 11. e5 Nd5 12. Nxd5 cxd5 13. c3 Bc5 14. Qe2
+Qb6 15. Rae1 Bxe3+ 16. Qxe3 Qxe3+ 17. Rxe3 g6 18. a4 bxa4 19. Bc2 Bc6 20.
+Ra1 Rb8 21. Bxa4 Bxa4 22. Rxa4 Rxb2 23. Rxa6 O-O 24. Rc6 Ra8 25. h4 Ra1+
+26. Kh2 Rf1 27. c4 d4 28. Re4 d3 29. Rd6 Rff2 30. Rxd3 Rxg2+ 31. Kh3 Rgc2
+32. Kg4 Rb4 33. h5 Kg7 34. Rh3 h6 35. hxg6 Kxg6 36. Re1 Rcxc4 37. Rf3 h5+
+38. Kg3 Kf5 39. Rh1 Rxf4 40. Rxh5+ Kg6 41. Rh8 Kg7 42. Rxf4 Rxf4 43. Kxf4
+Kxh8 44. Kg4 Kg8 45. Kh4 Kf8 46. Kg4 Ke8 0-1
+

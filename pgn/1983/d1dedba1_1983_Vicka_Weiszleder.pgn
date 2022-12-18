@@ -1,0 +1,20 @@
+[Event "corr EU"]
+[Site "corr EU"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Vicka"]
+[Black "Weiszleder"]
+[Result "0-1"]
+[ECO "B78"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, 10.O-O-O"]
+[HashCode "d1dedba1"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 Nc6 8.
+Qd2 O-O 9. Bc4 Bd7 10. O-O-O Rc8 11. Bb3 Ne5 12. h4 Nc4 13. Bxc4 Rxc4 14.
+Bh6 Bxh6 15. Qxh6 Rxc3 16. bxc3 Qa5 17. Kd2 Rc8 18. Qe3 e5 19. Nb3 Qc7 20.
+Nc1 d5 21. Ne2 dxe4 22. Ke1 exf3 23. gxf3 Bc6 24. Rg1 Nd5 25. Qh6 Nf4 26.
+h5 Bxf3 27. hxg6 fxg6 28. Nxf4 exf4 29. Rd2 Qe5+ 30. Kf1 Re8 31. Qh4 Qxc3
+32. Qxf4 Bc6 0-1
+

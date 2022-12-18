@@ -1,0 +1,28 @@
+[Event "Pernik"]
+[Site "Pernik"]
+[Date "1981.01.01"]
+[Round "2"]
+[White "Chevaldonnet, Francois"]
+[Black "Spassov, Liuben"]
+[Result "0-1"]
+[ECO "B66"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...a6"]
+[HashCode "f23ab711"]
+[Epoch "Rook"]
+[WhiteID "600644"]
+[WhiteCountry "FRA"]
+[BlackID "2900220"]
+[BlackCountry "FID"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 Nc6 7. Qd2 e6 8.
+O-O-O h6 9. Bf4 Bd7 10. Nxc6 Bxc6 11. f3 d5 12. exd5 Nxd5 13. Nxd5 Qxd5 14.
+Qxd5 Bxd5 15. Bd3 Be7 16. Rhe1 Bg5 17. Bxg5 hxg5 18. h3 Rh4 19. Be4 Bxe4 20.
+Rxe4 Rxe4 21. fxe4 Ke7 22. Rd3 Rc8 23. Kd2 Rc4 24. Rc3 Rd4+ 25. Ke3 Rd7 26. Rd3
+Rc7 27. c3 Kf6 28. Rd4 Ke5 29. Rb4 b5 30. Rd4 g6 31. Rd8 f5 32. exf5 gxf5 33.
+Rg8 b4 34. cxb4 Rc2 35. Rxg5 Rxb2 36. g4 Rxb4 37. gxf5 exf5 38. Rg1 Ra4 39. Ke2
+Ra3 40. Kf2 Kf4 41. Kg2 Rg3+ 42. Kh2 Ra3 43. Rg2 Ke4 44. Re2+ Kf3 45. Rb2 f4
+46. Rg2 Ra5 47. Rb2 Re5 48. h4 Kg4 49. Kg2 Kxh4 50. Kf3 Kg5 51. Rb3 Ra5 52. Rc3
+Kf5 53. Rd3 Ke5 54. Rc3 Kf5 55. Rd3 Ke5 56. Rc3 Rxa2 57. Rc5+ Kd4 58. Rc8 a5
+59. Kxf4 a4 60. Rd8+ Kc3 61. Ke3 a3 62. Rc8+ Kb2 63. Kd3 Kb1 64. Ra8 Rh2 65.
+Kc3 Rc2+ 66. Kd3 a2 67. Ra7 Rb2 0-1

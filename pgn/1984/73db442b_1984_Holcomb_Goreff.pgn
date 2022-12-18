@@ -1,0 +1,16 @@
+[Event "Columbus,OH"]
+[Site "Columbus,OH"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Holcomb, G."]
+[Black "Goreff, B."]
+[Result "1-0"]
+[ECO "B18"]
+[Opening "Caro-Kann"]
+[Variation "classical variation"]
+[HashCode "73db442b"]
+[Epoch "Rook"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. Nf3 h6 7. Ne5 Bh7
+8. Bd3 Bxd3 9. Qxd3 Qa5+ 10. Bd2 Qa6 11. Qf5 Nf6 12. Qc8# 1-0
+

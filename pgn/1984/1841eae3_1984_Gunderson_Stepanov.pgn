@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Gunderson, E."]
+[Black "Stepanov, S."]
+[Result "1-0"]
+[ECO "D26"]
+[Opening "QGA"]
+[Variation "classical, Furman variation"]
+[HashCode "1841eae3"]
+[Epoch "Rook"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. e3 e6 5. Bxc4 c5 6. Qe2 a6 7. dxc5 Bxc5
+8. O-O Nc6 9. e4 b5 10. e5 bxc4 11. exf6 gxf6 12. Rd1 Qb6 13. Nc3 Ne7 14.
+Ne4 Nd5 15. Rxd5 exd5 16. Nxf6+ Kd8 17. Bg5 Qe6 18. Nxd5+ 1-0
+

@@ -1,0 +1,19 @@
+[Event "Sao Paulo"]
+[Site "Sao Paulo"]
+[Date "1977.??.??"]
+[Round "4"]
+[White "Segal, Alexandru Sorin"]
+[Black "Camara, Helder"]
+[Result "1-0"]
+[ECO "A65"]
+[Opening "Benoni"]
+[Variation "6.e4"]
+[HashCode "b3c240cb"]
+[Epoch "Rook"]
+[WhiteID "2100150"]
+[WhiteCountry "BRA"]
+[BlackCountry "BRA"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. Be2 Bg7 8. f4
+Qe7 9. e5 dxe5 10. fxe5 Nfd7 11. d6 Qxe5 12. Nf3 Qe6 13. Nb5 Na6 14. Ng5 Qe5
+15. O-O O-O 16. Bc4 Qe8 17. Rxf7 Kh8 18. Re7 Qd8 19. Rxg7 1-0

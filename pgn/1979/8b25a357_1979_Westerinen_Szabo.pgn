@@ -1,0 +1,24 @@
+[Event "Helsinki"]
+[Site "Helsinki"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Westerinen, Heikki M.J."]
+[Black "Szabo, Laszlo"]
+[Result "0-1"]
+[ECO "C99"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Chigorin, 12...c5d4"]
+[HashCode "8b25a357"]
+[Epoch "Rook"]
+[WhiteID "500020"]
+[WhiteCountry "FIN"]
+[BlackID "710741"]
+[BlackCountry "HUN"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. h3 Na5 10. Bc2 c5 11. d4 Qc7 12. Nbd2 cxd4 13. cxd4 Rd8 14. Nf1 exd4 15.
+Bg5 h6 16. Bh4 Nc4 17. Qxd4 Ne5 18. Bd1 Bb7 19. N1d2 Ng6 20. Bb3 Rac8 21. Rad1
+Nxh4 22. Nxh4 d5 23. exd5 Bxd5 24. Bxd5 Rxd5 25. Qe3 Bc5 26. Qf3 Rcd8 27. Nb3
+Rxd1 28. Rxd1 Bxf2+ 29. Kxf2 Qc2+ 30. Ke1 Rxd1+ 31. Qxd1 Qe4+ 32. Kf1 Qxh4 33.
+Qd8+ Kh7 34. Qc7 Qe4 35. Nc1 Nd5 36. Qg3 Qf5+ 37. Kg1 Nf4 38. Qe3 Qg5 39. Qe4+
+f5 40. Qc6 Nxh3+ 41. Kh2 Nf2 0-1

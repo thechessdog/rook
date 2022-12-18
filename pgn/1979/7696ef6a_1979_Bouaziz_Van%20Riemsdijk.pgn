@@ -1,0 +1,18 @@
+[Event "FIDE (31) 1979-1981"]
+[Site "Riga izt"]
+[Date "1979.09.01"]
+[Round "17"]
+[White "Bouaziz, Slim"]
+[Black "Van Riemsdijk, Herman C"]
+[Result "1/2-1/2"]
+[ECO "B17"]
+[Opening "Caro-Kann"]
+[Variation "Steinitz variation"]
+[HashCode "7696ef6a"]
+[Epoch "Rook"]
+[WhiteID "5500010"]
+[WhiteCountry "TUN"]
+[BlackCountry "BRA"]
+
+1. e4 c6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Nxf6+ Nxf6 7. Ne5 Be6
+8. Be2 g6 9. O-O Bg7 10. Bf4 O-O 11. c3 Nd7 12. Nxd7 1/2-1/2

@@ -1,0 +1,19 @@
+[Event "Cuba"]
+[Site "Cuba"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Hernandez, Alberto COL"]
+[Black "Garces, Napoleon"]
+[Result "1/2-1/2"]
+[ECO "A79"]
+[Opening "Benoni"]
+[Variation "classical, 11.f3"]
+[HashCode "c50f25e4"]
+[Epoch "Rook"]
+[WhiteID "4418506"]
+[BlackID "3600130"]
+[WhiteCountry "COL"]
+[BlackCountry "ECU"]
+
+1. d4 Nf6 2. Nf3 c5 3. d5 d6 4. c4 g6 5. Nc3 Bg7 6. e4 O-O 7. Be2 e6 8. O-O
+exd5 9. cxd5 Re8 10. Nd2 Na6 11. f3 Nc7 12. a4 b6 13. Kh1 1/2-1/2

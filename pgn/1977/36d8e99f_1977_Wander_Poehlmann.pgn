@@ -1,0 +1,19 @@
+[Event "corr DDR/M"]
+[Site "corr DDR/M"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Wander, R."]
+[Black "Poehlmann"]
+[Result "1-0"]
+[ECO "E39"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, Pirc variation"]
+[HashCode "36d8e99f"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 c5 5. dxc5 O-O 6. Bf4 Bxc5 7. e3 Nc6
+8. Nf3 d5 9. Rd1 Qa5 10. a3 Ne4 11. cxd5 exd5 12. Rxd5 Nxc3 13. bxc3 h6 14.
+h4 Be6 15. Ng5 hxg5 16. hxg5 g6 17. Bc4 Qxa3 18. Rh6 Rfe8 19. Rxg6+ Kf8 20.
+Rxe6 Rxe6 21. Rf5 Ke7 22. Rxf7+ Kxf7 23. Qh7+ Kf8 24. Qh8+ Ke7 25. Qg7+ Kd8
+26. Bxe6 Qxc3+ 27. Qxc3 Bb4 28. Qxb4 Nxb4 29. Bd6 1-0
+

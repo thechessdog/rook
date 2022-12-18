@@ -1,0 +1,22 @@
+[Event "Quebec"]
+[Site "Quebec"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Spraggett, Kevin"]
+[Black "Ivanov, Igor Vasilyevich"]
+[Result "0-1"]
+[ECO "E34"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, Noa variation"]
+[HashCode "abdd939c"]
+[Epoch "Rook"]
+[WhiteID "2600013"]
+[WhiteCountry "CAN"]
+[BlackCountry "RUS"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 d5 5. cxd5 Qxd5 6. Nf3 c5 7. Bd2 Bxc3 8.
+Bxc3 cxd4 9. Rd1 Qxa2 10. Rxd4 Bd7 11. e4 Qa1+ 12. Kd2 Na6 13. e5 Nd5 14. Rxd5
+exd5 15. Bb5 Qxh1 16. Bxd7+ Kxd7 17. Qf5+ Ke8 18. Ng5 Rf8 19. e6 f6 20. e7 Rh8
+21. Bxf6 gxf6 22. Qxf6 Kd7 23. Qe6+ Kc7 24. Qe5+ Kc6 25. Nf7 Qxg2 26. Qe6+ Kc5
+27. Qd6+ Kb5 28. Qd7+ Ka5 29. Nd6 Qxf2+ 30. Kd1 Qf1+ 31. Kd2 Rac8 32. b4+ Kxb4
+33. Qxb7+ Kc5 0-1

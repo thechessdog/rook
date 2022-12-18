@@ -1,0 +1,20 @@
+[Event "corr DDR-cup6"]
+[Site "corr DDR-cup6"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Zimmermann, M."]
+[Black "Rein, G."]
+[Result "0-1"]
+[ECO "D86"]
+[Opening "Gruenfeld"]
+[Variation "exchange, Simagin's improved variation"]
+[HashCode "a49d3203"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Bc4 O-O
+8. Ne2 Nc6 9. O-O b6 10. Be3 Bb7 11. Rc1 e6 12. Bd3 Qd7 13. Qd2 f5 14. e5
+Na5 15. c4 c5 16. Rfd1 cxd4 17. Bxd4 Nc6 18. Bc3 Nxe5 19. Nf4 Qc6 20. Bxe5
+Bxe5 21. f3 Rad8 22. Ne2 Qc5+ 23. Kh1 Qf2 24. Rf1 Qh4 25. g3 Qf6 26. Kg2 g5
+27. Qc2 g4 28. Ng1 Bd4 29. Be2 e5 30. Rfd1 Bxg1 31. Rxg1 gxf3+ 32. Bxf3 e4
+33. Be2 Rd2 0-1
+

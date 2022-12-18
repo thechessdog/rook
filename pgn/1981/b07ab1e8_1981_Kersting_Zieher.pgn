@@ -1,0 +1,24 @@
+[Event "Bundesliga 8081"]
+[Site "Duitsland tt"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Kersting, Martin"]
+[Black "Zieher, Hartmut"]
+[Result "1-0"]
+[ECO "C53"]
+[Opening "Giuoco Piano"]
+[Variation "centre-holding variation"]
+[HashCode "b07ab1e8"]
+[Epoch "Rook"]
+[WhiteID "4604431"]
+[WhiteCountry "GER"]
+[BlackID "4607821"]
+[BlackCountry "GER"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Qe7 5. d4 Bb6 6. a4 a6 7. Bg5 Nf6 8. d5
+Nd8 9. d6 cxd6 10. O-O h6 11. Bxf6 Qxf6 12. Na3 Bc7 13. Nc2 b6 14. Ne3 Bb7 15.
+Bd5 Bc6 16. b4 Rb8 17. c4 b5 18. cxb5 axb5 19. a5 O-O 20. Rc1 Rc8 21. Qd2 Kh7
+22. Rc3 Bb8 23. Rfc1 Qf4 24. Qe2 Ba7 25. Nf5 Bxd5 26. Rxc8 Bxe4 27. Nxd6 Bc6
+28. Qd2 Qg4 29. R1xc6 dxc6 30. Nxe5 Qe6 31. Nxc6 Nxc6 32. Rxf8 Nd4 33. Rxf7 Bb8
+34. Rxg7+ Kxg7 35. Qxd4+ Kg8 36. Ne4 Be5 37. Qd8+ Kg7 38. g3 Qf5 39. Qe7+ Kg6
+40. Nc5 Bd4 41. Qe6+ 1-0

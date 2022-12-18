@@ -1,0 +1,19 @@
+[Event "BL2-N 8081"]
+[Site "BL2-N 8081"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Behrmann, Joachim"]
+[Black "Grzesik, Thomas"]
+[Result "1/2-1/2"]
+[ECO "D46"]
+[Opening "QGD semi-Slav"]
+[Variation "Bogolyubov variation"]
+[HashCode "5b5292ef"]
+[Epoch "Rook"]
+[WhiteID "4607589"]
+[WhiteCountry "GER"]
+[BlackID "4603982"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 c6 3. Nc3 d5 4. e3 e6 5. Nf3 Nbd7 6. Bd3 Be7 7. e4 dxe4 8. Nxe4
+e5 9. Nxf6+ Bxf6 10. O-O 1/2-1/2

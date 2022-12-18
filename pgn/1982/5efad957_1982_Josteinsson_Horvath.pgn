@@ -1,0 +1,18 @@
+[Event "Reykjavik op"]
+[Site "Reykjavik"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Josteinsson, Leifur"]
+[Black "Horvath, Tamas"]
+[Result "0-1"]
+[ECO "E24"]
+[Opening "Nimzo-Indian"]
+[Variation "Saemisch variation"]
+[HashCode "5efad957"]
+[Epoch "Rook"]
+[BlackID "700185"]
+[BlackCountry "HUN"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. a3 Bxc3+ 5. bxc3 c5 6. f3 O-O 7. Bg5 d6 8. e3
+Nc6 9. Bd3 cxd4 10. exd4 e5 11. d5 Nb8 12. Qc2 h6 13. Bh4 Nbd7 14. Nh3 Nc5 15.
+Bh7+ Kh8 16. Nf2 g5 17. Bg3 0-1

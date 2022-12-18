@@ -1,0 +1,15 @@
+[Event "Espelkamp"]
+[Site "Espelkamp"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Labahn, Wolfgang"]
+[Black "Kolbus, F."]
+[Result "1-0"]
+[ECO "A00"]
+[Opening "Polish (Sokolsky) opening"]
+[HashCode "c3d16f3c"]
+[Epoch "Rook"]
+[WhiteID "4617363"]
+[WhiteCountry "GER"]
+
+1. b4 a5 2. b5 c5 3. c4 d5 4. e3 dxc4 5. Bxc4 Bf5 6. Bb2 Bd3 7. Qb3 e6 1-0

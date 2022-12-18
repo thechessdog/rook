@@ -1,0 +1,20 @@
+[Event "Montreal"]
+[Site "Montreal"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Bilodeau, Yves"]
+[Black "Desjardins, Andre"]
+[Result "0-1"]
+[ECO "D80"]
+[Opening "Gruenfeld defence"]
+[HashCode "aee394d6"]
+[Epoch "Rook"]
+[BlackID "2601443"]
+[BlackCountry "CAN"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. f3 Bg7 5. cxd5 Nxd5 6. e4 Nxc3 7. bxc3 O-O 8.
+Bd3 c5 9. Ne2 cxd4 10. cxd4 Bxd4 11. Nxd4 Qxd4 12. Bg5 Qc3+ 13. Ke2 Nc6 14. Rc1
+Qa5 15. Qd2 Qxd2+ 16. Bxd2 Be6 17. Bc4 Bxc4+ 18. Rxc4 Rfd8 19. Bc3 Rac8 20. Rd1
+Rxd1 21. Kxd1 e6 22. Ke1 Ne7 23. Rxc8+ Nxc8 24. Kd2 Kf8 25. Kd3 Ke8 26. Kc4 Kd7
+27. Kc5 a6 28. e5 b6+ 29. Kb4 Kc6 30. Kc4 Ne7 31. a3 b5+ 32. Kb3 Kd5 33. Kc2
+Kc4 0-1

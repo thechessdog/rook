@@ -1,0 +1,21 @@
+[Event "Aarhus"]
+[Site "Aarhus"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Jacobsen, Bo"]
+[Black "Nielsen, Jens"]
+[Result "0-1"]
+[ECO "E63"]
+[Opening "King's Indian"]
+[Variation "fianchetto, Panno variation"]
+[HashCode "67c02d47"]
+[Epoch "Rook"]
+[WhiteID "1400738"]
+[BlackID "1409310"]
+[WhiteCountry "DEN"]
+[BlackCountry "DEN"]
+
+1. c4 Nf6 2. g3 g6 3. Bg2 Bg7 4. Nc3 O-O 5. d4 d6 6. Nf3 Nc6 7. O-O a6 8. h3
+Rb8 9. Qc2 Bd7 10. Rd1 Qc8 11. Kh2 b5 12. d5 Nb4 13. Qd2 bxc4 14. a3 a5 15.
+axb4 axb4 16. Nb1 c6 17. dxc6 Bxc6 18. Nd4 Bxg2 19. Kxg2 Qb7+ 20. Nf3 Rfc8 21.
+Qe3 Rc5 0-1

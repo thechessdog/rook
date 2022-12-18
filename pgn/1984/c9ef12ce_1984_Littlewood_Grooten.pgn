@@ -1,0 +1,26 @@
+[Event "Ramsgate op"]
+[Site "Ramsgate op"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Littlewood, Paul E"]
+[Black "Grooten, Herman"]
+[Result "0-1"]
+[ECO "E14"]
+[Opening "Queen's Indian"]
+[Variation "4.e3"]
+[HashCode "c9ef12ce"]
+[Epoch "Rook"]
+[BlackID "1000330"]
+[BlackCountry "NED"]
+[WhiteID "400190"]
+[WhiteCountry "ENG"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. e3 Bb7 5. Bd3 d5 6. O-O Bd6 7. b3 O-O 8. Bb2 c5
+9. Nc3 cxd4 10. exd4 Ne4 11. Qe2 Nxc3 12. Bxc3 Nd7 13. Rac1 Qe7 14. Rfe1 Rfd8
+15. Bd2 dxc4 16. bxc4 Bxf3 17. Qxf3 Qh4 18. Be4 Rac8 19. g3 Qf6 20. Qg4 h6 21.
+Re3 Qe7 22. Bd3 Bb4 23. Bxb4 Qxb4 24. a3 Qa4 25. Rf3 Nf8 26. Qf4 Qd7 27. Rd1
+Qc7 28. Qh4 Rd6 29. Qh5 Rcd8 30. Rf4 Qe7 31. h4 e5 32. Qe2 Re6 33. dxe5 Rxe5
+34. Qf3 Ne6 35. Re4 Rxe4 36. Qxe4 Qxa3 37. Qh7+ Kf8 38. Kg2 Rd4 39. Be2 Rxd1
+40. Bxd1 Qc5 41. Qe4 a5 42. Bf3 g6 43. Qa8+ Kg7 44. Bd5 Nc7 45. Qb7 Nxd5 46.
+cxd5 a4 47. g4 a3 48. Qa8 Qa5 49. Qd8 a2 50. g5 hxg5 51. h5 a1=Q 52. h6+ Kxh6
+53. Qf8+ Qg7 54. Qd6 Kh7 0-1

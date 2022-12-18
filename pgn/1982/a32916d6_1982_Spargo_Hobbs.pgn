@@ -1,0 +1,21 @@
+[Event "Berkeley"]
+[Site "Berkeley"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Spargo, J."]
+[Black "Hobbs, R."]
+[Result "1/2-1/2"]
+[ECO "A02"]
+[Opening "Bird"]
+[Variation "Hobbs gambit"]
+[HashCode "a32916d6"]
+[Epoch "Rook"]
+
+1. f4 g5 2. fxg5 e5 3. e4 h6 4. Bc4 hxg5 5. d4 exd4 6. Qxd4 Qf6 7. e5 Nc6
+8. exf6 Nxd4 9. Kd1 d5 10. Bd3 Nxf6 11. Bxg5 Ng4 12. Nh3 Bh6 13. Re1+ Be6
+14. c3 Bxg5 15. Nxg5 Nf2+ 16. Kd2 Nc6 17. Nxe6 fxe6 18. Rxe6+ Kf7 19. Re2
+Nxd3 20. Kxd3 Rxh2 21. Nd2 Rh5 22. Rf1+ Kg7 23. Rf4 Ne5+ 24. Kc2 Rf8 25.
+Ref2 Rxf4 26. Rxf4 Rg5 27. Rf2 c5 28. Nf3 Rf5 29. Rd2 Nc4 30. Re2 a5 31. b3
+Nd6 32. Re6 Rf6 33. Re5 Rg6 34. Rxd5 Rxg2+ 35. Rd2 Rg6 36. Ne5 Re6 37. Nd7
+c4 38. Nc5 cxb3+ 39. axb3 Rf6 40. Nd7 Rg6 1/2-1/2
+

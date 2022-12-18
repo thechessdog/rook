@@ -1,0 +1,19 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Frenzel"]
+[Black "Schulze, Ulrich"]
+[Result "1/2-1/2"]
+[ECO "B19"]
+[Opening "Caro-Kann"]
+[Variation "classical, 7...Nd7"]
+[HashCode "dfefcbec"]
+[Epoch "Rook"]
+[BlackID "4600525"]
+[BlackCountry "GER"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6 7. Nf3 Nd7 8. Bd3
+Bxd3 9. Qxd3 Qc7 10. Bd2 Ngf6 11. O-O-O O-O-O 12. c4 e5 13. dxe5 Ng4 14. Be3
+Nxe3 15. Qxe3 Bc5 16. Qe2 Rhe8 17. Rhe1 Re6 18. Nf5 g5 19. hxg5 hxg5 20. Nxg5
+Rxe5 21. Rxd7 Qxd7 22. Qxe5 Qd2+ 23. Kb1 Qd3+ 24. Kc1 Qd2+ 25. Kb1 1/2-1/2

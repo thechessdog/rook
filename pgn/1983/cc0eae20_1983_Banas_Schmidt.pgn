@@ -1,0 +1,20 @@
+[Event "Trnava"]
+[Site "Trnava"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Banas, Jan"]
+[Black "Schmidt, Wlodzimierz"]
+[Result "1/2-1/2"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, 6.e5"]
+[HashCode "cc0eae20"]
+[Epoch "Rook"]
+[BlackID "1100041"]
+[BlackCountry "POL"]
+[WhiteID "14900076"]
+[WhiteCountry "SVK"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 O-O 6. e5 dxe5 7. fxe5 Nd5 8. Bc4
+Nb6 9. Bb3 c5 10. dxc5 Qxd1+ 11. Kxd1 N6d7 12. e6 Nxc5 13. exf7+ Kh8 14. Bc4
+Nc6 15. Be3 Be6 1/2-1/2

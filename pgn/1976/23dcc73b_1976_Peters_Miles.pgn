@@ -1,0 +1,23 @@
+[Event "Las Vegas Nat op"]
+[Site "Las Vegas Nat op"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Peters, John A"]
+[Black "Miles, Anthony J"]
+[Result "0-1"]
+[ECO "B42"]
+[Opening "Sicilian"]
+[Variation "Kan, 5.Bd3"]
+[HashCode "23dcc73b"]
+[Epoch "Rook"]
+[BlackCountry "ENG"]
+[WhiteID "2000229"]
+[WhiteCountry "USA"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Nf6 6. O-O d6 7. c4 Be7 8. Nc3
+O-O 9. Be3 Nbd7 10. Rc1 Re8 11. f4 Bf8 12. Nb3 b6 13. g4 Nc5 14. Nxc5 dxc5 15.
+h3 Bb7 16. e5 Nd7 17. Qc2 Qh4 18. Kh2 f6 19. Bf2 Qh6 20. exf6 Bd6 21. f7+ Kxf7
+22. Bg3 g6 23. Be4 Bxe4 24. Nxe4 Bc7 25. f5 Bxg3+ 26. Nxg3 exf5 27. gxf5 g5 28.
+Qg2 Nf6 29. Rce1 Rxe1 30. Rxe1 Rd8 31. Re6 g4 32. Ne4 Qf4+ 33. Qg3 Qxg3+ 34.
+Kxg3 Nxe4+ 35. Rxe4 gxh3 36. Kxh3 Rd3+ 37. Kg4 Rd4 38. Rxd4 cxd4 39. b4 h5+ 40.
+Kf3 Kf6 41. a4 Kxf5 42. c5 Ke6 0-1

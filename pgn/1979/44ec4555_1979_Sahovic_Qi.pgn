@@ -1,0 +1,24 @@
+[Event "Bled / Portoroz"]
+[Site "Bled / Portoroz"]
+[Date "1979.06.01"]
+[Round "1"]
+[White "Sahovic, Dragutin"]
+[Black "Qi, Jingxuan"]
+[Result "0-1"]
+[ECO "B42"]
+[Opening "Sicilian"]
+[Variation "Kan, 5.Bd3"]
+[HashCode "44ec4555"]
+[Epoch "Rook"]
+[BlackID "8600082"]
+[BlackCountry "CHN"]
+[WhiteCountry "SRB"]
+
+1. e4 e6 2. d4 c5 3. Nf3 cxd4 4. Nxd4 a6 5. Bd3 Nf6 6. O-O d6 7. Nc3 Be7 8. Be3
+O-O 9. f4 Nc6 10. Nb3 b5 11. a3 Bb7 12. Qf3 Rc8 13. Qh3 Re8 14. g4 Nd7 15. Rad1
+b4 16. e5 g6 17. exd6 bxc3 18. dxe7 Qxe7 19. bxc3 e5 20. f5 e4 21. f6 Nxf6 22.
+Bg5 exd3 23. Bxf6 Qf8 24. cxd3 Ne5 25. c4 Nd7 26. Bd4 Re2 27. Rf2 Rce8 28. Rdf1
+Rxf2 29. Kxf2 Qxa3 30. Nc1 Qd6 31. Be3 Ne5 32. Qg3 Nxg4+ 33. Qxg4 Qxh2+ 34. Ke1
+Rxe3+ 35. Kd1 Bf3+ 36. Rxf3 Qh1+ 37. Kd2 Qxf3 38. Qc8+ Kg7 39. Qxa6 Qf2+ 40.
+Kc3 Qe1+ 41. Kc2 h5 42. c5 Rf3 43. Qc4 Rf1 44. Na2 Rf2+ 45. Kb3 Qb1+ 46. Ka3
+Qb2+ 0-1

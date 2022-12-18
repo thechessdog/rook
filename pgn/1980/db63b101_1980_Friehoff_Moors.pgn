@@ -1,0 +1,21 @@
+[Event "BL-W 7980"]
+[Site "BL-W 7980"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Friehoff, H."]
+[Black "Moors, H."]
+[Result "1-0"]
+[ECO "D03"]
+[Opening "Torre attack (Tartakower variation)"]
+[HashCode "db63b101"]
+[Epoch "Rook"]
+
+1. Nf3 Nf6 2. d4 d5 3. Bg5 c6 4. Nbd2 Nbd7 5. c3 h6 6. Bh4 g5 7. Bg3 Bg7 8.
+e3 Nh5 9. Be5 Nxe5 10. Nxe5 Nf6 11. Bd3 Nd7 12. f4 Nxe5 13. fxe5 Be6 14.
+O-O Qd7 15. Rf2 g4 16. Qa4 h5 17. c4 dxc4 18. Bxc4 Bxc4 19. Qxc4 Qd5 20.
+Qxd5 cxd5 21. Rc1 Rh6 22. Rf5 a5 23. Rc7 Rb8 24. Kf2 a4 25. Ke2 Bf8 26. Kd3
+Rh7 27. Nb1 e6 28. Rf1 Bb4 29. Rfc1 Ba5 30. Rc8+ Rxc8 31. Rxc8+ Kd7 32. Ra8
+b6 33. Nc3 h4 34. Rg8 h3 35. g3 a3 36. bxa3 Rh5 37. Rxg4 Rh8 38. Rh4 Rxh4
+39. gxh4 Ke8 40. Ne2 Be1 41. Nf4 Bg3 42. Nxh3 Bxh2 43. Ng5 Kf8 44. Nh7+ Kg7
+45. Nf6 1-0
+

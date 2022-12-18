@@ -1,0 +1,24 @@
+[Event "Aarhus"]
+[Site "Aarhus"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Knudsen, Per"]
+[Black "Jensen, Vagn"]
+[Result "1-0"]
+[ECO "E68"]
+[Opening "King's Indian"]
+[Variation "fianchetto, classical variation, 8.e4"]
+[HashCode "c8e9bfd0"]
+[Epoch "Rook"]
+[WhiteID "1400509"]
+[BlackID "1400851"]
+[WhiteCountry "DEN"]
+[BlackCountry "DEN"]
+
+1. Nf3 d6 2. d4 Nf6 3. g3 Nbd7 4. Bg2 g6 5. c4 Bg7 6. Nc3 e5 7. O-O O-O 8. e4
+exd4 9. Nxd4 Re8 10. Re1 a5 11. f3 Nc5 12. Be3 a4 13. Ndb5 Bd7 14. Qd2 b6 15.
+Rad1 Qb8 16. Bg5 Bc6 17. Bh6 Bh8 18. Qc2 Nfd7 19. Nd4 Bb7 20. f4 c6 21. b4 axb3
+22. axb3 Qc7 23. b4 Ne6 24. Ndb5 cxb5 25. Nxb5 Qb8 26. f5 Nc7 27. Nxd6 Ne5 28.
+Nxe8 Nxe8 29. fxg6 hxg6 30. Rd2 Qc7 31. Red1 Qe7 32. c5 Rc8 33. Be3 Nf6 34. Rd6
+Nfg4 35. Bf4 bxc5 36. bxc5 Nf6 37. Bg5 Rc6 38. h3 Kh7 39. Qf2 Rxd6 40. Rxd6 Qc7
+41. Bxf6 1-0

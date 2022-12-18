@@ -1,0 +1,20 @@
+[Event "Moscow-ch"]
+[Site "Moscow"]
+[Date "1982.01.01"]
+[Round "8"]
+[White "Rashkovsky, Nukhim N"]
+[Black "Savon, Vladimir"]
+[Result "1/2-1/2"]
+[ECO "E06"]
+[Opening "Catalan"]
+[Variation "closed, 5.Nf3"]
+[HashCode "ae79891c"]
+[Epoch "Rook"]
+[WhiteID "4100603"]
+[WhiteCountry "RUS"]
+[BlackID "14138786"]
+[BlackCountry "UKR"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Bg2 Be7 5. Nf3 O-O 6. O-O dxc4 7. Qc2 a6 8. a4
+Bd7 9. Rd1 Bc6 10. Nc3 Bb4 11. Na2 Be7 12. Bg5 Nbd7 13. Ne5 Bxg2 14. Kxg2 Nxe5
+15. Bxf6 Nd7 16. Bxe7 Qxe7 17. Qxc4 c5 1/2-1/2

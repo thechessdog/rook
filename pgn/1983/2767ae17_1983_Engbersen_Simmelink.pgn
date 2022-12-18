@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Engbersen, J."]
+[Black "Simmelink, J."]
+[Result "1-0"]
+[ECO "B87"]
+[Opening "Sicilian"]
+[Variation "Sozin with ...a6 and ...b5"]
+[HashCode "2767ae17"]
+[Epoch "Rook"]
+[BlackCountry "NLD"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 b5 8. O-O
+Be7 9. Be3 O-O 10. f4 b4 11. e5 bxc3 12. exf6 Bxf6 13. bxc3 Qc7 14. Qd2 Nd7 15.
+Rad1 Nc5 16. c4 Bb7 17. c3 Rad8 18. Qe1 a5 19. Bc2 Ne4 20. f5 Qxc4 21. fxe6
+Qxc3 22. Bxe4 Qxe1 23. Rdxe1 Bxe4 24. Rxf6 1-0

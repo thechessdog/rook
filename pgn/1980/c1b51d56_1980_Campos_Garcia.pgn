@@ -1,0 +1,24 @@
+[Event "Bayamo"]
+[Site "Bayamo"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Campos Lopez, Mario"]
+[Black "Garces, Napoleon"]
+[Result "0-1"]
+[ECO "B40"]
+[Opening "Sicilian defence"]
+[HashCode "c1b51d56"]
+[Epoch "Rook"]
+[WhiteID "5100100"]
+[BlackID "3600130"]
+[WhiteCountry "MEX"]
+[BlackCountry "ECU"]
+
+1. e4 c5 2. Nf3 e6 3. g3 d5 4. exd5 exd5 5. Bg2 Qe7+ 6. Qe2 Qxe2+ 7. Kxe2 Nc6
+8. Re1 Bd6 9. Kf1+ Nge7 10. d3 h6 11. Nc3 O-O 12. Bd2 Be6 13. Ne2 Ng6 14. a3
+Rfe8 15. Rab1 a5 16. Nfg1 Rac8 17. f4 Nge7 18. Nf3 b6 19. Rbc1 d4 20. h3 Bd7
+21. g4 f5 22. g5 Ng6 23. h4 h5 24. Kf2 Nce7 25. Rh1 Bc6 26. Rce1 Nd5 27. Bh3
+Ne3 28. Bxe3 Rxe3 29. Neg1 Rxe1 30. Kxe1 Rf8 31. Bf1 Bxf4 32. Rh3 Bc1 33. Nd2
+Re8+ 34. Kd1 Bxb2 35. Nc4 Bc3 36. Ne2 Nf4 37. Rh2 Nxe2 38. Bxe2 Bf3 39. Nxb6 f4
+40. Na4 Bg4 41. Nxc3 dxc3 42. Rf2 Rxe2 43. Rxe2 Kf7 44. Ke1 Bxe2 45. Kxe2 Ke6
+46. a4 Kf5 0-1

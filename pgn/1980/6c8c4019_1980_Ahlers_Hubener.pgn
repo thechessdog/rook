@@ -1,0 +1,19 @@
+[Event "corr DFSM"]
+[Site "corr DFSM"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Ahlers"]
+[Black "Hubener"]
+[Result "1-0"]
+[ECO "C03"]
+[Opening "French"]
+[Variation "Tarrasch"]
+[HashCode "6c8c4019"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Ne7 4. Ngf3 g6 5. Bd3 Bg7 6. h4 c5 7. dxc5 Nd7 8.
+Nb3 Nxc5 9. Nxc5 Qa5+ 10. c3 Qxc5 11. h5 dxe4 12. Bxe4 Qc7 13. hxg6 hxg6
+14. Rxh8+ Bxh8 15. Qb3 f5 16. Bd3 Nc6 17. Bg5 Ne5 18. O-O-O Kf7 19. Nxe5+
+Bxe5 20. Qb4 a6 21. Rh1 Bg7 22. Bh6 Bxh6+ 23. Rxh6 Qd8 24. Qf4 Kg7 25. Rh3
+Qf6 26. Qc7+ Kg8 27. Be2 1-0
+

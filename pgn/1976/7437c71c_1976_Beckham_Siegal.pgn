@@ -1,0 +1,18 @@
+[Event "Columbus,OH"]
+[Site "Columbus,OH"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Beckham"]
+[Black "Siegal"]
+[Result "0-1"]
+[ECO "C89"]
+[Opening "Ruy Lopez"]
+[Variation "Marshall counter-attack"]
+[HashCode "7437c71c"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Be7 7. Re1 O-O 8.
+c3 d5 9. exd5 Nxd5 10. Nxe5 Nxe5 11. Rxe5 Nf6 12. d4 Bd6 13. Re2 Nh5 14.
+Re1 Qh4 15. g3 Nxg3 16. hxg3 Bxg3 17. Bxf7+ Kh8 18. Qh5 Bxf2+ 19. Kg2 Qg3+
+20. Kh1 Bg4 0-1
+

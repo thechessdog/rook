@@ -1,0 +1,18 @@
+[Event "Laren"]
+[Site "Laren"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Dank"]
+[Black "Weyerstrass, Ronald"]
+[Result "0-1"]
+[ECO "B02"]
+[Opening "Alekhine's defence"]
+[Variation "Scandinavian variation"]
+[HashCode "99179047"]
+[Epoch "Rook"]
+
+1. e4 Nf6 2. Nc3 d5 3. d3 dxe4 4. dxe4 Qxd1+ 5. Kxd1 e5 6. h3 Bc5 7. Be3 Nbd7
+8. Bb5 c6 9. Bd3 Bxe3 10. fxe3 b5 11. b4 a5 12. Rb1 axb4 13. Rxb4 Nc5 14. Kd2
+Be6 15. Rb2 O-O 16. Nf3 Nfd7 17. g4 Rfd8 18. Ke2 Ra3 19. Ng5 Rxc3 20. Nxe6 fxe6
+21. Rd1 Nxd3 22. cxd3 Nc5 23. Rbd2 Na4 24. d4 Ra3 25. Kf3 Nc3 26. dxe5 Rf8+ 27.
+Kg2 Nxd1 28. Rxd1 Rxa2+ 29. Kg3 g5 30. h4 Raf2 31. hxg5 R8f3+ 32. Kh4 Rh2# 0-1

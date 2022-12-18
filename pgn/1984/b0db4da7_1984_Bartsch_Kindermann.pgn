@@ -1,0 +1,26 @@
+[Event "Bundesliga 8384"]
+[Site "Duitsland tt"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Bartsch, Berthold"]
+[Black "Kindermann, Stefan"]
+[Result "1-0"]
+[ECO "B26"]
+[Opening "Sicilian"]
+[Variation "closed, 6.Be3"]
+[HashCode "b0db4da7"]
+[Epoch "Rook"]
+[WhiteID "4604660"]
+[WhiteCountry "GER"]
+[BlackID "4600053"]
+[BlackCountry "AUT"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. Be3 b5 7. Qd2 b4 8. Nd1 Bb7
+9. f4 e6 10. Nf3 Nge7 11. h4 h5 12. O-O Qd7 13. Rb1 O-O 14. Nf2 f5 15. Nh3 Rae8
+16. Nhg5 Kh8 17. c3 Ba6 18. Rfe1 Ng8 19. exf5 gxf5 20. d4 bxc3 21. bxc3 cxd4
+22. Nxd4 Nd8 23. a4 Nf6 24. Nb5 Bxb5 25. Rxb5 d5 26. c4 Nc6 27. Bc5 Rg8 28. a5
+Ng4 29. a6 Nd8 30. Reb1 d4 31. Rd1 Qc8 32. Bb7 Qc7 33. Bxa7 Qxc4 34. Rb4 Qc3
+35. Qxc3 dxc3 36. Bb6 Nxb7 37. axb7 e5 38. Bd8 c2 39. Nf7+ Kh7 40. Rc1 Rxd8 41.
+Nxd8 Rxd8 42. Rxc2 Rd1+ 43. Kg2 Ne3+ 44. Kf2 Nxc2 45. b8=Q Nxb4 46. Qxb4 e4 47.
+Qa5 Kg6 48. Qb5 Rd8 49. g4 hxg4 50. h5+ Kxh5 51. Qxf5+ Kh6 52. Qg5+ Kh7 53.
+Qxd8 1-0

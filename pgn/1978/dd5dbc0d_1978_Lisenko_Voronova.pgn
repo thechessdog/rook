@@ -1,0 +1,17 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Lisenko, Alexander V"]
+[Black "Voronova, T."]
+[Result "0-1"]
+[ECO "B01"]
+[Opening "Scandinavian"]
+[Variation "Anderssen counter-attack"]
+[HashCode "dd5dbc0d"]
+[Epoch "Rook"]
+[WhiteID "4104552"]
+[WhiteCountry "RUS"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qa5 4. d4 e5 5. Qe2 Nc6 6. d5 Bb4 7. Qc4 Nd4 8.
+Bd3 b5 0-1

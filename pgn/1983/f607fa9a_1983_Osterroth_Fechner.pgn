@@ -1,0 +1,20 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Osterroth"]
+[Black "Fechner"]
+[Result "1-0"]
+[ECO "E07"]
+[Opening "Catalan"]
+[Variation "closed, 6...Nbd7"]
+[HashCode "f607fa9a"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Bg2 Be7 5. Nf3 O-O 6. O-O Nbd7 7. Nbd2 b6 8.
+b3 Bb7 9. Bb2 c5 10. Rc1 dxc4 11. Nxc4 b5 12. Nce5 Nxe5 13. Nxe5 Bxg2 14.
+Kxg2 Rc8 15. dxc5 Bxc5 16. b4 Bb6 17. Nc6 Qxd1 18. Rfxd1 Rc7 19. Be5 Rb7
+20. Bd6 Re8 21. Bc5 Bxc5 22. Rxc5 Kf8 23. Na5 Rb6 24. f3 Nd5 25. Rd4 f5 26.
+e4 fxe4 27. fxe4 Nf6 28. Kf3 a6 29. Nc6 Rc8 30. Nd8 Ra8 31. e5 Ne8 32. Rd7
+a5 33. bxa5 Rxa5 34. Rc8 Rba6 35. Rf7+ Kg8 36. Re7 Kf8 37. Nc6 1-0
+

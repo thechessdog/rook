@@ -1,0 +1,18 @@
+[Event "corr Tch-SWE"]
+[Site "corr Tch-SWE"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Svensson, Frank"]
+[Black "Svensson, Stig"]
+[Result "1-0"]
+[ECO "C55"]
+[Opening "two knights"]
+[Variation "Max Lange attack"]
+[HashCode "eb96e724"]
+[Epoch "Rook"]
+[WhiteID "1719653"]
+[BlackID "1438719"]
+[WhiteCountry "SWE"]
+[BlackCountry "DEN"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d4 exd4 5. O-O Bc5 6. e5 d5 7. exf6 1-0

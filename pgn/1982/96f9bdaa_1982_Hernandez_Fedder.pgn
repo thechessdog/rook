@@ -1,0 +1,21 @@
+[Event "Lucerne"]
+[Site "Lucerne"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Hernandez, Alberto COL"]
+[Black "Fedder, Steen"]
+[Result "1-0"]
+[ECO "D85"]
+[Opening "Gruenfeld"]
+[Variation "modern exchange variation"]
+[HashCode "96f9bdaa"]
+[Epoch "Rook"]
+[BlackID "1400126"]
+[BlackCountry "DEN"]
+[WhiteID "4418506"]
+[WhiteCountry "COL"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. Nc3 d5 5. cxd5 Nxd5 6. e4 Nxc3 7. bxc3 c5 8.
+Rb1 O-O 9. Be2 b6 10. O-O Bb7 11. Qd3 cxd4 12. cxd4 Qd7 13. Bf4 Rc8 14. Qe3 Qa4
+15. a3 Ba6 16. Bxa6 Nxa6 17. Bh6 Rc7 18. h4 Rac8 19. Bxg7 Kxg7 20. h5 Nb8 21.
+Qf4 Qc6 22. Rbc1 Qd6 23. e5 Qe6 24. Rxc7 Rxc7 25. hxg6 fxg6 26. Ng5 1-0

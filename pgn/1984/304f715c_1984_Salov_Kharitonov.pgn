@@ -1,0 +1,19 @@
+[Event "Lvov ch-URS"]
+[Site "Lvov ch-URS"]
+[Date "1984.04.01"]
+[Round "1"]
+[White "Salov, Valery"]
+[Black "Kharitonov, Andrei Y"]
+[Result "1/2-1/2"]
+[ECO "E46"]
+[Opening "Nimzo-Indian"]
+[Variation "Reshevsky variation"]
+[HashCode "304f715c"]
+[Epoch "Rook"]
+[WhiteID "4100069"]
+[WhiteCountry "RUS"]
+[BlackCountry "RUS"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Ne2 d5 6. cxd5 exd5 7. a3 Bd6 8. g3
+c6 9. Bg2 Re8 10. O-O a5 11. f3 c5 12. b3 Nc6 13. Nb5 Bf8 14. Rf2 b6 15. Bf1
+Ne7 16. g4 Ng6 17. Ng3 h6 18. Bd3 Nh4 19. Qf1 1/2-1/2

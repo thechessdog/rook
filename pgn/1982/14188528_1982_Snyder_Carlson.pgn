@@ -1,0 +1,18 @@
+[Event "corr FNPCC"]
+[Site "corr FNPCC"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Snyder"]
+[Black "Carlson, Curtis"]
+[Result "1-0"]
+[ECO "B75"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack"]
+[HashCode "14188528"]
+[Epoch "Rook"]
+[BlackID "2002868"]
+[BlackCountry "USA"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 Nc6 8. Qd2
+O-O 9. g4 d5 10. g5 Nh5 11. exd5 Nb4 12. Bc4 e6 13. dxe6 Bxd4 14. exf7+ Rxf7
+15. O-O-O Bxe3 16. Qxe3 Qf8 17. Bxf7+ Kxf7 1-0

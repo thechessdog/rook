@@ -1,0 +1,17 @@
+[Event "corr FRG/C"]
+[Site "corr FRG/C"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Hoesslin, H."]
+[Black "Behle, B."]
+[Result "1-0"]
+[ECO "B28"]
+[Opening "Sicilian"]
+[Variation "O'Kelly variation"]
+[HashCode "f6193730"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 a6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Nb3 Bb4 7. Bg5 h6 8.
+Bxf6 Bxc3+ 9. bxc3 Qxf6 10. Be2 d6 11. O-O g5 12. Na5 Qd8 13. Nc4 Ke7 14.
+Rb1 b5 15. Ne3 Be6 16. c4 bxc4 17. Rb7+ Kf6 18. Bxc4 Nc6 19. Qf3+ 1-0
+

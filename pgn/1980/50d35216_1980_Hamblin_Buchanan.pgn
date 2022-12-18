@@ -1,0 +1,17 @@
+[Event "Pueblo"]
+[Site "Pueblo"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Hamblin, J."]
+[Black "Buchanan, Richard W"]
+[Result "0-1"]
+[ECO "C38"]
+[Opening "KGA"]
+[Variation "Hanstein gambit"]
+[HashCode "50d35216"]
+[Epoch "Rook"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. Bc4 Bg7 5. O-O g4 6. Ne1 Bd4+ 7. Kh1 d5 8.
+exd5 Qh4 9. Rxf4 Bc5 10. d4 Bd6 11. Re4+ Kd8 12. Bf4 Nf6 13. Re5 Bxe5 14. dxe5
+Ne4 15. Qc1 g3 16. Nf3 Nf2+ 17. Kg1 gxh2+ 18. Nxh2 Rg8 19. Kf1 Ng4 20. Nxg4
+Rxg4 21. Be3 Qh1+ 0-1

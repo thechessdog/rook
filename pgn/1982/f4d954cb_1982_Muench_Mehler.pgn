@@ -1,0 +1,17 @@
+[Event "Bayern-chB"]
+[Site "Tirschenreuth"]
+[Date "1982.??.??"]
+[Round "?"]
+[White "Muench, Klaus Norbert"]
+[Black "Mehler, Gerhard"]
+[Result "1/2-1/2"]
+[ECO "E42"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5, 5.Ne2 (Rubinstein)"]
+[HashCode "f4d954cb"]
+[Epoch "Rook"]
+[BlackID "4604857"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Ne2 cxd4 6. exd4 d5 7. a3 Be7 8. c5
+b6 9. cxb6 axb6 10. Nf4 O-O 11. Bb5 Bd7 12. O-O 1/2-1/2

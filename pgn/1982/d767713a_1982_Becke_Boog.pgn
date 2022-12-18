@@ -1,0 +1,22 @@
+[Event "BL2-N 8182"]
+[Site "BL2-N 8182"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Becke, W."]
+[Black "Boog, Frithjof, Dr."]
+[Result "0-1"]
+[ECO "C00"]
+[Opening "French"]
+[Variation "Chigorin variation"]
+[HashCode "d767713a"]
+[Epoch "Rook"]
+[BlackID "4622383"]
+[BlackCountry "GER"]
+
+1. e4 e6 2. Qe2 c5 3. Nc3 Nc6 4. Nf3 Nge7 5. d3 d5 6. g3 d4 7. Nd1 e5 8. Bg2 f6
+9. O-O Bg4 10. h3 Be6 11. a3 Qd7 12. Kh2 g5 13. Nd2 Ng6 14. Nc4 h5 15. Bd2 h4
+16. g4 b5 17. Na5 Nxa5 18. Bxa5 Nf4 19. Qf3 Bd6 20. Bd2 Rc8 21. b3 c4 22. dxc4
+bxc4 23. Bxf4 exf4 24. Kh1 Be5 25. Rb1 O-O 26. Nb2 cxb3 27. cxb3 Rc3 28. Nd3
+Qb5 29. Rfd1 Bxb3 30. Rd2 Qa5 31. Nxe5 Rxf3 32. Nxf3 Bf7 33. Rxd4 Rd8 34. Rxd8+
+Qxd8 35. e5 fxe5 36. Nxe5 Bd5 37. Nf3 Qa8 38. Ne1 Bxg2+ 39. Nxg2 Qf3 40. Kh2
+Qxf2 0-1

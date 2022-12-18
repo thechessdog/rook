@@ -1,0 +1,21 @@
+[Event "Buenos Aires"]
+[Site "Buenos Aires"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Marcussi"]
+[Black "Panno, Oscar"]
+[Result "0-1"]
+[ECO "C65"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence"]
+[HashCode "bde22ddc"]
+[Epoch "Rook"]
+[BlackID "100153"]
+[BlackCountry "ARG"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. Qe2 Be7 5. c3 d6 6. h3 Bd7 7. d4 a6 8. Ba4
+O-O 9. O-O exd4 10. Rd1 Qe8 11. Bc2 dxc3 12. Nxc3 Kh8 13. a3 Bd8 14. Bg5 Ne5
+15. Nd4 Ng6 16. f4 Ng8 17. Bxd8 Rxd8 18. Qf3 N6e7 19. Re1 c5 20. Nd5 Bc6 21.
+Nf5 Nxf5 22. exf5 Bxd5 23. Qxd5 Qb5 24. Rab1 Nf6 25. Qf3 Rfe8 26. Rxe8+ Rxe8
+27. Bd3 c4 28. Bc2 Qc5+ 29. Kh2 d5 30. Rd1 Re3 31. Qf1 d4 32. Bb1 b5 33. Re1
+Qe7 0-1

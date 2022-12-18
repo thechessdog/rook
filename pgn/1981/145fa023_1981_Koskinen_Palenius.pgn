@@ -1,0 +1,23 @@
+[Event "corr NS/ME"]
+[Site "corr NS/ME"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Koskinen, Veikko"]
+[Black "Palenius, Jarmo"]
+[Result "0-1"]
+[ECO "B10"]
+[Opening "Caro-Kann"]
+[Variation "closed (Breyer) variation"]
+[HashCode "145fa023"]
+[Epoch "Rook"]
+[WhiteID "503380"]
+[BlackID "514276"]
+[WhiteCountry "FIN"]
+[BlackCountry "FIN"]
+
+1. e4 c6 2. d3 d5 3. Nd2 g6 4. g3 Bg7 5. Bg2 e5 6. Ngf3 Ne7 7. O-O O-O 8. b4 a5
+9. bxa5 Qxa5 10. Bb2 Nd7 11. Qe2 Qc7 12. a4 Re8 13. h4 Nc5 14. a5 Bg4 15. Bc3
+h6 16. Rfb1 Nc8 17. Qe1 Nd6 18. Nh2 Bc8 19. Nb3 Nxb3 20. cxb3 d4 21. Bd2 Nb5
+22. Rc1 Be6 23. b4 Qd7 24. f4 exf4 25. gxf4 Nc3 26. Rc2 c5 27. bxc5 Qb5 28. Bf1
+Qxc5 29. Rb2 Bc8 30. Qg3 Rxa5 31. Re1 Kh7 32. Nf3 Ra2 33. Rxa2 Nxa2 34. Kh2 b5
+35. Ra1 Qc2 0-1

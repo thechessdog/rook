@@ -1,0 +1,19 @@
+[Event "corr CCCA"]
+[Site "corr CCCA"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Bjel, Norbert"]
+[Black "Sarosy, Zoltan"]
+[Result "1-0"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Uhlmann variation"]
+[HashCode "ca6dc6a7"]
+[Epoch "Rook"]
+[BlackCountry "CAN"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. Bg5 h6 8. Bh4
+g5 9. Bg3 Nh5 10. Qa4+ Qd7 11. Nb5 Kd8 12. e4 Nxg3 13. fxg3 Na6 14. Be2 Bg7 15.
+Qb3 Re8 16. Nd2 Nc7 17. O-O Re7 18. Nxd6 Qxd6 19. Nc4 Bd4+ 20. Kh1 Qg6 21. d6
+Rd7 22. dxc7+ Rxc7 23. e5 g4 24. Nd6 Be6 25. Bc4 Qg7 26. Bxe6 fxe6 27. Qxe6 Re7
+28. Qd5 1-0

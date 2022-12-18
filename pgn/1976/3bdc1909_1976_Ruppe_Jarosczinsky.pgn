@@ -1,0 +1,18 @@
+[Event "corr DDR/M"]
+[Site "corr DDR/M"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Ruppe, O."]
+[Black "Jarosczinsky, E."]
+[Result "1/2-1/2"]
+[ECO "C10"]
+[Opening "French"]
+[Variation "Rubinstein variation"]
+[HashCode "3bdc1909"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Nxf6+ Nxf6 7. Bd3
+Be7 8. O-O O-O 9. Ne5 c5 10. dxc5 Bxc5 11. Bg5 Be7 12. Qe2 Nd5 13. Bxe7
+Qxe7 14. Rad1 b6 15. c4 Nf6 16. Rd2 Bb7 17. Rfd1 Rfd8 18. h3 g6 19. b3 Rd6
+20. Bc2 1/2-1/2
+

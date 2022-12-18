@@ -1,0 +1,17 @@
+[Event "corr LADAC th"]
+[Site "corr LADAC th"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Keffler, P."]
+[Black "Etienne, J."]
+[Result "1-0"]
+[ECO "C40"]
+[Opening "Latvian gambit, 3.Bc4"]
+[HashCode "29c757eb"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 f5 3. Bc4 fxe4 4. Nxe5 Qg5 5. d4 Qxg2 6. Qh5+ g6 7. Bf7+
+Kd8 8. Bxg6 Qxh1+ 9. Ke2 c6 10. Nc3 Nf6 11. Qg5 Ke7 12. Bf4 Qxa1 13. Nxe4
+Bg7 14. Ng4 Rf8 15. Qe5+ Kd8 16. Qc7+ Ke7 17. Bd6+ Ke6 18. Ng5+ Kd5 19.
+Ne3+ Kxd4 20. c3# 1-0
+

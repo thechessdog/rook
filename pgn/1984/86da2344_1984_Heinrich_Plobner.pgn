@@ -1,0 +1,19 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Heinrich"]
+[Black "Plobner"]
+[Result "1-0"]
+[ECO "C36"]
+[Opening "KGA"]
+[Variation "Abbazia defence, Botvinnik variation"]
+[HashCode "86da2344"]
+[Epoch "Rook"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 d5 4. exd5 Nf6 5. Bb5+ c6 6. dxc6 bxc6 7. Bc4
+Nd5 8. O-O Bd6 9. c3 O-O 10. d4 Ne3 11. Bxe3 fxe3 12. Qb3 Qe7 13. Re1 Bg4
+14. Nbd2 Nd7 15. Nf1 Bf4 16. Be2 Rab8 17. Qc2 c5 18. g3 Bh6 19. Ne5 Nxe5
+20. dxe5 Bh3 21. Bd3 g6 22. Nxe3 Bg7 23. Nd5 Qd8 24. Nf4 Bg4 25. Bc4 Rb7
+26. Re3 Re8 27. Rae1 Rbe7 28. e6 fxe6 29. h3 1-0
+

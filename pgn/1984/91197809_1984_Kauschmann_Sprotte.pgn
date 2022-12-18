@@ -1,0 +1,20 @@
+[Event "BL2-N 8384"]
+[Site "BL2-N 8384"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Kauschmann, Herbert"]
+[Black "Sprotte, Norbert"]
+[Result "1/2-1/2"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Paulsen attack"]
+[HashCode "91197809"]
+[Epoch "Rook"]
+[WhiteID "4606523"]
+[WhiteCountry "GER"]
+[BlackID "4607015"]
+[BlackCountry "GER"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. a3 c4 7. Nbd2 Bd7 8. Be2 Na5
+9. O-O Ne7 10. Rb1 Qc7 11. Re1 h6 12. Nf1 O-O-O 13. Be3 Kb8 14. N3d2 Nc8 15.
+Qc1 Ba4 16. Bd1 Bxd1 1/2-1/2

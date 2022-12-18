@@ -1,0 +1,16 @@
+[Event "corr NAICCC II"]
+[Site "corr NAICCC II"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Callaghan, Richard"]
+[Black "Neff, Bert"]
+[Result "0-1"]
+[ECO "C69"]
+[Opening "Ruy Lopez"]
+[Variation "exchange, Gligoric variation"]
+[HashCode "ad2fac19"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O f6 6. d4 exd4 7. Nxd4 c5
+8. Nb3 Qxd1 9. Rxd1 Bd6 10. Na5 b5 11. c4 Ne7 12. Be3 Kf7 0-1
+

@@ -1,0 +1,18 @@
+[Event "Michigan"]
+[Site "Michigan"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Cleve, V."]
+[Black "Riopelle"]
+[Result "1-0"]
+[ECO "B98"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7...Be7"]
+[HashCode "4a35192b"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8.
+Qf3 Nbd7 9. O-O-O h6 10. Bh4 g5 11. fxg5 Ne5 12. gxf6 Nxf3 13. fxe7 Qb6 14.
+gxf3 e5 15. Ndb5 axb5 16. Nxb5 Ra6 17. Nxd6+ Qxd6 18. Bxa6 Qxa6 19. Rd8#
+1-0
+

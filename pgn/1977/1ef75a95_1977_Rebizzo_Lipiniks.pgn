@@ -1,0 +1,16 @@
+[Event "Buenos Aires ch-ARG"]
+[Site "Buenos Aires ch-ARG"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Rebizzo, Cayetano"]
+[Black "Lipiniks, L."]
+[Result "0-1"]
+[ECO "E72"]
+[Opening "King's Indian with e4 & g3"]
+[HashCode "1ef75a95"]
+[Epoch "Rook"]
+[WhiteCountry "ARG"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. g3 O-O 6. Bg2 Nc6 7. d5 Na5 8. Qd3 c5
+9. Nge2 a6 10. O-O Bd7 11. h3 b5 12. cxb5 axb5 13. Rb1 b4 14. Nd1 Qb6 15. Be3
+Bb5 16. Qc2 Qa6 17. Re1 Bd3 0-1

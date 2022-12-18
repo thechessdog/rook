@@ -1,0 +1,23 @@
+[Event "Athens tt"]
+[Site "Athens"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Gheorghiu, Florin"]
+[Black "Soylu, Suat"]
+[Result "1-0"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "classical variation (5.Bf4)"]
+[HashCode "4f07ebc0"]
+[Epoch "Rook"]
+[WhiteID "1200011"]
+[WhiteCountry "ROU"]
+[BlackID "6300065"]
+[BlackCountry "TUR"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. Bf4 O-O 6. e3 c5 7. dxc5 Nc6 8. cxd5
+exd5 9. Be2 Bxc5 10. O-O Be6 11. Rc1 Bb6 12. Qa4 Bd7 13. Rfd1 Nd4 14. Qb4 a5
+15. Qa3 Nxe2+ 16. Nxe2 Bg4 17. Ned4 Rc8 18. h3 Bh5 19. Nf5 Rxc1 20. Rxc1 Kh8
+21. Ne7 Qa8 22. Qd6 Bxf3 23. Qxb6 Be2 24. Rc7 h6 25. Be5 Qa6 26. Rxb7 Qxb6 27.
+Rxb6 Ng8 28. Nxd5 Bc4 29. Nc3 Ra8 30. Bd4 Kh7 31. b3 Be6 32. Rb7 f6 33. f4 Bc8
+34. Rc7 1-0

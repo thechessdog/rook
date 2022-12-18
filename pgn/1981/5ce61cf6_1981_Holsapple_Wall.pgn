@@ -1,0 +1,19 @@
+[Event "Dayton,OH"]
+[Site "Dayton,OH"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Holsapple, Boyd"]
+[Black "Wall, Bill"]
+[Result "0-1"]
+[ECO "C12"]
+[Opening "French"]
+[Variation "MacCutcheon, Chigorin variation"]
+[HashCode "5ce61cf6"]
+[Epoch "Rook"]
+[BlackCountry "USA"]
+[WhiteCountry "USA"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Bb4 5. e5 h6 6. exf6 hxg5 7. fxg7 Rg8 8.
+Nf3 Rxg7 9. Qd3 c5 10. O-O-O c4 11. Qe3 Qa5 12. Kb1 Bxc3 13. Qxc3 Qxc3 14. bxc3
+Nc6 15. Be2 f5 16. Rdg1 b5 17. a3 b4 18. cxb4 a5 19. c3 axb4 20. axb4 Rga7 21.
+Nd2 Ra1+ 22. Kc2 R8a2# 0-1

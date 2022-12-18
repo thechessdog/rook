@@ -1,0 +1,17 @@
+[Event "South Africa"]
+[Site "South Africa"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Harris"]
+[Black "Klerk, D."]
+[Result "1-0"]
+[ECO "B23"]
+[Opening "Sicilian"]
+[Variation "closed, Korchnoi variation"]
+[HashCode "e0d1d856"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nc3 e6 3. g3 d5 4. exd5 exd5 5. d4 Nf6 6. Bg5 cxd4 7. Bxf6 Qxf6
+8. Nxd5 Qd6 9. Qxd4 Nc6 10. Qe3+ Be6 11. O-O-O Qd8 12. Bh3 Qc8 13. Qf4 Bxh3
+14. Nc7+ Ke7 15. Qd6# 1-0
+

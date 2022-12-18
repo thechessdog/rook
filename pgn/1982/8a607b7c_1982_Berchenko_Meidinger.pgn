@@ -1,0 +1,18 @@
+[Event "Cincinnati"]
+[Site "Cincinnati"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Berchenko, Sergey"]
+[Black "Meidinger, C."]
+[Result "1-0"]
+[ECO "B87"]
+[Opening "Sicilian"]
+[Variation "Sozin with ...a6 and ...b5"]
+[HashCode "8a607b7c"]
+[Epoch "Rook"]
+[WhiteID "2036940"]
+[WhiteCountry "USA"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 b5 8. O-O
+Be7 9. f4 O-O 10. e5 dxe5 11. fxe5 Nfd7 12. Qh5 Nc6 13. Nf3 Ndxe5 14. Be3 Nxf3+
+15. Rxf3 g6 16. Qh6 e5 17. Rxf7 Rxf7 18. Rf1 Bf8 19. Rxf7 Bxh6 20. Bxh6 1-0

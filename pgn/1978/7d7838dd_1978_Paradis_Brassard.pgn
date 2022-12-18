@@ -1,0 +1,19 @@
+[Event "Saguenay"]
+[Site "Saguenay"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Paradis, Sylvain"]
+[Black "Brassard, E."]
+[Result "0-1"]
+[ECO "C78"]
+[Opening "Ruy Lopez"]
+[Variation "...b5 & ...d6"]
+[HashCode "7d7838dd"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 d6 7. c3 Bg4 8.
+h3 Bh5 9. Qe2 Qd7 10. Rd1 Ne7 11. d4 Ng6 12. Bg5 h6 13. Bxf6 Nf4 14. Qe3
+gxf6 15. Kh2 Rg8 16. Nh4 Bxd1 17. Bxd1 h5 18. a4 Bh6 19. g4 hxg4 20. Bxg4
+Qc6 21. d5 Qc4 22. Nd2 Qd3 23. Qe1 Rxg4 24. hxg4 Qh3+ 25. Kg1 Qxg4+ 26. Kf1
+Qxh4 27. f3 Qh1+ 28. Kf2 Nd3+ 29. Ke2 Nxe1 30. Rxe1 Qg2+ 31. Kd3 Qxd2# 0-1
+

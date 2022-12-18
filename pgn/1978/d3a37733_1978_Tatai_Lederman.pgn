@@ -1,0 +1,20 @@
+[Event "Beer Sheva"]
+[Site "Beer Sheva"]
+[Date "1978.02.01"]
+[Round "4"]
+[White "Tatai, Stefano"]
+[Black "Lederman, Leon"]
+[Result "1-0"]
+[ECO "B97"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Poisoned pawn variation"]
+[HashCode "d3a37733"]
+[Epoch "Rook"]
+[BlackID "2800403"]
+[BlackCountry "ISR"]
+[WhiteCountry "ITA"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qb6 8. Qd2
+Qxb2 9. Rb1 Qa3 10. f5 Nc6 11. fxe6 fxe6 12. Nxc6 bxc6 13. e5 Nd7 14. Be2 d5
+15. Rb3 Qa5 16. O-O Qc7 17. Na4 Nxe5 18. c4 Nf7 19. cxd5 cxd5 20. Rc1 Qd6 21.
+Nb6 Nxg5 22. Qxg5 Qc5+ 23. Rxc5 Bxc5+ 24. Kh1 Bxb6 25. Qxg7 1-0

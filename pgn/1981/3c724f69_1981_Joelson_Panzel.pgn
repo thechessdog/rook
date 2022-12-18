@@ -1,0 +1,19 @@
+[Event "Cleveland,OH"]
+[Site "Cleveland,OH"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Joelson, Michael"]
+[Black "Panzel, Kenneth"]
+[Result "1-0"]
+[ECO "C44"]
+[Opening "Scotch"]
+[Variation "Goering gambit"]
+[HashCode "3c724f69"]
+[Epoch "Rook"]
+[WhiteID "2043564"]
+[WhiteCountry "USA"]
+[BlackCountry "HUN"]
+
+1. e4 e5 2. d4 exd4 3. Nf3 Bb4+ 4. c3 dxc3 5. Nxc3 Nc6 6. Bc4 Nge7 7. O-O Bxc3
+8. bxc3 d6 9. Ba3 O-O 10. e5 d5 11. Bd3 f5 12. Re1 Be6 13. Ng5 Qd7 14. g4 Rae8
+15. c4 dxc4 16. Bxc4 Bd5 17. e6 1-0

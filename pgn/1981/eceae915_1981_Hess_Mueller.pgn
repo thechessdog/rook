@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Hess"]
+[Black "Mueller"]
+[Result "1-0"]
+[ECO "B87"]
+[Opening "Sicilian"]
+[Variation "Sozin with ...a6 and ...b5"]
+[HashCode "eceae915"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 b5 8.
+O-O Be7 9. Qe2 O-O 10. Rd1 b4 11. Na4 Bd7 12. e5 Ne8 13. exd6 Bxd6 14. Qf3
+Ra7 15. Be3 Qc7 16. h3 Rb7 17. Rac1 Nc6 18. c3 Ne5 19. Qe2 Qa5 20. cxb4
+Bxb4 21. Nc3 Ng6 22. Bc4 Nf6 23. Nb3 Qe5 24. Bxa6 Rc7 25. Bd4 Qf4 26. Bxf6
+gxf6 27. Rd4 Qg5 28. Rxb4 1-0
+

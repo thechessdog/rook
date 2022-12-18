@@ -1,0 +1,22 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Teuchert, Bernd"]
+[Black "Gruenberg, Rainer"]
+[Result "0-1"]
+[ECO "D93"]
+[Opening "Gruenfeld with Bf4    e3"]
+[HashCode "3870a891"]
+[Epoch "Rook"]
+[BlackID "4601262"]
+[BlackCountry "GER"]
+[WhiteID "4636376"]
+[WhiteCountry "GER"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. Nc3 d5 5. Bf4 O-O 6. e3 c5 7. dxc5 Qa5 8. Rc1
+dxc4 9. Bxc4 Qxc5 10. Qb3 Nc6 11. Bxf7+ Rxf7 12. Ng5 e6 13. Nxf7 Kxf7 14. O-O
+Nd5 15. Nxd5 Qxd5 16. Qa4 a6 17. Rfd1 Qb5 18. Qe4 e5 19. Bg5 h6 20. Bh4 Bf5 21.
+Qf3 Kg8 22. a4 Qxa4 23. Qd5+ Kh7 24. Rc4 Qb5 25. Rc5 Qb6 26. e4 Bxe4 27. Qd6
+Qxb2 28. Qc7 Qe2 29. Rcc1 Qg4 30. Bg3 Nd4 31. f3 Nxf3+ 32. gxf3 Qxf3 33. Bxe5
+Qg2# 0-1

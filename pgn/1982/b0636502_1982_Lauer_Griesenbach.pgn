@@ -1,0 +1,22 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Lauer, F."]
+[Black "Griesenbach, R."]
+[Result "0-1"]
+[ECO "E88"]
+[Opening "King's Indian"]
+[Variation "Saemisch, orthodox, 7.d5 c6"]
+[HashCode "b0636502"]
+[Epoch "Rook"]
+
+1. c4 Nf6 2. Nc3 g6 3. e4 d6 4. d4 Bg7 5. f3 O-O 6. Be3 e5 7. d5 c6 8. Bd3
+cxd5 9. cxd5 Ne8 10. Qd2 f5 11. O-O-O f4 12. Bf2 Bf6 13. Nge2 Nd7 14. g3 g5
+15. Rdg1 Kh8 16. h4 g4 17. Kb1 gxf3 18. Nc1 fxg3 19. Rxg3 Rf7 20. Rhg1 Rg7
+21. h5 Rxg3 22. Rxg3 Nf8 23. Qe3 Qe7 24. Qxf3 h6 25. Be3 Bg5 26. Nd1 Nh7
+27. Nf2 Nef6 28. Rg1 Bd7 29. Nh3 Bxe3 30. Qxe3 Ng4 31. Qf3 Nhf6 32. Be2 Rf8
+33. Qg2 Rg8 34. Bf3 Qf7 35. Qe2 Qxh5 36. Nf2 Qh4 37. Ncd3 Nxf2 38. Rxg8+
+Kxg8 39. Qxf2 Qxf2 40. Nxf2 h5 41. Kc1 Bg4 42. Bg2 Kg7 43. Kd2 Kg6 44. Ke3
+Kg5 45. Bf1 Kh4 46. Bg2 Kg3 47. Bf1 h4 48. Nh1+ Kh2 49. Nf2 Kg1 0-1
+

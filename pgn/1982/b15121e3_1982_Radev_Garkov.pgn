@@ -1,0 +1,19 @@
+[Event "BUL-ch"]
+[Site "Sofia"]
+[Date "1982.??.??"]
+[Round "5"]
+[White "Radev, Nikolai"]
+[Black "Garkov, Mitko"]
+[Result "1/2-1/2"]
+[ECO "A71"]
+[Opening "Benoni"]
+[Variation "classical, 8.Bg5"]
+[HashCode "b15121e3"]
+[Epoch "Rook"]
+[BlackID "2900890"]
+[BlackCountry "FID"]
+[WhiteCountry "BGR"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. e4 Bg7 8. Bg5
+a6 9. Nd2 b5 10. Be2 O-O 11. O-O Re8 12. Qc2 h6 13. Bh4 g5 14. Bg3 b4 15. Na4
+Ra7 16. Rad1 Rae7 17. e5 dxe5 1/2-1/2

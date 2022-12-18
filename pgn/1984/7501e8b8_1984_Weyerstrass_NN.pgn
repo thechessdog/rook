@@ -1,0 +1,16 @@
+[Event "Beverwijk"]
+[Site "Beverwijk"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Weyerstrass, Ronald"]
+[Black "NN"]
+[Result "1-0"]
+[ECO "A15"]
+[Opening "English, 1...Nf6 (Anglo-Indian defense)"]
+[HashCode "7501e8b8"]
+[Epoch "Rook"]
+
+1. c4 Nf6 2. g3 e5 3. Bg2 c6 4. e4 d5 5. exd5 cxd5 6. cxd5 Nxd5 7. Nf3 Bd6 8.
+O-O Nc6 9. d4 e4 10. Re1 f5 11. Ng5 Be7 12. Nc3 Nxc3 13. bxc3 Bxg5 14. Qh5+ g6
+15. Qxg5 Qxg5 16. Bxg5 O-O 17. f3 exf3 18. Bxf3 Kg7 19. d5 h6 20. dxc6 hxg5 21.
+cxb7 1-0

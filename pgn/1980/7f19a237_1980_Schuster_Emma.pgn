@@ -1,0 +1,21 @@
+[Event "Los Polvorines op"]
+[Site "Los Polvorines"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Schuster, Carlos"]
+[Black "Emma, Jaime"]
+[Result "0-1"]
+[ECO "E48"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 O-O, 5.Bd3 d5"]
+[HashCode "7f19a237"]
+[Epoch "Rook"]
+[WhiteID "101214"]
+[WhiteCountry "ARG"]
+[BlackCountry "ARG"]
+
+1. d4 e6 2. c4 Nf6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. cxd5 exd5 7. a3 Bd6 8. Bd2
+c6 9. Nf3 Re8 10. O-O Bg4 11. h3 Bh5 12. Be2 Nbd7 13. b4 a6 14. Ne1 Bxe2 15.
+Qxe2 Nf8 16. Nd3 Ne6 17. Ne5 Nd7 18. Nxd7 Qxd7 19. Qg4 Rf8 20. f4 f5 21. Qh5
+Rae8 22. Na4 g6 23. Qh4 b5 24. Nb2 Qg7 25. Rac1 Bxf4 26. Qf2 Bb8 27. Rxc6 Ng5
+28. Rfc1 Ne4 29. Qe2 f4 30. Be1 fxe3 31. Qd3 Qf7 32. Qxe3 Qf1# 0-1

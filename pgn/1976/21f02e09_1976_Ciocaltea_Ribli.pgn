@@ -1,0 +1,23 @@
+[Event "Montana"]
+[Site "Montana"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Ciocaltea, Victor"]
+[Black "Ribli, Zoltan"]
+[Result "1-0"]
+[ECO "B93"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.f4"]
+[HashCode "21f02e09"]
+[Epoch "Rook"]
+[WhiteCountry "ROU"]
+[BlackID "700010"]
+[BlackCountry "HUN"]
+
+1. e4 c5 2. Nf3 d6 3. d4 Nf6 4. Nc3 cxd4 5. Nxd4 a6 6. f4 Qc7 7. a4 Nc6 8. Nxc6
+bxc6 9. a5 e6 10. Bd3 Be7 11. O-O O-O 12. Kh1 Bb7 13. Qe2 d5 14. e5 Nd7 15. Na4
+Qxa5 16. f5 exf5 17. Bxf5 Bc8 18. Be3 Qb5 19. Qg4 Nxe5 20. Bxh7+ Kxh7 21. Qh5+
+Kg8 22. Qxe5 Re8 23. Nb6 f6 24. Qg3 Be6 25. Nxa8 Rxa8 26. Bh6 Bf8 27. Rxf6 Bf7
+28. Raf1 Ra7 29. Bc1 d4 30. R6f2 Rb7 31. h4 Qd5 32. Rf5 Qe4 33. h5 Qxc2 34. h6
+d3 35. hxg7 Bxg7 36. Bh6 Bd5 37. Bxg7 Qxg2+ 38. Qxg2 Bxg2+ 39. Kxg2 Kxg7 40.
+Rg5+ Kh6 41. Rg4 1-0

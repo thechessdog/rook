@@ -1,0 +1,19 @@
+[Event "Kecskemet"]
+[Site "Kecskemet"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Eslon, Jaan"]
+[Black "Szekely, Peter"]
+[Result "1/2-1/2"]
+[ECO "E12"]
+[Opening "Queen's Indian"]
+[Variation "4.Nc3"]
+[HashCode "f14129bf"]
+[Epoch "Rook"]
+[BlackID "14937492"]
+[BlackCountry "SVK"]
+[WhiteCountry "SWE"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. Nc3 Bb4 5. Bg5 Bb7 6. Rc1 h6 7. Bxf6 Qxf6 8. e3
+O-O 9. Bd3 d6 10. O-O Bxc3 11. Rxc3 c5 12. Bb1 Bxf3 13. gxf3 cxd4 14. Qxd4 Qxd4
+15. exd4 1/2-1/2

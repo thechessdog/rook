@@ -1,0 +1,23 @@
+[Event "New York Kavkasian"]
+[Site "New York"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Lein, Anatoly"]
+[Black "Burger, Karl"]
+[Result "1-0"]
+[ECO "B91"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Zagreb (fianchetto) variation"]
+[HashCode "ffe98422"]
+[Epoch "Rook"]
+[WhiteID "2000270"]
+[WhiteCountry "USA"]
+[BlackCountry "USA"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. g3 Nc6 7. Bg2 Bd7 8. Bg5
+e6 9. Nxc6 Bxc6 10. Qd2 Be7 11. O-O-O Qa5 12. Kb1 Rd8 13. Rhe1 h6 14. Nd5 Qxd2
+15. Nxf6+ Bxf6 16. Bxd2 Rd7 17. Bb4 Be7 18. Rd2 Kd8 19. Red1 Kc7 20. f4 Rhd8
+21. c4 b6 22. b3 g5 23. Kc2 Rg8 24. e5 Bxg2 25. Rxg2 gxf4 26. Rgd2 d5 27. Bxe7
+Rxe7 28. cxd5 exd5 29. gxf4 Rg4 30. Rf2 Rd7 31. Kd3 Kc6 32. Rc1+ Kb5 33. Kd4 a5
+34. a3 Rh4 35. Rc3 Ka6 36. h3 Kb5 37. Rff3 Rh5 38. Rc8 Rf5 39. a4+ Ka6 40. Rc6
+Kb7 41. Rxh6 Rd8 1-0

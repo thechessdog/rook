@@ -1,0 +1,19 @@
+[Event "corr ch-DDR"]
+[Site "corr ch-DDR"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Gneusz, W."]
+[Black "Starke"]
+[Result "0-1"]
+[ECO "E74"]
+[Opening "King's Indian"]
+[Variation "Averbakh, 6...c5"]
+[HashCode "2d672042"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Be2 O-O 6. Bg5 c5 7. d5 h6 8. Be3
+e6 9. Qd2 exd5 10. exd5 Kh7 11. h3 Na6 12. Nf3 Nc7 13. Bd3 a6 14. g4 b5 15.
+g5 Ng8 16. gxh6 Nxh6 17. cxb5 Nf5 18. Ng5+ Kg8 19. Nge4 axb5 20. Bxb5 Nxb5
+21. Nxb5 Ba6 22. Nbc3 Nd4 23. O-O-O Bc4 24. Kb1 Qa5 25. a3 Rfb8 26. Bxd4
+cxd4 27. Nxd6 dxc3 0-1
+

@@ -1,0 +1,23 @@
+[Event "corr ch-SU"]
+[Site "corr ch-SU"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Cemenjoek"]
+[Black "Oemanski"]
+[Result "1-0"]
+[ECO "E19"]
+[Opening "Queen's Indian"]
+[Variation "old main line, 9.Qxc3"]
+[HashCode "27c99da6"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2 Be7 6. O-O O-O 7. Nc3 Ne4 8.
+Qc2 Nxc3 9. Qxc3 c5 10. Rd1 d6 11. Bf4 Nd7 12. dxc5 Nxc5 13. b4 Ne4 14. Qd3
+Rc8 15. Nd2 d5 16. Nxe4 dxe4 17. Qa3 Qe8 18. Qxa7 Ba8 19. a3 Rxc4 20. Qxb6
+Bf6 21. Rac1 Qa4 22. Qa5 Qb3 23. Rb1 Qa2 24. b5 Bc3 25. Qa6 Bd4 26. b6 Qxe2
+27. Kh1 Bd5 28. b7 g5 29. Re1 Qxf2 30. Rf1 gxf4 31. Rxf2 Bxf2 32. b8=Q Rxb8
+33. Rxb8+ Kg7 34. Qxc4 Bxc4 35. Bxe4 f5 36. Rc8 Be2 37. Kg2 fxg3 38. hxg3
+Bd4 39. Bf3 Bd3 40. a4 e5 41. Bd5 Kf6 42. Rc7 h5 43. a5 Kg5 44. Rg7+ Kf6
+45. Rd7 Kg5 46. Bb7 Be2 47. a6 Be3 48. Rd8 f4 49. Rg8+ Kf5 50. Rf8+ Kg4 51.
+gxf4 e4 52. Bxe4 1-0
+

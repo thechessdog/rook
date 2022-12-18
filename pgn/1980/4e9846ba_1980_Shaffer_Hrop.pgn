@@ -1,0 +1,25 @@
+[Event "Ohio Congress"]
+[Site "Ohio Congress"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Shaffer, Joseph"]
+[Black "Hrop, Steve"]
+[Result "1-0"]
+[ECO "E38"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, 4...c5"]
+[HashCode "4e9846ba"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 c5 5. dxc5 Bxc5 6. Nf3 O-O 7. Bg5 Nc6
+8. e3 h6 9. Bxf6 Qxf6 10. a3 Ne5 11. Be2 Qg6 12. O-O-O Qxc2+ 13. Kxc2 Ng4
+14. Rhf1 Be7 15. Nd4 Nf6 16. Bf3 d6 17. Rd2 a6 18. Rfd1 Rb8 19. Nb3 b6 20.
+Nd4 Bd7 21. b4 Rfc8 22. Kb3 Rc7 23. b5 a5 24. Nc6 Bxc6 25. bxc6 Ne8 26. Nb5
+Rcc8 27. Ka2 Kf8 28. Rb1 Kg8 29. Na7 Rc7 30. c5 dxc5 31. Nb5 Rcc8 32. Rd7
+Bd8 33. Na7 Rc7 34. Rbd1 Rxd7 35. cxd7 Nc7 36. Nc6 Ra8 37. Ne7+ Bxe7 38.
+Bxa8 Bd8 39. Bc6 Kf8 40. Rb1 Na6 41. Kb3 Nb8 42. Bb5 Ke7 43. Rd1 Bc7 44.
+Kc4 Bd8 45. e4 e5 46. Rd3 f6 47. h4 Ke6 48. h5 Ke7 49. Rg3 Kf8 50. a4 Kf7
+51. Kd5 Be7 52. Rg4 Kg8 53. Ke6 Bd8 54. Rg3 Kf8 55. Rd3 Kg8 56. Kd6 Kh7 57.
+Bc4 Kh8 58. Rg3 Kh7 59. Rg6 Kh8 60. g3 Kh7 61. f4 exf4 62. gxf4 Kh8 63. e5
+1-0
+

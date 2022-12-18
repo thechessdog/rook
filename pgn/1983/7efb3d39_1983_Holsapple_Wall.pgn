@@ -1,0 +1,19 @@
+[Event "Dayton,OH"]
+[Site "Dayton,OH"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Holsapple, Boyd"]
+[Black "Wall, Bill"]
+[Result "0-1"]
+[ECO "B43"]
+[Opening "Sicilian"]
+[Variation "Kan, 5.Nc3"]
+[HashCode "7efb3d39"]
+[Epoch "Rook"]
+[BlackCountry "USA"]
+[WhiteCountry "USA"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 d6 6. Be3 Qc7 7. Be2 b5 8. a3
+Bb7 9. O-O Nd7 10. Qd2 Rc8 11. Rad1 Be7 12. f4 Nc5 13. Bxb5+ axb5 14. Ndxb5 Qb8
+15. Nxd6+ Bxd6 16. Qxd6 Qxd6 17. Rxd6 Nxe4 18. Rfd1 Nxd6 19. Rxd6 Nf6 20. Bb6
+O-O 21. Ne2 Rxc2 0-1

@@ -1,0 +1,19 @@
+[Event "Varna"]
+[Site "Varna"]
+[Date "1982.??.??"]
+[Round "3"]
+[White "Grigorov, Jordan N"]
+[Black "Donchev, Dimitar I."]
+[Result "1/2-1/2"]
+[ECO "E12"]
+[Opening "Queen's Indian"]
+[Variation "4.Nc3"]
+[HashCode "cdc3cec6"]
+[Epoch "Rook"]
+[BlackID "2900025"]
+[WhiteCountry "BGR"]
+[BlackCountry "FID"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. Nc3 Bb7 5. e3 Be7 6. Bd3 c5 7. O-O cxd4 8. exd4
+d5 9. Bg5 O-O 10. Qe2 Nc6 11. Bxf6 Bxf6 12. cxd5 exd5 13. Rad1 Re8 14. Qd2 Qd6
+15. Bb5 1/2-1/2

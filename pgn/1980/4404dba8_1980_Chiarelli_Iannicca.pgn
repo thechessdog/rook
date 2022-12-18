@@ -1,0 +1,17 @@
+[Event "Ohio Congress"]
+[Site "Ohio Congress"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Chiarelli, Joseph"]
+[Black "Iannicca"]
+[Result "1-0"]
+[ECO "B45"]
+[Opening "Sicilian"]
+[Variation "Taimanov variation"]
+[HashCode "4404dba8"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 Bb4 6. Be2 Nf6 7. O-O Bxc3
+8. bxc3 Nxe4 9. Bd3 Nxc3 10. Qg4 g6 11. Bb2 Ne5 12. Qg3 Nxd3 13. Bxc3 Nc5
+14. Qe5 O-O 15. Qg7+ Kxg7 16. Nf5+ Kg8 17. Nh6# 1-0
+

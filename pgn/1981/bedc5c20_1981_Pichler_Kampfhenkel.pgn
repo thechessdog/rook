@@ -1,0 +1,18 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Pichler, M."]
+[Black "Kampfhenkel, U."]
+[Result "1-0"]
+[ECO "C72"]
+[Opening "Ruy Lopez"]
+[Variation "modern Steinitz defence, 5.O-O"]
+[HashCode "bedc5c20"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. O-O Bg4 6. h3 h5 7. c4 Qf6 8.
+Qb3 O-O-O 9. Bxc6 bxc6 10. Nh2 Bd7 11. Qe3 Kb7 12. Nf3 Ne7 13. d4 exd4 14.
+Nxd4 g6 15. Bd2 Qg7 16. b4 Nc8 17. b5 axb5 18. cxb5 cxb5 19. Nc3 c6 20.
+Rab1 Na7 21. a4 b4 22. Rxb4+ Ka8 23. Ne6 Bxe6 24. Qb6 f6 25. Rfb1 1-0
+

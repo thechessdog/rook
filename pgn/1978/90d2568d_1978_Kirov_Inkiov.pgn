@@ -1,0 +1,18 @@
+[Event "Makarczyk mem"]
+[Site "Makarczyk op"]
+[Date "1978.01.01"]
+[Round "6"]
+[White "Kirov, Nino"]
+[Black "Inkiov, Ventzislav"]
+[Result "1/2-1/2"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "classical variation"]
+[HashCode "90d2568d"]
+[Epoch "Rook"]
+[BlackID "2900033"]
+[BlackCountry "FID"]
+[WhiteCountry "BGR"]
+
+1. b3 d5 2. f4 Nf6 3. Bb2 g6 4. Nf3 Bg7 5. e3 Bg4 6. Bb5+ Nbd7 7. h3 Bxf3 8.
+Qxf3 a6 9. Bxd7+ Qxd7 10. O-O O-O 11. d3 c6 12. Nd2 Ne8 13. Bxg7 Kxg7 1/2-1/2

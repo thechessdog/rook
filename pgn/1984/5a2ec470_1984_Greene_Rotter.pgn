@@ -1,0 +1,18 @@
+[Event "corr ch-USA"]
+[Site "corr ch-USA"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Greene"]
+[Black "Rotter"]
+[Result "1/2-1/2"]
+[ECO "E41"]
+[Opening "Nimzo-Indian"]
+[Variation "e3, Huebner variation"]
+[HashCode "5a2ec470"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 Nc6 6. Nf3 Bxc3+ 7. bxc3 d6
+8. O-O e5 9. Nd2 O-O 10. Nb3 b6 11. f4 exf4 12. Rxf4 Ne7 13. e4 Bb7 14. e5
+dxe5 15. dxe5 Ng6 16. exf6 Nxf4 17. fxg7 Nh3+ 18. gxh3 Re8 19. Bxh7+ Kxg7
+20. Qg4+ Kxh7 21. Qh5+ Kg8 22. Qg4+ 1/2-1/2
+

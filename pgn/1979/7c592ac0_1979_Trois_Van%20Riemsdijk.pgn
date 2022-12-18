@@ -1,0 +1,19 @@
+[Event "FIDE (31) 1979-1981"]
+[Site "Riga izt"]
+[Date "1979.09.01"]
+[Round "9"]
+[White "Trois, Francisco R.T."]
+[Black "Van Riemsdijk, Herman C"]
+[Result "1/2-1/2"]
+[ECO "B19"]
+[Opening "Caro-Kann"]
+[Variation "classical, Spassky variation"]
+[HashCode "7c592ac0"]
+[Epoch "Rook"]
+[WhiteID "2100096"]
+[WhiteCountry "BRA"]
+[BlackCountry "BRA"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. Nf3 Nd7 7. h4 h6 8. h5
+Bh7 9. Bd3 Bxd3 10. Qxd3 e6 11. Bd2 Qc7 12. O-O-O Ngf6 13. Kb1 O-O-O 14. Qe2
+Bd6 15. Ne4 Bf4 16. Nxf6 1/2-1/2

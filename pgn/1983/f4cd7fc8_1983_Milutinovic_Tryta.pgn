@@ -1,0 +1,18 @@
+[Event "corr Yugoslavia"]
+[Site "corr Yugoslavia"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Milutinovic"]
+[Black "Tryta"]
+[Result "1/2-1/2"]
+[ECO "C27"]
+[Opening "Vienna"]
+[Variation "Alekhine variation"]
+[HashCode "f4cd7fc8"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Bc4 Nf6 3. Nc3 Nxe4 4. Qh5 Nd6 5. Bb3 Be7 6. Nf3 Nc6 7. Nxe5
+O-O 8. O-O Nd4 9. Nd5 Nxb3 10. axb3 Ne8 11. Qe2 Nf6 12. Nc6 dxc6 13. Nxe7+
+Kh8 14. Nxc8 Qxc8 15. d3 Re8 16. Qf3 Qe6 17. Be3 a6 18. Rfe1 Kg8 19. h3 Nd5
+20. Bd2 Qf6 21. Qxf6 Nxf6 1/2-1/2
+

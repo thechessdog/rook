@@ -1,0 +1,17 @@
+[Event "New York"]
+[Site "New York"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Pompa, Dan"]
+[Black "Mease, Art"]
+[Result "0-1"]
+[ECO "C30"]
+[Opening "KGD"]
+[Variation "classical variation"]
+[HashCode "e8149d34"]
+[Epoch "Rook"]
+
+1. e4 e5 2. f4 Bc5 3. Nf3 d6 4. Bc4 Nf6 5. fxe5 dxe5 6. Nc3 Bg4 7. Bxf7+
+Ke7 8. Bb3 Nc6 9. d3 Nd4 10. Na4 Qd6 11. Nxc5 Qxc5 12. h3 Bxf3 13. gxf3
+Rhf8 14. Bd2 Nh5 15. Rf1 Nxf3+ 16. Rxf3 Qg1+ 17. Ke2 Ng3+ 18. Rxg3 Qf2# 0-1
+

@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Bella"]
+[Black "Montanelli"]
+[Result "1-0"]
+[ECO "B93"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.f4"]
+[HashCode "1faa9b16"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 e5 7. Nb3 Qc7 8.
+Be2 Be6 9. g4 b5 10. a3 h6 11. g5 hxg5 12. fxg5 Nfd7 13. Bg4 Bxg4 14. Qxg4
+Nb6 15. Bd2 Nc6 16. O-O-O Ne7 17. h4 Qc6 18. Na5 Qc7 19. Na2 Rc8 20. Nc3
+Na4 21. Nb3 d5 22. exd5 Nxd5 23. g6 Ndxc3 24. gxf7+ Kxf7 25. Bxc3 Kg8 26.
+Qe6+ Kh7 27. Qf5+ Kg8 28. Bxe5 1-0
+

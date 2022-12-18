@@ -1,0 +1,18 @@
+[Event "Alesund"]
+[Site "Alesund"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Hjertenes, Oystein"]
+[Black "Sandum, Kjell T"]
+[Result "1/2-1/2"]
+[ECO "A41"]
+[Opening "Old Indian"]
+[Variation "Tartakower (Wade) variation"]
+[HashCode "5fc15110"]
+[Epoch "Rook"]
+[WhiteID "1500449"]
+[WhiteCountry "NOR"]
+
+1. Nf3 d6 2. d4 Bg4 3. e3 Nf6 4. Be2 g6 5. O-O Bg7 6. c4 c6 7. Nc3 O-O 8. b3 d5
+9. h3 Bxf3 10. Bxf3 e6 11. cxd5 cxd5 12. Bb2 Nc6 13. Rc1 Rc8 14. Na4 Qe7 15.
+Nc5 Rfd8 16. Qe2 b6 17. Nd3 Qb7 18. Nf4 Bh6 19. Nd3 Bf8 1/2-1/2

@@ -1,0 +1,19 @@
+[Event "Bucharest"]
+[Site "Bucharest"]
+[Date "1978.01.01"]
+[Round "14"]
+[White "Ungureanu, Emil"]
+[Black "Padevsky, Nikola"]
+[Result "1/2-1/2"]
+[ECO "E18"]
+[Opening "Queen's Indian"]
+[Variation "old main line, 7.Nc3"]
+[HashCode "6f56302a"]
+[Epoch "Rook"]
+[BlackID "2900190"]
+[BlackCountry "FID"]
+[WhiteCountry "ROU"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2 Be7 6. O-O O-O 7. Nc3 Ne4 8. Nxe4
+Bxe4 9. Ne1 Bxg2 10. Kxg2 d6 11. Nf3 Nd7 12. Be3 c5 13. dxc5 bxc5 14. Qd2 Qc7
+15. Rfd1 Rfd8 16. Rac1 Nf6 1/2-1/2

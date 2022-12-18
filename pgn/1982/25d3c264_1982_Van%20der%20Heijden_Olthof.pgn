@@ -1,0 +1,20 @@
+[Event "HMC"]
+[Site "HMC"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Van der Heijden, H."]
+[Black "Olthof, R."]
+[Result "1/2-1/2"]
+[ECO "D85"]
+[Opening "Gruenfeld"]
+[Variation "modern exchange variation"]
+[HashCode "25d3c264"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 g6 3. Nf3 Bg7 4. Nc3 d5 5. cxd5 Nxd5 6. e4 Nxc3 7. bxc3 c5
+8. Bc4 O-O 9. Be3 Bg4 10. Rc1 Qa5 11. O-O Nc6 12. d5 Ne5 13. Be2 Nxf3+ 14.
+Bxf3 Bxf3 15. Qxf3 c4 16. Qe2 b5 17. a4 Qxa4 18. Ra1 Qb3 19. Rab1 Qa4 20.
+Ra1 Qb3 21. Rab1 Qxc3 22. Rxb5 a5 23. Bd2 Qd3 24. Qxd3 cxd3 25. Rxa5 Rxa5
+26. Bxa5 f5 27. Bb4 fxe4 28. Bxe7 Rf5 29. d6 Rd5 30. Rb1 Be5 31. Kf1 Bxd6
+32. Bxd6 Rxd6 33. Ke1 Rd7 34. Kd2 Kf7 35. f3 exf3 36. Rf1 Ke6 1/2-1/2
+

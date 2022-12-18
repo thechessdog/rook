@@ -1,0 +1,20 @@
+[Event "corr EU/M/GT"]
+[Site "corr EU/M/GT"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Schlosser, W."]
+[Black "Teichmann"]
+[Result "0-1"]
+[ECO "B96"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Polugayevsky, Simagin variation"]
+[HashCode "beb490ec"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 b5 8.
+e5 dxe5 9. fxe5 Qc7 10. Qe2 Nfd7 11. O-O-O Bb7 12. Qg4 Qxe5 13. Bd3 h6 14.
+Nxe6 hxg5 15. Rhe1 Rh4 16. Qxh4 gxh4 17. Rxe5 Nxe5 18. Nc7+ Ke7 19. Nxa8
+Bxa8 20. Be4 Bxe4 21. Nxe4 Nbd7 22. g3 hxg3 23. hxg3 f5 24. Nc3 Kf6 25. Kd2
+Bb4 26. a3 Nc4+ 27. Ke2 Bxc3 28. Rxd7 Bxb2 29. Rc7 Be5 30. Rc6+ Kg5 31.
+Rxa6 Bxg3 32. a4 bxa4 33. Kf3 f4 34. Rxa4 Ne5+ 0-1
+

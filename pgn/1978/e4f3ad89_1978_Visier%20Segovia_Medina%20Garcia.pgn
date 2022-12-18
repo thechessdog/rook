@@ -1,0 +1,19 @@
+[Event "Linares"]
+[Site "Linares"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Visier Segovia, Fernando"]
+[Black "Medina Garcia, Antonio Angel"]
+[Result "1/2-1/2"]
+[ECO "E52"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line with ...b6"]
+[HashCode "e4f3ad89"]
+[Epoch "Rook"]
+[WhiteID "2200686"]
+[WhiteCountry "ESP"]
+[BlackCountry "EST"]
+
+1. c4 e6 2. Nc3 d5 3. d4 Nf6 4. Nf3 Bb4 5. e3 O-O 6. Bd3 b6 7. O-O Bb7 8. cxd5
+exd5 9. Bd2 Nbd7 10. Rc1 a6 11. Ne5 Bd6 12. f4 c5 13. Qf3 cxd4 14. exd4 b5 15.
+Be1 1/2-1/2

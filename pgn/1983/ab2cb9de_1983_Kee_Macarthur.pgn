@@ -1,0 +1,17 @@
+[Event "Omaha"]
+[Site "Omaha"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Kee"]
+[Black "Macarthur"]
+[Result "1-0"]
+[ECO "B87"]
+[Opening "Sicilian"]
+[Variation "Sozin with ...a6 and ...b5"]
+[HashCode "ab2cb9de"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 b5 8.
+O-O Be7 9. f4 Qc7 10. f5 b4 11. fxe6 fxe6 12. Ba4+ Nbd7 13. Nxe6 Qb6+ 14.
+Kh1 Kf7 15. Nd5 Qa5 16. Ng5+ Ke8 17. Nxf6+ gxf6 18. Qh5+ Kd8 19. Ne6# 1-0
+

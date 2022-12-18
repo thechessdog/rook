@@ -1,0 +1,15 @@
+[Event "Bydgoszcz"]
+[Site "Bydgoszcz"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Riha, Vaclav"]
+[Black "Ehrenfeucht, Wojciech"]
+[Result "1/2-1/2"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "88fd52c3"]
+[Epoch "Rook"]
+
+1. e4 c5 2. c3 e6 3. d4 d5 4. exd5 exd5 5. Nf3 Nc6 6. dxc5 Bxc5 7. Bd3 Nge7 8.
+O-O O-O 9. Nbd2 Bf5 10. Nb3 Bb6 11. Bxf5 1/2-1/2

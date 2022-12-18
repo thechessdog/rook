@@ -1,0 +1,19 @@
+[Event "Brno"]
+[Site "Brno"]
+[Date "1976.??.??"]
+[Round "?"]
+[White "Heinig, Wolfram, Dr."]
+[Black "Florian, Jaromir"]
+[Result "1-0"]
+[ECO "A51"]
+[Opening "Budapest"]
+[Variation "Fajarowicz variation"]
+[HashCode "b5e91d8f"]
+[Epoch "Rook"]
+[WhiteID "4611926"]
+[WhiteCountry "GER"]
+[BlackCountry "CZE"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ne4 4. Nf3 Nc6 5. a3 a5 6. e3 Be7 7. Be2 O-O 8. O-O
+b6 9. b3 Bb7 10. Bb2 Re8 11. Nc3 Nxc3 12. Bxc3 Bf8 13. Qd2 Qe7 14. Rfd1 Rad8
+15. Qb2 Qe6 16. b4 Ba8 17. Nd4 Qxe5 18. Nxc6 Qg5 19. Rd5 1-0

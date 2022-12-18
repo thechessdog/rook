@@ -1,0 +1,19 @@
+[Event "Elekes mem-A"]
+[Site "Budapest"]
+[Date "1981.??.??"]
+[Round "?"]
+[White "Szilagyi, Gyorgy"]
+[Black "Pogats, Jozsef Jr."]
+[Result "1/2-1/2"]
+[ECO "E18"]
+[Opening "Queen's Indian"]
+[Variation "old main line, 7.Nc3"]
+[HashCode "ee21cb64"]
+[Epoch "Rook"]
+[BlackID "744450"]
+[BlackCountry "HUN"]
+[WhiteCountry "HUN"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2 Be7 6. O-O O-O 7. Nc3 Ne4 8. Nxe4
+Bxe4 9. Ne1 Bxg2 10. Nxg2 d5 11. cxd5 Qxd5 12. Bf4 Na6 13. Qa4 Qb7 14. e4 Rfd8
+15. Rad1 1/2-1/2

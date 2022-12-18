@@ -1,0 +1,23 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Schettini, B."]
+[Black "Torassa, G."]
+[Result "0-1"]
+[ECO "B11"]
+[Opening "Caro-Kann"]
+[Variation "two knights, 3...Bg4"]
+[HashCode "b7dc7a4d"]
+[Epoch "Rook"]
+
+1. e4 c6 2. Nf3 d5 3. Nc3 Bg4 4. h3 Bh5 5. exd5 cxd5 6. g4 Bg6 7. Bb5+ Nc6
+8. Ne5 Rc8 9. d4 e6 10. h4 f6 11. Nxg6 hxg6 12. Qd3 Kf7 13. a3 Bd6 14. Bxc6
+bxc6 15. Ne2 Qc7 16. c3 Ne7 17. Bd2 Rh7 18. Ng1 Rch8 19. Nf3 Bf4 20. b4 g5
+21. h5 Ke8 22. Rg1 Bd6 23. O-O-O Rh6 24. Rde1 Kd7 25. Qe2 Rf8 26. Qxe6+ Kd8
+27. Qe2 g6 28. hxg6 Rxg6 29. Rh1 Nc8 30. Be3 Nb6 31. Nd2 Rg7 32. Kc2 Qd7
+33. c4 Nxc4 34. Nxc4 dxc4 35. Rd1 Re7 36. Qf3 Kc7 37. Kc3 Rfe8 38. Kxc4 a5
+39. Ra1 c5 40. bxc5 Bxc5 41. dxc5 f5 42. gxf5 Re4+ 43. Kc3 Qd5 44. Qg3+ Kc8
+45. Rhc1 a4 46. Rab1 Rc4+ 47. Kb2 Rg4 48. Rg1 Qb3+ 49. Kc1 Qc3+ 50. Kd1
+Qd3+ 51. Kc1 Rc4+ 52. Kb2 Qb3+ 53. Ka1 Qxa3# 0-1
+

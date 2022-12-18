@@ -1,0 +1,17 @@
+[Event "Bugojno"]
+[Site "Bugojno"]
+[Date "1982.05.01"]
+[Round "1"]
+[White "Andersson, Ulf"]
+[Black "Kasparov, Garry"]
+[Result "1/2-1/2"]
+[ECO "A39"]
+[Opening "English"]
+[Variation "symmetrical, main line with d4"]
+[HashCode "07ef8a1c"]
+[Epoch "Rook"]
+[WhiteID "1700014"]
+[WhiteCountry "SWE"]
+
+1. c4 g6 2. g3 Bg7 3. Bg2 Nf6 4. Nf3 O-O 5. O-O c5 6. Nc3 Nc6 7. d4 d6 8. dxc5
+dxc5 9. Bf4 Be6 10. Ne5 Na5 11. Nd3 Nh5 12. Nxc5 Nxf4 13. gxf4 1/2-1/2

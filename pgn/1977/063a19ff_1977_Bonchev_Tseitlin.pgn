@@ -1,0 +1,20 @@
+[Event "Smoljan/Pamporovo"]
+[Site "Smoljan/Pamporovo"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Bonchev, Stoiko"]
+[Black "Tseitlin, Mikhail S"]
+[Result "0-1"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Nimzovich (knight's tour) variation"]
+[HashCode "063a19ff"]
+[Epoch "Rook"]
+[BlackCountry "BLR"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. Nd2 Nbd7 8. e4
+Bg7 9. Be2 O-O 10. O-O Re8 11. a4 g5 12. Nc4 Nxe4 13. Nxe4 Rxe4 14. Nxd6 Rd4
+15. Qb3 Nb6 16. a5 Nxd5 17. Nxc8 Rxc8 18. Qxb7 Rc7 19. Qb3 c4 20. Qg3 h6 21. f4
+gxf4 22. Qf3 c3 23. bxc3 Rxc3 24. Qh5 Rc2 25. Bd1 Nf6 26. Qf5 Rxd1 27. Qxc2
+Qd4+ 28. Be3 Qxe3+ 29. Kh1 Rxa1 30. Rxa1 Ne4 31. Rf1 Bc3 32. a6 Kg7 33. Qc1
+Nf2+ 34. Kg1 Nh3+ 0-1

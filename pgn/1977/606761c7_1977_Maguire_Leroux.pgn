@@ -1,0 +1,17 @@
+[Event "Denver"]
+[Site "Denver"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Maguire, J."]
+[Black "Leroux, Jean"]
+[Result "1-0"]
+[ECO "C30"]
+[Opening "KGD"]
+[Variation "classical variation"]
+[HashCode "606761c7"]
+[Epoch "Rook"]
+
+1. e4 e5 2. f4 Bc5 3. Nf3 d6 4. Nc3 Bg4 5. Bc4 exf4 6. d3 Bxf3 7. Qxf3 Qh4+
+8. g3 fxg3 9. Qxf7+ Kd8 10. Qf8+ Kd7 11. Qxg7+ Ne7 12. Qxg3 Qh5 13. Ne2 Rg8
+14. Bxg8 1-0
+

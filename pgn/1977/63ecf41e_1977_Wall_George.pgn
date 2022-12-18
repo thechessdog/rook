@@ -1,0 +1,17 @@
+[Event "Stony Point,NC"]
+[Site "Stony Point,NC"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Wall, Bill"]
+[Black "George, Randy"]
+[Result "1-0"]
+[ECO "C67"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence, open variation"]
+[HashCode "63ecf41e"]
+[Epoch "Rook"]
+[WhiteCountry "USA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. Re1 Nd6 6. Nxe5 Nxe5 7. Rxe5+ Be7
+8. Nc3 Nxb5 9. Nd5 O-O 10. Nxe7+ Kh8 11. Qh5 g6 12. Qh6 Nd4 13. Rh5 gxh5 14.
+Qf6# 1-0

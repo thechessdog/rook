@@ -1,0 +1,21 @@
+[Event "Gausdal"]
+[Site "Gausdal"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "De Firmian, Nick"]
+[Black "Ogaard, Leif"]
+[Result "1-0"]
+[ECO "B46"]
+[Opening "Sicilian"]
+[Variation "Taimanov variation"]
+[HashCode "2d6cbd17"]
+[Epoch "Rook"]
+[WhiteID "2000105"]
+[WhiteCountry "USA"]
+[BlackID "1500074"]
+[BlackCountry "NOR"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 a6 6. g3 Qc7 7. Bg2 Nf6 8. O-O
+Bb4 9. Nb3 Be7 10. a4 O-O 11. a5 Bb4 12. Bg5 Nxa5 13. e5 Nxb3 14. Bxf6 gxf6 15.
+Qg4+ Kh8 16. Qxb4 Nc5 17. Na4 fxe5 18. Nxc5 d6 19. Ne4 Rd8 20. Nf6 Qxc2 21. Qh4
+1-0

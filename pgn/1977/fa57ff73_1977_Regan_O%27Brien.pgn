@@ -1,0 +1,19 @@
+[Event "New Jersey"]
+[Site "New Jersey"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Regan"]
+[Black "O'Brien"]
+[Result "1-0"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra gambit"]
+[HashCode "fa57ff73"]
+[Epoch "Rook"]
+
+1. e4 c5 2. d4 cxd4 3. c3 dxc3 4. Nxc3 Nc6 5. Nf3 d6 6. Bc4 e6 7. O-O Nf6
+8. Qe2 Be7 9. Rd1 a6 10. e5 Nd7 11. exd6 Bf6 12. Nd5 O-O 13. Nxf6+ Nxf6 14.
+Bg5 Bd7 15. Rac1 b5 16. Bb3 Rc8 17. Qe3 h6 18. Bh4 Re8 19. Ne5 Nxe5 20.
+Qxe5 Rxc1 21. Rxc1 Ng4 22. Qh5 Nf6 23. Qf3 g5 24. Bg3 Nh7 25. Bc2 f5 26.
+Be5 Qc8 27. Qh5 Qc5 28. Qg6+ Kf8 29. Qg7# 1-0
+

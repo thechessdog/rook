@@ -1,0 +1,20 @@
+[Event "Riga"]
+[Site "Riga"]
+[Date "1981.01.01"]
+[Round "8"]
+[White "Ambroz, Jan"]
+[Black "Kengis, Edvins"]
+[Result "1/2-1/2"]
+[ECO "B52"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky attack, 3...Bd7"]
+[HashCode "067e74a7"]
+[Epoch "Rook"]
+[WhiteID "300209"]
+[WhiteCountry "CZE"]
+[BlackID "11600039"]
+[BlackCountry "LAT"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. a4 Nc6 5. O-O Nf6 6. Re1 e6 7. d4 cxd4 8.
+Nxd4 Be7 9. b3 O-O 10. Bb2 Qc7 11. Nxc6 Bxc6 12. Nc3 Rfd8 13. Bd3 a6 14. Qe2
+Re8 15. Qf3 Rac8 16. Qh3 Bd7 17. Qf3 1/2-1/2

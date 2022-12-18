@@ -1,0 +1,17 @@
+[Event "Salgotarjan"]
+[Site "Salgotarjan"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Gal, Gabor"]
+[Black "Eigler, Ferenc"]
+[Result "1/2-1/2"]
+[ECO "C05"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation"]
+[HashCode "a09f1961"]
+[Epoch "Rook"]
+[WhiteID "704261"]
+[WhiteCountry "HUN"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Bd3 b6 6. Ne2 Ba6 7. Nf3 Be7 8. O-O
+c5 9. c3 Bxd3 10. Qxd3 Nc6 11. Bd2 a6 12. b3 b5 13. Qe3 h6 1/2-1/2

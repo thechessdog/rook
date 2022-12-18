@@ -1,0 +1,26 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Taksrud, V."]
+[Black "Berggreen, A."]
+[Result "0-1"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Nimzovich (knight's tour) variation"]
+[HashCode "0f821561"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. Nd2 Bg7 8.
+Nc4 O-O 9. Bg5 b6 10. e3 Ba6 11. a4 h6 12. Bh4 Qe7 13. Qc2 Nbd7 14. Rd1
+Bxc4 15. Bxc4 g5 16. Bg3 Nh5 17. Bd3 Nxg3 18. hxg3 Ne5 19. Bf5 Rfe8 20. Qe2
+a6 21. O-O c4 22. Rd4 b5 23. axb5 axb5 24. Nxb5 Reb8 25. Nc3 Rb4 26. Rd2
+Rab8 27. Rc1 g4 28. Bxg4 Nd3 29. Rcc2 Rb3 30. Nd1 Nxb2 31. Rxb2 Bxb2 32.
+Rxb2 Rxb2 33. Nxb2 Qe5 34. Nd1 Qxd5 35. Qc2 Qc5 36. e4 Qd4 37. Ne3 Qa1+ 38.
+Kh2 Rb1 39. Bd1 c3 40. g4 Rc1 41. Qd3 h5 42. gxh5 c2 43. Bxc2 Qe5+ 44. f4
+Qxf4+ 45. g3 Qf2+ 46. Kh3 Qf3 47. Bd1 Rxd1 48. Qxd1 Qxe3 49. Qg4+ Kf8 50.
+Qf4 Qd4 51. h6 Qd1 52. Kh4 Qh1+ 53. Kg5 Qd1 54. Qf6 Qd2+ 55. Kh5 Qe2+ 56.
+g4 Qh2+ 57. Kg5 Qd2+ 58. Qf4 Qa5+ 59. Kh4 Qe1+ 60. Kh5 Ke7 61. Qg5+ Kd7 62.
+h7 Qh1+ 63. Qh4 Qxe4 64. Qf6 Qxh7+ 65. Kg5 d5 66. Kf4 Qe4+ 67. Kg3 Qe3+ 68.
+Kh4 Qe7 0-1
+

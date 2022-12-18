@@ -1,0 +1,28 @@
+[Event "Bor"]
+[Site "Bor"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Campora, Daniel H."]
+[Black "Rukavina, Josip"]
+[Result "0-1"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical, h3 system"]
+[HashCode "d649b037"]
+[Epoch "Rook"]
+[WhiteID "100013"]
+[WhiteCountry "ARG"]
+[BlackID "14500191"]
+[BlackCountry "CRO"]
+
+1. e4 d6 2. d4 g6 3. Nf3 Nf6 4. Nc3 Bg7 5. h3 c6 6. Be3 O-O 7. a4 a5 8. Qd2 Na6
+9. Be2 Nb4 10. O-O d5 11. e5 Ne8 12. Nd1 Nc7 13. c3 Nba6 14. Bh6 f5 15. exf6
+exf6 16. Bxg7 Kxg7 17. Ne3 Be6 18. Rfe1 Qd7 19. b4 Ne8 20. bxa5 Nd6 21. Qb2 Qc7
+22. Nd2 Qxa5 23. Nb3 Qc7 24. Bxa6 bxa6 25. Nc5 Bd7 26. Rab1 a5 27. Qb6 Rfc8 28.
+f3 Qxb6 29. Rxb6 Ra7 30. Kf2 h5 31. h4 Kf8 32. Reb1 Ke7 33. Rb8 Rxb8 34. Rxb8
+Be8 35. Nc2 g5 36. g3 gxh4 37. gxh4 Nf5 38. Ne3 Nd6 39. Kg3 Kf7 40. Kf4 Re7 41.
+Ra8 Kg6 42. Rxa5 Rxe3 43. Ra8 Re2 44. Rb8 Rh2 45. Kg3 Ra2 46. Kf4 Bf7 47. Rb6
+Nf5 48. Nd7 Be8 49. Nf8+ Kf7 50. Kxf5 Kxf8 51. Kxf6 Rxa4 52. Rb7 Ra2 53. f4 Ra6
+54. f5 c5+ 55. Ke5 cxd4 56. cxd4 Bf7 57. Rc7 Kg7 58. Rc1 Ra2 59. Rg1+ Kf8 60.
+Rb1 Rh2 61. Kf6 Rxh4 62. Rb7 Be8 63. Rh7 Kg8 64. Rg7+ Kh8 65. Ra7 Re4 66. Ra5
+h4 67. Kg5 Rxd4 68. Ra8 Re4 69. Rd8 h3 70. f6 Kg8 0-1

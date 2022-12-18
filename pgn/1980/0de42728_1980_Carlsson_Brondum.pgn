@@ -1,0 +1,21 @@
+[Event "Kopenhagen open"]
+[Site "Kopenhagen open"]
+[Date "1980.06.01"]
+[Round "3"]
+[White "Carlsson, Gerner"]
+[Black "Brondum, Eric"]
+[Result "0-1"]
+[ECO "A57"]
+[Opening "Benko gambit"]
+[Variation "Zaitsev system"]
+[HashCode "0de42728"]
+[Epoch "Rook"]
+[WhiteID "1410237"]
+[WhiteCountry "DEN"]
+[BlackID "1400894"]
+[BlackCountry "DEN"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. Nc3 axb5 6. e4 b4 7. Nb5 d6 8. Nf3 g6
+9. Bf4 Bg7 10. Bc4 O-O 11. Qe2 Nh5 12. Bg5 h6 13. Be3 Nd7 14. O-O Nb6 15. Rab1
+Nxc4 16. Qxc4 Bd7 17. b3 Qb6 18. a4 bxa3 19. Nc3 Qa6 20. Qxa6 Rxa6 21. Na2 Rb8
+22. Nd2 Bb5 23. Nc4 Bxc4 24. bxc4 Rb2 0-1

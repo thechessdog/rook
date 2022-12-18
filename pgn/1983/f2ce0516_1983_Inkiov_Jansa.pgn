@@ -1,0 +1,20 @@
+[Event "Nice"]
+[Site "Nice"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Inkiov, Ventzislav"]
+[Black "Jansa, Vlastimil"]
+[Result "1/2-1/2"]
+[ECO "E62"]
+[Opening "King's Indian"]
+[Variation "fianchetto, Kavalek (Bronstein) variation"]
+[HashCode "f2ce0516"]
+[Epoch "Rook"]
+[BlackID "300128"]
+[WhiteID "2900033"]
+[WhiteCountry "FID"]
+[BlackCountry "CZE"]
+
+1. d4 Nf6 2. Nf3 g6 3. g3 Bg7 4. Bg2 O-O 5. O-O d6 6. c4 c6 7. Nc3 Qa5 8. e4
+Qh5 9. e5 dxe5 10. Nxe5 Qxd1 11. Rxd1 Nbd7 12. Nxd7 Bxd7 13. h3 Rfd8 14. Be3
+Rac8 15. Rac1 1/2-1/2

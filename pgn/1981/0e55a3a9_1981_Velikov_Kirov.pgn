@@ -1,0 +1,19 @@
+[Event "Pamporovo"]
+[Site "Pamporovo"]
+[Date "1981.01.01"]
+[Round "6"]
+[White "Velikov, Petar"]
+[Black "Kirov, Nino"]
+[Result "1/2-1/2"]
+[ECO "B15"]
+[Opening "Caro-Kann"]
+[Variation "Forgacs variation"]
+[HashCode "0e55a3a9"]
+[Epoch "Rook"]
+[WhiteID "2900149"]
+[WhiteCountry "FID"]
+[BlackCountry "BGR"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ exf6 6. Bc4 Be6 7. Qe2 Qe7
+8. Bxe6 Qxe6 9. Qxe6+ fxe6 10. Ne2 Bd6 11. Bf4 Bxf4 12. Nxf4 Kf7 13. O-O-O Nd7
+14. Rhe1 Rhe8 1/2-1/2

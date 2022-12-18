@@ -1,0 +1,19 @@
+[Event "corr USA"]
+[Site "corr USA"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Bellizzi"]
+[Black "Kubach"]
+[Result "0-1"]
+[ECO "A28"]
+[Opening "English"]
+[Variation "four knights system"]
+[HashCode "3c194235"]
+[Epoch "Rook"]
+
+1. c4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. d4 exd4 5. Nxd4 Bb4 6. g3 Bxc3+ 7. bxc3
+Ne5 8. f4 Nxc4 9. e4 Nb6 10. e5 Ne4 11. Qg4 g6 12. f5 d5 13. Bd3 c5 14.
+Bb5+ Bd7 15. fxg6 hxg6 16. e6 cxd4 17. exd7+ Nxd7 18. Ba3 a6 19. Bxd7+ Qxd7
+20. Qf4 Qf5 21. Qxf5 gxf5 22. O-O dxc3 23. Rxf5 O-O-O 24. Rd1 d4 25. Rd3 f6
+26. Kg2 Rhe8 27. Bc1 Re5 28. Rf4 b5 29. h4 f5 30. g4 Red5 0-1
+

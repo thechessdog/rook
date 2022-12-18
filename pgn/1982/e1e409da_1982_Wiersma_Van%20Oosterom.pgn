@@ -1,0 +1,24 @@
+[Event "corr Volmac"]
+[Site "corr Volmac"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Wiersma, T."]
+[Black "Van Oosterom, J."]
+[Result "1-0"]
+[ECO "D58"]
+[Opening "QGD"]
+[Variation "Tartakower (Makagonov-Bondarevsky) system"]
+[HashCode "e1e409da"]
+[Epoch "Rook"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Be7 4. Nf3 Nf6 5. Bg5 h6 6. Bh4 O-O 7. e3 b6 8.
+Be2 Bb7 9. Bxf6 Bxf6 10. cxd5 exd5 11. O-O Qe7 12. Qb3 c6 13. Rad1 Bc8 14.
+Rfe1 Be6 15. Qc2 c5 16. e4 cxd4 17. Nxd5 Bxd5 18. exd5 Nd7 19. Bb5 Qc5 20.
+Qxc5 Nxc5 21. b4 Nb7 22. Bc6 Rab8 23. Nxd4 Nd6 24. Nb5 Rbd8 25. Nxd6 Rxd6
+26. b5 Rc8 27. g3 Kf8 28. Rd3 Be7 29. Re4 Rdd8 30. Ra4 Rc7 31. Re3 Bc5 32.
+Ree4 g5 33. Kg2 Kg7 34. h4 Kf6 35. f3 Rg8 36. h5 Rf8 37. Ra6 Rd8 38. Kh3
+Bd6 39. a4 Bc5 40. Kg4 Rg8 41. a5 Rd8 42. Re2 bxa5 43. Rxa5 Re7 44. Rxe7
+Kxe7 45. Kf5 Rd6 46. Ra4 Rf6+ 47. Kg4 Kd6 48. Re4 Kc7 49. Re8 Bd6 50. Ra8
+Bc5 51. Rg8 Bd6 52. Be8 Kb6 53. Rg7 Kc5 54. Bxf7 Kxb5 55. Rg6 Be7 56. Rxf6
+Bxf6 57. Kf5 Bd8 58. g4 1-0
+

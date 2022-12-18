@@ -1,0 +1,20 @@
+[Event "Bundesliga 8081"]
+[Site "Duitsland tt"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Fahnenschmidt, Gerhard"]
+[Black "Bilek, Michael"]
+[Result "1/2-1/2"]
+[ECO "A31"]
+[Opening "English"]
+[Variation "symmetrical, Benoni formation"]
+[HashCode "365875d1"]
+[Epoch "Rook"]
+[WhiteID "4600568"]
+[WhiteCountry "GER"]
+[BlackID "4601416"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 c5 3. Nf3 cxd4 4. Nxd4 e5 5. Nf3 Nc6 6. e3 d5 7. cxd5 Nxd5 8.
+Be2 Bb4+ 9. Nfd2 O-O 10. O-O Be6 11. a3 Bc5 12. Ne4 Bb6 13. Nbc3 Nxc3 14. Nxc3
+Na5 15. b4 Nb3 16. Rb1 Rc8 17. Na4 1/2-1/2

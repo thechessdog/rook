@@ -1,0 +1,16 @@
+[Event "Dayton,OH"]
+[Site "Dayton,OH"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Wall, Bill"]
+[Black "Kapoor, Bud"]
+[Result "1-0"]
+[ECO "C64"]
+[Opening "Ruy Lopez"]
+[Variation "classical (Cordel) defence"]
+[HashCode "3b096110"]
+[Epoch "Rook"]
+[WhiteCountry "USA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. O-O d6 5. c3 Be6 6. d4 exd4 7. cxd4 Bb4 8. d5
+Ne7 9. dxc6 bxc6 10. Ba4 O-O 11. Bg5 Qd7 12. Bxe7 Qxe7 13. Bxc6 1-0

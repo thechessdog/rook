@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Hyldkrog, Lars"]
+[Black "Jensen, I."]
+[Result "1-0"]
+[ECO "C41"]
+[Opening "Philidor"]
+[Variation "exchange variation"]
+[HashCode "af09679e"]
+[Epoch "Rook"]
+[WhiteID "1402781"]
+[WhiteCountry "DEN"]
+
+1. e4 e5 2. Nf3 d6 3. d4 exd4 4. Nxd4 Nf6 5. Nc3 Be7 6. Bf4 O-O 7. Qd2 c6 8.
+O-O-O b5 9. f3 b4 10. Nb1 Qb6 11. g4 d5 12. e5 Ne8 13. h4 Nc7 14. Nf5 Bc5 15.
+Bd3 Nd7 16. Bh6 Nxe5 17. Nxg7 Kh8 18. Nh5 Ne8 19. Qg5 Nxf3 20. Bg7+ Kg8 21.
+Bxh7+ Kxh7 22. Qh6+ Kg8 23. Qh8# 1-0

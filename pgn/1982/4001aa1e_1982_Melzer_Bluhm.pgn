@@ -1,0 +1,20 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Melzer"]
+[Black "Bluhm"]
+[Result "0-1"]
+[ECO "B42"]
+[Opening "Sicilian"]
+[Variation "Kan, Polugaievsky variation"]
+[HashCode "4001aa1e"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Bc5 6. Nb3 Ba7 7. Qg4 Nf6
+8. Qg3 d6 9. O-O Nc6 10. Nc3 Ne5 11. Kh1 h5 12. Bg5 h4 13. Bxh4 Nh5 14.
+Bxd8 Nxg3+ 15. fxg3 Kxd8 16. Be2 b5 17. a3 Ke7 18. g4 Bd7 19. Nd1 Rac8 20.
+c3 Bc6 21. Bf3 Rh4 22. Nd4 Bb7 23. Nf2 Nc4 24. a4 b4 25. e5 d5 26. g3 Rhh8
+27. Nd3 bxc3 28. bxc3 Nd2 29. Rf2 Nxf3 30. Rxf3 Rxc3 31. Raf1 Rf8 32. Nxe6
+d4 0-1
+

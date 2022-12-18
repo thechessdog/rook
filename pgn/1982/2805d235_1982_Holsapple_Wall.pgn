@@ -1,0 +1,18 @@
+[Event "Dayton,OH"]
+[Site "Dayton,OH"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Holsapple, Boyd"]
+[Black "Wall, Bill"]
+[Result "0-1"]
+[ECO "A40"]
+[Opening "Queen's pawn"]
+[Variation "Charlick (Englund) gambit"]
+[HashCode "2805d235"]
+[Epoch "Rook"]
+[BlackCountry "USA"]
+[WhiteCountry "USA"]
+
+1. d4 e5 2. e3 d5 3. dxe5 Nc6 4. Bb5 Qe7 5. Bxc6+ bxc6 6. Bd2 Qxe5 7. Bc3 Qg5
+8. Kf1 Ne7 9. Nf3 Ba6+ 10. Kg1 Qg4 11. h3 Qc4 12. Nbd2 Qb5 13. b3 Qb6 14. h4
+Nf5 15. g3 Nxe3 16. fxe3 Qxe3+ 17. Kg2 Qxc3 0-1

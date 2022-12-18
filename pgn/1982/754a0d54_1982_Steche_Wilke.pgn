@@ -1,0 +1,22 @@
+[Event "corr DDR/FS"]
+[Site "corr DDR/FS"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Steche"]
+[Black "Wilke"]
+[Result "1-0"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra gambit"]
+[HashCode "754a0d54"]
+[Epoch "Rook"]
+
+1. e4 c5 2. d4 cxd4 3. c3 dxc3 4. Nxc3 Nc6 5. Nf3 d6 6. Bc4 e6 7. O-O Nf6
+8. Qe2 Be7 9. Rd1 e5 10. Be3 O-O 11. Rac1 Bg4 12. h3 Bxf3 13. Qxf3 Ne8 14.
+a3 Bg5 15. Rc2 Bxe3 16. fxe3 Qf6 17. Qxf6 Nxf6 18. Rxd6 Rad8 19. Rcd2 a6
+20. Kf2 Rxd6 21. Rxd6 Rd8 22. Rxd8+ Nxd8 23. Bd5 Kf8 24. Ke2 Ke7 25. Kd3
+Kd6 26. Kc4 Nxd5 27. exd5 f5 28. g3 h6 29. e4 f4 30. gxf4 exf4 31. Kd4 Nf7
+32. e5+ Ke7 33. Ke4 Ng5+ 34. Kxf4 Nxh3+ 35. Kf5 Nf2 36. Na4 Nd3 37. d6+ Ke8
+38. e6 h5 39. b4 h4 40. Nb6 h3 41. Nd5 g6+ 42. Kf6 Nf2 43. Nc7+ Kd8 44. e7+
+Kd7 45. e8=Q+ Kxd6 46. Qe7+ Kc6 47. Qc5+ 1-0
+

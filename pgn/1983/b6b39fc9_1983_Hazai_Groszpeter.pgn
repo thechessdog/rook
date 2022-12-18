@@ -1,0 +1,19 @@
+[Event "Kecskemet"]
+[Site "Kecskemet"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Hazai, Laszlo Dr."]
+[Black "Groszpeter, Attila"]
+[Result "1/2-1/2"]
+[ECO "B52"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky attack, Sokolsky variation"]
+[HashCode "b6b39fc9"]
+[Epoch "Rook"]
+[WhiteID "700177"]
+[BlackID "700053"]
+[WhiteCountry "HUN"]
+[BlackCountry "HUN"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Qxd7 5. c4 Nc6 6. d4 cxd4 7. Nxd4 Nf6
+8. Nc3 g6 9. f3 Bg7 10. Be3 O-O 11. O-O e6 12. Qd2 1/2-1/2

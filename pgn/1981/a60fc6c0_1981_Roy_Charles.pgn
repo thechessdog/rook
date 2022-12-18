@@ -1,0 +1,20 @@
+[Event "Montreal Open"]
+[Site "Montreal Open"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Roy, Alain"]
+[Black "Charles, Yves"]
+[Result "0-1"]
+[ECO "D80"]
+[Opening "Gruenfeld"]
+[Variation "Stockholm variation"]
+[HashCode "a60fc6c0"]
+[Epoch "Rook"]
+[BlackID "36094048"]
+[BlackCountry "FRA"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Bg5 e6 5. e3 Bg7 6. Nf3 O-O 7. Rc1 c6 8. c5
+Nbd7 9. b4 a6 10. a4 Re8 11. Ne5 Qc7 12. Bf4 Nh5 13. Nxg6 Nxf4 14. Nxf4 Nf6 15.
+Be2 e5 16. dxe5 Qxe5 17. O-O Bf5 18. Bf3 Rad8 19. Nd3 Qc7 20. Ne2 Ne4 21. Nd4
+Bg6 22. Nf4 Ng5 23. Nxg6 Nxf3+ 24. Qxf3 fxg6 25. Rcd1 Re4 26. Rfe1 Rde8 27. Rd3
+Bxd4 0-1

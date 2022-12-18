@@ -1,0 +1,17 @@
+[Event "Ann Arbor ch-MI op"]
+[Site "Ann Arbor ch-MI op"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Marfia, James"]
+[Black "Fischman, Ronald"]
+[Result "1-0"]
+[ECO "B97"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Poisoned pawn variation"]
+[HashCode "53b51681"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qb6 8. Qd2
+Qxb2 9. Rb1 Qa3 10. f5 Be7 11. fxe6 fxe6 12. Bc4 h6 13. Be3 d5 14. exd5 b5 15.
+Bd3 Nxd5 16. Bg6+ Kf8 17. Nxd5 exd5 18. O-O+ Bf6 19. Bxh6 Kg8 20. Rb3 Qc5 21.
+Rxf6 Rxh6 22. Rc3 1-0

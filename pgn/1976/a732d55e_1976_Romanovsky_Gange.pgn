@@ -1,0 +1,19 @@
+[Event "corr DDR/M"]
+[Site "corr DDR/M"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Romanovsky, E."]
+[Black "Gange, U."]
+[Result "0-1"]
+[ECO "B52"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky attack, 3...Bd7"]
+[HashCode "a732d55e"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Qxd7 5. O-O Nc6 6. d3 e6 7. Ng5 h6
+8. Nh3 Nf6 9. f4 Be7 10. Nd2 b6 11. Nf3 e5 12. Bd2 Ng4 13. a4 a5 14. c3 Bf6
+15. Qe1 Rb8 16. Nf2 Nxf2 17. Qxf2 exf4 18. d4 g5 19. Rad1 Qc7 20. Rde1 Kf8
+21. h4 Be7 22. Nh2 Bf6 23. Nf3 Rh7 24. g3 fxg3 25. Qxg3 gxh4 26. Nxh4 Bg5
+27. Bxg5 hxg5 28. Nf5 Rd8 29. Kg2 Ne7 30. Ne3 c4 31. Qf3 Ng6 0-1
+

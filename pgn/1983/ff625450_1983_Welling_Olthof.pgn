@@ -1,0 +1,20 @@
+[Event "Amstelveen"]
+[Site "Amstelveen"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Welling, Gerard"]
+[Black "Olthof"]
+[Result "1-0"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "modern variation"]
+[HashCode "ff625450"]
+[Epoch "Rook"]
+[WhiteID "1000446"]
+[WhiteCountry "NED"]
+
+1. b3 e5 2. Bb2 Nc6 3. e3 Nf6 4. Nf3 d6 5. d4 exd4 6. Nxd4 Be7 7. Nxc6 bxc6 8.
+Qf3 Bd7 9. h3 O-O 10. Nc3 Re8 11. g4 g6 12. Bd3 Rb8 13. O-O-O a5 14. Rdg1 Rb4
+15. a3 Rb6 16. h4 c5 17. h5 Bc6 18. e4 d5 19. hxg6 fxg6 20. exd5 Bxd5 21. Nxd5
+Nxd5 22. Bc4 Bg5+ 23. Kb1 Rd6 24. Rxh7 Bf6 25. Bxd5+ Kxh7 26. Rh1+ Kg7 27. g5
+Bxb2 28. Qf7# 1-0

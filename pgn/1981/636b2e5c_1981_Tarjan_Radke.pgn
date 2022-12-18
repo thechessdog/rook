@@ -1,0 +1,20 @@
+[Event "US op"]
+[Site "Palo Alto"]
+[Date "1981.??.??"]
+[Round "11"]
+[White "Tarjan, James"]
+[Black "Radke, Harry"]
+[Result "1-0"]
+[ECO "D38"]
+[Opening "QGD"]
+[Variation "Ragozin variation"]
+[HashCode "636b2e5c"]
+[Epoch "Rook"]
+[WhiteID "2000180"]
+[WhiteCountry "USA"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Nf3 d5 5. Bg5 h6 6. Bxf6 Qxf6 7. e3 O-O 8. a3
+Bxc3+ 9. bxc3 c5 10. cxd5 exd5 11. Bd3 Nc6 12. h3 c4 13. Bc2 Bf5 14. Bxf5 Qxf5
+15. Qb1 Qd7 16. Qb5 b6 17. O-O a6 18. Qb1 b5 19. e4 Rab8 20. Re1 a5 21. exd5
+Qxd5 22. Ne5 b4 23. axb4 axb4 24. Nxc6 Qxc6 25. cxb4 Qd6 26. b5 Qxd4 27. Qb4
+Qb6 28. Re5 Rfc8 29. Rc1 Qf6 30. Re3 Qf5 31. b6 Qc5 32. Re8+ 1-0

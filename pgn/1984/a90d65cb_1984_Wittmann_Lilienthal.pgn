@@ -1,0 +1,19 @@
+[Event "corr EU/M/GT"]
+[Site "corr EU/M/GT"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Wittmann, Walter"]
+[Black "Lilienthal, Siegfried"]
+[Result "1/2-1/2"]
+[ECO "B07"]
+[Opening "Pirc"]
+[Variation "bayonet (Mariotti) attack"]
+[HashCode "a90d65cb"]
+[Epoch "Rook"]
+[WhiteID "1600060"]
+[WhiteCountry "AUT"]
+[BlackCountry "GER"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Be2 Bg7 5. h4 h5 6. Nf3 c6 7. Ng5 Qb6 8. O-O
+Nbd7 9. Rb1 Nf8 10. Bf4 N6h7 11. Nxh7 Rxh7 12. Be3 Qc7 13. f3 Bd7 14. Qd2 a6
+15. a4 1/2-1/2

@@ -1,0 +1,20 @@
+[Event "corr DDR-PV"]
+[Site "corr DDR-PV"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Becker, M1."]
+[Black "Goldner, R."]
+[Result "0-1"]
+[ECO "D53"]
+[Opening "QGD"]
+[Variation "4.Bg5 Be7, 5.e3 O-O"]
+[HashCode "a4e3d372"]
+[Epoch "Rook"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. e3 O-O 6. Bd3 dxc4 7. Bxc4 b6 8. Nf3
+Bb7 9. O-O Nbd7 10. a3 c5 11. dxc5 Nxc5 12. Be2 Nd5 13. Bxe7 Qxe7 14. Rc1 Rfd8
+15. Nxd5 Bxd5 16. Qe1 Bxf3 17. gxf3 Nd3 18. Bxd3 Rxd3 19. Qe2 Rd5 20. f4 Rad8
+21. Rc2 e5 22. fxe5 Rxe5 23. Rfc1 Rg5+ 24. Kh1 g6 25. e4 Kg7 26. Rc7 Rd7 27.
+Rxd7 Qxd7 28. Rg1 Rc5 29. Rd1 Qc6 30. f3 a5 31. Rd2 Qf6 32. Rd1 Rb5 33. Rb1 Rb3
+34. Kg2 a4 35. e5 Qg5+ 36. Kh1 Re3 37. Qb5 Rxf3 38. Qxa4 Qxe5 39. Qc2 Re3 40.
+Kg1 f6 41. Rc1 Kh6 42. Qd2 Qg5+ 43. Kh1 Rb3 44. Rc2 Qxd2 0-1

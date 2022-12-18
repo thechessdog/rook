@@ -1,0 +1,17 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Petersen, Bernth"]
+[Black "Hansen, Gunnar"]
+[Result "0-1"]
+[ECO "B00"]
+[Opening "King's pawn opening"]
+[HashCode "dc2fcca5"]
+[Epoch "Rook"]
+[BlackID "1420879"]
+[BlackCountry "DEN"]
+
+1. e4 d6 2. c4 c6 3. Nc3 g6 4. f4 Bg7 5. Nf3 Nh6 6. d4 O-O 7. h3 Nd7 8. Be3 f5
+9. e5 c5 10. Ng5 cxd4 11. Ne6 dxc3 12. Nxd8 Rxd8 13. bxc3 dxe5 14. fxe5 f4 15.
+Qd5+ e6 16. Qxe6+ Nf7 17. Bd4 0-1

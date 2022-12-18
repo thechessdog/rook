@@ -1,0 +1,21 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Furman, Semyon"]
+[Black "Dorfman, Iossif"]
+[Result "0-1"]
+[ECO "A67"]
+[Opening "Benoni"]
+[Variation "Taimanov variation"]
+[HashCode "32c2a5fe"]
+[Epoch "Rook"]
+[BlackCountry "FRA"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 c5 4. d5 exd5 5. cxd5 d6 6. e4 g6 7. f4 Bg7 8. Bb5+
+Nfd7 9. Bd3 a6 10. a4 O-O 11. Nf3 Qc7 12. O-O c4 13. Bc2 Nc5 14. Be3 Bg4 15. h3
+Bxf3 16. Rxf3 Nbd7 17. a5 Rfe8 18. Bd4 b5 19. axb6 Qxb6 20. Ra2 Rab8 21. Kh2
+Bxd4 22. Qxd4 Nb3 23. Qxb6 Rxb6 24. Bxb3 cxb3 25. Ra4 Nc5 26. Rc4 a5 27. Na4
+Rb4 28. Rxb4 axb4 29. Nxc5 dxc5 30. Rxb3 Rxe4 31. Rd3 c4 32. Rd1 Kf8 33. Kg3
+Ke7 34. Kf3 f5 35. g4 Kd6 36. gxf5 gxf5 37. Ra1 Kxd5 38. Ra5+ Kd4 39. Rxf5 Re3+
+40. Kg4 Re2 41. Rf7 Rxb2 0-1

@@ -1,0 +1,16 @@
+[Event "Laren"]
+[Site "Laren"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Weyerstrass, Ronald"]
+[Black "Anema"]
+[Result "1-0"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "classical variation"]
+[HashCode "d872f5c2"]
+[Epoch "Rook"]
+
+1. b3 d5 2. Bb2 c5 3. e3 Nc6 4. Bb5 a6 5. Bxc6+ bxc6 6. Nf3 Bg4 7. h3 Bh5 8. g4
+Bg6 9. d3 f6 10. Nh4 Bf7 11. f4 e5 12. fxe5 fxe5 13. Nf3 d4 14. Qe2 Bd5 15.
+exd4 Bxf3 16. Qxf3 exd4 17. Qxc6+ Kf7 18. O-O+ Nf6 1-0

@@ -1,0 +1,21 @@
+[Event "Verbandsliga"]
+[Site "Verbandsliga"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Kreuzer"]
+[Black "Mueller, D."]
+[Result "1-0"]
+[ECO "A00"]
+[Opening "Polish"]
+[Variation "Outflank variation"]
+[HashCode "e1f5c061"]
+[Epoch "Rook"]
+
+1. b4 c6 2. Bb2 Qb6 3. a3 a5 4. c4 axb4 5. c5 Qc7 6. axb4 Rxa1 7. Bxa1 Na6
+8. Bc3 d5 9. Nf3 b6 10. d4 Nf6 11. e3 bxc5 12. bxc5 Qb8 13. Be2 Nc7 14. O-O
+Bg4 15. Ne5 Bxe2 16. Qxe2 Qa8 17. Qb2 Nb5 18. Na3 Nxc3 19. Qxc3 Ne4 20. Qb4
+f6 21. Nd3 Qa6 22. Nf4 Kf7 23. Ra1 g5 24. Nc2 Qc4 25. Qxc4 dxc4 26. Ne2 e5
+27. Nb4 exd4 28. exd4 Bg7 29. Nxc6 f5 30. Rc1 Rc8 31. Na5 c3 32. f3 Nxc5
+33. dxc5 Rxc5 34. Nb3 Rb5 35. Nbd4 Rd5 36. Nc2 h5 37. Ne3 Rc5 38. Rc2 f4
+39. Nd1 1-0
+

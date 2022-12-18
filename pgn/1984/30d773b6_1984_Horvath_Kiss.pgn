@@ -1,0 +1,18 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Horvath, Maria"]
+[Black "Kiss, A."]
+[Result "1-0"]
+[ECO "C06"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation, main line"]
+[HashCode "30d773b6"]
+[Epoch "Rook"]
+[WhiteID "1601660"]
+[WhiteCountry "AUT"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Bd3 c5 6. c3 Nc6 7. Ne2 cxd4 8. cxd4
+f6 9. exf6 Qxf6 10. Nf3 Bd6 11. O-O O-O 12. Bg5 Qf7 13. Bh4 e5 14. Ng5 Qh5 15.
+Bxh7+ Kh8 16. Nf4 exf4 17. Qxh5 1-0

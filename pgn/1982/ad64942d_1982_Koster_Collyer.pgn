@@ -1,0 +1,19 @@
+[Event "E Lansing ch-MI op"]
+[Site "E Lansing ch-MI op"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Koster, E."]
+[Black "Collyer, R."]
+[Result "1-0"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, poisoned pawn variation"]
+[HashCode "ad64942d"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Qg4 Nf5 8.
+Bd3 h5 9. Qf4 c4 10. Bxf5 exf5 11. Nf3 Qa5 12. Bd2 Qa4 13. Qg5 Rh7 14. O-O
+Qxc2 15. e6 Bxe6 16. Rfe1 Qe4 17. Rxe4 fxe4 18. Ne5 Nd7 19. Nxd7 Kxd7 20.
+Rb1 b6 21. a4 Rb8 22. Bf4 f6 23. Qg6 Rbh8 24. a5 Kc6 25. axb6 axb6 26. f3
+exf3 27. gxf3 h4 28. Qc2 1-0
+

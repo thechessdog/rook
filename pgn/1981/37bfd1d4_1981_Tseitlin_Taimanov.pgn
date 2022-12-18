@@ -1,0 +1,16 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Tseitlin, Mikhail S"]
+[Black "Taimanov, I."]
+[Result "1-0"]
+[ECO "B46"]
+[Opening "Sicilian"]
+[Variation "Taimanov variation"]
+[HashCode "37bfd1d4"]
+[Epoch "Rook"]
+[WhiteCountry "BLR"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e6 5. Nc3 a6 6. Bf4 Nge7 7. Ndb5 axb5 8.
+Nxb5 d5 9. Bc7 Qd7 10. Nd6+ 1-0

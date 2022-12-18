@@ -1,0 +1,20 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Kruger"]
+[Black "Ebisch"]
+[Result "1-0"]
+[ECO "E18"]
+[Opening "Queen's Indian"]
+[Variation "old main line, 7.Nc3"]
+[HashCode "81f23405"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2 Be7 6. O-O O-O 7. Nc3 Ne4 8.
+Nxe4 Bxe4 9. Bf4 d5 10. cxd5 exd5 11. Nd2 Bxg2 12. Kxg2 Nd7 13. e4 dxe4 14.
+Nxe4 Nf6 15. Nxf6+ Bxf6 16. Be5 Qd5+ 17. Qf3 Qxf3+ 18. Kxf3 Bxe5 19. dxe5
+Rfe8 20. Rfe1 Rad8 21. Rad1 Kf8 22. Ke4 f6 23. f4 fxe5 24. fxe5 Kf7 25. b4
+a6 26. Rxd8 Rxd8 27. Rc1 Rd7 28. h4 Ke8 29. a4 Re7 30. g4 Kd7 31. Kd5 Kc8
+32. e6 Kd8 33. Rf1 a5 34. Rf8+ Re8 35. Rxe8+ Kxe8 36. b5 1-0
+

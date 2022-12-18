@@ -1,0 +1,18 @@
+[Event "Tallinn"]
+[Site "Tallinn"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Ritov, Boris"]
+[Black "Veingold, Aleksandr"]
+[Result "1/2-1/2"]
+[ECO "E19"]
+[Opening "Queen's Indian"]
+[Variation "old main line, 9.Qxc3"]
+[HashCode "4e1ff515"]
+[Epoch "Rook"]
+[BlackID "4500032"]
+[BlackCountry "EST"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2 Be7 6. O-O O-O 7. Nc3 Ne4 8. Qc2
+Nxc3 9. Qxc3 Bf6 10. b3 c5 11. Bb2 Nc6 12. Qd2 d6 13. e4 cxd4 14. Nxd4 Nxd4 15.
+Bxd4 Bxd4 16. Qxd4 Qc7 1/2-1/2

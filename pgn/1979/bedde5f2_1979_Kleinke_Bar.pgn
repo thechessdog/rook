@@ -1,0 +1,16 @@
+[Event "corr DDR-I"]
+[Site "corr DDR-I"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Kleinke, Uwe"]
+[Black "Bar"]
+[Result "1-0"]
+[ECO "A00"]
+[Opening "Polish (Sokolsky) opening"]
+[HashCode "bedde5f2"]
+[Epoch "Rook"]
+[WhiteID "24670030"]
+[WhiteCountry "GER"]
+
+1. b4 a6 2. Bb2 e6 3. a4 Nf6 4. b5 d5 5. e3 Nbd7 6. Nf3 Nb6 7. bxa6 Bd7 8. axb7
+Ra7 9. a5 Na4 10. Bxf6 Qxf6 11. b8=Q+ 1-0

@@ -1,0 +1,19 @@
+[Event "Vilnius"]
+[Site "Vilnius"]
+[Date "1978.01.01"]
+[Round "15"]
+[White "Dvoretsky, Mark Izrailovich"]
+[Black "Tukmakov, Vladimir B"]
+[Result "1/2-1/2"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "dbcd4385"]
+[Epoch "Rook"]
+[BlackID "14100096"]
+[BlackCountry "UKR"]
+[WhiteCountry "RUS"]
+
+1. e4 c5 2. c3 e6 3. d4 d5 4. exd5 exd5 5. Nf3 Nc6 6. Bb5 Bd6 7. dxc5 Bxc5 8.
+O-O Ne7 9. Nbd2 O-O 10. Nb3 Bd6 11. Bg5 Bg4 12. Be2 h6 13. Bh4 Qb6 14. Bg3 Bxg3
+15. hxg3 Nf5 1/2-1/2

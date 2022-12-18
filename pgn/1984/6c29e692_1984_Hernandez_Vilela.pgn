@@ -1,0 +1,17 @@
+[Event "CUB-ch"]
+[Site "Cuba"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Hernandez, Roman"]
+[Black "Vilela, Jose Luis"]
+[Result "1/2-1/2"]
+[ECO "E12"]
+[Opening "Queen's Indian"]
+[Variation "4.Nc3"]
+[HashCode "6c29e692"]
+[Epoch "Rook"]
+[WhiteCountry "CUB"]
+[BlackCountry "EST"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 b6 4. Nc3 Bb7 5. a3 d5 6. cxd5 Nxd5 7. e3 Nd7 8. Bd3
+c5 9. Nxd5 Bxd5 10. dxc5 Bxc5 11. O-O O-O 12. b4 1/2-1/2

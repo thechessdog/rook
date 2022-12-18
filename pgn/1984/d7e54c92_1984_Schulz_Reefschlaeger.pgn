@@ -1,0 +1,20 @@
+[Event "Bundesliga 8384"]
+[Site "Duitsland tt"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Schulz, Klaus-Juergen"]
+[Black "Reefschlaeger, Helmut, Dr."]
+[Result "0-1"]
+[ECO "D31"]
+[Opening "QGD"]
+[Variation "semi-Slav, Marshall gambit"]
+[HashCode "d7e54c92"]
+[Epoch "Rook"]
+[BlackID "4600878"]
+[BlackCountry "GER"]
+[WhiteCountry "GER"]
+
+1. c4 e6 2. Nc3 d5 3. d4 c6 4. e4 dxe4 5. Nxe4 Bb4+ 6. Bd2 Qxd4 7. Bxb4 Qxe4+
+8. Be2 Nd7 9. Nf3 c5 10. Bc3 Ngf6 11. O-O O-O 12. Bd3 Qg4 13. h3 Qh5 14. Qd2 b6
+15. Qf4 Bb7 16. Ne5 Nxe5 17. Bxe5 Rad8 18. Rad1 Be4 19. g4 Nxg4 20. Bd6 Rxd6
+21. Qxd6 Qxh3 22. f3 Ne3 0-1

@@ -1,0 +1,25 @@
+[Event "Bagneaux"]
+[Site "Bagneaux"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Stoica, Valentin"]
+[Black "Ghitescu, Theodor"]
+[Result "1-0"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Byrne (English) attack"]
+[HashCode "40cfbfe9"]
+[Epoch "Rook"]
+[WhiteID "1200070"]
+[WhiteCountry "ROU"]
+[BlackCountry "ROU"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e6 7. g4 h6 8. h4
+Nc6 9. Rg1 d5 10. exd5 Nxd5 11. Nxd5 exd5 12. g5 hxg5 13. hxg5 Rh4 14. g6 f6
+15. Qd2 Nxd4 16. Bxd4 Re4+ 17. Be2 Bf5 18. f3 Re6 19. O-O-O Qd7 20. Bd3 Bxd3
+21. Qxd3 O-O-O 22. Kb1 Rde8 23. Qb3 Rc6 24. Bc3 Rc5 25. Bd4 Rc6 26. a3 Bc5 27.
+Rg2 Qf5 28. Bxc5 Rxc5 29. Rd3 Kb8 30. Qb6 Rc6 31. Qd4 Re5 32. Rb3 Re7 33. Qb4
+Qe5 34. Ka2 Qd6 35. Qd4 Rc4 36. Qd3 Qc6 37. c3 a5 38. Rh2 a4 39. Rb4 Rxb4 40.
+axb4 Qc4+ 41. Qxc4 dxc4 42. b5 Re5 43. b6 Kc8 44. Rh7 Re7 45. Rh4 Re6 46. Rxc4+
+Kb8 47. Rc7 Rxb6 48. Rxg7 f5 49. Ka3 Ka7 50. Rf7 Rxg6 51. Rxf5 Ra6 52. Rf4 b5
+53. Rf7+ 1-0

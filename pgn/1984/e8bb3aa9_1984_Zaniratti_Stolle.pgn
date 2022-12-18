@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Zaniratti"]
+[Black "Stolle"]
+[Result "1-0"]
+[ECO "B18"]
+[Opening "Caro-Kann"]
+[Variation "classical, 6.h4"]
+[HashCode "e8bb3aa9"]
+[Epoch "Rook"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6 7. h5 Bh7 8.
+Nf3 Nd7 9. Bd3 Bxd3 10. Qxd3 Qc7 11. Bd2 e6 12. Qe2 Ngf6 13. O-O-O O-O-O
+14. Ne5 Nxe5 15. dxe5 Nd7 16. f4 Be7 17. Ne4 Nc5 18. Nc3 Na6 19. Rhg1 Bc5
+20. Be3 Bxe3+ 21. Qxe3 Kb8 22. a3 Qa5 23. Qg3 Qc5 24. Ne4 Qb6 25. Nd6 Qc7
+26. Qxg7 Rhf8 27. f5 exf5 28. Nxf5 Nc5 29. Nxh6 Qe7 30. Rgf1 1-0
+

@@ -1,0 +1,20 @@
+[Event "Laren"]
+[Site "Laren"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Van den Bergh, P."]
+[Black "Weyerstrass, Ronald"]
+[Result "0-1"]
+[ECO "C00"]
+[Opening "French"]
+[Variation "Steinitz attack"]
+[HashCode "fe3fa532"]
+[Epoch "Rook"]
+
+1. e4 e6 2. e5 d5 3. exd6 Bxd6 4. d4 Nd7 5. Nf3 b6 6. d5 Qe7 7. Be3 Bb7 8. Bc4
+exd5 9. Bxd5 c6 10. Bb3 O-O-O 11. O-O Ne5 12. Nbd2 c5 13. Nxe5 Qxe5 14. Qg4+
+Kb8 15. Qg3 Qf5 16. Qg5 Ne7 17. Rad1 f6 18. Qxf5 Nxf5 19. Nc4 Bc7 20. a4 a6 21.
+Bc1 Nd4 22. Ne3 b5 23. axb5 axb5 24. Ba2 Be4 25. c4 b4 26. b3 Ne2+ 27. Kh1 Nc3
+28. Rxd8+ Rxd8 29. f3 Nxa2 30. fxe4 Nxc1 31. Rxc1 Bf4 32. Rd1 Re8 33. Nd5 Rxe4
+34. Kg1 Be5 35. Rd2 Re1+ 36. Kf2 Rb1 37. Rd3 Bxh2 38. g3 Bg1+ 39. Kf3 Bd4 40.
+Ne7 0-1

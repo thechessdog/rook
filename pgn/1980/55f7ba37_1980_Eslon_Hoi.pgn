@@ -1,0 +1,19 @@
+[Event "Can Picafort"]
+[Site "Can Picafort"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Eslon, Jaan"]
+[Black "Hoi, Carsten"]
+[Result "1/2-1/2"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, 6.Bd3"]
+[HashCode "55f7ba37"]
+[Epoch "Rook"]
+[BlackID "1400100"]
+[BlackCountry "DEN"]
+[WhiteCountry "SWE"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. f4 Nf6 5. Nf3 O-O 6. Bd3 Na6 7. e5 Nd7 8. Ne4
+c5 9. Neg5 h6 10. Nxf7 Rxf7 11. e6 Rf6 12. exd7 Bxd7 13. O-O cxd4 14. Nxd4 Nc5
+15. Be2 Qb6 16. Rb1 1/2-1/2

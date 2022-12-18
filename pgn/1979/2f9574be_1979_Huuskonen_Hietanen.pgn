@@ -1,0 +1,20 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Huuskonen, Veli"]
+[Black "Hietanen, Pauli"]
+[Result "1-0"]
+[ECO "E40"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Taimanov variation"]
+[HashCode "2f9574be"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 Nc6 5. Ne2 d5 6. a3 Be7 7. cxd5 exd5 8.
+Nf4 Bf5 9. Qb3 Na5 10. Qa4+ Nc6 11. Qb3 Na5 12. Qa4+ Nc6 13. Ba6 Bc8 14.
+O-O O-O 15. Bd3 a6 16. b4 g5 17. Nfe2 Bd6 18. Qc2 Ne7 19. f3 Ng6 20. e4
+dxe4 21. fxe4 Nh5 22. e5 Be7 23. Bb2 c6 24. Ne4 a5 25. Rf2 axb4 26. a4 b3
+27. Qxb3 Be6 28. Bc4 Bxc4 29. Qxc4 Nhf4 30. Nxf4 Nxf4 31. h4 b5 32. Qxc6
+Nd3 33. Qh6 Kh8 34. Rf6 1-0
+

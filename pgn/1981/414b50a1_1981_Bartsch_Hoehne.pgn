@@ -1,0 +1,18 @@
+[Event "corr ch11-DDR"]
+[Site "corr ch11-DDR"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Bartsch, G."]
+[Black "Hoehne, E."]
+[Result "0-1"]
+[ECO "C70"]
+[Opening "Ruy Lopez"]
+[Variation "Taimanov (chase/wing/accelerated counterthrust) variation"]
+[HashCode "414b50a1"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 b5 5. Bb3 Na5 6. O-O d6 7. d4 exd4 8.
+Nxd4 Bb7 9. Qe1 c5 10. Bd2 Nxb3 11. Nxb3 b4 12. Bf4 Be7 13. N1d2 a5 14. f3
+Ba6 15. Rf2 a4 16. Nc1 Nf6 17. Ne2 Nh5 18. Be3 O-O 19. Nf4 Nxf4 20. Bxf4
+Re8 21. Rd1 Bf6 22. e5 Bxe5 23. Bxe5 Rxe5 24. Ne4 f5 0-1
+

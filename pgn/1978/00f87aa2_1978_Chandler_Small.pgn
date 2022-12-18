@@ -1,0 +1,20 @@
+[Event "Wellington"]
+[Site "Wellington"]
+[Date "1978.??.??"]
+[Round "?"]
+[White "Chandler, Murray G"]
+[Black "Small, Vernon A"]
+[Result "1-0"]
+[ECO "B46"]
+[Opening "Sicilian"]
+[Variation "Taimanov variation"]
+[HashCode "00f87aa2"]
+[Epoch "Rook"]
+[WhiteID "400050"]
+[BlackID "4300017"]
+[WhiteCountry "NZL"]
+[BlackCountry "NZL"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 a6 6. f4 Qc7 7. Be3 b5 8. Bd3
+Nxd4 9. Bxd4 Qxf4 10. Rf1 Qh6 11. Qf3 f6 12. Be3 Qh4+ 13. g3 Qh3 14. e5 Rb8 15.
+Ne4 Bb7 16. exf6 gxf6 17. Nxf6+ Kd8 18. Qf4 1-0

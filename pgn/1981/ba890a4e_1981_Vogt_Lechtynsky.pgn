@@ -1,0 +1,20 @@
+[Event "Halle"]
+[Site "Halle"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Vogt, Lothar"]
+[Black "Lechtynsky, Jiri"]
+[Result "1/2-1/2"]
+[ECO "B15"]
+[Opening "Caro-Kann"]
+[Variation "Gurgenidze system"]
+[HashCode "ba890a4e"]
+[Epoch "Rook"]
+[WhiteID "4611292"]
+[WhiteCountry "GER"]
+[BlackID "300217"]
+[BlackCountry "CZE"]
+
+1. e4 c6 2. d4 d5 3. Nc3 g6 4. Nf3 dxe4 5. Nxe4 Bf5 6. Bd3 Bxe4 7. Bxe4 Nf6 8.
+Bd3 Bg7 9. O-O O-O 10. Re1 Nbd7 11. c4 c5 12. d5 b5 13. cxb5 Nb6 14. a4 Nfxd5
+15. a5 Nb4 16. Be4 N6d5 17. Bd2 Rb8 18. b6 1/2-1/2

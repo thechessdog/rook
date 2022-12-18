@@ -1,0 +1,19 @@
+[Event "corr EU"]
+[Site "corr EU"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Van der Kooij"]
+[Black "Zengerling"]
+[Result "1-0"]
+[ECO "C34"]
+[Opening "KGA"]
+[Variation "Becker defence"]
+[HashCode "fe97be9f"]
+[Epoch "Rook"]
+[WhiteID "1011812"]
+[WhiteCountry "NED"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 h6 4. d4 g5 5. h4 g4 6. Ne5 h5 7. Bc4 Nh6 8. Bxf4 f6
+9. O-O fxe5 10. Bg5 Be7 11. Bxh6 Rh7 12. Bg8 Rxh6 13. Bf7+ Kf8 14. Bxh5+ Bf6
+15. Nc3 d6 16. dxe5 Rxh5 17. Rxf6+ Kg7 18. Qd5 Qe8 19. Raf1 Nd7 20. Qf7+ Qxf7
+21. Rxf7+ Kg6 22. e6 Rh8 23. exd7 Bxd7 24. Rxd7 Rac8 25. Nd5 Kh6 26. Rf6+ 1-0

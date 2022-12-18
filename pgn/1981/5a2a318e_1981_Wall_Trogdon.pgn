@@ -1,0 +1,15 @@
+[Event "Dayton,OH"]
+[Site "Dayton,OH"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Wall, Bill"]
+[Black "Trogdon, Tim"]
+[Result "1-0"]
+[ECO "A45"]
+[Opening "Trompovsky attack (Ruth, Opovcensky opening)"]
+[HashCode "5a2a318e"]
+[Epoch "Rook"]
+[WhiteCountry "USA"]
+
+1. d4 Nf6 2. Bg5 e6 3. e4 Be7 4. Nc3 h6 5. Bh4 Nxe4 6. Bxe7 Nxc3 7. Bxd8 Nxd1
+8. Bxc7 Nxb2 9. Rb1 Na4 10. Bd6 b6 11. Rb4 Nc3 12. Rc4 1-0

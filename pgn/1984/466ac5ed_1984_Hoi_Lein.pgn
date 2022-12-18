@@ -1,0 +1,21 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Hoi"]
+[Black "Lein, Anatoly"]
+[Result "1-0"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack"]
+[HashCode "466ac5ed"]
+[Epoch "Rook"]
+[BlackID "2000270"]
+[BlackCountry "USA"]
+
+1. d4 d5 2. Nc3 Nf6 3. Bg5 Nbd7 4. e3 e6 5. Bd3 c5 6. Nf3 c4 7. Be2 Bb4 8. O-O
+Bxc3 9. bxc3 Qa5 10. Bxf6 Nxf6 11. Qe1 Ne4 12. Nd2 Qxc3 13. Nxe4 Qxe1 14. Rfxe1
+dxe4 15. Bxc4 Bd7 16. Be2 Rc8 17. c4 Ke7 18. Reb1 Rc7 19. Kf1 g5 20. Ke1 h5 21.
+a4 Bc6 22. a5 g4 23. Bd1 Rd8 24. Ba4 e5 25. d5 Bxa4 26. Rxa4 Rdc8 27. Rbb4 Kd6
+28. Kd2 h4 29. Kc3 h3 30. g3 Rd7 31. Rb5 Rc5 32. Rxc5 Kxc5 33. Rb4 Re7 34. Rb5+
+Kd6 35. a6 b6 36. c5+ bxc5 37. Kc4 Rc7 38. Rb8 Kd7 39. Rg8 Ke7 40. Rxg4 Rc8 41.
+Rxe4 Rb8 42. Rxe5+ Kd6 43. Rf5 Rb4+ 44. Kc3 Rb1 45. Rxf7 1-0

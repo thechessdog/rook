@@ -1,0 +1,26 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Nepomnishay, M."]
+[Black "Agapov, Konstantin"]
+[Result "1-0"]
+[ECO "A77"]
+[Opening "Benoni"]
+[Variation "classical, 9...Re8, 10.Nd2"]
+[HashCode "fb014303"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. Nd2 Bg7 8.
+e4 O-O 9. Be2 Re8 10. O-O Nbd7 11. Re1 Ne5 12. a4 g5 13. Nf1 h6 14. Ne3 Nh7
+15. Bd2 Nf8 16. Nf5 Bxf5 17. exf5 a6 18. b3 Nfd7 19. Rb1 Nf6 20. Qc2 Rb8
+21. Ra1 Ned7 22. Bc4 Rxe1+ 23. Rxe1 Ne5 24. Be2 Qd7 25. f4 gxf4 26. Bxf4
+Re8 27. Rf1 Neg4 28. Qd3 Qe7 29. h3 Ne5 30. Qd2 Kh7 31. Rf2 Ned7 32. Bd3
+Qe1+ 33. Qxe1 Rxe1+ 34. Rf1 Ne5 35. Bc2 Rxf1+ 36. Kxf1 h5 37. Bxe5 dxe5 38.
+d6 Bf8 39. Ne4 Nxe4 40. d7 Be7 41. Bxe4 Kh6 42. Bxb7 a5 43. g3 Kg5 44. Be4
+Bd8 45. Kg2 Kf6 46. h4 Ke7 47. Bd5 f6 48. Kf3 Kxd7 49. Ke4 Be7 50. Bf7 Kd6
+51. Bxh5 Bf8 52. Bf3 Bh6 53. Kd3 Bc1 54. Be4 Ke7 55. Kc4 Ba3 56. g4 Bb4 57.
+h5 Bd2 58. Kxc5 Kf7 59. Kd6 Bb4+ 60. Kd7 Bd2 61. Bd5+ Kg7 62. Ke6 Bc3 63.
+g5 fxg5 64. f6+ Kh6 65. Bf3 e4 66. Bg4 e3 67. f7 Bb4 68. Kd7 Kg7 69. Ke8
+Ba3 70. h6+ Kxh6 71. f8=Q+ Bxf8 72. Kxf8 Kg6 73. Ke7 1-0
+

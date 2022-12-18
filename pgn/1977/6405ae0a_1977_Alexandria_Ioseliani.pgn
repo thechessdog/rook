@@ -1,0 +1,22 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Alexandria, Nana"]
+[Black "Ioseliani, Nana"]
+[Result "1-0"]
+[ECO "B52"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky attack, 3...Bd7"]
+[HashCode "6405ae0a"]
+[Epoch "Rook"]
+[WhiteID "13600230"]
+[WhiteCountry "GEO"]
+[BlackID "13600079"]
+[BlackCountry "GEO"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. a4 Nf6 5. e5 dxe5 6. Nxe5 Bxb5 7. axb5 Qd5 8.
+Nf3 Qe4+ 9. Qe2 Qxc2 10. Nc3 Nbd7 11. Ne5 e6 12. Nxd7 Nxd7 13. O-O Qf5 14. Rd1
+Bd6 15. d4 cxd4 16. Ne4 Bb8 17. Ra4 Nf6 18. Nxf6+ Qxf6 19. Qe4 Qe5 20. Qxb7
+Qxh2+ 21. Kf1 Qh1+ 22. Ke2 Qh5+ 23. Ke1 Qe5+ 24. Kf1 Qd5 25. Qxd5 exd5 26. b6
+Bd6 27. Rdxd4 Kd7 28. bxa7 Rac8 29. Be3 Ke7 30. Rxd5 1-0

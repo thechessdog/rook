@@ -1,0 +1,18 @@
+[Event "corr Wch11"]
+[Site "corr Wch11"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Andersson, G."]
+[Black "Kondali"]
+[Result "1-0"]
+[ECO "C72"]
+[Opening "Ruy Lopez"]
+[Variation "modern Steinitz defence, 5.O-O"]
+[HashCode "71e96748"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. O-O Bd7 6. d4 Nf6 7. Bxc6 Bxc6
+8. Re1 Be7 9. Nc3 O-O 10. dxe5 dxe5 11. Qxd8 Raxd8 12. Nxe5 Bxe4 13. Nxe4
+Nxe4 14. Nd3 f5 15. f3 Bh4 16. g3 Nxg3 17. hxg3 Bxg3 18. Re2 h6 19. Bf4
+Rxd3 20. Bxg3 Rd7 21. Be5 g5 22. Bc3 1-0
+

@@ -1,0 +1,20 @@
+[Event "Bundesliga 8182"]
+[Site "Duitsland tt"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Vogel, Robert"]
+[Black "Borngaesser, Rene"]
+[Result "0-1"]
+[ECO "A80"]
+[Opening "Dutch, 2.Bg5 variation"]
+[HashCode "a26263c0"]
+[Epoch "Rook"]
+[WhiteID "4604253"]
+[WhiteCountry "GER"]
+[BlackID "4600940"]
+[BlackCountry "GER"]
+
+1. d4 f5 2. Bg5 Nf6 3. Bxf6 exf6 4. Nc3 d5 5. e3 Be6 6. Bd3 c6 7. Qf3 g6 8. h4
+h5 9. Nge2 Bd6 10. Nf4 Bf7 11. O-O-O Nd7 12. Kb1 Qc7 13. Ka1 O-O-O 14. Rc1 Kb8
+15. g3 Qa5 16. Rhd1 Rhe8 17. Bf1 Nb6 18. Bd3 c5 19. dxc5 Bxc5 20. Nfe2 d4 21.
+Nxd4 Bxd4 22. exd4 Rc8 23. d5 Rxc3 24. bxc3 Bxd5 25. Qf4+ Ka8 26. a4 Re4 0-1

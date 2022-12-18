@@ -1,0 +1,19 @@
+[Event "corr Wch sf"]
+[Site "corr Wch sf"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Sauermann, Wilfried"]
+[Black "Berry, Jonathan"]
+[Result "1-0"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, 6.Bd3"]
+[HashCode "0aed25af"]
+[Epoch "Rook"]
+[BlackID "2600463"]
+[BlackCountry "CAN"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. f4 Nf6 5. Nf3 O-O 6. Bd3 Nc6 7. O-O e5 8. fxe5
+dxe5 9. d5 Nd4 10. Nxe5 Nxd5 11. Nxd5 Bxe5 12. Bf4 Qd6 13. Qd2 c6 14. Bxe5 Qxe5
+15. Nf6+ Kg7 16. Rf2 Rd8 17. Raf1 Be6 18. c3 Nb5 19. Ng4 Qh5 20. h3 h6 21. Rf3
+Nd6 22. c4 Nxe4 23. Qe3 f5 24. Bxe4 1-0

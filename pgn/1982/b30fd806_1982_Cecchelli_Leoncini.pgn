@@ -1,0 +1,22 @@
+[Event "Genova"]
+[Site "Genova"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Cecchelli, E."]
+[Black "Leoncini, Mario"]
+[Result "0-1"]
+[ECO "B23"]
+[Opening "Sicilian"]
+[Variation "Grand Prix attack"]
+[HashCode "b30fd806"]
+[Epoch "Rook"]
+[BlackID "801712"]
+[BlackCountry "ITA"]
+
+1. e4 c5 2. Nc3 Nc6 3. f4 e6 4. Nf3 d5 5. e5 Nge7 6. g3 Nf5 7. Bg2 Bd7 8. O-O
+a6 9. d3 Qc7 10. Bh3 g6 11. Bg2 O-O-O 12. a4 h5 13. Ng5 Be8 14. Bd2 b6 15. Na2
+Be7 16. Nf3 c4 17. b4 cxb3 18. cxb3 Bc5+ 19. Kh1 h4 20. Nxh4 Nxh4 21. gxh4 Qe7
+22. Be1 Kb7 23. Rc1 Be3 24. Rc2 Nd4 25. Rc4 Bc6 26. Rc3 Rc8 27. b4 Nf5 28. b5
+axb5 29. axb5 Bxb5 30. Rxc8 Rxc8 31. Nb4 Nxh4 32. Qb3 Nxg2 33. Kxg2 Qc5 34. Kg3
+Ra8 35. Bf2 Rh8 36. Nc2 d4 37. Na3 Bc6 38. Nc4 g5 39. Bxe3 dxe3 40. fxg5 Qd4
+41. Rxf7+ Kc8 42. Nd6+ Kb8 43. Rf4 e2 44. Rxd4 e1=Q+ 45. Kf4 Rh4# 0-1

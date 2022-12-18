@@ -1,0 +1,17 @@
+[Event "Lubniewice ch-POL"]
+[Site "Lubniewice ch-POL"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Kaczmarek, Adam"]
+[Black "Grabczewski, Romuald"]
+[Result "1/2-1/2"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical system, 5.Be2"]
+[HashCode "746aa31a"]
+[Epoch "Rook"]
+[BlackCountry "POL"]
+
+1. e4 g6 2. d4 Bg7 3. Nf3 d6 4. Nc3 Nf6 5. Be2 O-O 6. O-O Nc6 7. Be3 Bg4 8. Qd2
+e5 9. d5 Nb8 10. Rad1 a6 11. Ne1 Bxe2 12. Qxe2 b5 13. Bg5 h6 14. Bh4 b4 15. Nb1
+c6 16. dxc6 g5 17. Bg3 Nxc6 18. Nf3 Qc7 19. c3 Rab8 1/2-1/2

@@ -1,0 +1,16 @@
+[Event "Tubingen"]
+[Site "Tubingen"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Moser"]
+[Black "Knuplesch, M."]
+[Result "1-0"]
+[ECO "A04"]
+[Opening "Reti"]
+[Variation "Lisitsin gambit deferred"]
+[HashCode "d783fba1"]
+[Epoch "Rook"]
+
+1. Nf3 f5 2. d3 Nf6 3. e4 fxe4 4. dxe4 Nxe4 5. Bd3 Nf6 6. Ng5 g6 7. h4 d5
+8. h5 Bg7 9. h6 Bf8 10. Nxh7 Rxh7 11. Bxg6+ Rf7 12. h7 1-0
+

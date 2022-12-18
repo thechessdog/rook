@@ -1,0 +1,18 @@
+[Event "Taylorsville,NC"]
+[Site "Taylorsville,NC"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Wall, Bill"]
+[Black "Wall, Jerry"]
+[Result "1-0"]
+[ECO "B97"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7...Qb6"]
+[HashCode "d52d27c4"]
+[Epoch "Rook"]
+[WhiteCountry "USA"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qb6 8. Qd2
+Qxb2 9. Nb3 Qa3 10. Bxf6 gxf6 11. Be2 Nc6 12. O-O Bd7 13. f5 e5 14. Rab1 Nb4
+15. Nb5 Bxb5 16. Bxb5+ Nc6 17. Qa5 Qxa5 18. Nxa5 Rc8 19. Nxb7 Ke7 20. Rfd1 Nd8
+21. Nxd6 Rxc2 22. Nxf7 Nxf7 23. Rd7+ Ke8 24. Rc7+ 1-0

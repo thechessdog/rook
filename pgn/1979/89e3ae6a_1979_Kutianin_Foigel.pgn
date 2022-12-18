@@ -1,0 +1,19 @@
+[Event "corr ch-SU"]
+[Site "corr ch-SU"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Kutianin, J."]
+[Black "Foigel"]
+[Result "1-0"]
+[ECO "B84"]
+[Opening "Sicilian"]
+[Variation "Scheveningen, classical, Nd7 system"]
+[HashCode "89e3ae6a"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e6 7. O-O Nbd7
+8. a4 Qc7 9. f4 Be7 10. Bf3 h6 11. Qe1 Nf8 12. e5 dxe5 13. fxe5 N6d7 14.
+Qf2 Nxe5 15. Bh5 g6 16. Bf4 gxh5 17. Bxe5 Qxe5 18. Qxf7+ Kd8 19. Rad1 Bd7
+20. Rfe1 Qf6 21. Qxh5 Kc8 22. Ne4 Qg6 23. Qe5 Rg8 24. g3 Qg7 25. Nd6+ Kb8
+26. Qc5 h5 27. Qb6 Ra7 28. N6f5 exf5 29. Nc6+ Bxc6 30. Rd8+ 1-0
+

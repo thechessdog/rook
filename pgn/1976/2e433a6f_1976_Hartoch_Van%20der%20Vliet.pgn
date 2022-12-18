@@ -1,0 +1,19 @@
+[Event "Leeuwarden ch-NED"]
+[Site "Leeuwarden ch-NED"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Hartoch, Robert G"]
+[Black "Van der Vliet, Fred"]
+[Result "1/2-1/2"]
+[ECO "B26"]
+[Opening "Sicilian"]
+[Variation "closed, 6.Be3"]
+[HashCode "2e433a6f"]
+[Epoch "Rook"]
+[BlackID "1000659"]
+[BlackCountry "NED"]
+[WhiteCountry "NLD"]
+
+1. e4 c5 2. Nc3 d6 3. g3 Nc6 4. Bg2 g6 5. d3 Bg7 6. Be3 Rb8 7. Qd2 b5 8. f4 b4
+9. Nd1 e6 10. Nf3 Nd4 11. O-O Ne7 12. h3 O-O 13. Kh2 Bd7 14. Bf2 f5 15. exf5
+exf5 16. Re1 Nxf3+ 17. Bxf3 Bc6 1/2-1/2

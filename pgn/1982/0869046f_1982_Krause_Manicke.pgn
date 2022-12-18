@@ -1,0 +1,18 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Krause"]
+[Black "Manicke"]
+[Result "0-1"]
+[ECO "C58"]
+[Opening "Two knights defence"]
+[HashCode "0869046f"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 Na5 6. Bb5+ Bd7 7. Qe2 Bd6
+8. b4 Bxb4 9. Qxe5+ Be7 10. d6 cxd6 11. Bxd7+ Kf8 12. Qf5 g6 13. Nxf7 Kxf7
+14. Be6+ Kg7 15. Qh3 Ne4 16. d4 Ng5 17. Bxg5 Bxg5 18. f4 Bxf4 19. O-O Rf8
+20. Nc3 Qf6 21. Ne2 Rae8 22. d5 Nc4 23. Rab1 Be3+ 24. Qxe3 Qxf1+ 25. Rxf1
+Rxf1+ 26. Kxf1 Nxe3+ 27. Kg1 Nxc2 0-1
+

@@ -1,0 +1,20 @@
+[Event "Kopenhagen open"]
+[Site "Kopenhagen open"]
+[Date "1980.06.01"]
+[Round "2"]
+[White "Mestel, A Jonathan"]
+[Black "Finnlaugsson, Gunnar"]
+[Result "1-0"]
+[ECO "C10"]
+[Opening "French"]
+[Variation "Rubinstein variation"]
+[HashCode "4cd45228"]
+[Epoch "Rook"]
+[WhiteID "400122"]
+[WhiteCountry "ENG"]
+[BlackID "1701550"]
+[BlackCountry "ISL"]
+
+1. e4 e6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Nxf6+ Nxf6 7. Bg5 c6
+8. Bd3 Bd6 9. O-O b6 10. Ne5 h6 11. Bh4 g5 12. Bg3 Bb7 13. f4 Bxe5 14. dxe5
+gxf4 15. Rxf4 Nd7 16. Bh4 Qc7 17. Rxf7 1-0

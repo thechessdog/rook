@@ -1,0 +1,27 @@
+[Event "IBM-B"]
+[Site "Amsterdam II"]
+[Date "1978.07.01"]
+[Round "4"]
+[White "Bohm, Hans"]
+[Black "Van der Sterren, Paul"]
+[Result "0-1"]
+[ECO "A48"]
+[Opening "King's Indian"]
+[Variation "London system"]
+[HashCode "9ec182b9"]
+[Epoch "Rook"]
+[WhiteID "1000306"]
+[WhiteCountry "NED"]
+[BlackID "1000071"]
+[BlackCountry "NED"]
+
+1. Nf3 Nf6 2. d4 g6 3. Bf4 Bg7 4. e3 O-O 5. Be2 c5 6. O-O b6 7. Nbd2 Bb7 8. c3
+d6 9. h3 Nbd7 10. a4 a6 11. Qb1 Rc8 12. Rc1 Rc7 13. Bh2 Qa8 14. Qa2 Bh6 15. Rd1
+Rcc8 16. Ne1 Nd5 17. Bf3 cxd4 18. exd4 Nf4 19. Bxb7 Qxb7 20. Ndf3 Nf6 21. Bxf4
+Bxf4 22. d5 Bh6 23. Rd4 Rc5 24. Rad1 Rfc8 25. Nc2 b5 26. a5 Rc4 27. Ne3 Rxd4
+28. Rxd4 Bxe3 29. fxe3 Rc4 30. Rxc4 bxc4 31. e4 Qc7 32. Qa4 Nxe4 33. Qc6 Qxa5
+34. Qxc4 Nf6 35. b4 Qxd5 36. Qxa6 Ne4 37. c4 Qd3 38. Qc6 Kg7 39. b5 Nc5 40. Qc7
+Qe3+ 41. Kh1 Qe4 42. b6 f6 43. Nd2 Qe1+ 44. Kh2 Kf7 45. Nb3 Qe5+ 46. Kh1 Nxb3
+47. b7 Nc5 48. b8=Q Na6 49. Qcc8 Nxb8 50. Qxb8 f5 51. Qc8 h5 52. Qa8 g5 53. Qa2
+Kg7 54. Qd2 Kg6 55. Qa2 g4 56. hxg4 hxg4 57. c5 dxc5 58. g3 Qh8+ 59. Kg1 Qd4+
+60. Kh2 c4 61. Qa6+ Kg7 0-1

@@ -1,0 +1,25 @@
+[Event "corr SWE/K tt"]
+[Site "corr SWE/K tt"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Ahlstrom, Per"]
+[Black "Runnby, Jan"]
+[Result "1/2-1/2"]
+[ECO "C59"]
+[Opening "two knights defence"]
+[Variation "Steinitz variation"]
+[HashCode "0b0f4791"]
+[Epoch "Rook"]
+[WhiteID "1713868"]
+[BlackID "1701290"]
+[WhiteCountry "SWE"]
+[BlackCountry "SWE"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 Na5 6. Bb5+ c6 7. dxc6 bxc6 8.
+Be2 h6 9. Nh3 Bc5 10. d3 O-O 11. O-O Nb7 12. Kh1 Bb6 13. Ng1 Bf5 14. Be3 Nc5
+15. Na3 Qe7 16. Nc4 Bc7 17. f4 exf4 18. Bxf4 Bxf4 19. Rxf4 Bg6 20. Qd2 Rad8 21.
+Re1 Ne6 22. Rff1 Qc5 23. Qe3 Qb5 24. a3 Nd4 25. Qc1 Rfe8 26. Bd1 Ne4 27. Nf3
+Qc5 28. Nfe5 Nd6 29. Nxg6 Nxc4 30. Qf4 Nd6 31. b4 Qc3 32. Ne7+ Kh8 33. Qe5 N6f5
+34. Qc7 Nxe7 35. Rxe7 Nxc2 36. Bh5 Qxd3 37. Rexf7 Rg8 38. Qxc6 Nxa3 39. Bg6 Qd6
+40. Qe4 Nc4 41. Qxc4 Qxg6 42. Rxa7 Rd2 43. Rg1 Re8 44. Ra2 Qd6 45. Rxd2 Qxd2
+46. b5 Qf2 47. h3 Re2 48. Kh2 Rb2 49. Qc6 Qe2 50. b6 Qa6 51. Qe8+ 1/2-1/2

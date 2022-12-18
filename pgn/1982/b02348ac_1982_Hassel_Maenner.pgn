@@ -1,0 +1,18 @@
+[Event "corr BDF/H"]
+[Site "corr BDF/H"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Hassel, A."]
+[Black "Maenner, M."]
+[Result "1-0"]
+[ECO "A88"]
+[Opening "Dutch"]
+[Variation "Leningrad, main variation with c6"]
+[HashCode "b02348ac"]
+[Epoch "Rook"]
+
+1. c4 f5 2. d4 Nf6 3. g3 g6 4. Bg2 Bg7 5. Nf3 O-O 6. Nc3 d6 7. O-O c6 8. d5
+e5 9. dxe6 Bxe6 10. Qd3 Na6 11. Ng5 Qe7 12. Bf4 Rad8 13. Nxe6 Qxe6 14. Rad1
+Nc5 15. Qc2 Rfe8 16. b3 Nfe4 17. Nxe4 Nxe4 18. Rd3 Nc3 19. Re3 Nd1 20. Rxe6
+Rxe6 21. Rxd1 Rxe2 22. Qxe2 1-0
+

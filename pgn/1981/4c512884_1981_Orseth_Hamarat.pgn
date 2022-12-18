@@ -1,0 +1,16 @@
+[Event "corr Wch14 sf"]
+[Site "corr Wch14 sf"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Orseth, D."]
+[Black "Hamarat, T."]
+[Result "1-0"]
+[ECO "A45"]
+[Opening "Trompovsky attack (Ruth, Opovcensky opening)"]
+[HashCode "4c512884"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. Bg5 c5 3. Bxf6 gxf6 4. d5 Qb6 5. Qc1 f5 6. g3 Bg7 7. c3 e5 8.
+Bh3 Qg6 9. Nf3 Bf6 10. Na3 e4 11. Nh4 Bxh4 12. gxh4 d6 13. Qf4 Ke7 14. Nc4
+Re8 15. Ne3 Kd8 16. O-O-O Kc7 17. Rhg1 Qh5 18. Nc4 Rd8 19. Rg8 1-0
+

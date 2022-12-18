@@ -1,0 +1,19 @@
+[Event "Nice"]
+[Site "Nice"]
+[Date "1981.01.01"]
+[Round "3"]
+[White "Ciocaltea, Victor"]
+[Black "Nikolic, Zivoslav"]
+[Result "1/2-1/2"]
+[ECO "C77"]
+[Opening "Ruy Lopez"]
+[Variation "Wormald (Alapin) attack"]
+[HashCode "e39de61f"]
+[Epoch "Rook"]
+[BlackID "900540"]
+[BlackCountry "SRB"]
+[WhiteCountry "ROU"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. Qe2 Be7 6. c3 b5 7. Bb3 O-O 8. d3
+d6 9. Nbd2 Na5 10. Bc2 c5 11. Nf1 Re8 12. h3 Nc6 13. g4 d5 14. Ng3 dxe4 15.
+dxe4 Be6 16. Nf5 Nd7 1/2-1/2

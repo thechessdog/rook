@@ -1,0 +1,19 @@
+[Event "White Knights"]
+[Site "Leningrad"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Aseev, Konstantin N"]
+[Black "Kochyev, Alexander"]
+[Result "1/2-1/2"]
+[ECO "B42"]
+[Opening "Sicilian"]
+[Variation "Kan, 5.Bd3"]
+[HashCode "7856bdbb"]
+[Epoch "Rook"]
+[BlackID "4100719"]
+[BlackCountry "RUS"]
+[WhiteCountry "RUS"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Nf6 6. O-O Qc7 7. c4 Nc6 8. Be3
+Ne5 9. h3 b6 10. f4 Nxd3 11. Qxd3 Bb7 12. Nd2 Bb4 13. N4b3 Bxd2 14. Nxd2 Qc6
+15. Rfe1 Nxe4 16. Nxe4 Qxe4 17. Qxe4 Bxe4 1/2-1/2

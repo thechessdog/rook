@@ -1,0 +1,21 @@
+[Event "Yugoslavia"]
+[Site "Yugoslavia"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Gligorić, Svetozar"]
+[Black "Marjanovic, Slavoljub"]
+[Result "0-1"]
+[ECO "E42"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5, 5.Ne2 (Rubinstein)"]
+[HashCode "bb299ef7"]
+[Epoch "Rook"]
+[WhiteCountry "SRB"]
+[BlackID "900354"]
+[BlackCountry "SRB"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Ne2 cxd4 6. exd4 d5 7. c5 Ne4 8. Bd2
+Nxd2 9. Qxd2 a5 10. a3 Bxc3 11. Nxc3 a4 12. Bd3 b6 13. O-O Ba6 14. f4 bxc5 15.
+dxc5 Qa5 16. f5 Qxc5+ 17. Kh1 Bxd3 18. Qxd3 O-O 19. f6 Nd7 20. Qg3 g6 21. Qf4
+Rfc8 22. Nxa4 Qb5 23. Qh6 Nxf6 24. Rxf6 Rxa4 25. Raf1 Rc7 26. R6f2 Rac4 27. Qg5
+Qc5 28. b4 Qxf2 0-1

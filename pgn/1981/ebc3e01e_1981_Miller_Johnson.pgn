@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Miller"]
+[Black "Johnson"]
+[Result "0-1"]
+[ECO "A00"]
+[Opening "Polish"]
+[Variation "Tuebingen variation"]
+[HashCode "ebc3e01e"]
+[Epoch "Rook"]
+[BlackID "25736477"]
+[BlackCountry "IND"]
+
+1. b4 Nh6 2. Bb2 Rg8 3. e4 d6 4. d4 g5 5. Bc4 e6 6. Nc3 Nc6 7. b5 Ne7 8. Nge2
+Ng6 9. g3 c6 10. a4 d5 11. Bd3 f5 12. e5 c5 13. dxc5 Bxc5 14. f4 Ng4 15. Ba3
+Bf2+ 16. Kd2 Be3+ 17. Ke1 Nf2 18. Qb1 Nxh1 19. Nd1 gxf4 0-1

@@ -1,0 +1,25 @@
+[Event "Bundesliga 8081"]
+[Site "Duitsland tt"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Rottstaedt, Werner"]
+[Black "Strobel, Walter"]
+[Result "0-1"]
+[ECO "E12"]
+[Opening "Queen's Indian"]
+[Variation "Petrosian system"]
+[HashCode "d6867085"]
+[Epoch "Rook"]
+[WhiteID "4605543"]
+[WhiteCountry "GER"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. a3 Bb7 5. Nc3 d5 6. Bg5 Be7 7. e3 O-O 8. Be2
+Nbd7 9. O-O Re8 10. b4 h6 11. Bh4 dxc4 12. Bxc4 Nd5 13. Bxe7 Qxe7 14. Nxd5 exd5
+15. Bd3 Rec8 16. Qb3 c6 17. h3 Rc7 18. Rfc1 Rac8 19. Bf5 g6 20. Bxd7 Qxd7 21.
+Ne5 Qe6 22. Nd3 Ba6 23. Rc3 Kg7 24. Rac1 Bc4 25. Qd1 Ra8 26. Ne5 b5 27. e4 a5
+28. bxa5 Rxa5 29. exd5 cxd5 30. Rg3 Rca7 31. Rcc3 Qd6 32. Qf3 R5a6 33. Kh2 Qf6
+34. Qe3 h5 35. Qf3 Qxf3 36. Rgxf3 f6 37. Nxc4 bxc4 38. Rfe3 Kf7 39. Kg3 Re7 40.
+Kf4 Rae6 41. Rxe6 Rxe6 42. f3 Re2 43. g3 g5+ 44. Kf5 Rb2 45. f4 Rb3 46. Rc1
+Rxg3 47. fxg5 Rxg5+ 48. Kf4 Rg8 49. a4 Ra8 50. Ra1 Ke6 51. a5 Kd6 52. Kf5 Kc6
+53. Ke6 Re8+ 54. Kxf6 Kb5 55. a6 c3 56. a7 Ra8 57. Ke5 Kc4 58. Ra6 c2 59. Rc6+
+Kd3 60. Kxd5 Rxa7 61. Ke6 Ra3 0-1

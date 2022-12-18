@@ -1,0 +1,27 @@
+[Event "Regionalliga Nord"]
+[Site "RLN 8182"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Nagorni, Walter"]
+[Black "Werner, R."]
+[Result "0-1"]
+[ECO "B92"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Opovcensky variation"]
+[HashCode "b76482d2"]
+[Epoch "Rook"]
+[WhiteID "4666593"]
+[WhiteCountry "GER"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8. Be3
+O-O 9. O-O Be6 10. f4 Qc7 11. Bf3 Nbd7 12. Qe1 exf4 13. Bxf4 Ne5 14. h3 Rac8
+15. Rd1 Nfd7 16. Kh1 b5 17. a3 Nc4 18. Bc1 Bf6 19. Nd4 Bxd4 20. Rxd4 Nde5 21.
+Nd5 Bxd5 22. Rxd5 Rfd8 23. b3 Nb6 24. Rd2 Nxf3 25. Rxf3 d5 26. e5 Qc6 27. Bb2
+Nd7 28. Qg3 Nc5 29. Qf4 Qe6 30. Re2 Ne4 31. Kh2 Rd7 32. Bd4 Rdc7 33. Qc1 a5 34.
+Qe1 Ra8 35. c3 h6 36. Rc2 a4 37. b4 Rac8 38. Qe2 Rc4 39. Rd3 R8c6 40. Qf3 Ng5
+41. Qd1 Qf5 42. Rf2 Qe6 43. Rc2 Ne4 44. Qf3 Rc7 45. Re2 Ng5 46. Qf2 Qg6 47. Qg3
+Qe6 48. Qf2 R7c6 49. Qg3 Ne4 50. Qf3 Rc7 51. Ree3 R4c6 52. Qf4 Qc8 53. Rf3 Re6
+54. Kg1 Rce7 55. Kh2 Qc4 56. Rd1 Qe2 57. Rg1 Qb2 58. Qc1 Qxc1 59. Rxc1 Nd2 60.
+Rd3 Nc4 61. Bc5 Rd7 62. Bd6 f6 63. Bc5 fxe5 64. Rcd1 e4 65. Rxd5 Rxd5 66. Rxd5
+e3 67. Bxe3 Rxe3 68. Rxb5 Rxc3 69. Rc5 Rc2 70. b5 Nxa3 71. Rf5 Rc4 72. b6 Rb4
+73. Ra5 Nc4 74. Ra8+ Kh7 0-1

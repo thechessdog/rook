@@ -1,0 +1,17 @@
+[Event "corr NS/I"]
+[Site "corr NS/I"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Hokkanen, Kari"]
+[Black "Malinen, Hannu"]
+[Result "0-1"]
+[ECO "C86"]
+[Opening "Ruy Lopez"]
+[Variation "Worrall attack, solid line"]
+[HashCode "ae4cb11c"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Qe2 b5 7. Bb3 d6 8.
+c3 Na5 9. Bc2 c5 10. b4 cxb4 11. cxb4 Nc6 12. a3 Bg4 13. h3 Nd4 14. Qd3
+Bxf3 15. gxf3 Nh5 16. Bd1 Nf4 17. Qe3 Qd7 0-1
+

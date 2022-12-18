@@ -1,0 +1,17 @@
+[Event "corr NS/II"]
+[Site "corr NS/II"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Tahtinen, Hans"]
+[Black "Silius, Aulis"]
+[Result "0-1"]
+[ECO "C08"]
+[Opening "French"]
+[Variation "Tarrasch, open, 4.ed ed"]
+[HashCode "45e2c165"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. exd5 exd5 5. Ngf3 a6 6. dxc5 Bxc5 7. Nb3 Ba7
+8. Bd3 Qe7+ 9. Be2 Nf6 10. O-O O-O 11. Nfd4 Nc6 12. Re1 Ne4 13. Be3 Ne5 14.
+Nd2 f5 15. N4f3 Nxf2 16. Bxf2 Bxf2+ 17. Kh1 Bxe1 18. Qxe1 Re8 0-1
+

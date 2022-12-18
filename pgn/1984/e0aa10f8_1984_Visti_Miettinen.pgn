@@ -1,0 +1,20 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Visti"]
+[Black "Miettinen"]
+[Result "0-1"]
+[ECO "E48"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 O-O, 5.Bd3 d5"]
+[HashCode "e0aa10f8"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. cxd5 exd5 7. Bd2 c5 8.
+b3 Nc6 9. Nge2 Ng4 10. h3 Qh4 11. O-O Nf6 12. Be1 cxd4 13. Nxd4 Nxd4 14.
+exd4 Re8 15. Rc1 Bd7 16. f4 Qh6 17. Qf3 Rac8 18. Bb1 Ne4 19. Ne2 Rxc1 20.
+Nxc1 Qb6 21. Ne2 Bxe1 22. Rxe1 Nd2 23. Qf2 Bb5 24. Bc2 Bxe2 25. Bd3 Qb4 26.
+Rxe2 Rxe2 27. Bxe2 Ne4 28. Qe3 Qe1+ 29. Kh2 h5 30. Qd3 Nf2 31. Qb5 Qh1+ 32.
+Kg3 Ne4+ 33. Kf3 Qe1 0-1
+

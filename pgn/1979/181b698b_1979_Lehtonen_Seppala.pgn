@@ -1,0 +1,18 @@
+[Event "corr NS/ME"]
+[Site "corr NS/ME"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Lehtonen, Markku"]
+[Black "Seppala, Reijo"]
+[Result "0-1"]
+[ECO "D94"]
+[Opening "Gruenfeld"]
+[Variation "5.e3"]
+[HashCode "181b698b"]
+[Epoch "Rook"]
+[WhiteID "507040"]
+[WhiteCountry "FIN"]
+
+1. c4 Nf6 2. Nc3 g6 3. Nf3 d5 4. d4 Bg7 5. e3 O-O 6. Be2 c5 7. dxc5 Qa5 8. cxd5
+Nxd5 9. Qxd5 Bxc3+ 10. bxc3 Qxc3+ 11. Qd2 Qxa1 12. O-O Qg7 13. Bb2 f6 14. Bc4+
+Kh8 15. Qd5 Nc6 16. Ng5 h6 17. Nf3 Rd8 18. Qe4 Bf5 19. Qf4 e5 20. Qg3 Bd3 0-1

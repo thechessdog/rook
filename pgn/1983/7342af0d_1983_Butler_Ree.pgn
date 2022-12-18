@@ -1,0 +1,17 @@
+[Event "Lima,OH"]
+[Site "Lima,OH"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Butler, Eric"]
+[Black "Ree, Hans"]
+[Result "0-1"]
+[ECO "D30"]
+[Opening "QGD"]
+[Variation "Capablanca-Duras variation"]
+[HashCode "7342af0d"]
+[Epoch "Rook"]
+[BlackID "1000098"]
+[BlackCountry "NED"]
+
+1. Nf3 d5 2. d4 Nf6 3. c4 e6 4. Bg5 h6 5. Bh4 Bb4+ 6. Nbd2 dxc4 7. Qa4+ Nc6 8.
+e3 Qd5 9. Bxc4 Qxc4 0-1

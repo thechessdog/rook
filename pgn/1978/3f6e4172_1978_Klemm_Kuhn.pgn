@@ -1,0 +1,19 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Klemm"]
+[Black "Kuhn"]
+[Result "1/2-1/2"]
+[ECO "A99"]
+[Opening "Dutch"]
+[Variation "Ilyin-Genevsky variation with b3"]
+[HashCode "3f6e4172"]
+[Epoch "Rook"]
+
+1. c4 f5 2. Nf3 Nf6 3. g3 d6 4. d4 e6 5. Nc3 Be7 6. Bg2 O-O 7. O-O Qe8 8.
+b3 a5 9. Bb2 Na6 10. a3 c6 11. Re1 Qg6 12. e4 Nxe4 13. Nxe4 fxe4 14. Rxe4
+e5 15. Qe2 Bf5 16. Re3 e4 17. Nd2 d5 18. f3 Bg5 19. Rc3 Rae8 20. fxe4 dxe4
+21. Re1 Bg4 22. Qxg4 Be3+ 23. Rcxe3 Qxg4 24. Bxe4 Nc7 25. d5 cxd5 26. cxd5
+Qd7 27. Nc4 Qf7 28. d6 Rxe4 1/2-1/2
+

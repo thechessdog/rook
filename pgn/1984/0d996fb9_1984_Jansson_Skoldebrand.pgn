@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Jansson, Borje"]
+[Black "Skoldebrand"]
+[Result "0-1"]
+[ECO "B00"]
+[Opening "KP"]
+[Variation "Nimzovich defence"]
+[HashCode "0d996fb9"]
+[Epoch "Rook"]
+[WhiteID "1700189"]
+[WhiteCountry "SWE"]
+
+1. e4 Nc6 2. Nc3 e6 3. d4 Bb4 4. g4 d5 5. e5 h5 6. Be3 Bd7 7. gxh5 Nh6 8. Bd3
+Nxd4 9. Bxd4 c5 10. Be3 d4 11. Bxh6 dxc3 12. Bxg7 cxb2+ 13. Kf1 bxa1=Q 14. Qxa1
+Bc6 15. Bxh8 Bxh1 16. Qc1 Qd5 17. f3 Bxf3 18. Bb5+ Kd8 19. c3 Kc7 20. Bf6 Ba5
+21. h6 c4 22. Kf2 Bb6+ 23. Kg3 Rg8+ 24. Bg7 Bh1 25. Qf1 Qxe5+ 26. Kh4 Qe4+ 0-1

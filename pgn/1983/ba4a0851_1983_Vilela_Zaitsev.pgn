@@ -1,0 +1,26 @@
+[Event "Havana"]
+[Site "Havana"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Vilela, Jose Luis"]
+[Black "Zaitsev, Igor"]
+[Result "1-0"]
+[ECO "D58"]
+[Opening "QGD"]
+[Variation "Tartakower (Makagonov-Bondarevsky) system"]
+[HashCode "ba4a0851"]
+[Epoch "Rook"]
+[WhiteCountry "EST"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. Bg5 h6 6. Bh4 O-O 7. e3 b6 8. Be2
+Nbd7 9. cxd5 exd5 10. O-O Bb7 11. Rc1 c5 12. Qc2 Ne4 13. Bxe7 Qxe7 14. dxc5
+Nxc3 15. Qxc3 bxc5 16. Rfe1 Rfc8 17. Bd3 a5 18. Qa3 Rc7 19. Rc2 Nf8 20. Rec1 c4
+21. Qxe7 Rxe7 22. Be2 a4 23. Nd4 Ne6 24. Nf5 Rd7 25. a3 h5 26. Rd1 g6 27. Nd4
+Nxd4 28. Rxd4 Bc6 29. h4 Rb8 30. e4 dxe4 31. Rdxc4 Bd5 32. Rd4 Be6 33. Rxd7
+Bxd7 34. Kh2 Be6 35. Rd2 Bb3 36. Kg3 Rb6 37. Kf4 Re6 38. Rd4 Bc2 39. Rd2 Bb3
+40. Rd4 Bc2 41. Ke3 Kf8 42. Rc4 Bb3 43. Rxe4 Rc6 44. Bd3 Rc1 45. g3 f6 46. Kd2
+Rd1+ 47. Kc3 Rc1+ 48. Kb4 Rd1 49. Kc3 Rc1+ 50. Kb4 Rd1 51. Bb5 Rd2 52. Re2 Rd4+
+53. Kc3 Rd5 54. Bd3 g5 55. Re4 Rc5+ 56. Kb4 Rd5 57. Kc3 Rc5+ 58. Kd2 Rd5 59.
+Rb4 Kg7 60. Rb7+ Kf8 61. Rb5 Rd8 62. Rc5 gxh4 63. gxh4 Rd4 64. Rxh5 Bc4 65. Kc3
+Rxd3+ 66. Kxc4 Rf3 67. Rb5 Rxf2 68. Rb4 Ke7 69. Kb5 f5 70. Kxa4 Ke6 71. Rb6+
+Ke5 72. b4 f4 73. Rb8 Rh2 74. Rh8 f3 75. Ka5 Rd2 76. b5 Rd5 77. Rc8 1-0

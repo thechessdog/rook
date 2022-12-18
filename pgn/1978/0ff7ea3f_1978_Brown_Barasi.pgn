@@ -1,0 +1,18 @@
+[Event "London"]
+[Site "London"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Brown, S."]
+[Black "Barasi, D."]
+[Result "1-0"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack"]
+[HashCode "0ff7ea3f"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 c5 4. Bxf6 gxf6 5. e3 Nc6 6. Qh5 cxd4 7. exd4
+Be6 8. Bb5 Qd6 9. Nge2 O-O-O 10. O-O-O h6 11. f4 Rg8 12. Qf3 Bf5 13. h3 Nb4
+14. Ba4 Qa6 15. Bb3 e6 16. g4 Be4 17. Nxe4 dxe4 18. Qxe4 Nxa2+ 19. Kb1 Nb4
+20. f5 exf5 21. gxf5 Rd7 22. Bxf7 Rg7 23. Be6 Re7 24. c3 Qa2+ 25. Bxa2 Rxe4
+26. Ng3 Re3 27. Nf1 Rd3 28. Rxd3 Nxd3 29. Be6 Kc7 30. Bxd7 Kxd7 31. Ne3 1-0
+

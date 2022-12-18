@@ -1,0 +1,21 @@
+[Event "Rumania"]
+[Site "Rumania"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Pavlov, Mircea"]
+[Black "Mititelu, Gheorghe"]
+[Result "1-0"]
+[ECO "B82"]
+[Opening "Sicilian"]
+[Variation "Scheveningen, 6.f4"]
+[HashCode "8f8f2d6a"]
+[Epoch "Rook"]
+[WhiteID "1200160"]
+[WhiteCountry "ROU"]
+[BlackCountry "ROU"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. f4 Nc6 7. Be3 Be7 8. Qd2
+O-O 9. Be2 e5 10. Nf3 Ng4 11. Nd5 Nxe3 12. Qxe3 exf4 13. Qxf4 Be6 14. O-O-O
+Bxd5 15. Rxd5 Qc7 16. Kb1 Rac8 17. c3 a6 18. Rhd1 Rfe8 19. Rf5 Bf8 20. Bc4 Nd8
+21. Bd5 Ne6 22. Qg4 g6 23. Nd4 Bg7 24. Rxf7 Qxf7 25. Nxe6 h5 26. Nxg7 hxg4 27.
+Nxe8 Rxe8 28. Bxf7+ Kxf7 29. Rxd6 Rxe4 30. Kc2 Ke7 31. Kd3 Rf4 32. Ke3 1-0

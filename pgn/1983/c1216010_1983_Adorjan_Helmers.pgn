@@ -1,0 +1,20 @@
+[Event "Gjovik"]
+[Site "Gjovik"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Adorjan, Andras"]
+[Black "Helmers, Knut J"]
+[Result "1/2-1/2"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "classical variation (5.Bf4)"]
+[HashCode "c1216010"]
+[Epoch "Rook"]
+[WhiteID "700096"]
+[WhiteCountry "HUN"]
+[BlackID "1500023"]
+[BlackCountry "NOR"]
+
+1. c4 e6 2. Nc3 d5 3. d4 Nf6 4. Nf3 Be7 5. Bf4 O-O 6. e3 c5 7. dxc5 Bxc5 8. a3
+Nc6 9. Be2 dxc4 10. Qc2 b5 11. O-O a6 12. Ng5 Bb7 13. Rad1 Qe7 14. Nge4 Nxe4
+15. Nxe4 e5 16. Bg5 f6 17. Bh4 1/2-1/2

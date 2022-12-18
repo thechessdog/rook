@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Inkinen, Jorma"]
+[Black "Raty, Sakari"]
+[Result "0-1"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "classical attack, Chigorin variation"]
+[HashCode "766b903a"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Be7 7. O-O Nc6
+8. Re1 Bg4 9. c4 Nf6 10. cxd5 Nxd5 11. Be4 Qd7 12. Nc3 Nf6 13. Bxc6 Qxc6
+14. Bf4 Bxf3 15. gxf3 Qd7 16. Qb3 c6 17. Qb4 Kd8 18. Qa4 Nd5 19. Nxd5 Qxd5
+20. Rac1 f6 21. Bd2 Bd6 22. Bb4 Bc7 23. Be7+ Kd7 24. Rc5 Qxf3 25. d5 Bxh2+
+0-1
+

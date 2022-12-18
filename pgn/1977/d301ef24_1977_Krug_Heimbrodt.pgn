@@ -1,0 +1,18 @@
+[Event "corr DDR/M"]
+[Site "corr DDR/M"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Krug, N."]
+[Black "Heimbrodt, W."]
+[Result "1/2-1/2"]
+[ECO "B07"]
+[Opening "Pirc"]
+[Variation "Byrne variation"]
+[HashCode "d301ef24"]
+[Epoch "Rook"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Bg5 c6 5. Qd2 h6 6. Be3 Bg7 7. f3 Qa5 8.
+O-O-O Nbd7 9. Kb1 b5 10. a3 a6 11. Nge2 Bb7 12. g4 Qc7 13. h4 Nb6 14. Ng3
+Nfd7 15. h5 c5 16. hxg6 fxg6 17. Bxh6 Bxd4 18. Qg5 O-O-O 19. Nge2 Bxc3 20.
+Nxc3 Ne5 21. Be2 Rdg8 22. Qf4 1/2-1/2
+

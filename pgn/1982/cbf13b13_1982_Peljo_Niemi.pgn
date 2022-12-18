@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Peljo"]
+[Black "Niemi"]
+[Result "1-0"]
+[ECO "E14"]
+[Opening "Queen's Indian"]
+[Variation "4.e3"]
+[HashCode "cbf13b13"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. e3 Bb7 5. Bd3 c5 6. O-O Be7 7. b3 O-O 8.
+Bb2 cxd4 9. exd4 d5 10. Nbd2 Nc6 11. Rc1 Re8 12. Re1 Rc8 13. Ne5 Bf8 14.
+Ndf3 Nxe5 15. Nxe5 g6 16. c5 bxc5 17. Bb5 Re7 18. dxc5 Qa5 19. Ba4 Rxc5 20.
+Rxc5 Qxc5 21. Nd3 1-0
+

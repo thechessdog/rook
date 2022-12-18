@@ -1,0 +1,21 @@
+[Event "Randaberg"]
+[Site "Randaberg"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Steedman, Jim"]
+[Black "Haugen, Arild"]
+[Result "1-0"]
+[ECO "E45"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Bronstein (Byrne) variation"]
+[HashCode "f38b434c"]
+[Epoch "Rook"]
+[BlackID "1505076"]
+[BlackCountry "NOR"]
+
+1. d4 e6 2. c4 Nf6 3. Nc3 Bb4 4. e3 b6 5. Ne2 Ba6 6. a3 Bxc3+ 7. Nxc3 d5 8. b3
+Nc6 9. Bd3 Na5 10. b4 dxc4 11. Qa4+ Qd7 12. Bc2 Nb3 13. Bxb3 cxb3 14. Qxa6 Qc6
+15. Qb5 Qxb5 16. Nxb5 O-O 17. Bb2 c6 18. Nd6 a5 19. bxa5 bxa5 20. Ke2 Rfd8 21.
+Nb7 Rdb8 22. Nc5 a4 23. Rhc1 Nd5 24. Nd3 Rb6 25. Rc4 f6 26. Rac1 Ne7 27. Nc5 e5
+28. dxe5 fxe5 29. Rxa4 Rd8 30. Rd1 Nd5 31. Ra7 Nc3+ 32. Bxc3 Rxd1 33. Kxd1 b2
+34. Bxb2 Rxb2 1-0

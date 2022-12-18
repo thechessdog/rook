@@ -1,0 +1,19 @@
+[Event "corr Italy"]
+[Site "corr Italy"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Battaglini"]
+[Black "Dorobeck"]
+[Result "1-0"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, positional main line"]
+[HashCode "dff703fa"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Nf3 Qc7 8.
+a4 b6 9. Bd3 Bd7 10. Ng5 g6 11. Qf3 Nf5 12. Bd2 Nc6 13. Nxf7 Kxf7 14. Bb5
+Kg7 15. Qf4 Rhf8 16. g4 Nfe7 17. Qh6+ Kh8 18. Bxc6 Nxc6 19. f4 c4 20. h4
+Ne7 21. Qg5 Rf7 22. h5 Rg8 23. hxg6 Nxg6 24. Qh6 Qd8 25. f5 exf5 26. Bg5
+Qf8 27. Bf6+ Rgg7 28. Qxh7# 1-0
+

@@ -1,0 +1,19 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Henriksen, Jacup"]
+[Black "Erhard, Steen"]
+[Result "0-1"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...g6"]
+[HashCode "1cafa5de"]
+[Epoch "Rook"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 g6 6. Nf3 Bg7 7. Be2 O-O 8.
+O-O Nc6 9. h3 Bf5 10. Be3 Rc8 11. c5 Ne4 12. Nxe4 dxe4 13. Nh4 Nxd4 14. Bc4
+e5 15. Nxf5 Nxf5 16. Qa4 Qe7 17. b4 a6 18. Qb3 Nd4 19. Qc3 Kh8 20. Kh1 f5
+21. Bc1 f4 22. Bd5 Qh4 23. Bxe4 f3 24. Qd3 Rcd8 25. Kh2 fxg2 26. Bxg2 Nf3+
+27. Qxf3 Rxf3 28. Bxf3 e4 0-1
+

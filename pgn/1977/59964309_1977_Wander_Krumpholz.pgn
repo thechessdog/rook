@@ -1,0 +1,18 @@
+[Event "corr DDR/M"]
+[Site "corr DDR/M"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Wander, R."]
+[Black "Krumpholz, W."]
+[Result "1/2-1/2"]
+[ECO "A62"]
+[Opening "Benoni"]
+[Variation "fianchetto variation"]
+[HashCode "59964309"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 c5 4. d5 exd5 5. cxd5 d6 6. Nf3 g6 7. g3 Bg7 8.
+Bg2 O-O 9. O-O Re8 10. Re1 Nbd7 11. Nd2 a6 12. a4 Rb8 13. Nc4 Nb6 14. Nxb6
+Qxb6 15. a5 Qd8 16. Qd3 b5 17. axb6 Rxb6 18. e4 Ng4 19. h3 Ne5 20. Qe2 a5
+21. Rxa5 Rxb2 22. Bxb2 Qxa5 23. Ra1 Qc7 24. f4 Nd7 25. Nb5 Qb6 1/2-1/2
+

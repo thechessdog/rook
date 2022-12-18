@@ -1,0 +1,18 @@
+[Event "Los Angeles"]
+[Site "Los Angeles"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Dahlberg"]
+[Black "Peters, John A"]
+[Result "0-1"]
+[ECO "E12"]
+[Opening "Queen's Indian"]
+[Variation "Petrosian system"]
+[HashCode "35e05955"]
+[Epoch "Rook"]
+[BlackID "2000229"]
+[BlackCountry "USA"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. a3 c5 5. d5 Ba6 6. Qc2 exd5 7. cxd5 d6 8. Nc3
+g6 9. Bf4 Bg7 10. Qa4+ b5 11. Nxb5 O-O 12. O-O-O Bxb5 13. Qxb5 Ne4 14. Be3 Nd7
+15. Qa4 Qf6 0-1

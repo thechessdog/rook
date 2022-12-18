@@ -1,0 +1,20 @@
+[Event "corr SCO-GER"]
+[Site "corr SCO-GER"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Weissleder, W."]
+[Black "Beecham, C."]
+[Result "0-1"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "classical attack, Chigorin variation"]
+[HashCode "537aa42f"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Be7 7. O-O Nc6
+8. Re1 Bg4 9. c3 f5 10. Qb3 O-O 11. Nbd2 Kh8 12. h3 Bh5 13. Qxb7 Rf6 14.
+Qb3 Rb8 15. Qd1 g5 16. Be2 Qg8 17. Nxe4 dxe4 18. Ne5 Be8 19. Bh5 Rh6 20.
+Bxe8 Qxe8 21. Nxc6 Qxc6 22. d5 Qg6 23. Qd4+ Bf6 24. Qxa7 Re8 25. f3 Rh4 26.
+Be3 g4 27. fxg4 fxg4 28. Bd4 gxh3 29. Bxf6+ Kg8 30. Re2 Rg4 31. Qf2 e3 32.
+Qf3 Rg3 33. Qf1 Rf8 34. Kh2 Rxf6 35. Qxf6 Rxg2+ 0-1
+

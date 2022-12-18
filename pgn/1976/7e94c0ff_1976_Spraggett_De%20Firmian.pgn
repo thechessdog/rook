@@ -1,0 +1,23 @@
+[Event "Toronto CAN op"]
+[Site "Toronto CAN op"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Spraggett, Kevin"]
+[Black "De Firmian, Nick"]
+[Result "0-1"]
+[ECO "B91"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Zagreb (fianchetto) variation"]
+[HashCode "7e94c0ff"]
+[Epoch "Rook"]
+[BlackID "2000105"]
+[WhiteID "2600013"]
+[WhiteCountry "CAN"]
+[BlackCountry "USA"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. g3 g6 7. Bg2 Bg7 8. O-O
+O-O 9. h3 Nc6 10. Nde2 Bd7 11. Kh2 Rc8 12. Nd5 Nxd5 13. exd5 Ne5 14. Nd4 Qa5
+15. c3 Nc4 16. Qd3 b5 17. Qe4 Rfe8 18. a3 Qc7 19. Rd1 Na5 20. Qc2 Qb6 21. Be3
+Nc4 22. Bg5 Bxd4 23. Rxd4 Nxa3 24. Qe2 Nc2 25. Rad1 Nxd4 26. Rxd4 Qc7 27. Qd2
+f6 28. Be3 Rcd8 29. Rf4 Bc8 30. Bd4 Rf8 31. h4 Rde8 32. h5 Qd8 33. hxg6 hxg6
+34. Rh4 g5 35. Be4 gxh4 36. Qh6 hxg3+ 37. fxg3 Rf7 0-1

@@ -1,0 +1,21 @@
+[Event "Stockholm"]
+[Site "Stockholm"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Gruenberg, Rainer"]
+[Black "Dory, Jeno"]
+[Result "0-1"]
+[ECO "E42"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5, 5.Ne2 (Rubinstein)"]
+[HashCode "77f4b281"]
+[Epoch "Rook"]
+[BlackID "700860"]
+[WhiteID "4601262"]
+[WhiteCountry "GER"]
+[BlackCountry "HUN"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Ne2 cxd4 6. exd4 O-O 7. a3 Be7 8. d5
+exd5 9. cxd5 Re8 10. d6 Bf8 11. g3 b6 12. Bg2 Nc6 13. Nb5 Ba6 14. a4 Re6 15.
+O-O Bxd6 16. Bh3 Bc5 17. Bxe6 fxe6 18. Bf4 Nd5 19. Qd2 Qf6 20. Bd6 Bxd6 21.
+Nxd6 Qf3 22. Nb5 Ne5 23. Ned4 Bb7 24. Qd1 Qg2+ 25. Kxg2 Nf4+ 26. Kg1 Nh3# 0-1

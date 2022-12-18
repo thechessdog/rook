@@ -1,0 +1,17 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Unger"]
+[Black "Hattendorf"]
+[Result "0-1"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "modern variation"]
+[HashCode "8dbfdd5d"]
+[Epoch "Rook"]
+
+1. b3 e5 2. Bb2 Nc6 3. e3 d5 4. Bb5 Bd6 5. Nf3 Qe7 6. d4 e4 7. Ne5 Qg5 8.
+Nxc6 Qxg2 9. Qh5 Qxh1+ 10. Kd2 Be6 11. Ne5+ c6 12. Nxc6 a6 13. Nc3 Qg2 14.
+Nxd5 axb5 0-1
+

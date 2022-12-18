@@ -1,0 +1,18 @@
+[Event "corr CCCA"]
+[Site "corr CCCA"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Richardson, K."]
+[Black "Smit, D."]
+[Result "1/2-1/2"]
+[ECO "C60"]
+[Opening "Ruy Lopez"]
+[Variation "fianchetto (Smyslov/Barnes) defence"]
+[HashCode "c2db1e94"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 g6 4. c3 d6 5. d4 Bd7 6. Qb3 Na5 7. Bxd7+ Qxd7
+8. Qc2 Bg7 9. O-O Nc6 10. Be3 Nf6 11. dxe5 Nxe5 12. Nbd2 O-O 13. Rfe1 Rfe8
+14. Bg5 Nxf3+ 15. Nxf3 Qc6 16. Nd4 Qc5 17. Bh4 d5 18. exd5 Nxd5 19. Qa4
+Rxe1+ 20. Rxe1 Nb6 21. Qd1 Qc4 22. a3 c5 23. Nf3 Qb5 1/2-1/2
+

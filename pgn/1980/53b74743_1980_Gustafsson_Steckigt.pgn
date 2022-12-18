@@ -1,0 +1,21 @@
+[Event "corr Wcup3"]
+[Site "corr Wcup3"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Gustafsson"]
+[Black "Steckigt"]
+[Result "1-0"]
+[ECO "E87"]
+[Opening "King's Indian"]
+[Variation "Saemisch, orthodox, 7.d5"]
+[HashCode "53b74743"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 O-O 5. Be3 d6 6. f3 e5 7. d5 Nh5 8. Qd2
+f5 9. O-O-O Nd7 10. exf5 gxf5 11. Bd3 a5 12. Bxf5 Rxf5 13. g4 Rf7 14. gxh5
+Qh4 15. h6 Bf8 16. Ne4 Nc5 17. Ne2 Bf5 18. N2c3 Bg6 19. Rdf1 Nxe4 20. fxe4
+Rxf1+ 21. Rxf1 Be7 22. Qg2 Rf8 23. Rg1 Rf7 24. h3 Bf8 25. Qg4 Qxg4 26. hxg4
+Rf3 27. Bg5 c6 28. a4 Kf7 29. dxc6 bxc6 30. Bd8 Bxh6+ 31. g5 Bf8 32. Bxa5
+Ke6 33. Bb6 Be7 34. a5 c5 35. Kc2 Kd7 36. a6 Kc6 37. Ba5 Rxc3+ 38. Kxc3
+Bxe4 39. a7 Kb7 40. Ra1 Ka8 41. Bc7 Bf3 42. Ra6 Bb7 43. Bxd6 1-0
+

@@ -1,0 +1,17 @@
+[Event "corr ch11-DDR"]
+[Site "corr ch11-DDR"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Koehn, H."]
+[Black "Hentzgen, K."]
+[Result "0-1"]
+[ECO "D71"]
+[Opening "Neo-Gruenfeld, 5.cd"]
+[HashCode "008af7f1"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 d5 5. cxd5 Nxd5 6. e4 Nb4 7. d5 c6 8.
+Ne2 cxd5 9. Qb3 N8a6 10. O-O d4 11. a3 Nc6 12. Nf4 O-O 13. Nd2 Ne5 14. Nd5
+e6 15. f4 Ng4 16. h3 Nc5 17. Qb5 b6 18. Nxb6 axb6 19. hxg4 Ba6 20. Qb4 Bxf1
+21. Bxf1 Ra4 22. Qb5 d3 23. e5 Bxe5 24. fxe5 Rxg4 0-1
+

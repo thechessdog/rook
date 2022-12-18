@@ -1,0 +1,19 @@
+[Event "Svendborg"]
+[Site "Svendborg"]
+[Date "1981.??.??"]
+[Round "7"]
+[White "Ost Hansen, Jacob"]
+[Black "Iskov, Gert"]
+[Result "1/2-1/2"]
+[ECO "A07"]
+[Opening "Reti"]
+[Variation "King's Indian attack, Pachman system"]
+[HashCode "6a058fd9"]
+[Epoch "Rook"]
+[BlackID "1400398"]
+[BlackCountry "DEN"]
+[WhiteCountry "DEN"]
+[WhiteID "1400096"]
+
+1. g3 d5 2. Nf3 g6 3. Bg2 Bg7 4. O-O e5 5. d3 Ne7 6. Nbd2 O-O 7. e4 Nbc6 8. c3
+a5 9. Qc2 h6 10. b3 Be6 11. Re1 1/2-1/2

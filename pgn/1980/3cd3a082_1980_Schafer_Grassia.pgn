@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Schafer, M."]
+[Black "Grassia, A."]
+[Result "1-0"]
+[ECO "D32"]
+[Opening "QGD"]
+[Variation "Tarrasch defence, 4.cd ed"]
+[HashCode "3cd3a082"]
+[Epoch "Rook"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c5 4. cxd5 exd5 5. dxc5 Nf6 6. Be3 Nc6 7. Nf3 Qa5
+8. Nd2 Be6 9. Nb3 Qb4 10. a3 Qc4 11. Rc1 O-O-O 12. Nd4 Nxd4 13. Bxd4 Qa6
+14. e3 Qc6 15. Nb5 Kd7 16. Nxa7 Qc7 17. c6+ bxc6 18. Nxc6 Qxc6 19. Rxc6
+Kxc6 20. Qa4+ 1-0
+

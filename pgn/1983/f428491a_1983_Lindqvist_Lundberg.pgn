@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Lindqvist"]
+[Black "Lundberg"]
+[Result "1-0"]
+[ECO "C05"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation"]
+[HashCode "f428491a"]
+[Epoch "Rook"]
+
+1. d4 e6 2. e4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Bd3 c5 6. c3 Nc6 7. Ne2 Qb6 8.
+Nf3 cxd4 9. cxd4 f6 10. exf6 Nxf6 11. O-O Bd6 12. Nc3 O-O 13. Be3 Bd7 14.
+a3 Rac8 15. Rc1 a6 16. b4 Na7 17. Ne5 Bb5 18. Bg5 Bxd3 19. Qxd3 Bxe5 20.
+dxe5 Nd7 21. Nxd5 Nxe5 22. Ne7+ 1-0
+

@@ -1,0 +1,21 @@
+[Event "Bundesliga 8283"]
+[Site "Duitsland tt"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Staller, Peter"]
+[Black "Witte, M."]
+[Result "1-0"]
+[ECO "B31"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (with ...g6, without ...d6)"]
+[HashCode "99876efc"]
+[Epoch "Rook"]
+[WhiteID "4601378"]
+[WhiteCountry "GER"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. Re1 e5 6. c3 Nge7 7. Bf1 O-O 8. d3
+d5 9. Nbd2 Rb8 10. a4 a6 11. exd5 Qxd5 12. a5 Re8 13. Ne4 Bg4 14. Be2 c4 15. h3
+Bxf3 16. Bxf3 Qxd3 17. Qa4 Qd8 18. Rd1 Qc7 19. Qxc4 Red8 20. Be3 Rxd1+ 21. Bxd1
+Rc8 22. Bb3 Nf5 23. Bb6 Qe7 24. Qd5 Nd8 25. Rd1 Ne6 26. Qd7 Re8 27. Bxe6 fxe6
+28. Qxe7 Rxe7 29. Rd8+ Bf8 30. Bc5 Rf7 31. Ng5 Rf6 32. Bxf8 Rxf8 33. Rd7 Rb8
+34. Nxh7 b6 35. Nf6+ Kf8 36. Ra7 Rd8 37. axb6 1-0

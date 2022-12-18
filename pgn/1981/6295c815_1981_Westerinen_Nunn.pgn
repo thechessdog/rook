@@ -1,0 +1,18 @@
+[Event "Wiesbaden"]
+[Site "Wiesbaden"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Westerinen, Heikki M.J."]
+[Black "Nunn, John D M"]
+[Result "1/2-1/2"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, 6.Be3"]
+[HashCode "6295c815"]
+[Epoch "Rook"]
+[WhiteID "500020"]
+[WhiteCountry "FIN"]
+[BlackID "400017"]
+[BlackCountry "ENG"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 O-O 6. Be3 b6 7. e5 Ng4 1/2-1/2

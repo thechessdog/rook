@@ -1,0 +1,18 @@
+[Event "Reggio Emilia8081"]
+[Site "Reggio Emilia"]
+[Date "1980.01.01"]
+[Round "13"]
+[White "Renman, Nils-Gustaf"]
+[Black "Paniagua, Roberto"]
+[Result "1/2-1/2"]
+[ECO "E19"]
+[Opening "Queen's Indian"]
+[Variation "old main line, 9.Qxc3"]
+[HashCode "3eac09a2"]
+[Epoch "Rook"]
+[BlackID "6600018"]
+[BlackCountry "PAN"]
+[WhiteCountry "SWE"]
+
+1. c4 Nf6 2. Nf3 e6 3. d4 b6 4. g3 Bb7 5. Bg2 Be7 6. O-O O-O 7. Nc3 Ne4 8. Qc2
+Nxc3 9. Qxc3 f5 10. b3 1/2-1/2

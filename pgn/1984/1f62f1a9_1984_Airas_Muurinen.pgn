@@ -1,0 +1,20 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Airas, Olavi"]
+[Black "Muurinen, L."]
+[Result "1-0"]
+[ECO "C64"]
+[Opening "Ruy Lopez"]
+[Variation "classical (Cordel) defence"]
+[HashCode "1f62f1a9"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. O-O Qf6 5. d3 h6 6. Be3 Nd4 7. Nxd4 exd4
+8. Bd2 a5 9. a4 Ne7 10. f4 c6 11. Bc4 d5 12. exd5 Nxd5 13. Bxd5 cxd5 14.
+Bxa5 O-O 15. Be1 b5 16. b4 Bd6 17. a5 Re8 18. Na3 Ba6 19. Rb1 Re7 20. Qg4
+Qe6 21. f5 Qe2 22. Qxe2 Rxe2 23. Bf2 Be5 24. Rbe1 Rxe1 25. Rxe1 f6 26. Bg3
+Re8 27. Nb1 Kf7 28. Nd2 Rc8 29. Rc1 h5 30. Nf3 Re8 31. Re1 Bc8 32. Bxe5
+fxe5 33. Rxe5 Rxe5 34. Nxe5+ Kf6 35. Nc6 Bxf5 36. Nxd4 Bc8 37. Nxb5 1-0
+

@@ -1,0 +1,23 @@
+[Event "China"]
+[Site "China"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Keene, Raymond D"]
+[Black "Blackstock, Lesly S F"]
+[Result "1-0"]
+[ECO "E47"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 O-O, 5.Bd3"]
+[HashCode "3f36e98c"]
+[Epoch "Rook"]
+[BlackID "2400200"]
+[WhiteID "400211"]
+[WhiteCountry "ENG"]
+[BlackCountry "SCO"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 c5 6. Ne2 cxd4 7. exd4 d5 8. O-O
+dxc4 9. Bxc4 Nc6 10. Be3 b6 11. a3 Be7 12. Qd3 Bb7 13. Rac1 Rc8 14. Rfd1 Re8
+15. Ba2 Qd7 16. Nf4 Rcd8 17. d5 exd5 18. Ncxd5 Nxd5 19. Nxd5 Ne5 20. Qf5 Bd6
+21. Qh5 Bxd5 22. Bxd5 g6 23. Qh4 Ng4 24. Bg5 Rc8 25. Rxc8 Rxc8 26. Bxf7+ Qxf7
+27. Qxg4 Re8 28. Be3 Qe6 29. Qa4 Bc5 30. Re1 Bxe3 31. Rxe3 Rc8 32. Qd1 Qd7 33.
+Qe1 Rd8 34. Qb4 1-0

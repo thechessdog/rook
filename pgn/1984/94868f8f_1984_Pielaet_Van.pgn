@@ -1,0 +1,18 @@
+[Event "Bergen"]
+[Site "Bergen"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Pielaet"]
+[Black "Van Geet"]
+[Result "0-1"]
+[ECO "A02"]
+[Opening "Bird"]
+[Variation "Hobbs gambit"]
+[HashCode "94868f8f"]
+[Epoch "Rook"]
+
+1. f4 g5 2. fxg5 e5 3. d3 h6 4. Nf3 Nc6 5. c3 Be7 6. gxh6 Nxh6 7. Bxh6 Rxh6
+8. Nbd2 d5 9. e4 Be6 10. Qe2 Qd7 11. g3 O-O-O 12. Bg2 f5 13. exd5 Bxd5 14.
+O-O-O Bxa2 15. Nc4 Bb3 16. Rd2 Nd4 17. cxd4 Qa4 18. Rc2 e4 19. dxe4 Bb4 20.
+Rc3 Bxc3 21. bxc3 Bxc4 0-1
+

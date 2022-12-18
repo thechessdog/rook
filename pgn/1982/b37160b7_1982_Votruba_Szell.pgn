@@ -1,0 +1,23 @@
+[Event "Budapest"]
+[Site "Budapest"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Votruba, Pavel"]
+[Black "Szell, Lajos"]
+[Result "0-1"]
+[ECO "E91"]
+[Opening "King's Indian"]
+[Variation "6.Be2"]
+[HashCode "b37160b7"]
+[Epoch "Rook"]
+[WhiteID "301019"]
+[WhiteCountry "CZE"]
+[BlackCountry "HUN"]
+
+1. Nf3 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. d4 O-O 6. Be2 c5 7. O-O Nc6 8. d5
+Na5 9. Bg5 h6 10. Bf4 Nh5 11. Be3 e5 12. dxe6 Bxe6 13. Qc1 Kh7 14. Rd1 b6 15.
+Nb5 Qe7 16. Nxd6 Rad8 17. e5 Bg4 18. Rd5 Bxf3 19. Bxf3 Bxe5 20. Bxh5 Rxd6 21.
+Bf3 Rfd8 22. h3 Nc6 23. Rxd6 Rxd6 24. Bxc6 Rxc6 25. Bxh6 Qf6 26. Rb1 Qf5 27.
+Be3 Bd4 28. b4 Bxe3 29. fxe3 cxb4 30. Rxb4 Qd3 31. Ra4 a5 32. Qa3 Qd1+ 33. Kh2
+Rc5 34. Qb3 Qd6+ 35. Kg1 Qg3 36. e4 Qe1+ 37. Kh2 Qxe4 38. Qxb6 Qf4+ 39. Kg1 Rf5
+40. Rxa5 Qc1+ 41. Kh2 Rf1 42. Qc7 Qe1 0-1

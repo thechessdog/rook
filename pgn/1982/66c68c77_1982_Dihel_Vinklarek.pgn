@@ -1,0 +1,22 @@
+[Event "corr ch-CSSR"]
+[Site "corr ch-CSSR"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Dihel"]
+[Black "Vinklarek"]
+[Result "1-0"]
+[ECO "B68"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...a6 defence, 9...Be7"]
+[HashCode "66c68c77"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd2 Be7
+8. O-O-O a6 9. f4 Bd7 10. Bxf6 Bxf6 11. Nb3 Be7 12. Kb1 b5 13. g4 Na5 14.
+Qd4 Nxb3 15. cxb3 O-O 16. f5 Bc6 17. Rg1 Qc7 18. g5 e5 19. Qd2 f6 20. Nd5
+Bxd5 21. Qxd5+ Kh8 22. Rc1 Qb6 23. Be2 fxg5 24. Rg3 Qd4 25. Qb7 Ra7 26. Qc8
+Qxe4+ 27. Bd3 Qb7 28. Qe6 Raa8 29. f6 Rxf6 30. Qg4 Rf4 31. Qe6 e4 32. Bc2
+d5 33. Rh3 Bf6 34. b4 Rc8 35. a3 Rh4 36. Rxh4 gxh4 37. Bxe4 Rf8 38. Bxd5
+Qb8 39. h3 Qh2 40. Rc2 Qg1+ 41. Ka2 Qd4 42. Bb7 Qd1 43. Rc8 Rxc8 44. Bxc8
+Qh5 45. Bb7 1-0
+

@@ -1,0 +1,18 @@
+[Event "England"]
+[Site "England"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Fuller, Maxwell Leonard"]
+[Black "Cannon"]
+[Result "1-0"]
+[ECO "A71"]
+[Opening "Benoni"]
+[Variation "classical, 8.Bg5"]
+[HashCode "3581ff0d"]
+[Epoch "Rook"]
+[WhiteCountry "AUS"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. e4 Bg7 8. Bg5
+h6 9. Bh4 g5 10. Bg3 Nh5 11. Bb5+ Kf8 12. e5 Nxg3 13. fxg3 g4 14. O-O a6 15.
+Bd3 c4 16. Bxc4 b5 17. Bd3 gxf3 18. Qxf3 Ra7 19. e6 Qg5 20. Rac1 Bd4+ 21. Kh1
+Qe3 22. Qh5 f6 23. Nxb5 1-0

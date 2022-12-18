@@ -1,0 +1,22 @@
+[Event "RLN 8283"]
+[Site "RLN 8283"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Hoppe, W."]
+[Black "Jaeckle, Marco"]
+[Result "1-0"]
+[ECO "B04"]
+[Opening "Alekhine's defence"]
+[Variation "modern variation"]
+[HashCode "a3f20466"]
+[Epoch "Rook"]
+[BlackID "4603451"]
+[BlackCountry "GER"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. Nf3 Nc6 5. c4 Nb6 6. e6 fxe6 7. h4 e5 8. d5 Nd4
+9. Nxd4 exd4 10. Bd3 Qd7 11. Qh5+ Kd8 12. Rh3 Qe8 13. Qxe8+ Kxe8 14. Rg3 e6 15.
+Na3 c6 16. Be4 Bd7 17. Bg5 Na4 18. dxe6 Bxe6 19. O-O-O d5 20. cxd5 cxd5 21. Bc2
+Nc3 22. bxc3 Bxa3+ 23. Kb1 h6 24. Bf4 Rf8 25. Be5 dxc3 26. Rxc3 Be7 27. Ba4+ b5
+28. Bxb5+ Kf7 29. Bc6 Rac8 30. Rf3+ Kg8 31. Rxf8+ Kxf8 32. Bxd5 Bf5+ 33. Kb2
+Rc2+ 34. Kb3 Rxf2 35. Rc1 Bxh4 36. Rc7 a5 37. Rxg7 Bc2+ 38. Kc4 Be7 39. Rg8#
+1-0

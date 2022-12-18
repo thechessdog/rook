@@ -1,0 +1,20 @@
+[Event "Kecskemet"]
+[Site "Kecskemet"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Ermenkov, Evgenij"]
+[Black "Ostojic, Predrag"]
+[Result "1-0"]
+[ECO "B87"]
+[Opening "Sicilian"]
+[Variation "Sozin with ...a6 and ...b5"]
+[HashCode "c2468b36"]
+[Epoch "Rook"]
+[WhiteID "2900106"]
+[WhiteCountry "FID"]
+[BlackCountry "SRB"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 b5 8. O-O
+Be7 9. Qf3 Qb6 10. Be3 Qb7 11. Qg3 g6 12. Bh6 b4 13. Na4 Nxe4 14. Qe3 d5 15. c4
+bxc3 16. Nxc3 Nc5 17. Rfe1 Nxb3 18. axb3 Nd7 19. Nxe6 fxe6 20. Qxe6 Nb6 21. Qf6
+Rg8 22. Bg5 Ra7 23. Nb5 1-0

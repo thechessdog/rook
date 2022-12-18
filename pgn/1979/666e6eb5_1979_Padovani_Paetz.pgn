@@ -1,0 +1,18 @@
+[Event "Berkeley"]
+[Site "Berkeley"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Padovani, M."]
+[Black "Paetz, M."]
+[Result "1-0"]
+[ECO "C00"]
+[Opening "French"]
+[Variation "Wing gambit"]
+[HashCode "666e6eb5"]
+[Epoch "Rook"]
+
+1. e4 e6 2. Nf3 d5 3. e5 c5 4. b4 cxb4 5. d4 Ne7 6. a3 Nec6 7. axb4 Bxb4+
+8. c3 Be7 9. Bd3 O-O 10. h4 f5 11. exf6 Bxf6 12. Bxh7+ Kxh7 13. Ng5+ Kg8
+14. Qh5 Bxg5 15. hxg5 Ne7 16. Ba3 e5 17. Bxe7 Qxe7 18. g6 exd4+ 19. Kd1
+Bg4+ 20. Qxg4 1-0
+

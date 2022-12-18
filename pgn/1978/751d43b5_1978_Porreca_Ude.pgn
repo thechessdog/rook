@@ -1,0 +1,20 @@
+[Event "corr EU"]
+[Site "corr EU"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Porreca"]
+[Black "Ude"]
+[Result "1-0"]
+[ECO "B07"]
+[Opening "Pirc"]
+[Variation "Byrne variation"]
+[HashCode "751d43b5"]
+[Epoch "Rook"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Bg5 Bg7 5. f4 h6 6. Bh4 c5 7. e5 Nh5 8. Nd5
+cxd4 9. Bb5+ Bd7 10. exd6 O-O 11. Bc4 Nc6 12. dxe7 Re8 13. Qd2 g5 14. O-O-O
+Nxe7 15. Nxe7+ Qxe7 16. fxg5 Qc5 17. Bd3 hxg5 18. Bxg5 Qd5 19. c4 Rac8 20.
+Kb1 Rxc4 21. Ne2 Rc5 22. h4 Be6 23. b3 Rec8 24. g4 Bxg4 25. Rhg1 Bf5 26.
+Bh6 Bxd3+ 27. Qxd3 Qf5 28. Qxf5 Rxf5 29. Ng3 Kh7 30. Nxf5 Bxh6 31. Nxh6
+Kxh6 32. Rxd4 Rc7 33. Rgd1 1-0
+

@@ -1,0 +1,20 @@
+[Event "Arizona"]
+[Site "Arizona"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Brown, T."]
+[Black "Anderson, A."]
+[Result "0-1"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra gambit"]
+[HashCode "e74f26cf"]
+[Epoch "Rook"]
+
+1. e4 c5 2. d4 cxd4 3. c3 g6 4. cxd4 Bg7 5. Nf3 d5 6. exd5 Qxd5 7. Nc3 Qa5
+8. Bc4 Nh6 9. Qb3 O-O 10. Ne5 Bxe5 11. Bxh6 Bg7 12. Bxg7 Kxg7 13. O-O-O Nc6
+14. f4 Qf5 15. g3 Na5 16. Qb4 Nxc4 17. Qxc4 Qa5 18. d5 Bf5 19. h3 Rac8 20.
+Qd4+ Kg8 21. g4 b5 22. gxf5 b4 23. fxg6 hxg6 24. f5 bxc3 25. fxg6 fxg6 26.
+Rhg1 Rf6 27. Rde1 Qxa2 28. bxc3 Rb6 29. Rxg6+ Rxg6 30. Rxe7 Qa3+ 31. Kd2
+Qxe7 32. c4 Qb4+ 33. Kd3 Rxc4 0-1
+

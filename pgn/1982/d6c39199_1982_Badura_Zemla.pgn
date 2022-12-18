@@ -1,0 +1,17 @@
+[Event "corr ch-CSSR"]
+[Site "corr ch-CSSR"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Badura"]
+[Black "Zemla"]
+[Result "0-1"]
+[ECO "B33"]
+[Opening "Sicilian"]
+[Variation "Pelikan (Lasker/Sveshnikov) variation"]
+[HashCode "d6c39199"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 Be6
+8. Qd2 a6 9. Bxf6 gxf6 10. Na3 b5 11. Nd5 f5 12. exf5 Bxf5 13. Bd3 Be6 14.
+Be4 f5 15. Nf6+ Kf7 16. Bxc6 Rc8 17. Bb7 Rb8 18. Bxa6 Kxf6 19. Bxb5 d5 0-1
+

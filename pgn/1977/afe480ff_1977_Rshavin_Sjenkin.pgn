@@ -1,0 +1,16 @@
+[Event "Yurmala"]
+[Site "Yurmala"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Rshavin"]
+[Black "Sjenkin"]
+[Result "1-0"]
+[ECO "C80"]
+[Opening "Ruy Lopez"]
+[Variation "open (Tarrasch) defence"]
+[HashCode "afe480ff"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. Re1 Nc5 7. Nc3 Nxa4
+8. Nxe5 Nxe5 9. Rxe5+ Be7 10. Nd5 O-O 11. Nxe7+ Kh8 12. Qh5 1-0
+

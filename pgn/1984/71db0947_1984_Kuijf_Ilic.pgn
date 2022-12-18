@@ -1,0 +1,26 @@
+[Event "Hoogovens-B"]
+[Site "Wijk aan Zee II"]
+[Date "1984.01.01"]
+[Round "4"]
+[White "Kuijf, Marinus"]
+[Black "Ilic, Zoran"]
+[Result "0-1"]
+[ECO "B47"]
+[Opening "Sicilian"]
+[Variation "Taimanov (Bastrikov) variation"]
+[HashCode "71db0947"]
+[Epoch "Rook"]
+[WhiteID "1000110"]
+[WhiteCountry "NED"]
+[BlackID "15001350"]
+[BlackCountry "MKD"]
+
+1. e4 c5 2. Ne2 Nc6 3. d4 cxd4 4. Nxd4 e6 5. Nc3 Qc7 6. Be2 a6 7. O-O Nf6 8.
+Nxc6 bxc6 9. f4 d5 10. e5 Nd7 11. Kh1 Be7 12. Bd3 Nc5 13. Be2 O-O 14. Be3 a5
+15. Bxc5 Bxc5 16. Na4 Be7 17. c4 Bd7 18. Rc1 Qa7 19. Bd3 g6 20. Rf3 Qd4 21. Qe2
+f5 22. b3 Qa7 23. c5 Rab8 24. Qc2 Kh8 25. Qc3 Be8 26. a3 Bd8 27. Bc2 Rg8 28. b4
+axb4 29. axb4 g5 30. fxg5 Rxg5 31. Nb2 Qg7 32. Rf2 Rg4 33. Nd3 Qh6 34. Rcf1 Bh4
+35. Rf3 Rc4 36. Qb3 Qd2 37. Bb1 Bh5 38. Rh3 Rg4 39. Rg1 Rbg8 40. Qc2 Qg5 41. g3
+Re4 42. Qf2 Qg4 43. Qg2 Re2 44. Rxh4 Qxh4 45. gxh4 Rgxg2 46. Rxg2 Bf3 47. Kg1
+Rxg2+ 48. Kf1 Rd2 49. b5 Be2+ 50. Ke1 Rxd3 51. Kxe2 Rc3 52. b6 Rxc5 53. Bd3 Rc3
+0-1

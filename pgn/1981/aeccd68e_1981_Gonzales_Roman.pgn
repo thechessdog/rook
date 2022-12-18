@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Gonzales Acosta"]
+[Black "Roman"]
+[Result "0-1"]
+[ECO "A28"]
+[Opening "English"]
+[Variation "Bradley Beach variation"]
+[HashCode "aeccd68e"]
+[Epoch "Rook"]
+
+1. c4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. d4 e4 5. Nd2 Bb4 6. e3 Bxc3 7. bxc3 O-O
+8. Qc2 Re8 9. g3 d5 10. cxd5 Qxd5 11. Bg2 Bg4 12. O-O Rad8 13. Rb1 b5 14.
+a3 Qf5 15. c4 bxc4 16. Qxc4 Ne7 17. Qxc7 Ned5 18. Qxa7 Be2 19. Re1 Nc3 20.
+Rb3 Ng4 21. Bf3 exf3 22. Rxc3 Nxh2 23. e4 Qh3 0-1
+

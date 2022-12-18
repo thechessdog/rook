@@ -1,0 +1,21 @@
+[Event "US op"]
+[Site "Palo Alto"]
+[Date "1981.??.??"]
+[Round "11"]
+[White "Stein, Kurt"]
+[Black "Lobo, Richard"]
+[Result "0-1"]
+[ECO "C44"]
+[Opening "Scotch gambit"]
+[Variation "Vitzhum attack"]
+[HashCode "0f9f5a58"]
+[Epoch "Rook"]
+[WhiteID "2017601"]
+[BlackID "401188"]
+[WhiteCountry "USA"]
+[BlackCountry "ENG"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 Bc5 5. Ng5 Nh6 6. Qh5 Qe7 7. f4 d6 8. O-O
+Bg4 9. Qh4 d3+ 10. Kh1 Be2 11. Re1 Ng4 12. Bxf7+ Kf8 13. Rf1 Bxf1 14. Qxg4 h6
+15. Bg6 hxg5 16. Nc3 Be2 17. Nxe2 dxe2 18. Qxe2 Qf6 19. f5 Qe5 20. Bh5 Re8 21.
+Qd1 Qxe4 22. Bd2 Qh4 23. g4 0-1

@@ -1,0 +1,15 @@
+[Event "corr CCLA"]
+[Site "corr CCLA"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Weigand"]
+[Black "Zavanowski"]
+[Result "1-0"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack"]
+[HashCode "f9f56d78"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 Nbd7 4. f4 b6 5. e3 Bb7 6. Nf3 h6 7. Bh4 e6 8.
+Ne5 a6 9. Nxd7 Qxd7 10. Bxf6 gxf6 11. a3 f5 12. Qh5 c5 1-0
+

@@ -1,0 +1,25 @@
+[Event "Bundesliga 8182"]
+[Site "Duitsland tt"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Reer, Erdmann"]
+[Black "Fischer, Jo"]
+[Result "1-0"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "classical attack, Marshall variation"]
+[HashCode "89e0b62f"]
+[Epoch "Rook"]
+[WhiteID "4654170"]
+[WhiteCountry "GER"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Bd6 7. O-O O-O 8. c4
+Nf6 9. Bg5 Bg4 10. h3 Bh5 11. Nc3 dxc4 12. Bxc4 Be7 13. Re1 Nc6 14. Be3 Qd7 15.
+d5 Nb4 16. Rc1 c6 17. dxc6 Qxd1 18. Rexd1 Nxc6 19. Nd5 Bg6 20. Nxe7+ Nxe7 21.
+Bc5 Rfe8 22. Ne5 Nc6 23. Nxg6 hxg6 24. Bb5 a6 25. Bxc6 bxc6 26. Be3 Re6 27. Rc4
+Nd5 28. Bg5 f6 29. Bh4 g5 30. Bg3 f5 31. h4 f4 32. Bh2 Rae8 33. Kf1 gxh4 34.
+Bxf4 Rf8 35. Bc1 Ref6 36. Rc2 Rg6 37. Re2 Rd6 38. Rde1 Nb4 39. Bg5 Nd3 40. Be7
+h3 41. gxh3 Rh6 42. Bxf8 Nxe1 43. Bxg7 Kxg7 44. Kxe1 Rxh3 45. Re6 Rh1+ 46. Kd2
+Ra1 47. a3 Rb1 48. Kc2 Rf1 49. Rxc6 Rxf2+ 50. Kb3 a5 51. Rb6 Kf7 52. Ka4 Ke7
+53. Kxa5 Kd7 54. b4 Kc7 55. a4 Rf4 56. Rh6 Rf7 57. Ka6 Rf4 58. Rh7+ Kc8 59. Ka5
+Kb8 60. b5 Rg4 61. b6 Kc8 62. Kb5 1-0

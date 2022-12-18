@@ -1,0 +1,20 @@
+[Event "Sudwestfalen"]
+[Site "Sudwestfalen"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Wittgen"]
+[Black "Humpert"]
+[Result "0-1"]
+[ECO "B23"]
+[Opening "Sicilian"]
+[Variation "closed"]
+[HashCode "ff57d344"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nc3 d6 3. g3 Nc6 4. Bg2 Nf6 5. Nge2 e5 6. Nd5 Be6 7. O-O Be7 8.
+d3 O-O 9. Be3 Qd7 10. c3 Bh3 11. c4 Bxg2 12. Kxg2 h5 13. Nec3 h4 14. h3
+Nxd5 15. Nxd5 f5 16. f4 hxg3 17. Kxg3 fxe4 18. dxe4 Rae8 19. Qg4 Qxg4+ 20.
+hxg4 Bd8 21. f5 Nd4 22. Rf2 Kf7 23. g5 Rh8 24. Kg4 Ref8 25. Raf1 Ke8 26. g6
+Rh4+ 27. Kg3 Rxe4 28. f6 gxf6 29. Nxf6+ Bxf6 30. Rxf6 Rxe3+ 31. Kg4 Rg8 32.
+Kh5 Rg3 33. R6f5 Rh8# 0-1
+

@@ -1,0 +1,18 @@
+[Event "Esbjerg"]
+[Site "Esbjerg"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Rasmussen, Hans"]
+[Black "Petersen, John"]
+[Result "1-0"]
+[ECO "B33"]
+[Opening "Sicilian"]
+[Variation "Pelikan (Lasker/Sveshnikov) variation"]
+[HashCode "e83689ab"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Nxc6 bxc6 7. f4 Bb4
+8. Bd3 Qe7 9. fxe5 Nxe4 10. O-O Bc5+ 11. Kh1 Nf2+ 12. Rxf2 Bxf2 13. Bf4 Bd4
+14. Qh5 Bxc3 15. bxc3 Bb7 16. Rb1 O-O-O 17. e6 g5 18. Ba6 gxf4 19. Bxb7+
+Kb8 20. Qe5+ d6 21. Bxc6+ Kc8 22. Bd7+ 1-0
+

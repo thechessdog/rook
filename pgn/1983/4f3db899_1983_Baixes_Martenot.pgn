@@ -1,0 +1,16 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Baixes"]
+[Black "Martenot"]
+[Result "0-1"]
+[ECO "A40"]
+[Opening "Queen's pawn"]
+[Variation "Charlick (Englund) gambit"]
+[HashCode "4f3db899"]
+[Epoch "Rook"]
+
+1. d4 e5 2. dxe5 Nc6 3. Bf4 Qe7 4. c3 g5 5. Bg3 h5 6. h3 Nxe5 7. Nd2 Nd3#
+0-1
+

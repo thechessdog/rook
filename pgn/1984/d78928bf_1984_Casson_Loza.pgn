@@ -1,0 +1,17 @@
+[Event "California"]
+[Site "California"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Casson, C."]
+[Black "Loza, M."]
+[Result "0-1"]
+[ECO "D31"]
+[Opening "QGD"]
+[Variation "3.Nc3"]
+[HashCode "d78928bf"]
+[Epoch "Rook"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Bb4 4. e3 Nf6 5. a3 Bxc3+ 6. bxc3 O-O 7. Nf3 Ne4
+8. Qc2 Nc6 9. Bd3 f5 10. cxd5 exd5 11. O-O Rf6 12. Nd2 Rh6 13. Nxe4 fxe4
+14. Be2 Qh4 15. h3 Bxh3 16. f4 Bxg2 17. Bb5 Qh2+ 18. Kf2 Bxf1+ 0-1
+

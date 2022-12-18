@@ -1,0 +1,17 @@
+[Event "Dayton,OH"]
+[Site "Dayton,OH"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Hanumanthu, Sai"]
+[Black "Wall, Bill"]
+[Result "0-1"]
+[ECO "A52"]
+[Opening "Budapest"]
+[Variation "Adler variation"]
+[HashCode "579c7e5e"]
+[Epoch "Rook"]
+[BlackCountry "USA"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ng4 4. Nf3 Bc5 5. e3 Nc6 6. b3 d6 7. exd6 Bxd6 8. g3
+O-O 9. Nc3 Re8 10. h3 Nge5 11. Nxe5 Nxe5 12. Bg2 Bf5 13. O-O Qc8 14. e4 Bxh3
+15. Bxh3 Qxh3 16. Nb5 Ng4 0-1

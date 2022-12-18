@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Ciprian"]
+[Black "Kretschmer"]
+[Result "1-0"]
+[ECO "B96"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Polugayevsky variation"]
+[HashCode "f8ba661b"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 b5 8.
+a3 Nbd7 9. Be2 Qb6 10. Bf3 Bb7 11. f5 e5 12. Nb3 Be7 13. Qe2 Rc8 14. Be3
+Qc7 15. Qf2 O-O 16. O-O Nc5 17. Nd2 Rfd8 18. Qg3 Ne8 19. h4 Kh8 20. Qf2 f6
+21. g4 Bf8 22. Rfd1 Qf7 23. Nf1 Rc7 24. Rd2 Rdc8 25. Rad1 Nd7 26. Ng3 a5
+27. Nxb5 1-0
+

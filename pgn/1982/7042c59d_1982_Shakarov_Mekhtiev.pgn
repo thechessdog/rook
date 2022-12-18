@@ -1,0 +1,17 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Shakarov, Alexander"]
+[Black "Mekhtiev, Sadik"]
+[Result "1-0"]
+[ECO "B33"]
+[Opening "Sicilian"]
+[Variation "Pelikan (Lasker/Sveshnikov) variation"]
+[HashCode "7042c59d"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Nf5 d5 7. exd5 Bxf5
+8. dxc6 bxc6 9. Qf3 Qc8 10. Ba6 Qxa6 11. Qxf5 Bd6 12. Bg5 Nd5 13. Rd1 O-O
+14. Rd3 Rae8 15. Nxd5 cxd5 16. Rh3 g6 17. Bf6 Be7 18. Qh5 1-0
+

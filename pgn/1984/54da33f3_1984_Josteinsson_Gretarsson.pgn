@@ -1,0 +1,23 @@
+[Event "Reykjavik op"]
+[Site "Reykjavik"]
+[Date "1984.01.01"]
+[Round "8"]
+[White "Josteinsson, Leifur"]
+[Black "Gretarsson, Andri A"]
+[Result "0-1"]
+[ECO "A69"]
+[Opening "Benoni"]
+[Variation "four pawns attack, main line"]
+[HashCode "54da33f3"]
+[Epoch "Rook"]
+[BlackID "2300249"]
+[BlackCountry "ISL"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f4 O-O 6. Be2 c5 7. d5 e6 8. Nf3 exd5
+9. cxd5 Re8 10. e5 dxe5 11. fxe5 Ng4 12. e6 fxe6 13. d6 a6 14. Ng5 Ne5 15. O-O
+b5 16. Be3 Bb7 17. Qd2 Nbd7 18. Rad1 Qb6 19. b4 Qc6 20. Bf3 Nxf3+ 21. Nxf3 cxb4
+22. Ne2 Bc3 23. Nxc3 bxc3 24. Qd4 e5 25. Qh4 Rf8 26. Qh3 Rae8 27. Ng5 h6 28.
+Nf3 h5 29. Nh4 Kg7 30. Rxf8 Rxf8 31. Qe6 Rf6 32. Qe7+ Rf7 33. Bh6+ Kxh6 34.
+Qxf7 Qe4 35. Qf2 b4 36. Nf3 a5 37. Re1 Qd5 38. Qe3+ Kg7 39. Qg5 Qxd6 40. Nh4
+Qf6 41. Qg3 Kh6 42. Rf1 Qg5 43. Qe1 Nc5 44. Nf3 Bxf3 45. Rxf3 c2 46. h4 Qd8 47.
+Qe3+ Kh7 48. Qxc5 Qd4+ 49. Qxd4 exd4 50. Rf7+ Kh6 51. Rc7 d3 0-1

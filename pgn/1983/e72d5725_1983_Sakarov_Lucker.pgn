@@ -1,0 +1,19 @@
+[Event "corr ICCF"]
+[Site "corr ICCF"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Sakarov"]
+[Black "Lucker"]
+[Result "1-0"]
+[ECO "B96"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Polugayevsky, Simagin variation"]
+[HashCode "e72d5725"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 b5 8.
+e5 dxe5 9. fxe5 Qc7 10. Qe2 Nfd7 11. O-O-O Bb7 12. Qg4 Qxe5 13. Be2 Nf6 14.
+Bxf6 Qxf6 15. Ncxb5 Qe5 16. Rhe1 Be7 17. Nc7+ Qxc7 18. Nxe6 fxe6 19. Qxg7
+Qf4+ 20. Kb1 Qf7 21. Qxh8+ Bf8 22. Bh5 Qxh5 23. Rxe6+ Kf7 24. Rf6+ Ke7 25.
+Qxf8# 1-0
+

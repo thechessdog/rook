@@ -1,0 +1,19 @@
+[Event "corr Wcup3"]
+[Site "corr Wcup3"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Kullamaa"]
+[Black "Klambt"]
+[Result "1-0"]
+[ECO "C72"]
+[Opening "Ruy Lopez"]
+[Variation "modern Steinitz defence, 5.O-O"]
+[HashCode "cb4a64d5"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. O-O Bd7 6. d4 Nf6 7. Bxc6 Bxc6
+8. Re1 Be7 9. Nc3 exd4 10. Nxd4 Bd7 11. Qf3 O-O 12. Bf4 Bg4 13. Qd3 Nh5 14.
+Qd2 Nxf4 15. Qxf4 Be6 16. Rad1 Bg5 17. Qg3 Qf6 18. Nf5 Qg6 19. Nd5 Bxd5 20.
+Rxd5 Bf6 21. Qb3 Rab8 22. Re3 Kh8 23. Rg3 Qh5 24. Qe3 Rbe8 25. Rh3 Qg6 26.
+c3 Re6 27. f4 Rfe8 28. Ng3 Qg4 29. Rdh5 h6 30. f5 1-0
+

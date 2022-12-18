@@ -1,0 +1,18 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Rasmussen, Hans"]
+[Black "Hansen, Soren Bech"]
+[Result "0-1"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Paulsen attack"]
+[HashCode "c6bd5d06"]
+[Epoch "Rook"]
+[BlackID "1400681"]
+[BlackCountry "DEN"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Nge7 6. Be3 Nf5 7. Qc1 Nxe3 8. Qxe3
+Qb6 9. b3 cxd4 10. cxd4 Nb4 11. Bd3 Bd7 12. Nc3 Rc8 13. Rc1 Nxa2 14. Nxa2 Qa5+
+15. Qd2 Rxc1+ 16. Nxc1 Bb4 0-1

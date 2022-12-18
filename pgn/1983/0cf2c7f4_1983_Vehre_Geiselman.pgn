@@ -1,0 +1,17 @@
+[Event "Lima,OH"]
+[Site "Lima,OH"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Vehre, John"]
+[Black "Geiselman, D."]
+[Result "1-0"]
+[ECO "D08"]
+[Opening "QGD"]
+[Variation "Albin counter-gambit"]
+[HashCode "0cf2c7f4"]
+[Epoch "Rook"]
+[WhiteCountry "USA"]
+
+1. d4 d5 2. c4 e5 3. dxe5 d4 4. Nf3 Nc6 5. a3 Bg4 6. Nbd2 Nge7 7. g3 Ng6 8. Qa4
+f6 9. exf6 Qxf6 10. Bg2 d3 11. exd3 Bc5 12. Ne4 Qe7 13. Bg5 Qe6 14. O-O Bb6 15.
+Rae1 O-O 16. Nf6+ Rxf6 17. Rxe6 Rxe6 18. c5 Bxf3 19. Bxf3 1-0

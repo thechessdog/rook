@@ -1,0 +1,18 @@
+[Event "Marbach"]
+[Site "Marbach"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Holzhaeuer, M."]
+[Black "Schmidt, O."]
+[Result "1-0"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "classical variation"]
+[HashCode "f3179a3c"]
+[Epoch "Rook"]
+
+1. b3 d5 2. Bb2 Bg4 3. f4 Qd6 4. g3 h5 5. Nf3 h4 6. Ne5 Bf5 7. Rg1 hxg3 8.
+hxg3 Qc5 9. e3 Qxc2 10. Qxc2 Bxc2 11. Na3 Bf5 12. Nb5 Na6 13. Nd4 Bd7 14.
+Rc1 Rc8 15. Nb5 c6 16. Bd4 c5 17. Nxa7 Ra8 18. Bxa6 Rxa7 19. Nxd7 Rxa6 20.
+Nxf8 Kxf8 21. Rxc5 Nf6 22. a4 Ne8 23. Rxd5 1-0
+

@@ -1,0 +1,17 @@
+[Event "Warsaw II zt"]
+[Site "Warsaw II zt"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Ghinda, Mihail-Viorel"]
+[Black "Ghitescu, Theodor"]
+[Result "1/2-1/2"]
+[ECO "A06"]
+[Opening "Reti"]
+[Variation "Nimzovich-Larsen attack"]
+[HashCode "0b6355fa"]
+[Epoch "Rook"]
+[BlackCountry "ROU"]
+[WhiteCountry "ROU"]
+
+1. Nf3 d5 2. b3 Nc6 3. Bb2 Bg4 4. e3 a6 5. h3 Bh5 6. Be2 Bxf3 7. Bxf3 e5 8. O-O
+Nf6 9. c4 e4 10. Be2 dxc4 11. Bxc4 Be7 12. d4 exd3 13. Bxd3 Nb4 1/2-1/2

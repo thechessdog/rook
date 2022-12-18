@@ -1,0 +1,18 @@
+[Event "Laren"]
+[Site "Laren"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Weyerstrass, Ronald"]
+[Black "Cornelisse, A."]
+[Result "1-0"]
+[ECO "A06"]
+[Opening "Reti"]
+[Variation "Nimzovich-Larsen attack"]
+[HashCode "ef0e35c0"]
+[Epoch "Rook"]
+
+1. b3 d5 2. Nf3 e6 3. Bb2 c5 4. e3 Nc6 5. Bb5 Bd7 6. O-O Nf6 7. d3 Be7 8. Nbd2
+O-O 9. Bxc6 Bxc6 10. Ne5 Be8 11. f4 Nd7 12. Qg4 f5 13. Qg3 Bf6 14. Ndf3 Qe7 15.
+Rae1 Rc8 16. e4 fxe4 17. dxe4 Bxe5 18. Nxe5 d4 19. Nf3 Qf6 20. Ng5 Bg6 21. c3
+h6 22. Nh3 dxc3 23. Bxc3 Qf7 24. f5 exf5 25. exf5 Bh7 26. f6 Qg6 27. Qxg6 Bxg6
+28. Nf4 Bh7 29. fxg7 Rfe8 30. Nd5 Rxe1 31. Rxe1 Rd8 32. Re7 b6 33. Rxd7 1-0

@@ -1,0 +1,18 @@
+[Event "Ribe"]
+[Site "Ribe"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Nielsen, T."]
+[Black "Hellsberg"]
+[Result "1/2-1/2"]
+[ECO "C05"]
+[Opening "French"]
+[Variation "Tarrasch, Botvinnik variation"]
+[HashCode "fb98c19c"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Bd3 c5 6. c3 b6 7. Ngf3 Ba6 8.
+Qe2 Bxd3 9. Qxd3 Nc6 10. O-O f6 11. exf6 Qxf6 12. Re1 cxd4 13. Nxd4 Nxd4
+14. cxd4 Bb4 15. Qe3 Kf7 16. a3 Bxd2 17. Bxd2 Rac8 18. Rac1 Rhe8 19. Bb4
+Nb8 20. Bc3 Nc6 1/2-1/2
+

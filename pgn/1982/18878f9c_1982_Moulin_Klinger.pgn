@@ -1,0 +1,23 @@
+[Event "EU-ch U20"]
+[Site "Groningen"]
+[Date "1982.??.??"]
+[Round "1"]
+[White "Moulin, Pierre"]
+[Black "Klinger, Josef"]
+[Result "1-0"]
+[ECO "B92"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Opovcensky variation"]
+[HashCode "18878f9c"]
+[Epoch "Rook"]
+[WhiteID "200131"]
+[BlackID "1600010"]
+[WhiteCountry "BEL"]
+[BlackCountry "AUT"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8. O-O
+O-O 9. a4 Be6 10. f4 Qc7 11. a5 Nc6 12. Nd5 Bxd5 13. exd5 Nb4 14. c4 b5 15. Bd2
+bxc4 16. Bxb4 cxb3 17. Qxb3 Rfb8 18. Ra4 Qd7 19. Bc4 Ne4 20. Qc2 Bf6 21. b3
+Qa7+ 22. Kh1 Nc5 23. Bxc5 Qxc5 24. Qd3 exf4 25. Rxf4 Re8 26. Rf1 Re3 27. Qf5
+Rae8 28. Bd3 Qc3 29. Qxh7+ Kf8 30. Bxa6 Re1 31. Rf4 Qxa5 32. Rxf6 gxf6 33. Qh8+
+Ke7 34. Qxf6+ Kd7 35. Qxf7+ R8e7 36. Qf5+ Kc7 37. Qc2+ Kd8 38. Qc8# 1-0

@@ -1,0 +1,18 @@
+[Event "Denmark"]
+[Site "Denmark"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Mikkelsen, Ivan Bisgaard"]
+[Black "Carlsson, Gerner"]
+[Result "1-0"]
+[ECO "C24"]
+[Opening "Bishop's opening"]
+[Variation "Ponziani gambit"]
+[HashCode "c03e5d76"]
+[Epoch "Rook"]
+[BlackID "1410237"]
+[BlackCountry "DEN"]
+
+1. e4 e5 2. Bc4 Nf6 3. d4 Nxe4 4. dxe5 Qe7 5. Qe2 f5 6. Nf3 Nc6 7. Nc3 Nxc3 8.
+bxc3 Na5 9. O-O Nxc4 10. Qxc4 c6 11. Re1 Qf7 12. e6 dxe6 13. Ng5 Qh5 14. Nxe6
+Bxe6 15. Qxe6+ 1-0

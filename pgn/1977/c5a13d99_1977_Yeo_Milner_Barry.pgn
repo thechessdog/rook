@@ -1,0 +1,18 @@
+[Event "Guernsey"]
+[Site "Guernsey"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Yeo, Michael J"]
+[Black "Milner Barry, Philip Stuart"]
+[Result "0-1"]
+[ECO "C34"]
+[Opening "KGA"]
+[Variation "Becker defence"]
+[HashCode "c5a13d99"]
+[Epoch "Rook"]
+[WhiteID "402257"]
+[WhiteCountry "ENG"]
+[BlackCountry "ENG"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 h6 4. Bc4 d6 5. d4 g5 6. O-O Bg7 7. g3 Nc6 8. c3 Bh3
+9. Re1 Qd7 10. gxf4 Qg4+ 11. Kf2 Qg2+ 12. Ke3 gxf4+ 13. Kd3 Bg4 14. Rg1 Qh3 0-1

@@ -1,0 +1,17 @@
+[Event "Buenos Aires"]
+[Site "Buenos Aires"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Bonaldi, Pablo"]
+[Black "Garcia, R."]
+[Result "0-1"]
+[ECO "A54"]
+[Opening "Old Indian"]
+[Variation "Ukrainian variation"]
+[HashCode "0bdaf83e"]
+[Epoch "Rook"]
+[WhiteID "101990"]
+[WhiteCountry "ARG"]
+[BlackCountry "ARG"]
+
+1. d4 Nf6 2. c4 d6 3. Nc3 e5 4. dxe5 dxe5 5. Qxd8+ Kxd8 6. Bg5 c6 7. e4 0-1

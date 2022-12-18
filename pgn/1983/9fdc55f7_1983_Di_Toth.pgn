@@ -1,0 +1,20 @@
+[Event "Torino"]
+[Site "Torino"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Di Donna"]
+[Black "Toth, Bela"]
+[Result "0-1"]
+[ECO "B52"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky attack, 3...Bd7"]
+[HashCode "9fdc55f7"]
+[Epoch "Rook"]
+[BlackID "736112"]
+[BlackCountry "ITA"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Qxd7 5. O-O Nf6 6. e5 dxe5 7. Nxe5 Qc7
+8. d4 e6 9. Bf4 Bd6 10. Nc3 a6 11. Bg3 cxd4 12. Qxd4 Nc6 13. Nxc6 Bxg3 14. hxg3
+Qxc6 15. Rad1 O-O 16. Rd3 Rac8 17. Rfd1 b5 18. Qb4 h6 19. Rd6 Qb7 20. a4 Rc4
+21. Qb3 Rfc8 22. Rd8+ Rxd8 23. Rxd8+ Kh7 24. axb5 axb5 25. Nxb5 Qe4 26. f3 Qe1+
+27. Kh2 Rg4 28. Qd3+ g6 29. Qd6 Rg5 30. g4 Re5 0-1

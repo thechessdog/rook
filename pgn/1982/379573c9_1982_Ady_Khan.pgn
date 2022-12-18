@@ -1,0 +1,19 @@
+[Event "London"]
+[Site "London"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Ady, Jonathan J."]
+[Black "Khan"]
+[Result "1-0"]
+[ECO "C18"]
+[Opening "French"]
+[Variation "Winawer, classical variation"]
+[HashCode "379573c9"]
+[Epoch "Rook"]
+[WhiteID "6000240"]
+[WhiteCountry "HKG"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Qc7 7. Nf3 Ne7 8. a4
+b6 9. Bb5+ Nec6 10. O-O Ba6 11. c4 Bxb5 12. axb5 Nxd4 13. cxd5 Nxf3+ 14. Qxf3
+Qb7 15. Qg4 Qxd5 16. Qxg7 Rf8 17. Bg5 Nd7 18. Rfd1 Qxe5 19. Qxe5 Nxe5 20. Rxa7
+1-0

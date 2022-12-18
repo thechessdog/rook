@@ -1,0 +1,17 @@
+[Event "Switzerland"]
+[Site "Switzerland"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Walther"]
+[Black "Maier"]
+[Result "1/2-1/2"]
+[ECO "C05"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation"]
+[HashCode "e1837299"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. f4 c5 6. c3 Nc6 7. Ndf3 cxd4 8.
+cxd4 f6 9. Bd3 Bb4+ 10. Kf2 O-O 11. Ne2 fxe5 12. dxe5 Ndxe5 13. fxe5 Nxe5
+14. Kg3 Nxf3 15. gxf3 e5 16. Qb3 Qd6 17. Kg2 Be6 18. Ng3 Kh8 1/2-1/2
+

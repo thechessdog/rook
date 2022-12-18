@@ -1,0 +1,24 @@
+[Event "Svendborg"]
+[Site "Svendborg"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Sloth, Jorn"]
+[Black "Karlsson, Lars"]
+[Result "0-1"]
+[ECO "A30"]
+[Opening "English"]
+[Variation "symmetrical variation"]
+[HashCode "9c3b6e40"]
+[Epoch "Rook"]
+[WhiteID "1400240"]
+[BlackID "1700057"]
+[WhiteCountry "DEN"]
+[BlackCountry "SWE"]
+
+1. c4 c5 2. g3 g5 3. Bg2 Bg7 4. e3 Nc6 5. Ne2 e5 6. Nbc3 Nge7 7. a3 d6 8. d3 a5
+9. Rb1 O-O 10. O-O Rb8 11. Bd2 Be6 12. Qc2 h5 13. Nd5 h4 14. b4 h3 15. Bh1 axb4
+16. axb4 Bxd5 17. cxd5 Nxb4 18. Bxb4 cxb4 19. Rxb4 Qa5 20. Qb3 b5 21. Rb1 Rfc8
+22. Nc3 Qc7 23. Rxb5 Rxb5 24. Nxb5 Qc1+ 25. Qd1 Qc5 26. d4 exd4 27. Nxd4 Nxd5
+28. Bxd5 Qxd5 29. Qf3 Qc4 30. Rd1 Bxd4 31. exd4 Re8 32. g4 Qxd4 33. Rf1 Re4 34.
+Kh1 Qd5 35. Qxh3 Rxg4+ 36. f3 Rc4 37. Re1 Kg7 38. Qg2 Rc3 39. Rf1 Qd3 40. f4
+Rc2 41. Qf3 Qxf3+ 42. Rxf3 Rd2 43. h4 Kf6 0-1

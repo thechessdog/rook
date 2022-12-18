@@ -1,0 +1,21 @@
+[Event "Reykjavik op"]
+[Site "Reykjavik"]
+[Date "1984.01.01"]
+[Round "4"]
+[White "Hansson, Dan"]
+[Black "Karlsson, Agust S"]
+[Result "1-0"]
+[ECO "C69"]
+[Opening "Ruy Lopez"]
+[Variation "exchange variation, Alapin gambit"]
+[HashCode "64f81068"]
+[Epoch "Rook"]
+[BlackID "2300419"]
+[BlackCountry "ISL"]
+[WhiteCountry "ISL"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O Bg4 6. h3 h5 7. d3 Qf6 8.
+Nbd2 Ne7 9. Nc4 Bxf3 10. Qxf3 Qxf3 11. gxf3 Ng6 12. Be3 Bd6 13. Kg2 b5 14. Na5
+c5 15. Nb3 f5 16. Bxc5 Nh4+ 17. Kg3 f4+ 18. Kxh4 g5+ 19. Kxg5 h4 20. Kf6 Kd7
+21. Bxd6 cxd6 22. Nc5+ dxc5 23. Kxe5 Raf8 24. Kd5 Rh5+ 25. e5 Rf6 26. c3 Rg6
+27. d4 c4 28. Rg1 Rhg5 29. Rg4 Rxg4 30. fxg4 1-0

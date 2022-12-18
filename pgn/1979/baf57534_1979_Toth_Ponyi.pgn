@@ -1,0 +1,19 @@
+[Event "Salgotarjan"]
+[Site "Salgotarjan"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Toth, L."]
+[Black "Ponyi, Attila"]
+[Result "1-0"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...g6"]
+[HashCode "baf57534"]
+[Epoch "Rook"]
+[BlackID "715972"]
+[BlackCountry "HUN"]
+
+1. e4 d5 2. exd5 Nf6 3. c4 c6 4. Nc3 cxd5 5. d4 g6 6. Bg5 dxc4 7. Bxc4 Bg7 8.
+Nf3 O-O 9. O-O Bg4 10. Re1 Nbd7 11. Qd2 Bxf3 12. gxf3 Nb6 13. Bb3 Qd7 14. Kg2
+Rfe8 15. Qf4 Rad8 16. Rad1 a6 17. Re5 Rf8 18. Qh4 Nc8 19. Ne2 b5 20. Nf4 Nd6
+21. Ne6 Nf5 22. Qh3 Nh5 23. Rxf5 fxe6 24. Bxe6+ 1-0

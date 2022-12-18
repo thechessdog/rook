@@ -1,0 +1,19 @@
+[Event "corr USA/K"]
+[Site "corr USA/K"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Wright"]
+[Black "Owens"]
+[Result "1-0"]
+[ECO "C08"]
+[Opening "French"]
+[Variation "Tarrasch, open, 4.ed ed"]
+[HashCode "486bd7e2"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. exd5 exd5 5. Bb5+ Bd7 6. Qe2+ Be7 7. dxc5
+Nf6 8. Nb3 O-O 9. Be3 Re8 10. O-O-O a5 11. a4 Na6 12. c6 Bxc6 13. Nd4 Bd7
+14. Ngf3 Qc7 15. Kb1 Bc5 16. h3 Bxd4 17. Nxd4 Bxb5 18. Qxb5 Rac8 19. Bd2
+Nb4 20. Bxb4 axb4 21. Qxb4 Ne4 22. Rhf1 h6 23. f3 Nf6 24. Rf2 Qd7 25. b3
+Re7 26. Rfd2 g6 1-0
+

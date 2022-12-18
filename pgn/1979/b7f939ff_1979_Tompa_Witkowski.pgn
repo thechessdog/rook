@@ -1,0 +1,19 @@
+[Event "Lodz"]
+[Site "Lodz"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Tompa, Janos"]
+[Black "Witkowski, Stefan"]
+[Result "1-0"]
+[ECO "B45"]
+[Opening "Sicilian"]
+[Variation "Taimanov variation"]
+[HashCode "b7f939ff"]
+[Epoch "Rook"]
+[BlackCountry "POL"]
+[WhiteID "700193"]
+[WhiteCountry "HUN"]
+
+1. e4 c5 2. Nf3 e6 3. Nc3 Nc6 4. d4 cxd4 5. Nxd4 Nf6 6. g3 d5 7. Bg2 Bb4 8.
+exd5 Nxd5 9. O-O Nxc3 10. Nxc6 bxc6 11. bxc3 Bxc3 12. Ba3 Rb8 13. Qxd8+ Kxd8
+14. Rad1+ 1-0

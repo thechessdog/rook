@@ -1,0 +1,20 @@
+[Event "corr SF"]
+[Site "corr SF"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Ekmark, R."]
+[Black "Antilla, P."]
+[Result "0-1"]
+[ECO "C60"]
+[Opening "Ruy Lopez"]
+[Variation "fianchetto (Smyslov/Barnes) defence"]
+[HashCode "3f36a137"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 g6 4. c3 d6 5. d4 Bd7 6. Qb3 Bg7 7. O-O Nge7 8.
+Be3 O-O 9. Bd3 Qc8 10. d5 Nd8 11. Nfd2 f5 12. f3 f4 13. Bf2 g5 14. Be2 Ng6
+15. Kh1 h5 16. c4 b6 17. a4 Nb7 18. Qd1 Bf6 19. b4 Kf7 20. Rg1 g4 21. fxg4
+hxg4 22. g3 Rh8 23. Re1 Rxh2+ 24. Kxh2 Qh8+ 25. Kg1 Qh5 26. Bf1 f3 27. Bg2
+fxg2 28. Be3 Rh8 29. Kf2 Qh2 30. Rg1 Nf4 31. Bxf4 exf4 32. Nb3 Qxg3+ 33.
+Ke2 Qe3# 0-1
+

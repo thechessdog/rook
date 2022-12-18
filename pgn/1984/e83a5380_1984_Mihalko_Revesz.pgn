@@ -1,0 +1,21 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Mihalko, J."]
+[Black "Revesz, I."]
+[Result "1-0"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "classical attack, Chigorin variation"]
+[HashCode "e83a5380"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Be7 7. O-O Nc6
+8. Re1 Bg4 9. c4 Nf6 10. Nc3 O-O 11. cxd5 Nxd5 12. Be4 Be6 13. Qd3 h6 14.
+Bh7+ Kh8 15. Bf5 Bxf5 16. Qxf5 Nb6 17. Be3 Bf6 18. Ne4 Nd5 19. Rad1 Re8 20.
+Bc1 Nce7 21. Qh5 Ng6 22. Nc5 Rxe1+ 23. Rxe1 b6 24. Nd3 c6 25. Nde5 Bxe5 26.
+dxe5 Qf8 27. Qf5 Nge7 28. Qe4 c5 29. g4 Nc7 30. Nh4 Ne6 31. f4 Rd8 32. Be3
+Nd5 33. f5 Nd4 34. Bf2 Nb4 35. a3 Nbc2 36. e6 Qe8 37. exf7 Qxf7 38. Qe7 Qg8
+39. f6 Nf3+ 40. Nxf3 Nxe1 41. Bxe1 Re8 42. fxg7+ Kh7 43. Qd7 1-0
+

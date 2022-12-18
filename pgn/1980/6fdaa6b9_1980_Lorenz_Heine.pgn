@@ -1,0 +1,18 @@
+[Event "corr ch-DDR"]
+[Site "corr ch-DDR"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Lorenz"]
+[Black "Heine"]
+[Result "1-0"]
+[ECO "B76"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, Rauser variation"]
+[HashCode "6fdaa6b9"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8.
+Qd2 Nc6 9. O-O-O d5 10. Nxc6 bxc6 11. Bh6 Bxh6 12. Qxh6 e5 13. h4 Be6 14.
+exd5 cxd5 15. h5 Qa5 16. hxg6 fxg6 17. Bd3 Kf7 18. Qg5 d4 19. Ne4 Qd8 20.
+Qxe5 1-0
+

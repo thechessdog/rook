@@ -1,0 +1,17 @@
+[Event "Dayton,OH"]
+[Site "Dayton,OH"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Ling, R."]
+[Black "Botha, Colin"]
+[Result "1-0"]
+[ECO "B23"]
+[Opening "Sicilian"]
+[Variation "closed, Korchnoi variation"]
+[HashCode "e5ca865f"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nc3 e6 3. g3 d5 4. Bg2 dxe4 5. Nxe4 Nf6 6. Nxf6+ Qxf6 7. Nf3
+Bd6 8. d4 cxd4 9. Bg5 Qf5 10. Qxd4 f6 11. Qxd6 fxg5 12. O-O-O Kf7 13. Qc7+
+Kf6 14. Rd8 Na6 15. Qc3+ 1-0
+

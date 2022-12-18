@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Gehlhoff, Fred"]
+[Black "Charland, John"]
+[Result "1-0"]
+[ECO "C07"]
+[Opening "French"]
+[Variation "Tarrasch, open variation"]
+[HashCode "bbfe899c"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. exd5 Qxd5 5. Ngf3 cxd4 6. Bc4 Qc5 7. O-O Nc6
+8. Qe2 Nge7 9. Ne4 Qh5 10. Nd6+ Kd7 11. Bf4 Kd8 12. Nxd4 Qg6 13. Nxc6+ bxc6
+14. Rad1 Nd5 15. Bxd5 cxd5 16. Rxd5 Bxd6 17. Rxd6+ Ke7 18. Rfd1 Re8 19. Qf3
+Rb8 20. Qa3 1-0
+

@@ -1,0 +1,20 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Rastenis, Gedeminas"]
+[Black "Razhauskas"]
+[Result "1-0"]
+[ECO "D85"]
+[Opening "Gruenfeld"]
+[Variation "modern exchange variation"]
+[HashCode "add3d16d"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. Nf3 Bg7 6. e4 Nxc3 7. bxc3 c5
+8. Rb1 O-O 9. Be2 Qa5 10. O-O Qxa2 11. Bg5 Qe6 12. Qc2 cxd4 13. cxd4 b6 14.
+Bc4 Qd7 15. Rfd1 Bb7 16. d5 Na6 17. Bb5 Qd6 18. Qe2 Nc5 19. e5 Qd8 20. d6
+f6 21. Be3 Bxf3 22. Qxf3 fxe5 23. Qxa8 Qxa8 24. dxe7 Rc8 25. Bc4+ Kh8 26.
+Bg5 Nb7 27. Ba6 Re8 28. Rbc1 h6 29. Bxb7 Qxb7 30. Rd8 hxg5 31. Rxe8+ Kh7
+32. Rh8+ Bxh8 33. e8=Q Bg7 34. Rc6 b5 35. Qxg6+ Kg8 36. Re6 1-0
+

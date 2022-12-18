@@ -1,0 +1,17 @@
+[Event "FRG Tch"]
+[Site "FRG Tch"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Kribben, N."]
+[Black "Ohst, H."]
+[Result "1/2-1/2"]
+[ECO "B45"]
+[Opening "Sicilian"]
+[Variation "Taimanov, American attack"]
+[HashCode "a530da86"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Ndb5 Bb4 7. Nd6+
+Ke7 8. Bf4 e5 9. Nf5+ Kf8 10. Bd2 d5 11. exd5 Nxd5 12. Nxd5 Qxd5 13. Bxb4+
+Nxb4 14. Qxd5 Nxd5 15. Nd6 Ke7 16. Nxc8+ Raxc8 17. O-O-O 1/2-1/2
+

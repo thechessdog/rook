@@ -1,0 +1,20 @@
+[Event "Bundesliga 8081"]
+[Site "Duitsland tt"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Ellrich, Paul"]
+[Black "Anbuhl, Edgar"]
+[Result "1/2-1/2"]
+[ECO "A07"]
+[Opening "Reti"]
+[Variation "King's Indian attack, Keres variation"]
+[HashCode "f86983dc"]
+[Epoch "Rook"]
+[WhiteID "4603940"]
+[WhiteCountry "GER"]
+[BlackID "4607252"]
+[BlackCountry "GER"]
+
+1. g3 d5 2. Nf3 Bg4 3. Bg2 Nd7 4. d4 c6 5. O-O Ngf6 6. b3 e6 7. Bb2 Be7 8. c4
+O-O 9. Nbd2 Bh5 10. Re1 Ne4 11. Nxe4 dxe4 12. Nd2 f5 13. Qc2 Qc7 14. f3 exf3
+15. exf3 1/2-1/2

@@ -1,0 +1,21 @@
+[Event "Hillerod op"]
+[Site "Hillerod"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Jensen, Henning"]
+[Black "Hansen, Soren Bech"]
+[Result "1-0"]
+[ECO "E92"]
+[Opening "King's Indian"]
+[Variation "Petrosian system, Stein variation"]
+[HashCode "af6e4d07"]
+[Epoch "Rook"]
+[BlackID "1400681"]
+[BlackCountry "DEN"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. d5 a5 8. Bg5 h6
+9. Bxf6 Qxf6 10. Qd2 Bd7 11. h3 Na6 12. Nh2 Qf4 13. Qc2 f5 14. g3 Qg5 15. Nf3
+Qf6 16. a3 Nc5 17. Nd2 a4 18. f3 Kh8 19. O-O-O c6 20. Rdf1 f4 21. g4 Qd8 22. h4
+Qa5 23. Nd1 cxd5 24. exd5 Be8 25. Nf2 Bf7 26. Nfe4 Nxe4 27. Nxe4 Rfd8 28. Nc3
+Bf8 29. Qe4 Kg7 30. Bd3 Qb6 31. Re1 Rdc8 32. h5 g5 33. Qh7+ Kf6 34. Ne4+ Ke7
+35. Qf5 Bxd5 36. Qf6+ Ke8 37. Nxd6+ Kd7 38. Bf5+ Kc7 39. Nb5+ 1-0

@@ -1,0 +1,28 @@
+[Event "Biel"]
+[Site "Biel"]
+[Date "1983.07.01"]
+[Round "1"]
+[White "Kindermann, Stefan"]
+[Black "Gobet, Fernand"]
+[Result "1-0"]
+[ECO "B47"]
+[Opening "Sicilian"]
+[Variation "Taimanov (Bastrikov) variation"]
+[HashCode "9650c878"]
+[Epoch "Rook"]
+[WhiteID "4600053"]
+[WhiteCountry "AUT"]
+[BlackID "1300083"]
+[BlackCountry "SUI"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 Qc7 6. Be2 a6 7. O-O Nf6 8.
+Kh1 Bb4 9. Bg5 Bxc3 10. Bxf6 gxf6 11. bxc3 Ne7 12. Qd2 d5 13. exd5 Nxd5 14. c4
+Nf4 15. Bf3 O-O 16. g3 Ng6 17. Rfd1 Bd7 18. h4 Rfd8 19. Qh6 e5 20. Ne2 Qxc4 21.
+Kg1 Bc6 22. Qe3 Bxf3 23. Qxf3 Rxd1+ 24. Rxd1 e4 25. Qe3 Ne5 26. Nf4 Qxc2 27.
+Rc1 Nf3+ 28. Kg2 Qd2 29. Qxd2 Nxd2 30. Nh5 f5 31. Rc5 b5 32. Rxf5 Rc8 33. Rd5
+Nb1 34. Nf6+ Kg7 35. Nxe4 Rc2 36. Rd1 Na3 37. Rd2 Rxd2 38. Nxd2 Nc2 39. Kf3 Nb4
+40. a3 Nc2 41. Nb1 a5 42. Ke4 b4 43. a4 Kf6 44. Nd2 Ke6 45. Nb3 Na3 46. Nxa5
+Nb1 47. Kd4 Nc3 48. Nc6 Nxa4 49. Nxb4 Kf5 50. Nd5 Nb2 51. f3 Kg6 52. g4 Nd1 53.
+Ke5 Nf2 54. Nf4+ Kh6 55. Kf5 Kg7 56. Nh5+ Kh6 57. Ng3 Kg7 58. Nh5+ Kh6 59. Nf4
+Kg7 60. Kg5 h6+ 61. Kf5 Nd1 62. Nh5+ Kf8 63. Kf6 Ne3 64. Ng3 Ng2 65. h5 Ne1 66.
+Nf5 Nxf3 67. Nxh6 Nh2 68. g5 Nf1 69. g6 1-0

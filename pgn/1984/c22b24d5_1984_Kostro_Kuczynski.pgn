@@ -1,0 +1,21 @@
+[Event "Gdynia"]
+[Site "Gdynia"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Kostro, Jerzy"]
+[Black "Kuczynski, Robert"]
+[Result "0-1"]
+[ECO "B92"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Opovcensky variation"]
+[HashCode "c22b24d5"]
+[Epoch "Rook"]
+[WhiteID "1101188"]
+[WhiteCountry "POL"]
+[BlackID "1100033"]
+[BlackCountry "POL"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8. Be3
+O-O 9. g4 Be6 10. g5 Nfd7 11. Qd2 Nb6 12. h4 N8d7 13. O-O-O Bc4 14. f4 exf4 15.
+Bxf4 Ne5 16. Nd4 Re8 17. Nf5 Bf8 18. h5 Bxe2 19. Qxe2 Rc8 20. Nd5 Nxd5 21. Rxd5
+Rc5 22. Rhd1 Rxd5 23. Rxd5 Qc7 24. Rd4 Qc5 25. c3 Nc6 26. Rd1 Qxf5 0-1

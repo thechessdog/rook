@@ -1,0 +1,20 @@
+[Event "Hamburg HSV"]
+[Site "Hamburg"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Bednarski, Jacek B"]
+[Black "Hess, Christian"]
+[Result "1-0"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "Nimzovich attack"]
+[HashCode "6f53aa9d"]
+[Epoch "Rook"]
+[WhiteCountry "POL"]
+[BlackCountry "DEU"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. Nc3 Nxc3 6. dxc3 Be7 7. Bf4 O-O
+8. Qd2 Nd7 9. O-O-O Nc5 10. Be3 Re8 11. Bc4 Be6 12. Bxe6 Nxe6 13. h4 Nc5 14.
+Ng5 Bf6 15. Qd5 Bxg5 16. hxg5 Rxe3 17. fxe3 Qe7 18. Rh3 Qe4 19. Qd4 Re8 20.
+Rdh1 Re5 21. Rxh7 Qxh7 22. Rxh7 Kxh7 23. b4 Ne6 24. Qxa7 b5 25. Qb7 Rxe3 26.
+Qxb5 Rxc3 27. Qf5+ Kg8 28. g6 1-0

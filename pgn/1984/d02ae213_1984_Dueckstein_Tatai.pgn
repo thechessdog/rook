@@ -1,0 +1,19 @@
+[Event "Zuerich op"]
+[Site "Zuerich"]
+[Date "1984.??.??"]
+[Round "1"]
+[White "Dueckstein, Andreas"]
+[Black "Tatai, Stefano"]
+[Result "1/2-1/2"]
+[ECO "B52"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky attack, 3...Bd7"]
+[HashCode "d02ae213"]
+[Epoch "Rook"]
+[BlackCountry "ITA"]
+[WhiteID "1600168"]
+[WhiteCountry "AUT"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Nxd7 5. O-O Ngf6 6. Re1 e6 7. d4 cxd4
+8. Qxd4 Qb6 9. Qd1 Rc8 10. b3 Nc5 11. Nbd2 Be7 12. Bb2 O-O 13. e5 dxe5 14. Nxe5
+Rfd8 15. Nec4 Qc6 16. Qe2 Ncd7 17. Nf3 Nf8 1/2-1/2

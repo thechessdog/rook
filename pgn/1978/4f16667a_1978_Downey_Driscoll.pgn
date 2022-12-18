@@ -1,0 +1,15 @@
+[Event "corr APCT"]
+[Site "corr APCT"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Downey, M."]
+[Black "Driscoll"]
+[Result "1-0"]
+[ECO "C40"]
+[Opening "Latvian gambit, 3.Bc4"]
+[HashCode "4f16667a"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 f5 3. Bc4 b5 4. Bb3 fxe4 5. Nxe5 Qg5 6. d4 Qxg2 7. Qh5+ g6
+8. Bf7+ Kd8 9. Bxg6 Qxh1+ 10. Ke2 c6 11. Na3 Nf6 12. Qh4 Be7 13. Bd2 1-0
+

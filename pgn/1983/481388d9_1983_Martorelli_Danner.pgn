@@ -1,0 +1,26 @@
+[Event "Banco di Roma"]
+[Site "Banco di Roma"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Martorelli, Antonio"]
+[Black "Danner, Georg"]
+[Result "1-0"]
+[ECO "B91"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Zagreb (fianchetto) variation"]
+[HashCode "481388d9"]
+[Epoch "Rook"]
+[BlackID "1600303"]
+[BlackCountry "AUT"]
+[WhiteID "801399"]
+[WhiteCountry "ITA"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. g3 e5 7. Nb3 b5 8. Bg2
+Bb7 9. Bg5 Nbd7 10. a4 b4 11. Nd5 Bxd5 12. exd5 Be7 13. a5 O-O 14. O-O Rb8 15.
+Qd3 Rb5 16. Rfd1 Qc7 17. Rac1 Qb7 18. Qe2 h6 19. Bd2 Bd8 20. Qc4 Be7 21. Qc6
+Rc8 22. Qxb7 Rxb7 23. Bf1 Nb8 24. Be3 Bd8 25. f4 Ng4 26. Bd2 exf4 27. Bh3 h5
+28. Bxf4 Be7 29. Nd4 g5 30. Bd2 Nd7 31. Nc6 Nde5 32. Bg2 Nxc6 33. dxc6 Rb5 34.
+Bf1 Rxa5 35. Bxb4 Rf5 36. Bxd6 Bd8 37. c7 Rxc7 38. Bd3 Rf6 39. Bxc7 Bxc7 40.
+Rf1 Bb6+ 41. Kh1 Nf2+ 42. Kg2 h4 43. gxh4 gxh4 44. h3 Bd4 45. Ra1 Bxb2 46. Rxa6
+Nxd3 47. Raxf6 Bxf6 48. cxd3 Be5 49. Kf3 Kf8 50. Re1 Bg3 51. Re2 f6 52. Kg4 Kf7
+53. Kf5 Bc7 54. Re4 Bg3 55. d4 Bf2 56. d5 Bg3 57. Re6 Be5 58. d6 1-0

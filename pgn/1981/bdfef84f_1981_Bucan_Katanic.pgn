@@ -1,0 +1,18 @@
+[Event "corr YUG"]
+[Site "corr YUG"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Bucan, D."]
+[Black "Katanic, P."]
+[Result "0-1"]
+[ECO "B33"]
+[Opening "Sicilian"]
+[Variation "Pelikan, Bird variation"]
+[HashCode "bdfef84f"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6
+8. Na3 Be6 9. Nc4 Rc8 10. Nd5 Bxd5 11. exd5 Ne7 12. Bxf6 gxf6 13. Be2 f5
+14. O-O Bg7 15. c3 Ng6 16. Re1 O-O 17. g3 f4 18. Qb3 b5 19. Nd2 f5 20. a4
+fxg3 21. hxg3 e4 22. axb5 Qg5 23. Nf1 f4 24. Bd1 fxg3 25. Nxg3 Rxf2 0-1
+

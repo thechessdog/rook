@@ -1,0 +1,24 @@
+[Event "Berlin tt"]
+[Site "Berlin-West"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Messa, Roberto"]
+[Black "Goldenberg, Richard"]
+[Result "0-1"]
+[ECO "A36"]
+[Opening "English"]
+[Variation "symmetrical, Botvinnik system"]
+[HashCode "33dfeaf3"]
+[Epoch "Rook"]
+[WhiteID "800457"]
+[BlackID "600393"]
+[WhiteCountry "ITA"]
+[BlackCountry "FRA"]
+
+1. e4 c5 2. c4 Nc6 3. Nc3 g6 4. g3 Bg7 5. Bg2 Nf6 6. d3 O-O 7. Nge2 d6 8. O-O
+Ne8 9. Rb1 Nc7 10. a3 a5 11. Nd5 Nxd5 12. exd5 Nd4 13. Nxd4 Bxd4 14. Be3 Bg7
+15. b4 axb4 16. axb4 b6 17. d4 Bf5 18. Rb3 Ra2 19. Rc3 cxb4 20. Qb3 bxc3 21.
+Qxa2 Qc7 22. Rc1 c2 23. f3 h5 24. h3 Rc8 25. Bf1 g5 26. g4 hxg4 27. hxg4 Bg6
+28. Qb3 Bf6 29. Kg2 Kg7 30. Be2 e6 31. dxe6 fxe6 32. Rh1 Rh8 33. Bd3 Rxh1 34.
+Kxh1 Bxd3 35. Qxd3 d5 36. Qxc2 Qxc4 37. Qf2 Qd3 38. Kg2 b5 39. Kg3 b4 40. f4
+Bxd4 0-1

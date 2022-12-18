@@ -1,0 +1,20 @@
+[Event "Lubniewice ch-POL"]
+[Site "Lubniewice ch-POL"]
+[Date "1981.01.01"]
+[Round "4"]
+[White "Panczyk, Krzysztof"]
+[Black "Schmidt, Wlodzimierz"]
+[Result "1/2-1/2"]
+[ECO "D87"]
+[Opening "Gruenfeld"]
+[Variation "exchange, Spassky variation"]
+[HashCode "4ef61cc7"]
+[Epoch "Rook"]
+[BlackID "1100041"]
+[BlackCountry "POL"]
+[WhiteID "1100211"]
+[WhiteCountry "POL"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Bc4 O-O 8.
+Ne2 c5 9. h4 Nc6 10. Be3 cxd4 11. cxd4 Na5 12. Bd3 Nc6 13. Bc4 Na5 14. Bd3 Nc6
+15. Bc4 1/2-1/2

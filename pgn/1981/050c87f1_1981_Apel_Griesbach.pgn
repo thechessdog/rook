@@ -1,0 +1,24 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Apel, Stefan"]
+[Black "Griesbach, R."]
+[Result "1-0"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, 6.Bd3"]
+[HashCode "050c87f1"]
+[Epoch "Rook"]
+[WhiteID "4612116"]
+[WhiteCountry "GER"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 O-O 6. Bd3 Nc6 7. e5 dxe5 8. fxe5
+Ng4 9. Be4 f6 10. h3 Nh6 11. Bd5+ Kh8 12. O-O Nb4 13. Bb3 c6 14. Re1 Nd5 15.
+Nxd5 cxd5 16. exf6 exf6 17. c3 Bf5 18. Bc2 Qd7 19. Bxh6 Bxh6 20. Bxf5 Qxf5 21.
+Qa4 g5 22. Nh2 a6 23. Rf1 Qe6 24. Rae1 Qd6 25. Ng4 Bg7 26. Rf5 b5 27. Qb3 Rad8
+28. Ref1 Qe6 29. Qd1 Rde8 30. Qf3 Qe4 31. Rxd5 h5 32. Qxe4 Rxe4 33. Nh2 Rfe8
+34. Rd6 Re2 35. Rf2 R2e6 36. Rxe6 Rxe6 37. Kf1 Kg8 38. Nf3 Bh6 39. Ne1 Bf8 40.
+Nd3 Kg7 41. Rf3 Kg6 42. Kf2 h4 43. Re3 Rb6 44. Nc5 Bxc5 45. dxc5 Rc6 46. b4 f5
+47. Rd3 Kf6 48. Rd4 Re6 49. c4 Ke5 50. Ke3 bxc4 51. Rxc4 Kd5+ 52. Kd3 Kc6 53.
+a4 1-0

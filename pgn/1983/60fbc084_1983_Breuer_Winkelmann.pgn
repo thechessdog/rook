@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Breuer"]
+[Black "Winkelmann"]
+[Result "0-1"]
+[ECO "A45"]
+[Opening "Queen's pawn"]
+[Variation "Bronstein gambit"]
+[HashCode "60fbc084"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. g4 Nxg4 3. e4 d5 4. e5 Bf5 5. h3 Nh6 6. Bxh6 gxh6 7. Bd3 Bg6
+8. e6 fxe6 9. Bxg6+ hxg6 10. Qd3 Rg8 11. Qb5+ Nc6 12. Nf3 Bg7 13. Qxb7 Nxd4
+14. Nxd4 Bxd4 15. Qc6+ Kf7 16. c3 Bf6 0-1
+

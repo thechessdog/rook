@@ -1,0 +1,18 @@
+[Event "Quebec Invitational"]
+[Site "Quebec Invitational"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "LaBelle, Jacques"]
+[Black "Williams, Leo"]
+[Result "1/2-1/2"]
+[ECO "B93"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.f4"]
+[HashCode "c05df8cc"]
+[Epoch "Rook"]
+[BlackID "2600730"]
+[BlackCountry "CAN"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 Qc7 7. Bd3 g6 8. O-O
+Bg7 9. Kh1 Nbd7 10. Qe1 b5 11. Nf3 e5 12. a4 b4 13. Nd1 a5 14. fxe5 dxe5 15.
+Bd2 O-O 16. Qh4 Ba6 17. Bh6 Nh5 18. Bxg7 1/2-1/2

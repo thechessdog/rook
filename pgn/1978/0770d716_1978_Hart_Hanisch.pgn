@@ -1,0 +1,18 @@
+[Event "Wisconsin"]
+[Site "Wisconsin"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Hart"]
+[Black "Hanisch"]
+[Result "1-0"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra gambit"]
+[HashCode "0770d716"]
+[Epoch "Rook"]
+
+1. e4 c5 2. d4 cxd4 3. c3 d5 4. exd5 Qxd5 5. cxd4 Nc6 6. Nf3 e5 7. Nc3 Bb4
+8. Bd2 Bxc3 9. Bxc3 exd4 10. Nxd4 Nge7 11. Nb5 Qxd1+ 12. Rxd1 O-O 13. Bc4
+Bf5 14. O-O Rad8 15. Nd6 b6 16. Rfe1 Bg6 17. Bb5 Rd7 18. Rxe7 Rxd6 19. Rxd6
+Nxe7 20. Rd7 Nc8 21. Bb4 Re8 22. Rd4 1-0
+

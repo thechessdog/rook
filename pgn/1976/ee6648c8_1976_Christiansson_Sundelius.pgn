@@ -1,0 +1,26 @@
+[Event "corr SWE/K tt"]
+[Site "corr SWE/K tt"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Christiansson, Beng"]
+[Black "Sundelius, Per"]
+[Result "0-1"]
+[ECO "E46"]
+[Opening "Nimzo-Indian"]
+[Variation "Reshevsky variation"]
+[HashCode "ee6648c8"]
+[Epoch "Rook"]
+[BlackID "1714279"]
+[BlackCountry "SWE"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Ne2 d5 6. a3 Be7 7. cxd5 Nxd5 8. Qc2
+Nd7 9. g3 b6 10. Bg2 Bb7 11. e4 Nxc3 12. Nxc3 Nf6 13. Be3 Ng4 14. O-O Nxe3 15.
+fxe3 Bg5 16. Qe2 Qe7 17. e5 Bxg2 18. Kxg2 c5 19. Ne4 cxd4 20. exd4 f5 21. Nxg5
+Qxg5 22. Rf4 Rfd8 23. Qc4 Qg6 24. Rc1 Qf7 25. Qc6 Rab8 26. h4 Rd5 27. Qc7 Rbd8
+28. Qc6 Qd7 29. Qxd7 R8xd7 30. b4 Kf7 31. Rc6 Ke7 32. Rc8 Rxd4 33. Rg8 Rd2+ 34.
+Rf2 Kf7 35. Ra8 R2d3 36. g4 Rxa3 37. gxf5 exf5 38. Rxf5+ Ke6 39. Rf2 Rb3 40.
+Re8+ Re7 41. Rxe7+ Kxe7 42. Ra2 Rxb4 43. Rxa7+ Ke6 44. Kh3 g6 45. Rxh7 Kxe5 46.
+Rb7 Rb1 47. Rg7 Kf5 48. Rf7+ Ke6 49. Rb7 Kf6 50. Kg4 Rb4+ 51. Kg3 b5 52. Rb8
+Ke5 53. Rf8 Rb1 54. Kg2 b4 55. Rg8 Kf5 56. Rf8+ Ke5 57. Re8+ Kf5 58. Rf8+ Kg4
+59. Rg8 Rb2+ 60. Kg1 Kf5 61. Rf8+ Ke5 62. Rg8 b3 63. Rb8 Kd4 64. Rb6 Kc5 65.
+Rb8 Kc4 66. Rb6 Rc2 67. Rxg6 b2 68. Rg4+ Kd5 0-1

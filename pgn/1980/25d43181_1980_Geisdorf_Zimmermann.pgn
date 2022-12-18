@@ -1,0 +1,17 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Geisdorf, Herbert"]
+[Black "Zimmermann, Frank"]
+[Result "1-0"]
+[ECO "B40"]
+[Opening "Sicilian defence"]
+[HashCode "25d43181"]
+[Epoch "Rook"]
+[BlackID "4607066"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nf3 e6 3. b4 cxb4 4. a3 d5 5. e5 Nc6 6. axb4 Bxb4 7. c3 Be7 8. d4
+f6 9. Bd3 Qc7 10. Bf4 f5 11. O-O h6 12. Ne1 Bd7 13. Qh5+ Kf8 14. Bxf5 exf5 15.
+e6 g6 16. Qxg6 Bxe6 17. Bxc7 Nf6 18. Bd6 Ne4 19. Qxe6 Nxd6 20. Nd3 1-0

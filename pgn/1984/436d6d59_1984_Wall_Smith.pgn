@@ -1,0 +1,18 @@
+[Event "Montgomery,AL"]
+[Site "Montgomery,AL"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Wall, Bill"]
+[Black "Smith, Daniel"]
+[Result "1-0"]
+[ECO "A00"]
+[Opening "Benko's opening"]
+[Variation "reversed Alekhine"]
+[HashCode "436d6d59"]
+[Epoch "Rook"]
+[WhiteCountry "USA"]
+
+1. g3 e5 2. Nf3 e4 3. Nd4 Nf6 4. d3 Bb4+ 5. c3 Be7 6. Bg2 c5 7. Nb3 d5 8. dxe4
+Nxe4 9. O-O O-O 10. Bf4 c4 11. Nd4 Qb6 12. Qc2 Be6 13. Nxe6 Qxe6 14. Nd2 Nxd2
+15. Qxd2 Rd8 16. Rad1 Qa6 17. e4 Nc6 18. exd5 Qxa2 19. Qe2 Na5 20. Qxe7 Qxb2
+21. Bc7 Re8 22. d6 Rxe7 23. dxe7 Nc6 24. Bxc6 1-0

@@ -1,0 +1,25 @@
+[Event "BL2-N 8384"]
+[Site "BL2-N 8384"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Gerigk, Wolf"]
+[Black "Von Herman, Ulf"]
+[Result "1-0"]
+[ECO "E45"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Bronstein (Byrne) variation"]
+[HashCode "796221a7"]
+[Epoch "Rook"]
+[WhiteID "4684249"]
+[WhiteCountry "GER"]
+[BlackID "4608500"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 b6 5. Ne2 Ba6 6. a3 Be7 7. Nf4 d5 8. Qf3
+Bb7 9. cxd5 Nxd5 10. Bb5+ c6 11. Ncxd5 exd5 12. Bd3 O-O 13. O-O Nd7 14. Bd2 Nf6
+15. b4 Re8 16. Rfc1 Bf8 17. Qd1 Ne4 18. Be1 g6 19. Bf1 Qd7 20. Rab1 Nd6 21. Qb3
+Rac8 22. g3 Rc7 23. a4 Bh6 24. Bh3 Qe7 25. b5 Bxf4 26. exf4 c5 27. dxc5 bxc5
+28. Ba5 c4 29. Qb2 Ne4 30. Bxc7 Qxc7 31. Re1 c3 32. Qb4 Qb6 33. Re3 d4 34. Rd3
+Rd8 35. Rbd1 Nd2 36. a5 Qf6 37. Bg2 Bxg2 38. Kxg2 g5 39. fxg5 Qe5 40. R1xd2
+cxd2 41. Qxd2 Qe4+ 42. f3 Qd5 43. b6 axb6 44. axb6 Qd7 45. h4 Kg7 46. h5 h6 47.
+gxh6+ 1-0

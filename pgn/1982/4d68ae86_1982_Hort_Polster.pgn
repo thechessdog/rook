@@ -1,0 +1,19 @@
+[Event "Cologne"]
+[Site "Cologne"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Hort, Vlastimil"]
+[Black "Polster, Wolfgang"]
+[Result "1-0"]
+[ECO "A80"]
+[Opening "Dutch, 2.Bg5 variation"]
+[HashCode "4d68ae86"]
+[Epoch "Rook"]
+[BlackID "16231805"]
+[WhiteID "4600029"]
+[WhiteCountry "GER"]
+[BlackCountry "GER"]
+
+1. d4 f5 2. Bg5 g6 3. h4 Bg7 4. Nc3 c5 5. d5 Qa5 6. Bd2 d6 7. Nh3 Nf6 8. Nf4
+Ng4 9. e3 Na6 10. h5 Ne5 11. hxg6 hxg6 12. Rxh8+ Bxh8 13. Nxg6 Nxg6 14. Qh5 Nb4
+15. Qxg6+ Kd7 16. Qe6+ Kc7 17. Qxe7+ 1-0

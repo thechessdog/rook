@@ -1,0 +1,20 @@
+[Event "Zemun"]
+[Site "Zemun"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Ivkov, Borislav"]
+[Black "Pytel, Krzysztof"]
+[Result "1/2-1/2"]
+[ECO "D94"]
+[Opening "Gruenfeld"]
+[Variation "Makogonov variation"]
+[HashCode "52393b47"]
+[Epoch "Rook"]
+[WhiteID "900141"]
+[WhiteCountry "SRB"]
+[BlackID "600199"]
+[BlackCountry "FRA"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. e3 O-O 6. b4 Ne4 7. Bb2 c6 8. Bd3
+Nxc3 9. Bxc3 Bg4 10. h3 Bxf3 11. Qxf3 e5 12. dxe5 Nd7 13. Qg3 Qe7 14. f4 f6 15.
+e6 Nb6 16. f5 1/2-1/2

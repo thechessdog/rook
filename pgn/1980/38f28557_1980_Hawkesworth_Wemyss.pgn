@@ -1,0 +1,17 @@
+[Event "corr CCLA"]
+[Site "corr CCLA"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Hawkesworth"]
+[Black "Wemyss"]
+[Result "1-0"]
+[ECO "B69"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...a6 defence, 11.Bxf6"]
+[HashCode "38f28557"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd2 a6 8.
+O-O-O Bd7 9. f4 Be7 10. Nf3 b5 11. Bxf6 gxf6 12. f5 Qa5 13. Kb1 b4 14. Ne2
+Rb8 15. Ng3 h5 16. Bc4 Qb6 17. Nd4 e5 18. Nxc6 Bxc6 19. Bd5 h4 1-0
+

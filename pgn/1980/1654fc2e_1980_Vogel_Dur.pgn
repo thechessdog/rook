@@ -1,0 +1,25 @@
+[Event "Amsterdam"]
+[Site "Amsterdam"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Vogel, Jaap"]
+[Black "Duer, Arne"]
+[Result "1/2-1/2"]
+[ECO "E67"]
+[Opening "King's Indian"]
+[Variation "fianchetto, classical variation"]
+[HashCode "1654fc2e"]
+[Epoch "Rook"]
+[WhiteID "1000764"]
+[WhiteCountry "NED"]
+[BlackID "1600117"]
+[BlackCountry "AUT"]
+
+1. Nf3 g6 2. g3 Bg7 3. d4 d6 4. Bg2 Nd7 5. O-O e5 6. c4 Ngf6 7. Nc3 O-O 8. h3
+Re8 9. e4 exd4 10. Nxd4 Nc5 11. Re1 a5 12. Rb1 c6 13. Bf4 a4 14. Nc2 Nfd7 15.
+Bxd6 a3 16. b4 Bxc3 17. Re3 Na4 18. Nxa3 Be5 19. Bxe5 Nxe5 20. f4 Qxd1+ 21.
+Rxd1 Nb2 22. Rd4 c5 23. bxc5 Nc6 24. Rd6 Ra5 25. Rb3 Na4 26. Rb5 Ra6 27. Nb1
+Kf8 28. e5 Ke7 29. Bd5 Ra7 30. Bg2 Rf8 31. Nd2 f6 32. exf6+ Rxf6 33. Ne4 Re6
+34. Rd3 h6 35. Nd6 Bd7 36. Nxb7 Rxb7 37. Rxb7 Nxc5 38. Bxc6 Rxc6 39. Re3+ Kf6
+40. Ra7 Bxh3 41. Re8 Ne6 42. Ree7 Kf5 43. Rf7+ Ke4 44. Rf6 Bf5 45. Ra5 h5 46.
+Kf2 Kd4 1/2-1/2

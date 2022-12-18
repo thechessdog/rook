@@ -1,0 +1,17 @@
+[Event "corr ch-DEN"]
+[Site "corr ch-DEN"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Jardin"]
+[Black "Ros"]
+[Result "1-0"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "f44c417f"]
+[Epoch "Rook"]
+
+1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. d4 cxd4 5. cxd4 Nc6 6. Nf3 Bg4 7. Nc3 Qa5
+8. d5 O-O-O 9. Bd2 Nb4 10. Rc1 Kb8 11. Nb5 a6 12. a3 axb5 13. axb4 Qb6 14.
+Be3 Qf6 15. Ra1 e5 16. Ba7+ Ka8 17. Bb6+ Kb8 18. Ra8+ 1-0
+

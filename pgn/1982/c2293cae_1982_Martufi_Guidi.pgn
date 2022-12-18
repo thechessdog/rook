@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Martufi, C."]
+[Black "Guidi, Guido"]
+[Result "0-1"]
+[ECO "B27"]
+[Opening "Sicilian"]
+[Variation "Hungarian variation"]
+[HashCode "c2293cae"]
+[Epoch "Rook"]
+[BlackID "11800178"]
+[BlackCountry "SMR"]
+
+1. e4 c5 2. Nf3 g6 3. d4 Bg7 4. d5 d6 5. c4 e5 6. dxe6 Bxe6 7. Nc3 Nf6 8. Bf4
+O-O 9. Qxd6 Qa5 10. O-O-O Nc6 11. Qd3 Rad8 12. Qc2 Nxe4 13. Nxe4 Nb4 14. Qb3
+Nxa2+ 15. Kb1 Rxd1+ 16. Qxd1 Bf5 17. Nd2 Nc3+ 0-1

@@ -1,0 +1,18 @@
+[Event "corr FRG/C"]
+[Site "corr FRG/C"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Boeven, M."]
+[Black "Schaaf, Peter"]
+[Result "0-1"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "09920ed8"]
+[Epoch "Rook"]
+
+1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. d4 e6 5. Nf3 Nc6 6. Na3 Qd8 7. Nc2 Nf6 8.
+Bd3 Be7 9. O-O O-O 10. Ne5 cxd4 11. Nxc6 bxc6 12. Nxd4 Qb6 13. Qe2 Bb7 14.
+Bg5 c5 15. Nb5 Rfd8 16. Rad1 Qc6 17. f3 Rxd3 18. Bxf6 Rxd1 19. Bxe7 Rxf1+
+20. Qxf1 a6 21. Na3 Re8 0-1
+

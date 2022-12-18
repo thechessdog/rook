@@ -1,0 +1,22 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Hansen, Soren Bech"]
+[Black "Dreifeldt, Soren"]
+[Result "0-1"]
+[ECO "B16"]
+[Opening "Caro-Kann"]
+[Variation "Bronstein-Larsen variation"]
+[HashCode "1c67aa72"]
+[Epoch "Rook"]
+[WhiteID "1400681"]
+[WhiteCountry "DEN"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ gxf6 6. Bc4 Bf5 7. Bf4 e6 8.
+Nf3 Bd6 9. Bh6 Nd7 10. Nh4 Bg6 11. Qd2 Qc7 12. O-O-O O-O-O 13. Nxg6 hxg6 14.
+Be3 f5 15. g3 Rh3 16. Bf1 Rh7 17. Kb1 f6 18. Bc4 Re7 19. h4 e5 20. dxe5 Nxe5
+21. Qe2 Ng4 22. Rd3 Rde8 23. Re1 Bxg3 24. fxg3 Qxg3 25. Rg1 Qxg1+ 26. Bxg1 Rxe2
+27. Rd1 Re1 28. Kc1 Rxd1+ 29. Kxd1 Ne3+ 30. Bxe3 Rxe3 31. Bf7 g5 32. h5 Rh3 33.
+Bg6 Kc7 34. Ke2 Kd6 35. Bxf5 Rxh5 36. Kf3 Ke5 37. Bg4 Rh2 38. Bc8 Rxc2 39. Bxb7
+Rxb2 40. Bxc6 Rxa2 0-1

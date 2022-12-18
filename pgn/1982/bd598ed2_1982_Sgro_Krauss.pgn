@@ -1,0 +1,20 @@
+[Event "corr USCCC"]
+[Site "corr USCCC"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Sgro, A."]
+[Black "Krauss, G."]
+[Result "1-0"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra gambit"]
+[HashCode "bd598ed2"]
+[Epoch "Rook"]
+
+1. e4 c5 2. d4 cxd4 3. c3 dxc3 4. Nxc3 Nc6 5. Nf3 d6 6. Bc4 e6 7. O-O Nf6
+8. Qe2 Be7 9. Rd1 e5 10. Be3 O-O 11. Rac1 Bg4 12. h3 Bxf3 13. Qxf3 Rc8 14.
+a3 a6 15. Nd5 Nxd5 16. Bxd5 Qd7 17. Rc3 Bf6 18. Qh5 Ne7 19. Rxc8 Nxc8 20.
+Ba2 Qb5 21. Rc1 Ne7 22. Rc2 Qd3 23. Rd2 Qxe4 24. Rxd6 Nf5 25. Rxf6 gxf6 26.
+Bc5 Ng7 27. Qd1 Rc8 28. Qd7 Qc6 29. Qxf7+ Kh8 30. Be3 b5 31. Bh6 Nf5 32.
+Be6 1-0
+

@@ -1,0 +1,22 @@
+[Event "Warsaw"]
+[Site "Warsaw"]
+[Date "1983.01.01"]
+[Round "6"]
+[White "Georgiev, Krum"]
+[Black "Szymczak, Zbigniew"]
+[Result "1-0"]
+[ECO "C92"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Flohr-Zaitsev system (Lenzerheide variation)"]
+[HashCode "5b5c30ef"]
+[Epoch "Rook"]
+[WhiteID "2900092"]
+[WhiteCountry "FID"]
+[BlackID "1100424"]
+[BlackCountry "POL"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. h3 Bb7 10. d4 Re8 11. Nbd2 Bf8 12. Bc2 h6 13. d5 Nb8 14. b3 c6 15. c4
+cxd5 16. cxd5 Nbd7 17. a4 bxa4 18. Rxa4 Qc7 19. Nc4 Nb6 20. Nxb6 Qxb6 21. Be3
+Qc7 22. Nd2 Reb8 23. Bd3 Bc8 24. Qe2 a5 25. Rea1 Bd7 26. R4a3 Rb4 27. Nc4 Rab8
+28. Rc1 Qd8 29. Qc2 a4 30. bxa4 Qe8 31. a5 Ba4 32. Qd2 Bb3 33. Nb6 1-0

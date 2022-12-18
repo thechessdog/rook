@@ -1,0 +1,23 @@
+[Event "Bundesliga 8182"]
+[Site "Duitsland tt"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Schlaugat, Michael"]
+[Black "Kiefer, Gerhard"]
+[Result "1-0"]
+[ECO "B20"]
+[Opening "Sicilian"]
+[Variation "Steinitz variation"]
+[HashCode "3c72294d"]
+[Epoch "Rook"]
+[WhiteID "4607503"]
+[WhiteCountry "GER"]
+[BlackID "4606965"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. g3 Nc6 3. Bg2 g6 4. Ne2 Bg7 5. O-O d6 6. c3 e5 7. d3 Nge7 8. Be3
+O-O 9. d4 exd4 10. cxd4 Qb6 11. Nbc3 Nxd4 12. Nxd4 cxd4 13. Na4 Qa5 14. Bxd4
+Bxd4 15. Qxd4 Nc6 16. Qd1 Be6 17. Nc3 Ne5 18. Qd4 Rac8 19. Rfd1 Rfd8 20. Nd5
+Bxd5 21. Qxd5 Qb6 22. b3 Rc2 23. Rd2 Rxd2 24. Qxd2 Rc8 25. Rd1 Rc6 26. h3 Qc5
+27. Kh2 f6 28. f4 Nf7 29. e5 dxe5 30. Bxc6 Qxc6 31. fxe5 Nxe5 32. Qd5+ Qxd5 33.
+Rxd5 Kf7 34. Rd8 1-0

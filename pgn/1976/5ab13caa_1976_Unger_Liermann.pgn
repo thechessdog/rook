@@ -1,0 +1,27 @@
+[Event "corr DDR-PZ"]
+[Site "corr DDR-PZ"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Unger, G."]
+[Black "Liermann"]
+[Result "1-0"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Steinitz variation"]
+[HashCode "5ab13caa"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. dxc5 Nc6 5. Nf3 Bxc5 6. Bd3 Nge7 7. O-O Ng6
+8. Re1 Bd7 9. c3 Bb6 10. Na3 a6 11. Be3 Bc7 12. Bd4 Nxd4 13. cxd4 O-O 14.
+Qd2 b5 15. b4 Bb6 16. Bxg6 fxg6 17. Nc2 Qe7 18. a3 h6 19. Qd3 g5 20. Nd2
+Rf7 21. Nb3 Raf8 22. Rf1 Rf4 23. Nc5 Bc8 24. a4 bxa4 25. Nxa4 Ba7 26. f3
+Qf7 27. Nc5 Bxc5 28. bxc5 Qb7 29. Rfb1 Qf7 30. Nb4 Qh5 31. Nc6 R4f7 32. Rf1
+g4 33. f4 Kh8 34. Nb4 Rxf4 35. Rxf4 Rxf4 36. Nxa6 Qg5 37. c6 Rf8 38. Nc5 h5
+39. Nb3 h4 40. Rf1 Rxf1+ 41. Kxf1 Qf4+ 42. Kg1 Ba6 43. g3 Qg5 44. Qc3 Qf5
+45. Nd2 h3 46. c7 Bc8 47. Nb3 Qb1+ 48. Nc1 Qe4 49. Kf2 Qg2+ 50. Ke1 Qg1+
+51. Kd2 Qxh2+ 52. Ne2 Qf2 53. Qc6 Qf7 54. Qd6 Bd7 55. Qb4 h2 56. Qb8+ Kh7
+57. Qb1+ g6 58. Nf4 Kg7 59. Qh1 g5 60. Nd3 Qh5 61. Nf2 Bc8 62. Qd1 Kf8 63.
+Qb1 Qf7 64. Nxg4 Qxc7 65. Qb4+ Kg8 66. Nxh2 Qa7 67. Qc5 Qa2+ 68. Qc2 Qa5+
+69. Ke3 Qa3+ 70. Kf2 Qf8+ 71. Nf3 Kg7 72. Qc1 Bd7 73. Qxg5+ Kh7 74. g4 Be8
+75. Kg3 1-0
+

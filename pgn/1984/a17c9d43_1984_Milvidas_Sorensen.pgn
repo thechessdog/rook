@@ -1,0 +1,23 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Milvidas"]
+[Black "Sorensen, J."]
+[Result "1-0"]
+[ECO "D86"]
+[Opening "Gruenfeld"]
+[Variation "exchange, Larsen variation"]
+[HashCode "a17c9d43"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Bc4 O-O
+8. Ne2 Qd7 9. O-O b6 10. e5 Ba6 11. Bb3 c5 12. e6 fxe6 13. Nf4 c4 14. Bc2
+Bb7 15. Qe2 Bd5 16. Re1 Nc6 17. Qg4 Rad8 18. h4 b5 19. Qg5 Rf6 20. h5 h6
+21. Qg4 g5 22. Ng6 Rxg6 23. Bxg6 e5 24. Qxd7 Rxd7 25. Be8 Rd8 26. Bxc6 Bxc6
+27. dxe5 Rd3 28. a4 bxa4 29. Rb1 Rxc3 30. Rb8+ Bf8 31. Rc8 Bd5 32. Rd1 Be6
+33. Ra8 Rd3 34. Rxd3 cxd3 35. Rxa7 Bg4 36. Rxa4 Bxh5 37. Rd4 Bg6 38. Rd8
+Bf5 39. f3 Kf7 40. g4 Be6 41. Rxd3 Bg7 42. Bb2 Bc4 43. Rd7 Be6 44. Ra7 Bf8
+45. Kf2 Bg7 46. Kg3 Bf8 47. f4 gxf4+ 48. Kxf4 Bg7 49. Kg3 Bf8 50. Kh4 Bd5
+51. Kh5 Be4 52. e6+ Kxe6 53. Ra4 1-0
+

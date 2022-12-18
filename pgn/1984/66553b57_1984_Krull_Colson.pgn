@@ -1,0 +1,22 @@
+[Event "USA"]
+[Site "USA"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Krull"]
+[Black "Colson"]
+[Result "1-0"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "Cochrane gambit"]
+[HashCode "66553b57"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nxf7 Kxf7 5. d4 Be7 6. Bc4+ d5 7. exd5
+Bd6 8. O-O Re8 9. Bg5 Bf5 10. Nc3 Nbd7 11. h3 Kf8 12. Qd2 a6 13. Rfe1 Rc8
+14. Bd3 Bxd3 15. Qxd3 h6 16. Be3 Nb6 17. a3 Nbxd5 18. Nxd5 Nxd5 19. Qf5+
+Nf6 20. c4 Qd7 21. Qd3 c5 22. Rad1 cxd4 23. Qxd4 Rcd8 24. Kf1 Be5 25. Qc5+
+Qe7 26. Rxd8 Rxd8 27. Qxe7+ Kxe7 28. Bc5+ Ke6 29. f4 Nd7 30. Bd4 Rf8 31.
+Bxe5 Nxe5 32. Rxe5+ Kd6 33. g3 g5 34. Re4 Rf5 35. Ke2 h5 36. Kf3 a5 37. b4
+gxf4 38. gxf4 b6 39. Rd4+ Kc6 40. b5+ Kc5 41. Rd5+ Rxd5 42. cxd5 Kxd5 43.
+Ke3 a4 44. h4 1-0
+

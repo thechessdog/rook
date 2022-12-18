@@ -1,0 +1,17 @@
+[Event "corr FRG/C"]
+[Site "corr FRG/C"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Palm, Hans"]
+[Black "Behle, B."]
+[Result "1-0"]
+[ECO "D11"]
+[Opening "QGD Slav"]
+[Variation "3.Nf3"]
+[HashCode "a931eda5"]
+[Epoch "Rook"]
+
+1. Nf3 d5 2. c4 c6 3. d4 e6 4. Qc2 Nf6 5. g3 dxc4 6. Qxc4 c5 7. Bg2 Nc6 8.
+dxc5 Qa5+ 9. Nbd2 Qxc5 10. O-O Rb8 11. Rd1 e5 12. Ng5 Nd8 13. Qxc5 Bxc5 14.
+Nc4 h6 15. Rxd8+ 1-0
+

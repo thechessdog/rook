@@ -1,0 +1,22 @@
+[Event "Greece"]
+[Site "Greece"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Ivanovic, Bozidar"]
+[Black "Gesos, Pavlos"]
+[Result "1-0"]
+[ECO "B81"]
+[Opening "Sicilian"]
+[Variation "Scheveningen, Keres attack"]
+[HashCode "0bc39884"]
+[Epoch "Rook"]
+[BlackID "4200055"]
+[BlackCountry "GRE"]
+[WhiteID "900095"]
+[WhiteCountry "MNE"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. g4 a6 7. g5 Nfd7 8. Rg1
+b5 9. a3 Bb7 10. Rg3 Nb6 11. Bg2 N8d7 12. b3 Rc8 13. Bb2 Be7 14. Qe2 g6 15. h4
+e5 16. Nf3 Rc5 17. O-O-O Qc7 18. Ne1 O-O 19. h5 Re8 20. hxg6 fxg6 21. Kb1 Nf8
+22. Nd5 Nxd5 23. exd5 Qd8 24. Nd3 Rc7 25. Qe3 Bc8 26. f4 Bf5 27. fxe5 Qc8 28.
+Rd2 Bxd3 29. Qxd3 dxe5 30. d6 1-0

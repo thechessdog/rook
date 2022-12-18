@@ -1,0 +1,17 @@
+[Event "New Hampshire"]
+[Site "New Hampshire"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Curdo"]
+[Black "Burnham"]
+[Result "1-0"]
+[ECO "B52"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky attack, 3...Bd7"]
+[HashCode "5232484a"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. a4 Nc6 5. O-O g6 6. c3 Bg7 7. Re1 e5 8.
+d4 Nge7 9. dxc5 dxc5 10. Qd6 b6 11. Bg5 Rc8 12. Na3 Be6 13. Bxe7 Qxd6 14.
+Bxd6 f6 15. a5 Kf7 16. axb6 1-0
+

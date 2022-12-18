@@ -1,0 +1,20 @@
+[Event "Pegomas"]
+[Site "Pegomas"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Miralles, Gilles"]
+[Black "Vincent, F."]
+[Result "1-0"]
+[ECO "A00"]
+[Opening "Polish (Sokolsky) opening"]
+[HashCode "fcfb2e37"]
+[Epoch "Rook"]
+[WhiteID "600059"]
+[WhiteCountry "FRA"]
+
+1. b4 Nf6 2. Bb2 e6 3. b5 d5 4. e3 Bd7 5. f4 Be7 6. Nf3 O-O 7. Be2 a6 8. bxa6
+Nxa6 9. Ne5 Ba4 10. Nc3 Nc5 11. O-O Nfd7 12. d4 Nxe5 13. fxe5 Ne4 14. Bd3 Nxc3
+15. Bxc3 c5 16. dxc5 Bxc5 17. Rf3 g6 18. Bd4 b6 19. Rf4 Qg5 20. h4 Qh6 21. Qf3
+Bc6 22. Kf2 Rab8 23. Rh1 Be7 24. Qh3 b5 25. Rf6 Qg7 26. h5 Rbe8 27. hxg6 hxg6
+28. Ke2 Bd7 29. Bxg6 fxg6 30. Rxg6 Qxg6 31. Qh8+ Kf7 32. Rh7+ Qxh7 33. Qxh7#
+1-0

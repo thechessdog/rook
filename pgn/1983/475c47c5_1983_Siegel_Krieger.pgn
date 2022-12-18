@@ -1,0 +1,20 @@
+[Event "Birkenfeld"]
+[Site "Birkenfeld"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Siegel, Georg"]
+[Black "Krieger, Hermann"]
+[Result "0-1"]
+[ECO "A04"]
+[Opening "Reti opening"]
+[HashCode "475c47c5"]
+[Epoch "Rook"]
+[WhiteID "4604237"]
+[BlackID "4609867"]
+[WhiteCountry "GER"]
+[BlackCountry "GER"]
+
+1. Nf3 c5 2. g3 Nc6 3. Bg2 g6 4. O-O Bg7 5. Nc3 e5 6. a3 Nge7 7. Rb1 a5 8. d3
+O-O 9. Ne1 d6 10. f4 Be6 11. Nf3 h6 12. e4 Rc8 13. Be3 Nd4 14. Qd2 Kh7 15. Ne2
+a4 16. c3 Nxe2+ 17. Qxe2 Qd7 18. Qd2 f5 19. Nh4 Rc7 20. d4 cxd4 21. cxd4 fxe4
+22. fxe5 Rxf1+ 23. Kxf1 dxe5 24. Bxe4 exd4 25. Bf4 Rc5 26. Qb4 Qb5+ 0-1

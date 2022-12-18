@@ -1,0 +1,18 @@
+[Event "Minnesota"]
+[Site "Minnesota"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Shannon, P."]
+[Black "Dathe, D."]
+[Result "1-0"]
+[ECO "B12"]
+[Opening "Caro-Kann"]
+[Variation "advance variation"]
+[HashCode "9be16576"]
+[Epoch "Rook"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Bh7 6. Nc3 e6 7. Bd3 Bxd3 8.
+Qxd3 Nd7 9. f4 h5 10. f5 hxg4 11. fxe6 Nb6 12. exf7+ Kxf7 13. Qf5+ Ke8 14.
+Qg6+ Kd7 15. Qxg4+ Kc7 16. Bf4 Nh6 17. e6+ Kc8 18. Bxh6 Rxh6 19. e7+ Qd7
+20. exf8=Q+ 1-0
+

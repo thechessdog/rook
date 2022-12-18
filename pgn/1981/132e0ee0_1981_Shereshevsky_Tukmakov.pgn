@@ -1,0 +1,21 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Shereshevsky, Mikha"]
+[Black "Tukmakov, Vladimir B"]
+[Result "0-1"]
+[ECO "A45"]
+[Opening "Trompovsky attack (Ruth, Opovcensky opening)"]
+[HashCode "132e0ee0"]
+[Epoch "Rook"]
+[BlackID "14100096"]
+[BlackCountry "UKR"]
+
+1. d4 Nf6 2. Bg5 Ne4 3. Bh4 d5 4. f3 Nd6 5. Nc3 c5 6. dxc5 Nf5 7. Bf2 d4 8. Ne4
+Nc6 9. g4 Ne3 10. Bxe3 dxe3 11. Qxd8+ Nxd8 12. O-O-O g6 13. g5 h6 14. Rd3 Ne6
+15. f4 Nxf4 16. Rxe3 Ne6 17. Bg2 hxg5 18. c6 g4 19. Kb1 Rb8 20. h3 f5 21. c7
+Ra8 22. Nf2 gxh3 23. Rxe6 hxg2 24. Rxe7+ Kxe7 25. Rxh8 Be6 26. Nfh3 Rc8 27. Ng5
+Kf6 28. Nxe6 Kxe6 29. Nf3 Kf6 30. Rh2 g5 31. Rxg2 g4 32. Nd4 Bc5 33. Nb5 Kg5
+34. Kc1 a6 35. Nc3 Rxc7 36. Nd5 Rh7 37. e3 Bd6 38. Kd2 Rh1 39. Ke2 Kh4 40. Nf4
+Bxf4 41. exf4 Kh3 0-1

@@ -1,0 +1,19 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Dorfman, Iossif"]
+[Black "Psakhis, Lev"]
+[Result "1/2-1/2"]
+[ECO "A67"]
+[Opening "Benoni"]
+[Variation "Taimanov variation"]
+[HashCode "46661a6a"]
+[Epoch "Rook"]
+[BlackID "2800012"]
+[WhiteCountry "FRA"]
+[BlackCountry "ISR"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. f4 Bg7 8. Bb5+
+Nfd7 9. Bd3 O-O 10. Nf3 Na6 11. O-O Rb8 12. Kh1 Nc7 13. a4 a6 14. a5 b5 15.
+axb6 Nxb6 16. f5 gxf5 17. exf5 Nbxd5 18. Bg5 1/2-1/2

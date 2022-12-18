@@ -1,0 +1,23 @@
+[Event "Troon"]
+[Site "Troon"]
+[Date "1984.07.01"]
+[Round "1"]
+[White "Cramling, Dan"]
+[Black "Morrison, Graham"]
+[Result "0-1"]
+[ECO "B82"]
+[Opening "Sicilian"]
+[Variation "Scheveningen, 6.f4"]
+[HashCode "48a795dc"]
+[Epoch "Rook"]
+[WhiteID "1700162"]
+[WhiteCountry "SWE"]
+[BlackID "2400090"]
+[BlackCountry "SCO"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e6 6. f4 a6 7. Qf3 Qb6 8. Nb3
+Qc7 9. a4 b6 10. Bd3 Bb7 11. O-O Be7 12. Bd2 Nbd7 13. Qe2 O-O 14. Rae1 Nc5 15.
+Nxc5 Qxc5+ 16. Be3 Qc7 17. Kh1 Rfc8 18. Bd4 e5 19. Bg1 exf4 20. Rxf4 Re8 21.
+Bd4 d5 22. e5 Bc5 23. Qf2 Bxd4 24. Qxd4 Qc5 25. b4 Qxd4 26. Rxd4 Rac8 27. Nd1
+Ne4 28. Bxe4 dxe4 29. Rf1 Rxe5 30. Rd7 Bc6 31. Ra7 e3 32. Re1 Bxa4 33. Rxa6
+Bxc2 34. Rxe3 Rb5 35. Rc3 Rd8 36. Ne3 Rxb4 37. h3 Be4 38. Nc4 Rc8 0-1

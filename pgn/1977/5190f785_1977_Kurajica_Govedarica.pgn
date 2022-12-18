@@ -1,0 +1,22 @@
+[Event "Zagreb"]
+[Site "Zagreb"]
+[Date "1977.01.01"]
+[Round "9"]
+[White "Kurajica, Bojan"]
+[Black "Govedarica, Radovan"]
+[Result "1-0"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "5190f785"]
+[Epoch "Rook"]
+[WhiteID "14400057"]
+[WhiteCountry "BIH"]
+[BlackID "900630"]
+[BlackCountry "SRB"]
+
+1. e4 c5 2. c3 e6 3. d3 Nc6 4. f4 d6 5. Nf3 Nf6 6. Nbd2 Be7 7. a3 O-O 8. b4 b6
+9. Bb2 Bb7 10. d4 d5 11. e5 Ne4 12. Bd3 Qd7 13. O-O Nxd2 14. Qxd2 f5 15. exf6
+Bxf6 16. Rae1 cxd4 17. cxd4 Rae8 18. Rf2 Ne7 19. g4 g6 20. Ne5 Qd8 21. Rg2 Nc8
+22. f5 g5 23. Bb5 Re7 24. fxe6 Rxe6 25. Nd7 Rxe1+ 26. Qxe1 Rf7 27. Rf2 Qe7 28.
+Nxf6+ Kg7 29. Nh5+ Kg8 30. Re2 1-0

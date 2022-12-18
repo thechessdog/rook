@@ -1,0 +1,27 @@
+[Event "Prague"]
+[Site "Prague"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Drvota, Antonin"]
+[Black "Dobosz, Henryk"]
+[Result "0-1"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance variation"]
+[HashCode "c2c4dd7e"]
+[Epoch "Rook"]
+[BlackID "1100114"]
+[BlackCountry "POL"]
+
+1. e4 e6 2. d4 d5 3. e5 Ne7 4. Nf3 b6 5. c3 Qd7 6. a4 c6 7. a5 Ba6 8. Bxa6 Nxa6
+9. Qe2 Nc7 10. axb6 axb6 11. Rxa8+ Nxa8 12. Qa6 Qc8 13. Qa7 c5 14. dxc5 bxc5
+15. Be3 Nc6 16. Qa4 Nb6 17. Qb5 Nd7 18. O-O Be7 19. b4 O-O 20. bxc5 Ncxe5 21.
+Nxe5 Nxe5 22. Bf4 Qc6 23. Na3 Qxc5 24. Bxe5 Qxa3 25. c4 dxc4 26. Qxc4 Qc5 27.
+Qxc5 Bxc5 28. Rc1 Rd8 29. g3 Rd5 30. Bd4 Bf8 31. Be3 h5 32. Rc8 f6 33. Kg2 Kf7
+34. h4 Bd6 35. Kf3 Kg6 36. Re8 Kf5 37. Rc8 Rb5 38. Rc6 Rd5 39. Rc8 Bb4 40. Rc4
+Rb5 41. Rc7 g6 42. Rc4 e5 43. Rc6 Rd5 44. Rc7 Rd6 45. Kg2 Rd3 46. Rc4 Bc3 47.
+Rc5 Ba1 48. Ra5 Rd1 49. Kf3 Rg1 50. Ke2 Bb2 51. Rb5 Bc3 52. Rc5 Ba1 53. Ra5 g5
+54. hxg5 fxg5 55. Ra8 g4 56. Kd3 Rd1+ 57. Ke2 Rb1 58. Rh8 Ke4 59. Rc8 Rb2+ 60.
+Kf1 Ra2 61. Re8 Ra5 62. Ke2 Bc3 63. Rc8 Ra2+ 64. Kf1 Bd4 65. Bxd4 exd4 66. Rf8
+Ra5 67. Ke2 Ra2+ 68. Kf1 Kd3 69. Rf5 Ra1+ 70. Kg2 Kc3 71. Rc5+ Kb3 72. Rxh5 d3
+73. Rd5 Kc3 0-1

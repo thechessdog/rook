@@ -1,0 +1,19 @@
+[Event "Fort Wayne"]
+[Site "Fort Wayne"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Schulien, Charles"]
+[Black "Blaine, Roger E"]
+[Result "1-0"]
+[ECO "B52"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky attack, Sokolsky variation"]
+[HashCode "9d0c6e77"]
+[Epoch "Rook"]
+[WhiteID "2001527"]
+[WhiteCountry "USA"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Qxd7 5. c4 Nc6 6. d4 cxd4 7. Nxd4 Nf6
+8. Nc3 g6 9. f3 Bg7 10. Be3 Ne5 11. b3 h5 12. Qd2 O-O 13. Rc1 Kh7 14. O-O Rac8
+15. Nd5 Nxd5 16. cxd5 a6 17. h3 Rxc1 18. Rxc1 f6 19. Qc2 Bh6 20. Bxh6 Kxh6 21.
+f4 Nf7 22. Qc7 Qd8 23. Ne6 Qxc7 24. Rxc7 1-0

@@ -1,0 +1,18 @@
+[Event "corr DDR-M"]
+[Site "corr DDR-M"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Mittag, L."]
+[Black "Von Juchen, HP."]
+[Result "0-1"]
+[ECO "C10"]
+[Opening "French"]
+[Variation "Paulsen variation"]
+[HashCode "0e317965"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Be7 4. e5 b6 5. Qg4 g6 6. Bb5+ c6 7. Ba4 h5 8. Qh3
+Bb7 9. f4 Nd7 10. Nf3 Qc7 11. Bd2 Nh6 12. O-O-O b5 13. Bb3 a5 14. a4 b4 15.
+Ne2 c5 16. dxc5 Nxc5 17. Nfd4 Ba6 18. Kb1 Rc8 19. Rhe1 Ng4 20. Rf1 Ne4 21.
+Be3 Bc5 22. Rf3 Bxe2 0-1
+

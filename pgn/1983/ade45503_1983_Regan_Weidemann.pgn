@@ -1,0 +1,20 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Regan"]
+[Black "Weidemann"]
+[Result "0-1"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Paulsen attack"]
+[HashCode "ade45503"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. a3 c4 7. Nbd2 f6 8. b3
+fxe5 9. Nxe5 Nxe5 10. dxe5 Bc5 11. Qg4 Bxf2+ 12. Kd1 Qc7 13. Nf3 Bb6 14.
+Be2 Ne7 15. Qxg7 Rg8 16. Qxh7 Rxg2 17. h4 cxb3 18. Bg5 a6 19. Nd4 Rxg5 20.
+hxg5 Qxc3 21. Nxb3 Qxb3+ 22. Qc2 Qe3 23. Qa4+ Nc6 24. Rh8+ Ke7 25. Rh7+ Kd8
+26. Rc1 Qg1+ 27. Kc2 Qxg5 28. Rf1 Bd7 29. Rf8+ Kc7 30. Rxa8 Nd4+ 31. Kd1
+Qg1+ 32. Kd2 Nc6 33. Qf4 Ba5+ 34. Kc2 Nd4+ 35. Kb2 Bc3+ 36. Kxc3 Nxe2+ 0-1
+

@@ -1,0 +1,18 @@
+[Event "corr Italy"]
+[Site "corr Italy"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Amovilli"]
+[Black "Petrzeika"]
+[Result "1/2-1/2"]
+[ECO "C44"]
+[Opening "Scotch"]
+[Variation "Goering gambit, Bardeleben variation"]
+[HashCode "ab66c4b3"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. c3 dxc3 5. Bc4 Nf6 6. Nxc3 Bb4 7. e5 d5
+8. exf6 dxc4 9. Qxd8+ Nxd8 10. fxg7 Rg8 11. Bh6 Bxc3+ 12. bxc3 Ne6 13.
+O-O-O Nxg7 14. Rhe1+ Ne6 15. Bf4 f6 16. Bxc7 Kf7 17. Bd6 Bd7 18. g3 Rge8
+19. Ba3 Bc6 20. Nd4 Nxd4 21. Rxe8 1/2-1/2
+

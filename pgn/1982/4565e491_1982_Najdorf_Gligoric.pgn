@@ -1,0 +1,16 @@
+[Event "Bugojno"]
+[Site "Bugojno"]
+[Date "1982.05.01"]
+[Round "1"]
+[White "Najdorf, Miguel"]
+[Black "Gligorić, Svetozar"]
+[Result "1/2-1/2"]
+[ECO "E65"]
+[Opening "King's Indian"]
+[Variation "fianchetto, Yugoslav, 7.O-O"]
+[HashCode "4565e491"]
+[Epoch "Rook"]
+[WhiteCountry "POL"]
+
+1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 O-O 5. Nc3 d6 6. Nf3 c5 7. O-O Nc6 8. dxc5
+dxc5 9. Bf4 Nd4 10. Be5 Nc6 1/2-1/2

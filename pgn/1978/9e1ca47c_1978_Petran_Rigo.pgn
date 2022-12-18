@@ -1,0 +1,20 @@
+[Event "HUN-ch"]
+[Site "Budapest"]
+[Date "1978.??.??"]
+[Round "?"]
+[White "Petran, Pal"]
+[Black "Rigo, Janos"]
+[Result "1/2-1/2"]
+[ECO "E15"]
+[Opening "Queen's Indian"]
+[Variation "Nimzovich variation (exaggerated fianchetto)"]
+[HashCode "9e1ca47c"]
+[Epoch "Rook"]
+[WhiteID "700304"]
+[BlackID "700371"]
+[WhiteCountry "HUN"]
+[BlackCountry "HUN"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. b3 Be7 6. Bg2 c6 7. Qc2 d5 8. O-O
+Nbd7 9. Ba3 O-O 10. Bxe7 Qxe7 11. Nbd2 Rac8 12. e4 dxe4 13. Nxe4 Nxe4 14. Qxe4
+Nf6 15. Qe5 Rfd8 1/2-1/2

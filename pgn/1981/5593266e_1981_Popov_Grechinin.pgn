@@ -1,0 +1,23 @@
+[Event "Kuibyshev"]
+[Site "Kuibyshev"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Popov, Nikolai"]
+[Black "Grechinin, Valery"]
+[Result "1-0"]
+[ECO "A75"]
+[Opening "Benoni"]
+[Variation "classical with ...a6 and 10...Bg4"]
+[HashCode "5593266e"]
+[Epoch "Rook"]
+[WhiteID "34189103"]
+[WhiteCountry "RUS"]
+
+1. d4 c5 2. d5 Nf6 3. c4 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. e4 Bg7 8. Be2
+O-O 9. O-O a6 10. a4 Bg4 11. Bf4 Re8 12. Nd2 Bxe2 13. Qxe2 Nh5 14. Be3 Nd7 15.
+g4 Nhf6 16. f3 b5 17. axb5 axb5 18. Rxa8 Qxa8 19. Qxb5 Ne5 20. Kg2 Rb8 21. Ra1
+Qxa1 22. Qxb8+ Bf8 23. Qb5 Qe1 24. Qe2 Qxe2+ 25. Nxe2 Nfd7 26. g5 h6 27. h4
+hxg5 28. hxg5 Nd3 29. Nc4 N3e5 30. Nxe5 Nxe5 31. b3 Be7 32. f4 Nd3 33. Nc1 Ne1+
+34. Kf1 Nc2 35. Ke2 Kf8 36. Bd2 Ke8 37. Bc3 Kd7 38. Kd3 Na3 39. Bb2 Nb5 40. Kc4
+Nc7 41. Bc3 Ne8 42. Nd3 Kc7 43. Nf2 Kb6 44. Ng4 Bd8 45. Nh6 f6 46. Nf7 fxg5 47.
+Nxd8 gxf4 48. Ne6 f3 49. Kd3 1-0

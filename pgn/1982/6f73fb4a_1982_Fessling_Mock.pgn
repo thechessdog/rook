@@ -1,0 +1,20 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Fessling, R."]
+[Black "Mock, P."]
+[Result "1-0"]
+[ECO "B10"]
+[Opening "Caro-Kann"]
+[Variation "two knights variation"]
+[HashCode "6f73fb4a"]
+[Epoch "Rook"]
+
+1. e4 c6 2. Nc3 d5 3. Nf3 dxe4 4. Nxe4 Nf6 5. Qe2 Bf5 6. Nxf6+ gxf6 7. d4
+Qc7 8. g3 Nd7 9. Bf4 Qa5+ 10. c3 O-O-O 11. Bg2 e6 12. O-O Bg4 13. h3 Bxf3
+14. Bxf3 h5 15. a4 Bh6 16. Bd6 Bf8 17. b4 Qf5 18. Bxf8 Rdxf8 19. Bg2 h4 20.
+g4 Qf4 21. b5 c5 22. dxc5 Nxc5 23. Rfd1 Rd8 24. a5 Nb3 25. Ra3 Nc1 26. Qc2
+Rxd1+ 27. Qxd1 Rd8 28. Bxb7+ Kc7 29. b6+ Kxb7 30. Qxd8 Ne2+ 31. Kg2 Qe4+
+32. Kf1 Ng3+ 33. fxg3 Qb1+ 34. Ke2 Qe4+ 35. Kd2 1-0
+

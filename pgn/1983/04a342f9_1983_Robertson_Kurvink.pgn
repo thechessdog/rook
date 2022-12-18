@@ -1,0 +1,18 @@
+[Event "corr GB-NLD"]
+[Site "corr GB-NLD"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Robertson"]
+[Black "Kurvink"]
+[Result "1-0"]
+[ECO "B33"]
+[Opening "Sicilian"]
+[Variation "Sveshnikov variation"]
+[HashCode "04a342f9"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6
+8. Na3 b5 9. Bxf6 gxf6 10. Nd5 f5 11. Bxb5 axb5 12. Nxb5 Ra4 13. c4 Qa5+
+14. b4 Nxb4 15. Nf6+ Kd8 16. O-O Rxa2 17. Rxa2 Qxa2 18. Nxd6 Ke7 19. Nd5+
+Nxd5 20. Nxc8+ Kd8 21. Qxd5+ Kxc8 22. Qxe5 1-0
+

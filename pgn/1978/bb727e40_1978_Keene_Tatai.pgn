@@ -1,0 +1,19 @@
+[Event "Beer Sheva"]
+[Site "Beer Sheva"]
+[Date "1978.02.01"]
+[Round "9"]
+[White "Keene, Raymond D"]
+[Black "Tatai, Stefano"]
+[Result "1/2-1/2"]
+[ECO "E12"]
+[Opening "Queen's Indian"]
+[Variation "4.Nc3"]
+[HashCode "bb727e40"]
+[Epoch "Rook"]
+[WhiteID "400211"]
+[WhiteCountry "ENG"]
+[BlackCountry "ITA"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. Nc3 Bb7 5. a3 d5 6. cxd5 exd5 7. Bg5 Be7 8. e3
+O-O 9. Bd3 Nbd7 10. Rc1 a6 11. O-O c5 12. dxc5 bxc5 13. Bb1 Re8 14. Ba2 c4 15.
+Nd4 g6 16. Bb1 Rc8 17. Qe2 Nc5 18. Rfd1 Nfd7 19. Bxe7 Qxe7 20. Bc2 1/2-1/2

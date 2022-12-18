@@ -1,0 +1,20 @@
+[Event "Budapest"]
+[Site "Budapest"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Lukacs, Peter"]
+[Black "Blackstock, Lesly SF"]
+[Result "1-0"]
+[ECO "E54"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Gligoric system with 7...dc"]
+[HashCode "9e78b559"]
+[Epoch "Rook"]
+[WhiteID "700142"]
+[WhiteCountry "HUN"]
+[BlackCountry "SCO"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 c5 6. Nf3 d5 7. O-O dxc4 8. Bxc4
+Bd7 9. a3 Bxc3 10. bxc3 Bc6 11. Re1 Nbd7 12. Bd3 Qa5 13. Bb2 cxd4 14. cxd4 Be4
+15. Ne5 Bxd3 16. Nxd7 Nxd7 17. Qxd3 Rac8 18. e4 Nb6 19. d5 exd5 20. Qg3 f6 21.
+e5 fxe5 22. Rxe5 Qd2 23. Re2 Qh6 24. Re6 g6 25. Qe5 Nd7 26. Qxd5 1-0

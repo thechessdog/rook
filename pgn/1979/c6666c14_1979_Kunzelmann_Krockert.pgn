@@ -1,0 +1,18 @@
+[Event "corr DDR-cup6"]
+[Site "corr DDR-cup6"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Kunzelmann, F."]
+[Black "Krockert, E."]
+[Result "1-0"]
+[ECO "C08"]
+[Opening "French"]
+[Variation "Tarrasch, open, 4.ed ed"]
+[HashCode "c6666c14"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. exd5 exd5 5. Ngf3 a6 6. Be2 Nc6 7. O-O Bd6
+8. c4 Nf6 9. cxd5 Nxd5 10. Bc4 Nb6 11. Re1+ Be7 12. d5 Nxd5 13. Ne4 Nb6 14.
+Bxf7+ Kxf7 15. Nfg5+ Kg6 16. Qb3 Bxg5 17. Nxg5 Rf8 18. Qg3 Kh5 19. Ne6 Bxe6
+20. Qxg7 1-0
+

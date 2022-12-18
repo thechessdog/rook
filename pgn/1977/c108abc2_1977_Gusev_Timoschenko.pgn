@@ -1,0 +1,19 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Gusev, Vladimir"]
+[Black "Timoshchenko, Gennadi"]
+[Result "0-1"]
+[ECO "A45"]
+[Opening "Trompovsky attack (Ruth, Opovcensky opening)"]
+[HashCode "c108abc2"]
+[Epoch "Rook"]
+[WhiteID "4111737"]
+[WhiteCountry "RUS"]
+[BlackCountry "SVK"]
+
+1. d4 Nf6 2. Bg5 Ne4 3. Bh4 c5 4. f3 g5 5. fxe4 gxh4 6. e3 e6 7. Nc3 Bh6 8. Qh5
+Bxe3 9. Qxc5 d6 10. Bb5+ Kf8 11. Qh5 Rg8 12. Nf3 Rxg2 13. Rf1 Rg6 14. Ke2 Rh6
+15. Qg4 e5 16. Qg2 Rg6 17. Qxg6 hxg6 18. Kxe3 Nc6 19. Rg1 exd4+ 20. Nxd4 Nxd4
+21. Kxd4 Qb6+ 22. Kd3 Be6 23. Raf1 Rc8 0-1

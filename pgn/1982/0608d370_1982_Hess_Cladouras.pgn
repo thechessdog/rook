@@ -1,0 +1,18 @@
+[Event "BL2-N 8182"]
+[Site "BL2-N 8182"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Hess, Christian"]
+[Black "Cladouras, Panagiotis"]
+[Result "1/2-1/2"]
+[ECO "E21"]
+[Opening "Nimzo-Indian"]
+[Variation "three knights variation"]
+[HashCode "0608d370"]
+[Epoch "Rook"]
+[BlackID "4600959"]
+[BlackCountry "GER"]
+[WhiteCountry "DEU"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 Bb4+ 4. Nc3 c5 5. g3 b6 6. Bg2 Bb7 7. O-O Bxc3 8.
+bxc3 O-O 9. d5 d6 10. dxe6 fxe6 11. Bf4 e5 12. Bg5 Qc7 1/2-1/2

@@ -1,0 +1,19 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Kompe"]
+[Black "Werth"]
+[Result "1-0"]
+[ECO "E04"]
+[Opening "Catalan"]
+[Variation "open, 5.Nf3"]
+[HashCode "dca0aedc"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Bg2 dxc4 5. Nf3 c5 6. O-O Nc6 7. Ne5 Nxe5 8.
+dxe5 Qxd1 9. Rxd1 Nd5 10. Na3 c3 11. e4 cxb2 12. Bxb2 Nc7 13. Nc4 Be7 14.
+Nd6+ Kf8 15. f4 Rb8 16. f5 exf5 17. exf5 Ne8 18. f6 gxf6 19. Nxe8 Kxe8 20.
+exf6 Bd8 21. Be5 Ra8 22. Re1 Ba5 23. Bc3+ Be6 24. Bxa5 Rg8 25. Bxb7 Rd8 26.
+Bc6+ 1-0
+

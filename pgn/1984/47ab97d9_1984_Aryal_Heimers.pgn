@@ -1,0 +1,17 @@
+[Event "corr EU"]
+[Site "corr EU"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Aryal"]
+[Black "Heimers"]
+[Result "1-0"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "47ab97d9"]
+[Epoch "Rook"]
+
+1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. d4 cxd4 5. Bc4 Qc7 6. Qe2 Nb6 7. Bd3 Nc6 8.
+Nf3 d5 9. exd6 Qxd6 10. O-O dxc3 11. Nxc3 g6 12. Ne4 Qc7 13. Nf6+ Kd8 14.
+Bg5 h6 15. Rfd1 hxg5 16. Bf5+ 1-0
+

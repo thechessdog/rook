@@ -1,0 +1,17 @@
+[Event "Tashkent"]
+[Site "Tashkent"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Fridinsky"]
+[Black "Muchin"]
+[Result "0-1"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "305ad523"]
+[Epoch "Rook"]
+
+1. e4 c5 2. c3 b6 3. d4 Bb7 4. Bd3 g6 5. Be3 f5 6. exf5 Bxg2 7. Qg4 Bxh1 8.
+fxg6 Nf6 9. gxh7 Qc7 10. Qh4 cxd4 11. Bg6+ Kd8 12. cxd4 Qc6 13. f3 Bxf3 14.
+Nd2 Ng4 15. Qh5 Nxe3 16. Ngxf3 Ng2+ 17. Kd1 Nf4 18. Ne5 Nxh5 0-1
+

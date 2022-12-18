@@ -1,0 +1,18 @@
+[Event "corr ch-CSSR"]
+[Site "corr ch-CSSR"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Pecenka, K."]
+[Black "Jandovsky, Victor"]
+[Result "1-0"]
+[ECO "A67"]
+[Opening "Benoni"]
+[Variation "Taimanov variation"]
+[HashCode "ffa174a1"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. f4 Bg7 8.
+Bb5+ Nfd7 9. a4 O-O 10. Nf3 Na6 11. O-O Nc7 12. Bd3 a6 13. Be3 Rb8 14. Bf2
+b5 15. Bh4 Bf6 16. Bxf6 Nxf6 17. axb5 axb5 18. b3 Bd7 19. Qd2 Re8 20. Rae1
+Bc8 21. f5 1-0
+

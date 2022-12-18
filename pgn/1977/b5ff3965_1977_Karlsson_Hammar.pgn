@@ -1,0 +1,25 @@
+[Event "Sweden"]
+[Site "Sweden"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Karlsson, Lars"]
+[Black "Hammar, Bengt"]
+[Result "0-1"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "Indian variation"]
+[HashCode "b5ff3965"]
+[Epoch "Rook"]
+[WhiteID "1700057"]
+[WhiteCountry "SWE"]
+[BlackID "1700391"]
+[BlackCountry "SWE"]
+
+1. b3 Nf6 2. Bb2 d6 3. g3 g6 4. Bg2 Bg7 5. Nf3 O-O 6. d3 e5 7. c4 Nc6 8. O-O
+Nh5 9. Nfd2 Be6 10. Nc3 Qd7 11. Nd5 Nd8 12. e4 c6 13. Ne3 Bh3 14. Nf5 Bxg2 15.
+Nxg7 Bxf1 16. Nxh5 gxh5 17. Nxf1 h4 18. Ne3 hxg3 19. hxg3 Qh3 20. Nf5 Ne6 21.
+Nxd6 f6 22. b4 Rad8 23. c5 Rd7 24. d4 exd4 25. Bxd4 Nxd4 26. Qxd4 Qe6 27. Re1
+b6 28. e5 bxc5 29. bxc5 Re8 30. Qf4 Rf8 31. Nf5 fxe5 32. Rxe5 Qf6 33. Ne7+ Kh8
+34. Rf5 Qa1+ 35. Kh2 Rxf5 36. Qxf5 Rd8 37. Nxc6 Re8 38. Qf7 Ra8 39. Ne7 Qg7 40.
+Qxg7+ Kxg7 41. Kh3 Kf6 42. Nc6 Ke6 43. Na5 Kd5 44. c6 Kd6 45. f4 Re8 46. Kh4
+Re4 47. Kg5 Ra4 48. Nb3 Rxa2 49. Kf6 a5 50. g4 a4 51. Nd4 Rb2 52. Nf3 a3 0-1

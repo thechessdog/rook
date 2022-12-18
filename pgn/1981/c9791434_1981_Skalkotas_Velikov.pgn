@@ -1,0 +1,21 @@
+[Event "Athens"]
+[Site "Athens"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Skalkotas, Nikolaos"]
+[Black "Velikov, Petar"]
+[Result "0-1"]
+[ECO "D27"]
+[Opening "QGA"]
+[Variation "classical, Rubinstein variation"]
+[HashCode "c9791434"]
+[Epoch "Rook"]
+[WhiteID "4200144"]
+[WhiteCountry "GRE"]
+[BlackID "2900149"]
+[BlackCountry "FID"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. e3 e6 5. Bxc4 a6 6. a4 c5 7. O-O Nc6 8. Qe2
+Bd6 9. dxc5 Bxc5 10. Nc3 Qc7 11. Rd1 O-O 12. Bd2 Bd7 13. Be1 Ne5 14. Nxe5 Qxe5
+15. a5 Bc6 16. Na4 Qg5 17. Qf1 Ba7 18. Bb4 Ng4 19. Nb6 Bb8 20. f4 Qh4 21. h3
+Nxe3 22. Qf2 Qxf2+ 23. Kxf2 Nxd1+ 24. Rxd1 Bxf4 25. Nxa8 Rxa8 26. Be7 Re8 0-1

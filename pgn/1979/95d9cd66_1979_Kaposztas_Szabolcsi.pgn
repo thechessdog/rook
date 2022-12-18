@@ -1,0 +1,20 @@
+[Event "Salgotarjan"]
+[Site "Salgotarjan"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Kaposztas, Miklos"]
+[Black "Szabolcsi, Janos"]
+[Result "1/2-1/2"]
+[ECO "B33"]
+[Opening "Sicilian"]
+[Variation "Pelikan, Chelyabinsk variation"]
+[HashCode "95d9cd66"]
+[Epoch "Rook"]
+[WhiteID "700711"]
+[WhiteCountry "HUN"]
+[BlackID "701270"]
+[BlackCountry "HUN"]
+
+1. Nf3 c5 2. e4 Nc6 3. Nc3 e6 4. d4 cxd4 5. Nxd4 Nf6 6. Ndb5 d6 7. Bf4 e5 8.
+Bg5 a6 9. Na3 b5 10. Nd5 Qa5+ 11. Bd2 Qd8 12. Bg5 Qa5+ 13. Bd2 Qd8 14. Bg5 Qa5+
+15. Bd2 1/2-1/2

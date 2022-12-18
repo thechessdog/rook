@@ -1,0 +1,19 @@
+[Event "corr FIN-NLD"]
+[Site "corr FIN-NLD"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Roeda, G."]
+[Black "Roeda, D."]
+[Result "1-0"]
+[ECO "E13"]
+[Opening "Queen's Indian"]
+[Variation "4.Nc3, main line"]
+[HashCode "2ea4ae60"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Nf3 b6 5. Bg5 h6 6. Bh4 Bb7 7. Nd2 c5 8.
+Nb3 g5 9. Bg3 Ne4 10. Qc2 Bxc3+ 11. bxc3 d6 12. O-O-O Qe7 13. f3 Nxg3 14.
+hxg3 f5 15. g4 Qf6 16. gxf5 exf5 17. e4 f4 18. e5 dxe5 19. dxe5 Qe6 20. Bd3
+Nc6 21. Bf5 Qxc4 22. Bg6+ Ke7 23. Rhe1 Rhf8 24. e6 Rad8 25. Bd3 Qa4 26. Bb5
+Qa3+ 27. Kb1 1-0
+

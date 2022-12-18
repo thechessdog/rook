@@ -1,0 +1,20 @@
+[Event "London"]
+[Site "London"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Klaric"]
+[Black "Crouch"]
+[Result "1-0"]
+[ECO "A46"]
+[Opening "Queen's pawn"]
+[Variation "Torre attack"]
+[HashCode "deaf4dfa"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. Nf3 e6 3. Bg5 d5 4. e3 Be7 5. Nbd2 Nbd7 6. Bd3 O-O 7. c3 h6 8.
+Bh4 Re8 9. Ne5 Nxe5 10. dxe5 Nd7 11. Bg3 c5 12. O-O a6 13. Qh5 Bf8 14. Nf3
+g6 15. Qh3 Bg7 16. Bf4 g5 17. Bg3 f5 18. exf6 Qxf6 19. Qh5 Rf8 20. h4 g4
+21. Qxg4 e5 22. Qh5 b5 23. e4 c4 24. Bc2 d4 25. cxd4 exd4 26. Qd5+ Kh8 27.
+e5 Qb6 28. Nxd4 Bb7 29. Qxd7 Rad8 30. Qe6 Qxd4 31. Qg6 Kg8 32. Qh7+ Kf7 33.
+Bg6+ 1-0
+

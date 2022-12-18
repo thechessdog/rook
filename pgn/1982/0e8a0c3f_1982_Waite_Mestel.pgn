@@ -1,0 +1,20 @@
+[Event "Parma,OH"]
+[Site "Parma,OH"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Waite, Larry"]
+[Black "Mestel, A Jonathan"]
+[Result "0-1"]
+[ECO "C46"]
+[Opening "Four knights"]
+[Variation "Italian variation"]
+[HashCode "0e8a0c3f"]
+[Epoch "Rook"]
+[BlackID "400122"]
+[BlackCountry "ENG"]
+
+1. e4 e5 2. Bc4 Nf6 3. Nc3 Nc6 4. Nf3 Nxe4 5. O-O Nxc3 6. dxc3 Be7 7. Qd5 O-O
+8. Nxe5 Nxe5 9. Qxe5 d6 10. Qh5 c6 11. Re1 Bf6 12. Be3 g6 13. Qf3 Bf5 14. Bd3
+Bxd3 15. cxd3 Bg7 16. a4 Re8 17. Kf1 d5 18. a5 a6 19. Qg4 h5 20. Qb4 Qc7 21. g3
+Qd7 22. Bd2 Qf5 23. c4 Qxd3+ 24. Kg1 c5 25. Ra3 cxb4 26. Rxd3 Rxe1+ 27. Bxe1
+dxc4 28. Rd7 Bxb2 29. Rxb7 c3 30. Rxb4 c2 31. Bd2 Bc3 0-1

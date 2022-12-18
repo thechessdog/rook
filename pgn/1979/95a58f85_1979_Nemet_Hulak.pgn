@@ -1,0 +1,18 @@
+[Event "Karlovac"]
+[Site "Karlovac"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Nemet, Ivan"]
+[Black "Hulak, Krunoslav"]
+[Result "1/2-1/2"]
+[ECO "A71"]
+[Opening "Benoni"]
+[Variation "classical, 8.Bg5"]
+[HashCode "95a58f85"]
+[Epoch "Rook"]
+[BlackCountry "HRV"]
+[WhiteCountry "CHE"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. Nf3 Bg7 8. Bg5
+h6 9. Bh4 a6 10. Nd2 b5 11. a4 b4 12. Ncb1 O-O 13. Bd3 Re8 14. O-O Qc7 15. Bxf6
+Bxf6 16. Nc4 Nd7 17. Nbd2 a5 18. f4 Ba6 19. Rc1 1/2-1/2

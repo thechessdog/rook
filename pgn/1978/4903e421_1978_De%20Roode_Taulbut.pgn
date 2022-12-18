@@ -1,0 +1,22 @@
+[Event "IBM-B"]
+[Site "Amsterdam II"]
+[Date "1978.07.01"]
+[Round "5"]
+[White "De Roode, Peter"]
+[Black "Taulbut, Shaun M"]
+[Result "0-1"]
+[ECO "E80"]
+[Opening "King's Indian"]
+[Variation "Saemisch variation"]
+[HashCode "4903e421"]
+[Epoch "Rook"]
+[WhiteID "1001140"]
+[WhiteCountry "NED"]
+[BlackID "400246"]
+[BlackCountry "ENG"]
+
+1. d4 g6 2. c4 Bg7 3. e4 d6 4. Nc3 Nf6 5. f3 c6 6. Be3 a6 7. Bd3 Nbd7 8. Nge2
+b5 9. O-O O-O 10. Qd2 e5 11. cxb5 axb5 12. b4 Nb6 13. Nc1 Ng4 14. Nb3 Nxe3 15.
+Qxe3 Na4 16. Nxa4 bxa4 17. Na5 exd4 18. Qd2 c5 19. Nc6 Qc7 20. b5 Bb7 21. Bc4
+Bxc6 22. bxc6 Rab8 23. Bd5 c4 24. Rab1 c3 25. Qe2 Qa5 26. Qc4 Rxb1 27. Rxb1 Qc5
+28. Kf1 Bh6 29. Qxc5 dxc5 30. e5 c2 31. Ra1 c1=Q+ 32. Rxc1 Bxc1 33. e6 Bf4 0-1

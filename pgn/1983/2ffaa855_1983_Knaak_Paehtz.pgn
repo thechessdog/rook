@@ -1,0 +1,24 @@
+[Event "DDR-ch 32th"]
+[Site "Cottbus"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Knaak, Rainer"]
+[Black "Paehtz, Thomas"]
+[Result "1-0"]
+[ECO "D35"]
+[Opening "QGD"]
+[Variation "exchange, positional line"]
+[HashCode "2ffaa855"]
+[Epoch "Rook"]
+[WhiteID "4611250"]
+[WhiteCountry "GER"]
+[BlackID "4611349"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. cxd5 exd5 5. Bg5 Be7 6. e3 O-O 7. Qc2 h6 8. Bh4
+Re8 9. Nf3 Nc6 10. a3 Bg4 11. Bd3 a6 12. O-O Nd7 13. Bg3 Bxf3 14. gxf3 Nb6 15.
+Be2 Qd7 16. Rfd1 Bf6 17. b4 h5 18. Kh1 Kh8 19. Rg1 Rg8 20. Bxc7 Qxc7 21. Qf5 g6
+22. Qxf6+ Rg7 23. Rac1 Qd8 24. Qxd8+ Rxd8 25. f4 Kh7 26. Na2 Kh6 27. Bxa6 Nxd4
+28. exd4 bxa6 29. Rc6 Rb8 30. Nc3 Rgg8 31. Rg5 Rgc8 32. Rxc8 Rxc8 33. Nxd5 Nc4
+34. Ne7 Re8 35. Nc6 Nxa3 36. Ra5 Nc2 37. Rxa6 Re1+ 38. Kg2 Rd1 39. Ra7 h4 40.
+Rxf7 h3+ 41. Kxh3 Rg1 42. Ne7 g5 43. f5 g4+ 44. Kh4 Nxd4 45. Ng8# 1-0

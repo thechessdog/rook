@@ -1,0 +1,19 @@
+[Event "Chester ch-BCF"]
+[Site "Chester ch-BCF"]
+[Date "1979.08.01"]
+[Round "8"]
+[White "Littlewood, John Eric"]
+[Black "Mestel, A Jonathan"]
+[Result "1-0"]
+[ECO "B71"]
+[Opening "Sicilian"]
+[Variation "dragon, Levenfish variation"]
+[HashCode "ce2cf51c"]
+[Epoch "Rook"]
+[BlackID "400122"]
+[BlackCountry "ENG"]
+[WhiteCountry "ENG"]
+
+1. e4 c5 2. Nf3 d6 3. d4 Nf6 4. Nc3 cxd4 5. Nxd4 g6 6. f4 Bg7 7. e5 Nh5 8. Bb5+
+Bd7 9. e6 fxe6 10. Nxe6 Bxc3+ 11. bxc3 Qc8 12. Bxd7+ Kxd7 13. Ng5 Qc4 14. Rb1
+Kc7 15. Rb4 Qxa2 16. Qe2 Nc6 17. Ne6+ 1-0

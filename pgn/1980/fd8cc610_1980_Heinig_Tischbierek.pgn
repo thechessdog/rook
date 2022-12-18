@@ -1,0 +1,19 @@
+[Event "Plauen"]
+[Site "Plauen"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Heinig, Wolfram, Dr."]
+[Black "Tischbierek, Raj"]
+[Result "1/2-1/2"]
+[ECO "E06"]
+[Opening "Catalan"]
+[Variation "closed, 5.Nf3"]
+[HashCode "fd8cc610"]
+[Epoch "Rook"]
+[WhiteID "4611926"]
+[WhiteCountry "GER"]
+[BlackID "4611322"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Nf3 Be7 5. Bg2 O-O 6. O-O dxc4 7. Qc2 a6 8. Qxc4
+b5 9. Qc2 Bb7 10. Bf4 Nc6 11. Rd1 Nb4 12. Qc1 Rc8 13. Nc3 Nbd5 1/2-1/2

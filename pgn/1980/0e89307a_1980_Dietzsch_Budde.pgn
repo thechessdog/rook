@@ -1,0 +1,23 @@
+[Event "Wittlich"]
+[Site "Wittlich"]
+[Date "1980.01.01"]
+[Round "4"]
+[White "Dietzsch, Herbert"]
+[Black "Budde, Vladimir"]
+[Result "0-1"]
+[ECO "B86"]
+[Opening "Sicilian"]
+[Variation "Sozin attack"]
+[HashCode "0e89307a"]
+[Epoch "Rook"]
+[WhiteID "4608364"]
+[WhiteCountry "GER"]
+[BlackID "4602056"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bc4 a6 7. a3 Be7 8. O-O
+O-O 9. Ba2 b5 10. f4 Nbd7 11. f5 e5 12. Nde2 Bb7 13. Ng3 Rc8 14. Bg5 Nb6 15.
+Bxf6 Bxf6 16. Nh5 Bg5 17. f6 g6 18. Qg4 h6 19. h4 Be3+ 20. Kh1 Nc4 21. Rf3 Bd4
+22. Ng3 Bxc3 23. bxc3 Kh7 24. Rd1 Rc6 25. Nf5 Bc8 26. Qg3 Bxf5 27. exf5 Rg8 28.
+Qg4 d5 29. fxg6+ Rxg6 30. Qh5 Rcxf6 31. Bxc4 bxc4 32. Rdf1 Rxf3 33. Rxf3 Qe7
+34. Qf5 Kg7 35. Re3 Qxh4+ 36. Kg1 Rg5 37. Qd7 Qf4 38. Rf3 0-1

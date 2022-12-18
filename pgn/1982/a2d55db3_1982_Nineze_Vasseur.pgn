@@ -1,0 +1,16 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Nineze"]
+[Black "Vasseur"]
+[Result "0-1"]
+[ECO "C41"]
+[Opening "Philidor's defence"]
+[HashCode "a2d55db3"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 d6 3. d4 Nc6 4. dxe5 Bg4 5. exd6 Bxd6 6. Bc4 Qe7 7. O-O
+O-O-O 8. Bd3 Ne5 9. Nbd2 Nf6 10. h3 h5 11. hxg4 hxg4 12. g3 Bc5 13. Nxe5
+Qxe5 14. Kg2 Rh2+ 0-1
+

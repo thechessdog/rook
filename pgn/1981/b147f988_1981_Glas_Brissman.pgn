@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Glas"]
+[Black "Brissman, A."]
+[Result "0-1"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "modern variation"]
+[HashCode "b147f988"]
+[Epoch "Rook"]
+
+1. b3 e5 2. Bb2 Nc6 3. e3 d6 4. Be2 Nf6 5. Nf3 Bf5 6. O-O Qd7 7. c4 Nb4 8.
+Na3 Nd3 9. Bc3 g5 10. Nxg5 Rg8 11. f4 h6 12. e4 Nxf4 13. Rxf4 exf4 14. Bxf6
+hxg5 15. exf5 Qxf5 16. Nb5 g4 17. Nxc7+ Kd7 18. Nxa8 f3 19. Bh4 Bg7 20. Rc1
+Bd4+ 21. Bf2 Bxf2+ 0-1
+

@@ -1,0 +1,19 @@
+[Event "corr EU/M/GT"]
+[Site "corr EU/M/GT"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Molinsky, H."]
+[Black "Gerasimov, D."]
+[Result "0-1"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "ec435973"]
+[Epoch "Rook"]
+
+1. e4 c5 2. c3 e6 3. d4 d5 4. exd5 Qxd5 5. Nf3 Nc6 6. Be3 cxd4 7. Nxd4 Nf6
+8. Nd2 Nxd4 9. Bxd4 Bd7 10. Bxf6 gxf6 11. Nf3 Qa5 12. Be2 Rg8 13. O-O O-O-O
+14. Qd3 Bc6 15. Qc4 Bd6 16. g3 Qc7 17. Nd4 Bxg3 18. fxg3 Rxg3+ 19. Kf2 Rg2+
+20. Ke1 Qxh2 21. Bf3 Rxb2 22. Ne2 Rdd2 23. Rf2 Qd6 24. Rg2 Kd8 25. Bxc6
+bxc6 26. Qa6 Qc5 27. Rg8+ Ke7 28. Rg2 Rxe2+ 0-1
+

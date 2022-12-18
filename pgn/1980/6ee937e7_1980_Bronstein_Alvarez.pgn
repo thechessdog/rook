@@ -1,0 +1,23 @@
+[Event "Quilmes ch-ARG"]
+[Site "Quilmes ch-ARG"]
+[Date "1980.01.01"]
+[Round "6"]
+[White "Bronstein, Luis Marcos"]
+[Black "Alvarez, Ernesto"]
+[Result "1-0"]
+[ECO "B52"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky attack, Sokolsky variation"]
+[HashCode "6ee937e7"]
+[Epoch "Rook"]
+[WhiteID "100463"]
+[WhiteCountry "ARG"]
+[BlackCountry "ARG"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Qxd7 5. c4 Nc6 6. d4 cxd4 7. Nxd4 Nf6
+8. Nc3 g6 9. f3 Nxd4 10. Qxd4 Bg7 11. Be3 O-O 12. Qd3 Qc6 13. O-O Nd7 14. b3
+Rfe8 15. Rac1 a6 16. Nd5 e6 17. Nc3 Ne5 18. Qe2 Rab8 19. Rfd1 b6 20. h3 Red8
+21. Qd2 Qb7 22. Bg5 Rd7 23. f4 Nc6 24. e5 h6 25. Bh4 g5 26. fxg5 hxg5 27. Qxg5
+Nxe5 28. Bg3 f6 29. Qe3 f5 30. Rc2 Rf8 31. Rcd2 Nf7 32. Bxd6 Rfd8 33. Bg3 e5
+34. Bh4 f4 35. Qe4 Qxe4 36. Nxe4 Rxd2 37. Rxd2 Rxd2 38. Nxd2 Nd6 39. Be7 Nf5
+40. Bd8 b5 41. cxb5 axb5 42. a4 bxa4 43. bxa4 1-0

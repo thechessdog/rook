@@ -1,0 +1,20 @@
+[Event "Italy"]
+[Site "Italy"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Pagni"]
+[Black "Contento"]
+[Result "0-1"]
+[ECO "E45"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Bronstein (Byrne) variation"]
+[HashCode "5588d8e2"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 b6 5. Ne2 Ba6 6. a3 Bxc3+ 7. Nxc3 d5 8.
+b3 O-O 9. Be2 Nc6 10. O-O dxc4 11. b4 Nd5 12. Bb2 b5 13. Qd2 Qe7 14. Ne4
+Nb8 15. Nc5 Bc8 16. e4 Nf6 17. a4 c6 18. Bf3 Rd8 19. Qc3 Nbd7 20. Nxd7 Rxd7
+21. Rfe1 Bb7 22. h3 a6 23. d5 cxd5 24. exd5 Rad8 25. axb5 axb5 26. Ra5 Bxd5
+27. Rxb5 Bxf3 28. Qxf3 Rd5 29. Bxf6 Qxf6 30. Rxd5 exd5 31. Qxd5 c3 32. Qc5
+h5 33. Re4 g5 34. Kh2 Rd2 35. Kg1 c2 36. Rc4 Rd1+ 37. Kh2 c1=Q 0-1
+

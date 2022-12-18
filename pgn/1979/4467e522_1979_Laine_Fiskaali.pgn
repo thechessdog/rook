@@ -1,0 +1,22 @@
+[Event "corr NS/II"]
+[Site "corr NS/II"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Laine, Uolevi"]
+[Black "Fiskaali, Juhani"]
+[Result "1-0"]
+[ECO "E40"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3"]
+[HashCode "4467e522"]
+[Epoch "Rook"]
+[BlackID "503150"]
+[BlackCountry "FIN"]
+
+1. c4 Nf6 2. d4 e6 3. Nc3 Bb4 4. e3 d5 5. a3 Bxc3+ 6. bxc3 O-O 7. cxd5 exd5 8.
+f3 Bf5 9. Ne2 c5 10. g4 Nxg4 11. fxg4 Qh4+ 12. Kd2 Be4 13. Rg1 Qxh2 14. Qe1
+cxd4 15. exd4 Re8 16. Rg3 Qh6+ 17. Kd1 Qb6 18. Qd2 Qb3+ 19. Ke1 Nc6 20. Kf2 Qb6
+21. Ra2 Qc7 22. Nf4 Rac8 23. Rh3 Ne7 24. Nh5 Bg6 25. Nf4 Be4 26. Kg1 Qd7 27.
+Qh2 Nc6 28. Bd2 g5 29. Nh5 Qd8 30. Ng3 Bg6 31. Nf5 Re4 32. Nh6+ Kg7 33. Bd3 Qe8
+34. Bxe4 Qxe4 35. Qf2 Qb1+ 36. Be1 Nd8 37. Re2 Ne6 38. Rf3 Rc7 39. Rxe6 fxe6
+40. Rf8 1-0

@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Gromyko"]
+[Black "Lyczkowski"]
+[Result "0-1"]
+[ECO "C77"]
+[Opening "Ruy Lopez"]
+[Variation "Treybal (Bayreuth) variation (exchange var. deferred)"]
+[HashCode "5446b89f"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. Bxc6 dxc6 6. O-O Bg4 7. h3 Bh5
+8. Nc3 Bc5 9. g4 Bg6 10. Nxe5 Qd6 11. Nxg6 Qg3+ 12. Kh1 Qxh3+ 13. Kg1 Qg3+
+14. Kh1 hxg6# 0-1
+

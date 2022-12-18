@@ -1,0 +1,20 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Werth"]
+[Black "Junge"]
+[Result "1/2-1/2"]
+[ECO "E32"]
+[Opening "Nimzo-Indian"]
+[Variation "classical variation"]
+[HashCode "fb67aca6"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 O-O 5. a3 Bxc3+ 6. Qxc3 d6 7. Nf3 a5
+8. g3 b6 9. Bg2 Bb7 10. O-O a4 11. Bg5 Nbd7 12. Nd2 Bxg2 13. Kxg2 h6 14.
+Bxf6 Nxf6 15. e4 Re8 16. e5 dxe5 17. dxe5 Nd7 18. Rad1 Qe7 19. Ne4 Ra5 20.
+f4 Nc5 21. Nxc5 Qxc5 22. Qd4 Qc6+ 23. Kh3 Rc5 24. Rc1 Rb8 25. Rc3 g6 26.
+Rfc1 Kh7 27. b4 axb3 28. Rxb3 Ra8 29. Rcc3 h5 30. Qd3 Kg7 31. Rb5 Re8 32.
+Rxc5 Qxc5 33. Rc2 Ra8 34. Rc3 1/2-1/2
+

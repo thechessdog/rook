@@ -1,0 +1,18 @@
+[Event "Poznan"]
+[Site "Poznan"]
+[Date "1976.01.01"]
+[Round "11"]
+[White "Bielczyk, Jacek"]
+[Black "Borkowski, Franciszek"]
+[Result "1/2-1/2"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical, h3 system"]
+[HashCode "a85cf330"]
+[Epoch "Rook"]
+[WhiteID "1100530"]
+[WhiteCountry "POL"]
+[BlackID "1100173"]
+[BlackCountry "POL"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Nf3 Bg7 5. h3 O-O 6. Be2 e5 7. dxe5 1/2-1/2

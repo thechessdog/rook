@@ -1,0 +1,22 @@
+[Event "Poland"]
+[Site "Poland"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Sznapik, Aleksander"]
+[Black "Kostro, Jerzy"]
+[Result "1-0"]
+[ECO "B15"]
+[Opening "Caro-Kann"]
+[Variation "Tartakower (Nimzovich) variation"]
+[HashCode "86537e5f"]
+[Epoch "Rook"]
+[BlackID "1101188"]
+[BlackCountry "POL"]
+[WhiteID "1100050"]
+[WhiteCountry "POL"]
+
+1. e4 c6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Nf6 5. Nxf6+ exf6 6. c3 Bd6 7. Bd3 O-O 8.
+Ne2 Re8 9. Qc2 g6 10. h4 Nd7 11. h5 Nf8 12. Bh6 Be6 13. O-O-O Qc7 14. c4 c5 15.
+d5 Bc8 16. hxg6 fxg6 17. Rh4 f5 18. Rdh1 Qf7 19. Nf4 Bd7 20. Nh3 Re7 21. Qd2
+Rae8 22. Ng5 Qf6 23. Bxf8 Qxf8 24. Nxh7 Qg7 25. Ng5 Qf6 26. f4 a6 27. g3 Qd4
+28. Kc2 1-0

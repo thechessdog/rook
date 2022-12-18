@@ -1,0 +1,25 @@
+[Event "Mosbach Elo"]
+[Site "Mosbach Elo"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Herbrechtsmeier, Christof"]
+[Black "Siegel, Georg"]
+[Result "1-0"]
+[ECO "B40"]
+[Opening "Sicilian"]
+[Variation "Anderssen variation"]
+[HashCode "1e283645"]
+[Epoch "Rook"]
+[WhiteID "4603737"]
+[BlackID "4604237"]
+[WhiteCountry "GER"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Bd3 Nc6 6. Nxc6 bxc6 7. c4 d6 8.
+O-O Be7 9. Nc3 O-O 10. Bf4 e5 11. Bg3 Nd7 12. Na4 c5 13. a3 Bh4 14. b4 Bxg3 15.
+hxg3 Bb7 16. Rb1 Bc6 17. Nc3 cxb4 18. axb4 a5 19. b5 Bb7 20. Na4 Nc5 21. Qc2
+Nxa4 22. Qxa4 Qb6 23. Rfd1 g6 24. Qa3 f5 25. exf5 gxf5 26. c5 dxc5 27. Bc4+ Kh8
+28. Rd7 Rae8 29. Ra1 Be4 30. Qxa5 Qh6 31. Qc7 f4 32. Re1 fxg3 33. fxg3 Rf5 34.
+Rd8 Rxd8 35. Qxd8+ Rf8 36. Qe7 Bg6 37. Qxe5+ Qg7 38. Qxc5 Rd8 39. b6 Rb8 40. b7
+h5 41. Qc8+ Qf8 42. Be6 Kg7 43. Qc7+ Kh6 44. Bc8 Qb4 45. Qxb8 Qxe1+ 46. Kh2 h4
+47. Qf4+ Kg7 48. b8=Q 1-0

@@ -1,0 +1,19 @@
+[Event "corr EU-M"]
+[Site "corr EU-M"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Szklarczyk, J."]
+[Black "Brauer, C."]
+[Result "0-1"]
+[ECO "C47"]
+[Opening "Four knights"]
+[Variation "Belgrade gambit"]
+[HashCode "a6a5e68c"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nc3 Nc6 4. d4 exd4 5. Nd5 Nxe4 6. Qe2 f5 7. Ng5 d3
+8. cxd3 Nd4 9. Qh5+ g6 10. Qh4 c6 11. dxe4 cxd5 12. exd5 Bg7 13. Qg3 O-O
+14. d6 b5 15. Bd3 Qa5+ 16. Bd2 Re8+ 17. Kd1 Qa4+ 18. b3 Qa3 19. Bc3 Qc5 20.
+Rc1 Bb7 21. Qh4 h6 22. Bxd4 Qxd6 23. Nf3 Bxf3+ 24. gxf3 Bxd4 25. Qxh6 Be3
+26. fxe3 Qxd3+ 27. Ke1 Rxe3+ 28. Kf2 Qd2+ 29. Kf1 Rxf3+ 0-1
+

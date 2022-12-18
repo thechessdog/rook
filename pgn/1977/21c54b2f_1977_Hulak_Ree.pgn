@@ -1,0 +1,24 @@
+[Event "IBM"]
+[Site "Amsterdam"]
+[Date "1977.07.01"]
+[Round "1"]
+[White "Hulak, Krunoslav"]
+[Black "Ree, Hans"]
+[Result "1-0"]
+[ECO "C70"]
+[Opening "Ruy Lopez"]
+[Variation "fianchetto defence deferred"]
+[HashCode "21c54b2f"]
+[Epoch "Rook"]
+[BlackID "1000098"]
+[WhiteCountry "HRV"]
+[BlackCountry "NED"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 g6 5. O-O Bg7 6. c3 d6 7. d4 Bd7 8. dxe5
+dxe5 9. Bg5 Nge7 10. Qc1 O-O 11. Re1 Qe8 12. Bh6 Nc8 13. Bxg7 Kxg7 14. Na3 Nb6
+15. Bb3 Be6 16. Ng5 Bxb3 17. axb3 Rd8 18. Nc2 f6 19. Nf3 Qf7 20. Nd2 Qd7 21.
+Nf1 Qe6 22. b4 Rf7 23. Nce3 Rfd7 24. Qc2 Na7 25. h4 Nb5 26. Qe2 Nd6 27. Nd2 Nf7
+28. Red1 f5 29. exf5 gxf5 30. g4 fxg4 31. Ne4 Rxd1+ 32. Rxd1 Rxd1+ 33. Qxd1 Nh6
+34. Qd8 Nf7 35. Qxc7 Nd5 36. Qxb7 Nxe3 37. fxe3 Qb3 38. Ng5 Qd1+ 39. Kf2 Qd2+
+40. Kg3 Qxe3+ 41. Kxg4 Qg1+ 42. Kf5 Qf1+ 43. Qf3 Qb1+ 44. Ne4 Kf8 45. Kf6 Qc1
+46. Ng5 Nxg5 47. Qa8# 1-0

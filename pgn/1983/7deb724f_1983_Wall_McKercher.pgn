@@ -1,0 +1,18 @@
+[Event "Fort Knox"]
+[Site "Fort Knox"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Wall, Bill"]
+[Black "McKercher, Robert"]
+[Result "1-0"]
+[ECO "A49"]
+[Opening "King's Indian"]
+[Variation "fianchetto without c4"]
+[HashCode "7deb724f"]
+[Epoch "Rook"]
+[WhiteCountry "USA"]
+
+1. d4 Nf6 2. Nf3 g6 3. g3 Bg7 4. Bg2 O-O 5. O-O d6 6. c4 c5 7. d5 e6 8. dxe6
+Bxe6 9. Nfd2 Nc6 10. Nc3 Rb8 11. Nce4 Nxe4 12. Nxe4 Nd4 13. e3 Bxc4 14. exd4
+Bxf1 15. Qxf1 Bxd4 16. Bg5 Qb6 17. Be7 Rfe8 18. Bxd6 Rxe4 19. Bxb8 Re8 20. Bf4
+Qxb2 21. Re1 Bxf2+ 22. Qxf2 Rxe1+ 23. Qxe1 1-0

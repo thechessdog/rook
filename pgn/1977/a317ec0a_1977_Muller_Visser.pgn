@@ -1,0 +1,16 @@
+[Event "corr Germany"]
+[Site "corr Germany"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Muller, Gunter"]
+[Black "Visser, D."]
+[Result "1-0"]
+[ECO "A45"]
+[Opening "Paleface attack"]
+[HashCode "a317ec0a"]
+[Epoch "Rook"]
+[WhiteID "1270403"]
+[WhiteCountry "GER"]
+
+1. d4 Nf6 2. f3 c5 3. d5 e6 4. c4 b5 5. e4 exd5 6. e5 Nh5 7. Qxd5 Qh4+ 8. g3
+Nxg3 9. hxg3 Qxg3+ 10. Kd1 Qf2 11. Ne2 1-0

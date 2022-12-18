@@ -1,0 +1,18 @@
+[Event "Linkoping"]
+[Site "Linkoping"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Pietrusiak, Bogdan"]
+[Black "Svenn, Gosta"]
+[Result "1/2-1/2"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "53af6d62"]
+[Epoch "Rook"]
+[BlackID "1700553"]
+[BlackCountry "SWE"]
+[WhiteCountry "POL"]
+
+1. e4 c5 2. c3 e6 3. d4 d5 4. exd5 exd5 5. Be3 c4 6. Ne2 Bd6 7. Nf4 Nf6 8. Be2
+Nc6 9. O-O O-O 10. b3 cxb3 11. axb3 Bf5 12. Nd2 a6 13. Bf3 Bc7 14. g4 1/2-1/2

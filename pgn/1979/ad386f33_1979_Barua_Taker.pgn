@@ -1,0 +1,19 @@
+[Event "Kalkutta"]
+[Site "Kalkutta"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Barua, Dibyendu"]
+[Black "Taker"]
+[Result "0-1"]
+[ECO "C46"]
+[Opening "Four knights"]
+[Variation "Italian variation"]
+[HashCode "ad386f33"]
+[Epoch "Rook"]
+[WhiteID "5000025"]
+[WhiteCountry "IND"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Nc3 Nxe4 5. Bxf7+ Kxf7 6. Nxe4 Be7 7. d4 d5
+8. Neg5+ Kg8 9. dxe5 h6 10. Nh3 Bg4 11. Bf4 Qd7 12. Nhg1 g5 13. Bg3 d4 14. a3
+Rd8 15. Qd2 Qd5 16. Qd3 Qa5+ 17. Kf1 Kg7 18. Re1 Rhf8 19. Ne2 Rxf3 20. Qe4 d3
+21. cxd3 Rfxd3 22. f3 Rxf3+ 23. gxf3 Bh3+ 24. Kg1 Bc5+ 25. Bf2 Qxe1# 0-1

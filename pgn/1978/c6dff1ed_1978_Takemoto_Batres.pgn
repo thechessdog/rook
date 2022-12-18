@@ -1,0 +1,21 @@
+[Event "Buenos Aires ol (Men)"]
+[Site "Buenos Aires olm"]
+[Date "1978.10.01"]
+[Round "1"]
+[White "Takemoto, Hiroshi"]
+[Black "Batres, Francisco"]
+[Result "0-1"]
+[ECO "B67"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...a6 defence, 8...Bd7"]
+[HashCode "c6dff1ed"]
+[Epoch "Rook"]
+[WhiteID "7000642"]
+[WhiteCountry "JPN"]
+[BlackID "6100180"]
+[BlackCountry "NCA"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 Bd7 7. Qd2 a6 8.
+O-O-O e6 9. f4 h6 10. Bh4 Be7 11. Nf3 g5 12. fxg5 Ng4 13. g6 Bxh4 14. gxf7+ Kf8
+15. Qxd6+ Be7 16. Qxd7 Nf2 17. Qxe6 Nxd1 18. Nxd1 Bg5+ 19. Nxg5 Qxg5+ 20. Kb1
+Rd8 21. Bd3 Qxg2 22. Rf1 Qxf1 0-1

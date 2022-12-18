@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Marttinen, Pauli"]
+[Black "Huuskonen, Veli"]
+[Result "1-0"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack, Richter variation"]
+[HashCode "e2c71a59"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 Bf5 4. f3 c6 5. e3 Nbd7 6. f4 e6 7. Bd3 Bxd3 8.
+Qxd3 Qa5 9. Bxf6 Nxf6 10. Ne2 Be7 11. O-O O-O 12. f5 c5 13. h3 c4 14. Qd2
+Bb4 15. a3 Bxc3 16. Nxc3 b5 17. fxe6 fxe6 18. e4 dxe4 19. Nxe4 Qxd2 20.
+Nxd2 Nd5 21. Rxf8+ Kxf8 22. Re1 Ke7 23. Ne4 Nf6 24. Nc5 Kd6 25. Rxe6+ Kd5
+26. c3 Ne8 27. Re7 Kd6 28. Rf7 a5 29. Kf2 b4 30. Kf3 bxc3 31. bxc3 Rb8 32.
+Ra7 Rb1 33. Ne4+ Kc6 34. Rxa5 Rf1+ 35. Ke2 Rf7 36. Rc5+ 1-0
+

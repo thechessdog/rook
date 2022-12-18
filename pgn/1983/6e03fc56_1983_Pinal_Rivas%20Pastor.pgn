@@ -1,0 +1,18 @@
+[Event "Havana-B"]
+[Site "Havana"]
+[Date "1983.01.01"]
+[Round "4"]
+[White "Pinal, Nelson Borges"]
+[Black "Rivas Pastor, Manuel"]
+[Result "1/2-1/2"]
+[ECO "C85"]
+[Opening "Ruy Lopez"]
+[Variation "Exchange variation doubly deferred (DERLD)"]
+[HashCode "6e03fc56"]
+[Epoch "Rook"]
+[BlackID "2200058"]
+[BlackCountry "ESP"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Bxc6 dxc6 7. d3 Nd7 8.
+Nbd2 O-O 9. Nc4 f6 10. Nh4 Re8 11. Qf3 Nf8 12. Nf5 Bd6 13. Be3 Be6 14. Rad1 c5
+15. Kh1 b5 16. Nd2 Qd7 17. Rg1 Bf7 18. g4 1/2-1/2

@@ -1,0 +1,22 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Lubrano"]
+[Black "Conti"]
+[Result "0-1"]
+[ECO "A05"]
+[Opening "Reti"]
+[Variation "King's Indian attack"]
+[HashCode "158fde9e"]
+[Epoch "Rook"]
+
+1. Nf3 Nf6 2. g3 g6 3. Bg2 Bg7 4. O-O O-O 5. d3 d6 6. e4 c5 7. c3 Nc6 8.
+Nbd2 e5 9. a4 h6 10. Nc4 Be6 11. Qe2 Qc7 12. Rb1 d5 13. exd5 Nxd5 14. Re1
+Rfe8 15. Bd2 Nb6 16. Nxb6 axb6 17. b3 Rad8 18. Red1 Qd7 19. Be1 Bf6 20. Bf1
+Bg4 21. Rdc1 Qd5 22. Bg2 e4 23. dxe4 Rxe4 24. Qb5 Bxf3 25. Bxf3 Rxe1+ 26.
+Rxe1 Qxf3 27. Re3 Rd1+ 28. Rxd1 Qxd1+ 29. Kg2 Qd5+ 30. Kf1 Ne5 31. Qxb6 c4
+32. bxc4 Nxc4 33. Re8+ Kh7 34. Qd8 Qh1+ 35. Ke2 Bxc3 36. Qd1 Qc6 37. Rd8
+Ne5 38. Qd5 Qxa4 39. f4 Qa6+ 40. Kd1 Qa1+ 41. Kc2 Qb2+ 42. Kd1 Qb1+ 43. Ke2
+Qe1# 0-1
+

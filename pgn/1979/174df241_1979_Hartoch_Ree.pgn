@@ -1,0 +1,19 @@
+[Event "Leeuwarden ch-NED"]
+[Site "Leeuwarden ch-NED"]
+[Date "1979.04.01"]
+[Round "7"]
+[White "Hartoch, Robert G"]
+[Black "Ree, Hans"]
+[Result "1/2-1/2"]
+[ECO "A28"]
+[Opening "English"]
+[Variation "four knights, 4.e3"]
+[HashCode "174df241"]
+[Epoch "Rook"]
+[BlackID "1000098"]
+[BlackCountry "NED"]
+[WhiteCountry "NLD"]
+
+1. c4 Nf6 2. Nc3 e5 3. Nf3 Nc6 4. e3 Bb4 5. Qc2 d6 6. Be2 O-O 7. O-O Bg4 8. Nd5
+Re8 9. d3 Bc5 10. a3 Nxd5 11. cxd5 Ne7 12. b4 Bb6 13. Qc4 Bh5 14. a4 a5 15. Bd2
+f6 16. bxa5 Bxa5 17. Bxa5 Rxa5 18. Rfc1 Bf7 19. Qxc7 1/2-1/2

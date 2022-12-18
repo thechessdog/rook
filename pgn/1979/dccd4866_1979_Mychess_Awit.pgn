@@ -1,0 +1,23 @@
+[Event "ACM Detroit"]
+[Site "ACM Detroit"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Mychess"]
+[Black "Awit"]
+[Result "1-0"]
+[ECO "B92"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Opovcensky variation"]
+[HashCode "dccd4866"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8.
+Be3 O-O 9. a4 a5 10. f4 Nc6 11. f5 Nb4 12. O-O d5 13. exd5 Nfxd5 14. Nxd5
+Nxd5 15. Bc5 Bxc5+ 16. Nxc5 Ne3 17. Qxd8 Rxd8 18. Rf2 b6 19. Bf3 Ra7 20.
+Nd3 Bxf5 21. Nxe5 Re8 22. Nc6 Rd7 23. c3 Be4 24. Bxe4 Rxe4 25. Nd4 g6 26.
+Re1 Kg7 27. Rfe2 Nxg2 28. Rxe4 Nxe1 29. Rxe1 Rd6 30. Kf2 f5 31. Re6 Rxe6
+32. Nxe6+ Kh6 33. Nf4 Kg5 34. Nd5 Kh4 35. Nxb6 Kh3 36. Kg1 f4 37. b3 f3 38.
+Nc4 f2+ 39. Kxf2 Kxh2 40. Nxa5 g5 41. Nc6 g4 42. a5 g3+ 43. Ke2 g2 44. Ne5
+g1=Q 45. Nf3+ Kg2 46. Nxg1 Kh2 47. a6 Kxg1 48. a7 h5 49. a8=Q h4 50. Qg8+
+Kh2 51. Kf2 Kh1 52. Qg2# 1-0
+

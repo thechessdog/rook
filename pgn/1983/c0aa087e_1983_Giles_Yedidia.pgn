@@ -1,0 +1,22 @@
+[Event "WchT U26"]
+[Site "Chicago"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Giles, Morris"]
+[Black "Yedidia, Jonathan"]
+[Result "1-0"]
+[ECO "C16"]
+[Opening "French"]
+[Variation "Winawer, Petrosian variation"]
+[HashCode "c0aa087e"]
+[Epoch "Rook"]
+[WhiteID "2001101"]
+[BlackID "2003015"]
+[WhiteCountry "USA"]
+[BlackCountry "USA"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 Qd7 5. Bd2 b6 6. Nh3 Bf8 7. Nf4 Ba6 8. Bxa6
+Nxa6 9. O-O Ne7 10. Nh5 c5 11. Ne2 Nf5 12. c3 Nb8 13. Neg3 Nc6 14. Nxf5 exf5
+15. dxc5 bxc5 16. Bg5 Nd8 17. Bxd8 Rxd8 18. Re1 Qc6 19. Qf3 Qg6 20. Rad1 Qg4
+21. Nf6+ gxf6 22. exf6+ Qe4 23. Qxf5 Be7 24. Rxe4 dxe4 25. Re1 Bd6 26. Rxe4+
+Kf8 27. Qg5 Bf4 28. Qg7# 1-0

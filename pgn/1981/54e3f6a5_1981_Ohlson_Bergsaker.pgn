@@ -1,0 +1,16 @@
+[Event "corr EU"]
+[Site "corr EU"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Ohlson"]
+[Black "Bergsaker"]
+[Result "0-1"]
+[ECO "A00"]
+[Opening "Polish (Sokolsky) opening"]
+[HashCode "54e3f6a5"]
+[Epoch "Rook"]
+
+1. b4 e5 2. Bb2 Bxb4 3. Bxe5 Nf6 4. c4 O-O 5. e3 d5 6. cxd5 Nxd5 7. Nf3 Re8
+8. Bb2 Nf4 9. Ne5 Qg5 10. g3 Rxe5 11. Bxe5 Qxe5 12. Na3 Qe4 13. Rg1 Nd3+
+14. Bxd3 Qxd3 15. Nc2 Bc5 0-1
+

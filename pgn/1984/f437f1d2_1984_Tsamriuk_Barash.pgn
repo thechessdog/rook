@@ -1,0 +1,17 @@
+[Event "corr ch16-SU"]
+[Site "corr ch16-SU"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Tsamriuk, A."]
+[Black "Barash, D."]
+[Result "0-1"]
+[ECO "E10"]
+[Opening "Queen's pawn game"]
+[HashCode "f437f1d2"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. g3 cxd4 5. Nxd4 Bb4+ 6. Bd2 Qb6 7. Bxb4
+Qxb4+ 8. Nc3 Qxb2 9. Ndb5 Qb4 10. Nc7+ Kd8 11. Qd2 Ne4 12. Nxe6+ fxe6 13.
+Nxe4 Qxd2+ 14. Kxd2 b6 15. Nd6 Ke7 16. Bg2 Nc6 17. c5 Rb8 18. Rhb1 bxc5 19.
+Nb5 Na5 0-1
+

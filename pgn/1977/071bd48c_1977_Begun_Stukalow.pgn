@@ -1,0 +1,17 @@
+[Event "Astrachan"]
+[Site "Astrachan"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Begun, Sergei"]
+[Black "Stukalow"]
+[Result "1-0"]
+[ECO "C41"]
+[Opening "Philidor"]
+[Variation "Nimzovich variation"]
+[HashCode "071bd48c"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 d6 3. d4 Nf6 4. dxe5 Nxe4 5. Bc4 c6 6. Nbd2 Nxd2 7. Bxd2
+Be7 8. exd6 Qxd6 9. Bc3 O-O 10. Qxd6 Bxd6 11. O-O-O Bc5 12. Ne5 Bb6 13.
+Nxf7 Rxf7 14. Rhe1 Kf8 15. Bb4+ c5 16. Bxc5+ 1-0
+

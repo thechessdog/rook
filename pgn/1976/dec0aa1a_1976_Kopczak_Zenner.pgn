@@ -1,0 +1,25 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Kopczak"]
+[Black "Zenner"]
+[Result "1-0"]
+[ECO "A17"]
+[Opening "English"]
+[Variation "Nimzo-English opening"]
+[HashCode "dec0aa1a"]
+[Epoch "Rook"]
+
+1. c4 Nf6 2. Nc3 e6 3. Nf3 Bb4 4. Qc2 c5 5. a3 Bxc3 6. Qxc3 O-O 7. b4 Ne4
+8. Qc2 Ng5 9. Nxg5 Qxg5 10. d3 Qe7 11. bxc5 Qxc5 12. Bd2 Na6 13. e3 b6 14.
+d4 Qe7 15. Bd3 f5 16. O-O Bb7 17. f3 Rac8 18. Qa4 Qd6 19. Rfd1 Rf6 20. Be1
+Qc6 21. Qb3 d6 22. Rac1 Nc7 23. e4 Rg6 24. Bg3 Qd7 25. exf5 exf5 26. c5+ d5
+27. Qb1 Rf8 28. cxb6 Rxb6 29. Rxc7 Rxb1 30. Rxb1 Qa4 31. Rbxb7 Qxd4+ 32.
+Bf2 Qa1+ 33. Bf1 a5 34. Be1 Qd4+ 35. Kh1 Qa1 36. Rxg7+ Qxg7 37. Rxg7+ Kxg7
+38. Bxa5 Kf6 39. Bc3+ Ke6 40. Bd3 Rb8 41. Bb4 h5 42. f4 h4 43. h3 Rc8 44.
+Kg1 Rc1+ 45. Kf2 Rd1 46. Be2 Rc1 47. Ke3 Rg1 48. Bf3 Rc1 49. Kd3 Rc4 50.
+Bd2 Kd6 51. Bd1 Re4 52. a4 Kc5 53. a5 Rd4+ 54. Ke3 Re4+ 55. Kf3 Re6 56. Bc2
+Rf6 57. Be1 Kc4 58. Bxh4 Rf8 59. Be1 Re8 60. Bd2 Rf8 61. a6 Ra8 62. Bxf5
+Rxa6 63. h4 Ra3+ 64. Ke2 d4 65. Be6+ Kc5 66. f5 1-0
+

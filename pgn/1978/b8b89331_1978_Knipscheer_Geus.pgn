@@ -1,0 +1,17 @@
+[Event "corr Netherlands"]
+[Site "corr Netherlands"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Knipscheer"]
+[Black "Geus"]
+[Result "1-0"]
+[ECO "B18"]
+[Opening "Caro-Kann"]
+[Variation "classical, 6.h4"]
+[HashCode "b8b89331"]
+[Epoch "Rook"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6 7. Nh3 Nd7 8.
+Nf4 Bh7 9. Bc4 e5 10. dxe5 Qe7 11. e6 Nb6 12. Bb3 Rd8 13. Qe2 Nd5 14. Nxd5
+Qd6 15. Bf4 1-0
+

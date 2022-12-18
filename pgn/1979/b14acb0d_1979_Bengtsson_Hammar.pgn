@@ -1,0 +1,24 @@
+[Event "Sweden"]
+[Site "Sweden"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Bengtsson, Bo"]
+[Black "Hammar, Bengt"]
+[Result "1-0"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Lipnitzky attack"]
+[HashCode "b14acb0d"]
+[Epoch "Rook"]
+[WhiteID "1700804"]
+[BlackID "1700391"]
+[WhiteCountry "SWE"]
+[BlackCountry "SWE"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. O-O b5 8. Bb3
+Bb7 9. Re1 Nbd7 10. Bg5 Qb6 11. Be3 Qc7 12. a4 b4 13. Na2 Nxe4 14. Nxb4 d5 15.
+Nxd5 exd5 16. f3 Bd6 17. fxe4 O-O 18. Nf5 Bxh2+ 19. Kh1 Nf6 20. exd5 Rad8 21.
+Bd4 Bf4 22. c4 Rfe8 23. Nxg7 Rxe1+ 24. Qxe1 Bg5 25. Nf5 Nh5 26. Qe5 Qxe5 27.
+Bxe5 Bc8 28. g4 Re8 29. Bc3 Bxf5 30. gxf5 Re2 31. Rg1 h6 32. Rg2 Re4 33. Bd2
+Nf4 34. Bxf4 Rxf4 35. d6 Kf8 36. c5 Rxf5 37. Rc2 Bf4 38. c6 Bxd6 39. c7 Bxc7
+40. Rxc7 Rf2 41. Rc2 1-0

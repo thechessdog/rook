@@ -1,0 +1,19 @@
+[Event "Kecskemet"]
+[Site "Kecskemet"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Horvath, Tamas"]
+[Black "Szekely, Peter"]
+[Result "1/2-1/2"]
+[ECO "E80"]
+[Opening "King's Indian"]
+[Variation "Saemisch variation"]
+[HashCode "bae19f42"]
+[Epoch "Rook"]
+[BlackID "14937492"]
+[BlackCountry "SVK"]
+[WhiteID "700185"]
+[WhiteCountry "HUN"]
+
+1. c4 g6 2. d4 Bg7 3. Nc3 d6 4. e4 Nf6 5. f3 a6 6. Bg5 c6 7. Qd2 b5 8. d5 bxc4
+9. Bxc4 O-O 10. Nge2 Bb7 11. Rb1 Nbd7 12. dxc6 Bxc6 1/2-1/2

@@ -1,0 +1,18 @@
+[Event "corr ICCF Cup4"]
+[Site "corr ICCF Cup4"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Shatunov, V."]
+[Black "Schneider, G."]
+[Result "1-0"]
+[ECO "B87"]
+[Opening "Sicilian"]
+[Variation "Sozin with ...a6 and ...b5"]
+[HashCode "0aa06351"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 b5 8.
+Bg5 Be7 9. Qf3 Qc7 10. O-O-O Nc6 11. e5 Bb7 12. Ndxb5 axb5 13. exf6 gxf6
+14. Nxb5 Qb6 15. Nxd6+ Bxd6 16. Rxd6 fxg5 17. Qf6 O-O 18. Qxg5+ Kh8 19.
+Qf6+ Kg8 20. Rd3 1-0
+

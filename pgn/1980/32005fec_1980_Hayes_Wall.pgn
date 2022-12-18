@@ -1,0 +1,16 @@
+[Event "Dayton,OH"]
+[Site "Dayton,OH"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Hayes, Dan"]
+[Black "Wall, Bill"]
+[Result "0-1"]
+[ECO "C01"]
+[Opening "French"]
+[Variation "exchange variation"]
+[HashCode "32005fec"]
+[Epoch "Rook"]
+[BlackCountry "USA"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. Qe2+ Be7 5. Bg5 Nc6 6. Bxe7 Ngxe7 7. Nf3 O-O
+8. Nc3 Re8 9. Qd2 Bf5 10. Bd3 Ng6+ 11. Ne2 Bxd3 12. Qxd3 Nf4 0-1

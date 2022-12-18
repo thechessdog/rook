@@ -1,0 +1,20 @@
+[Event "Hungary"]
+[Site "Hungary"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Perenyi, Bela"]
+[Black "Shneider, Aleksandr"]
+[Result "1-0"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Byrne (English) attack"]
+[HashCode "4a6171b7"]
+[Epoch "Rook"]
+[WhiteCountry "HUN"]
+[BlackID "14100045"]
+[BlackCountry "UKR"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e6 7. g4 e5 8. Nf5
+g6 9. g5 gxf5 10. exf5 d5 11. Qf3 Ne4 12. Nxe4 dxe4 13. Qxe4 Nc6 14. Bc4 Bd7
+15. O-O-O Qc7 16. Rhe1 f6 17. Rxd7 Qxd7 18. gxf6 Bd6 19. Be6 Qc7 20. f7+ Kd8
+21. Rd1 Rc8 22. Qxe5 1-0

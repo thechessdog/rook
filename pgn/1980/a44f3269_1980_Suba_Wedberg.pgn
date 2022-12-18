@@ -1,0 +1,24 @@
+[Event "Bajmok"]
+[Site "Bajmok"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Suba, Mihai"]
+[Black "Wedberg, Tom"]
+[Result "0-1"]
+[ECO "A37"]
+[Opening "English"]
+[Variation "symmetrical, Botvinnik system reversed"]
+[HashCode "a44f3269"]
+[Epoch "Rook"]
+[WhiteID "1203363"]
+[WhiteCountry "ESP"]
+[BlackID "1700073"]
+[BlackCountry "SWE"]
+
+1. c4 c5 2. Nc3 Nc6 3. Nf3 e5 4. g3 g6 5. Bg2 Bg7 6. a3 a5 7. O-O Nge7 8. d3 d6
+9. Ne1 Be6 10. Nd5 O-O 11. Rb1 Rb8 12. Qa4 Bd7 13. Bg5 f6 14. Bd2 b6 15. Qd1 b5
+16. b3 Kh8 17. Nc2 Nxd5 18. Bxd5 Ne7 19. Bg2 Be6 20. Ne3 b4 21. a4 f5 22. f4
+exf4 23. gxf4 d5 24. cxd5 Nxd5 25. Nxd5 Bxd5 26. Qc2 Bxg2 27. Kxg2 Qd5+ 28. Rf3
+Rfe8 29. Re1 Rbd8 30. Kg3 Rd6 31. Re3 Rxe3+ 32. Bxe3 Bc3 33. Rf1 Re6 34. Bc1
+Kg8 35. e3 h6 36. h4 Re7 37. Rd1 g5 38. hxg5 hxg5 39. fxg5 Rh7 40. e4 Be5+ 41.
+Bf4 0-1

@@ -1,0 +1,25 @@
+[Event "Rome-B"]
+[Site "Rome"]
+[Date "1981.01.01"]
+[Round "9"]
+[White "Passerotti, Pierluigi"]
+[Black "Filipowicz, Andrzej"]
+[Result "1-0"]
+[ECO "B42"]
+[Opening "Sicilian"]
+[Variation "Kan, Swiss cheese variation"]
+[HashCode "6da5a6b4"]
+[Epoch "Rook"]
+[WhiteID "800309"]
+[WhiteCountry "ITA"]
+[BlackID "1100491"]
+[BlackCountry "POL"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 g6 6. Nc3 Bg7 7. Nb3 Ne7 8. Bg5
+f6 9. Be3 O-O 10. Qd2 Nbc6 11. O-O-O b5 12. h4 Ne5 13. h5 Qc7 14. hxg6 hxg6 15.
+Be2 Rf7 16. f4 Nc4 17. Bxc4 Qxc4 18. Qd6 Qc6 19. Qb4 Bf8 20. Bc5 Qc7 21. Bd6
+Qa7 22. Qc5 Qxc5 23. Nxc5 Bg7 24. a3 Nc6 25. Rh3 Nd8 26. Rg3 Nb7 27. Nxb7 Bxb7
+28. Rxg6 Rc8 29. Rd3 Rc4 30. Re3 Kh7 31. Rg4 Kg8 32. b3 Rc8 33. Kd2 f5 34. exf5
+exf5 35. Rg5 Kh7 36. Rh3+ Kg8 37. Be5 d6 38. Bxg7 Rxg7 39. Rhg3 Rxg5 40. Rxg5+
+Kf7 41. Rxf5+ Ke6 42. Rg5 Rh8 43. Nd1 Be4 44. Nf2 Bf5 45. Nd3 Rh4 46. Ke3 Rh1
+47. g4 Bxd3 48. cxd3 Ra1 49. f5+ Kf6 50. Rg6+ Ke5 51. Re6+ Kd5 52. Re4 1-0

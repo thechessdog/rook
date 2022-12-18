@@ -1,0 +1,17 @@
+[Event "corr CCLA"]
+[Site "corr CCLA"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "De Bondt"]
+[Black "Henri, J."]
+[Result "1-0"]
+[ECO "B33"]
+[Opening "Sicilian"]
+[Variation "Pelikan, Bird variation"]
+[HashCode "700ffe1b"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6
+8. Na3 Be6 9. Nc4 Rc8 10. Ne3 Be7 11. Bd3 O-O 12. O-O Nd7 13. Bxe7 Nxe7 14.
+Ncd5 Bxd5 15. Nxd5 Nxd5 16. exd5 f5 17. Re1 e4 18. Be2 Ne5 19. Rc1 1-0
+

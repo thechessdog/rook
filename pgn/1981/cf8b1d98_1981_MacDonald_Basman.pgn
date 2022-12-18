@@ -1,0 +1,17 @@
+[Event "England"]
+[Site "England"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "MacDonald, D."]
+[Black "Basman, Michael J"]
+[Result "0-1"]
+[ECO "A40"]
+[Opening "Queen's pawn"]
+[HashCode "cf8b1d98"]
+[Epoch "Rook"]
+[BlackID "400505"]
+[BlackCountry "ENG"]
+
+1. d4 h6 2. e4 g5 3. Bd3 Bg7 4. h4 gxh4 5. Nf3 d5 6. e5 c5 7. c3 Bg4 8. Rxh4 h5
+9. dxc5 Nc6 10. e6 Bxe6 11. Ng5 Bg4 12. Qb3 Qc7 13. Qxd5 Nh6 14. Na3 Rd8 15.
+Nb5 Qb8 16. Qc4 Ne5 0-1

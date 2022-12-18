@@ -1,0 +1,17 @@
+[Event "Denver"]
+[Site "Denver"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Yoshinaga, D."]
+[Black "Deschner, M."]
+[Result "0-1"]
+[ECO "D08"]
+[Opening "QGD"]
+[Variation "Albin counter-gambit"]
+[HashCode "f10248fa"]
+[Epoch "Rook"]
+
+1. d4 d5 2. c4 e5 3. dxe5 d4 4. e4 Nc6 5. f4 g5 6. Be2 Bb4+ 7. Bd2 gxf4 8.
+Bxb4 Qh4+ 9. Kf1 Nxb4 10. Nf3 Qe7 11. Nxd4 Bd7 12. a3 Nc6 13. Nxc6 Bxc6 14.
+Qd4 Rd8 15. Qxa7 b6 16. Nc3 Ra8 0-1
+

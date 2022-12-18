@@ -1,0 +1,17 @@
+[Event "Dayton,OH"]
+[Site "Dayton,OH"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Wall, Bill"]
+[Black "Hanumanthu"]
+[Result "1-0"]
+[ECO "C30"]
+[Opening "KGD"]
+[Variation "2...Nf6"]
+[HashCode "63bab577"]
+[Epoch "Rook"]
+[WhiteCountry "USA"]
+
+1. e4 e5 2. f4 Nf6 3. Nf3 Nc6 4. Bc4 Nxe4 5. O-O Bc5+ 6. d4 Nxd4 7. Bxf7+ Kxf7
+8. Nxe5+ Ke8 9. Qh5+ g6 10. Nxg6 Nxc2+ 11. Kh1 Nf2+ 12. Rxf2 Bxf2 13. Nxh8+ Ke7
+14. Qxh7+ 1-0

@@ -1,0 +1,20 @@
+[Event "IBM-B"]
+[Site "Amsterdam II"]
+[Date "1978.07.01"]
+[Round "2"]
+[White "Balshan, Amikam"]
+[Black "De Roode, Peter"]
+[Result "1/2-1/2"]
+[ECO "B52"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky attack, 3...Bd7"]
+[HashCode "5491ba21"]
+[Epoch "Rook"]
+[WhiteID "2800233"]
+[WhiteCountry "ISR"]
+[BlackID "1001140"]
+[BlackCountry "NED"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Qxd7 5. O-O Nf6 6. Re1 Nc6 7. c3 e6 8.
+d4 cxd4 9. Nxd4 Be7 10. Na3 Ne5 11. Bf4 O-O 12. Qe2 Ng6 13. Bg3 a6 14. Rad1 Qc7
+15. Nb3 Rfd8 16. Rd2 Ne5 1/2-1/2

@@ -1,0 +1,20 @@
+[Event "corr DDR-FSM"]
+[Site "corr DDR-FSM"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Richter, D."]
+[Black "Stabenow, J."]
+[Result "1-0"]
+[ECO "D02"]
+[Opening "Queen's pawn game"]
+[HashCode "96e7fb76"]
+[Epoch "Rook"]
+
+1. d4 d5 2. Nf3 Nf6 3. Nc3 c6 4. e3 Bf5 5. Bd3 Bxd3 6. Qxd3 e6 7. O-O Bd6
+8. e4 dxe4 9. Nxe4 Nxe4 10. Qxe4 Nd7 11. Ne5 Nxe5 12. dxe5 Bc7 13. c4 Qe7
+14. Re1 Ba5 15. Rd1 O-O 16. Qg4 Kh8 17. Be3 Bc7 18. Qe4 Rfd8 19. Rxd8+ Qxd8
+20. f4 Qd7 21. Qc2 Rd8 22. Bxa7 b6 23. c5 b5 24. Bb6 Bxb6 25. cxb6 h6 26.
+Rc1 g6 27. h3 Rc8 28. Qc5 Kg7 29. b4 Qb7 30. a4 Rb8 31. a5 Rc8 32. Ra1 Qa6
+33. Qe7 c5 34. Rd1 cxb4 35. Rd7 Rf8 36. b7 Qa7+ 37. Kh2 b3 38. Qxf8+ Kxf8
+39. Rd8+ 1-0
+

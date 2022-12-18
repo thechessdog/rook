@@ -1,0 +1,23 @@
+[Event "corr SWE/K tt"]
+[Site "corr SWE/K tt"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Isetoft, Bengt"]
+[Black "Korning, Peter"]
+[Result "0-1"]
+[ECO "C76"]
+[Opening "Ruy Lopez"]
+[Variation "modern Steinitz defence, fianchetto (Bronstein) variation"]
+[HashCode "351be94c"]
+[Epoch "Rook"]
+[BlackID "1723332"]
+[BlackCountry "SWE"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. c3 Bd7 6. d4 g6 7. O-O Bg7 8. Bg5
+Nge7 9. dxe5 dxe5 10. Qc1 O-O 11. Rd1 Qe8 12. Nbd2 h6 13. Be3 Rd8 14. Nf1 Kh7
+15. Bc2 b6 16. Ne1 f5 17. f3 f4 18. Bf2 g5 19. b4 h5 20. Bd3 Bc8 21. Qc2 Qg6
+22. Be2 Bf6 23. a4 g4 24. b5 Rxd1 25. Rxd1 axb5 26. axb5 Nd8 27. fxg4 hxg4 28.
+c4 Ne6 29. c5 bxc5 30. Bxc5 Rf7 31. Bc4 Rg7 32. Bf2 Ng5 33. Bd3 Qh5 34. Rc1
+Nf3+ 35. gxf3 gxf3+ 36. Bg3 Bh3 37. Kf2 Bxf1 38. Bxf4 Bxd3 39. Qxd3 exf4 40.
+Nxf3 Be5 41. Rc5 Ng6 42. Qd8 Qg4 43. Rd5 Bd6 44. Rg5 Be7 45. Rxg4 Bxd8 46. h4
+Re7 47. h5 Ne5 48. Nxe5 Rxe5 49. Rxf4 Kg7 0-1

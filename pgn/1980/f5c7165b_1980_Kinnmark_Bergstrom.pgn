@@ -1,0 +1,22 @@
+[Event "Sweden"]
+[Site "Sweden"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Kinnmark, Ove"]
+[Black "Bergstrom, Christer"]
+[Result "0-1"]
+[ECO "B31"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (with ...g6, without ...d6)"]
+[HashCode "f5c7165b"]
+[Epoch "Rook"]
+[BlackID "1700154"]
+[BlackCountry "SWE"]
+[WhiteCountry "SWE"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. Re1 e5 6. Bxc6 bxc6 7. d3 Ne7 8.
+Be3 d6 9. c3 f5 10. exf5 Bxf5 11. d4 cxd4 12. cxd4 e4 13. Nfd2 d5 14. Nb3 O-O
+15. Nc3 Bc8 16. Qd2 Nf5 17. Bg5 Bf6 18. Bf4 Nh4 19. Qe3 Qd7 20. Ne2 Qg4 21. Qg3
+Qh5 22. h3 Be7 23. Nc5 g5 24. Bc7 Qf7 25. Be5 Ng6 26. Bc7 g4 27. Rf1 gxh3 28.
+gxh3 Bh4 29. Qh2 Qf3 30. Bg3 Qxe2 31. Bxh4 Nxh4 32. Qg3+ Ng6 33. h4 Bg4 34.
+Rae1 Qf3 0-1

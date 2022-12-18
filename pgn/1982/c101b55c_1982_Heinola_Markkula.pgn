@@ -1,0 +1,22 @@
+[Event "Rauma"]
+[Site "Rauma"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Heinola, Kari P."]
+[Black "Markkula, Mikael"]
+[Result "1-0"]
+[ECO "B78"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, 10.O-O-O"]
+[HashCode "c101b55c"]
+[Epoch "Rook"]
+[WhiteID "503495"]
+[WhiteCountry "FIN"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bc4 g6 7. Be3 Bg7 8. f3
+O-O 9. Qd2 Bd7 10. O-O-O Nxd4 11. Bxd4 Qc7 12. Bb3 a5 13. Bxf6 Bxf6 14. Nd5 Qc5
+15. Nxf6+ exf6 16. Qxd6 Qxd6 17. Rxd6 Be6 18. Bxe6 fxe6 19. Rxe6 b5 20. Rd1 Rf7
+21. Rdd6 Rc8 22. Ra6 a4 23. Rab6 f5 24. Rxb5 fxe4 25. Rxe4 Ra7 26. Rbb4 Rca8
+27. Rb6 a3 28. b3 Rd7 29. Rbe6 Kf7 30. c4 Rad8 31. Re2 Rd1+ 32. Kc2 Ra1 33. Kc3
+Rc1+ 34. Kb4 Ra8 35. Re7+ Kf8 36. Rxh7 Rd1 37. Rh8+ Kf7 38. Rxa8 Rh1 39. h3 Rf1
+40. Kxa3 Rd1 41. Ra5 Rd6 42. c5 Rd5 43. Ra7+ Kf6 44. c6 1-0

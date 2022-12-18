@@ -1,0 +1,17 @@
+[Event "Xenia,OH"]
+[Site "Xenia,OH"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Trogdon, T."]
+[Black "Howard"]
+[Result "0-1"]
+[ECO "B16"]
+[Opening "Caro-Kann"]
+[Variation "Bronstein-Larsen variation"]
+[HashCode "ec6c00d6"]
+[Epoch "Rook"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ gxf6 6. Nf3 Bg4 7. Be2
+e6 8. Bf4 Nd7 9. O-O Nb6 10. b3 Nd5 11. Bd2 Bd6 12. c4 Ne7 13. Bc3 Rg8 14.
+d5 cxd5 15. Bxf6 dxc4 16. Qc2 Rg6 17. Qc3 Nd5 18. Bxd8 Nxc3 0-1
+

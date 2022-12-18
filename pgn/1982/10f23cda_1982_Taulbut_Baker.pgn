@@ -1,0 +1,17 @@
+[Event "London"]
+[Site "London"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Taulbut"]
+[Black "Baker"]
+[Result "1-0"]
+[ECO "B10"]
+[Opening "Caro-Kann"]
+[Variation "closed (Breyer) variation"]
+[HashCode "10f23cda"]
+[Epoch "Rook"]
+
+1. e4 c6 2. d3 d5 3. Nd2 e5 4. Ngf3 Bd6 5. d4 dxe4 6. Nxe4 exd4 7. Qxd4 Bf8
+8. Qxd8+ Kxd8 9. Bg5+ Ke8 10. O-O-O f6 11. Bf4 Bf5 12. Nd6+ Bxd6 13. Rxd6
+Ne7 14. Bc4 c5 15. Re1 g5 16. Rxf6 gxf4 17. Rxf5 Rf8 18. Bb5+ 1-0
+

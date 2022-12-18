@@ -1,0 +1,17 @@
+[Event "Moscow"]
+[Site "Moscow"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Tseitlin, Mikhail S"]
+[Black "Sher, Miron N"]
+[Result "1-0"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Uhlmann variation"]
+[HashCode "d42d465d"]
+[Epoch "Rook"]
+[WhiteCountry "BLR"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. Bg5 Bg7 8. Nd2
+O-O 9. e4 Re8 10. Be2 Na6 11. O-O Nc7 12. a4 b6 13. f4 Qd7 14. Bxf6 Bxf6 15. e5
+dxe5 16. Nde4 Qd8 17. d6 Ne6 18. d7 Bxd7 19. Qxd7 exf4 20. Qxe8+ 1-0

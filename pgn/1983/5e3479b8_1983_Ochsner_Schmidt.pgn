@@ -1,0 +1,32 @@
+[Event "Aarhus-B"]
+[Site "Aarhus"]
+[Date "1983.01.01"]
+[Round "6"]
+[White "Ochsner, Thomas"]
+[Black "Schmidt, Kristen"]
+[Result "0-1"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical system, 5.Be2"]
+[HashCode "5e3479b8"]
+[Epoch "Rook"]
+[BlackID "1400436"]
+[BlackCountry "DEN"]
+[WhiteID "1400711"]
+[WhiteCountry "DEN"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Nf3 Bg7 5. Be2 O-O 6. O-O c6 7. h3 b5 8. e5 Ne8
+9. Bf4 Bf5 10. Bd3 dxe5 11. Bxe5 Nd6 12. Re1 Bxd3 13. Qxd3 Nd7 14. Bxg7 Kxg7
+15. d5 cxd5 16. Nxd5 e6 17. Rad1 Nc4 18. Ne3 Ndb6 19. Qe4 Qc7 20. Nd4 Nxe3 21.
+Rxe3 Rad8 22. Rc3 Qe7 23. Rdd3 Rd5 24. Nc6 Qd7 25. Nb4 Rxd3 26. Rxd3 Qe7 27.
+Qe5+ Qf6 28. Qxf6+ Kxf6 29. Rf3+ Kg7 30. Ra3 Ra8 31. Ra5 Nc4 32. Rxb5 Nxb2 33.
+Na6 Nd1 34. Rb7 Rc8 35. Nc7 a5 36. Nxe6+ Kf6 37. Nc7 Nc3 38. a3 a4 39. g3 Rd8
+40. Rb6+ Ke7 41. Rc6 Nb1 42. Nb5 Rd5 43. Nc3 Nxc3 44. Rxc3 Rd1+ 45. Kg2 Ra1 46.
+Kf3 Ke6 47. Ke4 f5+ 48. Kd4 Rf1 49. f4 Kd6 50. Kc4 Re1 51. Rd3+ Kc6 52. Kb4
+Re4+ 53. c4 Re1 54. Kxa4 Kc5 55. Kb3 Rb1+ 56. Kc3 Rc1+ 57. Kd2 Rh1 58. h4 Kxc4
+59. Re3 Rh2+ 60. Re2 Rh3 61. Rg2 Rh1 62. Ke3 Ra1 63. Rc2+ Kd5 64. Rc3 Ra2 65.
+Rb3 Kc5 66. Rd3 Rg2 67. Kf3 Ra2 68. g4 Kc4 69. Re3 Kd4 70. g5 Rh2 71. Kg3 Kxe3
+72. Kxh2 Kxf4 73. Kg2 Ke4 74. Kf2 Kd4 75. Kg3 Kc4 76. Kf4 Kb3 77. h5 Kxa3 78.
+h6 Kb4 79. Ke5 Kc5 80. Kf6 f4 81. Kg7 f3 82. Kxh7 f2 83. Kg7 f1=Q 84. h7 Qa1+
+85. Kg8 Qa8+ 86. Kg7 Qb7+ 87. Kg8 Qc8+ 88. Kg7 Qd7+ 89. Kxg6 Qd4 90. Kh6 Kd6
+91. g6 Ke6 92. g7 Qf6+ 0-1

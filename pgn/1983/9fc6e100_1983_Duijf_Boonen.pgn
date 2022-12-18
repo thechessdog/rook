@@ -1,0 +1,24 @@
+[Event "Reuver"]
+[Site "Reuver"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Duijf, J."]
+[Black "Boonen, P."]
+[Result "0-1"]
+[ECO "B62"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, 6...e6"]
+[HashCode "9fc6e100"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 e6 7. Bc4 Be7
+8. O-O h6 9. Bh4 O-O 10. Bb3 a6 11. Nxc6 bxc6 12. e5 Nd5 13. Bxe7 Qxe7 14.
+exd6 Qxd6 15. Qf3 a5 16. Rad1 Qe5 17. Rfe1 Qf6 18. Qxf6 gxf6 19. Nxd5 cxd5
+20. c4 a4 21. Bc2 dxc4 22. Rd4 a3 23. Rxc4 axb2 24. Bb3 Ba6 25. Rc2 b1=Q
+26. Rxb1 Bd3 27. Rbc1 Bxc2 28. Rxc2 Rfc8 29. Rxc8+ Rxc8 30. Kf1 Kf8 31. Ke2
+Ke7 32. g3 Kd6 33. f4 Rc1 34. Bd1 Ra1 35. Bb3 Rh1 36. h4 f5 37. Kf3 Rc1 38.
+Kf2 Rc3 39. Kg2 Kc5 40. Kf2 Kd4 41. Kg2 Ke3 42. Ba4 Ra3 43. Bb3 Ra5 44. Bc4
+Rc5 45. Bb3 Rc6 46. Ba4 Ra6 47. Bb3 f6 48. Bc4 Rc6 49. Bb3 e5 50. fxe5 fxe5
+51. a4 Ra6 52. Bc2 e4 53. g4 f4 54. g5 hxg5 55. hxg5 Rg6 56. Bb3 Rxg5+ 57.
+Kf1 f3 58. Bc4 f2 0-1
+

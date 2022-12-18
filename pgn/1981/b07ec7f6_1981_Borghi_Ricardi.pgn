@@ -1,0 +1,24 @@
+[Event "Buenos Aires"]
+[Site "Buenos Aires"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Borghi, Humberto"]
+[Black "Ricardi, Pablo"]
+[Result "0-1"]
+[ECO "B52"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky attack, Sokolsky variation"]
+[HashCode "b07ec7f6"]
+[Epoch "Rook"]
+[WhiteID "101397"]
+[BlackID "100242"]
+[WhiteCountry "ARG"]
+[BlackCountry "ARG"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Qxd7 5. c4 Nf6 6. Nc3 e6 7. O-O Be7 8.
+d4 cxd4 9. Nxd4 O-O 10. Be3 a6 11. Qe2 Nc6 12. Rfd1 Rfc8 13. Rac1 Qc7 14. f3
+Qa5 15. f4 Nxd4 16. Bxd4 Qh5 17. Qd3 Rc6 18. h3 Rac8 19. b3 b5 20. cxb5 axb5
+21. Ne2 Rxc1 22. Rxc1 Rxc1+ 23. Nxc1 Nxe4 24. Qxe4 Qd1+ 25. Kh2 Qxc1 26. a4
+bxa4 27. bxa4 Qc4 28. a5 h6 29. Qe3 Qa4 30. Qc3 d5 31. Bxg7 Qxf4+ 32. Kg1 Bb4
+33. Bxh6 Bxc3 34. Bxf4 Bxa5 35. Be5 Kh7 36. Kf1 Kg6 37. Ke2 Kf5 38. Bd6 Ke4 39.
+g4 Bd8 40. Bg3 d4 41. Be1 d3+ 42. Kd1 Kf3 0-1

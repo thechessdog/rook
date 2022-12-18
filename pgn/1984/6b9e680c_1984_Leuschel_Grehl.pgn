@@ -1,0 +1,18 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Leuschel"]
+[Black "Grehl"]
+[Result "0-1"]
+[ECO "A52"]
+[Opening "Budapest"]
+[Variation "Adler variation"]
+[HashCode "6b9e680c"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ng4 4. Nf3 Bc5 5. e3 Nc6 6. a3 Ngxe5 7. Nxe5
+Nxe5 8. Qd5 d6 9. b4 c6 10. Qe4 f5 11. Qc2 Bb6 12. Bd3 Qg5 13. O-O Qh5 14.
+h3 O-O 15. Nd2 f4 16. Ne4 Nf3+ 17. gxf3 Bxh3 18. Qe2 d5 19. exf4 dxe4 20.
+Bxe4 Rf6 21. Qd3 Rh6 0-1
+

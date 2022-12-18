@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Heiermann"]
+[Black "Jobin"]
+[Result "0-1"]
+[ECO "C40"]
+[Opening "Latvian"]
+[Variation "Polerio variation"]
+[HashCode "7c40e565"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 f5 3. Bc4 fxe4 4. Nxe5 d5 5. Qh5+ g6 6. Nxg6 hxg6 7. Qxg6+
+Kd7 8. Bxd5 Nf6 9. Nc3 Nxd5 10. Nxd5 Rh6 11. Qg3 Kc6 12. Nf4 Qf6 13. O-O
+Bf5 14. d4 Bd6 15. Qc3+ Kd7 16. h3 Qg7 17. Qb3 Nc6 18. d5 Nd4 19. Qxb7 Rg8
+20. g3 Bxf4 0-1
+

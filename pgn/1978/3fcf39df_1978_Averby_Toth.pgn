@@ -1,0 +1,18 @@
+[Event "corr EUR/K"]
+[Site "corr EUR/K"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Averby, Rune"]
+[Black "Toth, Bela"]
+[Result "0-1"]
+[ECO "B77"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, 9...Bd7"]
+[HashCode "3fcf39df"]
+[Epoch "Rook"]
+[BlackID "736112"]
+[BlackCountry "ITA"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8. Qd2
+Nc6 9. Bc4 Bd7 10. Bb3 Qa5 11. O-O-O Rfc8 12. f4 b5 13. Ndxb5 Be6 14. Na3 Rab8
+15. h3 Nb4 16. Kb1 Rxc3 17. Qxc3 Nxe4 18. Qe1 Bxb3 19. cxb3 Nc3+ 0-1

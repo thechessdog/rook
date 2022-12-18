@@ -1,0 +1,19 @@
+[Event "Michigan"]
+[Site "Michigan"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Patterson"]
+[Black "Barth, Jeremy"]
+[Result "1-0"]
+[ECO "D50"]
+[Opening "QGD"]
+[Variation "4.Bg5"]
+[HashCode "eace2e7a"]
+[Epoch "Rook"]
+[BlackID "2002060"]
+[BlackCountry "USA"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Bb4 5. Nf3 c6 6. e3 Nbd7 7. Bd3 h6 8. Bh4
+Qa5 9. Qc2 dxc4 10. Bxc4 Nb6 11. Bb3 Nfd5 12. Rc1 Nxc3 13. bxc3 Ba3 14. Rb1 Qh5
+15. Bg3 O-O 16. O-O Be7 17. Qd3 Bd7 18. Ne5 Bd8 19. e4 Qg5 20. f4 Qe7 21. f5
+exf5 22. Ng6 1-0

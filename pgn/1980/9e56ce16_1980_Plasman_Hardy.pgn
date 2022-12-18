@@ -1,0 +1,16 @@
+[Event "Brabant"]
+[Site "Brabant"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Plasman"]
+[Black "Hardy"]
+[Result "0-1"]
+[ECO "B10"]
+[Opening "Caro-Kann"]
+[Variation "anti-anti-Caro-Kann defence"]
+[HashCode "9e56ce16"]
+[Epoch "Rook"]
+
+1. c4 c6 2. e4 d5 3. cxd5 cxd5 4. exd5 Nf6 5. Bb5+ Bd7 6. Bc4 Qc7 7. Qb3 b5
+0-1
+

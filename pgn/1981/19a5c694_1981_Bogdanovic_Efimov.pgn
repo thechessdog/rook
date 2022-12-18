@@ -1,0 +1,23 @@
+[Event "Anapa"]
+[Site "Anapa"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Bogdanovic, Rajko"]
+[Black "Efimov, Igor"]
+[Result "0-1"]
+[ECO "E46"]
+[Opening "Nimzo-Indian"]
+[Variation "Reshevsky variation"]
+[HashCode "19a5c694"]
+[Epoch "Rook"]
+[WhiteID "14400316"]
+[WhiteCountry "BIH"]
+[BlackID "806404"]
+[BlackCountry "MNC"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Ne2 d5 6. a3 Be7 7. cxd5 exd5 8. Ng3
+c5 9. dxc5 Bxc5 10. Be2 Nc6 11. b4 Be7 12. O-O Be6 13. Bb2 d4 14. Nce4 Nxe4 15.
+Nxe4 Bd5 16. Qd3 f5 17. Ng3 f4 18. exf4 Rxf4 19. Nh5 Rh4 20. f4 Bf7 21. Ng3 Bd6
+22. b5 Na5 23. Qxd4 Qf8 24. Ne4 Bc7 25. Nf6+ Kh8 26. Nd7 Qg8 27. Qc5 Rc8 28.
+Qg5 Bd8 29. Qxh4 Bxh4 30. g3 Bd8 31. Nf6 Qf8 32. Ng4 Kg8 33. Nh6+ gxh6 34. Bf3
+Nb3 35. Rad1 Nd2 0-1

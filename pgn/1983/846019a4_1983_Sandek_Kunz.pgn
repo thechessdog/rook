@@ -1,0 +1,17 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Sandek, H."]
+[Black "Kunz, A."]
+[Result "0-1"]
+[ECO "D11"]
+[Opening "QGD Slav"]
+[Variation "3.Nf3"]
+[HashCode "846019a4"]
+[Epoch "Rook"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Bg4 4. Ne5 Bf5 5. e3 Nd7 6. Qb3 Nxe5 7. dxe5 Qc7
+8. f4 dxc4 9. Bxc4 e6 10. Nc3 a6 11. a4 Bc5 12. Bd2 Rd8 13. Be2 Ne7 14. Rd1
+O-O 15. O-O Rxd2 16. Nb5 axb5 17. Rxd2 bxa4 18. Qc3 Qb6 0-1
+

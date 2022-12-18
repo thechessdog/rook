@@ -1,0 +1,22 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Sommer"]
+[Black "Schmidt, Wlodzimierz"]
+[Result "0-1"]
+[ECO "B07"]
+[Opening "Pirc"]
+[Variation "Byrne variation"]
+[HashCode "52790c1f"]
+[Epoch "Rook"]
+[BlackID "1100041"]
+[BlackCountry "POL"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Bg5 Bg7 5. Qe2 c6 6. f4 h6 7. Bh4 Nh5 8. Qd2
+Nxf4 9. Qxf4 g5 10. Qf2 gxh4 11. O-O-O b5 12. Nf3 Qa5 13. Nd2 Qb6 14. Nf3 a5
+15. Qxh4 h5 16. Kb1 Bg4 17. e5 dxe5 18. d5 Na6 19. d6 Bf6 20. Qg3 Nc5 21. a3 e4
+22. h3 exf3 23. hxg4 b4 24. Nb5 cxb5 25. Qxf3 Rb8 26. Qf5 Nd7 27. g5 e6 28. Re1
+Be7 29. Rxe6 fxe6 30. Qg6+ Kd8 31. dxe7+ Kc7 32. Be2 e5 33. Qf7 Rhe8 34. axb4
+Qd6 35. bxa5 Rxe7 36. Qxh5 Qd2 37. Rd1 Qxa5 38. Bf3 Rb6 39. g6 Ra6 40. c3 Qa1+
+41. Kc2 Qa4+ 42. Kb1 Qa1+ 43. Kc2 Qa4+ 44. Kb1 Qf4 45. Rd5 Nf6 0-1

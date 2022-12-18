@@ -1,0 +1,21 @@
+[Event "Pristina"]
+[Site "Pristina"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Vih"]
+[Black "Ilic, Zoran"]
+[Result "0-1"]
+[ECO "A64"]
+[Opening "Benoni"]
+[Variation "fianchetto, 11...Re8"]
+[HashCode "e39bc2b7"]
+[Epoch "Rook"]
+[BlackID "15001350"]
+[BlackCountry "MKD"]
+
+1. d4 Nf6 2. c4 g6 3. g3 c5 4. d5 Bg7 5. Bg2 O-O 6. Nc3 e6 7. Nf3 exd5 8. cxd5
+d6 9. O-O a6 10. a4 Nbd7 11. Nd2 Re8 12. h3 Rb8 13. Nc4 Ne5 14. Na3 Nh5 15. e4
+f5 16. exf5 Bxf5 17. g4 Bxg4 18. hxg4 Qh4 19. gxh5 Rf8 20. h6 Bh8 21. Nc4 Ng4
+22. Qxg4 Qxg4 23. Nxd6 Be5 24. Nde4 Rbe8 25. Bd2 b5 26. axb5 axb5 27. Nxb5 Qh4
+28. Ng3 Qc4 29. Na3 Qg4 30. Rae1 Bxg3 31. fxg3 Qd4+ 32. Be3 Rxf1+ 33. Kxf1 Rxe3
+34. Rxe3 Qxe3 0-1

@@ -1,0 +1,26 @@
+[Event "corr ch-SWE"]
+[Site "corr ch-SWE"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Wikstrom, Bertil"]
+[Black "Gil, Antonio"]
+[Result "1-0"]
+[ECO "E59"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line"]
+[HashCode "c6b12145"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Nf3 O-O 6. Bd3 d5 7. O-O Nc6 8.
+a3 Bxc3 9. bxc3 dxc4 10. Bxc4 Qc7 11. Ba2 e5 12. h3 e4 13. Nh2 Bf5 14. Ng4
+Nxg4 15. hxg4 Bg6 16. Qe2 Rfd8 17. Rd1 Ne7 18. Bd2 Rac8 19. Be1 c4 20. Rdb1
+Rd5 21. Rb4 b5 22. f3 f5 23. f4 fxg4 24. Qxg4 Bf5 25. Qe2 Qd7 26. a4 a6 27.
+axb5 axb5 28. Qb2 Bg6 29. Bb1 Qf5 30. Qa3 Rd7 31. Qb2 Rd5 32. Qa3 Rd7 33.
+Rb2 Rb7 34. Rba2 Nd5 35. Qc1 h6 36. Ra8 Rxa8 37. Rxa8+ Kh7 38. Bc2 Nc7 39.
+Ra5 Qe6 40. Qb1 h5 41. Kf2 Bf5 42. Ke2 Qg6 43. Kf1 Qe6 44. Qb2 Nd5 45. Bd2
+Nc7 46. Qa3 Qg6 47. Qe7 Qe6 48. Qf8 Kg6 49. Bd1 Bg4 50. Bxg4 hxg4 51. Kf2
+Nd5 52. Qc5 Qd7 53. Bc1 Kh7 54. Kg3 Rb8 55. Bd2 Rb6 56. Ra8 Kg6 57. Kf2 Kh7
+58. Qc8 Qxc8 59. Rxc8 Kg6 60. Rc5 Nf6 61. Ke2 Kf7 62. Re5 Rb8 63. Be1 Rb7
+64. Kd1 Rb8 65. Rc5 Rb7 66. Rg5 Rb8 67. Re5 Rb7 68. f5 Rb6 69. Kc1 Rb7 70.
+Kb2 g3 71. Bxg3 b4 72. Bf4 1-0
+

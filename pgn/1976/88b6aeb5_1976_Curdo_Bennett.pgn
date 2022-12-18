@@ -1,0 +1,18 @@
+[Event "Massachusetts"]
+[Site "Massachusetts"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Curdo, John"]
+[Black "Bennett, A."]
+[Result "1-0"]
+[ECO "C49"]
+[Opening "Four knights"]
+[Variation "symmetrical variation"]
+[HashCode "88b6aeb5"]
+[Epoch "Rook"]
+[WhiteID "2001705"]
+[WhiteCountry "USA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Bb5 Bb4 5. O-O O-O 6. d3 d6 7. Bg5 Bd7 8. Nd5
+Bc5 9. Nh4 Nb8 10. Qf3 Bxb5 11. Nxf6+ Qxf6 12. Bxf6 gxf6 13. b4 Bd4 14. Nf5 Kh8
+15. Nxd4 exd4 16. Qxf6+ Kg8 17. Qg5+ 1-0

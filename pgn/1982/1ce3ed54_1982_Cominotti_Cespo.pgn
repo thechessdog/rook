@@ -1,0 +1,17 @@
+[Event "corr Italy"]
+[Site "corr Italy"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Cominotti"]
+[Black "Cespo"]
+[Result "0-1"]
+[ECO "C69"]
+[Opening "Ruy Lopez"]
+[Variation "exchange variation, 5.O-O"]
+[HashCode "1ce3ed54"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O Bg4 6. d3 Bd6 7. Nbd2 Qf6
+8. Re1 Ne7 9. h3 Bh5 10. g4 Bg6 11. Nb3 h5 12. Bg5 Qe6 13. Nh4 hxg4 14.
+hxg4 f6 15. Nf5 Bxf5 16. gxf5 Nxf5 17. exf5 Qxf5 18. Bd2 Qh3 0-1
+

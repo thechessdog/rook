@@ -1,0 +1,17 @@
+[Event "corr BdF"]
+[Site "corr BdF"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Bolle"]
+[Black "Stortelder"]
+[Result "0-1"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, 6.Bd3"]
+[HashCode "0556a285"]
+[Epoch "Rook"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 O-O 6. Bd3 Nc6 7. O-O Bg4 8.
+e5 dxe5 9. dxe5 Nd5 10. h3 Nxc3 11. bxc3 Bxf3 12. Rxf3 f6 13. exf6 Rxf6 14.
+Qe2 Nd4 0-1
+

@@ -1,0 +1,20 @@
+[Event "corr NBC"]
+[Site "corr NBC"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Toneman"]
+[Black "Kloppenburg"]
+[Result "1-0"]
+[ECO "C77"]
+[Opening "Ruy Lopez"]
+[Variation "Wormald (Alapin) attack"]
+[HashCode "f0e936ed"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. Qe2 b5 6. Bb3 Bc5 7. a4 Rb8 8.
+axb5 axb5 9. d3 O-O 10. Be3 Qe7 11. c3 b4 12. Nbd2 bxc3 13. bxc3 Ba3 14.
+Rb1 Ba6 15. O-O Na5 16. Bg5 Qd6 17. Ne1 h6 18. Bxf6 Qxf6 19. f4 Nxb3 20.
+Nxb3 exf4 21. e5 Qe6 22. Nd4 Bc5 23. Rxb8 Bxd4+ 24. cxd4 Rxb8 25. Rxf4 Rb1
+26. Kf2 Qb3 27. Kg3 Bc4 28. Qe4 Bd5 29. Qe3 Qc3 30. Rf1 Qc6 31. Rf4 Rb2 32.
+Nf3 Qg6+ 33. Rg4 Rxg2+ 1-0
+

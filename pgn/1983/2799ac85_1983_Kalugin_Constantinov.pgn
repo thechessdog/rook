@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Kalugin"]
+[Black "Constantinov"]
+[Result "1-0"]
+[ECO "E56"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line with 7...Nc6"]
+[HashCode "2799ac85"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 c5 7. O-O Nc6 8.
+a3 dxc4 9. Bxc4 Ba5 10. Bd3 cxd4 11. exd4 Bb6 12. Be3 Qd6 13. Qe2 Nd5 14.
+Bxh7+ Kxh7 15. Ng5+ Kg6 16. Nge4 Qc7 17. Qg4+ Kh7 18. Ng5+ Kg8 19. Qh4 Nf6
+20. Rad1 Re8 21. d5 exd5 22. Nxd5 Nxd5 23. Qh7+ Kf8 24. Qh8+ Ke7 25. Qxg7
+Be6 26. Nxe6 Kxe6 27. Bf4 Bxf2+ 28. Rxf2 Qb6 29. Qg4+ 1-0
+

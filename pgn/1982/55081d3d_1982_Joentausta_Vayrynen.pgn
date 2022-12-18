@@ -1,0 +1,19 @@
+[Event "corr Heilimo mem"]
+[Site "corr Heilimo mem"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Joentausta"]
+[Black "Vayrynen"]
+[Result "0-1"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Lipnitzky attack"]
+[HashCode "55081d3d"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Qe2 Be7 8.
+Be3 O-O 9. O-O-O b5 10. Bd3 b4 11. Nb1 Bb7 12. Nd2 Nbd7 13. g4 Nc5 14. g5
+Nfxe4 15. Nxe4 Nxe4 16. Rhg1 g6 17. h4 e5 18. Nb3 a5 19. Nd2 Nc3 20. bxc3
+bxc3 21. Ne4 Rc8 22. h5 d5 23. Nf6+ Kg7 24. hxg6 Ba3+ 25. Kb1 Qe7 26. Nh5+
+Kg8 27. Nf6+ Kh8 28. Bc5 0-1
+

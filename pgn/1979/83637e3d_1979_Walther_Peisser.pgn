@@ -1,0 +1,16 @@
+[Event "corr WT/M"]
+[Site "corr WT/M"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Walther, Edgar"]
+[Black "Peisser"]
+[Result "0-1"]
+[ECO "B40"]
+[Opening "Sicilian"]
+[Variation "Anderssen variation"]
+[HashCode "83637e3d"]
+[Epoch "Rook"]
+[WhiteCountry "CHE"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Ncb5 d6 7. Bf4 e5 8.
+Bg5 exd4 0-1

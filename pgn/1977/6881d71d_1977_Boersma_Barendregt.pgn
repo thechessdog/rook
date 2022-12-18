@@ -1,0 +1,19 @@
+[Event "Nederland tt"]
+[Site "Nederland tt"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Boersma, Paul"]
+[Black "Barendregt, Johan Teunis"]
+[Result "0-1"]
+[ECO "C41"]
+[Opening "Philidor"]
+[Variation "Improved Hanham variation"]
+[HashCode "6881d71d"]
+[Epoch "Rook"]
+[WhiteID "1000411"]
+[WhiteCountry "NED"]
+[BlackCountry "NLD"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 e5 4. Nf3 Nbd7 5. Bc4 Be7 6. O-O c6 7. a4 Qc7 8. Re1
+Nb6 9. Ba2 Bg4 10. Be3 Bh5 11. h3 Nbd7 12. g4 Bg6 13. Nd2 h5 14. f4 hxg4 15.
+hxg4 Rh4 16. Nf3 Rxg4+ 17. Kf1 Bh5 0-1

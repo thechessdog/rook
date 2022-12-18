@@ -1,0 +1,20 @@
+[Event "corr Wcup3"]
+[Site "corr Wcup3"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Matikka"]
+[Black "Kristoffel"]
+[Result "0-1"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack"]
+[HashCode "f92ffe7d"]
+[Epoch "Rook"]
+
+1. d4 d5 2. Nc3 Nf6 3. Bg5 c6 4. Nf3 Nbd7 5. e3 g6 6. Bd3 Bg7 7. h4 h5 8.
+Qe2 O-O 9. O-O Re8 10. Rad1 Qb6 11. b3 e5 12. dxe5 Nxe5 13. Nxe5 Rxe5 14.
+Qd2 Re8 15. f3 Be6 16. Na4 Qc7 17. Nc5 Bc8 18. Qf2 Nd7 19. Nxd7 Bxd7 20. c4
+Qb6 21. Bb1 Be6 22. cxd5 cxd5 23. g4 hxg4 24. fxg4 Qb4 25. Rd4 Bxd4 26.
+exd4 Rac8 27. h5 Qc3 28. Kg2 Rf8 29. Bf6 Bxg4 30. Rh1 Rc6 31. Be5 f6 32.
+Bg3 Re8 33. Qf4 Re2+ 34. Bf2 Rce6 35. Rc1 Qh3+ 36. Kg1 Bf3 37. Rc8+ Re8 38.
+Rxe8+ Rxe8 39. Qh2 Qxh2+ 40. Kxh2 Bxh5 0-1
+

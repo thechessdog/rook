@@ -1,0 +1,18 @@
+[Event "corr CCCA"]
+[Site "corr CCCA"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Sarosy, Zoltan"]
+[Black "Marcoux, Bernard"]
+[Result "1-0"]
+[ECO "A42"]
+[Opening "Modern defence"]
+[Variation "Averbakh system, Kotov variation"]
+[HashCode "0c421d79"]
+[Epoch "Rook"]
+[WhiteCountry "CAN"]
+
+1. c4 g6 2. d4 Bg7 3. Nc3 d6 4. e4 Nc6 5. d5 Nd4 6. Be3 c5 7. Nge2 Qb6 8. Na4
+Qa5+ 9. Bd2 Qd8 10. Bc3 e5 11. dxe6 Nxe6 12. Bxg7 Nxg7 13. Qd2 Nf6 14. Nac3 Qe7
+15. f3 O-O 16. O-O-O Rd8 17. Nf4 Be6 18. g4 g5 19. Ng2 Nfe8 20. h4 h5 21. hxg5
+hxg4 22. f4 1-0

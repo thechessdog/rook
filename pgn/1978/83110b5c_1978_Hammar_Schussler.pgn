@@ -1,0 +1,21 @@
+[Event "Sweden"]
+[Site "Sweden"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Hammar, Bengt"]
+[Black "Schussler, Harry"]
+[Result "1/2-1/2"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, 6.Bd3"]
+[HashCode "83110b5c"]
+[Epoch "Rook"]
+[BlackID "1700081"]
+[BlackCountry "SWE"]
+[WhiteID "1700391"]
+[WhiteCountry "SWE"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 O-O 6. Bd3 Na6 7. e5 Nd7 8. Ne4
+c5 9. c3 cxd4 10. cxd4 dxe5 11. fxe5 Nb4 12. Bc4 Nb6 13. Bb3 Bg4 14. O-O Nc6
+15. Be3 Na5 16. Bc2 Nbc4 17. Qe2 Qb6 18. Bf2 Qxb2 19. Rfb1 Qa3 20. Bd3 Nb6 21.
+Nc5 Nd5 22. Qe4 Be6 23. Be1 b6 24. Nxe6 fxe6 25. Bd2 Nc3 1/2-1/2

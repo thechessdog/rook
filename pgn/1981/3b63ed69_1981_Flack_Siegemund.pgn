@@ -1,0 +1,22 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Flack, R."]
+[Black "Siegemund, J."]
+[Result "0-1"]
+[ECO "C41"]
+[Opening "Philidor"]
+[Variation "Improved Hanham variation"]
+[HashCode "3b63ed69"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 d6 3. d4 Nf6 4. Nc3 Nbd7 5. Bc4 Be7 6. O-O O-O 7. Qe2 c6 8.
+a4 h6 9. h3 Qc7 10. Bb3 exd4 11. Nxd4 Re8 12. f4 Bf8 13. Qf3 Nc5 14. Re1
+Nxb3 15. Nxb3 d5 16. e5 Bf5 17. Nd4 Bc5 18. Be3 Bxd4 19. Bxd4 Ne4 20. Nxe4
+Bxe4 21. Qf2 b6 22. b4 Rac8 23. c4 c5 24. bxc5 bxc5 25. cxd5 Bxd5 26. Rec1
+c4 27. Bxa7 Re6 28. a5 c3 29. Bd4 c2 30. Ra3 Qb7 31. f5 Rec6 32. Rg3 Kh7
+33. f6 g6 34. Rg4 Be6 35. Rh4 g5 36. Rh5 Qd7 37. Kh2 Qd5 38. Qe3 Rg8 39. g4
+Rc4 40. Bc3 Qd1 41. Bd2 Bd5 42. Qf2 Rg6 43. a6 Re4 44. Be3 Rxe5 45. a7 Rxe3
+46. Qxe3 Rxf6 0-1
+

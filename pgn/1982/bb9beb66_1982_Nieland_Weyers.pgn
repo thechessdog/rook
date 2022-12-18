@@ -1,0 +1,18 @@
+[Event "corr NLD/H"]
+[Site "corr NLD/H"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Nieland"]
+[Black "Weyers"]
+[Result "1-0"]
+[ECO "E83"]
+[Opening "King's Indian"]
+[Variation "Saemisch, 6...Nc6"]
+[HashCode "bb9beb66"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 Nc6 7. Qd2 e5 8. d5
+Nd4 9. Nge2 Nd7 10. Nxd4 exd4 11. Bxd4 Bxd4 12. Qxd4 f5 13. O-O-O f4 14.
+Na4 b6 15. b3 Qe7 16. Be2 Nc5 17. Nxc5 bxc5 18. Qc3 a5 19. Kc2 Bd7 20. g3
+fxg3 21. hxg3 Rfb8 22. Rh6 a4 23. Rdh1 axb3+ 24. axb3 Ra3 25. Rxg6+ 1-0
+

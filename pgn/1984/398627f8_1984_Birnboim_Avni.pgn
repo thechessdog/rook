@@ -1,0 +1,20 @@
+[Event "Israel"]
+[Site "Israel"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Birnboim, Nathan"]
+[Black "Avni, Amatzia"]
+[Result "1-0"]
+[ECO "D74"]
+[Opening "Neo-Gruenfeld, 6.cd Nxd5, 7.O-O"]
+[HashCode "398627f8"]
+[Epoch "Rook"]
+[BlackID "2800322"]
+[BlackCountry "ISR"]
+[WhiteID "2800209"]
+[WhiteCountry "ISR"]
+
+1. d4 Nf6 2. c4 g6 3. Nf3 Bg7 4. g3 O-O 5. Bg2 d5 6. cxd5 Nxd5 7. O-O Nc6 8. e4
+Nb6 9. d5 Nb8 10. Nc3 c6 11. Re1 Re8 12. Bg5 h6 13. Bf4 cxd5 14. exd5 Na6 15.
+Ne5 Bf5 16. Qf3 h5 17. h3 Qc8 18. Rac1 Bxh3 19. Nb5 Bxg2 20. Kxg2 Qf5 21. d6 f6
+22. Nd4 1-0

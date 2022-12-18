@@ -1,0 +1,18 @@
+[Event "Tirnavia-B"]
+[Site "Trnava"]
+[Date "1984.??.??"]
+[Round "13"]
+[White "Mechkarov, Ventzeslav"]
+[Black "Bielczyk, Jacek"]
+[Result "1/2-1/2"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "f8963420"]
+[Epoch "Rook"]
+[BlackID "1100530"]
+[BlackCountry "POL"]
+
+1. e4 c5 2. c3 e6 3. Nf3 d5 4. exd5 exd5 5. Bb5+ Bd7 6. Bxd7+ Nxd7 7. O-O Bd6
+8. d4 Ne7 9. Bg5 f6 10. Bh4 O-O 11. Bg3 Bxg3 12. hxg3 c4 13. Qc2 Ng6 14. Qf5
+Nb6 15. Re1 Qd7 16. Qxd7 Nxd7 17. Nbd2 1/2-1/2

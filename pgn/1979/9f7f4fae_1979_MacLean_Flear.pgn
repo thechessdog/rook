@@ -1,0 +1,17 @@
+[Event "Oxford"]
+[Site "Oxford"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "MacLean, D."]
+[Black "Flear, Glenn C"]
+[Result "0-1"]
+[ECO "C78"]
+[Opening "Ruy Lopez"]
+[Variation "Archangelsk (counterthrust) variation"]
+[HashCode "9f7f4fae"]
+[Epoch "Rook"]
+[BlackID "400165"]
+[BlackCountry "ENG"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Bb7 7. d4 Nxd4 8.
+Nxe5 Nxb3 9. axb3 Nxe4 10. Re1 Bd6 11. Qd4 O-O 12. Nc3 Bc5 0-1

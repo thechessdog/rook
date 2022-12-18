@@ -1,0 +1,18 @@
+[Event "Ann Arbor ch-MI op"]
+[Site "Ann Arbor ch-MI op"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Kraft, C."]
+[Black "Postma, D."]
+[Result "1/2-1/2"]
+[ECO "C41"]
+[Opening "Philidor"]
+[Variation "exchange variation"]
+[HashCode "f3a8e9d3"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 d6 3. d4 exd4 4. Nxd4 Nf6 5. Nc3 Be7 6. Bc4 O-O 7. Bb3 c6
+8. O-O Nbd7 9. h3 a5 10. Re1 Nc5 11. a4 Nxb3 12. Nxb3 Be6 13. Nd4 Qd7 14.
+f4 Bc4 15. b3 Ba6 16. Qf3 Rac8 17. Bb2 g6 18. Rad1 Nh5 19. g4 Ng7 20. f5
+Bf6 21. Ba1 Bh4 22. Re3 Bg5 1/2-1/2
+

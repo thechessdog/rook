@@ -1,0 +1,24 @@
+[Event "corr DFSM"]
+[Site "corr DFSM"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Grzeskowiak"]
+[Black "Keller, Dieter"]
+[Result "0-1"]
+[ECO "E49"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Botvinnik system"]
+[HashCode "92492204"]
+[Epoch "Rook"]
+[BlackID "1300156"]
+[BlackCountry "SUI"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. a3 Bxc3+ 7. bxc3 dxc4 8.
+Bxc4 c5 9. Nf3 Qc7 10. Qd3 Nc6 11. e4 cxd4 12. cxd4 Na5 13. Ba2 Nxe4 14. O-O
+Nf6 15. Bg5 Nd5 16. Rac1 Nc6 17. Bb1 f5 18. Rfe1 Bd7 19. Ba2 Rae8 20. Ne5 Nxe5
+21. dxe5 Bc6 22. Bxd5 exd5 23. Qxd5+ Bxd5 24. Rxc7 Rf7 25. Rc5 Rd7 26. h4 Kf7
+27. f3 h6 28. Bf4 Ke6 29. Kf2 Red8 30. Ra5 b6 31. Rb5 Rc8 32. Rb2 Rc3 33. Re3
+Rdc7 34. Rd2 R3c4 35. g3 Rc3 36. Red3 R7c5 37. Ke3 b5 38. h5 a5 39. Rxc3 Rxc3+
+40. Kd4 Rxa3 41. Kc5 Rb3 42. Rd4 a4 43. Bd2 Bc4 44. Rd6+ Ke7 45. Rg6 a3 46. Ra6
+Rxf3 47. Bf4 a2 48. Ra7+ Ke6 49. Ra6+ Kf7 50. Ra7+ Kg8 51. Ra8+ Kh7 52. e6 Bxe6
+53. Ra7 Rd3 54. Kb4 Rd4+ 0-1

@@ -1,0 +1,17 @@
+[Event "Seattle"]
+[Site "Seattle"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Erickson"]
+[Black "Chun"]
+[Result "0-1"]
+[ECO "A02"]
+[Opening "Bird's opening"]
+[HashCode "1e7f961d"]
+[Epoch "Rook"]
+
+1. f4 g6 2. Nf3 Bg7 3. c4 c5 4. e4 Nc6 5. Nc3 d6 6. g3 e6 7. Bg2 Nge7 8. d3
+a6 9. Qc2 O-O 10. O-O Rb8 11. Rb1 b5 12. cxb5 axb5 13. a3 b4 14. axb4 Nxb4
+15. Qd2 Ba6 16. Ne1 Qa5 17. Rf3 Nec6 18. Bf1 d5 19. e5 d4 20. b3 dxc3 21.
+Qxc3 Rfd8 22. Ra1 Qb6 23. Be3 Nd4 24. Rf2 Nd5 25. Rxa6 Qxa6 0-1
+

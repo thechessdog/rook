@@ -1,0 +1,20 @@
+[Event "Esbjerg"]
+[Site "Esbjerg"]
+[Date "1977.??.??"]
+[Round "6"]
+[White "Westerinen, Heikki M.J."]
+[Black "Hartston, William R"]
+[Result "1/2-1/2"]
+[ECO "B81"]
+[Opening "Sicilian"]
+[Variation "Scheveningen, Keres attack"]
+[HashCode "dc7e0ec0"]
+[Epoch "Rook"]
+[BlackID "400262"]
+[WhiteID "500020"]
+[WhiteCountry "FIN"]
+[BlackCountry "ENG"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. g4 h6 7. Be3 Nc6 8. Rg1
+g5 9. Bb5 Bd7 10. Qe2 Ne5 11. O-O-O a6 12. Bxd7+ Nfxd7 13. h4 Rg8 14. hxg5 hxg5
+15. Nf3 1/2-1/2

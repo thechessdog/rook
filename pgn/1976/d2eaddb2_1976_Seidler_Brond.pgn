@@ -1,0 +1,23 @@
+[Event "Mar del Plata"]
+[Site "Mar del Plata"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Seidler, A."]
+[Black "Brond, Victor"]
+[Result "0-1"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...g6"]
+[HashCode "d2eaddb2"]
+[Epoch "Rook"]
+[BlackID "100331"]
+[BlackCountry "ARG"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 g6 6. cxd5 Bg7 7. Nf3 O-O 8.
+Be2 Nxd5 9. O-O Nc6 10. Bg5 Be6 11. Qd2 Qa5 12. Rfe1 Rfd8 13. Rad1 Nxd4 14.
+Nxd4 Bxd4 15. Ne4 Qxd2 16. Rxd2 Bb6 17. Red1 f6 18. Bc4 Nf4 19. Rxd8+ Rxd8 20.
+Rxd8+ Bxd8 21. Bxe6+ Nxe6 22. Be3 a6 23. Kf1 Bc7 24. g3 f5 25. Nc5 Nxc5 26.
+Bxc5 e5 27. Ke2 Kf7 28. Kd3 Ke6 29. f3 Kd5 30. Be3 b5 31. b3 Bd6 32. Bd2 h5 33.
+Bg5 e4+ 34. fxe4+ fxe4+ 35. Ke3 Bc5+ 36. Ke2 Ke5 37. h3 Kf5 38. Bf4 Bd4 39. Bd2
+g5 40. Be1 g4 41. h4 Ke6 42. Kd2 Kd5 43. Ke2 Bb6 44. a4 Bc5 45. a5 b4 46. Bd2
+Bd6 47. Be1 Kd4 48. Bd2 Bxg3 49. Bxb4 Bxh4 50. Bd6 Bg5 51. b4 Kc4 0-1

@@ -1,0 +1,18 @@
+[Event "corr Wcup3"]
+[Site "corr Wcup3"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Lodziewski"]
+[Black "Harding"]
+[Result "1-0"]
+[ECO "C41"]
+[Opening "Philidor"]
+[Variation "exchange variation"]
+[HashCode "ba9cdfbd"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 d6 3. d4 exd4 4. Qxd4 Nf6 5. Bg5 Be7 6. Nc3 O-O 7. O-O-O
+Nc6 8. Qd2 h6 9. Bf4 Re8 10. h3 Bf8 11. Bd3 Ne5 12. Nxe5 dxe5 13. Be3 c6
+14. g4 Qa5 15. g5 hxg5 16. Bxg5 Nh7 17. Bc4 Be6 18. Bxe6 Rxe6 19. h4 b5 20.
+Kb1 1-0
+

@@ -1,0 +1,17 @@
+[Event "Mexico Wch jr"]
+[Site "Mexico Wch jr"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Castaneda"]
+[Black "Tavares"]
+[Result "1-0"]
+[ECO "C41"]
+[Opening "Philidor"]
+[Variation "Hanham variation"]
+[HashCode "10cda3d3"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 d6 3. d4 Nd7 4. Bc4 Be7 5. dxe5 dxe5 6. Qd5 Bb4+ 7. c3 Qe7
+8. cxb4 Nb6 9. Qxe5 Qxe5 10. Nxe5 f6 11. Bxg8 fxe5 12. Bb3 Bd7 13. Nc3 a5
+14. bxa5 Rxa5 15. Be3 Nc8 16. O-O Nd6 17. Rfd1 Rf8 18. Nd5 1-0
+

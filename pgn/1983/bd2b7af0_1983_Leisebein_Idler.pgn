@@ -1,0 +1,17 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Leisebein, Peter"]
+[Black "Idler, F."]
+[Result "1-0"]
+[ECO "C34"]
+[Opening "KGA"]
+[Variation "Schallop defence"]
+[HashCode "bd2b7af0"]
+[Epoch "Rook"]
+[WhiteCountry "DEU"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 Nf6 4. e5 Nh5 5. d4 d6 6. Qe2 d5 7. c4 Be6 8. cxd5
+Bxd5 9. Nc3 Nc6 10. Bd2 Bxf3 11. Qxf3 Qh4+ 12. g3 fxg3 13. O-O-O O-O-O 14. hxg3
+Qxg3 15. Qxh5 Nxd4 16. Bg5 f6 17. Qh3+ 1-0

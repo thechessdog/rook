@@ -1,0 +1,20 @@
+[Event "Montreal zt"]
+[Site "Montreal zt"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Baragar, Fletcher"]
+[Black "Barbeau, Sylvain"]
+[Result "1-0"]
+[ECO "D97"]
+[Opening "Gruenfeld"]
+[Variation "Russian, Alekhine (Hungarian) variation"]
+[HashCode "2c43e976"]
+[Epoch "Rook"]
+[WhiteID "2600447"]
+[WhiteCountry "CAN"]
+[BlackID "2600099"]
+[BlackCountry "CAN"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Qb3 dxc4 6. Qxc4 O-O 7. e4 a6 8. Qb3
+b5 9. e5 Ng4 10. h3 Nh6 11. Bg5 Bb7 12. Be2 c5 13. dxc5 Nd7 14. Rd1 Qc7 15. Nd5
+Qa5+ 16. Bd2 Qd8 17. Bxh6 Bxd5 18. Qxd5 Bxh6 19. O-O 1-0

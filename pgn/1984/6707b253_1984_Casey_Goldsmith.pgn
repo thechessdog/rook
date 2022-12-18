@@ -1,0 +1,18 @@
+[Event "Sydney"]
+[Site "Sydney"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Casey, D."]
+[Black "Goldsmith, Alan D"]
+[Result "0-1"]
+[ECO "B00"]
+[Opening "King's pawn opening"]
+[HashCode "6707b253"]
+[Epoch "Rook"]
+[BlackID "3200647"]
+[BlackCountry "AUS"]
+
+1. e4 h5 2. d4 d5 3. exd5 c6 4. dxc6 e5 5. cxb7 Bxb7 6. dxe5 Qxd1+ 7. Kxd1 Nc6
+8. Nf3 O-O-O+ 9. Bd2 Nh6 10. Nc3 Ng4 11. Ke1 Nb4 12. Rc1 Bc5 13. Bb5 h4 14. h3
+Nxf2 15. Rf1 Rh5 16. Be2 Bxf3 17. Bxf3 Rxe5+ 18. Ne2 Rxd2 19. Kxd2 Be3+ 20. Kc3
+Nxa2+ 21. Kb3 Nxc1+ 22. Nxc1 f5 23. c3 Bg5 24. Nd3 0-1

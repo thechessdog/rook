@@ -1,0 +1,21 @@
+[Event "Novi Sad"]
+[Site "Novi Sad"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Bjelajac, Milan"]
+[Black "Sahovic, Dragutin"]
+[Result "0-1"]
+[ECO "B00"]
+[Opening "KP"]
+[Variation "Nimzovich defence"]
+[HashCode "b972641b"]
+[Epoch "Rook"]
+[WhiteID "901261"]
+[WhiteCountry "SRB"]
+[BlackCountry "SRB"]
+
+1. e4 Nc6 2. d4 d5 3. exd5 Qxd5 4. Nf3 Bg4 5. Be2 O-O-O 6. c4 Qh5 7. O-O Nf6 8.
+Be3 e5 9. h3 exd4 10. hxg4 Nxg4 11. Bg5 f6 12. Nh4 Nce5 13. Bf4 Qxh4 14. Bg3
+Qg5 15. Bxe5 Nxe5 16. f4 Qh4 17. fxe5 d3 18. Bg4+ Kb8 19. Bh3 fxe5 20. Nd2 Bc5+
+21. Kh1 e4 22. Nb3 Bd6 23. Qe1 Qg3 24. Qxg3 Bxg3 25. Nc5 e3 26. Bg4 e2 27. Rfb1
+Rd4 28. Nxd3 Rxg4 0-1

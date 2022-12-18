@@ -1,0 +1,19 @@
+[Event "Levico"]
+[Site "Levico"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Pederzoli"]
+[Black "Zanforlin"]
+[Result "1-0"]
+[ECO "B92"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Opovcensky variation"]
+[HashCode "bc8990c7"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nf3 Be7 8.
+O-O b5 9. a3 Bb7 10. Bd3 Qc7 11. h3 O-O 12. Be3 Nbd7 13. Bg5 d5 14. exd5 h6
+15. Bxf6 Nxf6 16. Qe2 Rfe8 17. Qxe5 Qxe5 18. Nxe5 Bxa3 19. bxa3 Rxe5 20.
+Rfe1 Rae8 21. Rxe5 Rxe5 22. d6 Re6 23. Rd1 Bc6 24. Bf5 Re8 25. d7 Rd8 26.
+Rd6 Bxd7 27. Nd5 1-0
+

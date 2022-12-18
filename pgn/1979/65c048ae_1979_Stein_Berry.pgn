@@ -1,0 +1,20 @@
+[Event "Chicago"]
+[Site "Chicago"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Stein, Bernd"]
+[Black "Berry, Jonathan"]
+[Result "1-0"]
+[ECO "B89"]
+[Opening "Sicilian"]
+[Variation "Velimirovic attack"]
+[HashCode "65c048ae"]
+[Epoch "Rook"]
+[WhiteID "4600711"]
+[WhiteCountry "GER"]
+[BlackID "2600463"]
+[BlackCountry "CAN"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bc4 e6 7. Be3 Be7 8.
+Qe2 a6 9. O-O-O Qc7 10. Bb3 b5 11. Nxc6 Qxc6 12. Bd4 O-O 13. Nd5 Nxd5 14. exd5
+Qd7 15. f4 exd5 16. Rd3 Bb7 17. Qh5 g6 18. f5 1-0

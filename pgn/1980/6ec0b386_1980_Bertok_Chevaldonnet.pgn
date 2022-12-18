@@ -1,0 +1,17 @@
+[Event "Reggio Emilia"]
+[Site "Reggio Emilia"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Bertok, Mario"]
+[Black "Chevaldonnet, Franc"]
+[Result "1/2-1/2"]
+[ECO "E78"]
+[Opening "King's Indian"]
+[Variation "Four pawns attack, with Be2 and Nf3"]
+[HashCode "6ec0b386"]
+[Epoch "Rook"]
+[WhiteCountry "HRV"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Be2 O-O 6. f4 c5 7. Nf3 e6 8. dxc5
+dxc5 9. e5 Qxd1+ 10. Bxd1 Ne8 11. Be3 b6 12. Bc2 Bb7 13. O-O f6 14. Ne4 Nc6
+1/2-1/2

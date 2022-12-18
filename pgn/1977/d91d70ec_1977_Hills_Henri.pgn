@@ -1,0 +1,17 @@
+[Event "corr CCLA"]
+[Site "corr CCLA"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Hills"]
+[Black "Henri, J."]
+[Result "1-0"]
+[ECO "B33"]
+[Opening "Sicilian"]
+[Variation "Pelikan (Lasker/Sveshnikov) variation"]
+[HashCode "d91d70ec"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6
+8. Bxf6 gxf6 9. Na3 f5 10. Qh5 b5 11. Naxb5 axb5 12. Bxb5 Bd7 13. Bc4 Qf6
+14. Nd5 Qg7 15. Nc7+ 1-0
+

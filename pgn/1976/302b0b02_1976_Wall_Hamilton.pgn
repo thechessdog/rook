@@ -1,0 +1,16 @@
+[Event "North Wilkesboro,NC"]
+[Site "North Wilkesboro,NC"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Wall, Bill"]
+[Black "Hamilton, Howard"]
+[Result "1-0"]
+[ECO "C41"]
+[Opening "Philidor"]
+[Variation "Nimzovich, Klein variation"]
+[HashCode "302b0b02"]
+[Epoch "Rook"]
+[WhiteCountry "USA"]
+
+1. e4 e5 2. Nf3 d6 3. d4 Nf6 4. Bc4 Bg4 5. Nc3 Nxe4 6. Nxe4 d5 7. dxe5 Bxf3 8.
+Qxf3 Nc6 9. Bxd5 Qxd5 10. Nf6+ 1-0

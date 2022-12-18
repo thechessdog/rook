@@ -1,0 +1,17 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Attig"]
+[Black "Muekke, JF."]
+[Result "0-1"]
+[ECO "C05"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation"]
+[HashCode "33d35b5e"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. f4 c5 6. c3 Nc6 7. Ndf3 cxd4 8.
+cxd4 Qb6 9. g3 Bb4+ 10. Kf2 g5 11. Ne2 g4 12. Nh4 f6 13. h3 fxe5 14. fxe5
+Ndxe5 15. Kg2 Rf8 16. Bf4 Nc4 17. hxg4 Rxf4 18. Qd3 Re4 19. Kh2 Nxd4 0-1
+

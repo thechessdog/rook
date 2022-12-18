@@ -1,0 +1,19 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Bucholski"]
+[Black "Wolf"]
+[Result "0-1"]
+[ECO "B16"]
+[Opening "Caro-Kann"]
+[Variation "Bronstein-Larsen variation"]
+[HashCode "03d0f14b"]
+[Epoch "Rook"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ gxf6 6. Be2 Bf5 7. Nf3
+Qc7 8. O-O Nd7 9. a4 O-O-O 10. b4 e5 11. Be3 e4 12. Nh4 Be6 13. b5 c5 14.
+d5 Ne5 15. c4 Ng6 16. g3 Nxh4 17. gxh4 Bd6 18. f4 Rhg8+ 19. Kh1 Bh3 20. Rf2
+Rg7 21. Bf1 Bxf1 22. Qxf1 Rdg8 23. Qh3+ Qd7 24. Qxd7+ Kxd7 25. f5 Be5 26.
+Rd1 Kd6 27. a5 Bd4 28. Bf4+ Ke7 29. Bg3 Rxg3 30. hxg3 Bxf2 0-1
+

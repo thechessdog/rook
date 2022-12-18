@@ -1,0 +1,19 @@
+[Event "corr Heilimo mem"]
+[Site "corr Heilimo mem"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Joentausta"]
+[Black "Palomaki"]
+[Result "1-0"]
+[ECO "B62"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Keres variation"]
+[HashCode "4fdc4997"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 e6 7. Qd3 a6 8.
+Rd1 Bd7 9. Be2 Be7 10. O-O O-O 11. Qg3 Qc7 12. Kh1 Rac8 13. f4 Kh8 14. Nxc6
+Bxc6 15. Bd3 b5 16. Qh4 Ng8 17. Nd5 exd5 18. exd5 f5 19. dxc6 Bd8 20. Rde1
+Qf7 21. Bxd8 Rfxd8 22. a4 bxa4 23. Bxa6 Rb8 24. Bb5 Nf6 25. Bxa4 Rxb2 26.
+Bb3 d5 27. Qf2 Qc7 28. Qd4 Rxb3 29. cxb3 Qxc6 30. Re5 1-0
+

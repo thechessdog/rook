@@ -1,0 +1,21 @@
+[Event "Rostov"]
+[Site "Rostov"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Zarubin, Y."]
+[Black "Semeniuk"]
+[Result "1-0"]
+[ECO "D90"]
+[Opening "Gruenfeld"]
+[Variation "Flohr variation"]
+[HashCode "714b3af2"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Qa4+ Bd7 6. Qb3 dxc4 7. Qxc4 O-O
+8. e4 Na6 9. e5 Ne8 10. Be2 c6 11. O-O Nec7 12. Be3 Be6 13. Qa4 Nd5 14.
+Bxa6 Nb6 15. Qa3 bxa6 16. b3 Nd5 17. Ne4 Bg4 18. Qxa6 Qb6 19. Qe2 f6 20.
+exf6 exf6 21. h3 Bc8 22. Nc5 f5 23. Qc4 f4 24. Bd2 a5 25. Rfe1 Qb5 26. Ne6
+Rf6 27. Nc5 h6 28. Ne5 Bf5 29. Rac1 Qxc4 30. bxc4 Nb4 31. Red1 Rd8 32. Nb7
+Rxd4 33. Nxa5 Nxa2 34. Ra1 Rfd6 35. Nb3 Bxe5 36. Nxd4 Rxd4 37. Rxa2 Rxc4
+38. Re1 Rc5 39. Ra7 Bd3 40. Bxf4 1-0
+

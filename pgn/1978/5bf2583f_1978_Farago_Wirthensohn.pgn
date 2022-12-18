@@ -1,0 +1,21 @@
+[Event "Dortmund"]
+[Site "Dortmund"]
+[Date "1978.01.01"]
+[Round "3"]
+[White "Farago, Ivan"]
+[Black "Wirthensohn, Heinz"]
+[Result "1/2-1/2"]
+[ECO "E40"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3"]
+[HashCode "5bf2583f"]
+[Epoch "Rook"]
+[WhiteID "700134"]
+[WhiteCountry "HUN"]
+[BlackID "1300059"]
+[BlackCountry "SUI"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 d5 5. Bd3 c5 6. Nf3 dxc4 7. Bxc4 a6 8. O-O
+b5 9. Bb3 O-O 10. a4 bxa4 11. Bxa4 cxd4 12. exd4 Bb7 13. Ne5 Nd5 14. Ne4 Nb6
+15. Nc5 Bxc5 16. dxc5 Nxa4 17. Rxa4 Qxd1 18. Rxd1 Bd5 19. Ra3 f6 20. Nd3 Nc6
+21. Nf4 Rfd8 22. Nxd5 1/2-1/2

@@ -1,0 +1,19 @@
+[Event "Alma Ata"]
+[Site "Alma Ata"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Vaisser, Anatoly"]
+[Black "Csechelan"]
+[Result "1-0"]
+[ECO "E45"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Bronstein (Byrne) variation"]
+[HashCode "0d75fc50"]
+[Epoch "Rook"]
+[WhiteCountry "FRA"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 b6 5. Ne2 Ba6 6. Ng3 O-O 7. e4 Ne8 8. Bd3
+Nc6 9. O-O e5 10. Nd5 Bd6 11. dxe5 Nxe5 12. b3 c6 13. Ne3 Nxd3 14. Qxd3 Be5 15.
+Rb1 d6 16. f4 Bf6 17. Nh5 b5 18. Nf5 bxc4 19. bxc4 Bc8 20. Nxf6+ Nxf6 21. Nxg7
+Kxg7 22. Qg3+ Kh8 23. Bb2 Re8 24. Qg5 Re6 25. Rf3 Re5 26. fxe5 Qb6+ 27. Kh1
+Nxe4 28. e6+ 1-0

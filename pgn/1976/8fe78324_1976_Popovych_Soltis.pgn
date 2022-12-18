@@ -1,0 +1,22 @@
+[Event "New York ch-Marshall"]
+[Site "New York ch-Marshall"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Popovych, Orest"]
+[Black "Soltis, Andrew"]
+[Result "0-1"]
+[ECO "B77"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, 9...Bd7"]
+[HashCode "8fe78324"]
+[Epoch "Rook"]
+[BlackID "2000741"]
+[BlackCountry "USA"]
+[WhiteID "2002558"]
+[WhiteCountry "USA"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 Nc6 8. Qd2
+O-O 9. Bc4 Bd7 10. Bb3 Rc8 11. h4 h5 12. O-O-O Ne5 13. Kb1 Nc4 14. Bxc4 Rxc4
+15. Nb3 Qc7 16. Bd4 Bc6 17. g4 e5 18. Be3 hxg4 19. h5 gxf3 20. h6 Nxe4 21. hxg7
+Nxd2+ 22. Nxd2 Rg4 23. gxf8=Q+ Kxf8 24. Rh3 d5 25. Bh6+ Kg8 26. Nxf3 d4 27. Ne2
+Be4 28. Rd2 Bxf3 29. Rxf3 Qc6 30. Rf1 g5 0-1

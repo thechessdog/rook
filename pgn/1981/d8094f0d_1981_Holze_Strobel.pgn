@@ -1,0 +1,17 @@
+[Event "Bundesliga 8081"]
+[Site "Duitsland tt"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Holze, Guenter"]
+[Black "Strobel, Walter"]
+[Result "1/2-1/2"]
+[ECO "B29"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rubinstein variation"]
+[HashCode "d8094f0d"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 Nf6 3. e5 Nd5 4. c3 Nc6 5. d4 cxd4 6. cxd4 d6 7. Bc4 e6 8. O-O
+Be7 9. Qe2 O-O 10. Qe4 Ndb4 11. exd6 Qxd6 12. Nc3 f5 13. Qe2 Na5 14. Nb5 Qb6
+15. Bf4 Nxc4 16. Qxc4 Nd5 17. Nc7 Nxc7 18. Bxc7 Qb4 19. Qxb4 Bxb4 20. a3 Be7
+21. Rfe1 Bf6 22. Rac1 Bd7 23. Ne5 Bxe5 24. dxe5 Rac8 25. Bd6 1/2-1/2

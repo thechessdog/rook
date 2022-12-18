@@ -1,0 +1,19 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Von Semmern"]
+[Black "Herzig"]
+[Result "0-1"]
+[ECO "C45"]
+[Opening "Scotch"]
+[Variation "Schmidt variation"]
+[HashCode "143bdb03"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nf6 5. Bg5 Bc5 6. Nxc6 bxc6 7. Nc3
+O-O 8. h4 Re8 9. Qf3 Bd4 10. Na4 d5 11. O-O-O Rxe4 12. Qd3 Bf5 13. g4 Bxg4
+14. f3 Be3+ 15. Bxe3 Bxf3 16. Nc3 Bxh1 17. Be2 Rxe3 18. Qxe3 Be4 19. Qg5 h6
+20. Qg1 Qd6 21. h5 a5 22. Rf1 Qe5 23. Qf2 d4 24. Nd1 c5 25. Kb1 Bd5 26. Re1
+Re8 0-1
+

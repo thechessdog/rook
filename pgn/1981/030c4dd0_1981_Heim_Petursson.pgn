@@ -1,0 +1,22 @@
+[Event "Reykjavik"]
+[Site "Reykjavik"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Heim, Sverre"]
+[Black "Petursson, M."]
+[Result "0-1"]
+[ECO "A00"]
+[Opening "Benko's opening"]
+[HashCode "030c4dd0"]
+[Epoch "Rook"]
+[WhiteID "1500090"]
+[WhiteCountry "NOR"]
+[BlackCountry "ISL"]
+
+1. g3 d5 2. Bg2 c6 3. d3 Nf6 4. Nf3 Bg4 5. Nbd2 Nbd7 6. h3 Bh5 7. O-O e5 8. e4
+Bd6 9. Qe1 O-O 10. Nh4 Re8 11. Nf5 Nc5 12. Nb3 Bg6 13. Bg5 Bxf5 14. exf5 h6 15.
+Be3 Nxb3 16. axb3 Qd7 17. g4 Bc7 18. Qb4 a5 19. Qa3 h5 20. f3 b5 21. Bg5 b4 22.
+Qa2 Qd6 23. Bxf6 gxf6 24. gxh5 e4 25. f4 exd3 26. cxd3 Kh7 27. Qb1 Re2 28. Qd1
+Qe7 29. Kh1 Rg8 30. Bf3 Rxb2 31. Bg4 Re8 32. Rb1 Rxb1 33. Qxb1 Qe3 34. Qd1 Bxf4
+35. Qf3 Qxf3+ 36. Rxf3 Be5 37. Rf1 c5 38. Bf3 Rd8 39. Rc1 Bc3 40. Rc2 c4 41.
+dxc4 dxc4 42. bxc4 a4 43. Bc6 a3 44. Ba4 Rd3 45. c5 Be5 46. c6 b3 0-1

@@ -1,0 +1,25 @@
+[Event "Bundesliga 8081"]
+[Site "Duitsland tt"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Hildebrand, Gerald"]
+[Black "Gass, Ulrich"]
+[Result "1-0"]
+[ECO "A31"]
+[Opening "English"]
+[Variation "symmetrical, Benoni formation"]
+[HashCode "c6c1a6e2"]
+[Epoch "Rook"]
+[WhiteID "4672127"]
+[WhiteCountry "GER"]
+[BlackID "4683307"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 c5 3. Nf3 g6 4. Nc3 Bg7 5. d5 d6 6. e4 O-O 7. Be2 e6 8. Bg5 Qa5
+9. O-O exd5 10. exd5 Re8 11. Re1 Bf5 12. Nb5 Qb6 13. a4 a6 14. a5 Qd8 15. Nc3
+h6 16. Bh4 Nbd7 17. Bg3 Ne4 18. Nxe4 Bxe4 19. Qd2 Qf6 20. Ra2 g5 21. b4 Qg6 22.
+bxc5 Nxc5 23. h4 f5 24. hxg5 Bxf3 25. Bxf3 hxg5 26. Rxe8+ Rxe8 27. Qd1 g4 28.
+Be2 Ne4 29. Qd3 Nxg3 30. Qxg3 Be5 31. Qd3 Re7 32. g3 Qh5 33. f4 Bf6 34. Bf1 Rh7
+35. Bg2 Re7 36. Re2 Bd4+ 37. Kf1 Qh2 38. Rxe7 Qg1+ 39. Ke2 Qxg2+ 40. Kd1 Qf3+
+41. Qxf3 gxf3 42. Ke1 Bc3+ 43. Kf2 Bxa5 44. Rxb7 Bc3 45. Kxf3 a5 46. g4 fxg4+
+47. Kxg4 Kf8 48. f5 Bf6 49. Ra7 Bd8 50. Kh5 Ke8 51. Kg6 1-0

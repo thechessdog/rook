@@ -1,0 +1,22 @@
+[Event "IBM-B"]
+[Site "Amsterdam II"]
+[Date "1978.07.01"]
+[Round "9"]
+[White "De Roode, Peter"]
+[Black "Ligterink, Gert"]
+[Result "1-0"]
+[ECO "E84"]
+[Opening "King's Indian"]
+[Variation "Saemisch, Panno main line"]
+[HashCode "93bfdf88"]
+[Epoch "Rook"]
+[WhiteID "1001140"]
+[WhiteCountry "NED"]
+[BlackID "1000179"]
+[BlackCountry "NED"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 Nc6 7. Nge2 a6 8. Qd2
+Rb8 9. h4 h5 10. O-O-O b5 11. Nf4 b4 12. Ncd5 Nh7 13. g4 e6 14. gxh5 exd5 15.
+cxd5 Ne7 16. Bc4 Qe8 17. Rdg1 Bd7 18. hxg6 fxg6 19. h5 g5 20. h6 Bf6 21. e5 Nf5
+22. Ne6 Bxe6 23. dxe6 Qc6 24. b3 Nxe3 25. Qxe3 Be7 26. d5 Qe8 27. Bd3 dxe5 28.
+Qe4 Nf6 29. Rxg5+ Kh8 30. Qxe5 Rg8 31. Rg7 1-0

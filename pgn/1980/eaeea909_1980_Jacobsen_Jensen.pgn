@@ -1,0 +1,20 @@
+[Event "Politiken Cup"]
+[Site "Copenhagen"]
+[Date "1980.01.01"]
+[Round "8"]
+[White "Jacobsen, Bo"]
+[Black "Jensen, Allan"]
+[Result "0-1"]
+[ECO "A25"]
+[Opening "English"]
+[Variation "Sicilian reversed"]
+[HashCode "eaeea909"]
+[Epoch "Rook"]
+[WhiteID "1400738"]
+[BlackID "1401181"]
+[WhiteCountry "DEN"]
+[BlackCountry "DEN"]
+
+1. c4 e5 2. Nc3 Nc6 3. g3 f5 4. Bg2 Nf6 5. e3 g6 6. Rb1 Bg7 7. b4 e4 8. d3 d5
+9. cxd5 Nxd5 10. Nxd5 Qxd5 11. dxe4 Qxa2 12. Bd2 Be6 13. f4 O-O-O 14. Rc1 Nxb4
+0-1

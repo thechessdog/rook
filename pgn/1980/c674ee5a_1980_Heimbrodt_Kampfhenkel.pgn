@@ -1,0 +1,17 @@
+[Event "corr ch10-DDR"]
+[Site "corr ch10-DDR"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Heimbrodt, W."]
+[Black "Kampfhenkel, U."]
+[Result "1/2-1/2"]
+[ECO "A51"]
+[Opening "Budapest"]
+[Variation "Fajarowicz, Steiner variation"]
+[HashCode "c674ee5a"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ne4 4. Qc2 Bb4+ 5. Bd2 Nxd2 6. Nxd2 Nc6 7. Nf3
+Qe7 8. O-O-O Bxd2+ 9. Qxd2 Nxe5 10. Nxe5 Qxe5 11. g3 O-O 12. Bg2 d6 13. f4
+Qe8 14. Qc2 Qe3+ 15. Qd2 Qe8 1/2-1/2
+

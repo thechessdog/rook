@@ -1,0 +1,20 @@
+[Event "Sweden"]
+[Site "Sweden"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Bengtsson, Bo"]
+[Black "Ornstein, Axel"]
+[Result "0-1"]
+[ECO "C03"]
+[Opening "French"]
+[Variation "Tarrasch"]
+[HashCode "23409b09"]
+[Epoch "Rook"]
+[BlackID "1700111"]
+[BlackCountry "SWE"]
+[WhiteID "1700804"]
+[WhiteCountry "SWE"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Be7 4. Ngf3 Nf6 5. Bd3 c5 6. exd5 Nxd5 7. Ne4 cxd4 8.
+Nxd4 O-O 9. O-O e5 10. Nb5 a6 11. c4 Nb4 12. Nbd6 Be6 13. Bb1 b6 14. a3 N4c6
+15. Qh5 f5 16. Rd1 Nd4 17. Bg5 Ra7 18. c5 g6 19. Qh4 fxe4 20. Nxe4 Ne2+ 0-1

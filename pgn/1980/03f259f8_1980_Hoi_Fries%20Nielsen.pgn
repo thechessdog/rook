@@ -1,0 +1,22 @@
+[Event "Kopenhagen open"]
+[Site "Kopenhagen open"]
+[Date "1980.06.01"]
+[Round "1"]
+[White "Hoi, Carsten"]
+[Black "Fries-Nielsen, Jens Ove"]
+[Result "1-0"]
+[ECO "E47"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 O-O, 5.Bd3"]
+[HashCode "03f259f8"]
+[Epoch "Rook"]
+[WhiteID "1400100"]
+[WhiteCountry "DEN"]
+[BlackCountry "DEN"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 c5 6. Ne2 Nc6 7. O-O d5 8. a3
+Bxc3 9. bxc3 dxc4 10. Bxc4 Qc7 11. Bd3 e5 12. Bb2 e4 13. Bc2 Be6 14. f3 Nd5 15.
+Qc1 cxd4 16. cxd4 exf3 17. gxf3 Na5 18. e4 Ne3 19. Qxe3 Qxc2 20. Bc3 Nb3 21.
+Rab1 Bc4 22. Rb2 Qd3 23. Qxd3 Bxd3 24. Kf2 Bc4 25. Rfb1 Rfc8 26. Rxb3 Bxb3 27.
+Rxb3 Rc7 28. Ke3 a5 29. d5 f6 30. Kd3 Kf7 31. a4 g5 32. Nd4 h5 33. h3 Re7 34.
+Nf5 Rd7 35. Rb6 1-0

@@ -1,0 +1,19 @@
+[Event "Buenos Aires olm"]
+[Site "Buenos Aires olm"]
+[Date "1978.10.01"]
+[Round "1"]
+[White "Letzelter, Jean Claude"]
+[Black "Huss, Andreas"]
+[Result "1-0"]
+[ECO "C15"]
+[Opening "French"]
+[Variation "Winawer, Alekhine gambit"]
+[HashCode "c7d0f810"]
+[Epoch "Rook"]
+[BlackID "1300180"]
+[BlackCountry "SUI"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. Ne2 dxe4 5. a3 Bxc3+ 6. Nxc3 e5 7. dxe5 Qxd1+
+8. Kxd1 Bf5 9. Nd5 Na6 10. Bg5 Be6 11. Bb5+ c6 12. Bxa6 Bxd5 13. Bxb7 Rb8 14.
+Ba6 Rb6 15. Be2 Rxb2 16. Kd2 Ne7 17. Kc3 Rb7 18. Rab1 Rc7 19. Rb8+ Nc8 20. Be3
+O-O 21. Bc5 Re8 22. Ba6 1-0

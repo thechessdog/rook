@@ -1,0 +1,21 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Miethke"]
+[Black "Wiedemann"]
+[Result "1-0"]
+[ECO "B15"]
+[Opening "Caro-Kann"]
+[Variation "Forgacs variation"]
+[HashCode "f664f4a4"]
+[Epoch "Rook"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ exf6 6. Bc4 Bd6 7. Qe2+
+Be7 8. Nf3 Bg4 9. c3 Nd7 10. Bf4 Nb6 11. Bb3 O-O 12. O-O g5 13. Bd2 Qd7 14.
+Bc2 Kg7 15. Qd3 Rh8 16. Ne1 Be6 17. b3 f5 18. Nf3 f6 19. c4 f4 20. Bc3 Kf7
+21. Nd2 Rag8 22. Ne4 h5 23. f3 Qc7 24. Nc5 Bc8 25. Bd2 h4 26. h3 Nd7 27. b4
+Nxc5 28. dxc5 Rh6 29. Rad1 f5 30. a3 Bf6 31. Bc1 Be5 32. Qb3 g4 33. fxg4
+fxg4 34. Rd6 Bxd6 35. cxd6 Qd8 36. Bxf4 Rf6 37. Qd3 Bf5 38. Qxf5 Rxf5 39.
+Bxf5 g3 40. Bh7 Qe8 41. Bh6+ 1-0
+

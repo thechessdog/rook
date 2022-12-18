@@ -1,0 +1,19 @@
+[Event "BL2-N 8081"]
+[Site "BL2-N 8081"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Neumann, Joachim"]
+[Black "Soltau, A."]
+[Result "1/2-1/2"]
+[ECO "B93"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.f4"]
+[HashCode "b39d8884"]
+[Epoch "Rook"]
+[WhiteID "4608259"]
+[WhiteCountry "GER"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 Qc7 7. Bd3 g6 8. O-O
+Bg7 9. Nf3 Nbd7 10. a4 b6 11. Qe1 Nc5 12. Kh1 Bb7 13. Bd2 d5 14. e5 Nfe4 15.
+Be3 e6 16. Bd4 O-O 17. b4 Nxd3 18. cxd3 Nxc3 19. Rc1 Qd7 20. Qxc3 Rfc8 21. Qb3
+Bc6 1/2-1/2

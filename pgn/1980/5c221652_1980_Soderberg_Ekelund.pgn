@@ -1,0 +1,24 @@
+[Event "corr SWE/K tt"]
+[Site "corr SWE/K tt"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Soderberg, Per"]
+[Black "Ekelund, Kurt"]
+[Result "0-1"]
+[ECO "C00"]
+[Opening "French"]
+[Variation "King's Indian attack"]
+[HashCode "5c221652"]
+[Epoch "Rook"]
+[WhiteID "1702904"]
+[BlackID "1706667"]
+[WhiteCountry "SWE"]
+[BlackCountry "SWE"]
+
+1. e4 e6 2. d3 d5 3. Nd2 Nf6 4. Ngf3 b6 5. c3 Be7 6. Qc2 O-O 7. e5 Nfd7 8. d4
+c5 9. Bd3 h6 10. O-O Nc6 11. Qa4 Bb7 12. Re1 cxd4 13. cxd4 Rc8 14. Nf1 a6 15.
+Bb1 Re8 16. Bd2 b5 17. Qb3 Nf8 18. a4 b4 19. Qe3 Qb6 20. Ng3 Na5 21. b3 Nh7 22.
+Nh5 Bf8 23. Qd3 g6 24. Nh4 Kh8 25. Nf6 Re7 26. Re3 Nxb3 27. Nxh7 Nxd2 28. Bc2
+Ne4 29. Nxf8 Rec7 30. a5 Qc6 31. Ba4 Qc3 32. Qxc3 Nxc3 33. Nfxg6+ fxg6 34.
+Nxg6+ Kh7 35. Bc2 Ne4 36. Bd3 Rc1+ 37. Re1 Rxe1+ 38. Rxe1 Kxg6 39. f3 Rc3 40.
+Rd1 b3 0-1

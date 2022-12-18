@@ -1,0 +1,22 @@
+[Event "corr SWE/K tt"]
+[Site "corr SWE/K tt"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Svensson, Conny"]
+[Black "Juhl, Erik"]
+[Result "1-0"]
+[ECO "A99"]
+[Opening "Dutch"]
+[Variation "Ilyin-Genevsky variation with b3"]
+[HashCode "4829ad89"]
+[Epoch "Rook"]
+
+1. d4 f5 2. g3 Nf6 3. Bg2 e6 4. Nf3 Be7 5. O-O O-O 6. c4 Qe8 7. b3 d6 8.
+Nc3 Bd8 9. Ba3 Nc6 10. Qc2 Qh5 11. e4 fxe4 12. Nxe4 e5 13. dxe5 Ng4 14. h3
+Ngxe5 15. Nxe5 Nxe5 16. f4 Ng6 17. Kh2 Re8 18. Rae1 Bd7 19. Qd2 Ne7 20. Ng5
+Kh8 21. Bxb7 Rb8 22. Bf3 Qg6 23. Be4 Bf5 24. Bxf5 Nxf5 25. g4 Nh4 26. Kg3
+h6 27. Rxe8+ Qxe8 28. Kxh4 Qg6 29. Kg3 hxg5 30. f5 Qf7 31. Bb2 Bf6 32. Bxf6
+gxf6 33. Re1 Re8 34. Qd5 Qd7 35. Re6 Kg7 36. h4 gxh4+ 37. Kxh4 Qd8 38. Rxe8
+Qxe8 39. Qe6 Qxe6 40. fxe6 Kf8 41. g5 fxg5+ 42. Kxg5 Ke7 43. Kf5 c6 44. b4
+1-0
+

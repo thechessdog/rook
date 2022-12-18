@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Lind, B."]
+[Black "Laaksonen, S."]
+[Result "0-1"]
+[ECO "D44"]
+[Opening "QGD semi-Slav"]
+[Variation "anti-Meran gambit"]
+[HashCode "9eee2d05"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 c6 5. Bg5 dxc4 6. e4 b5 7. e5 h6 8. Bh4
+g5 9. Nxg5 hxg5 10. Bxg5 Nbd7 11. exf6 Qa5 12. Be2 b4 13. Na4 Ba6 14. O-O
+O-O-O 15. Qc2 Qd5 16. Be3 c5 17. Nxc5 Bxc5 18. dxc5 Rdg8 19. g3 Rxh2 20. f3
+Qe5 0-1
+

@@ -1,0 +1,19 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Gohlke"]
+[Black "Lorenz"]
+[Result "1-0"]
+[ECO "B00"]
+[Opening "KP"]
+[Variation "Nimzovich defence"]
+[HashCode "9751933d"]
+[Epoch "Rook"]
+
+1. e4 Nc6 2. d4 e5 3. d5 Nce7 4. Bc4 Ng6 5. Be3 Bb4+ 6. Nd2 N8e7 7. a3
+Bxd2+ 8. Qxd2 O-O 9. h4 d6 10. h5 Nh8 11. Bd3 f5 12. exf5 Bxf5 13. Ne2 Bxd3
+14. Qxd3 Nf5 15. Bd2 c5 16. dxc6 bxc6 17. O-O-O c5 18. Qd5+ Nf7 19. g4 Nd4
+20. Nxd4 cxd4 21. g5 Kh8 22. g6 Ng5 23. h6 hxg6 24. Rdg1 Rf5 25. Qg2 gxh6
+26. Bxg5 Rxg5 27. Qxg5 Qxg5+ 28. Rxg5 Kg7 29. Rg4 1-0
+

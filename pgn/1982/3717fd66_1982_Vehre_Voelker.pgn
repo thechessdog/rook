@@ -1,0 +1,21 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Vehre, John"]
+[Black "Voelker, James"]
+[Result "1/2-1/2"]
+[ECO "E42"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5, 5.Ne2 (Rubinstein)"]
+[HashCode "3717fd66"]
+[Epoch "Rook"]
+[BlackID "2018853"]
+[BlackCountry "USA"]
+[WhiteCountry "USA"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Ne2 cxd4 6. exd4 d5 7. c5 Ne4 8. Bd2
+Nxd2 9. Qxd2 a5 10. a3 Bxc3 11. Nxc3 a4 12. Bb5+ Bd7 13. O-O b6 14. f4 Bxb5 15.
+Nxb5 O-O 16. f5 exf5 17. Rxf5 g6 18. Rf3 bxc5 19. dxc5 Qa5 20. Qxa5 Rxa5 21.
+Nc3 d4 22. Ne2 Nc6 23. Rc1 Ne5 24. Rff1 Nd3 25. Rc2 Rxc5 26. Rxc5 Nxc5 27. Nxd4
+Rd8 28. Rc1 Rxd4 1/2-1/2

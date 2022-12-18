@@ -1,0 +1,18 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Banscher"]
+[Black "Theeg"]
+[Result "1-0"]
+[ECO "C43"]
+[Opening "Petrov"]
+[Variation "modern attack, main line"]
+[HashCode "88e05da8"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nf6 3. d4 exd4 4. e5 Ne4 5. Qxd4 d5 6. exd6 Nxd6 7. Nc3 Nc6
+8. Qf4 g6 9. Bb5 Bg7 10. Bxc6+ bxc6 11. O-O O-O 12. Be3 Ba6 13. Rfd1 Qb8
+14. Rab1 Re8 15. h4 Nf5 16. Bd4 Nxd4 17. Nxd4 Be5 18. Qg5 f6 19. Qh6 Qb6
+20. Nf5 1-0
+

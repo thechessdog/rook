@@ -1,0 +1,23 @@
+[Event "Ribe"]
+[Site "Ribe"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Pedersen, Erik"]
+[Black "Ernst, Thomas"]
+[Result "1-0"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack"]
+[HashCode "8ca9b6e1"]
+[Epoch "Rook"]
+[WhiteID "1404997"]
+[WhiteCountry "DEN"]
+[BlackID "1700065"]
+[BlackCountry "SWE"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 Nbd7 4. f3 c6 5. e4 dxe4 6. fxe4 e5 7. dxe5 Qa5 8.
+exf6 Qxg5 9. fxg7 Bxg7 10. Qd2 Qxd2+ 11. Kxd2 Bh6+ 12. Ke1 Nf6 13. Nf3 Be6 14.
+Bd3 O-O-O 15. Ke2 c5 16. e5 c4 17. Be4 Nxe4 18. Nxe4 Bf5 19. Nd6+ Rxd6 20. exd6
+Re8+ 21. Kf1 Bxc2 22. Re1 Rxe1+ 23. Kxe1 Bc1 24. Kf2 Bxb2 25. Re1 Bf5 26. Re7
+Be6 27. Rc7+ Kb8 28. Ng5 Bd5 29. Nxf7 Bf6 30. g4 h6 31. Nxh6 c3 32. Nf5 Bxa2
+33. g5 Bxg5 34. Rxc3 Be6 35. Ne7 Bf4 36. Rd3 Bd7 37. h4 a5 38. Ng6 Bh6 39. Ne5
+Kc8 40. Rc3+ 1-0

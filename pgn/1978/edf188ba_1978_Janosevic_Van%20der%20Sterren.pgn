@@ -1,0 +1,25 @@
+[Event "IBM-B"]
+[Site "Amsterdam II"]
+[Date "1978.07.01"]
+[Round "2"]
+[White "Janosevic, Dragoljub"]
+[Black "Van der Sterren, Paul"]
+[Result "1-0"]
+[ECO "C17"]
+[Opening "French"]
+[Variation "Winawer, advance, Bogolyubov variation"]
+[HashCode "edf188ba"]
+[Epoch "Rook"]
+[BlackID "1000071"]
+[BlackCountry "NED"]
+[WhiteCountry "SRB"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. Bd2 Ne7 6. f4 O-O 7. Nf3 Nbc6 8. dxc5
+Bxc5 9. Na4 Bb6 10. Bd3 h6 11. Qe2 Bd7 12. c3 Nxe5 13. fxe5 Bxa4 14. g4 a6 15.
+h4 Bb5 16. h5 Bxd3 17. Qxd3 Qc7 18. g5 Nf5 19. gxh6 gxh6 20. O-O-O Qc4 21. Qxc4
+dxc4 22. Nh4 Nxh4 23. Rxh4 Kh7 24. Rxc4 Rad8 25. Rf1 f5 26. exf6 Rf7 27. Rg4
+Rd5 28. Re4 Rxh5 29. Rxe6 Bc5 30. b4 Bf8 31. Rf2 a5 32. Kb2 axb4 33. cxb4 b5
+34. Bc3 Rd5 35. a3 h5 36. Rb6 Kg6 37. Rg2+ Kf5 38. Rb8 h4 39. Rg7 Rxf6 40. Bxf6
+Kxf6 41. Rh7 Bg7 42. Rg8 Rg5 43. Rxh4 Kf7+ 44. Rxg7+ Kxg7 45. Rf4 Kg6 46. Kc3
+Rd5 47. Rf3 Rd8 48. Rd3 Rb8 49. Rd6+ Kf7 50. Kd4 Ke7 51. Kc5 Ra8 52. Rd3 Rb8
+53. Kc6 Ke6 54. Rd6+ Ke7 55. Rd7+ 1-0

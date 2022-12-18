@@ -1,0 +1,25 @@
+[Event "Nijmegen"]
+[Site "Nijmegen"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Borm, Franciscus WM"]
+[Black "Schmidt, Bodo"]
+[Result "1-0"]
+[ECO "C15"]
+[Opening "French"]
+[Variation "Winawer (Nimzovich) variation"]
+[HashCode "f94aa560"]
+[Epoch "Rook"]
+[BlackID "4601505"]
+[BlackCountry "GER"]
+[WhiteCountry "NLD"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. exd5 exd5 5. Bd3 Nc6 6. a3 Bxc3+ 7. bxc3 Nge7
+8. Qh5 Be6 9. Rb1 Qd7 10. Rxb7 Bg4 11. Qg5 O-O 12. h3 Bf5 13. Nf3 Be4 14. Qg3
+Rac8 15. O-O Qf5 16. Ne5 Nd8 17. Rxa7 f6 18. Ng4 Ng6 19. Rxc7 Rxc7 20. Qxc7
+Bxd3 21. cxd3 Qxd3 22. Qd7 Qe4 23. f3 Qc2 24. Qxd5+ Kh8 25. Ne3 Qxc3 26. Nf5
+Nc6 27. Qd7 Rg8 28. Be3 Nh4 29. Rc1 Qd3 30. Rxc6 Nxf5 31. Bf2 Ne3 32. Bxe3
+Qxe3+ 33. Kh1 Qxa3 34. Rc8 h6 35. Kh2 Qe3 36. Rxg8+ Kxg8 37. Qd5+ Kf8 38. Qd6+
+Kf7 39. f4 Qe6 40. Qc7+ Kg6 41. Qc2+ f5 42. Qc7 Qe4 43. Qe5 Qd3 44. d5 h5 45.
+h4 Qd2 46. Qe6+ Kh7 47. Qxf5+ g6 48. Qf7+ Kh6 49. Qf8+ Kh7 50. d6 Qf2 51. Qf7+
+Kh6 52. Qf6 Kh7 53. d7 1-0

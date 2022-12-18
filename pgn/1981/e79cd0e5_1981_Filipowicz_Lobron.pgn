@@ -1,0 +1,27 @@
+[Event "Rome"]
+[Site "Rome"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Filipowicz, Andrzej"]
+[Black "Lobron, Eric"]
+[Result "0-1"]
+[ECO "A05"]
+[Opening "Reti"]
+[Variation "King's Indian attack"]
+[HashCode "e79cd0e5"]
+[Epoch "Rook"]
+[BlackID "4600037"]
+[BlackCountry "GER"]
+[WhiteID "1100491"]
+[WhiteCountry "POL"]
+
+1. Nf3 Nf6 2. g3 g6 3. b3 Bg7 4. Bb2 O-O 5. Bg2 d6 6. O-O e5 7. c4 c5 8. Nc3
+Nc6 9. e3 Re8 10. d4 e4 11. Ng5 Bf5 12. dxc5 dxc5 13. Nb5 h6 14. Nh3 Qb6 15.
+Nf4 Rad8 16. Qe2 g5 17. Bxf6 Bxf6 18. Nd5 Rxd5 19. cxd5 Ne5 20. Na3 Nf3+ 21.
+Bxf3 exf3 22. Qxf3 Be4 23. Qd1 Bxa1 24. f3 Bd3 25. Qxd3 Rxe3 26. Qd2 Bc3 27.
+Qg2 Rd3 28. Nc4 Qf6 29. f4 Qd4+ 30. Kh1 Rd1 31. d6 b5 32. Ne3 Rxf1+ 33. Nxf1
+Qxd6 34. fxg5 hxg5 35. Qe4 Qd4 36. Qa8+ Kg7 37. Kg2 Qd3 38. Qf3 Qc2+ 39. Kh3
+Bd4 40. g4 Qh7+ 41. Kg2 Qc2+ 42. Kh3 Qc3 43. Qxc3 Bxc3 44. Ne3 Be5 45. Nd5 f6
+46. Kg2 Kf7 47. Kf3 Ke6 48. Ke4 Bxh2 49. Nc3 a6 50. a4 bxa4 51. bxa4 Be5 52.
+Nd5 c4 53. Nb4 a5 54. Nc6 Bc3 55. Na7 Be5 56. Nc6 Kd6 57. Nxa5 Kc5 58. Nb7+ Kb6
+59. Nd8 Ka5 0-1

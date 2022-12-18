@@ -1,0 +1,20 @@
+[Event "Esbjerg"]
+[Site "Esbjerg"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Sloth, Jorn"]
+[Black "Rath, Ulrik"]
+[Result "1/2-1/2"]
+[ECO "E65"]
+[Opening "King's Indian"]
+[Variation "fianchetto, Yugoslav, 7.O-O"]
+[HashCode "b06066d2"]
+[Epoch "Rook"]
+[WhiteID "1400240"]
+[BlackID "1400223"]
+[WhiteCountry "DEN"]
+[BlackCountry "DEN"]
+
+1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 O-O 5. Nc3 d6 6. Nf3 c5 7. O-O Nc6 8. dxc5
+dxc5 9. Bf4 Nh5 10. Be3 Nd4 11. Qc1 Be6 12. Rd1 Bxc4 13. Nxd4 cxd4 14. Bxd4
+Bxd4 15. e3 e5 16. exd4 exd4 17. b3 1/2-1/2

@@ -1,0 +1,16 @@
+[Event "corr Italy"]
+[Site "corr Italy"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Soranzo"]
+[Black "Maxia"]
+[Result "0-1"]
+[ECO "C48"]
+[Opening "Four knights"]
+[Variation "Rubinstein counter-gambit"]
+[HashCode "ecc7f1ae"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. Bb5 Nd4 5. Ba4 Bc5 6. Nxe5 O-O 7. Nd3 Bb6
+8. O-O d5 9. e5 Ne4 10. Nf4 Qg5 11. Ncxd5 Bg4 0-1
+

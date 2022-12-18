@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Vinke, G."]
+[Black "Neumayer, J."]
+[Result "1-0"]
+[ECO "E41"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5"]
+[HashCode "a8d024ff"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 cxd4 6. exd4 Nc6 7. Nf3 Bxc3+
+8. bxc3 Qa5 9. Qc2 d5 10. O-O Bd7 11. Bd2 O-O 12. Ne5 Nxe5 13. dxe5 dxc4
+14. exf6 cxd3 15. Qxd3 Bb5 16. Qg3 g6 17. Qg5 Qd8 18. c4 Bxc4 19. Bc3 Kh8
+20. Rfd1 Bd5 21. Rd3 Be4 22. Qh6 Rg8 23. Qxh7+ 1-0
+

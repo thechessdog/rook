@@ -1,0 +1,17 @@
+[Event "Ohio"]
+[Site "Ohio"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Ridgel, E."]
+[Black "Wall, Bill"]
+[Result "0-1"]
+[ECO "C01"]
+[Opening "French"]
+[Variation "exchange variation"]
+[HashCode "9ca4c03e"]
+[Epoch "Rook"]
+[BlackCountry "USA"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. Nc3 Nf6 5. Bd3 Nc6 6. Nf3 Bg4 7. O-O Nxd4 8.
+Nxd5 Qxd5 9. Re1+ Be7 10. c4 Nxf3+ 11. gxf3 Qxf3 12. Qa4+ c6 13. Bf1 Bf5 14. b4
+Be4 0-1

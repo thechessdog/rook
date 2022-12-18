@@ -1,0 +1,22 @@
+[Event "Yugoslavia"]
+[Site "Yugoslavia"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Nikolic, Sava N"]
+[Black "Nikolic, Predrag"]
+[Result "1-0"]
+[ECO "A46"]
+[Opening "Queen's pawn"]
+[Variation "Torre attack"]
+[HashCode "749748f0"]
+[Epoch "Rook"]
+[WhiteID "901857"]
+[BlackID "14400014"]
+[WhiteCountry "SRB"]
+[BlackCountry "BIH"]
+
+1. d4 Nf6 2. Nf3 e6 3. Bg5 c5 4. e3 Be7 5. Nbd2 b6 6. Bd3 Bb7 7. c3 O-O 8. h4
+d6 9. Bxf6 Bxf6 10. Ne4 cxd4 11. cxd4 Nc6 12. Nfg5 g6 13. a3 Bg7 14. Nxh7 Kxh7
+15. h5 Kg8 16. hxg6 d5 17. Qh5 fxg6 18. Qh7+ Kf7 19. Rh6 Ne5 20. dxe5 dxe4 21.
+Qxg6+ Kg8 22. Qh7+ Kf7 23. Rf6+ Qxf6 24. exf6 Kxf6 25. Bxe4 Bxe4 26. Qxe4 Rad8
+27. Rc1 1-0

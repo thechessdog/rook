@@ -1,0 +1,21 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Heinrich"]
+[Black "Bergner"]
+[Result "1-0"]
+[ECO "D00"]
+[Opening "Blackmar gambit"]
+[HashCode "246c82f7"]
+[Epoch "Rook"]
+
+1. d4 d5 2. e4 dxe4 3. Nc3 Nf6 4. f3 exf3 5. Qxf3 Qxd4 6. Be3 Qb4 7. O-O-O
+Bg4 8. Nb5 Na6 9. Qxb7 Qe4 10. Qxe4 Nxe4 11. Rd4 Rd8 12. Nf3 Rxd4 13. Nfxd4
+Nb4 14. Nxc7+ Kd7 15. a3 Kxc7 16. axb4 e5 17. Nb5+ Kb8 18. Bxa7+ Kb7 19. c3
+Be7 20. Kc2 Rd8 21. Bd3 Nf2 22. Bxf2 f5 23. h3 e4 24. Bxe4+ fxe4 25. hxg4
+Bg5 26. Bd4 e3 27. Re1 Rd5 28. c4 Bh4 29. Rxe3 Rd7 30. Ra3 Be7 31. Ra7+ Kc6
+32. Rxd7 Kxd7 33. c5 g6 34. Na7 Kc7 35. c6 Bxb4 36. Kb3 Bd6 37. Kc4 h5 38.
+b4 h4 39. b5 Kb8 40. Kd5 Bf4 41. b6 h3 42. gxh3 Bh2 43. Nb5 Bg3 44. b7 Bf2
+45. Be5# 1-0
+

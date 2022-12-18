@@ -1,0 +1,22 @@
+[Event "Bar"]
+[Site "Bar"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Ciocaltea, Victor"]
+[Black "Zivkovic, Ljubo"]
+[Result "1/2-1/2"]
+[ECO "A08"]
+[Opening "Reti"]
+[Variation "King's Indian attack, French variation"]
+[HashCode "65a9754a"]
+[Epoch "Rook"]
+[BlackID "901415"]
+[WhiteCountry "ROU"]
+[BlackCountry "MNE"]
+
+1. e4 c5 2. Nf3 e6 3. d3 Nc6 4. g3 d5 5. Nbd2 Nf6 6. Bg2 Be7 7. O-O O-O 8. Re1
+b6 9. e5 Nd7 10. Nf1 Bb7 11. h4 b5 12. N1h2 a5 13. Ng4 a4 14. a3 b4 15. Bg5 Nd4
+16. Nxd4 cxd4 17. axb4 Bxg5 18. hxg5 Qxg5 19. c4 h5 20. Nh2 Nxe5 21. f4 Qxg3
+22. Rxe5 dxc4 23. Rg5 Qe3+ 24. Kh1 Bxg2+ 25. Rxg2 Qxd3 26. Qxh5 Qh7 27. Qc5
+Rfd8 28. Rag1 d3 29. f5 exf5 30. Qxc4 d2 31. Qc3 g6 32. Rxd2 Rxd2 33. Qxd2 Qh4
+34. Rxg6+ fxg6 35. Qd5+ Kg7 36. Qxa8 Qxb4 37. Qa7+ Kg8 1/2-1/2

@@ -1,0 +1,18 @@
+[Event "corr Yugoslavia"]
+[Site "corr Yugoslavia"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Bojic, Z."]
+[Black "Jamsek"]
+[Result "0-1"]
+[ECO "B96"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7.f4"]
+[HashCode "6089edbe"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Nbd7 8.
+Qf3 Qc7 9. O-O-O b5 10. a3 Rb8 11. g4 b4 12. axb4 Rxb4 13. Bxf6 Nxf6 14. g5
+Nd7 15. f5 Ne5 16. Qf2 Qb6 17. b3 Nc6 18. Na4 Qa7 19. c3 Nxd4 20. Rxd4 Rxb3
+0-1
+

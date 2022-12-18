@@ -1,0 +1,20 @@
+[Event "corr NLD/M"]
+[Site "corr NLD/M"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Hamers"]
+[Black "Van der Nat"]
+[Result "0-1"]
+[ECO "C65"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence, Beverwijk variation"]
+[HashCode "e6407a8a"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. O-O Nf6 5. Nxe5 O-O 6. Nd3 Bb6 7. e5 Ne4
+8. Nc3 f5 9. Bc4+ Kh8 10. Bd5 Qh4 11. Nxe4 fxe4 12. g3 Qg5 13. Bxe4 d5 14.
+Bxd5 Bg4 15. Qe1 Bh3 16. Bg2 Nd4 17. Qe4 Bf5 18. Qe3 Qg4 19. h3 Ne2+ 20.
+Kh2 Qh5 21. Nf4 Nxf4 22. Qxf4 Bd3 23. Qg4 Qxg4 24. hxg4 Bxf1 25. Bxf1 Rxf2+
+26. Bg2 Re8 27. d4 Bxd4 28. c3 Rxe5 29. cxd4 Ree2 30. Bf4 Rxg2+ 31. Kh1
+Rh2+ 32. Kg1 Reg2+ 33. Kf1 Rxb2 0-1
+

@@ -1,0 +1,18 @@
+[Event "corr ch-DEN"]
+[Site "corr ch-DEN"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Hansen, Curt"]
+[Black "Korning, P."]
+[Result "1/2-1/2"]
+[ECO "E42"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5, 5.Ne2 (Rubinstein)"]
+[HashCode "fde7d39d"]
+[Epoch "Rook"]
+[WhiteID "1400010"]
+[WhiteCountry "DEN"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Ne2 cxd4 6. exd4 Ne4 7. Qc2 d5 8. a3
+Nxc3 9. Nxc3 Bxc3+ 10. Qxc3 dxc4 11. Bxc4 O-O 12. O-O Nc6 13. Rd1 Ne7 14. Bg5
+f6 15. Bd2 Qb6 1/2-1/2

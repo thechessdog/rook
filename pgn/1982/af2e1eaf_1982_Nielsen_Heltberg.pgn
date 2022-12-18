@@ -1,0 +1,20 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Nielsen, Poul Erik"]
+[Black "Heltberg, Jonas"]
+[Result "1-0"]
+[ECO "E22"]
+[Opening "Nimzo-Indian"]
+[Variation "Spielmann variation"]
+[HashCode "af2e1eaf"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qb3 c5 5. Bg5 Nc6 6. dxc5 Bxc5 7. e3 b6 8. Nf3
+O-O 9. Bd3 h6 10. Bh4 Bb7 11. O-O Re8 12. Qc2 Nb4 13. Qb1 Nxd3 14. Qxd3 Bxf3
+15. gxf3 g5 16. Bg3 d5 17. Rad1 dxc4 18. Qxc4 Qe7 19. Qe2 Red8 20. a3 Rac8 21.
+Rc1 h5 22. h4 g4 23. fxg4 Nxg4 24. Ne4 f5 25. Nxc5 Rxc5 26. Kg2 Kh7 27. Kh3 Kg8
+28. Rg1 Kh7 29. b4 Rxc1 30. Rxc1 Qe8 31. e4 Qa4 32. exf5 Qxa3 33. Rc7+ Kh8 34.
+fxe6 Qxb4 35. Be5+ Kg8 36. Rg7+ Kh8 37. Rxg4+ Kh7 38. Rxb4 Re8 39. Qxh5+ Kg8
+40. Qh8# 1-0

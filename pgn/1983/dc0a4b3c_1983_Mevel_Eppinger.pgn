@@ -1,0 +1,31 @@
+[Event "Bundesliga 8283"]
+[Site "Duitsland tt"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Mevel, Alberic"]
+[Black "Eppinger, Georg"]
+[Result "0-1"]
+[ECO "B31"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (with ...g6, without ...d6)"]
+[HashCode "dc0a4b3c"]
+[Epoch "Rook"]
+[WhiteID "602574"]
+[WhiteCountry "FRA"]
+[BlackID "4605748"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. Re1 e5 6. Bxc6 dxc6 7. d3 Qe7 8. a3
+Nh6 9. b4 O-O 10. bxc5 Qxc5 11. a4 Rd8 12. Ba3 Qa5 13. Nbd2 Qc7 14. a5 f6 15.
+Qb1 Be6 16. Bc5 Nf7 17. Qb4 Rd7 18. Reb1 Bf8 19. Nb3 Bxb3 20. Rxb3 Bxc5 21.
+Qxc5 Qd6 22. Qc3 Nd8 23. Rab1 Rb8 24. Qc4+ Kg7 25. g3 Rc8 26. Kg2 Rcc7 27. Nd2
+Ne6 28. Qb4 Qxb4 29. Rxb4 Nd4 30. Rc4 g5 31. h3 Kg6 32. Nb3 Nxb3 33. Rxb3 Kf7
+34. Kf3 h5 35. Ke3 Ke6 36. Rb1 c5 37. Rb5 Kd6 38. Rc3 Rh7 39. f3 h4 40. g4 Rhd7
+41. Ke2 Rc6 42. Rcb3 Rcc7 43. Kd2 Ke6 44. Kc3 Ke7 45. Rb1 Kd8 46. R1b2 Kc8 47.
+Kd2 c4 48. R2b4 Rd4 49. Ke2 cxd3+ 50. cxd3 Rxb4 51. Rxb4 Rc2+ 52. Ke3 Kc7 53.
+d4 Rc3+ 54. Ke2 exd4 55. Rxd4 Rc5 56. Ra4 Kd6 57. Rb4 Kc6 58. Ra4 Rc2+ 59. Ke3
+Kc5 60. Ra1 Rc3+ 61. Ke2 Kb5 62. Kf2 Ka6 63. Ke2 Rc2+ 64. Ke3 Rc3+ 65. Ke2 Kb5
+66. Rb1+ Kc6 67. Rb2 Rc5 68. Ra2 Rb5 69. Ke3 Kd6 70. Rd2+ Ke5 71. Rd7 Rb3+ 72.
+Ke2 Kf4 73. Rf7 Re3+ 74. Kd2 Rxf3 75. Rxf6+ Kxe4 76. Rg6 Rd3+ 77. Ke2 Rd5 78.
+a6 b6 79. Rg7 Ra5 80. Rxa7 Ra2+ 81. Ke1 Kf4 82. Rf7+ Kg3 83. Rf5 Kxh3 84. Rxg5
+Kg2 0-1

@@ -1,0 +1,22 @@
+[Event "Rome-B"]
+[Site "Rome"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Rigo, Janos"]
+[Black "Tassi, Oliviero"]
+[Result "0-1"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Byrne (English) attack"]
+[HashCode "fcf8cbd4"]
+[Epoch "Rook"]
+[WhiteID "700371"]
+[BlackID "800384"]
+[WhiteCountry "HUN"]
+[BlackCountry "ITA"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e5 7. Nf3 Qc7 8. a4
+Nbd7 9. a5 Be7 10. Be2 Nc5 11. Nd5 Nxd5 12. exd5 f5 13. O-O O-O 14. b4 Ne4 15.
+Bb6 Qc3 16. Rb1 Bd7 17. Bd3 Ba4 18. Qe1 Rac8 19. Rc1 Qxe1 20. Rfxe1 Nc3 21. Nd4
+Bg5 22. Nxf5 e4 23. Nxd6 exd3 24. Nxc8 d2 25. Ra1 dxe1=Q+ 26. Rxe1 Rxc8 27. d6
+Re8 28. Ra1 Bb5 29. g3 Bf6 30. Ra3 Be5 31. Bc7 Nd5 0-1

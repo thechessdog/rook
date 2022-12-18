@@ -1,0 +1,23 @@
+[Event "Elekes mem-B"]
+[Site "Budapest"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Horvath, Gyula"]
+[Black "Riha, Vaclav"]
+[Result "1-0"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (without ...d6)"]
+[HashCode "8d899c29"]
+[Epoch "Rook"]
+[WhiteID "700223"]
+[WhiteCountry "HUN"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 e6 4. O-O Nge7 5. Re1 a6 6. Bxc6 Nxc6 7. d4 cxd4 8.
+Nxd4 Be7 9. Nxc6 dxc6 10. Qg4 O-O 11. e5 f5 12. exf6 Bxf6 13. Nd2 Qa5 14. Nf3
+Qf5 15. Qc4 c5 16. c3 b5 17. Qe4 Bd7 18. Qxf5 exf5 19. Bg5 Bxg5 20. Nxg5 Rfe8
+21. Rad1 h6 22. Nf3 Bc6 23. Ne5 Be4 24. Nd7 Bc2 25. Rc1 c4 26. f3 Rxe1+ 27.
+Rxe1 Rd8 28. Nc5 a5 29. Kf2 b4 30. Re7 bxc3 31. bxc3 Rd5 32. Ne6 Rd2+ 33. Kg1
+Rd1+ 34. Kf2 Rd2+ 35. Ke3 Rxg2 36. h4 Bd1 37. Kf4 h5 38. a3 a4 39. Rc7 Be2 40.
+Ng5 Kf8 41. Kxf5 Bd3+ 42. Kf4 g6 43. Ne6+ Ke8 44. Ke5 Bf5 45. Nd4 Bd7 46. Kd6
+Bf5 47. Rxc4 Bd3 48. Rxa4 g5 49. Ne6 1-0

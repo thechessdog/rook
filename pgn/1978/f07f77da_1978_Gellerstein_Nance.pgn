@@ -1,0 +1,17 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Gellerstein"]
+[Black "Nance, D."]
+[Result "1-0"]
+[ECO "B46"]
+[Opening "Sicilian"]
+[Variation "Taimanov variation"]
+[HashCode "f07f77da"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 a6 6. g3 Bb4 7. Bg2 Qa5 8.
+O-O Bxc3 9. bxc3 Qxc3 10. Nxc6 Qxc6 11. Ba3 f6 12. e5 Qc7 13. Qg4 Kf7 14.
+Qb4 Nh6 15. Qe7+ Kg6 16. exf6 gxf6 17. Bb2 Qd8 18. Be4+ Kh5 19. Qg7 1-0
+

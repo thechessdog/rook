@@ -1,0 +1,22 @@
+[Event "Sweden"]
+[Site "Sweden"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Friberg, Hans"]
+[Black "Kaiszauri, Konstanty"]
+[Result "0-1"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical system, 5.Be2"]
+[HashCode "a8ed83bd"]
+[Epoch "Rook"]
+[WhiteID "1701088"]
+[WhiteCountry "SWE"]
+[BlackID "1700510"]
+[BlackCountry "SWE"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Nf3 Bg7 5. Be2 O-O 6. h3 e5 7. dxe5 dxe5 8. Be3
+Nbd7 9. O-O Qe7 10. Nd5 Nxd5 11. Qxd5 Re8 12. Qc4 c6 13. Rad1 Bf8 14. c3 Nc5
+15. b4 Na4 16. Qb3 b5 17. Rd2 Be6 18. Qc2 f6 19. a3 Qf7 20. c4 Bxc4 21. Bxc4
+Qxc4 22. Rc1 Nb6 23. Bxb6 axb6 24. Qxc4+ bxc4 25. Rxc4 Rec8 26. Rd3 c5 27. bxc5
+Rxc5 28. Rdc3 Rxa3 0-1

@@ -1,0 +1,20 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Berard"]
+[Black "Rudel"]
+[Result "1/2-1/2"]
+[ECO "C44"]
+[Opening "Ponziani opening"]
+[HashCode "9c3e6e1d"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. c3 a6 4. d4 exd4 5. cxd4 d5 6. exd5 Qxd5 7. Nc3 Bb4
+8. a3 Bxc3+ 9. bxc3 Nf6 10. Be2 O-O 11. O-O b5 12. Bf4 Ra7 13. Ne5 Nxe5 14.
+Bxe5 Nd7 15. Bf3 Qc4 16. Qd2 Nxe5 17. dxe5 Be6 18. Qe3 c5 19. Be2 Qd5 20.
+Rfd1 Qc6 21. Rd6 Qc8 22. Bf3 Rc7 23. Rad1 h6 24. Qd3 Bc4 25. Qe4 Be6 26.
+Qh4 Rd7 27. Rxd7 Bxd7 28. Qe7 Bc6 29. Bxc6 Qxc6 30. Rd8 Rxd8 31. Qxd8+ Kh7
+32. f3 Qg6 33. Qd2 c4 34. Kf2 Qb1 35. f4 g6 36. e6 Qe4 37. exf7 Kg7 38.
+f8=Q+ Kxf8 39. Qd8+ 1/2-1/2
+

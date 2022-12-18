@@ -1,0 +1,20 @@
+[Event "Copenhagen-ch"]
+[Site "Copenhagen"]
+[Date "1979.01.01"]
+[Round "7"]
+[White "Kristensen, Bjarke Hautop"]
+[Black "Gallmeyer, Peter"]
+[Result "0-1"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "modern variation"]
+[HashCode "283e7b8a"]
+[Epoch "Rook"]
+[BlackCountry "DEN"]
+[BlackID "1401157"]
+
+1. b3 e5 2. Bb2 Nc6 3. g3 d5 4. Bg2 f5 5. d3 Nf6 6. Nf3 Bd6 7. O-O O-O 8. c4 d4
+9. Na3 Qe7 10. Nc2 Bd7 11. e3 dxe3 12. Nxe3 f4 13. Nd5 Nxd5 14. cxd5 Nb4 15. a3
+Nxd3 16. Qxd3 e4 17. Qc3 exf3 18. Bxf3 Qg5 19. Rfe1 Rf6 20. Re5 Bxe5 21. Qxe5
+Rf5 22. Qc3 Re8 23. h4 Qg6 24. h5 Qf7 25. h6 fxg3 26. Kg2 gxf2 27. Qxg7+ Qxg7+
+28. Bxg7 Re3 29. Bg4 f1=Q+ 30. Rxf1 Rxf1 31. Bxd7 Rf7 32. Bb5 Rxg7+ 0-1

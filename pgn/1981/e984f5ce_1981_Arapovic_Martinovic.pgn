@@ -1,0 +1,21 @@
+[Event "Sarajevo"]
+[Site "Sarajevo"]
+[Date "1981.03.01"]
+[Round "5"]
+[White "Arapovic, Vitomir"]
+[Black "Martinovic, Slobodan"]
+[Result "1-0"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "classical variation"]
+[HashCode "e984f5ce"]
+[Epoch "Rook"]
+[WhiteID "14401614"]
+[WhiteCountry "BIH"]
+[BlackCountry "SRB"]
+
+1. b3 d5 2. Bb2 Bg4 3. Nf3 Bxf3 4. gxf3 e6 5. e3 Nf6 6. f4 Nbd7 7. d3 Bd6 8.
+Rg1 g6 9. Nd2 e5 10. f5 Qe7 11. Qf3 Ba3 12. O-O-O a5 13. fxg6 hxg6 14. Bh3 c6
+15. c3 Bxb2+ 16. Kxb2 Nc5 17. e4 dxe4 18. Nxe4 Ncxe4 19. dxe4 Rh4 20. Bg4 a4
+21. b4 a3+ 22. Kb1 Rxh2 23. Bh3 Rd8 24. Qg3 Rxd1+ 25. Rxd1 Nxe4 26. Bd7+ Kf8
+27. Qxh2 Kg7 28. Rh1 Kf6 29. Qh8+ Kg5 30. Qh4# 1-0

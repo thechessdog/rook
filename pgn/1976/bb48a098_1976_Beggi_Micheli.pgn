@@ -1,0 +1,20 @@
+[Event "Tivoli"]
+[Site "Tivoli"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Beggi"]
+[Black "Micheli, Carlo"]
+[Result "0-1"]
+[ECO "B07"]
+[Opening "Pirc"]
+[Variation "Holmov system"]
+[HashCode "bb48a098"]
+[Epoch "Rook"]
+[BlackID "800414"]
+[BlackCountry "ITA"]
+
+1. d4 g6 2. e4 d6 3. Bc4 Nf6 4. Nc3 Bg7 5. Bb3 O-O 6. Bg5 Nc6 7. Qd2 b5 8. a3
+Rb8 9. Nge2 a5 10. f3 e6 11. d5 a4 12. Ba2 exd5 13. Nxd5 Be6 14. Nec3 Bxd5 15.
+Nxd5 h6 16. Bxf6 Bxf6 17. Nxf6+ Qxf6 18. Qxh6 b4 19. Bc4 bxa3 20. Rxa3 Rxb2 21.
+Be2 Rxc2 22. Bd1 Rxg2 23. Kf1 Qb2 24. Qe3 Ne5 25. Rxa4 Nd3 26. Rd4 Rf2+ 27. Kg1
+Nf4 28. h4 Re2 29. Rb4 Re1+ 0-1

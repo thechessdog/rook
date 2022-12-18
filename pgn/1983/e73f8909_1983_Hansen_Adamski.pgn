@@ -1,0 +1,21 @@
+[Event "Nordic-tt"]
+[Site "Oslo"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Hansen, Jens Christian"]
+[Black "Adamski, Jan"]
+[Result "0-1"]
+[ECO "B41"]
+[Opening "Sicilian"]
+[Variation "Kan, Maroczy bind (Reti variation)"]
+[HashCode "e73f8909"]
+[Epoch "Rook"]
+[BlackID "1100190"]
+[BlackCountry "POL"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. c4 Nf6 6. Nc3 Qc7 7. Nc2 b6 8. Bd3
+Bd6 9. h3 Bb7 10. O-O Be5 11. Bd2 Bf4 12. Qc1 Bxd2 13. Qxd2 d6 14. b4 Nc6 15.
+f4 Nxb4 16. Nxb4 Qc5+ 17. Qf2 Qxb4 18. Rfc1 Nd7 19. Rab1 Qa3 20. Qb2 Qxb2 21.
+Rxb2 Bc6 22. Bc2 Ke7 23. Na4 Rhb8 24. Rcb1 b5 25. cxb5 Rxb5 26. Rxb5 Bxb5 27.
+Nc3 Rc8 28. Nxb5 Rxc2 29. Nd4 Rc4 30. Rb4 Rxb4 31. Nc6+ Kf6 32. Nxb4 Nc5 33. g4
+g5 0-1

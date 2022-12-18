@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Engel"]
+[Black "Kaufmann"]
+[Result "0-1"]
+[ECO "B33"]
+[Opening "Sicilian"]
+[Variation "Pelikan (Lasker/Sveshnikov) variation"]
+[HashCode "ab56bd09"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Nf3 Bb4 7. Bg5
+Bxc3+ 8. bxc3 Qa5 9. Bxf6 Qxc3+ 10. Nd2 gxf6 11. Bc4 Rg8 12. O-O Qh3 13. g3
+Rg6 14. f4 exf4 15. Rxf4 Rxg3+ 16. hxg3 Qxg3+ 17. Kh1 Qxf4 18. Qe2 d6 19.
+Qh5 Ne5 0-1
+

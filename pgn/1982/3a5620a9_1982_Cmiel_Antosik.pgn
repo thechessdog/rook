@@ -1,0 +1,18 @@
+[Event "corr ch-CSSR"]
+[Site "corr ch-CSSR"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Cmiel"]
+[Black "Antosik"]
+[Result "0-1"]
+[ECO "E94"]
+[Opening "King's Indian"]
+[Variation "orthodox, 7...Nbd7"]
+[HashCode "3a5620a9"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 O-O 5. Nf3 d6 6. Be2 Nbd7 7. O-O e5 8.
+d5 Nc5 9. Qc2 a5 10. Ne1 b6 11. Be3 Bd7 12. f4 exf4 13. Bxc5 bxc5 14. Rxf4
+Qe7 15. g3 Rae8 16. Bd3 Bh6 17. Rf1 Bh3 18. Ng2 Ng4 19. Nd1 Qe5 20. Qc3
+Qxc3 21. bxc3 Rb8 22. Kh1 Bd2 23. Bc2 Rfe8 24. Rb1 Rxb1 25. Bxb1 f5 0-1
+

@@ -1,0 +1,19 @@
+[Event "corr ch-USA"]
+[Site "corr ch-USA"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Gaskill"]
+[Black "Champagne"]
+[Result "1/2-1/2"]
+[ECO "C85"]
+[Opening "Ruy Lopez"]
+[Variation "Exchange variation doubly deferred (DERLD)"]
+[HashCode "195dd845"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Bxc6 dxc6 7. d3 Nd7
+8. Nbd2 O-O 9. Nc4 f6 10. Nh4 Nc5 11. Qf3 Rf7 12. Qg3 Ne6 13. Nf5 Kh8 14.
+Bd2 Bd6 15. c3 b5 16. Na5 c5 17. a4 Qd7 18. axb5 axb5 19. Nb3 Bb7 20. Na5
+Ba6 21. Ra2 Rff8 22. Rfa1 Rfd8 23. Nc4 Bb7 24. Ncxd6 cxd6 25. Qg4 Nf8 26.
+h3 Bc6 27. Ne3 Rxa2 1/2-1/2
+

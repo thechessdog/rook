@@ -1,0 +1,24 @@
+[Event "corr NS/ME"]
+[Site "corr NS/ME"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Huttunen, Yrjo"]
+[Black "Luoto, Timo"]
+[Result "1-0"]
+[ECO "D35"]
+[Opening "QGD"]
+[Variation "exchange, positional line"]
+[HashCode "3580c883"]
+[Epoch "Rook"]
+
+1. d4 e6 2. c4 Nf6 3. Nc3 d5 4. cxd5 exd5 5. Bg5 Be7 6. Nf3 O-O 7. Qc2 g6
+8. e3 Bf5 9. Bd3 Bxd3 10. Qxd3 c6 11. O-O Nbd7 12. Rad1 a5 13. a4 Re8 14.
+h3 Qb6 15. Qc2 Bd6 16. Bf4 Bxf4 17. exf4 Nh5 18. f5 Re7 19. fxg6 hxg6 20.
+Nh2 Rae8 21. Ng4 Ndf6 22. Ne5 Nf4 23. Qd2 N6h5 24. g3 Ne6 25. Nf3 Qb3 26.
+Kg2 Kg7 27. h4 b5 28. axb5 cxb5 29. Rde1 Nf6 30. Re3 Ng4 31. Rd3 b4 32. Nd1
+Qa4 33. Ne3 Nf6 34. h5 Ne4 35. Qe2 Qd7 36. Rh1 N6g5 37. Ne5 Qe6 38. f4 Nh7
+39. hxg6 fxg6 40. f5 gxf5 41. Rxh7+ Kxh7 42. Qh5+ Kg8 43. Nxf5 Rg7 44. Nh6+
+Kf8 45. Rf3+ Nf6 46. Ng6+ Rxg6 47. Qxg6 Ke7 48. Qg7+ Kd8 49. Rxf6 Qe4+ 50.
+Rf3 Re7 51. Nf7+ Kc7 52. Qf6 Qe2+ 53. Rf2 Qe4+ 54. Kh2 Qh7+ 55. Nh6 a4 56.
+Qa6 1-0
+

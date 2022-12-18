@@ -1,0 +1,20 @@
+[Event "Politiken Cup"]
+[Site "Copenhagen"]
+[Date "1984.??.??"]
+[Round "5"]
+[White "Iskov, Gert"]
+[Black "Fette, Martin"]
+[Result "1/2-1/2"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical system, 5.Be2"]
+[HashCode "db5b9892"]
+[Epoch "Rook"]
+[WhiteID "1400398"]
+[BlackID "4600827"]
+[WhiteCountry "DEN"]
+[BlackCountry "GER"]
+
+1. e4 g6 2. d4 Bg7 3. Nf3 d6 4. Be2 Nf6 5. Nc3 O-O 6. O-O c6 7. Re1 Qc7 8. e5
+dxe5 9. Nxe5 Be6 10. Bf4 Qc8 11. Qd2 Nbd7 12. h4 Rd8 13. Qe3 c5 14. Rad1 Nb6
+15. Bf3 Nbd5 16. Nxd5 Nxd5 17. Bxd5 Rxd5 18. c4 1/2-1/2

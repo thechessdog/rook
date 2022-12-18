@@ -1,0 +1,18 @@
+[Event "corr EU/M/GT"]
+[Site "corr EU/M/GT"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Ritter, K."]
+[Black "Hoffmann, G."]
+[Result "1-0"]
+[ECO "B83"]
+[Opening "Sicilian"]
+[Variation "modern Scheveningen, main line with Nb3"]
+[HashCode "5ff94fa9"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be2 Be7 7. O-O O-O
+8. f4 Nc6 9. Be3 Bd7 10. Nb3 a6 11. g4 b5 12. g5 Ne8 13. h4 Nc7 14. Bd3 b4
+15. Ne2 f6 16. Ng3 Be8 17. Qg4 Rb8 18. Rf2 d5 19. exd5 exd5 20. Nf5 Bd7 21.
+Qh5 g6 22. Nh6+ Kh8 23. Qe2 Nb5 24. h5 d4 25. hxg6 Be8 26. Rh2 1-0
+

@@ -1,0 +1,23 @@
+[Event "Newton,MA"]
+[Site "Newton,MA"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Curdo, John"]
+[Black "Cline, John"]
+[Result "1-0"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "990fed21"]
+[Epoch "Rook"]
+[WhiteID "2001705"]
+[BlackID "2002752"]
+[WhiteCountry "USA"]
+[BlackCountry "USA"]
+
+1. e4 c5 2. c3 g6 3. Nf3 Bg7 4. Bc4 e6 5. O-O Ne7 6. d4 cxd4 7. cxd4 d5 8. exd5
+exd5 9. Bb5+ Nbc6 10. Bg5 O-O 11. Bxc6 bxc6 12. Nc3 Bg4 13. Re1 f6 14. Be3 Nf5
+15. h3 Nxe3 16. Rxe3 Bf5 17. Na4 Qd6 18. Nc5 Rfe8 19. Qe2 Rxe3 20. Qxe3 Rb8 21.
+b3 g5 22. Re1 h5 23. Qe7 Bf8 24. Qxa7 Rc8 25. Qa6 Kf7 26. Qe2 Be7 27. a4 Rg8
+28. a5 g4 29. Nh4 Bc8 30. Qd3 gxh3 31. Qh7+ Rg7 32. Qxh5+ Kg8 33. Qe8+ Bf8 34.
+Qxc8 h2+ 35. Kh1 Qf4 36. Qxf8+ 1-0

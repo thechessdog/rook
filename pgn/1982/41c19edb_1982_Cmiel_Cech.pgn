@@ -1,0 +1,23 @@
+[Event "corr ch-CSSR"]
+[Site "corr ch-CSSR"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Cmiel, Thorsten"]
+[Black "Cech, Pavel"]
+[Result "0-1"]
+[ECO "B07"]
+[Opening "Pirc"]
+[Variation "Byrne variation"]
+[HashCode "41c19edb"]
+[Epoch "Rook"]
+[WhiteID "4605721"]
+[BlackID "302139"]
+[WhiteCountry "GER"]
+[BlackCountry "CZE"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Bg5 Bg7 5. Qd2 c6 6. Nf3 O-O 7. h3 Qc7 8. Be2
+Nbd7 9. O-O b5 10. a3 a6 11. Bh6 Bb7 12. Rfe1 c5 13. Bxg7 Kxg7 14. Bd3 e5 15.
+d5 c4 16. Bf1 Nc5 17. Qe3 Ncd7 18. b4 Nb6 19. Nh2 Rae8 20. g3 Nfd7 21. Bg2 Qd8
+22. a4 bxa4 23. Nxa4 Nxa4 24. Rxa4 Nb6 25. Raa1 f5 26. Rad1 f4 27. Qc3 Bc8 28.
+g4 h5 29. f3 hxg4 30. fxg4 Bd7 31. Nf3 Na4 32. Qa3 Qb6+ 33. Kh1 Rh8 34. Ng5 c3
+35. Rd3 Rb8 0-1

@@ -1,0 +1,21 @@
+[Event "Montreal"]
+[Site "Montreal"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Boudreau, Daniel"]
+[Black "Berube, Richard"]
+[Result "0-1"]
+[ECO "B76"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, Rauser variation"]
+[HashCode "8005e5bb"]
+[Epoch "Rook"]
+[WhiteID "2617277"]
+[BlackID "2600579"]
+[WhiteCountry "CAN"]
+[BlackCountry "CAN"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. f3 g6 7. Be3 Bg7 8. Qd2
+O-O 9. O-O-O d5 10. exd5 Nxd5 11. Nxc6 bxc6 12. Bd4 e5 13. Bc5 Be6 14. Ne4 Re8
+15. h4 f5 16. Ng5 Bh6 17. Kb1 Nc3+ 18. bxc3 Qa5 19. c4 Qxc5 20. Qd3 e4 21. fxe4
+Rab8+ 22. Kc1 fxe4 23. Qg3 e3 24. Rd3 Bf5 25. Rb3 Rxb3 26. axb3 Qd4 0-1

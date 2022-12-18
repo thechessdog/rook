@@ -1,0 +1,18 @@
+[Event "corr ch-DEN"]
+[Site "corr ch-DEN"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Hjorth, B."]
+[Black "Jardin, J."]
+[Result "0-1"]
+[ECO "C05"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation"]
+[HashCode "fe3959a8"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. f4 c5 6. c3 Nc6 7. Ndf3 Qb6 8.
+g3 cxd4 9. cxd4 Bb4+ 10. Kf2 g5 11. h3 Be7 12. b3 gxf4 13. Bxf4 f6 14. Kg2
+fxe5 15. dxe5 Nf8 16. Ng5 Ng6 17. Qh5 Kd7 18. N1f3 Nxf4+ 19. gxf4 Kc7 20.
+Bd3 h6 21. Nf7 Rg8+ 22. Bg6 Qe3 0-1
+

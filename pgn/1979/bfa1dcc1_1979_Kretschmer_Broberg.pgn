@@ -1,0 +1,18 @@
+[Event "corr DDR-M"]
+[Site "corr DDR-M"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Kretschmer, H."]
+[Black "Broberg, H."]
+[Result "0-1"]
+[ECO "C05"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation"]
+[HashCode "bfa1dcc1"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. f4 c5 6. c3 Nc6 7. Ndf3 Qa5 8.
+Bd2 Qb6 9. Ne2 Qxb2 10. Rb1 Qa3 11. f5 cxd4 12. cxd4 Bb4 13. fxe6 fxe6 14.
+Ng5 Nb6 15. Nf4 Qe3+ 16. Be2 Bxd2+ 17. Qxd2 Qxd2+ 18. Kxd2 Nxd4 19. Bg4 O-O
+20. Rhf1 Nc4+ 0-1
+

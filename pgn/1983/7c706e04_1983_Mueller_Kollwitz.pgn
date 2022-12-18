@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Mueller"]
+[Black "Kollwitz"]
+[Result "1-0"]
+[ECO "A45"]
+[Opening "Queen's pawn"]
+[Variation "Bronstein gambit"]
+[HashCode "7c706e04"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. g4 Nxg4 3. Bg2 e5 4. Nc3 Bb4 5. Qd3 Bxc3+ 6. Qxc3 d6 7. dxe5
+Nxe5 8. Bd2 O-O 9. O-O-O c6 10. Nf3 Nxf3 11. Bxf3 d5 12. Rhg1 f6 13. Bh6
+Rf7 14. Rxd5 1-0
+

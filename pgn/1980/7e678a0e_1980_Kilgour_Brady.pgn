@@ -1,0 +1,20 @@
+[Event "corr ch-SCO"]
+[Site "corr ch-SCO"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Kilgour, D."]
+[Black "Brady, W."]
+[Result "1-0"]
+[ECO "B65"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...Be7 defence, 9...Nxd4"]
+[HashCode "7e678a0e"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd2 Be7
+8. O-O-O O-O 9. f4 Nxd4 10. Qxd4 Qa5 11. Bc4 h6 12. Bh4 e5 13. fxe5 dxe5
+14. Qd3 Qc5 15. Bxf6 Bxf6 16. Nd5 Bg4 17. Kb1 Be6 18. h4 Bd8 19. Qe2 Rc8
+20. Bb3 b5 21. g4 g6 22. g5 h5 23. Qh2 a5 24. a3 a4 25. Ba2 Bxd5 26. Rxd5
+Qc6 27. Rf1 Kg7 28. Qxe5+ f6 29. Qd4 Be7 30. Rd7 Rce8 31. Ka1 Qa6 32. Qb4
+1-0
+

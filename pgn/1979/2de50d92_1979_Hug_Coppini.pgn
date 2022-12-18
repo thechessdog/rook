@@ -1,0 +1,20 @@
+[Event "Rome"]
+[Site "Rome"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Hug, Werner"]
+[Black "Coppini, Giorgio"]
+[Result "1/2-1/2"]
+[ECO "B25"]
+[Opening "Sicilian"]
+[Variation "closed"]
+[HashCode "2de50d92"]
+[Epoch "Rook"]
+[BlackID "800988"]
+[BlackCountry "ITA"]
+[WhiteID "1300040"]
+[WhiteCountry "SUI"]
+
+1. e4 d6 2. Nc3 g6 3. g3 Bg7 4. Bg2 c5 5. d3 Nc6 6. Nh3 e6 7. O-O Nge7 8. Be3
+O-O 9. Qd2 Rb8 10. Bh6 b5 11. Bxg7 Kxg7 12. f4 b4 13. Nd1 d5 14. e5 c4 15. dxc4
+Ba6 16. Ne3 Qb6 17. Qf2 d4 18. Ng4 1/2-1/2

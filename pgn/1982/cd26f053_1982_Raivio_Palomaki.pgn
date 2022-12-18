@@ -1,0 +1,19 @@
+[Event "corr Heilimo mem"]
+[Site "corr Heilimo mem"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Raivio"]
+[Black "Palomaki"]
+[Result "1-0"]
+[ECO "B87"]
+[Opening "Sicilian"]
+[Variation "Sozin with ...a6 and ...b5"]
+[HashCode "cd26f053"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 b5 8.
+O-O Be7 9. a3 Bb7 10. Qe2 O-O 11. Bg5 Nbd7 12. Rad1 Rc8 13. f3 Qb6 14. Kh1
+Nc5 15. Ba2 Rfe8 16. Be3 Qc7 17. Qf2 Bf8 18. Qg3 d5 19. e5 Nh5 20. Qh3 g6
+21. f4 Nd7 22. Nce2 Nb6 23. c3 Nc4 24. Bc1 Qd7 25. Bb1 f5 26. exf6 Nxf6 27.
+Nf3 e5 28. f5 1-0
+

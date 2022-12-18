@@ -1,0 +1,17 @@
+[Event "corr France"]
+[Site "corr France"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Goldstein"]
+[Black "Remise, J."]
+[Result "1-0"]
+[ECO "C36"]
+[Opening "KGA"]
+[Variation "Abbazia defence, modern variation"]
+[HashCode "3ee082f4"]
+[Epoch "Rook"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 d5 4. exd5 Nf6 5. Bc4 Nxd5 6. O-O Be6 7. Qe2 Be7
+8. Nc3 Nxc3 9. dxc3 Qd6 10. Bxe6 fxe6 11. Bxf4 Qxf4 12. Nd4 Qd6 13. Nxe6
+Qb6+ 14. Kh1 Rg8 15. Qh5+ g6 16. Qxh7 Qxe6 17. Rae1 1-0
+

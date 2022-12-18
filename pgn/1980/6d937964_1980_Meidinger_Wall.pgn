@@ -1,0 +1,19 @@
+[Event "Dayton,OH"]
+[Site "Dayton,OH"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Meidinger"]
+[Black "Wall, Bill"]
+[Result "1-0"]
+[ECO "E77"]
+[Opening "King's Indian"]
+[Variation "Four pawns attack, 6.Be2"]
+[HashCode "6d937964"]
+[Epoch "Rook"]
+[BlackCountry "USA"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Be2 O-O 6. f4 c6 7. Nf3 Na6 8. O-O
+Nc7 9. e5 Nfe8 10. Rb1 a5 11. Be3 d5 12. c5 f5 13. Na4 b5 14. cxb6 Ne6 15. Qc2
+Bb7 16. Nc5 Qc8 17. Rbc1 Bh6 18. g3 Kh8 19. b3 Rg8 20. Nxb7 Qxb7 21. Qxc6 Qxc6
+22. Rxc6 Nd8 23. Rc5 e6 24. Rfc1 Nb7 25. Rc8 Ng7 26. R8c7 Rgb8 27. Bb5 Nd8 28.
+b7 Rxb7 29. Rxb7 Nxb7 30. Bc6 1-0

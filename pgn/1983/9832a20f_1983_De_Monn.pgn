@@ -1,0 +1,18 @@
+[Event "corr Switzerland"]
+[Site "corr Switzerland"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "De Valliere"]
+[Black "Monn"]
+[Result "1-0"]
+[ECO "A66"]
+[Opening "Benoni"]
+[Variation "Mikenas variation"]
+[HashCode "9832a20f"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. f4 Bg7 8. e5
+Nfd7 9. e6 fxe6 10. dxe6 Nf8 11. f5 Qh4+ 12. g3 Bxc3+ 13. bxc3 Qe4+ 14. Kf2
+Qxf5+ 15. Nf3 Qxe6 16. Bb5+ Kd8 17. Re1 Qg8 18. Qxd6+ Bd7 19. Bg5+ Kc8 20.
+Re8+ Bxe8 21. Qd8# 1-0
+

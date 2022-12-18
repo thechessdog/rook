@@ -1,0 +1,21 @@
+[Event "corr NS"]
+[Site "corr NS"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Heinola, Kari P."]
+[Black "Rantanen, Matti"]
+[Result "1-0"]
+[ECO "B72"]
+[Opening "Sicilian"]
+[Variation "dragon, 6.Be3"]
+[HashCode "d2370f03"]
+[Epoch "Rook"]
+[WhiteID "503495"]
+[WhiteCountry "FIN"]
+[BlackCountry "FIN"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 a6 7. f3 Bg7 8. Qd2
+Nbd7 9. Bh6 Bxh6 10. Qxh6 Qb6 11. O-O-O Ne5 12. f4 Neg4 13. Qh4 Ne3 14. Rd3 Nc4
+15. b3 Na3 16. e5 dxe5 17. fxe5 Ng4 18. Qxe7+ Kxe7 19. Nd5+ Kf8 20. Nxb6 Rb8
+21. Kb2 Nf2 22. Rf3 Nxh1 23. Kxa3 Ng3 24. Rxg3 Kg7 25. Bc4 Re8 26. Rf3 Re7 27.
+Bd5 Bd7 28. c4 Rd8 29. Nxd7 Rexd7 30. e6 Rd6 31. exf7 1-0

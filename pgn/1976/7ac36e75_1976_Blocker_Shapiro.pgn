@@ -1,0 +1,24 @@
+[Event "Cleveland,OH"]
+[Site "Cleveland,OH"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Blocker, Calvin"]
+[Black "Shapiro, Daniel"]
+[Result "0-1"]
+[ECO "E53"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line with ...c5"]
+[HashCode "7ac36e75"]
+[Epoch "Rook"]
+[WhiteID "2000920"]
+[BlackID "460427"]
+[WhiteCountry "USA"]
+[BlackCountry "ENG"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Nf3 c5 6. Bd3 d5 7. O-O cxd4 8. exd4
+dxc4 9. Bxc4 b6 10. Re1 Bb7 11. Bd3 Nc6 12. a3 Be7 13. Bc2 Rc8 14. Qd3 Na5 15.
+Bg5 g6 16. Bh6 Re8 17. Ne5 a6 18. Rad1 b5 19. Qh3 Qb6 20. Re3 Nc4 21. Rg3 Nxe5
+22. dxe5 Nd5 23. Nxd5 Bxd5 24. Bb1 Rc4 25. Be3 Qa5 26. Ba2 Rh4 27. Qxh4 Bxh4
+28. Rg4 Bxf2+ 29. Bxf2 Bxa2 30. Bh4 Bd5 31. Bf6 Qb6+ 32. Rgd4 Rc8 33. b3 Rc2
+34. Kf1 Bxg2+ 35. Ke1 Bd5 36. h4 h5 37. R4d3 Qc5 38. Bg5 Rc3 39. R1d2 Qxa3 40.
+Bf6 0-1

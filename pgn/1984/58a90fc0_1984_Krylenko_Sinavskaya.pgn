@@ -1,0 +1,17 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Krylenko"]
+[Black "Sinavskaya"]
+[Result "1-0"]
+[ECO "D02"]
+[Opening "Queen's bishop game"]
+[HashCode "58a90fc0"]
+[Epoch "Rook"]
+
+1. d4 d5 2. Nf3 Nf6 3. Bf4 e6 4. e3 Be7 5. h3 O-O 6. Nbd2 Nbd7 7. Bd3 Re8
+8. O-O Nf8 9. Ne5 N6d7 10. Qh5 g6 11. Qh6 Bf6 12. Nxd7 Bg7 13. Qxg7+ Kxg7
+14. Be5+ Kh6 15. Nf6 Nd7 16. Ng4+ Kh5 17. Bg7 Rg8 18. Nf6+ Nxf6 19. Be2+
+Kh4 20. Nf3+ Kh5 21. Ne5+ Kh4 22. g3+ Kxh3 23. Bxf6 Qxf6 24. Bg4# 1-0
+

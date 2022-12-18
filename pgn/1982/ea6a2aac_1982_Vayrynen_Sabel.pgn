@@ -1,0 +1,21 @@
+[Event "corr Heilimo mem"]
+[Site "corr Heilimo mem"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Vayrynen"]
+[Black "Sabel"]
+[Result "1-0"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, poisoned pawn variation"]
+[HashCode "ea6a2aac"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Qg4 cxd4
+8. Bd3 Qa5 9. Ne2 Nbc6 10. O-O Ng6 11. cxd4 Bd7 12. Rb1 O-O-O 13. f4 Nce7
+14. Rb3 Kb8 15. Bb2 Rc8 16. Bc3 Qd8 17. Bb4 Nf5 18. Rfb1 Ba4 19. R3b2 Qd7
+20. Bc5 Bc6 21. Nc3 Ka8 22. Bxf5 exf5 23. Qf3 b6 24. Bd6 Nf8 25. Nxd5 Qb7
+26. c4 Ne6 27. Rd2 Rhd8 28. a4 Bxa4 29. c5 Bc6 30. Nxb6+ Qxb6 31. cxb6 Bxf3
+32. gxf3 axb6 33. Rxb6 Rd7 34. d5 Nxf4 35. e6 Nxe6 36. dxe6 fxe6 37. Rdb2
+Re8 38. Kf2 1-0
+

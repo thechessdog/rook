@@ -1,0 +1,21 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Hartmann, Wolfram"]
+[Black "Oechslein, Rainer"]
+[Result "1-0"]
+[ECO "C33"]
+[Opening "KGA"]
+[Variation "bishop's gambit, Lopez-Gianutio counter-gambit"]
+[HashCode "8e9ce9b2"]
+[Epoch "Rook"]
+[WhiteID "4604008"]
+[WhiteCountry "GER"]
+[BlackID "4607708"]
+[BlackCountry "GER"]
+
+1. e4 e5 2. f4 exf4 3. Bc4 f5 4. Qe2 Nf6 5. e5 Ne4 6. Nf3 Nc6 7. d3 Ng5 8. Bxf4
+Nxf3+ 9. Qxf3 Nd4 10. Qf2 Ne6 11. Be3 d5 12. exd6 Bxd6 13. Qxf5 Qh4+ 14. Qf2
+Qh5 15. Nc3 Bd7 16. Qe2 Qh4+ 17. Bf2 Qh6 18. Ne4 Be7 19. Qe3 Qg6 20. O-O-O b6
+21. Rhe1 O-O-O 22. Kb1 Rhe8 23. Nc3 Nc5 24. d4 Bh4 25. Qf3 Rf8 26. Qa8# 1-0

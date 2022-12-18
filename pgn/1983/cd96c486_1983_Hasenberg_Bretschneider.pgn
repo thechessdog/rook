@@ -1,0 +1,19 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Hasenberg"]
+[Black "Bretschneider"]
+[Result "1-0"]
+[ECO "D53"]
+[Opening "QGD"]
+[Variation "Lasker variation"]
+[HashCode "cd96c486"]
+[Epoch "Rook"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. e3 Ne4 6. Bxe7 Qxe7 7. Rc1 Nxc3
+8. Rxc3 c6 9. cxd5 exd5 10. Bd3 Nd7 11. Ne2 Nf6 12. O-O O-O 13. Qb1 g6 14.
+b4 a6 15. a4 Bd7 16. Rfc1 Rfc8 17. b5 a5 18. bxc6 Bxc6 19. Bb5 Bd7 20. Rc7
+Rxc7 21. Rxc7 Rc8 22. Rxb7 Qd6 23. Bxd7 Nxd7 24. g3 Rb8 25. Rxb8+ Nxb8 26.
+Qb5 Qb4 27. Nf4 1-0
+

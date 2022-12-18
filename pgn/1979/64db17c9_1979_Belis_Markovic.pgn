@@ -1,0 +1,19 @@
+[Event "corr Yugoslavia"]
+[Site "corr Yugoslavia"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Belis"]
+[Black "Markovic, Gordana"]
+[Result "1-0"]
+[ECO "C03"]
+[Opening "French"]
+[Variation "Tarrasch"]
+[HashCode "64db17c9"]
+[Epoch "Rook"]
+[BlackID "905992"]
+[BlackCountry "SRB"]
+
+1. e4 e6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 h6 5. Nf3 Nf6 6. Bd3 Nc6 7. c3 b6 8. Bd2
+Bb7 9. Qc2 Be7 10. O-O-O O-O 11. Nxf6+ Bxf6 12. Rhe1 Ne7 13. Ne5 Bxg2 14. Rg1
+Qd5 15. Ng4 Bg5 16. Bxg5 hxg5 17. Ne3 Qxa2 18. Rxg2 f6 19. Bc4 Qa5 20. Bxe6+
+Kh8 21. Rg3 1-0

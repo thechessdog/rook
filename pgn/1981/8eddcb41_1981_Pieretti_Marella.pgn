@@ -1,0 +1,20 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Pieretti"]
+[Black "Marella"]
+[Result "0-1"]
+[ECO "E55"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Gligoric system, Bronstein variation"]
+[HashCode "8eddcb41"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 c5 7. O-O dxc4 8.
+Bxc4 Nbd7 9. Qe2 a6 10. a4 cxd4 11. exd4 Nb6 12. Bb3 Nbd5 13. Qd3 Bd7 14.
+Bg5 Be7 15. Rfe1 Bc6 16. Ne5 h6 17. Nxd5 Bxd5 18. Bxf6 Bxf6 19. Bc2 Re8 20.
+Ra3 Rc8 21. Rc3 Bxe5 22. Rxc8 Bxh2+ 23. Kxh2 Qxc8 24. Re3 Qc7+ 25. Rg3 f5
+26. Qd2 Rc8 27. Bd3 Kf7 28. Qe2 Qf4 29. Qe5 g5 30. Qxf4 gxf4 31. Rh3 Kg6
+32. g3 Rc1 33. gxf4 Rh1+ 0-1
+

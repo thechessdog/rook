@@ -1,0 +1,19 @@
+[Event "Hereford"]
+[Site "Hereford"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Pein"]
+[Black "Robinson"]
+[Result "1-0"]
+[ECO "D86"]
+[Opening "Gruenfeld"]
+[Variation "exchange, Simagin's improved variation"]
+[HashCode "8c249fee"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Bc4 O-O
+8. Ne2 Nc6 9. Be3 b6 10. Qd2 Bb7 11. Bh6 Na5 12. Bd3 c5 13. h4 e6 14. h5
+Qc7 15. e5 Rac8 16. Bxg7 Kxg7 17. Nf4 cxd4 18. hxg6 Qxe5+ 19. Kf1 dxc3 20.
+Nxe6+ Kf6 21. Qh6 hxg6 22. Nxf8 Qd5 23. Qh4+ g5 24. Qh6+ Ke7 25. Re1+ Kd8
+26. Be4 Qc4+ 27. Kg1 Bxe4 28. Qd6+ Ke8 29. Rh8 1-0
+

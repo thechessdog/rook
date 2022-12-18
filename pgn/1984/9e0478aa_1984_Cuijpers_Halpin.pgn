@@ -1,0 +1,20 @@
+[Event "Ramsgate"]
+[Site "Ramsgate/Margate"]
+[Date "1984.??.??"]
+[Round "?"]
+[White "Cuijpers, Frans Andre"]
+[Black "Halpin, Patrick"]
+[Result "1-0"]
+[ECO "C41"]
+[Opening "Philidor"]
+[Variation "Nimzovich (Jaenisch) variation"]
+[HashCode "9e0478aa"]
+[Epoch "Rook"]
+[WhiteID "1000209"]
+[BlackID "3200426"]
+[WhiteCountry "NED"]
+[BlackCountry "AUS"]
+
+1. e4 e5 2. Nf3 d6 3. d4 Nf6 4. Nc3 exd4 5. Nxd4 g6 6. Bg5 Bg7 7. Qd2 h6 8. Be3
+Nc6 9. f3 Bd7 10. O-O-O Qe7 11. Bc4 a6 12. Rhe1 Nxd4 13. Bxd4 O-O 14. e5 dxe5
+15. Rxe5 Qb4 16. Rc5 b5 17. a3 Qa5 18. Bxf6 Bxf6 19. Qxh6 1-0

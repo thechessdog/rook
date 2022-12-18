@@ -1,0 +1,18 @@
+[Event "corr DDR-cup6"]
+[Site "corr DDR-cup6"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Gaertig, L."]
+[Black "Ruhbaum, H."]
+[Result "1-0"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "classical attack, Jaenisch variation"]
+[HashCode "f921c72e"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Be7 7. O-O Nc6
+8. c4 Be6 9. Re1 f5 10. Nc3 O-O 11. Qe2 Nb4 12. Bb1 c6 13. c5 Na6 14. Bd3
+Nc7 15. Bf4 Bf6 16. Be5 Bxe5 17. Nxe5 Rf6 18. f3 Nxc3 19. bxc3 Rh6 20. Qf2
+Qf6 21. Rab1 Rb8 22. Nxc6 1-0
+

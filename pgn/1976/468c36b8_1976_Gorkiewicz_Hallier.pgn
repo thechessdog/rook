@@ -1,0 +1,18 @@
+[Event "corr EU/M"]
+[Site "corr EU/M"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Gorkiewicz"]
+[Black "Hallier"]
+[Result "1-0"]
+[ECO "E41"]
+[Opening "Nimzo-Indian"]
+[Variation "e3, Huebner variation"]
+[HashCode "468c36b8"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 Nc6 6. Nf3 Bxc3+ 7. bxc3 d6
+8. e4 e5 9. d5 Ne7 10. h3 Ng6 11. O-O h6 12. Be3 O-O 13. Nh2 Nh7 14. Qc2
+Qh4 15. Nf3 Qe7 16. a4 Nh4 17. Nxh4 Qxh4 18. f4 f6 19. f5 Qh5 20. Be2 Qf7
+21. Qd1 Rd8 22. Bh5 Qc7 23. Rf3 Ng5 24. Bxg5 hxg5 25. h4 gxh4 26. Rh3 1-0
+

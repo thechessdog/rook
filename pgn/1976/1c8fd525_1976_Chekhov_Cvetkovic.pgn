@@ -1,0 +1,22 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Chekhov, Valery A"]
+[Black "Cvetkovic, Srdjan"]
+[Result "1/2-1/2"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "1c8fd525"]
+[Epoch "Rook"]
+[WhiteID "4100859"]
+[WhiteCountry "RUS"]
+[BlackID "900621"]
+[BlackCountry "SRB"]
+
+1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. d4 cxd4 5. Nf3 Nc6 6. cxd4 d6 7. Bc4 e6 8. O-O
+Be7 9. Qe2 O-O 10. Qe4 Bd7 11. a3 Na5 12. Bd3 f5 13. exf6 Nxf6 14. Qe2 Nb3 15.
+Ra2 Nxc1 16. Rxc1 Rc8 17. Rxc8 Qxc8 18. Nc3 Bd8 19. Ra1 Bb6 20. Rd1 e5 21. dxe5
+dxe5 22. Nxe5 Bg4 23. Nxg4 Nxg4 24. Nd5 Bxf2+ 25. Kh1 Bc5 26. Rc1 Nf2+ 27. Qxf2
+Rxf2 28. Ne7+ Bxe7 29. Rxc8+ Kf7 1/2-1/2

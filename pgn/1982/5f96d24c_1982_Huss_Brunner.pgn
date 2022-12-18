@@ -1,0 +1,25 @@
+[Event "Switzerland"]
+[Site "Switzerland"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Huss, Andreas"]
+[Black "Brunner, Lucas"]
+[Result "1-0"]
+[ECO "A77"]
+[Opening "Benoni"]
+[Variation "classical, 9...Re8, 10.Nd2"]
+[HashCode "5f96d24c"]
+[Epoch "Rook"]
+[WhiteID "1300180"]
+[WhiteCountry "SUI"]
+[BlackID "1300024"]
+[BlackCountry "SUI"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 c5 4. d5 Bg7 5. Nc3 d6 6. e4 O-O 7. Be2 e6 8. O-O
+exd5 9. cxd5 Re8 10. Nd2 Nbd7 11. a4 g5 12. Qc2 Ne5 13. Nc4 Nxc4 14. Bxc4 Ng4
+15. Ne2 Ne5 16. Bb5 Rf8 17. Ng3 g4 18. Nh5 Qh4 19. Nxg7 Kxg7 20. Bf4 f6 21. Ra3
+a6 22. Be2 Bd7 23. Rb3 b5 24. axb5 c4 25. Rg3 axb5 26. h3 h5 27. f3 Kf7 28.
+fxg4 hxg4 29. Bxe5 dxe5 30. Qc3 gxh3 31. Qxe5 Rh8 32. Rg5 Ra6 33. Bh5+ Rxh5 34.
+Rxh5 hxg2 35. Rxf6+ Qxf6 36. Rh7+ Kg8 37. Qxf6 Rxf6 38. Rxd7 Rf1+ 39. Kxg2 Rb1
+40. Rc7 Rxb2+ 41. Kf3 Kf8 42. d6 Rd2 43. e5 Ke8 44. Ke4 Kd8 45. Kf5 Rd4 46. Ke6
+Rh4 47. Kd5 1-0

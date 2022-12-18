@@ -1,0 +1,20 @@
+[Event "IBM-B"]
+[Site "Amsterdam II"]
+[Date "1977.07.01"]
+[Round "4"]
+[White "Ftacnik, Lubomir"]
+[Black "Egmond, Peter"]
+[Result "1-0"]
+[ECO "E98"]
+[Opening "King's Indian"]
+[Variation "orthodox, Aronin-Taimanov, 9.Ne1"]
+[HashCode "8e498003"]
+[Epoch "Rook"]
+[WhiteID "14900017"]
+[WhiteCountry "SVK"]
+
+1. c4 g6 2. Nc3 Bg7 3. d4 Nf6 4. e4 d6 5. Be2 O-O 6. Nf3 e5 7. O-O Nc6 8. d5
+Ne7 9. Ne1 Nd7 10. Nd3 f5 11. Bd2 c5 12. f4 exf4 13. Bxf4 Bxc3 14. bxc3 fxe4
+15. Ne1 Nf6 16. g4 Kg7 17. Ng2 Neg8 18. h4 Qe7 19. Ne3 Bd7 20. Qe1 Be8 21. Qg3
+Rd8 22. Rf2 Kh8 23. Raf1 h6 24. g5 hxg5 25. Bxg5 Qg7 26. Bxf6 Rxf6 27. Rxf6
+Nxf6 28. Qg5 1-0

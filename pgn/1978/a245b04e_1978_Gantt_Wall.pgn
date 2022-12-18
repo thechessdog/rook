@@ -1,0 +1,16 @@
+[Event "Hickory"]
+[Site "Hickory"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Gantt"]
+[Black "Wall, Bill"]
+[Result "0-1"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra gambit"]
+[HashCode "a245b04e"]
+[Epoch "Rook"]
+[BlackCountry "USA"]
+
+1. e4 c5 2. d4 cxd4 3. Qxd4 Nf6 4. Nc3 g6 5. Nf3 Bg7 6. Bc4 O-O 7. Ne5 Nc6 8.
+Nxc6 bxc6 9. O-O Qc7 10. h3 Ng4 0-1

@@ -1,0 +1,19 @@
+[Event "Tirnavia-B"]
+[Site "Trnava"]
+[Date "1984.??.??"]
+[Round "1"]
+[White "Priehoda, Vitezslav"]
+[Black "Tibensky, Robert"]
+[Result "1/2-1/2"]
+[ECO "C08"]
+[Opening "French"]
+[Variation "Tarrasch, open, 4.ed ed"]
+[HashCode "5b45497e"]
+[Epoch "Rook"]
+[WhiteID "14900122"]
+[WhiteCountry "CZE"]
+[BlackCountry "SVK"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. exd5 exd5 5. Bb5+ Nc6 6. Ngf3 Bd6 7. dxc5 Bxc5
+8. O-O Ne7 9. Nb3 Bd6 10. Re1 O-O 11. Bg5 h6 12. Bh4 Bg4 13. Be2 Qd7 14. Bg3
+Rfe8 15. Nfd4 Bxe2 16. Rxe2 Ng6 1/2-1/2

@@ -1,0 +1,19 @@
+[Event "OHRA"]
+[Site "Amsterdam / Arnhem"]
+[Date "1983.07.01"]
+[Round "?"]
+[White "Van Mil, Johannes A J"]
+[Black "Murey, Jacob"]
+[Result "0-1"]
+[ECO "C12"]
+[Opening "French"]
+[Variation "MacCutcheon, Janowski variation"]
+[HashCode "af0214af"]
+[Epoch "Rook"]
+[BlackID "2803585"]
+[BlackCountry "ISR"]
+[WhiteCountry "NLD"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 e6 4. e4 Bb4 5. e5 h6 6. Be3 Ne4 7. Qg4 Kf8 8. a3
+Bxc3+ 9. bxc3 c5 10. Bd3 h5 11. Qf3 Nxc3 12. Nh3 Nc6 13. Nf4 Kg8 14. Nxh5 Qh4
+15. g4 Nxd4 16. Qf4 Bd7 0-1

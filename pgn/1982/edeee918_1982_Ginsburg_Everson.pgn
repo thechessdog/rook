@@ -1,0 +1,18 @@
+[Event "St Paul"]
+[Site "St Paul"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Ginsburg, Mark"]
+[Black "Everson, D."]
+[Result "1-0"]
+[ECO "E14"]
+[Opening "Queen's Indian"]
+[Variation "4.e3"]
+[HashCode "edeee918"]
+[Epoch "Rook"]
+[WhiteID "2000563"]
+[WhiteCountry "USA"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. e3 Bb7 5. Bd3 Be7 6. O-O d5 7. b3 dxc4 8. bxc4
+Nbd7 9. Nc3 c5 10. Bb2 O-O 11. Qe2 Rc8 12. Rad1 Qc7 13. d5 exd5 14. cxd5 Nxd5
+15. Nxd5 Bxd5 16. Qc2 Qc6 17. Bxh7+ Kh8 18. Qf5 Bf6 19. Qh3 Bxb2 20. Bg6+ 1-0

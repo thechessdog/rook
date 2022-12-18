@@ -1,0 +1,24 @@
+[Event "Poznan"]
+[Site "Poznan"]
+[Date "1983.01.01"]
+[Round "11"]
+[White "Bielczyk, Jacek"]
+[Black "Bernard, Ryszard"]
+[Result "1-0"]
+[ECO "B87"]
+[Opening "Sicilian"]
+[Variation "Sozin with ...a6 and ...b5"]
+[HashCode "15891571"]
+[Epoch "Rook"]
+[WhiteID "1100530"]
+[WhiteCountry "POL"]
+[BlackID "1100688"]
+[BlackCountry "POL"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 b5 8. O-O
+Be7 9. f4 Bb7 10. Be3 b4 11. e5 bxc3 12. exf6 Bxf6 13. f5 e5 14. Ne2 cxb2 15.
+Rb1 d5 16. Rxb2 Bc6 17. c3 O-O 18. Rd2 Bg5 19. Bxg5 Qxg5 20. Bxd5 Bxd5 21. Rxd5
+Nc6 22. Ng3 Rad8 23. Re1 Qf6 24. h3 Qh4 25. Kh2 Qc4 26. Rxd8 Rxd8 27. Qf3 h6
+28. Re4 Qxa2 29. Rg4 Qd5 30. Ne4 Kf8 31. Qe3 h5 32. Rg5 f6 33. Rxh5 Ne7 34. Qf3
+Qd3 35. Rh8+ Ng8 36. Qg4 Rd6 37. Nxd6 Qxd6 38. Qe4 Kf7 39. Qc4+ Ke7 40. Qb4
+Qxb4 41. cxb4 Nh6 42. g4 1-0

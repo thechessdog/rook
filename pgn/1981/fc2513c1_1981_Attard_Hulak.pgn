@@ -1,0 +1,22 @@
+[Event "Budva zt"]
+[Site "Budva zt"]
+[Date "1981.01.01"]
+[Round "2"]
+[White "Attard, Wilfred"]
+[Black "Hulak, Krunoslav"]
+[Result "0-1"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Nimzovich (knight's tour) variation"]
+[HashCode "fc2513c1"]
+[Epoch "Rook"]
+[BlackCountry "HRV"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. Nd2 Bg7 8. Nc4
+O-O 9. Bg5 h6 10. Bh4 b6 11. e3 Ba6 12. a4 Bxc4 13. Bxc4 Nbd7 14. O-O Re8 15.
+Bb5 a6 16. Bxd7 Qxd7 17. Qd3 Ng4 18. Bg3 f5 19. b3 Ne5 20. Qc2 b5 21. Rab1 Rac8
+22. Ne2 b4 23. Bxe5 Bxe5 24. Qd3 a5 25. Rbc1 Qf7 26. Rc4 Rc7 27. g4 Kh8 28. Nf4
+Bxf4 29. Rxf4 Re5 30. e4 Rxe4 31. Rxe4 fxe4 32. Qxe4 Re7 33. Qd3 Re5 34. Rd1
+Kg7 35. Kg2 Qf4 36. Qf3 Qg5 37. Kg3 h5 38. h4 hxg4 39. Qxg4 Qxg4+ 40. Kxg4 Re4+
+41. f4 Re3 42. h5 gxh5+ 43. Kf5 Kf7 44. Kg5 Rxb3 45. Kxh5 Re3 46. Kg5 b3 47.
+Kf5 b2 48. Rh1 Rh3 49. Rb1 Rb3 0-1

@@ -1,0 +1,24 @@
+[Event "BL2-N 8384"]
+[Site "BL2-N 8384"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Schneider, Bernd"]
+[Black "Stein, Bernd"]
+[Result "0-1"]
+[ECO "A34"]
+[Opening "English"]
+[Variation "symmetrical, Rubinstein system"]
+[HashCode "f6f12e8d"]
+[Epoch "Rook"]
+[BlackID "4600711"]
+[BlackCountry "GER"]
+
+1. c4 Nf6 2. Nc3 c5 3. g3 d5 4. cxd5 Nxd5 5. Bg2 Nc7 6. d3 e5 7. f4 exf4 8.
+Bxf4 Be7 9. Qa4+ Nd7 10. Nf3 O-O 11. O-O Nb6 12. Qc2 Ne6 13. Bd2 Bd7 14. Ne5
+Be8 15. e3 Qc7 16. Nc4 Bg5 17. Rf5 Rd8 18. Raf1 g6 19. Nxb6 gxf5 20. Nbd5 Qe5
+21. d4 cxd4 22. Rxf5 Qg7 23. Ne4 f6 24. Nxg5 Nxg5 25. Qc4 Kh8 26. exd4 Bg6 27.
+Rf4 Bf7 28. Qb5 Bxd5 29. Bxd5 Nh3+ 30. Kg2 Nxf4+ 31. Bxf4 Qd7 32. Qxd7 Rxd7 33.
+Bf3 Rxd4 34. Bxb7 Rxf4 35. gxf4 Rb8 36. Bd5 Rxb2+ 37. Kg3 Kg7 38. f5 Kf8 39. h4
+Ke7 40. Kg4 Kd6 41. Be6 Ke5 42. Kh5 Rh2 43. Kg4 a5 44. Kg3 Rh1 45. Kg4 a4 46.
+Bd7 a3 47. Be6 Rf1 48. Kh5 Rxf5+ 49. Bxf5 Kxf5 50. Kh6 Ke6 51. Kxh7 f5 52. h5
+f4 53. h6 f3 54. Kg8 f2 55. h7 f1=Q 56. h8=Q Qf7# 0-1

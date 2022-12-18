@@ -1,0 +1,20 @@
+[Event "corr Wcup3"]
+[Site "corr Wcup3"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Luft, Andreas"]
+[Black "Kagan"]
+[Result "1/2-1/2"]
+[ECO "E41"]
+[Opening "Nimzo-Indian"]
+[Variation "e3, Huebner variation"]
+[HashCode "71347728"]
+[Epoch "Rook"]
+[WhiteID "4619188"]
+[WhiteCountry "GER"]
+
+1. d4 e6 2. c4 Nf6 3. Nc3 Bb4 4. e3 c5 5. Bd3 Nc6 6. Nf3 Bxc3+ 7. bxc3 d6 8. e4
+e5 9. d5 Ne7 10. Nd2 Qc7 11. Nf1 h6 12. Ne3 Bd7 13. a4 O-O-O 14. a5 Kb8 15. h4
+h5 16. f3 g6 17. Bd2 Nfg8 18. Qc2 Rf8 19. a6 b6 20. O-O f5 21. f4 exf4 22. Rxf4
+Nh6 23. Raf1 Qc8 24. Be1 fxe4 25. Bxe4 Rxf4 26. Rxf4 Bf5 27. Qa4 Bd7 28. Qc2
+Nef5 1/2-1/2

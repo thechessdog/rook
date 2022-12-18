@@ -1,0 +1,24 @@
+[Event "BL2-N 8182"]
+[Site "BL2-N 8182"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Lieb, Harald"]
+[Black "Breyther, Ruediger"]
+[Result "0-1"]
+[ECO "E30"]
+[Opening "Nimzo-Indian"]
+[Variation "Leningrad variation"]
+[HashCode "d5d17a6c"]
+[Epoch "Rook"]
+[WhiteID "4604814"]
+[WhiteCountry "GER"]
+[BlackID "4601211"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Bg5 h6 5. Bh4 c5 6. d5 Bxc3+ 7. bxc3 d6 8. f3
+e5 9. e4 Nbd7 10. Qa4 Ke7 11. Bd3 g5 12. Bf2 Nf8 13. Ne2 Ng6 14. g3 Bh3 15. Rg1
+Bd7 16. Qa3 Qc7 17. Kd2 Rhb8 18. Rab1 a6 19. Be3 b5 20. Nc1 bxc4 21. Rxb8 Rxb8
+22. Bxc4 Bb5 23. Bd3 Bxd3 24. Nxd3 g4 25. Ke2 gxf3+ 26. Kxf3 Nxe4 27. Kxe4 f5+
+28. Kxf5 Qd7+ 29. Ke4 Qg4+ 30. Nf4 exf4 31. gxf4 Qe2 32. Rxg6 Qc2+ 33. Kf3 Qxg6
+34. Qxa6 Qh5+ 35. Ke4 Re8 36. Qc6 Kf7+ 37. Kd3 Qd1+ 38. Bd2 Qb1+ 39. Kc4 Re4#
+0-1

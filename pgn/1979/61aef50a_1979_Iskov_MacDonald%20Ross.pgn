@@ -1,0 +1,19 @@
+[Event "Ramsgate"]
+[Site "Ramsgate"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Iskov, Gert"]
+[Black "MacDonald Ross, Mic"]
+[Result "1-0"]
+[ECO "B10"]
+[Opening "Caro-Kann"]
+[Variation "anti-Caro-Kann defence"]
+[HashCode "61aef50a"]
+[Epoch "Rook"]
+[WhiteID "1400398"]
+[WhiteCountry "DEN"]
+
+1. e4 c6 2. c4 e5 3. Nc3 Nf6 4. f4 d5 5. fxe5 Nxe4 6. Nf3 Be7 7. d4 O-O 8. Bd3
+f5 9. Qb3 Nxc3 10. bxc3 Be6 11. O-O b6 12. a4 Na6 13. cxd5 Bxd5 14. Qc2 Nb4 15.
+cxb4 Bxf3 16. gxf3 Qxd4+ 17. Kg2 Qxa1 18. Bb2 Qxf1+ 19. Kxf1 Kh8 20. e6 Bxb4
+21. Qg2 Rg8 22. Bxf5 1-0

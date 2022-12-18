@@ -1,0 +1,18 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Romanishin, Oleg M"]
+[Black "Petrosian, Tigran"]
+[Result "1-0"]
+[ECO "B17"]
+[Opening "Caro-Kann"]
+[Variation "Steinitz variation"]
+[HashCode "d309b715"]
+[Epoch "Rook"]
+[WhiteID "14100088"]
+[WhiteCountry "UKR"]
+[BlackCountry "GEO"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Ne2 Ngf6 6. N2g3 g6 7. Bc4 Bg7 8.
+c3 O-O 9. O-O Nd5 10. Re1 e5 11. Bg5 f6 12. Bd2 exd4 13. cxd4 1-0

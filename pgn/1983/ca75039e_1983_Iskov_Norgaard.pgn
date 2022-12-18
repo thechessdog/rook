@@ -1,0 +1,25 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1983.01.01"]
+[Round "4"]
+[White "Iskov, Gert"]
+[Black "Norgaard, Jesper"]
+[Result "1-0"]
+[ECO "C85"]
+[Opening "Ruy Lopez"]
+[Variation "Exchange variation doubly deferred (DERLD)"]
+[HashCode "ca75039e"]
+[Epoch "Rook"]
+[WhiteID "1400398"]
+[BlackID "1400517"]
+[WhiteCountry "DEN"]
+[BlackCountry "DEN"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Bxc6 dxc6 7. d3 Nd7 8.
+Nbd2 O-O 9. Nc4 f6 10. Nh4 Nc5 11. Nf5 Bxf5 12. exf5 Qd5 13. Qg4 e4 14. Re1 Rf7
+15. b4 Na4 16. Rxe4 Nc3 17. Re6 Bxb4 18. Bb2 Na4 19. Ne3 Qb5 20. Re4 Bd6 21.
+Bd4 Nc5 22. a4 Qb4 23. Bxc5 Qxc5 24. Qh3 Re7 25. Rh4 h6 26. Ng4 Qc3 27. Rf1 Re1
+28. Nxf6+ Kf7 29. Ne4 Rxf1+ 30. Kxf1 Qxc2 31. Nxd6+ cxd6 32. Re4 Qc1+ 33. Re1
+Qc3 34. Qe3 Kg8 35. Qe6+ Kh8 36. Qxd6 b5 37. d4 Qd3+ 38. Kg1 Qxf5 39. Qxc6 Rf8
+40. f3 Qf4 41. Re4 Qb8 42. Qxa6 b4 43. Qb5 Qa8 44. Qxb4 Rb8 45. Qc4 Rb1+ 46.
+Kf2 Qb8 47. g3 Rb2+ 48. Re2 1-0

@@ -1,0 +1,15 @@
+[Event "Den Bosch"]
+[Site "Den Bosch"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Van Oostrum, Henk"]
+[Black "Rohner, Eric"]
+[Result "1-0"]
+[ECO "C27"]
+[Opening "Boden-Kieseritsky gambit"]
+[HashCode "9f2766a5"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Bc4 Nf6 3. Nf3 Nxe4 4. Nc3 Nxc3 5. dxc3 e4 6. Ng5 Bc5 7. Bxf7+
+Kf8 8. Ne6+ Kxf7 9. Nxd8+ Rxd8 10. Qd5+ 1-0
+

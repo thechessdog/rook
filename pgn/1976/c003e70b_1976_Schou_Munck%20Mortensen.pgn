@@ -1,0 +1,25 @@
+[Event "Denmark"]
+[Site "Denmark"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Schou, Steen"]
+[Black "Munck Mortensen, Pe"]
+[Result "0-1"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "classical variation (5.Bf4)"]
+[HashCode "c003e70b"]
+[Epoch "Rook"]
+[WhiteID "1422480"]
+[WhiteCountry "DEN"]
+
+1. d4 Nf6 2. Nf3 d5 3. c4 e6 4. Nc3 Be7 5. Bf4 O-O 6. e3 Nbd7 7. Rc1 c6 8. Bd3
+Re8 9. O-O a6 10. Ne5 Nxe5 11. dxe5 Nd7 12. cxd5 exd5 13. Nxd5 Nxe5 14. Bxe5
+Qxd5 15. Bd4 Be6 16. Qc2 Qh5 17. f4 c5 18. Bc3 f5 19. Rf3 c4 20. Be2 Qf7 21.
+Rg3 g6 22. Bf3 Bd5 23. Bxd5 Qxd5 24. Rd1 Qe6 25. Bd4 b5 26. b3 Rac8 27. bxc4
+Qxc4 28. Qxc4+ Rxc4 29. Rf3 Rec8 30. Rf2 Rc1 31. Rxc1 Rxc1+ 32. Rf1 Rxf1+ 33.
+Kxf1 Kf7 34. Ke2 Ke6 35. Kd3 Kd5 36. h3 h5 37. Bb2 Bf8 38. Bd4 Ba3 39. Bc3 b4
+40. Bd4 a5 41. Bf6 Bc1 42. Be7 Bb2 43. Kc2 Bc3 44. Kd3 Bg7 45. g4 Ba1 46. g5
+Bg7 47. Bf6 Bf8 48. Bd4 a4 49. Bf6 b3 50. Bb2 Be7 51. axb3 axb3 52. Bc1 Bb4 53.
+Bb2 Bf8 54. Bf6 Ba3 55. Bd4 Bc1 56. Kc3 b2 57. Kc2 Ke4 58. h4 Bxe3 59. Bxb2
+Bxf4 0-1

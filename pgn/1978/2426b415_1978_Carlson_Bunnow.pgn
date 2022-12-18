@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Carlson, Curtis"]
+[Black "Bunnow"]
+[Result "1-0"]
+[ECO "B06"]
+[Opening "Robatsch defence"]
+[Variation "Pseudo-Austrian attack"]
+[HashCode "2426b415"]
+[Epoch "Rook"]
+[WhiteID "2002868"]
+[WhiteCountry "USA"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. f4 Nf6 5. Nf3 Bg4 6. h3 Bxf3 7. Qxf3 O-O 8. e5
+dxe5 9. dxe5 Nfd7 10. Qxb7 Nb6 11. Be3 N8d7 12. O-O-O e6 13. Bb5 Qb8 14. Qa6
+Qe8 15. Rxd7 Nxd7 16. Rd1 Nb8 17. Qb7 c6 18. Ba4 Qc8 19. Qxa8 a6 20. Bc5 Re8
+21. Ne4 1-0

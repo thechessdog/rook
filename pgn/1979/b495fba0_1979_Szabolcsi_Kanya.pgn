@@ -1,0 +1,23 @@
+[Event "Salgotarjan"]
+[Site "Salgotarjan"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Szabolcsi, Janos"]
+[Black "Kanya, Zoltan"]
+[Result "1-0"]
+[ECO "A62"]
+[Opening "Benoni"]
+[Variation "fianchetto variation"]
+[HashCode "b495fba0"]
+[Epoch "Rook"]
+[WhiteID "701270"]
+[WhiteCountry "HUN"]
+[BlackID "715956"]
+[BlackCountry "HUN"]
+
+1. d4 Nf6 2. c4 e6 3. g3 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. Bg2 Bg7 8. Nf3
+O-O 9. Nd2 a6 10. a4 Nbd7 11. Nc4 Nb6 12. Na3 Bd7 13. O-O Rb8 14. a5 Nc8 15.
+Nc4 Bb5 16. Qb3 Bxc4 17. Qxc4 Nd7 18. Bd2 Re8 19. e4 Ne5 20. Qe2 f6 21. f4 Nd7
+22. h4 f5 23. Qd3 fxe4 24. Nxe4 b5 25. Bh3 c4 26. Qc2 Nc5 27. Ng5 Bd4+ 28. Kh1
+Qf6 29. f5 Ne7 30. Ra3 Nd3 31. fxg6 Qxg6 32. Be6+ Kh8 33. Nf7+ Kg7 34. Bh6+ Kg8
+35. Nxd6+ Kh8 36. Nf7+ Kg8 37. Ne5+ Qxe6 38. dxe6 1-0

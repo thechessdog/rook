@@ -1,0 +1,24 @@
+[Event "Berlin op"]
+[Site "Berlin-West"]
+[Date "1984.01.01"]
+[Round "8"]
+[White "Rigo, Janos"]
+[Black "Brunner, Lucas"]
+[Result "1-0"]
+[ECO "C00"]
+[Opening "French"]
+[Variation "Two knights variation"]
+[HashCode "688effc5"]
+[Epoch "Rook"]
+[BlackID "1300024"]
+[BlackCountry "SUI"]
+[WhiteID "700371"]
+[WhiteCountry "HUN"]
+
+1. e4 e6 2. Nf3 d5 3. Nc3 Nf6 4. e5 Nfd7 5. d4 c5 6. dxc5 Nc6 7. Bf4 Bxc5 8.
+Bd3 f6 9. exf6 Nxf6 10. O-O O-O 11. Qe2 Nh5 12. Bg5 Qc7 13. Nb5 Qb8 14. Nfd4
+Nxd4 15. Qxh5 Nf5 16. c4 Bd7 17. Nc3 Bc6 18. Rae1 g6 19. Qe2 Nd4 20. Qg4 dxc4
+21. Bxc4 Qd6 22. Bxe6+ Kh8 23. Bc4 Bxg2 24. Kxg2 Nf3 25. Qxf3 Rxf3 26. Kxf3
+Rf8+ 27. Kg2 Qd4 28. Re4 Rxf2+ 29. Kh3 Qd7+ 30. Kg3 Rxf1 31. Bxf1 Qf5 32. Bf4
+Bd6 33. Bxd6 Qxf1 34. Re8+ Kg7 35. Re7+ Kg8 36. Ne4 Qg1+ 37. Kh4 Qe1+ 38. Kg5
+Qc1+ 39. Bf4 Qc6 40. Re8+ 1-0

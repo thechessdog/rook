@@ -1,0 +1,19 @@
+[Event "Poznan ch-POL"]
+[Site "Poznan ch-POL"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Ksieski, Zbigniew"]
+[Black "Sydor, Andrzej"]
+[Result "1/2-1/2"]
+[ECO "D64"]
+[Opening "QGD"]
+[Variation "Orthodox defence, Rubinstein attack (with Rc1)"]
+[HashCode "0feec596"]
+[Epoch "Rook"]
+[WhiteID "1100564"]
+[WhiteCountry "POL"]
+[BlackID "1100475"]
+[BlackCountry "POL"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. Bg5 Nbd7 6. e3 c6 7. Qc2 O-O 8. Rc1
+h6 9. Bh4 a6 10. a3 dxc4 11. Bxc4 b5 12. Ba2 c5 1/2-1/2

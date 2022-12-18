@@ -1,0 +1,17 @@
+[Event "Baden-Baden op"]
+[Site "Baden-Baden op"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "NN"]
+[Black "Diemer, Emil Josef"]
+[Result "0-1"]
+[ECO "A04"]
+[Opening "Reti"]
+[Variation "Herrstroem gambit"]
+[HashCode "19ecfeec"]
+[Epoch "Rook"]
+[BlackCountry "DEU"]
+
+1. Nf3 g5 2. Nxg5 e5 3. d4 h6 4. Nf3 e4 5. Ne5 d6 6. Nc4 b5 7. Ne3 d5 8. c4
+bxc4 9. Nc3 c6 10. g3 Ne7 11. Ng2 f5 12. Bf4 Bg7 13. f3 Qb6 14. e3 Qxb2 15. Rc1
+exf3 16. Nh4 f2# 0-1

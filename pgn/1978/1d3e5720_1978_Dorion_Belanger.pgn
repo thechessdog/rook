@@ -1,0 +1,21 @@
+[Event "St Jean"]
+[Site "St Jean"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Dorion, Francois"]
+[Black "Belanger, Jacques"]
+[Result "1-0"]
+[ECO "E76"]
+[Opening "King's Indian"]
+[Variation "Four pawns attack, dynamic line"]
+[HashCode "1d3e5720"]
+[Epoch "Rook"]
+[WhiteID "2622238"]
+[BlackID "2009773"]
+[WhiteCountry "CAN"]
+[BlackCountry "USA"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f4 O-O 6. Nf3 c5 7. d5 e6 8. Bd3 exd5
+9. cxd5 b6 10. O-O Ba6 11. Re1 Bb7 12. Bc4 a6 13. e5 Ng4 14. a4 dxe5 15. fxe5
+Nd7 16. e6 Nde5 17. Nxe5 Nxe5 18. Bf4 Nxc4 19. e7 Qd7 20. exf8=Q+ Rxf8 21. Qe2
+Bd4+ 22. Kh1 Nd6 23. Qe7 1-0

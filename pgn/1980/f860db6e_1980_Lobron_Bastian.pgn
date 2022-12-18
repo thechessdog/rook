@@ -1,0 +1,24 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Lobron, Eric"]
+[Black "Bastian"]
+[Result "1-0"]
+[ECO "B25"]
+[Opening "Sicilian"]
+[Variation "closed, 6.f4"]
+[HashCode "f860db6e"]
+[Epoch "Rook"]
+[WhiteID "4600037"]
+[WhiteCountry "GER"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. f4 e6 7. Nf3 Nge7 8. O-O
+O-O 9. Be3 b6 10. Qd2 d5 11. exd5 exd5 12. Bf2 d4 13. Nb5 Rb8 14. Rae1 a6 15.
+Na3 b5 16. Re2 Be6 17. c4 bxc4 18. Nxc4 Bxc4 19. dxc4 d3 20. Re3 Rxb2 21. Qxd3
+Nf5 22. Qxd8 Rxd8 23. Ra3 Nb4 24. Bxc5 Nc2 25. Rb3 Rxa2 26. Rfb1 Bf8 27. Bf2
+Nce3 28. Bh3 Nxc4 29. Bxf5 gxf5 30. Rb8 Rxb8 31. Rxb8 Rb2 32. Ra8 Rb1+ 33. Kg2
+Rb2 34. Nd4 Nd6 35. Kf3 Ne4 36. Be3 Nd2+ 37. Bxd2 Rxd2 38. Nxf5 Ra2 39. Kg4
+Rxh2 40. Kg5 Rc2 41. Nh6+ Kg7 42. Nf5+ Kg8 43. Nh6+ Kg7 44. Ra7 Rc8 45. f5 a5
+46. g4 Bb4 47. f6+ Kh8 48. Nxf7+ Kg8 49. Nh6+ Kh8 50. Kh5 Bc3 51. g5 Rf8 52.
+Rg7 1-0

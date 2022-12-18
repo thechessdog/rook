@@ -1,0 +1,22 @@
+[Event "Bourgoin-Jaillien"]
+[Site "Bourgoin-Jaillien"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Andruet, Gilles"]
+[Black "Stoica, Valentin"]
+[Result "0-1"]
+[ECO "E15"]
+[Opening "Queen's Indian"]
+[Variation "Nimzovich variation (exaggerated fianchetto)"]
+[HashCode "644022f2"]
+[Epoch "Rook"]
+[WhiteCountry "FRA"]
+[BlackID "1200070"]
+[BlackCountry "ROU"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. b3 Bb4+ 6. Bd2 Be7 7. Bg2 c6 8. O-O
+d5 9. Bc3 Nbd7 10. Nbd2 Rc8 11. Re1 c5 12. e4 cxd4 13. Nxd4 e5 14. Nf5 d4 15.
+Bxd4 exd4 16. e5 Ng8 17. Nxg7+ Kf8 18. Nf5 Nc5 19. b4 Nd3 20. Qg4 Bg5 21. b5
+Nxe1 22. Rxe1 Nh6 23. Nxh6 Bxd2 24. Nf5 Rg8 25. Qh3 Bxe1 26. Qh6+ Ke8 27. Nd6+
+Kd7 28. bxa6 Rg6 29. Bh3+ Kc7 30. Nb5+ Kb8 31. Qf4 Qg5 32. Qxf7 Rg7 33. Qd5
+Bxf2+ 34. Kxf2 Rf8+ 35. Ke2 Rd8 36. Nd6 Qh5+ 0-1

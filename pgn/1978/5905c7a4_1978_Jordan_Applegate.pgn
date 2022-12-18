@@ -1,0 +1,17 @@
+[Event "Ohio HS Indiv"]
+[Site "Ohio HS Indiv"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Jordan, James"]
+[Black "Applegate"]
+[Result "1-0"]
+[ECO "C43"]
+[Opening "Petrov"]
+[Variation "modern attack, Symmetrical variation"]
+[HashCode "5905c7a4"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nf6 3. d4 Nxe4 4. Bd3 d5 5. dxe5 Nc6 6. O-O Bg4 7. Bf4 f6
+8. Bb5 g5 9. Bg3 Nxg3 10. fxg3 Bc5+ 11. Kh1 fxe5 12. h3 Bxf3 13. Qxf3 Qd6
+14. Qh5+ Qg6 15. Qxg6+ hxg6 16. Rf6 Rf8 17. Rxg6 Rf1+ 18. Bxf1 1-0
+

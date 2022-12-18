@@ -1,0 +1,23 @@
+[Event "Helsinki"]
+[Site "Helsinki"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Salonen, Jyrki"]
+[Black "Farago, Ivan"]
+[Result "0-1"]
+[ECO "C15"]
+[Opening "French"]
+[Variation "Winawer, Alekhine (Maroczy) gambit"]
+[HashCode "7f63801b"]
+[Epoch "Rook"]
+[WhiteID "500445"]
+[BlackID "700134"]
+[WhiteCountry "FIN"]
+[BlackCountry "HUN"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. Ne2 dxe4 5. a3 Be7 6. Nxe4 Nc6 7. Bf4 Nf6 8.
+Qd3 O-O 9. O-O-O b6 10. h4 Bb7 11. Ng5 e5 12. Bg3 Bd6 13. d5 Ne7 14. c4 h6 15.
+Nc3 Bc8 16. Nf3 Ng4 17. Nh2 Nxh2 18. Bxh2 Ng6 19. Bg3 f5 20. f3 Qe7 21. Qd2 Bd7
+22. Re1 Qf6 23. Bd3 a6 24. Bf2 Nf4 25. Bf1 Rae8 26. g3 Nh5 27. Be2 e4 28. fxe4
+Nxg3 29. Rhg1 Qxh4 30. e5 Bxe5 31. Bf3 Bf4 32. Be3 Rxe3 33. Rxe3 Re8 34. Rxe8+
+Bxe8 0-1

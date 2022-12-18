@@ -1,0 +1,19 @@
+[Event "corr ch-CSSR"]
+[Site "corr ch-CSSR"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Houdek"]
+[Black "Melicharek"]
+[Result "0-1"]
+[ECO "B46"]
+[Opening "Sicilian"]
+[Variation "Taimanov variation"]
+[HashCode "419da9ad"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 Nc6 6. Be2 Qc7 7. O-O Nf6
+8. Be3 Bb4 9. f3 Ne7 10. Qe1 Bxc3 11. Qxc3 Qxc3 12. bxc3 d5 13. e5 Nd7 14.
+f4 Nb8 15. Nb3 O-O 16. Nc5 Nbc6 17. Na4 b5 18. Nb6 Rb8 19. Bc5 Rd8 20. a4
+bxa4 21. Rxa4 a5 22. Rb1 d4 23. Bd6 Rxd6 24. exd6 Nd5 25. Nxd5 Rxb1+ 26.
+Kf2 exd5 27. cxd4 Rb4 28. Rxb4 Nxb4 29. c3 a4 0-1
+

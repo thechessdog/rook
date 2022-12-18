@@ -1,0 +1,17 @@
+[Event "Salgotarjan"]
+[Site "Salgotarjan"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Bakos, S."]
+[Black "Klepej, J."]
+[Result "0-1"]
+[ECO "B03"]
+[Opening "Alekhine's defence"]
+[Variation "four pawns attack, 7.Be3"]
+[HashCode "9025985d"]
+[Epoch "Rook"]
+
+1. e4 Nf6 2. e5 Nd5 3. c4 Nb6 4. d4 d6 5. f4 dxe5 6. fxe5 Nc6 7. Be3 Bf5 8. Nc3
+e6 9. Nf3 Bb4 10. Bd3 Bg4 11. O-O Nxd4 12. Bxd4 Bxf3 13. Qxf3 Qxd4+ 14. Kh1
+O-O-O 15. Be4 c6 16. Bxc6 bxc6 17. Qxc6+ Kb8 18. Rxf7 Rd7 19. Qxe6 Rxf7 20.
+Qxf7 Qxe5 21. Nb5 Nc8 22. Rd1 Rd8 23. Rf1 Rf8 0-1

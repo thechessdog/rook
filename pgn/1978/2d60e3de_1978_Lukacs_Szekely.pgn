@@ -1,0 +1,19 @@
+[Event "HUN-ch"]
+[Site "Budapest"]
+[Date "1978.??.??"]
+[Round "?"]
+[White "Lukacs, Peter"]
+[Black "Szekely, Peter"]
+[Result "1/2-1/2"]
+[ECO "E52"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line with ...b6"]
+[HashCode "2d60e3de"]
+[Epoch "Rook"]
+[WhiteID "700142"]
+[BlackID "14937492"]
+[WhiteCountry "HUN"]
+[BlackCountry "SVK"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 b6 7. O-O Bb7 8. cxd5
+exd5 9. Ne5 Nbd7 10. Bd2 Nxe5 11. dxe5 Nd7 12. e6 Nf6 13. exf7+ 1/2-1/2

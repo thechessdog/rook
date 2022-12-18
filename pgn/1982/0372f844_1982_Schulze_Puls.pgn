@@ -1,0 +1,19 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Schulze, P."]
+[Black "Puls, G."]
+[Result "1-0"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance variation"]
+[HashCode "0372f844"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. f4 cxd4 5. Bd3 Nc6 6. Nf3 Bc5 7. a3 a6 8. b4
+Bb6 9. Nbd2 f6 10. Nb3 Nh6 11. Bb2 fxe5 12. fxe5 Nf7 13. O-O Bc7 14. Nbxd4
+Nxd4 15. Bxd4 Bb6 16. Qe2 Bxd4+ 17. Nxd4 Qe7 18. Rac1 b5 19. Rf4 Qg5 20.
+Rcf1 Qxe5 21. Nxb5 Qxe2 22. Bxe2 O-O 23. Nd6 Ra7 24. c4 e5 25. Rxf7 Raxf7
+26. Rxf7 Rxf7 27. Nxc8 Rc7 28. Nd6 dxc4 29. Nxc4 e4 30. Kf2 1-0
+

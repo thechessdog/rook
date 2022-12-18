@@ -1,0 +1,17 @@
+[Event "Dayton,OH"]
+[Site "Dayton,OH"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Wall, Bill"]
+[Black "Campelli, Cris"]
+[Result "1-0"]
+[ECO "A46"]
+[Opening "Queen's pawn"]
+[Variation "Yusupov-Rubinstein system"]
+[HashCode "dfe85f4b"]
+[Epoch "Rook"]
+[WhiteCountry "USA"]
+
+1. d4 Nf6 2. Nf3 e6 3. e3 c5 4. c4 cxd4 5. exd4 Be7 6. Bd3 d6 7. Nc3 O-O 8. h4
+Qc7 9. Bf4 a6 10. Rc1 Nbd7 11. c5 e5 12. cxd6 Qxd6 13. dxe5 Qb4 14. exf6 Qxf4
+15. fxe7 Re8 16. O-O Rxe7 17. Nd5 1-0

@@ -1,0 +1,18 @@
+[Event "corr EU/M"]
+[Site "corr EU/M"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Savostianoff, E."]
+[Black "Axelson, A."]
+[Result "1-0"]
+[ECO "A19"]
+[Opening "English"]
+[Variation "Mikenas-Carls, Sicilian variation"]
+[HashCode "3a4a9f84"]
+[Epoch "Rook"]
+
+1. c4 Nf6 2. Nc3 e6 3. e4 c5 4. e5 Ng8 5. Nf3 Nc6 6. d4 cxd4 7. Nxd4 a6 8.
+Nxc6 bxc6 9. Bf4 Bb4 10. Rc1 Ne7 11. a3 Ba5 12. Bd3 Ng6 13. Bg3 Bc7 14. Qh5
+O-O 15. Ne4 a5 16. Ng5 h6 17. Nxf7 Nf4 18. Nxh6+ gxh6 19. Bxf4 Rxf4 20.
+Qg6+ Kf8 21. Qxh6+ 1-0
+

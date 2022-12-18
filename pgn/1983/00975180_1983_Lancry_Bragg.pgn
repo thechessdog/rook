@@ -1,0 +1,17 @@
+[Event "Dayton,OH"]
+[Site "Dayton,OH"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Lancry"]
+[Black "Bragg"]
+[Result "1-0"]
+[ECO "C17"]
+[Opening "French"]
+[Variation "Winawer, advance, 5.a3"]
+[HashCode "00975180"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 cxd4 6. axb4 dxc3 7. bxc3 Qc7
+8. Qd4 Nc6 9. Bb5 Ne7 10. f4 Bd7 11. Qd3 O-O 12. Nf3 Rfc8 13. O-O Nxe5 14.
+fxe5 Qb6+ 15. Nd4 1-0
+

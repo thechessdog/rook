@@ -1,0 +1,15 @@
+[Event "corr NS/III"]
+[Site "corr NS/III"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Saarinen, Lauri"]
+[Black "Kainulainen, Pentti"]
+[Result "0-1"]
+[ECO "A51"]
+[Opening "Budapest defence declined"]
+[HashCode "aca3d782"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e5 3. e3 exd4 4. exd4 Bb4+ 5. Bd2 Bxd2+ 6. Nxd2 O-O 7. Bd3
+d5 8. Ngf3 Re8+ 9. Ne5 Nc6 0-1
+

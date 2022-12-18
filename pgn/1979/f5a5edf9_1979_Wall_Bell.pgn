@@ -1,0 +1,16 @@
+[Event "Statesville,NC"]
+[Site "Statesville,NC"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Wall, Bill"]
+[Black "Bell, Ray"]
+[Result "1-0"]
+[ECO "C35"]
+[Opening "KGA"]
+[Variation "Cunningham, Bertin gambit"]
+[HashCode "f5a5edf9"]
+[Epoch "Rook"]
+[WhiteCountry "USA"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 Be7 4. Bc4 Bh4+ 5. g3 fxg3 6. O-O d5 7. exd5 gxh2+
+8. Kh1 Bg4 9. Qe2+ Ne7 10. Bb5+ c6 11. dxc6 1-0

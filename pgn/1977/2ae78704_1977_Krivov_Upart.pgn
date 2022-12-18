@@ -1,0 +1,18 @@
+[Event "Minsk"]
+[Site "Minsk"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Krivov"]
+[Black "Upart"]
+[Result "1-0"]
+[ECO "B89"]
+[Opening "Sicilian"]
+[Variation "Velimirovic attack"]
+[HashCode "2ae78704"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bc4 e6 7. Be3 Be7
+8. Qe2 a6 9. O-O-O Qc7 10. Rhg1 O-O 11. g4 Nd7 12. g5 Nc5 13. Qh5 g6 14.
+Qh6 Re8 15. Rg3 Bf8 16. Qh4 b5 17. Bd5 Bb7 18. Nxc6 Bxc6 19. Bd4 h5 20.
+gxh6 Kh7 21. Bxc6 Qxc6 22. Qf6 Bxh6+ 23. Kb1 1-0
+

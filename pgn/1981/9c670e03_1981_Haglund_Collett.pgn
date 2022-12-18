@@ -1,0 +1,14 @@
+[Event "corr ch-SWE"]
+[Site "corr ch-SWE"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Haglund, Kjell"]
+[Black "Collett, John"]
+[Result "0-1"]
+[ECO "B15"]
+[Opening "Caro-Kann defence"]
+[HashCode "9c670e03"]
+[Epoch "Rook"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Bg5 Nxe4 0-1
+

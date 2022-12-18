@@ -1,0 +1,20 @@
+[Event "Odense"]
+[Site "Odense"]
+[Date "1980.01.01"]
+[Round "5"]
+[White "Fedder, Steen"]
+[Black "Pedersen, Erik"]
+[Result "1/2-1/2"]
+[ECO "A67"]
+[Opening "Benoni"]
+[Variation "Taimanov variation"]
+[HashCode "42bc816c"]
+[Epoch "Rook"]
+[WhiteID "1400126"]
+[BlackID "1404997"]
+[WhiteCountry "DEN"]
+[BlackCountry "DEN"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. f4 Bg7 8. Bb5+
+Nfd7 9. a4 O-O 10. Nf3 a6 11. Bd3 Nf6 12. O-O Bg4 13. Be3 Nbd7 14. h3 Bxf3 15.
+Qxf3 Qa5 16. Qf2 Rfe8 1/2-1/2

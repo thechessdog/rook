@@ -1,0 +1,19 @@
+[Event "BFP KO"]
+[Site "BFP KO"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "De Coverly, Roger D"]
+[Black "Fell, R."]
+[Result "1-0"]
+[ECO "B98"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7...Be7"]
+[HashCode "7e9dec73"]
+[Epoch "Rook"]
+[WhiteID "405213"]
+[WhiteCountry "ENG"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3
+e5 9. Nf5 Bxf5 10. exf5 Nc6 11. O-O-O Qc7 12. Bxf6 Bxf6 13. Nd5 Qd8 14. Bd3 Rc8
+15. Kb1 O-O 16. g4 exf4 17. h4 Ne5 18. Qxf4 Bxh4 19. Qh2 Nxg4 20. Qxh4 Qxh4 21.
+Rxh4 Nf2 22. Rg1 Rfe8 23. Nf6+ Kh8 24. Rxh7# 1-0

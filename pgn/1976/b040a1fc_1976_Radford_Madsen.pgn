@@ -1,0 +1,17 @@
+[Event "Santa Monica"]
+[Site "Santa Monica"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Radford, M."]
+[Black "Madsen"]
+[Result "0-1"]
+[ECO "C57"]
+[Opening "two knights defence"]
+[Variation "Wilkes Barre (Traxler) variation"]
+[HashCode "b040a1fc"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 Bc5 5. Nxf7 Bxf2+ 6. Kf1 Qe7 7. Nxh8
+d5 8. Qf3 Bb6 9. Nc3 dxc4 10. Nd5 Nxd5 11. exd5 Nd4 12. Qh5+ Kf8 13. Ke1
+Nxc2+ 14. Kd1 Nxa1 15. Ng6+ hxg6 16. Qh8+ Kf7 17. Rf1+ Bf5 18. Qxa8 Qf6 0-1
+

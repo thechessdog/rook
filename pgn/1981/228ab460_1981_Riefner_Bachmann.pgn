@@ -1,0 +1,25 @@
+[Event "Bundesliga 8081"]
+[Site "Duitsland tt"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Riefner, Edwin"]
+[Black "Bachmann, Karlheinz"]
+[Result "1-0"]
+[ECO "B86"]
+[Opening "Sicilian"]
+[Variation "Sozin attack"]
+[HashCode "228ab460"]
+[Epoch "Rook"]
+[WhiteID "4607465"]
+[WhiteCountry "GER"]
+[BlackID "4602021"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bc4 a6 7. Bb3 Be7 8. O-O
+b5 9. a3 Bb7 10. Bxe6 fxe6 11. Nxe6 Qd7 12. Nxg7+ Kf7 13. Nf5 Rc8 14. Bf4 Rxc3
+15. bxc3 Bxe4 16. Nxe7 Qxe7 17. Re1 Qb7 18. Bxd6 Qd5 19. Qxd5+ Bxd5 20. a4 bxa4
+21. Rxa4 Nbd7 22. Re7+ Kg6 23. Be5 Nxe5 24. Rxe5 Bc6 25. Rf4 Re8 26. Rxe8 Bxe8
+27. Kf1 a5 28. Ke1 Nd5 29. Re4 Kf7 30. Re5 Bc6 31. c4 Nb4 32. Rxa5 Bxg2 33. f3
+Ke6 34. Rh5 Bxf3 35. Rxh7 Nxc2+ 36. Kd2 Nb4 37. Ke3 Bg2 38. Rh5 Nc6 39. Rg5 Bf1
+40. Rg6+ Kd7 41. c5 Bb5 42. h4 Ke7 43. h5 Ne5 44. Rg1 Nf7 45. Kd4 Be8 46. Kd5
+Nh6 47. Re1+ Kf8 1-0

@@ -1,0 +1,19 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Fluegge, G."]
+[Black "Braune, M."]
+[Result "1-0"]
+[ECO "B97"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Poisoned pawn variation"]
+[HashCode "263a4052"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qb6 8.
+Qd2 Qxb2 9. Rb1 Qa3 10. e5 dxe5 11. fxe5 Nfd7 12. Bc4 Bb4 13. Nxe6 Bxc3 14.
+Nxg7+ Kf8 15. O-O Qc5+ 16. Kh1 Qxc4 17. Qd6+ Kg8 18. Nf5 Bxe5 19. Ne7+ Kf8
+20. Ng6+ Kg8 21. Nxe5 Qe6 22. Qxe6 fxe6 23. Bh6 Nc6 24. Nxc6 bxc6 25. Rb3
+1-0
+

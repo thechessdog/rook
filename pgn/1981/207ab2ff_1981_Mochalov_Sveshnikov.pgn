@@ -1,0 +1,21 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Mochalov"]
+[Black "Sveshnikov"]
+[Result "1-0"]
+[ECO "D44"]
+[Opening "QGD semi-Slav"]
+[Variation "5.Bg5 dc"]
+[HashCode "207ab2ff"]
+[Epoch "Rook"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c6 4. Nf3 Nf6 5. Bg5 dxc4 6. a4 Bb4 7. e4 Bxc3+ 8.
+bxc3 Qa5 9. e5 Ne4 10. Bd2 Qd5 11. Be2 Nd7 12. O-O O-O 13. Qc2 f5 14. a5 b5
+15. axb6 Nxb6 16. Ng5 Nxd2 17. Qxd2 a5 18. Nf3 a4 19. Qb2 Qa5 20. Qa3 Ba6
+21. Rfc1 Qd5 22. Nd2 Bb5 23. Bf3 Qd7 24. Qc5 Ra6 25. Rcb1 Nd5 26. Nxc4 Nxc3
+27. Rc1 Nd5 28. Nd6 Rb8 29. h4 Nf4 30. Rcb1 g5 31. hxg5 Qd8 32. Nxb5 cxb5
+33. Rxb5 Rc8 34. Qa3 Ra7 35. Rc5 Rb8 36. Rac1 Rd7 37. Qxa4 Rxd4 38. Qa7 Ng6
+39. Rc7 Nf8 40. Rg7+ Kh8 41. Qf7 1-0
+

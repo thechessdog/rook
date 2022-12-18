@@ -1,0 +1,19 @@
+[Event "Sofia ch-BUL"]
+[Site "Sofia ch-BUL"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Danailov, Silvio"]
+[Black "Spassov, Liuben"]
+[Result "1/2-1/2"]
+[ECO "E00"]
+[Opening "Catalan opening"]
+[HashCode "7b40ece6"]
+[Epoch "Rook"]
+[WhiteID "2900114"]
+[WhiteCountry "FID"]
+[BlackID "2900220"]
+[BlackCountry "FID"]
+
+1. d4 Nf6 2. c4 e6 3. g3 Bb4+ 4. Nd2 d5 5. Bg2 O-O 6. Qc2 b6 7. Nf3 Bb7 8. a3
+Be7 9. cxd5 exd5 10. Ne5 c5 11. dxc5 bxc5 12. O-O Nbd7 13. Ndf3 d4 14. Nxd7
+Qxd7 15. Ne5 Qc8 16. Bxb7 Qxb7 17. Bg5 Nd5 18. Bxe7 1/2-1/2

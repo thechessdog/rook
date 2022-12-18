@@ -1,0 +1,17 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Scribner, A."]
+[Black "Posthoff, C."]
+[Result "1-0"]
+[ECO "C17"]
+[Opening "French"]
+[Variation "Winawer, advance, Bogolyubov variation"]
+[HashCode "6d7fb43a"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. Bd2 Ne7 6. dxc5 O-O 7. Bd3 Nbc6 8.
+Qh5 Ng6 9. Nf3 f6 10. exf6 Qxf6 11. O-O-O Nce7 12. Bg5 Qf7 13. Ne5 Qe8 14.
+Bxe7 Qxe7 15. Nxg6 1-0
+

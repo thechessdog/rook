@@ -1,0 +1,19 @@
+[Event "Plymouth ch-MI op"]
+[Site "Plymouth ch-MI op"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Johnson, Ty"]
+[Black "Bautista, L."]
+[Result "1-0"]
+[ECO "B41"]
+[Opening "Sicilian"]
+[Variation "Kan, Maroczy bind (Reti variation)"]
+[HashCode "4653640c"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. c4 Nf6 6. Nc3 Qc7 7. Be2 Nc6 8.
+O-O Be7 9. Be3 d6 10. a3 O-O 11. Rc1 Rd8 12. b4 Bd7 13. Nd5 exd5 14. cxd5
+Nxe4 15. Bf3 Ng5 16. dxc6 Nxf3+ 17. Qxf3 bxc6 18. Nxc6 Bxc6 19. Rxc6 Qd7
+20. Rfc1 Qe6 21. g3 Qb3 22. Rc7 Bf6 23. Qxa8 Rxa8 24. Rc8+ Bd8 25. Rxa8 h6
+26. Rxd8+ Kh7 1-0
+

@@ -1,0 +1,21 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Taborov, Boris"]
+[Black "Zaid, Leonid D"]
+[Result "0-1"]
+[ECO "B92"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Opovcensky variation"]
+[HashCode "cbef2680"]
+[Epoch "Rook"]
+[WhiteID "14100347"]
+[WhiteCountry "UKR"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 Nbd7 7. f4 e5 8. Nb3
+b5 9. O-O Bb7 10. Bf3 Be7 11. Kh1 O-O 12. a3 Rc8 13. Qe1 Re8 14. Qg3 Rxc3 15.
+bxc3 Nxe4 16. Qe1 Bh4 17. g3 exf4 18. Bxf4 Nxg3+ 19. hxg3 Bxf3+ 20. Rxf3 Rxe1+
+21. Rxe1 Bf6 22. Bxd6 h6 23. Kh2 Qb6 24. Bf4 Bxc3 25. Rd1 Nf6 26. Rxc3 Qf2+ 27.
+Kh3 g5 28. Bxg5 hxg5 29. Rd4 Qf1+ 30. Kh2 Qe2+ 31. Kh3 g4+ 32. Kh4 Kg7 33. Rc6
+Kg6 34. Rxf6+ Kxf6 35. Rf4+ Kg6 36. Rxg4+ Kh6 37. Rb4 Qh5# 0-1

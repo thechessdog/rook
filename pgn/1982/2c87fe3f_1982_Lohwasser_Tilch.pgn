@@ -1,0 +1,22 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Lohwasser, R."]
+[Black "Tilch, S."]
+[Result "0-1"]
+[ECO "E70"]
+[Opening "King's Indian"]
+[Variation "4.e4"]
+[HashCode "2c87fe3f"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Bd3 O-O 6. Nge2 Nc6 7. O-O e5 8.
+d5 Ne7 9. h3 Nd7 10. Bg5 h6 11. Be3 f5 12. exf5 Nxf5 13. Bxf5 gxf5 14. f4
+a6 15. Qd2 Qf6 16. fxe5 dxe5 17. Rad1 Qg6 18. Qc2 Nf6 19. Bc1 Bd7 20. b4
+Rae8 21. a4 Kh7 22. b5 Rg8 23. Rf3 Bf8 24. Rg3 Bc5+ 25. Kf1 Qf7 26. Rdd3 e4
+27. Qd2 Qh5 28. Rxg8 Nxg8 29. Rg3 Bd6 30. Nf4 Qf7 31. Nce2 Be5 32. Rg6 axb5
+33. axb5 Bf6 34. Rg3 Ra8 35. Ra3 Rxa3 36. Bxa3 Ne7 37. Qa5 Be5 38. b6 c6
+39. Qa8 Ng6 40. Nxg6 Kxg6 41. Qxb7 f4 42. dxc6 f3 43. cxd7 fxe2+ 44. Kxe2
+Qxc4+ 45. Kf2 Qd4+ 0-1
+

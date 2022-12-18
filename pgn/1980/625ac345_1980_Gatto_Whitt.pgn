@@ -1,0 +1,20 @@
+[Event "Region V"]
+[Site "Region V"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Gatto"]
+[Black "Whitt"]
+[Result "0-1"]
+[ECO "C07"]
+[Opening "French"]
+[Variation "Tarrasch, open variation"]
+[HashCode "625ac345"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. Ngf3 cxd4 5. Nxd4 Bc5 6. N4b3 Bb6 7. Bd3 Nf6
+8. O-O dxe4 9. Nxe4 Nxe4 10. Bxe4 Bxf2+ 11. Kxf2 Qh4+ 12. Ke3 Qxh2 13. Qf3
+Qc7 14. Bd2 f5 15. Bd3 O-O 16. g4 Qe5+ 17. Kf2 Nc6 18. gxf5 Ne7 19. Bc3
+Qh2+ 20. Ke1 Qh4+ 21. Ke2 Nxf5 22. Bxf5 Rxf5 23. Qg2 Rg5 24. Qf3 Rf5 25.
+Rh1 Qc4+ 26. Qd3 Qg4+ 27. Ke1 Qg2 28. Qd8+ Kf7 29. Qc7+ Ke8 30. Qxg7 Qxh1+
+31. Ke2 Qe4+ 32. Kd1 Rf1+ 33. Kd2 Rf2+ 0-1
+

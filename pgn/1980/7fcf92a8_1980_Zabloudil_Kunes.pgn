@@ -1,0 +1,18 @@
+[Event "corr CSSR"]
+[Site "corr CSSR"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Zabloudil"]
+[Black "Kunes"]
+[Result "1-0"]
+[ECO "C43"]
+[Opening "Petrov"]
+[Variation "modern attack, Symmetrical variation"]
+[HashCode "7fcf92a8"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nf6 3. d4 Nxe4 4. Bd3 d5 5. Nxe5 Be7 6. Nd2 Nd6 7. O-O Bf5
+8. Bxf5 Nxf5 9. Qf3 g6 10. g4 Nh6 11. Nb3 g5 12. Qh3 Qd6 13. f4 Rg8 14.
+fxg5 Bxg5 15. Bxg5 Rxg5 16. Rae1 Kf8 17. Nxf7 Nxf7 18. Rxf7+ Kxf7 19. Qxh7+
+1-0
+

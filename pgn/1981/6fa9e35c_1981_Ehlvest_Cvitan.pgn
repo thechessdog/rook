@@ -1,0 +1,23 @@
+[Event "Mexico"]
+[Site "Mexico"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Ehlvest, Jaan"]
+[Black "Cvitan, Ognjen"]
+[Result "1-0"]
+[ECO "B93"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.f4"]
+[HashCode "6fa9e35c"]
+[Epoch "Rook"]
+[BlackID "14500086"]
+[BlackCountry "CRO"]
+[WhiteID "4500016"]
+[WhiteCountry "USA"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 e5 7. Nf3 Qc7 8. Bd3
+Be7 9. O-O O-O 10. Kh1 b5 11. a3 Be6 12. Nh4 exf4 13. Bxf4 Nbd7 14. Bg3 g6 15.
+Nf3 Ne5 16. Nd4 Rad8 17. h3 Qc5 18. Bf2 Qc8 19. Bh4 Kg7 20. Qe2 Nh5 21. Qf2
+Bxh4 22. Qxh4 Qc5 23. Nf5+ Bxf5 24. exf5 Nf6 25. Rf4 h6 26. fxg6 fxg6 27. Rxf6
+Rxf6 28. Ne4 g5 29. Qh5 Nxd3 30. Nxc5 Nf2+ 31. Kg1 dxc5 32. Re1 c4 33. Re2 Nd1
+34. Re7+ Kf8 35. Rh7 Ne3 36. Rxh6 Rf1+ 37. Kh2 Rfd1 38. Rf6+ 1-0

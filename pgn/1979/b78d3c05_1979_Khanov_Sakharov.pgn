@@ -1,0 +1,20 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Khanov"]
+[Black "Sakharov, Yuri G."]
+[Result "1/2-1/2"]
+[ECO "B19"]
+[Opening "Caro-Kann"]
+[Variation "classical, Spassky variation"]
+[HashCode "b78d3c05"]
+[Epoch "Rook"]
+[BlackID "34113743"]
+[BlackCountry "RUS"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. Nf3 Nd7 7. h4 h6 8. h5
+Bh7 9. Bd3 Bxd3 10. Qxd3 Qc7 11. Bd2 Ngf6 12. O-O-O e6 13. c4 b5 14. Ne5 Nxe5
+15. dxe5 Qxe5 16. Rhe1 bxc4 17. Qc2 Qb5 18. a4 Qb3 19. Rxe6+ fxe6 20. Qg6+ Ke7
+21. Bc3 Nd5 22. Nf5+ exf5 23. Re1+ Kd7 24. Ba5 Ne7 25. Qe6+ Ke8 26. Qxc6+ Kf7
+27. Qe6+ Ke8 28. Qg6+ Kd7 29. Qe6+ 1/2-1/2

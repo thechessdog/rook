@@ -1,0 +1,22 @@
+[Event "NOR-ch"]
+[Site "Lillehammer"]
+[Date "1982.??.??"]
+[Round "3"]
+[White "Tiller, Bjorn"]
+[Black "Bjerke, Richard"]
+[Result "0-1"]
+[ECO "A14"]
+[Opening "English"]
+[Variation "Symmetrical, Keres defence"]
+[HashCode "e20f764e"]
+[Epoch "Rook"]
+[WhiteID "1500112"]
+[BlackID "1500252"]
+[WhiteCountry "NOR"]
+[BlackCountry "NOR"]
+
+1. c4 Nf6 2. Nc3 c5 3. Nf3 e6 4. g3 d5 5. cxd5 Nxd5 6. Bg2 Nc6 7. O-O Be7 8. d4
+O-O 9. e4 Nb6 10. d5 exd5 11. exd5 Nb4 12. Ne1 Bf6 13. Be3 Bxc3 14. bxc3 N4xd5
+15. Bxc5 Re8 16. Qd4 Be6 17. Nd3 Rc8 18. Rfc1 Rc7 19. Rab1 Bf5 20. Bxd5 Nxd5
+21. Nb4 Rd7 22. Rb2 Nxb4 23. Qxb4 Rd1+ 24. Rxd1 Qxd1+ 25. Kg2 Be4+ 26. f3 Qxf3+
+27. Kg1 Bd3 0-1

@@ -1,0 +1,21 @@
+[Event "Potsdam"]
+[Site "Potsdam"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Karasek"]
+[Black "Welz"]
+[Result "1-0"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, poisoned pawn variation"]
+[HashCode "01301099"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Qg4 O-O 8.
+Bd3 Qa5 9. Bd2 Qa4 10. Nf3 c4 11. Bxh7+ Kxh7 12. Qh4+ Kg8 13. Qxe7 Qxc2 14.
+Qg5 Nc6 15. h4 f6 16. Qg3 fxe5 17. dxe5 Bd7 18. h5 Qe4+ 19. Kf1 Qd3+ 20.
+Kg1 Ne7 21. h6 Qg6 22. hxg7 Rxf3 23. Qxf3 Qxg7 24. Bh6 Qxe5 25. Rh5 Nf5 26.
+Rg5+ Kf7 27. Rg7+ Qxg7 28. Bxg7 Kxg7 29. g4 Ne7 30. Qg3 Re8 31. Qe5+ Kf7
+32. g5 Rg8 33. Re1 Rg6 34. f4 a6 35. Kf2 Rg7 36. Rh1 Ng6 37. Qf6+ Kg8 38.
+Rh6 Nf8 39. g6 Be8 40. Rh8+ 1-0
+

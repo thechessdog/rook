@@ -1,0 +1,25 @@
+[Event "Mosbach Elo"]
+[Site "Mosbach Elo"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Fahnenschmidt, Gerhard"]
+[Black "Herbrechtsmeier, Christof"]
+[Result "1-0"]
+[ECO "A16"]
+[Opening "English"]
+[Variation "Anglo-Gruenfeld defense"]
+[HashCode "a81ce0f5"]
+[Epoch "Rook"]
+[WhiteID "4600568"]
+[BlackID "4603737"]
+[WhiteCountry "GER"]
+[BlackCountry "GER"]
+
+1. c4 Nf6 2. Nc3 d5 3. cxd5 Nxd5 4. Nf3 g6 5. Qa4+ c6 6. Qd4 Nf6 7. Qxd8+ Kxd8
+8. g3 Bg7 9. Bg2 Be6 10. Ng5 Nbd7 11. Nxe6+ fxe6 12. O-O Ke8 13. Rb1 Kf7 14. b3
+Nd5 15. Ne4 h6 16. Bb2 Bxb2 17. Rxb2 N5f6 18. d4 Nxe4 19. Bxe4 Nf6 20. Bg2 Rad8
+21. e3 e5 22. dxe5 Ng4 23. e6+ Kf6 24. b4 Rd6 25. e4 h5 26. h3 Nh6 27. b5 Kxe6
+28. bxc6 bxc6 29. Rc1 Rc8 30. Rbc2 Nf7 31. f4 Nd8 32. Kf2 Kd7 33. Ke3 e5 34. h4
+Ne6 35. Bh3 exf4+ 36. gxf4 c5 37. Rg2 c4 38. Rc3 Rd1 39. Rxg6 Re1+ 40. Kf3 Rc6
+41. Rxc4 Ra6 42. Bxe6+ Rxe6 43. Rxe6 Kxe6 44. Rc6+ Kd7 45. Ra6 Rh1 46. Rxa7+
+Kd6 47. Ra6+ Kd7 48. e5 Rxh4 49. Rh6 Rh1 50. Ke4 h4 1-0

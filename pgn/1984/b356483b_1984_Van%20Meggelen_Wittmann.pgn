@@ -1,0 +1,18 @@
+[Event "corr EU/M/GT"]
+[Site "corr EU/M/GT"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Van Meggelen, A."]
+[Black "Wittmann, Walter"]
+[Result "1-0"]
+[ECO "D92"]
+[Opening "Gruenfeld"]
+[Variation "5.Bf4"]
+[HashCode "b356483b"]
+[Epoch "Rook"]
+[BlackID "1600060"]
+[BlackCountry "AUT"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Bf4 O-O 6. Rc1 dxc4 7. e4 Bg4 8.
+Bxc4 Bxf3 9. Qxf3 Nh5 10. d5 Nxf4 11. Qxf4 c6 12. O-O cxd5 13. Bxd5 Qb6 14. Na4
+Qb5 15. b3 Na6 16. Rfd1 Rac8 17. Rxc8 1-0

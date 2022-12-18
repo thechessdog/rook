@@ -1,0 +1,20 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Braune"]
+[Black "Kurbel"]
+[Result "0-1"]
+[ECO "B97"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7...Qb6"]
+[HashCode "7cec0529"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qb6 8.
+Qd2 Qxb2 9. Nb3 Qa3 10. Bxf6 gxf6 11. Be2 h5 12. O-O Nc6 13. Kh1 Bd7 14.
+Qe3 Nb4 15. Qd2 Rc8 16. Bd3 Nxd3 17. cxd3 Qb4 18. Rac1 Rg8 19. Rfd1 Bg7 20.
+Nb1 Qxd2 21. N1xd2 Ke7 22. Nc4 Bh6 23. g3 e5 24. Nb6 Rxc1 25. Nd5+ Kd8 26.
+Rxc1 exf4 27. Nxf6 Rg6 28. Nxh5 fxg3 29. Rg1 Bg4 30. Nxg3 Bf3+ 31. Rg2 Be3
+0-1
+

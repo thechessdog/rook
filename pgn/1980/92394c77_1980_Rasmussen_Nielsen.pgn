@@ -1,0 +1,18 @@
+[Event "DEN-chJ int"]
+[Site "?"]
+[Date "1980.??.??"]
+[Round "?"]
+[White "Rasmussen, Karsten"]
+[Black "Nielsen, Ove Hartvig"]
+[Result "1-0"]
+[ECO "B12"]
+[Opening "Caro-Kann"]
+[Variation "advance variation"]
+[HashCode "92394c77"]
+[Epoch "Rook"]
+[WhiteID "1400088"]
+[WhiteCountry "DEN"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nc3 e6 5. g4 Bg6 6. Nge2 c5 7. Be3 Nc6 8. dxc5
+Nxe5 9. Nd4 Ne7 10. f4 Nc4 11. Qf3 Be4 12. Nxe4 dxe4 13. Qxe4 Qd5 14. Qxd5 Nxd5
+15. Bf2 Na5 16. Bb5+ Kd8 17. O-O-O Kc7 18. f5 1-0

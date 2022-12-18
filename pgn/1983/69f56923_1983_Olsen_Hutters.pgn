@@ -1,0 +1,19 @@
+[Event "Helsingor"]
+[Site "Helsingor"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Olsen, Kim"]
+[Black "Hutters, Tomas"]
+[Result "0-1"]
+[ECO "E61"]
+[Opening "King's Indian defence, 3.Nc3"]
+[HashCode "69f56923"]
+[Epoch "Rook"]
+[WhiteID "1406922"]
+[WhiteCountry "DEN"]
+[BlackID "1400274"]
+[BlackCountry "DEN"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. Nf3 d6 5. e3 O-O 6. Be2 Nbd7 7. b4 e5 8. O-O
+c6 9. Rb1 Qc7 10. d5 Nb6 11. a4 cxd5 12. Nxd5 Nfxd5 13. cxd5 Bf5 14. Rb3 Bc2
+0-1

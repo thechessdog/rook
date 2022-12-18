@@ -1,0 +1,18 @@
+[Event "corr Wcup3"]
+[Site "corr Wcup3"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Idema"]
+[Black "Schreyer"]
+[Result "1-0"]
+[ECO "E47"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 O-O, 5.Bd3"]
+[HashCode "c3abbba3"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d6 6. Ne2 e5 7. O-O Re8 8.
+Qc2 h6 9. a3 Bxc3 10. Nxc3 Nc6 11. dxe5 dxe5 12. Rd1 Qe7 13. Nd5 Qd6 14.
+Be2 Nxd5 15. cxd5 Ne7 16. e4 Bd7 17. Be3 b6 18. Rac1 Qg6 19. Qxc7 Ba4 20.
+Re1 Qxe4 21. Rc4 Qxd5 22. Bf3 Rac8 23. Qxc8 1-0
+

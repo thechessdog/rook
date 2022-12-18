@@ -1,0 +1,17 @@
+[Event "corr DDR/FS"]
+[Site "corr DDR/FS"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Kratsch"]
+[Black "Sandek"]
+[Result "1-0"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra gambit"]
+[HashCode "34a1a089"]
+[Epoch "Rook"]
+
+1. e4 c5 2. d4 cxd4 3. c3 d5 4. exd5 Qxd5 5. cxd4 Nc6 6. Nf3 Bg4 7. Nc3 Qa5
+8. d5 Nb8 9. Bc4 Nd7 10. Qb3 Bxf3 11. gxf3 O-O-O 12. Be3 g6 13. O-O Ngf6
+14. Qc2 Ne5 15. Be2 Kb8 16. b4 Qc7 17. Bxa7+ Kc8 18. Rac1 Rd7 19. Nb5 1-0
+

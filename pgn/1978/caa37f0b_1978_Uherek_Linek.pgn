@@ -1,0 +1,18 @@
+[Event "corr CSSR"]
+[Site "corr CSSR"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Uherek"]
+[Black "Linek"]
+[Result "0-1"]
+[ECO "C13"]
+[Opening "French"]
+[Variation "Albin-Alekhine-Chatard attack, Teichmann variation"]
+[HashCode "caa37f0b"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Nfd7 6. h4 f6 7. Qh5+ g6 8.
+exf6 Nxf6 9. Qe2 Nc6 10. O-O-O Nh5 11. Qe3 Bxg5 12. hxg5 Ng7 13. Bd3 Nf5
+14. Bxf5 gxf5 15. g6 Qd7 16. Qh6 Rg8 17. gxh7 Rh8 18. Nf3 Nd8 19. Ne5 Qd6
+20. Qg6+ 0-1
+

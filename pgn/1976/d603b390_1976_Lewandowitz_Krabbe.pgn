@@ -1,0 +1,18 @@
+[Event "corr DDR/M"]
+[Site "corr DDR/M"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Lewandowitz"]
+[Black "Krabbe"]
+[Result "1/2-1/2"]
+[ECO "C08"]
+[Opening "French"]
+[Variation "Tarrasch, open, 4.ed ed"]
+[HashCode "d603b390"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. exd5 exd5 5. Bb5+ Nc6 6. Ngf3 Bd6 7. O-O
+cxd4 8. Nxd4 Ne7 9. c4 O-O 10. N2f3 Nxd4 11. Qxd4 a6 12. Ba4 dxc4 13. Bc2
+Qc7 14. Rd1 Bc5 15. Qe5 Qxe5 16. Nxe5 b5 17. Be4 Ra7 18. h3 f6 19. Nc6 Nxc6
+20. Bxc6 g5 21. a4 b4 22. Bd5+ Kg7 23. Bxc4 a5 1/2-1/2
+

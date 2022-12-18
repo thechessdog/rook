@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Kappelt"]
+[Black "Volkel"]
+[Result "0-1"]
+[ECO "B32"]
+[Opening "Sicilian defence"]
+[HashCode "18f85117"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. c3 dxc3 5. Nxc3 e6 6. Bc4 d6 7. O-O Nf6
+8. Qe2 a6 9. Rd1 Qc7 10. Bg5 Be7 11. Rac1 O-O 12. a3 b5 13. Ba2 Bb7 14. Nd5
+Nxd5 15. exd5 Bxg5 16. Nxg5 exd5 17. Nxh7 Kxh7 18. Qh5+ Kg8 19. Rd3 Rfe8
+20. Rh3 Kf8 21. Qg5 Kg8 22. Rg3 g6 23. Bxd5 Kf8 24. Qf6 Re5 25. Rxg6 Rxd5
+26. Rh6 Ne7 27. Rh5 Qxc1# 0-1
+

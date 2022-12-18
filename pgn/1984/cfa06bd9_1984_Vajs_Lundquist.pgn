@@ -1,0 +1,17 @@
+[Event "corr EUR"]
+[Site "corr EUR"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Vajs, Djura"]
+[Black "Lundquist, G."]
+[Result "0-1"]
+[ECO "C57"]
+[Opening "two knights defence"]
+[Variation "Fritz, Gruber variation"]
+[HashCode "cfa06bd9"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 b5 6. Bf1 Nd4 7. c3 Nxd5
+8. Ne4 Qh4 9. Ng3 Bb7 10. cxd4 O-O-O 11. d3 Nf4 12. Bxf4 exf4 13. Qh5 Qe7+
+14. Ne2 f3 15. gxf3 Rxd4 16. Nd2 g5 17. O-O-O Rh4 0-1
+

@@ -1,0 +1,20 @@
+[Event "SWE-ch"]
+[Site "?"]
+[Date "1980.??.??"]
+[Round "?"]
+[White "Svensson, Bengt"]
+[Black "Runnby, Jan"]
+[Result "1/2-1/2"]
+[ECO "C92"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Flohr-Zaitsev system (Lenzerheide variation)"]
+[HashCode "52795d42"]
+[Epoch "Rook"]
+[WhiteID "1722891"]
+[BlackID "1701290"]
+[WhiteCountry "SWE"]
+[BlackCountry "SWE"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. h3 Bb7 10. d4 Re8 11. Nbd2 Bf8 12. Bc2 g6 13. d5 Nb8 14. b3 c6 15. c4
+Nbd7 16. Nf1 Qc7 17. Be3 Rec8 18. Rc1 Qd8 1/2-1/2

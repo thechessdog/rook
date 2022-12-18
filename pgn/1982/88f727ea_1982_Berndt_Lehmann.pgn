@@ -1,0 +1,18 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Berndt"]
+[Black "Lehmann, Heinz Dr"]
+[Result "1-0"]
+[ECO "E41"]
+[Opening "Nimzo-Indian"]
+[Variation "e3, Huebner variation"]
+[HashCode "88f727ea"]
+[Epoch "Rook"]
+[BlackCountry "DEU"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 Nc6 6. Nf3 Bxc3+ 7. bxc3 d6 8.
+Nd2 e5 9. Nb3 O-O 10. O-O e4 11. Bc2 Qe7 12. a4 b6 13. f4 Ba6 14. d5 Na5 15.
+Nxa5 bxa5 16. Bb3 Nd7 17. Qe2 Rab8 18. Ra3 Rb7 19. Rd1 f5 20. Qa2 g5 21. Bd2
+Kh8 22. Be1 gxf4 23. exf4 Qh4 24. Bxh4 1-0

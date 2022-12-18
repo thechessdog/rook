@@ -1,0 +1,17 @@
+[Event "Havana"]
+[Site "Havana"]
+[Date "1983.01.01"]
+[Round "12"]
+[White "Hernandez, Roman"]
+[Black "Vilela, Jose Luis"]
+[Result "1/2-1/2"]
+[ECO "E12"]
+[Opening "Queen's Indian"]
+[Variation "4.Nc3"]
+[HashCode "2562d5f0"]
+[Epoch "Rook"]
+[WhiteCountry "CUB"]
+[BlackCountry "EST"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. Nc3 Bb4 5. e3 Bb7 6. Bd3 O-O 7. O-O d5 8. a3
+Bxc3 9. bxc3 dxc4 10. Bxc4 Nbd7 11. Qe2 c5 12. Ba6 Qc8 13. Bxb7 Qxb7 1/2-1/2

@@ -1,0 +1,21 @@
+[Event "London"]
+[Site "London"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Spassky, Boris V."]
+[Black "Hodgson, Julian M"]
+[Result "0-1"]
+[ECO "B16"]
+[Opening "Caro-Kann"]
+[Variation "Bronstein-Larsen variation"]
+[HashCode "4dc3de9d"]
+[Epoch "Rook"]
+[WhiteID "600024"]
+[WhiteCountry "RUS"]
+[BlackID "400076"]
+[BlackCountry "ENG"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ gxf6 6. Bc4 Bf5 7. Ne2 e6 8.
+c3 Rg8 9. Ng3 Bg6 10. O-O Bd6 11. Qf3 Nd7 12. Bf4 Qc7 13. Bxd6 Qxd6 14. Ne4
+Bxe4 15. Qxe4 O-O-O 16. Rfe1 f5 17. Qf3 Rg6 18. Bf1 Nf6 19. Rad1 Rdg8 20. c4
+Ng4 21. g3 f4 22. Re4 Rf6 0-1

@@ -1,0 +1,21 @@
+[Event "corr DDR-PZ"]
+[Site "corr DDR-PZ"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Wallraf"]
+[Black "Hobusch"]
+[Result "0-1"]
+[ECO "E43"]
+[Opening "Nimzo-Indian"]
+[Variation "Fischer variation"]
+[HashCode "730b6f11"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 b6 5. Bd3 Bb7 6. Nf3 Ne4 7. O-O f5 8.
+Qc2 Bxc3 9. bxc3 O-O 10. Ba3 c5 11. Rad1 d6 12. dxc5 dxc5 13. Nd2 Ng5 14.
+f4 Nf7 15. Nf3 Qc7 16. Rd2 Nc6 17. e4 g6 18. Bc1 Na5 19. e5 Qc6 20. Rdf2
+Rad8 21. Be2 Ba6 22. Nd2 g5 23. g4 gxf4 24. gxf5 Nxe5 25. Rg2+ Kh8 26. Nf3
+Nxf3+ 27. Bxf3 Qc7 28. fxe6 Bxc4 29. Re1 Rde8 30. Re4 Rf6 31. Rg4 Rfxe6 32.
+Bxf4 Qd7 33. Rxe6 Qxe6 34. Bd2 Rg8 35. Rxg8+ Qxg8+ 36. Kf2 Qe6 37. Qc1 Nc6
+38. Bf4 Ne5 0-1
+

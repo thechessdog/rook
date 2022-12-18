@@ -1,0 +1,20 @@
+[Event "Capablanca mem-A"]
+[Site "Cienfuegos"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Radulov, Ivan"]
+[Black "Armas Gutierrez, Jorge Enrique"]
+[Result "1-0"]
+[ECO "B65"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...Be7 defence, 9...Nxd4"]
+[HashCode "ddd9cbb4"]
+[Epoch "Rook"]
+[WhiteID "2900300"]
+[WhiteCountry "FID"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 e6 7. Qd2 Be7 8.
+O-O-O O-O 9. f4 Nxd4 10. Qxd4 Qa5 11. Kb1 h6 12. Bh4 e5 13. fxe5 dxe5 14. Qf2
+Be6 15. Bxf6 Bxf6 16. Nd5 Bxd5 17. Rxd5 Rad8 18. Bc4 Qb4 19. Qe2 Rxd5 20. Bxd5
+Qe7 21. Rf1 b6 22. Rf3 Rc8 23. a3 Qc5 24. Bb3 Rd8 25. g3 Qg1+ 26. Rf1 Rd2 27.
+Bxf7+ Kf8 28. Qc4 Rd1+ 29. Rxd1 Qxd1+ 30. Ka2 Qd7 31. Be6 Qd4 32. Qc7 1-0

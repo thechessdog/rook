@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Berthelsen, R."]
+[Black "Nebel, R."]
+[Result "0-1"]
+[ECO "C51"]
+[Opening "Evans gambit"]
+[Variation "Cordel variation"]
+[HashCode "887faa12"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 Bxb4 5. c3 Be7 6. d4 Na5 7. Bd3 exd4
+8. cxd4 d5 9. Qa4+ Nc6 10. O-O Bd7 11. Qb3 dxe4 12. Bxe4 Nf6 13. Ng5 O-O
+14. d5 Nxe4 15. Nxe4 Nd4 16. Qd3 Bf5 17. Bb2 c5 18. Nbc3 Qb6 19. Rab1 Qg6
+20. Bc1 b5 21. f3 b4 22. Ne2 Nxf3+ 0-1
+

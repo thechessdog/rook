@@ -1,0 +1,25 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Lukin, Andrei M"]
+[Black "Yermolinsky, Alex"]
+[Result "1-0"]
+[ECO "B89"]
+[Opening "Sicilian"]
+[Variation "Velimirovic attack"]
+[HashCode "acc6460f"]
+[Epoch "Rook"]
+[WhiteID "4101251"]
+[BlackID "2005492"]
+[WhiteCountry "RUS"]
+[BlackCountry "USA"]
+
+1. e4 c5 2. Nf3 e6 3. Nc3 d6 4. d4 cxd4 5. Nxd4 Nc6 6. Be3 Nf6 7. Bc4 Be7 8.
+Qe2 a6 9. O-O-O Qc7 10. Bb3 Na5 11. g4 b5 12. g5 Nxb3+ 13. axb3 Nd7 14. h4 b4
+15. Na4 Bb7 16. h5 Bxe4 17. f3 Bd5 18. Kb1 Ne5 19. Rh3 Rc8 20. Nf5 O-O 21. Nb6
+Bc6 22. Nxe7+ Qxe7 23. Nxc8 Rxc8 24. Bf4 Bb5 25. Qe3 Qc7 26. Rh2 a5 27. Bxe5
+dxe5 28. h6 a4 29. bxa4 Bxa4 30. b3 Bc6 31. Re2 Bd5 32. Qxe5 Qxe5 33. Rxe5 Bxf3
+34. Rd4 Re8 35. Rxb4 gxh6 36. Rf4 Bh5 37. gxh6 f5 38. c4 Kf7 39. c5 Kf6 40. Re1
+e5 41. Rc4 Bf7 42. Rc3 Bd5 43. c6 Rc8 44. Rd1 Ke6 45. c7 f4 46. Rc5 Bb7 47. Kc2
+e4 48. Rd8 e3 49. Rxc8 Bxc8 50. Kd3 Kd6 51. b4 1-0

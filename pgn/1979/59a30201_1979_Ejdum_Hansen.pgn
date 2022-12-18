@@ -1,0 +1,21 @@
+[Event "Denmark"]
+[Site "Denmark"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Ejdum, Soren"]
+[Black "Hansen, Poul Martin"]
+[Result "1-0"]
+[ECO "A04"]
+[Opening "Reti"]
+[Variation "Pirc-Lisitsin gambit"]
+[HashCode "59a30201"]
+[Epoch "Rook"]
+[WhiteID "1406426"]
+[BlackID "1412388"]
+[WhiteCountry "DEN"]
+[BlackCountry "DEN"]
+
+1. Nf3 f5 2. e4 fxe4 3. Ng5 Nf6 4. d3 d6 5. dxe4 h6 6. Nf3 e5 7. Bc4 Bg4 8. Be3
+Nc6 9. Nc3 Qd7 10. h3 Bxf3 11. Qxf3 Be7 12. O-O-O O-O-O 13. Qe2 Kb8 14. Bb5 Nh7
+15. h4 Rdf8 16. Nd5 Bd8 17. Nb4 Nf6 18. Bxc6 Qc8 19. Qb5 Ka8 20. Qa6 Qb8 21.
+Bxa7 1-0

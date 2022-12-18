@@ -1,0 +1,17 @@
+[Event "Badalona"]
+[Site "Badalona"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Sanahuja"]
+[Black "Fernandes, Antonio"]
+[Result "1-0"]
+[ECO "A27"]
+[Opening "English"]
+[Variation "three knights system"]
+[HashCode "4405875f"]
+[Epoch "Rook"]
+[BlackID "1900021"]
+[BlackCountry "POR"]
+
+1. c4 e5 2. Nc3 Nc6 3. Nf3 f5 4. d4 exd4 5. Nxd4 Qf6 6. Ndb5 Kd8 7. Nxc7 Rb8 8.
+Bg5 1-0

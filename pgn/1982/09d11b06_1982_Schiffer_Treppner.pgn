@@ -1,0 +1,22 @@
+[Event "Bundesliga 8182"]
+[Site "Duitsland tt"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Schiffers, Emanuel Stepanovich"]
+[Black "Treppner, Gerd"]
+[Result "0-1"]
+[ECO "A54"]
+[Opening "Old Indian"]
+[Variation "Ukrainian variation, 4.Nf3"]
+[HashCode "09d11b06"]
+[Epoch "Rook"]
+[BlackID "4601998"]
+[BlackCountry "GER"]
+[WhiteCountry "RUS"]
+
+1. d4 Nf6 2. c4 d6 3. Nc3 e5 4. Nf3 e4 5. Nd2 Bf5 6. e3 c6 7. b4 d5 8. Qb3 Be7
+9. a4 O-O 10. Ba3 a5 11. b5 c5 12. dxc5 d4 13. Nd5 Nxd5 14. cxd5 dxe3 15. fxe3
+Nd7 16. Rc1 Ne5 17. Be2 Bh4+ 18. g3 Nd3+ 19. Bxd3 exd3 20. O-O Qg5 21. Rxf5
+Qxf5 22. gxh4 Rfe8 23. Rf1 Qg6+ 24. Kh1 Rxe3 25. Rg1 Qf5 26. Qc4 Rae8 27. Qd4
+f6 28. d6 R8e4 29. Rf1 Re1 30. Qg1 Qd5 31. Qg2 R1e2 32. Qf3 Rxd2 33. d7 Rde2
+34. c6 bxc6 35. bxc6 d2 36. Qb3 Rc4+ 0-1

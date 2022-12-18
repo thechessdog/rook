@@ -1,0 +1,22 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Goldberg"]
+[Black "Poenisch"]
+[Result "1-0"]
+[ECO "C18"]
+[Opening "French"]
+[Variation "Winawer, classical variation"]
+[HashCode "1a1ad1cf"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Qc7 7. Qg4 Ne7 8.
+Bd3 Nbc6 9. Nf3 Bd7 10. O-O c4 11. Qxg7 Rg8 12. Qxh7 cxd3 13. cxd3 Qa5 14.
+Bd2 O-O-O 15. Qxf7 Rdf8 16. Qh5 Rf5 17. Qh3 Qd8 18. g4 Qf8 19. Ne1 Ng6 20.
+Qg3 Nf4 21. Bxf4 Rxf4 22. f3 Ne7 23. Ng2 Rf7 24. f4 Rh7 25. h3 Rg6 26. Kf2
+Qh8 27. Rh1 Nf5 28. Qf3 Nh4 29. Nxh4 Rxh4 30. Rag1 Qh7 31. Rg3 Kb8 32. Kg2
+Rg8 33. Rf1 Rh6 34. f5 exf5 35. gxf5 Rxg3+ 36. Qxg3 Ka8 37. e6 Bc8 38. Rf3
+a6 39. Qe5 Qe7 40. f6 Rg6+ 41. Kh2 Qxa3 42. Qf5 Qb2+ 43. Rf2 Bxe6 44. f7
+Bxf5 45. f8=Q+ Ka7 46. Rxb2 1-0
+

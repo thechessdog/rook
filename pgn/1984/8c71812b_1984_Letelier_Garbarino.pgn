@@ -1,0 +1,19 @@
+[Event "Casilda"]
+[Site "Casilda"]
+[Date "1984.01.01"]
+[Round "11"]
+[White "Letelier, Rene"]
+[Black "Garbarino, Rodolfo"]
+[Result "1-0"]
+[ECO "B77"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, 9.Bc4"]
+[HashCode "8c71812b"]
+[Epoch "Rook"]
+[BlackID "100412"]
+[BlackCountry "ARG"]
+[WhiteCountry "CHL"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 Nc6 8. Qd2
+O-O 9. Bc4 Nd7 10. O-O-O Nb6 11. Bb3 Na5 12. Bg5 h6 13. Bh4 Bd7 14. Rhe1 Nbc4
+15. Qe2 Rc8 16. f4 b5 17. Kb1 Qb6 18. Bf2 Rfe8 19. Nf5 1-0

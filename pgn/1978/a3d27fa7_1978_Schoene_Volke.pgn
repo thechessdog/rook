@@ -1,0 +1,20 @@
+[Event "DDR jr"]
+[Site "DDR jr"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Schoene, R."]
+[Black "Volke, Karsten"]
+[Result "0-1"]
+[ECO "E26"]
+[Opening "Nimzo-Indian"]
+[Variation "Saemisch variation"]
+[HashCode "a3d27fa7"]
+[Epoch "Rook"]
+[BlackID "4611411"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. a3 Bxc3+ 5. bxc3 c5 6. e3 O-O 7. Nf3 d6 8. Bd3
+Nc6 9. O-O e5 10. Bb1 Bg4 11. Qb3 Na5 12. Qa2 Bxf3 13. gxf3 Nh5 14. Qe2 cxd4
+15. f4 Qh4 16. fxe5 dxe5 17. cxd4 exd4 18. Ra2 Nf6 19. f3 dxe3 20. Qxe3 Nxc4
+21. Qb3 Rfe8 22. Rg2 Re1 23. Qxc4 Qxc4 24. Rxe1 Re8 25. Rxe8+ Nxe8 26. Rc2 Qd4+
+27. Kg2 g6 28. Rd2 Qe3 29. Be4 Nd6 30. Rc2 Qb3 31. Bb2 f5 0-1

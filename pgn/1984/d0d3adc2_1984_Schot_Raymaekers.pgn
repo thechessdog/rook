@@ -1,0 +1,18 @@
+[Event "corr Netherlands"]
+[Site "corr Netherlands"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Schot"]
+[Black "Raymaekers"]
+[Result "0-1"]
+[ECO "E74"]
+[Opening "King's Indian"]
+[Variation "Averbakh, 6...c5"]
+[HashCode "d0d3adc2"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Be2 O-O 6. Bg5 c5 7. d5 h6 8. Be3
+e6 9. Qd2 exd5 10. cxd5 Qa5 11. f3 h5 12. a4 Na6 13. Ra3 Nb4 14. h4 a6 15.
+Bf1 Nd7 16. Nh3 Ne5 17. Nf2 f5 18. Bg5 fxe4 19. Nfxe4 Rxf3 20. Kd1 Rxf1+
+21. Rxf1 0-1
+

@@ -1,0 +1,21 @@
+[Event "corr GB"]
+[Site "corr GB"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Dodgson, J."]
+[Black "Giulian, Philip M"]
+[Result "0-1"]
+[ECO "A71"]
+[Opening "Benoni"]
+[Variation "classical, 8.Bg5"]
+[HashCode "5963f635"]
+[Epoch "Rook"]
+[BlackID "2400197"]
+[BlackCountry "SCO"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. Nf3 Bg7 8. Bg5
+h6 9. Bh4 a6 10. Nd2 b5 11. a4 b4 12. Ncb1 O-O 13. Bd3 Re8 14. O-O Nbd7 15. f4
+Qc7 16. Qf3 c4 17. Rc1 c3 18. bxc3 g5 19. fxg5 Ne5 20. Qe2 Nfg4 21. Nf3 hxg5
+22. Bg3 Bb7 23. Nbd2 bxc3 24. Nc4 Nxc4 25. Bxc4 Qc5+ 26. Kh1 Bxd5 27. Bxd5 Qxd5
+28. Qxa6 Rxe4 29. Qb5 Qxb5 30. axb5 Rxa1 31. Rxa1 Rb4 32. Bxd6 Rxb5 33. h3 c2
+34. Rc1 Rb1 35. Ba3 Bf8 0-1

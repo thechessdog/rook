@@ -1,0 +1,24 @@
+[Event "Lugano"]
+[Site "Lugano"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Martorelli"]
+[Black "Hug, Werner"]
+[Result "1-0"]
+[ECO "B44"]
+[Opening "Sicilian, Szen (`anti-Taimanov') variation"]
+[HashCode "303332f5"]
+[Epoch "Rook"]
+[BlackID "1300040"]
+[BlackCountry "SUI"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nb5 d6 6. Bf4 e5 7. Be3 Nf6 8. Bg5
+Qa5+ 9. Bd2 Qd8 10. Bg5 Be6 11. Nd2 a6 12. Bxf6 gxf6 13. Nc3 b5 14. Qh5 Rc8 15.
+Bd3 Nb4 16. O-O Be7 17. f4 Rc5 18. a4 Qb6 19. Kh1 Nxd3 20. cxd3 b4 21. Nd5 Bxd5
+22. exd5 Rxd5 23. fxe5 dxe5 24. Rf3 Qd8 25. Qf5 Qd7 26. Qe4 h5 27. Nc4 Qe6 28.
+Ne3 Rd4 29. Qa8+ Rd8 30. Qe4 Bc5 31. Raf1 Rh6 32. Nf5 Rg6 33. Qh4 Qc6 34. d4
+Bxd4 35. Qxh5 e4 36. Rh3 Qc2 37. g3 Qc6 38. Qe2 Rg8 39. Rh4 Be5 40. Qxe4 Qxe4+
+41. Rxe4 a5 42. Re2 Rg4 43. Rf4 Rg5 44. h4 Rg8 45. Rf3 Rd1+ 46. Kg2 Kd7 47. b3
+Rc8 48. Ne3 Rb1 49. Nc4 Rxc4 50. bxc4 b3 51. Rf1 Rxf1 52. Kxf1 b2 53. Re1 Bxg3
+54. Rb1 Be5 55. Ke2 Kc6 56. Kd3 f5 57. h5 Kc5 58. h6 f4 59. Kc2 Kxc4 60. h7 Kd4
+61. Re1 Bf6 62. Rd1+ Ke3 63. Rd5 f3 64. Rxa5 f2 65. Rf5 Be5 66. Rxf2 1-0

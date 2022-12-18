@@ -1,0 +1,18 @@
+[Event "Boston"]
+[Site "Boston"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Pollitz, R."]
+[Black "Curdo"]
+[Result "0-1"]
+[ECO "A88"]
+[Opening "Dutch"]
+[Variation "Leningrad, main variation with c6"]
+[HashCode "c97835f0"]
+[Epoch "Rook"]
+
+1. Nf3 f5 2. d4 Nf6 3. c4 g6 4. Nc3 Bg7 5. g3 O-O 6. Bg2 d6 7. O-O c6 8.
+Qd3 Na6 9. a3 Nc7 10. b4 Qe8 11. Ne1 e5 12. dxe5 dxe5 13. e4 f4 14. gxf4
+Nh5 15. fxe5 Qxe5 16. Bb2 Nf4 17. Qe3 Qg5 18. Kh1 Bg4 19. Rg1 Qh5 20. f3
+Nxg2 21. fxg4 Nxe3 22. gxh5 Nxc4 0-1
+

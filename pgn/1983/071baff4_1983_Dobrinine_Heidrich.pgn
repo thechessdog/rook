@@ -1,0 +1,18 @@
+[Event "corr Wcup5"]
+[Site "corr Wcup5"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Dobrinine"]
+[Black "Heidrich"]
+[Result "1-0"]
+[ECO "D11"]
+[Opening "QGD Slav"]
+[Variation "4.e3"]
+[HashCode "071baff4"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. Nf3 d5 3. c4 c6 4. e3 e6 5. Bd3 Bb4+ 6. Bd2 Bxd2+ 7. Nbxd2 O-O
+8. O-O Nbd7 9. Re1 Re8 10. e4 c5 11. e5 Ng4 12. h3 Nh6 13. Qc2 g6 14. cxd5
+cxd4 15. dxe6 Rxe6 16. Rad1 b6 17. Be4 Rb8 18. Nxd4 Rxe5 19. Nc6 Qf8 20.
+Nxe5 Nxe5 21. Qc7 Nd7 22. Bc6 Nf5 23. Bxd7 Bxd7 24. Qxd7 1-0
+

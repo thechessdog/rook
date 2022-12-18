@@ -1,0 +1,21 @@
+[Event "corr YUG"]
+[Site "corr YUG"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Sterle, V."]
+[Black "Lampret, L."]
+[Result "1-0"]
+[ECO "E88"]
+[Opening "King's Indian"]
+[Variation "Saemisch, orthodox, 7.d5 c6"]
+[HashCode "cdbabab0"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 e5 7. d5 c6 8. dxc6
+bxc6 9. b4 Qc7 10. Bd3 Bb7 11. Nh3 a6 12. O-O Nbd7 13. Rc1 Rfc8 14. Qd2 Nf8
+15. a4 Qd7 16. a5 d5 17. Na4 dxc4 18. Bxc4 Qxd2 19. Bxd2 N8d7 20. Be3 h6
+21. g4 g5 22. Rfd1 Bf8 23. Bxg5 hxg5 24. Nxg5 Bxb4 25. Nxf7 Kg7 26. g5 Nd5
+27. exd5 cxd5 28. Nh6 Rc7 29. Bd3 Bxa5 30. Nf5+ Kf8 31. g6 Rc6 32. g7+ Kf7
+33. Kh1 Nf6 34. Nc5 Bc8 35. Ne4 Rxc1 36. Ned6+ Kg8 37. Rxc1 Bxf5 38. Nxf5
+Nh5 39. Rg1 1-0
+

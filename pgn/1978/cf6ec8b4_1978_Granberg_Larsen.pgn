@@ -1,0 +1,20 @@
+[Event "Snekkersten"]
+[Site "Snekkersten"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Granberg, Niels"]
+[Black "Larsen, Ole"]
+[Result "0-1"]
+[ECO "A49"]
+[Opening "King's Indian"]
+[Variation "fianchetto without c4"]
+[HashCode "cf6ec8b4"]
+[Epoch "Rook"]
+
+1. Nf3 Nf6 2. d4 g6 3. g3 Bg7 4. c4 c6 5. Bg2 O-O 6. Nc3 d5 7. cxd5 cxd5 8.
+O-O Ne4 9. Bf4 Nxc3 10. bxc3 Nc6 11. Rb1 b6 12. e4 dxe4 13. Ng5 Ba6 14. Re1
+e5 15. dxe5 Nxe5 16. Qa4 Bd3 17. Rbd1 b5 18. Qb3 Qa5 19. Bxe5 Bc4 20. Qc2
+Bxe5 21. Nxe4 Rad8 22. f4 Bg7 23. f5 Rxd1 24. Rxd1 Rd8 25. f6 Qb6+ 26. Kh1
+Rxd1+ 27. Qxd1 Bxf6 28. Qd2 Qd8 29. Qc2 Kg7 30. h4 Qd3 31. Qf2 Bxc3 32.
+Qxa7 Bd4 0-1
+

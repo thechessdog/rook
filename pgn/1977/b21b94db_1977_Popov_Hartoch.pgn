@@ -1,0 +1,20 @@
+[Event "Hoogovens-B"]
+[Site "Wijk aan Zee II"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Popov, Luben"]
+[Black "Hartoch, Robert G"]
+[Result "1/2-1/2"]
+[ECO "A77"]
+[Opening "Benoni"]
+[Variation "classical, 9...Re8, 10.Nd2"]
+[HashCode "b21b94db"]
+[Epoch "Rook"]
+[WhiteID "2900173"]
+[WhiteCountry "FID"]
+[BlackCountry "NLD"]
+
+1. c4 g6 2. d4 Bg7 3. Nc3 c5 4. d5 Nf6 5. Nf3 O-O 6. e4 d6 7. Be2 e6 8. O-O
+exd5 9. cxd5 Re8 10. Nd2 Nbd7 11. h3 g5 12. Nc4 Nxe4 13. Nxe4 Rxe4 14. Bd3 Rh4
+15. Nxd6 Nb6 16. Nxc8 Rxc8 17. Bf5 Rc7 18. d6 Rc6 19. d7 Rd4 20. Qc2 h6 21. Be3
+Nxd7 22. Bxd4 Bxd4 23. Bxd7 Qxd7 24. Rad1 1/2-1/2

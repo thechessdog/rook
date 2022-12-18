@@ -1,0 +1,19 @@
+[Event "Plymouth ch-MI op"]
+[Site "Plymouth ch-MI op"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Foord, A."]
+[Black "Bemben, R."]
+[Result "0-1"]
+[ECO "B17"]
+[Opening "Caro-Kann"]
+[Variation "Steinitz variation"]
+[HashCode "5c1e6433"]
+[Epoch "Rook"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Nxf6+ Nxf6 7. Bd3
+Bg4 8. h3 Bh5 9. g4 Bg6 10. Bf4 e6 11. Qe2 Bd6 12. Bxg6 hxg6 13. Ne5 Bb4+
+14. Bd2 Qd5 15. O-O-O Bxd2+ 16. Qxd2 Qxa2 17. Qd3 Nd5 18. Qa3 Qxa3 19. bxa3
+Nf4 20. h4 Ke7 21. c3 Rac8 22. Kc2 Rhd8 23. Rb1 b6 24. Rhg1 c5 25. dxc5
+Rxc5 26. Rge1 f6 27. Nf3 Rd3 28. Re3 Rcxc3+ 0-1
+

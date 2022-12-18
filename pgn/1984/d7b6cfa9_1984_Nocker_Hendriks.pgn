@@ -1,0 +1,17 @@
+[Event "corr NBC"]
+[Site "corr NBC"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Nocker"]
+[Black "Hendriks"]
+[Result "0-1"]
+[ECO "C70"]
+[Opening "Ruy Lopez"]
+[Variation "Taimanov (chase/wing/accelerated counterthrust) variation"]
+[HashCode "d7b6cfa9"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 b5 5. Bb3 Na5 6. d4 exd4 7. Qxd4 Ne7
+8. Bg5 d6 9. e5 c5 10. Bxf7+ Kxf7 11. Qf4+ Kg8 12. exd6 Nd5 13. Bxd8 Nxf4
+14. Bxa5 Nxg2+ 15. Kf1 Nf4 16. Bc7 Bh3+ 17. Ke1 Bg2 0-1
+

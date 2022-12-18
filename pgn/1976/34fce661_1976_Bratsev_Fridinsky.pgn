@@ -1,0 +1,20 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Bratsev"]
+[Black "Fridinsky"]
+[Result "0-1"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack"]
+[HashCode "34fce661"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 c6 4. f3 b5 5. a3 h6 6. Bh4 g5 7. Bf2 Bf5 8. e3
+Nbd7 9. Bd3 Bxd3 10. Qxd3 Bg7 11. Nge2 e5 12. Qf5 Qe7 13. h4 Qe6 14. Qxe6+
+fxe6 15. hxg5 hxg5 16. Rxh8+ Bxh8 17. O-O-O Kf7 18. Rh1 a6 19. Bg3 exd4 20.
+exd4 Kg6 21. Nd1 c5 22. dxc5 Nxc5 23. Bd6 Nfd7 24. Nf2 Bg7 25. Ng3 Nb7 26.
+Bb4 a5 27. Bd2 Nd6 28. Rh5 Nc4 29. b3 Nxd2 30. Kxd2 Be5 31. Rh3 a4 32. b4
+Nb6 33. Nd3 Nc4+ 34. Kd1 Bd6 35. Ne2 Nxa3 36. Kc1 Rc8 37. c3 e5 38. Kb2
+Nc4+ 39. Ka2 Ne3 40. Ne1 Nd1 0-1
+

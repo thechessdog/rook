@@ -1,0 +1,18 @@
+[Event "corr Netherlands"]
+[Site "corr Netherlands"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Von Kessel, F."]
+[Black "Dries, J."]
+[Result "0-1"]
+[ECO "A40"]
+[Opening "Queen's pawn"]
+[Variation "Charlick (Englund) gambit"]
+[HashCode "15825c82"]
+[Epoch "Rook"]
+
+1. d4 e5 2. dxe5 f6 3. exf6 Nxf6 4. Bg5 Bc5 5. e3 d6 6. Bc4 c6 7. Nd2 d5 8.
+Bb3 O-O 9. e4 Bxf2+ 10. Kxf2 Nxe4+ 11. Ke1 Qxg5 12. Ngf3 Qxg2 13. Rf1 Bh3
+14. Nxe4 Qxf1+ 15. Kd2 Rxf3 16. Nc3 Qg2+ 17. Qe2 Rf2 18. Re1 Bg4 19. Qxf2
+Qxf2+ 20. Ne2 Nd7 0-1
+

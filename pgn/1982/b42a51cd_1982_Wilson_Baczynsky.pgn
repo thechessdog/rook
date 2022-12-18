@@ -1,0 +1,21 @@
+[Event "US Open"]
+[Site "US Open"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Wilson, Bert"]
+[Black "Baczynsky, Boris"]
+[Result "0-1"]
+[ECO "B88"]
+[Opening "Sicilian"]
+[Variation "Sozin, Leonhardt variation"]
+[HashCode "b42a51cd"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bc4 e6 7. Bb3 Be7
+8. Be3 a6 9. f4 Nxd4 10. Bxd4 b5 11. e5 dxe5 12. fxe5 Nd7 13. Qh5 O-O 14.
+O-O Nc5 15. Rad1 Bb7 16. Rf4 Qe8 17. Qg4 Rd8 18. Ne2 Qc6 19. c3 Nxb3 20.
+axb3 f5 21. exf6 Bxf6 22. Rff1 e5 23. Be3 h5 24. Qg6 a5 25. Nc1 h4 26. h3
+b4 27. cxb4 axb4 28. Nd3 Qc2 29. Bc5 Rxd3 30. Bxf8 Rd2 31. Rxd2 Qxg6 32.
+Bc5 Bg5 33. Rf8+ Kh7 34. Rdf2 Bf4 35. Bxb4 Be3 36. Kh1 Bxf2 37. Rxf2 Qb6
+38. Be1 Qe3 39. Rf1 Qxh3+ 0-1
+

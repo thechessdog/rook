@@ -1,0 +1,22 @@
+[Event "Kuibyshev"]
+[Site "Kuibyshev"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Efimov, Igor"]
+[Black "Tseitlin, Mikhail S"]
+[Result "1-0"]
+[ECO "A37"]
+[Opening "English"]
+[Variation "symmetrical, Botvinnik system reversed"]
+[HashCode "c85d0c0d"]
+[Epoch "Rook"]
+[BlackCountry "BLR"]
+[WhiteID "806404"]
+[WhiteCountry "MNC"]
+
+1. c4 c5 2. Nf3 g6 3. Nc3 Bg7 4. g3 Nc6 5. Bg2 e5 6. d3 Nge7 7. O-O O-O 8. a3
+d6 9. Rb1 b6 10. b4 Bb7 11. Ne1 Qd7 12. Nc2 f5 13. Nd5 Nd4 14. Nce3 Nxd5 15.
+Nxd5 Rae8 16. e3 Ne6 17. Bd2 Kh8 18. a4 f4 19. a5 Ng5 20. exf4 Nh3+ 21. Bxh3
+Qxh3 22. bxc5 exf4 23. Bxf4 Rf5 24. Re1 Ref8 25. axb6 g5 26. Be3 Rxd5 27. bxa7
+Bc6 28. cxd5 Bxd5 29. f3 g4 30. Rb8 gxf3 31. Qd2 Kg8 32. cxd6 h5 33. d7 Qxd7
+34. Bc5 1-0

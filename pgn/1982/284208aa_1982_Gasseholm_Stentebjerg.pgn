@@ -1,0 +1,18 @@
+[Event "corr ch-DK"]
+[Site "corr ch-DK"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Gasseholm, Finn"]
+[Black "Stentebjerg"]
+[Result "1/2-1/2"]
+[ECO "C45"]
+[Opening "Scotch"]
+[Variation "Potter variation"]
+[HashCode "284208aa"]
+[Epoch "Rook"]
+[WhiteID "1402390"]
+[WhiteCountry "DEN"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Bc5 5. Nb3 Bb6 6. a4 a6 7. Nc3 d6 8. Nd5
+Ba7 9. Be2 Nf6 10. O-O Nxd5 11. exd5 Ne5 12. Nd4 O-O 13. Ra3 Qh4 14. Nf3 Nxf3+
+15. Bxf3 Re8 16. Rc3 Bb6 17. b3 Bf5 18. Rc4 Qe7 19. Bb2 Qd7 20. Qd2 f6 1/2-1/2

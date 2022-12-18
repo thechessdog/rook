@@ -1,0 +1,18 @@
+[Event "CUB-ch"]
+[Site "Cuba"]
+[Date "1984.01.01"]
+[Round "3"]
+[White "Garcia Gonzales, Guillermo"]
+[Black "Garcia Martinez, Silvino"]
+[Result "1/2-1/2"]
+[ECO "A28"]
+[Opening "English"]
+[Variation "four knights, 4.e3"]
+[HashCode "31b7185c"]
+[Epoch "Rook"]
+[BlackID "3500179"]
+[BlackCountry "CUB"]
+[WhiteCountry "CUB"]
+
+1. c4 Nf6 2. Nc3 e5 3. Nf3 Nc6 4. e3 Bb4 5. Nd5 a5 6. a3 Bd6 7. d3 O-O 8. e4
+Nxd5 9. cxd5 Ne7 10. d4 Ng6 11. Be2 exd4 12. Qxd4 Re8 1/2-1/2

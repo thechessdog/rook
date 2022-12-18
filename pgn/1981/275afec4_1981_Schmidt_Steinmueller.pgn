@@ -1,0 +1,19 @@
+[Event "DDR Tch5"]
+[Site "DDR Tch5"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Schmidt, H."]
+[Black "Steinmueller, J."]
+[Result "1-0"]
+[ECO "D88"]
+[Opening "Gruenfeld"]
+[Variation "Spassky variation, main line, 10...cd, 11.cd"]
+[HashCode "275afec4"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 c5 7. Bc4 Bg7
+8. Ne2 cxd4 9. cxd4 Nc6 10. O-O O-O 11. Be3 Bg4 12. f3 Na5 13. Rc1 Nxc4 14.
+Rxc4 Bd7 15. Qb3 Qa5 16. Nc3 b6 17. Rc1 e6 18. Rc7 Rfd8 19. Kf2 Rac8 20.
+Ne2 Rxc7 21. Rxc7 h6 22. e5 b5 23. Qc2 b4 24. Ng3 Ba4 25. Qc1 Bb5 26. Ne4
+Qxa2+ 27. Kg3 Bd3 28. Rxf7 Qc2 29. Rxg7+ Kxg7 30. Bxh6+ Kh7 31. Qg5 1-0
+

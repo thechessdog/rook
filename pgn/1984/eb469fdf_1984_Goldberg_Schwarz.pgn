@@ -1,0 +1,21 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Goldberg"]
+[Black "Schwarz"]
+[Result "1/2-1/2"]
+[ECO "C16"]
+[Opening "French"]
+[Variation "Winawer, Petrosian variation"]
+[HashCode "eb469fdf"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 Qd7 5. Bd2 Ne7 6. a3 Bxc3 7. Bxc3 b6 8.
+Qg4 Ng6 9. h4 h5 10. Qg3 Ba6 11. Bxa6 Nxa6 12. Nh3 O-O-O 13. a4 c5 14. O-O
+Ne7 15. Qd3 Kb7 16. Ng5 Nf5 17. b3 cxd4 18. Bb2 Rc8 19. Rfc1 Nc5 20. Qd1
+Nxh4 21. Bxd4 Qe7 22. Nf3 Ne4 23. Nxh4 Qxh4 24. a5 b5 25. a6+ Ka8 26. c4
+Qf4 27. Rc2 dxc4 28. bxc4 b4 29. c5 h4 30. Qd3 h3 31. g3 Qg4 32. Qb5 Rc7
+33. c6 Qf3 34. Qb7+ Rxb7 35. axb7+ Kb8 36. c7+ Kxb7 37. Rxa7+ Kc8 38. Ra8+
+Kb7 1/2-1/2
+

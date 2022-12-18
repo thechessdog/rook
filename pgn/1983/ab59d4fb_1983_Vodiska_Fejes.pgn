@@ -1,0 +1,15 @@
+[Event "corr Czechoslovakia"]
+[Site "corr Czechoslovakia"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Vodiska, M."]
+[Black "Fejes"]
+[Result "1-0"]
+[ECO "B17"]
+[Opening "Caro-Kann"]
+[Variation "Steinitz variation"]
+[HashCode "ab59d4fb"]
+[Epoch "Rook"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Qe2 g6 7. Nd6# 1-0
+

@@ -1,0 +1,21 @@
+[Event "Lvov"]
+[Site "Lvov"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Zaid, Leonid D"]
+[Black "Anikaev, Yuri N"]
+[Result "1-0"]
+[ECO "B87"]
+[Opening "Sicilian"]
+[Variation "Sozin with ...a6 and ...b5"]
+[HashCode "21a69634"]
+[Epoch "Rook"]
+[BlackID "4101650"]
+[BlackCountry "RUS"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bc4 a6 7. Bb3 b5 8. O-O
+Be7 9. Qf3 Qb6 10. Be3 Qb7 11. Qg3 g6 12. f3 Nbd7 13. Rad1 Nc5 14. Bh6 Bd7 15.
+e5 Nh5 16. Qe1 dxe5 17. Qxe5 f6 18. Qe3 Kf7 19. g4 Nxb3 20. Nxb3 Ng7 21. Bxg7
+Kxg7 22. Nd5 Bc8 23. Nxe7 Qxe7 24. Qc5 Re8 25. Qxe7+ Rxe7 26. Nc5 a5 27. Rd8
+Kf7 28. Ne4 Rc7 29. Rfd1 f5 30. Nd6+ Ke7 31. Rh8 Rxc2 32. Rxh7+ Kf6 33. f4 g5
+34. Ne8+ 1-0

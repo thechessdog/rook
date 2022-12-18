@@ -1,0 +1,19 @@
+[Event "Val Thorens"]
+[Site "Val Thorens"]
+[Date "1984.01.01"]
+[Round "11"]
+[White "Kostic, Vladimir"]
+[Black "Zivkovic, Vladislav"]
+[Result "1/2-1/2"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, 6.Bd3"]
+[HashCode "3e9cd6bf"]
+[Epoch "Rook"]
+[BlackID "902799"]
+[BlackCountry "SRB"]
+[WhiteID "16500016"]
+[WhiteCountry "MNE"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 O-O 6. Bd3 Nc6 7. e5 dxe5 8. dxe5
+Nd5 9. Be4 Nxc3 10. Qxd8 Rxd8 11. bxc3 Bf5 1/2-1/2

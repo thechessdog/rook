@@ -1,0 +1,17 @@
+[Event "corr JBDDR"]
+[Site "corr JBDDR"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Reuschel"]
+[Black "Flechsig"]
+[Result "0-1"]
+[ECO "A00"]
+[Opening "Polish (Sokolsky) opening"]
+[HashCode "7fe8d1c7"]
+[Epoch "Rook"]
+
+1. b4 a5 2. b5 e5 3. Bb2 d6 4. e4 g6 5. f4 Bg7 6. g3 Ne7 7. Nf3 Nd7 8. c4
+O-O 9. a4 Nc5 10. d3 Bg4 11. Nbd2 f5 12. exf5 Nxf5 13. Be2 Ne3 14. Qc1 exf4
+15. Rg1 Bxf3 16. Bxg7 Bxe2 17. Qc3 Re8 18. Bd4 Bxd3 19. Bxc5 Nd5+ 20. Kf2
+Nxc3 0-1
+

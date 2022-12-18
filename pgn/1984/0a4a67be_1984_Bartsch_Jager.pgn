@@ -1,0 +1,19 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Bartsch, Berthold"]
+[Black "Jager"]
+[Result "1-0"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra gambit"]
+[HashCode "0a4a67be"]
+[Epoch "Rook"]
+[WhiteID "4604660"]
+[WhiteCountry "GER"]
+
+1. e4 c5 2. d4 cxd4 3. c3 dxc3 4. Nxc3 Nc6 5. Nf3 d6 6. Bc4 e6 7. O-O Nf6 8.
+Qe2 a6 9. Rd1 Qc7 10. Bf4 Be7 11. Rac1 Qb8 12. Bb3 O-O 13. Nd5 exd5 14. exd5
+Ne5 15. Nxe5 dxe5 16. Bxe5 Bd6 17. Bxf6 Bxh2+ 18. Kh1 Bf4 19. Be7 Re8 20. d6
+Bxc1 21. Bxf7+ 1-0

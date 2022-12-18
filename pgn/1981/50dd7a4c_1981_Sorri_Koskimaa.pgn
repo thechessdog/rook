@@ -1,0 +1,24 @@
+[Event "corr NS/II"]
+[Site "corr NS/II"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Sorri, Timo"]
+[Black "Koskimaa, Ilmo"]
+[Result "1/2-1/2"]
+[ECO "D90"]
+[Opening "Gruenfeld"]
+[Variation "Flohr variation"]
+[HashCode "50dd7a4c"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Qa4+ Bd7 6. Qb3 dxc4 7. Qxb7 Nc6
+8. Bf4 Rb8 9. Qxc7 Qxc7 10. Bxc7 Rxb2 11. Rd1 O-O 12. e3 Rc8 13. Bg3 Nb4
+14. Rd2 Rc2 15. Rxc2 Nxc2+ 16. Kd2 Nb4 17. Be2 Nbd5 18. Rb1 Nxc3 19. Kxc3
+Ne4+ 20. Kb2 Bb5 21. Ng1 Bf8 22. f3 Nxg3 23. hxg3 e6 24. Kc3 a6 25. Bd1 Kg7
+26. Nh3 Bd6 27. f4 Bc7 28. Kc2 Ba5 29. Nf2 c3 30. Kc1 h5 31. Ne4 Bd3 32.
+Bc2 Bxe4 33. Bxe4 f5 34. Bd3 Rc6 35. Rb7+ Kf6 36. Kc2 g5 37. Ra7 Rb6 38.
+Bc4 Rb2+ 39. Kc1 Rxg2 40. fxg5+ Kxg5 41. Bb3 Rxg3 42. Rxa6 Bb4 43. Rxe6 Rg2
+44. Ra6 f4 45. exf4+ Kxf4 46. Rc6 h4 47. a4 h3 48. Bd5 Ba3+ 49. Kb1 Rb2+
+50. Ka1 Bb4 51. Rb6 Ke3 52. a5 Kd2 53. Rf6 Rb1+ 54. Ka2 c2 55. Rf2+ Kc3 56.
+Rxc2+ 1/2-1/2
+

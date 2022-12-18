@@ -1,0 +1,15 @@
+[Event "corr GB"]
+[Site "corr GB"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Walters, J."]
+[Black "Isler, A."]
+[Result "1-0"]
+[ECO "A45"]
+[Opening "Trompovsky attack (Ruth, Opovcensky opening)"]
+[HashCode "c0165b3e"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. Bg5 e6 3. e4 Be7 4. Nc3 Nxe4 5. Bxe7 Nxc3 6. Bxd8 Nxd1 7. Bxc7
+Nxb2 8. Bd6 Na4 9. Nf3 Nc3 10. Bd3 b6 11. Kd2 Nd5 12. Be4 Nc6 13. Bxd5 1-0
+

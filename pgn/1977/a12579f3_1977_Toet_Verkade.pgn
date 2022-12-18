@@ -1,0 +1,20 @@
+[Event "Rotterdam op"]
+[Site "Rotterdam op"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Toet"]
+[Black "Verkade"]
+[Result "0-1"]
+[ECO "C89"]
+[Opening "Ruy Lopez"]
+[Variation "Marshall, Herman Steiner variation"]
+[HashCode "a12579f3"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8.
+c3 d5 9. exd5 e4 10. dxc6 exf3 11. d4 fxg2 12. Bf4 Bd6 13. Bg5 h6 14. Bh4
+g5 15. Bg3 Bg4 16. Qd3 Nh5 17. Qg6+ Ng7 18. Re5 Be6 19. Rxe6 fxg6 20. Rxd6+
+Kh7 21. Rxd8 Raxd8 22. Nd2 Rde8 23. Bxc7 Re2 24. Rd1 Rfxf2 25. Bg3 Rf8 26.
+d5 h5 27. d6 h4 28. d7 hxg3 29. h3 Nh5 30. c7 Nf4 31. Be6 Rxe6 32. c8=Q
+Ne2+ 33. Kxg2 Rf2+ 34. Kh1 Rh2# 0-1
+

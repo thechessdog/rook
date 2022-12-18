@@ -1,0 +1,20 @@
+[Event "corr CSR/K"]
+[Site "corr CSR/K"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Glockner"]
+[Black "Sirc"]
+[Result "1-0"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "ecf44e08"]
+[Epoch "Rook"]
+
+1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. d4 cxd4 5. cxd4 Nc6 6. Nf3 e6 7. Nc3 Bb4
+8. Bd3 Nf6 9. O-O Bxc3 10. bxc3 O-O 11. c4 Qd6 12. Bb2 b6 13. Rc1 Nd7 14.
+Qe2 Ne7 15. Qe4 f5 16. Qe2 Nf6 17. c5 bxc5 18. dxc5 Qc6 19. Nd4 Qd7 20. Bb5
+Qb7 21. Ba1 Kf7 22. Rfe1 Qe4 23. Qb2 Qg4 24. Nxe6 Bxe6 25. Rxe6 Kxe6 26.
+Bc4+ Ned5 27. Qb7 Qe4 28. Bxf6 Kxf6 29. Bxd5 Qa4 30. Qb2+ Kg6 31. Bxa8 Rxa8
+32. c6 1-0
+

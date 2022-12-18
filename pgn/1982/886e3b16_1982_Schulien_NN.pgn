@@ -1,0 +1,19 @@
+[Event "Ohio"]
+[Site "Ohio"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Schulien, Charles"]
+[Black "NN"]
+[Result "1-0"]
+[ECO "A64"]
+[Opening "Benoni"]
+[Variation "fianchetto, 11...Re8"]
+[HashCode "886e3b16"]
+[Epoch "Rook"]
+[WhiteID "2001527"]
+[WhiteCountry "USA"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. g3 Bg7 8. Bg2
+O-O 9. O-O a6 10. a4 Re8 11. Nd2 Nbd7 12. h3 Rb8 13. Nc4 Nb6 14. Na3 Bd7 15. a5
+Nc8 16. Nc4 Bb5 17. Qb3 Bxc4 18. Qxc4 b5 19. axb6 Nxb6 20. Qd3 c4 21. Qc2 Qc8
+22. Bf4 Nbxd5 23. Nxd5 Nxd5 24. Bxd5 Rxb2 25. Qxc4 1-0

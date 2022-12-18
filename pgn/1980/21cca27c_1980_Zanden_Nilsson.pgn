@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Zanden, B."]
+[Black "Nilsson, E."]
+[Result "0-1"]
+[ECO "B13"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik, Herzog defence"]
+[HashCode "21cca27c"]
+[Epoch "Rook"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 Nc6 6. Bg5 dxc4 7. d5 Na5
+8. b4 cxb3 9. axb3 Bd7 10. b4 Rc8 11. Na4 Nc4 12. Nc5 Qb6 13. Bd2 Nxd2 14.
+Qxd2 e6 15. Nxd7 Nxd7 16. b5 Nf6 17. dxe6 Qxe6+ 18. Be2 Nd5 19. Qb2 Bb4+
+20. Kf1 Bc3 0-1
+

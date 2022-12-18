@@ -1,0 +1,23 @@
+[Event "Rome"]
+[Site "Rome"]
+[Date "1984.01.01"]
+[Round "2"]
+[White "Pinter, Jozsef"]
+[Black "Zichichi, Alvise"]
+[Result "1-0"]
+[ECO "D44"]
+[Opening "QGD semi-Slav"]
+[Variation "Botvinnik system (anti-Meran)"]
+[HashCode "667dfb98"]
+[Epoch "Rook"]
+[WhiteID "700045"]
+[WhiteCountry "HUN"]
+[BlackID "800481"]
+[BlackCountry "ITA"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 c6 5. Bg5 dxc4 6. e4 b5 7. a4 b4 8. Nb1 Ba6
+9. Qc1 Qa5 10. Bxf6 gxf6 11. Bxc4 Rg8 12. O-O Nd7 13. Nbd2 Rc8 14. Qd1 Bb7 15.
+Re1 Qh5 16. Qe2 Qg4 17. g3 Ba8 18. Rad1 Be7 19. d5 cxd5 20. exd5 e5 21. Bb5 Kf8
+22. Nc4 Nb6 23. Ne3 Qh5 24. a5 e4 25. d6 Bd8 26. Nd4 Qxe2 27. Nxe2 Rc5 28. axb6
+Rxb5 29. bxa7 Ra5 30. Nd4 Kg7 31. Ra1 Re8 32. Rxa5 Bxa5 33. Nc4 Bd8 34. d7 Re7
+35. Nf5+ Kf8 36. Nxe7 Kxe7 37. Rd1 1-0

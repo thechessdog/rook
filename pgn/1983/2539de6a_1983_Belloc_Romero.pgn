@@ -1,0 +1,20 @@
+[Event "corr EUR"]
+[Site "corr EUR"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Belloc"]
+[Black "Romero Holmes, Alfonso"]
+[Result "1-0"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, poisoned pawn variation"]
+[HashCode "2539de6a"]
+[Epoch "Rook"]
+[BlackID "2200066"]
+[BlackCountry "ESP"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 Ne7 5. a3 Bxc3+ 6. bxc3 c5 7. Qg4 Ng6 8. h4
+h5 9. Qg3 Nc6 10. Bd3 O-O 11. Ne2 Nce7 12. Bg5 Qe8 13. Bf6 gxf6 14. exf6 Nf5
+15. Qg5 Kh7 16. g4 Rh8 17. gxf5 exf5 18. Qxh5+ Kg8 19. Qg5 c4 20. h5 cxd3 21.
+cxd3 Qf8 22. Kd2 Qh6 23. Qxh6 Rxh6 24. hxg6 Rxg6 25. Nf4 Rg4 26. Nxd5 b6 27.
+Ne7+ Kf8 28. Rh8+ Rg8 29. Rxg8# 1-0

@@ -1,0 +1,20 @@
+[Event "IBM"]
+[Site "Amsterdam II"]
+[Date "1977.07.01"]
+[Round "1"]
+[White "Popov, Luben"]
+[Black "Langeweg, Kick"]
+[Result "1/2-1/2"]
+[ECO "A13"]
+[Opening "English"]
+[Variation "Neo-Catalan accepted"]
+[HashCode "3922f9b7"]
+[Epoch "Rook"]
+[BlackID "1000160"]
+[BlackCountry "NED"]
+[WhiteID "2900173"]
+[WhiteCountry "FID"]
+
+1. c4 Nf6 2. Nf3 e6 3. g3 d5 4. Bg2 dxc4 5. Qa4+ Nbd7 6. Qxc4 c5 7. Qc2 b6 8.
+O-O Bb7 9. Nc3 Be7 10. b3 a6 11. Bb2 Qc7 12. Rac1 Rc8 13. Rfd1 Qb8 14. Qb1 O-O
+15. d4 Rfd8 16. dxc5 Nxc5 17. Rxd8+ Rxd8 18. Rd1 1/2-1/2

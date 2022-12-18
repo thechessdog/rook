@@ -1,0 +1,21 @@
+[Event "Vrsac"]
+[Site "Vrsac"]
+[Date "1981.01.01"]
+[Round "12"]
+[White "Chandler, Murray G"]
+[Black "Velickovic, Sasa"]
+[Result "1/2-1/2"]
+[ECO "B20"]
+[Opening "Sicilian"]
+[Variation "Steinitz variation"]
+[HashCode "60f1f1bc"]
+[Epoch "Rook"]
+[WhiteID "400050"]
+[WhiteCountry "NZL"]
+[BlackID "900869"]
+[BlackCountry "SRB"]
+
+1. e4 c5 2. g3 Nc6 3. Bg2 g6 4. d3 Bg7 5. c3 d6 6. f4 e5 7. Nf3 Nge7 8. O-O O-O
+9. Na3 b6 10. f5 gxf5 11. Nh4 f6 12. exf5 d5 13. Nc2 Bb7 14. d4 Qd7 15. Be3
+cxd4 16. cxd4 Rac8 17. Qd2 Qd6 18. Rfd1 Rfd8 19. Rac1 Rc7 20. g4 Rdc8 21. Nf3
+Nd8 22. Bf1 1/2-1/2

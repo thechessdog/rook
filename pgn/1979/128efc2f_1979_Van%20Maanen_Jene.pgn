@@ -1,0 +1,18 @@
+[Event "corr France"]
+[Site "corr France"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Van Maanen, Jouan"]
+[Black "Jene"]
+[Result "0-1"]
+[ECO "C83"]
+[Opening "Ruy Lopez"]
+[Variation "open, classical defence"]
+[HashCode "128efc2f"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8.
+dxe5 Be6 9. c3 Be7 10. Be3 O-O 11. Nbd2 Bg4 12. Qc2 Nxd2 13. Qxd2 Bxf3 14.
+gxf3 Nxe5 15. Kh1 Bd6 16. Qxd5 Qh4 17. f4 Ng4 18. Qg2 Rae8 19. Rae1 Bxf4
+20. Rg1 Bxe3 0-1
+

@@ -1,0 +1,19 @@
+[Event "corr SWE/K tt"]
+[Site "corr SWE/K tt"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Akesson, Ralf"]
+[Black "Jonasson, Jan"]
+[Result "0-1"]
+[ECO "C78"]
+[Opening "Ruy Lopez"]
+[Variation "Archangelsk (counterthrust) variation"]
+[HashCode "dc9a2fa9"]
+[Epoch "Rook"]
+[WhiteID "1700120"]
+[WhiteCountry "SWE"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Bb7 7. Re1 Bc5 8. c3
+d6 9. d4 Bb6 10. a4 h6 11. axb5 axb5 12. Rxa8 Bxa8 13. Na3 Qd7 14. Nxb5 O-O 15.
+Na3 Ne7 16. Bc2 Ng6 17. h3 exd4 18. cxd4 Re8 19. d5 c6 20. Nc4 Bc5 21. dxc6
+Bxc6 22. e5 dxe5 0-1

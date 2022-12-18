@@ -1,0 +1,16 @@
+[Event "Paris"]
+[Site "Paris"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "NN"]
+[Black "Basman, Michael J"]
+[Result "0-1"]
+[ECO "C00"]
+[Opening "French defence"]
+[HashCode "6e816ca8"]
+[Epoch "Rook"]
+[BlackID "400505"]
+[BlackCountry "ENG"]
+
+1. e4 e6 2. d4 b5 3. Bxb5 Bb7 4. Bd3 f5 5. Nd2 Nf6 6. Qe2 c5 7. Ngf3 c4 8. Bxc4
+fxe4 9. Ng5 Qa5 10. c3 Qxg5 0-1

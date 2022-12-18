@@ -1,0 +1,26 @@
+[Event "Snekkersten"]
+[Site "Snekkersten"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Granberg, Niels"]
+[Black "Andersen, Daniel"]
+[Result "1-0"]
+[ECO "A92"]
+[Opening "Dutch defence"]
+[HashCode "3261dfcd"]
+[Epoch "Rook"]
+[BlackID "1402714"]
+[BlackCountry "DEN"]
+
+1. Nf3 e6 2. d4 f5 3. g3 Nf6 4. Bg2 Be7 5. c4 O-O 6. Nc3 d5 7. cxd5 exd5 8. O-O
+c6 9. Bg5 Na6 10. Ne5 Nc7 11. e3 Nce8 12. Qb3 Qb6 13. Qc2 Bd6 14. Na4 Qc7 15.
+Bxf6 Nxf6 16. Nd3 Qe7 17. a3 Ng4 18. Qb3 Qf6 19. h3 Nh6 20. Rac1 Nf7 21. Nac5
+Rb8 22. Qa4 a6 23. Qc2 Ng5 24. b4 f4 25. exf4 Nxh3+ 26. Bxh3 Bxh3 27. Ne5 Qh6
+28. Rfe1 Bf5 29. Qd2 Rfe8 30. Rc3 Re7 31. Rce3 Rbe8 32. f3 g5 33. Qh2 Qxh2+ 34.
+Kxh2 gxf4 35. gxf4 Rf8 36. Rg1+ Kh8 37. Rg5 Bc8 38. Kg3 Rg7 39. Re1 Rfg8 40.
+Kf2 Be7 41. Rh5 Rg2+ 42. Ke3 R8g7 43. Reh1 Kg8 44. R1h2 Rxh2 45. Rxh2 Rg1 46.
+f5 Rg5 47. Ne6 Rxf5 48. Rg2+ Kh8 49. Rg7 Bh4 50. Nf7+ Rxf7 51. Rxf7 Bxe6 52.
+Rxb7 Bh3 53. Rc7 Bg3 54. Rxc6 Bf1 55. f4 Bc4 56. f5 Kg7 57. a4 Bh2 58. Kf2 Bf4
+59. b5 axb5 60. a5 b4 61. a6 Bxa6 62. Rxa6 Bd2 63. Rd6 Bf4 64. Rxd5 Kf6 65. Kf3
+Bd2 66. Ke4 h5 67. Rd6+ Ke7 68. Re6+ Kf7 69. d5 h4 70. Kf3 b3 71. Rb6 Be1 72.
+Rxb3 1-0

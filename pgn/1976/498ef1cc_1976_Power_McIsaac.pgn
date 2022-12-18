@@ -1,0 +1,17 @@
+[Event "Newfoundland"]
+[Site "Newfoundland"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Power"]
+[Black "McIsaac"]
+[Result "0-1"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Grand Prix attack"]
+[HashCode "498ef1cc"]
+[Epoch "Rook"]
+
+1. e4 c5 2. f4 e6 3. Nf3 Nc6 4. Bc4 a6 5. a3 Nf6 6. d3 b5 7. Ba2 Be7 8. O-O
+O-O 9. Qe1 d5 10. exd5 Nxd5 11. Ne5 Bb7 12. c3 b4 13. c4 Nf6 14. Qg3 Nd4
+15. axb4 Ne2+ 0-1
+

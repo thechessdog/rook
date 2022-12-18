@@ -1,0 +1,24 @@
+[Event "BL2-N 8283"]
+[Site "BL2-N 8283"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Carstens, Andreas"]
+[Black "Gergs, Wolfgang"]
+[Result "0-1"]
+[ECO "B06"]
+[Opening "Robatsch defence"]
+[Variation "Pseudo-Austrian attack"]
+[HashCode "d777138c"]
+[Epoch "Rook"]
+[WhiteID "4600770"]
+[WhiteCountry "GER"]
+[BlackID "4664256"]
+[BlackCountry "GER"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. f4 c5 5. dxc5 Qa5 6. cxd6 Bxc3+ 7. bxc3 Qxc3+
+8. Bd2 Qd4 9. Bd3 Qxd6 10. Nf3 Qc5 11. Rb1 Nf6 12. Rb5 Qc7 13. O-O O-O 14. f5
+a6 15. Rb1 Ng4 16. Qe1 Nc6 17. Qh4 Nce5 18. Nxe5 Nxe5 19. f6 exf6 20. Bh6 g5
+21. Qg3 Re8 22. h4 Qc5+ 23. Kh1 Ng4 24. hxg5 fxg5 25. Rf5 Bxf5 26. exf5 Nf2+
+27. Kh2 Qe5 28. Bxg5 Qxg3+ 29. Kxg3 Nxd3 30. cxd3 b5 31. Kf3 Rac8 32. Rb4 Rc5
+33. g4 Rd5 34. Rb3 h5 35. Bf6 hxg4+ 36. Kxg4 Re1 37. Rc3 Rg1+ 38. Kh4 Kh7 39.
+Rc8 Rg8 40. Rc6 Rxf5 41. Bc3 Rf1 0-1

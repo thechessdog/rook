@@ -1,0 +1,20 @@
+[Event "Wroclaw"]
+[Site "Wroclaw"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Taimanov, Mark"]
+[Black "Borkowski, Franciszek"]
+[Result "1-0"]
+[ECO "A06"]
+[Opening "Reti"]
+[Variation "Nimzovich-Larsen attack"]
+[HashCode "680fda0c"]
+[Epoch "Rook"]
+[WhiteCountry "RUS"]
+[BlackID "1100173"]
+[BlackCountry "POL"]
+
+1. Nf3 d5 2. b3 Bg4 3. e3 e5 4. h3 Bxf3 5. Qxf3 Nf6 6. Bb2 Nbd7 7. c4 e4 8. Qd1
+Nc5 9. b4 Nd3+ 10. Bxd3 exd3 11. cxd5 Nxd5 12. a3 Be7 13. Qb3 Bf6 14. Ra2 Bxb2
+15. Rxb2 Qf6 16. O-O O-O 17. Rc1 Rfe8 18. Nc3 Ne7 19. Ne4 Qg6 20. Qxd3 Rad8 21.
+Qc2 Nc6 22. Nc5 Qg5 23. Nxb7 1-0

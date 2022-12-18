@@ -1,0 +1,18 @@
+[Event "Sverdlovsk"]
+[Site "Sverdlovsk"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Osnos, Vyacheslav"]
+[Black "Kochyev, Alexander"]
+[Result "1/2-1/2"]
+[ECO "D79"]
+[Opening "Neo-Gruenfeld, 6.O-O, main line"]
+[HashCode "ef037a18"]
+[Epoch "Rook"]
+[BlackID "4100719"]
+[BlackCountry "RUS"]
+[WhiteCountry "RUS"]
+
+1. d4 Nf6 2. c4 g6 3. g3 c6 4. Nf3 Bg7 5. Bg2 O-O 6. O-O d5 7. cxd5 cxd5 8. Bf4
+Nc6 9. Nc3 Ne4 10. Rc1 Bf5 11. Ne5 Nxc3 12. Rxc3 Qb6 13. Bxd5 Qxb2 14. Nxc6
+bxc6 15. Rxc6 Rad8 1/2-1/2

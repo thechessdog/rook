@@ -1,0 +1,18 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Pulz"]
+[Black "Melzer"]
+[Result "1-0"]
+[ECO "B81"]
+[Opening "Sicilian"]
+[Variation "Scheveningen, Keres attack"]
+[HashCode "2c7076fb"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e6 6. g4 h6 7. g5 hxg5 8.
+Bxg5 Nc6 9. Qd2 a6 10. O-O-O Bd7 11. Nb3 Qc7 12. Bf4 e5 13. Bg3 g5 14. Bg2
+g4 15. Qe2 O-O-O 16. f3 gxf3 17. Bxf3 Bh6+ 18. Kb1 Rdg8 19. Nd5 Nxd5 20.
+exd5 Ne7 21. Bxe5 Bb5 22. Qe4 dxe5 23. d6 Bc6 24. Qc4 1-0
+

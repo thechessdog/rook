@@ -1,0 +1,18 @@
+[Event "corr ch-CSSR"]
+[Site "corr ch-CSSR"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Hecko"]
+[Black "Botik"]
+[Result "1-0"]
+[ECO "E75"]
+[Opening "King's Indian"]
+[Variation "Averbakh, main line"]
+[HashCode "4f9200f3"]
+[Epoch "Rook"]
+
+1. c4 Nf6 2. e4 d6 3. Nc3 g6 4. d4 Bg7 5. Be2 O-O 6. Bg5 c5 7. d5 e6 8. Nf3
+exd5 9. cxd5 Qa5 10. Nd2 Nfd7 11. Qc2 Re8 12. Nc4 Qa6 13. Bf4 Bxc3+ 14.
+bxc3 Nf6 15. Nxd6 Qb6 16. Nxe8 Nxe8 17. O-O Qf6 18. Be3 Nd7 19. f4 a6 20.
+e5 Qb6 21. Bg4 Ng7 22. Rab1 Qa7 23. e6 fxe6 24. Bxe6+ Kh8 25. f5 1-0
+

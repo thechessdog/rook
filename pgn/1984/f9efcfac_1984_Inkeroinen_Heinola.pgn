@@ -1,0 +1,17 @@
+[Event "Tampere"]
+[Site "Tampere"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Inkeroinen, J."]
+[Black "Heinola, Kari P."]
+[Result "1-0"]
+[ECO "B00"]
+[Opening "Reversed Grob (Borg/Basman defence/macho Grob)"]
+[HashCode "f9efcfac"]
+[Epoch "Rook"]
+[BlackID "503495"]
+[BlackCountry "FIN"]
+
+1. e4 g5 2. d3 h6 3. Ne2 d6 4. Ng3 Nf6 5. Bd2 Bg7 6. Bc3 h5 7. Be2 g4 8. Nd2
+Nc6 9. d4 d5 10. e5 Ng8 11. Bb5 f5 12. f4 Qd7 13. Nb3 b6 14. Nxf5 Bf8 15. Qe2
+a6 16. e6 1-0

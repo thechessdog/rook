@@ -1,0 +1,20 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Garini"]
+[Black "Gandolfi"]
+[Result "1-0"]
+[ECO "B23"]
+[Opening "Sicilian"]
+[Variation "closed, 2...Nc6"]
+[HashCode "e00373bb"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nc3 Nc6 3. f3 e6 4. Nge2 Nf6 5. d4 cxd4 6. Nxd4 a6 7. Bg5 Be7
+8. Qd2 Qb6 9. O-O-O h6 10. Be3 Qc7 11. a3 b5 12. Nxc6 Qxc6 13. e5 Nh7 14.
+Bd3 Bb7 15. Bxh7 Rxh7 16. Ne4 Rc8 17. Qd3 Rh8 18. Rd2 b4 19. Nd6+ Bxd6 20.
+exd6 a5 21. axb4 axb4 22. b3 f5 23. Qd4 Kf7 24. Qh4 Qc3 25. Bd4 Qxb3 26.
+Qe7+ Kg6 27. Qxg7+ Kh5 28. Qf7+ Kg5 29. Bf6+ Kf4 30. Rd4+ Be4 31. Rxe4+
+fxe4 32. Bd4+ Kg5 33. h4# 1-0
+

@@ -1,0 +1,17 @@
+[Event "corr Coupe Latine 3"]
+[Site "corr Coupe Latine 3"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Feroul"]
+[Black "Flores"]
+[Result "1-0"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, Smyslov variation"]
+[HashCode "6523e87c"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. a4 Nbc6 8.
+Nf3 Qa5 9. Bd2 Bd7 10. g3 c4 11. Bh3 O-O-O 12. O-O f5 13. exf6 gxf6 14. Re1
+f5 15. Ng5 Rdf8 16. Nxe6 Rf6 17. Nc5 Rg8 18. Rb1 1-0
+

@@ -1,0 +1,23 @@
+[Event "Bundesliga 8081"]
+[Site "Duitsland tt"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Mevel, Alberic"]
+[Black "Saacke, Bernd"]
+[Result "0-1"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Wade variation"]
+[HashCode "d80a29e7"]
+[Epoch "Rook"]
+[WhiteID "602574"]
+[WhiteCountry "FRA"]
+[BlackCountry "DEU"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Qb6 5. Nf3 Bd7 6. Be2 Nc6 7. O-O Nh6 8. dxc5
+Bxc5 9. b4 Be7 10. Bf4 f6 11. h3 Nf7 12. Be3 Qc7 13. exf6 Bxf6 14. Na3 O-O 15.
+Rc1 Rad8 16. Qb3 Kh8 17. Rfd1 Nfe5 18. Nd4 Qb8 19. Nxc6 Nxc6 20. b5 Ne7 21. c4
+dxc4 22. Nxc4 b6 23. Bf3 Nf5 24. Rd3 e5 25. Rcd1 Nd4 26. Bxd4 exd4 27. Re1 Qf4
+28. Rdd1 Bf5 29. g3 Qh6 30. g4 Bg6 31. Bg2 Bh4 32. Rf1 Qf4 33. Rde1 d3 34. Ne5
+Bxf2+ 35. Kh1 Qg3 36. Nxg6+ hxg6 37. Rd1 Qe3 38. Qc4 d2 39. Qc6 Kh7 40. Qe4 Qg3
+41. Qe7 Bc5 0-1

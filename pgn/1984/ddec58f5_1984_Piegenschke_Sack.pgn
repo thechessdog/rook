@@ -1,0 +1,18 @@
+[Event "BL2-N 8384"]
+[Site "BL2-N 8384"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Piegenschke, M."]
+[Black "Sack, Bruno Wolfgang"]
+[Result "1-0"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Lipnitzky attack"]
+[HashCode "ddec58f5"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Qe2 Qc7 8. O-O
+b5 9. Bb3 Bb7 10. Re1 Nbd7 11. Bg5 b4 12. Nd5 exd5 13. exd5+ Ne5 14. f4 Qb6 15.
+Rad1 Nd7 16. fxe5 dxe5 17. Qxe5+ Nxe5 18. Ba4+ Bc6 19. Bxc6+ Qxc6 20. Rxe5+ Qe6
+21. dxe6 f6 22. Rd5 fxg5 23. Nc6 Be7 24. Rd7 Bc5+ 25. Kh1 O-O 26. e7 Rfe8 27.
+Rd8 Kf7 28. Rxa8 Rxa8 29. Rd8 Rxd8 30. exd8=Q 1-0

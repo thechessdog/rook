@@ -1,0 +1,21 @@
+[Event "Roskilde"]
+[Site "Roskilde"]
+[Date "1978.01.01"]
+[Round "10"]
+[White "Fedder, Steen"]
+[Black "Helmers, Knut J"]
+[Result "0-1"]
+[ECO "A64"]
+[Opening "Benoni"]
+[Variation "fianchetto, 11...Re8"]
+[HashCode "5285a966"]
+[Epoch "Rook"]
+[BlackID "1500023"]
+[BlackCountry "NOR"]
+[WhiteID "1400126"]
+[WhiteCountry "DEN"]
+
+1. d4 Nf6 2. c4 e6 3. g3 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. Bg2 Bg7 8. Nf3
+O-O 9. O-O a6 10. a4 Nbd7 11. Nd2 Re8 12. a5 b5 13. axb6 Nxb6 14. Re1 Rb8 15.
+h3 Bd7 16. Kh2 Bb5 17. e4 Nfd7 18. Bf1 Bxf1 19. Rxf1 Qc8 20. Qc2 c4 21. Nd1 Ne5
+22. Ne3 h5 23. Kg2 h4 24. g4 Qc5 25. Rxa6 Nd3 26. Ndxc4 Nb4 0-1

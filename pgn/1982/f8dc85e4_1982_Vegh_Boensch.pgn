@@ -1,0 +1,20 @@
+[Event "Elekes mem-B"]
+[Site "Budapest"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Vegh, Endre"]
+[Black "Boensch, Uwe"]
+[Result "1/2-1/2"]
+[ECO "A65"]
+[Opening "Benoni"]
+[Variation "6.e4"]
+[HashCode "f8dc85e4"]
+[Epoch "Rook"]
+[WhiteID "700568"]
+[WhiteCountry "HUN"]
+[BlackID "4611268"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. f3 Bg7 8. Bg5
+O-O 9. Nge2 Na6 10. Ng3 Nc7 11. Qd2 Qe8 12. a4 Nd7 13. Be2 f5 14. O-O Qf7 15.
+exf5 1/2-1/2

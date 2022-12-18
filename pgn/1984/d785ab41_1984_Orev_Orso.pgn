@@ -1,0 +1,19 @@
+[Event "Kamen Piskov mem 4"]
+[Site "Ruse"]
+[Date "1984.??.??"]
+[Round "15"]
+[White "Orev, Petar"]
+[Black "Orso, Miklos"]
+[Result "1/2-1/2"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...g6"]
+[HashCode "d785ab41"]
+[Epoch "Rook"]
+[WhiteID "2900742"]
+[BlackID "700290"]
+[WhiteCountry "FID"]
+[BlackCountry "HUN"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 g6 6. Bg5 Bg7 7. Nf3 O-O 8.
+Bxf6 Bxf6 9. Nxd5 Bg7 10. Ne3 e6 11. Qd2 b5 12. cxb5 Bb7 13. O-O-O Nd7 1/2-1/2

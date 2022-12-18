@@ -1,0 +1,21 @@
+[Event "Groningen"]
+[Site "Groningen"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Van der Wiel, John T.H."]
+[Black "Taulbut, Shaun M"]
+[Result "0-1"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, Ljubojevic variation"]
+[HashCode "32e14283"]
+[Epoch "Rook"]
+[WhiteID "1000020"]
+[BlackID "400246"]
+[WhiteCountry "NED"]
+[BlackCountry "ENG"]
+
+1. e4 g6 2. d4 d6 3. Nc3 Bg7 4. f4 Nf6 5. Bc4 c5 6. e5 Nfd7 7. exd6 O-O 8. Be3
+exd6 9. Qd2 Nc6 10. dxc5 dxc5 11. O-O-O Nd4 12. Nf3 Nb6 13. Be2 Nd5 14. Bxd4
+cxd4 15. Nxd4 Nxc3 16. Qxc3 Qb6 17. Qe3 Bf5 18. c3 Rfe8 19. Qf2 Rac8 20. g4 Be4
+21. Rhg1 Red8 0-1

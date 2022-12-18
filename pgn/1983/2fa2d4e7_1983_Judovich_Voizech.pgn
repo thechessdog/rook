@@ -1,0 +1,25 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Judovich, M."]
+[Black "Voizech, A."]
+[Result "1-0"]
+[ECO "E55"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Gligoric system, Bronstein variation"]
+[HashCode "2fa2d4e7"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 c5 7. O-O dxc4 8.
+Bxc4 Nbd7 9. a3 cxd4 10. Nb5 Be7 11. Nbxd4 e5 12. Nf5 Nb6 13. Nxe7+ Qxe7
+14. Be2 Bg4 15. Bd2 Rfd8 16. Rc1 Rd5 17. Qe1 Rc8 18. Rxc8+ Bxc8 19. Bb4 Qd8
+20. e4 Nxe4 21. Bd1 Bf5 22. Bb3 Rd3 23. Bc2 Rxf3 24. Qd1 Nd2 25. Qxd2 Qxd2
+26. Bxd2 Bxc2 27. gxf3 Ba4 28. f4 exf4 29. Bxf4 Nd5 30. Bb8 a6 31. Rc1 Bc6
+32. Kf1 f6 33. Ke2 Kf7 34. Kd3 g5 35. Kd4 Nb6 36. f4 Ke6 37. fxg5 fxg5 38.
+Bc7 Nd7 39. Rg1 h6 40. b4 Kf5 41. Rf1+ Kg6 42. Bd8 Kg7 43. Rg1 Kf7 44. h4
+gxh4 45. Bxh4 Nf8 46. Rf1+ Ke8 47. Rf6 Nd7 48. Rxh6 Kf7 49. Bd8 Kg7 50. Rh2
+Kf7 51. Re2 Kg7 52. Rf2 Kg6 53. Rf1 Kg7 54. Ke3 Kg6 55. Kf4 Bb5 56. Re1 Ba4
+57. Bh4 Kf7 58. Bf2 Kf6 59. Bd4+ Kf7 60. Kg5 Bb5 61. Bc5 Nxc5 62. bxc5 Bd7
+63. Kf4 Kf6 64. Ke4 Bc6+ 65. Kd4 Kf5 66. Kc3 a5 67. Rd1 Ke5 68. Rd8 1-0
+

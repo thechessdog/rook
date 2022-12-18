@@ -1,0 +1,18 @@
+[Event "corr FSM/DDR"]
+[Site "corr FSM/DDR"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Antoszkiewicz, Gerh"]
+[Black "Heinrich"]
+[Result "1-0"]
+[ECO "B77"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, 9...Bd7"]
+[HashCode "46a0c1d2"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8.
+Qd2 Bd7 9. Bc4 Nc6 10. h4 Na5 11. Bb3 Nxb3 12. axb3 h5 13. g4 hxg4 14. h5
+Nxh5 15. Bh6 Kh7 16. Rxh5 gxh5 17. Bxg7 Kxg7 18. Qg5+ Kh7 19. Qxh5+ Kg7 20.
+Qg5+ Kh7 21. O-O-O 1-0
+

@@ -1,0 +1,22 @@
+[Event "corr EUR/K tt"]
+[Site "corr EUR/K tt"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Wittmann, Walter"]
+[Black "Cederlind"]
+[Result "0-1"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "classical attack, Marshall variation"]
+[HashCode "3ec5cc58"]
+[Epoch "Rook"]
+[WhiteID "1600060"]
+[WhiteCountry "AUT"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Bd6 7. O-O O-O 8. c4
+c6 9. Qc2 f5 10. Nc3 Na6 11. Qb3 Nb4 12. Be2 Be7 13. a3 Nxc3 14. Qxc3 Na6 15.
+cxd5 cxd5 16. Bf4 Rf6 17. Rac1 Rc6 18. Qb3 Rb6 19. Qa2 Be6 20. b4 g5 21. Be5
+Bd6 22. Bxd6 Rxd6 23. Bxa6 Rxa6 24. Rfe1 g4 25. Ne5 Qf8 26. Nd3 Bf7 27. Re5 Rc8
+28. Rce1 Rc3 29. Qd2 Rcxa3 30. Qg5+ Rg6 31. Qxf5 h6 32. Nc5 b6 33. Nd7 Qd6 34.
+Re8+ Bxe8 35. Rxe8+ Kg7 36. g3 Rg5 37. Qf8+ Qxf8 38. Nxf8 Kf7 39. Rb8 Rg8 40.
+Nd7 Rxb8 41. Nxb8 Ke6 0-1

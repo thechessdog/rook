@@ -1,0 +1,19 @@
+[Event "Strangnes"]
+[Site "Strangnes"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Backe, Peter"]
+[Black "Alm, H."]
+[Result "1-0"]
+[ECO "E06"]
+[Opening "Catalan"]
+[Variation "closed, 5.Nf3"]
+[HashCode "56ca976a"]
+[Epoch "Rook"]
+[WhiteID "1701240"]
+[WhiteCountry "SWE"]
+
+1. c4 e6 2. g3 Nf6 3. Bg2 d5 4. d4 Be7 5. Nf3 Nbd7 6. O-O b6 7. Ne5 Bb7 8. Qa4
+O-O 9. Nc6 Qe8 10. Nxe7+ Qxe7 11. Nc3 c5 12. cxd5 exd5 13. Bg5 h6 14. Bxd5 cxd4
+15. Qxd4 hxg5 16. Bxb7 Rad8 17. Bg2 Nc5 18. Qc4 Rc8 19. Nd5 Nxd5 20. Bxd5 Qf6
+21. Qg4 Qxb2 22. Qxg5 Qxe2 23. Rae1 Qb5 24. Re4 Qe2 25. Qg6 Qd3 26. Qh5 1-0

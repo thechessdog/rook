@@ -1,0 +1,20 @@
+[Event "corr EU"]
+[Site "corr EU"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Hinze, H."]
+[Black "Antritter, G."]
+[Result "1-0"]
+[ECO "B77"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, 9.Bc4"]
+[HashCode "dccdef09"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6 5. Nc3 Bg7 6. Be3 d6 7. Bc4 Nf6
+8. f3 O-O 9. Qd2 e6 10. Nxc6 bxc6 11. Bh6 d5 12. Bxg7 Kxg7 13. O-O-O Bb7
+14. Bb3 Rb8 15. h4 a5 16. h5 gxh5 17. Qg5+ Kh8 18. Qe5 Rg8 19. exd5 cxd5
+20. Ne4 Rg6 21. Nxf6 Rxf6 22. Rxh5 Kg8 23. Rdh1 Rf5 24. Rxf5 exf5 25. Qxf5
+Qd6 26. Qxh7+ Kf8 27. Ba4 Qg3 28. Kd1 Rc8 29. Qh6+ Qg7 30. Qd6+ Kg8 31. Rh4
+1-0
+

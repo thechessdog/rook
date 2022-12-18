@@ -1,0 +1,19 @@
+[Event "Budapest"]
+[Site "Budapest"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Csom, Istvan"]
+[Black "Adorjan, Andras"]
+[Result "1/2-1/2"]
+[ECO "E63"]
+[Opening "King's Indian"]
+[Variation "fianchetto, Panno variation"]
+[HashCode "a955f79c"]
+[Epoch "Rook"]
+[WhiteID "700100"]
+[WhiteCountry "HUN"]
+[BlackID "700096"]
+[BlackCountry "HUN"]
+
+1. d4 Nf6 2. c4 g6 3. Nf3 Bg7 4. g3 O-O 5. Bg2 d6 6. Nc3 Nc6 7. O-O a6 8. d5
+Na5 9. Nd2 c5 10. Rb1 Rb8 11. b3 b5 12. Bb2 Bh6 13. cxb5 axb5 14. Nde4 1/2-1/2

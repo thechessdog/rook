@@ -1,0 +1,20 @@
+[Event "Aarhus"]
+[Site "Aarhus"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Hansen, Curt"]
+[Black "Kristensen, Leif"]
+[Result "1-0"]
+[ECO "E10"]
+[Opening "Queen's pawn game"]
+[HashCode "8bf06ebe"]
+[Epoch "Rook"]
+[BlackID "1404571"]
+[WhiteID "1400010"]
+[WhiteCountry "DEN"]
+[BlackCountry "DEN"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 c5 4. e3 Be7 5. Nc3 O-O 6. Bd3 cxd4 7. exd4 d5 8. O-O
+b6 9. cxd5 Nxd5 10. Nxd5 exd5 11. Ne5 Bf6 12. Re1 g6 13. Bf4 Bg7 14. Rc1 Be6
+15. Qa4 a6 16. b4 Qf6 17. Bg3 Bf5 18. Bxf5 Qxf5 19. Qb3 Rd8 20. Rc7 f6 21. Nf7
+Rf8 22. Nd6 Qh5 23. Be5 1-0

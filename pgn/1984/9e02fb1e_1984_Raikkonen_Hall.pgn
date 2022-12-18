@@ -1,0 +1,21 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Raikkonen"]
+[Black "Hall"]
+[Result "1-0"]
+[ECO "B10"]
+[Opening "Caro-Kann"]
+[Variation "two knights variation"]
+[HashCode "9e02fb1e"]
+[Epoch "Rook"]
+
+1. e4 c6 2. Nc3 d5 3. Nf3 dxe4 4. Nxe4 Nf6 5. Nxf6+ gxf6 6. Bc4 Bf5 7. d4
+e6 8. Bf4 Na6 9. O-O Nc7 10. Re1 Bd6 11. Bh6 Rg8 12. Bf1 Qd7 13. c4 O-O-O
+14. g3 Bg4 15. Bg2 f5 16. Qd2 Bxf3 17. Bxf3 f4 18. Rad1 fxg3 19. hxg3 Qe7
+20. Qe3 Qf6 21. Kf1 Rg6 22. Bf4 Bxf4 23. gxf4 Qg7 24. Ke2 f6 25. Be4 Rg4
+26. Rh1 Qd7 27. Rxh7 Qd6 28. Kf3 Rgg8 29. Qa3 f5 30. Bc2 Qxa3+ 31. bxa3 c5
+32. d5 Rd6 33. Re1 Ra6 34. dxe6 Rxa3+ 35. Re3 Rxa2 36. Bxf5 Ne8 37. e7+ Kc7
+38. Be6 Rg7 39. Rxg7 Nxg7 40. Bf7 Kd7 41. e8=Q+ 1-0
+

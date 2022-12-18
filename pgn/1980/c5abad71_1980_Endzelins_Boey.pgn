@@ -1,0 +1,17 @@
+[Event "corr Perfors mem"]
+[Site "corr Perfors mem"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Endzelins, Lucius"]
+[Black "Boey, Jef"]
+[Result "1/2-1/2"]
+[ECO "A07"]
+[Opening "Reti"]
+[Variation "King's Indian attack (Barcza system)"]
+[HashCode "c5abad71"]
+[Epoch "Rook"]
+
+1. Nf3 d5 2. g3 Nc6 3. d4 g6 4. Bg2 Bg7 5. O-O Bg4 6. c3 Qd7 7. Re1 O-O-O
+8. b4 Bxf3 9. exf3 e6 10. f4 Nf6 11. Nd2 Ne8 12. Nb3 b6 13. a4 Nb8 14. Qd3
+Nd6 15. Be3 Nc4 1/2-1/2
+

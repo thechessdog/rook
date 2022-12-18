@@ -1,0 +1,19 @@
+[Event "Boston"]
+[Site "Boston"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Stopa, John"]
+[Black "Savage, Alan"]
+[Result "0-1"]
+[ECO "B00"]
+[Opening "KP"]
+[Variation "Nimzovich defence"]
+[HashCode "1882c65a"]
+[Epoch "Rook"]
+[WhiteID "2002990"]
+[WhiteCountry "USA"]
+
+1. e4 Nc6 2. Nf3 e6 3. d4 d5 4. e5 f5 5. exf6 Nxf6 6. Bb5 Bd6 7. O-O O-O 8.
+Bxc6 bxc6 9. Be3 Qe8 10. h3 Rb8 11. Nbd2 Rxb2 12. Nb3 Qg6 13. Ne1 Ba6 14. Nd3
+Rxc2 15. Qxc2 Bxd3 16. Qxc6 Be4 17. f3 Qg3 18. Qxd6 cxd6 19. Bf2 Qf4 20. fxe4
+Nxe4 0-1

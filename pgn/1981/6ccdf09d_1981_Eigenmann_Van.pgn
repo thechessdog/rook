@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Eigenmann"]
+[Black "Van der Kooij"]
+[Result "1/2-1/2"]
+[ECO "E30"]
+[Opening "Nimzo-Indian"]
+[Variation "Leningrad variation"]
+[HashCode "6ccdf09d"]
+[Epoch "Rook"]
+[BlackID "1011812"]
+[BlackCountry "NED"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Bg5 h6 5. Bh4 c5 6. d5 Bxc3+ 7. bxc3 e5 8. f3
+d6 9. e4 Nbd7 10. Bd3 Nf8 11. Ne2 Ng6 12. Bf2 h5 13. Bc2 Bd7 14. Ba4 Bxa4 15.
+Qxa4+ Qd7 16. Qb3 h4 17. Rb1 b6 18. a4 Nh5 19. Be3 f5 20. Bg5 fxe4 21. O-O O-O
+1/2-1/2

@@ -1,0 +1,19 @@
+[Event "Nice"]
+[Site "Nice"]
+[Date "1981.01.01"]
+[Round "2"]
+[White "Karlsson, Lars"]
+[Black "De Firmian, Nick"]
+[Result "1/2-1/2"]
+[ECO "E38"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, 4...c5"]
+[HashCode "b2754070"]
+[Epoch "Rook"]
+[WhiteID "1700057"]
+[WhiteCountry "SWE"]
+[BlackID "2000105"]
+[BlackCountry "USA"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 c5 5. e3 O-O 6. Nf3 b6 7. Be2 Bb7 8. O-O
+cxd4 9. exd4 d5 10. b3 Nbd7 11. Bf4 Qe7 12. a3 Bd6 1/2-1/2

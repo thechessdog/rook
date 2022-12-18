@@ -1,0 +1,23 @@
+[Event "Sweden"]
+[Site "Sweden"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Rorvall, Goran"]
+[Black "Ernst, Thomas"]
+[Result "0-1"]
+[ECO "B76"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, 7...O-O"]
+[HashCode "87013d1d"]
+[Epoch "Rook"]
+[BlackID "1700065"]
+[BlackCountry "SWE"]
+[WhiteID "1700650"]
+[WhiteCountry "SWE"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. f3 Bg7 7. Be3 O-O 8. Qd2
+Nc6 9. g4 e6 10. O-O-O d5 11. Be2 Nxd4 12. Bxd4 dxe4 13. fxe4 e5 14. Bxe5 Qxd2+
+15. Rxd2 Nxg4 16. Bxg7 Kxg7 17. Bxg4 Bxg4 18. Rg1 h5 19. Rg3 f5 20. exf5 Rxf5
+21. b3 Raf8 22. Ne4 Rf3 23. Rxf3 Rxf3 24. a4 Re3 25. Nd6 Re7 26. a5 a6 27. Kb2
+g5 28. Kc3 Kg6 29. Kd4 Bf3 30. Nc4 g4 31. Rf2 Kf5 32. Ne3+ Kg5 33. c4 Rf7 34.
+Ke5 h4 35. Ng2 Rf5+ 36. Kd6 Rxa5 37. Ne3 Ra3 38. Rb2 Ra1 39. b4 Re1 0-1

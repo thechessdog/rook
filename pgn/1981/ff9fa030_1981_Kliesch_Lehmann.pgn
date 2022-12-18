@@ -1,0 +1,20 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Kliesch"]
+[Black "Lehmann, Heinz Dr"]
+[Result "0-1"]
+[ECO "B31"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (with ...g6, without ...d6)"]
+[HashCode "ff9fa030"]
+[Epoch "Rook"]
+[BlackCountry "DEU"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. Re1 e5 6. c3 Nge7 7. d3 d6 8. Be3
+O-O 9. h3 f5 10. Bg5 f4 11. Bxc6 bxc6 12. d4 cxd4 13. cxd4 exd4 14. Bxe7 Qxe7
+15. Nxd4 Bxd4 16. Qxd4 f3 17. Qc4+ Be6 18. Qf1 fxg2 19. Qxg2 Qh4 20. Re3 Rf4
+21. Nc3 Raf8 22. Rf1 Bc4 23. Ne2 Bxe2 24. Rxe2 Re8 25. e5 Rxe5 26. Rxe5 dxe5
+27. Qxc6 Qxh3 28. Qe8+ Rf8 29. Qxe5 Rf5 30. Qb8+ Kg7 31. Qg3 Qxg3+ 32. fxg3
+Rxf1+ 33. Kxf1 Kf6 34. Ke2 Ke5 0-1

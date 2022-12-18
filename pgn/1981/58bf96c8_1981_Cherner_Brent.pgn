@@ -1,0 +1,17 @@
+[Event "corr APCT"]
+[Site "corr APCT"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Cherner, L."]
+[Black "Brent, M."]
+[Result "0-1"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Milner-Barry gambit"]
+[HashCode "58bf96c8"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Qb6 5. Nf3 Nc6 6. Bd3 cxd4 7. cxd4 Bd7 8.
+O-O Nxd4 9. Nxd4 Qxd4 10. Nc3 a6 11. Qe2 Ne7 12. Re1 Nc6 13. a3 Be7 14. Qe3
+Qxe3 15. fxe3 Nxe5 16. Bc2 Rc8 17. Bd2 O-O 18. Rac1 Nc4 19. Re2 Nxb2 0-1
+

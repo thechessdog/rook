@@ -1,0 +1,17 @@
+[Event "corr Finland"]
+[Site "corr Finland"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Koskinen"]
+[Black "Paakkonen"]
+[Result "1-0"]
+[ECO "B81"]
+[Opening "Sicilian"]
+[Variation "Scheveningen, Keres attack"]
+[HashCode "7e2c0f0b"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. g4 a6 7. g5 Nfd7 8.
+Bg2 Nc6 9. O-O g6 10. Be3 Qc7 11. f4 Bg7 12. f5 Nde5 13. Ndb5 axb5 14. Nxb5
+Qd8 15. Nxd6+ Kf8 16. f6 1-0
+

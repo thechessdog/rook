@@ -1,0 +1,22 @@
+[Event "Lienz"]
+[Site "Lienz"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Lau, Ralf"]
+[Black "Cebalo, Miso"]
+[Result "0-1"]
+[ECO "B82"]
+[Opening "Sicilian"]
+[Variation "Scheveningen, 6.f4"]
+[HashCode "548fefc8"]
+[Epoch "Rook"]
+[BlackID "14500094"]
+[BlackCountry "CRO"]
+[WhiteID "4600134"]
+[WhiteCountry "GER"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e6 6. f4 Nc6 7. Be3 Bd7 8. Qf3
+a6 9. O-O-O Qc7 10. Be2 Rc8 11. g4 Nxd4 12. Rxd4 d5 13. Bd3 Ba3 14. Nxd5 exd5
+15. bxa3 Bxg4 16. Qg2 Qc3 17. exd5 O-O 18. Kb1 Rfe8 19. Qg3 Bf5 20. Rc1 Rc5 21.
+Bf2 Nh5 22. Qf3 Rb5+ 23. Rb4 Rxb4+ 24. axb4 Qxb4+ 25. Ka1 Qc3+ 26. Kb1 g6 27.
+Be2 Qb4+ 28. Ka1 Qd2 0-1

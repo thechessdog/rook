@@ -1,0 +1,20 @@
+[Event "corr DDR/FS"]
+[Site "corr DDR/FS"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Molzahn"]
+[Black "Moschell"]
+[Result "1-0"]
+[ECO "E43"]
+[Opening "Nimzo-Indian"]
+[Variation "Fischer variation"]
+[HashCode "fd0ffb24"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 b6 5. Bd3 Bb7 6. Nf3 c5 7. O-O O-O 8.
+Na4 cxd4 9. a3 Be7 10. exd4 d6 11. Re1 Nbd7 12. b4 Re8 13. Bb2 Bf8 14. Nc3
+Rc8 15. d5 e5 16. Ng5 h6 17. Nge4 Ba6 18. Qe2 Rc7 19. Rac1 Qc8 20. Nxf6+
+Nxf6 21. Ne4 Nxe4 22. Qxe4 g6 23. g4 Bg7 24. h3 Rf8 25. Be2 f5 26. gxf5
+gxf5 27. Qh4 Bf6 28. Qh5 Kh7 29. Kh1 Rg8 30. Rg1 Bg5 31. f4 Bxf4 32. Bd3
+Qf8 33. Bxf5+ Kh8 34. Rxg8+ Qxg8 35. Rg1 Qf7 36. Qh4 1-0
+

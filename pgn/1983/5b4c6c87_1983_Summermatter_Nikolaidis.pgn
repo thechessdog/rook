@@ -1,0 +1,28 @@
+[Event "Ravenna-J"]
+[Site "Ravenna"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Summermatter, Daniel"]
+[Black "Nikolaidis, Konstantinos"]
+[Result "0-1"]
+[ECO "B18"]
+[Opening "Caro-Kann"]
+[Variation "classical variation"]
+[HashCode "5b4c6c87"]
+[Epoch "Rook"]
+[WhiteID "1300385"]
+[WhiteCountry "SUI"]
+[BlackID "4200578"]
+[BlackCountry "GRE"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. Nf3 Nd7 7. Bd3 Ngf6 8.
+O-O e6 9. Re1 Be7 10. c4 O-O 11. Bxg6 hxg6 12. Bg5 Re8 13. a3 c5 14. dxc5 Nxc5
+15. b4 Ncd7 16. Qb3 Qc7 17. Rac1 b6 18. Nd4 e5 19. Nb5 Qc6 20. Bxf6 gxf6 21.
+Nc3 f5 22. Nd5 Bg5 23. Rc2 Rad8 24. Ne2 Nf6 25. Nec3 e4 26. Nxf6+ Bxf6 27. Nd5
+Be5 28. Rd1 Kg7 29. c5 b5 30. Rcd2 Rh8 31. h3 Rd7 32. f4 exf3 33. Qxf3 Re8 34.
+Rd3 Bb8 35. Nc3 Qxf3 36. gxf3 Rde7 37. Nxb5 Re2 38. Nd6 Rh8 39. f4 Rh4 40. Kf1
+Rh2 41. Kg1 R4xh3 42. Rxh3 Rxh3 43. a4 Rc3 44. a5 a6 45. Kf2 Ba7 46. Rd5 Rb3
+47. Ke2 Rxb4 48. c6 Bb8 49. c7 Bxc7 50. Ne8+ Kh6 51. Nxc7 Rxf4 52. Nxa6 Ra4 53.
+Nc7 Kg5 54. a6 Kg4 55. Rd7 f4 56. Rxf7 g5 57. Nb5 Ra2+ 58. Ke1 Rxa6 59. Nd4 Rd6
+60. Ne2 Rd3 61. Nxf4 gxf4 62. Rg7+ Kh3 63. Rh7+ Kg2 64. Rg7+ Rg3 65. Rf7 Re3+
+66. Kd2 Kf3 0-1

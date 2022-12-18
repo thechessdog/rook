@@ -1,0 +1,18 @@
+[Event "corr FSM/EU Tch"]
+[Site "corr FSM/EU Tch"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Erlandsson, C."]
+[Black "Notzold, L."]
+[Result "1-0"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, poisoned pawn, Konstantinopolsky variation"]
+[HashCode "1e3a6f3d"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 Ne7 5. a3 Bxc3+ 6. bxc3 c5 7. Qg4 cxd4
+8. Qxg7 Rg8 9. Qxh7 Qc7 10. Ne2 Nbc6 11. f4 Bd7 12. Qd3 dxc3 13. Ng3 O-O-O
+14. Be2 Nf5 15. Nxf5 exf5 16. O-O d4 17. Bf3 Rg6 18. Re1 Be6 19. Rb1 Na5
+20. a4 Qd7 21. Rb5 Nc6 22. Ba3 Kb8 23. Bd6+ Ka8 24. Reb1 1-0
+

@@ -1,0 +1,19 @@
+[Event "BUL-ch"]
+[Site "Sofia"]
+[Date "1981.??.??"]
+[Round "17"]
+[White "Georgiev, Krum"]
+[Black "Lukov, Valentin"]
+[Result "1/2-1/2"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (without ...d6)"]
+[HashCode "97d409c3"]
+[Epoch "Rook"]
+[WhiteID "2900092"]
+[BlackID "2900157"]
+[WhiteCountry "FID"]
+[BlackCountry "FID"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 e6 4. O-O Nge7 5. c3 a6 6. Bxc6 Nxc6 7. d4 d5 8. Qe2
+Be7 9. Rd1 cxd4 10. exd5 Qxd5 11. cxd4 O-O 12. Nc3 Qh5 13. Bf4 1/2-1/2

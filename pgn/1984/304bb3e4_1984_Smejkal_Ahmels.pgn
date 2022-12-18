@@ -1,0 +1,23 @@
+[Event "Berlin op"]
+[Site "Berlin-West"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Smejkal, Jan"]
+[Black "Ahmels, Volker"]
+[Result "1-0"]
+[ECO "A17"]
+[Opening "English"]
+[Variation "Nimzo-English opening"]
+[HashCode "304bb3e4"]
+[Epoch "Rook"]
+[WhiteID "300020"]
+[BlackID "4604652"]
+[WhiteCountry "CZE"]
+[BlackCountry "GER"]
+
+1. c4 Nf6 2. Nf3 e6 3. Nc3 Bb4 4. g3 O-O 5. Bg2 d5 6. a3 Be7 7. d4 c5 8. cxd5
+cxd4 9. Nxd4 Nxd5 10. Nxd5 exd5 11. O-O Nc6 12. Be3 Bf6 13. Rc1 Be6 14. Nxc6
+bxc6 15. Bd4 Bd7 16. e4 Re8 17. exd5 cxd5 18. Bxf6 Qxf6 19. Qxd5 Rad8 20. b4 a6
+21. Rfe1 Rxe1+ 22. Rxe1 Bb5 23. Qf3 Qd6 24. Bf1 Bc6 25. Qb3 Qf6 26. Bg2 Bxg2
+27. Kxg2 h5 28. h4 Qg6 29. Qf3 Rf8 30. Re5 f5 31. Rc5 Rf6 32. Rc8+ Kh7 33. Qa8
+Qf7 34. Rh8+ Kg6 35. Qf3 1-0

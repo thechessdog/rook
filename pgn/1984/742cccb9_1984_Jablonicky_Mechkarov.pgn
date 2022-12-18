@@ -1,0 +1,17 @@
+[Event "Tirnavia-B"]
+[Site "Trnava"]
+[Date "1984.??.??"]
+[Round "1"]
+[White "Jablonicky, Frantisek"]
+[Black "Mechkarov, Ventzeslav"]
+[Result "1/2-1/2"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "Indian variation"]
+[HashCode "742cccb9"]
+[Epoch "Rook"]
+[WhiteID "14901390"]
+[WhiteCountry "SVK"]
+
+1. b3 Nf6 2. Bb2 g6 3. f4 Bg7 4. Nf3 d6 5. g3 Nc6 6. Bg2 O-O 7. O-O e5 8. c4
+exf4 9. gxf4 Re8 10. Na3 Bg4 11. Nc2 Qd7 12. e3 a5 13. a3 Rab8 14. a4 1/2-1/2

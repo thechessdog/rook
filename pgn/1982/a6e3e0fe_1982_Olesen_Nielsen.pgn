@@ -1,0 +1,21 @@
+[Event "DEN-chJ int"]
+[Site "Soro"]
+[Date "1982.01.01"]
+[Round "9"]
+[White "Olesen, Martin"]
+[Black "Nielsen, Torkil"]
+[Result "1-0"]
+[ECO "C81"]
+[Opening "Ruy Lopez"]
+[Variation "open, Howell attack"]
+[HashCode "a6e3e0fe"]
+[Epoch "Rook"]
+[WhiteID "1400860"]
+[BlackID "7200242"]
+[WhiteCountry "DEN"]
+[BlackCountry "FAI"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Be6 9. Qe2 Nc5 10. Rd1 Be7 11. c4 bxc4 12. Bxc4 Qd7 13. Bxd5 Bxd5 14. Nc3 Bxf3
+15. Qxf3 Qe6 16. Rd6 Bxd6 17. Qxc6+ Kd8 18. Bg5+ Kc8 19. exd6 Ra7 20. Qxc5 Rb7
+21. Rd1 Qd7 22. Bf4 Re8 23. h3 1-0

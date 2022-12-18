@@ -1,0 +1,17 @@
+[Event "corr FRG/K"]
+[Site "corr FRG/K"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Walther, Edgar"]
+[Black "Kuhn"]
+[Result "1/2-1/2"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Milner-Barry gambit"]
+[HashCode "0655dfaf"]
+[Epoch "Rook"]
+[WhiteCountry "CHE"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Qb6 5. Nf3 Nc6 6. Bd3 cxd4 7. cxd4 Bd7 8. O-O
+Nxd4 9. Nxd4 Qxd4 10. Nc3 a6 11. Kh1 Ne7 12. f4 Nc6 13. a3 g6 14. Qe2 Qb6 15.
+Be3 Qb3 16. Bb1 Qc4 17. Bd3 Qb3 18. Bb1 Qc4 1/2-1/2

@@ -1,0 +1,21 @@
+[Event "Randaberg"]
+[Site "Randaberg"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Randeberg, Kurt"]
+[Black "Haugen, Arild"]
+[Result "0-1"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Milner-Barry gambit"]
+[HashCode "23864d74"]
+[Epoch "Rook"]
+[BlackID "1505076"]
+[BlackCountry "NOR"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. Bc2 cxd4 8. cxd4
+Bb4+ 9. Nc3 Nge7 10. O-O Bxc3 11. bxc3 Na5 12. Bd3 Nc4 13. Re1 f5 14. Ng5 h6
+15. Nh3 O-O-O 16. Bxc4 dxc4 17. Ba3 Nd5 18. Qd2 g5 19. Rab1 Qa5 20. Bb4 Nxb4
+21. Rxb4 Qd5 22. Qe2 Bc6 23. f3 b5 24. Reb1 a5 25. R4b2 Kc7 26. Qd1 b4 27. cxb4
+axb4 28. Rxb4 Qxd4+ 29. Qxd4 Rxd4 30. Rc1 Bd5 31. Rc2 g4 32. fxg4 Rxg4 33. g3
+Rhg8 34. Nf4 Rxf4 0-1

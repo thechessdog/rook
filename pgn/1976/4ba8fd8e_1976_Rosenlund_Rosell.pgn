@@ -1,0 +1,20 @@
+[Event "Aarhus"]
+[Site "Aarhus"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Rosenlund, Thorbjorn"]
+[Black "Rosell, Kaj"]
+[Result "1/2-1/2"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "4.Nf3"]
+[HashCode "4ba8fd8e"]
+[Epoch "Rook"]
+[WhiteID "1400614"]
+[WhiteCountry "DEN"]
+[BlackID "1400380"]
+[BlackCountry "DEN"]
+
+1. c4 e6 2. Nc3 d5 3. d4 Nf6 4. Nf3 Be7 5. Bg5 Nbd7 6. e3 h6 7. Bh4 O-O 8. Qc2
+c5 9. cxd5 Nxd5 10. Bxe7 Qxe7 11. Rd1 Nxc3 12. Qxc3 b6 13. Bb5 Bb7 14. Qa3 Rfc8
+15. dxc5 Nxc5 16. O-O 1/2-1/2

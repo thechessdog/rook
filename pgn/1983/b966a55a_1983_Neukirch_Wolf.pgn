@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Neukirch, D."]
+[Black "Wolf, L."]
+[Result "1-0"]
+[ECO "C78"]
+[Opening "Ruy Lopez"]
+[Variation "Archangelsk (counterthrust) variation"]
+[HashCode "b966a55a"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Bb7 7. d3 Be7 8.
+c4 bxc4 9. Bxc4 O-O 10. Nc3 d6 11. a3 Qd7 12. b4 Qg4 13. Be3 Nh5 14. Nd5
+Bd8 15. Rc1 Kh8 16. h3 Qg6 17. Nxc7 Rc8 18. Bxa6 Rxc7 19. Bxb7 Rxb7 20.
+Rxc6 f5 21. exf5 Rxf5 22. Nh4 1-0
+

@@ -1,0 +1,21 @@
+[Event "Lublin"]
+[Site "Lublin"]
+[Date "1977.01.01"]
+[Round "9"]
+[White "Sznapik, Aleksander"]
+[Black "Savon, Vladimir"]
+[Result "0-1"]
+[ECO "B92"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Opovcensky variation"]
+[HashCode "59aaf2c1"]
+[Epoch "Rook"]
+[WhiteID "1100050"]
+[WhiteCountry "POL"]
+[BlackID "14138786"]
+[BlackCountry "UKR"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8. O-O
+O-O 9. a4 Be6 10. f4 Nbd7 11. Be3 Rc8 12. Bf3 exf4 13. Bxf4 Ne5 14. Kh1 Nfd7
+15. Nd4 Qb6 16. Nf5 Rfe8 17. Rb1 Bf8 18. Be2 Qb4 19. Ne3 Nb6 20. a5 Qxa5 21. b4
+Qa3 22. Ncd5 Nxd5 23. exd5 Bd7 24. Rb3 Qa2 25. Bxe5 Rxe5 26. Nc4 Re7 0-1

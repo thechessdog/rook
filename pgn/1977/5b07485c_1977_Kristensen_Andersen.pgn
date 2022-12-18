@@ -1,0 +1,18 @@
+[Event "Rajamaki"]
+[Site "Rajamaki"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Kristensen, Leif"]
+[Black "Andersen, Jorgen"]
+[Result "1-0"]
+[ECO "C27"]
+[Opening "Vienna"]
+[Variation "Alekhine variation"]
+[HashCode "5b07485c"]
+[Epoch "Rook"]
+[WhiteID "1404571"]
+[WhiteCountry "DEN"]
+
+1. e4 e5 2. Bc4 Nf6 3. Nc3 Nxe4 4. Qh5 Nd6 5. Bb3 Be7 6. Nf3 Nc6 7. Nxe5 O-O 8.
+O-O Nxe5 9. Qxe5 Bf6 10. Qf4 Bg5 11. Qf3 c6 12. d4 Qf6 13. Bxg5 Qxg5 14. Rfe1
+Nf5 15. d5 d6 16. dxc6 Nd4 17. Qxf7+ Rxf7 18. Re8# 1-0

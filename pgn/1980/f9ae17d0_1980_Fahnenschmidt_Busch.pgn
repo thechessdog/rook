@@ -1,0 +1,19 @@
+[Event "Mosbach Elo"]
+[Site "Mosbach Elo"]
+[Date "1980.01.01"]
+[Round "6"]
+[White "Fahnenschmidt, Gerhard"]
+[Black "Busch, Raimund"]
+[Result "1/2-1/2"]
+[ECO "E04"]
+[Opening "Catalan"]
+[Variation "open, 5.Nf3"]
+[HashCode "f9ae17d0"]
+[Epoch "Rook"]
+[WhiteID "4600568"]
+[WhiteCountry "GER"]
+[BlackID "4602480"]
+[BlackCountry "GER"]
+
+1. c4 e6 2. Nf3 d5 3. d4 Nf6 4. g3 dxc4 5. Bg2 c5 6. O-O Nc6 7. Qa4 cxd4 8.
+Nxd4 Qxd4 9. Bxc6+ Bd7 10. Rd1 Qxd1+ 11. Qxd1 Bxc6 1/2-1/2

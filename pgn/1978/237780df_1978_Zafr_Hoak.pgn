@@ -1,0 +1,20 @@
+[Event "Toledo,OH"]
+[Site "Toledo,OH"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Zafr, A."]
+[Black "Hoak, D."]
+[Result "1-0"]
+[ECO "B10"]
+[Opening "Caro-Kann"]
+[Variation "closed (Breyer) variation"]
+[HashCode "237780df"]
+[Epoch "Rook"]
+
+1. e4 c6 2. d3 d5 3. Nf3 dxe4 4. dxe4 Qxd1+ 5. Kxd1 Bg4 6. Be2 Nd7 7. Nbd2
+Rd8 8. h3 Bxf3 9. Bxf3 e6 10. Ke2 Ne5 11. Re1 Nf6 12. Kf1 Bb4 13. c3 Bc5
+14. Nb3 Be7 15. Be3 Nxf3 16. gxf3 a6 17. Bb6 Rb8 18. Rad1 O-O 19. e5 Nd5
+20. Bc5 Rfe8 21. c4 Nf4 22. Rd7 Bh4 23. Bd6 Ra8 24. Rxb7 Bxf2 25. Rd1 Be3
+26. Bc5 Bxc5 27. Nxc5 Ng6 28. f4 Nxf4 29. Rdd7 Rf8 30. b3 Nxh3 31. Nxe6
+Rfc8 32. Rxf7 Rf8 33. Nxf8 Rxf8 34. Rxf8+ Kxf8 35. Rc7 Ng5 36. Rxc6 1-0
+

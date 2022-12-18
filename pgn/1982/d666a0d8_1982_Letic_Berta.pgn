@@ -1,0 +1,23 @@
+[Event "corr Heilimo mem"]
+[Site "corr Heilimo mem"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Letic"]
+[Black "Berta"]
+[Result "1-0"]
+[ECO "E88"]
+[Opening "King's Indian"]
+[Variation "Saemisch, orthodox, 7.d5 c6"]
+[HashCode "d666a0d8"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 e5 7. d5 c6 8. Bd3
+cxd5 9. cxd5 Ne8 10. Qd2 f5 11. exf5 Bxf5 12. Nge2 Bxd3 13. Qxd3 Bh6 14.
+O-O-O Bxe3+ 15. Qxe3 Nd7 16. Kb1 Nc5 17. h4 Nf6 18. Ng3 b5 19. h5 b4 20.
+Nce2 Qc7 21. hxg6 hxg6 22. Rh4 a5 23. f4 Rfe8 24. f5 Qg7 25. Qg5 gxf5 26.
+Qxf5 Kf7 27. Nh5 Qg6 28. Rf1 Rh8 29. Qxg6+ Kxg6 30. Rxf6+ Kg5 31. Rc4 Rxh5
+32. Rxd6 Nd3 33. Ng3 Rh2 34. Ne4+ Kf5 35. g4+ Kxg4 36. Nf2+ Kf5 37. Nxd3 e4
+38. Nc1 Rg8 39. Re6 Rgg2 40. b3 Rb2+ 41. Ka1 Rbc2 42. Re8 Rcd2 43. Rexe4
+Rxd5 44. Rh4 Rhd2 45. Rh5+ Ke6 46. Rxd5 Kxd5 47. Kb1 a4 48. Rxb4 axb3 49.
+axb3 Kc5 50. Rc4+ Kb5 51. Rc2 Rd1 52. Kb2 1-0
+

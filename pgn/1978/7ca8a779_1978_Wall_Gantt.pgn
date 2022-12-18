@@ -1,0 +1,17 @@
+[Event "Hickory"]
+[Site "Hickory"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Wall, Bill"]
+[Black "Gantt"]
+[Result "1-0"]
+[ECO "C30"]
+[Opening "KGD"]
+[Variation "2...Nf6"]
+[HashCode "7ca8a779"]
+[Epoch "Rook"]
+[WhiteCountry "USA"]
+
+1. e4 e5 2. f4 Nf6 3. Nc3 Nc6 4. Bc4 Bc5 5. f5 Na5 6. Bb3 Nxb3 7. axb3 d6 8. d3
+g6 9. g4 gxf5 10. gxf5 h5 11. Bg5 Rg8 12. h4 Qd7 13. Bxf6 Bxg1 14. Qxh5 Be3 15.
+Qh7 Kf8 16. Nd5 Qc6 17. Be7+ 1-0

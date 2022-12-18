@@ -1,0 +1,20 @@
+[Event "Albena"]
+[Site "Albena"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Stoica, Valentin"]
+[Black "Radulov, Ivan"]
+[Result "1/2-1/2"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...e6"]
+[HashCode "7d0e2e13"]
+[Epoch "Rook"]
+[WhiteID "1200070"]
+[WhiteCountry "ROU"]
+[BlackID "2900300"]
+[BlackCountry "FID"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 e6 6. Nf3 Nc6 7. cxd5 Nxd5 8.
+Bd3 Be7 9. O-O O-O 10. a3 Bf6 11. Be4 Nce7 12. Qc2 g6 13. Bh6 Re8 14. Ne5 Bd7
+15. Rad1 Rc8 16. Qb3 1/2-1/2

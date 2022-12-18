@@ -1,0 +1,18 @@
+[Event "corr EUR/M"]
+[Site "corr EUR/M"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Engelbrecht, T."]
+[Black "Gromark, P."]
+[Result "1-0"]
+[ECO "B94"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.Bg5"]
+[HashCode "ac1275f3"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 Nbd7 7. Bc4 Qa5
+8. Qd2 e6 9. O-O-O b5 10. Bb3 Bb7 11. Rhe1 O-O-O 12. f3 Be7 13. Be3 b4 14.
+Na4 d5 15. e5 Nxe5 16. Nf5 Nc4 17. Bxc4 Qxa4 18. Nxe7+ Kb8 19. Qd4 Qa5 20.
+Nc6+ Bxc6 21. Qa7+ Kc8 22. Bxa6+ 1-0
+

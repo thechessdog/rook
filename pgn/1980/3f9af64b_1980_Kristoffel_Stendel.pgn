@@ -1,0 +1,18 @@
+[Event "corr Wcup3"]
+[Site "corr Wcup3"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Kristoffel"]
+[Black "Stendel"]
+[Result "1/2-1/2"]
+[ECO "B29"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rubinstein variation"]
+[HashCode "3f9af64b"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 Nf6 3. Nc3 Nc6 4. d4 d5 5. exd5 Nxd5 6. Nxd5 Qxd5 7. Be3
+cxd4 8. Nxd4 Qa5+ 9. Qd2 Qxd2+ 10. Kxd2 Nxd4 11. Bxd4 f6 12. f4 Bf5 13. Rd1
+e6 14. Be2 O-O-O 15. Kc1 Bd6 16. g3 a6 17. Rhf1 Bc7 18. b4 Bh3 19. Rfe1 h5
+20. Bc4 Rhe8 21. a4 Bg4 22. Rd3 Bf5 23. Rdd1 Bg4 24. Rd3 1/2-1/2
+

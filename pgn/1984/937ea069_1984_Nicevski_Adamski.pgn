@@ -1,0 +1,19 @@
+[Event "Naleczow"]
+[Site "Naleczow"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Nicevski, Risto"]
+[Black "Adamski, Jan"]
+[Result "1/2-1/2"]
+[ECO "B42"]
+[Opening "Sicilian"]
+[Variation "Kan, 5.Bd3"]
+[HashCode "937ea069"]
+[Epoch "Rook"]
+[BlackID "1100190"]
+[BlackCountry "POL"]
+[WhiteCountry "MKD"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Nf6 6. O-O d6 7. c4 b6 8. Nc3
+Bb7 9. Kh1 Be7 10. f4 O-O 11. Qe2 Nc6 12. Nf3 Nd7 13. Be3 Nc5 14. Bc2 Qc7 15.
+Rae1 Rad8 1/2-1/2

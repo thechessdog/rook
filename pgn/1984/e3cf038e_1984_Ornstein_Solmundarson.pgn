@@ -1,0 +1,28 @@
+[Event "Reykjavik"]
+[Site "Reykjavik"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Ornstein, Axel"]
+[Black "Solmundarson, Magnus"]
+[Result "1-0"]
+[ECO "B10"]
+[Opening "Caro-Kann"]
+[Variation "anti-Caro-Kann defence"]
+[HashCode "e3cf038e"]
+[Epoch "Rook"]
+[WhiteID "1700111"]
+[WhiteCountry "SWE"]
+[BlackID "2300850"]
+[BlackCountry "ISL"]
+
+1. e4 c6 2. c4 e5 3. Nf3 d6 4. d4 Qc7 5. Nc3 Bg4 6. Be3 Nf6 7. h3 Bh5 8. Be2
+Be7 9. c5 Bxf3 10. cxd6 Bxd6 11. Bxf3 exd4 12. Bxd4 Nbd7 13. O-O O-O 14. Qc2
+Bh2+ 15. Kh1 Be5 16. Be3 Bf4 17. Rae1 Rfe8 18. g3 Bxe3 19. Rxe3 Ne5 20. Bg2 Nc4
+21. Re2 Rad8 22. b3 Na3 23. Qb2 Qa5 24. b4 Qa6 25. Rfe1 Nc4 26. b5 Qa5 27. Qb3
+Rd3 28. e5 Rxe5 29. Qxc4 Rxe2 30. Rxe2 Qxc3 31. Qxc3 Rxc3 32. Re7 cxb5 33. Rxb7
+g6 34. Rxa7 Rc1+ 35. Kh2 Rc2 36. Kg1 Rc1+ 37. Kh2 Rc2 38. Kg1 Rc1+ 39. Bf1 Ne4
+40. Kg2 Nc3 41. Rc7 b4 42. Bc4 Nxa2 43. Bxf7+ Kf8 44. Rb7 Nc3 45. Bb3 Rb1 46.
+Rxb4 Ke7 47. Rb7+ Kf8 48. Rf7+ Ke8 49. Bc4 Rb4 50. Rc7 Kd8 51. Rc5 Rb2 52. Bd3
+Na4 53. Rc4 Nb6 54. Rh4 Rd2 55. Bb1 Rd7 56. Ba2 Rg7 57. Re4 Nd7 58. h4 Re7 59.
+Ra4 Kc7 60. g4 Nc5 61. Rd4 Re4 62. Rxe4 Nxe4 63. g5 Kd7 64. Bg8 Ke7 65. f3 Nd6
+66. Bxh7 Kf7 67. h5 gxh5 68. Kg3 1-0

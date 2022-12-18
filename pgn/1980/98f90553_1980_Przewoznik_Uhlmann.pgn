@@ -1,0 +1,22 @@
+[Event "Poland"]
+[Site "Poland"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Przewoznik, Jan"]
+[Black "Uhlmann, Wolfgang"]
+[Result "0-1"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Paulsen attack"]
+[HashCode "98f90553"]
+[Epoch "Rook"]
+[WhiteID "1100149"]
+[BlackID "4611284"]
+[WhiteCountry "POL"]
+[BlackCountry "GER"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. a3 c4 7. g3 f6 8. exf6 Nxf6
+9. Bg2 Bd6 10. O-O O-O 11. Nbd2 e5 12. dxe5 Bxe5 13. Nxe5 Nxe5 14. Qe2 Re8 15.
+Nf3 Bg4 16. Qd1 Rad8 17. Be3 Qxb2 18. Bd4 b6 19. h3 Nxf3+ 20. Bxf3 Bxf3 21.
+Qxf3 Qe2 22. Qf4 Qe4 23. Qg5 h6 24. Qd2 Qf5 25. Bxf6 Qxf6 26. Rad1 b5 27. Qb2
+a6 28. a4 bxa4 29. Ra1 Qf3 30. Rxa4 Re2 31. Qc1 Rf8 32. Qd1 Rxf2 0-1

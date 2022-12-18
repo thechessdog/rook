@@ -1,0 +1,21 @@
+[Event "Split"]
+[Site "Split"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Nikolic, Sava N"]
+[Black "Avshalumov, Alex"]
+[Result "0-1"]
+[ECO "A80"]
+[Opening "Dutch"]
+[HashCode "a6ae3937"]
+[Epoch "Rook"]
+[WhiteID "901857"]
+[BlackID "4101227"]
+[WhiteCountry "SRB"]
+[BlackCountry "RUS"]
+
+1. d4 f5 2. Nc3 d5 3. Bg5 Nf6 4. e3 e6 5. Nf3 a6 6. Ne5 c5 7. Bxf6 Qxf6 8. Na4
+Nd7 9. Nxd7 Bxd7 10. Nxc5 Bxc5 11. dxc5 Qxb2 12. Qd4 Qa3 13. Qxg7 O-O-O 14. Rb1
+Rhg8 15. Qe5 Qxc5 16. Rb3 Bc6 17. Qxe6+ Kb8 18. Qe5+ Ka8 19. Qd4 Qe7 20. Bd3
+Rxg2 21. Qb4 Qd7 22. Qb6 d4 23. Bxa6 Rg6 24. Ra3 Kb8 25. Rf1 Bf3 26. Qb4 Rxa6
+27. Rxa6 dxe3 28. Qf4+ Qc7 0-1

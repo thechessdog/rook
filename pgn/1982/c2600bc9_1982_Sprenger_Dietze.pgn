@@ -1,0 +1,22 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Sprenger"]
+[Black "Dietze"]
+[Result "0-1"]
+[ECO "B25"]
+[Opening "Sicilian"]
+[Variation "closed, 6.f4"]
+[HashCode "c2600bc9"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. f4 e6 7. Nf3 Nge7 8.
+O-O Nd4 9. Ne2 Nec6 10. c3 Nxf3+ 11. Bxf3 O-O 12. Be3 f5 13. exf5 gxf5 14.
+Qe1 Qf6 15. Kh1 Bd7 16. Rg1 Kh8 17. g4 fxg4 18. Bxg4 Ne7 19. Ng3 Bc6+ 20.
+Ne4 Nf5 21. Bd2 b5 22. h3 Qe7 23. Kh2 e5 24. Ng5 h6 25. Nf3 Qb7 26. Qf2
+exf4 27. Rae1 Rf6 28. Bxf5 Bxf3 29. Be4 Bxe4 30. Rxe4 Raf8 31. Rge1 Qf7 32.
+b3 Qh5 33. d4 f3 34. Rg4 Rg6 35. Reg1 Rxg4 36. Rxg4 b4 37. Rh4 Qg6 38. Qg1
+Qf6 39. Rf4 Qxf4+ 40. Bxf4 Rxf4 41. Qe3 Rf5 42. Qe4 Rf8 43. Kg1 bxc3 44.
+dxc5 dxc5 45. b4 c2 0-1
+

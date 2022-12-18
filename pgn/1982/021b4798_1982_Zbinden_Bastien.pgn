@@ -1,0 +1,18 @@
+[Event "Soro"]
+[Site "Soro"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Zbinden, Roland"]
+[Black "Bastien, Jean"]
+[Result "1/2-1/2"]
+[ECO "A16"]
+[Opening "English"]
+[Variation "Anglo-Gruenfeld, Czech defense"]
+[HashCode "021b4798"]
+[Epoch "Rook"]
+
+1. c4 Nf6 2. Nc3 d5 3. cxd5 Nxd5 4. g3 g6 5. Bg2 Nb6 6. Nf3 Bg7 7. O-O O-O
+8. d3 Nc6 9. Be3 h6 10. Qd2 Kh7 11. Rfc1 e5 12. b4 Be6 13. Rab1 Nd5 14.
+Nxd5 Bxd5 15. b5 Nd4 16. Nxd4 exd4 17. Bf4 Bxg2 18. Kxg2 Rc8 19. Qa5 Be5
+20. Bxe5 Qd5+ 21. Kg1 Qxe5 1/2-1/2
+

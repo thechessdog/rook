@@ -1,0 +1,17 @@
+[Event "Virovitica"]
+[Site "Virovitica"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Zoric, S."]
+[Black "Pavicic, Z."]
+[Result "1/2-1/2"]
+[ECO "C08"]
+[Opening "French"]
+[Variation "Tarrasch, open, 4.ed ed"]
+[HashCode "474cf81a"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. exd5 exd5 5. Bb5+ Nc6 6. Ngf3 c4 7. O-O Bd6
+8. Re1+ Ne7 9. b3 cxb3 10. axb3 O-O 11. c3 Bf5 12. Nh4 Bd7 13. Bd3 Ng6 14.
+Nxg6 hxg6 15. Nf3 Qc7 16. Bg5 a6 17. Bh4 Rac8 18. Bg3 Bxg3 19. hxg3 1/2-1/2
+

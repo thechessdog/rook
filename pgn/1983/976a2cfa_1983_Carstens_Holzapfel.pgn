@@ -1,0 +1,20 @@
+[Event "Duitsland tt"]
+[Site "Duitsland tt"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Carstens, Andreas"]
+[Black "Holzapfel, Daniel"]
+[Result "1/2-1/2"]
+[ECO "B19"]
+[Opening "Caro-Kann"]
+[Variation "classical, Spassky variation"]
+[HashCode "976a2cfa"]
+[Epoch "Rook"]
+[WhiteID "4600770"]
+[BlackID "4604059"]
+[WhiteCountry "GER"]
+[BlackCountry "GER"]
+
+1. e4 c6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. Nf3 Nd7 7. h4 h6 8. h5
+Bh7 9. Bd3 Bxd3 10. Qxd3 Qc7 11. Bd2 Ngf6 12. O-O-O e6 13. Qe2 c5 14. Rhe1 cxd4
+15. Nxd4 Bc5 16. Nb3 Bd6 1/2-1/2

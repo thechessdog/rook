@@ -1,0 +1,21 @@
+[Event "Berlin"]
+[Site "Berlin"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Nielsen, Jens"]
+[Black "Keogh, Eamon"]
+[Result "1-0"]
+[ECO "C64"]
+[Opening "Ruy Lopez"]
+[Variation "classical defence, 4.c3"]
+[HashCode "52c13c45"]
+[Epoch "Rook"]
+[WhiteID "1409310"]
+[WhiteCountry "DEN"]
+[BlackID "2500264"]
+[BlackCountry "IRL"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. c3 Nf6 5. d3 Qe7 6. O-O d6 7. d4 a6 8. Bxc6+
+bxc6 9. dxc5 d5 10. exd5 cxd5 11. Bg5 c6 12. Re1 e4 13. Qd4 O-O 14. Nbd2 Re8
+15. Nf1 h6 16. Bxf6 gxf6 17. N3d2 f5 18. f4 Qh4 19. Qf2 Qf6 20. Nb3 Kh7 21. Re3
+Rg8 22. Rh3 Rg6 23. Nd4 Bd7 24. Ne3 Rag8 25. Kh1 1-0

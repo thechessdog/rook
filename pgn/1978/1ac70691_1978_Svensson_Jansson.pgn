@@ -1,0 +1,23 @@
+[Event "Sweden"]
+[Site "Sweden"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Svensson, Bengt"]
+[Black "Jansson, Borje"]
+[Result "0-1"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, 6.Bd3"]
+[HashCode "1ac70691"]
+[Epoch "Rook"]
+[WhiteID "1722891"]
+[BlackID "1700189"]
+[WhiteCountry "SWE"]
+[BlackCountry "SWE"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 O-O 6. Bd3 Nc6 7. f5 Nb4 8. fxg6
+Nxd3+ 9. Qxd3 hxg6 10. Bg5 d5 11. e5 Ne4 12. Nxe4 Bf5 13. Qe3 Bxe4 14. c3 f6
+15. Bh6 Qd7 16. O-O Bxh6 17. Qxh6 Qg4 18. Rf2 Rf7 19. Raf1 Raf8 20. Nd2 Bd3 21.
+Rf4 Qe6 22. Rh4 Rg7 23. Rf3 Bf5 24. Qe3 fxe5 25. Qxe5 Qxe5 26. dxe5 c5 27. Rhf4
+Rgf7 28. Kf2 g5 29. Ra4 g4 30. Rff4 Bd7 31. Ke3 Bxa4 32. Rxa4 Rg7 33. Rxa7 Rg5
+34. g3 Rxe5+ 35. Kd3 c4+ 36. Kd4 Re2 37. Nb1 Rxb2 0-1

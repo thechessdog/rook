@@ -1,0 +1,25 @@
+[Event "Saratov"]
+[Site "Saratov"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Gorelov, Sergey G"]
+[Black "Yudasin, Leonid"]
+[Result "0-1"]
+[ECO "E06"]
+[Opening "Catalan"]
+[Variation "closed, 5.Nf3"]
+[HashCode "4d1bd0cc"]
+[Epoch "Rook"]
+[BlackID "2802341"]
+[WhiteCountry "RUS"]
+[BlackCountry "ISR"]
+
+1. c4 Nf6 2. d4 e6 3. g3 d5 4. Bg2 Be7 5. Nf3 O-O 6. O-O b6 7. Nc3 Bb7 8. cxd5
+exd5 9. Qc2 Na6 10. Rd1 Qc8 11. Bg5 Rd8 12. Rac1 h6 13. Bxf6 Bxf6 14. a3 c5 15.
+e3 Be7 16. Ne2 c4 17. Nf4 Nc7 18. Bh3 Qb8 19. Ne5 Rd6 20. e4 Bg5 21. exd5 Bxf4
+22. gxf4 Nxd5 23. Qxc4 Qd8 24. Qb3 Qf6 25. Bg2 Rad8 26. Kh1 Ba8 27. Re1 Qxf4
+28. Qf3 f6 29. Nc4 R6d7 30. Qxf4 Nxf4 31. Bxa8 Rxa8 32. Re4 Nd3 33. Rc2 Rc8 34.
+Ree2 Rxd4 35. Ne3 Rxc2 36. Rxc2 Rd7 37. b4 Kf7 38. Kg1 Ke6 39. Rc8 f5 40. Kg2
+f4 41. Nc4 b5 42. Na5 Ne1+ 43. Kf1 Nf3 44. Nb3 Kf5 45. Rf8+ Kg4 46. Nc5 Rd1+
+47. Ke2 Rd2+ 48. Kf1 Nxh2+ 49. Kg2 Nf3 50. Rf7 Nh4+ 51. Kf1 Kf3 52. Ke1 Rd5 53.
+Rd7 Rxd7 54. Nxd7 Kg2 0-1

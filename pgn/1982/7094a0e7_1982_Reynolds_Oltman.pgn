@@ -1,0 +1,16 @@
+[Event "corr USCCC"]
+[Site "corr USCCC"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Reynolds, R."]
+[Black "Oltman, T."]
+[Result "1-0"]
+[ECO "A80"]
+[Opening "Dutch"]
+[HashCode "7094a0e7"]
+[Epoch "Rook"]
+
+1. d4 f5 2. Nc3 d5 3. e4 dxe4 4. Bg5 g6 5. Bc4 Nf6 6. f3 Nc6 7. fxe4 Qxd4
+8. Qxd4 Nxd4 9. O-O-O Ne6 10. Bxf6 exf6 11. exf5 Nf4 12. Nb5 Bd6 13. fxg6
+hxg6 14. g3 Be6 15. Nxd6+ 1-0
+

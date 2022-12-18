@@ -1,0 +1,20 @@
+[Event "corr EU/M"]
+[Site "corr EU/M"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Kornath"]
+[Black "Weyerstrass, Ronald"]
+[Result "0-1"]
+[ECO "C12"]
+[Opening "French"]
+[Variation "MacCutcheon, Lasker variation, 8...g6"]
+[HashCode "95f64c97"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 e6 4. e4 Bb4 5. e5 h6 6. Bd2 Bxc3 7. bxc3 Ne4 8. Qg4
+g6 9. Bd3 Nxd2 10. Kxd2 c5 11. Qf4 cxd4 12. cxd4 Qa5+ 13. Ke3 Nd7 14. Ne2 b6
+15. h4 Ba6 16. Bxa6 Qxa6 17. Kd2 b5 18. Rh3 Nb6 19. Rf3 Rh7 20. Kd1 Na4 21. Rb1
+Rc8 22. Rbb3 Rc4 23. Qc1 b4 24. a3 Nc3+ 25. Nxc3 Rxd4+ 26. Ke1 bxc3 27. Rfxc3
+Kf8 28. Rb4 Rxb4 29. axb4 d4 30. Rc5 Qb7 31. Qa3 Qxg2 32. Qxa7 Qh1+ 33. Kd2
+Qxh4 34. Rc8+ Kg7 35. Qc5 Qxf2+ 36. Kc1 g5 37. b5 g4 38. b6 g3 39. b7 g2 40.
+b8=Q g1=Q+ 41. Kb2 Kg6 42. Qbb5 Qe3 0-1

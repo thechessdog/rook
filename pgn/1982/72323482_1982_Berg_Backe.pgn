@@ -1,0 +1,21 @@
+[Event "Gavle"]
+[Site "Gavle"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Berg, A."]
+[Black "Backe, Peter"]
+[Result "0-1"]
+[ECO "C80"]
+[Opening "Ruy Lopez"]
+[Variation "open, Bernstein variation"]
+[HashCode "72323482"]
+[Epoch "Rook"]
+[BlackID "1701240"]
+[BlackCountry "SWE"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Be6 9. Nbd2 Nc5 10. c3 Be7 11. Bc2 Bg4 12. h3 Bh5 13. g4 Bg6 14. Nb3 Ne4 15.
+Nbd4 Nxd4 16. Nxd4 Qd7 17. a4 c5 18. Ne2 Rd8 19. axb5 axb5 20. f4 f5 21. exf6
+Nxf6 22. f5 Bf7 23. Nf4 h6 24. Qe1 d4 25. Ne6 Bxe6 26. fxe6 Qd5 27. Bg6+ Kf8
+28. Ra7 d3 29. Rd7 Rxd7 30. exd7 Qxd7 31. Qe4 d2 32. Qa8+ Bd8 33. Bxd2 Qxd2 34.
+Qb7 Qe3+ 35. Kh2 Qe7 36. Qxb5 Bc7+ 37. Kh1 Qe3 38. Kg2 Qg3+ 0-1

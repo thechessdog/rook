@@ -1,0 +1,20 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Martinez, Augusto"]
+[Black "Garcia, D."]
+[Result "1-0"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, 6.Bd3"]
+[HashCode "d028161d"]
+[Epoch "Rook"]
+[WhiteID "3704025"]
+[WhiteCountry "PAR"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 O-O 6. Bd3 Bg4 7. O-O c6 8. h3
+Bxf3 9. Qxf3 Qb6 10. Ne2 Nbd7 11. Kh1 e5 12. dxe5 dxe5 13. f5 Rad8 14. g4 Nc5
+15. Be3 Qa5 16. Bxc5 Qxc5 17. g5 Nh5 18. f6 Bh8 19. Ng3 Nf4 20. h4 Rd7 21. h5
+Rfd8 22. hxg6 fxg6 23. Rad1 Kf7 24. Rf2 Nh3 25. Rfd2 Nxg5 26. Bc4+ Kf8 27. Rxd7
+Rxd7 28. Rxd7 Qxc4 29. Qa3+ c5 30. Qxa7 1-0

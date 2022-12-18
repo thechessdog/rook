@@ -1,0 +1,17 @@
+[Event "Allerod"]
+[Site "Allerod"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Larsen, Steen"]
+[Black "Brinkler, Lasse"]
+[Result "1-0"]
+[ECO "C30"]
+[Opening "King's gambit"]
+[HashCode "71f7a376"]
+[Epoch "Rook"]
+
+1. e4 e5 2. f4 d6 3. Nf3 Bg4 4. Bc4 h6 5. fxe5 dxe5 6. Bxf7+ Ke7 7. Bc4 Nf6
+8. Nc3 Nc6 9. h3 Bh5 10. O-O Qd6 11. d3 Qc5+ 12. Kh1 Rd8 13. Qe1 Nb4 14. a3
+Nxc2 15. Qe2 Nxa1 16. Be3 Qd6 17. Qf2 b6 18. Rxa1 g5 19. Nb5 Qd7 20. Nxe5
+Qe8 21. Nxa7 Rd6 22. Bb5 Qa8 23. Nac6+ Ke6 24. Qf5# 1-0
+

@@ -1,0 +1,16 @@
+[Event "corr YUG"]
+[Site "corr YUG"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Sterle, V."]
+[Black "Ognjanovic, R."]
+[Result "0-1"]
+[ECO "A45"]
+[Opening "Queen's pawn game"]
+[HashCode "a3054f08"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. b4 e6 3. a3 d5 4. Nf3 Be7 5. g4 b6 6. a4 Bxb4+ 7. c3 Be7 8.
+Ne5 O-O 9. a5 Ne4 10. e3 Bh4 11. Nd3 Qf6 12. Qc2 Ba6 13. axb6 axb6 14. c4
+Bxc4 15. Rxa8 Qf3 16. Nd2 Bxf2+ 17. Nxf2 Qxe3+ 18. Kd1 Nxf2# 0-1
+

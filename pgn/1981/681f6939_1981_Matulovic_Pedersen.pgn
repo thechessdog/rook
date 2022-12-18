@@ -1,0 +1,20 @@
+[Event "Yugoslavia"]
+[Site "Yugoslavia"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Matulovic, Milan"]
+[Black "Petersen, Finn"]
+[Result "1-0"]
+[ECO "B16"]
+[Opening "Caro-Kann"]
+[Variation "Bronstein-Larsen variation"]
+[HashCode "681f6939"]
+[Epoch "Rook"]
+[WhiteCountry "SRB"]
+[BlackID "1400754"]
+[BlackCountry "DEN"]
+
+1. e4 c6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Nf6 5. Nxf6+ gxf6 6. Be2 Bf5 7. Nf3 e6 8.
+O-O Qc7 9. c4 Nd7 10. d5 O-O-O 11. Nd4 Bg6 12. Be3 e5 13. Nb3 Rg8 14. Rc1 e4
+15. c5 cxd5 16. Nd4 Ne5 17. c6 bxc6 18. Nxc6 Nxc6 19. Qa4 Kb8 20. Rxc6 Qd7 21.
+Bf4+ Ka8 22. Bb5 Bh5 23. Rc8+ Qxc8 24. Bc6+ Qxc6 25. Qxc6# 1-0

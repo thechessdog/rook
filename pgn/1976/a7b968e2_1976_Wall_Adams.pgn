@@ -1,0 +1,18 @@
+[Event "North Wilkesboro,NC"]
+[Site "North Wilkesboro,NC"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Wall, Bill"]
+[Black "Adams, Roy"]
+[Result "1-0"]
+[ECO "C64"]
+[Opening "Ruy Lopez"]
+[Variation "classical defence, 4.c3"]
+[HashCode "a7b968e2"]
+[Epoch "Rook"]
+[WhiteCountry "USA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. c3 Nf6 5. d3 Ng4 6. O-O a6 7. Bxc6 dxc6 8. b4
+Bxf2+ 9. Rxf2 Nxf2 10. Kxf2 O-O 11. Bg5 Qd6 12. Na3 b5 13. Qd2 Bg4 14. Be3 Qf6
+15. Rf1 Rad8 16. Kg1 Qg6 17. Nxe5 Qe6 18. Nxg4 Qxg4 19. Nc2 Rfe8 20. Qf2 Qd7
+21. Nd4 1-0

@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Palmal"]
+[Black "Delahaye"]
+[Result "1-0"]
+[ECO "D35"]
+[Opening "QGD"]
+[Variation "exchange, positional line"]
+[HashCode "f487f261"]
+[Epoch "Rook"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. cxd5 exd5 5. Bg5 Be7 6. e3 O-O 7. Bd3 Nbd7
+8. Nf3 b6 9. Qc2 Bb7 10. Nd2 h6 11. h4 hxg5 12. hxg5 Ne4 13. Ndxe4 dxe4 14.
+Nxe4 g6 15. O-O-O Kg7 16. f4 f5 17. gxf6+ Bxf6 18. Ng5 Bxg5 19. Bxg6 Bh6
+20. Rxh6 Nf6 21. Rdh1 Qd6 22. Qf5 Qd5 23. Rh7+ Nxh7 24. Rxh7+ Kg8 25. Qg4
+Qc4+ 26. Bc2# 1-0
+

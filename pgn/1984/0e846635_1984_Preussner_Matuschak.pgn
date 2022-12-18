@@ -1,0 +1,20 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Preussner"]
+[Black "Matuschak"]
+[Result "1/2-1/2"]
+[ECO "C45"]
+[Opening "Scotch"]
+[Variation "Mieses variation"]
+[HashCode "0e846635"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nf6 5. Nxc6 bxc6 6. e5 Qe7 7. Qe2
+Nd5 8. c4 Ba6 9. Qe4 Nf6 10. Qe2 Nd5 11. Nd2 Nf4 12. Qe4 Ng6 13. f4 O-O-O
+14. b3 d6 15. Bb2 dxe5 16. f5 Qh4+ 17. g3 Qg5 18. Bc3 Bb7 19. Nf3 Qf6 20.
+fxg6 c5 21. Qg4+ Kb8 22. Bxe5 Qxf3 23. Qxf3 Bxf3 24. Rg1 hxg6 25. Kf2 Rd1
+26. Rxd1 Bxd1 27. Bg2 Bc2 28. g4 f6 29. Bg3 Bd6 30. Rc1 Bxg3+ 31. Kxg3 Bd3
+32. Rd1 Bc2 33. Rc1 1/2-1/2
+

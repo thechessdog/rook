@@ -1,0 +1,20 @@
+[Event "corr DDR-FSM"]
+[Site "corr DDR-FSM"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Stockigt, R."]
+[Black "Potthammel, J."]
+[Result "0-1"]
+[ECO "C95"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Breyer, Borisenko variation"]
+[HashCode "facf6eee"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8.
+c3 d6 9. h3 Nb8 10. d4 Nbd7 11. Nbd2 Bb7 12. Bc2 Re8 13. b4 Bf8 14. a4 a5
+15. d5 axb4 16. cxb4 c6 17. dxc6 Bxc6 18. Rb1 bxa4 19. Nc4 Nb6 20. Na5 Bb5
+21. Bb2 Qd7 22. Qd2 Nc4 23. Nxc4 Bxc4 24. Rbd1 Qb5 25. Re3 Nh5 26. Ra1 Reb8
+27. Rea3 Qxb4 28. Bc3 Qc5 29. Rxa4 Rxa4 30. Rxa4 Bb3 31. Ra5 Qc6 32. Bd3
+Nf4 33. Bf1 Rc8 34. Bb4 Qxe4 0-1
+

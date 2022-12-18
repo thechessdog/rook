@@ -1,0 +1,27 @@
+[Event "Sweden"]
+[Site "Sweden"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Bengtsson, Bo"]
+[Black "Hansson, Dan"]
+[Result "1-0"]
+[ECO "B53"]
+[Opening "Sicilian, Chekhover variation"]
+[HashCode "c9ec2576"]
+[Epoch "Rook"]
+[WhiteID "1700804"]
+[WhiteCountry "SWE"]
+[BlackCountry "ISL"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Qxd4 Bd7 5. c4 Nc6 6. Qd2 g6 7. b3 Bg7 8. Nc3
+Nf6 9. Bb2 O-O 10. h3 Qa5 11. Bd3 a6 12. O-O Qh5 13. Be2 Bh6 14. Qd3 Ne5 15.
+Nxe5 Qxe5 16. Rab1 Qc5 17. Bc1 Bg7 18. Be3 Qb4 19. g4 h6 20. Bd2 Qc5 21. Rbc1
+Kh7 22. Be3 Qa5 23. Bd2 Qc5 24. Rfd1 b5 25. cxb5 axb5 26. Nd5 Qa3 27. Nxe7 Rfe8
+28. Bf4 Ra6 29. Nd5 Nxd5 30. Qxd5 Qxa2 31. Rd2 Qa3 32. Rc7 Be6 33. Qxb5 Raa8
+34. Bxd6 Qxb3 35. Qxb3 Bxb3 36. Bf3 Ra1+ 37. Kg2 Be6 38. Rdc2 Rd8 39. e5 Ra5
+40. R2c5 Rxc5 41. Rxc5 Rc8 42. Rxc8 Bxc8 43. Be4 Kg8 44. f4 Bf8 45. Bc6 Be6 46.
+Kf3 g5 47. f5 Bc4 48. Bd7 Bf1 49. Kg3 Bc4 50. h4 Bb3 51. hxg5 hxg5 52. f6 Bd1
+53. Bf5 Be2 54. Kf2 Bc4 55. Ke3 Bd5 56. Kd4 Bb3 57. Kc5 Ba2 58. Kc6 Bc4 59. Kd7
+Bb5+ 60. Kd8 Bc4 61. Ke8 Bh6 62. Bd7 Bd5 63. e6 fxe6 64. f7+ Kh7 65. f8=Q Bxf8
+66. Kxf8 Kg6 67. Be5 Bc4 68. Ke7 Bb3 69. Bxe6 Bc2 70. Bf7+ Kh6 71. Kf6 Bd1 72.
+Be6 Bc2 73. Bd4 Bd3 74. Be3 Bh7 75. Bxg5# 1-0

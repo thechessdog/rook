@@ -1,0 +1,21 @@
+[Event "corr Wcup3"]
+[Site "corr Wcup3"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Prechtel"]
+[Black "Reynolds"]
+[Result "0-1"]
+[ECO "B17"]
+[Opening "Caro-Kann"]
+[Variation "Steinitz variation"]
+[HashCode "3825c346"]
+[Epoch "Rook"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Ng3 e6 7. Bd3 c5
+8. c3 Be7 9. O-O O-O 10. Qe2 b6 11. Rd1 Bb7 12. Be3 Qc7 13. Ng5 Bd6 14.
+Nxh7 Nxh7 15. Bxh7+ Kxh7 16. Nh5 f5 17. Bg5 Rae8 18. f4 c4 19. Qf2 Kg6 20.
+Ng3 Nf6 21. Re1 Rh8 22. h3 Nd5 23. Rf1 Qc6 24. Qd2 Ne3 25. Rf2 Nxg2 26.
+Rxg2 Rxh3 27. Qf2 Qxg2+ 28. Qxg2 Bxg2 29. Kxg2 Reh8 30. Nf1 Rd3 31. Re1 Kf7
+32. Ne3 Rd2+ 33. Kg3 b5 34. a4 Rdh2 35. Ng2 R2h3+ 36. Kf2 bxa4 37. Rc1 Rb8
+38. Rc2 a3 39. bxa3 Rb3 40. a4 Rhxc3 41. Rxc3 Rxc3 42. Ne3 Ba3 0-1
+

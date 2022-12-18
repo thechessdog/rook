@@ -1,0 +1,20 @@
+[Event "corr France"]
+[Site "corr France"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Roche"]
+[Black "Lemaire"]
+[Result "1-0"]
+[ECO "B01"]
+[Opening "Scandinavian"]
+[Variation "Marshall variation"]
+[HashCode "9619acbb"]
+[Epoch "Rook"]
+
+1. e4 d5 2. exd5 Nf6 3. d4 Nxd5 4. c4 Nb6 5. Nf3 Bg4 6. c5 N6d7 7. h3 Bh5
+8. Bc4 e5 9. O-O Nc6 10. g4 Bg6 11. Re1 Be7 12. d5 Nb4 13. d6 cxd6 14. cxd6
+Bf6 15. g5 Nc2 16. gxf6 gxf6 17. Na3 Rg8 18. Kh2 Nxa1 19. Be3 Be4 20. Rg1
+Rxg1 21. Qxg1 Nf8 22. Nd2 Bc6 23. Nb5 Nc2 24. Bc5 Ng6 25. Nc7+ Kf8 26. Qg4
+Kg7 27. Bxf7 Nd4 28. Bc4 b5 29. Nxa8 bxc4 30. Nc7 f5 31. Qxd4 exd4 32. Ne6+
+Kg8 33. Nxd8 c3 34. bxc3 dxc3 35. Nb3 Ba4 36. Bb4 c2 37. Bd2 1-0
+

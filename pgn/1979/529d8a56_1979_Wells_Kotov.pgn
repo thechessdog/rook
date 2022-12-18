@@ -1,0 +1,20 @@
+[Event "London"]
+[Site "London"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Wells, Ian Duncan"]
+[Black "Kotov, Alexander"]
+[Result "0-1"]
+[ECO "B17"]
+[Opening "Caro-Kann"]
+[Variation "Steinitz variation"]
+[HashCode "529d8a56"]
+[Epoch "Rook"]
+[BlackID "24145602"]
+[BlackCountry "RUS"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Ng3 e6 7. Bd3 Be7 8.
+O-O O-O 9. c3 c5 10. Re1 b6 11. Qe2 Bb7 12. Be3 cxd4 13. Bxd4 Bc5 14. Rad1 Bxf3
+15. Qxf3 Bxd4 16. cxd4 Rc8 17. Bb1 Re8 18. h3 Rc7 19. Qd3 g6 20. Ne2 Nd5 21.
+Nc3 N7f6 22. Nb5 Rd7 23. Qf3 Kg7 24. Na3 Ne7 25. Qc3 Qc8 26. Rc1 Qb8 27. Bc2 b5
+28. Bb3 b4 0-1

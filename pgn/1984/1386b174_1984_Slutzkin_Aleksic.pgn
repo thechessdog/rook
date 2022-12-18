@@ -1,0 +1,18 @@
+[Event "Elba"]
+[Site "Elba"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Slutzkin"]
+[Black "Aleksic"]
+[Result "0-1"]
+[ECO "B38"]
+[Opening "Sicilian"]
+[Variation "accelerated fianchetto, Maroczy bind, 6.Be3"]
+[HashCode "1386b174"]
+[Epoch "Rook"]
+
+1. c4 c5 2. Nf3 g6 3. d4 cxd4 4. Nxd4 Bg7 5. e4 Nc6 6. Be3 Nf6 7. Nc3 O-O
+8. Be2 d6 9. Rc1 Nxd4 10. Bxd4 Qa5 11. f3 Be6 12. Qd2 Rfc8 13. b3 Nd7 14.
+Bxg7 Kxg7 15. Nd5 Qxd2+ 16. Kxd2 Bxd5 17. cxd5 g5 18. Rc3 Rxc3 19. Kxc3
+Rc8+ 20. Kd4 Rc2 21. Bd3 Rxa2 22. Rc1 Rxg2 0-1
+

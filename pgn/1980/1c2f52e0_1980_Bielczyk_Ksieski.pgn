@@ -1,0 +1,19 @@
+[Event "Poland"]
+[Site "Poland"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Bielczyk, Jacek"]
+[Black "Ksieski, Zbigniew"]
+[Result "1/2-1/2"]
+[ECO "B56"]
+[Opening "Sicilian"]
+[HashCode "1c2f52e0"]
+[Epoch "Rook"]
+[WhiteID "1100530"]
+[WhiteCountry "POL"]
+[BlackID "1100564"]
+[BlackCountry "POL"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. f4 g6 7. Nxc6 bxc6 8.
+e5 dxe5 9. Qxd8+ Kxd8 10. fxe5 Ng4 11. Bf4 Bg7 12. Rd1+ Kc7 13. e6+ Be5 14.
+Bxe5+ Nxe5 15. exf7 Rf8 16. Be2 Rb8 17. b3 Rxf7 18. Rd4 Bf5 1/2-1/2

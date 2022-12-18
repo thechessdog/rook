@@ -1,0 +1,20 @@
+[Event "Bor"]
+[Site "Bor"]
+[Date "1983.01.01"]
+[Round "3"]
+[White "Sahovic, Dragutin"]
+[Black "Skembris, Spyridon"]
+[Result "1/2-1/2"]
+[ECO "E42"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5, 5.Ne2 (Rubinstein)"]
+[HashCode "3ae7fb2e"]
+[Epoch "Rook"]
+[BlackID "4200020"]
+[BlackCountry "GRE"]
+[WhiteCountry "SRB"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Ne2 cxd4 6. exd4 O-O 7. a3 Be7 8. Ng3
+d5 9. Be3 Nc6 10. Rc1 Re8 11. Be2 dxc4 12. Bxc4 e5 13. d5 Nd4 14. O-O Bg4 15.
+f3 Rc8 16. Ba2 Bd7 17. Kh1 Nb5 18. Nce4 Nxe4 19. Nxe4 Rxc1 20. Qxc1 b6 21. Qd2
+Nd6 22. Rc1 Nxe4 23. fxe4 Bd6 24. Bc4 Qh4 25. Bd3 f5 1/2-1/2

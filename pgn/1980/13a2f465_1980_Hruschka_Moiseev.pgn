@@ -1,0 +1,18 @@
+[Event "corr EUR/M"]
+[Site "corr EUR/M"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Hruschka, F."]
+[Black "Moiseev, Viktor"]
+[Result "0-1"]
+[ECO "A00"]
+[Opening "Grob"]
+[Variation "spike attack"]
+[HashCode "13a2f465"]
+[Epoch "Rook"]
+[BlackID "4101464"]
+[BlackCountry "RUS"]
+
+1. g4 d5 2. Bg2 c6 3. g5 e5 4. h4 Be6 5. d3 Nd7 6. e4 dxe4 7. Bxe4 Qb6 8. Nc3
+O-O-O 9. Na4 Qa6 10. c4 f5 11. gxf6 Ngxf6 12. Bg5 h6 13. Bxf6 Nxf6 14. Qc2 Nxe4
+15. dxe4 Bxc4 16. Nc3 Bb4 17. Nf3 Bd3 18. Qb3 Bxe4 0-1

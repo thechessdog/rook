@@ -1,0 +1,18 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Hansen, Freddy"]
+[Black "Hansen, Soren Bech"]
+[Result "1/2-1/2"]
+[ECO "C15"]
+[Opening "French"]
+[Variation "Winawer, fingerslip variation"]
+[HashCode "9e67319e"]
+[Epoch "Rook"]
+[BlackID "1400681"]
+[BlackCountry "DEN"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. Bd2 Bxc3 5. Bxc3 dxe4 6. d5 Nf6 7. dxe6 Qxd1+
+8. Rxd1 Bxe6 9. b3 Nbd7 10. Ne2 Bg4 11. Rd2 O-O 12. Ng3 Rfe8 13. Bd4 Rad8 14.
+Be2 Bxe2 15. Rxe2 c5 16. Be3 b6 17. O-O Nd5 18. Bd2 1/2-1/2

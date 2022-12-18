@@ -1,0 +1,18 @@
+[Event "IBM-C"]
+[Site "Amsterdam"]
+[Date "1980.??.??"]
+[Round "?"]
+[White "De Savornin Lohman, A."]
+[Black "Enklaar, Bertus F"]
+[Result "0-1"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Euwe variation"]
+[HashCode "efe0fa70"]
+[Epoch "Rook"]
+[BlackCountry "NLD"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Bd7 6. a3 c4 7. b4 cxb3 8. Qxb3 Na5
+9. Qc2 Qc7 10. Bd3 h6 11. O-O Ne7 12. Be3 Nc8 13. Nbd2 Nb6 14. a4 Be7 15. Kh1
+Rc8 16. Rfc1 O-O 17. Ng1 Nbc4 18. Ne2 Be8 19. Ra2 f5 20. exf6 Rxf6 21. Nxc4
+Nxc4 22. Bxc4 Qxc4 23. Bf4 Bg6 24. Qd2 Rf7 25. Bg3 Bg5 26. Bf4 Rxf4 0-1

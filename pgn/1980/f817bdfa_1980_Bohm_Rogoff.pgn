@@ -1,0 +1,24 @@
+[Event "IBM-B"]
+[Site "Amsterdam II"]
+[Date "1980.06.01"]
+[Round "1"]
+[White "Bohm, Hans"]
+[Black "Rogoff, Kenneth"]
+[Result "1-0"]
+[ECO "A33"]
+[Opening "English"]
+[Variation "symmetrical variation"]
+[HashCode "f817bdfa"]
+[Epoch "Rook"]
+[WhiteID "1000306"]
+[WhiteCountry "NED"]
+[BlackID "2000237"]
+[BlackCountry "USA"]
+
+1. d4 Nf6 2. c4 c5 3. Nf3 cxd4 4. Nxd4 e6 5. Nc3 Nc6 6. Ndb5 d5 7. Bf4 e5 8.
+cxd5 exf4 9. dxc6 bxc6 10. Qxd8+ Kxd8 11. Rd1+ Bd7 12. Nd6 Rb8 13. Nxf7+ Ke8
+14. Nd6+ Bxd6 15. Rxd6 Rxb2 16. Rd2 Rxd2 17. Kxd2 Ng4 18. f3 Ne3 19. g3 g5 20.
+h4 h6 21. hxg5 Nxf1+ 22. Rxf1 fxg3 23. Rg1 hxg5 24. Rxg3 g4 25. fxg4 Kf7 26.
+Ke3 Rb8 27. Kf4 Rb2 28. Kg5 Be6 29. Rf3+ Kg7 30. Re3 Bxa2 31. Re7+ Bf7 32. Rxa7
+Rc2 33. Ne4 Rxe2 34. Nd6 Rf2 35. Nf5+ Kg8 36. Kf6 Bd5 37. g5 Ra2 38. Rd7 Ra8
+39. Nh6+ Kf8 40. Rh7 1-0

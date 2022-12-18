@@ -1,0 +1,19 @@
+[Event "corr DDR-FSM"]
+[Site "corr DDR-FSM"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Petzold, H."]
+[Black "Kuhn, W."]
+[Result "1/2-1/2"]
+[ECO "B28"]
+[Opening "Sicilian"]
+[Variation "O'Kelly variation"]
+[HashCode "522c276b"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 a6 3. c3 d6 4. d4 Nf6 5. dxc5 dxc5 6. Qxd8+ Kxd8 7. Bd3 Nc6
+8. Be3 e6 9. Nbd2 Bd7 10. O-O Ng4 11. Bf4 e5 12. Bg3 f6 13. Rfd1 Kc7 14. h3
+Nh6 15. Nc4 Be6 16. Ne3 Bd6 17. Nd2 b5 18. a4 c4 19. Bc2 Ne7 20. Kf1 Bc5
+21. Ke2 Kc6 22. b3 Bxe3 23. Kxe3 g5 24. Rdb1 cxb3 25. Bxb3 Bxb3 26. Rxb3
+Rhb8 27. Rab1 Nf7 28. Bh2 Ra7 29. c4 Nd6 1/2-1/2
+

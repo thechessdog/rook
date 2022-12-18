@@ -1,0 +1,17 @@
+[Event "corr SAM/C"]
+[Site "corr SAM/C"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Enricci"]
+[Black "Carvalho"]
+[Result "1-0"]
+[ECO "D87"]
+[Opening "Gruenfeld"]
+[Variation "exchange, Spassky variation"]
+[HashCode "6d67edfe"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Bc4 O-O
+8. Ne2 c5 9. O-O Nc6 10. Be3 Qc7 11. Rc1 Rd8 12. Qa4 cxd4 13. cxd4 Qd7 14.
+Bb5 a6 15. d5 axb5 16. Qxa8 Ne5 17. Bb6 Rf8 18. Rc7 Qe8 19. Rfc1 1-0
+

@@ -1,0 +1,18 @@
+[Event "corr CCLA N America"]
+[Site "corr CCLA N America"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Hummel, E."]
+[Black "Blechar, M."]
+[Result "1-0"]
+[ECO "B00"]
+[Opening "KP"]
+[Variation "Nimzovich defence, Bogolyubov variation"]
+[HashCode "cc22c93c"]
+[Epoch "Rook"]
+
+1. e4 Nc6 2. d4 d5 3. Nc3 dxe4 4. d5 Ne5 5. Bf4 Ng6 6. Bg3 f5 7. Bb5+ Bd7
+8. h4 c6 9. dxc6 bxc6 10. h5 cxb5 11. Nd5 f4 12. hxg6 fxg3 13. Rxh7 gxf2+
+14. Kxf2 Nh6 15. Rxh8 Ng4+ 16. Ke1 Be6 17. c4 Qd6 18. Ne2 Ne5 19. Nf6+ gxf6
+20. g7 Qb4+ 21. Nc3 Ng6 22. Qh5 O-O-O 23. Rd1 Rxd1+ 24. Qxd1 1-0
+

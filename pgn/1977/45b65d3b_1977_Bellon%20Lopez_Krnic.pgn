@@ -1,0 +1,31 @@
+[Event "Hoogovens-B"]
+[Site "Wijk aan Zee II"]
+[Date "1977.01.01"]
+[Round "7"]
+[White "Bellon Lopez, Juan Manuel"]
+[Black "Krnic, Zdenko"]
+[Result "0-1"]
+[ECO "B46"]
+[Opening "Sicilian"]
+[Variation "Taimanov variation"]
+[HashCode "45b65d3b"]
+[Epoch "Rook"]
+[WhiteID "2200031"]
+[WhiteCountry "SWE"]
+[BlackCountry "SRB"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e6 5. Nc3 a6 6. Be2 Nge7 7. Be3 Nxd4 8.
+Qxd4 b5 9. Qb6 Qxb6 10. Bxb6 Bb7 11. f3 Rc8 12. O-O-O Ng6 13. Bd4 f6 14. h4 Be7
+15. g3 Ne5 16. f4 Nc6 17. Bb6 Nd8 18. Bh5+ g6 19. Bf3 Nf7 20. Rd3 Bc5 21. Bxc5
+Rxc5 22. Rhd1 Rc7 23. Rd4 Ke7 24. a4 bxa4 25. Nxa4 Bc6 26. Nc3 Ra7 27. Be2 Rb8
+28. b3 a5 29. Kb2 Rb4 30. Bc4 Rab7 31. Ka3 Kf8 32. R1d2 Ke7 33. g4 h6 34. Na2
+R4b6 35. Nc3 Rb8 36. Na4 R6b7 37. Nc5 Ra7 38. f5 Ne5 39. fxe6 Nf3 40. Nxd7 Rh8
+41. g5 fxg5 42. hxg5 hxg5 43. Nb6 Nxd2 44. Rxd2 Bxe4 45. Nd5+ Bxd5 46. Bxd5 Kf6
+47. c4 g4 48. c5 g3 49. Rd3 Rh5 50. c6 Rg5 51. Rd2 Rg4 52. Bg2 Rf4 53. Rd3 Kxe6
+54. Rxg3 Kf6 55. Rc3 Rc7 56. Rc5 Rf5 57. Rxf5+ gxf5 58. Ka4 Ke5 59. Kxa5 Kd6
+60. Kb6 Rg7 61. Bh3 f4 62. b4 f3 63. b5 f2 64. Bf1 Re7 65. Bg2 Re5 66. c7 Rc5
+67. Bc6 f1=Q 68. c8=Q Qxb5+ 69. Bxb5 Rxc8 70. Kb7 Rc2 71. Bf1 Rb2+ 72. Kc8 Rf2
+73. Bh3 Rd2 74. Kb7 Rb2+ 75. Kc8 Rh2 76. Bg4 Rh8+ 77. Kb7 Rf8 78. Bh3 Rg8 79.
+Bf5 Re8 80. Bh3 Re2 81. Bg4 Re3 82. Bd1 Rd3 83. Bh5 Rb3+ 84. Kc8 Rh3 85. Bg6
+Re3 86. Bf5 Re7 87. Bd3 Rc7+ 88. Kd8 Rc3 89. Be4 Re3 90. Ba8 Ra3 91. Be4 Ra4
+92. Bb7 Rh4 0-1

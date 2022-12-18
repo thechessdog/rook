@@ -1,0 +1,19 @@
+[Event "Volgograd"]
+[Site "Volgograd"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Riabchonok, E."]
+[Black "Psakhis, Lev"]
+[Result "1-0"]
+[ECO "B97"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7...Qb6"]
+[HashCode "31ed9488"]
+[Epoch "Rook"]
+[BlackID "2800012"]
+[BlackCountry "ISR"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qb6 8. Nb3
+Nbd7 9. Qe2 Qc7 10. g4 Be7 11. O-O-O h6 12. Bxf6 Bxf6 13. Rd3 g5 14. e5 dxe5
+15. f5 Nc5 16. Nxc5 Qxc5 17. Ne4 Qe7 18. Qf3 exf5 19. gxf5 Rg8 20. Bh3 h5 21.
+Qxh5 g4 22. Rg1 Kf8 23. Rxg4 Rxg4 24. Bxg4 Bg7 25. Ng5 b5 1-0

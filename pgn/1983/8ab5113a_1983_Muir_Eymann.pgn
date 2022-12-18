@@ -1,0 +1,18 @@
+[Event "Ramsgate"]
+[Site "Ramsgate"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Muir, D."]
+[Black "Eymann, Henry"]
+[Result "1-0"]
+[ECO "A67"]
+[Opening "Benoni"]
+[Variation "Taimanov variation"]
+[HashCode "8ab5113a"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 c5 4. d5 exd5 5. cxd5 d6 6. e4 g6 7. f4 Bg7 8.
+Bb5+ Nfd7 9. a4 O-O 10. Nf3 a6 11. Be2 Nf6 12. O-O Re8 13. e5 dxe5 14. fxe5
+Ng4 15. e6 fxe6 16. Ng5 Bd4+ 17. Kh1 Ne5 18. Nce4 exd5 19. Nf6+ Kh8 20. Qe1
+Nbd7 21. Nxe8 Qxe8 22. Qh4 Qg8 23. Ra3 Nb6 24. Rf8 1-0
+

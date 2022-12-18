@@ -1,0 +1,23 @@
+[Event "Berkeley ch-USA"]
+[Site "Berkeley ch-USA"]
+[Date "1984.01.01"]
+[Round "8"]
+[White "Shirazi, Kamran"]
+[Black "Tarjan, James"]
+[Result "0-1"]
+[ECO "E06"]
+[Opening "Catalan"]
+[Variation "closed, 5.Nf3"]
+[HashCode "c77b414d"]
+[Epoch "Rook"]
+[WhiteID "2000733"]
+[WhiteCountry "FRA"]
+[BlackID "2000180"]
+[BlackCountry "USA"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Bg2 Be7 5. Nf3 O-O 6. O-O dxc4 7. Qa4 a6 8. Qxc4
+b5 9. Qd3 Bb7 10. Bg5 Nbd7 11. Nc3 c5 12. Rfd1 Qb6 13. Ne5 Rfd8 14. Bxb7 Qxb7
+15. Qf3 Qxf3 16. Nxf3 Rac8 17. Rac1 cxd4 18. Rxd4 h6 19. Bf4 e5 20. Nd5 Rxc1+
+21. Bxc1 exd4 22. Nxe7+ Kh7 23. Nxd4 Ne5 24. Nb3 Rd1+ 25. Kg2 Nc4 26. Be3 Nxe3+
+27. fxe3 Rb1 28. Kf3 Rxb2 29. Nc5 Rxa2 30. e4 b4 31. e5 b3 32. exf6 b2 33. Nd7
+b1=Q 0-1

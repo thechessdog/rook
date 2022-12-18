@@ -1,0 +1,20 @@
+[Event "DEN-chJ int"]
+[Site "Ribe"]
+[Date "1978.??.??"]
+[Round "6"]
+[White "Norris, Alan J"]
+[Black "Kristensen, Henrik Lunden"]
+[Result "1-0"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "classical attack"]
+[HashCode "8e2b6f72"]
+[Epoch "Rook"]
+[WhiteID "2400162"]
+[BlackID "1454501"]
+[WhiteCountry "SCO"]
+[BlackCountry "DEN"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Be7 7. c4 Nc6 8. Nc3
+Nxc3 9. bxc3 dxc4 10. Bxc4 O-O 11. O-O Na5 12. Bd3 c5 13. d5 c4 14. Bc2 b6 15.
+Bf4 Nb7 16. Ne5 Nd6 17. Nc6 Qd7 18. Qh5 g6 19. Qe5 1-0

@@ -1,0 +1,17 @@
+[Event "Dayton,OH"]
+[Site "Dayton,OH"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Hanumanthu, S."]
+[Black "Wall, Bill"]
+[Result "0-1"]
+[ECO "B10"]
+[Opening "Caro-Kann"]
+[Variation "two knights variation"]
+[HashCode "979ae1fc"]
+[Epoch "Rook"]
+[BlackCountry "USA"]
+
+1. e4 c6 2. Nc3 d5 3. Nf3 d4 4. Ne2 c5 5. d3 Nc6 6. Nf4 e5 7. Nd5 Bg4 8. Be2
+Bd6 9. h3 Be6 10. O-O Nf6 11. Bg5 h6 12. Bxf6 gxf6 13. a3 Rg8 14. g4 f5 15. Kh1
+fxg4 16. hxg4 Bxg4 17. Rg1 Bxf3+ 18. Bxf3 Qh4# 0-1

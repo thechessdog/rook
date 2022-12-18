@@ -1,0 +1,21 @@
+[Event "Thessaloniki"]
+[Site "Thessaloniki"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Yusupov, A."]
+[Black "Kindermann, Stefan"]
+[Result "1/2-1/2"]
+[ECO "A70"]
+[Opening "Benoni"]
+[Variation "classical with e4 and Nf3"]
+[HashCode "af904f14"]
+[Epoch "Rook"]
+[BlackID "4600053"]
+[WhiteCountry "RUS"]
+[BlackCountry "AUT"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. e4 Bg7 8. Bf4
+O-O 9. Be2 b5 10. Nd2 a6 11. O-O Re8 12. Bf3 Bf8 13. Re1 Nbd7 14. a4 Rb8 15.
+axb5 axb5 16. b4 Ne5 17. Be2 Bd7 18. h3 cxb4 19. Na2 Nc4 20. Bf3 Qb6 21. Nxb4
+Ra8 22. Rc1 Rac8 23. Nc6 Ne5 24. Be3 Qb7 25. Nxe5 dxe5 26. Qb3 Rxc1 27. Rxc1
+Qb8 28. Be2 b4 29. Bg5 Kg7 30. Qf3 Ng8 31. Nc4 Rc8 32. Bd2 1/2-1/2

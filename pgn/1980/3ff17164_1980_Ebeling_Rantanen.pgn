@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Ebeling, P."]
+[Black "Rantanen, Matti"]
+[Result "1-0"]
+[ECO "C52"]
+[Opening "Evans gambit"]
+[Variation "Tartakower attack"]
+[HashCode "3ff17164"]
+[Epoch "Rook"]
+[BlackCountry "FIN"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 Bxb4 5. c3 Ba5 6. d4 d6 7. Qb3 Qd7 8. dxe5
+Bb6 9. Nbd2 Na5 10. Qc2 Ne7 11. Bxf7+ Kxf7 12. e6+ Kxe6 13. Ng5+ Kf6 14. e5+
+Kxg5 15. Nf3+ Kh5 16. h3 1-0

@@ -1,0 +1,18 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Kunze"]
+[Black "Muller, Hans P"]
+[Result "0-1"]
+[ECO "C57"]
+[Opening "two knights defence"]
+[Variation "Wilkes Barre (Traxler) variation"]
+[HashCode "3d2ca355"]
+[Epoch "Rook"]
+[BlackID "3223167"]
+[BlackCountry "AUS"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 Bc5 5. Nxf7 Bxf2+ 6. Kf1 Qe7 7. Nxh8 d5
+8. exd5 Nd4 9. c3 Bg4 10. Qa4+ Nd7 11. Kxf2 Qh4+ 12. Kf1 O-O-O 13. d6 Rf8+ 14.
+Nf7 Rxf7+ 15. Bxf7 Be2+ 0-1

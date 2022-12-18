@@ -1,0 +1,24 @@
+[Event "Tranum"]
+[Site "Tranum"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Hansen, Curt"]
+[Black "Svenn, Gosta"]
+[Result "0-1"]
+[ECO "B84"]
+[Opening "Sicilian"]
+[Variation "Scheveningen (Paulsen), classical variation"]
+[HashCode "0fc1b088"]
+[Epoch "Rook"]
+[BlackID "1700553"]
+[WhiteID "1400010"]
+[WhiteCountry "DEN"]
+[BlackCountry "SWE"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be2 a6 7. f4 Qc7 8. O-O
+Be7 9. a4 O-O 10. Be3 Nc6 11. Qe1 Nxd4 12. Bxd4 e5 13. fxe5 dxe5 14. Qg3 Re8
+15. Kh1 Bd8 16. Be3 Be6 17. a5 Kh8 18. Rfd1 Qc6 19. Bf3 Bc4 20. Rd2 b5 21. Nd5
+Bxd5 22. exd5 Qd6 23. c3 Bc7 24. b4 e4 25. Qxd6 Bxd6 26. Be2 Rac8 27. Rc1 Bxb4
+28. d6 Rxc3 29. Rxc3 Bxc3 30. d7 Rd8 31. Rd6 Rxd7 32. Rxd7 Nxd7 33. Bxb5 Ne5
+34. Bxa6 Bxa5 35. Bb7 f5 36. Bd4 Ng4 37. h3 Nh6 38. g4 fxg4 39. hxg4 Nxg4 40.
+Bxe4 Kg8 41. Kg2 Bc7 42. Kf3 0-1

@@ -1,0 +1,19 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Dueckstein, Andreas"]
+[Black "Frohs"]
+[Result "1-0"]
+[ECO "A18"]
+[Opening "English"]
+[Variation "Mikenas-Carls variation"]
+[HashCode "869c803d"]
+[Epoch "Rook"]
+[WhiteID "1600168"]
+[WhiteCountry "AUT"]
+
+1. c4 Nf6 2. Nc3 e6 3. e4 d5 4. cxd5 exd5 5. e5 Ng8 6. d4 Be6 7. Be3 a6 8. Bd3
+Nd7 9. f4 Ne7 10. Nf3 f6 11. O-O c6 12. Nh4 f5 13. g4 g6 14. gxf5 gxf5 15. Nxf5
+Rg8+ 16. Ng3 Bg4 17. Qc2 Ng6 18. f5 Ngxe5 19. dxe5 Nxe5 20. f6 d4 21. Bxh7 d3
+22. Qb3 1-0

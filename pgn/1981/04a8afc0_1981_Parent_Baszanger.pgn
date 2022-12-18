@@ -1,0 +1,18 @@
+[Event "corr France"]
+[Site "corr France"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Parent"]
+[Black "Baszanger"]
+[Result "1-0"]
+[ECO "C37"]
+[Opening "KGA"]
+[Variation "double Muzio gambit"]
+[HashCode "04a8afc0"]
+[Epoch "Rook"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. Bc4 g4 5. O-O gxf3 6. Qxf3 Qf6 7. e5 Qxe5
+8. Bxf7+ Kxf7 9. d4 Qxd4+ 10. Be3 Qg7 11. Bxf4 Nf6 12. Bxc7 Be7 13. Nc3 Na6
+14. Be5 Rf8 15. Qd5+ Ke8 16. Qb5 Rf7 17. Rae1 Kf8 18. Nd5 d6 19. Bxf6 Bxf6
+20. Nxf6 Qg6 21. Re8+ 1-0
+

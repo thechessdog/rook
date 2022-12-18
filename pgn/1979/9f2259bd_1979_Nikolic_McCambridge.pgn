@@ -1,0 +1,22 @@
+[Event "Lone Pine open"]
+[Site "Lone Pine open"]
+[Date "1979.03.01"]
+[Round "9"]
+[White "Nikolic, Stanimir"]
+[Black "McCambridge, Vincent"]
+[Result "0-1"]
+[ECO "C00"]
+[Opening "French"]
+[Variation "Chigorin variation"]
+[HashCode "9f2259bd"]
+[Epoch "Rook"]
+[WhiteID "903191"]
+[WhiteCountry "SRB"]
+[BlackID "2000342"]
+[BlackCountry "USA"]
+
+1. e4 e6 2. Qe2 b6 3. f4 Bb7 4. Nc3 c5 5. Nf3 Nc6 6. a3 Be7 7. Qf2 d5 8. e5 Nh6
+9. Bb5 O-O 10. O-O c4 11. Bxc6 Bxc6 12. Nd4 Bc5 13. Kh1 Bd7 14. Nce2 f6 15. Qe1
+fxe5 16. fxe5 Rxf1+ 17. Qxf1 Ng4 18. Qe1 Qc7 19. d3 Rf8 20. h3 Nf2+ 21. Kg1
+Qxe5 22. Bf4 Rxf4 23. Nxf4 Qxf4 24. Nxe6 Nxh3+ 25. Kh1 Nf2+ 26. Kg1 Nxd3+ 27.
+Nxc5 Nxe1 0-1

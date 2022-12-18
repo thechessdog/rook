@@ -1,0 +1,18 @@
+[Event "corr Italy"]
+[Site "corr Italy"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Olivotto"]
+[Black "Mazzeo"]
+[Result "1-0"]
+[ECO "B51"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky (Nimzovich-Rossolimo, Moscow) attack"]
+[HashCode "3c031345"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Nc6 4. O-O Bg4 5. h3 Bh5 6. c3 Qb6 7. Na3 e5 8.
+Qe2 Nf6 9. d4 exd4 10. cxd4 O-O-O 11. Nc4 Qc7 12. Bxc6 Qxc6 13. d5 Bxf3 14.
+Qxf3 Qe8 15. Bg5 Be7 16. Rfe1 h6 17. Bf4 g5 18. Bxd6 b5 19. Qa3 Rxd6 20.
+Nxd6+ Bxd6 21. e5 Bxe5 22. Qxc5+ Kb8 23. d6 1-0
+

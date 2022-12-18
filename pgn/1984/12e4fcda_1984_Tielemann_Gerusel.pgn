@@ -1,0 +1,23 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Wesseln, Kai"]
+[Black "Gerusel, Mathias"]
+[Result "0-1"]
+[ECO "A43"]
+[Opening "Old Benoni defence"]
+[HashCode "12e4fcda"]
+[Epoch "Rook"]
+[BlackID "4601122"]
+[BlackCountry "GER"]
+[WhiteID "4601106"]
+[WhiteCountry "GER"]
+
+1. d4 c5 2. d5 d6 3. c4 g6 4. Nc3 Bg7 5. e4 e6 6. f3 exd5 7. cxd5 Nf6 8. Bg5 h6
+9. Be3 O-O 10. Qd2 Kh7 11. Nge2 Na6 12. Ng3 Nb4 13. Be2 a6 14. a4 b6 15. O-O
+Re8 16. f4 Bg4 17. Rad1 h5 18. e5 Bxe2 19. Qxe2 Ng4 20. Bc1 dxe5 21. f5 e4 22.
+h3 Bd4+ 23. Rxd4 cxd4 24. hxg4 dxc3 25. fxg6+ fxg6 26. Qe3 g5 27. Nxh5 Nxd5 28.
+Qd4 Ra7 29. Rf5 Nf4 30. Qc4 Qd1+ 31. Kh2 Nxh5 32. gxh5 Qxh5+ 33. Kg1 Rd7 34.
+Rf1 g4 35. Be3 g3 36. Re1 Rf7 37. Bf4 Qh2+ 38. Kf1 Rxf4+ 39. Ke2 Qxg2+ 40. Ke3
+Qf2# 0-1

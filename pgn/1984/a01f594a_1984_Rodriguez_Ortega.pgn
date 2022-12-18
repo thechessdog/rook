@@ -1,0 +1,19 @@
+[Event "Bayamo"]
+[Site "Bayamo"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Rodriguez Cespedes, Amador"]
+[Black "Ortega, Lexy"]
+[Result "0-1"]
+[ECO "B92"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Opovcensky variation"]
+[HashCode "a01f594a"]
+[Epoch "Rook"]
+[BlackID "811416"]
+[BlackCountry "ITA"]
+[WhiteCountry "ESP"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8. O-O
+O-O 9. Be3 Nc6 10. Qd2 Be6 11. Rfd1 a5 12. a3 a4 13. Nc1 Qa5 14. f3 Bd8 15. Bb5
+Bb6 16. Bxa4 d5 17. exd5 Nxd5 18. Nxd5 Bxd5 19. Qf2 Bxe3 20. Qxe3 0-1

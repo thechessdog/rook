@@ -1,0 +1,18 @@
+[Event "corr WT/M"]
+[Site "corr WT/M"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Szilagyi"]
+[Black "Walther, Edgar"]
+[Result "1-0"]
+[ECO "C00"]
+[Opening "French"]
+[Variation "Chigorin variation"]
+[HashCode "9e3c459b"]
+[Epoch "Rook"]
+[BlackCountry "CHE"]
+
+1. e4 e6 2. Qe2 c5 3. f4 Ne7 4. Nf3 Nbc6 5. g3 d5 6. d3 g6 7. Bg2 Bg7 8. c3 O-O
+9. O-O b6 10. e5 Bb7 11. g4 Qc7 12. Bh3 d4 13. c4 Kh8 14. Nbd2 f5 15. exf6 Rxf6
+16. Ne4 Rff8 17. Neg5 Nd8 18. Bd2 Nec6 19. f5 exf5 20. gxf5 Ne5 21. Nxe5 Bxe5
+22. fxg6 Rxf1+ 23. Rxf1 hxg6 24. Rf8+ Kg7 25. Rxd8 1-0

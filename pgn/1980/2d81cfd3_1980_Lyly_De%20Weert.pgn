@@ -1,0 +1,18 @@
+[Event "Rilton Cup"]
+[Site "Stockholm"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Lyly, Seppo"]
+[Black "De Weert, A."]
+[Result "1-0"]
+[ECO "C10"]
+[Opening "French"]
+[Variation "Rubinstein variation"]
+[HashCode "2d81cfd3"]
+[Epoch "Rook"]
+[WhiteID "504246"]
+[WhiteCountry "FIN"]
+
+1. e4 e6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Nd7 5. Bd3 Ngf6 6. Qe2 Nxe4 7. Bxe4 Nf6
+8. Bxb7 Rb8 9. Bxc8 Rxc8 10. Nf3 Bd6 11. O-O h6 12. Ne5 c6 13. Qf3 Qc7 14. Bf4
+Nd5 15. Nxf7 1-0

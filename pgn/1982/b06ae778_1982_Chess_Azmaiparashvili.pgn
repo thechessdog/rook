@@ -1,0 +1,24 @@
+[Event "Asturias"]
+[Site "Asturias"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Chess Machine"]
+[Black "Azmaiparashvili, Zurab"]
+[Result "1/2-1/2"]
+[ECO "B06"]
+[Opening "Robatsch defence"]
+[Variation "Pseudo-Austrian attack"]
+[HashCode "b06ae778"]
+[Epoch "Rook"]
+[BlackID "13601326"]
+[BlackCountry "GEO"]
+
+1. e4 d6 2. d4 g6 3. Nc3 Bg7 4. f4 Nc6 5. Be3 Nf6 6. Nf3 O-O 7. Be2 Ng4 8. Bg1
+e5 9. fxe5 dxe5 10. d5 Nb8 11. h3 Nf6 12. Be3 c6 13. O-O cxd5 14. exd5 Nbd7 15.
+d6 a6 16. Ng5 h6 17. Nf3 Kh7 18. Kh2 b5 19. a4 e4 20. Nd4 Ne5 21. axb5 Qxd6 22.
+Kh1 Rd8 23. Nb3 Qe7 24. Qb1 Be6 25. bxa6 Nc4 26. Bc5 Qc7 27. a7 e3 28. Bd4 Nd2
+29. Nxd2 Rxd4 30. Nb5 Qb6 31. Nxd4 Qxd4 32. Nf3 Qf4 33. Kg1 Nh5 34. Ne1 Qg3 35.
+Bxh5 Be5 36. Rf3 Qh2+ 37. Kf1 Bc4+ 38. Nd3 Bd4 39. Qe1 Qh1+ 40. Ke2 Qxg2+ 41.
+Kd1 Bxd3 42. cxd3 Qxb2 43. Ra5 Rc8 44. Rxf7+ Kh8 45. Rc7 Rxc7 46. a8=Q+ Kg7 47.
+Rc5 Bxc5 48. Qe4 e2+ 49. Q1xe2 Qa1+ 50. Kd2 Qa5+ 51. Kd1 Qa1+ 52. Kd2 Qa5+ 53.
+Kd1 1/2-1/2

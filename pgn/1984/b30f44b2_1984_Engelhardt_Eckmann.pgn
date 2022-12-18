@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Engelhardt, G."]
+[Black "Eckmann, S."]
+[Result "0-1"]
+[ECO "C57"]
+[Opening "two knights defence"]
+[Variation "Wilkes Barre (Traxler) variation"]
+[HashCode "b30f44b2"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 Bc5 5. Nxf7 Bxf2+ 6. Kf1 Qe7 7. Nxh8
+d5 8. exd5 Nd4 9. d6 cxd6 10. c3 Bg4 11. Qa4+ Kf8 12. cxd4 exd4 13. Kxf2
+Ne4+ 14. Kg1 Qh4 15. h3 Qf2+ 16. Kh2 Qg3+ 17. Kg1 Bf3 18. Bf1 Ng5 19. Qd7
+Bxg2 20. Qf5+ Kg8 21. Bxg2 Re8 0-1
+

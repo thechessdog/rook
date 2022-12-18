@@ -1,0 +1,18 @@
+[Event "corr Spain"]
+[Site "corr Spain"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Carretero Ortiz, Francisco"]
+[Black "Ocana"]
+[Result "0-1"]
+[ECO "C40"]
+[Opening "Latvian"]
+[Variation "Polerio variation"]
+[HashCode "e4dfa61b"]
+[Epoch "Rook"]
+[WhiteID "2203901"]
+[WhiteCountry "ESP"]
+
+1. e4 e5 2. Nf3 f5 3. Bc4 fxe4 4. Nxe5 d5 5. Qh5+ g6 6. Nxg6 hxg6 7. Qxh8 Kf7
+8. Be2 Bg7 9. Qh7 Qg5 10. g3 Nh6 11. O-O Nf5 12. d3 Qe7 13. Nc3 c6 14. dxe4
+dxe4 15. g4 Nd4 16. Bh6 Qe5 17. f4 Nxe2+ 18. Nxe2 Qc5+ 19. Kh1 Qf8 20. f5 0-1

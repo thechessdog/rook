@@ -1,0 +1,23 @@
+[Event "corr DDR/M"]
+[Site "corr DDR/M"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Tischer"]
+[Black "Waschk"]
+[Result "0-1"]
+[ECO "E84"]
+[Opening "King's Indian"]
+[Variation "Saemisch, Panno main line"]
+[HashCode "cfaab8a3"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 Nc6 7. Nge2 a6 8.
+Qd2 Rb8 9. a4 e5 10. d5 Na5 11. Nc1 c5 12. Be2 Ne8 13. O-O f5 14. Rb1 f4
+15. Bf2 b6 16. b4 Nb7 17. a5 b5 18. Nxb5 cxb4 19. Na7 Nxa5 20. Rxb4 Rxb4
+21. Qxb4 Nb7 22. Bb6 Qd7 23. Nb3 Rf6 24. Nc6 g5 25. Nb8 Qf7 26. Nxa6 Qh5
+27. Bd1 Rh6 28. Kf2 Qxh2 29. Rg1 Qh5 30. Nc7 Nxc7 31. Bxc7 Qf7 32. Qb6 g4
+33. Na5 Nxa5 34. Qxa5 Qe7 35. Bd8 Qb7 36. Qb5 Qa7+ 37. Bb6 Qa2+ 38. Ke1 Ba6
+39. Qb3 Qa1 40. fxg4 Bf6 41. Bf2 Bg5 42. Qb8+ Kf7 43. Qb3 f3 44. Qxf3+ Rf6
+45. Qd3 Qa5+ 46. Kf1 Qc5 47. Bf3 Bxc4 48. Bxc5 Bxd3+ 49. Kf2 dxc5 50. Ra1
+c4 0-1
+

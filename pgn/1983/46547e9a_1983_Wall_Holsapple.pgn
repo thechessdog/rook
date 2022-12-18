@@ -1,0 +1,19 @@
+[Event "Dayton,OH"]
+[Site "Dayton,OH"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Wall, Bill"]
+[Black "Holsapple, Boyd"]
+[Result "1-0"]
+[ECO "B03"]
+[Opening "Alekhine's defence"]
+[Variation "four pawns attack"]
+[HashCode "46547e9a"]
+[Epoch "Rook"]
+[WhiteCountry "USA"]
+[BlackCountry "USA"]
+
+1. e4 Nf6 2. e5 Nd5 3. c4 Nb6 4. d4 d6 5. f4 dxe5 6. fxe5 e6 7. Nf3 c5 8. Be2
+Nc6 9. Be3 cxd4 10. Bxd4 Bb4+ 11. Nc3 O-O 12. O-O Qe7 13. Qc2 Nxd4 14. Nxd4 Qc5
+15. Qd3 Qxe5 16. Rad1 Bxc3 17. Qxc3 Na4 18. Qd2 Rd8 19. b3 Nc5 20. Nc6 Rxd2 21.
+Nxe5 Rxe2 22. Rd8# 1-0

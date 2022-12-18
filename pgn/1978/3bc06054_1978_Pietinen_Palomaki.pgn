@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Pietinen, K."]
+[Black "Palomaki, P."]
+[Result "1-0"]
+[ECO "C78"]
+[Opening "Ruy Lopez"]
+[Variation "Moeller defence"]
+[HashCode "3bc06054"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Bc5 6. Nxe5 Nxe5 7. d4 Nxe4
+8. Re1 Be7 9. Rxe4 Ng6 10. c4 O-O 11. Nc3 f5 12. Re3 f4 13. Re1 Bb4 14. Qh5
+c5 15. Bc2 d5 16. Bd2 Bxc3 17. Bxc3 cxd4 18. Bxd4 dxc4 19. Rad1 Re8 20.
+Bxg6 hxg6 21. Qxg6 Rxe1+ 22. Rxe1 1-0
+

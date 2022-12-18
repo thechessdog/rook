@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Hendriksen"]
+[Black "Vilhelmsen"]
+[Result "1-0"]
+[ECO "B10"]
+[Opening "Caro-Kann"]
+[Variation "two knights variation"]
+[HashCode "62346c52"]
+[Epoch "Rook"]
+
+1. e4 c6 2. Nc3 d5 3. Nf3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6 7. Ne5 Bh7
+8. Qh5 g6 9. Bc4 e6 10. Qe2 Qc7 11. d4 Nf6 12. Bf4 Qa5+ 13. c3 Nd5 14. Qf3
+f6 15. Ng4 Nd7 16. O-O O-O-O 17. b4 Qa3 18. Bc1 Qxc3 19. Bxd5 Qxa1 20. Bxc6
+Qxd4 21. Bxb7+ Kb8 22. Be3 Qxb4 23. Be4 Nb6 24. Rb1 Qa5 25. Qxf6 Bd6 26.
+Qg7 Qa6 27. Nf6 Bc7 28. Nd7+ Kc8 29. Nxb6+ axb6 30. Rc1 Qa7 31. Bf4 1-0
+

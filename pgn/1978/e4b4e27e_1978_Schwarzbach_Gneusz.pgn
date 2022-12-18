@@ -1,0 +1,21 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Schwarzbach"]
+[Black "Gneusz"]
+[Result "0-1"]
+[ECO "C14"]
+[Opening "French"]
+[Variation "classical, Steinitz variation"]
+[HashCode "e4b4e27e"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Nfd7 6. Bxe7 Qxe7 7. f4 a6 8.
+Nf3 c5 9. dxc5 Nc6 10. Na4 Nxc5 11. Nxc5 Qxc5 12. Qd2 Bd7 13. Bd3 h6 14. g4
+O-O-O 15. a3 Kb8 16. b4 Nd4 17. Nxd4 Qxd4 18. c3 Qb6 19. a4 Rc8 20. Ke2 g5
+21. b5 a5 22. Rac1 Qd8 23. c4 gxf4 24. Qxf4 Qg5 25. Rhf1 dxc4 26. Bxc4 Rc5
+27. Qxg5 hxg5 28. Rxf7 Rhc8 29. Kd3 Be8 30. Re7 Rd8+ 31. Kc3 Bg6 32. Kb3
+Rdc8 33. Rd7 Rxe5 34. Rc3 Rec5 35. Rd6 Be4 36. Rd1 Bd5 37. Rdc1 Rxc4 38.
+Rxc4 e5 0-1
+

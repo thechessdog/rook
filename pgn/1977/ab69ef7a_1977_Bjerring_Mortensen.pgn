@@ -1,0 +1,23 @@
+[Event "Denmark"]
+[Site "Denmark"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Bjerring, Kai"]
+[Black "Mortensen, Erling"]
+[Result "0-1"]
+[ECO "B81"]
+[Opening "Sicilian"]
+[Variation "Scheveningen, Keres attack"]
+[HashCode "ab69ef7a"]
+[Epoch "Rook"]
+[BlackID "1400045"]
+[BlackCountry "DEN"]
+[WhiteCountry "DNK"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. g4 a6 7. g5 Nfd7 8. Rg1
+b5 9. Bg2 Bb7 10. a4 b4 11. Na2 a5 12. c3 Na6 13. cxb4 axb4 14. Be3 Ndc5 15. f3
+Be7 16. Bf1 O-O 17. h4 Qb8 18. h5 d5 19. exd5 Qe5 20. Qd2 Bxd5 21. Be2 Rfd8 22.
+Nc1 Qc7 23. Kf1 Qb7 24. Qe1 Bf8 25. g6 e5 26. gxh7+ Kxh7 27. Nf5 Qd7 28. Ng3 f5
+29. f4 Bd6 30. Qf2 Rf8 31. Bb5 Qc7 32. Nce2 Nb3 33. Re1 Nac5 34. fxe5 Bxe5 35.
+Nf4 Be4 36. Nxe4 fxe4 37. Rg4 Rf6 38. Kg1 Raf8 39. Rf1 Qf7 40. Qg3 Ne6 41. Bc5
+Nbd4 42. Nxe6 Rxf1+ 43. Kg2 Nxe6 0-1

@@ -1,0 +1,18 @@
+[Event "Glasgow tt"]
+[Site "Glasgow tt"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Buchanan, Richard W"]
+[Black "Fabbri"]
+[Result "0-1"]
+[ECO "C38"]
+[Opening "KGA"]
+[Variation "Hanstein gambit"]
+[HashCode "154f3c72"]
+[Epoch "Rook"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. Bc4 Bg7 5. O-O d6 6. d4 Nc6 7. c3 h6 8. g3 g4
+9. Ne1 f3 10. Na3 Nf6 11. Bd3 Qe7 12. Qc2 Bd7 13. Nc4 O-O-O 14. b4 d5 15. exd5
+Nxd5 16. Kh1 Nxc3 17. b5 Nxb5 18. Rb1 Ncxd4 19. Qa4 Bc6 20. Na5 Bd5 21. Rxb5
+Nxb5 22. Qxb5 Kb8 23. h4 a6 24. Qa4 f2+ 25. Ng2 Bxg2+ 26. Kxg2 Rxd3 27. Bf4 Qd7
+28. Qb4 Qb5 29. Qe4 Qd5 0-1

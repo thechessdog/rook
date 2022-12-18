@@ -1,0 +1,23 @@
+[Event "Reggio Emilia"]
+[Site "Reggio Emilia"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Cappello, Renato"]
+[Black "Cramling, Dan"]
+[Result "0-1"]
+[ECO "A64"]
+[Opening "Benoni"]
+[Variation "fianchetto, 11...Re8"]
+[HashCode "92f25162"]
+[Epoch "Rook"]
+[BlackID "1700162"]
+[BlackCountry "SWE"]
+[WhiteID "800082"]
+[WhiteCountry "ITA"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. g3 Bg7 8. Bg2
+O-O 9. O-O a6 10. a4 Nbd7 11. Nd2 Re8 12. Nc4 Nb6 13. Na3 Bd7 14. Bf4 Nh5 15.
+Bd2 Bxc3 16. bxc3 Bxa4 17. Qc1 Bd7 18. Re1 f6 19. e4 Qc7 20. Rb1 Nc8 21. c4 Rb8
+22. Bc3 Qd8 23. f4 b5 24. Ba1 b4 25. e5 Bf5 26. Be4 Bxe4 27. Rxe4 dxe5 28. fxe5
+Nd6 29. Re1 fxe5 30. Rb3 bxa3 31. Rxa3 Rb4 32. Rxa6 Rxc4 33. Qa3 Qg5 34. Rxd6
+Qd2 35. Qe3 Qxe3+ 36. Rxe3 Rc1+ 37. Kg2 Rxa1 38. Rc6 Rd1 39. Rxc5 e4 0-1

@@ -1,0 +1,21 @@
+[Event "Gavle"]
+[Site "Gavle"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Brynell, Stellan"]
+[Black "Backe, Peter"]
+[Result "1-0"]
+[ECO "E06"]
+[Opening "Catalan"]
+[Variation "closed, 5.Nf3"]
+[HashCode "876a18ea"]
+[Epoch "Rook"]
+[BlackID "1701240"]
+[BlackCountry "SWE"]
+[WhiteID "1700219"]
+[WhiteCountry "SWE"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Bg2 Be7 5. Nf3 O-O 6. O-O b6 7. cxd5 exd5 8. Nc3
+Na6 9. Bf4 c5 10. Rc1 Bb7 11. Ne5 Nc7 12. dxc5 bxc5 13. Qa4 Ne6 14. Rfd1 Nxf4
+15. Qxf4 Rb8 16. b3 d4 17. Bxb7 Rxb7 18. e3 Bd6 19. exd4 Rb4 20. Qf3 cxd4 21.
+Nc6 Qa8 22. Nd5 Rb5 23. Nxf6+ gxf6 24. Rxd4 1-0

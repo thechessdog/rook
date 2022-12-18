@@ -1,0 +1,18 @@
+[Event "Bytom"]
+[Site "Bytom"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Buczinski, Henryk"]
+[Black "Tomczyk, Marian"]
+[Result "1-0"]
+[ECO "A00"]
+[Opening "Polish (Sokolsky) opening"]
+[HashCode "ca65b3ec"]
+[Epoch "Rook"]
+[WhiteID "1129570"]
+[BlackID "1120255"]
+[WhiteCountry "POL"]
+[BlackCountry "POL"]
+
+1. b4 e5 2. Bb2 f6 3. e4 Bxb4 4. Bc4 Ne7 5. Qh5+ Ng6 6. f4 exf4 7. Ne2 Nc6 8.
+Nxf4 1-0

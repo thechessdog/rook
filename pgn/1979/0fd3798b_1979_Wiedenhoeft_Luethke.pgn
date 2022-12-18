@@ -1,0 +1,17 @@
+[Event "corr DDR-cup5"]
+[Site "corr DDR-cup5"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Wiedenhoeft, L."]
+[Black "Luethke, HE."]
+[Result "1-0"]
+[ECO "B92"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Opovcensky variation"]
+[HashCode "0fd3798b"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be6 8.
+O-O Nbd7 9. f4 Rc8 10. f5 Bc4 11. a4 Be7 12. a5 O-O 13. Be3 b5 14. axb6
+Nxb6 15. Na5 Bb5 16. Kh1 Re8 17. Nxb5 1-0
+

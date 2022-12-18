@@ -1,0 +1,18 @@
+[Event "Vrnjacka Banja"]
+[Site "Vrnjacka Banja"]
+[Date "1982.04.01"]
+[Round "15"]
+[White "Rajkovic, Dusan"]
+[Black "Tringov, Georgi P"]
+[Result "1/2-1/2"]
+[ECO "B15"]
+[Opening "Caro-Kann"]
+[Variation "Forgacs variation"]
+[HashCode "222a7ec2"]
+[Epoch "Rook"]
+[WhiteID "900265"]
+[WhiteCountry "SRB"]
+[BlackCountry "BGR"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ exf6 6. Bc4 Qe7+ 7. Qe2 Be6
+8. Bxe6 Qxe6 9. Bf4 Nd7 10. O-O-O Qxe2 11. Nxe2 O-O-O 12. Rhe1 Re8 1/2-1/2

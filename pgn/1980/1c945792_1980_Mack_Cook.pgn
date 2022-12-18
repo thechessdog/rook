@@ -1,0 +1,18 @@
+[Event "corr USA"]
+[Site "corr USA"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Mack, A."]
+[Black "Cook"]
+[Result "1-0"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, poisoned pawn variation"]
+[HashCode "1c945792"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Qg4 Nf5 8.
+Bd3 h5 9. Qh3 g5 10. g4 Nh4 11. gxh5 cxd4 12. cxd4 f5 13. exf6 Qxf6 14. Qg4
+Rg8 15. f4 Qxd4 16. Rb1 Nc6 17. h6 Nf5 18. Qh5+ Ke7 19. fxg5 Qh4+ 20. Qxh4
+Nxh4 21. h7 Rh8 22. g6 Kf6 23. Bg5+ 1-0
+

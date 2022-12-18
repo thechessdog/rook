@@ -1,0 +1,23 @@
+[Event "Groningen"]
+[Site "Groningen"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Karolyi, Tibor"]
+[Black "Sanna, Gianlazzaro"]
+[Result "0-1"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical system, 5.Be2"]
+[HashCode "da32b62e"]
+[Epoch "Rook"]
+[WhiteID "700312"]
+[BlackID "800112"]
+[WhiteCountry "HUN"]
+[BlackCountry "ITA"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Nf3 Bg7 5. Be2 O-O 6. O-O Bg4 7. h3 Bxf3 8.
+Bxf3 Nc6 9. Ne2 Nd7 10. Be3 Nb6 11. Qd3 Nb4 12. Qb3 Na6 13. e5 c6 14. e6 d5 15.
+exf7+ Rxf7 16. a4 e6 17. Bg4 Qd6 18. f4 Re8 19. Qd3 Nc4 20. Bc1 c5 21. b3 Nb4
+22. Qd1 cxd4 23. Rb1 Qc5 24. Kh1 Ne3 25. Bxe3 dxe3 26. Rc1 Rc7 27. c3 Na2 28.
+Rc2 Nxc3 29. Qd3 d4 30. Nxc3 dxc3 31. Re1 Bd4 32. Rd1 e5 33. fxe5 Bxe5 34. Qe4
+Rf8 35. Be6+ Kg7 36. b4 Qd6 37. Bd5 Rcf7 38. Rcc1 c2 39. Re1 Rf4 0-1

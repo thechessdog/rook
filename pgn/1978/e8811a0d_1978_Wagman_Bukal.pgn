@@ -1,0 +1,19 @@
+[Event "Italy"]
+[Site "Italy"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Wagman, Stuart"]
+[Black "Bukal, Vladimir Jr."]
+[Result "0-1"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Paulsen attack"]
+[HashCode "e8811a0d"]
+[Epoch "Rook"]
+[BlackID "14502941"]
+[BlackCountry "CRO"]
+[WhiteCountry "USA"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Nge7 6. a3 cxd4 7. cxd4 Nf5 8. Nc3
+Be7 9. Be2 Bd7 10. Kf1 O-O 11. h4 f6 12. g4 Nfxd4 13. Nxd4 fxe5 14. Nf3 e4 15.
+Ng5 Bc5 16. Nxd5 Rxf2+ 17. Ke1 Rxe2+ 18. Qxe2 exd5 19. b4 Bd4 20. Bb2 Qf6 0-1

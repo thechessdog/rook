@@ -1,0 +1,22 @@
+[Event "Hamburg op"]
+[Site "Hamburg"]
+[Date "1981.??.??"]
+[Round "1"]
+[White "Hazai, Laszlo Dr."]
+[Black "Schlamp, Robert"]
+[Result "1-0"]
+[ECO "C82"]
+[Opening "Ruy Lopez"]
+[Variation "open, Dilworth variation"]
+[HashCode "25a6e8ae"]
+[Epoch "Rook"]
+[WhiteID "700177"]
+[BlackID "4607180"]
+[WhiteCountry "HUN"]
+[BlackCountry "GER"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Be6 9. c3 Bc5 10. Nbd2 O-O 11. Bc2 Nxf2 12. Rxf2 Bxf2+ 13. Kxf2 f6 14. exf6
+Qxf6 15. Nf1 Ne5 16. Be3 Bg4 17. Qxd5+ Kh8 18. Qe4 Qg6 19. Qxg6 hxg6 20. Nd2
+Rad8 21. Kg3 Nxf3 22. gxf3 Bf5 23. Ne4 Rd5 24. a4 a5 25. b3 b4 26. cxb4 axb4
+27. a5 Ra8 28. a6 c6 29. a7 Rd7 30. Ra4 1-0

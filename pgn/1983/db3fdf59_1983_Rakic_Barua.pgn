@@ -1,0 +1,18 @@
+[Event "Frunze"]
+[Site "Frunze"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Rakic, Tomislav"]
+[Black "Barua, Dibyendu"]
+[Result "1/2-1/2"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack"]
+[HashCode "db3fdf59"]
+[Epoch "Rook"]
+[WhiteID "900842"]
+[BlackID "5000025"]
+[WhiteCountry "SRB"]
+[BlackCountry "IND"]
+
+1. d4 d5 2. Nc3 Nf6 3. Bg5 g6 4. Bxf6 exf6 5. e3 Bg7 6. Bd3 O-O 7. g4 Nc6 8. a3
+Re8 9. Kf1 Ne7 10. Qf3 Be6 11. Nge2 Qc8 12. h3 c5 13. Nf4 Rd8 1/2-1/2

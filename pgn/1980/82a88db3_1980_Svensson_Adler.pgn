@@ -1,0 +1,18 @@
+[Event "corr Tch-SWE"]
+[Site "corr Tch-SWE"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Svensson, Stig"]
+[Black "Adler, Bo"]
+[Result "0-1"]
+[ECO "C56"]
+[Opening "Two knights defence"]
+[HashCode "82a88db3"]
+[Epoch "Rook"]
+[WhiteID "1438719"]
+[BlackID "1702149"]
+[WhiteCountry "DEN"]
+[BlackCountry "SWE"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d4 exd4 5. O-O Nxe4 6. Re1 d5 7. Bxd5 Qxd5 8.
+Nc3 Qa5 9. Nxe4 Be6 0-1

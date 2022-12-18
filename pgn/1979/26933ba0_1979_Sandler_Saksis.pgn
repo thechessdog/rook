@@ -1,0 +1,19 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Sandler, Leonid"]
+[Black "Saksis, Yuri"]
+[Result "1-0"]
+[ECO "B33"]
+[Opening "Sicilian"]
+[Variation "Sveshnikov variation"]
+[HashCode "26933ba0"]
+[Epoch "Rook"]
+[WhiteID "3201805"]
+[WhiteCountry "AUS"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6 8.
+Na3 b5 9. Bxf6 gxf6 10. Nd5 f5 11. Bxb5 axb5 12. Nxb5 Qg5 13. Ndc7+ Kd8 14. Qd5
+Nb4 15. Qxa8 Nxc2+ 16. Kd1 Nxa1 17. Na7 Kxc7 18. Qxc8+ Kb6 19. Qb8+ Ka6 20. Nc8
+Ka5 21. Qb6+ Ka4 22. Na7 1-0

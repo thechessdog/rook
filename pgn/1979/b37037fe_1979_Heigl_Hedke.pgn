@@ -1,0 +1,16 @@
+[Event "corr FRG/K"]
+[Site "corr FRG/K"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Heigl, Rita"]
+[Black "Hedke, M."]
+[Result "1-0"]
+[ECO "B12"]
+[Opening "Caro-Kann defence"]
+[HashCode "b37037fe"]
+[Epoch "Rook"]
+
+1. e4 c6 2. d4 e5 3. dxe5 Qa5+ 4. Nc3 Qxe5 5. Nf3 Qc7 6. Bc4 d6 7. Bf4 Be6
+8. Qe2 Bxc4 9. Qxc4 Nd7 10. O-O-O Ne5 11. Bxe5 dxe5 12. Nb5 Qa5 13. Nxe5
+Nh6 14. Nxc6 Qb6 15. Ne5 1-0
+

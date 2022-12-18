@@ -1,0 +1,25 @@
+[Event "Bologna"]
+[Site "Bologna"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Cimmino, Pietro"]
+[Black "Coppini, Giorgio"]
+[Result "0-1"]
+[ECO "B51"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky (Nimzovich-Rossolimo, Moscow) attack"]
+[HashCode "cc304fb0"]
+[Epoch "Rook"]
+[WhiteID "887420"]
+[WhiteCountry "ITA"]
+[BlackID "800988"]
+[BlackCountry "ITA"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Nc6 4. b3 a6 5. Bxc6+ bxc6 6. c4 e5 7. Nc3 g6 8. d3
+Bg7 9. Bd2 Ne7 10. Qc1 O-O 11. h4 f5 12. Bh6 f4 13. Bxg7 Kxg7 14. h5 Ng8 15.
+hxg6 hxg6 16. Qb2 a5 17. Na4 Nf6 18. Ke2 Bg4 19. Rag1 Qe7 20. Qc1 Nh7 21. Kd2
+Bxf3 22. gxf3 Ng5 23. Ke2 Ne6 24. Rh3 Nd4+ 25. Kd2 Rh8 26. Qf1 Rxh3 27. Qxh3
+Rh8 28. Rxg6+ Kxg6 29. Qxh8 Nxf3+ 30. Kc1 Nd4 31. Nb6 Qb7 32. Qd8 Kh5 33. Nd7
+Qb4 34. Qh8+ Kg4 35. Nf6+ Kf3 36. Kd1 Kg2 37. Ng4 Nf3 38. Kc2 Qd2+ 39. Kb1
+Qxd3+ 40. Kb2 a4 41. Ka3 Qc3 42. Qb8 Nd4 43. Kxa4 Qb2 44. a3 Nc2 45. Ka5 Qxa3+
+46. Kb6 Qxb3+ 47. Kc7 Qxb8+ 48. Kxb8 Kf3 0-1

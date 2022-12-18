@@ -1,0 +1,23 @@
+[Event "Reykjavik"]
+[Site "Reykjavik"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Lobron, Eric"]
+[Black "Johannesson, Larus"]
+[Result "1-0"]
+[ECO "B10"]
+[Opening "Caro-Kann"]
+[Variation "closed (Breyer) variation"]
+[HashCode "f25a3b9c"]
+[Epoch "Rook"]
+[BlackID "2300311"]
+[WhiteID "4600037"]
+[WhiteCountry "GER"]
+[BlackCountry "ISL"]
+
+1. e4 c6 2. d3 d5 3. Nd2 g6 4. Ngf3 Bg7 5. Be2 e5 6. O-O Ne7 7. Re1 O-O 8. Bf1
+d4 9. b4 Na6 10. a3 c5 11. b5 Nc7 12. a4 f6 13. Nc4 Be6 14. Nfd2 b6 15. g3 Qd7
+16. Bg2 Rfb8 17. Bb2 a6 18. a5 Nc8 19. Nb3 Nxb5 20. Nxb6 Nxb6 21. Nxc5 Qc8 22.
+Nxe6 Qxe6 23. axb6 Rxb6 24. h4 Bf8 25. Ra4 Rab8 26. Kh2 Bc5 27. Bh3 Qe7 28. Qa1
+Bb4 29. Rf1 a5 30. f4 Kg7 31. fxe5 fxe5 32. Bc1 h6 33. Rxa5 Bxa5 34. Qxa5 Nc3
+35. Ba3 Qb7 36. Qxe5+ Kh7 37. Be7 1-0

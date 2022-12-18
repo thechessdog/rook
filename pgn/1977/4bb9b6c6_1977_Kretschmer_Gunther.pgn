@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Kretschmer, H."]
+[Black "Gunther, M."]
+[Result "1-0"]
+[ECO "C29"]
+[Opening "Vienna gambit"]
+[HashCode "4bb9b6c6"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nc3 Nf6 3. f4 d5 4. fxe5 Nxe4 5. d3 Nxc3 6. bxc3 c5 7. Nf3 Be7
+8. d4 O-O 9. Be2 Nc6 10. O-O Be6 11. Rb1 Rb8 12. Qe1 Bf5 13. Bd1 b5 14. Qg3
+Bg6 15. Bf4 Rb7 16. a4 a6 17. axb5 axb5 18. Ra1 b4 19. Bg5 Bxg5 20. Nxg5
+cxd4 21. e6 dxc3 22. Ra6 Rb6 23. exf7+ Bxf7 24. Nxf7 1-0
+

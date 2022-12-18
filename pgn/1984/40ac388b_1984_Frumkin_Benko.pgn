@@ -1,0 +1,20 @@
+[Event "New York Int"]
+[Site "New York Int"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Frumkin, Edward"]
+[Black "Benko, Pal"]
+[Result "1/2-1/2"]
+[ECO "A28"]
+[Opening "English"]
+[Variation "four knights, Romanishin variation"]
+[HashCode "40ac388b"]
+[Epoch "Rook"]
+[WhiteID "2007738"]
+[WhiteCountry "USA"]
+[BlackID "2000687"]
+[BlackCountry "USA"]
+
+1. c4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. e3 Bb4 5. Qc2 Bxc3 6. Qxc3 Qe7 7. a3 a5 8. b4
+d6 9. Bb2 axb4 10. axb4 Rxa1+ 11. Bxa1 O-O 12. Be2 b6 13. O-O Bb7 14. Bb2 Ra8
+15. b5 Nb8 16. Ra1 Rxa1+ 17. Bxa1 Nbd7 18. Qa3 Qd8 1/2-1/2

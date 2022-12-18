@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Milgram, C."]
+[Black "Omnes, J."]
+[Result "1-0"]
+[ECO "C63"]
+[Opening "Ruy Lopez"]
+[Variation "Schliemann defence, Berger variation"]
+[HashCode "30a2f74d"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 f5 4. Nc3 Nd4 5. Bc4 Nf6 6. d3 Nxf3+ 7. Qxf3 f4
+8. Bxf4 exf4 9. e5 Bb4 10. O-O Ng8 11. Ne4 d5 12. exd6 cxd6 13. Qh5+ g6 14.
+Qb5+ 1-0
+

@@ -1,0 +1,22 @@
+[Event "Bundesliga 8182"]
+[Site "Germany"]
+[Date "1982.??.??"]
+[Round "?"]
+[White "Schubert, Christian"]
+[Black "Kiefer, Gerhard"]
+[Result "1-0"]
+[ECO "E42"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5, 5.Ne2 (Rubinstein)"]
+[HashCode "8e43e9ea"]
+[Epoch "Rook"]
+[WhiteID "12906379"]
+[BlackID "4606965"]
+[WhiteCountry "GER"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Ne2 cxd4 6. exd4 d5 7. c5 Ne4 8. Bd2
+Bxc3 9. Nxc3 Nc6 10. Bb5 O-O 11. Bxc6 bxc6 12. O-O Rb8 13. Qc1 Ba6 14. Re1 Nxd2
+15. Qxd2 Qa5 16. Re3 Qb4 17. b3 Rfe8 18. Rae1 Qb7 19. f4 Qd7 20. Nd1 Qe7 21.
+Nf2 g6 22. Ng4 Qh4 23. Rg3 f6 24. Qd1 f5 25. Ne5 Qxf4 26. Nxg6 Qh6 27. Ne5+ Kf8
+28. Nd7+ Ke7 29. Nxb8 Rxb8 30. Qf3 Kd7 31. Rh3 Qg7 32. Qf4 Rg8 33. Rg3 1-0

@@ -1,0 +1,19 @@
+[Event "Karlovac"]
+[Site "Karlovac"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Balashov, Yuri S"]
+[Black "Kovacevic, V."]
+[Result "1/2-1/2"]
+[ECO "C26"]
+[Opening "Vienna"]
+[Variation "Paulsen-Mieses variation"]
+[HashCode "769b31fa"]
+[Epoch "Rook"]
+[WhiteID "4100263"]
+[WhiteCountry "RUS"]
+[BlackCountry "SRB"]
+
+1. e4 Nf6 2. Nc3 e5 3. g3 d5 4. exd5 Nxd5 5. Bg2 Nxc3 6. bxc3 Bd6 7. d3 O-O 8.
+Nf3 Bd7 9. O-O Bc6 10. Re1 Nd7 11. Rb1 b6 12. d4 exd4 13. cxd4 Re8 14. Bb2
+Rxe1+ 15. Qxe1 b5 16. Rd1 Bd5 17. Ne5 1/2-1/2

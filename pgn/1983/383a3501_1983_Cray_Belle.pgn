@@ -1,0 +1,21 @@
+[Event "New York"]
+[Site "New York"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Cray Blitz"]
+[Black "Belle"]
+[Result "0-1"]
+[ECO "C58"]
+[Opening "two knights defence"]
+[Variation "Colman variation"]
+[HashCode "383a3501"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 Na5 6. Bb5+ c6 7. dxc6
+bxc6 8. Qf3 Rb8 9. Bxc6+ Nxc6 10. Qxc6+ Nd7 11. d3 Be7 12. Ne4 Bb7 13. Qa4
+Qc7 14. Nbc3 Bc6 15. Qc4 Qc8 16. Nd5 Bxd5 17. Qxd5 Qxc2 18. O-O f6 19. f4
+Nb6 20. Qa5 Qxd3 21. Qxa7 O-O 22. Qxe7 Qxe4 23. Qe6+ Kh8 24. fxe5 fxe5 25.
+Rxf8+ Rxf8 26. h3 Qe1+ 27. Kh2 h6 28. Qxb6 Rf1 29. Qd8+ Kh7 30. Qd3+ e4 31.
+Qxf1 Qxf1 32. a3 e3 33. Bxe3 Qxa1 34. Bd4 h5 35. Bc3 g5 36. Be5 Qe1 37. Bc3
+Qf2 38. Kh1 g4 39. hxg4 hxg4 40. Kh2 Qh4+ 41. Kg1 g3 42. Kf1 Kg6 0-1
+

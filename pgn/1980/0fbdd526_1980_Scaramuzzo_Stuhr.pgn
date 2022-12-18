@@ -1,0 +1,18 @@
+[Event "corr ICCF Cup5"]
+[Site "corr ICCF Cup5"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Scaramuzzo"]
+[Black "Stuhr"]
+[Result "1-0"]
+[ECO "E77"]
+[Opening "King's Indian"]
+[Variation "Four pawns attack, Florentine gambit"]
+[HashCode "0fbdd526"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f4 c5 6. d5 O-O 7. Be2 e6 8. Nf3
+exd5 9. e5 dxe5 10. fxe5 Ng4 11. Bg5 Qa5 12. cxd5 Nxe5 13. O-O h6 14. Be7
+Re8 15. d6 Nxf3+ 16. Rxf3 Bg4 17. Rxf7 Bxe2 18. Qd5 Kh8 19. Nxe2 Nc6 20.
+Raf1 Nd8 21. Nf4 1-0
+

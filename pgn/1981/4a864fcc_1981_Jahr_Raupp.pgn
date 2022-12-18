@@ -1,0 +1,25 @@
+[Event "Bundesliga 8081"]
+[Site "Duitsland tt"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Jahr, Ulrich"]
+[Black "Raupp, Thomas"]
+[Result "1-0"]
+[ECO "B41"]
+[Opening "Sicilian"]
+[Variation "Kan, Maroczy bind - Bronstein variation"]
+[HashCode "4a864fcc"]
+[Epoch "Rook"]
+[BlackID "4601610"]
+[BlackCountry "GER"]
+[WhiteID "4605977"]
+[WhiteCountry "GER"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. c4 Nf6 6. Nc3 Bb4 7. Bd3 Nc6 8. Bc2
+Qc7 9. O-O Nxd4 10. Qxd4 Ng4 11. e5 Nxe5 12. Bf4 f6 13. Ne4 b6 14. Bg3 O-O 15.
+Rad1 Ra7 16. b3 a5 17. Bb1 a4 18. Nd6 Bxd6 19. Qxd6 Ba6 20. Rfe1 Rc8 21. Bxe5
+fxe5 22. Qxe5 Qxe5 23. Rxe5 axb3 24. axb3 Rc5 25. f4 Bc8 26. Re4 Rac7 27. Bd3
+Ra5 28. Rd4 d5 29. b4 Ra4 30. cxd5 exd5 31. Bb5 Ra2 32. Rxd5 Rcc2 33. Rg5 Rab2
+34. Bd3 Rd2 35. Rxd2 Rxd2 36. Rd5 Rd1+ 37. Kf2 Rc1 38. Rd8+ Kf7 39. Bxh7 g6 40.
+Rd6 Bf5 41. g4 Bxg4 42. Bxg6+ Kg7 43. Rxb6 Rc4 44. Kg3 Bd1 45. Bf5 Rc3+ 46. Kh4
+Rf3 47. Kg5 Rf2 48. Rb7+ Kf8 49. Kf6 1-0

@@ -1,0 +1,22 @@
+[Event "Ed.Lasker mem"]
+[Site "New York"]
+[Date "1981.01.01"]
+[Round "5"]
+[White "Watson, John"]
+[Black "Iskov, Gert"]
+[Result "0-1"]
+[ECO "A13"]
+[Opening "English opening"]
+[Variation "Agincourt variation"]
+[HashCode "396ef6e9"]
+[Epoch "Rook"]
+[WhiteID "2000768"]
+[WhiteCountry "USA"]
+[BlackID "1400398"]
+[BlackCountry "DEN"]
+
+1. c4 e6 2. Nf3 d5 3. b3 Nf6 4. g3 Be7 5. Bg2 O-O 6. O-O b6 7. Bb2 Bb7 8. e3 c5
+9. Qe2 Nc6 10. d3 dxc4 11. bxc4 Qc7 12. Nc3 Rac8 13. Rad1 Na5 14. Rfe1 Rfd8 15.
+e4 Nd7 16. e5 Bxf3 17. Bxf3 Nc6 18. Nd5 exd5 19. e6 Nf6 20. exf7+ Kf8 21. g4 h6
+22. h4 Qf4 23. cxd5 Nxd5 24. Bxd5 Rxd5 25. Qe6 Rdd8 26. Re4 Qxf7 27. Ree1 Qxe6
+28. Rxe6 Bxh4 0-1

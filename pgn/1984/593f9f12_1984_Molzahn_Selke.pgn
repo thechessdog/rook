@@ -1,0 +1,20 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Molzahn"]
+[Black "Selke"]
+[Result "1-0"]
+[ECO "E59"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line"]
+[HashCode "593f9f12"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 c5 7. O-O Nc6 8.
+a3 Bxc3 9. bxc3 dxc4 10. Bxc4 Qc7 11. Ba2 e5 12. Qc2 Bg4 13. dxe5 Nxe5 14.
+Ne1 b5 15. f3 Be6 16. e4 c4 17. Be3 Nfd7 18. f4 Ng4 19. Bd4 f5 20. e5 Nc5
+21. h3 Nh6 22. Nf3 Bd5 23. Rad1 Be4 24. Qf2 Nd3 25. Qg3 Rae8 26. Ng5 Nc5
+27. Qe3 Ne6 28. Nxe4 fxe4 29. g4 Qe7 30. Bb1 a5 31. Qxe4 Qh4 32. Bf2 Qxh3
+33. Qxh7+ Kf7 34. Rd7+ Re7 35. Bg6# 1-0
+

@@ -1,0 +1,17 @@
+[Event "Ohio"]
+[Site "Ohio"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Hater"]
+[Black "Meidinger, C."]
+[Result "0-1"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "1616dbb4"]
+[Epoch "Rook"]
+
+1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. d4 cxd4 5. cxd4 d6 6. Nf3 Nc6 7. b3 e6 8.
+Bb2 Bd7 9. Bd3 dxe5 10. Nxe5 Nxe5 11. dxe5 Bb4+ 12. Nd2 Nf4 13. Be4 Bc6 14.
+Bxc6+ bxc6 15. Bc1 Qd4 16. Rb1 Qd3 0-1
+

@@ -1,0 +1,21 @@
+[Event "corr ch11-DDR"]
+[Site "corr ch11-DDR"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Kase, O."]
+[Black "Gebuhr, G."]
+[Result "0-1"]
+[ECO "B63"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...Be7"]
+[HashCode "2b5d3647"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 e6 7. Qd2 Be7
+8. O-O-O O-O 9. Bxf6 Bxf6 10. Nxc6 bxc6 11. Qxd6 Qb6 12. Na4 Qxf2 13. Nc5
+g6 14. Bc4 Rd8 15. Qxc6 Rxd1+ 16. Rxd1 Rb8 17. Nd3 Qe2 18. h4 Bxh4 19. Rh1
+Bg5+ 20. Kb1 Qxg2 21. Qe8+ Kg7 22. Rxh7+ Kxh7 23. Qxf7+ Kh6 24. Qf8+ Kh5
+25. b3 Qg1+ 26. Kb2 Qd4+ 27. c3 Qxe4 28. Qh8+ Bh6 29. Ne5 Qg2+ 30. Ka3 Qf2
+31. b4 a5 32. Qxh6+ Kxh6 33. Ng4+ Kg5 34. Nxf2 axb4+ 35. cxb4 e5 36. b5 Kf4
+37. Nd3+ Ke4 38. Kb3 g5 39. a4 g4 40. Nb4 Bb7 0-1
+

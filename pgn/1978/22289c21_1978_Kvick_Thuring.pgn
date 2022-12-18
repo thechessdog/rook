@@ -1,0 +1,15 @@
+[Event "Sweden"]
+[Site "Sweden"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Kvick, Hans"]
+[Black "Thuring, Lars"]
+[Result "1-0"]
+[ECO "C10"]
+[Opening "French"]
+[Variation "Rubinstein variation"]
+[HashCode "22289c21"]
+[Epoch "Rook"]
+
+1. d4 d5 2. e4 dxe4 3. Nc3 e6 4. Nxe4 g6 5. Bg5 Ne7 6. Nf6# 1-0
+

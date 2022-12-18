@@ -1,0 +1,22 @@
+[Event "Surakarta/Denpasar"]
+[Site "Surakarta"]
+[Date "1982.02.01"]
+[Round "23"]
+[White "Sampouw, Jacobus S"]
+[Black "Sosonko, Gennadi"]
+[Result "0-1"]
+[ECO "B78"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, 10.O-O-O"]
+[HashCode "aa89c7be"]
+[Epoch "Rook"]
+[BlackID "1000039"]
+[BlackCountry "NED"]
+[WhiteID "7100256"]
+[WhiteCountry "INA"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 Nc6 8. Qd2
+O-O 9. Bc4 Bd7 10. O-O-O Rc8 11. Bb3 Ne5 12. h4 h5 13. g4 hxg4 14. h5 Nxh5 15.
+Bh6 e6 16. Rdg1 Qf6 17. Bxg7 Qxg7 18. fxg4 Nf6 19. g5 Nh5 20. Nf5 exf5 21. Nd5
+Nf3 22. Rxh5 gxh5 23. Nf6+ Kh8 24. Qd1 fxe4 25. Nxh5 Qd4 26. Rh1 Qxd1+ 27. Kxd1
+Nxg5 0-1

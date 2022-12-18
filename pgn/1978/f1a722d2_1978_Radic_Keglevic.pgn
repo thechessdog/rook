@@ -1,0 +1,18 @@
+[Event "corr ch-YUG"]
+[Site "corr ch-YUG"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Radic, D."]
+[Black "Keglevic, P."]
+[Result "0-1"]
+[ECO "B87"]
+[Opening "Sicilian"]
+[Variation "Sozin with ...a6 and ...b5"]
+[HashCode "f1a722d2"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 b5 7. Bb3 e6 8.
+O-O Be7 9. f4 O-O 10. e5 dxe5 11. fxe5 Nfd7 12. Qh5 Qb6 13. Be3 Bc5 14. Rf4
+Nc6 15. Rh4 h6 16. Rd1 Bb7 17. Ne4 Nxd4 18. Nxc5 Nf5 19. Rxd7 Nxe3 20. Rxb7
+Qxc5 21. Rf4 Rad8 22. c3 Rd2 23. h3 Nxg2+ 24. Rd4 Nf4 25. Qf3 Ne2+ 0-1
+

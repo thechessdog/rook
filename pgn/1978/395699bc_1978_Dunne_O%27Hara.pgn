@@ -1,0 +1,20 @@
+[Event "Syracuse"]
+[Site "Syracuse"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Dunne, A."]
+[Black "O'Hara, M."]
+[Result "1-0"]
+[ECO "B17"]
+[Opening "Caro-Kann"]
+[Variation "Steinitz variation"]
+[HashCode "395699bc"]
+[Epoch "Rook"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Nxf6+ Nxf6 7. Bc4
+Qd6 8. O-O Bg4 9. c3 e6 10. h3 Bxf3 11. Qxf3 O-O-O 12. b4 e5 13. dxe5 Qxe5
+14. Bf4 Qe4 15. Qxe4 Nxe4 16. Bxf7 Bd6 17. Bxd6 Rxd6 18. Rad1 Rf6 19. Bh5
+g6 20. Bg4+ Kc7 21. Rd7+ Kb6 22. c4 c5 23. Bf3 Rxf3 24. gxf3 Ng5 25. bxc5+
+Kc6 26. Rd6+ Kc7 27. Kg2 Rf8 28. Re1 Nxf3 29. Re7+ Kc8 30. Rdd7 Nh4+ 31.
+Kf1 Nf5 32. Rc7+ Kd8 33. Red7+ Ke8 34. Rxb7 Ne3+ 35. Kg1 Nxc4 36. c6 1-0
+

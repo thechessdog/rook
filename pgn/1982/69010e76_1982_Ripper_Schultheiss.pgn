@@ -1,0 +1,21 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Ripper"]
+[Black "Schultheiss, Heinz"]
+[Result "0-1"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...g6"]
+[HashCode "69010e76"]
+[Epoch "Rook"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 g6 6. cxd5 Bg7 7. Bc4 O-O
+8. Nge2 b5 9. Bxb5 Nxd5 10. O-O Nc7 11. Bc4 Nc6 12. Be3 Rb8 13. Qd2 Rb4 14.
+b3 a5 15. Rac1 Qd7 16. Rfd1 Rd8 17. Na4 Qe8 18. Qc2 Bd7 19. Nc5 Bf5 20. Bd3
+Bc8 21. Bc4 Nd5 22. Bxd5 Rxd5 23. Nd3 Rb6 24. Ndf4 Rd8 25. d5 Nb4 26. Qc7
+Rb7 27. Qxa5 Rb5 28. Qa7 Ba6 29. Nd4 Rb7 30. Qc5 Bf8 31. Qa5 Ra8 32. a4 Bd3
+33. Qxa8 Qxa8 34. Nxd3 Nxd5 35. Nb5 Nxe3 36. fxe3 Rd7 37. Rc4 Bh6 38. e4
+Qd8 39. Rc3 Bg7 40. e5 Bxe5 41. Rc5 Bf4 42. Rc3 e5 43. g3 Bh6 44. b4 e4 0-1
+

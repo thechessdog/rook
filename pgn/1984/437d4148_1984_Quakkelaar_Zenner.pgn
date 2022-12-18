@@ -1,0 +1,20 @@
+[Event "corr WER/M"]
+[Site "corr WER/M"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Quakkelaar"]
+[Black "Zenner"]
+[Result "0-1"]
+[ECO "B15"]
+[Opening "Caro-Kann"]
+[Variation "Forgacs variation"]
+[HashCode "437d4148"]
+[Epoch "Rook"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ exf6 6. Bc4 Qe7+ 7. Ne2
+Qb4+ 8. Qd2 Qxc4 9. O-O Bd6 10. b3 Qe6 11. Re1 O-O 12. Ng3 Qd7 13. Ne4 Be7
+14. Bb2 Na6 15. Re3 f5 16. Rg3 fxe4 17. Qh6 Qg4 18. Rxg4 Bxg4 19. Qe3 Rae8
+20. Qxe4 Ba3 21. Qxg4 Bxb2 22. Rd1 f5 23. Qf4 Re4 24. Qd6 Bxd4 25. g4 Bc5
+26. Qd7 Re7 27. Qd3 fxg4 28. Qc4+ Kh8 29. Rd2 h5 30. Qd3 Re6 31. Qd7 Ref6
+32. Qxb7 Nb4 0-1
+

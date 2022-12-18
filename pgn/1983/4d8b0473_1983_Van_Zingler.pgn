@@ -1,0 +1,20 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Van Benrum"]
+[Black "Zingler"]
+[Result "1-0"]
+[ECO "C72"]
+[Opening "Ruy Lopez"]
+[Variation "modern Steinitz defence, 5.O-O"]
+[HashCode "4d8b0473"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. O-O Bg4 6. h3 h5 7. c4 Qf6 8.
+Qb3 O-O-O 9. Bxc6 bxc6 10. Nh2 Bd7 11. d4 exd4 12. Nf3 Re8 13. Bg5 Qg6 14.
+Nbd2 c5 15. Qa3 f6 16. Bf4 h4 17. Qxa6+ Kd8 18. Kh1 Qh5 19. Qa8+ Ke7 20.
+Qb7 g5 21. Bh2 Rc8 22. b4 Kd8 23. bxc5 dxc5 24. a4 g4 25. hxg4 Qxg4 26. e5
+h3 27. g3 Ne7 28. exf6 Nc6 29. a5 Rh6 30. a6 Rxf6 31. a7 Nxa7 32. Ne5 Bc6+
+33. Qxc6 1-0
+

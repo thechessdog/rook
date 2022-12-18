@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Ryan, Randy"]
+[Black "Vehre, John"]
+[Result "0-1"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "classical variation (5.Bf4)"]
+[HashCode "41fcea01"]
+[Epoch "Rook"]
+[BlackCountry "USA"]
+
+1. Nf3 d5 2. d4 Nf6 3. c4 e6 4. Nc3 Be7 5. Bf4 O-O 6. e3 c5 7. dxc5 Bxc5 8. Qc2
+Nc6 9. Rd1 Qa5 10. a3 Be7 11. Rd2 dxc4 12. Bxc4 e5 13. Bg5 Bg4 14. O-O Rac8 15.
+Bd3 Bxf3 16. gxf3 Nd4 17. exd4 exd4 18. Bxf6 Bxf6 19. Bxh7+ Kh8 20. Qf5 Rc5 0-1

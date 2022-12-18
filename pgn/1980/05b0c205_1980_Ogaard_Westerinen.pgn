@@ -1,0 +1,23 @@
+[Event "Baerum"]
+[Site "Baerum"]
+[Date "1980.??.??"]
+[Round "5"]
+[White "Ogaard, Leif"]
+[Black "Westerinen, Heikki M.J."]
+[Result "1-0"]
+[ECO "A62"]
+[Opening "Benoni"]
+[Variation "fianchetto variation"]
+[HashCode "05b0c205"]
+[Epoch "Rook"]
+[WhiteID "1500074"]
+[BlackID "500020"]
+[WhiteCountry "NOR"]
+[BlackCountry "FIN"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. g3 Bg7 8. Bg2
+O-O 9. O-O Bd7 10. Nd2 b5 11. a4 b4 12. Nb5 Bxb5 13. axb5 Nbd7 14. Nc4 Nb6 15.
+Na5 Re8 16. Nc6 Qd7 17. Ra6 Qg4 18. Bf4 Qxe2 19. Bxd6 Nfd7 20. b3 Bf8 21. Bxf8
+Kxf8 22. d6 Qxd1 23. Rxd1 Re2 24. Nxb4 Rae8 25. Nd3 R2e6 26. Nb2 Re1+ 27. Rxe1
+Rxe1+ 28. Bf1 Rb1 29. Nc4 Rd1 30. Kg2 Kg7 31. Be2 Rd4 32. Rxa7 Nxc4 33. Bxc4
+Rxd6 34. b6 Kf6 35. f4 Ke7 36. Bb5 Kd8 37. Ra8+ Ke7 38. b7 1-0

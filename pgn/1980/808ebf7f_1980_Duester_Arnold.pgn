@@ -1,0 +1,23 @@
+[Event "Mosbach Elo"]
+[Site "Mosbach Elo"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Duester, Thomas"]
+[Black "Arnold, Lothar"]
+[Result "1/2-1/2"]
+[ECO "B29"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rubinstein variation"]
+[HashCode "808ebf7f"]
+[Epoch "Rook"]
+[BlackID "4604300"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nf3 Nf6 3. e5 Nd5 4. Nc3 e6 5. Ne4 f5 6. Nc3 Nc6 7. Nxd5 exd5 8. d4
+d6 9. exd6 Bxd6 10. Be2 O-O 11. O-O c4 12. b3 c3 13. Qd3 Qa5 14. a3 f4 15. Rb1
+Bf5 16. Qd1 Rae8 17. b4 Qc7 18. Rb3 Ne7 19. Re1 Ng6 20. Bb5 Re4 21. Ng5 Rxe1+
+22. Qxe1 Rc8 23. Bd3 Qd7 24. Bxf5 Qxf5 25. Nf3 Qe4 26. Qxe4 dxe4 27. Ng5 Rc4
+28. Nxe4 Rxd4 29. Nxc3 Rc4 30. f3 Ne7 31. Kf1 Nf5 32. Ne2 Rxc2 33. Bxf4 Bxf4
+34. Nxf4 Rc1+ 35. Kf2 Rc2+ 36. Kf1 Rc1+ 37. Kf2 Rc2+ 38. Ke1 g5 39. Ne6 Rxg2
+40. Rd3 Kf7 41. Nd8+ Kg6 42. Rd2 Rxd2 43. Kxd2 Nd4 44. Nxb7 Nxf3+ 45. Ke2 Nxh2
+46. b5 Ng4 47. Na5 Ne5 48. Nc6 Nd7 49. Nxa7 Kf5 50. a4 Ke6 51. Nc8 1/2-1/2

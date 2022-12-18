@@ -1,0 +1,21 @@
+[Event "England tt"]
+[Site "England tt"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Inwood"]
+[Black "Basman"]
+[Result "0-1"]
+[ECO "B13"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack"]
+[HashCode "e82cd5ae"]
+[Epoch "Rook"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 Be6 6. Qb3 Nc6 7. cxd5 Nxd5
+8. Qxb7 Nxd4 9. Bb5+ Nxb5 10. Qxb5+ Qd7 11. Nge2 Qxb5 12. Nxb5 a6 13. Nbd4
+Bd7 14. Bd2 Rb8 15. Nc3 Nb4 16. O-O e5 17. Nf3 f6 18. a3 Nd3 19. b4 Bc6 20.
+Rfd1 Be7 21. Be3 Nb2 22. Re1 Kf7 23. Nd2 Rhd8 24. Nde4 Nd3 25. Re2 h6 26.
+g4 g6 27. Rc2 f5 28. gxf5 gxf5 29. Nc5 f4 30. Nxa6 fxe3 31. Nxb8 Rxb8 32.
+fxe3 Bg5 33. Nd1 Ba4 34. Rc7+ Ke6 35. e4 Rg8 36. Kf1 Rf8+ 37. Ke2 Nf4+ 38.
+Ke1 Ng2+ 39. Ke2 Bb5+ 0-1
+

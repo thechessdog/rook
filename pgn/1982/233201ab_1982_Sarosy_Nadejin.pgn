@@ -1,0 +1,17 @@
+[Event "corr WCCC14"]
+[Site "corr WCCC14"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Sarosy, Zoltan"]
+[Black "Nadejin, E."]
+[Result "1-0"]
+[ECO "E90"]
+[Opening "King's Indian"]
+[Variation "5.Nf3"]
+[HashCode "233201ab"]
+[Epoch "Rook"]
+[WhiteCountry "CAN"]
+
+1. c4 d6 2. Nf3 g6 3. e4 Bg7 4. d4 Nf6 5. Nc3 O-O 6. h3 e5 7. d5 Nh5 8. Nh2 Nf4
+9. g3 Nh5 10. Ng4 Nd7 11. Bg2 a6 12. O-O Kh8 13. Be3 Qe8 14. Nh6 f5 15. exf5
+1-0

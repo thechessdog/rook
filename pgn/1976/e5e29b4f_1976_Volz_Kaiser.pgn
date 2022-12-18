@@ -1,0 +1,18 @@
+[Event "corr EUR"]
+[Site "corr EUR"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Volz"]
+[Black "Kaiser"]
+[Result "0-1"]
+[ECO "A40"]
+[Opening "Queen's pawn"]
+[HashCode "e5e29b4f"]
+[Epoch "Rook"]
+
+1. d4 e6 2. Nf3 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e3 Nbd7 6. Bd3 c5 7. Bxf6 Bxf6
+8. Bb5 a6 9. Bxd7+ Bxd7 10. dxc5 Qa5 11. Nd4 Qxc5 12. O-O O-O 13. Re1 Rac8
+14. Qd2 Rfd8 15. Rac1 Qb4 16. Rb1 Rc4 17. a3 Qc5 18. Nb3 Bxc3 19. bxc3 Qc7
+20. Nd4 Rc8 21. Rb3 Ba4 22. Rb4 Rxb4 23. axb4 Qxc3 24. Qxc3 Rxc3 25. Ra1 b5
+0-1
+

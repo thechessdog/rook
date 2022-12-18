@@ -1,0 +1,20 @@
+[Event "Helsinki"]
+[Site "Helsinki"]
+[Date "1981.01.01"]
+[Round "4"]
+[White "Farago, Ivan"]
+[Black "Sznapik, Aleksander"]
+[Result "0-1"]
+[ECO "E74"]
+[Opening "King's Indian"]
+[Variation "Averbakh, 6...c5"]
+[HashCode "6c49a7cf"]
+[Epoch "Rook"]
+[WhiteID "700134"]
+[WhiteCountry "HUN"]
+[BlackID "1100050"]
+[BlackCountry "POL"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Be2 O-O 6. Bg5 c5 7. d5 h6 8. Bf4 e6
+9. dxe6 Bxe6 10. Bxd6 Re8 11. Nf3 Qb6 12. Bxb8 Raxb8 13. Qc2 Nh5 14. Nd2 Nf4
+15. Bf3 Qxb2 16. Qxb2 Nd3+ 17. Ke2 Nxb2 18. Nd5 0-1

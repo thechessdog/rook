@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Damele"]
+[Black "Farachi, Umberto"]
+[Result "0-1"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, 6.Bd3"]
+[HashCode "d601e28d"]
+[Epoch "Rook"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. f4 Nf6 5. Nf3 O-O 6. Bd3 Nc6 7. O-O Bg4 8.
+e5 dxe5 9. dxe5 Nd5 10. h3 Nxc3 11. bxc3 Bf5 12. Bxf5 gxf5 13. Qe2 Qd5 14.
+c4 Qa5 15. a4 e6 16. Be3 f6 17. exf6 Bxf6 18. Rab1 Rab8 19. Ne5 Bxe5 20.
+Rb5 Nd4 0-1
+

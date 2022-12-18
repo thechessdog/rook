@@ -1,0 +1,20 @@
+[Event "Sofia ch-BUL"]
+[Site "Sofia ch-BUL"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Velikov, Petar"]
+[Black "Spassov, Liuben"]
+[Result "1/2-1/2"]
+[ECO "A40"]
+[Opening "Queen's pawn"]
+[Variation "Franco-Indian (Keres) defence"]
+[HashCode "a8b14298"]
+[Epoch "Rook"]
+[WhiteID "2900149"]
+[BlackID "2900220"]
+[WhiteCountry "FID"]
+[BlackCountry "FID"]
+
+1. d4 e6 2. c4 Bb4+ 3. Bd2 a5 4. Nf3 d6 5. Nc3 Nf6 6. e3 Nc6 7. a3 Bxc3 8. Bxc3
+Ne4 9. Qc2 Nxc3 10. Qxc3 O-O 11. Be2 Qe7 12. O-O e5 13. dxe5 Nxe5 14. Nxe5 dxe5
+15. Rfd1 1/2-1/2

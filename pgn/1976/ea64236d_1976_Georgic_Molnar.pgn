@@ -1,0 +1,20 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Georgic"]
+[Black "Molnar"]
+[Result "0-1"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Paulsen attack"]
+[HashCode "ea64236d"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. a3 c4 7. Be2 Na5 8. Nbd2
+Ne7 9. Rb1 Bd7 10. O-O Bc6 11. Ng5 h6 12. Nh3 Nb3 13. Nxb3 Qxb3 14. Qxb3
+cxb3 15. Bd1 Bb5 16. Re1 Bc4 17. Be2 Rc8 18. Nf4 Bxe2 19. Nxe2 b5 20. a4
+bxa4 21. Ra1 Rc4 22. Ng3 Nc8 23. Nf1 Nb6 24. Bd2 a5 25. f4 Be7 26. g4 a3
+27. bxa3 a4 28. Ne3 O-O 29. Nd1 Rc7 30. Re2 Rb8 31. Bc1 Nc4 32. Kf2 Rcb7
+33. Bb2 Bd8 34. Kg3 Ba5 35. Rc1 Rc8 36. Re3 Nxe3 37. Nxe3 Bxc3 0-1
+

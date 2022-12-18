@@ -1,0 +1,20 @@
+[Event "Haderslev op"]
+[Site "Haderslev"]
+[Date "1981.01.01"]
+[Round "8"]
+[White "Norgaard, Jesper"]
+[Black "Agdestein, Espen"]
+[Result "1/2-1/2"]
+[ECO "B16"]
+[Opening "Caro-Kann"]
+[Variation "Bronstein-Larsen variation"]
+[HashCode "bcf00d31"]
+[Epoch "Rook"]
+[WhiteID "1400517"]
+[BlackID "1500201"]
+[WhiteCountry "DEN"]
+[BlackCountry "NOR"]
+
+1. e4 c6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Nf6 5. Nxf6+ gxf6 6. Nf3 Bf5 7. Bd3 Bg6
+8. O-O Qc7 9. c4 Nd7 10. d5 e5 11. Nh4 O-O-O 12. f4 e4 13. Nxg6 hxg6 14. Bxe4
+Bc5+ 15. Kh1 f5 16. dxc6 bxc6 17. Bc2 Ne5 18. Qe1 Ng4 19. h3 Qb6 1/2-1/2

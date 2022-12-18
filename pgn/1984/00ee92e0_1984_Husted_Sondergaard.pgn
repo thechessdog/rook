@@ -1,0 +1,17 @@
+[Event "Aarhus"]
+[Site "Aarhus"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Husted, Peter"]
+[Black "Sondergaard, Gunnar"]
+[Result "1-0"]
+[ECO "C40"]
+[Opening "QP counter-gambit (elephant gambit)"]
+[HashCode "00ee92e0"]
+[Epoch "Rook"]
+[WhiteID "1403303"]
+[WhiteCountry "DEN"]
+
+1. e4 e5 2. Nf3 d5 3. exd5 Qxd5 4. Nc3 Qa5 5. Bc4 Bd6 6. d3 Ne7 7. Ng5 f6 8.
+Nf7 Rf8 9. Qh5 g6 10. Qxh7 Bb4 11. O-O Bxc3 12. Bh6 Rg8 13. bxc3 g5 14. Nxe5
+Bf5 15. Qf7+ Kd8 16. Bf8 Qxe5 17. Bxe7+ Qxe7 18. Qxg8+ 1-0

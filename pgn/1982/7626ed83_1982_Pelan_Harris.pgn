@@ -1,0 +1,15 @@
+[Event "Dayton,OH"]
+[Site "Dayton,OH"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Pelan, D."]
+[Black "Harris"]
+[Result "1-0"]
+[ECO "C50"]
+[Opening "King's pawn game"]
+[HashCode "7626ed83"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 f6 4. Nc3 Na5 5. Bd5 Ne7 6. Nh4 Nxd5 7. Nxd5 c6
+8. Qh5+ g6 9. Nxg6 1-0
+

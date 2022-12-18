@@ -1,0 +1,20 @@
+[Event "Berlin"]
+[Site "Berlin"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Groszpeter, Attila"]
+[Black "Eng, Holger, Dr."]
+[Result "1-0"]
+[ECO "D31"]
+[Opening "QGD"]
+[Variation "Charousek (Petrosian) variation"]
+[HashCode "12c3d720"]
+[Epoch "Rook"]
+[BlackID "4602072"]
+[BlackCountry "GER"]
+[WhiteID "700053"]
+[WhiteCountry "HUN"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Be7 4. Nf3 Nf6 5. Bg5 Nbd7 6. e3 h6 7. Bh4 O-O 8. Rc1
+c6 9. Bd3 dxc4 10. Bxc4 Nd5 11. Bg3 Nxc3 12. bxc3 c5 13. O-O Qa5 14. Qe2 b6 15.
+Nd2 Bb7 16. Bb5 c4 17. a4 1-0

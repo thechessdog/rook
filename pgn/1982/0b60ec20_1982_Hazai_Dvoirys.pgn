@@ -1,0 +1,22 @@
+[Event "Sochi"]
+[Site "Sochi"]
+[Date "1982.01.01"]
+[Round "6"]
+[White "Hazai, Laszlo Dr."]
+[Black "Dvoirys, Semen I."]
+[Result "0-1"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Byrne (English) attack"]
+[HashCode "0b60ec20"]
+[Epoch "Rook"]
+[WhiteID "700177"]
+[WhiteCountry "HUN"]
+[BlackID "4100379"]
+[BlackCountry "RUS"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e6 7. g4 e5 8. Nf5
+g6 9. g5 gxf5 10. exf5 d5 11. gxf6 d4 12. Bc4 Qc7 13. Qd3 Nd7 14. Nd5 Qc6 15.
+Bxd4 exd4 16. O-O-O b5 17. Bb3 Bc5 18. Rhe1+ Kd8 19. Qe2 a5 20. Nf4 Qd6 21. Qf3
+Bb7 22. Qg3 Rf8 23. Bxf7 Rxf7 24. Ne6+ Kc8 25. Qg8+ Rf8 26. Nxf8 Nxf8 27. Qf7
+Nd7 28. Re7 Qf4+ 29. Kb1 Qxf5 0-1

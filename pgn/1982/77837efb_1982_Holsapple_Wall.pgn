@@ -1,0 +1,18 @@
+[Event "Dayton,OH"]
+[Site "Dayton,OH"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Holsapple, Boyd"]
+[Black "Wall, Bill"]
+[Result "0-1"]
+[ECO "C15"]
+[Opening "French"]
+[Variation "Winawer (Nimzovich) variation"]
+[HashCode "77837efb"]
+[Epoch "Rook"]
+[BlackCountry "USA"]
+[WhiteCountry "USA"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. Bd3 dxe4 5. Bxe4 Nf6 6. Bg5 O-O 7. Qf3 Nbd7 8.
+O-O-O Bxc3 9. Bxf6 Bxb2+ 10. Kxb2 Nxf6 11. Ne2 Bd7 12. Rd3 a5 13. Bxb7 Rb8 14.
+Kc1 Bb5 15. Rb3 Bxe2 16. Qxe2 Qxd4 17. Kb1 Rfd8 18. Rd3 Rxb7+ 0-1

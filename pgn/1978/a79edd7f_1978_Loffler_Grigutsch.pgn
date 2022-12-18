@@ -1,0 +1,20 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Loeffler, Christoph"]
+[Black "Grigutsch"]
+[Result "1-0"]
+[ECO "D56"]
+[Opening "QGD"]
+[Variation "Lasker defence, Teichmann variation"]
+[HashCode "a79edd7f"]
+[Epoch "Rook"]
+[WhiteID "1604287"]
+[WhiteCountry "AUT"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. e3 O-O 6. Nf3 h6 7. Bh4 Ne4 8. Bxe7
+Qxe7 9. Qc2 c6 10. Bd3 Nxc3 11. bxc3 Nd7 12. O-O e5 13. cxd5 cxd5 14. e4 exd4
+15. cxd4 Nb6 16. Rac1 Be6 17. e5 Rac8 18. Qb3 Nc4 19. Rc3 Rc7 20. Rfc1 Rfc8 21.
+Qa4 a6 22. Nd2 b5 23. Qxa6 Rb8 24. Bxc4 dxc4 25. a3 Bd5 26. Rg3 Rc6 27. Qa5
+Rcb6 28. Qc3 Ra6 29. Qe3 Kh7 30. Ne4 Rba8 31. Qf4 Rxa3 32. Nf6+ 1-0

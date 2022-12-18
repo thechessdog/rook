@@ -1,0 +1,16 @@
+[Event "Ohio"]
+[Site "Ohio"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Lovegren, R."]
+[Black "Wall, Bill"]
+[Result "0-1"]
+[ECO "A02"]
+[Opening "Bird"]
+[Variation "From gambit, Lasker variation"]
+[HashCode "4916f76d"]
+[Epoch "Rook"]
+[BlackCountry "USA"]
+
+1. f4 e5 2. fxe5 d6 3. exd6 Bxd6 4. Nf3 g5 5. d4 f5 6. h3 g4 7. hxg4 fxg4 8.
+Ng5 Bg3+ 9. Kd2 Qxd4# 0-1

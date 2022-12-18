@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Rotter"]
+[Black "Brust"]
+[Result "1-0"]
+[ECO "C44"]
+[Opening "Scotch"]
+[Variation "Goering gambit"]
+[HashCode "4f83c395"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. c3 dxc3 5. Bc4 Na5 6. Bxf7+ Kxf7 7. Ne5+
+Ke8 8. Qh5+ g6 9. Nxg6 Nf6 10. Qe5+ Be7 11. Nxh8 Nc6 12. Qg5 Nd4 13. e5
+Nc2+ 14. Kd1 Nxa1 15. Nxc3 d5 16. exf6 Bxf6 17. Qh5+ Kd7 18. Qg4+ Kc6 19.
+Qa4+ 1-0
+

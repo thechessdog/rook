@@ -1,0 +1,20 @@
+[Event "corr NBC"]
+[Site "corr NBC"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Van Wieringen"]
+[Black "De Roode"]
+[Result "0-1"]
+[ECO "C06"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation, main line"]
+[HashCode "81d2d418"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Bd3 c5 6. c3 Nc6 7. Ne2 cxd4 8.
+cxd4 f6 9. exf6 Nxf6 10. Nf3 Bd6 11. O-O Qc7 12. Nc3 a6 13. Re1 O-O 14. h3
+Bd7 15. a3 Rae8 16. Bg5 h6 17. Be3 g5 18. Qd2 Re7 19. Rac1 Rg7 20. Ne5 Be8
+21. f4 Nh5 22. fxg5 Bxe5 23. dxe5 d4 24. gxh6 dxe3 25. Rxe3 Rg5 26. Rf3
+Rgf5 27. Bxf5 exf5 28. Qg5+ Kh7 29. Rxf5 Qb6+ 30. Kh2 Rg8 31. Qd2 Qd4 32.
+Ne4 Qxd2 0-1
+

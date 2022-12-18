@@ -1,0 +1,29 @@
+[Event "Lucerne"]
+[Site "Lucerne"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Greenfeld, Alon"]
+[Black "Bichsel, Walter"]
+[Result "0-1"]
+[ECO "A05"]
+[Opening "Reti"]
+[Variation "King's Indian attack"]
+[HashCode "b1dc9b05"]
+[Epoch "Rook"]
+[BlackID "1300318"]
+[BlackCountry "SUI"]
+[WhiteID "2800039"]
+[WhiteCountry "ISR"]
+
+1. Nf3 Nf6 2. g3 g6 3. b3 Bg7 4. Bb2 O-O 5. Bg2 d5 6. c4 c6 7. O-O a5 8. Nc3
+Bg4 9. Qc2 Na6 10. Ne5 Be6 11. d3 Rc8 12. cxd5 cxd5 13. Qd2 Nd7 14. Nf3 h6 15.
+Nb5 Bg4 16. Rac1 Qb6 17. Bxg7 Kxg7 18. Nc3 Bxf3 19. Bxf3 e6 20. d4 Qb4 21. Qd3
+Rc6 22. Nb5 Rfc8 23. a3 Qe7 24. Qd2 a4 25. b4 Nb6 26. Rxc6 Rxc6 27. e3 Nc4 28.
+Qd3 Nc7 29. Nxc7 Rxc7 30. Be2 h5 31. Rc1 b5 32. Rc3 Qg5 33. h4 Qf6 34. Qd1 Qf5
+35. Bd3 Qf6 36. Rc2 Re7 37. Bxc4 dxc4 38. Kg2 Qf5 39. Re2 Rd7 40. Qc2 Qd5+ 41.
+f3 e5 42. Rd2 exd4 43. Rxd4 Qe6 44. Qd2 Rxd4 45. Qxd4+ Qf6 46. Qxf6+ Kxf6 47.
+Kf2 Ke5 48. Ke2 f5 49. Kd2 Kf6 50. Kc3 g5 51. Kd4 Kg6 52. hxg5 Kxg5 53. f4+ Kg4
+54. e4 fxe4 55. Kxe4 Kxg3 56. f5 h4 57. f6 h3 58. f7 h2 59. f8=Q h1=Q+ 60. Kd4
+Qg1+ 61. Kd5 Qg2+ 62. Kd6 Qd2+ 63. Kc6 Qg5 64. Kb6 Qe5 65. Qf1 c3 66. Ka5 Kg4
+67. Qf7 Kg3 68. Ka6 Qd6+ 69. Kxb5 c2 70. Qg7+ Kf2 71. Qg5 Qd7+ 72. Kb6 Qd4+ 73.
+Kb5 Qc3 0-1

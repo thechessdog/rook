@@ -1,0 +1,23 @@
+[Event "Bundesliga 8182"]
+[Site "Duitsland tt"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Busch, Raimund"]
+[Black "Hickl, Thomas"]
+[Result "1-0"]
+[ECO "E47"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 O-O, 5.Bd3"]
+[HashCode "e4f978ec"]
+[Epoch "Rook"]
+[WhiteID "4602480"]
+[WhiteCountry "GER"]
+[BlackID "4604040"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 c5 6. a3 Bxc3+ 7. bxc3 d6 8. e4
+Nc6 9. Ne2 e5 10. O-O Nh5 11. Be3 Qe7 12. Qd2 Na5 13. Rae1 Be6 14. d5 Bd7 15.
+f3 g6 16. Bh6 Ng7 17. f4 f5 18. Ng3 Rf7 19. Bxg7 Kxg7 20. fxe5 dxe5 21. exf5
+gxf5 22. Bxf5 Nxc4 23. Qe2 b5 24. d6 Qg5 25. Ne4 Qe3+ 26. Qxe3 Nxe3 27. Bxd7
+Nxf1 28. Be6 Rf4 29. Rxf1 Rxe4 30. Bd5 Rd8 31. Bxe4 Rxd6 32. Rb1 Rb6 33. Bd5
+Kf6 34. Rf1+ Kg6 35. Rb1 a5 36. Kf2 Rd6 37. Be4+ Kg5 38. Rxb5 Kf4 39. Bf3 1-0

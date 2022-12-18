@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Faulkner, William"]
+[Black "Vehre, John"]
+[Result "0-1"]
+[ECO "B31"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (with ...g6, without ...d6)"]
+[HashCode "1a779b1e"]
+[Epoch "Rook"]
+[BlackCountry "USA"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. Re1 Nf6 6. Nc3 O-O 7. d3 d6 8. h3
+Bd7 9. Ne2 Ne5 10. Nxe5 Bxb5 11. Nf3 c4 12. Nc3 Ba6 13. d4 b5 14. e5 Ne8 15.
+Bf4 dxe5 16. Nxe5 Bb7 17. Qg4 Nf6 18. Qd1 Nd5 19. Nxd5 Qxd5 20. Nf3 Qf5 21.
+Rxe7 Bxf3 22. Qxf3 Qxc2 23. Rae1 Bxd4 24. Bh6 Bg7 25. Bxg7 Kxg7 26. Rd1 Qxb2
+27. Rdd7 Qf6 28. Qe2 c3 29. a3 Rac8 30. Qc2 Rce8 31. Rxe8 Rxe8 32. Rd1 a5 0-1

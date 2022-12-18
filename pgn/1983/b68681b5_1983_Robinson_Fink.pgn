@@ -1,0 +1,19 @@
+[Event "Winston"]
+[Site "Winston"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Robinson"]
+[Black "Fink, Stanley"]
+[Result "1-0"]
+[ECO "C30"]
+[Opening "KGD"]
+[Variation "classical, Heath variation"]
+[HashCode "b68681b5"]
+[Epoch "Rook"]
+[BlackID "2002175"]
+[BlackCountry "USA"]
+
+1. e4 e5 2. f4 Bc5 3. Nf3 d6 4. b4 Bxb4 5. c3 Ba5 6. Bc4 exf4 7. d4 Nf6 8. e5
+dxe5 9. Nxe5 O-O 10. Ba3 c5 11. Bxc5 Ne4 12. Qh5 Nxc5 13. Bxf7+ Rxf7 14. Qxf7+
+Kh8 15. dxc5 Nd7 16. Qxf4 Qe7 17. O-O Qxc5+ 18. Kh1 Nf6 19. Qg5 Kg8 20. Rxf6
+Bd8 21. Nd7 Qd6 22. Qd5+ Kh8 23. Qxd6 1-0

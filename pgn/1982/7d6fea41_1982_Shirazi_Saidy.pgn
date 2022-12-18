@@ -1,0 +1,25 @@
+[Event "USA"]
+[Site "USA"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Shirazi, Kamran"]
+[Black "Saidy, Anthony"]
+[Result "0-1"]
+[ECO "A46"]
+[Opening "Queen's pawn"]
+[Variation "Torre attack"]
+[HashCode "7d6fea41"]
+[Epoch "Rook"]
+[WhiteID "2000733"]
+[BlackID "2000903"]
+[WhiteCountry "FRA"]
+[BlackCountry "USA"]
+
+1. d4 Nf6 2. Nf3 e6 3. Bg5 c5 4. e3 Qb6 5. Qc1 Ne4 6. Bh4 d5 7. c3 Nc6 8. Bd3
+Bd6 9. Bxe4 dxe4 10. Nfd2 f5 11. Nc4 Qc7 12. Nba3 Be7 13. Nb5 Qd7 14. Bxe7 Kxe7
+15. dxc5 Qd5 16. Nbd6 Qxc5 17. b4 Qd5 18. f4 b5 19. Qa3 bxc4 20. Rd1 Qxd1+ 21.
+Kxd1 Rd8 22. b5 Rxd6+ 23. Kc2 Nd8 24. Rd1 Nb7 25. Rd4 Bd7 26. Rxc4 Ke8 27. Rc7
+Rb6 28. c4 a6 29. Qc3 Kd8 30. Rxd7+ Kxd7 31. Qxg7+ Kc8 32. a4 axb5 33. axb5 Rd6
+34. c5 Ra2+ 35. Kb3 Rdd2 36. Qh8+ Nd8 37. c6 Rab2+ 38. Qxb2 Rxb2+ 39. Kxb2 Kc7
+40. Kc3 Nf7 41. Kd4 Kb6 42. h3 h5 43. g3 Nd6 44. Ke5 Nc4+ 45. Kd4 Na3 46. Ke5
+Nc2 47. Kd6 Nxe3 48. Kxe6 Nc4 49. Kd5 e3 0-1

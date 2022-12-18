@@ -1,0 +1,18 @@
+[Event "corr SM/ME"]
+[Site "corr SM/ME"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Heinola, Kari P."]
+[Black "Anttila, Pentti"]
+[Result "1-0"]
+[ECO "B99"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7...Be7 main line"]
+[HashCode "4425974a"]
+[Epoch "Rook"]
+[WhiteID "503495"]
+[WhiteCountry "FIN"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3
+Qc7 9. O-O-O Nbd7 10. Qg3 b5 11. Bxb5 axb5 12. Ndxb5 Qc5 13. e5 Nh5 14. Qf3
+dxe5 15. Bxe7 Kxe7 16. Qxa8 Nxf4 17. Rd2 Rd8 18. Na7 Nb6 19. Nc6+ 1-0

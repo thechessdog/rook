@@ -1,0 +1,21 @@
+[Event "Lone Pine open"]
+[Site "Lone Pine open"]
+[Date "1979.03.01"]
+[Round "3"]
+[White "Whitehead, Paul"]
+[Black "Janosevic, Dragoljub"]
+[Result "1-0"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (without ...d6)"]
+[HashCode "27173e48"]
+[Epoch "Rook"]
+[WhiteID "2001209"]
+[WhiteCountry "USA"]
+[BlackCountry "SRB"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 Nf6 4. Nc3 a6 5. Bxc6 dxc6 6. h3 h6 7. d3 Qc7 8. e5
+Nd5 9. Ne4 Bf5 10. Qe2 O-O-O 11. Bd2 e6 12. a3 g5 13. g4 Bg6 14. h4 Be7 15.
+hxg5 hxg5 16. O-O-O Nf4 17. Bxf4 Rxh1 18. Rxh1 gxf4 19. Nf6 b5 20. Nh4 Bxf6 21.
+exf6 Rg8 22. Nf3 Qd8 23. Qe5 Qd5 24. Rh3 Qxe5 25. Nxe5 Kc7 26. Rh6 Kd6 27. Nxg6
+fxg6 28. g5 Ke5 29. Rxg6 1-0

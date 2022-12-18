@@ -1,0 +1,19 @@
+[Event "corr Kubbel mem"]
+[Site "corr Kubbel mem"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Bragin"]
+[Black "Levitsky"]
+[Result "1/2-1/2"]
+[ECO "C69"]
+[Opening "Ruy Lopez"]
+[Variation "exchange, Bronstein variation"]
+[HashCode "014558b7"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O Qd6 6. d3 f6 7. Be3 Bg4
+8. Nbd2 Qd7 9. Qe2 h5 10. d4 exd4 11. Bxd4 Qxd4 12. Nxd4 Bxe2 13. Nxe2
+O-O-O 14. Rad1 Nh6 15. Nc4 Re8 16. Nc3 Bb4 17. Rfe1 Bxc3 18. bxc3 Re6 19.
+f3 Rhe8 20. Kf2 f5 21. exf5 Nxf5 22. Rxe6 Rxe6 23. Rd3 h4 24. Ne3 Re5 25.
+Nxf5 1/2-1/2
+

@@ -1,0 +1,24 @@
+[Event "Dortmund"]
+[Site "Dortmund"]
+[Date "1976.05.01"]
+[Round "1"]
+[White "Sydor, Andrzej"]
+[Black "Ackermann, Hans Werner"]
+[Result "0-1"]
+[ECO "B28"]
+[Opening "Sicilian"]
+[Variation "O'Kelly variation"]
+[HashCode "5839c59a"]
+[Epoch "Rook"]
+[WhiteID "1100475"]
+[WhiteCountry "POL"]
+[BlackID "4605918"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nf3 a6 3. b4 cxb4 4. a3 e6 5. axb4 Bxb4 6. Bb2 Nf6 7. e5 Nd5 8. c4
+Ne7 9. Nc3 Nbc6 10. Ne4 Ng6 11. c5 h6 12. Bb5 Rb8 13. Bc4 O-O 14. O-O b6 15.
+cxb6 Rxb6 16. Qe2 a5 17. d4 Nce7 18. Bc1 Nf5 19. g4 d5 20. gxf5 dxe4 21. fxg6
+exf3 22. Qxf3 fxg6 23. Qd3 Rf5 24. Be3 Rb8 25. f3 Kh7 26. Ra2 Qe8 27. Qd1 Bb7
+28. Bd3 Bd5 29. Rg2 a4 30. Bxf5 gxf5 31. Bc1 a3 32. Kh1 Qh5 33. Rg3 a2 34. Bb2
+Be1 35. Rg2 Bh4 36. Qd3 Rb3 37. Bc3 a1=Q 38. Rxa1 Bxf3 39. Kg1 Bxg2 40. Kxg2
+Qg4+ 41. Kf1 Qf4+ 42. Kg2 Qf2+ 43. Kh1 Be7 44. h3 Bb4 45. Be1 Qb2 0-1

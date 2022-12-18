@@ -1,0 +1,21 @@
+[Event "Parnu"]
+[Site "Parnu"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Uusi"]
+[Black "Sokolov, Vladimir"]
+[Result "0-1"]
+[ECO "B10"]
+[Opening "Caro-Kann"]
+[Variation "closed (Breyer) variation"]
+[HashCode "6f1f0845"]
+[Epoch "Rook"]
+[BlackID "904031"]
+[BlackCountry "SRB"]
+
+1. e4 c6 2. d3 d5 3. Nd2 g6 4. Ngf3 Bg7 5. g3 e5 6. Bg2 Ne7 7. O-O O-O 8. Re1
+Nd7 9. b4 a5 10. bxa5 Rxa5 11. Bb2 d4 12. Nc4 Ra7 13. a4 Qc7 14. c3 b5 15. axb5
+cxb5 16. Rxa7 Qxa7 17. Nd6 dxc3 18. Bxc3 Qc5 19. Nxc8 Rxc8 20. Bb2 Nc6 21. Qb3
+Qb4 22. Qa2 Nc5 23. Rb1 Qa4 24. Qa3 b4 25. Qxa4 Nxa4 26. Ba1 Nc3 27. Rb3 Ne2+
+28. Kf1 Nc1 29. Rb1 Nxd3 30. Bh3 Rc7 31. Nd2 Na5 32. Ke2 Nc1+ 33. Ke3 b3 34.
+Bf1 h5 35. h4 Rc5 36. Bh3 Rc2 0-1

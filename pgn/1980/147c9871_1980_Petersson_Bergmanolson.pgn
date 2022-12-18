@@ -1,0 +1,18 @@
+[Event "corr SWE/K tt"]
+[Site "corr SWE/K tt"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Petersson, Allan"]
+[Black "Bergmanolson, Micha"]
+[Result "1-0"]
+[ECO "A65"]
+[Opening "Benoni"]
+[Variation "6.e4"]
+[HashCode "147c9871"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 c5 4. d5 exd5 5. cxd5 d6 6. e4 g6 7. Bf4 a6 8. a4
+Bg7 9. Nf3 O-O 10. Be2 Nh5 11. Be3 Nd7 12. O-O Re8 13. Nd2 Nhf6 14. h3 b6
+15. Bf4 Ne5 16. Bh2 Bb7 17. f4 Ned7 18. Re1 Qc7 19. Bc4 Rad8 20. Nf3 Nf8
+21. Qd3 Ra8 22. Rad1 Bc8 23. Rd2 Qb8 24. Rde2 Ra7 25. e5 1-0
+

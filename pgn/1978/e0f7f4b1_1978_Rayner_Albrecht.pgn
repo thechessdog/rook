@@ -1,0 +1,22 @@
+[Event "Lloyds Bank op"]
+[Site "Londen open"]
+[Date "1978.08.01"]
+[Round "1"]
+[White "Rayner, Emmanuel"]
+[Black "Albrecht, Rainer"]
+[Result "1-0"]
+[ECO "C06"]
+[Opening "French"]
+[Variation "Tarrasch, Leningrad variation"]
+[HashCode "e0f7f4b1"]
+[Epoch "Rook"]
+[WhiteID "1800230"]
+[WhiteCountry "WLS"]
+[BlackID "4604296"]
+[BlackCountry "GER"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Bd3 c5 6. c3 Nc6 7. Ne2 cxd4 8. cxd4
+Nb6 9. O-O Bd7 10. a3 a5 11. b3 a4 12. b4 Na7 13. Nc3 Be7 14. f4 g6 15. g4 Rc8
+16. Bb2 h5 17. f5 Bg5 18. fxg6 Be3+ 19. Kh1 hxg4 20. gxf7+ Kf8 21. Qxg4 Bxd2
+22. Rg1 Qg5 23. Qxg5 Bxg5 24. Rxg5 Nc4 25. Rag1 Nxb2 26. Rg8+ Ke7 27. R1g7 Rf8
+28. Bg6 Rh6 29. Rxf8 Rxg6 30. Rfg8 1-0

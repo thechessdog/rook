@@ -1,0 +1,26 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Wemyss"]
+[Black "Kewley"]
+[Result "0-1"]
+[ECO "B93"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.f4"]
+[HashCode "b7e7a51a"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 Qc7 7. Bd3 Nbd7
+8. a4 g6 9. Nf3 Bg7 10. O-O b6 11. Qe1 O-O 12. Be3 Bb7 13. Qh4 Rae8 14. f5
+e5 15. fxg6 fxg6 16. Ng5 h6 17. Nh3 Nh5 18. Qg4 Kh7 19. Nd5 Qd8 20. c4 Nc5
+21. Bc2 Bc8 22. Qe2 Bxh3 23. gxh3 Nf4 24. Nxf4 exf4 25. Bxf4 Bxb2 26. Rad1
+Be5 27. Qg4 Qe7 28. Bg3 h5 29. Qe2 Qg5 30. h4 Qe7 31. Rxf8 Rxf8 32. Rf1
+Rxf1+ 33. Kxf1 Qd7 34. Qf3 Kg7 35. Kg2 Nxa4 36. Qb3 Nc5 37. Qxb6 Qg4 38.
+Bd1 Qxe4+ 39. Bf3 Qc2+ 40. Kh3 Qxc4 41. Bxe5+ dxe5 42. Qc7+ Kh6 43. Qd8
+Qf1+ 44. Kg3 Ne4+ 45. Bxe4 Qf4+ 46. Kg2 Qxe4+ 47. Kf1 Qb1+ 48. Ke2 Qb4 49.
+Kf1 Qf4+ 50. Kg2 Kg7 51. Qe7+ Kg8 52. Qe8+ Qf8 53. Qxe5 Qd8 54. Qe4 Kh7 55.
+Qb7+ Kh6 56. Qxa6 Qxh4 57. Qd6 Qe4+ 58. Kg1 Qf5 59. Qd2+ Kg7 60. Qd4+ Qf6
+61. Qa7+ Kh6 62. Qe3+ g5 63. Qe8 h4 64. Qg8 Qb2 65. Kh1 Qb7+ 66. Kg1 Qe4
+67. Qh8+ Kg6 0-1
+

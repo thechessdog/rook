@@ -1,0 +1,19 @@
+[Event "Espergarde"]
+[Site "Espergarde"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Longfors, Jorgen"]
+[Black "Kallenberg, Ebbe"]
+[Result "0-1"]
+[ECO "D10"]
+[Opening "QGD Slav"]
+[Variation "Winawer counter-gambit"]
+[HashCode "697f02f5"]
+[Epoch "Rook"]
+[BlackID "1425684"]
+[BlackCountry "DEN"]
+
+1. d4 d5 2. c4 c6 3. Nc3 e5 4. e3 exd4 5. exd4 Nf6 6. Bd3 Be6 7. c5 b6 8. b4 a5
+9. Na4 Nbd7 10. bxa5 bxc5 11. dxc5 Qxa5+ 12. Bd2 Qxa4 13. Qxa4 Rxa4 14. Ne2
+Bxc5 15. Bc2 Ra7 16. O-O O-O 17. a4 Ne5 18. Bf4 Nc4 19. Rfb1 Bd6 20. Bxd6 Nxd6
+21. Rb6 Rc8 22. Nd4 Rb7 23. a5 Rxb6 24. axb6 Rb8 25. Rb1 Nd7 0-1

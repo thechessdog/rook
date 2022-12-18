@@ -1,0 +1,19 @@
+[Event "Scauri"]
+[Site "Scauri"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Caldieri"]
+[Black "Salietti"]
+[Result "0-1"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "modern variation"]
+[HashCode "420a75c2"]
+[Epoch "Rook"]
+
+1. b3 e5 2. Bb2 d6 3. c4 Nf6 4. e3 g6 5. Nc3 Bg7 6. Qc2 O-O 7. Nge2 Re8 8.
+g3 c6 9. Bg2 Na6 10. Rd1 Nc7 11. O-O Bf5 12. e4 Bg4 13. f3 Bd7 14. d4 exd4
+15. Rxd4 d5 16. cxd5 cxd5 17. Rfd1 Ne6 18. R4d2 Qb6+ 19. Kh1 dxe4 20. Rxd7
+exf3 21. Bxf3 Nxd7 22. Rxd7 Qf2 23. Bg2 Nd4 24. Qd3 Nxe2 25. Nxe2 Rxe2 26.
+Rd8+ Rxd8 27. Qxd8+ Bf8 0-1
+

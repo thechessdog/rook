@@ -1,0 +1,16 @@
+[Event "Gladsaxe"]
+[Site "Gladsaxe"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Erhard, Steen"]
+[Black "Meedom, Jesper"]
+[Result "1-0"]
+[ECO "A45"]
+[Opening "Trompovsky attack (Ruth, Opovcensky opening)"]
+[HashCode "c96a215e"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. Bg5 b6 3. Bxf6 gxf6 4. e4 Bb7 5. Nd2 d5 6. Qh5 dxe4 7. Bc4
+Qxd4 8. Bxf7+ Kd8 9. O-O-O Nd7 10. Be6 Qa4 11. Bxd7 Kxd7 12. Nb3+ Kc8 13.
+Qf5+ Kb8 14. Rd8+ 1-0
+

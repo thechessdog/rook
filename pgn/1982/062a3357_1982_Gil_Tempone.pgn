@@ -1,0 +1,19 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1982.01.01"]
+[Round "3"]
+[White "Gil, Javier"]
+[Black "Tempone, Marcelo"]
+[Result "0-1"]
+[ECO "A44"]
+[Opening "Semi-Benoni (`blockade variation')"]
+[HashCode "062a3357"]
+[Epoch "Rook"]
+[BlackID "100269"]
+[BlackCountry "ARG"]
+
+1. d4 c5 2. d5 e5 3. e4 d6 4. Nc3 a6 5. a4 Be7 6. Be2 Bg5 7. Bxg5 Qxg5 8. Nf3
+Qh6 9. Nd2 Nd7 10. Nc4 Ne7 11. O-O O-O 12. Qc1 g5 13. Bg4 Rd8 14. Ra3 Nf6 15.
+Bxc8 Raxc8 16. Rb3 Rc7 17. Qd1 Ng6 18. Rb6 Rcd7 19. Na5 Qh4 20. Nxb7 Nf4 21. f3
+Rb8 22. Rxd6 Rdxb7 23. Rxf6 g4 24. Rxa6 g3 25. h3 Rxb2 26. d6 R2b4 27. Nb5 Kh8
+28. d7 Rg8 29. Qd6 Ne2+ 30. Kh1 Qxh3+ 31. gxh3 g2+ 32. Kh2 gxf1=N+ 0-1

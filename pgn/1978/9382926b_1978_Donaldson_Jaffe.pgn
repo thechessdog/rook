@@ -1,0 +1,18 @@
+[Event "Ohio"]
+[Site "Ohio"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Donaldson, John"]
+[Black "Jaffe, E."]
+[Result "1-0"]
+[ECO "C77"]
+[Opening "Ruy Lopez"]
+[Variation "Morphy defence"]
+[HashCode "9382926b"]
+[Epoch "Rook"]
+[WhiteID "2000709"]
+[WhiteCountry "USA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. d4 exd4 6. O-O Be7 7. Re1 d6 8. e5
+Nd5 9. Nxd4 Bd7 10. e6 fxe6 11. Nxe6 Bxe6 12. Rxe6 Nb6 13. Bxc6+ bxc6 14. Bg5
+Nc8 15. Qh5+ Kf8 16. Qf3+ Kg8 17. Qxc6 Rb8 18. Nc3 Kf7 19. Qd5 c6 20. Rxe7+ 1-0

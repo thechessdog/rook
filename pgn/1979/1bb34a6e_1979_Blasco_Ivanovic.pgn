@@ -1,0 +1,17 @@
+[Event "Catanzaro"]
+[Site "Catanzaro"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Blasco"]
+[Black "Ivanovic, Bozidar"]
+[Result "0-1"]
+[ECO "C40"]
+[Opening "QP counter-gambit (elephant gambit)"]
+[HashCode "1bb34a6e"]
+[Epoch "Rook"]
+[BlackID "900095"]
+[BlackCountry "MNE"]
+
+1. e4 e5 2. Nf3 d5 3. Nxe5 dxe4 4. d4 Nd7 5. f4 Nh6 6. Bc4 Nb6 7. Bb3 Qh4+ 8.
+g3 Qh3 9. Qe2 f6 10. Nc4 Bg4 11. Qxe4+ Kd7 12. Nxb6+ axb6 13. Qxb7 Bb4+ 14. Nc3
+Rhe8+ 15. Kd2 Ra7 16. Qd5+ Kc8 17. Kd3 Bf5+ 18. Kc4 0-1

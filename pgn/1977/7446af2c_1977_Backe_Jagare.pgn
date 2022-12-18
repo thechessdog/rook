@@ -1,0 +1,18 @@
+[Event "Stockholm"]
+[Site "Stockholm"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Backe, Peter"]
+[Black "Jagare, D."]
+[Result "1-0"]
+[ECO "A86"]
+[Opening "Dutch"]
+[Variation "Hort-Antoshin system"]
+[HashCode "7446af2c"]
+[Epoch "Rook"]
+[WhiteID "1701240"]
+[WhiteCountry "SWE"]
+
+1. d4 f5 2. c4 Nf6 3. g3 d6 4. Bg2 c6 5. Nc3 Qc7 6. Qd3 e5 7. e4 fxe4 8. Nxe4
+Be7 9. Be3 Na6 10. a3 Bd7 11. Ne2 exd4 12. Bxd4 Nc5 13. Nxf6+ gxf6 14. Qe3 Rf8
+15. O-O Rf7 16. Nf4 O-O-O 17. b4 Na6 18. Ne6 1-0

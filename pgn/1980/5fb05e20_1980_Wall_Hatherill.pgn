@@ -1,0 +1,14 @@
+[Event "Dayton,OH"]
+[Site "Dayton,OH"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Wall, Bill"]
+[Black "Hatherill, Chuck"]
+[Result "1-0"]
+[ECO "A00"]
+[Opening "Grob's attack"]
+[HashCode "5fb05e20"]
+[Epoch "Rook"]
+[WhiteCountry "USA"]
+
+1. g4 d5 2. Bg2 Nc6 3. c4 d4 4. Qb3 e5 5. e3 Bb4 6. Bxc6+ bxc6 7. Qxb4 1-0

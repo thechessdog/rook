@@ -1,0 +1,18 @@
+[Event "corr FNPCC"]
+[Site "corr FNPCC"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Snyder, F."]
+[Black "Carlson, Curtis"]
+[Result "0-1"]
+[ECO "B92"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Opovcensky variation"]
+[HashCode "83ff16ca"]
+[Epoch "Rook"]
+[BlackID "2002868"]
+[BlackCountry "USA"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be6 8. O-O
+Nbd7 9. f4 Qc7 10. f5 Bc4 11. Nd2 Bxe2 12. Qxe2 Rc8 13. Nf3 Be7 14. Bg5 Qb6+
+15. Be3 Qxb2 16. Bd2 Rxc3 17. Bxc3 Qxc3 18. h3 0-1

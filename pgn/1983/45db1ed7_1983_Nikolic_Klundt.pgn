@@ -1,0 +1,24 @@
+[Event "Smederevo tt"]
+[Site "Smederevo tt"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Nikolic, Sava N"]
+[Black "Klundt, Klaus"]
+[Result "0-1"]
+[ECO "B31"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (with ...g6, without ...d6)"]
+[HashCode "45db1ed7"]
+[Epoch "Rook"]
+[WhiteID "901857"]
+[BlackID "4600436"]
+[WhiteCountry "SRB"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. c3 Nf6 6. Re1 O-O 7. d4 cxd4 8.
+cxd4 d5 9. e5 Ne4 10. Nc3 Nxc3 11. bxc3 Qa5 12. Qb3 Bg4 13. Be3 Rac8 14. Rec1
+Rfd8 15. Ne1 Qc7 16. h3 Na5 17. Qb2 Bd7 18. Bf1 Nc4 19. Bxc4 dxc4 20. f4 Bc6
+21. Qf2 Rd5 22. Nf3 f5 23. g4 Qd7 24. Qg3 Rf8 25. Nh4 Rb5 26. Rc2 Qd5 27. Kh2
+Qe4 28. Rd2 fxg4 29. hxg4 e6 30. Rf2 Rb1 31. Rxb1 Qxb1 32. Kh3 Qh1+ 33. Qh2 Qe4
+34. Qg3 b5 35. f5 exf5 36. gxf5 gxf5 37. Ng2 Kh8 38. Nf4 Qh1+ 39. Qh2 Qd1 40.
+Qg3 Rg8 41. Ne2 Bf8 42. Qf4 Bh6 0-1

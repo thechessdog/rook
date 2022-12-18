@@ -1,0 +1,21 @@
+[Event "Moscow"]
+[Site "Moscow"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Uskova, Fliura"]
+[Black "Golovei, Tamara"]
+[Result "1-0"]
+[ECO "B15"]
+[Opening "Caro-Kann"]
+[Variation "Gurgenidze system"]
+[HashCode "7ee495d4"]
+[Epoch "Rook"]
+
+1. e4 g6 2. d4 c6 3. Nc3 d5 4. g3 Bg7 5. Nge2 dxe4 6. Nxe4 Bg4 7. N4c3 Bf3
+8. Rg1 Nf6 9. Qd3 Bxe2 10. Bxe2 O-O 11. Bf4 Nbd7 12. O-O-O Qa5 13. g4 b5
+14. Kb1 b4 15. Ne4 Nd5 16. Bc1 Qb6 17. h4 a5 18. h5 a4 19. hxg6 fxg6 20.
+Rh1 Rfb8 21. Qh3 Nf8 22. Bc4 e6 23. Qd3 b3 24. cxb3 Nb4 25. Qf3 Nxa2 26.
+Nf6+ Bxf6 27. Qxf6 c5 28. dxc5 Qc6 29. Bh6 Qe4+ 30. Bd3 Qb7 31. Bxf8 Rxf8
+32. Qxe6+ Rf7 33. Bc4 axb3 34. Qxf7+ Qxf7 35. Bxf7+ Kxf7 36. Rxh7+ Kf6 37.
+f4 1-0
+

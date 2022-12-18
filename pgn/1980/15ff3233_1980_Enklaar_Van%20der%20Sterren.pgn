@@ -1,0 +1,27 @@
+[Event "IBM-C"]
+[Site "Amsterdam"]
+[Date "1980.??.??"]
+[Round "?"]
+[White "Enklaar, Bertus F"]
+[Black "Van der Sterren, Paul"]
+[Result "1/2-1/2"]
+[ECO "E15"]
+[Opening "Queen's Indian"]
+[Variation "Nimzovich variation (exaggerated fianchetto)"]
+[HashCode "15ff3233"]
+[Epoch "Rook"]
+[BlackID "1000071"]
+[BlackCountry "NED"]
+[WhiteCountry "NLD"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. b3 Bb4+ 6. Bd2 Be7 7. Bg2 O-O 8. O-O
+d5 9. Qc2 Nbd7 10. Ne5 Nxe5 11. dxe5 Ng4 12. Bc3 f6 13. exf6 Bxf6 14. Nd2 c6
+15. Nf3 Qe7 16. h3 Bxc3 17. Qxc3 Nf6 18. Qe5 Rad8 19. Nd4 Bc8 20. e3 Qd7 21.
+Rad1 Qd6 22. f4 Rfe8 23. g4 Bb7 24. Qg5 c5 25. Nf3 Qc7 26. Qe5 Qc8 27. Nh4 Nd7
+28. Qc3 dxc4 29. bxc4 Bxg2 30. Nxg2 Qc7 31. Nh4 Nf6 32. Nf3 Qc6 33. Qc2 Rxd1
+34. Qxd1 Qe4 35. Qe2 Rd8 36. Ng5 Qd3 37. Qf3 Qxc4 38. Qb7 Qd5 39. Qf7+ Kh8 40.
+Qxa7 Kg8 41. Qxb6 Re8 42. Qb3 c4 43. Qc2 h6 44. Nf3 Ra8 45. Ne5 c3 46. a4 Qd2
+47. Qxd2 cxd2 48. Rd1 Ne4 49. Kg2 Rxa4 50. Kf3 g5 51. Nd3 gxf4 52. exf4 Rc4 53.
+Ke3 Kg7 54. Nb2 Rb4 55. Nd3 Rc4 56. Rf1 Kf6 57. Ra1 Ra4 58. Rg1 d1=Q 59. Rxd1
+Nc3 60. Rf1 Nd5+ 61. Ke2 Re4+ 62. Kd2 Re3 63. Nf2 Kg7 64. f5 exf5 65. gxf5 Rf3
+66. Rg1+ Kf6 67. Ng4+ Kxf5 68. Nxh6+ Ke4 69. Rg4+ Nf4 70. Nf7 1/2-1/2

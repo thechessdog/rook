@@ -1,0 +1,19 @@
+[Event "Chester ch-BCF"]
+[Site "Chester ch-BCF"]
+[Date "1979.08.01"]
+[Round "1"]
+[White "Quigley, S."]
+[Black "Macaulay, S."]
+[Result "1-0"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack"]
+[HashCode "b8042fad"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 Nbd7 4. f3 c5 5. e4 Qb6 6. Bxf6 Nxf6 7. Bb5+ Bd7
+8. Bxd7+ Kxd7 9. dxc5 Qxb2 10. Nge2 e6 11. Rb1 Qa3 12. e5 Bxc5 13. exf6 Bb6
+14. fxg7 Rhg8 15. Nxd5 exd5 16. Qxd5+ Qd6 17. Qxf7+ Kc6 18. Rd1 Qe5 19.
+Qd7+ Kc5 20. f4 Qe4 21. Qd6+ Kb5 22. Qd3+ Qxd3 23. cxd3 Rxg7 24. g3 Re7 25.
+Kf1 Rc8 26. Rd2 Ba5 27. Rb2+ Ka4 28. Kf2 Rce8 29. Rc1 Ka3 30. Rcc2 Bb6+ 31.
+Kf1 Re3 32. Rb3+ Ka4 33. Rc4+ Ka5 34. Ra3+ Kb5 35. Nc3# 1-0
+

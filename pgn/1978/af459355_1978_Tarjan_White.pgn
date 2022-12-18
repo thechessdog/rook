@@ -1,0 +1,23 @@
+[Event "USA"]
+[Site "USA"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Tarjan, James"]
+[Black "White"]
+[Result "1-0"]
+[ECO "D89"]
+[Opening "Gruenfeld"]
+[Variation "exchange, Sokolsky variation"]
+[HashCode "af459355"]
+[Epoch "Rook"]
+[WhiteID "2000180"]
+[WhiteCountry "USA"]
+
+1. c4 g6 2. d4 Nf6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Bc4 O-O 8.
+Ne2 c5 9. O-O Nc6 10. Be3 cxd4 11. cxd4 Bg4 12. f3 Na5 13. Bd3 Be6 14. d5 Bxa1
+15. Qxa1 f6 16. Rb1 b6 17. Bh6 Re8 18. Nf4 Bd7 19. e5 Bf5 20. Bxf5 gxf5 21. Re1
+Nc4 22. Ne6 Qd7 23. exf6 exf6 24. Qxf6 Qf7 25. Qd4 Nd6 26. Bf4 Rad8 27. Nxd8
+Rxe1+ 28. Kf2 Qe7 29. Ne6 Nb5 30. Qb2 Rxe6 31. dxe6 Qh4+ 32. Ke3 Qe1+ 33. Kd3
+Qf1+ 34. Qe2 Qxe2+ 35. Kxe2 Nd4+ 36. Kd3 Nxe6 37. Bb8 a6 38. Kc4 b5+ 39. Kb4
+Nd4 40. Kc5 Nc2 41. Kb6 Nb4 42. a3 Nc2 43. Bd6 Ne3 44. Kxa6 Nxg2 45. Kxb5 Ne1
+46. a4 Nxf3 47. a5 Nd4+ 48. Kb6 Ne6 49. a6 1-0

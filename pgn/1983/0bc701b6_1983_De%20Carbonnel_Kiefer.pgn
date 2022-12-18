@@ -1,0 +1,23 @@
+[Event "Bundesliga 8283"]
+[Site "Duitsland tt"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "De Carbonnel, Heinz"]
+[Black "Kiefer, Gerhard"]
+[Result "1-0"]
+[ECO "E14"]
+[Opening "Queen's Indian"]
+[Variation "4.e3"]
+[HashCode "0bc701b6"]
+[Epoch "Rook"]
+[BlackID "4606965"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. e3 Bb7 5. Bd3 d5 6. O-O Bd6 7. b4 dxc4 8. Bxc4
+O-O 9. a3 Nbd7 10. Bb2 Qe7 11. Nc3 a5 12. bxa5 Rxa5 13. Nb5 Ng4 14. d5 Nxh2 15.
+Nxd6 Nxf3+ 16. Qxf3 Qxd6 17. Qg4 e5 18. f4 Rc5 19. Rac1 b5 20. Bb3 Rxc1 21.
+Rxc1 Re8 22. Qg3 Kh8 23. fxe5 Nxe5 24. Bd4 f6 25. e4 Rc8 26. Bd1 Nc4 27. Qxd6
+cxd6 28. Bg4 Ra8 29. Bd7 Nxa3 30. Rc7 Ba6 31. Bc6 Rc8 32. Ra7 Nc2 33. Bb2 Nb4
+34. Bd7 Rd8 35. Ba3 Nc2 36. Rxa6 b4 37. Bb2 h5 38. Be6 Ne1 39. Rb6 Nd3 40. Bd4
+Ra8 41. Rxd6 Rb8 42. Rb6 Rxb6 43. Bxb6 b3 44. Bd4 Kh7 45. Kf1 Kg6 46. d6 Nb4
+47. Bxb3 1-0

@@ -1,0 +1,19 @@
+[Event "corr SWE/K"]
+[Site "corr SWE/K"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Akesson, Ralf"]
+[Black "Goldkuhl, Thorsten"]
+[Result "0-1"]
+[ECO "B43"]
+[Opening "Sicilian"]
+[Variation "Kan, 5.Nc3"]
+[HashCode "b0878a56"]
+[Epoch "Rook"]
+[WhiteID "1700120"]
+[WhiteCountry "SWE"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 Qc7 6. g3 Nc6 7. Bg2 d6 8. O-O
+Bd7 9. Re1 Be7 10. Nxc6 bxc6 11. Na4 Rb8 12. c4 c5 13. Nc3 Bf6 14. f4 Bd4+ 15.
+Be3 Bxe3+ 16. Rxe3 Rxb2 17. Qg4 g6 18. Rd1 Ne7 19. Qh4 Bc6 20. Qf6 O-O 21. g4
+Nc8 22. Qh4 Qd8 23. Qg3 Nb6 24. Bf1 Na4 25. Ne2 Rc2 26. e5 d5 27. g5 Nb2 0-1

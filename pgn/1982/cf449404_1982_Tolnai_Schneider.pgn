@@ -1,0 +1,20 @@
+[Event "Budapest"]
+[Site "Budapest"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Tolnai, Tibor"]
+[Black "Schneider, Attila"]
+[Result "0-1"]
+[ECO "E12"]
+[Opening "Queen's Indian"]
+[Variation "Petrosian system"]
+[HashCode "cf449404"]
+[Epoch "Rook"]
+[WhiteID "700126"]
+[WhiteCountry "HUN"]
+[BlackCountry "HUN"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. a3 Bb7 5. Nc3 d5 6. cxd5 exd5 7. g3 g6 8. Bg2
+Bg7 9. O-O O-O 10. Bf4 c5 11. Rc1 Nbd7 12. Ne5 cxd4 13. Nxd7 dxc3 14. Nxf8 cxb2
+15. Rc7 Ba6 16. Nxh7 Kxh7 17. Rxf7 Qe8 18. Rc7 Bxe2 19. Qd4 Nd7 20. Qxd5 Bxf1
+21. Be4 Bh3 0-1

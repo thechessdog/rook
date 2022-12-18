@@ -1,0 +1,17 @@
+[Event "Dayton,OH"]
+[Site "Dayton,OH"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Hayes"]
+[Black "Wall, Bill"]
+[Result "0-1"]
+[ECO "C67"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence, open variation"]
+[HashCode "6d53d9c8"]
+[Epoch "Rook"]
+[BlackCountry "USA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. Re1 Nd6 6. Bxc6 bxc6 7. Nxe5 Be7
+8. d4 O-O 9. c4 f6 10. c5 fxe5 11. cxd6 cxd6 12. dxe5 dxe5 13. Rxe5 Qb6 14.
+Rxe7 Qxf2+ 0-1

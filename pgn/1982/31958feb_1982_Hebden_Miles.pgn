@@ -1,0 +1,21 @@
+[Event "England"]
+[Site "England"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Hebden, Mark L"]
+[Black "Miles, Anthony J"]
+[Result "1-0"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...g6"]
+[HashCode "31958feb"]
+[Epoch "Rook"]
+[BlackCountry "ENG"]
+[WhiteID "400084"]
+[WhiteCountry "ENG"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 g6 6. Qb3 Bg7 7. cxd5 O-O 8.
+Be2 Nbd7 9. Bf3 Nb6 10. Bg5 h6 11. Bxf6 Bxf6 12. Nge2 Bf5 13. Rd1 Qc8 14. O-O
+Bg4 15. Ne4 Bg7 16. Rc1 Qf5 17. N2g3 Qf4 18. Bxg4 Qxg4 19. Rc7 Bxd4 20. Rxe7
+Rad8 21. d6 Qc8 22. Rc7 Qb8 23. Rfc1 Rd7 24. h4 h5 25. a4 Qd8 26. a5 Na8 27.
+Rc8 Qxc8 28. Rxc8 Rxc8 29. Qa4 1-0

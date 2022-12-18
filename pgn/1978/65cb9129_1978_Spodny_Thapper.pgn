@@ -1,0 +1,17 @@
+[Event "corr Tch-EU"]
+[Site "corr Tch-EU"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Spodny"]
+[Black "Thapper"]
+[Result "1-0"]
+[ECO "E00"]
+[Opening "Queen's pawn game"]
+[HashCode "65cb9129"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 c5 4. Nf3 cxd4 5. Nxd4 Bb4 6. g3 Ne4 7. Qd3 Qa5
+8. Nc2 Bxc3+ 9. bxc3 Nc5 10. Qd4 O-O 11. Ba3 d6 12. Bg2 Nba6 13. O-O Rd8
+14. Bb4 Qa4 15. Bxc5 Nxc5 16. Nb4 Rb8 17. Rfd1 Qe8 18. Rd2 a5 19. Nd3 b6
+20. Rad1 Bd7 21. Nxc5 bxc5 22. Qxd6 1-0
+

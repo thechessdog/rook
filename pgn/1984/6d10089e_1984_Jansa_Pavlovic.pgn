@@ -1,0 +1,23 @@
+[Event "Bor"]
+[Site "Bor"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Jansa, Vlastimil"]
+[Black "Pavlovic, Dean"]
+[Result "1-0"]
+[ECO "C95"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Breyer, Borisenko variation"]
+[HashCode "6d10089e"]
+[Epoch "Rook"]
+[WhiteID "300128"]
+[WhiteCountry "CZE"]
+[BlackID "918512"]
+[BlackCountry "SRB"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. h3 Nb8 10. d4 Nbd7 11. Nbd2 Bb7 12. Bc2 Re8 13. Nf1 Bf8 14. Ng3 h6 15.
+a4 c5 16. d5 g6 17. Be3 c4 18. Qd2 Kh7 19. Nh2 Bg7 20. Rf1 Qe7 21. h4 Nf8 22.
+Rae1 Reb8 23. f4 exf4 24. Rxf4 N8d7 25. Ref1 Ne5 26. h5 Rf8 27. Bd4 Nfd7 28.
+Ng4 Nxg4 29. Rxg4 Ne5 30. Bxe5 Bxe5 31. Rxf7+ Qxf7 32. hxg6+ Qxg6 33. Rxg6 Kxg6
+34. Nf5 Rh8 35. Qf2 1-0

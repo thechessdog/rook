@@ -1,0 +1,17 @@
+[Event "corr ICCF Cup4"]
+[Site "corr ICCF Cup4"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Rimpan"]
+[Black "Pasciuto"]
+[Result "0-1"]
+[ECO "C17"]
+[Opening "French"]
+[Variation "Winawer, advance, Bogolyubov variation"]
+[HashCode "aaf9475b"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. Bd2 Ne7 6. Nb5 Bxd2+ 7. Qxd2 O-O
+8. c3 Nbc6 9. Bd3 Bd7 10. Nf3 c4 11. Bc2 Nxe5 12. Nxe5 Bxb5 13. h4 f6 14.
+Nf3 Qd6 15. g4 e5 16. dxe5 fxe5 17. Ng5 h6 18. Nh3 d4 19. Be4 Bc6 0-1
+

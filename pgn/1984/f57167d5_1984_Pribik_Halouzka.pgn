@@ -1,0 +1,17 @@
+[Event "corr ch-CSSR"]
+[Site "corr ch-CSSR"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Pribik"]
+[Black "Halouzka"]
+[Result "1/2-1/2"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "f57167d5"]
+[Epoch "Rook"]
+
+1. e4 c5 2. c3 e6 3. d4 a6 4. Nf3 d5 5. exd5 exd5 6. Be2 Nf6 7. O-O c4 8.
+b3 cxb3 9. axb3 Be7 10. c4 O-O 11. Nc3 Nc6 12. Ne5 dxc4 13. Nxc6 bxc6 14.
+bxc4 Bb4 15. Bb2 a5 16. Bf3 Ra6 17. Qd3 Ng4 18. Rad1 c5 19. h3 Nh6 1/2-1/2
+

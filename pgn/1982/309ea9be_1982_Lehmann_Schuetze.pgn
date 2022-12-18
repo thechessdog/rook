@@ -1,0 +1,19 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Lehmann, W."]
+[Black "Schuetze, M."]
+[Result "1-0"]
+[ECO "E24"]
+[Opening "Nimzo-Indian"]
+[Variation "Saemisch variation"]
+[HashCode "309ea9be"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. a3 Bxc3+ 5. bxc3 c5 6. f3 d6 7. e4 e5 8.
+Bd3 O-O 9. Ne2 Ne8 10. O-O Nc6 11. Be3 b6 12. d5 Na5 13. Ng3 Qd7 14. a4 Ba6
+15. Qe2 g6 16. f4 f6 17. h4 Ng7 18. f5 gxf5 19. exf5 Rf7 20. Ne4 Kh8 21. g4
+Rg8 22. Kh2 Bc8 23. Bh6 Nb7 24. Rf3 Ne8 25. Rg3 Nd8 26. Qg2 Ng7 27. Rg1 Nb7
+28. Bxg7+ Rgxg7 29. g5 fxg5 30. f6 Rg8 31. Nxg5 Rxf6 32. Nf7+ 1-0
+

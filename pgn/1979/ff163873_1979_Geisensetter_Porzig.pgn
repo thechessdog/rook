@@ -1,0 +1,19 @@
+[Event "corr DDR-H"]
+[Site "corr DDR-H"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Geisensetter, K."]
+[Black "Porzig, H."]
+[Result "0-1"]
+[ECO "E38"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, 4...c5"]
+[HashCode "ff163873"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 c5 5. dxc5 Nc6 6. Nf3 Bxc5 7. a3 d5 8.
+cxd5 exd5 9. e3 Be6 10. b4 Be7 11. Bd3 d4 12. Nxd4 Nxd4 13. exd4 O-O 14.
+O-O Rc8 15. Bb2 Bd6 16. g3 a5 17. bxa5 Qxa5 18. Qa4 Qh5 19. Ne4 Nxe4 20.
+Bxe4 Qe2 21. d5 Rc4 22. Qb3 Qxe4 23. dxe6 Bc5 24. Rae1 Bxf2+ 25. Rxf2 Qxe1+
+26. Rf1 Qe4 27. exf7+ Rxf7 28. Rxf7 Kxf7 29. Qd1 Qf5 30. Qb3 Qb1+ 0-1
+

@@ -1,0 +1,15 @@
+[Event "Dayton,OH"]
+[Site "Dayton,OH"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Heckman"]
+[Black "Rhodes"]
+[Result "0-1"]
+[ECO "C30"]
+[Opening "King's gambit"]
+[HashCode "0837f129"]
+[Epoch "Rook"]
+
+1. e4 e5 2. f4 Nc6 3. Nf3 Bc5 4. c3 Bb6 5. Nxe5 Nxe5 6. fxe5 Qh4+ 7. g3
+Qxe4+ 8. Qe2 Qxh1 0-1
+

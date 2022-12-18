@@ -1,0 +1,19 @@
+[Event "Biel"]
+[Site "Biel"]
+[Date "1984.07.01"]
+[Round "1"]
+[White "Zueger, Beat"]
+[Black "Gobet, Fernand"]
+[Result "1/2-1/2"]
+[ECO "E08"]
+[Opening "Catalan"]
+[Variation "closed, Qc2 & b3"]
+[HashCode "46ee6156"]
+[Epoch "Rook"]
+[WhiteID "1300067"]
+[WhiteCountry "SUI"]
+[BlackID "1300083"]
+[BlackCountry "SUI"]
+
+1. c4 Nf6 2. Nf3 e6 3. g3 d5 4. Bg2 Be7 5. O-O O-O 6. d4 Nbd7 7. Qc2 c6 8. b3
+b6 9. Nc3 Bb7 10. Bb2 Rc8 1/2-1/2

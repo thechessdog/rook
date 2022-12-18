@@ -1,0 +1,21 @@
+[Event "Fort Worth"]
+[Site "Fort Worth"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Watson, John"]
+[Black "Browne, Walter S"]
+[Result "0-1"]
+[ECO "E32"]
+[Opening "Nimzo-Indian"]
+[Variation "classical variation"]
+[HashCode "9d6ba98f"]
+[Epoch "Rook"]
+[WhiteID "2000768"]
+[WhiteCountry "USA"]
+[BlackCountry "USA"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 O-O 5. Bg5 c5 6. d5 h6 7. Bh4 exd5 8. cxd5
+Re8 9. e3 d6 10. Nf3 Nbd7 11. Bc4 Qa5 12. O-O Bxc3 13. bxc3 b5 14. Bd3 c4 15.
+Bf5 Nxd5 16. Be4 Bb7 17. Nd4 Nc5 18. Bf3 Nxc3 19. Nc6 Bxc6 20. Bxc6 b4 21. Bxa8
+Rxa8 22. Qf5 Qb6 23. Qg4 d5 24. Kh1 Nd3 25. f4 b3 26. axb3 cxb3 27. Ra3 Rb8 28.
+h3 Qd6 29. Kh2 h5 30. Qg3 Ne4 0-1

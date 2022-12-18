@@ -1,0 +1,20 @@
+[Event "corr Sweden"]
+[Site "corr Sweden"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Persson"]
+[Black "Johnsson"]
+[Result "0-1"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, poisoned pawn, Konstantinopolsky variation"]
+[HashCode "6f4acb8d"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Qg4 Qc7 8.
+Qxg7 Rg8 9. Qxh7 cxd4 10. Ne2 dxc3 11. f4 Nbc6 12. Qd3 Nf5 13. g4 Rxg4 14.
+Bh3 Rg8 15. Bxf5 exf5 16. Nxc3 d4 17. Nb5 Qe7 18. h4 f6 19. Nd6+ Kd8 20.
+Nxf5 Bxf5 21. Qxf5 fxe5 22. fxe5 Nxe5 23. Bg5 Rxg5 24. hxg5 Ng4+ 25. Kd1
+Ne3+ 26. Kc1 Nxf5 27. Rh8+ Kc7 28. Rxa8 Qe1+ 29. Kb2 Qc3+ 30. Kb1 Ne3 31.
+Ra2 Nc4 32. Re8 Qd2 33. Rb2 Nxb2 0-1
+

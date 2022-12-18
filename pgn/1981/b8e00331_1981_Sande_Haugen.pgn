@@ -1,0 +1,21 @@
+[Event "Randaberg"]
+[Site "Randaberg"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Sande, Oystein"]
+[Black "Haugen, Arild"]
+[Result "0-1"]
+[ECO "C07"]
+[Opening "French"]
+[Variation "Tarrasch, open variation"]
+[HashCode "b8e00331"]
+[Epoch "Rook"]
+[BlackID "1505076"]
+[BlackCountry "NOR"]
+[WhiteID "1500325"]
+[WhiteCountry "NOR"]
+
+1. d4 e6 2. e4 d5 3. Nd2 c5 4. c3 Nc6 5. Ngf3 Nf6 6. e5 Nd7 7. Bd3 Qb6 8. Ng5
+cxd4 9. Nxf7 Kxf7 10. Qh5+ g6 11. Bxg6+ hxg6 12. Qxh8 Bg7 13. Qh3 Ndxe5 14. f4
+dxc3 15. fxe5 cxd2+ 16. Bxd2 Nxe5 17. Rf1+ Kg8 18. Rc1 Bd7 19. Rc3 Qxb2 20. Rc7
+Qb1+ 21. Bc1 Qe4+ 22. Kd2 Nc4+ 0-1

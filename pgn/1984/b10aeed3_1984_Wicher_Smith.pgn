@@ -1,0 +1,19 @@
+[Event "corr ch-USA"]
+[Site "corr ch-USA"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Wicher"]
+[Black "Smith, Andrew Philip"]
+[Result "0-1"]
+[ECO "B13"]
+[Opening "Caro-Kann"]
+[Variation "exchange variation"]
+[HashCode "b10aeed3"]
+[Epoch "Rook"]
+[BlackID "2500833"]
+[BlackCountry "IRL"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. Bd3 g6 5. c3 Bg7 6. Qb3 Nc6 7. Nf3 Nh6 8. Bf4
+O-O 9. Nbd2 Kh8 10. O-O-O f6 11. Rhe1 Nf7 12. h4 e5 13. dxe5 fxe5 14. Bg5 Qa5
+15. Bb5 a6 16. Bxc6 bxc6 17. Rh1 Bg4 18. Be7 Rfe8 19. Bb4 Qb6 20. Rdf1 e4 21.
+Nd4 a5 0-1

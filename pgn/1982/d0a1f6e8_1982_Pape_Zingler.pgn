@@ -1,0 +1,15 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Pape"]
+[Black "Zingler"]
+[Result "0-1"]
+[ECO "D00"]
+[Opening "Blackmar-Diemer gambit"]
+[HashCode "d0a1f6e8"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. Nc3 d5 3. e4 Nxe4 4. Nxe4 dxe4 5. Bc4 Nc6 6. c3 e5 7. d5 Ne7
+8. Qa4+ Bd7 9. Qb3 Nf5 10. Qxb7 Bc5 11. b4 Bb6 12. Qa6 e3 0-1
+

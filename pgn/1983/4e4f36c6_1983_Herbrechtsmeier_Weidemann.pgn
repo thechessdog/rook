@@ -1,0 +1,21 @@
+[Event "Bundesliga 8283"]
+[Site "Duitsland tt"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Herbrechtsmeier, Christof"]
+[Black "Weidemann, Joerg"]
+[Result "0-1"]
+[ECO "B16"]
+[Opening "Caro-Kann"]
+[Variation "Bronstein-Larsen variation"]
+[HashCode "4e4f36c6"]
+[Epoch "Rook"]
+[WhiteID "4603737"]
+[WhiteCountry "GER"]
+[BlackID "4603389"]
+[BlackCountry "GER"]
+
+1. d4 d5 2. Nc3 c6 3. e4 dxe4 4. Nxe4 Nf6 5. Nxf6+ gxf6 6. Ne2 h5 7. h4 Bg4 8.
+Qd3 e6 9. Bf4 Qb6 10. Qb3 Bxe2 11. Qxb6 axb6 12. Bxe2 b5 13. Rh3 Nd7 14. Rb3
+Ra4 15. Be3 Nb6 16. Rxb5 cxb5 17. Bxb5+ Kd8 18. d5 Re4 19. O-O-O Kc7 20. dxe6
+fxe6 21. a4 Nd5 22. Bd2 Bc5 23. f3 Rxh4 24. c4 Ne3 25. Ba5+ Kb8 0-1

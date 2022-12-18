@@ -1,0 +1,17 @@
+[Event "corr FSM/BRD"]
+[Site "corr FSM/BRD"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Frey, W."]
+[Black "Habermann, A."]
+[Result "0-1"]
+[ECO "B13"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik, Gunderam attack"]
+[HashCode "83d70cde"]
+[Epoch "Rook"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. c5 b6 6. b4 a5 7. b5 bxc5 8.
+dxc5 e6 9. c6 Ne4 10. Be3 Bb4+ 11. Nd2 d4 12. Bf4 g5 13. Qf3 Qd5 14. Bc4
+Qxc4 15. Qxe4 gxf4 16. c7 Bxd2+ 0-1
+

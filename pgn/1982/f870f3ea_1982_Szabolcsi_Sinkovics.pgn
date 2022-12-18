@@ -1,0 +1,23 @@
+[Event "Budapest ch-HUN"]
+[Site "Budapest ch-HUN"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Szabolcsi, Janos"]
+[Black "Sinkovics, Peter"]
+[Result "1-0"]
+[ECO "E76"]
+[Opening "King's Indian"]
+[Variation "Four pawns attack, dynamic line"]
+[HashCode "f870f3ea"]
+[Epoch "Rook"]
+[WhiteID "701270"]
+[WhiteCountry "HUN"]
+[BlackID "700428"]
+[BlackCountry "HUN"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f4 O-O 6. Nf3 c5 7. d5 b5 8. e5 dxe5
+9. fxe5 Ng4 10. Bf4 Nd7 11. cxb5 Ndxe5 12. h3 Nxf3+ 13. Qxf3 Nf6 14. Be2 Bb7
+15. Rd1 e6 16. Bc4 Nxd5 17. Nxd5 exd5 18. O-O dxc4 19. Qxb7 Bd4+ 20. Kh1 Qb6
+21. Qd5 Qe6 22. Qb7 Rfe8 23. Bg3 f5 24. Rd2 Qe4 25. Qa6 Qd5 26. Bf2 Re6 27. Qa5
+Re4 28. Rfd1 Rae8 29. Qxa7 R8e7 30. Qa5 f4 31. b6 Qc6 32. Bxd4 Re1+ 33. Bg1
+R1e2 34. Rxe2 Rxe2 35. Rd8+ Kg7 36. Qc3+ Kh6 37. Qf3 1-0

@@ -1,0 +1,15 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Felicio"]
+[Black "Neves"]
+[Result "1-0"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack"]
+[HashCode "4231f9da"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 Nc6 4. e3 e6 5. Nf3 Bb4 6. Bd3 Bxc3+ 7. bxc3 O-O
+8. O-O Bd7 9. Ne5 Nxe5 10. dxe5 h6 11. exf6 hxg5 12. Qh5 1-0
+

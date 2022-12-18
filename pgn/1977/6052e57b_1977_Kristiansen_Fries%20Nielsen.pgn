@@ -1,0 +1,22 @@
+[Event "Esbjerg"]
+[Site "Esbjerg"]
+[Date "1977.??.??"]
+[Round "5"]
+[White "Kristiansen, Jens"]
+[Black "Fries-Nielsen, Jens Ove"]
+[Result "1-0"]
+[ECO "B43"]
+[Opening "Sicilian"]
+[Variation "Kan, 5.Nc3"]
+[HashCode "6052e57b"]
+[Epoch "Rook"]
+[WhiteID "1400061"]
+[WhiteCountry "DEN"]
+[BlackCountry "DEN"]
+
+1. e4 c5 2. Nf3 e6 3. Nc3 a6 4. d4 cxd4 5. Nxd4 g6 6. Be3 d6 7. Be2 Nf6 8. Qd2
+b5 9. Bf3 e5 10. Nf5 Bb7 11. Nh6 Nbd7 12. a4 Nb6 13. Bg5 Be7 14. axb5 axb5 15.
+Rxa8 Bxa8 16. Qd3 b4 17. Qb5+ Nfd7 18. Bxe7 Qxe7 19. Qxb4 d5 20. Qxe7+ Kxe7 21.
+Nxd5+ Nxd5 22. exd5 f5 23. g4 e4 24. Be2 f4 25. d6+ Kf6 26. g5+ Kg7 27. O-O Rb8
+28. Ra1 f3 29. Bc4 Bc6 30. Ra6 Rc8 31. Ra7 Kf8 32. b4 Ke8 33. b5 Ra8 34. Rc7
+Ra1+ 35. Bf1 Bxb5 36. Rc8# 1-0

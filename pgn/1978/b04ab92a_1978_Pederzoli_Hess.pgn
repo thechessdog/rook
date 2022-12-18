@@ -1,0 +1,18 @@
+[Event "Reggio Emilia7879"]
+[Site "Reggio Emilia"]
+[Date "1978.12.01"]
+[Round "1"]
+[White "Pederzoli, Sergio"]
+[Black "Hess, Ralf E."]
+[Result "0-1"]
+[ECO "E41"]
+[Opening "Nimzo-Indian"]
+[Variation "e3, Huebner variation"]
+[HashCode "b04ab92a"]
+[Epoch "Rook"]
+[BlackID "4601890"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 Nc6 6. Nf3 Bxc3+ 7. bxc3 d6 8.
+Qc2 e5 9. h3 O-O 10. O-O Re8 11. Ng5 h6 12. Ne4 exd4 13. exd4 cxd4 14. Re1 Be6
+15. Bf4 Nxe4 16. Bxe4 Qf6 17. Bxc6 bxc6 18. Bxd6 Bf5 0-1

@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Boll, P."]
+[Black "Scheltens"]
+[Result "1-0"]
+[ECO "C80"]
+[Opening "Ruy Lopez"]
+[Variation "open, Riga variation"]
+[HashCode "d9bf48b9"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 exd4 7. Re1 f5
+8. Nxd4 Bc5 9. Rxe4+ fxe4 10. Qh5+ g6 11. Qxc5 Qf6 12. Be3 b6 13. Qd5 h6
+14. Nxc6 1-0
+

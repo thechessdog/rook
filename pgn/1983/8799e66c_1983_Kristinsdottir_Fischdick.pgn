@@ -1,0 +1,18 @@
+[Event "Nordic-tt"]
+[Site "Oslo"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Kristinsdottir, A."]
+[Black "Fischdick, Gisela"]
+[Result "0-1"]
+[ECO "E38"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, 4...c5"]
+[HashCode "8799e66c"]
+[Epoch "Rook"]
+[BlackID "4603966"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 c5 5. e3 O-O 6. Bd3 d5 7. cxd5 exd5 8.
+dxc5 Nc6 9. a3 d4 10. Bc4 Qa5 11. Rb1 dxc3 12. axb4 Nxb4 13. Qxc3 Ne4 14. Qb3
+Nd3+ 15. Ke2 Nxc1+ 16. Rxc1 Qd2+ 17. Kf3 Ng5+ 18. Kf4 Ne6+ 0-1

@@ -1,0 +1,20 @@
+[Event "IBM-B"]
+[Site "Amsterdam II"]
+[Date "1980.06.01"]
+[Round "1"]
+[White "Ree, Hans"]
+[Black "Van Wijgerden, Cornelis"]
+[Result "1/2-1/2"]
+[ECO "E08"]
+[Opening "Catalan"]
+[Variation "closed, Qc2 & b3"]
+[HashCode "c13ed82e"]
+[Epoch "Rook"]
+[WhiteID "1000098"]
+[WhiteCountry "NED"]
+[BlackID "1000144"]
+[BlackCountry "NED"]
+
+1. c4 e6 2. Nf3 d5 3. d4 Nf6 4. g3 Be7 5. Bg2 O-O 6. O-O c6 7. Qc2 Nbd7 8. b3
+b5 9. c5 Ne4 10. Nbd2 f5 11. Bb2 Bf6 12. b4 a5 13. a3 a4 14. Ne1 Nxd2 15. Qxd2
+e5 16. f4 e4 1/2-1/2

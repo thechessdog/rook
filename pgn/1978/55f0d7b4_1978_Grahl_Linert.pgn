@@ -1,0 +1,19 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Grahl"]
+[Black "Linert"]
+[Result "1-0"]
+[ECO "D93"]
+[Opening "Gruenfeld with Bf4    e3"]
+[HashCode "55f0d7b4"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Bf4 Bg7 5. e3 O-O 6. Nf3 c5 7. dxc5 Qa5 8.
+Rc1 Rd8 9. Qb3 Qxc5 10. Rd1 e6 11. cxd5 exd5 12. Be2 Nc6 13. O-O b6 14. Nb5
+Na5 15. Qa4 Bf8 16. Rc1 Qe7 17. b4 Nb7 18. Nc7 Bd7 19. Qa6 Nd6 20. Nxa8
+Rxa8 21. Rc7 Bb5 22. Rxe7 Bxa6 23. Bxa6 Bxe7 24. Rc1 Nfe8 25. Nd4 Bf8 26.
+Rc6 Rd8 27. Kf1 Ne4 28. f3 Nd2+ 29. Ke2 Bxb4 30. Rc2 Rd7 31. Bb5 Re7 32.
+Nc6 1-0
+

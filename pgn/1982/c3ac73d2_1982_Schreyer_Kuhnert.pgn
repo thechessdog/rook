@@ -1,0 +1,20 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Schreyer"]
+[Black "Kuhnert"]
+[Result "0-1"]
+[ECO "B19"]
+[Opening "Caro-Kann"]
+[Variation "classical, Spassky variation"]
+[HashCode "c3ac73d2"]
+[Epoch "Rook"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6 7. Nf3 Nd7 8.
+h5 Bh7 9. Bd3 Bxd3 10. Qxd3 Qc7 11. Bd2 Ngf6 12. Qe2 e6 13. O-O-O Bd6 14.
+Nf5 Bf4 15. Nxg7+ Kf8 16. Nxe6+ fxe6 17. Qxe6 Re8 18. Qf5 Bxd2+ 19. Rxd2
+Qd6 20. Rdd1 Qe6 21. Qa5 a6 22. Rhe1 Qg4 23. Qb4+ Kf7 24. Qxb7 Qf4+ 25. Kb1
+Rxe1 26. Rxe1 Rb8 27. Qxc6 Rb6 28. Qc4+ Kf8 29. Ne5 Nxe5 30. Qc8+ Kf7 31.
+dxe5 Re6 32. Qc7+ Kf8 33. Re3 Qxf2 34. Rf3 Qe1# 0-1
+

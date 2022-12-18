@@ -1,0 +1,24 @@
+[Event "Belgrade"]
+[Site "Belgrade"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Sznapik, Aleksander"]
+[Black "Mirkovic, Slobodan"]
+[Result "0-1"]
+[ECO "B93"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.f4"]
+[HashCode "2a1c9075"]
+[Epoch "Rook"]
+[WhiteID "1100050"]
+[WhiteCountry "POL"]
+[BlackID "901202"]
+[BlackCountry "SRB"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 e5 7. Nf3 Nbd7 8. a4
+Be7 9. Bd3 O-O 10. O-O exf4 11. Kh1 Ne5 12. Bxf4 Qc7 13. Nd4 Be6 14. Bg5 Rad8
+15. Nf5 Bxf5 16. Rxf5 Neg4 17. h3 h6 18. Bd2 Ne5 19. Rxf6 Bxf6 20. Nd5 Qd7 21.
+Nxf6+ gxf6 22. Bxh6 Rfe8 23. Qh5 Qe6 24. Rf1 Ng6 25. Rf5 d5 26. exd5 Qe1+ 27.
+Rf1 Qg3 28. Qf5 Qh4 29. Bf4 Nxf4 30. Rxf4 Qh6 31. Rg4+ Kf8 32. Qf3 Re3 33. Qf2
+Rxh3+ 34. gxh3 Qxh3+ 35. Qh2 Qxg4 36. Qh6+ Ke7 37. Bf1 Rxd5 38. Qe3+ Re5 39.
+Qa3+ 0-1

@@ -1,0 +1,20 @@
+[Event "Moscow"]
+[Site "Moscow"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Imanaliev, Taalaibek"]
+[Black "Geldimamedov, Hodja"]
+[Result "1-0"]
+[ECO "C80"]
+[Opening "Ruy Lopez"]
+[Variation "open, 8...Be6"]
+[HashCode "9b11358e"]
+[Epoch "Rook"]
+[BlackID "14000270"]
+[BlackCountry "TKM"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Nxe4 7. d4 d5 8. dxe5
+Be6 9. Be3 Be7 10. c3 O-O 11. Nbd2 Bg4 12. Nxe4 dxe4 13. Qd5 exf3 14. Qxc6 fxg2
+15. Qxg2 Qd7 16. Bh6 Qf5 17. f3 gxh6 18. fxg4 Qxe5 19. Rae1 Qc5+ 20. Kh1 Rad8
+21. Rf5 Qd6 22. Ref1 Kh8 23. Qe4 f6 24. Rd5 f5 25. Rfxf5 Rxf5 26. Rxd6 Rf1+ 27.
+Kg2 Rdf8 28. Rd2 1-0

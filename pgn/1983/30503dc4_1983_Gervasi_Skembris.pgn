@@ -1,0 +1,23 @@
+[Event "Banco di Roma"]
+[Site "Banco di Roma"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Gervasi, Giancarlo"]
+[Black "Skembris, Spyridon"]
+[Result "0-1"]
+[ECO "A27"]
+[Opening "English"]
+[Variation "three knights system"]
+[HashCode "30503dc4"]
+[Epoch "Rook"]
+[BlackID "4200020"]
+[BlackCountry "GRE"]
+[WhiteID "800210"]
+[WhiteCountry "ITA"]
+
+1. c4 e5 2. Nc3 Nc6 3. Nf3 f5 4. d4 e4 5. Ng1 Nf6 6. e3 Be7 7. Nh3 O-O 8. Be2
+Kh8 9. Nf4 Bd6 10. d5 Ne5 11. h4 a6 12. a3 Qe8 13. h5 Neg4 14. g3 Be5 15. Bd2
+d6 16. b4 Bxf4 17. gxf4 Nxh5 18. Nxe4 Qxe4 19. Rxh5 Qg2 20. Bxg4 fxg4 21. Qe2
+Bf5 22. Bc3 Rae8 23. Rg5 Re7 24. O-O-O h6 25. Rh5 Qe4 26. Kb2 Kg8 27. Qd2 Qxc4
+28. Qd4 Qe2+ 29. Qd2 Qf3 30. Rh4 g3 31. fxg3 Rxe3 32. Re1 Rfe8 33. Rxe3 Rxe3
+34. Rh2 Rd3 35. Qe1 Re3 36. Qd2 Qf1 37. Kb3 Qb1+ 38. Ka4 Bd7+ 39. Ka5 0-1

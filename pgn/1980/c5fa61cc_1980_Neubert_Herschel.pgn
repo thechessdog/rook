@@ -1,0 +1,21 @@
+[Event "corr ch10-DDR"]
+[Site "corr ch10-DDR"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Neubert, G."]
+[Black "Herschel, K."]
+[Result "0-1"]
+[ECO "B72"]
+[Opening "Sicilian"]
+[Variation "dragon, 6.Be3"]
+[HashCode "c5fa61cc"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. Bc4 O-O
+8. f3 Nc6 9. Bb3 Bd7 10. Qd2 Rc8 11. h4 Ne5 12. h5 Nxh5 13. O-O-O Nc4 14.
+Bxc4 Rxc4 15. g4 Nf6 16. Nde2 Re8 17. Bh6 Bh8 18. Qe1 b5 19. Nd5 Nxd5 20.
+Rxd5 e6 21. Rd3 d5 22. Qd2 Qf6 23. c3 Bc6 24. Bg5 Qg7 25. e5 b4 26. Bf6 Qf8
+27. Nd4 bxc3 28. Rxc3 Rxc3+ 29. Qxc3 Ba8 30. Qd2 Bxf6 31. exf6 e5 32. Qh2
+h6 33. Nf5 gxf5 34. g5 d4 35. Qg2 h5 36. Kb1 Rc8 37. Ka1 Qc5 38. Rb1 Kh7
+39. Qe2 Kg6 40. Qd3 e4 41. fxe4 Bxe4 0-1
+

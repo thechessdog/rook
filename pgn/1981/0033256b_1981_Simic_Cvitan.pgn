@@ -1,0 +1,20 @@
+[Event "Yugoslavia"]
+[Site "Yugoslavia"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Simic, Radoslav"]
+[Black "Cvitan, Ognjen"]
+[Result "1/2-1/2"]
+[ECO "E71"]
+[Opening "King's Indian"]
+[Variation "Makagonov system (5.h3)"]
+[HashCode "0033256b"]
+[Epoch "Rook"]
+[WhiteID "900184"]
+[BlackID "14500086"]
+[WhiteCountry "SRB"]
+[BlackCountry "CRO"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. h3 O-O 6. Be3 e5 7. d5 c6 8. Bd3 b5
+9. dxc6 bxc4 10. Bxc4 Nxc6 11. Nf3 Bb7 12. Nd2 Nd4 13. O-O Rc8 14. Bg5 Qb6 15.
+Bxf6 Bxf6 16. b3 Qa5 1/2-1/2

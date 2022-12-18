@@ -1,0 +1,18 @@
+[Event "Campobasso tt"]
+[Site "Campobasso tt"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Di Felice"]
+[Black "Di Cera"]
+[Result "0-1"]
+[ECO "B23"]
+[Opening "Sicilian"]
+[Variation "closed"]
+[HashCode "1aa45d3f"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nc3 e6 3. d3 Nc6 4. g3 Nf6 5. Bg2 Be7 6. Nf3 d6 7. O-O a6 8.
+Nh4 Bd7 9. f4 Rc8 10. g4 Nxg4 11. Qxg4 Bxh4 12. Qxg7 Qf6 13. Qxf6 Bxf6 14.
+Na4 Bd8 15. b3 b5 16. Bb2 Nd4 17. Nc3 Rg8 18. Rf2 Bh4 19. Rff1 Nxc2 20.
+Rac1 Ne3 0-1
+

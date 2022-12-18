@@ -1,0 +1,19 @@
+[Event "Minnesota"]
+[Site "Minnesota"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Unger, T."]
+[Black "Zelkind, Eduard"]
+[Result "0-1"]
+[ECO "A28"]
+[Opening "English"]
+[Variation "four knights, 4.e3"]
+[HashCode "da641616"]
+[Epoch "Rook"]
+[BlackID "2002728"]
+[BlackCountry "USA"]
+
+1. c4 Nf6 2. Nc3 e5 3. Nf3 Nc6 4. e3 Bb4 5. Qc2 O-O 6. a3 Bxc3 7. Qxc3 Re8 8.
+b4 d5 9. Bb2 d4 10. Qc2 d3 11. Qc3 e4 12. Nd4 Ne5 13. f4 exf3 14. Nxf3 Ne4 15.
+Qxe5 Rxe5 16. Bxe5 Bg4 17. Nd4 Qh4+ 18. g3 Qe7 19. Bf4 g5 20. h3 Bd7 21. Bxc7
+Rc8 0-1

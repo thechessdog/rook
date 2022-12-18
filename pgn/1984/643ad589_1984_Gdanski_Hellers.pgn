@@ -1,0 +1,21 @@
+[Event "Champigny"]
+[Site "Champigny"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Gdanski, Jacek"]
+[Black "Hellers, Ferdinand"]
+[Result "0-1"]
+[ECO "B03"]
+[Opening "Alekhine's defence"]
+[Variation "four pawns attack, 7.Be3"]
+[HashCode "643ad589"]
+[Epoch "Rook"]
+[WhiteID "1100106"]
+[BlackID "1700022"]
+[WhiteCountry "POL"]
+[BlackCountry "SWE"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. c4 Nb6 5. f4 dxe5 6. fxe5 Nc6 7. Be3 Bf5 8. Nc3
+e6 9. Nf3 Qd7 10. Be2 Rd8 11. Qd2 Nb4 12. O-O c5 13. d5 exd5 14. cxd5 N6xd5 15.
+Bb5 Nc6 16. Rad1 Nxc3 17. Qxc3 Qxd1 18. Rxd1 Rxd1+ 19. Kf2 Be7 20. Bxc5 O-O 21.
+Bxc6 Bxc5+ 22. Qxc5 bxc6 23. Qxa7 Rb1 24. Qb6 c5 25. a4 c4 26. Nd2 c3 0-1

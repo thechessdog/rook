@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Vetro"]
+[Black "Crispi"]
+[Result "0-1"]
+[ECO "A00"]
+[Opening "Grob"]
+[Variation "spike attack"]
+[HashCode "79d2a5c3"]
+[Epoch "Rook"]
+
+1. g4 d5 2. Bg2 c6 3. g5 h6 4. d4 hxg5 5. Bxg5 Nf6 6. Nc3 Bf5 7. Bxf6 exf6
+8. e4 dxe4 9. Nxe4 Bxe4 10. Bxe4 Qe7 11. Qe2 Rh4 12. f3 f5 13. Bxf5 Rxd4
+14. Qxe7+ Bxe7 15. Ne2 Bh4+ 16. Ng3 Nd7 17. Rd1 Rxd1+ 18. Kxd1 Rd8 19. Kc1
+Nf6 20. Rd1 Bg5+ 0-1
+

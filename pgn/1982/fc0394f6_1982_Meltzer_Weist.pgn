@@ -1,0 +1,18 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Meltzer"]
+[Black "Weist"]
+[Result "1/2-1/2"]
+[ECO "C10"]
+[Opening "French"]
+[Variation "Rubinstein variation"]
+[HashCode "fc0394f6"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Nxf6+ Nxf6 7. Bd3
+Bd7 8. Ne5 c5 9. dxc5 Bxc5 10. Qe2 O-O 11. Bg5 Be7 12. O-O-O Nd5 13. Bxe7
+Qxe7 14. Nxd7 Qxd7 15. Be4 Rfe8 16. Qf3 Red8 17. Rd4 Rac8 18. Qd3 g6 19.
+Rd1 Qc7 20. g3 Rd6 21. Bxd5 exd5 22. Rd2 Rcd8 23. f4 Qd7 1/2-1/2
+

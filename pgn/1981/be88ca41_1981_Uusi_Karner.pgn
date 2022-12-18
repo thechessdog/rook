@@ -1,0 +1,26 @@
+[Event "Tallinn"]
+[Site "Tallinn"]
+[Date "1981.03.01"]
+[Round "2"]
+[White "Uusi, Gunnar"]
+[Black "Karner, Hillar"]
+[Result "0-1"]
+[ECO "E16"]
+[Opening "Queen's Indian"]
+[Variation "Riumin variation"]
+[HashCode "be88ca41"]
+[Epoch "Rook"]
+[BlackID "4500202"]
+[BlackCountry "EST"]
+[WhiteCountry "EST"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2 Bb4+ 6. Bd2 Be7 7. Nc3 O-O 8. O-O
+d5 9. Ne5 c6 10. cxd5 cxd5 11. Qa4 Nfd7 12. f4 f5 13. h3 Nxe5 14. fxe5 Nc6 15.
+Kh2 Na5 16. Rae1 Rc8 17. Qd1 Nc4 18. Bc1 Qd7 19. Qd3 Bb4 20. Rd1 a5 21. Nb1 a4
+22. b3 axb3 23. axb3 Na5 24. g4 fxg4 25. hxg4 Bc6 26. g5 Bb5 27. Qe3 Rxf1 28.
+Rxf1 Qe8 29. Bh3 Qh5 30. Kg3 Qg6 31. Bd2 Be7 32. Kh2 Bd7 33. Nc3 Bxg5 34. Nxd5
+exd5 35. Qxg5 Qxg5 36. Bxg5 Bxh3 37. Kxh3 h6 38. Bh4 Nxb3 39. Bf2 Nd2 40. Ra1
+Ne4 41. Be1 Kf7 42. Ra7+ Kg6 43. Kg2 Rc4 44. e3 Rc1 45. Bb4 Rc2+ 46. Kg1 Ng5
+47. Kf1 h5 48. Be7 Ne4 49. Bd8 b5 50. Rb7 Rc8 51. Bh4 Rc1+ 52. Kg2 Rc2+ 53. Kf3
+Rh2 54. Be1 h4 55. e6 Kf5 56. Rf7+ Kxe6 57. Rxg7 h3 58. Rg8 Rb2 59. Rh8 b4 60.
+Kf4 h2 61. Rh6+ Kf7 62. Ke5 b3 63. Kxd5 Rc2 0-1

@@ -1,0 +1,16 @@
+[Event "Marshall Int"]
+[Site "Marshall Int"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Meyer, J."]
+[Black "Van Tilbury, Craig"]
+[Result "1-0"]
+[ECO "E60"]
+[Opening "King's Indian, 3.Nf3"]
+[HashCode "8d4ca86d"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. Nc3 O-O 5. e4 c5 6. dxc5 Qa5 7. Bd3 Nc6 8. O-O
+Qxc5 9. Be3 Qh5 10. h3 d6 11. a3 Nd7 12. Be2 Nde5 13. Ng5 Qh4 14. g3 Qh6 15. h4
+Bf6 16. Ne6 g5 17. hxg5 Bxg5 18. Nxg5 f6 19. Nf3 Qh3 20. Nxe5 Nxe5 21. Nd5 Rf7
+22. Nf4 Qh6 23. Kg2 1-0

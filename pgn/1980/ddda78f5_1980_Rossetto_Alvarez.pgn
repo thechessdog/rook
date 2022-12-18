@@ -1,0 +1,19 @@
+[Event "Quilmes ch-ARG"]
+[Site "Quilmes ch-ARG"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Rossetto, Hector"]
+[Black "Alvarez, Ernesto"]
+[Result "1-0"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack"]
+[HashCode "ddda78f5"]
+[Epoch "Rook"]
+[WhiteCountry "ARG"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 c5 4. Bxf6 exf6 5. e3 Be6 6. Nge2 Nc6 7. g3 cxd4 8.
+exd4 Bb4 9. Bg2 Qd7 10. O-O O-O 11. Nb1 Bg4 12. c3 Ba5 13. Qd2 Bh3 14. Na3 Rfe8
+15. Nc2 Bxg2 16. Kxg2 Re4 17. Rae1 Rae8 18. f3 R4e7 19. Nf4 Bc7 20. Nd3 b6 21.
+Rxe7 Rxe7 22. Re1 Rxe1 23. Qxe1 g6 24. Qe2 Kg7 25. Nf2 Ne7 26. b3 h5 27. Ne3
+Bb8 28. Qd3 Qd6 29. c4 h4 30. f4 hxg3 31. hxg3 Qa3 32. Qe2 Nc6 33. Nxd5 Nxd4
+34. Qd2 Nf5 35. Ne4 Nd6 36. Nexf6 Qc5 37. Qc3 Nb5 38. Ne8+ Kh6 39. Qh8# 1-0

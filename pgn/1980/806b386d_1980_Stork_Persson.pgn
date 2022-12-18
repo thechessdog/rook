@@ -1,0 +1,18 @@
+[Event "Uppsala"]
+[Site "Uppsala"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Stork, Hans"]
+[Black "Persson, Hillarp"]
+[Result "1-0"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Milner-Barry gambit"]
+[HashCode "806b386d"]
+[Epoch "Rook"]
+[WhiteID "1705490"]
+[WhiteCountry "SWE"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. O-O
+Nxd4 9. Ng5 f5 10. Be3 Bc5 11. Nc3 g6 12. Rc1 Ke7 13. Nh3 Qxb2 14. Nxd5+ exd5
+15. Rxc5 Ne6 16. Rxd5 Bc6 17. Bc4 Bxd5 18. Qxd5 1-0

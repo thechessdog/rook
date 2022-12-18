@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Bella, G."]
+[Black "Venturino, M."]
+[Result "0-1"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, poisoned pawn variation"]
+[HashCode "656c06ac"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Qg4 cxd4
+8. Qxg7 Rg8 9. Qxh7 Nbc6 10. Nf3 Qc7 11. Bd2 dxc3 12. Bg5 Rxg5 13. Nxg5
+Qxe5+ 14. Be2 Qxg5 15. O-O Qf6 16. Rfb1 e5 17. Qd3 Nd4 18. Bf1 e4 19. Qd1
+Nec6 20. a4 b6 21. a5 Nxa5 22. Ra4 Nac6 23. Bb5 Nxb5 24. Rxb5 d4 25. Qe2
+Bf5 26. Qc4 Rc8 0-1
+

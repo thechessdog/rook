@@ -1,0 +1,23 @@
+[Event "DDR"]
+[Site "DDR"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Brueggemann, Joachim"]
+[Black "Vogt, Lothar"]
+[Result "0-1"]
+[ECO "B81"]
+[Opening "Sicilian"]
+[Variation "Scheveningen, Keres attack"]
+[HashCode "10999b39"]
+[Epoch "Rook"]
+[BlackID "4611292"]
+[BlackCountry "GER"]
+[WhiteID "4611861"]
+[WhiteCountry "GER"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. g4 a6 7. g5 Nfd7 8. Be3
+b5 9. a3 Nb6 10. h4 N8d7 11. Qe2 Bb7 12. Rh3 Nc4 13. Bc1 Qb6 14. Nf3 Rc8 15.
+Nd2 Na5 16. h5 Be7 17. g6 Bf6 18. gxf7+ Kxf7 19. h6 g6 20. e5 Bxe5 21. Nde4
+Rhe8 22. Qg4 Nf6 23. Rf3 Rxc3 24. bxc3 Bxe4 25. Qxe4 Bxc3+ 26. Bd2 Bxa1 27. c3
+Qc5 28. Qh4 Qe5+ 29. Kd1 Rc8 30. Bg5 Bxc3 31. Rxf6+ Kg8 32. f3 Qd5+ 33. Ke2
+Qa2+ 34. Kd3 Qb1+ 35. Ke3 Qc1+ 36. Kd3 Qxf1+ 0-1

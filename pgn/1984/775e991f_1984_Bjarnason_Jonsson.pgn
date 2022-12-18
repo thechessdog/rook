@@ -1,0 +1,21 @@
+[Event "Reykjavik op"]
+[Site "Reykjavik"]
+[Date "1984.??.??"]
+[Round "11"]
+[White "Bjarnason, Saevar"]
+[Black "Jonsson, Bjorgvin"]
+[Result "1-0"]
+[ECO "B76"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, Rauser variation"]
+[HashCode "775e991f"]
+[Epoch "Rook"]
+[WhiteID "2300176"]
+[BlackID "2300125"]
+[WhiteCountry "ISL"]
+[BlackCountry "ISL"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8. Qd2
+Nc6 9. O-O-O d5 10. exd5 Nxd5 11. Nxc6 bxc6 12. Nxd5 cxd5 13. Qxd5 Qc7 14. Qc5
+Qb7 15. Qa3 a5 16. Bd4 e5 17. Bc3 Be6 18. Bd3 Rfc8 19. Be4 Qb5 20. Bxa8 Rxa8
+21. Qe7 Rf8 22. b3 Qe2 23. Kb2 Bf5 24. Rd2 Qe3 25. Rd8 Be6 26. Rhd1 1-0

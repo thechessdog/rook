@@ -1,0 +1,17 @@
+[Event "Albuquerque"]
+[Site "Albuquerque"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Knight"]
+[Black "Olsher, R."]
+[Result "0-1"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Euwe variation"]
+[HashCode "a6789d84"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Bd7 6. a3 f6 7. Bf4 Qb6 8. b4
+c4 9. Be2 O-O-O 10. a4 g5 11. a5 Qc7 12. Bg3 g4 13. exf6 Bd6 14. Ng5 Nh6
+15. Bxd6 Qxd6 16. Bxg4 Qf4 17. Nxe6 Rhe8 18. f7 Nxg4 0-1
+

@@ -1,0 +1,21 @@
+[Event "Reykjavik"]
+[Site "Reykjavik"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Benediktsson, Benon"]
+[Black "Karlsson, Lars"]
+[Result "0-1"]
+[ECO "D53"]
+[Opening "QGD"]
+[Variation "4.Bg5 Be7"]
+[HashCode "7a8458d3"]
+[Epoch "Rook"]
+[BlackID "1700057"]
+[BlackCountry "SWE"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Bg5 Be7 5. e3 h6 6. Bf4 O-O 7. h4 c5 8. g4 cxd4
+9. exd4 e5 10. dxe5 Nxg4 11. cxd5 Bc5 12. Bg3 Re8 13. f4 Qb6 14. Qe2 Bxg1 15.
+O-O-O Bf5 16. Be1 Rc8 17. Rxg1 Qxg1 18. Bd2 Na6 19. Bg2 Qf2 20. Qxf2 Nxf2 21.
+Be3 Nxd1 22. Kxd1 b6 23. d6 Rxc3 24. bxc3 Rc8 25. Bd4 Nc5 26. Ke1 Ne4 27. a4
+Nxc3 28. a5 bxa5 29. Bxa7 a4 30. Bb7 a3 31. Bxc8 a2 32. Bxf5 a1=Q+ 33. Kd2 Qxa7
+34. Kxc3 Qe3+ 35. Kb2 Qxf4 36. d7 Qxe5+ 37. Kc1 Qf4+ 38. Kd1 Qxh4 0-1

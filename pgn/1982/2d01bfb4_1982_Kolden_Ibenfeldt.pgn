@@ -1,0 +1,18 @@
+[Event "Oslo"]
+[Site "Oslo"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Kolden, H."]
+[Black "Ibenfeldt, Otto"]
+[Result "0-1"]
+[ECO "B92"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Opovcensky variation"]
+[HashCode "2d01bfb4"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 Qc7 7. Be3 e6 8.
+O-O Nbd7 9. f4 Be7 10. g4 Nb6 11. g5 Nfd7 12. f5 e5 13. Nf3 Nc5 14. Nh4 Qd8
+15. Nf3 Qc7 16. a4 a5 17. Nb5 Qc6 18. Nc3 Bd7 19. Nd5 Nxd5 20. exd5 Qc8 21.
+Nh4 Ne4 22. Qc1 h6 23. f6 gxf6 24. gxh6 Bh3 25. Bb5+ Kf8 26. h7 Qg4+ 0-1
+

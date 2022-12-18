@@ -1,0 +1,20 @@
+[Event "DSV-Turnier"]
+[Site "Halle"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Vogt, Lothar"]
+[Black "Malich, Burkhard, Dr."]
+[Result "1/2-1/2"]
+[ECO "B82"]
+[Opening "Sicilian"]
+[Variation "Scheveningen, 6.f4"]
+[HashCode "4f88d5c0"]
+[Epoch "Rook"]
+[WhiteID "4611292"]
+[WhiteCountry "GER"]
+[BlackID "4611330"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. f4 a6 7. Be2 Be7 8. O-O
+O-O 9. Kh1 Nc6 10. Be3 Bd7 11. Qe1 Nxd4 12. Bxd4 Bc6 13. Qg3 b5 14. a3 Qd7 15.
+Bd3 a5 1/2-1/2

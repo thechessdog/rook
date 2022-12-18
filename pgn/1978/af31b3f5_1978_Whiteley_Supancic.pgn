@@ -1,0 +1,19 @@
+[Event "Aaronson"]
+[Site "Londen open"]
+[Date "1978.01.01"]
+[Round "3"]
+[White "Whiteley, Andrew Jonathan"]
+[Black "Supancic, Darko"]
+[Result "1/2-1/2"]
+[ECO "D44"]
+[Opening "QGD semi-Slav"]
+[Variation "Ekstrom variation"]
+[HashCode "af31b3f5"]
+[Epoch "Rook"]
+[BlackID "14600773"]
+[BlackCountry "SLO"]
+[WhiteCountry "ENG"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Nf3 c6 5. Bg5 dxc4 6. e4 b5 7. e5 h6 8. Bh4 g5
+9. exf6 gxh4 10. Ne5 Bb4 11. g3 Qd5 12. Rg1 Qe4+ 13. Be2 Nd7 14. Qd2 Bxc3 15.
+Qxc3 Nxf6 1/2-1/2

@@ -1,0 +1,16 @@
+[Event "Finland"]
+[Site "Finland"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Jalovaara"]
+[Black "Ristoja, Thomas W."]
+[Result "0-1"]
+[ECO "B30"]
+[Opening "Sicilian defence"]
+[HashCode "67cdcac7"]
+[Epoch "Rook"]
+[BlackID "500526"]
+[BlackCountry "FIN"]
+
+1. e4 c5 2. Nf3 Nc6 3. g3 d5 4. d3 dxe4 5. dxe4 Qxd1+ 6. Kxd1 Bg4 7. Bg2 Nd4
+0-1

@@ -1,0 +1,21 @@
+[Event "Baden-Baden"]
+[Site "Baden-Baden"]
+[Date "1980.10.01"]
+[Round "4"]
+[White "Van der Wiel, John T.H."]
+[Black "Stean, Michael F"]
+[Result "1-0"]
+[ECO "B93"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.f4"]
+[HashCode "702fd57b"]
+[Epoch "Rook"]
+[WhiteID "1000020"]
+[WhiteCountry "NED"]
+[BlackID "400130"]
+[BlackCountry "ENG"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 Nbd7 7. a4 b6 8. Bd3
+Bb7 9. O-O g6 10. Qe1 Bg7 11. Nf3 Nc5 12. f5 d5 13. e5 Nfe4 14. b4 Nxd3 15.
+cxd3 gxf5 16. dxe4 dxe4 17. Qg3 exf3 18. Rd1 Kf8 19. Rxd8+ Rxd8 20. Bg5 Rg8 21.
+Qh4 1-0

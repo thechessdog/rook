@@ -1,0 +1,20 @@
+[Event "Lone Pine open"]
+[Site "Lone Pine open"]
+[Date "1981.04.01"]
+[Round "1"]
+[White "McCambridge, Vincent"]
+[Black "Dahlberg, Ivars A"]
+[Result "0-1"]
+[ECO "C00"]
+[Opening "French"]
+[Variation "King's Indian attack"]
+[HashCode "f925d111"]
+[Epoch "Rook"]
+[WhiteID "2000342"]
+[WhiteCountry "USA"]
+[BlackID "2001829"]
+[BlackCountry "USA"]
+
+1. e4 e6 2. d3 d5 3. Nd2 Nf6 4. Ngf3 c5 5. g3 Nc6 6. Bg2 Be7 7. O-O Qc7 8. Re1
+b6 9. Qe2 Ba6 10. e5 Nd7 11. c4 Nf8 12. Nf1 h6 13. Ne3 O-O-O 14. a3 g5 15. b4
+dxc4 16. dxc4 Nd4 17. Qb2 Ng6 18. Nxd4 cxd4 19. Nc2 Nxe5 0-1

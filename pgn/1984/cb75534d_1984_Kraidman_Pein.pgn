@@ -1,0 +1,22 @@
+[Event "Netanya"]
+[Site "Netanya"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Kraidman, Yair"]
+[Black "Pein, Malcolm"]
+[Result "0-1"]
+[ECO "A72"]
+[Opening "Benoni"]
+[Variation "classical without 9.O-O"]
+[HashCode "cb75534d"]
+[Epoch "Rook"]
+[WhiteID "2800187"]
+[WhiteCountry "ISR"]
+[BlackID "400289"]
+[BlackCountry "ENG"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. e4 Bg7 8. Be2
+O-O 9. Bg5 h6 10. Bf4 b5 11. Nxb5 Nxe4 12. Nd2 Re8 13. Nc4 Ba6 14. a4 Bxb5 15.
+axb5 Bxb2 16. Nxb2 Nc3 17. Qd3 Nxe2 18. Be3 Nf4 19. Qb3 Nxg2+ 20. Ke2 Nxe3 21.
+fxe3 Nd7 22. Rhf1 Ne5 23. Nc4 Nxc4 24. Qxc4 Qg5 25. Rf4 Qg2+ 26. Kd3 Re5 27.
+Re4 Rae8 28. Rxe5 Rxe5 0-1

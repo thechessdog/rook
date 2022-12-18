@@ -1,0 +1,21 @@
+[Event "Buenos Aires"]
+[Site "Buenos Aires"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Cid"]
+[Black "Roca"]
+[Result "0-1"]
+[ECO "B10"]
+[Opening "Caro-Kann"]
+[Variation "closed (Breyer) variation"]
+[HashCode "1a16b90c"]
+[Epoch "Rook"]
+
+1. e4 c6 2. d3 d5 3. Nd2 e5 4. Ngf3 Bd6 5. Be2 Nd7 6. O-O Ne7 7. Re1 O-O 8.
+d4 exd4 9. Nxd4 Nf6 10. exd5 Nexd5 11. Nc4 Bc7 12. Bg5 h6 13. Bh4 Re8 14.
+Nf3 Bg4 15. Ncd2 Nf4 16. Bf1 Rxe1 17. Qxe1 Ng6 18. Bg3 Bxg3 19. hxg3 Bf5
+20. c3 Bd3 21. Ne5 Nxe5 22. Qxe5 Bxf1 23. Nxf1 Qb6 24. b3 Qxf2+ 25. Kxf2
+Ng4+ 26. Ke2 Nxe5 27. Rd1 Kf8 28. Nh2 Ke7 29. Nf3 Ng4 30. Rd4 h5 31. Rb4 b6
+32. Ra4 c5 33. Rf4 Re8 34. Kd3 f6 35. Kc4 Kd6 36. Kb5 Kc7 37. b4 cxb4 38.
+cxb4 Kb7 39. Rd4 Re7 40. Rd8 a6+ 41. Ka4 b5+ 42. Ka5 Re3 0-1
+

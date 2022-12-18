@@ -1,0 +1,15 @@
+[Event "Alkmaar open"]
+[Site "Alkmaar open"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Duijs, P."]
+[Black "Driessen, W."]
+[Result "0-1"]
+[ECO "B23"]
+[Opening "Sicilian"]
+[Variation "closed, Korchnoi variation"]
+[HashCode "10b8bdb5"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nc3 e6 3. g3 d5 4. exd5 exd5 5. Bg2 d4 6. Qe2+ Ne7 7. Nb1 0-1
+

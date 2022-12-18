@@ -1,0 +1,18 @@
+[Event "Novi Sad"]
+[Site "Novi Sad"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Notaros, Krasoje"]
+[Black "Deze, Anton"]
+[Result "1/2-1/2"]
+[ECO "A37"]
+[Opening "English"]
+[Variation "symmetrical, Botvinnik system reversed"]
+[HashCode "65400c8b"]
+[Epoch "Rook"]
+[WhiteID "901636"]
+[WhiteCountry "SRB"]
+[BlackCountry "SRB"]
+
+1. c4 c5 2. g3 Nc6 3. Bg2 g6 4. Nf3 Bg7 5. Nc3 e5 6. O-O Nge7 7. Ne1 O-O 8. Nc2
+d6 9. Ne3 Rb8 10. Ned5 Nxd5 11. Nxd5 1/2-1/2

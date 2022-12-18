@@ -1,0 +1,19 @@
+[Event "corr East Germany"]
+[Site "corr East Germany"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Kolin"]
+[Black "Menken"]
+[Result "1-0"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "28e6d268"]
+[Epoch "Rook"]
+
+1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. d4 cxd4 5. Bc4 Qc7 6. Qe2 Nb6 7. Bd3 Nc6 8.
+Nf3 d5 9. h3 dxc3 10. Nxc3 e6 11. O-O Be7 12. Bf4 Qd8 13. a3 Nd7 14. Rac1
+a6 15. Rfe1 Nc5 16. Bc2 b5 17. b4 Nb7 18. Red1 Bd7 19. Nxd5 exd5 20. Rxd5
+Qc8 21. Be4 Nbd8 22. Nd4 Nxd4 23. Rxd4 Qb8 24. Rxd7 Ne6 25. Rb7 Qd8 26.
+Bc6+ Kf8 27. Rd7 Qb8 28. Qe4 1-0
+

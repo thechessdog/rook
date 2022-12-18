@@ -1,0 +1,18 @@
+[Event "corr SWE/K"]
+[Site "corr SWE/K"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Nordstrom"]
+[Black "Erlandsson"]
+[Result "0-1"]
+[ECO "C44"]
+[Opening "Scotch"]
+[Variation "Goering gambit"]
+[HashCode "cfdbb22e"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. c3 Nf6 5. e5 Ne4 6. Qe2 f5 7. exf6 d5 8.
+Nxd4 Nxd4 9. cxd4 Kf7 10. fxg7 Bb4+ 11. Kd1 Re8 12. Qh5+ Kg8 13. Be3 Be6
+14. Bd3 Qd7 15. Qh6 Bf5 16. Bc2 Nxf2+ 17. Bxf2 Bxc2+ 18. Kxc2 Re2+ 19. Kd1
+Rxf2 20. b3 Qc6 21. Qc1 Qe6 0-1
+

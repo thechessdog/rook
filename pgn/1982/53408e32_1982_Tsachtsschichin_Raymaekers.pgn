@@ -1,0 +1,18 @@
+[Event "corr EU"]
+[Site "corr EU"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Tsachtsschichin"]
+[Black "Raymaekers"]
+[Result "1-0"]
+[ECO "B07"]
+[Opening "Pirc"]
+[Variation "bayonet (Mariotti) attack"]
+[HashCode "53408e32"]
+[Epoch "Rook"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. Be2 Nf6 5. h4 Nc6 6. h5 gxh5 7. Bg5 Ng4 8.
+Bb5 Bd7 9. Nge2 Bf6 10. Bc1 Bg7 11. Bxc6 Bxc6 12. Ng3 Nf6 13. Bg5 Bd7 14.
+Bxf6 Bxf6 15. Nxh5 e5 16. Nd5 Bg5 17. dxe5 dxe5 18. f4 c6 19. fxg5 cxd5 20.
+Nf6+ Kf8 1-0
+

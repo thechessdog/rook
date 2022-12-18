@@ -1,0 +1,18 @@
+[Event "Columbus,OH"]
+[Site "Columbus,OH"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Newman"]
+[Black "Boone"]
+[Result "0-1"]
+[ECO "D15"]
+[Opening "QGD Slav"]
+[Variation "4.Nc3"]
+[HashCode "31b72cad"]
+[Epoch "Rook"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. Nf3 Bg4 5. e3 Nbd7 6. Bd3 e5 7. cxd5 cxd5
+8. dxe5 Bxf3 9. Qxf3 Nxe5 10. Bb5+ Nc6 11. O-O a6 12. Ba4 Bd6 13. h3 O-O
+14. Bc2 Bc7 15. a3 Ne5 16. Qe2 Qd6 17. g3 Qe6 18. Kg2 Qc6 19. e4 d4 20. Nd1
+Rad8 21. Bd3 Nxd3 22. Qxd3 Nxe4 23. Kh2 Nc5 24. Qf5 Nb3 0-1
+

@@ -1,0 +1,23 @@
+[Event "Albena"]
+[Site "Albena"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Velikov, Petar"]
+[Black "Lalev, Dimitar"]
+[Result "1/2-1/2"]
+[ECO "D59"]
+[Opening "QGD"]
+[Variation "Tartakower (Makagonov-Bondarevsky) system, 8.cd Nxd5"]
+[HashCode "1e0d8b27"]
+[Epoch "Rook"]
+[BlackID "2900254"]
+[BlackCountry "FID"]
+[WhiteID "2900149"]
+[WhiteCountry "FID"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 d5 4. Nc3 Be7 5. Bg5 h6 6. Bh4 O-O 7. e3 b6 8. cxd5
+Nxd5 9. Bxe7 Qxe7 10. Nxd5 exd5 11. Bd3 c5 12. O-O Rd8 13. Rc1 Ba6 14. b3 Qd6
+15. Rc3 Bxd3 16. Qxd3 Nd7 17. Rfc1 a5 18. a4 Rdc8 19. Qb5 Rc7 20. h3 g6 21. Ne1
+Rac8 22. dxc5 Rxc5 23. Rxc5 Rxc5 24. Rxc5 Nxc5 25. Nf3 Ne6 26. Kf1 Qc5 27. Qxc5
+Nxc5 28. Nd4 Kf8 29. g4 Ke7 30. Ke2 Ne6 31. Kd3 Nxd4 32. Kxd4 Kd6 33. f3 f5 34.
+gxf5 gxf5 35. Kd3 Kc6 36. Kc3 Kc5 37. f4 Kc6 38. b4 Kc7 39. bxa5 1/2-1/2

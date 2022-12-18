@@ -1,0 +1,16 @@
+[Event "Lyngby"]
+[Site "Lyngby"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Nielsen, Poul Erik"]
+[Black "Henriksen, Bjarne Meldgaard"]
+[Result "0-1"]
+[ECO "D80"]
+[Opening "Gruenfeld"]
+[Variation "Stockholm variation"]
+[HashCode "1e4f1ac1"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Bg5 Ne4 5. Bf4 Nxc3 6. bxc3 Bg7 7. cxd5 Qxd5 8.
+e3 c5 9. Bxb8 Rxb8 10. Qa4+ Bd7 11. Qxa7 O-O 12. Qb6 cxd4 13. cxd4 Rfc8 14. Nf3
+Rc6 15. Qb3 Rbc8 16. Qa3 Rc3 17. Qb2 Qa5 0-1

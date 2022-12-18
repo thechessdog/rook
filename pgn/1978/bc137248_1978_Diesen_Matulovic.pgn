@@ -1,0 +1,18 @@
+[Event "Odzaci"]
+[Site "Odzaci"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Diesen, Mark Carl"]
+[Black "Matulovic, Milan"]
+[Result "1/2-1/2"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, 6.Bd3"]
+[HashCode "bc137248"]
+[Epoch "Rook"]
+[BlackCountry "SRB"]
+[WhiteCountry "USA"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 O-O 6. Bd3 Nc6 7. O-O Bg4 8. e5
+dxe5 9. dxe5 Nd5 10. h3 Nxc3 11. bxc3 Bf5 12. Be3 f6 13. Bxf5 gxf5 14. e6 Qc8
+15. Qd5 Rd8 16. Qxf5 Rd6 17. Rf2 1/2-1/2

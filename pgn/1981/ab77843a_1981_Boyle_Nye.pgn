@@ -1,0 +1,18 @@
+[Event "corr ch-SCO"]
+[Site "corr ch-SCO"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Boyle, C."]
+[Black "Nye, V."]
+[Result "1/2-1/2"]
+[ECO "C33"]
+[Opening "KGA"]
+[Variation "bishop's gambit, Jaenisch variation"]
+[HashCode "ab77843a"]
+[Epoch "Rook"]
+
+1. e4 e5 2. f4 exf4 3. Bc4 Nf6 4. Nc3 c6 5. e5 d5 6. exf6 dxc4 7. Nf3 Be6
+8. O-O Nd7 9. fxg7 Bxg7 10. d4 cxd3 11. cxd3 Ne5 12. Nxe5 Bxe5 13. Qh5 Qd4+
+14. Kh1 O-O-O 15. Ne2 Qd5 16. Nxf4 Bxf4 17. Qxd5 Rxd5 18. Bxf4 Rxd3 19.
+Rad1 Rhd8 20. Rxd3 Rxd3 21. a3 Kd7 1/2-1/2
+

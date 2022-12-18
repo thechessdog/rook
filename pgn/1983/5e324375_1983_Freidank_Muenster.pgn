@@ -1,0 +1,17 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Freidank"]
+[Black "Muenster, E."]
+[Result "1-0"]
+[ECO "C08"]
+[Opening "French"]
+[Variation "Tarrasch, open, 4.ed ed"]
+[HashCode "5e324375"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. exd5 exd5 5. Bb5+ Nc6 6. Qe2+ Be6 7. Ngf3
+Qb6 8. c4 Nf6 9. cxd5 Nxd5 10. Nc4 Qc7 11. Nce5 Bd6 12. Bxc6+ bxc6 13. Nxf7
+O-O 14. Nxd6 Qxd6 15. dxc5 Qd7 16. Ne5 1-0
+

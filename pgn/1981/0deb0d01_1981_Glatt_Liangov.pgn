@@ -1,0 +1,17 @@
+[Event "Elekes mem-B"]
+[Site "Budapest"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Glatt, Gabor"]
+[Black "Liangov, Peter"]
+[Result "1/2-1/2"]
+[ECO "B93"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.f4"]
+[HashCode "0deb0d01"]
+[Epoch "Rook"]
+[WhiteID "701866"]
+[WhiteCountry "HUN"]
+
+1. e4 c5 2. Nf3 d6 3. d4 Nf6 4. Nc3 cxd4 5. Nxd4 a6 6. f4 Qc7 7. Bd3 g6 8. a4
+Bg7 9. Nf3 Nc6 10. O-O O-O 11. Qe1 Nb4 12. Kh1 1/2-1/2

@@ -1,0 +1,19 @@
+[Event "Moscow"]
+[Site "Moscow"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Tseitlin, Mikhail S"]
+[Black "Anikaev, Yuri N"]
+[Result "1/2-1/2"]
+[ECO "D58"]
+[Opening "QGD"]
+[Variation "Tartakower (Makagonov-Bondarevsky) system"]
+[HashCode "fca484af"]
+[Epoch "Rook"]
+[WhiteCountry "BLR"]
+[BlackID "4101650"]
+[BlackCountry "RUS"]
+
+1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. Bg5 Be7 5. Nc3 h6 6. Bh4 O-O 7. e3 b6 8. Be2
+Nbd7 9. cxd5 exd5 10. O-O Bb7 11. Rc1 c5 12. Ne5 Nxe5 13. dxe5 Ne4 14. Nxe4
+dxe4 15. Qxd8 Bxd8 16. Bg3 Be7 1/2-1/2

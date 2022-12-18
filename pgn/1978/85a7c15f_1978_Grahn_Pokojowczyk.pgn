@@ -1,0 +1,22 @@
+[Event "Slupsk"]
+[Site "Slupsk"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Grahn, Lars"]
+[Black "Pokojowczyk, Jerzy"]
+[Result "0-1"]
+[ECO "E76"]
+[Opening "King's Indian"]
+[Variation "Four pawns attack"]
+[HashCode "85a7c15f"]
+[Epoch "Rook"]
+[WhiteID "1707205"]
+[WhiteCountry "SWE"]
+[BlackID "1100718"]
+[BlackCountry "POL"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f4 c5 6. d5 O-O 7. Be2 b5 8. cxb5 a6
+9. bxa6 Qa5 10. Qd2 Bxa6 11. Bxa6 Qxa6 12. Nge2 Nbd7 13. O-O Rfb8 14. Qc2 c4
+15. h3 Nc5 16. Be3 Nfxe4 17. Nxe4 Rxb2 18. Nxc5 Rxc2 19. Nxa6 Rxe2 20. Nc7 Rc8
+21. Bb6 Bxa1 22. Rxa1 c3 23. Ba5 c2 24. Kf1 Re4 25. Rc1 Ra4 26. Bb6 Rb4 27. Ba5
+Rb1 28. Ke2 Rxc1 29. Kd2 Ra1 0-1

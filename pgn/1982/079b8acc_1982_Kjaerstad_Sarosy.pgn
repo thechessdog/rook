@@ -1,0 +1,25 @@
+[Event "corr WCCC"]
+[Site "corr WCCC"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Kjaerstad, E."]
+[Black "Sarosy, Zoltan"]
+[Result "0-1"]
+[ECO "C92"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Flohr-Zaitsev system (Lenzerheide variation)"]
+[HashCode "079b8acc"]
+[Epoch "Rook"]
+[BlackCountry "CAN"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. h3 Bb7 10. d3 Na5 11. Bc2 c5 12. Nbd2 Re8 13. Nf1 Rc8 14. Ng3 g6 15. Bg5
+Nd7 16. Qd2 Bxg5 17. Nxg5 f6 18. Nf3 Kg7 19. Nh2 Qe7 20. Ng4 Qf8 21. Rad1 Nc6
+22. h4 Kh8 23. h5 Re7 24. Ne3 Qh6 25. Qe2 Rf8 26. Bb3 Nb6 27. Bd5 Nxd5 28. exd5
+Nd8 29. Ngf5 gxf5 30. Nxf5 Qg5 31. Nxe7 Ne6 32. Nc6 Nf4 33. Qe4 Rg8 34. g3 Nh3+
+35. Kf1 Nxf2 36. Qf3 Nxd1 37. Rxd1 Bc8 38. Rd2 Bh3+ 39. Ke1 Bg4 40. Qf2 f5 41.
+d4 cxd4 42. cxd4 e4 43. Qf4 Qxh5 44. Rf2 e3 45. Rf1 Bd1 46. Qxe3 Bc2 47. Qf3
+Rg4 48. Kd2 Be4 49. Qe3 Qh2+ 50. Rf2 Qg1 51. Rf4 Qxe3+ 52. Kxe3 Rxg3+ 53. Kd2
+Kg8 54. Ne7+ Kg7 55. Nxf5+ Bxf5 56. Rxf5 Rg2+ 57. Kc3 a5 58. a3 h6 59. a4 bxa4
+60. Rf1 h5 61. Rf5 Kh6 62. Kc4 Rxb2 63. Rf6+ Kg7 64. Rxd6 h4 65. Re6 a3 66. d6
+a2 67. d7 a1=Q 68. Re7+ Kf6 69. d8=Q Rb4+ 0-1

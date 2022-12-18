@@ -1,0 +1,20 @@
+[Event "corr NS/ME"]
+[Site "corr NS/ME"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Malinen, Hannu"]
+[Black "Isomursu, Timo"]
+[Result "0-1"]
+[ECO "B43"]
+[Opening "Sicilian"]
+[Variation "Kan, 5.Nc3"]
+[HashCode "2aa4d8fc"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 Qc7 6. Bd3 Nc6 7. Be3 Nf6
+8. Qe2 Bb4 9. O-O Bxc3 10. bxc3 d6 11. f4 O-O 12. e5 dxe5 13. Nxc6 bxc6 14.
+Bc5 exf4 15. Bxf8 Kxf8 16. Qf2 e5 17. Qc5+ Qe7 18. Qxe7+ Kxe7 19. Rab1 Nd5
+20. c4 Ne3 21. Rfe1 f5 22. c5 e4 23. Bf1 Ke6 24. c4 Ra7 25. Rb8 Rc7 26.
+Reb1 Ke5 27. R1b3 Kd4 28. Be2 g5 29. Ra3 Kxc5 30. Ra5+ Kd4 31. c5 g4 32.
+Rb4+ Ke5 33. Kf2 Nxg2 34. Kxg2 f3+ 35. Bxf3 gxf3+ 36. Kf1 Rd7 0-1
+

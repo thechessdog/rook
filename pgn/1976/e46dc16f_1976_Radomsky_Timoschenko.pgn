@@ -1,0 +1,16 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Radomsky, V."]
+[Black "Timoshchenko, Gennadi Anatolyevich"]
+[Result "0-1"]
+[ECO "A40"]
+[Opening "Modern defence"]
+[HashCode "e46dc16f"]
+[Epoch "Rook"]
+
+1. d4 g6 2. c4 Bg7 3. Nc3 c5 4. d5 d6 5. e4 Nf6 6. Bg5 h6 7. Bh4 Qa5 8. Bd3 g5
+9. Bg3 Nxe4 10. Bxe4 Bxc3+ 11. bxc3 Qxc3+ 12. Kf1 f5 13. Rc1 Qf6 14. Qh5+ Kd8
+15. h4 g4 16. Bd3 f4 17. Bxf4 Qxf4 18. Ne2 Qf6 19. Kg1 Rg8 20. Ng3 Nd7 21. Re1
+Ne5 22. Ne4 Qf4 23. Nxc5 g3 0-1

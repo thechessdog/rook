@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Radecki, W."]
+[Black "Novikov, Igor"]
+[Result "1-0"]
+[ECO "B52"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky attack, 3...Bd7"]
+[HashCode "f6a362e5"]
+[Epoch "Rook"]
+[BlackCountry "USA"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Nxd7 5. O-O Ngf6 6. Qe2 e6 7. b3 Be7 8.
+Bb2 O-O 9. c4 e5 10. Nc3 Ne8 11. d3 Nc7 12. Nd2 Bg5 13. g3 Ne6 14. Nd5 Nf6 15.
+Nf3 Bh6 16. Nh4 g6 17. Ng2 Nxd5 18. exd5 Nd4 19. Bxd4 exd4 20. Rab1 1-0

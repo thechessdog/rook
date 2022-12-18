@@ -1,0 +1,20 @@
+[Event "corr SWE/K tt"]
+[Site "corr SWE/K tt"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Rydell, Goran"]
+[Black "Lindgren, Bengt"]
+[Result "1-0"]
+[ECO "B02"]
+[Opening "Alekhine's defence"]
+[Variation "Saemisch attack"]
+[HashCode "10f23994"]
+[Epoch "Rook"]
+
+1. e4 Nf6 2. e5 Nd5 3. Nc3 Nxc3 4. bxc3 d6 5. f4 g6 6. Nf3 Bg7 7. d4 O-O 8.
+Bd3 c5 9. O-O Qc7 10. Be3 cxd4 11. cxd4 Bg4 12. h3 Bxf3 13. Qxf3 Nc6 14.
+Rab1 f5 15. exf6 Rxf6 16. f5 e6 17. Bg5 Rf7 18. c3 gxf5 19. g4 Kh8 20. gxf5
+Rg8 21. Kh1 exf5 22. h4 Rgf8 23. Rb5 Nd8 24. Rxf5 Rxf5 25. Bxf5 Qc6 26. d5
+Qxc3 27. Be7 Qxf3+ 28. Rxf3 Re8 29. Bxd6 Re1+ 30. Kg2 Bf6 31. Bxh7 Bxh4 32.
+Bd3 Kg7 33. Bf8+ Kg8 34. Bb4 Rc1 35. Rf4 Be1 36. Ba3 Rd1 37. Be2 1-0
+

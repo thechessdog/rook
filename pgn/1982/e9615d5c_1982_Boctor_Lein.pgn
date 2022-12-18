@@ -1,0 +1,18 @@
+[Event "Texas"]
+[Site "Texas"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Boctor"]
+[Black "Lein, Anatoly"]
+[Result "0-1"]
+[ECO "B06"]
+[Opening "Robatsch (modern) defence"]
+[HashCode "e9615d5c"]
+[Epoch "Rook"]
+[BlackID "2000270"]
+[BlackCountry "USA"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. Be2 Nf6 5. Bg5 c6 6. Qd2 Nbd7 7. Nf3 h6 8. Bh4
+g5 9. Bg3 Nh5 10. O-O-O Qa5 11. Rhe1 Nb6 12. e5 Nxg3 13. hxg3 dxe5 14. Nxe5 Be6
+15. Bg4 Bxa2 16. Nxa2 Qxa2 17. Qb4 O-O 18. Qxe7 Qa1+ 19. Kd2 Qxb2 20. Nf3 Rad8
+0-1

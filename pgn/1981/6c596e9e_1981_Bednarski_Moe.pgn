@@ -1,0 +1,24 @@
+[Event "Politiken Cup"]
+[Site "Copenhagen"]
+[Date "1981.01.01"]
+[Round "10"]
+[White "Bednarski, Jacek B"]
+[Black "Moe, Mogens"]
+[Result "0-1"]
+[ECO "B31"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (with ...g6, without ...d6)"]
+[HashCode "6c596e9e"]
+[Epoch "Rook"]
+[BlackID "1400550"]
+[BlackCountry "DEN"]
+[WhiteCountry "POL"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. c3 Qb6 6. Na3 a6 7. Ba4 Qa7 8. d4
+cxd4 9. cxd4 Nxd4 10. Be3 Nxf3+ 11. gxf3 Qb8 12. Nc4 b5 13. Nb6 Bxb2 14. Bb3
+Nf6 15. Bxf7+ Kxf7 16. Qb3+ d5 17. Qxb2 dxe4 18. Nxa8 exf3 19. Rac1 Qxa8 20.
+Qe5 Be6 21. Rfe1 Qd5 22. Qxd5 Nxd5 23. Rc6 Ra8 24. Bg5 Bf5 25. h4 e6 26. Kh2 h5
+27. Kg3 Bg4 28. a3 a5 29. Rd6 Ra7 30. Rc1 b4 31. axb4 axb4 32. Rc8 Ne7 33. Bxe7
+Kxe7 34. Rb6 Ra1 35. Rc7+ Kf6 36. Rc4 Rg1+ 37. Kf4 Rh1 38. Rcxb4 Rxh4 39. Ke3
+Rh1 40. Rf4+ Kg5 41. Rb5+ Kh4 42. Rf6 g5 43. Rb2 Re1+ 44. Kd2 Re2+ 45. Kc1 Rxb2
+46. Kxb2 Kh3 0-1

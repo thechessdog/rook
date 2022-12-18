@@ -1,0 +1,16 @@
+[Event "corr CCLA"]
+[Site "corr CCLA"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Klass"]
+[Black "Koshinitsky"]
+[Result "1-0"]
+[ECO "C05"]
+[Opening "French"]
+[Variation "Tarrasch, Botvinnik variation"]
+[HashCode "33ce24ab"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Bd3 b6 6. c3 c5 7. Ne2 Ba6 8.
+Bb1 Nc6 9. Nf3 Rc8 10. O-O Qc7 11. Bf4 1-0
+

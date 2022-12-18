@@ -1,0 +1,22 @@
+[Event "Plauen"]
+[Site "Plauen"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Mobius"]
+[Black "Knaak, Rainer"]
+[Result "0-1"]
+[ECO "A48"]
+[Opening "King's Indian"]
+[Variation "Torre attack"]
+[HashCode "eb4fc631"]
+[Epoch "Rook"]
+[BlackID "4611250"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. Nf3 g6 3. Bg5 Bg7 4. e3 O-O 5. Be2 d6 6. O-O h6 7. Bh4 c5 8. Nbd2
+Nc6 9. h3 g5 10. Bg3 Bf5 11. d5 Nb4 12. c4 Bh7 13. Ne1 e5 14. dxe6 fxe6 15. a3
+Nc6 16. Bd3 Bxd3 17. Nxd3 Qe7 18. Qc2 Rad8 19. Rad1 Qf7 20. b4 Qg6 21. Ne1 Qh5
+22. bxc5 dxc5 23. Nef3 g4 24. hxg4 Qxg4 25. Ne5 Nxe5 26. Bxe5 Qh5 27. Bg3 Qe2
+28. Rfe1 Qd3 29. Qa4 Qg6 30. Qxa7 Qc2 31. Qb6 Rxd2 32. Qxe6+ Kh8 33. Rxd2 Qxd2
+34. Rb1 Qc2 35. Rxb7 Qd1+ 36. Kh2 Ng4+ 37. Kh3 h5 38. Kh4 Bf6+ 39. Kxh5 Rg8 40.
+Bh4 Qh1 0-1

@@ -1,0 +1,28 @@
+[Event "DDR"]
+[Site "DDR"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Uhlmann, Wolfgang"]
+[Black "Sznapik, Aleksander"]
+[Result "1-0"]
+[ECO "E74"]
+[Opening "King's Indian"]
+[Variation "Averbakh, 6...c5"]
+[HashCode "f8994c9b"]
+[Epoch "Rook"]
+[WhiteID "4611284"]
+[WhiteCountry "GER"]
+[BlackID "1100050"]
+[BlackCountry "POL"]
+
+1. c4 Nf6 2. Nc3 g6 3. e4 d6 4. d4 Bg7 5. Be2 O-O 6. Bg5 c5 7. d5 h6 8. Bf4 Qb6
+9. Qd2 Kh7 10. h4 e5 11. dxe6 Bxe6 12. h5 g5 13. Bxd6 Rd8 14. Qc2 Kg8 15. Bxb8
+Raxb8 16. Nf3 Bg4 17. Nd2 Bxe2 18. Kxe2 Ng4 19. f3 Ne5 20. Nd5 Qa6 21. a4 Nc6
+22. Nb3 Rxd5 23. exd5 Re8+ 24. Kf1 Nb4 25. Qc1 Nd3 26. Qc2 Re3 27. Qd2 Bd4 28.
+Nxd4 cxd4 29. b3 Qf6 30. Rd1 g4 31. Qxd3 Rxd3 32. Rxd3 Qe5 33. fxg4 Qf4+ 34.
+Kg1 Qc1+ 35. Kh2 Qf4+ 36. Kh3 f5 37. Rg3 Kf7 38. Rd1 b6 39. Rdd3 Ke7 40. Rdf3
+fxg4+ 41. Rxg4 Qe5 42. Rff4 Qxh5+ 43. Rh4 Qd1 44. Rxd4 Qxb3+ 45. Kh2 Kd7 46.
+Rxh6 Qe3 47. Rhh4 Qe8 48. Rhf4 a5 49. Rde4 Qh5+ 50. Rh4 Qf5 51. Re6 Kc7 52.
+Rhh6 Qf4+ 53. Kh3 Qf5+ 54. g4 Qf1+ 55. Kh4 Qf2+ 56. Kh5 Qh2+ 57. Kg6 Qc2+ 58.
+Kg7 Qxa4 59. Rc6+ Kd7 60. Rhd6+ Ke7 61. Re6+ Kd7 62. g5 Qa1+ 63. Kf7 Qf1+ 64.
+Rf6 Qe2 65. Rfd6# 1-0

@@ -1,0 +1,23 @@
+[Event "corr FSM/BRD"]
+[Site "corr FSM/BRD"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Kern, Manfred"]
+[Black "Soltau, A."]
+[Result "1-0"]
+[ECO "D85"]
+[Opening "Gruenfeld"]
+[Variation "exchange variation"]
+[HashCode "d78dcdff"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Qb3 O-O
+8. Nf3 c5 9. d5 Nd7 10. Be3 b5 11. Rc1 Rb8 12. Qa3 Rb6 13. Qa5 Rb7 14. Qxd8
+Rxd8 15. c4 Nf6 16. Nd2 e6 17. dxe6 Bxe6 18. f3 Nd7 19. cxb5 Bxa2 20. Kf2
+Bd4 21. Rc2 Be6 22. Be2 Nb6 23. Rb1 Na4 24. Nc4 Nc3 25. Na5 Rb6 26. Nc6 Rd7
+27. Nxd4 cxd4 28. Bxd4 Rxd4 29. Rxc3 Rd2 30. Ke3 Ra2 31. Rd1 Rb7 32. Rdc1
+h5 33. h4 Rd7 34. R1c2 Ra5 35. Rc6 Ra1 36. Rc1 Ra3+ 37. Kf4 Ra2 38. Bf1 Ra4
+39. Ra6 Rb4 40. Rca1 Rd5 41. Kg3 Rd2 42. Rxa7 Bd7 43. Rb7 Be6 44. Kf4 Ba2
+45. Ra7 Be6 46. Ke5 Kg7 47. R1a6 Bb3 48. Rd6 Rf2 49. Bd3 Rxg2 50. Rd4 Rxd4
+51. Kxd4 Be6 52. Kc3 1-0
+

@@ -1,0 +1,17 @@
+[Event "Netherlands"]
+[Site "Netherlands"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Sibbing"]
+[Black "Van de Berkmortel"]
+[Result "0-1"]
+[ECO "B29"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rubinstein; Rubinstein counter-gambit"]
+[HashCode "d10862b6"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 Nf6 3. e5 Nd5 4. Nc3 e6 5. Nxd5 exd5 6. d4 Nc6 7. Bd3 d6 8.
+O-O Bg4 9. Re1 dxe5 10. Nxe5 Be6 11. Bb5 a6 12. Nxc6 Qd7 13. Ne5 Qxb5 14.
+Nxf7 Kxf7 15. Rxe6 Kxe6 16. Qg4+ Kf7 17. Qf5+ Ke8 18. Bg5 Qe2 0-1
+

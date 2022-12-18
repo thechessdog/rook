@@ -1,0 +1,24 @@
+[Event "Voerendaal"]
+[Site "Voerendaal"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Souren, E."]
+[Black "Kuipers, R."]
+[Result "0-1"]
+[ECO "A57"]
+[Opening "Benko gambit"]
+[Variation "Zaitsev system"]
+[HashCode "b2dc1ab1"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. Nc3 axb5 6. Nxb5 Qa5+ 7. Nc3 Ba6
+8. Bd2 Qc7 9. e4 Bxf1 10. Kxf1 d6 11. f3 g6 12. Nge2 Bg7 13. Qc1 Nbd7 14.
+Nb5 Qb6 15. Nec3 Ne5 16. b3 Nd3 17. Qb1 c4 18. Be1 Nxe1 19. Kxe1 Qe3+ 20.
+Kf1 Rc8 21. Qe1 Qd3+ 22. Qe2 Nxe4 23. fxe4 Bxc3 24. Qxd3 cxd3 25. Nxc3 Rxc3
+26. Kf2 Kd7 27. Ke3 Rhc8 28. Rhd1 d2+ 29. Kxd2 Rc2+ 30. Ke1 Rxg2 31. h4
+Rcc2 32. Kf1 Rh2 33. Kg1 Rxh4 34. Re1 Rhh2 35. a4 Rhg2+ 36. Kh1 Kc7 37.
+Rac1 Kb6 38. Rxc2 Rxc2 39. Rd1 Rc3 40. Rb1 Ka5 41. Kg2 f6 42. Kf2 h5 43.
+Ke2 g5 44. Kf2 h4 45. Kg2 g4 46. Kh2 Rc2+ 47. Kh1 g3 48. b4+ Kxa4 49. b5
+Rc8 50. Kg2 Rb8 51. b6 Ka5 52. Kh3 Rxb6 53. Rg1 f5 54. Kxh4 Rb4 55. Rxg3
+Rxe4+ 56. Kg5 Re5 0-1
+

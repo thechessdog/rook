@@ -1,0 +1,19 @@
+[Event "corr EU/M/GT"]
+[Site "corr EU/M/GT"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Van Meggelen, A."]
+[Black "Ekmark, R."]
+[Result "1-0"]
+[ECO "B99"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7...Be7 main line"]
+[HashCode "50b69f8c"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8.
+Qf3 Qc7 9. O-O-O Nbd7 10. g4 b5 11. Bxf6 Bxf6 12. g5 Be7 13. h4 Bb7 14. Bh3
+O-O 15. Bxe6 fxe6 16. Nxe6 Qc4 17. Nxf8 Rxf8 18. Qe3 Nc5 19. Rd4 Qe6 20.
+Re1 Qg4 21. f5 Qxh4 22. f6 gxf6 23. e5 Qh2 24. gxf6 Bxf6 25. exf6 Rxf6 26.
+Rg4+ Rg6 27. Qe8+ 1-0
+

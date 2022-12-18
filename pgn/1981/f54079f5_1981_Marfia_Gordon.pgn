@@ -1,0 +1,20 @@
+[Event "US op"]
+[Site "Palo Alto"]
+[Date "1981.??.??"]
+[Round "11"]
+[White "Marfia, Jim"]
+[Black "Gordon, Don"]
+[Result "1-0"]
+[ECO "E88"]
+[Opening "King's Indian"]
+[Variation "Saemisch, orthodox, 7.d5 c6"]
+[HashCode "f54079f5"]
+[Epoch "Rook"]
+
+1. c4 Nf6 2. Nc3 g6 3. e4 d6 4. d4 Bg7 5. f3 O-O 6. Be3 e5 7. d5 c6 8. Qd2
+Qe7 9. O-O-O Ne8 10. g4 f5 11. gxf5 gxf5 12. exf5 Bxf5 13. Nge2 Nd7 14. Ng3
+Bg6 15. Be2 Ndf6 16. Bg5 Qd7 17. h4 h5 18. Bd3 Bxd3 19. Qxd3 c5 20. Nf5 e4
+21. fxe4 Ng4 22. Ne7+ Kf7 23. e5 Nxe5 24. Rhf1+ Nf6 25. Rxf6+ Bxf6 26. Qh7+
+Ke8 27. Bxf6 Rxf6 28. Ng8 Rf5 29. Qh8 Rd8 30. Nf6+ Kf7 31. Qh7+ Kxf6 32.
+Ne4# 1-0
+

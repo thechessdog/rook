@@ -1,0 +1,22 @@
+[Event "corr BDF/H"]
+[Site "corr BDF/H"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Bonnmann, R."]
+[Black "Schupp, A."]
+[Result "1-0"]
+[ECO "A82"]
+[Opening "Dutch"]
+[Variation "Staunton gambit"]
+[HashCode "d9f50468"]
+[Epoch "Rook"]
+
+1. d4 f5 2. e4 fxe4 3. Nc3 Nf6 4. f3 d5 5. fxe4 dxe4 6. Bg5 g6 7. Bc4 Bg7
+8. Nge2 Nbd7 9. Qd2 Nb6 10. Bb3 a5 11. Nf4 Bf5 12. Be6 Qd6 13. Nb5 Qc6 14.
+Qe2 Bxe6 15. Nxe6 Kf7 16. Nexc7 Rac8 17. Bf4 Nbd5 18. Nxd5 Qxd5 19. O-O Qc4
+20. Qxc4+ Rxc4 21. c3 h5 22. Rae1 h4 23. Be5 Kg8 24. Bxf6 Bxf6 25. Rxe4 Rc6
+26. a4 Rh5 27. Rf3 Rf5 28. Kf2 e6 29. Ke2 Kf7 30. Kd3 Bg5 31. c4 Bf6 32. b3
+b6 33. Ref4 Rxf4 34. Rxf4 g5 35. Rf2 Kg6 36. Rc2 g4 37. c5 bxc5 38. dxc5
+Be7 39. Kd4 Kf5 40. Na7 Rc7 41. c6 Bf6+ 42. Kd3 Be5 43. Nb5 Rc8 44. Rc5 Kf6
+45. h3 gxh3 46. gxh3 Bc7 47. Nxc7 Rxc7 48. Kc4 1-0
+

@@ -1,0 +1,21 @@
+[Event "DDR Tch5"]
+[Site "DDR Tch5"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Raetsch, H."]
+[Black "Gmende, G."]
+[Result "1-0"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical system, 5.Be2"]
+[HashCode "32e57c6f"]
+[Epoch "Rook"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. Nf3 Nf6 5. Be2 O-O 6. O-O c6 7. a4 a5 8. h3
+Na6 9. Be3 Nc7 10. Qd2 Re8 11. Bh6 Bh8 12. Rad1 d5 13. e5 Nh5 14. g4 Ng7
+15. Nh4 f5 16. Bxg7 Bxg7 17. gxf5 Bxf5 18. Nxf5 gxf5 19. f4 e6 20. Bh5 Re7
+21. Kh1 Kh8 22. Qf2 Rd7 23. Rd3 Bh6 24. Rg3 Rg7 25. Rxg7 Bxg7 26. Rg1 Qe7
+27. Qg3 Bh6 28. Nb1 c5 29. Nd2 cxd4 30. Nf3 Na6 31. Nxd4 Nc5 32. Bf3 Nxa4
+33. Nb5 Nxb2 34. Nd6 Nc4 35. Qh4 Qf8 36. Qxh6 Nxd6 37. Qxf8+ Rxf8 38. exd6
+Rd8 39. Bh5 Rxd6 40. Bf7 1-0
+

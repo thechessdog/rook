@@ -1,0 +1,18 @@
+[Event "Plymouth ch-MI op"]
+[Site "Plymouth ch-MI op"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Mason, D."]
+[Black "Alexander, J."]
+[Result "1-0"]
+[ECO "E04"]
+[Opening "Catalan"]
+[Variation "open, 5.Nf3"]
+[HashCode "eb6641ba"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Bg2 dxc4 5. Nf3 c5 6. O-O Nc6 7. Na3 Be7 8.
+dxc5 Qxd1 9. Rxd1 Bxc5 10. Nxc4 Ne4 11. Be3 Bxe3 12. Nxe3 Ke7 13. Nd4 Nxd4
+14. Rxd4 Nc5 15. Rad1 Rb8 16. Nc4 b6 17. Ne5 Bb7 18. b4 f6 19. bxc5 Bxg2
+20. Rd7+ Ke8 21. Kxg2 fxe5 22. c6 1-0
+

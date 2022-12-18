@@ -1,0 +1,20 @@
+[Event "corr DDR-H"]
+[Site "corr DDR-H"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Beyer, G."]
+[Black "Strauss, W."]
+[Result "0-1"]
+[ECO "E78"]
+[Opening "King's Indian"]
+[Variation "Four pawns attack, with Be2 and Nf3"]
+[HashCode "fc631565"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f4 O-O 6. Nf3 c5 7. Be2 cxd4 8.
+Nxd4 Bg4 9. Be3 Qc8 10. O-O Bxe2 11. Qxe2 Ng4 12. Nd5 Re8 13. f5 Nxe3 14.
+Qxe3 Qc5 15. Rad1 Nc6 16. Nxc6 Qxe3+ 17. Nxe3 bxc6 18. b3 a5 19. Ng4 h5 20.
+f6 hxg4 21. fxg7 Kxg7 22. Rf4 Reb8 23. Rdf1 f6 24. Rxg4 a4 25. Rb1 Rb4 26.
+Rg3 Rab8 27. Rc3 f5 28. c5 axb3 29. axb3 fxe4 30. cxd6 exd6 31. Rxc6 d5 32.
+Rd1 d4 33. Rc7+ Kf6 34. Rf1+ Ke6 35. Rc6+ Kd5 36. Rxg6 Rxb3 37. Rc1 Rc3 0-1
+

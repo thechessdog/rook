@@ -1,0 +1,20 @@
+[Event "Montreal zt"]
+[Site "Montreal zt"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Spraggett, Kevin"]
+[Black "Taylor, Gordon"]
+[Result "1-0"]
+[ECO "E47"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 O-O, 5.Bd3"]
+[HashCode "cccfbf9d"]
+[Epoch "Rook"]
+[WhiteID "2600013"]
+[WhiteCountry "CAN"]
+[BlackID "2600250"]
+[BlackCountry "CAN"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 c5 6. Ne2 cxd4 7. exd4 d5 8. O-O
+b6 9. Bg5 Be7 10. Qc2 Nbd7 11. cxd5 exd5 12. Ng3 h6 13. Bf4 Nb8 14. Rad1 Ba6
+15. Nb5 Qd7 16. Nc7 Rc8 17. Bf5 1-0

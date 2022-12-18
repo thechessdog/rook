@@ -1,0 +1,16 @@
+[Event "corr DDR-H"]
+[Site "corr DDR-H"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Jueptner, K."]
+[Black "Stammberger, S."]
+[Result "1-0"]
+[ECO "B01"]
+[Opening "Scandinavian"]
+[Variation "Anderssen counter-attack, Collijn variation"]
+[HashCode "3a8aaad9"]
+[Epoch "Rook"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qa5 4. d4 e5 5. Nf3 Bg4 6. Bd2 c6 7. dxe5 Nd7
+8. Nb5 Qb6 9. Nd6+ Bxd6 10. exd6 Bxf3 11. Qxf3 Ne5 12. Qc3 Kd7 13. Be3 1-0
+

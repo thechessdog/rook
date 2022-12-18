@@ -1,0 +1,21 @@
+[Event "corr NLD/M"]
+[Site "corr NLD/M"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Vlugt"]
+[Black "Timmerman"]
+[Result "0-1"]
+[ECO "E56"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line with 7...Nc6"]
+[HashCode "3c521360"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 c5 7. O-O Nc6 8.
+dxc5 Bxc5 9. a3 a6 10. b4 Ba7 11. Bb2 dxc4 12. Bxc4 b5 13. Bd3 Bb7 14. Qe2
+Qe7 15. Rac1 Rac8 16. Rfd1 Rfd8 17. Ng5 Ne5 18. Nxh7 Rxd3 19. Nxf6+ Qxf6
+20. Rxd3 Nf3+ 21. Kf1 Nxh2+ 22. Ke1 Bxg2 23. f4 Qh4+ 24. Kd2 Bf3 25. Qe1
+Qh3 26. Ne2 Rxc1 27. Kxc1 Bd5 28. Qc3 f6 29. Qc8+ Kh7 30. Bd4 Bc4 31. Ng1
+Qg4 32. Rd2 Nf1 33. Bxa7 Nxd2 34. Kxd2 Qg2+ 35. Ne2 Qxe2+ 36. Kc1 Qe1+ 37.
+Kb2 Bd3 0-1
+

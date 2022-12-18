@@ -1,0 +1,19 @@
+[Event "Regionalliga Nord"]
+[Site "RLN 8081"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Schilhart, N."]
+[Black "Krause, Ullrich"]
+[Result "1-0"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, poisoned pawn variation"]
+[HashCode "98e0bf7d"]
+[Epoch "Rook"]
+[BlackID "4613058"]
+[BlackCountry "GER"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 Ne7 5. a3 Bxc3+ 6. bxc3 c5 7. Qg4 Qc7 8.
+Qxg7 Rg8 9. Qxh7 Nbc6 10. Nf3 cxd4 11. Kd1 Nxe5 12. Bf4 Qxc3 13. Nxe5 Qxa1+ 14.
+Bc1 Rf8 15. Bd3 Bd7 16. Ke2 Qc3 17. Re1 a6 18. Kf1 Rc8 19. Bh6 Bb5 20. Bxf8
+Bxd3+ 21. cxd3 Qxa3 22. Qxf7+ Kd8 23. Qxe6 Rc7 24. Nf7+ Ke8 25. Nd6+ 1-0

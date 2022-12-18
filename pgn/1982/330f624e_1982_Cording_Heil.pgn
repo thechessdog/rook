@@ -1,0 +1,20 @@
+[Event "Bundesliga 8182"]
+[Site "Duitsland tt"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Cording, Harm"]
+[Black "Heil, Siegfried"]
+[Result "1/2-1/2"]
+[ECO "C08"]
+[Opening "French"]
+[Variation "Tarrasch, open, 4.ed ed"]
+[HashCode "330f624e"]
+[Epoch "Rook"]
+[WhiteID "4602684"]
+[WhiteCountry "GER"]
+[BlackID "4600835"]
+[BlackCountry "GER"]
+
+1. d4 e6 2. e4 d5 3. Nd2 c5 4. exd5 exd5 5. Bb5+ Nc6 6. Ngf3 Bd6 7. dxc5 Bxc5
+8. O-O Ne7 9. Nb3 Bb6 10. Be3 Bxe3 11. Bxc6+ bxc6 12. fxe3 Bg4 13. Qd4 Bxf3 14.
+Rxf3 O-O 15. Nc5 Ng6 16. e4 1/2-1/2

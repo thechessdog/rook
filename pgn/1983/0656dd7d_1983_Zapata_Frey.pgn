@@ -1,0 +1,25 @@
+[Event "Bayamo"]
+[Site "Bayamo"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Zapata, Alonso"]
+[Black "Frey Beckman, Kenneth"]
+[Result "1-0"]
+[ECO "C92"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Flohr-Zaitsev system (Lenzerheide variation)"]
+[HashCode "0656dd7d"]
+[Epoch "Rook"]
+[WhiteID "4400011"]
+[WhiteCountry "COL"]
+[BlackCountry "MEX"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. h3 Bb7 10. d4 Re8 11. a4 Bf8 12. d5 Ne7 13. Bg5 Ng6 14. axb5 axb5 15.
+Rxa8 Bxa8 16. Na3 c6 17. dxc6 Bxc6 18. Nc2 Qa8 19. Bxf6 gxf6 20. Nb4 Bxe4 21.
+Bd5 Bxd5 22. Nxd5 Re6 23. Nc7 Qc6 24. Nxe6 fxe6 25. h4 d5 26. h5 Ne7 27. Qa1
+Qb6 28. Qa8 b4 29. Nh2 bxc3 30. bxc3 Qc6 31. Qa5 Qc4 32. Rb1 Qh4 33. Qa6 Kf7
+34. Rb6 Qxh5 35. Rxe6 Qf5 36. Rb6 e4 37. Qe2 Bh6 38. Ng4 Bg5 39. Rb5 Qe6 40.
+Ne3 Kg6 41. Rb7 f5 42. Qb5 Bf6 43. Qe8+ Kg5 44. Rd7 Qe5 45. g3 f4 46. gxf4+
+Kxf4 47. Qf7 Qg5+ 48. Kf1 Ke5 49. Rxd5+ Nxd5 50. Qxd5+ Kf4 51. Ng2+ Kg4 52.
+Qxe4+ Kh5 53. Qxh7+ Kg4 54. Qe4+ Kh3 55. Ne3 Kh2 56. Qh7+ 1-0

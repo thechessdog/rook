@@ -1,0 +1,16 @@
+[Event "Winston"]
+[Site "Winston"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Fix"]
+[Black "Shahin"]
+[Result "0-1"]
+[ECO "B34"]
+[Opening "Sicilian"]
+[Variation "accelerated fianchetto, modern variation"]
+[HashCode "58b6a89f"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6 5. Nc3 Bg7 6. Be3 Nf6 7. f3 Qb6
+8. Qd2 Nxe4 9. Nxc6 Qxb2 10. Nxe4 Qxa1+ 11. Qc1 Qxc1+ 12. Bxc1 dxc6 0-1
+

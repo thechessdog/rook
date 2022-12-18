@@ -1,0 +1,22 @@
+[Event "Horsens"]
+[Site "Horsens"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Pedersen, Erik"]
+[Black "Nielsen, Jens"]
+[Result "1-0"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack"]
+[HashCode "f0fafb4a"]
+[Epoch "Rook"]
+[WhiteID "1404997"]
+[BlackID "1409310"]
+[WhiteCountry "DEN"]
+[BlackCountry "DEN"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 Nbd7 4. f3 e6 5. e4 Be7 6. Qd2 O-O 7. e5 Ne8 8. h4
+c5 9. O-O-O cxd4 10. Bxe7 Qxe7 11. Qxd4 f6 12. f4 Nb8 13. Nf3 Nc6 14. Qe3 Bd7
+15. Nd4 f5 16. h5 Rc8 17. Be2 Nc7 18. g4 Nxd4 19. Qxd4 b5 20. gxf5 Rxf5 21. Bd3
+b4 22. Ne2 Nb5 23. Qe3 Rff8 24. Bxb5 Bxb5 25. Nd4 Bc4 26. Qh3 Rxf4 27. Nxe6 Rf2
+28. Nd4 Rcf8 29. Qg3 Bxa2 30. Rhg1 b3 31. c3 a5 32. Rd2 Rxd2 33. Kxd2 a4 34.
+Ne6 Rf7 35. Ng5 Rf8 36. Qd3 g6 37. hxg6 hxg6 38. Qxg6+ Kh8 39. Nf7+ 1-0

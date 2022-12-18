@@ -1,0 +1,18 @@
+[Event "Silkeborg"]
+[Site "Silkeborg"]
+[Date "1983.01.01"]
+[Round "11"]
+[White "Brinck-Claussen, Bjorn"]
+[Black "Spassov, Liuben"]
+[Result "1/2-1/2"]
+[ECO "E32"]
+[Opening "Nimzo-Indian"]
+[Variation "classical variation"]
+[HashCode "2a3b73bf"]
+[Epoch "Rook"]
+[BlackID "2900220"]
+[WhiteCountry "DEN"]
+[BlackCountry "FID"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 b6 5. a3 Bxc3+ 6. Qxc3 Bb7 7. Nf3 d6 8. e3
+Nbd7 9. b4 a5 10. b5 O-O 11. Bb2 Ne4 12. Qc2 f5 1/2-1/2

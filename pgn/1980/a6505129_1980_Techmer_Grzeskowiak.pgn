@@ -1,0 +1,18 @@
+[Event "corr DFSM"]
+[Site "corr DFSM"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Techmer"]
+[Black "Grzeskowiak"]
+[Result "1-0"]
+[ECO "A34"]
+[Opening "English"]
+[Variation "symmetrical, three knights system"]
+[HashCode "a6505129"]
+[Epoch "Rook"]
+
+1. c4 Nf6 2. Nc3 c5 3. Nf3 d5 4. cxd5 Nxd5 5. g3 Nc6 6. Bg2 Nc7 7. O-O g6
+8. Na4 b6 9. d4 cxd4 10. Bf4 Bg7 11. Rc1 e5 12. Qc2 exf4 13. Qxc6+ Bd7 14.
+Qxc7 Bxa4 15. Qc4 Bd7 16. Nxd4 Rc8 17. Nc6 Qf6 18. Rfd1 Be6 19. Qb4 a5 20.
+Nxa5 Rxc1 21. Rxc1 Qe7 22. Qa4+ 1-0
+

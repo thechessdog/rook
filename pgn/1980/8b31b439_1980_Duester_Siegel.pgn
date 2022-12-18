@@ -1,0 +1,21 @@
+[Event "Mosbach Elo"]
+[Site "Mosbach Elo"]
+[Date "1980.01.01"]
+[Round "8"]
+[White "Duester, Thomas"]
+[Black "Siegel, Georg"]
+[Result "0-1"]
+[ECO "B01"]
+[Opening "Scandinavian"]
+[Variation "Marshall variation"]
+[HashCode "8b31b439"]
+[Epoch "Rook"]
+[BlackID "4604237"]
+[BlackCountry "GER"]
+
+1. e4 d5 2. exd5 Nf6 3. d4 Nxd5 4. Nf3 Nb6 5. h3 Bf5 6. Be2 e6 7. O-O Be7 8.
+Re1 O-O 9. Nbd2 c5 10. c3 Nc6 11. dxc5 Bxc5 12. Nb3 Be7 13. Bf4 Nd5 14. Bg3 Qb6
+15. Nbd4 Nxd4 16. Nxd4 Bg6 17. Qb3 Rfd8 18. Bf3 Rd7 19. Rad1 Rad8 20. Nb5 a6
+21. Nd4 Bc5 22. Qxb6 Bxb6 23. Nb3 a5 24. Nd4 a4 25. Nb5 Bc5 26. Kf1 a3 27. bxa3
+Bc2 28. Rc1 Ba4 29. Rb1 Nb6 30. Nd4 Nc4 31. Bf4 e5 32. Bxe5 Nd2+ 33. Kg1 Nxb1
+34. Rxb1 b6 35. Nf5 Bc2 0-1

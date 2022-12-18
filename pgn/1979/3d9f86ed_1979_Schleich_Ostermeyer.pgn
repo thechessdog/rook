@@ -1,0 +1,18 @@
+[Event "GER-W chT 7879"]
+[Site "Germany"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Schleich, Theo"]
+[Black "Ostermeyer, Peter, Dr."]
+[Result "0-1"]
+[ECO "C63"]
+[Opening "Ruy Lopez"]
+[Variation "Schliemann defence, Berger variation"]
+[HashCode "3d9f86ed"]
+[Epoch "Rook"]
+[BlackID "4600355"]
+[BlackCountry "GER"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 f5 4. Nc3 Nd4 5. Ba4 Bc5 6. O-O Nf6 7. exf5 O-O 8.
+Nxe5 d5 9. Ne2 Qd6 10. Nxd4 Bxd4 11. Nf3 Ng4 12. h3 Bxf5 13. c3 Be4 14. hxg4
+Bxf3 15. gxf3 Qg3+ 16. Kh1 Qh3+ 17. Kg1 Be5 0-1

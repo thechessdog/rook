@@ -1,0 +1,20 @@
+[Event "Bagneaux"]
+[Site "Bagneaux"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Solades"]
+[Black "Kristensen, Bjarke Hautop"]
+[Result "0-1"]
+[ECO "B15"]
+[Opening "Caro-Kann"]
+[Variation "Tartakower (Nimzovich) variation"]
+[HashCode "a56dd01c"]
+[Epoch "Rook"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ exf6 6. Nf3 Be7 7. Bd3 O-O
+8. h3 Nd7 9. O-O Re8 10. Re1 Nf8 11. Bf4 Be6 12. c4 Qd7 13. Qc2 Rad8 14. Rad1
+Qc8 15. a3 g5 16. Bc1 Ng6 17. Nh2 Bd6 18. d5 cxd5 19. cxd5 Bxh3 20. Rxe8+ Rxe8
+21. gxh3 Qxh3 22. f3 Nh4 23. f4 Nf3+ 24. Nxf3 Bc5+ 25. Qxc5 Qg3+ 26. Kh1 Qxf3+
+27. Kh2 Qxd1 28. Bb5 Qh5+ 29. Kg3 Qh4+ 30. Kg2 Qg4+ 31. Kf2 Rc8 32. Qe3 Qh4+
+33. Ke2 Qh2+ 34. Kf3 Qh1+ 35. Kg4 h5+ 36. Kf5 Qxd5+ 37. Kxf6 Qd6+ 38. Kf5 Rc5+
+39. Qe5 Qg6# 0-1

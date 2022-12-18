@@ -1,0 +1,20 @@
+[Event "Tuzla"]
+[Site "Tuzla"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Dizdar, Goran"]
+[Black "Vukic, Milan"]
+[Result "1/2-1/2"]
+[ECO "A05"]
+[Opening "Reti"]
+[Variation "King's Indian attack"]
+[HashCode "b6eb82f5"]
+[Epoch "Rook"]
+[BlackID "900273"]
+[BlackCountry "BIH"]
+[WhiteID "14500124"]
+[WhiteCountry "CRO"]
+
+1. Nf3 Nf6 2. g3 g6 3. b3 Bg7 4. Bb2 d6 5. d4 c5 6. Bg2 cxd4 7. Nxd4 d5 8. O-O
+O-O 9. Na3 Re8 10. Nf3 Nc6 11. c4 dxc4 12. Nxc4 Bf5 13. Nd4 Be4 14. Bxe4 Nxd4
+15. Bxd4 Nxe4 16. Bxg7 Kxg7 1/2-1/2

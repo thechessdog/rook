@@ -1,0 +1,20 @@
+[Event "Bundesliga 8283"]
+[Site "Duitsland tt"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Troeger, Paul"]
+[Black "Stoll, Joachim"]
+[Result "1-0"]
+[ECO "A46"]
+[Opening "Queen's pawn"]
+[Variation "Torre attack"]
+[HashCode "be1033a2"]
+[Epoch "Rook"]
+[BlackCountry "GER"]
+[WhiteCountry "DEU"]
+
+1. d4 Nf6 2. Nf3 e6 3. Bg5 h6 4. Bh4 c5 5. e3 Qb6 6. Qc1 Nc6 7. c3 d5 8. Nbd2
+Bd7 9. Be2 cxd4 10. exd4 Nh5 11. Bg3 Nxg3 12. hxg3 O-O-O 13. Nf1 Bd6 14. Ne3
+Kb8 15. Qd2 Rc8 16. O-O g5 17. b4 f5 18. a4 f4 19. Ng4 fxg3 20. fxg3 Bxg3 21.
+b5 Na5 22. Nfe5 Qd8 23. Qd3 Bxe5 24. Nxe5 Be8 25. Qh3 Qe7 26. Bh5 Bxh5 27. Qxh5
+Rxc3 28. Ng6 Qe8 29. Qh2+ Ka8 30. Nxh8 Qxh8 31. Qe5 1-0

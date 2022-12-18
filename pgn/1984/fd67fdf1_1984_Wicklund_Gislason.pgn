@@ -1,0 +1,19 @@
+[Event "corr EU/M/GT"]
+[Site "corr EU/M/GT"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Wicklund, HG."]
+[Black "Gislason, B."]
+[Result "0-1"]
+[ECO "E47"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 O-O, 5.Bd3"]
+[HashCode "fd67fdf1"]
+[Epoch "Rook"]
+
+1. c4 Nf6 2. d4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 c5 6. Ne2 d5 7. a3 cxd4 8.
+axb4 dxc3 9. Nxc3 Nc6 10. b5 Ne5 11. c5 Nxd3+ 12. Qxd3 e5 13. O-O Be6 14.
+Ne2 Qc7 15. b4 e4 16. Qd4 Ng4 17. Ng3 Ne5 18. b6 axb6 19. cxb6 Qd6 20. Rxa8
+Rxa8 21. Bb2 f6 22. Nxe4 Qe7 23. Nc3 Qf7 24. Nb5 Ra2 25. Ra1 Rxa1+ 26. Bxa1
+Qg6 27. Kf1 Qb1+ 28. Ke2 Qc2+ 0-1
+

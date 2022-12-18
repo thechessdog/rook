@@ -1,0 +1,18 @@
+[Event "corr Wcup3"]
+[Site "corr Wcup3"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Portjanko"]
+[Black "Tomkowicz"]
+[Result "0-1"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (without ...d6)"]
+[HashCode "5eecfad8"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. d3 g6 6. Bd2 Bg7 7. Bc3 f6 8.
+Nbd2 e5 9. a4 a5 10. Nc4 Nh6 11. O-O Qc7 12. h3 Nf7 13. Nh2 b6 14. Bd2 Be6
+15. b3 O-O 16. f4 exf4 17. Bxf4 Qd8 18. Qd2 f5 19. Rae1 b5 20. exf5 Bxf5
+21. Nf3 bxc4 22. dxc4 h5 23. Kh1 Ra7 0-1
+

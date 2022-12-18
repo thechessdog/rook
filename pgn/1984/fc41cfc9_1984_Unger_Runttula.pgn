@@ -1,0 +1,18 @@
+[Event "corr DDR-USSR"]
+[Site "corr DDR-USSR"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Unger"]
+[Black "Runttula"]
+[Result "0-1"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "modern variation"]
+[HashCode "fc41cfc9"]
+[Epoch "Rook"]
+
+1. b3 e5 2. Bb2 Nc6 3. e3 Nf6 4. Bb5 d6 5. Ne2 Bd7 6. O-O a6 7. Bxc6 Bxc6
+8. d3 g6 9. c4 Bg7 10. e4 O-O 11. Nbc3 Bd7 12. h3 Nh5 13. g4 Qh4 14. gxh5
+Bxh3 15. Ng3 Bg4 16. Qe1 Bf3 17. Qe3 Qg4 18. h6 Bf6 19. Rfd1 Bg5 20. Qe1 f5
+21. exf5 gxf5 0-1
+

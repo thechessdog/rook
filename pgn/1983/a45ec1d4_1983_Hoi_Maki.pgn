@@ -1,0 +1,23 @@
+[Event "Nordic-tt"]
+[Site "Oslo"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Hoi, Carsten"]
+[Black "Maki, Veijo"]
+[Result "1-0"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical, h3 system"]
+[HashCode "a45ec1d4"]
+[Epoch "Rook"]
+[WhiteID "1400100"]
+[WhiteCountry "DEN"]
+[BlackID "500046"]
+[BlackCountry "FIN"]
+
+1. d4 Nf6 2. Nc3 g6 3. e4 d6 4. Nf3 Bg7 5. h3 O-O 6. Be3 c6 7. a4 a5 8. Be2 Qc7
+9. O-O Na6 10. Qd2 e5 11. Rad1 exd4 12. Bxd4 Re8 13. Bxa6 Rxa6 14. Rfe1 Be6 15.
+Qf4 Nh5 16. Qc1 Be5 17. Nxe5 dxe5 18. Be3 Raa8 19. g4 Ng7 20. b3 f6 21. f4 f5
+22. gxf5 gxf5 23. Kh2 Rf8 24. Rg1 Kh8 25. Bc5 Rfd8 26. Qa3 Rxd1 27. Nxd1 Rd8
+28. Be7 Rd2+ 29. Kh1 Nh5 30. Ne3 h6 31. Bf6+ Nxf6 32. Qf8+ Ng8 33. Nxf5 Rd7 34.
+Rg6 Kh7 35. Rxg8 1-0

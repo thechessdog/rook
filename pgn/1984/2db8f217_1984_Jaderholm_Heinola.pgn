@@ -1,0 +1,20 @@
+[Event "KankSK-EurSk"]
+[Site "KankSK-EurSk"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Jaderholm, Bo"]
+[Black "Heinola, Kari P."]
+[Result "0-1"]
+[ECO "B00"]
+[Opening "KP"]
+[Variation "Nimzovich defence"]
+[HashCode "2db8f217"]
+[Epoch "Rook"]
+[WhiteID "502731"]
+[BlackID "503495"]
+[WhiteCountry "FIN"]
+[BlackCountry "FIN"]
+
+1. e4 Nc6 2. Nf3 d5 3. exd5 Qxd5 4. Nc3 Qa5 5. Bb5 Bd7 6. d3 a6 7. Ba4 Nf6 8.
+Bd2 Qh5 9. Ng5 Qg6 10. Qf3 O-O-O 11. h3 Nd4 12. Qd1 h6 13. Nge4 Qxg2 14. Ng3
+Nf3+ 15. Ke2 Nd4+ 16. Ke3 h5 17. Rc1 g6 18. Nge4 Bh6+ 19. f4 Nf5# 0-1

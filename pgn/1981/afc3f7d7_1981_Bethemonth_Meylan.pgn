@@ -1,0 +1,20 @@
+[Event "Nice"]
+[Site "Nice"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Bethemonth"]
+[Black "Meylan"]
+[Result "0-1"]
+[ECO "A00"]
+[Opening "Polish (Sokolsky) opening"]
+[HashCode "afc3f7d7"]
+[Epoch "Rook"]
+
+1. b4 d5 2. Bb2 Nf6 3. e3 e6 4. b5 c5 5. Nf3 a6 6. a4 axb5 7. Bxb5+ Bd7 8.
+Nc3 Bd6 9. d3 O-O 10. Bxd7 Nbxd7 11. Nb5 Bb8 12. c4 e5 13. Qc2 e4 14. Nd2
+Ne5 15. Bxe5 exd3 16. Bxf6 dxc2 17. Bxd8 Rxd8 18. cxd5 Rxa4 19. O-O Rxa1
+20. Rxa1 Rxd5 21. Nf1 Rd1 22. Ra8 Rxf1+ 23. Kxf1 c1=Q+ 24. Ke2 Qc2+ 25. Kf3
+Qd1+ 26. Ke4 f5+ 27. Kxf5 Qd5+ 28. Kg4 Qxg2+ 29. Kh4 Qxf2+ 30. Kh3 Qxe3+
+31. Kg2 Qe2+ 32. Kh3 Qxh2+ 33. Kg4 Qe2+ 34. Kh3 Qf3+ 35. Kh4 Qf4+ 36. Kh5
+g6# 0-1
+

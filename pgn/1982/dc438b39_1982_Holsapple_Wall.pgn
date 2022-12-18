@@ -1,0 +1,17 @@
+[Event "Dayton,OH"]
+[Site "Dayton,OH"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Holsapple, Boyd"]
+[Black "Wall, Bill"]
+[Result "0-1"]
+[ECO "A00"]
+[Opening "Benko's opening"]
+[HashCode "dc438b39"]
+[Epoch "Rook"]
+[BlackCountry "USA"]
+[WhiteCountry "USA"]
+
+1. g3 g6 2. Bg2 Bg7 3. e4 d6 4. Ne2 Nf6 5. d4 O-O 6. Be3 c6 7. Nbc3 Na6 8. Qd2
+Qa5 9. h4 Bg4 10. Bh6 Bxh6 11. Qxh6 Bxe2 12. Kxe2 Nb4 13. Kd2 c5 14. a3 cxd4
+15. axb4 dxc3+ 16. Kxc3 Qe5+ 17. Kd3 Ng4 18. Qf4 Qxf4 19. gxf4 Nxf2+ 0-1

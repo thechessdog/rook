@@ -1,0 +1,28 @@
+[Event "Konex"]
+[Site "Buenos Aires"]
+[Date "1979.07.01"]
+[Round "3"]
+[White "Diez del Corral, Jesus"]
+[Black "Rubinetti, Jorge"]
+[Result "0-1"]
+[ECO "C77"]
+[Opening "Ruy Lopez"]
+[Variation "Anderssen variation"]
+[HashCode "6fc52c59"]
+[Epoch "Rook"]
+[BlackID "100161"]
+[BlackCountry "ARG"]
+[WhiteCountry "ESP"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. d3 d6 6. c3 Be7 7. Nbd2 O-O 8. O-O
+Nd7 9. Bc2 Bf6 10. b4 a5 11. b5 Ne7 12. Nc4 Ng6 13. d4 Re8 14. Be3 b6 15. Qd2
+Bb7 16. d5 h6 17. Rab1 Be7 18. h3 Bc8 19. Kh2 Nf6 20. g3 Rf8 21. Ng1 h5 22. f4
+h4 23. f5 hxg3+ 24. Kxg3 Nf4 25. Kh2 N6h5 26. Bd1 Bh4 27. Bxh5 Nxh5 28. Ne2 Kh7
+29. Rg1 Rh8 30. Bg5 Bxg5 31. Rxg5 Kg8 32. Rbg1 Kf8 33. Qe3 Qf6 34. Qf3 Qh6 35.
+Ne3 Bd7 36. a4 Ke7 37. R5g2 Rh7 38. Rd1 Nf6 39. Ng4 Nxg4+ 40. Rxg4 Rah8 41. Ng1
+g6 42. f6+ Kd8 43. Rg3 Qf4 44. Kg2 Rh4 45. Qxf4 Rxf4 46. Re1 Rxf6 47. Ree3 Rf4
+48. Nf3 Ke7 49. c4 Rh6 50. c5 bxc5 51. Nd2 Rhh4 52. Re2 Rh8 53. Nc4 Ra8 54.
+Rge3 Rh4 55. Rb2 Rhh8 56. Rg3 Rh4 57. Re3 Rhh8 58. Rg3 Ra7 59. Re2 Rh4 60. Ree3
+Ra8 61. Re2 Rah8 62. Nxa5 Bxh3+ 63. Kg1 Bg4 64. Nc6+ Kd7 65. Reg2 Rh1+ 66. Kf2
+Bh3 67. Rg1 Rh2+ 68. Ke3 Ra2 69. a5 Ra3+ 70. Kf2 Ra2+ 71. Ke3 Rh4 72. Rf3 f5
+73. Rxg6 f4+ 74. Kd3 Bf1+ 75. Kc3 Rhh2 0-1

@@ -1,0 +1,18 @@
+[Event "SSL ch Espoo"]
+[Site "SSL ch Espoo"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Turunen, Erkki O"]
+[Black "Kanko, Ilkka"]
+[Result "1-0"]
+[ECO "E52"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line with ...b6"]
+[HashCode "2a0988a1"]
+[Epoch "Rook"]
+[BlackID "500194"]
+[BlackCountry "FIN"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 b6 7. O-O Bb7 8. cxd5
+exd5 9. Ne5 a6 10. f4 Bd6 11. Qf3 Qe7 12. Bd2 Nbd7 13. Qh3 Rad8 14. Be1 Ne4 15.
+Bh4 Ndf6 16. Ng4 Qe6 17. Bxf6 gxf6 18. f5 Qe7 19. Bxe4 1-0

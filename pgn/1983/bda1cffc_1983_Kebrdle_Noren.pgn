@@ -1,0 +1,18 @@
+[Event "E Detroit Motor City op"]
+[Site "E Detroit Motor City op"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Kebrdle, Michael"]
+[Black "Noren, Kevin"]
+[Result "0-1"]
+[ECO "B00"]
+[Opening "KP"]
+[Variation "Nimzovich defence"]
+[HashCode "bda1cffc"]
+[Epoch "Rook"]
+[BlackID "2093170"]
+[BlackCountry "USA"]
+
+1. e4 Nc6 2. Nc3 e6 3. d4 d5 4. Nf3 Bb4 5. e5 Qd7 6. a3 Bf8 7. Bd3 b6 8. Ne2
+Bb7 9. c3 h5 10. Nf4 Nce7 11. Ng5 g6 12. Ngxe6 fxe6 13. Nxg6 Nxg6 14. Bxg6+ Kd8
+15. Bxh5 Ba6 16. h4 Kc8 17. Bg6 Qg7 18. Qg4 Kd7 19. Bh5 Rxh5 20. Qxh5 Qxg2 0-1

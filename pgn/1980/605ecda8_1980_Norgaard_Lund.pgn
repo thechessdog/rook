@@ -1,0 +1,22 @@
+[Event "Hillerod op"]
+[Site "Hillerod"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Norgaard, Jesper"]
+[Black "Lund, Flemming"]
+[Result "1-0"]
+[ECO "B68"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...a6 defence, 9...Be7"]
+[HashCode "605ecda8"]
+[Epoch "Rook"]
+[WhiteID "1400517"]
+[WhiteCountry "DEN"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd2 a6 8.
+O-O-O Bd7 9. f4 Be7 10. Bxf6 Bxf6 11. Nxc6 Bxc6 12. Bd3 Qa5 13. Rhe1 O-O 14.
+Kb1 Qc5 15. Ne2 Rfc8 16. g4 Qb6 17. c3 Ba4 18. Rc1 Bb5 19. g5 Be7 20. h4 Bc4
+21. Nd4 Qa5 22. Bxc4 Rxc4 23. f5 Qe5 24. Qe2 Rac8 25. fxe6 fxe6 26. Qg4 Kf7 27.
+Re2 Rxd4 28. cxd4 Rxc1+ 29. Kxc1 Qxd4 30. Qf4+ Ke8 31. Qe3 Qc4+ 32. Kb1 a5 33.
+Re1 Qb4 34. Qc3 Qb5 35. Rd1 Qe2 36. Qd3 Qf2 37. Qb5+ Kd8 38. Qxb7 Qxh4 39. Rc1
+Ke8 40. Qc8+ 1-0

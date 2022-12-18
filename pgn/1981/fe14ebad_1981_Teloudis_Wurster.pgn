@@ -1,0 +1,21 @@
+[Event "Regionalliga Nord"]
+[Site "RLN 8081"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Teloudis, Angelis"]
+[Black "Wurster, Axel"]
+[Result "1-0"]
+[ECO "C12"]
+[Opening "French"]
+[Variation "MacCutcheon, Lasker variation, 8...g6"]
+[HashCode "fe14ebad"]
+[Epoch "Rook"]
+[BlackID "12907766"]
+[BlackCountry "GER"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Bb4 5. e5 h6 6. Bd2 Bxc3 7. bxc3 Ne4 8. Qg4
+g6 9. Bd3 Nxd2 10. Kxd2 c5 11. Nf3 Nc6 12. Qf4 Qe7 13. dxc5 Qxc5 14. Nd4 Nxd4
+15. Qxd4 Qc7 16. Rab1 Bd7 17. f4 O-O 18. h4 Kg7 19. h5 Be8 20. Rh4 b6 21. Rbh1
+Rh8 22. R1h3 Qc5 23. Rg4 Rg8 24. Rhg3 Kh7 25. f5 exf5 26. Bxf5 Qxd4+ 27. cxd4
+Rd8 28. Ke3 Kg7 29. hxg6 f6 30. Kf4 fxe5+ 31. dxe5 Rf8 32. e6 Rf6 33. Rc3 Rd6
+34. Rc7+ Kg8 35. Ke5 1-0

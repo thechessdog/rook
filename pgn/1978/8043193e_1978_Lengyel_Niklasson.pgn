@@ -1,0 +1,19 @@
+[Event "Makarczyk mem+"]
+[Site "Makarczyk op"]
+[Date "1978.01.01"]
+[Round "2"]
+[White "Lengyel, Levente"]
+[Black "Niklasson, Christer"]
+[Result "1/2-1/2"]
+[ECO "A30"]
+[Opening "English"]
+[Variation "symmetrical variation"]
+[HashCode "8043193e"]
+[Epoch "Rook"]
+[BlackID "1700316"]
+[BlackCountry "SWE"]
+[WhiteCountry "HUN"]
+
+1. c4 c5 2. Nf3 Nf6 3. Nc3 b6 4. e4 d6 5. d4 cxd4 6. Nxd4 Bb7 7. f3 e6 8. Be2
+Be7 9. O-O O-O 10. Be3 Nbd7 11. Nc2 a6 12. Qd2 Qb8 13. Rfd1 Ra7 14. Bf1 Ba8 15.
+Rac1 Rc8 16. Bf2 Rac7 1/2-1/2

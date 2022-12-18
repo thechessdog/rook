@@ -1,0 +1,22 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Tolksdorf"]
+[Black "Griesbach"]
+[Result "1-0"]
+[ECO "B10"]
+[Opening "Caro-Kann"]
+[Variation "two knights variation"]
+[HashCode "89002d3c"]
+[Epoch "Rook"]
+
+1. e4 c6 2. Nf3 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. Ne5 Nd7 7. Nxg6
+hxg6 8. d4 e6 9. Be3 Ngf6 10. Bd3 Bd6 11. Qe2 Qc7 12. O-O-O O-O-O 13. Kb1
+Nd5 14. Bd2 N7f6 15. Bc4 Kb8 16. Qf3 Rd7 17. Bb3 Nf4 18. c4 g5 19. h3 Rhd8
+20. Bc1 Be7 21. h4 Ng6 22. hxg5 Ne8 23. Qxf7 Nf8 24. Rh8 Bxg5 25. Qh5 Bxc1
+26. Rxf8 Nf6 27. Rxf6 gxf6 28. Rxc1 Rxd4 29. c5 f5 30. Bxe6 Rd2 31. Qxf5
+Qg7 32. Qf4+ Ka8 33. Rc3 Qh7+ 34. Bf5 Qh2 35. Rc1 Qxg2 36. Ne4 Rd1 37. Rxd1
+Rxd1+ 38. Kc2 Rd8 39. Nd6 Qd5 40. Qe3 Rxd6 41. cxd6 Qxf5+ 42. Kc1 Qf7 43.
+Qd4 1-0
+

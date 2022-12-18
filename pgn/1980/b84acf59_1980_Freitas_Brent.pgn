@@ -1,0 +1,19 @@
+[Event "corr ASPC"]
+[Site "corr ASPC"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Freitas, D."]
+[Black "Brent, M."]
+[Result "0-1"]
+[ECO "C12"]
+[Opening "French"]
+[Variation "MacCutcheon, Chigorin variation"]
+[HashCode "b84acf59"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Bb4 5. e5 h6 6. exf6 hxg5 7. fxg7 Rg8
+8. Nf3 Rxg7 9. Ne5 Nd7 10. Qh5 Qe7 11. Qh8+ Qf8 12. Qxf8+ Nxf8 13. Bb5+ Bd7
+14. Bxd7+ Nxd7 15. Nxd7 Kxd7 16. O-O Rh8 17. Ne2 Rgh7 18. h3 g4 19. c3 Bd6
+20. f4 gxh3 21. g3 Rg8 22. Kh2 f6 23. Ng1 c5 24. dxc5 Bxc5 25. Nf3 Rhg7 26.
+b4 Bb6 27. Kxh3 Rxg3+ 28. Kh2 R3g7 0-1
+

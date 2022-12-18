@@ -1,0 +1,23 @@
+[Event "USCF Absolute"]
+[Site "USCF Absolute"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Van Dyck, C."]
+[Black "Haskins, R."]
+[Result "1-0"]
+[ECO "A31"]
+[Opening "English"]
+[Variation "symmetrical, Benoni formation"]
+[HashCode "f140dc73"]
+[Epoch "Rook"]
+
+1. c4 c5 2. Nf3 Nf6 3. d4 cxd4 4. Nxd4 g6 5. Nc3 d5 6. Bg5 dxc4 7. e3 Bg7
+8. Bxc4 O-O 9. O-O a6 10. Rc1 b5 11. Be2 Bb7 12. Bf3 Qb6 13. Bxb7 Qxb7 14.
+Qb3 Nc6 15. Bxf6 Bxf6 16. Nd5 Na5 17. Nxf6+ exf6 18. Qb4 Qb6 19. Rc3 Rfc8
+20. Rfc1 Rxc3 21. Rxc3 Qd8 22. h3 Nc4 23. b3 Ne5 24. Qc5 Qa5 25. a4 Rb8 26.
+axb5 axb5 27. Qc7 Qa8 28. Rc5 b4 29. Ra5 Qb7 30. Qd6 Qb6 31. Ra6 Qxd6 32.
+Rxd6 Rc8 33. Rxf6 Rc1+ 34. Kh2 Rc3 35. Rb6 Nd3 36. Kg3 Kg7 37. Rc6 Nc5 38.
+Kf3 Nxb3 39. Rxc3 Nd2+ 40. Ke2 bxc3 41. Kd3 h5 42. Ne2 Nb3 43. Nxc3 Nc5+
+44. Kd4 Nd7 45. Nd5 Kf8 46. e4 f6 47. f4 Kf7 48. h4 Ke6 49. f5+ Kf7 50. Nf4
+Ne5 51. Nxg6 1-0
+

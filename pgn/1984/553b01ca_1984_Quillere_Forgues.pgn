@@ -1,0 +1,16 @@
+[Event "Laval IV"]
+[Site "Laval IV"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Quillere, Laurent"]
+[Black "Forgues, Serge"]
+[Result "0-1"]
+[ECO "D07"]
+[Opening "QGD"]
+[Variation "Chigorin defence"]
+[HashCode "553b01ca"]
+[Epoch "Rook"]
+
+1. d4 d5 2. c4 Nc6 3. Nf3 Bg4 4. Qb3 dxc4 5. Qxb7 Bxf3 6. exf3 Nxd4 7. Qe4
+Nf6 8. Qb7 Nc2+ 9. Ke2 Qd3# 0-1
+

@@ -1,0 +1,21 @@
+[Event "Bela Crkva open"]
+[Site "Bela Crkva open"]
+[Date "1983.01.01"]
+[Round "5"]
+[White "Vukic, Milan"]
+[Black "Mirkovic, Slobodan"]
+[Result "1-0"]
+[ECO "E08"]
+[Opening "Catalan"]
+[Variation "closed, Qc2 & b3"]
+[HashCode "89777b20"]
+[Epoch "Rook"]
+[WhiteID "900273"]
+[WhiteCountry "BIH"]
+[BlackID "901202"]
+[BlackCountry "SRB"]
+
+1. Nf3 d5 2. c4 e6 3. g3 Nf6 4. Bg2 Be7 5. O-O O-O 6. d4 Nbd7 7. Qc2 c6 8. b3
+Re8 9. Bb2 Bd6 10. Nbd2 Qe7 11. e4 dxe4 12. Nxe4 Nxe4 13. Qxe4 c5 14. Rad1 Nf6
+15. Qc2 cxd4 16. Nxd4 a6 17. Nc6 bxc6 18. Bxc6 Rb8 19. Bxf6 gxf6 20. Bxe8 Bb7
+21. Bxf7+ Kxf7 22. c5 Be5 23. f4 Bc7 24. c6 Bb6+ 25. Kg2 1-0

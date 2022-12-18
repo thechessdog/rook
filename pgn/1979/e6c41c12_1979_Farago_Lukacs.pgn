@@ -1,0 +1,19 @@
+[Event "Lodz"]
+[Site "Lodz"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Farago, Ivan"]
+[Black "Lukacs, Peter"]
+[Result "1/2-1/2"]
+[ECO "A00"]
+[Opening "Benko's opening"]
+[HashCode "e6c41c12"]
+[Epoch "Rook"]
+[WhiteID "700134"]
+[BlackID "700142"]
+[WhiteCountry "HUN"]
+[BlackCountry "HUN"]
+
+1. g3 Nf6 2. Bg2 g6 3. b3 Bg7 4. Bb2 O-O 5. d3 d5 6. Nd2 c5 7. Ngf3 Nc6 8. Ne5
+Nxe5 9. Bxe5 b6 10. O-O Bb7 11. c4 Qd7 12. Qc2 Ne8 13. Bxg7 Nxg7 14. cxd5 Bxd5
+15. Bxd5 Qxd5 16. Qc4 Rad8 17. Qxd5 Rxd5 18. Nc4 1/2-1/2

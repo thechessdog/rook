@@ -1,0 +1,20 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Vita"]
+[Black "Cheli"]
+[Result "1-0"]
+[ECO "D00"]
+[Opening "Queen's pawn"]
+[Variation "Chigorin variation"]
+[HashCode "a39d3d42"]
+[Epoch "Rook"]
+
+1. Nc3 d5 2. d4 Nf6 3. Nf3 g6 4. Bf4 Bg7 5. Qd2 O-O 6. Ne5 c6 7. g3 Nbd7 8.
+O-O-O Nxe5 9. Bxe5 Ng4 10. Bxg7 Kxg7 11. e3 Qc7 12. f3 Nf6 13. g4 e5 14. g5
+Nh5 15. dxe5 Qxe5 16. f4 Qe7 17. Be2 Bf5 18. Bxh5 gxh5 19. Ne2 Bg6 20. Nd4
+f5 21. Nf3 Rad8 22. Qd4+ Kg8 23. Ne5 Qc7 24. Rhg1 Rfe8 25. Rg2 Qe7 26. Rgd2
+c5 27. Qa4 Bf7 28. a3 Rf8 29. c4 dxc4 30. Nxf7 Rxd2 31. Nh6+ Kh8 32. Rxd2
+Qxe3 33. Qxc4 1-0
+

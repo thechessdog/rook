@@ -1,0 +1,22 @@
+[Event "Sweden"]
+[Site "Sweden"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Hammar, Bengt"]
+[Black "Ornstein, Axel"]
+[Result "1-0"]
+[ECO "A46"]
+[Opening "Queen's pawn game"]
+[HashCode "7fc9a055"]
+[Epoch "Rook"]
+[BlackID "1700111"]
+[BlackCountry "SWE"]
+[WhiteID "1700391"]
+[WhiteCountry "SWE"]
+
+1. d4 Nf6 2. Nf3 e6 3. Bf4 b6 4. e3 Bb7 5. Nbd2 Be7 6. h3 c5 7. c3 O-O 8. Bd3
+cxd4 9. exd4 d6 10. O-O Nbd7 11. Re1 Re8 12. Bh2 Bf8 13. Qc2 Rc8 14. a4 a6 15.
+Ne4 Qc7 16. Nxf6+ Nxf6 17. Qe2 Ra8 18. Nd2 Ra7 19. Nc4 Bc6 20. Qf1 Rb8 21. Bg3
+Nh5 22. Bh2 Nf6 23. Bg3 Nd5 24. Ne3 b5 25. Nxd5 Bxd5 26. axb5 axb5 27. Rxa7
+Qxa7 28. Bxb5 Bxg2 29. Kxg2 Qb7+ 30. Kg1 Qxb5 31. Qxb5 Rxb5 32. b4 g6 33. Ra1
+Rb7 34. Ra6 Kg7 35. Rc6 1-0

@@ -1,0 +1,16 @@
+[Event "Netherlands"]
+[Site "Netherlands"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Ferleier"]
+[Black "Melisson"]
+[Result "1-0"]
+[ECO "C52"]
+[Opening "Evans gambit"]
+[Variation "compromised defence"]
+[HashCode "28b62af1"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 Bxb4 5. c3 Ba5 6. d4 exd4 7. O-O dxc3
+8. Qb3 Qf6 9. e5 Nxe5 10. Re1 d6 11. Qa4+ Kf8 12. Nxe5 1-0
+

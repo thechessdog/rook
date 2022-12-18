@@ -1,0 +1,23 @@
+[Event "Moscow"]
+[Site "Moscow"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Zaitsev, Igor A"]
+[Black "Westerinen, Heikki M.J."]
+[Result "1-0"]
+[ECO "B02"]
+[Opening "Alekhine's defence"]
+[Variation "Saemisch attack"]
+[HashCode "3443c4ef"]
+[Epoch "Rook"]
+[WhiteID "4103017"]
+[WhiteCountry "RUS"]
+[BlackID "500020"]
+[BlackCountry "FIN"]
+
+1. e4 Nf6 2. e5 Nd5 3. Nc3 c6 4. d4 d6 5. f4 Bf5 6. Nxd5 cxd5 7. Nf3 Nc6 8. Bd3
+Bxd3 9. Qxd3 g6 10. O-O Bg7 11. Bd2 Qd7 12. Rae1 e6 13. Re2 O-O 14. c3 b5 15.
+g4 f6 16. exd6 Rab8 17. f5 exf5 18. gxf5 g5 19. h4 h6 20. hxg5 hxg5 21. Nh2
+Qxd6 22. Ng4 b4 23. Bxg5 Rbe8 24. Bf4 Qd7 25. Rg2 Kf7 26. Qf3 Rh8 27. Ne3 Ne7
+28. cxb4 Rh7 29. Rc1 Kg8 30. Rc7 Qb5 31. Bd6 Nxf5 32. Qxf5 Rxe3 33. Qxh7+ Kxh7
+34. Rcxg7+ 1-0

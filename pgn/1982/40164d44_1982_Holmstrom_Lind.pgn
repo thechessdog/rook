@@ -1,0 +1,18 @@
+[Event "corr Sweden"]
+[Site "corr Sweden"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Holmstrom"]
+[Black "Lind"]
+[Result "1-0"]
+[ECO "C07"]
+[Opening "French"]
+[Variation "Tarrasch, open variation"]
+[HashCode "40164d44"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. Ngf3 Nc6 5. Bb5 a6 6. exd5 axb5 7. dxc6 bxc6
+8. dxc5 Bxc5 9. O-O Qc7 10. Ne4 Be7 11. Re1 Nf6 12. Nxf6+ Bxf6 13. c3 Bb7
+14. Bg5 Bxg5 15. Nxg5 Qf4 16. Nxe6 fxe6 17. Rxe6+ Kf8 18. Qd7 Qf7 19. Qd6+
+Kg8 20. Re7 1-0
+

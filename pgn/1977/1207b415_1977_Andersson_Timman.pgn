@@ -1,0 +1,19 @@
+[Event "Geneve"]
+[Site "Geneve"]
+[Date "1977.01.01"]
+[Round "6"]
+[White "Andersson, Ulf"]
+[Black "Timman, Jan H"]
+[Result "1/2-1/2"]
+[ECO "A29"]
+[Opening "English"]
+[Variation "four knights, kingside fianchetto"]
+[HashCode "1207b415"]
+[Epoch "Rook"]
+[WhiteID "1700014"]
+[WhiteCountry "SWE"]
+[BlackID "1000012"]
+[BlackCountry "NED"]
+
+1. c4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. g3 Bc5 5. d3 h6 6. Bg2 d6 7. O-O a6 8. b3 O-O
+9. Bb2 Rb8 10. Qd2 Bd7 11. Nd5 Re8 12. e3 1/2-1/2

@@ -1,0 +1,19 @@
+[Event "Philidor Leiden"]
+[Site "Philidor Leiden"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Bakker"]
+[Black "Weyerstrass, Ronald"]
+[Result "1-0"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Wade variation"]
+[HashCode "538667b2"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Qb6 5. Nf3 Bd7 6. Bd3 Bb5 7. dxc5 Bxc5 8. O-O
+Bxd3 9. Qxd3 a5 10. c4 Qa6 11. b3 Ne7 12. Na3 Nd7 13. Nb5 Rc8 14. Bb2 Nb6 15.
+cxd5 Nexd5 16. a4 Nb4 17. Qe4 N6d5 18. Rad1 Qc6 19. Bd4 Qd7 20. Ng5 Be7 21.
+Nxh7 Rc6 22. Nd6+ Bxd6 23. exd6 f5 24. Qh4 Kf7 25. Nf6 Rxh4 26. Nxd7 Rxd6 27.
+Ne5+ Kg8 28. g3 Re4 29. Bc5 Rd8 30. Ng6 Re2 31. Nf4 Rb2 32. Nxe6 Re8 33. Nxg7
+Ree2 34. Nxf5 Rec2 35. Bd4 Rxb3 36. h4 Ra2 37. h5 Rxa4 38. Rfe1 Nc2 1-0

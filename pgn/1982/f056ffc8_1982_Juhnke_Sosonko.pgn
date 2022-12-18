@@ -1,0 +1,26 @@
+[Event "Bundesliga 8182"]
+[Site "Duitsland tt"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Juhnke, Karl"]
+[Black "Sosonko, Gennadi"]
+[Result "0-1"]
+[ECO "E41"]
+[Opening "Nimzo-Indian"]
+[Variation "e3, Huebner variation"]
+[HashCode "f056ffc8"]
+[Epoch "Rook"]
+[WhiteID "4602978"]
+[WhiteCountry "GER"]
+[BlackID "1000039"]
+[BlackCountry "NED"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 Nc6 6. Nf3 Bxc3+ 7. bxc3 d6 8. e4
+e5 9. d5 Ne7 10. Nd2 Qa5 11. Qb3 O-O 12. Nf1 Nh5 13. Ne3 Nf4 14. Bc2 f5 15. g3
+Nh3 16. exf5 Nxf5 17. Bxf5 Bxf5 18. Nxf5 Rxf5 19. Be3 Raf8 20. Rf1 Qc7 21. Rb1
+b6 22. Qc2 Qf7 23. a4 Qg6 24. Rb2 Qg4 25. Qe2 Rf3 26. a5 bxa5 27. Rb7 Qf5 28.
+Kd2 Ng5 29. Qd3 Ne4+ 30. Ke1 Nxg3 31. Qxf5 Nxf5 32. Rg1 Rh3 33. Rg2 g6 34. Kd2
+Rf7 35. Rb5 Nh4 36. Rg3 Rxh2 37. Rxa5 Nf5 38. Rf3 Rh4 39. Ra6 Rxc4 40. Rxf5
+gxf5 41. Kd3 Rg4 42. Rxd6 c4+ 43. Ke2 f4 44. Bc5 Rc7 45. Rd8+ Kf7 46. Bd6 Rb7
+47. Rf8+ Kg7 48. Kf3 Rg1 49. Rf5 Rf7 50. Rxe5 Kg6 51. Bc5 Rg5 52. Re6+ Rf6 53.
+Re7 Rxd5 54. Bd4 Rf7 55. Re6+ Kf5 0-1

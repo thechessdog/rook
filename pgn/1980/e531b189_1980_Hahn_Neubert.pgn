@@ -1,0 +1,17 @@
+[Event "corr ch10-DDR"]
+[Site "corr ch10-DDR"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Hahn, K."]
+[Black "Neubert, G."]
+[Result "0-1"]
+[ECO "C26"]
+[Opening "Vienna"]
+[Variation "Paulsen-Mieses variation"]
+[HashCode "e531b189"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nc3 Nf6 3. g3 Bc5 4. Bg2 Nc6 5. Nge2 d6 6. d3 Nd4 7. Nxd4 Bxd4
+8. Ne2 Bb6 9. h3 Be6 10. d4 Bc4 11. dxe5 dxe5 12. Qxd8+ Rxd8 13. a3 O-O 14.
+Nc3 a6 15. b3 Be6 16. O-O Bd4 17. Bd2 Rd6 18. Ra2 Rfd8 19. Bc1 0-1
+

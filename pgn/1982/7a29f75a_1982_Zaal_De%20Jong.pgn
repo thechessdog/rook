@@ -1,0 +1,18 @@
+[Event "Alkmaar open"]
+[Site "Alkmaar open"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Zaal, R."]
+[Black "De Jong, H."]
+[Result "0-1"]
+[ECO "B25"]
+[Opening "Sicilian"]
+[Variation "closed, 6.f4"]
+[HashCode "7a29f75a"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. f4 e6 7. Be3 Nge7 8. Qd2 a6
+9. Nd1 b5 10. c3 Qa5 11. Ne2 O-O 12. O-O Rb8 13. d4 c4 14. d5 exd5 15. exd5 Nd8
+16. Bd4 Nf5 17. Bxg7 Kxg7 18. Kh1 Nb7 19. Nd4 Nxd4 20. Qxd4+ Kg8 21. Re1 Nc5
+22. Nf2 Qc7 23. Re3 Bd7 24. Rae1 Rbe8 25. Qf6 Nd3 26. Nxd3 cxd3 27. Bf3 d2 28.
+Rxe8 Rxe8 29. Rxe8+ Bxe8 30. Qd4 Qc4 31. Qxd2 Qf1# 0-1

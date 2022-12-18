@@ -1,0 +1,21 @@
+[Event "Cirella di Diamante"]
+[Site "Cirella di Diamante"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Primavera, Roberto"]
+[Black "Jansa, Vlastimil"]
+[Result "0-1"]
+[ECO "B46"]
+[Opening "Sicilian"]
+[Variation "Taimanov variation"]
+[HashCode "e1fb3bce"]
+[Epoch "Rook"]
+[BlackID "300128"]
+[BlackCountry "CZE"]
+[WhiteID "800643"]
+[WhiteCountry "ITA"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 a6 6. Bf4 d6 7. Nf3 Qc7 8. Qd2
+Be7 9. O-O-O Ne5 10. Qd4 f6 11. Nd2 b5 12. Bg3 Nh6 13. f4 Nc6 14. Qe3 O-O 15.
+Bd3 Nb4 16. Be2 Bd7 17. a3 Nc6 18. Bf2 Rab8 19. g4 b4 20. axb4 Nxb4 21. Rhg1
+Qxc3 0-1

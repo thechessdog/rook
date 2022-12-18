@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Skrobek"]
+[Black "Konikowski"]
+[Result "1-0"]
+[ECO "C64"]
+[Opening "Ruy Lopez"]
+[Variation "classical defence, 4.c3"]
+[HashCode "2a6d1cc4"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. c3 d5 5. O-O dxe4 6. Nxe5 Qf6 7. d4 exd3
+8. Nd2 Ne7 9. Nxc6 Nxc6 10. Ne4 Qe7 11. Bg5 Qe5 12. Qh5 O-O 13. Bxd3 f5 14.
+Bc4+ Kh8 15. Nxc5 Qxc5 16. Bf7 Ne5 17. Rae1 Bd7 18. Rxe5 1-0
+

@@ -1,0 +1,27 @@
+[Event "Reykjavik op"]
+[Site "Reykjavik"]
+[Date "1984.01.01"]
+[Round "10"]
+[White "Hector, Jonny"]
+[Black "Burger, Karl"]
+[Result "0-1"]
+[ECO "B19"]
+[Opening "Caro-Kann"]
+[Variation "classical, Spassky variation"]
+[HashCode "23fa2fee"]
+[Epoch "Rook"]
+[WhiteID "1700090"]
+[WhiteCountry "SWE"]
+[BlackCountry "USA"]
+
+1. e4 c6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6 7. Nf3 Nd7 8. h5
+Bh7 9. Bd3 Bxd3 10. Qxd3 e6 11. Bd2 Qc7 12. Kf1 Ngf6 13. Re1 Bd6 14. Nf5 O-O
+15. Nxh6+ gxh6 16. Bxh6 Rfe8 17. g4 Kh8 18. g5 Ng4 19. Nh4 Nxh6 20. Ng6+ Kg7
+21. gxh6+ Kxh6 22. Qf3 f5 23. Qg2 Nf6 24. Ne7 Rg8 25. Nxg8+ Rxg8 26. Qf3 Ne4
+27. Ke2 Ng5 28. Qb3 Qb6 29. Kd3 Qxb3+ 30. axb3 Ne4 31. Rhf1 Rg2 32. f3 Ng5 33.
+c4 Rxb2 34. Kc3 Rh2 35. d5 cxd5 36. cxd5 e5 37. b4 Rh4 38. Rb1 b5 39. Rb3 Rc4+
+40. Kb2 Kxh5 41. Ra1 e4 42. fxe4 Be5+ 43. Ka2 Rc2+ 44. Kb1 Bxa1 45. Kxc2 Nxe4
+46. Kd3 Be5 47. Ra3 Bb8 48. Ra5 Nd6 49. Ra1 Nc4 50. Rg1 Bc7 51. Ke2 Nb6 52. Ra1
+Nxd5 53. Rxa7 Kg4 54. Ra1 Bb6 55. Ra8 Nxb4 56. Re8 Kf4 57. Kd2 Nd5 58. Kd3 Ba7
+59. Ra8 Bc5 60. Re8 Ne7 61. Rb8 b4 62. Kc4 Bd6 63. Rb5 Ke4 64. Rb6 Ke5 65. Rb5+
+Ke6 66. Rb6 Ng6 67. Kd4 Nf8 0-1

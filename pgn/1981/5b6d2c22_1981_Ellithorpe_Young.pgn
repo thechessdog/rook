@@ -1,0 +1,18 @@
+[Event "corr USA"]
+[Site "corr USA"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Ellithorpe"]
+[Black "Young"]
+[Result "0-1"]
+[ECO "D00"]
+[Opening "Queen's pawn"]
+[Variation "Chigorin variation"]
+[HashCode "5b6d2c22"]
+[Epoch "Rook"]
+
+1. Nc3 d5 2. d4 e6 3. Bf4 h6 4. e3 c5 5. dxc5 Bxc5 6. Nf3 Nc6 7. a3 Nge7 8.
+Bd3 f6 9. e4 d4 10. Ne2 e5 11. Bd2 Be6 12. O-O b5 13. Nh4 g6 14. Ng3 h5 15.
+Qf3 Kf7 16. h3 Qd7 17. Bg5 Ng8 18. b4 Bg4 19. hxg4 hxg4 20. Qe2 fxg5 21.
+Nxg6 Kxg6 22. bxc5 Qh7 23. f3 Qh2+ 0-1
+

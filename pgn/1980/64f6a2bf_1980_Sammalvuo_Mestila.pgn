@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Sammalvuo"]
+[Black "Mestila"]
+[Result "0-1"]
+[ECO "A22"]
+[Opening "English opening"]
+[HashCode "64f6a2bf"]
+[Epoch "Rook"]
+
+1. c4 Nf6 2. Nc3 e5 3. e4 Bc5 4. Nh3 d6 5. g3 O-O 6. d3 Bg4 7. Qb3 Bf3 8.
+Qxb7 c6 9. Rg1 a5 10. Qxa8 Qb6 11. Na4 Bb4+ 12. Nc3 Nbd7 13. Be3 Nc5 14.
+Qxf8+ Kxf8 15. a3 Bxc3+ 16. bxc3 Qb2 17. Bc1 Qxc3+ 18. Bd2 Qxa1+ 19. Bc1
+Qxc1# 0-1
+

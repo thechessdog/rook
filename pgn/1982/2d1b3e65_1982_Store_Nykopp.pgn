@@ -1,0 +1,18 @@
+[Event "Gausdal Int"]
+[Site "Gausdal"]
+[Date "1982.??.??"]
+[Round "7"]
+[White "Store, Thor"]
+[Black "Nykopp, Jan Michael F"]
+[Result "1-0"]
+[ECO "B20"]
+[Opening "Sicilian"]
+[Variation "Keres variation (2.Ne2)"]
+[HashCode "2d1b3e65"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Ne2 e6 3. d4 d5 4. exd5 exd5 5. Nbc3 Nc6 6. dxc5 d4 7. Ne4 Nf6
+8. Nd6+ Bxd6 9. cxd6 Qxd6 10. c3 Bg4 11. f3 Bf5 12. Nxd4 O-O-O 13. Be3 Qe5
+14. Kf2 Nd5 15. Qc1 Nxe3 16. Qxe3 Qxe3+ 17. Kxe3 Rhe8+ 18. Kf4 Nxd4 19.
+cxd4 Bd3 20. Bxd3 1-0
+

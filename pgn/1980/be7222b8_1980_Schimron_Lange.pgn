@@ -1,0 +1,24 @@
+[Event "corr DDR-M"]
+[Site "corr DDR-M"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Schimron, H."]
+[Black "Lange, A."]
+[Result "0-1"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "Indian variation"]
+[HashCode "be7222b8"]
+[Epoch "Rook"]
+
+1. b3 Nf6 2. Bb2 Nc6 3. e3 e5 4. Bb5 d6 5. Bxc6+ bxc6 6. Ne2 c5 7. c4 Bb7
+8. O-O g6 9. f4 Bg7 10. Ng3 O-O 11. Qc2 Nd7 12. Nc3 exf4 13. exf4 f5 14.
+Rae1 Nf6 15. h3 Qd7 16. Re3 Qc6 17. d3 Rae8 18. Rfe1 Rxe3 19. Rxe3 Bh6 20.
+Rf3 Qe8 21. Rf2 Qd7 22. Nf1 a6 23. Ne3 Nh5 24. Ne2 Bg7 25. Kh2 Nf6 26. Nc3
+Re8 27. Ned5 Nxd5 28. Nxd5 Bxd5 29. Bxg7 Qxg7 30. cxd5 Qd4 31. g3 Re1 32.
+Rg2 Re3 33. Rd2 Qxd5 34. Qc4 c6 35. d4 Qxc4 36. bxc4 Rc3 37. dxc5 dxc5 38.
+Rd6 Rxc4 39. Rxc6 Rc2+ 40. Kg1 Rxa2 41. Rxc5 Kg7 42. Rc7+ Kh6 43. g4 fxg4
+44. hxg4 Ra4 45. g5+ Kh5 46. Rxh7+ Kg4 47. Rh6 Kg3 48. Kf1 Rxf4+ 49. Ke2
+Re4+ 50. Kd3 Re6 51. Rh1 Re5 52. Rg1+ Kf4 53. Kd4 Rf5 54. Rg2 a5 55. Rg1
+Rb5 56. Rg2 Rxg5 57. Rf2+ Kg3 0-1
+

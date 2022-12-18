@@ -1,0 +1,20 @@
+[Event "corr ch11-DDR"]
+[Site "corr ch11-DDR"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Broberg, H."]
+[Black "Cherek, G."]
+[Result "1-0"]
+[ECO "B31"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (with ...g6, without ...d6)"]
+[HashCode "a9eb4797"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. Nc3 Nf6 6. Re1 O-O 7. e5 Ne8 8.
+Bxc6 bxc6 9. d3 Nc7 10. Ne4 Ne6 11. b3 d5 12. Neg5 Nc7 13. Nd2 f6 14. Ngf3
+fxe5 15. Nxe5 Qd6 16. Bb2 Nb5 17. h3 Bxh3 18. gxh3 Rf5 19. Qe2 Rg5+ 20. Kh1
+Rh5 21. Rab1 d4 22. Ndc4 Qd5+ 23. Qe4 Rf8 24. Ng4 Qg5 25. Qg2 Qh4 26. Qg3
+Qxh3+ 27. Qxh3 Rxh3+ 28. Kg2 Rhf3 29. Re2 R8f5 30. Rg1 Nc7 31. Bc1 Nd5 32.
+Bd2 e5 33. Ngxe5 Ne3+ 34. fxe3 Rg5+ 35. Kh1 1-0
+

@@ -1,0 +1,19 @@
+[Event "corr SWE/K"]
+[Site "corr SWE/K"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Akesson, Ralf"]
+[Black "Nordstrom, Eric"]
+[Result "0-1"]
+[ECO "B02"]
+[Opening "Alekhine's defence"]
+[Variation "two pawns' (Lasker's) attack"]
+[HashCode "2dfc5109"]
+[Epoch "Rook"]
+[WhiteID "1700120"]
+[WhiteCountry "SWE"]
+
+1. e4 Nf6 2. e5 Nd5 3. c4 Nb6 4. c5 Nd5 5. Bc4 c6 6. Nc3 d6 7. Nf3 dxc5 8. d4
+e6 9. Ne4 Nd7 10. O-O cxd4 11. Qxd4 Qb6 12. Qd1 Qc7 13. Re1 Nxe5 14. Bxd5 Nxf3+
+15. Qxf3 cxd5 16. Nc3 Be7 17. Bf4 Qd7 18. a4 O-O 19. Qg3 f6 20. Rad1 d4 21. Nb5
+e5 22. Rxd4 exd4 23. Nc7 Qxa4 24. Nd5 Bd8 0-1

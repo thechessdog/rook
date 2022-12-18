@@ -1,0 +1,21 @@
+[Event "DDR"]
+[Site "DDR"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Lenk"]
+[Black "Genov"]
+[Result "1-0"]
+[ECO "C10"]
+[Opening "French"]
+[Variation "Rubinstein variation"]
+[HashCode "8fed6cca"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Nxf6+ Nxf6 7. Be3
+Bd6 8. c4 c6 9. Bd3 b6 10. O-O Qc7 11. h3 c5 12. Bg5 Bb7 13. d5 O-O-O 14.
+dxe6 fxe6 15. Qe2 Rde8 16. Rfe1 e5 17. Bxf6 gxf6 18. Be4 Rhg8 19. Nh4 Rd8
+20. Nf5 Bxe4 21. Qxe4 Qb7 22. Qxb7+ Kxb7 23. Rad1 Bc7 24. Kf1 Rxd1 25. Rxd1
+Rd8 26. Rxd8 Bxd8 27. Ke2 Kc6 28. Kd3 Kd7 29. Ke4 Ke6 30. g4 Bc7 31. h4 Bd8
+32. h5 a6 33. a4 Bc7 34. f3 Bd8 35. h6 Bc7 36. Ng7+ Kd7 37. Kf5 Kc6 38. Ne6
+Bd6 39. Kxf6 b5 40. axb5+ axb5 41. b3 bxc4 42. bxc4 1-0
+

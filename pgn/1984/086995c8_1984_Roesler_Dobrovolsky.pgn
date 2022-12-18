@@ -1,0 +1,18 @@
+[Event "Dresden"]
+[Site "Dresden"]
+[Date "1984.??.??"]
+[Round "7"]
+[White "Roesler, Matthias, Dr."]
+[Black "Dobrovolsky, Ladislav"]
+[Result "1-0"]
+[ECO "B28"]
+[Opening "Sicilian"]
+[Variation "O'Kelly variation"]
+[HashCode "086995c8"]
+[Epoch "Rook"]
+[BlackID "300250"]
+[BlackCountry "CZE"]
+
+1. e4 c5 2. Nf3 a6 3. c3 d6 4. d4 Nd7 5. Bd3 b5 6. a4 c4 7. Bc2 Bb7 8. O-O e5
+9. Na3 Ngf6 10. Bg5 Qb6 11. Bxf6 Nxf6 12. axb5 axb5 13. Nxb5 Be7 14. Rxa8+ Bxa8
+15. Na3 Qxb2 16. Ba4+ Kf8 17. Nxc4 Qxc3 18. Qb1 1-0

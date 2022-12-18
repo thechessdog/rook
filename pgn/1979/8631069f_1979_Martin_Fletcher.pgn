@@ -1,0 +1,20 @@
+[Event "Washington"]
+[Site "Washington"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Martin, Pedro"]
+[Black "Fletcher, Matthew"]
+[Result "0-1"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra gambit"]
+[HashCode "8631069f"]
+[Epoch "Rook"]
+[WhiteID "108383"]
+[WhiteCountry "ARG"]
+
+1. e4 c5 2. d4 cxd4 3. c3 dxc3 4. Nxc3 d6 5. Nf3 e6 6. Bc4 a6 7. O-O b5 8. Bb3
+Bb7 9. Ng5 Be7 10. f4 Bxg5 11. fxg5 Ne7 12. Qh5 Ng6 13. Be3 b4 14. Na4 Bxe4 15.
+Rad1 O-O 16. Bc5 d5 17. Bxb4 Nd7 18. Bxf8 Qxf8 19. Nc3 Nc5 20. Kh1 Bd3 21. Rf2
+d4 22. Bc2 Bxc2 23. Rxc2 dxc3 24. Rxc3 Ne4 25. Rf3 Qc5 26. Rdf1 Qxg5 27. Qh3
+Ne5 0-1

@@ -1,0 +1,20 @@
+[Event "corr Wch9"]
+[Site "corr Wch9"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Anton, A."]
+[Black "Sorokin, G."]
+[Result "1-0"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Nimzovich (knight's tour) variation"]
+[HashCode "a80d1dde"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. Nd2 Bg7 8.
+Nc4 O-O 9. Bf4 Ne8 10. Qd2 b6 11. e3 Ba6 12. a4 Qe7 13. Nb5 Bxb5 14. axb5
+Nd7 15. h4 Be5 16. Bxe5 dxe5 17. d6 Qe6 18. h5 g5 19. e4 h6 20. f3 Ndf6 21.
+Nxb6 Rd8 22. Bc4 Qxd6 23. Qxd6 Rxd6 24. Nc8 Rd7 25. Ke2 Ng7 26. Nxa7 Nfxh5
+27. Ke3 Kh7 28. Nc6 f5 29. Rhd1 Rb7 30. Rd8 Rxd8 31. Nxd8 Rd7 32. Ra8 fxe4
+33. fxe4 Rd4 34. b6 1-0
+

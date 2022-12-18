@@ -1,0 +1,17 @@
+[Event "Tampere"]
+[Site "Tampere"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Salokangas, H."]
+[Black "Heinola, Kari P."]
+[Result "1/2-1/2"]
+[ECO "E18"]
+[Opening "Queen's Indian"]
+[Variation "old main line, 7.Nc3"]
+[HashCode "51fea3b9"]
+[Epoch "Rook"]
+[BlackID "503495"]
+[BlackCountry "FIN"]
+
+1. Nf3 Nf6 2. d4 e6 3. g3 b6 4. Bg2 Bb7 5. O-O Be7 6. c4 O-O 7. Nc3 Ne4 8. Qc2
+Nxc3 1/2-1/2

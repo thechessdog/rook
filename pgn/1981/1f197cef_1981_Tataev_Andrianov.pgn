@@ -1,0 +1,21 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Tataev, Marakh"]
+[Black "Andrianov, Nikolai"]
+[Result "0-1"]
+[ECO "E42"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5, 5.Ne2 (Rubinstein)"]
+[HashCode "1f197cef"]
+[Epoch "Rook"]
+[BlackID "4101642"]
+[BlackCountry "RUS"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Ne2 cxd4 6. exd4 d5 7. a3 Bxc3+ 8.
+Nxc3 dxc4 9. Bxc4 Nc6 10. Be3 O-O 11. O-O h6 12. Rc1 Ne7 13. Qf3 Bd7 14. Qxb7
+Bc6 15. Qb3 Rb8 16. Qc2 Nf5 17. Qd2 Qb6 18. b4 Rbd8 19. b5 Ba8 20. Rfd1 Ng4 21.
+Be2 Ngxe3 22. fxe3 e5 23. Na4 Qg6 24. Bd3 exd4 25. Qc2 Rc8 26. Qe2 dxe3 27.
+Rxc8 Rxc8 28. Bb1 Nd4 29. Bxg6 Nxe2+ 30. Kf1 Nf4 31. Bd3 Bxg2+ 32. Ke1 Bf3 33.
+Bf5 0-1

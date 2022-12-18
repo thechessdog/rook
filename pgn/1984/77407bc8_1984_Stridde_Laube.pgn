@@ -1,0 +1,19 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Stridde"]
+[Black "Laube, Rainer"]
+[Result "1-0"]
+[ECO "A18"]
+[Opening "English"]
+[Variation "Mikenas-Carls variation"]
+[HashCode "77407bc8"]
+[Epoch "Rook"]
+
+1. c4 Nf6 2. Nc3 e6 3. e4 d5 4. cxd5 exd5 5. e5 Ne4 6. d4 Bb4 7. Qa4+ Nc6
+8. Bb5 Bd7 9. Ne2 O-O 10. O-O Bxc3 11. bxc3 a6 12. Bxc6 Bxc6 13. Qc2 Bb5
+14. a4 Bc4 15. f3 Ng5 16. Rf2 Rc8 17. Ba3 Re8 18. Ng3 g6 19. f4 Ne6 20. f5
+Ng7 21. Re1 Qd7 22. h4 Kh8 23. Re3 gxf5 24. Nxf5 Nxf5 25. Qxf5 Qxf5 26.
+Rxf5 Rg8 27. Rxf7 Rg4 28. e6 Re4 29. e7 Re8 30. Rf8+ Kg7 31. Rg3+ 1-0
+

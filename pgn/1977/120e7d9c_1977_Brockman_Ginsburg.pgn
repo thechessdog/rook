@@ -1,0 +1,18 @@
+[Event "Columbus,OH"]
+[Site "Columbus,OH"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Brockman, R."]
+[Black "Ginsburg, Mark"]
+[Result "0-1"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...g6"]
+[HashCode "120e7d9c"]
+[Epoch "Rook"]
+[BlackID "2000563"]
+[BlackCountry "USA"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 g6 6. Bf4 a6 7. Bg5 Nbd7 8.
+cxd5 Bg7 9. d6 O-O 10. dxe7 Qxe7+ 11. Qe2 Qb4 12. O-O-O b5 13. Qd2 Bb7 14. Ne4
+Rac8+ 15. Nc3 Ne4 16. Qf4 Nxc3 0-1

@@ -1,0 +1,19 @@
+[Event "corr DDR/FS"]
+[Site "corr DDR/FS"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Linse"]
+[Black "Wuensche"]
+[Result "1-0"]
+[ECO "A34"]
+[Opening "English"]
+[Variation "symmetrical, three knights system"]
+[HashCode "64a298ef"]
+[Epoch "Rook"]
+
+1. c4 c5 2. Nf3 Nf6 3. Nc3 d5 4. cxd5 Nxd5 5. e3 Nc6 6. Bb5 Nb4 7. d4 Bd7
+8. dxc5 e6 9. a3 Nd5 10. Nxd5 exd5 11. b4 a5 12. Qxd5 axb4 13. Bxc6 bxc6
+14. Qe5+ Be6 15. axb4 Rxa1 16. Qxa1 Be7 17. Nd4 Bd5 18. O-O O-O 19. Bb2 f5
+20. Rd1 Qb8 21. Bc3 Rf6 22. Ne2 Rh6 23. g3 Bf3 24. Bxg7 Rg6 25. Bc3 Bxe2
+26. Qa2+ 1-0
+

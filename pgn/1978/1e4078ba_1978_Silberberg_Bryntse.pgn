@@ -1,0 +1,18 @@
+[Event "corr EUR/K"]
+[Site "corr EUR/K"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Silberberg, A."]
+[Black "Bryntse, Arne"]
+[Result "1-0"]
+[ECO "A86"]
+[Opening "Dutch with c4 & g3"]
+[HashCode "1e4078ba"]
+[Epoch "Rook"]
+
+1. d4 f5 2. c4 Nf6 3. g3 e5 4. dxe5 Ng4 5. Nf3 Bc5 6. Bg5 Qxg5 7. Nxg5
+Bxf2+ 8. Kd2 Be3+ 9. Kc3 Bxg5 10. e4 Nf2 11. Qe1 Nxe4+ 12. Kc2 Nc6 13. Bg2
+d6 14. h4 Be7 15. exd6 Bxd6 16. Nc3 Nd4+ 17. Kd3 Bxg3 18. Qf1 c5 19. Nxe4
+fxe4+ 20. Bxe4 Bg4 21. Qg2 Rd8 22. Bd5 Bf5+ 23. Kc3 Rd7 24. Rae1+ Bxe1+ 25.
+Rxe1+ Kd8 26. b4 b6 27. bxc5 bxc5 28. Bc6 Rc7 29. Ba4 1-0
+

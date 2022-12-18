@@ -1,0 +1,21 @@
+[Event "Bundesliga 8081"]
+[Site "Germany"]
+[Date "1981.??.??"]
+[Round "?"]
+[White "Kappe, R."]
+[Black "Rottstaedt, Werner"]
+[Result "1-0"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, dragon formation"]
+[HashCode "135c4878"]
+[Epoch "Rook"]
+[BlackID "4605543"]
+[BlackCountry "GER"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 c5 6. dxc5 Qa5 7. Bd3 Qxc5 8. Qe2
+Nc6 9. Be3 Qh5 10. O-O-O O-O 11. h3 Qa5 12. Bc4 Bd7 13. Bd2 Nh5 14. Nd5 Qd8 15.
+Qe3 e6 16. Nc3 Rc8 17. g4 Nf6 18. Be1 Ne8 19. Kb1 a6 20. h4 b5 21. Bb3 Na5 22.
+h5 Nc4 23. Bxc4 Rxc4 24. e5 Bc6 25. Rh2 b4 26. Ne2 Bxf3 27. Qxf3 Qc7 28. hxg6
+fxg6 29. Qh3 h6 30. exd6 Nxd6 31. Qd3 Nb5 32. Qxg6 Qf7 33. Rxh6 Rxc2 34. Qh7#
+1-0

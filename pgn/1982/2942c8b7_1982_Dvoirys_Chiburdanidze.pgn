@@ -1,0 +1,21 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Dvoirys, Semen I."]
+[Black "Chiburdanidze, Maia"]
+[Result "1-0"]
+[ECO "B93"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.f4"]
+[HashCode "2942c8b7"]
+[Epoch "Rook"]
+[BlackID "13600036"]
+[BlackCountry "GEO"]
+[WhiteID "4100379"]
+[WhiteCountry "RUS"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 Qc7 7. Be2 e5 8. Nf5
+Bxf5 9. exf5 exf4 10. Bxf4 Be7 11. Qd2 Nbd7 12. O-O-O Ne5 13. g4 h6 14. h4
+O-O-O 15. g5 hxg5 16. hxg5 Rxh1 17. Rxh1 Qc6 18. Rh3 Ne4 19. Nd5 Bf8 20. Qd4
+Nc5 21. Rc3 Qe8 22. b4 Nc6 23. Qxc5 Qxe2 24. Qb6 1-0

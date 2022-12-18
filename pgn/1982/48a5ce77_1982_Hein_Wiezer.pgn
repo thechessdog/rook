@@ -1,0 +1,19 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Hein, R."]
+[Black "Wiezer, S."]
+[Result "0-1"]
+[ECO "E41"]
+[Opening "Nimzo-Indian"]
+[Variation "e3, Huebner variation"]
+[HashCode "48a5ce77"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 Nc6 6. Nf3 Bxc3+ 7. bxc3 d6
+8. e4 e5 9. d5 Ne7 10. Nh4 h6 11. f3 Qa5 12. Qb3 g5 13. Nf5 Nxf5 14. exf5
+b6 15. g4 Bd7 16. h4 O-O-O 17. Kf2 Ba4 18. Qb2 Rhg8 19. hxg5 hxg5 20. Rh6
+Nd7 21. f6 e4 22. fxe4 Bd1 23. Be2 Ne5 24. Be3 Bxe2 25. Qxe2 Qxc3 26. Rc1
+Nd3+ 0-1
+

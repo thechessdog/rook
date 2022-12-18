@@ -1,0 +1,22 @@
+[Event "Snekkersten"]
+[Site "Snekkersten"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Schultz, Jesper"]
+[Black "Christensen, Stefan"]
+[Result "0-1"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Nimzovich variation"]
+[HashCode "38c5c2f9"]
+[Epoch "Rook"]
+[BlackID "1404148"]
+[BlackCountry "DEN"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. Qg4 cxd4 5. Nf3 f5 6. Qg3 Ne7 7. Bd3 Nec6 8. Nbd2
+Nd7 9. Nb3 Qc7 10. Bf4 Nc5 11. Nxc5 Bxc5 12. a3 a5 13. b3 Qe7 14. Bc1 b6 15.
+Bb5 Bd7 16. Bd3 Na7 17. O-O Bb5 18. b4 Bxd3 19. cxd3 axb4 20. axb4 Bxb4 21.
+Nxd4 O-O 22. Nc2 Nc6 23. Bg5 Qf7 24. Nxb4 Nxb4 25. Rab1 f4 26. Qh3 Ra4 27. d4
+h6 28. Bxf4 Qxf4 29. Qxe6+ Kh7 30. Qd7 Ra2 31. Qd6 Nd3 32. Qxd5 Rxf2 33. Rfd1
+Rf1+ 34. Rxf1 Qe3+ 35. Kh1 Rxf1+ 36. Rxf1 Nf2+ 37. Kg1 Nh3+ 38. Kh1 Qg1+ 39.
+Rxg1 Nf2# 0-1

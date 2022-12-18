@@ -1,0 +1,21 @@
+[Event "Nordic-tt"]
+[Site "Oslo"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Ziska, Bogi"]
+[Black "Kaiszauri, Konstanty"]
+[Result "0-1"]
+[ECO "B07"]
+[Opening "Pirc defence"]
+[HashCode "b2cf0f1d"]
+[Epoch "Rook"]
+[WhiteID "7200161"]
+[WhiteCountry "FAI"]
+[BlackID "1700510"]
+[BlackCountry "SWE"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f3 Nbd7 5. Be3 c6 6. Qd2 b5 7. h4 Bb7 8. Nh3 e5
+9. dxe5 dxe5 10. O-O-O Bc5 11. Bxc5 Nxc5 12. Qh6 Nfd7 13. Bxb5 cxb5 14. Nxb5
+Qa5 15. Nd6+ Ke7 16. Kb1 Rab8 17. Qg7 Rhf8 18. Ng5 Na4 19. Nc4 Nc3+ 20. bxc3
+Bd5+ 21. Kc1 Bxc4 22. Rxd7+ Kxd7 23. Nxh7 Qa3+ 24. Kd2 Qd6+ 25. Ke3 Qc5+ 26.
+Kd2 Qf2+ 0-1

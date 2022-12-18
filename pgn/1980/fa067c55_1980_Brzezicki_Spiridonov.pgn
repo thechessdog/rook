@@ -1,0 +1,21 @@
+[Event "Wroclaw-A"]
+[Site "Wroclaw"]
+[Date "1980.??.??"]
+[Round "2"]
+[White "Brzezicki, Donat"]
+[Black "Spiridonov, Nikola"]
+[Result "0-1"]
+[ECO "A48"]
+[Opening "King's Indian"]
+[Variation "Torre attack"]
+[HashCode "fa067c55"]
+[Epoch "Rook"]
+[WhiteID "1101129"]
+[BlackID "2900238"]
+[WhiteCountry "POL"]
+[BlackCountry "FID"]
+
+1. d4 Nf6 2. Nf3 g6 3. Bg5 Bg7 4. Nbd2 d5 5. e3 O-O 6. Be2 c5 7. c3 b6 8. b4 a5
+9. bxc5 bxc5 10. Bb5 a4 11. Rb1 Bf5 12. Rb2 Qa5 13. c4 Qc3 14. Qa1 Bd3 15. Rb1
+Ne4 16. Qxc3 Nxc3 17. Rb2 f6 18. Bf4 Rc8 19. a3 cxd4 20. exd4 Nxb5 21. Rxb5
+dxc4 22. Rb7 c3 23. Nf1 e6 24. h4 Nc6 25. N1h2 Na5 26. Rd7 Nb3 27. Ng4 c2 0-1

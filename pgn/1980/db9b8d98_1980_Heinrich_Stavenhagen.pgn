@@ -1,0 +1,20 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Heinrich"]
+[Black "Stavenhagen"]
+[Result "0-1"]
+[ECO "E39"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, Pirc variation"]
+[HashCode "db9b8d98"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 c5 5. dxc5 O-O 6. Bf4 Bxc5 7. e3 Nc6
+8. Nf3 b6 9. Be2 Bb7 10. O-O Nh5 11. Ng5 Nf6 12. Nce4 Nxe4 13. Nxe4 Nb4 14.
+Qb1 d5 15. Rd1 Qe7 16. Ng5 f5 17. a3 Na6 18. b4 Bd6 19. Bxd6 Qxd6 20. cxd5
+exd5 21. Nf3 Nc7 22. Nd4 f4 23. Nf5 Qe5 24. e4 Rxf5 25. exf5 Qxe2 26. Re1
+Qg4 27. Re7 f3 28. g3 Ba6 29. Qb3 Rc8 30. Qe3 Qxf5 31. Rc1 Bc4 32. Qd4 Ne6
+33. Qh4 Ng5 34. g4 Qf4 35. Rce1 Rf8 36. Qg3 Qxg3+ 0-1
+

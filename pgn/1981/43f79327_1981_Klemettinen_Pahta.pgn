@@ -1,0 +1,18 @@
+[Event "corr SM-E"]
+[Site "corr SM-E"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Klemettinen, Pentti"]
+[Black "Pahta, Pentti"]
+[Result "1-0"]
+[ECO "C83"]
+[Opening "Ruy Lopez"]
+[Variation "open, classical defence"]
+[HashCode "43f79327"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8.
+dxe5 Be6 9. c3 Be7 10. Be3 O-O 11. Nbd2 Na5 12. Nxe4 Nxb3 13. axb3 dxe4 14.
+Nd4 Bd7 15. b4 Qc8 16. Qc2 Qb7 17. f4 exf3 18. Rxf3 g6 19. Bh6 Rfd8 20.
+Rxf7 Bf8 21. Qb3 Bxh6 22. Re7+ 1-0
+

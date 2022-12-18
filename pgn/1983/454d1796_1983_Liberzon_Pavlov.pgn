@@ -1,0 +1,19 @@
+[Event "Netanya"]
+[Site "Netanya"]
+[Date "1983.01.01"]
+[Round "4"]
+[White "Liberzon, Vladimir M"]
+[Black "Pavlov, Mircea"]
+[Result "1/2-1/2"]
+[ECO "B67"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...a6 defence, 8...Bd7"]
+[HashCode "454d1796"]
+[Epoch "Rook"]
+[WhiteCountry "ISR"]
+[BlackID "1200160"]
+[BlackCountry "ROU"]
+
+1. e4 c5 2. Nf3 d6 3. d4 Nf6 4. Nc3 cxd4 5. Nxd4 Nc6 6. Bg5 e6 7. Qd2 a6 8.
+O-O-O Bd7 9. f4 h6 10. Bh4 b5 11. Qe1 Nxd4 12. Rxd4 Qb6 13. Bf2 Qa5 14. a3 Bc6
+15. Be2 Be7 16. Bf3 Qc7 1/2-1/2

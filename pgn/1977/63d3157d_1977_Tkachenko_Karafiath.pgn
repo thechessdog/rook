@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Tkachenko, V."]
+[Black "Karafiath, J."]
+[Result "1-0"]
+[ECO "E18"]
+[Opening "Queen's Indian"]
+[Variation "old main line, 7.Nc3"]
+[HashCode "63d3157d"]
+[Epoch "Rook"]
+[WhiteID "4150473"]
+[WhiteCountry "RUS"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2 Be7 6. O-O O-O 7. Nc3 Ne4 8. Qc2
+d5 9. cxd5 Nxc3 10. bxc3 exd5 11. Ne5 Qe8 12. Qb3 c6 13. e4 dxe4 14. Bxe4 Nd7
+15. Bf5 Nc5 16. Qc2 Ne6 17. Bxh7+ Kh8 18. Bf5 Kg8 19. Re1 1-0

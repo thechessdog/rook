@@ -1,0 +1,16 @@
+[Event "Dayton,OH"]
+[Site "Dayton,OH"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Perry, Greg"]
+[Black "Wall, Bill"]
+[Result "0-1"]
+[ECO "B02"]
+[Opening "Alekhine's defence"]
+[Variation "Scandinavian variation"]
+[HashCode "682f67b5"]
+[Epoch "Rook"]
+[BlackCountry "USA"]
+
+1. e4 Nf6 2. Nc3 d5 3. exd5 Nxd5 4. Nxd5 Qxd5 5. Nf3 Bg4 6. Be2 Nc6 7. O-O
+O-O-O 8. c3 e6 9. b4 Bd6 10. Ne1 Qe5 11. f4 Qxe2 12. Qxe2 Bxe2 13. Rf2 Bh5 0-1

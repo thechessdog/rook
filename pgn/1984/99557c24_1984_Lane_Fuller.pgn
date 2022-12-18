@@ -1,0 +1,28 @@
+[Event "Brighton ch-BCF"]
+[Site "Brighton ch-BCF"]
+[Date "1984.08.01"]
+[Round "8"]
+[White "Lane, Gary W"]
+[Black "Fuller, Keith"]
+[Result "0-1"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...g6"]
+[HashCode "99557c24"]
+[Epoch "Rook"]
+[WhiteID "3203301"]
+[WhiteCountry "AUS"]
+[BlackID "401781"]
+[BlackCountry "ENG"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 g6 6. Qb3 Bg7 7. cxd5 O-O 8.
+Be2 Nbd7 9. Bf3 Nb6 10. Bg5 Re8 11. Nge2 Bg4 12. Bxg4 Nxg4 13. a4 h6 14. Bh4 a5
+15. O-O Qd6 16. Bg3 Qb4 17. Qd1 Nf6 18. d6 exd6 19. Nb5 Rad8 20. b3 Ne4 21. Bf4
+Nd5 22. Rc1 Nxf4 23. Nxf4 d5 24. f3 Nf6 25. Rc5 Nd7 26. Rc7 Qe7 27. Nxd5 Qg5
+28. Ndc3 Qe3+ 29. Kh1 Nf8 30. d5 Ne6 31. Rc4 Nc5 32. Qc2 b6 33. d6 Re5 34. Ne4
+Nd3 35. Rc3 Nb4 36. Rxe3 Nxc2 37. Rc3 Rxb5 38. Rxc2 Rxb3 39. Rd1 f5 40. Nf2 Rb4
+41. d7 Rxa4 42. g4 Rd4 43. Rc8 Rxd1+ 44. Nxd1 Bf6 45. Ne3 Kf7 46. Nd5 Rxd7 47.
+Nxb6 Rd1+ 48. Kg2 fxg4 49. fxg4 Rd2+ 50. Kh1 Ra2 51. Rc4 Be5 52. h3 Rh2+ 53.
+Kg1 Rxh3 54. Nd7 Ke6 55. Nxe5 Kxe5 56. Kg2 Ra3 57. Rc6 g5 58. Rxh6 Kf4 59. Rc6
+Kxg4 60. Rc4+ Kh5 61. Rc5 Kh4 62. Rc8 Ra2+ 63. Kf1 g4 64. Rc3 a4 65. Kg1 Rb2
+66. Ra3 Rb4 67. Kg2 Kg5 68. Rd3 Kf4 69. Rd8 Rb2+ 70. Kg1 a3 71. Rd4+ Kg5 0-1

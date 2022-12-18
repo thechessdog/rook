@@ -1,0 +1,19 @@
+[Event "Czestochowa"]
+[Site "Czestochowa"]
+[Date "1981.01.01"]
+[Round "8"]
+[White "Gizynski, Tomasz"]
+[Black "Flis, Jacek"]
+[Result "1/2-1/2"]
+[ECO "B17"]
+[Opening "Caro-Kann"]
+[Variation "Steinitz variation"]
+[HashCode "deab9fda"]
+[Epoch "Rook"]
+[WhiteID "1100360"]
+[BlackID "1100351"]
+[WhiteCountry "POL"]
+[BlackCountry "POL"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Nxf6+ Nxf6 7. Ne5 Nd7
+8. Nf3 Nf6 9. Ne5 Nd7 10. Nxd7 Bxd7 11. c3 Bf5 12. Bd3 Bxd3 13. Qxd3 e6 1/2-1/2

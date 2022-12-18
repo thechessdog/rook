@@ -1,0 +1,19 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Degli Eredi"]
+[Black "Schumacher"]
+[Result "0-1"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack"]
+[HashCode "7e685307"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. Bg5 d5 3. Nc3 Nbd7 4. Nf3 e6 5. e4 h6 6. Bh4 g5 7. Bg3 Nxe4 8.
+Nxe4 dxe4 9. Nd2 f5 10. h4 g4 11. Nc4 Bg7 12. Qd2 Nf6 13. O-O-O O-O 14. h5
+Nd5 15. Ne5 Bf6 16. Kb1 Bg5 17. Qa5 b6 18. Qa4 Bb7 19. Ng6 Rf7 20. Be5 a6
+21. c4 Ne7 22. Nf4 Bc6 23. Qb3 Qd7 24. d5 exd5 25. Rd4 Rd8 26. cxd5 Nxd5
+27. Ng6 b5 28. Be2 Bb7 29. f3 c5 30. Rdd1 c4 31. Qa3 exf3 32. gxf3 b4 33.
+Qa5 Rc8 34. Nf4 Bxf4 35. Bxf4 c3 36. Rd4 c2+ 37. Kc1 Nxf4 38. Rxf4 Qe6 0-1
+

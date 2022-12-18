@@ -1,0 +1,19 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Olsen, Kim"]
+[Black "Olsvig, Per"]
+[Result "1-0"]
+[ECO "D40"]
+[Opening "QGD"]
+[Variation "Semi-Tarrasch defence, Pillsbury variation"]
+[HashCode "79bb9877"]
+[Epoch "Rook"]
+[WhiteID "1406922"]
+[WhiteCountry "DEN"]
+
+1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. Nc3 c5 5. Bg5 cxd4 6. Nxd4 Be7 7. Bxf6 Bxf6 8.
+cxd5 exd5 9. e3 O-O 10. g3 Qb6 11. Nxd5 Qa5+ 12. Nc3 Re8 13. Bg2 Qb4 14. O-O
+Qxb2 15. Nd5 Be5 16. Qd3 Bd6 17. Rfb1 Qa3 18. Qxa3 Bxa3 19. Nc7 Bf5 20. Nxf5
+1-0

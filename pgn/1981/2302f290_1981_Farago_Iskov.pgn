@@ -1,0 +1,22 @@
+[Event "Esbjerg"]
+[Site "Esbjerg"]
+[Date "1981.01.01"]
+[Round "2"]
+[White "Farago, Ivan"]
+[Black "Iskov, Gert"]
+[Result "0-1"]
+[ECO "D48"]
+[Opening "QGD semi-Slav"]
+[Variation "Meran, Reynolds' variation"]
+[HashCode "2302f290"]
+[Epoch "Rook"]
+[WhiteID "700134"]
+[WhiteCountry "HUN"]
+[BlackID "1400398"]
+[BlackCountry "DEN"]
+
+1. d4 d5 2. c4 c6 3. Nc3 e6 4. e3 Nf6 5. Nf3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8. Bd3
+a6 9. e4 c5 10. d5 c4 11. dxe6 cxd3 12. exd7+ Qxd7 13. O-O Bb7 14. Bg5 Be7 15.
+e5 Ne4 16. Bxe7 Nxc3 17. bxc3 Qxe7 18. Qxd3 O-O 19. Rfe1 Rac8 20. Nd4 Qa3 21.
+Re3 Rfd8 22. Qd2 Qc5 23. a3 Qd5 24. f4 Rc4 25. Qf2 Qc5 26. Qg3 Rdxd4 27. cxd4
+Qxd4 28. Qe1 Rc2 29. Rd1 Rxg2+ 0-1

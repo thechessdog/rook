@@ -1,0 +1,23 @@
+[Event "USA"]
+[Site "USA"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Ekenberg, Bengt"]
+[Black "Bass, Leonid"]
+[Result "1-0"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...g6"]
+[HashCode "45c92be1"]
+[Epoch "Rook"]
+[WhiteCountry "SWE"]
+[BlackID "2000300"]
+[BlackCountry "USA"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 g6 6. Qb3 Bg7 7. cxd5 O-O 8.
+Be2 Nbd7 9. Bf3 Nb6 10. Bg5 h6 11. Bxf6 exf6 12. Nge2 f5 13. O-O g5 14. g3 Qf6
+15. a4 f4 16. a5 Nd7 17. Rad1 Nb8 18. Ne4 Qg6 19. Kh1 Re8 20. Nc5 Na6 21. Nc3
+g4 22. Be2 Bf5 23. Nxb7 Bc2 24. Qc4 Bxd1 25. Rxd1 Nb8 26. Qb5 Kf8 27. Qc5+ Kg8
+28. Bb5 Na6 29. Qc6 Qc2 30. Qxa6 f3 31. Bxe8 Rxe8 32. Qf1 Qxb2 33. Nd6 Re2 34.
+Nde4 Bf8 35. Rb1 Qc2 36. Rc1 Qd3 37. Rd1 Qc2 38. Rc1 Qb2 39. Nxe2 fxe2 40. Qe1
+Bb4 41. Nc3 Qa3 1-0

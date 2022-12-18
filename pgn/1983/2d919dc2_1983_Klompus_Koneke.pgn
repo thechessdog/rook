@@ -1,0 +1,20 @@
+[Event "corr EUR/M"]
+[Site "corr EUR/M"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Klompus, G."]
+[Black "Koneke, O."]
+[Result "1-0"]
+[ECO "B52"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky attack, Sokolsky variation"]
+[HashCode "2d919dc2"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Qxd7 5. c4 e5 6. Nc3 Nc6 7. d3 g6
+8. Nd5 Bg7 9. O-O Nge7 10. Bg5 Nxd5 11. cxd5 Nd4 12. Nd2 f5 13. f3 O-O 14.
+a4 f4 15. Bh4 Bf6 16. Bf2 g5 17. Nc4 Kf7 18. Rb1 Ke7 19. b4 b6 20. bxc5
+dxc5 21. Bxd4 cxd4 22. Qb3 Kf7 23. a5 Rfb8 24. axb6 axb6 25. Nxb6 Qd8 26.
+d6+ Kg6 27. Qd5 Ra7 28. Nc4 Rxb1 29. Rxb1 Qe8 30. h3 h5 31. Qb5 Qe6 32. Qb6
+Ra2 33. d7 Qe7 34. Nxe5+ Kg7 35. Qc7 1-0
+

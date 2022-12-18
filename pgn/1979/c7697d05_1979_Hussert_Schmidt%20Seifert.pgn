@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Hussert, C."]
+[Black "Schmidt Seifert, B."]
+[Result "1-0"]
+[ECO "C10"]
+[Opening "French"]
+[Variation "Rubinstein variation"]
+[HashCode "c7697d05"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ Qxf6 6. Nf3 h6 7. Bd3
+Bd7 8. O-O Bd6 9. Qe2 Bc6 10. Ne5 O-O 11. f4 Rd8 12. Qh5 Be8 13. Be3 Nc6
+14. c3 Qe7 15. Qe2 a6 16. Be4 Bxe5 17. fxe5 Rab8 18. Qg4 Kh8 19. Rf6 gxf6
+20. Bxh6 1-0
+

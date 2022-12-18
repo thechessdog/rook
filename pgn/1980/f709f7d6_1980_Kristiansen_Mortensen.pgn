@@ -1,0 +1,23 @@
+[Event "Odense"]
+[Site "Odense"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Kristiansen, Jens"]
+[Black "Mortensen, Erling"]
+[Result "1-0"]
+[ECO "B83"]
+[Opening "Sicilian"]
+[Variation "Scheveningen, 6.Be2"]
+[HashCode "f709f7d6"]
+[Epoch "Rook"]
+[WhiteID "1400061"]
+[WhiteCountry "DEN"]
+[BlackID "1400045"]
+[BlackCountry "DEN"]
+
+1. e4 c5 2. Nf3 e6 3. Nc3 d6 4. Be2 Nf6 5. d4 cxd4 6. Nxd4 Be7 7. O-O a6 8. f4
+O-O 9. Bf3 Qc7 10. Be3 Nc6 11. Kh1 Rd8 12. g4 Nxd4 13. Qxd4 Nd7 14. g5 b5 15.
+Bg2 Bb7 16. f5 Ne5 17. fxe6 fxe6 18. Bh3 Bc8 19. a4 b4 20. Ne2 Ng6 21. Qd2 Bd7
+22. Nd4 Nf8 23. Qf2 Re8 24. Qf7+ Kh8 25. Rf2 Qb7 26. Bg2 Qc8 27. Nf5 exf5 28.
+exf5 Ne6 29. fxe6 Bxe6 30. Qh5 Bg4 31. Qh4 Rb8 32. Bd4 Qe6 33. Rf4 Bf5 34. Re1
+Qg6 35. Qf2 Bxc2 36. Rxe7 1-0

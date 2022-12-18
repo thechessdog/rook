@@ -1,0 +1,20 @@
+[Event "corr ch-SCO"]
+[Site "corr ch-SCO"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Boyle, C."]
+[Black "Wickens, T."]
+[Result "0-1"]
+[ECO "C44"]
+[Opening "Scotch gambit"]
+[Variation "Dubois-Reti defence"]
+[HashCode "71275dfa"]
+[Epoch "Rook"]
+
+1. e4 Nc6 2. Nf3 e5 3. Bc4 Nf6 4. d4 exd4 5. e5 d5 6. Bb5 Ne4 7. Nxd4 Bd7
+8. Bxc6 bxc6 9. Be3 Bc5 10. O-O Qe7 11. Re1 O-O 12. f3 Ng5 13. f4 Ne6 14.
+c3 Bb6 15. Nd2 f6 16. Nf5 Qf7 17. Bxb6 axb6 18. Rf1 Kh8 19. c4 Nxf4 20.
+exf6 Qxf6 21. Rxf4 Qe5 22. Qf3 Rxf5 23. Rxf5 Bxf5 24. Rf1 Be6 25. Qf2 Qxb2
+26. Qe3 Bg8 27. Nf3 c5 28. cxd5 Rxa2 29. Qg5 h6 30. Qg3 Bxd5 31. Nh4 Qd4+
+32. Kh1 Ra1 0-1
+

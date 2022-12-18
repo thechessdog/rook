@@ -1,0 +1,20 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Olsen, Kim"]
+[Black "Hess, Asmus"]
+[Result "0-1"]
+[ECO "D00"]
+[Opening "Queen's pawn"]
+[Variation "Chigorin variation"]
+[HashCode "f984aaef"]
+[Epoch "Rook"]
+[WhiteID "1406922"]
+[WhiteCountry "DEN"]
+
+1. d4 d5 2. Nc3 e6 3. Nf3 Nc6 4. e3 Nf6 5. Bd3 Bd6 6. e4 dxe4 7. Bxe4 Ne7 8.
+Ne5 O-O 9. Bg5 Nxe4 10. Nxe4 f6 11. Bxf6 gxf6 12. Ng4 Nd5 13. Ng3 Bf4 14. Nh5
+f5 15. Ne5 Bxe5 16. dxe5 Qg5 17. O-O Nf4 18. Nxf4 Qxf4 19. Qe2 b6 20. Rad1 Bb7
+21. Rd7 Rf7 22. Rfd1 Qg5 23. g3 Bd5 24. Rxf7 Kxf7 25. c4 Bc6 26. b4 Rd8 27. b5
+Rxd1+ 28. Qxd1 Ba8 29. f4 Qe7 30. h3 Qc5+ 31. Kh2 Qxc4 0-1

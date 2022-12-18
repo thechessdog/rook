@@ -1,0 +1,15 @@
+[Event "Capablanca mem"]
+[Site "Cienfuegos"]
+[Date "1979.01.01"]
+[Round "6"]
+[White "Hernandez, Jose J"]
+[Black "Barreras, Alberto"]
+[Result "1/2-1/2"]
+[ECO "B15"]
+[Opening "Caro-Kann"]
+[Variation "Forgacs variation"]
+[HashCode "c1b5a054"]
+[Epoch "Rook"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ exf6 6. Bc4 Qe7+ 7. Qe2 Be6
+8. Bxe6 Qxe6 9. Qxe6+ fxe6 10. Ne2 Na6 11. c3 c5 12. O-O O-O-O 13. Be3 1/2-1/2

@@ -1,0 +1,21 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Fernando, Sukil"]
+[Black "Olsen, Kim"]
+[Result "1-0"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "4.Nf3"]
+[HashCode "063f9a36"]
+[Epoch "Rook"]
+[BlackID "1406922"]
+[BlackCountry "DEN"]
+
+1. d4 e6 2. c4 d5 3. Nc3 Nf6 4. Nf3 Nc6 5. e3 Bb4 6. Bd3 dxc4 7. Bxc4 Ne4 8.
+Qc2 f5 9. a3 Bxc3+ 10. bxc3 Nd6 11. Bb3 Nf7 12. O-O g5 13. e4 f4 14. h3 Qe7 15.
+d5 Nce5 16. Nxe5 Nxe5 17. Bb2 Bd7 18. c4 Qf6 19. Qc3 Nf3+ 20. gxf3 Qxc3 21.
+Bxc3 Rg8 22. Be5 O-O-O 23. Rad1 exd5 24. cxd5 Bxh3 25. d6 Rge8 26. dxc7 Rxd1
+27. Rxd1 Rxe5 28. Rc1 h5 29. Kh2 g4 30. Bd1 Bf1 31. fxg4 Bb5 32. gxh5 Bc6 33.
+Bg4+ Kxc7 34. f3 Kb8 35. Bf5 Re8 36. h6 Rh8 37. h7 Be8 38. Rc8# 1-0

@@ -1,0 +1,19 @@
+[Event "New Hampshire"]
+[Site "New Hampshire"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Wiseman, J."]
+[Black "Curdo, John"]
+[Result "0-1"]
+[ECO "A89"]
+[Opening "Dutch"]
+[Variation "Leningrad, main variation with Nc6"]
+[HashCode "f9ede2ec"]
+[Epoch "Rook"]
+[BlackID "2001705"]
+[BlackCountry "USA"]
+
+1. Nf3 f5 2. d4 Nf6 3. c4 g6 4. g3 Bg7 5. Bg2 O-O 6. O-O d6 7. Nc3 Nc6 8. b3
+Bd7 9. Bb2 a6 10. Qd2 Qe8 11. Rad1 h6 12. d5 Nd8 13. Nd4 g5 14. f4 Qg6 15. fxg5
+hxg5 16. Qd3 Ng4 17. Bh3 Ne5 18. Bxf5 Nxd3 19. Bxg6 Rxf1+ 20. Kxf1 Bh3+ 21. Kg1
+Bxd4+ 0-1

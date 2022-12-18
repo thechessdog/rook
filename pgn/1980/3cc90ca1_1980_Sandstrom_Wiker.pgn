@@ -1,0 +1,17 @@
+[Event "corr SWE/K tt"]
+[Site "corr SWE/K tt"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Sandstrom, Borje"]
+[Black "Wiker, B."]
+[Result "1/2-1/2"]
+[ECO "D84"]
+[Opening "Gruenfeld"]
+[Variation "Gruenfeld gambit accepted"]
+[HashCode "3cc90ca1"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Bf4 Bg7 5. e3 O-O 6. cxd5 Nxd5 7. Nxd5 Qxd5
+8. Bxc7 Na6 9. Bxa6 bxa6 10. Nf3 Bb7 11. O-O Rac8 12. Be5 Bxe5 13. dxe5 Qe6
+14. Qd4 Rc4 15. Qxa7 Bxf3 16. gxf3 Rg4+ 17. fxg4 Qxg4+ 1/2-1/2
+

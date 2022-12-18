@@ -1,0 +1,20 @@
+[Event "corr SWE/K"]
+[Site "corr SWE/K"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Arnesson, Sture"]
+[Black "Bromberg, Henry"]
+[Result "1-0"]
+[ECO "E57"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line with 8...dc and 9...cd"]
+[HashCode "8c1b1983"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 c5 7. O-O dxc4 8.
+Bxc4 Nc6 9. a3 cxd4 10. exd4 Be7 11. Qd3 b6 12. Bg5 Bb7 13. Rad1 Nd5 14.
+Bxd5 exd5 15. Bxe7 Nxe7 16. Rfe1 Ng6 17. g3 Rc8 18. h4 Re8 19. Rxe8+ Qxe8
+20. Re1 Qd7 21. h5 Nf8 22. Ne5 Qe6 23. Qf3 f6 24. Nd3 Qf7 25. Nf4 Rd8 26.
+Re3 h6 27. Qe2 Qd7 28. Re7 Qc8 29. Qf3 Re8 30. Nfxd5 Rxe7 31. Nxe7+ Kf7 32.
+Nxc8 Bxf3 33. Nxa7 Bb7 34. Nab5 Ke6 35. b4 Bf3 36. Nc7+ Kd7 37. N7d5 1-0
+

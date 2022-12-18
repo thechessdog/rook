@@ -1,0 +1,23 @@
+[Event "Mar del Plata GP2"]
+[Site "Mar del Plata GP2"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Panzeri"]
+[Black "Garcia Palermo, Carlos"]
+[Result "0-1"]
+[ECO "D74"]
+[Opening "Neo-Gruenfeld, 6.cd Nxd5, 7.O-O"]
+[HashCode "e1650d57"]
+[Epoch "Rook"]
+[BlackID "110124"]
+[BlackCountry "ITA"]
+
+1. Nf3 Nf6 2. g3 g6 3. Bg2 Bg7 4. O-O O-O 5. c4 d5 6. cxd5 Nxd5 7. d4 Na6 8. e4
+Nb6 9. Nc3 c5 10. d5 e6 11. d6 e5 12. b3 Bd7 13. Be3 Bc6 14. Qd2 Qd7 15. Rfd1
+f5 16. Bg5 Rae8 17. Be7 Rf7 18. Bf1 Nc7 19. Qb2 Ne6 20. Ng5 Rfxe7 21. dxe7 Nd4
+22. Bg2 Qxe7 23. Nf3 Nc8 24. Ne1 Nd6 25. a3 b5 26. b4 c4 27. Qa2 fxe4 28. Nc2
+Nf3+ 29. Bxf3 exf3 30. Ne3 Nf5 31. Re1 e4 32. Rac1 Rd8 33. a4 a6 34. axb5 axb5
+35. Qa6 Nd4 36. Red1 Qc7 37. Rxd4 Bxd4 38. Nxb5 Bxb5 39. Qxb5 Bxe3 40. fxe3 c3
+41. Qa6 c2 42. Qe6+ Qf7 43. Qxf7+ Kxf7 44. Rxc2 Rd1+ 45. Kf2 Ke6 46. g4 Rh1 47.
+Kg3 g5 48. Rb2 Rg1+ 49. Kh3 h5 50. gxh5 Kf6 51. b5 Kg7 52. b6 Kh6 53. b7 Kxh5
+54. Rb5 f2 0-1

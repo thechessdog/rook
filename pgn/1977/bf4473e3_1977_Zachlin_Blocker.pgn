@@ -1,0 +1,17 @@
+[Event "Cleveland League"]
+[Site "Cleveland League"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Zachlin, Adam"]
+[Black "Blocker, Calvin"]
+[Result "1-0"]
+[ECO "A45"]
+[Opening "Trompovsky attack (Ruth, Opovcensky opening)"]
+[HashCode "bf4473e3"]
+[Epoch "Rook"]
+[BlackID "2000920"]
+[BlackCountry "USA"]
+
+1. d4 Nf6 2. Bg5 c5 3. Nd2 cxd4 4. Ngf3 Nc6 5. e4 e5 6. Bc4 Be7 7. O-O O-O 8.
+Re1 d6 9. Nf1 h6 10. Bd2 Kh7 11. b4 Be6 12. Bd3 Rc8 13. b5 Na5 14. Nxd4 exd4
+15. e5+ Kg8 16. exf6 Bxf6 17. Rxe6 fxe6 18. Qe1 b6 19. Qxe6+ Rf7 20. Bg6 1-0

@@ -1,0 +1,22 @@
+[Event "corr ch-DEN"]
+[Site "corr ch-DEN"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Petersen, Finn"]
+[Black "Ingerslev"]
+[Result "0-1"]
+[ECO "B11"]
+[Opening "Caro-Kann"]
+[Variation "two knights, 3...Bg4"]
+[HashCode "34f1aeb1"]
+[Epoch "Rook"]
+[WhiteID "1400754"]
+[WhiteCountry "DEN"]
+
+1. e4 c6 2. Nc3 d5 3. Nf3 Bg4 4. h3 Bxf3 5. Qxf3 e6 6. d4 dxe4 7. Qxe4 Nf6 8.
+Qd3 Na6 9. Bg5 Be7 10. Be2 Nb4 11. Qd2 Qxd4 12. O-O-O Qxd2+ 13. Rxd2 Nfd5 14.
+Nxd5 cxd5 15. Bb5+ Kf8 16. Bxe7+ Kxe7 17. a3 Nc6 18. Bxc6 bxc6 19. c4 a5 20.
+Re1 Kd6 21. f4 Rab8 22. Re3 Rhe8 23. Kc2 Re7 24. Rb3 Reb7 25. Rxb7 Rxb7 26.
+cxd5 cxd5 27. Kc3 Rc7+ 28. Kd3 Rc4 29. Rf2 a4 30. Rf1 f6 31. Rf2 Rc7 32. g4 Rb7
+33. Rd2 e5 34. fxe5+ fxe5 35. Rf2 Rb3+ 36. Kc2 Rxh3 37. Rf7 d4 38. Ra7 e4 39.
+Rxa4 Ke5 0-1

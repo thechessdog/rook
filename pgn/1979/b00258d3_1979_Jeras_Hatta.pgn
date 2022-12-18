@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Jeras"]
+[Black "Hatta"]
+[Result "1-0"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, poisoned pawn variation"]
+[HashCode "b00258d3"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Qg4 Qc7 8.
+Bd3 cxd4 9. Ne2 dxc3 10. Qxg7 Rg8 11. Qh6 Nd7 12. Bf4 Nf8 13. O-O Bd7 14.
+Qf6 Bc6 15. Bg3 Neg6 16. f4 h6 17. Bxg6 Rxg6 18. Qh4 Bb5 19. Rac1 Qe7 20.
+Qh5 b6 21. Bh4 Qb7 22. f5 exf5 23. Nf4 Bxf1 24. e6 Qc6 25. exf7+ Kxf7 26.
+Qxf5+ Kg8 27. Nxg6 Qxg6 28. Qxd5+ Qf7 29. Qxa8 Bb5 30. Be7 a6 1-0
+

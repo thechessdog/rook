@@ -1,0 +1,23 @@
+[Event "Bundesliga 8081"]
+[Site "Duitsland tt"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Rosen, Willy"]
+[Black "Meinberger, Leo"]
+[Result "0-1"]
+[ECO "B43"]
+[Opening "Sicilian"]
+[Variation "Kan, 5.Nc3"]
+[HashCode "dae1e8f1"]
+[Epoch "Rook"]
+[WhiteID "4605535"]
+[WhiteCountry "GER"]
+[BlackID "4607139"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 Qc7 6. Bd3 Bb4 7. O-O Nf6 8.
+Bd2 Bd6 9. Kh1 Nc6 10. Nxc6 dxc6 11. f4 e5 12. f5 b5 13. Qf3 Bb7 14. a4 Rd8 15.
+Nd1 Qe7 16. Bg5 Bc5 17. Ne3 h5 18. Rad1 Qc7 19. Be2 Rd4 20. Bxf6 gxf6 21. axb5
+axb5 22. c3 Rxd1 23. Rxd1 Ke7 24. Nc2 h4 25. h3 Rd8 26. Rxd8 Qxd8 27. Qd3 Qg8
+28. b4 Bb6 29. Ne3 Qg5 30. Ng4 Qf4 31. c4 Qc1+ 32. Bf1 Bd4 33. Nh2 c5 34. cxb5
+cxb4 35. Nf3 Bxe4 36. Qxe4 Qxf1+ 37. Kh2 Bf2 0-1

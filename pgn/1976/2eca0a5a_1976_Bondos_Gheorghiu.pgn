@@ -1,0 +1,19 @@
+[Event "Rumania"]
+[Site "Rumania"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Bondos"]
+[Black "Gheorghiu, Florin"]
+[Result "0-1"]
+[ECO "A25"]
+[Opening "English"]
+[Variation "closed, 5.Rb1"]
+[HashCode "2eca0a5a"]
+[Epoch "Rook"]
+[BlackID "1200011"]
+[BlackCountry "ROU"]
+
+1. c4 e5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. Rb1 d6 6. b4 Bf5 7. d3 Qd7 8. b5 Nd8
+9. e4 Bg4 10. f3 Be6 11. Be3 f5 12. Nge2 Nf6 13. O-O h5 14. Nd5 h4 15. d4 hxg3
+16. hxg3 fxe4 17. Nxf6+ Bxf6 18. fxe4 Bg7 19. dxe5 Bxe5 20. Rf4 Nf7 21. Qc2 Bh3
+0-1

@@ -1,0 +1,17 @@
+[Event "corr DDR/FS"]
+[Site "corr DDR/FS"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Van der Weth"]
+[Black "Leisebein, Peter"]
+[Result "0-1"]
+[ECO "C33"]
+[Opening "KGA"]
+[Variation "bishop's gambit, Jaenisch variation"]
+[HashCode "83783f08"]
+[Epoch "Rook"]
+[BlackCountry "DEU"]
+
+1. e4 e5 2. f4 exf4 3. Bc4 Nf6 4. Nc3 c6 5. d4 Bb4 6. e5 Ne4 7. Kf1 Nxc3 8.
+bxc3 Bxc3 9. Ba3 b5 10. Qg4 g6 11. Qxf4 bxc4 12. Qh6 d6 13. Re1 Be6 14. Nf3 Na6
+15. Qg7 Kd7 16. exd6 Bb4 17. Bc1 Bxd6 18. Ne5+ Kc7 19. Bd2 Nb4 20. h4 0-1

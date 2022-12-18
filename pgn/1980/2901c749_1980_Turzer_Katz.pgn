@@ -1,0 +1,18 @@
+[Event "corr FRG/M"]
+[Site "corr FRG/M"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Turzer, W."]
+[Black "Katz, K."]
+[Result "1-0"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "2901c749"]
+[Epoch "Rook"]
+
+1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. d4 Nc6 5. Nf3 cxd4 6. cxd4 e5 7. Nc3 Bb4
+8. Bd2 Bxc3 9. Bxc3 e4 10. Ne5 Nxe5 11. dxe5 Ne7 12. Be2 e3 13. O-O exf2+
+14. Rxf2 Bd7 15. Bf3 Qxd1+ 16. Rxd1 O-O-O 17. Bxb7+ Kxb7 18. Rxf7 Rhe8 19.
+Bb4 1-0
+

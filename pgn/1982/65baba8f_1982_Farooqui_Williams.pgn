@@ -1,0 +1,31 @@
+[Event "Luzern ol (Men)"]
+[Site "Luzern olm"]
+[Date "1982.10.01"]
+[Round "8"]
+[White "Farooqui, Zahiruddin"]
+[Black "Williams, A. Howard"]
+[Result "0-1"]
+[ECO "B62"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, 6...e6"]
+[HashCode "65baba8f"]
+[Epoch "Rook"]
+[WhiteID "7800142"]
+[WhiteCountry "PAK"]
+[BlackID "1800043"]
+[BlackCountry "WLS"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. g3 Be7 8. Bg2
+Qa5 9. Be3 O-O 10. O-O Ne5 11. Qe2 Bd7 12. Rad1 Rac8 13. h3 Nc4 14. Bc1 b5 15.
+Nb3 Qb6 16. a3 a5 17. Nb1 b4 18. axb4 axb4 19. Nd4 Ne5 20. Be3 Qb8 21. Nd2 Rfe8
+22. f4 Nc6 23. c4 bxc3 24. bxc3 Nxd4 25. Bxd4 e5 26. Rb1 Qc7 27. Be3 Qxc3 28.
+f5 h6 29. Kh2 Ba4 30. Ra1 Bb5 31. Qxb5 Qxe3 32. Ra2 d5 33. exd5 e4 34. Rd1 Bd6
+35. Nf1 Qg5 36. Ra6 e3 37. Rxd6 e2 38. Re1 exf1=N+ 39. Qxf1 Rc3 40. Qf2 Rxe1
+41. Qxe1 Re3 42. Qf2 Re5 43. Qd4 Qxf5 44. Rd8+ Kh7 45. d6 Re2 46. d7 Qc2 47.
+Qg1 Qc7 48. Qb1+ g6 49. Rb8 Qxd7 50. Rb2 Re7 51. Qf1 Qd4 52. Re2 Rxe2 53. Qxe2
+Kg7 54. Qf3 Qe5 55. Kg1 Nh5 56. Kh2 Qe1 57. Qd3 Qa1 58. Qd6 Qb2 59. Qd1 Nf6 60.
+Qf3 Nh7 61. Qb7 Qxb7 62. Bxb7 Kf6 63. Bc6 Ke6 64. Kg2 g5 65. Kf3 f5 66. Bb7 Ke5
+67. Bc6 Nf8 68. Bb7 Ng6 69. Bc8 h5 70. Bd7 h4 71. Be8 Nf8 72. gxh4 gxh4 73. Bc6
+Ne6 74. Bb7 Ng5+ 75. Kg2 Kf4 76. Bc8 Ke4 77. Bb7+ Ke5 78. Bc8 Kf4 79. Bd7 Ne4
+80. Bc8 Nd6 81. Bd7 Ke3 82. Bc6 Nf7 83. Bd7 f4 84. Bg4 Ng5 85. Bc8 f3+ 86. Kh2
+Ke2 87. Ba6+ Ke1 88. Bb7 f2 89. Ba6 f1=Q 0-1

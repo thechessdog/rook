@@ -1,0 +1,18 @@
+[Event "Plymouth ch-MI op"]
+[Site "Plymouth ch-MI op"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Thomas, H."]
+[Black "King, J."]
+[Result "1-0"]
+[ECO "A03"]
+[Opening "Bird's opening"]
+[Variation "Lasker variation"]
+[HashCode "141403ea"]
+[Epoch "Rook"]
+
+1. f4 d5 2. Nf3 c5 3. e3 Nf6 4. b3 e6 5. Be2 Nc6 6. Bb2 Bd6 7. O-O O-O 8.
+Qe1 d4 9. Bd3 dxe3 10. dxe3 Re8 11. Nbd2 e5 12. Qg3 exf4 13. exf4 g6 14.
+Rae1 Be6 15. Ng5 Nh5 16. Qf3 Bxf4 17. Nxe6 Bxh2+ 18. Kxh2 Qh4+ 19. Kg1 Qe7
+20. Ng5 Qc7 21. Nxf7 Rf8 22. Nh6# 1-0
+

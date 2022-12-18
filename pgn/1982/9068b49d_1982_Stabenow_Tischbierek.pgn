@@ -1,0 +1,21 @@
+[Event "corr DDR tt"]
+[Site "corr DDR tt"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Stabenow, J."]
+[Black "Tischbierek, Raj"]
+[Result "0-1"]
+[ECO "B31"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (with ...g6, without ...d6)"]
+[HashCode "9068b49d"]
+[Epoch "Rook"]
+[BlackID "4611322"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. c3 Nf6 6. Re1 O-O 7. d4 cxd4 8.
+cxd4 d5 9. e5 Ne4 10. h3 Qb6 11. Bxc6 Qxc6 12. Nh2 f6 13. f3 Ng3 14. Nc3 fxe5
+15. dxe5 Be6 16. Ng4 Rad8 17. Qd4 Nf5 18. Qf2 d4 19. Nd1 Rd5 20. f4 Rc5 21. Bd2
+Rc2 22. Rc1 Rxc1 23. Bxc1 Bxa2 24. b4 Bb3 25. Qb2 Qd5 26. Ndf2 Rc8 27. Ne4 Rc2
+28. Qb1 Nh4 29. Ngf2 d3 30. Re3 Ba2 31. Qa1 d2 32. Bb2 Bc4 33. Qb1 d1=Q+ 34.
+Nxd1 Rxg2+ 35. Kh1 Qf7 36. Qc1 Bd5 37. Qc8+ Bf8 38. Qd8 Rd2 0-1

@@ -1,0 +1,18 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Muller, Hans P"]
+[Black "Unterdorfer"]
+[Result "0-1"]
+[ECO "A18"]
+[Opening "English"]
+[Variation "Mikenas-Carls, Flohr variation"]
+[HashCode "8b29b9b2"]
+[Epoch "Rook"]
+[WhiteID "3223167"]
+[WhiteCountry "AUS"]
+
+1. c4 Nf6 2. Nc3 e6 3. e4 d5 4. e5 d4 5. exf6 dxc3 6. bxc3 Qxf6 7. d4 c5 8. Nf3
+h6 9. Be2 Bd6 10. O-O O-O 11. Be3 Nc6 12. dxc5 Bc7 13. Nd4 e5 14. Nb5 Bb8 15.
+Bf3 Rd8 16. Qe2 e4 17. Bg4 Qh4 18. h3 f5 19. Bh5 f4 20. Bd4 f3 21. Bxf3 Qf4 0-1

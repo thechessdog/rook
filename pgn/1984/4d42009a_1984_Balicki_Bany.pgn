@@ -1,0 +1,21 @@
+[Event "Poland"]
+[Site "Poland"]
+[Date "1984.01.01"]
+[Round "5"]
+[White "Balicki, Cezary"]
+[Black "Bany, Jerzy"]
+[Result "1-0"]
+[ECO "D15"]
+[Opening "QGD Slav"]
+[Variation "4.Nc3"]
+[HashCode "4d42009a"]
+[Epoch "Rook"]
+[WhiteID "1101641"]
+[BlackID "1100084"]
+[WhiteCountry "POL"]
+[BlackCountry "POL"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 c6 4. Nc3 a6 5. cxd5 cxd5 6. Bf4 Nc6 7. e3 Bg4 8. Qb3
+Na5 9. Qa4+ b5 10. Bxb5+ axb5 11. Nxb5 Bd7 12. Ne5 Ra7 13. Rc1 Bxb5 14. Qxb5+
+Nd7 15. Nxd7 Rxd7 16. Bc7 Qc8 17. Qxa5 e6 18. O-O Bb4 19. Qb5 Bd2 20. Rc5 Bb4
+21. Rc6 Qa8 22. Rb6 1-0

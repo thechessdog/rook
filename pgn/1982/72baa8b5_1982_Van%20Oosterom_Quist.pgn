@@ -1,0 +1,18 @@
+[Event "corr Volmac"]
+[Site "corr Volmac"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Van Oosterom, J."]
+[Black "Quist, V."]
+[Result "1-0"]
+[ECO "B42"]
+[Opening "Sicilian"]
+[Variation "Kan, 5.Bd3"]
+[HashCode "72baa8b5"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Ne7 6. O-O Nbc6 7. Nxc6
+Nxc6 8. c4 Bc5 9. Kh1 e5 10. f4 exf4 11. Bxf4 d6 12. Nc3 Be6 13. Nd5 Ne5
+14. b4 Bd4 15. Rc1 Bg4 16. Qd2 O-O 17. Bb1 Ba7 18. c5 Bh5 19. cxd6 Qxd6 20.
+Bxe5 Qxe5 21. Rf5 1-0
+

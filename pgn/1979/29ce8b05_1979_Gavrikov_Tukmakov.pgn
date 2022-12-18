@@ -1,0 +1,20 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Gavrikov, Viktor"]
+[Black "Tukmakov, Vladimir B"]
+[Result "1-0"]
+[ECO "A14"]
+[Opening "English"]
+[Variation "Symmetrical, Keres defence"]
+[HashCode "29ce8b05"]
+[Epoch "Rook"]
+[BlackID "14100096"]
+[BlackCountry "UKR"]
+[WhiteID "24131849"]
+[WhiteCountry "RUS"]
+
+1. c4 Nf6 2. Nc3 e6 3. Nf3 c5 4. g3 d5 5. cxd5 Nxd5 6. Bg2 Nc6 7. O-O Be7 8. d4
+O-O 9. e4 Nxc3 10. bxc3 cxd4 11. cxd4 Bf6 12. Ba3 Re8 13. Re1 Qa5 14. Bd6 Qd8
+15. Bc5 b6 16. e5 Be7 17. Bxe7 Rxe7 18. Ng5 Bb7 19. Bxc6 Bxc6 20. Qc2 1-0

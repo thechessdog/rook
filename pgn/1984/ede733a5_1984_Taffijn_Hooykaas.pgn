@@ -1,0 +1,17 @@
+[Event "corr Netherlands"]
+[Site "corr Netherlands"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Taffijn, M."]
+[Black "Hooykaas"]
+[Result "1-0"]
+[ECO "A29"]
+[Opening "English"]
+[Variation "four knights, kingside fianchetto"]
+[HashCode "ede733a5"]
+[Epoch "Rook"]
+
+1. c4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. g3 d5 5. cxd5 Nxd5 6. Bg2 Nb6 7. O-O Be7
+8. d3 O-O 9. a3 Be6 10. b4 f5 11. Bb2 Bf6 12. e4 f4 13. Ne2 fxg3 14. hxg3
+Bg4 15. b5 Nd4 16. Nfxd4 exd4 17. f4 Re8 18. e5 1-0
+

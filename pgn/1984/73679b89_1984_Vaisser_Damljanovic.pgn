@@ -1,0 +1,22 @@
+[Event "Vrnjacka Banja"]
+[Site "Vrnjacka Banja"]
+[Date "1984.04.01"]
+[Round "1"]
+[White "Vaisser, Anatoly"]
+[Black "Damljanovic, Branko"]
+[Result "1-0"]
+[ECO "D29"]
+[Opening "QGA"]
+[Variation "classical, 8...Bb7"]
+[HashCode "73679b89"]
+[Epoch "Rook"]
+[BlackID "900125"]
+[BlackCountry "SRB"]
+[WhiteCountry "FRA"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. e3 e6 5. Bxc4 c5 6. O-O a6 7. Qe2 b5 8. Bb3
+Bb7 9. Rd1 Nbd7 10. e4 cxd4 11. e5 Nd5 12. Rxd4 Be7 13. Nbd2 Qc7 14. Nf1 O-O
+15. Rg4 Rfc8 16. Bh6 g6 17. h4 a5 18. Rc1 Qb6 19. Rxc8+ Rxc8 20. h5 Bf8 21.
+Bxf8 Nxf8 22. Ng5 a4 23. Bxd5 Bxd5 24. Rf4 Rc7 25. h6 Re7 26. Rb4 Qd8 27. Qd2
+Rb7 28. Qf4 Qe7 29. Ne3 Nd7 30. a3 f6 31. exf6 Nxf6 32. Qe5 Bb3 33. Rxb5 Rxb5
+34. Qxb5 Qc7 35. Qa6 Qe7 36. Qc8+ Qf8 37. Qc7 Ne8 38. Qxh7# 1-0

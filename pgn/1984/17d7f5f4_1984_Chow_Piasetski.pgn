@@ -1,0 +1,21 @@
+[Event "New York Int"]
+[Site "New York Int"]
+[Date "1984.01.01"]
+[Round "9"]
+[White "Chow, Albert"]
+[Black "Piasetski, Leon David"]
+[Result "0-1"]
+[ECO "A57"]
+[Opening "Benko gambit half accepted"]
+[HashCode "17d7f5f4"]
+[Epoch "Rook"]
+[WhiteID "2002167"]
+[WhiteCountry "USA"]
+[BlackCountry "CAN"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. e3 Bb7 6. Nc3 Qa5 7. Bd2 Qb6 8. bxa6
+Nxa6 9. e4 e6 10. dxe6 fxe6 11. e5 Nd5 12. Bd3 Nab4 13. Bb1 c4 14. Nh3 Nd3+ 15.
+Bxd3 cxd3 16. O-O Nb4 17. Nf4 g6 18. b3 Nc2 19. Rb1 Qc6 20. Kh1 Bh6 21. Ncd5
+exd5 22. Nxd3 d4 23. Rg1 Bxd2 24. Qxd2 Rxa2 25. Qh6 Kd8 26. Qg7 Re8 27. Rbc1
+Qb5 28. Rgd1 Bc6 29. Qxh7 Re6 30. b4 Kc7 31. Qh8 g5 32. Qg7 Ne1 33. Nc5 Qf1#
+0-1

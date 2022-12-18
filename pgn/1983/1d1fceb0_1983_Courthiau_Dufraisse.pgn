@@ -1,0 +1,17 @@
+[Event "corr ch-FRA"]
+[Site "corr ch-FRA"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Courthiau"]
+[Black "Dufraisse"]
+[Result "1-0"]
+[ECO "B26"]
+[Opening "Sicilian"]
+[Variation "closed, 6.Be3"]
+[HashCode "1d1fceb0"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nc3 d6 3. g3 Nc6 4. Bg2 g6 5. d3 Bg7 6. Be3 e5 7. Qd2 Nge7 8.
+f4 Nd4 9. Nf3 O-O 10. O-O exf4 11. Bxf4 Nxf3+ 12. Rxf3 Qb6 13. Raf1 Qxb2
+14. Bxd6 Bxc3 15. Qf4 Be6 16. Bxe7 Rfe8 17. Bxc5 Qxc2 1-0
+

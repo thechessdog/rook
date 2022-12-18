@@ -1,0 +1,17 @@
+[Event "corr EUR/H"]
+[Site "corr EUR/H"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Sontges, K."]
+[Black "Wijnand, P."]
+[Result "0-1"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, poisoned pawn variation"]
+[HashCode "99f756a0"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Qg4 cxd4
+8. Qxg7 Rg8 9. Qxh7 Nbc6 10. Nf3 Qc7 11. Kd1 dxc3 12. Ng5 Nxe5 13. Qxf7+
+Nxf7 0-1
+

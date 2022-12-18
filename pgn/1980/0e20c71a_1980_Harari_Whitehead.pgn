@@ -1,0 +1,25 @@
+[Event "New York"]
+[Site "New York"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Harari, Zaki"]
+[Black "Whitehead, Jay E"]
+[Result "0-1"]
+[ECO "B24"]
+[Opening "Sicilian"]
+[Variation "closed"]
+[HashCode "0e20c71a"]
+[Epoch "Rook"]
+[WhiteID "2002639"]
+[WhiteCountry "ENG"]
+[BlackCountry "USA"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Rb8 5. d3 Bg7 6. f4 d6 7. Rb1 e6 8. Bd2
+Nge7 9. Nf3 b5 10. a3 a5 11. a4 b4 12. Nb5 O-O 13. O-O Qd7 14. Be3 Na7 15. Nxa7
+Qxa7 16. b3 Ba6 17. Re1 Nc6 18. g4 d5 19. e5 Ne7 20. Qe2 Qc7 21. Rbd1 Rfd8 22.
+Qf2 Rbc8 23. Kh1 Rd7 24. Rc1 c4 25. d4 Qb6 26. bxc4 Bxc4 27. Nh4 f6 28. Rg1
+fxe5 29. fxe5 Rf8 30. Qg3 Nc6 31. Nf3 b3 32. cxb3 Qxb3 33. Ng5 Bh6 34. Rb1 Qa3
+35. Ra1 Qe7 36. Qh4 Bxg5 37. Bxg5 Qb4 38. Bh6 Re8 39. Rgf1 Nxd4 40. Qf6 Bxf1
+41. Rxf1 Qe7 42. Qf4 Nc6 43. Qg3 Rb7 44. h4 Nd8 45. Bg5 Qb4 46. Bf6 Qxa4 47. h5
+Qc2 48. Qh4 Rb2 49. Rg1 Nf7 50. hxg6 hxg6 51. g5 Rb4 52. Qg3 Qc4 53. Bh3 Rb3
+54. Qh2 Qh4 55. Bf1 Qxh2+ 56. Kxh2 a4 0-1

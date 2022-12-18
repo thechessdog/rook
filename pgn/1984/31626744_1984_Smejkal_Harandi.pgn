@@ -1,0 +1,21 @@
+[Event "Berlin"]
+[Site "Berlin"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Smejkal, Jan"]
+[Black "Harandi, Khosro"]
+[Result "1-0"]
+[ECO "A15"]
+[Opening "English opening"]
+[HashCode "31626744"]
+[Epoch "Rook"]
+[WhiteID "300020"]
+[WhiteCountry "CZE"]
+[BlackID "12500011"]
+[BlackCountry "IRI"]
+
+1. c4 Nf6 2. Nf3 e6 3. g3 b6 4. Bg2 Bb7 5. O-O Be7 6. b3 O-O 7. Bb2 c5 8. Nc3
+Ne4 9. Qc2 Nxc3 10. Bxc3 Nc6 11. Rad1 Bf6 12. d4 cxd4 13. Nxd4 Nxd4 14. Bxd4
+Bxg2 15. Kxg2 Bxd4 16. Rxd4 Rc8 17. Qd2 Rc7 18. Rd1 Qa8+ 19. Kg1 Rd8 20. Rg4 f5
+21. Rd4 h6 22. Qd3 Qb7 23. a4 Kf7 24. e4 g6 25. h4 Ke7 26. h5 Rg8 27. hxg6 fxe4
+28. Rxe4 Qc6 29. Rf4 Kd8 30. Rf7 Kc8 31. g7 Kb7 32. Qh7 1-0

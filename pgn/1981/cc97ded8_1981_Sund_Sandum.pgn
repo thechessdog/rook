@@ -1,0 +1,16 @@
+[Event "Kristianssund"]
+[Site "Kristianssund"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Sund, Terje"]
+[Black "Sandum, Kjell T"]
+[Result "0-1"]
+[ECO "C50"]
+[Opening "Giuoco Piano"]
+[Variation "four knights variation"]
+[HashCode "cc97ded8"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Nc3 Bc5 5. O-O d6 6. d3 O-O 7. Bg5 Bg4 8. Qe2
+h6 9. Bxf6 Qxf6 10. h3 Bxf3 11. gxf3 Nd4 12. Qe3 Nxf3+ 13. Kh1 Bxe3 14. Nd5 Qg5
+15. Rg1 Nxg1 16. Rxg1 Qh5 17. Nxe3 Qxh3# 0-1

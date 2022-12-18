@@ -1,0 +1,20 @@
+[Event "corr EU"]
+[Site "corr EU"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Jablonski"]
+[Black "Cedersund"]
+[Result "0-1"]
+[ECO "C57"]
+[Opening "two knights defence"]
+[Variation "Ulvestad variation"]
+[HashCode "1a3261e6"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 b5 6. Bf1 Nd4 7. c3 Nxd5
+8. Nxf7 Kxf7 9. cxd4 exd4 10. Bxb5 Qe7+ 11. Qe2 Qxe2+ 12. Bxe2 Nb4 13. Bc4+
+Kg6 14. O-O Bf5 15. Na3 Bd3 16. Bxd3+ Nxd3 17. Nc4 Re8 18. b3 Re2 19. f4
+Bb4 20. a3 Bd6 21. Nxd6 cxd6 22. Rb1 Rhe8 23. g3 Kf5 24. Bb2 Ke4 25. Bc1 h5
+26. h3 h4 27. g4 Rc8 28. f5 Rc2 29. g5 Rc5 30. Bb2 Rxd2 31. Bc1 Re2 32. f6
+gxf6 33. gxf6 Rcc2 0-1
+

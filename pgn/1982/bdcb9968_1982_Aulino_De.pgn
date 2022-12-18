@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Aulino"]
+[Black "De Palma"]
+[Result "0-1"]
+[ECO "B77"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, 9...Bd7"]
+[HashCode "bdcb9968"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8.
+Qd2 Nc6 9. Bc4 Bd7 10. h4 Rc8 11. Bb3 h5 12. Nxc6 bxc6 13. O-O-O c5 14. Bc4
+Rb8 15. Qd3 Qa5 16. Bg5 Bc6 17. Rhe1 d5 18. exd5 Nxd5 19. Bxd5 Bxd5 20. a3
+Rxb2 0-1
+

@@ -1,0 +1,22 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Kristensen, Bjarke Hautop"]
+[Black "Holm, Sejer"]
+[Result "1-0"]
+[ECO "A66"]
+[Opening "Benoni"]
+[Variation "Mikenas variation"]
+[HashCode "a496f3ea"]
+[Epoch "Rook"]
+[BlackID "1400304"]
+[BlackCountry "DEN"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. f4 Bg7 8. e5
+Nfd7 9. Nf3 O-O 10. Be2 dxe5 11. O-O a6 12. a4 exf4 13. Bxf4 Nf6 14. h3 Nh5 15.
+Bh2 Nd7 16. d6 b6 17. Nd5 Bb7 18. Ne7+ Kh8 19. Ng5 Bd4+ 20. Kh1 Bf6 21. Rxf6
+Nhxf6 22. Qb3 Kg7 23. Bc4 Qe8 24. Rf1 h6 25. Rxf6 Nxf6 26. Be5 hxg5 27. Qg3 Kh7
+28. Qxg5 Nh5 29. Nf5 Qxe5 30. Qh6+ Kg8 31. Ne7+ Qxe7 32. dxe7 Ng7 33. Qxg6 b5
+34. exf8=Q+ Rxf8 35. Qb6 Bxg2+ 36. Kxg2 bxc4 37. Qxa6 Rb8 38. Qxc4 Rxb2+ 39.
+Kf1 Ne6 40. a5 Rb4 41. Qa2 Rb7 42. Qg2+ 1-0

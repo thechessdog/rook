@@ -1,0 +1,20 @@
+[Event "Bundesliga 8283"]
+[Site "Germany"]
+[Date "1983.??.??"]
+[Round "?"]
+[White "Wockenfuss, Klaus"]
+[Black "Schussler, Harry"]
+[Result "1/2-1/2"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "ee133759"]
+[Epoch "Rook"]
+[WhiteID "4600746"]
+[BlackID "1700081"]
+[WhiteCountry "GER"]
+[BlackCountry "SWE"]
+
+1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. d4 e6 5. Nf3 Nf6 6. Be2 cxd4 7. cxd4 Be7 8.
+Nc3 Qd8 9. Ne5 Nc6 10. Be3 O-O 11. O-O Bd7 12. Bf3 Be8 13. Rc1 Rc8 14. Qe2 Na5
+15. Rfd1 Bc6 16. Bxc6 Nxc6 17. Qb5 1/2-1/2

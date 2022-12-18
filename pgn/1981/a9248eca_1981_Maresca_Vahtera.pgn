@@ -1,0 +1,17 @@
+[Event "corr EU/H"]
+[Site "corr EU/H"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Maresca, Filippo"]
+[Black "Vahtera, Manu"]
+[Result "0-1"]
+[ECO "A58"]
+[Opening "Benko gambit"]
+[Variation "fianchetto variation"]
+[HashCode "a9248eca"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. bxa6 Bxa6 6. Nc3 d6 7. Nf3 g6 8.
+g3 Bg7 9. Bg2 O-O 10. O-O Nbd7 11. Re1 Ng4 12. e4 Qa5 13. Bd2 Bd3 14. Bg5
+c4 15. Bxe7 Rfb8 16. Ng5 Rxb2 17. Qxg4 Qxc3 18. a4 Ne5 19. Qd1 Rxf2 0-1
+

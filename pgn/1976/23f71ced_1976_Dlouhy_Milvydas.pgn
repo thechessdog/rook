@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Dlouhy, J."]
+[Black "Milvydas, V."]
+[Result "0-1"]
+[ECO "D85"]
+[Opening "Gruenfeld"]
+[Variation "exchange variation"]
+[HashCode "23f71ced"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. Nf3 Bg7 6. Bd2 O-O 7. e4 Nb6
+8. Qc1 Bg4 9. Ne5 Be6 10. h4 Nc6 11. Nxg6 fxg6 12. d5 Ne5 13. dxe6 Nbc4 14.
+Bg5 Qd4 15. f3 Rad8 16. Nd1 Rxf3 17. Bxc4 Qxe4+ 18. Ne3 Rxe3+ 19. Qxe3 Qxg2
+0-1
+

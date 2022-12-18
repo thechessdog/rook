@@ -1,0 +1,25 @@
+[Event "Denmark"]
+[Site "Norresundby"]
+[Date "1984.01.01"]
+[Round "5"]
+[White "Kroll, Ove"]
+[Black "Hansen, Curt"]
+[Result "0-1"]
+[ECO "D61"]
+[Opening "QGD"]
+[Variation "Orthodox defence, Rubinstein variation"]
+[HashCode "4bac459b"]
+[Epoch "Rook"]
+[BlackID "1400010"]
+[BlackCountry "DEN"]
+[WhiteID "1400215"]
+[WhiteCountry "DEN"]
+
+1. c4 e6 2. Nc3 d5 3. d4 Nf6 4. Bg5 Be7 5. e3 O-O 6. Nf3 Nbd7 7. Qc2 c5 8. Rd1
+Qa5 9. cxd5 exd5 10. dxc5 Nxc5 11. Bxf6 Bxf6 12. Rxd5 Be6 13. Ng5 Bxg5 14. Rxg5
+Rac8 15. Be2 Nd3+ 16. Bxd3 Qxg5 17. Bxh7+ Kh8 18. Be4 b5 19. a3 a5 20. f4 Qf6
+21. Qe2 b4 22. axb4 axb4 23. Qh5+ Qh6 24. Qxh6+ gxh6 25. Ne2 Rfd8 26. Rg1 Bb3
+27. Bf5 Rc5 28. g4 Rd1+ 29. Kf2 Rd2 30. Kf3 Bd1 31. Re1 Rc1 32. b3 Ra1 33. h4
+Ra3 34. Rxd1 Rxd1 35. Nd4 Kg8 36. Ke2 Rxd4 37. exd4 Rxb3 38. d5 Rh3 39. d6 Kf8
+40. h5 b3 41. Kd2 Rf3 42. Kc1 Rxf4 43. Kb2 Rb4 44. Kc3 Rb6 45. d7 Ke7 46. Kb2
+Kd8 0-1

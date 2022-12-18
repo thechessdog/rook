@@ -1,0 +1,21 @@
+[Event "corr NS/I"]
+[Site "corr NS/I"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Luodonpaa, Martti"]
+[Black "Koskinen, Veikko"]
+[Result "0-1"]
+[ECO "A59"]
+[Opening "Benko gambit"]
+[Variation "Ne2 variation"]
+[HashCode "3f8eaf16"]
+[Epoch "Rook"]
+[WhiteID "502880"]
+[BlackID "503380"]
+[WhiteCountry "FIN"]
+[BlackCountry "FIN"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. bxa6 Bxa6 6. Nc3 g6 7. e4 Bxf1 8.
+Kxf1 d6 9. Nge2 Bg7 10. h3 O-O 11. Kg1 Qa5 12. Kh2 Nbd7 13. Qc2 Rfb8 14. Bd2
+Qb4 15. Rhb1 Qc4 16. f3 Ne5 17. b3 Qa6 18. a3 Nh5 19. Ra2 Nd3 20. b4 Be5+ 21.
+Kg1 cxb4 0-1

@@ -1,0 +1,23 @@
+[Event "IBM-B"]
+[Site "Amsterdam II"]
+[Date "1979.07.01"]
+[Round "10"]
+[White "Van Riemsdijk, Herman Claudius"]
+[Black "Van der Sterren, Paul"]
+[Result "1-0"]
+[ECO "B81"]
+[Opening "Sicilian"]
+[Variation "Scheveningen, Keres attack"]
+[HashCode "f1e4291c"]
+[Epoch "Rook"]
+[WhiteID "2100053"]
+[WhiteCountry "BRA"]
+[BlackID "1000071"]
+[BlackCountry "NED"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. g4 a6 7. g5 Nfd7 8. Be3
+b5 9. a3 Nb6 10. f4 N8d7 11. f5 Ne5 12. fxe6 Bxe6 13. Nxe6 fxe6 14. Qh5+ g6 15.
+Qh3 Ke7 16. O-O-O Bg7 17. Bd4 Rc8 18. Be2 Nbc4 19. Rhf1 h5 20. Bxc4 Rxc4 21.
+Rf6 Ng4 22. e5 Bxf6 23. gxf6+ Kd7 24. Qg3 d5 25. Qd3 Kc8 26. b3 Rc6 27. Na2 Kb7
+28. Nb4 Rc8 29. Kb2 Qd7 30. Qd2 Nh6 31. Nd3 Nf7 32. a4 bxa4 33. Ra1 Qb5 34.
+Rxa4 Rc4 35. Ra5 Rxd4 36. Rxb5+ axb5 37. Nc5+ 1-0

@@ -1,0 +1,20 @@
+[Event "Schacknytts Jubileumsturnering"]
+[Site "Malmo"]
+[Date "1979.11.28"]
+[Round "3"]
+[White "Ornstein, Axel"]
+[Black "Schussler, Harry"]
+[Result "0-1"]
+[ECO "E41"]
+[Opening "Nimzo-Indian"]
+[Variation "e3, Huebner variation"]
+[HashCode "fba6f089"]
+[Epoch "Rook"]
+[WhiteID "1700111"]
+[WhiteCountry "SWE"]
+[BlackID "1700081"]
+[BlackCountry "SWE"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 Nc6 6. Nf3 Bxc3+ 7. bxc3 d6 8.
+O-O e5 9. Qc2 O-O 10. dxc5 dxc5 11. Ng5 g6 12. f4 exf4 13. exf4 Ne7 14. f5 Bxf5
+15. Bxf5 Nxf5 16. Rxf5 gxf5 17. Qxf5 Qd1+ 18. Kf2 Rae8 19. Qxf6 Qe1+ 0-1

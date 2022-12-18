@@ -1,0 +1,22 @@
+[Event "corr Netherlands"]
+[Site "corr Netherlands"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Wilting"]
+[Black "Kruis"]
+[Result "0-1"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, 6.Bd3"]
+[HashCode "5f1f9315"]
+[Epoch "Rook"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 O-O 6. Bd3 Nc6 7. e5 dxe5 8.
+fxe5 Nh5 9. Be2 Bg4 10. Be3 f6 11. exf6 exf6 12. d5 Ne5 13. Nd4 Re8 14. Qd2
+c6 15. dxc6 bxc6 16. O-O-O f5 17. Rhe1 Bxe2 18. Qxe2 Qf6 19. Nf3 Qf7 20.
+Ng5 Qc4 21. Bd4 Qxe2 22. Rxe2 Nf4 23. Rf2 Ned3+ 24. cxd3 Bxd4 25. Rc2 Re3
+26. Rcd2 Re7 27. Rc2 Rd8 28. Kb1 Re3 29. g3 Nxd3 30. Ne6 Rxe6 31. Rxd3 Red6
+32. Rcd2 Kg7 33. Ne2 Be5 34. Rxd6 Rxd6 35. Rxd6 Bxd6 36. Nd4 c5 37. Nf3 h5
+38. Kc2 Kf6 39. Kd3 g5 40. Nd2 g4 41. Ke2 f4 42. b3 f3+ 43. Kd3 Kf5 44. Ne4
+Be5 0-1
+

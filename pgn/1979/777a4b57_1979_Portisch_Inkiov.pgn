@@ -1,0 +1,20 @@
+[Event "Varso zt"]
+[Site "Varso zt"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Portisch, Ferenc"]
+[Black "Inkiov, Ventzislav"]
+[Result "1/2-1/2"]
+[ECO "D29"]
+[Opening "QGA"]
+[Variation "classical, 8...Bb7"]
+[HashCode "777a4b57"]
+[Epoch "Rook"]
+[WhiteID "700487"]
+[BlackID "2900033"]
+[WhiteCountry "HUN"]
+[BlackCountry "FID"]
+
+1. d4 Nf6 2. Nf3 d5 3. c4 dxc4 4. e3 e6 5. Bxc4 c5 6. O-O a6 7. Qe2 b5 8. Bb3
+Bb7 9. a4 Nbd7 10. axb5 axb5 11. Rxa8 Qxa8 12. Nc3 b4 13. Nb5 Qa5 14. e4 Be7
+15. e5 Nd5 16. Bg5 Bc6 17. Nd6+ Bxd6 18. exd6 1/2-1/2

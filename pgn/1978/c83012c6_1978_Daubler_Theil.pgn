@@ -1,0 +1,23 @@
+[Event "corr Germany"]
+[Site "corr Germany"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Daubler"]
+[Black "Theil"]
+[Result "0-1"]
+[ECO "B87"]
+[Opening "Sicilian"]
+[Variation "Sozin with ...a6 and ...b5"]
+[HashCode "c83012c6"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 b5 8.
+O-O Be7 9. f4 O-O 10. a3 Bb7 11. f5 e5 12. Nde2 Nbd7 13. Ng3 Rc8 14. Qe2
+Rxc3 15. bxc3 Nc5 16. c4 bxc4 17. Bxc4 Ncxe4 18. Nxe4 Nxe4 19. Bd3 Nc3 20.
+Qg4 Bf6 21. Bd2 e4 22. Bc4 d5 23. Bxc3 Bxc3 24. Rab1 Qe7 25. Be2 Bc8 26.
+Qg3 Be5 27. Qb3 d4 28. Bc4 Qg5 29. Rbe1 e3 30. Bd3 Rd8 31. Rb1 Qh4 32. g3
+Bxg3 33. hxg3 Qxg3+ 34. Kh1 Rd6 35. f6 Qh4+ 36. Kg1 Qg5+ 37. Kh1 Rd5 38.
+Bf5 Qh5+ 39. Kg1 Rxf5 40. Rxf5 Qxf5 41. fxg7 Qg6+ 42. Kh1 Qh6+ 43. Kg1
+Qxg7+ 44. Kh1 Qh6+ 45. Kg1 Qg5+ 46. Kh1 Qh4+ 47. Kg1 e2 48. Qb4 Qg3+ 49.
+Kh1 e1=Q+ 50. Rxe1 Bd7 0-1
+

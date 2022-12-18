@@ -1,0 +1,18 @@
+[Event "Banja Luka"]
+[Site "Banja Luka"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Matanovic, Aleksandar"]
+[Black "Garcia Gonzales, Guillermo"]
+[Result "1/2-1/2"]
+[ECO "C03"]
+[Opening "French"]
+[Variation "Tarrasch"]
+[HashCode "90bca12f"]
+[Epoch "Rook"]
+[WhiteID "900230"]
+[WhiteCountry "SRB"]
+[BlackCountry "CUB"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Ne7 4. Ngf3 Ng6 5. h4 h5 6. g3 c5 7. Bg2 Nc6 8. c3
+cxd4 9. cxd4 dxe4 10. Nxe4 e5 11. Rb1 1/2-1/2

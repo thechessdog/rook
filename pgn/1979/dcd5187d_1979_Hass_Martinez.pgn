@@ -1,0 +1,19 @@
+[Event "corr CADAP"]
+[Site "corr CADAP"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Hass, J."]
+[Black "Martinez, P."]
+[Result "1-0"]
+[ECO "B97"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7...Qb6"]
+[HashCode "dcd5187d"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qb6 8.
+Qd2 Qxb2 9. Nb3 Nc6 10. Bxf6 gxf6 11. Na4 Qa3 12. Nb6 Rb8 13. Nc4 Qa4 14.
+Be2 b5 15. Nxd6+ Bxd6 16. Qxd6 Qb4+ 17. Qxb4 Nxb4 18. Bd3 e5 19. O-O Ke7
+20. Be2 Nxc2 21. Rac1 Nd4 22. Nxd4 exd4 23. Rc7+ Kd6 24. Rfc1 Bd7 25. Bg4
+Rhd8 26. R1c5 h5 27. Bf5 Ke7 28. Rd5 1-0
+

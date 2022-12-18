@@ -1,0 +1,21 @@
+[Event "corr NBC"]
+[Site "corr NBC"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Langerak"]
+[Black "Van Welzen"]
+[Result "1-0"]
+[ECO "B64"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...Be7 defence, 9.f4"]
+[HashCode "a57e21b2"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 e6 7. Qd2 Be7
+8. O-O-O O-O 9. f4 h6 10. Bh4 Bd7 11. Nf3 Qa5 12. Kb1 Rfc8 13. Rg1 Be8 14.
+g4 b5 15. g5 hxg5 16. Rxg5 d5 17. Qg2 g6 18. exd5 Nxd5 19. Nxd5 Bxg5 20.
+Nf6+ Bxf6 21. Bxf6 b4 22. Ne5 b3 23. cxb3 Nb4 24. a3 Nd5 25. Nc4 Qc5 26.
+Bd4 Qe7 27. f5 Rd8 28. Re1 Qh4 29. Bf2 Qh5 30. fxg6 Qe5 31. Ka2 fxg6 32.
+Ne3 Nxe3 33. Rxe3 Rac8 34. Bc4 Bc6 35. Qg3 Be4 36. Qh4 Rd4 37. Qe7 Rdxc4
+38. bxc4 Rxc4 39. Qe8+ 1-0
+

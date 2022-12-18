@@ -1,0 +1,17 @@
+[Event "Eindhoven"]
+[Site "Eindhoven"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Schoeber, Peter"]
+[Black "Bouwmans"]
+[Result "1-0"]
+[ECO "A27"]
+[Opening "English"]
+[Variation "three knights system"]
+[HashCode "7eec01b2"]
+[Epoch "Rook"]
+[WhiteID "1002430"]
+[WhiteCountry "NED"]
+
+1. c4 e5 2. Nc3 Nc6 3. Nf3 g6 4. d4 exd4 5. Nxd4 Nge7 6. Bg5 Bg7 7. Nd5 Bxd4 8.
+Qxd4 Nxd4 9. Nf6+ 1-0

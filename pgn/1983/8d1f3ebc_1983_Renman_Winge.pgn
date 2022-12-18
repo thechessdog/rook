@@ -1,0 +1,19 @@
+[Event "Sweden"]
+[Site "Sweden"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Renman, Nils-Gustaf"]
+[Black "Winge, Stefan"]
+[Result "1-0"]
+[ECO "A80"]
+[Opening "Dutch, 2.Bg5 variation"]
+[HashCode "8d1f3ebc"]
+[Epoch "Rook"]
+[BlackID "1700898"]
+[BlackCountry "SWE"]
+[WhiteCountry "SWE"]
+
+1. d4 f5 2. Bg5 d5 3. e3 Nf6 4. Bxf6 exf6 5. Nf3 c6 6. c4 Be6 7. Qb3 Qb6 8. Nc3
+dxc4 9. Bxc4 Qxb3 10. axb3 Kf7 11. Ke2 Bxc4+ 12. bxc4 Nd7 13. c5 Be7 14. b4 g5
+15. Nd2 h5 16. Nc4 h4 17. b5 g4 18. Rhb1 h3 19. g3 Rhb8 20. Na5 cxb5 21. Nxb5
+a6 22. Nc7 Ra7 23. Nc4 Rc8 24. Nb5 axb5 25. Rxa7 bxc4 26. Rbxb7 c3 27. Rxd7 1-0

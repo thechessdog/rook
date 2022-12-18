@@ -1,0 +1,20 @@
+[Event "Reykjavik op"]
+[Site "Reykjavik"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Sahovic, Dragutin"]
+[Black "Olafsson, Helgi"]
+[Result "1-0"]
+[ECO "A45"]
+[Opening "Trompovsky attack (Ruth, Opovcensky opening)"]
+[HashCode "1592c07e"]
+[Epoch "Rook"]
+[BlackID "2300010"]
+[BlackCountry "ISL"]
+[WhiteCountry "SRB"]
+
+1. d4 Nf6 2. Bg5 Ne4 3. Bf4 c5 4. f3 Qa5+ 5. c3 Nf6 6. d5 e6 7. e4 exd5 8. e5
+Ng8 9. Qxd5 Ne7 10. Qe4 f5 11. exf6 d5 12. Qe5 gxf6 13. Qh5+ Kd8 14. Na3 Bd7
+15. O-O-O Nbc6 16. Nh3 d4 17. cxd4 Rc8 18. dxc5 Nd4 19. Bc4 Rxc5 20. Qf7 Nec6
+21. Qxf6+ Kc8 22. Qxh8 Rxc4+ 23. Nxc4 Qc5 24. b3 Bxh3 25. gxh3 Ne2+ 26. Kb2
+Nxf4 27. Nd6+ Kc7 28. Qxf8 Qf2+ 29. Kb1 1-0

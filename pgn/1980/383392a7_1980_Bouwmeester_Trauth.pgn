@@ -1,0 +1,21 @@
+[Event "Berlin tt"]
+[Site "Berlin-West"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Bouwmeester, Hans"]
+[Black "Trauth, Michael, Dr."]
+[Result "1-0"]
+[ECO "D09"]
+[Opening "QGD"]
+[Variation "Albin counter-gambit, 5.g3"]
+[HashCode "383392a7"]
+[Epoch "Rook"]
+[WhiteID "1000187"]
+[BlackID "4606116"]
+[WhiteCountry "NED"]
+[BlackCountry "GER"]
+
+1. d4 d5 2. c4 e5 3. dxe5 d4 4. Nf3 Nc6 5. g3 Be6 6. Qa4 Bb4+ 7. Bd2 Bxd2+ 8.
+Nbxd2 Ne7 9. Bg2 Ng6 10. O-O Qd7 11. Nb3 O-O 12. Rfd1 Rad8 13. Nc5 Qc8 14. Qb5
+Ngxe5 15. Nxe5 Nxe5 16. Nxb7 c6 17. Qxe5 Qxb7 18. b3 Qb6 19. c5 Qa6 20. Rxd4
+Rxd4 21. Qxd4 Qxe2 22. Bxc6 h6 23. Bg2 Rc8 24. c6 a5 25. Qc3 Rd8 26. c7 1-0

@@ -1,0 +1,22 @@
+[Event "Slupsk"]
+[Site "Slupsk"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Dobosz, Henryk"]
+[Black "Bielczyk, Jacek"]
+[Result "1/2-1/2"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (without ...d6)"]
+[HashCode "1c0b3f2c"]
+[Epoch "Rook"]
+[WhiteID "1100114"]
+[WhiteCountry "POL"]
+[BlackID "1100530"]
+[BlackCountry "POL"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 e6 4. Bxc6 bxc6 5. O-O f6 6. Nh4 Qe7 7. f4 Qf7 8. c4
+Ne7 9. d3 Ng6 10. Nxg6 Qxg6 11. e5 d5 12. Nc3 Be7 13. b3 O-O 14. Qe2 fxe5 15.
+fxe5 Rxf1+ 16. Kxf1 Bd7 17. Kg1 Rf8 18. Ba3 Be8 19. Na4 Qh6 20. Bxc5 Qf4 21.
+Bf2 Bg6 22. Rf1 a6 23. cxd5 cxd5 24. d4 a5 25. Qe3 Qf5 26. Nc5 Bxc5 27. dxc5
+Qc2 28. Rc1 d4 1/2-1/2

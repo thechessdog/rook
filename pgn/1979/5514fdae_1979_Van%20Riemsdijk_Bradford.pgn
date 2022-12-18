@@ -1,0 +1,19 @@
+[Event "Lone Pine open"]
+[Site "Lone Pine open"]
+[Date "1979.03.01"]
+[Round "9"]
+[White "Van Riemsdijk, Herman Claudius"]
+[Black "Bradford, Joseph M"]
+[Result "1/2-1/2"]
+[ECO "E53"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line with ...c5"]
+[HashCode "5514fdae"]
+[Epoch "Rook"]
+[WhiteID "2100053"]
+[WhiteCountry "BRA"]
+[BlackID "2000539"]
+[BlackCountry "USA"]
+
+1. c4 Nf6 2. Nc3 e6 3. d4 Bb4 4. e3 c5 5. Nf3 O-O 6. Bd3 d5 7. O-O cxd4 8. exd4
+dxc4 9. Bxc4 b6 10. Bg5 1/2-1/2

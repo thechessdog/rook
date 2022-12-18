@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Plum, M."]
+[Black "Koepcke, R."]
+[Result "0-1"]
+[ECO "D40"]
+[Opening "QGD"]
+[Variation "Semi-Tarrasch defence"]
+[HashCode "3230fcf4"]
+[Epoch "Rook"]
+
+1. Nf3 d5 2. d4 Nf6 3. c4 e6 4. Nc3 c5 5. e3 Nc6 6. dxc5 Bxc5 7. a3 a5 8.
+Be2 O-O 9. O-O d4 10. Na4 Ba7 11. c5 e5 12. exd4 e4 13. Ne5 Nxd4 14. Bc4
+Bb8 15. Bf4 Ng4 16. Nxg4 Bxf4 17. Nb6 h5 18. Ne3 Nf3+ 19. Qxf3 exf3 20.
+Nxa8 Qg5 0-1
+

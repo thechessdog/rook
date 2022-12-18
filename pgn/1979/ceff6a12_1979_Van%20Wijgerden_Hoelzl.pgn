@@ -1,0 +1,29 @@
+[Event "IBM-B"]
+[Site "Amsterdam II"]
+[Date "1979.07.01"]
+[Round "13"]
+[White "Van Wijgerden, Cornelis"]
+[Black "Hoelzl, Franz"]
+[Result "0-1"]
+[ECO "B05"]
+[Opening "Alekhine's defence"]
+[Variation "modern, Panov variation"]
+[HashCode "ceff6a12"]
+[Epoch "Rook"]
+[BlackCountry "AUT"]
+[BlackID "1600044"]
+[WhiteID "1000144"]
+[WhiteCountry "NED"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. Nf3 Bg4 5. h3 Bxf3 6. Qxf3 dxe5 7. dxe5 e6 8.
+Bc4 Nc6 9. Qe4 Nde7 10. O-O Qd4 11. Qxd4 Nxd4 12. Bd3 Nec6 13. Be3 O-O-O 14.
+Bxd4 Rxd4 15. Re1 Bb4 16. Nc3 Rhd8 17. g3 h5 18. Kg2 Bxc3 19. bxc3 R4d5 20. f4
+Rc5 21. c4 Rd4 22. Kf3 Na5 23. Re4 Rxe4 24. Kxe4 b6 25. Kd4 Kd7 26. h4 Ke7 27.
+Be2 f6 28. exf6+ gxf6 29. Bd3 Nb7 30. Rg1 Nd6 31. g4 hxg4 32. Rxg4 Rh5 33. Rg7+
+Kd8 34. Rg8+ Kd7 35. Rg7+ Kc6 36. Rg6 e5+ 37. Kc3 Rxh4 38. fxe5 fxe5 39. Rg7
+Rh3 40. Kd2 e4 41. Bf1 Rf3 42. Bg2 Nxc4+ 43. Ke2 Rf4 44. Bh3 Rh4 45. Rg6+ Kc5
+46. Bg2 Rf4 47. Rg7 e3 48. Rxc7+ Kb4 49. Kd3 a5 50. Bd5 b5 51. c3+ Ka4 52. Bxc4
+Rxc4 53. Re7 Rh4 54. Rxe3 Rh2 55. Re4+ Ka3 56. Re5 Ka4 57. Re4+ b4 58. cxb4
+axb4 59. Re8 Rxa2 60. Ra8+ Kb3 61. Rb8 Rh2 62. Rb7 Ka3 63. Rb8 b3 64. Ra8+ Kb2
+65. Ra7 Rc2 66. Ra8 Rc7 67. Kd2 Rd7+ 68. Ke2 Kb1 69. Rb8 b2 70. Ra8 Rd4 71. Ke3
+Rd5 72. Ke4 Rb5 0-1

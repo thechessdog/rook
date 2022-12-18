@@ -1,0 +1,20 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Engel"]
+[Black "Kuhne"]
+[Result "0-1"]
+[ECO "C64"]
+[Opening "Ruy Lopez"]
+[Variation "Cordel gambit"]
+[HashCode "08755575"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. c3 f5 5. d4 fxe4 6. Bxc6 dxc6 7. Nxe5 Bd6
+8. Qh5+ g6 9. Qe2 Qh4 10. g3 Qh3 11. Qxe4 Be6 12. Qe2 Ne7 13. f3 O-O-O 14.
+Nd2 c5 15. dxc5 Bxe5 16. Qxe5 Nc6 17. Qe2 Bf5 18. Qf1 Rhe8+ 19. Kf2 Ne5 20.
+Qxh3 Nd3+ 21. Kg1 Bxh3 22. Ne4 Nxc1 23. Rxc1 Rxe4 24. fxe4 Rd2 25. Re1 Rg2+
+26. Kf1 Rxb2+ 27. Kg1 Rg2+ 28. Kf1 Rxa2+ 29. Kg1 Rg2+ 30. Kf1 Rd2+ 31. Kg1
+h5 0-1
+

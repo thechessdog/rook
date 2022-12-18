@@ -1,0 +1,23 @@
+[Event "Berlin"]
+[Site "Berlin"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Klundt, Klaus"]
+[Black "Groszpeter, Attila"]
+[Result "0-1"]
+[ECO "B89"]
+[Opening "Sicilian"]
+[Variation "Velimirovic attack"]
+[HashCode "79cf68f5"]
+[Epoch "Rook"]
+[WhiteID "4600436"]
+[WhiteCountry "GER"]
+[BlackID "700053"]
+[BlackCountry "HUN"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bc4 e6 7. Be3 Be7 8.
+Qe2 O-O 9. O-O-O Bd7 10. f4 Rc8 11. Bb3 Na5 12. e5 Ne8 13. Kb1 a6 14. f5 Nxb3
+15. axb3 Qa5 16. fxe6 fxe6 17. exd6 Nxd6 18. Rhe1 Bh4 19. g3 Bf6 20. Nxe6 Bxe6
+21. Rxd6 Bf7 22. Bd4 Rfe8 23. Qf2 Rxe1+ 24. Qxe1 Qc7 25. Rxf6 gxf6 26. Qf2 Qc6
+27. Bxf6 Bxb3 28. cxb3 Rf8 29. Nd5 Qxd5 30. Qf4 Qf7 31. Qg5+ Qg6+ 32. Qxg6+
+hxg6 33. Bg5 Rf2 34. h4 Rf3 0-1

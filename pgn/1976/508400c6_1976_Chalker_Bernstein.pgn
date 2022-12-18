@@ -1,0 +1,15 @@
+[Event "Continental Open"]
+[Site "Continental Open"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Chalker, R."]
+[Black "Bernstein, Sidney Norman"]
+[Result "0-1"]
+[ECO "D00"]
+[Opening "Blackmar gambit"]
+[HashCode "508400c6"]
+[Epoch "Rook"]
+[BlackCountry "USA"]
+
+1. d4 d5 2. e4 dxe4 3. Nc3 e5 4. dxe5 Qxd1+ 5. Kxd1 Nc6 6. Nd5 Bg4+ 7. f3 O-O-O
+8. c4 exf3 9. gxf3 Be6 10. f4 Rxd5+ 0-1

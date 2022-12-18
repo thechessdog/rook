@@ -1,0 +1,19 @@
+[Event "corr FNPCC"]
+[Site "corr FNPCC"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Slack"]
+[Black "Carlson, Curtis"]
+[Result "0-1"]
+[ECO "A00"]
+[Opening "Dunst (Sleipner, Heinrichsen) opening"]
+[HashCode "231ce2ff"]
+[Epoch "Rook"]
+[BlackID "2002868"]
+[BlackCountry "USA"]
+
+1. Nc3 e5 2. d4 exd4 3. Qxd4 Nc6 4. Qd3 Bc5 5. Be3 Bxe3 6. Qxe3+ Nge7 7. Nf3
+O-O 8. Qd2 d5 9. h3 Bf5 10. g4 Bg6 11. O-O-O Nb4 12. a3 Nxc2 13. Nb5 Na1 14.
+Qc3 a6 15. Nbd4 c5 16. Nf5 d4 17. N3xd4 cxd4 18. Rxd4 Nxf5 19. Rxd8 Rfxd8 20.
+gxf5 Bxf5 21. e3 Rac8 22. Bc4 b5 23. b3 bxc4 24. bxc4 Rd3 25. Qxa1 Rxc4+ 26.
+Kb2 Rd2+ 27. Kb3 Be6 28. Rb1 a5 29. a4 Rcc2+ 30. Ka3 Rd3+ 31. Rb3 Rxb3# 0-1

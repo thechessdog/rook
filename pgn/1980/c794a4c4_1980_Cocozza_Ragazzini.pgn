@@ -1,0 +1,17 @@
+[Event "Caorle"]
+[Site "Caorle"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Cocozza"]
+[Black "Ragazzini"]
+[Result "1-0"]
+[ECO "C60"]
+[Opening "Ruy Lopez"]
+[Variation "fianchetto (Smyslov/Barnes) defence"]
+[HashCode "c794a4c4"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 g6 4. d4 Nxd4 5. Nxd4 exd4 6. Qxd4 Qf6 7. e5 Qb6
+8. Qd3 Ne7 9. O-O Bg7 10. Nc3 a6 11. Bg5 axb5 12. Bxe7 c6 13. Qd6 Bf8 14.
+Bxf8 Rxf8 15. Nd5 1-0
+

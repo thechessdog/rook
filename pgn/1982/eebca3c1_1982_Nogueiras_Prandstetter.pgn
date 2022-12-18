@@ -1,0 +1,18 @@
+[Event "Varna"]
+[Site "Varna"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Nogueiras Santiago, Jesus"]
+[Black "Prandstetter, Eduard"]
+[Result "1/2-1/2"]
+[ECO "E48"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 O-O, 5.Bd3 d5"]
+[HashCode "eebca3c1"]
+[Epoch "Rook"]
+[BlackID "300225"]
+[BlackCountry "CZE"]
+[WhiteCountry "CUB"]
+
+1. d4 e6 2. c4 Nf6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. cxd5 exd5 7. Ne2 c6 8. O-O
+Bd6 9. f3 c5 10. g4 Nc6 11. Rf2 Be6 12. a3 a6 13. h3 h5 14. Rg2 1/2-1/2

@@ -1,0 +1,17 @@
+[Event "corr Finland"]
+[Site "corr Finland"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Peljo"]
+[Black "Sabel"]
+[Result "1-0"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, poisoned pawn, Euwe-Gligoric variation"]
+[HashCode "42a5ad08"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Qg4 cxd4
+8. Qxg7 Rg8 9. Qxh7 Qc7 10. Kd1 Nbc6 11. Nf3 dxc3 12. Bf4 Qb6 13. Be3 d4
+14. Bf4 Qb2 15. Rc1 Qxa3 16. Ng5 Nxe5 17. Ne4 d3 18. Nf6+ Kd8 19. Bxd3 1-0
+

@@ -1,0 +1,20 @@
+[Event "corr ch-CSSR"]
+[Site "corr ch-CSSR"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Smrka"]
+[Black "Kucuczka"]
+[Result "0-1"]
+[ECO "B67"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...a6 defence, 8...Bd7"]
+[HashCode "b200efbd"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd2 a6 8.
+O-O-O Bd7 9. f4 b5 10. a3 Be7 11. Nf3 b4 12. axb4 Nxb4 13. Bxf6 Qa5 14. Kb1
+gxf6 15. g4 Bc6 16. Nd4 Rc8 17. Bg2 O-O 18. f5 Bd7 19. Nb3 Qc7 20. h4 Kh8
+21. Bf3 a5 22. Rc1 a4 23. Nd4 a3 24. Nd5 exd5 25. Qxb4 Rb8 26. Qxa3 Qb6 27.
+Rcd1 dxe4 28. Be2 d5 29. Qb3 Qa5 30. Qe3 Ra8 31. Nb3 Qa2+ 32. Kc1 Ba4 33.
+Rh3 Rab8 34. Rd4 Bxb3 35. cxb3 Rfc8+ 0-1
+

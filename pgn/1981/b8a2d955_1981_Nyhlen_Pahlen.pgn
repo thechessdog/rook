@@ -1,0 +1,23 @@
+[Event "Fritsla"]
+[Site "Fritsla"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Nyhlen, T."]
+[Black "Pahlen, Hans"]
+[Result "0-1"]
+[ECO "B33"]
+[Opening "Sicilian"]
+[Variation "Pelikan (Lasker/Sveshnikov) variation"]
+[HashCode "b8a2d955"]
+[Epoch "Rook"]
+[BlackID "1729730"]
+[BlackCountry "SWE"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Nxc6 bxc6 7. a3 Be7 8.
+Be2 O-O 9. Be3 d5 10. exd5 cxd5 11. Bg5 Be6 12. O-O h6 13. Bh4 a6 14. Kh1 d4
+15. Nb1 Ne4 16. Bxe7 Qxe7 17. f3 Nf6 18. Bd3 Nd5 19. Re1 Ne3 20. Qe2 Qg5 21.
+Nd2 f5 22. Nf1 f4 23. Nxe3 dxe3 24. Bxa6 Bf5 25. Bc4+ Kh7 26. Bd5 Rad8 27. c4
+Qg6 28. b4 Bd3 29. Qb2 e4 30. fxe4 Bxe4 31. Bxe4 Qxe4 32. Qb1 Qxb1 33. Raxb1
+Rd2 34. Rbd1 Rfd8 35. Rc1 Ra2 36. c5 Rdd2 37. c6 Rxg2 38. c7 Rxh2+ 39. Kg1
+Rhg2+ 40. Kh1 Rh2+ 41. Kg1 Rhg2+ 42. Kh1 Rh2+ 43. Kg1 f3 44. c8=Q Rag2+ 45. Kf1
+Rh1# 0-1

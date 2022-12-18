@@ -1,0 +1,26 @@
+[Event "Santiago"]
+[Site "Santiago de Chile"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Silva, Ceu"]
+[Black "Campos Lopez, Mario"]
+[Result "0-1"]
+[ECO "B47"]
+[Opening "Sicilian"]
+[Variation "Taimanov (Bastrikov) variation"]
+[HashCode "a6e60c64"]
+[Epoch "Rook"]
+[WhiteID "1900560"]
+[WhiteCountry "POR"]
+[BlackID "5100100"]
+[BlackCountry "MEX"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e6 5. Nc3 Qc7 6. g3 a6 7. Bg2 d6 8. O-O
+Bd7 9. b3 Be7 10. Nde2 Nf6 11. Bb2 O-O 12. Nf4 Rac8 13. Re1 Rfd8 14. Re2 b5 15.
+Rd2 Ne5 16. Qe1 Bc6 17. Rad1 b4 18. Nb1 Qb7 19. Rd4 a5 20. c4 Re8 21. Nd2 Qb8
+22. Nf1 Ned7 23. R4d2 Nc5 24. f3 a4 25. Nd3 Nfd7 26. Nc1 axb3 27. axb3 Nb7 28.
+Bd4 Bg5 29. Ne3 Rcd8 30. Qf2 Nbc5 31. Ra2 Qb6 32. h4 Bh6 33. Ng4 Bxc1 34. Rxc1
+Qb7 35. Rb1 Ra8 36. Rxa8 Rxa8 37. Qe3 f6 38. Nf2 e5 39. Bb2 Nf8 40. Bh3 Bd7 41.
+Bxd7 Nfxd7 42. f4 exf4 43. gxf4 Re8 44. Re1 Qa8 45. Ra1 Qc6 46. Re1 Re7 47. f5
+Ne5 48. Rd1 Nf7 49. Rd5 Qe8 50. Rd4 Qa8 51. Rxd6 Nxd6 52. Qxc5 Qd8 53. Qd5+ Nf7
+54. Qxd8+ Nxd8 55. Nd3 Nc6 56. Nc5 Ra7 57. Na4 Rd7 0-1

@@ -1,0 +1,18 @@
+[Event "Moscow"]
+[Site "Moscow"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Semina, Svetlana"]
+[Black "Struchkova, Svetlan"]
+[Result "0-1"]
+[ECO "C64"]
+[Opening "Ruy Lopez"]
+[Variation "Cordel gambit"]
+[HashCode "80619f4b"]
+[Epoch "Rook"]
+[WhiteID "4109627"]
+[WhiteCountry "RUS"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. c3 f5 5. d4 fxe4 6. Bxc6 dxc6 7. Nxe5 Bd6 8.
+Qh5+ g6 9. Nxg6 Nf6 10. Qh4 Rg8 11. Ne5 Rxg2 12. Bg5 Bxe5 13. dxe5 Bg4 14. Nd2
+Qd3 15. Qxg4 Nxg4 0-1

@@ -1,0 +1,17 @@
+[Event "Sandomierz"]
+[Site "Sandomierz"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Ilievski"]
+[Black "Graul"]
+[Result "1-0"]
+[ECO "C10"]
+[Opening "French"]
+[Variation "Rubinstein variation"]
+[HashCode "f04159e8"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ Qxf6 6. Nf3 Bd6 7. Bg5
+Qf5 8. Bd3 Qa5+ 9. c3 Nd7 10. O-O c6 11. Re1 Qc7 12. Qe2 O-O 13. Qe4 g6 14.
+Qh4 Re8 15. Re4 Nb6 16. Bf6 Nd5 17. Qxh7+ 1-0
+

@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Walther, O."]
+[Black "Paldan, W."]
+[Result "0-1"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack"]
+[HashCode "9bd15fc5"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 c5 4. Bxf6 gxf6 5. e4 dxe4 6. dxc5 Qa5 7. Qh5
+Bg7 8. O-O-O f5 9. Bb5+ Nc6 10. Nge2 O-O 11. Qg5 Be6 12. Nf4 Kh8 13. Nxe6
+fxe6 14. Bxc6 bxc6 15. Qxe7 Rae8 16. Qd6 Bxc3 17. Qxc6 Bg7 18. Rd7 Qxa2 19.
+Qb7 Qa1+ 20. Kd2 Qxh1 21. Rxg7 Rd8+ 0-1
+

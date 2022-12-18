@@ -1,0 +1,18 @@
+[Event "corr Belgium"]
+[Site "corr Belgium"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Maes"]
+[Black "Simon"]
+[Result "1-0"]
+[ECO "C69"]
+[Opening "Ruy Lopez"]
+[Variation "exchange variation, 5.O-O"]
+[HashCode "61a23c72"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O Ne7 6. Nxe5 Qd4 7. Qh5 g6
+8. Nf3 Qxe4 9. Qa5 Bg7 10. d3 Qe6 11. Qxc7 Nd5 12. Qg3 O-O 13. Re1 Qf5 14.
+a3 Bd7 15. Nbd2 Rfe8 16. Rxe8+ Rxe8 17. Ne4 Qh5 18. c4 Be5 19. cxd5 cxd5
+20. Qxe5 1-0
+

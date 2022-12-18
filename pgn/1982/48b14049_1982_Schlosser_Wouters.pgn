@@ -1,0 +1,19 @@
+[Event "corr EUR/M"]
+[Site "corr EUR/M"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Schlosser"]
+[Black "Wouters"]
+[Result "1/2-1/2"]
+[ECO "B12"]
+[Opening "Caro-Kann"]
+[Variation "advance variation"]
+[HashCode "48b14049"]
+[Epoch "Rook"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 e6 5. Be2 Ne7 6. O-O Nd7 7. Be3 Bg6 8.
+Nh4 c5 9. c4 dxc4 10. Bxc4 cxd4 11. Bxd4 Nc6 12. Nxg6 hxg6 13. g3 a6 14.
+Nc3 Qc7 15. Rc1 Rd8 16. Re1 Nxd4 17. Qxd4 Nb6 18. Nd5 Qd7 19. Qxb6 exd5 20.
+Red1 Qh3 21. Rxd5 Qxh2+ 22. Kf1 Qh1+ 23. Ke2 Qh5+ 24. Kd2 Qg5+ 25. Qe3 Bb4+
+26. Kd3 Qf5+ 27. Qe4 Ke7 28. Qxf5 gxf5 29. Ke3 Rc8 30. Rc2 1/2-1/2
+

@@ -1,0 +1,16 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Fuller, W."]
+[Black "Johnson, I."]
+[Result "1-0"]
+[ECO "C55"]
+[Opening "two knights"]
+[Variation "Max Lange attack, Loman defence"]
+[HashCode "47f7f97d"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 Nf6 5. O-O Bc5 6. e5 d5 7. exf6 dxc4
+8. Re1+ Be6 9. Ng5 g6 10. Qf3 Qd7 11. Nxe6 fxe6 12. f7+ Kf8 13. Qf6 1-0
+

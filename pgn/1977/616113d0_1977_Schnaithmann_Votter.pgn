@@ -1,0 +1,18 @@
+[Event "corr FRG/C"]
+[Site "corr FRG/C"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Schnaithmann, K."]
+[Black "Votter, H."]
+[Result "0-1"]
+[ECO "A88"]
+[Opening "Dutch"]
+[Variation "Leningrad, main variation with c6"]
+[HashCode "616113d0"]
+[Epoch "Rook"]
+
+1. d4 f5 2. c4 Nf6 3. Nc3 g6 4. g3 Bg7 5. Bg2 d6 6. Nf3 O-O 7. O-O c6 8.
+Re1 Nh5 9. e4 f4 10. e5 Bg4 11. Qd3 Bxf3 12. Bxf3 dxe5 13. d5 e6 14. Qe2
+exd5 15. cxd5 Kh8 16. Rd1 Qb6 17. Ne4 cxd5 18. Rxd5 Nf6 19. Rxe5 Nc6 20.
+Rg5 Nd4 0-1
+

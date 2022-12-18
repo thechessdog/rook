@@ -1,0 +1,18 @@
+[Event "corr NS/I"]
+[Site "corr NS/I"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Luukkainen, Pekka"]
+[Black "Halmi, Pentti"]
+[Result "0-1"]
+[ECO "C70"]
+[Opening "Ruy Lopez"]
+[Variation "Cozio defence deferred"]
+[HashCode "fd19c907"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nge7 5. d4 exd4 6. Bg5 f6 7. Bh4 Ng6
+8. O-O Nxh4 9. Nxh4 g6 10. f4 Bc5 11. f5 Ne5 12. Nd2 c6 13. Kh1 d6 14. Bb3
+Qe7 15. Nc4 Bd7 16. fxg6 hxg6 17. Nxe5 dxe5 18. Qe1 Qh7 19. Nf3 g5 20. Qg3
+g4 21. Nxe5 Bd6 22. Bf7+ Kd8 23. Rxf6 Qxh2+ 0-1
+

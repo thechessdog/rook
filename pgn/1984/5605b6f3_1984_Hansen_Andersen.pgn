@@ -1,0 +1,21 @@
+[Event "match"]
+[Site "match"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Hansen, Soren Bech"]
+[Black "Andersen, Tage"]
+[Result "1/2-1/2"]
+[ECO "C99"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Chigorin, 12...c5d4"]
+[HashCode "5605b6f3"]
+[Epoch "Rook"]
+[WhiteID "1400681"]
+[WhiteCountry "DEN"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O d6 5. Re1 a6 6. Ba4 b5 7. Bb3 Be7 8. c3
+O-O 9. h3 Na5 10. Bc2 c5 11. d4 Qc7 12. Nbd2 cxd4 13. cxd4 Bd7 14. Nf1 Rac8 15.
+Ne3 Nc4 16. Bb1 Nxe3 17. Bxe3 Rfe8 18. d5 Bf8 19. Qd2 g6 20. Bh6 Bg7 21. Bxg7
+Kxg7 22. Bd3 Qb6 23. Nh4 Qd4 24. Nf3 Qb6 25. Nh4 Nh5 26. Nf5+ Bxf5 27. exf5 Nf4
+28. Be4 Nh5 29. Qg5 Nf6 30. Rac1 Nxe4 31. Rxe4 Rxc1+ 32. Qxc1 Qb7 33. Qg5 f6
+34. Qg4 Qxd5 35. fxg6 hxg6 36. Qd7+ Qf7 37. Qxd6 Re6 38. Qd5 Re7 1/2-1/2

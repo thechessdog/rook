@@ -1,0 +1,18 @@
+[Event "CUB-ch"]
+[Site "Cuba"]
+[Date "1982.01.01"]
+[Round "11"]
+[White "Nogueiras Santiago, Jesus"]
+[Black "Hernandez, Roman"]
+[Result "1/2-1/2"]
+[ECO "E48"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 O-O, 5.Bd3 d5"]
+[HashCode "d9cb5d06"]
+[Epoch "Rook"]
+[WhiteCountry "CUB"]
+[BlackCountry "CUB"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. cxd5 exd5 7. Ne2 c5 8. a3
+cxd4 9. axb4 dxc3 10. Nxc3 Bg4 11. f3 Bh5 12. g4 Bg6 13. Bxg6 hxg6 14. g5 Nfd7
+15. Nxd5 Qxg5 1/2-1/2

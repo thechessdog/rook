@@ -1,0 +1,16 @@
+[Event "corr FRA-CAN"]
+[Site "corr FRA-CAN"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Maltzov"]
+[Black "Trochet"]
+[Result "0-1"]
+[ECO "C39"]
+[Opening "KGA"]
+[Variation "Kieseritsky, Berlin defence"]
+[HashCode "3ea189ca"]
+[Epoch "Rook"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. h4 g4 5. Ne5 Nf6 6. d4 Bg7 7. Bxf4 Nxe4 8.
+Qxg4 O-O 9. Bh6 Qf6 10. Bxg7 Qf2+ 11. Kd1 Qxd4+ 12. Nd3 Nf2+ 0-1
+

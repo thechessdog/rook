@@ -1,0 +1,21 @@
+[Event "corr ch-DDR"]
+[Site "corr ch-DDR"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Jarosczinsky"]
+[Black "Neumann"]
+[Result "0-1"]
+[ECO "C07"]
+[Opening "French"]
+[Variation "Tarrasch, open variation"]
+[HashCode "4d8b0031"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. Ngf3 Nf6 5. exd5 Nxd5 6. Nb3 cxd4 7. Nbxd4
+Be7 8. Bd2 O-O 9. c4 Nb4 10. a3 N4c6 11. Bc3 Bf6 12. Nb5 Bxc3+ 13. Nxc3 Qf6
+14. Bd3 Nd7 15. Qc2 h6 16. O-O Nde5 17. Nxe5 Nxe5 18. Be2 b6 19. Qe4 Rb8
+20. f4 Nd7 21. Bd3 g6 22. Bc2 Bb7 23. Qe3 Rbc8 24. b3 Nc5 25. Nb5 Qb2 26.
+Rac1 Rcd8 27. b4 Nd3 28. Nxa7 Nxc1 29. Rf2 Qd4 30. Qxc1 Qxc4 31. Qb1 Qa6
+32. Bxg6 f5 33. g4 Qxa7 34. gxf5 exf5 35. h4 Qxa3 36. Bxf5 Rxf5 37. h5 Rd3
+38. b5 Rc5 0-1
+

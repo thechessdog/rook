@@ -1,0 +1,22 @@
+[Event "Trondheim"]
+[Site "Trondheim"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Beri"]
+[Black "Haugen, Arild"]
+[Result "0-1"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, poisoned pawn variation"]
+[HashCode "f1189601"]
+[Epoch "Rook"]
+[BlackID "1505076"]
+[BlackCountry "NOR"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Qg4 Nf5 8. Bd3
+O-O 9. Nf3 Nc6 10. Qh3 c4 11. g4 cxd3 12. gxf5 exf5 13. Rg1 f6 14. cxd3 Qe7 15.
+a4 Rf7 16. Ba3 Qe8 17. Kd2 Kh8 18. Rae1 Be6 19. Nh4 fxe5 20. Ng6+ Kg8 21. Nxe5
+Nxe5 22. Rxe5 Qxa4 23. Rxe6 Qxa3 24. Rh6 Qb2+ 25. Ke3 Re8+ 26. Kf3 Qe2+ 27. Kg2
+Qg4+ 28. Kh1 Qxh3 29. Rxh3 Re2 30. Re3 Rxe3 31. fxe3 Re7 32. Re1 b5 33. Kg2 Kf7
+34. Kf3 g5 35. e4 fxe4+ 36. dxe4 dxe4+ 37. Rxe4 Rxe4 38. Kxe4 Ke6 39. d5+ Kd6
+40. Kd4 h5 41. c4 bxc4 42. Kxc4 a6 0-1

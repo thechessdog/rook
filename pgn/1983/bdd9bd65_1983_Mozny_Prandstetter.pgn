@@ -1,0 +1,20 @@
+[Event "Prague"]
+[Site "Prague"]
+[Date "1983.01.01"]
+[Round "6"]
+[White "Mozny, Milos"]
+[Black "Prandstetter, Eduard"]
+[Result "1/2-1/2"]
+[ECO "E17"]
+[Opening "Queen's Indian"]
+[Variation "old main line, 6.O-O"]
+[HashCode "bdd9bd65"]
+[Epoch "Rook"]
+[BlackID "300225"]
+[BlackCountry "CZE"]
+[WhiteID "300454"]
+[WhiteCountry "CZE"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 b6 4. g3 Bb7 5. Bg2 Be7 6. O-O O-O 7. d5 exd5 8. Nh4
+c6 9. cxd5 Nxd5 10. Nf5 Bc5 11. e4 Qf6 12. Nxg7 Kxg7 13. exd5 Ba6 14. Bd2 cxd5
+15. b4 Bd4 16. Bg5 Qe5 17. Bf4 Qf6 18. Bg5 1/2-1/2

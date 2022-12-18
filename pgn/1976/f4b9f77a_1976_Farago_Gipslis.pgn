@@ -1,0 +1,19 @@
+[Event "IBM"]
+[Site "Amsterdam"]
+[Date "1976.07.01"]
+[Round "8"]
+[White "Farago, Ivan"]
+[Black "Gipslis, Aivars"]
+[Result "1/2-1/2"]
+[ECO "E44"]
+[Opening "Nimzo-Indian"]
+[Variation "Fischer variation, 5.Ne2"]
+[HashCode "f4b9f77a"]
+[Epoch "Rook"]
+[WhiteID "700134"]
+[WhiteCountry "HUN"]
+[BlackCountry "LVA"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 b6 5. Ne2 Bb7 6. a3 Be7 7. d5 O-O 8. Ng3
+Re8 9. Be2 exd5 10. cxd5 c5 11. O-O d6 12. e4 Bf8 13. f4 Na6 14. b3 Nc7 15. Qc2
+a6 16. Bb2 b5 17. Bf3 b4 18. Nb1 Nb5 19. a4 Nd4 20. Qd3 a5 21. Nd2 Ba6 1/2-1/2

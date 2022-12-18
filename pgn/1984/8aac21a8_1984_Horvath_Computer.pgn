@@ -1,0 +1,18 @@
+[Event "Cologne"]
+[Site "Cologne"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Horvath, Maria"]
+[Black "Computer, M."]
+[Result "0-1"]
+[ECO "D21"]
+[Opening "QGA"]
+[Variation "Alekhine defense, Borisenko-Furman variation"]
+[HashCode "8aac21a8"]
+[Epoch "Rook"]
+[WhiteID "1601660"]
+[WhiteCountry "AUT"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 a6 4. e4 b5 5. a4 Bb7 6. d5 c6 7. axb5 axb5 8. Rxa8
+Bxa8 9. Nc3 Nf6 10. Bg5 b4 11. Bxf6 exf6 12. Qa4 bxc3 13. Qxa8 cxb2 14. Qa2
+Qa5+ 15. Qxa5 b1=Q+ 16. Ke2 Bb4 0-1

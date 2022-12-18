@@ -1,0 +1,18 @@
+[Event "Montreal"]
+[Site "Montreal"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Trudel, Claude"]
+[Black "Normand, Andre"]
+[Result "1-0"]
+[ECO "C37"]
+[Opening "KGA"]
+[Variation "King's knight's gambit"]
+[HashCode "6d161a1d"]
+[Epoch "Rook"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. Bc4 d6 5. O-O h6 6. d4 Bg7 7. c3 Ne7 8.
+Nbd2 O-O 9. b4 c6 10. Qc2 Nd7 11. Bb2 Ng6 12. e5 dxe5 13. Qxg6 exd4 14.
+cxd4 Qf6 15. Qe4 Nb6 16. Bd3 Rd8 17. Qh7+ Kf8 18. Rae1 Be6 19. Ne5 Bh8 20.
+d5 1-0
+

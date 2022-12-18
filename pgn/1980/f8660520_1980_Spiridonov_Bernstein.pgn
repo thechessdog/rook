@@ -1,0 +1,25 @@
+[Event "Skara"]
+[Site "Skara"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Spiridonov, Nikola"]
+[Black "Bernstein, David"]
+[Result "1-0"]
+[ECO "A12"]
+[Opening "English"]
+[Variation "Capablanca's variation"]
+[HashCode "f8660520"]
+[Epoch "Rook"]
+[WhiteID "2900238"]
+[BlackID "2800276"]
+[WhiteCountry "FID"]
+[BlackCountry "ISR"]
+
+1. Nf3 d5 2. c4 c6 3. b3 Nf6 4. Bb2 Bg4 5. d3 e6 6. Nbd2 Nbd7 7. h3 Bf5 8. g4
+Bg6 9. Nh4 Bd6 10. Bg2 Qe7 11. a3 a5 12. Qc2 Be5 13. Bxe5 Nxe5 14. Qc3 Ned7 15.
+f4 Ne4 16. Nxg6 Nxc3 17. Nxe7 Kxe7 18. Rc1 d4 19. Nf3 c5 20. e3 a4 21. exd4 Na2
+22. Rb1 axb3 23. Rxb3 Nc1 24. Rxb7 Nxd3+ 25. Kd2 Rxa3 26. Rhb1 Rha8 27. Bf1 Nb4
+28. Ne5 Ra2+ 29. Ke3 Nc2+ 30. Ke4 f5+ 31. gxf5 exf5+ 32. Kxf5 Nxd4+ 33. Ke4 Rd8
+34. Kd5 Rd2 35. Bd3 Ke8 36. Rxd7 Rxd7+ 37. Nxd7 Kxd7 38. Bxh7 Ne6+ 39. Ke5 Re2+
+40. Be4 Re3 41. Rg1 Kd8 42. f5 Nf8 43. Rxg7 Nd7+ 44. Kf4 Rxh3 45. Bc6 Nb6 46.
+f6 Rh8 47. Rb7 Rf8 48. Kf5 1-0

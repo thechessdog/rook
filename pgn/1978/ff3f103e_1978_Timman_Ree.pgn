@@ -1,0 +1,27 @@
+[Event "Netherlands"]
+[Site "Netherlands"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Timman, Jan H"]
+[Black "Ree, Hans"]
+[Result "1-0"]
+[ECO "C91"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Bogolyubov variation"]
+[HashCode "ff3f103e"]
+[Epoch "Rook"]
+[WhiteID "1000012"]
+[BlackID "1000098"]
+[WhiteCountry "NED"]
+[BlackCountry "NED"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. d4 Bg4 10. d5 Na5 11. Bc2 c5 12. h3 Bd7 13. Nxe5 dxe5 14. d6 Be6 15.
+dxe7 Qxe7 16. Nd2 Rfd8 17. Qf3 c4 18. Nf1 Nb7 19. Bg5 h6 20. Bd2 Kh8 21. Qg3
+Bc8 22. a4 bxa4 23. Rxa4 Bd7 24. Ra2 Nc5 25. Qh4 Bc6 26. Bg5 Kg8 27. Bxf6 Qxf6
+28. Qxf6 gxf6 29. f3 Rab8 30. Kf2 Bd7 31. Rd1 Be6 32. Rxd8+ Rxd8 33. Ra5 Rc8
+34. Ne3 Kf8 35. h4 Rc6 36. g3 Nb7 37. Ra2 Nd6 38. f4 Kg7 39. Kf3 Rb6 40. Bd1
+Bc8 41. Be2 Bb7 42. Nxc4 Bxe4+ 43. Ke3 Nxc4+ 44. Kxe4 Nxb2 45. Ke3 a5 46. Kd2
+e4 47. Kc2 Nd3 48. Bxd3 exd3+ 49. Kxd3 Rd6+ 50. Kc4 Rc6+ 51. Kd4 Rd6+ 52. Kc5
+Rd3 53. c4 Rxg3 54. Rxa5 Rg4 55. Kb6 Rxh4 56. c5 Rxf4 57. c6 Re4 58. c7 Re6+
+59. Kb7 Re7 60. Kc6 Re8 61. Kd7 1-0

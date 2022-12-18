@@ -1,0 +1,19 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Tringov, Georgi P"]
+[Black "Vukevic, B."]
+[Result "1-0"]
+[ECO "C34"]
+[Opening "KGA"]
+[Variation "Becker defence"]
+[HashCode "c4c4223e"]
+[Epoch "Rook"]
+[WhiteCountry "BGR"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 h6 4. d4 g5 5. Bc4 d6 6. O-O Bg7 7. c3 Nc6 8. g3 Bh3
+9. Rf2 Nf6 10. Qc2 Qd7 11. gxf4 gxf4 12. Kh1 O-O-O 13. Bd3 d5 14. e5 Ne4 15.
+Bxe4 dxe4 16. Qxe4 Bxe5 17. Bxf4 Qg4 18. Ng1 Bxf4 19. Nxh3 Qd1+ 20. Ng1 Rhg8
+21. Rg2 Rxg2 22. Qxg2 Ne7 23. Qe2 Qc1 24. Nd2 Qxd2 25. Qxd2 Bxd2 26. Rf1 f5 27.
+Nf3 Be3 28. Re1 f4 1-0

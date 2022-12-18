@@ -1,0 +1,17 @@
+[Event "Wijk aan Zee"]
+[Site "Wijk aan Zee"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "van Scheltinga, Theo Daniel"]
+[Black "Koopman, Hendrik"]
+[Result "1/2-1/2"]
+[ECO "E17"]
+[Opening "Queen's Indian"]
+[Variation "Euwe variation"]
+[HashCode "4b446e30"]
+[Epoch "Rook"]
+[WhiteCountry "NLD"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2 Be7 6. O-O O-O 7. b3 d5 8. Bb2
+Nbd7 9. Nbd2 c5 10. e3 Rc8 11. Qe2 Rc7 12. Rfd1 Qa8 13. Ne5 cxd4 14. Nxd7 Nxd7
+15. Bxd4 dxc4 1/2-1/2

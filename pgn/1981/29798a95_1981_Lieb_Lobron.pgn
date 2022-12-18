@@ -1,0 +1,25 @@
+[Event "Bundesliga 8081"]
+[Site "Duitsland tt"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Lieb, Harald"]
+[Black "Lobron, Eric"]
+[Result "1-0"]
+[ECO "E68"]
+[Opening "King's Indian"]
+[Variation "fianchetto, classical variation, 8.e4"]
+[HashCode "29798a95"]
+[Epoch "Rook"]
+[WhiteID "4604814"]
+[WhiteCountry "GER"]
+[BlackID "4600037"]
+[BlackCountry "GER"]
+
+1. Nf3 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 O-O 5. O-O d6 6. d4 Nbd7 7. Nc3 e5 8. e4
+c6 9. d5 Nc5 10. Ne1 cxd5 11. cxd5 a5 12. Nd3 b6 13. Re1 Nxd3 14. Qxd3 Ba6 15.
+Nb5 a4 16. Bf1 Qd7 17. Qc4 Rfc8 18. Qb4 Rc5 19. Na3 Bxf1 20. Rxf1 Qh3 21. f3 h5
+22. Be3 h4 23. Qe1 Nh5 24. g4 Nf4 25. Qd2 Rcc8 26. Rf2 Bh6 27. Kh1 f5 28. gxf5
+gxf5 29. Nb5 Rd8 30. Rc1 Kh8 31. Rc6 Nh5 32. Bxh6 Rg8 33. Rg2 Qxf3 34. Qe2 Qh3
+35. Bg7+ Nxg7 36. Nxd6 Rgf8 37. Nxf5 Rxf5 38. exf5 Qxf5 39. Rh6+ Kg8 40. Rhg6
+Ra7 41. R6g5 Qf4 42. Rxe5 Rc7 43. Re8+ Kh7 44. Qe4+ Qxe4 45. Rxe4 Nf5 46. Rg5
+h3 47. Kg1 Rc1+ 48. Kf2 Rc2+ 49. Re2 1-0

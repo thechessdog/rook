@@ -1,0 +1,18 @@
+[Event "corr ch16-SU"]
+[Site "corr ch16-SU"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Borisov, V."]
+[Black "Kastarnov, S."]
+[Result "1/2-1/2"]
+[ECO "E12"]
+[Opening "Queen's Indian"]
+[Variation "4.Nc3"]
+[HashCode "fa966913"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. Nc3 Bb7 5. Bg5 Be7 6. Qc2 d5 7. e3 O-O 8.
+cxd5 Nxd5 9. Nxd5 Bxd5 10. Bxe7 Qxe7 11. Bd3 g6 12. O-O c5 13. dxc5 Rc8 14.
+Qd2 Bxf3 15. gxf3 Rxc5 16. Rac1 Nd7 17. Rxc5 Nxc5 18. Be2 Rd8 19. Qc2 Qg5+
+1/2-1/2
+

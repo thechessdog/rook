@@ -1,0 +1,20 @@
+[Event "Tunis tt"]
+[Site "Tunis tt"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Trabattoni"]
+[Black "Belkadi, Ridha"]
+[Result "1-0"]
+[ECO "E17"]
+[Opening "Queen's Indian"]
+[Variation "old main line, 6.O-O"]
+[HashCode "7b75d6e7"]
+[Epoch "Rook"]
+[BlackID "5500028"]
+[BlackCountry "TUN"]
+
+1. d4 Nf6 2. Nf3 b6 3. g3 Bb7 4. Bg2 e6 5. O-O Be7 6. c4 d6 7. Nc3 O-O 8. Qc2
+Nc6 9. e4 e5 10. d5 Nb4 11. Qd1 a5 12. Ne1 Nd7 13. Rb1 Bc8 14. a3 Na6 15. b4
+axb4 16. axb4 Nf6 17. Nd3 Nb8 18. c5 bxc5 19. bxc5 Nbd7 20. cxd6 cxd6 21. Nb4
+Nb8 22. Bd2 Bd7 23. Qe2 Ne8 24. Rfc1 Nc7 25. Qc4 Nca6 26. Nc6 Bxc6 27. dxc6 Nc5
+28. Qb5 Ra5 29. Qxb8 Qxb8 30. Rxb8 Rxb8 31. Nd5 Bd8 32. Bxa5 1-0

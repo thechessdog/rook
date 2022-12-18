@@ -1,0 +1,19 @@
+[Event "corr ch-DDR"]
+[Site "corr ch-DDR"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Mittag, L."]
+[Black "Rolle, Hannes"]
+[Result "0-1"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, 6.Bd3"]
+[HashCode "3daf4f7c"]
+[Epoch "Rook"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 O-O 6. Bd3 Nc6 7. e5 dxe5 8.
+fxe5 Nh5 9. Be3 Bg4 10. Be4 f6 11. exf6 Bxf6 12. Bxc6 Bh4+ 13. g3 bxc6 14.
+O-O Bxg3 15. hxg3 Nxg3 16. Rf2 e5 17. Bg5 Qe8 18. Kg2 e4 19. Kxg3 Bxf3 20.
+Qd2 Qe6 21. Rg1 Qg4+ 22. Kh2 Qh5+ 23. Kg3 Rf5 24. Nxe4 Bxe4 25. Rxf5 Bxf5
+26. Bf6 Rf8 0-1
+

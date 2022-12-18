@@ -1,0 +1,16 @@
+[Event "Xenia,OH"]
+[Site "Xenia,OH"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Foley, Dave"]
+[Black "Wall, Bill"]
+[Result "0-1"]
+[ECO "C37"]
+[Opening "KGA"]
+[Variation "King's knight's gambit"]
+[HashCode "796ddeae"]
+[Epoch "Rook"]
+[BlackCountry "USA"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. Bc4 d6 5. d4 g4 6. Nfd2 Qh4+ 7. g3 fxg3 8. e5
+g2+ 0-1

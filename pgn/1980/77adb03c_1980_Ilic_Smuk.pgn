@@ -1,0 +1,18 @@
+[Event "corr YUG"]
+[Site "corr YUG"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Ilic, S."]
+[Black "Smuk, Z."]
+[Result "0-1"]
+[ECO "E40"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Taimanov variation"]
+[HashCode "77adb03c"]
+[Epoch "Rook"]
+
+1. d4 e6 2. c4 Nf6 3. Nc3 Bb4 4. e3 Nc6 5. Ne2 d5 6. a3 Be7 7. cxd5 exd5 8.
+Nf4 O-O 9. Qb3 Na5 10. Qa4 c6 11. Bd2 b6 12. b4 Nc4 13. Bxc4 dxc4 14. Qxc6
+Ba6 15. b5 Qc8 16. Qf3 Bb7 17. e4 Nxe4 18. Nxe4 f5 19. d5 fxe4 20. Qxe4 Bf6
+21. Rc1 Re8 22. Ne6 Qd7 0-1
+

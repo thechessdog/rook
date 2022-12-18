@@ -1,0 +1,17 @@
+[Event "Berkeley"]
+[Site "Berkeley"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Buff, J."]
+[Black "Rice"]
+[Result "1-0"]
+[ECO "C06"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation, main line"]
+[HashCode "9e3c1667"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Bd3 c5 6. c3 Nc6 7. Ne2 cxd4 8.
+cxd4 Qb6 9. Nb3 f6 10. f4 Be7 11. O-O fxe5 12. fxe5 Ndxe5 13. Bb1 Bd7 14.
+Kh1 Nc4 15. Nc3 Bf6 16. Qh5+ g6 17. Bxg6+ Kd8 18. Rxf6 Nxd4 19. Nxd5 1-0
+

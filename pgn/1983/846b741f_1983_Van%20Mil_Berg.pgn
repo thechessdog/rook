@@ -1,0 +1,19 @@
+[Event "OHRA"]
+[Site "Amsterdam / Arnhem"]
+[Date "1983.07.01"]
+[Round "1"]
+[White "Van Mil, Johannes A J"]
+[Black "Berg, Klaus"]
+[Result "1/2-1/2"]
+[ECO "B19"]
+[Opening "Caro-Kann"]
+[Variation "classical, Spassky variation"]
+[HashCode "846b741f"]
+[Epoch "Rook"]
+[BlackID "1400053"]
+[BlackCountry "DEN"]
+[WhiteCountry "NLD"]
+
+1. e4 c6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6 7. Nf3 Nd7 8. h5
+Bh7 9. Bd3 Bxd3 10. Qxd3 Qc7 11. Bd2 Ngf6 12. O-O-O e6 13. Ne4 Be7 14. Nxf6+
+Bxf6 15. Kb1 c5 16. d5 e5 17. c4 b5 18. cxb5 O-O 19. Rhe1 1/2-1/2

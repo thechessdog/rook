@@ -1,0 +1,20 @@
+[Event "Lloyds Bank"]
+[Site "London"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Kaiszauri, Konstanty"]
+[Black "Friedgood, David"]
+[Result "0-1"]
+[ECO "A25"]
+[Opening "English"]
+[Variation "closed, 5.Rb1"]
+[HashCode "e202acbd"]
+[Epoch "Rook"]
+[WhiteID "1700510"]
+[WhiteCountry "SWE"]
+[BlackID "401226"]
+[BlackCountry "ENG"]
+
+1. c4 e5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. Rb1 d6 6. b4 Bf5 7. d3 Qd7 8. e4 Bg4
+9. f3 Be6 10. Nge2 f5 11. O-O Nf6 12. b5 Nd8 13. f4 O-O 14. Nd5 c6 15. exf5
+Bxf5 16. fxe5 dxe5 17. bxc6 bxc6 18. Nxf6+ Rxf6 19. Nc3 Qd4+ 0-1

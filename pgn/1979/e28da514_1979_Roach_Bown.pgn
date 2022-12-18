@@ -1,0 +1,21 @@
+[Event "Scottish League"]
+[Site "Scottish League"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Roach"]
+[Black "Bown"]
+[Result "0-1"]
+[ECO "C14"]
+[Opening "French"]
+[Variation "classical, Steinitz variation"]
+[HashCode "e28da514"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Nfd7 6. Bxe7 Qxe7 7. f4 O-O
+8. Qd2 c5 9. Nf3 Nc6 10. dxc5 Nxc5 11. O-O-O a6 12. Bd3 b5 13. Ne2 b4 14.
+Qe1 h6 15. g4 b3 16. cxb3 Nxd3+ 17. Rxd3 Nb4 18. Rd2 Nxa2+ 19. Kb1 Nb4 20.
+Rd4 a5 21. Nc3 Ba6 22. Qd1 Rfc8 23. f5 a4 24. Nxa4 Qb7 25. fxe6 fxe6 26. g5
+Nc2 27. gxh6 Qxb3 28. Qg1 Rc7 29. Rg4 Raa7 30. Nc5 Bd3 31. Rxg7+ Rxg7 32.
+Qxg7+ Rxg7 33. Nxb3 Nd4+ 34. Kc1 Nxb3+ 35. Kd1 Rc7 36. Rg1+ Kh8 37. Ke1
+Rc1+ 38. Kf2 Rxg1 39. Kxg1 Bf5 40. Kf2 Kh7 0-1
+

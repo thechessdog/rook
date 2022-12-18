@@ -1,0 +1,17 @@
+[Event "Columbus,OH"]
+[Site "Columbus,OH"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Bath, John"]
+[Black "Lund"]
+[Result "1-0"]
+[ECO "C10"]
+[Opening "French"]
+[Variation "Rubinstein variation"]
+[HashCode "bce6687e"]
+[Epoch "Rook"]
+[WhiteID "2018438"]
+[WhiteCountry "USA"]
+
+1. e4 e6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Bd3 Qxd4 6. Bb5+ Bd7 7. Qxd4 Bxb5
+8. Nxf6+ 1-0

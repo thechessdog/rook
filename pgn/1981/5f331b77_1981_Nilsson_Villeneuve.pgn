@@ -1,0 +1,19 @@
+[Event "Stockholm"]
+[Site "Stockholm"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Nilsson, Zandor"]
+[Black "Villeneuve, Alain"]
+[Result "0-1"]
+[ECO "C60"]
+[Opening "Ruy Lopez"]
+[Variation "fianchetto (Smyslov/Barnes) defence"]
+[HashCode "5f331b77"]
+[Epoch "Rook"]
+[BlackID "600415"]
+[BlackCountry "FRA"]
+[WhiteCountry "SWE"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. c3 Nge7 6. d4 exd4 7. cxd4 d5 8. e5
+O-O 9. b3 Bg4 10. Bb2 f6 11. Nbd2 fxe5 12. Be2 e4 13. Ne5 Nxe5 14. Bxg4 Nxg4
+15. Qxg4 Nf5 16. Rad1 c5 17. Ba3 Re8 18. dxc5 e3 19. Ne4 Rxe4 20. Qxe4 dxe4 0-1

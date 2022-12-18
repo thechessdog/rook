@@ -1,0 +1,18 @@
+[Event "IBM-B"]
+[Site "Amsterdam II"]
+[Date "1978.07.01"]
+[Round "13"]
+[White "Van der Sterren, Paul"]
+[Black "Borm, Franciscus WM"]
+[Result "1/2-1/2"]
+[ECO "D46"]
+[Opening "QGD semi-Slav"]
+[Variation "Bogolyubov variation"]
+[HashCode "0d15b614"]
+[Epoch "Rook"]
+[WhiteID "1000071"]
+[WhiteCountry "NED"]
+[BlackCountry "NLD"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 c6 4. Nc3 e6 5. e3 Nbd7 6. Bd3 Be7 7. O-O O-O 8. b3
+b6 9. Bb2 Bb7 10. Qe2 Rc8 11. e4 1/2-1/2

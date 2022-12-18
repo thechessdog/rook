@@ -1,0 +1,20 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Watson, R."]
+[Black "Thompson, I."]
+[Result "1-0"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, poisoned pawn, Euwe-Gligoric variation"]
+[HashCode "4bd634ec"]
+[Epoch "Rook"]
+
+1. d4 e6 2. e4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Qg4 cxd4
+8. Qxg7 Rg8 9. Qxh7 Qc7 10. Kd1 Nbc6 11. Nf3 dxc3 12. Bf4 Bd7 13. Ng5 O-O-O
+14. Nxf7 Qb6 15. Nxd8 Qd4+ 16. Qd3 Qxf4 17. Nxc6 Nxc6 18. Qxc3 Qxf2 19. h4
+Be8 20. Rb1 Rg3 21. Qd2 Bh5+ 22. Kc1 Qc5 23. Rb2 Rxa3 24. Kb1 a6 25. Rb3
+Ra4 26. Qc3 Qf8 27. Rb6 Be8 28. Qb3 Na5 29. Qc3+ Nc4 30. Bxc4 Rxc4 31. Qh3
+Kb8 32. Rb2 Rb4 33. Qa3 Rxb2+ 34. Kxb2 1-0
+

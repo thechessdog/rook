@@ -1,0 +1,21 @@
+[Event "Hoogovens-B"]
+[Site "Wijk aan Zee II"]
+[Date "1982.01.01"]
+[Round "9"]
+[White "Langeweg, Kick"]
+[Black "Vogel, Jaap"]
+[Result "1-0"]
+[ECO "E13"]
+[Opening "Queen's Indian"]
+[Variation "4.Nc3, main line"]
+[HashCode "fe4b2a0a"]
+[Epoch "Rook"]
+[WhiteID "1000160"]
+[WhiteCountry "NED"]
+[BlackID "1000764"]
+[BlackCountry "NED"]
+
+1. d4 e6 2. c4 Nf6 3. Nf3 b6 4. Nc3 Bb4 5. Bg5 h6 6. Bh4 Bb7 7. e3 Qe7 8. Bd3
+Bxc3+ 9. bxc3 d6 10. Bxf6 Qxf6 11. O-O e5 12. Nd2 Qe7 13. Qg4 Nd7 14. Rae1 g6
+15. f4 O-O-O 16. fxe5 dxe5 17. Be4 Bxe4 18. Qxe4 Kb8 19. Qc6 Rhf8 20. c5 Nxc5
+21. Nc4 Qd7 22. Nxe5 Qd5 23. Qxd5 Rxd5 24. Nxg6 1-0

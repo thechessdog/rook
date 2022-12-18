@@ -1,0 +1,22 @@
+[Event "corr EU/M/GT"]
+[Site "corr EU/M/GT"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Krueger, H."]
+[Black "Magnusson, G."]
+[Result "1-0"]
+[ECO "B69"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...a6 defence, 11.Bxf6"]
+[HashCode "55e37fe2"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e6 6. Bg5 d6 7. Qd2 a6 8.
+O-O-O Bd7 9. f4 Be7 10. Nf3 b5 11. Bxf6 gxf6 12. f5 b4 13. Ne2 Qa5 14. Kb1
+O-O-O 15. Ned4 Rhg8 16. g3 Rg4 17. fxe6 fxe6 18. Qd3 Ne5 19. Qxa6+ Qxa6 20.
+Bxa6+ Kc7 21. Bd3 Nxf3 22. Nxf3 Bc6 23. Nd4 Kd7 24. Rhe1 Bb7 25. Bb5+ Kc8
+26. Nxe6 Rdg8 27. Rd4 d5 28. exd5 Rxd4 29. Nxd4 Bc5 30. Ne6 Bd6 31. Bc4 h5
+32. c3 bxc3 33. bxc3 h4 34. gxh4 Bxh2 35. Re2 Be5 36. Re3 Rg4 37. Bb5 Bxd5
+38. Nc5 Rg1+ 39. Kb2 Rg2+ 40. Re2 Rg3 41. Nd3 Bd6 42. Nb4 Bf3 43. Rd2 Be5
+44. a4 Bb7 45. Rd3 Rg4 46. Bd7+ 1-0
+

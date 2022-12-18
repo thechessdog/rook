@@ -1,0 +1,20 @@
+[Event "Augsburg"]
+[Site "Augsburg"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Autenrieth, Michael, Dr."]
+[Black "Senner, Peter"]
+[Result "1-0"]
+[ECO "B20"]
+[Opening "Sicilian defence"]
+[HashCode "9daf3adf"]
+[Epoch "Rook"]
+[BlackID "4608283"]
+[BlackCountry "GER"]
+[WhiteID "4605039"]
+[WhiteCountry "GER"]
+
+1. e4 c5 2. d3 g6 3. g3 Bg7 4. Bg2 Nc6 5. Nf3 d6 6. O-O e5 7. Nc3 Nge7 8. Nd2
+O-O 9. Nc4 a6 10. a4 Rb8 11. a5 Be6 12. Nd5 h6 13. c3 Kh7 14. Be3 Na7 15. f4
+Bxd5 16. exd5 Nf5 17. Bd2 Nc8 18. Be4 Nfe7 19. f5 gxf5 20. Rxf5 Nxf5 21. Qh5
+1-0

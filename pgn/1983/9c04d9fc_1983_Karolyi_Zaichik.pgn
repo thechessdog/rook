@@ -1,0 +1,19 @@
+[Event "Kecskemet"]
+[Site "Kecskemet"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Karolyi, Tibor"]
+[Black "Zaichik, Gennadi"]
+[Result "0-1"]
+[ECO "A41"]
+[Opening "Old Indian defence"]
+[HashCode "9c04d9fc"]
+[Epoch "Rook"]
+[BlackID "13600109"]
+[BlackCountry "USA"]
+[WhiteID "700312"]
+[WhiteCountry "HUN"]
+
+1. d4 d6 2. c4 e5 3. Nf3 e4 4. Nfd2 f5 5. Nc3 Nf6 6. e3 g6 7. d5 Bg7 8. Nb3
+Nbd7 9. Nd4 Ne5 10. b3 O-O 11. Bb2 Qe7 12. Be2 f4 13. O-O f3 14. gxf3 exf3 15.
+Nxf3 Bh3 16. Nd4 Nxd5 17. Nxd5 Qg5+ 18. Bg4 Nf3+ 19. Kh1 Bxg4 0-1

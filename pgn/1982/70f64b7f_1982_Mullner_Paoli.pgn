@@ -1,0 +1,25 @@
+[Event "Elekes mem-B"]
+[Site "Budapest"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Mullner, Imre"]
+[Black "Paoli, Enrico"]
+[Result "1/2-1/2"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (without ...d6)"]
+[HashCode "70f64b7f"]
+[Epoch "Rook"]
+[WhiteID "703346"]
+[WhiteCountry "HUN"]
+[BlackCountry "ITA"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 e6 4. c3 Nge7 5. d4 cxd4 6. cxd4 d5 7. e5 Bd7 8. Nc3
+Ng6 9. O-O Be7 10. Be3 O-O 11. Bd3 Nb4 12. Bb1 Rc8 13. Qd2 a6 14. Ng5 f5 15. f4
+h6 16. Nf3 Be8 17. h3 Nh8 18. Kh1 b5 19. Ne2 Nc6 20. g4 Bg6 21. Ng3 Qa5 22.
+gxf5 Qxd2 23. Bxd2 Bxf5 24. Nxf5 exf5 25. a3 Ng6 26. Ba2 Rfd8 27. Rac1 Bf8 28.
+Rc2 Nge7 29. Rfc1 Kf7 30. Be1 Ke6 31. b4 Na7 32. Kg2 Rxc2+ 33. Rxc2 Rc8 34. Rc5
+Rxc5 35. dxc5 Nac6 36. Kf2 g5 37. fxg5 hxg5 38. Nxg5+ Kxe5 39. Nf3+ Ke6 40. Bc3
+Bh6 41. Bb3 Ng6 42. Nd4+ Nxd4 43. Bxd4 Bc1 44. a4 Bd2 45. axb5 axb5 46. Bc2
+Bxb4 47. Bd3 Nf4 48. Bf1 Ke7 49. Bxb5 Ne6 50. c6 Bd6 51. Bb6 Bc7 52. Bxc7 Nxc7
+53. Bd3 Kf6 54. Ke3 Ne6 55. h4 Ke5 56. h5 f4+ 57. Kd2 Kd6 58. h6 1/2-1/2

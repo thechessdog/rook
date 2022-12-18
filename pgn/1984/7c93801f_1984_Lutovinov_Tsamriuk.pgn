@@ -1,0 +1,17 @@
+[Event "corr ch16-SU"]
+[Site "corr ch16-SU"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Lutovinov, A."]
+[Black "Tsamriuk, A."]
+[Result "1-0"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Paulsen attack"]
+[HashCode "7c93801f"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. a3 c4 7. Nbd2 Na5 8. b4
+cxb3 9. Bb2 Bd7 10. c4 dxc4 11. Bxc4 Bb5 12. Qe2 Nxc4 13. Nxc4 Bxc4 14.
+Qxc4 Ne7 15. O-O Nd5 16. Rac1 a6 17. Rfd1 1-0
+

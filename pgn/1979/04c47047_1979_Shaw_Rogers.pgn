@@ -1,0 +1,19 @@
+[Event "Brisbane"]
+[Site "Brisbane"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Shaw, Terrey Ian"]
+[Black "Rogers, Ian"]
+[Result "1/2-1/2"]
+[ECO "B16"]
+[Opening "Caro-Kann"]
+[Variation "Bronstein-Larsen variation"]
+[HashCode "04c47047"]
+[Epoch "Rook"]
+[BlackID "3200019"]
+[BlackCountry "AUS"]
+[WhiteCountry "AUS"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ gxf6 6. Nf3 Bg4 7. Be2 Qc7
+8. c4 e6 9. h3 Bh5 10. O-O Nd7 11. d5 O-O-O 12. dxc6 Qxc6 13. Nd4 Bxe2 14. Qxe2
+Qb6 15. Be3 Bc5 1/2-1/2

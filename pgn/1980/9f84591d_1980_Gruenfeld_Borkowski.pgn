@@ -1,0 +1,24 @@
+[Event "Oberwart"]
+[Site "Oberwart"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Gruenfeld, Yehuda"]
+[Black "Borkowski, Franciszek"]
+[Result "1-0"]
+[ECO "C65"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence, Beverwijk variation"]
+[HashCode "9f84591d"]
+[Epoch "Rook"]
+[WhiteID "2800020"]
+[WhiteCountry "ISR"]
+[BlackID "1100173"]
+[BlackCountry "POL"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Bc5 5. Nxe5 Nxe4 6. Qe2 Nxe5 7. Qxe4 Qe7
+8. Nc3 Ng6 9. Qxe7+ Bxe7 10. Nd5 Bd6 11. Re1+ Kd8 12. Ne3 Re8 13. d4 c6 14. Bc4
+f6 15. Bd2 Bf8 16. Bg8 Bd6 17. Bxh7 Bxh2+ 18. Kxh2 Rh8 19. Kg3 Rxh7 20. Rh1
+Rxh1 21. Rxh1 Ke8 22. Rh7 Kf8 23. Nf5 d6 24. Nxd6 Be6 25. Rh1 b6 26. Re1 Bd7
+27. Bb4 Kg8 28. f4 Rb8 29. f5 Nf8 30. b3 a5 31. Ba3 a4 32. Bb4 Ra8 33. bxa4
+Rxa4 34. a3 Ra6 35. Kf4 Ra7 36. c4 Ra4 37. g4 Ra8 38. Re7 Rb8 39. c5 b5 40. Ke4
+Rd8 41. d5 Rb8 42. Kd4 Ra8 43. Rxd7 Nxd7 44. dxc6 Ne5 45. Kd5 1-0

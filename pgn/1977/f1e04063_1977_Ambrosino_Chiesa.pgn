@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Ambrosino"]
+[Black "Chiesa"]
+[Result "0-1"]
+[ECO "B99"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7...Be7 main line"]
+[HashCode "f1e04063"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8.
+Qf3 Qc7 9. O-O-O Nbd7 10. Bd3 h6 11. h4 b5 12. Bxf6 gxf6 13. f5 Ne5 14. Qh5
+b4 15. Nce2 Nxd3+ 16. Rxd3 e5 17. Ne6 Qb6 18. g4 Bb7 19. Ng3 Rc8 20. g5 Qf2
+21. c3 bxc3 22. bxc3 d5 23. g6 Ba3+ 24. Kd1 dxe4 25. Rf1 Qg2 26. g7 Rg8 27.
+Rd8+ Ke7 28. Rf8 Rcxf8 29. gxf8=Q+ Rxf8 30. Nxf8 Qxg3 0-1
+

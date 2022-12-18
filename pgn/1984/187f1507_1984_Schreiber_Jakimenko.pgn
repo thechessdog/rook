@@ -1,0 +1,21 @@
+[Event "corr DDR/FS"]
+[Site "corr DDR/FS"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Schreiber"]
+[Black "Jakimenko"]
+[Result "0-1"]
+[ECO "E26"]
+[Opening "Nimzo-Indian"]
+[Variation "Saemisch variation"]
+[HashCode "187f1507"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. a3 Bxc3+ 5. bxc3 c5 6. e3 Nc6 7. Bd3 d6 8.
+f4 e5 9. d5 e4 10. Bxe4 Nxe4 11. dxc6 Qh4+ 12. g3 Nxg3 13. Nf3 Qh5 14. Rg1
+Ne4 15. Qc2 Qxf3 16. Rf1 Nf2 17. cxb7 Bxb7 18. Rxf2 Qc6 19. Bb2 O-O 20.
+O-O-O g5 21. fxg5 Rae8 22. Rf6 Rxe3 23. g6 fxg6 24. Rxg6+ Kh8 25. Rgxd6 Qf3
+26. R6d5 Bxd5 27. cxd5 c4 28. Kb1 Re2 29. Rd2 Qf1+ 30. Ka2 Rff2 31. Rxe2
+Qxe2 32. Qc1 Rxh2 33. d6 Qd2 34. d7 Qxd7 35. Qf4 Rg2 36. Qxc4 Qb7 37. Qd4+
+Kg8 38. c4 Qxb2+ 0-1
+

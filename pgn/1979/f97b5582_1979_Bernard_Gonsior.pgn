@@ -1,0 +1,20 @@
+[Event "Warszawa Cup5-A"]
+[Site "Warsaw"]
+[Date "1979.??.??"]
+[Round "11"]
+[White "Bernard, Ryszard"]
+[Black "Gonsior, Evzen"]
+[Result "1/2-1/2"]
+[ECO "C48"]
+[Opening "Four knights"]
+[Variation "Rubinstein counter-gambit, exchange variation"]
+[HashCode "f97b5582"]
+[Epoch "Rook"]
+[WhiteID "1100688"]
+[BlackID "300977"]
+[WhiteCountry "POL"]
+[BlackCountry "CZE"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Bb5 Nd4 5. Nxd4 exd4 6. e5 dxc3 7. exf6 Qxf6
+8. dxc3 Qe5+ 9. Qe2 Qxe2+ 10. Bxe2 d5 11. O-O Bd6 12. Bd3 O-O 13. Bd2 Bd7 14.
+Rfe1 Rfe8 15. Rxe8+ Rxe8 1/2-1/2

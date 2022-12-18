@@ -1,0 +1,20 @@
+[Event "corr ICCF"]
+[Site "corr ICCF"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Drechsler"]
+[Black "Horst"]
+[Result "1/2-1/2"]
+[ECO "C05"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation"]
+[HashCode "1b7daafc"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. f4 c5 6. c3 Nc6 7. Ndf3 cxd4 8.
+cxd4 Nb6 9. Bd3 h5 10. a3 Bd7 11. Nh3 Be7 12. O-O g6 13. Nhg5 Bxg5 14. Nxg5
+Nxd4 15. Bxg6 fxg6 16. Qxd4 O-O 17. Bd2 Nc4 18. Kh1 Nxd2 19. Qxd2 Rc8 20.
+h4 Qe7 21. Kh2 Kg7 22. g3 a6 23. b3 Qc5 24. Rfc1 Qb6 25. b4 Rxc1 26. Rxc1
+Rc8 27. Rxc8 Bxc8 28. Kg2 Qc6 29. Kf2 Qc4 30. Ke3 Bd7 31. Qd4 Qc1+ 32. Kf2
+Qc2+ 1/2-1/2
+

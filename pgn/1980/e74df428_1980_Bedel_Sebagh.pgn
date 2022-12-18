@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Bedel"]
+[Black "Sebagh"]
+[Result "0-1"]
+[ECO "B96"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Polugayevsky variation"]
+[HashCode "e74df428"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 b5 8.
+Bd3 Nc6 9. Qd2 Bb7 10. a3 Be7 11. O-O-O O-O 12. Nb3 Qc7 13. h3 Rac8 14. Qf2
+e5 15. Rhe1 h6 16. Bh4 exf4 17. Qxf4 g5 18. Qd2 gxh4 19. Qxh6 Nh7 20. Kb1
+Bg5 21. Qh5 Ne5 22. Nd4 Qc5 23. Nf5 b4 24. axb4 Qxb4 25. Ka1 Rxc3 26. bxc3
+Qxc3+ 0-1
+

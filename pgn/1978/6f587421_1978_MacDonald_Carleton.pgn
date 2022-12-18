@@ -1,0 +1,18 @@
+[Event "London"]
+[Site "London"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "MacDonald Ross"]
+[Black "Carleton"]
+[Result "0-1"]
+[ECO "A46"]
+[Opening "Queen's pawn"]
+[Variation "Torre attack"]
+[HashCode "6f587421"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. Nf3 e6 3. Bg5 d5 4. e3 Be7 5. Nbd2 Nbd7 6. Bd3 c5 7. c3 h6 8.
+Bh4 O-O 9. Ne5 Nxe5 10. dxe5 Nd7 11. Bg3 b5 12. Nf3 b4 13. c4 dxc4 14. Bxc4
+Nb6 15. Nd2 Nxc4 16. Nxc4 Ba6 17. Qxd8 Rfxd8 18. b3 Bxc4 19. bxc4 Rd3 20.
+Ke2 Rad8 21. Rhd1 Ra3 0-1
+

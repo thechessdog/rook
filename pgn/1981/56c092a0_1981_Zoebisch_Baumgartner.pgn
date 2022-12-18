@@ -1,0 +1,20 @@
+[Event "AUT-ch"]
+[Site "AUT"]
+[Date "1981.??.??"]
+[Round "7"]
+[White "Zoebisch, Herbert"]
+[Black "Baumgartner, Heinz"]
+[Result "0-1"]
+[ECO "A77"]
+[Opening "Benoni"]
+[Variation "classical, 9...Re8, 10.Nd2"]
+[HashCode "56c092a0"]
+[Epoch "Rook"]
+[WhiteID "1601539"]
+[WhiteCountry "AUT"]
+[BlackCountry "AUT"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. Nf3 Bg7 8. Be2
+O-O 9. O-O Re8 10. Nd2 a6 11. a4 Nbd7 12. Ra3 Rb8 13. Re1 Ne5 14. h3 g5 15. Qc2
+g4 16. hxg4 Nfxg4 17. Nf3 b5 18. axb5 axb5 19. Nd1 b4 20. Ra1 Nxf3+ 21. Bxf3
+Qh4 22. Bxg4 Bxg4 23. Ne3 Re5 24. Nxg4 Rh5 25. Kf1 Qxg4 0-1

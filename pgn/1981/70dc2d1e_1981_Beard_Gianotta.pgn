@@ -1,0 +1,17 @@
+[Event "Buckeye Open,OH"]
+[Site "Buckeye Open,OH"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Beard"]
+[Black "Gianotta"]
+[Result "1/2-1/2"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...e6"]
+[HashCode "70dc2d1e"]
+[Epoch "Rook"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 e6 6. Bf4 a6 7. Rc1 Nc6 8.
+Nf3 Be7 9. Bd3 dxc4 10. Bxc4 b5 11. Bd3 Bb7 12. O-O Nb4 13. Bb1 O-O 14. Ne5
+Rc8 15. a3 Nbd5 16. Nxd5 Bxd5 17. Ng4 Rxc1 18. Bxc1 Qa8 1/2-1/2
+

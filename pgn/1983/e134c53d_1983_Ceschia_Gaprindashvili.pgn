@@ -1,0 +1,23 @@
+[Event "Reggio Emilia"]
+[Site "Reggio Emilia"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Ceschia, Ivano"]
+[Black "Gaprindashvili, Nona"]
+[Result "0-1"]
+[ECO "B87"]
+[Opening "Sicilian"]
+[Variation "Sozin with ...a6 and ...b5"]
+[HashCode "e134c53d"]
+[Epoch "Rook"]
+[WhiteID "800260"]
+[WhiteCountry "ITA"]
+[BlackID "13600125"]
+[BlackCountry "GEO"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 b5 8. O-O
+Be7 9. f4 Bb7 10. Be3 Nc6 11. Nxc6 Bxc6 12. f5 b4 13. Na4 exf5 14. Nb6 Bxe4 15.
+Ba4+ Kf8 16. Nxa8 Qxa8 17. Qe2 h5 18. Rae1 h4 19. Bd4 Qb7 20. Qc4 Bd5 21. Rxe7
+Kxe7 22. Qe2+ Be6 23. Rxf5 h3 24. Rg5 Rh4 25. Qf2 Ng4 26. Qd2 Qxg2+ 27. Qxg2
+hxg2 28. Kxg2 Rxh2+ 29. Kg3 Rd2 30. Bxg7 f6 31. Rh5 Ne3 32. Bh6 Rg2+ 33. Kf4
+Nxc2 34. Ke4 Rg4+ 35. Bf4 d5+ 0-1

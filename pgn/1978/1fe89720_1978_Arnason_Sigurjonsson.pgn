@@ -1,0 +1,20 @@
+[Event "Reykjavik"]
+[Site "Reykjavik"]
+[Date "1978.??.??"]
+[Round "?"]
+[White "Arnason, Jon L"]
+[Black "Sigurjonsson, Gudmundur"]
+[Result "1/2-1/2"]
+[ECO "B83"]
+[Opening "Sicilian"]
+[Variation "Scheveningen, 6.Be2"]
+[HashCode "1fe89720"]
+[Epoch "Rook"]
+[WhiteID "2300036"]
+[BlackID "2300079"]
+[WhiteCountry "ISL"]
+[BlackCountry "ISL"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be2 Be7 7. O-O O-O 8. f4
+a6 9. Kh1 Nc6 10. Be3 Nxd4 11. Bxd4 b5 12. a3 Bb7 13. Bd3 Bc6 14. Qe2 Qc7 15.
+e5 dxe5 16. Bxe5 Qb7 1/2-1/2

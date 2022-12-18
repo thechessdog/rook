@@ -1,0 +1,18 @@
+[Event "corr DDR-M"]
+[Site "corr DDR-M"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Sieber, H."]
+[Black "Griesbach, R."]
+[Result "0-1"]
+[ECO "B18"]
+[Opening "Caro-Kann"]
+[Variation "classical variation"]
+[HashCode "171d7063"]
+[Epoch "Rook"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. Nf3 Nd7 7. Bc4 e6
+8. Qe2 Ngf6 9. c3 Qc7 10. Ne5 Nxe5 11. dxe5 Nd7 12. f4 O-O-O 13. Be3 Nc5
+14. Bd4 b5 15. b4 Na4 16. Bb3 Bxb4 17. Rc1 Qa5 18. Qf3 Rxd4 19. Qxc6+ Kb8
+20. Bxa4 Qxa4 21. cxb4 Qxb4+ 22. Rc3 Rc4 0-1
+

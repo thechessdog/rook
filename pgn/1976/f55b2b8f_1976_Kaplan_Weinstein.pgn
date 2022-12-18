@@ -1,0 +1,22 @@
+[Event "New York"]
+[Site "New York"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Kaplan, Julio"]
+[Black "Weinstein, Norman"]
+[Result "0-1"]
+[ECO "B84"]
+[Opening "Sicilian"]
+[Variation "Scheveningen (Paulsen), classical variation"]
+[HashCode "f55b2b8f"]
+[Epoch "Rook"]
+[BlackID "2000466"]
+[BlackCountry "USA"]
+[WhiteID "2000326"]
+[WhiteCountry "USA"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e6 7. f4 Be7 8. O-O
+O-O 9. Be3 Nc6 10. Qe1 Nxd4 11. Bxd4 b5 12. Rd1 Bb7 13. Bf3 Qc7 14. e5 dxe5 15.
+fxe5 Nd7 16. Bxb7 Qxb7 17. Ne4 Qc7 18. Nf6+ Kh8 19. Rd3 gxf6 20. exf6 Bc5 21.
+Bxc5 Qxc5+ 22. Kh1 Ne5 23. Rh3 Ng6 24. Qd2 Rg8 25. Qh6 Nf8 26. Rg3 Nd7 27. c3
+Rxg3 28. hxg3 Rg8 29. Rd1 Rg6 0-1

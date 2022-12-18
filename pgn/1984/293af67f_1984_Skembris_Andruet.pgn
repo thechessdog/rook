@@ -1,0 +1,20 @@
+[Event "Rome"]
+[Site "Rome"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Skembris, Spyridon"]
+[Black "Andruet, Gilles"]
+[Result "1-0"]
+[ECO "E19"]
+[Opening "Queen's Indian"]
+[Variation "old main line, 9.Qxc3"]
+[HashCode "293af67f"]
+[Epoch "Rook"]
+[WhiteID "4200020"]
+[WhiteCountry "GRE"]
+[BlackCountry "FRA"]
+
+1. d4 Nf6 2. Nf3 e6 3. g3 b6 4. Bg2 Bb7 5. O-O Be7 6. c4 O-O 7. Nc3 Ne4 8. Qc2
+Nxc3 9. Qxc3 f5 10. b3 Bf6 11. Bb2 d6 12. Rad1 a5 13. Qd2 Na6 14. a3 Qe7 15. b4
+axb4 16. axb4 c5 17. dxc5 Bxb2 18. c6 Bxc6 19. Qxb2 b5 20. cxb5 Bxb5 21. Nd4
+Rab8 22. Nxe6 Rfc8 23. Nd4 Qf6 24. Qa2+ Bc4 25. Bd5+ Bxd5 26. Qxd5+ 1-0

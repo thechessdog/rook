@@ -1,0 +1,19 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Carli"]
+[Black "Griesmann"]
+[Result "1-0"]
+[ECO "C07"]
+[Opening "French"]
+[Variation "Tarrasch, open variation"]
+[HashCode "63ddf2a8"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. Ngf3 Nf6 5. exd5 Nxd5 6. Nb3 cxd4 7. Nbxd4
+Be7 8. Bd3 O-O 9. O-O Bf6 10. c4 Nb4 11. Bb1 Qc7 12. Qe2 Nd7 13. Rd1 a6 14.
+a3 Nc6 15. Ra2 Re8 16. b3 Nc5 17. b4 Nxd4 18. Nxd4 Na4 19. Qc2 Bd7 20.
+Qxh7+ Kf8 21. Re2 Nc3 22. Re3 Nxd1 23. Nf5 g5 24. Qh6+ Kg8 25. Ne7+ Rxe7
+26. Qh7+ Kf8 1-0
+

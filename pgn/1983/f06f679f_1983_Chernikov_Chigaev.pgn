@@ -1,0 +1,17 @@
+[Event "Kursk"]
+[Site "Kursk"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Chernikov, Oleg"]
+[Black "Chigaev"]
+[Result "1-0"]
+[ECO "C33"]
+[Opening "KGA"]
+[Variation "bishop's gambit, Greco variation"]
+[HashCode "f06f679f"]
+[Epoch "Rook"]
+[WhiteID "4109813"]
+[WhiteCountry "RUS"]
+
+1. e4 e5 2. f4 exf4 3. Bc4 Qh4+ 4. Kf1 Bc5 5. d4 Bb6 6. Nf3 Qg4 7. Bxf7+ Kf8 8.
+h3 Qg3 9. Bd2 Kxf7 10. Be1 Qg6 11. Ne5+ 1-0

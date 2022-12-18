@@ -1,0 +1,17 @@
+[Event "DEN-chJ int"]
+[Site "Soro"]
+[Date "1982.01.01"]
+[Round "9"]
+[White "Andresen, Jesper"]
+[Black "Bojsen, Jesper"]
+[Result "1/2-1/2"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Byrne (English) attack"]
+[HashCode "1d14f3e2"]
+[Epoch "Rook"]
+[BlackID "1409085"]
+[BlackCountry "DEN"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e6 7. Be2 Be7 8. O-O
+O-O 9. f4 Qc7 10. Bf3 Nc6 11. a4 Bd7 12. Qe2 1/2-1/2

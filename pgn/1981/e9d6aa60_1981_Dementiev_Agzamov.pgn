@@ -1,0 +1,19 @@
+[Event "Yerevan"]
+[Site "Yerevan"]
+[Date "1981.01.01"]
+[Round "6"]
+[White "Dementiev, Oleg I"]
+[Black "Agzamov, Viachesiav"]
+[Result "0-1"]
+[ECO "B86"]
+[Opening "Sicilian"]
+[Variation "Sozin attack"]
+[HashCode "e9d6aa60"]
+[Epoch "Rook"]
+[BlackID "14200430"]
+[BlackCountry "UZB"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e6 6. Bc4 a6 7. Bb3 Nc6 8. Be3
+Be7 9. Qe2 O-O 10. O-O-O Qc7 11. g4 Nxd4 12. Bxd4 b5 13. g5 Nd7 14. h4 Nc5 15.
+h5 f5 16. exf5 Rxf5 17. Rhg1 Bd7 18. h6 g6 19. Kb1 Nxb3 20. axb3 d5 21. Qd2
+Raf8 22. Ne4 Bc6 23. Qc3 b4 0-1

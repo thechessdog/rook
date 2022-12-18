@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Terpstra, J."]
+[Black "Houtman, A."]
+[Result "0-1"]
+[ECO "C44"]
+[Opening "Scotch"]
+[Variation "Goering gambit"]
+[HashCode "01cdd8e4"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. c3 dxc3 5. Nxc3 Bb4 6. Bc4 Bxc3+ 7. bxc3
+d6 8. O-O Bg4 9. Qb3 Bxf3 10. Bxf7+ Kf8 11. gxf3 Ne5 12. Bh5 Qh4 13. Qxb7
+Re8 14. f4 Qxh5 15. fxe5 Qg4+ 16. Kh1 Qf3+ 17. Kg1 Re6 18. Re1 Rg6+ 19. Kf1
+Qd3+ 20. Re2 Qh3+ 21. Ke1 Qxc3+ 0-1
+

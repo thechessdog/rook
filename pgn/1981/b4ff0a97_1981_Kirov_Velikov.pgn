@@ -1,0 +1,19 @@
+[Event "BUL-ch"]
+[Site "Sofia"]
+[Date "1981.??.??"]
+[Round "3"]
+[White "Kirov, Nino"]
+[Black "Velikov, Petar"]
+[Result "1/2-1/2"]
+[ECO "B18"]
+[Opening "Caro-Kann"]
+[Variation "classical, 6.h4"]
+[HashCode "b4ff0a97"]
+[Epoch "Rook"]
+[BlackID "2900149"]
+[WhiteCountry "BGR"]
+[BlackCountry "FID"]
+
+1. e4 c6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6 7. h5 Bh7 8. Nf3
+Nd7 9. Bd3 Bxd3 10. Qxd3 Ngf6 11. Bf4 Qa5+ 12. Bd2 Qc7 13. O-O-O e6 14. Qe2
+O-O-O 15. Ne5 Nb6 16. Ba5 Bd6 17. Bxb6 axb6 18. Rhe1 1/2-1/2

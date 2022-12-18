@@ -1,0 +1,18 @@
+[Event "corr ch11-DDR"]
+[Site "corr ch11-DDR"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Stark, E."]
+[Black "Krabbe, W."]
+[Result "1-0"]
+[ECO "B76"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, Rauser variation"]
+[HashCode "f541719a"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8.
+Qd2 Nc6 9. O-O-O Bd7 10. g4 Qb8 11. h4 Rd8 12. h5 Nxd4 13. Bxd4 e6 14. hxg6
+hxg6 15. Qg5 e5 16. Be3 Be6 17. Qh4 Kf8 18. Bh6 Bxh6+ 19. Qxh6+ Ke7 20. g5
+Nh5 21. Rxh5 gxh5 22. Qf6+ Kf8 23. Bh3 1-0
+

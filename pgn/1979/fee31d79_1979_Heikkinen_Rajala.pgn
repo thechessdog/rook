@@ -1,0 +1,18 @@
+[Event "corr SC"]
+[Site "corr SC"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Heikkinen, Seppo"]
+[Black "Rajala, Olavi"]
+[Result "1-0"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack"]
+[HashCode "fee31d79"]
+[Epoch "Rook"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 O-O 6. Be2 c5 7. dxc5 Qa5 8.
+O-O Qxc5+ 9. Kh1 Nc6 10. Bd3 Nb4 11. Qe1 b6 12. Be3 Qc7 13. Bd4 Nxd3 14.
+cxd3 a6 15. Qh4 b5 16. e5 dxe5 17. fxe5 Ng4 18. Nd5 Qd8 19. Nxe7+ Kh8 20.
+Ng5 Nh6 21. Rxf7 Bg4 22. Qxh6 1-0
+

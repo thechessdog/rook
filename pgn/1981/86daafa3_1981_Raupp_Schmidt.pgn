@@ -1,0 +1,21 @@
+[Event "Bundesliga 8081"]
+[Site "Duitsland tt"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Raupp, Thomas"]
+[Black "Schmidt, Bodo"]
+[Result "1/2-1/2"]
+[ECO "D45"]
+[Opening "QGD semi-Slav"]
+[Variation "Stoltz variation"]
+[HashCode "86daafa3"]
+[Epoch "Rook"]
+[WhiteID "4601610"]
+[WhiteCountry "GER"]
+[BlackID "4601505"]
+[BlackCountry "GER"]
+
+1. c4 Nf6 2. Nc3 c6 3. Nf3 d5 4. e3 e6 5. d4 Nbd7 6. Qc2 Be7 7. b3 b6 8. Bb2
+O-O 9. Bd3 Bb7 10. O-O Rc8 11. Rad1 Qc7 12. e4 dxe4 13. Nxe4 Nxe4 14. Bxe4 h6
+15. Qe2 Rfe8 16. Bb1 Bf6 17. Ne5 Nxe5 18. dxe5 Be7 19. Rd3 Rcd8 20. Rfd1 Rxd3
+21. Rxd3 1/2-1/2

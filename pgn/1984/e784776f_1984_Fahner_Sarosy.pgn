@@ -1,0 +1,18 @@
+[Event "corr CCCA"]
+[Site "corr CCCA"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Fahner, David"]
+[Black "Sarosy, Zoltan"]
+[Result "1/2-1/2"]
+[ECO "C69"]
+[Opening "Ruy Lopez"]
+[Variation "exchange, Gligoric variation"]
+[HashCode "e784776f"]
+[Epoch "Rook"]
+[BlackCountry "CAN"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O f6 6. d4 Bg4 7. dxe5 Qxd1 8.
+Rxd1 fxe5 9. Rd3 Bxf3 10. gxf3 Bd6 11. Be3 Ne7 12. Nd2 O-O 13. Nc4 Rxf3 14.
+Nxd6 cxd6 15. Rxd6 Ng6 16. Rd7 Rf7 17. Rad1 Raf8 18. Rxf7 Rxf7 19. Rd8+ Rf8 20.
+Rd7 Rf7 21. Rd8+ Rf8 1/2-1/2

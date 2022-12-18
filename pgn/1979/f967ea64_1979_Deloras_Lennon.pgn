@@ -1,0 +1,18 @@
+[Event "corr France"]
+[Site "corr France"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Deloras, Berger"]
+[Black "Lennon"]
+[Result "1-0"]
+[ECO "C83"]
+[Opening "Ruy Lopez"]
+[Variation "open, 9...Be7, 10.Re1"]
+[HashCode "f967ea64"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8.
+dxe5 Be6 9. c3 Be7 10. Re1 O-O 11. Bc2 Nc5 12. b4 Na4 13. Qd3 f5 14. exf6
+Bxf6 15. Qxh7+ Kf7 16. Ng5+ Bxg5 17. Bg6+ Kf6 18. Bxg5+ Kxg5 19. Rxe6 Rh8
+20. h4+ Kf4 21. g3+ Kg4 22. Bh5+ Kh3 23. Qf5# 1-0
+

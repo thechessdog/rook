@@ -1,0 +1,20 @@
+[Event "corr ch-DDR"]
+[Site "corr ch-DDR"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Bade"]
+[Black "Scholz"]
+[Result "0-1"]
+[ECO "C44"]
+[Opening "Scotch gambit"]
+[Variation "Dubois-Reti defence"]
+[HashCode "6fe048de"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d4 exd4 5. e5 d5 6. Bb5 Ne4 7. Nxd4 Bd7
+8. Bxc6 bxc6 9. O-O Bc5 10. f3 Ng5 11. Be3 Bb6 12. f4 Ne4 13. Nd2 c5 14.
+N4b3 Nxd2 15. Qxd2 d4 16. Bf2 Bc6 17. c4 Qd7 18. Bxd4 cxd4 19. c5 d3 20.
+Rac1 O-O 21. f5 Rfe8 22. cxb6 axb6 23. f6 Be4 24. Qg5 Bg6 25. h4 h6 26. Qg3
+h5 27. e6 Qxe6 28. Rxc7 Rxa2 29. Nd4 Qe3+ 30. Qxe3 Rxe3 31. Re7 Re4 32. Nf3
+Rxb2 0-1
+

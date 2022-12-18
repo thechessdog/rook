@@ -1,0 +1,20 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Gebuhr"]
+[Black "Tobies"]
+[Result "1/2-1/2"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, poisoned pawn, Konstantinopolsky variation"]
+[HashCode "11e3651e"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Qg4 cxd4
+8. Qxg7 Rg8 9. Qxh7 Qc7 10. Ne2 Nbc6 11. f4 dxc3 12. Qd3 Bd7 13. Nxc3 a6
+14. Rb1 Na5 15. h4 Nf5 16. Rh3 O-O-O 17. h5 d4 18. Ne4 Bb5 19. Rxb5 axb5
+20. Nf6 Rh8 21. g4 Ne3 22. Bxe3 dxe3 23. Qxe3 Qxc2 24. Qc3+ Qxc3+ 25. Rxc3+
+Kb8 26. Bxb5 Rd4 27. Be8 Rxf4 28. Bxf7 Nc6 29. Nd7+ Ka7 30. Bxe6 Nxe5 31.
+Nxe5 Re4+ 32. Kf2 Rxe5 33. Bf5 Rxh5 1/2-1/2
+

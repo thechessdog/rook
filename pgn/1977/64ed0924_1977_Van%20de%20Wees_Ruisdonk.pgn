@@ -1,0 +1,16 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Van de Wees, A."]
+[Black "Ruisdonk, M."]
+[Result "0-1"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack, Richter variation"]
+[HashCode "64ed0924"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 Bf5 4. f3 Bg6 5. e4 dxe4 6. Bxf6 gxf6 7. fxe4 c6
+8. h4 h5 9. Nf3 Bh6 10. e5 Qc7 11. Bd3 Rg8 12. O-O Nd7 13. Bxg6 Rxg6 14.
+Qe2 O-O-O 15. exf6 Nxf6 16. Ne5 Ng4 17. Rxf7 Nxe5 18. dxe5 Qb6+ 0-1
+

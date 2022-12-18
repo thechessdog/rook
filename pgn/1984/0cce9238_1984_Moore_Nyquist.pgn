@@ -1,0 +1,17 @@
+[Event "Wisconsin"]
+[Site "Wisconsin"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Moore, T."]
+[Black "Nyquist, J."]
+[Result "1-0"]
+[ECO "A34"]
+[Opening "English"]
+[Variation "symmetrical, three knights system"]
+[HashCode "0cce9238"]
+[Epoch "Rook"]
+
+1. Nf3 Nf6 2. c4 c5 3. Nc3 d5 4. cxd5 Nxd5 5. g3 Nc6 6. Bg2 Nc7 7. O-O e5
+8. d3 Be7 9. Nd2 Qd7 10. Nc4 f6 11. a4 b6 12. f4 exf4 13. Bxf4 O-O 14. Bxc7
+Qxc7 15. Nd5 1-0
+

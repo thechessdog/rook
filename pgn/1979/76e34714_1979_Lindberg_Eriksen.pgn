@@ -1,0 +1,19 @@
+[Event "Sweden"]
+[Site "Sweden"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Lindberg, Jan"]
+[Black "Eriksen, Henrik"]
+[Result "0-1"]
+[ECO "B13"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack"]
+[HashCode "76e34714"]
+[Epoch "Rook"]
+[WhiteID "1720724"]
+[WhiteCountry "SWE"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 Nc6 6. Nf3 Bg4 7. Be3 e6 8. h3
+Bh5 9. Be2 Be7 10. O-O O-O 11. Ne5 Bxe2 12. Qxe2 Rc8 13. cxd5 Nxd5 14. Nxd5
+Qxd5 15. Nf3 Bf6 16. Rfd1 Rfd8 17. b3 Qe4 18. Qd3 Qxd3 19. Rxd3 e5 20. d5 e4
+0-1

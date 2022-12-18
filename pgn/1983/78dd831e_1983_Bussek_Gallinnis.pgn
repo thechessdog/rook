@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Bussek, B."]
+[Black "Gallinnis, N."]
+[Result "0-1"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra gambit"]
+[HashCode "78dd831e"]
+[Epoch "Rook"]
+
+1. e4 c5 2. d4 cxd4 3. c3 dxc3 4. Nxc3 e6 5. Nf3 Bc5 6. Bc4 Ne7 7. O-O O-O
+8. Qe2 a6 9. Rd1 b5 10. Bb3 Qb6 11. Bf4 Ng6 12. Bg3 Nc6 13. h4 f6 14. Rd2
+Nge5 15. Rad1 0-1
+

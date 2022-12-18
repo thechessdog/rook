@@ -1,0 +1,20 @@
+[Event "Quebec City"]
+[Site "Quebec City"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Hebert, Jean"]
+[Black "Faille, Jacques"]
+[Result "1-0"]
+[ECO "B17"]
+[Opening "Caro-Kann"]
+[Variation "Steinitz variation"]
+[HashCode "2c293064"]
+[Epoch "Rook"]
+[WhiteID "2600048"]
+[WhiteCountry "CAN"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Nxf6+ exf6 7. Bd3 Bd6
+8. O-O O-O 9. Re1 Re8 10. Rxe8+ Qxe8 11. h3 Nf8 12. c3 Be6 13. c4 Qd7 14. Bd2
+Ng6 15. Qf1 Rd8 16. Rd1 Nf4 17. Bxf4 Bxf4 18. Bc2 Qc7 19. Qe2 g6 20. Bb3 Qb6
+21. d5 cxd5 22. cxd5 Bd7 23. Qe7 Be5 24. d6 Bxb2 25. Qxf7+ Kh8 26. Re1 Be5 27.
+Rxe5 1-0

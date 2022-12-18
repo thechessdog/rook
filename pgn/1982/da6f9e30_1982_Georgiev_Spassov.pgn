@@ -1,0 +1,19 @@
+[Event "Plovdiv"]
+[Site "Plovdiv"]
+[Date "1982.01.01"]
+[Round "5"]
+[White "Georgiev, Krum"]
+[Black "Spassov, Liuben"]
+[Result "1/2-1/2"]
+[ECO "B13"]
+[Opening "Caro-Kann"]
+[Variation "exchange variation"]
+[HashCode "da6f9e30"]
+[Epoch "Rook"]
+[WhiteID "2900092"]
+[WhiteCountry "FID"]
+[BlackID "2900220"]
+[BlackCountry "FID"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. Bd3 Nc6 5. c3 Nf6 6. Nf3 Bg4 7. O-O e6 8. Bf4
+Be7 9. Nbd2 O-O 10. Re1 Re8 11. Qb3 Na5 12. Qa4 Rc8 13. Ne5 Bh5 1/2-1/2

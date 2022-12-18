@@ -1,0 +1,23 @@
+[Event "NOR-ch"]
+[Site "Lillehammer"]
+[Date "1982.??.??"]
+[Round "2"]
+[White "Haugli, Petter"]
+[Black "Agdestein, Simen"]
+[Result "0-1"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "Indian variation"]
+[HashCode "9ee1435b"]
+[Epoch "Rook"]
+[WhiteID "1500104"]
+[BlackID "1500015"]
+[WhiteCountry "NOR"]
+[BlackCountry "NOR"]
+
+1. b3 Nf6 2. Bb2 d5 3. Nf3 Bf5 4. g3 e6 5. Bg2 Be7 6. d3 h6 7. Nbd2 O-O 8. O-O
+a5 9. a3 c6 10. e3 Bh7 11. Qe2 b5 12. e4 Qb6 13. Kh1 Nbd7 14. e5 Ne8 15. g4 Nc7
+16. h4 c5 17. g5 hxg5 18. Nxg5 Bxg5 19. hxg5 a4 20. f4 axb3 21. cxb3 c4 22.
+dxc4 bxc4 23. Rf3 Rfc8 24. a4 cxb3 25. Rxb3 Qa6 26. Qh5 Bf5 27. Bd4 Rab8 28.
+Qf3 Rxb3 29. Nxb3 Qa8 30. Qc3 Na6 31. Qa5 Rb8 32. Bf1 Rxb3 33. Qxa6 Qf8 34. Qc6
+Qb4 35. Bg1 Be4+ 36. Bg2 Rh3+ 37. Bh2 Qd2 38. Rg1 Rxh2+ 39. Kxh2 Qxf4+ 0-1

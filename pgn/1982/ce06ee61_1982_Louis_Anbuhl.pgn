@@ -1,0 +1,18 @@
+[Event "Bundesliga 8182"]
+[Site "Duitsland tt"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Louis, Peter"]
+[Black "Anbuhl, Edgar"]
+[Result "1-0"]
+[ECO "A56"]
+[Opening "Benoni defence"]
+[HashCode "ce06ee61"]
+[Epoch "Rook"]
+[BlackID "4607252"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 c5 3. e3 e6 4. Nf3 d5 5. Nc3 Nc6 6. Bd3 Be7 7. O-O O-O 8. a3 a6
+9. dxc5 Bxc5 10. b4 Bd6 11. cxd5 exd5 12. Bb2 Re8 13. Re1 Bg4 14. Be2 Bc7 15.
+Rc1 Qd6 16. g3 h5 17. Qc2 h4 18. Nxh4 d4 19. Rcd1 Qe6 20. exd4 Rad8 21. d5 Nxd5
+22. Bxg4 1-0

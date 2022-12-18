@@ -1,0 +1,19 @@
+[Event "Surakarta/Denpasar"]
+[Site "Surakarta"]
+[Date "1982.02.01"]
+[Round "6"]
+[White "Henley, Ron"]
+[Black "Csom, Istvan"]
+[Result "1/2-1/2"]
+[ECO "E41"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5"]
+[HashCode "bdb69974"]
+[Epoch "Rook"]
+[WhiteID "2000318"]
+[WhiteCountry "USA"]
+[BlackID "700100"]
+[BlackCountry "HUN"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 Nc6 6. Ne2 cxd4 7. exd4 d5 8. O-O
+O-O 9. cxd5 Nxd5 10. Nxd5 exd5 1/2-1/2

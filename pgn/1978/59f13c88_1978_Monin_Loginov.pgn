@@ -1,0 +1,19 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Monin, N."]
+[Black "Loginov, Valery A"]
+[Result "1-0"]
+[ECO "B43"]
+[Opening "Sicilian"]
+[Variation "Kan, 5.Nc3"]
+[HashCode "59f13c88"]
+[Epoch "Rook"]
+[BlackID "4126297"]
+[BlackCountry "RUS"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 Qc7 6. Bd3 Nc6 7. Be3 Nf6 8.
+O-O Ne5 9. h3 Bc5 10. f4 Nc6 11. Nf5 Ne7 12. Nxg7+ Kf8 13. Bxc5 Qxc5+ 14. Kh1
+Kxg7 15. e5 Nfd5 16. Ne4 Qc7 17. f5 Nxf5 18. Rxf5 exf5 19. Nd6 h5 20. Qf3 Ne7
+21. Bxf5 Rh6 22. Ne8+ 1-0

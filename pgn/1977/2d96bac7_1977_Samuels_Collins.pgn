@@ -1,0 +1,16 @@
+[Event "Phoenix"]
+[Site "Phoenix"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Samuels, Jennie"]
+[Black "Collins, Warren"]
+[Result "1-0"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Nimzovich system"]
+[HashCode "2d96bac7"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. Nf3 cxd4 5. Nxd4 Bc5 6. Nf3 Ne7 7. Bd3 Nec6
+8. O-O Nd7 9. Bf4 O-O 10. Ng5 g6 11. Qg4 Ndxe5 12. Qh3 Nxd3 13. Qxh7# 1-0
+

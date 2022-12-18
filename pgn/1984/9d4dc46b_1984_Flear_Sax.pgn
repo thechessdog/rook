@@ -1,0 +1,21 @@
+[Event "Graz"]
+[Site "Graz"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Flear, Glenn C"]
+[Black "Sax, Gyula"]
+[Result "0-1"]
+[ECO "E55"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Gligoric system, Bronstein variation"]
+[HashCode "9d4dc46b"]
+[Epoch "Rook"]
+[BlackCountry "HUN"]
+[WhiteID "400165"]
+[WhiteCountry "ENG"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 c5 6. Nf3 d5 7. O-O dxc4 8. Bxc4
+Nbd7 9. Qd3 a6 10. a4 Qa5 11. Bd2 Rd8 12. Rfd1 Nb6 13. Bb3 Bd7 14. Bc2 Bc6 15.
+Ne5 Rac8 16. Be1 cxd4 17. exd4 Nbd5 18. Qg3 Ne7 19. Rac1 Ng6 20. h4 Qb6 21. Nc4
+Qa7 22. a5 Bf3 23. Qxf3 Rxc4 24. h5 Nh4 25. Qe3 h6 26. Bb3 Nf5 27. Bxc4 Nxe3
+28. fxe3 Bxa5 29. Bh4 Qb8 30. Rf1 Ng4 31. Rf4 Nxe3 32. Ne2 0-1

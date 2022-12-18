@@ -1,0 +1,21 @@
+[Event "corr EU"]
+[Site "corr EU"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Stuhlmuller"]
+[Black "Martinez, Gustavo"]
+[Result "0-1"]
+[ECO "B25"]
+[Opening "Sicilian"]
+[Variation "closed"]
+[HashCode "e3c19a98"]
+[Epoch "Rook"]
+[BlackID "3300072"]
+[BlackCountry "BOL"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. Nge2 e6 7. O-O Nge7 8. Re1
+O-O 9. Be3 Nd4 10. f4 Rb8 11. Qd2 f5 12. Nd1 b5 13. c3 Nxe2+ 14. Rxe2 b4 15. c4
+a5 16. Rb1 a4 17. Nf2 Bd7 18. d4 cxd4 19. Bxd4 e5 20. fxe5 Nc6 21. exf5 Nxd4
+22. Qxd4 Bxf5 23. Rd1 Bxe5 24. Qd5+ Kh8 25. c5 Qf6 26. cxd6 Bxb2 27. g4 Bd7 28.
+g5 Qc3 29. Re7 Rb5 30. Qe4 Rff5 31. Rxd7 Rxf2 32. Rc7 Rd2 33. Re1 Qd4+ 34.
+Qxd4+ Bxd4+ 35. Kh1 Bf2 0-1

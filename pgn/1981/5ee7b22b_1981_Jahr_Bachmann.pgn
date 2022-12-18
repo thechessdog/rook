@@ -1,0 +1,21 @@
+[Event "Bundesliga 8081"]
+[Site "Germany"]
+[Date "1981.??.??"]
+[Round "?"]
+[White "Jahr, Ulrich"]
+[Black "Bachmann, Karlheinz"]
+[Result "0-1"]
+[ECO "B81"]
+[Opening "Sicilian"]
+[Variation "Scheveningen, Keres attack"]
+[HashCode "5ee7b22b"]
+[Epoch "Rook"]
+[WhiteID "4605977"]
+[BlackID "4602021"]
+[WhiteCountry "GER"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. g4 h6 7. g5 hxg5 8. Bxg5
+a6 9. Qd2 Be7 10. Bg2 Qc7 11. O-O-O Bd7 12. f4 Nc6 13. e5 dxe5 14. Nxc6 Bxc6
+15. Bxc6+ bxc6 16. fxe5 Qxe5 17. Bxf6 Bxf6 18. Qd7+ Kf8 19. Qxc6 Rb8 20. Na4
+Rh4 21. Rhe1 Qf4+ 22. Kb1 Kg8 23. c4 Rxh2 24. b3 Qf2 0-1

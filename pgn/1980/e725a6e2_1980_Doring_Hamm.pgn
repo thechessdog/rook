@@ -1,0 +1,19 @@
+[Event "corr DDR/K"]
+[Site "corr DDR/K"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Doring"]
+[Black "Hamm"]
+[Result "0-1"]
+[ECO "E74"]
+[Opening "King's Indian"]
+[Variation "Averbakh, 6...c5"]
+[HashCode "e725a6e2"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Be2 O-O 6. Bg5 c5 7. d5 h6 8. Be3
+e6 9. Qd2 exd5 10. exd5 Kh7 11. h3 Na6 12. g4 Ng8 13. Bd3 Nc7 14. Nge2 a6
+15. Ng3 b5 16. O-O bxc4 17. Bxc4 Qh4 18. Bf4 Qxh3 19. Bxd6 Bxg4 20. Rfe1
+Rfc8 21. Na4 Rab8 22. Bxc5 Bf3 23. Bf1 Qh4 24. Nb6 Rd8 25. d6 Ne6 26. Be3
+Be5 27. Nc4 Bxg3 28. fxg3 Qh1+ 29. Kf2 Nf6 0-1
+

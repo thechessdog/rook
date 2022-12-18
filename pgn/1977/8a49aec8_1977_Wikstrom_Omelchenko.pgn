@@ -1,0 +1,19 @@
+[Event "corr ol8"]
+[Site "corr ol8"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Wikstrom"]
+[Black "Omelchenko"]
+[Result "0-1"]
+[ECO "E41"]
+[Opening "Nimzo-Indian"]
+[Variation "e3, Huebner variation"]
+[HashCode "8a49aec8"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 Nc6 6. Nf3 Bxc3+ 7. bxc3 d6
+8. O-O e5 9. Qc2 O-O 10. Rd1 cxd4 11. exd4 Bg4 12. Ba3 Re8 13. dxe5 Nxe5
+14. Be2 Bxf3 15. gxf3 Nh5 16. Rd4 Qg5+ 17. Kh1 Nf4 18. Rg1 Qxg1+ 19. Kxg1
+Nxf3+ 20. Kh1 Rxe2 21. Qc1 Nxd4 22. cxd4 g5 23. Bb4 Rae8 24. Qg1 Nh3 25.
+Qg3 Re1+ 26. Bxe1 Rxe1+ 27. Kg2 Rg1+ 28. Kxh3 Rxg3+ 0-1
+

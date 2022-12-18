@@ -1,0 +1,20 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Fioravanti"]
+[Black "Vespa"]
+[Result "1-0"]
+[ECO "C69"]
+[Opening "Ruy Lopez"]
+[Variation "exchange, Gligoric variation"]
+[HashCode "952f7325"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O f6 6. d4 Bg4 7. dxe5 Qxd1
+8. Rxd1 fxe5 9. Rd3 Bxf3 10. gxf3 Nf6 11. Nd2 b5 12. a4 Bd6 13. Nf1 Nh5 14.
+Ng3 g6 15. Nxh5 gxh5 16. Kf1 b4 17. Bd2 Ke7 18. f4 a5 19. f5 Kf7 20. Rh3
+Bc5 21. Rxh5 h6 22. Ke2 Rad8 23. Rg1 Rd4 24. Rg4 Rhd8 25. Be3 Rc4 26. Rxh6
+Rxc2+ 27. Kf3 Rd6 28. Rh7+ Kf8 29. Bh6+ Rxh6 30. Rxh6 Rxf2+ 31. Kg3 Rxb2
+32. Rh8+ Kf7 33. Rh7+ Kf8 34. Rgg7 Rb1 35. Rxc7 Rg1+ 36. Kh3 1-0
+

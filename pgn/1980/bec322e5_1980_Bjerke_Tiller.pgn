@@ -1,0 +1,21 @@
+[Event "Baerum"]
+[Site "Baerum"]
+[Date "1980.??.??"]
+[Round "6"]
+[White "Bjerke, Richard"]
+[Black "Tiller, Bjorn"]
+[Result "1/2-1/2"]
+[ECO "E42"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5, 5.Ne2 (Rubinstein)"]
+[HashCode "bec322e5"]
+[Epoch "Rook"]
+[WhiteID "1500252"]
+[BlackID "1500112"]
+[WhiteCountry "NOR"]
+[BlackCountry "NOR"]
+
+1. c4 Nf6 2. Nc3 e6 3. d4 Bb4 4. e3 c5 5. Ne2 d5 6. a3 Ba5 7. cxd5 Nxd5 8. Bd2
+Nxc3 9. Bxc3 cxd4 10. Bxa5 Qxa5+ 11. b4 Qg5 12. Rc1 O-O 13. Nxd4 e5 14. Nf3 Qe7
+15. Qd5 Nd7 16. Bb5 e4 17. Nd2 Nf6 18. Qc5 Qxc5 19. Rxc5 Be6 20. Ke2 Rfd8 21.
+Rhc1 Rac8 22. Rc7 Bg4+ 23. f3 exf3+ 24. gxf3 Nd5 25. Rxc8 Bxc8 1/2-1/2

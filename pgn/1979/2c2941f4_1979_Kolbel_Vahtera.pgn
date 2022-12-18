@@ -1,0 +1,22 @@
+[Event "corr EU/I"]
+[Site "corr EU/I"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Kolbel, Wolfgang"]
+[Black "Vahtera, Manu"]
+[Result "0-1"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical system, 5.Be2"]
+[HashCode "2c2941f4"]
+[Epoch "Rook"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Nf3 Bg7 5. Be2 O-O 6. O-O c6 7. a4 a5 8. h3
+Nbd7 9. Be3 Qc7 10. Qd2 e5 11. d5 Nb6 12. Rfd1 cxd5 13. Nxd5 Nbxd5 14. exd5
+Ne4 15. Qc1 f5 16. Nd2 Nf6 17. Nc4 Nd7 18. Na3 Qd8 19. Bg5 Bf6 20. Bxf6
+Qxf6 21. Nb5 b6 22. Ra3 Nc5 23. Qh6 Ba6 24. h4 Bxb5 25. Bxb5 e4 26. Rg3 f4
+27. Rg4 Ra7 28. c3 Qg7 29. Qxg7+ Kxg7 30. b4 Nxa4 31. Bxa4 axb4 32. Bc2
+bxc3 33. Bxe4 b5 34. Rb1 Ra4 35. f3 Rxe4 36. fxe4 h5 37. Rg5 c2 38. Rc1 Rc8
+39. g4 b4 40. gxh5 b3 41. Kf2 b2 42. Rxg6+ Kf7 43. Rgg1 bxc1=Q 44. Rxc1 Rc3
+45. Ke2 Kf6 46. Kd2 Rh3 47. Rxc2 Ke5 0-1
+

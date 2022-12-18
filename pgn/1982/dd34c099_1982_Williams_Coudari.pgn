@@ -1,0 +1,21 @@
+[Event "Montreal"]
+[Site "Montreal"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Williams, Leo"]
+[Black "Coudari, Camille"]
+[Result "1-0"]
+[ECO "B81"]
+[Opening "Sicilian"]
+[Variation "Scheveningen, Keres attack"]
+[HashCode "dd34c099"]
+[Epoch "Rook"]
+[WhiteID "2600730"]
+[BlackID "2600293"]
+[WhiteCountry "CAN"]
+[BlackCountry "CAN"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. g4 a6 7. g5 Nfd7 8. Rg1
+b5 9. a3 Nb6 10. Be3 N8d7 11. f4 Qc7 12. h4 Bb7 13. Qg4 e5 14. Nf3 Rc8 15. h5
+d5 16. g6 hxg6 17. hxg6 Nf6 18. gxf7+ Qxf7 19. Qf5 Nfd7 20. Qxf7+ Kxf7 21. fxe5
+Bc5 22. Ng5+ Ke7 23. Bxc5+ Nxc5 24. O-O-O Nxe4 25. Ngxe4 1-0

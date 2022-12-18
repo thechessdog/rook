@@ -1,0 +1,23 @@
+[Event "Mosbach Elo"]
+[Site "Mosbach Elo"]
+[Date "1980.01.01"]
+[Round "5"]
+[White "Busch, Raimund"]
+[Black "Duester, Thomas"]
+[Result "1-0"]
+[ECO "E90"]
+[Opening "King's Indian"]
+[Variation "5.Nf3"]
+[HashCode "07d8152d"]
+[Epoch "Rook"]
+[WhiteID "4602480"]
+[WhiteCountry "GER"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. h3 Nbd7 7. Be3 e5 8. d5
+Nc5 9. Nd2 a5 10. g4 c6 11. Qc2 Ne8 12. O-O-O f5 13. gxf5 gxf5 14. h4 Na6 15.
+Bg5 Qc7 16. Bh3 Nb4 17. Qb1 cxd5 18. a3 dxe4 19. axb4 Be6 20. Qa2 b5 21. Nxb5
+Qc6 22. bxa5 Qxb5 23. cxb5 Bxa2 24. b3 Nc7 25. b6 Nb5 26. b7 Rxa5 27. Be7 Rb8
+28. Bxf5 Rxb7 29. Bd8 Ra8 30. Bxe4 Rc8+ 31. Kb2 Ra7 32. Bb6 Ra3 33. Nc4 Rxb3+
+34. Kxa2 Rb4 35. Rh3 Kf8 36. Bd5 Rcxc4 37. Bxc4 Rxc4 38. Kb3 Rg4 39. Rd5 Nd4+
+40. Bxd4 exd4 41. Rf5+ Ke7 42. Rg5 h5 43. Rxg4 hxg4 44. Rg3 Ke6 45. Rxg4 Be5
+46. Kc4 Kf5 47. f3 Kf6 48. Kd3 Kf7 49. Ke4 Bg7 50. Rxg7+ 1-0

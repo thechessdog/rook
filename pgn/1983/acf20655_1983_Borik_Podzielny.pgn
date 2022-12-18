@@ -1,0 +1,21 @@
+[Event "Bundesliga 8283"]
+[Site "Duitsland tt"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Borik, Otto"]
+[Black "Podzielny, Karl-Heinz"]
+[Result "0-1"]
+[ECO "A67"]
+[Opening "Benoni"]
+[Variation "Taimanov variation"]
+[HashCode "acf20655"]
+[Epoch "Rook"]
+[WhiteID "4600762"]
+[WhiteCountry "GER"]
+[BlackCountry "DEU"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. f4 Bg7 8. Bb5+
+Nfd7 9. Be2 O-O 10. Nf3 Re8 11. O-O a6 12. a4 Qc7 13. Kh1 c4 14. Ra3 Nc5 15. e5
+Bf5 16. Bxc4 Nbd7 17. Nd4 Nb6 18. Nxf5 gxf5 19. Ba2 dxe5 20. d6 Qc6 21. Qh5 Ne6
+22. fxe5 Nc4 23. Qxf5 Nxa3 24. Nd5 Qc2 25. Qxf7+ Kh8 26. Ne3 Qe2 27. Rg1 Ng5
+28. Qf1 Qxf1 29. Rxf1 Rxe5 30. bxa3 Ne4 31. Nf5 Nf2+ 0-1

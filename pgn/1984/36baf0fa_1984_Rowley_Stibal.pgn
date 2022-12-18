@@ -1,0 +1,19 @@
+[Event "Europe"]
+[Site "Europe"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Rowley"]
+[Black "Stibal"]
+[Result "1/2-1/2"]
+[ECO "B20"]
+[Opening "Sicilian"]
+[Variation "Keres variation (2.Ne2)"]
+[HashCode "36baf0fa"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Ne2 Nf6 3. Nbc3 d5 4. exd5 Nxd5 5. Nxd5 Qxd5 6. d4 e5 7. Nc3
+Qxd4 8. Be3 Qxd1+ 9. Rxd1 Be6 10. Ne4 Nd7 11. Ng5 Bf5 12. Bc4 f6 13. Ne6
+Bxe6 14. Bxe6 O-O-O 15. Rd5 Kc7 16. Ke2 Be7 17. Rhd1 Nb6 18. Rxd8 Rxd8 19.
+Rxd8 Kxd8 20. b4 Kc7 21. bxc5 Nd7 22. Kd3 Bxc5 23. Bxd7 Bxe3 24. Bf5 Bxf2
+25. Bxh7 Kd6 1/2-1/2
+

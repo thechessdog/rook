@@ -1,0 +1,23 @@
+[Event "Duitsland tt"]
+[Site "Duitsland tt"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Meinberger, Leo"]
+[Black "Fette, Martin"]
+[Result "0-1"]
+[ECO "B10"]
+[Opening "Caro-Kann"]
+[Variation "closed (Breyer) variation"]
+[HashCode "2d1f29b3"]
+[Epoch "Rook"]
+[WhiteID "4607139"]
+[BlackID "4600827"]
+[WhiteCountry "GER"]
+[BlackCountry "GER"]
+
+1. e4 c6 2. d3 d5 3. Nd2 Qc7 4. g3 Nf6 5. Bg2 g6 6. Ngf3 e5 7. O-O Bg7 8. exd5
+Nxd5 9. d4 Bg4 10. dxe5 Nd7 11. e6 fxe6 12. h3 Bxf3 13. Nxf3 O-O-O 14. Qe2 Nc5
+15. Rb1 e5 16. Bg5 Rd7 17. c4 Ne7 18. b4 Ne6 19. Rfe1 Nf5 20. Be3 e4 21. Ng5
+Nxg5 22. Bxg5 e3 23. Bf4 exf2+ 24. Qxf2 Qd8 25. Be5 Bxe5 26. Rxe5 Rd2 27. Qxa7
+Nxg3 28. b5 Qd3 29. Rbe1 Nf5 30. bxc6 Rxg2+ 31. Kxg2 Qg3+ 32. Kf1 Qf3+ 33. Qf2
+Ng3+ 0-1

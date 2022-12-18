@@ -1,0 +1,20 @@
+[Event "corr ch-CSSR"]
+[Site "corr ch-CSSR"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Karch"]
+[Black "Protivinsky"]
+[Result "1-0"]
+[ECO "B26"]
+[Opening "Sicilian"]
+[Variation "closed, 6.Be3"]
+[HashCode "c5a10556"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. Be3 Nf6 7. Qc1 Ng4 8.
+Bd2 O-O 9. h3 Nf6 10. Bh6 e5 11. Bxg7 Kxg7 12. Nge2 Ng8 13. O-O Be6 14. g4
+h5 15. g5 Qd7 16. Qe3 Nd4 17. Rac1 Nxe2+ 18. Nxe2 f6 19. f4 exf4 20. Nxf4
+Rae8 21. Qg3 f5 22. b3 Ne7 23. Rcd1 Bf7 24. c4 fxe4 25. dxe4 Nc6 26. Ne2
+Ne5 27. Rf6 Be6 28. Nf4 Rxf6 29. gxf6+ Kh7 30. Nxg6 Nxg6 31. Rxd6 Qf7 32.
+Qg5 Nf8 33. e5 Qg6 34. Be4 1-0
+

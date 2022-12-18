@@ -1,0 +1,23 @@
+[Event "Grindavik"]
+[Site "Grindavik"]
+[Date "1984.01.01"]
+[Round "6"]
+[White "Arnason, Jon L"]
+[Black "Jonsson, Bjorgvin"]
+[Result "1-0"]
+[ECO "B76"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, 7...O-O"]
+[HashCode "00d56d31"]
+[Epoch "Rook"]
+[WhiteID "2300036"]
+[WhiteCountry "ISL"]
+[BlackID "2300125"]
+[BlackCountry "ISL"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8. Bc4
+Nc6 9. Qe2 Na5 10. Bd3 e5 11. Nb3 Be6 12. O-O Rc8 13. Rfd1 Nc4 14. Bxc4 Bxc4
+15. Qf2 b6 16. a4 Qc7 17. Nd2 Be6 18. Nb5 Qe7 19. c4 Ne8 20. Qe2 f5 21. b3 Rb8
+22. Qd3 Rf7 23. Nc3 f4 24. Bf2 Bf8 25. a5 Qd8 26. axb6 axb6 27. Ra6 Bc8 28. Ra2
+g5 29. Rda1 Be6 30. Ra6 g4 31. fxg4 Bxg4 32. Nd5 Rfb7 33. Ra7 b5 34. Rxb7 Rxb7
+35. cxb5 Rg7 36. b6 Qc8 37. Qc4 Qe6 38. Ra7 Rg6 39. Ne7+ Bxe7 40. Rxe7 1-0

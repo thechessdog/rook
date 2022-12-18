@@ -1,0 +1,24 @@
+[Event "Berlin tt"]
+[Site "Berlin-West"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Roos, Daniel"]
+[Black "Rasmussen, Lars Bo"]
+[Result "1-0"]
+[ECO "C69"]
+[Opening "Ruy Lopez"]
+[Variation "exchange variation, 5.O-O"]
+[HashCode "f32a6ac7"]
+[Epoch "Rook"]
+[WhiteID "600253"]
+[WhiteCountry "FRA"]
+[BlackCountry "DEN"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O Bg4 6. h3 Bxf3 7. Qxf3 Qf6 8.
+Qg3 Bd6 9. d4 h6 10. Nd2 O-O-O 11. Nf3 Re8 12. Re1 g5 13. Bd2 Qe6 14. dxe5 Bf8
+15. Bc3 Bg7 16. Nd4 Qg6 17. Nf5 Bf8 18. Rad1 Rh7 19. Qe3 c5 20. Qd3 Qe6 21. Re2
+Ne7 22. Nxe7+ Bxe7 23. Red2 Rhh8 24. Qd7+ Kb8 25. g3 Rhg8 26. Kh2 Rd8 27. Qxe6
+fxe6 28. Rxd8+ Bxd8 29. Rd7 h5 30. Rh7 h4 31. Rh6 Re8 32. Rg6 hxg3+ 33. Kxg3 c6
+34. Bd2 Bc7 35. Rxg5 Rd8 36. Be3 b6 37. h4 Rd1 38. h5 Rg1+ 39. Kf3 Rh1 40. Bf4
+Bd8 41. Rg8 Kc7 42. Rg7+ Kc8 43. h6 c4 44. h7 c5 45. Kg2 Rh5 46. Bg3 b5 47. f4
+a5 48. f5 exf5 49. exf5 a4 50. f6 1-0

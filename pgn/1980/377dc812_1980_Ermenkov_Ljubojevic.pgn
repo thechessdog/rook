@@ -1,0 +1,19 @@
+[Event "Skara etc"]
+[Site "Skara etc"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Ermenkov, Evgenij"]
+[Black "Ljubojevic, Ljubomir"]
+[Result "1/2-1/2"]
+[ECO "B92"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Opovcensky variation"]
+[HashCode "377dc812"]
+[Epoch "Rook"]
+[WhiteID "2900106"]
+[WhiteCountry "FID"]
+[BlackID "900010"]
+[BlackCountry "SRB"]
+
+1. e4 c5 2. Nf3 d6 3. d4 Nf6 4. Nc3 cxd4 5. Nxd4 a6 6. Be2 e5 7. Nb3 Be7 8. f4
+exf4 9. Bxf4 Nc6 10. Qd3 Ne5 11. Qg3 O-O 12. Rd1 Qc7 13. Nd4 1/2-1/2

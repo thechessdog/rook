@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Perman, Torvald"]
+[Black "Peltonen, Seppo"]
+[Result "1-0"]
+[ECO "A36"]
+[Opening "English"]
+[Variation "ultra-symmetrical variation"]
+[HashCode "44b0fb29"]
+[Epoch "Rook"]
+[WhiteID "502421"]
+[WhiteCountry "FIN"]
+
+1. c4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. e3 d6 6. Nge2 e5 7. b3 Nge7 8. O-O
+O-O 9. Bb2 Rb8 10. d3 a6 11. Qd2 b5 12. Rad1 Bg4 13. h3 Be6 14. Nd5 Qd7 15. Kh2
+Bxd5 16. cxd5 Na7 17. Rc1 Nac8 18. e4 Nb6 19. h4 a5 20. f4 exf4 21. Nxf4 Bxb2
+22. Qxb2 Nec8 23. Ne6 fxe6 24. Rxf8+ Kxf8 25. Rf1+ Qf7 26. Qh8+ 1-0

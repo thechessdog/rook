@@ -1,0 +1,17 @@
+[Event "corr Heilimo mem"]
+[Site "corr Heilimo mem"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Nikkanen, Pekka"]
+[Black "Morosov"]
+[Result "1/2-1/2"]
+[ECO "B59"]
+[Opening "Sicilian"]
+[Variation "Boleslavsky variation, 7.Nb3"]
+[HashCode "f84fc712"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be2 e5 7. Nb3 Be7
+8. O-O O-O 9. f4 a5 10. a4 Nb4 11. Bf3 Be6 12. Kh1 Rc8 13. Be3 Nd7 14. Rf2
+exf4 15. Bxf4 Ne5 16. Nd4 Nc4 17. Bc1 Ne5 1/2-1/2
+

@@ -1,0 +1,17 @@
+[Event "Dayton,OH"]
+[Site "Dayton,OH"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Holsapple, Boyd"]
+[Black "Wall, Bill"]
+[Result "0-1"]
+[ECO "B03"]
+[Opening "Alekhine's defence"]
+[Variation "Balogh variation"]
+[HashCode "616a4e71"]
+[Epoch "Rook"]
+[BlackCountry "USA"]
+[WhiteCountry "USA"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. Bc4 Nb6 5. Bb3 a5 6. a3 dxe5 7. Qh5 e6 8. dxe5
+Nc6 9. Be3 Nd5 10. Bxd5 Qxd5 11. Nf3 g6 12. Nc3 gxh5 13. Nxd5 exd5 0-1

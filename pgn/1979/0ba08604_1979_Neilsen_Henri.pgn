@@ -1,0 +1,17 @@
+[Event "corr CCLA"]
+[Site "corr CCLA"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Neilsen"]
+[Black "Henri, J."]
+[Result "1-0"]
+[ECO "B33"]
+[Opening "Sicilian"]
+[Variation "Pelikan, Bird variation"]
+[HashCode "0ba08604"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6
+8. Na3 Be6 9. Nc4 Rc8 10. Bxf6 Qxf6 11. Nxd6+ Bxd6 12. Qxd6 Nd4 13. O-O-O
+Qh6+ 14. f4 Qxf4+ 15. Kb1 Qf6 16. Nd5 Bxd5 17. Qxd5 Qe7 1-0
+

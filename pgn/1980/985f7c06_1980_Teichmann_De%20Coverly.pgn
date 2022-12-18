@@ -1,0 +1,23 @@
+[Event "Ins"]
+[Site "Ins"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Teichmann, Erik"]
+[Black "De Coverly, Roger D"]
+[Result "1-0"]
+[ECO "C30"]
+[Opening "KGD"]
+[Variation "classical variation"]
+[HashCode "985f7c06"]
+[Epoch "Rook"]
+[WhiteID "401269"]
+[BlackID "405213"]
+[WhiteCountry "ENG"]
+[BlackCountry "ENG"]
+
+1. e4 e5 2. f4 Bc5 3. Nf3 d6 4. Bc4 Nf6 5. d3 Nc6 6. c3 Bg4 7. b4 Bb6 8. a4 a6
+9. h3 Bxf3 10. Qxf3 exf4 11. Bxf4 Ne5 12. Bxe5 dxe5 13. Nd2 Qe7 14. a5 Ba7 15.
+Nf1 g6 16. Ne3 O-O 17. O-O Ne8 18. Kh2 Bxe3 19. Qxe3 Kg7 20. Rf2 Nd6 21. Ba2
+Rad8 22. Raf1 f6 23. g4 Nb5 24. g5 fxg5 25. Rf7+ Rxf7 26. Rxf7+ Qxf7 27. Bxf7
+Kxf7 28. Qc5 Re8 29. Qd5+ Kf8 30. Qxb7 Re6 31. c4 Nd4 32. Qc8+ Kg7 33. Kg2 Rf6
+34. Qxc7+ Kh6 35. Qxe5 1-0

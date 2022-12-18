@@ -1,0 +1,21 @@
+[Event "Naleczow"]
+[Site "Naleczow"]
+[Date "1979.01.01"]
+[Round "3"]
+[White "Schussler, Harry"]
+[Black "Prandstetter, Eduard"]
+[Result "1-0"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "classical variation (5.Bf4)"]
+[HashCode "d3e3428c"]
+[Epoch "Rook"]
+[WhiteID "1700081"]
+[WhiteCountry "SWE"]
+[BlackID "300225"]
+[BlackCountry "CZE"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 Be7 5. Bf4 O-O 6. e3 c5 7. dxc5 Qa5 8. a3
+dxc4 9. Bxc4 Qxc5 10. Qe2 b6 11. O-O Bb7 12. Rac1 Qh5 13. Ne5 Qxe2 14. Bxe2 Rd8
+15. Nb5 Nbd7 16. Rc7 Ba6 17. Nc6 Re8 18. Rd1 Bf8 19. Rdxd7 Nxd7 20. Rxd7 Rec8
+21. Bc7 Bxb5 22. Bxb5 a6 23. Bf1 Bd6 24. Rxd6 Rxc7 25. Bxa6 Kf8 26. Bb5 1-0

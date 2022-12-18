@@ -1,0 +1,18 @@
+[Event "Eindhoven"]
+[Site "Eindhoven"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Van der Heijden, H."]
+[Black "Bouwmans"]
+[Result "0-1"]
+[ECO "D86"]
+[Opening "Gruenfeld"]
+[Variation "exchange, Simagin's improved variation"]
+[HashCode "5bb226e6"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Bc4 O-O
+8. Ne2 Nc6 9. O-O Na5 10. Bd3 c5 11. Be3 cxd4 12. cxd4 Nc6 13. Bb5 Bd7 14.
+Bxc6 Bxc6 15. d5 Bxa1 16. Qxa1 Bb5 17. Bh6 f6 18. Nd4 Bxf1 19. Ne6 Qd6 20.
+Bxf8 Bd3 21. Bh6 Bxe4 22. Bf4 Qb4 23. d6 exd6 0-1
+

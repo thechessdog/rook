@@ -1,0 +1,19 @@
+[Event "Politiken Cup"]
+[Site "Copenhagen"]
+[Date "1984.??.??"]
+[Round "1"]
+[White "Andreasen, Per Naesby"]
+[Black "De Boer, Gert-Jan"]
+[Result "1/2-1/2"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "classical variation (5.Bf4)"]
+[HashCode "61027586"]
+[Epoch "Rook"]
+[WhiteID "1400886"]
+[WhiteCountry "DEN"]
+[BlackCountry "NED"]
+
+1. c4 e6 2. Nf3 d5 3. d4 Nf6 4. Nc3 Be7 5. Bf4 O-O 6. e3 c5 7. dxc5 Bxc5 8. Be2
+a6 9. O-O dxc4 10. Qxd8 Rxd8 11. Bxc4 b5 12. Bb3 Bb7 13. Rfd1 Rxd1+ 14. Rxd1
+Nbd7 15. Ne5 Nxe5 16. Bxe5 Rc8 17. Bd4 1/2-1/2

@@ -1,0 +1,28 @@
+[Event "Hilversum ch-NED"]
+[Site "Hilversum ch-NED"]
+[Date "1983.04.01"]
+[Round "1"]
+[White "Kuijpers, Frans"]
+[Black "Van der Vliet, Fred"]
+[Result "1-0"]
+[ECO "B20"]
+[Opening "Sicilian"]
+[Variation "Keres variation (2.Ne2)"]
+[HashCode "f732ad8a"]
+[Epoch "Rook"]
+[WhiteCountry "NED"]
+[BlackID "1000659"]
+[BlackCountry "NED"]
+
+1. e4 c5 2. Ne2 d6 3. Nbc3 e6 4. d4 cxd4 5. Nxd4 a6 6. a4 b6 7. f4 Bb7 8. Be2
+Nc6 9. Be3 Nf6 10. O-O Be7 11. Bf3 Qc7 12. g4 Nd7 13. g5 Nxd4 14. Qxd4 e5 15.
+Qd2 exf4 16. Bxf4 Ne5 17. Nd5 Bxd5 18. exd5 Rc8 19. Be4 Qc4 20. Rae1 O-O 21. b3
+Qc5+ 22. Be3 Bxg5 23. Bxc5 Bxd2 24. Bxd6 Bxe1 25. Bxf8 Kxf8 26. Rxe1 a5 27. c4
+g6 28. Kf2 f6 29. Ke3 Ke7 30. Kd4 Kd6 31. Rf1 Nd7 32. Rb1 Ne5 33. Bd3 Ra8 34.
+b4 axb4 35. Rxb4 Nd7 36. Bc2 Kc7 37. Rb1 Nc5 38. Re1 Kd6 39. Rb1 Kc7 40. Re1
+Kd6 41. h4 f5 42. h5 gxh5 43. Rb1 Ra6 44. Rh1 Nxa4 45. Rxh5 Nc5 46. Rh6+ Kc7
+47. Rxh7+ Kd6 48. Rh6+ Kc7 49. Bxf5 Ra8 50. Rc6+ Kb7 51. Ke5 Re8+ 52. Kd6 Rd8+
+53. Ke7 Rg8 54. Rg6 Rh8 55. Rg7 Rh4 56. Bg4 Rh1 57. Kd6+ Ka6 58. Bd7 Rh6+ 59.
+Kc7 Ka5 60. Bb5 Ne4 61. Re7 Nd6 62. Re6 Nxb5+ 63. cxb5 Rh7+ 64. Kc6 Rh1 65. d6
+Rc1+ 66. Kb7 Rd1 67. Kc7 Rc1+ 68. Kd8 Kxb5 69. d7 Ka5 70. Ke7 Rc7 71. Kd6 Rxd7+
+72. Kxd7 b5 73. Kc6 b4 74. Kc5 b3 75. Re8 Ka4 76. Kc4 b2 77. Ra8# 1-0

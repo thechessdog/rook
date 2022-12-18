@@ -1,0 +1,18 @@
+[Event "Arosa"]
+[Site "Arosa"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Ekstroem, Roland"]
+[Black "Szmetan"]
+[Result "1-0"]
+[ECO "C36"]
+[Opening "KGA"]
+[Variation "Abbazia defence, modern variation"]
+[HashCode "41e9a1e8"]
+[Epoch "Rook"]
+[WhiteID "1302302"]
+[WhiteCountry "SUI"]
+
+1. e4 e5 2. f4 d5 3. Nf3 exf4 4. exd5 Nf6 5. Nc3 c6 6. d4 cxd5 7. Bb5+ Nc6 8.
+Bxf4 Be7 9. Ne5 Qb6 10. O-O O-O 11. Bxc6 bxc6 12. Na4 Qa6 13. b3 Be6 14. Qd3
+Qc8 15. Bg5 Qc7 16. Bxf6 Bxf6 17. Rxf6 1-0

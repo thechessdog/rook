@@ -1,0 +1,17 @@
+[Event "corr BdF/M"]
+[Site "corr BdF/M"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Bauer"]
+[Black "Schuchardt"]
+[Result "0-1"]
+[ECO "E41"]
+[Opening "Nimzo-Indian"]
+[Variation "e3, Huebner variation"]
+[HashCode "b4b72375"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 Nc6 6. Nf3 Bxc3+ 7. bxc3 d6
+8. O-O h6 9. e4 e5 10. d5 Ne7 11. Nh4 g5 12. Qf3 Ng6 13. Nxg6 fxg6 14. Qe2
+Nh5 15. g3 Bh3 16. Re1 Qf6 17. g4 Nf4 18. Bxf4 Qxf4 0-1
+

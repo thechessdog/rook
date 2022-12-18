@@ -1,0 +1,23 @@
+[Event "Borovo"]
+[Site "Borovo"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Vukic, Milan"]
+[Black "Robatsch, Karl"]
+[Result "1-0"]
+[ECO "A70"]
+[Opening "Benoni"]
+[Variation "classical with e4 and Nf3"]
+[HashCode "a19e6956"]
+[Epoch "Rook"]
+[WhiteID "900273"]
+[WhiteCountry "BIH"]
+[BlackCountry "AUT"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. e4 Bg7 8. Bf4
+a6 9. a4 O-O 10. Nd2 Ng4 11. Be2 Ne5 12. O-O Nbd7 13. Bg3 g5 14. f4 gxf4 15.
+Bxf4 Qe7 16. Bg3 b6 17. Kh1 Rb8 18. Qc2 Re8 19. Rf2 Nf8 20. Nf1 Bh6 21. Bf4
+Bxf4 22. Rxf4 Nfg6 23. Rf2 Ng4 24. Bxg4 Bxg4 25. Ne3 Ne5 26. Raf1 Rf8 27. h3
+Bd7 28. Ne2 Qg5 29. Nf5 Bxf5 30. Rxf5 Qe7 31. Ng3 f6 32. Nh5 Nd7 33. Qc3 b5 34.
+axb5 axb5 35. Nxf6+ Nxf6 36. Rxf6 b4 37. Qg3+ Kh8 38. Rxf8+ Rxf8 39. Rxf8+ Qxf8
+40. e5 Qg7 41. Qe3 dxe5 42. Qxc5 Qf6 43. Qxb4 h5 44. d6 1-0

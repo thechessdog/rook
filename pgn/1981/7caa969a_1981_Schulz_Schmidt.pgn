@@ -1,0 +1,21 @@
+[Event "Regionalliga Nord"]
+[Site "RLN 8081"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Schulz, Wolfgang"]
+[Black "Schmidt, Geo"]
+[Result "0-1"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "7caa969a"]
+[Epoch "Rook"]
+
+1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. d4 e6 5. Nf3 Nf6 6. Be2 Be7 7. O-O O-O 8. c4
+Qd8 9. Nc3 cxd4 10. Nxd4 e5 11. Ndb5 Nc6 12. Bg5 a6 13. Qxd8 Bxd8 14. Bxf6 gxf6
+15. Nd6 Nd4 16. Bd3 f5 17. Rfd1 Rb8 18. Nd5 Be6 19. Ne3 f4 20. Nc2 Nxc2 21.
+Bxc2 Bc7 22. Ne4 Rfd8 23. b3 Kg7 24. Kf1 Bf5 25. b4 b6 26. f3 Bxe4 27. fxe4
+Rxd1+ 28. Rxd1 Rd8 29. Rd5 Rxd5 30. exd5 Bd6 31. a3 h6 32. Ke2 Kf6 33. h4 Bf8
+34. Kf3 h5 35. Ke4 Bd6 36. Bd3 Kg6 37. Kf3+ f5 38. Bc2 e4+ 39. Ke2 Kf6 40. Ba4
+Ke5 41. Bd7 Be7 42. Bc8 a5 43. bxa5 bxa5 44. a4 Bxh4 45. c5 Be7 46. c6 Bd6 47.
+Bd7 h4 48. Be6 f3+ 49. Kf2 fxg2 50. Bc8 h3 0-1

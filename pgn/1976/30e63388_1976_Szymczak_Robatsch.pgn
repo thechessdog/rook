@@ -1,0 +1,21 @@
+[Event "Lublin"]
+[Site "Lublin"]
+[Date "1976.01.01"]
+[Round "2"]
+[White "Szymczak, Zbigniew"]
+[Black "Robatsch, Karl"]
+[Result "0-1"]
+[ECO "A77"]
+[Opening "Benoni"]
+[Variation "classical, 9...Re8, 10.Nd2"]
+[HashCode "30e63388"]
+[Epoch "Rook"]
+[WhiteID "1100424"]
+[WhiteCountry "POL"]
+[BlackCountry "AUT"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. e4 Bg7 8. Be2
+O-O 9. O-O Re8 10. Nd2 Nbd7 11. a4 a6 12. Qc2 b6 13. Nc4 Ne5 14. Nxe5 Rxe5 15.
+Bf4 Re8 16. h3 Ra7 17. Bg5 h6 18. Bh4 g5 19. Bg3 Rae7 20. Bf3 Nh7 21. Rae1 Be5
+22. Bd1 Bd4 23. Re2 Nf6 24. Rfe1 Nh5 25. Bh2 Nf4 26. Bxf4 gxf4 27. Rd2 Re5 28.
+Bf3 Qh4 29. Qb3 Bxh3 30. gxh3 Qg3+ 0-1

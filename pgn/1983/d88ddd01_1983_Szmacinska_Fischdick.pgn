@@ -1,0 +1,19 @@
+[Event "Nordic-tt"]
+[Site "Oslo"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Szmacinska, Grazyna"]
+[Black "Fischdick, Gisela"]
+[Result "1/2-1/2"]
+[ECO "E53"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line with ...c5"]
+[HashCode "d88ddd01"]
+[Epoch "Rook"]
+[WhiteID "1103440"]
+[BlackID "4603966"]
+[WhiteCountry "POL"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 d5 6. Nf3 O-O 7. O-O cxd4 8. exd4
+dxc4 9. Bxc4 Qc7 10. Qe2 Bxc3 1/2-1/2

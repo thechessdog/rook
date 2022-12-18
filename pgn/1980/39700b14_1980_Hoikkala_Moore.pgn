@@ -1,0 +1,19 @@
+[Event "corr ICCF Master"]
+[Site "corr ICCF Master"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Hoikkala, A."]
+[Black "Moore, B."]
+[Result "0-1"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Byrne (English) attack"]
+[HashCode "39700b14"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e5 7. Nb3 Be6 8.
+Qd2 Nbd7 9. f4 b5 10. f5 Bc4 11. O-O-O Rb8 12. Bd3 d5 13. exd5 Bb4 14. d6
+O-O 15. a3 Bxd6 16. Bxc4 bxc4 17. Qxd6 cxb3 18. Qxa6 Qc7 19. Rd2 Rfc8 20.
+Rhd1 h6 21. Qa4 bxc2 22. Qxc2 Nc5 23. Bxc5 Qxc5 24. Qd3 e4 25. Qg3 e3 26.
+Re2 Ne4 27. Qxe3 Nxc3 28. bxc3 Qxa3+ 0-1
+

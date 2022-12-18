@@ -1,0 +1,25 @@
+[Event "Gausdal Int"]
+[Site "Gausdal"]
+[Date "1980.??.??"]
+[Round "?"]
+[White "Karlsson, Lars"]
+[Black "Sande, Oystein"]
+[Result "1-0"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "Indian variation"]
+[HashCode "d50ee351"]
+[Epoch "Rook"]
+[WhiteID "1700057"]
+[BlackID "1500325"]
+[WhiteCountry "SWE"]
+[BlackCountry "NOR"]
+
+1. b3 Nf6 2. Bb2 d5 3. e3 e6 4. f4 c5 5. Nf3 Be7 6. Bb5+ Nbd7 7. O-O O-O 8. a4
+a6 9. Bxd7 Bxd7 10. Ne5 b5 11. Nc3 Qc7 12. Rf3 Rfd8 13. Rh3 Be8 14. axb5 axb5
+15. Ne2 Rxa1 16. Qxa1 Qb7 17. Qe1 Qa7 18. Nc1 d4 19. exd4 cxd4 20. Ncd3 Qc7 21.
+Qd1 Bc6 22. Nxc6 Qxc6 23. Rf3 Rc8 24. Ne1 Bc5 25. Kh1 Qe4 26. Nd3 Bb6 27. Rf1
+h6 28. Re1 Qc6 29. Qe2 Qd6 30. Rc1 Qd5 31. Ba3 Qe4 32. Qf1 Nd5 33. Bd6 Rc6 34.
+Bb8 Rc8 35. Bd6 Rc6 36. Bb8 Rc8 37. Be5 f6 38. Bd6 Rc6 39. Bb8 Rc8 40. Bd6 Rc6
+41. Bb8 Ba5 42. Qd1 Rc8 43. Bd6 Rd8 44. Nc5 Qf5 45. Nb7 Rd7 46. Nxa5 Rxd6 47.
+Qf1 Nxf4 48. b4 Rd5 49. Nb3 d3 50. c4 Re5 51. c5 Qe4 52. c6 Nxg2 1-0

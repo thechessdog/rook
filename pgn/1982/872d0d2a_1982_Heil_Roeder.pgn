@@ -1,0 +1,27 @@
+[Event "Bundesliga 8182"]
+[Site "Duitsland tt"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Heil, Siegfried"]
+[Black "Roeder, Frank"]
+[Result "1-0"]
+[ECO "B32"]
+[Opening "Sicilian"]
+[Variation "Labourdonnais-Loewenthal variation"]
+[HashCode "872d0d2a"]
+[Epoch "Rook"]
+[WhiteID "4600835"]
+[WhiteCountry "GER"]
+[BlackID "4602161"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e5 5. Nb5 a6 6. Nd6+ Bxd6 7. Qxd6 Qe7 8.
+Qd1 Nf6 9. Nc3 h6 10. Bd3 d6 11. O-O Be6 12. Be3 O-O 13. Be2 Qc7 14. f4 exf4
+15. Bxf4 Qb6+ 16. Kh1 Ne5 17. Qd2 Rac8 18. Rab1 Nfd7 19. Rfd1 Rc6 20. Nd5 Bxd5
+21. exd5 Rcc8 22. b3 Rfe8 23. c4 Ng6 24. Bg4 Rc7 25. Bg3 a5 26. Re1 Nde5 27.
+Bf2 Qa6 28. Be2 Qa8 29. Bb6 Rce7 30. Bxa5 Nf4 31. Bf1 g5 32. Bb4 Qd8 33. Rbd1
+Qc7 34. c5 Rd8 35. cxd6 Rxd6 36. Bxd6 Qxd6 37. Be2 Rd7 38. Bc4 Rd8 39. Qe3 Ng4
+40. Qg3 Ne5 41. Re4 Nfg6 42. Rde1 Re8 43. a4 f5 44. R4e2 f4 45. Qh3 Kg7 46. Qf5
+Nh4 47. Qh3 f3 48. gxf3 Nhxf3 49. Rf1 g4 50. Qg3 Qg6 51. Rg2 h5 52. Be2 Ng5 53.
+Qf4 Nef7 54. Qd4+ Kg8 55. Bd3 Qd6 56. h4 gxh3 57. Bh7+ Kf8 58. Rxg5 Qh6 59.
+Qc5+ Re7 60. Rg8# 1-0

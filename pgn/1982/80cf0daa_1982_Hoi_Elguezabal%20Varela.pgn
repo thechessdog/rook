@@ -1,0 +1,21 @@
+[Event "Calella"]
+[Site "Calella"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Hoi, Carsten"]
+[Black "Elguezabal Varela, Daniel"]
+[Result "1-0"]
+[ECO "E45"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Bronstein (Byrne) variation"]
+[HashCode "80cf0daa"]
+[Epoch "Rook"]
+[WhiteID "1400100"]
+[WhiteCountry "DEN"]
+[BlackID "101079"]
+[BlackCountry "ARG"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 b6 5. Ne2 Ba6 6. a3 Be7 7. Nf4 d5 8. b3 O-O
+9. Bb2 c6 10. Bd3 Bd6 11. Nh5 Nxh5 12. Qxh5 g6 13. Qf3 e5 14. dxe5 Bxe5 15.
+O-O-O dxc4 16. Bxg6 Qf6 17. Bc2 Qxf3 18. gxf3 cxb3 19. Rhg1+ Kh8 20. Bxb3 Bc8
+21. f4 Bf6 22. Rd6 Be6 23. Bxe6 fxe6 24. Rxe6 1-0

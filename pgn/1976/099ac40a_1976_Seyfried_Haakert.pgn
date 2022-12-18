@@ -1,0 +1,17 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Seyfried"]
+[Black "Haakert, Jurgen"]
+[Result "0-1"]
+[ECO "C41"]
+[Opening "Philidor"]
+[Variation "Nimzovich, Sozin variation"]
+[HashCode "099ac40a"]
+[Epoch "Rook"]
+
+1. e4 Nf6 2. Nc3 e5 3. Nf3 d6 4. d4 Nbd7 5. Bc4 Be7 6. O-O O-O 7. Qe2 c6 8.
+a4 exd4 9. Nxd4 Re8 10. Bb3 Bf8 11. f3 d5 12. Qf2 Ne5 13. exd5 c5 14. Nde2
+Bf5 15. Ng3 Bg6 16. f4 Nfg4 0-1
+

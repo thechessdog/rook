@@ -1,0 +1,24 @@
+[Event "simul"]
+[Site "simul"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Hort, Vlastimil"]
+[Black "Wallinger, M."]
+[Result "1/2-1/2"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "568488bf"]
+[Epoch "Rook"]
+[WhiteID "4600029"]
+[WhiteCountry "GER"]
+
+1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. d4 cxd4 5. cxd4 d6 6. Nf3 Nc6 7. Bc4 Nb6 8. Bb5
+d5 9. h3 Bf5 10. Nc3 e6 11. O-O Be7 12. b3 O-O 13. Bb2 Rc8 14. Rc1 a6 15. Be2
+Qd7 16. Bd3 Bg6 17. Qe2 Rc7 18. Bxg6 hxg6 19. Nb1 Rfc8 20. Nbd2 Na7 21. Rxc7
+Rxc7 22. Qd3 Qb5 23. Qb1 Qd7 24. Rc1 Qc8 25. Rxc7 Qxc7 26. Qc1 Qxc1+ 27. Bxc1
+Nc6 28. Kf1 Nb4 29. Ba3 Kf8 30. Bxb4 Bxb4 31. Ke2 Nc8 32. Kd3 Na7 33. Ne1 Nc6
+34. Nc2 f6 35. f4 Kf7 36. Nf3 Ba5 37. a3 Bc7 38. b4 b5 39. Nd2 a5 40. Nb3 a4
+41. Nc5 g5 42. exf6 gxf6 43. fxg5 fxg5 44. Ne3 Bf4 45. Nc2 Na7 46. Ke2 Nc8 47.
+Kf3 Nb6 48. g3 Bd2 49. Nd3 Nc4 50. h4 gxh4 51. gxh4 Kf6 52. Ke2 Kf5 53. Kf3 Bh6
+54. Kg3 Bd2 55. Kf3 1/2-1/2

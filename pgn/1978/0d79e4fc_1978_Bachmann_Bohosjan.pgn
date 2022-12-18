@@ -1,0 +1,21 @@
+[Event "Slupsk"]
+[Site "Slupsk"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Bachmann, Friedhelm"]
+[Black "Bohosjan, Sarkis"]
+[Result "0-1"]
+[ECO "B31"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (with ...g6, without ...d6)"]
+[HashCode "0d79e4fc"]
+[Epoch "Rook"]
+[BlackID "2900475"]
+[BlackCountry "FID"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. Nc3 Nf6 6. Re1 O-O 7. a4 d6 8. h3
+Nd4 9. Nxd4 cxd4 10. Nd5 Nh5 11. Be2 Nf6 12. Bc4 Nd7 13. d3 e6 14. Nf4 Ne5 15.
+Bb3 Bd7 16. Bd2 a5 17. Ne2 Nc6 18. Ng3 Nb4 19. Qe2 Qb6 20. Rec1 Na6 21. Qg4 Nc5
+22. Ra3 Rfc8 23. f4 Qd8 24. f5 Nxb3 25. Rxb3 exf5 26. exf5 b6 27. Ra3 Rc5 28.
+b4 axb4 29. Bxb4 Bxf5 30. Qf3 Re5 31. Qc6 Rc8 32. Qf3 Qg5 33. Rf1 Re3 34. Ne4
+Bxe4 35. Qxf7+ Kh8 36. dxe4 Rxa3 0-1

@@ -1,0 +1,22 @@
+[Event "Minsk"]
+[Site "Minsk"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Kovalev, Andrei"]
+[Black "Basin, Leonid"]
+[Result "0-1"]
+[ECO "B64"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...Be7 defence, 9.f4"]
+[HashCode "c87e4d52"]
+[Epoch "Rook"]
+[WhiteID "13500023"]
+[BlackID "4102070"]
+[WhiteCountry "BLR"]
+[BlackCountry "RUS"]
+
+1. e4 c5 2. Nf3 Nc6 3. Nc3 d6 4. d4 cxd4 5. Nxd4 Nf6 6. Bg5 e6 7. Qd2 Be7 8.
+O-O-O O-O 9. f4 h6 10. Bh4 Bd7 11. Nf3 Qa5 12. Qe1 Rac8 13. Kb1 Nb4 14. a3 Nxc2
+15. Kxc2 Ba4+ 16. Kd2 Rxc3 17. bxc3 Bxd1 18. Kxd1 Qa4+ 19. Ke2 Qxe4+ 20. Kf2
+Ng4+ 21. Kg3 Bxh4+ 22. Kxh4 Qxf4 23. Qg3 g5+ 24. Kh5 Qf5 25. Bd3 Qxd3 26. Kxg4
+Qf5+ 27. Kh5 Qg6+ 28. Kg4 h5+ 0-1

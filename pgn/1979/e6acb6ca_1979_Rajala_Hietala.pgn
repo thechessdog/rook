@@ -1,0 +1,20 @@
+[Event "corr NS/I"]
+[Site "corr NS/I"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Rajala, Olavi"]
+[Black "Hietala, Pekka"]
+[Result "1-0"]
+[ECO "B00"]
+[Opening "KP"]
+[Variation "Nimzovich defence"]
+[HashCode "e6acb6ca"]
+[Epoch "Rook"]
+[BlackID "660876"]
+[BlackCountry "FRA"]
+
+1. e4 Nc6 2. Nf3 e6 3. d4 d5 4. e5 Nge7 5. c3 b6 6. Bd3 h5 7. h4 Bb7 8. Qe2 Qd7
+9. Ng5 g6 10. Nd2 Nd8 11. Nf1 Nf5 12. Ne3 c5 13. g4 hxg4 14. Nxg4 Be7 15. Bf4
+Ng7 16. h5 Rxh5 17. O-O-O Nc6 18. dxc5 Qc8 19. Nh7 Rxh1 20. Ngf6+ Bxf6 21.
+Nxf6+ Ke7 22. Rxh1 d4 23. Bg5 Qb8 24. Ne8+ Kxe8 25. Rh8+ Kd7 26. Rxb8 Rxb8 27.
+cxb6 dxc3 28. bxa7 cxb2+ 29. Qxb2 1-0

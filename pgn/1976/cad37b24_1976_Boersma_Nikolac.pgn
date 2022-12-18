@@ -1,0 +1,22 @@
+[Event "Hoogovens"]
+[Site "Wijk aan Zee II"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Boersma, Paul"]
+[Black "Nikolac, Juraj"]
+[Result "0-1"]
+[ECO "C03"]
+[Opening "French"]
+[Variation "Tarrasch"]
+[HashCode "cad37b24"]
+[Epoch "Rook"]
+[BlackID "14500140"]
+[BlackCountry "CRO"]
+[WhiteID "1000411"]
+[WhiteCountry "NED"]
+
+1. e4 e6 2. d4 d5 3. Nd2 g6 4. Ngf3 Bg7 5. c3 Nh6 6. Bd3 O-O 7. O-O f5 8. e5 c5
+9. c4 Nc6 10. Nb3 cxd4 11. Bg5 Qc7 12. Rc1 Nf7 13. cxd5 exd5 14. Bf4 Nfxe5 15.
+Re1 Nxf3+ 16. Qxf3 Qf7 17. Bb5 Re8 18. Rxe8+ Qxe8 19. Nc5 Qf7 20. Ba4 Be6 21.
+Nxb7 Ne5 22. Bxe5 Bxe5 23. Re1 Qc7 24. Bb3 Re8 25. g3 d3 26. Qxd3 Kg7 27. Nc5
+Bf7 28. Rc1 Qd6 29. Ba4 Re7 30. b4 f4 0-1

@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1981.01.01"]
+[Round "1"]
+[White "MacGrady, Daniel"]
+[Black "Vehre, John"]
+[Result "0-1"]
+[ECO "B33"]
+[Opening "Sicilian"]
+[Variation "Sveshnikov variation"]
+[HashCode "618b6d80"]
+[Epoch "Rook"]
+[BlackCountry "USA"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6 8.
+Bxf6 gxf6 9. Na3 b5 10. Nd5 f5 11. g3 fxe4 12. Bg2 Bf5 13. Ne3 Bg6 14. f3 Bh6
+15. Ng4 Bg5 16. h4 f5 17. Nxe5 Nxe5 18. hxg5 Qxg5 19. Qxd6 Qxg3+ 20. Kf1 e3 21.
+Kg1 Nxf3+ 0-1

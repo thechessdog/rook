@@ -1,0 +1,19 @@
+[Event "Warsaw ch-POL"]
+[Site "Warsaw ch-POL"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Pokojowczyk, Jerzy"]
+[Black "Kuligowski, Adam"]
+[Result "1/2-1/2"]
+[ECO "C69"]
+[Opening "Ruy Lopez"]
+[Variation "exchange variation, 5.O-O"]
+[HashCode "7e569c8f"]
+[Epoch "Rook"]
+[WhiteID "1100718"]
+[BlackID "1100092"]
+[WhiteCountry "POL"]
+[BlackCountry "POL"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O Bd6 6. d4 exd4 7. Qxd4 f6 8.
+Re1 Ne7 9. Nbd2 c5 1/2-1/2

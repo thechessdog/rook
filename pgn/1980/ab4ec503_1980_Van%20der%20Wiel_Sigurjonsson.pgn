@@ -1,0 +1,23 @@
+[Event "Hoogovens"]
+[Site "Wijk aan Zee"]
+[Date "1980.01.01"]
+[Round "6"]
+[White "Van der Wiel, John T.H."]
+[Black "Sigurjonsson, Gudmundur"]
+[Result "1-0"]
+[ECO "B93"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.f4"]
+[HashCode "ab4ec503"]
+[Epoch "Rook"]
+[WhiteID "1000020"]
+[WhiteCountry "NED"]
+[BlackID "2300079"]
+[BlackCountry "ISL"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 Nbd7 7. Nf3 e6 8. Bd3
+Be7 9. O-O O-O 10. Qe1 Nc5 11. Be3 Nxd3 12. cxd3 b5 13. Qg3 b4 14. Ne2 Bb7 15.
+Ned4 Rc8 16. Qh3 Nd7 17. Rf2 Nc5 18. Rd1 a5 19. g4 Ba6 20. Rfd2 a4 21. Ne1 g6
+22. Rg2 e5 23. Ndf3 exf4 24. Bxf4 d5 25. e5 d4 26. Qh6 Ne6 27. Rg3 Nxf4 28.
+Qxf4 f6 29. Qh6 Qd5 30. Nh4 Rf7 31. Nxg6 hxg6 32. exf6 Rxf6 33. Rh3 Qe5 34. Ng2
+Rc2 35. Qh8+ Kf7 36. Rh7+ Ke6 37. Nf4+ Qxf4 38. Re1+ Kd5 39. Qa8+ 1-0

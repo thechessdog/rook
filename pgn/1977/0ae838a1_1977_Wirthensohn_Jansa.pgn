@@ -1,0 +1,25 @@
+[Event "Timisoara"]
+[Site "Timisoara"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Wirthensohn, Heinz"]
+[Black "Jansa, Vlastimil"]
+[Result "1-0"]
+[ECO "A48"]
+[Opening "King's Indian"]
+[Variation "Torre attack"]
+[HashCode "0ae838a1"]
+[Epoch "Rook"]
+[BlackID "300128"]
+[BlackCountry "CZE"]
+[WhiteID "1300059"]
+[WhiteCountry "SUI"]
+
+1. d4 Nf6 2. Nf3 g6 3. Bg5 Bg7 4. Nbd2 d6 5. c3 Nbd7 6. a4 h6 7. Bh4 g5 8. Bg3
+Nh5 9. e3 O-O 10. a5 Nxg3 11. hxg3 e6 12. a6 b6 13. Bd3 f5 14. e4 f4 15. gxf4
+Rxf4 16. Qe2 c5 17. g3 Rf7 18. e5 Nf8 19. Nc4 d5 20. Ne3 c4 21. Bb1 b5 22. Ng4
+b4 23. Nxh6+ Bxh6 24. Rxh6 g4 25. Nh2 Rg7 26. Rf6 Nd7 27. Nxg4 Nxf6 28. exf6
+Rg5 29. f4 Rf5 30. Bxf5 exf5 31. Qe7 Qxe7+ 32. fxe7 Kf7 33. Nf6 Kxe7 34. Nxd5+
+Kd6 35. Nxb4 Bd7 36. O-O-O Rh8 37. Nc2 Rh3 38. Ne3 Rxg3 39. Nxc4+ Kd5 40. Nd2
+Bb5 41. c4+ Bxc4 42. Nxc4 Kxc4 43. d5 Rg8 44. d6 Kb5 45. Kc2 Rc8+ 46. Kb3 Kxa6
+47. d7 1-0

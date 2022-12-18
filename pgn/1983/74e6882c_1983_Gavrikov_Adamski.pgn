@@ -1,0 +1,19 @@
+[Event "Tbilisi"]
+[Site "Tbilisi"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Gavrikov, Viktor"]
+[Black "Adamski, Jan"]
+[Result "1/2-1/2"]
+[ECO "B43"]
+[Opening "Sicilian"]
+[Variation "Kan, 5.Nc3"]
+[HashCode "74e6882c"]
+[Epoch "Rook"]
+[WhiteID "24131849"]
+[WhiteCountry "RUS"]
+[BlackID "1100190"]
+[BlackCountry "POL"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 d6 6. a4 b6 7. f4 Nf6 8. Be2
+Bb7 9. Bf3 Qc7 10. Qe2 Be7 11. g4 Nc6 12. Nb3 d5 13. exd5 1/2-1/2

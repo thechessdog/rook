@@ -1,0 +1,17 @@
+[Event "Lewisham"]
+[Site "Lewisham"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "O'Brien"]
+[Black "Ha'Eri Zadeh"]
+[Result "1/2-1/2"]
+[ECO "C69"]
+[Opening "Ruy Lopez"]
+[Variation "exchange variation, Alapin gambit"]
+[HashCode "bacac663"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O Bg4 6. h3 h5 7. d3 Bxf3
+8. Qxf3 Qf6 9. Qxf6 Nxf6 10. Be3 O-O-O 11. Nd2 Nh7 12. Nc4 f6 13. Rad1 Be7
+14. g3 Nf8 15. d4 exd4 16. Rxd4 Ne6 1/2-1/2
+

@@ -1,0 +1,21 @@
+[Event "corr Wch8"]
+[Site "corr Wch8"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Camilleri, Henry"]
+[Black "Sanchez"]
+[Result "0-1"]
+[ECO "C99"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Chigorin, 12...c5d4"]
+[HashCode "7449bf4e"]
+[Epoch "Rook"]
+[WhiteCountry "MLT"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. c3
+d6 9. h3 Na5 10. Bc2 c5 11. d4 Qc7 12. Nbd2 cxd4 13. cxd4 Nc6 14. Nf1 Bb7 15.
+Bg5 h6 16. Bxf6 Bxf6 17. dxe5 Nxe5 18. Nxe5 Bxe5 19. Rb1 Rac8 20. Ne3 Rfe8 21.
+Qg4 Qd8 22. Bb3 Bxe4 23. Nf5 Bxf5 24. Qxf5 Qf6 25. Qxf6 Bxf6 26. Rxe8+ Rxe8 27.
+Rc1 Re7 28. Rc8+ Kh7 29. Bc2+ g6 30. b4 Re1+ 31. Kh2 Be5+ 32. g3 Re2 33. Kg2
+Bd4 34. Kf3 Rxf2+ 35. Ke4 Be5 36. g4 Rf4+ 37. Kd5 Rxb4 38. Bb3 Rf4 39. Kc6 Rf3
+40. Kb6 Bd4+ 41. Kxa6 b4 42. Kb5 Bc5 43. h4 Rf4 44. Rc7 Kg7 0-1

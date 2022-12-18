@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Gallinnis, N."]
+[Black "Jess, S."]
+[Result "1-0"]
+[ECO "C69"]
+[Opening "Ruy Lopez"]
+[Variation "exchange, Gligoric variation"]
+[HashCode "c0480487"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O f6 6. d4 Bg4 7. dxe5 Qxd1
+8. Rxd1 fxe5 9. Rd3 Bd6 10. Bg5 h6 11. Bh4 Ne7 12. Nbd2 Ng6 13. Bg3 Be6 14.
+b3 O-O 15. c4 Nf4 16. Bxf4 Rxf4 17. Re1 Raf8 18. Re2 Bd7 19. c5 1-0
+

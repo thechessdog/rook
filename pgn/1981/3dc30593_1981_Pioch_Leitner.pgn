@@ -1,0 +1,25 @@
+[Event "Bundesliga 8081"]
+[Site "Duitsland tt"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Pioch, Thomas"]
+[Black "Leitner, Maximilian"]
+[Result "0-1"]
+[ECO "B93"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.f4"]
+[HashCode "3dc30593"]
+[Epoch "Rook"]
+[WhiteID "4607449"]
+[WhiteCountry "GER"]
+[BlackID "4606566"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 Nbd7 7. a4 g6 8. Be2
+Bg7 9. O-O O-O 10. Be3 Qc7 11. a5 b5 12. axb6 Nxb6 13. Nb3 Nc4 14. Bxc4 Qxc4
+15. Ra4 Qc7 16. Qd3 Be6 17. Nd4 Ng4 18. Bc1 Bd7 19. Rc4 Qa7 20. Kh1 e5 21. Nd5
+Bb5 22. Nf3 Bxc4 23. Qxc4 exf4 24. Bxf4 Ne5 25. Nxe5 dxe5 26. Be3 Qb7 27. Bc5
+Rfe8 28. b4 Re6 29. Qb3 Rc8 30. Qd3 Kh8 31. h3 Bf8 32. Bxf8 Rxf8 33. Qe3 f5 34.
+c4 f4 35. Qc3 g5 36. Qf3 Qf7 37. c5 h5 38. Rc1 g4 39. hxg4 hxg4 40. Qxg4 Rh6+
+41. Kg1 Rg8 42. Qf3 Rg3 43. Qf2 Qh5 44. Kf1 Qg4 45. Qg1 f3 46. Ne3 fxg2+ 47.
+Ke1 Qxe4 48. Kd2 Rh1 49. Qf2 0-1

@@ -1,0 +1,19 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Nicklich"]
+[Black "Pfretzschner, Rolan"]
+[Result "1-0"]
+[ECO "C41"]
+[Opening "Philidor"]
+[Variation "Hanham, Steiner variation"]
+[HashCode "cf6e2de8"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 d6 3. d4 Nd7 4. Bc4 c6 5. O-O Be7 6. dxe5 dxe5 7. Qe2 h6 8.
+Rd1 Qc7 9. a3 Ngf6 10. b4 O-O 11. Bb2 b5 12. Ba2 a5 13. Bc3 axb4 14. axb4
+Bb7 15. Nbd2 c5 16. Qxb5 cxb4 17. Bxb4 Bxb4 18. Qxb4 Rab8 19. Qc4 Qd8 20.
+Rab1 Qe7 21. Nh4 Rfc8 22. Nf5 Qf8 23. Qd3 Rc6 24. Nc4 Nc5 25. Qf3 Ncxe4 26.
+Nxe5 Rc7 27. Bxf7+ Rxf7 28. Qb3 Bc8 29. Qxb8 Qc5 30. Rd8+ Kh7 1-0
+

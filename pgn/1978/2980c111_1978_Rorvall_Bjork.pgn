@@ -1,0 +1,18 @@
+[Event "Sweden"]
+[Site "Sweden"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Rorvall, Goran"]
+[Black "Bjork, Carl Magnus"]
+[Result "1-0"]
+[ECO "C06"]
+[Opening "French"]
+[Variation "Tarrasch, Leningrad variation"]
+[HashCode "2980c111"]
+[Epoch "Rook"]
+[WhiteID "1700650"]
+[WhiteCountry "SWE"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Bd3 c5 6. c3 Nc6 7. Ne2 cxd4 8. cxd4
+Nb6 9. O-O Bd7 10. a3 a5 11. b3 Rc8 12. Nf3 Be7 13. Bd2 Kf8 14. g3 h5 15. h4 g6
+16. Bg5 a4 17. b4 Na7 18. Nf4 Bxg5 19. Nxg5 Rh6 20. Bxg6 Rxg6 21. Nxg6+ 1-0

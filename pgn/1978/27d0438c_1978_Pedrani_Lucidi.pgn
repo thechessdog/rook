@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Pedrani"]
+[Black "Lucidi"]
+[Result "1-0"]
+[ECO "C80"]
+[Opening "Ruy Lopez"]
+[Variation "open, Bernstein variation, Karpov gambit"]
+[HashCode "27d0438c"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8.
+dxe5 Be6 9. Nbd2 Nc5 10. c3 d4 11. Ng5 Qxg5 12. Qf3 Qd8 13. Qxc6+ Bd7 14.
+Qf3 Nxb3 15. Nxb3 dxc3 16. Bg5 Qc8 17. Rad1 Be7 18. Rxd7 1-0
+

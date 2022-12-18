@@ -1,0 +1,18 @@
+[Event "corr EU"]
+[Site "corr EU"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Franke, H."]
+[Black "Butze, Roland"]
+[Result "0-1"]
+[ECO "B92"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Opovcensky variation"]
+[HashCode "3fa147d9"]
+[Epoch "Rook"]
+[BlackCountry "DEU"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nf3 h6 8. h3
+Be6 9. Be3 Be7 10. Qd2 Nbd7 11. Nh4 Nxe4 12. Nxe4 d5 13. Nf3 dxe4 14. Nh2 Rc8
+15. f3 Bh4+ 16. Kf1 Qc7 17. c3 Nc5 18. Qc2 f5 19. Bf2 Be7 20. g4 O-O 21. Kg2
+exf3+ 22. Bxf3 e4 0-1

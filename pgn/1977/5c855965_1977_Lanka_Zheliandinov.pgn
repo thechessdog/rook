@@ -1,0 +1,22 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Lanka, Zigurds"]
+[Black "Zheliandinov, Viktor"]
+[Result "0-1"]
+[ECO "C78"]
+[Opening "Ruy Lopez"]
+[Variation "Archangelsk (counterthrust) variation"]
+[HashCode "5c855965"]
+[Epoch "Rook"]
+[WhiteID "11600047"]
+[BlackID "14100355"]
+[WhiteCountry "LAT"]
+[BlackCountry "UKR"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Bb7 7. d3 Be7 8. a4
+O-O 9. Nc3 b4 10. Nd5 Na5 11. Nxe7+ Qxe7 12. Ba2 d5 13. exd5 Nxd5 14. Re1 f6
+15. c4 bxc3 16. b4 Qxb4 17. Ba3 Qb6 18. Bxf8 Kxf8 19. d4 e4 20. Rxe4 c2 21. Qc1
+Nb4 22. Rh4 Re8 23. Qa3 Be4 24. Ne5 Qxd4 25. Nd7+ Ke7 26. Re1 Kxd7 27. Bf7 Re5
+28. Qh3+ Ke7 29. Qc8 Kxf7 30. Qxc7+ Kf8 0-1

@@ -1,0 +1,21 @@
+[Event "Reykjavik"]
+[Site "Reykjavik"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Benediktsson, Benon"]
+[Black "Halldorsson, Bragi"]
+[Result "0-1"]
+[ECO "B12"]
+[Opening "Caro-Kann"]
+[Variation "Tartakower (fantasy) variation"]
+[HashCode "482001a4"]
+[Epoch "Rook"]
+[BlackID "2300907"]
+[BlackCountry "ISL"]
+
+1. d4 c6 2. e4 d5 3. f3 dxe4 4. fxe4 e5 5. Nf3 exd4 6. Qxd4 Qxd4 7. Nxd4 Nf6 8.
+Bd3 Bc5 9. Nb3 Bb6 10. Bg5 Nbd7 11. N1d2 O-O 12. O-O-O Ng4 13. Rhf1 Nxh2 14.
+Rh1 Ng4 15. Rh4 Nf2 16. Nf3 Nxd1 17. Kxd1 Bd8 18. e5 h6 19. Bxd8 Rxd8 20. g4
+Nf8 21. g5 Ng6 22. Rd4 Rxd4 23. Nbxd4 Bg4 24. gxh6 Nxe5 25. h7+ Kh8 26. Ke2 Rd8
+27. Ke3 Nxf3 28. Nxf3 Bxf3 29. Kxf3 Rxd3+ 30. cxd3 Kxh7 31. Kf4 Kg6 32. Ke5 f5
+33. b4 Kg5 34. a4 f4 35. Kd6 f3 36. Kc7 f2 37. Kxb7 f1=Q 0-1

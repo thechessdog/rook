@@ -1,0 +1,29 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Kunzelmann, F."]
+[Black "Hobusch, W."]
+[Result "0-1"]
+[ECO "B71"]
+[Opening "Sicilian"]
+[Variation "dragon, Levenfish; Flohr variation"]
+[HashCode "c10ebf44"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. f4 Nbd7 7. Be2 Bg7
+8. O-O a6 9. Kh1 O-O 10. Bf3 e5 11. Nde2 exf4 12. Nxf4 Ne5 13. Nfd5 Nxd5
+14. Nxd5 Be6 15. c3 Nc4 16. Rb1 Qa5 17. a3 Bxd5 18. Qxd5 Qxd5 19. exd5 Rfe8
+20. Bf4 Rad8 21. Kg1 h6 22. Kf2 g5 23. Bc1 b5 24. b3 Ne5 25. Be2 Rc8 26.
+Bb2 Rc5 27. c4 bxc4 28. Bxe5 Bxe5 29. Bxc4 a5 30. a4 Bd4+ 31. Kg3 Re3+ 32.
+Rf3 Re4 33. h3 h5 34. Kh2 Be5+ 35. Kg1 h4 36. Rbf1 Rc7 37. Bd3 Rd4 38. Rd1
+Kg7 39. Be2 Rc5 40. Rxd4 Bxd4+ 41. Kh1 Rc2 42. Bd3 Rc1+ 43. Rf1 Rc3 44. Bc4
+Be5 45. Kg1 Bg3 46. Rb1 Re3 47. Bf1 Kf6 48. Bc4 Ke5 49. Rf1 Bf4 50. Rd1 Ke4
+51. Rf1 f5 52. Rd1 g4 53. hxg4 fxg4 54. Kf1 Rg3 55. Kg1 h3 56. Bf1 h2+ 57.
+Kh1 Rxb3 58. Bb5 Rb4 59. Bd7 Be5 60. Bc6 Kf5 61. Bd7+ Kg5 62. Bc6 Kh4 63.
+Bd7 Bf4 64. Bc6 Kg3 65. Bb5 Bd2 66. Ra1 Rb2 67. Ra3+ Kf2 68. Ra1 Rb3 69.
+Rd1 Kg3 70. Ra1 Rc3 71. Rd1 Rc5 72. Bc6 Rc4 73. Ra1 Rd4 74. Ra3+ Kh4 75.
+Ra1 Bf4 76. Rb1 Kg3 77. Rb3+ Kf2 78. Rb2+ Ke3 79. Rb3+ Kd2 80. Rb1 Kc2 81.
+Rf1 Bg3 82. Ra1 Kb2 83. Rf1 Rd2 84. Bb7 Kb3 85. Bc6 Kc2 86. Bb7 Rd4 87. Bc6
+Kb2 88. Bd7 Rxd5 89. Bxg4 Rc5 0-1
+

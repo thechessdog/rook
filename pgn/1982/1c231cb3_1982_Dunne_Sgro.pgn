@@ -1,0 +1,23 @@
+[Event "corr USCCC"]
+[Site "corr USCCC"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Dunne, A."]
+[Black "Sgro, A."]
+[Result "1/2-1/2"]
+[ECO "C85"]
+[Opening "Ruy Lopez"]
+[Variation "Exchange variation doubly deferred (DERLD)"]
+[HashCode "1c231cb3"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Bxc6 dxc6 7. Nc3 Bg4
+8. h3 Bh5 9. Re1 Bc5 10. Qe2 Qe7 11. Nd1 O-O-O 12. Ne3 Bxe3 13. Qxe3 Bxf3
+14. Qxf3 Kb8 15. d3 h6 16. Bd2 g5 17. Bc3 c5 18. Qf5 Nd7 19. g3 Rhe8 20.
+Re3 Qe6 21. Rf3 f6 22. Kg2 c4 23. Qxe6 Rxe6 24. dxc4 Nc5 25. Re1 Na4 26.
+Rd3 Red6 27. Red1 Nxc3 28. bxc3 b6 29. f4 Kb7 30. fxe5 fxe5 31. Rd5 Kc6 32.
+Rf1 b5 33. cxb5+ axb5 34. Rf6 Rxf6 35. Rxd8 Kc5 36. Rd7 Rc6 37. Kf3 Kc4 38.
+Rd5 Ra6 39. h4 gxh4 40. gxh4 Rxa2 41. Rxe5 Rxc2 42. Re8 Rxc3+ 43. Kf4 b4
+44. e5 Rh3 45. e6 Rxh4+ 46. Kf5 Rh1 47. Rc8 c5 48. e7 Re1 49. e8=Q Rxe8 50.
+Rxe8 b3 51. Ke4 1/2-1/2
+

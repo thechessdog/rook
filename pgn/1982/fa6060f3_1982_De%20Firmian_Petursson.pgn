@@ -1,0 +1,19 @@
+[Event "Reykjavik op"]
+[Site "Reykjavik"]
+[Date "1982.??.??"]
+[Round "?"]
+[White "De Firmian, Nick"]
+[Black "Petursson, Margeir"]
+[Result "1/2-1/2"]
+[ECO "A06"]
+[Opening "Reti"]
+[Variation "Nimzovich-Larsen attack"]
+[HashCode "fa6060f3"]
+[Epoch "Rook"]
+[BlackID "2300028"]
+[BlackCountry "ISL"]
+[WhiteID "2000105"]
+[WhiteCountry "USA"]
+
+1. Nf3 d5 2. b3 Bg4 3. Bb2 Nd7 4. g3 Bxf3 5. exf3 Ngf6 6. f4 g6 7. Bg2 c6 8.
+O-O Bg7 9. d3 O-O 10. Nd2 1/2-1/2

@@ -1,0 +1,18 @@
+[Event "Lloyds Bank"]
+[Site "Londen open"]
+[Date "1984.08.01"]
+[Round "1"]
+[White "Teichmann, E."]
+[Black "Crawley, Gavin"]
+[Result "1-0"]
+[ECO "E60"]
+[Opening "King's Indian"]
+[Variation "3.g3"]
+[HashCode "8549d69e"]
+[Epoch "Rook"]
+[BlackID "400386"]
+[BlackCountry "ENG"]
+
+1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 O-O 5. Nc3 c6 6. Nf3 d5 7. cxd5 cxd5 8. Ne5
+Nbd7 9. Nxd7 Bxd7 10. O-O Bf5 11. Qb3 Qd7 12. Nxd5 Nxd5 13. Bxd5 Rfd8 14. Bxf7+
+Kf8 15. Bc4 Qxd4 16. Bg8 Ke8 17. Bg5 Qe4 18. Qf7+ Kd7 19. Rac1 Bd4 20. Rfd1 1-0

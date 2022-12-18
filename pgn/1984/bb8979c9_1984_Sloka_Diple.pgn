@@ -1,0 +1,16 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Sloka"]
+[Black "Diple"]
+[Result "0-1"]
+[ECO "A45"]
+[Opening "Trompovsky attack (Ruth, Opovcensky opening)"]
+[HashCode "bb8979c9"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. Bg5 c6 3. c3 d5 4. e3 Bf5 5. Nd2 Nbd7 6. Ngf3 e6 7. Ne5 Qb6 8.
+Qb3 Nxe5 9. dxe5 Nd7 10. Qxb6 axb6 11. Bf4 Nc5 12. f3 Be7 13. Be2 Na4 14.
+O-O-O Nxc3 0-1
+

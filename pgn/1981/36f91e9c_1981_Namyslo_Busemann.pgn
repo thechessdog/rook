@@ -1,0 +1,19 @@
+[Event "corr FSM/BRD jr"]
+[Site "corr FSM/BRD jr"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Namyslo, H."]
+[Black "Busemann, S."]
+[Result "0-1"]
+[ECO "C36"]
+[Opening "KGA"]
+[Variation "Abbazia defence, modern variation"]
+[HashCode "36f91e9c"]
+[Epoch "Rook"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 d5 4. exd5 Nf6 5. Bb5+ c6 6. dxc6 Nxc6 7. d4 Bd6
+8. O-O O-O 9. Nbd2 Bc7 10. c3 Bf5 11. Nc4 Nd5 12. Bxc6 bxc6 13. Nfe5 g5 14.
+Qf3 Qe8 15. g4 f6 16. gxf5 fxe5 17. dxe5 Rxf5 18. Bd2 Qe6 19. Rae1 Rd8 20.
+Qh3 Qg6 21. Bc1 g4 22. Qg2 f3 23. Qf2 Nf4 24. Bxf4 Rxf4 25. b3 g3 26. hxg3
+Rd2 27. Nxd2 Bb6 0-1
+

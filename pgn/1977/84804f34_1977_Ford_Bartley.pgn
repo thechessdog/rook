@@ -1,0 +1,18 @@
+[Event "San Francisco"]
+[Site "San Francisco"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Ford, Pamela"]
+[Black "Bartley, William"]
+[Result "1-0"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, positional main line"]
+[HashCode "84804f34"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 Ne7 5. Nf3 c5 6. a3 Bxc3+ 7. bxc3 Qa5 8.
+Qd2 Nbc6 9. a4 Bd7 10. Bd3 Rc8 11. O-O cxd4 12. Qg5 Ng6 13. cxd4 Qd8 14.
+Qg3 Nce7 15. Bg5 O-O 16. h4 Re8 17. h5 Nf8 18. Bf6 Nfg6 19. hxg6 gxf6 20.
+gxh7+ Kh8 21. exf6 1-0
+

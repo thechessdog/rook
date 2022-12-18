@@ -1,0 +1,23 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Weidemann, Joerg"]
+[Black "Kindermann, Stefan"]
+[Result "0-1"]
+[ECO "B03"]
+[Opening "Alekhine's defence"]
+[Variation "Balogh variation"]
+[HashCode "3df9bcd8"]
+[Epoch "Rook"]
+[BlackID "4600053"]
+[BlackCountry "AUT"]
+[WhiteID "4603389"]
+[WhiteCountry "GER"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. Bc4 Nb6 5. Bb3 Nc6 6. exd6 cxd6 7. c3 g6 8. Nf3
+Bg7 9. h4 h6 10. Na3 Nd7 11. Bf4 Nf6 12. Qd2 Bg4 13. O-O-O a6 14. Rde1 Na5 15.
+Nc4 Nxc4 16. Bxc4 b5 17. Bb3 a5 18. Nh2 Bf5 19. Bc2 Bxc2 20. Kxc2 Rc8 21. Kb1
+Qd7 22. g4 Nd5 23. h5 g5 24. Bxg5 b4 25. cxb4 axb4 26. Bh4 O-O 27. Qd3 Ra8 28.
+Qb3 Qb5 29. Bxe7 Rfc8 30. Bxd6 Nc3+ 31. bxc3 Rxc3 32. Qd1 Rxa2 33. Kxa2 Qc4+
+34. Kb2 Bxd4 35. Re8+ Kh7 36. Kb1 Rc1+ 0-1

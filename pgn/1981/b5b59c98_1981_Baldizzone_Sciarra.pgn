@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Baldizzone"]
+[Black "Sciarra"]
+[Result "1-0"]
+[ECO "B99"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7...Be7 main line"]
+[HashCode "b5b59c98"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8.
+Qf3 Qc7 9. O-O-O Nbd7 10. Bd3 b5 11. Rhe1 h6 12. Bxf6 Nxf6 13. e5 Bb7 14.
+Qg3 dxe5 15. Nxe6 fxe6 16. Bg6+ Kf8 17. fxe5 Rc8 18. exf6 Bxf6 19. Qxc7
+Rxc7 20. Rxe6 Bc6 21. Rdd6 1-0
+

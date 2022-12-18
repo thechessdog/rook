@@ -1,0 +1,23 @@
+[Event "corr SM"]
+[Site "corr SM"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Aulaskari, Pauli"]
+[Black "Valtavaara, Olli"]
+[Result "0-1"]
+[ECO "B89"]
+[Opening "Sicilian"]
+[Variation "Velimirovic attack"]
+[HashCode "619d180a"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bc4 e6 7. Be3 Be7
+8. Qe2 O-O 9. O-O-O a6 10. Bb3 Qc7 11. g4 Nxd4 12. Rxd4 b5 13. g5 Nd7 14.
+Qh5 Rd8 15. f4 Nc5 16. f5 g6 17. Qd1 Nxb3+ 18. axb3 b4 19. Na4 d5 20. f6
+Bf8 21. h4 Bb7 22. e5 Qxe5 23. Bf4 Qf5 24. Re1 Rac8 25. Re5 Qh3 26. Rd3
+Qxh4 27. Qf1 d4 28. Rh3 Bg2 29. Rxh4 Bxf1 30. Re1 Bd3 31. Rh2 Bd6 32. Be5
+Bb5 33. Rd2 d3 34. Re3 Bxe5 35. Rxe5 Bxa4 36. bxa4 Rxc2+ 37. Rxc2 dxc2 38.
+Kxc2 Rd5 39. Re4 a5 40. Rc4 h5 41. gxh6 Rf5 42. Rc8+ Kh7 43. Ra8 Kxh6 44.
+Ra7 Kg5 45. Rxf7 Rxf6 46. Ra7 Rf5 47. Kd3 Kf6 48. Rh7 g5 49. Rh6+ Kf7 50.
+Ke3 Rf6 0-1
+

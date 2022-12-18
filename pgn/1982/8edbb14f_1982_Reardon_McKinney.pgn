@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Reardon, J."]
+[Black "McKinney, C."]
+[Result "1-0"]
+[ECO "E41"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5"]
+[HashCode "8edbb14f"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 cxd4 6. exd4 Nc6 7. Ne2 b6 8.
+Bd2 d5 9. O-O dxc4 10. Bxc4 Nxd4 11. Qa4+ Bd7 12. Qxb4 Nc2 13. Qd6 Nxa1 14.
+Nb5 Rc8 15. Bb4 Rxc4 16. Qf8+ Rxf8 17. Nd6+ 1-0
+

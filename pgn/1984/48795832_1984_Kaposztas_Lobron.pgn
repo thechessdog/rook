@@ -1,0 +1,21 @@
+[Event "Berlin"]
+[Site "Berlin"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Kaposztas, Miklos"]
+[Black "Lobron, Eric"]
+[Result "0-1"]
+[ECO "E00"]
+[Opening "Queen's pawn game"]
+[HashCode "48795832"]
+[Epoch "Rook"]
+[WhiteID "700711"]
+[BlackID "4600037"]
+[WhiteCountry "HUN"]
+[BlackCountry "GER"]
+
+1. c4 e6 2. d4 Nf6 3. Nc3 c5 4. Nf3 cxd4 5. Nxd4 Bb4 6. Nc2 Bxc3+ 7. bxc3 O-O
+8. Qd3 d5 9. cxd5 Qxd5 10. c4 Qa5+ 11. Bd2 Qc7 12. f3 Nc6 13. e4 Bd7 14. Be2
+Rac8 15. Qa3 Nh5 16. Rd1 e5 17. g3 Bh3 18. g4 Nf4 19. Bxf4 exf4 20. Rd5 Rfd8
+21. Kf2 Rxd5 22. exd5 Ne5 23. Qxa7 h5 24. g5 Qe7 25. Rg1 Re8 26. Bf1 Bxf1 27.
+Rxf1 Nxf3 28. Kxf3 Qe2+ 29. Kxf4 Qg4# 0-1

@@ -1,0 +1,21 @@
+[Event "Bulgaria"]
+[Site "Bulgaria"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Peev, Peicho Chonev"]
+[Black "Spassov, Liuben"]
+[Result "1-0"]
+[ECO "A79"]
+[Opening "Benoni"]
+[Variation "classical, 11.f3"]
+[HashCode "62b35950"]
+[Epoch "Rook"]
+[BlackID "2900220"]
+[BlackCountry "FID"]
+[WhiteCountry "BGR"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 exd5 5. cxd5 g6 6. Nc3 Bg7 7. e4 d6 8. Be2
+O-O 9. O-O Re8 10. Nd2 Na6 11. f3 Nc7 12. a4 Nd7 13. Nc4 Qe7 14. Kh1 f5 15. Bf4
+Ne5 16. Bxe5 Bxe5 17. Nxe5 Qxe5 18. f4 Qd4 19. e5 dxe5 20. d6 Ne6 21. fxe5 Bd7
+22. Bb5 Bxb5 23. Nxb5 Qxe5 24. Re1 Qf6 25. Qd5 Kh8 26. d7 Re7 27. Nc7 Rd8 28.
+Rxe6 Qxb2 29. Rae1 Rexd7 30. Re8+ Kg7 31. Qg8+ 1-0

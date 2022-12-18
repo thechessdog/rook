@@ -1,0 +1,19 @@
+[Event "Jaszbereny"]
+[Site "Jaszbereny"]
+[Date "1977.??.??"]
+[Round "?"]
+[White "Ortel, Endre"]
+[Black "Rosta, Sandor"]
+[Result "1/2-1/2"]
+[ECO "E58"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line with 8...Bxc3"]
+[HashCode "ae8cbc42"]
+[Epoch "Rook"]
+[WhiteID "701491"]
+[BlackID "705209"]
+[WhiteCountry "HUN"]
+[BlackCountry "HUN"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Nf3 c5 6. Bd3 d5 7. O-O Nc6 8. a3
+Bxc3 9. bxc3 Re8 1/2-1/2

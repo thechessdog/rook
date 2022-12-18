@@ -1,0 +1,23 @@
+[Event "Nordic-ch"]
+[Site "Esbjerg"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Agdestein, Simen"]
+[Black "Jakobsen, Ole"]
+[Result "1-0"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Uhlmann variation"]
+[HashCode "b2772d27"]
+[Epoch "Rook"]
+[WhiteID "1500015"]
+[WhiteCountry "NOR"]
+[BlackCountry "DNK"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. Bg5 Bg7 8. Nd2
+h6 9. Bh4 g5 10. Bg3 Nh5 11. e3 Nxg3 12. hxg3 a6 13. a4 Nd7 14. Nc4 Ne5 15. Qd2
+b6 16. Ra3 Nxc4 17. Bxc4 h5 18. Ne2 Bd7 19. Qd3 Bxb2 20. Ra2 Be5 21. Bxa6 Kf8
+22. Bb5 Bxb5 23. Qxb5 Kg7 24. Qc4 Qd7 25. O-O b5 26. axb5 Rxa2 27. Qxa2 Qxb5
+28. f4 gxf4 29. gxf4 Bf6 30. Ng3 Qd3 31. Qb1 Qxe3+ 32. Kh2 Qe8 33. Nf5+ Kg8 34.
+Rf3 h4 35. Nxd6 Qd7 36. Ne4 Bd4 37. d6 Kg7 38. f5 Rh5 39. f6+ Kg8 40. Qb8+ Kh7
+41. Qf8 1-0

@@ -1,0 +1,23 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Makaranow"]
+[Black "Koppe"]
+[Result "0-1"]
+[ECO "B33"]
+[Opening "Sicilian"]
+[Variation "Pelikan (Lasker/Sveshnikov) variation"]
+[HashCode "77aaecde"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Nd5 Nxd5
+8. exd5 Ne7 9. c3 f5 10. Bg5 Kf7 11. c4 h6 12. Qh5+ g6 13. Qh4 a6 14. Nc3
+Bg7 15. Bxe7 Qxe7 16. Qxe7+ Kxe7 17. O-O-O Bd7 18. f3 Rhc8 19. Bd3 b5 20.
+cxb5 axb5 21. Kb1 b4 22. Ne2 Ba4 23. Rc1 Rc5 24. Rhe1 Rxd5 25. Rc7+ Bd7 26.
+Nf4 Rda5 27. Rb7 Kd8 28. Nxg6 Rxa2 29. Re2 b3 30. Kc1 Bf6 31. g3 Ra1+ 32.
+Kd2 e4 33. fxe4 Bxb2 34. Rxb3 Bc1+ 35. Ke1 Bb2+ 36. Kd2 R8a2 37. Ke3 Bc1+
+38. Kf3 fxe4+ 39. Kxe4 Ra4+ 40. Kf3 Bg4+ 41. Kg2 Bxe2 42. Bxe2 R1a2 43. Kf3
+R4a3 44. Rxa3 Rxa3+ 45. Kg4 Ra2 46. Kf3 Bg5 47. h4 Bf6 48. Nf4 Be5 49. Bc4
+Ra4 0-1
+

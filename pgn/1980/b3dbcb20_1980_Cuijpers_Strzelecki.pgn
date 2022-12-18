@@ -1,0 +1,21 @@
+[Event "Groningen ch-EU jr"]
+[Site "Groningen ch-EU jr"]
+[Date "1980.01.01"]
+[Round "6"]
+[White "Cuijpers, Frans Andre"]
+[Black "Strzelecki, Krzysztof"]
+[Result "0-1"]
+[ECO "B97"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7...Qb6"]
+[HashCode "b3dbcb20"]
+[Epoch "Rook"]
+[WhiteID "1000209"]
+[WhiteCountry "NED"]
+[BlackID "1100335"]
+[BlackCountry "POL"]
+
+1. e4 c5 2. Nf3 d6 3. d4 Nf6 4. Nc3 cxd4 5. Nxd4 a6 6. Bg5 e6 7. f4 Qb6 8. Qd2
+Qxb2 9. Nb3 Qa3 10. Bd3 Be7 11. O-O h6 12. Bxf6 Bxf6 13. e5 dxe5 14. Ne4 Qe7
+15. Bb5+ axb5 16. Nd6+ Kf8 17. Nxc8 Qc7 18. fxe5 Bxe5 19. Qb4+ Ke8 20. Qxb5+
+Nd7 21. Rad1 Rxc8 22. Rxd7 Bxh2+ 0-1

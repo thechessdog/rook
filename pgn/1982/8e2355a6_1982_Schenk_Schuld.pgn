@@ -1,0 +1,19 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Schenk"]
+[Black "Schuld"]
+[Result "0-1"]
+[ECO "B15"]
+[Opening "Caro-Kann"]
+[Variation "Tartakower (Nimzovich) variation"]
+[HashCode "8e2355a6"]
+[Epoch "Rook"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ exf6 6. c3 Bd6 7. Bd3
+O-O 8. Qh5 g6 9. Qh4 Re8+ 10. Ne2 Nd7 11. g4 Nf8 12. Bh6 g5 13. Qh3 Ng6 14.
+O-O-O Be6 15. c4 b5 16. c5 Bc7 17. b3 a5 18. f4 Bxf4+ 19. Nxf4 Nxf4 20. Qg3
+Qxd4 21. Kb1 Nxd3 22. Rxd3 Qe4 23. Re1 Qg6 24. Rd1 Qxh6 25. h3 Bd5 26. Rd4
+Qg6+ 27. Kc1 Re2 0-1
+

@@ -1,0 +1,20 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Morgado"]
+[Black "Kalish"]
+[Result "1-0"]
+[ECO "C73"]
+[Opening "Ruy Lopez"]
+[Variation "modern Steinitz defence, Alapin variation"]
+[HashCode "e1547f0c"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. Bxc6+ bxc6 6. d4 f6 7. Be3 Ne7
+8. Nc3 Ng6 9. Qd3 Bd7 10. O-O-O Be7 11. h4 h5 12. Qc4 Qb8 13. dxe5 fxe5 14.
+Ng5 Bxg5 15. hxg5 Qb7 16. g3 Rb8 17. b3 Qb4 18. Qd3 a5 19. f4 a4 20. f5
+axb3 21. cxb3 Ne7 22. g6 d5 23. Bg5 d4 24. Nb1 c5 25. g4 Qa5 26. Qc4 Rf8
+27. Bxe7 Kxe7 28. Qd5 Qxa2 29. Qxc5+ Kf6 30. g5+ Kxg5 31. Qxe5 Qf2 32. f6+
+Kxg6 33. Qxh5+ Kxf6 1-0
+

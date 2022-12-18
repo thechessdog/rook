@@ -1,0 +1,21 @@
+[Event "Borzhomi"]
+[Site "Borzhomi"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Vitolinsh, Alvis"]
+[Black "Khalifman, Alexander"]
+[Result "0-1"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "Cochrane gambit"]
+[HashCode "0652f574"]
+[Epoch "Rook"]
+[WhiteCountry "LVA"]
+[BlackID "4100115"]
+[BlackCountry "RUS"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nxf7 Kxf7 5. d4 c5 6. dxc5 d5 7. e5 Qe8 8. f4
+Bg4 9. Be2 Bxe2 10. Qxe2 Bxc5 11. exf6 Qc6 12. Kd1 g6 13. g4 Qxf6 14. f5 Nc6
+15. c3 Rhe8 16. Qg2 Kg7 17. Rf1 d4 18. c4 Rad8 19. g5 Qf7 20. Nd2 d3 21. Qh3
+gxf5 22. Qxf5 Qh5+ 23. Qf3 Qxf3+ 24. Nxf3 Rf8 25. b3 Bd4 26. Rb1 Ne5 27. Nd2
+Rxf1+ 28. Nxf1 Rf8 29. Ng3 Rf2 30. Bd2 Kg6 0-1

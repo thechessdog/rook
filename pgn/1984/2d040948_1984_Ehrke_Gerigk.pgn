@@ -1,0 +1,22 @@
+[Event "BL2-N 8384"]
+[Site "BL2-N 8384"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Ehrke, Michael"]
+[Black "Gerigk, Wolf"]
+[Result "1-0"]
+[ECO "C12"]
+[Opening "French"]
+[Variation "MacCutcheon, Tartakower variation"]
+[HashCode "2d040948"]
+[Epoch "Rook"]
+[WhiteID "4607880"]
+[WhiteCountry "GER"]
+[BlackID "4684249"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. Nc3 e6 3. e4 d5 4. Bg5 Bb4 5. e5 h6 6. Bd2 Nfd7 7. Nce2 a5 8. f4
+b6 9. c3 Be7 10. Nf3 Ba6 11. f5 Bd3 12. Ng3 Bxf5 13. Nxf5 exf5 14. Bd3 g6 15.
+e6 fxe6 16. Qe2 Bh4+ 17. Kd1 Kf7 18. g4 fxg4 19. Bxg6+ Kxg6 20. Qxe6+ Qf6 21.
+Nxh4+ Kh5 22. Qxd5+ Kxh4 23. Be1+ Kh3 24. Qh5+ Kg2 25. Qxg4+ Kxh1 26. Kc2 Rg8
+27. Bf2+ Kxh2 28. Rh1+ Kxh1 29. Qh3# 1-0

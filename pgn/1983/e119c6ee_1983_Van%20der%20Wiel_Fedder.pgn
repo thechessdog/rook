@@ -1,0 +1,22 @@
+[Event "EU-chT Plovdiv"]
+[Site "Plovdiv etc"]
+[Date "1983.06.01"]
+[Round "7"]
+[White "Van der Wiel, John T.H."]
+[Black "Fedder, Steen"]
+[Result "1-0"]
+[ECO "B97"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Poisoned pawn variation"]
+[HashCode "e119c6ee"]
+[Epoch "Rook"]
+[WhiteID "1000020"]
+[WhiteCountry "NED"]
+[BlackID "1400126"]
+[BlackCountry "DEN"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qb6 8. Qd2
+Qxb2 9. Rb1 Qa3 10. Be2 Be7 11. O-O Nc6 12. Nxc6 bxc6 13. e5 dxe5 14. fxe5 Qc5+
+15. Kh1 Qxe5 16. Bf4 Qa5 17. Bf3 Bd7 18. Rb7 Qd8 19. Na4 O-O 20. Nb6 e5 21. Bg5
+Bc8 22. Rxe7 Qxb6 23. Bxf6 gxf6 24. Qh6 Qd8 25. Be4 f5 26. Qg5+ Kh8 27. Qf6+
+Kg8 28. Bxf5 Bxf5 29. Rxf5 Qd1+ 30. Rf1 1-0

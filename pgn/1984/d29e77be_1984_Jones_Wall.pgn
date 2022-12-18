@@ -1,0 +1,18 @@
+[Event "Charlotte,NC"]
+[Site "Charlotte,NC"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Jones, Bob"]
+[Black "Wall, Bill"]
+[Result "0-1"]
+[ECO "C77"]
+[Opening "Ruy Lopez"]
+[Variation "Anderssen variation"]
+[HashCode "d29e77be"]
+[Epoch "Rook"]
+[BlackCountry "USA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. d3 b5 6. Bb3 Be7 7. O-O O-O 8. Nc3
+d6 9. Nd5 Nxd5 10. exd5 Na5 11. Be3 Nxb3 12. cxb3 Bb7 13. d4 e4 14. Nd2 Bxd5
+15. b4 f5 16. f3 Bg5 17. Bxg5 Qxg5 18. g3 Qe3+ 19. Kg2 Qxd4 20. Nb3 Qxb2+ 21.
+Kh3 Be6 0-1

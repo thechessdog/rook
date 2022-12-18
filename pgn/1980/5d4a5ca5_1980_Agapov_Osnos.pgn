@@ -1,0 +1,16 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Agapov, Konstantin"]
+[Black "Osnos, Vyacheslav"]
+[Result "0-1"]
+[ECO "B44"]
+[Opening "Sicilian defence"]
+[HashCode "5d4a5ca5"]
+[Epoch "Rook"]
+[BlackCountry "RUS"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. g3 d5 6. Bb5 Bd7 7. exd5 exd5 8.
+O-O Nf6 9. Qd3 Be7 10. Nf5 O-O 11. Nxe7+ Qxe7 12. Bxc6 bxc6 13. Nc3 Bh3 14. Rd1
+Ng4 15. Qe2 Qf6 16. Re1 Rae8 0-1

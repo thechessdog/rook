@@ -1,0 +1,20 @@
+[Event "Hoogovens"]
+[Site "Wijk aan Zee"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Sosonko, Gennadi"]
+[Black "Van der Sterren, Paul"]
+[Result "1/2-1/2"]
+[ECO "E17"]
+[Opening "Queen's Indian"]
+[Variation "Euwe variation"]
+[HashCode "61f69790"]
+[Epoch "Rook"]
+[WhiteID "1000039"]
+[WhiteCountry "NED"]
+[BlackID "1000071"]
+[BlackCountry "NED"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2 Be7 6. O-O O-O 7. b3 d5 8. Ne5 c5
+9. Bb2 Qc8 10. cxd5 Bxd5 11. Bxd5 Nxd5 12. dxc5 Bxc5 13. Nd2 Nd7 14. Rc1 Nxe5
+15. Bxe5 Qa6 16. Ne4 1/2-1/2

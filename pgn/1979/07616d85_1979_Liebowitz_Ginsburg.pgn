@@ -1,0 +1,18 @@
+[Event "Ohio Congress"]
+[Site "Ohio Congress"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Liebowitz, Errol"]
+[Black "Ginsburg, Jeffrey"]
+[Result "1/2-1/2"]
+[ECO "B41"]
+[Opening "Sicilian"]
+[Variation "Kan, Maroczy bind (Reti variation)"]
+[HashCode "07616d85"]
+[Epoch "Rook"]
+[WhiteID "2003520"]
+[WhiteCountry "USA"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. c4 Nf6 6. Nc3 Bb4 7. e5 Ne4 8. Qc2
+Qa5 9. Qxe4 Bxc3+ 10. bxc3 Qxc3+ 11. Kd1 Qxa1 12. Nc2 Qxa2 13. Ba3 Nc6 14. Bd6
+Qb1+ 15. Kd2 a5 16. Qg4 Rg8 17. Qh4 h6 1/2-1/2

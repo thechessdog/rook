@@ -1,0 +1,20 @@
+[Event "Reykjavik"]
+[Site "Reykjavik"]
+[Date "1976.01.01"]
+[Round "11"]
+[White "Matera, Salvatore"]
+[Black "Petursson, Margeir"]
+[Result "1/2-1/2"]
+[ECO "B25"]
+[Opening "Sicilian"]
+[Variation "closed, 6.Ne2 e5 (Botvinnik)"]
+[HashCode "3e5e563a"]
+[Epoch "Rook"]
+[WhiteID "2000580"]
+[WhiteCountry "USA"]
+[BlackID "2300028"]
+[BlackCountry "ISL"]
+
+1. e4 c5 2. Nc3 d6 3. g3 g6 4. Bg2 Bg7 5. d3 Nc6 6. Nge2 e5 7. Be3 Nge7 8. f4
+Nd4 9. O-O Be6 10. Qd2 O-O 11. Rf2 Qd7 12. Re1 f5 13. fxe5 dxe5 14. Nc1 Rad8
+15. Ref1 b5 16. exf5 gxf5 17. Bh6 Ng6 18. Re1 b4 19. Nd1 Bxh6 1/2-1/2

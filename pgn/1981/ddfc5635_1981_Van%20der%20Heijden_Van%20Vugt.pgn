@@ -1,0 +1,20 @@
+[Event "HMC"]
+[Site "HMC"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Van der Heijden, H."]
+[Black "Van Vugt, F."]
+[Result "0-1"]
+[ECO "D87"]
+[Opening "Gruenfeld"]
+[Variation "exchange, Spassky variation"]
+[HashCode "ddfc5635"]
+[Epoch "Rook"]
+
+1. c4 Nf6 2. Nc3 d5 3. d4 g6 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 c5 7. Bc4 Bg7
+8. Ne2 O-O 9. O-O Nc6 10. Be3 Qc7 11. Rc1 Rd8 12. a3 b6 13. Ng3 Bb7 14. Qb3
+e6 15. e5 Na5 16. Qa2 Nxc4 17. Qxc4 Bd5 18. Qe2 cxd4 19. Bxd4 Bc4 20. Qe3
+Bxf1 21. Rxf1 Rd5 22. f4 Rad8 23. Ne4 Qc4 24. f5 Rxd4 25. cxd4 Qxd4 26.
+Nf6+ Bxf6 27. Qxd4 Rxd4 28. exf6 gxf5 29. Rc1 h6 30. Rc8+ Kh7 31. Rc7 Ra4
+32. Rxf7+ Kg6 0-1
+

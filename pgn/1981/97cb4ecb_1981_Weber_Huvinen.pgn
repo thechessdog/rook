@@ -1,0 +1,18 @@
+[Event "corr EU/II"]
+[Site "corr EU/II"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Weber"]
+[Black "Huvinen, Raimo"]
+[Result "0-1"]
+[ECO "C30"]
+[Opening "KGD"]
+[Variation "classical, 4.c3"]
+[HashCode "97cb4ecb"]
+[Epoch "Rook"]
+
+1. e4 e5 2. f4 Bc5 3. Nf3 d6 4. c3 Nf6 5. d4 exd4 6. cxd4 Bb6 7. Nc3 O-O 8.
+Bd3 Nc6 9. e5 Re8 10. Ne2 dxe5 11. fxe5 Nd7 12. Bg5 f6 13. exf6 Nxf6 14.
+O-O Bg4 15. Kh1 Qd6 16. Bxf6 gxf6 17. Qb3+ Kh8 18. h3 Be6 19. Qc3 Rad8 20.
+Be4 Bxh3 21. d5 Bxg2+ 22. Kxg2 Rxe4 23. Ng3 Rg8 0-1
+

@@ -1,0 +1,19 @@
+[Event "Philadelphia"]
+[Site "Philadelphia"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Bagley"]
+[Black "Gheorghiu, Florin"]
+[Result "0-1"]
+[ECO "E76"]
+[Opening "King's Indian"]
+[Variation "Four pawns attack, dynamic line"]
+[HashCode "176babf9"]
+[Epoch "Rook"]
+[BlackID "1200011"]
+[BlackCountry "ROU"]
+
+1. d4 Nf6 2. c4 c5 3. d5 g6 4. Nc3 d6 5. e4 Bg7 6. f4 O-O 7. Nf3 a6 8. a4 e6 9.
+Be2 exd5 10. cxd5 Bg4 11. O-O Nbd7 12. h3 Bxf3 13. Bxf3 Re8 14. Qc2 c4 15. Be3
+Rc8 16. Rae1 Qc7 17. Kh1 Qb8 18. a5 Nc5 19. Re2 h5 20. e5 dxe5 21. fxe5 Rxe5
+22. Bf4 Nfd7 23. Bxe5 Nxe5 24. Ne4 Nb3 25. Qd1 Nd4 26. Qxd4 Nxf3 0-1

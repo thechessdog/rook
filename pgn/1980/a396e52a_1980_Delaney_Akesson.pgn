@@ -1,0 +1,22 @@
+[Event "Groningen"]
+[Site "Groningen"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Delaney"]
+[Black "Akesson, Ralf"]
+[Result "0-1"]
+[ECO "B10"]
+[Opening "Caro-Kann"]
+[Variation "closed (Breyer) variation"]
+[HashCode "a396e52a"]
+[Epoch "Rook"]
+[BlackID "1700120"]
+[BlackCountry "SWE"]
+
+1. e4 c6 2. d3 d5 3. Nd2 Qc7 4. g3 Nf6 5. Bg2 Bg4 6. Ngf3 e6 7. h3 Bxf3 8. Qxf3
+Nbd7 9. Qe2 Bc5 10. Nb3 Bd6 11. f4 dxe4 12. dxe4 e5 13. O-O a5 14. a4 h5 15. f5
+Nc5 16. Qc4 Nxb3 17. Qxb3 Bc5+ 18. Be3 Nd7 19. Rad1 h4 20. g4 O-O-O 21. Kh2
+Bxe3 22. Qxe3 Nb6 23. b3 Rxd1 24. Rxd1 Rd8 25. Rxd8+ Qxd8 26. Qc5 Nd7 27. Qe3
+g5 28. Bf1 f6 29. Bc4 Qb6 30. Qxb6 Nxb6 31. Bd3 Kc7 32. Kg2 Kd6 33. Kf3 Kc5 34.
+c3 Nd7 35. Ke3 b5 36. axb5 cxb5 37. Kd2 Nb6 38. Kc2 b4 39. Kd2 a4 40. cxb4+
+Kxb4 41. bxa4 Nxa4 42. Ke3 Kc3 43. Be2 Nb2 44. Ba6 Nc4+ 45. Kf3 Kd4 0-1

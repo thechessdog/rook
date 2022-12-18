@@ -1,0 +1,18 @@
+[Event "Wisconsin"]
+[Site "Wisconsin"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Savage, Alan"]
+[Black "Long, Robert"]
+[Result "1-0"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Paulsen attack"]
+[HashCode "51b17b34"]
+[Epoch "Rook"]
+[BlackID "1800868"]
+[BlackCountry "WLS"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 cxd4 6. cxd4 Bb4+ 7. Nc3 a6 8. Be2
+Nge7 9. a3 Ba5 10. b4 Bc7 11. O-O O-O 12. Bd3 Nf5 13. Re1 f6 14. Bxf5 exf5 15.
+exf6 gxf6 16. Bh6 Rf7 17. Nxd5 Bd6 18. Qb3 Ne7 19. Nxf6+ 1-0

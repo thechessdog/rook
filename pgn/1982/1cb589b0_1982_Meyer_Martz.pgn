@@ -1,0 +1,21 @@
+[Event "USA"]
+[Site "USA"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Meyer, Claus Dieter"]
+[Black "Martz, William E"]
+[Result "1-0"]
+[ECO "D07"]
+[Opening "QGD"]
+[Variation "Chigorin defence"]
+[HashCode "1cb589b0"]
+[Epoch "Rook"]
+[WhiteID "4601785"]
+[WhiteCountry "GER"]
+[BlackCountry "USA"]
+
+1. d4 d5 2. c4 Nc6 3. Nc3 dxc4 4. d5 Ne5 5. f4 Ng4 6. h3 N4h6 7. e4 e6 8. Bxc4
+exd5 9. Qxd5 Be7 10. Be3 Bh4+ 11. Ke2 c6 12. Qe5+ Qe7 13. Nf3 Qxe5 14. Nxe5 Bf6
+15. Nf3 Bxc3 16. bxc3 Be6 17. Bxe6 fxe6 18. Ng5 Nf6 19. g4 Nf7 20. Nxe6 Nxe4
+21. Nc7+ Ke7 22. Nxa8 Ng3+ 23. Kf3 Nxh1 24. Bc5+ Ke6 25. Nc7+ Kd7 26. Re1 Kxc7
+27. Re7+ Kb8 28. Rxf7 Rd8 29. Rf8 1-0

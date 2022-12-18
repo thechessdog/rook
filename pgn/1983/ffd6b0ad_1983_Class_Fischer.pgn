@@ -1,0 +1,25 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Class, W."]
+[Black "Fischer, A."]
+[Result "0-1"]
+[ECO "C03"]
+[Opening "French"]
+[Variation "Tarrasch, Guimard variation"]
+[HashCode "ffd6b0ad"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nc6 4. c3 Nge7 5. Ngf3 Ng6 6. g3 b6 7. exd5 exd5
+8. Bb5 Bd7 9. O-O Bd6 10. Re1+ Nce7 11. Qa4 f6 12. c4 Bxb5 13. Qxb5+ Kf7
+14. cxd5 Qc8 15. Ne4 Qf5 16. Kg2 Qxd5 17. a4 a6 18. Qxd5+ Nxd5 19. Nxd6+
+cxd6 20. b3 b5 21. axb5 axb5 22. Ba3 Ra6 23. Nd2 Rha8 24. Bb2 Nb4 25. Rxa6
+Rxa6 26. Bc3 Nd5 27. Ra1 Rc6 28. Ra7+ Nge7 29. Ba5 Ke6 30. Rb7 Rc2 31. Nf1
+Nc6 32. Rxb5 Nxd4 33. Rb7 Nf5 34. Bd2 h5 35. h4 g6 36. Rb8 Nde7 37. Kf3 Rb2
+38. Bc3 Rc2 39. Bd2 Nc6 40. Rb6 Rb2 41. Kg2 Ne5 42. Bc3 Rc2 43. Ba5 Nd3 44.
+Bd2 Nc5 45. Rb8 d5 46. Rb6+ Kd7 47. Rxf6 Ne4 48. Rxg6 Nxd2 49. Nxd2 Rxd2
+50. Rg5 Ke6 51. Rxh5 Ne3+ 52. Kf3 Nd1 53. Rh6+ Ke5 54. Rh8 Rxf2+ 55. Kg4
+Ne3+ 56. Kg5 Rf5+ 57. Kg6 Rf3 58. Re8+ Kd4 59. g4 Nxg4 60. b4 Ne5+ 61. Kg5
+Ke4 0-1
+

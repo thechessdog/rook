@@ -1,0 +1,20 @@
+[Event "Agard"]
+[Site "Agard"]
+[Date "1976.??.??"]
+[Round "1"]
+[White "Bielczyk, Jacek"]
+[Black "Stoica, Valentin"]
+[Result "1/2-1/2"]
+[ECO "B92"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Opovcensky variation"]
+[HashCode "7876cceb"]
+[Epoch "Rook"]
+[BlackCountry "ROU"]
+[BlackID "1200070"]
+[WhiteID "1100530"]
+[WhiteCountry "POL"]
+
+1. e4 c5 2. Nf3 d6 3. d4 Nf6 4. Nc3 cxd4 5. Nxd4 a6 6. Be2 e5 7. Nb3 Be7 8. a4
+Be6 9. f4 Qc7 10. O-O Nbd7 11. Kh1 O-O 12. Be3 exf4 13. Rxf4 Ne5 14. Nd4 Rac8
+15. Nf5 1/2-1/2

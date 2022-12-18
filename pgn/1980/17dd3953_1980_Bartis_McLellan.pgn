@@ -1,0 +1,20 @@
+[Event "corr Americas"]
+[Site "corr Americas"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Bartis, Gustavo"]
+[Black "McLellan, Richard"]
+[Result "1-0"]
+[ECO "B85"]
+[Opening "Sicilian"]
+[Variation "Scheveningen, classical, Maroczy system"]
+[HashCode "17dd3953"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be2 Be7 7. O-O Nc6
+8. Kh1 a6 9. f4 Qc7 10. a4 O-O 11. Be3 Re8 12. Nb3 b6 13. Bf3 Rb8 14. g4
+Na5 15. Nxa5 bxa5 16. g5 Nd7 17. Rb1 Rb4 18. Qe2 Bb7 19. Bd2 Nc5 20. b3 Bc6
+21. Rbe1 Rbb8 22. Qg2 Nd7 23. Nd1 Bf8 24. Ne3 Nc5 25. Nc4 Nd7 26. Ne3 Nc5
+27. Ng4 Nd7 28. Bc3 Bxe4 29. Bxe4 Qxc3 30. Bc6 Red8 31. Re3 Qd4 32. Rd3 Qc5
+33. Bxd7 Rxd7 34. Nf6+ gxf6 35. gxf6+ Kh8 36. Rg1 Bh6 37. Rh3 1-0
+

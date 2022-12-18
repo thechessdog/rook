@@ -1,0 +1,17 @@
+[Event "Mannheim"]
+[Site "Mannheim"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Kreuzer"]
+[Black "Konzelmann"]
+[Result "1-0"]
+[ECO "A00"]
+[Opening "Polish (Sokolsky) opening"]
+[HashCode "7a4c605b"]
+[Epoch "Rook"]
+
+1. b4 b5 2. Bb2 Bb7 3. e3 d6 4. Bxb5+ c6 5. Be2 Qb6 6. a3 c5 7. Nf3 cxb4 8.
+O-O Nd7 9. Bd4 Nc5 10. axb4 Qxb4 11. Na3 e5 12. Bb5+ Nd7 13. Bxd7+ Kxd7 14.
+Rb1 Qxa3 15. Rxb7+ Kc8 16. Bb2 Qa2 17. Rb3 Be7 18. Nxe5 Rb8 19. Qg4+ Kc7
+20. Qd7# 1-0
+

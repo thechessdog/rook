@@ -1,0 +1,20 @@
+[Event "corr Italy"]
+[Site "corr Italy"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Garofalo"]
+[Black "Amoroso"]
+[Result "1-0"]
+[ECO "A71"]
+[Opening "Benoni"]
+[Variation "classical, 8.Bg5"]
+[HashCode "cfb8c012"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. Nf3 Bg7 8.
+Bg5 h6 9. Bh4 g5 10. Bg3 Nh5 11. Bb5+ Kf8 12. e5 Bg4 13. exd6 Nxg3 14. fxg3
+Qxd6 15. O-O f5 16. Qd2 a6 17. Be2 Nd7 18. Nxg5 Bd4+ 19. Kh1 hxg5 20. Bxg4
+Qxg3 21. Rxf5+ Bf6 22. Bh3 Qh4 23. Raf1 g4 24. R5f4 Qh6 25. Ne4 Ke7 26. d6+
+Kd8 27. Nxf6 gxh3 28. Qd5 Kc8 29. Nxd7 Ra7 30. Qxc5+ Kxd7 31. Qc7+ Ke6 32.
+Qe7+ Kd5 33. Rf5+ Kd4 34. Rd1+ Kc4 35. Qe4# 1-0
+

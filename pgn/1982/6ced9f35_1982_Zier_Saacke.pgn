@@ -1,0 +1,19 @@
+[Event "FRG-ch"]
+[Site "Bad Neuenahr"]
+[Date "1982.??.??"]
+[Round "?"]
+[White "Zier, Ludwig"]
+[Black "Saacke, Bernd"]
+[Result "0-1"]
+[ECO "C15"]
+[Opening "French"]
+[Variation "Winawer, Alekhine (Maroczy) gambit"]
+[HashCode "6ced9f35"]
+[Epoch "Rook"]
+[WhiteID "4606809"]
+[WhiteCountry "GER"]
+[BlackCountry "DEU"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. Ne2 Nc6 5. a3 Ba5 6. e5 Bd7 7. Be3 f6 8. f4 Nh6
+9. Ng3 O-O 10. Be2 fxe5 11. fxe5 Qh4 12. Bd3 Bb6 13. Qd2 Bxd4 14. O-O-O Bxe3
+15. Qxe3 Ng4 16. Qc5 b6 0-1

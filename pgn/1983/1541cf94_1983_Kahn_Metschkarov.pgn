@@ -1,0 +1,28 @@
+[Event "corr ol8"]
+[Site "corr ol8"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Kahn, M."]
+[Black "Metschkarov, S."]
+[Result "1-0"]
+[ECO "D02"]
+[Opening "Queen's pawn game"]
+[HashCode "1541cf94"]
+[Epoch "Rook"]
+
+1. Nf3 Nf6 2. d4 d5 3. c4 Bg4 4. Qa4+ Nc6 5. e3 Bxf3 6. gxf3 Nd7 7. c5 e5
+8. Bb5 exd4 9. exd4 Ndb8 10. Be3 Be7 11. Nc3 O-O 12. O-O-O Bf6 13. h4 Ne7
+14. Bg5 Bxg5+ 15. hxg5 f5 16. Qc2 c6 17. Bd3 Ng6 18. Qd2 Nd7 19. Ne2 Qc7
+20. Ng3 Nf4 21. Bxf5 g6 22. Bg4 Rf7 23. Ne2 Nf8 24. Nxf4 Qxf4 25. Qxf4 Rxf4
+26. Rhe1 Rf7 27. Rd3 Kg7 28. Kd2 h6 29. gxh6+ Kxh6 30. Rde3 Nh7 31. Re5
+Raf8 32. b4 a6 33. a4 Nf6 34. Be6 Re7 35. Kc2 Kg7 36. Bh3 Ref7 37. Rg1 Nh7
+38. Bg4 Rb8 39. Bf5 Nf8 40. a5 Kh6 41. Bg4 Nh7 42. Rh1+ Kg7 43. Rhe1 Rbf8
+44. Be6 Re7 45. Kd3 Nf6 46. Bh3 Ref7 47. Rg1 Ne8 48. Bg4 Nc7 49. Bh5 Rf6
+50. Re7+ R8f7 51. Rxf7+ Kxf7 52. Bg4 Nb5 53. Ke3 Kg7 54. f4 Kh6 55. Bh3 Rf7
+56. f3 Rf8 57. Rd1 Re8+ 58. Kf2 Kg7 59. Bf1 Rh8 60. Bxb5 axb5 61. Re1 Kf7
+62. Kg3 Kf6 63. Ra1 Kf5 64. a6 bxa6 65. Rxa6 Rc8 66. Ra7 g5 67. Rf7+ Kg6
+68. Rd7 Kf5 69. fxg5 Kxg5 70. f4+ Kf5 71. Kf3 Ra8 72. Rf7+ Kg6 73. Rc7 Kf5
+74. Rxc6 Ra3+ 75. Ke2 Ke4 76. Re6+ Kxd4 77. f5 Ra7 78. Kf3 Kc3 79. Re1 Rc7
+80. Rc1+ Kd2 81. Rf1 d4 82. f6 d3 83. Kg4 Rc8 84. Kg5 Kc3 85. f7 Kxb4 86.
+f8=Q 1-0
+

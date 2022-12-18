@@ -1,0 +1,22 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Miethke"]
+[Black "Wunsch"]
+[Result "1-0"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, 6.e5"]
+[HashCode "2ab6b05d"]
+[Epoch "Rook"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 O-O 6. e5 dxe5 7. dxe5 Qxd1+
+8. Kxd1 Rd8+ 9. Ke1 Ne8 10. Bc4 h6 11. Be3 Nc6 12. h3 Bf5 13. Rc1 Na5 14.
+Be2 b6 15. Nd4 c5 16. Nxf5 gxf5 17. g4 f6 18. e6 Nd6 19. Rd1 fxg4 20. hxg4
+f5 21. Nd5 Kf8 22. Bc1 c4 23. c3 Rac8 24. Rh5 fxg4 25. Bxg4 Ne4 26. Rf5+
+Nf6 27. Nxf6 Bxf6 28. Rd7 Rxd7 29. exd7 Rd8 30. Rxa5 bxa5 31. Be6 Bh4+ 32.
+Kf1 Kg7 33. Be3 Kf6 34. f5 Bg3 35. Bxa7 Bc7 36. Kg2 Ke5 37. Bc5 Rb8 38.
+Bxe7 Rxb2+ 39. Kf3 Rb8 40. Bh4 Kd6 41. Ke4 Kc6 42. Kd4 Bd8 43. f6 Bb6+ 44.
+Ke5 Bd8 45. Bg4 h5 46. Bh3 a4 47. Ke6 Rb7 48. Bf1 Rb8 49. Bg3 1-0
+

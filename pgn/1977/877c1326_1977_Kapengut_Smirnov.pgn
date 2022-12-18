@@ -1,0 +1,21 @@
+[Event "Minsk"]
+[Site "Minsk"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Kapengut, Albert Z"]
+[Black "Smirnov, Valerij"]
+[Result "1-0"]
+[ECO "C80"]
+[Opening "Ruy Lopez"]
+[Variation "open, 6.d4"]
+[HashCode "877c1326"]
+[Epoch "Rook"]
+[WhiteID "13500058"]
+[WhiteCountry "USA"]
+[BlackID "13500350"]
+[BlackCountry "BLR"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 Be7 7. Re1 f5 8. d5
+Nb8 9. Nxe5 O-O 10. d6 Bxd6 11. Qd5+ Kh8 12. Nf7+ Rxf7 13. Qxf7 Bxh2+ 14. Kf1
+d5 15. Nc3 c6 16. Bg5 Qg8 17. Qxg8+ Kxg8 18. g3 Nd7 19. Bf4 Ndc5 20. Bb3 g5 21.
+Be5 Nxc3 22. Bxc3 1-0

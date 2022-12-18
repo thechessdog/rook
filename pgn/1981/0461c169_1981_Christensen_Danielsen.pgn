@@ -1,0 +1,20 @@
+[Event "Haderslev op"]
+[Site "Haderslev"]
+[Date "1981.01.01"]
+[Round "7"]
+[White "Christensen, Jan"]
+[Black "Danielsen, Henrik"]
+[Result "1/2-1/2"]
+[ECO "B80"]
+[Opening "Sicilian"]
+[Variation "Scheveningen variation"]
+[HashCode "0461c169"]
+[Epoch "Rook"]
+[BlackID "1400185"]
+[BlackCountry "ISL"]
+[WhiteID "1400916"]
+[WhiteCountry "DEN"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be3 a6 7. f4 Nbd7 8. Qf3
+Qc7 9. O-O-O b5 10. Bd3 Bb7 11. g4 Nc5 12. a3 Be7 13. Rhf1 Rc8 14. g5 Nfd7 15.
+Kb1 Qa5 16. Nce2 d5 17. e5 Ne4 18. Nb3 Qc7 19. Ng3 1/2-1/2

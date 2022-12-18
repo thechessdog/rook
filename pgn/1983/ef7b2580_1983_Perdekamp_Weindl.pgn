@@ -1,0 +1,20 @@
+[Event "Konstanza U20"]
+[Site "Konstanza U20"]
+[Date "1983.01.01"]
+[Round "7"]
+[White "Perdekamp, M."]
+[Black "Weindl, Alfred"]
+[Result "0-1"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack, Richter variation"]
+[HashCode "ef7b2580"]
+[Epoch "Rook"]
+[BlackID "4600738"]
+[BlackCountry "GER"]
+
+1. Nc3 d5 2. d4 Nf6 3. Bg5 Bf5 4. f3 Nbd7 5. e3 c6 6. Bd3 Bg6 7. Nge2 e5 8. Ng3
+Bb4 9. O-O O-O 10. f4 Bxd3 11. Qxd3 e4 12. Qe2 Bxc3 13. bxc3 h6 14. Bh4 Qa5 15.
+Nf5 Kh7 16. g4 Ng8 17. g5 g6 18. Ng3 f5 19. c4 Qa6 20. Rab1 dxc4 21. Rb4 b5 22.
+a4 Qa5 23. c3 a6 24. Qb2 Qc7 25. Qa3 Nb6 26. Rb2 Nxa4 27. Rg2 Nb6 28. gxh6 Nd5
+29. Nxe4 fxe4 30. f5 Nxh6 31. Bg3 Qd7 32. fxg6+ Kg8 33. Rxf8+ Rxf8 34. g7 Rf7
+35. Be5 Nxe3 36. Rg6 Rf1# 0-1

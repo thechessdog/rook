@@ -1,0 +1,21 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Nitsche"]
+[Black "Rollwitz"]
+[Result "1-0"]
+[ECO "E98"]
+[Opening "King's Indian"]
+[Variation "orthodox, Aronin-Taimanov, 9.Ne1"]
+[HashCode "d900d18b"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. O-O Nc6 8.
+d5 Ne7 9. Ne1 Nd7 10. Nd3 f5 11. Bd2 fxe4 12. Nxe4 Nf5 13. f3 Nf6 14. Ndf2
+h6 15. Re1 Nd4 16. Nxf6+ Qxf6 17. Ne4 Nxe2+ 18. Rxe2 Qf7 19. b4 Bd7 20. a4
+Rad8 21. Qb3 Bf5 22. Rd1 Rd7 23. a5 Bxe4 24. fxe4 Qf6 25. Be3 b6 26. axb6
+axb6 27. c5 Rdf7 28. Ree1 b5 29. c6 h5 30. Qd3 Qh4 31. Kh1 Kh7 32. Bg1 Qg4
+33. Qxb5 Rf2 34. Bxf2 Rxf2 35. Rg1 Qxe4 36. Qb7 h4 37. h3 Qe2 38. Qxc7 Rxg2
+39. Rxg2 Qxd1+ 40. Kh2 Qxd5 41. Qd7 e4 42. Qg4 1-0
+

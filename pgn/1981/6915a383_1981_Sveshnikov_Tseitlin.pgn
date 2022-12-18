@@ -1,0 +1,23 @@
+[Event "Frunze"]
+[Site "Frunze"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Sveshnikov, Evgeny"]
+[Black "Tseitlin, Mikhail S"]
+[Result "0-1"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "6915a383"]
+[Epoch "Rook"]
+[WhiteID "4100638"]
+[WhiteCountry "RUS"]
+[BlackCountry "BLR"]
+
+1. e4 c5 2. c3 d6 3. d4 Nf6 4. dxc5 Nc6 5. Bc4 Nxe4 6. Bxf7+ Kxf7 7. Qd5+ e6 8.
+Qxe4 d5 9. Qf3+ Qf6 10. Be3 Be7 11. Qg3 e5 12. Nf3 h6 13. O-O g5 14. h3 Rg8 15.
+Nxe5+ Qxe5 16. f4 gxf4 17. Rxf4+ Bf5 18. Qf2 Kg6 19. Nd2 Qe6 20. Nf3 Kh7 21.
+Nh4 Bxh4 22. Rxh4 Be4 23. Rxh6+ Qxh6 24. Bxh6 Rxg2+ 25. Qxg2 Bxg2 26. Kxg2 Kxh6
+27. Rd1 Rd8 28. b4 Kg5 29. Kf3 Kf5 30. b5 Ne5+ 31. Ke3 Ke6 32. Rg1 Rc8 33. Rg7
+Rxc5 34. Rxb7 Rxc3+ 35. Kd4 Rc4+ 36. Ke3 d4+ 37. Ke2 Rc2+ 38. Kd1 Rxa2 39. Kc1
+d3 40. b6 Nc4 0-1

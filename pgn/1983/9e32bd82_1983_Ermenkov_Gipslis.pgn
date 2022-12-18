@@ -1,0 +1,18 @@
+[Event "Albena"]
+[Site "Albena"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Ermenkov, Evgenij"]
+[Black "Gipslis, Aivars"]
+[Result "1/2-1/2"]
+[ECO "E48"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 O-O, 5.Bd3 d5"]
+[HashCode "9e32bd82"]
+[Epoch "Rook"]
+[WhiteID "2900106"]
+[WhiteCountry "FID"]
+[BlackCountry "LVA"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Ne2 c5 7. O-O dxc4 8. Bxc4
+Nbd7 9. a3 cxd4 10. exd4 Bd6 11. Ba2 1/2-1/2

@@ -1,0 +1,17 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Theorie"]
+[Black "Hoffmann, Hans"]
+[Result "1-0"]
+[ECO "C10"]
+[Opening "French"]
+[Variation "Fort Knox variation"]
+[HashCode "b2e1c91d"]
+[Epoch "Rook"]
+[BlackID "4602536"]
+[BlackCountry "GER"]
+
+1. e4 e6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bd7 5. Nf3 Bc6 6. Bd3 Nd7 7. Qe2 Ngf6 8.
+Nxf6+ Qxf6 9. Bg5 Bxf3 10. Qe3 Bxg2 11. Bxf6 Bxh1 12. Bh4 1-0

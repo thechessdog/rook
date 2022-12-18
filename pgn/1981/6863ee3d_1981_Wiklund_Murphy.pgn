@@ -1,0 +1,19 @@
+[Event "Lewisham"]
+[Site "Lewisham"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Wiklund"]
+[Black "Murphy"]
+[Result "0-1"]
+[ECO "C67"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence, Winawer attack"]
+[HashCode "6863ee3d"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Be7 6. Qe2 Nd6 7. Bxc6
+bxc6 8. dxe5 Nb7 9. Nd4 O-O 10. Nf5 d5 11. Nxe7+ Qxe7 12. c3 Nc5 13. Qe3
+Bf5 14. b3 Nd7 15. Ba3 c5 16. Nd2 Qxe5 17. Qxe5 Nxe5 18. Bxc5 Rfe8 19. Rfe1
+a5 20. Nf3 Nd3 21. Rxe8+ Rxe8 22. Be3 c5 23. Kh1 h6 24. Rd1 a4 25. Ne1 axb3
+26. Nxd3 Bxd3 27. Rxd3 bxa2 28. Rd1 Rb8 0-1
+

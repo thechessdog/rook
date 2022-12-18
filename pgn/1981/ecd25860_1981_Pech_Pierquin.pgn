@@ -1,0 +1,22 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Pech"]
+[Black "Pierquin"]
+[Result "1-0"]
+[ECO "D51"]
+[Opening "QGD"]
+[Variation "4.Bg5 Nbd7"]
+[HashCode "ecd25860"]
+[Epoch "Rook"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Nbd7 5. cxd5 exd5 6. e3 c6 7. Qc2 Be7
+8. Bd3 O-O 9. Nge2 Re8 10. O-O Nf8 11. f3 h6 12. Bh4 c5 13. Rad1 c4 14. Bf5
+Bxf5 15. Qxf5 Qd7 16. Qc2 Ng6 17. Bxf6 Bxf6 18. e4 dxe4 19. fxe4 b5 20. e5
+Bd8 21. Ne4 Bc7 22. Nc5 Qg4 23. Rf3 Qg5 24. Ne4 Qe7 25. Rdf1 Rf8 26. N2g3
+Bb6 27. Nf5 Qxe5 28. Nf6+ Kh8 29. Nd7 Qd5 30. Nxf8 Rxf8 31. Kh1 Bd8 32. Qf2
+Kg8 33. Qg3 h5 34. Qd6 Qb7 35. d5 Bf6 36. Nh6+ Kh7 37. Rxf6 gxf6 38. Nf5
+Qb6 39. Qb4 Rh8 40. Qd2 Kg8 41. d6 Qd8 42. Qd4 h4 43. Ne7+ Kh7 44. Qxf6 Rf8
+45. Nxg6 Qxf6 46. Nxf8+ Kg7 47. Rxf6 Kxf6 48. Kg1 1-0
+

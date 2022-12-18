@@ -1,0 +1,15 @@
+[Event "Albany"]
+[Site "Albany"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Shamkovich, Leonid"]
+[Black "Parkes, J."]
+[Result "1-0"]
+[ECO "C40"]
+[Opening "QP counter-gambit (elephant gambit)"]
+[HashCode "0c00a27c"]
+[Epoch "Rook"]
+[WhiteCountry "RUS"]
+
+1. e4 e5 2. Nf3 d5 3. Nxe5 Bd6 4. d4 dxe4 5. Bf4 Nf6 6. Bc4 O-O 7. Nc3 Bf5 8.
+O-O Nbd7 9. Qe2 c6 10. Nxf7 1-0

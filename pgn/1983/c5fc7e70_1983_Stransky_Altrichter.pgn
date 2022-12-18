@@ -1,0 +1,19 @@
+[Event "corr EUR/K"]
+[Site "corr EUR/K"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Stransky"]
+[Black "Altrichter"]
+[Result "1-0"]
+[ECO "B77"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, 9...Bd7"]
+[HashCode "c5fc7e70"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8.
+Qd2 Nc6 9. Bc4 Bd7 10. Bb3 Rc8 11. h4 Ne5 12. h5 Nxh5 13. Bh6 Bxh6 14. Qxh6
+Rxc3 15. bxc3 Qa5 16. O-O-O Rc8 17. Kb1 Nf6 18. Ne2 Nc4 19. Rd5 Qa3 20.
+Bxc4 Rxc4 21. e5 Be6 22. exf6 exf6 23. Qxh7+ Kf8 24. Rhd1 Ke7 25. Qh6 g5
+26. Nd4 Bxd5 27. Re1+ Kd7 28. Qh3+ Be6 29. Rxe6 1-0
+

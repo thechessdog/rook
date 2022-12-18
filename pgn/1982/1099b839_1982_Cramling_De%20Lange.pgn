@@ -1,0 +1,20 @@
+[Event "Gausdal Int"]
+[Site "Gausdal"]
+[Date "1982.01.01"]
+[Round "6"]
+[White "Cramling, Dan"]
+[Black "De Lange, Daan"]
+[Result "1-0"]
+[ECO "A18"]
+[Opening "English"]
+[Variation "Mikenas-Carls, Flohr variation"]
+[HashCode "1099b839"]
+[Epoch "Rook"]
+[WhiteID "1700162"]
+[WhiteCountry "SWE"]
+
+1. c4 Nf6 2. Nc3 e6 3. e4 d5 4. e5 d4 5. exf6 dxc3 6. bxc3 Qxf6 7. d4 c5 8. Nf3
+h6 9. Bd3 Bd6 10. O-O O-O 11. Qe2 Nc6 12. g4 g5 13. h4 Bf4 14. Qe4 Qg6 15. hxg5
+Bxc1 16. Raxc1 cxd4 17. cxd4 hxg5 18. Qe3 Qg7 19. Kg2 Rd8 20. Rh1 e5 21. d5 Nd4
+22. Rh7 Qf6 23. Qxg5+ Qxg5 24. Nxg5 f5 25. Rch1 Bd7 26. gxf5 Nxf5 27. Rxd7 Rxd7
+28. Bxf5 Rg7 29. Be6+ 1-0

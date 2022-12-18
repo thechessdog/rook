@@ -1,0 +1,18 @@
+[Event "Istres"]
+[Site "Istres"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Ciocaltea, Victor"]
+[Black "Sribar, P."]
+[Result "1-0"]
+[ECO "B19"]
+[Opening "Caro-Kann"]
+[Variation "classical, Spassky variation"]
+[HashCode "b86e2fa7"]
+[Epoch "Rook"]
+[WhiteCountry "ROU"]
+
+1. e4 c6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6 7. Nf3 Nd7 8. h5
+Bh7 9. Bd3 Bxd3 10. Qxd3 e6 11. Bd2 Ngf6 12. Qe2 Qc7 13. c4 O-O-O 14. c5 e5 15.
+dxe5 Re8 16. O-O Bxc5 17. b4 Bf8 18. Rfe1 Nd5 19. b5 c5 20. Qe4 N5b6 21. a4 Kb8
+22. a5 Nc8 23. Bf4 Re6 24. Rec1 Qd8 25. a6 Nd6 26. Qd5 Nb6 27. Qd2 1-0

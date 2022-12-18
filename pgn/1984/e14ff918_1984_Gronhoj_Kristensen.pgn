@@ -1,0 +1,25 @@
+[Event "Aars"]
+[Site "Aars"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Gronhoj, Benny"]
+[Black "Kristensen, Jorgen Juul"]
+[Result "0-1"]
+[ECO "B86"]
+[Opening "Sicilian"]
+[Variation "Sozin attack"]
+[HashCode "e14ff918"]
+[Epoch "Rook"]
+[BlackID "1401122"]
+[BlackCountry "DEN"]
+[WhiteID "1404245"]
+[WhiteCountry "DEN"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e6 6. Bc4 Be7 7. Be3 a6 8. Bb3
+O-O 9. O-O Nc6 10. f4 Qc7 11. Qf3 Na5 12. f5 Nxb3 13. axb3 e5 14. Nde2 b5 15.
+b4 Bb7 16. g4 Qc4 17. Ng3 d5 18. Nxd5 Nxd5 19. exd5 Bxd5 20. Qd1 Bxb4 21. f6 g6
+22. Rf2 Rfd8 23. c3 Bc5 24. Qc1 Bb7 25. b4 Rd1+ 26. Qxd1 Bxe3 27. Qe1 Bxf2+ 28.
+Qxf2 Qxc3 29. Rd1 Qxb4 30. Qb6 Bf3 31. Rd8+ Rxd8 32. Qxd8+ Qf8 33. Qc7 h6 34.
+Qxe5 Bxg4 35. Ne4 b4 36. Kf2 Qc8 37. Kg3 Bf5 38. Nc5 Be6 39. h4 b3 40. Nd3 Qd8
+41. Nb2 Qb6 42. Kf3 Qb4 43. h5 Qg4+ 44. Ke3 Qg5+ 45. Qxg5 hxg5 46. hxg6 fxg6
+47. Kd4 Kf7 48. Ke5 g4 49. Nd3 b2 50. Nxb2 g3 0-1

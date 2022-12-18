@@ -1,0 +1,17 @@
+[Event "Seattle"]
+[Site "Seattle"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Darby"]
+[Black "Seirawan, Yasser"]
+[Result "0-1"]
+[ECO "B06"]
+[Opening "Robatsch (modern) defence"]
+[HashCode "e9872c48"]
+[Epoch "Rook"]
+[BlackID "2000032"]
+[BlackCountry "USA"]
+
+1. e4 g6 2. d4 d6 3. c4 e5 4. Be3 Nc6 5. Ne2 Bg7 6. Nbc3 Nh6 7. f3 f5 8. Qd2
+fxe4 9. d5 exf3 10. Ng3 Nd4 11. Bg5 Qxg5 12. Qxg5 Ng4 13. Nge4 Nc2+ 14. Kd1
+Nce3+ 15. Ke1 Bh6 16. Qh4 fxg2 17. Nf6+ Nxf6 0-1

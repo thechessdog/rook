@@ -1,0 +1,19 @@
+[Event "Nordic-tt"]
+[Site "Oslo"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Szymczak, Zbigniew"]
+[Black "Olafsson, Helgi"]
+[Result "1/2-1/2"]
+[ECO "E45"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Bronstein (Byrne) variation"]
+[HashCode "7f6ecd35"]
+[Epoch "Rook"]
+[BlackID "2300010"]
+[BlackCountry "ISL"]
+[WhiteID "1100424"]
+[WhiteCountry "POL"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 b6 5. Ne2 Ba6 6. a3 Be7 7. Nf4 d5 8. cxd5
+Bxf1 9. Kxf1 Nxd5 10. e4 Nxc3 11. bxc3 O-O 12. g3 c5 13. Kg2 Nc6 1/2-1/2

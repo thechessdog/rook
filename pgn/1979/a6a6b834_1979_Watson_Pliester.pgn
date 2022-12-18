@@ -1,0 +1,21 @@
+[Event "Lloyds Bank op"]
+[Site "Londen open"]
+[Date "1979.08.01"]
+[Round "4"]
+[White "Watson, John"]
+[Black "Pliester, Leon"]
+[Result "0-1"]
+[ECO "E68"]
+[Opening "King's Indian"]
+[Variation "fianchetto, classical variation, 8.e4"]
+[HashCode "a6a6b834"]
+[Epoch "Rook"]
+[WhiteID "2000768"]
+[WhiteCountry "USA"]
+[BlackCountry "NLD"]
+
+1. c4 g6 2. Nc3 Bg7 3. g3 d6 4. Bg2 Nf6 5. Nf3 O-O 6. O-O e5 7. d4 Nbd7 8. e4
+a6 9. Re1 exd4 10. Nxd4 Ne5 11. b3 c5 12. Nc2 b5 13. cxb5 Qa5 14. Bb2 axb5 15.
+a4 b4 16. Nb5 c4 17. Qxd6 Nd3 18. e5 Ng4 19. Ncd4 Nxb2 20. Nc6 Qa6 21. Nc7 Bb7
+22. Nxa6 Rxa6 23. Ne7+ Kh8 24. Bxb7 Rxd6 25. exd6 Nd3 26. d7 Bxa1 27. Rxa1 Rd8
+28. Bc8 Nge5 29. a5 Nxd7 30. a6 Nb6 31. Bb7 c3 32. a7 c2 33. Nd5 Na8 0-1

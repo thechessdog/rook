@@ -1,0 +1,20 @@
+[Event "corr ch-DDR"]
+[Site "corr ch-DDR"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Haupold"]
+[Black "Murach"]
+[Result "1/2-1/2"]
+[ECO "C01"]
+[Opening "French"]
+[Variation "exchange variation"]
+[HashCode "2a2dd6e1"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. Nf3 Bd6 5. c4 Nf6 6. Nc3 c6 7. Bg5 Qe7+
+8. Be2 h6 9. Bxf6 Qxf6 10. cxd5 O-O 11. O-O Rd8 12. dxc6 Nxc6 13. d5 Ne7
+14. Qb3 b6 15. Bc4 Bg4 16. Ne4 Qf5 17. Nxd6 Rxd6 18. Nd4 Qh5 19. Nb5 Rdd8
+20. f3 Bd7 21. Rad1 Bxb5 22. Qxb5 Rd6 23. Rfe1 Qg5 24. f4 Qf6 25. Qb3 Rad8
+26. Re2 Kf8 27. Qe3 Re6 28. dxe6 Rxd1+ 29. Kf2 Rd4 30. Rd2 Nf5 31. Qa3+ Ne7
+32. Qe3 Nf5 1/2-1/2
+

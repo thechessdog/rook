@@ -1,0 +1,15 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Taylor"]
+[Black "Cody"]
+[Result "0-1"]
+[ECO "A10"]
+[Opening "English opening"]
+[HashCode "1d971927"]
+[Epoch "Rook"]
+
+1. c4 g5 2. d4 Bg7 3. e3 d6 4. Ne2 e5 5. e4 f5 6. d5 f4 7. Bd2 Na6 8. a3
+Nc5 9. b4 Nd3# 0-1
+

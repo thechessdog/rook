@@ -1,0 +1,21 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Steffan, J."]
+[Black "Neubert, G."]
+[Result "0-1"]
+[ECO "B31"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (with ...g6, without ...d6)"]
+[HashCode "986dad8c"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. c3 Qa5 5. Qe2 Bg7 6. O-O e5 7. Na3 Qc7 8.
+Nc2 Nge7 9. Rd1 a6 10. Bxc6 dxc6 11. d4 cxd4 12. cxd4 Bg4 13. Be3 O-O 14.
+Rac1 Bxf3 15. gxf3 Rfd8 16. Qc4 Rd7 17. Rd2 Rad8 18. Rcd1 Qb8 19. b3 h6 20.
+Rd3 g5 21. Kh1 Ng6 22. d5 b5 23. Qc3 Nf4 24. Bxf4 exf4 25. Qd2 c5 26. Na3
+Qb6 27. Rc1 Be5 28. Qe2 Rc7 29. Rd2 Rdc8 30. Rdc2 Qf6 31. Nb1 Kh8 32. Nd2
+h5 33. h3 Bd4 34. Rg1 Rg8 35. Rg2 Rg6 36. Rc1 Rc8 37. Rcg1 Rcg8 38. Rh2 Qe5
+39. Qd3 Rh6 40. Rgg2 Rgg6 41. Nf1 Bc3 0-1
+

@@ -1,0 +1,18 @@
+[Event "corr GB"]
+[Site "corr GB"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Smithson, M."]
+[Black "Griffin, P."]
+[Result "1-0"]
+[ECO "B18"]
+[Opening "Caro-Kann"]
+[Variation "classical variation"]
+[HashCode "81c7ef86"]
+[Epoch "Rook"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. Bc4 e6 7. N1e2 Nf6
+8. h4 h6 9. Nf4 Bh7 10. Qe2 Be7 11. Be3 Nbd7 12. Ngh5 O-O 13. O-O-O Rc8 14.
+g4 Nxh5 15. Nxh5 Bxh4 16. Qf1 Bg5 17. f4 Be7 18. Qh3 b5 19. Nxg7 Bh4 20. g5
+Kxg7 21. Qxh4 Rh8 22. Qxh6+ Kg8 23. g6 1-0
+

@@ -1,0 +1,17 @@
+[Event "New York"]
+[Site "New York"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Schroer, Jonathan"]
+[Black "Burke, John"]
+[Result "1-0"]
+[ECO "A43"]
+[Opening "Old Benoni defence"]
+[HashCode "70f9efca"]
+[Epoch "Rook"]
+[WhiteID "2000849"]
+[WhiteCountry "USA"]
+
+1. d4 Nf6 2. Nf3 c5 3. d5 b5 4. Bg5 Qb6 5. Bxf6 Qxf6 6. c3 Bb7 7. e4 a6 8. a4
+b4 9. cxb4 Qxb2 10. Nbd2 cxb4 11. Rb1 Qc3 12. Rc1 Qf6 13. Rc7 Qb6 14. Qc1 e6
+15. Rc8+ Bxc8 16. Qxc8+ Ke7 17. Nc4 Qa7 18. d6+ Kf6 19. Qd8+ 1-0

@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Abegg"]
+[Black "Delacroix"]
+[Result "0-1"]
+[ECO "E88"]
+[Opening "King's Indian"]
+[Variation "Saemisch, orthodox, 7.d5 c6"]
+[HashCode "d9931922"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 e5 7. d5 c6 8. Bd3
+cxd5 9. cxd5 Nh5 10. Nge2 f5 11. Qd2 a6 12. exf5 gxf5 13. O-O Nd7 14. Rac1
+Nc5 15. Bc2 a5 16. Nb5 b6 17. Nec3 Rf7 18. Bh6 f4 19. Bxg7 Rxg7 20. Ne4 Bh3
+21. Rf2 Nb7 22. Kf1 Bf5 23. Nec3 Bd7 24. Bd3 Qh4 25. Kg1 Ng3 26. Na4 Rg5
+27. Nxb6 Qxh2+ 28. Kxh2 Rh5+ 29. Kg1 Rh1# 0-1
+

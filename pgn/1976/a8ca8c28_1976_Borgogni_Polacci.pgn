@@ -1,0 +1,15 @@
+[Event "Forte dei Marmi"]
+[Site "Forte dei Marmi"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Borgogni"]
+[Black "Polacci"]
+[Result "1-0"]
+[ECO "C21"]
+[Opening "Danish gambit"]
+[HashCode "a8ca8c28"]
+[Epoch "Rook"]
+
+1. e4 e5 2. d4 exd4 3. c3 dxc3 4. Bc4 cxb2 5. Bxb2 Nf6 6. Nf3 Bb4+ 7. Nbd2
+Nxe4 8. O-O Bc3 9. Nxe4 Bxb2 10. Re1 Bxa1 11. Nd6+ Kf8 12. Qd5 1-0
+

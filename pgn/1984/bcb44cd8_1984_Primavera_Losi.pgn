@@ -1,0 +1,20 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Primavera"]
+[Black "Losi"]
+[Result "0-1"]
+[ECO "E23"]
+[Opening "Nimzo-Indian"]
+[Variation "Spielmann, Karlsbad variation"]
+[HashCode "bcb44cd8"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qb3 c5 5. dxc5 Nc6 6. Nf3 Ne4 7. Bd2 Nxd2
+8. Nxd2 Bxc5 9. e3 O-O 10. Be2 b6 11. Nde4 Bb4 12. a3 Bxc3+ 13. Qxc3 d5 14.
+cxd5 Qxd5 15. Bf3 Qa5 16. b4 Qe5 17. Qxe5 Nxe5 18. Nf6+ gxf6 19. Bxa8 Nd3+
+20. Kd2 Ba6 21. Be4 Nxf2 22. Bf3 Nxh1 23. Rxh1 Rd8+ 24. Kc3 Rd3+ 25. Kb2
+Bc4 26. Rc1 b5 27. Rc3 Rd6 28. a4 Rd2+ 29. Kc1 Ra2 30. axb5 Bxb5 31. Rc7 a6
+0-1
+

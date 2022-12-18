@@ -1,0 +1,21 @@
+[Event "corr EU"]
+[Site "corr EU"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Wickens, T."]
+[Black "Niewiadomski, C."]
+[Result "1-0"]
+[ECO "B07"]
+[Opening "Pirc"]
+[Variation "Byrne variation"]
+[HashCode "43648efc"]
+[Epoch "Rook"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Bg5 Bg7 5. Qd2 h6 6. Bh4 O-O 7. f3 c6 8.
+Bf2 Nbd7 9. O-O-O b5 10. g4 Qa5 11. Kb1 Nb6 12. Nd5 Qxd2 13. Nxf6+ Bxf6 14.
+Rxd2 d5 15. e5 Bg5 16. Re2 e6 17. Be3 Bxe3 18. Rxe3 Bb7 19. Bd3 Nd7 20. Ne2
+a5 21. f4 b4 22. Rc1 Ba6 23. c4 dxc4 24. Bxc4 Bxc4 25. Rxc4 Rfc8 26. f5 c5
+27. fxe6 fxe6 28. Nf4 cxd4 29. Rxd4 Nf8 30. a3 bxa3 31. Rxa3 Kf7 32. Nd3
+Rd8 33. Rd6 Ke7 34. Rb6 Rd7 35. Nb4 Ke8 36. Na6 Rc8 37. Rxa5 Rd1+ 38. Ka2
+Rd2 39. Nc5 Rxh2 40. Ne4 Kd8 41. Ra7 1-0
+

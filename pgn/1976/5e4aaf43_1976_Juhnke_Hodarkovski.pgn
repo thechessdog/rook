@@ -1,0 +1,18 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Juhnke, Karl"]
+[Black "Hodarkovski, Mikhai"]
+[Result "1-0"]
+[ECO "D48"]
+[Opening "QGD semi-Slav"]
+[Variation "Meran, Reynolds' variation"]
+[HashCode "5e4aaf43"]
+[Epoch "Rook"]
+[WhiteID "4602978"]
+[WhiteCountry "GER"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. e3 e6 5. Nf3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8. Bd3
+a6 9. e4 c5 10. d5 exd5 11. e5 Ng4 12. Bg5 Qa5 13. O-O Bb7 14. Bf5 Ngxe5 15.
+Bxd7+ Nxd7 16. Re1+ 1-0

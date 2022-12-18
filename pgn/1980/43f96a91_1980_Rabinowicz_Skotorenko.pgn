@@ -1,0 +1,17 @@
+[Event "corr Wcup3"]
+[Site "corr Wcup3"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Rabinovich, Abram"]
+[Black "Skotorenko"]
+[Result "1/2-1/2"]
+[ECO "B28"]
+[Opening "Sicilian"]
+[Variation "O'Kelly variation"]
+[HashCode "43f96a91"]
+[Epoch "Rook"]
+[WhiteCountry "RUS"]
+
+1. e4 c5 2. Nf3 a6 3. c3 d5 4. exd5 Qxd5 5. d4 Nf6 6. Be2 cxd4 7. cxd4 e6 8.
+O-O Be7 9. Be3 Nc6 10. Nc3 Qd6 11. Nd2 O-O 12. Nc4 Qd8 13. Bf3 Nd5 14. Nxd5
+exd5 15. Ne5 Bf6 16. Nxc6 bxc6 17. Qd2 a5 18. Bf4 Re8 1/2-1/2

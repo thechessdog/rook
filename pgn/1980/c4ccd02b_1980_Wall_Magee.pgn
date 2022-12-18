@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Wall, Bill"]
+[Black "Magee"]
+[Result "0-1"]
+[ECO "C35"]
+[Opening "KGA"]
+[Variation "Cunningham, three pawns gambit"]
+[HashCode "c4ccd02b"]
+[Epoch "Rook"]
+[WhiteCountry "USA"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 Be7 4. Bc4 Bh4+ 5. g3 fxg3 6. O-O gxh2+ 7. Kh1 d5 8.
+Bxd5 Nf6 9. Bxf7+ Kxf7 10. Nxh4 Rf8 11. Qf3 Nc6 12. d3 Kg8 13. Bg5 h6 14. Ng6
+hxg5 15. Nxf8 Qxf8 16. Qg3 Qd6 17. Qxg5 Bh3 18. Rf3 Nxe4 19. Qh4 Qg6 0-1

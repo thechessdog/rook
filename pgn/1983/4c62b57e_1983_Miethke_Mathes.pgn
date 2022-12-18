@@ -1,0 +1,21 @@
+[Event "corr DDR/M"]
+[Site "corr DDR/M"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Miethke"]
+[Black "Mathes"]
+[Result "1-0"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra gambit"]
+[HashCode "4c62b57e"]
+[Epoch "Rook"]
+
+1. e4 c5 2. d4 cxd4 3. c3 dxc3 4. Nxc3 Nc6 5. Nf3 d6 6. Bc4 e6 7. O-O Nf6
+8. Qe2 Be7 9. Rd1 e5 10. h3 O-O 11. b3 Be6 12. Bb5 Qc7 13. Ba3 a6 14. Bd3
+Qa5 15. Qb2 b5 16. b4 Qb6 17. Qe2 g6 18. Rab1 Rac8 19. Qe1 Nh5 20. Bc1 f6
+21. Be3 Qb7 22. a4 bxa4 23. Nxa4 Nb8 24. b5 axb5 25. Rxb5 Qc6 26. Nb6 Rcd8
+27. Rc1 Qe8 28. Ra5 Rf7 29. Na8 Na6 30. Bb5 Qf8 31. Bc6 Rxa8 32. Bxa8 Qxa8
+33. Qe2 Bc8 34. Qa2 Bb7 35. Rb1 g5 36. Nd2 Qc8 37. Rxb7 Qxb7 38. Rxa6 Kg7
+39. Ra7 Qc8 40. Nf1 Kg6 41. Bd2 Qc6 42. Ne3 Nf4 43. Nf5 Ne2+ 44. Kf1 1-0
+

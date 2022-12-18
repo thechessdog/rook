@@ -1,0 +1,19 @@
+[Event "corr EU/M/GT"]
+[Site "corr EU/M/GT"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Gislason, G."]
+[Black "Miskinis, GM."]
+[Result "1/2-1/2"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Nimzovich (knight's tour) variation"]
+[HashCode "22f106d1"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. Nd2 Bg7 8.
+e4 O-O 9. Be2 Na6 10. O-O Nc7 11. f3 b6 12. a4 Rb8 13. Nc4 Ba6 14. Bg5 h6
+15. Be3 Re8 16. Qd2 Kh7 17. Rab1 Bxc4 18. Bxc4 a6 19. Qd3 Qc8 20. b4 Nd7
+21. bxc5 bxc5 22. Bf4 Ne5 23. Bxe5 Bxe5 24. Ne2 Qd7 25. Qc2 Bg7 26. Kh1
+Rec8 27. Rbc1 Qe8 28. Rce1 h5 29. f4 a5 30. e5 Rb1 1/2-1/2
+

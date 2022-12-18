@@ -1,0 +1,24 @@
+[Event "Dortmund"]
+[Site "Dortmund"]
+[Date "1977.05.01"]
+[Round "5"]
+[White "Pytel, Krzysztof"]
+[Black "Popovych, Orest"]
+[Result "1-0"]
+[ECO "A31"]
+[Opening "English"]
+[Variation "symmetrical, Benoni formation"]
+[HashCode "a484ec05"]
+[Epoch "Rook"]
+[BlackID "2002558"]
+[BlackCountry "USA"]
+[WhiteID "600199"]
+[WhiteCountry "FRA"]
+
+1. d4 Nf6 2. c4 c5 3. Nf3 g6 4. Nc3 Bg7 5. e4 cxd4 6. Nxd4 d6 7. Be2 O-O 8. O-O
+Nc6 9. Be3 Nxd4 10. Bxd4 Be6 11. f4 Qa5 12. f5 Bd7 13. a3 e6 14. fxe6 fxe6 15.
+c5 d5 16. exd5 exd5 17. Bxf6 Qxc5+ 18. Kh1 Bxf6 19. b4 Qxc3 20. Qxd5+ Kh8 21.
+Qxd7 Qe3 22. Ra2 Rad8 23. Qg4 Bd4 24. Bf3 Rc8 25. g3 Rc1 26. Rxc1 Qxc1+ 27. Kg2
+Qg1+ 28. Kh3 Rf5 29. Qe4 Qf1+ 30. Bg2 Qd1 31. Qe2 Rh5+ 32. Kg4 Qg1 33. Qe8+ Kg7
+34. Qe7+ Kg8 35. Bd5+ Rxd5 36. Qe6+ Kg7 37. Qxd5 h5+ 38. Kh3 Bf6 39. Qxb7+ Kh6
+40. Qf3 Qb1 41. Rf2 1-0

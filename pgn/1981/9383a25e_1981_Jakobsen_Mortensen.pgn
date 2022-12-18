@@ -1,0 +1,21 @@
+[Event "Esbjerg"]
+[Site "Esbjerg"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Jakobsen, Ole"]
+[Black "Mortensen, Erling"]
+[Result "0-1"]
+[ECO "E88"]
+[Opening "King's Indian"]
+[Variation "Saemisch, orthodox, 7.d5 c6"]
+[HashCode "9383a25e"]
+[Epoch "Rook"]
+[WhiteCountry "DNK"]
+[BlackID "1400045"]
+[BlackCountry "DEN"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 O-O 5. Be3 d6 6. f3 e5 7. d5 c6 8. Qd2 cxd5
+9. cxd5 Nbd7 10. Bd3 Nc5 11. Bc2 a5 12. Nge2 Ne8 13. O-O f5 14. exf5 gxf5 15.
+a3 a4 16. Kh1 Bd7 17. f4 b6 18. Ng3 e4 19. Nh5 Bh8 20. Bd4 Qh4 21. Bxh8 Kxh8
+22. Qd4+ Kg8 23. Ng3 Nf6 24. Nge2 Kf7 25. h3 Rg8 26. Qf2 Qh6 27. Rad1 Rg7 28.
+Nd4 Rag8 29. Rg1 Ng4 30. Qe2 Qxf4 0-1

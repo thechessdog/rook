@@ -1,0 +1,19 @@
+[Event "corr EU"]
+[Site "corr EU"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Sellberg, J."]
+[Black "Korning, P."]
+[Result "1-0"]
+[ECO "C13"]
+[Opening "French"]
+[Variation "Albin-Alekhine-Chatard attack, Teichmann variation"]
+[HashCode "1731c45f"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Nfd7 6. h4 f6 7. Qh5+ Kf8 8.
+exf6 Nxf6 9. Qf3 c5 10. dxc5 b6 11. Nh3 Nc6 12. O-O-O bxc5 13. g4 Nd4 14.
+Qe3 Qb6 15. Bxf6 Bxf6 16. g5 Be7 17. Nf4 Rb8 18. b3 Nf5 19. Qf3 Qb4 20. Bh3
+d4 21. Ncd5 Qa3+ 22. Kb1 c4 23. Bxf5 c3 24. Nxc3 dxc3 25. Qxc3 exf5 26. Qc7
+Qb4 27. Rhe1 Kf7 28. Nd3 Rb7 29. Ne5+ 1-0
+

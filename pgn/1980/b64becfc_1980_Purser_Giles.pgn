@@ -1,0 +1,16 @@
+[Event "Stuttgart"]
+[Site "Stuttgart"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Purser, Tom"]
+[Black "Giles"]
+[Result "1-0"]
+[ECO "D00"]
+[Opening "Blackmar gambit"]
+[HashCode "b64becfc"]
+[Epoch "Rook"]
+[WhiteCountry "USA"]
+
+1. d4 d5 2. e4 dxe4 3. Nc3 Nf6 4. f3 exf3 5. Nxf3 g6 6. Bc4 Bg7 7. h4 O-O 8. h5
+Nxh5 9. Rxh5 gxh5 10. Qd3 e5 11. Ng5 e4 12. Qxe4 Bf5 13. Qxf5 Qe7+ 14. Ne2 Rd8
+15. Bxf7+ Kf8 16. Nxh7# 1-0

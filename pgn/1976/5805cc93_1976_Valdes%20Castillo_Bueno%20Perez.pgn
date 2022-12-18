@@ -1,0 +1,20 @@
+[Event "Capablanca mem-C 13th"]
+[Site "Cienfuegos"]
+[Date "1976.06.01"]
+[Round "16"]
+[White "Valdes Castillo, Arnaldo"]
+[Black "Bueno Perez, Lazaro Antonio"]
+[Result "0-1"]
+[ECO "E22"]
+[Opening "Nimzo-Indian"]
+[Variation "Spielmann variation"]
+[HashCode "5805cc93"]
+[Epoch "Rook"]
+[WhiteID "3501264"]
+[WhiteCountry "CUB"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qb3 c5 5. e3 O-O 6. Nf3 Nc6 7. a3 Ba5 8. dxc5
+Ne4 9. Bd2 Nxc5 10. Qc2 Bxc3 11. Qxc3 Ne4 12. Qc2 Nxd2 13. Nxd2 Qg5 14. Ne4
+Qa5+ 15. Nc3 d5 16. cxd5 Nb4 17. Qb3 Nxd5 18. Bc4 Nxc3 19. Qxc3 Qxc3+ 20. bxc3
+Bd7 21. Ke2 Bc6 22. f3 Rac8 23. Bd3 Bd5 24. Kd2 Rfd8 25. Kc2 Bb3+ 26. Kxb3 Rxd3
+0-1

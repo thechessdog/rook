@@ -1,0 +1,21 @@
+[Event "Bundesliga 8081"]
+[Site "Duitsland tt"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Wittmann, Rainer"]
+[Black "Clemens, Christian, Dr."]
+[Result "0-1"]
+[ECO "B01"]
+[Opening "Scandinavian"]
+[Variation "Marshall variation"]
+[HashCode "e10e469b"]
+[Epoch "Rook"]
+[WhiteID "4603150"]
+[WhiteCountry "GER"]
+[BlackID "4600673"]
+[BlackCountry "GER"]
+
+1. e4 d5 2. exd5 Nf6 3. d4 Nxd5 4. c4 Nb6 5. Nc3 e5 6. dxe5 Qxd1+ 7. Nxd1 Nc6
+8. f4 Be6 9. Ne3 Bc5 10. b3 O-O-O 11. Nf3 Nb4 12. Ke2 f6 13. g3 fxe5 14. fxe5
+Rhe8 15. a3 Nc6 16. Bb2 Na5 17. Ng5 Bg8 18. Bh3+ Kb8 19. Rad1 Nxb3 20. Rxd8+
+Rxd8 21. Rd1 Rxd1 22. Nxd1 Bxc4+ 23. Kf3 Nd2+ 24. Kf4 Nd5+ 0-1

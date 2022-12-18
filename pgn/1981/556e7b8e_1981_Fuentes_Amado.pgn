@@ -1,0 +1,18 @@
+[Event "Villa Ballester"]
+[Site "Villa Ballester"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Fuentes, Alberto"]
+[Black "Amado, Claudio"]
+[Result "0-1"]
+[ECO "C82"]
+[Opening "Ruy Lopez"]
+[Variation "open, St. Petersburg variation"]
+[HashCode "556e7b8e"]
+[Epoch "Rook"]
+[WhiteID "103209"]
+[WhiteCountry "ARG"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Be6 9. c3 Bc5 10. Nbd2 O-O 11. Qe2 Bf5 12. a4 b4 13. a5 bxc3 14. Nxe4 dxe4 15.
+Ng5 Nd4 16. Qc4 Nxb3 17. Qxb3 cxb2 18. Nxf7 Rxf7 19. Bxb2 Rb8 0-1

@@ -1,0 +1,17 @@
+[Event "corr Spain"]
+[Site "corr Spain"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Lladors"]
+[Black "Lopez Esnaola, Beni"]
+[Result "1-0"]
+[ECO "C40"]
+[Opening "Latvian gambit, 3.Bc4"]
+[HashCode "4c8070dc"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 f5 3. Bc4 b5 4. Bb3 fxe4 5. d4 d5 6. dxe5 c6 7. Nd4 a6 8.
+a4 c5 9. axb5 cxd4 10. Qxd4 Be6 11. Nc3 Ne7 12. Nxe4 dxe4 13. Qxd8+ Kxd8
+14. Bxe6 Nd7 15. Be3 Nxe5 16. Bb6+ Ke8 17. Rxa6 Rxa6 18. bxa6 N7c6 19. a7
+Bb4+ 20. Ke2 Ke7 21. Bd5 Kd7 22. Ra1 Ra8 23. b3 1-0
+

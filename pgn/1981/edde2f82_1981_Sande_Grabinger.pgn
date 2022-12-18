@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Sande, Oystein"]
+[Black "Grabinger, H."]
+[Result "1-0"]
+[ECO "E26"]
+[Opening "Nimzo-Indian"]
+[Variation "Saemisch variation"]
+[HashCode "edde2f82"]
+[Epoch "Rook"]
+[WhiteID "1500325"]
+[WhiteCountry "NOR"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. a3 Bxc3+ 5. bxc3 c5 6. e3 d6 7. Bd3 e5 8. Ne2
+e4 9. Bb1 O-O 10. Ng3 Qe7 11. O-O Nc6 12. f3 exf3 13. Qxf3 Na5 14. e4 Nb3 15.
+Bg5 cxd4 16. cxd4 Nxd4 17. Qd3 Qe5 18. Bf4 Ne2+ 19. Nxe2 Qxa1 20. Bc2 Qa2 21.
+Bxd6 1-0

@@ -1,0 +1,17 @@
+[Event "corr APCT"]
+[Site "corr APCT"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Brent, M."]
+[Black "Shepherd, J."]
+[Result "1/2-1/2"]
+[ECO "B57"]
+[Opening "Sicilian"]
+[Variation "Sozin, not Scheveningen"]
+[HashCode "b1a80c25"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bc4 e5 7. Nde2 h6
+8. f3 Be7 9. Be3 a6 10. Qd2 Na5 11. Bd5 Nxd5 12. Nxd5 Nc4 13. Qc3 b5 14.
+O-O-O O-O 15. g4 Nxe3 16. Nxe7+ Qxe7 17. Qxe3 Be6 18. Nc3 1/2-1/2
+

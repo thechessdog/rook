@@ -1,0 +1,20 @@
+[Event "Lone Pine open"]
+[Site "Lone Pine open"]
+[Date "1977.03.01"]
+[Round "3"]
+[White "Goodman, David S C"]
+[Black "Weinstein, Norman"]
+[Result "1/2-1/2"]
+[ECO "E18"]
+[Opening "Queen's Indian"]
+[Variation "old main line, 7.Nc3"]
+[HashCode "29d43944"]
+[Epoch "Rook"]
+[WhiteID "400351"]
+[WhiteCountry "ENG"]
+[BlackID "2000466"]
+[BlackCountry "USA"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2 Be7 6. Nc3 O-O 7. O-O d5 8. Ne5
+Na6 9. cxd5 exd5 10. Be3 c5 11. Rc1 Rc8 12. Nb5 Ra8 13. Nc3 Ne4 14. Nxe4 dxe4
+15. dxc5 Bxc5 16. Bxc5 Nxc5 17. b4 Ne6 1/2-1/2

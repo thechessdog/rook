@@ -1,0 +1,19 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Gusev, Yuri"]
+[Black "Yakhin"]
+[Result "1-0"]
+[ECO "C15"]
+[Opening "French"]
+[Variation "Winawer (Nimzovich) variation"]
+[HashCode "64a26a1c"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. Bd3 dxe4 5. Bxe4 Nf6 6. Bf3 c5 7. Ne2 Nc6
+8. Be3 Nd5 9. Bxd5 Qxd5 10. O-O Qh5 11. d5 Ne5 12. Ne4 exd5 13. Nd6+ Kd7
+14. Nxc8 Ng4 15. h3 Nxe3 16. fxe3 Kxc8 17. Nf4 Qxd1 18. Raxd1 d4 19. exd4
+cxd4 20. Nd5 Bc5 21. Rxf7 d3+ 22. Kh1 dxc2 23. Rc1 Rd8 24. Rc7+ Kb8 25.
+Rxc5 b6 26. R5xc2 1-0
+

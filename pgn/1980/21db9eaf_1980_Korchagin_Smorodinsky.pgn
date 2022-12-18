@@ -1,0 +1,17 @@
+[Event "Tallinn"]
+[Site "Tallinn"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Korchagin, Oleg"]
+[Black "Smorodinsky"]
+[Result "0-1"]
+[ECO "A28"]
+[Opening "English"]
+[Variation "four knights system"]
+[HashCode "21db9eaf"]
+[Epoch "Rook"]
+[WhiteID "4500725"]
+[WhiteCountry "EST"]
+
+1. c4 Nf6 2. Nc3 e5 3. Nf3 Nc6 4. d4 exd4 5. Nxd4 Bb4 6. Bg5 O-O 7. e4 Re8 8.
+f3 Nxe4 9. Nxc6 Nxc3+ 10. Ne7+ Rxe7+ 0-1

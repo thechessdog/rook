@@ -1,0 +1,15 @@
+[Event "Lyngby"]
+[Site "Lyngby"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Nielsen, Poul Erik"]
+[Black "Jacobsen, Kaare"]
+[Result "1-0"]
+[ECO "D51"]
+[Opening "QGD"]
+[Variation "Manhattan variation"]
+[HashCode "1a6cdc24"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. Bg5 d5 3. c4 e6 4. Nc3 Bb4 5. e3 Nbd7 6. Bxf6 Nxf6 7. Qa4+ Bd7 8.
+Qxb4 1-0

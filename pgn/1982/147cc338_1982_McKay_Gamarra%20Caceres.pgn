@@ -1,0 +1,17 @@
+[Event "Luzern olm"]
+[Site "Luzern olm"]
+[Date "1982.10.01"]
+[Round "1"]
+[White "McKay, Roderick M"]
+[Black "Gamarra Caceres, Carlos"]
+[Result "1-0"]
+[ECO "B50"]
+[Opening "Sicilian"]
+[HashCode "147cc338"]
+[Epoch "Rook"]
+[WhiteID "2400049"]
+[WhiteCountry "SCO"]
+
+1. e4 c5 2. Nf3 d6 3. Nc3 Nf6 4. Bb5+ Nc6 5. e5 dxe5 6. Nxe5 Qc7 7. Bxc6+ bxc6
+8. Qe2 e6 9. d3 Rb8 10. g3 Nd5 11. Nc4 Qd8 12. O-O Be7 13. Qe5 Rb7 14. Qxg7 Bf6
+15. Qh6 Nxc3 16. bxc3 Bxc3 17. Bf4 Bxa1 18. Rxa1 Rd7 19. Bg5 Qc7 20. Qg7 1-0

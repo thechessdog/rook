@@ -1,0 +1,18 @@
+[Event "Kurgan"]
+[Site "Kurgan"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Pugachev, A."]
+[Black "Desiatkov"]
+[Result "1-0"]
+[ECO "B56"]
+[Opening "Sicilian"]
+[Variation "Venice attack"]
+[HashCode "13c875b6"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Bb5+ Nbd7 7. Nf5 a6
+8. Ba4 b5 9. Bb3 Nc5 10. Bg5 Bxf5 11. exf5 Be7 12. Bxf6 Bxf6 13. Bd5 Rc8
+14. b4 e4 15. Ne2 Na4 16. Rb1 O-O 17. O-O Qe7 18. Rb3 Rfe8 19. Nf4 Qd7 20.
+Qh5 Re5 21. Qxh7+ Kf8 22. Rh3 Nb6 23. Qg8+ 1-0
+

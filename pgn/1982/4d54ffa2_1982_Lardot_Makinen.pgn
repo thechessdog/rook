@@ -1,0 +1,22 @@
+[Event "corr Heilimo mem"]
+[Site "corr Heilimo mem"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Lardot"]
+[Black "Makinen"]
+[Result "1-0"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "4d54ffa2"]
+[Epoch "Rook"]
+
+1. e4 c5 2. c3 e6 3. d4 d5 4. exd5 exd5 5. Nf3 Bg4 6. Bb5+ Nd7 7. O-O c4 8.
+Re1+ Be7 9. b3 a6 10. Bxd7+ Qxd7 11. bxc4 dxc4 12. a4 Nf6 13. Ba3 Be6 14.
+Ne5 Qd5 15. Bxe7 Kxe7 16. a5 Rhc8 17. Nd2 Rc7 18. Qe2 Rac8 19. Ng4 Nxg4 20.
+Qxg4 Kf8 21. Qh4 h6 22. Re5 Qc6 23. Rb1 Re8 24. Nf1 f6 25. Qf4 Rce7 26. Rc5
+Qd7 27. Ne3 Bf7 28. h3 Rc8 29. Rxc8+ Qxc8 30. Rb6 Rd7 31. Qf5 Qd8 32. Qc5+
+Kg8 33. Rb1 Rc7 34. Qb6 Qc8 35. Rb2 Be8 36. Nd5 Rf7 37. Qd6 Qd7 38. Qxd7
+Rxd7 39. Nb6 Rc7 40. Re2 Bb5 41. Kf1 Kf8 42. Re3 g5 43. Ke2 Bd7 44. d5 Bb5
+45. d6 Rf7 46. Re6 1-0
+

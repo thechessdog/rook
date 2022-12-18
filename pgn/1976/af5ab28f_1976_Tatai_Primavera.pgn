@@ -1,0 +1,19 @@
+[Event "Tivoli"]
+[Site "Tivoli"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Tatai, Stefano"]
+[Black "Primavera, Roberto"]
+[Result "0-1"]
+[ECO "C72"]
+[Opening "Ruy Lopez"]
+[Variation "modern Steinitz defence, 5.O-O"]
+[HashCode "af5ab28f"]
+[Epoch "Rook"]
+[WhiteCountry "ITA"]
+[BlackID "800643"]
+[BlackCountry "ITA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. O-O Bg4 6. h3 Bh5 7. g4 Bg6 8. d4 h5
+9. Bxc6+ bxc6 10. dxe5 hxg4 11. hxg4 Bxe4 12. Re1 Rh1+ 13. Kxh1 Qh4+ 14. Kg2
+Qxg4+ 15. Kf1 Qh3+ 0-1

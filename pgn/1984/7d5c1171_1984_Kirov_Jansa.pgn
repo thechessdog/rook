@@ -1,0 +1,19 @@
+[Event "Bor"]
+[Site "Bor"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Kirov, Nino"]
+[Black "Jansa, Vlastimil"]
+[Result "1/2-1/2"]
+[ECO "E62"]
+[Opening "King's Indian"]
+[Variation "fianchetto, Kavalek (Bronstein) variation"]
+[HashCode "7d5c1171"]
+[Epoch "Rook"]
+[BlackID "300128"]
+[WhiteCountry "BGR"]
+[BlackCountry "CZE"]
+
+1. Nf3 g6 2. d4 Nf6 3. g3 Bg7 4. Bg2 O-O 5. c4 c6 6. Nc3 d6 7. O-O Qa5 8. h3
+Be6 9. d5 cxd5 10. Nd4 Bd7 11. Nb3 Qb4 12. cxd5 Ba4 13. Nxa4 Qxa4 14. Bd2 Na6
+1/2-1/2

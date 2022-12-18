@@ -1,0 +1,18 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Mann, W."]
+[Black "Krabbe, W."]
+[Result "1-0"]
+[ECO "E81"]
+[Opening "King's Indian"]
+[Variation "Saemisch, 5...O-O"]
+[HashCode "ddadf9c2"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 Nbd7 7. Qd2 b6 8.
+Nh3 Bb7 9. Be2 c6 10. f4 e6 11. O-O Qe7 12. e5 Ne8 13. Rad1 d5 14. b3 Nc7
+15. g4 Kh8 16. Rf3 f6 17. exf6 Nxf6 18. Rg3 c5 19. Ng5 h6 20. Nf3 Nd7 21.
+Rh3 cxd4 22. Nxd4 Kg8 23. f5 Bxd4 24. Bxd4 e5 25. Qxh6 Qg7 26. Be3 1-0
+

@@ -1,0 +1,18 @@
+[Event "Winterthur"]
+[Site "Winterthur"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Hofmann"]
+[Black "Kiefer, Gerhard"]
+[Result "1/2-1/2"]
+[ECO "B26"]
+[Opening "Sicilian"]
+[Variation "closed, 6.Be3"]
+[HashCode "37c8bf60"]
+[Epoch "Rook"]
+[BlackID "4606965"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. Be3 e6 7. Qd2 Rb8 8. Nge2
+Nd4 9. O-O Ne7 10. Nc1 O-O 11. Nd1 e5 12. c3 Ne6 13. Ne2 d5 14. Bh6 dxe4 15.
+dxe4 Bxh6 16. Qxh6 b6 17. Ne3 1/2-1/2

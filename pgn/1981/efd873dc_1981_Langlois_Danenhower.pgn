@@ -1,0 +1,16 @@
+[Event "corr CCCA"]
+[Site "corr CCCA"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Langlois, C."]
+[Black "Danenhower, P."]
+[Result "1-0"]
+[ECO "B40"]
+[Opening "Sicilian defence"]
+[HashCode "efd873dc"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 e6 3. c3 d5 4. exd5 Qxd5 5. d4 Nc6 6. Bd3 Nf6 7. O-O cxd4
+8. cxd4 Be7 9. Nc3 Qa5 10. Bb5 O-O 11. Ne5 Nb4 12. Qe2 Nbd5 13. Bd2 Nxc3
+14. bxc3 1-0
+

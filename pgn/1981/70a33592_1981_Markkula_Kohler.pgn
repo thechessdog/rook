@@ -1,0 +1,17 @@
+[Event "corr EU/II"]
+[Site "corr EU/II"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Markkula, Mikko"]
+[Black "Kohler, Wolfgang"]
+[Result "1-0"]
+[ECO "C16"]
+[Opening "French"]
+[Variation "Winawer, advance variation"]
+[HashCode "70a33592"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 a6 5. Bd2 c5 6. a3 Bxc3 7. bxc3 cxd4 8.
+cxd4 Ne7 9. Bd3 O-O 10. Nf3 Nec6 11. Bxh7+ Kh8 12. Ng5 g6 13. Qf3 Kg7 14.
+Qh3 Ne7 15. Bg8 Rxg8 16. Qh7+ Kf8 17. Qxf7# 1-0
+

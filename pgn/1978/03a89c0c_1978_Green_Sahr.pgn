@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Green, T."]
+[Black "Sahr, G."]
+[Result "1-0"]
+[ECO "C31"]
+[Opening "KGD"]
+[Variation "Nimzovich counter-gambit"]
+[HashCode "03a89c0c"]
+[Epoch "Rook"]
+
+1. e4 e5 2. f4 d5 3. exd5 c6 4. Nc3 exf4 5. Nf3 Nf6 6. d4 Bd6 7. Qe2+ Kf8
+8. Ne5 cxd5 9. Bxf4 Nc6 10. O-O-O a6 11. Qe3 Be6 12. Be2 Qc7 13. Rhf1 b5
+14. Bxb5 Bxe5 15. dxe5 d4 16. Rxd4 Ng4 17. Qe4 axb5 18. Rd6 Rc8 19. h3
+Ngxe5 20. Bxe5 Nxe5 21. Qxe5 b4 22. Qxe6 bxc3 23. Rxf7+ 1-0
+

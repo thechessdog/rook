@@ -1,0 +1,23 @@
+[Event "BL2-N 8081"]
+[Site "BL2-N 8081"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Schulz, Hans"]
+[Black "Cladouras, Panagiotis"]
+[Result "0-1"]
+[ECO "C41"]
+[Opening "Philidor"]
+[Variation "Nimzovich, Larobok variation"]
+[HashCode "2e697fc0"]
+[Epoch "Rook"]
+[WhiteID "12943720"]
+[WhiteCountry "GER"]
+[BlackID "4600959"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. Nc3 d6 3. e4 e5 4. Nf3 Nbd7 5. Bc4 Be7 6. Ng5 O-O 7. Bxf7+ Rxf7 8.
+Ne6 Qe8 9. Nxc7 Qd8 10. Nxa8 b6 11. dxe5 Nxe5 12. Nd5 Nxd5 13. Qxd5 Bh4 14. Be3
+Bb7 15. Qd4 Bf6 16. Qb4 Qxa8 17. O-O-O Bxe4 18. f3 Bg6 19. Qxd6 Nc4 20. Qe6
+Bxb2+ 21. Kb1 Nxe3 22. Qxe3 Bf6 23. Qb3 Qc6 24. Rhe1 h6 25. h4 Bxh4 26. g3 Bf6
+27. f4 Kh7 28. f5 Bxf5 29. g4 Bg6 30. Re6 Qc5 31. Re8 Rf8 32. Rxf8 Qxf8 33. a4
+Qc5 34. Re1 Qd4 35. Ka2 Qd2 36. Rb1 Bxc2 0-1

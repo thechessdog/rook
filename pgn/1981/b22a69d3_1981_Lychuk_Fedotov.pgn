@@ -1,0 +1,16 @@
+[Event "Reps"]
+[Site "Reps"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Lychuk"]
+[Black "Fedotov"]
+[Result "1-0"]
+[ECO "C11"]
+[Opening "French"]
+[Variation "Steinitz, Gledhill attack"]
+[HashCode "b22a69d3"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. Qg4 c5 6. Nf3 Nc6 7. Be3 cxd4 8.
+Bxd4 Nxd4 9. Nxd4 Nxe5 10. Qg3 Ng6 11. Ndb5 e5 12. Nxd5 1-0
+

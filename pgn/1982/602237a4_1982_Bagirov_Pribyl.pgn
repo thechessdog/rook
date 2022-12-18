@@ -1,0 +1,18 @@
+[Event "Yerevan"]
+[Site "Yerevan"]
+[Date "1982.01.01"]
+[Round "13"]
+[White "Bagirov, Vladimir"]
+[Black "Pribyl, Josef"]
+[Result "1/2-1/2"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "modern variation"]
+[HashCode "602237a4"]
+[Epoch "Rook"]
+[BlackID "300187"]
+[BlackCountry "CZE"]
+[WhiteCountry "RUS"]
+
+1. b3 e5 2. Bb2 Nc6 3. e3 d6 4. Nf3 Nf6 5. d4 exd4 6. exd4 d5 7. Bb5 Bb4+ 8. c3
+Qe7+ 9. Qe2 Qxe2+ 10. Kxe2 Bd6 11. Ne5 O-O 12. f4 1/2-1/2

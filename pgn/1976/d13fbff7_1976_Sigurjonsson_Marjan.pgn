@@ -1,0 +1,22 @@
+[Event "Novi Sad"]
+[Site "Novi Sad"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Sigurjonsson, Gudmundur"]
+[Black "Marjan, Dusan"]
+[Result "0-1"]
+[ECO "C72"]
+[Opening "Ruy Lopez"]
+[Variation "modern Steinitz defence, 5.O-O"]
+[HashCode "d13fbff7"]
+[Epoch "Rook"]
+[BlackID "903140"]
+[BlackCountry "SRB"]
+[WhiteID "2300079"]
+[WhiteCountry "ISL"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. O-O Bg4 6. h3 h5 7. d4 b5 8. Bb3
+Nxd4 9. hxg4 hxg4 10. Ng5 Nh6 11. Bd5 Be7 12. c3 Bxg5 13. cxd4 Rc8 14. f4 exf4
+15. Bc6+ Kf8 16. Bxf4 Bxf4 17. Rxf4 Qh4 18. Nd2 g5 19. Rf1 g3 20. Nf3 Qh5 21.
+Re1 Ng4 22. Kf1 Qh1+ 23. Ng1 Nf2 24. Qf3 Qxg1+ 25. Ke2 Qh2 26. Rac1 Kg7 27. Rc3
+Nh3 28. Qxg3 Nf4+ 29. Kf2 Qh6 30. Bd7 Rcd8 31. Rxc7 Qf6 32. Ke3 Qe7 0-1

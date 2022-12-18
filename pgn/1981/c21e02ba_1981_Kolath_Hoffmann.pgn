@@ -1,0 +1,17 @@
+[Event "Wiesbaden"]
+[Site "Wiesbaden"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Kolath"]
+[Black "Hoffmann, J."]
+[Result "1-0"]
+[ECO "C46"]
+[Opening "Three knights"]
+[Variation "Winawer defence (Gothic defence)"]
+[HashCode "c21e02ba"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 f5 3. Nc3 Nc6 4. d4 exd4 5. Nxd4 Nf6 6. Bc4 Ne5 7. Bb3 fxe4
+8. O-O Be7 9. Nf5 Kf8 10. Nxe4 Nxe4 11. Qd5 Nf6 12. Qxe5 d6 13. Qf4 Qd7 14.
+Nxg7 d5 15. Nh5 Qc6 16. Nxf6 Bxf6 17. Bxd5 Qxd5 18. Qxf6+ Kg8 19. Bh6 1-0
+

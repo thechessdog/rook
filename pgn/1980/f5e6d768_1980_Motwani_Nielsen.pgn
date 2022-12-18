@@ -1,0 +1,22 @@
+[Event "Groningen"]
+[Site "Groningen"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Motwani, Paul"]
+[Black "Nielsen, Jens"]
+[Result "1/2-1/2"]
+[ECO "C60"]
+[Opening "Ruy Lopez"]
+[Variation "fianchetto (Smyslov/Barnes) defence"]
+[HashCode "f5e6d768"]
+[Epoch "Rook"]
+[BlackID "1409310"]
+[BlackCountry "DEN"]
+[WhiteID "2400022"]
+[WhiteCountry "SCO"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 g6 4. c3 d6 5. d4 Bd7 6. dxe5 dxe5 7. Qb3 Qe7 8. O-O
+Nf6 9. Re1 Bg7 10. Na3 O-O 11. Nc4 Qe6 12. Bxc6 Bxc6 13. Ncxe5 Qxb3 14. axb3
+Bxe4 15. Bg5 Bxf3 16. Nxf3 Nd5 17. Be7 Rfe8 18. Bc5 a6 19. Kf1 Nf4 20. Rxe8+
+Rxe8 21. Rd1 Ne6 22. Be3 a5 23. Rd7 Rd8 24. Rxd8+ Nxd8 25. Ke2 Kf8 26. Kd3 Ke8
+27. Kc4 Kd7 28. b4 axb4 29. Kxb4 1/2-1/2

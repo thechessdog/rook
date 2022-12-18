@@ -1,0 +1,19 @@
+[Event "corr NBC"]
+[Site "corr NBC"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Van Raalten"]
+[Black "Duncan"]
+[Result "1-0"]
+[ECO "C73"]
+[Opening "Ruy Lopez"]
+[Variation "modern Steinitz defence, Alapin variation"]
+[HashCode "44bbca1e"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. Bxc6+ bxc6 6. d4 f6 7. Be3 Ne7
+8. Nc3 Ng6 9. Qd3 Be7 10. h4 h5 11. O-O-O Bg4 12. Rdg1 Qd7 13. Nd2 exd4 14.
+Bxd4 Nf4 15. Qf1 Qc8 16. Be3 Ng6 17. f3 Be6 18. g4 hxg4 19. h5 Nf8 20. Qg2
+gxf3 21. Qxg7 Rg8 22. Qh6 Rxg1+ 23. Bxg1 Bg4 24. Qg7 f5 25. h6 Kd7 26. h7
+1-0
+

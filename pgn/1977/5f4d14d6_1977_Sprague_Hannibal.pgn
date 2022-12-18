@@ -1,0 +1,24 @@
+[Event "Cleveland,OH"]
+[Site "Cleveland,OH"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Sprague, Ross"]
+[Black "Hannibal, Tom"]
+[Result "0-1"]
+[ECO "B13"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack"]
+[HashCode "5f4d14d6"]
+[Epoch "Rook"]
+[WhiteID "2036975"]
+[WhiteCountry "USA"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 Nc6 6. Nf3 e6 7. Bg5 Be7 8. Rc1
+O-O 9. c5 Bd7 10. Bb5 h6 11. Bh4 Ne4 12. Bxe7 Nxc3 13. Rxc3 Nxe7 14. Bxd7 Qxd7
+15. O-O Nc6 16. a3 b5 17. cxb6 axb6 18. Qc2 Rfc8 19. Rc1 Ne7 20. Qb3 Rxc3 21.
+Rxc3 Qa4 22. Qxa4 Rxa4 23. g4 Rc4 24. Rb3 Nc8 25. Kg2 f6 26. Re3 Kf7 27. Re2
+Nd6 28. b3 Rc3 29. Rb2 Ke7 30. a4 Kd7 31. Ne1 Nb7 32. Nc2 Rd3 33. b4 e5 34. a5
+bxa5 35. bxa5 Nxa5 36. Rb4 Nc6 37. Rb7+ Kc8 38. Rxg7 exd4 39. Rf7 Rc3 40. Ne1
+d3 41. Nxd3 Rxd3 42. Rxf6 Ne5 43. h3 Kd7 44. Rxh6 Ke7 45. g5 Rc3 46. f4 Nf7 47.
+Rh7 Rc6 48. f5 Kf8 49. h4 Kg8 50. g6 Ne5 51. h5 Rf6 52. Kf2 Rxf5+ 53. Ke3 Ng4+
+54. Kd4 Rg5 55. Rd7 Nf6 56. Re7 Nxh5 57. g7 Nf6 58. Ra7 Rxg7 0-1

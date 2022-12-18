@@ -1,0 +1,20 @@
+[Event "Statesville"]
+[Site "Statesville"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Bell, Ray"]
+[Black "Wall, Bill"]
+[Result "0-1"]
+[ECO "C01"]
+[Opening "French"]
+[Variation "exchange, Svenonius variation"]
+[HashCode "122f8f71"]
+[Epoch "Rook"]
+[BlackCountry "USA"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. Nc3 Nf6 5. Bg5 Be7 6. Nf3 O-O 7. Bd3 Bg4 8.
+O-O Nc6 9. h3 Bh5 10. Be2 Re8 11. Qd3 Nb4 12. Qd2 Ne4 13. Nxe4 dxe4 14. Bxe7
+Qxe7 15. Ne5 Bxe2 16. Qxe2 Rad8 17. Qxe4 f6 18. c3 fxe5 19. cxb4 Rxd4 20. Qxb7
+Rxb4 21. Qxa7 Rxb2 22. Rac1 Rc8 23. Qa6 Rf8 24. Qc4+ Kh8 25. Qxc7 Qg5 26. Qc5
+Qf4 27. Rc4 Qf5 28. a4 h5 29. a5 Rf6 30. Ra4 Rg6 31. a6 Qxh3 32. Qf8+ Kh7 33.
+g3 Rxg3+ 34. fxg3 Qg2# 0-1

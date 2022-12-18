@@ -1,0 +1,19 @@
+[Event "USA"]
+[Site "USA"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Evans, Larry D."]
+[Black "Winston, P."]
+[Result "1-0"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical system, 5.Be2"]
+[HashCode "aa6a5c6d"]
+[Epoch "Rook"]
+[WhiteID "2001713"]
+[WhiteCountry "USA"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Nf3 Bg7 5. Be2 O-O 6. O-O c6 7. h3 Qc7 8. Be3
+Nbd7 9. a4 b6 10. Qd2 Bb7 11. Rad1 Rfe8 12. Bc4 e5 13. Bb3 exd4 14. Bxd4 Ne5
+15. Ng5 Re7 16. f4 Ned7 17. Bxf6 Bxf6 18. Nxf7 Rxf7 19. Qxd6 Qxd6 20. Rxd6 Rd8
+21. Rfd1 Bc8 22. Rxf6 1-0

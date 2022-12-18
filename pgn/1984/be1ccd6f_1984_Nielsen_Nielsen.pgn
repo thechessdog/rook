@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Nielsen, G."]
+[Black "Nielsen, H."]
+[Result "0-1"]
+[ECO "C69"]
+[Opening "Ruy Lopez"]
+[Variation "exchange, Bronstein variation"]
+[HashCode "be1ccd6f"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O Qd6 6. d4 exd4 7. Nxd4
+Bd7 8. Be3 O-O-O 9. Nd2 Nh6 10. f3 f5 11. Qe2 Re8 12. Nc4 Qg6 13. e5 c5 14.
+Nb3 b5 15. Nca5 Rxe5 16. Qf2 c4 17. Nc5 f4 0-1
+

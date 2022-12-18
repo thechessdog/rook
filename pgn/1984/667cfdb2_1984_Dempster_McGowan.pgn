@@ -1,0 +1,18 @@
+[Event "corr Scotland"]
+[Site "corr Scotland"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Dempster, D."]
+[Black "McGowan, A."]
+[Result "0-1"]
+[ECO "C05"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation"]
+[HashCode "667cfdb2"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. f4 c5 6. c3 Nc6 7. Ndf3 Qb6 8.
+g3 cxd4 9. cxd4 Be7 10. Bh3 O-O 11. Ne2 f6 12. Bxe6+ Kh8 13. Bxd5 fxe5 14.
+fxe5 Ndxe5 15. dxe5 Nxe5 16. Bf4 Nxf3+ 17. Bxf3 Bb4+ 18. Kf1 Bh3+ 19. Bg2
+Qc6 20. Rg1 Qf3# 0-1
+

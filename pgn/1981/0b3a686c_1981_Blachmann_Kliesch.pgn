@@ -1,0 +1,21 @@
+[Event "corr ch-DDR"]
+[Site "corr ch-DDR"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Blachmann"]
+[Black "Kliesch"]
+[Result "0-1"]
+[ECO "E19"]
+[Opening "Queen's Indian"]
+[Variation "old main line, 9.Qxc3"]
+[HashCode "0b3a686c"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2 Be7 6. O-O O-O 7. Nc3 Ne4 8.
+Qc2 Nxc3 9. Qxc3 c5 10. Rd1 d6 11. Qc2 Nc6 12. dxc5 bxc5 13. Bf4 Qc7 14. a3
+a5 15. h4 h6 16. Qd2 e5 17. Be3 e4 18. Nh2 Ne5 19. Rac1 Rad8 20. Bf4 f5 21.
+Nf1 Kh7 22. Ne3 Ng6 23. h5 Nxf4 24. gxf4 Rf6 25. Nd5 Bxd5 26. Qxd5 Rdf8 27.
+Rc3 Qb8 28. Rb1 Qe8 29. Rh3 g6 30. hxg6+ Rxg6 31. Kh1 Rg4 32. f3 Rh4 33.
+Rxh4 Bxh4 34. fxe4 Bf2 35. Bf3 Qe7 36. Kg2 Qh4 37. Rh1 Qg3+ 38. Kf1 Be3 39.
+Rxh6+ Kg7 0-1
+

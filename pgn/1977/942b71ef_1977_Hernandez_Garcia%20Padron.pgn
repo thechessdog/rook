@@ -1,0 +1,21 @@
+[Event "Las Palmas"]
+[Site "Las Palmas"]
+[Date "1977.01.01"]
+[Round "15"]
+[White "Hernandez, Roman"]
+[Black "Garcia Padron, Jose"]
+[Result "1-0"]
+[ECO "E54"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Gligoric system with 7...dc"]
+[HashCode "942b71ef"]
+[Epoch "Rook"]
+[BlackID "2200120"]
+[BlackCountry "ESP"]
+[WhiteCountry "CUB"]
+
+1. c4 Nf6 2. Nc3 e6 3. d4 Bb4 4. e3 O-O 5. Bd3 c5 6. Nf3 d5 7. O-O dxc4 8. Bxc4
+cxd4 9. exd4 b6 10. a3 Be7 11. Re1 Bb7 12. Qd3 Nc6 13. Bb3 Rc8 14. Bc2 Re8 15.
+d5 exd5 16. Bg5 Ne4 17. Nxe4 dxe4 18. Qxe4 g6 19. Qh4 Rc7 20. Bb3 Bxg5 21. Nxg5
+h5 22. Qf4 Rf8 23. Rad1 Qc8 24. Nxf7 Rcxf7 25. Qf6 Qc7 26. Qxg6+ Kh8 27. Qh6+
+Kg8 28. Rd6 1-0

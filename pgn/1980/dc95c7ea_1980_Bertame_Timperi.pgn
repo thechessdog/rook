@@ -1,0 +1,17 @@
+[Event "corr ch-EU"]
+[Site "corr ch-EU"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Bertame"]
+[Black "Timperi"]
+[Result "0-1"]
+[ECO "D91"]
+[Opening "Gruenfeld"]
+[Variation "5.Bg5"]
+[HashCode "dc95c7ea"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Bg5 Ne4 6. Bh4 Nxc3 7. bxc3 dxc4
+8. Qa4+ Qd7 9. Qxc4 b6 10. Bg3 c5 11. Bxb8 Rxb8 12. dxc5 b5 13. Qb3 b4 14.
+Rc1 Bxc3+ 0-1
+

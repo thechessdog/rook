@@ -1,0 +1,17 @@
+[Event "corr GB op"]
+[Site "corr GB op"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Panter"]
+[Black "Willey"]
+[Result "1-0"]
+[ECO "A00"]
+[Opening "Anderssen's opening"]
+[HashCode "336b6f64"]
+[Epoch "Rook"]
+
+1. a3 f5 2. Nf3 Nf6 3. b3 e6 4. Bb2 Be7 5. g3 O-O 6. Bg2 d6 7. d4 a5 8. O-O
+Qe8 9. c4 c6 10. Nbd2 Na6 11. b4 axb4 12. axb4 Rb8 13. b5 cxb5 14. c5 Bd7
+15. cxd6 Bxd6 16. Ne5 Bc8 17. Qb3 Nc7 18. f3 Kh8 19. e4 Ra8 20. Rac1 Qe7
+21. Nd3 Nh5 22. e5 Ba3 23. Rxc7 1-0
+

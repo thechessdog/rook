@@ -1,0 +1,22 @@
+[Event "Budapest"]
+[Site "Budapest"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Rigo, Janos"]
+[Black "Waldmann, Ivan"]
+[Result "1-0"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Byrne (English) attack"]
+[HashCode "f3e906a9"]
+[Epoch "Rook"]
+[WhiteID "700371"]
+[BlackID "701416"]
+[WhiteCountry "HUN"]
+[BlackCountry "HUN"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e6 7. g4 Be7 8. g5
+Nfd7 9. Rg1 Qc7 10. Qd2 Ne5 11. Rg3 Bd7 12. f4 Nc4 13. Bxc4 Qxc4 14. O-O-O Nc6
+15. Nxc6 Bxc6 16. Qf2 e5 17. f5 b5 18. f6 b4 19. b3 Qxc3 20. Bd4 Qxg3 21. hxg3
+gxf6 22. gxf6 Bf8 23. Bxe5 dxe5 24. Qf5 Bh6+ 25. Kb1 Kf8 26. Qxe5 Kg8 27. Qh5
+1-0

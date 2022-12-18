@@ -1,0 +1,18 @@
+[Event "Aarhus-B"]
+[Site "Aarhus"]
+[Date "1983.01.01"]
+[Round "6"]
+[White "Christiansen, Arne"]
+[Black "Holst, Per"]
+[Result "1-0"]
+[ECO "E53"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Keres variation"]
+[HashCode "db9f5923"]
+[Epoch "Rook"]
+[BlackID "1405411"]
+[BlackCountry "DEN"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Bb4 5. e3 O-O 6. Bd3 c5 7. O-O b6 8. cxd5
+exd5 9. dxc5 bxc5 10. Ne2 Nc6 11. b3 Bg4 12. Bb2 d4 13. exd4 Bxf3 14. gxf3 cxd4
+15. Nxd4 Nxd4 16. Bxd4 Nh5 17. Kh1 Qh4 18. Rg1 Bd6 19. f4 Bxf4 20. Qxh5 1-0

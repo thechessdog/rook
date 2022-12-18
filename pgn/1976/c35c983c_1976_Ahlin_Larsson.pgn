@@ -1,0 +1,16 @@
+[Event "corr SWE/K tt"]
+[Site "corr SWE/K tt"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Ahlin, Jim"]
+[Black "Larsson, Anders"]
+[Result "0-1"]
+[ECO "A45"]
+[Opening "Queen's pawn game"]
+[HashCode "c35c983c"]
+[Epoch "Rook"]
+[BlackID "1712128"]
+[BlackCountry "SWE"]
+
+1. d4 Nf6 2. e3 g6 3. Nd2 Bg7 4. Bd3 O-O 5. Ne2 d6 6. b3 e5 7. c3 Nbd7 8. Qc2
+Re8 9. O-O Qe7 10. Bb2 e4 11. Nxe4 Nxe4 12. Bxe4 Qxe4 0-1

@@ -1,0 +1,20 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Ohmacht, F."]
+[Black "Wegner, R."]
+[Result "0-1"]
+[ECO "B33"]
+[Opening "Sicilian"]
+[Variation "Pelikan (Lasker/Sveshnikov) variation"]
+[HashCode "a32ae0ae"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Nd5 Nxd5
+8. exd5 Ne7 9. c4 Nf5 10. Bd3 Be7 11. O-O O-O 12. f4 f6 13. Qc2 g6 14. g4
+Qb6+ 15. Kh1 Ne3 16. Bxe3 Qxe3 17. Bxg6 hxg6 18. Qxg6+ Kh8 19. Qh6+ Kg8 20.
+Rae1 Qd3 21. f5 Rf7 22. Qg6+ Rg7 23. Qe8+ Bf8 24. Nxd6 Bxf5 25. Rxf5 Rxe8
+26. Nxe8 Rg6 27. Nxf6+ Rxf6 28. Rxf6 Qxc4 29. Ref1 Qxd5+ 30. R6f3 Bg7 31.
+b3 e4 32. Re3 Bd4 0-1
+

@@ -1,0 +1,18 @@
+[Event "corr NLD/M"]
+[Site "corr NLD/M"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "De Troije, J."]
+[Black "Wijnand, P."]
+[Result "1-0"]
+[ECO "C80"]
+[Opening "Ruy Lopez"]
+[Variation "open, Bernstein variation"]
+[HashCode "78751b5f"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8.
+dxe5 Be6 9. Nbd2 Nc5 10. c3 Be7 11. Bc2 Bg4 12. Re1 d4 13. h3 Bh5 14. Nb3
+dxc3 15. Nxc5 Bxc5 16. Be4 Nd4 17. g4 c2 18. Bxc2 Bg6 19. Nxd4 Qxd4 20. Be3
+Qxd1 21. Bxd1 Bxe3 22. Rxe3 Ke7 23. f4 h5 24. f5 Rhc8 1-0
+

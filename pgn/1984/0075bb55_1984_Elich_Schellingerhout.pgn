@@ -1,0 +1,20 @@
+[Event "corr NBC"]
+[Site "corr NBC"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Elich"]
+[Black "Schellingerhout"]
+[Result "0-1"]
+[ECO "B32"]
+[Opening "Sicilian"]
+[Variation "Labourdonnais-Loewenthal variation"]
+[HashCode "0075bb55"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e5 5. Nb5 a6 6. Nd6+ Bxd6 7. Qxd6
+Qf6 8. Qa3 Nge7 9. Nc3 Rb8 10. Be3 b5 11. Nd5 Nxd5 12. exd5 b4 13. Qd3 Ne7
+14. f4 d6 15. fxe5 Qxe5 16. O-O-O O-O 17. g3 Bf5 18. Qd4 Be4 19. Rg1 Nxd5
+20. Qxe5 dxe5 21. Bf2 Rfc8 22. Rd2 Rc6 23. Bg2 Bxg2 24. Rxg2 Nf6 25. Be1 h6
+26. Rde2 e4 27. b3 a5 28. Kb2 Re8 29. c4 Nd7 30. a3 Nc5 31. axb4 Nd3+ 32.
+Kc2 axb4 33. Bd2 f5 34. h4 Kf7 35. h5 0-1
+

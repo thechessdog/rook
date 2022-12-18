@@ -1,0 +1,22 @@
+[Event "Snekkersten"]
+[Site "Snekkersten"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Hirtsgaard, Niels"]
+[Black "Schmidt, Kristen"]
+[Result "0-1"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack"]
+[HashCode "35bd6acd"]
+[Epoch "Rook"]
+[BlackID "1400436"]
+[BlackCountry "DEN"]
+[WhiteID "1401351"]
+[WhiteCountry "DEN"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 O-O 6. Be2 c5 7. dxc5 Qa5 8. O-O
+Qxc5+ 9. Kh1 Nc6 10. Bd3 Bd7 11. Qe2 Rac8 12. Be3 Qa5 13. Rad1 a6 14. h3 b5 15.
+a3 Be6 16. g4 Nd7 17. e5 dxe5 18. f5 e4 19. fxe6 exf3 20. Qf2 fxe6 21. Bxg6
+hxg6 22. Rxd7 b4 23. Ne4 bxa3 24. bxa3 Qb5 25. Rd2 Na5 26. Ng5 Nc4 27. Qh4 Rf6
+28. Qh7+ Kf8 29. a4 Qc6 30. Nf7 f2+ 31. Kh2 Nxd2 0-1

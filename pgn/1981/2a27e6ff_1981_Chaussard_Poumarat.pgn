@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Chaussard"]
+[Black "Poumarat"]
+[Result "0-1"]
+[ECO "B00"]
+[Opening "KP"]
+[Variation "Nimzovich defence"]
+[HashCode "2a27e6ff"]
+[Epoch "Rook"]
+
+1. e4 Nc6 2. c4 e6 3. Nf3 d5 4. exd5 exd5 5. d4 Bb4+ 6. Nc3 Nge7 7. a3
+Bxc3+ 8. bxc3 O-O 9. Be2 dxc4 10. Bxc4 Nd5 11. Qd3 Re8+ 12. Be3 Nf4 13. Qc2
+Nxg2+ 14. Kd2 Nxe3 15. fxe3 Bg4 16. Ng1 Ne5 17. Bb3 c5 18. Ne2 Nf3+ 19. Kc1
+Qg5 20. Kb2 Qxe3 21. Ng3 cxd4 22. Nf5 dxc3+ 23. Ka2 Bxf5 24. Qxf5 Qe2+ 0-1
+

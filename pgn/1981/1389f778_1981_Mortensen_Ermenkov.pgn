@@ -1,0 +1,27 @@
+[Event "Riga"]
+[Site "Riga"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Mortensen, Erling"]
+[Black "Ermenkov, Evgenij"]
+[Result "0-1"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (without ...d6)"]
+[HashCode "1389f778"]
+[Epoch "Rook"]
+[BlackID "2900106"]
+[BlackCountry "FID"]
+[WhiteID "1400045"]
+[WhiteCountry "DEN"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 Nf6 4. Nc3 g6 5. O-O Bg7 6. e5 Ng4 7. Bxc6 dxc6 8.
+Re1 O-O 9. d3 Nh6 10. Bf4 Nf5 11. Qd2 b6 12. Ne4 Nd4 13. Nxd4 cxd4 14. Bh6 c5
+15. Ng3 Bb7 16. Bxg7 Kxg7 17. f4 f5 18. exf6+ exf6 19. f5 Qd7 20. h4 Rae8 21.
+fxg6 hxg6 22. h5 Qg4 23. Qf2 Qg5 24. Rxe8 Rxe8 25. hxg6 Kxg6 26. Ne2 Re3 27.
+Nf4+ Kf7 28. Kh2 Bf3 29. Nh3 Qe5+ 30. Kh1 Qh5 31. Kg1 Bxg2 32. Qxg2 Qxh3 33.
+Qxh3 Rxh3 34. a4 Ke6 35. a5 Kd5 36. axb6 axb6 37. Ra6 Kc6 38. Ra8 Re3 39. Kf2
+Kb5 40. Rf8 Re6 41. Rd8 Kb4 42. Rc8 Re5 43. Rc6 Rf5+ 44. Ke2 b5 45. Rd6 Rf4 46.
+Rc6 c4 47. dxc4 bxc4 48. Rc8 Rh4 49. c3+ Kb3 50. Rb8+ Kc2 51. cxd4 Rxd4 52. Ke3
+Rd3+ 53. Ke4 f5+ 54. Ke5 Rb3 55. Rc8 Kd3 56. Rd8+ Ke3 57. Rc8 Rb5+ 58. Ke6 f4
+59. Rxc4 f3 60. Rc3+ Kf4 0-1

@@ -1,0 +1,24 @@
+[Event "Regionalliga Nord"]
+[Site "RLN 8182"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Schruefer, Guenther, Dr."]
+[Black "Juhnke, Juergen"]
+[Result "1/2-1/2"]
+[ECO "B87"]
+[Opening "Sicilian"]
+[Variation "Sozin with ...a6 and ...b5"]
+[HashCode "723fe2dc"]
+[Epoch "Rook"]
+[WhiteID "4608631"]
+[WhiteCountry "GER"]
+[BlackID "4623029"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 b5 8. O-O
+Be7 9. f4 Bb7 10. e5 dxe5 11. fxe5 Bc5 12. Be3 Nc6 13. exf6 Bxd4 14. Qe1 Qb6
+15. Nd5 Bxe3+ 16. Qxe3 Qxe3+ 17. Nxe3 Nd4 18. Rad1 Nxb3 19. fxg7 Rg8 20. axb3
+Rxg7 21. Rd6 Rd8 22. Rfd1 Rxd6 23. Rxd6 Rg5 24. b4 Ke7 25. Rb6 Bc8 26. b3 Re5
+27. Kf2 Re4 28. Rc6 Kd7 29. Rc5 Rxb4 30. Rh5 Ke7 31. Rxh7 Bd7 32. g4 a5 33. g5
+a4 34. bxa4 bxa4 35. g6 Rf4+ 36. Ke2 Rf6 37. gxf7 Rxf7 38. Rxf7+ Kxf7 39. Kd2
+Kf6 40. Nc4 Kf5 41. Kc3 Kf4 42. Kb4 1/2-1/2

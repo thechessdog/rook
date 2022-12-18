@@ -1,0 +1,20 @@
+[Event "Munich"]
+[Site "Munich"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Lau, Ralf"]
+[Black "Stean, Michael F"]
+[Result "0-1"]
+[ECO "B83"]
+[Opening "Sicilian"]
+[Variation "Scheveningen, 6.Be2"]
+[HashCode "a8eaacf6"]
+[Epoch "Rook"]
+[WhiteID "4600134"]
+[WhiteCountry "GER"]
+[BlackID "400130"]
+[BlackCountry "ENG"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be2 Be7 7. O-O O-O 8. f4
+a6 9. Be3 Qc7 10. Kh1 b5 11. e5 dxe5 12. fxe5 Nfd7 13. Bf3 Bb7 14. Bf4 Nc6 15.
+Bxc6 Bxc6 16. Qg4 Kh8 17. Rae1 b4 18. Ne4 Bxe4 19. Rxe4 Qc4 20. Rfe1 Nc5 0-1

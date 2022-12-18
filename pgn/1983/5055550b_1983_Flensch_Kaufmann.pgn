@@ -1,0 +1,18 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Flensch"]
+[Black "Kaufmann"]
+[Result "1-0"]
+[ECO "B33"]
+[Opening "Sicilian"]
+[Variation "Sveshnikov variation"]
+[HashCode "5055550b"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6
+8. Na3 b5 9. Bxf6 gxf6 10. Nd5 f5 11. Bxb5 axb5 12. Nxb5 Ra7 13. Nxa7 Nxa7
+14. exf5 Qg5 15. O-O Qxf5 16. f4 Kd8 17. Qd2 Nc6 18. Qf2 Nd4 19. c3 Qe4 20.
+Qh4+ 1-0
+

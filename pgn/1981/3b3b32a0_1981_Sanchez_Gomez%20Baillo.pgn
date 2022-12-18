@@ -1,0 +1,19 @@
+[Event "Los Polvorines"]
+[Site "Los Polvorines"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Sanchez, F."]
+[Black "Gomez Baillo, Jorge H."]
+[Result "0-1"]
+[ECO "B26"]
+[Opening "Sicilian"]
+[Variation "closed, 6.Be3"]
+[HashCode "3b3b32a0"]
+[Epoch "Rook"]
+[BlackID "100129"]
+[BlackCountry "ARG"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. Be3 Bd7 7. Qd2 Rb8 8. Nge2
+Nd4 9. O-O Nxe2+ 10. Nxe2 Bc6 11. d4 d5 12. Bf4 Rc8 13. dxc5 dxe4 14. Qb4 a5
+15. Qa3 Qd5 16. Qxa5 Bxb2 17. Rab1 Bg7 18. Nc3 Qc4 19. Nb5 Nf6 20. Rb4 Qxc2 21.
+Rc1 Qd3 22. Bf1 Qd7 23. Nc7+ Kf8 24. Rcb1 0-1

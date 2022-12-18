@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Nagy, Ervin"]
+[Black "Halmai"]
+[Result "1-0"]
+[ECO "B19"]
+[Opening "Caro-Kann"]
+[Variation "classical, Spassky variation"]
+[HashCode "b15276a4"]
+[Epoch "Rook"]
+[WhiteID "14913194"]
+[WhiteCountry "SVK"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6 7. Nf3 Nd7 8. h5
+Bh7 9. Bd3 Bxd3 10. Qxd3 Qc7 11. Bd2 e6 12. c4 Ngf6 13. Bc3 Bd6 14. Ne4 O-O-O
+15. c5 Nd5 16. Nxd6+ 1-0

@@ -1,0 +1,21 @@
+[Event "Orense"]
+[Site "Orense"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Timman, Jan H"]
+[Black "Sanz Alonso, Francisco J."]
+[Result "1-0"]
+[ECO "B40"]
+[Opening "Sicilian defence"]
+[HashCode "54f38e70"]
+[Epoch "Rook"]
+[WhiteID "1000012"]
+[WhiteCountry "NED"]
+[BlackID "2200147"]
+[BlackCountry "ESP"]
+
+1. e4 c5 2. Nf3 e6 3. d3 Nc6 4. g3 g6 5. Bg2 Bg7 6. O-O Nge7 7. c3 d5 8. Qe2
+O-O 9. e5 b5 10. Be3 Nxe5 11. Nxe5 Bxe5 12. Bxc5 Bd6 13. Bxd6 Qxd6 14. Nd2 Rb8
+15. b4 e5 16. a4 a6 17. axb5 axb5 18. Ra3 Bb7 19. Rfa1 Rfc8 20. Qe1 Nc6 21. Nb3
+d4 22. Nc5 dxc3 23. Rxc3 Ba8 24. Ne4 Qxb4 25. Nf6+ Kg7 26. Nd7 Qd6 27. Nxb8
+Qxb8 28. Ra6 Qd6 29. Bxc6 1-0

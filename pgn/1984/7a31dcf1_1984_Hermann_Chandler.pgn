@@ -1,0 +1,20 @@
+[Event "Bundesliga BRD"]
+[Site "Bundesliga BRD"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Hermann, Manfred"]
+[Black "Chandler, Murray G"]
+[Result "1/2-1/2"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "7a31dcf1"]
+[Epoch "Rook"]
+[WhiteID "4600584"]
+[BlackID "400050"]
+[WhiteCountry "GER"]
+[BlackCountry "NZL"]
+
+1. e4 c5 2. c3 d6 3. d4 Nf6 4. Bd3 cxd4 5. cxd4 g6 6. h3 Bg7 7. Nf3 O-O 8. O-O
+Nc6 9. Nc3 e5 10. dxe5 dxe5 11. Be3 Be6 12. Bb5 Nh5 13. Bxc6 bxc6 14. Qxd8
+Rfxd8 15. Rfd1 Rdb8 1/2-1/2

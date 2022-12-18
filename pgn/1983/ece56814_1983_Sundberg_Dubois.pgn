@@ -1,0 +1,19 @@
+[Event "corr ch-EU"]
+[Site "corr ch-EU"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Sundberg"]
+[Black "Dubois"]
+[Result "0-1"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack, Richter variation"]
+[HashCode "ece56814"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. Bg5 d5 3. Nc3 Bf5 4. f3 Bg6 5. e3 e6 6. Nh3 Be7 7. Bd3 Nbd7 8.
+Bxg6 hxg6 9. Nf2 c5 10. Ne2 Qb6 11. Qc1 Rc8 12. c3 e5 13. O-O O-O 14. Nd3
+cxd4 15. exd4 exd4 16. Nxd4 Nc5 17. Nxc5 Bxc5 18. Be3 Nd7 19. Qd2 a5 20.
+Rab1 Rfe8 21. Bf2 Ne5 22. b3 Re7 23. Rbd1 Nd7 24. Rfe1 Rce8 25. Rxe7 Rxe7
+26. b4 axb4 27. cxb4 Bxb4 28. Qb2 Bc5 29. Qxb6 Bxb6 30. Rb1 Bxd4 31. Bxd4
+Nb8 32. Bc5 Rd7 33. Re1 Nc6 0-1
+

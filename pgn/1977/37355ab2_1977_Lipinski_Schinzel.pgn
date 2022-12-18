@@ -1,0 +1,17 @@
+[Event "Warsaw"]
+[Site "Warsaw"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Lipinski"]
+[Black "Schinzel, Wladyslaw"]
+[Result "1-0"]
+[ECO "A33"]
+[Opening "English"]
+[Variation "symmetrical, Geller variation"]
+[HashCode "37355ab2"]
+[Epoch "Rook"]
+[BlackID "1100327"]
+[BlackCountry "POL"]
+
+1. Nf3 c5 2. c4 Nf6 3. d4 cxd4 4. Nxd4 e6 5. Nc3 Nc6 6. g3 Qb6 7. Ndb5 Bc5 8.
+Bg2 Bxf2+ 9. Kf1 Ng4 10. Qd6 Rb8 11. Na4 Qa5 12. Bd2 1-0

@@ -1,0 +1,21 @@
+[Event "Randaberg"]
+[Site "Randaberg"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Opsahl, Helge"]
+[Black "Haugen, Arild"]
+[Result "0-1"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "English variation"]
+[HashCode "50f9b2bb"]
+[Epoch "Rook"]
+[BlackID "1505076"]
+[BlackCountry "NOR"]
+
+1. b3 c5 2. Bb2 Nc6 3. e3 a6 4. d4 cxd4 5. exd4 d5 6. c4 e6 7. a3 g6 8. Nf3 Bg7
+9. Nbd2 Nge7 10. Bd3 O-O 11. O-O dxc4 12. bxc4 Nxd4 13. Nxd4 Bxd4 14. Bxd4 Qxd4
+15. Qc2 Rd8 16. Bxg6 hxg6 17. Rfd1 Qd3 18. Qxd3 Rxd3 19. Nf3 Rxd1+ 20. Rxd1 Nc6
+21. Nd4 Bd7 22. Nxc6 Bxc6 23. h4 Kg7 24. g4 Rh8 25. h5 gxh5 26. gxh5 Rxh5 27.
+f3 Bxf3 28. Rd3 Bc6 29. Rg3+ Kf6 30. Rd3 Rh1+ 31. Kf2 Rh2+ 32. Kg1 Rc2 33. Rd4
+Ke5 34. Rh4 Rc3 35. a4 Bxa4 36. c5 Bc6 37. Rh7 f5 38. Rh2 Rc1+ 0-1

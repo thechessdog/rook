@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Dahlmeyer, J."]
+[Black "Bremer, M."]
+[Result "0-1"]
+[ECO "E59"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line"]
+[HashCode "bc67ef79"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 Nc6 6. Nf3 d5 7. O-O O-O 8.
+a3 Bxc3 9. bxc3 dxc4 10. Bxc4 Qc7 11. Qc2 e5 12. Ba2 e4 13. Nd2 Bf5 14. f3
+Rae8 15. fxe4 Ng4 16. Nf3 Bxe4 17. Qe2 cxd4 18. cxd4 Nxd4 19. Bxf7+ Kh8 20.
+Qb2 Rxf7 21. exd4 Bd3 22. Rd1 Rxf3 23. gxf3 Re2 0-1
+

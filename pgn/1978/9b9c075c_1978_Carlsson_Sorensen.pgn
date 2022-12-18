@@ -1,0 +1,18 @@
+[Event "Horsens"]
+[Site "Horsens"]
+[Date "1978.01.01"]
+[Round "6"]
+[White "Carlsson, Gerner"]
+[Black "Sorensen, Arne"]
+[Result "1/2-1/2"]
+[ECO "A57"]
+[Opening "Benko gambit"]
+[HashCode "9b9c075c"]
+[Epoch "Rook"]
+[WhiteID "1410237"]
+[BlackID "1419382"]
+[WhiteCountry "DEN"]
+[BlackCountry "DEN"]
+
+1. d4 c5 2. d5 Nf6 3. c4 b5 4. Nf3 g6 5. cxb5 a6 6. e3 Bg7 7. Nc3 d6 8. a4 O-O
+9. Ra3 Nfd7 10. e4 axb5 11. Bxb5 Na6 12. O-O Nb4 13. Nd2 Ne5 1/2-1/2

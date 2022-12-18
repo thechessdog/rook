@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Christiansson, B."]
+[Black "Samuelsson, A."]
+[Result "1-0"]
+[ECO "D42"]
+[Opening "QGD"]
+[Variation "Semi-Tarrasch, 7.Bd3"]
+[HashCode "675a6291"]
+[Epoch "Rook"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 c5 5. cxd5 Nxd5 6. e3 Nc6 7. Bd3 cxd4
+8. exd4 Be7 9. O-O O-O 10. Re1 Bd7 11. Be4 Nf6 12. Bb1 Nb4 13. Ne5 Rc8 14.
+Re3 g6 15. Rh3 Bc6 16. Qd2 Re8 17. Qf4 Nbd5 18. Qh4 Nh5 19. Qxh5 1-0
+

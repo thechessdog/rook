@@ -1,0 +1,18 @@
+[Event "New York"]
+[Site "New York"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Kavnatsky, Valentin"]
+[Black "Bradford, J."]
+[Result "1-0"]
+[ECO "E17"]
+[Opening "Queen's Indian"]
+[Variation "Euwe variation"]
+[HashCode "c39d6a41"]
+[Epoch "Rook"]
+[WhiteID "2001950"]
+[WhiteCountry "USA"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2 Be7 6. O-O O-O 7. b3 d6 8. Bb2 c5
+9. e3 Nbd7 10. Qe2 cxd4 11. exd4 d5 12. Ne5 Qc7 13. Rc1 Rac8 14. Nd2 Qb8 15.
+Nxd7 Nxd7 16. cxd5 Rce8 17. dxe6 Bb4 18. Bxb7 Qxb7 19. exf7+ Kxf7 20. Qc4+ 1-0

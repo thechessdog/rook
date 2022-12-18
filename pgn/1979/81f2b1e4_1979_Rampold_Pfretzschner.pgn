@@ -1,0 +1,25 @@
+[Event "corr DDR/K"]
+[Site "corr DDR/K"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Rampold"]
+[Black "Pfretzschner, R."]
+[Result "0-1"]
+[ECO "B33"]
+[Opening "Sicilian"]
+[Variation "Sveshnikov variation"]
+[HashCode "81f2b1e4"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nc3 Nc6 3. Nf3 Nf6 4. d4 cxd4 5. Nxd4 e5 6. Ndb5 d6 7. Bg5 a6
+8. Na3 b5 9. Bxf6 gxf6 10. Nd5 f5 11. exf5 Bxf5 12. Qf3 Nd4 13. Nf6+ Ke7
+14. Nd5+ Ke6 15. Qd1 Kxd5 16. c3 Bh6 17. Bd3 Ke6 18. cxd4 e4 19. Bc2 Qg5
+20. O-O Bg4 21. d5+ Kd7 22. Qd4 Bf3 23. g3 Qf5 24. Bxe4 Qxe4 25. Qf6 Rae8
+26. Qxh6 b4 27. Nb1 Be2 28. Nd2 Qxd5 29. Rfe1 Re5 30. Rac1 Rhe8 31. Qh3+
+R8e6 32. Nf1 Rh5 33. Ne3 Qe4 34. Qg2 Bf3 35. Qf1 Rxh2 36. Kxh2 Rh6+ 37.
+Qh3+ Qe6 38. Qh4 Rxh4+ 39. gxh4 Qe5+ 40. Kh3 Qxb2 41. Kg3 Bb7 42. Nf5 Qa3+
+43. Ne3 Qd3 44. Rc4 a5 45. Rec1 Bd5 46. R4c2 Qg6+ 47. Kh2 Qf6 48. Rc7+ Ke6
+49. Nxd5 Qxh4+ 50. Kg1 Qg5+ 51. Kf1 Qxd5 52. R1c2 h5 53. Rc8 Kf5 54. f3 a4
+55. Kg2 h4 56. Rh8 Qd4 57. Rg8 b3 58. axb3 axb3 59. Rf2 b2 60. Rf1 Qd3 61.
+Rb8 h3+ 0-1
+

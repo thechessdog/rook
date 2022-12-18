@@ -1,0 +1,24 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Vasiukov, Evgeni"]
+[Black "Zheliandinov, Viktor"]
+[Result "0-1"]
+[ECO "C78"]
+[Opening "Ruy Lopez"]
+[Variation "Archangelsk (counterthrust) variation"]
+[HashCode "4061f64a"]
+[Epoch "Rook"]
+[WhiteID "4100522"]
+[WhiteCountry "RUS"]
+[BlackID "14100355"]
+[BlackCountry "UKR"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Bb7 7. Re1 Bc5 8. c3
+O-O 9. d4 Bb6 10. Bg5 h6 11. Bh4 Re8 12. Nbd2 d6 13. d5 Nb8 14. Nf1 Nbd7 15. a4
+g5 16. Nxg5 hxg5 17. Bxg5 Nf8 18. Qf3 N8h7 19. Bh4 Kh8 20. Ng3 Rg8 21. Nh5 Rg6
+22. Kh1 Rb8 23. h3 Bc8 24. axb5 axb5 25. g4 Bd7 26. Ra2 Nxh5 27. Bxd8 Nf4 28.
+Bxc7 Bxc7 29. Ra7 Rc8 30. Qg3 Kg7 31. f3 Ng5 32. h4 Nxf3 33. Qxf3 Bxg4 34. Qg3
+Bh5 35. Qxg6+ Bxg6 36. Bc2 Bd8 37. Rea1 Bxh4 38. Ra8 Rc4 39. Kh2 Bxe4 40. b3
+Bxc2 41. bxc4 bxc4 42. R8a6 0-1

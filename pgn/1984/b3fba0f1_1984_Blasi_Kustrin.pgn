@@ -1,0 +1,20 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Blasi"]
+[Black "Kustrin"]
+[Result "1-0"]
+[ECO "B99"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7...Be7 main line"]
+[HashCode "b3fba0f1"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8.
+Qf3 Qc7 9. O-O-O Nbd7 10. g4 b5 11. Bxf6 Nxf6 12. g5 Nd7 13. h4 O-O 14. f5
+b4 15. Na4 e5 16. Ne2 Qc6 17. b3 Bd8 18. Ng3 Bb7 19. Bc4 Nb6 20. Nxb6 Qxb6
+21. g6 hxg6 22. fxg6 d5 23. Bxd5 Bxd5 24. Rxd5 fxg6 25. Qd3 Bf6 26. Rd6 Qf2
+27. h5 Rfd8 28. hxg6 Qc5 29. Nf5 Rxd6 30. Nxd6 Ra7 31. Rh8+ Kxh8 32. Qh3+
+Kg8 33. Qe6+ Rf7 34. Qxf7+ Kh8 35. Qf8# 1-0
+

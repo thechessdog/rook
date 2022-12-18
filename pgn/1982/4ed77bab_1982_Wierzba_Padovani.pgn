@@ -1,0 +1,20 @@
+[Event "Berkeley"]
+[Site "Berkeley"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Wierzba, S."]
+[Black "Padovani, M."]
+[Result "0-1"]
+[ECO "B33"]
+[Opening "Sicilian"]
+[Variation "Sveshnikov variation"]
+[HashCode "4ed77bab"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 e6 3. Nc3 Nc6 4. d4 cxd4 5. Nxd4 Nf6 6. Ndb5 d6 7. Bf4 e5
+8. Bg5 a6 9. Na3 b5 10. Bxf6 gxf6 11. Nd5 f5 12. c4 b4 13. Nc2 fxe4 14.
+Ncxb4 Nxb4 15. Qa4+ Bd7 16. Qxb4 Rb8 17. Qd2 h5 18. Qc2 Qa5+ 19. b4 Rxb4
+20. Nxb4 Qxb4+ 21. Qd2 Qb6 22. Qc2 Bh6 23. Rb1 Qa5+ 24. Ke2 O-O 25. h3 d5
+26. f3 e3 27. Rb2 dxc4 28. Rb7 Bf5 29. Qb2 Bd3+ 30. Kd1 c3 31. Qc1 c2+ 32.
+Qxc2 Bxc2+ 33. Kc1 0-1
+

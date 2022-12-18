@@ -1,0 +1,19 @@
+[Event "Cotronei"]
+[Site "Cotronei"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Martorelli"]
+[Black "Bonfa"]
+[Result "1-0"]
+[ECO "B31"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (with ...g6, without ...d6)"]
+[HashCode "1bf74cb3"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. c3 Nf6 6. d4 cxd4 7. cxd4 Nxe4
+8. d5 Nd6 9. Na3 Ne5 10. Nxe5 Bxe5 11. Re1 Bf6 12. Bf4 Nf5 13. g4 Nd4 14.
+Re4 Nxb5 15. Nxb5 d6 16. Nxd6+ Kf8 17. Nc4 b5 18. g5 Bg7 19. Ne5 Bb7 20.
+Nc6 Bxc6 21. dxc6 Qxd1+ 22. Rxd1 f5 23. Re2 Kf7 24. Rd7 Rhe8 25. Bd6 Bf8
+26. Bc5 a6 27. c7 Rac8 28. Bb6 Bg7 29. f4 1-0
+

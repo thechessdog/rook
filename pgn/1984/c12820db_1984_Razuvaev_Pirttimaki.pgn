@@ -1,0 +1,19 @@
+[Event "Helsinki"]
+[Site "Helsinki"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Razuvaev, Yuri S"]
+[Black "Pirttimaki, Timo"]
+[Result "1-0"]
+[ECO "D15"]
+[Opening "QGD Slav"]
+[Variation "4.Nc3"]
+[HashCode "c12820db"]
+[Epoch "Rook"]
+[WhiteCountry "RUS"]
+[BlackCountry "FIN"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. Nf3 a6 5. e3 b5 6. b3 Bg4 7. Be2 Bxf3 8. Bxf3
+e6 9. O-O Nbd7 10. Qc2 Rc8 11. e4 c5 12. exd5 cxd4 13. dxe6 fxe6 14. Ne4 Be7
+15. Ng5 Qb6 16. Re1 e5 17. Qf5 g6 18. Qh3 bxc4 19. Rxe5 Rc5 20. Re6 Qa5 21. b4
+Qxb4 22. Rxe7+ Kd8 23. Qe6 Re5 24. Nf7+ 1-0

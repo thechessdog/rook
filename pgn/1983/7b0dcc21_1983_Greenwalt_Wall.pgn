@@ -1,0 +1,16 @@
+[Event "Dayton,OH"]
+[Site "Dayton,OH"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Greenwalt"]
+[Black "Wall, Bill"]
+[Result "0-1"]
+[ECO "C40"]
+[Opening "Latvian gambit, 3.Bc4"]
+[HashCode "7b0dcc21"]
+[Epoch "Rook"]
+[BlackCountry "USA"]
+
+1. e4 e5 2. Nf3 f5 3. Bc4 fxe4 4. Nxe5 Qg5 5. Nf7 Qxg2 6. Nxh8 Qxh1+ 7. Ke2
+Qxh2 8. Bf7+ Kd8 9. Bxg8 d5 10. Ke3 d4+ 11. Kxe4 c5 12. d3 Bd7 13. Bf4 Bc6+ 14.
+Ke5 Nd7+ 15. Kf5 g6+ 16. Kg5 Be7+ 17. Kg4 Qh4# 0-1

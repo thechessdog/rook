@@ -1,0 +1,21 @@
+[Event "Yugoslavia"]
+[Site "Yugoslavia"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Ivanovic, Bozidar"]
+[Black "Nicevski, Risto"]
+[Result "1-0"]
+[ECO "B27"]
+[Opening "Sicilian"]
+[Variation "Quinteros variation"]
+[HashCode "429867f2"]
+[Epoch "Rook"]
+[BlackCountry "MKD"]
+[WhiteID "900095"]
+[WhiteCountry "MNE"]
+
+1. e4 c5 2. Nf3 Qc7 3. Nc3 e6 4. g3 a6 5. Bg2 d6 6. O-O Nf6 7. Nh4 Be7 8. f4
+Nc6 9. d3 O-O 10. g4 d5 11. g5 d4 12. e5 dxc3 13. gxf6 gxf6 14. Qh5 fxe5 15. f5
+exf5 16. Nxf5 Bxf5 17. Rxf5 f6 18. bxc3 Kh8 19. Kh1 Qd7 20. Be4 Bd8 21. Be3 b6
+22. Rg1 Ra7 23. Bh6 Rg8 24. Rxg8+ Kxg8 25. Qg5+ Kf7 26. Qg2 Na5 27. Bd5+ Ke7
+28. Rxf6 1-0

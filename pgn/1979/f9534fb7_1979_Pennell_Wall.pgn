@@ -1,0 +1,17 @@
+[Event "North Carolina"]
+[Site "North Carolina"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Pennell, G."]
+[Black "Wall, Bill"]
+[Result "0-1"]
+[ECO "B80"]
+[Opening "Sicilian"]
+[Variation "Scheveningen variation"]
+[HashCode "f9534fb7"]
+[Epoch "Rook"]
+[BlackCountry "USA"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 Be7 7. Qd2 a6 8.
+O-O-O b5 9. a3 Bb7 10. f3 Qc7 11. Nde2 Nbd7 12. Ng3 Rc8 13. f4 Nc5 14. Bxf6
+gxf6 15. f5 Qa5 16. Bd3 b4 17. Nb1 Nb3# 0-1

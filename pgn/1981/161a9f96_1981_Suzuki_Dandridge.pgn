@@ -1,0 +1,24 @@
+[Event "corr ICA"]
+[Site "corr ICA"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Suzuki, W."]
+[Black "Dandridge, Marvin"]
+[Result "1-0"]
+[ECO "E43"]
+[Opening "Nimzo-Indian"]
+[Variation "Fischer variation"]
+[HashCode "161a9f96"]
+[Epoch "Rook"]
+[BlackID "2004194"]
+[BlackCountry "USA"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 b6 5. Bd3 Bxc3+ 6. bxc3 Bb7 7. f3 d6 8. Ne2
+Nbd7 9. e4 e5 10. Be3 Qe7 11. O-O h6 12. Ng3 O-O-O 13. Qa4 a5 14. Nf5 Qf8 15.
+Bf2 Nh5 16. Rfd1 Nf4 17. c5 dxc5 18. Bb5 cxd4 19. cxd4 g6 20. Ng3 Qe7 21. Rac1
+h5 22. d5 h4 23. d6 Qg5 24. Rxc7+ Kb8 25. Rxb7+ Kxb7 26. Bc6+ Kb8 27. Bxb6 Nxb6
+28. Qb3 Ka7 29. Qxf7+ Nd7 30. Bxd7 Rhf8 31. Qe7 Nh3+ 32. Kf1 hxg3 33. hxg3 Qf6
+34. Ba4+ Qxe7 35. dxe7 Rxd1+ 36. Ke2 Rdd8 37. gxh3 Rfe8 38. exd8=Q Rxd8 39. f4
+Kb6 40. fxe5 Rd4 41. Be8 g5 42. Kf3 Kc5 43. Bf7 Rd3+ 44. Kg4 Re3 45. Bd5 a4 46.
+h4 gxh4 47. Kxh4 Re1 48. Kg5 Rf1 49. g4 Rf8 50. Kg6 Kb6 51. e6 Kc7 52. e7 Re8
+53. Kf7 1-0

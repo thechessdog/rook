@@ -1,0 +1,22 @@
+[Event "Moron op"]
+[Site "Moron"]
+[Date "1981.01.01"]
+[Round "?"]
+[White "Zukerfeld, Andres"]
+[Black "Wehbe, Ricardo"]
+[Result "1-0"]
+[ECO "C88"]
+[Opening "Ruy Lopez"]
+[Variation "closed, anti-Marshall 8.a4"]
+[HashCode "5c336602"]
+[Epoch "Rook"]
+[BlackID "101885"]
+[BlackCountry "ARG"]
+[WhiteID "102067"]
+[WhiteCountry "ARG"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. a4
+Bb7 9. d3 d6 10. c3 h6 11. Nbd2 Re8 12. Nf1 Bf8 13. Ng3 b4 14. Nf5 d5 15. exd5
+Nxd5 16. d4 bxc3 17. Nxe5 Nxe5 18. dxe5 cxb2 19. Bxb2 Bb4 20. Re4 Bc3 21. Rg4
+Bxb2 22. Rxg7+ Kf8 23. Qg4 Qg5 24. Rxg5 hxg5 25. Rd1 Rxe5 26. Bxd5 Bxd5 27.
+Qb4+ 1-0

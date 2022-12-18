@@ -1,0 +1,21 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Lau, Ralf"]
+[Black "Kiefer, Gerhard"]
+[Result "1-0"]
+[ECO "E12"]
+[Opening "Queen's Indian"]
+[Variation "Petrosian system"]
+[HashCode "35a0ff5a"]
+[Epoch "Rook"]
+[BlackID "4606965"]
+[BlackCountry "GER"]
+[WhiteID "4600134"]
+[WhiteCountry "GER"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 b6 4. a3 Bb7 5. Nc3 d5 6. cxd5 exd5 7. g3 Be7 8. Bg2
+O-O 9. O-O Nbd7 10. Bg5 Ne4 11. Bxe7 Qxe7 12. Rc1 Rfe8 13. Nb5 Rec8 14. Nxc7
+Rab8 15. Qd3 Ndf6 16. Na6 Rxc1 17. Rxc1 Rc8 18. Rxc8+ Bxc8 19. Ne5 h5 20. Nb4
+a5 21. Nxd5 1-0

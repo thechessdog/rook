@@ -1,0 +1,23 @@
+[Event "Vrsac"]
+[Site "Vrsac"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Smejkal, Jan"]
+[Black "Kapelan, Milorad"]
+[Result "1-0"]
+[ECO "A13"]
+[Opening "English opening"]
+[Variation "Agincourt variation"]
+[HashCode "ba93fec9"]
+[Epoch "Rook"]
+[WhiteID "300020"]
+[BlackID "904147"]
+[WhiteCountry "CZE"]
+[BlackCountry "SRB"]
+
+1. c4 e6 2. Nf3 d5 3. b3 Be7 4. Bb2 Nf6 5. g3 b6 6. Bg2 Bb7 7. O-O O-O 8. e3 c5
+9. Nc3 Nbd7 10. Qe2 Rc8 11. d3 Qc7 12. Rad1 a6 13. e4 d4 14. Nb1 b5 15. Nbd2
+Nb6 16. Ne1 Nfd7 17. f4 Nb8 18. Bc1 Nc6 19. e5 Rce8 20. Ne4 Kh8 21. Nf3 Nd8 22.
+Rf2 f5 23. exf6 gxf6 24. Re1 Nc8 25. Nh4 f5 26. Ng5 Bxg2 27. Kxg2 Bf6 28. Qh5
+Qg7 29. Nxf5 Qg6 30. Qxg6 hxg6 31. Nh4 Kg7 32. Nhf3 Re7 33. cxb5 axb5 34. Rc2
+Bxg5 35. Nxg5 Rf5 36. Bd2 Rd7 37. Rec1 Rdd5 38. Rxc5 Ne7 39. Rc7 1-0

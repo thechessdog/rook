@@ -1,0 +1,20 @@
+[Event "Lloyds Bank"]
+[Site "Londen open"]
+[Date "1984.08.01"]
+[Round "1"]
+[White "Greenfeld, Alon"]
+[Black "Huenerkopf, Heinz"]
+[Result "1-0"]
+[ECO "A48"]
+[Opening "King's Indian"]
+[Variation "Torre attack"]
+[HashCode "40c9b319"]
+[Epoch "Rook"]
+[WhiteID "2800039"]
+[BlackID "4603443"]
+[WhiteCountry "ISR"]
+[BlackCountry "GER"]
+
+1. Nf3 Nf6 2. d4 g6 3. Bg5 Ne4 4. Bf4 Bg7 5. Nbd2 d5 6. e3 O-O 7. Bd3 Nxd2 8.
+Qxd2 c5 9. c3 Nc6 10. h4 Qe8 11. h5 e5 12. dxe5 Nxe5 13. Bxe5 Bxe5 14. hxg6
+hxg6 15. Bxg6 d4 16. Bh7+ Kg7 17. e4 1-0

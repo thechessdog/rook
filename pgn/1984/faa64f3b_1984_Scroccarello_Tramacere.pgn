@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Scroccarello"]
+[Black "Tramacere"]
+[Result "1-0"]
+[ECO "B69"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...a6 defence, 11.Bxf6"]
+[HashCode "faa64f3b"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 e6 7. Qd2 a6 8.
+O-O-O Bd7 9. f4 Be7 10. Nf3 b5 11. Bxf6 gxf6 12. Bd3 Qa5 13. Kb1 b4 14. Ne2
+Qc5 15. Ng3 a5 16. Rhe1 a4 17. e5 d5 18. Nf5 fxe5 19. Nxe7 Qxe7 20. fxe5
+Na5 21. Qh6 b3 22. Ng5 bxa2+ 23. Kxa2 O-O-O 24. Rf1 Rdf8 25. Qf6 Qb4 26.
+Rf4 Nc4 27. Bxc4 dxc4 28. Nxf7 Rhg8 29. Qh4 1-0
+

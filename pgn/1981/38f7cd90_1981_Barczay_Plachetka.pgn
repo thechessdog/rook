@@ -1,0 +1,18 @@
+[Event "Keszthely"]
+[Site "Keszthely"]
+[Date "1981.01.01"]
+[Round "7"]
+[White "Barczay, Laszlo"]
+[Black "Plachetka, Jan"]
+[Result "1/2-1/2"]
+[ECO "B16"]
+[Opening "Caro-Kann"]
+[Variation "Bronstein-Larsen variation"]
+[HashCode "38f7cd90"]
+[Epoch "Rook"]
+[BlackID "14900068"]
+[BlackCountry "SVK"]
+[WhiteCountry "HUN"]
+
+1. e4 c6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Nf6 5. Nxf6+ gxf6 6. Nf3 Bf5 7. Bd3 e6 8.
+O-O Bxd3 9. Qxd3 Qc7 10. c4 Nd7 11. d5 O-O-O 12. dxe6 fxe6 13. Qe2 e5 1/2-1/2

@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Vitolinsh, Alvis"]
+[Black "Philipp, W."]
+[Result "1-0"]
+[ECO "C64"]
+[Opening "Ruy Lopez"]
+[Variation "classical defence, Boden variation"]
+[HashCode "418c839f"]
+[Epoch "Rook"]
+[WhiteCountry "LVA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. c3 Qe7 5. O-O Nf6 6. d4 Bb6 7. Re1 Ng4 8. h3
+h5 9. Na3 exd4 10. cxd4 a6 11. Ba4 Ba7 12. Nc2 d6 13. Nb4 Bd7 14. Nxc6 bxc6 15.
+Bf4 O-O-O 16. Rc1 c5 17. Bxd7+ Rxd7 18. Qa4 1-0

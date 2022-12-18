@@ -1,0 +1,21 @@
+[Event "Mosbach Elo"]
+[Site "Mosbach Elo"]
+[Date "1980.01.01"]
+[Round "11"]
+[White "Miltner, Arndt"]
+[Black "Herbrechtsmeier, Christof"]
+[Result "0-1"]
+[ECO "A25"]
+[Opening "English"]
+[Variation "closed, Hort variation"]
+[HashCode "4b077bce"]
+[Epoch "Rook"]
+[WhiteID "4602366"]
+[WhiteCountry "GER"]
+[BlackID "4603737"]
+[BlackCountry "GER"]
+
+1. c4 e5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. e3 d6 6. Nge2 Be6 7. d3 Qd7 8. Nd5
+Nd8 9. e4 c6 10. Ne3 h5 11. d4 exd4 12. Nxd4 Bh3 13. Ndf5 Bxf5 14. exf5 gxf5
+15. Bh3 Ne7 16. Qc2 Ne6 17. Bxf5 O-O-O 18. O-O h4 19. Rd1 hxg3 20. fxg3 Rde8
+21. Rb1 Nxf5 22. Nxf5 Nd4 23. Nxd4 Bxd4+ 24. Kh1 Qg4 0-1

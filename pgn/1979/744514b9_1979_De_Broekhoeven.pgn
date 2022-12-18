@@ -1,0 +1,15 @@
+[Event "Eindhoven"]
+[Site "Eindhoven"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "De Vries, Sylvia"]
+[Black "Broekhoeven"]
+[Result "1-0"]
+[ECO "A00"]
+[Opening "Grob's attack"]
+[HashCode "744514b9"]
+[Epoch "Rook"]
+[WhiteID "1001639"]
+[WhiteCountry "NED"]
+
+1. g4 d5 2. Bg2 g6 3. h4 Bxg4 4. c4 c6 5. cxd5 cxd5 6. Qb3 e6 7. Qa4+ 1-0

@@ -1,0 +1,21 @@
+[Event "corr EUR/K tt"]
+[Site "corr EUR/K tt"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Dodson"]
+[Black "Ude"]
+[Result "1-0"]
+[ECO "B31"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (with ...g6, without ...d6)"]
+[HashCode "93914dd1"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. d3 e5 6. Nc3 Nge7 7. Bg5 h6 8.
+Be3 Nd4 9. Bc4 d6 10. Ne1 Be6 11. f4 exf4 12. Bxf4 a6 13. Nf3 Bg4 14. Qd2
+Nxf3+ 15. gxf3 Bh3 16. Rf2 Nc6 17. Kh1 Qd7 18. Nd5 Qd8 19. c3 Be6 20. a4
+Rb8 21. a5 Nxa5 22. Rxa5 Qxa5 23. Bxd6 Bh3 24. Qc1 Rd8 25. Bc7 Qa4 26. Bxd8
+Kxd8 27. Nf4 Qd7 28. Qe3 b6 29. Bxa6 Be6 30. Bc4 Be5 31. Bxe6 Bxf4 32. Qxf4
+Qxe6 33. Qb8+ Qc8 34. Qxb6+ Ke7 35. Qa7+ Kf6 36. d4 Rd8 37. Qxc5 Qb8 38.
+e5+ Kg7 39. Qe7 Re8 40. Qf6+ Kg8 41. Qf4 1-0
+

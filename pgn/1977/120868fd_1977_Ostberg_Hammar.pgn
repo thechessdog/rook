@@ -1,0 +1,20 @@
+[Event "Sweden"]
+[Site "Sweden"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Ostberg, Peter"]
+[Black "Hammar, Bengt"]
+[Result "1-0"]
+[ECO "B94"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.Bg5"]
+[HashCode "120868fd"]
+[Epoch "Rook"]
+[WhiteID "1700960"]
+[WhiteCountry "SWE"]
+[BlackID "1700391"]
+[BlackCountry "SWE"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 Nbd7 7. Bc4 Qa5 8.
+Qd2 e6 9. O-O Be7 10. Rac1 h6 11. Bh4 Ne5 12. Bb3 g5 13. Bg3 Bd7 14. f4 gxf4
+15. Rxf4 Nh7 16. Rf2 O-O-O 17. Nd5 Qxd2 18. Nxe7+ Kc7 19. Rxd2 Rhe8 20. Nf3 1-0

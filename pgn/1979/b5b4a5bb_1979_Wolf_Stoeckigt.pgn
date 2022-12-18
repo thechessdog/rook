@@ -1,0 +1,18 @@
+[Event "corr DDR-cup6"]
+[Site "corr DDR-cup6"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Wolf"]
+[Black "Stoeckigt, R."]
+[Result "0-1"]
+[ECO "E68"]
+[Opening "King's Indian"]
+[Variation "fianchetto, classical variation, 8.e4"]
+[HashCode "b5b4a5bb"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 O-O 5. Nf3 d6 6. O-O Nbd7 7. Nc3 e5 8.
+e4 c6 9. Rb1 a6 10. Qc2 Qe7 11. Rd1 b5 12. b3 Bb7 13. Ba3 exd4 14. Nxd4 c5
+15. Ndxb5 axb5 16. Nxb5 Bxe4 17. Bxe4 Qxe4 18. Qd2 Ne5 19. Qxd6 Nf3+ 20.
+Kf1 Nd2+ 21. Qxd2 Qh1+ 22. Ke2 Rfe8+ 23. Kd3 Qe4+ 24. Kc3 Nd5# 0-1
+

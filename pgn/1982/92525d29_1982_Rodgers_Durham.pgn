@@ -1,0 +1,16 @@
+[Event "California"]
+[Site "California"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Rodgers"]
+[Black "Durham, Daniel"]
+[Result "1-0"]
+[ECO "E04"]
+[Opening "Catalan"]
+[Variation "open, 5.Nf3"]
+[HashCode "92525d29"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Bg2 dxc4 5. Nf3 c5 6. O-O Nc6 7. Ne5 Nxd4 8.
+e3 1-0
+

@@ -1,0 +1,20 @@
+[Event "corr EU"]
+[Site "corr EU"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Kunte"]
+[Black "Kohler"]
+[Result "0-1"]
+[ECO "B97"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7...Qb6"]
+[HashCode "35e143f1"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qb6 8.
+Nb3 Nbd7 9. Qe2 Qc7 10. O-O-O b5 11. a3 Be7 12. g3 h6 13. Bh4 Bb7 14. Bg2
+Rc8 15. Rhe1 g5 16. fxg5 hxg5 17. Bxg5 Rxh2 18. Bh4 Ne5 19. Rh1 Rxh1 20.
+Bxh1 Qb6 21. Rf1 Nfg4 22. Bf3 Qe3+ 23. Kb1 Nxf3 24. Qxe3 Nxe3 25. Rxf3 Nc4
+26. Kc1 Bxh4 27. gxh4 Ke7 28. Rg3 Rh8 29. Rh3 Rg8 30. Rh1 Rg4 31. h5 Kf8
+32. h6 Kg8 33. Nd4 Ne5 34. Nde2 Bxe4 35. Nxe4 Rxe4 36. Ng3 Rg4 0-1
+

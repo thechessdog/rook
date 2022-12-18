@@ -1,0 +1,21 @@
+[Event "Gera"]
+[Site "Gera"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Braun, G."]
+[Black "Mobius, R."]
+[Result "0-1"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "b6948151"]
+[Epoch "Rook"]
+
+1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. d4 Nc6 5. Nf3 Bf5 6. Be3 cxd4 7. Nxd4
+Nxd4 8. Qxd4 Qxd4 9. Bxd4 a6 10. Nd2 Nf6 11. Be2 e6 12. Bf3 O-O-O 13. Nc4
+Nd7 14. O-O-O f6 15. Be3 Kc7 16. Rd2 b5 17. Na5 b4 18. c4 Ne5 19. Rxd8 Kxd8
+20. Bb6+ Kc8 21. Bb7+ Kb8 22. Bxa6 Bc5 23. Nc6+ Ka8 24. Bxc5 Nd3+ 25. Kd2
+Nxc5 26. Nxb4 Rd8+ 27. Ke3 e5 28. Bb5 Rd4 29. f3 Bg6 30. Rc1 f5 31. g3 f4+
+32. gxf4 Rxf4 33. Rg1 Rh4 34. Rg2 Rh3 35. Bc6+ Ka7 36. Ke2 Kb6 37. Bd5 Bb1
+38. Rxg7 Rxh2+ 39. Ke3 Rxb2 40. Rb7+ Nxb7 0-1
+

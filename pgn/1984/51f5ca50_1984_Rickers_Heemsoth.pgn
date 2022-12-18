@@ -1,0 +1,19 @@
+[Event "corr DFSM"]
+[Site "corr DFSM"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Rickers"]
+[Black "Heemsoth"]
+[Result "1/2-1/2"]
+[ECO "D27"]
+[Opening "QGA"]
+[Variation "classical, Rubinstein variation"]
+[HashCode "51f5ca50"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. Nf3 d5 3. c4 dxc4 4. e3 e6 5. Bxc4 c5 6. O-O a6 7. a4 Nc6 8.
+Qe2 Qc7 9. Nc3 Be7 10. Rd1 O-O 11. b3 Bd7 12. Bb2 Rfd8 13. d5 exd5 14. Nxd5
+Nxd5 15. Bxd5 Be8 16. e4 Nb4 17. Bc4 Rxd1+ 18. Rxd1 Rd8 19. Rd2 Rxd2 20.
+Nxd2 Qd7 21. e5 Bf8 22. Ne4 b5 23. axb5 axb5 24. e6 Qe7 25. Bxb5 Bxb5 26.
+Qxb5 Qxe6 1/2-1/2
+

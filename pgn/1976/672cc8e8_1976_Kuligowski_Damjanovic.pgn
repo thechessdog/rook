@@ -1,0 +1,18 @@
+[Event "Lublin"]
+[Site "Lublin"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Kuligowski, Adam"]
+[Black "Damjanovic, Mato"]
+[Result "0-1"]
+[ECO "A04"]
+[Opening "Reti opening"]
+[HashCode "672cc8e8"]
+[Epoch "Rook"]
+[WhiteID "1100092"]
+[WhiteCountry "POL"]
+[BlackCountry "HRV"]
+
+1. Nf3 g6 2. c4 Bg7 3. d4 c5 4. e4 Qa5+ 5. Nc3 Nf6 6. Bd2 cxd4 7. Nxd4 O-O 8.
+Nc2 Nc6 9. Be2 d6 10. O-O Be6 11. Rc1 Rfc8 12. Kh1 Qd8 13. f3 Nd7 14. b4 Nce5
+15. f4 Nxc4 16. f5 Nxd2 17. fxe6 Nxf1 18. exf7+ Kh8 19. Nd5 Nxh2 20. Kxh2 0-1

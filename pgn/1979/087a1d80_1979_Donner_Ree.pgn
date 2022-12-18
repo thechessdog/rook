@@ -1,0 +1,22 @@
+[Event "IBM"]
+[Site "Amsterdam"]
+[Date "1979.07.01"]
+[Round "1"]
+[White "Donner, Jan Hein"]
+[Black "Ree, Hans"]
+[Result "0-1"]
+[ECO "A64"]
+[Opening "Benoni"]
+[Variation "fianchetto, 11...Re8"]
+[HashCode "087a1d80"]
+[Epoch "Rook"]
+[BlackID "1000098"]
+[WhiteCountry "NLD"]
+[BlackCountry "NED"]
+
+1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 O-O 5. Nc3 c5 6. d5 d6 7. Nf3 e6 8. O-O
+exd5 9. cxd5 a6 10. a4 Nbd7 11. Nd2 Re8 12. h3 Rb8 13. Nc4 Ne5 14. Na3 Nh5 15.
+f4 Nxg3 16. fxe5 Bxe5 17. Nc4 Bxc3 18. bxc3 b5 19. axb5 axb5 20. Ne3 Nxf1 21.
+Nxf1 Qh4 22. Qd3 b4 23. e4 f5 24. Qg3 Qxg3 25. Nxg3 bxc3 26. Ra3 c2 27. Rc3
+fxe4 28. Rxc2 e3 29. Re2 Rb1 30. Re1 Bf5 31. Bf1 c4 32. Rxe3 Rxe3 33. Bxe3 Bxh3
+0-1

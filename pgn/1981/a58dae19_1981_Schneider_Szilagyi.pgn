@@ -1,0 +1,18 @@
+[Event "Elekes mem-A"]
+[Site "Budapest"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Schneider, Attila"]
+[Black "Szilagyi, Peter"]
+[Result "1/2-1/2"]
+[ECO "D91"]
+[Opening "Gruenfeld"]
+[Variation "5.Bg5"]
+[HashCode "a58dae19"]
+[Epoch "Rook"]
+[BlackID "700355"]
+[BlackCountry "HUN"]
+[WhiteCountry "HUN"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Bg5 Ne4 6. Bh4 Nxc3 7. bxc3 dxc4 8.
+Qa4+ Qd7 9. Qxc4 b6 10. Bg3 c5 11. Ne5 1/2-1/2

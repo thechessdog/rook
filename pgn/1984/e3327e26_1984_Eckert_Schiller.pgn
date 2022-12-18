@@ -1,0 +1,19 @@
+[Event "corr ch-USA"]
+[Site "corr ch-USA"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Eckert"]
+[Black "Schiller"]
+[Result "1-0"]
+[ECO "D09"]
+[Opening "QGD"]
+[Variation "Albin counter-gambit, 5.g3"]
+[HashCode "e3327e26"]
+[Epoch "Rook"]
+
+1. d4 d5 2. c4 e5 3. dxe5 d4 4. Nf3 Nc6 5. g3 Be6 6. Nbd2 Qd7 7. Bg2 O-O-O
+8. O-O h5 9. Qa4 Kb8 10. Qb3 Nge7 11. Ne4 Nc8 12. Neg5 Na5 13. Qb5 Nxc4 14.
+Qxd7 Rxd7 15. Nxe6 fxe6 16. Bh3 N8b6 17. Rd1 c5 18. Bxe6 Re7 19. Bxc4 Nxc4
+20. b3 Na5 21. e3 Rf7 22. Ng5 Rd7 23. e6 Rd5 24. e4 Rd8 25. Nf7 Be7 26.
+Nxh8 Rxh8 27. Bf4+ 1-0
+

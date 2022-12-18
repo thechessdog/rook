@@ -1,0 +1,21 @@
+[Event "New York"]
+[Site "New York"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Zuckerman, Bernard"]
+[Black "Kramer"]
+[Result "1-0"]
+[ECO "C78"]
+[Opening "Ruy Lopez"]
+[Variation "5.O-O"]
+[HashCode "96cc445d"]
+[Epoch "Rook"]
+[WhiteID "2000423"]
+[WhiteCountry "USA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Be7 7. d4 d6 8. c3
+O-O 9. Nbd2 Bg4 10. h3 Bh5 11. d5 Nb8 12. Re1 Nbd7 13. Nf1 Nc5 14. Bc2 a5 15.
+Ng3 Bg6 16. b4 axb4 17. cxb4 Na4 18. Bd3 Qd7 19. Nh4 c6 20. dxc6 Qxc6 21. Nhf5
+Bd8 22. Qe2 Rb8 23. Be3 d5 24. Rac1 Qd7 25. Red1 d4 26. Bd2 Ne8 27. Rc2 Nc7 28.
+Rdc1 Ne6 29. Qg4 Bf6 30. h4 Rfc8 31. Bxb5 Rxb5 32. Rxc8+ Bd8 33. h5 Bxf5 34.
+exf5 Nf8 35. Bh6 f6 36. Rxd8 1-0

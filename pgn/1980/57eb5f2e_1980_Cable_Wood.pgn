@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Cable"]
+[Black "Wood, Baruch Harold"]
+[Result "1-0"]
+[ECO "C08"]
+[Opening "French"]
+[Variation "Tarrasch, open, 4.ed ed"]
+[HashCode "57eb5f2e"]
+[Epoch "Rook"]
+[BlackCountry "ENG"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. exd5 exd5 5. Ngf3 c4 6. b3 b5 7. a4 c3 8. Bxb5+
+Bd7 9. Qe2+ Be7 10. Nb1 Qa5 11. O-O Nf6 12. Ba3 Ne4 13. Bxe7 Kxe7 14. Ng5 f5
+15. f3 h6 16. Nxe4 fxe4 17. fxe4 Re8 18. exd5+ Kd8 19. Qc4 a6 20. Bc6 Bxc6 21.
+dxc6 Ra7 22. Nxc3 1-0

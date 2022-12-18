@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Mann, Kenneth"]
+[Black "Vehre, John"]
+[Result "0-1"]
+[ECO "B25"]
+[Opening "Sicilian"]
+[Variation "closed, 6.f4"]
+[HashCode "7af1b7de"]
+[Epoch "Rook"]
+[BlackCountry "USA"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. f4 e6 7. Nf3 Nge7 8. Be3
+O-O 9. O-O Nd4 10. Rb1 Rb8 11. Ne2 Nxf3+ 12. Bxf3 b6 13. d4 Bb7 14. c3 f5 15.
+e5 dxe5 16. dxe5 Nd5 0-1

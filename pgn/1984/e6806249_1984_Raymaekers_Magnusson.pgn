@@ -1,0 +1,18 @@
+[Event "corr EU/M/GT"]
+[Site "corr EU/M/GT"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Raymaekers, C."]
+[Black "Magnusson, G."]
+[Result "1-0"]
+[ECO "B27"]
+[Opening "Sicilian"]
+[Variation "Hungarian variation"]
+[HashCode "e6806249"]
+[Epoch "Rook"]
+
+1. Nf3 g6 2. e4 c5 3. d4 Bg7 4. d5 b5 5. a4 Qa5+ 6. Bd2 Qb6 7. Bc3 Nf6 8.
+e5 Ng4 9. axb5 O-O 10. Be2 d6 11. exd6 exd6 12. O-O a6 13. Bxg7 Kxg7 14.
+Nc3 Bb7 15. Nd2 Ne5 16. f4 Ned7 17. Kh1 axb5 18. Rxa8 Bxa8 19. f5 b4 20.
+Nc4 Qc7 21. Ne4 Nb6 22. f6+ Kh8 23. Qd2 1-0
+

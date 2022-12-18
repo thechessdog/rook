@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Molzahn, D."]
+[Black "Liedtke, K."]
+[Result "0-1"]
+[ECO "C01"]
+[Opening "French"]
+[Variation "exchange variation"]
+[HashCode "a82451ba"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. Bd3 Bd6 5. Nf3 Bg4 6. O-O Nc6 7. c3 Nge7
+8. Re1 Qd7 9. Nbd2 O-O 10. Qc2 Ng6 11. b3 Rae8 12. Bb2 Kh8 13. a3 Nf4 14.
+c4 Nxg2 15. Kxg2 Bxf3+ 16. Nxf3 Qg4+ 17. Kf1 Qxf3 18. Kg1 Qg4+ 0-1
+

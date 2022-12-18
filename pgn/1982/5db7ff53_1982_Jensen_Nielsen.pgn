@@ -1,0 +1,22 @@
+[Event "DEN-chJ int"]
+[Site "Soro"]
+[Date "1982.??.??"]
+[Round "5"]
+[White "Jensen, Jesper K"]
+[Black "Nielsen, Jan"]
+[Result "0-1"]
+[ECO "B16"]
+[Opening "Caro-Kann"]
+[Variation "Bronstein-Larsen variation"]
+[HashCode "5db7ff53"]
+[Epoch "Rook"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ gxf6 6. c3 Bf5 7. Ne2
+Nd7 8. Ng3 Bg6 9. h4 h5 10. Be2 Qa5 11. b4 Qc7 12. Nxh5 a5 13. Nf4 axb4 14.
+Nxg6 fxg6 15. Qd3 O-O-O 16. a4 Kb8 17. cxb4 e5 18. Qb3 exd4 19. Bb2 d3 20.
+Qxd3 Bxb4+ 21. Kf1 Bc5 22. a5 Qf4 23. Qg3 Qxg3 24. fxg3 Ne5 25. a6 b5 26.
+Rc1 Be3 27. Bxe5+ fxe5 28. Rxc6 Rhf8+ 29. Bf3 Rd2 30. Re6 Rc8 31. Rc6 Rxc6
+32. Bxc6 Rd1+ 33. Ke2 Rxh1 34. Kxe3 b4 35. Be8 b3 36. Bxg6 b2 37. Bd3 b1=Q
+38. Bxb1 Rxb1 39. h5 Re1+ 40. Kf2 Ra1 41. Ke3 Kc7 42. a7 Rxa7 43. g4 Kd6
+44. g5 0-1
+

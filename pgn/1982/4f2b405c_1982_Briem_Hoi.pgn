@@ -1,0 +1,26 @@
+[Event "Reykjavik op"]
+[Site "Reykjavik op"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Briem, Stefan"]
+[Black "Hoi, Carsten"]
+[Result "0-1"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack"]
+[HashCode "4f2b405c"]
+[Epoch "Rook"]
+[BlackID "1400100"]
+[BlackCountry "DEN"]
+[WhiteID "2300737"]
+[WhiteCountry "ISL"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 O-O 6. Be2 c5 7. dxc5 Qa5 8. O-O
+Qxc5+ 9. Kh1 Nbd7 10. Nd2 a6 11. Nb3 Qc7 12. Be3 b5 13. a3 Bb7 14. Bf3 Rac8 15.
+Qe1 e5 16. Rd1 exf4 17. Bxf4 Ne5 18. Qg3 Rfe8 19. Rf2 Rcd8 20. Bg5 h6 21. Bxf6
+Bxf6 22. Be2 Qe7 23. Qe3 Bh4 24. Rff1 Bg5 25. Qb6 Rb8 26. Qxd6 Qxd6 27. Rxd6
+Nc4 28. Bxc4 bxc4 29. Nc5 Be7 30. Nxb7 Rxb7 31. Rxa6 Rxb2 32. Nd5 Rxc2 33. Rc6
+Bg5 34. h4 Bxh4 35. Rc7 Rf8 36. Ne3 Re2 37. Rf3 Bg5 38. Nxc4 Rxe4 39. Kg1 Bf4
+40. Rc6 Rfe8 41. g3 Bb8 42. a4 Re2 43. a5 Ra2 44. Rf1 Ba7+ 45. Nb6 Rxa5 46. Kg2
+Re2+ 47. Kf3 Rea2 48. Ke4 Bxb6 49. Rxb6 R2a4+ 50. Ke3 Re5+ 51. Kd3 Re7 52. Rb3
+Kg7 53. Rf3 h5 54. Re3 Rxe3+ 55. Kxe3 h4 0-1

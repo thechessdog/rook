@@ -1,0 +1,20 @@
+[Event "Novi Sad"]
+[Site "Novi Sad"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Smejkal, Jan"]
+[Black "Ftacnik, Lubomir"]
+[Result "1/2-1/2"]
+[ECO "B07"]
+[Opening "Pirc"]
+[Variation "bayonet (Mariotti) attack"]
+[HashCode "1d41406f"]
+[Epoch "Rook"]
+[BlackID "14900017"]
+[BlackCountry "SVK"]
+[WhiteID "300020"]
+[WhiteCountry "CZE"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Be2 Bg7 5. h4 Nc6 6. h5 gxh5 7. Bb5 Bd7 8. Nge2
+a6 9. Bxc6 Bxc6 10. Ng3 Rg8 11. Bg5 b5 12. Qd3 Qd7 13. Nce2 Bb7 14. Bxf6 Bxf6
+15. Nxh5 1/2-1/2

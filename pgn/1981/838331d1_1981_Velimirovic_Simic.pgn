@@ -1,0 +1,18 @@
+[Event "Vrsac"]
+[Site "Vrsac"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Velimirovic, Dragoljub"]
+[Black "Simic, S."]
+[Result "1-0"]
+[ECO "B81"]
+[Opening "Sicilian"]
+[Variation "Scheveningen, Keres attack"]
+[HashCode "838331d1"]
+[Epoch "Rook"]
+[WhiteCountry "SRB"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. g4 a6 7. g5 Nfd7 8. Be3
+Be7 9. Qh5 O-O 10. O-O-O Nc6 11. Kb1 Qc7 12. Rg1 Nxd4 13. Bxd4 Re8 14. f4 Nf8
+15. f5 exf5 16. Nd5 Qa5 17. Nf6+ Bxf6 18. gxf6 Ng6 19. Bc4 Be6 20. Bxe6 Rxe6
+21. exf5 Re7 22. Qf3 1-0

@@ -1,0 +1,18 @@
+[Event "Berlin op"]
+[Site "Berlin-West"]
+[Date "1984.??.??"]
+[Round "7"]
+[White "Mittig, H."]
+[Black "Gheorghiu, Florin"]
+[Result "0-1"]
+[ECO "B26"]
+[Opening "Sicilian"]
+[Variation "closed, 6.Be3"]
+[HashCode "b3a4543e"]
+[Epoch "Rook"]
+[BlackID "1200011"]
+[BlackCountry "ROU"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. Be3 Nd4 7. Qd2 Qa5 8. h3
+Bd7 9. Nge2 Rc8 10. f4 e6 11. O-O Ne7 12. g4 f5 13. gxf5 exf5 14. e5 Qb6 15.
+exd6 Qxd6 16. Rae1 O-O 17. Kh1 Bc6 18. Rf2 Bxg2+ 0-1

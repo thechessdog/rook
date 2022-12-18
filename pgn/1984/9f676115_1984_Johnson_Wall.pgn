@@ -1,0 +1,15 @@
+[Event "Dayton,OH"]
+[Site "Dayton,OH"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Johnson, Steve"]
+[Black "Wall, Bill"]
+[Result "0-1"]
+[ECO "C40"]
+[Opening "QP counter-gambit (elephant gambit)"]
+[HashCode "9f676115"]
+[Epoch "Rook"]
+[BlackCountry "USA"]
+
+1. e4 e5 2. Nf3 d5 3. Nxe5 Bd6 4. Nxf7 Kxf7 5. Qh5+ Kf8 6. Qf3+ Nf6 7. exd5 Bg4
+8. Qd3 Nxd5 9. Qb5 a6 10. Qd3 Nb4 11. Qe4 Nxc2+ 12. Qxc2 Qe8+ 0-1

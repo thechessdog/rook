@@ -1,0 +1,19 @@
+[Event "Vrnjacka Banja"]
+[Site "Vrnjacka Banja"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Damljanovic, Branko"]
+[Black "Mirkovic, Slobodan"]
+[Result "1/2-1/2"]
+[ECO "A25"]
+[Opening "English"]
+[Variation "closed system (without ...d6)"]
+[HashCode "6a107bf1"]
+[Epoch "Rook"]
+[BlackID "901202"]
+[BlackCountry "SRB"]
+[WhiteID "900125"]
+[WhiteCountry "SRB"]
+
+1. c4 e5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 Nge7 6. Nf3 O-O 7. O-O d6 8. Rb1
+a5 9. a3 h6 10. b4 axb4 11. axb4 Be6 12. b5 Nd4 13. Nd2 1/2-1/2

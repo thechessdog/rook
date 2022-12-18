@@ -1,0 +1,20 @@
+[Event "Randaberg"]
+[Site "Randaberg"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Harestad, Ove Henning"]
+[Black "Haugen, Arild"]
+[Result "0-1"]
+[ECO "A74"]
+[Opening "Benoni"]
+[Variation "classical, 9...a6, 10.a4"]
+[HashCode "0b63a6ae"]
+[Epoch "Rook"]
+[BlackID "1505076"]
+[BlackCountry "NOR"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. Nf3 Bg7 8. Be2
+O-O 9. O-O a6 10. a4 Re8 11. Nd2 Nbd7 12. f3 Ne5 13. Nc4 Nxc4 14. Bxc4 Rb8 15.
+Rb1 Bd7 16. Qd3 Nh5 17. f4 f5 18. e5 dxe5 19. fxe5 Bxe5 20. Rf3 Bd6 21. Bd2 Qh4
+22. Rh3 Qf6 23. Rf1 f4 24. Re3 Rxe3 25. Bxe3 Bf5 26. Ne4 Qe7 27. Bxc5 Bxc5+ 28.
+Kh1 Qxe4 29. d6+ Kf8 30. Qc3 Qd4 31. Qb3 Qxd6 32. Rd1 Qb6 0-1

@@ -1,0 +1,17 @@
+[Event "corr ch-DEN"]
+[Site "corr ch-DEN"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Ingerslev, Age"]
+[Black "Ros, A."]
+[Result "1-0"]
+[ECO "B40"]
+[Opening "Sicilian"]
+[Variation "Anderssen variation"]
+[HashCode "5a5db4f0"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Bd3 Nc6 6. Nxc6 dxc6 7. O-O e5 8.
+Nd2 Bc5 9. Nc4 Qc7 10. Bg5 Bg4 11. Qe1 Be7 12. f4 exf4 13. e5 Nd5 14. Nd6+ Kf8
+15. Bxe7+ Qxe7 16. c4 Ne3 17. Rxf4 Qxe5 18. Rxf7+ Kg8 19. Rxb7 Qxd6 20. Qxe3 h5
+21. Re1 Bd7 22. c5 1-0

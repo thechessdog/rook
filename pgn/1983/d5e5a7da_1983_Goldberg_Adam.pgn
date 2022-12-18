@@ -1,0 +1,20 @@
+[Event "corr ch11-DDR"]
+[Site "corr ch11-DDR"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Goldberg, A."]
+[Black "Adam, S."]
+[Result "1-0"]
+[ECO "B97"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Poisoned pawn variation"]
+[HashCode "d5e5a7da"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qb6 8.
+Qd2 Qxb2 9. Rb1 Qa3 10. Be2 Nc6 11. Nxc6 bxc6 12. e5 dxe5 13. fxe5 Nd5 14.
+Nxd5 cxd5 15. O-O Be7 16. Rb3 Qc5+ 17. Kh1 Bxg5 18. Qxg5 g6 19. Qf6 Rf8 20.
+Rfb1 Qe7 21. Qf4 f6 22. c4 Qc7 23. cxd5 Qxe5 24. Qf2 Kf7 25. Bf3 exd5 26.
+Re1 Re8 27. Rxe5 Rxe5 28. h3 Kg8 29. Qh4 Kg7 30. Qd4 Be6 31. Rb7+ Bf7 32.
+Rxf7+ 1-0
+

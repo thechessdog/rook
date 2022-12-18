@@ -1,0 +1,19 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Efimov, Igor"]
+[Black "Vdovin"]
+[Result "1-0"]
+[ECO "B12"]
+[Opening "Caro-Kann"]
+[Variation "advance variation"]
+[HashCode "b4036124"]
+[Epoch "Rook"]
+[WhiteID "806404"]
+[WhiteCountry "MNC"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nc3 e6 5. g4 Bg6 6. Nge2 f6 7. Nf4 fxe5 8. Nxe6
+Qe7 9. Nxf8 exd4+ 10. Be2 dxc3 11. Nxg6 cxb2 12. Bxb2 hxg6 13. Qd4 Nf6 14. g5
+Nh5 15. O-O-O O-O 16. Bxh5 gxh5 17. f4 Na6 18. Rhe1 Qc7 19. Re5 Rad8 20. Rde1
+c5 21. Qd1 d4 22. g6 d3 23. cxd3 c4 24. Qxh5 1-0

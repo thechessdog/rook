@@ -1,0 +1,17 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Lucchesi"]
+[Black "Rauhut"]
+[Result "0-1"]
+[ECO "B83"]
+[Opening "Sicilian"]
+[Variation "modern Scheveningen, main line with Nb3"]
+[HashCode "4842c791"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e6 6. Be2 Nc6 7. O-O Be7
+8. Be3 O-O 9. f4 Bd7 10. Nb3 Rc8 11. Nb5 Nxe4 12. Nxa7 Nxa7 13. Bxa7 b6 14.
+Qd4 Nc5 15. Nxc5 bxc5 16. Qd3 Qc7 17. Qa6 Ra8 18. Bb6 Qc6 0-1
+

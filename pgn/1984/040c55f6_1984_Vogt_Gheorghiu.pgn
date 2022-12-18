@@ -1,0 +1,22 @@
+[Event "DDR"]
+[Site "DDR"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Vogt, Lothar"]
+[Black "Gheorghiu, Florin"]
+[Result "1-0"]
+[ECO "B42"]
+[Opening "Sicilian"]
+[Variation "Kan, 5.Bd3"]
+[HashCode "040c55f6"]
+[Epoch "Rook"]
+[BlackID "1200011"]
+[WhiteID "4611292"]
+[WhiteCountry "GER"]
+[BlackCountry "ROU"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Nf6 6. O-O d6 7. c4 b6 8. Nc3
+Bb7 9. f4 Nc6 10. Nxc6 Bxc6 11. Qe2 Be7 12. Kh1 O-O 13. b3 Nd7 14. Bb2 g6 15.
+Rad1 Re8 16. Bb1 Bf8 17. e5 dxe5 18. Be4 Qc7 19. Qf3 Bxe4 20. Nxe4 f5 21. Rxd7
+fxe4 22. Qd1 Qc6 23. Bxe5 Rac8 24. Qd4 Be7 25. f5 Rcd8 26. Rxe7 exf5 27. Rxe8+
+Qxe8 28. Qxb6 1-0

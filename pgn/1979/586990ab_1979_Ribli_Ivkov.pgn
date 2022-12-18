@@ -1,0 +1,20 @@
+[Event "Bled / Portoroz"]
+[Site "Bled / Portoroz"]
+[Date "1979.06.01"]
+[Round "1"]
+[White "Ribli, Zoltan"]
+[Black "Ivkov, Borislav"]
+[Result "1/2-1/2"]
+[ECO "D45"]
+[Opening "QGD semi-Slav"]
+[Variation "Stoltz variation"]
+[HashCode "586990ab"]
+[Epoch "Rook"]
+[WhiteID "700010"]
+[WhiteCountry "HUN"]
+[BlackID "900141"]
+[BlackCountry "SRB"]
+
+1. c4 e6 2. Nf3 d5 3. d4 Nf6 4. Nc3 c6 5. e3 Nbd7 6. Qc2 Bd6 7. e4 Nxe4 8. Nxe4
+dxe4 9. Qxe4 Bb4+ 10. Bd2 Bxd2+ 11. Nxd2 c5 12. dxc5 Qa5 13. a3 Qxc5 14. Bd3
+Qe5 15. Qxe5 Nxe5 1/2-1/2

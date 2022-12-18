@@ -1,0 +1,21 @@
+[Event "Bogota"]
+[Site "Bogota"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Garcia, Gildardo"]
+[Black "Acosta, Alejandro"]
+[Result "1-0"]
+[ECO "B81"]
+[Opening "Sicilian"]
+[Variation "Scheveningen, Keres attack"]
+[HashCode "7153e981"]
+[Epoch "Rook"]
+[WhiteID "4400020"]
+[WhiteCountry "COL"]
+[BlackCountry "COL"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. g4 h6 7. g5 hxg5 8. Bxg5
+Nc6 9. Qd2 Qb6 10. Nb3 a6 11. O-O-O Bd7 12. Be3 Qc7 13. f4 b5 14. Bg2 b4 15.
+Na4 Rb8 16. e5 dxe5 17. Nac5 Bxc5 18. Nxc5 Rd8 19. fxe5 Nxe5 20. Nxa6 Qa5 21.
+Qd6 Rc8 22. Bc5 Ng6 23. Kb1 Bb5 24. Bb7 Ne4 25. Bxe4 Qxa6 26. Qd4 Rh4 27. Qxg7
+Rxc5 28. Bxg6 fxg6 29. Qxg6+ Ke7 30. Qg7+ Ke8 31. Qg8+ Ke7 32. Qd8+ 1-0

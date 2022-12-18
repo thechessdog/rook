@@ -1,0 +1,22 @@
+[Event "Rzeszow"]
+[Site "Rzeszow"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Ksieski, Zbigniew"]
+[Black "Adamski, Jan"]
+[Result "0-1"]
+[ECO "E15"]
+[Opening "Queen's Indian"]
+[Variation "Nimzovich variation (exaggerated fianchetto)"]
+[HashCode "a7e98b64"]
+[Epoch "Rook"]
+[WhiteID "1100564"]
+[BlackID "1100190"]
+[WhiteCountry "POL"]
+[BlackCountry "POL"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. b3 Bb4+ 6. Bd2 Be7 7. Bg2 O-O 8. O-O
+d5 9. Qc2 c5 10. dxc5 Bxc5 11. cxd5 Bxe2 12. Re1 Bxf3 13. Bxf3 Nxd5 14. Nc3 Nb4
+15. Qd1 N8c6 16. a3 Nd3 17. Bxc6 Rc8 18. Bb7 Rc7 19. Qf3 Bxf2+ 20. Kh1 Bxe1 21.
+Bxe1 Nxe1 22. Rxe1 Qd2 23. Re3 Rxb7 24. Ne4 Qd5 25. Rd3 Qf5 26. Qe2 Qe5 27. Qf3
+Rc7 0-1

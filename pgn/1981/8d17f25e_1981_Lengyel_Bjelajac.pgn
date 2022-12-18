@@ -1,0 +1,26 @@
+[Event "Novi Sad"]
+[Site "Novi Sad"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Lengyel, L."]
+[Black "Bjelajac, Milan"]
+[Result "0-1"]
+[ECO "A04"]
+[Opening "Reti v Dutch"]
+[HashCode "8d17f25e"]
+[Epoch "Rook"]
+[BlackID "901261"]
+[BlackCountry "SRB"]
+[WhiteCountry "HUN"]
+
+1. Nf3 f5 2. g3 Nf6 3. Bg2 g6 4. b3 Bg7 5. Bb2 O-O 6. d4 d6 7. c4 Ne4 8. O-O
+Nc6 9. Nc3 Nxc3 10. Bxc3 e6 11. Rc1 Qe7 12. d5 Bxc3 13. Rxc3 Nd8 14. dxe6 Nxe6
+15. e3 Nc5 16. Rc2 a5 17. Ne1 Bd7 18. Nd3 Ne4 19. Nf4 Bc6 20. Nd5 Qf7 21. Qd4
+Bxd5 22. Qxd5 Qxd5 23. cxd5 Nc5 24. Rb1 b5 25. b4 axb4 26. Rxb4 Ra5 27. Bf1
+Rfa8 28. Rbb2 Rb8 29. Rb4 Kf7 30. g4 Kf6 31. gxf5 gxf5 32. Rh4 Rg8+ 33. Kh1 Ra4
+34. Rh3 Rb4 35. Rg3 Ra8 36. Rg1 Ke5 37. Bh3 Rc4 38. Rb2 b4 39. Rg5 Rf8 40. Bf1
+Rc1 41. Rg1 Rb8 42. Bg2 Rxg1+ 43. Kxg1 f4 44. Rc2 Ra8 45. Kf1 fxe3 46. fxe3 Ra3
+47. Rc4 Na6 48. Re4+ Kf6 49. Rf4+ Kg7 50. Rg4+ Kh6 51. Rh4+ Kg5 52. Rxh7 Rxa2
+53. Be4 Nc5 54. h4+ Kf6 55. Rh6+ Ke5 56. Bg6 b3 57. Rh8 Kf6 58. h5 Nd7 59. Rc8
+b2 60. Rxc7 Ne5 61. Bh7 Ra1+ 62. Kg2 b1=Q 63. Bxb1 Rxb1 64. Rc8 Kg5 65. Rh8 Nf7
+66. Rg8+ Kxh5 67. Kf3 Ng5+ 68. Ke2 Rb5 0-1

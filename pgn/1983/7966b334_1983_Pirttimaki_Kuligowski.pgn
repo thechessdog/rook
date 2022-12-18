@@ -1,0 +1,22 @@
+[Event "Poutiainen mem"]
+[Site "Helsinki"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Pirttimaki, Timo"]
+[Black "Kuligowski, Adam"]
+[Result "0-1"]
+[ECO "B93"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.f4"]
+[HashCode "7966b334"]
+[Epoch "Rook"]
+[BlackID "1100092"]
+[BlackCountry "POL"]
+[WhiteCountry "FIN"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 Nbd7 7. Be2 g6 8. O-O
+Bg7 9. Kh1 O-O 10. a4 Re8 11. Nb3 b6 12. Bf3 Bb7 13. g4 Rc8 14. Qe2 h6 15. g5
+hxg5 16. e5 Bxf3+ 17. Rxf3 Nh5 18. e6 gxf4 19. exd7 Qxd7 20. Bxf4 Nxf4 21. Rxf4
+Bxc3 22. bxc3 Rxc3 23. Rg1 Rec8 24. Qe4 Qc6 25. Qxc6 R8xc6 26. Rgf1 f5 27. Rg1
+Kf7 28. Rh4 Rc8 29. Rb4 Rxc2 30. Rxb6 Ra2 31. Rb4 Rb2 32. Rg3 Rcc2 33. Rh4 Rb1+
+0-1

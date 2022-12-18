@@ -1,0 +1,21 @@
+[Event "DDR jr"]
+[Site "DDR jr"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Poldauf, D."]
+[Black "Peuker, T."]
+[Result "1-0"]
+[ECO "A16"]
+[Opening "English"]
+[Variation "Anglo-Gruenfeld defense"]
+[HashCode "67fd3c3b"]
+[Epoch "Rook"]
+
+1. c4 Nf6 2. Nc3 d5 3. cxd5 Nxd5 4. g3 g6 5. Bg2 c6 6. Nf3 Bg7 7. O-O O-O
+8. d4 Nd7 9. e4 Nc7 10. Be3 Nb6 11. b3 Bg4 12. Qd2 Qc8 13. Ne5 Bh3 14. Nc4
+Rd8 15. Rfd1 Ne8 16. Nxb6 axb6 17. Na4 Bxg2 18. Kxg2 Qc7 19. Rac1 Nd6 20.
+f3 Nc8 21. Qf2 Qd7 22. d5 c5 23. f4 Qb5 24. Qf1 Qd7 25. Rd2 Qc7 26. g4 Qd7
+27. Kg3 Ra6 28. e5 Kh8 29. Qf3 Rf8 30. Nc3 f5 31. g5 Rd8 32. h4 h5 33. gxh6
+Bxh6 34. Rh1 Rg8 35. Rdh2 Kg7 36. h5 Kf8 37. Kf2 gxh5 38. Qxh5 Bg7 39. e6
+Qc7 40. Qf7# 1-0
+

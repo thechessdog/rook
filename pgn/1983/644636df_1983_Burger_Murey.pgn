@@ -1,0 +1,20 @@
+[Event "New York"]
+[Site "New York"]
+[Date "1983.01.01"]
+[Round "11"]
+[White "Burger, Karl"]
+[Black "Murey, Jacob"]
+[Result "1-0"]
+[ECO "A25"]
+[Opening "English"]
+[Variation "closed, 5.Rb1"]
+[HashCode "644636df"]
+[Epoch "Rook"]
+[BlackID "2803585"]
+[WhiteCountry "USA"]
+[BlackCountry "ISR"]
+
+1. c4 e5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. Rb1 Nge7 6. b4 O-O 7. b5 Nd4 8. e3
+Ne6 9. Nge2 c5 10. Nd5 d6 11. d3 Nf5 12. Bd2 h5 13. a4 h4 14. a5 Ng5 15. Rg1
+Nh6 16. f4 Ne6 17. Bc3 exf4 18. gxf4 h3 19. Bf3 Bxc3+ 20. Nexc3 Qxa5 21. Qb3
+Nd4 22. exd4 cxd4 23. Qa2 Qd8 24. Ne4 f5 25. Rxg6+ Kh7 26. Rxd6 Qe8 27. Bh5 1-0

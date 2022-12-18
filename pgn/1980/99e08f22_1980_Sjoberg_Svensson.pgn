@@ -1,0 +1,24 @@
+[Event "Sweden"]
+[Site "Sweden"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Sjoberg, Mats"]
+[Black "Svensson, Bengt"]
+[Result "1-0"]
+[ECO "E15"]
+[Opening "Queen's Indian"]
+[Variation "Nimzovich variation (exaggerated fianchetto)"]
+[HashCode "99e08f22"]
+[Epoch "Rook"]
+[WhiteID "1700375"]
+[WhiteCountry "SWE"]
+[BlackID "1722891"]
+[BlackCountry "SWE"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. b3 Bb4+ 6. Bd2 Be7 7. Bg2 c6 8. O-O
+d5 9. Ne5 O-O 10. Bf4 Nfd7 11. Nxd7 Nxd7 12. Nd2 Bf6 13. cxd5 cxd5 14. Nf3 Rc8
+15. Re1 Qe7 16. a4 Rc6 17. Rb1 b5 18. e4 dxe4 19. Nd2 Bxd4 20. Bxe4 Rc3 21. Nf3
+Bb6 22. Bd6 Qf6 23. a5 Bc5 24. Bxf8 Nxf8 25. b4 Be7 26. Rb3 Rc4 27. Qd2 h6 28.
+Ne5 Rxe4 29. Rxe4 Bb7 30. Rf3 Qg5 31. Qxg5 Bxg5 32. Rxf7 Bxe4 33. f4 Ng6 34.
+Rxa7 Nxe5 35. fxg5 Nd3 36. Rd7 Ne5 37. Rd8+ Kf7 38. gxh6 gxh6 39. a6 Ke7 40.
+Rb8 Nc6 41. Rb7+ Kd6 1-0

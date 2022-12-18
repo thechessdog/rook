@@ -1,0 +1,21 @@
+[Event "Kikinda"]
+[Site "Kikinda"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Vukic, Milan"]
+[Black "Minic, Dragoljub"]
+[Result "1-0"]
+[ECO "E96"]
+[Opening "King's Indian"]
+[Variation "orthodox, 7...Nbd7, main line"]
+[HashCode "5a6149c2"]
+[Epoch "Rook"]
+[WhiteID "900273"]
+[WhiteCountry "BIH"]
+[BlackCountry "SRB"]
+
+1. Nf3 g6 2. d4 Bg7 3. c4 d6 4. Nc3 Nd7 5. e4 e5 6. Be2 Ngf6 7. O-O O-O 8. Re1
+c6 9. Bf1 a5 10. Rb1 Re8 11. d5 Nc5 12. b3 Bd7 13. Nd2 Bh6 14. a3 cxd5 15. cxd5
+b5 16. b4 axb4 17. Rxb4 Rb8 18. Qc2 Na6 19. Rxb5 Bxb5 20. Bxb5 Nc5 21. Bxe8
+Nxe8 22. Na2 Nc7 23. Nb4 Ra8 24. Nc6 Qf6 25. Nb3 Bxc1 26. Rxc1 N7a6 27. Nba5
+Qf4 28. Re1 Nc7 29. g3 Qg4 30. Nxe5 1-0

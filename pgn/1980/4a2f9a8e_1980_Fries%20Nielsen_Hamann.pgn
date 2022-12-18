@@ -1,0 +1,23 @@
+[Event "Kopenhagen open"]
+[Site "Kopenhagen open"]
+[Date "1980.06.01"]
+[Round "1"]
+[White "Fries-Nielsen, Jens Ove"]
+[Black "Hamann, Svend"]
+[Result "0-1"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Nimzovich (knight's tour) variation"]
+[HashCode "4a2f9a8e"]
+[Epoch "Rook"]
+[WhiteCountry "DEN"]
+[BlackID "1400193"]
+[BlackCountry "DEN"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. Nd2 Bg7 8. Nc4
+O-O 9. Bg5 b6 10. a4 Na6 11. e4 Re8 12. Be2 h6 13. Bh4 Nc7 14. O-O Ba6 15. Re1
+Qd7 16. Bd3 Bxc4 17. Bxc4 a6 18. h3 b5 19. axb5 axb5 20. Rxa8 Rxa8 21. Bd3 Nh5
+22. Qd2 g5 23. Bg3 Nxg3 24. fxg3 Be5 25. Rf1 c4 26. Be2 Na6 27. Bg4 Qa7+ 28.
+Kh2 Nc5 29. Bf5 Nb3 30. Qe2 Nd4 31. Qh5 Kg7 32. h4 Qe7 33. Kh3 b4 34. Nd1 Ra1
+35. Ne3 Rxf1 36. Nxf1 Nxf5 37. exf5 Bxb2 38. Qg4 Bf6 39. Qxc4 Qe1 40. Nh2 Qc3
+41. Qg4 b3 42. hxg5 hxg5 43. Nf3 0-1

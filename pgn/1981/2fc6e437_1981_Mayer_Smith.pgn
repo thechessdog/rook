@@ -1,0 +1,22 @@
+[Event "Washington Futurity"]
+[Site "Washington Futurity"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Mayer, Steven F."]
+[Black "Smith, Arthur"]
+[Result "0-1"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...e6"]
+[HashCode "2fc6e437"]
+[Epoch "Rook"]
+[BlackID "2003996"]
+[BlackCountry "USA"]
+[WhiteCountry "USA"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c5 4. e3 cxd4 5. exd4 Nf6 6. Nf3 Be7 7. c5 O-O 8. Bd3
+b6 9. b4 a5 10. Na4 Nbd7 11. a3 axb4 12. axb4 bxc5 13. bxc5 e5 14. Nxe5 Bxc5
+15. O-O Nxe5 16. dxe5 Ne4 17. Bf4 Bxf2+ 18. Rxf2 Nxf2 19. Kxf2 Qh4+ 20. Bg3
+Qd4+ 21. Kf1 Qxd3+ 22. Qxd3 Ba6 23. Ke2 Bxd3+ 24. Kxd3 Ra6 25. Kc3 d4+ 26. Kb4
+Rb8+ 27. Kc4 Rba8 28. Kb4 h5 29. Be1 Ra5 30. Bd2 Rxe5 31. Re1 Rf5 32. Re4 Rd8
+33. Nc5 Rf2 34. Nb3 Rb8+ 35. Kc4 Rxb3 0-1

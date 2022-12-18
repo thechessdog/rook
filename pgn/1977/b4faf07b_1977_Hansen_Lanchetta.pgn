@@ -1,0 +1,19 @@
+[Event "Grasten"]
+[Site "Grasten"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Hansen, Curt"]
+[Black "Lanchetta, Finn"]
+[Result "1-0"]
+[ECO "E21"]
+[Opening "Nimzo-Indian"]
+[Variation "three knights variation"]
+[HashCode "b4faf07b"]
+[Epoch "Rook"]
+[WhiteID "1400010"]
+[WhiteCountry "DEN"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Nf3 c5 5. a3 cxd4 6. axb4 dxc3 7. bxc3 h6 8.
+b5 O-O 9. Ba3 Re8 10. Bd6 Ne4 11. e3 a6 12. Qd4 Nxd6 13. Qxd6 Qf6 14. Ne5 Qe7
+15. c5 f6 16. Nc4 Kf7 17. Be2 Rd8 18. Bh5+ Kf8 19. Bf3 Qxd6 20. Nxd6 Ra7 21. b6
+Ra8 22. Nxc8 1-0

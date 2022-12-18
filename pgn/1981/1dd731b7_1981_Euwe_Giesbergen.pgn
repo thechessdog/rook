@@ -1,0 +1,17 @@
+[Event "corr NLD/K"]
+[Site "corr NLD/K"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Euwe, Max"]
+[Black "Giesbergen, H."]
+[Result "1/2-1/2"]
+[ECO "D76"]
+[Opening "Neo-Gruenfeld, 6.cd Nxd5, 7.O-O Nb6"]
+[HashCode "1dd731b7"]
+[Epoch "Rook"]
+[WhiteCountry "NLD"]
+
+1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 d5 5. cxd5 Nxd5 6. Nf3 O-O 7. O-O Nb6 8.
+Nc3 Nc6 9. e3 e5 10. d5 Na5 11. e4 c6 12. Bg5 f6 13. Be3 cxd5 14. exd5 Nac4 15.
+Bc5 Rf7 16. Qe2 Bf8 17. Bxf8 Qxf8 18. Nd2 Nxd2 19. Qxd2 Nc4 20. Qe2 Nd6 21. f4
+exf4 22. Rxf4 Bd7 23. Qf2 f5 24. Re1 Re7 25. Rxe7 Qxe7 26. Rf3 1/2-1/2

@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Brent, M."]
+[Black "Smith, Andrew Philip"]
+[Result "1-0"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (without ...d6)"]
+[HashCode "4e526f7b"]
+[Epoch "Rook"]
+[BlackID "2500833"]
+[BlackCountry "IRL"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 d6 4. O-O Bd7 5. c3 Nf6 6. Re1 e5 7. d4 cxd4 8. cxd4
+Nxd4 9. Bxd7+ Qxd7 10. Nxd4 exd4 11. Qxd4 h6 12. e5 dxe5 13. Qxe5+ Be7 14. Nc3
+Rg8 15. Bf4 Ng4 16. Qc7 b6 17. Rxe7+ Qxe7 18. Qc6+ 1-0

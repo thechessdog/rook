@@ -1,0 +1,22 @@
+[Event "Zurich"]
+[Site "Zurich"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Schaufelberger, Hei"]
+[Black "Huss, Andreas"]
+[Result "0-1"]
+[ECO "C00"]
+[Opening "French"]
+[Variation "King's Indian attack"]
+[HashCode "f0a61f40"]
+[Epoch "Rook"]
+[BlackID "1300180"]
+[BlackCountry "SUI"]
+
+1. e4 e6 2. d3 d5 3. Nd2 c5 4. Ngf3 Nc6 5. g3 Nge7 6. Bg2 g6 7. O-O Bg7 8. Re1
+b6 9. c3 O-O 10. e5 a5 11. h4 Qc7 12. Qe2 Ba6 13. a4 b5 14. Nf1 b4 15. N1h2
+bxc3 16. bxc3 Rab8 17. Ng4 Rb3 18. Bh6 Bxh6 19. Nxh6+ Kg7 20. Qd2 Ng8 21. Nxg8
+Rxg8 22. d4 cxd4 23. Nxd4 Nxd4 24. cxd4 h6 25. Bf1 Bxf1 26. Rxf1 Rc8 27. Rac1
+Rc3 28. Rb1 Rc4 29. Rb5 Rxa4 30. Qf4 Qe7 31. Rfb1 Rb4 32. R1xb4 axb4 33. Qd2
+Rc4 34. Qa2 Rxd4 35. Qa8 Qc7 36. Rb8 Qxe5 37. Rg8+ Kf6 38. Rf8 Rd1+ 39. Kh2 Qf5
+40. Qa7 Kg7 0-1

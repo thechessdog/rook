@@ -1,0 +1,22 @@
+[Event "Bundesliga 8283"]
+[Site "Duitsland tt"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Gerusel, Mathias"]
+[Black "Wesseln, Kai"]
+[Result "1-0"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Nimzovich (knight's tour) variation"]
+[HashCode "c2e8240c"]
+[Epoch "Rook"]
+[WhiteID "4601122"]
+[WhiteCountry "GER"]
+[BlackID "4601106"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. Nd2 Nbd7 8. e4
+Bg7 9. Be2 O-O 10. f4 Re8 11. O-O a6 12. a4 c4 13. e5 dxe5 14. Nxc4 Nb6 15.
+fxe5 Nfxd5 16. Nxd5 Qxd5 17. Nd6 Rxe5 18. Nxf7 Qxd1 19. Bxd1 Re8 20. Nd6 Re7
+21. Bg5 Re5 22. Bf4 Re7 23. Bb3+ Be6 24. Rae1 Bxb3 25. Rxe7 Nxa4 26. Be5 Bxe5
+27. Rxe5 Nxb2 28. Re7 Rd8 29. Ne8 Rd1 30. Rg7+ Kh8 31. Rxd1 Nxd1 32. Rxb7 1-0

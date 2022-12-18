@@ -1,0 +1,14 @@
+[Event "KNSB"]
+[Site "KNSB"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Hondema"]
+[Black "Baljon"]
+[Result "0-1"]
+[ECO "A45"]
+[Opening "Trompovsky attack (Ruth, Opovcensky opening)"]
+[HashCode "5b9c24ae"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. Bg5 c5 3. d5 Qb6 4. b3 Ne4 5. Be3 Qb4+ 6. Bd2 Qd4 0-1
+

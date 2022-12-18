@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Peltonen, Seppo"]
+[Black "Niemi, Valio"]
+[Result "1-0"]
+[ECO "C86"]
+[Opening "Ruy Lopez"]
+[Variation "Worrall attack, sharp line"]
+[HashCode "15ef4965"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Qe2 b5 7. Bb3 O-O 8.
+d3 d6 9. c3 Na5 10. Bc2 c5 11. Nbd2 Re8 12. h3 Bf8 13. Nb3 Nc6 14. Be3 Bb7
+15. Nh2 Rc8 16. f4 exf4 17. Rxf4 Ne5 18. Raf1 d5 19. Nxc5 Bxc5 20. Bxc5
+dxe4 21. d4 Nd3 22. Rxf6 Nxc5 23. dxc5 gxf6 24. Ng4 Rxc5 25. Nxf6+ Kf8 26.
+Bb3 Bd5 27. Qg4 1-0
+

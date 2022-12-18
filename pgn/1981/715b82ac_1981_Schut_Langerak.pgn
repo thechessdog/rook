@@ -1,0 +1,20 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Schut"]
+[Black "Langerak, D."]
+[Result "0-1"]
+[ECO "A64"]
+[Opening "Benoni"]
+[Variation "fianchetto, 11...Re8"]
+[HashCode "715b82ac"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 c5 4. d5 exd5 5. cxd5 d6 6. Nf3 g6 7. g3 Bg7 8.
+Bg2 O-O 9. O-O Re8 10. Nd2 a6 11. a4 Nbd7 12. a5 b5 13. axb6 Nxb6 14. Nb3
+Nc4 15. Qd3 Rb8 16. Qxc4 Rb4 17. Qd3 Rxb3 18. Qc2 Qb6 19. e3 Ng4 20. Ra2
+Bd7 21. Rd1 Ne5 22. Ne4 Rb8 23. Nd2 Rb4 24. b3 Bf5 25. e4 Bg4 26. Re1 Rd4
+27. Nc4 Nxc4 28. bxc4 Qb4 29. Bd2 Rxd2 30. Qxd2 Bc3 31. Qf4 Bxe1 32. Qxg4
+Qb1 33. Qe2 Bd2+ 0-1
+

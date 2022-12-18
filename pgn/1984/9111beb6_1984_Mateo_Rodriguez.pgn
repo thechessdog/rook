@@ -1,0 +1,19 @@
+[Event "Bayamo"]
+[Site "Bayamo"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Mateo, Ramon"]
+[Black "Rodriguez, Ad"]
+[Result "0-1"]
+[ECO "B40"]
+[Opening "Sicilian"]
+[Variation "Pin, Jaffe variation"]
+[HashCode "9111beb6"]
+[Epoch "Rook"]
+[WhiteID "6400019"]
+[WhiteCountry "DOM"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Bb4 6. Bd3 e5 7. Nf5 O-O 8.
+O-O Bxc3 9. bxc3 d5 10. Ba3 dxe4 11. Bxf8 Qxf8 12. Bxe4 Nxe4 13. Qh5 Nc6 14.
+Rad1 g6 15. Nh6+ Kg7 16. Qh4 Nxc3 17. Rde1 f5 18. f4 Qd8 19. Qh3 Qd4+ 20. Kh1
+Be6 21. fxe5 Ne4 22. Qh4 Qxe5 23. Rf3 Re8 24. Rb1 Re7 25. Rd1 Qf6 0-1

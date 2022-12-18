@@ -1,0 +1,19 @@
+[Event "New York"]
+[Site "New York"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Arnel"]
+[Black "Moskow"]
+[Result "0-1"]
+[ECO "B78"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, 10.O-O-O"]
+[HashCode "c4c9bbe5"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. f3 Bg7 7. Be3 Nc6 8.
+Qd2 O-O 9. Bc4 Bd7 10. O-O-O Rc8 11. Bb3 Ne5 12. h4 Nc4 13. Bxc4 Rxc4 14.
+h5 Qc7 15. hxg6 fxg6 16. Nd5 Nxd5 17. exd5 Rc8 18. c3 b5 19. g4 b4 20. Qh2
+h5 21. gxh5 bxc3 22. hxg6 cxb2+ 23. Kb1 Rc1+ 24. Rxc1 bxc1=Q+ 25. Rxc1 Bf5+
+0-1
+

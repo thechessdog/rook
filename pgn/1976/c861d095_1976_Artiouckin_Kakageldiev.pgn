@@ -1,0 +1,16 @@
+[Event "Tbilisi"]
+[Site "Tbilisi"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Artiouckin, A."]
+[Black "Kakageldiev"]
+[Result "1-0"]
+[ECO "C44"]
+[Opening "Scotch"]
+[Variation "Goering gambit"]
+[HashCode "c861d095"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. c3 dxc3 5. Bc4 f6 6. Nxc3 Nge7 7. Qb3 d5
+8. Nxd5 Na5 9. Nxf6+ gxf6 10. Bf7+ Kd7 11. Qe6# 1-0
+

@@ -1,0 +1,26 @@
+[Event "BL2-N 8081"]
+[Site "BL2-N 8081"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Ziewitz, H."]
+[Black "Smietana, T."]
+[Result "1-0"]
+[ECO "E62"]
+[Opening "King's Indian"]
+[Variation "fianchetto, Uhlmann (Szabo) variation"]
+[HashCode "bf171345"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. Nf3 d6 5. g3 O-O 6. Bg2 Nc6 7. O-O e5 8.
+d5 Ne7 9. c5 Bg4 10. cxd6 cxd6 11. h3 Bd7 12. Bg5 Ne8 13. Qd2 b5 14. a3 a5
+15. e4 f6 16. Be3 Kh8 17. Rfc1 Rb8 18. Bf1 Ng8 19. a4 bxa4 20. Nxa4 Rb4 21.
+Nc3 a4 22. Qc2 f5 23. exf5 Bxf5 24. Qe2 Bd7 25. Ng5 Qb8 26. Ra2 Nc7 27. Qc2
+Ne7 28. Bg2 h6 29. Nf3 Qe8 30. Qd2 Kh7 31. g4 Qb8 32. Ne1 Nb5 33. Nxb5 Rxb5
+34. Rc4 Rb3 35. Rc2 Rc8 36. Rxc8 Nxc8 37. Nd3 Nb6 38. Qc2 Qc8 39. Qxc8 Nxc8
+40. Nc1 Rb8 41. Ne2 Nb6 42. Bxb6 Rxb6 43. Nc3 Rb4 44. Be4 Bf6 45. Bc2 Rd4
+46. Bxa4 Bxa4 47. Rxa4 Rd2 48. Ne4 Rd1+ 49. Kg2 Bh4 50. Ra7+ Kg8 51. Ra5
+Rb1 52. Rb5 Be7 53. Rb6 Kf7 54. Nxd6+ Bxd6 55. Rxd6 Rxb2 56. Re6 e4 57.
+Rxe4 Rd2 58. Re5 Kf6 59. Re6+ Kf7 60. Rd6 h5 61. g5 h4 62. Kf3 Rd3+ 63. Kg4
+Rd4+ 64. f4 Kg7 65. Rd7+ Kf8 66. d6 Kg8 67. Kf3 Rd3+ 68. Ke4 Rxh3 69. Rg7+
+Kxg7 70. d7 1-0
+

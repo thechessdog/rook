@@ -1,0 +1,18 @@
+[Event "corr DDR/FS"]
+[Site "corr DDR/FS"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Schreiber"]
+[Black "Wicklund"]
+[Result "1-0"]
+[ECO "E26"]
+[Opening "Nimzo-Indian"]
+[Variation "Saemisch variation"]
+[HashCode "4f073dca"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. a3 Bxc3+ 5. bxc3 c5 6. e3 d6 7. Bd3 e5 8.
+f3 O-O 9. Ne2 Qe7 10. O-O Nc6 11. Ng3 g6 12. d5 Na5 13. e4 Nd7 14. Bh6 Re8
+15. f4 exf4 16. Bxf4 Ne5 17. Bxe5 Qxe5 18. Qf3 Rf8 19. Qf6 b6 20. Rf4 Ba6
+21. Raf1 Bxc4 22. Bxc4 Nxc4 23. Qh4 Qxc3 24. e5 Ne3 25. Ne4 1-0
+

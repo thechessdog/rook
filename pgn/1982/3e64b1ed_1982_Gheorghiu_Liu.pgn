@@ -1,0 +1,21 @@
+[Event "Luzern ol (Men)"]
+[Site "Luzern olm"]
+[Date "1982.10.01"]
+[Round "5"]
+[White "Gheorghiu, Florin"]
+[Black "Liu, Wenzhe"]
+[Result "0-1"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Nimzovich (knight's tour) variation"]
+[HashCode "3e64b1ed"]
+[Epoch "Rook"]
+[WhiteID "1200011"]
+[WhiteCountry "ROU"]
+[BlackID "8600112"]
+[BlackCountry "CHN"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. Nd2 Nbd7 8. e4
+Bg7 9. Be2 O-O 10. O-O Re8 11. a4 Ne5 12. Re1 a6 13. f4 Neg4 14. Bf3 h5 15. Nc4
+Nxe4 16. Rxe4 Bd4+ 17. Rxd4 cxd4 18. Ne4 Qh4 19. Ncxd6 Qxh2+ 20. Kf1 Bf5 21.
+Nxf5 gxf5 22. Nf2 d3 23. Qxd3 h4 24. Qxf5 Qg1+ 0-1

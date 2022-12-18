@@ -1,0 +1,16 @@
+[Event "Dayton,OH"]
+[Site "Dayton,OH"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Meidinger, Charles"]
+[Black "Wall, Bill"]
+[Result "1-0"]
+[ECO "A51"]
+[Opening "Budapest"]
+[Variation "Fajarowicz, Steiner variation"]
+[HashCode "e9d60ae5"]
+[Epoch "Rook"]
+[BlackCountry "USA"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ne4 4. Qc2 Bb4+ 5. Nc3 d5 6. exd6 Nxd6 7. e3 O-O 8.
+Bd3 f5 9. Ne2 Be6 10. O-O Nxc4 11. Qb3 Bxc3 12. Bxc4 1-0

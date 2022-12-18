@@ -1,0 +1,18 @@
+[Event "corr Dyckhoff mem"]
+[Site "corr Dyckhoff mem"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Schaefer, Norbert"]
+[Black "Friedrich"]
+[Result "0-1"]
+[ECO "C32"]
+[Opening "KGD"]
+[Variation "Falkbeer, Keres variation"]
+[HashCode "1938fcb2"]
+[Epoch "Rook"]
+[WhiteID "4606353"]
+[WhiteCountry "GER"]
+
+1. e4 e5 2. f4 d5 3. exd5 e4 4. d3 Nf6 5. Nd2 exd3 6. Bxd3 Nxd5 7. Qe2+ Be7 8.
+Ne4 Nc6 9. Nf3 Bg4 10. c3 O-O 11. O-O Re8 12. Bc4 Na5 13. Qd3 Nxc4 14. Qxc4 c6
+15. Qb3 Bxf3 16. Rxf3 Bf8 17. Ng3 Bc5+ 18. Kh1 Nf6 19. f5 Re1+ 20. Rf1 0-1

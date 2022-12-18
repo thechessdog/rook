@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Krivic, D."]
+[Black "Podkrajsek, J."]
+[Result "0-1"]
+[ECO "C72"]
+[Opening "Ruy Lopez"]
+[Variation "modern Steinitz defence, 5.O-O"]
+[HashCode "09b78fe3"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. O-O Bg4 6. h3 h5 7. d4 b5 8. Bb3
+Nxd4 9. hxg4 hxg4 10. Ng5 Nh6 11. g3 Be7 12. f4 c6 13. Be3 d5 14. c3 Nxb3
+15. axb3 exf4 16. gxf4 Qd6 17. Qd3 Qg6 18. Kg2 dxe4 19. Qxe4 Nf5 20. Nd2
+O-O 21. Bf2 Rad8 22. Rad1 Bxg5 23. fxg5 Rxd2 24. Rxd2 Nh4+ 0-1
+

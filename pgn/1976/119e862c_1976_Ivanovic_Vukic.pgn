@@ -1,0 +1,23 @@
+[Event "Vukovar"]
+[Site "Vukovar"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Ivanovic, Bozidar"]
+[Black "Vukic, Milan"]
+[Result "1-0"]
+[ECO "B19"]
+[Opening "Caro-Kann"]
+[Variation "classical, Spassky variation"]
+[HashCode "119e862c"]
+[Epoch "Rook"]
+[BlackID "900273"]
+[BlackCountry "BIH"]
+[WhiteID "900095"]
+[WhiteCountry "MNE"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. Nf3 Nd7 7. h4 h6 8. h5
+Bh7 9. Bd3 Bxd3 10. Qxd3 e6 11. Bd2 Qc7 12. Qe2 Ngf6 13. O-O-O O-O-O 14. Ne5
+Nb8 15. Rh4 Bd6 16. Nc4 Nbd7 17. Nxd6+ Qxd6 18. Bf4 Qb4 19. d5 cxd5 20. Rd3 Nb6
+21. Rb3 Qe7 22. Nf5 Qc5 23. Rb5 Qxb5 24. Qxb5 exf5 25. Qc5+ Kd7 26. Qc7+ Ke6
+27. Rh1 Ne4 28. f3 f6 29. fxe4 fxe4 30. Qxb7 Rd7 31. Qa6 Rc8 32. Rd1 d4 33. Kb1
+Rc6 34. Qe2 f5 35. g4 Nd5 36. gxf5+ Kxf5 37. Rf1 Nxf4 38. Qh2 1-0

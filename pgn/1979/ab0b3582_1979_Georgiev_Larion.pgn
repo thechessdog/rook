@@ -1,0 +1,17 @@
+[Event "Braila"]
+[Site "Braila"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Georgiev, K."]
+[Black "Larion, G."]
+[Result "1-0"]
+[ECO "B98"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7...Be7"]
+[HashCode "ab0b3582"]
+[Epoch "Rook"]
+[WhiteCountry "BGR"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3
+h6 9. Bxf6 Bxf6 10. O-O-O Qc7 11. g4 Nd7 12. h4 b5 13. g5 Be7 14. g6 b4 15.
+gxf7+ Kxf7 16. Nxe6 Kxe6 17. Nd5 Qa5 18. Qh5 Nf6 19. Bh3+ 1-0

@@ -1,0 +1,17 @@
+[Event "Budapest"]
+[Site "Budapest"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Bakos, M."]
+[Black "Raduoti"]
+[Result "0-1"]
+[ECO "B58"]
+[Opening "Sicilian"]
+[Variation "classical"]
+[HashCode "dca64074"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be2 g6 7. Be3 Bg7
+8. g4 Bxg4 9. Nxc6 Bxe2 10. Nxd8 Bxd1 11. Nxf7 Bf3 12. Nxh8 Bxh1 13. e5 Nd5
+14. O-O-O Nxc3 15. Rxh1 Nd5 0-1
+

@@ -1,0 +1,19 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Voelker"]
+[Black "Hutschenreiter, J."]
+[Result "1-0"]
+[ECO "B99"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7...Be7 main line"]
+[HashCode "467b9bbe"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8.
+Qf3 Qc7 9. O-O-O Nbd7 10. Bd3 b5 11. Rhe1 Bb7 12. Qh3 O-O-O 13. e5 dxe5 14.
+fxe5 Nd5 15. Bxe7 Nxe7 16. Bxb5 Ng6 17. Bxa6 Ndxe5 18. Ncb5 Qb6 19. Qc3+
+Kb8 20. Bxb7 Kxb7 21. a4 Rc8 22. Qb4 Ka8 23. a5 Qb7 24. Re3 Rhd8 25. h4 Ng4
+26. Rc3 e5 27. a6 Qxg2 28. Nc7+ Rxc7 29. Rxc7 exd4 30. Qb6 1-0
+

@@ -1,0 +1,17 @@
+[Event "Eindhoven simul"]
+[Site "Eindhoven simul"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Welling, Gerard"]
+[Black "Brinkhorst"]
+[Result "1-0"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Andreaschek gambit"]
+[HashCode "695969d2"]
+[Epoch "Rook"]
+[WhiteID "1000446"]
+[WhiteCountry "NED"]
+
+1. e4 c5 2. d4 cxd4 3. Nf3 e5 4. c3 dxc3 5. Nxc3 d6 6. Bc4 h6 7. Bxf7+ Kxf7 8.
+Nxe5+ Ke8 9. Qh5+ 1-0

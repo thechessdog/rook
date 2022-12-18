@@ -1,0 +1,18 @@
+[Event "Elekes mem-B"]
+[Site "Budapest"]
+[Date "1982.??.??"]
+[Round "?"]
+[White "Navarovszky, Laszlo"]
+[Black "Hardicsay, Peter"]
+[Result "1/2-1/2"]
+[ECO "E14"]
+[Opening "Queen's Indian"]
+[Variation "4.e3"]
+[HashCode "c0a37e97"]
+[Epoch "Rook"]
+[BlackID "700622"]
+[BlackCountry "HUN"]
+[WhiteCountry "HUN"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. e3 Bb7 5. Bd3 d5 6. O-O Bd6 7. b3 Nbd7 8. Bb2
+Ne4 9. Ne5 Nxe5 10. dxe5 Be7 11. Bxe4 dxe4 12. Qg4 O-O 1/2-1/2

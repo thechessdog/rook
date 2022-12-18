@@ -1,0 +1,18 @@
+[Event "Heidelberg"]
+[Site "Heidelberg"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Moore"]
+[Black "Morgan"]
+[Result "0-1"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra gambit"]
+[HashCode "8c412618"]
+[Epoch "Rook"]
+
+1. e4 c5 2. d4 cxd4 3. c3 dxc3 4. Nxc3 e6 5. Nf3 Be7 6. Bc4 Nc6 7. O-O Nf6
+8. Qe2 Nxe4 9. Qxe4 d5 10. Nxd5 exd5 11. Bxd5 O-O 12. Re1 Bf6 13. Bf4 Qe7
+14. Qc4 Qb4 15. Bxf7+ Kh8 16. Re8 Rxe8 17. Qxb4 Nxb4 18. Bxe8 Bf5 19. Re1
+Nd3 0-1
+

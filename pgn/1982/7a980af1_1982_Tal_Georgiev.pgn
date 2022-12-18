@@ -1,0 +1,18 @@
+[Event "Yerevan"]
+[Site "Yerevan"]
+[Date "1982.01.01"]
+[Round "15"]
+[White "Tal, Mikhail"]
+[Black "Georgiev, Krum"]
+[Result "1/2-1/2"]
+[ECO "B52"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky attack, Sokolsky variation"]
+[HashCode "7a980af1"]
+[Epoch "Rook"]
+[BlackID "2900092"]
+[BlackCountry "FID"]
+[WhiteCountry "LVA"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Qxd7 5. c4 e5 6. Nc3 g6 7. a3 Nc6 8.
+Rb1 Bg7 9. b4 Nge7 10. Nd5 1/2-1/2

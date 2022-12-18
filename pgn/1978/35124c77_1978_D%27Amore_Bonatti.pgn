@@ -1,0 +1,18 @@
+[Event "corr Italy"]
+[Site "corr Italy"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "D'Amore"]
+[Black "Bonatti"]
+[Result "1-0"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Lipnitzky attack"]
+[HashCode "35124c77"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. O-O b5 8.
+Bb3 b4 9. Na4 Nxe4 10. Re1 d5 11. Bf4 Qf6 12. Nxe6 fxe6 13. Bxd5 Bd6 14.
+Rxe4 Bxf4 15. Bxa8 O-O 16. Nb6 Bg5 17. Qd4 a5 18. Nxc8 Rxc8 19. Qd6 Kf7 20.
+Rxe6 Qxb2 21. Bd5 1-0
+

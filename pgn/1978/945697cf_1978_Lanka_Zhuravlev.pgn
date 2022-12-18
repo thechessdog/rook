@@ -1,0 +1,18 @@
+[Event "Riga"]
+[Site "Riga"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Lanka"]
+[Black "Zhuravliov, Valerij"]
+[Result "1-0"]
+[ECO "C10"]
+[Opening "French"]
+[Variation "Rubinstein variation"]
+[HashCode "945697cf"]
+[Epoch "Rook"]
+[BlackID "11600055"]
+[BlackCountry "LAT"]
+
+1. e4 e6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Nxf6+ Nxf6 7. Bd3 c5
+8. dxc5 Bxc5 9. O-O O-O 10. Bg5 b6 11. Qe2 Bb7 12. Rad1 Qc7 13. a3 Rfe8 14. Ne5
+Be7 15. Rfe1 h6 16. Bh4 Qc8 17. c3 Nh7 18. Qh5 1-0

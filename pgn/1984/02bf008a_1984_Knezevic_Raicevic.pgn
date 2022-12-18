@@ -1,0 +1,20 @@
+[Event "Belgrade"]
+[Site "Belgrade"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Knezevic, Milorad"]
+[Black "Raicevic, Momcilo"]
+[Result "1/2-1/2"]
+[ECO "D91"]
+[Opening "Gruenfeld"]
+[Variation "5.Bg5"]
+[HashCode "02bf008a"]
+[Epoch "Rook"]
+[BlackID "901040"]
+[BlackCountry "MNE"]
+[WhiteID "950238"]
+[WhiteCountry "SRB"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. Nc3 d5 5. Bg5 Ne4 6. Bh4 c5 7. cxd5 Nxc3 8.
+bxc3 Qxd5 9. e3 Nc6 10. Be2 cxd4 11. cxd4 O-O 12. O-O b6 13. Qb3 Qxb3 14. axb3
+Bb7 1/2-1/2

@@ -1,0 +1,23 @@
+[Event "Reykjavik"]
+[Site "Reykjavik"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Helmers, Knut J"]
+[Black "Kaiszauri, Konstanty"]
+[Result "1-0"]
+[ECO "E04"]
+[Opening "Catalan"]
+[Variation "open, 5.Nf3"]
+[HashCode "2ed2e283"]
+[Epoch "Rook"]
+[WhiteID "1500023"]
+[WhiteCountry "NOR"]
+[BlackID "1700510"]
+[BlackCountry "SWE"]
+
+1. Nf3 Nf6 2. c4 e6 3. g3 d5 4. d4 dxc4 5. Bg2 a6 6. O-O b5 7. Ne5 c6 8. Nxc6
+Qb6 9. Nxb8 Rxb8 10. e4 Bb7 11. Nc3 Bb4 12. Bg5 Bxc3 13. Bxf6 Bxb2 14. Bxg7 Rg8
+15. Rb1 Rxg7 16. Rxb2 c3 17. Rc2 b4 18. d5 a5 19. dxe6 fxe6 20. Qh5+ Kf8 21.
+Qe5 Rd8 22. Bh3 Qd4 23. Qf4+ Ke7 24. Qh6 Rd6 25. Bg2 Qf6 26. Qe3 Qd4 27. Qh6
+Qf6 28. Qe3 Qd4 29. e5 Rd5 30. Qxd4 Rxd4 31. Bxb7 Kd8 32. Bc6 Kc7 33. Ba4 Rg8
+34. Rcc1 Rd2 35. Rfd1 Rgd8 36. Rxd2 Rxd2 1-0

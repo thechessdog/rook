@@ -1,0 +1,20 @@
+[Event "Wiesbaden"]
+[Site "Wiesbaden"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Hess, Ralf E."]
+[Black "Csom, Istvan"]
+[Result "1/2-1/2"]
+[ECO "D36"]
+[Opening "QGD"]
+[Variation "exchange, positional line, 6.Qc2"]
+[HashCode "e07e2b5f"]
+[Epoch "Rook"]
+[WhiteID "4601890"]
+[BlackID "700100"]
+[WhiteCountry "GER"]
+[BlackCountry "HUN"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Bg5 c6 5. cxd5 exd5 6. Qc2 Be7 7. e3 Nbd7 8.
+Bd3 Nf8 9. Nf3 Be6 10. O-O N6d7 11. Bxe7 Qxe7 12. e4 dxe4 13. Bxe4 Nf6 14. Rfe1
+Nxe4 15. Qxe4 O-O-O 1/2-1/2

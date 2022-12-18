@@ -1,0 +1,20 @@
+[Event "corr LADAC"]
+[Site "corr LADAC"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Arguinariz, Enrique"]
+[Black "Maggio, Ramon"]
+[Result "1-0"]
+[ECO "E39"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, Pirc variation"]
+[HashCode "71ac435c"]
+[Epoch "Rook"]
+[WhiteID "113280"]
+[WhiteCountry "ARG"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 c5 5. dxc5 O-O 6. Bf4 Bxc5 7. e3 Nc6 8.
+Nf3 d5 9. Rd1 Qa5 10. a3 Be7 11. Nd2 e5 12. Bg5 d4 13. Nb3 Qd8 14. Be2 Ng4 15.
+Bxe7 Qxe7 16. exd4 exd4 17. Nxd4 Qh4 18. Bxg4 Re8+ 19. Nce2 Bxg4 20. O-O Bxe2
+21. Nxe2 Qe4 22. Rd2 Na5 23. c5 Qe5 24. Rfd1 Rac8 25. b4 Nc6 26. Ng3 g6 27. h4
+Qf4 28. b5 Ne7 29. Ne4 Rc7 30. Rd6 1-0

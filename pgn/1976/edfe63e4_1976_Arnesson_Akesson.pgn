@@ -1,0 +1,18 @@
+[Event "corr SWE/K"]
+[Site "corr SWE/K"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Arnesson, Sture"]
+[Black "Akesson, Ralf"]
+[Result "1-0"]
+[ECO "A57"]
+[Opening "Benko gambit half accepted"]
+[HashCode "edfe63e4"]
+[Epoch "Rook"]
+[BlackID "1700120"]
+[BlackCountry "SWE"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. f3 d6 6. e4 g6 7. Nc3 Bg7 8. Bg5 O-O
+9. Qd2 Re8 10. bxa6 Bxa6 11. Bxa6 Rxa6 12. Nge2 Nbd7 13. O-O Qb6 14. Be3 Ne5
+15. b3 Rea8 16. h3 Ne8 17. Kh1 Qb7 18. Bg5 Nd7 19. Bh6 Bh8 20. h4 Ne5 21. g4
+Qd7 22. Rf2 c4 23. Rg1 cxb3 24. axb3 Ra3 25. Nd4 1-0

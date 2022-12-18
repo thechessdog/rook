@@ -1,0 +1,25 @@
+[Event "BL2-N 8081"]
+[Site "BL2-N 8081"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Mueller, J."]
+[Black "Steen, P."]
+[Result "0-1"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance variation"]
+[HashCode "9aaf741e"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. e5 b6 4. c3 Qd7 5. a3 a5 6. Nh3 c5 7. Be3 Ba6 8. Bxa6
+Nxa6 9. O-O Ne7 10. Nd2 Nc6 11. Qh5 g6 12. Qe2 h5 13. Nf3 Nc7 14. Bg5 Be7
+15. Rfd1 c4 16. Qe3 b5 17. Qf4 Rg8 18. Bxe7 Qxe7 19. Nhg5 Rg7 20. h3 Kd7
+21. Re1 Rb8 22. Re3 Rf8 23. Rae1 Ra8 24. Ra1 Rf8 25. Rae1 Ra8 26. Nh2 b4
+27. axb4 axb4 28. Rf3 Nd8 29. h4 Ra2 30. Rb1 Ne8 31. g4 Kc8 32. gxh5 gxh5
+33. Nf1 Rg6 34. Ng3 f6 35. exf6 Rxf6 36. Qe3 Rxf3 37. Qxf3 Nf6 38. Re1 Rxb2
+39. cxb4 Qxb4 40. Rf1 Nd7 41. Qxh5 c3 42. Ne2 Qc4 43. Nc1 Qxd4 44. Qf3 Ne5
+45. Qg3 c2 46. Nf3 Nxf3+ 47. Qxf3 Rb7 48. Ne2 Qxh4 49. Rc1 Qg5+ 50. Qg3
+Qxg3+ 51. fxg3 Rb1 52. Kf2 Rxc1 53. Nxc1 Nc6 54. Ke3 e5 55. Kd2 Nd4 56. Kc3
+Kd7 57. Nd3 Ke6 58. g4 Kf6 59. Kd2 e4 60. Nc1 Ke5 61. g5 Nf3+ 62. Kxc2 Nxg5
+63. Kd2 Nf3+ 64. Ke3 d4+ 65. Ke2 0-1
+

@@ -1,0 +1,19 @@
+[Event "corr NS/ME"]
+[Site "corr NS/ME"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Jaakamo, Harri"]
+[Black "Lehtinen, Pauli"]
+[Result "1-0"]
+[ECO "D60"]
+[Opening "QGD"]
+[Variation "Orthodox defence, Botvinnik variation"]
+[HashCode "abc1d376"]
+[Epoch "Rook"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. e3 O-O 6. Nf3 Nbd7 7. Bd3 dxc4
+8. Bxc4 c6 9. O-O Nd5 10. Bxe7 Qxe7 11. Ne4 f6 12. a3 b6 13. Rc1 Bb7 14.
+Ng3 Rac8 15. e4 Nc7 16. Nf5 Qd8 17. N3h4 Nb8 18. Qg4 Qd7 19. Rc3 Ba6 20.
+Rh3 g5 21. Bxa6 Nbxa6 22. Ne3 Qg7 23. Nhf5 Qd7 24. Nh6+ Kh8 25. e5 Qg7 26.
+exf6 1-0
+

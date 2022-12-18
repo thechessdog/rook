@@ -1,0 +1,17 @@
+[Event "corr ch16-SU"]
+[Site "corr ch16-SU"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Tsamriuk, A."]
+[Black "Levin, L."]
+[Result "0-1"]
+[ECO "E14"]
+[Opening "Queen's Indian"]
+[Variation "4.e3"]
+[HashCode "55e77f59"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. e3 Bb7 5. Bd3 c5 6. O-O Nc6 7. Nc3 d5 8.
+cxd5 Nxd5 9. Nxd5 Qxd5 10. e4 Qd7 11. Bb5 a6 12. Ne5 Qc7 13. Bxc6+ Bxc6 14.
+Nxc6 Qxc6 15. d5 Qd6 16. g4 g6 17. b4 c4 18. Bb2 e5 0-1
+

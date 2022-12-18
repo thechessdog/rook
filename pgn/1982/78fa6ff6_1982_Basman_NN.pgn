@@ -1,0 +1,17 @@
+[Event "Paris"]
+[Site "Paris"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Basman, Michael J"]
+[Black "NN"]
+[Result "1-0"]
+[ECO "C33"]
+[Opening "KGA"]
+[Variation "Carrera (Basman) gambit"]
+[HashCode "78fa6ff6"]
+[Epoch "Rook"]
+[WhiteID "400505"]
+[WhiteCountry "ENG"]
+
+1. e4 e5 2. f4 exf4 3. Qe2 Nc6 4. c3 d6 5. d4 Qh4+ 6. Kd1 g5 7. Nf3 Qh5 8. Qb5
+g4 9. Qxh5 1-0

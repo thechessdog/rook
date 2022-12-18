@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Friedrich, F."]
+[Black "Dorow, W."]
+[Result "0-1"]
+[ECO "C56"]
+[Opening "Two knights defence"]
+[HashCode "201f6022"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d4 exd4 5. O-O Nxe4 6. Re1 d5 7. Bxd5
+Qxd5 8. Nc3 Qh5 9. Nxe4 Be6 10. Bg5 Bd6 11. Nxd6+ cxd6 12. Qd2 O-O 13. Re4
+Bg4 14. Qf4 Bxf3 15. gxf3 f6 16. Bh4 g5 17. Qf5 Qg6 18. Qe6+ Qf7 19. Bg3 f5
+0-1
+

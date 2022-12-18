@@ -1,0 +1,20 @@
+[Event "Cattolica"]
+[Site "Cattolica"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Sansonetti"]
+[Black "Sibilio"]
+[Result "1-0"]
+[ECO "A69"]
+[Opening "Benoni"]
+[Variation "four pawns attack, main line"]
+[HashCode "9945f172"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. f4 Bg7 8.
+Nf3 O-O 9. Be2 Re8 10. e5 dxe5 11. fxe5 Ng4 12. O-O Nxe5 13. Bf4 Nbd7 14.
+d6 Nxf3+ 15. Bxf3 Ne5 16. Nb5 Bf5 17. Nc7 Nd3 18. Bg3 Bd4+ 19. Kh1 Nxb2 20.
+Qb3 Re3 21. Qxb7 Rb8 22. Qxa7 Nc4 23. Bd5 Nb6 24. Bxf7+ Kxf7 25. Na6+ Kg8
+26. Nxb8 Rxg3 27. Nc6 Be4 28. Qf7+ Kh8 29. hxg3 Bxc6 30. Rae1 Nc8 31. Re7
+Qg8 32. Qxg8+ Kxg8 33. d7 1-0
+

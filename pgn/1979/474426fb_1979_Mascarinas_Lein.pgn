@@ -1,0 +1,22 @@
+[Event "Brisbane"]
+[Site "Brisbane"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Mascarinas, Rico"]
+[Black "Lein, Anatoly"]
+[Result "0-1"]
+[ECO "A06"]
+[Opening "Reti"]
+[Variation "Nimzovich-Larsen attack"]
+[HashCode "474426fb"]
+[Epoch "Rook"]
+[WhiteID "5200024"]
+[WhiteCountry "PHI"]
+[BlackID "2000270"]
+[BlackCountry "USA"]
+
+1. Nf3 d5 2. b3 Bg4 3. e3 Nf6 4. Bb2 Nbd7 5. h3 Bh5 6. d3 e6 7. Nbd2 a5 8. a3
+c6 9. Be2 Bg6 10. g4 h6 11. Be5 Nxe5 12. Nxe5 Bh7 13. f4 Bd6 14. Ndf3 Nd7 15.
+Nxd7 Qxd7 16. d4 Qe7 17. a4 g5 18. fxg5 hxg5 19. Bd3 f5 20. c3 O-O-O 21. Kd2 f4
+22. Qe2 fxe3+ 23. Kxe3 Rdf8 24. Raf1 Rf4 25. Bxh7 Rxh7 26. Kd2 Re4 27. Qd3 Rf7
+28. Kc2 Ref4 29. Ne5 Bxe5 30. dxe5 Rf2+ 31. Rxf2 Rxf2+ 32. Kd1 0-1

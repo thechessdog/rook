@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Rotariu"]
+[Black "Heilemann"]
+[Result "0-1"]
+[ECO "E04"]
+[Opening "Catalan"]
+[Variation "open, 5.Nf3"]
+[HashCode "c9dd3e63"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Nf3 dxc4 5. Bg2 c5 6. O-O Nc6 7. Qa4 cxd4 8.
+Nxd4 Qxd4 9. Bxc6+ Bd7 10. Rd1 Qxd1+ 11. Qxd1 Bxc6 12. Nd2 h5 13. h3 Rd8
+14. Qc2 Bc5 15. Nxc4 Ne4 16. Ne3 Bb6 17. a4 h4 18. g4 Ng5 19. a5 Bc7 20.
+Ng2 Nxh3+ 21. Kf1 Nxf2 22. Bg5 Nxg4 0-1
+

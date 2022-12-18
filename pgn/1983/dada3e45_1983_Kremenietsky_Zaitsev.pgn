@@ -1,0 +1,17 @@
+[Event "Moscow"]
+[Site "Moscow"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Kremenietsky, Anato"]
+[Black "Zaitsev, Igor"]
+[Result "0-1"]
+[ECO "C88"]
+[Opening "Ruy Lopez"]
+[Variation "closed, anti-Marshall 8.a4"]
+[HashCode "dada3e45"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. a4
+b4 9. c3 d5 10. exd5 Nxd5 11. Nxe5 Nxe5 12. Rxe5 Nf6 13. d4 Bd6 14. Re2 Rb8 15.
+c4 Nh5 16. Nd2 Nf4 17. Re3 c5 18. d5 Qg5 19. Rg3 Qe5 20. Re3 Nh3+ 21. gxh3
+Qxh2+ 22. Kf1 Bxh3+ 23. Ke1 Rfe8 0-1

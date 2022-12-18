@@ -1,0 +1,17 @@
+[Event "Luzern olm"]
+[Site "Luzern olm"]
+[Date "1982.10.01"]
+[Round "1"]
+[White "Miheso, P."]
+[Black "Mbye, S."]
+[Result "0-1"]
+[ECO "C00"]
+[Opening "French"]
+[Variation "Steinitz attack"]
+[HashCode "f8fd2955"]
+[Epoch "Rook"]
+
+1. e4 e6 2. e5 c5 3. Nf3 d5 4. exd6 Bxd6 5. Be2 Nf6 6. d4 O-O 7. dxc5 Qa5+
+8. Bd2 Qxc5 9. Nc3 a6 10. a3 Rd8 11. O-O b5 12. Qe1 Bb7 13. Be3 Qh5 14. h3
+Nbd7 15. Nh2 Qg6 16. f3 Qxc2 17. Qh4 Nd5 0-1
+

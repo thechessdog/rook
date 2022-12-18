@@ -1,0 +1,17 @@
+[Event "corr EUR/M"]
+[Site "corr EUR/M"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Ambrosewicz, Czesla"]
+[Black "Wittmann, Walter"]
+[Result "1-0"]
+[ECO "A57"]
+[Opening "Benko gambit half accepted"]
+[HashCode "7f932a7a"]
+[Epoch "Rook"]
+[BlackID "1600060"]
+[BlackCountry "AUT"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. e3 axb5 6. Bxb5 Qa5+ 7. Nc3 e6 8.
+dxe6 fxe6 9. Qa4 Qxa4 10. Nxa4 Ra5 11. Nc3 Ba6 12. a4 Bxb5 13. Nxb5 Kf7 14. Nf3
+d6 15. O-O g6 16. Rd1 Ra6 17. Nd2 Be7 18. Nc4 Rd8 19. f3 1-0

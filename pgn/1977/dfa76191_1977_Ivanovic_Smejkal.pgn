@@ -1,0 +1,23 @@
+[Event "Bar"]
+[Site "Bar"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Ivanovic, Bozidar"]
+[Black "Smejkal, Jan"]
+[Result "1-0"]
+[ECO "C79"]
+[Opening "Ruy Lopez"]
+[Variation "Steinitz defence deferred (Russian defence)"]
+[HashCode "dfa76191"]
+[Epoch "Rook"]
+[BlackID "300020"]
+[BlackCountry "CZE"]
+[WhiteID "900095"]
+[WhiteCountry "MNE"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O d6 6. Re1 Bd7 7. Bxc6 Bxc6 8.
+Nc3 Be7 9. d4 exd4 10. Nxd4 Bd7 11. Qf3 O-O 12. h3 Re8 13. b3 h6 14. Bf4 c5 15.
+Nf5 Bxf5 16. exf5 Qd7 17. Nd5 Nxd5 18. Qxd5 Qc6 19. Rad1 Bf8 20. Re3 Rxe3 21.
+fxe3 Rc8 22. c4 Qxd5 23. Rxd5 Rc6 24. Kf2 b5 25. Kf3 g5 26. Bg3 Rb6 27. Rd2
+bxc4 28. bxc4 Kg7 29. Bh2 Kf6 30. e4 Be7 31. e5+ dxe5 32. Ke4 Kg7 33. Bxe5+ f6
+34. Rb2 Rc6 35. Kd5 Rc8 36. Rb8 Rxb8 37. Bxb8 h5 38. g4 1-0

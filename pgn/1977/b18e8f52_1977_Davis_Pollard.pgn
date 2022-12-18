@@ -1,0 +1,17 @@
+[Event "corr GB"]
+[Site "corr GB"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Davis, L."]
+[Black "Pollard, A."]
+[Result "1-0"]
+[ECO "B16"]
+[Opening "Caro-Kann"]
+[Variation "Bronstein-Larsen variation"]
+[HashCode "b18e8f52"]
+[Epoch "Rook"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ gxf6 6. Bc4 Bf5 7. Ne2
+e6 8. Nf4 Rg8 9. Qe2 Qd6 10. d5 Kd7 11. dxe6+ fxe6 12. O-O Qe5 13. Rd1+ Bd6
+14. Be3 Ke7 15. Rxd6 Kxd6 16. Nd3 Bxd3 17. Qxd3+ Ke7 18. Qxh7+ 1-0
+

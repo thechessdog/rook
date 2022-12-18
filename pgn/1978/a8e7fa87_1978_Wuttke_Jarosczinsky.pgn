@@ -1,0 +1,20 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Wuttke"]
+[Black "Jarosczinsky"]
+[Result "1-0"]
+[ECO "B17"]
+[Opening "Caro-Kann"]
+[Variation "Steinitz variation"]
+[HashCode "a8e7fa87"]
+[Epoch "Rook"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Ng3 Qc7 7. Bd3 e6
+8. Qe2 c5 9. O-O Be7 10. c4 cxd4 11. Nxd4 O-O 12. b3 b6 13. Bb2 Bb7 14.
+Rae1 Rfe8 15. Bb1 Rad8 16. Kh1 Nf8 17. f4 Ng6 18. Nb5 Qb8 19. Be5 Nxe5 20.
+fxe5 Bb4 21. Rd1 Nd7 22. Bxh7+ Kxh7 23. Qh5+ Kg8 24. Qxf7+ Kh8 25. Rd4 Be7
+26. Rff4 Nf8 27. Rh4+ Bxh4 28. Rxh4+ Nh7 29. Qh5 Rd1+ 30. Qxd1 Re7 31. Rd4
+Qxe5 32. Rd8+ Nf8 33. Rxf8+ Kh7 34. Nf5 Bf3 35. Nxe7 1-0
+

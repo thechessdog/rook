@@ -1,0 +1,18 @@
+[Event "corr DDR/FS"]
+[Site "corr DDR/FS"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Greiser"]
+[Black "Dueckstein, Andreas"]
+[Result "1-0"]
+[ECO "B13"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack"]
+[HashCode "1dd635a6"]
+[Epoch "Rook"]
+[BlackID "1600168"]
+[BlackCountry "AUT"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nc6 5. cxd5 Qxd5 6. Nf3 Bg4 7. Be2 e6 8.
+Nc3 Bb4 9. O-O Bxc3 10. bxc3 Nf6 11. c4 Qd7 12. Ba3 Rc8 13. d5 Na5 14. Rc1 exd5
+15. Ne5 Bxe2 16. Qxe2 Qe6 17. cxd5 1-0

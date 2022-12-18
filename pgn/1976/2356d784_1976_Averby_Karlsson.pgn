@@ -1,0 +1,18 @@
+[Event "corr SWE/K tt"]
+[Site "corr SWE/K tt"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Averby, Rune"]
+[Black "Karlsson, Evert"]
+[Result "1-0"]
+[ECO "C67"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence, open variation"]
+[HashCode "2356d784"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6 dxc6 7. dxe5
+Nf5 8. Qxd8+ Kxd8 9. Nc3 h6 10. b3 Be6 11. Bb2 Be7 12. Ne4 Ke8 13. c4 g5
+14. h3 Kf8 15. g4 Ng7 16. Kg2 Ne8 17. Nd4 Kg7 18. Nf5+ Bxf5 19. gxf5 f6 20.
+Rad1 Kf8 21. Rd7 fxe5 22. Bxe5 Rg8 23. c5 1-0
+

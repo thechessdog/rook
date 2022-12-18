@@ -1,0 +1,17 @@
+[Event "Reykjavik"]
+[Site "Reykjavik"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Karlsson, Agust S"]
+[Black "Bergmann, Throstur"]
+[Result "1/2-1/2"]
+[ECO "A00"]
+[Opening "Benko's opening"]
+[HashCode "4cc1d532"]
+[Epoch "Rook"]
+[WhiteID "2300419"]
+[WhiteCountry "ISL"]
+
+1. g3 Nf6 2. Bg2 e6 3. Nf3 b6 4. d3 d5 5. O-O Bb7 6. Nbd2 Be7 7. e4 dxe4 8. Ng5
+O-O 9. Ndxe4 Nxe4 10. Nxe4 Qc8 11. Re1 Nd7 12. Bd2 Nf6 13. Bc3 Nxe4 14. dxe4
+Rd8 15. Qg4 Bf8 16. Rad1 Rxd1 17. Rxd1 Qe8 18. Bf1 Rd8 19. Rxd8 Qxd8 1/2-1/2

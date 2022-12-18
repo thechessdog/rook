@@ -1,0 +1,16 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Alesio"]
+[Black "Dubini"]
+[Result "0-1"]
+[ECO "A00"]
+[Opening "Grob"]
+[Variation "Fritz gambit"]
+[HashCode "8e086c4d"]
+[Epoch "Rook"]
+
+1. g4 d5 2. Bg2 Bxg4 3. c4 c6 4. cxd5 cxd5 5. Qb3 Nf6 6. Qxb7 Nbd7 7. d3 e6
+8. Bg5 a5 9. b3 Be7 10. Nf3 O-O 11. O-O Nc5 12. Qb5 Rb8 13. Qc6 Rb6 0-1
+

@@ -1,0 +1,18 @@
+[Event "Dortmund"]
+[Site "Dortmund"]
+[Date "1977.05.01"]
+[Round "11"]
+[White "Vadasz, Laszlo"]
+[Black "Smejkal, Jan"]
+[Result "1/2-1/2"]
+[ECO "A34"]
+[Opening "English"]
+[Variation "symmetrical, three knights system"]
+[HashCode "f57bef77"]
+[Epoch "Rook"]
+[BlackID "300020"]
+[BlackCountry "CZE"]
+[WhiteCountry "HUN"]
+
+1. Nf3 c5 2. c4 Nf6 3. Nc3 d5 4. cxd5 Nxd5 5. e3 Nxc3 6. bxc3 g6 7. d4 Bg7 8.
+Be2 O-O 9. O-O Nc6 10. Ba3 1/2-1/2

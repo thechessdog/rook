@@ -1,0 +1,22 @@
+[Event "corr DDR-H"]
+[Site "corr DDR-H"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Kahn, P."]
+[Black "Geisensetter, K."]
+[Result "1-0"]
+[ECO "C08"]
+[Opening "French"]
+[Variation "Tarrasch, open, 4.ed ed"]
+[HashCode "84b4a6ba"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. exd5 exd5 5. Ngf3 Nf6 6. Bb5+ Bd7 7. Bxd7+
+Nbxd7 8. O-O Be7 9. dxc5 Nxc5 10. Nd4 O-O 11. Nf5 Nce4 12. Nb3 Re8 13. Be3
+Qd7 14. Qf3 b6 15. Nxe7+ Rxe7 16. Nd4 Ree8 17. h3 Nc5 18. Rfd1 Qb7 19. Nf5
+Nfe4 20. Qg4 Ne6 21. Bd4 g6 22. Ne3 Rad8 23. c3 Qc7 24. Nxd5 Rxd5 25. Qxe4
+Red8 26. Rd2 Nxd4 27. cxd4 Qc4 28. b3 Qc6 29. Re1 a5 30. Qf3 Kg7 31. Re7
+Qf6 32. Qxf6+ Kxf6 33. Rb7 b5 34. Ra7 b4 35. Rc2 g5 36. g4 h5 37. Rc6+ Kg7
+38. Rc5 Rxc5 39. dxc5 hxg4 40. hxg4 Rd4 41. Rxa5 Rxg4+ 42. Kf1 Rh4 43. c6
+f6 44. Rc5 Rh8 45. c7 Rc8 46. Ke2 Kf7 47. Kd3 1-0
+

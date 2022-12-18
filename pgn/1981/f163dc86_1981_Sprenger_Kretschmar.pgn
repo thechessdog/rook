@@ -1,0 +1,23 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Sprenger, Ernst"]
+[Black "Kretschmar, Heinz"]
+[Result "1-0"]
+[ECO "C58"]
+[Opening "two knights defence"]
+[Variation "Yankovich variation"]
+[HashCode "f163dc86"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 Na5 6. d3 h6 7. Nf3 e4 8.
+Qe2 Nxc4 9. dxc4 Bc5 10. Nfd2 O-O 11. Nb3 Bg4 12. Qf1 Bb4+ 13. c3 Be7 14.
+Be3 Nd7 15. N1d2 f5 16. f3 Bh5 17. O-O-O Ne5 18. Kb1 b5 19. cxb5 a6 20. Nc5
+axb5 21. Qxb5 Rb8 22. Qe2 Bxc5 23. Bxc5 Nd3 24. Nb3 Rxb3 25. Rxd3 exd3 26.
+Qxd3 Rb8 27. Bxf8 Qxf8 28. Re1 Re8 29. Rxe8 Qxe8 30. b3 Qd7 31. a4 Qd6 32.
+h3 f4 33. Ka2 Bf7 34. c4 c6 35. Qd4 Kf8 36. Qb6 Be8 37. a5 Ke7 38. Qb7+ Bd7
+39. a6 Qc5 40. dxc6 Qa5+ 41. Kb1 Qe1+ 42. Kc2 Qe2+ 43. Kc3 Qe1+ 44. Kd4
+Qd2+ 45. Kc5 Qa5+ 46. Qb5 Qc7 47. Kb4 Bxc6 48. Qc5+ Kd7 49. Kc3 Ba8 50.
+Qxc7+ Kxc7 51. b4 Kb6 52. b5 Kc5 53. Kb3 g5 54. Ka4 h5 55. Ka5 1-0
+

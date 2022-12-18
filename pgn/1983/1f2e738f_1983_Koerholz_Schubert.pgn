@@ -1,0 +1,23 @@
+[Event "Bundesliga 8283"]
+[Site "Duitsland tt"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Koerholz, Ludger"]
+[Black "Schubert, Christian"]
+[Result "0-1"]
+[ECO "E98"]
+[Opening "King's Indian"]
+[Variation "orthodox, Aronin-Taimanov, 9.Ne1"]
+[HashCode "1f2e738f"]
+[Epoch "Rook"]
+[WhiteID "4605993"]
+[WhiteCountry "GER"]
+[BlackID "12906379"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. O-O Nc6 8. d5
+Ne7 9. Ne1 Nd7 10. Nd3 f5 11. f3 Nf6 12. Bd2 c6 13. b4 Bd7 14. Qb3 cxd5 15.
+cxd5 Kh8 16. Nf2 Nh5 17. a4 Nf4 18. Bb5 fxe4 19. fxe4 Ng8 20. Bxd7 Qxd7 21. Be3
+Bh6 22. Rfe1 Nf6 23. h3 Bg5 24. Kh2 N6h5 25. g3 Nxg3 26. Kxg3 Nxh3 27. Ncd1
+Bh4+ 28. Kg2 g5 29. Rc1 g4 30. Rh1 Qf7 31. Rxh3 gxh3+ 32. Kxh3 Rg8 33. Kxh4
+Qf6+ 34. Bg5 Qxg5+ 35. Kh3 0-1

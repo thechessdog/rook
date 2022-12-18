@@ -1,0 +1,20 @@
+[Event "Lodz"]
+[Site "Lodz"]
+[Date "1979.01.01"]
+[Round "13"]
+[White "Lukacs, Peter"]
+[Black "Luczak, Andrzej"]
+[Result "1/2-1/2"]
+[ECO "E56"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line with 7...Nc6"]
+[HashCode "e35e57f0"]
+[Epoch "Rook"]
+[WhiteID "700142"]
+[WhiteCountry "HUN"]
+[BlackID "1100700"]
+[BlackCountry "POL"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 d5 6. Nf3 O-O 7. O-O Nc6 8. a3
+dxc4 9. Bxc4 Ba5 10. Bd3 Qe7 11. Ne4 Nxe4 12. Bxe4 Rd8 13. Qa4 Bb6 14. dxc5
+Qxc5 15. b4 Qc4 16. Qc2 Qxc2 17. Bxc2 f6 18. Bb2 e5 19. Bb3+ 1/2-1/2

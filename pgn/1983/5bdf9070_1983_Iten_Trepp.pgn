@@ -1,0 +1,20 @@
+[Event "Zug"]
+[Site "Zug"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Iten, Peter"]
+[Black "Trepp, Markus"]
+[Result "0-1"]
+[ECO "B66"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...a6"]
+[HashCode "5bdf9070"]
+[Epoch "Rook"]
+[WhiteID "1300628"]
+[WhiteCountry "SUI"]
+[BlackCountry "CHE"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd2 a6 8.
+O-O-O h6 9. Bf4 Bd7 10. Nxc6 Bxc6 11. Qe1 Qa5 12. h4 Rd8 13. Rh3 Be7 14. Rhd3
+Qc7 15. f3 b5 16. g4 b4 17. Ne2 e5 18. Bh2 Rc8 19. R1d2 Nd7 20. g5 hxg5 21. Ng3
+Nc5 22. Re3 Bd7 23. Bc4 Rxh4 0-1

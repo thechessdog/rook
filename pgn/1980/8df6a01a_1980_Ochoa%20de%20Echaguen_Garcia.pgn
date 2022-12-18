@@ -1,0 +1,19 @@
+[Event "Capablanca mem-B"]
+[Site "Cienfuegos"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Ochoa de Echaguen, F Javier"]
+[Black "Garcia, Gildardo"]
+[Result "1/2-1/2"]
+[ECO "B52"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky attack, Sokolsky variation"]
+[HashCode "8df6a01a"]
+[Epoch "Rook"]
+[BlackID "4400020"]
+[BlackCountry "COL"]
+[WhiteCountry "ESP"]
+[WhiteID "2200210"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Qxd7 5. c4 Nc6 6. O-O g6 7. d4 cxd4 8.
+Nxd4 Bg7 9. Be3 Nf6 10. f3 Rc8 11. Nc3 1/2-1/2

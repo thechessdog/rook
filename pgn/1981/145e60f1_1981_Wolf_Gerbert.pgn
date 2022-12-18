@@ -1,0 +1,21 @@
+[Event "Bundesliga 8081"]
+[Site "Duitsland tt"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Wolf, Volker"]
+[Black "Gerbert, Philipp"]
+[Result "1/2-1/2"]
+[ECO "B91"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Zagreb (fianchetto) variation"]
+[HashCode "145e60f1"]
+[Epoch "Rook"]
+[WhiteID "4602862"]
+[WhiteCountry "GER"]
+[BlackID "4608151"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. g3 e5 7. Nde2 Nbd7 8. a4
+b6 9. Bg2 Bb7 10. h3 Be7 11. g4 Nc5 12. Ng3 g6 13. O-O O-O 14. Re1 Re8 15. Be3
+Rc8 16. Qd2 Bf8 17. Rad1 Qc7 18. Bg5 Nfd7 19. Bh6 Be7 20. Re3 Nf8 21. Nce2 Nfe6
+22. f4 exf4 23. Nxf4 Nxf4 24. Bxf4 Rcd8 25. Re2 Ne6 26. Be3 Bf6 1/2-1/2

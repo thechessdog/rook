@@ -1,0 +1,23 @@
+[Event "IBM-B"]
+[Site "Amsterdam"]
+[Date "1980.??.??"]
+[Round "?"]
+[White "Sznapik, Aleksander"]
+[Black "Borm, Franciscus WM"]
+[Result "1-0"]
+[ECO "C95"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Breyer, Borisenko variation"]
+[HashCode "78575e22"]
+[Epoch "Rook"]
+[WhiteID "1100050"]
+[WhiteCountry "POL"]
+[BlackCountry "NLD"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. h3 Nb8 10. d4 Nbd7 11. Nbd2 Bb7 12. Bc2 Re8 13. a4 Bf8 14. b4 Nb6 15. a5
+Nbd7 16. Bb2 g6 17. Qb1 Nh5 18. Qa2 c5 19. Rad1 Qc7 20. bxc5 dxc5 21. Nxe5 Nxe5
+22. dxe5 Qxe5 23. c4 Qc7 24. Nf1 Rad8 25. Rxd8 Qxd8 26. cxb5 axb5 27. a6 Ba8
+28. Ne3 c4 29. Ba1 Qb6 30. Rd1 Rd8 31. Rxd8 Qxd8 32. Bd1 Nf4 33. Bf3 Ne6 34.
+Nd5 Bg7 35. Bxg7 Nxg7 36. a7 Ne6 37. Qa1 Ng5 38. Qe5 Nxf3+ 39. gxf3 f5 40. Qb8
+Qf8 41. Qxb5 fxe4 42. fxe4 Kg7 43. Qxc4 1-0

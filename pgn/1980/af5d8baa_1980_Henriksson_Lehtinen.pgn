@@ -1,0 +1,21 @@
+[Event "corr NS/ME"]
+[Site "corr NS/ME"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Henriksson, Per"]
+[Black "Lehtinen, Pauli"]
+[Result "1-0"]
+[ECO "D28"]
+[Opening "QGA"]
+[Variation "classical, 7.Qe2"]
+[HashCode "af5d8baa"]
+[Epoch "Rook"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. e3 e6 5. Bxc4 c5 6. O-O a6 7. Qe2 Nc6 8.
+Rd1 b5 9. dxc5 Qc7 10. Bb3 Bxc5 11. a4 b4 12. Nbd2 O-O 13. Nf1 Na5 14. Bc2
+Bb7 15. b3 Rac8 16. Bb2 Bxf3 17. gxf3 Qb6 18. f4 Ne8 19. Ng3 f5 20. Rac1
+Rf7 21. Be5 Nc6 22. Ba1 Nd6 23. Bd3 a5 24. Kh1 Ne7 25. Rg1 Qc6+ 26. Rg2 Ng6
+27. Qh5 Qd5 28. Be2 Ne4 29. Bf3 Qd3 30. Bxe4 fxe4 31. Rcg1 Qd5 32. Qg4 Be7
+33. Rd1 Qc6 34. f5 exf5 35. Nxf5 Bf8 36. Nd4 Qe8 37. Ne6 Re7 38. Ng5 h6 39.
+Nh3 Rc6 40. Ng1 Qf7 41. Ne2 Qf3 42. Nd4 Qxg4 43. Rxg4 Ra6 44. Nb5 1-0
+

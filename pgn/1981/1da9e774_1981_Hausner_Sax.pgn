@@ -1,0 +1,19 @@
+[Event "Banja Luka"]
+[Site "Banja Luka"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Hausner, Ivan"]
+[Black "Sax, Gyula"]
+[Result "1/2-1/2"]
+[ECO "A31"]
+[Opening "English"]
+[Variation "symmetrical, Benoni formation"]
+[HashCode "1da9e774"]
+[Epoch "Rook"]
+[WhiteID "300110"]
+[WhiteCountry "CZE"]
+[BlackCountry "HUN"]
+
+1. d4 Nf6 2. c4 c5 3. Nf3 cxd4 4. Nxd4 e5 5. Nb5 d5 6. cxd5 Bc5 7. e3 O-O 8.
+N5c3 e4 9. Nd2 Re8 10. g3 Bf5 11. Bg2 Nbd7 12. O-O Rc8 13. Nb3 Bg4 14. Qc2 Bb4
+15. Nd4 Nb6 16. Bd2 Qd7 17. Rfc1 h5 1/2-1/2

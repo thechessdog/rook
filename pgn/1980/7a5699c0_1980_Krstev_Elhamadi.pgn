@@ -1,0 +1,22 @@
+[Event "Verona"]
+[Site "Verona"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Krstev"]
+[Black "Elhamadi"]
+[Result "1-0"]
+[ECO "B98"]
+[Opening "Sicilian"]
+[Variation "Najdorf variation"]
+[HashCode "7a5699c0"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8.
+Qf3 Qc7 9. O-O-O h6 10. Bh4 Nbd7 11. g4 g5 12. Bg3 gxf4 13. Bh4 Ne5 14.
+Qxf4 Ng6 15. Qf2 Nxh4 16. Qxh4 Nxe4 17. Qe1 Nxc3 18. bxc3 Qc5 19. Kb2 Bd7
+20. Bg2 Bc6 21. Bxc6+ bxc6 22. Rf1 Rb8+ 23. Ka1 Qa3 24. Rb1 Rxb1+ 25. Kxb1
+Kd7 26. Rxf7 Rb8+ 27. Nb3 a5 28. Qe3 Rb7 29. Qxh6 d5 30. Qh8 Qc5 31. Qa8
+Qb6 32. Kc1 Qg1+ 33. Kb2 Qb6 34. Qf8 Qc5 35. g5 a4 36. Qa8 a3+ 37. Kc1 Qg1+
+38. Kd2 Qxg5+ 39. Ke2 Qe5+ 40. Kf1 Rc7 41. Nc5+ Kd6 42. Nb7+ Rxb7 43. Qxb7
+Qg5 44. Qb4+ Kd7 45. Qxa3 c5 46. Qa7+ 1-0
+

@@ -1,0 +1,19 @@
+[Event "Budapest"]
+[Site "Budapest"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Makropoulos, Georgios"]
+[Black "Hausner, Ivan"]
+[Result "1/2-1/2"]
+[ECO "C03"]
+[Opening "French"]
+[Variation "Tarrasch"]
+[HashCode "6a5cba4f"]
+[Epoch "Rook"]
+[WhiteID "4200047"]
+[WhiteCountry "GRE"]
+[BlackID "300110"]
+[BlackCountry "CZE"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Be7 4. c3 dxe4 5. Nxe4 Nd7 6. Bd3 Ngf6 7. Nxf6+ Nxf6
+8. Nf3 O-O 9. O-O b6 1/2-1/2

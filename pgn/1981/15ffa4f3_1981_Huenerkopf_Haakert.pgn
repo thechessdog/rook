@@ -1,0 +1,23 @@
+[Event "Bundesliga 8081"]
+[Site "Duitsland tt"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Huenerkopf, Heinz"]
+[Black "Haakert, Juergen"]
+[Result "0-1"]
+[ECO "B04"]
+[Opening "Alekhine's defence"]
+[Variation "modern variation"]
+[HashCode "15ffa4f3"]
+[Epoch "Rook"]
+[WhiteID "4603443"]
+[WhiteCountry "GER"]
+[BlackID "4602277"]
+[BlackCountry "GER"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. Nf3 Nc6 5. c4 Nb6 6. e6 fxe6 7. Ng5 e5 8. Bd3
+g6 9. Nxh7 Bf5 10. Bxf5 gxf5 11. Qh5+ Kd7 12. Qxf5+ e6 13. Nxf8+ Qxf8 14. Qxf8
+Raxf8 15. dxe5 Nxc4 16. O-O Nd4 17. Nc3 Nxe5 18. Rd1 c5 19. Be3 Nec6 20. Rac1
+e5 21. h3 Ke6 22. Kf1 d5 23. Bxd4 Nxd4 24. Rd2 b5 25. b3 Rh7 26. Ne2 Nxe2 27.
+Rxe2 c4 28. Kg1 Rc8 29. Rce1 e4 30. f3 c3 31. Rc2 b4 32. Kf2 Ke5 33. fxe4 d4
+34. Ke2 Rg8 0-1

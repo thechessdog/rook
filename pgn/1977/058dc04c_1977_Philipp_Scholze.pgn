@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Philipp, H."]
+[Black "Scholze, J."]
+[Result "1-0"]
+[ECO "C15"]
+[Opening "French"]
+[Variation "Winawer, Alekhine (Maroczy) gambit"]
+[HashCode "058dc04c"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. Ne2 Ne7 5. a3 Ba5 6. b4 Bb6 7. Bb2 a5 8. b5
+a4 9. Ng3 Ba5 10. Qg4 c5 11. dxc5 Qc7 12. O-O-O Bxc3 13. Bxc3 Qxc5 14. Bb4
+Qc7 15. Qxg7 Rg8 16. Qxh7 Qe5 17. exd5 exd5 18. Re1 Qa1+ 19. Kd2 Qd4+ 20.
+Bd3 Be6 21. Rxe6 1-0
+

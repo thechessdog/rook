@@ -1,0 +1,19 @@
+[Event "Torquay ch-BCF"]
+[Site "Torquay ch-BCF"]
+[Date "1982.08.01"]
+[Round "1"]
+[White "Povah, Nigel E"]
+[Black "Clarke, Thomas"]
+[Result "1-0"]
+[ECO "A86"]
+[Opening "Dutch"]
+[Variation "Leningrad variation"]
+[HashCode "960009dd"]
+[Epoch "Rook"]
+[WhiteID "400467"]
+[WhiteCountry "ENG"]
+
+1. d4 f5 2. c4 Nf6 3. g3 g6 4. Bg2 Bg7 5. Nh3 O-O 6. Nc3 Nc6 7. O-O d6 8. Nf4
+g5 9. d5 Ne5 10. Ne6 Bxe6 11. dxe6 g4 12. Bxb7 Rb8 13. Bg2 Nxc4 14. Qd3 Nxb2
+15. Qxf5 Nc4 16. Bf4 Qe8 17. Qd3 Nb6 18. a4 c5 19. a5 Na8 20. Rab1 Qg6 21. Rxb8
+Rxb8 22. Qa6 Qe8 23. Qxa7 Nh5 24. Nd5 Nxf4 25. Nxe7+ Kh8 26. gxf4 1-0

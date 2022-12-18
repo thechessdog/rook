@@ -1,0 +1,21 @@
+[Event "corr WER/C"]
+[Site "corr WER/C"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Redwanz, H."]
+[Black "Anton, Volker"]
+[Result "0-1"]
+[ECO "A76"]
+[Opening "Benoni"]
+[Variation "classical, 9...Re8"]
+[HashCode "c40aaa2e"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 c5 3. d5 d6 4. Nc3 g6 5. e4 Bg7 6. Nf3 O-O 7. Be2 e6 8. O-O
+exd5 9. cxd5 Re8 10. Qc2 Na6 11. Bf4 Nb4 12. Qb1 Nh5 13. Bg5 f6 14. Bh4 g5
+15. Bg3 f5 16. Nd2 g4 17. Bb5 Rf8 18. exf5 Bxf5 19. Qd1 Nc2 20. Rc1 Nxg3
+21. hxg3 Nd4 22. Bc4 h5 23. Nb3 h4 24. Bd3 hxg3 25. Bxf5 Nf3+ 26. gxf3 Qh4
+27. Be6+ Kh8 28. fxg3 Qxg3+ 29. Kh1 Rf6 30. Qd2 Rh6+ 31. Qxh6+ Bxh6 32. Ne4
+Qh3+ 33. Kg1 Be3+ 34. Rf2 Qxf3 35. Nbd2 Bxf2+ 36. Nxf2 Qg3+ 37. Kf1 Rf8 38.
+Ne4 Qf3 39. Bxg4 Qxe4 0-1
+

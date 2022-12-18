@@ -1,0 +1,25 @@
+[Event "corr Perfors mem"]
+[Site "corr Perfors mem"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Grzeskowiak"]
+[Black "Lagland"]
+[Result "1-0"]
+[ECO "E54"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Gligoric system with 7...dc"]
+[HashCode "a2011dfa"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 O-O 6. Nf3 d5 7. O-O dxc4 8.
+Bxc4 Nc6 9. Bd3 Qe7 10. a3 Bxc3 11. bxc3 e5 12. Nxe5 Nxe5 13. dxe5 Qxe5 14.
+Qc2 c4 15. Bxc4 Ng4 16. f4 Qc5 17. Qd3 Re8 18. Qd4 Qxd4 19. exd4 Bd7 20.
+Bd3 Rac8 21. Bd2 Ne3 22. Rfe1 Nc4 23. Bxc4 Rxc4 24. Rab1 Rxe1+ 25. Rxe1 Kf8
+26. Kf2 Bc6 27. g4 h6 28. Re5 f6 29. Re3 Bd5 30. g5 hxg5 31. fxg5 fxg5 32.
+Re5 Bf7 33. Rxg5 Rc6 34. Kf3 a6 35. Ke4 Re6+ 36. Kd3 b5 37. Bf4 Bg6+ 38.
+Kd2 Be4 39. d5 Re8 40. d6 Bc6 41. Kd3 Bd7 42. Kd4 Kf7 43. Rc5 a5 44. a4 b4
+45. cxb4 axb4 46. a5 Rb8 47. Rc7 Ke6 48. a6 b3 49. a7 Rb4+ 50. Rc4 Rxc4+
+51. Kxc4 b2 52. a8=Q b1=Q 53. Qd5+ Kf6 54. Qg5+ Kf7 55. Qe7+ Kg6 56. Qxd7
+Qe4+ 57. Kb5 Qd5+ 58. Ka6 Qa2+ 59. Kb7 Qb3+ 60. Kc8 Qg8+ 61. Kc7 Qc4+ 62.
+Qc6 Qxf4 63. Kb7 Qb4+ 64. Kc8 Qg4+ 65. d7+ Kh7 66. Qd5 1-0
+

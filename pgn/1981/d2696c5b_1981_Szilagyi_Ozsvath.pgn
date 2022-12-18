@@ -1,0 +1,18 @@
+[Event "Elekes mem-A"]
+[Site "Budapest"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Szilagyi, Gyorgy"]
+[Black "Ozsvath, Andras"]
+[Result "1/2-1/2"]
+[ECO "C01"]
+[Opening "French"]
+[Variation "exchange variation"]
+[HashCode "d2696c5b"]
+[Epoch "Rook"]
+[WhiteCountry "HUN"]
+[BlackCountry "HUN"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. Nf3 Nf6 5. Bd3 Be7 6. O-O O-O 7. Bg5 Bg4 8.
+Nbd2 Nbd7 9. c3 c6 10. Re1 Re8 11. Qc2 h6 12. Bh4 Nh5 13. Bxe7 Rxe7 14. Bf5
+Bxf5 15. Qxf5 Nhf6 16. Rxe7 Qxe7 17. Re1 Qd6 18. h3 Re8 19. Rxe8+ Nxe8 1/2-1/2

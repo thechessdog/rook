@@ -1,0 +1,19 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Varlamov, Viachesla"]
+[Black "Shulman, Vladlen"]
+[Result "1-0"]
+[ECO "B01"]
+[Opening "Scandinavian"]
+[Variation "Marshall variation"]
+[HashCode "dcf8fd4e"]
+[Epoch "Rook"]
+[BlackID "11600187"]
+[BlackCountry "LAT"]
+
+1. e4 d5 2. exd5 Nf6 3. d4 Nxd5 4. Nf3 Bg4 5. c4 Nb6 6. c5 N6d7 7. Bg5 Nf6 8.
+Nbd2 Nbd7 9. Qb3 Qc8 10. Bc4 e6 11. O-O Be7 12. Ne5 Bf5 13. f4 h6 14. Bh4 Ne4
+15. Nxe4 Nxe5 16. fxe5 Bxh4 17. Rxf5 exf5 18. Bxf7+ Ke7 19. Nd6 cxd6 20. cxd6+
+Kd8 21. e6 Rf8 22. Re1 Bxe1 23. e7+ Kd7 24. Qe6+ Kc6 25. d7+ 1-0

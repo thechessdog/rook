@@ -1,0 +1,20 @@
+[Event "corr EU"]
+[Site "corr EU"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Noria, J."]
+[Black "Bryntse"]
+[Result "1-0"]
+[ECO "B40"]
+[Opening "Sicilian"]
+[Variation "Pin, Koch variation"]
+[HashCode "43cc1a3e"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Bb4 6. e5 Nd5 7. Qg4 Kf8
+8. Bd2 d6 9. f4 h5 10. Qg3 h4 11. Qf3 dxe5 12. fxe5 Qc7 13. Nxd5 Bxd2+ 14.
+Kxd2 exd5 15. Qxd5 Rh5 16. Re1 Nd7 17. Nb5 Qc6 18. Qd4 a6 19. Nc3 Kg8 20.
+e6 Qb6 21. exf7+ Kf8 22. Qf4 Ne5 23. Bd3 Qd6 24. g4 Be6 25. Rhf1 Nc4+ 26.
+Kc1 Re5 27. Ne4 Qd4 28. Bxc4 Bxc4 29. c3 Qd5 30. Nd6 Be2 31. Rf2 Qe6 32.
+Nf5 1-0
+

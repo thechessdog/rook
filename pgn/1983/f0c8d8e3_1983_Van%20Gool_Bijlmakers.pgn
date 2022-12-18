@@ -1,0 +1,23 @@
+[Event "Venlo"]
+[Site "Venlo"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Van Gool, R."]
+[Black "Bijlmakers, H."]
+[Result "1-0"]
+[ECO "B52"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky attack, 3...Bd7"]
+[HashCode "f0c8d8e3"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Nxd7 5. Nc3 Ngf6 6. b3 e6 7. Bb2 g6
+8. d3 Bg7 9. Ne2 O-O 10. Rb1 b5 11. Qd2 a5 12. a4 bxa4 13. bxa4 Rb8 14. c4
+Rb4 15. Nc3 Nb6 16. Qc2 Qd7 17. Ra1 Ne8 18. O-O Bxc3 19. Bxc3 Rxa4 20. Rxa4
+Qxa4 21. Qxa4 Nxa4 22. Bxa5 Nb2 23. Bd8 f6 24. Ne1 Rf7 25. f4 Ra7 26. Rf2
+Nd1 27. Rd2 Ra1 28. Kf1 Kf7 29. Nc2 Ne3+ 30. Ke2 Nxc2 31. Rxc2 g5 32. fxg5
+Ra8 33. Bxf6 Nxf6 34. gxf6 Kxf6 35. Rb2 Ke5 36. Ke3 Ra1 37. g3 Re1+ 38. Re2
+Rg1 39. Rf2 Re1+ 40. Kd2 Ra1 41. Kc3 Ra3+ 42. Kd2 Kd4 43. Rf3 Ra2+ 44. Ke1
+Rxh2 45. Kd1 Kc3 46. Ke1 Rd2 47. d4+ Rd3 48. Rxd3+ Kxd3 49. e5 d5 50. dxc5
+dxc4 51. Kd1 Ke4 52. c6 Kxe5 1-0
+

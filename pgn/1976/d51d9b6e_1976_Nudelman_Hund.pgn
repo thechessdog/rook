@@ -1,0 +1,20 @@
+[Event "Stockholm"]
+[Site "Stockholm"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Nudelman, L."]
+[Black "Hund, Barbara"]
+[Result "0-1"]
+[ECO "C85"]
+[Opening "Ruy Lopez"]
+[Variation "Exchange variation doubly deferred (DERLD)"]
+[HashCode "d51d9b6e"]
+[Epoch "Rook"]
+[BlackID "1301446"]
+[BlackCountry "SUI"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Bxc6 dxc6 7. d3 Nd7 8.
+Nbd2 O-O 9. Nc4 f6 10. Ne3 Nc5 11. Nf5 Ne6 12. N3h4 Nd4 13. f4 Bxf5 14. exf5
+Qd7 15. Qh5 Qe8 16. Qg4 Nxc2 17. fxe5 Bc5+ 18. Kh1 Nxa1 19. Bh6 Qe7 20. Rxa1
+fxe5 21. Rf1 Qd7 22. Rf3 Rf7 23. Qh5 e4 24. Rg3 Bf2 25. Bxg7 Bxg3 26. hxg3 Rxg7
+27. f6 Qf7 28. Qh6 Rg6 29. Nxg6 Qxg6 30. f7+ Kxf7 0-1

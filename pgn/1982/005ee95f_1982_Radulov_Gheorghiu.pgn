@@ -1,0 +1,20 @@
+[Event "Baile Herculane zt"]
+[Site "Baile Herculane zt"]
+[Date "1982.01.01"]
+[Round "5"]
+[White "Radulov, Ivan"]
+[Black "Gheorghiu, Florin"]
+[Result "1/2-1/2"]
+[ECO "B42"]
+[Opening "Sicilian"]
+[Variation "Kan, 5.Bd3"]
+[HashCode "005ee95f"]
+[Epoch "Rook"]
+[WhiteID "2900300"]
+[WhiteCountry "FID"]
+[BlackID "1200011"]
+[BlackCountry "ROU"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Nf6 6. O-O d6 7. c4 Be7 8. Nc3
+O-O 9. Qe2 b6 10. Be3 Bb7 11. f4 Nc6 12. Rac1 Nxd4 13. Bxd4 Nd7 14. Kh1 Bf6 15.
+Bxf6 Qxf6 16. Qe3 Rab8 1/2-1/2

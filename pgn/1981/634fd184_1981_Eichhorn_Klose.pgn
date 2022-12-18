@@ -1,0 +1,16 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Eichhorn"]
+[Black "Klose"]
+[Result "0-1"]
+[ECO "C57"]
+[Opening "two knights defence"]
+[Variation "Wilkes Barre (Traxler) variation"]
+[HashCode "634fd184"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 Bc5 5. Bxf7+ Ke7 6. Bd5 d6 7. Nf7 Qf8
+8. h3 Nxd5 9. Qf3 Nd4 10. Qd1 Qxf7 11. exd5 Nxc2+ 0-1
+

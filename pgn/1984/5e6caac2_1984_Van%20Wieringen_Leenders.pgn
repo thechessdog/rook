@@ -1,0 +1,15 @@
+[Event "Nijmegen"]
+[Site "Nijmegen"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Van Wieringen, A."]
+[Black "Leenders"]
+[Result "0-1"]
+[ECO "A45"]
+[Opening "Trompovsky attack (Ruth, Opovcensky opening)"]
+[HashCode "5e6caac2"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. Bg5 c5 3. d5 Qb6 4. b3 Ne4 5. Bd2 Qf6 6. f3 Qh4+ 7. g3 Nxg3
+0-1
+

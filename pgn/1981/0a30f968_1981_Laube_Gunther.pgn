@@ -1,0 +1,23 @@
+[Event "corr DDR/H"]
+[Site "corr DDR/H"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Laube"]
+[Black "Guenthner, Oliver"]
+[Result "0-1"]
+[ECO "B92"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Opovcensky variation"]
+[HashCode "0a30f968"]
+[Epoch "Rook"]
+[BlackID "4602960"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be6 8. O-O
+Be7 9. f4 Qc7 10. Qd3 exf4 11. Bxf4 Nbd7 12. Qg3 Ne5 13. Nd4 Ng6 14. Bg5 Qc5
+15. Be3 Qe5 16. Nf5 Bxf5 17. Qxe5 Nxe5 18. Rxf5 O-O 19. Nd5 Nxd5 20. exd5 Rac8
+21. Rc1 b5 22. b3 Rfe8 23. g4 Bd8 24. Bd4 Nd7 25. Bd3 Bb6 26. Bxb6 Nxb6 27. c4
+Re3 28. Bf1 Nd7 29. Kf2 Re7 30. Re1 Rxe1 31. Kxe1 b4 32. h4 Re8+ 33. Kf2 a5 34.
+Rf4 Nc5 35. Kg2 Re4 36. Rxe4 Nxe4 37. Bd3 Nc3 38. c5 dxc5 39. Bxh7+ Kxh7 40. d6
+Ne2 41. Kf3 Nd4+ 42. Ke4 Ne6 43. Kd5 Kg6 44. d7 Kf6 45. Kd6 Nd8 46. g5+ Kg6 47.
+Ke7 Nb7 0-1

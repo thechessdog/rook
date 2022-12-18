@@ -1,0 +1,19 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Yuneev, Alexey"]
+[Black "Ivanov, Alexander V"]
+[Result "0-1"]
+[ECO "E31"]
+[Opening "Nimzo-Indian"]
+[Variation "Leningrad, main line"]
+[HashCode "302f9190"]
+[Epoch "Rook"]
+[WhiteID "4104315"]
+[WhiteCountry "RUS"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Bg5 h6 5. Bh4 c5 6. d5 d6 7. e3 Bxc3+ 8. bxc3
+e5 9. Bd3 e4 10. Bc2 Nbd7 11. f4 Nb6 12. Ba4+ Bd7 13. Bxd7+ Qxd7 14. Qb3 Ng4
+15. Kd2 g5 16. Bg3 gxf4 17. exf4 O-O-O 18. h3 e3+ 19. Ke2 Rdg8 20. Bh4 Qf5 21.
+Rf1 Ne5 0-1

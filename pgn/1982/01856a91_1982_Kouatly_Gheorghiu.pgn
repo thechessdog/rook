@@ -1,0 +1,20 @@
+[Event "Bagneaux"]
+[Site "Bagneaux"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Kouatly, Bachar"]
+[Black "Gheorghiu, Florin"]
+[Result "1-0"]
+[ECO "E76"]
+[Opening "King's Indian"]
+[Variation "Four pawns attack, dynamic line"]
+[HashCode "01856a91"]
+[Epoch "Rook"]
+[BlackID "1200011"]
+[BlackCountry "ROU"]
+[WhiteID "600032"]
+[WhiteCountry "FRA"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f4 O-O 6. Nf3 c5 7. d5 a6 8. a4 e6 9.
+dxe6 fxe6 10. e5 dxe5 11. Qxd8 Rxd8 12. Nxe5 Nfd7 13. Nxd7 Bxd7 14. Be3 Bd4 15.
+Bxd4 1-0

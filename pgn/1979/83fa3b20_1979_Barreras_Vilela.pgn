@@ -1,0 +1,16 @@
+[Event "Capablanca mem"]
+[Site "Cienfuegos"]
+[Date "1979.01.01"]
+[Round "10"]
+[White "Barreras, Alberto"]
+[Black "Vilela, Jose Luis"]
+[Result "1/2-1/2"]
+[ECO "E53"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Keres variation"]
+[HashCode "83fa3b20"]
+[Epoch "Rook"]
+[BlackCountry "EST"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 c5 6. Nf3 d5 7. O-O b6 8. cxd5
+exd5 9. Ne5 Bb7 10. Bd2 Nc6 11. a3 Bxc3 1/2-1/2

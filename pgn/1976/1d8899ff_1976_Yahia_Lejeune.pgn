@@ -1,0 +1,20 @@
+[Event "Wattignies"]
+[Site "Wattignies"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Yahia"]
+[Black "Lejeune"]
+[Result "0-1"]
+[ECO "C06"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation, main line"]
+[HashCode "1d8899ff"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Bd3 c5 6. c3 Nc6 7. Ne2 cxd4 8.
+cxd4 Qb6 9. Nf3 f6 10. exf6 Nxf6 11. O-O Bd6 12. Nc3 O-O 13. Bb1 Bd7 14.
+Re1 a6 15. a3 Rae8 16. Qd3 Re7 17. Na4 Qc7 18. Ng5 e5 19. f3 exd4 20. Rxe7
+Nxe7 21. Ba2 h6 22. Qxd4 hxg5 23. Bxg5 Bxh2+ 24. Kh1 Nf5 25. Qd1 Bf4 26.
+Bxf6 Ng3+ 27. Kh2 Rxf6 28. Qxd5+ Be6 29. Qxe6+ Rxe6 30. Bxe6+ Kh8 31. Nc3
+Be3 32. Kh3 Nh5 33. Rh1 Qg3# 0-1
+

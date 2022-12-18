@@ -1,0 +1,18 @@
+[Event "Berkeley ch-USA"]
+[Site "Berkeley ch-USA"]
+[Date "1984.01.01"]
+[Round "15"]
+[White "Shirazi, Kamran"]
+[Black "Peters, John A"]
+[Result "0-1"]
+[ECO "B20"]
+[Opening "Sicilian"]
+[Variation "wing gambit, Marshall variation"]
+[HashCode "c10a6d5f"]
+[Epoch "Rook"]
+[WhiteID "2000733"]
+[WhiteCountry "FRA"]
+[BlackCountry "USA"]
+[BlackID "2000229"]
+
+1. e4 c5 2. b4 cxb4 3. a3 d5 4. exd5 Qxd5 5. axb4 Qe5+ 0-1

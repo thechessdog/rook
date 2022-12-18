@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Van der Kooij"]
+[Black "Langone"]
+[Result "1-0"]
+[ECO "C31"]
+[Opening "KGD"]
+[Variation "Falkbeer, Nimzovich variation"]
+[HashCode "e3ff6ab9"]
+[Epoch "Rook"]
+[WhiteID "1011812"]
+[WhiteCountry "NED"]
+
+1. e4 e5 2. f4 d5 3. exd5 e4 4. Bb5+ Bd7 5. Qe2 Nf6 6. Nc3 c6 7. dxc6 bxc6 8.
+Nxe4 Nxe4 9. Qxe4+ Be7 10. Ne2 O-O 11. Bd3 g6 12. O-O Bf5 13. Qc4 Bxd3 14. Qxd3
+Re8 15. Ng3 Qc7 16. f5 1-0

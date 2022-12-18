@@ -1,0 +1,20 @@
+[Event "Yugoslavia ch"]
+[Site "Yugoslavia ch"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Bukic, Enver"]
+[Black "Kovacevic, Vlatko"]
+[Result "1/2-1/2"]
+[ECO "D06"]
+[Opening "QGD"]
+[Variation "Grau (Sahovic) defence"]
+[HashCode "ee689c8d"]
+[Epoch "Rook"]
+[WhiteID "14600030"]
+[WhiteCountry "SLO"]
+[BlackID "14500078"]
+[BlackCountry "CRO"]
+
+1. d4 d5 2. c4 Bf5 3. cxd5 Bxb1 4. Qa4+ Qd7 5. Qxd7+ Nxd7 6. Rxb1 Ngf6 7. Nf3
+Nb6 8. e3 Nbxd5 9. Be2 e6 10. O-O Be7 11. Bd2 Ne4 12. Rfc1 Nxd2 13. Nxd2 O-O-O
+14. Ne4 c6 15. Nc5 a5 16. a3 Kc7 17. Kf1 1/2-1/2

@@ -1,0 +1,21 @@
+[Event "DEN-chJ int"]
+[Site "Soro"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Hvalsoe, Rune"]
+[Black "Nielsen, Jan"]
+[Result "0-1"]
+[ECO "B12"]
+[Opening "Caro-Kann"]
+[Variation "advance variation"]
+[HashCode "3fcb9272"]
+[Epoch "Rook"]
+[WhiteID "1710052"]
+[WhiteCountry "SWE"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nc3 e6 5. g4 Bg6 6. Nge2 Bb4 7. Ng3 Ne7 8. f4
+Qb6 9. Bh3 f5 10. Rg1 c5 11. Ne2 Nbc6 12. Be3 fxg4 13. Bxg4 Bf5 14. h3 Bxc3+
+15. bxc3 Bxg4 16. Rxg4 Nf5 17. Bf2 Qa5 18. Kf1 O-O 19. h4 Rac8 20. Qd3 Qa4 21.
+dxc5 Nxe5 22. Qh3 Nxg4 23. Qxg4 Qxc2 24. Rc1 Qe4 25. Rd1 Rf6 26. h5 Ne3+ 27.
+Bxe3 Qxe3 28. Rxd5 Rcf8 29. Rd4 e5 30. h6 Rg6 31. Qd7 exd4 32. hxg7 Rxf4+ 33.
+Nxf4 Rg1# 0-1

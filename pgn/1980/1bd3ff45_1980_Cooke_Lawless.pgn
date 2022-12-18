@@ -1,0 +1,21 @@
+[Event "Berkeley"]
+[Site "Berkeley"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Cooke, P."]
+[Black "Lawless, K."]
+[Result "0-1"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "classical attack, Marshall variation"]
+[HashCode "1bd3ff45"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Bd6 7. c4 c6 8.
+O-O Bg4 9. Nc3 Nxc3 10. bxc3 O-O 11. Re1 dxc4 12. Bxc4 Nd7 13. Qd3 Qa5 14.
+Ng5 Bf5 15. Qf3 Nf6 16. Bd2 h6 17. Nxf7 Rxf7 18. h3 Kf8 19. Bxf7 Kxf7 20.
+g4 Be6 21. Rab1 Rb8 22. Rb2 Qd5 23. Qe2 b5 24. f4 Re8 25. g5 hxg5 26. fxg5
+Bxh3 27. g6+ Kxg6 28. Qd3+ Bf5 29. Qf1 Rh8 30. Qg2+ Qxg2+ 31. Kxg2 Rh2+ 32.
+Kf3 Ne4 33. Rg1+ Kf6 34. Rg2 Rxg2 35. Kxg2 Nxd2 36. Rxd2 g5 37. Kf1 g4 38.
+d5 g3 0-1
+

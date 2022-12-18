@@ -1,0 +1,22 @@
+[Event "Nordic-tt"]
+[Site "Oslo"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Hjartarson, Johann"]
+[Black "Flis, Jacek"]
+[Result "1-0"]
+[ECO "E68"]
+[Opening "King's Indian"]
+[Variation "fianchetto, classical variation, 8.e4"]
+[HashCode "68bc972e"]
+[Epoch "Rook"]
+[WhiteID "2300044"]
+[WhiteCountry "ISL"]
+[BlackID "1100351"]
+[BlackCountry "POL"]
+
+1. c4 g6 2. Nf3 Bg7 3. d4 d6 4. g3 Nf6 5. Bg2 O-O 6. O-O Nbd7 7. Nc3 e5 8. e4
+c6 9. b3 Re8 10. h3 a5 11. Rb1 Qc7 12. Re1 h6 13. Be3 exd4 14. Nxd4 Nc5 15. Qc2
+Qe7 16. Rbd1 Kh7 17. a3 Bd7 18. Bf4 Nh5 19. Nxc6 Bxc6 20. Bxd6 Qf6 21. e5 Qe6
+22. Nd5 Na6 23. g4 Nf6 24. exf6 Qxd6 25. fxg7 Rxe1+ 26. Rxe1 Nc7 27. c5 Qd8 28.
+Ne7 Kxg7 29. Qc3+ f6 30. Bxc6 bxc6 31. Nxc6 Nd5 32. Qd4 Qg8 33. Ne7 1-0

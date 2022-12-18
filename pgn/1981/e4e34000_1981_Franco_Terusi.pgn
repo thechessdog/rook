@@ -1,0 +1,18 @@
+[Event "Buenos Aires"]
+[Site "Buenos Aires"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Franco Ocampos, Zenon"]
+[Black "Terusi"]
+[Result "1-0"]
+[ECO "B70"]
+[Opening "Sicilian"]
+[Variation "dragon variation"]
+[HashCode "e4e34000"]
+[Epoch "Rook"]
+[WhiteCountry "PAR"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be2 Bg7 7. O-O O-O 8.
+Bg5 Nc6 9. Nb3 a6 10. a4 Be6 11. Kh1 Bxb3 12. cxb3 Qa5 13. f4 Qb4 14. Bc4 e6
+15. f5 Na5 16. Bxf6 Nxc4 17. Bxg7 Ne3 18. Qe2 Nxf1 19. Bxf8 Ng3+ 20. hxg3 Rxf8
+21. fxe6 1-0

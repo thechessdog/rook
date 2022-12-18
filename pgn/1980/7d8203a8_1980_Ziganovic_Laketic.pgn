@@ -1,0 +1,16 @@
+[Event "Yugoslavia"]
+[Site "Yugoslavia"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Ziganovic"]
+[Black "Laketic, Gojko"]
+[Result "1-0"]
+[ECO "B13"]
+[Opening "Caro-Kann"]
+[Variation "exchange variation"]
+[HashCode "7d8203a8"]
+[Epoch "Rook"]
+[BlackID "900583"]
+[BlackCountry "SRB"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. Bd3 Nc6 5. Nf3 Bg4 6. Nbd2 Nxd4 7. Nxd4 1-0

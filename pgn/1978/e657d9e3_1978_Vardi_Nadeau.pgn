@@ -1,0 +1,17 @@
+[Event "Quebec Invitational"]
+[Site "Quebec Invitational"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Vardi, Ilan"]
+[Black "Nadeau, Renaud"]
+[Result "1/2-1/2"]
+[ECO "A77"]
+[Opening "Benoni"]
+[Variation "classical, 9...Re8, 10.Nd2"]
+[HashCode "e657d9e3"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 c5 3. d5 d6 4. Nc3 g6 5. e4 Bg7 6. Be2 O-O 7. Nf3 e6 8. O-O
+exd5 9. cxd5 Re8 10. Nd2 a6 11. a4 Nbd7 12. Qc2 Rb8 13. Ra3 Nb6 14. a5 Na8
+15. Nc4 b5 16. Nb6 Qe7 17. f3 Nh5 18. Kh1 f5 19. f4 Kf7 20. Qd3 Qe5 1/2-1/2
+

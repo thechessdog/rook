@@ -1,0 +1,18 @@
+[Event "Esbjerg"]
+[Site "Esbjerg"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Jorgensen, Michael"]
+[Black "Jakobsen, Peter"]
+[Result "0-1"]
+[ECO "A58"]
+[Opening "Benko gambit"]
+[Variation "fianchetto variation"]
+[HashCode "89702b0e"]
+[Epoch "Rook"]
+[BlackID "1401440"]
+[BlackCountry "DEN"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. bxa6 Bxa6 6. Nf3 d6 7. Nc3 g6 8. g3
+Bg7 9. Bg2 O-O 10. O-O Qb6 11. Re1 Nbd7 12. e4 Ng4 13. Nd2 Nge5 14. Bf1 c4 15.
+Kg2 Nc5 16. Na4 Nxa4 17. Qxa4 c3 0-1

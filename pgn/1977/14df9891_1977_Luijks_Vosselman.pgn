@@ -1,0 +1,18 @@
+[Event "Bergen op"]
+[Site "Bergen op"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Luijks"]
+[Black "Vosselman"]
+[Result "1-0"]
+[ECO "C44"]
+[Opening "Scotch"]
+[Variation "Goering gambit"]
+[HashCode "14df9891"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. c3 d5 5. exd5 Qxd5 6. cxd4 Bg4 7. Be2
+Bxf3 8. Bxf3 Qc4 9. Be3 Bb4+ 10. Nd2 Nxd4 11. Bxd4 Qxd4 12. Qe2+ Kf8 13.
+O-O-O Re8 14. Ne4 Qe5 15. Qc4 a5 16. Rd7 Ne7 17. Rhd1 Qf4+ 18. Kb1 Nc6 19.
+Qd5 Be7 20. Nc5 Nb4 21. Qe4 Qf6 22. Rd8 1-0
+

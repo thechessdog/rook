@@ -1,0 +1,18 @@
+[Event "Massachusetts"]
+[Site "Massachusetts"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Dorman, P."]
+[Black "Curdo, John"]
+[Result "0-1"]
+[ECO "D07"]
+[Opening "QGD"]
+[Variation "Chigorin defence, Janowski variation"]
+[HashCode "8343418d"]
+[Epoch "Rook"]
+[BlackID "2001705"]
+[BlackCountry "USA"]
+
+1. d4 d5 2. c4 Nc6 3. Nc3 dxc4 4. Nf3 Nf6 5. d5 Na5 6. b4 cxb3 7. axb3 e6 8.
+Bb2 Bb4 9. e4 O-O 10. Ra4 c5 11. Bd3 exd5 12. e5 d4 13. Nxd4 Qxd4 14. exf6 Bf5
+15. O-O Bxd3 16. Ba1 Rfd8 17. Ne2 Qe4 18. Ng3 Bxf1 0-1

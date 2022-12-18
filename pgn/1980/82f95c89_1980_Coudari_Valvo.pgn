@@ -1,0 +1,23 @@
+[Event "Manhattan CC"]
+[Site "Manhattan CC"]
+[Date "1980.01.01"]
+[Round "7"]
+[White "Coudari, Camille"]
+[Black "Valvo, Michael J"]
+[Result "0-1"]
+[ECO "B71"]
+[Opening "Sicilian"]
+[Variation "dragon, Levenfish variation"]
+[HashCode "82f95c89"]
+[Epoch "Rook"]
+[WhiteID "2600293"]
+[WhiteCountry "CAN"]
+[BlackID "2000954"]
+[BlackCountry "USA"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. f4 Bg7 7. Be2 O-O 8. Be3
+Nc6 9. O-O Qb6 10. Qd3 Qxb2 11. Rab1 Qa3 12. Nxc6 bxc6 13. Nd5 Qxd3 14. Nxe7+
+Kh8 15. cxd3 Ba6 16. Rfd1 c5 17. Bf3 Rae8 18. Nc6 Nd5 19. Bd2 Ne7 20. Nxe7 Bd4+
+21. Kh1 Rxe7 22. Be1 f5 23. Bh4 Ree8 24. exf5 Rxf5 25. Bb7 Bxb7 26. Rxb7 Rxf4
+27. Bg3 Rf6 28. Rxa7 Ref8 29. h4 c4 30. Ra4 Rf1+ 31. Rxf1 Rxf1+ 32. Kh2 Bg1+
+33. Kh3 cxd3 34. Bf4 h5 35. g3 Rf2 0-1

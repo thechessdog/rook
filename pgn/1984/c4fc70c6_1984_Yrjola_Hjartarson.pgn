@@ -1,0 +1,20 @@
+[Event "Gausdal"]
+[Site "Gausdal"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Yrjola, Jouni"]
+[Black "Hjartarson, Johann"]
+[Result "0-1"]
+[ECO "E42"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5, 5.Ne2 (Rubinstein)"]
+[HashCode "c4fc70c6"]
+[Epoch "Rook"]
+[WhiteID "500011"]
+[BlackID "2300044"]
+[WhiteCountry "FIN"]
+[BlackCountry "ISL"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Ne2 cxd4 6. exd4 O-O 7. a3 Be7 8. d5
+exd5 9. cxd5 Re8 10. Be3 Ng4 11. Bd4 Nh6 12. d6 Bf6 13. Nd5 Qa5+ 14. Bc3 Bxc3+
+0-1

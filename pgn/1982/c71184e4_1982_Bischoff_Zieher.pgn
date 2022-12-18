@@ -1,0 +1,21 @@
+[Event "Bundesliga 8182"]
+[Site "Duitsland tt"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Bischoff, Klaus"]
+[Black "Zieher, Hartmut"]
+[Result "1-0"]
+[ECO "A36"]
+[Opening "English"]
+[Variation "ultra-symmetrical variation"]
+[HashCode "c71184e4"]
+[Epoch "Rook"]
+[BlackID "4607821"]
+[BlackCountry "GER"]
+[WhiteID "4600045"]
+[WhiteCountry "GER"]
+
+1. c4 c5 2. Nc3 g6 3. g3 Bg7 4. Bg2 Nc6 5. a3 e6 6. Rb1 a5 7. e4 Nge7 8. Nge2
+O-O 9. d3 d6 10. O-O h6 11. Be3 e5 12. Qd2 Kh7 13. f4 Rb8 14. f5 Ng8 15. Nd5 b5
+16. b4 axb4 17. axb4 cxb4 18. Nxb4 Qd7 19. Nxc6 Qxc6 20. Rfc1 Qa6 21. Nc3 Bd7
+22. Ra1 Qc8 23. Nxb5 Bxb5 24. cxb5 Qd7 25. b6 Nf6 26. fxg6+ 1-0

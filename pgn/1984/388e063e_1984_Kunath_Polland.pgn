@@ -1,0 +1,15 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Kunath, E."]
+[Black "Polland, P."]
+[Result "0-1"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack"]
+[HashCode "388e063e"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 Ne4 4. Nxe4 dxe4 5. e3 c6 6. Bc4 Qa5+ 7. c3 Qxg5
+8. f4 Qxg2 9. Qh5 g6 10. Qg5 Qxb2 0-1
+

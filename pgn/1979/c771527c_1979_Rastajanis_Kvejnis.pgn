@@ -1,0 +1,20 @@
+[Event "Vilnius"]
+[Site "Vilnius"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Rastajanis"]
+[Black "Kvejnis"]
+[Result "1/2-1/2"]
+[ECO "E12"]
+[Opening "Queen's Indian"]
+[Variation "Miles variation"]
+[HashCode "c771527c"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. Bf4 Bb7 5. e3 Bb4+ 6. Nfd2 O-O 7. a3 Be7 8.
+Nc3 d5 9. Qf3 c5 10. dxc5 bxc5 11. O-O-O Qb6 12. Bd3 Nbd7 13. Qg3 e5 14.
+Bh6 Nh5 15. Qh3 Ndf6 16. cxd5 Bc8 17. Qh4 gxh6 18. g4 e4 19. Ndxe4 Nxe4 20.
+Qxe7 Nxc3 21. gxh5 Nxd1 22. Rg1+ Bg4 23. Rxg4+ Kh8 24. Qe5+ f6 25. Qe7
+Qxb2+ 26. Kxd1 f5 27. Rc4 Rg8 28. Bc2 Rg1+ 29. Ke2 Qa1 30. Rxc5 Rag8 31. d6
+Qf1+ 32. Kf3 Qg2+ 1/2-1/2
+

@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Remakulus"]
+[Black "Brglez, Rado"]
+[Result "0-1"]
+[ECO "C38"]
+[Opening "KGA"]
+[Variation "Philidor gambit, Schultz variation"]
+[HashCode "fadfe555"]
+[Epoch "Rook"]
+[BlackID "14600331"]
+[BlackCountry "SLO"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 d6 4. d4 g5 5. Bc4 Bg7 6. h4 h6 7. Qd3 Nc6 8. hxg5
+hxg5 9. Rxh8 Bxh8 10. e5 Kf8 11. Qh7 Bg7 12. Qh5 Nh6 13. exd6 Nxd4 14. Nxd4 Bg4
+15. Qh2 Qxd6 16. Ne2 Re8 17. Nd2 Nf5 0-1

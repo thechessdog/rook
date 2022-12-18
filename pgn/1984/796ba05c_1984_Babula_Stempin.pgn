@@ -1,0 +1,25 @@
+[Event "Poznan"]
+[Site "Poznan"]
+[Date "1984.01.01"]
+[Round "10"]
+[White "Babula, Milan"]
+[Black "Stempin, Pawel"]
+[Result "1/2-1/2"]
+[ECO "B80"]
+[Opening "Sicilian"]
+[Variation "Scheveningen, fianchetto variation"]
+[HashCode "796ba05c"]
+[Epoch "Rook"]
+[WhiteID "300632"]
+[BlackID "1100068"]
+[WhiteCountry "CZE"]
+[BlackCountry "POL"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. g3 Nc6 7. Nde2 a6 8. Bg2
+Bd7 9. O-O Qc7 10. h3 Be7 11. f4 b5 12. a3 Rb8 13. g4 h6 14. b3 Qb6+ 15. Kh2 g5
+16. Nd5 exd5 17. exd5 h5 18. dxc6 Nxg4+ 19. hxg4 hxg4+ 20. Kg3 gxf4+ 21. Kxf4
+Bxc6 22. Bb2 Bg5+ 23. Kxg5 Rg8+ 24. Kh4 Bxg2 25. Nf4 Bxf1 26. Qxf1 Qc5 27. Rd1
+Qxc2 28. Qe1+ Kd7 29. Rd2 Qh7+ 30. Kg3 Rbe8 31. Qf2 Kc6 32. Qd4 Qe4 33. Qxd6+
+Kb7 34. Qd7+ Ka8 35. Qd5+ Qxd5 36. Nxd5 Kb7 37. Rf2 f5 38. Rxf5 Re2 39. Bd4 Rd8
+40. Rf7+ Kc6 41. Nb4+ Kd6 42. Ra7 Ke6 43. Rxa6+ Kf5 44. Rf6+ Kg5 45. Nc6 Rh8
+46. Rg6+ Kxg6 47. Bxh8 Re3+ 48. Kxg4 Rxb3 49. Nd4 Rxa3 50. Nxb5 1/2-1/2

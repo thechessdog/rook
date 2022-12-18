@@ -1,0 +1,18 @@
+[Event "corr CCAL"]
+[Site "corr CCAL"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Rutland Manners"]
+[Black "Sorri"]
+[Result "1-0"]
+[ECO "D10"]
+[Opening "QGD Slav defence"]
+[Variation "exchange variation"]
+[HashCode "4c297d9d"]
+[Epoch "Rook"]
+
+1. d4 d5 2. c4 c6 3. cxd5 cxd5 4. Nc3 Nf6 5. Nf3 Nc6 6. Bf4 e6 7. e3 Be7 8.
+Bd3 O-O 9. h3 Bd7 10. O-O Qb6 11. Qe2 Rfc8 12. Rac1 Be8 13. Rfd1 Qd8 14.
+Bb1 a6 15. e4 dxe4 16. Nxe4 Nb4 17. Nxf6+ gxf6 18. Ne5 fxe5 19. Qg4+ Bg5
+20. Bxg5 f5 21. Qg3 Qd7 22. Bd2+ 1-0
+

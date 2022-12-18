@@ -1,0 +1,25 @@
+[Event "Subotica"]
+[Site "Subotica"]
+[Date "1984.01.01"]
+[Round "12"]
+[White "Ivanovic, Bozidar"]
+[Black "Bulat, Ante"]
+[Result "1-0"]
+[ECO "B10"]
+[Opening "Caro-Kann"]
+[Variation "two knights variation"]
+[HashCode "0e4f436e"]
+[Epoch "Rook"]
+[WhiteID "900095"]
+[WhiteCountry "MNE"]
+[BlackID "14500418"]
+[BlackCountry "CRO"]
+
+1. e4 c6 2. Nc3 d5 3. Nf3 g6 4. h3 Bg7 5. d4 Nf6 6. e5 Ne4 7. Nxe4 dxe4 8. Ng5
+c5 9. dxc5 Qa5+ 10. Bd2 Qxc5 11. Bc3 Bxe5 12. Bxe5 Qxe5 13. Qd8+ Kxd8 14. Nxf7+
+Kc7 15. Nxe5 Nd7 16. Nf7 Rf8 17. Ng5 Rf5 18. Nxe4 Re5 19. f3 Nf6 20. Bd3 Bf5
+21. O-O-O Bxe4 22. Bxe4 Ra5 23. Rhe1 Rxa2 24. Kb1 Ra4 25. Bxg6 hxg6 26. Rxe7+
+Kc8 27. Rd6 Ra6 28. Rxf6 Rxf6 29. Re8+ Kd7 30. Rxa8 a6 31. Kc1 Rd6 32. Rg8 b5
+33. Rg7+ Kc6 34. Re7 a5 35. Re5 a4 36. c3 Kb6 37. h4 Ka5 38. Kc2 Rd8 39. f4 Rd6
+40. g4 Rf6 41. f5 gxf5 42. Rxf5 Re6 43. Rf2 Re3 44. Rg2 Rh3 45. g5 Rxh4 46. g6
+Rh8 47. g7 Rg8 48. Rg6 b4 49. Rg5+ Kb6 50. cxb4 Kc6 51. Kb1 Kd6 52. Ka2 1-0

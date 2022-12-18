@@ -1,0 +1,23 @@
+[Event "Bundesliga 8283"]
+[Site "Duitsland tt"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Duhr, Stefan"]
+[Black "Klundt, Klaus"]
+[Result "0-1"]
+[ECO "E92"]
+[Opening "King's Indian"]
+[Variation "Petrosian system, Stein variation"]
+[HashCode "c59ff055"]
+[Epoch "Rook"]
+[WhiteID "4603923"]
+[WhiteCountry "GER"]
+[BlackID "4600436"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Be2 O-O 6. Nf3 e5 7. d5 a5 8. O-O Na6
+9. Bg5 h6 10. Bh4 Qe8 11. Nd2 Bd7 12. a3 a4 13. Nb5 Bxb5 14. cxb5 Nc5 15. f3
+Nfd7 16. b4 axb3 17. Nxb3 f5 18. Nxc5 Nxc5 19. Qc2 fxe4 20. fxe4 Rf4 21. Bf2
+Nxe4 22. Be3 g5 23. Qxc7 Rc8 24. Qxb7 Rc3 25. Rac1 Rxf1+ 26. Bxf1 Nc5 27. Qxg7+
+Kxg7 28. Rxc3 Qf7 29. Bc4 Qf5 30. Rc1 Qe4 31. Bf2 Qf4 32. Rc2 Ne4 33. Ba7 Nc5
+34. Bxc5 dxc5 35. b6 Qd4+ 0-1

@@ -1,0 +1,16 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Bona"]
+[Black "Fekete"]
+[Result "0-1"]
+[ECO "A57"]
+[Opening "Benko gambit half accepted"]
+[HashCode "c6f69347"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. e3 g6 6. Nc3 Bg7 7. d6 Bb7 8. Nf3
+O-O 9. Bc4 exd6 10. Qxd6 axb5 11. Bxb5 Qa5 12. Be2 Ne4 13. Qd3 Nxc3 14.
+bxc3 Qxc3+ 0-1
+

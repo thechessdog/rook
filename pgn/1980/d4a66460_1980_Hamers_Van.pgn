@@ -1,0 +1,21 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Hamers"]
+[Black "Van der Peut"]
+[Result "0-1"]
+[ECO "B68"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...a6 defence, 9...Be7"]
+[HashCode "d4a66460"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 e6 7. Qd2 a6 8.
+O-O-O Bd7 9. f4 Be7 10. Be2 Qc7 11. Nb3 O-O-O 12. Bf3 Na5 13. Nxa5 Qxa5 14.
+Kb1 Qc7 15. Qe3 Bc6 16. Rhe1 Rhe8 17. Rd2 h6 18. Bxf6 Bxf6 19. Red1 Kb8 20.
+Ne2 Rc8 21. Nd4 Ba4 22. Nb3 e5 23. Qd3 exf4 24. Qxd6 Qxd6 25. Rxd6 Bc6 26.
+Nc5 Ka7 27. Nd7 Be5 28. R6d2 Re7 29. Nc5 Rce8 30. Bg4 Kb6 31. Nd7+ Kc7 32.
+Nc5 a5 33. a3 b6 34. Nd7 Rd8 35. Nxe5 Rxd2 36. Rxd2 Rxe5 37. Rf2 Rxe4 38.
+Bf3 Re1+ 39. Ka2 g5 40. Bh5 Rh1 41. h3 Rh2 42. Bxf7 f3 0-1
+

@@ -1,0 +1,19 @@
+[Event "corr EUR"]
+[Site "corr EUR"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Paciejewski"]
+[Black "Van der Kooij, Jaap"]
+[Result "0-1"]
+[ECO "C57"]
+[Opening "two knights defence"]
+[Variation "Wilkes Barre (Traxler) variation"]
+[HashCode "f40e5b1d"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 Bc5 5. Bxf7+ Ke7 6. Bd5 Rf8 7. O-O d6
+8. c3 Bg4 9. Qb3 h6 10. d4 Bb6 11. h3 hxg5 12. hxg4 Qd7 13. Bxg5 Qxg4 14.
+Be3 Nxd5 15. exd5 exd4 16. cxd4 Nxd4 17. Bxd4 Bxd4 18. Nc3 Qh4 19. Rae1+
+Kd8 20. Nd1 Rh8 21. Qh3 Qxh3 22. gxh3 Rxh3 23. Re4 Bf6 24. Kg2 Rh5 25. Ne3
+Kd7 26. b3 Re8 27. Rc4 Reh8 0-1
+

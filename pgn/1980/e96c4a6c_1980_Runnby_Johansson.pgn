@@ -1,0 +1,21 @@
+[Event "Sweden"]
+[Site "Sweden"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Runnby, Jan"]
+[Black "Johansson, Martin"]
+[Result "0-1"]
+[ECO "A71"]
+[Opening "Benoni"]
+[Variation "classical, 8.Bg5"]
+[HashCode "e96c4a6c"]
+[Epoch "Rook"]
+[WhiteID "1701290"]
+[WhiteCountry "SWE"]
+[BlackCountry "SWE"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. Nf3 Bg7 8. Bg5
+h6 9. Bh4 g5 10. Bg3 Nh5 11. Bb5+ Kf8 12. e5 Nxg3 13. fxg3 a6 14. Bd3 Qb6 15.
+Nd2 Qxb2 16. O-O Bxe5 17. Qh5 f6 18. Nde4 Ke7 19. Rae1 Nd7 20. Qg6 Kd8 21. Rb1
+Qa3 22. Rb3 Qa5 23. Nxf6 Bxf6 24. Rxf6 c4 25. Bxc4 Qc5+ 26. Rf2 Qxc4 27. Qxd6
+Qd4 28. h3 Re8 0-1

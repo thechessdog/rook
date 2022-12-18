@@ -1,0 +1,22 @@
+[Event "Denmark"]
+[Site "Denmark"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Poulsen, Allan"]
+[Black "Mortensen, Erling"]
+[Result "1-0"]
+[ECO "B81"]
+[Opening "Sicilian"]
+[Variation "Scheveningen, Keres attack"]
+[HashCode "9e4527c8"]
+[Epoch "Rook"]
+[WhiteID "1400533"]
+[WhiteCountry "DEN"]
+[BlackID "1400045"]
+[BlackCountry "DEN"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. g4 a6 7. g5 Nfd7 8. h4
+b5 9. a3 Bb7 10. h5 Nc6 11. Be3 Nde5 12. f4 Nxd4 13. Bxd4 Nc6 14. Be3 Qc7 15.
+Qg4 b4 16. axb4 Nxb4 17. Bd3 Be7 18. h6 g6 19. O-O O-O 20. f5 Bc8 21. fxg6 fxg6
+22. Rxf8+ Bxf8 23. Rf1 Rb8 24. e5 dxe5 25. Ne4 Nd5 26. Bc4 Nxe3 27. Bxe6+ Bxe6
+28. Qxe6+ Kh8 29. Rf7 Qd8 30. Qxe5+ Kg8 31. Rg7+ Kh8 32. Rxg6+ 1-0

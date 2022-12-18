@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Zerbe"]
+[Black "Carvalho"]
+[Result "0-1"]
+[ECO "E36"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, Botvinnik variation"]
+[HashCode "90da88f9"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 d5 5. a3 Bxc3+ 6. Qxc3 Nc6 7. Bg5 h6
+8. Bxf6 Qxf6 9. e3 O-O 10. cxd5 exd5 11. Ne2 Qd6 12. Nf4 Re8 13. Be2 Nd8
+14. O-O Ne6 15. Nd3 c6 16. f4 f6 17. g4 Bd7 18. b4 b6 19. Bf3 a5 20. Qb3
+axb4 21. axb4 Nc7 22. e4 Be6 23. e5 fxe5 24. dxe5 Qd8 25. f5 Rxa1 26. Rxa1
+Qg5 27. fxe6 Qe3+ 28. Kg2 Nxe6 29. Bxd5 cxd5 30. Qxd5 Qxd3 0-1
+

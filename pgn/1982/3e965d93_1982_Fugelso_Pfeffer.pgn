@@ -1,0 +1,17 @@
+[Event "Los Alamos"]
+[Site "Los Alamos"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Fugelso, D."]
+[Black "Pfeffer, T."]
+[Result "1-0"]
+[ECO "C64"]
+[Opening "Ruy Lopez"]
+[Variation "Cordel gambit"]
+[HashCode "3e965d93"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. c3 f5 5. Bxc6 dxc6 6. Nxe5 Nf6 7. d4 Bd6
+8. exf5 Bxe5 9. Qe2 O-O 10. dxe5 Re8 11. e6 Qd5 12. Qf3 Qxf3 13. gxf3 b6
+14. Bg5 Kf8 15. Bxf6 gxf6 16. Nd2 c5 17. O-O-O Ba6 18. Ne4 Re7 19. Rhg1 1-0
+

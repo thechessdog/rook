@@ -1,0 +1,19 @@
+[Event "URS-ch sf"]
+[Site "Yaroslav"]
+[Date "1982.??.??"]
+[Round "?"]
+[White "Chekhov, Valery A"]
+[Black "Cherepkov, Alexander V"]
+[Result "1/2-1/2"]
+[ECO "A18"]
+[Opening "English"]
+[Variation "Mikenas-Carls, Flohr variation"]
+[HashCode "ddfe88de"]
+[Epoch "Rook"]
+[WhiteID "4100859"]
+[WhiteCountry "RUS"]
+[BlackCountry "RUS"]
+
+1. c4 Nf6 2. Nc3 e6 3. e4 d5 4. e5 d4 5. exf6 dxc3 6. bxc3 Qxf6 7. d4 c5 8. Nf3
+h6 9. Bd3 Nc6 10. O-O cxd4 11. cxd4 Nxd4 12. Nxd4 Qxd4 13. Rb1 Bd6 14. Bb2 Qf4
+15. g3 Qg5 16. Be4 Bc5 17. Bc1 Qe7 18. Qf3 1/2-1/2

@@ -1,0 +1,15 @@
+[Event "Helmond"]
+[Site "Helmond"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Welling, Gerard"]
+[Black "Faber"]
+[Result "1-0"]
+[ECO "A06"]
+[Opening "Tennison (Lemberg, Zukertort) gambit"]
+[HashCode "c5dea9bb"]
+[Epoch "Rook"]
+[WhiteID "1000446"]
+[WhiteCountry "NED"]
+
+1. Nf3 d5 2. e4 dxe4 3. Ng5 Nf6 4. d3 exd3 5. Bxd3 h6 6. Nxf7 1-0

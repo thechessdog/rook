@@ -1,0 +1,19 @@
+[Event "Worms"]
+[Site "Worms"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Milz"]
+[Black "Neihs, H."]
+[Result "0-1"]
+[ECO "D89"]
+[Opening "Gruenfeld"]
+[Variation "Spassky variation, main line, 13.Bd3"]
+[HashCode "8596a6ba"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Bc4 O-O
+8. Ne2 c5 9. O-O cxd4 10. cxd4 Nc6 11. Be3 Bg4 12. f3 Na5 13. Bd3 Be6 14.
+Rc1 Bxa2 15. Qd2 Be6 16. Qb4 Nc6 17. Qc5 Rc8 18. d5 Ne5 19. Qa3 Nxd3 20.
+Qxd3 Bd7 21. Bxa7 Qa5 22. Be3 Bb5 23. Qd1 Rxc1 24. Bxc1 Rc8 25. Re1 Qa1 26.
+Kf2 Qa2 27. Bg5 Rc2 28. Bxe7 Bc3 29. d6 Bxe1+ 30. Kg1 Rxe2 31. d7 Rxg2+ 0-1
+

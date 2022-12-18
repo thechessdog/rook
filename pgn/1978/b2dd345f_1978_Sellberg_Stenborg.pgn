@@ -1,0 +1,19 @@
+[Event "corr SWE/K tt"]
+[Site "corr SWE/K tt"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Sellberg, Jan"]
+[Black "Stenborg, Ake"]
+[Result "0-1"]
+[ECO "B40"]
+[Opening "Sicilian"]
+[Variation "Anderssen variation"]
+[HashCode "b2dd345f"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Ndb5 Bb4 7. a3
+Bxc3+ 8. Nxc3 d5 9. exd5 exd5 10. Bd3 O-O 11. O-O Bg4 12. f3 Be6 13. Re1 h6
+14. Bf4 Nh5 15. Ne2 Qb6+ 16. Kh1 Qxb2 17. g4 Nxf4 18. Nxf4 Qf6 19. Nh5 Qh4
+20. Rb1 Rab8 21. c3 Rfe8 22. Bc2 Re7 23. Qd3 Bf5 24. gxf5 Rxe1+ 25. Rxe1
+Qxe1+ 26. Kg2 Re8 27. Ng3 Re3 0-1
+

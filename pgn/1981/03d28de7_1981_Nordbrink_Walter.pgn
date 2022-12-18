@@ -1,0 +1,18 @@
+[Event "Espelkamp"]
+[Site "Espelkamp"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Nordbrink, Juergen"]
+[Black "Walter"]
+[Result "1/2-1/2"]
+[ECO "A00"]
+[Opening "Polish"]
+[Variation "Outflank variation"]
+[HashCode "03d28de7"]
+[Epoch "Rook"]
+
+1. b4 c6 2. c4 Qb6 3. a3 a5 4. Bb2 axb4 5. c5 Qc7 6. axb4 Rxa1 7. Bxa1 b6
+8. Qa4 bxc5 9. bxc5 Ba6 10. Nf3 f6 11. e3 Bxf1 12. Kxf1 Qb7 13. Ke2 Qa6+
+14. Qxa6 Nxa6 15. d4 d6 16. cxd6 exd6 17. Rc1 Kd7 18. Nbd2 Ne7 19. Nb3 g6
+20. Bb2 1/2-1/2
+

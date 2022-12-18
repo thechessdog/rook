@@ -1,0 +1,18 @@
+[Event "Novi Sad"]
+[Site "Novi Sad"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Bjelajac, Milan"]
+[Black "Razuvaev, Yuri S"]
+[Result "1/2-1/2"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "09c828e7"]
+[Epoch "Rook"]
+[WhiteID "901261"]
+[WhiteCountry "SRB"]
+[BlackCountry "RUS"]
+
+1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. d4 e6 5. Nf3 Nf6 6. Bd3 Be7 7. O-O O-O 8. c4
+Qh5 9. Be2 Rd8 10. Ng5 Qg6 11. Bd3 Qh5 12. Be2 Qg6 13. Bd3 Qh5 14. Be2 1/2-1/2

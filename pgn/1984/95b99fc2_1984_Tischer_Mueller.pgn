@@ -1,0 +1,23 @@
+[Event "corr DDR/FS"]
+[Site "corr DDR/FS"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Tischer"]
+[Black "Mueller"]
+[Result "1/2-1/2"]
+[ECO "E48"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 O-O, 5.Bd3 d5"]
+[HashCode "95b99fc2"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. a3 dxc4 7. Bxh7+ Nxh7
+8. axb4 Nc6 9. Nf3 Nxb4 10. O-O Bd7 11. Ne5 b5 12. b3 Nd5 13. Ne4 cxb3 14.
+Nc5 Be8 15. Qxb3 b4 16. Bd2 a5 17. Ra2 Nhf6 18. Rfa1 a4 19. Nxa4 Ne4 20.
+Be1 Bxa4 21. Rxa4 Rxa4 22. Qxa4 Qd6 23. Nc4 Qe7 24. Qc6 Rb8 25. Nb2 Nec3
+26. Ra7 Qd6 27. Qxd6 cxd6 28. Kf1 Nb6 29. f3 d5 30. Bg3 Rc8 31. Rb7 Rc6 32.
+Be1 Na2 33. Nd3 b3 34. Rb8+ Kh7 35. Bd2 Nc4 36. Ke2 Rb6 37. Rxb6 Nxb6 38.
+Kd1 Nc4 39. e4 b2 40. Kc2 Nxd2 41. Kxb2 dxe4 42. fxe4 Nxe4 43. Kxa2 Nd2 44.
+Kb2 Nf1 45. h3 Ne3 46. Ne1 Kg6 47. Kc3 Kf5 48. Kb4 Ke4 49. Kc5 g6 50. Nf3
+Nxg2 51. Ng5+ Kf5 52. Nxf7 Nf4 53. Nd6+ Kf6 1/2-1/2
+

@@ -1,0 +1,22 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Sieber, H."]
+[Black "Hohenberger, K."]
+[Result "0-1"]
+[ECO "D41"]
+[Opening "QGD"]
+[Variation "Semi-Tarrasch with e3"]
+[HashCode "f09d6971"]
+[Epoch "Rook"]
+
+1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. Nc3 c5 5. cxd5 Nxd5 6. e3 Nc6 7. Bc4 cxd4
+8. Bxd5 exd5 9. Nxd4 Bb4 10. Qd3 Bxc3+ 11. Qxc3 Nxd4 12. Qxd4 O-O 13. Bd2
+Be6 14. Bc3 Qg5 15. g3 Rfc8 16. h4 Qg4 17. Kd2 Rc4 18. Qxg4 Bxg4 19. Bd4 a6
+20. Rhc1 b5 21. b3 Rcc8 22. Rc5 Rxc5 23. Bxc5 Bf3 24. Rc1 Rc8 25. b4 f6 26.
+Kd3 Kf7 27. Kd4 Ke6 28. a4 Be2 29. a5 Bf3 30. Rc2 Kf5 31. Rd2 h5 32. Kc3
+Kg4 33. Rd4+ Be4 34. Kd2 Kf3 35. Ke1 g5 36. hxg5 fxg5 37. Rd2 h4 38. Kf1
+hxg3 39. fxg3 Kxg3 40. Rf2 Rc6 41. Rf8 Bg2+ 42. Ke2 g4 43. Rd8 Kh2 44. Rh8+
+Bh3 45. Bd4 Rc4 46. Be5+ Kg2 0-1
+

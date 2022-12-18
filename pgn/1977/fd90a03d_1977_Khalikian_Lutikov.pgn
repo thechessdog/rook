@@ -1,0 +1,16 @@
+[Event "Erevan ch23"]
+[Site "Erevan ch23"]
+[Date "1977.01.01"]
+[Round "14"]
+[White "Khalikian, O."]
+[Black "Lutikov, Anatoly S"]
+[Result "1/2-1/2"]
+[ECO "C62"]
+[Opening "Ruy Lopez"]
+[Variation "old Steinitz defence"]
+[HashCode "fd90a03d"]
+[Epoch "Rook"]
+[BlackCountry "RUS"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 d6 4. d4 exd4 5. Nxd4 Bd7 6. Nc3 Nxd4 7. Bxd7+ Qxd7
+8. Qxd4 Ne7 9. Be3 Nc6 10. Qd2 Be7 11. O-O O-O 12. Nd5 Rfe8 13. Nxe7+ 1/2-1/2

@@ -1,0 +1,19 @@
+[Event "Stockholm"]
+[Site "Stockholm"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Wikstrom, Lars"]
+[Black "Cramling, Dan"]
+[Result "0-1"]
+[ECO "B70"]
+[Opening "Sicilian"]
+[Variation "dragon variation"]
+[HashCode "4a1b7043"]
+[Epoch "Rook"]
+[BlackID "1700162"]
+[BlackCountry "SWE"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Bc4 Bg7 7. h3 O-O 8. Bb3
+Nbd7 9. O-O Nc5 10. Re1 a6 11. Bg5 h6 12. Bh4 Bd7 13. Qd2 Rc8 14. Rad1 Kh7 15.
+e5 dxe5 16. Nf3 Nxb3 17. cxb3 Be6 18. Qe3 Qa5 19. Nxe5 Rfd8 20. Nd3 Nd5 21.
+Nxd5 Rxd5 22. Bxe7 Bf5 23. Bb4 Qd8 0-1

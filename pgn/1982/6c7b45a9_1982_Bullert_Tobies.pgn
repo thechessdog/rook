@@ -1,0 +1,19 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Bullert, W."]
+[Black "Tobies, R."]
+[Result "0-1"]
+[ECO "C00"]
+[Opening "French"]
+[Variation "Chigorin variation"]
+[HashCode "6c7b45a9"]
+[Epoch "Rook"]
+
+1. e4 e6 2. Qe2 c5 3. b3 Nc6 4. Bb2 Nf6 5. d3 d5 6. Nf3 b6 7. g3 Bb7 8. Bg2
+Be7 9. O-O O-O 10. Nbd2 d4 11. Ng5 Nd7 12. Nh3 e5 13. f4 exf4 14. gxf4 Nf6
+15. a3 Qc7 16. e5 Ne8 17. Ne4 Rd8 18. Qh5 Bc8 19. Rae1 f6 20. exf6 Bxf6 21.
+Neg5 Bxg5 22. fxg5 g6 23. Rxf8+ Kxf8 24. Qf3+ Bf5 25. Nf4 Rd6 26. Ne6+ Rxe6
+27. Rxe6 Nd8 28. Re1 0-1
+

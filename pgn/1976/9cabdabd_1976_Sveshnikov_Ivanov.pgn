@@ -1,0 +1,23 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Sveshnikov, Evgeny"]
+[Black "Ivkov, Borislav"]
+[Result "1-0"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...e6"]
+[HashCode "9cabdabd"]
+[Epoch "Rook"]
+[WhiteID "4100638"]
+[WhiteCountry "RUS"]
+[BlackID "900141"]
+[BlackCountry "SRB"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 e6 5. Nc3 Nf6 6. Nf3 dxc4 7. Bxc4 Be7 8.
+O-O O-O 9. Re1 Nc6 10. Bf4 b6 11. d5 Na5 12. d6 Nxc4 13. dxe7 Qxe7 14. Qe2 Nd6
+15. Rad1 Rd8 16. Qd3 Nb7 17. Nd4 Qc5 18. Be5 Ng4 19. Bg3 e5 20. b4 Qxb4 21.
+Bxe5 Be6 22. Qg3 Nc5 23. Nc6 Rxd1 24. Rxd1 Qb2 25. Bd4 Nd7 26. h3 Ngf6 27. Nd5
+Qc2 28. Nxf6+ Nxf6 29. Bxf6 Qxd1+ 30. Kh2 g6 31. Qf4 Qh5 32. Bd4 Kf8 33. Qd6+
+Kg8 34. Ne7+ Kf8 35. Nxg6+ Kg8 36. Qf8+ 1-0

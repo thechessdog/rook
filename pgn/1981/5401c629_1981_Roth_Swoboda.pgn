@@ -1,0 +1,20 @@
+[Event "Lienz"]
+[Site "Lienz"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Roth, Juergen Eugen"]
+[Black "Swoboda, Ernst"]
+[Result "1-0"]
+[ECO "B40"]
+[Opening "Sicilian"]
+[Variation "Anderssen variation"]
+[HashCode "5401c629"]
+[Epoch "Rook"]
+[BlackID "1600494"]
+[BlackCountry "AUT"]
+[WhiteID "4604180"]
+[WhiteCountry "GER"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Be3 Bb4 7. Bd3 O-O 8.
+O-O a6 9. Kh1 Qc7 10. f4 b6 11. e5 Bxc3 12. exf6 Bxd4 13. Bxd4 Nxd4 14. Qh5 h6
+15. Qg4 g6 16. Bxg6 Kh8 17. Qh5 1-0

@@ -1,0 +1,22 @@
+[Event "corr ch-DDR"]
+[Site "corr ch-DDR"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Butze, Roland"]
+[Black "Timm, H."]
+[Result "0-1"]
+[ECO "B66"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...a6"]
+[HashCode "bbd185f1"]
+[Epoch "Rook"]
+[WhiteCountry "DEU"]
+
+1. e4 c5 2. d4 cxd4 3. Nf3 Nc6 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd2 a6 8.
+O-O-O h6 9. Bf4 Bd7 10. Nxc6 Bxc6 11. f3 d5 12. Qe1 Be7 13. exd5 exd5 14. Ne2
+O-O 15. Nd4 Re8 16. g4 Rc8 17. h4 Qb6 18. Qd2 Ba4 19. Rh2 Bb4 20. Qd3 Nd7 21.
+Nb3 Bxb3 22. Qxb3 Nc5 23. Qxd5 Rcd8 24. Re2 Rxd5 25. Rxe8+ Kh7 26. Rxd5 Ne6 27.
+Rxe6 fxe6 28. Rd1 e5 29. Bd3+ g6 30. Bh2 Qf2 31. a3 Qxh2 32. axb4 Qf4+ 33. Rd2
+Qxf3 34. h5 e4 35. hxg6+ Kxg6 36. Be2 Qg3 37. c3 e3 38. Rc2 Qg1+ 39. Bd1 Kf6
+40. c4 Ke5 41. Re2 Ke4 42. Rc2 Kd4 43. b5 axb5 44. cxb5 b6 45. b3 Kd3 46. Re2
+Qf1 47. Rc2 e2 0-1

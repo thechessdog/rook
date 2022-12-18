@@ -1,0 +1,18 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Nitsche"]
+[Black "Kuhne"]
+[Result "1-0"]
+[ECO "D86"]
+[Opening "Gruenfeld"]
+[Variation "exchange, Larsen variation"]
+[HashCode "88535a00"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Bc4 O-O
+8. Ne2 Qd7 9. O-O b6 10. e5 Ba6 11. Bb3 Nc6 12. Re1 Kh8 13. e6 fxe6 14. Nf4
+e5 15. Nxg6+ hxg6 16. Re3 e6 17. Qg4 Rae8 18. Qxg6 Rf6 19. Rh3+ Kg8 20.
+Qh7+ Kf7 21. Rg3 Rg8 22. Ba3 Ne7 23. dxe5 Rg6 24. Rf3+ 1-0
+

@@ -1,0 +1,15 @@
+[Event "Lucerne"]
+[Site "Lucerne"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Jaya"]
+[Black "Diop, Y."]
+[Result "1-0"]
+[ECO "D02"]
+[Opening "Queen's pawn game, Chigorin variation"]
+[HashCode "2a2b58e8"]
+[Epoch "Rook"]
+
+1. d4 d5 2. Nf3 Nc6 3. e3 Bg4 4. Bb5 Qd6 5. O-O Nf6 6. c4 e6 7. c5 Qd7 8.
+Nbd2 a6 9. Qa4 O-O-O 10. Ne5 1-0
+

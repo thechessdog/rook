@@ -1,0 +1,26 @@
+[Event "Salgotarjan"]
+[Site "Salgotarjan"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Eperjesi, Laszlo Dr."]
+[Black "Szirmai, Eduard"]
+[Result "1-0"]
+[ECO "D42"]
+[Opening "QGD"]
+[Variation "Semi-Tarrasch, 7.Bd3"]
+[HashCode "8065bd16"]
+[Epoch "Rook"]
+[WhiteID "700681"]
+[WhiteCountry "HUN"]
+[BlackID "702986"]
+[BlackCountry "HUN"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 e6 4. Nc3 c5 5. cxd5 Nxd5 6. e3 Nc6 7. Bd3 Be7 8. O-O
+O-O 9. a3 cxd4 10. exd4 Nxc3 11. bxc3 Bf6 12. Re1 Qc7 13. Qc2 h6 14. Bb2 b6 15.
+c4 Ne7 16. Rad1 Bb7 17. Ne5 Rac8 18. Ng4 Bg5 19. Qe2 b5 20. cxb5 Nd5 21. Qe4 g6
+22. Qe5 Qe7 23. g3 h5 24. h4 Bf4 25. gxf4 hxg4 26. Qg5 Qf6 27. Be4 Kg7 28. Kh2
+Rh8 29. Kg3 Rh5 30. Qxf6+ Kxf6 31. Kxg4 Ke7 32. Kg3 Rch8 33. Rh1 Ba8 34. Rde1
+Nf6 35. Bxa8 Rxa8 36. Re5 Rc8 37. Rc1 Rxc1 38. Bxc1 Rxe5 39. fxe5 Ne4+ 40. Kf3
+Nc3 41. a4 Nxa4 42. Bd2 Kd7 43. Ba5 Nb2 44. Ke4 Nd1 45. Be1 Nb2 46. d5 exd5+
+47. Kxd5 Nd3 48. Bd2 Nxf2 49. Be3 Nd3 50. Bxa7 Nf4+ 51. Ke4 Ne6 52. Be3 Nd8 53.
+Kd5 Nb7 54. Bb6 1-0

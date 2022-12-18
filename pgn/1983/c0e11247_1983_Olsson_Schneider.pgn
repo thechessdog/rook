@@ -1,0 +1,20 @@
+[Event "Sweden"]
+[Site "Sweden"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Olsson, Tomas"]
+[Black "Schneider, Lars-Ake"]
+[Result "0-1"]
+[ECO "B68"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...a6 defence, 9...Be7"]
+[HashCode "c0e11247"]
+[Epoch "Rook"]
+[WhiteID "1702696"]
+[WhiteCountry "SWE"]
+[BlackCountry "SWE"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd2 a6 8.
+O-O-O Bd7 9. f4 Be7 10. Nf3 b5 11. Bd3 Qc7 12. Rhg1 Rc8 13. Kb1 b4 14. Ne2 d5
+15. exd5 Nxd5 16. Bxe7 Ncxe7 17. Rde1 Bb5 18. g3 O-O 19. Nc1 Rfd8 20. Ne5 Bxd3
+21. Ncxd3 a5 22. Qf2 a4 23. Nc1 a3 24. b3 Nc3+ 25. Ka1 Nd1 0-1

@@ -1,0 +1,16 @@
+[Event "Ludwigshafen"]
+[Site "Ludwigshafen"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Wilding, D."]
+[Black "Simon"]
+[Result "0-1"]
+[ECO "A45"]
+[Opening "Queen's pawn"]
+[Variation "Bronstein gambit"]
+[HashCode "0d5a834d"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. g4 Nxg4 3. e3 d5 4. Be2 Nf6 5. Nc3 Bf5 6. Nf3 e6 7. Bd3 Bxd3
+8. Qxd3 Nc6 9. Ne5 Nxe5 10. dxe5 Ng4 11. f4 Qh4+ 12. Kd1 Nf2+ 0-1
+

@@ -1,0 +1,20 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Vogel"]
+[Black "Hahn, K."]
+[Result "1-0"]
+[ECO "B17"]
+[Opening "Caro-Kann"]
+[Variation "Steinitz variation"]
+[HashCode "d434d7c4"]
+[Epoch "Rook"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Ng3 e6 7. Bd3 c5
+8. O-O cxd4 9. Nxd4 Bc5 10. Nf3 O-O 11. Qe2 b6 12. Bf4 Bb7 13. Rad1 Qc8 14.
+Kh1 Re8 15. Ne5 Nxe5 16. Bxe5 Be7 17. f3 h6 18. a3 Rd8 19. f4 Qc6 20. Bb5
+Qc8 21. Rxd8+ Bxd8 22. Rd1 a6 23. Bd3 Qc6 24. b4 Be7 25. b5 axb5 26. Bxb5
+Qc8 27. a4 Bc6 28. c4 Bxb5 29. axb5 Ra4 30. Rc1 Qa8 31. h3 Ra3 32. Kh2 Bc5
+33. Bxf6 gxf6 34. Nh5 Bd4 35. Rd1 Bc3 36. Qg4+ Kf8 37. Rd7 1-0
+

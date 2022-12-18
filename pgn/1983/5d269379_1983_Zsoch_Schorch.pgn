@@ -1,0 +1,21 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Zsoch"]
+[Black "Schorch"]
+[Result "0-1"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Paulsen attack"]
+[HashCode "5d269379"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. a3 c4 7. Nbd2 Bd7 8. Be2
+Na5 9. b4 cxb3 10. Bb2 Rc8 11. a4 Ne7 12. O-O Nf5 13. Bd3 Be7 14. h3 a6 15.
+Nh2 Nc4 16. Nxc4 dxc4 17. Bxf5 exf5 18. d5 O-O 19. d6 Bd8 20. Nf3 Rc5 21.
+Re1 Ra5 22. Qe2 Be6 23. Nd4 Qc5 24. Ba3 Qc8 25. Bb4 Re8 26. Nxe6 Rxe6 27.
+Bxa5 Bxa5 28. Qd2 Qc5 29. Qe3 Qxe3 30. Rxe3 Kf8 31. Rb1 f6 32. Rf3 Rxe5 33.
+Rf4 Re4 34. Rxf5 Bxc3 35. Rc5 Rd4 36. Rc8+ Kf7 37. Rc7+ Ke8 38. Rxb7 Ba5
+39. Rxg7 Rxd6 40. Rxh7 c3 41. Re1+ Kd8 42. Ree7 0-1
+

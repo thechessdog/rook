@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Boyd, Tom"]
+[Black "Thornhill, B."]
+[Result "1-0"]
+[ECO "C11"]
+[Opening "French"]
+[Variation "Henneberger variation"]
+[HashCode "3c50cddc"]
+[Epoch "Rook"]
+
+1. d4 e6 2. Nc3 Nf6 3. e4 d5 4. Be3 dxe4 5. f3 exf3 6. Qxf3 Bb4 7. Bc4 O-O
+8. Ne2 Nd5 9. Bf2 Nxc3 10. Nxc3 Bxc3+ 11. bxc3 c6 12. O-O Nd7 13. Qe4 Nf6
+14. Qf3 Qd7 15. Rae1 b6 16. Bh4 Nd5 17. Re5 Bb7 18. Bxd5 cxd5 19. Bf6 Ba6
+20. Qg4 g6 21. Qh5 Qb5 22. Rfe1 1-0
+

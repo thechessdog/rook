@@ -1,0 +1,23 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Nei, Iivo"]
+[Black "Butnorius, Algimantas"]
+[Result "1-0"]
+[ECO "D35"]
+[Opening "QGD"]
+[Variation "exchange, positional line, 5...c6"]
+[HashCode "4bd24a8b"]
+[Epoch "Rook"]
+[WhiteID "4500059"]
+[WhiteCountry "EST"]
+[BlackID "12800066"]
+[BlackCountry "MNC"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. cxd5 exd5 5. Bg5 c6 6. e3 Nbd7 7. Bd3 Bd6 8.
+Qc2 Nf8 9. Nf3 Ng6 10. h3 O-O 11. h4 Re8 12. O-O-O a5 13. Kb1 Nf8 14. Rdg1 Be7
+15. Bxf6 Bxf6 16. g4 g6 17. g5 Bg7 18. h5 b6 19. hxg6 fxg6 20. Ne2 Bd7 21. Nf4
+Qe7 22. Rh4 Qd6 23. Rgh1 a4 24. Ne5 Rxe5 25. dxe5 Qxe5 26. Rxh7 Nxh7 27. Nxg6
+Qxg5 28. f4 Qd8 29. Rxh7 Be8 30. Ne5 Qf6 31. Qg2 Ra7 32. Ng4 Qd6 33. Nh6+ Kf8
+34. Rh8+ Bxh8 35. Qg8+ 1-0

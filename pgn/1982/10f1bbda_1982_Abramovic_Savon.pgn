@@ -1,0 +1,24 @@
+[Event "Erevan"]
+[Site "Erevan"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Abramovic, Bosko"]
+[Black "Savon, Vladimir"]
+[Result "0-1"]
+[ECO "B92"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Opovcensky variation"]
+[HashCode "10f1bbda"]
+[Epoch "Rook"]
+[BlackID "14138786"]
+[BlackCountry "UKR"]
+[WhiteID "900206"]
+[WhiteCountry "SRB"]
+
+1. e4 c5 2. Nf3 d6 3. Nc3 a6 4. d4 cxd4 5. Nxd4 Nf6 6. Be2 e5 7. Nb3 Be7 8. Bg5
+Be6 9. Bxf6 Bxf6 10. Nd5 Nd7 11. O-O O-O 12. Bg4 Bg5 13. Bxe6 fxe6 14. Nc3 Nb6
+15. Na5 Qd7 16. Qe2 Rac8 17. Rad1 Be7 18. Rd3 Na4 19. Nd1 Qc7 20. Qg4 Rf6 21.
+Rg3 Bf8 22. Nb3 Qxc2 23. Ne3 Qc7 24. Qe2 Rf4 25. f3 Rf7 26. h4 Qb6 27. Kh2 Nc5
+28. Ng4 Kh8 29. Qc4 Qb5 30. Qxb5 axb5 31. Rc1 Rfc7 32. Nf2 Nxb3 33. Rxc7 Rxc7
+34. axb3 g6 35. Nd3 Bh6 36. h5 Kg7 37. hxg6 hxg6 38. Kh3 Rc2 39. Kg4 Re2 40. b4
+Kf6 41. Kh4 Rd2 0-1

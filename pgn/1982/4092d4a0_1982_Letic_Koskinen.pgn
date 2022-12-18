@@ -1,0 +1,17 @@
+[Event "corr Heilimo mem"]
+[Site "corr Heilimo mem"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Letic"]
+[Black "Koskinen"]
+[Result "1/2-1/2"]
+[ECO "E54"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Gligoric system with 7...dc"]
+[HashCode "4092d4a0"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 c5 7. O-O dxc4 8.
+Bxc4 cxd4 9. exd4 b6 10. Ne5 Bb7 11. Bg5 Be7 12. Qd3 Nc6 13. Rad1 Nd5 14.
+Bc1 Nxe5 15. dxe5 Nxc3 16. Qxc3 Qc7 17. Be3 Rac8 18. Rc1 Qc6 19. f3 1/2-1/2
+

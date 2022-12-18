@@ -1,0 +1,17 @@
+[Event "Dayton,OH"]
+[Site "Dayton,OH"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Wall, B."]
+[Black "Stauffer"]
+[Result "0-1"]
+[ECO "D15"]
+[Opening "QGD Slav"]
+[Variation "5.e3 (Alekhine variation)"]
+[HashCode "c3ac9146"]
+[Epoch "Rook"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. e3 Be6 6. Ne5 Nd5 7. Nxc4 g6 8.
+Bd3 Bg7 9. O-O Nb4 10. a3 Nxd3 11. Qxd3 O-O 12. f4 b5 13. Ne5 Bxe5 14. fxe5
+Bc4 0-1
+

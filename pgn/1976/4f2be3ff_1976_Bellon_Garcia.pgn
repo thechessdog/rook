@@ -1,0 +1,23 @@
+[Event "Cienfuegos"]
+[Site "Cienfuegos"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Bellon Lopez, Juan Manuel"]
+[Black "Garcia, Gildardo"]
+[Result "0-1"]
+[ECO "B84"]
+[Opening "Sicilian"]
+[Variation "Scheveningen (Paulsen), classical variation"]
+[HashCode "4f2be3ff"]
+[Epoch "Rook"]
+[BlackID "4400020"]
+[BlackCountry "COL"]
+[WhiteID "2200031"]
+[WhiteCountry "SWE"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e6 7. O-O Qc7 8. f4
+Be7 9. Kh1 Nc6 10. Be3 O-O 11. Qe1 Na5 12. Rd1 b5 13. e5 dxe5 14. fxe5 Qxe5 15.
+Bf4 Qc5 16. Bf3 Bb7 17. b4 Qxb4 18. Bxb7 Rad8 19. Nc6 Nxc6 20. Bxc6 Rc8 21. Bd2
+Rxc6 22. Nd5 Nxd5 23. Bxb4 Bxb4 24. Qe4 Bc3 25. Rd3 Rc4 26. Qf3 Bf6 27. Ra3
+Rxc2 28. Rxa6 Rfc8 29. g3 Rc1 30. Rxc1 Rxc1+ 31. Kg2 Rc2+ 32. Kh3 g5 33. Ra3
+Be7 34. Qd1 Rb2 35. Ra7 f5 36. Rxe7 Nxe7 37. g4 Nd5 38. gxf5 Rg2 0-1

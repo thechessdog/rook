@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Mendes, A."]
+[Black "Elich, C."]
+[Result "1-0"]
+[ECO "E56"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line with 7...Nc6"]
+[HashCode "5cc6f4ae"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 O-O 6. Nf3 d5 7. O-O Nc6 8.
+a3 dxc4 9. Bxc4 Ba5 10. Qd3 a6 11. dxc5 Qxd3 12. Bxd3 Bxc3 13. bxc3 Na5 14.
+Rb1 Nd7 15. c6 Nxc6 16. a4 Nf6 17. e4 Rd8 18. Bc2 e5 19. Bg5 Rb8 20. Rb6 h6
+21. Bh4 Bg4 22. Rfb1 Bxf3 23. Bxf6 Rd2 24. gxf3 gxf6 25. Bb3 Rd3 26. Bc4
+1-0
+

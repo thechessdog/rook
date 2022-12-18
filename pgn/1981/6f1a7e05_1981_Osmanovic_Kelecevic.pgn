@@ -1,0 +1,19 @@
+[Event "Sarajevo"]
+[Site "Sarajevo"]
+[Date "1981.03.01"]
+[Round "15"]
+[White "Osmanovic, Kemal"]
+[Black "Kelecevic, Nedeljko"]
+[Result "1/2-1/2"]
+[ECO "B17"]
+[Opening "Caro-Kann"]
+[Variation "Steinitz variation"]
+[HashCode "6f1a7e05"]
+[Epoch "Rook"]
+[WhiteID "14400278"]
+[WhiteCountry "BIH"]
+[BlackID "14400537"]
+[BlackCountry "SUI"]
+
+1. e4 c6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Nxf6+ Nxf6 7. Bc4 Nd5
+8. O-O Bg4 9. Re1 e6 1/2-1/2

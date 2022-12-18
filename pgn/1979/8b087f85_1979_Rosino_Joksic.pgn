@@ -1,0 +1,19 @@
+[Event "Pellestrina-A"]
+[Site "Pellestrina"]
+[Date "1979.??.??"]
+[Round "4"]
+[White "Rosino, Antonio"]
+[Black "Joksic, Sinisa"]
+[Result "1-0"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "8b087f85"]
+[Epoch "Rook"]
+[WhiteID "800376"]
+[WhiteCountry "ITA"]
+[BlackCountry "SRB"]
+
+1. e4 c5 2. c3 e6 3. d4 d5 4. exd5 exd5 5. Nf3 a6 6. Be2 Nc6 7. O-O Bd6 8. Re1
+Nge7 9. dxc5 Bxc5 10. Nbd2 O-O 11. Nb3 Ba7 12. Bd3 Bf5 13. Be3 Bb8 14. Bc5 Bg6
+15. Bxg6 fxg6 16. Qe2 Bd6 17. Qe6+ 1-0

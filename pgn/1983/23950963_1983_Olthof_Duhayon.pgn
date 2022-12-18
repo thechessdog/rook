@@ -1,0 +1,21 @@
+[Event "Liege"]
+[Site "Liege"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Olthof, Rene"]
+[Black "Duhayon, Yves"]
+[Result "1-0"]
+[ECO "C18"]
+[Opening "French"]
+[Variation "Winawer, classical variation"]
+[HashCode "23950963"]
+[Epoch "Rook"]
+[WhiteID "1001094"]
+[BlackID "200492"]
+[WhiteCountry "NED"]
+[BlackCountry "BEL"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Qc7 7. Qg4 f6 8. Qg3
+Nc6 9. Nf3 Qf7 10. dxc5 Nge7 11. Bd3 Bd7 12. O-O O-O-O 13. Re1 h5 14. h4 Rdg8
+15. Rb1 g5 16. exf6 gxh4 17. Qd6 Qxf6 18. Bf4 Kd8 19. Rxb7 Ke8 20. Rxd7 Rh6 21.
+Bxh6 Qxf3 22. Rxe7+ Nxe7 23. Qb8+ Kf7 24. Qxg8+ 1-0

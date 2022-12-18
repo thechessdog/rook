@@ -1,0 +1,17 @@
+[Event "corr EUR/M"]
+[Site "corr EUR/M"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Kuhnel, G."]
+[Black "Krantzl, A."]
+[Result "1-0"]
+[ECO "B89"]
+[Opening "Sicilian"]
+[Variation "Sozin, 7.Be3"]
+[HashCode "8d21dec3"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bc4 e6 7. Be3 Be7
+8. O-O O-O 9. Bb3 a6 10. f4 Qc7 11. Qf3 Bd7 12. f5 e5 13. Nxc6 Bxc6 14. g4
+h6 15. h4 Nxe4 16. Nxe4 d5 17. g5 dxe4 18. Qh5 Be8 19. gxh6 1-0
+

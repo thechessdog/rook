@@ -1,0 +1,18 @@
+[Event "Oslo"]
+[Site "Oslo"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Ornstein"]
+[Black "Rantanen, Yrjo A."]
+[Result "1-0"]
+[ECO "C70"]
+[Opening "Ruy Lopez"]
+[Variation "Cozio defence deferred"]
+[HashCode "2903a68f"]
+[Epoch "Rook"]
+[BlackID "500038"]
+[BlackCountry "FIN"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nge7 5. c3 b5 6. Bb3 d5 7. d3 f6 8. Nbd2
+Be6 9. O-O Ng6 10. a4 b4 11. a5 Be7 12. Ba4 Qd6 13. exd5 Qxd5 14. c4 Qd6 15. d4
+exd4 16. Ne4 Qd7 17. Nxd4 Nge5 18. Bf4 1-0

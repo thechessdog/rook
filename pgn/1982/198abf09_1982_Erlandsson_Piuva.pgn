@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Erlandsson, C."]
+[Black "Piuva, M."]
+[Result "0-1"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "classical attack, Chigorin variation"]
+[HashCode "198abf09"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Be7 7. O-O Nc6
+8. Re1 Bg4 9. c4 Nf6 10. cxd5 Nxd5 11. Nc3 O-O 12. h3 Be6 13. Ne4 h6 14.
+Ng3 Re8 15. Rxe6 fxe6 16. Bb1 Bd6 17. Nh5 Nf6 18. Qd3 Nxh5 19. Qh7+ Kf8 20.
+Bxh6 Bf4 0-1
+

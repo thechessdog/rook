@@ -1,0 +1,22 @@
+[Event "Nijmegen rapid"]
+[Site "Nijmegen rapid"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Scheeren, Peter"]
+[Black "Timman, Jan H"]
+[Result "0-1"]
+[ECO "E91"]
+[Opening "King's Indian"]
+[Variation "6.Be2"]
+[HashCode "36af783b"]
+[Epoch "Rook"]
+[WhiteID "1000136"]
+[BlackID "1000012"]
+[WhiteCountry "NED"]
+[BlackCountry "NED"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Be2 O-O 6. Nf3 Nbd7 7. e5 Ne8 8. Bg5
+c5 9. O-O h6 10. Bh4 g5 11. Bg3 g4 12. Nh4 cxd4 13. Nd5 e6 14. Nf4 dxe5 15. Nh5
+Qg5 16. Nxg7 Qxg7 17. f4 e4 18. f5 e5 19. f6 Ndxf6 20. Bxe5 d3 21. Bxd3 Qg5 22.
+Bg3 exd3 23. Qxd3 Be6 24. Rae1 Qc5+ 25. Kh1 Bxc4 26. Qc3 Nd5 27. Rf5 Ng7 28. b3
+Nxf5 0-1

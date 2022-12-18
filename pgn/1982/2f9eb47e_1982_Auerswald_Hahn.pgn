@@ -1,0 +1,19 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Auerswald, K."]
+[Black "Hahn, W."]
+[Result "1/2-1/2"]
+[ECO "D20"]
+[Opening "QGA"]
+[Variation "3.e4"]
+[HashCode "2f9eb47e"]
+[Epoch "Rook"]
+
+1. d4 d5 2. c4 dxc4 3. e4 e5 4. Nf3 Bb4+ 5. Bd2 Bxd2+ 6. Nbxd2 exd4 7. Bxc4
+Nh6 8. h3 O-O 9. b4 Re8 10. O-O Be6 11. Qb3 Nc6 12. Rac1 Qe7 13. a3 Rac8
+14. Bd5 Red8 15. Rfe1 Qd6 16. Rc5 Ne7 17. Ng5 Bxd5 18. exd5 b6 19. Nde4 Qd7
+20. Qd3 Nhf5 21. d6 cxd6 22. Rxc8 Rxc8 23. g4 d5 24. Ng3 Rc3 25. Rxe7 Qxe7
+26. Qxf5 g6 27. Qxd5 Rxg3+ 28. fxg3 Qe1+ 1/2-1/2
+

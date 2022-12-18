@@ -1,0 +1,16 @@
+[Event "E Detroit Motor City op"]
+[Site "E Detroit Motor City op"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Thompson, D."]
+[Black "Levadi, D."]
+[Result "1-0"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra gambit"]
+[HashCode "b317a155"]
+[Epoch "Rook"]
+
+1. e4 c5 2. d4 cxd4 3. c3 dxc3 4. Nxc3 Nc6 5. Nf3 d6 6. Bc4 Nf6 7. e5 dxe5
+8. Qxd8+ Nxd8 9. Nb5 Be6 10. Nc7+ Kd7 11. Nxa8 Bxc4 12. Nxe5+ 1-0
+

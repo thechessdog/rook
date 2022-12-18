@@ -1,0 +1,27 @@
+[Event "Denmark"]
+[Site "Denmark"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Hoi, Carsten"]
+[Black "Jakobsen, Ole"]
+[Result "1-0"]
+[ECO "B25"]
+[Opening "Sicilian"]
+[Variation "closed, 6.f4"]
+[HashCode "2365cf44"]
+[Epoch "Rook"]
+[WhiteID "1400100"]
+[WhiteCountry "DEN"]
+[BlackCountry "DNK"]
+
+1. e4 c5 2. Nc3 d6 3. g3 Nc6 4. Bg2 g6 5. d3 Bg7 6. f4 e6 7. Nf3 Nge7 8. O-O
+O-O 9. Be3 Nd4 10. Rb1 Rb8 11. Ne2 Nec6 12. c3 Nxf3+ 13. Bxf3 a5 14. d4 cxd4
+15. cxd4 d5 16. e5 Qb6 17. Qd2 f5 18. a3 Bd7 19. Nc3 Ne7 20. b4 axb4 21. Rxb4
+Qa7 22. Rfb1 Rfc8 23. R4b3 Bf8 24. Be2 Nc6 25. Nb5 Qa8 26. Rc3 Na5 27. Nc7 Qa7
+28. Nb5 Qb6 29. a4 Rxc3 30. Nxc3 Qd8 31. Nb5 Ra8 32. Qa2 Bc6 33. Nc3 Qd7 34.
+Bb5 Rc8 35. Bf2 Bxb5 36. Nxb5 Rc4 37. Be1 Nc6 38. Bf2 Qd8 39. Qb3 Qa5 40. Nd6
+Rb4 41. Qd1 Bxd6 42. exd6 Kf7 43. Ra1 Qa6 44. g4 fxg4 45. Qxg4 h5 46. Qg5 Qb6
+47. d7 Rb1+ 48. Rxb1 Qxb1+ 49. Kg2 Qe4+ 50. Kg3 Qf5 51. Kh4 Qf6 52. Be3 Ke7 53.
+h3 Qxg5+ 54. Kxg5 Kxd7 55. Kxg6 h4 56. Bf2 Ne7+ 57. Kg5 Nf5 58. Bxh4 Nxd4 59.
+Bf2 Nf5 60. h4 d4 61. h5 d3 62. Be1 Kc6 63. h6 Nxh6 64. Kxh6 Kd5 65. Kg5 e5 66.
+f5 e4 67. f6 e3 68. f7 d2 69. Bxd2 1-0

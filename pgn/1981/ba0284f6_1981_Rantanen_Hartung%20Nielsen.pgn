@@ -1,0 +1,22 @@
+[Event "Gausdal Int"]
+[Site "Gausdal"]
+[Date "1981.??.??"]
+[Round "3"]
+[White "Rantanen, Yrjo A."]
+[Black "Hartung Nielsen, Jens"]
+[Result "1-0"]
+[ECO "C41"]
+[Opening "Philidor"]
+[Variation "Larsen variation"]
+[HashCode "ba0284f6"]
+[Epoch "Rook"]
+[WhiteID "500038"]
+[WhiteCountry "FIN"]
+[BlackCountry "NLD"]
+
+1. e4 e5 2. Nf3 d6 3. d4 exd4 4. Nxd4 g6 5. c4 Bg7 6. Nc3 Nc6 7. Be3 Nge7 8. h4
+O-O 9. h5 Ne5 10. Be2 N7c6 11. Qd2 Nxd4 12. Bxd4 c5 13. Be3 Be6 14. Bh6 Bxh6
+15. Qxh6 g5 16. f4 gxf4 17. O-O-O Qe7 18. Rhf1 Kh8 19. Qxf4 Rg8 20. Rxd6 Qg5
+21. Nd5 Qxf4+ 22. Nxf4 Bxc4 23. Bxc4 Nxc4 24. Rd7 Ne3 25. Rf3 Nc4 26. Ng6+ Rxg6
+27. hxg6 Ne5 28. Rfxf7 Nxd7 29. Rxh7+ Kg8 30. Rxd7 Re8 31. Rxb7 Rxe4 32. Rxa7
+Re2 33. Rc7 1-0

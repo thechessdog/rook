@@ -1,0 +1,16 @@
+[Event "corr EU/M"]
+[Site "corr EU/M"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Weyerstrass, Ronald"]
+[Black "Siegmund"]
+[Result "1/2-1/2"]
+[ECO "A17"]
+[Opening "English"]
+[Variation "Nimzo-English opening"]
+[HashCode "ddc7e5ef"]
+[Epoch "Rook"]
+
+1. c4 Nf6 2. Nc3 e6 3. Nf3 Bb4 4. Qc2 O-O 5. b3 b6 6. Bb2 Bb7 7. e3 d5 8. Be2
+Qe7 9. a3 Bxc3 10. Qxc3 c5 11. b4 cxb4 12. axb4 dxc4 13. Qxc4 Rc8 14. Qh4 Nbd7
+15. Ne5 Nxe5 16. Bxe5 Nd5 17. Qxe7 Nxe7 18. O-O f6 19. Bc3 1/2-1/2

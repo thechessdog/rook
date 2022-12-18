@@ -1,0 +1,26 @@
+[Event "New York Inv"]
+[Site "New York"]
+[Date "1980.01.01"]
+[Round "10"]
+[White "Zaltsman, Vitaly"]
+[Black "Mednis, Edmar John"]
+[Result "0-1"]
+[ECO "E41"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5"]
+[HashCode "78878087"]
+[Epoch "Rook"]
+[WhiteID "2000504"]
+[WhiteCountry "USA"]
+[BlackCountry "USA"]
+
+1. c4 Nf6 2. Nc3 e6 3. d4 Bb4 4. e3 c5 5. Bd3 Nc6 6. Ne2 d5 7. O-O dxc4 8. Bxc4
+cxd4 9. exd4 O-O 10. Qd3 Be7 11. a3 b6 12. Rd1 Bb7 13. Ba2 Rc8 14. Bf4 Nb8 15.
+Rac1 Na6 16. Be5 Nc7 17. Nf4 Qd7 18. Bb1 g6 19. Qg3 Nce8 20. Qh3 Ng7 21. Qh6
+Rfd8 22. Rd3 Nf5 23. Qh3 Be4 24. Rdd1 Bxb1 25. Rxb1 Qb7 26. Rd3 Nd7 27. Rbd1
+Nxe5 28. dxe5 Rxd3 29. Qxd3 Rd8 30. Qe2 Rxd1+ 31. Qxd1 Kg7 32. h3 Qc6 33. Qd3
+Qc5 34. Qb5 Qd4 35. Nfe2 Qd2 36. Kf1 Bc5 37. g3 Qc2 38. Kg2 Nd4 39. Qc4 Nxe2
+40. Qxe2 Qb3 41. Qf3 Qxb2 42. Qf6+ Kg8 43. Qd8+ Kg7 44. Qf6+ Kg8 45. Qd8+ Bf8
+46. Ne4 Qxe5 47. Nf6+ Kg7 48. Qxf8+ Kxf6 49. Qh8+ Kf5 50. Qxh7 Qd5+ 51. Kh2 Kf6
+52. Qh8+ Ke7 53. Qb8 Qa5 54. Qc7+ Kf6 55. Qd8+ Kg7 56. Qd4+ e5 57. Qe4 Qc5 58.
+Qf3 0-1

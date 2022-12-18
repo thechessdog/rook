@@ -1,0 +1,19 @@
+[Event "Copenhagen op"]
+[Site "Copenhagen op"]
+[Date "1982.01.01"]
+[Round "5"]
+[White "Westerinen, Heikki M.J."]
+[Black "Kopec, Danny"]
+[Result "1-0"]
+[ECO "B67"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...a6 defence, 8...Bd7"]
+[HashCode "29f5f334"]
+[Epoch "Rook"]
+[WhiteID "500020"]
+[WhiteCountry "FIN"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 e6 7. Qd2 a6 8.
+O-O-O Bd7 9. f4 h6 10. Bh4 Be7 11. Nf3 b5 12. e5 dxe5 13. fxe5 b4 14. exf6 bxc3
+15. Qxd7+ Qxd7 16. Rxd7 cxb2+ 17. Kxb2 Rb8+ 18. Ka1 Kxd7 19. fxe7 f6 20. Bc4
+Nb4 21. Bb3 Rhc8 22. Nd4 Rb6 23. Re1 Kxe7 24. Bf2 Kf7 25. Nxe6 1-0

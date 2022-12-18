@@ -1,0 +1,18 @@
+[Event "Quebec Invitational"]
+[Site "Quebec Invitational"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Witt, Leslie"]
+[Black "Levtchouk, George"]
+[Result "1/2-1/2"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical system, 5.Be2"]
+[HashCode "6ffee3b5"]
+[Epoch "Rook"]
+[BlackID "2600374"]
+[BlackCountry "CAN"]
+
+1. e4 g6 2. d4 Bg7 3. Nf3 d6 4. Be2 Nf6 5. Nc3 O-O 6. O-O Nc6 7. h3 e5 8. Be3
+Re8 9. dxe5 Nxe5 10. Qd2 Nxf3+ 11. Bxf3 Bd7 12. Bg5 Bc6 13. Nd5 h6 14. Bxh6
+Nxe4 15. Bxe4 Bxh6 16. Qxh6 Rxe4 17. Rad1 Bxd5 18. Rxd5 Qf6 1/2-1/2

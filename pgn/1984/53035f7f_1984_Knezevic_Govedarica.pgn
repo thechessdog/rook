@@ -1,0 +1,20 @@
+[Event "Belgrade"]
+[Site "Belgrade"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Knezevic, Milorad"]
+[Black "Govedarica, Radovan"]
+[Result "1/2-1/2"]
+[ECO "A46"]
+[Opening "Queen's pawn"]
+[Variation "Yusupov-Rubinstein system"]
+[HashCode "53035f7f"]
+[Epoch "Rook"]
+[BlackID "900630"]
+[BlackCountry "SRB"]
+[WhiteID "950238"]
+[WhiteCountry "SRB"]
+
+1. d4 Nf6 2. Nf3 e6 3. e3 b6 4. Bd3 Ba6 5. c4 Bb4+ 6. Bd2 Be7 7. Nc3 d5 8. Ne5
+O-O 9. cxd5 Bxd3 10. Nxd3 exd5 11. Qf3 c6 12. O-O Na6 13. Rac1 Rc8 14. Qd1 Nb8
+15. Qf3 Bd6 1/2-1/2

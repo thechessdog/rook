@@ -1,0 +1,27 @@
+[Event "corr DFSM"]
+[Site "corr DFSM"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Keller, Dieter"]
+[Black "Kopp"]
+[Result "1/2-1/2"]
+[ECO "B31"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (with ...g6, without ...d6)"]
+[HashCode "fbc23f87"]
+[Epoch "Rook"]
+[WhiteID "1300156"]
+[WhiteCountry "SUI"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. c3 Nf6 6. Qe2 O-O 7. d4 cxd4 8.
+cxd4 d5 9. e5 Ne8 10. h3 Nc7 11. Bxc6 bxc6 12. Qc2 Bd7 13. Nc3 Ne6 14. Be3 f6
+15. Rad1 Qc7 16. exf6 Rxf6 17. Ne5 Qd6 18. f4 Raf8 19. Ne2 g5 20. Nxd7 Qxd7 21.
+fxg5 Rxf1+ 22. Rxf1 Rxf1+ 23. Kxf1 c5 24. Qf5 cxd4 25. Bxd4 Qd6 26. Bxg7 Nxg7
+27. Qf2 Qa6 28. Qc5 e6 29. g4 Qxa2 30. Qc8+ Kf7 31. Qc7+ Kg8 32. Qd8+ Kf7 33.
+Qc7+ Kg8 34. Qb8+ Kf7 35. Qb7+ Kg8 36. Kg2 a5 37. Qb8+ Kf7 38. Nd4 Qc4 39. Nf3
+Qe2+ 40. Kg3 Ne8 41. Qa7+ Kf8 42. Qc5+ Kf7 43. Qc3 Ke7 44. Qh8 Qd3 45. h4 Nd6
+46. Qg7+ Ke8 47. Qc7 Ne4+ 48. Kf4 Qf1 49. Qc8+ Ke7 50. Ke5 Qxf3 51. Qxe6+ Kf8
+52. Qxd5 Qg3+ 53. Kxe4 Qg2+ 54. Ke5 Qxb2+ 55. Qd4 Qh2+ 56. Ke6 Qe2+ 57. Kd5 Kg8
+58. Qc4 Qe1 59. h5 a4 60. Kc5+ Kf8 61. Qf4+ Kg8 62. Qb8+ Kf7 63. Qc7+ Kg8 64.
+Qd8+ Kf7 65. Qc7+ Kg8 66. Qb8+ Kf7 67. Qf4+ Kg8 68. Qc4+ Kf8 69. Qb4 Qe5+ 70.
+Kc4+ Kg8 71. Qxa4 Qxg5 72. Qe8+ Kg7 73. Qd7+ Kg8 74. Qf5 Qc1+ 1/2-1/2

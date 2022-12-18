@@ -1,0 +1,16 @@
+[Event "corr ICCF/EU/M/GT"]
+[Site "corr ICCF/EU/M/GT"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Olofson"]
+[Black "Walther, Edgar"]
+[Result "1-0"]
+[ECO "E18"]
+[Opening "Queen's Indian"]
+[Variation "old main line, 7.Nc3"]
+[HashCode "0c15d11b"]
+[Epoch "Rook"]
+[BlackCountry "CHE"]
+
+1. c4 Nf6 2. Nf3 e6 3. g3 b6 4. Bg2 Bb7 5. O-O Be7 6. Nc3 O-O 7. d4 d5 8. cxd5
+exd5 9. Ne5 c6 10. Re1 c5 11. dxc5 bxc5 12. Qb3 1-0

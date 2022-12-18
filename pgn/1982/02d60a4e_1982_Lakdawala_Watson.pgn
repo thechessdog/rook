@@ -1,0 +1,19 @@
+[Event "US Open"]
+[Site "US Open"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Lakdawala, Jimmy"]
+[Black "Watson, J."]
+[Result "1-0"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack"]
+[HashCode "02d60a4e"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 Nbd7 4. Nf3 e6 5. e3 Bb4 6. a3 Bxc3+ 7. bxc3 h6
+8. Bxf6 Nxf6 9. c4 O-O 10. Bd3 b6 11. O-O Bb7 12. Qe2 Qc8 13. cxd5 exd5 14.
+c4 dxc4 15. Bxc4 Qf5 16. Rac1 Qa5 17. Ne5 Rae8 18. Qa2 Rxe5 19. dxe5 Qxe5
+20. Qe2 c5 21. Rfd1 h5 22. f3 h4 23. e4 g5 24. Qd2 g4 25. Qd6 Qg5 26. f4
+Qg7 27. e5 g3 28. h3 Ne4 29. Qe7 Bc6 30. Qxh4 b5 31. Bd5 Bxd5 32. Rxd5 f5
+33. exf6 Qxf6 34. Qg4+ Kf7 35. Rf5 1-0
+

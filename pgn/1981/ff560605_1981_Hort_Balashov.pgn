@@ -1,0 +1,22 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Hort, Vlastimil"]
+[Black "Balashov, Yuri S"]
+[Result "1/2-1/2"]
+[ECO "D62"]
+[Opening "QGD"]
+[Variation "Orthodox defence, 7.Qc2 c5, 8.cd (Rubinstein)"]
+[HashCode "ff560605"]
+[Epoch "Rook"]
+[WhiteID "4600029"]
+[BlackID "4100263"]
+[WhiteCountry "GER"]
+[BlackCountry "RUS"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. Bg5 O-O 6. Qc2 Nbd7 7. e3 c5 8. cxd5
+Nxd5 9. Bxe7 Qxe7 10. Nxd5 exd5 11. Bd3 g6 12. dxc5 Nxc5 13. O-O Bg4 14. Nd4
+Rac8 15. Rac1 Qg5 16. Be2 Ne6 17. Qxc8 Rxc8 18. Rxc8+ Kg7 19. f4 Qh4 20. Nxe6+
+Bxe6 21. Rc3 Bg4 22. Bd1 h5 23. Bb3 Qd8 24. Rf2 Bf5 25. h3 Be4 26. Bc2 d4 27.
+exd4 Bxc2 28. Rcxc2 Qxd4 1/2-1/2

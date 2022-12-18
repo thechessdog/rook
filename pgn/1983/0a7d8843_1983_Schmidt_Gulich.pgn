@@ -1,0 +1,20 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Schmidt, Wlodzimierz"]
+[Black "Gulich"]
+[Result "0-1"]
+[ECO "C93"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Smyslov defence"]
+[HashCode "0a7d8843"]
+[Epoch "Rook"]
+[WhiteID "1100041"]
+[WhiteCountry "POL"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. c3
+d6 9. h3 h6 10. d4 Re8 11. Nbd2 Bf8 12. a3 Bb7 13. Bc2 Nb8 14. b4 Nbd7 15. d5
+c6 16. c4 Nb6 17. c5 dxc5 18. dxc6 Bxc6 19. Bb2 cxb4 20. Nxe5 Bd7 21. Bb3 Be6
+22. axb4 Bxb4 23. Bxe6 Rxe6 24. Re2 Na4 25. Nec4 Nxb2 26. Nxb2 Rd6 27. e5 Rxd2
+28. Rxd2 Qxd2 29. Qxd2 Bxd2 30. exf6 Bc3 0-1

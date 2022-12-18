@@ -1,0 +1,18 @@
+[Event "corr FRG/K"]
+[Site "corr FRG/K"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Nimtz"]
+[Black "Gerhardt"]
+[Result "1-0"]
+[ECO "B06"]
+[Opening "Robatsch defence"]
+[Variation "Pseudo-Austrian attack"]
+[HashCode "0e4272a9"]
+[Epoch "Rook"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. f4 c6 5. Nf3 Bg4 6. Be3 Qb6 7. Qd2 Bxf3 8.
+gxf3 Nd7 9. Bh3 O-O-O 10. O-O f5 11. a4 a6 12. b4 Qxb4 13. a5 Qc4 14. Rfb1
+Qf7 15. Ra3 e5 16. Rab3 exd4 17. Rxb7 Qf6 18. e5 dxe5 19. Ne4 fxe4 20. Rb8+
+Kc7 21. R1b7+ Kd6 22. fxe5+ Qxe5 23. Rxd8 1-0
+

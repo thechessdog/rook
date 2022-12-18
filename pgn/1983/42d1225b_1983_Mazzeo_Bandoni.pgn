@@ -1,0 +1,17 @@
+[Event "corr Italy"]
+[Site "corr Italy"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Mazzeo"]
+[Black "Bandoni"]
+[Result "1-0"]
+[ECO "C36"]
+[Opening "KGA"]
+[Variation "Abbazia defence (classical defence, modern defence[!])"]
+[HashCode "42d1225b"]
+[Epoch "Rook"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 d5 4. exd5 Qxd5 5. Nc3 Qe6+ 6. Kf2 Nc6 7. Bb5
+Ne7 8. d4 Qd6 9. Re1 Bd7 10. Ne4 Qh6 11. d5 Nb8 12. Bxd7+ Nxd7 13. d6 Nc8
+14. Nf6+ Kd8 15. Re8# 1-0
+

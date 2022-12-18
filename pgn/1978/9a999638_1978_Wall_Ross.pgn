@@ -1,0 +1,18 @@
+[Event "Statesville,NC"]
+[Site "Statesville,NC"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Wall, Bill"]
+[Black "Ross, Jerry"]
+[Result "1-0"]
+[ECO "B24"]
+[Opening "Sicilian"]
+[Variation "closed"]
+[HashCode "9a999638"]
+[Epoch "Rook"]
+[WhiteCountry "USA"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 e5 4. Bg2 Nf6 5. d3 d6 6. Nge2 Bg4 7. O-O Nd4 8. Be3
+Be7 9. h3 Bf3 10. Bxd4 Bxg2 11. Kxg2 cxd4 12. Nb1 b5 13. f4 exf4 14. Rxf4 Qb6
+15. Ng1 O-O 16. Nd2 Nd7 17. Qh5 Ne5 18. Raf1 Ng6 19. Rxf7 Rxf7 20. Rxf7 Kxf7
+21. Qd5+ Kf6 22. Qf5# 1-0

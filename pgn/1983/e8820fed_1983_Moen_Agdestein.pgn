@@ -1,0 +1,20 @@
+[Event "NOR-ch"]
+[Site "Trondheim"]
+[Date "1983.??.??"]
+[Round "9"]
+[White "Moen, Ole Christian"]
+[Black "Agdestein, Espen"]
+[Result "0-1"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack"]
+[HashCode "e8820fed"]
+[Epoch "Rook"]
+[WhiteID "1500457"]
+[BlackID "1500201"]
+[WhiteCountry "NOR"]
+[BlackCountry "NOR"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 O-O 6. Be2 c5 7. Be3 cxd4 8. Nxd4
+Nc6 9. Nb3 Be6 10. O-O Na5 11. Nd4 Bc4 12. b3 Bxe2 13. Ndxe2 Ng4 14. Bd4 Bxd4+
+15. Qxd4 Nc6 0-1

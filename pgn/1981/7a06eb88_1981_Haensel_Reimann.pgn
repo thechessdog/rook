@@ -1,0 +1,19 @@
+[Event "DDR Tch5"]
+[Site "DDR Tch5"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Haensel, E."]
+[Black "Reimann, G."]
+[Result "0-1"]
+[ECO "C91"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Bogolyubov variation"]
+[HashCode "7a06eb88"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8.
+c3 O-O 9. d4 Bg4 10. Be3 exd4 11. cxd4 Na5 12. Bc2 c5 13. dxc5 dxc5 14.
+Nbd2 Rc8 15. Rc1 Nc6 16. h3 Bh5 17. Nb3 Ne5 18. g4 Nxf3+ 19. Qxf3 Bg6 20.
+e5 Nd7 21. Qd5 Bxc2 22. Rxc2 c4 23. Nd4 Qc7 24. e6 Nc5 25. exf7+ Rxf7 26.
+Nf5 Kf8 27. Nxe7 Rxe7 28. Rd1 Rf7 29. b3 Nb7 30. bxc4 Rd8 31. Bc5+ Kg8 0-1
+

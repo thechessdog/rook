@@ -1,0 +1,18 @@
+[Event "Virginia"]
+[Site "Virginia"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Vassar, B."]
+[Black "Lutkenhaus, G."]
+[Result "0-1"]
+[ECO "B18"]
+[Opening "Caro-Kann"]
+[Variation "classical variation"]
+[HashCode "780d5784"]
+[Epoch "Rook"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. Nf3 Nd7 7. Bd3 Bxd3
+8. Qxd3 Qc7 9. O-O e6 10. c4 Ngf6 11. Bd2 Be7 12. Rad1 O-O 13. Rfe1 Rfe8
+14. Ng5 Bf8 15. Re4 Nxe4 16. N3xe4 h6 17. Nh3 e5 18. dxe5 Qxe5 19. f3 Nc5
+20. Nxc5 Qxc5+ 21. Kh1 Rad8 22. Qc2 Re2 23. Nf4 Rdxd2 0-1
+

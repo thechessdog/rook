@@ -1,0 +1,20 @@
+[Event "Montreal zt"]
+[Site "Montreal zt"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Hawkes, Rob"]
+[Black "Baragar, Fletcher"]
+[Result "1/2-1/2"]
+[ECO "B26"]
+[Opening "Sicilian"]
+[Variation "closed, 6.Be3"]
+[HashCode "00bae1b3"]
+[Epoch "Rook"]
+[WhiteID "2600382"]
+[WhiteCountry "CAN"]
+[BlackID "2600447"]
+[BlackCountry "CAN"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. Be3 e5 7. Qd2 Nge7 8. f4
+Be6 9. Nf3 Nd4 10. O-O O-O 11. Rae1 exf4 12. Bxf4 Nxf3+ 13. Rxf3 Qb6 14. Nd1
+Rfe8 15. Kh1 Nc6 16. Rf2 Ne5 17. Ref1 Rad8 18. b3 a6 1/2-1/2

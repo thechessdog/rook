@@ -1,0 +1,18 @@
+[Event "Gasunie"]
+[Site "Gasunie"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Hoogerburg"]
+[Black "Beijer"]
+[Result "0-1"]
+[ECO "A36"]
+[Opening "English"]
+[Variation "ultra-symmetrical variation"]
+[HashCode "097d5245"]
+[Epoch "Rook"]
+
+1. c4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. f4 e6 6. e4 d6 7. Nf3 Nge7 8.
+O-O O-O 9. d3 Nd4 10. Nxd4 Bxd4+ 11. Kh1 Bg7 12. Be3 Nc6 13. Qd2 Bd4 14.
+Bxd4 Nxd4 15. e5 a6 16. Ne4 dxe5 17. fxe5 Kg7 18. Nf6 h6 19. Rf4 Rh8 20.
+Raf1 Kf8 21. Ne4 Rh7 22. Rxf7+ Rxf7 23. Qxh6+ Ke7 24. Qg5+ Ke8 0-1
+

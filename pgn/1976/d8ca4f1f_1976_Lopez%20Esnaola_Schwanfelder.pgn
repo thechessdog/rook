@@ -1,0 +1,16 @@
+[Event "corr EUR/M"]
+[Site "corr EUR/M"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Lopez Esnaola, B."]
+[Black "Schwanfelder, M."]
+[Result "0-1"]
+[ECO "A00"]
+[Opening "Polish (Sokolsky) opening"]
+[HashCode "d8ca4f1f"]
+[Epoch "Rook"]
+
+1. b4 d5 2. Bb2 Nf6 3. e3 e6 4. b5 Bd6 5. c4 Nbd7 6. f4 O-O 7. Nf3 c5 8.
+Na3 Qe7 9. Be2 e5 10. fxe5 Nxe5 11. O-O d4 12. Qb3 Ne4 13. Rad1 Nxf3+ 14.
+Bxf3 Qh4 15. g3 Nxg3 0-1
+

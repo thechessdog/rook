@@ -1,0 +1,23 @@
+[Event "YUG-ch"]
+[Site "Borovo"]
+[Date "1981.??.??"]
+[Round "14"]
+[White "Ivanovic, Bozidar"]
+[Black "Rukavina, Josip"]
+[Result "0-1"]
+[ECO "B07"]
+[Opening "Pirc"]
+[Variation "Byrne variation"]
+[HashCode "991dc7d6"]
+[Epoch "Rook"]
+[WhiteID "900095"]
+[BlackID "14500191"]
+[WhiteCountry "MNE"]
+[BlackCountry "CRO"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Bg5 c6 5. Qd2 b5 6. f3 Nbd7 7. a4 b4 8. Nd1 a5
+9. Bd3 Bg7 10. Ne2 O-O 11. h4 e5 12. h5 exd4 13. hxg6 fxg6 14. Bc4+ d5 15. Ba2
+Re8 16. Qxd4 Ba6 17. Nf4 Qb6 18. Qe3 Qc5 19. Kd2 Qd6 20. Kc1 Nc5 21. Nd3 Nfd7
+22. Bf4 Qf8 23. Nxc5 Nxc5 24. Bh6 Bxh6 25. Rxh6 b3 26. Bxb3 Nxb3+ 27. Qxb3
+Qxh6+ 28. Ne3 Qh1+ 29. Kd2 Qxa1 30. exd5 Rad8 31. d6+ Kf8 32. c3 Rxd6+ 33. Kc2
+Bd3+ 34. Kd2 Bc4+ 0-1

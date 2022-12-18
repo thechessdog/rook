@@ -1,0 +1,20 @@
+[Event "Oakham"]
+[Site "Oakham"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Hodgson, Julian M"]
+[Black "Gudmundsson"]
+[Result "0-1"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Grand Prix attack"]
+[HashCode "0baa7fb2"]
+[Epoch "Rook"]
+[WhiteID "400076"]
+[WhiteCountry "ENG"]
+
+1. e4 c5 2. f4 d5 3. exd5 Nf6 4. c4 e6 5. dxe6 Bxe6 6. Nf3 Nc6 7. Nc3 Be7 8. d3
+O-O 9. Be2 Qc7 10. Ng5 Bf5 11. Nge4 Rad8 12. Nxf6+ Bxf6 13. Nd5 Qd6 14. O-O Nb4
+15. Nxb4 cxb4 16. a3 Rfe8 17. axb4 Qe7 18. Bf3 Bxd3 19. g3 Bxc4 20. Qc2 Bxf1
+21. Kxf1 Qe1+ 22. Kg2 Rc8 23. Qa4 Re2+ 24. Bxe2 Qxe2+ 25. Kh3 Qf1+ 26. Kg4 h5+
+27. Kf5 Qd3# 0-1

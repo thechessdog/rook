@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Stayart, G."]
+[Black "Walter, R."]
+[Result "0-1"]
+[ECO "C57"]
+[Opening "two knights defence"]
+[Variation "Wilkes Barre (Traxler) variation"]
+[HashCode "646d86be"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 Bc5 5. Nxf7 Bxf2+ 6. Kf1 Qe7 7. Nxh8
+d5 8. Be2 Bb6 9. d4 Nxd4 10. Bh5+ Kf8 11. Bg5 Qc5 12. Nc3 Nxh5 13. Qxh5 Be6
+14. Nxd5 Bxd5 15. exd5 Kg8 16. g3 Nxc2 17. Kg2 Qxd5+ 18. Qf3 Qxf3+ 19. Kxf3
+Nxa1 20. Rxa1 Kxh8 21. Ke4 Bd4 22. Rb1 Kg8 23. b3 Kf7 24. Rc1 c6 25. Be3
+Bxe3 26. Kxe3 Rd8 0-1
+

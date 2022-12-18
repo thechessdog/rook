@@ -1,0 +1,23 @@
+[Event "IBM"]
+[Site "Amsterdam"]
+[Date "1976.07.01"]
+[Round "6"]
+[White "Ligterink, Gert"]
+[Black "Velimirovic, Dragoljub"]
+[Result "0-1"]
+[ECO "C69"]
+[Opening "Ruy Lopez"]
+[Variation "exchange variation, 5.O-O"]
+[HashCode "5ac56b69"]
+[Epoch "Rook"]
+[WhiteID "1000179"]
+[WhiteCountry "NED"]
+[BlackCountry "SRB"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O Ne7 6. Nxe5 Qd4 7. Nf3 Qxe4
+8. Re1 Qg6 9. Ne5 Qf5 10. Nc3 f6 11. Nf3 Qh5 12. b3 Bg4 13. Ba3 Bxf3 14. Qxf3
+Qxf3 15. gxf3 Rd8 16. d3 Kf7 17. Bxe7 Bxe7 18. Re2 f5 19. Rd1 Rhe8 20. Rde1 Bf6
+21. Rxe8 Rxe8 22. Rxe8 Kxe8 23. Ne2 Ke7 24. d4 c5 25. dxc5 Kd7 26. Nf4 Kc6 27.
+Nd3 Bd4 28. Kf1 Bxc5 29. c4 Bd6 30. h3 b5 31. Ke2 bxc4 32. bxc4 Kb6 33. Kd2 g5
+34. Kc3 Bc5 35. Kb3 Bd4 36. Ka4 h5 37. Kb4 a5+ 38. Kb3 h4 39. Kc2 g4 40. fxg4
+fxg4 0-1

@@ -1,0 +1,33 @@
+[Event "IBM-B"]
+[Site "Amsterdam II"]
+[Date "1977.07.01"]
+[Round "8"]
+[White "Ligterink, Gert"]
+[Black "Van der Sterren, Paul"]
+[Result "1-0"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, dragon formation"]
+[HashCode "66b48d15"]
+[Epoch "Rook"]
+[WhiteID "1000179"]
+[WhiteCountry "NED"]
+[BlackID "1000071"]
+[BlackCountry "NED"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 c5 6. dxc5 Qa5 7. Bd3 Qxc5 8. Qe2
+O-O 9. Be3 Qa5 10. O-O Bg4 11. Qe1 Nc6 12. Nd2 Bd7 13. h3 Nb4 14. Nb3 Nxd3 15.
+cxd3 Qa6 16. Qd2 e6 17. f5 exf5 18. Bd4 d5 19. e5 Ne8 20. Nxd5 Kh8 21. Nb4 Qe6
+22. Nc5 Qb6 23. Qc3 Qc7 24. Nd5 Qc8 25. Qb4 Be6 26. Nf4 Nc7 27. Rac1 Nd5 28.
+Nxd5 Bxd5 29. e6 fxe6 30. Bxg7+ Kxg7 31. Rfe1 Qe8 32. Nxb7 Qd7 33. Nc5 Qf7 34.
+Re5 Rab8 35. Qd4 Kg8 36. Rce1 Rb6 37. b3 Rc8 38. Qf2 Rcc6 39. d4 Qc7 40. Qe3
+Qc8 41. Qg5 Rb4 42. Qe7 a5 43. Nd7 Rb7 44. Nf6+ Kh8 45. Nxd5 Rxe7 46. Nxe7 Qd7
+47. Nxc6 Qxc6 48. Rxe6 Qd5 49. Re8+ Kg7 50. Rd1 f4 51. Re5 Qd6 52. Kf2 Qf6 53.
+Rd3 Qc6 54. Re2 Qd5 55. a3 Kf6 56. Re5 Qc6 57. Re2 Qb5 58. Red2 Ke6 59. Rc3 Kd6
+60. Ke1 g5 61. d5 h5 62. Rdd3 Qe8+ 63. Kd1 Qe4 64. Rd2 g4 65. hxg4 hxg4 66.
+Rcd3 Qe5 67. Kc2 Qa1 68. a4 Qa2+ 69. Kc3 Qa1+ 70. Kc2 Qa2+ 71. Kc3 Qa1+ 72. Rb2
+Qf1 73. Rdd2 f3 74. gxf3 g3 75. Rbc2 Qxf3+ 76. Kb2 Qf6+ 77. Ka2 Qf4 78. Rd3 Qf5
+79. Rcd2 Qg6 80. Rc3 Qg7 81. Rc6+ Kd7 82. Rc1 Kd6 83. Rg1 Qc3 84. Rdg2 Kxd5 85.
+Rxg3 Qc2+ 86. Ka1 Qd2 87. R1g2 Qe1+ 88. Kb2 Qe5+ 89. Ka2 Qe1 90. Rd3+ Kc5 91.
+Rc2+ Kb6 92. Rd5 Ka6 93. Rb5 Qd1 94. Rc6+ Ka7 95. Rxa5+ Kb7 96. Rac5 Qd2+ 97.
+Ka3 Qe1 98. Rc1 Qe7+ 99. b4 Qe3+ 100. R6c3 Qd4 101. a5 1-0

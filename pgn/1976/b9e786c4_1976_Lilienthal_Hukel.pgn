@@ -1,0 +1,17 @@
+[Event "corr EU/M"]
+[Site "corr EU/M"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Lilienthal, Siegfried"]
+[Black "Hukel, J."]
+[Result "0-1"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, 6.Bd3"]
+[HashCode "b9e786c4"]
+[Epoch "Rook"]
+[WhiteCountry "GER"]
+
+1. d4 d6 2. e4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 O-O 6. Bd3 Bg4 7. Be3 e5 8. Qd2
+Nc6 9. fxe5 dxe5 10. d5 Ne7 11. Ne2 Nexd5 12. exd5 e4 13. Bc5 Re8 14. Bb5 exf3
+15. Bxe8 Qxe8 16. gxf3 Bxf3 17. Rf1 Ne4 18. Qe3 Bxe2 0-1

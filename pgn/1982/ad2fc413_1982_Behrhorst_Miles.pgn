@@ -1,0 +1,20 @@
+[Event "Manchester"]
+[Site "Manchester"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Behrhorst, Frank"]
+[Black "Miles, Anthony J"]
+[Result "0-1"]
+[ECO "A40"]
+[Opening "Queen's pawn"]
+[Variation "Lundin (Kevitz-Mikenas) defence"]
+[HashCode "ad2fc413"]
+[Epoch "Rook"]
+[WhiteID "4605322"]
+[WhiteCountry "GER"]
+[BlackCountry "ENG"]
+
+1. d4 Nc6 2. d5 Ne5 3. f4 Ng6 4. Nf3 e6 5. dxe6 fxe6 6. e4 Bc5 7. Bd3 d6 8. Nc3
+e5 9. f5 Nf4 10. g3 Nxd3+ 11. Qxd3 Bd7 12. Qc4 Bb6 13. Ng5 Nh6 14. Nxh7 Nf7 15.
+Bg5 Nxg5 16. f6 Nf3+ 17. Kd1 gxf6 18. Nd5 Rxh7 19. Nxb6 d5 20. Nxd5 Be6 21. Kc1
+Bxd5 22. exd5 f5 23. d6 Qg5+ 0-1

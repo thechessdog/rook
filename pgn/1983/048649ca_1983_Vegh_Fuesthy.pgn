@@ -1,0 +1,20 @@
+[Event "Elekes mem-A"]
+[Site "Budapest"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Vegh, Endre"]
+[Black "Fusthy, Zsolt"]
+[Result "1/2-1/2"]
+[ECO "E21"]
+[Opening "Nimzo-Indian"]
+[Variation "three knights variation"]
+[HashCode "048649ca"]
+[Epoch "Rook"]
+[WhiteID "700568"]
+[WhiteCountry "HUN"]
+[BlackID "701858"]
+[BlackCountry "HUN"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 Bb4+ 4. Nc3 b6 5. Bg5 h6 6. Bh4 g5 7. Bg3 Ne4 8. Qc2
+Bb7 9. e3 Bxc3+ 10. bxc3 Nxg3 11. hxg3 Qe7 12. g4 d6 13. Bd3 Nd7 14. Qa4 a5 15.
+Rb1 O-O-O 16. Ke2 h5 17. gxh5 g4 1/2-1/2

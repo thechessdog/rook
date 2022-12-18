@@ -1,0 +1,17 @@
+[Event "Erlangen"]
+[Site "Erlangen"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Gegner, Jurgen"]
+[Black "Hofbauer, Martin"]
+[Result "1-0"]
+[ECO "D00"]
+[Opening "Blackmar gambit"]
+[HashCode "8202a1b6"]
+[Epoch "Rook"]
+[BlackID "1600796"]
+[BlackCountry "AUT"]
+
+1. d4 d5 2. e4 dxe4 3. Nc3 Nf6 4. f3 exf3 5. Nxf3 g6 6. Bc4 Bg4 7. Bxf7+ Kxf7
+8. Ne5+ Kg8 9. Nxg4 Nxg4 10. Qxg4 Qd7 11. Qf3 Nc6 12. O-O e6 13. Ne4 Bg7 14. c3
+Rf8 15. Qxf8+ 1-0

@@ -1,0 +1,20 @@
+[Event "Mezokovesd"]
+[Site "Mezokovesd"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Csorgo, T."]
+[Black "Eberth, Zoltan"]
+[Result "0-1"]
+[ECO "B02"]
+[Opening "Alekhine's defence"]
+[Variation "Scandinavian variation"]
+[HashCode "3981b363"]
+[Epoch "Rook"]
+[BlackID "702668"]
+[BlackCountry "HUN"]
+
+1. e4 Nf6 2. Nc3 d5 3. d3 dxe4 4. dxe4 Qxd1+ 5. Kxd1 e5 6. Bd3 Bc5 7. Nf3 Ng4
+8. Re1 Nxf2+ 9. Ke2 Nc6 10. Be3 Nxd3 11. Kxd3 Nb4+ 12. Kd2 Bxe3+ 13. Rxe3 f6
+14. Nd5 Nxd5 15. exd5 Kf7 16. Rae1 Rd8 17. c4 c6 18. Kc3 cxd5 19. cxd5 Rxd5 20.
+Kc4 Be6 21. a4 Rc8+ 22. Kb4 g5 23. Rc3 a5+ 24. Kb3 Rd2+ 25. Ka3 Rxc3+ 26. bxc3
+Ra2# 0-1

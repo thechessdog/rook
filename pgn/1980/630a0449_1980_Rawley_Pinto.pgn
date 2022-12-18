@@ -1,0 +1,18 @@
+[Event "Michigan"]
+[Site "Michigan"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Rawley, L."]
+[Black "Pinto, Mark"]
+[Result "0-1"]
+[ECO "B16"]
+[Opening "Caro-Kann"]
+[Variation "Bronstein-Larsen variation"]
+[HashCode "630a0449"]
+[Epoch "Rook"]
+[BlackID "2006324"]
+[BlackCountry "USA"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ gxf6 6. c3 Bf5 7. Nf3 e6 8.
+Bf4 Bd6 9. Bxd6 Qxd6 10. Qb3 Nd7 11. Nh4 Bg6 12. Qxb7 Rb8 13. Qa6 Rxb2 14. Qc8+
+Ke7 15. Nxg6+ hxg6 16. Qxh8 Qf4 0-1

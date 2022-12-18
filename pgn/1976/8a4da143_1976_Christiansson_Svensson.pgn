@@ -1,0 +1,18 @@
+[Event "corr SWE/K tt"]
+[Site "corr SWE/K tt"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Christiansson, Beng"]
+[Black "Svensson, Conny"]
+[Result "1/2-1/2"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...g6"]
+[HashCode "8a4da143"]
+[Epoch "Rook"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 g6 6. Qb3 Bg7 7. cxd5 O-O
+8. Be2 Nbd7 9. Bf3 Nb6 10. Bg5 a5 11. Bxf6 exf6 12. Nge2 Bf5 13. Qb5 Qd6
+14. O-O Rfc8 15. Ng3 Bd7 16. Nge4 Qb4 17. Qe2 f5 18. a3 Qf8 19. Nc5 Bxd4
+20. Nxd7 Nxd7 21. Nb5 Be5 22. Rad1 Bd6 23. Nxd6 Qxd6 24. Rfe1 Kf8 1/2-1/2
+

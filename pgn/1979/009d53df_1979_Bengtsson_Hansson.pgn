@@ -1,0 +1,20 @@
+[Event "Sweden"]
+[Site "Sweden"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Bengtsson, Bo"]
+[Black "Hansson, Dan"]
+[Result "1-0"]
+[ECO "B87"]
+[Opening "Sicilian"]
+[Variation "Sozin with ...a6 and ...b5"]
+[HashCode "009d53df"]
+[Epoch "Rook"]
+[WhiteID "1700804"]
+[WhiteCountry "SWE"]
+[BlackCountry "ISL"]
+
+1. e4 c5 2. Nf3 d6 3. d4 Nf6 4. Nc3 cxd4 5. Nxd4 a6 6. Bc4 e6 7. Bb3 b5 8. O-O
+Be7 9. Qf3 Qb6 10. Be3 Qb7 11. Qg3 g6 12. f3 O-O 13. Rad1 Nc6 14. Nxc6 Qxc6 15.
+Qh4 Re8 16. Bg5 Kg7 17. f4 Ng8 18. Bxe7 Rxe7 19. f5 exf5 20. Kh1 Bb7 21. Bd5
+Qc5 22. exf5 f6 23. fxg6 hxg6 24. Ne4 Qxc2 25. Nxf6 Bxd5 26. Qh7+ 1-0

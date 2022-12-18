@@ -1,0 +1,15 @@
+[Event "Dayton,OH"]
+[Site "Dayton,OH"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Wall, Bill"]
+[Black "Barsalou, Norm"]
+[Result "1-0"]
+[ECO "C55"]
+[Opening "Two knights defence"]
+[HashCode "24347d88"]
+[Epoch "Rook"]
+[WhiteCountry "USA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d4 Nxe4 5. dxe5 Na5 6. Bxf7+ Kxf7 7. Qd5+ Ke8
+8. Qxe4 d6 9. exd6+ Kd7 10. Qf5+ Kxd6 11. Bf4+ Ke7 12. Bg5+ 1-0

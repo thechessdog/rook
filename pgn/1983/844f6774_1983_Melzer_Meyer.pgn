@@ -1,0 +1,23 @@
+[Event "corr DDR/FS"]
+[Site "corr DDR/FS"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Melzer"]
+[Black "Mevel, Alberic"]
+[Result "1-0"]
+[ECO "C57"]
+[Opening "two knights defence"]
+[Variation "Wilkes Barre (Traxler) variation"]
+[HashCode "844f6774"]
+[Epoch "Rook"]
+[BlackID "602574"]
+[BlackCountry "FRA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 Bc5 5. Bxf7+ Ke7 6. Bd5 d6 7. c3 Rf8 8.
+d4 exd4 9. Bxc6 bxc6 10. cxd4 Bb6 11. Nc3 h6 12. Nf3 Bg4 13. Be3 Qe8 14. Qa4
+Kf7 15. h3 Be6 16. Qc2 Kg8 17. Nd2 Nh5 18. Ne2 Kh8 19. f4 c5 20. dxc5 Bxc5 21.
+Bxc5 dxc5 22. O-O Nf6 23. f5 Bf7 24. Nc3 Qe7 25. Rae1 Nd7 26. Na4 Qd6 27. b3
+Rae8 28. Nf3 Re7 29. Rd1 Qc6 30. Rxd7 Qxd7 31. e5 Be8 32. g4 Rxe5 33. Nxc5 Qd5
+34. Nxe5 Qxe5 35. Ne6 Rf7 36. Qf2 Qd6 37. Qf4 Qb6+ 38. Kh2 Bb5 39. Rf2 Bd7 40.
+Nd4 a5 41. Rc2 c5 42. Nf3 Kg8 43. Qe5 Bc6 44. Nh4 c4 45. Ng6 a4 46. bxc4 Qb1
+47. Rb2 Qd1 48. Rb8+ Kh7 49. Rh8# 1-0

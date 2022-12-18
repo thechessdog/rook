@@ -1,0 +1,17 @@
+[Event "USA"]
+[Site "USA"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Corden, Martyn J"]
+[Black "NN"]
+[Result "1-0"]
+[ECO "C56"]
+[Opening "Two knights defence"]
+[HashCode "1bb042ba"]
+[Epoch "Rook"]
+[WhiteID "401200"]
+[WhiteCountry "ENG"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d4 exd4 5. O-O Nxe4 6. Re1 d5 7. Bxd5 Qxd5 8.
+Nc3 Qa5 9. Nxe4 Be6 10. Bd2 Qf5 11. Bg5 Bb4 12. Nxd4 Nxd4 13. Qxd4 Bf8 14. Rad1
+f6 15. Qd7+ Bxd7 16. Nd6+ Kd8 17. Nf7+ Kc8 18. Re8+ Bxe8 19. Rd8# 1-0

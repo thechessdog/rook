@@ -1,0 +1,18 @@
+[Event "corr Italy"]
+[Site "corr Italy"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Bencini"]
+[Black "Marchioli"]
+[Result "1-0"]
+[ECO "B15"]
+[Opening "Caro-Kann"]
+[Variation "Gurgenidze system"]
+[HashCode "b847f923"]
+[Epoch "Rook"]
+
+1. e4 c6 2. d4 d5 3. Nc3 g6 4. Nf3 Bg7 5. h3 dxe4 6. Nxe4 Nd7 7. Bc4 Ngf6
+8. Nxf6+ Nxf6 9. O-O O-O 10. Re1 Bf5 11. Ne5 Be4 12. Bg5 Bd5 13. Bd3 Be6
+14. c3 Re8 15. Qc2 Nd7 16. Bh4 Nxe5 17. dxe5 Qa5 18. Bg3 Qb6 19. b3 f6 20.
+exf6 exf6 21. Rxe6 Rxe6 22. Bc4 1-0
+

@@ -1,0 +1,18 @@
+[Event "Erevan"]
+[Site "Erevan"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Tavadian, Ragik"]
+[Black "Makarov, Marat"]
+[Result "1/2-1/2"]
+[ECO "E18"]
+[Opening "Queen's Indian"]
+[Variation "old main line, 7.Nc3"]
+[HashCode "1107ebf1"]
+[Epoch "Rook"]
+[BlackID "4101103"]
+[BlackCountry "RUS"]
+
+1. c4 Nf6 2. Nf3 b6 3. g3 Bb7 4. Bg2 e6 5. O-O Be7 6. d4 O-O 7. Nc3 Ne4 8. Nxe4
+Bxe4 9. Nh4 Bxg2 10. Nxg2 d5 11. Qa4 c5 12. Be3 cxd4 13. Bxd4 dxc4 14. Qxc4 Qc8
+15. Rac1 Na6 1/2-1/2

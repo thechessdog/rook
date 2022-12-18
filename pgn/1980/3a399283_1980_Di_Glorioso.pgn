@@ -1,0 +1,16 @@
+[Event "corr Italy"]
+[Site "corr Italy"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Di Lupo"]
+[Black "Glorioso"]
+[Result "0-1"]
+[ECO "C10"]
+[Opening "French"]
+[Variation "Marshall variation"]
+[HashCode "3a399283"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nc3 c5 4. exd5 exd5 5. dxc5 Nf6 6. b4 a5 7. Ba3 axb4
+8. Bxb4 d4 9. Bb5+ Nc6 10. Na4 Bd7 11. c3 Nxb4 12. Bxd7+ Qxd7 0-1
+

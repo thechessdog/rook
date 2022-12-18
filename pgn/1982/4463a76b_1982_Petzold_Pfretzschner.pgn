@@ -1,0 +1,22 @@
+[Event "corr ch-DDR"]
+[Site "corr ch-DDR"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Petzold"]
+[Black "Pfretzschner"]
+[Result "0-1"]
+[ECO "B33"]
+[Opening "Sicilian"]
+[Variation "Pelikan (Lasker/Sveshnikov) variation"]
+[HashCode "4463a76b"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. a4 a6 8.
+Na3 Be6 9. Bc4 h6 10. Bd5 Rc8 11. Nc4 Bxd5 12. exd5 Nb8 13. b3 Nbd7 14. Bd2
+Be7 15. O-O O-O 16. Qf3 Nh7 17. Ne4 Qc7 18. Qg3 f5 19. Nc3 Bg5 20. f4 exf4
+21. Bxf4 Bxf4 22. Rxf4 Qc5+ 23. Qf2 g5 24. Rd4 Ne5 25. Rb1 Nf6 26. h3 Rce8
+27. Rbd1 f4 28. Nxe5 Qxc3 29. Nc4 Ne4 30. Qf3 Qxc2 31. Na3 Qc5 32. b4 Qa7
+33. Kh2 Ng3 34. Nc4 Nf5 35. Re4 Nh4 36. Qe2 f3 37. Qc2 fxg2 38. Ne3 Qxe3
+39. Rxe3 Rxe3 40. Rg1 Rfe8 41. Qc7 Re2 42. Qxd6 R8e3 43. Rc1 Nf3+ 44. Kg3
+g1=Q+ 45. Rxg1 Ne5# 0-1
+

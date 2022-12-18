@@ -1,0 +1,18 @@
+[Event "CSR-ch"]
+[Site "Ostrava"]
+[Date "1976.??.??"]
+[Round "12"]
+[White "Travnicek, Peter"]
+[Black "Prandstetter, Eduard"]
+[Result "0-1"]
+[ECO "B99"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7...Be7 main line"]
+[HashCode "8f90160f"]
+[Epoch "Rook"]
+[BlackID "300225"]
+[BlackCountry "CZE"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3
+Qc7 9. O-O-O Nbd7 10. Qg3 h6 11. Bh4 g5 12. fxg5 Rg8 13. Be2 Ne5 14. gxf6 Rxg3
+15. Ncb5 axb5 16. Nxb5 Qc5 17. fxe7 Rg5 0-1

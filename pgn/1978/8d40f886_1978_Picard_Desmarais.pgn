@@ -1,0 +1,19 @@
+[Event "Trois-Rivieres"]
+[Site "Trois-Rivieres"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Picard, Bernard"]
+[Black "Desmarais, Richard"]
+[Result "1-0"]
+[ECO "B00"]
+[Opening "KP"]
+[Variation "Nimzovich defence"]
+[HashCode "8d40f886"]
+[Epoch "Rook"]
+[WhiteID "606790"]
+[WhiteCountry "FRA"]
+
+1. e4 Nc6 2. d4 d5 3. e5 Bf5 4. c3 e6 5. Nf3 f6 6. Bb5 a6 7. Bxc6+ bxc6 8. O-O
+Bg4 9. h3 Bxf3 10. Qxf3 f5 11. b4 a5 12. Bd2 Ne7 13. Bg5 Qb8 14. a3 Nc8 15. Nd2
+Nb6 16. Rfb1 Qc8 17. Rc1 Qd7 18. c4 dxc4 19. Nxc4 Nxc4 20. Rxc4 axb4 21. Rxc6
+Rxa3 22. Rxa3 bxa3 23. Ra6 Kf7 24. d5 a2 25. Qxf5+ exf5 26. e6+ 1-0

@@ -1,0 +1,20 @@
+[Event "Skopje"]
+[Site "Skopje"]
+[Date "1976.02.01"]
+[Round "14"]
+[White "Velimirovic, Dragoljub"]
+[Black "Tarjan, James"]
+[Result "0-1"]
+[ECO "B41"]
+[Opening "Sicilian"]
+[Variation "Kan, Maroczy bind (Reti variation)"]
+[HashCode "fb6c73cb"]
+[Epoch "Rook"]
+[BlackID "2000180"]
+[BlackCountry "USA"]
+[WhiteCountry "SRB"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. c4 Nf6 6. Nc3 Qc7 7. Be2 Bb4 8. O-O
+Bxc3 9. bxc3 Nxe4 10. Bf3 Nc5 11. Nb3 O-O 12. Qd4 Nxb3 13. axb3 Nc6 14. Bxc6 e5
+15. Qe3 dxc6 16. Ba3 Re8 17. Rad1 Bf5 18. Bd6 Qa5 19. Rd2 Rad8 20. b4 Qa3 21.
+Bxe5 Rxd2 22. Qxd2 a5 23. bxa5 Rxe5 0-1

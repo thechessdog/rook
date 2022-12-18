@@ -1,0 +1,19 @@
+[Event "corr ch10-DDR"]
+[Site "corr ch10-DDR"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Petzold, J."]
+[Black "Schlachetka, W."]
+[Result "0-1"]
+[ECO "B33"]
+[Opening "Sicilian"]
+[Variation "Pelikan (Lasker/Sveshnikov) variation"]
+[HashCode "56e3e3d8"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. a4 a6 8.
+Na3 Be6 9. Bc4 Rc8 10. Bg5 Nb4 11. Nd5 Nbxd5 12. exd5 Bd7 13. Bb3 Be7 14.
+Bxf6 Bxf6 15. Nc4 Bf5 16. a5 h5 17. Nb6 Rc7 18. c4 e4 19. Ra2 Be5 20. Ba4+
+Kf8 21. Bc2 Qg5 22. Kf1 h4 23. Qe1 Rh6 24. Bxe4 Bxe4 25. Qxe4 Re7 26. Qc2
+Rg6 27. g3 Qg4 28. Qd3 Qh3+ 29. Ke1 hxg3 30. fxg3 Qg2 31. Rf1 Rg4 0-1
+

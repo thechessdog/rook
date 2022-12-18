@@ -1,0 +1,24 @@
+[Event "corr Volmac"]
+[Site "corr Volmac"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Marcussi, B."]
+[Black "Quist, V."]
+[Result "1/2-1/2"]
+[ECO "B42"]
+[Opening "Sicilian"]
+[Variation "Kan, 5.Bd3"]
+[HashCode "f81d7a71"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Ne7 6. c4 Nbc6 7. Nxc6 Nxc6
+8. Nc3 Bc5 9. O-O d6 10. Kh1 e5 11. f4 exf4 12. Bxf4 Be6 13. Qh5 Qd7 14.
+Nd5 Bg4 15. Qh4 Ne5 16. Bxe5 dxe5 17. Qg5 f6 18. Rxf6 O-O-O 19. Rff1 Bd4
+20. c5 Kb8 21. Nb6 Qe6 22. Bc4 Qg6 23. Qxg6 hxg6 24. Rf7 Rdf8 25. Raf1 Bxc5
+26. Bd5 Be7 27. h3 Ka7 28. Nc4 Be2 29. Rxf8 Rxf8 30. Rxf8 Bxf8 31. Nxe5 g5
+32. Nf7 g4 33. e5 gxh3 34. gxh3 b5 35. Nd8 Bh5 36. Ne6 Bf7 37. Nf4 Be8 38.
+Kh2 g5 39. Ne6 Be7 40. Kg3 Bd7 41. Ng7 Bf8 42. Nh5 Bf5 43. h4 gxh4+ 44.
+Kxh4 Be7+ 45. Nf6 Kb6 46. Kg5 Bb1 47. Kf4 Kc5 48. Bb3 a5 49. a3 Bd8 50.
+Nd7+ Kc6 51. Nf8 Be7 52. Ne6 a4 53. Bd1 Kd5 54. Nc7+ Kc4 55. Ne8 Kd3 56.
+Nd6 1/2-1/2
+

@@ -1,0 +1,18 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Lukin, Andrei M"]
+[Black "Nepomnishay, M."]
+[Result "1/2-1/2"]
+[ECO "B23"]
+[Opening "Sicilian"]
+[Variation "closed"]
+[HashCode "da5a09f9"]
+[Epoch "Rook"]
+[WhiteID "4101251"]
+[WhiteCountry "RUS"]
+
+1. e4 c5 2. Nc3 d6 3. f4 Nf6 4. Nf3 a6 5. Be2 g6 6. d4 cxd4 7. Nxd4 Bg7 8. Be3
+O-O 9. O-O Nc6 10. Nb3 Be6 11. f5 Bxb3 12. axb3 Ne5 13. g4 Rc8 14. Bf3 Nxf3+
+15. Qxf3 Nd7 16. Qf2 Bxc3 17. bxc3 Ne5 18. Bd4 f6 19. Bxe5 dxe5 1/2-1/2

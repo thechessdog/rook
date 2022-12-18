@@ -1,0 +1,22 @@
+[Event "Helsinki"]
+[Site "Helsinki"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Heinola, Kari P."]
+[Black "Lako, M."]
+[Result "0-1"]
+[ECO "E76"]
+[Opening "King's Indian"]
+[Variation "Four pawns attack, dynamic line"]
+[HashCode "4a49533e"]
+[Epoch "Rook"]
+[WhiteID "503495"]
+[WhiteCountry "FIN"]
+
+1. d4 g6 2. c4 Bg7 3. Nc3 d6 4. e4 Nf6 5. f4 O-O 6. Nf3 c5 7. d5 e6 8. e5 dxe5
+9. fxe5 Nfd7 10. Bg5 Qa5 11. Be2 exd5 12. O-O d4 13. Nd5 Nc6 14. Be7 Nxe7 15.
+Nxe7+ Kh8 16. e6 fxe6 17. Ng5 Nf6 18. Bd3 Qc7 19. Nxg6+ hxg6 20. Bxg6 Bh6 21.
+Rxf6 Rxf6 22. Qh5 Qg7 23. Nf7+ Rxf7 24. Bxf7 Qg5 25. Rf1 Qxh5 26. Bxh5 Bd7 27.
+Rf7 Rf8 28. Kf2 Rxf7+ 29. Bxf7 Kg7 30. Bh5 Bc6 31. h4 Be3+ 32. Kf1 b5 33. Be2
+bxc4 34. Bxc4 Bd5 35. b3 Bxc4+ 36. bxc4 e5 37. Ke2 e4 38. g3 Kg6 39. g4 Bf4 40.
+a4 a5 41. Ke1 d3 42. Kf2 0-1

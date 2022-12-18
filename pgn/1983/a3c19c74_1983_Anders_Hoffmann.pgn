@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Anders"]
+[Black "Hoffmann, Hans"]
+[Result "0-1"]
+[ECO "A45"]
+[Opening "Queen's pawn"]
+[Variation "Bronstein gambit"]
+[HashCode "a3c19c74"]
+[Epoch "Rook"]
+[BlackID "4602536"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. g4 e5 3. dxe5 Nxg4 4. Qd4 d6 5. exd6 Bxd6 6. Bh3 Nc6 7. Qxg7 Be5
+8. Qg5 Qxg5 9. Bxg5 Bxb2 10. f3 Rg8 0-1

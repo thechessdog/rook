@@ -1,0 +1,17 @@
+[Event "USA"]
+[Site "USA"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Parker"]
+[Black "Hurd, S."]
+[Result "1-0"]
+[ECO "B16"]
+[Opening "Caro-Kann"]
+[Variation "Bronstein-Larsen variation"]
+[HashCode "66c1515a"]
+[Epoch "Rook"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ gxf6 6. c3 Bg7 7. Ne2
+Bg4 8. Qc2 O-O 9. Ng3 e5 10. Be3 exd4 11. cxd4 Re8 12. Bd3 Qxd4 13. Bxh7+
+Kh8 14. O-O Rxe3 15. fxe3 Qxe3+ 16. Kh1 Nd7 17. Rae1 Qh6 18. Bf5 1-0
+

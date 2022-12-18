@@ -1,0 +1,21 @@
+[Event "corr ch16-SU"]
+[Site "corr ch16-SU"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Levin, L."]
+[Black "Kastarnov, S."]
+[Result "1-0"]
+[ECO "B10"]
+[Opening "Caro-Kann"]
+[Variation "two knights variation"]
+[HashCode "1c62d219"]
+[Epoch "Rook"]
+
+1. e4 c6 2. Nc3 d5 3. Nf3 dxe4 4. Nxe4 Nd7 5. Bc4 Ngf6 6. Neg5 Nd5 7. d4 h6
+8. Ne4 N7b6 9. Bb3 Bf5 10. Ng3 Bh7 11. O-O e6 12. c4 Nf6 13. Qe2 Be7 14.
+Bd2 c5 15. Bc3 O-O 16. Rfe1 cxd4 17. Nxd4 Bc5 18. Rad1 Qc7 19. Qf3 a6 20.
+Nde2 Qc6 21. Qf4 Nbd7 22. Qh4 e5 23. Nc1 Rfe8 24. Re2 Nf8 25. Nh5 Ng6 26.
+Nxf6+ gxf6 27. Qg3 Kh8 28. Nd3 Rg8 29. Qh3 Rad8 30. Bc2 Bd4 31. Qxh6 Bxc3
+32. bxc3 Qxc4 33. Red2 Qh4 34. Qe3 Rc8 35. g3 Qh5 36. Qb6 Nh4 37. Qxf6+ Rg7
+38. Nf4 1-0
+

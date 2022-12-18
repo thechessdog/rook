@@ -1,0 +1,21 @@
+[Event "COL-ch"]
+[Site "Bogota"]
+[Date "1980.01.01"]
+[Round "?"]
+[White "Gonzalez, JA."]
+[Black "Garcia, Gildardo"]
+[Result "0-1"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "modern variation"]
+[HashCode "123f9896"]
+[Epoch "Rook"]
+[BlackID "4400020"]
+[BlackCountry "COL"]
+
+1. b3 e5 2. Bb2 Nc6 3. e3 d5 4. Nf3 e4 5. Ng1 Nf6 6. d4 Bd6 7. c4 O-O 8. Nc3
+Re8 9. Nge2 dxc4 10. bxc4 Ng4 11. h3 Nb4 12. Nf4 Nxe3 13. fxe3 Qh4+ 14. Kd2
+Bxf4 15. Qe2 Bh6 16. Qe1 Qd8 17. Nd1 c5 18. a3 Nd3 19. Bxd3 exd3 20. dxc5 Qa5+
+21. Bc3 Qxc5 22. g4 Bd7 23. g5 Bxg5 24. Rg1 g6 25. Qf2 Ba4 26. h4 Bh6 27. Rg3
+Bg7 28. Bxg7 Kxg7 29. Nc3 Bb3 30. h5 Qxh5 31. Qg2 Qe5 32. Rh1 Bxc4 33. Rh4 Rac8
+34. Qh2 Bb3 0-1

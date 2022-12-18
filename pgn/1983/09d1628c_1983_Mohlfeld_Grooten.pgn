@@ -1,0 +1,19 @@
+[Event "Ramsgate"]
+[Site "Ramsgate"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Mohlfeld"]
+[Black "Grooten, Herman"]
+[Result "0-1"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "09d1628c"]
+[Epoch "Rook"]
+[BlackID "1000330"]
+[BlackCountry "NED"]
+
+1. e4 c5 2. c3 d6 3. d4 Nf6 4. dxc5 Nc6 5. cxd6 Nxe4 6. dxe7 Qxd1+ 7. Kxd1 Bxe7
+8. Be3 Bf5 9. Nf3 O-O-O+ 10. Nbd2 a6 11. Bc4 Bc5 12. Ke2 Bxe3 13. Nxe4 Ba7 14.
+Ng3 Rhe8+ 15. Kf1 Bg4 16. Bxf7 Re7 17. Bb3 Bxf3 18. gxf3 Rd2 19. Ne4 Rxe4 20.
+fxe4 Rxf2+ 21. Ke1 Ne5 22. Kd1 Be3 0-1

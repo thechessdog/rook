@@ -1,0 +1,19 @@
+[Event "corr ESP-USA"]
+[Site "corr ESP-USA"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Vicente"]
+[Black "Frumkin"]
+[Result "1-0"]
+[ECO "C69"]
+[Opening "Ruy Lopez"]
+[Variation "exchange, Bronstein variation"]
+[HashCode "a75f407c"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O Qd6 6. d4 exd4 7. Nxd4
+Bd7 8. Be3 O-O-O 9. Qe2 Qg6 10. Nd2 h5 11. f3 h4 12. Nc4 Qh5 13. Rfd1 f6
+14. Rd2 Nh6 15. Rad1 Nf7 16. c3 Nd6 17. b4 c5 18. Nb3 cxb4 19. cxb4 Qb5 20.
+Rxd6 cxd6 21. Rd5 Qc6 22. Nba5 Qc7 23. Bb6 Qb8 24. Nxd6+ Bxd6 25. Qc4+ Bc7
+26. Rc5 Bc6 27. Bxc7 Rd1+ 28. Kf2 Qxc7 29. Nxc6 Qxh2 30. Qe6+ 1-0
+

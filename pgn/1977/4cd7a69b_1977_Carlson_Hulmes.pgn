@@ -1,0 +1,18 @@
+[Event "Denver"]
+[Site "Denver"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Carlson, Curtis"]
+[Black "Hulmes"]
+[Result "1-0"]
+[ECO "B47"]
+[Opening "Sicilian"]
+[Variation "Taimanov (Bastrikov) variation"]
+[HashCode "4cd7a69b"]
+[Epoch "Rook"]
+[WhiteID "2002868"]
+[WhiteCountry "USA"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 Qc7 6. g3 a6 7. Bg2 b5 8. Nxc6
+Qxc6 9. O-O Bb7 10. Re1 Nf6 11. Bg5 Be7 12. Nd5 Nxd5 13. exd5 Qd6 14. dxe6 Qxd1
+15. Raxd1 Bxg5 16. exd7+ Kd8 17. Bxb7 Ra7 18. Bc6 Rc7 19. Re8+ 1-0

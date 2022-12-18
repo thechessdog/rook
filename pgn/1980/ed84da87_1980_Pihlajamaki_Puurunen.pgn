@@ -1,0 +1,19 @@
+[Event "corr NS/I"]
+[Site "corr NS/I"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Pihlajamaki, Pirkko"]
+[Black "Puurunen, Osmo"]
+[Result "1-0"]
+[ECO "A17"]
+[Opening "English"]
+[Variation "Nimzo-English opening"]
+[HashCode "ed84da87"]
+[Epoch "Rook"]
+
+1. Nf3 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 O-O 5. a3 Be7 6. d4 d5 7. Bf4 Nh5 8.
+Bg3 c6 9. e3 dxc4 10. Bxc4 Nd7 11. e4 Nb6 12. Ba2 g6 13. O-O-O Bd7 14. Be5
+Bf6 15. g4 Bxe5 16. Nxe5 Ng7 17. f4 Rc8 18. h4 Qc7 19. h5 gxh5 20. gxh5 h6
+21. Rdg1 f6 22. Qg2 Be8 23. Bxe6+ Kh7 24. Qg6+ Bxg6 25. hxg6+ Kh8 26. Rxh6#
+1-0
+

@@ -1,0 +1,18 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Hansen, Soren Bech"]
+[Black "Jorgensen, Michael"]
+[Result "1-0"]
+[ECO "C65"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence, Beverwijk variation"]
+[HashCode "7e98bfa6"]
+[Epoch "Rook"]
+[WhiteID "1400681"]
+[WhiteCountry "DEN"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. O-O Nf6 5. Bxc6 bxc6 6. Nxe5 Nxe4 7. Qe2 Qh4
+8. d3 Nxf2 9. Nf3+ Ne4+ 10. Kh1 Qh5 11. Qxe4+ Kd8 12. Qh4+ Qxh4 13. Nxh4 Re8
+14. Nc3 g5 15. Bxg5+ 1-0

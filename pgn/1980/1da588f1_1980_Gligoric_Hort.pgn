@@ -1,0 +1,18 @@
+[Event "Bugojno"]
+[Site "Bugojno"]
+[Date "1980.05.01"]
+[Round "2"]
+[White "Gligorić, Svetozar"]
+[Black "Hort, Vlastimil"]
+[Result "1/2-1/2"]
+[ECO "E95"]
+[Opening "King's Indian"]
+[Variation "orthodox, 7...Nbd7, 8.Re1"]
+[HashCode "1da588f1"]
+[Epoch "Rook"]
+[BlackID "4600029"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 d6 3. Nc3 e5 4. Nf3 Nbd7 5. e4 g6 6. Be2 Bg7 7. O-O O-O 8. Re1
+c6 9. Rb1 a6 10. dxe5 Nxe5 11. Nxe5 dxe5 12. Be3 Be6 13. Qc2 Qe7 14. b4 Nd7 15.
+Na4 Rfd8 1/2-1/2

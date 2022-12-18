@@ -1,0 +1,21 @@
+[Event "Australia"]
+[Site "Australia"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Shaw, Terrey Ian"]
+[Black "Hay, Trevor"]
+[Result "0-1"]
+[ECO "B06"]
+[Opening "Robatsch defence"]
+[Variation "two knights variation"]
+[HashCode "f660cd7c"]
+[Epoch "Rook"]
+[BlackID "3200132"]
+[BlackCountry "AUS"]
+[WhiteCountry "AUS"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. Nf3 Bg4 5. Be3 Nc6 6. Be2 e5 7. d5 Bxf3 8. Bxf3
+Nd4 9. Bg4 Nh6 10. Bh3 O-O 11. O-O f5 12. Bxd4 exd4 13. Ne2 g5 14. Bxf5 Nxf5
+15. exf5 Rxf5 16. Nxd4 Rxd5 17. c3 c6 18. Qb3 Bxd4 19. cxd4 Qb6 20. Qh3 Qxd4
+21. Rad1 Qxd1 22. Qe6+ Kh8 23. Qf6+ Kg8 24. Qe6+ Kf8 25. Qf6+ Ke8 26. Qh8+ Kd7
+27. Qxa8 Kc7 28. h4 Qg4 29. Qg8 Qxh4 30. Re1 h5 31. b4 Qg4 32. Qe8 h4 0-1

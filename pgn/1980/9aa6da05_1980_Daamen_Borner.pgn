@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Daamen, F."]
+[Black "Borner, U."]
+[Result "1-0"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "Cozio (Lasker) attack"]
+[HashCode "9aa6da05"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. Qe2 Qe7 6. d4 c5 7. dxc5 dxc5
+8. Bf4 g5 9. Nxg5 Nxg5 10. Bxg5 Qxe2+ 11. Bxe2 Rg8 12. Bf4 Rxg2 13. Bg3 Bh3
+14. Bf3 Nc6 15. Nc3 O-O-O 16. Bxg2 Bxg2 17. Rg1 Re8+ 18. Kd2 Bh3 19. Rae1
+Rd8+ 20. Kc1 a6 21. Rd1 Bh6+ 22. Kb1 Rxd1+ 23. Rxd1 Bg5 24. Rd5 1-0
+

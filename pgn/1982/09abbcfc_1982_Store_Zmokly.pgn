@@ -1,0 +1,17 @@
+[Event "corr FSM/EU Tch"]
+[Site "corr FSM/EU Tch"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Store, Thor"]
+[Black "Zmokly, A."]
+[Result "0-1"]
+[ECO "B41"]
+[Opening "Sicilian"]
+[Variation "Kan, Maroczy bind (Reti variation)"]
+[HashCode "09abbcfc"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. c4 Nf6 6. Bd3 Nc6 7. Nxc6 dxc6 8.
+O-O e5 9. Qc2 Bc5 10. Bg5 h6 11. Bh4 g5 12. Bg3 Qe7 13. Nd2 h5 14. h4 gxh4 15.
+Bxh4 Rg8 16. Nb3 Bh3 17. g3 Rg4 18. Bxf6 Qxf6 19. Kh2 Qf3 20. Kxh3 Rh4+ 21.
+Kxh4 Qg4# 0-1

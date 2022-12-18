@@ -1,0 +1,23 @@
+[Event "corr CSSR"]
+[Site "corr CSSR"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Thor, J."]
+[Black "Pospisil"]
+[Result "1-0"]
+[ECO "D68"]
+[Opening "QGD"]
+[Variation "Orthodox defence, classical, 13.d1c2 (Vidmar)"]
+[HashCode "c638740c"]
+[Epoch "Rook"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. e3 O-O 6. Nf3 Ne4 7. Bxe7 Qxe7
+8. Rc1 c6 9. Bd3 Nxc3 10. Rxc3 Nd7 11. O-O dxc4 12. Bxc4 e5 13. Qc2 exd4
+14. exd4 Nb6 15. Re3 Qd8 16. Bb3 Nd5 17. Re5 f6 18. Re3 Bg4 19. Qe4 Qd7 20.
+h3 Bf5 21. Bxd5+ cxd5 22. Qe7 Rac8 23. Nh4 Rf7 24. Nxf5 Qxf5 25. Qa3 a6 26.
+Rfe1 g6 27. Re7 Rxe7 28. Qxe7 Rc2 29. f3 Qf4 30. Qxb7 Qxd4+ 31. Kh1 Re2 32.
+Rxe2 Qd1+ 33. Kh2 Qxe2 34. Qxd5+ Kg7 35. b4 g5 36. a4 h5 37. Qe4 Qd2 38.
+Qe7+ Kg6 39. Qe8+ Kh6 40. Qb8 h4 41. b5 axb5 42. axb5 Qe1 43. b6 f5 44. b7
+f4 45. Qh8+ Kg6 46. Qg8+ Kh6 47. Qc4 Qg3+ 48. Kg1 Qe1+ 49. Qf1 Qe3+ 50. Qf2
+Qe5 51. Qb6+ Kh5 52. b8=Q Qe3+ 53. Kh2 Qe5 54. Qc8 1-0
+

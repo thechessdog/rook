@@ -1,0 +1,17 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Matz, B."]
+[Black "Tobies, R."]
+[Result "0-1"]
+[ECO "C00"]
+[Opening "French defence"]
+[HashCode "8034d18e"]
+[Epoch "Rook"]
+
+1. e4 e6 2. Nc3 d5 3. exd5 exd5 4. d4 Bb4 5. Bd2 Nc6 6. Bb5 Ne7 7. Nf3 Bg4
+8. a3 Ba5 9. h3 Bh5 10. O-O O-O 11. Bxc6 Nxc6 12. g4 Bg6 13. b4 Bb6 14. Be3
+f5 15. Bg5 Qd7 16. b5 fxg4 17. bxc6 Qxc6 18. Ne5 Qxc3 19. Nxg6 hxg6 20.
+Qxg4 Bxd4 21. Be3 Bxe3 22. Qe6+ Kh7 23. Qxe3 Rf3 0-1
+

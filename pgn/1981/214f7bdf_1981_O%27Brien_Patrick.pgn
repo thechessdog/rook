@@ -1,0 +1,18 @@
+[Event "Lewisham"]
+[Site "Lewisham"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "O'Brien"]
+[Black "Patrick"]
+[Result "0-1"]
+[ECO "C68"]
+[Opening "Ruy Lopez"]
+[Variation "exchange, Alekhine variation"]
+[HashCode "214f7bdf"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. d4 exd4 6. Qxd4 Qxd4 7. Nxd4
+Bd7 8. Be3 c5 9. Nb3 b6 10. N1d2 Ne7 11. O-O O-O-O 12. Rfe1 Nc6 13. c3 Ne5
+14. Nf3 Nd3 15. Re2 f6 16. Ne1 Ne5 17. f3 Bb5 18. Rc2 Ba4 19. Re2 Be7 20.
+Rc1 Rd7 21. Rd2 Nc4 22. Rxd7 Bxd7 23. Nc2 Nxb2 24. Na3 c4 0-1
+

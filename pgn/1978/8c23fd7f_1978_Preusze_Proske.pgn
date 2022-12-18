@@ -1,0 +1,19 @@
+[Event "corr DDR/H"]
+[Site "corr DDR/H"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Preusze"]
+[Black "Proske"]
+[Result "0-1"]
+[ECO "B33"]
+[Opening "Sicilian"]
+[Variation "Sveshnikov variation"]
+[HashCode "8c23fd7f"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6
+8. Na3 b5 9. Bxf6 gxf6 10. Nd5 f5 11. exf5 Bxf5 12. c3 Bg7 13. Qf3 Bd7 14.
+h4 O-O 15. Qg3 Kh8 16. Qg5 f6 17. Qh5 e4 18. Nc2 Ne5 19. Be2 f5 20. O-O-O
+h6 21. Bf1 Ng4 22. Nf4 Be8 23. Ng6+ Kg8 24. Rd5 Qf6 25. Qxf5 Qxg6 26. Qxg6
+Bxg6 27. Rxd6 Nxf2 28. Rg1 Rad8 29. Rxd8 Rxd8 30. Be2 h5 31. Ne3 Bh6 0-1
+

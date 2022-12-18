@@ -1,0 +1,21 @@
+[Event "Haderslev op"]
+[Site "Haderslev"]
+[Date "1981.01.01"]
+[Round "8"]
+[White "Holmsgaard, Henrik"]
+[Black "Nielsen, Jan"]
+[Result "0-1"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Nimzovich (knight's tour) variation"]
+[HashCode "05662ffd"]
+[Epoch "Rook"]
+[WhiteID "1400452"]
+[WhiteCountry "DEN"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. Nd2 Bg7 8. Nc4
+O-O 9. Bg5 Re8 10. Qd2 Na6 11. Rd1 h6 12. Bxh6 Ne4 13. Nxe4 Rxe4 14. Bxg7 Kxg7
+15. Qc3+ f6 16. f3 Rh4 17. e4 b5 18. Ne3 b4 19. Qc2 Nc7 20. Qf2 Rh8 21. Qg3 Qe7
+22. Bd3 Qe5 23. f4 Qh5 24. e5 fxe5 25. fxe5 Re8 26. e6 Nxd5 27. Nxd5 Rxe6+ 28.
+Ne3 Qh6 29. Kf2 Rf6+ 30. Kg1 Be6 31. h3 Raf8 32. Rf1 c4 33. Be2 Rxf1+ 34. Nxf1
+Qc1 35. Qxd6 Qe1 36. Qxe6 Rxf1+ 37. Bxf1 Qxe6 38. Kh2 Qe5+ 0-1

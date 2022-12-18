@@ -1,0 +1,31 @@
+[Event "Vrsac"]
+[Site "Vrsac"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Agzamov, Georgy"]
+[Black "Rajkovic, Dusan"]
+[Result "1-0"]
+[ECO "D48"]
+[Opening "QGD semi-Slav"]
+[Variation "Meran, Reynolds' variation"]
+[HashCode "914dd2c4"]
+[Epoch "Rook"]
+[BlackID "900265"]
+[BlackCountry "SRB"]
+[WhiteCountry "RUS"]
+
+1. d4 e6 2. c4 Nf6 3. Nf3 d5 4. Nc3 c6 5. e3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8. Bd3
+a6 9. e4 c5 10. d5 e5 11. b3 Bd6 12. O-O O-O 13. a4 b4 14. Ne2 Nh5 15. Nd2 Nf4
+16. Nc4 Nb6 17. Nxf4 Nxc4 18. Ne6 fxe6 19. Bxc4 Qe7 20. dxe6 Bxe6 21. Bg5 Qd7
+22. Qd3 Bxc4 23. Qxc4+ Qf7 24. Rac1 Qxc4 25. Rxc4 Rac8 26. Rfc1 Rc7 27. Be3
+Rfc8 28. Rd1 Rc6 29. Kf1 Kf7 30. Ke2 Ke6 31. Rd5 Be7 32. Rd1 Bf8 33. Rd2 Be7
+34. Rd5 R6c7 35. Rd1 Rc6 36. Rdc1 R6c7 37. R1c2 Bf8 38. Bg5 Be7 39. Bd2 Bd6 40.
+Be1 Rb8 41. Rc1 Rbc8 42. Bd2 Rb8 43. Bg5 Rbc8 44. Rd1 Bf8 45. Bd2 Be7 46. Rdc1
+Bd6 47. g3 g6 48. Be3 Be7 49. R1c2 Bf8 50. Bd2 Bd6 51. Rc1 Rb8 52. Be3 Rbc8 53.
+Rd1 Rc6 54. Rd5 Be7 55. Kd3 g5 56. Ke2 R6c7 57. Rd1 Rc6 58. Rd2 R6c7 59. Rdc2
+Rc6 60. Bd2 Kd7 61. Rc1 R8c7 62. Be1 Rc8 63. Rd1+ Ke6 64. Rd5 R6c7 65. Rd1 Rc6
+66. Bd2 R6c7 67. Be3 h5 68. Rd5 Rc6 69. Bd2 h4 70. Be3 R6c7 71. Kf3 Rc6 72. Kg4
+R6c7 73. Rd1 Rf8 74. Rd5 Rfc8 75. Rd2 Rf8 76. Rdc2 Rfc8 77. a5 Rb8 78. Bxc5
+Rbc8 79. Bxe7 Rxc4 80. bxc4 Kxe7 81. c5 Kd7 82. Kf5 Kc6 83. Kxe5 hxg3 84. hxg3
+g4 85. Kd4 Kb5 86. c6 Rd8+ 87. Ke5 Kxa5 88. c7 Rc8 89. Kd6 b3 90. Re2 Kb4 91.
+Kd7 1-0

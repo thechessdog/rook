@@ -1,0 +1,18 @@
+[Event "corr Yugoslavia"]
+[Site "corr Yugoslavia"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Bohak, Janko"]
+[Black "Barisic"]
+[Result "1-0"]
+[ECO "B25"]
+[Opening "Sicilian"]
+[Variation "closed, 6.f4"]
+[HashCode "1ae9bcf7"]
+[Epoch "Rook"]
+[WhiteID "14600536"]
+[WhiteCountry "SLO"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. f4 b6 7. Nf3 Bb7 8. O-O Qd7
+9. f5 e6 10. Ng5 Bd4+ 11. Kh1 Nd8 12. fxe6 fxe6 13. Bh3 h6 14. Nxe6 Nxe6 15.
+Qg4 Ke7 16. Nd5+ Bxd5 17. exd5 Nf6 18. Rxf6 Kxf6 19. dxe6 Qe8 20. c3 1-0

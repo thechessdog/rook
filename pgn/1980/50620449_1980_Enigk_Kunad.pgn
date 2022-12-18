@@ -1,0 +1,19 @@
+[Event "corr ch11-DDR"]
+[Site "corr ch11-DDR"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Enigk, G."]
+[Black "Kunad, HP."]
+[Result "1-0"]
+[ECO "B34"]
+[Opening "Sicilian"]
+[Variation "accelerated fianchetto, exchange variation"]
+[HashCode "50620449"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6 5. Nxc6 bxc6 6. Qd4 f6 7. Be2 e5
+8. Qd3 d5 9. O-O Be6 10. h4 Ne7 11. Nc3 f5 12. exd5 cxd5 13. h5 Bg7 14. Bg5
+Rf8 15. Rad1 d4 16. Qa6 Qb6 17. Qxb6 axb6 18. Nb5 Kd7 19. c3 Nc6 20. h6 Bh8
+21. cxd4 Nxd4 22. Nxd4 exd4 23. Bb5+ Kd6 24. Bf4+ Ke7 25. Rfe1 Kf7 26. a4
+Rfc8 27. Be5 Bxe5 28. Rxe5 Rd8 29. Rde1 Rd6 30. Rxe6 Rxe6 31. Bc4 1-0
+

@@ -1,0 +1,21 @@
+[Event "Gausdal"]
+[Site "Gausdal"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Cramling, Pia"]
+[Black "Plaskett, H James"]
+[Result "1-0"]
+[ECO "B43"]
+[Opening "Sicilian"]
+[Variation "Kan, 5.Nc3"]
+[HashCode "8701fc81"]
+[Epoch "Rook"]
+[WhiteID "1700030"]
+[WhiteCountry "SWE"]
+[BlackCountry "ENG"]
+
+1. e4 c5 2. Nf3 e6 3. Nc3 a6 4. d4 cxd4 5. Nxd4 Qc7 6. Bd3 Nc6 7. Nxc6 bxc6 8.
+O-O Nf6 9. Qe2 d5 10. Bg5 dxe4 11. Nxe4 Nxe4 12. Bxe4 Bd6 13. Qh5 Rb8 14. Rad1
+Rb5 15. h4 h6 16. c4 Re5 17. Rxd6 Qxd6 18. Rd1 Rxg5 19. hxg5 Qc5 20. Qh4 Bd7
+21. Qg3 Ke7 22. b4 Qxb4 23. Qc7 Rd8 24. Bxc6 hxg5 25. Rxd7+ Rxd7 26. Qxd7+ Kf6
+27. Qd4+ e5 28. Qd8+ Kg6 29. Qd3+ f5 30. g4 1-0

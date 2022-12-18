@@ -1,0 +1,15 @@
+[Event "Pietralcina"]
+[Site "Pietralcina"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Galasso"]
+[Black "Caruso"]
+[Result "1-0"]
+[ECO "C44"]
+[Opening "Scotch gambit"]
+[HashCode "e1c44118"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 h6 5. c3 dxc3 6. Nxc3 d6 7. O-O Bg4
+8. Qb3 Bxf3 9. Bxf7+ 1-0
+

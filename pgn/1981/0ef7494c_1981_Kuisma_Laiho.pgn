@@ -1,0 +1,18 @@
+[Event "corr NS/II"]
+[Site "corr NS/II"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Kuisma, Jyrki"]
+[Black "Laiho, Heikki"]
+[Result "1-0"]
+[ECO "D97"]
+[Opening "Gruenfeld"]
+[Variation "Russian variation with e4"]
+[HashCode "0ef7494c"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Qb3 dxc4 6. Qxc4 O-O 7. e4 Nfd7
+8. Be3 Nb6 9. Qb3 Nc6 10. d5 Ne5 11. Nxe5 Bxe5 12. Be2 e6 13. Rd1 Qf6 14.
+O-O exd5 15. Bxb6 axb6 16. Nxd5 Qh4 17. f4 Bd6 18. Qc3 Bc5+ 19. Kh1 Rd8 20.
+Nf6+ Kf8 21. Rxd8+ Ke7 22. Re8+ 1-0
+

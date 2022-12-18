@@ -1,0 +1,20 @@
+[Event "Lvov"]
+[Site "Lvov"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Sveshnikov, Evgeny"]
+[Black "Paehtz, Thomas"]
+[Result "1/2-1/2"]
+[ECO "A22"]
+[Opening "English"]
+[Variation "Carls' Bremen system"]
+[HashCode "9d722610"]
+[Epoch "Rook"]
+[WhiteID "4100638"]
+[WhiteCountry "RUS"]
+[BlackID "4611349"]
+[BlackCountry "GER"]
+
+1. g3 e5 2. c4 Nf6 3. Nc3 d6 4. Bg2 g6 5. e3 Bg7 6. Nge2 O-O 7. O-O Re8 8. d3
+c6 9. e4 Na6 10. h3 Nc7 11. f4 exf4 12. Nxf4 Ne6 13. Qf3 Rf8 14. Be3 Nd7 15.
+Qe2 Nxf4 16. Rxf4 Nc5 17. Raf1 Ne6 18. R4f2 Be5 19. Kh2 1/2-1/2

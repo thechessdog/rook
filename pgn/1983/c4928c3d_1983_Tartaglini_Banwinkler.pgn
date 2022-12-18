@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Tartaglini"]
+[Black "Banwinkler"]
+[Result "0-1"]
+[ECO "C58"]
+[Opening "two knights defence"]
+[Variation "Colman variation"]
+[HashCode "c4928c3d"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 Na5 6. Bb5+ c6 7. dxc6
+bxc6 8. Qf3 Rb8 9. Bxc6+ Nxc6 10. Qxc6+ Nd7 11. Ne4 Rb6 12. Qc3 Ba6 13. Qg3
+f5 14. Nec3 Rg6 15. Qf3 f4 16. d3 Qc8 17. Nd2 Bb4 18. Nde4 Bb7 19. Bd2 O-O
+20. O-O Rf5 21. Rae1 Nf6 22. a3 Be7 23. Qh3 Rh6 24. Qf3 Rfh5 25. h3 Rxh3
+26. gxh3 Rxh3 27. Nxf6+ Bxf6 28. Qxh3 Qxh3 29. Ne4 f3 30. Nxf6+ gxf6 0-1
+

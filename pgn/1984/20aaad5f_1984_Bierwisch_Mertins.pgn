@@ -1,0 +1,21 @@
+[Event "corr DFSM"]
+[Site "corr DFSM"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Bierwisch, Bernhard"]
+[Black "Mertins"]
+[Result "1/2-1/2"]
+[ECO "C77"]
+[Opening "Ruy Lopez"]
+[Variation "Anderssen variation"]
+[HashCode "20aaad5f"]
+[Epoch "Rook"]
+[WhiteID "4671139"]
+[WhiteCountry "GER"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. d3 d6 6. c3 g6 7. Bg5 Bg7 8. Nbd2
+b5 9. Bc2 h6 10. Bh4 O-O 11. O-O g5 12. Bg3 Re8 13. Re1 Ne7 14. d4 Ng6 15. Nb3
+Qe7 16. Qd3 Nh5 17. dxe5 dxe5 18. Rad1 Nhf4 19. Bxf4 Nxf4 20. Qe3 Bg4 21. Bd3
+Rad8 22. Bf1 Qf6 23. Kh1 Bh5 24. g3 Nd5 25. Rxd5 Rxd5 26. exd5 Bxf3+ 27. Bg2
+Bxg2+ 28. Kxg2 Rd8 29. Qc5 g4 30. Re3 h5 31. Qxc7 Rxd5 32. Nc5 Bh6 33. Ne4 Qf5
+34. Qc6 Bxe3 35. Qxd5 Qf3+ 36. Kf1 Qh1+ 37. Ke2 Qf3+ 1/2-1/2

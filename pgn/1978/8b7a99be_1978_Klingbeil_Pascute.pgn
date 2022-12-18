@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Klingbeil"]
+[Black "Pascute"]
+[Result "1-0"]
+[ECO "C37"]
+[Opening "KGA"]
+[Variation "Muzio gambit"]
+[HashCode "8b7a99be"]
+[Epoch "Rook"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. Bc4 g4 5. O-O gxf3 6. Qxf3 Bh6 7. d4 Qf6
+8. e5 Qc6 9. Bxf7+ Kxf7 10. d5 Qc5+ 11. Rf2 Ne7 12. Bxf4 Bxf4 13. Qxf4+ Ke8
+14. Nc3 Nxd5 15. Qf7+ Kd8 16. Nxd5 Nc6 17. Qf6+ Qe7 18. Nxe7 1-0
+

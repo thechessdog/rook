@@ -1,0 +1,18 @@
+[Event "corr EUR/M"]
+[Site "corr EUR/M"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Timmerman, A."]
+[Black "Kunsztowicz, Uwe"]
+[Result "0-1"]
+[ECO "B89"]
+[Opening "Sicilian"]
+[Variation "Velimirovic attack"]
+[HashCode "70986908"]
+[Epoch "Rook"]
+[BlackID "4602773"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bc4 e6 7. Be3 Be7 8.
+Qe2 O-O 9. O-O-O a6 10. Bb3 Qe8 11. f4 b5 12. Nxc6 Qxc6 13. e5 dxe5 14. fxe5
+Nd7 15. Bf4 Nc5 16. Kb1 Bb7 17. Rhg1 b4 0-1

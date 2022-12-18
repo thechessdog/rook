@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Engbersen, J."]
+[Black "Simmelink, J."]
+[Result "0-1"]
+[ECO "C34"]
+[Opening "KGA"]
+[Variation "Fischer defence"]
+[HashCode "e2154692"]
+[Epoch "Rook"]
+[BlackCountry "NLD"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 d6 4. d4 g5 5. Bc4 g4 6. O-O gxf3 7. Qxf3 Qf6 8. e5
+dxe5 9. dxe5 Qxe5 10. Bxf7+ Kxf7 11. Bxf4 Qf5 12. Nd2 Nf6 13. Rae1 Bc5+ 14. Kh1
+Re8 15. Qb3+ Be6 16. Qxb7 Nbd7 17. Bxc7 Bd5 0-1

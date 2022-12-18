@@ -1,0 +1,20 @@
+[Event "corr ol10"]
+[Site "corr ol10"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Quist, V."]
+[Black "Bryson, Douglas M"]
+[Result "0-1"]
+[ECO "E04"]
+[Opening "Catalan"]
+[Variation "open, 5.Nf3"]
+[HashCode "c4df38d4"]
+[Epoch "Rook"]
+[BlackID "2400073"]
+[BlackCountry "SCO"]
+
+1. c4 e6 2. d4 Nf6 3. g3 d5 4. Bg2 dxc4 5. Nf3 a6 6. Ne5 Bb4+ 7. Nc3 Nd5 8. Bd2
+b5 9. a4 Bxc3 10. bxc3 Bb7 11. e4 Nf6 12. Qb1 O-O 13. Nxc4 c5 14. O-O cxd4 15.
+Bf4 dxc3 16. Nd6 Bc6 17. axb5 axb5 18. Rxa8 Bxa8 19. Nxb5 Qa5 20. f3 Qb6+ 21.
+Kh1 c2 22. Qa2 Qxb5 23. Qxa8 Nc6 24. Qa3 Rd8 25. Kg1 h6 26. Qc3 Nd4 27. Qc7 Rd7
+28. Qc8+ Kh7 29. Be3 Qd3 30. Re1 Ne2+ 31. Kf2 Nc3 32. Bf4 Nd1+ 0-1

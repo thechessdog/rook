@@ -1,0 +1,19 @@
+[Event "corr France"]
+[Site "corr France"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Dufraisse"]
+[Black "Sage"]
+[Result "0-1"]
+[ECO "C36"]
+[Opening "KGA"]
+[Variation "Abbazia defence, modern variation"]
+[HashCode "79bb72b2"]
+[Epoch "Rook"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 d5 4. exd5 Nf6 5. Bb5+ c6 6. dxc6 Nxc6 7. d4 Bd6
+8. O-O O-O 9. Nbd2 Bg4 10. Nc4 h6 11. Bxc6 bxc6 12. Qd3 Bxf3 13. Rxf3 g5
+14. Bd2 Bc7 15. Re1 Re8 16. Rxe8+ Qxe8 17. Qf5 Kg7 18. Bb4 a5 19. Bd2 Rd8
+20. Qd3 Rd5 21. Bc3 Ne4 22. Rf1 Nxc3 23. Qxc3 Qd8 24. Qf3 Rxd4 25. Qxc6 g4
+26. c3 Rd1 27. Rxd1 Qxd1+ 28. Kf2 Qc2+ 29. Ke1 f3 30. gxf3 Bxh2 0-1
+

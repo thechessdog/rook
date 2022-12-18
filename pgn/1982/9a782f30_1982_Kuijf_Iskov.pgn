@@ -1,0 +1,23 @@
+[Event "Amsterdam"]
+[Site "Amsterdam"]
+[Date "1982.07.01"]
+[Round "7"]
+[White "Kuijf, Marinus"]
+[Black "Iskov, Gert"]
+[Result "1-0"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Byrne (English) attack"]
+[HashCode "9a782f30"]
+[Epoch "Rook"]
+[WhiteID "1000110"]
+[WhiteCountry "NED"]
+[BlackID "1400398"]
+[BlackCountry "DEN"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e6 7. a4 b6 8. f4
+Bb7 9. Bd3 Nbd7 10. O-O Be7 11. Qf3 O-O 12. Qh3 Nc5 13. e5 dxe5 14. fxe5 Nxd3
+15. exf6 Bxf6 16. Rxf6 Qxf6 17. cxd3 Qg6 18. Rd1 Rfd8 19. Rd2 b5 20. a5 Rac8
+21. Nde2 e5 22. Bb6 Rf8 23. b4 f5 24. Bc5 Rf6 25. d4 Qg5 26. Rd3 Rg6 27. d5 Rd8
+28. Rd1 Bc8 29. Qf3 f4 30. Ne4 Qh6 31. Nf2 e4 32. Qxf4 e3 33. Bxe3 Bb7 34. Qxh6
+gxh6 35. Nf4 Rf6 36. Ng4 Rfd6 37. Bc5 1-0

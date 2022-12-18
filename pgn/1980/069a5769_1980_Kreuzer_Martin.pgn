@@ -1,0 +1,18 @@
+[Event "Verbandsliga"]
+[Site "Verbandsliga"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Kreuzer"]
+[Black "Martin, Pedro"]
+[Result "0-1"]
+[ECO "A00"]
+[Opening "Polish"]
+[Variation "Outflank variation"]
+[HashCode "069a5769"]
+[Epoch "Rook"]
+[BlackID "108383"]
+[BlackCountry "ARG"]
+
+1. b4 c6 2. Bb2 d5 3. Nf3 Bg4 4. Ne5 Bf5 5. d4 Nd7 6. Nxd7 Qxd7 7. e3 e6 8. a3
+a5 9. Qd2 axb4 10. axb4 Rxa1 11. Bxa1 Nf6 12. f3 Bd6 13. Be2 h5 14. b5 Qc7 15.
+f4 Ne4 16. Qd1 Qa5+ 0-1

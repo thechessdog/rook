@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Calpona"]
+[Black "Brant"]
+[Result "1-0"]
+[ECO "B00"]
+[Opening "KP"]
+[Variation "Nimzovich defence, Bogolyubov variation"]
+[HashCode "8ed0641d"]
+[Epoch "Rook"]
+
+1. e4 Nc6 2. d4 d5 3. Nc3 e6 4. Nf3 Bb4 5. e5 a6 6. a3 Bxc3+ 7. bxc3 Nge7
+8. a4 Na5 9. Bd3 Bd7 10. Qe2 Rc8 11. Be3 O-O 12. Bxh7+ Kxh7 13. Ng5+ Kg6
+14. h4 Nf5 15. h5+ 1-0
+

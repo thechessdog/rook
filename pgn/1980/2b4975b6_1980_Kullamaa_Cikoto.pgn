@@ -1,0 +1,19 @@
+[Event "corr Wcup3"]
+[Site "corr Wcup3"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Kullamaa"]
+[Black "Cikoto"]
+[Result "1-0"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Paulsen attack"]
+[HashCode "2b4975b6"]
+[Epoch "Rook"]
+
+1. e4 c5 2. c3 e6 3. d4 d5 4. e5 Nc6 5. Nf3 cxd4 6. cxd4 Bb4+ 7. Nc3 a6 8.
+Bd3 Nge7 9. O-O Ng6 10. Re1 O-O 11. Ng5 Be7 12. h4 Bxg5 13. Bxg5 Qb6 14. h5
+Nge7 15. Qg4 Nf5 16. Ne2 Kh8 17. h6 Nxh6 18. Bxh6 gxh6 19. Qh4 Qd8 20. Qxh6
+f5 21. Rad1 Rg8 22. Bb1 Qg5 23. Qxg5 Rxg5 24. f3 Bd7 25. Kf2 Kg7 26. Rh1
+Rh8 27. g4 Ne7 28. Rc1 Kf7 29. gxf5 exf5 30. Rc7 Bc8 31. Nf4 1-0
+

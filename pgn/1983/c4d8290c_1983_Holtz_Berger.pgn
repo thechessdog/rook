@@ -1,0 +1,17 @@
+[Event "RDT"]
+[Site "RDT"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Holtz"]
+[Black "Berger"]
+[Result "1-0"]
+[ECO "B20"]
+[Opening "Sicilian defence"]
+[HashCode "c4d8290c"]
+[Epoch "Rook"]
+
+1. e4 c5 2. b3 e6 3. Bb2 Nc6 4. Nf3 d6 5. d4 cxd4 6. Nxd4 Bd7 7. Nb5 Qb8 8.
+Ba3 d5 9. exd5 Bxa3 10. N1xa3 Qe5+ 11. Be2 exd5 12. Qxd5 Qxa1+ 13. Kd2 Qxh1
+14. Nd6+ Ke7 15. Qxf7+ Kxd6 16. Nb5+ Kc5 17. Qc4+ Kb6 18. b4 Nxb4 19. Qc7+
+Ka6 20. Nd6+ b5 21. Bxb5+ 1-0
+

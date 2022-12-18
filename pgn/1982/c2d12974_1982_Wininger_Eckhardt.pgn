@@ -1,0 +1,18 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Wininger, O."]
+[Black "Eckhardt"]
+[Result "0-1"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, positional main line"]
+[HashCode "c2d12974"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Nf3 Qc7 8.
+a4 b6 9. Bb5+ Bd7 10. O-O Bxb5 11. axb5 a5 12. Ng5 h6 13. Nh3 Nd7 14. Nf4
+O-O 15. Nh5 Kh8 16. Qg4 Rg8 17. Qe2 cxd4 18. cxd4 Rac8 19. Ra2 Qc4 20. Qd3
+Qxa2 0-1
+

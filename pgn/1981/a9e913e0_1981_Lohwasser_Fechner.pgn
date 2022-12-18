@@ -1,0 +1,18 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Lohwasser"]
+[Black "Fechner"]
+[Result "0-1"]
+[ECO "E30"]
+[Opening "Nimzo-Indian"]
+[Variation "Leningrad, ...b5 gambit"]
+[HashCode "a9e913e0"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Bg5 h6 5. Bh4 c5 6. d5 b5 7. dxe6 fxe6 8.
+cxb5 O-O 9. a3 Bxc3+ 10. bxc3 Qa5 11. Bxf6 Rxf6 12. Qb3 d5 13. e3 a6 14.
+bxa6 Nxa6 15. Bxa6 Bxa6 16. Ne2 d4 17. exd4 cxd4 18. Ra2 Rc8 19. Qb4 Qd5
+20. Rd2 Qxg2 21. Ng3 dxc3 22. Rc2 Bd3 23. Rxc3 Qxf2+ 24. Kd1 Rd8 0-1
+

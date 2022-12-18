@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Perlakki"]
+[Black "Istvan"]
+[Result "1-0"]
+[ECO "C47"]
+[Opening "Four knights"]
+[Variation "Scotch, 4...exd4"]
+[HashCode "c6f0042d"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. d4 exd4 5. Nxd4 Bb4 6. Nxc6 Bxc3+ 7. bxc3
+bxc6 8. Ba3 d6 9. Bd3 Ng4 10. f3 Ne5 11. O-O O-O 12. Be2 Re8 13. f4 Nd7 14.
+Qd4 c5 15. Qf2 Rxe4 16. Bf3 Rxf4 17. Qg3 Rf6 18. Bxa8 Rxf1+ 19. Rxf1 Ba6
+20. c4 Qxa8 21. Bb2 Qf8 22. Re1 f6 23. Qa3 Qc8 24. Re7 Ne5 25. Bxe5 fxe5
+26. Qf3 Qf8 27. Qd5+ Kh8 28. Qc6 1-0
+

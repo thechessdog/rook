@@ -1,0 +1,19 @@
+[Event "corr DDR/FS"]
+[Site "corr DDR/FS"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Bruesch"]
+[Black "Kraemer"]
+[Result "0-1"]
+[ECO "E31"]
+[Opening "Nimzo-Indian"]
+[Variation "Leningrad, main line"]
+[HashCode "30fc9c70"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Bg5 h6 5. Bh4 c5 6. d5 d6 7. e3 Bxc3+ 8.
+bxc3 e5 9. f4 Qe7 10. Bxf6 Qxf6 11. Qd2 e4 12. Ne2 Qe7 13. g3 Nd7 14. Qb2
+Nb6 15. a4 g5 16. Bg2 Bg4 17. a5 Nd7 18. Qxb7 Rb8 19. Qxa7 Bxe2 20. Kxe2
+Rb2+ 21. Kf1 gxf4 22. exf4 e3 23. Re1 O-O 24. Bh3 Qe4 25. Kg1 Qf3 26. Rf1
+Rf2 0-1
+

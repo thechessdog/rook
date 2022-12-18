@@ -1,0 +1,19 @@
+[Event "Poznan ch-POL"]
+[Site "Poznan ch-POL"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Nowak, Ignacy"]
+[Black "Adamski, Jan"]
+[Result "1/2-1/2"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "4.Nf3"]
+[HashCode "054d1f2d"]
+[Epoch "Rook"]
+[WhiteID "1100157"]
+[BlackID "1100190"]
+[WhiteCountry "POL"]
+[BlackCountry "POL"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 dxc4 5. e3 c5 6. Bxc4 a6 7. dxc5 Qxd1+ 8.
+Kxd1 Bxc5 1/2-1/2

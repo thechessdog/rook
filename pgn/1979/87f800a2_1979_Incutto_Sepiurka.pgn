@@ -1,0 +1,19 @@
+[Event "Mar del Plata GP2"]
+[Site "Mar del Plata GP2"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Incutto, Carlos"]
+[Black "Sepiurka"]
+[Result "0-1"]
+[ECO "D16"]
+[Opening "QGD Slav"]
+[Variation "Steiner variation"]
+[HashCode "87f800a2"]
+[Epoch "Rook"]
+[WhiteCountry "ARG"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 c6 4. Nc3 dxc4 5. a4 Bg4 6. Ne5 Bh5 7. f3 Nfd7 8.
+Nxc4 e5 9. Ne4 Bb4+ 10. Bd2 Qe7 11. dxe5 O-O 12. Qb3 Na6 13. Bxb4 Nxb4 14. Ncd6
+a5 15. f4 Bg4 16. Rc1 Be6 17. Qg3 f6 18. f5 Bd5 19. e6 Ne5 20. Qf4 Rad8 21. Nf7
+Nxf7 22. exf7+ Bxf7 23. Kf2 Nd5 24. Qf3 Rfe8 25. Nc3 Qc5+ 26. Ke1 Re3 27. Qf2
+Nb4 0-1

@@ -1,0 +1,24 @@
+[Event "Mar del Plata GP2"]
+[Site "Mar del Plata GP2"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Campos Moreno, Javier B."]
+[Black "Leskovar, Mario"]
+[Result "1-0"]
+[ECO "E13"]
+[Opening "Queen's Indian"]
+[Variation "4.Nc3, main line"]
+[HashCode "616d8be7"]
+[Epoch "Rook"]
+[WhiteID "3400034"]
+[WhiteCountry "CHI"]
+[BlackID "100617"]
+[BlackCountry "ARG"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Nf3 b6 5. Bg5 h6 6. Bh4 Bb7 7. e3 g5 8. Bg3
+Ne4 9. Qc2 f5 10. Bd3 O-O 11. h3 Bxc3+ 12. bxc3 Nxg3 13. fxg3 c5 14. g4 Qc7 15.
+O-O cxd4 16. cxd4 Nc6 17. gxf5 Nb4 18. Qd2 Nxd3 19. Qxd3 exf5 20. Nd2 Qg3 21.
+d5 Rae8 22. Rf3 Qe5 23. Raf1 Kg7 24. Qa3 a6 25. Nb3 b5 26. Nc5 Bc8 27. Nd3 Qe4
+28. cxb5 Qxd5 29. bxa6 Qb5 30. Nc5 d6 31. a7 Bd7 32. Nxd7 Qxd7 33. Rd1 d5 34.
+Qc5 Rd8 35. a8=Q Rxa8 36. Rxd5 Qa7 37. Qc3+ Kg6 38. Rd6+ Kh5 39. Qc6 Qg7 40.
+g4+ fxg4 41. hxg4+ Kh4 42. Rxh6+ Kxg4 43. Qe4+ Rf4 44. Rxf4+ 1-0

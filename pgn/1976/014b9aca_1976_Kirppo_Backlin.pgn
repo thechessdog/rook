@@ -1,0 +1,24 @@
+[Event "corr SWE/K tt"]
+[Site "corr SWE/K tt"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Kirppo, Ronny"]
+[Black "Backlin, Stefan"]
+[Result "1-0"]
+[ECO "E77"]
+[Opening "King's Indian"]
+[Variation "Four pawns attack, Florentine gambit"]
+[HashCode "014b9aca"]
+[Epoch "Rook"]
+[WhiteID "1724681"]
+[BlackID "1706900"]
+[WhiteCountry "SWE"]
+[BlackCountry "SWE"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f4 O-O 6. Be2 c5 7. d5 e6 8. Nf3 exd5
+9. e5 Nfd7 10. Qxd5 dxe5 11. Be3 Nc6 12. Rd1 Qe7 13. fxe5 Ncxe5 14. O-O Ng4 15.
+Bg5 Ndf6 16. Qd2 Re8 17. Rfe1 h6 18. Nd5 Qf8 19. Bxf6 Nxf6 20. Nc7 Be6 21. Nxa8
+Rxa8 22. Qc2 Rd8 23. Qa4 a6 24. Qa5 Rxd1 25. Rxd1 Qe7 26. Qd8+ Bf8 27. Qxe7
+Bxe7 28. Ne5 Ne8 29. Bg4 Bxg4 30. Nxg4 Nd6 31. b3 Kg7 32. Rd5 b6 33. Ne5 Ne4
+34. Nxg6 Bf6 35. Nf4 Bd4+ 36. Kf1 b5 37. Ne2 Bf6 38. Ng3 Nxg3+ 39. hxg3 bxc4
+40. bxc4 Bd4 41. Ke2 f6 42. Rxd4 cxd4 43. Kd3 Kf7 44. Kxd4 1-0

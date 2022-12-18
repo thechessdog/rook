@@ -1,0 +1,21 @@
+[Event "corr DDR/FS"]
+[Site "corr DDR/FS"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Kern"]
+[Black "Hasselmann"]
+[Result "0-1"]
+[ECO "E44"]
+[Opening "Nimzo-Indian"]
+[Variation "Fischer variation, 5.Ne2"]
+[HashCode "5fd55d31"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 b6 5. Ne2 Bb7 6. a3 Be7 7. d5 O-O 8. e4
+d6 9. g3 Nfd7 10. dxe6 fxe6 11. Bg2 Bf6 12. O-O a5 13. Be3 Na6 14. Nf4 Qe8
+15. Qc2 Bxc3 16. Qxc3 Nac5 17. f3 a4 18. Bh3 Rf6 19. g4 Nb3 20. Rae1 Ra5
+21. Nh5 Rxh5 22. gxh5 Qxh5 23. Bg2 Ndc5 24. Bf2 e5 25. Bg3 Ne6 26. Qe3 Nf4
+27. Bxf4 Rxf4 28. Rf2 Bc8 29. Qd3 Be6 30. Bf1 Nd4 31. Re3 Rf7 32. Kh1 Qh4
+33. Rg2 Qf4 34. Rg3 Bxc4 35. Qxc4 Qxe3 36. Qxa4 Qc1 37. Rg1 Nxf3 38. Qc4
+Qxc4 0-1
+

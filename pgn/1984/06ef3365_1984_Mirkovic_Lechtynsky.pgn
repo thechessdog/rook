@@ -1,0 +1,20 @@
+[Event "Vrnjacka Banja"]
+[Site "Vrnjacka Banja"]
+[Date "1984.04.01"]
+[Round "1"]
+[White "Mirkovic, Slobodan"]
+[Black "Lechtynsky, Jiri"]
+[Result "1/2-1/2"]
+[ECO "C88"]
+[Opening "Ruy Lopez"]
+[Variation "closed, anti-Marshall 8.a4"]
+[HashCode "06ef3365"]
+[Epoch "Rook"]
+[WhiteID "901202"]
+[WhiteCountry "SRB"]
+[BlackID "300217"]
+[BlackCountry "CZE"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. a4
+Bb7 9. d3 d6 10. axb5 axb5 11. Rxa8 Bxa8 12. Nc3 Na5 13. Nxb5 Nxb3 14. cxb3 c5
+15. Bg5 Ne8 16. Bxe7 Qxe7 1/2-1/2

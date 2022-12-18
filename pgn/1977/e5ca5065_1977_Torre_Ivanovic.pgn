@@ -1,0 +1,21 @@
+[Event "Vrsac"]
+[Site "Vrsac"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Torre, Eugenio"]
+[Black "Ivanovic, Bozidar"]
+[Result "1-0"]
+[ECO "B66"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...a6"]
+[HashCode "e5ca5065"]
+[Epoch "Rook"]
+[WhiteID "5200016"]
+[WhiteCountry "PHI"]
+[BlackID "900095"]
+[BlackCountry "MNE"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd2 a6 8.
+O-O-O h6 9. Bf4 Bd7 10. Nxc6 Bxc6 11. Qe1 b5 12. e5 Nd5 13. Nxd5 Bxd5 14. Rxd5
+exd5 15. Bd3 dxe5 16. Qxe5+ Qe7 17. Qxd5 Rc8 18. Bf5 Rc5 19. Qa8+ Qd8 20. Bd7+
+Ke7 21. Re1+ Kxd7 22. Rd1+ Bd6 23. Rxd6+ Ke7 24. Rxd8 Rxd8 25. Qa7+ 1-0

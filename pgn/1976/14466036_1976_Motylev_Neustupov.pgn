@@ -1,0 +1,16 @@
+[Event "Sverdlovsk"]
+[Site "Sverdlovsk"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Motyliov, Anatoly"]
+[Black "Neustupov"]
+[Result "1-0"]
+[ECO "C25"]
+[Opening "Vienna game"]
+[HashCode "14466036"]
+[Epoch "Rook"]
+[WhiteID "4129865"]
+[WhiteCountry "RUS"]
+
+1. e4 e5 2. Nc3 f5 3. exf5 Nf6 4. g4 h5 5. g5 Ng8 6. d4 d6 7. Bd3 exd4 8. Nd5
+c6 9. Qe2+ Be7 10. f6 cxd5 11. fxg7 1-0

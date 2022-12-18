@@ -1,0 +1,19 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Mueller, J."]
+[Black "Weiss, A."]
+[Result "1-0"]
+[ECO "B89"]
+[Opening "Sicilian"]
+[Variation "Velimirovic attack"]
+[HashCode "34021e1a"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bc4 e6 7. Be3 Be7
+8. Qe2 O-O 9. Bb3 Qa5 10. O-O-O Nxd4 11. Bxd4 Bd7 12. Kb1 Bc6 13. f4 b5 14.
+Bxf6 Bxf6 15. Rxd6 Bxc3 16. Rxc6 Bd4 17. c3 Bf6 18. g4 Rfc8 19. Rd6 b4 20.
+e5 Be7 21. Rd7 Rc7 22. cxb4 Bxb4 23. Rxc7 Qxc7 24. Qe4 Rb8 25. Rf1 Bd2 26.
+f5 Rc8 27. a3 Qb6 28. fxe6 Qxb3 29. exf7+ Kf8 30. e6 Bg5 31. e7+ 1-0
+

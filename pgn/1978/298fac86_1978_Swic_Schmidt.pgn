@@ -1,0 +1,20 @@
+[Event "Rubinstein Memorial"]
+[Site "Polancia Zdroj"]
+[Date "1978.08.01"]
+[Round "3"]
+[White "Swic, Waldemar"]
+[Black "Schmidt, Wlodzimierz"]
+[Result "1/2-1/2"]
+[ECO "B46"]
+[Opening "Sicilian"]
+[Variation "Taimanov variation"]
+[HashCode "298fac86"]
+[Epoch "Rook"]
+[WhiteID "1101013"]
+[WhiteCountry "POL"]
+[BlackID "1100041"]
+[BlackCountry "POL"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 a6 6. Be2 d6 7. O-O Nf6 8. Be3
+Be7 9. f4 O-O 10. Qe1 Nxd4 11. Bxd4 b5 12. a3 Bb7 13. Qg3 g6 14. Bd3 a5 15.
+Rae1 b4 16. axb4 axb4 17. Nd1 d5 18. e5 Ne4 1/2-1/2

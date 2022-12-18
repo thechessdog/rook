@@ -1,0 +1,20 @@
+[Event "Berlin tt"]
+[Site "Berlin-West"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Hartston, William R"]
+[Black "Schneider, Bernd"]
+[Result "1-0"]
+[ECO "A99"]
+[Opening "Dutch"]
+[Variation "Ilyin-Genevsky variation with b3"]
+[HashCode "e10dda4c"]
+[Epoch "Rook"]
+[WhiteID "400262"]
+[WhiteCountry "ENG"]
+
+1. d4 e6 2. c4 f5 3. g3 Nf6 4. Bg2 Be7 5. Nf3 O-O 6. O-O d6 7. Nc3 Qe8 8. b3 a5
+9. e3 Qh5 10. Ba3 Na6 11. d5 Nb4 12. dxe6 Bxe6 13. Nd4 Qxd1 14. Rfxd1 Bc8 15.
+Rd2 c6 16. Rad1 Rd8 17. Nc2 Nxc2 18. Rxc2 Kf8 19. Rcd2 Ne8 20. Ne2 Be6 21. Nd4
+Kf7 22. Bh3 a4 23. Bb2 axb3 24. axb3 g6 25. e4 Bc8 26. exf5 Kf8 27. Kg2 g5 28.
+Ne6+ Bxe6 29. fxe6 Ra5 30. f4 d5 31. fxg5 Bxg5 32. Rf2+ 1-0

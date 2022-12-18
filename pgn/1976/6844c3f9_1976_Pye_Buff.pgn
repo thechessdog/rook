@@ -1,0 +1,17 @@
+[Event "Santa Monica"]
+[Site "Santa Monica"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Pye, F."]
+[Black "Buff, J."]
+[Result "0-1"]
+[ECO "D30"]
+[Opening "QGD"]
+[Variation "Vienna variation"]
+[HashCode "6844c3f9"]
+[Epoch "Rook"]
+
+1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. Bg5 Bb4+ 5. Nbd2 c5 6. a3 Bxd2+ 7. Qxd2
+cxd4 8. Qxd4 Nc6 9. Qh4 Qa5+ 10. b4 Nxb4 11. Bd2 Nc2+ 12. Kd1 Qa4 13. Kc1
+Nxa1 0-1
+

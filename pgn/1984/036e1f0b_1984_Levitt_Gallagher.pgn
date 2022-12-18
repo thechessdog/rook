@@ -1,0 +1,29 @@
+[Event "Brighton ch-BCF"]
+[Site "Brighton ch-BCF"]
+[Date "1984.08.01"]
+[Round "7"]
+[White "Levitt, Jonathan P"]
+[Black "Gallagher, Joseph G."]
+[Result "1-0"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Nimzovich (knight's tour) variation"]
+[HashCode "036e1f0b"]
+[Epoch "Rook"]
+[WhiteID "400220"]
+[WhiteCountry "ENG"]
+[BlackID "1303422"]
+[BlackCountry "SUI"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 c5 4. d5 exd5 5. cxd5 d6 6. Nf3 g6 7. Nd2 Nbd7 8. e4
+Bg7 9. Nc4 Nb6 10. Ne3 O-O 11. Bd3 a6 12. O-O Nbd7 13. a4 Rb8 14. a5 b5 15.
+axb6 Nxb6 16. Bd2 Re8 17. Qc2 Qe7 18. Rfe1 Nh5 19. Bxa6 Bxa6 20. Rxa6 Nf4 21.
+Nf1 Nh5 22. Nd1 Qb7 23. Ra1 f5 24. exf5 Rxe1 25. Bxe1 gxf5 26. Qxf5 Qxd5 27.
+Qg4 Nf6 28. Qh3 Re8 29. Nde3 Qh5 30. Qxh5 Nxh5 31. Ra6 Rb8 32. Ba5 Nc8 33. Bc7
+Rb7 34. Nd5 Nf6 35. Ra8 Nxd5 36. Rxc8+ Kf7 37. Bxd6 Rxb2 38. Rxc5 Ke6 39. Bg3
+Bd4 40. Rc6+ Ke7 41. Rc1 Nc3 42. Re1+ Ne2+ 43. Kh1 Kf7 44. h3 Nc3 45. f3 Ne2
+46. Bd6 h5 47. Ng3 Bf2 48. Rxe2 Rb1+ 49. Nf1 Rxf1+ 50. Kh2 h4 51. g3 hxg3+ 52.
+Bxg3 Bxg3+ 53. Kxg3 Rg1+ 54. Rg2 Rh1 55. Kg4 Kf6 56. h4 Kg6 57. Rg3 Rh2 58. Rg1
+Ra2 59. Rd1 Ra5 60. Rd6+ Kg7 61. f4 Rb5 62. h5 Ra5 63. Rg6+ Kh7 64. f5 Ra1 65.
+Kg5 Rg1+ 66. Kf6 Rf1 67. Rg2 Ra1 68. Re2 Ra6+ 69. Kf7 Ra8 70. f6 Ra6 71. Ke7
+Ra7+ 72. Kf8 Kh8 73. Re8 Kh7 74. Rd8 Kh8 75. f7 1-0

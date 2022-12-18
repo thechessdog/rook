@@ -1,0 +1,19 @@
+[Event "London"]
+[Site "London"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Jacobs, Byron A"]
+[Black "Bellin"]
+[Result "0-1"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Grand Prix attack"]
+[HashCode "ac8e8c8c"]
+[Epoch "Rook"]
+[WhiteID "400688"]
+[WhiteCountry "ENG"]
+
+1. e4 c5 2. f4 e6 3. Nf3 d5 4. Bb5+ Bd7 5. Bxd7+ Nxd7 6. Nc3 dxe4 7. Nxe4 Ngf6
+8. d3 Be7 9. O-O O-O 10. Qe2 Qc7 11. Bd2 Nxe4 12. Qxe4 Bf6 13. Rae1 g6 14. Ne5
+Bg7 15. c4 f5 16. Qe3 Nxe5 17. fxe5 Rfd8 18. Qg3 Rd4 19. Bc3 Rd7 20. h4 Bh6 21.
+Qf3 Qd8 22. h5 Qg5 23. hxg6 hxg6 24. Re2 Rad8 25. Rd1 Qh5 26. Rf2 Be3 0-1

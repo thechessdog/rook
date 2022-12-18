@@ -1,0 +1,18 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Piesina, Gintautas"]
+[Black "Karner, I."]
+[Result "1-0"]
+[ECO "A40"]
+[Opening "Queen's pawn"]
+[Variation "Franco-Indian (Keres) defence"]
+[HashCode "17b2a201"]
+[Epoch "Rook"]
+[WhiteCountry "LTU"]
+
+1. d4 e6 2. c4 Bb4+ 3. Nd2 d5 4. Nf3 dxc4 5. e4 b5 6. a4 c6 7. Qc2 Qa5 8. Be2
+Bb7 9. O-O Nd7 10. e5 f5 11. axb5 Qxa1 12. Qxc4 Ne7 13. Qxb4 c5 14. dxc5 Nd5
+15. Qd4 Nxc5 16. Qxc5 Rc8 17. Qd6 Rxc1 18. Qb8+ Kf7 19. Ng5+ Kg6 20. Qxh8 Rxf1+
+21. Nxf1 1-0

@@ -1,0 +1,21 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Kolbel"]
+[Black "Zuchner"]
+[Result "1-0"]
+[ECO "E94"]
+[Opening "King's Indian"]
+[Variation "orthodox, 7...Nbd7"]
+[HashCode "eac95ed4"]
+[Epoch "Rook"]
+
+1. c4 Nf6 2. Nf3 d6 3. Nc3 g6 4. e4 Bg7 5. d4 O-O 6. Be2 e5 7. O-O Nbd7 8.
+Be3 c6 9. dxe5 dxe5 10. h3 Qe7 11. Qc2 Nh5 12. Rfe1 Nf4 13. Bf1 Qf6 14. Nh2
+g5 15. g3 Ne6 16. f3 Nd4 17. Qf2 Nc5 18. Bxd4 exd4 19. e5 Qd8 20. Rad1 Ne6
+21. f4 gxf4 22. gxf4 f5 23. Nf3 c5 24. Nd5 Nc7 25. Bg2 Ne6 26. b4 b6 27.
+Nxd4 cxd4 28. Nf6+ Bxf6 29. exf6 Rb8 30. Rxe6 Rxf6 31. Rxf6 Qxf6 32. Qxd4
+Qxd4+ 33. Rxd4 Be6 34. Bd5 Kf7 35. Kf2 Bxd5 36. Rxd5 Ke6 37. Re5+ Kf6 38.
+a4 1-0
+

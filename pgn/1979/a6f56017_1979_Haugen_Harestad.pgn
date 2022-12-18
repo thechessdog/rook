@@ -1,0 +1,24 @@
+[Event "Groedem"]
+[Site "Groedem"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Haugen, Arild"]
+[Black "Harestad, Thor Geir"]
+[Result "0-1"]
+[ECO "B33"]
+[Opening "Sicilian"]
+[Variation "Pelikan (Lasker/Sveshnikov) variation"]
+[HashCode "a6f56017"]
+[Epoch "Rook"]
+[WhiteID "1505076"]
+[BlackID "1500414"]
+[WhiteCountry "NOR"]
+[BlackCountry "NOR"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Nb3 Bb4 7. Bd3 O-O 8.
+O-O d6 9. Bg5 Bxc3 10. bxc3 h6 11. Bc1 Qc7 12. a4 Rd8 13. Qf3 Nh7 14. Qg3 Kh8
+15. f4 f6 16. Nd2 Be6 17. f5 Bf7 18. Nf3 d5 19. Nh4 Ne7 20. Ba3 dxe4 21. Bxe4
+Ng5 22. Rae1 Nd5 23. Bxd5 Rxd5 24. Ng6+ Bxg6 25. fxg6 Rc8 26. Qg4 Qb6+ 27. Kh1
+Rcd8 28. Be7 Re8 29. h4 Qe6 30. Qh5 Qxe7 31. hxg5 e4 32. Qe2 Rxg5 33. Rf4 f5
+34. Ref1 Qc5 35. g4 Rxg6 36. Rxf5 Qxc3 37. Rf8+ Rxf8 38. Rxf8+ Kh7 39. Qxe4
+Qh3+ 0-1

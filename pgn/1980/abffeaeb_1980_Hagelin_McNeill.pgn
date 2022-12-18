@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Hagelin"]
+[Black "McNeill"]
+[Result "0-1"]
+[ECO "C48"]
+[Opening "Four knights"]
+[Variation "Rubinstein counter-gambit"]
+[HashCode "abffeaeb"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Bb5 Nd4 5. Ba4 Bc5 6. Nxe5 O-O 7. Nd3 Bb6
+8. Nf4 d5 9. d3 Bg4 10. f3 Nh5 11. Nxh5 Bxh5 12. Nxd5 c6 13. Nxb6 axb6 14.
+c3 Qh4+ 15. Kf1 Nxf3 16. gxf3 Rxa4 17. Qxa4 Qh3+ 18. Kg1 Bxf3 19. Qc2 Qg4+
+20. Kf1 Bxh1 21. Qe2 Bf3 22. Qe3 f5 23. e5 f4 24. Qf2 Rf5 25. d4 Rg5 26.
+Ke1 Qh5 0-1
+

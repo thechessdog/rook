@@ -1,0 +1,27 @@
+[Event "Bundesliga 8081"]
+[Site "Duitsland tt"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Blaskowski, Johannes"]
+[Black "Kindermann, Stefan"]
+[Result "0-1"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, dragon formation"]
+[HashCode "1f7825c9"]
+[Epoch "Rook"]
+[WhiteID "4603656"]
+[WhiteCountry "GER"]
+[BlackID "4600053"]
+[BlackCountry "AUT"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 c5 6. dxc5 Qa5 7. Qd3 Qxc5 8. Be3
+Qa5 9. Qb5+ Qxb5 10. Nxb5 Na6 11. Bd3 O-O 12. O-O b6 13. Bd4 Nh5 14. f5 Nb4 15.
+Bxg7 Kxg7 16. Nfd4 Nf6 17. Rae1 Bb7 18. Nc3 Nxd3 19. cxd3 Rfd8 20. h4 Rac8 21.
+Rf4 Nd7 22. Re3 Ne5 23. fxg6 hxg6 24. h5 e6 25. hxg6 Nxg6 26. Rg3 Rh8 27. Rfg4
+Rh6 28. Nce2 Kf6 29. Nc3 Ke7 30. Nd5+ Bxd5 31. exd5 Ne5 32. Rf4 Rc1+ 33. Kf2
+Rhh1 34. Ne2 Rcd1 35. Rd4 f5 36. dxe6 Rhf1+ 37. Ke3 Ng4+ 38. Rdxg4 fxg4 39. Nd4
+Rde1+ 40. Kd2 Rd1+ 41. Kc2 Rc1+ 42. Kb3 Rf4 43. Ne2 Rcf1 44. Nxf4 Rxf4 45. Re3
+Rf2 46. g3 Rf3 47. Re4 Rxd3+ 48. Kc4 Rxg3 49. Kd5 Rd3+ 50. Kc6 g3 51. b4 g2 52.
+Rg4 Rd2 53. Rg6 Rxa2 54. Kd5 Rd2+ 55. Kc6 a5 56. bxa5 bxa5 57. Kb5 d5 58. Kxa5
+d4 59. Kb4 Rc2 60. Ka3 d3 61. Kb3 Rf2 62. Kc3 d2 63. Kc2 0-1

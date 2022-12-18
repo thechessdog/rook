@@ -1,0 +1,18 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Salzmann"]
+[Black "Schwieger"]
+[Result "0-1"]
+[ECO "D85"]
+[Opening "Gruenfeld"]
+[Variation "modern exchange variation"]
+[HashCode "f3b71124"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Nf3 c5
+8. Be3 Qa5 9. Qd2 O-O 10. Rc1 cxd4 11. cxd4 Qxd2+ 12. Nxd2 Nc6 13. d5 Nb4
+14. Bc5 Nxa2 15. Rc2 Re8 16. d6 Nc3 17. Be2 Bd7 18. Bc4 b5 19. Bd5 Rac8 20.
+Bb7 Rb8 21. Bd5 Rec8 0-1
+

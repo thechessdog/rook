@@ -1,0 +1,20 @@
+[Event "Lloyds Bank op"]
+[Site "Londen open"]
+[Date "1978.08.01"]
+[Round "1"]
+[White "Rayner, Emmanuel"]
+[Black "Lawton, Geoff W"]
+[Result "1-0"]
+[ECO "B92"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Opovcensky variation"]
+[HashCode "c80dcef4"]
+[Epoch "Rook"]
+[WhiteID "1800230"]
+[WhiteCountry "WLS"]
+[BlackCountry "ENG"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 Nbd7 7. f4 g6 8. O-O
+Qc7 9. g4 e6 10. g5 Ng8 11. Be3 h6 12. h4 hxg5 13. hxg5 b6 14. Kg2 Bb7 15. Bf3
+Ne7 16. Ndb5 axb5 17. Nxb5 Qc6 18. Nxd6+ Kd8 19. Nxf7+ Kc7 20. Nxh8 Bg7 21. Nf7
+Bxb2 22. Rb1 Rxa2 23. Rf2 1-0

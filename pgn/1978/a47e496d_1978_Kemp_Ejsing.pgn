@@ -1,0 +1,18 @@
+[Event "DEN-chJ int"]
+[Site "Ribe"]
+[Date "1978.??.??"]
+[Round "1"]
+[White "Kemp, Rasmus"]
+[Black "Ejsing, Esben"]
+[Result "0-1"]
+[ECO "C09"]
+[Opening "French"]
+[Variation "Tarrasch, open variation, main line"]
+[HashCode "a47e496d"]
+[Epoch "Rook"]
+[BlackID "1418572"]
+[BlackCountry "DEN"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. Ngf3 Nc6 5. exd5 exd5 6. Bb5 Bd6 7. O-O Ne7 8.
+Re1 O-O 9. h3 Qb6 10. Qe2 Nf5 11. dxc5 Bxc5 12. Nf1 Nfd4 13. Nxd4 Nxd4 14. Qd3
+Bf5 0-1

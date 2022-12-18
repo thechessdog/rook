@@ -1,0 +1,20 @@
+[Event "Bundesliga 8081"]
+[Site "Germany"]
+[Date "1981.??.??"]
+[Round "?"]
+[White "Westermeier, Arnulf"]
+[Black "Soos, Bela"]
+[Result "1/2-1/2"]
+[ECO "B80"]
+[Opening "Sicilian"]
+[Variation "Scheveningen variation"]
+[HashCode "fb3d8648"]
+[Epoch "Rook"]
+[WhiteID "4604288"]
+[BlackID "4601670"]
+[WhiteCountry "GER"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be3 Be7 7. f4 O-O 8. Be2
+Nc6 9. Qd2 e5 10. Nb3 exf4 11. Bxf4 Be6 12. O-O-O Ne5 13. Nd4 Qa5 14. Nf5 Bxf5
+15. exf5 Rfe8 16. Kb1 Rac8 1/2-1/2

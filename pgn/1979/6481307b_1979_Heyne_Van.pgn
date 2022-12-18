@@ -1,0 +1,20 @@
+[Event "corr EU"]
+[Site "corr EU"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Heyne"]
+[Black "Van der Kooij"]
+[Result "0-1"]
+[ECO "E27"]
+[Opening "Nimzo-Indian"]
+[Variation "Saemisch variation"]
+[HashCode "6481307b"]
+[Epoch "Rook"]
+[BlackID "1011812"]
+[BlackCountry "NED"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. a3 Bxc3+ 5. bxc3 O-O 6. f3 d5 7. cxd5 exd5 8.
+Bg5 Nbd7 9. e4 dxe4 10. fxe4 Qe8 11. Bxf6 Qxe4+ 12. Qe2 Nxf6 13. Qxe4 Nxe4 14.
+Ne2 Re8 15. c4 Nc3 16. Rc1 Nxe2 17. Bxe2 Bg4 18. Rc2 Re4 19. h3 Bxe2 20. Rxe2
+Rxd4 21. Kf2 Rxc4 22. Rhe1 Kf8 23. Re7 Rd8 24. g4 g6 25. Kg3 Rd3+ 26. Kh4 h6
+27. R7e3 Rdc3 28. Re8+ Kg7 29. Ra1 g5+ 30. Kh5 Rxh3# 0-1

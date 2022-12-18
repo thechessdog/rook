@@ -1,0 +1,19 @@
+[Event "US Open"]
+[Site "US Open"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Freeman, R."]
+[Black "Martz, William E"]
+[Result "0-1"]
+[ECO "B03"]
+[Opening "Alekhine's defence"]
+[Variation "four pawns attack, fianchetto variation"]
+[HashCode "bb5b27bf"]
+[Epoch "Rook"]
+[BlackCountry "USA"]
+
+1. e4 Nf6 2. e5 Nd5 3. c4 Nb6 4. d4 d6 5. f4 g6 6. Nc3 Bg7 7. Nf3 dxe5 8. fxe5
+Bg4 9. Be2 c5 10. h3 Bxf3 11. Bxf3 cxd4 12. Bxb7 dxc3 13. c5 Qc7 14. Qf3 Qxe5+
+15. Be3 Nc4 16. Bc6+ Kf8 17. Bxa8 Nxe3 18. Kf2 Qxc5 19. Ke2 cxb2 20. Rab1 Qc2+
+21. Kxe3 Bh6+ 22. Kd4 Nd7 23. Qb7 e5+ 24. Kd5 Qc5+ 25. Ke4 Qd4+ 26. Kf3 Qe3+
+27. Kg4 Qf4# 0-1

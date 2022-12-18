@@ -1,0 +1,18 @@
+[Event "Dayton,OH"]
+[Site "Dayton,OH"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Holsapple, Boyd"]
+[Black "Wall, Bill"]
+[Result "0-1"]
+[ECO "C15"]
+[Opening "French"]
+[Variation "Winawer (Nimzovich) variation"]
+[HashCode "d10de669"]
+[Epoch "Rook"]
+[BlackCountry "USA"]
+[WhiteCountry "USA"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. a3 Ba5 5. e5 c5 6. Bb5+ Nc6 7. Nf3 Ne7 8. O-O
+O-O 9. Bg5 h6 10. Be3 f6 11. Qd2 Nf5 12. Bxc6 bxc6 13. dxc5 fxe5 14. b4 Bc7 15.
+Ne2 Ba6 16. Rfe1 e4 17. Nfd4 Qh4 18. Ng3 Nxd4 19. Bxd4 e5 20. Be3 d4 0-1

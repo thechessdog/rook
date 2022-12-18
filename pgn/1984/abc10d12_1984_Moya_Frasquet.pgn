@@ -1,0 +1,18 @@
+[Event "corr Spain"]
+[Site "corr Spain"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Moya, Fiol"]
+[Black "Frasquet"]
+[Result "0-1"]
+[ECO "C78"]
+[Opening "Ruy Lopez"]
+[Variation "Archangelsk (counterthrust) variation"]
+[HashCode "abc10d12"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Bb7 7. Re1 Bc5 8.
+c3 d6 9. d4 Bb6 10. Bg5 h6 11. Bh4 Qd7 12. a4 O-O-O 13. Na3 g5 14. Bg3 h5
+15. dxe5 h4 16. Bxh4 gxh4 17. exf6 Rdg8 18. h3 Qxh3 19. Kf1 Qxg2+ 20. Ke2
+Qxf2+ 21. Kd3 Rg3 22. Rf1 Ne5# 0-1
+

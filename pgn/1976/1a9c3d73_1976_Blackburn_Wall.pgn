@@ -1,0 +1,16 @@
+[Event "North Wilkesboro,NC"]
+[Site "North Wilkesboro,NC"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Blackburn, Linda"]
+[Black "Wall, Bill"]
+[Result "0-1"]
+[ECO "B18"]
+[Opening "Caro-Kann"]
+[Variation "classical variation"]
+[HashCode "1a9c3d73"]
+[Epoch "Rook"]
+[BlackCountry "USA"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Bd3 e6 6. Bf4 Bxe4 7. Bxe4 Nf6 8.
+f3 Nh5 9. Bd2 Qh4+ 10. g3 Nxg3 0-1

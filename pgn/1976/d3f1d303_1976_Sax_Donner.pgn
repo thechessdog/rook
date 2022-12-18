@@ -1,0 +1,18 @@
+[Event "IBM"]
+[Site "Amsterdam"]
+[Date "1976.07.01"]
+[Round "5"]
+[White "Sax, Gyula"]
+[Black "Donner, Jan Hein"]
+[Result "1-0"]
+[ECO "C13"]
+[Opening "French"]
+[Variation "Albin-Alekhine-Chatard attack, Spielmann variation"]
+[HashCode "d3f1d303"]
+[Epoch "Rook"]
+[WhiteCountry "HUN"]
+[BlackCountry "NLD"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Nfd7 6. h4 O-O 7. Bd3 f5 8. g4 c5
+9. gxf5 cxd4 10. f6 Nxf6 11. exf6 Bxf6 12. Qh5 g6 13. Bxg6 Qe7 14. Nb5 Nc6 15.
+Bd3 e5 16. Ne2 Kh8 17. Nc7 Qxc7 18. Bxf6+ 1-0

@@ -1,0 +1,20 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Zuzek, Teodoro"]
+[Black "Enricci, Juan"]
+[Result "1-0"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical (two knights) system"]
+[HashCode "3e88c3d0"]
+[Epoch "Rook"]
+
+1. e4 d6 2. d4 g6 3. Nc3 Bg7 4. Nf3 Nf6 5. Bc4 O-O 6. O-O c6 7. a4 Nxe4 8.
+Bxf7+ Rxf7 9. Nxe4 h6 10. h3 Nd7 11. Be3 Nf8 12. Nh2 Bf5 13. Ng3 Qd7 14.
+Qd2 Kh7 15. Nxf5 gxf5 16. c3 Ng6 17. f4 Rg8 18. Nf3 Bf6 19. Bf2 Rfg7 20.
+Kh1 Qe8 21. Ng5+ hxg5 22. fxg5 Be5 23. dxe5 dxe5 24. Bxa7 Nf4 25. h4 Qh5
+26. g3 Ne2 27. Kg2 Qg4 28. Qe3 Nf4+ 29. Rxf4 exf4 30. Qxf4 Qe2+ 31. Bf2 Rf8
+32. h5 e5 33. g6+ Kg8 34. Re1 1-0
+

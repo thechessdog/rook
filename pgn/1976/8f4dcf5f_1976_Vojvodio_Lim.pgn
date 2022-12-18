@@ -1,0 +1,16 @@
+[Event "Yugoslavia"]
+[Site "Yugoslavia"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Vojvodio"]
+[Black "Lim, Seng Hoo"]
+[Result "0-1"]
+[ECO "A42"]
+[Opening "Modern defence"]
+[Variation "Averbakh system"]
+[HashCode "8f4dcf5f"]
+[Epoch "Rook"]
+
+1. d4 d6 2. c4 g6 3. Nc3 Bg7 4. e4 e5 5. Be3 exd4 6. Bxd4 Nf6 7. f3 Nc6 8. Be3
+Ne5 9. Qd2 Be6 10. b3 c6 11. Rd1 Qa5 12. Nge2 d5 13. cxd5 cxd5 14. Nxd5 Nd3#
+0-1

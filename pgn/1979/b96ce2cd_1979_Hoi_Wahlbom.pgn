@@ -1,0 +1,24 @@
+[Event "Copenhagen AS04"]
+[Site "Copenhagen"]
+[Date "1979.01.01"]
+[Round "4"]
+[White "Hoi, Carsten"]
+[Black "Wahlbom, Magnus"]
+[Result "1-0"]
+[ECO "A71"]
+[Opening "Benoni"]
+[Variation "classical, 8.Bg5"]
+[HashCode "b96ce2cd"]
+[Epoch "Rook"]
+[WhiteID "1400100"]
+[WhiteCountry "DEN"]
+[BlackID "1700685"]
+[BlackCountry "SWE"]
+
+1. d4 e6 2. c4 Nf6 3. Nc3 c5 4. d5 exd5 5. cxd5 d6 6. e4 g6 7. Nf3 Bg7 8. Bg5
+a6 9. Nd2 h6 10. Bh4 b5 11. a4 b4 12. Ncb1 g5 13. Bg3 Qe7 14. Be2 O-O 15. O-O
+Nbd7 16. Re1 Ne8 17. Qc2 Ne5 18. Bxe5 Bxe5 19. Nc4 Bd4 20. Nbd2 f5 21. Nb3 Qxe4
+22. Bd3 Qxd5 23. Nb6 Qb7 24. a5 Rb8 25. Nxd4 cxd4 26. Qc4+ Kh8 27. Rac1 Ng7 28.
+Qxd4 Qf7 29. Qxd6 Be6 30. Rc7 Rfd8 31. Qe5 Qf8 32. Bxa6 Re8 33. Qc5 Qf6 34. Bb5
+Red8 35. a6 Bg8 36. Nd7 Ne6 37. Nxf6 Nxc5 38. Ree7 Rxb5 39. Rh7+ Bxh7 40. Rxh7#
+1-0

@@ -1,0 +1,18 @@
+[Event "Manila"]
+[Site "Manila"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Ravi Sekhar, R."]
+[Black "Vaganian, Rafael A"]
+[Result "1/2-1/2"]
+[ECO "E95"]
+[Opening "King's Indian"]
+[Variation "orthodox, 7...Nbd7, 8.Re1"]
+[HashCode "840f21eb"]
+[Epoch "Rook"]
+[BlackID "13300016"]
+[BlackCountry "ARM"]
+
+1. c4 Nf6 2. Nc3 d6 3. d4 Nbd7 4. e4 e5 5. Nf3 g6 6. Be2 Bg7 7. O-O O-O 8. Re1
+h6 9. Bf1 Nh7 10. Be3 Ng5 11. Nxg5 hxg5 12. Qd2 g4 13. Rad1 c6 14. Be2 exd4 15.
+Bxd4 Ne5 16. Be3 Be6 17. b3 Nd7 18. Nd5 Nc5 19. a3 1/2-1/2

@@ -1,0 +1,23 @@
+[Event "Regionalliga Nord"]
+[Site "RLN 8081"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Schroeter, Guenter, Dr."]
+[Black "Cichy, Michael, Dr."]
+[Result "0-1"]
+[ECO "B44"]
+[Opening "Sicilian, Szen (`anti-Taimanov') variation"]
+[HashCode "43341144"]
+[Epoch "Rook"]
+[WhiteID "4630360"]
+[WhiteCountry "GER"]
+[BlackID "4684621"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nb5 d6 6. Bf4 e5 7. Be3 Nf6 8.
+N1c3 a6 9. Na3 b5 10. Nd5 Rb8 11. Nxf6+ gxf6 12. c4 b4 13. Nc2 f5 14. exf5 Bxf5
+15. Qf3 Qd7 16. Qd1 Bg7 17. b3 Bg6 18. Rc1 f5 19. f4 exf4 20. Bxf4 Bc3+ 21. Kf2
+Ne5 22. Be2 O-O 23. h3 Rbe8 24. Bf3 Nxf3 25. Qxf3 Re4 26. Rhd1 Qa7+ 27. Kf1 Bh5
+28. Qg3+ Kh8 29. Ne3 Bxd1 30. Rxd1 Be5 31. Bxe5+ dxe5 32. Nd5 Rg8 33. Qf3 Qg7
+34. Rd2 Qg5 35. Qd1 Rd4 36. Ke1 Rxd2 37. Qxd2 Qxd2+ 38. Kxd2 Rxg2+ 39. Ke1 a5
+40. Ne3 Rxa2 41. Nxf5 0-1

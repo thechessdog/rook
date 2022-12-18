@@ -1,0 +1,17 @@
+[Event "corr Vidmar mem"]
+[Site "corr Vidmar mem"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Jovcic"]
+[Black "Endzelins"]
+[Result "1/2-1/2"]
+[ECO "C06"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation, main line"]
+[HashCode "32e76e7d"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Bd3 c5 6. c3 Nc6 7. Ne2 cxd4 8.
+cxd4 Qb6 9. Nf3 f6 10. exf6 Nxf6 11. O-O Bd6 12. Nc3 O-O 13. Be3 Bd7 14.
+Ne5 Qd8 15. Nxd7 Qxd7 16. f4 1/2-1/2
+

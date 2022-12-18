@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Vargas, C."]
+[Black "Myers, D."]
+[Result "1/2-1/2"]
+[ECO "C17"]
+[Opening "French"]
+[Variation "Winawer, advance, Bogolyubov variation"]
+[HashCode "800bf92d"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. Bd2 Ne7 6. Nb5 Bxd2+ 7. Qxd2 O-O
+8. c3 Nbc6 9. f4 cxd4 10. cxd4 Nf5 11. Nf3 f6 12. g4 Nh6 13. Rg1 a6 14. Nd6
+fxe5 15. dxe5 Nf7 16. Nxf7 Rxf7 17. Ng5 Rf8 18. Bd3 g6 19. O-O-O Bd7 20.
+Rg3 Rc8 1/2-1/2
+

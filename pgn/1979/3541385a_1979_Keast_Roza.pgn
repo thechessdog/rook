@@ -1,0 +1,16 @@
+[Event "corr CCLA"]
+[Site "corr CCLA"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Keast"]
+[Black "Roza"]
+[Result "1-0"]
+[ECO "B03"]
+[Opening "Alekhine's defence"]
+[Variation "Balogh variation"]
+[HashCode "3541385a"]
+[Epoch "Rook"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. Bc4 Nb6 5. e6 Bxe6 6. Bxe6 fxe6 7. Nh3 Nc6
+8. Ng5 1-0
+

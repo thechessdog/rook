@@ -1,0 +1,18 @@
+[Event "corr ch-CSSR"]
+[Site "corr ch-CSSR"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Vasut"]
+[Black "Rafajova"]
+[Result "0-1"]
+[ECO "E94"]
+[Opening "King's Indian"]
+[Variation "orthodox, 7...Nbd7"]
+[HashCode "389b956e"]
+[Epoch "Rook"]
+
+1. c4 Nf6 2. d4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 Nbd7 7. O-O e5 8.
+d5 Nc5 9. Qc2 a5 10. Nd2 Bh6 11. b3 Ne8 12. Ba3 b6 13. Rae1 f5 14. exf5
+gxf5 15. b4 axb4 16. Bxb4 Kh8 17. Nd1 Rg8 18. Kh1 Nf6 19. Ne3 Qe8 20. Nxf5
+Qg6 21. Ne3 Qxc2 22. Nxc2 Rxa2 23. Ne3 Nce4 24. Nb1 Bxe3 25. fxe3 Bg4 0-1
+

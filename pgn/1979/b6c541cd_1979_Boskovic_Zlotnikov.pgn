@@ -1,0 +1,24 @@
+[Event "Marshall Int"]
+[Site "Marshall Int"]
+[Date "1979.01.01"]
+[Round "2"]
+[White "Boskovic, Milorad"]
+[Black "Zlotnikov, Mikhail"]
+[Result "1-0"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, dragon formation"]
+[HashCode "b6c541cd"]
+[Epoch "Rook"]
+[BlackID "2001900"]
+[BlackCountry "USA"]
+[WhiteID "2001551"]
+[WhiteCountry "USA"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. f4 Nf6 5. Nf3 c5 6. e5 Nfd7 7. e6 fxe6 8. Ng5
+Nf6 9. dxc5 O-O 10. Qe2 dxc5 11. Nxe6 Bxe6 12. Qxe6+ Kh8 13. Bd2 Nc6 14. O-O-O
+Nd4 15. Qh3 Qc8 16. Qxc8 Rfxc8 17. g3 Rab8 18. Bh3 Rc6 19. Rhe1 e6 20. Be3 Rd6
+21. Bxd4 Rxd4 22. Bxe6 Rxd1+ 23. Rxd1 Re8 24. Bh3 h5 25. Kd2 Ne4+ 26. Nxe4 Rxe4
+27. c3 b5 28. Bf1 b4 29. Kd3 Re7 30. Kc4 bxc3 31. bxc3 Rb7 32. Bd3 Kh7 33. Rd2
+Bf6 34. Re2 Kg7 35. a4 Re7 36. Rxe7+ Bxe7 37. Kb5 Kf8 38. c4 Bd8 39. Kxc5 Bb6+
+40. Kd5 Bg1 41. c5 Bxh2 42. c6 Ke7 43. Bb5 1-0

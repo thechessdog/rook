@@ -1,0 +1,23 @@
+[Event "Halle"]
+[Site "Halle"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Meduna, Eduard"]
+[Black "Skrobek, Ryszard"]
+[Result "0-1"]
+[ECO "A13"]
+[Opening "English opening"]
+[HashCode "a7a9426f"]
+[Epoch "Rook"]
+[WhiteID "300055"]
+[WhiteCountry "CZE"]
+[BlackID "1100165"]
+[BlackCountry "POL"]
+
+1. c4 e6 2. Nc3 b6 3. d4 Bb4 4. e4 Bb7 5. Bd3 f5 6. d5 fxe4 7. Bxe4 Qh4 8. Qe2
+Nf6 9. Bf3 O-O 10. Bd2 Bxc3 11. Bxc3 exd5 12. Bxf6 Rxf6 13. O-O-O Re6 14. Qc2
+Na6 15. cxd5 Nb4 16. dxe6 Nxc2 17. Bxb7 Nb4 18. Ne2 Qc4+ 19. Nc3 Nxa2+ 20. Kc2
+Re8 21. Bd5 Nb4+ 22. Kc1 Nxd5 23. exd7 Qf4+ 24. Rd2 Rd8 25. Nxd5 Qxd2+ 26. Kxd2
+Rxd7 27. b4 Rxd5+ 28. Ke3 Rb5 29. Rc1 c5 30. bxc5 Rxc5 31. Rd1 Rc7 32. g4 Re7+
+33. Kf4 Kf7 34. h4 b5 35. Rb1 Rb7 36. Ke5 b4 37. Kd5 b3 38. Kc4 Kf6 39. f4 h5
+40. gxh5 Kf5 41. Kc3 b2 42. Kc2 a6 0-1

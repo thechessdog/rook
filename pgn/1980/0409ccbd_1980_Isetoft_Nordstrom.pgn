@@ -1,0 +1,17 @@
+[Event "corr SWE/K tt"]
+[Site "corr SWE/K tt"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Isetoft, Bengt"]
+[Black "Nordstrom, Osten"]
+[Result "1/2-1/2"]
+[ECO "C69"]
+[Opening "Ruy Lopez"]
+[Variation "exchange, Bronstein variation"]
+[HashCode "0409ccbd"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O Qd6 6. d4 exd4 7. Nxd4
+Bd7 8. Nc3 O-O-O 9. Be3 c5 10. Nb3 Qxd1 11. Rfxd1 b6 12. Rd2 Be6 13. Rxd8+
+Kxd8 14. Rd1+ Kc8 15. Ne2 1/2-1/2
+

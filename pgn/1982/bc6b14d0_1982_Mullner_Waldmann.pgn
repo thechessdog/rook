@@ -1,0 +1,23 @@
+[Event "Elekes mem-B"]
+[Site "Budapest"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Mullner, Imre"]
+[Black "Waldmann, Ivan"]
+[Result "1-0"]
+[ECO "B84"]
+[Opening "Sicilian"]
+[Variation "Scheveningen (Paulsen), classical variation"]
+[HashCode "bc6b14d0"]
+[Epoch "Rook"]
+[WhiteID "703346"]
+[WhiteCountry "HUN"]
+[BlackID "701416"]
+[BlackCountry "HUN"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be2 a6 7. a4 Nc6 8. O-O
+Be7 9. Kh1 Bd7 10. f4 O-O 11. Nb3 Qc7 12. a5 b5 13. axb6 Qxb6 14. Bf3 Rab8 15.
+Qe2 Nb4 16. Be3 Qc7 17. Na5 e5 18. Rfd1 Rfe8 19. Rd2 Bf8 20. g3 g6 21. fxe5
+dxe5 22. Bg5 Bg7 23. Nc4 h6 24. Bxf6 Bxf6 25. Ne3 Bc6 26. Ned5 Bxd5 27. exd5
+Rbd8 28. Ne4 Be7 29. d6 Rxd6 30. Rxd6 Bxd6 31. Nf6+ Kf8 32. Nxe8 Kxe8 33. c3
+Nc6 34. Qxa6 1-0

@@ -1,0 +1,20 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Korning"]
+[Black "Abrahamsson, I."]
+[Result "0-1"]
+[ECO "D76"]
+[Opening "Neo-Gruenfeld, 6.cd Nxd5, 7.O-O Nb6"]
+[HashCode "697460ba"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 O-O 5. Nf3 d5 6. cxd5 Nxd5 7. O-O Nb6
+8. Nc3 Nc6 9. e3 Re8 10. Ne1 e5 11. d5 Na5 12. Nc2 Nac4 13. e4 Nd6 14. b3
+f5 15. f3 Nd7 16. Bd2 Nf6 17. Rc1 Bd7 18. Ne3 c6 19. Nc4 Nf7 20. a4 Rc8 21.
+Be3 cxd5 22. exd5 Bxa4 23. Nxa4 b5 24. Nab2 Nxd5 25. Bxa7 bxc4 26. bxc4 Qe7
+27. Bf2 Nb4 28. Qe2 e4 29. Rb1 e3 30. Be1 Nc6 31. f4 Nd4 32. Qd3 Rb8 33.
+Na4 Qd7 34. Nc5 Qd6 35. Rxb8 Rxb8 36. Qa3 e2 37. Rf2 Nc2 38. Qa7 Nxe1 39.
+Bd5 Nf3+ 0-1
+

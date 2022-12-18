@@ -1,0 +1,20 @@
+[Event "corr ch-DDR"]
+[Site "corr ch-DDR"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Glasewald"]
+[Black "Herzig"]
+[Result "1-0"]
+[ECO "E45"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Bronstein (Byrne) variation"]
+[HashCode "db8b557b"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 b6 5. Ne2 Ba6 6. Ng3 O-O 7. e4 d5 8.
+cxd5 Bxf1 9. Kxf1 exd5 10. e5 Ne8 11. Qg4 Bxc3 12. bxc3 Qd7 13. Qxd7 Nxd7
+14. Nf5 Rd8 15. Ne7+ Kh8 16. Nc6 Ra8 17. Ba3 Rg8 18. Ne7 Rf8 19. Nxd5 c5
+20. Rb1 Rc8 21. f4 f5 22. Kf2 Nc7 23. Nxc7 Rxc7 24. Rhe1 Re8 25. d5 Nf8 26.
+c4 Rce7 27. Bc1 h5 28. h4 Ng6 29. g3 Kh7 30. a4 Rd8 31. Rb5 Rd6 32. exd6
+1-0
+

@@ -1,0 +1,21 @@
+[Event "Hungary"]
+[Site "Hungary"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Perecz, Laszlo"]
+[Black "Orgovan, Sandor"]
+[Result "1-0"]
+[ECO "B87"]
+[Opening "Sicilian"]
+[Variation "Sozin with ...a6 and ...b5"]
+[HashCode "e6700744"]
+[Epoch "Rook"]
+[WhiteID "700746"]
+[BlackID "701661"]
+[WhiteCountry "HUN"]
+[BlackCountry "HUN"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 b5 8. O-O
+Be7 9. f4 O-O 10. e5 dxe5 11. fxe5 Nfd7 12. Qh5 Qb6 13. Be3 Bc5 14. Rf4 Nc6 15.
+Rh4 h6 16. Rd1 Nxd4 17. Rdxd4 Bb7 18. Qxh6 f6 19. Qh7+ Kf7 20. Rxd7+ Ke8 21.
+Bxc5 Qxc5+ 22. Rhd4 Bd5 1-0

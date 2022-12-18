@@ -1,0 +1,23 @@
+[Event "Reykjavik op"]
+[Site "Reykjavik"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Hoi, Carsten"]
+[Black "Kogan, Boris"]
+[Result "0-1"]
+[ECO "A56"]
+[Opening "Benoni defence"]
+[HashCode "7eee8f40"]
+[Epoch "Rook"]
+[WhiteID "1400100"]
+[WhiteCountry "DEN"]
+[BlackID "2804352"]
+[BlackCountry "ISR"]
+
+1. d4 Nf6 2. c4 c5 3. d5 g6 4. Nc3 Bg7 5. e4 d6 6. Nf3 O-O 7. Be2 e6 8. O-O
+exd5 9. exd5 Na6 10. h3 Nc7 11. Bg5 h6 12. Bf4 Nh5 13. Bh2 f5 14. Qc2 a6 15. a4
+Ne8 16. Rfe1 g5 17. Nd2 Nhf6 18. Bd3 f4 19. Re2 Nd7 20. Nf3 Ne5 21. Nxe5 Bxe5
+22. Rae1 Ng7 23. Rxe5 dxe5 24. Ne4 Bf5 25. Qc3 Bxe4 26. Rxe4 Qd6 27. Qxe5 Qxe5
+28. Rxe5 Rae8 29. Rxe8 Rxe8 30. Kf1 Kf7 31. a5 Kf6 32. g3 Ke5 33. Ke2 Nf5 34.
+Kf3 Rg8 35. Kg2 Nd4 36. f3 Nb3 37. Bg1 Rc8 38. h4 Nxa5 39. Kh3 b5 40. cxb5 c4
+41. Be4 axb5 42. Kg4 b4 43. hxg5 fxg3 44. Bb6 Nb7 45. Bf5 Rf8 0-1

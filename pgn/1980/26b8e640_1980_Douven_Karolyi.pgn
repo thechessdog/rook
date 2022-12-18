@@ -1,0 +1,28 @@
+[Event "Groningen ch-EU jr"]
+[Site "Groningen ch-EU jr"]
+[Date "1980.01.01"]
+[Round "5"]
+[White "Douven, Rudy"]
+[Black "Karolyi, Tibor"]
+[Result "0-1"]
+[ECO "E15"]
+[Opening "Queen's Indian"]
+[Variation "Nimzovich variation (exaggerated fianchetto)"]
+[HashCode "26b8e640"]
+[Epoch "Rook"]
+[WhiteID "1000195"]
+[WhiteCountry "NED"]
+[BlackID "700312"]
+[BlackCountry "HUN"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. b3 Bb4+ 6. Bd2 Be7 7. Bg2 c6 8. O-O
+d5 9. Qc2 O-O 10. a4 Nbd7 11. Rc1 Rc8 12. a5 b5 13. c5 Ne4 14. b4 f5 15. Bf4
+Bf6 16. Be5 g5 17. Qb2 g4 18. Ne1 Bxe5 19. dxe5 Qc7 20. Nd3 Ng5 21. f3 Nf7 22.
+f4 h5 23. Nd2 Rce8 24. Nb3 Nd8 25. Nd4 Re7 26. Kf2 Rff7 27. Rh1 Nf8 28. h3 Rh7
+29. hxg4 hxg4 30. Rag1 Rxh1 31. Rxh1 Rh7 32. Rxh7 Qxh7 33. Qc1 Bc8 34. Ne1 a6
+35. Nec2 Bd7 36. Ne3 Be8 37. Qb1 Bd7 38. Qc2 Bc8 39. Nd1 Bd7 40. Nc3 Be8 41.
+Qa2 Qf7 42. Qd2 Qd7 43. Qd1 Bg6 44. Qh1 Qh7 45. Nxc6 Qxh1 46. Bxh1 Nxc6 47.
+Nxd5 Nd7 48. Nf6+ Nxf6 49. Bxc6 Be8 50. Bb7 Nd5 51. Bxa6 Nxb4 52. Bc8 Kf7 53.
+e4 fxe4 54. a6 Bc6 55. a7 Nd3+ 56. Ke3 Nxc5 57. Kd4 Ba8 58. f5 exf5 59. Bxf5
+Ne6+ 60. Kc3 Ng5 61. Bxg4 Nf3 62. Bd7 Nxe5 63. Bxb5 Kf6 64. Kd4 Nc6+ 65. Ke3
+Nxa7 66. Bd7 Ke5 67. g4 Bc6 0-1

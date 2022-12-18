@@ -1,0 +1,16 @@
+[Event "corr Netherlands"]
+[Site "corr Netherlands"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Bausch, R."]
+[Black "Van Gent"]
+[Result "1-0"]
+[ECO "C21"]
+[Opening "Danish gambit"]
+[Variation "Soerensen defence"]
+[HashCode "c0920939"]
+[Epoch "Rook"]
+
+1. e4 e5 2. d4 exd4 3. c3 d5 4. cxd4 dxe4 5. Nc3 Bb4 6. Qa4+ Nc6 7. Bb5
+Bxc3+ 8. bxc3 Bd7 9. Bxc6 Bxc6 10. Ba3 Qd5 1-0
+

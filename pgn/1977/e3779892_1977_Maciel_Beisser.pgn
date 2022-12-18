@@ -1,0 +1,16 @@
+[Event "corr WER/C"]
+[Site "corr WER/C"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Maciel"]
+[Black "Beisser, G."]
+[Result "0-1"]
+[ECO "B03"]
+[Opening "Alekhine's defence"]
+[Variation "four pawns attack"]
+[HashCode "e3779892"]
+[Epoch "Rook"]
+
+1. e4 Nf6 2. e5 Nd5 3. c4 Nb6 4. d4 d6 5. f4 dxe5 6. fxe5 Bf5 7. Nc3 e6 8.
+Nf3 Nc6 9. d5 Nb4 10. Nd4 Qh4+ 11. Ke2 Bd3+ 12. Kf3 Qxd4 13. Be3 Qxc4 0-1
+

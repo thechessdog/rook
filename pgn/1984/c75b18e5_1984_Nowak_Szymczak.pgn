@@ -1,0 +1,21 @@
+[Event "Poland"]
+[Site "Poland"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Nowak, Ignacy"]
+[Black "Szymczak, Zbigniew"]
+[Result "1/2-1/2"]
+[ECO "D27"]
+[Opening "QGA"]
+[Variation "classical, Rubinstein variation"]
+[HashCode "c75b18e5"]
+[Epoch "Rook"]
+[WhiteID "1100157"]
+[BlackID "1100424"]
+[WhiteCountry "POL"]
+[BlackCountry "POL"]
+
+1. Nf3 d5 2. d4 Nf6 3. c4 dxc4 4. e3 e6 5. Bxc4 a6 6. a4 c5 7. O-O Qc7 8. Qe2
+Nc6 9. Nc3 Bd6 10. Bd2 O-O 11. h3 e5 12. d5 Ne7 13. e4 Ng6 14. Rfe1 h6 15. Qd1
+Bd7 16. a5 Rae8 17. Na4 Bb5 18. Qb3 Bxc4 19. Qxc4 Qe7 20. Rac1 Nd7 21. Be3 Rc8
+22. Nd2 Nf4 23. Qc3 c4 24. Nxc4 1/2-1/2

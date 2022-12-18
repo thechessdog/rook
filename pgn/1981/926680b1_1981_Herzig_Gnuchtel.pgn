@@ -1,0 +1,20 @@
+[Event "corr ch-DDR"]
+[Site "corr ch-DDR"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Herzig"]
+[Black "Gnuchtel"]
+[Result "0-1"]
+[ECO "A99"]
+[Opening "Dutch"]
+[Variation "Ilyin-Genevsky variation with b3"]
+[HashCode "926680b1"]
+[Epoch "Rook"]
+
+1. c4 f5 2. Nf3 Nf6 3. g3 e6 4. Bg2 Be7 5. O-O O-O 6. b3 d6 7. d4 Qe8 8.
+Nc3 a5 9. Qc2 Qh5 10. Ba3 Na6 11. Rad1 Nb4 12. Qb1 Bd7 13. Bb2 Rab8 14. a3
+Na6 15. e4 Nxe4 16. Nxe4 fxe4 17. Qxe4 e5 18. Qd5+ Qf7 19. Nxe5 dxe5 20.
+dxe5 Bc6 21. Qd3 Bxg2 22. Kxg2 Rbd8 23. Qc2 Qf3+ 24. Kg1 Rxd1 25. Rxd1 Nc5
+26. Bc3 Ne4 27. Bd4 Ng5 28. c5 Nh3+ 29. Kf1 Qh1+ 30. Ke2 Qxh2 31. Rf1 Ng5
+32. Be3 Qh5+ 33. Kd3 Qg6+ 34. Kc3 Qxc2+ 35. Kxc2 Ne4 36. b4 axb4 0-1
+

@@ -1,0 +1,20 @@
+[Event "Regionalliga Nord"]
+[Site "RLN 8182"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Kuever, M."]
+[Black "Francke, H."]
+[Result "1-0"]
+[ECO "E95"]
+[Opening "King's Indian"]
+[Variation "orthodox, 7...Nbd7, 8.Re1"]
+[HashCode "5df82278"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. Nc3 d6 5. e4 O-O 6. Be2 e5 7. O-O Nbd7 8. Re1
+c6 9. Rb1 exd4 10. Nxd4 Re8 11. Bf1 d5 12. exd5 Rxe1 13. Qxe1 cxd5 14. Ndb5 Nf8
+15. Bf4 Ne6 16. Be5 a6 17. Nd6 Ng4 18. Bg3 d4 19. Nd5 Bf8 20. Nxc8 Rxc8 21. Qe4
+Nf6 22. Nxf6+ Qxf6 23. b4 Qe7 24. c5 Qd7 25. Bc4 Re8 26. Qd5 Qxd5 27. Bxd5 Re7
+28. Rd1 Rd7 29. Bc4 Bg7 30. Kf1 Nc7 31. a4 Nd5 32. Bxd5 Rxd5 33. Ke2 a5 34. Kd3
+axb4 35. Kc4 Rd7 36. Kxb4 f5 37. a5 Kf7 38. a6 bxa6 39. c6 Rd8 40. c7 Rc8 41.
+Kc5 Ke6 42. Kc6 g5 43. Re1+ Kf7 44. Bd6 d3 45. Kd7 d2 46. Rd1 Ra8 1-0

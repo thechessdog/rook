@@ -1,0 +1,17 @@
+[Event "Dayton,OH"]
+[Site "Dayton,OH"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Lum Tong, M."]
+[Black "Jackson, Oliver A"]
+[Result "1-0"]
+[ECO "C57"]
+[Opening "two knights defence"]
+[Variation "Wilkes Barre (Traxler) variation"]
+[HashCode "8d4f7023"]
+[Epoch "Rook"]
+[BlackID "403156"]
+[BlackCountry "ENG"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 Bc5 5. Nxf7 Bxf2+ 6. Kf1 Qe7 7. Nxh8 Nxe4
+8. Qh5+ Kf8 9. Ng6+ 1-0

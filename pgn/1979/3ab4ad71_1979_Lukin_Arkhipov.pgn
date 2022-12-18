@@ -1,0 +1,22 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Lukin"]
+[Black "Arkhipov, Sergey"]
+[Result "1-0"]
+[ECO "B04"]
+[Opening "Alekhine's defence"]
+[Variation "modern, Larsen variation"]
+[HashCode "3ab4ad71"]
+[Epoch "Rook"]
+[BlackID "4101146"]
+[BlackCountry "RUS"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. Nf3 dxe5 5. Nxe5 Nd7 6. Nxf7 Kxf7 7. Qh5+ Ke6
+8. g3 b5 9. a4 c6 10. Bh3+ Kd6 11. Qe2 e5 12. axb5 cxb5 13. O-O e4 14. Qxb5 a6
+15. Qe2 N7f6 16. Bxc8 Qxc8 17. Nd2 Qe6 18. Rxa6+ Rxa6 19. Qxa6+ Kd7 20. Qb7+
+Nc7 21. Re1 Bd6 22. Nxe4 Nxe4 23. Qxe4 Qh3 24. d5 Qh5 25. Qa4+ Kc8 26. Qc6 Rd8
+27. c4 Be5 28. Be3 Rd6 29. Qc5 g5 30. Bd4 Bxd4 31. Qxd6 Qf3 32. Rf1 h5 33. Qe7
+Bf6 34. Qe3 Qg4 35. Re1 h4 36. d6 hxg3 37. hxg3 Bd4 38. Qd3 Na6 39. Re4 Bxf2+
+40. Kxf2 Qf5+ 41. Kg2 1-0

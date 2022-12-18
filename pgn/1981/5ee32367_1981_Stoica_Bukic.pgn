@@ -1,0 +1,19 @@
+[Event "Tuzla"]
+[Site "Tuzla"]
+[Date "1981.01.01"]
+[Round "12"]
+[White "Stoica, Valentin"]
+[Black "Bukic, Enver"]
+[Result "1/2-1/2"]
+[ECO "B93"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.f4"]
+[HashCode "5ee32367"]
+[Epoch "Rook"]
+[WhiteID "1200070"]
+[WhiteCountry "ROU"]
+[BlackID "14600030"]
+[BlackCountry "SLO"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 e5 7. Nf3 Nbd7 8. a4
+Be7 9. Bc4 O-O 1/2-1/2

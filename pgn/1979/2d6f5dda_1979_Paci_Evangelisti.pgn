@@ -1,0 +1,16 @@
+[Event "Breslavia"]
+[Site "Breslavia"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Paci"]
+[Black "Evangelisti"]
+[Result "1/2-1/2"]
+[ECO "C32"]
+[Opening "KGD"]
+[Variation "Falkbeer, 5.de"]
+[HashCode "2d6f5dda"]
+[Epoch "Rook"]
+
+1. e4 e5 2. f4 d5 3. exd5 e4 4. d3 Nf6 5. dxe4 Nxe4 6. Nf3 c6 7. Be3 cxd5
+8. Bb5+ Nc6 9. O-O a6 10. Ba4 Bg4 11. c3 Bc5 12. Bxc5 1/2-1/2
+

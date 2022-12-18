@@ -1,0 +1,21 @@
+[Event "Charny"]
+[Site "Charny"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Boily, Bertrand"]
+[Black "Auger, Bertrand"]
+[Result "1-0"]
+[ECO "C00"]
+[Opening "French"]
+[Variation "King's Indian attack"]
+[HashCode "83914538"]
+[Epoch "Rook"]
+[BlackID "2611945"]
+[BlackCountry "CAN"]
+
+1. e4 e6 2. d3 d5 3. Nd2 c5 4. g3 Nc6 5. Bg2 Nf6 6. Ne2 Be7 7. O-O O-O 8. f4
+Qc7 9. c3 dxe4 10. dxe4 e5 11. Qc2 Bg4 12. Nc4 Rad8 13. Ne3 Bxe2 14. Qxe2 Rfe8
+15. f5 Bf8 16. g4 h6 17. h4 Rd6 18. g5 hxg5 19. hxg5 Nh7 20. Nd5 Qd8 21. f6
+gxf6 22. gxf6 Nxf6 23. Bg5 Be7 24. Bxf6 Bxf6 25. Qf3 Bg7 26. Qxf7+ Kh8 27. Rf3
+Rh6 28. Rg3 Rg8 29. Rf1 Qh4 30. Rh3 Qg4 31. Nf6 Qxg2+ 32. Kxg2 Bxf6+ 33. Kh2
+Rg6 34. Qxg6 1-0

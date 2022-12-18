@@ -1,0 +1,18 @@
+[Event "Italy"]
+[Site "Italy"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Crispino"]
+[Black "Pane"]
+[Result "1-0"]
+[ECO "D85"]
+[Opening "Gruenfeld"]
+[Variation "modern exchange variation"]
+[HashCode "6f23b0c7"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Nf3 c5
+8. Be3 Qa5 9. Qd2 Nc6 10. Rb1 cxd4 11. cxd4 Qxd2+ 12. Kxd2 O-O 13. d5 Na5
+14. Bc5 Re8 15. Bb4 b6 16. Bxa5 bxa5 17. Bb5 Rf8 18. Bc6 Ba6 19. Bxa8 Rxa8
+20. g4 Bc4 21. Rhc1 Bxa2 22. Rb7 Bf8 23. Rc2 1-0
+

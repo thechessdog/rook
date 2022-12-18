@@ -1,0 +1,24 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Tolonen, L."]
+[Black "Kimelfeld, Rudolf"]
+[Result "0-1"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "classical variation (5.Bf4)"]
+[HashCode "1f74cdf7"]
+[Epoch "Rook"]
+
+1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. Nc3 Be7 5. Bf4 O-O 6. e3 c5 7. dxc5 Bxc5 8.
+cxd5 Nxd5 9. Nxd5 exd5 10. a3 Nc6 11. Rc1 Be7 12. Bd3 Bg4 13. Qc2 Rc8 14.
+Bxh7+ Kh8 15. Bf5 Qa5+ 16. Nd2 Nb4 17. Qxc8 Nd3+ 18. Bxd3 Bxc8 19. Be5 Bf6
+20. Bxf6 gxf6 21. Rc3 d4 22. exd4 Re8+ 23. Kd1 Qa4+ 24. Kc1 Qxd4 25. Rf1
+Bd7 26. Nf3 Qd6 27. Nd2 Bc6 28. Nc4 Qd4 29. Ne3 Re5 30. g3 Rc5 31. Rxc5
+Qxc5+ 32. Kb1 Qh5 33. h4 Qf3 34. Kc2 Bd7 35. Kd2 f5 36. Bc4 f4 37. gxf4
+Qxf4 38. Ke2 Qe5 39. b3 Qb2+ 40. Kd3 Qxa3 41. f4 a5 42. Kd4 Qd6+ 43. Bd5
+Qb6+ 44. Ke4 f5+ 45. Kf3 Bc6 46. Bxc6 Qxc6+ 47. Kf2 Qc3 48. Rd1 Qb2+ 49.
+Kf3 Qxb3 50. Rd8+ Kh7 51. Rd7+ Kg6 52. Rd6+ Kh5 53. Rf6 a4 54. Rxf5+ Kh6
+55. Ke4 a3 56. Ng4+ Kg7 0-1
+

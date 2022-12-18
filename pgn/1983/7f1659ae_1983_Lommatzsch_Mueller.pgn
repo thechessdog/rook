@@ -1,0 +1,18 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Lommatzsch, E."]
+[Black "Mueller, S."]
+[Result "0-1"]
+[ECO "A28"]
+[Opening "English"]
+[Variation "four knights system"]
+[HashCode "7f1659ae"]
+[Epoch "Rook"]
+
+1. c4 Nf6 2. Nc3 e5 3. Nf3 Nc6 4. d4 exd4 5. Nxd4 Bb4 6. e3 O-O 7. Bd2 Re8
+8. Nxc6 dxc6 9. Be2 Bf5 10. O-O Qe7 11. a3 Bxc3 12. Bxc3 Ne4 13. Qb3 Nc5
+14. Qa2 Qg5 15. Rfd1 Rad8 16. Bd4 Bc2 17. Rd2 Bb3 18. Qb1 Ne4 19. Rd3 Bxc4
+20. Bf6 Qxf6 21. Rxd8 Qxf2+ 22. Kh1 Rxd8 23. Bxc4 Ng3+ 24. hxg3 Rd6 0-1
+

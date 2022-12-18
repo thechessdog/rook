@@ -1,0 +1,23 @@
+[Event "DDR"]
+[Site "DDR"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Knaak, Rainer"]
+[Black "Uhlmann, Wolfgang"]
+[Result "1-0"]
+[ECO "E88"]
+[Opening "King's Indian"]
+[Variation "Saemisch, orthodox, 7.d5 c6"]
+[HashCode "8dc7274b"]
+[Epoch "Rook"]
+[BlackID "4611284"]
+[WhiteID "4611250"]
+[WhiteCountry "GER"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 e5 7. d5 c6 8. Bd3 cxd5
+9. cxd5 Nbd7 10. Nge2 Nc5 11. Bc2 a5 12. O-O Bd7 13. a3 Nh5 14. Rb1 b5 15. b4
+axb4 16. axb4 Na4 17. Bxa4 bxa4 18. b5 Qa5 19. b6 Nf4 20. b7 Rab8 21. g3 Nxe2+
+22. Qxe2 Qxc3 23. Rfc1 Qa5 24. Bb6 Bb5 25. Bxa5 Bxe2 26. Bc7 Rxb7 27. Rxb7 Bh6
+28. Re1 Be3+ 29. Kg2 Ba6 30. Bxd6 Rd8 31. Rb8 Rxb8 32. Bxb8 Bd4 33. Bd6 f5 34.
+exf5 Bb7 35. Bxe5 Bxe5 36. Rxe5 a3 37. d6 1-0

@@ -1,0 +1,17 @@
+[Event "corr EUR/M"]
+[Site "corr EUR/M"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Harald, O."]
+[Black "Schoisswohl, A."]
+[Result "0-1"]
+[ECO "A21"]
+[Opening "English opening"]
+[HashCode "01c05e07"]
+[Epoch "Rook"]
+
+1. c4 e5 2. Nc3 d6 3. g3 f5 4. d4 exd4 5. Qxd4 Nf6 6. b3 Nc6 7. Qd2 Be7 8.
+Bg2 O-O 9. Nh3 Ne4 10. Nxe4 fxe4 11. Qd5+ Kh8 12. Bxe4 Ne5 13. Bg2 Bf6 14.
+Rb1 Bf5 15. e4 Bg4 16. Ng1 c6 17. Qd2 Qb6 18. Qc2 Nd3+ 19. Qxd3 Bc3+ 20.
+Qxc3 Qxf2# 0-1
+

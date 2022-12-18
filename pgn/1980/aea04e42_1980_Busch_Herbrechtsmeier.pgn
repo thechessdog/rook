@@ -1,0 +1,26 @@
+[Event "Mosbach Elo"]
+[Site "Mosbach Elo"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Busch, R."]
+[Black "Herbrechtsmeier, Christof"]
+[Result "0-1"]
+[ECO "D10"]
+[Opening "QGD Slav defence"]
+[Variation "exchange variation"]
+[HashCode "aea04e42"]
+[Epoch "Rook"]
+[BlackID "4603737"]
+[BlackCountry "GER"]
+
+1. d4 d5 2. c4 c6 3. cxd5 cxd5 4. Nc3 Nf6 5. Bf4 Qb6 6. Qb3 Qxd4 7. Nb5 Qxf4 8.
+e3 Qg4 9. Nc7+ Kd8 10. h3 Qd7 11. Nxa8 e6 12. Nf3 b6 13. Nxb6 axb6 14. Qxb6+
+Qc7 15. Qxc7+ Kxc7 16. Rc1+ Kb7 17. Bd3 Bd6 18. O-O e5 19. Bc2 h6 20. b4 Nc6
+21. a3 Bd7 22. Rfd1 Ra8 23. Bb3 Ne7 24. Ra1 Bf5 25. g4 Be6 26. Nd2 h5 27. g5
+Nd7 28. Ne4 Bc7 29. Kg2 f5 30. gxf6 gxf6 31. Nc3 Nb6 32. e4 Rd8 33. a4 Nc4 34.
+exd5 Nxd5 35. Nxd5 Rxd5 36. Rxd5 Bxd5+ 37. Kg3 e4+ 38. Kh4 Bb6 39. Ra2 Bf7 40.
+Re2 f5 41. Kg5 Bd8+ 42. Kxf5 Nd6+ 43. Ke5 Bxb3 44. Kxd6 Bc7+ 45. Ke7 Bd5 46.
+Kf6 Bc6 47. b5 Bd7 48. Rxe4 Bxh3 49. Kg5 Bg4 50. f4 Bd8+ 51. Kg6 h4 52. f5 h3
+53. Re8 Ba5 54. Rh8 Kb6 55. f6 Bd1 56. Rh4 Bc2+ 57. Kg5 h2 58. f7 Bb4 59. Rxb4
+h1=Q 60. f8=Q Qd5+ 61. Kf4 Qd2+ 62. Kg3 Qc3+ 63. Kf2 Ka5 64. Rf4 Qd2+ 65. Kg3
+Qe3+ 66. Kh4 Qe1+ 67. Kg5 Qg3+ 68. Kh6 Qg6# 0-1

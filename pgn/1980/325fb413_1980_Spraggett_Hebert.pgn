@@ -1,0 +1,24 @@
+[Event "Montreal"]
+[Site "Montreal"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Spraggett, Kevin"]
+[Black "Hebert, Jean"]
+[Result "0-1"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Nimzovich (knight's tour) variation"]
+[HashCode "325fb413"]
+[Epoch "Rook"]
+[WhiteID "2600013"]
+[WhiteCountry "CAN"]
+[BlackID "2600048"]
+[BlackCountry "CAN"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. Nd2 Nbd7 8. e4
+Bg7 9. Be2 O-O 10. O-O Re8 11. a4 Ne5 12. Ra3 g5 13. Qc2 a6 14. b3 Qe7 15. Nc4
+h6 16. Re1 Rb8 17. a5 Ng6 18. Bd2 Nd7 19. Bf1 Nde5 20. Na4 Nh4 21. b4 cxb4 22.
+Bxb4 Nxc4 23. Qxc4 Be5 24. Nb6 Ng6 25. Ra2 f5 26. Rc2 fxe4 27. Nxc8 Rbxc8 28.
+Qxc8 Rxc8 29. Rxc8+ Kf7 30. Rc4 Qf6 31. Rc7+ Kf8 32. Rxe4 Bd4 33. Rc8+ Kf7 34.
+Rc7+ Kf8 35. Be1 Bc5 36. Rxb7 Qf5 37. Rb8+ Kf7 38. Ree8 Qxd5 39. Bxa6 Qd1 40.
+Bc4+ d5 41. Bb3 Qd3 42. Rec8 Qe4 43. Rb7+ Be7 44. Bd2 Nf4 0-1

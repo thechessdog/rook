@@ -1,0 +1,14 @@
+[Event "Capablanca mem"]
+[Site "Capablanca mem"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Remon"]
+[Black "Rodriguez, Ad"]
+[Result "1/2-1/2"]
+[ECO "A46"]
+[Opening "Queen's pawn game"]
+[HashCode "a3d7e56e"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. Nf3 e6 3. g3 Be7 4. Bg2 O-O 5. O-O d5 6. c4 dxc4 7. Qc2 a6 8. Qxc4
+b5 9. Qc2 Bb7 10. Bf4 Nc6 11. Rd1 Nb4 1/2-1/2

@@ -1,0 +1,16 @@
+[Event "Dayton,OH"]
+[Site "Dayton,OH"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Baldino"]
+[Black "Moore"]
+[Result "0-1"]
+[ECO "B20"]
+[Opening "Sicilian"]
+[Variation "wing gambit, Carlsbad variation"]
+[HashCode "9d8d46ec"]
+[Epoch "Rook"]
+
+1. e4 c5 2. b4 cxb4 3. a3 bxa3 4. Bxa3 Nc6 5. Bc4 Nf6 6. d3 g6 7. Ne2 Bg7
+8. Bb2 Qc7 9. O-O Ng4 0-1
+

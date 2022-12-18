@@ -1,0 +1,24 @@
+[Event "FRG Hochschul-ch"]
+[Site "FRG Tch"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Vehrenberg"]
+[Black "Prieur, Eetu"]
+[Result "0-1"]
+[ECO "A52"]
+[Opening "Budapest"]
+[Variation "Adler variation"]
+[HashCode "5f6c1a4a"]
+[Epoch "Rook"]
+[BlackID "502928"]
+[BlackCountry "FIN"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ng4 4. Nf3 Nc6 5. Nc3 Ngxe5 6. Nxe5 Nxe5 7. e4 Bb4
+8. Bd2 O-O 9. a3 Bxc3 10. Bxc3 d6 11. f4 Nc6 12. Bd3 f5 13. O-O Qe8 14. Qf3 Qg6
+15. e5 dxe5 16. fxe5 Be6 17. Qf4 Rf7 18. Rad1 Rd8 19. Be2 Rfd7 20. h4 Qf7 21.
+g4 Rxd1 22. Rxd1 Rxd1+ 23. Bxd1 fxg4 24. Qxf7+ Kxf7 25. h5 Bf5 26. Bb3 Be6 27.
+Bc2 h6 28. Bg6+ Kf8 29. Bd3 Bf7 30. b4 Bxh5 31. b5 Nd8 32. Ba5 b6 33. Bb4+ Ke8
+34. Be4 Bf7 35. Bd5 h5 36. Kf2 Ne6 37. Kg3 g6 38. Bc6+ Kd8 39. Bd5 Ke8 40. Bc6+
+Kd8 41. Bd5 Ng5 42. Bd2 Ne6 43. Kh2 Ke8 44. Bb4 Nd4 45. Kg3 Bxd5 46. cxd5 Nxb5
+47. a4 Nd4 48. a5 Nf5+ 49. Kf4 g3 50. axb6 axb6 51. Be1 h4 52. Kg4 Ne3+ 53. Kh3
+g5 54. Bd2 g4+ 55. Kxh4 Nf5+ 56. Kxg4 g2 0-1

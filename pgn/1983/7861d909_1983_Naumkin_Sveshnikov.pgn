@@ -1,0 +1,22 @@
+[Event "Moscow"]
+[Site "Moscow"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Naumkin, Igor"]
+[Black "Sveshnikov, Evgeny"]
+[Result "0-1"]
+[ECO "D45"]
+[Opening "QGD semi-Slav"]
+[Variation "Stoltz variation"]
+[HashCode "7861d909"]
+[Epoch "Rook"]
+[BlackID "4100638"]
+[BlackCountry "RUS"]
+[WhiteID "4101715"]
+[WhiteCountry "RUS"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c6 4. e3 Nf6 5. Nf3 Nbd7 6. Qc2 Bd6 7. e4 dxe4 8. Nxe4
+Nxe4 9. Qxe4 e5 10. dxe5 O-O 11. exd6 Re8 12. Qxe8+ Qxe8+ 13. Be3 Nf6 14. O-O-O
+Be6 15. Bd3 b5 16. Ne5 bxc4 17. Nxc4 Rd8 18. Rhe1 c5 19. Rd2 Qc6 20. Ne5 Qb6
+21. Red1 Rxd6 22. Bxh7+ Kxh7 23. Rxd6 Qa5 24. a3 Bb3 25. Rg1 Ne4 26. Rd7 f6 27.
+Nf3 Nc3 28. Rd2 Ne4 29. Rd7 Qb5 30. Rd8 Qc4+ 31. Kb1 Bc2+ 32. Ka1 Nc3 0-1

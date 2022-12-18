@@ -1,0 +1,22 @@
+[Event "URS Spartakiad"]
+[Site "Moscow"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Gutman, Lev"]
+[Black "Govashelishvili, Genadij"]
+[Result "1-0"]
+[ECO "E52"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line with ...b6"]
+[HashCode "3c786bcd"]
+[Epoch "Rook"]
+[WhiteID "4600177"]
+[WhiteCountry "GER"]
+[BlackID "4130170"]
+[BlackCountry "RUS"]
+
+1. c4 e6 2. d4 Nf6 3. Nf3 d5 4. Nc3 Bb4 5. e3 O-O 6. Bd3 b6 7. O-O Bb7 8. cxd5
+exd5 9. Bd2 Be7 10. Ne5 c5 11. Rc1 a6 12. Qf3 Nc6 13. Rfd1 cxd4 14. Nxc6 Bxc6
+15. exd4 Qd7 16. Bf4 g6 17. Bg5 Kg7 18. Ne2 Bb7 19. Ng3 Ne8 20. Bf4 Bd6 21. Re1
+Bxf4 22. Qxf4 f6 23. h4 Rc8 24. h5 Rxc1 25. Rxc1 Nd6 26. hxg6 hxg6 27. Bf5 Qe8
+28. Qg4 Qf7 29. Nh5+ Kh6 30. Qf4+ g5 31. Qxd6 Kxh5 32. Qh2# 1-0

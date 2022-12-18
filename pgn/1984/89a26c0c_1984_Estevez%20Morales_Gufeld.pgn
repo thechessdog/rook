@@ -1,0 +1,18 @@
+[Event "Capablanca mem-A"]
+[Site "Cienfuegos"]
+[Date "1984.??.??"]
+[Round "?"]
+[White "Estevez Morales, Guillermo"]
+[Black "Gufeld, Eduard"]
+[Result "1/2-1/2"]
+[ECO "A65"]
+[Opening "Benoni"]
+[Variation "6.e4"]
+[HashCode "89a26c0c"]
+[Epoch "Rook"]
+[BlackCountry "RUS"]
+[WhiteCountry "CUB"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 c5 4. d5 exd5 5. cxd5 d6 6. e4 g6 7. Bd3 Bg7 8. Nge2
+O-O 9. O-O Na6 10. f3 Nb4 11. Bg5 Nxd3 12. Qxd3 a6 13. a4 Qc7 14. b3 Bd7 15.
+Rfc1 Rfe8 16. Rab1 Rab8 17. Be3 b5 18. axb5 Bxb5 19. Nxb5 axb5 1/2-1/2

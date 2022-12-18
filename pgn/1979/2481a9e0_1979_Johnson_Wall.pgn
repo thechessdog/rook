@@ -1,0 +1,16 @@
+[Event "Dayton,OH"]
+[Site "Dayton,OH"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Johnson, A."]
+[Black "Wall, Bill"]
+[Result "0-1"]
+[ECO "D00"]
+[Opening "Queen's pawn"]
+[Variation "Chigorin variation"]
+[HashCode "2481a9e0"]
+[Epoch "Rook"]
+[BlackCountry "USA"]
+
+1. d4 d5 2. Nc3 Nf6 3. Nf3 g6 4. Bf4 Bg7 5. Qd3 a6 6. e4 dxe4 7. Nxe4 Bf5 8.
+Nfg5 Nxe4 9. Nxe4 Bxd4 10. Qf3 Bxb2 11. Rd1 Qc8 12. Nc5 Bg4 0-1

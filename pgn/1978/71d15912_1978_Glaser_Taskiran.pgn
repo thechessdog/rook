@@ -1,0 +1,17 @@
+[Event "Cincinnati"]
+[Site "Cincinnati"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Glaser"]
+[Black "Taskiran, Erol"]
+[Result "1-0"]
+[ECO "D24"]
+[Opening "QGA, 4.Nc3"]
+[HashCode "71d15912"]
+[Epoch "Rook"]
+[BlackID "1433512"]
+[BlackCountry "TUR"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. Nc3 e6 5. e4 Bb4 6. Bg5 Bxc3+ 7. bxc3 h6 8.
+Bxf6 Qxf6 9. Bxc4 Qg6 10. O-O Qxe4 11. Re1 Qg6 12. d5 O-O 13. dxe6 fxe6 14. Qb3
+Rxf3 15. Bxe6+ Bxe6 16. Rxe6 Rxc3 17. Re8+ Kh7 18. Qg8# 1-0

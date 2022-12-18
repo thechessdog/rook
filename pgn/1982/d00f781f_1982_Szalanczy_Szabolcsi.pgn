@@ -1,0 +1,21 @@
+[Event "Budapest"]
+[Site "Budapest"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Szalanczy, Emil"]
+[Black "Szabolcsi, Janos"]
+[Result "1-0"]
+[ECO "B17"]
+[Opening "Caro-Kann"]
+[Variation "Steinitz variation"]
+[HashCode "d00f781f"]
+[Epoch "Rook"]
+[BlackID "701270"]
+[BlackCountry "HUN"]
+[WhiteID "700347"]
+[WhiteCountry "HUN"]
+
+1. e4 c6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Nd7 5. Bc4 Ngf6 6. Ng5 e6 7. Qe2 Nb6 8.
+Bd3 h6 9. N5f3 c5 10. Bf4 cxd4 11. O-O-O Qd5 12. Kb1 Nbd7 13. Bc4 Qe4 14. Qd2
+Be7 15. Ne2 e5 16. Rhe1 Qc6 17. Bd3 Qd5 18. Ng3 exf4 19. Nf5 Ng8 20. Qe2 Qc5
+21. N3xd4 Ndf6 22. Nxe7 Nxe7 23. Nb3 Qc7 24. Bb5+ Kf8 25. Qe5 1-0

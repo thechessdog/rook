@@ -1,0 +1,18 @@
+[Event "corr Netherlands"]
+[Site "corr Netherlands"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Hoekstra"]
+[Black "Kerssemakers"]
+[Result "0-1"]
+[ECO "A02"]
+[Opening "Bird"]
+[Variation "From gambit, Lasker variation"]
+[HashCode "ab927ff2"]
+[Epoch "Rook"]
+
+1. f4 e5 2. fxe5 d6 3. exd6 Bxd6 4. Nf3 g5 5. g3 g4 6. Nh4 Ne7 7. d4 Ng6 8.
+Nxg6 hxg6 9. Qd3 Nc6 10. c3 f5 11. Bg2 Bd7 12. Nd2 Qe7 13. Nc4 O-O-O 14.
+Bd2 Rde8 15. e3 Rxh2 16. Nxd6+ Qxd6 17. Kf2 Ne5 18. Qe2 Rxg2+ 19. Kxg2 Bc6+
+20. Kf2 Bxh1 21. Rxh1 Nf3 0-1
+

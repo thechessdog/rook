@@ -1,0 +1,19 @@
+[Event "Planernaya"]
+[Site "Planernaya"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Chekhov, Valery A"]
+[Black "Tseitlin, Mikhail S"]
+[Result "1-0"]
+[ECO "D24"]
+[Opening "QGA, Bogolyubov variation"]
+[HashCode "d40a24c9"]
+[Epoch "Rook"]
+[WhiteID "4100859"]
+[WhiteCountry "RUS"]
+[BlackCountry "BLR"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. Nc3 a6 5. e4 b5 6. e5 Nd5 7. a4 Nb4 8. Be2
+Bf5 9. O-O Nc2 10. Ra2 b4 11. Bxc4 bxc3 12. bxc3 e6 13. Bb3 Nb4 14. cxb4 Nc6
+15. d5 Nxb4 16. dxe6 Bxe6 17. Rd2 Qe7 18. Ba3 Bxb3 19. Qxb3 Qe6 20. Qxe6+ fxe6
+21. Ng5 c5 22. Nxe6 Rc8 23. f4 g6 24. Rfd1 Be7 25. Rd7 Nc2 26. Nc7+ 1-0

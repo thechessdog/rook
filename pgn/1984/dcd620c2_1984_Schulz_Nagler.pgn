@@ -1,0 +1,16 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Schulz, Klaus-Juergen"]
+[Black "Nagler"]
+[Result "1-0"]
+[ECO "C74"]
+[Opening "Ruy Lopez"]
+[Variation "modern Steinitz defence, siesta variation"]
+[HashCode "dcd620c2"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. c3 f5 6. exf5 Bxf5 7. d4 e4 8. Ng5
+h6 9. Qb3 hxg5 10. Qxb7 Bd7 11. Bxc6 Rb8 12. Bxd7+ Kxd7 13. Qxe4 Nh6 14. Nd2 g4
+15. Nc4 Qh4 16. Be3 Be7 17. d5 Rhe8 18. Qe6+ Kd8 19. Na5 Rb6 20. Nc6+ 1-0

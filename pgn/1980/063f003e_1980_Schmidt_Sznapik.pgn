@@ -1,0 +1,20 @@
+[Event "Poland ch"]
+[Site "Poland ch"]
+[Date "1980.01.01"]
+[Round "7"]
+[White "Schmidt, Wlodzimierz"]
+[Black "Sznapik, Aleksander"]
+[Result "1/2-1/2"]
+[ECO "A75"]
+[Opening "Benoni"]
+[Variation "classical with ...a6 and 10...Bg4"]
+[HashCode "063f003e"]
+[Epoch "Rook"]
+[WhiteID "1100041"]
+[WhiteCountry "POL"]
+[BlackID "1100050"]
+[BlackCountry "POL"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. Nf3 a6 8. Be2
+Bg7 9. O-O O-O 10. a4 Bg4 11. Nd2 Bxe2 12. Qxe2 Nbd7 13. Nc4 Nb6 14. Ne3 Re8
+15. f3 Nfd7 16. Kh1 Rb8 17. Bd2 1/2-1/2

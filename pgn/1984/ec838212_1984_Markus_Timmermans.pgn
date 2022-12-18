@@ -1,0 +1,19 @@
+[Event "corr NBC"]
+[Site "corr NBC"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Markus"]
+[Black "Timmermans"]
+[Result "1/2-1/2"]
+[ECO "B95"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6...e6"]
+[HashCode "ec838212"]
+[Epoch "Rook"]
+[WhiteID "7106122"]
+[WhiteCountry "INA"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. Qd3 Nbd7 8.
+O-O-O Be7 9. Be2 Nc5 10. Qf3 h6 11. Bh4 Qc7 12. Bxf6 Bxf6 13. h4 Bd7 14. g4
+O-O-O 15. Qe3 Kb8 16. g5 hxg5 17. hxg5 Rxh1 18. Rxh1 Be7 19. Rh7 Bf8 20. Bh5 g6
+21. Be2 1/2-1/2

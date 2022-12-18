@@ -1,0 +1,21 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Bullert"]
+[Black "Schild"]
+[Result "1/2-1/2"]
+[ECO "B25"]
+[Opening "Sicilian"]
+[Variation "closed, 6.f4"]
+[HashCode "6b12c45f"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. f4 e6 7. Nf3 Nge7 8.
+O-O O-O 9. Bd2 Rb8 10. Rb1 b5 11. a3 a5 12. a4 bxa4 13. Nxa4 Nd4 14. Kh1
+Bd7 15. Nc3 Nec6 16. g4 Nxf3 17. Bxf3 Nd4 18. Bg2 f5 19. exf5 exf5 20. g5
+Bc6 21. Bxc6 Nxc6 22. Nd5 Ne7 23. Qf3 Nxd5 24. Qxd5+ Kh8 25. Rfe1 Rxb2 26.
+Rxb2 Bxb2 27. c3 Qa8 28. Qxa8 Rxa8 29. Rb1 Ba3 30. Rb3 Bb4 31. cxb4 axb4
+32. Kg1 Ra1+ 33. Kf2 Rh1 34. d4 Rxh2+ 35. Ke1 Rh1+ 36. Ke2 Rh2+ 37. Kd1
+Rh1+ 38. Kc2 Ra1 39. Kd3 cxd4 40. Rxb4 Rh1 1/2-1/2
+

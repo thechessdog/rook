@@ -1,0 +1,15 @@
+[Event "Viborg"]
+[Site "Viborg"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Secher, Kim"]
+[Black "Smit, Carl"]
+[Result "0-1"]
+[ECO "A57"]
+[Opening "Benko gambit half accepted"]
+[HashCode "28ee6fa4"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. e3 g6 6. Nc3 d6 7. Nf3 Bg7 8. Nd2
+O-O 9. a4 e6 10. Nc4 exd5 11. Nxd5 axb5 12. Ncb6 Nxd5 13. Nxa8 Qa5+ 0-1
+

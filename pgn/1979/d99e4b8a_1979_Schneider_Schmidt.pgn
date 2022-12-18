@@ -1,0 +1,23 @@
+[Event "Kilonia"]
+[Site "Kilonia"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Schneider, Lars-Ake"]
+[Black "Schmidt, Wlodzimierz"]
+[Result "0-1"]
+[ECO "B46"]
+[Opening "Sicilian"]
+[Variation "Taimanov variation"]
+[HashCode "d99e4b8a"]
+[Epoch "Rook"]
+[WhiteCountry "SWE"]
+[BlackID "1100041"]
+[BlackCountry "POL"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 a6 6. Be2 d6 7. O-O Nf6 8. Be3
+Be7 9. f4 O-O 10. Qe1 Bd7 11. Rd1 Qc7 12. Bf3 Rac8 13. Qg3 Nxd4 14. Bxd4 Bc6
+15. e5 dxe5 16. fxe5 Nd7 17. Ne4 Bxe4 18. Bxe4 Bc5 19. Rfe1 Nxe5 20. Bxh7+ Kxh7
+21. Rxe5 Bxd4+ 22. Rxd4 Qxc2 23. h3 Qb1+ 24. Kh2 Rc1 25. Qg5 Kg8 26. Rg4 Rh1+
+27. Kg3 g6 28. Qh6 Rd8 29. Re3 Re1 30. Rf3 Rf1 31. Re3 Rd6 32. Rc4 Rc1 33. Rf4
+Rd3 34. Rff3 Rxe3 35. Qxe3 Qxb2 36. Qf4 f5 37. Qb8+ Kg7 38. Qd8 Qe5+ 39. Kh4
+Qf6+ 40. Qxf6+ Kxf6 41. Rb3 Rc7 42. Rb6 g5+ 43. Kg3 Ke5 0-1

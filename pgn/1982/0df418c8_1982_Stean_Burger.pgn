@@ -1,0 +1,19 @@
+[Event "Beer Sheva"]
+[Site "Beer Sheva"]
+[Date "1982.01.01"]
+[Round "6"]
+[White "Stean, Michael F"]
+[Black "Burger, Karl"]
+[Result "1-0"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "4.Nf3"]
+[HashCode "0df418c8"]
+[Epoch "Rook"]
+[WhiteID "400130"]
+[WhiteCountry "ENG"]
+[BlackCountry "USA"]
+
+1. c4 Nf6 2. Nc3 e6 3. Nf3 d5 4. d4 Be7 5. Bg5 h6 6. Bh4 O-O 7. Rc1 dxc4 8. e3
+c5 9. Bxc4 cxd4 10. Nxd4 a6 11. O-O e5 12. Nf3 Qxd1 13. Rfxd1 Nc6 14. h3 Rd8
+15. Bg3 Rxd1+ 16. Rxd1 Nd7 17. Bd5 Bf6 18. Ne4 Nb6 19. Bxc6 bxc6 20. Bxe5 1-0

@@ -1,0 +1,20 @@
+[Event "Manchester op"]
+[Site "Manchester"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Davies, Nigel R"]
+[Black "Berg, Klaus"]
+[Result "1-0"]
+[ECO "C10"]
+[Opening "French"]
+[Variation "Rubinstein variation"]
+[HashCode "bbc49ef9"]
+[Epoch "Rook"]
+[WhiteID "404420"]
+[WhiteCountry "WLS"]
+[BlackID "1400053"]
+[BlackCountry "DEN"]
+
+1. e4 e6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Bd3 b6 7. Nxf6+ Nxf6
+8. Ne5 a6 9. Bg5 Bb7 10. Qe2 Bxg2 11. Rg1 Bb7 12. O-O-O Be7 13. f4 g6 14. f5
+Nd5 15. Nxf7 Kxf7 16. Qxe6+ Ke8 17. fxg6 Qd6 18. g7 Qxe6 19. gxh8=Q+ 1-0

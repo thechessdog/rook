@@ -1,0 +1,18 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Bjorkquist, A."]
+[Black "Haensel"]
+[Result "0-1"]
+[ECO "C09"]
+[Opening "French"]
+[Variation "Tarrasch, open variation, main line"]
+[HashCode "27b65191"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. exd5 exd5 5. Ngf3 Nc6 6. Bb5 Bd6 7. O-O Ne7
+8. dxc5 Bxc5 9. Nb3 Bb6 10. Nbd4 Bg4 11. Be3 O-O 12. Qd3 Rc8 13. Nxc6 bxc6
+14. Ba4 Bxf3 15. Bxb6 Qxb6 16. Qxf3 Qxb2 17. Rfe1 Qd4 18. Bb3 Ng6 19. Rad1
+Rfe8 20. Rxe8+ Rxe8 21. c4 Nh4 0-1
+

@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Stader"]
+[Black "Gauba"]
+[Result "1-0"]
+[ECO "B17"]
+[Opening "Caro-Kann"]
+[Variation "Steinitz variation"]
+[HashCode "81bcba65"]
+[Epoch "Rook"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Bc4 Ngf6 6. Ng5 e6 7. Qe2 Nb6
+8. Bb3 h6 9. N5f3 a5 10. a3 a4 11. Ba2 c5 12. Bf4 Bd6 13. Be5 O-O 14. O-O-O
+Bxe5 15. dxe5 Nfd7 16. h4 Qe7 17. g4 Re8 18. Nh3 Nd5 19. c4 Nc7 20. Bb1 Nf8
+21. g5 h5 22. Nf4 g6 23. Nd2 Nh7 24. Nxh5 gxh5 25. Bxh7+ Kxh7 26. Qxh5+ Kg8
+27. Ne4 1-0
+

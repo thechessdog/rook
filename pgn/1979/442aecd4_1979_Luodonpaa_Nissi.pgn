@@ -1,0 +1,21 @@
+[Event "corr NS/I"]
+[Site "corr NS/I"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Luodonpaa, Martti"]
+[Black "Nissi, Jussi"]
+[Result "1-0"]
+[ECO "E54"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Gligoric system with 7...dc"]
+[HashCode "442aecd4"]
+[Epoch "Rook"]
+[WhiteID "502880"]
+[BlackID "513920"]
+[WhiteCountry "FIN"]
+[BlackCountry "FIN"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 c5 7. O-O dxc4 8. Bxc4
+Nc6 9. a3 Ba5 10. Qd3 a6 11. Rd1 b5 12. Ba2 Bb6 13. Qc2 cxd4 14. exd4 Bb7 15.
+d5 exd5 16. Bg5 Qd6 17. Bxf6 Qxf6 18. Nxd5 Qd8 19. Nxb6 Qxb6 20. Ng5 g6 21. Rd6
+Rad8 22. Rxg6+ 1-0

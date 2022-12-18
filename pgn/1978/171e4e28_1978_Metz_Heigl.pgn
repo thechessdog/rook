@@ -1,0 +1,20 @@
+[Event "corr DFSM"]
+[Site "corr DFSM"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Metz, Hartmut"]
+[Black "Heigl"]
+[Result "1-0"]
+[ECO "B63"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...Be7"]
+[HashCode "171e4e28"]
+[Epoch "Rook"]
+[WhiteID "4605950"]
+[WhiteCountry "GER"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd2 Be7 8.
+O-O-O Nxd4 9. Qxd4 O-O 10. e5 dxe5 11. Qxe5 Qe8 12. Bb5 Bd7 13. Ne4 Bxb5 14.
+Nxf6+ gxf6 15. Bxf6 Bxf6 16. Qxf6 e5 17. Rd6 Be2 18. Re1 Qb5 19. a4 Qc4 20.
+Qg5+ Kh8 21. b3 f6 22. bxc4 fxg5 23. Rxe2 Rf5 24. Rd7 b6 25. f3 a5 26. Rc7 Raf8
+27. c5 bxc5 28. Rxc5 e4 29. Rxf5 Rxf5 30. Rxe4 1-0

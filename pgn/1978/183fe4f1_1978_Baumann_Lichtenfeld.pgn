@@ -1,0 +1,20 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Baumann, Claude"]
+[Black "Lichtenfeld"]
+[Result "1-0"]
+[ECO "B18"]
+[Opening "Caro-Kann"]
+[Variation "classical variation"]
+[HashCode "183fe4f1"]
+[Epoch "Rook"]
+[WhiteID "1300997"]
+[WhiteCountry "SUI"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. Bc4 e6 7. N1e2 Nf6 8.
+Bg5 Nbd7 9. O-O h6 10. Bxf6 Qxf6 11. c3 Bd6 12. a4 O-O 13. Bd3 Bxd3 14. Qxd3
+Qe7 15. f4 Nf6 16. Ne4 Nxe4 17. Qxe4 Rfd8 18. Rf3 Qf6 19. Raf1 Qf5 20. Qe3 Qc2
+21. Ng3 Qxb2 22. f5 exf5 23. Nxf5 Re8 24. Nxh6+ gxh6 25. Qxh6 Re6 26. Rf6 Bf8
+27. Qg5+ 1-0

@@ -1,0 +1,22 @@
+[Event "Cienfuegos"]
+[Site "Cienfuegos"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Medina Garcia, Antonio Angel"]
+[Black "Garcia, Gildardo"]
+[Result "1-0"]
+[ECO "A77"]
+[Opening "Benoni"]
+[Variation "classical, 9...Re8, 10.Nd2"]
+[HashCode "ab14a601"]
+[Epoch "Rook"]
+[BlackID "4400020"]
+[BlackCountry "COL"]
+[WhiteCountry "EST"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. Nf3 Bg7 8. Be2
+O-O 9. O-O Re8 10. Nd2 a6 11. a4 Nbd7 12. f4 c4 13. Kh1 Nc5 14. e5 dxe5 15.
+fxe5 Rxe5 16. Nxc4 Rf5 17. Bf4 Nfe4 18. Nxe4 Nxe4 19. Qc2 Nf6 20. Ne3 Nxd5 21.
+Rad1 Qa5 22. Nxd5 Rxd5 23. Bc7 Rc5 24. Rd8+ Bf8 25. Rxf8+ Kxf8 26. Bd6+ Kg8 27.
+Qxc5 Qxa4 28. Bc4 Bf5 29. Qc7 Qe8 30. Qxb7 Rc8 31. b3 a5 32. Qa7 a4 33. Qd4
+axb3 34. Ba3 Qc6 35. Bb2 1-0

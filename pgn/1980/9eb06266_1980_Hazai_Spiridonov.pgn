@@ -1,0 +1,24 @@
+[Event "Skara etc"]
+[Site "Skara etc"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Hazai, Laszlo Dr."]
+[Black "Spiridonov, Nikola"]
+[Result "0-1"]
+[ECO "B10"]
+[Opening "Caro-Kann"]
+[Variation "closed (Breyer) variation"]
+[HashCode "9eb06266"]
+[Epoch "Rook"]
+[WhiteID "700177"]
+[WhiteCountry "HUN"]
+[BlackID "2900238"]
+[BlackCountry "FID"]
+
+1. e4 c6 2. d3 d5 3. Nd2 Qc7 4. Ngf3 Bg4 5. h3 Bxf3 6. Nxf3 Nd7 7. g3 e6 8. Bg2
+dxe4 9. dxe4 Bc5 10. Qe2 Ngf6 11. e5 Nd5 12. O-O O-O 13. Bd2 a5 14. Rae1 Rfd8
+15. h4 Qb6 16. Bc1 h6 17. a3 a4 18. h5 Qa6 19. Qe4 N7b6 20. Qg4 Kh8 21. Nh4 Qc4
+22. Be4 Nd7 23. Bxh6 gxh6 24. Ng6+ fxg6 25. Qxg6 Nf8 26. Qxh6+ Kg8 27. Qg5+ Kf7
+28. h6 Ke8 29. Bd3 Qd4 30. h7 Nxh7 31. Qg6+ Kd7 32. c3 Ne7 33. Qh5 Nf6 34. exf6
+Qd5 35. Qe2 Rh8 36. Be4 Qd6 37. Rd1 Nd5 38. Qf3 Rag8 39. Kg2 Kc7 40. f7 Nf4+
+41. Kg1 Rxg3+ 42. Qxg3 Qe5 0-1

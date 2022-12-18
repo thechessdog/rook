@@ -1,0 +1,17 @@
+[Event "corr Italy"]
+[Site "corr Italy"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Rosi"]
+[Black "Carrettoni"]
+[Result "1-0"]
+[ECO "C11"]
+[Opening "French"]
+[Variation "Steinitz variation"]
+[HashCode "88a10e3c"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. Nce2 c5 6. c3 Nc6 7. f4 f6 8.
+Nf3 Qb6 9. g3 cxd4 10. Nfxd4 Nxd4 11. Nxd4 fxe5 12. fxe5 Nxe5 13. Qh5+ Ng6
+14. Bd3 e5 15. Bxg6+ Qxg6 16. Qxe5+ Be7 17. O-O 1-0
+

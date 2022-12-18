@@ -1,0 +1,18 @@
+[Event "corr Scotland"]
+[Site "corr Scotland"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Mair, J."]
+[Black "Murphy, R."]
+[Result "1-0"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Adams attack"]
+[HashCode "7a3b27f3"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. h3 Nbd7 7. f4 e6 8.
+Bd3 b5 9. f5 e5 10. Nf3 Bb7 11. O-O Be7 12. Qe1 O-O 13. Nd1 Nc5 14. Nf2 Qb6
+15. Be3 Qc7 16. Bg5 Nh5 17. Ng4 Bxg5 18. Nxg5 h6 19. Nxh6+ gxh6 20. Qh4
+hxg5 21. Qxg5+ Ng7 22. f6 1-0
+

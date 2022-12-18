@@ -1,0 +1,24 @@
+[Event "Switzerland"]
+[Site "Switzerland"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Allegro, Valery"]
+[Black "Ochsner, Thomas"]
+[Result "0-1"]
+[ECO "E12"]
+[Opening "Queen's Indian"]
+[Variation "Miles variation"]
+[HashCode "1f62098c"]
+[Epoch "Rook"]
+[WhiteID "1300245"]
+[BlackID "1400711"]
+[WhiteCountry "SUI"]
+[BlackCountry "DEN"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. Bf4 Bb7 5. e3 Be7 6. h3 c5 7. dxc5 bxc5 8. Nc3
+O-O 9. Be2 Qb6 10. O-O Rd8 11. Qc2 Nc6 12. Rac1 d6 13. Rfd1 Rac8 14. Qb1 Rd7
+15. Rd2 Rcd8 16. Rcd1 d5 17. cxd5 exd5 18. Ng5 g6 19. b3 Qa5 20. Qc1 Bf8 21. h4
+h6 22. Nf3 d4 23. Na4 Ne4 24. Rb2 d3 25. Bf1 Bg7 26. Rb1 Nb4 27. Ne5 Rd5 28.
+Nc4 Qb5 29. Qa3 g5 30. hxg5 hxg5 31. Bc7 R8d7 32. Bh2 g4 33. Bf4 Rh5 34. Nd2
+Qc6 35. Nxe4 Qxe4 36. Rbc1 Qh7 37. f3 gxf3 38. g3 Rh1+ 39. Kf2 Qh2+ 40. Ke1
+Qe2# 0-1

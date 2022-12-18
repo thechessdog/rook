@@ -1,0 +1,20 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Bonetta"]
+[Black "Camerlo"]
+[Result "0-1"]
+[ECO "B07"]
+[Opening "Pirc"]
+[Variation "Byrne variation"]
+[HashCode "409840a1"]
+[Epoch "Rook"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Bg5 Bg7 5. f4 h6 6. Bh4 c5 7. e5 Nh5 8. Nd5
+cxd4 9. Bb5+ Bd7 10. Bxe7 Qa5+ 11. b4 Qxb5 12. Nc7+ Kxe7 13. Nxb5 Bxb5 14.
+Qxd4 Rd8 15. Rd1 Na6 16. Qe3 dxe5 17. Rxd8 Rxd8 18. fxe5 Rd5 19. Nf3 g5 20.
+Qe4 Bc6 21. O-O Rd1 22. Qg4 Rxf1+ 23. Kxf1 Nf4 24. h4 Bb5+ 25. Kf2 Bd7 26.
+Qg3 Nh5 27. Qh2 g4 28. Qg1 gxf3 29. Kxf3 Bxe5 30. Qxa7 Bc6+ 31. Kf2 Ng3 32.
+b5 Bxb5 33. Qxb7+ Nc7 0-1
+

@@ -1,0 +1,16 @@
+[Event "Netherlands"]
+[Site "Netherlands"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Dongen, V."]
+[Black "Scheeren, Peter"]
+[Result "1-0"]
+[ECO "B56"]
+[Opening "Sicilian"]
+[HashCode "eba0ef13"]
+[Epoch "Rook"]
+[BlackID "1000136"]
+[BlackCountry "NED"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. a4 e5 7. Ndb5 a6 8. Na3
+Be7 9. Bg5 O-O 10. Nc4 Nxe4 11. Bxe7 Nxc3 12. Bxd8 Nxd1 13. Bc7 d5 14. Nb6 1-0

@@ -1,0 +1,16 @@
+[Event "FRG Hochschul-ch"]
+[Site "FRG Tch"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Kuhlmann"]
+[Black "Emschermann"]
+[Result "0-1"]
+[ECO "A15"]
+[Opening "English, 1...Nf6 (Anglo-Indian defense)"]
+[HashCode "49a62ce0"]
+[Epoch "Rook"]
+
+1. c4 Nf6 2. g3 g6 3. Bg2 Bg7 4. Nc3 O-O 5. d3 d6 6. Nf3 e5 7. O-O Nc6 8. Rb1
+Nh5 9. b4 f5 10. Bg5 Qe8 11. Nd5 Rf7 12. Qd2 f4 13. b5 Nd8 14. gxf4 c6 15. bxc6
+bxc6 16. Bxd8 Qxd8 17. Nb4 Nxf4 18. Nxc6 Qd7 19. Na5 Nxg2 20. Kxg2 Qh3+ 21. Kh1
+Rxf3 22. exf3 Bh6 0-1

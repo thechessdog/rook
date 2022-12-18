@@ -1,0 +1,19 @@
+[Event "Beloeil"]
+[Site "Beloeil"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Hebert, Jean"]
+[Black "Parent, Francois"]
+[Result "1-0"]
+[ECO "D51"]
+[Opening "QGD"]
+[Variation "4.Bg5 Nbd7"]
+[HashCode "15f12e90"]
+[Epoch "Rook"]
+[WhiteID "2600048"]
+[WhiteCountry "CAN"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Bg5 Nbd7 5. cxd5 exd5 6. e3 c6 7. Bd3 Be7 8.
+Qc2 O-O 9. Nf3 Re8 10. O-O-O h6 11. Bf4 Qa5 12. g4 b5 13. g5 hxg5 14. Nxg5 b4
+15. Na4 Nb6 16. b3 Nxa4 17. bxa4 Bd7 18. Rhg1 c5 19. Bh7+ Kf8 20. Nxf7 cxd4 21.
+Qg6 Rec8+ 22. Kb1 Ne8 23. Ne5 1-0

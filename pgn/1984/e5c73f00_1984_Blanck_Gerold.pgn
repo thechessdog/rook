@@ -1,0 +1,20 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Blanck"]
+[Black "Gerold"]
+[Result "1-0"]
+[ECO "B97"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Poisoned pawn variation"]
+[HashCode "e5c73f00"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qb6 8.
+Qd2 Qxb2 9. Rb1 Qa3 10. e5 dxe5 11. fxe5 Nfd7 12. Bc4 Bb4 13. Rb3 Qa5 14.
+Nxe6 fxe6 15. Bxe6 Qxe5+ 16. Kd1 Qxe6 17. Re1 Ne5 18. Qd8+ Kf7 19. Rf1+ Kg6
+20. Qxh8 Qg4+ 21. Ke1 Qe4+ 22. Kd1 Qd4+ 23. Kc1 Bf5 24. Bd2 Nf7 25. Qe8
+Bxc3 26. Rxc3 h5 27. Rxf5 Qg1+ 28. Be1 Kxf5 29. Qxf7+ Ke5 30. Qe7+ Kf5 31.
+Rf3+ Kg6 32. Rg3+ Kf5 33. Rg5+ 1-0
+

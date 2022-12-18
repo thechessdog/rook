@@ -1,0 +1,18 @@
+[Event "corr DDR/M"]
+[Site "corr DDR/M"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Wiezer"]
+[Black "Geyer"]
+[Result "1-0"]
+[ECO "C64"]
+[Opening "Ruy Lopez"]
+[Variation "classical defence, Benelux variation  "]
+[HashCode "1db7cd55"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. c3 Nf6 5. O-O O-O 6. d4 Bb6 7. Bg5 h6 8.
+Bh4 g5 9. Nxg5 hxg5 10. Bxg5 Qe7 11. Qf3 Kg7 12. d5 Nd8 13. Qg3 Rh8 14.
+Bxf6+ Kxf6 15. h4 Ne6 16. Nd2 d6 17. Nc4 Bd7 18. Nxb6 axb6 19. f4 Qd8 20.
+fxe5+ Ke7 21. Rxf7+ Kxf7 22. dxe6+ 1-0
+

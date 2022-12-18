@@ -1,0 +1,22 @@
+[Event "BL-S 7778"]
+[Site "BL-S 7778"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Isert"]
+[Black "Hommel, Gerhard, Prof. Dr."]
+[Result "0-1"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...e6"]
+[HashCode "7be6ad09"]
+[Epoch "Rook"]
+[BlackID "4603435"]
+[BlackCountry "GER"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 e6 6. Nf3 Be7 7. c5 O-O 8. a3
+b6 9. b4 Ne4 10. Qc2 Nxc3 11. Qxc3 a5 12. Bd3 axb4 13. axb4 Rxa1 14. Qxa1 Nc6
+15. Qa4 Qc7 16. b5 e5 17. cxb6 Qxb6 18. dxe5 Nb4 19. Be2 d4 20. Bd2 Qg6 21. O-O
+d3 22. Bd1 Nd5 23. Nh4 Qb6 24. Bf3 Be6 25. g3 Rb8 26. Rb1 Bc5 27. Be1 g6 28.
+Ng2 Ne7 29. Nf4 Bf5 30. Be4 d2 31. Bxd2 Bxf2+ 32. Kh1 Bd4 33. Bxf5 Nxf5 34. e6
+Qb7+ 35. Ng2 fxe6 36. Bf4 e5 37. Qc4+ Kg7 38. Bg5 Rc8 39. Qe6 e4 40. Rd1 e3 41.
+Rxd4 Rc1+ 0-1

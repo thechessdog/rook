@@ -1,0 +1,19 @@
+[Event "corr France"]
+[Site "corr France"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Benhamouda"]
+[Black "Litique"]
+[Result "0-1"]
+[ECO "E24"]
+[Opening "Nimzo-Indian"]
+[Variation "Saemisch variation"]
+[HashCode "47eef1c3"]
+[Epoch "Rook"]
+
+1. d4 e6 2. c4 Nf6 3. Nc3 Bb4 4. a3 Bxc3+ 5. bxc3 c5 6. Qd2 Qa5 7. Bb2 O-O
+8. Nf3 Ne4 9. Qe3 d5 10. cxd5 exd5 11. dxc5 Nc6 12. g3 Nxc5 13. Nd2 Bg4 14.
+Qg5 Nd3+ 15. exd3 Rfe8+ 16. Be2 Bxe2 17. Ne4 Bxd3 18. O-O-O Bxe4 19. Rhg1
+Qa4 20. Rd2 Na5 21. g4 Nb3+ 22. Kd1 Bf3+ 23. Kc2 Nxd2+ 24. Kxd2 Re2+ 25.
+Kd3 Qc4# 0-1
+

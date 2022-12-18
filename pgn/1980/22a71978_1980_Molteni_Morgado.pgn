@@ -1,0 +1,15 @@
+[Event "corr Rivas mem"]
+[Site "corr Rivas mem"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Molteni, Oscar"]
+[Black "Morgado, Juan Sebastian"]
+[Result "1/2-1/2"]
+[ECO "B43"]
+[Opening "Sicilian"]
+[Variation "Kan, 5.Nc3"]
+[HashCode "22a71978"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 Qc7 6. Be2 b5 7. Bf3 Bb7 8. O-O
+d6 9. a4 b4 10. Na2 Nf6 11. Re1 Be7 1/2-1/2

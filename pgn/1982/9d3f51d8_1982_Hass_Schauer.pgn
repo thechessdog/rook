@@ -1,0 +1,17 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Hass"]
+[Black "Schauer"]
+[Result "1-0"]
+[ECO "C17"]
+[Opening "French"]
+[Variation "Winawer, advance, 5.a3"]
+[HashCode "9d3f51d8"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 cxd4 6. axb4 dxc3 7. Qg4 cxb2
+8. Bxb2 Kf8 9. Nf3 Ne7 10. Bd3 Qc7 11. O-O Ng6 12. Ra3 Nd7 13. Rc3 Qd8 14.
+Bxg6 hxg6 15. Ng5 b5 16. Nxe6+ fxe6 17. Rf3+ 1-0
+

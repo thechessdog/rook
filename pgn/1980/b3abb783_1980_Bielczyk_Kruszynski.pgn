@@ -1,0 +1,20 @@
+[Event "Poland"]
+[Site "Poland"]
+[Date "1980.01.01"]
+[Round "12"]
+[White "Bielczyk, Jacek"]
+[Black "Kruszynski, Wlodzimierz"]
+[Result "1/2-1/2"]
+[ECO "B46"]
+[Opening "Sicilian"]
+[Variation "Taimanov variation"]
+[HashCode "b3abb783"]
+[Epoch "Rook"]
+[WhiteID "1100530"]
+[WhiteCountry "POL"]
+[BlackID "1100670"]
+[BlackCountry "POL"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 a6 6. g3 d6 7. Bg2 Bd7 8. O-O
+Nf6 9. a4 Be7 10. Be3 Na5 11. Qe2 Qc7 12. h3 O-O 13. Rfd1 Rfc8 14. Kh2 Rab8 15.
+Bc1 Nc6 16. Be3 Na5 17. Bc1 Nc6 18. Be3 1/2-1/2

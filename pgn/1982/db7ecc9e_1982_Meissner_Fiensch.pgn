@@ -1,0 +1,23 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Meissner, P."]
+[Black "Fiensch, G."]
+[Result "0-1"]
+[ECO "A34"]
+[Opening "English"]
+[Variation "symmetrical, three knights system"]
+[HashCode "db7ecc9e"]
+[Epoch "Rook"]
+
+1. c4 Nf6 2. Nf3 c5 3. Nc3 d5 4. cxd5 Nxd5 5. e3 Nc6 6. d4 cxd4 7. Nxd4
+Nxc3 8. bxc3 e5 9. Nb5 Qxd1+ 10. Kxd1 Bg4+ 11. f3 O-O-O+ 12. Kc2 Be6 13.
+Ba3 Rd7 14. Be2 a6 15. Bxf8 Rxf8 16. Na3 Rfd8 17. Rhd1 b5 18. Rxd7 Rxd7 19.
+Nb1 Na5 20. Nd2 Kb7 21. Nb3 Kb6 22. Rd1 Rxd1 23. Bxd1 Nc4 24. Kd3 a5 25. e4
+a4 26. Nc1 Ka5 27. g3 Nb2+ 28. Kc2 Nxd1 29. Kxd1 b4 30. Kc2 Bc4 31. Kb2 Bf1
+32. f4 f6 33. Kc2 Kb5 34. h4 Kc4 35. fxe5 fxe5 36. cxb4 Kxb4 37. Kd2 Kc4
+38. a3 Kd4 39. Na2 Kxe4 40. Nc3+ Kf3 41. Nxa4 Kxg3 42. h5 Kg4 43. Nc5 Kxh5
+44. Nd7 Kg4 45. Nxe5+ Kf4 46. Nf7 h5 47. Ke1 Bd3 48. Kf2 h4 49. Nd8 Bc4 50.
+Nc6 g5 0-1
+

@@ -1,0 +1,19 @@
+[Event "Kamen Piskov mem 2"]
+[Site "Ruse"]
+[Date "1978.??.??"]
+[Round "8"]
+[White "Gunev, Zlatan"]
+[Black "Ilievski, Dimitar"]
+[Result "1/2-1/2"]
+[ECO "B15"]
+[Opening "Caro-Kann"]
+[Variation "Tartakower (Nimzovich) variation"]
+[HashCode "e03a4df0"]
+[Epoch "Rook"]
+[WhiteID "2902010"]
+[BlackID "15000346"]
+[WhiteCountry "FID"]
+[BlackCountry "MKD"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ exf6 6. Nf3 Bd6 7. Be3 O-O
+8. Bd3 Re8 9. O-O Nd7 10. Qd2 Nf8 1/2-1/2

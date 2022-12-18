@@ -1,0 +1,20 @@
+[Event "Tbilisi"]
+[Site "Tbilisi"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Sturua, Zurab"]
+[Black "Gavrikov, Viktor"]
+[Result "1/2-1/2"]
+[ECO "D94"]
+[Opening "Gruenfeld"]
+[Variation "5.e3"]
+[HashCode "75b2c9a8"]
+[Epoch "Rook"]
+[WhiteID "13600095"]
+[BlackID "24131849"]
+[WhiteCountry "GEO"]
+[BlackCountry "RUS"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. Nc3 d5 5. e3 O-O 6. Be2 c5 7. O-O cxd4 8. exd4
+Nc6 9. h3 Be6 10. c5 Ne4 11. Bf4 Nxc3 12. bxc3 b6 13. Qa4 Bd7 14. Bb5 Qc8 15.
+Qa3 Na5 16. Be2 Re8 17. Rfe1 f6 18. Bf1 Bf8 19. Rab1 Nc4 1/2-1/2

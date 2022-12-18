@@ -1,0 +1,25 @@
+[Event "Randers"]
+[Site "Randers"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Nielsen, Erling"]
+[Black "Andersen, Richard"]
+[Result "1-0"]
+[ECO "A05"]
+[Opening "Reti opening"]
+[HashCode "7e829d02"]
+[Epoch "Rook"]
+[WhiteID "1420003"]
+[BlackID "1522558"]
+[WhiteCountry "DEN"]
+[BlackCountry "NOR"]
+
+1. Nf3 Nf6 2. g3 b6 3. Bg2 Bb7 4. b3 g6 5. Bb2 Bg7 6. O-O O-O 7. c4 c5 8. Nc3
+d6 9. Qc2 Nc6 10. Rad1 a6 11. e3 b5 12. d4 Qb6 13. d5 Nb8 14. Nd2 Nbd7 15. f4
+e6 16. dxe6 fxe6 17. Bxb7 Qxb7 18. Nce4 Qc6 19. Nxf6+ Bxf6 20. Ne4 Be7 21. Nxd6
+Bxd6 22. Qd3 Bxf4 23. exf4 Rf7 24. Rfe1 Re8 25. Qd6 Qf3 26. Rd3 Qg4 27. Qxa6
+Qf5 28. Rde3 Qc2 29. R3e2 Qd3 30. cxb5 c4 31. bxc4 Qxc4 32. Qc6 Qxa2 33. Bd4
+Qa4 34. Bf2 Rb8 35. Rxe6 Qxb5 36. Re8+ Nf8 37. Qxb5 Rxb5 38. Bd4 Rd5 39. Be5
+Rfd7 40. Kg2 Kf7 41. Ra8 Rd8 42. Ra7+ R8d7 43. Ra6 Rd1 44. Re4 R7d2+ 45. Kh3
+Rh1 46. Rf6+ Kg8 47. Rc4 Rhxh2+ 48. Kg4 h5+ 49. Kg5 Rd8 50. Rc7 Nh7+ 51. Kxg6
+Nxf6 52. Bxf6 Rf8 53. Rg7+ Kh8 54. Rh7+ Kg8 55. Rh8# 1-0

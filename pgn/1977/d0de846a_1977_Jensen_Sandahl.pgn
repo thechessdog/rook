@@ -1,0 +1,22 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Jensen, Bjarne"]
+[Black "Sandahl, Jan"]
+[Result "1-0"]
+[ECO "B92"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Opovcensky variation"]
+[HashCode "d0de846a"]
+[Epoch "Rook"]
+[WhiteID "1418785"]
+[BlackID "1441574"]
+[WhiteCountry "DEN"]
+[BlackCountry "DEN"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8. O-O
+Be6 9. f4 Qc7 10. Nd5 Bxd5 11. exd5 Nbd7 12. Be3 Rc8 13. c4 O-O 14. Qe1 Ne4 15.
+Bd3 f5 16. g4 Nef6 17. Bxf5 g6 18. Be6+ Kh8 19. fxe5 dxe5 20. Bh6 Rfd8 21. g5
+Ng8 22. Rf7 Bc5+ 23. Nxc5 Qxc5+ 24. Kh1 Nxh6 25. gxh6 Qxc4 26. Rxd7 Rxd7 27.
+Qxe5+ Rg7 28. Qxg7# 1-0

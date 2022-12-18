@@ -1,0 +1,22 @@
+[Event "corr DDR/FS"]
+[Site "corr DDR/FS"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Lauckner"]
+[Black "Thiel"]
+[Result "1-0"]
+[ECO "B01"]
+[Opening "Scandinavian"]
+[Variation "Marshall variation"]
+[HashCode "823fd92a"]
+[Epoch "Rook"]
+
+1. e4 d5 2. exd5 Nf6 3. d4 Nxd5 4. Nf3 Bg4 5. h3 Bf5 6. Bd3 Qc8 7. a3 g6 8.
+c4 Nb6 9. Nc3 Bg7 10. Bf4 Bxd3 11. Qxd3 Qe6+ 12. Ne5 Bxe5 13. dxe5 Qxc4 14.
+Qxc4 Nxc4 15. b3 Nb6 16. Bh6 Nc6 17. Rd1 Rd8 18. O-O Rd7 19. Ne4 Rg8 20.
+Nc5 Rxd1 21. Rxd1 Nxe5 22. Nxb7 f6 23. Bf4 Nbd7 24. Be3 a6 25. Rc1 Nb6 26.
+Nc5 Nd5 27. Nxa6 Kd7 28. Bd4 Nc6 29. Bb2 e5 30. Nc5+ Kc8 31. Rc4 Re8 32. b4
+f5 33. Kf1 h5 34. b5 Nb6 35. Rc1 Na5 36. a4 Nac4 37. Bc3 Nd5 38. Be1 Na3
+39. Na6 Re7 40. Nb4 Nb6 41. Nc6 Re6 42. Bb4 Nbc4 43. Rc3 Nd2+ 44. Ke2 Nac4
+45. Rc2 1-0
+

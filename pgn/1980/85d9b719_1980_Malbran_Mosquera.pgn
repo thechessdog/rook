@@ -1,0 +1,23 @@
+[Event "Buenos Aires"]
+[Site "Buenos Aires"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Malbran, G."]
+[Black "Mosquera"]
+[Result "1/2-1/2"]
+[ECO "B52"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky attack, Bronstein gambit"]
+[HashCode "85d9b719"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Qxd7 5. O-O Nc6 6. c3 Nf6 7. d4
+Nxe4 8. d5 Nd8 9. Re1 Nf6 10. Bg5 h6 11. Bxf6 gxf6 12. Nh4 Rg8 13. Qf3 Qg4
+14. Qxg4 Rxg4 15. Nf5 Kd7 16. Ne3 Rg6 17. f4 e6 18. f5 Rg5 19. Rf1 exd5 20.
+Nxd5 Be7 21. Nd2 Nc6 22. Ne4 Rg7 23. Rad1 Ne5 24. Nexf6+ Bxf6 25. Nxf6+ Kc6
+26. Rde1 b5 27. b3 a5 28. Re4 b4 29. c4 a4 30. Re3 axb3 31. axb3 Ra2 32. g3
+Ra3 33. Rf4 Rg5 34. h4 Nxc4 35. hxg5 Nxe3 36. gxh6 Ra8 37. h7 Rh8 38. Re4
+Nxf5 39. Re8 Rxh7 40. Nxh7 Nxg3 41. Nf6 Nf5 42. Ne4 Kd5 43. Nd2 Kd4 44. Kf2
+Kc3 45. Ke1 Kc2 46. Re4 Nd4 47. Re7 Nxb3 48. Nc4 Nd4 49. Nxd6 b3 50. Nc4 b2
+51. Nxb2 Kxb2 52. Rxf7 1/2-1/2
+

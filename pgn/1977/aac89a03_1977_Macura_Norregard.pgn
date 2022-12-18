@@ -1,0 +1,18 @@
+[Event "corr EUR/M"]
+[Site "corr EUR/M"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Macura, M."]
+[Black "Norregard, O."]
+[Result "0-1"]
+[ECO "B25"]
+[Opening "Sicilian"]
+[Variation "closed"]
+[HashCode "aac89a03"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nc3 d6 3. g3 g6 4. Bg2 Bg7 5. d3 Nc6 6. Nge2 Rb8 7. Be3 b5 8.
+Qd2 b4 9. Nd1 Nf6 10. Bh6 O-O 11. f3 Re8 12. h4 Bh8 13. h5 e5 14. g4 d5 15.
+exd5 Nxd5 16. Nf2 Nf4 17. Bxf4 exf4 18. hxg6 fxg6 19. Qxf4 Nd4 20. Ne4
+Nxc2+ 0-1
+

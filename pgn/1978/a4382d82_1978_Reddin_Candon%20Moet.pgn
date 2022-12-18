@@ -1,0 +1,17 @@
+[Event "Lloyds Bank op"]
+[Site "Londen open"]
+[Date "1978.08.01"]
+[Round "1"]
+[White "Reddin, R."]
+[Black "Candon Moet, J."]
+[Result "1-0"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...g6"]
+[HashCode "a4382d82"]
+[Epoch "Rook"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 g6 6. Nf3 Bg7 7. Bg5 e6 8. cxd5
+exd5 9. Bb5+ Nc6 10. Qa4 Qd6 11. Ne5 Bd7 12. Bf4 Qe6 13. O-O O-O 14. Rae1 Nxe5
+15. dxe5 Bxb5 16. Qxb5 Rfe8 17. exf6 Qxe1 18. fxg7 d4 19. Nd5 Re2 20. Bh6 Re6
+21. Nf6+ 1-0

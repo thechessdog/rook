@@ -1,0 +1,21 @@
+[Event "St Maxime"]
+[Site "St Maxime"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Ross"]
+[Black "Arlandi"]
+[Result "0-1"]
+[ECO "B25"]
+[Opening "Sicilian"]
+[Variation "closed, 6.f4"]
+[HashCode "be4cb506"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. f4 e6 7. Nf3 Nge7 8.
+O-O O-O 9. Be3 Nd4 10. Qd2 Bd7 11. Qf2 Nxf3+ 12. Bxf3 Bc6 13. d4 b6 14.
+Rad1 Qc7 15. Qg2 f5 16. Bf2 Rad8 17. Rfe1 Rfe8 18. e5 cxd4 19. Bxc6 Qxc6
+20. Bxd4 Qxg2+ 21. Kxg2 Nc6 22. Nb5 Nxd4 23. Rxd4 dxe5 24. fxe5 Rxd4 25.
+Nxd4 Kf7 26. Nf3 Rd8 27. Kf2 h6 28. h4 Rd5 29. Re3 Rc5 30. c3 Ke7 31. Ke2
+g5 32. hxg5 hxg5 33. b4 Rd5 34. Nd4 Kd7 35. g4 Rxe5 36. Rxe5 Bxe5 37. gxf5
+Bxd4 38. fxe6+ Kxe6 39. cxd4 Kd5 0-1
+

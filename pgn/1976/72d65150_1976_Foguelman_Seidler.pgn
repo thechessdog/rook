@@ -1,0 +1,25 @@
+[Event "Buenos Aires ch-ARG"]
+[Site "Buenos Aires ch-ARG"]
+[Date "1976.01.01"]
+[Round "2"]
+[White "Foguelman, Alberto"]
+[Black "Seidler, A."]
+[Result "0-1"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Nimzovich (knight's tour) variation"]
+[HashCode "72d65150"]
+[Epoch "Rook"]
+[WhiteID "101435"]
+[WhiteCountry "ARG"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. Nd2 Nbd7 8. Nc4
+Nb6 9. e4 Bg7 10. Bf4 Nxc4 11. Bxc4 O-O 12. O-O Re8 13. Bd3 a6 14. a4 c4 15.
+Bc2 Rb8 16. a5 b5 17. axb6 Qxb6 18. Be3 Qd8 19. Ra2 Ng4 20. Bd4 Qh4 21. h3 Ne5
+22. f4 Bg4 23. hxg4 Nxg4 24. Rf3 Qh2+ 25. Kf1 Qh1+ 26. Bg1 Nh2+ 27. Kf2 Nxf3
+28. gxf3 Qh4+ 29. Ke3 Bh6 30. Ne2 f5 31. Bf2 Qh3 32. Bg3 fxe4 33. fxe4 Qg2 34.
+Qe1 Rb3+ 35. Bxb3 Rxe4+ 36. Kd2 cxb3 37. Ra3 Rd4+ 38. Kc3 Re4 39. Kd2 g5 40.
+Qf2 gxf4 41. Kd1 f3 42. Qxg2 fxg2 43. Bh2 Rh4 44. Bg1 Rh3 45. Nd4 Rh1 46. Ne2
+Be3 47. Rxb3 Bxg1 48. Rg3+ Kf7 49. Rxg2 Bc5+ 50. Kc2 h5 51. Nf4 h4 52. Ne6 Rg1
+53. Rh2 Rg4 54. Kd3 Kf6 55. Ke2 Ke5 56. Nc7 a5 57. b3 Bb6 58. Ne8 Bd8 59. Kd2
+Rg8 60. Kc3 Kxd5 61. Rd2+ Ke6 62. Nxd6 Be7 0-1

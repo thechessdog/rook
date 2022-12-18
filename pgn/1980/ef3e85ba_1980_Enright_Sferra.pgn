@@ -1,0 +1,17 @@
+[Event "Sunnyvale"]
+[Site "Sunnyvale"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Enright, P."]
+[Black "Sferra, R."]
+[Result "1-0"]
+[ECO "A04"]
+[Opening "Reti opening"]
+[HashCode "ef3e85ba"]
+[Epoch "Rook"]
+
+1. Nf3 b6 2. e4 Bb7 3. Nc3 e6 4. d4 Bb4 5. Bd3 Nf6 6. Qe2 d5 7. exd5 Nxd5
+8. Bd2 Nxc3 9. bxc3 Be7 10. O-O O-O 11. Rad1 Nd7 12. Rfe1 c5 13. Ne5 Nf6
+14. Qe3 cxd4 15. Qh3 Rc8 16. cxd4 a6 17. Bg5 h6 18. Bxh6 gxh6 19. Qxh6 Qd5
+20. f3 Qxd4+ 21. Kh1 Qa4 22. Ng4 1-0
+

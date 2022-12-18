@@ -1,0 +1,17 @@
+[Event "corr ch-CSSR"]
+[Site "corr ch-CSSR"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Cech"]
+[Black "Filipik"]
+[Result "1-0"]
+[ECO "A18"]
+[Opening "English"]
+[Variation "Mikenas-Carls variation"]
+[HashCode "4a461dc2"]
+[Epoch "Rook"]
+
+1. c4 Nf6 2. Nc3 e6 3. e4 d5 4. cxd5 exd5 5. e5 Ne4 6. d4 c6 7. Bd3 Bb4 8.
+Ne2 Bf5 9. O-O Nd7 10. Bxe4 Bxe4 11. Nxe4 dxe4 12. Ng3 g6 13. Qg4 O-O 14.
+Bh6 1-0
+

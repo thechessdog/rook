@@ -1,0 +1,26 @@
+[Event "corr JSM/M"]
+[Site "corr JSM/M"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Raty, Sakari"]
+[Black "Ekblom, Per"]
+[Result "1-0"]
+[ECO "B13"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik, normal variation"]
+[HashCode "fb77f082"]
+[Epoch "Rook"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 Nc6 6. Bg5 e6 7. Nf3 Be7 8.
+c5 O-O 9. Rc1 Ne4 10. Bxe7 Qxe7 11. Be2 Nxc3 12. Rxc3 Bd7 13. O-O b6 14.
+Bb5 bxc5 15. Rxc5 Rac8 16. Bxc6 Rxc6 17. b4 Rb6 18. Qd2 Bb5 19. Rfc1 Qb7
+20. Rc7 Qa6 21. Ne5 Rb7 22. Rxb7 Qxb7 23. Qc3 f6 24. Nf3 Bd7 25. Qd2 Rc8
+26. Rc3 Kf7 27. a3 g6 28. Qc1 Rxc3 29. Qxc3 Qc6 30. Qxc6 Bxc6 31. Kf1 Bb5+
+32. Ke1 Ke7 33. Kd2 Kd6 34. Kc3 e5 35. Nd2 e4 36. Nb3 f5 37. Nc5 f4 38. a4
+Bf1 39. g3 g5 40. gxf4 gxf4 41. Kd2 f3 42. Ke3 Bc4 43. Kf4 Kc6 44. h4 Be2
+45. Ne6 Bd1 46. Ng5 h6 47. Nf7 h5 48. Nd8+ Kd7 49. Nb7 Be2 50. Nc5+ Ke7 51.
+b5 Kd6 52. Ke3 Ke7 53. Na6 Kd6 54. Nb4 Bc4 55. Kd2 Kc7 56. a5 Kb7 57. Ke3
+Kc7 58. Kf4 Kb7 59. Kg3 Kc7 60. b6+ axb6 61. axb6+ Kxb6 62. Nc2 Kb5 63. Kf4
+Bb3 64. Ne3 Kb4 65. Nf5 e3 66. Kxe3 Bc2 67. Ng7 Bg6 68. Kxf3 Kb5 69. Kf4
+Kc4 70. Ke5 1-0
+

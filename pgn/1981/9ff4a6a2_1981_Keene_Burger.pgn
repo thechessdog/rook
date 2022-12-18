@@ -1,0 +1,20 @@
+[Event "Ed.Lasker mem"]
+[Site "New York"]
+[Date "1981.01.01"]
+[Round "6"]
+[White "Keene, Raymond D"]
+[Black "Burger, Karl"]
+[Result "1-0"]
+[ECO "A46"]
+[Opening "Queen's pawn"]
+[Variation "Torre attack"]
+[HashCode "9ff4a6a2"]
+[Epoch "Rook"]
+[WhiteID "400211"]
+[WhiteCountry "ENG"]
+[BlackCountry "USA"]
+
+1. d4 Nf6 2. Nf3 e6 3. Bg5 h6 4. Bh4 b6 5. e3 Bb7 6. c4 Bb4+ 7. Nc3 g5 8. Bg3
+Ne4 9. Qc2 f5 10. Bd3 Bxc3+ 11. bxc3 Nxg3 12. hxg3 Nc6 13. d5 Na5 14. g4 fxg4
+15. Bg6+ Ke7 16. Ne5 Qg8 17. Bh5 exd5 18. Ng6+ Kd6 19. Nxh8 Qxh8 20. cxd5 Bxd5
+21. Rd1 Kc5 22. Bxg4 Bxg2 23. Bxd7 Nc4 24. Qb3 1-0

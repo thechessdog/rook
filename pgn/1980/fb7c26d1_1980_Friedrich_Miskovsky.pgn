@@ -1,0 +1,19 @@
+[Event "corr CSSR"]
+[Site "corr CSSR"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Friedrich"]
+[Black "Miskovsky"]
+[Result "0-1"]
+[ECO "A23"]
+[Opening "English"]
+[Variation "Bremen system, Keres variation"]
+[HashCode "fb7c26d1"]
+[Epoch "Rook"]
+
+1. c4 e5 2. Nc3 Nf6 3. g3 c6 4. Nf3 e4 5. Nd4 Qb6 6. e3 d5 7. Qc2 Bd7 8. a3
+c5 9. Nde2 dxc4 10. Nxe4 Nxe4 11. Qxe4+ Be7 12. Qxc4 Bc6 13. Rg1 Nd7 14. f4
+Qc7 15. Nc3 a6 16. Nd5 Bxd5 17. Qxd5 O-O 18. d3 Rad8 19. Bd2 Bf6 20. Qb3 b5
+21. Rc1 Rfe8 22. Qc2 Qb6 23. Kd1 c4 24. Rg2 Nc5 25. dxc4 Rxe3 26. cxb5 Nb3
+27. Qc6 Qd4 28. Rc2 axb5 29. Qxb5 Qe4 30. Re2 Nxd2 31. Qc6 Nxf1+ 0-1
+

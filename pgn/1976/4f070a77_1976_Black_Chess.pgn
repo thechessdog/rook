@@ -1,0 +1,22 @@
+[Event "ACM Houston"]
+[Site "ACM Houston"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Black Knight"]
+[Black "Chess 4 5"]
+[Result "0-1"]
+[ECO "B65"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...Be7 defence, 9...Nxd4"]
+[HashCode "4f070a77"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd2 Be7
+8. O-O-O O-O 9. f4 Nxd4 10. Qxd4 h6 11. Bh4 Qa5 12. Bc4 Rd8 13. e5 dxe5 14.
+Qxe5 Qb4 15. Bb3 Bd7 16. Rd4 Qb6 17. h3 Bc6 18. Rxd8+ Rxd8 19. Qe2 Qd4 20.
+Rf1 Bb4 21. Be1 Bc5 22. f5 Qe3+ 23. Bd2 Qxe2 24. Nxe2 Bxg2 25. Rf4 Bxh3 26.
+fxe6 Bxe6 27. Nc3 Bxb3 28. axb3 Nd5 29. Rg4 f5 30. Ra4 Ne3 31. Rf4 g5 32.
+Ra4 Nf1 33. Be1 Re8 34. Bd2 Nxd2 35. Kxd2 g4 36. Kd1 g3 37. Kd2 g2 38. Ne2
+Rxe2+ 39. Kxe2 g1=Q 40. Rc4 b6 41. Kd2 b5 42. Rxc5 Qxc5 43. c3 Qe5 44. Kc2
+f4 45. Kb1 f3 46. b4 f2 47. Kc1 f1=Q+ 48. Kc2 Qd5 49. b3 Qdg2# 0-1
+

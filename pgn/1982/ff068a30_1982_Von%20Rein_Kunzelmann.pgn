@@ -1,0 +1,23 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Von Rein, G."]
+[Black "Kunzelmann, F."]
+[Result "0-1"]
+[ECO "A29"]
+[Opening "English"]
+[Variation "four knights, kingside fianchetto"]
+[HashCode "ff068a30"]
+[Epoch "Rook"]
+
+1. c4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. g3 Bb4 5. Bg2 O-O 6. O-O e4 7. Ne1 Bxc3
+8. dxc3 h6 9. Nc2 Re8 10. Ne3 d6 11. Qc2 a5 12. f4 exf3 13. exf3 Ne5 14.
+Bd2 c6 15. Rae1 Qb6 16. Kh1 a4 17. Bc1 Be6 18. b3 axb3 19. axb3 Rad8 20. h3
+Bc8 21. Re2 Qc7 22. Rfe1 Ng6 23. f4 h5 24. Nf5 Qd7 25. Nd4 Rxe2 26. Rxe2
+Re8 27. Rxe8+ Qxe8 28. Qe2 Qxe2 29. Nxe2 Kf8 30. Nd4 Ke7 31. Kg1 Nf8 32.
+Kf2 g6 33. Ke3 N8d7 34. Ba3 Ne8 35. b4 Nb6 36. Kd3 Ng7 37. c5 dxc5 38. b5
+Kd6 39. bxc6 bxc6 40. Nb3 Bf5+ 41. Ke2 Ne6 42. Nd4 Bb1 43. Nxc6 Nc4 44. Bc1
+Bc2 45. Na7 Ba4 46. Kd3 Nb6 47. c4 Nd4 48. Bb2 Bc2+ 49. Kd2 Nxc4+ 50. Kc3
+Nxb2 51. Kd2 Bf5 0-1
+

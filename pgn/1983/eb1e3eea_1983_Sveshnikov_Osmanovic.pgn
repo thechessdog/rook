@@ -1,0 +1,20 @@
+[Event "Sarajevo"]
+[Site "Sarajevo"]
+[Date "1983.03.01"]
+[Round "1"]
+[White "Sveshnikov, Evgeny"]
+[Black "Osmanovic, Kemal"]
+[Result "1/2-1/2"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Wade variation"]
+[HashCode "eb1e3eea"]
+[Epoch "Rook"]
+[WhiteID "4100638"]
+[WhiteCountry "RUS"]
+[BlackID "14400278"]
+[BlackCountry "BIH"]
+
+1. e4 c5 2. c3 e6 3. d4 d5 4. e5 Qb6 5. Nf3 Bd7 6. a3 Bb5 7. c4 Bxc4 8. Bxc4
+dxc4 9. d5 Ne7 10. Nc3 Nxd5 11. Nxd5 exd5 12. Qxd5 Be7 13. O-O Nc6 14. e6 O-O
+15. exf7+ Rxf7 16. Bg5 Qd8 17. Rad1 1/2-1/2

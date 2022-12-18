@@ -1,0 +1,23 @@
+[Event "Sokolsky mem"]
+[Site "Minsk"]
+[Date "1981.01.01"]
+[Round "11"]
+[White "Dydyshko, Viacheslav"]
+[Black "Roizman, Michael"]
+[Result "1-0"]
+[ECO "E42"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5, 5.Ne2 (Rubinstein)"]
+[HashCode "77a7b637"]
+[Epoch "Rook"]
+[WhiteID "13500031"]
+[WhiteCountry "BLR"]
+[BlackID "2802953"]
+[BlackCountry "ISR"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Ne2 cxd4 6. exd4 O-O 7. a3 Be7 8. d5
+exd5 9. cxd5 Re8 10. h3 Bc5 11. b4 Bb6 12. g4 a5 13. b5 d6 14. Bg2 Bxg4 15.
+hxg4 Nxg4 16. Qd3 Bxf2+ 17. Kd2 h6 18. Qf5 Qd7 19. Be4 g6 20. Qf3 f5 21. Bd3
+Re3 22. Qg2 Qe7 23. Nd1 Nd7 24. Nxf2 Rxe2+ 25. Bxe2 Qe3+ 26. Ke1 Qc3+ 27. Bd2
+Qxa1+ 28. Nd1 Re8 29. Rxh6 Nde5 30. Rh3 Nc4 31. Bc3 Qxd1+ 32. Kxd1 Nge3+ 33.
+Kc1 Nxg2 34. Rh8+ 1-0

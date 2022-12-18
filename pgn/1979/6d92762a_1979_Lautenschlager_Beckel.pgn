@@ -1,0 +1,18 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Lautenschlager"]
+[Black "Beckel"]
+[Result "1-0"]
+[ECO "B78"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, 10.O-O-O"]
+[HashCode "6d92762a"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8.
+Qd2 Nc6 9. Bc4 Bd7 10. O-O-O Qb8 11. h4 b5 12. Bd5 Rc8 13. h5 b4 14. hxg6
+hxg6 15. Bh6 bxc3 16. bxc3 Nxd5 17. Bxg7 Kxg7 18. exd5 Nxd4 19. Qxd4+ f6
+20. Qe3 1-0
+

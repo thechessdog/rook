@@ -1,0 +1,19 @@
+[Event "London Lloyds Bank"]
+[Site "London Lloyds Bank"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Law, Andrew P"]
+[Black "Wicker, Kevin J"]
+[Result "1/2-1/2"]
+[ECO "C16"]
+[Opening "French"]
+[Variation "Winawer, Petrosian variation"]
+[HashCode "0c851213"]
+[Epoch "Rook"]
+[BlackID "401501"]
+[BlackCountry "ENG"]
+[WhiteCountry "ENG"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 Qd7 5. Bd2 b6 6. Nf3 Ne7 7. Bb5 c6 8. Bd3
+Ba6 9. Qe2 Bxd3 10. Qxd3 Bxc3 11. Bxc3 Qb7 12. O-O Nd7 13. Bb4 c5 14. Ba3 Rc8
+15. Rac1 b5 1/2-1/2

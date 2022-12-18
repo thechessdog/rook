@@ -1,0 +1,18 @@
+[Event "Trofeo Scacco"]
+[Site "Trofeo Scacco"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Crispino"]
+[Black "Zullo"]
+[Result "0-1"]
+[ECO "A77"]
+[Opening "Benoni"]
+[Variation "classical, 9...Re8, 10.Nd2"]
+[HashCode "15069caf"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. Nf3 Bg7 8.
+Be2 O-O 9. O-O Re8 10. Nd2 Nbd7 11. a4 Ne5 12. Ra3 Bd7 13. Qc2 Qe7 14. f3
+Nh5 15. Re1 Qh4 16. Rd1 Nd3 17. Nf1 Qf2+ 18. Kh1 Nxc1 19. Qxc1 Bd4 20. Rxd4
+cxd4 0-1
+

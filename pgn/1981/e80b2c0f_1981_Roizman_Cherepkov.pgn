@@ -1,0 +1,21 @@
+[Event "Sokolsky mem"]
+[Site "Minsk"]
+[Date "1981.01.01"]
+[Round "6"]
+[White "Roizman, Michael"]
+[Black "Cherepkov, Alexander V"]
+[Result "0-1"]
+[ECO "A18"]
+[Opening "English"]
+[Variation "Mikenas-Carls, Flohr variation"]
+[HashCode "e80b2c0f"]
+[Epoch "Rook"]
+[WhiteID "2802953"]
+[WhiteCountry "ISR"]
+[BlackCountry "RUS"]
+
+1. c4 Nf6 2. Nc3 e6 3. e4 d5 4. e5 d4 5. exf6 dxc3 6. fxg7 cxd2+ 7. Bxd2 Bxg7
+8. Qc2 Nc6 9. Nf3 Qe7 10. O-O-O Bd7 11. Bc3 Nb4 12. Rxd7 Nxa2+ 13. Kb1 Nxc3+
+14. Qxc3 Qxd7 15. Qxg7 Qd1+ 16. Ka2 Qa4+ 17. Kb1 Qd1+ 18. Ka2 O-O-O 19. Qc3 c5
+20. Ne1 Rd6 21. Nc2 Rhd8 22. Na3 Rb6 23. g3 Rd2 24. Nb5 Qa4+ 25. Qa3 Qxa3+ 26.
+Kxa3 a6 27. Nc3 Rdxb2 28. Ne4 R6b3+ 29. Ka4 b6 30. Bg2 Rd3 31. Ra1 Rb4# 0-1

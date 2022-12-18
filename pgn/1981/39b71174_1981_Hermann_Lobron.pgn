@@ -1,0 +1,24 @@
+[Event "Bochum"]
+[Site "Bochum"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Hermann, Manfred"]
+[Black "Lobron, Eric"]
+[Result "0-1"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "39b71174"]
+[Epoch "Rook"]
+[WhiteID "4600584"]
+[WhiteCountry "GER"]
+[BlackID "4600037"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. d4 e6 5. Nf3 Nf6 6. Bd3 Nc6 7. O-O Bd7 8. Qe2
+cxd4 9. Rd1 Be7 10. cxd4 Nxd4 11. Nxd4 Qxd4 12. Nc3 Qg4 13. f3 Qh5 14. Ne4 Bc6
+15. Ng3 Qa5 16. Bd2 Qb6+ 17. Kh1 O-O 18. b4 a6 19. a3 Rfd8 20. Be3 Qc7 21. Qc2
+Rd7 22. Rac1 Rad8 23. Ne2 g6 24. Bf2 Rd5 25. Qb1 Bd6 26. Nd4 Bxh2 27. Nxc6 bxc6
+28. Bc4 Bf4 29. Bxd5 Bxc1 30. Bb3 Rxd1+ 31. Bxd1 Qf4 32. Qd3 Nd5 33. Ba4 Be3
+34. Bxe3 Nxe3 35. Kg1 Qg5 36. Qd2 c5 37. Kf2 Ng4+ 38. Ke2 Qe5+ 39. Kd1 Ne3+ 40.
+Ke1 Nxg2+ 41. Kf2 0-1

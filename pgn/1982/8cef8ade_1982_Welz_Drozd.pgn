@@ -1,0 +1,19 @@
+[Event "corr EU"]
+[Site "corr EU"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Welz"]
+[Black "Drozd"]
+[Result "1-0"]
+[ECO "C45"]
+[Opening "Scotch"]
+[Variation "Potter variation"]
+[HashCode "8cef8ade"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Bc5 5. Nb3 Bb6 6. a4 Qf6 7. Qe2 Nge7
+8. a5 Nd4 9. e5 Qf5 10. Nxd4 Bxd4 11. f4 a6 12. c3 Ba7 13. g4 Qe6 14. f5
+Qc6 15. Bg2 Qb5 16. Qxb5 axb5 17. Bf4 c6 18. Nd2 h5 19. Ne4 hxg4 20. Nd6+
+Kf8 21. O-O-O f6 22. Rhe1 Bb8 23. Nxc8 Nxc8 24. Rxd7 Kg8 25. Rxb7 fxe5 26.
+Bxc6 Nd6 27. Rxg7+ Kxg7 28. Bxe5+ Kh7 29. Bxa8 1-0
+

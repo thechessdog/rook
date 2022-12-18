@@ -1,0 +1,17 @@
+[Event "Capablanca mem-B"]
+[Site "Cienfuegos B"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Pinal, Nelson Borges"]
+[Black "Lukov, Valentin"]
+[Result "1/2-1/2"]
+[ECO "B51"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky (Nimzovich-Rossolimo, Moscow) attack"]
+[HashCode "fdeb9b5d"]
+[Epoch "Rook"]
+[BlackID "2900157"]
+[BlackCountry "FID"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Nc6 4. O-O a6 5. Bxc6+ bxc6 6. b3 Bg4 7. Bb2 e5 8.
+d3 Be7 9. Nbd2 Nf6 10. h3 Be6 11. Nh2 1/2-1/2

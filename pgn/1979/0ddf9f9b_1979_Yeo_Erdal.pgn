@@ -1,0 +1,18 @@
+[Event "London"]
+[Site "London"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Yeo, Michael J"]
+[Black "Erdal Smith"]
+[Result "1-0"]
+[ECO "B06"]
+[Opening "Robatsch defence"]
+[Variation "Pseudo-Austrian attack"]
+[HashCode "0ddf9f9b"]
+[Epoch "Rook"]
+[WhiteID "402257"]
+[WhiteCountry "ENG"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. f4 a6 5. Nf3 b5 6. Bd3 Bb7 7. O-O Nd7 8. e5 b4
+9. Ne4 d5 10. Neg5 e6 11. f5 gxf5 12. Nxf7 Kxf7 13. Ng5+ Ke7 14. Nxe6 Kxe6 15.
+Bxf5+ Ke7 16. Bg5+ Ndf6 17. Qe1 Kf7 18. Be6+ Kg6 19. Qg3 Ne4 20. Bf7# 1-0

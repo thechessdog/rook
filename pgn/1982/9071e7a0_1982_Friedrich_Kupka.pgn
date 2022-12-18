@@ -1,0 +1,18 @@
+[Event "corr ch-CSSR"]
+[Site "corr ch-CSSR"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Friedrich"]
+[Black "Kupka"]
+[Result "1-0"]
+[ECO "A10"]
+[Opening "English"]
+[Variation "Anglo-Dutch defense"]
+[HashCode "9071e7a0"]
+[Epoch "Rook"]
+
+1. c4 f5 2. b4 e6 3. Bb2 Nf6 4. b5 d5 5. e3 c5 6. Nf3 Bd6 7. a4 a5 8. d3 b6
+9. Be2 Nbd7 10. Nbd2 Bb7 11. O-O Qc7 12. h3 Ke7 13. Rc1 Raf8 14. d4 Rhg8
+15. dxc5 Nxc5 16. cxd5 Bxd5 17. Nc4 Bxf3 18. Bxf3 Bh2+ 19. Kh1 Rd8 20. Qe2
+Nd3 21. Ba3+ 1-0
+

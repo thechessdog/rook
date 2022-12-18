@@ -1,0 +1,20 @@
+[Event "Cleveland,OH"]
+[Site "Cleveland,OH"]
+[Date "1980.01.01"]
+[Round "5"]
+[White "Sprague, Ross"]
+[Black "Ward, Tom"]
+[Result "1-0"]
+[ECO "C04"]
+[Opening "French"]
+[Variation "Tarrasch, Guimard main line"]
+[HashCode "734c7b31"]
+[Epoch "Rook"]
+[WhiteID "2036975"]
+[WhiteCountry "USA"]
+[BlackID "2012421"]
+[BlackCountry "USA"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nc6 4. Ngf3 Nf6 5. e5 Nd7 6. Bb5 a6 7. Bxc6 bxc6 8.
+Nb3 c5 9. Na5 Nb8 10. O-O cxd4 11. Bg5 f6 12. exf6 gxf6 13. Ne5 h5 14. Qd3 Rg8
+15. Qh7 1-0

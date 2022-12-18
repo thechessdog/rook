@@ -1,0 +1,19 @@
+[Event "AUT-ch"]
+[Site "AUT"]
+[Date "1979.??.??"]
+[Round "7"]
+[White "Keuschnig, Siegfried"]
+[Black "Beni, Alfred"]
+[Result "1-0"]
+[ECO "B99"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7...Be7 main line"]
+[HashCode "fbb79915"]
+[Epoch "Rook"]
+[BlackCountry "AUT"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3
+Nbd7 9. O-O-O Qc7 10. Bd3 h6 11. Bh4 b5 12. e5 Bb7 13. Nxe6 fxe6 14. Bg6+ Kd8
+15. exf6 Bxf3 16. fxe7+ Kc8 17. gxf3 Nf6 18. Bxf6 gxf6 19. e8=Q+ Rxe8 20. Bxe8
+d5 21. Rhe1 Qxf4+ 22. Kb1 b4 23. Na4 Kc7 24. Rxe6 Qxf3 25. Rde1 Rd8 26. Re7+
+Kb8 27. Bc6 1-0

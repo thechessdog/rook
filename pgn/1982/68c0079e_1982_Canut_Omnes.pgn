@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Canut"]
+[Black "Omnes"]
+[Result "1-0"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack"]
+[HashCode "68c0079e"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. Bg5 d5 3. Nc3 Nbd7 4. e3 h6 5. Bh4 g5 6. Bg3 a6 7. Nf3 c5 8.
+Ne5 cxd4 9. exd4 Bg7 10. Be2 e6 11. h4 Nxe5 12. Bxe5 Ke7 13. Qd2 Bd7 14.
+O-O-O gxh4 15. Qf4 Ne8 16. Bh5 f6 17. Rde1 fxe5 18. dxe5 Bxe5 19. Nxd5+ Kd6
+20. Qxe5+ Kc6 21. Qc3+ Kxd5 22. Re5+ Kd6 23. Qc5# 1-0
+

@@ -1,0 +1,23 @@
+[Event "Le Havre"]
+[Site "Le Havre"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Lederman, Leon"]
+[Black "Pytel, Krzysztof"]
+[Result "0-1"]
+[ECO "C80"]
+[Opening "Ruy Lopez"]
+[Variation "open, 6.d4"]
+[HashCode "46ddd68c"]
+[Epoch "Rook"]
+[WhiteID "2800403"]
+[BlackID "600199"]
+[WhiteCountry "ISR"]
+[BlackCountry "FRA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 Be7 7. Re1 f5 8. d5
+Na5 9. Nxe5 O-O 10. c3 Bc5 11. Nd3 Ba7 12. Be3 Bxe3 13. Rxe3 b5 14. Bb3 Nxb3
+15. axb3 Bb7 16. f3 Qg5 17. Re1 Nf6 18. c4 Rae8 19. Nc3 Qh4 20. Nc5 Bc8 21. g3
+Qh6 22. Nd3 d6 23. Qc1 Qh5 24. Kg2 bxc4 25. bxc4 g5 26. Nf2 Nd7 27. Rxe8 Rxe8
+28. f4 Nc5 29. fxg5 Ne4 30. Ncxe4 fxe4 31. Qe3 Re5 32. Re1 Rxg5 33. Nxe4 Bh3+
+34. Kg1 Rf5 35. Nf2 Re5 36. Qc3 Qf3 0-1

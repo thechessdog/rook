@@ -1,0 +1,16 @@
+[Event "corr FSM/EU"]
+[Site "corr FSM/EU"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Sauermann, Wilfried"]
+[Black "Raupp, F."]
+[Result "1/2-1/2"]
+[ECO "C16"]
+[Opening "French"]
+[Variation "Winawer, Petrosian variation"]
+[HashCode "33b1a65d"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 Qd7 5. Qg4 f5 6. Qg3 b6 7. a3 Bxc3+ 8. bxc3
+Ba6 9. Bxa6 Nxa6 10. Ne2 Nb8 11. Nf4 Nc6 12. Nxe6 Qxe6 13. Qxg7 O-O-O 14. Qxh8
+Qg6 15. Bd2 Rd7 16. g4 fxg4 17. O-O-O Rg7 18. f4 1/2-1/2

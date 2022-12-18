@@ -1,0 +1,22 @@
+[Event "Kragujevac"]
+[Site "Kragujevac"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Tringov, Georgi P"]
+[Black "Lechtynsky, Jiri"]
+[Result "1-0"]
+[ECO "B10"]
+[Opening "Caro-Kann"]
+[Variation "closed (Breyer) variation"]
+[HashCode "2b229d96"]
+[Epoch "Rook"]
+[BlackID "300217"]
+[WhiteCountry "BGR"]
+[BlackCountry "CZE"]
+
+1. e4 c6 2. d3 d5 3. Nd2 g6 4. Ngf3 Bg7 5. Be2 Bg4 6. O-O Nd7 7. c3 Ngf6 8. Qc2
+O-O 9. h3 Bxf3 10. Nxf3 Qc7 11. Re1 Rfe8 12. Bf1 e5 13. Bd2 a5 14. a4 Bf8 15.
+b4 axb4 16. cxb4 Qd6 17. a5 h6 18. Qb2 Bg7 19. Bc3 d4 20. Bd2 b5 21. axb6 Nxb6
+22. Be2 Nfd7 23. Rec1 Rxa1 24. Rxa1 Rb8 25. Bd1 c5 26. Bb3 Nc8 27. b5 Qe7 28.
+Ba5 Kh7 29. Bc4 Nd6 30. Nd2 Nb6 31. Bxb6 Rxb6 32. Ra6 Qb7 33. Qa2 Rxa6 34. Qxa6
+Qb8 35. b6 Nc8 36. b7 Nd6 37. Bd5 1-0

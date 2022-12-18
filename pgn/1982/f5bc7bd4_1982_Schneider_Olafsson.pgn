@@ -1,0 +1,21 @@
+[Event "Reykjavik op"]
+[Site "Reykjavik"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Schneider, Lars-Ake"]
+[Black "Olafsson, Helgi"]
+[Result "1/2-1/2"]
+[ECO "B46"]
+[Opening "Sicilian"]
+[Variation "Taimanov variation"]
+[HashCode "f5bc7bd4"]
+[Epoch "Rook"]
+[BlackID "2300010"]
+[BlackCountry "ISL"]
+[WhiteCountry "SWE"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 Nc6 6. f4 Qc7 7. Nf3 b5 8. Bd3
+d6 9. O-O Nf6 10. Qe1 Be7 11. e5 Nd7 12. Qg3 g6 13. Kh1 Bb7 14. a4 bxa4 15.
+exd6 Qxd6 16. Rxa4 Nb4 17. Be4 Bxe4 18. Nxe4 Qc6 19. Nc3 O-O 20. Ne5 Qc7 21.
+Ne4 a5 22. c3 Nc6 23. Rc4 Ndxe5 24. fxe5 Qxe5 25. Qf3 f5 26. Ng5 Na7 27. Bf4
+Qd5 28. Qxd5 1/2-1/2

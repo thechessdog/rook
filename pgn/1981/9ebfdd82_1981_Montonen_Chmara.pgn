@@ -1,0 +1,18 @@
+[Event "corr WT/I"]
+[Site "corr WT/I"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Montonen, Hannu"]
+[Black "Chmara, D."]
+[Result "1-0"]
+[ECO "C69"]
+[Opening "Ruy Lopez"]
+[Variation "exchange, Bronstein variation"]
+[HashCode "9ebfdd82"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O Qd6 6. d4 exd4 7. Nxd4
+Bd7 8. Be3 Qg6 9. Nd2 O-O-O 10. Qe2 h5 11. f3 h4 12. Nc4 Qh5 13. Rfd1 c5
+14. Nb3 Nf6 15. Qf2 Ba4 16. Rxd8+ Kxd8 17. Nxc5 Bxc5 18. Bxc5 Bxc2 19. Ba3
+Ba4 20. Qa7 h3 21. b3 Bc6 22. Rd1+ Bd5 23. Qxb7 hxg2 24. Qb8+ 1-0
+

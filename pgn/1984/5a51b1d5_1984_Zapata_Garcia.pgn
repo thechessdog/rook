@@ -1,0 +1,20 @@
+[Event "Tunja,Columbia"]
+[Site "Tunja,Columbia"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Zapata, Alonso"]
+[Black "Garcia, Gildardo"]
+[Result "1-0"]
+[ECO "B16"]
+[Opening "Caro-Kann"]
+[Variation "Bronstein-Larsen variation"]
+[HashCode "5a51b1d5"]
+[Epoch "Rook"]
+[BlackID "4400020"]
+[BlackCountry "COL"]
+[WhiteID "4400011"]
+[WhiteCountry "COL"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ gxf6 6. Ne2 Bf5 7. Ng3 Bg6
+8. h4 h5 9. Be2 e6 10. c3 c5 11. Be3 cxd4 12. Bxd4 Nc6 13. Qa4 Be7 14. Rd1 Qc7
+15. Be3 a6 16. O-O b5 17. Bxb5 axb5 18. Qxa8+ Bd8 19. Qa6 1-0

@@ -1,0 +1,15 @@
+[Event "corr ch-SWE"]
+[Site "corr ch-SWE"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Forssen, Erik"]
+[Black "Englund, Helge"]
+[Result "1/2-1/2"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack, Richter variation"]
+[HashCode "5ef28a89"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 Bf5 4. f3 c6 5. Qd2 Nbd7 6. O-O-O Qa5 7. Kb1 e6
+8. a3 Bxa3 9. bxa3 Qxa3 10. e3 Qb3+ 11. Kc1 Qa3+ 1/2-1/2
+

@@ -1,0 +1,25 @@
+[Event "Bundesliga 8081"]
+[Site "Duitsland tt"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Buchal, Stephan"]
+[Black "Bartsch, Berthold"]
+[Result "1-0"]
+[ECO "B29"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rubinstein variation"]
+[HashCode "0134c78f"]
+[Epoch "Rook"]
+[WhiteID "4603915"]
+[WhiteCountry "GER"]
+[BlackID "4604660"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nf3 Nf6 3. Nc3 d5 4. e5 d4 5. exf6 dxc3 6. fxe7 cxd2+ 7. Bxd2 Bxe7
+8. Bc3 O-O 9. Bc4 Bf6 10. Qxd8 Bxc3+ 11. Qd2 Bxd2+ 12. Kxd2 Nc6 13. Rae1 Bf5
+14. Ne5 Nd8 15. Re3 Be6 16. Kc3 Bxc4 17. Kxc4 Ne6 18. Rd1 b5+ 19. Kc3 Rfd8 20.
+Rxd8+ Rxd8 21. Rd3 Nd4 22. Nf3 Ne2+ 23. Kd2 Rxd3+ 24. Kxd3 Nf4+ 25. Ke4 Nxg2
+26. Kd5 g5 27. Nxg5 c4 28. Kc5 a6 29. Nf3 Nf4 30. Kb6 b4 31. Kxa6 b3 32. axb3
+cxb3 33. cxb3 Nd3 34. Ka5 Nxf2 35. b4 Nd3 36. b3 Kf8 37. b5 Ke7 38. b6 Kd7 39.
+Ng5 f5 40. Nxh7 Kc8 41. h4 Kb7 42. Ng5 Nf4 43. Nf3 Nh5 44. Kb5 f4 45. Kc5 Nf6
+46. Kb5 Nh5 47. Ne5 Nf6 48. b4 Nh5 49. Ka5 Nf6 50. Kb5 Nh5 51. Nd3 1-0

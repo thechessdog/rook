@@ -1,0 +1,27 @@
+[Event "ACM Detroit"]
+[Site "ACM Detroit"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "L'Excentrique"]
+[Black "Ostrich"]
+[Result "1-0"]
+[ECO "B17"]
+[Opening "Caro-Kann"]
+[Variation "Steinitz variation"]
+[HashCode "184024df"]
+[Epoch "Rook"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Bc4 Ngf6 6. Ng5 Nd5 7. Qh5 g6
+8. Qe2 N7f6 9. c3 h6 10. Ne4 e6 11. Nxf6+ Nxf6 12. Nf3 Be7 13. a4 Qd6 14.
+Qe5 Qxe5+ 15. dxe5 Nd7 16. h4 Nb6 17. Bd3 Bd7 18. a5 Nd5 19. Bd2 O-O-O 20.
+O-O c5 21. c4 Nb4 22. Bxb4 cxb4 23. Be4 Bc6 24. Bxc6 bxc6 25. Rfd1 Rxd1+
+26. Rxd1 g5 27. hxg5 hxg5 28. a6 g4 29. Nh2 Rg8 30. b3 g3 31. fxg3 Rxg3 32.
+Nf3 Rg4 33. Kh2 Rg6 34. g3 Kc7 35. Kh3 Rg8 36. g4 Kb6 37. Ra1 Rd8 38. Kg3
+Rd3 39. Rb1 Kxa6 40. Kf4 Rd7 41. Rh1 Rd3 42. Rb1 Rd7 43. Rh1 Bc5 44. Ke4
+Kb6 45. Rh2 Kc7 46. Rh1 Kb6 47. Rh2 Rd1 48. Rh7 Rb1 49. Rxf7 Rxb3 50. Nd4
+Bxd4 51. Kxd4 c5+ 52. Ke4 Rc3 53. Rf2 Rxc4+ 54. Kf3 Rc3+ 55. Kf4 a5 56. g5
+Rc4+ 57. Kf3 Rc1 58. g6 Rg1 59. Rg2 Rf1+ 60. Kg4 Rf8 61. Kg5 Rf5+ 62. Kh6
+Rf8 63. g7 Rb8 64. Rf2 Rg8 65. Rf8 Rxg7 66. Kxg7 Kc7 67. Ra8 Kb6 68. Kf7 c4
+69. Kxe6 c3 70. Rb8+ Ka7 71. Rc8 Kb7 72. Rc4 Ka7 73. Kf7 Ka6 74. e6 c2 75.
+e7 Ka7 76. e8=Q c1=Q 77. Rxc1 1-0
+

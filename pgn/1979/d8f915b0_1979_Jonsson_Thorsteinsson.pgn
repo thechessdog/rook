@@ -1,0 +1,24 @@
+[Event "ISL-ch"]
+[Site "Reykjavik"]
+[Date "1979.??.??"]
+[Round "5"]
+[White "Jonsson, Johannes G"]
+[Black "Thorsteinsson, Bjorn"]
+[Result "1/2-1/2"]
+[ECO "C99"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Chigorin, 12...c5d4"]
+[HashCode "d8f915b0"]
+[Epoch "Rook"]
+[WhiteID "2300257"]
+[BlackID "2300184"]
+[WhiteCountry "ISL"]
+[BlackCountry "ISL"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. h3
+d6 9. c3 Na5 10. Bc2 c5 11. d4 Qc7 12. Nbd2 cxd4 13. cxd4 Nc6 14. Nb3 a5 15.
+Be3 a4 16. Nbd2 Nb4 17. Bb1 Bd7 18. a3 Nc6 19. Bd3 Rfb8 20. Rc1 Qd8 21. Qe2 b4
+22. dxe5 Nxe5 23. Nxe5 dxe5 24. Nc4 bxa3 25. bxa3 Rb5 26. Red1 Qb8 27. Rb1 Rb3
+28. Bc2 Rxb1 29. Rxb1 Qe8 30. Nxe5 Bxa3 31. Nc4 Bb5 32. Qd3 Bxc4 33. Qxa3 Nxe4
+34. Bxa4 Qe5 35. Rc1 Bd5 36. Qb4 h6 37. Bc2 Rb8 38. Qd4 Qxd4 39. Bxd4 Rc8 40.
+Be3 Rc6 41. Bxe4 Rxc1+ 42. Bxc1 Bxe4 1/2-1/2

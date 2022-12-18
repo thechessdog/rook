@@ -1,0 +1,20 @@
+[Event "Viborg"]
+[Site "Viborg"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Nielsen, Poul Erik"]
+[Black "Knudsen, Per"]
+[Result "1-0"]
+[ECO "A36"]
+[Opening "English"]
+[Variation "ultra-symmetrical variation"]
+[HashCode "a5e13209"]
+[Epoch "Rook"]
+[BlackID "1400509"]
+[BlackCountry "DEN"]
+
+1. c4 c5 2. g3 Nc6 3. Bg2 g6 4. Nc3 Bg7 5. Rb1 e6 6. Nh3 h5 7. a3 Nge7 8. b4 d6
+9. Nf4 h4 10. e3 Kf8 11. O-O Bd7 12. Ne4 e5 13. Nd5 cxb4 14. Nxd6 Rb8 15. axb4
+Be6 16. Nxe7 Qxd6 17. Nd5 Ne7 18. c5 Qd7 19. Nxe7 Kxe7 20. b5 Bd5 21. Ba3 Kf6
+22. d4 e4 23. f3 exf3 24. Bxf3 Kg5 25. e4 hxg3 26. Qd2+ Kh4 27. Qf4+ Kh3 28.
+Bg2# 1-0

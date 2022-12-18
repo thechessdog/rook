@@ -1,0 +1,24 @@
+[Event "Capablanca mem-A"]
+[Site "Cienfuegos"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Prandstetter, Eduard"]
+[Black "Hernandez, Roman"]
+[Result "1-0"]
+[ECO "C45"]
+[Opening "Scotch"]
+[Variation "Potter variation"]
+[HashCode "1429cdb6"]
+[Epoch "Rook"]
+[WhiteID "300225"]
+[WhiteCountry "CZE"]
+[BlackCountry "CUB"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Bc5 5. Nb3 Bb6 6. a4 a5 7. Nc3 Qf6 8.
+Qe2 Nge7 9. Be3 Bxe3 10. Qxe3 O-O 11. O-O-O d6 12. Be2 Be6 13. f4 Bxb3 14. cxb3
+Nb4 15. g4 c6 16. f5 Qe5 17. Qg3 Rad8 18. Qxe5 dxe5 19. Bc4 Nc8 20. g5 Nb6 21.
+Rxd8 Rxd8 22. Be2 Kf8 23. h4 Rd4 24. h5 Nd3+ 25. Bxd3 Rxd3 26. g6 h6 27. Kc2
+Rd6 28. Nb1 fxg6 29. fxg6 Nd7 30. Nd2 Rf6 31. Nc4 Rf2+ 32. Kb1 Nc5 33. Nxa5 Ke7
+34. Rc1 Nd3 35. Rc3 Rxb2+ 36. Ka1 Rd2 37. Nxb7 Rd1+ 38. Ka2 Nb4+ 39. Kb2 Rd2+
+40. Kb1 Rd1+ 41. Rc1 Rxc1+ 42. Kxc1 Nd3+ 43. Kd2 Nf4 44. a5 Kd7 45. Nc5+ Kc7
+46. Nd3 Nxh5 47. Nxe5 Nf4 48. Ke3 Ne6 49. Nd3 c5 50. Nf4 Nd8 51. e5 1-0

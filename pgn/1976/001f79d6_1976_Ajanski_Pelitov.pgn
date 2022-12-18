@@ -1,0 +1,17 @@
+[Event "Plovdiv"]
+[Site "Plovdiv"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Ajanski, Jordan"]
+[Black "Pelitov, Dimitar"]
+[Result "1/2-1/2"]
+[ECO "C68"]
+[Opening "Ruy Lopez"]
+[Variation "exchange variation"]
+[HashCode "001f79d6"]
+[Epoch "Rook"]
+[BlackID "2901358"]
+[BlackCountry "FID"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. Nxe5 Qd4 6. Nf3 Qxe4+ 7. Qe2
+Qxe2+ 8. Kxe2 Nf6 9. Re1 Be7 10. Nc3 O-O 11. h3 h6 12. Kf1 Bd6 13. d3 1/2-1/2

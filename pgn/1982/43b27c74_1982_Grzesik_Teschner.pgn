@@ -1,0 +1,19 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Grzesik, Thomas"]
+[Black "Teschner, Rudolf"]
+[Result "1-0"]
+[ECO "C15"]
+[Opening "French"]
+[Variation "Winawer, Alekhine (Maroczy) gambit"]
+[HashCode "43b27c74"]
+[Epoch "Rook"]
+[WhiteID "4603982"]
+[WhiteCountry "GER"]
+[BlackCountry "SRB"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. Ne2 dxe4 5. a3 Be7 6. Nxe4 Nc6 7. Bf4 Nf6 8.
+Qd3 O-O 9. O-O-O b6 10. N2c3 Bb7 11. h4 Qd7 12. Be2 Rfd8 13. Qg3 Nxe4 14. Nxe4
+Nxd4 15. Rxd4 1-0

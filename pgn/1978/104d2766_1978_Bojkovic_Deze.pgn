@@ -1,0 +1,19 @@
+[Event "Yugoslavia"]
+[Site "Yugoslavia"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Bojkovic, Slobodan"]
+[Black "Deze, Anton"]
+[Result "1/2-1/2"]
+[ECO "B67"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...a6 defence, 8...Bd7"]
+[HashCode "104d2766"]
+[Epoch "Rook"]
+[WhiteID "902829"]
+[WhiteCountry "SRB"]
+[BlackCountry "SRB"]
+
+1. e4 c5 2. Nf3 d6 3. d4 Nf6 4. Nc3 cxd4 5. Nxd4 Nc6 6. Bg5 e6 7. Qd2 a6 8.
+O-O-O Bd7 9. f4 b5 10. Qe3 Qb6 11. e5 dxe5 12. fxe5 Ng4 13. Qf4 Ngxe5 14. Nxc6
+Ng6 15. a3 1/2-1/2

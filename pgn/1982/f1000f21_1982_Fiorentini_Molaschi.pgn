@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Fiorentini"]
+[Black "Molaschi"]
+[Result "1-0"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, 6.Bd3"]
+[HashCode "f1000f21"]
+[Epoch "Rook"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 O-O 6. Bd3 Nc6 7. O-O Bg4 8.
+e5 dxe5 9. dxe5 Nd5 10. h3 Bxf3 11. Qxf3 Nxc3 12. bxc3 Na5 13. Be3 b6 14.
+Rad1 Qc8 15. f5 Bxe5 16. fxg6 hxg6 17. Bxg6 Qe6 18. Bf5 Qf6 19. Bh7+ Kh8
+20. Qh5 Qg7 21. Be4+ 1-0
+

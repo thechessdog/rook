@@ -1,0 +1,22 @@
+[Event "Bucharest"]
+[Site "Bucharest"]
+[Date "1980.??.??"]
+[Round "6"]
+[White "Kojder, Konrad"]
+[Black "Suba, Mihai"]
+[Result "0-1"]
+[ECO "A72"]
+[Opening "Benoni"]
+[Variation "classical without 9.O-O"]
+[HashCode "43021016"]
+[Epoch "Rook"]
+[WhiteID "1101471"]
+[BlackID "1203363"]
+[WhiteCountry "POL"]
+[BlackCountry "ESP"]
+
+1. d4 Nf6 2. Nf3 c5 3. d5 e6 4. c4 exd5 5. cxd5 d6 6. Nc3 g6 7. e4 Bg7 8. Be2
+O-O 9. Nd2 Nbd7 10. O-O Re8 11. a4 a6 12. Ra3 b6 13. Qc2 Ne5 14. b3 Ra7 15. Nc4
+Rae7 16. f3 Qc7 17. Bd2 Nh5 18. g4 Nxc4 19. bxc4 Bd4+ 20. Kh1 Ng7 21. Bd3 f5
+22. exf5 gxf5 23. g5 f4 24. Bxf4 Nh5 25. Bd2 Qd7 26. Be1 Qh3 27. Qg2 Rxe1 28.
+Ne4 R8xe4 0-1

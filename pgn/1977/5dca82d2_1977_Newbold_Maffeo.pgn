@@ -1,0 +1,18 @@
+[Event "San Francisco"]
+[Site "San Francisco"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Newbold, R."]
+[Black "Maffeo, N."]
+[Result "1-0"]
+[ECO "B40"]
+[Opening "Sicilian"]
+[Variation "Anderssen variation"]
+[HashCode "5dca82d2"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Ndb5 d6 7. Bf4 e5
+8. Bg5 a6 9. Na3 d5 10. Nxd5 Bxa3 11. bxa3 Bd7 12. Bd3 h6 13. Bxf6 gxf6 14.
+O-O Be6 15. c4 Bxd5 16. exd5 Nd4 17. f4 Qe7 18. Qg4 Qxa3 19. Bf5 h5 20. Qg7
+Ke7 21. fxe5 Qe3+ 22. Kh1 Qxe5 23. Rae1 Ne2 24. Be6 h4 25. Rxe2 1-0
+

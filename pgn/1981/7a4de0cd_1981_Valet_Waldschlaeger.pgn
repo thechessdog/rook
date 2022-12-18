@@ -1,0 +1,22 @@
+[Event "Regionalliga Nord"]
+[Site "RLN 8081"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Valet, Richard"]
+[Black "Waldschlaeger, Juergen"]
+[Result "1/2-1/2"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Wade variation"]
+[HashCode "7a4de0cd"]
+[Epoch "Rook"]
+[WhiteID "4610709"]
+[WhiteCountry "GER"]
+[BlackID "4631145"]
+[BlackCountry "GER"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Qb6 5. Nf3 Bd7 6. Be2 Bb5 7. c4 dxc4 8. O-O
+cxd4 9. Nxd4 Nc6 10. Nxc6 Qxc6 11. Bf3 Qc7 12. Bf4 Bc5 13. Nc3 Bc6 14. Ne4 Bxe4
+15. Bxe4 Rb8 16. Qg4 Kf8 17. Rfd1 Ne7 18. Rac1 Ng6 19. b3 c3 20. h4 Be7 21. Rd3
+h5 22. Qf3 Nxf4 23. Qxf4 Bf6 24. Rcxc3 Qxe5 25. Qxe5 Bxe5 26. Rc5 f6 27. Rd7
+Ke8 28. Rxb7 Rxb7 29. Bxb7 Ke7 1/2-1/2

@@ -1,0 +1,24 @@
+[Event "Kopenhagen open"]
+[Site "Kopenhagen open"]
+[Date "1980.06.01"]
+[Round "8"]
+[White "Hvenekilde, Jorgen"]
+[Black "Cramling, Pia"]
+[Result "1-0"]
+[ECO "A65"]
+[Opening "Benoni"]
+[Variation "6.e4"]
+[HashCode "8758c06b"]
+[Epoch "Rook"]
+[WhiteID "1400649"]
+[WhiteCountry "DEN"]
+[BlackID "1700030"]
+[BlackCountry "SWE"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. Bd3 Bg7 8. Nge2
+O-O 9. O-O Re8 10. Ng3 a6 11. a4 Qc7 12. h3 Nbd7 13. Bg5 Rb8 14. Qd2 c4 15. Bc2
+b5 16. axb5 axb5 17. Bh6 Bh8 18. Rfe1 Nc5 19. Re3 Nfd7 20. f4 b4 21. Nd1 Nf8
+22. Rc1 Qb6 23. Kh2 Bd7 24. Qe2 Bb5 25. Qf3 Rbc8 26. e5 dxe5 27. f5 Nd3 28.
+Bxd3 cxd3 29. Rxc8 Rxc8 30. Re4 Rc4 31. Nf2 Rxe4 32. Nfxe4 Bc4 33. d6 Nd7 34.
+Qg4 Nf8 35. Bxf8 Kxf8 36. fxg6 Be6 37. Qh4 d2 38. Qh6+ Ke8 39. g7 d1=Q 40. Nf6+
+Kd8 41. gxh8=Q# 1-0

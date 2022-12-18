@@ -1,0 +1,18 @@
+[Event "Italy"]
+[Site "Italy"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Gullotto, V."]
+[Black "Guanciale, O."]
+[Result "0-1"]
+[ECO "C05"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation"]
+[HashCode "5a448e21"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. f4 c5 6. c3 Nc6 7. Ndf3 Qa5 8.
+Kf2 Be7 9. Bd3 Qb6 10. Ne2 f6 11. Kg3 g5 12. Re1 cxd4 13. cxd4 gxf4+ 14.
+Nxf4 Rg8+ 15. Kh3 Nxd4 16. Nxd4 Nxe5 17. Rxe5 fxe5 18. Qh5+ Kd8 19. Qxe5
+Qxd4 0-1
+

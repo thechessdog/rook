@@ -1,0 +1,20 @@
+[Event "Cirella"]
+[Site "Cirella"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Martorelli"]
+[Black "Cucinella"]
+[Result "1-0"]
+[ECO "B11"]
+[Opening "Caro-Kann"]
+[Variation "two knights, 3...Bg4"]
+[HashCode "e3a02d87"]
+[Epoch "Rook"]
+
+1. e4 c6 2. Nf3 d5 3. Nc3 Bg4 4. h3 Bh5 5. exd5 cxd5 6. Bb5+ Nc6 7. g4 Bg6
+8. h4 f6 9. h5 Bf7 10. d4 e6 11. Qe2 Bb4 12. Bd2 Ne7 13. O-O-O a6 14. Bd3
+Qc7 15. g5 O-O-O 16. h6 gxh6 17. gxf6 Nf5 18. Bxf5 exf5 19. Qd3 Bg6 20.
+Bxh6 f4 21. Qd2 Be4 22. Ng5 Bxh1 23. Rxh1 Rhe8 24. f7 Re4 25. Ngxe4 dxe4
+26. Qxf4 Qxf4+ 27. Bxf4 Nxd4 28. Bg5 Rf8 29. Rxh7 Nf5 30. Nxe4 Kd7 31. c3
+1-0
+

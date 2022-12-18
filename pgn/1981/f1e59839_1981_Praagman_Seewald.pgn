@@ -1,0 +1,23 @@
+[Event "corr NLD/K"]
+[Site "corr NLD/K"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Praagman, J."]
+[Black "Seewald, P."]
+[Result "0-1"]
+[ECO "D98"]
+[Opening "Gruenfeld"]
+[Variation "Russian, Keres variation"]
+[HashCode "f1e59839"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Qb3 dxc4 5. Qxc4 Bg7 6. e4 O-O 7. Nf3 Bg4
+8. Be3 Nfd7 9. Be2 Nb6 10. Qd3 Nc6 11. O-O-O Qc8 12. Qc2 e5 13. Nxe5 Nxe5
+14. dxe5 Bxe5 15. Bxg4 Qxg4 16. f3 Qe6 17. Kb1 Rfd8 18. h4 Bf6 19. Rxd8+
+Bxd8 20. h5 Bf6 21. g4 g5 22. h6 Nc4 23. Bc1 c6 24. Rh5 Qe7 25. f4 gxf4 26.
+Bxf4 Re8 27. Bc1 Nd6 28. g5 Bxc3 29. Qxc3 Qxe4+ 30. Ka1 Qe5 31. Qf3 Nf5 32.
+Rh1 Nd4 33. Qf6 Qxf6 34. gxf6 Re6 35. Rf1 Kf8 36. b3 Ke8 37. Kb1 Kd7 38.
+Ba3 b6 39. Be7 Re5 40. Bf8 Ke6 41. Rg1 Re2 42. Rg8 Nb5 43. a4 Nc3+ 44. Kc1
+Ne4 45. Bg7 Nxf6 46. Ra8 Nd5 47. Rxa7 f5 48. Ra8 Rh2 49. Re8+ Kf7 50. Rf8+
+Kg6 51. Rd8 f4 0-1
+

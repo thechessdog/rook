@@ -1,0 +1,20 @@
+[Event "Vrbas"]
+[Site "Vrbas"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Govedarica, Radovan"]
+[Black "Petrovic, Vojislav"]
+[Result "1-0"]
+[ECO "C08"]
+[Opening "French"]
+[Variation "Tarrasch, open, 4.ed ed"]
+[HashCode "f5dce088"]
+[Epoch "Rook"]
+[WhiteID "900630"]
+[BlackID "905780"]
+[WhiteCountry "SRB"]
+[BlackCountry "SRB"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. exd5 exd5 5. Bb5+ Nc6 6. Ngf3 Bd7 7. O-O Bd6 8.
+dxc5 Bxc5 9. Nb3 Bb6 10. Qxd5 Nge7 11. Qh5 O-O 12. Bd3 f5 13. Ng5 h6 14. Bc4+
+Kh8 15. Nf7+ Rxf7 16. Bxf7 1-0

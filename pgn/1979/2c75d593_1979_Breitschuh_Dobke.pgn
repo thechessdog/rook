@@ -1,0 +1,18 @@
+[Event "corr DDR-cup6"]
+[Site "corr DDR-cup6"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Breitschuh, U."]
+[Black "Dobke, HJ."]
+[Result "0-1"]
+[ECO "A17"]
+[Opening "English"]
+[Variation "Nimzo-English opening"]
+[HashCode "2c75d593"]
+[Epoch "Rook"]
+
+1. c4 Nf6 2. Nc3 e6 3. Nf3 Bb4 4. Qc2 c5 5. a3 Bxc3 6. Qxc3 b6 7. e3 Bb7 8.
+Be2 O-O 9. O-O d5 10. b3 Nbd7 11. Bb2 Re8 12. Rfd1 e5 13. cxd5 Nxd5 14. Qc2
+e4 15. Ne1 Qg5 16. d3 N7f6 17. dxe4 Nxe4 18. Qc1 Nxf2 19. Rxd5 Nh3+ 20. Kf1
+Qxd5 21. Bf3 Ba6+ 0-1
+

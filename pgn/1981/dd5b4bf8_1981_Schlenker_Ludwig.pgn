@@ -1,0 +1,20 @@
+[Event "Baden-Baden"]
+[Site "Baden-Baden"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Schlenker, R."]
+[Black "Ludwig"]
+[Result "1-0"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "modern variation"]
+[HashCode "dd5b4bf8"]
+[Epoch "Rook"]
+
+1. b3 e5 2. Bb2 Nc6 3. e3 Nf6 4. Bb5 d6 5. Ne2 Bd7 6. O-O a6 7. Bxc6 Bxc6
+8. f4 Be7 9. Nbc3 b5 10. Ng3 g6 11. d4 exf4 12. Rxf4 d5 13. e4 b4 14. Nce2
+dxe4 15. d5 Bxd5 16. Qd4 Rg8 17. Rxf6 Bxf6 18. Qxf6 Qxf6 19. Bxf6 g5 20.
+Rd1 c6 21. c4 bxc3 22. Nxc3 Rg6 23. Ngxe4 Kf8 24. Nxd5 cxd5 25. Rxd5 Re8
+26. Be5 Rge6 27. Nf6 Rc8 28. Nxh7+ Kg8 29. Nxg5 Rc1+ 30. Kf2 Rc2+ 31. Kf3
+Re8 32. Ne4 Rec8 33. Bf6 Kh7 34. Rh5+ Kg6 35. Rg5+ Kh7 36. Bg7 1-0
+

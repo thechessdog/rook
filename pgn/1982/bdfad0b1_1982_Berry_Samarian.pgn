@@ -1,0 +1,18 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Berry, Stephen H"]
+[Black "Samarian, Sergiu"]
+[Result "0-1"]
+[ECO "C31"]
+[Opening "KGD"]
+[Variation "Nimzovich counter-gambit"]
+[HashCode "bdfad0b1"]
+[Epoch "Rook"]
+[WhiteID "403369"]
+[WhiteCountry "ENG"]
+
+1. e4 e5 2. f4 d5 3. exd5 c6 4. Nf3 exf4 5. d4 Bd6 6. c4 cxd5 7. Nc3 Nf6 8. c5
+Bc7 9. Bb5+ Nc6 10. O-O O-O 11. Bxc6 bxc6 12. Ne5 Bxe5 13. dxe5 Nd7 14. Bxf4
+Nxc5 15. Qh5 Nd3 16. Kh1 Qb6 17. Qe2 Ba6 18. Bd2 Rae8 19. Rf5 Rxe5 0-1

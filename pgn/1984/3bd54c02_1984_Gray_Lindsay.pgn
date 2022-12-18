@@ -1,0 +1,16 @@
+[Event "corr USA"]
+[Site "corr USA"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Gray"]
+[Black "Lindsay"]
+[Result "1-0"]
+[ECO "B40"]
+[Opening "Sicilian"]
+[Variation "Pin, Koch variation"]
+[HashCode "3bd54c02"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Bb4 6. e5 Nd5 7. Qg4 O-O
+8. Bh6 g6 9. Bxf8 Qxf8 10. Qg3 Qc5 11. Ne2 Nc6 12. O-O-O Nxc3 13. Nxc3 1-0
+

@@ -1,0 +1,23 @@
+[Event "Athens"]
+[Site "Athens"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Sveshnikov, Evgeny"]
+[Black "Skalkotas, Nikolaos"]
+[Result "1-0"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Euwe variation"]
+[HashCode "b4f6509d"]
+[Epoch "Rook"]
+[WhiteID "4100638"]
+[WhiteCountry "RUS"]
+[BlackID "4200144"]
+[BlackCountry "GRE"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Bd7 6. Be2 Rc8 7. O-O cxd4 8. cxd4
+Nge7 9. Na3 Nf5 10. Nc2 Qb6 11. g4 Nfe7 12. Nfe1 h5 13. gxh5 Nf5 14. Be3 Nb4
+15. Nxb4 Bxb4 16. Nd3 Bb5 17. a4 Bc4 18. a5 Qb5 19. b3 Bxd3 20. Bxd3 Qd7 21. a6
+b6 22. Kh1 Rc3 23. Rc1 Rxc1 24. Bxc1 g6 25. hxg6 fxg6 26. Rg1 Qh7 27. Rg2 Be7
+28. Qg4 Kf7 29. Bg5 Qh3 30. Bxf5 exf5 31. e6+ Ke8 32. Qf4 Bxg5 33. Qxg5 Rh6 34.
+Qf6 1-0

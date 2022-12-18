@@ -1,0 +1,24 @@
+[Event "Bundesliga 8081"]
+[Site "Duitsland tt"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Ehrler, Eberhard"]
+[Black "Hickl, Thomas"]
+[Result "1-0"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...e6"]
+[HashCode "8ba882a5"]
+[Epoch "Rook"]
+[WhiteID "4607899"]
+[WhiteCountry "GER"]
+[BlackID "4604040"]
+[BlackCountry "GER"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 e6 6. Nf3 Be7 7. c5 O-O 8. b4
+Ne4 9. Qc2 Nc6 10. b5 Nxd4 11. Nxd4 Bxc5 12. Nxe4 Bxd4 13. Nc3 e5 14. Bb2 Be6
+15. Be2 Qg5 16. O-O Rac8 17. Qc1 Qg6 18. Qd2 Bh3 19. g3 Bxc3 20. Bxc3 Bxf1 21.
+Bxf1 d4 22. Bb4 Rfd8 23. Rc1 Qe6 24. Rxc8 Rxc8 25. Bg2 Qd7 26. a4 h6 27. h4 Kh7
+28. Qd3+ g6 29. h5 Rc1+ 30. Kh2 Qg4 31. hxg6+ fxg6 32. Qb3 Qd7 33. Bh3 Qg7 34.
+Qd5 Rc2 35. Kg1 Qf6 36. Qxb7+ Kg8 37. Qa8+ Kg7 38. Qxa7+ Qf7 39. Qxf7+ Kxf7 40.
+Kf1 Rb2 41. Bc5 d3 42. Ke1 Rc2 43. Be3 Ra2 44. b6 Rxa4 45. b7 Rb4 46. Bg2 1-0

@@ -1,0 +1,19 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Laske"]
+[Black "Winter"]
+[Result "1/2-1/2"]
+[ECO "C09"]
+[Opening "French"]
+[Variation "Tarrasch, open variation, main line"]
+[HashCode "fe2897c4"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. Ngf3 Nc6 5. exd5 exd5 6. Bb5 Bd6 7. O-O cxd4
+8. Nb3 Ne7 9. Nbxd4 O-O 10. Be3 Bg4 11. h3 Bh5 12. Qd2 Rc8 13. Be2 Bb8 14.
+c3 Qc7 15. g3 Qd7 16. Kg2 Rfe8 17. Rad1 Ng6 18. Nxc6 bxc6 19. c4 Qc7 20.
+Nd4 Bxe2 21. Qxe2 h5 22. cxd5 h4 23. Nxc6 hxg3 24. Nxb8 Nh4+ 25. Kg1 Qc2
+26. Qxc2 Rxc2 27. fxg3 Rxe3 1/2-1/2
+

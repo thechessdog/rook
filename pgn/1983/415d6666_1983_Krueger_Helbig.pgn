@@ -1,0 +1,19 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Krueger"]
+[Black "Helbig"]
+[Result "1-0"]
+[ECO "B63"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...Be7"]
+[HashCode "415d6666"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd2 Be7
+8. O-O-O Nxd4 9. Qxd4 O-O 10. e5 dxe5 11. Qxe5 Nd7 12. Bxe7 Qxe7 13. Qc7
+Qd8 14. Qxd8 Rxd8 15. Be2 Kf8 16. Rd6 a6 17. Rhd1 b5 18. Bf3 Ra7 19. Bc6
+Ke7 20. Ne4 Rc7 21. b4 Rxc6 22. Rxc6 Bb7 23. Rdd6 Bxc6 24. Rxc6 Nb8 25. Rb6
+h6 26. Nc5 a5 27. bxa5 1-0
+

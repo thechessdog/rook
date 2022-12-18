@@ -1,0 +1,25 @@
+[Event "Bundesliga 8081"]
+[Site "Duitsland tt"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Lieb, Harald"]
+[Black "Goehring, Karl-Heinz"]
+[Result "0-1"]
+[ECO "E31"]
+[Opening "Nimzo-Indian"]
+[Variation "Leningrad, main line"]
+[HashCode "bc2db791"]
+[Epoch "Rook"]
+[WhiteID "4604814"]
+[WhiteCountry "GER"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Bg5 h6 5. Bh4 c5 6. d5 d6 7. f3 e5 8. e4 Bxc3+
+9. bxc3 Nbd7 10. Bd3 Nf8 11. Bf2 Ng6 12. g3 Qe7 13. h4 Kd8 14. Ne2 Kc7 15. Be3
+Bd7 16. Kd2 Qe8 17. Rb1 Ba4 18. Bc2 Bd7 19. Qc1 Ne7 20. Qa3 Nc8 21. g4 Nb6 22.
+Bd3 Qf8 23. Ng3 g6 24. g5 hxg5 25. hxg5 Nh5 26. Nxh5 gxh5 27. f4 f5 28. fxe5
+fxe4 29. exd6+ Qxd6 30. Bxc5 Qe5 31. Be2 Bg4 32. Bd4 e3+ 33. Kc1 Qe4 34. Qc5+
+Kd7 35. Qb5+ Ke7 36. Bc5+ Kf7 37. Rf1+ Kg6 38. Bxg4 hxg4 39. Bxb6 Rh2 40. Rb2
+Rf8 41. Re1 Rh1 42. Rxh1 Qxh1+ 43. Kc2 e2 44. Kb3 Qd1+ 45. Ka3 e1=Q 46. Bd4
+Qe7+ 47. Bc5 Qe8 48. Bxf8 Qxf8+ 49. Rb4 b6 50. Qc6+ Kxg5 51. Qc7 Qc1+ 52. Kb3
+Qb1+ 53. Ka3 a5 54. Qe5+ Qbf5 55. Qe3+ Qf4 0-1

@@ -1,0 +1,21 @@
+[Event "corr DDR-cup5"]
+[Site "corr DDR-cup5"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Pfeiffer"]
+[Black "Goeldner"]
+[Result "1-0"]
+[ECO "C85"]
+[Opening "Ruy Lopez"]
+[Variation "Exchange variation doubly deferred (DERLD)"]
+[HashCode "0bb80a0e"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Bxc6 dxc6 7. d3 Bg4
+8. h3 Bxf3 9. Qxf3 Qd6 10. Nd2 O-O-O 11. Nc4 Qe6 12. Qg3 Nd7 13. f4 f6 14.
+Be3 h5 15. fxe5 fxe5 16. Rf3 g5 17. Rf5 h4 18. Qg4 Rhg8 19. Nxe5 Nxe5 20.
+Rxe5 Qxg4 21. hxg4 Bf6 22. Rf5 Bxb2 23. Raf1 Bd4 24. Kf2 c5 25. Ke2 Bxe3
+26. Kxe3 b6 27. c3 Kb7 28. R1f3 Kc6 29. Rf6+ Kb5 30. e5 Rde8 31. Ke4 Re7
+32. Kf5 a5 33. e6 Kc6 34. Rf7 Kd6 35. Rxe7 Kxe7 36. Ke5 Rg7 37. Kd5 Rh7 38.
+Re3 1-0
+

@@ -1,0 +1,23 @@
+[Event "Moscow"]
+[Site "Moscow"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Salov, Valery"]
+[Black "Sokolov, Andrei"]
+[Result "0-1"]
+[ECO "E12"]
+[Opening "Queen's Indian"]
+[Variation "4.Nc3"]
+[HashCode "b6b02534"]
+[Epoch "Rook"]
+[WhiteID "4100069"]
+[BlackID "627089"]
+[WhiteCountry "RUS"]
+[BlackCountry "FRA"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 b6 4. Nc3 Bb4 5. Qc2 Bb7 6. a3 Bxc3+ 7. Qxc3 O-O 8.
+Bg5 d6 9. e3 Nbd7 10. Bd3 c5 11. O-O cxd4 12. exd4 h6 13. Bh4 Rc8 14. Nd2 d5
+15. Qb3 e5 16. Bf5 dxc4 17. Qg3 Nh5 18. Qh3 Nf4 19. Qg4 g5 20. Bxd7 Rc7 21. Bf5
+Bxg2 22. dxe5 Qd5 23. Ne4 Bxe4 24. Bxg5 hxg5 25. Qxg5+ Ng6 26. Bxe4 Qxe4 27. f4
+f6 28. exf6 Qd4+ 29. Kh1 Qxf6 30. Qd5+ Kh8 31. f5 Rc5 32. Qd2 Nh4 33. Rac1 Qd6
+0-1

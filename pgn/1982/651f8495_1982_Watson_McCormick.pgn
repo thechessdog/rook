@@ -1,0 +1,22 @@
+[Event "US Open"]
+[Site "US Open"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Watson, J."]
+[Black "McCormick, E."]
+[Result "1-0"]
+[ECO "A29"]
+[Opening "English"]
+[Variation "four knights, kingside fianchetto"]
+[HashCode "651f8495"]
+[Epoch "Rook"]
+
+1. c4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. g3 Bb4 5. Bg2 d6 6. O-O O-O 7. d3 Bxc3 8.
+bxc3 e4 9. Nd4 exd3 10. exd3 Nxd4 11. cxd4 c6 12. Rb1 h6 13. Re1 d5 14. Ba3
+Re8 15. Rxe8+ Qxe8 16. Qd2 b6 17. Bd6 Be6 18. c5 b5 19. h3 Qd7 20. g4 Ne8
+21. Bg3 Nc7 22. Qa5 Ne8 23. a4 bxa4 24. Qxa4 h5 25. f3 hxg4 26. hxg4 g5 27.
+Qd1 a5 28. Qa4 f5 29. gxf5 Bxf5 30. Rb6 Rc8 31. Qxa5 Bxd3 32. Be5 g4 33.
+Qd2 Qf5 34. fxg4 Qxg4 35. Qxd3 Ra8 36. Rxc6 Ra1+ 37. Kh2 Ng7 38. Rg6 Qh5+
+39. Kg3 Ra7 40. Bf3 Qh7 41. Bxd5+ Kh8 42. Be4 Rf7 43. Qb3 Rf1 44. Qb8+ Qg8
+45. Rh6# 1-0
+

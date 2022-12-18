@@ -1,0 +1,24 @@
+[Event "Regionalliga Nord"]
+[Site "RLN 8081"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Pollak, Georg"]
+[Black "Derikum, Axel"]
+[Result "0-1"]
+[ECO "D16"]
+[Opening "QGD Slav"]
+[Variation "Steiner variation"]
+[HashCode "4eb398e6"]
+[Epoch "Rook"]
+[WhiteID "4611551"]
+[WhiteCountry "GER"]
+[BlackID "4602242"]
+[BlackCountry "GER"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 Bg4 6. e4 e5 7. Bxc4 Bxf3 8.
+gxf3 exd4 9. Qb3 Qe7 10. Bf4 dxc3 11. O-O-O b6 12. Bxf7+ Qxf7 13. Rd8+ Ke7 14.
+Bd6+ Kxd8 15. Qxf7 Bxd6 16. Qb7 Re8 17. Rd1 Nbd7 18. Qxa8+ Ke7 19. Qxc6 cxb2+
+20. Kxb2 Bxh2 21. Qc1 Kf8 22. Qe3 Bc7 23. Ka2 h5 24. Rg1 Re7 25. Re1 a5 26. Rd1
+Nc5 27. Ka3 Re5 28. Qd2 Re7 29. Qe3 Re6 30. Qc1 Bd6 31. Ka2 Be7 32. Qc4 h4 33.
+Re1 Rd6 34. f4 Rd2+ 35. Kb1 h3 36. Rh1 Rd3 37. e5 Nfe4 38. Qc1 Rb3+ 39. Ka1 Nc3
+40. Rxh3 N5xa4 41. Rh8+ Kf7 42. Qh1 Ra3# 0-1

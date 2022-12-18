@@ -1,0 +1,20 @@
+[Event "Plymouth ch-MI op"]
+[Site "Plymouth ch-MI op"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Redding, T."]
+[Black "Fawaz, Mo"]
+[Result "0-1"]
+[ECO "D00"]
+[Opening "Levitsky attack (Queen's bishop attack)"]
+[HashCode "6a8c404b"]
+[Epoch "Rook"]
+
+1. d4 d5 2. Bg5 f6 3. Bh4 Nc6 4. c3 e6 5. Qa4 Bd7 6. e3 e5 7. Be2 Nxd4 8.
+Qd1 Nf5 9. Nf3 e4 10. Qxd5 exf3 11. Qe4+ Be7 12. Bxf3 Nxh4 13. Qxh4 f5 14.
+Qd4 Bf6 15. Qd3 c6 16. Qd6 Ne7 17. Bh5+ Ng6 18. g3 Be7 19. Qd3 O-O 20. O-O
+Ne5 21. Qe2 g6 22. Bf3 Nxf3+ 23. Qxf3 Bd6 24. Rd1 Bc5 25. Rd3 a5 26. Qd1
+Rf7 27. Na3 a4 28. b4 axb3 29. Nc4 Qe8 30. Qxb3 Be6 31. Rad1 b5 32. Qc2
+Bxc4 33. R3d2 Rxa2 34. Rd8 Rxc2 35. Rxe8+ Kg7 36. Rdd8 Ra7 37. Ra8 Bd5 38.
+h4 Rc1+ 39. Kh2 Rh1# 0-1
+

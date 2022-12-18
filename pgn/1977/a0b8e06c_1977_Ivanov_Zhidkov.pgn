@@ -1,0 +1,20 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Ivkov, Borislav"]
+[Black "Zhidkov, Valery S"]
+[Result "0-1"]
+[ECO "B87"]
+[Opening "Sicilian"]
+[Variation "Sozin with ...a6 and ...b5"]
+[HashCode "a0b8e06c"]
+[Epoch "Rook"]
+[WhiteID "900141"]
+[BlackID "14100282"]
+[WhiteCountry "SRB"]
+[BlackCountry "UKR"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 b5 8. O-O
+Be7 9. Qf3 Qc7 10. Qg3 Nc6 11. Be3 O-O 12. Nxc6 Qxc6 13. Bd4 Bb7 14. Rad1 b4
+15. Bxf6 Bxf6 16. Rxd6 Qc7 17. Rfd1 bxc3 18. e5 Be7 19. Rd7 Rfd8 0-1

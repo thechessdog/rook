@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Kroner, O."]
+[Black "Schuhler, E."]
+[Result "1-0"]
+[ECO "C57"]
+[Opening "two knights defence"]
+[Variation "Fritz, Gruber variation"]
+[HashCode "f75273db"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 b5 6. Bf1 Nd4 7. c3 Nxd5
+8. Ne4 Qh4 9. Ng3 Bg4 10. f3 e4 11. cxd4 Bd6 12. Bxb5+ Kd8 13. O-O exf3 14.
+Rxf3 Rb8 15. Bf1 Re8 16. Nc3 c6 17. d3 Nxc3 18. bxc3 Rb5 19. d5 Rxd5 20.
+Qa4 g5 21. Re3 Bc5 22. Qxc6 Be6 23. Rb1 Bb6 24. Rxb6 axb6 25. c4 Rd7 26.
+Rxe6 Rc7 27. Re4 1-0
+

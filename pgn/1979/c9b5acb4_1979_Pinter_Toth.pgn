@@ -1,0 +1,22 @@
+[Event "Rome"]
+[Site "Rome"]
+[Date "1979.01.01"]
+[Round "5"]
+[White "Pinter, Jozsef"]
+[Black "Toth, Bela"]
+[Result "1-0"]
+[ECO "E21"]
+[Opening "Nimzo-Indian"]
+[Variation "three knights variation"]
+[HashCode "c9b5acb4"]
+[Epoch "Rook"]
+[WhiteID "700045"]
+[WhiteCountry "HUN"]
+[BlackID "736112"]
+[BlackCountry "ITA"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Nf3 c5 5. e3 b6 6. Bd3 Bb7 7. O-O O-O 8. Na4
+cxd4 9. a3 Be7 10. exd4 Qc7 11. b4 Ng4 12. g3 f5 13. Nc3 a6 14. Re1 Bf6 15. Bf4
+Qc8 16. h3 Nh6 17. Be2 Nf7 18. Na4 Qd8 19. Ne5 Nc6 20. Bf3 Rc8 21. c5 g5 22.
+Nxf7 Rxf7 23. Be5 Bxe5 24. dxe5 g4 25. hxg4 fxg4 26. Bg2 Qg5 27. Nxb6 Rcf8 28.
+Ra2 Kh8 29. Rd2 Qh5 30. Nxd7 Nd4 31. Bxb7 Nf3+ 32. Bxf3 gxf3 33. Nf6 1-0

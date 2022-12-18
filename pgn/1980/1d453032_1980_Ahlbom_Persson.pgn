@@ -1,0 +1,20 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Ahlbom"]
+[Black "Persson"]
+[Result "1-0"]
+[ECO "C45"]
+[Opening "Scotch"]
+[Variation "Meitner variation"]
+[HashCode "1d453032"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Bc5 5. Be3 Qf6 6. c3 Nge7 7. Nc2
+Bxe3 8. Nxe3 O-O 9. Be2 d6 10. O-O Be6 11. Nd5 Bxd5 12. exd5 Ne5 13. Nd2 a6
+14. Ne4 Qh6 15. Ng3 f5 16. f4 Nd7 17. Qd2 g6 18. Rae1 Nf6 19. Bf3 Qg7 20.
+Re6 Kh8 21. Rfe1 Rae8 22. c4 h5 23. Nh1 Nd7 24. Nf2 Nc5 25. R6e2 Rf6 26.
+Nh3 b6 27. b4 Nd7 28. Ng5 Nf8 29. Re3 Nh7 30. Ne6 Rxe6 31. Rxe6 Nf6 32. Qe2
+Nfg8 33. Bxh5 1-0
+

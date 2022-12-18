@@ -1,0 +1,17 @@
+[Event "Wilkesboro,NC"]
+[Site "Wilkesboro,NC"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Wall, Bill"]
+[Black "Lewis, Phil"]
+[Result "1-0"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "classical variation"]
+[HashCode "1e6fd7ee"]
+[Epoch "Rook"]
+[WhiteCountry "USA"]
+
+1. b3 d5 2. Bb2 e6 3. e3 Nf6 4. Ne2 Bd6 5. f4 O-O 6. Ng3 c5 7. Bd3 Nc6 8. O-O
+Nb4 9. Nh5 Nxh5 10. Bxh7+ Kxh7 11. Qxh5+ Kg8 12. Bxg7 Kxg7 13. Qg4+ Kh7 14. Rf3
+1-0

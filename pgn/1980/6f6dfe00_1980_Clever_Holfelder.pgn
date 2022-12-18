@@ -1,0 +1,18 @@
+[Event "GER-SW chT 7980"]
+[Site "BL-SW 7980"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Clever, Gerd"]
+[Black "Holfelder, J."]
+[Result "1-0"]
+[ECO "A71"]
+[Opening "Benoni"]
+[Variation "classical, 8.Bg5"]
+[HashCode "6f6dfe00"]
+[Epoch "Rook"]
+[WhiteID "4600606"]
+[WhiteCountry "GER"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. Bg5 Bg7 8. e4
+O-O 9. Nd2 Re8 10. Be2 b6 11. O-O Nbd7 12. f4 h6 13. Bh4 a6 14. Nc4 g5 15. fxg5
+Nxe4 16. Bh5 Nxc3 17. bxc3 Rf8 18. Bxf7+ Rxf7 19. Rxf7 hxg5 20. Qh5 1-0

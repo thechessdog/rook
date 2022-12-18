@@ -1,0 +1,23 @@
+[Event "Univ Dayton Open"]
+[Site "Univ Dayton Open"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Davis"]
+[Black "Horn"]
+[Result "1-0"]
+[ECO "A57"]
+[Opening "Benko gambit"]
+[Variation "Zaitsev system"]
+[HashCode "17b28437"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. Nc3 axb5 6. e4 b4 7. Nb5 d6 8.
+Bf4 g6 9. e5 dxe5 10. Bxe5 Na6 11. d6 exd6 12. Bxd6 Bxd6 13. Nxd6+ Ke7 14.
+Nxc8+ Qxc8 15. Bc4 Re8 16. Qf3 Kf8+ 17. Ne2 Kg7 18. O-O Qg4 19. Qd3 Rad8
+20. Qc2 Nc7 21. Rad1 Qe4 22. Qc1 Ne6 23. Ng3 Qf4 24. Rxd8 Qxc1 25. Rxc1
+Nxd8 26. Kf1 Nb7 27. Ba6 Nd6 28. Rxc5 h5 29. f3 h4 30. Ne2 Rb8 31. Bd3 Ra8
+32. Nc1 Rc8 33. Rxc8 Nxc8 34. Bc4 Nd6 35. Bb3 Nf5 36. Kf2 Ne7 37. Nd3 Nfd5
+38. Ne5 Kf6 39. Ng4+ Ke6 40. Ne3 Kd6 41. Nxd5 Nxd5 42. Bxd5 Kxd5 43. Ke3
+Kc4 44. f4 f6 45. Kf3 Kd3 46. a4 Kc4 47. Kg4 Kb3 48. a5 Kxb2 49. a6 b3 50.
+a7 1-0
+

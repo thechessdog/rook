@@ -1,0 +1,17 @@
+[Event "England"]
+[Site "England"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Gedult, David"]
+[Black "Ericksson"]
+[Result "1-0"]
+[ECO "B54"]
+[Opening "Sicilian"]
+[Variation "Prins (Moscow) variation"]
+[HashCode "510c1131"]
+[Epoch "Rook"]
+[WhiteCountry "POL"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. f3 e5 6. Nb5 Nxe4 7. fxe4 Qh4+ 8.
+g3 Qxe4+ 9. Kf2 Qxh1 10. Nxd6+ Ke7 11. Nxc8+ Kf6 12. Qd8+ Ke6 13. Bc4+ Kf5 14.
+Qg5+ Ke4 15. Qg4# 1-0

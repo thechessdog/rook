@@ -1,0 +1,19 @@
+[Event "corr EU"]
+[Site "corr EU"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Malyszko"]
+[Black "Hallier"]
+[Result "1-0"]
+[ECO "B97"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7...Qb6"]
+[HashCode "411e2134"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qb6 8.
+Nb3 Be7 9. Qf3 Qc7 10. Bd3 Nbd7 11. O-O-O h6 12. Bh4 b5 13. Bf2 Bb7 14. a3
+O-O-O 15. Rhe1 Nc5 16. Kb1 Nxd3 17. cxd3 Kd7 18. Qe2 Rc8 19. Rc1 Qb8 20. g4
+Bc6 21. Na2 Bd8 22. Nb4 a5 23. Nxc6 Rxc6 24. Rxc6 Kxc6 25. Nd4+ Kd7 26. Rc1
+Bb6 27. h3 Rc8 28. Rxc8 1-0
+

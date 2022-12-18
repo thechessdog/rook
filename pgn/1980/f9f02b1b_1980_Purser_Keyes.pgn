@@ -1,0 +1,16 @@
+[Event "Hahn"]
+[Site "Hahn"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Purser, Tom"]
+[Black "Keyes"]
+[Result "1-0"]
+[ECO "D00"]
+[Opening "Blackmar-Diemer gambit"]
+[HashCode "f9f02b1b"]
+[Epoch "Rook"]
+[WhiteCountry "USA"]
+
+1. d4 Nf6 2. Nc3 d5 3. e4 dxe4 4. f3 exf3 5. Nxf3 Bg4 6. h3 Bh5 7. Bc4 e6 8. g4
+Bg6 9. Qe2 Bd6 10. Bg5 O-O 11. Ne5 c6 12. O-O-O Nbd7 13. h4 h6 14. Nxg6 fxg6
+15. Qxe6+ Kh8 16. Qxd6 hxg5 17. hxg5+ Nh7 18. Rxh7+ Kxh7 19. Rh1# 1-0

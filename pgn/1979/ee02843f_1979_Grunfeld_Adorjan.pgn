@@ -1,0 +1,20 @@
+[Event "FIDE (31) 1979-1981"]
+[Site "Riga izt"]
+[Date "1979.09.01"]
+[Round "1"]
+[White "Gruenfeld, Yehuda"]
+[Black "Adorjan, Andras"]
+[Result "1/2-1/2"]
+[ECO "B33"]
+[Opening "Sicilian"]
+[Variation "Pelikan, Chelyabinsk variation"]
+[HashCode "ee02843f"]
+[Epoch "Rook"]
+[WhiteID "2800020"]
+[BlackID "700096"]
+[WhiteCountry "ISR"]
+[BlackCountry "HUN"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e6 6. Ndb5 d6 7. Bf4 e5 8.
+Bg5 a6 9. Na3 b5 10. Nd5 Be7 11. Nxe7 Qxe7 12. Bd3 O-O 13. O-O h6 14. Bh4 Bb7
+15. c3 Qe6 1/2-1/2

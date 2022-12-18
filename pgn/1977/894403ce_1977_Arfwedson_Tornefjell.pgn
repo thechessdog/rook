@@ -1,0 +1,16 @@
+[Event "corr ch-SWE"]
+[Site "corr ch-SWE"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Arfwedson, Gerhard"]
+[Black "Tornefjell, Bjorn"]
+[Result "0-1"]
+[ECO "C00"]
+[Opening "French"]
+[Variation "Schlechter variation"]
+[HashCode "894403ce"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Bd3 dxe4 4. Bxe4 Nf6 5. Bd3 c5 6. dxc5 Bxc5 7. Nf3 Nc6
+8. Bf4 Nb4 9. Bb5+ Bd7 10. Qe2 Nxc2+ 11. Qxc2 Qa5+ 0-1
+

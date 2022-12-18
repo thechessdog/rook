@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Marella"]
+[Black "Cottarelli"]
+[Result "1-0"]
+[ECO "B18"]
+[Opening "Caro-Kann"]
+[Variation "classical variation"]
+[HashCode "be906cd0"]
+[Epoch "Rook"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. Nf3 Nd7 7. Bd3 Ngf6
+8. O-O Qc7 9. c4 e6 10. Re1 O-O-O 11. Bg5 Be7 12. Bxg6 hxg6 13. Qa4 Kb8 14.
+b4 Rh7 15. c5 Rdh8 16. b5 cxb5 17. Qxb5 Ka8 18. Rab1 a6 19. Qa4 Nb8 20. Rb3
+Qc6 21. Qa3 Nbd7 22. Reb1 Nxc5 23. Bxf6 gxf6 24. dxc5 Bxc5 25. Qb2 b6 26.
+Qxf6 Qd6 27. Ng5 Rxh2 28. Nxf7 1-0
+

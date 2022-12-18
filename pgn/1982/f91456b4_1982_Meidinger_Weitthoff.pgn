@@ -1,0 +1,17 @@
+[Event "Dayton,OH"]
+[Site "Dayton,OH"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Meidinger, C."]
+[Black "Weitthoff, James"]
+[Result "1-0"]
+[ECO "C60"]
+[Opening "Ruy Lopez"]
+[Variation "fianchetto (Smyslov/Barnes) defence"]
+[HashCode "f91456b4"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 g6 4. d4 exd4 5. Bg5 f6 6. Bh4 Bb4+ 7. Nbd2 Nh6
+8. O-O O-O 9. Nb3 d5 10. exd5 Qxd5 11. Qd3 Ne5 12. Nxe5 Qxe5 13. Qc4+ Be6
+14. Qxb4 1-0
+

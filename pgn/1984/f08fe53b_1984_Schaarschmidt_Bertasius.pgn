@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Schaarschmidt"]
+[Black "Bertasius"]
+[Result "1-0"]
+[ECO "A59"]
+[Opening "Benko gambit"]
+[Variation "Ne2 variation"]
+[HashCode "f08fe53b"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. bxa6 Bxa6 6. Nc3 d6 7. e4 Bxf1 8.
+Kxf1 g6 9. Nge2 Bg7 10. h3 O-O 11. Kg1 Qb6 12. Kh2 Na6 13. Be3 Rfb8 14. Rb1
+Nc7 15. b4 Qa7 16. bxc5 dxc5 17. Qc2 Nd7 18. Rxb8+ Rxb8 19. Rb1 Rc8 20. Qa4
+1-0
+

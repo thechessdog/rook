@@ -1,0 +1,21 @@
+[Event "Helsingor"]
+[Site "Helsingor"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Norregaard, Christoffer"]
+[Black "Andersen, Ib"]
+[Result "1-0"]
+[ECO "B93"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.f4"]
+[HashCode "bb7ca398"]
+[Epoch "Rook"]
+[BlackID "1401130"]
+[BlackCountry "DEN"]
+[WhiteID "1401025"]
+[WhiteCountry "DEN"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 e5 7. Nf5 d5 8. Ne3
+d4 9. fxe5 Ng8 10. Bc4 Nc6 11. O-O Nh6 12. Ned5 dxc3 13. Bxh6 cxb2 14. Nf6+
+gxf6 15. Bxf7+ Kxf7 16. Qh5+ Ke7 17. exf6+ Ke6 18. Qf5+ Kf7 19. Qh5+ Ke6 20.
+Rad1 Qb6+ 21. Kh1 1-0

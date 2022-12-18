@@ -1,0 +1,18 @@
+[Event "Dayton,OH"]
+[Site "Dayton,OH"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Gatto"]
+[Black "George"]
+[Result "1-0"]
+[ECO "C78"]
+[Opening "Ruy Lopez"]
+[Variation "Moeller defence"]
+[HashCode "4917419f"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Bc5 6. c3 Nxe4 7. d4 exd4
+8. cxd4 Be7 9. d5 Nb8 10. Re1 Nd6 11. Qe2 b5 12. Bb3 c6 13. Bg5 f6 14. Bf4
+Kf8 15. Nc3 b4 16. dxc6 dxc6 17. Rad1 bxc3 18. Bxd6 Bxd6 19. Rxd6 Bd7 20.
+Qc4 1-0
+

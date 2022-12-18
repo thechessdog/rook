@@ -1,0 +1,18 @@
+[Event "Massachusetts"]
+[Site "Massachusetts"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Pryeor, W."]
+[Black "Curdo"]
+[Result "0-1"]
+[ECO "C69"]
+[Opening "Ruy Lopez"]
+[Variation "exchange, Bronstein variation"]
+[HashCode "ffbcdede"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O Qd6 6. d4 exd4 7. Qxd4
+Qxd4 8. Nxd4 Bd7 9. Nc3 O-O-O 10. Be3 Ne7 11. Rad1 Ng6 12. Rfe1 f6 13. f3
+Ne5 14. Nce2 g6 15. Kf2 Bg7 16. c3 c5 17. Nc2 b6 18. b3 f5 19. Ng3 c4 20.
+bxc4 Ba4 0-1
+

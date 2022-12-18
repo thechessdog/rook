@@ -1,0 +1,17 @@
+[Event "Tubingen"]
+[Site "Tubingen"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Kellermann"]
+[Black "Schlenker, Rainer"]
+[Result "0-1"]
+[ECO "B06"]
+[Opening "Robatsch (modern) defence"]
+[HashCode "ce45e1f6"]
+[Epoch "Rook"]
+[BlackID "4605837"]
+[BlackCountry "GER"]
+
+1. e4 g6 2. f4 d5 3. e5 h5 4. d4 Nh6 5. Nf3 Bg4 6. Be2 Nf5 7. c3 e6 8. O-O Be7
+9. Nbd2 c5 10. Qa4+ Kf8 11. Rf2 Nc6 12. h3 Qb6 13. hxg4 hxg4 14. Ng5 g3 15. Rf3
+cxd4 16. Qb3 d3+ 17. Qxb6 dxe2 18. Qf2 Rh1+ 19. Kxh1 gxf2 0-1

@@ -1,0 +1,20 @@
+[Event "corr NLD/M"]
+[Site "corr NLD/M"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Gieske"]
+[Black "Schellingerhout"]
+[Result "1-0"]
+[ECO "E77"]
+[Opening "King's Indian"]
+[Variation "Four pawns attack, Florentine gambit"]
+[HashCode "9df3fdb0"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f4 c5 6. d5 O-O 7. Be2 e6 8. Nf3
+exd5 9. e5 dxe5 10. fxe5 Ng4 11. Bg5 Qa5 12. cxd5 Nxe5 13. O-O Nxf3+ 14.
+Bxf3 Nd7 15. d6 f6 16. Bf4 Qb4 17. Qd2 Nb6 18. a3 Qd4+ 19. Qxd4 cxd4 20.
+Nb5 g5 21. Bd2 g4 22. Bd1 f5 23. Bb3+ Kh8 24. Rad1 Bd7 25. Nc7 Rad8 26. Bg5
+Bf6 27. Bh6 Bg7 28. Bg5 Bf6 29. Bf4 Kg7 30. Rfe1 Nc8 31. Bd5 b6 32. b4 Kg6
+33. Ne6 Bxe6 34. Rxe6 Rf7 35. Bc6 Kg7 36. Re8 1-0
+

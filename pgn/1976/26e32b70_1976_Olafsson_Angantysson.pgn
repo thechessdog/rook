@@ -1,0 +1,20 @@
+[Event "Reykjavik"]
+[Site "Reykjavik"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Olafsson, Helgi"]
+[Black "Angantysson, Haukur"]
+[Result "1/2-1/2"]
+[ECO "E97"]
+[Opening "King's Indian"]
+[Variation "orthodox, Aronin-Taimanov variation (Yugoslav attack / Mar del Plata variation)"]
+[HashCode "26e32b70"]
+[Epoch "Rook"]
+[WhiteID "2300010"]
+[WhiteCountry "ISL"]
+[BlackCountry "ISL"]
+
+1. c4 g6 2. e4 Bg7 3. d4 d6 4. Nc3 Nf6 5. Be2 O-O 6. Nf3 e5 7. O-O Nc6 8. d5
+Ne7 9. Bd2 Ne8 10. Rc1 f5 11. Ne1 Nf6 12. f3 f4 13. Nd3 g5 14. c5 Ng6 15. cxd6
+cxd6 16. Nb5 Rf7 17. Qc2 g4 18. Nc7 gxf3 19. gxf3 Bh3 20. Nxa8 Nxe4 21. fxe4
+Qg5+ 22. Kf2 Qh4+ 1/2-1/2

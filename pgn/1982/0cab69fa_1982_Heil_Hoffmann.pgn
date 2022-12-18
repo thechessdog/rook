@@ -1,0 +1,27 @@
+[Event "Bundesliga 8182"]
+[Site "Duitsland tt"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Heil, Siegfried"]
+[Black "Hoffmann, Hans"]
+[Result "0-1"]
+[ECO "B86"]
+[Opening "Sicilian"]
+[Variation "Sozin attack"]
+[HashCode "0cab69fa"]
+[Epoch "Rook"]
+[WhiteID "4600835"]
+[WhiteCountry "GER"]
+[BlackID "4602536"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bc4 a6 7. Bb3 Nc6 8. Be3
+Qc7 9. Qe2 b5 10. O-O-O Na5 11. Bg5 Nxb3+ 12. axb3 Be7 13. f4 h6 14. Bh4 Bb7
+15. f5 b4 16. Na4 e5 17. Bxf6 Bxf6 18. Nf3 Qc6 19. Rhe1 Rc8 20. Qf2 Bd8 21. g4
+a5 22. Kb1 Ba6 23. h4 Bb5 24. Rd2 f6 25. g5 hxg5 26. hxg5 fxg5 27. Qg3 Rh6 28.
+Nxg5 Bxg5 29. Qxg5 Rc7 30. f6 Rxf6 31. Qh5+ Kf8 32. Rg2 Rcf7 33. Qh8+ Ke7 34.
+Rxg7 Bxa4 35. bxa4 Qxa4 36. Rxf7+ Rxf7 37. Qh4+ Kd7 38. Qg4+ Kc7 39. Qe6 Rd7
+40. Qd5 Kb6 41. Qe6 Qc6 42. Rd1 a4 43. Qe8 Kc7 44. Qg6 Kb7 45. Qg2 Qb6 46. Rd3
+Rc7 47. Qd2 Rc6 48. b3 axb3 49. Rxb3 Rc4 50. Qd5+ Qc6 51. Qd2 Qxe4 52. Rd3 Rd4
+53. Kb2 Kc6 54. Kb3 Qd5+ 55. Kb2 Rxd3 56. cxd3 Qd4+ 57. Kb3 Qc3+ 58. Qxc3+ bxc3
+59. Kxc3 Kd5 0-1

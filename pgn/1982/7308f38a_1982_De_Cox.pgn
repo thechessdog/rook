@@ -1,0 +1,20 @@
+[Event "London"]
+[Site "London"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "De Jong, Tom"]
+[Black "Cox"]
+[Result "1-0"]
+[ECO "A08"]
+[Opening "Reti"]
+[Variation "King's Indian attack, French variation"]
+[HashCode "7308f38a"]
+[Epoch "Rook"]
+[WhiteID "1000543"]
+[WhiteCountry "NED"]
+
+1. e4 e6 2. d3 d5 3. Nd2 Nf6 4. Ngf3 c5 5. g3 Be7 6. Bg2 Nc6 7. O-O O-O 8. Re1
+b5 9. e5 Nd7 10. Nf1 a5 11. Bf4 b4 12. h4 a4 13. a3 bxa3 14. bxa3 Nd4 15. Ne3
+Rb8 16. c4 dxc4 17. Nxc4 Ba6 18. Qxa4 Bxc4 19. dxc4 Nb6 20. Qa6 Nc2 21. Red1
+Nxa1 22. Rxd8 Rfxd8 23. a4 Nc2 24. Qa7 Re8 25. Nd2 Bf8 26. a5 Na8 27. Bc6 Red8
+28. Bg5 Nd4 29. Bd7 1-0

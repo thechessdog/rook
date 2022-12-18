@@ -1,0 +1,19 @@
+[Event "Esquel"]
+[Site "Esquel"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Alvarez, Ernesto"]
+[Black "Martinez, Carlos"]
+[Result "0-1"]
+[ECO "A75"]
+[Opening "Benoni"]
+[Variation "classical with ...a6 and 10...Bg4"]
+[HashCode "deb675b8"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. Nf3 Bg7 8. Be2
+a6 9. a4 O-O 10. O-O Bg4 11. h3 Bxf3 12. Bxf3 Nbd7 13. Bf4 Qc7 14. Bh2 Rfe8 15.
+Qc2 h6 16. Rae1 Re7 17. g3 Rb8 18. Bg2 c4 19. f4 b5 20. axb5 axb5 21. Bf3 Rbe8
+22. Qf2 Qb8 23. e5 dxe5 24. d6 Re6 25. fxe5 Nxe5 26. Rxe5 Rxe5 27. g4 b4 28. d7
+Nxd7 29. Bc6 bxc3 30. Qxf7+ Kh7 31. Qxd7 Qb6+ 32. Kh1 R8e7 33. Qc8 Rc5 34. Bd6
+Rxc6 0-1

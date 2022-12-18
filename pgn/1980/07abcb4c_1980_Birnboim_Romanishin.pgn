@@ -1,0 +1,23 @@
+[Event "Skara etc"]
+[Site "Skara etc"]
+[Date "1980.01.01"]
+[Round "6"]
+[White "Birnboim, Nathan"]
+[Black "Romanishin, Oleg M"]
+[Result "1-0"]
+[ECO "A29"]
+[Opening "English"]
+[Variation "four knights, kingside fianchetto"]
+[HashCode "07abcb4c"]
+[Epoch "Rook"]
+[WhiteID "2800209"]
+[WhiteCountry "ISR"]
+[BlackID "14100088"]
+[BlackCountry "UKR"]
+
+1. c4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. g3 g6 5. d4 exd4 6. Nxd4 Ne5 7. Bf4 d6 8. Bg2
+Bg7 9. Ndb5 a6 10. Bxe5 dxe5 11. Qxd8+ Kxd8 12. O-O-O+ Nd7 13. Na3 c6 14. Rd2
+Kc7 15. Ne4 Nf6 16. Nd6 Be6 17. Rhd1 Rhd8 18. c5 Nd5 19. Nac4 Rab8 20. e4 Nf6
+21. Kb1 Nd7 22. b4 Bf6 23. a3 b6 24. cxb6+ Nxb6 25. Na5 c5 26. Ka1 Bg5 27. f4
+exf4 28. e5 f3 29. Rc2 Nd7 30. Bxf3 Bh6 31. Nc6 Bb3 32. Nxb8 Bxc2 33. Nxa6+ Kb6
+34. Nc8+ Rxc8 35. Rxd7 cxb4 36. Nxb4 Bf5 37. Rd6+ Kb5 38. Kb2 1-0

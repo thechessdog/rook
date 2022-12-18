@@ -1,0 +1,19 @@
+[Event "Baile Herculane zt"]
+[Site "Baile Herculane zt"]
+[Date "1982.01.01"]
+[Round "10"]
+[White "Gheorghiu, Florin"]
+[Black "Suba, Mihai"]
+[Result "1/2-1/2"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Nimzovich (knight's tour) variation"]
+[HashCode "5cf3fd7c"]
+[Epoch "Rook"]
+[WhiteID "1200011"]
+[WhiteCountry "ROU"]
+[BlackID "1203363"]
+[BlackCountry "ESP"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. Nd2 Nbd7 8. e4
+Bg7 9. Be2 O-O 10. O-O Re8 11. a4 g5 1/2-1/2

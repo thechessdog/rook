@@ -1,0 +1,23 @@
+[Event "corr DDR-FSM"]
+[Site "corr DDR-FSM"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Just, J."]
+[Black "Strickert, H."]
+[Result "1-0"]
+[ECO "B19"]
+[Opening "Caro-Kann"]
+[Variation "classical, Spassky variation"]
+[HashCode "e39fc837"]
+[Epoch "Rook"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6 7. Nf3 Nd7 8.
+h5 Bh7 9. Bd3 Bxd3 10. Qxd3 Qc7 11. Bd2 Ngf6 12. Qe2 e6 13. c4 Bd6 14. Nf5
+Bf4 15. Bxf4 Qxf4 16. Ne3 Qc7 17. O-O-O O-O-O 18. c5 Rhe8 19. Nc4 Re7 20.
+Nd6+ Kb8 21. Rd3 Ne8 22. Nc4 Nef6 23. g3 Nd5 24. Qd2 b6 25. b4 b5 26. Nd6
+a5 27. bxa5 Qa7 28. Kb1 Kc7 29. Rb3 Qa6 30. Rc1 Ra8 31. a4 b4 32. Nc4 Nc3+
+33. Rcxc3 bxc3 34. Qxc3 Nf6 35. Rb6 Nd5 36. Qb3 Nxb6 37. cxb6+ Kd8 38. Nfe5
+Rc8 39. Nd3 Qa8 40. Nc5 Qb8 41. a6 Ra7 42. bxa7 Qxb3+ 43. Nxb3 Kc7 44. Nc5
+Ra8 45. Kc2 Rxa7 46. Kc3 Kb8 47. Kb4 f6 48. Ka5 Re7 49. Kb6 e5 50. dxe5
+fxe5 51. Nxe5 Ka8 52. f4 1-0
+

@@ -1,0 +1,16 @@
+[Event "Statesville,NC"]
+[Site "Statesville,NC"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Wall, Bill"]
+[Black "Bryan, Chandler"]
+[Result "1-0"]
+[ECO "C21"]
+[Opening "Danish gambit"]
+[HashCode "37441e05"]
+[Epoch "Rook"]
+[WhiteCountry "USA"]
+
+1. e4 e5 2. d4 exd4 3. c3 dxc3 4. Bc4 cxb2 5. Bxb2 Bb4+ 6. Nc3 Nc6 7. Nf3 Nf6
+8. Qc2 O-O 9. e5 Ng4 10. O-O-O Bc5 11. h4 Nxf2 12. Ng5 g6 13. e6 Nxh1 14. exf7+
+Kg7 15. Ne6+ 1-0

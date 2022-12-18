@@ -1,0 +1,23 @@
+[Event "Odense"]
+[Site "Odense"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Hansen, Curt"]
+[Black "Knudsen, Ole"]
+[Result "1-0"]
+[ECO "C29"]
+[Opening "Vienna gambit"]
+[Variation "Breyer variation"]
+[HashCode "ad23a1a2"]
+[Epoch "Rook"]
+[BlackID "1410830"]
+[WhiteID "1400010"]
+[WhiteCountry "DEN"]
+[BlackCountry "DEN"]
+
+1. e4 e5 2. Nc3 Nf6 3. f4 d5 4. fxe5 Nxe4 5. Nf3 Be7 6. Qe2 f5 7. d3 Nc5 8. Be3
+Ne6 9. d4 O-O 10. O-O-O c6 11. g3 b5 12. Qd2 Nd7 13. Ne2 Nb6 14. Nf4 Nc4 15.
+Bxc4 bxc4 16. Kb1 Rb8 17. Ka1 Bb4 18. c3 Be7 19. Nxe6 Bxe6 20. Bg5 Rb7 21. Rhf1
+Qd7 22. Bxe7 Qxe7 23. Qg5 Qe8 24. Nh4 Rbf7 25. Rd2 Qc8 26. Rdf2 Qd7 27. Ng2 Qc8
+28. Nf4 Qd7 29. h4 Qc8 30. g4 Bd7 31. Nh5 g6 32. Nf6+ Kh8 33. h5 gxh5 34. gxf5
+Rg7 35. Qxh5 1-0

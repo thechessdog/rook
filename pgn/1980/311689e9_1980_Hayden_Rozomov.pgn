@@ -1,0 +1,16 @@
+[Event "Moscow"]
+[Site "Moscow"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Hayden"]
+[Black "Rozomov"]
+[Result "1-0"]
+[ECO "B30"]
+[Opening "Sicilian defence"]
+[HashCode "311689e9"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 Nc6 3. b4 cxb4 4. d4 d5 5. exd5 Qxd5 6. c4 bxc3 7. Nxc3 Qd8
+8. d5 Nb8 9. Bc4 Nf6 10. O-O g6 11. Re1 Bg7 12. d6 e6 13. Nb5 Na6 14. d7+
+Nxd7 15. Nd6+ Kf8 16. Nxf7 Kxf7 17. Bxe6+ Kf8 18. Ba3+ 1-0
+

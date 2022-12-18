@@ -1,0 +1,20 @@
+[Event "Bundesliga 8081"]
+[Site "Duitsland tt"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Ackermann, Hans Werner"]
+[Black "Jacoby, Gisbert"]
+[Result "1/2-1/2"]
+[ECO "B52"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky attack, Sokolsky variation"]
+[HashCode "539f9821"]
+[Epoch "Rook"]
+[WhiteID "4605918"]
+[WhiteCountry "GER"]
+[BlackID "4604768"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Qxd7 5. c4 e5 6. Nc3 Nc6 7. d3 g6 8.
+O-O Bg7 9. a3 Nge7 10. Rb1 a5 11. Bg5 f6 12. Bd2 O-O 13. Nb5 f5 14. Bg5 Bf6 15.
+Bh6 Bg7 16. Bg5 Bf6 17. Bh6 Bg7 1/2-1/2

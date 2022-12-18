@@ -1,0 +1,17 @@
+[Event "Capablanca mem-B"]
+[Site "Cienfuegos"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Pinal, Nelson Borges"]
+[Black "Garcia Gonzales, Guillermo"]
+[Result "1-0"]
+[ECO "C77"]
+[Opening "Ruy Lopez"]
+[Variation "Morphy defence"]
+[HashCode "8081483f"]
+[Epoch "Rook"]
+[BlackCountry "CUB"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. d4 exd4 6. O-O Be7 7. e5 Nd5 8.
+Nxd4 Nxd4 9. Qxd4 Nb6 10. Bb3 O-O 11. Bf4 c5 12. Qd3 Qc7 13. c4 Qc6 14. Nc3 Qg6
+15. Qxg6 hxg6 16. Rad1 Re8 17. a4 Ra7 18. Rc1 Na8 19. Nd5 Bd8 1-0

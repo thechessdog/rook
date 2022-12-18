@@ -1,0 +1,27 @@
+[Event "BL2-N 8283"]
+[Site "BL2-N 8283"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Anbuhl, Edgar"]
+[Black "Rostalski, Walter"]
+[Result "1-0"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical system, 5.Be2"]
+[HashCode "e12cb629"]
+[Epoch "Rook"]
+[BlackID "4605225"]
+[BlackCountry "GER"]
+[WhiteID "4607252"]
+[WhiteCountry "GER"]
+
+1. e4 g6 2. d4 Bg7 3. Nf3 d6 4. Nc3 Nf6 5. Be2 O-O 6. O-O Bg4 7. Be3 Nc6 8. Qd2
+e5 9. dxe5 dxe5 10. Rad1 Nd7 11. Nd5 Bxf3 12. Bxf3 Nd4 13. Bg4 c6 14. Nc3 Nf6
+15. Be2 Qe7 16. Bd3 Rad8 17. f3 Rd7 18. Qf2 Rfd8 19. Rd2 Nh5 20. Rfd1 Bf6 21.
+Nb1 Bh4 22. g3 Bg5 23. c3 Ne6 24. Bf1 Bxe3 25. Qxe3 Qc5 26. Kf2 Rxd2+ 27. Rxd2
+Rxd2+ 28. Nxd2 Qxe3+ 29. Kxe3 Kf8 30. Nc4 f6 31. Nd6 Nd8 32. b4 Ng7 33. Bc4 Ne8
+34. Nc8 a6 35. a4 Nf7 36. a5 Nfd6 37. Nxd6 Nxd6 38. Bb3 Ke7 39. Bg8 h6 40. Bb3
+Nb5 41. Kd3 Kd6 42. Bf7 g5 43. Bb3 Nc7 44. Kc4 Ne6 45. Kd3 Nd8 46. Ba2 c5 47.
+Bd5 cxb4 48. cxb4 f5 49. Kc4 fxe4 50. Bxe4 Nc6 51. Bf5 Nd4 52. Be4 Nc6 53. Bxc6
+Kxc6 54. h3 h5 55. h4 gxh4 56. gxh4 Kd6 57. b5 e4 58. bxa6 bxa6 59. fxe4 Ke5
+60. Kd3 Kf4 61. Kd4 Kg4 62. e5 1-0

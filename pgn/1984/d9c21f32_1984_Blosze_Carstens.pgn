@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Blosze, W."]
+[Black "Carstens, H."]
+[Result "1-0"]
+[ECO "C24"]
+[Opening "Bishop's opening"]
+[Variation "Urusov gambit"]
+[HashCode "d9c21f32"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Bc4 Nf6 3. d4 exd4 4. Nf3 Nxe4 5. Qxd4 Nf6 6. Bg5 Be7 7. Nc3 c6
+8. O-O-O d5 9. Rhe1 Be6 10. Qh4 Nbd7 11. Bd3 Nf8 12. Nd4 Ng8 13. Bxe7 Nxe7
+14. f4 g6 15. Qf6 Rg8 16. g4 Qd6 17. f5 gxf5 18. Bxf5 Qf4+ 19. Kb1 Qg5 20.
+Qe5 O-O-O 21. Ndb5 1-0
+

@@ -1,0 +1,21 @@
+[Event "Banco di Roma"]
+[Site "Banco di Roma"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Sibilio, Mario"]
+[Black "Skembris, Spyridon"]
+[Result "1-0"]
+[ECO "D02"]
+[Opening "Queen's pawn game, Chigorin variation"]
+[HashCode "fc8a499f"]
+[Epoch "Rook"]
+[WhiteID "800422"]
+[WhiteCountry "ITA"]
+[BlackID "4200020"]
+[BlackCountry "GRE"]
+
+1. Nf3 Nc6 2. d4 d5 3. g3 Bf5 4. Bg2 Qd7 5. c4 dxc4 6. d5 O-O-O 7. Nc3 Nb4 8.
+Ne5 Qe8 9. e4 e6 10. a3 exd5 11. axb4 dxe4 12. Qa4 Qxe5 13. Qxa7 Bxb4 14. Qa8+
+Kd7 15. Qa4+ b5 16. Qxb4 Rb8 17. O-O Ne7 18. Rd1+ Kc8 19. Bf4 Nc6 20. Qa3 Qe6
+21. Qa6+ Rb7 22. Rd6 Qxd6 23. Bxd6 Nb8 24. Qa5 cxd6 25. Nxb5 Rd8 26. Nxd6+ Rxd6
+27. Qxf5+ Kd8 28. Bxe4 Rxb2 29. Qg5+ f6 30. Qxg7 1-0

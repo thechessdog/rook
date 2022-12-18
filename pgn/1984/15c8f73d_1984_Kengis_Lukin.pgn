@@ -1,0 +1,23 @@
+[Event "Sverdlovsk"]
+[Site "Sverdlovsk"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Kengis, Edvins"]
+[Black "Lukin, Andrei M"]
+[Result "1-0"]
+[ECO "B89"]
+[Opening "Sicilian"]
+[Variation "Velimirovic attack"]
+[HashCode "15c8f73d"]
+[Epoch "Rook"]
+[WhiteID "11600039"]
+[WhiteCountry "LAT"]
+[BlackID "4101251"]
+[BlackCountry "RUS"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bc4 e6 7. Be3 Be7 8.
+Qe2 a6 9. O-O-O Qc7 10. Bb3 O-O 11. Kb1 Na5 12. g4 Nxb3 13. axb3 b5 14. g5 Nd7
+15. h4 b4 16. Na2 Bb7 17. Nxb4 a5 18. Na2 a4 19. b4 Bxe4 20. Rhg1 Bd5 21. Nb5
+Qb7 22. Rxd5 exd5 23. Rd1 Ne5 24. Nbc3 d4 25. Rxd4 Nc6 26. Re4 d5 27. Nxd5 Bd6
+28. Bd2 Rab8 29. c4 Qd7 30. b5 Nd8 31. Nab4 Qf5 32. Ka2 Qh3 33. Bc3 Ne6 34. Nc6
+Rb7 35. Qg4 Qd3 36. Nf6+ gxf6 37. gxf6+ Kh8 38. Rxe6 fxe6 39. Ne7 1-0

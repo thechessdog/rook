@@ -1,0 +1,19 @@
+[Event "corr ch10-DDR"]
+[Site "corr ch10-DDR"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Hahn, K."]
+[Black "Fiensch, G."]
+[Result "1/2-1/2"]
+[ECO "B43"]
+[Opening "Sicilian"]
+[Variation "Kan, 5.Nc3"]
+[HashCode "df1815dd"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 Qc7 6. g3 Nc6 7. Bg2 Nf6 8.
+O-O Be7 9. Nce2 O-O 10. c4 Rd8 11. Nc3 d6 12. Nxc6 bxc6 13. Qe2 a5 14. Bf4
+e5 15. Be3 Rb8 16. h3 Ba6 17. Rfd1 a4 18. b3 axb3 19. axb3 Ra8 20. Ra4 Bb7
+21. Rda1 Nd7 22. b4 Nb6 23. Rxa8 Rxa8 24. Rxa8+ Nxa8 25. Qa2 Nb6 26. Qa5
+Bd8 27. Bf1 Nd7 28. Qa2 Nf8 29. Qd2 Ne6 30. c5 Be7 31. cxd6 1/2-1/2
+

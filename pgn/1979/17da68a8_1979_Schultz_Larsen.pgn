@@ -1,0 +1,18 @@
+[Event "Hillerod"]
+[Site "Hillerod"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Schultz, Jesper"]
+[Black "Larsen, Ole"]
+[Result "0-1"]
+[ECO "B23"]
+[Opening "Sicilian"]
+[Variation "closed"]
+[HashCode "17da68a8"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nc3 g6 3. f4 Bg7 4. Nf3 d6 5. Bb5+ Bd7 6. a4 e6 7. O-O Ne7 8.
+d3 O-O 9. e5 d5 10. g4 Nbc6 11. Ne2 f6 12. c3 d4 13. cxd4 cxd4 14. exf6
+Bxf6 15. Ng3 Nd5 16. Ne4 Bg7 17. Nfg5 h6 18. Nh3 Qh4 19. Qf3 Ne5 20. Qg2
+Bxb5 21. Nc5 Bc6 22. fxe5 Ne3 0-1
+

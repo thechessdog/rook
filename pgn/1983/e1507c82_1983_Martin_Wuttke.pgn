@@ -1,0 +1,19 @@
+[Event "corr DDR/FS"]
+[Site "corr DDR/FS"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Martin, Pedro"]
+[Black "Wuttke"]
+[Result "1-0"]
+[ECO "C15"]
+[Opening "French"]
+[Variation "Winawer (Nimzovich) variation"]
+[HashCode "e1507c82"]
+[Epoch "Rook"]
+[WhiteID "108383"]
+[WhiteCountry "ARG"]
+
+1. d4 e6 2. e4 d5 3. Nc3 Bb4 4. a3 Bxc3+ 5. bxc3 dxe4 6. Qg4 Nf6 7. Qxg7 Rg8 8.
+Qh6 c5 9. Ne2 Rg6 10. Qd2 Nbd7 11. g3 b5 12. Nf4 Rg8 13. Bxb5 Bb7 14. O-O Qc7
+15. Re1 O-O-O 16. Qe2 e5 17. Ng2 cxd4 18. cxd4 exd4 19. Bf4 Ne5 20. Ba6 Nfg4
+21. Rab1 d3 22. Bxb7+ Qxb7 23. cxd3 Nf3+ 24. Kh1 exd3 25. Rec1+ 1-0

@@ -1,0 +1,18 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Podewski"]
+[Black "Mittag"]
+[Result "1-0"]
+[ECO "E86"]
+[Opening "King's Indian"]
+[Variation "Saemisch, orthodox, 7.Nge2 c6"]
+[HashCode "0c94ddf9"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 e5 7. Nge2 c6 8.
+Qd2 a6 9. d5 cxd5 10. cxd5 b5 11. Ng3 Ne8 12. Bh6 f5 13. exf5 gxf5 14. Bxg7
+Nxg7 15. O-O-O b4 16. Nce2 a5 17. Kb1 Na6 18. h4 f4 19. Ne4 Nf5 20. g3 fxg3
+21. N2xg3 Nd4 22. Qh6 Bf5 23. Rxd4 1-0
+

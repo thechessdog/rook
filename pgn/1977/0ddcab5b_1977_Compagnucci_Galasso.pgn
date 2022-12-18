@@ -1,0 +1,18 @@
+[Event "corr Italy"]
+[Site "corr Italy"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Compagnucci"]
+[Black "Galasso"]
+[Result "0-1"]
+[ECO "C58"]
+[Opening "two knights defence"]
+[Variation "Yankovich variation"]
+[HashCode "0ddcab5b"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 Na5 6. d3 h6 7. Nf3 e4 8.
+Qe2 Nxc4 9. dxc4 Bc5 10. Nfd2 O-O 11. Nb3 Bg4 12. Qd2 e3 13. fxe3 Bxe3 14.
+Qd3 Bxc1 15. Nxc1 Re8+ 16. Kf1 Nxd5 17. Nd2 Qf6+ 18. Kg1 Re1+ 19. Nf1 Qb6+
+0-1
+

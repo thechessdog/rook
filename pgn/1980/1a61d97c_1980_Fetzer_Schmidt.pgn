@@ -1,0 +1,16 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Fetzer"]
+[Black "Schmidt, Wlodzimierz"]
+[Result "1-0"]
+[ECO "B30"]
+[Opening "Sicilian defence"]
+[HashCode "1a61d97c"]
+[Epoch "Rook"]
+[BlackID "1100041"]
+[BlackCountry "POL"]
+
+1. e4 c5 2. Nf3 Nc6 3. c3 d6 4. d4 cxd4 5. cxd4 Nf6 6. Nc3 e6 7. Bg5 Be7 8. Bd3
+Qb6 9. Na4 Qb4+ 10. Bd2 1-0

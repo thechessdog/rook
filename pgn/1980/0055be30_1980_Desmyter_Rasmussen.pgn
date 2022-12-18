@@ -1,0 +1,22 @@
+[Event "DEN-chJ int"]
+[Site "?"]
+[Date "1980.??.??"]
+[Round "?"]
+[White "Desmyter, Erik"]
+[Black "Rasmussen, Steintor"]
+[Result "1-0"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "modern variation"]
+[HashCode "0055be30"]
+[Epoch "Rook"]
+[WhiteID "215643"]
+[BlackID "7200072"]
+[WhiteCountry "BEL"]
+[BlackCountry "FAI"]
+
+1. b3 e5 2. Bb2 Nc6 3. e3 Nf6 4. Nf3 d6 5. Be2 Be7 6. c4 O-O 7. O-O e4 8. Nd4
+Ne5 9. Qc2 a6 10. b4 c5 11. bxc5 dxc5 12. Nb3 Qc7 13. h3 Bf5 14. Nc3 Rad8 15.
+Rab1 Qd7 16. Rfd1 Nf3+ 17. Kh1 Nh4 18. Bf1 Qd6 19. Ba3 b6 20. Nd4 Qd7 21. Nxf5
+Qxf5 22. d4 Bd6 23. Rxb6 Bc7 24. Rc6 cxd4 25. Rxc7 dxc3 26. Bxf8 Rxd1 27. Qxd1
+Kxf8 28. Qd6+ Ke8 29. Qe7# 1-0

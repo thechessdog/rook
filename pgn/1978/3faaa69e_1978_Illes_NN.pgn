@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Illes"]
+[Black "NN"]
+[Result "1-0"]
+[ECO "C37"]
+[Opening "KGA"]
+[Variation "Ghulam Kassim gambit"]
+[HashCode "3faaa69e"]
+[Epoch "Rook"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. Bc4 g4 5. d4 gxf3 6. Qxf3 Qh4+ 7. g3 Qf6
+8. e5 Qc6 9. Bd5 Qxc2 10. O-O Bc5 11. Qxf4 Nf6 12. Qxf6 O-O 13. Bxf7+ Rxf7
+14. Qxf7+ 1-0
+

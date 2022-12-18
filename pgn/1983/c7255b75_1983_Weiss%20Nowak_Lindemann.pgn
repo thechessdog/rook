@@ -1,0 +1,18 @@
+[Event "BL2-N 8283"]
+[Site "BL2-N 8283"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Weiss Nowak, Christian"]
+[Black "Lindemann, Sven"]
+[Result "0-1"]
+[ECO "A77"]
+[Opening "Benoni"]
+[Variation "classical, 9...Re8, 10.Nd2"]
+[HashCode "c7255b75"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. Nf3 Bg7 8. Be2
+O-O 9. O-O Re8 10. Nd2 Nbd7 11. a4 a6 12. Qc2 Ne5 13. f4 Neg4 14. Nc4 Nxe4 15.
+Bxg4 Nxc3 16. Bf3 Bf5 17. Qb3 Bd4+ 18. Be3 Bxe3+ 19. Nxe3 Rxe3 20. bxc3 Qe7 21.
+a5 Re8 22. Qb2 Bd3 23. Rfc1 Be2 24. Bxe2 Rxe2 25. Qb1 Qe3+ 26. Kh1 Qxf4 27. Rf1
+Qg5 28. Rg1 Qxd5 29. c4 Qe5 0-1

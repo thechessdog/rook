@@ -1,0 +1,21 @@
+[Event "corr USCCC"]
+[Site "corr USCCC"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Lonoff, Marc"]
+[Black "Johnson, R."]
+[Result "0-1"]
+[ECO "A28"]
+[Opening "English"]
+[Variation "four knights, 4.e3"]
+[HashCode "8d4b3667"]
+[Epoch "Rook"]
+[WhiteID "2001349"]
+[WhiteCountry "USA"]
+
+1. c4 Nf6 2. Nc3 e5 3. Nf3 Nc6 4. e3 Bb4 5. Qc2 O-O 6. Nd5 a5 7. a3 Bc5 8. Ng5
+g6 9. Nxf6+ Qxf6 10. Ne4 Qe7 11. Be2 f5 12. Nxc5 Qxc5 13. b3 d5 14. Bb2 d4 15.
+O-O Be6 16. Kh1 Rad8 17. Rfe1 Rf7 18. d3 Rfd7 19. Bf3 Bf7 20. Bxc6 Qxc6 21.
+exd4 exd4 22. Re5 Qd6 23. Rae1 b6 24. Qe2 c6 25. f4 Rb8 26. Qf2 c5 27. Qg3 b5
+28. cxb5 Rxb5 29. b4 axb4 30. axb4 Rxb4 31. Ba3 Rb5 32. Rc1 Bd5 33. Qe1 Ra7 34.
+Ra1 Rb3 35. Re8+ Kf7 36. Rc8 Rbxa3 0-1

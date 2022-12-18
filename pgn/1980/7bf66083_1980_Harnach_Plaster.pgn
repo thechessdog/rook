@@ -1,0 +1,17 @@
+[Event "USA"]
+[Site "USA"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Harnach, C."]
+[Black "Plaster, J."]
+[Result "1-0"]
+[ECO "C00"]
+[Opening "French"]
+[Variation "Alapin variation"]
+[HashCode "7bf66083"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Be3 dxe4 4. f3 Nf6 5. Nc3 Bb4 6. a3 Bxc3+ 7. bxc3 Nd5
+8. Qd2 exf3 9. Nxf3 Nxe3 10. Qxe3 Nd7 11. Bd3 Nf6 12. O-O Bd7 13. Ne5 O-O
+14. Rf3 b6 15. Raf1 Be8 16. Rxf6 gxf6 17. Qh6 f5 18. Rxf5 f6 19. Rg5+ 1-0
+

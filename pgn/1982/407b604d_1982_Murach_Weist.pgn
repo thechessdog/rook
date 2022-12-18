@@ -1,0 +1,20 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Murach"]
+[Black "Weist"]
+[Result "1/2-1/2"]
+[ECO "C07"]
+[Opening "French"]
+[Variation "Tarrasch, open variation"]
+[HashCode "407b604d"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. Ngf3 cxd4 5. exd5 Qxd5 6. Bc4 Qd6 7. O-O Nf6
+8. Nb3 Nc6 9. Nbxd4 Nxd4 10. Nxd4 a6 11. b3 Qc7 12. Qf3 Bd6 13. h3 O-O 14.
+Bd2 Bd7 15. a4 e5 16. Ne2 Bc6 17. Qe3 b5 18. Ba5 Qb8 19. Bd3 e4 20. Nd4 Bb7
+21. Be2 Nd5 22. Qc1 Qe8 23. Nf5 Be5 24. c4 Nf4 25. Ra2 Nxe2+ 26. Rxe2 Qd7
+27. Ne3 f5 28. Rd1 Qe6 29. Nd5 Rac8 30. Qa3 Bd6 31. Bb4 Bxb4 32. Qxb4 Bxd5
+33. cxd5 Qd7 34. d6 bxa4 35. Qxa4 Qxa4 36. bxa4 Rfd8 37. Rd5 1/2-1/2
+

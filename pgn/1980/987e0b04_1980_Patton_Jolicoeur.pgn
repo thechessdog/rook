@@ -1,0 +1,18 @@
+[Event "Labor Day op"]
+[Site "USA"]
+[Date "1980.??.??"]
+[Round "?"]
+[White "Patton, Samuel"]
+[Black "Jolicoeur, Robert"]
+[Result "0-1"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra gambit"]
+[HashCode "987e0b04"]
+[Epoch "Rook"]
+
+1. e4 c5 2. d4 cxd4 3. c3 dxc3 4. Nxc3 e6 5. Nf3 Nc6 6. Bc4 a6 7. O-O Nge7
+8. Be3 Ng6 9. Rc1 b5 10. Bb3 Na5 11. e5 Nxb3 12. Qxb3 Bb7 13. Nd4 Nxe5 14.
+Ncxb5 axb5 15. Qxb5 Qb8 16. Bf4 Bd6 17. Rfd1 Ke7 18. Bxe5 Bxe5 19. Nf3 Bd6
+20. Rxd6 Qxd6 21. Qxb7 Rxa2 0-1
+

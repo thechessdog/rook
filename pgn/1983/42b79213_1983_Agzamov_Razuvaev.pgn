@@ -1,0 +1,18 @@
+[Event "Moskou ch-URS"]
+[Site "Moskou ch-URS"]
+[Date "1983.04.01"]
+[Round "1"]
+[White "Agzamov, Georgy"]
+[Black "Razuvaev, Yuri S"]
+[Result "1/2-1/2"]
+[ECO "A46"]
+[Opening "Queen's pawn"]
+[Variation "Torre attack"]
+[HashCode "42b79213"]
+[Epoch "Rook"]
+[BlackCountry "RUS"]
+[WhiteCountry "RUS"]
+
+1. d4 Nf6 2. Nf3 e6 3. Bg5 c5 4. e3 Qb6 5. Qc1 Nc6 6. c3 d5 7. Nbd2 Be7 8. Bd3
+h6 9. Bh4 Bd7 10. O-O Rc8 11. dxc5 Qxc5 12. Qd1 O-O 13. h3 Rfd8 14. Re1 Be8 15.
+Nd4 Ne5 16. Bc2 Nc6 17. Bd3 Ne5 18. Bc2 Nc6 19. Bd3 1/2-1/2

@@ -1,0 +1,19 @@
+[Event "New York"]
+[Site "New York"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Rizzitano, James"]
+[Black "Ivkov, Borislav"]
+[Result "1-0"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra gambit"]
+[HashCode "a9896462"]
+[Epoch "Rook"]
+[WhiteID "2000806"]
+[WhiteCountry "USA"]
+[BlackID "900141"]
+[BlackCountry "SRB"]
+
+1. e4 c5 2. d4 cxd4 3. c3 dxc3 4. Nxc3 Nc6 5. Nf3 d6 6. Bc4 e6 7. O-O Nge7 8.
+Bg5 h6 9. Nb5 d5 10. Bf4 e5 11. Nxe5 dxe4 12. Bxf7# 1-0

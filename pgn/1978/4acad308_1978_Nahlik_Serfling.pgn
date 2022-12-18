@@ -1,0 +1,20 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Nahlik"]
+[Black "Serfling"]
+[Result "0-1"]
+[ECO "C13"]
+[Opening "French"]
+[Variation "classical, Frankfurt variation"]
+[HashCode "4acad308"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Ng8 6. Be3 b6 7. Qg4 g6 8.
+Bb5+ Bd7 9. Nge2 c5 10. Bd2 Qc7 11. dxc5 bxc5 12. a4 Qxe5 13. f4 Qc7 14.
+Ng3 Nf6 15. Qf3 a6 16. Bxd7+ Nbxd7 17. O-O O-O 18. Rae1 Rfe8 19. f5 Bd6 20.
+fxg6 fxg6 21. Nce2 Rf8 22. Bh6 Ne5 23. Qc3 Rf7 24. Nf4 Re8 25. Re2 Nfg4 26.
+Bg5 h6 27. Nxg6 Rxf1+ 28. Nxf1 Nxg6 29. Qg3 hxg5 30. Qxg4 Qe7 31. Ne3 Ne5
+32. Qh5 Kg7 33. Rd2 Rh8 34. Qd1 Kg6 0-1
+

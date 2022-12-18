@@ -1,0 +1,22 @@
+[Event "Snekkersten"]
+[Site "Snekkersten"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Schmidt, Kristen"]
+[Black "Norgaard, Jesper"]
+[Result "0-1"]
+[ECO "C91"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Bogolyubov variation"]
+[HashCode "6b91ce86"]
+[Epoch "Rook"]
+[WhiteID "1400436"]
+[WhiteCountry "DEN"]
+[BlackID "1400517"]
+[BlackCountry "DEN"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. c3
+d6 9. d4 Bg4 10. Be3 exd4 11. cxd4 d5 12. e5 Ne4 13. Nc3 Nxc3 14. bxc3 Na5 15.
+Bc2 Bh5 16. a4 Nc4 17. axb5 axb5 18. Rxa8 Qxa8 19. Qb1 Qa5 20. Bg5 Bxg5 21.
+Bxh7+ Kh8 22. Nxg5 Qxc3 23. e6 fxe6 24. Nxe6 Rf6 25. Rc1 Qd2 26. Rc2 Qd1+ 27.
+Qxd1 Bxd1 28. Nxc7 Kxh7 29. Rc1 Ba4 0-1

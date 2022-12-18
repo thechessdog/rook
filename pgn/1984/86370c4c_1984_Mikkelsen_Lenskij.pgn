@@ -1,0 +1,22 @@
+[Event "corr EU/M/GT"]
+[Site "corr EU/M/GT"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Mikkelsen, I."]
+[Black "Lenskij, IL."]
+[Result "1/2-1/2"]
+[ECO "B64"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...Be7 defence, 9.f4"]
+[HashCode "86370c4c"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 e6 7. Qd2 Be7
+8. O-O-O O-O 9. f4 h6 10. Bh4 Bd7 11. Nf3 Qa5 12. Kb1 Rfd8 13. Bd3 Rac8 14.
+Rhg1 b5 15. g4 d5 16. Bxf6 Bxf6 17. e5 b4 18. Ne2 Be7 19. g5 hxg5 20. Nxg5
+b3 21. axb3 Qxd2 22. Rxd2 Nb4 23. Nd4 Bc5 24. Ngf3 Nxd3 25. Rxd3 Kf8 26. c3
+g6 27. b4 Bb6 28. Rd2 Ke7 29. Kc2 Rh8 30. Rg3 Rc7 31. h4 Ba4+ 32. b3 Bd7
+33. Kd3 a5 34. bxa5 Bxa5 35. Rc2 Bc8 36. Rg1 Bb6 37. Ra1 Bd7 38. Rca2 Rhc8
+39. Rc2 Rh8 40. Ra6 Bc5 41. c4 Bxd4 42. Kxd4 dxc4 43. Rxc4 Rb7 44. Rd6 Rhb8
+45. Nd2 1/2-1/2
+

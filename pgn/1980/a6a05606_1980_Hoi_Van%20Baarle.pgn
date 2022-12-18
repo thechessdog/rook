@@ -1,0 +1,22 @@
+[Event "Berlin"]
+[Site "Berlin"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Hoi, Carsten"]
+[Black "Van Baarle, John"]
+[Result "1-0"]
+[ECO "A71"]
+[Opening "Benoni"]
+[Variation "classical, 8.Bg5"]
+[HashCode "a6a05606"]
+[Epoch "Rook"]
+[BlackID "1000691"]
+[WhiteID "1400100"]
+[WhiteCountry "DEN"]
+[BlackCountry "NED"]
+
+1. Nf3 Nf6 2. d4 e6 3. c4 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. e4 Bg7 8. Bg5
+h6 9. Bh4 g5 10. Bg3 Nh5 11. Bb5+ Kf8 12. e5 g4 13. O-O Nxg3 14. fxg3 a6 15.
+Bd3 gxf3 16. Qxf3 Qd7 17. e6 Bd4+ 18. Kh1 Qe7 19. Qxf7+ Qxf7 20. Rxf7+ Ke8 21.
+Bg6 Kd8 22. e7+ Kd7 23. Re1 Be5 24. Rxe5 dxe5 25. Ne4 Nc6 26. Bf5+ Ke8 27. Nd6#
+1-0

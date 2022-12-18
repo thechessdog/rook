@@ -1,0 +1,22 @@
+[Event "Ohio"]
+[Site "Ohio"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Diebert, Charles"]
+[Black "Wygle, Steve"]
+[Result "0-1"]
+[ECO "A45"]
+[Opening "Queen's pawn"]
+[Variation "Bronstein gambit"]
+[HashCode "8a2a3a5c"]
+[Epoch "Rook"]
+[WhiteID "2065517"]
+[BlackID "2004933"]
+[WhiteCountry "USA"]
+[BlackCountry "USA"]
+
+1. d4 Nf6 2. g4 Nxg4 3. e4 d6 4. h3 Nf6 5. Bg2 e5 6. Ne2 Nc6 7. c3 g6 8. Bg5
+Be7 9. Bh6 Nh5 10. Qd2 Bh4 11. Na3 g5 12. Bf3 Qf6 13. Bxh5 Bxf2+ 14. Kd1 Qxh6
+15. Bf3 Bd7 16. Rf1 Qh4 17. Nc1 Bg3 18. Nd3 O-O-O 19. d5 Ne7 20. Qe2 f5 21. Kc2
+Nxd5 22. exd5 e4 23. Bg2 exd3+ 24. Qxd3 Rhe8 25. b4 Be5 26. Kb3 Qg3 27. Qc2
+Qxc3+ 28. Qxc3 Bxc3 29. Kxc3 Re3+ 30. Kb2 Re2+ 31. Nc2 Rxg2 32. Rac1 Re8 0-1

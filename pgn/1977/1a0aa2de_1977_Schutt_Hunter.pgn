@@ -1,0 +1,22 @@
+[Event "corr FRG jub"]
+[Site "corr FRG jub"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Schutt"]
+[Black "Hunter"]
+[Result "0-1"]
+[ECO "C63"]
+[Opening "Ruy Lopez"]
+[Variation "Schliemann defence, Berger variation"]
+[HashCode "1a0aa2de"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 f5 4. Nc3 fxe4 5. Nxe4 Nf6 6. Qe2 d5 7. Ng3 Bd6
+8. Nxe5 O-O 9. Nxc6 bxc6 10. Bxc6 Rb8 11. O-O Rb6 12. Ba4 Ng4 13. d4 Nxh2
+14. Kxh2 Qh4+ 15. Kg1 Ba6 16. Qh5 Bxg3 17. Qxh4 Bxh4 18. Be3 Bxf1 19. Rxf1
+Rxb2 20. Bb3 c6 21. Rc1 h6 22. g3 Bg5 23. f4 Bf6 24. Kf2 Re8 25. Kf3 Re4
+26. Rd1 g5 27. Ke2 a5 28. a4 gxf4 29. gxf4 h5 30. Kd3 h4 31. Rg1+ Kf7 32.
+f5 Re8 33. Bd2 Rg8 34. Rxg8 Kxg8 35. Bxa5 h3 36. Bc7 Rb1 37. a5 Ra1 38. c4
+Ra3 39. Kc3 dxc4 40. Kxc4 Bd8 41. Bd6 Bxa5 42. Bxa3 h2 43. Kc5+ Kg7 44. d5
+h1=Q 45. dxc6 Qa1 0-1
+

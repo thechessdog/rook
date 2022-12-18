@@ -1,0 +1,22 @@
+[Event "IBM-B"]
+[Site "Amsterdam II"]
+[Date "1979.07.01"]
+[Round "1"]
+[White "Van der Wiel, John T.H."]
+[Black "Baljon, Christofoor"]
+[Result "1-0"]
+[ECO "B63"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack"]
+[HashCode "0ad9f7d6"]
+[Epoch "Rook"]
+[WhiteID "1000020"]
+[WhiteCountry "NED"]
+[BlackID "1000772"]
+[BlackCountry "NED"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 e6 7. Qd2 Nxd4 8.
+Qxd4 Bd7 9. O-O-O Qa5 10. f4 Be7 11. Kb1 Bc6 12. b4 Qc7 13. Nb5 Qd7 14. e5 Nd5
+15. Bxe7 dxe5 16. fxe5 Bxb5 17. Bxb5 Qxb5 18. c4 Qa4 19. cxd5 Kxe7 20. dxe6
+Rhd8 21. Qh4+ Kxe6 22. Rxd8 Rxd8 23. Qxd8 Qxb4+ 24. Kc2 Qe4+ 25. Kc3 Qc6+ 26.
+Kd4 1-0

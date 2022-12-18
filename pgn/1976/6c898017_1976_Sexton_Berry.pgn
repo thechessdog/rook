@@ -1,0 +1,20 @@
+[Event "Ottawa"]
+[Site "Ottawa"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Sexton, F."]
+[Black "Berry, Jonathan"]
+[Result "0-1"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (without ...d6)"]
+[HashCode "6c898017"]
+[Epoch "Rook"]
+[BlackID "2600463"]
+[BlackCountry "CAN"]
+
+1. Nf3 c5 2. e4 Nc6 3. Bb5 e6 4. O-O Nge7 5. Re1 a6 6. Bf1 d5 7. exd5 Nxd5 8.
+d4 b5 9. dxc5 Bxc5 10. c4 bxc4 11. Bxc4 O-O 12. Bd2 Qb6 13. Bxd5 Bxf2+ 14. Kh1
+exd5 15. Rf1 Bg4 16. Nc3 Rad8 17. Qe2 Bh4 18. Rab1 Rfe8 19. Qd3 Nb4 20. Qd4
+Qxd4 21. Nxd4 Bf6 22. Rf4 Bc8 23. a3 Nd3 24. Rf3 Ne5 25. Rff1 Nc4 26. Nf3 d4
+27. Na4 Nxd2 28. Nxd2 Re2 29. Nf3 h5 30. Nc5 d3 31. b4 d2 32. Rfd1 Bf5 0-1

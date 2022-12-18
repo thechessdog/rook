@@ -1,0 +1,18 @@
+[Event "corr DDR-M"]
+[Site "corr DDR-M"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Fritsch, W."]
+[Black "Lange, J."]
+[Result "0-1"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack"]
+[HashCode "55ed5240"]
+[Epoch "Rook"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Be2 O-O 6. e5 Nfd7 7. Be3 c5 8.
+dxc5 dxe5 9. fxe5 Nxe5 10. Nb5 Bd7 11. c3 a6 12. Nd4 Nbc6 13. Ngf3 Ng4 14.
+Bd2 e5 15. Nxc6 Bxc6 16. O-O Qc7 17. Ng5 Nf6 18. Qe1 h6 19. Nh3 Bd7 20.
+Bxh6 Qxc5+ 21. Kh1 Bxh3 22. gxh3 Qc6+ 23. Bf3 e4 24. Bxg7 exf3 0-1
+

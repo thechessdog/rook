@@ -1,0 +1,15 @@
+[Event "Eindhoven"]
+[Site "Eindhoven"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Larsen, Bent Ravn"]
+[Black "NN"]
+[Result "1-0"]
+[ECO "B27"]
+[Opening "Sicilian defence"]
+[HashCode "0378effb"]
+[Epoch "Rook"]
+[WhiteID "1430670"]
+[WhiteCountry "DEN"]
+
+1. e4 c5 2. Nf3 f6 3. d4 cxd4 4. Nxd4 e5 5. Nf5 Ne7 6. Nd6# 1-0

@@ -1,0 +1,21 @@
+[Event "corr SM-E"]
+[Site "corr SM-E"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Wikman, Ragnar"]
+[Black "Hakala, Helge"]
+[Result "0-1"]
+[ECO "A79"]
+[Opening "Benoni"]
+[Variation "classical, 11.f3"]
+[HashCode "c97c1709"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. e4 Bg7 8.
+Be2 O-O 9. O-O Re8 10. Nd2 Na6 11. f3 Nc7 12. a4 b6 13. Kh1 Rb8 14. Nb5 a6
+15. Na7 Qd7 16. Nc6 Rb7 17. Nc4 b5 18. N4a5 Rb6 19. g4 bxa4 20. Rxa4 Nb5
+21. Nc4 Rxc6 22. dxc6 Qxc6 23. Na5 Qc7 24. Bf4 Nd4 25. Bc4 Nd7 26. Ra2 Ne5
+27. Bxe5 Bxe5 28. Qd3 Bf4 29. Bxa6 Be6 30. Bc4 d5 31. exd5 Bd7 32. b4 Re3
+33. Qd1 Qe5 34. Nc6 Nxc6 35. dxc6 Bxc6 36. Qd8+ Kg7 37. Ra7 Be8 38. b5 Re2
+0-1
+

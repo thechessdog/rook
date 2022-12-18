@@ -1,0 +1,19 @@
+[Event "DDR"]
+[Site "DDR"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Uhlmann, Wolfgang"]
+[Black "Schwarz"]
+[Result "1-0"]
+[ECO "A35"]
+[Opening "English"]
+[Variation "symmetrical, four knights system"]
+[HashCode "8a85c40b"]
+[Epoch "Rook"]
+[WhiteID "4611284"]
+[WhiteCountry "GER"]
+
+1. c4 Nf6 2. Nc3 c5 3. Nf3 Nc6 4. g3 b6 5. Bg2 Bb7 6. e4 d6 7. d3 g6 8. O-O Bg7
+9. Nh4 e6 10. f4 Nd4 11. e5 Bxg2 12. exf6 Bxf1 13. fxg7 Rg8 14. Kxf1 Rxg7 15.
+Be3 Nf5 16. Nxf5 gxf5 17. d4 Qd7 18. Qf3 Rc8 19. Rd1 a6 20. b3 Qc6 21. Qxc6+
+Rxc6 22. d5 exd5 23. Rxd5 Rg6 24. Rxf5 Re6 25. Kf2 h6 26. a4 Rc7 27. Rh5 1-0

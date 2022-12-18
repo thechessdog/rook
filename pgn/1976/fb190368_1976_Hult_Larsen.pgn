@@ -1,0 +1,18 @@
+[Event "Aarhus"]
+[Site "Aarhus"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Hult, Jens"]
+[Black "Larsen, Bent Ravn"]
+[Result "0-1"]
+[ECO "A00"]
+[Opening "Benko's opening"]
+[HashCode "fb190368"]
+[Epoch "Rook"]
+[BlackID "1430670"]
+[BlackCountry "DEN"]
+
+1. g3 f5 2. Bg2 Nf6 3. Nf3 e6 4. O-O Be7 5. b3 O-O 6. c4 d6 7. Bb2 e5 8. d4 e4
+9. Nfd2 c6 10. Nc3 d5 11. e3 Na6 12. f3 Nb4 13. Ba3 Qe8 14. Bxb4 Bxb4 15. Ne2
+Be6 16. c5 Ba5 17. a3 Bf7 18. b4 Bc7 19. h3 exf3 20. Rxf3 Bh5 21. Rxf5 Qxe3+
+22. Rf2 Bxg3 0-1

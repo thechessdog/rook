@@ -1,0 +1,33 @@
+[Event "IBM-B"]
+[Site "Amsterdam II"]
+[Date "1980.06.01"]
+[Round "1"]
+[White "Ligterink, Gert"]
+[Black "Smejkal, Jan"]
+[Result "0-1"]
+[ECO "D85"]
+[Opening "Gruenfeld"]
+[Variation "modern exchange variation"]
+[HashCode "847790ed"]
+[Epoch "Rook"]
+[WhiteID "1000179"]
+[WhiteCountry "NED"]
+[BlackID "300020"]
+[BlackCountry "CZE"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. cxd5 Nxd5 6. e4 Nxc3 7. bxc3 c5 8.
+Be3 Qa5 9. Qd2 Nc6 10. Rc1 cxd4 11. cxd4 Qxd2+ 12. Kxd2 O-O 13. Bb5 f5 14. d5
+fxe4 15. dxc6 exf3 16. gxf3 bxc6 17. Rxc6 Bb7 18. Rc7 Rad8+ 19. Kc2 Bxf3 20.
+Rc1 Rb8 21. Bc4+ Kh8 22. Kd2 Rfd8+ 23. Ke1 Bb2 24. Bd2 Rxd2 25. Kxd2 Bxc1+ 26.
+Kxc1 Rb7 27. Rc5 Rd7 28. Kc2 Kg7 29. Kc3 Kf6 30. a4 h5 31. a5 h4 32. a6 g5 33.
+Rc8 g4 34. Bd3 e6 35. Rc5 e5 36. Rc8 h3 37. Rh8 e4 38. Bc4 Rd1 39. Rh7 Rh1 40.
+Rxa7 e3 41. Rf7+ Kg6 42. a7 Bc6 43. Re7 Rc1+ 44. Kb3 Rxc4 45. Re6+ Kf5 46. Rxc6
+Rxc6 47. a8=Q exf2 48. Qxc6 f1=Q 49. Qd7+ Ke4 50. Qxg4+ Ke3 51. Qg3+ Qf3 52.
+Qe5+ Kf2+ 53. Kc2 Kg1 54. Kd2 Qg2+ 55. Kd3 Kh1 56. Qf4 Kg1 57. Qe3+ Kxh2 58.
+Kc4 Qg4+ 59. Kb5 Qf5+ 60. Ka4 Kg2 61. Qe2+ Kg3 62. Qe3+ Kg4 63. Qe2+ Kg5 64.
+Qe7+ Kf4 65. Qc7+ Ke3 66. Qc1+ Kf2 67. Qd2+ Kg3 68. Qe3+ Kg4 69. Qe2+ Qf3 70.
+Qe6+ Kg3 71. Qe1+ Qf2 72. Qc3+ Qf3 73. Qe1+ Kg2 74. Qd2+ Kf1 75. Qc1+ Ke2 76.
+Qb2+ Ke1 77. Qb4+ Kf1 78. Qb5+ Kf2 79. Qc5+ Kg3 80. Qg1+ Kf4 81. Qc1+ Qe3 82.
+Qc7+ Kf3 83. Ka5 Qf4 84. Qc6+ Kg4 85. Ka6 h2 86. Qc8+ Qf5 87. Qg8+ Kf4 88. Qb8+
+Qe5 89. Qb4+ Kg3 90. Qb3+ Kf2 91. Qf7+ Ke1 92. Qh7 Qd6+ 93. Ka7 Qc5+ 94. Kb8
+Qb6+ 95. Ka8 Qc6+ 0-1

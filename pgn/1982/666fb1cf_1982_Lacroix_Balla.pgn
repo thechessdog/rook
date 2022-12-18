@@ -1,0 +1,22 @@
+[Event "Montreal"]
+[Site "Montreal"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Lacroix, Serge"]
+[Black "Balla, Thomas"]
+[Result "1-0"]
+[ECO "E45"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Bronstein (Byrne) variation"]
+[HashCode "666fb1cf"]
+[Epoch "Rook"]
+[WhiteID "2605643"]
+[BlackID "20635516"]
+[WhiteCountry "CAN"]
+[BlackCountry "FRA"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 b6 5. Ne2 Ba6 6. a3 Bxc3+ 7. Nxc3 d5 8. b3
+O-O 9. Be2 dxc4 10. bxc4 Nc6 11. a4 Qd7 12. O-O Na5 13. Nb5 c6 14. Na3 Ne4 15.
+Qc2 f5 16. Bb2 Qe7 17. f3 Ng5 18. e4 Rf6 19. exf5 exf5 20. Rae1 Re6 21. d5 cxd5
+22. Nb5 Bxb5 23. cxb5 Re8 24. Qc3 Re3 25. Qd4 Nb3 26. Qxd5+ Kh8 27. Rf2 f4 28.
+Kf1 Rd8 29. Ba3 Qf6 30. Qc6 Qf5 31. Qc7 Rc8 32. Rd1 h6 33. Rd8+ 1-0

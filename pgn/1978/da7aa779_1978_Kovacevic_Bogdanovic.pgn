@@ -1,0 +1,20 @@
+[Event "Yugoslavia"]
+[Site "Yugoslavia"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Kovacevic, Vlatko"]
+[Black "Bogdanovic, Rajko"]
+[Result "1/2-1/2"]
+[ECO "A48"]
+[Opening "King's Indian"]
+[Variation "Torre attack"]
+[HashCode "da7aa779"]
+[Epoch "Rook"]
+[BlackID "14400316"]
+[BlackCountry "BIH"]
+[WhiteID "14500078"]
+[WhiteCountry "CRO"]
+
+1. d4 Nf6 2. Nf3 g6 3. Bg5 Bg7 4. Nbd2 d5 5. e3 O-O 6. Bd3 Nbd7 7. h3 Re8 8. c3
+e5 9. dxe5 Nxe5 10. Nxe5 Rxe5 11. Nf3 Re8 12. O-O c6 13. a4 Qb6 14. Bxf6 Bxf6
+15. Qc2 a5 1/2-1/2

@@ -1,0 +1,22 @@
+[Event "Amsterdam"]
+[Site "Amsterdam"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Chernin, Alexander"]
+[Black "Baljon, Christofoor"]
+[Result "1-0"]
+[ECO "A05"]
+[Opening "Reti"]
+[Variation "King's Indian attack"]
+[HashCode "85e37a24"]
+[Epoch "Rook"]
+[WhiteID "715620"]
+[WhiteCountry "HUN"]
+[BlackID "1000772"]
+[BlackCountry "NED"]
+
+1. Nf3 Nf6 2. g3 g6 3. b3 Bg7 4. Bb2 d6 5. Bg2 e5 6. c4 O-O 7. O-O Nc6 8. d3
+Nh5 9. Nc3 f5 10. Rb1 f4 11. a3 Bg4 12. b4 Qd7 13. b5 Nd4 14. Ne4 h6 15. Bxd4
+exd4 16. Qc2 Bh3 17. c5 d5 18. c6 bxc6 19. bxc6 Qg4 20. Qa2 Bxg2 21. Kxg2 fxg3
+22. fxg3 Nf4+ 23. Kh1 Nxe2 24. Qxd5+ Kh7 25. Qd7 Qxd7 26. cxd7 Rad8 27. Rbe1
+Nc3 28. Nc5 Rf7 1-0

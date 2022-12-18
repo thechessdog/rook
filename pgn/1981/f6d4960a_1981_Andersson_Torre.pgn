@@ -1,0 +1,19 @@
+[Event "Moskou"]
+[Site "Moskou"]
+[Date "1981.04.01"]
+[Round "1"]
+[White "Andersson, Ulf"]
+[Black "Torre, Eugenio"]
+[Result "1/2-1/2"]
+[ECO "D14"]
+[Opening "QGD Slav"]
+[Variation "exchange variation, 6.Bf4 Bf5"]
+[HashCode "f6d4960a"]
+[Epoch "Rook"]
+[WhiteID "1700014"]
+[WhiteCountry "SWE"]
+[BlackID "5200016"]
+[BlackCountry "PHI"]
+
+1. Nf3 Nf6 2. c4 c6 3. d4 d5 4. cxd5 cxd5 5. Nc3 Nc6 6. Bf4 Bf5 7. e3 e6 8. Bb5
+Nd7 9. O-O Be7 10. Bxc6 bxc6 11. Ne5 Nxe5 12. Bxe5 O-O 1/2-1/2

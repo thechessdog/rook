@@ -1,0 +1,21 @@
+[Event "Wittlich"]
+[Site "Wittlich"]
+[Date "1983.01.01"]
+[Round "11"]
+[White "Lorscheid, Gerhard"]
+[Black "Schlueter, Wolfgang"]
+[Result "1/2-1/2"]
+[ECO "B26"]
+[Opening "Sicilian"]
+[Variation "closed, 6.Be3"]
+[HashCode "0be6fde9"]
+[Epoch "Rook"]
+[WhiteID "4606000"]
+[WhiteCountry "GER"]
+[BlackID "4604938"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. Be3 b5 7. Qd2 b4 8. Nd1 a5
+9. c3 Qb6 10. h3 Ba6 11. Ne2 bxc3 12. bxc3 Qb5 13. c4 Qb8 14. Ndc3 Nf6 15. O-O
+O-O 16. Bh6 Qc7 17. Bxg7 Kxg7 18. f4 Rab8 19. g4 Nd4 20. Rab1 Nxe2+ 21. Qxe2
+Rxb1 22. Rxb1 Rb8 23. Qc2 h6 1/2-1/2

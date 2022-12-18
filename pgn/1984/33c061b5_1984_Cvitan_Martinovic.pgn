@@ -1,0 +1,19 @@
+[Event "Smederevska Palanka"]
+[Site "Smederevska Palanka"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Cvitan, Ognjen"]
+[Black "Martinovic, Slobodan"]
+[Result "1/2-1/2"]
+[ECO "E42"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5, 5.Ne2 (Rubinstein)"]
+[HashCode "33c061b5"]
+[Epoch "Rook"]
+[WhiteID "14500086"]
+[WhiteCountry "CRO"]
+[BlackCountry "SRB"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Ne2 cxd4 6. exd4 O-O 7. a3 Be7 8. d5
+exd5 9. cxd5 Re8 10. d6 Bf8 11. g3 Re6 12. Bg2 Rxd6 13. Qc2 Nc6 14. O-O Re6
+1/2-1/2

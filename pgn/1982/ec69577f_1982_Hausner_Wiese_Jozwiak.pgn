@@ -1,0 +1,16 @@
+[Event "Lucerne"]
+[Site "Lucerne"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Hausner, Ivan"]
+[Black "Wiese-Jozwiak, Malgorzata"]
+[Result "0-1"]
+[ECO "A06"]
+[Opening "Tennison (Lemberg, Zukertort) gambit"]
+[HashCode "ec69577f"]
+[Epoch "Rook"]
+[WhiteID "300110"]
+[WhiteCountry "CZE"]
+
+1. Nf3 d5 2. e4 dxe4 3. Ng5 Nf6 4. Nc3 Bf5 5. Qe2 Nc6 6. Ngxe4 Nd4 7. Qd3 Qd7
+8. Be2 O-O-O 9. O-O Nxe4 10. Nxe4 Qc6 0-1

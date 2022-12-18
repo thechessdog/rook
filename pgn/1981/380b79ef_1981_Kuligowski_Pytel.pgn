@@ -1,0 +1,19 @@
+[Event "Lubniewice ch-POL"]
+[Site "Lubniewice ch-POL"]
+[Date "1981.01.01"]
+[Round "6"]
+[White "Kuligowski, Adam"]
+[Black "Pytel, Krzysztof"]
+[Result "1/2-1/2"]
+[ECO "E95"]
+[Opening "King's Indian"]
+[Variation "orthodox, 7...Nbd7, 8.Re1"]
+[HashCode "380b79ef"]
+[Epoch "Rook"]
+[WhiteID "1100092"]
+[BlackID "600199"]
+[WhiteCountry "POL"]
+[BlackCountry "FRA"]
+
+1. c4 Nf6 2. Nc3 e5 3. Nf3 d6 4. d4 Nbd7 5. e4 g6 6. Be2 Bg7 7. O-O O-O 8. Re1
+c6 9. Bf1 exd4 10. Nxd4 Ng4 11. Re2 Nc5 12. h3 Qf6 13. Nb3 Ne5 14. Rd2 1/2-1/2

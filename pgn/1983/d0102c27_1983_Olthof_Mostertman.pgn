@@ -1,0 +1,19 @@
+[Event "Den Bosch"]
+[Site "Den Bosch"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Olthof, Rene"]
+[Black "Mostertman, Loek"]
+[Result "0-1"]
+[ECO "A00"]
+[Opening "Dunst (Sleipner, Heinrichsen) opening"]
+[HashCode "d0102c27"]
+[Epoch "Rook"]
+[WhiteID "1001094"]
+[BlackID "1010425"]
+[WhiteCountry "NED"]
+[BlackCountry "NED"]
+
+1. Nc3 d5 2. e4 dxe4 3. Nxe4 e5 4. Nf3 Nf6 5. Nxf6+ Qxf6 6. d4 e4 7. Ng5 Bf5 8.
+Bc4 Bg6 9. Qg4 Nc6 10. Be3 Qe7 11. O-O-O f5 12. Qf4 Qb4 13. Qxc7 Qxc4 14. d5
+Qxa2 15. dxc6 Qa1+ 16. Kd2 Bb4+ 17. Ke2 Qa6+ 0-1

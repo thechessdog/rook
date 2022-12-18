@@ -1,0 +1,19 @@
+[Event "Bochum"]
+[Site "Bochum"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Keene, Raymond D"]
+[Black "Garcia, Gildardo"]
+[Result "1/2-1/2"]
+[ECO "E41"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5"]
+[HashCode "ca30cf41"]
+[Epoch "Rook"]
+[WhiteID "400211"]
+[BlackID "4400020"]
+[WhiteCountry "ENG"]
+[BlackCountry "COL"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 Nc6 6. Ne2 d5 7. cxd5 exd5 8. O-O
+O-O 9. a3 cxd4 10. axb4 dxc3 11. b5 Ne5 12. Nxc3 Nxd3 13. Qxd3 Be6 1/2-1/2

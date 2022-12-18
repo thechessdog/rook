@@ -1,0 +1,24 @@
+[Event "Rome"]
+[Site "Rome"]
+[Date "1979.01.01"]
+[Round "9"]
+[White "Passerotti, Pierluigi"]
+[Black "Schmidt, Wlodzimierz"]
+[Result "0-1"]
+[ECO "A00"]
+[Opening "Polish (Sokolsky) opening"]
+[HashCode "b140ae79"]
+[Epoch "Rook"]
+[WhiteID "800309"]
+[WhiteCountry "ITA"]
+[BlackID "1100041"]
+[BlackCountry "POL"]
+
+1. b4 e5 2. Bb2 f6 3. a3 d5 4. e3 Be6 5. d3 Nh6 6. Nd2 Nf7 7. c4 c6 8. f4 Bd6
+9. g3 O-O 10. Ngf3 Re8 11. fxe5 fxe5 12. Bg2 Nd7 13. O-O Bf8 14. Qc2 g6 15. e4
+d4 16. c5 Qe7 17. Nc4 b6 18. cxb6 axb6 19. Bc1 b5 20. Na5 c5 21. Rb1 Rec8 22.
+Qe2 c4 23. h4 Nb6 24. Bg5 Qd7 25. Bf6 Bg7 26. Ng5 cxd3 27. Qxd3 Nxg5 28. hxg5
+Rc3 29. Qd2 Rxg3 30. Bxg7 Bh3 31. Rf2 Kxg7 32. Rbf1 Qg4 33. Qa2 Nc4 34. Nxc4
+Rxg2+ 35. Rxg2 Qxg2+ 36. Qxg2 Bxg2 37. Kxg2 bxc4 38. Ra1 c3 39. Kf2 c2 40. Rc1
+d3 41. Ke3 Rxa3 42. b5 Rb3 43. b6 h6 44. gxh6+ Kxh6 45. b7 g5 46. b8=Q Rxb8 47.
+Kxd3 Rc8 0-1

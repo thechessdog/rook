@@ -1,0 +1,23 @@
+[Event "Plovdiv"]
+[Site "Plovdiv"]
+[Date "1984.01.01"]
+[Round "10"]
+[White "Lukin, Andrei M"]
+[Black "Peev, Peicho Chonev"]
+[Result "1-0"]
+[ECO "B06"]
+[Opening "Robatsch defence"]
+[Variation "two knights, Suttles variation"]
+[HashCode "1e0d75ef"]
+[Epoch "Rook"]
+[WhiteID "4101251"]
+[WhiteCountry "RUS"]
+[BlackCountry "BGR"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. Nf3 c6 5. Be2 Qc7 6. Bg5 Nd7 7. Qd2 Ngf6 8. Bh6
+O-O 9. h4 e5 10. h5 Bxh6 11. Qxh6 Ng4 12. Qd2 Ndf6 13. Ng5 exd4 14. Qxd4 Qb6
+15. Qxb6 axb6 16. hxg6 fxg6 17. Bxg4 Bxg4 18. f3 Ra5 19. Nxh7 Nxh7 20. fxg4 Rg5
+21. O-O-O Rf6 22. Rhe1 Re6 23. Rd4 Rxg4 24. Red1 Rxg2 25. Rxd6 Kf7 26. Rd8 Nf6
+27. Rb8 Re7 28. Na4 Nxe4 29. Nxb6 Nc5 30. b4 Na6 31. Rh8 Kg7 32. Rh4 g5 33. Rc4
+Nc7 34. Nc8 Rf7 35. Nd6 Rf4 36. Rxf4 gxf4 37. Nxb7 Nd5 38. Rf1 Kf6 39. Nc5 Kg5
+40. Nd3 Ne3 41. Rf2 Rg1+ 42. Kd2 Rd1+ 43. Kc3 Nd5+ 44. Kc4 Kf5 45. Kc5 1-0

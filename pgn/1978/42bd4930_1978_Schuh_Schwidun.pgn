@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Schuh"]
+[Black "Schwidun"]
+[Result "1-0"]
+[ECO "B40"]
+[Opening "Sicilian"]
+[Variation "Pin, Koch variation"]
+[HashCode "42bd4930"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Bb4 6. e5 Nd5 7. Bd2 Nxc3
+8. bxc3 Ba5 9. Qg4 O-O 10. Bd3 Qc7 11. O-O Qxe5 12. Rae1 Qd6 13. Bf4 Qb6
+14. Bxh7+ Kxh7 15. Re3 Qd8 16. Rg3 g6 17. Be5 Kg8 18. Rh3 1-0
+

@@ -1,0 +1,23 @@
+[Event "Halle"]
+[Site "Halle"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Hort, Vlastimil"]
+[Black "Vogt, Lothar"]
+[Result "0-1"]
+[ECO "E94"]
+[Opening "King's Indian"]
+[Variation "orthodox, 7...Nbd7"]
+[HashCode "da2980a3"]
+[Epoch "Rook"]
+[WhiteID "4600029"]
+[BlackID "4611292"]
+[WhiteCountry "GER"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 d6 3. Nc3 Nbd7 4. e4 e5 5. Nf3 g6 6. Be2 Bg7 7. O-O O-O 8. Be3
+a5 9. Re1 Ng4 10. Bg5 f6 11. Bc1 c6 12. h3 Nh6 13. b3 exd4 14. Nxd4 Nc5 15. Bf4
+f5 16. Qd2 Qf6 17. Rad1 fxe4 18. Bxh6 Qxf2+ 19. Kh1 Bxh3 20. gxh3 Qh4 21. Bg4
+Bxh6 22. Qg2 Rf2 23. Qg1 e3 24. Ne6 Re8 25. Nxc5 dxc5 26. Rd3 Bf4 27. Re2 h5
+28. Bf5 g5 29. Qxf2 exf2 30. Rxe8+ Kf7 31. Kg2 Kxe8 32. Ne4 Be5 33. Nxf2 Bd4
+34. Ne4 Qe1 35. Rd2 g4 36. hxg4 hxg4 37. Rf2 0-1

@@ -1,0 +1,20 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Herzig"]
+[Black "Madeja"]
+[Result "1/2-1/2"]
+[ECO "E32"]
+[Opening "Nimzo-Indian"]
+[Variation "classical variation"]
+[HashCode "50b82174"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 O-O 5. a3 Bxc3+ 6. Qxc3 b6 7. Nf3 Ne4
+8. Qc2 f5 9. g3 Bb7 10. Bg2 d6 11. Ng5 Qf6 12. O-O d5 13. Nxe4 fxe4 14. e3
+Ba6 15. b3 c5 16. Bb2 Qe7 17. dxc5 Qxc5 18. Bh3 Qe7 19. Qc3 Rf7 20. Rfd1
+Bb7 21. Qe5 Nd7 22. Qxe6 Qf8 23. cxd5 Nc5 24. Qe5 Re8 25. Be6 Kh8 26. b4
+Nd3 27. Rxd3 exd3 28. Qd4 Rf6 29. f4 Rd8 30. f5 Rxe6 31. fxe6 Rxd5 32. Rf1
+Qxf1+ 33. Kxf1 Rxd4 34. exd4 Bd5 35. e7 Bc6 1/2-1/2
+

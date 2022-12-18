@@ -1,0 +1,17 @@
+[Event "Cincinnati"]
+[Site "Cincinnati"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Nester, B."]
+[Black "Montgomery, M."]
+[Result "0-1"]
+[ECO "C01"]
+[Opening "French"]
+[Variation "exchange variation"]
+[HashCode "2ea3a3f0"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. c4 Nf6 5. Nc3 Bb4 6. Bd2 O-O 7. Nf3 Nc6
+8. a3 Bxc3 9. Bxc3 Ne4 10. Qc2 Re8 11. Be2 Bf5 12. Nd2 Ng3 13. Qb3 Qe7 14.
+Qd1 Bc2 0-1
+

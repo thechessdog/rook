@@ -1,0 +1,22 @@
+[Event "Groningen"]
+[Site "Groningen"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Grinberg, Nir"]
+[Black "Twardon, M."]
+[Result "0-1"]
+[ECO "B31"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (with ...g6, without ...d6)"]
+[HashCode "f2a131cd"]
+[Epoch "Rook"]
+[WhiteID "2800250"]
+[WhiteCountry "ISR"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. c3 Nf6 6. Re1 O-O 7. d4 cxd4 8.
+cxd4 d5 9. e5 Ne4 10. Nc3 Bf5 11. Ng5 Nxc3 12. bxc3 Qa5 13. Bxc6 bxc6 14. Re3
+Rab8 15. a4 Bh6 16. Rg3 Rb7 17. Ba3 Bxg5 18. Bb4 Qc7 19. Rxg5 a5 20. Bc5 Rfb8
+21. Rxf5 gxf5 22. Qc1 Qd7 23. h4 Qe6 24. h5 Kh8 25. Qd2 Rg8 26. Kh2 Rg4 27. c4
+Rb8 28. cxd5 cxd5 29. f3 Rh4+ 30. Kg3 Rxh5 31. Kf2 Rg8 32. Qf4 Rhg5 33. Rh1
+Rxg2+ 34. Ke3 Rb8 35. Qh4 Qg6 36. Bxe7 Kg8 37. Kf4 Rc8 38. Bc5 Kh8 39. Rb1 Rg8
+40. Be7 h6 41. Qf6+ Kh7 42. Qxg6+ R8xg6 43. Kxf5 Rf2 44. f4 Rh2 0-1

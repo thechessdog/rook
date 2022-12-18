@@ -1,0 +1,20 @@
+[Event "corr YUG"]
+[Site "corr YUG"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Grabner"]
+[Black "Donev"]
+[Result "0-1"]
+[ECO "C17"]
+[Opening "French"]
+[Variation "Winawer, advance, 5.a3"]
+[HashCode "8ec7e758"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 cxd4 6. axb4 dxc3 7. Qg4 Ne7 8.
+Qxg7 Rg8 9. Qxh7 Nbc6 10. Bb5 Qb6 11. Bxc6+ Qxc6 12. Nf3 cxb2 13. Bxb2 Qc4
+14. c3 Rxg2 15. h4 Qf4 16. Qd3 Ng6 17. Qe2 Qe4 18. h5 Nf4 19. Qxe4 dxe4 20.
+Nd2 Nd3+ 21. Ke2 Nxb2 22. h6 Rg8 23. h7 Rh8 24. Rag1 b6 25. Rg8+ Ke7 26.
+Rxh8 Ba6+ 27. Ke3 Rxh8 28. Nxe4 Bb7 29. Ra1 Bxe4 30. Rxa7+ Kd8 31. Kxe4
+Rxh7 32. Rb7 f5+ 0-1
+

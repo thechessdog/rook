@@ -1,0 +1,21 @@
+[Event "Bundesliga 8182"]
+[Site "Duitsland tt"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Hommel, Gerhard, Prof. Dr."]
+[Black "Rehe, Walter"]
+[Result "1-0"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, positional main line"]
+[HashCode "4d3551df"]
+[Epoch "Rook"]
+[WhiteID "4603435"]
+[WhiteCountry "GER"]
+[BlackID "24610771"]
+[BlackCountry "GER"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Nf3 Nbc6 8. a4
+Qa5 9. Qd2 b6 10. Ba3 O-O 11. Bb5 Ba6 12. c4 Qxd2+ 13. Kxd2 Bxb5 14. cxb5 Na5
+15. dxc5 Nc4+ 16. Ke2 Nxa3 17. Rxa3 bxc5 18. g3 Rfc8 19. Rb1 d4 20. c3 dxc3 21.
+Rxc3 Nd5 22. Rc2 Rc7 23. Rbc1 Rac8 24. Nd2 c4 25. Rxc4 Nc3+ 26. R1xc3 1-0

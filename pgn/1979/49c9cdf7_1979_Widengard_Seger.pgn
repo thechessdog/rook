@@ -1,0 +1,18 @@
+[Event "corr SWE/M"]
+[Site "corr SWE/M"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Widengard"]
+[Black "Seger"]
+[Result "1-0"]
+[ECO "C64"]
+[Opening "Ruy Lopez"]
+[Variation "classical defence, Benelux variation  "]
+[HashCode "49c9cdf7"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. c3 Nf6 5. O-O O-O 6. d4 Bb6 7. Bg5 h6 8.
+Bh4 g5 9. Nxg5 hxg5 10. Bxg5 Qe7 11. Qf3 Kg7 12. Qg3 d6 13. f4 Nxe4 14.
+Bf6+ Kxf6 15. fxe5+ Ke6 16. Qg4+ Kd5 17. Qxe4+ Ke6 18. Qg4+ f5 19. exf6+
+1-0
+

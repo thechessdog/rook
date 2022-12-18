@@ -1,0 +1,23 @@
+[Event "DDR-ch 32th"]
+[Site "Cottbus"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Schoene, Ralf"]
+[Black "Goldberg, Alexander, Dr."]
+[Result "0-1"]
+[ECO "A64"]
+[Opening "Benoni"]
+[Variation "fianchetto, 11...Re8"]
+[HashCode "520f2933"]
+[Epoch "Rook"]
+[WhiteID "4611535"]
+[WhiteCountry "GER"]
+[BlackID "4611560"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. g3 g6 7. Bg2 Bg7 8. Nf3
+O-O 9. O-O Re8 10. Nd2 Nbd7 11. a4 a6 12. Nc4 Nb6 13. Ne3 Bd7 14. h3 Rb8 15. a5
+Nc8 16. Nc4 Bb5 17. Qb3 Na7 18. Bf4 Nh5 19. Bd2 Bxc3 20. Bxc3 Rxe2 21. Bf3 Re8
+22. Bxh5 gxh5 23. Rfe1 Bxc4 24. Rxe8+ Qxe8 25. Qxc4 Nb5 26. Re1 Qd8 27. Qf4
+Nxc3 28. bxc3 Kg7 29. Qf5 Qf6 30. Qd7 Qxc3 31. Re7 Qf6 32. Qc7 b5 33. axb6 Rxb6
+34. Re4 Rb1+ 35. Kg2 Qf5 0-1

@@ -1,0 +1,18 @@
+[Event "Italy"]
+[Site "Italy"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Battiato, F."]
+[Black "Piasini, A."]
+[Result "1/2-1/2"]
+[ECO "B83"]
+[Opening "Sicilian"]
+[Variation "modern Scheveningen, main line with Nb3"]
+[HashCode "66e6ffe3"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be2 Be7 7. O-O Nc6
+8. Be3 O-O 9. f4 Bd7 10. Nb3 a5 11. a4 Nb4 12. Bf3 e5 13. Kh1 Bc6 14. fxe5
+dxe5 15. Qe2 Qd7 16. Rad1 Qe6 17. Bb6 Bxe4 18. Nxe4 Qxb6 19. Nxf6+ Bxf6 20.
+Rd7 Rab8 21. Be4 Rfd8 1/2-1/2
+

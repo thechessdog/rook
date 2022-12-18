@@ -1,0 +1,19 @@
+[Event "corr EUR"]
+[Site "corr EUR"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Voltolini, Luigi"]
+[Black "Villarin"]
+[Result "0-1"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, dragon formation"]
+[HashCode "558d07e7"]
+[Epoch "Rook"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 c5 6. e5 dxe5 7. Bb5+ Nfd7 8.
+dxe5 O-O 9. O-O a6 10. Bd3 Nc6 11. Be4 Na5 12. Qe2 e6 13. Be3 Rb8 14. g4 b5
+15. b3 Qe7 16. Rad1 f5 17. gxf5 gxf5 18. Bd3 Kh8 19. Qe1 Nc6 20. Nb1 Nb4
+21. c3 Nxd3 22. Rxd3 Bb7 23. Rd6 Nxe5 24. fxe5 Bxe5 25. Rd2 Rg8+ 26. Rg2
+Rxg2+ 27. Kxg2 Rg8+ 28. Kh1 Rg4 29. Rf2 Qh4 30. Qe2 Bxh2 31. Rg2 Bxf3 0-1
+

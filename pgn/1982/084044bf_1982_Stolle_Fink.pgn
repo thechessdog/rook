@@ -1,0 +1,19 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Stolle"]
+[Black "Fink"]
+[Result "1-0"]
+[ECO "E52"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line with ...b6"]
+[HashCode "084044bf"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 b6 7. O-O Bb7 8.
+cxd5 exd5 9. Bd2 Nbd7 10. Rc1 c6 11. Ne5 Qe7 12. f4 Rfe8 13. Qf3 Nf8 14. g4
+Bd6 15. g5 N6d7 16. Ng4 g6 17. Nh6+ Kh8 18. h4 f5 19. h5 Ne6 20. hxg6 hxg6
+21. Qh1 Kg7 22. Bxf5 Nxg5 23. Bxg6 Kxg6 24. f5+ Kf6 25. Ng4+ Kf7 26. Qh5+
+Kg8 27. f6 1-0
+

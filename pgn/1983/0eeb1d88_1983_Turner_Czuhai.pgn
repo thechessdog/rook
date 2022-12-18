@@ -1,0 +1,20 @@
+[Event "Ann Arbor ch-MI op"]
+[Site "Ann Arbor ch-MI op"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Turner, G."]
+[Black "Czuhai, Ke"]
+[Result "0-1"]
+[ECO "D92"]
+[Opening "Gruenfeld"]
+[Variation "5.Bf4"]
+[HashCode "0eeb1d88"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Bf4 O-O 6. h3 dxc4 7. e4 c5 8.
+d5 Qa5 9. Nd2 b5 10. a4 b4 11. Nb5 c3 12. bxc3 bxc3 13. Nc4 c2+ 14. Nxa5
+cxd1=Q+ 15. Rxd1 Nxe4 16. Nc7 Bc3+ 17. Ke2 Bxa5 18. Nxa8 Nc3+ 19. Ke1 Nxd5+
+20. Bd2 Bxd2+ 21. Rxd2 Bb7 22. Bc4 Nf4 23. Nc7 Nxg2+ 24. Ke2 Nf4+ 25. Ke3
+Bxh1 26. Kxf4 Bc6 27. a5 e6 28. a6 Kg7 29. Rd6 Rc8 30. Nxe6+ fxe6 31. Bxe6
+Rf8+ 0-1
+

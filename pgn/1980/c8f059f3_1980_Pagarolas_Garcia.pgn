@@ -1,0 +1,18 @@
+[Event "corr Spain"]
+[Site "corr Spain"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Pagarolas"]
+[Black "Garces, Napoleon"]
+[Result "1-0"]
+[ECO "C08"]
+[Opening "French"]
+[Variation "Tarrasch, open, 4.ed ed"]
+[HashCode "c8f059f3"]
+[Epoch "Rook"]
+[BlackID "3600130"]
+[BlackCountry "ECU"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. exd5 exd5 5. Ne2 Nf6 6. Nf3 c4 7. g3 Be7 8. Bg2
+b5 9. a4 b4 10. Ne5 Ba6 11. O-O O-O 12. Re1 Re8 13. Nf4 Qd6 14. Nxd5 Nxd5 15.
+Qf3 1-0

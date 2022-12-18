@@ -1,0 +1,18 @@
+[Event "corr EH"]
+[Site "corr EH"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Kumpare, Matti"]
+[Black "Nokso_Koivisto, Aki"]
+[Result "0-1"]
+[ECO "E72"]
+[Opening "King's Indian"]
+[Variation "Pomar system"]
+[HashCode "15ca9dd7"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. g3 O-O 6. Bg2 e5 7. Nge2 exd4 8.
+Nxd4 Nc6 9. Nxc6 bxc6 10. e5 dxe5 11. Qxd8 Rxd8 12. Bxc6 Rb8 13. O-O Bf5
+14. b3 e4 15. Ba3 Rd3 16. Nd1 Ng4 17. Rc1 Ne5 18. Ba4 Bh3 19. Ne3 Nf3+ 20.
+Kh1 Bxf1 21. Nxf1 Rbd8 22. Ne3 Rxe3 0-1
+

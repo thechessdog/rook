@@ -1,0 +1,28 @@
+[Event "corr EU/M/GT"]
+[Site "corr EU/M/GT"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Mglosiek, W."]
+[Black "Eichhorn, E."]
+[Result "0-1"]
+[ECO "E06"]
+[Opening "Catalan"]
+[Variation "closed, 5.Nf3"]
+[HashCode "d0226bfa"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Bg2 Be7 5. Nf3 O-O 6. O-O dxc4 7. Ne5 Nc6 8.
+Nxc6 bxc6 9. Na3 Bxa3 10. bxa3 Nd5 11. Qa4 Nb6 12. Qxc6 Rb8 13. Qc5 Ba6 14.
+Bf4 Nd5 15. a4 Nxf4 16. gxf4 Qd6 17. Qxa7 c3 18. Rfc1 Bxe2 19. Rxc3 Qxf4
+20. Rac1 Rb4 21. Qxc7 Qxd4 22. a5 h6 23. Bb7 Rb2 24. R3c2 Rxc2 25. Qxc2
+Qg4+ 26. Kh1 Bf3+ 27. Bxf3 Qxf3+ 28. Kg1 Rd8 29. a6 Rd5 30. Qc4 Rg5+ 31.
+Kf1 Qg2+ 32. Ke2 Re5+ 33. Kd1 Qxf2 34. Qc8+ Kh7 35. Qc2+ Qxc2+ 36. Rxc2 Ra5
+37. Rc6 Rxa2 38. Kc1 e5 39. h4 e4 40. h5 e3 41. Kd1 f5 42. Rc5 f4 43. Rf5
+Rxa6 44. Rxf4 Ra5 45. Rh4 Re5 46. Ke2 Kg8 47. Rh1 Kf7 48. Rf1+ Ke6 49. Rg1
+Rg5 50. Rh1 Rg3 51. Rf1 Ke5 52. Rf7 Rg5 53. Kxe3 Ke6 54. Ra7 Kf6 55. Ra6+
+Kf7 56. Ra7+ Kg8 57. Kf4 Rxh5 58. Kg4 Rb5 59. Rc7 Kh7 60. Kh4 h5 61. Rc8
+Kh6 62. Rh8+ Kg6 63. Ra8 Rb4+ 64. Kh3 h4 65. Rc8 Kh5 66. Rh8+ Kg5 67. Ra8
+Rb3+ 68. Kh2 h3 69. Rg8 g6 70. Rg7 Kh5 71. Rg8 g5 72. Rg7 Kg4 73. Ra7 Rb2+
+74. Kg1 Kg3 75. Ra3+ Kh4 76. Ra4+ g4 77. Ra1 g3 78. Ra4+ Kg5 79. Ra5+ Kf4
+80. Ra4+ Ke5 0-1
+

@@ -1,0 +1,20 @@
+[Event "BL8485"]
+[Site "BL8485"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Budde, Vladimir"]
+[Black "Lau, Ralf"]
+[Result "1/2-1/2"]
+[ECO "A48"]
+[Opening "King's Indian"]
+[Variation "Torre attack"]
+[HashCode "ab8024a1"]
+[Epoch "Rook"]
+[WhiteID "4602056"]
+[WhiteCountry "GER"]
+[BlackID "4600134"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. Nf3 g6 3. Bg5 Bg7 4. Nbd2 c5 5. e3 d6 6. c3 Nbd7 7. Bd3 O-O 8. O-O
+b6 9. e4 e5 10. Nc4 Qc7 11. Bxf6 Nxf6 12. Nxd6 exd4 13. e5 Ng4 14. cxd4 cxd4
+15. Be4 Rb8 16. Qxd4 Qc5 17. Qxc5 bxc5 18. Nxc8 1/2-1/2

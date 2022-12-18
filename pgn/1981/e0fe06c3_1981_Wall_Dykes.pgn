@@ -1,0 +1,17 @@
+[Event "Dayton,OH"]
+[Site "Dayton,OH"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Wall, Bill"]
+[Black "Dykes, Ben"]
+[Result "1-0"]
+[ECO "C30"]
+[Opening "KGD"]
+[Variation "2...Nf6"]
+[HashCode "e0fe06c3"]
+[Epoch "Rook"]
+[WhiteCountry "USA"]
+
+1. e4 e5 2. f4 Nf6 3. Nf3 Nc6 4. Bc4 Nxe4 5. O-O Bc5+ 6. d4 exd4 7. Re1 d3+ 8.
+Be3 dxc2 9. Qxc2 Bxe3+ 10. Rxe3 d5 11. Bxd5 Qxd5 12. Nc3 Qc5 13. Qxe4+ Ne7 14.
+Nd5 Be6 15. Nxe7 Qxe7 16. f5 1-0

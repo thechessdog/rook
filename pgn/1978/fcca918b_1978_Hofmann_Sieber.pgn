@@ -1,0 +1,20 @@
+[Event "corr DDR-H"]
+[Site "corr DDR-H"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Hofmann, F."]
+[Black "Sieber, H."]
+[Result "0-1"]
+[ECO "E41"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5"]
+[HashCode "fcca918b"]
+[Epoch "Rook"]
+
+1. d4 e6 2. c4 Nf6 3. Nc3 Bb4 4. e3 c5 5. Bd3 Nc6 6. Ne2 d5 7. a3 cxd4 8.
+exd4 dxc4 9. Bxc4 Be7 10. O-O O-O 11. Be3 a6 12. Qc2 b5 13. Bd3 Bb7 14. b4
+Bd6 15. Ne4 h6 16. Rfd1 Nxe4 17. Bxe4 Rc8 18. Qb2 Bxh2+ 19. Kxh2 Qh4+ 20.
+Kg1 Qxe4 21. Ng3 Qg6 22. Qe2 Ne7 23. Rac1 Nf5 24. Qh5 Nxg3 25. Qxg6 Ne2+
+26. Kf1 fxg6 27. Kxe2 Bxg2 28. Rg1 Bf3+ 29. Kd3 Rxc1 30. Bxc1 g5 31. Be3 g4
+32. Rc1 h5 33. Rc5 h4 34. Rh5 g3 35. fxg3 Bxh5 36. gxh4 Rf3 0-1
+

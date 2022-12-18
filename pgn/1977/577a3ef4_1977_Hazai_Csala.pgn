@@ -1,0 +1,20 @@
+[Event "Kecskemet"]
+[Site "Kecskemet"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Hazai, Laszlo Dr."]
+[Black "Csala, Imre"]
+[Result "1/2-1/2"]
+[ECO "B15"]
+[Opening "Caro-Kann"]
+[Variation "Gurgenidze system"]
+[HashCode "577a3ef4"]
+[Epoch "Rook"]
+[BlackID "701440"]
+[BlackCountry "HUN"]
+[WhiteID "700177"]
+[WhiteCountry "HUN"]
+
+1. e4 g6 2. d4 c6 3. Nc3 d5 4. f3 Bg7 5. Be3 dxe4 6. fxe4 Nf6 7. Nf3 Ng4 8. Bf4
+e5 9. dxe5 Qxd1+ 10. Rxd1 Nd7 11. e6 fxe6 12. Bc4 Nde5 13. Nxe5 Bxe5 14. Bxe5
+Nxe5 15. Bb3 Rf8 16. Rf1 1/2-1/2

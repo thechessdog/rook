@@ -1,0 +1,21 @@
+[Event "Norway ch"]
+[Site "Lillehammer"]
+[Date "1982.01.01"]
+[Round "6"]
+[White "Bjerke, Richard"]
+[Black "Agdestein, Espen"]
+[Result "1-0"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "classical variation (5.Bf4)"]
+[HashCode "919fd642"]
+[Epoch "Rook"]
+[WhiteID "1500252"]
+[WhiteCountry "NOR"]
+[BlackID "1500201"]
+[BlackCountry "NOR"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Nf3 Be7 5. Bf4 O-O 6. e3 c5 7. dxc5 Nc6 8. cxd5
+exd5 9. Be2 Bxc5 10. O-O Be6 11. Rc1 Be7 12. Ne5 Nd7 13. Nxd7 Qxd7 14. Bf3 Rfd8
+15. Qa4 Bf6 16. Rfd1 Bxc3 17. Rxc3 Ne5 18. Qd4 Nxf3+ 19. gxf3 a6 20. Rc7 Qb5
+21. Be5 f6 22. Bxf6 gxf6 23. Qxf6 Bd7 24. Rd4 1-0

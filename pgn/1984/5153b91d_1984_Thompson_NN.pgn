@@ -1,0 +1,14 @@
+[Event "Ann Arbor"]
+[Site "Ann Arbor"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Thompson, H."]
+[Black "NN"]
+[Result "1-0"]
+[ECO "B32"]
+[Opening "Sicilian defence"]
+[HashCode "5153b91d"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. c3 dxc3 5. Nxc3 e6 6. Bc4 Nf6 7. O-O Bc5 8.
+e5 Ng8 9. Ne4 Bf8 10. b3 Nge7 11. Nd6# 1-0

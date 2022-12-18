@@ -1,0 +1,20 @@
+[Event "corr WER/K"]
+[Site "corr WER/K"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Krzyszton"]
+[Black "Sundin"]
+[Result "1/2-1/2"]
+[ECO "B92"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Opovcensky variation"]
+[HashCode "63b0297c"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8.
+O-O O-O 9. Be3 Be6 10. f4 exf4 11. Bxf4 Nc6 12. Kh1 Rc8 13. Qe1 Ne5 14. Rd1
+Qc7 15. Qg3 Nfd7 16. Nd4 Rfe8 17. Nf5 Bf8 18. Bh6 Ng6 19. Bc1 d5 20. Qxc7
+Rxc7 21. Nd4 dxe4 22. Nxe6 Rxe6 23. Bg4 Rf6 24. Nxe4 Rxf1+ 25. Rxf1 Nde5
+26. Bd1 Nd3 27. cxd3 Rxc1 28. Kg1 Nf4 29. d4 Ne6 30. d5 Nc5 31. Bf3 Rxf1+
+32. Kxf1 Nxe4 33. Bxe4 1/2-1/2
+

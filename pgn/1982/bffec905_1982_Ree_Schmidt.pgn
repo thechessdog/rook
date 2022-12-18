@@ -1,0 +1,26 @@
+[Event "Nijmegen"]
+[Site "Nijmegen"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Ree, Hans"]
+[Black "Schmidt, Bodo"]
+[Result "1-0"]
+[ECO "D30"]
+[Opening "QGD"]
+[Variation "Hastings variation"]
+[HashCode "bffec905"]
+[Epoch "Rook"]
+[WhiteID "1000098"]
+[WhiteCountry "NED"]
+[BlackID "4601505"]
+[BlackCountry "GER"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. Bg5 h6 6. Bxf6 Qxf6 7. Qb3 Qd8 8. g3
+Be7 9. Bg2 O-O 10. e4 dxc4 11. Qxc4 b5 12. Qb3 b4 13. Na4 Ba6 14. Bf1 Qc8 15.
+Ne5 Bxf1 16. Kxf1 c5 17. dxc5 Bxc5 18. Kg2 Be7 19. Rac1 Qb7 20. Qd3 Rd8 21. Qf3
+Bf6 22. Nc5 Qe7 23. Nxf7 Kxf7 24. e5 Nd7 25. Nxd7 Qxd7 26. exf6 gxf6 27. Rc4
+Qd5 28. Rxb4 Qxf3+ 29. Kxf3 Rab8 30. Rxb8 Rxb8 31. b3 Rc8 32. Rd1 Ke7 33. Rd4
+a5 34. Rc4 Rb8 35. Rc7+ Kd6 36. Rh7 a4 37. bxa4 Rb2 38. Rxh6 Ke5 39. Rh8 Rxa2
+40. Ra8 Ra3+ 41. Kg2 f5 42. a5 Ra2 43. a6 Kf6 44. a7 Kg7 45. Re8 Rxa7 46. Rxe6
+Kf7 47. Rb6 Ra3 48. h4 Rc3 49. Rb1 Kg6 50. Re1 Kf6 51. Re3 Rc4 52. Ra3 Kg6 53.
+Kf3 Rc5 54. Ra6+ Kh5 55. Rf6 Rc3+ 56. Kg2 Rc5 57. Kh3 1-0

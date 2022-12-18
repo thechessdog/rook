@@ -1,0 +1,21 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Hentzgen, K."]
+[Black "Brechlin, O."]
+[Result "1-0"]
+[ECO "B00"]
+[Opening "KP"]
+[Variation "Nimzovich defence"]
+[HashCode "5e335013"]
+[Epoch "Rook"]
+
+1. e4 Nc6 2. d4 e5 3. dxe5 Nxe5 4. Nc3 Bc5 5. Nf3 Nxf3+ 6. Qxf3 d6 7. Bc4
+Qf6 8. Qg3 Ne7 9. O-O O-O 10. Bg5 Qe5 11. Bxe7 Qxe7 12. Nd5 Qd8 13. b4 Bb6
+14. Nxb6 axb6 15. f4 Be6 16. Bxe6 fxe6 17. Qb3 Qf6 18. Rad1 Kh8 19. Qc4 Qb2
+20. Rf2 d5 21. exd5 exd5 22. Qxd5 Rxa2 23. Qf7 Rc8 24. Qxc7 Raa8 25. Qxb6
+Qf6 26. Qxb7 Rab8 27. Qe4 Re8 28. Qc4 Qb6 29. Rd4 Re1+ 30. Rf1 Re4 31. Rd1
+Rxf4 32. g3 Rff8 33. c3 Rbc8 34. Qd3 Rb8 35. Rf1 Rbc8 36. Rxf8+ Rxf8 37.
+Kg2 1-0
+

@@ -1,0 +1,24 @@
+[Event "Israel"]
+[Site "Israel"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Lederman, Leon"]
+[Black "Gruenfeld, Yehuda"]
+[Result "0-1"]
+[ECO "B16"]
+[Opening "Caro-Kann"]
+[Variation "Bronstein-Larsen variation"]
+[HashCode "21bbaeb2"]
+[Epoch "Rook"]
+[BlackID "2800020"]
+[BlackCountry "ISR"]
+[WhiteID "2800403"]
+[WhiteCountry "ISR"]
+
+1. e4 c6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Nf6 5. Nxf6+ gxf6 6. Qd3 Na6 7. Bd2 Be6
+8. O-O-O Qd6 9. c4 O-O-O 10. Ne2 h5 11. h4 Nc7 12. Qc2 Bh6 13. Nc3 Bxd2+ 14.
+Rxd2 Kb8 15. g3 Qb4 16. a3 Qa5 17. Qe4 Qb6 18. d5 cxd5 19. cxd5 Qd6 20. Bg2 Bg4
+21. Kb1 Qe5 22. Qxe5 fxe5 23. Re1 f6 24. f4 exf4 25. gxf4 Rd7 26. Ka2 Re8 27.
+b4 e6 28. Kb3 exd5 29. Na4 b6 30. Nc3 d4 31. Ne4 Ree7 32. Rc1 f5 33. Ng5 Ne6
+34. Nxe6 Rxe6 35. Bf1 Bf3 36. Bd3 Re3 37. Kb2 Be4 38. Be2 Rh3 39. Bxh5 Rxh4 40.
+Be2 Rxf4 41. Ba6 Bb7 42. Bd3 Rf3 0-1

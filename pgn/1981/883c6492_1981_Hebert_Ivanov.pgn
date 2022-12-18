@@ -1,0 +1,31 @@
+[Event "Canada op"]
+[Site "Canada op"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Hebert, Jean"]
+[Black "Ivanov, Igor Vasilyevich"]
+[Result "0-1"]
+[ECO "C77"]
+[Opening "Ruy Lopez"]
+[Variation "Wormald (Alapin) attack"]
+[HashCode "883c6492"]
+[Epoch "Rook"]
+[WhiteID "2600048"]
+[WhiteCountry "CAN"]
+[BlackCountry "RUS"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. Qe2 Be7 6. c3 b5 7. Bc2 d5 8. d3
+O-O 9. Nbd2 Re8 10. Nf1 Bf8 11. Bg5 Be6 12. Bb3 Be7 13. Ng3 h6 14. Bd2 Na5 15.
+c4 bxc4 16. dxc4 Nxb3 17. axb3 dxe4 18. Nxe4 Bf5 19. Nxf6+ Bxf6 20. Bc3 e4 21.
+Nd2 e3 22. fxe3 Bh4+ 23. g3 Bd3 24. Qf3 Bg5 25. O-O-O Rxe3 26. Qc6 Bg6 27. h4
+Rxc3+ 28. bxc3 Qd3 29. Kb2 Qc2+ 30. Ka3 Be7+ 31. c5 Rd8 32. Qxc7 Bf6 33. h5 Bf5
+34. Rc1 Qxd2 35. Rhd1 Qxd1 36. Rxd1 Rxd1 37. Qb8+ Rd8 38. Qf4 Be6 39. c4 Be7
+40. Qc7 Kf8 41. Qb6 Rc8 42. Qxa6 Bxc5+ 43. Kb2 Bd4+ 44. Ka2 Bf6 45. Qb7 Kg8 46.
+Qe4 Rd8 47. Ka3 Rc8 48. Kb4 Rb8+ 49. Ka3 Bc3 50. Qf3 Bb4+ 51. Kb2 Rd8 52. Qb7
+Bd6 53. Qf3 Bf8 54. Kc3 Rc8 55. Qe4 Rc5 56. Qa8 Rxh5 57. b4 Rg5 58. Qb8 Rg4 59.
+c5 Rc4+ 60. Kd2 h5 61. Ke3 g6 62. Kd3 g5 63. Qd8 Rxb4 64. Qxg5+ Bg7 65. c6 Rd4+
+66. Ke3 Rd5 67. Qe7 Bh6+ 68. Ke4 Bg5 69. Qe8+ Kh7 70. c7 Rc5 71. Qd8 Bf6 72.
+Ke3 Rc3+ 73. Kf2 Kg6 74. Qd6 h4 75. gxh4 Kf5 76. Qd8 Be5 77. Qg5+ Ke4 78. h5
+Rxc7 79. Qe3+ Kf5 80. h6 Rc3 81. Qd2 Rh3 82. Kg1 Kg6 83. Qd8 Rxh6 84. Qd3+ Kg7
+85. Qe4 Rh5 86. Kg2 Bf6 87. Qb4 Rf5 88. Qa4 Bd5+ 89. Kg1 Kg6 90. Qa6 Kg5 91.
+Qa4 Rf4 92. Qd7 Bd4+ 93. Kh2 Rf2+ 94. Kg1 Ra2+ 0-1

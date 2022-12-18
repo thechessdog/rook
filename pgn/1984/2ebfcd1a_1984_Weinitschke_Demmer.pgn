@@ -1,0 +1,20 @@
+[Event "corr ch-DDR"]
+[Site "corr ch-DDR"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Weinitschke"]
+[Black "Demmer"]
+[Result "1-0"]
+[ECO "B52"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky attack, 3...Bd7"]
+[HashCode "2ebfcd1a"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Qxd7 5. O-O Nc6 6. Nc3 e6 7. d4
+cxd4 8. Nxd4 Nf6 9. Be3 Be7 10. f4 O-O 11. Qf3 a6 12. Rad1 Qc7 13. Kh1 Nxd4
+14. Bxd4 Ne8 15. f5 Bf6 16. Bxf6 Nxf6 17. g4 Rad8 18. g5 Nd7 19. Rf2 Ne5
+20. Qg3 b5 21. a3 Nc4 22. f6 Nxb2 23. fxg7 Kxg7 24. Rdf1 Rc8 25. Rf3 Nc4
+26. Qh4 Ne5 27. Qh6+ Kg8 28. Rh3 f6 29. gxf6 Rf7 30. Rg1+ Kh8 31. Rhg3 Ng6
+32. h4 Qb7 33. Rxg6 1-0
+

@@ -1,0 +1,17 @@
+[Event "England"]
+[Site "England"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "NN"]
+[Black "Martin, Juan"]
+[Result "0-1"]
+[ECO "B00"]
+[Opening "KP"]
+[Variation "Colorado counter"]
+[HashCode "829ce8d7"]
+[Epoch "Rook"]
+
+1. e4 Nc6 2. Nf3 f5 3. exf5 d5 4. Nh4 e5 5. Qh5+ g6 6. fxg6 Nf6 7. g7+ Nxh5
+8. gxh8=Q Qxh4 9. Qxh7 Nd4 10. Qxc7 Bd6 11. Qh7 Bf5 12. Bb5+ Kf8 13. Qh8+
+Kf7 14. Qxa8 Qe4+ 15. Kf1 Nxc2 16. Qxb7+ Kf6 17. Be2 Nf4 0-1
+

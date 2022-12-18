@@ -1,0 +1,19 @@
+[Event "Baku"]
+[Site "Baku"]
+[Date "1980.??.??"]
+[Round "12"]
+[White "Mikhalchishin, Adrian"]
+[Black "Gufeld, Eduard"]
+[Result "1/2-1/2"]
+[ECO "B52"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky attack, 3...Bd7"]
+[HashCode "7da03518"]
+[Epoch "Rook"]
+[WhiteID "14602385"]
+[WhiteCountry "SLO"]
+[BlackCountry "RUS"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Qxd7 5. O-O Nf6 6. e5 dxe5 7. Nxe5 Qc8
+8. Nc3 e6 9. d4 Nc6 10. Nxc6 Qxc6 11. dxc5 Bxc5 12. Bg5 Be7 13. Qe2 O-O 14.
+Rad1 h6 15. Bh4 Rfd8 16. Rxd8+ Rxd8 1/2-1/2

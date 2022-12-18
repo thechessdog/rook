@@ -1,0 +1,22 @@
+[Event "DSV-Turnier"]
+[Site "Leipzig"]
+[Date "1980.01.01"]
+[Round "2"]
+[White "Vilela, Jose Luis"]
+[Black "Boensch, Uwe"]
+[Result "0-1"]
+[ECO "A75"]
+[Opening "Benoni"]
+[Variation "classical with ...a6 and 10...Bg4"]
+[HashCode "6da0a7ce"]
+[Epoch "Rook"]
+[BlackID "4611268"]
+[BlackCountry "GER"]
+[WhiteCountry "EST"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. e4 Bg7 8. Be2
+O-O 9. O-O a6 10. a4 Bg4 11. Bg5 Bxf3 12. Bxf3 Nbd7 13. Qc2 c4 14. Be2 Rc8 15.
+a5 Re8 16. Rfe1 h6 17. Bd2 Qe7 18. f3 Nh5 19. g4 Nhf6 20. Kg2 Nh7 21. Bf4 Rc7
+22. Qd2 g5 23. Bg3 Nhf8 24. Nd1 Ng6 25. Rc1 Rec8 26. Rf1 Be5 27. Ne3 Nf4+ 28.
+Kh1 c3 29. bxc3 Bxc3 30. Qa2 Qf6 31. Nf5 Ne5 32. Bxf4 gxf4 33. Qa3 Rc5 34. Qb3
+R8c7 35. Rc2 Nd7 36. Rfc1 Bxa5 0-1

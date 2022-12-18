@@ -1,0 +1,22 @@
+[Event "corr EU/M"]
+[Site "corr EU/M"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Marinkovic"]
+[Black "Rathmann"]
+[Result "1-0"]
+[ECO "C51"]
+[Opening "Evans gambit"]
+[Variation "Cordel variation"]
+[HashCode "92568907"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 Bxb4 5. c3 Be7 6. d4 Na5 7. Nxe5 Nxc4
+8. Nxc4 d5 9. exd5 Qxd5 10. Ne3 Qd8 11. O-O Nf6 12. c4 O-O 13. Nc3 c6 14.
+Bb2 b6 15. Re1 Re8 16. a4 a6 17. Qd3 Be6 18. f4 Bd6 19. g3 Bh3 20. Ncd1 Ng4
+21. Nf2 Nxf2 22. Kxf2 Qd7 23. Rad1 Bb4 24. Bc3 Bf8 25. d5 Rad8 26. Qd4 Qc7
+27. Qd2 Bc5 28. Bd4 Qd6 29. Bxc5 Qxc5 30. Qd4 Qxd4 31. Rxd4 Bc8 32. Rb1 c5
+33. Rd2 Rd6 34. Rdb2 Bd7 35. Rxb6 Rxb6 36. Rxb6 Bxa4 37. Rxa6 Bd7 38. Ra7
+Bh3 39. f5 g6 40. Rc7 gxf5 41. Rxc5 Ra8 42. d6 Ra2+ 43. Ke1 Ra8 44. d7 f4
+45. g4 Kg7 46. Nf5+ Kf6 47. Rc8 1-0
+

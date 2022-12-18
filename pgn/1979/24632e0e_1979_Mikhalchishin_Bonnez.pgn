@@ -1,0 +1,21 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Mikhalchishin, Adrian"]
+[Black "Bonnez, Finn"]
+[Result "1-0"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (without ...d6)"]
+[HashCode "24632e0e"]
+[Epoch "Rook"]
+[BlackID "1403800"]
+[WhiteID "14602385"]
+[WhiteCountry "SLO"]
+[BlackCountry "DEN"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O Bg4 6. h3 Bh5 7. g4 Bg6 8. d3
+Qc7 9. Be3 e5 10. a4 Be7 11. a5 Rd8 12. Nbd2 Nf6 13. Nc4 Bxe4 14. Nfxe5 Nd5 15.
+dxe4 Nxe3 16. Qf3 f6 17. fxe3 fxe5 18. Qf7+ Kd7 19. Qf5+ Ke8 20. Nxe5 Rf8 21.
+Qe6 Rxf1+ 22. Rxf1 1-0

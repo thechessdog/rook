@@ -1,0 +1,21 @@
+[Event "Bundesliga 8283"]
+[Site "Duitsland tt"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Calvo José Minguez, Ricardo"]
+[Black "Hartmann, Gerald"]
+[Result "1-0"]
+[ECO "E92"]
+[Opening "King's Indian"]
+[Variation "Petrosian system, Stein variation"]
+[HashCode "3c02d97f"]
+[Epoch "Rook"]
+[BlackID "4603729"]
+[BlackCountry "GER"]
+[WhiteCountry "EST"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. d5 a5 8. Bg5 h6
+9. Bh4 Na6 10. Nd2 Qe8 11. g4 Bd7 12. Nf1 Nc5 13. f3 Nh7 14. Qd2 f5 15. gxf5
+gxf5 16. Rg1 Kh8 17. exf5 e4 18. Rxg7 Kxg7 19. Qd4+ Kg8 20. fxe4 Nxe4 21. Nxe4
+Bxf5 22. Nfd2 Bxe4 23. Nxe4 Rf4 24. Nf6+ Rxf6 25. Bxf6 Qg6 26. Bd3 Qh5 27.
+Bxh7+ Kxh7 28. Qe4+ Kg8 29. Qg2+ 1-0

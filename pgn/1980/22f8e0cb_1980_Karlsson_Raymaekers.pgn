@@ -1,0 +1,18 @@
+[Event "corr EU"]
+[Site "corr EU"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Karlsson, E."]
+[Black "Raymaekers, R."]
+[Result "1-0"]
+[ECO "B97"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7...Qb6"]
+[HashCode "22f8e0cb"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qb6 8.
+Nb3 Nbd7 9. Qe2 Qc7 10. O-O-O b5 11. a3 Be7 12. g3 Bb7 13. Bg2 Nb6 14. Na5
+Na4 15. Nxb7 Nxc3 16. bxc3 e5 17. fxe5 dxe5 18. Bxf6 gxf6 19. Rd3 Bxa3+ 20.
+Kb1 Qxb7 21. Rhd1 Be7 22. Qg4 Rd8 23. Rxd8+ Bxd8 24. Qg7 1-0
+

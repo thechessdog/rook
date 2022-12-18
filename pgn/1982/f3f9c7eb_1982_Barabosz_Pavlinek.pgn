@@ -1,0 +1,24 @@
+[Event "corr CSSR cup"]
+[Site "corr CSSR cup"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Barabosz"]
+[Black "Pavlinek"]
+[Result "0-1"]
+[ECO "E32"]
+[Opening "Nimzo-Indian"]
+[Variation "classical variation"]
+[HashCode "f3f9c7eb"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 O-O 5. Nf3 c5 6. dxc5 Qe7 7. a3 Bxc3+
+8. Qxc3 Qxc5 9. e3 d5 10. b4 Qc7 11. Bb2 Nbd7 12. Rc1 b6 13. Bd3 Ba6 14.
+Ng5 g6 15. Qc2 dxc4 16. Bxc4 Bxc4 17. Qxc4 Qxc4 18. Rxc4 Rfc8 19. Rxc8+
+Rxc8 20. O-O Rc2 21. Rb1 h6 22. Nh3 Kf8 23. Nf4 Ng4 24. Nd3 Rd2 25. Ne1
+Nge5 26. f3 Nc4 27. Bc3 Ra2 28. Ra1 Rxa1 29. Bxa1 Nxe3 30. Bb2 Nd5 31. Nd3
+f6 32. h4 e5 33. g4 g5 34. Bc1 Ke7 35. Kf2 Nf8 36. Nb2 Ne6 37. Nc4 b5 38.
+Ne3 Nxe3 39. Bxe3 Nd4 40. hxg5 hxg5 41. Bc1 Ke6 42. Ke3 Kd5 43. Bb2 Kc4 44.
+Ke4 Kb3 45. Bc1 a6 46. Kd5 Kc2 47. Be3 Kd3 48. Bf2 Ke2 49. Bxd4 exd4 50.
+Kxd4 Kxf3 51. Kc5 Kxg4 52. Kb6 f5 53. Kxa6 f4 54. Kxb5 f3 55. a4 f2 56. Ka5
+f1=Q 0-1
+

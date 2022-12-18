@@ -1,0 +1,18 @@
+[Event "Latin America"]
+[Site "Latin America"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Matos"]
+[Black "Micheloud"]
+[Result "1/2-1/2"]
+[ECO "E41"]
+[Opening "Nimzo-Indian"]
+[Variation "e3, Huebner variation"]
+[HashCode "d54e02d8"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 Nc6 6. Nf3 Bxc3+ 7. bxc3 d6
+8. O-O O-O 9. Nd2 e5 10. d5 Ne7 11. e4 Ne8 12. f4 f5 13. fxe5 dxe5 14. exf5
+Nxf5 15. Ne4 Qc7 16. Ng5 h6 17. Qc2 Ned6 18. Ne4 Bd7 19. Rf2 Nxe4 20. Bxe4
+Nd6 21. Be3 Rxf2 22. Bxf2 1/2-1/2
+

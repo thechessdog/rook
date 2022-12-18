@@ -1,0 +1,20 @@
+[Event "NZD-ch"]
+[Site "Auckland"]
+[Date "1977.??.??"]
+[Round "1"]
+[White "Anderson, Bruce R"]
+[Black "Lynn, K."]
+[Result "1-0"]
+[ECO "B78"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, 10.O-O-O"]
+[HashCode "cb45b904"]
+[Epoch "Rook"]
+[WhiteID "4300173"]
+[WhiteCountry "NZL"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 Nc6 8. Bc4
+O-O 9. Qd2 Bd7 10. O-O-O Qa5 11. Kb1 Rfc8 12. Bb3 Ne5 13. Bg5 Nc4 14. Bxc4 Rxc4
+15. Bxf6 Bxf6 16. Nd5 Qxd2 17. Nxf6+ exf6 18. Rxd2 Kf8 19. h4 h5 20. Ne2 Rc6
+21. Rhd1 Ke7 22. Nc3 a6 23. Nd5+ Ke6 24. c3 Re8 25. g3 b5 26. Rd4 Bc8 27. f4
+Bb7 28. Re1 Rb8 29. f5+ gxf5 30. exf5+ Kxf5 31. Ne7# 1-0

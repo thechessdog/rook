@@ -1,0 +1,21 @@
+[Event "corr DDR-FSM"]
+[Site "corr DDR-FSM"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Bade, U."]
+[Black "Potthammel, J."]
+[Result "1-0"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...g6"]
+[HashCode "5614424d"]
+[Epoch "Rook"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 g6 6. Qb3 Bg7 7. cxd5 O-O
+8. Be2 Nbd7 9. Nh3 Qb6 10. Nf4 Qxb3 11. axb3 Nb6 12. Ra5 Rd8 13. Be3 a6 14.
+O-O Bf5 15. Bf3 Bg4 16. d6 Bxf3 17. dxe7 Rd7 18. gxf3 Re8 19. Rc1 Rexe7 20.
+Ncd5 Nbxd5 21. Nxd5 Re8 22. Nb6 Rd6 23. d5 Bf8 24. Bd4 Nh5 25. Rd1 Ng7 26.
+Bc5 Rdd8 27. d6 Re6 28. Nc4 Nf5 29. d7 Bxc5 30. Rxc5 Kf8 31. Rc7 Ke7 32. f4
+f6 33. Kg2 b6 34. Rb7 b5 35. Nb6 Rc6 36. Nc8+ Kf8 37. Kf3 h5 38. Rb8 Rc7
+39. Ra8 Ne7 40. Nb6 1-0
+

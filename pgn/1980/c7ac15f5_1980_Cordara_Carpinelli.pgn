@@ -1,0 +1,18 @@
+[Event "corr Italy"]
+[Site "corr Italy"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Cordara"]
+[Black "Carpinelli"]
+[Result "0-1"]
+[ECO "A19"]
+[Opening "English"]
+[Variation "Mikenas-Carls, Sicilian variation"]
+[HashCode "c7ac15f5"]
+[Epoch "Rook"]
+
+1. c4 e6 2. Nc3 Nf6 3. e4 c5 4. e5 Ng8 5. d4 cxd4 6. Qxd4 Nc6 7. Qe4 d6 8.
+Nf3 Qa5 9. exd6 Bxd6 10. Bd3 Nf6 11. Qe2 Ne5 12. Bd2 Nxf3+ 13. Qxf3 Qe5+
+14. Be3 Bd7 15. O-O-O Bc6 16. Qh3 Bb4 17. f4 Qa5 18. Bd2 Bxc3 19. Bxc3 Qxa2
+20. f5 O-O-O 21. fxe6 Qa1+ 0-1
+

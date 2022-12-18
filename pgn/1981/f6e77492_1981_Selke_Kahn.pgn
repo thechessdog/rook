@@ -1,0 +1,19 @@
+[Event "corr ch11-DDR"]
+[Site "corr ch11-DDR"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Selke, H."]
+[Black "Kahn, P."]
+[Result "0-1"]
+[ECO "C73"]
+[Opening "Ruy Lopez"]
+[Variation "modern Steinitz defence, Richter variation"]
+[HashCode "f6e77492"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. Bxc6+ bxc6 6. d4 Bg4 7. dxe5
+dxe5 8. Qxd8+ Rxd8 9. Be3 f6 10. Nbd2 Ne7 11. Ng1 Ng6 12. f3 Be6 13. Ne2
+Bd6 14. g3 O-O 15. a3 Rb8 16. b3 Rfd8 17. c4 Be7 18. Nc3 Rd3 19. Nd1 Rbd8
+20. Ke2 f5 21. exf5 Bxf5 22. Nf2 Rxe3+ 23. Kxe3 Bg5+ 24. f4 exf4+ 25. Ke2
+fxg3 26. Nfe4 Bg4+ 27. Ke1 g2 28. Rg1 Rxd2 29. Nxd2 0-1
+

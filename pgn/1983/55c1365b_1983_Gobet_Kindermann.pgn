@@ -1,0 +1,24 @@
+[Event "Zug"]
+[Site "Zug"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Gobet, Fernand"]
+[Black "Kindermann, Stefan"]
+[Result "1-0"]
+[ECO "B45"]
+[Opening "Sicilian"]
+[Variation "Taimanov variation"]
+[HashCode "55c1365b"]
+[Epoch "Rook"]
+[WhiteID "1300083"]
+[BlackID "4600053"]
+[WhiteCountry "SUI"]
+[BlackCountry "AUT"]
+
+1. e4 c5 2. Nc3 Nc6 3. Nf3 e6 4. d4 cxd4 5. Nxd4 Nf6 6. g3 d6 7. Bg2 Bd7 8. O-O
+a6 9. Re1 Be7 10. b3 O-O 11. Bb2 Qc7 12. Nce2 b5 13. Nxc6 Bxc6 14. Nd4 Bb7 15.
+Rc1 Qb6 16. c4 bxc4 17. Rxc4 Rfd8 18. Rc2 a5 19. Qd3 Nd7 20. Qe3 Nc5 21. Nf3
+Rac8 22. e5 dxe5 23. Nxe5 Bxg2 24. Kxg2 Qb7+ 25. Kg1 Na6 26. Nxf7 Kxf7 27.
+Qxe6+ Kf8 28. Rxc8 Rxc8 29. Qf5+ Bf6 30. Ba3+ Nb4 31. Qxa5 Rb8 32. Qc5+ Be7 33.
+Qf5+ Kg8 34. Qe6+ Kf8 35. Qf5+ Kg8 36. Qe6+ Kf8 37. Re5 g6 38. Bc1 Nc6 39. Bh6+
+Ke8 40. Rd5 Qb4 41. Qxc6+ 1-0

@@ -1,0 +1,20 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Scherf"]
+[Black "Weber"]
+[Result "0-1"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack"]
+[HashCode "86cc0906"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. Bg5 d5 3. Nc3 h6 4. Bh4 Bf5 5. Bxf6 gxf6 6. e3 Rg8 7. Nge2 Nc6
+8. Ng3 Qd7 9. Nxf5 Qxf5 10. Bd3 Qg5 11. Qf3 e6 12. Nb5 O-O-O 13. g3 a6 14.
+h4 Qg7 15. Nc3 Bb4 16. O-O-O Kb8 17. a3 Bd6 18. Ne2 Rc8 19. e4 dxe4 20.
+Bxe4 Nd8 21. Qb3 f5 22. Bf3 f6 23. Rd3 e5 24. Bg2 Qg6 25. c4 e4 26. Rd2 c5
+27. dxc5 Be5 28. Qe3 Qf7 29. b3 Ne6 30. f4 exf3 31. Bxf3 Nxc5 32. Bd5 Qe7
+33. Kb1 Ne4 34. Bxe4 fxe4 35. Ka2 Rcd8 36. Rhd1 Rxd2+ 37. Rxd2 Rd8 38. Nf4
+Rxd2+ 39. Qxd2 Qc5 40. Nd5 Qg1 41. Nc3 Kc8 0-1
+

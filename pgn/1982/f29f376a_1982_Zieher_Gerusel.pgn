@@ -1,0 +1,25 @@
+[Event "Bundesliga 8182"]
+[Site "Duitsland tt"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Zieher, Hartmut"]
+[Black "Gerusel, Mathias"]
+[Result "1-0"]
+[ECO "B42"]
+[Opening "Sicilian"]
+[Variation "Kan, Swiss cheese variation"]
+[HashCode "f29f376a"]
+[Epoch "Rook"]
+[WhiteID "4607821"]
+[WhiteCountry "GER"]
+[BlackID "4601122"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 g6 6. Nc3 Bg7 7. Be3 Ne7 8. O-O
+Nbc6 9. Nxc6 bxc6 10. Na4 d6 11. Bb6 Qd7 12. Ba5 Qb7 13. Rb1 Bd7 14. Be2 Nc8
+15. b4 Qa7 16. c4 O-O 17. Bf3 Rb8 18. Qc2 Bd4 19. a3 e5 20. c5 Be6 21. Rbc1 d5
+22. exd5 cxd5 23. c6 Nd6 24. c7 Rbc8 25. Qc6 Nc4 26. Be2 Qa8 27. Qxa8 Rxa8 28.
+Bxc4 dxc4 29. Nb6 c3 30. Na4 Bc4 31. Rfe1 Ra7 32. Nxc3 Rc8 33. Ne4 Be6 34. Nd6
+Rf8 35. c8=Q Bxc8 36. Rxc8 Rd7 37. Rxf8+ Kxf8 38. Ne4 Kg7 39. g3 f5 40. Ng5 h6
+41. Nf3 Bc3 42. Rc1 Rd3 43. Ne1 Bxe1 44. Rxe1 e4 45. a4 Ra3 46. Rc1 Kf6 47.
+Rc6+ Kg5 48. Rxa6 Rxa4 1-0

@@ -1,0 +1,18 @@
+[Event "corr FRG/C"]
+[Site "corr FRG/C"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Maass, H."]
+[Black "Palm, H."]
+[Result "0-1"]
+[ECO "B95"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6...e6"]
+[HashCode "bde44db2"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. Qd3 b5 8.
+a3 Nbd7 9. O-O-O Qc7 10. f4 Rb8 11. Nb3 b4 12. axb4 Rxb4 13. Be2 Be7 14. g4
+Bb7 15. Bf3 O-O 16. Rhg1 Rb8 17. Rg3 a5 18. Bxf6 Nxf6 19. Nb5 Qb6 20. Nxd6
+Ba6 21. Qd2 a4 0-1
+

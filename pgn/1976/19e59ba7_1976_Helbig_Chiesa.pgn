@@ -1,0 +1,16 @@
+[Event "corr Italy"]
+[Site "corr Italy"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Helbig"]
+[Black "Chiesa"]
+[Result "0-1"]
+[ECO "D00"]
+[Opening "Blackmar-Diemer gambit"]
+[HashCode "19e59ba7"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. Nc3 d5 3. e4 dxe4 4. f3 exf3 5. Nxf3 g6 6. Bc4 Bg7 7. O-O O-O
+8. Qe1 Nc6 9. Qh4 Ng4 10. h3 Bxd4+ 11. Kh1 Bf6 12. Bg5 Ne3 13. Bxf6 exf6
+14. Ne4 Kg7 15. Nxf6 h6 16. g4 Qxf6 17. g5 Qf5 18. gxh6+ Kh8 19. Ng1 g5 0-1
+

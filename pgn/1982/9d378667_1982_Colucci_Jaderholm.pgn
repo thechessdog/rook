@@ -1,0 +1,19 @@
+[Event "corr EU/H"]
+[Site "corr EU/H"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Colucci"]
+[Black "Jaderholm"]
+[Result "1-0"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "9d378667"]
+[Epoch "Rook"]
+
+1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. d4 cxd4 5. cxd4 d6 6. Nf3 e6 7. Nc3 Nxc3 8.
+bxc3 Nc6 9. exd6 Bxd6 10. Bd3 Bd7 11. O-O Qc7 12. Re1 Ne7 13. c4 Bc6 14. g3
+b6 15. d5 exd5 16. cxd5 Bxd5 17. Bb5+ Bc6 18. Bxc6+ Qxc6 19. Nd4 Qd5 20.
+Qa4+ Kf8 21. Ba3 Bc5 22. Rad1 Qxa2 23. Qd7 Bxa3 24. Nf5 Re8 25. Nxe7 Bxe7
+26. Qxe7+ 1-0
+

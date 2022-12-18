@@ -1,0 +1,19 @@
+[Event "HMC"]
+[Site "HMC"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Van Reek, J."]
+[Black "Olthof, R."]
+[Result "0-1"]
+[ECO "D86"]
+[Opening "Gruenfeld"]
+[Variation "exchange, classical variation"]
+[HashCode "1c0cd2b1"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Bc4 c5
+8. Ne2 Nc6 9. Be3 cxd4 10. cxd4 b5 11. Bd5 Bd7 12. Rc1 Rc8 13. Qd2 e6 14.
+Bb3 O-O 15. d5 exd5 16. exd5 Na5 17. Bxa7 Nxb3 18. axb3 Rxc1+ 19. Nxc1 Qc7
+20. O-O Qxa7 21. Ne2 Rc8 22. Qd3 Qc5 23. Rd1 Qc2 24. Kf1 b4 25. d6 Bb5 26.
+Qxc2 Rxc2 27. d7 Bxe2+ 28. Ke1 Bc3+ 0-1
+

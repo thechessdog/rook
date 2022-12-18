@@ -1,0 +1,19 @@
+[Event "Lvov zt"]
+[Site "Lvov zt"]
+[Date "1978.04.01"]
+[Round "12"]
+[White "Kochyev, Alexander"]
+[Black "Dorfman, Iossif"]
+[Result "1/2-1/2"]
+[ECO "E62"]
+[Opening "King's Indian"]
+[Variation "fianchetto, Uhlmann (Szabo) variation"]
+[HashCode "e4c03d8d"]
+[Epoch "Rook"]
+[WhiteID "4100719"]
+[WhiteCountry "RUS"]
+[BlackCountry "FRA"]
+
+1. Nf3 Nf6 2. c4 g6 3. d4 Bg7 4. g3 O-O 5. Bg2 d6 6. O-O Nc6 7. Nc3 e5 8. dxe5
+Nxe5 9. Nxe5 dxe5 10. Qxd8 Rxd8 11. Bg5 Rd4 12. b3 c6 13. Rad1 Rxd1 14. Rxd1
+Be6 15. Ne4 1/2-1/2

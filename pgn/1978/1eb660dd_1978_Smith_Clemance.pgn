@@ -1,0 +1,25 @@
+[Event "NZD-ch"]
+[Site "Wellington"]
+[Date "1978.??.??"]
+[Round "5"]
+[White "Smith, Robert W"]
+[Black "Clemance, Philip A"]
+[Result "0-1"]
+[ECO "B52"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky attack, 3...Bd7"]
+[HashCode "1eb660dd"]
+[Epoch "Rook"]
+[WhiteID "4300190"]
+[WhiteCountry "NZL"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Qxd7 5. O-O Nf6 6. Re1 Nc6 7. c3 e6 8.
+d4 cxd4 9. cxd4 d5 10. e5 Ne4 11. Nbd2 Nxd2 12. Bxd2 Be7 13. Bf4 O-O 14. h4
+Rac8 15. h5 Nb4 16. Re2 h6 17. a3 Nc6 18. Qd3 f5 19. exf6 Bxf6 20. Rae1 Qf7 21.
+Bd6 Rfd8 22. Rxe6 Qxh5 23. Be5 Bxe5 24. Nxe5 Nxe5 25. dxe5 Rc4 26. g3 Rh4 27.
+gxh4 Qg4+ 28. Qg3 Qxe6 29. h5 d4 30. Qg6 Qxg6+ 31. hxg6 d3 32. f4 d2 33. Rd1
+Kf8 34. Kf2 h5 35. Kg3 Rd4 36. Kh4 Rxf4+ 37. Kxh5 Rd4 38. Kg5 Ke7 39. Kf5 Rd8
+40. Kf4 Ke6 41. Ke4 Rd7 42. b3 Rd8 43. b4 Rd5 44. Kf4 Rd4+ 45. Ke3 Kxe5 46.
+Rxd2 Rxd2 47. Kxd2 Kf5 48. Kc3 Kxg6 49. Kc4 Kf5 50. Kd5 g5 51. Kd6 g4 52. Kc7
+g3 53. Kxb7 g2 54. Kxa7 g1=Q+ 55. Ka6 Ke6 56. a4 Kd7 57. b5 Kc7 58. a5 Qf1 59.
+Ka7 Qxb5 60. a6 Qb8# 0-1

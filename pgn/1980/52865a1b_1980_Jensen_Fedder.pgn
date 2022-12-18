@@ -1,0 +1,23 @@
+[Event "Hillerod"]
+[Site "Hillerod"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Jensen, Allan"]
+[Black "Fedder, Steen"]
+[Result "0-1"]
+[ECO "B84"]
+[Opening "Sicilian"]
+[Variation "Scheveningen, classical, Nd7 system"]
+[HashCode "52865a1b"]
+[Epoch "Rook"]
+[BlackID "1400126"]
+[BlackCountry "DEN"]
+[WhiteID "1401181"]
+[WhiteCountry "DEN"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e6 6. Be2 a6 7. O-O Nbd7 8. f4
+b5 9. Kh1 Bb7 10. Bf3 Nc5 11. e5 Nfe4 12. Nxe4 Nxe4 13. Qe1 d5 14. f5 Qb6 15.
+Be3 Bc5 16. Rd1 Bxd4 17. Bxd4 Qc6 18. fxe6 fxe6 19. Bh5+ g6 20. Bg4 O-O-O 21.
+Qb4 h5 22. Be2 Rh7 23. a4 bxa4 24. Ra1 h4 25. Bg4 Re8 26. Rf8 Rxf8 27. Qxf8+
+Kd7 28. Rf1 Qxc2 29. Bxe6+ Kc6 30. Qg8 Qc4 31. Rd1 Re7 32. Be3 Qe2 33. Rc1+ Kb5
+34. Bxd5 Qxe3 35. Bc4+ Kb4 36. Rf1 Nf2+ 37. Rxf2 Qxf2 38. Qd8 Bxg2# 0-1

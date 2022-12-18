@@ -1,0 +1,19 @@
+[Event "corr DDR-M"]
+[Site "corr DDR-M"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Stavenhagen, J."]
+[Black "Jarosczinsky, E."]
+[Result "0-1"]
+[ECO "E12"]
+[Opening "Queen's Indian"]
+[Variation "4.Nc3"]
+[HashCode "97b7bac3"]
+[Epoch "Rook"]
+
+1. d4 e6 2. Nf3 b6 3. c4 Nf6 4. Nc3 Bb7 5. Bg5 Be7 6. d5 Nxd5 7. cxd5 Bxg5
+8. e4 Be7 9. Bc4 O-O 10. O-O exd5 11. Nxd5 Nc6 12. Re1 Na5 13. Nxe7+ Qxe7
+14. Bd3 c5 15. Rc1 Rad8 16. Qc2 d6 17. Re3 Nc6 18. e5 g6 19. e6 Nb4 20.
+exf7+ Qxf7 21. Qa4 a6 22. a3 b5 23. Qd1 Nd5 24. Re1 Nf4 25. Ng5 Qd5 26. Be4
+Qxg5 27. Bxb7 Nh3+ 0-1
+

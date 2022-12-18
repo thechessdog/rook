@@ -1,0 +1,19 @@
+[Event "BL2-N 8081"]
+[Site "BL2-N 8081"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Hamann, Gunther"]
+[Black "Behrmann, Joachim"]
+[Result "0-1"]
+[ECO "E27"]
+[Opening "Nimzo-Indian"]
+[Variation "Saemisch variation"]
+[HashCode "93ae2877"]
+[Epoch "Rook"]
+[BlackID "4607589"]
+[BlackCountry "GER"]
+
+1. c4 Nf6 2. Nc3 e6 3. d4 Bb4 4. a3 Bxc3+ 5. bxc3 O-O 6. Qc2 c5 7. e3 b6 8. Nf3
+Nc6 9. Bd3 Ba6 10. e4 Ne8 11. e5 h6 12. h4 Na5 13. Ng5 f5 14. exf6 Nxf6 15. Bf4
+Bxc4 16. Bh7+ Kh8 17. Bd6 cxd4 18. cxd4 Bb3 19. Qd3 Rc8 20. Bxf8 Qxf8 21. Qb1
+Bd5 22. Be4 Nxe4 23. Nxe4 Nb3 24. Nd2 Nxd2 25. Kxd2 Qxf2+ 26. Kd1 Bxg2 0-1

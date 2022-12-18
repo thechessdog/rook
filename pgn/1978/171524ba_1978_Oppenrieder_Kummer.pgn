@@ -1,0 +1,19 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Oppenrieder"]
+[Black "Kummer"]
+[Result "0-1"]
+[ECO "D02"]
+[Opening "Queen's pawn game"]
+[HashCode "171524ba"]
+[Epoch "Rook"]
+
+1. d4 d5 2. Nf3 Nf6 3. g3 Bf5 4. Bg2 e6 5. O-O Be7 6. Bg5 h6 7. Bxf6 Bxf6
+8. c3 Nd7 9. Nbd2 O-O 10. Re1 Bh7 11. e4 c6 12. Qb3 Qb6 13. h3 Rac8 14. Nh2
+g5 15. Re3 Bg7 16. Rae1 Qxb3 17. axb3 Rfd8 18. b4 b6 19. exd5 cxd5 20. Ra1
+Rc7 21. f4 gxf4 22. gxf4 h5 23. Nhf3 Nf8 24. Ng5 Bf5 25. Rf1 f6 26. Ngf3
+Ng6 27. Ne1 Bh6 28. Ref3 Rg7 29. Kh2 Kh8 30. Bh1 Nh4 31. R3f2 Rdg8 32. Ng2
+Rg3 0-1
+

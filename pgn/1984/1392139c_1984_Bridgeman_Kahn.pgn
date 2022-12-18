@@ -1,0 +1,16 @@
+[Event "corr ch-EU"]
+[Site "corr ch-EU"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Bridgeman"]
+[Black "Kahn"]
+[Result "0-1"]
+[ECO "C45"]
+[Opening "Scotch"]
+[Variation "Horwitz attack"]
+[HashCode "1392139c"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Qh4 5. Nb5 Bb4+ 6. c3 Qxe4+ 7. Be3
+Ba5 8. Nd2 Qg6 9. Nf3 Nge7 10. Bf4 d6 11. g3 Bg4 0-1
+

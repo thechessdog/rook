@@ -1,0 +1,18 @@
+[Event "East Lansing,MI"]
+[Site "East Lansing,MI"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Vandiver"]
+[Black "Baird"]
+[Result "1-0"]
+[ECO "C05"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation"]
+[HashCode "2de8c4bd"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Bd3 c5 6. c3 Nc6 7. Ne2 Qb6 8.
+Nf3 cxd4 9. cxd4 Be7 10. O-O O-O 11. Ng3 f6 12. Ng5 fxg5 13. Qh5 g6 14.
+Bxg6 hxg6 15. Qxg6+ Kh8 16. Nh5 Rf7 17. Qxf7 Bf8 18. Bxg5 Nd8 19. Bf6+ Nxf6
+20. Qxf8+ 1-0
+

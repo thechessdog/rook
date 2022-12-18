@@ -1,0 +1,22 @@
+[Event "Greece"]
+[Site "Greece"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Skembris, Spyridon"]
+[Black "Traindafyllidis, A."]
+[Result "0-1"]
+[ECO "B76"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, 7...O-O"]
+[HashCode "61876c07"]
+[Epoch "Rook"]
+[WhiteID "4200020"]
+[WhiteCountry "GRE"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8. Qd2
+Nc6 9. h4 d5 10. h5 Nxd4 11. Bxd4 dxe4 12. hxg6 hxg6 13. O-O-O exf3 14. Qg5 Qc7
+15. Nd5 Nxd5 16. Bxg7 Bf5 17. c3 Qf4+ 18. Qxf4 Nxf4 19. Bxf8 fxg2 20. Bxg2 Rxf8
+21. Bf1 Kg7 22. c4 Be4 23. Rh2 f5 24. b4 g5 25. Rd7 Kf6 26. Rh6+ Ng6 27. c5 g4
+28. Bd3 Bc6 29. Rd4 Bf3 30. Kd2 Kg5 31. Rh7 Rc8 32. Rf7 e6 33. Rh7 a5 34. Rd6
+Nf4 35. a3 axb4 36. axb4 Ra8 37. Bc4 Ra3 38. Bxe6 Nxe6 39. Rxe6 g3 40. b5 g2
+41. Re1 Kf4 42. Rg7 Rb3 43. b6 Rb2+ 44. Kd3 Rf2 45. Rc1 Rf1 46. c6 Rxc1 0-1

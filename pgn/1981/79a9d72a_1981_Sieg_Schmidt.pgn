@@ -1,0 +1,20 @@
+[Event "RLN 8081"]
+[Site "RLN 8081"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Sieg, U."]
+[Black "Schmidt, Geo"]
+[Result "1-0"]
+[ECO "E18"]
+[Opening "Queen's Indian"]
+[Variation "old main line, 7.Nc3"]
+[HashCode "79a9d72a"]
+[Epoch "Rook"]
+
+1. c4 Nf6 2. Nf3 e6 3. g3 b6 4. Bg2 Bb7 5. O-O Be7 6. d4 O-O 7. Nc3 d5 8.
+Ne5 c6 9. e4 dxc4 10. Nxc4 Nbd7 11. b3 b5 12. Ne3 Qb6 13. Bb2 Rfd8 14. Qc2
+Rac8 15. Rad1 Nf8 16. Qb1 a5 17. Rfe1 Rd7 18. Qa1 Ra8 19. d5 a4 20. dxe6
+fxe6 21. Rxd7 N8xd7 22. bxa4 b4 23. Ne2 Rxa4 24. Qd1 Qa6 25. Bf1 Qa8 26.
+Nf4 Rxa2 27. Bxf6 Nxf6 28. Bc4 Ra5 29. Bxe6+ Kh8 30. Nc4 Ra7 31. e5 Ne4 32.
+Qh5 1-0
+

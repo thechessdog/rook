@@ -1,0 +1,16 @@
+[Event "Dayton,OH"]
+[Site "Dayton,OH"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Barsalou, Norm"]
+[Black "Wall, Bill"]
+[Result "0-1"]
+[ECO "C40"]
+[Opening "Latvian"]
+[Variation "Fraser defence"]
+[HashCode "a821b1e4"]
+[Epoch "Rook"]
+[BlackCountry "USA"]
+
+1. e4 e5 2. Nf3 f5 3. Nxe5 Nc6 4. Nxc6 dxc6 5. exf5 Bxf5 6. g4 Qe7+ 7. Qe2 Bxg4
+8. Qxe7+ Bxe7 9. Rg1 Nf6 10. d4 O-O-O 11. c3 Rhe8 12. Nd2 Bd6+ 13. Be2 Bxe2 0-1

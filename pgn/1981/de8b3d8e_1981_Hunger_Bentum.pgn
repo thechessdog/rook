@@ -1,0 +1,19 @@
+[Event "DDR Tch5"]
+[Site "DDR Tch5"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Hunger, H."]
+[Black "Bentum, H."]
+[Result "1-0"]
+[ECO "E45"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Bronstein (Byrne) variation"]
+[HashCode "de8b3d8e"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 b6 5. Ne2 Ba6 6. Ng3 O-O 7. e4 d5 8.
+cxd5 Bxc3+ 9. bxc3 Bxf1 10. Kxf1 exd5 11. e5 Ne4 12. f3 Nxg3+ 13. hxg3 Qd7
+14. Qd3 g6 15. Bh6 Re8 16. Kf2 Qa4 17. f4 c5 18. f5 cxd4 19. e6 fxe6 20.
+fxg6 Qd7 21. gxh7+ Qxh7 22. Qxd4 Qg6 23. Bf4 Rf8 24. Rh8+ Kf7 25. Rxf8+
+Kxf8 26. Rh1 Kf7 27. Qh8 1-0
+

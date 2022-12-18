@@ -1,0 +1,20 @@
+[Event "Denmark"]
+[Site "Denmark"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Sorensen, Henrik"]
+[Black "Jelling, Erik"]
+[Result "1-0"]
+[ECO "D00"]
+[Opening "Queen's pawn, Mason variation"]
+[HashCode "5f70e772"]
+[Epoch "Rook"]
+[WhiteID "1400827"]
+[BlackID "1400282"]
+[WhiteCountry "DEN"]
+[BlackCountry "DEN"]
+
+1. d4 d5 2. Bf4 Nf6 3. c3 e6 4. e3 Be7 5. Nd2 O-O 6. Bd3 c5 7. Ngf3 b6 8. Ne5
+Bb7 9. Qf3 Nc6 10. Qh3 g6 11. Bh6 Re8 12. f4 Ne4 13. Ndf3 Nxe5 14. fxe5 a6 15.
+O-O f5 16. exf6 Bxf6 17. Bxe4 dxe4 18. Ne5 Bxe5 19. dxe5 Bd5 20. b3 Ra7 21. c4
+Bc6 22. Rf6 Rf7 23. Rxf7 Kxf7 24. Bg5 1-0

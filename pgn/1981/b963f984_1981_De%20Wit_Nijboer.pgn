@@ -1,0 +1,20 @@
+[Event "Netherlands"]
+[Site "Netherlands"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "De Wit, Johannes"]
+[Black "Nijboer, Friso"]
+[Result "0-1"]
+[ECO "B03"]
+[Opening "Alekhine's defence"]
+[Variation "four pawns attack, 7.Be3"]
+[HashCode "b963f984"]
+[Epoch "Rook"]
+[BlackID "1000063"]
+[BlackCountry "NED"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. c4 Nb6 5. f4 dxe5 6. fxe5 Nc6 7. Be3 Bf5 8. Nc3
+e6 9. Nf3 Be7 10. d5 Nb4 11. Rc1 f6 12. a3 Na6 13. exf6 Bxf6 14. Nd4 O-O 15.
+dxe6 Bxd4 16. Qxd4 Qe7 17. c5 Rad8 18. Qe5 Nd7 19. Nd5 Qe8 20. Qg3 Bxe6 21. Nf4
+Naxc5 22. Bxc5 Nxc5 23. Rxc5 Bc4+ 24. Kf2 Rd2+ 25. Kg1 Bxf1 26. Rxc7 Qe5 27.
+Qb3+ Kh8 28. Qc3 Qxc3 29. bxc3 g5 30. Kxf1 Rxf4+ 31. Ke1 0-1

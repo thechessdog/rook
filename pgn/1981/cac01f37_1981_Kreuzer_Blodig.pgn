@@ -1,0 +1,20 @@
+[Event "Bayern-ch-B"]
+[Site "Krumbach"]
+[Date "1981.??.??"]
+[Round "?"]
+[White "Kreuzer, Martin, Prof. Dr."]
+[Black "Blodig, Reinhard"]
+[Result "1/2-1/2"]
+[ECO "C08"]
+[Opening "French"]
+[Variation "Tarrasch, open, 4.ed ed"]
+[HashCode "cac01f37"]
+[Epoch "Rook"]
+[WhiteID "4604466"]
+[BlackID "4607597"]
+[WhiteCountry "GER"]
+[BlackCountry "GER"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. exd5 exd5 5. Bb5+ Nc6 6. Qe2+ Qe7 7. Ngf3 cxd4
+8. Nb3 Qxe2+ 9. Bxe2 Bb4+ 10. Bd2 Bxd2+ 11. Kxd2 Nf6 12. Bd3 O-O 13. Nfxd4 Bd7
+14. Rhe1 Nxd4 15. Nxd4 Rfe8 1/2-1/2

@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Myers, D."]
+[Black "Kronz, J."]
+[Result "1-0"]
+[ECO "C17"]
+[Opening "French"]
+[Variation "Winawer, advance variation"]
+[HashCode "cf413331"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. dxc5 Nc6 6. Nf3 Bxc3+ 7. bxc3 Qa5
+8. Qd2 Nge7 9. Bd3 Qxc5 10. O-O Bd7 11. a4 Qb6 12. Ba3 d4 13. Rfb1 dxc3 14.
+Qg5 Qd8 15. Qxg7 Rg8 16. Qxh7 Qc7 17. Bd6 Qc8 18. a5 Nb8 19. Ra3 1-0
+

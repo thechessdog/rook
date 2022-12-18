@@ -1,0 +1,18 @@
+[Event "Poznan"]
+[Site "Poznan"]
+[Date "1983.01.01"]
+[Round "7"]
+[White "Kupka, Slavoj"]
+[Black "Maciejewski, Andrzej"]
+[Result "1/2-1/2"]
+[ECO "B06"]
+[Opening "Robatsch defence"]
+[Variation "two knights, Suttles variation"]
+[HashCode "db20dc42"]
+[Epoch "Rook"]
+[BlackID "1100181"]
+[BlackCountry "POL"]
+[WhiteCountry "CZE"]
+
+1. d4 g6 2. e4 Bg7 3. Nc3 c6 4. Nf3 d6 5. Be2 Nf6 6. O-O O-O 7. a4 a5 8. Re1
+Na6 9. h3 Nb4 10. Bf1 e5 11. Bg5 h6 12. Bxf6 Qxf6 13. dxe5 dxe5 14. Bc4 1/2-1/2

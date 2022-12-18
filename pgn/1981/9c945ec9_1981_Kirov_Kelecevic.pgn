@@ -1,0 +1,19 @@
+[Event "Pernik"]
+[Site "Pernik"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Kirov, Nino"]
+[Black "Kelecevic, Nedeljko"]
+[Result "1/2-1/2"]
+[ECO "B13"]
+[Opening "Caro-Kann"]
+[Variation "exchange, Rubinstein variation"]
+[HashCode "9c945ec9"]
+[Epoch "Rook"]
+[WhiteCountry "BGR"]
+[BlackID "14400537"]
+[BlackCountry "SUI"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c3 Nc6 5. Bf4 Nf6 6. Bd3 Bg4 7. Ne2 e6 8. O-O
+Bxe2 9. Qxe2 Bd6 10. Bxd6 Qxd6 11. Nd2 O-O 12. Nf3 a6 13. a4 g6 14. Ne5 Nd7 15.
+Nxd7 Qxd7 1/2-1/2

@@ -1,0 +1,18 @@
+[Event "corr ol"]
+[Site "corr ol"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Kovacs, Zoltan"]
+[Black "Sorensen, Arne"]
+[Result "0-1"]
+[ECO "B07"]
+[Opening "Pirc"]
+[Variation "Byrne variation"]
+[HashCode "7f88ca26"]
+[Epoch "Rook"]
+[BlackID "1419382"]
+[BlackCountry "DEN"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Bg5 Bg7 5. Qd2 h6 6. Bh4 g5 7. Bg3 Nh5 8. Nge2
+Nc6 9. d5 Na5 10. Nc1 c5 11. f4 Bd7 12. fxg5 hxg5 13. Bf2 Be5 14. Qxg5 Qb6 15.
+Nb3 O-O-O 16. Ne2 Bxb2 17. Rb1 Nc4 18. e5 Rdg8 19. Qh4 Qb4+ 20. c3 Bxc3+ 0-1

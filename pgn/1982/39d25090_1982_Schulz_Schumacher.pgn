@@ -1,0 +1,23 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Schulz, T."]
+[Black "Schumacher, B."]
+[Result "1-0"]
+[ECO "B83"]
+[Opening "Sicilian"]
+[Variation "Scheveningen, 6.Be2"]
+[HashCode "39d25090"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be2 Be7 7. Be3 O-O
+8. O-O a6 9. f4 Qc7 10. Qe1 b5 11. Bf3 Bb7 12. e5 dxe5 13. fxe5 Ne8 14. Kh1
+Nd7 15. Bf4 Bxf3 16. Rxf3 b4 17. Nd1 Rd8 18. c3 Nb6 19. Qe4 Nd5 20. Rh3 g6
+21. Bh6 Ng7 22. Rc1 bxc3 23. Nxc3 Rc8 24. Qe1 Nxc3 25. Rhxc3 Qb7 26. Nc6
+Bb4 27. Qh4 Nf5 28. Qxb4 Qxb4 29. Nxb4 Rxc3 30. Rxc3 Nxh6 31. Nc6 Ng4 32.
+Ra3 f6 33. Kg1 Ra8 34. exf6 Nxf6 35. b4 Nd7 36. b5 Nc5 37. b6 a5 38. Rxa5
+Rxa5 39. Nxa5 Nd7 40. Nc4 Kf7 41. Kf2 Ke7 42. Ke3 Nb8 43. Kd4 Na6 44. b7
+Kd7 45. Ke5 Ke7 46. Nd6 Nb8 47. Nc8+ Kd7 48. Kf6 Nc6 49. Na7 Nb8 50. Nb5
+1-0
+

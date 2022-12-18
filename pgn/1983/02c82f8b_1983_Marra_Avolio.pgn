@@ -1,0 +1,19 @@
+[Event "corr ch32-ITA"]
+[Site "corr ch32-ITA"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Marra, S."]
+[Black "Avolio, G."]
+[Result "0-1"]
+[ECO "E88"]
+[Opening "King's Indian"]
+[Variation "Saemisch, orthodox, 7.d5 c6"]
+[HashCode "02c82f8b"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 e5 7. d5 c6 8. Qd2
+cxd5 9. cxd5 a6 10. O-O-O Nbd7 11. Kb1 b5 12. g4 Nc5 13. h4 Qa5 14. h5 b4
+15. Nce2 Nfxe4 16. fxe4 Nxe4 17. Qe1 Bxg4 18. hxg6 fxg6 19. Bh3 Bh5 20.
+Be6+ Kh8 21. Ng3 Nc3+ 22. bxc3 bxc3 23. Ka1 c2 24. N1e2 cxd1=Q+ 25. Qxd1
+Bf3 26. Rh4 Rf4 27. Rxf4 exf4+ 28. Bd4 Qb4 29. Bxg7+ Kxg7 0-1
+

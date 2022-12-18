@@ -1,0 +1,23 @@
+[Event "Bundesliga 8384"]
+[Site "Duitsland tt"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Kindermann, Stefan"]
+[Black "Derikum, Axel"]
+[Result "1-0"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...g6"]
+[HashCode "4660b07c"]
+[Epoch "Rook"]
+[WhiteID "4600053"]
+[WhiteCountry "AUT"]
+[BlackID "4602242"]
+[BlackCountry "GER"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 g6 6. cxd5 Nxd5 7. Bb5+ Bd7 8.
+Qb3 Nb6 9. Nf3 Bg7 10. a4 Bxb5 11. Qxb5+ Qd7 12. Qb3 Nc6 13. a5 Nc8 14. d5 Nd8
+15. O-O O-O 16. Re1 Nd6 17. Bf4 Re8 18. Qb4 Rc8 19. Bxd6 exd6 20. Rxe8+ Qxe8
+21. Qxd6 Bf8 22. Qf4 Qd7 23. Re1 b5 24. axb6 axb6 25. Ne5 Qc7 26. Ne4 Nb7 27.
+Nf6+ Kg7 28. Nfd7 Nd6 29. Qf6+ Kg8 30. Nxf8 Rxf8 31. Nc6 Nf5 32. g3 Qd6 33.
+Ne7+ 1-0

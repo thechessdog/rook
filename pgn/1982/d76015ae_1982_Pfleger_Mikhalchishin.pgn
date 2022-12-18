@@ -1,0 +1,18 @@
+[Event "Havana"]
+[Site "Havana"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Pfleger, Helmut, Dr."]
+[Black "Mihaljcisin, Mihajlo"]
+[Result "1/2-1/2"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "4.Nf3"]
+[HashCode "d76015ae"]
+[Epoch "Rook"]
+[WhiteID "4600100"]
+[WhiteCountry "GER"]
+[BlackCountry "SRB"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 Be7 5. Bg5 h6 6. Bxf6 Bxf6 7. e3 O-O 8. Be2
+dxc4 9. Bxc4 c5 10. O-O 1/2-1/2

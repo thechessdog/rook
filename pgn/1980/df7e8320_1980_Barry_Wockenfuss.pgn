@@ -1,0 +1,20 @@
+[Event "Berlin tt"]
+[Site "Berlin-West"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Barry, Colm"]
+[Black "Wockenfuss, Klaus"]
+[Result "0-1"]
+[ECO "C09"]
+[Opening "French"]
+[Variation "Tarrasch, open variation, main line"]
+[HashCode "df7e8320"]
+[Epoch "Rook"]
+[WhiteID "2500175"]
+[BlackID "4600746"]
+[WhiteCountry "IRL"]
+[BlackCountry "GER"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. exd5 exd5 5. Ngf3 Nc6 6. Bb5 Bd6 7. O-O cxd4 8.
+Nb3 Ne7 9. Nbxd4 O-O 10. b3 Qc7 11. Bb2 Bd7 12. Be2 Ne5 13. h3 N7g6 14. Nxe5
+Bxe5 15. Nb5 Bxb5 16. Bxe5 Qxe5 17. Bxb5 Rac8 18. Re1 Qg5 19. Re3 d4 0-1

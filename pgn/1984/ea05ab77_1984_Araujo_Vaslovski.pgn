@@ -1,0 +1,17 @@
+[Event "corr WER"]
+[Site "corr WER"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Araujo, S."]
+[Black "Vaslovski, J."]
+[Result "1-0"]
+[ECO "C69"]
+[Opening "Ruy Lopez"]
+[Variation "exchange variation, 5.O-O"]
+[HashCode "ea05ab77"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O Bd6 6. d4 exd4 7. Qxd4 f6
+8. b3 Bg4 9. Nbd2 Bxf3 10. Nxf3 Qe7 11. Bb2 O-O-O 12. Qa7 Qxe4 13. Qa8+ Kd7
+14. Qxb7 Qxc2 15. Nd4 Qxb2 16. Qxc6+ Ke7 17. Rae1+ 1-0
+

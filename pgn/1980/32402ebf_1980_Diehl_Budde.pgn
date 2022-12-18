@@ -1,0 +1,21 @@
+[Event "Wittlich"]
+[Site "Wittlich"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Diehl, Klaus"]
+[Black "Budde, Vladimir"]
+[Result "0-1"]
+[ECO "B24"]
+[Opening "Sicilian"]
+[Variation "closed"]
+[HashCode "32402ebf"]
+[Epoch "Rook"]
+[WhiteID "4645448"]
+[WhiteCountry "GER"]
+[BlackID "4602056"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. f4 d6 6. Nf3 e6 7. O-O Nge7 8. d3
+O-O 9. Ne2 e5 10. c3 f5 11. Be3 b6 12. Ng5 h6 13. Qb3+ c4 14. Qxc4+ d5 15. exd5
+Na5 16. Qb4 Nxd5 17. Qb5 Nc7 18. Qa4 hxg5 19. Bxa8 Nxa8 20. Rad1 Bb7 21. c4
+exf4 22. gxf4 Qe7 0-1

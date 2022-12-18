@@ -1,0 +1,20 @@
+[Event "RLN 8283"]
+[Site "RLN 8283"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Geveke, Michael"]
+[Black "Storm, Roland"]
+[Result "1-0"]
+[ECO "A04"]
+[Opening "Reti"]
+[Variation "Pirc-Lisitsin gambit"]
+[HashCode "fc9d3b97"]
+[Epoch "Rook"]
+[WhiteID "4602250"]
+[BlackID "4601807"]
+[WhiteCountry "GER"]
+[BlackCountry "GER"]
+
+1. Nf3 f5 2. e4 fxe4 3. Ng5 Nf6 4. d3 exd3 5. Bxd3 e5 6. Bxh7 Nxh7 7. Qh5+ Ke7
+8. Nxh7 Kd6 9. Qg6+ Kc5 10. Be3+ Kb5 11. a4+ Ka5 12. Bd2+ Bb4 13. c3 Bd6 14.
+b4+ Kb6 15. Be3+ c5 16. Bxc5+ Ka6 17. Qd3+ 1-0

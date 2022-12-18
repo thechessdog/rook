@@ -1,0 +1,21 @@
+[Event "USA"]
+[Site "USA"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Weinstein, Norman"]
+[Black "Shamkovich, Leonid"]
+[Result "1-0"]
+[ECO "B64"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...Be7 defence, 9.f4"]
+[HashCode "1184d165"]
+[Epoch "Rook"]
+[WhiteID "2000466"]
+[WhiteCountry "USA"]
+[BlackCountry "RUS"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd2 Be7 8.
+O-O-O O-O 9. f4 Qa5 10. Nb3 Qb6 11. Kb1 Rd8 12. Bd3 h6 13. h4 a5 14. a4 d5 15.
+Bxf6 Bxf6 16. e5 Be7 17. g4 g6 18. f5 Nxe5 19. fxg6 Kg7 20. gxf7 Nxf7 21. g5 h5
+22. Qe2 e5 23. Qxh5 e4 24. Nxd5 Rxd5 25. Bxe4 Rxd1+ 26. Rxd1 Bh3 27. Qh7+ Kf8
+28. Bd5 1-0

@@ -1,0 +1,22 @@
+[Event "Sweden"]
+[Site "Sweden"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Ernst, Thomas"]
+[Black "Sjoberg, Mats"]
+[Result "1-0"]
+[ECO "B43"]
+[Opening "Sicilian"]
+[Variation "Kan, 5.Nc3"]
+[HashCode "d6fa589e"]
+[Epoch "Rook"]
+[WhiteID "1700065"]
+[WhiteCountry "SWE"]
+[BlackID "1700375"]
+[BlackCountry "SWE"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 Qc7 6. g3 Nc6 7. Bg2 Nf6 8. O-O
+Be7 9. Re1 d6 10. Nxc6 bxc6 11. e5 dxe5 12. Rxe5 O-O 13. Re1 e5 14. Qe2 Bc5 15.
+Bg5 Bd4 16. Bxf6 gxf6 17. Ne4 Qe7 18. Qh5 f5 19. c3 Bb6 20. Ng5 f6 21. Bxc6 Ra7
+22. Bd5+ Kh8 23. Nh3 f4 24. Nxf4 Qg7 25. Ne6 Bxe6 26. Bxe6 f5 27. Rad1 Re7 28.
+Rd6 Bc5 29. Rxa6 f4 30. g4 1-0

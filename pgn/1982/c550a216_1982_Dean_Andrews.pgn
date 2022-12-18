@@ -1,0 +1,18 @@
+[Event "corr North America"]
+[Site "corr North America"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Dean, D."]
+[Black "Andrews, Randal"]
+[Result "1-0"]
+[ECO "C69"]
+[Opening "Ruy Lopez"]
+[Variation "exchange, Gligoric variation"]
+[HashCode "c550a216"]
+[Epoch "Rook"]
+[BlackID "2007100"]
+[BlackCountry "USA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O f6 6. d4 Bg4 7. c3 exd4 8.
+cxd4 c5 9. Qb3 Qc8 10. e5 Bxf3 11. Qxf3 cxd4 12. Bf4 f5 13. Nd2 Bc5 14. Rac1
+Ra7 15. Nc4 Qd8 16. Qxb7 Ne7 17. Nd6+ 1-0

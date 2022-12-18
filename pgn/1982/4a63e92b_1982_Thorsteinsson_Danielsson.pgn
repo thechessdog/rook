@@ -1,0 +1,18 @@
+[Event "ISL-ch"]
+[Site "Reykjavik"]
+[Date "1982.??.??"]
+[Round "6"]
+[White "Thorsteinsson, Bjorn"]
+[Black "Danielsson, Sigurdur"]
+[Result "1-0"]
+[ECO "B00"]
+[Opening "Owen defence"]
+[HashCode "4a63e92b"]
+[Epoch "Rook"]
+[WhiteID "2300184"]
+[BlackID "2301792"]
+[WhiteCountry "ISL"]
+[BlackCountry "ISL"]
+
+1. e4 b6 2. d4 Bb7 3. Nc3 e6 4. Nf3 Nf6 5. Bd3 c5 6. O-O cxd4 7. Nxd4 Bb4 8. e5
+Bxc3 9. bxc3 Nd5 10. Qg4 Ne7 11. Nb5 O-O 12. Bg5 h6 13. Bf6 g6 14. Qh4 1-0

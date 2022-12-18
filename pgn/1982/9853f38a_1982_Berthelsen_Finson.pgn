@@ -1,0 +1,19 @@
+[Event "corr NOR-ICE"]
+[Site "corr NOR-ICE"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Berthelsen"]
+[Black "Finson"]
+[Result "1-0"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "9853f38a"]
+[Epoch "Rook"]
+
+1. e4 c5 2. c3 e6 3. d4 cxd4 4. cxd4 d5 5. e5 Nc6 6. Nf3 Qb6 7. Nc3 Bb4 8.
+Bd3 Nge7 9. O-O Bd7 10. Na4 Qd8 11. a3 Ba5 12. Nc5 Qc8 13. Be3 Nf5 14. Bxf5
+exf5 15. Qb3 b6 16. Nd3 Ne7 17. Rac1 Qd8 18. Bg5 Be6 19. Nf4 O-O 20. Rc6 h6
+21. Rxe6 hxg5 22. Nxg5 f6 23. Rxe7 fxg5 24. Rxg7+ Kxg7 25. Ne6+ Kf7 26.
+Nxd8+ Raxd8 27. Qd3 Ke6 28. b4 1-0
+

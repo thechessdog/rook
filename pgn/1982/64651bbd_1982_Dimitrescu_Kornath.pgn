@@ -1,0 +1,20 @@
+[Event "corr EUR/M"]
+[Site "corr EUR/M"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Dimitrescu"]
+[Black "Kornath"]
+[Result "1/2-1/2"]
+[ECO "C08"]
+[Opening "French"]
+[Variation "Tarrasch, open, 4.ed ed"]
+[HashCode "64651bbd"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. exd5 exd5 5. Bb5+ Nc6 6. Qe2+ Be7 7. dxc5
+Nf6 8. Nb3 O-O 9. Be3 Re8 10. O-O-O a5 11. Bxc6 bxc6 12. a4 Ne4 13. Qh5 Rb8
+14. Nf3 Bd7 15. Ne5 g6 16. Qf3 Bf6 17. Nxd7 Qxd7 18. Bd4 Bxd4 19. Rxd4 Qa7
+20. Rhd1 Nxc5 21. Nxc5 Qxc5 22. h4 Rb4 23. c3 Re4 24. Rxe4 Rxe4 25. h5 Rxa4
+26. Qf6 Qc4 27. Rd4 Ra1+ 28. Kd2 Qb3 29. Qd8+ Kg7 30. h6+ Kxh6 31. Qf8+ Kh5
+32. g4+ Kg5 33. Qe7+ Kh6 1/2-1/2
+

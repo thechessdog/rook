@@ -1,0 +1,23 @@
+[Event "Nassau Int"]
+[Site "Syosset"]
+[Date "1984.08.17"]
+[Round "7"]
+[White "Frederick, Robert"]
+[Black "Taylor, Timothy"]
+[Result "0-1"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "classical variation"]
+[HashCode "617f8c55"]
+[Epoch "Rook"]
+[WhiteID "601780"]
+[BlackID "2000393"]
+[WhiteCountry "FRA"]
+[BlackCountry "USA"]
+
+1. b3 d5 2. Bb2 Nf6 3. e3 e6 4. Nf3 Be7 5. c4 O-O 6. Be2 b6 7. cxd5 Nxd5 8. d4
+Bb7 9. O-O Nd7 10. Nbd2 c5 11. Rc1 Rc8 12. Nc4 N7f6 13. Nfe5 b5 14. Nd2 cxd4
+15. Rxc8 Qxc8 16. Bxd4 Nc3 17. Bxc3 Qxc3 18. Ndf3 a6 19. Qd4 Nd5 20. Qe4 Ba8
+21. Nd4 Qc7 22. f4 Qc3 23. Ng4 Nf6 24. Qd3 Rc8 25. Ne5 Be4 26. Qxc3 Rxc3 27. a4
+bxa4 28. bxa4 Rxe3 29. Rc1 g6 30. Bxa6 Nd5 31. Bb7 Nxf4 32. Ng4 Ne2+ 33. Nxe2
+Rxe2 34. Kf1 Bd3 35. Kg1 h5 36. Nf2 Bc5 0-1

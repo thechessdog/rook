@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Storey"]
+[Black "Lanthrip"]
+[Result "0-1"]
+[ECO "B52"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky attack, 3...Bd7"]
+[HashCode "bbb26874"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Nxd7 5. d4 Ngf6 6. Nc3 cxd4 7. Qxd4
+g6 8. Bg5 Bg7 9. O-O-O O-O 10. Qe3 Qc7 11. h3 a6 12. Bh6 Nb6 13. Ne1 Nc4
+14. Qg5 Qb6 15. Nd3 Nxe4 16. Na4 Qb5 17. Qxb5 Bxh6+ 0-1
+

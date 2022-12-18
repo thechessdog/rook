@@ -1,0 +1,16 @@
+[Event "Budapest"]
+[Site "Budapest"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Cserna, Laszlo"]
+[Black "Szollosi, Laszlo Jr"]
+[Result "0-1"]
+[ECO "D11"]
+[Opening "QGD Slav"]
+[Variation "3.Nf3"]
+[HashCode "e4e40712"]
+[Epoch "Rook"]
+[WhiteCountry "HUN"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Qc2 Na6 5. Bf4 Nb4 6. Qb3 e5 7. dxe5 Bf5 8. Na3
+Qa5 9. Nd2 Ne4 10. cxd5 Bc5 11. Be3 Bxe3 12. Qxe3 Nxd5 13. Qd4 Nb4 0-1

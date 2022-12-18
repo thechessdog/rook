@@ -1,0 +1,21 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Akopian, Gagik"]
+[Black "Agzamov, Viachesiav"]
+[Result "1-0"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Lipnitzky attack"]
+[HashCode "93ac8cbe"]
+[Epoch "Rook"]
+[WhiteID "13301292"]
+[WhiteCountry "ARM"]
+[BlackID "14200430"]
+[BlackCountry "UZB"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. O-O b5 8. Bb3
+Bb7 9. Re1 Nbd7 10. Bg5 Nc5 11. Bd5 b4 12. Bxb7 Nxb7 13. Nd5 exd5 14. exd5+ Kd7
+15. c3 b3 16. axb3 Qb6 17. Bxf6 gxf6 18. Qh5 Nd8 19. Qf5+ Kc7 20. Ra4 a5 21.
+Rc4+ Kb7 22. Qd7+ Ka6 23. Rb4 Qc5 24. Rb5 1-0

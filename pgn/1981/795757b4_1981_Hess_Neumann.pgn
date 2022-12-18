@@ -1,0 +1,20 @@
+[Event "BL2-N 8081"]
+[Site "BL2-N 8081"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Hess, Christian"]
+[Black "Neumann, Joachim"]
+[Result "1/2-1/2"]
+[ECO "E15"]
+[Opening "Queen's Indian"]
+[Variation "Nimzovich variation (exaggerated fianchetto)"]
+[HashCode "795757b4"]
+[Epoch "Rook"]
+[BlackID "4608259"]
+[BlackCountry "GER"]
+[WhiteCountry "DEU"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. Nbd2 Bb4 6. Qc2 Bb7 7. Bg2 Be4 8. Qd1
+Bxd2+ 9. Bxd2 d6 10. O-O Nbd7 11. Ne1 Bxg2 12. Nxg2 O-O 13. Bg5 h6 14. Bxf6
+Nxf6 15. Qd3 c5 16. Rfd1 cxd4 17. Qxd4 d5 18. Ne3 dxc4 19. Qxc4 Qe7 20. Rac1
+Rfd8 21. a3 Rxd1+ 22. Rxd1 1/2-1/2

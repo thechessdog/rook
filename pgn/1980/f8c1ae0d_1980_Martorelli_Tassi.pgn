@@ -1,0 +1,19 @@
+[Event "Naples"]
+[Site "Naples"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Martorelli, Antonio"]
+[Black "Tassi, O."]
+[Result "1-0"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Adams attack"]
+[HashCode "f8c1ae0d"]
+[Epoch "Rook"]
+[WhiteID "801399"]
+[WhiteCountry "ITA"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. h3 e6 7. g4 Nc6 8. Bg2
+Qc7 9. O-O Be7 10. Nxc6 bxc6 11. f4 O-O 12. g5 Nd7 13. f5 d5 14. fxe6 fxe6 15.
+Rxf8+ Nxf8 16. exd5 Bc5+ 17. Kh1 exd5 18. Nxd5 cxd5 19. Qxd5+ Kh8 20. Qxa8 Bxh3
+21. Be3 1-0

@@ -1,0 +1,17 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Siegemund"]
+[Black "Brechlin"]
+[Result "1-0"]
+[ECO "C26"]
+[Opening "Vienna"]
+[Variation "Paulsen-Mieses variation"]
+[HashCode "1502147a"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nc3 Nf6 3. g3 Bc5 4. Bg2 Nc6 5. Nge2 d6 6. h3 Be6 7. O-O Qd7 8.
+Kh2 h5 9. Nd5 O-O-O 10. c3 h4 11. g4 Bxd5 12. exd5 Ne7 13. d4 exd4 14. cxd4
+Bb6 15. Bg5 Rdg8 16. a4 a5 17. Rc1 Nexd5 18. Qb3 Qe6 19. Bxf6 1-0
+

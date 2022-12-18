@@ -1,0 +1,19 @@
+[Event "NOR-ch"]
+[Site "Lillehammer"]
+[Date "1982.??.??"]
+[Round "4"]
+[White "Bjerke, Richard"]
+[Black "Orseth, Dag S"]
+[Result "1/2-1/2"]
+[ECO "D91"]
+[Opening "Gruenfeld"]
+[Variation "5.Bg5"]
+[HashCode "bace0a87"]
+[Epoch "Rook"]
+[WhiteID "1500252"]
+[BlackID "1500384"]
+[WhiteCountry "NOR"]
+[BlackCountry "NOR"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Bg5 dxc4 6. e3 Be6 7. Nd2 c5 8. dxc5
+Nd5 9. Qa4+ Qd7 10. Qa3 Nxc3 11. bxc3 Nc6 12. Rd1 Rd8 1/2-1/2

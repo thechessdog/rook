@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Mueller, Gu"]
+[Black "Reineking, A."]
+[Result "1-0"]
+[ECO "C00"]
+[Opening "French"]
+[Variation "Alapin variation"]
+[HashCode "1347e23c"]
+[Epoch "Rook"]
+
+1. d4 e6 2. e4 d5 3. Be3 dxe4 4. Nd2 Nf6 5. f3 exf3 6. Ngxf3 Nbd7 7. Bd3 c5
+8. c3 cxd4 9. cxd4 b6 10. O-O Bb7 11. Nc4 Be7 12. Bf4 Nd5 13. Nfe5 Nxf4 14.
+Rxf4 Nf6 15. Qa4+ Kf8 16. Raf1 a5 17. Nxb6 Qxb6 18. Rxf6 Kg8 19. Rxf7 Bf6
+20. Qd7 Bxe5 21. Rxg7+ Bxg7 22. Qf7# 1-0
+

@@ -1,0 +1,15 @@
+[Event "US Open"]
+[Site "US Open"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Bisguier, Arthur Bernard"]
+[Black "Miller, N."]
+[Result "1-0"]
+[ECO "D95"]
+[Opening "Gruenfeld with e3 & Qb3"]
+[HashCode "36abda5a"]
+[Epoch "Rook"]
+[WhiteCountry "USA"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. e3 O-O 6. Qb3 c6 7. Bd2 Na6 8. cxd5
+cxd5 9. Ne5 Qb6 10. Qxb6 axb6 11. Na4 Nb4 12. Bxb4 Rxa4 13. Bxe7 1-0

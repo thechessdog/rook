@@ -1,0 +1,21 @@
+[Event "Berlin tt"]
+[Site "Berlin-West"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "De Lange, Job"]
+[Black "Barry, Colm"]
+[Result "1-0"]
+[ECO "D19"]
+[Opening "QGD Slav"]
+[Variation "Dutch variation"]
+[HashCode "3aa680bc"]
+[Epoch "Rook"]
+[WhiteID "1001191"]
+[WhiteCountry "NED"]
+[BlackID "2500175"]
+[BlackCountry "IRL"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 Bf5 6. e3 e6 7. Bxc4 Bb4 8. O-O
+O-O 9. Nh4 Bg6 10. Nxg6 hxg6 11. Qe2 Nbd7 12. Rd1 Qc7 13. Bb3 e5 14. Qd3 Qa5
+15. Qxg6 Bxc3 16. bxc3 Qxc3 17. Qb1 Qa5 18. Ba3 Rfe8 19. Qa2 Nd5 20. e4 Nc3 21.
+Bxf7+ Kh8 22. Rd3 1-0

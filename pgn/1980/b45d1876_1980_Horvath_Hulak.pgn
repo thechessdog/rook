@@ -1,0 +1,20 @@
+[Event "Virovitica"]
+[Site "Virovitica"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Horvath, Tamas"]
+[Black "Hulak, Krunoslav"]
+[Result "1-0"]
+[ECO "B43"]
+[Opening "Sicilian"]
+[Variation "Kan, 5.Nc3"]
+[HashCode "b45d1876"]
+[Epoch "Rook"]
+[BlackCountry "HRV"]
+[WhiteID "700185"]
+[WhiteCountry "HUN"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 Qc7 6. Be2 b5 7. O-O Bb7 8. Re1
+Nf6 9. Bf3 d6 10. Bf4 Nbd7 11. Ndxb5 axb5 12. Nxb5 Qa5 13. Nxd6+ Bxd6 14. Bxd6
+Ne5 15. Qd4 Nc6 16. Qe3 e5 17. b4 Qa4 18. c3 O-O-O 19. Bd1 Qa3 20. Qh3+ Rd7 21.
+Bb3 Kd8 22. Rad1 Re8 23. Qg3 Kc8 24. Qxg7 Nxe4 25. Rxe4 f5 26. Be6 1-0

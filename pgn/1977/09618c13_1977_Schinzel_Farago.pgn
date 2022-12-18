@@ -1,0 +1,20 @@
+[Event "Rubinstein Memorial"]
+[Site "Polancia Zdroj"]
+[Date "1977.08.01"]
+[Round "14"]
+[White "Schinzel, Wladyslaw"]
+[Black "Farago, Ivan"]
+[Result "1/2-1/2"]
+[ECO "E08"]
+[Opening "Catalan"]
+[Variation "closed, Qc2 & b3"]
+[HashCode "09618c13"]
+[Epoch "Rook"]
+[WhiteID "1100327"]
+[WhiteCountry "POL"]
+[BlackID "700134"]
+[BlackCountry "HUN"]
+
+1. c4 Nf6 2. Nf3 e6 3. g3 d5 4. d4 Be7 5. Bg2 O-O 6. O-O Nbd7 7. Qc2 c6 8. b3
+b5 9. c5 Ne4 10. Nbd2 f5 11. Bb2 a5 12. a3 Qc7 13. b4 a4 14. Nxe4 fxe4 15. Ne5
+Nxe5 16. dxe5 Bd7 17. f3 exf3 18. exf3 Be8 1/2-1/2

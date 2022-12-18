@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Nieminen"]
+[Black "Tikkanen"]
+[Result "0-1"]
+[ECO "B78"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, 10.O-O-O"]
+[HashCode "ed991be3"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8.
+Bc4 Nc6 9. Qd2 Bd7 10. O-O-O Qb8 11. h4 b5 12. Ndxb5 Rc8 13. Be2 Nb4 14. a3
+Rxc3 15. bxc3 Nxe4 16. fxe4 Na2+ 17. Kb1 Nxc3+ 18. Kc1 Bxb5 19. Bxb5 Na2+
+0-1
+

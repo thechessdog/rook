@@ -1,0 +1,21 @@
+[Event "Banja Luka"]
+[Site "Banja Luka"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Vukic, Milan"]
+[Black "Sax, Gyula"]
+[Result "1-0"]
+[ECO "E04"]
+[Opening "Catalan"]
+[Variation "open, 5.Nf3"]
+[HashCode "9dd45345"]
+[Epoch "Rook"]
+[WhiteID "900273"]
+[WhiteCountry "BIH"]
+[BlackCountry "HUN"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. g3 dxc4 5. Bg2 c5 6. O-O Nc6 7. Ne5 Bd7 8. Nxc6
+Bxc6 9. Bxc6+ bxc6 10. Qa4 cxd4 11. Qxc6+ Nd7 12. Qxc4 Bc5 13. b4 Bb6 14. a4
+O-O 15. Bb2 e5 16. Nd2 a5 17. b5 Rc8 18. Qd3 Nc5 19. Qc4 d3 20. Ba3 Re8 21. Ne4
+Nxe4 22. Qxe4 d2 23. Rfd1 Bd4 24. Rab1 Bb6 25. Rb3 f5 26. Qxf5 e4 27. e3 Rc2
+28. Kg2 Qc7 29. Rb2 Rc3 30. Rbxd2 Rxa3 31. Rd7 Qe5 32. Qf7+ Kh8 33. R1d5 1-0

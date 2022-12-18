@@ -1,0 +1,20 @@
+[Event "Munich"]
+[Site "Munich"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Lau, Ralf"]
+[Black "Sigurjonsson, Gudmundur"]
+[Result "1/2-1/2"]
+[ECO "B83"]
+[Opening "Sicilian"]
+[Variation "Scheveningen, 6.Be2"]
+[HashCode "008c8d58"]
+[Epoch "Rook"]
+[WhiteID "4600134"]
+[WhiteCountry "GER"]
+[BlackID "2300079"]
+[BlackCountry "ISL"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be2 Be7 7. O-O O-O 8. f4
+a6 9. Kh1 Nc6 10. Be3 Bd7 11. a4 Rc8 12. Nb3 Na5 13. Nd2 Qc7 14. Bd3 Rfd8 15.
+Qe2 Be8 16. f5 h6 1/2-1/2

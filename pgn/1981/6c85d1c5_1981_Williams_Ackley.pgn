@@ -1,0 +1,16 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Williams"]
+[Black "Ackley"]
+[Result "0-1"]
+[ECO "A82"]
+[Opening "Dutch"]
+[Variation "Balogh defence"]
+[HashCode "6c85d1c5"]
+[Epoch "Rook"]
+
+1. e4 d6 2. d4 f5 3. f3 e5 4. dxe5 fxe4 5. f4 d5 6. c4 d4 7. Qe2 e3 8. Nf3
+Bb4+ 9. Kd1 c5 10. g3 Nh6 11. b3 Ng4 12. Rg1 Nf2+ 0-1
+

@@ -1,0 +1,29 @@
+[Event "Regionalliga Nord"]
+[Site "RLN 8081"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Schroeder, Christoph"]
+[Black "Cichy, Michael, Dr."]
+[Result "0-1"]
+[ECO "B46"]
+[Opening "Sicilian"]
+[Variation "Taimanov variation"]
+[HashCode "45549ab1"]
+[Epoch "Rook"]
+[WhiteID "4605250"]
+[WhiteCountry "GER"]
+[BlackID "4684621"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 a6 6. Be3 Qc7 7. g3 b5 8. Bg2
+Bb7 9. O-O Nf6 10. Re1 Be7 11. Bg5 Nxd4 12. Qxd4 Bc5 13. Qd3 Ng4 14. Nd1 h6 15.
+Bf4 d6 16. a4 b4 17. h3 Ne5 18. Bxe5 dxe5 19. c3 bxc3 20. Qxc3 Rc8 21. Ne3 Bd4
+22. Qxc7 Rxc7 23. Rac1 Rxc1 24. Rxc1 Kd7 25. Nc4 Bc6 26. b3 Rb8 27. Na5 Ba8 28.
+Kf1 Bb6 29. Nc4 Bc7 30. Rc3 Bb7 31. Ke2 a5 32. Kd2 Rc8 33. f3 f5 34. Ke3 Ke7
+35. Kd2 Bd6 36. Nxd6 Kxd6 37. Rxc8 Bxc8 38. Bf1 Kc5 39. Kc3 Bb7 40. Bd3 Bc8 41.
+g4 g6 42. h4 fxg4 43. fxg4 g5 44. hxg5 hxg5 45. Bc4 Bb7 46. Kd3 Bc8 47. Kc3 Bd7
+48. Ba6 Bc6 49. Bd3 Bb7 50. Bc2 Ba6 51. Bd1 Bf1 52. Bf3 Bh3 53. Be2 Bg2 54. Bc4
+Bxe4 55. Bxe6 Bc6 56. Bf5 Bd5 57. Bd7 e4 58. Bb5 Be6 59. Be2 Bc8 60. Bd1 Ba6
+61. Bc2 e3 62. Be4 Be2 63. Bf5 Bd1 64. Be6 e2 65. Kd2 Kb4 66. Bc4 Bxb3 67. Bxe2
+Bxa4 68. Bd3 Bc6 69. Kc2 Bd7 70. Be2 Be6 71. Kb2 a4 72. Bf3 a3+ 73. Kb1 Kc3 74.
+Ka1 Kd2 75. Kb1 Ke3 76. Bd1 Kf4 77. Ka1 Bxg4 78. Bb3 Ke5 79. Ka2 Be6 0-1

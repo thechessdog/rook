@@ -1,0 +1,22 @@
+[Event "Esbjerg"]
+[Site "Esbjerg"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Rath, Ulrik"]
+[Black "Hoi, Carsten"]
+[Result "1/2-1/2"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical system, 5.Be2"]
+[HashCode "2968ec6a"]
+[Epoch "Rook"]
+[BlackID "1400100"]
+[BlackCountry "DEN"]
+[WhiteID "1400223"]
+[WhiteCountry "DEN"]
+
+1. e4 g6 2. d4 d6 3. Nf3 Nf6 4. Nc3 Bg7 5. Be2 O-O 6. O-O Bg4 7. Be3 Nc6 8. Qd2
+Bxf3 9. Bxf3 e5 10. dxe5 Nxe5 11. Be2 Qd7 12. f4 Nc6 13. Kh1 Rfe8 14. Bf3 Rad8
+15. Rae1 Kh8 16. Bf2 Ne7 17. h3 b6 18. Qd3 c6 19. a4 Qc7 20. Qa6 d5 21. exd5
+Nexd5 22. Bxd5 Nxd5 23. Nxd5 cxd5 24. Rxe8+ Rxe8 25. Qb5 Rc8 26. c3 h6 27. f5
+Qc4 28. fxg6 fxg6 1/2-1/2

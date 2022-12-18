@@ -1,0 +1,14 @@
+[Event "Italy"]
+[Site "Italy"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Bascetta"]
+[Black "Del Carlo"]
+[Result "1-0"]
+[ECO "B06"]
+[Opening "Robatsch (modern) defence"]
+[HashCode "e764bdd6"]
+[Epoch "Rook"]
+
+1. e4 g6 2. h4 e5 3. h5 gxh5 4. Qxh5 d6 5. Bc4 Nf6 6. Qxf7# 1-0
+

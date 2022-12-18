@@ -1,0 +1,20 @@
+[Event "Boston"]
+[Site "Boston"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Stopa, John"]
+[Black "Lindsay, Fred"]
+[Result "1/2-1/2"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra gambit"]
+[HashCode "36ed9dd9"]
+[Epoch "Rook"]
+[WhiteID "2002990"]
+[BlackID "2001969"]
+[WhiteCountry "USA"]
+[BlackCountry "USA"]
+
+1. e4 c5 2. d4 cxd4 3. c3 dxc3 4. Nxc3 Nc6 5. Nf3 d6 6. Bc4 e6 7. O-O Be7 8.
+Qe2 a6 9. Rd1 Bd7 10. a4 Rc8 11. Be3 Nf6 12. h3 O-O 13. Rac1 Qa5 14. Nd2 Rfe8
+15. Ba2 b5 16. axb5 axb5 17. Nb3 Qa8 18. Qxb5 Ne5 19. Qe2 Nxe4 1/2-1/2

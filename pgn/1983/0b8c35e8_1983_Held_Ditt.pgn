@@ -1,0 +1,20 @@
+[Event "Bundesliga 8283"]
+[Site "Duitsland tt"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Held, Paul"]
+[Black "Ditt, Egon"]
+[Result "1-0"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical system, 5.Be2"]
+[HashCode "0b8c35e8"]
+[Epoch "Rook"]
+[WhiteID "4627652"]
+[WhiteCountry "GER"]
+[BlackID "4603400"]
+[BlackCountry "GER"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. Nf3 Nf6 5. Be2 a6 6. O-O b5 7. e5 Nfd7 8. Bf4
+Nc6 9. Re1 dxe5 10. dxe5 Ncxe5 11. Nxe5 Nxe5 12. Bxb5+ axb5 13. Bxe5 f6 14. Qf3
+Ra6 15. Rad1 Bd7 16. Bxc7 Qxc7 17. Rxe7+ 1-0

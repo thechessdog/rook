@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Palsson"]
+[Black "Moser"]
+[Result "0-1"]
+[ECO "B33"]
+[Opening "Sicilian"]
+[Variation "Pelikan (Lasker/Sveshnikov) variation"]
+[HashCode "1d490508"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Nf3 Bb4 7. Bg5
+Bxc3+ 8. bxc3 Qa5 9. Bxf6 Qxc3+ 10. Nd2 gxf6 11. Bd3 Nb4 12. Ke2 b6 13. a3
+Nxd3 14. cxd3 Ba6 15. Nf3 Rg8 16. Ne1 f5 17. f3 Qb2+ 18. Kf1 Bxd3+ 0-1
+

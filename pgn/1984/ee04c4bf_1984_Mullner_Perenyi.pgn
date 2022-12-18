@@ -1,0 +1,28 @@
+[Event "Budapest"]
+[Site "Budapest"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Mullner, Imre"]
+[Black "Perenyi, Bela"]
+[Result "0-1"]
+[ECO "B51"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky (Nimzovich-Rossolimo, Moscow) attack"]
+[HashCode "ee04c4bf"]
+[Epoch "Rook"]
+[WhiteID "703346"]
+[WhiteCountry "HUN"]
+[BlackCountry "HUN"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Nc6 4. O-O Nf6 5. d4 cxd4 6. Nxd4 Bd7 7. Nxc6 bxc6
+8. Bd3 g6 9. c4 Bg7 10. Nc3 O-O 11. Bd2 Be6 12. Qe2 Nd7 13. f4 Nc5 14. f5 Bc8
+15. Rac1 Nxd3 16. Qxd3 Qb6+ 17. Be3 Qxb2 18. f6 exf6 19. Qxd6 f5 20. Rf2 Qb7
+21. Rd2 Be6 22. Na4 fxe4 23. Nc5 Qb6 24. Qf4 Qa5 25. Qxe4 Bf5 26. Qxc6 Rae8 27.
+Nb3 Qe5 28. Bd4 Qf4 29. Bxg7 Qe3+ 30. Rf2 Kxg7 31. Qc5 Qxc5 32. Nxc5 Re5 33.
+Nb7 Re6 34. Rd2 Rc6 35. Na5 Ra6 36. Nb3 Rc8 37. Nd4 Be4 38. Nb5 Rc5 39. Nd6 Bd5
+40. Rxd5 Rxd5 41. Ne8+ Kf8 42. Nc7 Rda5 43. Nxa6 Rxa6 44. Rc2 Ke7 45. Kf2 Ra3
+46. Ke2 Kd6 47. Kd2 f5 48. Kc1 Kc5 49. Kd2 f4 50. Ke2 a5 51. Kd2 g5 52. Ke2
+Re3+ 53. Kd2 Re4 54. Rc3 Rxc4 55. Ra3 Kb5 56. g3 Ra4 57. Rb3+ Kc4 58. Rc3+ Kd4
+59. a3 Ke4 60. gxf4 g4 61. h3 h5 62. f5 Kxf5 63. Rc5+ Kg6 64. hxg4 hxg4 65. Rc3
+Kg5 66. Ke3 Rf4 67. Ke2 Kh4 68. Rd3 g3 69. Rd8 g2 70. Rg8 Rg4 71. Rxg4+ Kxg4
+72. Kf2 Kh3 73. Kg1 a4 0-1

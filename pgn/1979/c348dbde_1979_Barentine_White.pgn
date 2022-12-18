@@ -1,0 +1,16 @@
+[Event "Arkansas"]
+[Site "Arkansas"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Barentine, L."]
+[Black "White"]
+[Result "1-0"]
+[ECO "C53"]
+[Opening "Giuoco Piano"]
+[HashCode "c348dbde"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 d6 5. d4 exd4 6. cxd4 Bb4+ 7. Nc3 Nf6
+8. O-O O-O 9. Bg5 Qe7 10. Nd5 Qxe4 11. Bxf6 Be6 12. Ng5 Qf5 13. Bd3 Qxd5
+14. Bxh7+ Kh8 15. Qh5 gxf6 16. Bg6+ Kg7 17. Qh7# 1-0
+

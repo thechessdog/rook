@@ -1,0 +1,23 @@
+[Event "Winterthur"]
+[Site "Winterthur"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Goormachtigh, Johan"]
+[Black "Van der Sterren, Paul"]
+[Result "0-1"]
+[ECO "A58"]
+[Opening "Benko gambit"]
+[Variation "fianchetto variation"]
+[HashCode "a709356b"]
+[Epoch "Rook"]
+[WhiteID "200280"]
+[WhiteCountry "BEL"]
+[BlackID "1000071"]
+[BlackCountry "NED"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. bxa6 Bxa6 6. Nc3 g6 7. Nf3 d6 8. g3
+Bg7 9. Bh3 Nbd7 10. O-O Nb6 11. Re1 O-O 12. Bf4 h6 13. e4 Nc4 14. e5 Nh5 15.
+Bc1 dxe5 16. Qc2 Bb7 17. b3 Nb6 18. Bb2 Nxd5 19. Rad1 Nb4 20. Rxd8 Nxc2 21.
+Rxf8+ Kxf8 22. Rc1 Nb4 23. Ne1 e4 24. a4 Bd4 25. Bg2 f5 26. Ba1 Rb8 27. Nb5
+Bxa1 28. Rxa1 Bd5 29. Rb1 Ng7 30. Bf1 Ne6 31. Ng2 Nd4 32. Ne3 Bc6 33. Na3 Nd3
+34. Rd1 Rxb3 35. Nac4 Bxa4 36. Ra1 Rb4 0-1

@@ -1,0 +1,22 @@
+[Event "corr DDR-M"]
+[Site "corr DDR-M"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Koppe, F."]
+[Black "Satkowski, P."]
+[Result "0-1"]
+[ECO "B82"]
+[Opening "Sicilian"]
+[Variation "Scheveningen, 6.f4"]
+[HashCode "ec075d64"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. f4 Nc6 7. Be3 e5 8.
+fxe5 Ng4 9. Bg1 Ngxe5 10. Be2 Be7 11. Bf2 O-O 12. O-O Re8 13. Nd5 Nxd4 14.
+Bxd4 Bf8 15. Bh5 Ng6 16. Qf3 Be6 17. Kh1 Bxd5 18. exd5 Qc7 19. c3 Nh8 20.
+Rae1 b6 21. Re2 Re7 22. Ref2 Rae8 23. h3 Ng6 24. b3 Rb8 25. g3 Rb7 26. h4
+Ne5 27. Qd1 Qc8 28. Kg2 g6 29. Be2 Rbc7 30. Rf6 Qd8 31. g4 Bg7 32. g5 Qd7
+33. a4 a6 34. R6f4 b5 35. axb5 axb5 36. R1f2 Rb7 37. Qa1 Rb8 38. Qa6 Qd8
+39. Bf1 h6 40. gxh6 Bxh6 41. Rf6 Ng4 42. Rxd6 Qe8 43. Rf3 Ne3+ 44. Bxe3
+Rxe3 0-1
+

@@ -1,0 +1,20 @@
+[Event "Borovo ch-YUG"]
+[Site "Borovo ch-YUG"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Martinovic, Slobodan"]
+[Black "Simic, Radoslav"]
+[Result "1/2-1/2"]
+[ECO "C68"]
+[Opening "Ruy Lopez"]
+[Variation "exchange, Alekhine variation"]
+[HashCode "f957a193"]
+[Epoch "Rook"]
+[BlackID "900184"]
+[BlackCountry "SRB"]
+[WhiteCountry "SRB"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. d4 exd4 6. Qxd4 Qxd4 7. Nxd4 Bd7
+8. Be3 O-O-O 9. Nd2 Ne7 10. O-O-O f6 11. f3 b6 12. Bf4 Ng6 13. Bg3 Bd6 14. Bxd6
+cxd6 15. Rhe1 c5 16. Ne2 Be6 17. Nc3 d5 18. exd5 Bxd5 19. Nxd5 Rxd5 20. Nc4
+Rxd1+ 21. Rxd1 Kc7 1/2-1/2

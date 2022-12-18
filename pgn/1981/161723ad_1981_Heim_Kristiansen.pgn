@@ -1,0 +1,23 @@
+[Event "EUCup"]
+[Site "Oslo"]
+[Date "1981.10.10"]
+[Round "1"]
+[White "Heim, Sverre"]
+[Black "Kristiansen, Jens"]
+[Result "0-1"]
+[ECO "E68"]
+[Opening "King's Indian"]
+[Variation "fianchetto, classical variation, 8.e4"]
+[HashCode "161723ad"]
+[Epoch "Rook"]
+[WhiteID "1500090"]
+[BlackID "1400061"]
+[WhiteCountry "NOR"]
+[BlackCountry "DEN"]
+
+1. Nf3 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 O-O 5. O-O d6 6. d4 Nbd7 7. Nc3 e5 8. e4
+Re8 9. h3 exd4 10. Nxd4 Nc5 11. Re1 a5 12. Qc2 a4 13. Be3 c6 14. b4 axb3 15.
+axb3 Rxa1 16. Rxa1 Qe7 17. Ra8 Nfd7 18. b4 Na6 19. Qb3 Nc7 20. Ra7 Ne6 21. Nde2
+h5 22. f4 h4 23. g4 g5 24. fxg5 Nxg5 25. Nd4 Bxd4 26. Bxd4 Ne5 27. Qd1 Nxc4 28.
+b5 Qd8 29. Kh1 Ne5 30. Bf2 Qf6 31. Bxh4 Bxg4 32. Qd2 Nef3 33. Bxg5 Nxg5 34.
+Rxb7 Nf3 35. Qe3 d5 36. bxc6 Rxe4 37. Qf2 Qxc3 38. hxg4 Qh8+ 0-1

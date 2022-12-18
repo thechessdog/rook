@@ -1,0 +1,18 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Fauth"]
+[Black "Nicklich"]
+[Result "1-0"]
+[ECO "A82"]
+[Opening "Dutch"]
+[Variation "Balogh defence"]
+[HashCode "22f0218e"]
+[Epoch "Rook"]
+
+1. e4 d6 2. d4 f5 3. exf5 Bxf5 4. Bd3 Bxd3 5. Qxd3 Nc6 6. Nf3 Qd7 7. O-O
+O-O-O 8. Bd2 e6 9. b4 Nf6 10. b5 Nb8 11. c4 Re8 12. Re1 Be7 13. Nc3 Rhf8
+14. a4 h6 15. Qg6 Bd8 16. a5 c6 17. bxc6 Nxc6 18. a6 b6 19. Nb5 Ng8 20. Qg3
+Bc7 21. d5 exd5 22. cxd5 Nce7 23. Nfd4 Kb8 24. Nxc7 Qxc7 25. Ne6 1-0
+

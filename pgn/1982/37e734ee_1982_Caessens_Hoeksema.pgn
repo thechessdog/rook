@@ -1,0 +1,16 @@
+[Event "Dieren"]
+[Site "Dieren"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Caessens"]
+[Black "Hoeksema"]
+[Result "0-1"]
+[ECO "E20"]
+[Opening "Nimzo-Indian"]
+[Variation "Romanishin-Kasparov (Steiner) system"]
+[HashCode "37e734ee"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. g3 c5 5. Nf3 d5 6. Bg2 Nc6 7. cxd5 Nxd5 8.
+Qd3 cxd4 9. Nxd4 Nxd4 10. Qxd4 Nxc3 0-1
+

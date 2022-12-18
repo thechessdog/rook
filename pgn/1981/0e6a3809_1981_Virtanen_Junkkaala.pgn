@@ -1,0 +1,21 @@
+[Event "corr NS/ME"]
+[Site "corr NS/ME"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Virtanen, Matti"]
+[Black "Junkkaala, Erkki"]
+[Result "0-1"]
+[ECO "B13"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik, normal variation"]
+[HashCode "0e6a3809"]
+[Epoch "Rook"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 Nc6 6. Bg5 e6 7. c5 Be7 8.
+Bb5 O-O 9. Nf3 h6 10. Bf4 Bd7 11. O-O Ne8 12. a3 g5 13. Bg3 Ng7 14. h3 Nf5
+15. Bh2 f6 16. b4 a5 17. Bxc6 bxc6 18. Qd3 Qe8 19. Rfe1 h5 20. Rab1 axb4
+21. axb4 Ra3 22. Qc2 g4 23. hxg4 hxg4 24. Nd2 Nxd4 25. Qb2 Rxc3 26. Qxc3 e5
+27. Nb3 Ne6 28. Na5 Qh5 29. b5 Nxc5 30. bxc6 d4 31. Qc4+ Be6 32. Qb5 Kf7
+33. Nb7 Rh8 34. Nxc5 Qxh2+ 35. Kf1 Bxc5 36. Qxc5 d3 37. f3 gxf3 38. Qg1
+fxg2+ 0-1
+

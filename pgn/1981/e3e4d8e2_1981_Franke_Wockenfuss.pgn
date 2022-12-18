@@ -1,0 +1,19 @@
+[Event "Bundesliga 8081"]
+[Site "Germany"]
+[Date "1981.??.??"]
+[Round "?"]
+[White "Franke, Reiner, Prof. Dr."]
+[Black "Wockenfuss, Klaus"]
+[Result "1/2-1/2"]
+[ECO "A07"]
+[Opening "Reti"]
+[Variation "King's Indian attack, Pachman system"]
+[HashCode "e3e4d8e2"]
+[Epoch "Rook"]
+[WhiteID "4603680"]
+[BlackID "4600746"]
+[WhiteCountry "GER"]
+[BlackCountry "GER"]
+
+1. Nf3 d5 2. g3 g6 3. Bg2 Bg7 4. O-O e5 5. d3 Ne7 6. e4 O-O 7. Nc3 c6 8. Re1
+Nd7 9. d4 exd4 10. Nxd4 dxe4 11. Nxe4 Nf6 12. Bg5 Nxe4 13. Rxe4 f6 1/2-1/2

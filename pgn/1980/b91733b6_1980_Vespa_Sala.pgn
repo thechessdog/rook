@@ -1,0 +1,20 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Vespa"]
+[Black "Sala"]
+[Result "0-1"]
+[ECO "C57"]
+[Opening "two knights defence"]
+[Variation "Wilkes Barre (Traxler) variation"]
+[HashCode "b91733b6"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 Bc5 5. Bxf7+ Ke7 6. Bb3 Rf8 7. O-O h6
+8. Nf3 d6 9. h3 Qe8 10. Nc3 Qh5 11. Nh2 Qg6 12. d3 Bxh3 13. Qf3 Bd7 14. Be3
+Nd4 15. Bxd4 Bxd4 16. Kh1 Bxc3 17. bxc3 Ng4 18. Qg3 Nxf2+ 19. Qxf2 Rxf2 20.
+Rxf2 Be6 21. c4 a5 22. c3 Rf8 23. Nf3 Qg3 24. Raf1 g5 25. Kg1 g4 26. Ne1
+Rf4 27. d4 Rxf2 28. Rxf2 Qxc3 29. Re2 Qxd4+ 30. Kh2 Bxc4 31. Nc2 Bxe2 32.
+Nxd4 exd4 33. Kg3 c5 0-1
+

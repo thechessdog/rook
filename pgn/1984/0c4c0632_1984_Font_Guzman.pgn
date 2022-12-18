@@ -1,0 +1,22 @@
+[Event "corr EUR"]
+[Site "corr EUR"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Font"]
+[Black "Guzman"]
+[Result "1-0"]
+[ECO "C15"]
+[Opening "French"]
+[Variation "Winawer, Kondratiyev variation"]
+[HashCode "0c4c0632"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. Bd3 c5 5. exd5 Qxd5 6. Bd2 Bxc3 7. Bxc3
+cxd4 8. Bxd4 Qxg2 9. Qf3 Qxf3 10. Nxf3 f6 11. Rg1 Kf7 12. Nd2 Nc6 13. Bc5
+Nh6 14. Nc4 g6 15. Nd6+ Kg7 16. O-O-O Rd8 17. Be4 Nf7 18. Nxc8 Raxc8 19.
+Bxc6 bxc6 20. Bxa7 Ne5 21. Bb6 Rd5 22. a4 Nc4 23. Bd4 c5 24. Bc3 Kf7 25. b3
+Nd6 26. Rge1 Rd8 27. Ba5 Rd7 28. c4 Rxd1+ 29. Rxd1 Ke7 30. Bb6 Ne4 31. f3
+Ng5 32. Bxc5+ Kd8 33. f4 Ne4 34. Bb6+ Kc8 35. Rxd7 Kxd7 36. a5 Kc6 37. Kc2
+g5 38. fxg5 Nxg5 39. b4 Nf7 40. b5+ Kb7 41. c5 Ne5 42. a6+ Ka8 43. c6 Nc4
+44. Bc5 1-0
+

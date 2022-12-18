@@ -1,0 +1,19 @@
+[Event "Sochi"]
+[Site "Sochi"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Suba, Mihai"]
+[Black "Vaisser, Anatoly"]
+[Result "1/2-1/2"]
+[ECO "D14"]
+[Opening "QGD Slav"]
+[Variation "exchange variation, 6.Bf4 Bf5"]
+[HashCode "911f096a"]
+[Epoch "Rook"]
+[WhiteID "1203363"]
+[WhiteCountry "ESP"]
+[BlackCountry "FRA"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 c6 4. cxd5 cxd5 5. Nc3 Nc6 6. Bf4 Bf5 7. e3 e6 8. Bb5
+Nd7 9. Qa4 Rc8 10. O-O a6 11. Bxc6 Rxc6 12. Rfc1 Be7 13. Nd1 Qc8 14. Rxc6 Qxc6
+15. Qxc6 bxc6 16. Rc1 c5 1/2-1/2

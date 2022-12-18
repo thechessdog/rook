@@ -1,0 +1,22 @@
+[Event "corr ch9-DDR"]
+[Site "corr ch9-DDR"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Mehner"]
+[Black "Schmidl"]
+[Result "1-0"]
+[ECO "B66"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...a6"]
+[HashCode "783d812d"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd2 a6 8.
+O-O-O h6 9. Bf4 Bd7 10. Nxc6 Bxc6 11. Qe3 Qc7 12. Be2 Be7 13. Rd2 e5 14.
+Bg3 O-O 15. Bh4 b5 16. Bxf6 Bxf6 17. h4 b4 18. Nd5 Bxd5 19. Rxd5 a5 20. Qd2
+Be7 21. f4 Rfb8 22. Kb1 a4 23. Rh3 Rb6 24. g4 Rab8 25. g5 hxg5 26. hxg5 b3
+27. cxb3 axb3 28. axb3 Rxb3 29. Rxb3 Rxb3 30. fxe5 dxe5 31. Rd7 Qc5 32. g6
+Rb4 33. Qd5 Qxd5 34. exd5 Bf6 35. Rxf7 e4 36. Bg4 Rxb2+ 37. Kc1 Rb8 38. Be6
+Kh8 39. Kd2 Bg5+ 40. Kc3 Bf6+ 41. Kc4 Rd8 42. Ra7 Rb8 43. d6 Rd8 44. Ra5
+1-0
+

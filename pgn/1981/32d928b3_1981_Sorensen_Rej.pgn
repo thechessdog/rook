@@ -1,0 +1,21 @@
+[Event "Haderslev op"]
+[Site "Haderslev"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Sorensen, Torben"]
+[Black "Rej, Dennis"]
+[Result "0-1"]
+[ECO "A70"]
+[Opening "Benoni"]
+[Variation "classical with e4 and Nf3"]
+[HashCode "32d928b3"]
+[Epoch "Rook"]
+[WhiteID "1463357"]
+[BlackID "1402692"]
+[WhiteCountry "DEN"]
+[BlackCountry "DEN"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. Nf3 Bg7 8. Nd2
+O-O 9. Be2 Na6 10. O-O Nc7 11. a4 a6 12. Nc4 Rb8 13. Bf4 Nfe8 14. f3 b5 15. Na5
+Bd7 16. axb5 axb5 17. Kh1 f5 18. Qd2 b4 19. Nd1 fxe4 20. fxe4 Qe7 21. Bd3 Ra8
+22. Re1 Nb5 23. Bg3 Nd4 24. Bf2 Rxa5 0-1

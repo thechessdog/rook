@@ -1,0 +1,21 @@
+[Event "Columbus,OH"]
+[Site "Columbus,OH"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Diebert, Charles"]
+[Black "Bath, John"]
+[Result "1-0"]
+[ECO "C00"]
+[Opening "French"]
+[Variation "Alapin variation"]
+[HashCode "549da569"]
+[Epoch "Rook"]
+[WhiteID "2065517"]
+[BlackID "2018438"]
+[WhiteCountry "USA"]
+[BlackCountry "USA"]
+
+1. e4 e6 2. d4 d5 3. Be3 dxe4 4. Nd2 Nf6 5. f3 Nd5 6. Qe2 c5 7. dxc5 Qa5 8. c3
+Nxe3 9. Qxe3 Bxc5 10. Qxe4 Bxg1 11. Rxg1 Qb6 12. O-O-O Nd7 13. Be2 Nf6 14. Qh4
+Qa5 15. Nc4 Qxa2 16. Nd6+ Kf8 17. Qb4 a5 18. Qc5 Nd7 19. Nxc8+ Nxc5 20. Rd8#
+1-0

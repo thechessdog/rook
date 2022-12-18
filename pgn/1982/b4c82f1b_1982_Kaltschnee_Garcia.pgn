@@ -1,0 +1,19 @@
+[Event "corr EU"]
+[Site "corr EU"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Kaltschnee"]
+[Black "Garces, Napoleon"]
+[Result "0-1"]
+[ECO "A00"]
+[Opening "Polish (Sokolsky) opening"]
+[HashCode "b4c82f1b"]
+[Epoch "Rook"]
+[BlackID "3600130"]
+[BlackCountry "ECU"]
+
+1. b4 e5 2. Bb2 Bxb4 3. Bxe5 Nf6 4. c4 O-O 5. e3 d5 6. f4 Be7 7. Nf3 c5 8. Nc3
+Nbd7 9. cxd5 Nxe5 10. Nxe5 Nxd5 11. Qb3 Nb6 12. Be2 Be6 13. Qc2 Qc8 14. O-O a6
+15. Rab1 Nd7 16. Qe4 Nxe5 17. Qxe5 Bf6 18. Qh5 Bxc3 19. dxc3 Bxa2 20. Rbd1 Qe6
+21. Qe5 Qxe5 22. fxe5 Rfe8 23. Bf3 Rab8 24. Rd6 Rxe5 25. Bxb7 Rxe3 26. Bxa6
+Rxc3 27. Rfd1 g5 0-1

@@ -1,0 +1,18 @@
+[Event "Bagni di Lucca"]
+[Site "Bagni di Lucca"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Vujovic"]
+[Black "Slutzkin"]
+[Result "1-0"]
+[ECO "B70"]
+[Opening "Sicilian"]
+[Variation "dragon variation"]
+[HashCode "16d54516"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. h3 Bg7 7. Bc4 O-O 8.
+Bb3 Nc6 9. Be3 Bd7 10. O-O Nxd4 11. Bxd4 Bc6 12. f4 e5 13. fxe5 dxe5 14.
+Bc5 Nxe4 15. Nxe4 Bxe4 16. Qe1 Bc6 17. Bxf8 Qd4+ 18. Qf2 Rxf8 19. Qxd4 exd4
+20. Rae1 Bb5 21. Rxf7 Rxf7 22. Re7 Ba4 23. Bxf7+ Kf8 24. Rxb7 1-0
+

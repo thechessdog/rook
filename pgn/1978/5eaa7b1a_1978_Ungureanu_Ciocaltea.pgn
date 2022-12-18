@@ -1,0 +1,17 @@
+[Event "Bucharest"]
+[Site "Bucharest"]
+[Date "1978.01.01"]
+[Round "8"]
+[White "Ungureanu, Emil"]
+[Black "Ciocaltea, Victor"]
+[Result "1/2-1/2"]
+[ECO "C03"]
+[Opening "French"]
+[Variation "Tarrasch, Guimard variation"]
+[HashCode "5eaa7b1a"]
+[Epoch "Rook"]
+[BlackCountry "ROU"]
+[WhiteCountry "ROU"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nc6 4. Ngf3 g6 5. Bb5 Bg7 6. exd5 exd5 7. Bxc6+ bxc6
+8. O-O Ne7 9. Nb3 O-O 10. Nc5 Bg4 11. c3 Nf5 12. h3 Bxf3 13. Qxf3 Re8 1/2-1/2

@@ -1,0 +1,21 @@
+[Event "corr DDR/K"]
+[Site "corr DDR/K"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Starke"]
+[Black "Quednau"]
+[Result "0-1"]
+[ECO "E83"]
+[Opening "King's Indian"]
+[Variation "Saemisch, 6...Nc6"]
+[HashCode "dd35290f"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 Nc6 7. Qd2 Re8 8.
+Nge2 Rb8 9. g4 a6 10. Ng3 e5 11. Nce2 exd4 12. Nxd4 Ne5 13. Be2 c5 14. Nc2
+b5 15. cxb5 axb5 16. Bh6 d5 17. Bxg7 Kxg7 18. g5 Nh5 19. Nxh5+ gxh5 20.
+O-O-O d4 21. Qf4 Qc7 22. Kb1 b4 23. b3 Qa7 24. Qc1 Ba6 25. Bxa6 Qxa6 26.
+Ne1 Ra8 27. Qb2 Rec8 28. f4 Nc6 29. Rc1 Na7 30. Rxc5 Rxc5 31. Qxd4+ Kg8 32.
+Qxc5 Nb5 33. a4 Nc3+ 34. Kb2 Rc8 35. Qxb4 Qe2+ 36. Nc2 Nd1+ 37. Ka3 Qxc2
+38. Qd6 Qb2+ 39. Kb4 Ne3 40. Qd3 Nc2+ 41. Kb5 Qa3 42. Qd5 Rb8+ 0-1
+

@@ -1,0 +1,16 @@
+[Event "Janesville"]
+[Site "Janesville"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Webster, Peter"]
+[Black "Ludwig"]
+[Result "1-0"]
+[ECO "A45"]
+[Opening "Blackmar-Diemer gambit"]
+[HashCode "65051d63"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. f3 d5 3. e4 e6 4. Be3 c5 5. dxc5 Qa5+ 6. c3 dxe4 7. fxe4 Nc6
+8. Nd2 e5 9. Bc4 Bg4 10. Ngf3 Rd8 11. b4 Qc7 12. O-O Be7 13. Qb3 Bh5 14.
+Ng5 O-O 15. g4 Bg6 16. Nxf7 Bxf7 17. Bxf7+ Rxf7 18. g5 Qc8 19. Rf3 1-0
+

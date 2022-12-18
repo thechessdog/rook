@@ -1,0 +1,20 @@
+[Event "SSL ch Espoo"]
+[Site "SSL ch Espoo"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Eskelinen, Aarno"]
+[Black "Issakainen, Ari"]
+[Result "1-0"]
+[ECO "B87"]
+[Opening "Sicilian"]
+[Variation "Sozin with ...a6 and ...b5"]
+[HashCode "dc4daa64"]
+[Epoch "Rook"]
+[WhiteID "501751"]
+[BlackID "500330"]
+[WhiteCountry "FIN"]
+[BlackCountry "FIN"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e6 6. Bc4 a6 7. Bb3 b5 8. a3
+Bb7 9. O-O Be7 10. Bxe6 fxe6 11. Nxe6 Qd7 12. Nxg7+ Kf7 13. Nf5 Bf8 14. Bg5 Rg8
+15. Bxf6 Kxf6 16. Nd5+ Ke6 17. Nd4+ Kf7 18. Qf3+ Kg6 19. Qf6+ 1-0

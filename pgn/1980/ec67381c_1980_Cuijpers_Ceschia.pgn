@@ -1,0 +1,21 @@
+[Event "Lido op"]
+[Site "Venice"]
+[Date "1980.??.??"]
+[Round "2"]
+[White "Cuijpers, Frans Andre"]
+[Black "Ceschia, Ivano"]
+[Result "0-1"]
+[ECO "B98"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Browne variation"]
+[HashCode "ec67381c"]
+[Epoch "Rook"]
+[WhiteID "1000209"]
+[BlackID "800260"]
+[WhiteCountry "NED"]
+[BlackCountry "ITA"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3
+h6 9. Bh4 Qc7 10. O-O-O Nbd7 11. Qg3 Rg8 12. Bxf6 Nxf6 13. Be2 g5 14. fxg5 Rxg5
+15. Qf2 Bd7 16. Rhf1 O-O-O 17. Rd3 Be8 18. Rg3 d5 19. Rxg5 hxg5 20. exd5 Nxd5
+21. Nxd5 Rxd5 22. Nf3 g4 23. Ne1 Bg5+ 24. Kb1 Rd2 25. h4 gxh3 26. Qf3 Bc6 0-1

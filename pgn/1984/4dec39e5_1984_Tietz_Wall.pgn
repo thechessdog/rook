@@ -1,0 +1,17 @@
+[Event "Dayton,OH"]
+[Site "Dayton,OH"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Tietz"]
+[Black "Wall, Bill"]
+[Result "0-1"]
+[ECO "C58"]
+[Opening "two knights defence"]
+[Variation "Blackburne variation"]
+[HashCode "4dec39e5"]
+[Epoch "Rook"]
+[BlackCountry "USA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 Na5 6. Bb5+ c6 7. dxc6 bxc6 8.
+Qf3 cxb5 9. Qxa8 Bc5 10. d3 O-O 11. Be3 Bb4+ 12. Nd2 Nd5 13. Qxa7 Nc6 14. Qa8
+Nxe3 15. Qxc6 Qxg5 16. fxe3 Qxe3+ 17. Kf1 Bxd2 18. Qxb5 Qf4+ 0-1

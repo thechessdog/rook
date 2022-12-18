@@ -1,0 +1,17 @@
+[Event "Dayton,OH"]
+[Site "Dayton,OH"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Wall, Bill"]
+[Black "Barsalou, Norm"]
+[Result "1-0"]
+[ECO "C69"]
+[Opening "Ruy Lopez"]
+[Variation "exchange variation, 5.O-O"]
+[HashCode "f16e1fe6"]
+[Epoch "Rook"]
+[WhiteCountry "USA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O Bd6 6. d4 Qe7 7. Bg5 Nf6 8.
+Nc3 exd4 9. Nxd4 c5 10. Nd5 Qe5 11. Nf5 Nxe4 12. Nxd6+ Qxd6 13. Re1 Bf5 14. f3
+f6 15. fxe4 1-0

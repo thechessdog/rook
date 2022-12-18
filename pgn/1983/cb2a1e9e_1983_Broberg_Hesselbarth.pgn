@@ -1,0 +1,22 @@
+[Event "corr ch11-DDR"]
+[Site "corr ch11-DDR"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Broberg, H."]
+[Black "Hesselbarth, K."]
+[Result "1-0"]
+[ECO "C73"]
+[Opening "Ruy Lopez"]
+[Variation "modern Steinitz defence, Alapin variation"]
+[HashCode "cb2a1e9e"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. Bxc6+ bxc6 6. d4 f6 7. Be3 Ne7
+8. Nc3 g6 9. Qd2 Bg7 10. O-O-O O-O 11. Bh6 Qe8 12. h4 Bxh6 13. Qxh6 Qf7 14.
+Rd3 Bg4 15. Qd2 exd4 16. Nxd4 c5 17. Nde2 Bxe2 18. Qxe2 Nc6 19. Rg3 Nd4 20.
+Qd3 Rae8 21. Kb1 Kh8 22. h5 g5 23. h6 Rg8 24. Re3 a5 25. Ne2 Nc6 26. Ng3
+Rb8 27. Qd5 Qe8 28. Qf5 Rg6 29. Qd5 a4 30. Nf5 Ne5 31. f3 c6 32. Qxd6 Rxb2+
+33. Ka1 Nc4 34. Qxc5 Rxc2 35. Rd3 Qb8 36. Qd4 Qf8 37. Rhd1 Nb2 38. Qd8 Rg8
+39. Qxf8 Rxf8 40. Rd8 Kg8 41. Rxf8+ Kxf8 42. Rd8+ Kf7 43. Rd7+ Kf8 44. Kb1
+Rxg2 45. Rxh7 Kg8 46. Rg7+ 1-0
+

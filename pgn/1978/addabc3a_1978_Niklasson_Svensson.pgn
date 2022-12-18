@@ -1,0 +1,23 @@
+[Event "Sweden"]
+[Site "Sweden"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Niklasson, Christer"]
+[Black "Svensson, Bengt"]
+[Result "1-0"]
+[ECO "B06"]
+[Opening "Robatsch defence"]
+[Variation "two knights variation"]
+[HashCode "addabc3a"]
+[Epoch "Rook"]
+[WhiteID "1700316"]
+[WhiteCountry "SWE"]
+[BlackID "1722891"]
+[BlackCountry "SWE"]
+
+1. d4 g6 2. e4 Bg7 3. Nf3 d6 4. Nc3 Nd7 5. Bc4 c6 6. Bb3 e5 7. dxe5 dxe5 8. Ng5
+Nh6 9. Be3 O-O 10. Qd6 Qf6 11. Qd2 Ng4 12. Nxf7 Nxe3 13. Ng5+ Kh8 14. Qxe3 Bh6
+15. h4 Nb6 16. O-O Bg7 17. a4 h6 18. a5 Nd7 19. Ne6 Qxh4 20. Nxf8 Nxf8 21. Rad1
+Ne6 22. Bxe6 Bxe6 23. Rd6 Qe7 24. Rfd1 a6 25. Na4 Kh7 26. Nc5 Bg4 27. f3 Bc8
+28. Rd8 h5 29. b4 Qh4 30. Re8 Bf6 31. c3 Bg5 32. Qf2 Qf4 33. Qa2 Qe3+ 34. Kh1
+Bf6 35. Qf7+ Bg7 36. Rg8 1-0

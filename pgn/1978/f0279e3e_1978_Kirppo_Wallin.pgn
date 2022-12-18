@@ -1,0 +1,19 @@
+[Event "corr SWE/M"]
+[Site "corr SWE/M"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Kirppo"]
+[Black "Wallin"]
+[Result "0-1"]
+[ECO "E06"]
+[Opening "Catalan"]
+[Variation "closed, 5.Nf3"]
+[HashCode "f0279e3e"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Bg2 Be7 5. Nf3 O-O 6. O-O c6 7. Nc3 Nbd7 8.
+b3 b6 9. Bb2 Bb7 10. Qc2 c5 11. cxd5 exd5 12. Rfd1 Rc8 13. Rac1 Qc7 14. Qf5
+g6 15. Qb1 a6 16. Qa1 Rfd8 17. Bh3 Ra8 18. Ne5 Nxe5 19. dxe5 Ne8 20. e6 d4
+21. exf7+ Kxf7 22. Na4 Qc6 23. f3 Bg5 24. Rc2 Be3+ 25. Kh1 Nf6 26. Bc1 d3
+27. Bxe3 dxe2 28. Rg1 Qxf3+ 29. Bg2 Qxg2+ 30. Rxg2 Rd1+ 31. Bg1 e1=Q 0-1
+

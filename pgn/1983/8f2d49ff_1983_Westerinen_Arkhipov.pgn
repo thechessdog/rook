@@ -1,0 +1,19 @@
+[Event "Budapest"]
+[Site "Budapest"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Westerinen, Heikki M.J."]
+[Black "Arkhipov, Sergey"]
+[Result "0-1"]
+[ECO "C33"]
+[Opening "KGA"]
+[Variation "Keres (Mason-Steinitz) gambit"]
+[HashCode "8f2d49ff"]
+[Epoch "Rook"]
+[WhiteID "500020"]
+[WhiteCountry "FIN"]
+[BlackID "4101146"]
+[BlackCountry "RUS"]
+
+1. e4 e5 2. f4 exf4 3. Nc3 Qh4+ 4. Ke2 Ne7 5. Nf3 Qh5 6. d4 g5 7. Kf2 d6 8. Be2
+Bg7 9. Nb5 Na6 10. c3 g4 11. Ne1 Bh6 12. Kg1 Rg8 13. h3 f3 14. hxg4 f2+ 0-1

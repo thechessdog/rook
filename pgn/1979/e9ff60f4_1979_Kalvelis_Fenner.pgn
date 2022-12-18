@@ -1,0 +1,20 @@
+[Event "corr Eu Mkl"]
+[Site "corr Eu Mkl"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Kalvelis, L."]
+[Black "Fenner, W."]
+[Result "1-0"]
+[ECO "B77"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, 9...Bd7"]
+[HashCode "e9ff60f4"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 Nc6 8.
+Bc4 O-O 9. Qd2 Bd7 10. h4 Qa5 11. Bb3 Rfc8 12. h5 Nxh5 13. g4 Nf4 14. O-O-O
+Ne6 15. Qh2 Ncxd4 16. Qxh7+ Kf8 17. Bh6 Nxb3+ 18. Kb1 Ke8 19. Bxg7 Bc6 20.
+axb3 Ng5 21. Qh6 Kd7 22. Rd5 Bxd5 23. Qxg5 Rc5 24. Nxd5 f6 25. Bxf6 exf6
+26. Qxf6 Rxd5 27. Rh7+ Kc6 28. exd5+ Qxd5 29. Qe7 Kb6 30. Qc7+ Ka6 31. Rd7
+Qb5 32. Rxd6+ b6 33. Rd4 1-0
+

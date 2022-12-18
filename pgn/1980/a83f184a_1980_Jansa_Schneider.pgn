@@ -1,0 +1,23 @@
+[Event "Skara etc"]
+[Site "Skara etc"]
+[Date "1980.01.01"]
+[Round "7"]
+[White "Jansa, Vlastimil"]
+[Black "Schneider, Lars-Ake"]
+[Result "1-0"]
+[ECO "B31"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (with ...g6, without ...d6)"]
+[HashCode "a83f184a"]
+[Epoch "Rook"]
+[WhiteID "300128"]
+[WhiteCountry "CZE"]
+[BlackCountry "SWE"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. Re1 e5 6. Bxc6 dxc6 7. d3 Qe7 8.
+Nbd2 Nh6 9. a3 f6 10. b4 cxb4 11. axb4 O-O 12. Bb2 Rd8 13. Bc3 Nf7 14. Nc4 Be6
+15. Qe2 Nd6 16. Nxd6 Qxd6 17. Qe3 a6 18. Rab1 Rd7 19. Nd2 Bf8 20. Qf3 Kg7 21.
+g4 h6 22. h4 Rf7 23. Qg3 Qc7 24. g5 Bd6 25. gxf6+ Kh7 26. Nf3 Rxf6 27. Nxe5
+Raf8 28. f4 g5 29. f5 gxh4 30. Qf4 Bxf5 31. exf5 Rxf5 32. Qe4 Qg7+ 33. Kh1 Qg3
+34. Re3 Qf4 35. Qxf4 Rxf4 36. Re2 h3 37. Rg1 Rf1 38. Rxf1 Rxf1+ 39. Kh2 Rf3 40.
+Kg1 Rg3+ 41. Kh1 c5 42. bxc5 1-0

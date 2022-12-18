@@ -1,0 +1,22 @@
+[Event "Nice"]
+[Site "Nice"]
+[Date "1983.01.01"]
+[Round "13"]
+[White "Maksimovic, Branimir"]
+[Black "Schmidt, Wlodzimierz"]
+[Result "0-1"]
+[ECO "B81"]
+[Opening "Sicilian"]
+[Variation "Scheveningen, Keres attack"]
+[HashCode "ffbe12d0"]
+[Epoch "Rook"]
+[WhiteID "901490"]
+[WhiteCountry "SRB"]
+[BlackID "1100041"]
+[BlackCountry "POL"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. g4 h6 7. h4 Nc6 8. g5
+hxg5 9. Bxg5 a6 10. Qd2 Qb6 11. O-O-O Nxd4 12. Qxd4 Qxd4 13. Rxd4 Bd7 14. Bg2
+Bc6 15. Rhd1 Be7 16. f4 Ng4 17. Rg1 e5 18. Rd2 f6 19. Bh3 Ne3 20. fxe5 fxg5 21.
+exd6 Rxh4 22. Be6 Bf6 23. Rd3 Bxc3 24. Rxc3 Rxe4 25. Re1 Rxe6 26. Rcxe3 Rxe3
+27. Rxe3+ Kf7 0-1

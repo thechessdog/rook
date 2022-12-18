@@ -1,0 +1,19 @@
+[Event "New York"]
+[Site "New York"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Schiller, Eric"]
+[Black "Payne"]
+[Result "1-0"]
+[ECO "C15"]
+[Opening "French"]
+[Variation "Winawer, fingerslip variation"]
+[HashCode "807f7616"]
+[Epoch "Rook"]
+[WhiteID "2002973"]
+[WhiteCountry "USA"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. Bd2 Nf6 5. e5 Nfd7 6. Qg4 Bf8 7. Bg5 h5 8. Qg3
+f6 9. Bd3 fxg5 10. Bg6+ Ke7 11. Qxg5+ Nf6 12. f4 a6 13. f5 Qd7 14. O-O-O Qc6
+15. Nf3 Bd7 16. Rhe1 b5 17. fxe6 Be8 18. Nxd5+ Kd8 19. exf6 Bxg6 20. Qxg6 Bd6
+21. fxg7 Rg8 22. e7+ Kc8 23. Qe6+ Kb7 24. Qxg8 Nd7 25. Qxa8+ Kxa8 26. e8=Q+ 1-0

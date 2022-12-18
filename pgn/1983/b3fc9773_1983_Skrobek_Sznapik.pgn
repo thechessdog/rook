@@ -1,0 +1,22 @@
+[Event "Warsaw"]
+[Site "Warsaw"]
+[Date "1983.01.01"]
+[Round "5"]
+[White "Skrobek, Ryszard"]
+[Black "Sznapik, Aleksander"]
+[Result "0-1"]
+[ECO "B44"]
+[Opening "Sicilian, Szen (`anti-Taimanov') variation"]
+[HashCode "b3fc9773"]
+[Epoch "Rook"]
+[WhiteID "1100165"]
+[WhiteCountry "POL"]
+[BlackID "1100050"]
+[BlackCountry "POL"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e6 5. Nb5 d6 6. Bf4 e5 7. Be3 Nf6 8. Bg5
+Be6 9. Nd2 a6 10. Nc3 Rc8 11. Bc4 Nd4 12. Bb3 Be7 13. Bxf6 Bxf6 14. Nf1 Bg5 15.
+Ne3 Bxe3 16. fxe3 Nxb3 17. axb3 Qh4+ 18. g3 Qg5 19. Qd2 Rc6 20. Nd5 O-O 21. O-O
+h5 22. Rf3 Rc5 23. Nc3 Re8 24. Qxd6 h4 25. Qd2 Rd8 26. Qg2 h3 27. Qf2 Rc7 28.
+Qe1 Rcd7 29. Rf2 b5 30. Rxa6 b4 31. Nd5 Qg4 32. Ra1 Qxe4 33. c4 Rxd5 34. cxd5
+Bxd5 35. Kf1 Bxb3 36. Rc1 Ba4 37. Kg1 0-1

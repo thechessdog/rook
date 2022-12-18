@@ -1,0 +1,17 @@
+[Event "EU-chT Plovdiv"]
+[Site "Plovdiv etc"]
+[Date "1983.06.01"]
+[Round "5"]
+[White "Gligorić, Svetozar"]
+[Black "Polugaevsky, Lev"]
+[Result "1/2-1/2"]
+[ECO "E54"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Gligoric system with 7...dc"]
+[HashCode "d57af0b8"]
+[Epoch "Rook"]
+[BlackCountry "BLR"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 c5 6. Nf3 d5 7. O-O dxc4 8. Bxc4
+cxd4 9. exd4 b6 10. Bg5 Bb7 11. Rc1 Nbd7 12. Re1 Rc8 13. Bd3 Be7 14. Qe2 Nd5
+15. Qe4 g6 16. Qh4 Bxg5 17. Nxg5 N7f6 1/2-1/2

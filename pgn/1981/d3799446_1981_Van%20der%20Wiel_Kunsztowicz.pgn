@@ -1,0 +1,26 @@
+[Event "Bochum"]
+[Site "Bochum"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Van der Wiel, John T.H."]
+[Black "Kunsztowicz, Uwe"]
+[Result "1-0"]
+[ECO "B69"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...a6 defence, 11.Bxf6"]
+[HashCode "d3799446"]
+[Epoch "Rook"]
+[WhiteID "1000020"]
+[WhiteCountry "NED"]
+[BlackID "4602773"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 e6 7. Qd2 a6 8.
+O-O-O Bd7 9. f4 Be7 10. Nf3 b5 11. Bxf6 Bxf6 12. Qxd6 Be7 13. Qd2 b4 14. Ne2
+Ra7 15. e5 Qb6 16. Ng3 O-O 17. Ne4 a5 18. Qf2 Qb8 19. Qg3 Kh8 20. Bd3 b3 21.
+axb3 a4 22. bxa4 Rxa4 23. Nc3 Ra7 24. Qh3 h6 25. Rhe1 Nb4 26. Nd4 Na2+ 27. Nxa2
+Rxa2 28. Nb3 Ba4 29. Bf1 Bb4 30. Kb1 Qa8 31. Kxa2 Bxb3+ 32. Kxb3 Bxe1 33. Bb5
+Qa5 34. c4 Bd2 35. Qf3 Bb4 36. Rd7 Bc5 37. Kc2 Rd8 38. Rxd8+ Qxd8 39. g3 Qd4
+40. Kb3 Qd2 41. Qc6 Bf8 42. Qc7 Qxh2 43. Qxf7 Bc5 44. Bc6 Qxg3+ 45. Ka2 Qe1 46.
+Qe8+ Kh7 47. Qxe6 Qa5+ 48. Kb3 Qd8 49. Be4+ Kh8 50. Qg6 Qg8 51. Kc3 Be3 52. e6
+Bc5 53. b4 Be7 54. c5 Bh4 55. b5 Bf2 56. e7 1-0

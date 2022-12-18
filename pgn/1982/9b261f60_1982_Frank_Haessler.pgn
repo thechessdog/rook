@@ -1,0 +1,25 @@
+[Event "corr USCCC"]
+[Site "corr USCCC"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Frank, P."]
+[Black "Haessler, C."]
+[Result "0-1"]
+[ECO "E43"]
+[Opening "Nimzo-Indian"]
+[Variation "Fischer variation"]
+[HashCode "9b261f60"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 b6 5. Bd3 Bb7 6. Nf3 Ne4 7. O-O f5 8.
+d5 Bxc3 9. bxc3 Nc5 10. Ba3 Nba6 11. Be2 O-O 12. Qd4 d6 13. Rab1 Qd7 14.
+Ng5 e5 15. Qd2 Rae8 16. Bh5 g6 17. Be2 Qe7 18. Nf3 Bc8 19. Rfe1 g5 20. Qb2
+g4 21. Nd2 f4 22. exf4 exf4 23. Nb3 Bf5 24. Rbc1 f3 25. Nxc5 Nxc5 26. Bxc5
+fxe2 27. Be3 Bd3 28. Rxe2 Bxe2 29. Qxe2 Rf4 30. Qd3 Re4 31. Rd1 Qd7 32. Qe2
+c5 33. dxc6 Qxc6 34. Rd4 Rxd4 35. cxd4 Qe4 36. Qd1 Rc8 37. Qb3 Qe6 38. Qb5
+Rxc4 39. Qg5+ Kf8 40. g3 Rb4 41. Qd8+ Kf7 42. Qc7+ Kg6 43. Qc6 Kf6 44. d5
+Rb1+ 45. Bc1 Qe1+ 46. Kg2 Rxc1 47. Qxd6+ Kf7 48. Qf4+ Ke7 49. d6+ Kd7 50.
+Qxg4+ Kxd6 51. Qf4+ Kd5 52. Qf7+ Qe6 53. Qxa7 Qe4+ 54. Kh3 Rc6 55. Qa8 Kc5
+56. Qa3+ Kb5 57. Qb3+ Ka6 58. Qa3+ Kb7 59. Qf8 Rc5 60. Qg7+ Ka6 61. Qh6
+Qf5+ 0-1
+

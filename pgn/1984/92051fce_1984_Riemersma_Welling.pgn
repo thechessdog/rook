@@ -1,0 +1,18 @@
+[Event "Leiden op"]
+[Site "Leiden op"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Riemersma"]
+[Black "Welling, Gerard"]
+[Result "0-1"]
+[ECO "C41"]
+[Opening "Philidor"]
+[Variation "Improved Hanham variation"]
+[HashCode "92051fce"]
+[Epoch "Rook"]
+[BlackID "1000446"]
+[BlackCountry "NED"]
+
+1. e4 e5 2. Nf3 d6 3. d4 Nf6 4. Nc3 Nbd7 5. Bc4 Be7 6. Bb3 O-O 7. O-O c6 8. Re1
+Qe8 9. Nh4 exd4 10. Qxd4 Ne5 11. f4 Nfg4 12. Nf5 Bxf5 13. exf5 Bd8 14. Qe4 Bb6+
+15. Kf1 d5 0-1

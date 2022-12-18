@@ -1,0 +1,23 @@
+[Event "Nordic-tt"]
+[Site "Oslo"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Ziska, Bogi"]
+[Black "Flis, Jacek"]
+[Result "0-1"]
+[ECO "B85"]
+[Opening "Sicilian"]
+[Variation "Scheveningen, classical"]
+[HashCode "0f48d1c3"]
+[Epoch "Rook"]
+[WhiteID "7200161"]
+[WhiteCountry "FAI"]
+[BlackID "1100351"]
+[BlackCountry "POL"]
+
+1. e4 c5 2. Nf3 e6 3. Nc3 Nc6 4. d4 cxd4 5. Nxd4 Qc7 6. Be2 a6 7. O-O Nf6 8.
+Be3 d6 9. f4 Be7 10. a4 O-O 11. Nb3 b6 12. Bf3 Rb8 13. Qe2 Na5 14. Kh1 Nc4 15.
+Bc1 Bb7 16. Rd1 Rbd8 17. Rd4 Rc8 18. Nd2 Nxd2 19. Rxd2 Rfd8 20. Rd1 d5 21. e5
+Ne4 22. Bxe4 dxe4 23. Be3 Qc6 24. Rxd8+ Rxd8 25. Rd1 Rxd1+ 26. Qxd1 h6 27. Qd4
+Bc5 28. Qd8+ Kh7 29. Qd2 Bxe3 30. Qxe3 b5 31. axb5 axb5 32. Qe2 e3 33. Nd1
+Qxg2+ 34. Qxg2 Bxg2+ 35. Kxg2 e2 0-1

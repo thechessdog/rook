@@ -1,0 +1,16 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Mishinski"]
+[Black "Mametsanov"]
+[Result "1-0"]
+[ECO "C37"]
+[Opening "KGA"]
+[Variation "Muzio gambit"]
+[HashCode "93855e5b"]
+[Epoch "Rook"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. Bc4 g4 5. O-O gxf3 6. Qxf3 Bc5+ 7. Kh1 d5
+8. Qxf4 Be6 9. exd5 Bxd5 10. Qe5+ Kd7 11. Qxd5+ Bd6 12. Qf5+ 1-0
+

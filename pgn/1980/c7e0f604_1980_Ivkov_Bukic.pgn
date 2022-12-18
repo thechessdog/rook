@@ -1,0 +1,20 @@
+[Event "Vrbas"]
+[Site "Vrbas"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Ivkov, Borislav"]
+[Black "Bukic, Enver"]
+[Result "1/2-1/2"]
+[ECO "E12"]
+[Opening "Queen's Indian"]
+[Variation "Petrosian system"]
+[HashCode "c7e0f604"]
+[Epoch "Rook"]
+[WhiteID "900141"]
+[WhiteCountry "SRB"]
+[BlackID "14600030"]
+[BlackCountry "SLO"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. a3 c5 5. e3 g6 6. Nc3 Bg7 7. Be2 O-O 8. O-O Bb7
+9. d5 exd5 10. cxd5 Re8 11. Re1 d6 12. Rb1 Nbd7 13. Bf1 a6 14. a4 Qc7 15. b3
+Ne4 16. Nxe4 Rxe4 17. Bc4 Rae8 18. Qd3 Qc8 1/2-1/2

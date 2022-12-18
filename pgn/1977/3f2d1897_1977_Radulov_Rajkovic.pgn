@@ -1,0 +1,20 @@
+[Event "Vrbas"]
+[Site "Vrbas"]
+[Date "1977.01.01"]
+[Round "4"]
+[White "Radulov, Ivan"]
+[Black "Rajkovic, Dusan"]
+[Result "1/2-1/2"]
+[ECO "B19"]
+[Opening "Caro-Kann"]
+[Variation "classical, 7...Nd7"]
+[HashCode "3f2d1897"]
+[Epoch "Rook"]
+[WhiteID "2900300"]
+[WhiteCountry "FID"]
+[BlackID "900265"]
+[BlackCountry "SRB"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6 7. Nf3 Nd7 8. Bd3
+Bxd3 9. Qxd3 Ngf6 10. Bd2 Qc7 11. O-O-O e6 12. Qe2 O-O-O 13. Ne5 Nxe5 14. dxe5
+Nd7 15. f4 Be7 1/2-1/2

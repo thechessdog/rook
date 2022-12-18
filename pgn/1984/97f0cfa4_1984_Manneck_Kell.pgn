@@ -1,0 +1,20 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Manneck"]
+[Black "Kell"]
+[Result "0-1"]
+[ECO "C45"]
+[Opening "Scotch"]
+[Variation "Potter variation"]
+[HashCode "97f0cfa4"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Bc5 5. Nb3 Bb6 6. a4 a6 7. Nc3 Nge7
+8. Bg5 O-O 9. Bc4 d6 10. O-O Qd7 11. Re1 Ne5 12. Bxe7 Qxe7 13. Nd5 Bxf2+
+14. Kxf2 Qh4+ 15. Kg1 Nxc4 16. Nxc7 Rb8 17. Qd4 b5 18. axb5 axb5 19. Nxb5
+Rxb5 20. Qxc4 Rh5 21. Qd3 Qxh2+ 22. Kf2 Rg5 23. Rg1 f5 24. e5 Bb7 25. Qf1
+Qxe5 26. Qc4+ Bd5 27. Qd4 Qg3+ 28. Ke2 f4 29. Nd2 f3+ 30. gxf3 Bxf3+ 31.
+Nxf3 Qxf3+ 32. Kd2 Rd5 0-1
+

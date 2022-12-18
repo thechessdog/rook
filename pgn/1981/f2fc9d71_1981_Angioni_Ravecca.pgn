@@ -1,0 +1,19 @@
+[Event "Torino"]
+[Site "Torino"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Angioni"]
+[Black "Ravecca"]
+[Result "1-0"]
+[ECO "B29"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rubinstein variation"]
+[HashCode "f2fc9d71"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 Nf6 3. Nc3 d5 4. Bb5+ Bd7 5. exd5 Bxb5 6. Nxb5 Nxd5 7. Ne5
+Nd7 8. Nxf7 Kxf7 9. Qh5+ Ke6 10. O-O N7f6 11. Re1+ Kd7 12. Qe5 Qb6 13. c4
+Nc7 14. d4 Nxb5 15. dxc5 Qc7 16. Qf5+ Ke8 17. cxb5 Rd8 18. Bf4 Qd7 19. Re6
+Qxb5 20. Rae1 h5 21. Bd6 Rxd6 22. Qg6+ Kd7 23. cxd6 exd6 24. Qf7+ Kd8 25.
+Rxf6 Qxb2 26. Re8# 1-0
+

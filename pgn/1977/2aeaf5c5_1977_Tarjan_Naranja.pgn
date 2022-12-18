@@ -1,0 +1,19 @@
+[Event "Manila"]
+[Site "Manila"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Tarjan, James"]
+[Black "Naranja"]
+[Result "1-0"]
+[ECO "B81"]
+[Opening "Sicilian"]
+[Variation "Scheveningen, Keres attack"]
+[HashCode "2aeaf5c5"]
+[Epoch "Rook"]
+[WhiteID "2000180"]
+[WhiteCountry "USA"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. g4 Be7 7. g5 Nfd7 8. h4
+Nc6 9. Be3 a6 10. Bg2 O-O 11. Qe2 Nxd4 12. Bxd4 e5 13. Be3 Nb6 14. O-O-O Be6
+15. Bh3 Re8 16. g6 hxg6 17. Bxe6 fxe6 18. Rdg1 Kf7 19. Qg4 Bf6 20. Qxg6+ Ke7
+21. h5 Rh8 22. h6 gxh6 23. Rxh6 Rxh6 24. Qxh6 Nd7 25. Rg7+ 1-0

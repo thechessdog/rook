@@ -1,0 +1,19 @@
+[Event "British CCC"]
+[Site "British CCC"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Nelson, IR."]
+[Black "Cunliffe, SD."]
+[Result "0-1"]
+[ECO "C63"]
+[Opening "Ruy Lopez"]
+[Variation "Schliemann defence, Berger variation"]
+[HashCode "b0dd0c46"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 f5 4. Nc3 Nf6 5. exf5 e4 6. Ng5 d5 7. d3 h6 8.
+dxe4 d4 9. e5 hxg5 10. exf6 gxf6 11. Qe2+ Kf7 12. Ne4 Bxf5 13. f4 Qe7 14.
+Ng3 Qxe2+ 15. Bxe2 Bxc2 16. fxg5 fxg5 17. Bxg5 d3 18. Bf3 Re8+ 19. Kd2 Bb4+
+20. Kc1 Rxh2 21. Bd2 Rxh1+ 22. Nxh1 Re1+ 23. Bxe1 Bxe1 24. Bd1 Nd4 25. Bxc2
+dxc2 0-1
+

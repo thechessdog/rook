@@ -1,0 +1,22 @@
+[Event "Tunta"]
+[Site "Tunta"]
+[Date "1984.01.01"]
+[Round "9"]
+[White "Cuartas, Carlos Enrique"]
+[Black "Pfleger, Helmut, Dr."]
+[Result "0-1"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, 6.Be3"]
+[HashCode "86654c42"]
+[Epoch "Rook"]
+[BlackID "4600100"]
+[BlackCountry "GER"]
+[WhiteID "4428161"]
+[WhiteCountry "COL"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 O-O 6. Be3 Nbd7 7. e5 Ng4 8. Bg1
+c5 9. Qe2 cxd4 10. Bxd4 dxe5 11. fxe5 Ndxe5 12. O-O-O Qa5 13. h3 Nxf3 14. Bxg7
+Qg5+ 15. Kb1 Kxg7 16. hxg4 Ne5 17. Rd5 f6 18. Ne4 Qxg4 19. Qe3 h5 20. Be2 Qxg2
+21. Rg1 Qh2 22. Ng3 Ng4 23. Qxe7+ Rf7 24. Qc5 Be6 25. Nxh5+ gxh5 26. Rxh5 Qxe2
+27. Rgh1 Qe4 28. Qc3 Bf5 29. Rg5+ Bg6 30. Rg1 Rh8 31. b3 Ne5 32. R5g2 0-1

@@ -1,0 +1,21 @@
+[Event "Hamburg HSK"]
+[Site "Hamburg"]
+[Date "1980.01.01"]
+[Round "2"]
+[White "Westerinen, Heikki M.J."]
+[Black "Jacoby, Gisbert"]
+[Result "1-0"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra gambit"]
+[HashCode "a738b88f"]
+[Epoch "Rook"]
+[WhiteID "500020"]
+[WhiteCountry "FIN"]
+[BlackID "4604768"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. d4 cxd4 3. c3 d3 4. Bxd3 d6 5. f4 g6 6. Nf3 Bg7 7. O-O Nf6 8. Kh1
+O-O 9. Qe1 Nbd7 10. Bc2 e6 11. Be3 b6 12. Qh4 Bb7 13. Nbd2 Nc5 14. f5 Nfxe4 15.
+Ng5 Nxg5 16. Bxg5 Qd7 17. f6 Qc6 18. Rf3 Bh8 19. Rg1 e5 20. Rh3 h5 21. Qg3 Ne6
+22. Rxh5 Nf4 23. Rxh8+ Kxh8 24. Bxf4 1-0

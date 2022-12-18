@@ -1,0 +1,16 @@
+[Event "Virginia"]
+[Site "Virginia"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Street"]
+[Black "Campbell, J."]
+[Result "0-1"]
+[ECO "B27"]
+[Opening "Sicilian defence"]
+[HashCode "b9c8a38e"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d5 3. exd5 Nf6 4. c4 e6 5. dxe6 Bxe6 6. d4 cxd4 7. Nxd4
+Bb4+ 8. Nc3 Qa5 9. Nb5 O-O 10. Bf4 Re8 11. Be3 a6 12. Nd6 Bxc3+ 13. bxc3
+Qxc3+ 14. Ke2 Bg4+ 0-1
+

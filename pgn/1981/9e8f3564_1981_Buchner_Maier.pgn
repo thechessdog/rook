@@ -1,0 +1,26 @@
+[Event "Bundesliga 8081"]
+[Site "Duitsland tt"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Buchner, Gert"]
+[Black "Maier, Christian"]
+[Result "0-1"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, positional main line"]
+[HashCode "9e8f3564"]
+[Epoch "Rook"]
+[BlackID "4601955"]
+[BlackCountry "GER"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 Ne7 5. a3 Bxc3+ 6. bxc3 c5 7. Nf3 Bd7 8. Bd3
+Nbc6 9. O-O Qc7 10. Re1 f6 11. a4 O-O-O 12. Ba3 fxe5 13. Nxe5 Nxe5 14. Rxe5 Nc6
+15. Rg5 cxd4 16. cxd4 Nxd4 17. Rxg7 e5 18. c4 dxc4 19. Rc1 c3 20. Bb2 Qb6 21.
+Bxc3 Bc6 22. Qg4+ Kb8 23. Be4 h5 24. Bxd4 Rxd4 25. Rg8+ Rxg8 26. Qxg8+ Rd8 27.
+Qg5 Qd4 28. Bf3 Bxf3 29. gxf3 h4 30. Qg4 h3 31. Qxh3 Rg8+ 32. Kh1 Qxf2 33. Qf1
+Qa2 34. Ra1 Qc2 35. a5 a6 36. Re1 Qc5 37. Qe2 Ka8 38. Qe3 Qd5 39. Qc3 Re8 40.
+Re2 Qb5 41. Re1 e4 42. fxe4 Rxe4 43. Rg1 Re8 44. h3 Qd5+ 45. Rg2 Re4 46. Kh2
+Rc4 47. Qe1 Rc8 48. Qd2 Qe5+ 49. Kh1 Rh8 50. Qd3 Qxa5 51. Qb3 Qe1+ 52. Kh2 Qe5+
+53. Kh1 Qe4 54. Kh2 Ka7 55. Qc3 Rh5 56. Kg1 Rd5 57. Qg3 a5 58. Qf2+ Qd4 59. Rg4
+Qxf2+ 60. Kxf2 b5 61. h4 a4 62. Rg5 Rd2+ 63. Ke3 Rb2 64. Kd4 a3 65. Kc3 b4+ 66.
+Kc4 a2 67. Ra5+ Kb6 0-1

@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Miettinen, R & Wikm"]
+[Black "Peterson, GJ & Hell"]
+[Result "1-0"]
+[ECO "E54"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Gligoric system with 7...dc"]
+[HashCode "9c755b98"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 c5 7. O-O dxc4 8.
+Bxc4 b6 9. a3 cxd4 10. axb4 dxc3 11. Qxd8 Rxd8 12. bxc3 Nc6 13. Bb2 Bb7 14.
+Be2 Kf8 15. Rfd1 Rxd1+ 16. Rxd1 Ke8 17. Nd2 Rd8 18. Nc4 Rxd1+ 19. Bxd1 Kd7
+20. b5 Nd8 21. f3 Nd5 22. e4 Nc7 23. Ba4 f6 24. e5 Nf7 25. exf6 gxf6 26.
+Kf2 Bd5 27. Ne3 Ne5 28. Bc2 f5 29. Kg3 Bc4 30. f4 1-0
+

@@ -1,0 +1,18 @@
+[Event "corr USA"]
+[Site "corr USA"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Smith, J."]
+[Black "Feagin, J."]
+[Result "1/2-1/2"]
+[ECO "C21"]
+[Opening "Danish gambit"]
+[Variation "Soerensen defence"]
+[HashCode "21284ad0"]
+[Epoch "Rook"]
+
+1. e4 e5 2. d4 exd4 3. c3 d5 4. exd5 Qxd5 5. cxd4 Nc6 6. Nf3 Bb4+ 7. Nc3
+Bg4 8. Be2 Bxf3 9. Bxf3 Qc4 10. Bxc6+ Qxc6 11. O-O Ne7 12. Qb3 Bxc3 13.
+bxc3 O-O 14. c4 b6 15. d5 Qd7 16. Ba3 Rfe8 17. Rfd1 Nf5 18. Qf3 Nd6 19.
+Rac1 Rab8 20. c5 bxc5 21. Bxc5 Rb7 1/2-1/2
+

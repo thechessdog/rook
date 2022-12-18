@@ -1,0 +1,21 @@
+[Event "corr DFSM"]
+[Site "corr DFSM"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Haufe"]
+[Black "Grzeskowiak"]
+[Result "0-1"]
+[ECO "A34"]
+[Opening "English"]
+[Variation "symmetrical, three knights system"]
+[HashCode "abdf6f0a"]
+[Epoch "Rook"]
+
+1. c4 Nf6 2. Nc3 c5 3. Nf3 d5 4. cxd5 Nxd5 5. e4 Nb4 6. Bc4 Be6 7. Bxe6
+Nd3+ 8. Kf1 fxe6 9. Ng5 Qb6 10. Qc2 Qa6 11. Qa4+ Qxa4 12. Nxa4 e5 13. g3 e6
+14. Ke2 c4 15. b3 b5 16. Nb2 Nc6 17. bxc4 Nxc1+ 18. Rhxc1 Ba3 19. Rab1 Nd4+
+20. Ke3 O-O 21. f4 Rad8 22. cxb5 exf4+ 23. gxf4 h6 24. Nh3 g5 25. Rf1 e5
+26. Nc4 exf4+ 27. Kf2 Bc5 28. Ke1 Rde8 29. d3 g4 30. Ng1 h5 31. Rb2 f3 32.
+b6 axb6 33. Rxb6 Bxb6 34. Nxb6 h4 35. Kf2 Re6 36. Nc4 g3+ 37. hxg3 hxg3+
+38. Ke3 f2 39. Nh3 Nc2+ 40. Ke2 Rh6 0-1
+

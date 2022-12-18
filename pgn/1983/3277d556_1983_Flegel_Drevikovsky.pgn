@@ -1,0 +1,17 @@
+[Event "corr CSSR"]
+[Site "corr CSSR"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Flegel"]
+[Black "Drevikovsky"]
+[Result "0-1"]
+[ECO "C37"]
+[Opening "KGA"]
+[Variation "double Muzio gambit"]
+[HashCode "3277d556"]
+[Epoch "Rook"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. Bc4 g4 5. O-O gxf3 6. Qxf3 Qf6 7. e5 Qxe5
+8. Bxf7+ Kxf7 9. d4 Qxd4+ 10. Be3 Qf6 11. Bxf4 Ne7 12. Nc3 Qf5 13. g4 Rg8
+14. g5 Rg6 15. h4 Kg8 16. h5 Rg7 17. Rad1 d6 18. Ne4 Qg4+ 0-1
+

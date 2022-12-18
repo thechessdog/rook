@@ -1,0 +1,15 @@
+[Event "Omaha"]
+[Site "Omaha"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Hilburn"]
+[Black "Hudson"]
+[Result "1-0"]
+[ECO "D00"]
+[Opening "Blackmar gambit"]
+[HashCode "2d0dfdac"]
+[Epoch "Rook"]
+
+1. d4 d5 2. e4 dxe4 3. Nc3 Nf6 4. f3 exf3 5. Qxf3 Qxd4 6. Be3 Qg4 7. Qf2
+Nc6 8. Be2 Qg6 9. O-O-O Nb4 10. Bc4 Ng4 11. Bxf7+ 1-0
+

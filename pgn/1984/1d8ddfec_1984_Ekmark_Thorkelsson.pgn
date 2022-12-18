@@ -1,0 +1,18 @@
+[Event "corr EU/M/GT"]
+[Site "corr EU/M/GT"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Ekmark, R."]
+[Black "Thorkelsson, S."]
+[Result "1/2-1/2"]
+[ECO "C01"]
+[Opening "French"]
+[Variation "exchange variation"]
+[HashCode "1d8ddfec"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. Bd3 Bd6 5. Nf3 Nf6 6. O-O O-O 7. Bg5 Be6
+8. Nc3 Nbd7 9. Nb5 Be7 10. Bf4 Ne8 11. Qd2 a6 12. Nc3 Rc8 13. Ng5 Bxg5 14.
+Bxg5 Nef6 15. f4 Nb6 16. Qf2 h6 17. Bh4 Bd7 18. Ne2 Nc4 19. Bxc4 dxc4 20.
+c3 Bf5 21. h3 Bd3 22. Qf3 1/2-1/2
+

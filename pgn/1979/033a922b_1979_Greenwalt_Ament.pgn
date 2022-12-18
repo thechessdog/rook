@@ -1,0 +1,18 @@
+[Event "Boulder"]
+[Site "Boulder"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Greenwalt"]
+[Black "Ament, P."]
+[Result "1-0"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra gambit"]
+[HashCode "033a922b"]
+[Epoch "Rook"]
+
+1. e4 c5 2. d4 cxd4 3. c3 dxc3 4. Nxc3 e6 5. Bf4 Bb4 6. Bd6 Bxc3+ 7. bxc3
+Ne7 8. Nf3 O-O 9. Bd3 Re8 10. h4 Qb6 11. e5 Nf5 12. Rb1 Qa5 13. Bb4 Qxa2
+14. g4 Nh6 15. g5 Ng4 16. O-O Qd5 17. c4 Nxf2 18. Rxf2 Qc6 19. Nd4 Qc7 20.
+Bxh7+ 1-0
+

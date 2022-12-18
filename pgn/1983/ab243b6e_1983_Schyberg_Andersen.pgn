@@ -1,0 +1,21 @@
+[Event "Roskilde"]
+[Site "Roskilde"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Schyberg, Brian"]
+[Black "Andersen, Stig"]
+[Result "0-1"]
+[ECO "E88"]
+[Opening "King's Indian"]
+[Variation "Saemisch, orthodox, 7.d5 c6"]
+[HashCode "ab243b6e"]
+[Epoch "Rook"]
+[WhiteID "1405934"]
+[BlackID "1436899"]
+[WhiteCountry "DEN"]
+[BlackCountry "DEN"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 e5 7. d5 c6 8. Qd2 Ne8
+9. Bd3 cxd5 10. cxd5 f5 11. exf5 Bxf5 12. Nge2 Bxd3 13. Qxd3 Nd7 14. O-O Nef6
+15. Qb5 Qe7 16. Qxb7 Rfb8 17. Qc6 e4 18. f4 Ng4 19. Bd4 Bxd4+ 20. Nxd4 Nde5 21.
+Qa4 Qh4 22. h3 Qg3 23. hxg4 Nxg4 24. Rfb1 Qf2+ 25. Kh1 Ne3 0-1

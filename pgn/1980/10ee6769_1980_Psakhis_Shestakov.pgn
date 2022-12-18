@@ -1,0 +1,22 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Psakhis, Lev"]
+[Black "Shestakov, Sergey"]
+[Result "1-0"]
+[ECO "C05"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation"]
+[HashCode "10ee6769"]
+[Epoch "Rook"]
+[BlackID "4169484"]
+[BlackCountry "RUS"]
+[WhiteID "2800012"]
+[WhiteCountry "ISR"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. c3 b6 6. Nh3 c5 7. Bb5 a5 8. O-O Ba6
+9. a4 Qc8 10. c4 Nc6 11. cxd5 Nxd4 12. dxe6 fxe6 13. Bxa6 Qxa6 14. Nf3 Qc4 15.
+Nf4 O-O-O 16. Be3 Nxf3+ 17. Qxf3 Nxe5 18. Qa8+ Kc7 19. Qa7+ Kc6 20. b4 axb4 21.
+a5 Nd7 22. axb6 Bd6 23. Rfc1 Qe4 24. Ra6 Rb8 25. b7+ Kc7 26. Bxc5 Bxc5 27.
+Nxe6+ Qxe6 28. Rxe6 1-0

@@ -1,0 +1,21 @@
+[Event "corr ch11-DDR"]
+[Site "corr ch11-DDR"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Blachmann, H."]
+[Black "Hengst, H."]
+[Result "1-0"]
+[ECO "D38"]
+[Opening "QGD"]
+[Variation "Ragozin variation"]
+[HashCode "a901c233"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Bb4 5. Bg5 O-O 6. Rc1 b6 7. Bxf6 Qxf6
+8. cxd5 exd5 9. a3 Bxc3+ 10. Rxc3 c6 11. e3 Bg4 12. Be2 Nd7 13. O-O Rac8
+14. Qa4 Rc7 15. Rfc1 Rfc8 16. Qd1 Qd6 17. h3 Bh5 18. Qc2 Bg6 19. Bd3 Bxd3
+20. Qxd3 Nf6 21. Qa6 Ne4 22. Rxc6 Rxc6 23. Qxc8+ Rxc8 24. Rxc8+ Qf8 25.
+Rxf8+ Kxf8 26. Kf1 f6 27. Ke2 Ke7 28. Nd2 Nd6 29. Kd3 a6 30. e4 dxe4+ 31.
+Nxe4 Nb5 32. Nc3 Nc7 33. Kc4 Kd6 34. a4 f5 35. b4 g5 36. g4 fxg4 37. hxg4
+Ne6 38. Ne4+ Kc7 39. d5 Nf4 40. Nxg5 1-0
+

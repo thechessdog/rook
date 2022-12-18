@@ -1,0 +1,20 @@
+[Event "Wittlich"]
+[Site "Wittlich"]
+[Date "1980.01.01"]
+[Round "8"]
+[White "Weidemann, Joerg"]
+[Black "Negele, M."]
+[Result "1-0"]
+[ECO "C05"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation"]
+[HashCode "c577fe39"]
+[Epoch "Rook"]
+[WhiteID "4603389"]
+[WhiteCountry "GER"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Bd3 c5 6. c3 Nc6 7. Ndf3 f6 8. Ng5
+Ndxe5 9. dxe5 fxg5 10. Qh5+ Kd7 11. Bxg5 Qe8 12. Qe2 Kc7 13. Nf3 Bd7 14. O-O h6
+15. Bf4 Be7 16. c4 d4 17. Nd2 g5 18. Bg3 h5 19. h3 Qf7 20. Ne4 Rag8 21. Nf6 Rg7
+22. Be4 Be8 23. a3 h4 24. Bh2 Kc8 25. Ng4 Nd8 26. b4 Qf8 27. b5 Bh5 28. a4 Rf7
+29. a5 Qg7 30. a6 b6 31. Bf3 Qg6 32. Nf6 g4 33. hxg4 h3 34. gxh5 1-0

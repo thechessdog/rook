@@ -1,0 +1,17 @@
+[Event "Reggio Emilia8081"]
+[Site "Reggio Emilia"]
+[Date "1980.01.01"]
+[Round "3"]
+[White "Renman, Nils-Gustaf"]
+[Black "Bertok, Mario"]
+[Result "1/2-1/2"]
+[ECO "D27"]
+[Opening "QGA"]
+[Variation "classical, 6...a6"]
+[HashCode "a6264f50"]
+[Epoch "Rook"]
+[BlackCountry "HRV"]
+[WhiteCountry "SWE"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 dxc4 4. e3 e6 5. Bxc4 c5 6. O-O a6 7. Nc3 b5 8. Bd3
+Bb7 9. Qe2 Nbd7 10. Rd1 Qb8 11. e4 cxd4 12. Nxd4 Bd6 1/2-1/2

@@ -1,0 +1,16 @@
+[Event "corr Belgium"]
+[Site "corr Belgium"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Eeckhout"]
+[Black "Collignon"]
+[Result "1-0"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "Damiano variation"]
+[HashCode "846a54be"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 Nxe4 4. Qe2 Qe7 5. Qxe4 d6 6. d4 Nc6 7. f4 f6
+8. d5 Nd8 9. Bb5+ 1-0
+

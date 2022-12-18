@@ -1,0 +1,19 @@
+[Event "Quilmes ch-ARG"]
+[Site "Quilmes ch-ARG"]
+[Date "1980.01.01"]
+[Round "9"]
+[White "Borghi, Humberto"]
+[Black "Hase, Juan Carlos"]
+[Result "1/2-1/2"]
+[ECO "C68"]
+[Opening "Ruy Lopez"]
+[Variation "exchange, Alekhine variation"]
+[HashCode "abb69b94"]
+[Epoch "Rook"]
+[BlackID "100722"]
+[BlackCountry "ARG"]
+[WhiteID "101397"]
+[WhiteCountry "ARG"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. d4 exd4 6. Qxd4 Qxd4 7. Nxd4 Bd7
+8. Be3 O-O-O 9. Nd2 f6 10. O-O-O Ne7 11. f3 Ng6 1/2-1/2

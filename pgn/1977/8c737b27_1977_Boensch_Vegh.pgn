@@ -1,0 +1,19 @@
+[Event "Halle"]
+[Site "Halle"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Boensch, Uwe"]
+[Black "Vegh, Endre"]
+[Result "1-0"]
+[ECO "C47"]
+[Opening "Four knights"]
+[Variation "Belgrade gambit"]
+[HashCode "8c737b27"]
+[Epoch "Rook"]
+[BlackID "700568"]
+[BlackCountry "HUN"]
+[WhiteID "4611268"]
+[WhiteCountry "GER"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. d4 exd4 5. Nd5 Nxe4 6. Qe2 f5 7. Ng5 Ne7 8.
+Nxe4 fxe4 9. Qh5+ g6 10. Qe5 1-0

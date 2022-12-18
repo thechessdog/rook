@@ -1,0 +1,19 @@
+[Event "Region V"]
+[Site "Region V"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Lytle"]
+[Black "Guehl"]
+[Result "1-0"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, 6.Bd3"]
+[HashCode "0fae6512"]
+[Epoch "Rook"]
+
+1. d4 g6 2. e4 Bg7 3. Nc3 d6 4. f4 Nf6 5. Nf3 O-O 6. Bd3 Bg4 7. h3 Bxf3 8.
+Qxf3 Nc6 9. Be3 Nb4 10. Rd1 d5 11. e5 Ne8 12. O-O Nxd3 13. Rxd3 c6 14. f5
+h6 15. Qg3 Qc7 16. fxg6 f6 17. Qh4 fxe5 18. Rxf8+ Kxf8 19. Bxh6 Nf6 20. Rf3
+Rc8 21. Ne2 Bxh6 22. Qxh6+ Ke8 23. Qh8+ Kd7 24. Qg7 Rg8 25. Qf7 Qa5 26.
+Rxf6 1-0
+

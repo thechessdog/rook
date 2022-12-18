@@ -1,0 +1,17 @@
+[Event "Forli"]
+[Site "Forli"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Rombaldoni"]
+[Black "De Blasio"]
+[Result "0-1"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra gambit"]
+[HashCode "5db4b9d9"]
+[Epoch "Rook"]
+
+1. e4 c5 2. d4 cxd4 3. c3 dxc3 4. Nxc3 e6 5. Nf3 d6 6. Bc4 a6 7. O-O b5 8.
+Bb3 Ra7 9. Be3 Rd7 10. Nd4 Nf6 11. f4 Bb7 12. e5 dxe5 13. fxe5 Bc5 14. exf6
+Bxd4 15. Bxd4 Rxd4 16. Qh5 Rd2 17. Ne2 g6 18. Qe5 Qb6+ 0-1
+

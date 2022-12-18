@@ -1,0 +1,16 @@
+[Event "Dortmund"]
+[Site "Dortmund"]
+[Date "1976.05.01"]
+[Round "1"]
+[White "Balinas, Rosendo Carrean"]
+[Black "Ciric, Dragoljub M"]
+[Result "1/2-1/2"]
+[ECO "B15"]
+[Opening "Caro-Kann"]
+[Variation "Forgacs variation"]
+[HashCode "c936308c"]
+[Epoch "Rook"]
+[WhiteCountry "PHL"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ exf6 6. Bc4 Be7 7. Ne2 O-O
+8. O-O Nd7 9. Ng3 Nb6 10. Bb3 f5 11. c3 g6 1/2-1/2

@@ -1,0 +1,18 @@
+[Event "corr ch-CSSR"]
+[Site "corr ch-CSSR"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Stanicek"]
+[Black "Juricek"]
+[Result "1-0"]
+[ECO "C45"]
+[Opening "Scotch"]
+[Variation "Mieses variation"]
+[HashCode "5ce77cda"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nf6 5. Nxc6 bxc6 6. e5 Qe7 7. Qe2
+Nd5 8. Nd2 Nf4 9. Qe4 Ng6 10. f4 Bb7 11. Bd3 O-O-O 12. O-O f6 13. Nf3 Re8
+14. Re1 Qb4 15. Bd2 Qb6+ 16. Kh1 fxe5 17. f5 Ne7 18. Nxe5 Qc5 19. Nxd7 Kxd7
+20. Qe6+ Kd8 21. Bg5 1-0
+

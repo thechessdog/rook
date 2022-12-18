@@ -1,0 +1,25 @@
+[Event "Vammala"]
+[Site "Vammala"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Heinola"]
+[Black "Laiho"]
+[Result "0-1"]
+[ECO "A00"]
+[Opening "Polish (Sokolsky) opening"]
+[HashCode "a83162ba"]
+[Epoch "Rook"]
+
+1. b4 e5 2. a3 d5 3. e3 Nf6 4. c4 d4 5. Bb2 dxe3 6. dxe3 Qxd1+ 7. Kxd1 Ng4
+8. Ke1 f6 9. Nc3 c6 10. Be2 Na6 11. Ne4 Bf5 12. Ng3 Be6 13. e4 Nh6 14. f4
+Bd6 15. c5 Bc7 16. f5 Bb3 17. Nf3 O-O 18. Nd2 Bf7 19. Kf2 Rad8 20. Nc4 Rd7
+21. h3 Rfd8 22. Nf1 Kf8 23. Nfe3 Ng8 24. g4 Ne7 25. g5 Nc8 26. Bc3 Rd4 27.
+g6 hxg6 28. fxg6 Bxc4 29. Bxc4 Rxe4 30. h4 Ne7 31. h5 Nd5 32. h6 Rf4+ 33.
+Kg3 gxh6 34. Nxd5 cxd5 35. Bxa6 bxa6 36. Rxh6 Rc4 37. Bd2 e4+ 38. Bf4 Rc3+
+39. Kg4 Bxf4 40. Kxf4 Rf3+ 41. Kg4 Kg7 42. Rah1 f5+ 43. Kg5 Rg3+ 44. Kxf5
+Rf8+ 45. Ke5 Rg5+ 46. Kd4 Rf3 47. c6 Rd3+ 48. Kc5 Rc3+ 49. Kd6 d4 50. Kd7
+d3 51. c7 d2 52. c8=Q Rd5+ 53. Ke6 Rxc8 54. Kxd5 e3 55. Ke4 e2 56. Kf5 Rg8
+57. Rh7+ Kf8 58. Rxa7 e1=Q 59. Ra8+ Ke7 60. Rh7+ Kd6 61. Rxa6+ Kd5 62. Rd7+
+Kc4 63. Rc6+ Kb3 64. Rd3+ Kb2 65. Rcd6 Rf8+ 66. Kg5 Qg1+ 67. Kh6 Qh2+ 68.
+Kg5 Qf4+ 0-1
+

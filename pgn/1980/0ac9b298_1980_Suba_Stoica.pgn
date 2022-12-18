@@ -1,0 +1,20 @@
+[Event "Bucharest"]
+[Site "Bucharest"]
+[Date "1980.??.??"]
+[Round "11"]
+[White "Suba, Mihai"]
+[Black "Stoica, Valentin"]
+[Result "1/2-1/2"]
+[ECO "C50"]
+[Opening "Giuoco Pianissimo"]
+[Variation "Italian four knights variation"]
+[HashCode "0ac9b298"]
+[Epoch "Rook"]
+[WhiteID "1203363"]
+[BlackID "1200070"]
+[WhiteCountry "ESP"]
+[BlackCountry "ROU"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. d3 Nf6 5. Nc3 d6 6. Be3 Bb6 7. h3 Be6 8. Bb3
+h6 9. d4 exd4 10. Nxd4 Nxd4 11. Bxd4 O-O 12. O-O Re8 13. Re1 Bxd4 14. Qxd4 a5
+15. Rad1 Bxb3 16. axb3 Re6 1/2-1/2

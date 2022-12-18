@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Gotz"]
+[Black "Van der Kooij"]
+[Result "0-1"]
+[ECO "D09"]
+[Opening "QGD"]
+[Variation "Albin counter-gambit, 5.g3"]
+[HashCode "e28842e7"]
+[Epoch "Rook"]
+[BlackID "1011812"]
+[BlackCountry "NED"]
+
+1. d4 d5 2. c4 e5 3. dxe5 d4 4. Nf3 Nc6 5. g3 Be6 6. b3 f6 7. exf6 Bb4+ 8. Bd2
+Qxf6 9. Bxb4 Nxb4 10. Na3 O-O-O 11. Bg2 Bg4 12. O-O d3 13. h3 Bh5 14. e3 Ne7
+15. Nb5 a6 16. Na3 Nec6 17. g4 Bg6 18. Qd2 Nc2 19. Nxc2 dxc2 20. Qc1 Rd7 21.
+Nd2 Rhd8 22. Ne4 Bxe4 0-1

@@ -1,0 +1,22 @@
+[Event "corr FRG/K"]
+[Site "corr FRG/K"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Haufe"]
+[Black "Techmer"]
+[Result "0-1"]
+[ECO "A29"]
+[Opening "English"]
+[Variation "four knights, kingside fianchetto"]
+[HashCode "a43333be"]
+[Epoch "Rook"]
+
+1. c4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. g3 Bb4 5. Bg2 O-O 6. O-O e4 7. Ne1 Bxc3
+8. dxc3 h6 9. Nc2 Re8 10. Ne3 d6 11. f4 Ne7 12. h3 Nf5 13. Nxf5 Bxf5 14. g4
+Bd7 15. Qd4 Qe7 16. f5 c5 17. Qf2 e3 18. Qg3 Bc6 19. Bxc6 bxc6 20. Rf3 Ne4
+21. Qf4 Nd2 22. Bxd2 exd2 23. Rd1 Qxe2 24. Rxd2 Qe1+ 25. Rf1 Qh4 26. Kg2
+Rad8 27. Qf3 Qg5 28. Qf4 Qf6 29. Qf3 Qg5 30. Qf4 Qf6 31. Rf3 d5 32. cxd5
+Rxd5 33. Rxd5 cxd5 34. Re3 Rxe3 35. Qxe3 d4 36. cxd4 cxd4 37. Qd3 Qc6+ 38.
+Kg3 Qc7+ 39. Kf3 Qb7+ 40. Kf4 Qxb2 41. a3 f6 42. Ke4 Kh7 43. Kf3 Qc3 44.
+Ke4 h5 45. gxh5 Qxd3+ 46. Kxd3 Kh6 47. Kxd4 Kg5 48. Ke4 a6 49. a4 a5 0-1
+

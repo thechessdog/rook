@@ -1,0 +1,17 @@
+[Event "corr SWE/K"]
+[Site "corr SWE/K"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Mineur"]
+[Black "Eriksson"]
+[Result "1-0"]
+[ECO "B89"]
+[Opening "Sicilian"]
+[Variation "Sozin, 7.Be3"]
+[HashCode "37b6713c"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bc4 e6 7. Be3 a6 8.
+Bb3 Qc7 9. f4 Be7 10. Qf3 Nxd4 11. Bxd4 O-O 12. f5 b5 13. a3 exf5 14. exf5
+Bb7 15. Qh3 Bc6 16. O-O-O a5 17. Rhg1 b4 18. g4 1-0
+

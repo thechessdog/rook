@@ -1,0 +1,22 @@
+[Event "Frunze"]
+[Site "Frunze"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Savon, Vladimir"]
+[Black "Beliavsky, Alexander G"]
+[Result "0-1"]
+[ECO "C90"]
+[Opening "Ruy Lopez"]
+[Variation "closed (with ...d6)"]
+[HashCode "4de87bc8"]
+[Epoch "Rook"]
+[WhiteID "14138786"]
+[BlackID "14602377"]
+[WhiteCountry "UKR"]
+[BlackCountry "SLO"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. a4 b4 10. d4 bxc3 11. bxc3 Bg4 12. d5 Na5 13. Ba2 Nd7 14. Ba3 Bg5 15. h3
+Bxf3 16. Qxf3 g6 17. Qd1 Nb7 18. Nd2 Nbc5 19. Nf3 Bh6 20. Bc4 f5 21. exf5 gxf5
+22. Bf1 Qf6 23. a5 Kh8 24. Rb1 Rg8 25. Rb4 Rg7 26. Qc2 Rag8 27. Rc4 e4 28. Nd4
+Nd3 29. Bxd3 0-1

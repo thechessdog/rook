@@ -1,0 +1,17 @@
+[Event "Columbus,OH"]
+[Site "Columbus,OH"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Meyer, R."]
+[Black "Archambault, Phil"]
+[Result "0-1"]
+[ECO "C15"]
+[Opening "French"]
+[Variation "Winawer (Nimzovich) variation"]
+[HashCode "aadbbab9"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. Bd3 dxe4 5. Bxe4 Nf6 6. Bg5 c5 7. Nf3 Bxc3+
+8. bxc3 Qa5 9. Bxf6 Qxc3+ 10. Nd2 gxf6 11. O-O cxd4 12. Nb3 e5 13. Qh5 Nc6
+14. Qh6 Ke7 15. Qg7 Be6 16. Bxh7 Nb4 17. Be4 Rag8 0-1
+

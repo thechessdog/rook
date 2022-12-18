@@ -1,0 +1,20 @@
+[Event "corr SWE/K tt"]
+[Site "corr SWE/K tt"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Christiansson, Beng"]
+[Black "Lundin, Anders"]
+[Result "0-1"]
+[ECO "D94"]
+[Opening "Gruenfeld"]
+[Variation "5.e3"]
+[HashCode "4afd894a"]
+[Epoch "Rook"]
+[BlackID "1701096"]
+[BlackCountry "SWE"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. e3 O-O 6. Be2 c5 7. dxc5 Qa5 8. cxd5
+Nxd5 9. Qxd5 Bxc3+ 10. bxc3 Qxc3+ 11. Qd2 Qxa1 12. Nd4 Nc6 13. O-O Rd8 14. Ba3
+Nxd4 15. Kh1 Qxf1+ 16. Bxf1 Nc6 17. Qc1 Be6 18. Bb2 Bxa2 19. h4 a5 20. Qc3 f6
+21. Bc4+ Bxc4 22. Qxc4+ Kg7 23. Qe6 a4 24. h5 a3 25. h6+ Kxh6 26. Bc3 a2 27. g4
+a1=Q+ 28. Bxa1 Rxa1+ 29. Kg2 Kg7 30. Qb3 Rd7 31. Qb2 Rad1 0-1

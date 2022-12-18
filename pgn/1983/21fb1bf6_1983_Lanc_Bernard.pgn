@@ -1,0 +1,23 @@
+[Event "Poznan"]
+[Site "Poznan"]
+[Date "1983.01.01"]
+[Round "3"]
+[White "Lanc, Alois"]
+[Black "Bernard, Ryszard"]
+[Result "0-1"]
+[ECO "B23"]
+[Opening "Sicilian"]
+[Variation "closed"]
+[HashCode "21fb1bf6"]
+[Epoch "Rook"]
+[WhiteID "14900041"]
+[WhiteCountry "SVK"]
+[BlackID "1100688"]
+[BlackCountry "POL"]
+
+1. e4 c5 2. Nc3 d6 3. Nge2 a6 4. g3 Nc6 5. Bg2 e6 6. d4 cxd4 7. Nxd4 Bd7 8. O-O
+Nf6 9. Nde2 Be7 10. h3 b5 11. Be3 Rc8 12. g4 h6 13. a3 g5 14. f4 gxf4 15. Nxf4
+Ne5 16. Nd3 Nc4 17. Bf2 Nxb2 18. Nxb2 Rxc3 19. Bd4 Rg3 20. Bxf6 Bxf6 21. Qxd6
+Rxg2+ 22. Kxg2 Bxb2 23. Rad1 Qc8 24. Rf2 Qc6 25. c4 Qxd6 26. Rxd6 Be5 27. Rxa6
+bxc4 28. Ra5 Bd4 29. Rd2 Bc3 30. Ra8+ Ke7 31. Rxh8 Bxd2 32. Kf3 c3 33. Ke2 Bb5+
+34. Kd1 Ba4+ 35. Ke2 Bf4 0-1

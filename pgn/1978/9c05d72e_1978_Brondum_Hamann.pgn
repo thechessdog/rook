@@ -1,0 +1,22 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Brondum, Eric"]
+[Black "Hamann, Svend"]
+[Result "0-1"]
+[ECO "E30"]
+[Opening "Nimzo-Indian"]
+[Variation "Leningrad variation"]
+[HashCode "9c05d72e"]
+[Epoch "Rook"]
+[WhiteID "1400894"]
+[BlackID "1400193"]
+[WhiteCountry "DEN"]
+[BlackCountry "DEN"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Bg5 c5 5. d5 h6 6. Bh4 O-O 7. d6 g5 8. Bg3 Ne4
+9. Qd3 f5 10. f3 Bxc3+ 11. bxc3 Qf6 12. Rc1 Nc6 13. fxe4 fxe4 14. Qxe4 Qxf1+
+15. Kd2 Qf5 16. Qxf5 exf5 17. h4 g4 18. Bf4 Kh7 19. e3 b6 20. Ne2 Ba6 21. Rce1
+Bxc4 22. Nc1 Rae8 23. Kc2 Bd5 24. Rhg1 Be4+ 25. Kb2 Na5 26. Ka1 Nc4 27. Re2 Re6
+28. Rd1 Rfe8 0-1

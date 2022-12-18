@@ -1,0 +1,17 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Romstein"]
+[Black "Mihaljcisin, Mihajlo"]
+[Result "1-0"]
+[ECO "B33"]
+[Opening "Sicilian"]
+[Variation "Pelikan (Lasker/Sveshnikov) variation"]
+[HashCode "7f0511d9"]
+[Epoch "Rook"]
+[BlackCountry "SRB"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Nd5 Nxd5 8.
+exd5 Ne7 9. c3 f5 10. Bg5 a6 11. Qa4 Kf7 12. Qa3 Qd7 13. Nxd6+ Kg6 14. h4 Nxd5
+15. Nc4 Qc7 16. Qa5 h5 17. Qxd5 Bc5 18. Nxe5+ Kh7 19. O-O-O 1-0

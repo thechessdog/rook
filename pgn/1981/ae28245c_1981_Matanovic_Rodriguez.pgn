@@ -1,0 +1,19 @@
+[Event "Rome"]
+[Site "Rome"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Matanovic, Aleksandar"]
+[Black "Leon Rodriguez, Orlando"]
+[Result "1/2-1/2"]
+[ECO "B83"]
+[Opening "Sicilian"]
+[Variation "Scheveningen, 6.Be2"]
+[HashCode "ae28245c"]
+[Epoch "Rook"]
+[WhiteID "900230"]
+[BlackID "2210665"]
+[WhiteCountry "SRB"]
+[BlackCountry "ESP"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be2 Be7 7. O-O O-O 8. f4
+Nc6 9. Kh1 e5 10. Nb3 a5 11. a4 Nb4 1/2-1/2

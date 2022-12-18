@@ -1,0 +1,18 @@
+[Event "corr Netherlands"]
+[Site "corr Netherlands"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Michaud"]
+[Black "Van der Kooij"]
+[Result "1/2-1/2"]
+[ECO "E55"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Gligoric system, Bronstein variation"]
+[HashCode "b1b2883a"]
+[Epoch "Rook"]
+[BlackID "1011812"]
+[BlackCountry "NED"]
+
+1. c4 Nf6 2. d4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 c5 7. O-O dxc4 8. Bxc4
+Nbd7 9. a3 cxd4 10. axb4 dxc3 11. bxc3 Qc7 12. Qb3 Nb6 13. Be2 e5 14. Bb2 Be6
+15. Qc2 Bc4 16. Bxc4 Nxc4 17. Rfd1 Rad8 18. Nd2 Nxd2 19. Rxd2 Rxd2 1/2-1/2

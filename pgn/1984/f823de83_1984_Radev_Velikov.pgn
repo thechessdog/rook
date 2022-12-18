@@ -1,0 +1,23 @@
+[Event "Sofia ch-BUL"]
+[Site "Sofia ch-BUL"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Radev, Nikolai"]
+[Black "Velikov, Petar"]
+[Result "1-0"]
+[ECO "B42"]
+[Opening "Sicilian"]
+[Variation "Kan, 5.Bd3"]
+[HashCode "f823de83"]
+[Epoch "Rook"]
+[BlackID "2900149"]
+[BlackCountry "FID"]
+[WhiteCountry "BGR"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Nf6 6. O-O d6 7. c4 Nbd7 8. Nc3
+b6 9. f4 Bb7 10. Qe2 Qc7 11. Kh1 Be7 12. Bd2 O-O 13. Rae1 Rad8 14. Nf3 g6 15.
+b3 Rfe8 16. Bb1 Bf8 17. Qf2 Qc5 18. Be3 Qa5 19. Bd2 Qh5 20. h3 Bg7 21. Qg3 Qc5
+22. Re2 b5 23. cxb5 axb5 24. Qe1 Nh5 25. Nd1 Qc6 26. g4 Nhf6 27. Kh2 Nc5 28.
+Nf2 e5 29. fxe5 dxe5 30. Bb4 Ne6 31. Rc2 Qa6 32. g5 Nh5 33. Ng4 Nef4 34. Rc5
+Ne6 35. Rxe5 Bxe5+ 36. Nfxe5 Nxg5 37. Nh6+ Kg7 38. Nexf7 Bxe4 39. Bc3+ Nf6 40.
+Rxf6 1-0

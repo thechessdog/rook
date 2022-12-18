@@ -1,0 +1,20 @@
+[Event "Sweden"]
+[Site "Sweden"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Hansson, Dan"]
+[Black "Schussler, Harry"]
+[Result "0-1"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical system, 5.Be2"]
+[HashCode "a51f7974"]
+[Epoch "Rook"]
+[BlackID "1700081"]
+[BlackCountry "SWE"]
+[WhiteCountry "ISL"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. Be2 Nf6 5. Nf3 O-O 6. O-O c6 7. a4 Nbd7 8. e5
+Ne8 9. Bf4 dxe5 10. dxe5 Nc7 11. Qc1 Ne6 12. Bh6 Qb6 13. a5 Bxh6 14. Qxh6 Qxb2
+15. Ne4 Re8 16. Rab1 Qxc2 17. Neg5 Ndf8 18. Rb4 Nxg5 19. Nxg5 Qxe2 20. Rh4 Qxe5
+21. Nxh7 Qg7 0-1

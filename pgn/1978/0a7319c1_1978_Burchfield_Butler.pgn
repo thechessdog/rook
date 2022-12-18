@@ -1,0 +1,19 @@
+[Event "Ohio"]
+[Site "Ohio"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Burchfield"]
+[Black "Butler"]
+[Result "0-1"]
+[ECO "C68"]
+[Opening "Ruy Lopez"]
+[Variation "exchange variation"]
+[HashCode "0a7319c1"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 bxc6 5. O-O d6 6. c3 g6 7. d4 f6 8.
+Qd3 Bg7 9. Nh4 Nh6 10. h3 Nf7 11. c4 O-O 12. d5 c5 13. Nc3 f5 14. Nf3 f4
+15. a3 g5 16. Nh2 Qf6 17. Ng4 Qg6 18. f3 h5 19. Nh2 Nh6 20. Kf2 g4 21. hxg4
+hxg4 22. fxg4 Nxg4+ 23. Nxg4 Bxg4 24. Ke1 Qh5 25. Kd2 Qh2 26. Rf2 f3 27.
+Qf1 Qf4+ 28. Kc2 fxg2 29. Bxf4 gxf1=Q 30. Raxf1 Rxf4 31. Rxf4 exf4 0-1
+

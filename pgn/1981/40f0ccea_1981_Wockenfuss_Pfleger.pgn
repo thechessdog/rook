@@ -1,0 +1,25 @@
+[Event "Bundesliga 8081"]
+[Site "Duitsland tt"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Wockenfuss, Klaus"]
+[Black "Pfleger, Helmut, Dr."]
+[Result "1-0"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, 6.Bd3"]
+[HashCode "40f0ccea"]
+[Epoch "Rook"]
+[WhiteID "4600746"]
+[WhiteCountry "GER"]
+[BlackID "4600100"]
+[BlackCountry "GER"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 O-O 6. Bd3 Nbd7 7. e5 Ne8 8. Qe2
+c5 9. d5 Nb6 10. e6 fxe6 11. dxe6 d5 12. f5 c4 13. fxg6 cxd3 14. gxh7+ Kh8 15.
+cxd3 Rxf3 16. Qxf3 Bxe6 17. O-O Nf6 18. Bf4 Nbd7 19. Rae1 Nf8 20. Be5 Qd7 21.
+Qe3 Bf7 22. Ne2 a6 23. Nd4 Bg6 24. Rc1 Rc8 25. Rxc8 Qxc8 26. Rc1 Qe8 27. b3
+Bxh7 28. Qh3 N8d7 29. Rc7 Qg8 30. Nf3 e6 31. Bxf6 Nxf6 32. Ne5 Qe8 33. Rc8 Qxc8
+34. Ng6+ Kg8 35. Ne7+ Kf7 36. Nxc8 Bf8 37. d4 Bb4 38. Nb6 Bf5 39. Qe3 Ne4 40.
+Nd7 Bd2 41. Qf3 Bc3 42. Qe3 Bd2 43. Qe2 Ke7 44. Nc5 Bc3 45. Nxe4 Bxe4 46. Qe3
+Bb2 47. h4 e5 48. Qg5+ Kd7 49. dxe5 Bd4+ 50. Kh2 Bc5 1-0

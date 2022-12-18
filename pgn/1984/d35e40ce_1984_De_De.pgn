@@ -1,0 +1,17 @@
+[Event "corr NBC"]
+[Site "corr NBC"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "De Ridder"]
+[Black "De Boer, Gert-Jan"]
+[Result "1-0"]
+[ECO "B13"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack"]
+[HashCode "d35e40ce"]
+[Epoch "Rook"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 dxc4 6. Bxc4 e6 7. Nf3 Be7 8.
+O-O O-O 9. Bf4 a6 10. d5 b5 11. Bb3 b4 12. d6 bxc3 13. dxe7 Qxe7 14. Bd6 Qd7
+15. Bxf8 cxb2 16. Rb1 Kxf8 17. Rxb2 Nc6 18. Ba4 Qxd1 19. Rxd1 Na5 20. Rc1 Bb7
+21. Rc5 Rc8 22. Rxc8+ Bxc8 23. Rb8 1-0

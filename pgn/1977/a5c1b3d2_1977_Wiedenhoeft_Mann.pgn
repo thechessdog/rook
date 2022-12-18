@@ -1,0 +1,18 @@
+[Event "corr DDR-cup4"]
+[Site "corr DDR-cup4"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Wiedenhoeft, L."]
+[Black "Mann, G."]
+[Result "0-1"]
+[ECO "B66"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...a6"]
+[HashCode "a5c1b3d2"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 e6 7. Qd2 a6 8.
+O-O-O h6 9. Bf4 Bd7 10. Nxc6 Bxc6 11. f3 d5 12. Qe1 Be7 13. exd5 exd5 14.
+Ne2 O-O 15. Nd4 Bd6 16. Qd2 Re8 17. g4 Bxf4 18. Qxf4 Qe7 19. Nf5 Qe5 20.
+Bd3 Qxf4+ 0-1
+

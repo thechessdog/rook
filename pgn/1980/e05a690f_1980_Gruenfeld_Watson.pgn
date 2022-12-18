@@ -1,0 +1,24 @@
+[Event "Gausdal"]
+[Site "Gausdal"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Gruenfeld, Yehuda"]
+[Black "Watson, John"]
+[Result "1-0"]
+[ECO "C05"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation"]
+[HashCode "e05a690f"]
+[Epoch "Rook"]
+[BlackID "2000768"]
+[WhiteID "2800020"]
+[WhiteCountry "ISR"]
+[BlackCountry "USA"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. c3 c5 6. Bd3 Nc6 7. Ne2 Qb6 8. Nf3
+cxd4 9. cxd4 f6 10. exf6 Nxf6 11. O-O Bd6 12. Nc3 O-O 13. Be3 Bd7 14. a3 Qd8
+15. b4 e5 16. Nxd5 Nxd5 17. Bc4 Be6 18. Ng5 exd4 19. Qh5 Bf5 20. Bxd5+ Kh8 21.
+Nf7+ Rxf7 22. Qxf7 dxe3 23. Bxc6 Bd3 24. Bxb7 Rb8 25. fxe3 Qb6 26. Rf3 Bg6 27.
+Qd7 Be8 28. Qe6 Bxh2+ 29. Kxh2 Qxe6 30. Rf8+ Qg8 31. Rxg8+ Kxg8 32. Bd5+ Bf7
+33. Bxf7+ Kxf7 34. Rc1 Rb7 35. Rc6 Ke7 36. Ra6 Kd7 37. e4 Kc8 38. Kg3 Rf7 39.
+e5 Kb7 40. e6 Re7 41. b5 Rc7 42. Kf4 Rc4+ 43. Ke5 Rc2 44. e7 1-0

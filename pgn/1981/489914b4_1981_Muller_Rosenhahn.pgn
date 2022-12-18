@@ -1,0 +1,23 @@
+[Event "corr DDR/K"]
+[Site "corr DDR/K"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Muller, Hans P"]
+[Black "Rosenhahn"]
+[Result "1-0"]
+[ECO "C64"]
+[Opening "Ruy Lopez"]
+[Variation "classical defence, 4.c3"]
+[HashCode "489914b4"]
+[Epoch "Rook"]
+[WhiteID "3223167"]
+[WhiteCountry "AUS"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. c3 Nf6 5. d4 exd4 6. e5 Ne4 7. Qe2 d5 8. exd6
+O-O 9. dxc7 Qd5 10. O-O Bg4 11. Nbd2 Ng5 12. Qc4 Nxf3+ 13. Nxf3 Bxf3 14. gxf3
+Qxc4 15. Bxc4 Rac8 16. Bf4 h6 17. Rfe1 g5 18. Bg3 dxc3 19. bxc3 Bb6 20. Rad1
+Na5 21. Bb5 Bxc7 22. Bd7 Bxg3 23. Bxc8 Bxh2+ 24. Kxh2 Rxc8 25. Rd3 Kg7 26. Re7
+Kf6 27. Rdd7 Rxc3 28. Rxf7+ Kg6 29. Rg7+ Kf6 30. Rh7 Ke6 31. Kg3 h5 32. Rc7 h4+
+33. Kg4 Ra3 34. Kxg5 Rxa2 35. f4 Rxf2 36. Rcd7 Nc6 37. Rxb7 Rg2+ 38. Kxh4 Kf5
+39. Rhf7+ Ke4 40. Rbc7 Nd4 41. Rxa7 Nf3+ 42. Kh5 Rg8 43. Rae7+ Kd5 44. Kh6 Kd6
+45. Rg7 Rf8 46. Ref7 Rxf7 47. Rxf7 Ke6 48. Kg7 Nd4 49. Rf6+ Ke7 50. f5 1-0

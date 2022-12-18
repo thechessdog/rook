@@ -1,0 +1,21 @@
+[Event "corr DDR/H"]
+[Site "corr DDR/H"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Kuhne, KD."]
+[Black "Heidemann"]
+[Result "1-0"]
+[ECO "A29"]
+[Opening "English"]
+[Variation "four knights, kingside fianchetto"]
+[HashCode "7463e068"]
+[Epoch "Rook"]
+
+1. c4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. g3 Be7 5. Bg2 d6 6. d4 exd4 7. Nxd4 Ne5
+8. b3 c6 9. O-O h5 10. f4 Ng6 11. h3 Bd7 12. e4 Qc8 13. Kh2 d5 14. exd5
+cxd5 15. Nxd5 Nxd5 16. cxd5 Qc3 17. Rb1 h4 18. g4 Kf8 19. Rf3 Qc7 20. Nf5
+Bd6 21. Nxd6 Qxd6 22. Qd4 f6 23. Bd2 Kf7 24. Bb4 Qa6 25. Rc1 Qxa2 26. Rc7
+Rhd8 27. Qe4 Qa6 28. Qe6+ Qxe6 29. dxe6+ Kxe6 30. Re3+ Ne5 31. fxe5 fxe5
+32. Bc3 Bc6 33. Rxe5+ Kd6 34. Rxg7 Rac8 35. Rg6+ Kc7 36. Ba5+ Kb8 37. Bxd8
+Rxd8 38. Bxc6 bxc6 39. Re3 1-0
+

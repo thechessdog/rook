@@ -1,0 +1,18 @@
+[Event "Belfort"]
+[Site "Belfort"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Herb"]
+[Black "Manauck"]
+[Result "1-0"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical system, 5.Be2"]
+[HashCode "778d4b36"]
+[Epoch "Rook"]
+
+1. e4 g6 2. d4 Bg7 3. Nf3 d6 4. Be2 Nf6 5. Nc3 O-O 6. O-O c6 7. a4 Qc7 8.
+a5 e5 9. dxe5 dxe5 10. Bc4 Nh5 11. Be3 Bg4 12. h3 Rd8 13. hxg4 Rxd1 14.
+Rfxd1 Nf4 15. Ng5 Bf6 16. Nxf7 g5 17. g3 Ng6 18. Bb6 Qe7 19. Bd8 Qc5 20.
+Bxf6 1-0
+

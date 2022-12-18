@@ -1,0 +1,19 @@
+[Event "Amsterdam"]
+[Site "Amsterdam"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Mark V Experimental"]
+[Black "Groenendijk"]
+[Result "1-0"]
+[ECO "E20"]
+[Opening "Nimzo-Indian"]
+[Variation "Kmoch variation"]
+[HashCode "b365b2bd"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. f3 O-O 5. e4 c5 6. Be3 cxd4 7. Bxd4 Nc6 8.
+e5 Ne8 9. a3 Bxc3+ 10. Bxc3 Qc7 11. f4 b6 12. Bd3 Bb7 13. Ne2 d6 14. exd6
+Nxd6 15. O-O Rfd8 16. Qc2 h6 17. Rad1 Ne7 18. b4 Nxc4 19. Be5 Qc6 20. Nd4
+Rxd4 21. Bxd4 Nxa3 22. Qb2 f6 23. Rc1 Qd5 24. Rc7 Bc6 25. Rxe7 Rd8 26. Bxf6
+Qxd3 27. Rxg7+ Kf8 28. Bxd8 Qe3+ 29. Kh1 Qd3 30. Qf6+ Ke8 31. Qe7# 1-0
+

@@ -1,0 +1,18 @@
+[Event "Luzern olm"]
+[Site "Luzern olm"]
+[Date "1982.10.01"]
+[Round "1"]
+[White "Harris, D."]
+[Black "Jarecki, John"]
+[Result "1-0"]
+[ECO "D35"]
+[Opening "QGD"]
+[Variation "Harrwitz attack"]
+[HashCode "20a96799"]
+[Epoch "Rook"]
+[BlackID "2700026"]
+[BlackCountry "IVB"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bf4 Be7 5. e3 O-O 6. Nf3 b6 7. cxd5 exd5 8. Be2
+Bf5 9. O-O Nbd7 10. Ne5 Re8 11. Nc6 Qc8 12. Nb5 Qb7 13. Rc1 Bf8 14. Nxc7 Rec8
+15. Ba6 1-0

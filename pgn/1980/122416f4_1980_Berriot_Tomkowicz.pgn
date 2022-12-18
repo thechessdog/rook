@@ -1,0 +1,17 @@
+[Event "corr Wcup3"]
+[Site "corr Wcup3"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Berriot"]
+[Black "Tomkowicz"]
+[Result "0-1"]
+[ECO "E14"]
+[Opening "Queen's Indian"]
+[Variation "4.e3"]
+[HashCode "122416f4"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. e3 Bb7 5. Bd3 d5 6. O-O Nbd7 7. Nc3 Bd6 8.
+Qe2 O-O 9. cxd5 exd5 10. Ba6 Bxa6 11. Qxa6 c6 12. Bd2 Qe7 13. Rac1 Rac8 14.
+Qxa7 b5 15. Ne5 Rc7 16. Qa5 Nb8 17. Nb1 Ne4 18. Nxc6 Rxc6 19. Qxb5 Nxd2 0-1
+

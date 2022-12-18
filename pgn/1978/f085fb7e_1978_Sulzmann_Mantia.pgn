@@ -1,0 +1,17 @@
+[Event "Columbus,OH"]
+[Site "Columbus,OH"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Sulzmann, Rich"]
+[Black "Mantia, Anthony"]
+[Result "0-1"]
+[ECO "C01"]
+[Opening "French"]
+[Variation "exchange variation"]
+[HashCode "f085fb7e"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. c4 Nf6 5. Nc3 Be6 6. Nf3 dxc4 7. Qa4+ Qd7
+8. Qxd7+ Nbxd7 9. Bf4 c6 10. a3 h6 11. Nd2 Nb6 12. Nce4 Nxe4 13. Nxe4 Rd8
+14. Rd1 Nd5 15. Bg3 f5 16. Nc5 Bxc5 17. dxc5 f4 18. Bh4 g5 0-1
+

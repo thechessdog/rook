@@ -1,0 +1,17 @@
+[Event "corr tt"]
+[Site "corr tt"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Haynes"]
+[Black "Sarosy"]
+[Result "1-0"]
+[ECO "C52"]
+[Opening "Evans gambit"]
+[Variation "Tartakower attack"]
+[HashCode "436890a8"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 Bxb4 5. c3 Ba5 6. d4 d6 7. Qb3 Qd7 8.
+dxe5 dxe5 9. Ba3 Bb6 10. Nbd2 Na5 11. Qc2 Nxc4 12. Nxc4 f6 13. O-O Qe6 14.
+Qb3 Bd7 15. Rfd1 O-O-O 16. Rab1 Nh6 17. Rd6 cxd6 18. Bxd6 Qf7 19. Qxb6 1-0
+

@@ -1,0 +1,24 @@
+[Event "corr SWE/K tt"]
+[Site "corr SWE/K tt"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Kirppo, Ronny"]
+[Black "Sundqvist, Hugo"]
+[Result "0-1"]
+[ECO "E01"]
+[Opening "Catalan"]
+[Variation "closed"]
+[HashCode "bdfa1a27"]
+[Epoch "Rook"]
+[WhiteID "1724681"]
+[WhiteCountry "SWE"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Bg2 c6 5. Nf3 Nbd7 6. O-O Be7 7. Nbd2 O-O 8. b3
+b6 9. Bb2 Bb7 10. Rc1 Rc8 11. e3 Re8 12. Qe2 Qc7 13. Ne5 Qb8 14. Nxd7 Nxd7 15.
+e4 dxe4 16. Nxe4 f5 17. Nd2 Bf6 18. f4 c5 19. Bxb7 Qxb7 20. Nf3 cxd4 21. Bxd4
+Bxd4+ 22. Nxd4 Nc5 23. Rfd1 Ne4 24. Nf3 Rcd8 25. Rd3 Rxd3 26. Qxd3 Qe7 27. Rd1
+Qc5+ 28. Kg2 Qf2+ 29. Kh3 h6 30. Rf1 g5 31. fxg5 hxg5 32. Nxg5 Nxg5+ 33. Kh4
+Nf3+ 34. Qxf3 Qxh2+ 35. Kg5 Qd2+ 36. Qf4 Qd8+ 37. Kg6 Re7 38. Qe5 Qe8+ 39. Kg5
+Qd8 40. Kg6 Qd7 41. Qb8+ Re8 42. Qe5 Qh7+ 43. Kg5 Qh3 44. Qf4 Kf7 45. Qc7+ Re7
+46. Qf4 Qh8 47. g4 Qf6+ 48. Kh5 Qg6+ 49. Kh4 Re8 50. Rd1 Rg8 51. Rd7+ Ke8 52.
+Rd4 Qh7+ 0-1

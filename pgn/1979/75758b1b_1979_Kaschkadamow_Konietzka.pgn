@@ -1,0 +1,17 @@
+[Event "corr EU/M"]
+[Site "corr EU/M"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Kaschkadamow, N."]
+[Black "Konietzka, G."]
+[Result "1-0"]
+[ECO "B27"]
+[Opening "Sicilian"]
+[Variation "Hungarian variation"]
+[HashCode "75758b1b"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 g6 3. d4 Bg7 4. c3 Qa5 5. Nbd2 cxd4 6. Nc4 Qc7 7. cxd4 d6
+8. Bd2 Bg4 9. Bc3 Nf6 10. Ne3 Be6 11. Bd3 Ng4 12. O-O Nxe3 13. fxe3 d5 14.
+Ng5 Bh6 15. Nxe6 Bxe3+ 16. Kh1 fxe6 17. Rf8+ Kxf8 18. Qf3+ 1-0
+

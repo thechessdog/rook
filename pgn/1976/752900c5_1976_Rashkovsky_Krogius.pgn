@@ -1,0 +1,19 @@
+[Event "Sochi"]
+[Site "Sochi"]
+[Date "1976.01.01"]
+[Round "10"]
+[White "Rashkovsky, Nukhim N"]
+[Black "Krogius, Nikolai V"]
+[Result "1/2-1/2"]
+[ECO "E06"]
+[Opening "Catalan"]
+[Variation "closed, 5.Nf3"]
+[HashCode "752900c5"]
+[Epoch "Rook"]
+[WhiteID "4100603"]
+[WhiteCountry "RUS"]
+[BlackID "4100565"]
+[BlackCountry "RUS"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. g3 Be7 5. Bg2 O-O 6. O-O dxc4 7. Ne5 Nc6 8.
+Nxc6 bxc6 9. Qa4 Qxd4 10. Nd2 Rb8 11. Qxc6 c3 12. bxc3 1/2-1/2

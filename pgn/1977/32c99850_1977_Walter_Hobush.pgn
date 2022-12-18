@@ -1,0 +1,18 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Walter"]
+[Black "Hobush"]
+[Result "1-0"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra gambit"]
+[HashCode "32c99850"]
+[Epoch "Rook"]
+
+1. e4 c5 2. d4 cxd4 3. c3 dxc3 4. Nxc3 Nc6 5. Nf3 d6 6. Bc4 e6 7. O-O Nf6
+8. Qe2 Be7 9. Rd1 e5 10. h3 O-O 11. b3 a6 12. a4 Qc7 13. Ba3 Na5 14. Nd5
+Nxd5 15. Bxd5 Be6 16. Rac1 Qd7 17. Bxe6 Qxe6 18. Rc7 Rfc8 19. Rxe7 Qxe7 20.
+Bxd6 Qe6 21. Rd5 Nxb3 22. Nxe5 Rc1+ 23. Kh2 Rac8 24. Ba3 1-0
+

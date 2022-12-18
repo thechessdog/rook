@@ -1,0 +1,17 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "NN"]
+[Black "Diemer, Emil Josef"]
+[Result "0-1"]
+[ECO "C40"]
+[Opening "QP counter-gambit (elephant gambit)"]
+[HashCode "fe6ffbcb"]
+[Epoch "Rook"]
+[BlackCountry "DEU"]
+
+1. e4 e5 2. Nf3 d5 3. exd5 e4 4. Nd4 Bc5 5. c3 Bxd4 6. Qa4+ Nc6 7. dxc6 Bxf2+
+8. Kxf2 Qf6+ 9. Ke1 bxc6 10. Qxe4+ Kf8 11. Qf3 Bf5 12. d4 Re8+ 13. Be2 Qg6 14.
+Nd2 Bg4 15. Qf4 Rxe2+ 16. Kf1 Re6 17. Nf3 Qd3+ 18. Kf2 Bxf3 19. gxf3 Qe2+ 20.
+Kg3 Rg6+ 0-1

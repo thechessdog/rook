@@ -1,0 +1,16 @@
+[Event "Paris"]
+[Site "Paris"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Gedult, David"]
+[Black "Delage, Maurice"]
+[Result "1-0"]
+[ECO "B57"]
+[Opening "Sicilian"]
+[Variation "Sozin, Benko variation"]
+[HashCode "b64a9d0c"]
+[Epoch "Rook"]
+[WhiteCountry "POL"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bc4 Qb6 7. Be3 Qxb2 8.
+Ndb5 Qb4 9. Rb1 Qa5 10. O-O a6 11. Bb6 Qxb6 12. Nxd6+ exd6 13. Rxb6 1-0

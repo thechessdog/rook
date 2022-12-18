@@ -1,0 +1,19 @@
+[Event "Yurmala"]
+[Site "Yurmala"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Garcia, Gildardo"]
+[Black "Dizdar, Goran"]
+[Result "1/2-1/2"]
+[ECO "E59"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line"]
+[HashCode "2601a92c"]
+[Epoch "Rook"]
+[WhiteID "4400020"]
+[WhiteCountry "COL"]
+[BlackID "14500124"]
+[BlackCountry "CRO"]
+
+1. d4 e6 2. c4 Nf6 3. Nf3 d5 4. Nc3 Bb4 5. e3 O-O 6. Bd3 c5 7. O-O dxc4 8. Bxc4
+Nc6 9. a3 Bxc3 10. bxc3 Qc7 11. Bb5 b6 12. Re1 1/2-1/2

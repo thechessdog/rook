@@ -1,0 +1,18 @@
+[Event "BL2-N 8081"]
+[Site "BL2-N 8081"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Plesse, Hans Joachim"]
+[Black "Neumann, Joachim"]
+[Result "1/2-1/2"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "6b65d9a2"]
+[Epoch "Rook"]
+[BlackID "4608259"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. d4 cxd4 5. cxd4 Nc6 6. Nf3 e5 7. Nc3 Bb4 8.
+Bd2 Bxc3 9. Bxc3 exd4 10. Nxd4 Nge7 11. Nxc6 Qxc6 12. Qd4 Bf5 13. Rd1 f6 14.
+Qc4 Be6 15. Qxc6+ Nxc6 16. b3 1/2-1/2

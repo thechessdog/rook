@@ -1,0 +1,18 @@
+[Event "corr ch16-SU"]
+[Site "corr ch16-SU"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Kastarnov, S."]
+[Black "Volchok, A."]
+[Result "1/2-1/2"]
+[ECO "D58"]
+[Opening "QGD"]
+[Variation "Tartakower (Makagonov-Bondarevsky) system"]
+[HashCode "b6659ab3"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. Bg5 h6 6. Bh4 O-O 7. e3 b6 8.
+Rc1 Bb7 9. cxd5 Nxd5 10. Bxe7 Qxe7 11. Be2 Rc8 12. O-O Nd7 13. Nxd5 exd5
+14. Qb3 Nf6 15. Rc2 Ne4 16. Rfc1 c6 17. Bd3 Rc7 18. Qa4 Ng5 19. Be2 Ne4 20.
+Bd3 Ng5 1/2-1/2
+

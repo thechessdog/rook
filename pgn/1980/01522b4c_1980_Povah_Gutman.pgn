@@ -1,0 +1,25 @@
+[Event "London"]
+[Site "London"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Povah, Nigel E"]
+[Black "Gutman, Lev"]
+[Result "0-1"]
+[ECO "B82"]
+[Opening "Sicilian"]
+[Variation "Scheveningen, Tal variation"]
+[HashCode "01522b4c"]
+[Epoch "Rook"]
+[WhiteID "400467"]
+[BlackID "4600177"]
+[WhiteCountry "ENG"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e6 6. f4 Nc6 7. Be3 Be7 8. Qf3
+O-O 9. Nb3 a6 10. O-O-O Qc7 11. g4 b5 12. g5 Nd7 13. h4 Nb6 14. Nd4 b4 15. Nce2
+Nxd4 16. Bxd4 a5 17. Ng3 a4 18. f5 b3 19. axb3 exf5 20. Nxf5 Bxf5 21. exf5 Rfc8
+22. Rh2 d5 23. Rf2 axb3 24. Qxb3 Nc4 25. Bxc4 dxc4 26. Qe3 Re8 27. Qf3 Ra1+ 28.
+Kd2 Qa5+ 29. c3 Qa2 30. Ke1 Qa4 31. Kd2 Qb3 32. Rc1 Qxb2+ 33. Rc2 Qb1 34. Qe2
+Bxg5+ 35. hxg5 Rxe2+ 36. Rxe2 Qd1+ 37. Ke3 f6 38. gxf6 gxf6 39. Bxf6 Qg1+ 40.
+Rf2 Qg3+ 41. Ke4 Qd3+ 42. Kf4 Re1 43. Rg2+ Kf7 44. Bd4 Re4+ 45. Kg5 h6+ 46.
+Kxh6 Qh3+ 0-1

@@ -1,0 +1,23 @@
+[Event "Dortmund"]
+[Site "Dortmund"]
+[Date "1977.??.??"]
+[Round "9"]
+[White "Boehmfeldt, Bruno"]
+[Black "Andre, Wolfgang"]
+[Result "0-1"]
+[ECO "B97"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Poisoned pawn variation"]
+[HashCode "993c12e9"]
+[Epoch "Rook"]
+[WhiteID "4604695"]
+[BlackID "4607260"]
+[WhiteCountry "GER"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qb6 8. Qd2
+Qxb2 9. Rb1 Qa3 10. f5 Nc6 11. fxe6 fxe6 12. Nxc6 bxc6 13. e5 dxe5 14. Bxf6
+gxf6 15. Ne4 Be7 16. Be2 h5 17. O-O f5 18. Bf3 fxe4 19. Bxe4 Bd7 20. Rf3 Qc5+
+21. Kh1 O-O-O 22. Rfb3 Bd6 23. Bd3 Rdg8 24. Bxa6+ Kc7 25. Rc3 Rxg2 26. Kxg2
+Qd5+ 27. Qxd5 exd5 28. Rb7+ Kd8 29. Ra7 Ke7 30. Rb3 Bc5 31. Rc7 Kd6 32. Rbb7
+Rg8+ 33. Kf1 Rg1+ 34. Ke2 Bg4+ 35. Kd2 Bd4 36. Be2 Rg2 0-1

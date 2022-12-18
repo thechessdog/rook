@@ -1,0 +1,18 @@
+[Event "Berkeley"]
+[Site "Berkeley"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Tarjan, James"]
+[Black "Lawless, K."]
+[Result "0-1"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical system, 5.Be2"]
+[HashCode "9bb45dba"]
+[Epoch "Rook"]
+[WhiteID "2000180"]
+[WhiteCountry "USA"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. Nf3 Nf6 5. Be2 c5 6. dxc5 Qa5 7. O-O Qxc5 8.
+Be3 Qa5 9. Nd4 Nc6 10. Nb3 Qc7 11. f4 O-O 12. g4 Rd8 13. g5 Ne8 14. Nd5 Qd7 15.
+f5 Bxb2 16. Rb1 Be5 17. Nd4 Nc7 18. Bg4 Nxd5 19. exd5 Nxd4 20. fxg6 Qxg4+ 0-1

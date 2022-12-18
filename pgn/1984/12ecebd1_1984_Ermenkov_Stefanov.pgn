@@ -1,0 +1,26 @@
+[Event "Sofia ch-BUL"]
+[Site "Sofia ch-BUL"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Ermenkov, Evgenij"]
+[Black "Stefanov, Krasimir"]
+[Result "1-0"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical, h3 system"]
+[HashCode "12ecebd1"]
+[Epoch "Rook"]
+[WhiteID "2900106"]
+[WhiteCountry "FID"]
+[BlackID "2900319"]
+[BlackCountry "FID"]
+
+1. e4 g6 2. d4 Bg7 3. Nf3 d6 4. Nc3 Nf6 5. h3 O-O 6. a4 a5 7. Be3 Na6 8. Be2 c6
+9. O-O Nb4 10. Nd2 d5 11. e5 Ne8 12. f4 f6 13. Bf3 Nc7 14. Ne2 b6 15. c3 Nba6
+16. Rf2 c5 17. Nf1 Rb8 18. g4 f5 19. Nfg3 Be6 20. gxf5 gxf5 21. Rg2 Kh8 22. Kh2
+Qd7 23. Qd2 Bh6 24. Ng1 Bf7 25. Qf2 e6 26. Be2 Rg8 27. Nf3 Qe7 28. Ng5 Rbf8 29.
+h4 c4 30. Rag1 Nb8 31. Bd1 Nd7 32. Qf3 Rb8 33. Bc1 b5 34. axb5 Nxb5 35. Bc2 Nc7
+36. Kh1 Bg6 37. Rh2 Rbf8 38. Qf1 Qe8 39. h5 Bf7 40. Qh3 Qe7 41. Qh4 Be8 42.
+Rhg2 Nb6 43. Qh3 Ba4 44. Bb1 Bxg5 45. fxg5 f4 46. Nf1 f3 47. Rf2 Bd1 48. Nh2
+Be2 49. g6 Ne8 50. Bg5 Qd7 51. Ng4 Rg7 52. Nf6 Qc6 53. Nxe8 Qxe8 54. Bf6 h6 55.
+Rxe2 1-0

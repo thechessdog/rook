@@ -1,0 +1,22 @@
+[Event "Kuibyshev"]
+[Site "Kuibyshev"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Kaidanov, Gregory"]
+[Black "Grigorian, Karen Ashotovich"]
+[Result "0-1"]
+[ECO "A57"]
+[Opening "Benko gambit"]
+[Variation "Zaitsev system"]
+[HashCode "533ddc0c"]
+[Epoch "Rook"]
+[BlackCountry "ARM"]
+[WhiteCountry "USA"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. Nc3 axb5 6. e4 b4 7. Nb5 d6 8. Bf4 g6
+9. e5 Nh5 10. exd6 exd6 11. Qe2+ Kd7 12. Be3 Qe7 13. g4 Nf6 14. g5 Nh5 15. Bh3+
+Kd8 16. Bxc8 Kxc8 17. Nf3 Qe4 18. O-O Nf4 19. Qd1 Nd7 20. Bxf4 Qxf4 21. Re1 Kb7
+22. a3 Qc4 23. a4 Nb6 24. Nd2 Qxd5 25. a5 Qxg5+ 26. Kf1 Qd5 27. axb6 Qh1+ 28.
+Ke2 Re8+ 29. Kd3 Rxe1 30. Qxe1 Qxe1 31. Rxe1 Kxb6 32. Kc4 d5+ 33. Kxd5 Kxb5 34.
+Nc4 Bg7 35. Nd6+ Ka4 36. Kc4 Bxb2 37. Ne4 Rd8 38. Nxc5+ Ka3 39. Re3+ Bc3 40.
+Ne4 Rc8+ 41. Nc5 Kb2 42. Re7 Kc2 43. Kd5 Rd8+ 44. Ke4 Rd4+ 45. Kf3 0-1

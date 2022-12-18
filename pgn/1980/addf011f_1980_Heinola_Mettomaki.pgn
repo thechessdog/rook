@@ -1,0 +1,17 @@
+[Event "Uki"]
+[Site "Uki"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Heinola, Kari P."]
+[Black "Mettomaki, P."]
+[Result "1-0"]
+[ECO "B02"]
+[Opening "Alekhine's defence"]
+[HashCode "addf011f"]
+[Epoch "Rook"]
+[WhiteID "503495"]
+[WhiteCountry "FIN"]
+
+1. e4 Nf6 2. e5 Nd5 3. c4 Nf4 4. d4 g5 5. h4 Bh6 6. hxg5 Bxg5 7. g3 Ne6 8. f4
+Bxf4 9. gxf4 c5 10. d5 Nd4 11. Be3 b5 12. Bxd4 cxd4 13. Qxd4 Ba6 14. Nc3 Qc8
+15. Bd3 Rg8 16. Nf3 Qb7 17. Rxh7 Rg3 18. Rh8+ Rg8 19. Rxg8# 1-0

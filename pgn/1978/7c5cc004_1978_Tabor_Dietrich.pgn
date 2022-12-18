@@ -1,0 +1,22 @@
+[Event "Switzerland"]
+[Site "Switzerland"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Taborov, Boris"]
+[Black "Dietrich, Ralf"]
+[Result "1-0"]
+[ECO "B07"]
+[Opening "Pirc"]
+[Variation "Byrne variation"]
+[HashCode "7c5cc004"]
+[Epoch "Rook"]
+[WhiteID "14100347"]
+[BlackID "4613422"]
+[WhiteCountry "UKR"]
+[BlackCountry "GER"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Bg5 h6 5. Bf4 Bg7 6. Qd2 g5 7. Bg3 Nh5 8. Bc4
+Nc6 9. Nge2 O-O 10. f3 Nxg3 11. hxg3 Na5 12. Qd3 c5 13. O-O-O cxd4 14. Nxd4
+Nxc4 15. Qxc4 Qa5 16. Nd5 e6 17. Ne7+ Kh7 18. f4 Re8 19. Ndf5 d5 20. Nxh6 Rxe7
+21. Nf5+ Kg8 22. Nxe7+ Kf8 23. exd5 Kxe7 24. d6+ Ke8 25. Rh5 Bf6 26. Qd3 Bd7
+27. Qh7 Kf8 28. Rxg5 1-0

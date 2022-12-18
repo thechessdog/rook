@@ -1,0 +1,17 @@
+[Event "corr ICCF"]
+[Site "corr ICCF"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Ciesielski, J."]
+[Black "Kotodziej, R."]
+[Result "1-0"]
+[ECO "C57"]
+[Opening "two knights defence"]
+[Variation "Wilkes Barre (Traxler) variation"]
+[HashCode "2e8e847e"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 Bc5 5. Bxf7+ Ke7 6. Bd5 Nxd5 7. exd5
+Nd4 8. c3 Nf5 9. d4 exd4 10. Ne6 Qe8 11. Nxc5 Kd6+ 12. Kf1 Kxc5 13. cxd4+
+Kxd5 14. Qf3+ Ke6 15. d5+ Kf6 16. g4 1-0
+

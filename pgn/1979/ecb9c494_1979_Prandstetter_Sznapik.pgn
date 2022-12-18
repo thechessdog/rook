@@ -1,0 +1,20 @@
+[Event "Warsaw I zt"]
+[Site "Warsaw I zt"]
+[Date "1979.01.01"]
+[Round "9"]
+[White "Prandstetter, Eduard"]
+[Black "Sznapik, Aleksander"]
+[Result "1/2-1/2"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Byrne (English) attack"]
+[HashCode "ecb9c494"]
+[Epoch "Rook"]
+[WhiteID "300225"]
+[WhiteCountry "CZE"]
+[BlackID "1100050"]
+[BlackCountry "POL"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e6 7. f4 Nbd7 8. Bd3
+b5 9. a3 Bb7 10. O-O Be7 11. Qf3 Qc7 12. Rae1 Nc5 13. Bf2 O-O 14. Qh3 g6 15.
+Nf3 Nh5 1/2-1/2

@@ -1,0 +1,19 @@
+[Event "corr ch-USA APCT"]
+[Site "corr ch-USA APCT"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Davies"]
+[Black "Botsch"]
+[Result "1-0"]
+[ECO "B93"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.f4"]
+[HashCode "989bdfce"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 Nbd7 7. Be2 e5 8.
+Nb3 Be7 9. O-O O-O 10. Be3 b5 11. Bf3 Bb7 12. a3 Qc7 13. g4 Nb6 14. Nd2 Nc4
+15. Nxc4 Qxc4 16. Qd3 Qxd3 17. cxd3 Rfd8 18. Bb6 Rdc8 19. Rac1 Nd7 20. Be3
+Rc6 21. Nd5 Kf8 22. Rxc6 Bxc6 23. Nc7 Rc8 24. Nxa6 Bb7 25. Nb4 exf4 26.
+Bxf4 Ne5 27. Be2 1-0
+

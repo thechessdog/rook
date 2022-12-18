@@ -1,0 +1,20 @@
+[Event "Amsterdam"]
+[Site "Amsterdam"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Goldstern, Flip"]
+[Black "Van den Berg, John"]
+[Result "1-0"]
+[ECO "E62"]
+[Opening "King's Indian"]
+[Variation "fianchetto, Kavalek (Bronstein) variation"]
+[HashCode "0ac3b575"]
+[Epoch "Rook"]
+[BlackID "1001434"]
+[BlackCountry "NED"]
+
+1. Nf3 g6 2. d4 Nf6 3. g3 Bg7 4. Bg2 O-O 5. O-O c6 6. c4 d6 7. Nc3 Qa5 8. h3
+Be6 9. d5 cxd5 10. Nd4 Bd7 11. cxd5 Na6 12. Nb3 Qc7 13. Bg5 h6 14. Be3 Rfc8 15.
+Rc1 Qd8 16. Qd2 Kh7 17. Bd4 Be8 18. e4 Nd7 19. Bxg7 Kxg7 20. f4 Rc4 21. Kh2 Qb6
+22. e5 Rb4 23. Rce1 Ndc5 24. f5 Nxb3 25. axb3 Rxb3 26. f6+ exf6 27. exf6+ Kh7
+28. Re4 h5 29. Rh4 Rxb2 30. Qg5 1-0

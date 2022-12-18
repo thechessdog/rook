@@ -1,0 +1,21 @@
+[Event "Adelaide ch-Australia"]
+[Site "Adelaide ch-Australia"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Jamieson, Robert M"]
+[Black "Rogers, Ian"]
+[Result "0-1"]
+[ECO "D95"]
+[Opening "Gruenfeld with e3 & Qb3"]
+[HashCode "d7ff6bfc"]
+[Epoch "Rook"]
+[WhiteID "3200027"]
+[WhiteCountry "AUS"]
+[BlackID "3200019"]
+[BlackCountry "AUS"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. Nc3 d5 5. e3 O-O 6. Qb3 dxc4 7. Bxc4 a6 8. Ne5
+e6 9. a4 c5 10. dxc5 Qc7 11. Nd3 Nbd7 12. a5 Nxc5 13. Nxc5 Qxc5 14. Na4 Qxa5+
+15. Bd2 Qg5 16. Nb6 Qxg2 17. O-O-O Bd7 18. Rhg1 Qf3 19. Bc3 Bc6 20. Nxa8 Rxa8
+21. Qc2 Rc8 22. Rg3 Qh5 23. f3 b5 24. Be2 Bb7 25. Kb1 Qxh2 26. Rdg1 b4 27. R1g2
+Qh6 0-1

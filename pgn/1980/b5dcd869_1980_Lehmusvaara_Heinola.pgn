@@ -1,0 +1,20 @@
+[Event "Uki"]
+[Site "Uki"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Lehmusvaara, E."]
+[Black "Heinola, Kari P."]
+[Result "0-1"]
+[ECO "A57"]
+[Opening "Benko gambit"]
+[Variation "Zaitsev system"]
+[HashCode "b5dcd869"]
+[Epoch "Rook"]
+[BlackID "503495"]
+[BlackCountry "FIN"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. Nc3 axb5 6. Nxb5 d6 7. Nf3 g6 8. Bg5
+Bg7 9. e3 Qa5+ 10. Nc3 Ba6 11. Bxa6 Nxa6 12. O-O Nb4 13. Re1 O-O 14. e4 Rfc8
+15. b3 c4 16. e5 Nfxd5 17. Nxd5 Qxd5 18. Qxd5 Nxd5 19. Rad1 Nb4 20. bxc4 Rxc4
+21. exd6 exd6 22. Rxd6 Nxa2 23. Rd7 Rca4 24. Red1 h6 25. Rd8+ Rxd8 26. Rxd8+
+Kh7 27. Bf4 Rxf4 0-1

@@ -1,0 +1,17 @@
+[Event "St Radegund"]
+[Site "St Radegund"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Freidl, Alfred"]
+[Black "Bahr"]
+[Result "1-0"]
+[ECO "B15"]
+[Opening "Caro-Kann"]
+[Variation "Rasa-Studier gambit"]
+[HashCode "3207711a"]
+[Epoch "Rook"]
+
+1. d4 d5 2. e4 c6 3. Nc3 dxe4 4. f3 exf3 5. Nxf3 Nf6 6. Bc4 e6 7. Bg5 Be7
+8. O-O b5 9. Bd3 O-O 10. Qe1 Nbd7 11. Qh4 g6 12. Ne5 Nd5 13. Nxf7 Rxf7 14.
+Rxf7 N5f6 15. Rf1 Kxf7 16. Qxh7+ Kf8 17. Bh6+ Ke8 18. Bxg6# 1-0
+

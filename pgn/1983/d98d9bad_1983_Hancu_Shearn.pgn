@@ -1,0 +1,17 @@
+[Event "Hollywood"]
+[Site "Hollywood"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Hancu"]
+[Black "Shearn, B."]
+[Result "1-0"]
+[ECO "B23"]
+[Opening "Sicilian"]
+[Variation "Grand Prix attack"]
+[HashCode "d98d9bad"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nc3 Nc6 3. f4 d6 4. Nf3 g6 5. Bc4 Bg7 6. O-O e6 7. d3 a6 8. a4
+Nge7 9. Qe1 O-O 10. f5 exf5 11. Qh4 Qc7 12. Bh6 Ne5 13. Ng5 Nxc4 14. Bxg7
+Kxg7 15. Qxh7+ Kf6 16. Qh6 Rg8 17. dxc4 Be6 18. Nh7+ Ke5 19. Qf4+ 1-0
+

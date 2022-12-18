@@ -1,0 +1,23 @@
+[Event "Bundesliga 8283"]
+[Site "Duitsland tt"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Ruehrig, Volkhard"]
+[Black "Bialas, Wolfram"]
+[Result "0-1"]
+[ECO "B06"]
+[Opening "Robatsch defence"]
+[Variation "two knights, Suttles variation"]
+[HashCode "7e0735f3"]
+[Epoch "Rook"]
+[BlackID "4601041"]
+[BlackCountry "GER"]
+[WhiteCountry "DEU"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. Nf3 c6 5. a4 Nf6 6. Be2 O-O 7. O-O Nbd7 8. Nd2
+e5 9. d5 cxd5 10. exd5 Nb6 11. Ndb1 a5 12. Na3 Bd7 13. Bb5 Rc8 14. Be3 Bf5 15.
+h3 Rxc3 16. Bxb6 Qxb6 17. bxc3 Qc5 18. c4 Ne4 19. Qc1 Ng3 20. Re1 Ne4 21. Qe3
+Qxe3 22. Rxe3 Nc5 23. Rd1 h5 24. Kh2 g5 25. Re2 g4 26. Nb1 gxh3 27. gxh3 Bh6
+28. Nc3 Kh7 29. Rg1 Bf4+ 30. Kh1 Bxh3 31. Ne4 Nxe4 32. Rxe4 Bg4 33. Rxf4 exf4
+34. Re1 Bf3+ 35. Kh2 Rg8 36. c5 dxc5 37. d6 Rg2+ 38. Kh3 Rxf2 39. d7 Bg4+ 40.
+Kh4 Kh6 41. Rh1 Rd2 42. c3 Kg6 43. c4 Bxd7 44. Rg1+ Bg4 45. Rh1 f3 0-1

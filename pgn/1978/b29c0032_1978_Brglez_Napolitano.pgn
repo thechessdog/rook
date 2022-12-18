@@ -1,0 +1,21 @@
+[Event "corr Vidmar mem"]
+[Site "corr Vidmar mem"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Brglez, Rado"]
+[Black "Napolitano"]
+[Result "1-0"]
+[ECO "A69"]
+[Opening "Benoni"]
+[Variation "four pawns attack, main line"]
+[HashCode "b29c0032"]
+[Epoch "Rook"]
+[WhiteID "14600331"]
+[WhiteCountry "SLO"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f4 O-O 6. Nf3 c5 7. d5 e6 8. Be2 exd5
+9. cxd5 Re8 10. e5 dxe5 11. fxe5 Ng4 12. Bg5 Qb6 13. O-O Nxe5 14. Nxe5 Bxe5 15.
+d6 Be6 16. Nd5 Bd4+ 17. Qxd4 cxd4 18. Nxb6 axb6 19. Bb5 Nc6 20. Bf6 Reb8 21.
+Rfd1 Kf8 22. a4 h6 23. Bxd4 Nxd4 24. Rxd4 Rd8 25. d7 Ke7 26. Rc1 Rab8 27. Rc7
+h5 28. Kf2 Bf5 29. Ke3 Be6 30. Kd3 Bf5+ 31. Kc3 Be6 32. b4 Bf5 33. a5 bxa5 34.
+bxa5 Ra8 35. Kb4 Ra7 36. h3 g5 37. Rc5 1-0

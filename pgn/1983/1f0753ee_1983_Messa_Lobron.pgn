@@ -1,0 +1,21 @@
+[Event "Banco di Roma"]
+[Site "Banco di Roma"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Messa, Roberto"]
+[Black "Lobron, Eric"]
+[Result "0-1"]
+[ECO "B06"]
+[Opening "Robatsch (modern) defence"]
+[HashCode "1f0753ee"]
+[Epoch "Rook"]
+[BlackID "4600037"]
+[BlackCountry "GER"]
+[WhiteID "800457"]
+[WhiteCountry "ITA"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. g3 Nc6 5. d5 Ne5 6. f4 Nd7 7. Bg2 c6 8. Be3
+cxd5 9. exd5 Ngf6 10. Nge2 O-O 11. h3 Nc5 12. O-O Bd7 13. Nd4 Qc7 14. Qd2 Rfc8
+15. Rae1 Be8 16. f5 Ncd7 17. fxg6 hxg6 18. Bh6 Ne5 19. Bxg7 Kxg7 20. Nf5+ gxf5
+21. Rxe5 dxe5 22. Qg5+ Kh8 23. Rxf5 Nh7 24. Qh4 f6 25. Qh6 Qb6+ 26. Kh2 Rc4 27.
+Ne4 Bf7 28. d6 Rxc2 29. dxe7 Qxb2 0-1

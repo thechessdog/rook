@@ -1,0 +1,16 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Maedler"]
+[Black "Boey"]
+[Result "1/2-1/2"]
+[ECO "D02"]
+[Opening "Queen's pawn game, Chigorin variation"]
+[HashCode "a0319d46"]
+[Epoch "Rook"]
+
+1. d4 d5 2. Nf3 Nc6 3. c4 Bg4 4. cxd5 Bxf3 5. dxc6 Bxc6 6. Nc3 Nf6 7. f3 e5
+8. dxe5 Nd7 9. e4 Bb4 10. Be3 Qe7 11. Qc2 Qxe5 12. O-O-O Bc5 13. Bxc5 Qxc5
+14. Nd5 Qxc2+ 15. Kxc2 Bxd5 16. Rxd5 c6 17. Rd4 Ke7 18. Bc4 Ne5 1/2-1/2
+

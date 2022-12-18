@@ -1,0 +1,23 @@
+[Event "corr ch11-DDR"]
+[Site "corr ch11-DDR"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Kliesch, B."]
+[Black "Piastowski, K."]
+[Result "1-0"]
+[ECO "B28"]
+[Opening "Sicilian"]
+[Variation "O'Kelly variation"]
+[HashCode "ee88f4af"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 a6 3. c3 Nf6 4. e5 Nd5 5. d4 cxd4 6. Bc4 Nb6 7. Bb3 d5 8.
+exd6 Qxd6 9. cxd4 Be6 10. Nc3 Bxb3 11. Qxb3 e6 12. Bg5 N8d7 13. O-O-O Qb4
+14. d5 Qxb3 15. axb3 e5 16. Ne1 f5 17. f3 Rc8 18. Nd3 Bd6 19. Kb1 O-O 20.
+Rhe1 Rce8 21. Re2 Nf6 22. Bxf6 Rxf6 23. Rde1 Nd7 24. Kc2 g6 25. b4 Rc8 26.
+Kb3 Rff8 27. Ra1 Rfe8 28. h3 Kf7 29. Rae1 b5 30. Ra1 Nb8 31. g4 Rc4 32.
+Rae1 Kf6 33. h4 Rd4 34. Nxe5 Rxb4+ 35. Kc2 Rxe5 36. Rxe5 Bxe5 37. g5+ Kf7
+38. Rxe5 Rxh4 39. d6 Rd4 40. Re7+ Kf8 41. Rc7 Rc4 42. b3 Rc6 43. Rb7 Rc8
+44. Rxh7 Ke8 45. Kb2 Rc6 46. Rh8+ Kd7 47. Rxb8 Rxd6 48. Kc2 Rc6 49. Kd3
+Rd6+ 50. Ke3 Kc6 51. Rf8 b4 52. Na4 1-0
+

@@ -1,0 +1,17 @@
+[Event "Dayton,OH"]
+[Site "Dayton,OH"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Wall, Bill"]
+[Black "Hayes, Dan"]
+[Result "1-0"]
+[ECO "B03"]
+[Opening "Alekhine's defence"]
+[Variation "four pawns attack, 6...Nc6"]
+[HashCode "7db69cb2"]
+[Epoch "Rook"]
+[WhiteCountry "USA"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. c4 Nb6 5. f4 dxe5 6. fxe5 Nc6 7. Nf3 Bg4 8. Be3
+e6 9. Bd3 Be7 10. O-O O-O 11. a3 Nd7 12. Nc3 a6 13. h3 Bh5 14. Ne4 Bg6 15. Qe1
+Rb8 16. Qg3 b5 17. d5 exd5 18. cxd5 Ncxe5 19. Nxe5 Nxe5 20. Qxe5 1-0

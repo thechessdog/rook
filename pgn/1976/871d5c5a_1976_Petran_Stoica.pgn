@@ -1,0 +1,28 @@
+[Event "Agard"]
+[Site "Agard"]
+[Date "1976.01.01"]
+[Round "7"]
+[White "Petran, Pal"]
+[Black "Stoica, Valentin"]
+[Result "0-1"]
+[ECO "E15"]
+[Opening "Queen's Indian"]
+[Variation "Nimzovich variation (exaggerated fianchetto)"]
+[HashCode "871d5c5a"]
+[Epoch "Rook"]
+[WhiteID "700304"]
+[WhiteCountry "HUN"]
+[BlackID "1200070"]
+[BlackCountry "ROU"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. Qa4 c5 6. Bg2 Bb7 7. O-O Be7 8. Rd1
+cxd4 9. Nxd4 Bxg2 10. Kxg2 Qc8 11. Nc3 Qb7+ 12. f3 a6 13. Nc2 O-O 14. Bf4 Rc8
+15. Rac1 Nc6 16. Na3 Na5 17. Bd6 Bxd6 18. Rxd6 Qc7 19. Rcd1 Nxc4 20. Nxc4 Qxc4
+21. Qxc4 Rxc4 22. Rxb6 d5 23. e3 a5 24. Rd4 Nd7 25. Rxc4 Nxb6 26. Rc6 Nc4 27.
+e4 Ne5 28. Rc5 Nd3 29. Rb5 d4 30. Ne2 e5 31. Rb3 Nb4 32. a3 Nc2 33. Nc1 f6 34.
+Nd3 Ne3+ 35. Kh3 Rc8 36. f4 f5 37. fxe5 fxe4 38. Nf2 Rc5 39. Rb8+ Kf7 40. Rd8
+Rxe5 41. g4 Nc2 42. Kg3 g5 43. b4 a4 44. b5 e3 45. Nd3 Rxb5 46. Kf3 Rb3 47. Ke2
+Ke7 48. Rd5 h6 49. Ra5 Rxa3 50. Ra7+ Kd6 51. Ra6+ Kc7 52. Rxh6 Rc3 53. Rh7+ Kb6
+54. Rh8 Kb7 55. Rh7+ Rc7 56. Nc5+ Kc6 57. Rxc7+ Kxc7 58. Nxa4 Kc6 59. Nb2 Kd5
+60. Nd3 Na1 61. h4 gxh4 62. g5 Nb3 63. Nf4+ Ke4 64. g6 d3+ 65. Kf1 Kxf4 66. g7
+Kf3 0-1

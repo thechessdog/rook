@@ -1,0 +1,27 @@
+[Event "Bundesliga 8081"]
+[Site "Duitsland tt"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Wittmann, Rainer"]
+[Black "Krauseneck, Peter, Prof. Dr."]
+[Result "0-1"]
+[ECO "C05"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation"]
+[HashCode "3601e35e"]
+[Epoch "Rook"]
+[WhiteID "4603150"]
+[WhiteCountry "GER"]
+[BlackID "4602986"]
+[BlackCountry "GER"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. f4 c5 6. c3 Qb6 7. Ndf3 f6 8. Bd3
+Be7 9. Ne2 Nc6 10. O-O cxd4 11. Nexd4 Nc5 12. Bc2 Bd7 13. Kh1 f5 14. a4 Ne4 15.
+Rb1 a6 16. Be3 Qc7 17. Nxc6 bxc6 18. c4 Rb8 19. Nd2 O-O 20. Nxe4 dxe4 21. g4 c5
+22. gxf5 exf5 23. Rg1 Rb6 24. Qd2 Rd8 25. Qc3 Rh6 26. Rbd1 Be8 27. Rd5 Bc6 28.
+Rxd8+ Qxd8 29. Qe1 Rh3 30. Qe2 Bf8 31. Rg3 Qh4 32. Qg2 Rxg3 33. Qxg3 Qh5 34.
+Qf2 Qg4 35. Qg2 Qh5 36. Qf2 Qg4 37. Qg2 Qh4 38. Qe2 Be8 39. Bd1 Qd8 40. Qd2
+Qxd2 41. Bxd2 Kf7 42. Kg1 Be7 43. Kf2 Ke6 44. Ke3 h6 45. Ba5 g5 46. Bb6 gxf4+
+47. Kxf4 Bg5+ 48. Kg3 f4+ 49. Kf2 e3+ 50. Kf1 Kxe5 51. Bxc5 Bc6 52. b4 f3 53.
+b5 Be4 54. Be2 Kf4 55. Bd6+ Kg4 56. c5 fxe2+ 57. Kxe2 Bf3+ 58. Kd3 e2 59. Bg3
+Bf4 60. Be1 axb5 61. axb5 Bxh2 62. b6 Bg3 63. Kd2 Bxe1+ 64. Kxe1 Kg3 0-1

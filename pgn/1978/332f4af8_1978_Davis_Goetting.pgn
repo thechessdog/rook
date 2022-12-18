@@ -1,0 +1,18 @@
+[Event "Ohio"]
+[Site "Ohio"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Davis, D."]
+[Black "Goetting"]
+[Result "1-0"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra gambit"]
+[HashCode "332f4af8"]
+[Epoch "Rook"]
+
+1. e4 c5 2. d4 cxd4 3. c3 d5 4. exd5 Qxd5 5. cxd4 Nc6 6. Nf3 e6 7. Nc3 Bb4
+8. Be2 Nf6 9. O-O Bxc3 10. bxc3 O-O 11. a4 b6 12. Bb2 Bb7 13. c4 Qd7 14. d5
+exd5 15. Bxf6 gxf6 16. Qd2 Rad8 17. Rad1 Na5 18. Qh6 Qe6 19. Nd4 Qe5 20.
+Nf5 Qxf5 21. Bd3 1-0
+

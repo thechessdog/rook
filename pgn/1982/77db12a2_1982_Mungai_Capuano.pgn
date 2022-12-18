@@ -1,0 +1,20 @@
+[Event "corr Italy"]
+[Site "corr Italy"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Mungai"]
+[Black "Capuano"]
+[Result "0-1"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Paulsen attack"]
+[HashCode "77db12a2"]
+[Epoch "Rook"]
+
+1. e4 c6 2. d4 d5 3. e5 e6 4. c3 c5 5. Nf3 Nc6 6. Be3 Qb6 7. Qc1 Bd7 8. Be2
+Rc8 9. dxc5 Bxc5 10. Bxc5 Qxc5 11. Qg5 Nge7 12. Qxg7 Rg8 13. Qxh7 Rxg2 14.
+Rf1 d4 15. Qe4 dxc3 16. Nxc3 Nb4 17. a3 Nbd5 18. Nxd5 Nxd5 19. h3 Qc2 20.
+Qd4 Qc5 21. Qd2 Qc2 22. Qd4 Qc5 23. Rh1 Nf4 24. Bf1 Qxd4 25. Nxd4 Rg5 26.
+Nf3 Rh5 27. Rg1 Rc2 28. b4 Nxh3 29. Bxh3 Rxh3 30. Nd2 Rh5 31. f4 Rh2 32. f5
+exf5 0-1
+

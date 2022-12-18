@@ -1,0 +1,21 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Cruanas"]
+[Black "LaRosa"]
+[Result "1-0"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (without ...d6)"]
+[HashCode "d146b587"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 d6 4. O-O g6 5. d4 Bd7 6. dxc5 dxc5 7. Be3 Qc7
+8. Nc3 O-O-O 9. Nd2 Ne5 10. a4 Bxb5 11. axb5 e6 12. Qe2 Bh6 13. Na4 Qa5 14.
+c3 Bxe3 15. Nb3 Qc7 16. Qxe3 h6 17. f4 Ng4 18. Qf3 f5 19. exf5 gxf5 20.
+Rac1 b6 21. Qa8+ Kd7 22. Rcd1+ Ke8 23. Rxd8+ Qxd8 24. Qxa7 Qh4 25. h3 N8f6
+26. Qxb6 Qg3 27. Qxe6+ Kf8 28. hxg4 Nxg4 29. Qxf5+ Kg7 30. Qh5 Qe3+ 31. Kh1
+Nf2+ 32. Kh2 Qxf4+ 33. Kg1 Re8 34. Qxe8 Nh3+ 35. Kh1 Qxf1+ 36. Kh2 Qf5 37.
+Naxc5 1-0
+

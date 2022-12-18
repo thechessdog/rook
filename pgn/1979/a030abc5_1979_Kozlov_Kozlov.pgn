@@ -1,0 +1,21 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Kozlov, Vladimir N"]
+[Black "Kozlov, Vladimir N"]
+[Result "0-1"]
+[ECO "E38"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, 4...c5"]
+[HashCode "a030abc5"]
+[Epoch "Rook"]
+[WhiteID "4103980"]
+[BlackID "4103980"]
+[WhiteCountry "RUS"]
+[BlackCountry "RUS"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 c5 5. dxc5 Na6 6. a3 Bxc3+ 7. Qxc3 Nxc5 8.
+b4 Nce4 9. Qd4 d5 10. e3 O-O 11. Bb2 e5 12. Qd1 Ng4 13. Nh3 Nxe3 14. fxe3 Bxh3
+15. Qf3 Qh4+ 16. g3 Qh6 17. Bxh3 Qxh3 18. cxd5 Ng5 19. Qe2 Rac8 20. e4 f5 21.
+exf5 Rxf5 22. Rf1 Rxf1+ 23. Qxf1 Qxh2 0-1

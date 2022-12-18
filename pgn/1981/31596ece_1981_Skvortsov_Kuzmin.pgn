@@ -1,0 +1,19 @@
+[Event "Moscow"]
+[Site "Moscow"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Skvortsov, V."]
+[Black "Kuzmin, Alexey"]
+[Result "0-1"]
+[ECO "E71"]
+[Opening "King's Indian"]
+[Variation "Makagonov system (5.h3)"]
+[HashCode "31596ece"]
+[Epoch "Rook"]
+[BlackID "4100794"]
+[BlackCountry "RUS"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. h3 O-O 6. Nf3 e5 7. d5 c6 8. Bd3 cxd5
+9. cxd5 Na6 10. O-O Ne8 11. Bc2 f5 12. exf5 gxf5 13. Ng5 Nac7 14. Qh5 Nf6 15.
+Qh4 h6 16. Ne6 Nxe6 17. dxe6 f4 18. Bb3 Qe7 19. g3 Bxe6 20. gxf4 e4 21. Nxe4
+Bxb3 22. Nxf6+ Rxf6 23. axb3 Rg6+ 0-1

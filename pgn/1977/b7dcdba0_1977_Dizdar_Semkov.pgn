@@ -1,0 +1,24 @@
+[Event "Albena"]
+[Site "Albena"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Dizdar, Goran"]
+[Black "Semkov, Semko"]
+[Result "1-0"]
+[ECO "A05"]
+[Opening "Reti"]
+[Variation "King's Indian attack"]
+[HashCode "b7dcdba0"]
+[Epoch "Rook"]
+[WhiteID "14500124"]
+[WhiteCountry "CRO"]
+[BlackID "2900068"]
+[BlackCountry "FID"]
+
+1. Nf3 Nf6 2. g3 g6 3. b3 Bg7 4. Bg2 O-O 5. Bb2 c5 6. O-O d5 7. c4 dxc4 8. bxc4
+Nc6 9. d3 Qc7 10. Nbd2 e5 11. Nb3 Qd6 12. Ba3 Nd7 13. Ng5 b6 14. e3 Ba6 15. Ne4
+Qe6 16. Qf3 Rac8 17. Rab1 h6 18. Bxc5 bxc5 19. Nbxc5 Nxc5 20. Nxc5 Qd6 21. Qd5
+Qxd5 22. Bxd5 Nb4 23. Rxb4 Rxc5 24. Ra4 Rxd5 25. cxd5 Bxd3 26. Rc1 a6 27. e4
+Rd8 28. f3 Bf8 29. a3 Bd6 30. Kf2 Bb5 31. Ra5 Kf8 32. Ke3 Ke8 33. f4 Kd7 34. a4
+Bb4 35. axb5 Bxa5 36. bxa6 exf4+ 37. gxf4 Bb6+ 38. Kd3 Rc8 39. Rxc8 Kxc8 40. e5
+Bg1 41. Ke4 Bxh2 42. a7 Kb7 43. d6 1-0

@@ -1,0 +1,18 @@
+[Event "corr SWE/K tt"]
+[Site "corr SWE/K tt"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Eklind, Bengt"]
+[Black "Wirgren, Anders"]
+[Result "0-1"]
+[ECO "C67"]
+[Opening "Ruy Lopez"]
+[Variation "open Berlin defence, l'Hermet variation"]
+[HashCode "15fed9ed"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. dxe5 Nxb5 7. a4 d6
+8. e6 fxe6 9. axb5 Ne7 10. Bg5 h6 11. Bh4 g5 12. Ne5 h5 13. Bxg5 dxe5 14.
+Qe2 Qd4 15. Nc3 Qg4 16. Qxe5 Ng6 17. Qf6 Qf5 18. Qd8+ Kf7 19. Qxc7+ Kg8 20.
+h4 Rh7 21. Qc4 Ne5 22. Qe2 Bd7 23. Ne4 Bxb5 0-1
+

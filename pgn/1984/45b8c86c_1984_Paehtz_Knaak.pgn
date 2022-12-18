@@ -1,0 +1,21 @@
+[Event "Rostock"]
+[Site "Rostock"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Paehtz, Thomas"]
+[Black "Knaak, Rainer"]
+[Result "0-1"]
+[ECO "A48"]
+[Opening "King's Indian"]
+[Variation "London system"]
+[HashCode "45b8c86c"]
+[Epoch "Rook"]
+[BlackID "4611250"]
+[BlackCountry "GER"]
+[WhiteID "4611349"]
+[WhiteCountry "GER"]
+
+1. d4 Nf6 2. Nf3 g6 3. Bf4 Bg7 4. Nbd2 c5 5. e3 Nc6 6. c3 d6 7. Bc4 O-O 8. a4
+cxd4 9. exd4 e5 10. dxe5 dxe5 11. Be3 e4 12. Nd4 Ne5 13. Qb3 Nfg4 14. O-O-O
+Nxe3 15. fxe3 Bg4 16. Rdf1 Nxc4 17. Nxc4 Bxd4 18. exd4 Be6 19. Qb4 Qg5+ 20. Nd2
+e3 21. Ne4 Qxg2 22. Nf6+ Kh8 23. Kb1 Qg5 24. Qd6 e2 0-1

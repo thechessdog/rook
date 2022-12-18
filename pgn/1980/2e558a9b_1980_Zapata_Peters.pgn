@@ -1,0 +1,30 @@
+[Event "Manhattan CC"]
+[Site "Manhattan CC"]
+[Date "1980.01.01"]
+[Round "8"]
+[White "Zapata, Alonso"]
+[Black "Peters, John A"]
+[Result "1-0"]
+[ECO "B16"]
+[Opening "Caro-Kann"]
+[Variation "Bronstein-Larsen variation"]
+[HashCode "2e558a9b"]
+[Epoch "Rook"]
+[WhiteID "4400011"]
+[WhiteCountry "COL"]
+[BlackCountry "USA"]
+[BlackID "2000229"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ gxf6 6. Ne2 Bf5 7. Ng3 Bg6
+8. h4 h5 9. Be2 Nd7 10. c3 Qa5 11. a4 e6 12. Bf3 Qc7 13. Qe2 Bd6 14. Ne4 Bf4
+15. Bxf4 Qxf4 16. Ng3 Qc7 17. Nxh5 O-O-O 18. Ng3 e5 19. h5 exd4 20. O-O Ne5 21.
+hxg6 fxg6 22. Bg4+ Kb8 23. cxd4 Rxd4 24. Bh3 g5 25. Rfd1 Rdh4 26. Bf5 g4 27.
+Qe3 c5 28. Rac1 Nf3+ 29. Kf1 Nd4 30. Qxd4 cxd4 31. Rxc7 Kxc7 32. Rxd4 Rd8 33.
+Rc4+ Kb6 34. Be4 a5 35. b4 Rd1+ 36. Ke2 Ra1 37. bxa5+ Kxa5 38. Bxb7 Rh7 39. Bc6
+Rc7 40. Nf5 Kb6 41. Bb5 Rxc4 42. Bxc4 Rxa4 43. Kd3 Kc5 44. Ne3 g3 45. fxg3 Ra8
+46. Ke4 Ra4 47. g4 Kd6 48. Kd4 Ra1 49. Bd5 Re1 50. Ke4 Ke7 51. Kf4 Kf8 52. Nf5
+Rf1+ 53. Bf3 Ra1 54. Ne3 Kg7 55. g5 Ra5 56. gxf6+ Kxf6 57. g4 Ra2 58. Nf5 Rf2
+59. g5+ Kg6 60. Nh4+ Kg7 61. Kg4 Rf1 62. Be4 Re1 63. Nf5+ Kg6 64. Ng3+ Kf7 65.
+Kf5 Rg1 66. Bd5+ Kg7 67. Nh5+ Kh7 68. Be4 Re1 69. Kf4+ Kh8 70. g6 Rd1 71. Bf5
+Rf1+ 72. Kg5 Rg1+ 73. Kf6 Kg8 74. Nf4 Kh8 75. Be6 Rg3 76. Bh3 Kg8 77. Be6+ Kh8
+78. Bd5 Rg1 79. Bg2 Re1 80. Kf7 1-0

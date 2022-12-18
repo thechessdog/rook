@@ -1,0 +1,17 @@
+[Event "corr CSSR"]
+[Site "corr CSSR"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Tunega"]
+[Black "Pavlik"]
+[Result "1-0"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "5d2e18c3"]
+[Epoch "Rook"]
+
+1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. d4 cxd4 5. cxd4 Nc6 6. Nf3 Bg4 7. Nc3
+Bxf3 8. gxf3 Qxd4 9. Qxd4 Nxd4 10. Nb5 Nc2+ 11. Kd1 Nxa1 12. Nc7+ Kd8 13.
+Nxa8 g5 14. Be3 Bg7 15. Kc1 Nf6 16. Bxa7 Nd5 17. Kb1 1-0
+

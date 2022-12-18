@@ -1,0 +1,19 @@
+[Event "Bundesliga 8182"]
+[Site "Germany"]
+[Date "1982.??.??"]
+[Round "?"]
+[White "Schlaugat, Michael"]
+[Black "Bachmann, Karlheinz"]
+[Result "1/2-1/2"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "classical variation"]
+[HashCode "adba3e2f"]
+[Epoch "Rook"]
+[WhiteID "4607503"]
+[BlackID "4602021"]
+[WhiteCountry "GER"]
+[BlackCountry "GER"]
+
+1. b3 d5 2. Bb2 Bf5 3. e3 e6 4. Nf3 Nd7 5. d4 c6 6. Bd3 Ngf6 7. O-O Bd6 8. Nbd2
+O-O 9. Qe2 Qe7 10. e4 dxe4 11. Nxe4 Nxe4 12. Bxe4 Bxe4 13. Qxe4 Ba3 1/2-1/2

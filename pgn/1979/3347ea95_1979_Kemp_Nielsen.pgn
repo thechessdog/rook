@@ -1,0 +1,20 @@
+[Event "Hillerod"]
+[Site "Hillerod"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Kemp, Rasmus"]
+[Black "Nielsen, Bjarne"]
+[Result "0-1"]
+[ECO "B00"]
+[Opening "King's pawn opening"]
+[HashCode "3347ea95"]
+[Epoch "Rook"]
+
+1. e4 d6 2. d4 g6 3. Bc4 Bg7 4. Nf3 Nf6 5. Qe2 O-O 6. h3 c6 7. e5 Nd5 8.
+O-O h6 9. Nc3 Nb6 10. Bd3 Na6 11. a3 Nc7 12. Nh2 dxe5 13. dxe5 Ne6 14. Be3
+Nd5 15. Nxd5 cxd5 16. f4 d4 17. Bd2 Nc5 18. g4 b6 19. Bc4 e6 20. b4 d3 21.
+cxd3 Nd7 22. d4 Bb7 23. f5 gxf5 24. gxf5 exf5 25. Qf2 Rc8 26. Rac1 Be4 27.
+Nf3 Kh8 28. Nh4 Nxe5 29. dxe5 Bxe5 30. Rfd1 Rg8+ 31. Kf1 Rxc4 32. Nxf5 Qd3+
+33. Ke1 Bf3 34. Bg5 Re4+ 35. Ne3 Bxd1 36. Bf6+ Kh7 37. Qf5+ Rg6 38. Rc8
+Rxe3+ 39. Kf2 Qe2# 0-1
+

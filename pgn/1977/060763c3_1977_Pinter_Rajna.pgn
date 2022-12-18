@@ -1,0 +1,25 @@
+[Event "Tungsram"]
+[Site "Budapest"]
+[Date "1977.??.??"]
+[Round "?"]
+[White "Pinter, Jozsef"]
+[Black "Rajna, George"]
+[Result "0-1"]
+[ECO "C99"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Chigorin, 12...c5d4"]
+[HashCode "060763c3"]
+[Epoch "Rook"]
+[WhiteID "700045"]
+[BlackID "2801566"]
+[WhiteCountry "HUN"]
+[BlackCountry "ISR"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. h3 Na5 10. Bc2 c5 11. d4 Qc7 12. Nbd2 cxd4 13. cxd4 Bd7 14. Nf1 Rac8 15.
+Ne3 Rfe8 16. b3 Nc6 17. Bb2 Bd8 18. d5 Ne7 19. Rc1 Ng6 20. Nh2 Qa7 21. Qd2 Bb6
+22. Nhg4 Bxg4 23. Nxg4 Nxg4 24. hxg4 Nf4 25. Kf1 Rc7 26. Bb1 Rec8 27. g3 Nh3
+28. Rxc7 Rxc7 29. Re2 f6 30. Kg2 Ng5 31. Bd3 Rc8 32. f4 Nf7 33. Re1 Bd4 34. Rc1
+Rxc1 35. Qxc1 g6 36. Qc8+ Kg7 37. Bc1 Be3 38. Kf3 Bxc1 39. Qxc1 Qd4 40. Qe3 Qa1
+41. Qe2 exf4 42. gxf4 g5 43. e5 fxe5 44. f5 Qh1+ 45. Qg2 e4+ 46. Bxe4 Ne5+ 47.
+Ke3 Qxg2 48. Bxg2 Nxg4+ 49. Kd4 b4 0-1

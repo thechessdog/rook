@@ -1,0 +1,24 @@
+[Event "corr ch-CSSR"]
+[Site "corr ch-CSSR"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Stanicek"]
+[Black "Perik"]
+[Result "1-0"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, dragon formation"]
+[HashCode "a23d0fe1"]
+[Epoch "Rook"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 c5 6. Bb5+ Bd7 7. e5 Ng4 8.
+Bxd7+ Qxd7 9. d5 dxe5 10. h3 e4 11. Nxe4 Qa4 12. Qe2 Nf6 13. Nc3 Qa6 14.
+Qxa6 Nxa6 15. Be3 O-O 16. O-O-O Rfd8 17. Rhe1 b6 18. Re2 Kf8 19. a3 Nc7 20.
+Red2 Nce8 21. Re2 Nd6 22. g4 Rac8 23. Ne5 Rc7 24. Bg1 Nd7 25. b3 Re8 26.
+Nb1 c4 27. b4 Nf6 28. c3 Ra8 29. a4 Nfe4 30. Kc2 Bh6 31. g5 Bg7 32. Nd2 Ng3
+33. Ree1 b5 34. axb5 Nxb5 35. Bc5 Nd6 36. Bxd6 exd6 37. Nc6 Nh5 38. Rf1 Ng3
+39. Rf3 Nf5 40. Nxc4 Re8 41. Kd3 Rd7 42. Ra1 Ne7 43. Nxe7 Rdxe7 44. Na5 Re1
+45. Rxe1 Rxe1 46. Nc6 a6 47. Nb8 Ke8 48. Nxa6 Kd8 49. Nb8 Kc7 50. Nc6 f5
+51. Nd4 Bxd4 52. Kxd4 Re4+ 53. Kd3 Kd7 54. c4 Kd8 55. Rf2 Kc8 56. b5 Kb7
+57. Re2 Rxf4 58. Re7+ Kb6 59. Rd7 1-0
+

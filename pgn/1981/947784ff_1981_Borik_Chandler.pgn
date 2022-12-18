@@ -1,0 +1,24 @@
+[Event "Bundesliga 8081"]
+[Site "Duitsland tt"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Borik, Otto"]
+[Black "Chandler, Murray G"]
+[Result "0-1"]
+[ECO "E12"]
+[Opening "Queen's Indian"]
+[Variation "4.Nc3"]
+[HashCode "947784ff"]
+[Epoch "Rook"]
+[WhiteID "4600762"]
+[WhiteCountry "GER"]
+[BlackID "400050"]
+[BlackCountry "NZL"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. Nc3 Bb4 5. Bg5 h6 6. Bxf6 Qxf6 7. Qc2 Bb7 8. a3
+Bxc3+ 9. Qxc3 c5 10. Rd1 O-O 11. e3 Bxf3 12. gxf3 Qxf3 13. Rg1 Qf6 14. Bg2 Nc6
+15. dxc5 Qxc3+ 16. bxc3 bxc5 17. Rxd7 Ne5 18. Rc7 Rfc8 19. Ke2 Rxc7 20. Bxa8
+Nxc4 21. Ra1 Rd7 22. Ra2 Rd6 23. Be4 f5 24. Bd3 Nb6 25. e4 c4 26. Bc2 fxe4 27.
+Bxe4 Na4 28. Rc2 Kf7 29. Ke3 Rd1 30. f4 Kf6 31. h4 Nc5 32. Re2 Nxe4 33. Kxe4
+Rh1 34. Kd4 Rxh4 35. Kxc4 Rxf4+ 36. Kb5 g5 37. Rc2 g4 38. c4 g3 39. c5 Rf2 40.
+Rc3 g2 41. Rg3 Rb2+ 42. Ka6 Rc2 43. Kxa7 h5 0-1

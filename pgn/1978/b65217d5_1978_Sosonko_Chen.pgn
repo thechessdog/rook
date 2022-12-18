@@ -1,0 +1,19 @@
+[Event "Buenos Aires"]
+[Site "Buenos Aires"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Sosonko, Gennadi"]
+[Black "Chen, T."]
+[Result "1/2-1/2"]
+[ECO "E04"]
+[Opening "Catalan"]
+[Variation "open, 5.Nf3"]
+[HashCode "b65217d5"]
+[Epoch "Rook"]
+[WhiteID "1000039"]
+[WhiteCountry "NED"]
+
+1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. g3 dxc4 5. Bg2 b5 6. a4 c6 7. Ne5 Nd5 8. O-O
+Bb7 9. e4 Nf6 10. Nc3 a6 11. d5 cxd5 12. exd5 Nxd5 13. Nxd5 Bxd5 14. axb5 Bc5
+15. bxa6 O-O 16. Nxc4 Bxg2 17. Kxg2 Rxa6 18. Qxd8 Rxd8 19. Bf4 Rxa1 20. Rxa1
+Nc6 21. Rc1 Nb4 22. Be3 Bxe3 23. Nxe3 Kf8 24. Rc4 Rb8 1/2-1/2

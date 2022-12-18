@@ -1,0 +1,20 @@
+[Event "corr EUR"]
+[Site "corr EUR"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Hang"]
+[Black "Lauer"]
+[Result "0-1"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack"]
+[HashCode "ce8c95b0"]
+[Epoch "Rook"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 O-O 6. Be2 c5 7. dxc5 Qa5 8.
+O-O Qxc5+ 9. Kh1 Nc6 10. Nd2 a5 11. Nb3 Qb6 12. a4 Nb4 13. Bf3 Be6 14. Nd4
+Bc4 15. Nce2 e5 16. Nb5 Bxb5 17. axb5 Qxb5 18. b3 Rfe8 19. Ra4 exf4 20. c3
+Nc6 21. Bxf4 Rad8 22. Qc2 d5 23. exd5 Nxd5 24. c4 Qc5 25. Bc1 Ndb4 26. Qb1
+Nd3 27. h3 Be5 28. g3 Nf2+ 29. Kg2 Nd1 30. Qc2 Ne3+ 31. Bxe3 Qxe3 32. Bd5
+Re7 33. Rf3 Qc5 34. Bxc6 Qxc6 35. Rxa5 Bxg3 36. Ra1 Re3 0-1
+

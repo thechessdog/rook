@@ -1,0 +1,18 @@
+[Event "Mogilov"]
+[Site "Mogilov"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Bukarev"]
+[Black "Villner"]
+[Result "1-0"]
+[ECO "A27"]
+[Opening "English"]
+[Variation "three knights system"]
+[HashCode "73b3f543"]
+[Epoch "Rook"]
+
+1. c4 e5 2. Nc3 Nc6 3. Nf3 f5 4. d4 e4 5. d5 exf3 6. dxc6 fxe2 7. cxd7+
+Qxd7 8. Qxe2+ Kf7 9. Qf3 Nf6 10. Be2 Bc5 11. O-O Re8 12. Bg5 c6 13. Bxf6
+Kxf6 14. Bd3 Bd4 15. Ne4+ Kf7 16. c5 Kg8 17. Bc4+ Kh8 18. Nd6 Rf8 19. Rad1
+b5 20. Nf7+ Rxf7 21. Bxf7 Qxf7 22. Rxd4 1-0
+

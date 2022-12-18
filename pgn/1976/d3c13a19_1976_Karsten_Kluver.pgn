@@ -1,0 +1,19 @@
+[Event "Hjoerring"]
+[Site "Hjoerring"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Karsten, Flemming"]
+[Black "Kluver, Hans"]
+[Result "0-1"]
+[ECO "C27"]
+[Opening "Vienna"]
+[Variation "`Frankenstein-Dracula' variation"]
+[HashCode "d3c13a19"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Bc4 Nf6 3. Nc3 Nxe4 4. Qh5 Nd6 5. Bb3 Nc6 6. Nb5 g6 7. Qf3 f5
+8. Qd5 Qe7 9. Nxc7+ Kd8 10. Nxa8 b6 11. d3 Bb7 12. h4 f4 13. Nxb6 axb6 14.
+Qf3 Nd4 15. Qg4 Bg7 16. Nf3 Nxf3+ 17. gxf3 Re8 18. Bd2 e4 19. fxe4 Nxe4 20.
+Qe2 f3 21. Qe3 Bh6 22. Qxb6+ Kc8 23. O-O-O Nxd2 24. Rxd2 Qe1+ 25. Rxe1
+Rxe1# 0-1
+

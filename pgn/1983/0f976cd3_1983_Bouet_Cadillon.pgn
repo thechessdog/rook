@@ -1,0 +1,22 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Bouet"]
+[Black "Cadillon"]
+[Result "0-1"]
+[ECO "B33"]
+[Opening "Sicilian"]
+[Variation "Sveshnikov variation"]
+[HashCode "0f976cd3"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6
+8. Bxf6 gxf6 9. Na3 b5 10. Nd5 f5 11. Bd3 Be6 12. Qh5 Rg8 13. Qxh7 Rxg2 14.
+Qh8 Bxd5 15. exd5 Nb4 16. Bxf5 Qg5 17. Kf1 Rxf2+ 18. Kxf2 Qxf5+ 19. Kg3
+Qf4+ 20. Kg2 Qe4+ 21. Kg3 Qe3+ 22. Kg2 Nxd5 23. Rhf1 b4 24. Qh4 bxa3 25.
+Qa4+ Ke7 26. Qc6 Nf4+ 27. Rxf4 exf4 28. Qxa8 Qe2+ 29. Kg1 axb2 30. Qb7+ Ke6
+31. Qb3+ d5 32. Qh3+ f5 33. Rb1 Bc5+ 34. Kh1 Qe4+ 35. Qg2 Bd4 36. h4 Kf7
+37. h5 Kf8 38. h6 f3 39. Qg5 f2+ 40. Kh2 Be5+ 41. Kh3 Qf3+ 42. Kh4 Qf4+ 43.
+Qxf4 Bxf4 44. Rd1 Bc1 45. Rxd5 f1=Q 46. Rd8+ Ke7 0-1
+

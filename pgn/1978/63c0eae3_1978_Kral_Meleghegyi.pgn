@@ -1,0 +1,17 @@
+[Event "Salgotarjan"]
+[Site "Salgotarjan"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Kral, P."]
+[Black "Meleghegyi, Csaba"]
+[Result "0-1"]
+[ECO "B06"]
+[Opening "Robatsch defence"]
+[Variation "three pawns attack"]
+[HashCode "63c0eae3"]
+[Epoch "Rook"]
+
+1. e4 g6 2. d4 Bg7 3. f4 c5 4. d5 d6 5. c4 Nf6 6. Bd3 O-O 7. Nc3 e6 8. Nf3 exd5
+9. cxd5 b5 10. O-O a6 11. h3 Re8 12. Re1 Ra7 13. a4 b4 14. Nb1 Rae7 15. Qc2
+Nxd5 16. Rd1 Nc7 17. e5 Bb7 18. Be3 Bxf3 19. gxf3 Nd5 20. Bc1 dxe5 21. Be4 Rd7
+22. Qxc5 Nxf4 23. Rxd7 Qg5+ 0-1

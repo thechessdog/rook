@@ -1,0 +1,19 @@
+[Event "Arco"]
+[Site "Arco"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Schumi"]
+[Black "Rombaldoni"]
+[Result "0-1"]
+[ECO "C63"]
+[Opening "Ruy Lopez"]
+[Variation "Schliemann defence"]
+[HashCode "3f6f5437"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 f5 4. d3 fxe4 5. dxe4 Nf6 6. Bg5 Bb4+ 7. c3 Bc5
+8. Qe2 d6 9. Nbd2 O-O 10. Bc4+ Kh8 11. O-O-O a6 12. Nh4 Qe8 13. Bxf6 Rxf6
+14. Rdf1 Rb8 15. Nb3 b5 16. Bd3 b4 17. Nxc5 dxc5 18. Bc4 bxc3 19. b3 Nd4
+20. Qe3 Be6 21. Qxc3 Bxc4 22. Qxc4 Rb4 23. Qd3 c4 24. Qd2 cxb3 25. Kb2 Rb8
+26. a3 Rc6 0-1
+

@@ -1,0 +1,20 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Hohm"]
+[Black "Neumayer"]
+[Result "1-0"]
+[ECO "B00"]
+[Opening "KP"]
+[Variation "Nimzovich defence, Bogolyubov variation"]
+[HashCode "ed1d8a3f"]
+[Epoch "Rook"]
+
+1. Nc3 Nc6 2. d4 d5 3. e4 e6 4. Nf3 Bb4 5. Bd3 dxe4 6. Bxe4 f5 7. Bxc6+
+bxc6 8. O-O Nf6 9. Ne5 Bb7 10. Bg5 O-O 11. Re1 c5 12. dxc5 Qxd1 13. Raxd1
+Bxc3 14. bxc3 Ne4 15. c6 Ba6 16. Be7 Nxc3 17. Rd7 Rfc8 18. Re3 Rab8 19. h4
+Rb1+ 20. Kh2 Ne4 21. Ra3 Be2 22. Rxa7 Nxf2 23. Raxc7 Rh1+ 24. Kg3 Ne4+ 25.
+Kf4 Ra8 26. Ra7 g5+ 27. hxg5 Rf1+ 28. Ke3 Rxa7 29. Rd8+ Kg7 30. Bf8+ Kg8
+31. Bh6# 1-0
+

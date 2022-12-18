@@ -1,0 +1,18 @@
+[Event "Tubingen"]
+[Site "Tubingen"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Schlenker, Rainer"]
+[Black "Fuchs, Reinhart"]
+[Result "1-0"]
+[ECO "A00"]
+[Opening "Durkin's attack"]
+[HashCode "bc46118d"]
+[Epoch "Rook"]
+[WhiteID "4605837"]
+[BlackID "4611357"]
+[WhiteCountry "GER"]
+[BlackCountry "GER"]
+
+1. Na3 d5 2. Rb1 e5 3. Nf3 Bd6 4. c4 e4 5. Nd4 c5 6. Ndb5 d4 7. Nxd6+ Qxd6 8.
+b4 cxb4 9. Nb5 Qc5 10. a3 bxa3 11. Bxa3 1-0

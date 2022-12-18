@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Juliks"]
+[Black "Konikowski"]
+[Result "1/2-1/2"]
+[ECO "C64"]
+[Opening "Ruy Lopez"]
+[Variation "classical defence, 4.c3"]
+[HashCode "381f60f7"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. c3 d5 5. d4 exd4 6. Nxd4 dxe4 7. Qa4 Qf6
+8. Be3 Bd7 9. Nxc6 Bxe3 10. Qxe4+ Kf8 11. O-O Bc5 12. Na5 Bxb5 13. Qxb7
+Bxf1 14. Qxa8+ Ke7 15. Qe4+ Kf8 16. Qa8+ 1/2-1/2
+

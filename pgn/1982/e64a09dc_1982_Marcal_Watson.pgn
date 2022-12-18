@@ -1,0 +1,19 @@
+[Event "US Open"]
+[Site "US Open"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Marcal, P."]
+[Black "Watson, J."]
+[Result "0-1"]
+[ECO "C01"]
+[Opening "French"]
+[Variation "exchange variation"]
+[HashCode "e64a09dc"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. Bd3 Nc6 5. c3 Bd6 6. Nf3 Bg4 7. O-O Nge7
+8. Bg5 Qd7 9. Nbd2 f6 10. Be3 O-O-O 11. c4 Nb4 12. Be2 dxc4 13. Nxc4 Nbd5
+14. Qb3 Be6 15. Rfc1 Kb8 16. Nfd2 Nf4 17. Bf3 Bd5 18. Ne4 Ne2+ 19. Bxe2
+Bxe4 20. Nxd6 Qxd6 21. Rc5 c6 22. Qa4 Nd5 23. Rac1 f5 24. g3 f4 25. Bd2
+fxg3 26. hxg3 Rhf8 27. Bf1 Qf6 28. Be1 Qf3 0-1
+

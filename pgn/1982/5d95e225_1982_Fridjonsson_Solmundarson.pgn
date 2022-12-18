@@ -1,0 +1,20 @@
+[Event "ISL-ch"]
+[Site "Reykjavik"]
+[Date "1982.??.??"]
+[Round "7"]
+[White "Fridjonsson, Julius"]
+[Black "Solmundarson, Magnus"]
+[Result "1-0"]
+[ECO "C10"]
+[Opening "French"]
+[Variation "Rubinstein variation"]
+[HashCode "5d95e225"]
+[Epoch "Rook"]
+[WhiteID "2300842"]
+[BlackID "2300850"]
+[WhiteCountry "ISL"]
+[BlackCountry "ISL"]
+
+1. e4 e6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Nxf6+ Nxf6 7. Bd3 b6
+8. Qe2 Bb7 9. Bg5 h6 10. Bxf6 gxf6 11. O-O-O Qd5 12. Bc4 Qa5 13. d5 e5 14. Nxe5
+1-0

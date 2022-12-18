@@ -1,0 +1,17 @@
+[Event "corr ch11-DDR"]
+[Site "corr ch11-DDR"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Broberg, H."]
+[Black "Kuehn, P."]
+[Result "1/2-1/2"]
+[ECO "C77"]
+[Opening "Ruy Lopez"]
+[Variation "Morphy defence"]
+[HashCode "ec3db1a4"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. d4 exd4 6. O-O Be7 7. Re1 O-O
+8. e5 Ne8 9. c3 d5 10. Nxd4 Nxd4 11. cxd4 g6 12. Bh6 Ng7 13. Nc3 c6 14. Bc2
+f5 15. Qd2 Rf7 16. Ne2 Ne6 17. Red1 1/2-1/2
+

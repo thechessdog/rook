@@ -1,0 +1,20 @@
+[Event "corr Italy"]
+[Site "corr Italy"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Fiorini"]
+[Black "Palmiotto"]
+[Result "1-0"]
+[ECO "B67"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...a6 defence, 8...Bd7"]
+[HashCode "d8069699"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd2 a6 8.
+O-O-O Bd7 9. f3 Nxd4 10. Qxd4 Be7 11. h4 Bc6 12. g4 O-O 13. Bd2 b5 14. h5
+e5 15. Qg1 b4 16. Nb1 d5 17. g5 Ne8 18. g6 Qa5 19. Qh2 h6 20. Bh3 Nc7 21.
+Qg3 Bf6 22. gxf7+ Kxf7 23. Qg6+ Ke7 24. exd5 Nxd5 25. f4 exf4 26. Bxf4 Qxa2
+27. Qe4+ Kd8 28. Qxb4 Ke8 29. Rhe1+ Ne7 30. Rxe7+ Bxe7 31. Re1 Rf7 32. Bd6
+Bd7 33. Bxe7 Bxh3 34. Bh4+ 1-0
+

@@ -1,0 +1,21 @@
+[Event "Rostov"]
+[Site "Rostov"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Kupreichik, Viktor D"]
+[Black "Vaganian, Rafael A"]
+[Result "1-0"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance variation"]
+[HashCode "e4bf524f"]
+[Epoch "Rook"]
+[BlackID "13300016"]
+[WhiteCountry "BLR"]
+[BlackCountry "ARM"]
+
+1. e4 e6 2. d4 d5 3. e5 Ne7 4. Nf3 b6 5. c4 Bb7 6. Nc3 Qd7 7. cxd5 Nxd5 8. Bd3
+c5 9. O-O Nxc3 10. bxc3 cxd4 11. Nxd4 Nc6 12. Rb1 Bc5 13. Be3 O-O-O 14. Bb5
+Bxd4 15. Bxd4 Qd5 16. Bxc6 Bxc6 17. f3 h5 18. a4 Kb7 19. Qe2 Qa5 20. Rb4 Rd5
+21. Rfb1 Rhd8 22. h4 Ka8 23. Kh2 Bxa4 24. Bxb6 axb6 25. Rxb6 Ka7 26. Rb7+ Ka8
+27. Qb2 R8d7 28. Rxd7 Rb5 29. Qe2 Rxe5 30. Rd8+ 1-0

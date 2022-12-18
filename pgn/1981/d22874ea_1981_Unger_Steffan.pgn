@@ -1,0 +1,20 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Unger, G."]
+[Black "Steffan"]
+[Result "1-0"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "modern variation"]
+[HashCode "d22874ea"]
+[Epoch "Rook"]
+
+1. b3 e5 2. Bb2 d6 3. g3 g6 4. Bg2 Nf6 5. e3 Bg7 6. Ne2 O-O 7. O-O Nbd7 8.
+c4 c6 9. Nbc3 Re8 10. d4 Nf8 11. d5 e4 12. dxc6 bxc6 13. Qd2 d5 14. cxd5
+cxd5 15. Nd4 Ne6 16. Nxe6 Bxe6 17. Rfc1 Qd7 18. Ne2 Rac8 19. Rxc8 Rxc8 20.
+a4 Qb7 21. b4 Rc4 22. b5 Nd7 23. Bxg7 Kxg7 24. Nd4 Kg8 25. Bf1 Rc7 26. a5
+Ne5 27. Qb4 Nc6 28. Nxc6 Rxc6 29. Qd4 Rd6 30. Rc1 Rd8 31. h4 h5 32. Kh2 Bd7
+33. b6 1-0
+

@@ -1,0 +1,17 @@
+[Event "Dayton,OH"]
+[Site "Dayton,OH"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Baker"]
+[Black "Wall, Bill"]
+[Result "0-1"]
+[ECO "B15"]
+[Opening "Caro-Kann"]
+[Variation "Alekhine gambit"]
+[HashCode "d904629c"]
+[Epoch "Rook"]
+[BlackCountry "USA"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Bd3 h5 6. Nf3 Bg4 7. Nxf6+ gxf6 8.
+O-O Qc7 9. Re1 e6 10. Bd2 Bd6 11. g3 h4 12. Re3 hxg3 13. fxg3 Bxg3 14. Qf1
+Bxh2+ 15. Kg2 Bh3+ 0-1

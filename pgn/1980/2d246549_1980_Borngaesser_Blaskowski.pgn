@@ -1,0 +1,22 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Borngaesser, Rene"]
+[Black "Blaskowski, Johannes"]
+[Result "1-0"]
+[ECO "B26"]
+[Opening "Sicilian"]
+[Variation "closed, 6.Be3"]
+[HashCode "2d246549"]
+[Epoch "Rook"]
+[WhiteID "4600940"]
+[WhiteCountry "GER"]
+[BlackID "4603656"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. Be3 h5 7. h3 Nh6 8. Qd2 Bd7
+9. Nd1 Qa5 10. c3 O-O-O 11. Ne2 e5 12. a3 Ne7 13. b4 Qc7 14. c4 f5 15. Ndc3 Bc6
+16. b5 Bd7 17. Bg5 Be6 18. b6 axb6 19. Nb5 Qd7 20. a4 Nf7 21. a5 Nxg5 22. Na7+
+Kb8 23. axb6 Bxc4 24. dxc4 Nxe4 25. Qa5 Qe6 26. Nb5 Kc8 27. Qa8+ Kd7 28. Qxb7+
+Ke8 29. Nc7+ 1-0

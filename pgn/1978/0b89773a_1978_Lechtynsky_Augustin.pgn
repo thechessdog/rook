@@ -1,0 +1,20 @@
+[Event "CSR-ch"]
+[Site "Marianske Lazne"]
+[Date "1978.??.??"]
+[Round "12"]
+[White "Lechtynsky, Jiri"]
+[Black "Augustin, Josef"]
+[Result "1/2-1/2"]
+[ECO "E18"]
+[Opening "Queen's Indian"]
+[Variation "old main line, 7.Nc3"]
+[HashCode "0b89773a"]
+[Epoch "Rook"]
+[WhiteID "300217"]
+[BlackID "300373"]
+[WhiteCountry "CZE"]
+[BlackCountry "CZE"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 b6 4. g3 Bb7 5. Bg2 Be7 6. O-O O-O 7. Nc3 Ne4 8. Bd2
+Bf6 9. Rc1 d6 10. Qc2 Nxd2 11. Qxd2 Nd7 12. e4 g6 13. Rfd1 Bg7 14. d5 e5 15. b4
+Qe7 16. Re1 Rfd8 17. Rcd1 a6 1/2-1/2

@@ -1,0 +1,24 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1984.01.01"]
+[Round "10"]
+[White "Kochyev, Alexander"]
+[Black "Mortensen, Erling"]
+[Result "1-0"]
+[ECO "E97"]
+[Opening "King's Indian"]
+[Variation "orthodox, Aronin-Taimanov variation (Yugoslav attack / Mar del Plata variation)"]
+[HashCode "f88fe6cc"]
+[Epoch "Rook"]
+[WhiteID "4100719"]
+[WhiteCountry "RUS"]
+[BlackID "1400045"]
+[BlackCountry "DEN"]
+
+1. Nf3 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. d4 O-O 6. Be2 e5 7. O-O Nc6 8. d5
+Ne7 9. Nd2 c5 10. dxc6 bxc6 11. b4 d5 12. Ba3 a6 13. Re1 Re8 14. Bf1 Ra7 15.
+Bb2 Rd7 16. Qb3 dxe4 17. Ndxe4 Nf5 18. Nxf6+ Qxf6 19. Ne4 Qh4 20. c5 Nd4 21.
+Qa4 Nb5 22. Qa5 f5 23. Bxb5 fxe4 24. g3 Qf6 25. Bc4+ Kh8 26. Rxe4 Rd2 27. Re2
+Rxb2 28. Rxb2 e4 29. Rab1 Qc3 30. Bxa6 Bh3 31. Rb3 Qc2 32. Bf1 Be6 33. Qa3 Bxb3
+34. Qxb3 Qd2 35. Rd1 Qg5 36. Qe3 Qf5 37. Bg2 h5 38. Rd6 Bf8 39. Rxc6 Qd5 40.
+Rxg6 Kh7 1-0

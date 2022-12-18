@@ -1,0 +1,18 @@
+[Event "England tt"]
+[Site "England tt"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Robatsch, Karl"]
+[Black "Hvenekilde, Jorgen"]
+[Result "1-0"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "classical variation (5.Bf4)"]
+[HashCode "44df9916"]
+[Epoch "Rook"]
+[BlackID "1400649"]
+[WhiteCountry "AUT"]
+[BlackCountry "DEN"]
+
+1. c4 Nf6 2. Nc3 e6 3. Nf3 d5 4. d4 Be7 5. Bf4 O-O 6. e3 Re8 7. Rc1 a6 8. a3 c6
+9. Bd3 Nbd7 10. c5 b6 11. cxb6 c5 1-0

@@ -1,0 +1,20 @@
+[Event "Novi Sad"]
+[Site "Novi Sad"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Plachetka, Jan"]
+[Black "Bojkovic, Slobodan"]
+[Result "1-0"]
+[ECO "B10"]
+[Opening "Caro-Kann"]
+[Variation "anti-Caro-Kann defence"]
+[HashCode "f0dc7409"]
+[Epoch "Rook"]
+[WhiteID "14900068"]
+[WhiteCountry "SVK"]
+[BlackID "902829"]
+[BlackCountry "SRB"]
+
+1. c4 c6 2. e4 e5 3. Nf3 d6 4. d4 Nd7 5. Nc3 Ngf6 6. g3 Qa5 7. Bd2 exd4 8. Nxd4
+Qb6 9. Nb3 Ne5 10. Be3 Qc7 11. Rc1 h5 12. h3 Qe7 13. Nd4 g6 14. f4 Ned7 15. Bg2
+Nc5 16. O-O Nfxe4 17. Nxe4 Nxe4 18. Bxe4 Qxe4 19. Re1 Bg4 20. Bf2 1-0

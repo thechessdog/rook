@@ -1,0 +1,19 @@
+[Event "New York op"]
+[Site "New York"]
+[Date "1984.01.01"]
+[Round "3"]
+[White "Sharif, Mehrshad"]
+[Black "Chow, Albert"]
+[Result "0-1"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "classical attack, Berger variation"]
+[HashCode "06ebcd34"]
+[Epoch "Rook"]
+[BlackID "2002167"]
+[BlackCountry "USA"]
+[WhiteCountry "FRA"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Be7 7. O-O Nc6 8.
+Re1 Bg4 9. c3 f5 10. Nbd2 Qd6 11. Qa4 O-O 12. h3 Bh5 13. Qb3 Kh8 14. Qxb7 Rab8
+15. Qa6 Rb6 16. Qa4 g5 17. Nf1 g4 18. hxg4 fxg4 19. Bxe4 gxf3 20. Ng3 dxe4 0-1

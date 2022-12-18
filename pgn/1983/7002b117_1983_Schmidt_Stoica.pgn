@@ -1,0 +1,21 @@
+[Event "Bagneaux"]
+[Site "Bagneaux"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Schmidt, Wlodzimierz"]
+[Black "Stoica, Valentin"]
+[Result "1/2-1/2"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Nimzovich (knight's tour) variation"]
+[HashCode "7002b117"]
+[Epoch "Rook"]
+[WhiteID "1100041"]
+[BlackID "1200070"]
+[WhiteCountry "POL"]
+[BlackCountry "ROU"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. Nd2 Nbd7 8. e4
+Bg7 9. Be2 O-O 10. O-O Re8 11. a4 g5 12. Qc2 Ne5 13. Nc4 Nxc4 14. Bxc4 Nh5 15.
+Ne2 Qe7 16. f3 Be5 17. g3 g4 18. Ra3 gxf3 19. Raxf3 f6 20. Bb5 Rf8 21. Be3 a6
+22. Bd3 b5 23. Nf4 Ng7 24. a5 1/2-1/2

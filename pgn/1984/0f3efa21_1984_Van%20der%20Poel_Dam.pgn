@@ -1,0 +1,22 @@
+[Event "SGS ch"]
+[Site "SGS ch"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Van der Poel, H."]
+[Black "Dam, Ruurd"]
+[Result "1-0"]
+[ECO "B93"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.f4"]
+[HashCode "0f3efa21"]
+[Epoch "Rook"]
+[BlackID "1001132"]
+[BlackCountry "NED"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 e5 7. Nf3 Nbd7 8. a4
+Be7 9. Bd3 b6 10. O-O Bb7 11. fxe5 dxe5 12. Nh4 g6 13. Bh6 Nh5 14. Nf5 Bc5+ 15.
+Kh1 Rg8 16. Bc4 Ndf6 17. Ne3 Bxe3 18. Bxe3 Qc7 19. Qe2 g5 20. Rf5 h6 21. Raf1
+Rg6 22. Nd5 Nxd5 23. exd5 Nf4 24. Bxf4 gxf4 25. Rxe5+ Kf8 26. Rxf4 Rd8 27. Rf2
+b5 28. axb5 axb5 29. Bxb5 Bxd5 30. Re8+ Kg7 31. Rxd8 Qxd8 32. Bd3 Re6 33. Qg4+
+Kf8 34. Qf5 Qd7 35. h3 Re1+ 36. Kh2 Qd6+ 37. Qf4 Qc6 38. Qb8+ Kg7 39. Qg3+ Kf8
+40. Rxf7+ Kxf7 41. Qxe1 Bxg2 1-0

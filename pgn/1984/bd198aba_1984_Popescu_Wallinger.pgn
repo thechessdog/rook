@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Popescu"]
+[Black "Wallinger"]
+[Result "1-0"]
+[ECO "A67"]
+[Opening "Benoni"]
+[Variation "Taimanov variation"]
+[HashCode "bd198aba"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. f4 Bg7 8.
+Bb5+ Nfd7 9. a4 a6 10. Be2 O-O 11. Nf3 Re8 12. O-O Nf6 13. Nd2 Nbd7 14. Bf3
+Rb8 15. Nc4 Nb6 16. Na3 Nfd7 17. Re1 g5 18. a5 Na8 19. Nc4 Nf8 20. fxg5 Ng6
+21. e5 Nxe5 22. Nxe5 Bxe5 23. Be4 1-0
+

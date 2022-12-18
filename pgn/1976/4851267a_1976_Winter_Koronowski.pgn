@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Winter, K."]
+[Black "Koronowski, H."]
+[Result "1-0"]
+[ECO "C57"]
+[Opening "two knights defence"]
+[Variation "Wilkes Barre (Traxler) variation"]
+[HashCode "4851267a"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 Bc5 5. Nxf7 Bxf2+ 6. Kxf2 Nxe4+ 7.
+Kg1 Qh4 8. g3 Nxg3 9. Nxh8 d5 10. Qf3 Qd4+ 11. Kg2 Nf5 12. Qh5+ g6 13. Nxg6
+hxg6 14. Qxg6+ Ke7 15. Qh7+ Kd6 16. Be2 Qe4+ 17. Kf2 Qxh1 18. Nc3 Ncd4 19.
+b3 c5 20. Bb2 1-0
+

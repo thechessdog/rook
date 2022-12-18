@@ -1,0 +1,17 @@
+[Event "corr ICCF Cup"]
+[Site "corr ICCF Cup"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Kruger"]
+[Black "Van der Kooij, Jaap"]
+[Result "1/2-1/2"]
+[ECO "C57"]
+[Opening "two knights defence"]
+[Variation "Wilkes Barre (Traxler) variation"]
+[HashCode "93f69ffc"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 Bc5 5. Bxf7+ Ke7 6. Bd5 Rf8 7. Nf3
+Qe8 8. c3 d6 9. d4 exd4 10. cxd4 Bb4+ 11. Bd2 Nxd5 12. exd5 Kf7+ 13. Qe2
+Bxd2+ 14. Kxd2 Qxe2+ 15. Kxe2 Nb4 16. Nc3 Bg4 17. Kd2 1/2-1/2
+

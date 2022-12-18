@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Silberberg, A."]
+[Black "Toth, Bela"]
+[Result "1-0"]
+[ECO "A56"]
+[Opening "Benoni defence, Hromodka system"]
+[HashCode "c7231d5a"]
+[Epoch "Rook"]
+[BlackID "736112"]
+[BlackCountry "ITA"]
+
+1. d4 Nf6 2. c4 c5 3. d5 d6 4. Nc3 g6 5. e4 Bg7 6. Nf3 O-O 7. Bg5 h6 8. Bf4 Nh5
+9. Be3 f5 10. exf5 gxf5 11. Nh4 Nf6 12. h3 f4 13. Bxf4 Nxd5 14. Bxh6 Bxh6 15.
+Nxd5 Rf4 16. Qd3 Qa5+ 17. Nc3 Rxh4 18. g3 Rd4 19. Qg6+ Bg7 20. Qe8+ Kh7 21.
+Qxc8 1-0

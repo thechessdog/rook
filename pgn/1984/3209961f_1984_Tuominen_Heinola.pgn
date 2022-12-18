@@ -1,0 +1,21 @@
+[Event "Tampere"]
+[Site "Tampere"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Tuominen, M."]
+[Black "Heinola, Kari P."]
+[Result "1-0"]
+[ECO "C00"]
+[Opening "French"]
+[Variation "Reti (Spielmann) variation"]
+[HashCode "3209961f"]
+[Epoch "Rook"]
+[BlackID "503495"]
+[BlackCountry "FIN"]
+
+1. e4 e6 2. b3 Nf6 3. Nc3 d5 4. Bb2 a6 5. e5 Nfd7 6. f4 c5 7. Nf3 Nc6 8. Be2
+Be7 9. O-O b5 10. Kh1 g6 11. d4 Qb6 12. Bd3 Bb7 13. a4 cxd4 14. Ne2 Bc5 15.
+axb5 axb5 16. Rxa8+ Bxa8 17. Qe1 Ndb8 18. Qh4 Nb4 19. Nc1 Nd7 20. Qh6 Bf8 21.
+Qh3 Bc5 22. Ng5 h6 23. Nf3 Bb7 24. g4 Nc6 25. f5 Kd8 26. fxe6 fxe6 27. g5 Ncxe5
+28. Nxe5 Nxe5 29. gxh6 Nc4 30. Ba1 Ne3 31. Rf6 Qa5 32. Qh4 Qxa1 33. Rf8+ Kc7
+34. Qd8+ Kc6 35. Qe8+ Kb6 36. Qxb5+ Ka7 37. Qxc5# 1-0

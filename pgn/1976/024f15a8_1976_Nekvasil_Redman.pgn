@@ -1,0 +1,19 @@
+[Event "Univ Chicago"]
+[Site "Univ Chicago"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Nekvasil, M."]
+[Black "Redman, T."]
+[Result "0-1"]
+[ECO "B52"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky attack, Sokolsky variation"]
+[HashCode "024f15a8"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Qxd7 5. c4 Nc6 6. Nc3 g6 7. d3 Bg7
+8. O-O Nh6 9. h3 O-O 10. Be3 f5 11. Qd2 fxe4 12. dxe4 Rxf3 13. Bxh6 Ne5 14.
+Bxg7 Kxg7 15. Qe2 Raf8 16. Nd5 e6 17. Nc3 Qe7 18. Rad1 Qh4 19. Rxd6 Rxh3
+20. Rd7+ Kg8 21. gxh3 Nf3+ 22. Kg2 Qg5+ 23. Kh1 Qf4 24. Qxf3 Qxf3+ 25. Kg1
+Rf4 26. Rxb7 g5 27. Rd1 Qxf2+ 28. Kh1 Rf8 0-1
+

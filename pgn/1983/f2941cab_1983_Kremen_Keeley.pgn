@@ -1,0 +1,24 @@
+[Event "E Detroit Motor City op"]
+[Site "E Detroit Motor City op"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Kremen, P."]
+[Black "Keeley, G."]
+[Result "1-0"]
+[ECO "A06"]
+[Opening "Reti"]
+[Variation "Nimzovich-Larsen attack"]
+[HashCode "f2941cab"]
+[Epoch "Rook"]
+
+1. Nf3 d5 2. b3 Nf6 3. Bb2 Nc6 4. e3 Bf5 5. Bb5 a6 6. Bxc6+ bxc6 7. O-O e6
+8. Ne5 Qd6 9. d4 Be7 10. Ba3 Qd8 11. Nxc6 Qd7 12. Nxe7 Bg4 13. f3 Bh5 14.
+Re1 Qb5 15. Qd2 Nd7 16. Qb4 f6 17. Nc6 Qxb4 18. Nxb4 O-O 19. Nd3 Rfb8 20.
+g4 Bf7 21. Nd2 e5 22. dxe5 fxe5 23. Bb2 Re8 24. c4 dxc4 25. Nxc4 e4 26.
+fxe4 Rxe4 27. h3 a5 28. Nce5 Nxe5 29. Nxe5 Be6 30. Rac1 Rc8 31. Nc6 Bd7 32.
+Nxa5 Ra8 33. Rxc7 Re7 34. b4 Rb8 35. Nc6 Bxc6 36. Rxe7 Kf8 37. Rc7 Bd5 38.
+Bxg7+ Kg8 39. a3 Bb7 40. Be5 Re8 41. Rxb7 Rxe5 42. Kf2 Rd5 43. Ke2 Rd8 44.
+a4 Rc8 45. Rd1 Rc2+ 46. Rd2 Rc8 47. a5 Ra8 48. Rb6 Rc8 49. a6 Ra8 50. b5
+Kg7 51. Rb7+ Kh6 52. a7 Kg5 53. b6 Kh4 54. Rb8 Rxb8 55. axb8=Q h5 56. gxh5
+Kg5 57. h6 Kh4 58. Rd4+ Kh5 59. Qe5+ Kg6 60. Rg4+ Kh7 61. Qg7# 1-0
+

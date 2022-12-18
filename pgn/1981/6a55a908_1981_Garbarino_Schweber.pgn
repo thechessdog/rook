@@ -1,0 +1,19 @@
+[Event "Moron"]
+[Site "Moron"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Garbarino, Rodolfo"]
+[Black "Schweber, Samuel"]
+[Result "1-0"]
+[ECO "B43"]
+[Opening "Sicilian"]
+[Variation "Kan, 5.Nc3"]
+[HashCode "6a55a908"]
+[Epoch "Rook"]
+[WhiteID "100412"]
+[WhiteCountry "ARG"]
+[BlackCountry "ARG"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 Qc7 6. g3 Bb4 7. Ne2 Ne7 8. Qd4
+Nbc6 9. Qxg7 Rg8 10. Qh6 d5 11. exd5 exd5 12. Bf4 Qa5 13. O-O-O Bf5 14. Bh3 d4
+15. Bxf5 Nxf5 16. Qxh7 O-O-O 17. Ne4 Rg7 18. Qh3 Qd5 19. Nxd4 1-0

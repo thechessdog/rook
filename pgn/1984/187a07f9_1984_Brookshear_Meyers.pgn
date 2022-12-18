@@ -1,0 +1,17 @@
+[Event "Kentucky"]
+[Site "Kentucky"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Brookshear, T."]
+[Black "Meyers, P."]
+[Result "1-0"]
+[ECO "C35"]
+[Opening "KGA"]
+[Variation "Cunningham defence"]
+[HashCode "187a07f9"]
+[Epoch "Rook"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 Be7 4. Bc4 Bh4+ 5. Kf1 Nh6 6. d4 O-O 7. Bxf4 Qf6
+8. g3 d6 9. Bxh6 Bh3+ 10. Kf2 gxh6 11. gxh4 Kh8 12. Rg1 Nc6 13. Nc3 Rg8 14.
+Nd5 Qd8 15. Qd2 Ne7 16. Qxh6 Rg6 17. Rxg6 Nxg6 18. Ng5 Qg8 19. Nf6 1-0
+

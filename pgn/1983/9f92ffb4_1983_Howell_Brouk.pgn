@@ -1,0 +1,17 @@
+[Event "EU-ch U20"]
+[Site "Groningen"]
+[Date "1983.??.??"]
+[Round "5"]
+[White "Howell, James C"]
+[Black "Brouk, Ofer"]
+[Result "1/2-1/2"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (without ...d6)"]
+[HashCode "9f92ffb4"]
+[Epoch "Rook"]
+[WhiteID "400297"]
+[WhiteCountry "ENG"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 d6 4. O-O g6 5. d4 Bd7 6. dxc5 dxc5 7. Be3 Bg7 8. c3
+b6 9. Qa4 Qc8 10. Qc2 Nf6 11. Nbd2 O-O 12. Rfe1 Ne5 1/2-1/2

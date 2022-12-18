@@ -1,0 +1,18 @@
+[Event "corr DDR/FS"]
+[Site "corr DDR/FS"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Kuehne, R."]
+[Black "Maier"]
+[Result "1-0"]
+[ECO "A35"]
+[Opening "English"]
+[Variation "symmetrical, four knights system"]
+[HashCode "3a72a000"]
+[Epoch "Rook"]
+
+1. c4 c5 2. Nc3 Nc6 3. Nf3 Nf6 4. d4 d5 5. cxd5 Nxd5 6. g3 cxd4 7. Nxd4
+Nxd4 8. Qxd4 Nxc3 9. bxc3 Qc7 10. Bf4 Qc6 11. e4 f6 12. Bc4 Be6 13. Bd5 Qa6
+14. Bxe6 Qxe6 15. O-O Rd8 16. Qxa7 Qxe4 17. Rab1 Rd7 18. Rb4 Qc6 19. Rb6
+Qxc3 20. Qa4 e5 21. Be3 1-0
+

@@ -1,0 +1,18 @@
+[Event "Moscow-ch"]
+[Site "Moscow"]
+[Date "1981.01.01"]
+[Round "5"]
+[White "Razuvaev, Yuri S"]
+[Black "Antoshin, Vladimir S"]
+[Result "1-0"]
+[ECO "E15"]
+[Opening "Queen's Indian"]
+[Variation "Nimzovich variation (exaggerated fianchetto)"]
+[HashCode "e94ae82b"]
+[Epoch "Rook"]
+[WhiteCountry "RUS"]
+[BlackCountry "RUS"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. Nbd2 d5 6. Bg2 Be7 7. O-O O-O 8. Ne5
+c5 9. cxd5 exd5 10. Ndf3 Ne4 11. dxc5 bxc5 12. Nd2 Nf6 13. Ndc4 Bb7 14. Qb3 Ba6
+15. Ne3 Bxe2 16. Re1 c4 17. Qb7 Bh5 18. Qxa8 Bb4 19. Rf1 Qe7 20. Nxd5 1-0

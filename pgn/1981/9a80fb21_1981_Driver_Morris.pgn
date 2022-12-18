@@ -1,0 +1,18 @@
+[Event "Dayton,OH"]
+[Site "Dayton,OH"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Driver, D."]
+[Black "Morris, Matthew"]
+[Result "0-1"]
+[ECO "B13"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik, Gunderam attack"]
+[HashCode "9a80fb21"]
+[Epoch "Rook"]
+[BlackID "2006081"]
+[BlackCountry "USA"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. c5 Nc6 6. a3 g6 7. b4 Bg7 8. b5
+Nxd4 9. Bh6 Bxh6 10. Qxd4 Bg7 11. Ra2 O-O 12. Bd3 e5 13. Qb4 e4 14. Bc2 d4 15.
+Nd2 Nd5 16. Qb3 d3 17. Bd1 Nf4 18. g3 Be6 19. Nc4 Qd5 20. Na5 Qxc5 0-1

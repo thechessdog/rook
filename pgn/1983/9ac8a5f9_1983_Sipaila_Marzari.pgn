@@ -1,0 +1,18 @@
+[Event "Mar del Plata"]
+[Site "Mar del Plata"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Sipaila"]
+[Black "Marzari"]
+[Result "1-0"]
+[ECO "B07"]
+[Opening "Pirc"]
+[Variation "bayonet (Mariotti) attack"]
+[HashCode "9ac8a5f9"]
+[Epoch "Rook"]
+
+1. e4 Nf6 2. Nc3 d6 3. d4 g6 4. Be2 Bg7 5. h4 c5 6. dxc5 Qa5 7. cxd6 Nxe4
+8. dxe7 Nxc3 9. bxc3 Qxc3+ 10. Kf1 Qd4 11. Qxd4 Bxd4 12. Rb1 Bf6 13. h5 g5
+14. h6 Bxe7 15. Nf3 f6 16. Bb2 Rf8 17. Bd3 Rf7 18. Bg6 hxg6 19. h7 Rxh7 20.
+Rxh7 1-0
+

@@ -1,0 +1,18 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Kell, K."]
+[Black "Selke, H."]
+[Result "1-0"]
+[ECO "E59"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line"]
+[HashCode "467acbff"]
+[Epoch "Rook"]
+
+1. d4 e6 2. c4 Nf6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 c5 7. O-O Nc6 8.
+a3 Bxc3 9. bxc3 dxc4 10. Bxc4 Qc7 11. Qe2 e5 12. e4 exd4 13. e5 Re8 14. Bf4
+Be6 15. Bxe6 Rxe6 16. Ng5 Nd5 17. Qe4 Nxf4 18. Qxh7+ Kf8 19. Nxe6+ fxe6 20.
+Qh8+ Kf7 21. Qxa8 Nxe5 22. Rab1 Ne2+ 23. Kh1 b6 24. Qe4 1-0
+

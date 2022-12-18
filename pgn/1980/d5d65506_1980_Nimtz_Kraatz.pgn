@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Nimtz, M."]
+[Black "Kraatz, W."]
+[Result "1-0"]
+[ECO "C13"]
+[Opening "French"]
+[Variation "Albin-Alekhine-Chatard attack, Breyer variation"]
+[HashCode "d5d65506"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Nfd7 6. h4 c5 7. Bxe7 Kxe7 8.
+f4 Nc6 9. dxc5 Nxc5 10. Qg4 Kf8 11. O-O-O Bd7 12. Nf3 Qa5 13. Rh3 h5 14.
+Qg5 Nb4 15. Rg3 Rh7 16. Nd2 d4 17. Nc4 Nxa2+ 18. Nxa2 Qxa2 19. Bd3 Nxd3+
+20. Rgxd3 Rh6 21. Rxd4 Rg6 22. Qxh5 Rh6 23. Qg4 Rg6 24. Qh3 1-0
+

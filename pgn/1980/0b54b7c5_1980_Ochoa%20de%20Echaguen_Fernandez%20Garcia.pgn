@@ -1,0 +1,18 @@
+[Event "Capablanca mem-B"]
+[Site "Cienfuegos"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Ochoa de Echaguen, F Javier"]
+[Black "Fernandez Garcia, Jose Luis"]
+[Result "1/2-1/2"]
+[ECO "B67"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...a6 defence, 8...Bd7"]
+[HashCode "0b54b7c5"]
+[Epoch "Rook"]
+[WhiteCountry "ESP"]
+[BlackCountry "ESP"]
+[WhiteID "2200210"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 e6 7. Qd2 a6 8.
+O-O-O Bd7 9. f3 Be7 10. Be3 b5 1/2-1/2

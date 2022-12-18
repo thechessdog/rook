@@ -1,0 +1,21 @@
+[Event "Orebro"]
+[Site "Orebro"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Backe, Peter"]
+[Black "Johansson, Martin"]
+[Result "1-0"]
+[ECO "A68"]
+[Opening "Benoni"]
+[Variation "four pawns attack"]
+[HashCode "f7528e59"]
+[Epoch "Rook"]
+[WhiteID "1701240"]
+[WhiteCountry "SWE"]
+[BlackCountry "SWE"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. f4 Bg7 8. Nf3
+O-O 9. Bd3 Re8 10. O-O a6 11. a4 Nbd7 12. h3 c4 13. Bc2 Rb8 14. Re1 Nc5 15. Kh2
+Re7 16. a5 Ne8 17. Be3 Qc7 18. Na4 Bd7 19. Nxc5 Bb5 20. Na4 Qd7 21. Nc3 Rc8 22.
+Qd2 Nf6 23. Nd4 Rce8 24. Bf2 Bh6 25. g3 Re5 26. Kg2 Rh5 27. Rh1 g5 28. Nf5 g4
+29. Nxh6+ Rxh6 30. h4 1-0

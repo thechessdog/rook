@@ -1,0 +1,17 @@
+[Event "Albania"]
+[Site "Albania"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Ciocaltea, Victor"]
+[Black "Spirov, Todor"]
+[Result "1-0"]
+[ECO "B31"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (with ...g6, without ...d6)"]
+[HashCode "d264f223"]
+[Epoch "Rook"]
+[WhiteCountry "ROU"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. c3 Qb6 6. Na3 a6 7. Ba4 e6 8. Nc4
+Qc7 9. Bxc6 bxc6 10. e5 f6 11. d4 cxd4 12. cxd4 Ne7 13. Nd6+ Kf8 14. b3 h6 15.
+Ba3 Qd8 16. Nh4 Rh7 17. Nxc8 1-0

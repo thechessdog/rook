@@ -1,0 +1,19 @@
+[Event "BL7980"]
+[Site "BL7980"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Kubitzek"]
+[Black "Leckel"]
+[Result "0-1"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "classical variation"]
+[HashCode "72f280db"]
+[Epoch "Rook"]
+
+1. b3 d5 2. Bb2 c5 3. e3 Nc6 4. f4 Nf6 5. Nf3 a6 6. Be2 e6 7. O-O d4 8. Ne5
+Bd7 9. a4 dxe3 10. dxe3 Nxe5 11. fxe5 Nd5 12. Rf3 g5 13. Nd2 g4 14. Rg3 h5
+15. Ne4 Be7 16. c4 h4 17. cxd5 hxg3 18. Nxg3 Bg5 19. Qd3 Qb6 20. Ne4 c4 21.
+Qxc4 Qxe3+ 22. Kh1 exd5 23. Qxd5 Be6 24. Qxb7 Rd8 25. Nd6+ Kf8 26. Rf1 Bf4
+27. h3 Rxh3+ 28. gxh3 Qxh3+ 0-1
+

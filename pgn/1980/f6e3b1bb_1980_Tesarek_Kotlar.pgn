@@ -1,0 +1,22 @@
+[Event "corr ch-CSSR"]
+[Site "corr ch-CSSR"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Tesarek"]
+[Black "Kotlar"]
+[Result "1-0"]
+[ECO "C29"]
+[Opening "Vienna gambit"]
+[Variation "Kaufmann variation"]
+[HashCode "f6e3b1bb"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nc3 Nf6 3. f4 d5 4. fxe5 Nxe4 5. Nf3 Bg4 6. Qe2 Ng5 7. h4 Bxf3
+8. Qb5+ Nc6 9. hxg5 Bg4 10. d4 Bb4 11. Be3 O-O 12. Bd3 g6 13. Be2 Qd7 14.
+Rh4 Bf5 15. O-O-O Bxc3 16. bxc3 a6 17. Qc5 b6 18. Qa3 Na5 19. Rh6 Kg7 20.
+Rdh1 Rh8 21. Bf4 Qe6 22. g3 Nb7 23. R1h4 c5 24. g4 Be4 25. Bd3 Bxd3 26.
+cxd3 Nd8 27. dxc5 bxc5 28. Qb2 Kf8 29. Qg2 Ke7 30. c4 Qb6 31. Qxd5 Ne6 32.
+Qd6+ Qxd6 33. exd6+ Kd7 34. Be3 Kxd6 35. Rxh7 Rxh7 36. Rxh7 Rf8 37. Kc2 Ke5
+38. Kc3 a5 39. Rh2 f5 40. gxf6 Rxf6 41. Rf2 Rxf2 42. Bxf2 Kd6 43. d4 cxd4+
+44. Bxd4 1-0
+

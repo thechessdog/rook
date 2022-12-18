@@ -1,0 +1,22 @@
+[Event "IBM-B"]
+[Site "Amsterdam II"]
+[Date "1979.07.01"]
+[Round "2"]
+[White "Van Riemsdijk, Herman Claudius"]
+[Black "Enklaar, Bertus F"]
+[Result "0-1"]
+[ECO "B43"]
+[Opening "Sicilian"]
+[Variation "Kan, 5.Nc3"]
+[HashCode "1a16bf0b"]
+[Epoch "Rook"]
+[WhiteID "2100053"]
+[WhiteCountry "BRA"]
+[BlackCountry "NLD"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 b5 6. Bd3 Bb7 7. O-O Bc5 8. Nb3
+Bb6 9. a4 b4 10. a5 Ba7 11. Na2 Qh4 12. Nd2 Nf6 13. Qe2 d5 14. e5 Nfd7 15. Nf3
+Qe7 16. c3 bxc3 17. bxc3 Nc5 18. Ba3 Qc7 19. c4 Nxd3 20. Qxd3 dxc4 21. Rfc1 Bd5
+22. Bd6 Qd7 23. Qe2 Nc6 24. Nc3 Ne7 25. Ng5 O-O 26. Qc2 Ng6 27. Bxf8 Rxf8 28.
+Rd1 Qe7 29. Nxd5 exd5 30. Qf5 d4 31. e6 f6 32. Nxh7 Kxh7 33. Re1 Qc5 34. Qh3+
+Kg8 35. Re4 f5 36. e7 Re8 37. Rae1 d3 38. R4e3 Rxe7 0-1

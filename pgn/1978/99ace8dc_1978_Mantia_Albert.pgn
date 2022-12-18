@@ -1,0 +1,18 @@
+[Event "Dayton,OH"]
+[Site "Dayton,OH"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Mantia, Anthony"]
+[Black "Albert, William"]
+[Result "1-0"]
+[ECO "C17"]
+[Opening "French"]
+[Variation "Winawer, advance, Bogolyubov variation"]
+[HashCode "99ace8dc"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. Bd2 cxd4 6. Nb5 Bc5 7. b4 Be7 8.
+Nf3 Nc6 9. a3 f6 10. Bf4 fxe5 11. Nxe5 Nf6 12. Nxc6 bxc6 13. Nc7+ Kf7 14.
+Nxa8 Bb7 15. Nc7 Bd6 16. Bxd6 Qxd6 17. Na6 Ne4 18. Qxd4 Re8 19. Rd1 Re7 20.
+Qxe4 1-0
+

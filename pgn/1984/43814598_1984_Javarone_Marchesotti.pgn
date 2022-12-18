@@ -1,0 +1,17 @@
+[Event "Italy"]
+[Site "Italy"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Javarone, P."]
+[Black "Marchesotti, G."]
+[Result "1-0"]
+[ECO "B42"]
+[Opening "Sicilian"]
+[Variation "Kan, 5.Bd3"]
+[HashCode "43814598"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Nf6 6. O-O d6 7. c4 Qc7 8.
+Nc3 Bd7 9. Qe2 Be7 10. f4 Nc6 11. Nf3 O-O 12. e5 dxe5 13. fxe5 Ng4 14. Bf4
+Bc5+ 15. Kh1 Nb4 16. Bxh7+ Kxh7 17. Ng5+ Kg8 18. Qxg4 Be7 19. Nge4 1-0
+

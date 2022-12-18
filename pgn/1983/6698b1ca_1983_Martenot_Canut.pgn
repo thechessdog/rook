@@ -1,0 +1,16 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Martenot"]
+[Black "Canut"]
+[Result "0-1"]
+[ECO "D00"]
+[Opening "Blackmar gambit"]
+[HashCode "6698b1ca"]
+[Epoch "Rook"]
+
+1. d4 d5 2. e4 dxe4 3. Nc3 Nf6 4. f3 exf3 5. Qxf3 c6 6. Bd3 g6 7. Nge2 Bg7
+8. Bf4 O-O 9. O-O-O Qa5 10. Qe3 Be6 11. Bxb8 Raxb8 12. Nf4 Bh6 13. g3 b5
+14. a3 b4 15. Nb1 bxa3 16. bxa3 Rxb1+ 0-1
+

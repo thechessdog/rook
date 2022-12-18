@@ -1,0 +1,21 @@
+[Event "Belgrade"]
+[Site "Belgrade"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Sznapik, Aleksander"]
+[Black "Vujacic, Borivoje"]
+[Result "1-0"]
+[ECO "B77"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, 9...Bd7"]
+[HashCode "b3211d2e"]
+[Epoch "Rook"]
+[WhiteID "1100050"]
+[WhiteCountry "POL"]
+[BlackID "903000"]
+[BlackCountry "SRB"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 Nc6 8. Qd2
+O-O 9. Bc4 Bd7 10. h4 Rc8 11. Bb3 Ne5 12. O-O-O Nc4 13. Bxc4 Rxc4 14. Kb1 h5
+15. Nde2 Qc7 16. Bh6 b5 17. Bxg7 Kxg7 18. Nf4 Qa5 19. g4 Rfc8 20. gxh5 b4 21.
+h6+ Kh7 22. Ncd5 Rxc2 23. Qd4 Qc5 24. Nxf6+ 1-0

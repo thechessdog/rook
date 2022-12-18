@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Higuera"]
+[Black "Ramos Suria, Felix"]
+[Result "0-1"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical (two knights) system"]
+[HashCode "79edaa83"]
+[Epoch "Rook"]
+[BlackID "2201259"]
+[BlackCountry "ESP"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Nf3 Bg7 5. Bg5 O-O 6. Qd2 c6 7. a4 Bg4 8. Be2
+Nbd7 9. h3 Bxf3 10. Bxf3 e5 11. O-O-O Qc7 12. Bg4 exd4 13. Bxd7 dxc3 14. Qxd6
+Qxd6 15. Rxd6 Nxe4 0-1

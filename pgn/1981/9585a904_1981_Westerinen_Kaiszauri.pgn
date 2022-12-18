@@ -1,0 +1,24 @@
+[Event "Gausdal Int"]
+[Site "Gausdal"]
+[Date "1981.??.??"]
+[Round "6"]
+[White "Westerinen, Heikki M.J."]
+[Black "Kaiszauri, Konstanty"]
+[Result "1-0"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, 6.Be3"]
+[HashCode "9585a904"]
+[Epoch "Rook"]
+[BlackID "1700510"]
+[WhiteID "500020"]
+[WhiteCountry "FIN"]
+[BlackCountry "SWE"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 O-O 6. Be3 Nbd7 7. e5 Ng4 8. Bg1
+c5 9. Qe2 cxd4 10. Bxd4 dxe5 11. fxe5 Nb8 12. h3 Nh6 13. O-O-O Qa5 14. Qb5 Qxb5
+15. Bxb5 a6 16. Bc4 Nc6 17. Be3 Kh8 18. Rhe1 b5 19. Bd5 Bb7 20. Ne4 Na5 21.
+Bxb7 Nxb7 22. g4 f5 23. exf6 exf6 24. Rd7 Rf7 25. Rxf7 Nxf7 26. Bd4 f5 27. gxf5
+gxf5 28. Ng3 Nbd6 29. Re7 Rg8 30. Bxg7+ Rxg7 31. Nh5 Rg2 32. Ra7 h6 33. Ra8+
+Kh7 34. Nf6+ Kg7 35. Rg8+ Kxf6 36. Rxg2 Ng5 37. Nd4 f4 38. h4 Nge4 39. Rg8 h5
+40. Rf8+ Nf7 41. Kd1 1-0

@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Delvalle, D."]
+[Black "Adler, Joel"]
+[Result "1-0"]
+[ECO "C40"]
+[Opening "Latvian gambit, 3.Bc4"]
+[HashCode "1d0682f9"]
+[Epoch "Rook"]
+[BlackID "1300563"]
+[BlackCountry "SUI"]
+
+1. e4 e5 2. Nf3 f5 3. Bc4 fxe4 4. Nxe5 Qg5 5. d4 Qxg2 6. Qh5+ g6 7. Bf7+ Kd8 8.
+Bxg6 Qxh1+ 9. Ke2 Qxc1 10. Nf7+ Ke8 11. Nxh8+ Kd8 12. Nf7+ Ke8 13. Qxh7 Qxc2+
+14. Nd2 Nf6 15. Ne5+ Kd8 16. Qf7 Be7 17. Qe8+ Nxe8 18. Nf7# 1-0

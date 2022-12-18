@@ -1,0 +1,20 @@
+[Event "Suhl ch-DDR wmn"]
+[Site "Suhl ch-DDR wmn"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Espig, Gesine"]
+[Black "Starck, Ines"]
+[Result "0-1"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "modern variation"]
+[HashCode "c1b7d04e"]
+[Epoch "Rook"]
+[WhiteID "4612523"]
+[WhiteCountry "GER"]
+[BlackID "4612477"]
+[BlackCountry "GER"]
+
+1. b3 e5 2. Bb2 Nc6 3. c4 g6 4. e4 Bg7 5. g3 Nge7 6. f4 d6 7. Bg2 O-O 8. Ne2
+Bg4 9. Nbc3 exf4 10. gxf4 Nd4 11. Qc1 Nec6 12. Ng3 h5 13. h3 Qh4 14. Kf2 Nb4
+15. Qf1 Nf5 0-1

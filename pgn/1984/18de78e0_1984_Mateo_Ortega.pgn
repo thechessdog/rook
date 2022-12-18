@@ -1,0 +1,19 @@
+[Event "Bayamo"]
+[Site "Bayamo"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Mateo, Ramon"]
+[Black "Ortega, Lexy"]
+[Result "1/2-1/2"]
+[ECO "B12"]
+[Opening "Caro-Kann"]
+[Variation "advance variation"]
+[HashCode "18de78e0"]
+[Epoch "Rook"]
+[BlackID "811416"]
+[BlackCountry "ITA"]
+[WhiteID "6400019"]
+[WhiteCountry "DOM"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nc3 e6 5. g4 Bg6 6. Nge2 f6 7. Nf4 Bf7 8. exf6
+gxf6 9. Qe2 Qe7 10. Nd3 Nd7 11. Bf4 Bg7 12. h4 1/2-1/2

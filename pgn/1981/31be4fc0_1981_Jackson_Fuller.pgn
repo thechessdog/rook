@@ -1,0 +1,17 @@
+[Event "ECI wom"]
+[Site "ECI wom"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Jackson, Oliver A"]
+[Black "Fuller, Maxwell Leonard"]
+[Result "1-0"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "31be4fc0"]
+[Epoch "Rook"]
+[WhiteID "403156"]
+[WhiteCountry "ENG"]
+[BlackCountry "AUS"]
+
+1. e4 c5 2. c3 d6 3. d4 b6 4. Nf3 Nf6 5. dxc5 Nxe4 6. Qa4+ Qd7 7. Bb5 1-0

@@ -1,0 +1,20 @@
+[Event "Moscow"]
+[Site "Moscow"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Savon, Vladimir"]
+[Black "Balashov, Yuri S"]
+[Result "1/2-1/2"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "4.Nf3"]
+[HashCode "737f8bba"]
+[Epoch "Rook"]
+[WhiteID "14138786"]
+[BlackID "4100263"]
+[WhiteCountry "UKR"]
+[BlackCountry "RUS"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. Bg5 h6 6. Bh4 O-O 7. Rc1 b6 8. cxd5
+Nxd5 9. Bxe7 Qxe7 10. Nxd5 exd5 11. Qd2 Be6 12. g3 c5 13. Ne5 Nd7 14. Nxd7 Qxd7
+15. dxc5 Rfc8 16. Bg2 Rxc5 1/2-1/2

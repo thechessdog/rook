@@ -1,0 +1,22 @@
+[Event "Katerini"]
+[Site "Katerini"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Ghinda, Mihail-Viorel"]
+[Black "Arduman, Can"]
+[Result "1-0"]
+[ECO "B68"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...a6 defence, 9...Be7"]
+[HashCode "8f8f74bc"]
+[Epoch "Rook"]
+[BlackID "6300022"]
+[BlackCountry "TUR"]
+[WhiteCountry "ROU"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd2 a6 8.
+O-O-O Bd7 9. f4 Be7 10. Be2 O-O 11. Nf3 Ne8 12. Bxe7 Nxe7 13. e5 d5 14. Bd3 Nc7
+15. Qe2 Ng6 16. g3 Qe7 17. h4 Rfc8 18. Nd4 b5 19. Bxg6 fxg6 20. h5 Be8 21. Qd3
+b4 22. Nce2 a5 23. g4 Na6 24. hxg6 Bxg6 25. f5 Qg5+ 26. Kb1 Bf7 27. Rdg1 Nc5
+28. Qh3 h6 29. Nf3 Qe3 30. g5 Qxe2 31. gxh6 Ne4 32. hxg7 Qxc2+ 33. Ka1 Bg6 34.
+fxg6 1-0

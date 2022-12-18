@@ -1,0 +1,25 @@
+[Event "corr EUR/K"]
+[Site "corr EUR/K"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Sandklef, A."]
+[Black "Palm, Hans"]
+[Result "0-1"]
+[ECO "E55"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Gligoric system, Bronstein variation"]
+[HashCode "22da3719"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 O-O 6. Nf3 d5 7. O-O dxc4 8.
+Bxc4 Nbd7 9. Qb3 b6 10. Rd1 Bb7 11. d5 b5 12. Bxb5 exd5 13. Na4 Rb8 14. a3
+Ba5 15. Qc2 Qe7 16. b3 Rfc8 17. Bb2 d4 18. Qe2 dxe3 19. Bc4 exf2+ 20. Qxf2
+Ng4 21. Qg3 Qe3+ 22. Kf1 Ndf6 23. Bxf6 Bxf3 24. gxf3 Nxf6 25. Rd3 Qh6 26.
+h4 Ne4 27. Bxf7+ Kxf7 28. fxe4 Kg8 29. Rad1 Bd8 30. Rf3 Bxh4 31. Qe5 Rd8
+32. Nc3 Qa6+ 33. Kg2 Bf6 34. Rxd8+ Rxd8 35. Qxc5 Bxc3 36. Qxc3 Qg6+ 37. Kh2
+Qxe4 38. Rg3 Qe2+ 39. Rg2 Qh5+ 40. Kg3 Qg6+ 41. Kh2 Qd6+ 42. Kh3 Qd3+ 43.
+Rg3 Qf5+ 44. Kh2 Qh5+ 45. Kg2 Qd5+ 46. Kh2 Qd2+ 47. Kh3 Qh6+ 48. Kg4 Qe6+
+49. Kh4 g6 50. Re3 g5+ 51. Kg3 Qd6+ 52. Qe5 h5 53. Qxd6 Rxd6 54. Re5 Rg6
+55. Ra5 Kh7 56. Rxa7+ Kh6 57. Rc7 Rd6 58. b4 h4+ 59. Kg2 Rd2+ 60. Kh3 Kh5
+0-1
+

@@ -1,0 +1,16 @@
+[Event "corr EU"]
+[Site "corr EU"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Butze, Roland"]
+[Black "Zrzavy, J."]
+[Result "1/2-1/2"]
+[ECO "C05"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation"]
+[HashCode "86cf4891"]
+[Epoch "Rook"]
+[WhiteCountry "DEU"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. f4 c5 6. c3 Nc6 7. Ndf3 Qb6 8. Ne2
+f6 9. exf6 Nxf6 10. g3 Bd6 11. Bg2 O-O 12. O-O Ne4 13. Qc2 1/2-1/2

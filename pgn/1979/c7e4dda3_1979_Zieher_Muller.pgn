@@ -1,0 +1,20 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Zieher, Hartmut"]
+[Black "Muller, Jean"]
+[Result "1-0"]
+[ECO "C05"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation"]
+[HashCode "c7e4dda3"]
+[Epoch "Rook"]
+[WhiteID "4607821"]
+[WhiteCountry "GER"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Bd3 c5 6. c3 Nc6 7. Ne2 Qb6 8. Nf3
+cxd4 9. cxd4 f6 10. exf6 Nxf6 11. O-O Bd6 12. Re1 O-O 13. Nc3 a6 14. Bg5 Bd7
+15. Rc1 Rae8 16. Na4 Qc7 17. Nc5 Ng4 18. Ne5 Ngxe5 19. dxe5 Bxc5 20. Rxc5 Bc8
+21. Bb1 Qf7 22. Bh4 Bd7 23. Rc3 Rc8 24. Rf3 Qe8 25. Rh3 g6 26. Bf6 Ne7 27. Qd2
+Rf7 28. Qg5 Qf8 29. Rh6 Be8 30. h4 Nf5 31. Bxf5 exf5 32. Qxg6+ Rg7 1-0

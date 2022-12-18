@@ -1,0 +1,20 @@
+[Event "Buenos Aires"]
+[Site "Buenos Aires"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Alaimo"]
+[Black "Justo, Virginia"]
+[Result "0-1"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, 6.Be3"]
+[HashCode "0a6ad9c6"]
+[Epoch "Rook"]
+[BlackID "101354"]
+[BlackCountry "ARG"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 O-O 6. Be3 Ng4 7. Bg1 e5 8. h3
+exd4 9. Bxd4 Bxd4 10. Qxd4 Nc6 11. Qd2 Nf6 12. O-O-O Re8 13. Bd3 a6 14. g4 Nb4
+15. Rde1 Nxd3+ 16. Qxd3 b5 17. a3 Bb7 18. Rhg1 c5 19. Nd2 b4 20. axb4 cxb4 21.
+Na2 a5 22. h4 Qb6 23. h5 Nxe4 24. Nxe4 Bxe4 25. Qe3 Qc6 26. Qd2 Rac8 27. Re2
+Qc4 28. b3 Qxb3 29. c3 Qb1# 0-1

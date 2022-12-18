@@ -1,0 +1,18 @@
+[Event "corr Italy"]
+[Site "corr Italy"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Fornari"]
+[Black "Contini"]
+[Result "1-0"]
+[ECO "B11"]
+[Opening "Caro-Kann"]
+[Variation "two knights, 3...Bg4"]
+[HashCode "8db27bfe"]
+[Epoch "Rook"]
+
+1. e4 c6 2. Nf3 d5 3. Nc3 Bg4 4. h3 Bxf3 5. Qxf3 Nf6 6. d4 e6 7. Bd3 dxe4
+8. Nxe4 Qxd4 9. Be3 Qd8 10. O-O-O Nbd7 11. Bc4 Qa5 12. Rd4 O-O-O 13. Ng5
+Ne5 14. Rxd8+ Qxd8 15. Nxf7 Nxf3 16. Bxe6+ Kc7 17. Nxd8 Kxd8 18. gxf3 b6
+19. Rg1 g6 20. Bg5 Bg7 21. f4 Kc7 22. f5 gxf5 23. Bf4+ 1-0
+

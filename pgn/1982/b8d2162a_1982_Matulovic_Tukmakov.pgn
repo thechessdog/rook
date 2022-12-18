@@ -1,0 +1,23 @@
+[Event "Titograd"]
+[Site "Titograd"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Matulovic, Milan"]
+[Black "Tukmakov, Vladimir B"]
+[Result "0-1"]
+[ECO "B96"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7.f4"]
+[HashCode "b8d2162a"]
+[Epoch "Rook"]
+[BlackID "14100096"]
+[WhiteCountry "SRB"]
+[BlackCountry "UKR"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qc7 8. f5
+Be7 9. fxe6 fxe6 10. g3 Nc6 11. Bh3 Qa5 12. Nxc6 bxc6 13. Qd2 Rb8 14. Rb1 h6
+15. Be3 O-O 16. O-O Qh5 17. Qg2 Ng4 18. Rxf8+ Bxf8 19. Bxg4 Qxg4 20. e5 c5 21.
+exd6 Bxd6 22. Qe2 Qf5 23. Rf1 Qe5 24. Qd2 c4 25. Bf4 Qc5+ 26. Rf2 Bxf4 27. gxf4
+Rxb2 28. h3 Bb7 29. Kh2 Qc6 30. Qc1 Rb6 31. Qe1 Qc7 32. Qe3 Rd6 33. Qe5 Qc6 34.
+Kg3 Rd8 35. Ne2 Rd5 36. Qe3 Qd6 37. Nc3 Rg5+ 38. Kh2 Rf5 39. h4 Rh5 40. Kg3 Qe7
+41. Rh2 e5 0-1

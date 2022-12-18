@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Moore"]
+[Black "Olsen, T."]
+[Result "1-0"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra gambit"]
+[HashCode "a42f19b9"]
+[Epoch "Rook"]
+
+1. e4 c5 2. d4 cxd4 3. c3 dxc3 4. Nxc3 d6 5. Nf3 Nf6 6. Bc4 e6 7. O-O Be7
+8. Qe2 O-O 9. Rd1 a6 10. Bf4 Qc7 11. Rac1 Rd8 12. b4 Nh5 13. Be3 Nd7 14.
+Bxe6 fxe6 15. Nd5 Qxc1 16. Nxe7+ Kf8 17. Rxc1 Kxe7 18. Rc7 Nf6 19. Qc4 h6
+20. Nd4 d5 21. Qc5+ Ke8 22. Qd6 Ng8 1-0
+

@@ -1,0 +1,16 @@
+[Event "Texas"]
+[Site "Texas"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Kublinski, P."]
+[Black "Rogers, G."]
+[Result "0-1"]
+[ECO "B12"]
+[Opening "Caro-Kann"]
+[Variation "advance variation"]
+[HashCode "e055c4e8"]
+[Epoch "Rook"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. f4 e6 5. Nf3 c5 6. c3 Nc6 7. Be3 Qb6 8. b3
+cxd4 9. Bxd4 Nxd4 10. cxd4 Bb4+ 11. Nbd2 Bg4 12. Be2 Bxf3 13. Bxf3 Qxd4 0-1
+

@@ -1,0 +1,17 @@
+[Event "Columbus,OH"]
+[Site "Columbus,OH"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Nash, Edmund"]
+[Black "Watson, John L"]
+[Result "0-1"]
+[ECO "C17"]
+[Opening "French"]
+[Variation "Winawer, advance, Russian variation"]
+[HashCode "e4603864"]
+[Epoch "Rook"]
+[BlackCountry "USA"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. Qg4 Ne7 6. dxc5 Nbc6 7. Bd2 O-O 8. f4
+f5 9. exf6 Rxf6 10. Qe2 Ng6 11. Nh3 e5 12. fxe5 Ngxe5 13. Bg5 Bxh3 14. Bxf6
+Qxf6 15. gxh3 d4 0-1

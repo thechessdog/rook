@@ -1,0 +1,21 @@
+[Event "corr ch10-DDR"]
+[Site "corr ch10-DDR"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Lehmann, Karl"]
+[Black "Hobusch, W."]
+[Result "0-1"]
+[ECO "E19"]
+[Opening "Queen's Indian"]
+[Variation "old main line, 9.Qxc3"]
+[HashCode "990de4ca"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2 Be7 6. O-O O-O 7. Nc3 Ne4 8.
+Qc2 Nxc3 9. Qxc3 c5 10. Rd1 d6 11. Qc2 Nd7 12. b3 Nf6 13. Bb2 Be4 14. Qc3
+Qc7 15. d5 exd5 16. cxd5 Ne8 17. Qc4 Bf6 18. Qxe4 Bxb2 19. Rab1 Bf6 20. Qd3
+Qd7 21. b4 Nc7 22. e4 cxb4 23. Rxb4 b5 24. e5 dxe5 25. d6 a5 26. Re4 Ne6
+27. Nxe5 Bxe5 28. Rxe5 Rab8 29. Bf1 b4 30. Rxa5 Rb6 31. Qd5 Rfb8 32. Bc4 g6
+33. Bb3 Rd8 34. Ra8 Rxa8 35. Qxa8+ Qd8 36. Qxd8+ Nxd8 37. d7 Kg7 38. Re1
+Rd6 39. Ba4 Ne6 40. Rc1 Kf6 41. Rc4 Rb6 42. Rc8 Rd6 0-1
+

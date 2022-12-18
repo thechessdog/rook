@@ -1,0 +1,19 @@
+[Event "corr DDR-FSM"]
+[Site "corr DDR-FSM"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Richter, W."]
+[Black "Potthammel, J."]
+[Result "1/2-1/2"]
+[ECO "A07"]
+[Opening "Reti"]
+[Variation "King's Indian attack (Barcza system)"]
+[HashCode "9605f082"]
+[Epoch "Rook"]
+
+1. Nf3 d5 2. g3 c6 3. Bg2 Bg4 4. d3 Nd7 5. Nbd2 e5 6. e4 Ngf6 7. O-O dxe4
+8. dxe4 Bc5 9. c3 O-O 10. b4 Bb6 11. a4 Qe7 12. Qc2 Rfd8 13. h3 Bxf3 14.
+Nxf3 a6 15. Nh4 g6 16. Ba3 Ba7 17. Rfe1 b5 18. Bc1 c5 19. axb5 axb5 20. Be3
+Bb6 21. Rxa8 Rxa8 22. bxc5 Bxc5 23. Qb2 Bxe3 24. Rxe3 Qc5 25. Bf1 Rb8 26.
+Qb4 Kf8 1/2-1/2
+

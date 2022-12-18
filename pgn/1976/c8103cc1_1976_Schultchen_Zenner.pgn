@@ -1,0 +1,21 @@
+[Event "corr DDR/M"]
+[Site "corr DDR/M"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Schultchen"]
+[Black "Zenner"]
+[Result "0-1"]
+[ECO "E42"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5, 5.Ne2 (Rubinstein)"]
+[HashCode "c8103cc1"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Ne2 cxd4 6. exd4 d5 7. c5 Ne4 8.
+Bd2 Nxd2 9. Qxd2 b6 10. a3 Bxc3 11. Nxc3 bxc5 12. dxc5 a5 13. Bb5+ Bd7 14.
+O-O a4 15. Qd4 Bxb5 16. Qxg7 Bxf1 17. Qxh8+ Ke7 18. Qxd8+ Kxd8 19. Kxf1 Nd7
+20. c6 Ne5 21. Rc1 Nc4 22. Rc2 Kc7 23. Ke2 Ra5 24. f4 f5 25. Kd3 Kxc6 26.
+Ne2 Kd7 27. Nc3 Kd6 28. Re2 h5 29. g3 Nb6 30. Kc2 Rc5 31. Kd3 Ra5 32. Kd4
+Nd7 33. Kd3 Nc5+ 34. Kd2 d4 35. Na2 Kd5 36. Nb4+ Kc4 37. Nc6 Rb5 38. Ne5+
+Kd5 39. Kc2 Rb3 40. Rd2 Ke4 0-1
+

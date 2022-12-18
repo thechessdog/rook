@@ -1,0 +1,17 @@
+[Event "corr APCT"]
+[Site "corr APCT"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Brent, M."]
+[Black "Kadabos, G."]
+[Result "1/2-1/2"]
+[ECO "B03"]
+[Opening "Alekhine's defence"]
+[Variation "exchange variation"]
+[HashCode "927be50a"]
+[Epoch "Rook"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. c4 Nb6 5. exd6 exd6 6. Nc3 Be7 7. Be2 O-O
+8. Nf3 Nc6 9. Be3 Bg4 10. b3 Bf6 11. O-O d5 12. c5 Nc8 13. h3 Be6 14. Bb5
+N8e7 15. Bg5 Bxg5 16. Nxg5 Nf5 17. Nf3 f6 18. Re1 1/2-1/2
+

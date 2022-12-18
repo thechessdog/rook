@@ -1,0 +1,20 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Glotz, D."]
+[Black "Lommatzsch, E."]
+[Result "1-0"]
+[ECO "E32"]
+[Opening "Nimzo-Indian"]
+[Variation "classical variation"]
+[HashCode "e0f65c92"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 O-O 5. e3 d5 6. Nf3 c5 7. cxd5 Nxd5 8.
+Bd3 h6 9. O-O Nc6 10. Nxd5 exd5 11. a3 Ba5 12. dxc5 Bg4 13. Be2 Qf6 14. Bd2
+Bc7 15. Bc3 Qe6 16. b4 Rfe8 17. Rfd1 Bh5 18. h3 Bd8 19. Rd2 Bg6 20. Bd3 Be4
+21. Bxe4 dxe4 22. Nd4 Nxd4 23. Bxd4 Bc7 24. Rad1 Qc6 25. Qc3 f6 26. Qc4+
+Qe6 27. Qxe6+ Rxe6 28. Kf1 Rae8 29. Rc2 Be5 30. Bxe5 Rxe5 31. Rd4 Kf7 32.
+Ke2 f5 33. Rd6 R8e6 34. Rcd2 g6 35. Kd1 a5 36. Kc2 axb4 37. axb4 1-0
+

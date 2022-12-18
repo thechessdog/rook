@@ -1,0 +1,17 @@
+[Event "Lugano"]
+[Site "Lugano"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Bonfioli"]
+[Black "Muhlebach, Fritz"]
+[Result "0-1"]
+[ECO "B33"]
+[Opening "Sicilian"]
+[Variation "Pelikan (Lasker/Sveshnikov) variation"]
+[HashCode "9c7d93e4"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Nxc6 bxc6 7. Bc4
+Bb4 8. Bg5 Bxc3+ 9. bxc3 Qa5 10. Qd3 Nxe4 11. Qxe4 Qxc3+ 12. Ke2 d5 13.
+Rhd1 Ba6 14. Bd2 Bxc4+ 15. Ke1 Qxd2+ 0-1
+

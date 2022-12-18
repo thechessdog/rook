@@ -1,0 +1,19 @@
+[Event "corr DDR-cup6"]
+[Site "corr DDR-cup6"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Koppe, F."]
+[Black "Mueller, G."]
+[Result "0-1"]
+[ECO "B32"]
+[Opening "Sicilian"]
+[Variation "Labourdonnais-Loewenthal variation"]
+[HashCode "674f9d5f"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e5 5. Nb5 a6 6. Nd6+ Bxd6 7. Qxd6
+Qe7 8. Qd1 Nf6 9. Nc3 b5 10. Bg5 Qb4 11. Bxf6 gxf6 12. a3 Qxb2 13. Nd5 Nd4
+14. Bd3 Bb7 15. Nc7+ Ke7 16. Nxa8 Qc3+ 17. Kf1 Rxa8 18. Qe1 Rc8 19. Ra2
+Qxe1+ 20. Kxe1 f5 21. f3 fxe4 22. fxe4 f5 23. Kd2 fxe4 24. Bf1 Bd5 25. Rb2
+Nf5 0-1
+

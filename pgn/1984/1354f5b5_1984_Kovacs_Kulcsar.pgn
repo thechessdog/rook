@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Kovacs, Ar"]
+[Black "Kulcsar, G."]
+[Result "0-1"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (without ...d6)"]
+[HashCode "1354f5b5"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 Nf6 4. e5 Nd5 5. Nc3 Nc7 6. a4 g6 7. O-O Bg7 8.
+Re1 O-O 9. d3 Nd4 10. Bf4 Nce6 11. Bg3 Nf5 12. Ne4 d5 13. exd6 exd6 14. Nc3
+d5 15. a5 Nxg3 16. hxg3 a6 17. Ba4 Bxc3 18. bxc3 Qxa5 19. Bb3 Qd8 20. c4 d4
+21. Ra2 Ng5 22. Qa1 Nxf3+ 23. gxf3 Qf6 24. Kg2 b6 25. Qd1 Bb7 0-1
+

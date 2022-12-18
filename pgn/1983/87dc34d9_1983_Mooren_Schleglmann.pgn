@@ -1,0 +1,23 @@
+[Event "corr M/GT"]
+[Site "corr M/GT"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Mooren, L."]
+[Black "Schleglmann, D."]
+[Result "1/2-1/2"]
+[ECO "B64"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...Be7 defence, 9.f4"]
+[HashCode "87dc34d9"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd2 Be7
+8. O-O-O O-O 9. f4 h6 10. Bh4 Bd7 11. Nf3 Qa5 12. Kb1 Rfd8 13. Bd3 Rac8 14.
+Qe1 Nb4 15. a3 Nxd3 16. Rxd3 Be8 17. g4 b5 18. g5 hxg5 19. Bxg5 b4 20. axb4
+Qxb4 21. Qh4 Rb8 22. Nd1 Ba4 23. Nd4 Rdc8 24. Rh3 Kf8 25. c3 Qb7 26. Qh8+
+Ng8 27. Rh7 Qxe4+ 28. Ka1 Qxd4 29. Rxg7 Qxg7 30. Bxe7+ Kxe7 31. Qxg7 Nf6
+32. Ne3 Rc5 33. b4 Rh5 34. Ng4 Ne8 35. Qd4 Bc6 36. Rf1 a5 37. f5 axb4 38.
+cxb4 Ra8+ 39. Kb1 Rxf5 40. Rxf5 exf5 41. Ne3 Be4+ 42. Kb2 Nc7 43. Nc4 Ra6
+44. Nb6 Ne6 45. Nd5+ Bxd5 46. Qxd5 Rb6 47. Kc3 f4 48. h4 Rb8 49. h5 Rg8 50.
+b5 Rg5 51. Qb7+ 1/2-1/2
+

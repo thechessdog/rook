@@ -1,0 +1,16 @@
+[Event "corr CCLA"]
+[Site "corr CCLA"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Petersons"]
+[Black "Glanville"]
+[Result "1-0"]
+[ECO "E92"]
+[Opening "King's Indian"]
+[Variation "Petrosian system, Stein variation"]
+[HashCode "ef642455"]
+[Epoch "Rook"]
+
+1. e4 g6 2. Nf3 Bg7 3. d4 d6 4. c4 e5 5. d5 Nf6 6. Nc3 O-O 7. Be2 a5 8. Be3
+Nbd7 9. h3 Ne8 10. g4 Nc5 11. Qd2 Bd7 12. O-O-O f6 1-0
+

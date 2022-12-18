@@ -1,0 +1,17 @@
+[Event "Sas van Gent"]
+[Site "Sas van Gent"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Rombaldoni"]
+[Black "Dubbeldam"]
+[Result "1-0"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra gambit"]
+[HashCode "c0f6c8ce"]
+[Epoch "Rook"]
+
+1. e4 c5 2. d4 cxd4 3. c3 dxc3 4. Nxc3 Nc6 5. Nf3 d6 6. Bc4 Nf6 7. e5 dxe5
+8. Qxd8+ Kxd8 9. Ng5 Nd4 10. O-O Kc7 11. Nxf7 Rg8 12. Nxe5 e6 13. Be3 Nf5
+14. Nb5+ Kb8 15. Bf4 Nd6 16. Nf7 1-0
+

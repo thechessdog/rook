@@ -1,0 +1,19 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Kamenetz"]
+[Black "Kuznetsov"]
+[Result "1-0"]
+[ECO "A46"]
+[Opening "Queen's pawn"]
+[Variation "Torre attack"]
+[HashCode "35ec485b"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. Nf3 e6 3. Bg5 c5 4. e3 Qb6 5. Bxf6 Qxb2 6. Bxg7 Bxg7 7. Nbd2
+cxd4 8. exd4 Bxd4 9. Rb1 Qc3 10. Rb3 Qc5 11. Bb5 Bg7 12. Ne4 Qd5 13. Nd6+
+Ke7 14. Rd3 Qc5 15. O-O a6 16. Ba4 b5 17. Bb3 a5 18. Nd2 Nc6 19. N2e4 Qe5
+20. f4 Qb2 21. Qh5 Bd4+ 22. Kh1 f5 23. Qg5+ Kf8 24. Rfd1 Rg8 25. Qh6+ Rg7
+26. Rxd4 fxe4 27. f5 Kg8 28. f6 Rf7 29. Nxf7 1-0
+

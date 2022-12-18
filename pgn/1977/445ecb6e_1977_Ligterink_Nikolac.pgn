@@ -1,0 +1,20 @@
+[Event "IBM-B"]
+[Site "Amsterdam II"]
+[Date "1977.07.01"]
+[Round "2"]
+[White "Ligterink, Gert"]
+[Black "Nikolac, Juraj"]
+[Result "0-1"]
+[ECO "C60"]
+[Opening "Ruy Lopez"]
+[Variation "fianchetto (Smyslov/Barnes) defence"]
+[HashCode "445ecb6e"]
+[Epoch "Rook"]
+[WhiteID "1000179"]
+[WhiteCountry "NED"]
+[BlackID "14500140"]
+[BlackCountry "CRO"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 g6 4. c3 d6 5. d4 Bd7 6. Qb3 Na5 7. Bxd7+ Qxd7 8.
+Qc2 Bg7 9. O-O Nc6 10. dxe5 Nxe5 11. Nxe5 dxe5 12. f4 Nf6 13. f5 Qc6 14. Re1
+O-O-O 15. Bg5 gxf5 16. exf5 Rhg8 17. Re2 Qb6+ 18. Kh1 Qxb2 0-1

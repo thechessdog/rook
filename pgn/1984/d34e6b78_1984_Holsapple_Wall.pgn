@@ -1,0 +1,18 @@
+[Event "Dayton,OH"]
+[Site "Dayton,OH"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Holsapple, Boyd"]
+[Black "Wall, Bill"]
+[Result "0-1"]
+[ECO "C50"]
+[Opening "King's pawn game"]
+[HashCode "d34e6b78"]
+[Epoch "Rook"]
+[BlackCountry "USA"]
+[WhiteCountry "USA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 d6 4. c3 Bg4 5. O-O Qd7 6. d4 Nf6 7. Bg5 Be7 8. Nbd2
+Bxf3 9. Nxf3 Nxe4 10. Bxe7 Qxe7 11. Re1 f5 12. dxe5 dxe5 13. Qb3 Qc5 14. Bf7+
+Kf8 15. Rxe4 fxe4 16. Ng5 Nd8 17. Qxb7 Qc6 18. Qb4+ Qd6 19. Qb3 Qe7 20. Bd5 c6
+0-1

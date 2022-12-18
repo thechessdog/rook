@@ -1,0 +1,19 @@
+[Event "Athens"]
+[Site "Athens"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Schmidt, Wlodzimierz"]
+[Black "Stoica, Valentin"]
+[Result "1/2-1/2"]
+[ECO "E12"]
+[Opening "Queen's Indian"]
+[Variation "Petrosian system"]
+[HashCode "76f50d57"]
+[Epoch "Rook"]
+[WhiteID "1100041"]
+[BlackID "1200070"]
+[WhiteCountry "POL"]
+[BlackCountry "ROU"]
+
+1. Nf3 Nf6 2. c4 e6 3. d4 b6 4. a3 Bb7 5. Nc3 d5 6. cxd5 Nxd5 7. Bd2 Nd7 8. Qc2
+c5 9. e4 Nxc3 10. Bxc3 cxd4 11. Nxd4 a6 12. Nf3 Qc7 13. Rc1 Rc8 1/2-1/2

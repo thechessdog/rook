@@ -1,0 +1,18 @@
+[Event "Rome"]
+[Site "Rome"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Tatai, Stefano"]
+[Black "Ceschia"]
+[Result "1-0"]
+[ECO "E76"]
+[Opening "King's Indian"]
+[Variation "Four pawns attack, dynamic line"]
+[HashCode "774bad91"]
+[Epoch "Rook"]
+[WhiteCountry "ITA"]
+
+1. c4 g6 2. Nc3 Bg7 3. d4 Nf6 4. e4 O-O 5. f4 d6 6. Nf3 c5 7. d5 e6 8. dxe6
+Bxe6 9. Bd3 Nc6 10. f5 Bd7 11. O-O Ng4 12. Bg5 Bd4+ 13. Kh1 f6 14. Nxd4 cxd4
+15. Nd5 fxg5 16. Qxg4 Ne5 17. Qg3 h5 18. Be2 gxf5 19. exf5 Bxf5 20. Bxh5 Kg7
+21. Rae1 Kh6 22. Bd1 d3 23. Rxf5 Rxf5 24. Qh3+ Kg6 25. Bh5+ Kh6 26. Bg4+ 1-0

@@ -1,0 +1,19 @@
+[Event "Frunze"]
+[Site "Frunze"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Razuvaev, Yuri S"]
+[Black "Meduna, Eduard"]
+[Result "1-0"]
+[ECO "B10"]
+[Opening "Caro-Kann"]
+[Variation "anti-anti-Caro-Kann defence"]
+[HashCode "2d3de87c"]
+[Epoch "Rook"]
+[WhiteCountry "RUS"]
+[BlackID "300055"]
+[BlackCountry "CZE"]
+
+1. e4 c6 2. c4 d5 3. cxd5 cxd5 4. exd5 Nf6 5. Nc3 Nxd5 6. d4 Nc6 7. Bc4 e6 8.
+Nf3 Be7 9. O-O O-O 10. Re1 Nxc3 11. bxc3 b6 12. Bd3 Bb7 13. h4 Bf6 14. Ng5 g6
+15. Qg4 Ne7 16. Ba3 Re8 17. Nxe6 1-0

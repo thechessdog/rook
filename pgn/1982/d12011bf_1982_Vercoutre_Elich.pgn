@@ -1,0 +1,18 @@
+[Event "corr NBC"]
+[Site "corr NBC"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Vercoutre"]
+[Black "Elich"]
+[Result "0-1"]
+[ECO "C72"]
+[Opening "Ruy Lopez"]
+[Variation "modern Steinitz defence, 5.O-O"]
+[HashCode "d12011bf"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. O-O Bg4 6. h3 h5 7. d4 b5 8. Bb3
+Nxd4 9. hxg4 hxg4 10. Ng5 Nh6 11. Bd5 Be7 12. c3 Ne2+ 13. Qxe2 Bxg5 14.
+Bxa8 Bxc1 15. Bc6+ Kf8 16. Rxc1 Qg5 17. Qe3 Qh5 18. Kf1 g3 19. Nd2 Ng4 20.
+Qxg3 Nh2+ 21. Ke1 0-1
+

@@ -1,0 +1,22 @@
+[Event "Sarajevo"]
+[Site "Sarajevo"]
+[Date "1984.03.01"]
+[Round "1"]
+[White "Van der Wiel, John T.H."]
+[Black "Lobron, Eric"]
+[Result "1-0"]
+[ECO "B19"]
+[Opening "Caro-Kann"]
+[Variation "classical, Spassky variation"]
+[HashCode "9879d58b"]
+[Epoch "Rook"]
+[WhiteID "1000020"]
+[WhiteCountry "NED"]
+[BlackID "4600037"]
+[BlackCountry "GER"]
+
+1. e4 c6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6 7. Nf3 Nd7 8. h5
+Bh7 9. Bd3 Bxd3 10. Qxd3 e6 11. Bd2 Ngf6 12. O-O-O Be7 13. Qe2 Rc8 14. Ne5 c5
+15. dxc5 Nxe5 16. Bxh6 Qa5 17. Bxg7 Rxc5 18. a3 Nc4 19. Qf3 Nd5 20. Bxh8 Rb5
+21. Qg4 Nxa3 22. Rd3 f6 23. bxa3 Bxa3+ 24. Kd1 Nc3+ 25. Kd2 Nb1+ 26. Ke2 Re5+
+27. Kf3 Nd2+ 28. Rxd2 Qxd2 29. Qg6+ Kd7 30. Qd3+ 1-0

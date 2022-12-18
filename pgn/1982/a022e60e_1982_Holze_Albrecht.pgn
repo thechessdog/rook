@@ -1,0 +1,18 @@
+[Event "BL2-N 8182"]
+[Site "BL2-N 8182"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Holze, Guenter"]
+[Black "Albrecht, Rainer"]
+[Result "1/2-1/2"]
+[ECO "A88"]
+[Opening "Dutch"]
+[Variation "Leningrad, main variation with c6"]
+[HashCode "a022e60e"]
+[Epoch "Rook"]
+[BlackID "4604296"]
+[BlackCountry "GER"]
+
+1. c4 f5 2. d4 Nf6 3. Nc3 g6 4. g3 Bg7 5. Bg2 O-O 6. Nf3 d6 7. O-O c6 8. Qb3
+Kh8 9. d5 Qc7 10. Be3 e5 11. dxe6 Bxe6 12. a4 Nbd7 13. a5 Nc5 14. Qb4 Na6 15.
+Qa4 Nc5 16. Qb4 Na6 17. Qa4 Nc5 1/2-1/2

@@ -1,0 +1,18 @@
+[Event "Minsk"]
+[Site "Minsk"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Mikhalevsky"]
+[Black "Basin, Leonid"]
+[Result "0-1"]
+[ECO "D06"]
+[Opening "QGD"]
+[Variation "Grau (Sahovic) defence"]
+[HashCode "a3376d33"]
+[Epoch "Rook"]
+[BlackID "4102070"]
+[BlackCountry "RUS"]
+
+1. d4 d5 2. c4 Bf5 3. Qb3 e5 4. Qxb7 Nd7 5. Nc3 exd4 6. Nxd5 Bd6 7. Bf4 Bxf4 8.
+Nxf4 c5 9. Nd5 Rb8 10. Nc7+ Kf8 11. Qxa7 Ne7 12. Nb5 Nc6 13. Qa6 Rb6 14. Qa4
+Nb4 15. Rc1 Ra6 16. Qd1 Rxa2 17. Qd2 Qa5 18. e4 Rxb2 0-1

@@ -1,0 +1,21 @@
+[Event "IBM-B"]
+[Site "Amsterdam II"]
+[Date "1977.07.01"]
+[Round "2"]
+[White "Van der Sterren, Paul"]
+[Black "Egmond, Peter"]
+[Result "1/2-1/2"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...g6"]
+[HashCode "b65d2c39"]
+[Epoch "Rook"]
+[WhiteID "1000071"]
+[WhiteCountry "NED"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 g6 6. Qb3 Bg7 7. cxd5 O-O 8.
+Be2 Nbd7 9. Bf3 Nb6 10. Nge2 Bg4 11. Bxg4 Nxg4 12. a4 Nf6 13. Nf4 a5 14. O-O
+Qd6 15. Re1 Rfe8 16. Be3 Qb4 17. Ra3 Rad8 18. Nd3 Qxb3 19. Rxb3 Nfxd5 20. Nxd5
+Nxd5 21. Rxb7 Rb8 22. Rxb8 Rxb8 23. Rc1 h5 24. Rc5 Nb4 25. Nxb4 Rxb4 26. Rxa5
+Bxd4 27. Bxd4 Rxd4 28. g3 Rb4 29. Ra8+ Kg7 30. a5 Rxb2 31. a6 Ra2 32. h4 e5 33.
+f3 f5 34. Kf1 1/2-1/2

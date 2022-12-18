@@ -1,0 +1,25 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Margutev"]
+[Black "Korsunsky"]
+[Result "0-1"]
+[ECO "B31"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (with ...g6, without ...d6)"]
+[HashCode "b0271b3a"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. Re1 Nf6 6. c3 O-O 7. d4 cxd4 8.
+cxd4 d5 9. e5 Ne4 10. Bxc6 bxc6 11. Nbd2 Qb6 12. Nxe4 dxe4 13. Rxe4 Rd8 14.
+Qe1 Be6 15. Bd2 a5 16. Bc3 Bd5 17. Re3 Bh6 18. Rd3 Qa6 19. Rdd1 f5 20. Nd2
+a4 21. Nf1 Rf8 22. f3 Rf7 23. Bd2 f4 24. Bb4 Rb8 25. Ba3 g5 26. h3 Bf8 27.
+e6 Rg7 28. Rd2 h5 29. Bc5 Qc8 30. Qe5 Qe8 31. Re1 Rg6 32. Qf5 Rb7 33. a3
+Bg7 34. Rf2 Bh6 35. Re5 Rf6 36. Qc2 Bb3 37. Qe2 Rg6 38. Nd2 Bg7 39. Nxb3
+Bxe5 40. Na5 Rb5 41. Qxe5 Rxa5 42. h4 gxh4 43. Qxh5 Ra8 44. Re2 Rg7 45.
+Qxh4 Qg6 46. Bxe7 Qb1+ 47. Kf2 Qd1 48. Bf6 Rxg2+ 49. Kxg2 Qxe2+ 50. Kg1
+Qxe6 51. Qh8+ Kf7 52. Qxa8 Qe1+ 53. Kg2 Qg3+ 54. Kf1 Qxf3+ 55. Ke1 Kxf6 56.
+Qh8+ Kg5 57. Qg7+ Kh4 58. Qf6+ Kh3 59. Kd2 Qe3+ 60. Kc2 f3 61. Qf5+ Kg3 62.
+Qg6+ Kf2 63. Qxc6 Ke1 64. Qc5 Qd2+ 65. Kb1 f2 66. Qe5+ Kd1 67. Qf5 Qc1+ 0-1
+

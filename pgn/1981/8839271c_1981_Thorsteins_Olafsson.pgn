@@ -1,0 +1,20 @@
+[Event "ISL-ch"]
+[Site "Reykjavik"]
+[Date "1981.??.??"]
+[Round "5"]
+[White "Thorsteins, Karl"]
+[Black "Olafsson, Helgi"]
+[Result "1/2-1/2"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Nimzovich (knight's tour) variation"]
+[HashCode "8839271c"]
+[Epoch "Rook"]
+[WhiteID "2300060"]
+[BlackID "2300010"]
+[WhiteCountry "ISL"]
+[BlackCountry "ISL"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. Nd2 Bg7 8. Nc4
+O-O 9. Bg5 h6 10. Bf4 Ne8 11. Qc1 Kh7 12. e4 Qe7 13. Be2 f5 14. exf5 g5 15. Bg3
+Bxf5 16. h4 Bd3 17. Qe3 Qxe3 18. fxe3 Bxc4 19. Bxc4 gxh4 20. Rxh4 Nd7 1/2-1/2

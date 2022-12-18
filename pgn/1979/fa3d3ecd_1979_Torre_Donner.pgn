@@ -1,0 +1,19 @@
+[Event "IBM"]
+[Site "Amsterdam"]
+[Date "1979.07.01"]
+[Round "2"]
+[White "Torre, Eugenio"]
+[Black "Donner, Jan Hein"]
+[Result "1/2-1/2"]
+[ECO "D19"]
+[Opening "QGD Slav"]
+[Variation "Dutch variation"]
+[HashCode "fa3d3ecd"]
+[Epoch "Rook"]
+[WhiteID "5200016"]
+[WhiteCountry "PHI"]
+[BlackCountry "NLD"]
+
+1. Nf3 d5 2. d4 Nf6 3. c4 c6 4. Nc3 dxc4 5. a4 Bf5 6. e3 e6 7. Bxc4 Bb4 8. O-O
+Nbd7 9. h3 Bg6 10. Be2 a5 11. Nh4 O-O 12. Nxg6 hxg6 13. Qc2 Qe7 14. Rd1 e5 15.
+b3 e4 16. Bd2 Nb6 17. Bc4 Rfe8 1/2-1/2

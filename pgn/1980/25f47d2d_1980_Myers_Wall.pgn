@@ -1,0 +1,18 @@
+[Event "Dayton,OH"]
+[Site "Dayton,OH"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Myers, Darryl"]
+[Black "Wall, Bill"]
+[Result "0-1"]
+[ECO "D40"]
+[Opening "QGD"]
+[Variation "Semi-Tarrasch defence, Pillsbury variation"]
+[HashCode "25f47d2d"]
+[Epoch "Rook"]
+[BlackCountry "USA"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 c5 5. Bg5 dxc4 6. e4 Be7 7. Bxc4 O-O 8. O-O
+h6 9. Bh4 a6 10. e5 Nfd7 11. Bxe7 Qxe7 12. Bd3 cxd4 13. Nxd4 Nxe5 14. Bc2 Rd8
+15. Re1 Nc4 16. Qd3 g6 17. Qxc4 b5 18. Rxe6 Bxe6 19. Qd3 Bc4 20. Qe4 Qxe4 21.
+Nxe4 Rxd4 0-1

@@ -1,0 +1,17 @@
+[Event "Wuerttemberg-chB"]
+[Site "Wuerttemberg"]
+[Date "1980.??.??"]
+[Round "?"]
+[White "Hengstler"]
+[Black "Schulte"]
+[Result "1/2-1/2"]
+[ECO "A75"]
+[Opening "Benoni"]
+[Variation "classical with ...a6 and 10...Bg4"]
+[HashCode "f59fcebd"]
+[Epoch "Rook"]
+
+1. c4 Nf6 2. Nc3 e6 3. d4 c5 4. d5 exd5 5. cxd5 d6 6. e4 g6 7. Nf3 Bg7 8.
+Be2 O-O 9. O-O a6 10. a4 Bg4 11. Bg5 Nbd7 12. Nd2 Bxe2 13. Qxe2 Qc7 14. Nc4
+1/2-1/2
+

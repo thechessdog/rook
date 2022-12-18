@@ -1,0 +1,23 @@
+[Event "Helsingor"]
+[Site "Helsingor"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Andersen, Ib"]
+[Black "Brondum, Eric"]
+[Result "0-1"]
+[ECO "B99"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7...Be7 main line"]
+[HashCode "fbc72d09"]
+[Epoch "Rook"]
+[WhiteID "1401130"]
+[BlackID "1400894"]
+[WhiteCountry "DEN"]
+[BlackCountry "DEN"]
+
+1. e4 c5 2. Nf3 Nf6 3. Nc3 d6 4. d4 cxd4 5. Nxd4 a6 6. Bg5 e6 7. f4 Be7 8. Qf3
+Qc7 9. O-O-O Nbd7 10. g4 b5 11. Bxf6 Nxf6 12. g5 Nd7 13. f5 Nc5 14. f6 gxf6 15.
+gxf6 Bf8 16. Bh3 b4 17. Nd5 exd5 18. Rhe1 Bxh3 19. exd5+ Kd8 20. Qxh3 Qd7 21.
+Qh4 Kc7 22. Nc6 a5 23. Re3 h5 24. Kb1 Qg4 25. Qe1 Rh6 26. a3 Rxf6 27. axb4 axb4
+28. Rd4 Rf4 29. Rxf4 Qxf4 30. Nxb4 Bg7 31. Re7+ Kb6 32. c3 Qf5+ 33. Nc2 Nb3 34.
+Qg1+ Bd4 0-1

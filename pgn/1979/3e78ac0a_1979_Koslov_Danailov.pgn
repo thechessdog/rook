@@ -1,0 +1,20 @@
+[Event "Varna"]
+[Site "Varna"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Koslov, W."]
+[Black "Danailov, Silvio"]
+[Result "1-0"]
+[ECO "E06"]
+[Opening "Catalan"]
+[Variation "closed, 5.Nf3"]
+[HashCode "3e78ac0a"]
+[Epoch "Rook"]
+[BlackID "2900114"]
+[BlackCountry "FID"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Nf3 Be7 5. Bg2 O-O 6. O-O dxc4 7. Qc2 a6 8. a4
+c5 9. dxc5 Nc6 10. Nbd2 Bxc5 11. Nxc4 Qe7 12. Nfe5 Nb4 13. Qb3 a5 14. Bg5 h6
+15. Bd2 Rd8 16. Rfd1 Nfd5 17. Bxb4 Nxb4 18. Rxd8+ Qxd8 19. Rd1 Qc7 20. Be4 Nd5
+21. Qb5 Nf6 22. Bf3 Ra6 23. b3 Be7 24. h4 g6 25. Kg2 Kg7 26. Rc1 Bb4 27. Nxf7
+Qxf7 28. Ne5 Qf8 29. Qd3 1-0

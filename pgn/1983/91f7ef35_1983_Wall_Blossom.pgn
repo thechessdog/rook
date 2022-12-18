@@ -1,0 +1,16 @@
+[Event "Dayton,OH"]
+[Site "Dayton,OH"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Wall, Bill"]
+[Black "Blossom, Don"]
+[Result "1-0"]
+[ECO "A00"]
+[Opening "Polish (Sokolsky) opening"]
+[HashCode "91f7ef35"]
+[Epoch "Rook"]
+[WhiteCountry "USA"]
+
+1. b4 a5 2. b5 c6 3. a4 d5 4. e3 Bd7 5. c4 Nf6 6. Nc3 e5 7. Bb2 d4 8. exd4 exd4
+9. Qe2+ Be6 10. Ne4 d3 11. Nxf6+ gxf6 12. Qxd3 Nd7 13. Nf3 Qb6 14. Bd4 c5 15.
+Bc3 Qc7 16. O-O-O O-O-O 17. Qe4 b6 18. Ng5 f5 19. Qa8+ Nb8 20. Bxh8 1-0

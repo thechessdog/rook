@@ -1,0 +1,16 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Belova"]
+[Black "Epstein"]
+[Result "0-1"]
+[ECO "C41"]
+[Opening "Philidor"]
+[Variation "Improved Hanham variation"]
+[HashCode "50b2e986"]
+[Epoch "Rook"]
+
+1. e4 Nf6 2. Nc3 e5 3. Nf3 d6 4. d4 Nbd7 5. Bc4 Be7 6. O-O O-O 7. a4 a5 8.
+Ne1 c6 9. f4 exd4 10. Qxd4 d5 0-1
+

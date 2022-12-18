@@ -1,0 +1,21 @@
+[Event "Roskilde"]
+[Site "Roskilde"]
+[Date "1978.01.01"]
+[Round "8"]
+[White "Schneider, Lars-Ake"]
+[Black "Fedder, Steen"]
+[Result "1/2-1/2"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "English variation"]
+[HashCode "2fb26df2"]
+[Epoch "Rook"]
+[BlackID "1400126"]
+[BlackCountry "DEN"]
+[WhiteCountry "SWE"]
+
+1. b3 c5 2. Bb2 Nc6 3. Nf3 d6 4. e3 Nf6 5. c4 e5 6. Nc3 Bg4 7. h3 Bf5 8. d3 Be7
+9. Be2 O-O 10. O-O h6 11. Nd2 Bh7 12. Nde4 Ne8 13. Nd5 Nc7 14. Nec3 Ne6 15. a3
+a5 16. Qd2 f5 17. b4 axb4 18. axb4 Rxa1 19. Bxa1 cxb4 20. Nxe7+ Qxe7 21. Nd5
+Qd7 22. Nxb4 f4 23. Nxc6 bxc6 24. Bg4 f3 25. d4 fxg2 26. Kxg2 exd4 27. Qxd4
+Nxd4 28. Bxd7 Be4+ 1/2-1/2

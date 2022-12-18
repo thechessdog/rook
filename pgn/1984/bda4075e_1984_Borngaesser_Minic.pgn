@@ -1,0 +1,24 @@
+[Event "Berlin op"]
+[Site "Berlin-West"]
+[Date "1984.01.01"]
+[Round "9"]
+[White "Borngaesser, Rene"]
+[Black "Minic, Dragoljub"]
+[Result "0-1"]
+[ECO "B93"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.f4"]
+[HashCode "bda4075e"]
+[Epoch "Rook"]
+[WhiteID "4600940"]
+[WhiteCountry "GER"]
+[BlackCountry "SRB"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 Nbd7 7. Bd3 b5 8. a3
+g6 9. Nf3 Bb7 10. O-O Bg7 11. Qe1 O-O 12. Be3 e5 13. fxe5 dxe5 14. Qh4 Nh5 15.
+Bg5 Qb6+ 16. Kh1 f6 17. Bd2 Nc5 18. Be3 Qc7 19. Rad1 Rae8 20. Ne1 Ne6 21. Be2
+Nhf4 22. Bf3 f5 23. exf5 gxf5 24. Bxb7 Qxb7 25. Bxf4 Nxf4 26. Qf2 Ne6 27. Nd3
+Nd4 28. Nxe5 Bxe5 29. Rxd4 Bxd4 30. Qxd4 Rd8 31. Qe3 Rd6 32. Qf4 Rg6 33. Rf2
+Rg4 34. Qe5 Qg7 35. Qe6+ Kh8 36. h3 Rg6 37. Qd5 f4 38. Ne2 Qxb2 39. Kh2 Rgf6
+40. c3 f3 41. gxf3 Qxa3 42. f4 Qd6 43. Qe4 Re6 44. Qf3 Rfe8 45. Nd4 Re3 46. Qh5
+Qg6 47. Qxg6 hxg6 48. Ra2 Rxc3 49. Rxa6 Rd3 0-1

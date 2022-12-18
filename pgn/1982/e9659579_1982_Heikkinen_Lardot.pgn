@@ -1,0 +1,19 @@
+[Event "corr Heilimo mem"]
+[Site "corr Heilimo mem"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Heikkinen"]
+[Black "Lardot"]
+[Result "0-1"]
+[ECO "A22"]
+[Opening "English"]
+[Variation "Bellon gambit"]
+[HashCode "e9659579"]
+[Epoch "Rook"]
+
+1. c4 e5 2. Nc3 Nf6 3. Nf3 e4 4. Ng5 b5 5. d3 Bb7 6. Qb3 exd3 7. Qxb5 dxe2
+8. Qxb7 exf1=Q+ 9. Kxf1 Nc6 10. Nb5 Bd6 11. Nxd6+ cxd6 12. Bf4 O-O 13. Bxd6
+Qa5 14. Nf3 Rfe8 15. Qb3 Qf5 16. Qd1 Re4 17. h3 Rxc4 18. b3 Rc3 19. Bg3 Rd3
+20. Qc1 Nh5 21. Kg1 Re8 22. Kh2 Nxg3 23. Kxg3 Nd4 24. Re1 Rxf3+ 25. gxf3
+Qg6+ 0-1
+

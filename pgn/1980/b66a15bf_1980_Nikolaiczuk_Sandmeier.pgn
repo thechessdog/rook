@@ -1,0 +1,23 @@
+[Event "Wittlich"]
+[Site "Wittlich"]
+[Date "1980.01.01"]
+[Round "4"]
+[White "Nikolaiczuk, Lothar"]
+[Black "Sandmeier, Toni"]
+[Result "0-1"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical system, 5.Be2"]
+[HashCode "b66a15bf"]
+[Epoch "Rook"]
+[WhiteID "4604490"]
+[WhiteCountry "GER"]
+[BlackID "4606060"]
+[BlackCountry "GER"]
+
+1. e4 d6 2. d4 g6 3. Nc3 Bg7 4. Nf3 Nf6 5. Be2 O-O 6. O-O Nc6 7. d5 Ne5 8. Nxe5
+dxe5 9. Be3 Ne8 10. Qd3 Nd6 11. Rfd1 f5 12. f3 Bd7 13. a4 a6 14. b3 f4 15. Bf2
+g5 16. Nb1 Qe8 17. c4 Qg6 18. Nd2 h5 19. Kh1 Bf6 20. c5 Nf7 21. Nc4 Rad8 22.
+Qc3 Bc8 23. Qa5 g4 24. Qxc7 g3 25. Bg1 h4 26. Bf1 h3 27. gxh3 Qh5 28. Rd3 Bxh3
+29. Bxh3 Qxh3 30. Rd2 Rd7 31. Qb6 Ng5 32. Rg2 e6 33. Rf1 exd5 34. exd5 Rxd5 35.
+Qxb7 Rd7 36. Qxa6 e4 37. Nd2 Qxg2+ 0-1

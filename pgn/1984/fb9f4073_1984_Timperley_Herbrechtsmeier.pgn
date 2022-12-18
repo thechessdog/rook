@@ -1,0 +1,20 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Timperley"]
+[Black "Herbrechtsmeier"]
+[Result "0-1"]
+[ECO "E45"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Bronstein (Byrne) variation"]
+[HashCode "fb9f4073"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 b6 5. Ne2 Ba6 6. a3 Be7 7. Nf4 d5 8.
+cxd5 Bxf1 9. Kxf1 Nxd5 10. Ncxd5 exd5 11. Qf3 c6 12. Bd2 Nd7 13. Rc1 Rc8
+14. Ke2 O-O 15. h4 Nf6 16. g4 Qd7 17. g5 Ne4 18. Qg2 c5 19. Bc3 Qb5+ 20.
+Kf3 Nxc3 21. bxc3 cxd4 22. cxd4 Bxa3 23. Rxc8 Rxc8 24. Qg4 Rd8 25. g6 hxg6
+26. h5 Qd7 27. hxg6 Qxg4+ 28. Kxg4 b5 29. gxf7+ Kxf7 30. Rh5 b4 31. Rf5+
+Kg8 32. Nxd5 b3 33. Nc3 Rc8 0-1
+

@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Petitcunot"]
+[Black "Gessier"]
+[Result "0-1"]
+[ECO "E43"]
+[Opening "Nimzo-Indian"]
+[Variation "Fischer variation"]
+[HashCode "5d197b69"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 b6 5. Bd3 Bb7 6. f3 O-O 7. e4 c5 8. d5
+exd5 9. cxd5 Re8 10. Ne2 d6 11. O-O a6 12. a4 a5 13. Nb5 Ba6 14. Nec3 Bxc3
+15. bxc3 Bxb5 16. Bxb5 Re7 17. Rb1 Nbd7 18. Bf4 Ne5 19. Rb3 Rb8 20. Qe2 Ng6
+21. Be3 Re5 22. Rfb1 Nxd5 23. exd5 Nf4 24. Qf2 Rxe3 25. Qxe3 Qg5 26. Kf1
+Qxg2+ 27. Ke1 Qh1+ 28. Kd2 Qxh2+ 29. Be2 Nxd5 30. Qd3 Re8 0-1
+

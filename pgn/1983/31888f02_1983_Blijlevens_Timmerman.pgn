@@ -1,0 +1,24 @@
+[Event "corr Netherlands"]
+[Site "corr Netherlands"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Blijlevens"]
+[Black "Timmerman"]
+[Result "0-1"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical system, 5.Be2"]
+[HashCode "31888f02"]
+[Epoch "Rook"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Nf3 Bg7 5. Be2 O-O 6. O-O Bg4 7. Be3 Nc6 8.
+Qd2 e5 9. dxe5 Nxe5 10. Nd4 Bxe2 11. Qxe2 Re8 12. Bg5 Qd7 13. Rad1 Nc6 14.
+Nf3 h6 15. Bxf6 Bxf6 16. Nd5 Bg7 17. Qd3 Re6 18. Rfe1 Rae8 19. c3 g5 20.
+Nd4 Nxd4 21. cxd4 c6 22. Nc3 d5 23. f3 dxe4 24. fxe4 Rd6 25. d5 Bxc3 26.
+Qxc3 cxd5 27. Rxd5 Rxd5 28. exd5 Rxe1+ 29. Qxe1 Qxd5 30. b3 h5 31. Qe2 h4
+32. h3 Kg7 33. Qb2+ Kg6 34. Qc2+ f5 35. Qe2 Kf6 36. Qh5 f4 37. Qh6+ Kf5 38.
+Qh7+ Ke5 39. Qh8+ Ke4 40. Qh7+ Kd4 41. Qc2 Qe4 42. Qc4+ Ke3 43. Qc1+ Ke2
+44. Qb2+ Kd1 45. Qf6 Qe3+ 46. Kh1 f3 47. gxf3 Qe1+ 48. Kg2 Qg3+ 49. Kh1
+Qxh3+ 50. Kg1 Qg3+ 51. Kf1 Qf4 52. Qc3 Qd2 53. Qa1+ Kc2 54. Qh8 Qd5 55. Kf2
+Kb1 0-1
+

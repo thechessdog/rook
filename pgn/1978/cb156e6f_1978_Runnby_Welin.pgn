@@ -1,0 +1,21 @@
+[Event "corr SWE/K tt"]
+[Site "corr SWE/K tt"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Runnby, Jan"]
+[Black "Welin, Thomas"]
+[Result "1/2-1/2"]
+[ECO "B25"]
+[Opening "Sicilian"]
+[Variation "closed, 6.f4 e5 (Botvinnik)"]
+[HashCode "cb156e6f"]
+[Epoch "Rook"]
+[WhiteID "1701290"]
+[BlackID "1700324"]
+[WhiteCountry "SWE"]
+[BlackCountry "SWE"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. f4 e5 7. Nh3 Nge7 8. O-O
+exf4 9. Bxf4 h6 10. Rb1 O-O 11. a3 Ne5 12. Kh1 Kh7 13. Qd2 Bd7 14. Be3 Bc6 15.
+Nf4 Qd7 16. h3 a5 17. b4 axb4 18. axb4 b6 19. bxc5 bxc5 20. Rb3 Rfb8 21. Rfb1
+Rxb3 22. Rxb3 Ra1+ 23. Kh2 1/2-1/2

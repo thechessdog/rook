@@ -1,0 +1,20 @@
+[Event "Tirnavia"]
+[Site "Trnava"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Sznapik, Aleksander"]
+[Black "Velikov, Petar"]
+[Result "1/2-1/2"]
+[ECO "B42"]
+[Opening "Sicilian"]
+[Variation "Kan, 5.Bd3"]
+[HashCode "fac7727a"]
+[Epoch "Rook"]
+[WhiteID "1100050"]
+[WhiteCountry "POL"]
+[BlackID "2900149"]
+[BlackCountry "FID"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Nf6 6. O-O Qc7 7. c4 Nc6 8.
+Nxc6 dxc6 9. Be3 e5 10. Nc3 Ng4 11. Bd2 Bc5 12. Qe2 O-O 13. h3 Nf6 14. Rac1 Qe7
+15. Na4 Bd4 16. c5 Be6 17. Bc4 1/2-1/2

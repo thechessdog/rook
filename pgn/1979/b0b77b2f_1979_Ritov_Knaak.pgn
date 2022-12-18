@@ -1,0 +1,20 @@
+[Event "Tallinn"]
+[Site "Tallinn"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Ritov, Boris"]
+[Black "Knaak, Rainer"]
+[Result "0-1"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack"]
+[HashCode "b0b77b2f"]
+[Epoch "Rook"]
+[BlackID "4611250"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 Bf5 4. e3 Nbd7 5. Bd3 Bxd3 6. Qxd3 c6 7. Nf3 e6 8.
+O-O h6 9. Bxf6 gxf6 10. e4 dxe4 11. Nxe4 f5 12. Ng3 Qc7 13. Nxf5 exf5 14. Rfe1+
+Be7 15. Re2 Nf8 16. Rae1 Ng6 17. Qxf5 O-O 18. h4 Bxh4 19. g3 Bg5 20. Nxg5 hxg5
+21. Qxg5 Qd8 22. Qg4 Qf6 23. c3 Rfd8 24. f4 Qg7 25. Kf2 Nf8 26. Qh3 Rd6 27. Rh1
+Re6 28. Re5 Rxe5 29. dxe5 Rd8 30. Re1 Ne6 31. Re2 Rd1 32. f5 Nf4 33. gxf4 Qg1+
+34. Kf3 Rd3+ 0-1

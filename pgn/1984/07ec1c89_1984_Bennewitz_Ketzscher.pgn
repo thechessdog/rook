@@ -1,0 +1,20 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Bennewitz"]
+[Black "Ketzscher, R."]
+[Result "0-1"]
+[ECO "C09"]
+[Opening "French"]
+[Variation "Tarrasch, open variation, main line"]
+[HashCode "07ec1c89"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. exd5 exd5 5. Ngf3 Nc6 6. Bb5 cxd4 7. O-O Bd6
+8. Nxd4 Bxh2+ 9. Kh1 Be5 10. N2f3 Bxd4 11. Qxd4 Nf6 12. Re1+ Be6 13. Ne5
+O-O 14. Bxc6 bxc6 15. Nxc6 Qc7 16. Nb4 Qc4 17. Be3 a5 18. Nd3 Bf5 19. Rec1
+Ng4 20. b3 Qa6 21. Nc5 Qg6 22. Bf4 Bxc2 23. Nd7 Rfe8 24. Kg1 Be4 25. Bg3
+Nh6 26. Qb6 f6 27. Nc5 Nf5 28. Nxe4 dxe4 29. Bf4 Qg4 30. Be3 Nh4 31. g3 Nf5
+32. Rc2 h5 33. Kg2 h4 34. Bf4 Qf3+ 35. Kh2 0-1
+

@@ -1,0 +1,18 @@
+[Event "corr YUG"]
+[Site "corr YUG"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Matic, R."]
+[Black "Podkrajsek, J."]
+[Result "1/2-1/2"]
+[ECO "C72"]
+[Opening "Ruy Lopez"]
+[Variation "modern Steinitz defence, 5.O-O"]
+[HashCode "37defe90"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. O-O Bg4 6. h3 h5 7. d4 b5 8. Bb3
+Nxd4 9. hxg4 hxg4 10. Ng5 Nh6 11. g3 Be7 12. f4 O-O 13. Be3 Nxb3 14. cxb3
+c6 15. Qc2 Qc8 16. b4 exf4 17. gxf4 Re8 18. Nd2 d5 19. exd5 Qf5 20. Qxf5
+Nxf5 21. Bc5 cxd5 22. Nb3 Bd8 23. Rad1 1/2-1/2
+

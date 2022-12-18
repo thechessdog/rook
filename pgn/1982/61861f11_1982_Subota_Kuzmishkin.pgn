@@ -1,0 +1,15 @@
+[Event "Volgograd"]
+[Site "Volgograd"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Subota"]
+[Black "Kuzmishkin"]
+[Result "1-0"]
+[ECO "A45"]
+[Opening "Blackmar-Diemer gambit"]
+[HashCode "61861f11"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. f3 d5 3. e4 dxe4 4. Nc3 Bf5 5. Qe2 Qxd4 6. Qb5+ Bd7 7. Qxb7
+Bc6 8. Bb5 1-0
+

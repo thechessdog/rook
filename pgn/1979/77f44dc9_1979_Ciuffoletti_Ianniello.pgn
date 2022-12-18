@@ -1,0 +1,18 @@
+[Event "Rome"]
+[Site "Rome"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Ciuffoletti"]
+[Black "Ianniello"]
+[Result "1-0"]
+[ECO "C56"]
+[Opening "two knights defence"]
+[Variation "Canal variation"]
+[HashCode "77f44dc9"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Bc4 Nf6 3. d4 Nc6 4. Nf3 exd4 5. O-O Nxe4 6. Re1 d5 7. Nc3 dxc4
+8. Rxe4+ Be6 9. Nxd4 Nxd4 10. Rxd4 Qc8 11. Bg5 Bd6 12. Ne4 Be7 13. Bxe7
+Kxe7 14. Qh5 f6 15. Re1 Kf8 16. Nc5 Bf7 17. Nd7+ Kg8 18. Nxf6+ gxf6 19.
+Rg4+ Bg6 20. Rxg6+ hxg6 21. Qxg6+ Kf8 22. Qxf6+ Kg8 23. Re7 1-0
+

@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Haas, B."]
+[Black "Zapolskis, A."]
+[Result "0-1"]
+[ECO "C31"]
+[Opening "KGD"]
+[Variation "Falkbeer counter-gambit"]
+[HashCode "dd965a8a"]
+[Epoch "Rook"]
+
+1. e4 e5 2. f4 d5 3. exd5 exf4 4. Qf3 Nf6 5. Bb5+ c6 6. dxc6 bxc6 7. Bxc6+
+Nxc6 8. Qxc6+ Bd7 9. Qc4 Bd6 10. Nf3 O-O 11. O-O Qb6+ 12. Nd4 Bc5 13. c3
+Bb5 14. Qb3 Bxd4+ 15. cxd4 Qxd4+ 16. Rf2 Rac8 0-1
+

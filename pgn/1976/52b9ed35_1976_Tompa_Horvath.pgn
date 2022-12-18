@@ -1,0 +1,19 @@
+[Event "Budapest"]
+[Site "Budapest"]
+[Date "1976.01.01"]
+[Round "17"]
+[White "Tompa, Janos"]
+[Black "Horvath, Tamas"]
+[Result "1/2-1/2"]
+[ECO "B25"]
+[Opening "Sicilian"]
+[Variation "closed, 6.Ne2 e5 (Botvinnik)"]
+[HashCode "52b9ed35"]
+[Epoch "Rook"]
+[WhiteID "700193"]
+[WhiteCountry "HUN"]
+[BlackID "700185"]
+[BlackCountry "HUN"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. Nge2 e5 7. Nd5 Nce7 8. Nec3
+Nxd5 9. Nxd5 Nf6 10. Nxf6+ Qxf6 11. O-O Qe7 12. c3 O-O 13. Be3 1/2-1/2

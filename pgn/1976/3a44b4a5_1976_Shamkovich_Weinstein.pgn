@@ -1,0 +1,21 @@
+[Event "USA"]
+[Site "USA"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Shamkovich, Leonid"]
+[Black "Weinstein, Norman"]
+[Result "0-1"]
+[ECO "B96"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7.f4"]
+[HashCode "3a44b4a5"]
+[Epoch "Rook"]
+[BlackID "2000466"]
+[WhiteCountry "RUS"]
+[BlackCountry "USA"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Nbd7 8. Qe2
+Qc7 9. g4 b5 10. O-O-O Bb7 11. Bg2 Rc8 12. Rhe1 Be7 13. e5 dxe5 14. Bxb7 Qxb7
+15. fxe5 b4 16. Ncb5 axb5 17. exf6 Nxf6 18. Bxf6 Bxf6 19. Nf5 O-O 20. Nd6 Qa6
+21. Nxc8 Qxa2 22. Qxb5 Qxb2+ 23. Kd2 Rxc8 24. Ke3 Qc3+ 25. Qd3 Qe5+ 26. Kf3
+Qxh2 27. Rh1 Qxc2 28. Qxc2 Rxc2 29. Rd7 h6 30. Rb7 Rc3+ 31. Kg2 b3 0-1

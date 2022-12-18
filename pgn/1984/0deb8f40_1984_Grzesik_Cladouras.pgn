@@ -1,0 +1,19 @@
+[Event "BL8485"]
+[Site "BL8485"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Grzesik, Frank"]
+[Black "Cladouras, Panagiotis"]
+[Result "1/2-1/2"]
+[ECO "C69"]
+[Opening "Ruy Lopez"]
+[Variation "exchange, Bronstein variation"]
+[HashCode "0deb8f40"]
+[Epoch "Rook"]
+[WhiteID "4605764"]
+[WhiteCountry "GER"]
+[BlackID "4600959"]
+[BlackCountry "GER"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O Qd6 6. d4 exd4 7. Nxd4 c5 8.
+Ne2 Qxd1 9. Rxd1 1/2-1/2

@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Arvoll, O."]
+[Black "Wibe, Terje"]
+[Result "0-1"]
+[ECO "E96"]
+[Opening "King's Indian"]
+[Variation "orthodox, 7...Nbd7, main line"]
+[HashCode "43b342b9"]
+[Epoch "Rook"]
+[BlackID "1500236"]
+[BlackCountry "NOR"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 c6 7. O-O Nbd7 8. Re1
+e5 9. Bf1 a5 10. Rb1 Re8 11. d5 Nc5 12. Nd2 Nfd7 13. b3 f5 14. a3 Nf6 15. g3
+cxd5 16. cxd5 Bd7 17. b4 axb4 18. axb4 Na4 19. Nb5 Bxb5 0-1

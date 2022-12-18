@@ -1,0 +1,22 @@
+[Event "Kuibyshev"]
+[Site "Kuibyshev"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Piesina, Gintautas"]
+[Black "Efimov, Igor"]
+[Result "1-0"]
+[ECO "E92"]
+[Opening "King's Indian"]
+[Variation "Gligoric-Taimanov system"]
+[HashCode "63a764b5"]
+[Epoch "Rook"]
+[WhiteCountry "LTU"]
+[BlackID "806404"]
+[BlackCountry "MNC"]
+
+1. Nf3 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. d4 O-O 6. Be2 e5 7. Be3 Nbd7 8. d5
+a5 9. Nd2 Nc5 10. O-O Bd7 11. b3 Ne8 12. a3 f5 13. f3 Qh4 14. b4 axb4 15. axb4
+Rxa1 16. Qxa1 Na6 17. Qa3 Bh6 18. Bf2 Qe7 19. Rd1 Nf6 20. c5 Bc8 21. c6 Nb8 22.
+b5 b6 23. Qa7 Nh5 24. Bxb6 Qg5 25. Qxc7 Nf4 26. Bf1 Nh3+ 27. Kh1 Qh4 28. g3 Qh5
+29. Bg2 Ng5 30. Qxd6 f4 31. g4 Bxg4 32. fxg4 Qxg4 33. Nf3 Nxf3 34. Qe6+ Qxe6
+35. dxe6 Nd4 36. Bxd4 exd4 37. Rxd4 f3 38. e7 1-0

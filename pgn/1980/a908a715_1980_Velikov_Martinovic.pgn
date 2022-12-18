@@ -1,0 +1,21 @@
+[Event "Zrenjanin"]
+[Site "Zrenjanin"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Velikov, Petar"]
+[Black "Martinovic, Slobodan"]
+[Result "0-1"]
+[ECO "A48"]
+[Opening "King's Indian"]
+[Variation "Torre attack"]
+[HashCode "a908a715"]
+[Epoch "Rook"]
+[WhiteID "2900149"]
+[WhiteCountry "FID"]
+[BlackCountry "SRB"]
+
+1. d4 Nf6 2. Nf3 g6 3. Bg5 Bg7 4. Nbd2 d5 5. e3 O-O 6. Bd3 c5 7. c3 Nbd7 8. O-O
+b6 9. h3 Bb7 10. b4 Ne4 11. bxc5 Nxg5 12. Nxg5 e5 13. Bb5 bxc5 14. Bxd7 cxd4
+15. cxd4 exd4 16. Rb1 Qxd7 17. Nb3 Qe7 18. Nxd4 Ba6 19. h4 Bxf1 20. Kxf1 Rac8
+21. Rb3 Rc4 22. g3 h6 23. Ngf3 Rfc8 24. Kg2 Qe4 25. Nb5 Rc1 26. Qd3 R8c2 27. a3
+Ra2 28. Qxe4 dxe4 29. Ng1 a5 30. Nd6 Rb2 31. Rxb2 Bxb2 32. a4 Ra1 0-1

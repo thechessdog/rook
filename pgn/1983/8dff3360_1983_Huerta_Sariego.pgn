@@ -1,0 +1,17 @@
+[Event "Bayamo"]
+[Site "Bayamo"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Huerta"]
+[Black "Sariego, Wilfredo"]
+[Result "1-0"]
+[ECO "D07"]
+[Opening "QGD"]
+[Variation "Chigorin defence, Janowski variation"]
+[HashCode "8dff3360"]
+[Epoch "Rook"]
+[BlackCountry "CUB"]
+[BlackID "3500080"]
+
+1. d4 d5 2. c4 Nc6 3. Nc3 dxc4 4. Nf3 Bg4 5. d5 Bxf3 6. exf3 Na5 7. Qa4+ c6 8.
+b4 cxb3 9. axb3 b6 10. dxc6 a6 11. Bxa6 Qc7 12. Bf4 1-0

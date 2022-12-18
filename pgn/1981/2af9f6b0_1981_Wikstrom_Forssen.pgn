@@ -1,0 +1,20 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Wikstrom"]
+[Black "Forssen"]
+[Result "0-1"]
+[ECO "B33"]
+[Opening "Sicilian"]
+[Variation "Sveshnikov variation"]
+[HashCode "2af9f6b0"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e6 6. Ndb5 d6 7. Bf4 e5
+8. Bg5 a6 9. Na3 b5 10. Bxf6 gxf6 11. Nd5 f5 12. exf5 Bxf5 13. Qf3 Nd4 14.
+Nc7+ Qxc7 15. Qxa8+ Ke7 16. c3 b4 17. cxb4 Qb6 18. Bxa6 Qxb4+ 19. Kf1 Qd2
+20. Kg1 d5 21. h3 Rg8 22. Qb7+ Kf6 23. Rh2 Rg6 24. Nc4 Qf4 25. Ne3 Nf3+ 26.
+Kf1 Nxh2+ 27. Ke2 Kg7 28. Nxd5 Bg4+ 29. hxg4 Qxg4+ 30. Ke1 Bc5 31. Rd1
+Bxf2+ 32. Kd2 Qxg2 33. Kc1 Bd4 34. Rd2 Qe4 35. Bd3 Qh1+ 0-1
+

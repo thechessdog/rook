@@ -1,0 +1,19 @@
+[Event "Leeuwarden ch-NED"]
+[Site "Leeuwarden ch-NED"]
+[Date "1977.04.01"]
+[Round "1"]
+[White "Langeweg, Kick"]
+[Black "Ligterink, Gert"]
+[Result "1/2-1/2"]
+[ECO "E19"]
+[Opening "Queen's Indian"]
+[Variation "old main line, 9.Qxc3"]
+[HashCode "0a5d3626"]
+[Epoch "Rook"]
+[WhiteID "1000160"]
+[WhiteCountry "NED"]
+[BlackID "1000179"]
+[BlackCountry "NED"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2 Be7 6. O-O O-O 7. Nc3 Ne4 8. Qc2
+Nxc3 9. Qxc3 c5 10. Rd1 d6 11. Bf4 Nd7 12. dxc5 Nxc5 13. Ne1 1/2-1/2

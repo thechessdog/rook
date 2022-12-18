@@ -1,0 +1,17 @@
+[Event "corr Heilimo mem"]
+[Site "corr Heilimo mem"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Koskinen"]
+[Black "Hultquist, Torsten"]
+[Result "1/2-1/2"]
+[ECO "A22"]
+[Opening "English"]
+[Variation "Bremen, Smyslov system"]
+[HashCode "e2db0c1f"]
+[Epoch "Rook"]
+
+1. c4 Nf6 2. Nc3 e5 3. g3 Bb4 4. Bg2 O-O 5. Nf3 Nc6 6. O-O e4 7. Ne1 Bxc3
+8. dxc3 h6 9. Nc2 Re8 10. Ne3 d6 11. Qc2 a5 12. Rd1 b6 13. b3 Bd7 14. a4
+Qe7 15. Nd5 Nxd5 16. cxd5 Nb8 17. c4 Bf5 1/2-1/2
+

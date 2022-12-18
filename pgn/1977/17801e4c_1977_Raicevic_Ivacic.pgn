@@ -1,0 +1,20 @@
+[Event "Zagreb"]
+[Site "Zagreb"]
+[Date "1977.01.01"]
+[Round "11"]
+[White "Raicevic, Vladimir"]
+[Black "Ivacic, Vladimir"]
+[Result "1-0"]
+[ECO "A11"]
+[Opening "English"]
+[Variation "Caro-Kann defensive system"]
+[HashCode "17801e4c"]
+[Epoch "Rook"]
+[WhiteID "900605"]
+[WhiteCountry "SRB"]
+[BlackID "14600307"]
+[BlackCountry "SLO"]
+
+1. c4 c6 2. b3 d5 3. Bb2 Nf6 4. g3 g6 5. Bg2 Bg7 6. Nf3 O-O 7. O-O Nbd7 8. d3
+a5 9. a3 Qb6 10. Qc2 Re8 11. Nbd2 e5 12. e4 dxe4 13. dxe4 Qc5 14. b4 axb4 15.
+axb4 1-0

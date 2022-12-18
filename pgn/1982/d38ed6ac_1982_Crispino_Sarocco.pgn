@@ -1,0 +1,20 @@
+[Event "Italy"]
+[Site "Italy"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Crispino"]
+[Black "Sarocco"]
+[Result "1-0"]
+[ECO "D53"]
+[Opening "QGD"]
+[Variation "4.Bg5 Be7"]
+[HashCode "d38ed6ac"]
+[Epoch "Rook"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. e3 c5 6. dxc5 Nc6 7. cxd5 Nxd5
+8. Bxe7 Ncxe7 9. Nxd5 exd5 10. Qd2 Be6 11. Nf3 Nc6 12. Be2 O-O 13. O-O Qe7
+14. b4 a6 15. Rfc1 Rfd8 16. Nd4 Ne5 17. c6 Nc4 18. Qc3 Rd6 19. Bxc4 dxc4
+20. cxb7 Rb8 21. Nxe6 fxe6 22. Qxc4 Qxb7 23. a3 Rbd8 24. Qg4 e5 25. Rc5 Qd7
+26. Qxd7 R8xd7 27. h3 Re6 28. Rac1 Kf7 29. Rc7 Ree7 30. Rxd7 Rxd7 31. Rc5
+Ke6 32. Rc6+ Rd6 33. Rxd6+ Kxd6 34. e4 g5 35. a4 1-0
+

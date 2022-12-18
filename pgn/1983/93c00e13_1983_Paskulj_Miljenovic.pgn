@@ -1,0 +1,17 @@
+[Event "corr Yugoslavia"]
+[Site "corr Yugoslavia"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Paskulj"]
+[Black "Miljenovic"]
+[Result "1-0"]
+[ECO "C03"]
+[Opening "French"]
+[Variation "Tarrasch, Guimard variation"]
+[HashCode "93c00e13"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nc6 4. Ngf3 Nh6 5. Bb5 Bd7 6. O-O Be7 7. Re1 O-O
+8. c3 dxe4 9. Nxe4 Nf5 10. Bf4 Nd6 11. Bd3 h6 12. Qd2 f5 13. Nc5 Rf6 14.
+Ne5 Nb8 15. Nexd7 Nxd7 16. Nxe6 Rxe6 17. Rxe6 Nf8 18. Re2 1-0
+

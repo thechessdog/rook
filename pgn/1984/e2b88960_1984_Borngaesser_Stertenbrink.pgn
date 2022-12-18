@@ -1,0 +1,22 @@
+[Event "Bundesliga 8384"]
+[Site "Duitsland tt"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Borngaesser, Rene"]
+[Black "Stertenbrink, Guenter"]
+[Result "0-1"]
+[ECO "B23"]
+[Opening "Sicilian"]
+[Variation "closed, Korchnoi variation"]
+[HashCode "e2b88960"]
+[Epoch "Rook"]
+[WhiteID "4600940"]
+[WhiteCountry "GER"]
+[BlackID "4604571"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nc3 e6 3. g3 d5 4. Bg2 d4 5. Nce2 Nc6 6. d3 e5 7. f4 f6 8. Nf3 Bd6
+9. O-O Nge7 10. c3 Bg4 11. h3 Be6 12. fxe5 Nxe5 13. Nf4 Bf7 14. cxd4 cxd4 15.
+Nxe5 Bxe5 16. Qg4 Qd6 17. Bd2 O-O 18. a3 a5 19. Rac1 b5 20. b4 Rfc8 21. h4 Rc3
+22. Bxc3 dxc3 23. Nd5 axb4 24. axb4 h5 25. Qd1 Nxd5 26. exd5 Qxb4 27. Re1 Qd4+
+28. Kh1 Bxd5 29. Re4 Qf2 30. d4 Ra2 31. Qg1 Qxg2+ 32. Qxg2 Rxg2 0-1

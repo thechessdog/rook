@@ -1,0 +1,20 @@
+[Event "Bugojno"]
+[Site "Bugojno"]
+[Date "1980.05.01"]
+[Round "4"]
+[White "Kurajica, Bojan"]
+[Black "Hort, Vlastimil"]
+[Result "1/2-1/2"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "bff4673f"]
+[Epoch "Rook"]
+[WhiteID "14400057"]
+[WhiteCountry "BIH"]
+[BlackID "4600029"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. d4 Nf6 5. Nf3 e6 6. Be2 cxd4 7. cxd4 Nc6 8.
+O-O Be7 9. Nc3 Qd6 10. Bg5 O-O 11. Qd2 Rd8 12. Bf4 Qd7 13. Rfd1 Qe8 14. Bc7 Rd7
+15. Bg3 Rd8 16. Bc7 Rd7 17. Bg3 Rd8 1/2-1/2

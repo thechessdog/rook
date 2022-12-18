@@ -1,0 +1,20 @@
+[Event "Bogota"]
+[Site "Bogota"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Minaya, Juan"]
+[Black "Garcia, Luis"]
+[Result "0-1"]
+[ECO "A77"]
+[Opening "Benoni"]
+[Variation "classical, 9...Re8, 10.Nd2"]
+[HashCode "6d8b9f05"]
+[Epoch "Rook"]
+[WhiteID "4400283"]
+[WhiteCountry "COL"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Be2 c5 6. d5 O-O 7. Nf3 e6 8. O-O
+exd5 9. cxd5 Re8 10. Nd2 Nbd7 11. a4 a6 12. Qc2 Qc7 13. b3 Ne5 14. Bb2 g5 15.
+f4 gxf4 16. Rxf4 Ng6 17. Rff1 Ng4 18. Nd1 N4e5 19. Ne3 Qe7 20. Rae1 Qg5 21. Nf5
+Nf4 22. g3 Bxf5 23. exf5 Nxd5 24. Ne4 Qe3+ 25. Kh1 Nb4 26. Qb1 Nbd3 27. Nxd6
+Nxe1 0-1

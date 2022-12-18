@@ -1,0 +1,22 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Narva, Jaan"]
+[Black "Kengis, Edvins"]
+[Result "0-1"]
+[ECO "D91"]
+[Opening "Gruenfeld"]
+[Variation "5.Bg5"]
+[HashCode "e36e59d3"]
+[Epoch "Rook"]
+[WhiteID "4500148"]
+[WhiteCountry "EST"]
+[BlackID "11600039"]
+[BlackCountry "LAT"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Bg5 Ne4 6. cxd5 Nxg5 7. Nxg5 c6 8.
+dxc6 Nxc6 9. d5 Qa5 10. Qd2 O-O 11. dxc6 Rd8 12. Qc1 bxc6 13. f4 Rb8 14. Kf2
+Qb6+ 15. Kf3 h6 16. Nge4 Be6 17. Nf2 g5 18. e3 gxf4 19. exf4 Qa5 20. Be2 Rxb2
+21. Qxb2 Bxc3 22. Qc1 Bxa1 23. Qxa1 Qa3+ 24. Nd3 Rxd3+ 25. Kf2 Qc5+ 26. Ke1 Rc3
+27. Kd1 Qd4+ 28. Ke1 Qe3 29. Kd1 Bxa2 0-1

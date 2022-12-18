@@ -1,0 +1,21 @@
+[Event "Geneve"]
+[Site "Geneve"]
+[Date "1977.01.01"]
+[Round "3"]
+[White "Sigurjonsson, Gudmundur"]
+[Black "Westerinen, Heikki M.J."]
+[Result "1-0"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, dragon formation"]
+[HashCode "6ab61084"]
+[Epoch "Rook"]
+[BlackID "500020"]
+[BlackCountry "FIN"]
+[WhiteID "2300079"]
+[WhiteCountry "ISL"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. f4 Nf6 5. Nf3 c5 6. Bb5+ Bd7 7. e5 Ng4 8. h3
+cxd4 9. Qxd4 Nh6 10. Bd2 Bxb5 11. Nxb5 Nc6 12. Qf2 dxe5 13. fxe5 a6 14. Nc3 Nf5
+15. O-O-O Nxe5 16. Bf4 Nd7 17. g4 Nd6 18. Bxd6 exd6 19. Rxd6 Qc7 20. Re1+ Kf8
+21. Ng5 Nc5 22. Rd5 1-0

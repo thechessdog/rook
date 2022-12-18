@@ -1,0 +1,18 @@
+[Event "US Open"]
+[Site "US Open"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Watson, J."]
+[Black "Baran, D."]
+[Result "1-0"]
+[ECO "A67"]
+[Opening "Benoni"]
+[Variation "Taimanov variation"]
+[HashCode "7e421642"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. f4 Bg7 8.
+Bb5+ Nfd7 9. a4 O-O 10. Nf3 Re8 11. O-O a6 12. Bd3 Nf6 13. Kh1 Nbd7 14. Bb1
+c4 15. Be3 Qc7 16. Bd4 Nc5 17. e5 Nfd7 18. e6 fxe6 19. Bxg7 Kxg7 20. dxe6
+Rxe6 21. Ng5 Re8 22. Qd4+ Nf6 23. Qxf6+ 1-0
+

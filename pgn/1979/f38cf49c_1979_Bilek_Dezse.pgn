@@ -1,0 +1,18 @@
+[Event "Vrbas"]
+[Site "Vrbas"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Bilek, Istvan"]
+[Black "Dezse"]
+[Result "1-0"]
+[ECO "A00"]
+[Opening "Benko's opening"]
+[HashCode "f38cf49c"]
+[Epoch "Rook"]
+[WhiteCountry "HUN"]
+
+1. g3 Nf6 2. Bg2 e5 3. c4 c6 4. d3 d5 5. Qc2 dxc4 6. Qxc4 Be6 7. Qc2 Nd5 8. Nc3
+Be7 9. Nf3 Nd7 10. O-O O-O 11. d4 Nxc3 12. bxc3 exd4 13. Nxd4 Bc4 14. Rd1 Qe8
+15. Rb1 Nb6 16. a4 Ba6 17. Be4 h6 18. a5 Nc4 19. Bd3 c5 20. Nf5 Bf6 21. Ne3
+Nxe3 22. Bxe3 c4 23. Bh7+ Kh8 24. Bf5 Qe7 25. Rd5 Rfd8 26. Rc5 Kg8 27. h4 Rd6
+28. Rc8+ Rxc8 29. Bxc8 Rc6 30. Bg4 Qa3 31. Bf3 Qxc3 32. Qa4 1-0

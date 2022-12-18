@@ -1,0 +1,20 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Steinmuller"]
+[Black "Manneck"]
+[Result "0-1"]
+[ECO "B87"]
+[Opening "Sicilian"]
+[Variation "Sozin with ...a6 and ...b5"]
+[HashCode "d7c6116a"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 b5 8.
+Be3 Bd7 9. f3 Qc7 10. Qd2 Be7 11. O-O-O O-O 12. g4 b4 13. Nb1 a5 14. a4 Na6
+15. Nb5 Bxb5 16. axb5 a4 17. Bxa4 Nc5 18. b6 Qxb6 19. b3 Rfc8 20. Bxc5 Qxc5
+21. h4 Rc7 22. Rh2 Rac8 23. Qf2 Qe5 24. Rd2 d5 25. g5 Qf4 26. Kd1 Nh5 27.
+exd5 Bc5 28. Qe2 Ng3 29. Qd3 Be3 30. dxe6 Qxf3+ 31. Ke1 fxe6 32. Bb5 Rf8
+33. Rdg2 Rcf7 34. Nd2 Qf4 35. Kd1 Qe5 0-1
+

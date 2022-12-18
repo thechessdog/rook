@@ -1,0 +1,19 @@
+[Event "Sarajevo"]
+[Site "Sarajevo"]
+[Date "1981.03.01"]
+[Round "1"]
+[White "Lukacs, Peter"]
+[Black "Csom, Istvan"]
+[Result "1/2-1/2"]
+[ECO "A30"]
+[Opening "English"]
+[Variation "symmetrical variation"]
+[HashCode "aeed6260"]
+[Epoch "Rook"]
+[WhiteID "700142"]
+[BlackID "700100"]
+[WhiteCountry "HUN"]
+[BlackCountry "HUN"]
+
+1. c4 c5 2. Nf3 Nc6 3. g3 g6 4. Bg2 Bg7 5. O-O e6 6. Nc3 Nge7 7. e3 O-O 8. d4
+cxd4 9. Nxd4 d5 10. cxd5 Nxd4 11. exd4 Nxd5 12. Nxd5 exd5 1/2-1/2

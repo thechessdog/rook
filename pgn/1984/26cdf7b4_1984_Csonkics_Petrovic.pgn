@@ -1,0 +1,20 @@
+[Event "Budapest Alfoldi mem"]
+[Site "Budapest Alfoldi mem"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Csonkics, Tunde"]
+[Black "Petrovic, Marija"]
+[Result "1/2-1/2"]
+[ECO "A42"]
+[Opening "Modern defence"]
+[Variation "Averbakh system"]
+[HashCode "26cdf7b4"]
+[Epoch "Rook"]
+[WhiteID "700576"]
+[BlackID "909564"]
+[WhiteCountry "HUN"]
+[BlackCountry "SRB"]
+
+1. d4 g6 2. c4 Bg7 3. Nc3 d6 4. e4 c6 5. Nf3 Nf6 6. Be2 O-O 7. O-O Nbd7 8. e5
+Ne8 9. Re1 dxe5 10. dxe5 Nc7 11. Bf4 Ne6 12. Bg3 a5 13. Qc2 Ndc5 14. Rad1 Qb6
+15. Bf1 Re8 1/2-1/2

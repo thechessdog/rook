@@ -1,0 +1,19 @@
+[Event "Tbilisi"]
+[Site "Tbilisi"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Sturua, Zurab"]
+[Black "Murshed, Niaz"]
+[Result "1-0"]
+[ECO "E10"]
+[Opening "Queen's pawn game"]
+[HashCode "e75b7b71"]
+[Epoch "Rook"]
+[WhiteID "13600095"]
+[BlackID "10200010"]
+[WhiteCountry "GEO"]
+[BlackCountry "BAN"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 c5 4. d5 exd5 5. cxd5 g6 6. Nc3 Bg7 7. Bf4 Qa5 8. Nd2
+Nh5 9. Bd6 Qb6 10. Nce4 Qxb2 11. Rb1 Qxa2 12. e3 b6 13. g4 Nf6 14. Nxf6+ Bxf6
+15. Qf3 Bh4 16. Qe4+ 1-0

@@ -1,0 +1,25 @@
+[Event "Torquay ch-BCF"]
+[Site "Torquay ch-BCF"]
+[Date "1982.08.01"]
+[Round "11"]
+[White "Knox, Victor W"]
+[Black "McNab, Colin A"]
+[Result "0-1"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical, h3 system"]
+[HashCode "3fff0fda"]
+[Epoch "Rook"]
+[BlackID "2400030"]
+[BlackCountry "SCO"]
+[WhiteCountry "ENG"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. Nf3 Nf6 5. h3 O-O 6. Be2 Nbd7 7. O-O e5 8. dxe5
+dxe5 9. Bc4 Qe7 10. Qe2 c6 11. a4 Nh5 12. b3 Nf4 13. Qe3 Qf6 14. a5 Re8 15. Ne2
+Nf8 16. Bb2 Bh6 17. Qc3 Be6 18. Nxf4 Bxc4 19. Qxc4 Bxf4 20. Rad1 Qe6 21. Qb4
+Qc8 22. Rd3 f6 23. Rfd1 Qc7 24. Ba3 Rad8 25. Qc4+ Kg7 26. Bxf8+ Rxf8 27. g3 Bh6
+28. Qe6 Rxd3 29. Rxd3 Rf7 30. Qe8 Re7 31. Qa8 f5 32. Nd2 Bxd2 33. Rxd2 Qxa5 34.
+Qd8 Qxd8 35. Rxd8 fxe4 36. Kf1 Kf7 37. Ke2 Ke6 38. Ke3 Rd7 39. Re8+ Kd5 40. Ra8
+b5 41. Rf8 Kc5 42. Kxe4 a5 43. Ra8 Kb4 44. Kxe5 Rd2 45. f4 Rxc2 46. g4 Kxb3 47.
+Rxa5 b4 48. f5 gxf5 49. gxf5 c5 50. f6 Re2+ 51. Kd6 Rf2 52. Ke6 Kc4 53. Ra1 b3
+54. Rc1+ Kb4 55. f7 c4 0-1

@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Preusze"]
+[Black "Zeppa"]
+[Result "1-0"]
+[ECO "B96"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Polugayevsky variation"]
+[HashCode "75a884fa"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 b5 8.
+e5 dxe5 9. fxe5 Qc7 10. exf6 Qe5+ 11. Be2 Qxg5 12. Qd3 Qxf6 13. Bf3 Ra7 14.
+O-O-O Bd6 15. Nc6 Rd7 16. Kb1 Be5 17. Qe3 Bxc3 18. Nxb8 Bxb2 19. Nxd7 Bxd7
+20. Rxd7 Ba1 21. c3 Bxc3 22. Qc5 Qg6+ 23. Kc1 Qh6+ 24. Kc2 1-0
+

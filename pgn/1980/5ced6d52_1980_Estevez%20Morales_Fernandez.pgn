@@ -1,0 +1,19 @@
+[Event "match"]
+[Site "match"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Estevez Morales, Guillermo"]
+[Black "Fernandes, Antonio"]
+[Result "1/2-1/2"]
+[ECO "B52"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky attack, 3...Bd7"]
+[HashCode "5ced6d52"]
+[Epoch "Rook"]
+[WhiteCountry "CUB"]
+[BlackID "1900021"]
+[BlackCountry "POR"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Qxd7 5. O-O e6 6. c4 Nc6 7. d4 cxd4 8.
+Nxd4 Nf6 9. Nc3 Be7 10. b3 O-O 11. Bb2 Nxd4 12. Qxd4 a6 13. Rfd1 Qc7 14. Rac1
+Rac8 15. Qd3 Qa5 16. a4 Rfd8 17. Ba3 1/2-1/2

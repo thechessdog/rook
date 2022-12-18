@@ -1,0 +1,20 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Bouwmeester, Hans"]
+[Black "Planta, Rudi"]
+[Result "1-0"]
+[ECO "E49"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Botvinnik system"]
+[HashCode "a4f581c9"]
+[Epoch "Rook"]
+[WhiteID "1000187"]
+[WhiteCountry "NED"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. a3 Bxc3+ 7. bxc3 dxc4 8.
+Bxc4 c5 9. Bb2 Qa5 10. Qd2 Ne4 11. Qc2 Nd6 12. Bd3 cxd4 13. exd4 e5 14. Bxh7+
+Kh8 15. dxe5 Qxe5+ 16. Ne2 Re8 17. Bd3 Bf5 18. Bxf5 Nxf5 19. O-O-O Nc6 20. Ng3
+Nd6 21. c4 Qg5+ 22. Kb1 Rad8 23. c5 Nb5 24. Qc4 Qg6+ 25. Ka1 a6 26. Qf4 Nxa3
+27. Bxa3 Rxd1+ 28. Rxd1 Qc2 29. Rc1 Qb3 30. Bb2 f6 31. Qh4+ Kg8 1-0

@@ -1,0 +1,16 @@
+[Event "corr Wcup4"]
+[Site "corr Wcup4"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Morgado, Juan Sebastian"]
+[Black "Phillips, G."]
+[Result "1-0"]
+[ECO "B00"]
+[Opening "KP"]
+[Variation "Nimzovich defence"]
+[HashCode "1868b2c5"]
+[Epoch "Rook"]
+
+1. e4 Nc6 2. d4 d5 3. e5 Bf5 4. Ne2 Nb4 5. Na3 c5 6. Ng3 Bg6 7. dxc5 e6 8. Be3
+Qa5 9. c3 Nc6 10. Bb5 O-O-O 11. Bxc6 bxc6 12. Qd4 Nh6 13. O-O Nf5 14. Nxf5 Bxf5
+15. Nb1 f6 16. b4 Qc7 17. f4 Be7 18. Nd2 g5 19. exf6 1-0

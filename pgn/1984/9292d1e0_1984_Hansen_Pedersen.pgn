@@ -1,0 +1,20 @@
+[Event "Aalborg ch-DEN"]
+[Site "Aalborg ch-DEN"]
+[Date "1984.01.01"]
+[Round "7"]
+[White "Hansen, Curt"]
+[Black "Pedersen, Erik"]
+[Result "1/2-1/2"]
+[ECO "A46"]
+[Opening "Queen's pawn"]
+[Variation "Torre attack"]
+[HashCode "9292d1e0"]
+[Epoch "Rook"]
+[WhiteID "1400010"]
+[WhiteCountry "DEN"]
+[BlackID "1404997"]
+[BlackCountry "DEN"]
+
+1. d4 Nf6 2. Nf3 e6 3. Bg5 c5 4. c3 d5 5. e3 Qb6 6. Qb3 Nc6 7. Nbd2 Be7 8. Be2
+Qxb3 9. axb3 b6 10. O-O Bb7 11. dxc5 bxc5 12. Ba6 Bxa6 13. Rxa6 Kd7 14. Rd1 Kc7
+15. e4 Kb7 16. Ra4 Rhd8 17. exd5 exd5 18. Re1 h6 1/2-1/2

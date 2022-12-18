@@ -1,0 +1,18 @@
+[Event "E Detroit Motor City op"]
+[Site "E Detroit Motor City op"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Cowan, W."]
+[Black "Turner, D."]
+[Result "0-1"]
+[ECO "D00"]
+[Opening "Queen's pawn"]
+[Variation "stonewall attack"]
+[HashCode "15bee9d2"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. e3 d5 3. Bd3 g6 4. Nd2 Bg7 5. c3 O-O 6. f4 Nc6 7. Ngf3 Bg4 8.
+h3 Bxf3 9. Qxf3 e6 10. Nb3 Ne7 11. g4 b6 12. Bd2 Nc8 13. O-O-O Nd6 14. h4
+Nfe4 15. Be1 c5 16. dxc5 bxc5 17. Bc2 Qb6 18. g5 Rab8 19. h5 c4 20. Nd4
+Qxb2# 0-1
+

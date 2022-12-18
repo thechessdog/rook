@@ -1,0 +1,21 @@
+[Event "Netherlands tt"]
+[Site "Netherlands tt"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "De Jong, Tom"]
+[Black "Carlier"]
+[Result "0-1"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Grand Prix attack"]
+[HashCode "492336e3"]
+[Epoch "Rook"]
+[WhiteID "1000543"]
+[WhiteCountry "NED"]
+
+1. e4 c5 2. f4 Nc6 3. Nf3 e6 4. d3 g6 5. c3 d5 6. Qe2 Nge7 7. g3 Bg7 8. Bg2 b6
+9. O-O Ba6 10. e5 h5 11. Be3 Qd7 12. Bf2 O-O-O 13. Nbd2 Nf5 14. Rfd1 f6 15. a4
+fxe5 16. fxe5 g5 17. Nxg5 Nxe5 18. Ndf3 Nxf3+ 19. Nxf3 e5 20. Bh3 Kc7 21. a5
+Nxg3 22. axb6+ Kb7 23. hxg3 Qxh3 24. Rxa6 Kxa6 25. d4+ Kb7 26. bxa7 c4 27. dxe5
+h4 28. Qe3 Qe6 29. Ng5 Qc6 30. gxh4 Bh6 31. Qd4 Bxg5 32. hxg5 Rh5 33. e6 Rxg5+
+34. Kf1 Qxe6 35. Re1 Qh3+ 36. Ke2 Qg4+ 37. Qxg4 Rxg4 38. Ra1 Ka8 0-1

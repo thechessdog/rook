@@ -1,0 +1,18 @@
+[Event "Hilversum"]
+[Site "Hilversum"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "De Jong, Peter"]
+[Black "Blom, P."]
+[Result "1-0"]
+[ECO "C77"]
+[Opening "Ruy Lopez"]
+[Variation "Morphy defence"]
+[HashCode "bd7d7081"]
+[Epoch "Rook"]
+[WhiteCountry "NED"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. d4 exd4 6. O-O Be7 7. Re1 O-O 8. e5
+Ne8 9. Bf4 d5 10. Bxc6 bxc6 11. Nxd4 Bd7 12. Nd2 c5 13. N4f3 c6 14. c4 Nc7 15.
+Rc1 Ne6 16. Bg3 f5 17. exf6 Rxf6 18. Qe2 Rf8 19. Nb3 Re8 20. Ne5 Bg5 21. cxd5
+cxd5 22. Rcd1 d4 23. Qh5 Bc8 24. Qf7+ Kh8 25. Qf3 Qe7 26. Qxa8 1-0

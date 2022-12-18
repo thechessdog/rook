@@ -1,0 +1,18 @@
+[Event "Allentown"]
+[Site "Allentown"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Myers"]
+[Black "West"]
+[Result "1-0"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, poisoned pawn variation"]
+[HashCode "4f9350c0"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Qg4 Qc7 8.
+Bd3 cxd4 9. Ne2 dxc3 10. O-O Nbc6 11. f4 Bd7 12. a4 O-O-O 13. Ba3 Rdg8 14.
+Rfb1 h5 15. Qf3 g5 16. Bd6 g4 17. Qe3 Qd8 18. Ba6 bxa6 19. Qxa7 Nxa7 20.
+Rb8# 1-0
+

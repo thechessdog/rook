@@ -1,0 +1,21 @@
+[Event "Buenos Aires"]
+[Site "Buenos Aires"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Cranbourne"]
+[Black "Mosquera"]
+[Result "1-0"]
+[ECO "B99"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7...Be7 main line"]
+[HashCode "aaac2d13"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8.
+Qf3 Qc7 9. O-O-O Nbd7 10. Qg3 b5 11. Bxb5 axb5 12. Rhe1 O-O 13. e5 dxe5 14.
+fxe5 Nd5 15. Nxd5 Bxg5+ 16. Qxg5 exd5 17. Nf5 g6 18. Rd3 Nxe5 19. Ne7+ Kg7
+20. Qxe5+ Qxe5 21. Rxe5 Rxa2 22. Nxc8 Rxc8 23. Rdxd5 b4 24. Rd3 Rc4 25. g3
+h5 26. Kb1 Ra6 27. b3 Kf6 28. bxc4 Kxe5 29. Kb2 g5 30. Rd5+ Kf6 31. h4 g4
+32. Rxh5 Ra3 33. Rg5 Rxg3 34. c5 Ke6 35. h5 f5 36. c6 Kf6 37. Rg6+ Kf7 38.
+Rg5 Kf6 39. Rg6+ Kf7 40. Rg5 Kf6 41. Rg8 Rc3 42. h6 1-0
+

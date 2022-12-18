@@ -1,0 +1,14 @@
+[Event "Luik"]
+[Site "Luik"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Pleive"]
+[Black "Kerkhof"]
+[Result "0-1"]
+[ECO "B40"]
+[Opening "Sicilian defence"]
+[HashCode "93ca6f3b"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Bc5 5. Be3 Qb6 6. b3 Nf6 7. f3 e5 0-1
+

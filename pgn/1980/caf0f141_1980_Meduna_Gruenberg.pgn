@@ -1,0 +1,22 @@
+[Event "DSV-Turnier"]
+[Site "Leipzig"]
+[Date "1980.??.??"]
+[Round "7"]
+[White "Meduna, Eduard"]
+[Black "Gruenberg, Hans-Ulrich"]
+[Result "0-1"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Nimzovich (knight's tour) variation"]
+[HashCode "caf0f141"]
+[Epoch "Rook"]
+[WhiteID "300055"]
+[WhiteCountry "CZE"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. Nd2 Nbd7 8. e4
+Bg7 9. Be2 O-O 10. O-O Re8 11. f4 c4 12. e5 dxe5 13. Nxc4 Nb6 14. fxe5 Ng4 15.
+Bxg4 Nxc4 16. Be2 Bxe5 17. Bxc4 Qh4 18. h3 Bxh3 19. Ne2 Bg4 20. Bf4 Bxe2 21. g3
+Bxf4 22. gxh4 Bxd1 23. Rxf4 Be2 24. Bb3 f5 25. d6+ Kf8 26. a4 Rad8 27. Rd4 Bf3
+28. a5 Re4 29. Rd3 Be2 30. Rd2 Bc4 31. Ba4 Rxh4 32. d7 a6 33. Rc1 Re4 34. b3
+Re2 35. Rxe2 Bxe2 36. Re1 Bb5 37. Bxb5 axb5 38. Re5 b4 0-1

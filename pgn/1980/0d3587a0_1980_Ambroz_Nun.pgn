@@ -1,0 +1,23 @@
+[Event "CSR-ch"]
+[Site "Trnava"]
+[Date "1980.??.??"]
+[Round "11"]
+[White "Ambroz, Jan"]
+[Black "Nun, Jiri"]
+[Result "1-0"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (without ...d6)"]
+[HashCode "0d3587a0"]
+[Epoch "Rook"]
+[WhiteID "300209"]
+[BlackID "300179"]
+[WhiteCountry "CZE"]
+[BlackCountry "CZE"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 d6 4. d4 cxd4 5. Qxd4 Bd7 6. Bxc6 Bxc6 7. Bg5 Nf6 8.
+Nc3 e6 9. O-O-O Be7 10. Rhe1 O-O 11. Kb1 b5 12. Bxf6 Bxf6 13. Qxd6 Qb6 14. Ne5
+Bxe5 15. Qxe5 Qxf2 16. Ne2 Rfd8 17. Nd4 Be8 18. Rf1 Qh4 19. Rd3 f6 20. Nxe6 Bf7
+21. Qf4 Qxf4 22. Nxf4 Bc4 23. Rxd8+ Rxd8 24. Re1 Rd2 25. b3 Bf7 26. Re2 Rd1+
+27. Kb2 g5 28. Nd3 Bg6 29. Kc3 Ra1 30. Kb4 Rxa2 31. Kxb5 Be8+ 32. Kc5 Kf8 33.
+Rf2 Ke7 34. Nb4 Ra5+ 35. Kd4 1-0

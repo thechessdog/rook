@@ -1,0 +1,21 @@
+[Event "corr SC"]
+[Site "corr SC"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Taivainen, Kari"]
+[Black "Tiihonen, Ilpo"]
+[Result "0-1"]
+[ECO "C78"]
+[Opening "Ruy Lopez"]
+[Variation "Archangelsk (counterthrust) variation"]
+[HashCode "0def31ce"]
+[Epoch "Rook"]
+[BlackID "505340"]
+[BlackCountry "FIN"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Bb7 7. Re1 Bc5 8. c3
+d6 9. d4 Bb6 10. a4 h6 11. Nh4 Ne7 12. d5 O-O 13. Nd2 c6 14. c4 bxc4 15. dxc6
+Bxc6 16. Nxc4 Nxe4 17. Rxe4 Bxe4 18. Bxh6 Bxf2+ 19. Kxf2 gxh6 20. Qg4+ Ng6 21.
+Nf5 Bxf5 22. Qxf5 Qh4+ 23. Kg1 Rab8 24. Nd2 Qd4+ 25. Kh1 Kg7 26. Qc2 Rfc8 27.
+Qf5 Qf4 28. Qd7 Kh8 29. Qxf7 Qxf7 30. Bxf7 Kg7 31. Bd5 Nf4 32. Bf3 Rxb2 33. Nf1
+Rcb8 34. g3 Rb1 0-1

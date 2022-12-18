@@ -1,0 +1,17 @@
+[Event "Thessaloniki olw"]
+[Site "Thessaloniki olw"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Clarke, C."]
+[Black "Justo, Virginia"]
+[Result "0-1"]
+[ECO "B07"]
+[Opening "Pirc defence"]
+[HashCode "510fb91f"]
+[Epoch "Rook"]
+[BlackID "101354"]
+[BlackCountry "ARG"]
+
+1. d4 Nf6 2. Nc3 g6 3. e4 d6 4. Bd3 Bg7 5. Nf3 O-O 6. Be3 Ng4 7. Bd2 e5 8. d5
+f5 9. Bg5 Qe8 10. Nb5 Na6 11. h3 fxe4 12. hxg4 exd3 13. Qxd3 e4 14. Qc4 exf3+
+15. Kd2 fxg2 16. Rhg1 Rxf2+ 17. Kc1 Qe5 18. Qb3 Qxg5+ 19. Kd1 Qd2# 0-1

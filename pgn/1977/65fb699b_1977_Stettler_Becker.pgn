@@ -1,0 +1,16 @@
+[Event "DDR"]
+[Site "DDR"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Stettler"]
+[Black "Becker, M1."]
+[Result "1-0"]
+[ECO "A57"]
+[Opening "Benko gambit"]
+[Variation "Zaitsev system"]
+[HashCode "65fb699b"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. Nc3 axb5 6. e4 b4 7. Nb5 d6 8. Bf4
+Nbd7 9. Nf3 Nb6 10. Rc1 Ra5 11. a3 Qd7 12. Rxc5 dxc5 13. Nc7+ Kd8 14. Ne5 Qa4
+15. b3 Qxa3 16. Nxf7+ Kd7 17. Bb5+ Rxb5 18. Nxb5 Qa5 19. Ne5+ 1-0

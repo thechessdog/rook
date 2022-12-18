@@ -1,0 +1,19 @@
+[Event "Roskilde"]
+[Site "Roskilde"]
+[Date "1978.01.01"]
+[Round "6"]
+[White "Ghitescu, Theodor"]
+[Black "Schneider, Lars-Ake"]
+[Result "0-1"]
+[ECO "E42"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5, 5.Ne2 (Rubinstein)"]
+[HashCode "f6cf1380"]
+[Epoch "Rook"]
+[WhiteCountry "ROU"]
+[BlackCountry "SWE"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Ne2 d5 6. a3 Ba5 7. dxc5 dxc4 8.
+Qxd8+ Kxd8 9. Bd2 e5 10. Ng3 Be6 11. Nce4 Bxd2+ 12. Kxd2 Nxe4+ 13. Nxe4 Ke7 14.
+Rc1 Rd8+ 15. Kc3 Bd5 16. Nd6 Na6 17. e4 Nxc5 18. Nf5+ Kf6 19. exd5 Ne4+ 20. Kb4
+a5+ 21. Ka4 b5+ 22. Kxb5 Rab8+ 0-1

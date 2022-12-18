@@ -1,0 +1,23 @@
+[Event "corr SWE/K"]
+[Site "corr SWE/K"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Eriksson, Ola"]
+[Black "Mattsson, Bertil"]
+[Result "0-1"]
+[ECO "D20"]
+[Opening "QGA"]
+[Variation "3.e4"]
+[HashCode "f95110be"]
+[Epoch "Rook"]
+
+1. d4 d5 2. c4 dxc4 3. e4 Nf6 4. e5 Nd5 5. Bxc4 c6 6. Nf3 Bf5 7. O-O e6 8.
+Nc3 Be7 9. Nxd5 cxd5 10. Bb5+ Nd7 11. Bd3 Bg6 12. Bxg6 hxg6 13. Qd3 Rc8 14.
+Bd2 Nb8 15. b4 Nc6 16. Rfb1 O-O 17. a4 Nb8 18. Rc1 Qd7 19. b5 Rxc1+ 20.
+Rxc1 Rc8 21. Rxc8+ Qxc8 22. Qc3 Qxc3 23. Bxc3 a6 24. Ba5 axb5 25. axb5 Nd7
+26. Kf1 b6 27. Bc3 g5 28. Ne1 f6 29. Nd3 Kf7 30. Ke2 Kg6 31. h3 fxe5 32.
+dxe5 Nc5 33. Ne1 Na4 34. Ba1 Bb4 35. Nc2 Bc3 36. Kd3 Bxa1 37. Nxa1 Kf5 38.
+Kd4 Nc5 39. Nc2 Nb3+ 40. Kc3 Nc1 41. Kd2 Nb3+ 42. Kc3 Na5 43. Kd4 Nc4 44.
+Nb4 Nxe5 45. Nc6 Nc4 46. Ne7+ Kf6 47. Nc8 Kf7 48. Na7 Ke7 49. g3 Kd7 50. f3
+Na5 51. Ke5 Kc7 52. f4 gxf4 53. Kxf4 Kb7 0-1
+

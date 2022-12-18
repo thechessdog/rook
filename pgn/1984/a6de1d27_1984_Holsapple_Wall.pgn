@@ -1,0 +1,18 @@
+[Event "Dayton,OH"]
+[Site "Dayton,OH"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Holsapple, Boyd"]
+[Black "Wall, Bill"]
+[Result "0-1"]
+[ECO "B15"]
+[Opening "Caro-Kann"]
+[Variation "Gurgenidze system"]
+[HashCode "a6de1d27"]
+[Epoch "Rook"]
+[BlackCountry "USA"]
+[WhiteCountry "USA"]
+
+1. e4 c6 2. d4 d5 3. Nc3 g6 4. Nf3 Bg7 5. h4 Bg4 6. Be2 Qb6 7. exd5 Bxf3 8.
+Bxf3 Bxd4 9. dxc6 Bxf2+ 10. Kf1 Nxc6 11. Nd5 Qb5+ 12. Kxf2 O-O-O 13. Nc3 Qb6+
+14. Be3 Qxb2 0-1

@@ -1,0 +1,34 @@
+[Event "Reykjavik"]
+[Site "Reykjavik"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Helmers, Knut J"]
+[Black "Kogan, Boris"]
+[Result "0-1"]
+[ECO "D11"]
+[Opening "QGD Slav"]
+[Variation "3.Nf3"]
+[HashCode "744accf9"]
+[Epoch "Rook"]
+[WhiteID "1500023"]
+[BlackID "2804352"]
+[WhiteCountry "NOR"]
+[BlackCountry "ISR"]
+
+1. Nf3 d5 2. d4 c6 3. c4 e6 4. Qc2 Nf6 5. g3 dxc4 6. Qxc4 b5 7. Qb3 a5 8. Bg2
+a4 9. Qc2 Bb7 10. O-O Na6 11. Nc3 Be7 12. Bg5 O-O 13. Rad1 Nd7 14. Bc1 Qb6 15.
+e4 c5 16. d5 e5 17. Bh3 Rab8 18. Be3 Bd6 19. Nh4 g6 20. f4 Kh8 21. f5 g5 22.
+Bxg5 c4+ 23. Kh1 f6 24. Bh6 Rg8 25. Qe2 Bf8 26. Bc1 b4 27. Qh5 Rg7 28. Ne2 Kg8
+29. g4 Nac5 30. Ng3 Rd8 31. Nf3 Nd3 32. Rxd3 cxd3 33. g5 Rc8 34. Qh4 Rxc1 35.
+Rxc1 Qe3 36. Rf1 fxg5 37. Qh5 Nf6 38. Qh6 d2 39. Qxf6 d1=Q 40. Qe6+ Kh8 41. Qf6
+Be7 42. Qxe5 Qexf3+ 43. Bg2 Qdxf1+ 44. Nxf1 Qf4 45. Qe6 Qd6 46. e5 Qxe6 47.
+dxe6 Bc8 48. Bd5 Bc5 49. f6 Rc7 50. Ng3 Bxe6 51. Bxe6 Bd4 52. f7 Rc1+ 53. Kg2
+Bc5 54. Ne4 Rg1+ 55. Kf3 Be7 56. Bd7 Rf1+ 57. Kg3 Rxf7 58. Bxa4 Kg7 59. Bb3 Rf5
+60. e6 h5 61. Kg2 Rf4 62. Ng3 Kf8 63. Nxh5 Rd4 64. Ng3 Rd2+ 65. Kh3 Rxb2 66.
+Nf5 Bf6 67. Kg3 Rd2 68. h3 Bd8 69. Kf3 Rd3+ 70. Kg4 Bf6 71. Bc4 Rd1 72. Bb3 Rf1
+73. Ne3 Rf4+ 74. Kg3 Rd4 75. Kg2 Be7 76. Nf5 Rd2+ 77. Kf3 Rd3+ 78. Kg4 Bd8 79.
+Bc2 Rd2 80. Bb3 Rg2+ 81. Kf3 Rg1 82. Ne3 Be7 83. Kf2 Rh1 84. Kg2 Re1 85. Kf2
+Rc1 86. Nf5 Rc3 87. Kg2 Bd8 88. Ba4 Rc5 89. Nd4 Rd5 90. Nf3 Bc7 91. Bb3 Rd3 92.
+Kf2 Bf4 93. Ke2 Re3+ 94. Kf2 Rc3 95. Kg2 Rd3 96. Bc4 Re3 97. Kf2 Rc3 98. Bb3
+Ke7 99. Kg2 Kf6 100. Kf2 Bd6 101. Kg2 Bc5 102. Ne1 Kf5 103. Nf3 Kf4 104. Ne1
+Re3 105. Nc2 Re2+ 106. Kf1 Re4 107. Ne1 Kg3 108. Nd3 Be7 0-1

@@ -1,0 +1,21 @@
+[Event "corr ch-EU"]
+[Site "corr ch-EU"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Krisztian"]
+[Black "Smit"]
+[Result "0-1"]
+[ECO "E11"]
+[Opening "Bogo-Indian defence"]
+[HashCode "563fc369"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 Bb4+ 4. Bd2 Bxd2+ 5. Qxd2 d6 6. Nc3 O-O 7. e4 Nc6
+8. Be2 e5 9. d5 Ne7 10. Nh4 Ne8 11. g3 a5 12. f4 exf4 13. Qxf4 Ng6 14. Qf2
+Nxh4 15. gxh4 f5 16. Rf1 f4 17. O-O-O Qe7 18. Rd3 Qe5 19. Rf3 Nf6 20. Rxf4
+Bh3 21. Re1 Nxe4 22. Rxf8+ Rxf8 23. Qe3 Nxc3 24. Qxe5 Nxa2+ 25. Kb1 dxe5
+26. Kxa2 Rf4 27. Bd3 Bf5 28. Bxf5 Rxf5 29. Kb3 Kf7 30. c5 Kf6 31. Rd1 Rf4
+32. d6 cxd6 33. Rxd6+ Kf5 34. Rd7 Rb4+ 35. Kc3 Kf6 36. h5 Rb5 37. Rc7 h6
+38. b3 e4 39. Kd4 Rb4+ 40. Ke3 Ke5 41. Re7+ Kd5 42. Rxg7 Rxb3+ 43. Kf4 a4
+44. Re7 e3 0-1
+

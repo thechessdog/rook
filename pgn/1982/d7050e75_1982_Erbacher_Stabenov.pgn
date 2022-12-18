@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Erbacher, P."]
+[Black "Stabenov, J."]
+[Result "1-0"]
+[ECO "E86"]
+[Opening "King's Indian"]
+[Variation "Saemisch, orthodox, 7.Nge2 c6"]
+[HashCode "d7050e75"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 e5 7. Nge2 c6 8.
+Qd2 Nbd7 9. d5 cxd5 10. Nxd5 Nxd5 11. Qxd5 Nb6 12. Qb5 f5 13. Nc3 fxe4 14.
+Nxe4 Rf7 15. Rd1 Rd7 16. Be2 d5 17. cxd5 Rxd5 18. Rxd5 Qxd5 19. Qe8+ 1-0
+

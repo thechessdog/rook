@@ -1,0 +1,22 @@
+[Event "corr ch-CSSR"]
+[Site "corr ch-CSSR"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Jandovsky"]
+[Black "Pribik"]
+[Result "1-0"]
+[ECO "B33"]
+[Opening "Sicilian"]
+[Variation "Pelikan (Lasker/Sveshnikov) variation"]
+[HashCode "f4dae7aa"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. a4 a6 8.
+Na3 Be6 9. Bg5 Be7 10. Bc4 Rc8 11. Bxf6 Bxf6 12. O-O O-O 13. Bd5 Bg5 14.
+Ne2 Nb4 15. Bxb7 Rb8 16. Bd5 Nxd5 17. exd5 Bg4 18. Nc4 f5 19. f3 Bh5 20. g3
+e4 21. Nd4 Qf6 22. g4 fxg4 23. fxe4 Qg6 24. Qd3 Rf3 25. Nxf3 gxf3 26. Kh1
+Rf8 27. Rg1 f2 28. Rg3 Qf6 29. Rf1 Bh4 30. Rh3 Bg4 31. Re3 Qf4 32. h3 Bh5
+33. e5 Bg6 34. Qe2 Qd4 35. Nxd6 Qxd5+ 36. Kh2 Bg5 37. Rxf2 Bf4+ 38. Rxf4
+Rxf4 39. Kg3 Rxa4 40. Qf3 Qxf3+ 41. Rxf3 h5 42. c4 Rb4 43. e6 Rxb2 44. e7
+Rb6 45. c5 1-0
+

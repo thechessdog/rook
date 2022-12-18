@@ -1,0 +1,24 @@
+[Event "Malta"]
+[Site "Malta"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Campos Lopez, Mario"]
+[Black "Lematschko, Tatjana"]
+[Result "0-1"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "c85b05dd"]
+[Epoch "Rook"]
+[WhiteID "5100100"]
+[BlackID "1300237"]
+[WhiteCountry "MEX"]
+[BlackCountry "SUI"]
+
+1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. d4 Nc6 5. Nf3 cxd4 6. cxd4 d6 7. Bc4 e6 8. O-O
+Be7 9. Re1 O-O 10. a3 Qb6 11. Bxd5 exd5 12. Nc3 Be6 13. Qd3 h6 14. b4 Rfd8 15.
+Ne2 Bg4 16. Bb2 Bxf3 17. Qxf3 a5 18. Qxd5 dxe5 19. Qe4 axb4 20. d5 bxa3 21. Bc3
+Nd4 22. Bxd4 exd4 23. Qxe7 Re8 24. Qh4 d3 25. Qd4 Qxd4 26. Nxd4 Rxe1+ 27. Rxe1
+a2 28. Nb3 Ra3 29. Na1 Ra5 30. Rd1 Rxd5 31. Kf1 Rb5 32. Ke1 Rb1 33. Kd2 b5 34.
+Rc1 b4 35. f3 Kh7 36. h4 Kg6 37. g4 Kf6 38. f4 Ke6 39. Re1+ Kd5 40. g5 Rxe1 41.
+Kxe1 Kc4 42. Kd2 b3 0-1

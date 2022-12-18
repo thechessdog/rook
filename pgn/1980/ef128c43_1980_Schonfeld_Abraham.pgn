@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Schonfeld"]
+[Black "Abraham, GJ."]
+[Result "0-1"]
+[ECO "A23"]
+[Opening "English"]
+[Variation "Bremen system, Keres variation"]
+[HashCode "ef128c43"]
+[Epoch "Rook"]
+
+1. c4 e5 2. Nc3 Nf6 3. g3 c6 4. Bg2 d5 5. cxd5 cxd5 6. Qb3 Nc6 7. Nxd5 Nd4
+8. Nxf6+ gxf6 9. Qd3 Bf5 10. e4 Rc8 11. Kd1 Be6 12. b3 Qa5 13. Bb2 Bc5 14.
+Ne2 O-O 15. Nxd4 Bxd4 16. Bxd4 Rfd8 17. Bc3 Rxc3 18. b4 Qa4+ 0-1
+

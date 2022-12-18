@@ -1,0 +1,28 @@
+[Event "corr DDR/FS"]
+[Site "corr DDR/FS"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Bahr"]
+[Black "Blachmann"]
+[Result "0-1"]
+[ECO "B01"]
+[Opening "Scandinavian"]
+[Variation "Marshall variation"]
+[HashCode "5d87c2b3"]
+[Epoch "Rook"]
+
+1. e4 d5 2. exd5 Nf6 3. d4 Nxd5 4. Nf3 Bg4 5. c4 Nb6 6. Be2 g6 7. O-O Bg7
+8. Be3 Nc6 9. Nbd2 O-O 10. c5 Nd7 11. Nc4 e6 12. h3 Bf5 13. Qb3 Rb8 14.
+Rfd1 Qe7 15. Rac1 Rfd8 16. Qa3 Be4 17. b4 a6 18. Na5 Nxa5 19. Qxa5 Nf6 20.
+Ne5 Nd5 21. Bf3 Bxf3 22. Nxf3 c6 23. Qa3 Nxe3 24. Qxe3 Rd5 25. Ne5 Rbd8 26.
+f4 Qh4 27. Rc4 g5 28. Rf1 Bxe5 29. dxe5 Rd3 30. Qf2 Qxf2+ 31. Rxf2 R8d4 32.
+Rxd4 Rxd4 33. fxg5 Rxb4 34. Rc2 Re4 35. Kh2 Rxe5 36. h4 Rd5 37. Kg3 Kg7 38.
+Kf3 Kg6 39. g4 e5 40. Ke4 f6 41. gxf6 Kxf6 42. Rc4 h6 43. Rb4 Rxc5 44. Rxb7
+Rc4+ 45. Kf3 Rf4+ 46. Kg3 Ra4 47. Rh7 Ra3+ 48. Kg2 Rxa2+ 49. Kf3 Ra3+ 50.
+Ke2 Kg6 51. Re7 Ra4 52. Re6+ Kf7 53. Rxc6 Rxg4 54. Rxh6 Rg6 55. Rh8 Kg7 56.
+Ra8 Rb6 57. Ke3 Kf6 58. Rh8 Rb3+ 59. Ke4 Rb4+ 60. Ke3 a5 61. Rh6+ Kf5 62.
+Rh5+ Ke6 63. Rh8 a4 64. h5 a3 65. Ra8 Rh4 66. h6 Kf5 67. Kf2 Kf4 68. Ra4+
+e4 69. Kg2 Rxh6 70. Rxa3 Rd6 71. Kf2 Rd2+ 72. Ke1 Rh2 73. Ra8 Kf3 74. Rf8+
+Ke3 75. Kf1 Rh1+ 76. Kg2 Re1 77. Ra8 Rc1 78. Ra3+ Ke2 79. Ra2+ Kd3 80. Ra8
+e3 81. Rd8+ Ke2 82. Re8 Kd2 83. Rd8+ Ke1 84. Kg1 e2 85. Rd7 Rd1 0-1
+

@@ -1,0 +1,20 @@
+[Event "corr SM-E"]
+[Site "corr SM-E"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Sysioja, Heikki"]
+[Black "Klemettinen, Pentti"]
+[Result "0-1"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, poisoned pawn, Konstantinopolsky variation"]
+[HashCode "803d2601"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Qg4 Qc7 8.
+Qxg7 Rg8 9. Qxh7 cxd4 10. Ne2 Nbc6 11. f4 Bd7 12. Rb1 dxc3 13. Be3 O-O-O
+14. Qd3 Nf5 15. Bd4 f6 16. exf6 Nfxd4 17. Nxd4 Qxf4 18. Nb5 d4 19. f7 Rgf8
+20. Rd1 Be8 21. Nd6+ Qxd6 22. fxe8=Q Rdxe8 23. Be2 Qf4 24. Bf3 Ne5 25. Qxd4
+Nxf3+ 26. gxf3 Qxf3 27. Rg1 Rd8 28. Qc5+ Kb8 29. Rd3 Rxd3 30. cxd3 c2 31.
+Kd2 c1=Q+ 0-1
+

@@ -1,0 +1,20 @@
+[Event "Moscow"]
+[Site "Moscow"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Westerinen, Heikki M.J."]
+[Black "Abramovic, Bosko"]
+[Result "0-1"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Grand Prix attack"]
+[HashCode "cf31d0a3"]
+[Epoch "Rook"]
+[WhiteID "500020"]
+[WhiteCountry "FIN"]
+[BlackID "900206"]
+[BlackCountry "SRB"]
+
+1. e4 c5 2. f4 e6 3. Nf3 d5 4. Bb5+ Nc6 5. Bxc6+ bxc6 6. d3 c4 7. dxc4 Nf6 8.
+exd5 cxd5 9. O-O Bc5+ 10. Kh1 O-O 11. Ne5 Ba6 12. Nd3 Bb6 13. cxd5 Qxd5 14. Nc3
+Qf5 15. a4 Rfd8 16. Nb5 Rac8 17. b3 Ng4 18. Bd2 Rxc2 0-1

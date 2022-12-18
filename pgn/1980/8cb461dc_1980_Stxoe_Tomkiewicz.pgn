@@ -1,0 +1,19 @@
+[Event "corr Wcup3"]
+[Site "corr Wcup3"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Stxoe"]
+[Black "Tomkiewicz"]
+[Result "0-1"]
+[ECO "B27"]
+[Opening "Sicilian"]
+[Variation "Hungarian variation"]
+[HashCode "8cb461dc"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 g6 3. d4 cxd4 4. Nxd4 Bg7 5. c4 Qb6 6. Nb3 Na6 7. Nc3 Bxc3+
+8. bxc3 d6 9. Bd3 Nf6 10. Be3 Qc7 11. h3 Be6 12. Nd2 Nc5 13. Bxc5 Qxc5 14.
+Rb1 b6 15. Qa4+ Bd7 16. Qb4 Qg5 17. g3 O-O 18. Rd1 Rac8 19. h4 Qh5 20. O-O
+g5 21. e5 Ng4 22. exd6 gxh4 23. dxe7 hxg3 24. exf8=Q+ Rxf8 25. Nf3 Bc6 26.
+fxg3 Bxf3 0-1
+

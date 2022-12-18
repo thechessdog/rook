@@ -1,0 +1,20 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Zhuravliov, Valerij"]
+[Black "Samkov"]
+[Result "1-0"]
+[ECO "B01"]
+[Opening "Scandinavian"]
+[Variation "Marshall variation"]
+[HashCode "3f7934b6"]
+[Epoch "Rook"]
+[WhiteID "11600055"]
+[WhiteCountry "LAT"]
+
+1. e4 d5 2. exd5 Nf6 3. d4 Nxd5 4. c4 Nb6 5. Nf3 g6 6. h3 Bg7 7. Nc3 O-O 8. Be3
+Nc6 9. Qd2 e5 10. d5 Ne7 11. g4 f5 12. O-O-O Nd7 13. Bh6 a6 14. Bxg7 Kxg7 15.
+Qe3 e4 16. Ng5 Nf6 17. Ne6+ Bxe6 18. dxe6 Qe8 19. g5 Nh5 20. Rd7 Kg8 21. c5 Rc8
+22. Bc4 b5 23. Bb3 c6 24. Rhd1 b4 25. Ne2 f4 26. Qxe4 Rf5 27. h4 Rxc5+ 28. Kb1
+Qf8 29. Rxe7 Qxe7 30. Rd7 Qe8 31. e7+ Kh8 32. Qd4+ Ng7 33. Rd8 1-0

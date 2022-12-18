@@ -1,0 +1,17 @@
+[Event "Pennsylvania"]
+[Site "Pennsylvania"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Jonathan"]
+[Black "Yedidia, Jonathan"]
+[Result "1-0"]
+[ECO "D41"]
+[Opening "QGD"]
+[Variation "Semi-Tarrasch, 5.cd"]
+[HashCode "95fb9a5e"]
+[Epoch "Rook"]
+[BlackID "2003015"]
+[BlackCountry "USA"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 c5 5. cxd5 Nxd5 6. e4 cxd4 7. exd5 dxc3 8.
+Bb5+ Bd7 9. dxe6 Qe7 10. Bxd7+ Nxd7 11. Qxd7+ Qxd7 12. exd7+ 1-0

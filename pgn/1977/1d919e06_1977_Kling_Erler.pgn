@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Kling, K."]
+[Black "Erler, R."]
+[Result "1-0"]
+[ECO "C69"]
+[Opening "Ruy Lopez"]
+[Variation "exchange, Bronstein variation"]
+[HashCode "1d919e06"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O Qd6 6. d4 exd4 7. Nxd4
+Bd7 8. Nc3 O-O-O 9. Be3 Qg6 10. Qe2 Nf6 11. f3 h5 12. Qf2 h4 13. Nde2 Nh5
+14. Rad1 Bd6 15. e5 Bxe5 16. Bg5 b6 17. Bxd8 Rxd8 18. f4 Bd6 19. f5 Qf6 20.
+Ne4 Bxh2+ 21. Kxh2 Qe5+ 22. Nf4 1-0
+

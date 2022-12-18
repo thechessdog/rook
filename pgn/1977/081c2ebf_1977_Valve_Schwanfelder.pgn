@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Valve, P."]
+[Black "Schwanfelder, M."]
+[Result "1-0"]
+[ECO "E87"]
+[Opening "King's Indian"]
+[Variation "Saemisch, orthodox, 7.d5"]
+[HashCode "081c2ebf"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 e5 7. d5 Nh5 8. Qd2
+f5 9. O-O-O Nd7 10. exf5 gxf5 11. Bd3 a6 12. Bxf5 Rxf5 13. g4 Rf8 14. gxh5
+Qh4 15. h6 Bf6 16. Nge2 b5 17. Rdg1+ Kh8 18. Rg4 Qh5 19. Ne4 Be7 20. N4g3
+Qe8 21. Rg7 Nb6 22. Qc2 1-0
+

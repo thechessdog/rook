@@ -1,0 +1,18 @@
+[Event "ch-URS, semi final"]
+[Site "Baku"]
+[Date "1977.10.01"]
+[Round "1"]
+[White "Razuvaev, Yuri S"]
+[Black "Beliavsky, Alexander G"]
+[Result "0-1"]
+[ECO "E04"]
+[Opening "Catalan"]
+[Variation "open, 5.Nf3"]
+[HashCode "29bcefde"]
+[Epoch "Rook"]
+[BlackID "14602377"]
+[WhiteCountry "RUS"]
+[BlackCountry "SLO"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Bg2 dxc4 5. Nf3 a6 6. Ne5 c5 7. Na3 Ra7 8. dxc5
+Qxd1+ 9. Kxd1 Bxc5 10. Naxc4 b5 11. Nd3 Rd7 0-1

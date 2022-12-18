@@ -1,0 +1,17 @@
+[Event "Moscow"]
+[Site "Moscow"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Gruzmann, Boris"]
+[Black "Arkanov"]
+[Result "0-1"]
+[ECO "C39"]
+[Opening "KGA"]
+[Variation "Kieseritsky, Paulsen defence"]
+[HashCode "a0c5d879"]
+[Epoch "Rook"]
+[WhiteID "4105290"]
+[WhiteCountry "GER"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. h4 g4 5. Ne5 Bg7 6. Nxg4 d5 7. exd5 Qe7+ 8.
+Kf2 Bd4+ 9. Kf3 h5 10. Nf2 Bg4+ 11. Nxg4 hxg4+ 12. Kxg4 Nf6+ 13. Kh3 Ne4 0-1

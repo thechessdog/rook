@@ -1,0 +1,17 @@
+[Event "Dayton,OH"]
+[Site "Dayton,OH"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Barsalou, Norm"]
+[Black "Wall, Bill"]
+[Result "0-1"]
+[ECO "A00"]
+[Opening "Grob's attack"]
+[HashCode "ddba0d03"]
+[Epoch "Rook"]
+[BlackCountry "USA"]
+
+1. g4 d5 2. Bg2 c6 3. h3 e5 4. e4 d4 5. d3 Bb4+ 6. c3 dxc3 7. bxc3 Bc5 8. Ne2
+h5 9. d4 exd4 10. cxd4 Bb4+ 11. Nbc3 hxg4 12. a3 Ba5 13. hxg4 Rxh1+ 14. Bxh1
+Qh4 15. Bf3 Bxg4 16. Qd3 Bxc3+ 17. Qxc3 Bxf3 18. Qxf3 Nf6 19. Qg3 Qh1+ 20. Ng1
+Qxe4+ 21. Be3 Qg4 0-1

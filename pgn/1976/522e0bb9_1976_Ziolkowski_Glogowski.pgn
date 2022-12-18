@@ -1,0 +1,17 @@
+[Event "Poland"]
+[Site "Poland"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Ziolkowski"]
+[Black "Glogowski"]
+[Result "0-1"]
+[ECO "A58"]
+[Opening "Benko gambit accepted"]
+[HashCode "522e0bb9"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. bxa6 e6 6. Nc3 exd5 7. Nxd5 Nxd5
+8. Qxd5 Nc6 9. e3 Be7 10. Bc4 O-O 11. Nf3 Bxa6 12. Bxa6 Qa5+ 13. Bd2 Qxa6
+14. Qxd7 Bf6 15. Bc3 Bxc3+ 16. bxc3 Rfd8 17. Qf5 Qc4 18. Ng5 Qxc3+ 19. Ke2
+Rd2+ 0-1
+

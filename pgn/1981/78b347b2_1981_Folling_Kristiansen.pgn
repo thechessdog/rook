@@ -1,0 +1,24 @@
+[Event "Gausdal Int"]
+[Site "Gausdal Int"]
+[Date "1981.01.01"]
+[Round "7"]
+[White "Folling, Magne"]
+[Black "Kristiansen, Tor"]
+[Result "0-1"]
+[ECO "C43"]
+[Opening "Petrov"]
+[Variation "modern attack, Symmetrical variation"]
+[HashCode "78b347b2"]
+[Epoch "Rook"]
+[WhiteID "1500600"]
+[WhiteCountry "NOR"]
+[BlackID "1500589"]
+[BlackCountry "NOR"]
+
+1. e4 e5 2. Nf3 Nf6 3. d4 Nxe4 4. Bd3 d5 5. Nxe5 Nd7 6. O-O Nxe5 7. dxe5 Nc5 8.
+Nc3 c6 9. Bf4 Be7 10. Re1 O-O 11. Qd2 Qb6 12. a3 Nxd3 13. cxd3 Be6 14. d4 Qd8
+15. Rac1 Qd7 16. Bg5 f6 17. exf6 Bxf6 18. Bxf6 Rxf6 19. Re5 Raf8 20. Qe3 Qf7
+21. f3 Qg6 22. Kh1 h5 23. Re1 Bc8 24. Nd1 h4 25. h3 Bxh3 26. Rg5 Qh6 27. gxh3
+Rxf3 28. Qe6+ Qxe6 29. Rxe6 Rxh3+ 30. Kg2 Rd3 31. Ne3 h3+ 32. Kg1 Rf3 33. Rge5
+Rxd4 34. Re7 Rd2 35. Rxb7 h2+ 36. Kh1 Rg3 37. Rb8+ Kh7 38. Rh5+ Kg6 39. Rxh2
+Rxh2+ 40. Kxh2 Rxe3 0-1

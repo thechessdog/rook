@@ -1,0 +1,18 @@
+[Event "corr TS88"]
+[Site "corr TS88"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Dellabella"]
+[Black "Martino"]
+[Result "1-0"]
+[ECO "B06"]
+[Opening "Robatsch defence"]
+[Variation "Pseudo-Austrian attack"]
+[HashCode "e444c6e9"]
+[Epoch "Rook"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. f4 a6 5. Nf3 Nh6 6. a4 e6 7. Bc4 O-O 8. O-O
+Nc6 9. f5 exf5 10. Bg5 Qd7 11. Nd5 fxe4 12. Bxh6 exf3 13. Qxf3 Qf5 14. Bxg7
+Kxg7 15. Qc3 Qg5 16. Nxc7 Ra7 17. Rxf7+ Rxf7 18. Ne8+ Kh8 19. Bxf7 d5 20.
+Re1 Qf4 21. Bxd5 Qxd4+ 22. Qxd4+ Nxd4 23. Re7 Ra8 24. Nf6 1-0
+

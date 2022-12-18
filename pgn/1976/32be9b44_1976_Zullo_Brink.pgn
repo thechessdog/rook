@@ -1,0 +1,17 @@
+[Event "Chioggia"]
+[Site "Chioggia"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Zullo"]
+[Black "Brink"]
+[Result "1-0"]
+[ECO "D35"]
+[Opening "QGD"]
+[Variation "exchange, positional line"]
+[HashCode "32be9b44"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. Bg5 e6 3. c4 d5 4. cxd5 exd5 5. Nc3 Nbd7 6. e3 Be7 7. Bd3 O-O
+8. Qc2 c6 9. Nf3 h6 10. Bf4 Re8 11. g4 Nf8 12. Ne5 Be6 13. Rg1 g5 14. Bf5
+gxf4 15. g5 hxg5 16. Rxg5+ Ng6 17. Bxe6 1-0
+

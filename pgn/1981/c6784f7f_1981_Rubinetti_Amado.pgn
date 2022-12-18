@@ -1,0 +1,17 @@
+[Event "Buenos Aires"]
+[Site "Buenos Aires"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Rubinetti, Jorge"]
+[Black "Amado, Claudio"]
+[Result "1-0"]
+[ECO "C50"]
+[Opening "Giuoco Pianissimo"]
+[HashCode "c6784f7f"]
+[Epoch "Rook"]
+[WhiteID "100161"]
+[WhiteCountry "ARG"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d3 Bc5 5. c3 d6 6. b4 Bb6 7. a4 a6 8. O-O O-O
+9. Ba3 Bg4 10. h3 Bh5 11. Nbd2 Bg6 12. Ba2 Nh5 13. Nc4 Qf6 14. b5 axb5 15. axb5
+Nd8 16. Bxd6 1-0

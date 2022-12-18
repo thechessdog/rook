@@ -1,0 +1,21 @@
+[Event "Sweden"]
+[Site "Sweden"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Rorvall, Goran"]
+[Black "Kaiszauri, Konstanty"]
+[Result "0-1"]
+[ECO "B96"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Polugayevsky, Simagin variation"]
+[HashCode "c6802812"]
+[Epoch "Rook"]
+[BlackID "1700510"]
+[BlackCountry "SWE"]
+[WhiteID "1700650"]
+[WhiteCountry "SWE"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 b5 8. e5
+dxe5 9. fxe5 Qc7 10. Qe2 Nfd7 11. O-O-O Bb7 12. Qg4 Qxe5 13. Be2 Nf6 14. Qh4
+Be7 15. Rhe1 Qc5 16. Bd3 Nc6 17. Rxe6 Nxd4 18. Ree1 Ne6 19. Be3 Qb4 20. Qg3 O-O
+21. Bf5 Rfd8 22. Bxe6 fxe6 23. Qc7 Bd5 24. Bg5 Bd6 25. Qb6 Bc5 0-1

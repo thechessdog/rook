@@ -1,0 +1,16 @@
+[Event "Tubingen 5'"]
+[Site "Tubingen 5'"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Frick, C."]
+[Black "Schlenker, R."]
+[Result "0-1"]
+[ECO "B01"]
+[Opening "Scandinavian defence"]
+[HashCode "652fe15d"]
+[Epoch "Rook"]
+
+1. e4 d5 2. exd5 Nf6 3. Bb5+ Bd7 4. Bc4 b5 5. Bb3 a5 6. a3 Na6 7. Nc3 Nc5
+8. Ba2 b4 9. axb4 axb4 10. Nce2 b3 11. cxb3 Bb5 12. Nf4 Nxd5 13. d4 Nxf4
+14. dxc5 Nxg2# 0-1
+

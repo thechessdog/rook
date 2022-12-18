@@ -1,0 +1,17 @@
+[Event "corr FRG/M"]
+[Site "corr FRG/M"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Kuhnert, H."]
+[Black "Keller, K."]
+[Result "1-0"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Lipnitzky attack"]
+[HashCode "cd9066ca"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 Be7 8.
+g4 O-O 9. g5 Ne8 10. h4 g6 11. h5 Kg7 12. hxg6 hxg6 13. Nf5+ Kg8 14. Qg4
+1-0
+

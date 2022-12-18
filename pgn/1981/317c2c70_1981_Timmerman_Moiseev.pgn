@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Timmerman, A."]
+[Black "Moiseev, Viktor"]
+[Result "0-1"]
+[ECO "C41"]
+[Opening "Philidor"]
+[Variation "Improved Hanham variation"]
+[HashCode "317c2c70"]
+[Epoch "Rook"]
+[BlackID "4101464"]
+[BlackCountry "RUS"]
+
+1. e4 e5 2. Nf3 d6 3. d4 Nf6 4. Nc3 Nbd7 5. Bc4 Be7 6. O-O O-O 7. a4 c6 8. Qe2
+Ne8 9. b4 Qc7 10. Be3 Ndf6 11. d5 Bg4 12. h3 Bh5 13. Kh1 Kh8 14. Rg1 Bxf3 15.
+gxf3 Nh5 16. Qd2 f5 17. dxc6 f4 18. cxb7 Qxb7 19. Bd5 Qc8 0-1

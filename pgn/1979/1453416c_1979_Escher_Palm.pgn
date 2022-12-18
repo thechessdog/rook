@@ -1,0 +1,19 @@
+[Event "corr FRG/C"]
+[Site "corr FRG/C"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Escher, F."]
+[Black "Palm, Hans"]
+[Result "0-1"]
+[ECO "B95"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6...e6"]
+[HashCode "1453416c"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. Qd2 Be7 8.
+O-O-O b5 9. Bxf6 Bxf6 10. f4 Bb7 11. a3 O-O 12. g4 Nc6 13. Nxc6 Bxc6 14.
+Bg2 Qb6 15. g5 Be7 16. h4 b4 17. axb4 Qxb4 18. Nb1 Qb7 19. Qd4 Rab8 20. Rh3
+Rfc8 21. Na3 e5 22. fxe5 dxe5 23. Qxe5 Ba4 24. Rd2 Bb4 25. Re2 Qb6 26. Bf1
+Bd6 0-1
+

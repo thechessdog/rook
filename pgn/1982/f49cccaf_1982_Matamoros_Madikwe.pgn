@@ -1,0 +1,16 @@
+[Event "Luzern olm"]
+[Site "Luzern olm"]
+[Date "1982.10.01"]
+[Round "1"]
+[White "Matamoros, C."]
+[Black "Madikwe, G."]
+[Result "1-0"]
+[ECO "D11"]
+[Opening "QGD Slav"]
+[Variation "3.Nf3"]
+[HashCode "f49cccaf"]
+[Epoch "Rook"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Bg4 4. Ne5 Bf5 5. cxd5 cxd5 6. Nc3 e6 7. Qa4+ Nd7
+8. e4 Bd6 9. Nxd7 Qxd7 10. Bb5 1-0
+

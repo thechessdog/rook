@@ -1,0 +1,20 @@
+[Event "Italy"]
+[Site "Italy"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Roncolini"]
+[Black "Casabona"]
+[Result "0-1"]
+[ECO "A22"]
+[Opening "English"]
+[Variation "Bremen, Smyslov system"]
+[HashCode "f4acc727"]
+[Epoch "Rook"]
+
+1. c4 e5 2. Nc3 Nf6 3. g3 Bb4 4. Bg2 O-O 5. Nf3 Re8 6. O-O e4 7. Nd4 Nc6 8.
+Nc2 Bxc3 9. bxc3 d6 10. Ne3 Ne5 11. d4 exd3 12. exd3 c6 13. h3 Qa5 14. f4
+Ned7 15. Qc2 Nb6 16. g4 Bd7 17. g5 Nh5 18. Rf3 Re7 19. f5 Rae8 20. Bd2 f6
+21. h4 c5 22. Raf1 Bc6 23. Rh3 Bxg2 24. Kxg2 Qa4 25. Qxa4 Nxa4 26. Kf3 g6
+27. Kg4 Nb6 28. fxg6 hxg6 29. gxf6 Rf7 30. Kg5 Re5+ 31. Kxg6 Nxf6 32. Nf5
+Ng4 33. Rg3 Rexf5 0-1
+

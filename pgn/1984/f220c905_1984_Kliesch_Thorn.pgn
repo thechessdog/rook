@@ -1,0 +1,21 @@
+[Event "corr EUR/M"]
+[Site "corr EUR/M"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Kliesch"]
+[Black "Thorn Leeson"]
+[Result "1-0"]
+[ECO "C53"]
+[Opening "Giuoco Piano"]
+[HashCode "f220c905"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d4 exd4 6. O-O Nxe4 7. cxd4 d5
+8. dxc5 dxc4 9. Qxd8+ Kxd8 10. Be3 Be6 11. Rd1+ Ke7 12. Na3 Nb4 13. Nd2
+Nxd2 14. Rxd2 c6 15. Bf4 Nd3 16. Bd6+ Kf6 17. b3 Rhd8 18. Rad1 Nb4 19. bxc4
+Rdc8 20. h3 a5 21. f4 h5 22. Be5+ Kg6 23. Rd6 Kf5 24. R1d2 h4 25. Re2 f6
+26. Bxf6 gxf6 27. Rexe6 Rf8 28. Re2 Na6 29. Nc2 Nxc5 30. Ne3+ Kg6 31. f5+
+Kg7 32. Ng4 Rf7 33. Kf2 Ra6 34. Rd8 Nd7 35. Ree8 Nf8 36. Nh2 Rb6 37. Nf3
+Rb2+ 38. Kg1 Rxa2 39. Nd4 a4 40. Ne6+ Kh6 41. Rxf8 Rxf8 42. Rxf8 Kh7 43.
+Rxf6 Rc2 44. Rf7+ 1-0
+

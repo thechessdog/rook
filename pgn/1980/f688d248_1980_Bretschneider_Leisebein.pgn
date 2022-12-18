@@ -1,0 +1,17 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Bretschneider"]
+[Black "Leisebein, Peter"]
+[Result "0-1"]
+[ECO "A28"]
+[Opening "English"]
+[Variation "four knights, 4.e3"]
+[HashCode "f688d248"]
+[Epoch "Rook"]
+[BlackCountry "DEU"]
+
+1. c4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. e3 Bb4 5. Qc2 O-O 6. d3 Re8 7. Bd2 Bxc3 8.
+Bxc3 d5 9. d4 exd4 10. Bxd4 Nxd4 11. Nxd4 dxc4 12. Qxc4 Ne4 13. Rd1 Qf6 14. Qc2
+Bg4 15. Rc1 Nxf2 16. Qxf2 Qxd4 17. Rc3 Qd1# 0-1

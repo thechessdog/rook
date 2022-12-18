@@ -1,0 +1,19 @@
+[Event "Aars"]
+[Site "Aars"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Poulsen, Peter Risgaard"]
+[Black "Gronhoj, Soren"]
+[Result "0-1"]
+[ECO "A43"]
+[Opening "Old Benoni defence"]
+[HashCode "a79bb6cd"]
+[Epoch "Rook"]
+[WhiteID "1407333"]
+[BlackID "1446088"]
+[WhiteCountry "DEN"]
+[BlackCountry "DEN"]
+
+1. d4 c5 2. dxc5 e6 3. b4 a5 4. c3 axb4 5. Be3 Nc6 6. Nd2 bxc3 7. Nb3 d5 8. Nf3
+e5 9. Qb1 g6 10. g4 Bxg4 11. Bg2 Bg7 12. O-O Nge7 13. Bg5 e4 14. Nh4 h6 15.
+Bxe7 Qxe7 16. f3 Qxh4 17. fxg4 Be5 18. h3 Qg3 19. Rf2 Nb4 0-1

@@ -1,0 +1,24 @@
+[Event "Lloyds Bank"]
+[Site "Londen open"]
+[Date "1984.08.01"]
+[Round "1"]
+[White "Rossiter, P."]
+[Black "Arkell, Keith C"]
+[Result "1-0"]
+[ECO "B10"]
+[Opening "Caro-Kann"]
+[Variation "Goldman (Spielmann) variation"]
+[HashCode "cf043f3c"]
+[Epoch "Rook"]
+[BlackID "400270"]
+[BlackCountry "ENG"]
+
+1. e4 c6 2. Nc3 d5 3. Qf3 e6 4. Qg3 d4 5. Nce2 Nf6 6. d3 Na6 7. Nf3 c5 8. a3 b6
+9. Ne5 Bb7 10. f4 c4 11. Nxc4 Rc8 12. e5 Ne4 13. dxe4 Rxc4 14. Qd3 Rc7 15. b4
+Qd7 16. Nxd4 Be7 17. Nb5 O-O 18. Nxc7 Qxc7 19. Bd2 f5 20. Qc4 Qd7 21. exf5 Bh4+
+22. g3 Bxh1 23. Qxe6+ Qxe6 24. fxe6 Nc7 25. gxh4 Bd5 26. e7 Re8 27. f5 Rxe7 28.
+e6 Be4 29. Bg5 Re8 30. O-O-O Bxf5 31. e7 h6 32. Rd8 hxg5 33. Bb5 Kf7 34. Bxe8+
+Nxe8 35. hxg5 Kxe7 36. Ra8 Nc7 37. Rxa7 Kd6 38. a4 Be4 39. Kd2 g6 40. c4 Bg2
+41. Kc3 Bf3 42. Kd4 Bg2 43. Ke3 Bf1 44. Kd4 Ne6+ 45. Kc3 Nc7 46. Rb7 Kc6 47.
+Rb8 Bg2 48. Rg8 Be4 49. Kd4 Bc2 50. Ke5 Kd7 51. Rg7+ Kd8 52. h4 Na6 53. Kd6 Ke8
+54. c5 bxc5 55. bxc5 Nb4 56. c6 Kf8 57. c7 Kxg7 58. c8=Q 1-0

@@ -1,0 +1,23 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Chekhov, Valery A"]
+[Black "Beliavsky, Alexander G"]
+[Result "0-1"]
+[ECO "E08"]
+[Opening "Catalan"]
+[Variation "closed, 7.Qc2"]
+[HashCode "ce143725"]
+[Epoch "Rook"]
+[BlackID "14602377"]
+[BlackCountry "SLO"]
+[WhiteID "4100859"]
+[WhiteCountry "RUS"]
+
+1. c4 e6 2. g3 d5 3. Bg2 Nf6 4. d4 Be7 5. Nf3 O-O 6. O-O Nbd7 7. Qc2 Ne4 8. Nc3
+Nxc3 9. Qxc3 c6 10. Bf4 b6 11. cxd5 cxd5 12. Rfc1 Ba6 13. Qd2 Bb5 14. Rc2 Rc8
+15. Rac1 Rxc2 16. Rxc2 Qa8 17. b3 Ba3 18. Qc3 a5 19. Qc7 a4 20. Bf1 h6 21. e3
+Bxf1 22. Kxf1 Qa6+ 23. Kg2 Nf6 24. Be5 Ne4 25. Nd2 Nxd2 26. Rxd2 Rc8 27. Qd7
+Bb4 28. Re2 Rc1 29. Qe8+ Bf8 30. Rd2 Qf1+ 31. Kf3 Qh1+ 32. Kg4 h5+ 33. Kxh5
+Qxh2+ 0-1

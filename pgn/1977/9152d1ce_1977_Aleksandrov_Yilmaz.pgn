@@ -1,0 +1,17 @@
+[Event "Albena"]
+[Site "Albena"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Aleksandrov, A."]
+[Black "Yilmaz, Gulsevil"]
+[Result "0-1"]
+[ECO "C68"]
+[Opening "Ruy Lopez"]
+[Variation "exchange variation"]
+[HashCode "9152d1ce"]
+[Epoch "Rook"]
+[BlackID "6300260"]
+[BlackCountry "TUR"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. d4 Bg4 6. dxe5 Qxd1+ 7. Kxd1
+O-O-O+ 8. Ke2 Re8 9. Bf4 f6 0-1

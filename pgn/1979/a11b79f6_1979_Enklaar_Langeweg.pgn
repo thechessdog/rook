@@ -1,0 +1,22 @@
+[Event "IBM-B"]
+[Site "Amsterdam II"]
+[Date "1979.07.01"]
+[Round "8"]
+[White "Enklaar, Bertus F"]
+[Black "Langeweg, Kick"]
+[Result "0-1"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Euwe variation"]
+[HashCode "a11b79f6"]
+[Epoch "Rook"]
+[BlackID "1000160"]
+[BlackCountry "NED"]
+[WhiteCountry "NLD"]
+
+1. e4 c5 2. d4 e6 3. c3 d5 4. e5 Nc6 5. Nf3 Bd7 6. Be2 Nge7 7. O-O Nf5 8. dxc5
+Bxc5 9. Bf4 Be7 10. h3 f6 11. exf6 Bxf6 12. Bd3 Nfe7 13. Qe2 O-O 14. Ng5 Bxg5
+15. Bxg5 e5 16. Nd2 Qe8 17. Bc2 Nf5 18. Bb3 Be6 19. Nf3 h6 20. Be3 Qg6 21. Kh1
+e4 22. Nh2 Ne5 23. Rad1 Nd3 24. Rd2 Rac8 25. Bd1 Qf7 26. Kg1 b5 27. Rxd3 exd3
+28. Qxd3 d4 29. cxd4 Bc4 30. Qd2 Nxe3 31. Qxe3 Bxf1 32. Nxf1 Qf4 33. Qe6+ Kh8
+34. Bf3 Qxd4 35. Ng3 Rc1+ 36. Kh2 Rxf3 37. Ne2 Qxf2 38. Qe8+ Rf8 0-1

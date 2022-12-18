@@ -1,0 +1,22 @@
+[Event "Groningen"]
+[Site "Groningen"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Rechlis, Gad"]
+[Black "Piket, Jeroen"]
+[Result "1-0"]
+[ECO "E63"]
+[Opening "King's Indian"]
+[Variation "fianchetto, Panno variation"]
+[HashCode "bd266b12"]
+[Epoch "Rook"]
+[WhiteID "2800047"]
+[BlackID "1000055"]
+[WhiteCountry "ISR"]
+[BlackCountry "NED"]
+
+1. Nf3 g6 2. d4 Bg7 3. g3 d6 4. Bg2 Nf6 5. O-O O-O 6. c4 Nc6 7. Nc3 a6 8. Bd2
+Rb8 9. Rc1 Bd7 10. b3 b5 11. d5 Na7 12. Be3 c5 13. dxc6 Nxc6 14. c5 b4 15. Nd5
+Ne4 16. cxd6 exd6 17. Nd2 Nc3 18. Nxc3 bxc3 19. Ne4 d5 20. Bg5 dxe4 21. Bxd8
+Rfxd8 22. Qe1 Nd4 23. Rxc3 Bb5 24. Rc4 Bxc4 25. bxc4 e3 26. Bd5 Nf5 27. Kh1 Bd4
+28. g4 exf2 29. Qd1 Ne3 30. Qxd4 Nxf1 31. Qxf2 1-0

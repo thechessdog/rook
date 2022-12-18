@@ -1,0 +1,22 @@
+[Event "Finland"]
+[Site "Finland"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Piva, Giorgio"]
+[Black "Maki, Veijo"]
+[Result "0-1"]
+[ECO "B68"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...a6 defence, 9...Be7"]
+[HashCode "f0bd14e1"]
+[Epoch "Rook"]
+[WhiteID "803588"]
+[WhiteCountry "ITA"]
+[BlackID "500046"]
+[BlackCountry "FIN"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 e6 7. Qd2 a6 8.
+O-O-O Bd7 9. f4 Be7 10. Be2 Rc8 11. Bf3 O-O 12. Nb3 Rc7 13. Rhe1 b5 14. e5 dxe5
+15. fxe5 Nd5 16. Bxe7 Ncxe7 17. Ne4 b4 18. Nbc5 Bb5 19. Qg5 Ng6 20. Qg4 Qe7 21.
+Kb1 Nxe5 22. Qg3 Nxf3 23. gxf3 Rxc5 24. Nxc5 Qxc5 25. Rg1 g6 26. Rd2 Nc3+ 27.
+Ka1 0-1

@@ -1,0 +1,18 @@
+[Event "corr EUR"]
+[Site "corr EUR"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Bachmann"]
+[Black "Villarin"]
+[Result "0-1"]
+[ECO "C44"]
+[Opening "Ponziani"]
+[Variation "Leonhardt variation"]
+[HashCode "46ec35b6"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. c3 d5 4. Qa4 Nf6 5. Nxe5 Bd6 6. Nxc6 bxc6 7. d3 O-O
+8. Be2 Ng4 9. Qxc6 Nxf2 10. Kxf2 Qf6+ 11. Bf3 Bg3+ 12. hxg3 Qxc6 13. exd5
+Qb6+ 14. d4 Bb7 15. Nd2 Rad8 16. Nc4 Qa6 17. Ne3 f5 18. Bd2 f4 19. gxf4
+Rxf4 20. Rh5 Qd3 21. Rd1 Rdf8 22. Bc1 Qe4 23. Rdh1 Rxf3+ 24. gxf3 Rxf3+ 0-1
+

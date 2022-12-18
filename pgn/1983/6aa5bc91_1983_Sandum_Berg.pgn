@@ -1,0 +1,17 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Sandum, Kjell T"]
+[Black "Berg, Klaus"]
+[Result "1/2-1/2"]
+[ECO "A46"]
+[Opening "Queen's pawn game"]
+[HashCode "6aa5bc91"]
+[Epoch "Rook"]
+[BlackID "1400053"]
+[BlackCountry "DEN"]
+
+1. d4 Nf6 2. Nf3 e6 3. Bf4 b6 4. e3 Bb7 5. Be2 Be7 6. h3 d5 7. O-O Nbd7 8. Nbd2
+Rc8 9. Ne5 Nxe5 10. Bxe5 Bd6 11. Nf3 O-O 12. Rc1 Ne4 13. Bd3 c5 14. dxc5 Nxc5
+15. Bxd6 Qxd6 16. c3 Nxd3 17. Qxd3 Qe7 18. Rfd1 Rfd8 19. Qe2 1/2-1/2

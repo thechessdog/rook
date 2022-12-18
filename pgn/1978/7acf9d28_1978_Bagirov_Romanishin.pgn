@@ -1,0 +1,20 @@
+[Event "Tbilisi ch-URS"]
+[Site "Tbilisi ch-URS"]
+[Date "1978.12.01"]
+[Round "1"]
+[White "Bagirov, Vladimir"]
+[Black "Romanishin, Oleg M"]
+[Result "0-1"]
+[ECO "D20"]
+[Opening "QGA"]
+[Variation "3.e4"]
+[HashCode "7acf9d28"]
+[Epoch "Rook"]
+[BlackID "14100088"]
+[BlackCountry "UKR"]
+[WhiteCountry "RUS"]
+
+1. d4 d5 2. c4 dxc4 3. e4 e5 4. Nf3 exd4 5. Bxc4 Bb4+ 6. Bd2 Bxd2+ 7. Nbxd2 Nc6
+8. O-O Qf6 9. e5 Qg6 10. Qb3 Nge7 11. Rfe1 O-O 12. Rac1 Rb8 13. Bd3 Qh6 14. a3
+Be6 15. Qc2 Ng6 16. b4 Rbd8 17. b5 Nce7 18. Ne4 Nf4 19. Rcd1 Nxg2 20. Neg5 Nxe1
+21. Bxh7+ Kh8 22. Rxe1 g6 23. Qxc7 Nf5 0-1

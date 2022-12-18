@@ -1,0 +1,18 @@
+[Event "corr USCCC"]
+[Site "corr USCCC"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Levine, A."]
+[Black "Hess, P."]
+[Result "1/2-1/2"]
+[ECO "E41"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5"]
+[HashCode "0254245c"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 Nc6 6. Ne2 cxd4 7. exd4 d5 8.
+O-O dxc4 9. Bxc4 O-O 10. a3 Be7 11. Qd3 b6 12. Rd1 Bb7 13. Qh3 Nd5 14. Nf4
+Nxc3 15. bxc3 Ne5 16. Bb3 Ng6 17. Bc2 Rc8 18. Bb2 Bd6 19. Nxg6 hxg6 20. Qg4
+Qf6 21. Bb3 Rfd8 22. c4 Qf5 23. Qxf5 gxf5 24. Rac1 Be7 25. f3 1/2-1/2
+

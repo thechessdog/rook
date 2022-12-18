@@ -1,0 +1,20 @@
+[Event "Rome"]
+[Site "Rome"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Sibilio, Mario"]
+[Black "Bouaziz, Slim"]
+[Result "1/2-1/2"]
+[ECO "A49"]
+[Opening "King's Indian"]
+[Variation "fianchetto without c4"]
+[HashCode "52142045"]
+[Epoch "Rook"]
+[WhiteID "800422"]
+[WhiteCountry "ITA"]
+[BlackID "5500010"]
+[BlackCountry "TUN"]
+
+1. d4 Nf6 2. Nf3 g6 3. g3 Bg7 4. Bg2 O-O 5. O-O d6 6. Nc3 Nbd7 7. d5 e5 8. dxe6
+fxe6 9. Nd4 Re8 10. e4 e5 11. Nde2 Nc5 12. Be3 Ne6 13. h3 g5 14. Nd5 Rf8 15. c4
+Kh8 16. Nxf6 Bxf6 17. Qd2 Rg8 18. Rad1 Qe8 19. g4 1/2-1/2

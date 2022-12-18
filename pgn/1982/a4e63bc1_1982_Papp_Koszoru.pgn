@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Papp"]
+[Black "Koszoru"]
+[Result "0-1"]
+[ECO "C45"]
+[Opening "Scotch"]
+[Variation "Horwitz attack"]
+[HashCode "a4e63bc1"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Qh4 5. Nb5 Qxe4+ 6. Be3 Qe5 7. Nd2
+d5 8. Nf3 Qe7 9. Qxd5 Nf6 10. Qd2 a6 11. Nbd4 Nxd4 12. Nxd4 Ne4 13. Qd1 c5
+14. Nf3 g5 15. Nd2 Bf5 16. Bd3 O-O-O 17. O-O Rd5 18. Nxe4 Bxe4 19. Bxg5 Rg8
+20. Bxe7 Rxg2+ 21. Kh1 Rh5 22. h4 Rgg5+ 0-1
+

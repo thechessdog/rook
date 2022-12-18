@@ -1,0 +1,20 @@
+[Event "corr LADAC"]
+[Site "corr LADAC"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Pappier, C."]
+[Black "Bacino, Gustavo"]
+[Result "1-0"]
+[ECO "B18"]
+[Opening "Caro-Kann"]
+[Variation "classical, 6.h4"]
+[HashCode "31948d85"]
+[Epoch "Rook"]
+[BlackID "127752"]
+[BlackCountry "ARG"]
+
+1. e4 c6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6 7. Nh3 Nf6 8. Nf4
+Bh7 9. Bc4 e6 10. O-O Bd6 11. Ngh5 O-O 12. Re1 Nbd7 13. c3 Bf5 14. Ng3 Qc7 15.
+Nxf5 Bxf4 16. Ne7+ Kh7 17. Qd3+ g6 18. Bxe6 Bxc1 19. Bxf7 Kh8 20. Nxg6+ Kg7 21.
+Bb3 Rfe8 22. Raxc1 Qd6 23. Ne5 Nxe5 24. Qg3+ Nfg4 25. dxe5 Qg6 26. Bc2 Qh5 27.
+Bd1 1-0

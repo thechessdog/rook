@@ -1,0 +1,19 @@
+[Event "Lone Pine open"]
+[Site "Lone Pine open"]
+[Date "1981.04.01"]
+[Round "1"]
+[White "Thinnsen, James A"]
+[Black "Strauss, David"]
+[Result "0-1"]
+[ECO "B59"]
+[Opening "Sicilian"]
+[Variation "Boleslavsky variation, 7.Nb3"]
+[HashCode "505ad8db"]
+[Epoch "Rook"]
+[WhiteID "2001276"]
+[WhiteCountry "USA"]
+[BlackID "2000750"]
+[BlackCountry "USA"]
+
+1. e4 c5 2. Nf3 d6 3. Nc3 Nc6 4. d4 cxd4 5. Nxd4 Nf6 6. Be2 e5 7. Nb3 Be7 8.
+Be3 O-O 9. O-O Be6 10. Qd2 a5 11. a4 Nb4 12. f4 Rc8 13. f5 Rxc3 0-1

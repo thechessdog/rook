@@ -1,0 +1,21 @@
+[Event "ISL-ch"]
+[Site "Reykjavik"]
+[Date "1979.??.??"]
+[Round "9"]
+[White "Sigurjonsson, Johann O"]
+[Black "Hjartarson, Johann"]
+[Result "0-1"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, 6.e5"]
+[HashCode "e260b403"]
+[Epoch "Rook"]
+[WhiteID "2300710"]
+[BlackID "2300044"]
+[WhiteCountry "ISL"]
+[BlackCountry "ISL"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 O-O 6. e5 Nfd7 7. h4 c5 8. h5
+cxd4 9. hxg6 hxg6 10. Qxd4 Re8 11. Qg1 dxe5 12. Qh2 e4 13. Nxe4 Nf6 14. Bd3 Bf5
+15. Nfg5 Nc6 16. Bd2 Qd4 17. Bc3 Qe3+ 18. Kf1 Bxe4 19. Nxe4 Qb6 20. a3 Nd4 21.
+Nxf6+ Qxf6 22. Ke1 Rac8 23. Rd1 a5 24. Bxg6 Qe6+ 25. Kd2 Qxg6 26. Rc1 Red8 0-1

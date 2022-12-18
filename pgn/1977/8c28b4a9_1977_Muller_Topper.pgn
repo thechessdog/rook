@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Muller, G."]
+[Black "Topper, G."]
+[Result "1-0"]
+[ECO "C10"]
+[Opening "French"]
+[Variation "Rubinstein variation"]
+[HashCode "8c28b4a9"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Nxf6+ Nxf6 7. Bd3
+Be7 8. Qe2 O-O 9. Bg5 c6 10. O-O-O Nd5 11. Bd2 b5 12. h4 a5 13. Ne5 Qb6 14.
+Bg5 Bd6 15. Rh3 Nb4 16. Bf6 Nxd3+ 17. Rdxd3 gxf6 18. Qg4+ Kh8 19. Rhg3 1-0
+

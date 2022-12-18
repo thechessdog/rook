@@ -1,0 +1,20 @@
+[Event "corr DDR-cup5"]
+[Site "corr DDR-cup5"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Neumann, KH."]
+[Black "Luethke, HE."]
+[Result "1-0"]
+[ECO "A77"]
+[Opening "Benoni"]
+[Variation "classical, 9...Re8, 10.Nd2"]
+[HashCode "b4106f7a"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 c5 4. d5 exd5 5. cxd5 d6 6. e4 g6 7. Nf3 Bg7 8.
+Be2 O-O 9. O-O Re8 10. Nd2 Nbd7 11. a4 a6 12. Qc2 Rb8 13. Nc4 Nb6 14. Ne3
+Bd7 15. a5 Na8 16. Nc4 Bb5 17. f3 Qe7 18. Bg5 Bxc4 19. Bxc4 Qe5 20. Be3 g5
+21. Rad1 Nh5 22. g3 Bh6 23. Qg2 Kh8 24. Bc1 Bg7 25. Qh3 Nf6 26. f4 gxf4 27.
+Bxf4 Qh5 28. Qxh5 Nxh5 29. Bxd6 Bd4+ 30. Kh1 Rbd8 31. e5 f6 32. Be2 Ng7 33.
+Rxf6 1-0
+

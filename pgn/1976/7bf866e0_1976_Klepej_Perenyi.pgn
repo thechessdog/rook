@@ -1,0 +1,18 @@
+[Event "Salgotarjan"]
+[Site "Salgotarjan"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Klepej, J."]
+[Black "Perenyi, Bela"]
+[Result "0-1"]
+[ECO "A45"]
+[Opening "Trompovsky attack (Ruth, Opovcensky opening)"]
+[HashCode "7bf866e0"]
+[Epoch "Rook"]
+[BlackCountry "HUN"]
+
+1. d4 Nf6 2. Bg5 g6 3. e3 Bg7 4. Bd3 d6 5. f4 c5 6. c3 O-O 7. Nf3 Nbd7 8. O-O
+b6 9. Nbd2 Bb7 10. Qe2 Qc7 11. e4 h6 12. Bxf6 Nxf6 13. e5 Nd5 14. Nh4 dxe5 15.
+fxe5 cxd4 16. cxd4 Nb4 17. Be4 Ba6 18. Qf3 Bxf1 19. Bxa8 Qd8 20. Nxf1 Qxd4+ 21.
+Kh1 Qxh4 22. Rd1 Bxe5 23. Be4 Kg7 24. g3 Qf6 25. Qb3 Rd8 26. Kg2 Rxd1 27. Qxd1
+Bxb2 0-1

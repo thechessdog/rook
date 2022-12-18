@@ -1,0 +1,18 @@
+[Event "Rostov"]
+[Site "Rostov"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Lukovnikov, A."]
+[Black "Khodos, German"]
+[Result "1-0"]
+[ECO "B82"]
+[Opening "Sicilian"]
+[Variation "Scheveningen, 6.f4"]
+[HashCode "2363d027"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. f4 a6 7. Be3 b5 8. Qf3
+Bb7 9. Bd3 Nbd7 10. g4 Nc5 11. g5 b4 12. gxf6 bxc3 13. fxg7 Bxg7 14. b3 Qb6 15.
+Bf2 O-O-O 16. a3 Rhg8 17. b4 Nxd3+ 18. Qxd3 Bxd4 19. Bxd4 Qc6 20. O-O-O Qxe4
+21. Qxc3+ Kb8 22. Rhe1 Qf5 23. Qd3 Qxf4+ 24. Be3 Qxh2 25. b5 axb5 26. Qxb5 Rg2
+27. Ba7+ Kc8 28. Qa4 Rd7 29. Bb6 Qg3 30. Re3 Qg5 1-0

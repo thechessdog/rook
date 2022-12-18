@@ -1,0 +1,18 @@
+[Event "Espoo ch-SF"]
+[Site "Espoo ch-SF"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Aura, K."]
+[Black "Heinola, Kari P."]
+[Result "1-0"]
+[ECO "A31"]
+[Opening "English"]
+[Variation "symmetrical, Benoni formation"]
+[HashCode "bca4f936"]
+[Epoch "Rook"]
+[BlackID "503495"]
+[BlackCountry "FIN"]
+
+1. d4 Nf6 2. c4 c5 3. Nf3 cxd4 4. Nxd4 Nc6 5. g3 g6 6. Bg2 Bg7 7. e3 O-O 8. Nc3
+a6 9. O-O Qc7 10. a3 d6 11. Nc2 Bd7 12. e4 Qc8 13. Re1 Na5 14. Nd5 Nxc4 15.
+Nxe7+ 1-0

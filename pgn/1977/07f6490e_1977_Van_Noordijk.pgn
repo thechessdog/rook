@@ -1,0 +1,17 @@
+[Event "corr Netherlands"]
+[Site "corr Netherlands"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Van der Panne"]
+[Black "Noordijk"]
+[Result "1-0"]
+[ECO "C44"]
+[Opening "Scotch opening"]
+[HashCode "07f6490e"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 d5 4. Bb5 Bb4+ 5. c3 dxe4 6. Nxe5 Qh4 7. cxb4 Bg4
+8. Qxg4 g5 9. Qxh4 gxh4 10. Nxc6 Nf6 11. Bh6 bxc6 12. Bxc6+ Nd7 13. Bxa8
+Rg8 14. Bxe4 Rg4 15. Nc3 Nf6 16. f3 Rxg2 17. Nd5 Nh5 18. O-O-O h3 19. Bf5
+Ng3 20. hxg3 Rxg3 21. Rhg1 Rxg1 22. Rxg1 Kd8 23. Rg8# 1-0
+

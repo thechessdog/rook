@@ -1,0 +1,19 @@
+[Event "corr DDR-H"]
+[Site "corr DDR-H"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Hesz"]
+[Black "Nagy, Ervin"]
+[Result "1-0"]
+[ECO "C41"]
+[Opening "Philidor"]
+[Variation "exchange variation"]
+[HashCode "f6595f82"]
+[Epoch "Rook"]
+[BlackID "14913194"]
+[BlackCountry "SVK"]
+
+1. e4 e5 2. Nf3 d6 3. d4 exd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. Qd2 h5 8.
+O-O-O Nh7 9. h3 a6 10. Bc4 Nc6 11. f4 Bd7 12. Nd5 Nf6 13. Nxc6 Bxc6 14. Bd4 O-O
+15. Nxf6+ Bxf6 16. Bd5 Bxd5 17. exd5 Kg7 18. Rhe1 Bxd4 19. Qxd4+ Qf6 20. Re7
+Rac8 21. Qe3 Rfd8 22. Re1 1-0

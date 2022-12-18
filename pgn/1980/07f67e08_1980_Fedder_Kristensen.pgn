@@ -1,0 +1,17 @@
+[Event "Odense"]
+[Site "Odense"]
+[Date "1980.01.01"]
+[Round "10"]
+[White "Fedder, Steen"]
+[Black "Kristensen, Bjarke Hautop"]
+[Result "1/2-1/2"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...g6"]
+[HashCode "07f67e08"]
+[Epoch "Rook"]
+[WhiteID "1400126"]
+[WhiteCountry "DEN"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 g6 6. Qb3 Bg7 7. cxd5 O-O 8.
+Be2 Na6 9. Bf3 Qb6 10. Qxb6 axb6 11. Nge2 Nb4 12. O-O Rd8 13. Bg5 Nbxd5 1/2-1/2

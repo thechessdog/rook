@@ -1,0 +1,20 @@
+[Event "Madrid"]
+[Site "Madrid"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Garces, Napoleon"]
+[Black "Taulbut, Shaun M"]
+[Result "1-0"]
+[ECO "C56"]
+[Opening "two knights defence"]
+[Variation "Canal variation"]
+[HashCode "443638b7"]
+[Epoch "Rook"]
+[BlackID "400246"]
+[BlackCountry "ENG"]
+[WhiteID "3600130"]
+[WhiteCountry "ECU"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d4 exd4 5. O-O Nxe4 6. Re1 d5 7. Nc3 dxc4 8.
+Rxe4+ Be7 9. Nxd4 f5 10. Bh6 Kf7 11. Qh5+ g6 12. Nxc6 bxc6 13. Qf3 Bd6 14. h4
+Be6 15. Rxe6 1-0

@@ -1,0 +1,18 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Wiezer, S."]
+[Black "Beckel, F."]
+[Result "1-0"]
+[ECO "B77"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, 9.Bc4"]
+[HashCode "8be18c20"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. f3 Bg7 7. Be3 Nc6 8.
+Qd2 O-O 9. Bc4 Qc7 10. Bb3 Bd7 11. h4 Ne5 12. Bh6 Nc4 13. Bxc4 Qxc4 14.
+Bxg7 Kxg7 15. h5 Rfc8 16. g4 Rc5 17. hxg6 fxg6 18. O-O-O Kh8 19. Nb3 Rcc8
+20. Qh2 Bc6 21. e5 dxe5 22. Qxe5 Kg8 23. Rd4 1-0
+

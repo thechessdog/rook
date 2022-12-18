@@ -1,0 +1,19 @@
+[Event "DEN-chJ int"]
+[Site "Soro"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Petersen, Flemming Petri"]
+[Black "Caspersen, Jes"]
+[Result "0-1"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Milner-Barry gambit"]
+[HashCode "18b36f0e"]
+[Epoch "Rook"]
+[WhiteID "1402617"]
+[WhiteCountry "DEN"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. O-O
+Nxd4 9. Nc3 a6 10. Re1 Bc5 11. a3 Nb3 12. Be3 d4 13. Nxd4 Bxd4 14. Bxd4 Nxd4
+15. Ne4 Ne7 16. Nd6+ Kf8 17. Qh5 Be8 18. g3 f5 19. Qd1 Qb3 20. Bc4 Nf3+ 21. Kg2
+Nxe1+ 22. Qxe1 Bc6+ 23. Kh3 Qf3 0-1

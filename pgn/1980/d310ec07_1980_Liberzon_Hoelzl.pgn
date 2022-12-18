@@ -1,0 +1,19 @@
+[Event "Baden-Baden"]
+[Site "Baden-Baden"]
+[Date "1980.10.01"]
+[Round "3"]
+[White "Liberzon, Vladimir M"]
+[Black "Hoelzl, Franz"]
+[Result "1/2-1/2"]
+[ECO "B92"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Opovcensky variation"]
+[HashCode "d310ec07"]
+[Epoch "Rook"]
+[WhiteCountry "ISR"]
+[BlackCountry "AUT"]
+[BlackID "1600044"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8. Bg5
+Be6 9. f4 exf4 10. Bxf4 Nc6 11. O-O d5 12. exd5 Nxd5 13. Nxd5 Bxd5 14. Bf3 Bxf3
+15. Qxf3 O-O 16. Rad1 Qb6+ 17. Be3 Qc7 18. Bf4 Qb6+ 1/2-1/2

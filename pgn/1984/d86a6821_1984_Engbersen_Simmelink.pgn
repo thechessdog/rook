@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Engbersen, J."]
+[Black "Simmelink, J."]
+[Result "1-0"]
+[ECO "C89"]
+[Opening "Ruy Lopez"]
+[Variation "Marshall counter-attack"]
+[HashCode "d86a6821"]
+[Epoch "Rook"]
+[BlackCountry "NLD"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. c3
+d5 9. d4 exd4 10. e5 Ne4 11. cxd4 Bg4 12. Be3 Bb4 13. Rf1 f5 14. a3 Ba5 15. Qd3
+Kh8 16. Nc3 Nxc3 17. bxc3 Bxf3 18. gxf3 f4 19. Bd2 Qg5+ 20. Kh1 Ne7 21. Rg1 Qh5
+22. Rg4 g5 23. Rag1 h6 24. Qc2 Rf7 25. e6 Rg7 26. Bxf4 Qg6 27. Be5 1-0

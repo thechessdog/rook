@@ -1,0 +1,19 @@
+[Event "Berkeley"]
+[Site "Berkeley"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Smith, Kenneth R"]
+[Black "Glasscoe, Alan"]
+[Result "0-1"]
+[ECO "A27"]
+[Opening "English"]
+[Variation "three knights system"]
+[HashCode "7fa31de7"]
+[Epoch "Rook"]
+[WhiteID "2001039"]
+[BlackID "2094479"]
+[WhiteCountry "USA"]
+[BlackCountry "USA"]
+
+1. c4 Nc6 2. Nc3 e5 3. Nf3 f5 4. d3 Nf6 5. Bg5 Bb4 6. Qb3 a5 7. g3 a4 8. Qd1
+O-O 9. Bg2 a3 10. Qb3 e4 11. dxe4 fxe4 12. Ne5 Nd4 13. Qd1 axb2 0-1

@@ -1,0 +1,21 @@
+[Event "Lloyds Bank op"]
+[Site "London"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Large, Peter G"]
+[Black "Littlewood, Paul E"]
+[Result "0-1"]
+[ECO "C85"]
+[Opening "Ruy Lopez"]
+[Variation "Exchange variation doubly deferred (DERLD)"]
+[HashCode "11b7cfcc"]
+[Epoch "Rook"]
+[WhiteID "400866"]
+[WhiteCountry "ENG"]
+[BlackID "400190"]
+[BlackCountry "ENG"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Bxc6 dxc6 7. Nc3 Bg4 8.
+h3 Bh5 9. g4 Nxg4 10. hxg4 Bxg4 11. Kg2 Bc5 12. Rg1 Qf6 13. d3 h5 14. Be3 Bb4
+15. Rh1 g5 16. Nb1 h4 17. Rh2 O-O-O 18. a3 h3+ 19. Kg3 Rdg8 20. Rh1 h2 21. Rxh2
+Rxh2 22. Kxh2 Bxf3 23. Qc1 g4 24. Kg3 Rh8 25. axb4 Rh3# 0-1

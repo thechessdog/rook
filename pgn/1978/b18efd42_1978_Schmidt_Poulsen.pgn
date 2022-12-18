@@ -1,0 +1,17 @@
+[Event "Aarhus"]
+[Site "Aarhus"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Schmidt, Kristen"]
+[Black "Poulsen, Michael Alexandersen"]
+[Result "0-1"]
+[ECO "A00"]
+[Opening "Van't Kruijs opening"]
+[HashCode "b18efd42"]
+[Epoch "Rook"]
+[WhiteID "1400436"]
+[WhiteCountry "DEN"]
+
+1. e3 d5 2. b3 e5 3. Bb2 Nc6 4. Bb5 Bd6 5. f4 Qh4+ 6. g3 Qe7 7. Nf3 f6 8. fxe5
+fxe5 9. Bxc6+ bxc6 10. Nxe5 Nf6 11. d4 O-O 12. Nd2 Bxe5 13. dxe5 Ng4 14. Nf1
+Nf2 0-1

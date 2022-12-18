@@ -1,0 +1,19 @@
+[Event "Ohio Congress"]
+[Site "Ohio Congress"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Jaffe, Eli"]
+[Black "Shapiro, Daniel"]
+[Result "0-1"]
+[ECO "E38"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, 4...c5"]
+[HashCode "511f1c7b"]
+[Epoch "Rook"]
+[BlackID "460427"]
+[BlackCountry "ENG"]
+
+1. c4 Nf6 2. Nc3 e6 3. d4 Bb4 4. Qc2 c5 5. Nf3 cxd4 6. Nxd4 Nc6 7. e3 O-O 8.
+Bd2 d5 9. a3 Bd6 10. Be2 Nxd4 11. exd4 dxc4 12. Bxc4 b6 13. Nb5 Bb7 14. Nxd6
+Qxd6 15. Bb4 Qxd4 16. Bxf8 Kxf8 17. O-O Rc8 18. b3 b5 19. Rfd1 Qg4 20. f3 Bxf3
+21. h3 Bxd1 0-1

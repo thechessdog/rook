@@ -1,0 +1,18 @@
+[Event "Gouda"]
+[Site "Gouda"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Krol, H."]
+[Black "Kwakernaak, A."]
+[Result "0-1"]
+[ECO "C80"]
+[Opening "Ruy Lopez"]
+[Variation "open, Riga variation"]
+[HashCode "69fb4b98"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 exd4 7. Re1 d5
+8. Nxd4 Bd6 9. Nxc6 Bxh2+ 10. Kf1 Qh4 11. Rxe4+ Qxe4 12. Qe2 Qxe2+ 13. Kxe2
+Bd7 14. g3 bxc6 15. Bf4 Rb8 16. Bb3 Rb4 17. Bxc7 h5 18. Nd2 h4 19. Rh1 Rb7
+20. Bd6 Rh6 21. Bf4 Bg4+ 22. f3 Re7+ 23. Kd1 hxg3 24. Bxg3 Bxg3 0-1
+

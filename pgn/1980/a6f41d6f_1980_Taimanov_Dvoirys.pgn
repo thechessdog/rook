@@ -1,0 +1,21 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Taimanov, Mark"]
+[Black "Dvoirys, Semen I."]
+[Result "1-0"]
+[ECO "D80"]
+[Opening "Gruenfeld"]
+[Variation "Stockholm variation"]
+[HashCode "a6f41d6f"]
+[Epoch "Rook"]
+[WhiteCountry "RUS"]
+[BlackID "4100379"]
+[BlackCountry "RUS"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Bg5 Ne4 5. Bh4 Nxc3 6. bxc3 Bg7 7. e3 c5 8.
+cxd5 Qxd5 9. Qf3 Qd8 10. Bb5+ Nd7 11. Ne2 cxd4 12. exd4 O-O 13. O-O Nf6 14.
+Rfe1 Qa5 15. Bc4 Qc7 16. Bb3 Bg4 17. Qe3 Bxe2 18. Rxe2 Rac8 19. Rd1 e6 20. c4
+Rfe8 21. h3 Qc6 22. Qd3 Nd7 23. d5 exd5 24. cxd5 Qd6 25. Bg3 Be5 26. Rde1 Re7
+27. Ba4 Rc5 28. Bxd7 Rxd5 29. Qc2 Rc5 30. Qb2 Qxd7 31. Bxe5 1-0

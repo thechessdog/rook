@@ -1,0 +1,19 @@
+[Event "corr ch-GB"]
+[Site "corr ch-GB"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Bryson, Douglas M"]
+[Black "Dodgson, J."]
+[Result "1-0"]
+[ECO "B28"]
+[Opening "Sicilian"]
+[Variation "O'Kelly variation"]
+[HashCode "1e004bb6"]
+[Epoch "Rook"]
+[WhiteID "2400073"]
+[WhiteCountry "SCO"]
+
+1. e4 c5 2. Nf3 a6 3. c3 d5 4. exd5 Qxd5 5. d4 Bg4 6. Be2 e6 7. h3 Bh5 8. O-O
+Nd7 9. c4 Qd6 10. Be3 Ngf6 11. Nc3 Be7 12. dxc5 Qxd1 13. Raxd1 Nxc5 14. g4 Bg6
+15. Ne5 Ncd7 16. Nxg6 hxg6 17. Kg2 O-O-O 18. a3 Nh7 19. f4 f5 20. b4 Rhf8 21.
+c5 Bf6 22. Na4 e5 23. Rd6 exf4 24. Bxf4 Rfe8 25. Rc6+ bxc6 26. Bxa6# 1-0

@@ -1,0 +1,21 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Stoll, J."]
+[Black "Hartmann, Wolfram"]
+[Result "0-1"]
+[ECO "E19"]
+[Opening "Queen's Indian"]
+[Variation "old main line, 9.Qxc3"]
+[HashCode "37bbce13"]
+[Epoch "Rook"]
+[BlackID "4604008"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. Nf3 b6 3. g3 Bb7 4. Bg2 e6 5. O-O Be7 6. c4 O-O 7. Nc3 Ne4 8. Qc2
+Nxc3 9. Qxc3 f5 10. Rd1 d6 11. Ne1 Bxg2 12. Nxg2 Kh8 13. Qf3 Na6 14. b3 Bf6 15.
+Bb2 Nc5 16. dxc5 Bxb2 17. Rab1 Be5 18. cxd6 Bxd6 19. Nf4 Qe8 20. Qe3 e5 21. Nd5
+Qg6 22. Kh1 Rae8 23. Qd3 Re6 24. b4 c6 25. Nc3 e4 26. Qd2 f4 27. c5 Be5 28. g4
+f3 29. Rg1 Qh6 30. Qxh6 Rxh6 31. Rgc1 Rxh2+ 32. Kg1 Rg2+ 33. Kf1 Bh2 34. exf3
+exf3 35. Ke1 Rd8 36. Ne2 Re8 0-1

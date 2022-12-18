@@ -1,0 +1,19 @@
+[Event "E Lansing ch-MI op"]
+[Site "E Lansing ch-MI op"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Smith, Ron"]
+[Black "Pray, D."]
+[Result "0-1"]
+[ECO "C15"]
+[Opening "French"]
+[Variation "Winawer (Nimzovich) variation"]
+[HashCode "8efa21f9"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. a3 Bxc3+ 5. bxc3 dxe4 6. f3 c5 7. h4 Nc6 8.
+Bb5 Bd7 9. fxe4 cxd4 10. Qg4 Nf6 11. Qxg7 Rg8 12. Qh6 Rg6 13. Qf4 e5 14.
+Qf1 Nxe4 15. Bg5 Qa5 16. Rh3 Bxh3 17. Bxc6+ bxc6 18. Qc4 Qxc3+ 19. Qxc3
+Nxc3 20. Nxh3 f6 21. h5 Rxg5 22. Nxg5 fxg5 23. Kd2 Rb8 24. Rf1 Rb1 25. Rf5
+Rd1# 0-1
+

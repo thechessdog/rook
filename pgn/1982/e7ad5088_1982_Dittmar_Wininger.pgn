@@ -1,0 +1,18 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Dittmar"]
+[Black "Wininger, O."]
+[Result "0-1"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, poisoned pawn, Konstantinopolsky variation"]
+[HashCode "e7ad5088"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Qg4 cxd4
+8. Qxg7 Rg8 9. Qxh7 Qc7 10. Ne2 Nbc6 11. f4 Bd7 12. Qd3 dxc3 13. Be3 Nf5
+14. Nd4 Nfxd4 15. Bxd4 O-O-O 16. Bf2 f6 17. Bh4 fxe5 18. Bxd8 Nxd8 19. fxe5
+Qxe5+ 20. Qe2 Qd4 21. Rd1 Qc5 22. Ra1 Rf8 23. g3 Bb5 0-1
+

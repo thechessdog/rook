@@ -1,0 +1,18 @@
+[Event "corr DDR-PZ"]
+[Site "corr DDR-PZ"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Kuntermann"]
+[Black "Neckel"]
+[Result "0-1"]
+[ECO "B43"]
+[Opening "Sicilian"]
+[Variation "Kan, 5.Nc3"]
+[HashCode "3d394278"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 Qc7 6. Be2 b5 7. a3 Bb7 8.
+O-O Nf6 9. Bf3 d6 10. Re1 Nbd7 11. g3 Be7 12. Re2 O-O 13. Qe1 Rac8 14. Bg2
+Nb6 15. e5 dxe5 16. Rxe5 Bxg2 17. Kxg2 Rfd8 18. Nf5 Bf8 19. Nh4 Bxa3 20.
+Rxe6 fxe6 21. Qxe6+ Kh8 0-1
+

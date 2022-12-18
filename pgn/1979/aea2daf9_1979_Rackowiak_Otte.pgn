@@ -1,0 +1,22 @@
+[Event "corr DDR-M"]
+[Site "corr DDR-M"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Rackowiak, H."]
+[Black "Otte, H."]
+[Result "1-0"]
+[ECO "C68"]
+[Opening "Ruy Lopez"]
+[Variation "exchange, Keres variation"]
+[HashCode "aea2daf9"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. Nc3 f6 6. d4 exd4 7. Qxd4
+Qxd4 8. Nxd4 Bd6 9. Nde2 Ne7 10. Bf4 Ng6 11. Bxd6 cxd6 12. O-O-O Ke7 13. f4
+Bg4 14. h3 Bxe2 15. Nxe2 Rhe8 16. g3 Kd7 17. Nc3 Kc7 18. Rd4 Rad8 19. Rhd1
+Ne7 20. b4 f5 21. Re1 fxe4 22. Rdxe4 Kd7 23. Kd2 Nc8 24. f5 Rxe4 25. Rxe4
+Rf8 26. g4 Nb6 27. Ne2 Nd5 28. c4 Nf6 29. Re6 Re8 30. Nf4 Rxe6 31. Nxe6 g6
+32. Ke3 gxf5 33. gxf5 Ke7 34. Kd4 Nd7 35. a4 Nb6 36. a5 Nd7 37. b5 c5+ 38.
+Ke3 Nf6 39. Kf4 Nd7 40. Nc7 Nb8 41. Kg5 axb5 42. Nd5+ Kf7 43. cxb5 Kg7 44.
+h4 h6+ 45. Kh5 1-0
+

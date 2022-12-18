@@ -1,0 +1,23 @@
+[Event "Banco di Roma"]
+[Site "Banco di Roma"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Danner, Georg"]
+[Black "Bruno, Fabio"]
+[Result "0-1"]
+[ECO "E44"]
+[Opening "Nimzo-Indian"]
+[Variation "Fischer variation, 5.Ne2"]
+[HashCode "0d2c401d"]
+[Epoch "Rook"]
+[WhiteID "1600303"]
+[WhiteCountry "AUT"]
+[BlackID "801038"]
+[BlackCountry "ITA"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 b6 5. Ne2 Ne4 6. f3 Nxc3 7. bxc3 Be7 8. Ng3
+d6 9. Bd3 c5 10. dxc5 Bb7 11. cxb6 axb6 12. Qb3 O-O 13. Kf2 Nd7 14. Ba3 f5 15.
+Rhd1 d5 16. Bxe7 Qxe7 17. Qb4 Nc5 18. cxd5 Bxd5 19. Bxf5 Bxf3 20. gxf3 exf5 21.
+Qc4+ Kh8 22. Rd5 Ra4 23. Qe2 Qh4 24. Kg2 f4 25. Rh5 Qd8 26. Rd1 Qa8 27. exf4
+Raxf4 28. Rhd5 h6 29. Ne4 Ne6 30. Rd6 Rxf3 31. Qc4 Ng5 32. Qd4 Rf2+ 33. Kh1
+Nxe4 34. Rxh6+ Kg8 35. Qc4+ R2f7 36. Rd5 Nxc3 37. Qd3 Qxd5+ 0-1

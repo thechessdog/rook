@@ -1,0 +1,22 @@
+[Event "Hradec Kralove"]
+[Site "Hradec Kralove"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Efimov, Igor"]
+[Black "Nun, Jiri"]
+[Result "1-0"]
+[ECO "A65"]
+[Opening "Benoni"]
+[Variation "6.e4"]
+[HashCode "dea5a592"]
+[Epoch "Rook"]
+[BlackID "300179"]
+[BlackCountry "CZE"]
+[WhiteID "806404"]
+[WhiteCountry "MNC"]
+
+1. c4 Nf6 2. Nc3 e6 3. d4 c5 4. d5 exd5 5. cxd5 d6 6. e4 g6 7. f3 Bg7 8. Bg5 h6
+9. Be3 O-O 10. Qd2 Kh7 11. Nge2 Na6 12. g4 Nc7 13. Ng3 Bd7 14. g5 hxg5 15. Bxg5
+Qe8 16. O-O-O Rh8 17. h4 Kg8 18. h5 Nxh5 19. Nxh5 gxh5 20. Qg2 Kf8 21. Qg3 Qe5
+22. f4 Qe8 23. e5 dxe5 24. d6 exf4 25. Be7+ Kg8 26. Qh4 Ne6 27. Rg1 Rh6 28. Nd5
+Rg6 29. Bd3 Nd4 30. Qxh5 Bf5 31. Bxf5 Qb5 32. Nc3 1-0

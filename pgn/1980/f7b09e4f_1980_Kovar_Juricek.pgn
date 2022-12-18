@@ -1,0 +1,21 @@
+[Event "corr CSR/K"]
+[Site "corr CSR/K"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Kovar"]
+[Black "Juricek"]
+[Result "0-1"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Lipnitzky attack"]
+[HashCode "f7b09e4f"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Be3 Nc6 8.
+Qe2 Qc7 9. O-O-O Be7 10. Bb3 O-O 11. Kb1 Nd7 12. Qh5 Nc5 13. Rhg1 Nxd4 14.
+Bxd4 b5 15. g4 b4 16. Rg3 h6 17. Rh3 Bg5 18. Ne2 Nxe4 19. Rhd3 d5 20. f3
+Nf6 21. Bxf6 Bxf6 22. f4 a5 23. g5 g6 24. Qh4 hxg5 25. fxg5 Bg7 26. Rh3 Rd8
+27. Nf4 Qe5 28. c3 bxc3 29. bxc3 Kf8 30. Re1 Qxe1+ 31. Qxe1 e5 32. Nxg6+
+fxg6 33. Rf3+ Bf5+ 34. Bc2 e4 35. Rxf5+ gxf5 36. Qf2 Rac8 37. Qxf5+ Kg8 38.
+h4 Rxc3 39. g6 Rc5 40. Bb3 a4 41. Bxa4 Rdc8 42. Qf4 Rf8 43. Qg4 Rf2 0-1
+

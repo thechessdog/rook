@@ -1,0 +1,16 @@
+[Event "Berettyoujfalu"]
+[Site "Berettyoujfalu"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Timar, Zsolt"]
+[Black "Timar, Bela"]
+[Result "1-0"]
+[ECO "B00"]
+[Opening "King's pawn opening"]
+[HashCode "1f06c4d8"]
+[Epoch "Rook"]
+[WhiteCountry "HUN"]
+
+1. e4 d6 2. d4 f6 3. Nf3 a6 4. g3 Nc6 5. c3 e5 6. Bg2 exd4 7. Nxd4 Ne5 8. O-O
+c5 9. Nf3 Bg4 10. h3 Bxf3 11. Bxf3 Qd7 12. Bf4 Qxh3 13. Bxe5 dxe5 14. Bg4 Qh6
+15. Qd7# 1-0

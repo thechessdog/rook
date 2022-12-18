@@ -1,0 +1,23 @@
+[Event "Bundesliga 8283"]
+[Site "Duitsland tt"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Hartmann, Gerald"]
+[Black "Degenhardt, Norbert"]
+[Result "0-1"]
+[ECO "B98"]
+[Opening "Sicilian"]
+[Variation "Najdorf variation"]
+[HashCode "e0720205"]
+[Epoch "Rook"]
+[WhiteID "4603729"]
+[WhiteCountry "GER"]
+[BlackID "4691407"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3
+Qc7 9. O-O-O Nc6 10. Be2 Bd7 11. Rhe1 O-O 12. Qg3 Nxd4 13. Rxd4 Bc6 14. e5 Ne8
+15. Bd3 g6 16. f5 Bxg5+ 17. Qxg5 dxe5 18. Rh4 f6 19. Qg4 exf5 20. Bxf5 Qg7 21.
+Be6+ Kh8 22. Re3 f5 23. Qb4 Nf6 24. Rxe5 Ne4 25. Qd4 Rfe8 26. Nxe4 fxe4 27. Qc3
+Re7 28. a3 Rae8 29. Rf4 h6 30. Qh3 g5 31. Rf1 g4 32. Qh5 Rxe6 33. Ref5 e3 34.
+Re1 Qg6 0-1

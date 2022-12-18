@@ -1,0 +1,20 @@
+[Event "Linkoping"]
+[Site "Linkoping"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Andersson, Tor"]
+[Black "Bengtsson, Bo"]
+[Result "1/2-1/2"]
+[ECO "A06"]
+[Opening "Reti"]
+[Variation "Nimzovich-Larsen attack"]
+[HashCode "d16e2cea"]
+[Epoch "Rook"]
+[WhiteID "1701517"]
+[WhiteCountry "SWE"]
+[BlackID "1700804"]
+[BlackCountry "SWE"]
+
+1. Nf3 d5 2. b3 Nf6 3. Bb2 e6 4. e3 c5 5. Bb5+ Bd7 6. Qe2 Bxb5 7. Qxb5+ Qd7 8.
+Qe2 Nc6 9. O-O Be7 10. d3 O-O 11. Nbd2 b5 12. c4 bxc4 13. dxc4 a5 14. Ne5 Nxe5
+15. Bxe5 a4 16. Rfd1 Qc6 17. Rac1 axb3 18. axb3 Nd7 19. Nf3 Qb7 1/2-1/2

@@ -1,0 +1,15 @@
+[Event "Friedrichsha ch-WURT"]
+[Site "Friedrichsha ch-WURT"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Weih, Klaus"]
+[Black "Kindl, P."]
+[Result "0-1"]
+[ECO "E95"]
+[Opening "King's Indian"]
+[Variation "orthodox, 7...Nbd7, 8.Re1"]
+[HashCode "f87a0ebe"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Be2 O-O 6. Nf3 Nbd7 7. O-O e5 8. Re1
+c6 9. Bf1 Re8 10. Rb1 a5 11. b3 exd4 12. Nxd4 Ng4 13. f3 Qb6 0-1

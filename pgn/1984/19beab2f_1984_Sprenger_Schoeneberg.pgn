@@ -1,0 +1,18 @@
+[Event "corr DDR/FS"]
+[Site "corr DDR/FS"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Sprenger"]
+[Black "Schoeneberg, Manfred"]
+[Result "1/2-1/2"]
+[ECO "E49"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Botvinnik system"]
+[HashCode "19beab2f"]
+[Epoch "Rook"]
+[BlackID "4611845"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. a3 Bxc3+ 7. bxc3 dxc4 8.
+Bxc4 c5 9. Nf3 Qc7 10. Ba2 Nc6 11. O-O e5 12. Qc2 Bg4 13. Nxe5 Nxe5 14. dxe5
+Qxe5 15. f3 Be6 16. Bxe6 Qxe6 17. e4 Rae8 18. Be3 b6 19. Rfd1 1/2-1/2

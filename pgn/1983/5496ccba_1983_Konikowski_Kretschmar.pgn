@@ -1,0 +1,18 @@
+[Event "corr ol8"]
+[Site "corr ol8"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Konikowski, J."]
+[Black "Kretschmar, H."]
+[Result "1/2-1/2"]
+[ECO "D27"]
+[Opening "QGA"]
+[Variation "classical, Rubinstein variation"]
+[HashCode "5496ccba"]
+[Epoch "Rook"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. e3 e6 5. Bxc4 c5 6. O-O a6 7. a4 Nc6 8.
+Nc3 Be7 9. Qe2 cxd4 10. Rd1 e5 11. exd4 exd4 12. Nxd4 Nxd4 13. Qe5 Qd6 14.
+Qxd6 Bxd6 15. Rxd4 Bc5 16. Rd1 O-O 17. h3 Re8 18. Bg5 Be6 19. Bxe6 Rxe6 20.
+Bxf6 gxf6 1/2-1/2
+

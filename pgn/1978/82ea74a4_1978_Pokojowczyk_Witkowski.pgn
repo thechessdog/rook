@@ -1,0 +1,19 @@
+[Event "Slupsk"]
+[Site "Slupsk"]
+[Date "1978.??.??"]
+[Round "?"]
+[White "Pokojowczyk, Jerzy"]
+[Black "Witkowski, Stefan"]
+[Result "1/2-1/2"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "Indian variation"]
+[HashCode "82ea74a4"]
+[Epoch "Rook"]
+[WhiteID "1100718"]
+[WhiteCountry "POL"]
+[BlackCountry "POL"]
+
+1. b3 Nf6 2. Bb2 e6 3. Nf3 d5 4. e3 Bd6 5. c4 O-O 6. Be2 c5 7. O-O Nc6 8. d4
+dxc4 9. dxc5 Bxc5 10. Qc2 b5 11. bxc4 b4 12. Ng5 g6 13. Bf3 Bb7 14. Rd1 Qe7 15.
+Nd2 Rad8 16. Qa4 Rc8 17. Nb3 e5 1/2-1/2

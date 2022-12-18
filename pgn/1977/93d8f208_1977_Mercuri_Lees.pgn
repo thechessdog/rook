@@ -1,0 +1,18 @@
+[Event "Lenox,MA"]
+[Site "Lenox,MA"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Mercuri, L."]
+[Black "Lees, David"]
+[Result "0-1"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Milner-Barry gambit"]
+[HashCode "93d8f208"]
+[Epoch "Rook"]
+[BlackCountry "ENG"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. O-O
+Nxd4 9. Nxd4 Qxd4 10. Nc3 a6 11. Qe2 Ne7 12. Rd1 Nc6 13. Bb5 Qb6 14. Ba4 Bc5
+15. Bf4 O-O 16. Rac1 f6 17. Qh5 fxe5 18. Bc2 Rxf4 19. Rxd5 Bxf2+ 20. Kh1 Rh4
+21. Bxh7+ Kh8 22. Qf7 Qe3 23. Rf1 Rxh2+ 24. Kxh2 Qg3+ 25. Kh1 Qh4# 0-1

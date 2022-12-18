@@ -1,0 +1,17 @@
+[Event "corr DDR/FS"]
+[Site "corr DDR/FS"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Lerch"]
+[Black "Schauer"]
+[Result "1-0"]
+[ECO "C17"]
+[Opening "French"]
+[Variation "Winawer, advance, Bogolyubov variation"]
+[HashCode "d3c57163"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. Bd2 cxd4 6. Nb5 Be7 7. Nf3 Nc6 8.
+Nbxd4 Qc7 9. Bf4 a6 10. c3 b5 11. Bd3 Bc5 12. Qd2 Nge7 13. O-O O-O 14.
+Bxh7+ Kxh7 15. Ng5+ Kg6 16. Qd3+ Nf5 17. Nxf5 exf5 18. Qg3 1-0
+

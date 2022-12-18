@@ -1,0 +1,20 @@
+[Event "Hamburg"]
+[Site "Hamburg"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Stork, Hans"]
+[Black "Schneider, Peter"]
+[Result "1-0"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Milner-Barry gambit"]
+[HashCode "3230ef4a"]
+[Epoch "Rook"]
+[WhiteID "1705490"]
+[WhiteCountry "SWE"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. O-O
+Nxd4 9. Ng5 Nh6 10. Be3 Qxb2 11. Bxd4 Qxd4 12. Nxe6 Qb6 13. Nxf8 Kxf8 14. Nc3
+Qc5 15. Rc1 Rc8 16. Qd2 d4 17. Nb5 Qe7 18. Rxc8+ Bxc8 19. Rc1 Qd8 20. Qb4+ Kg8
+21. Qxd4 Qf8 22. Nd6 Be6 23. Rc7 g6 24. Rxb7 a5 25. Qb6 Kg7 26. Qxa5 Qa8 27.
+Qb4 Qxa2 28. Qf4 Qa1+ 29. Rb1 Qa8 30. Qf6+ Kg8 31. Be4 Qa7 32. Ne8 1-0

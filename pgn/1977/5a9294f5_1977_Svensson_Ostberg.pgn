@@ -1,0 +1,24 @@
+[Event "Sweden"]
+[Site "Sweden"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Svensson, Gert"]
+[Black "Ostberg, Peter"]
+[Result "0-1"]
+[ECO "E54"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Gligoric system with 7...dc"]
+[HashCode "5a9294f5"]
+[Epoch "Rook"]
+[WhiteID "1701533"]
+[WhiteCountry "SWE"]
+[BlackID "1700960"]
+[BlackCountry "SWE"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 O-O 6. Nf3 d5 7. O-O dxc4 8. Bxc4
+Bd7 9. Ne5 Bc6 10. Nxc6 Nxc6 11. a3 Ba5 12. dxc5 Bxc3 13. bxc3 Qa5 14. Qe2 Qxc5
+15. Rb1 Na5 16. Bd3 e5 17. e4 Rad8 18. Rd1 b6 19. Rb5 Qe7 20. Bg5 h6 21. Bh4
+Nb7 22. Bxf6 Qxf6 23. Rd5 Nc5 24. Bc4 Rc8 25. g3 Na4 26. Rd6 Qe7 27. Rd7 Qc5
+28. Ba6 Nxc3 29. Qf3 Nxd1 30. Bxc8 Nxf2 31. Qxf2 Qxf2+ 32. Kxf2 Rxc8 33. Rxa7
+Rc2+ 34. Kg1 f6 35. Ra4 Rb2 36. Rc4 b5 37. Rc8+ Kh7 38. Rb8 Rb3 39. Kg2 Rxa3
+40. Rxb5 Ra2+ 0-1

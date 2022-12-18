@@ -1,0 +1,17 @@
+[Event "Erlangen"]
+[Site "Erlangen"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Gegner, Jurgen"]
+[Black "Roetzner"]
+[Result "1-0"]
+[ECO "C10"]
+[Opening "French"]
+[Variation "Rubinstein variation"]
+[HashCode "d2bb2ebe"]
+[Epoch "Rook"]
+
+1. d4 e6 2. e4 d5 3. Nc3 dxe4 4. f3 exf3 5. Nxf3 Bb4 6. Bd3 Ne7 7. O-O Bxc3
+8. bxc3 Nbc6 9. Ba3 O-O 10. Bxh7+ Kh8 11. Ng5 g6 12. Rxf7 Qe8 13. Bxg6 Rxf7
+14. Qh5+ Kg7 15. Qh7+ Kf8 16. Qh8# 1-0
+

@@ -1,0 +1,23 @@
+[Event "Bangalore"]
+[Site "Bangalore"]
+[Date "1981.07.01"]
+[Round "3"]
+[White "Aaron, Manuel"]
+[Black "Handoko, Edhi"]
+[Result "0-1"]
+[ECO "C63"]
+[Opening "Ruy Lopez"]
+[Variation "Schliemann defence"]
+[HashCode "dd7ef323"]
+[Epoch "Rook"]
+[WhiteID "5000092"]
+[WhiteCountry "IND"]
+[BlackCountry "IDN"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 f5 4. d3 Nf6 5. O-O fxe4 6. dxe4 d6 7. Nc3 Bg4 8.
+Qd3 Be7 9. Nd2 Be6 10. Bxc6+ bxc6 11. Qa6 Qd7 12. Nc4 Bxc4 13. Qxc4 d5 14. Qd3
+O-O 15. Bg5 Nh5 16. Bxe7 Nf4 17. Qa6 Qxe7 18. Qxc6 Qg5 19. g3 Rad8 20. Nxd5
+Ne2+ 21. Kg2 Nd4 22. Qc4 Kh8 23. f4 Qh5 24. Rf2 c6 25. Re1 cxd5 26. exd5 Rc8
+27. Qd3 Nxc2 28. Rc1 e4 29. Qxe4 Rfe8 30. Rcxc2 Rxe4 31. Rxc8+ Re8 32. Rc5 Qd1
+33. f5 h5 34. f6 gxf6 35. d6 Re1 36. Rf4 Rg1+ 37. Kh3 Qe2 38. d7 Qg2+ 39. Kh4
+Qxh2# 0-1

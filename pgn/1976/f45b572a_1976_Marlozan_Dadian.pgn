@@ -1,0 +1,17 @@
+[Event "Kiev"]
+[Site "Kiev"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Marlozan"]
+[Black "Dadian"]
+[Result "0-1"]
+[ECO "C40"]
+[Opening "Latvian"]
+[Variation "Fraser defence"]
+[HashCode "f45b572a"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 f5 3. Nxe5 Nc6 4. Qh5+ g6 5. Nxg6 Nf6 6. Qh3 Bc5 7. Nxh8
+Nd4 8. Bc4 d5 9. Bxd5 fxe4 10. Bf7+ Kf8 11. Qh6+ Ke7 12. Qg7 Nxc2+ 13. Kd1
+Bg4+ 14. f3 Ne3+ 15. Ke1 Nxg2+ 16. Kf1 Qd3+ 17. Kxg2 Qxf3# 0-1
+

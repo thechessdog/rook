@@ -1,0 +1,19 @@
+[Event "Reggio Emilia"]
+[Site "Reggio Emilia"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Bykhovsky, Anatoly A"]
+[Black "Trabattoni, Franco"]
+[Result "1/2-1/2"]
+[ECO "A46"]
+[Opening "Queen's pawn game"]
+[HashCode "a0f25706"]
+[Epoch "Rook"]
+[BlackID "800430"]
+[BlackCountry "ITA"]
+[WhiteID "4101669"]
+[WhiteCountry "RUS"]
+
+1. d4 Nf6 2. Nf3 e6 3. Nc3 d5 4. Bg5 Be7 5. e3 b6 6. Bb5+ Bd7 7. Bd3 c5 8. O-O
+O-O 9. Re1 Nc6 10. dxc5 bxc5 11. e4 d4 12. Nb1 e5 13. Na3 Ne8 14. Bd2 Nd6 15.
+Nc4 Nxc4 16. Bxc4 Qc7 17. h3 Kh8 18. Qe2 Qd6 19. b3 Rad8 1/2-1/2

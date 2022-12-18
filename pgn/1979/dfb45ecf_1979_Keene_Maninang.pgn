@@ -1,0 +1,19 @@
+[Event "Brisbane"]
+[Site "Brisbane"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Keene, Raymond D"]
+[Black "Maninang, Rafaelito"]
+[Result "1/2-1/2"]
+[ECO "E41"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5"]
+[HashCode "dfb45ecf"]
+[Epoch "Rook"]
+[WhiteID "400211"]
+[WhiteCountry "ENG"]
+[BlackID "5200245"]
+[BlackCountry "PHI"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 Nc6 6. Nf3 O-O 7. d5 exd5 8. cxd5
+Nxd5 9. Bxh7+ Kxh7 10. Qxd5 Qf6 11. Qh5+ Qh6 12. Qxh6+ Kxh6 1/2-1/2

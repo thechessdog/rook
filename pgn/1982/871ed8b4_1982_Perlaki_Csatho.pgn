@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Perlaki"]
+[Black "Csatho"]
+[Result "1-0"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "modern variation"]
+[HashCode "871ed8b4"]
+[Epoch "Rook"]
+
+1. b3 e5 2. Bb2 Nc6 3. c4 Nf6 4. Nc3 Bb4 5. e3 O-O 6. Nf3 e4 7. Ng5 Re8 8.
+Nd5 Nxd5 9. Qh5 Nf6 10. Qxf7+ Kh8 11. Bxf6 Qxf6 12. Qxe8+ Bf8 13. Rd1 Kg8
+14. Nxe4 1-0
+

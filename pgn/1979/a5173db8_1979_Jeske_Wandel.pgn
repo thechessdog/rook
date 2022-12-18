@@ -1,0 +1,18 @@
+[Event "Leipzig"]
+[Site "Leipzig"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Jeske"]
+[Black "Wandel"]
+[Result "1-0"]
+[ECO "A18"]
+[Opening "English"]
+[Variation "Mikenas-Carls variation"]
+[HashCode "a5173db8"]
+[Epoch "Rook"]
+
+1. c4 Nf6 2. Nc3 e6 3. e4 d5 4. cxd5 exd5 5. e5 d4 6. exf6 dxc3 7. bxc3
+Qxf6 8. Nf3 Bd6 9. d4 h6 10. Be2 O-O 11. O-O Nd7 12. Nd2 c5 13. Bf3 Qg6 14.
+Ne4 Be7 15. Ba3 Re8 16. Re1 Kf8 17. Qe2 Rb8 18. Nxc5 Nf6 19. Qb2 Bf5 20.
+Rxe7 Rxe7 21. Na6 1-0
+

@@ -1,0 +1,21 @@
+[Event "Berlin tt"]
+[Site "Berlin-West"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Lau, Ralf"]
+[Black "Rasmussen, Lars Bo"]
+[Result "1-0"]
+[ECO "C96"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Keres (...Nd7) defence"]
+[HashCode "04a15341"]
+[Epoch "Rook"]
+[WhiteID "4600134"]
+[WhiteCountry "GER"]
+[BlackCountry "DEN"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. c3
+d6 9. h3 Na5 10. Bc2 c5 11. d4 Nd7 12. Nbd2 exd4 13. cxd4 cxd4 14. Nxd4 Bf6 15.
+Nf1 Qb6 16. Nf5 Nc4 17. Rb1 Nc5 18. b3 Bxf5 19. exf5 Ne5 20. Ne3 Nc6 21. Nd5
+Qd8 22. Nxf6+ Qxf6 23. Bb2 Qh6 24. f6 Rfd8 25. fxg7 d5 26. Rc1 Rd6 27. Bxh7+
+Qxh7 28. Rxc5 Nb4 29. Qg4 Nd3 30. Rc8+ Rd8 31. Rxd8+ Rxd8 32. Qd7 1-0

@@ -1,0 +1,22 @@
+[Event "Havana"]
+[Site "Havana"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Rodriguez, Ad"]
+[Black "Zapata, Alonso"]
+[Result "1-0"]
+[ECO "E70"]
+[Opening "King's Indian"]
+[Variation "4.e4"]
+[HashCode "f67cafe6"]
+[Epoch "Rook"]
+[BlackID "4400011"]
+[BlackCountry "COL"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 O-O 5. f3 c5 6. d5 d6 7. Bg5 e6 8. Qd2 exd5
+9. Nxd5 Nc6 10. Ne2 Be6 11. Nec3 Nd4 12. Bd3 a6 13. O-O Bxd5 14. Nxd5 Ne6 15.
+Bxf6 Bxf6 16. f4 Bd4+ 17. Kh1 Nc7 18. f5 Nxd5 19. exd5 Qh4 20. Rf3 Be5 21. Rh3
+Qf4 22. Qc2 Rae8 23. Rf1 Qg5 24. b3 Re7 25. Rhf3 f6 26. fxg6 hxg6 27. Bxg6 Kg7
+28. Bf5 Rh8 29. h3 Rh4 30. g4 Re8 31. Kg2 Reh8 32. Qd3 Kf8 33. Be6 Ke7 34. a3
+a5 35. b4 axb4 36. axb4 Ra8 37. bxc5 Ra2+ 38. R1f2 Rxf2+ 39. Rxf2 Kf8 40. c6
+bxc6 41. dxc6 Qg7 42. Ra2 Qc7 43. Ra8+ Ke7 44. Qg6 1-0

@@ -1,0 +1,23 @@
+[Event "corr DDR-H"]
+[Site "corr DDR-H"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Proske, J."]
+[Black "Helbig, W."]
+[Result "1-0"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "modern variation"]
+[HashCode "3510bac0"]
+[Epoch "Rook"]
+
+1. b3 e5 2. Bb2 Nc6 3. e3 Nf6 4. g3 d5 5. Bg2 Bd6 6. Ne2 Be6 7. O-O O-O 8.
+d3 a5 9. a4 Ne7 10. Na3 c6 11. c4 Rc8 12. Rc1 Bb4 13. Nc2 Qc7 14. Nxb4 axb4
+15. c5 Qa5 16. d4 e4 17. Qd2 Ra8 18. Rc2 Nd7 19. Nc1 f5 20. Na2 g5 21. Nxb4
+Ng6 22. Bc3 Qc7 23. f4 g4 24. Ra2 h5 25. a5 h4 26. Rfa1 hxg3 27. hxg3 Kf7
+28. a6 b6 29. cxb6 Qxb6 30. Ra3 Ra7 31. Qc2 Nf6 32. Kf2 Bd7 33. Ra5 Nh5 34.
+Rc5 Rc8 35. Rh1 Ng7 36. Ra1 Ne6 37. Rca5 Qb8 38. Bd2 Ne7 39. Bf1 Rcc7 40.
+Be2 Qh8 41. Rg1 Qh2+ 42. Rg2 Qh8 43. Qc3 Nc8 44. Kg1 Nd6 45. Qa1 Rc8 46.
+Nxd5 cxd5 47. Rxd5 Rc6 48. Qa3 Qb8 49. Bb4 Ne8 50. Rxf5+ Nf6 51. Bc4 Kg6
+52. Rb5 Rb6 53. f5+ 1-0
+

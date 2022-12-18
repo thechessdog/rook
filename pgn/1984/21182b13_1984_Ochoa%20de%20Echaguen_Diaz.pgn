@@ -1,0 +1,19 @@
+[Event "Bayamo"]
+[Site "Bayamo"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Ochoa de Echaguen, F Javier"]
+[Black "Diaz, Joaquin, Dr."]
+[Result "1/2-1/2"]
+[ECO "B10"]
+[Opening "Caro-Kann"]
+[Variation "two knights variation"]
+[HashCode "21182b13"]
+[Epoch "Rook"]
+[BlackID "4663349"]
+[BlackCountry "GER"]
+[WhiteCountry "ESP"]
+[WhiteID "2200210"]
+
+1. e4 c6 2. Nc3 d5 3. Nf3 dxe4 4. Nxe4 Nd7 5. d4 Ngf6 6. Nxf6+ Nxf6 7. Ne5 Nd7
+8. Nd3 Nf6 9. Be3 Bf5 10. Be2 e6 11. O-O Be7 1/2-1/2

@@ -1,0 +1,21 @@
+[Event "OHRA"]
+[Site "Amsterdam / Arnhem"]
+[Date "1983.07.01"]
+[Round "1"]
+[White "Ree, Hans"]
+[Black "Sax, Gyula"]
+[Result "0-1"]
+[ECO "A63"]
+[Opening "Benoni"]
+[Variation "fianchetto, 9...Nbd7"]
+[HashCode "42225516"]
+[Epoch "Rook"]
+[WhiteID "1000098"]
+[WhiteCountry "NED"]
+[BlackCountry "HUN"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 exd5 5. cxd5 g6 6. Nc3 Bg7 7. g3 d6 8. Bg2
+O-O 9. O-O Nbd7 10. Re1 a6 11. a4 Rb8 12. e4 b5 13. axb5 axb5 14. Bf1 b4 15.
+Nb5 Ne8 16. Bf4 Rb6 17. Qc2 Bb7 18. Na7 h6 19. Bb5 g5 20. Be3 Nc7 21. Bc6 Ba6
+22. Ba4 Bb5 23. Bxb5 Nxb5 24. e5 Nxa7 25. Rxa7 Nxe5 26. Nxe5 Bxe5 27. Bxc5 Qc8
+28. Re2 b3 29. Qc1 Bd4 0-1

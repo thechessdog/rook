@@ -1,0 +1,20 @@
+[Event "Buenos Aires ol (Men)"]
+[Site "Buenos Aires"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Payne, F."]
+[Black "Alvarez, Franklin"]
+[Result "0-1"]
+[ECO "B31"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (with ...g6, without ...d6)"]
+[HashCode "c60e749d"]
+[Epoch "Rook"]
+[BlackID "6400108"]
+[BlackCountry "DOM"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. c3 Qb6 6. Qe2 Nf6 7. Na3 O-O 8. Ba4
+a6 9. Bc2 d5 10. d3 e5 11. exd5 Nxd5 12. Nc4 Qc7 13. a4 Bf5 14. Ng5 b5 15. axb5
+axb5 16. Rxa8 Rxa8 17. Ne3 Nde7 18. Nxf5 Nxf5 19. Qf3 Ra1 20. Bb3 Nd8 21. Bd2
+Rxf1+ 22. Kxf1 h6 23. Ne4 c4 24. dxc4 bxc4 25. Ba2 Nb7 26. Be1 Na5 27. Qd1 Nc6
+28. f3 Ne3+ 0-1

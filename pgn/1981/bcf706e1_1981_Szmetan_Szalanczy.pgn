@@ -1,0 +1,22 @@
+[Event "Elekes mem-B"]
+[Site "Budapest"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Szmetan, Ricardo"]
+[Black "Szalanczy, Emil"]
+[Result "0-1"]
+[ECO "A25"]
+[Opening "English"]
+[Variation "closed system"]
+[HashCode "bcf706e1"]
+[Epoch "Rook"]
+[BlackID "700347"]
+[BlackCountry "HUN"]
+
+1. c4 e5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. e3 Nh6 6. Nge2 O-O 7. O-O d6 8. d3
+Be6 9. Rb1 Qd7 10. Re1 Bh3 11. Bh1 Kh8 12. b4 Rae8 13. b5 Nd8 14. Bd2 Qg4 15.
+Nc1 Qc8 16. Nb3 Ng4 17. f3 Nf6 18. Bg2 Bxg2 19. Kxg2 Ne6 20. e4 Nh5 21. Be3 f5
+22. Qd2 Rf7 23. Bh6 Bf6 24. exf5 gxf5 25. Nd5 Rg8 26. Kh1 Rg6 27. d4 f4 28. g4
+Rxh6 29. gxh5 Ng5 30. Qg2 Rxh5 31. Nxf6 Rxf6 32. dxe5 dxe5 33. Rxe5 Rg6 34.
+Rbe1 Qh3 35. Qxh3 Nxh3 36. Re8+ Kg7 37. Rf1 Rhg5 38. Ree1 Rg1+ 39. Rxg1 Nf2#
+0-1

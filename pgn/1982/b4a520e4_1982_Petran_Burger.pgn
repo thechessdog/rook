@@ -1,0 +1,21 @@
+[Event "Budapest"]
+[Site "Budapest"]
+[Date "1982.01.01"]
+[Round "7"]
+[White "Petran, Pal"]
+[Black "Burger, Karl"]
+[Result "1-0"]
+[ECO "E41"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5"]
+[HashCode "b4a520e4"]
+[Epoch "Rook"]
+[WhiteID "700304"]
+[WhiteCountry "HUN"]
+[BlackCountry "USA"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 Nc6 6. Ne2 cxd4 7. exd4 d5 8. O-O
+Bxc3 9. bxc3 dxc4 10. Bxc4 O-O 11. Bg5 b6 12. Bd3 Bb7 13. Qd2 Ne7 14. Bxf6 gxf6
+15. Qh6 Nf5 16. Bxf5 exf5 17. Nf4 Kh8 18. Rfe1 Rg8 19. Re3 Qd6 20. Rae1 Bxg2
+21. Nxg2 f4 22. Rh3 Rg7 23. Kf1 Qc6 24. Nxf4 Qh1+ 25. Ke2 Re8+ 26. Re3 Rxe3+
+27. fxe3 Qe4 28. Qxf6 Qc2+ 29. Kf3 Qxh2 30. Re2 Qh1+ 31. Rg2 1-0

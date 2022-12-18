@@ -1,0 +1,20 @@
+[Event "Buenos Aires"]
+[Site "Buenos Aires"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Trincado"]
+[Black "Mevel, Alberic"]
+[Result "1-0"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra gambit"]
+[HashCode "d44df109"]
+[Epoch "Rook"]
+[BlackID "602574"]
+[BlackCountry "FRA"]
+
+1. e4 c5 2. d4 cxd4 3. c3 Nf6 4. e5 Nd5 5. Nf3 Nc6 6. Bc4 Nb6 7. Bb3 d5 8. exd6
+e6 9. cxd4 Bxd6 10. Nc3 O-O 11. O-O Nd5 12. Qd3 Nxc3 13. bxc3 h6 14. Bc2 f5 15.
+Re1 Qc7 16. Bb3 Rf6 17. Bb2 Na5 18. c4 Nxb3 19. axb3 Qd8 20. Rad1 Rg6 21. Bc3
+Kh7 22. d5 exd5 23. Qxd5 Qc7 24. Re8 Be6 25. Rxe6 Rd8 26. Qxf5 Bxh2+ 27. Nxh2
+Rxd1+ 28. Nf1 1-0

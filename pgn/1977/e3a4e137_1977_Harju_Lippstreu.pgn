@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Harju, A."]
+[Black "Lippstreu, G."]
+[Result "0-1"]
+[ECO "B03"]
+[Opening "Alekhine's defence"]
+[Variation "four pawns attack, 7.Be3"]
+[HashCode "e3a4e137"]
+[Epoch "Rook"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. c4 Nb6 5. f4 dxe5 6. fxe5 Nc6 7. Be3 Bf5 8.
+Nc3 e6 9. Nf3 Be7 10. d5 Nb4 11. Rc1 a5 12. a3 Na6 13. Nd4 Bg6 14. dxe6 O-O
+15. Be2 Nc5 16. exf7+ Rxf7 17. b4 axb4 18. axb4 Ne4 19. c5 Nxc3 20. Rxc3
+Nd5 21. Rb3 Ra2 22. Bf3 Rxf3 0-1
+

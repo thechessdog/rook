@@ -1,0 +1,20 @@
+[Event "Islington"]
+[Site "Islington"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Basman"]
+[Black "Smit"]
+[Result "1-0"]
+[ECO "A31"]
+[Opening "English"]
+[Variation "symmetrical, Benoni formation"]
+[HashCode "b5e0bdc7"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 c5 3. Nf3 g6 4. Nc3 cxd4 5. Nxd4 Bg7 6. g3 O-O 7. Bg2 Nc6
+8. O-O a6 9. h3 Nxd4 10. Qxd4 d6 11. Rd1 Qc7 12. Qh4 Be6 13. Bg5 Qxc4 14.
+Rd4 Qc5 15. Rb4 Rab8 16. Rc1 Qa5 17. a3 Rfc8 18. Bxb7 Rc5 19. Be3 Rh5 20.
+Bf3 Rxh4 21. Rxb8+ Bf8 22. gxh4 Nd7 23. Ra8 f5 24. b4 Qxa3 25. Nd5 Kf7 26.
+Rc7 Qa4 27. Kg2 h6 28. Nf4 Qb3 29. Rxd7 g5 30. Bh5+ Kg7 31. Bd4+ Kg8 32.
+Rxf8+ 1-0
+

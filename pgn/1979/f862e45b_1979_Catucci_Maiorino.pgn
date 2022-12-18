@@ -1,0 +1,19 @@
+[Event "Rome tt"]
+[Site "Rome tt"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Catucci"]
+[Black "Maiorino"]
+[Result "0-1"]
+[ECO "C10"]
+[Opening "French"]
+[Variation "Rubinstein variation"]
+[HashCode "f862e45b"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Nxf6+ Nxf6 7. Bg5
+Be7 8. Bd3 O-O 9. Qe2 c5 10. dxc5 Qa5+ 11. c3 Qxc5 12. O-O-O h6 13. Bf4 Nd5
+14. Be5 b5 15. Bxb5 Bb7 16. Nd2 Rac8 17. Ne4 Qb6 18. Bd3 f5 19. Ng3 Bg5+
+20. Kc2 Qa5 21. Kb1 Rc6 22. Bc4 Rb6 23. Bxd5 Bxd5 24. c4 Bxc4 25. Qxc4 Qxe5
+26. Qc2 Rfb8 27. b3 Bf6 28. Kc1 Rc6 0-1
+

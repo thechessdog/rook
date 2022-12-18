@@ -1,0 +1,17 @@
+[Event "Dayton,OH"]
+[Site "Dayton,OH"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Ruden, B."]
+[Black "Harmon"]
+[Result "1-0"]
+[ECO "B70"]
+[Opening "Sicilian"]
+[Variation "dragon variation"]
+[HashCode "0eed1f27"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Bc4 e5 7. Nf3 Bg7 8.
+Bg5 Qc7 9. Qe2 a6 10. Rd1 b5 11. Bxb5+ axb5 12. Nxb5 Qc6 13. Rxd6 Qxe4 14.
+Qxe4 Nxe4 15. Rd8# 1-0
+

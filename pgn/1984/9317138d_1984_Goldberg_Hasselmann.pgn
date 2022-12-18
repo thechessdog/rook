@@ -1,0 +1,19 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Goldberg"]
+[Black "Hasselmann"]
+[Result "0-1"]
+[ECO "C24"]
+[Opening "Bishop's opening"]
+[Variation "Berlin defence"]
+[HashCode "9317138d"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Bc4 Nf6 3. d3 Nc6 4. Nc3 Bb4 5. Bg5 h6 6. Bxf6 Bxc3+ 7. bxc3
+Qxf6 8. Ne2 d6 9. Qd2 g5 10. d4 Ne7 11. dxe5 Qxe5 12. Qd4 Ng6 13. Rb1 O-O
+14. O-O b6 15. f4 gxf4 16. Bd5 Rb8 17. Qd2 c6 18. Bxc6 Ba6 19. Bd5 Bxe2 20.
+Qxe2 Qxc3 21. Rb3 Qe5 22. h4 h5 23. Qf2 Kh7 24. g3 Qf6 25. Kg2 Rg8 26. Kh3
+Rbc8 27. c4 Rg7 28. gxf4 Ne7 29. Rb5 Rcg8 30. e5 dxe5 31. Rb3 Nf5 0-1
+

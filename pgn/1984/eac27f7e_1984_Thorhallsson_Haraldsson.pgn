@@ -1,0 +1,23 @@
+[Event "Reykjavik op"]
+[Site "Reykjavik"]
+[Date "1984.01.01"]
+[Round "9"]
+[White "Thorhallsson, Throstur"]
+[Black "Haraldsson, Haraldur"]
+[Result "0-1"]
+[ECO "B96"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7.f4"]
+[HashCode "eac27f7e"]
+[Epoch "Rook"]
+[WhiteID "2300109"]
+[WhiteCountry "ISL"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Nbd7 8. Qf3
+Qc7 9. O-O-O b5 10. g4 Bb7 11. a3 Be7 12. Bxf6 gxf6 13. Qh3 h5 14. Rg1 O-O-O
+15. gxh5 Bf8 16. Kb1 Kb8 17. Be2 Rc8 18. Rg3 Nc5 19. Bd3 e5 20. Nde2 Bh6 21.
+Qf5 Ne6 22. Qxf6 exf4 23. Rg2 Rcf8 24. Nd5 Qc5 25. Nec3 Qd4 26. Qe7 Qe5 27. a4
+f3 28. Rg3 Bg5 29. Rxg5 Nxg5 30. Qc7+ Ka8 31. axb5 Ne6 32. Qb6 a5 33. Qxa5+ Kb8
+34. b6 Nc5 35. Bb5 f5 36. b4 Nxe4 37. Bd7 Nxc3+ 38. Nxc3 Qxa5 39. bxa5 Rxh5 40.
+Bb5 f4 41. a6 Rxb5+ 42. Nxb5 Bxa6 43. c4 Re8 44. Rf1 Re3 45. Nxd6 Rd3 46. c5
+Rb3+ 47. Kc2 Bxf1 48. Kxb3 f2 0-1

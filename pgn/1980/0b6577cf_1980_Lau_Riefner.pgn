@@ -1,0 +1,20 @@
+[Event "BL7980/FIN"]
+[Site "BL7980/FIN"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Lau, Ralf"]
+[Black "Riefner, E."]
+[Result "1-0"]
+[ECO "D85"]
+[Opening "Gruenfeld"]
+[Variation "modern exchange variation"]
+[HashCode "0b6577cf"]
+[Epoch "Rook"]
+[WhiteID "4600134"]
+[WhiteCountry "GER"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. Nc3 d5 5. cxd5 Nxd5 6. e4 Nxc3 7. bxc3 c5 8.
+Be3 Nc6 9. Rc1 Qa5 10. Qd2 Bg4 11. d5 Bxf3 12. gxf3 Ne5 13. Be2 Rc8 14. f4 Nd7
+15. c4 Qxd2+ 16. Kxd2 e6 17. h4 h5 18. Rhg1 exd5 19. cxd5 Bf6 20. Rh1 Bd8 21.
+Bb5 Bb6 22. Ke2 Kd8 23. e5 f6 24. Rhg1 Rg8 25. e6 Nf8 26. Rgd1 Rg7 27. f5 gxf5
+28. Bh6 1-0

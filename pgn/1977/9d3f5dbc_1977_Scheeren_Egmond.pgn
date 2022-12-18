@@ -1,0 +1,19 @@
+[Event "IBM-B"]
+[Site "Amsterdam II"]
+[Date "1977.07.01"]
+[Round "11"]
+[White "Scheeren, Peter"]
+[Black "Egmond, Peter"]
+[Result "0-1"]
+[ECO "A42"]
+[Opening "Modern defence"]
+[Variation "Averbakh system"]
+[HashCode "9d3f5dbc"]
+[Epoch "Rook"]
+[WhiteID "1000136"]
+[WhiteCountry "NED"]
+
+1. d4 d6 2. c4 g6 3. Nc3 Bg7 4. e4 e5 5. d5 c5 6. Be2 Nd7 7. h4 h5 8. Nh3 Ngf6
+9. Ng5 a6 10. a3 Qc7 11. Bd2 O-O 12. b4 cxb4 13. axb4 Nb6 14. Qb3 Bg4 15. f3
+Bd7 16. Be3 Nxc4 17. Bxc4 Rfc8 18. Bc5 b5 19. Bxb5 Bxb5 20. Nxb5 axb5 21. Ke2
+Rxa1 22. Rxa1 dxc5 23. d6 c4 0-1

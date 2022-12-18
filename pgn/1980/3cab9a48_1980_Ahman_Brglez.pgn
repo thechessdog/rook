@@ -1,0 +1,19 @@
+[Event "corr YUG"]
+[Site "corr YUG"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Ahman"]
+[Black "Brglez, Rado"]
+[Result "0-1"]
+[ECO "C41"]
+[Opening "Philidor"]
+[Variation "Nimzovich, Sozin variation"]
+[HashCode "3cab9a48"]
+[Epoch "Rook"]
+[BlackID "14600331"]
+[BlackCountry "SLO"]
+
+1. e4 e5 2. Nf3 d6 3. d4 Nf6 4. Nc3 Nbd7 5. Bc4 Be7 6. O-O O-O 7. Qe2 c6 8. a4
+exd4 9. Nxd4 Ne5 10. Bb3 c5 11. Nf5 Bxf5 12. exf5 Qd7 13. Nd5 Rfe8 14. c3 Bd8
+15. Nxf6+ Bxf6 16. Bd5 Qxf5 17. Bxb7 Rad8 18. Be4 Qe6 19. Qc2 g6 20. Bf4 d5 21.
+Bxe5 Bxe5 22. Bf3 Qf6 23. Qd1 d4 24. c4 d3 25. Ra3 Qf4 26. g3 Qxc4 0-1

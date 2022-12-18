@@ -1,0 +1,17 @@
+[Event "Bela Crkva open"]
+[Site "Bela Crkva open"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Joksic, Sinisa"]
+[Black "Dordevic, Z."]
+[Result "1-0"]
+[ECO "A04"]
+[Opening "Reti opening"]
+[HashCode "5c891dbc"]
+[Epoch "Rook"]
+[WhiteCountry "SRB"]
+
+1. Nf3 c5 2. g3 b6 3. Bg2 Bb7 4. O-O g6 5. c4 Bg7 6. Nc3 f5 7. e3 e5 8. d4 cxd4
+9. Nb5 d6 10. exd4 a6 11. Nc3 Nd7 12. Nd5 Bxd5 13. cxd5 e4 14. Ng5 Nf8 15. f3
+h6 16. Nh3 Nf6 17. fxe4 fxe4 18. Nf4 Qd7 19. Bh3 Qe7 20. Be3 g5 21. Ne6 N8h7
+22. Rc1 Ra7 23. Rc8+ 1-0

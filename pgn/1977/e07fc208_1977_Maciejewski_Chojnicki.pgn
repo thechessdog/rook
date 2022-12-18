@@ -1,0 +1,24 @@
+[Event "Rzeszow op"]
+[Site "Rzeszow"]
+[Date "1977.01.01"]
+[Round "10"]
+[White "Maciejewski, Andrzej"]
+[Black "Chojnicki, Zenon"]
+[Result "1-0"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "e07fc208"]
+[Epoch "Rook"]
+[WhiteID "1100181"]
+[WhiteCountry "POL"]
+[BlackID "1106899"]
+[BlackCountry "POL"]
+
+1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. d4 cxd4 5. cxd4 d6 6. Nf3 Nc6 7. Bc4 e6 8. O-O
+Be7 9. Nbd2 Nb6 10. Bb3 d5 11. Re1 O-O 12. Nf1 f5 13. exf6 Bxf6 14. Bc2 g6 15.
+Ng3 Bd7 16. Bh6 Bg7 17. Bxg7 Kxg7 18. h4 Rc8 19. h5 Qf6 20. Rc1 Nc4 21. hxg6
+hxg6 22. Qd3 Rb8 23. b3 Nd6 24. Ne5 Be8 25. Qe3 Nf5 26. Bxf5 exf5 27. f4 Bf7
+28. Nf1 Rbc8 29. Nh2 Nxe5 30. dxe5 Qb6 31. Qxb6 axb6 32. Nf3 Rc5 33. Kf2 Rfc8
+34. Rcd1 Rc2+ 35. Re2 R2c5 36. Ng5 Rc2 37. e6 Rxe2+ 38. Kxe2 Bg8 39. Rxd5 Re8
+40. Rd7+ Kf6 41. Rxb7 1-0

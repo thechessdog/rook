@@ -1,0 +1,19 @@
+[Event "Dayton,OH"]
+[Site "Dayton,OH"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Wall, Bill"]
+[Black "Holsapple, Boyd"]
+[Result "1-0"]
+[ECO "C13"]
+[Opening "French"]
+[Variation "Albin-Alekhine-Chatard attack, Breyer variation"]
+[HashCode "1926ee43"]
+[Epoch "Rook"]
+[WhiteCountry "USA"]
+[BlackCountry "USA"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Nfd7 6. h4 c5 7. Nf3 Nc6 8. Nb5
+f6 9. exf6 Nxf6 10. Ne5 a6 11. Bxf6 Bxf6 12. Qh5+ g6 13. Nxg6 Kd7 14. Nxh8 axb5
+15. Qxh7+ Qe7 16. Qxe7+ Bxe7 17. O-O-O Bf6 18. Ng6 Bxd4 19. Bxb5 Bxf2 20. Rhf1
+Be3+ 21. Kb1 1-0

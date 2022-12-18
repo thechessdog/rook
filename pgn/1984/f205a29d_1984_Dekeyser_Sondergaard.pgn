@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Dekeyser, E."]
+[Black "Sondergaard, G."]
+[Result "0-1"]
+[ECO "D86"]
+[Opening "Gruenfeld"]
+[Variation "exchange, classical variation"]
+[HashCode "f205a29d"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Bc4 c5
+8. Ne2 Nc6 9. Be3 cxd4 10. cxd4 b5 11. Bd5 Bd7 12. Rc1 Rc8 13. O-O Na5 14.
+Bd2 O-O 15. Rxc8 Bxc8 16. Nf4 Nc4 17. Bb4 Qc7 18. e5 Rd8 19. Qf3 e6 20.
+Bxc4 Qxc4 21. a3 Rxd4 0-1
+

@@ -1,0 +1,21 @@
+[Event "Naleczow"]
+[Site "Naleczow"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Adamski, Jan"]
+[Black "Sygulski, Artur"]
+[Result "0-1"]
+[ECO "A31"]
+[Opening "English"]
+[Variation "symmetrical, Benoni formation"]
+[HashCode "2470e5be"]
+[Epoch "Rook"]
+[WhiteID "1100190"]
+[WhiteCountry "POL"]
+[BlackID "1100521"]
+[BlackCountry "POL"]
+
+1. Nf3 Nf6 2. c4 c5 3. d4 b6 4. d5 d6 5. Nc3 e5 6. e4 g6 7. g3 Bg7 8. Bg2 O-O
+9. O-O a6 10. a4 Ra7 11. Ne1 Ne8 12. Nd3 Re7 13. Qc2 Nd7 14. Bd2 f5 15. f3 Ref7
+16. f4 Nc7 17. Kh1 exf4 18. exf5 fxg3 19. fxg6 Rxf1+ 20. Rxf1 Qh4 21. gxh7+
+Qxh7 22. h3 Rxf1+ 23. Bxf1 Ne5 0-1

@@ -1,0 +1,16 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Gonzalez, JA."]
+[Black "Navarro Puig"]
+[Result "1-0"]
+[ECO "D44"]
+[Opening "QGD semi-Slav"]
+[Variation "anti-Meran gambit"]
+[HashCode "ab1ece18"]
+[Epoch "Rook"]
+
+1. c4 Nf6 2. Nc3 e6 3. d4 d5 4. Nf3 c6 5. Bg5 dxc4 6. e4 b5 7. e5 h6 8. Bh4 g5
+9. Nxg5 hxg5 10. Bxg5 Nbd7 11. exf6 Bb7 12. g3 c5 13. d5 Qb6 14. Bg2 O-O-O 15.
+O-O b4 16. Rb1 bxc3 17. bxc3 Qc7 18. Rxb7 Qxb7 19. dxe6 Qxg2+ 20. Kxg2 1-0

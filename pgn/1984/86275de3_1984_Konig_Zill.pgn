@@ -1,0 +1,19 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Konig"]
+[Black "Zill"]
+[Result "1/2-1/2"]
+[ECO "C09"]
+[Opening "French"]
+[Variation "Tarrasch, open variation, main line"]
+[HashCode "86275de3"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. exd5 exd5 5. Ngf3 Nc6 6. Bb5 Bd6 7. O-O cxd4
+8. Nb3 Ne7 9. Nbxd4 O-O 10. h3 a6 11. Ba4 Bd7 12. c3 Re8 13. Re1 Qc7 14.
+Bc2 h6 15. Qd3 Ng6 16. Bd2 Nce5 17. Nxe5 Bxe5 18. Nf3 Bb5 19. Qf5 Bd7 20.
+Qh5 d4 21. Bxg6 fxg6 22. Qxg6 dxc3 23. bxc3 Bf4 24. Qc2 Bc6 25. Qb3+ Kh8
+26. Bxf4 1/2-1/2
+

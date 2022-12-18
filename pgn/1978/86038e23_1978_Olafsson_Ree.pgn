@@ -1,0 +1,19 @@
+[Event "Lone Pine open"]
+[Site "Lone Pine open"]
+[Date "1978.04.01"]
+[Round "1"]
+[White "Olafsson, Helgi"]
+[Black "Ree, Hans"]
+[Result "1/2-1/2"]
+[ECO "D67"]
+[Opening "QGD"]
+[Variation "Orthodox defence, Bd3 line, Capablanca freeing manoevre"]
+[HashCode "86038e23"]
+[Epoch "Rook"]
+[BlackID "1000098"]
+[BlackCountry "NED"]
+[WhiteID "2300010"]
+[WhiteCountry "ISL"]
+
+1. c4 e6 2. Nf3 d5 3. d4 Nf6 4. Nc3 Be7 5. Bg5 O-O 6. e3 Nbd7 7. Rc1 c6 8. Bd3
+dxc4 9. Bxc4 Nd5 10. Bxe7 1/2-1/2

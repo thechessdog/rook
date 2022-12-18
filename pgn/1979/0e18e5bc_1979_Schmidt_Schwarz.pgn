@@ -1,0 +1,18 @@
+[Event "corr DDR-cup5"]
+[Site "corr DDR-cup5"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Schmidt, H."]
+[Black "Schwarz, E."]
+[Result "1/2-1/2"]
+[ECO "A65"]
+[Opening "Benoni"]
+[Variation "6.e4"]
+[HashCode "0e18e5bc"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 c5 4. d5 exd5 5. cxd5 d6 6. e4 g6 7. Bd3 Bg7 8.
+Nge2 O-O 9. O-O b6 10. a4 Re8 11. f3 Nbd7 12. Ng3 Nh5 13. Nxh5 gxh5 14. f4
+Nf6 15. h3 Ng4 16. Ne2 Nh6 17. f5 Qf6 18. Bd2 Bd7 19. Bc3 Qg5 20. Rf3 Bxc3
+21. bxc3 1/2-1/2
+

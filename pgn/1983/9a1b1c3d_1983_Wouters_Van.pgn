@@ -1,0 +1,18 @@
+[Event "corr Netherlands"]
+[Site "corr Netherlands"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Wouters"]
+[Black "Van Swol"]
+[Result "1-0"]
+[ECO "B03"]
+[Opening "Alekhine's defence"]
+[Variation "four pawns attack, 7.Be3"]
+[HashCode "9a1b1c3d"]
+[Epoch "Rook"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. c4 Nb6 5. f4 dxe5 6. fxe5 Nc6 7. Be3 Bf5 8.
+Nc3 e6 9. Nf3 Bg4 10. Qd2 Bxf3 11. gxf3 Be7 12. O-O-O Qd7 13. Rg1 g6 14. f4
+Na5 15. b3 Ba3+ 16. Kb1 Be7 17. d5 Bb4 18. Qb2 Qe7 19. d6 cxd6 20. exd6
+Bxd6 21. Ne4 O-O-O 22. Nxd6+ 1-0
+

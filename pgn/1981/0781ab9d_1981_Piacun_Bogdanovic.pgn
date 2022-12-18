@@ -1,0 +1,18 @@
+[Event "corr YUG"]
+[Site "corr YUG"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Piacun, E."]
+[Black "Bogdanovic, M."]
+[Result "0-1"]
+[ECO "C08"]
+[Opening "French"]
+[Variation "Tarrasch, open, 4.ed ed"]
+[HashCode "0781ab9d"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. exd5 exd5 5. Bb5+ Bd7 6. Qe2+ Be7 7. dxc5
+Nf6 8. Nb3 O-O 9. Nf3 Re8 10. Be3 Bxc5 11. Bxd7 Nbxd7 12. Nxc5 Nxc5 13. Qb5
+Rc8 14. O-O-O a6 15. Qb4 Re4 16. Qa3 Ra4 17. Qc3 Rxa2 18. Nd2 Nfe4 19. Qd4
+Ra1+ 20. Nb1 Nb3# 0-1
+

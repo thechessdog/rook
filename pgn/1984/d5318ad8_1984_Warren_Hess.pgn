@@ -1,0 +1,19 @@
+[Event "corr ch-USA"]
+[Site "corr ch-USA"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Warren"]
+[Black "Hess"]
+[Result "0-1"]
+[ECO "D30"]
+[Opening "QGD"]
+[Variation "Vienna variation"]
+[HashCode "d5318ad8"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Bg5 Bb4+ 5. Nc3 h6 6. Bh4 dxc4 7. e3 b5 8.
+Nd2 c6 9. a4 a6 10. axb5 Bxc3 11. bxc3 cxb5 12. Qf3 Qd5 13. Qf4 Nbd7 14. e4
+Qc6 15. Qe3 Bb7 16. f3 g5 17. Bg3 O-O-O 18. Be2 Rde8 19. O-O Nh5 20. f4
+Nxg3 21. hxg3 f6 22. Bf3 e5 23. d5 Qc5 24. Qxc5+ Nxc5 25. f5 h5 26. Ra5 Kd7
+27. Nxc4 Nb3 0-1
+

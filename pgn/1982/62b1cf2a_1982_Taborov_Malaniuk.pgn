@@ -1,0 +1,20 @@
+[Event "Yalta"]
+[Site "Yalta"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Taborov, Boris"]
+[Black "Malaniuk, Vladimir P"]
+[Result "1-0"]
+[ECO "D97"]
+[Opening "Gruenfeld"]
+[Variation "Russian, Alekhine (Hungarian) variation"]
+[HashCode "62b1cf2a"]
+[Epoch "Rook"]
+[WhiteID "14100347"]
+[WhiteCountry "UKR"]
+[BlackCountry "UKR"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Qb3 dxc4 6. Qxc4 O-O 7. e4 a6 8. Be2
+b5 9. Qb3 c5 10. dxc5 Bb7 11. O-O Nxe4 12. Nxe4 Bxe4 13. Bg5 Re8 14. Qe3 Qd5
+15. Rfd1 Qb7 16. Rd2 Bc6 17. Rad1 e5 18. Bh6 Bf6 19. Ng5 e4 20. Qh3 Be5 21. Rd8
+Qc7 22. Rxe8+ Bxe8 23. Nxe4 Bxb2 24. Qe3 Nd7 25. Nd6 Nf6 26. Rb1 Nd5 1-0

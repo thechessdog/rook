@@ -1,0 +1,24 @@
+[Event "Bundesliga 8283"]
+[Site "Duitsland tt"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Bartelborth, Thomas"]
+[Black "Hess, Christian"]
+[Result "1-0"]
+[ECO "E47"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 O-O, 5.Bd3"]
+[HashCode "e8eb9835"]
+[Epoch "Rook"]
+[WhiteID "4607570"]
+[WhiteCountry "GER"]
+[BlackCountry "DEU"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 b6 6. Ne2 Bb7 7. O-O d5 8. cxd5
+exd5 9. Ng3 Re8 10. a3 Bf8 11. b4 g6 12. Bb2 h5 13. Re1 Nbd7 14. Qc2 h4 15. Nf1
+a6 16. Rad1 Bg7 17. h3 Nf8 18. Nd2 Ne6 19. Kh1 Ng5 20. Nf1 Qd7 21. f3 Nh5 22.
+Qf2 Bf6 23. f4 Ne4 24. Nxe4 dxe4 25. Be2 Ng7 26. Nh2 Nf5 27. Ng4 Bg7 28. Bc4
+Bd5 29. Ne5 Qe6 30. Bxd5 Qxd5 31. Rc1 Rec8 32. Nc6 Re8 33. Rc3 Re6 34. Rec1
+Rae8 35. Kh2 Kh7 36. Na7 R8e7 37. Qe2 c5 38. Nc8 Rc7 39. Qxa6 Rxc8 40. Qxc8
+cxd4 41. Rc7 Rd6 42. Bxd4 Nxd4 43. exd4 Rf6 44. Qg4 Qh5 45. Qxh5+ gxh5 46. Rf1
+Kg6 47. Re7 Rd6 48. Rxe4 f5 49. Re2 Kf7 50. Rd1 Rd5 51. a4 Bf8 52. Re5 1-0

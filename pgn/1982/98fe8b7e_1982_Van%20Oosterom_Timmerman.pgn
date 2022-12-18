@@ -1,0 +1,20 @@
+[Event "corr Volmac"]
+[Site "corr Volmac"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Van Oosterom, J."]
+[Black "Timmerman, G."]
+[Result "0-1"]
+[ECO "C47"]
+[Opening "Four knights"]
+[Variation "Belgrade gambit"]
+[HashCode "98fe8b7e"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. d4 exd4 5. Nd5 Nxe4 6. Qe2 f5 7. Bf4 d6
+8. O-O-O Ne7 9. Nxe7 Bxe7 10. Nxd4 O-O 11. f3 Bg5 12. Bxg5 Qxg5+ 13. Kb1
+Nc5 14. Qf2 Bd7 15. Bc4+ Kh8 16. h4 Qh6 17. Rhe1 Rae8 18. Nb5 Bxb5 19. Bxb5
+c6 20. Bc4 Qf4 21. Bf7 Ne4 22. Qg1 Rxf7 23. fxe4 Rxe4 24. Qxa7 h6 25. Rf1
+Qe5 26. Qb8+ Kh7 27. a3 d5 28. Qxe5 Rxe5 29. Rd3 Kg6 30. g3 Rfe7 31. Kc1
+Kh5 0-1
+

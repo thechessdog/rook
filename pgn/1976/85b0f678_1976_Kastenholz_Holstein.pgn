@@ -1,0 +1,18 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Kastenholz"]
+[Black "Holstein, Erik"]
+[Result "0-1"]
+[ECO "A40"]
+[Opening "Queen's pawn"]
+[Variation "Charlick (Englund) gambit"]
+[HashCode "85b0f678"]
+[Epoch "Rook"]
+[BlackID "1402250"]
+[BlackCountry "DEN"]
+
+1. d4 e5 2. dxe5 Nc6 3. f4 f6 4. e4 fxe5 5. Bc4 Nf6 6. f5 d5 7. Bxd5 Nxd5 8.
+Qh5+ g6 9. fxg6 Nf6 10. g7+ Nxh5 11. gxh8=Q Qh4+ 12. Kf1 Be6 13. Nf3 Bc4+ 14.
+Kg1 O-O-O 15. g3 Qh3 16. Kf2 Bc5+ 0-1

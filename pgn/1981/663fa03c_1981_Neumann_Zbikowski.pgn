@@ -1,0 +1,22 @@
+[Event "BL2-N"]
+[Site "Germany"]
+[Date "1981.??.??"]
+[Round "?"]
+[White "Neumann, Joachim"]
+[Black "Zbikowski, Wolfgang"]
+[Result "1-0"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical system, 5.Be2"]
+[HashCode "663fa03c"]
+[Epoch "Rook"]
+[WhiteID "4608259"]
+[BlackID "4605896"]
+[WhiteCountry "GER"]
+[BlackCountry "GER"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Nf3 Bg7 5. Be2 O-O 6. O-O Bg4 7. Be3 Nc6 8. Qd2
+e5 9. d5 Ne7 10. Rad1 Bd7 11. Ne1 Ng4 12. Bxg4 Bxg4 13. f3 Bd7 14. f4 Bg4 15.
+Nf3 f5 16. fxe5 dxe5 17. Bc5 b6 18. Ba3 fxe4 19. Nxe4 Bxf3 20. gxf3 Re8 21. d6
+cxd6 22. Nxd6 Rf8 23. Qd3 h6 24. Qb3+ Kh7 25. Nb5 Nf5 26. Rxd8 Rfxd8 27. Nc7
+Rac8 28. Qf7 Ne3 29. Re1 Nxc2 30. Ne6 Rg8 31. Rc1 1-0

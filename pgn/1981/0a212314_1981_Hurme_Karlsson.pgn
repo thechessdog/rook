@@ -1,0 +1,21 @@
+[Event "Helsinki"]
+[Site "Helsinki"]
+[Date "1981.01.01"]
+[Round "9"]
+[White "Hurme, Harri"]
+[Black "Karlsson, Lars"]
+[Result "0-1"]
+[ECO "E41"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5"]
+[HashCode "0a212314"]
+[Epoch "Rook"]
+[WhiteID "500321"]
+[WhiteCountry "FIN"]
+[BlackID "1700057"]
+[BlackCountry "SWE"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 Bxc3+ 6. bxc3 d6 7. Ne2 Nc6 8.
+O-O h6 9. Bd2 O-O 10. f3 e5 11. Be1 Qe8 12. Bc2 Na5 13. Qd3 b5 14. dxc5 dxc5
+15. cxb5 Be6 16. Qd6 Qxb5 17. c4 Nxc4 18. Qd3 Rfd8 19. Nc3 Qb2 20. Nd5 Rxd5 21.
+Qxc4 Rd2 0-1

@@ -1,0 +1,18 @@
+[Event "Palermo"]
+[Site "Palermo"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Papastolou"]
+[Black "Bottino"]
+[Result "1-0"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra gambit"]
+[HashCode "b3be1b6e"]
+[Epoch "Rook"]
+
+1. e4 c5 2. d4 cxd4 3. c3 dxc3 4. Nxc3 Nc6 5. Nf3 g6 6. Bc4 Bg7 7. O-O d6
+8. Qe2 Nf6 9. h3 O-O 10. Rd1 Qa5 11. Nb5 Nd7 12. Bd2 Qd8 13. Bg5 h6 14.
+Nxd6 hxg5 15. Nxf7 Rxf7 16. Bxf7+ Kxf7 17. Nxg5+ Ke8 18. Qc4 Nce5 19. Qg8+
+Bf8 20. Ne6 Qb6 21. Rac1 1-0
+

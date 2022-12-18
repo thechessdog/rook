@@ -1,0 +1,23 @@
+[Event "Val Thorens"]
+[Site "Val Thorens"]
+[Date "1984.01.01"]
+[Round "4"]
+[White "Akesson, Ralf"]
+[Black "Kostic, Vladimir"]
+[Result "0-1"]
+[ECO "E44"]
+[Opening "Nimzo-Indian"]
+[Variation "Fischer variation, 5.Ne2"]
+[HashCode "ddad21f3"]
+[Epoch "Rook"]
+[WhiteID "1700120"]
+[WhiteCountry "SWE"]
+[BlackID "16500016"]
+[BlackCountry "MNE"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 b6 5. Ne2 Bb7 6. a3 Bxc3+ 7. Nxc3 O-O 8. d5
+Qe7 9. Be2 exd5 10. cxd5 c6 11. Bf3 Qe5 12. dxc6 dxc6 13. O-O Nbd7 14. e4 Nc5
+15. Qc2 Ba6 16. Rd1 Bc4 17. Be3 Bb3 18. Qd2 Bxd1 19. Rxd1 Ncxe4 20. Nxe4 Nxe4
+21. Qc2 Rad8 22. Rxd8 Rxd8 23. g3 Nc5 24. Bxc6 Qh5 25. h4 Qd1+ 26. Qxd1 Rxd1+
+27. Kg2 Nd3 28. Ba4 Rb1 29. Bd4 Nxb2 30. Bb5 Nd3 31. Bxd3 Rd1 32. Bxb6 axb6 33.
+Bb5 Ra1 34. a4 Ra3 35. g4 h6 36. f3 g5 0-1

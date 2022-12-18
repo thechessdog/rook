@@ -1,0 +1,18 @@
+[Event "corr Yugoslavia"]
+[Site "corr Yugoslavia"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Javcic"]
+[Black "Biti"]
+[Result "1-0"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, poisoned pawn, Euwe-Gligoric variation"]
+[HashCode "95edd3d8"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 Ne7 5. a3 Bxc3+ 6. bxc3 c5 7. Qg4 cxd4
+8. Qxg7 Rg8 9. Qxh7 Qc7 10. Kd1 Nbc6 11. Nf3 dxc3 12. Bf4 Bd7 13. Ng5 Rf8
+14. Bd3 Nd4 15. Rb1 a5 16. Re1 a4 17. Be3 Nec6 18. Bxd4 Nxd4 19. Qh4 Qc5
+20. Nf3 1-0
+

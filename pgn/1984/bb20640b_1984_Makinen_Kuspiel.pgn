@@ -1,0 +1,20 @@
+[Event "corr SF-DDR"]
+[Site "corr SF-DDR"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Makinen"]
+[Black "Kuspiel"]
+[Result "1-0"]
+[ECO "B42"]
+[Opening "Sicilian"]
+[Variation "Kan, Polugaievsky variation"]
+[HashCode "bb20640b"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Bc5 6. Nb3 Ba7 7. Nc3 Nc6
+8. O-O Nge7 9. Kh1 d5 10. exd5 Nxd5 11. Qg4 Kf8 12. Nxd5 Qxd5 13. Be3 Ne5
+14. Qb4+ Kg8 15. Rad1 Nc6 16. Qh4 f6 17. Be4 g5 18. Qg4 Qe5 19. Nd4 Nxd4
+20. Bxd4 Bxd4 21. Rxd4 h5 22. Qd1 f5 23. Rd8+ Kf7 24. Rxh8 Qxh8 25. Bxb7
+Bxb7 26. Qd7+ Kg6 27. Qxb7 Rd8 28. Re1 Qe5 29. Qb4 Qd6 30. Qxd6 Rxd6 31.
+Kg1 e5 32. Kf1 Rd2 33. Rc1 e4 34. b4 Kf6 35. a4 Ke6 36. b5 axb5 1-0
+

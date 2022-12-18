@@ -1,0 +1,16 @@
+[Event "Horsens"]
+[Site "Horsens"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Petersen, Carl"]
+[Black "Holmboe, Asger"]
+[Result "1-0"]
+[ECO "B45"]
+[Opening "Sicilian"]
+[Variation "Taimanov variation"]
+[HashCode "c6657ccb"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e6 5. Nc3 Bc5 6. Nxc6 bxc6 7. Bf4
+Qb6 8. Bg3 Qxb2 9. Ne2 Bb4+ 1-0
+

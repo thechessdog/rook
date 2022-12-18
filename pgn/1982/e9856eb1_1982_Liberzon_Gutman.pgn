@@ -1,0 +1,21 @@
+[Event "Ramat Hasharon"]
+[Site "Ramat Hasharon"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Liberzon, Vladimir M"]
+[Black "Gutman, Lev"]
+[Result "1-0"]
+[ECO "B93"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.f4"]
+[HashCode "e9856eb1"]
+[Epoch "Rook"]
+[BlackID "4600177"]
+[WhiteCountry "ISR"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 Qc7 7. Nf3 e6 8. Bd3
+Nc6 9. O-O Be7 10. Qe2 Nb4 11. a3 Nxd3 12. cxd3 O-O 13. Be3 b6 14. Rac1 Qb7 15.
+Nd4 Re8 16. g4 e5 17. Nf5 Bxf5 18. gxf5 exf4 19. Rxf4 b5 20. Qg2 a5 21. Bd4
+Rac8 22. Kh1 b4 23. Rg1 g6 24. fxg6 fxg6 25. Bxf6 bxc3 26. Bxc3 d5 27. Qh3 Rc6
+28. Qf5 1-0

@@ -1,0 +1,17 @@
+[Event "corr CCLA"]
+[Site "corr CCLA"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Weidenhofer"]
+[Black "Quist"]
+[Result "1-0"]
+[ECO "B42"]
+[Opening "Sicilian"]
+[Variation "Kan, Polugaievsky variation"]
+[HashCode "fb773f86"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Bc5 6. Nb3 Ba7 7. Qe2 Nc6
+8. Nc3 d6 9. Be3 b5 10. Bxa7 Rxa7 11. Qe3 Nge7 12. O-O-O e5 13. g3 Be6 14.
+f4 f6 15. fxe5 fxe5 16. Rhf1 Bf7 1-0
+

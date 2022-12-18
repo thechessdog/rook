@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Przybylski, H."]
+[Black "Weisshaupt, R."]
+[Result "0-1"]
+[ECO "E59"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line"]
+[HashCode "43d46a7b"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 d5 6. Nf3 O-O 7. O-O Nc6 8.
+a3 Bxc3 9. bxc3 dxc4 10. Bxc4 Qc7 11. Ba2 e5 12. h3 e4 13. Nh2 Bf5 14. Ng4
+Nxg4 15. hxg4 Bg6 16. a4 Rfd8 17. Qe2 Ne7 18. Bb2 Rac8 19. f4 exf3 20. gxf3
+Bd3 0-1
+

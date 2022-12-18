@@ -1,0 +1,18 @@
+[Event "IBM"]
+[Site "Amsterdam"]
+[Date "1981.05.01"]
+[Round "1"]
+[White "Smyslov, Vasily"]
+[Black "Karpov, Anatoly"]
+[Result "1/2-1/2"]
+[ECO "E15"]
+[Opening "Queen's Indian"]
+[Variation "Nimzovich variation (exaggerated fianchetto)"]
+[HashCode "0b46a263"]
+[Epoch "Rook"]
+[BlackID "4100026"]
+[WhiteCountry "RUS"]
+[BlackCountry "RUS"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. Nbd2 Bb7 6. Bg2 c5 7. O-O cxd4 8.
+Nxd4 Bxg2 9. Kxg2 Qc8 10. e3 Be7 11. Qf3 Nc6 12. Nxc6 Qxc6 1/2-1/2

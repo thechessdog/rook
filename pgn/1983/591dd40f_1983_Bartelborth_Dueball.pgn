@@ -1,0 +1,25 @@
+[Event "Bundesliga 8283"]
+[Site "Duitsland tt"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Bartelborth, Thomas"]
+[Black "Dueball, Juergen"]
+[Result "1-0"]
+[ECO "E80"]
+[Opening "King's Indian"]
+[Variation "Saemisch variation"]
+[HashCode "591dd40f"]
+[Epoch "Rook"]
+[WhiteID "4607570"]
+[WhiteCountry "GER"]
+[BlackID "4600185"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 Nbd7 6. Be3 c5 7. d5 O-O 8. Nh3
+Ne5 9. Nf2 e6 10. Be2 exd5 11. cxd5 a6 12. a4 Re8 13. O-O Rb8 14. Rb1 Qc7 15.
+Qd2 c4 16. Rfc1 b5 17. axb5 axb5 18. Na2 Qe7 19. b3 Bb7 20. bxc4 Nxc4 21. Bxc4
+bxc4 22. Bd4 Rec8 23. Rb6 Nd7 24. Rb4 Ne5 25. Rcb1 Nd3 26. Bxg7 Nxb4 27. Qd4
+Nxa2 28. Ng4 f6 29. Bxf6 Qf8 30. Be7 Qg7 31. Bf6 Qf8 32. Qd2 h5 33. Qg5 Kh7 34.
+Be7 Qg7 35. Nf6+ Kh8 36. Nxh5 Qd4+ 37. Kh1 Kh7 38. Nf4 Qg7 39. h4 c3 40. h5 c2
+41. hxg6+ Kg8 42. Rc1 Nxc1 43. Bf6 Nb3 44. Bxg7 c1=Q+ 45. Kh2 Kxg7 46. Qe7+ Kh6
+47. Qh4+ Kg7 48. Qe7+ Kh6 49. Qh7+ Kg5 50. Ne6+ Kf6 51. Qf7+ Ke5 52. Qg7# 1-0

@@ -1,0 +1,25 @@
+[Event "Zagreb"]
+[Site "Zagreb"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Marjanovic, Slavoljub"]
+[Black "Ivanovic, Bozidar"]
+[Result "0-1"]
+[ECO "B25"]
+[Opening "Sicilian"]
+[Variation "closed, 6.f4 e5 (Botvinnik)"]
+[HashCode "d59de72b"]
+[Epoch "Rook"]
+[WhiteID "900354"]
+[WhiteCountry "SRB"]
+[BlackID "900095"]
+[BlackCountry "MNE"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 d6 4. Bg2 g6 5. d3 Bg7 6. f4 e5 7. Nh3 h5 8. Nf2 h4
+9. g4 exf4 10. Bxf4 Be5 11. Bxe5 dxe5 12. h3 Be6 13. Qd2 Nge7 14. b3 Nd4 15.
+Nfd1 g5 16. O-O Ng6 17. Ne3 Nf4 18. Rf2 Qa5 19. Kf1 O-O-O 20. Qe1 Rd6 21. Ncd5
+Qxe1+ 22. Kxe1 Bxd5 23. exd5 Ra6 24. Kd2 b5 25. a3 Rhh6 26. Be4 Rhf6 27. Rh2
+Ra5 28. Kc3 Nfe2+ 29. Kb2 Ng3 30. Bf5+ Kd8 31. Rf2 Nde2 32. Re1 Nf4 33. Rh2
+Rfa6 34. Nd1 Nxf5 35. gxf5 Rxa3 36. Nc3 f6 37. Nxb5 Nxd3+ 38. cxd3 Ra2+ 39. Kc3
+Rxh2 40. Rc1 Raa2 41. Nd6 g4 42. Nb7+ Kc8 43. Nxc5 Rhc2+ 44. Rxc2 Rxc2+ 45.
+Kxc2 g3 0-1

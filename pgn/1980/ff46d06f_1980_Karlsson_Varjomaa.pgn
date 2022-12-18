@@ -1,0 +1,18 @@
+[Event "corr SWE/K tt"]
+[Site "corr SWE/K tt"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Karlsson, Lars"]
+[Black "Varjomaa, Taisto"]
+[Result "1/2-1/2"]
+[ECO "D46"]
+[Opening "QGD semi-Slav"]
+[Variation "Chigorin defence"]
+[HashCode "ff46d06f"]
+[Epoch "Rook"]
+[WhiteID "1700057"]
+[WhiteCountry "SWE"]
+
+1. c4 e6 2. d4 Nf6 3. Nf3 d5 4. Nc3 c6 5. e3 Nbd7 6. Bd3 Bd6 7. O-O O-O 8. e4
+dxc4 9. Bxc4 e5 10. Bg5 h6 11. Bh4 Qe7 12. Re1 Nb6 13. dxe5 Bxe5 14. Nxe5 Qxe5
+15. Bxf6 Qxf6 16. e5 Qg6 17. Bb3 1/2-1/2

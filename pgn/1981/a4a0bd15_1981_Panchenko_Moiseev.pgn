@@ -1,0 +1,21 @@
+[Event "Rostov"]
+[Site "Rostov"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Panchenko, A."]
+[Black "Moiseev, Viktor"]
+[Result "1-0"]
+[ECO "A46"]
+[Opening "Queen's pawn game"]
+[HashCode "a4a0bd15"]
+[Epoch "Rook"]
+[WhiteCountry "RUS"]
+[BlackID "4101464"]
+[BlackCountry "RUS"]
+
+1. d4 Nf6 2. Nf3 c5 3. e3 g6 4. dxc5 Na6 5. Bxa6 bxa6 6. b4 a5 7. a3 Rb8 8. c3
+Ba6 9. Nbd2 Bg7 10. Bb2 Qc8 11. Qa4 O-O 12. c4 d5 13. cxd6 exd6 14. O-O axb4
+15. axb4 Bxc4 16. Rfc1 d5 17. Bd4 Nd7 18. Bxg7 Kxg7 19. Nxc4 dxc4 20. b5 Qc5
+21. Nd4 Rfc8 22. Qxa7 Qd5 23. Nc6 Ra8 24. Qd4+ Qxd4 25. Nxd4 Rxa1 26. Rxa1 Nc5
+27. Kf1 Rb8 28. Rb1 Kf6 29. Ke2 Ra8 30. b6 Ra2+ 31. Kf3 Nb7 32. Nb5 Ke5 33. Rb4
+Na5 34. Nd4 1-0

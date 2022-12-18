@@ -1,0 +1,17 @@
+[Event "corr DDR/M"]
+[Site "corr DDR/M"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Neumann, M."]
+[Black "Rolle, H."]
+[Result "1-0"]
+[ECO "B01"]
+[Opening "Scandinavian gambit"]
+[HashCode "bea43c88"]
+[Epoch "Rook"]
+
+1. e4 c6 2. c4 d5 3. exd5 Nf6 4. dxc6 Nxc6 5. Nf3 e5 6. d3 e4 7. Qe2 Qxd3
+8. Qxd3 exd3 9. Bd2 Bf5 10. Bc3 Bb4 11. Nh4 Be6 12. Bxd3 Bxc3+ 13. Nxc3 Nb4
+14. O-O-O Ng4 15. Ne4 O-O-O 16. Be2 Ne5 17. Kb1 Bxc4 18. Bxc4 Nxc4 19. Rc1
+Rd4 20. Rxc4+ 1-0
+

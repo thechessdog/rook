@@ -1,0 +1,18 @@
+[Event "corr JSM/IB"]
+[Site "corr JSM/IB"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Syrjanen, Jukka"]
+[Black "Hynynen, Matti"]
+[Result "1-0"]
+[ECO "E85"]
+[Opening "King's Indian"]
+[Variation "Saemisch, orthodox variation"]
+[HashCode "7cff1ba5"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 e5 7. Nge2 Nh5 8.
+g4 Nf6 9. d5 c6 10. Qd2 a6 11. Ng3 cxd5 12. exd5 Nbd7 13. h4 Ne8 14. h5 f5
+15. gxf5 gxf5 16. Bg5 Bf6 17. Bxf6 Qxf6 18. O-O-O h6 19. Bd3 Nc5 20. Bc2
+Ng7 21. Rdg1 b5 22. b4 Nb7 23. Nf1 Qe7 24. Qxh6 Rf6 25. Qg5 1-0
+

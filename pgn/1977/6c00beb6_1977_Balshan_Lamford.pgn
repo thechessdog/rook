@@ -1,0 +1,20 @@
+[Event "Hastings"]
+[Site "Hastings"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Balshan, Amikam"]
+[Black "Lamford, Paul"]
+[Result "1-0"]
+[ECO "D09"]
+[Opening "QGD"]
+[Variation "Albin counter-gambit, 5.g3"]
+[HashCode "6c00beb6"]
+[Epoch "Rook"]
+[BlackID "1802160"]
+[BlackCountry "WLS"]
+[WhiteID "2800233"]
+[WhiteCountry "ISR"]
+
+1. d4 d5 2. c4 e5 3. dxe5 d4 4. Nf3 Nc6 5. g3 Be6 6. Qa4 Qd7 7. Bg2 Nge7 8. O-O
+O-O-O 9. b4 Bh3 10. b5 Nb8 11. e6 Bxe6 12. Qxa7 Bxc4 13. Ne5 Qxb5 14. Nxc4 Nec6
+15. Bh3+ f5 16. Qa8 Kd7 17. Nba3 Bxa3 18. Nxa3 1-0

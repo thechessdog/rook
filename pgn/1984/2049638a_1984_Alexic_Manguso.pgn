@@ -1,0 +1,19 @@
+[Event "Milan"]
+[Site "Milan"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Alexic"]
+[Black "Manguso"]
+[Result "0-1"]
+[ECO "B65"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...Be7 defence, 9...Nxd4"]
+[HashCode "2049638a"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 e6 7. f4 Be7 8.
+Qd3 Nxd4 9. Qxd4 O-O 10. O-O-O Qa5 11. Be2 Bd7 12. Kb1 Bc6 13. Bf3 Rfd8 14.
+Qd2 Qc7 15. Rhe1 b5 16. Qe2 b4 17. Nb5 Qb6 18. Nd4 Bb7 19. g4 a5 20. Bh4 a4
+21. g5 Nd7 22. Bf2 Nc5 23. f5 b3 24. fxe6 bxa2+ 25. Ka1 fxe6 26. Nxe6 a3
+27. bxa3 Qa5 28. Qe3 Nxe6 29. Qb3 Kh8 0-1
+

@@ -1,0 +1,22 @@
+[Event "Poland"]
+[Site "Poland"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Staniszewski, Piotr"]
+[Black "Zolnierowicz, Krzysztof"]
+[Result "1-0"]
+[ECO "A46"]
+[Opening "Queen's pawn game"]
+[HashCode "bd6ab77b"]
+[Epoch "Rook"]
+[WhiteID "1100220"]
+[BlackID "1100238"]
+[WhiteCountry "POL"]
+[BlackCountry "POL"]
+
+1. d4 Nf6 2. Nf3 e6 3. g3 Be7 4. Bg2 O-O 5. c4 d5 6. O-O c5 7. cxd5 exd5 8. Be3
+Ng4 9. Bf4 Nc6 10. Nc3 Be6 11. Rc1 Rc8 12. dxc5 Bxc5 13. Na4 Be7 14. Nc5 Bxc5
+15. Rxc5 Qb6 16. Rc2 d4 17. b3 Rfd8 18. h3 Nf6 19. Bg5 Nb4 20. Rxc8 Bxc8 21.
+Qd2 a5 22. Rc1 h6 23. Bh4 Bf5 24. a3 Na6 25. Bxf6 gxf6 26. Qxh6 Nc5 27. g4 Nxb3
+28. g5 Bg6 29. gxf6 Qxf6 30. Rc7 b5 31. Ng5 d3 32. Ne4 Qa1+ 33. Kh2 Qe5+ 34. f4
+Qxc7 35. Nf6# 1-0

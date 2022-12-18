@@ -1,0 +1,23 @@
+[Event "Berlin tt"]
+[Site "Berlin-West"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Rasmussen, Lars Garne"]
+[Black "Hoi, Carsten"]
+[Result "0-1"]
+[ECO "A62"]
+[Opening "Benoni"]
+[Variation "fianchetto variation"]
+[HashCode "0f630ef1"]
+[Epoch "Rook"]
+[WhiteID "1406434"]
+[WhiteCountry "DEN"]
+[BlackID "1400100"]
+[BlackCountry "DEN"]
+
+1. d4 Nf6 2. c4 e6 3. g3 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. Bg2 Bg7 8. Nf3
+O-O 9. O-O Na6 10. Nd2 Nc7 11. a4 b6 12. Re1 Re8 13. e4 Ng4 14. Nc4 Bd4 15. Ne3
+Qf6 16. Qc2 Bd7 17. h3 Nxe3 18. Bxe3 Na6 19. Rad1 Nb4 20. Qb3 Bxe3 21. Rxe3 a6
+22. f4 Rab8 23. Kh2 b5 24. a5 Qg7 25. Bf1 Re7 26. Rde1 Rbe8 27. Nb1 Qd4 28. Rd1
+Qg7 29. Rde1 Kh8 30. Nd2 f5 31. Bg2 Qd4 32. R1e2 fxe4 33. Bxe4 Bf5 34. Nf3 Qc4
+35. Qxc4 bxc4 36. Ng5 Nxd5 37. Nf7+ Kg7 38. Nxd6 Nxe3 39. Nxe8+ Rxe8 0-1

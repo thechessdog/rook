@@ -1,0 +1,19 @@
+[Event "Sverdlovsk"]
+[Site "Sverdlovsk"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Osnos, Vyacheslav"]
+[Black "Yudasin, Leonid"]
+[Result "1/2-1/2"]
+[ECO "E42"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5, 5.Ne2 (Rubinstein)"]
+[HashCode "fb921a31"]
+[Epoch "Rook"]
+[BlackID "2802341"]
+[BlackCountry "ISR"]
+[WhiteCountry "RUS"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Ne2 cxd4 6. exd4 d5 7. a3 Be7 8. Nf4
+dxc4 9. Bxc4 O-O 10. O-O Nc6 11. d5 exd5 12. Nfxd5 Nxd5 13. Nxd5 Bd6 14. Qh5
+Ne5 15. Bg5 Bg4 16. Qxg4 Nxg4 17. Bxd8 Rfxd8 1/2-1/2

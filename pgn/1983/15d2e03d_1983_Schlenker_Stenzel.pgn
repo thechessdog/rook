@@ -1,0 +1,25 @@
+[Event "Wittlich"]
+[Site "Wittlich"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Schlenker, Jochen"]
+[Black "Stenzel, Thomas"]
+[Result "1-0"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack"]
+[HashCode "15d2e03d"]
+[Epoch "Rook"]
+[WhiteID "4606663"]
+[BlackID "4632770"]
+[WhiteCountry "GER"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 Nbd7 4. f3 c6 5. e4 dxe4 6. fxe4 e5 7. dxe5 Qa5 8.
+Bxf6 gxf6 9. exf6 Nxf6 10. Qd4 Bg7 11. Bc4 Bd7 12. e5 Nd5 13. Bxd5 cxd5 14.
+O-O-O Be6 15. Nf3 b5 16. Qc5 Rc8 17. Qxb5+ Qxb5 18. Nxb5 O-O 19. Nbd4 Bg4 20.
+h3 Bd7 21. g4 Bh6+ 22. Kb1 Rc4 23. b3 Rc3 24. Rd3 Rc5 25. Rhd1 Rfc8 26. Kb2 a5
+27. a3 Bf4 28. c3 Rb8 29. Ne2 Bh6 30. g5 Bf8 31. Rxd5 Be6 32. Nf4 Bxd5 33. Nxd5
+Rc4 34. Kc2 Rcc8 35. Nf6+ Kg7 36. Nd7 Rb7 37. Nxf8 Rxf8 38. Rd5 Ra8 39. c4 Ra6
+40. Kc3 h6 41. Rd6 Ra8 42. gxh6+ Kh7 43. Ng5+ Kh8 44. Rf6 Rab8 45. Nxf7+ Kh7
+46. e6 Rxb3+ 47. Kd4 Rg3 48. c5 Rbb3 49. Kd5 Rxa3 50. h4 Rad3+ 51. Kc6 Rg6 52.
+Rxg6 1-0

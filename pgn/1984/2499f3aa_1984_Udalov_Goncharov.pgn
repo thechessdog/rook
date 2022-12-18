@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Udalov"]
+[Black "Goncharov"]
+[Result "1-0"]
+[ECO "C43"]
+[Opening "Petrov"]
+[Variation "modern attack, Symmetrical variation"]
+[HashCode "2499f3aa"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nf6 3. d4 Nxe4 4. Bd3 d5 5. Nxe5 Bd6 6. Nd2 Bxe5 7. dxe5
+Nc5 8. Nf3 Bg4 9. h3 Nxd3+ 10. Qxd3 Bxf3 11. Qxf3 O-O 12. Qg3 Qe7 13. Bh6
+f6 14. O-O-O c6 15. Rhe1 fxe5 16. Rxe5 Qf6 17. Re6 Qf7 18. Rde1 1-0
+

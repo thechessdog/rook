@@ -1,0 +1,18 @@
+[Event "Alkmaar open"]
+[Site "Alkmaar open"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "De Geus, G."]
+[Black "De Haas, Piet"]
+[Result "1-0"]
+[ECO "C55"]
+[Opening "two knights"]
+[Variation "Max Lange attack, Marshall variation"]
+[HashCode "5b2f4a40"]
+[Epoch "Rook"]
+[BlackID "1006606"]
+[BlackCountry "NED"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 Bc5 5. O-O Nf6 6. e5 d5 7. exf6 dxc4 8.
+Re1+ Be6 9. Ng5 Qd5 10. Nc3 Qf5 11. Nce4 Bb6 12. Ng3 Qa5 13. fxg7 Rg8 14. Rxe6+
+fxe6 15. Qh5+ Kd7 16. Qf7+ Ne7 17. Qxe6+ Ke8 18. Nh5 1-0

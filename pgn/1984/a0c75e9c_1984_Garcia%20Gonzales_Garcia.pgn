@@ -1,0 +1,20 @@
+[Event "Tunja"]
+[Site "Tunja"]
+[Date "1984.??.??"]
+[Round "1"]
+[White "Garcia Gonzales, Guillermo"]
+[Black "Garcia, Gildardo"]
+[Result "0-1"]
+[ECO "A35"]
+[Opening "English"]
+[Variation "symmetrical, four knights system"]
+[HashCode "a0c75e9c"]
+[Epoch "Rook"]
+[BlackID "4400020"]
+[BlackCountry "COL"]
+[WhiteCountry "CUB"]
+
+1. c4 c5 2. Nf3 Nf6 3. Nc3 Nc6 4. e3 e6 5. d4 d5 6. a3 Be7 7. dxc5 Bxc5 8. b4
+Bd6 9. Bb2 O-O 10. cxd5 exd5 11. Be2 Bg4 12. Nb5 Bb8 13. Nbd4 Re8 14. Rc1 Qd6
+15. Nxc6 bxc6 16. Bxf6 Bxf3 17. Bxf3 Qxf6 18. Qa4 Bd6 19. Rxc6 Rad8 20. O-O Re6
+21. Rfc1 d4 22. Rc8 dxe3 23. fxe3 Rxe3 24. Rxd8+ Qxd8 25. Qxa7 Rxf3 0-1

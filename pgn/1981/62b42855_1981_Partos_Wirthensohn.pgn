@@ -1,0 +1,21 @@
+[Event "Biel"]
+[Site "Biel"]
+[Date "1981.07.01"]
+[Round "1"]
+[White "Partos, Charles"]
+[Black "Wirthensohn, Heinz"]
+[Result "0-1"]
+[ECO "E20"]
+[Opening "Nimzo-Indian"]
+[Variation "Kmoch variation"]
+[HashCode "62b42855"]
+[Epoch "Rook"]
+[BlackID "1300059"]
+[BlackCountry "SUI"]
+[WhiteCountry "CHE"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. f3 c5 5. d5 Bxc3+ 6. bxc3 d6 7. e4 e5 8. Bd3
+O-O 9. Bg5 h6 10. Be3 Nh5 11. Ne2 f5 12. exf5 Bxf5 13. Bxf5 Rxf5 14. O-O Rf7
+15. Qb1 Nd7 16. g4 Nf4 17. Ng3 h5 18. gxh5 Nb6 19. Qb3 Qh4 20. Ne4 Qxh5 21. Kh1
+Raf8 22. Nd2 Ne2 23. Rfe1 Ng3+ 24. Kg1 Nf5 25. a4 Rf6 26. Kh1 Rg6 27. Bf2 Kf7
+0-1

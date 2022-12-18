@@ -1,0 +1,19 @@
+[Event "Sweden"]
+[Site "Sweden"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Ivarsson, Stefan"]
+[Black "Ekstroem, Roland"]
+[Result "1/2-1/2"]
+[ECO "A00"]
+[Opening "Benko's opening"]
+[HashCode "c3d53dc5"]
+[Epoch "Rook"]
+[WhiteID "1700286"]
+[WhiteCountry "SWE"]
+[BlackID "1302302"]
+[BlackCountry "SUI"]
+
+1. g3 d5 2. Bg2 e5 3. Nf3 e4 4. Nd4 c5 5. Nb3 c4 6. Nd4 Bc5 7. c3 Nc6 8. Nxc6
+bxc6 9. b3 Qf6 10. O-O h5 11. d4 cxd3 12. exd3 Bg4 13. Qe1 h4 14. d4 Be7 15. f3
+exf3 16. Nd2 hxg3 17. Nxf3 Bxf3 18. Rxf3 Qh4 1/2-1/2

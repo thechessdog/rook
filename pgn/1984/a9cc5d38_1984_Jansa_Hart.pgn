@@ -1,0 +1,20 @@
+[Event "Berlin op"]
+[Site "Berlin-West"]
+[Date "1984.01.01"]
+[Round "9"]
+[White "Jansa, Vlastimil"]
+[Black "Hart, Michael"]
+[Result "1-0"]
+[ECO "B19"]
+[Opening "Caro-Kann"]
+[Variation "classical, Spassky variation"]
+[HashCode "a9cc5d38"]
+[Epoch "Rook"]
+[WhiteID "300128"]
+[WhiteCountry "CZE"]
+[BlackID "2005409"]
+[BlackCountry "USA"]
+
+1. e4 c6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6 7. Nf3 Nd7 8. h5
+Bh7 9. Bd3 Bxd3 10. Qxd3 e6 11. Bf4 Ngf6 12. O-O-O Nd5 13. Bd2 Qc7 14. c4 Nf4
+15. Qe4 Nxg2 16. Ne5 Nxe5 17. dxe5 O-O-O 18. Bc3 1-0

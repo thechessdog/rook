@@ -1,0 +1,19 @@
+[Event "corr BdF-PZ"]
+[Site "corr BdF-PZ"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Grimm, H."]
+[Black "Anthes, K."]
+[Result "0-1"]
+[ECO "E68"]
+[Opening "King's Indian"]
+[Variation "fianchetto, classical variation, 8.e4"]
+[HashCode "3a42a4fd"]
+[Epoch "Rook"]
+
+1. c4 g6 2. d4 Nf6 3. g3 Bg7 4. Bg2 O-O 5. Nf3 d6 6. Nc3 Nbd7 7. O-O e5 8.
+e4 Re8 9. d5 Nc5 10. Qc2 a5 11. h3 Rf8 12. g4 Ne8 13. Be3 f5 14. Bxc5 fxg4
+15. hxg4 dxc5 16. Nh2 Bh6 17. Ne2 Qh4 18. Nf3 Rxf3 19. Bxf3 Nf6 20. Qc3
+Nxg4 21. Bxg4 Qxg4+ 22. Ng3 Bf4 23. Rfe1 h5 24. Kh1 Qh3+ 25. Kg1 Bg4 26.
+Re3 h4 0-1
+

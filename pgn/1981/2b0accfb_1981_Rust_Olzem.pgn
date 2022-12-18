@@ -1,0 +1,23 @@
+[Event "RLN 8081"]
+[Site "RLN 8081"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Rust, K."]
+[Black "Olzem, Lothar"]
+[Result "1-0"]
+[ECO "A77"]
+[Opening "Benoni"]
+[Variation "classical, 9...Re8, 10.Nd2"]
+[HashCode "2b0accfb"]
+[Epoch "Rook"]
+[BlackID "4607716"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 c5 4. d5 exd5 5. cxd5 g6 6. e4 d6 7. Be2 Bg7 8. Nf3
+O-O 9. O-O Re8 10. Nd2 a6 11. a4 Nbd7 12. Qc2 Rb8 13. Nc4 Ne5 14. Ne3 g5 15. h3
+Qc7 16. Nf5 Bxf5 17. exf5 h6 18. Bd2 c4 19. a5 b5 20. axb6 Rxb6 21. Be3 Rb3 22.
+Rxa6 Reb8 23. Bc1 Qb7 24. Ra5 Qc7 25. Ra4 Nfd7 26. Ne4 Nc5 27. Nxc5 Qxc5 28.
+Qe4 R3b4 29. Rxb4 Rxb4 30. Be3 Qa5 31. Bd4 Qa4 32. f6 Bxf6 33. Qf5 Kg7 34. f4
+Nf3+ 35. Bxf3 Bxd4+ 36. Kh1 Rxb2 37. fxg5 Rf2 38. gxh6+ Kxh6 39. Qf4+ Kh7 40.
+Be4+ Kg7 41. Rxf2 Bxf2 42. Qxf2 c3 43. Qg3+ Kh6 44. Qe3+ Kh5 45. Kh2 f5 46.
+Bxf5 Qa2 47. Qf3+ 1-0

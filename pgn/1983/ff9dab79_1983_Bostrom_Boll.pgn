@@ -1,0 +1,20 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Bostrom, Olavi"]
+[Black "Boll, P."]
+[Result "0-1"]
+[ECO "A02"]
+[Opening "Bird"]
+[Variation "From gambit, Lasker variation"]
+[HashCode "ff9dab79"]
+[Epoch "Rook"]
+
+1. f4 e5 2. fxe5 d6 3. exd6 Bxd6 4. Nf3 g5 5. d4 g4 6. Ne5 Bxe5 7. dxe5
+Qxd1+ 8. Kxd1 Nc6 9. Nc3 Be6 10. Bg5 Nxe5 11. Nb5 Rc8 12. Bf4 f6 13. Nxa7
+Rd8+ 14. Ke1 c6 15. a4 Bd5 16. b3 Ne7 17. a5 Nf5 18. Ra4 Be6 19. Bxe5 fxe5
+20. a6 Ne3 21. Kf2 Nxc2 22. axb7 O-O+ 23. Kg3 Ne3 24. Kh4 Rd7 25. Rb4 Rg7
+26. Kg3 h5 27. h4 gxh3+ 28. Kh4 hxg2 29. Bxg2 Nxg2+ 30. Kxh5 Rf5+ 31. Kh6
+Rf6+ 32. Kh5 Bf7# 0-1
+

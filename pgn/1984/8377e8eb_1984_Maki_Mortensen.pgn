@@ -1,0 +1,23 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Maki, Veijo"]
+[Black "Mortensen, Erling"]
+[Result "1/2-1/2"]
+[ECO "B83"]
+[Opening "Sicilian"]
+[Variation "modern Scheveningen, main line with Nb3"]
+[HashCode "8377e8eb"]
+[Epoch "Rook"]
+[BlackID "1400045"]
+[BlackCountry "DEN"]
+[WhiteID "500046"]
+[WhiteCountry "FIN"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be2 Be7 7. f4 Nc6 8. Be3
+Bd7 9. Nb3 O-O 10. O-O Qc7 11. Bf3 Rfd8 12. g4 Be8 13. g5 Nd7 14. Qe2 a6 15. a4
+Nc5 16. Qf2 b6 17. Bg2 Rab8 18. Qh4 Nxb3 19. cxb3 b5 20. axb5 axb5 21. Rf3 f6
+22. Rh3 Bg6 23. f5 fxg5 24. Bxg5 Bxg5 25. Qxg5 b4 26. fxg6 h6 27. Qg4 bxc3 28.
+Qxe6+ Kh8 29. bxc3 Qb6+ 30. Kh1 Qxb3 31. c4 Qb1+ 32. Rxb1 Rxb1+ 33. Bf1 Rxf1+
+34. Kg2 Rdf8 35. Rxh6+ gxh6 36. Qd7 R1f2+ 37. Kg1 1/2-1/2

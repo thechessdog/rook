@@ -1,0 +1,17 @@
+[Event "Dayton,OH"]
+[Site "Dayton,OH"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Wall, Bill"]
+[Black "Hayes"]
+[Result "1-0"]
+[ECO "C35"]
+[Opening "KGA"]
+[Variation "Cunningham defence"]
+[HashCode "cecb3a3d"]
+[Epoch "Rook"]
+[WhiteCountry "USA"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 Be7 4. Bc4 Bh4+ 5. Kf1 Bf6 6. e5 Be7 7. d4 d5 8. Be2
+f6 9. Bxf4 g5 10. Bg3 g4 11. exf6 Nxf6 12. Ne5 Ne4 13. Bxg4 Bxg4 14. Qxg4 Rf8+
+15. Kg1 Nxg3 16. hxg3 Nc6 17. Qh5+ 1-0

@@ -1,0 +1,17 @@
+[Event "Buckeye Open,OH"]
+[Site "Buckeye Open,OH"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Zidonis, Frank"]
+[Black "Hayes"]
+[Result "0-1"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "classical attack"]
+[HashCode "debc0e61"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 f5 7. O-O Be7 8.
+Re1 O-O 9. Nbd2 Nd7 10. c3 c6 11. Qb3 Kh8 12. Ne5 Nxe5 13. dxe5 Bc5 14. Re2
+Nxf2 15. Rxf2 Qh4 16. g3 Bxf2+ 17. Kxf2 Qxh2+ 18. Kf3 f4 19. Nf1 fxg3+ 0-1
+

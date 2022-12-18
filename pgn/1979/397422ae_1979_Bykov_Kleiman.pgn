@@ -1,0 +1,17 @@
+[Event "Ivanovo"]
+[Site "Ivanovo"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Bykov, Valery"]
+[Black "Kleiman, A."]
+[Result "0-1"]
+[ECO "A03"]
+[Opening "Bird's opening"]
+[HashCode "397422ae"]
+[Epoch "Rook"]
+[WhiteID "4105460"]
+[WhiteCountry "RUS"]
+
+1. f4 d5 2. Nf3 Nf6 3. e3 e6 4. b3 Be7 5. Bb2 O-O 6. d4 c5 7. Bd3 Nc6 8. a3 Qb6
+9. Ra2 cxd4 10. exd4 Bd6 11. g3 Re8 12. Nbd2 e5 13. fxe5 Ng4 14. h3 Ncxe5 15.
+hxg4 Nxg4+ 0-1

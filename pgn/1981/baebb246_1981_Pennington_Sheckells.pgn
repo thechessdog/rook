@@ -1,0 +1,17 @@
+[Event "Portland"]
+[Site "Portland"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Pennington, F."]
+[Black "Sheckells"]
+[Result "0-1"]
+[ECO "C37"]
+[Opening "KGA"]
+[Variation "Herzfeld gambit"]
+[HashCode "baebb246"]
+[Epoch "Rook"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. Bc4 g4 5. Ne5 Qh4+ 6. Kf1 Nc6 7. Nxf7 Bc5
+8. Qe1 g3 9. Nxh8 Bf2 10. Qe2 Nf6 11. h3 Nd4 12. Qd3 Ng4 13. Bf7+ Kf8 14.
+Qa3+ d6 15. Qa4 Nh2+ 16. Rxh2 gxh2 0-1
+

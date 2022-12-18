@@ -1,0 +1,24 @@
+[Event "corr SWE/K tt"]
+[Site "corr SWE/K tt"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Wiker, B."]
+[Black "Korning, Peter"]
+[Result "1-0"]
+[ECO "C76"]
+[Opening "Ruy Lopez"]
+[Variation "modern Steinitz defence, fianchetto (Bronstein) variation"]
+[HashCode "41b31a54"]
+[Epoch "Rook"]
+[BlackID "1723332"]
+[BlackCountry "SWE"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. c3 Bd7 6. d4 g6 7. O-O Bg7 8. dxe5
+dxe5 9. Bg5 Nge7 10. Qe2 O-O 11. Rd1 Nd4 12. cxd4 Bxa4 13. Rd2 exd4 14. Nc3 Bd7
+15. Nxd4 Qe8 16. Rad1 f6 17. Bf4 Rc8 18. Qc4+ Qf7 19. Qxf7+ Rxf7 20. Nb3 Bc6
+21. Na5 f5 22. Rd8+ Rf8 23. Rxc8 Rxc8 24. exf5 gxf5 25. Nxc6 Nxc6 26. Rd7 Ne5
+27. Rxg7+ Kxg7 28. Bxe5+ Kf7 29. f4 Ke6 30. Kf2 b5 31. h3 h5 32. Ne2 c5 33. Ng3
+h4 34. Nh5 Kf7 35. g4 b4 36. gxf5 c4 37. Ke2 c3 38. bxc3 bxc3 39. Kd1 Rd8+ 40.
+Kc2 Rd2+ 41. Kxc3 Rxa2 42. Nf6 Ra3+ 43. Kd2 Rxh3 44. Ne4 Rb3 45. Ng5+ Ke8 46.
+f6 Rb6 47. Bd4 Rc6 48. Bb2 Rc7 49. Ke3 h3 50. Nxh3 Rb7 51. Bc3 a5 52. Ng5 a4
+53. f7+ Kf8 54. Ne6+ 1-0

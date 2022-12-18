@@ -1,0 +1,17 @@
+[Event "Yerevan op"]
+[Site "Yerevan"]
+[Date "1983.01.01"]
+[Round "4"]
+[White "Pripis, Felixs L"]
+[Black "Ivanov, Alexander"]
+[Result "1/2-1/2"]
+[ECO "B91"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Zagreb (fianchetto) variation"]
+[HashCode "4a6ff7a6"]
+[Epoch "Rook"]
+[BlackID "2000202"]
+[BlackCountry "USA"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. g3 e5 7. Nde2 Be7 8. a4
+O-O 9. Bg2 Nbd7 10. O-O b6 11. h3 Rb8 12. g4 b5 13. axb5 axb5 1/2-1/2

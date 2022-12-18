@@ -1,0 +1,22 @@
+[Event "Athens tt"]
+[Site "Athens"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Radulov, Ivan"]
+[Black "Makropoulos, Georgios"]
+[Result "1-0"]
+[ECO "B16"]
+[Opening "Caro-Kann"]
+[Variation "Bronstein-Larsen variation"]
+[HashCode "9889c1dd"]
+[Epoch "Rook"]
+[WhiteID "2900300"]
+[WhiteCountry "FID"]
+[BlackID "4200047"]
+[BlackCountry "GRE"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ gxf6 6. Nf3 Bf5 7. Bd3 Bg6
+8. O-O e6 9. c4 Na6 10. Be3 Qd7 11. a3 Nc7 12. Qc2 O-O-O 13. Rfd1 Kb8 14. b4
+Bxd3 15. Qxd3 h5 16. Rab1 Qe7 17. a4 a6 18. d5 exd5 19. b5 axb5 20. axb5 cxb5
+21. cxb5 Bh6 22. Bxh6 Rxh6 23. Nd4 Rg6 24. Nc6+ bxc6 25. bxc6+ Kc8 26. Rb8+
+Kxb8 27. Qb3+ Nb5 28. Qxb5+ Kc7 29. Qb7+ Kd6 30. Qb4+ 1-0

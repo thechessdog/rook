@@ -1,0 +1,19 @@
+[Event "corr ch32-ITA"]
+[Site "corr ch32-ITA"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Marra, S."]
+[Black "Torrielli, D."]
+[Result "0-1"]
+[ECO "E52"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line with ...b6"]
+[HashCode "534e9d63"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Nf3 d5 6. Bd3 b6 7. O-O Bb7 8.
+cxd5 exd5 9. a3 Bd6 10. b4 Nbd7 11. Qb3 c6 12. Bb2 Qe7 13. Rfe1 Ne4 14.
+Rac1 Ndf6 15. Ne5 Rac8 16. f3 Nxc3 17. Bxc3 Rc7 18. Qb2 Re8 19. e4 Qd8 20.
+Qf2 Rce7 21. exd5 Nxd5 22. Qh4 g6 23. g3 Nxc3 24. Rxc3 c5 25. Rf1 cxd4 26.
+Nc6 Qd7 27. Nxd4 Be5 28. Rc4 b5 29. Nf5 bxc4 0-1
+

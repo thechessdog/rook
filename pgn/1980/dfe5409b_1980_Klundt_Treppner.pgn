@@ -1,0 +1,20 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Klundt, Klaus"]
+[Black "Treppner, Gerd"]
+[Result "1-0"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "Paulsen attack"]
+[HashCode "dfe5409b"]
+[Epoch "Rook"]
+[WhiteID "4600436"]
+[BlackID "4601998"]
+[WhiteCountry "GER"]
+[BlackCountry "GER"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nc4 Nxe4 5. Qe2 Qe7 6. d3 Nc5 7. Nc3 Bg4 8.
+f3 Qxe2+ 9. Bxe2 Be6 10. d4 Nca6 11. d5 Bf5 12. Bf4 Bxc2 13. Kd2 Bf5 14. Rhe1
+Kd8 15. Rac1 Nd7 16. Na5 Nac5 17. a3 b6 18. Nc6+ Kc8 19. Nd4 1-0

@@ -1,0 +1,18 @@
+[Event "Imperia"]
+[Site "Imperia"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Verri"]
+[Black "Mozzetti"]
+[Result "1-0"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (without ...d6)"]
+[HashCode "1344c18e"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 e6 4. O-O Qc7 5. c3 Be7 6. d4 cxd4 7. cxd4 a6 8.
+Bxc6 dxc6 9. Nc3 Nf6 10. e5 Nd7 11. Bf4 c5 12. d5 exd5 13. Nxd5 Qc6 14. e6
+Nb6 15. exf7+ Kf8 16. Nxe7 Kxe7 17. Bg5+ Ke6 18. Re1+ Kf5 19. Qd3+ Kg4 20.
+h3+ Kh5 21. g4+ 1-0
+

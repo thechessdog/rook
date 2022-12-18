@@ -1,0 +1,20 @@
+[Event "Stockholm"]
+[Site "Stockholm"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Kaiszauri, Konstanty"]
+[Black "Safholm, Sten"]
+[Result "1-0"]
+[ECO "B40"]
+[Opening "Sicilian defence"]
+[HashCode "f75451d6"]
+[Epoch "Rook"]
+[WhiteID "1700510"]
+[BlackID "1703153"]
+[WhiteCountry "SWE"]
+[BlackCountry "SWE"]
+
+1. e4 c5 2. Nf3 e6 3. d3 Nc6 4. g3 d6 5. Bg2 Nge7 6. O-O f5 7. Nc3 g6 8. d4
+cxd4 9. Nxd4 Nxd4 10. Qxd4 e5 11. Qa4+ Qd7 12. Nb5 Nc6 13. exf5 gxf5 14. Bg5 a6
+15. Nc3 Nd4 16. Qc4 Qf7 17. Nd5 Be6 18. Nc7+ Kd7 19. Qb4 Rb8 20. Nxa6 bxa6 21.
+Qxb8 Nb5 22. Qd8# 1-0

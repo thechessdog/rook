@@ -1,0 +1,21 @@
+[Event "IBM-B"]
+[Site "Amsterdam II"]
+[Date "1979.07.01"]
+[Round "9"]
+[White "Langeweg, Kick"]
+[Black "Van der Wiel, John T.H."]
+[Result "1/2-1/2"]
+[ECO "E97"]
+[Opening "King's Indian"]
+[Variation "orthodox, Aronin-Taimanov variation (Yugoslav attack / Mar del Plata variation)"]
+[HashCode "4d38d5ce"]
+[Epoch "Rook"]
+[WhiteID "1000160"]
+[WhiteCountry "NED"]
+[BlackID "1000020"]
+[BlackCountry "NED"]
+
+1. Nf3 g6 2. c4 Bg7 3. d4 Nf6 4. Nc3 O-O 5. e4 d6 6. Be2 e5 7. O-O Nc6 8. d5
+Ne7 9. Nd2 c5 10. dxc6 bxc6 11. b4 d5 12. cxd5 cxd5 13. b5 Bb7 14. exd5 Nexd5
+15. Nde4 Nxe4 16. Nxe4 Qb6 17. Qb3 Nf4 18. Bf3 Bxe4 19. Bxe4 Ne2+ 20. Kh1 Qd4
+21. Bxa8 Qxa1 22. Qc4 Nxc1 23. Rxc1 Qb2 24. Bd5 1/2-1/2

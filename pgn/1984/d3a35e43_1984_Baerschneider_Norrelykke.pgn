@@ -1,0 +1,19 @@
+[Event "corr EU/M/GT"]
+[Site "corr EU/M/GT"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Baerschneider, A."]
+[Black "Norrelykke"]
+[Result "0-1"]
+[ECO "B26"]
+[Opening "Sicilian"]
+[Variation "closed, 6.Be3"]
+[HashCode "d3a35e43"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. Be3 Nd4 7. h3 Nf6 8.
+Qd2 O-O 9. Nce2 e5 10. c3 Nc6 11. f4 Re8 12. Nf3 c4 13. Nh2 cxd3 14. Nc1
+exf4 15. gxf4 Nxe4 16. Bxe4 Rxe4 17. Nf3 Qe7 18. Kf2 Bf6 19. Nxd3 Bf5 20.
+Ng5 Bxg5 21. fxg5 Ne5 22. Nxe5 Qxe5 23. Rae1 Re8 24. Bxa7 Rf4+ 25. Kg3 Rg4+
+26. Kf2 Qg3+ 0-1
+

@@ -1,0 +1,20 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Gerling, L."]
+[Black "Enigk, G."]
+[Result "0-1"]
+[ECO "E87"]
+[Opening "King's Indian"]
+[Variation "Saemisch, orthodox, 7.d5"]
+[HashCode "5daef375"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 e5 7. d5 Ne8 8. Qd2
+c6 9. g4 cxd5 10. cxd5 a6 11. h4 b5 12. h5 Nd7 13. Bh6 Ndf6 14. Nge2 Ra7
+15. Ng3 Bxh6 16. Qxh6 Nxg4 17. fxg4 g5 18. Be2 f6 19. Rf1 Qa5 20. Nf5 b4
+21. Nd1 Qc5 22. Kd2 Bxf5 23. gxf5 Qd4+ 24. Bd3 Rff7 25. Rb1 Rab7 26. Ne3 b3
+27. a3 Rfc7 28. Ke2 Rc2+ 29. Nxc2 bxc2 30. Rbc1 Rxb2 31. Rg1 Qxg1 32. Kd2
+Qf2+ 33. Be2 Qf4+ 0-1
+

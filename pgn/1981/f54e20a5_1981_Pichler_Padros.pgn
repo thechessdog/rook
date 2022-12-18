@@ -1,0 +1,18 @@
+[Event "corr ICCF-EU"]
+[Site "corr ICCF-EU"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Pichler, Juergen"]
+[Black "Padros"]
+[Result "1-0"]
+[ECO "B06"]
+[Opening "Robatsch defence"]
+[Variation "Pseudo-Austrian attack"]
+[HashCode "f54e20a5"]
+[Epoch "Rook"]
+[WhiteID "4600363"]
+[WhiteCountry "GER"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. f4 c6 5. Nf3 Bg4 6. Be3 Qb6 7. Qd2 Bxf3 8. gxf3
+Nd7 9. O-O-O Qa5 10. Kb1 b5 11. h4 Nb6 12. h5 Rb8 13. hxg6 fxg6 14. Ka1 Na4 15.
+Nxa4 Qxa4 16. f5 gxf5 17. Qg2 Bf8 18. e5 d5 19. Rxh7 1-0

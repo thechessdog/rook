@@ -1,0 +1,21 @@
+[Event "corr Swinarski mem"]
+[Site "corr Swinarski mem"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Monostori, L."]
+[Black "Salceanu, V."]
+[Result "0-1"]
+[ECO "A29"]
+[Opening "English"]
+[Variation "four knights, kingside fianchetto"]
+[HashCode "2b356169"]
+[Epoch "Rook"]
+
+1. c4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. g3 Bb4 5. Bg2 O-O 6. O-O e4 7. Ne1 Bxc3
+8. dxc3 h6 9. Nc2 Re8 10. Ne3 d6 11. Qc2 Bd7 12. f4 exf3 13. exf3 a5 14. a4
+Qb8 15. Rd1 Qa7 16. Qf2 Re7 17. Nd5 Nxd5 18. cxd5 Ne5 19. Qxa7 Rxa7 20. f4
+Nc4 21. Kf2 Ra8 22. Bf1 Nb6 23. Rd4 Rae8 24. Bd2 Bf5 25. Bb5 Ra8 26. Kf3
+Nxd5 27. Bd3 Bxd3 28. Rxd3 Nb6 29. b3 Nd7 30. Be3 f5 31. h3 b6 32. b4 Re4
+33. g4 axb4 34. gxf5 Rc4 35. cxb4 Rxb4 36. Rda3 Rc4 37. a5 Rxa5 38. Rxa5
+bxa5 39. Rxa5 Rc3 0-1
+

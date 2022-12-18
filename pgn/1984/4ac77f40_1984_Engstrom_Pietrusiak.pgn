@@ -1,0 +1,19 @@
+[Event "Linkoping"]
+[Site "Linkoping"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Engstrom, Kaj"]
+[Black "Pietrusiak, Bogdan"]
+[Result "1/2-1/2"]
+[ECO "B59"]
+[Opening "Sicilian"]
+[Variation "Boleslavsky variation, 7.Nb3"]
+[HashCode "4ac77f40"]
+[Epoch "Rook"]
+[WhiteID "1701134"]
+[WhiteCountry "SWE"]
+[BlackCountry "POL"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be2 e5 7. Nb3 Be7 8.
+Bg5 Be6 9. O-O O-O 10. Qd2 h6 11. Bxf6 Bxf6 12. Rad1 Bxb3 13. axb3 Nd4 14. Bc4
+Rc8 15. Nb5 Nxb5 16. Bxb5 Qc7 17. c3 Rfd8 1/2-1/2

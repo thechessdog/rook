@@ -1,0 +1,19 @@
+[Event "Stuttgart op"]
+[Site "Stuttgart"]
+[Date "1979.??.??"]
+[Round "?"]
+[White "Saacke, Bernd"]
+[Black "Fahnenschmidt, Gerhard"]
+[Result "1/2-1/2"]
+[ECO "E42"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5, 5.Ne2 (Rubinstein)"]
+[HashCode "fcc1e040"]
+[Epoch "Rook"]
+[BlackID "4600568"]
+[BlackCountry "GER"]
+[WhiteCountry "DEU"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Ne2 cxd4 6. exd4 O-O 7. a3 Be7 8. Nf4
+d5 9. cxd5 Nxd5 10. Nfxd5 exd5 11. Be2 Nc6 12. O-O Be6 13. Bf3 Rc8 14. Ne2 Bf6
+15. Qd3 Qd7 16. Be3 Bg4 17. Bxg4 Qxg4 18. Rad1 1/2-1/2

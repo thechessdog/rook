@@ -1,0 +1,21 @@
+[Event "Hamar"]
+[Site "Hamar"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Jansson, Borje"]
+[Black "Landenberque"]
+[Result "1-0"]
+[ECO "B10"]
+[Opening "Caro-Kann"]
+[Variation "closed (Breyer) variation"]
+[HashCode "8f588e45"]
+[Epoch "Rook"]
+[WhiteID "1700189"]
+[WhiteCountry "SWE"]
+
+1. e4 c6 2. d3 d5 3. Nd2 g6 4. f4 Bg7 5. Ngf3 Nf6 6. c3 O-O 7. g3 Na6 8. e5 Ne8
+9. d4 Qb6 10. Bd3 c5 11. Qe2 Nec7 12. a4 cxd4 13. Nxd4 Ne6 14. N2f3 Nec5 15.
+Bc2 Bg4 16. b4 Ne4 17. Bxe4 dxe4 18. Qxe4 Rac8 19. Bd2 Rc4 20. Qd3 Rfc8 21. b5
+Nb8 22. h3 Be6 23. h4 Bd5 24. h5 Nd7 25. hxg6 hxg6 26. Nf5 Bxf3 27. Nxe7+ Kf8
+28. Nxc8 Rxc8 29. Qxf3 Nc5 30. Be3 Qa5 31. O-O Nb3 32. Qxb7 Qxc3 33. Rae1 Kg8
+34. Qxa7 Rc7 35. Qa8+ Rc8 36. Qd5 Re8 37. b6 1-0

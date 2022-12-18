@@ -1,0 +1,20 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Slonimsky"]
+[Black "Zhelnin"]
+[Result "0-1"]
+[ECO "E97"]
+[Opening "King's Indian"]
+[Variation "orthodox, Aronin-Taimanov, bayonet attack"]
+[HashCode "fb0ab85c"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. O-O Nc6 8.
+d5 Ne7 9. b4 Ne8 10. c5 Kh8 11. Nd2 f5 12. cxd6 cxd6 13. a4 Bh6 14. Nc4
+Bxc1 15. Rxc1 f4 16. Nb5 Ng8 17. Bg4 Bxg4 18. Qxg4 Ngf6 19. Qe2 a6 20. Nba3
+g5 21. a5 g4 22. Rc3 Rg8 23. Nb6 Rb8 24. b5 f3 25. Qe3 Nh5 26. gxf3 Qh4 27.
+f4 exf4 28. Qd4+ Nef6 29. Nd7 g3 30. fxg3 fxg3 31. Rxg3 Rxg3+ 32. hxg3
+Qxg3+ 33. Kh1 Rg8 0-1
+

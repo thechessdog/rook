@@ -1,0 +1,20 @@
+[Event "Rostock"]
+[Site "Rostock"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Freyse, H."]
+[Black "Brenneisen, H."]
+[Result "1-0"]
+[ECO "B50"]
+[Opening "Sicilian"]
+[HashCode "d82e86ca"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. c3 dxc3 5. Nxc3 Nc6 6. Bc4 e6 7. O-O Nf6
+8. Qe2 Be7 9. Rd1 Bd7 10. Bf4 Qb8 11. Nb5 Ne5 12. Nxe5 dxe5 13. Bg5 a6 14.
+Bxf6 gxf6 15. Nc3 b5 16. Bb3 Qa7 17. Qh5 Bc5 18. Qh4 Ke7 19. Rd3 Rhg8 20.
+Rad1 Bc6 21. R1d2 Rg6 22. Nd5+ exd5 23. exd5 Bb7 24. d6+ Kf8 25. d7 Rd8 26.
+Qxh7 Bxf2+ 27. Kf1 Bxg2+ 28. Ke2 Rxd7 29. Qh8+ Rg8 30. Qh6+ Ke8 31. Rxd7
+Bf1+ 32. Kd1 Qxd7 33. Rxd7 Kxd7 34. Qxf6 Bc4 35. Bxc4 Rg1+ 36. Ke2 bxc4 37.
+Qxf7+ 1-0
+

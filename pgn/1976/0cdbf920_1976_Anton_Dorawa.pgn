@@ -1,0 +1,25 @@
+[Event "corr DDR-PZ"]
+[Site "corr DDR-PZ"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Anton, V."]
+[Black "Dorawa"]
+[Result "1-0"]
+[ECO "E56"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line with 7...Nc6"]
+[HashCode "0cdbf920"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 O-O 6. Nf3 d5 7. O-O Nc6 8.
+a3 dxc4 9. axb4 cxd4 10. Bxc4 dxc3 11. Qxd8 Rxd8 12. bxc3 Ne4 13. b5 Ne7
+14. Bb2 Bd7 15. Be2 Be8 16. Rfd1 Rxd1+ 17. Rxd1 Nd5 18. Rc1 Nb6 19. c4 Na4
+20. Ba3 f6 21. Nd4 Nec5 22. Bd1 Bd7 23. Ra1 e5 24. Nb3 Ne6 25. Bb4 Nb6 26.
+Be2 Nd8 27. Bc5 Rb8 28. Rxa7 Nc8 29. Ra1 b6 30. Rd1 Rb7 31. Bb4 Ne6 32. Bf3
+Rc7 33. Bd5 Kf7 34. c5 bxc5 35. Ba5 Ra7 36. b6 Rxa5 37. Nxa5 Nxb6 38. Ba2
+Ke7 39. Nb7 Bc8 40. Bxe6 Bxe6 41. Nxc5 Bf5 42. e4 Bg6 43. f3 Bf7 44. Rb1
+Nc4 45. Rb7+ Kf8 46. Nd7+ Ke8 47. Nb6 Na5 48. Rc7 Kf8 49. Nd5 Be8 50. Ne7
+Bg6 51. h4 Nb3 52. h5 Bxh5 53. Nf5 g5 54. Rxh7 Bg6 55. Rh8+ Kf7 56. Rb8
+Bxf5 57. Rxb3 Bc8 58. g4 Ba6 59. Kf2 Ke7 60. Ke1 Bc4 61. Rb2 Kd7 62. Kd2
+Bf1 63. Kc3 Ba6 64. Rb6 1-0
+

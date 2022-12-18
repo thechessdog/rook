@@ -1,0 +1,21 @@
+[Event "Netherlands"]
+[Site "Netherlands"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Ree, Hans"]
+[Black "Ligterink, Gert"]
+[Result "1-0"]
+[ECO "E42"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5, 5.Ne2 (Rubinstein)"]
+[HashCode "e9a66381"]
+[Epoch "Rook"]
+[WhiteID "1000098"]
+[WhiteCountry "NED"]
+[BlackID "1000179"]
+[BlackCountry "NED"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Ne2 cxd4 6. exd4 O-O 7. a3 Be7 8. d5
+exd5 9. cxd5 Re8 10. Be3 Ng4 11. Bd4 Bf6 12. h3 Ne5 13. Ne4 d6 14. N2c3 Ng6 15.
+Bxf6 Qxf6 16. Bb5 Bd7 17. O-O Qe5 18. Re1 a6 19. Bf1 Rd8 20. Qb3 b5 21. a4 Ra7
+22. axb5 Rb7 23. Nc5 1-0

@@ -1,0 +1,19 @@
+[Event "Aarhus"]
+[Site "Aarhus"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Sloth, Jorn"]
+[Black "Rosenlund, Thorbjorn"]
+[Result "1/2-1/2"]
+[ECO "A46"]
+[Opening "Queen's pawn game"]
+[HashCode "f1041ee9"]
+[Epoch "Rook"]
+[WhiteID "1400240"]
+[WhiteCountry "DEN"]
+[BlackID "1400614"]
+[BlackCountry "DEN"]
+
+1. d4 Nf6 2. Nf3 e6 3. g3 b6 4. Bg2 Bb7 5. O-O c5 6. c4 cxd4 7. Qxd4 Nc6 8. Qf4
+Qb8 9. Qxb8+ Rxb8 10. Nc3 Rc8 11. b3 Be7 12. Bb2 O-O 13. Rfd1 Rfd8 14. Rac1 Kf8
+15. Nd4 Na5 16. Ndb5 Bxg2 17. Kxg2 a6 1/2-1/2

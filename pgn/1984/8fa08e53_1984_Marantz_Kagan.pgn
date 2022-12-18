@@ -1,0 +1,28 @@
+[Event "Israel"]
+[Site "Israel"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Marantz, Michael"]
+[Black "Kagan, Shimon"]
+[Result "0-1"]
+[ECO "B31"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (with ...g6, without ...d6)"]
+[HashCode "8fa08e53"]
+[Epoch "Rook"]
+[WhiteID "2601125"]
+[WhiteCountry "CAN"]
+[BlackID "2800284"]
+[BlackCountry "ISR"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. c3 Nf6 6. Re1 O-O 7. d4 cxd4 8.
+cxd4 d5 9. e5 Ne4 10. Nc3 Nxc3 11. bxc3 Bg4 12. Bxc6 bxc6 13. Ba3 f6 14. e6 Qc7
+15. h3 Bxf3 16. Qxf3 f5 17. Rab1 Rab8 18. Bc5 Bf6 19. Qd3 Qa5 20. Qc2 Kg7 21.
+Rb3 Qa4 22. Qb2 Rb5 23. Rxb5 cxb5 24. Rb1 a6 25. Qe2 Qc4 26. Qxc4 dxc4 27. Bb4
+Rd8 28. g3 g5 29. g4 Kg6 30. Kg2 h5 31. f3 Rh8 32. a3 hxg4 33. hxg4 Ra8 34. Ba5
+Rc8 35. a4 Rc6 36. Bb4 Rc8 37. Kg3 Ra8 38. Ra1 Rh8 39. Ra2 Rh4 40. Ra1 fxg4 41.
+fxg4 bxa4 42. Rxa4 Rh1 43. Rxa6 Rb1 44. Ra4 Re1 45. Ba5 Rxe6 46. Rxc4 Re3+ 47.
+Kf2 Re4 48. Kf3 Rf4+ 49. Kg3 Be5 50. Rc6+ Rf6+ 51. dxe5 Rxc6 52. Bb4 Kf7 53. c4
+Rxc4 54. Bd2 Kg6 55. Kf3 e6 56. Be3 Rc8 57. Kf2 Rf8+ 58. Kg3 Rf7 59. Kg2 Rg7
+60. Kf3 Kf7 61. Ke4 Ke7 62. Bd2 Kd7 63. Ba5 Rg8 64. Bb4 Kc6 65. Be7 Kb5 66. Bf6
+Kc4 0-1

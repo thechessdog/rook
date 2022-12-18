@@ -1,0 +1,19 @@
+[Event "Rumania"]
+[Site "Rumania"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Urzica, Aurel"]
+[Black "Ungureanu, Emil"]
+[Result "1-0"]
+[ECO "B96"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Polugayevsky, Simagin variation"]
+[HashCode "07587924"]
+[Epoch "Rook"]
+[WhiteID "1200267"]
+[WhiteCountry "ROU"]
+[BlackCountry "ROU"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 b5 8. e5
+dxe5 9. fxe5 Qc7 10. Qe2 Nfd7 11. O-O-O Bb7 12. Qg4 h6 13. Nxe6 Qxe5 14. Nc7+
+Qxc7 15. Qe2+ 1-0

@@ -1,0 +1,27 @@
+[Event "Novi Sad"]
+[Site "Novi Sad"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Bojkovic, Slobodan"]
+[Black "Rajkovic, Dusan"]
+[Result "1-0"]
+[ECO "B42"]
+[Opening "Sicilian"]
+[Variation "Kan, Swiss cheese variation"]
+[HashCode "490ed5e3"]
+[Epoch "Rook"]
+[BlackID "900265"]
+[BlackCountry "SRB"]
+[WhiteID "902829"]
+[WhiteCountry "SRB"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 g6 6. O-O Bg7 7. Be3 d6 8. c4
+Nf6 9. Nc3 O-O 10. f3 b6 11. Qd2 Qc7 12. Rac1 Bb7 13. Rfd1 Nbd7 14. Bf1 Rfd8
+15. Qf2 Rac8 16. b4 Qb8 17. a3 Re8 18. Nb3 d5 19. exd5 exd5 20. Nxd5 Nxd5 21.
+cxd5 Rxc1 22. Nxc1 Qd6 23. Bc4 Be5 24. g3 Rc8 25. Bb3 a5 26. Na2 h5 27. Kg2 Qf6
+28. Qd2 h4 29. Bg5 h3+ 30. Kf2 Qf5 31. g4 Bd4+ 32. Kg3 Be5+ 33. f4 Qxg5 34.
+fxe5 Qxe5+ 35. Kxh3 Kg7 36. Kg2 Nf6 37. g5 Nxd5 38. Bxd5 Bxd5+ 39. Qxd5 Rc2+
+40. Kf3 Qe2+ 41. Kf4 Qxh2+ 42. Ke4 Qg2+ 43. Kd4 Qf2+ 44. Ke5 Rxa2 45. Kd6 Qf4+
+46. Kc6 Rxa3 47. b5 Rg3 48. Qd4+ Qxd4 49. Rxd4 Rxg5 50. Kxb6 Re5 51. Kc6 Re1
+52. b6 Rb1 53. b7 f5 54. Rd5 Rxb7 55. Kxb7 Kf6 56. Kc6 Kg5 57. Rxa5 Kf4 58. Kd5
+g5 59. Ra4+ Kf3 60. Ke5 f4 61. Ra3+ Kg2 62. Ke4 Kf2 63. Kf5 1-0

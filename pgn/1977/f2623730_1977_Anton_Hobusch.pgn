@@ -1,0 +1,20 @@
+[Event "corr DDR-FSM"]
+[Site "corr DDR-FSM"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Anton, V."]
+[Black "Hobusch, W."]
+[Result "0-1"]
+[ECO "E44"]
+[Opening "Nimzo-Indian"]
+[Variation "Fischer variation, 5.Ne2"]
+[HashCode "f2623730"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 b6 5. Ne2 Ne4 6. Qc2 f5 7. a3 Bxc3+ 8.
+Nxc3 Bb7 9. d5 Nxc3 10. Qxc3 Qe7 11. b4 a5 12. b5 O-O 13. Bb2 exd5 14. cxd5
+d6 15. O-O-O Nd7 16. Rd4 Ne5 17. h3 Rae8 18. Be2 Qf7 19. Rhd1 Re7 20. R1d2
+Qg6 21. Bd1 Nd7 22. g4 fxg4 23. hxg4 Nc5 24. Bc2 Qg5 25. Kb1 Bc8 26. Qc4
+Qh4 27. Ka2 Rf3 28. Bd1 Rxf2 29. g5 Qg3 30. Rxf2 Qxf2 31. Rf4 Qg1 32. Bc2
+Qxg5 33. Bc1 h6 34. e4 Qg2 35. Bb2 Bg4 36. e5 Be2 0-1
+

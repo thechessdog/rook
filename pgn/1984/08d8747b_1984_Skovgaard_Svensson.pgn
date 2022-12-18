@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Skovgaard"]
+[Black "Svensson, Gert"]
+[Result "1/2-1/2"]
+[ECO "B70"]
+[Opening "Sicilian"]
+[Variation "dragon variation"]
+[HashCode "08d8747b"]
+[Epoch "Rook"]
+[BlackID "1701533"]
+[BlackCountry "SWE"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Bc4 Bg7 7. h3 O-O 8. O-O
+Nc6 9. Be3 Bd7 10. Bb3 Qa5 11. f4 Nxd4 12. Bxd4 Bc6 13. Nd5 Rae8 14. Qe1 Qxe1
+15. Raxe1 Nd7 16. Bxg7 Kxg7 17. Re3 Nc5 18. Rd1 Nxb3 1/2-1/2

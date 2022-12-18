@@ -1,0 +1,19 @@
+[Event "Reggio Emilia8081"]
+[Site "Reggio Emilia"]
+[Date "1980.01.01"]
+[Round "3"]
+[White "Braunberger, Federico"]
+[Black "Wagman, Stuart"]
+[Result "1/2-1/2"]
+[ECO "E15"]
+[Opening "Queen's Indian"]
+[Variation "Nimzovich variation (exaggerated fianchetto)"]
+[HashCode "114badb0"]
+[Epoch "Rook"]
+[WhiteID "804606"]
+[WhiteCountry "ITA"]
+[BlackCountry "USA"]
+
+1. d4 Nf6 2. Nf3 b6 3. c4 e6 4. g3 Ba6 5. b3 d5 6. Bg2 Bb4+ 7. Bd2 Be7 8. O-O
+c6 9. Ne5 O-O 10. Bc3 Bb7 11. Nd2 c5 12. e3 Nbd7 13. Nxd7 Qxd7 14. cxd5 Nxd5
+15. Bb2 cxd4 1/2-1/2

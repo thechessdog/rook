@@ -1,0 +1,24 @@
+[Event "Sweden"]
+[Site "Sweden"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Hammar, Bengt"]
+[Black "Lind, Jan Olov"]
+[Result "1-0"]
+[ECO "C78"]
+[Opening "Ruy Lopez"]
+[Variation "Archangelsk (counterthrust) variation"]
+[HashCode "6cacf860"]
+[Epoch "Rook"]
+[WhiteID "1700391"]
+[WhiteCountry "SWE"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Bb7 7. c3 Nxe4 8. d4
+d5 9. dxe5 Na5 10. Bc2 Be7 11. Nbd2 Nxd2 12. Qxd2 O-O 13. Qd3 g6 14. Bh6 Re8
+15. Qd4 c5 16. Qf4 d4 17. Rad1 Qc7 18. cxd4 Bxf3 19. Qxf3 cxd4 20. Be4 Rad8 21.
+b3 Qxe5 22. Bf4 Qe6 23. Bc7 Bb4 24. Bxd8 Qxe4 25. Qxe4 Rxe4 26. a3 Nc6 27. axb4
+Nxd8 28. f3 Re3 29. Rxd4 Nc6 30. Re4 Rxb3 31. Rc1 Nxb4 32. Rc7 a5 33. Re8+ Kg7
+34. Ree7 Kf6 35. Rxf7+ Ke5 36. Rfe7+ Kd4 37. Re4+ Kd5 38. Rxh7 a4 39. Rd7+ Kc6
+40. Rg7 Nd3 41. Rxg6+ Kc5 42. h4 a3 43. Ra6 Nb4 44. Ra5 Nc6 45. Ra8 b4 46. h5
+Rd3 47. Re1 Rd7 48. g4 Nd4 49. Rc1+ Kb6 50. Rb1 Nc2 51. h6 Rh7 52. g5 Kb5 53.
+Kf2 Kc4 54. Rc8+ Kd3 55. Rd1# 1-0

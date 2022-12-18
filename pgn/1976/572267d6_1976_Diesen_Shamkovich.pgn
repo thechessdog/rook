@@ -1,0 +1,22 @@
+[Event "New York"]
+[Site "New York"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Diesen, Mark Carl"]
+[Black "Shamkovich, Leonid"]
+[Result "1-0"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical system, 5.Be2"]
+[HashCode "572267d6"]
+[Epoch "Rook"]
+[BlackCountry "RUS"]
+[WhiteCountry "USA"]
+
+1. e4 g6 2. d4 Bg7 3. Nf3 d6 4. Nc3 Nf6 5. Be2 O-O 6. O-O c6 7. Re1 Qc7 8. e5
+dxe5 9. Nxe5 Rd8 10. Bc4 Nd5 11. Qf3 e6 12. Ne4 Rf8 13. Bxd5 cxd5 14. Nf6+ Bxf6
+15. Qxf6 Qd8 16. Ng4 Qxf6 17. Nxf6+ Kh8 18. Bh6 Rd8 19. Re3 Nd7 20. Bg5 Rf8 21.
+Bh6 Rd8 22. Bg5 Rf8 23. Rc3 Nxf6 24. Bxf6+ Kg8 25. Rc7 b6 26. a4 Ba6 27. Ra3
+Rfc8 28. Rac3 Rxc7 29. Rxc7 Rc8 30. Rxa7 Rxc2 31. h4 Bc8 32. b4 Kf8 33. Bd8 e5
+34. Bxb6 exd4 35. Bxd4 Rc1+ 36. Kh2 Rc4 37. Bc5+ Kg7 38. Rc7 Be6 39. a5 d4 40.
+a6 d3 41. Rc6 Rxh4+ 42. Kg1 Rh5 43. Bd4+ f6 44. Rxe6 Rd5 45. Be3 1-0

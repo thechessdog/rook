@@ -1,0 +1,22 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Behling, Robert"]
+[Black "Derikum, Axel"]
+[Result "1/2-1/2"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...g6"]
+[HashCode "324c98f8"]
+[Epoch "Rook"]
+[WhiteID "4603630"]
+[BlackID "4602242"]
+[WhiteCountry "GER"]
+[BlackCountry "GER"]
+
+1. c4 c6 2. e4 d5 3. exd5 cxd5 4. d4 Nf6 5. Nc3 g6 6. Qb3 Bg7 7. cxd5 O-O 8.
+Be2 Nbd7 9. Bf3 Nb6 10. Nge2 a5 11. a4 Qd6 12. Nb5 Qb4+ 13. Qxb4 axb4 14. d6
+exd6 15. Nxd6 Rxa4 16. Rxa4 Nxa4 17. O-O Be6 18. Nf4 Rd8 19. Nxb7 Rxd4 20. Nxe6
+fxe6 21. Bc6 b3 22. Be3 Rb4 23. Bd2 Rb6 24. Bxa4 Rxb7 25. Bc3 Nd5 26. Bxg7 Kxg7
+27. Ra1 Nf4 28. Kf1 Nd3 29. Ra3 1/2-1/2

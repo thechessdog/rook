@@ -1,0 +1,21 @@
+[Event "Phoenix"]
+[Site "Phoenix"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Brown, T."]
+[Black "Forgan"]
+[Result "1-0"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra gambit"]
+[HashCode "3922f3a6"]
+[Epoch "Rook"]
+
+1. e4 c5 2. d4 cxd4 3. c3 e6 4. cxd4 Nf6 5. Nc3 a6 6. e5 Nd5 7. Nxd5 exd5
+8. f4 Nc6 9. Nf3 Bb4+ 10. Kf2 d6 11. a3 Ba5 12. Bd3 Bg4 13. Be3 O-O 14.
+exd6 Bxf3 15. Qxf3 Qxd6 16. Rad1 f5 17. Bc2 Ne7 18. Bd2 Bxd2 19. Rxd2 Rac8
+20. Re1 Rc7 21. Bb3 Kh8 22. Rde2 g6 23. Re6 Qd8 24. g3 Kg7 25. R6e5 Rd7 26.
+h4 h5 27. Rc1 Rf6 28. Rc5 Rfd6 29. Qe3 Kf6 30. Qc3 b6 31. Ba4 bxc5 32. dxc5
+Rc7 33. Rxd5+ Kf7 34. Rxd6 Qxd6 35. cxd6 Rxc3 36. dxe7 Rc8 37. e8=Q+ Rxe8
+38. Bxe8+ Kxe8 39. Ke3 1-0
+

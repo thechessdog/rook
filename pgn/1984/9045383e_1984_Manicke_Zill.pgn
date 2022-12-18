@@ -1,0 +1,20 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Manicke"]
+[Black "Zill"]
+[Result "0-1"]
+[ECO "C07"]
+[Opening "French"]
+[Variation "Tarrasch, open variation"]
+[HashCode "9045383e"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. Ngf3 Nc6 5. Bb5 a6 6. exd5 axb5 7. dxc6 bxc6
+8. dxc5 Bxc5 9. O-O Qc7 10. Qe2 Nf6 11. c4 O-O 12. b3 bxc4 13. Nxc4 Nd5 14.
+Bb2 f6 15. Rfc1 Ba7 16. Ncd2 e5 17. Qc4 Qb6 18. Ne4 Bf5 19. Nfd2 Rfd8 20.
+Qxc6 Nb4 21. Qxb6 Bxb6 22. Nc4 Rxa2 23. Nxb6 Bxe4 24. Rxa2 Nxa2 25. Rc8
+Rxc8 26. Nxc8 Bc2 27. Nd6 Bxb3 28. g3 Nb4 29. Kf1 g5 30. f4 Nd3 31. Ba1
+gxf4 32. gxf4 Nxf4 33. Kf2 Kg7 34. Kf3 Kg6 0-1
+

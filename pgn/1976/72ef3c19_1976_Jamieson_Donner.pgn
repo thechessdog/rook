@@ -1,0 +1,17 @@
+[Event "Haifa olm"]
+[Site "Haifa olm"]
+[Date "1976.10.01"]
+[Round "1"]
+[White "Jamieson, Robert Murray"]
+[Black "Donner, Jan Hein"]
+[Result "0-1"]
+[ECO "C00"]
+[Opening "French"]
+[Variation "Two knights variation"]
+[HashCode "72ef3c19"]
+[Epoch "Rook"]
+[BlackCountry "NLD"]
+
+1. e4 e6 2. Nc3 d5 3. Nf3 Nf6 4. e5 Nfd7 5. d4 c5 6. dxc5 Nc6 7. Bf4 Be7 8. Bb5
+Nxc5 9. O-O a6 10. Bxc6+ bxc6 11. Nd4 Bb7 12. Qg4 g5 13. Bd2 h5 14. Qg3 Nd7 15.
+f4 Qb6 0-1

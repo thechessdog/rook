@@ -1,0 +1,17 @@
+[Event "corr CCLA"]
+[Site "corr CCLA"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Fargher"]
+[Black "Ivkov, Borislav"]
+[Result "1-0"]
+[ECO "C62"]
+[Opening "Ruy Lopez"]
+[Variation "old Steinitz defence"]
+[HashCode "4f282da4"]
+[Epoch "Rook"]
+[BlackID "900141"]
+[BlackCountry "SRB"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 d6 4. d4 Bd7 5. d5 Na5 6. Bd3 b5 7. b3 c6 8. c4 Qb6
+9. Be3 c5 1-0

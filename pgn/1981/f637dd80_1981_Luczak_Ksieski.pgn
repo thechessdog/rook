@@ -1,0 +1,21 @@
+[Event "Lublin"]
+[Site "Lublin"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Luczak, Andrzej"]
+[Black "Ksieski, Zbigniew"]
+[Result "1/2-1/2"]
+[ECO "E95"]
+[Opening "King's Indian"]
+[Variation "orthodox, 7...Nbd7, 8.Re1"]
+[HashCode "f637dd80"]
+[Epoch "Rook"]
+[BlackID "1100564"]
+[BlackCountry "POL"]
+[WhiteID "1100700"]
+[WhiteCountry "POL"]
+
+1. c4 Nf6 2. Nc3 d6 3. d4 Nbd7 4. e4 e5 5. Nf3 g6 6. Be2 Bg7 7. O-O O-O 8. Re1
+c6 9. Bf1 exd4 10. Nxd4 Ng4 11. h3 Qb6 12. hxg4 Bxd4 13. Be3 Bxe3 14. Rxe3 Qc5
+15. Be2 Nf6 16. g5 Ne8 17. Rg3 f6 18. gxf6 Rxf6 19. Re3 Qe5 20. Qd2 Be6 21. g3
+g5 22. Bf1 Ng7 23. Nd5 Rh6 24. Rc1 Rf8 25. Bg2 Bc8 26. Nb4 Rhf6 27. a3 1/2-1/2

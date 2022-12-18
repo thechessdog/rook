@@ -1,0 +1,17 @@
+[Event "Berkeley"]
+[Site "Berkeley"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Padovani, M."]
+[Black "Paetz, M."]
+[Result "1-0"]
+[ECO "C00"]
+[Opening "French"]
+[Variation "Wing gambit"]
+[HashCode "815340c3"]
+[Epoch "Rook"]
+
+1. e4 e6 2. Nf3 d5 3. e5 c5 4. b4 cxb4 5. a3 Nc6 6. axb4 Bxb4 7. c3 Ba5 8.
+d4 Qc7 9. Bd3 Nxd4 10. Nxd4 Bxc3+ 11. Bd2 Qxe5+ 12. Ne2 Bxa1 13. Bb5+ Bd7
+14. Bxd7+ Kxd7 15. Qa4+ Ke7 16. Qa3+ Kf6 17. f4 Qe4 18. Qxa1+ Kg6 1-0
+

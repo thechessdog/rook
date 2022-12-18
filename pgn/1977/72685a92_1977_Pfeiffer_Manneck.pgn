@@ -1,0 +1,19 @@
+[Event "corr FSM"]
+[Site "corr FSM"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Pfeiffer, A."]
+[Black "Manneck"]
+[Result "0-1"]
+[ECO "A06"]
+[Opening "Santasiere's folly"]
+[HashCode "72685a92"]
+[Epoch "Rook"]
+
+1. Nf3 d5 2. b4 Nf6 3. Bb2 e6 4. a3 Be7 5. e3 O-O 6. d4 Nbd7 7. Nbd2 c6 8.
+c4 Qc7 9. c5 b6 10. Bd3 bxc5 11. dxc5 e5 12. Be2 Re8 13. Nb3 e4 14. Nfd4
+Ne5 15. h3 Bd7 16. Qc2 Qc8 17. Na5 Bd8 18. Ndb3 Rb8 19. Bc3 h5 20. O-O-O
+Nd3+ 21. Bxd3 exd3 22. Qxd3 Ne4 23. Qc2 Bxa5 24. Nxa5 Bf5 25. Qb2 Nxc5 26.
+Bxg7 Re6 27. Bd4 Na4 28. Qe2 c5 29. Ba1 cxb4+ 30. Kd2 Nc3 31. Qxh5 Qa6 32.
+Qxf5 Qe2+ 0-1
+

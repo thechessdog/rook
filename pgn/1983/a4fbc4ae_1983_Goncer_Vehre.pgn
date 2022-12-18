@@ -1,0 +1,19 @@
+[Event "USA"]
+[Site "USA"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Goncer, Behcet"]
+[Black "Vehre, John"]
+[Result "0-1"]
+[ECO "A76"]
+[Opening "Benoni"]
+[Variation "classical, 9...Re8"]
+[HashCode "a4fbc4ae"]
+[Epoch "Rook"]
+[BlackCountry "USA"]
+
+1. d4 c5 2. d5 Nf6 3. c4 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. Nf3 Bg7 8. Be2
+O-O 9. O-O Re8 10. Qc2 Na6 11. Bg5 h6 12. Be3 Nc7 13. Nd2 Rb8 14. a4 b6 15. f3
+Ncxd5 16. Nxd5 Nxd5 17. Bf2 Nb4 18. Qb1 d5 19. Bg3 Rb7 20. Bb5 Bd7 21. Bxd7
+Rxd7 22. exd5 Rxd5 23. Nc4 Rd3 24. Ra3 Rxa3 25. Nxa3 Qd4+ 26. Rf2 Nd3 27. Nb5
+Qe3 28. Nd6 Re6 29. Ne4 Bd4 30. Kf1 Rxe4 0-1

@@ -1,0 +1,22 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Lanka, Zigurds"]
+[Black "Yusupov, A."]
+[Result "0-1"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "classical attack"]
+[HashCode "3912e3ee"]
+[Epoch "Rook"]
+[BlackCountry "RUS"]
+[WhiteID "11600047"]
+[WhiteCountry "LAT"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Be7 7. h3 O-O 8. O-O
+Bf5 9. c4 dxc4 10. Bxc4 Nd7 11. Nc3 Nb6 12. Bb3 Bb4 13. Nxe4 Bxe4 14. Ng5 Bg6
+15. f4 Be7 16. Nf3 Be4 17. Ne5 Bd5 18. Bc2 f5 19. b3 Nc8 20. Kh2 g6 21. Qe2 Nd6
+22. Ba3 Ne4 23. Bxe7 Qxe7 24. Bxe4 Bxe4 25. Qc4+ Kg7 26. d5 Rfd8 27. Rad1 Rac8
+28. Rd4 h6 29. Rfd1 Qf6 30. Qc5 g5 31. Qc1 Kh7 32. g3 Re8 33. Qe3 gxf4 34. gxf4
+Rg8 35. R1d2 Rg7 36. d6 cxd6 37. Ng4 Qh4 38. Rxe4 fxe4 39. Qxe4+ Kh8 0-1

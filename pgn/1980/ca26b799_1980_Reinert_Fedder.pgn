@@ -1,0 +1,24 @@
+[Event "Hillerod"]
+[Site "Hillerod"]
+[Date "1980.01.01"]
+[Round "3"]
+[White "Reinert, Mads"]
+[Black "Fedder, Steen"]
+[Result "0-1"]
+[ECO "B82"]
+[Opening "Sicilian"]
+[Variation "Scheveningen, 6.f4"]
+[HashCode "ca26b799"]
+[Epoch "Rook"]
+[WhiteID "1400487"]
+[WhiteCountry "DEN"]
+[BlackID "1400126"]
+[BlackCountry "DEN"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. f4 a6 7. Bd3 b5 8. e5
+dxe5 9. fxe5 Nd5 10. Qg4 Nb4 11. Ne4 Qd5 12. Nf3 Nxd3+ 13. cxd3 Qxd3 14. Bg5
+Bb7 15. Rd1 Bb4+ 16. Kf2 Qc2+ 17. Kg3 Nd7 18. Rd4 Bxe4 19. Rc1 Nxe5 20. Qf4 Ng6
+21. Qe3 Qxb2 22. Qxe4 O-O 23. Rc2 Qa3 24. Rxb4 Rac8 25. Rbb2 h6 26. Bd2 Rc4 27.
+Rxc4 Qxb2 28. Rc2 Qb1 29. Bb4 Rd8 30. Re2 Qc1 31. Rc2 Qf1 32. Qe1 Qxe1+ 33.
+Bxe1 e5 34. Rc6 e4 35. Nd2 Rd3+ 36. Kf2 e3+ 37. Ke2 Nf4+ 38. Kd1 Nxg2 39. Rxa6
+Nxe1 40. Kxe1 0-1

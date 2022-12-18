@@ -1,0 +1,15 @@
+[Event "Dayton,OH"]
+[Site "Dayton,OH"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Johnson, A."]
+[Black "Wall, Bill"]
+[Result "0-1"]
+[ECO "A43"]
+[Opening "Old Benoni defence"]
+[HashCode "6f933e7a"]
+[Epoch "Rook"]
+[BlackCountry "USA"]
+
+1. d4 c5 2. dxc5 Na6 3. Be3 Qa5+ 4. c3 e5 5. b4 Nxb4 6. cxb4 Qxb4+ 7. Nd2 Bxc5
+8. Bxc5 Qxc5 9. Ne4 Qb4+ 10. Qd2 Qxe4 0-1

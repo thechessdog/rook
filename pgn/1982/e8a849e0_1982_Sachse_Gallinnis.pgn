@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Sachse, T."]
+[Black "Gallinnis, N."]
+[Result "0-1"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Byrne (English) attack"]
+[HashCode "e8a849e0"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e5 7. Nf3 Be7 8.
+Be2 O-O 9. O-O Nbd7 10. Qd3 Qc7 11. Qc4 Qxc4 12. Bxc4 b6 13. Rfe1 Bb7 14.
+Bg5 Rac8 15. Bd3 Rfd8 16. b4 Rxc3 0-1
+

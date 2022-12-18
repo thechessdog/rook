@@ -1,0 +1,18 @@
+[Event "Akron,OH"]
+[Site "Akron,OH"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Panzel, Kenneth"]
+[Black "Seward, Steve C"]
+[Result "1-0"]
+[ECO "B77"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, 9.Bc4"]
+[HashCode "37acc8cb"]
+[Epoch "Rook"]
+[WhiteCountry "HUN"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. f3 Bg7 7. Be3 O-O 8. Qd2
+Nc6 9. Bc4 Nxd4 10. Bxd4 Be6 11. Bxe6 fxe6 12. h4 h5 13. O-O-O Qa5 14. Kb1 Rac8
+15. Rdg1 d5 16. Qg5 Kh7 17. g4 Nxe4 18. Nxe4 Bxd4 19. gxh5 Qb6 20. Qxg6+ Kh8
+21. Qh6# 1-0

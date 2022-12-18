@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Vos, T."]
+[Black "Van Rooyen, P."]
+[Result "1-0"]
+[ECO "C17"]
+[Opening "French"]
+[Variation "Winawer, advance, Rauzer variation"]
+[HashCode "0c1f6ad2"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 cxd4 6. axb4 dxc3 7. Nf3 cxb2
+8. Bxb2 Ne7 9. Bd3 Nbc6 10. Qd2 Ng6 11. b5 Nce7 12. O-O Bd7 13. h4 Nf5 14.
+Bxf5 exf5 15. Qxd5 Qb6 16. Nd4 Rd8 17. Qb3 Nxh4 18. Qg3 Bxb5 19. Qxg7 Ng6
+20. Rfd1 Be2 21. Nxe2 Rxd1+ 22. Rxd1 Qxb2 23. Qf6 O-O 24. Nd4 f4 25. Nf5 h5
+26. Qg7# 1-0
+

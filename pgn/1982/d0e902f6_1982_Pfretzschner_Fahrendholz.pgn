@@ -1,0 +1,20 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Pfretzschner"]
+[Black "Fahrendholz"]
+[Result "0-1"]
+[ECO "C68"]
+[Opening "Ruy Lopez"]
+[Variation "exchange, Keres variation"]
+[HashCode "d0e902f6"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. Nc3 f6 6. d4 exd4 7. Qxd4
+Qxd4 8. Nxd4 Bd7 9. Be3 O-O-O 10. O-O-O Ne7 11. Rhe1 Ng6 12. f4 Bd6 13. Rf1
+Rhe8 14. Rde1 b6 15. a3 Kb7 16. Bd2 c5 17. Nde2 b5 18. Ng3 b4 19. Nd1 Bb5
+20. Rf3 Nh4 21. Rf2 Ng6 22. Nf5 Bf8 23. g4 a5 24. h4 Ne7 25. Nxe7 Bxe7 26.
+g5 c4 27. e5 bxa3 28. Kb1 Bc5 29. Rh2 fxe5 30. fxe5 a4 31. bxa3 Bxa3 32. c3
+Bc5 33. Bc1 Rd3 0-1
+

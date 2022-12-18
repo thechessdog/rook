@@ -1,0 +1,19 @@
+[Event "LIICL"]
+[Site "LIICL"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Bortzner, Christian"]
+[Black "Rizzo, Robert"]
+[Result "0-1"]
+[ECO "C15"]
+[Opening "French"]
+[Variation "Winawer (Nimzovich) variation"]
+[HashCode "ee9e8526"]
+[Epoch "Rook"]
+
+1. d4 d5 2. e4 e6 3. Nc3 Bb4 4. a3 Bxc3+ 5. bxc3 dxe4 6. f3 exf3 7. Nxf3
+Nf6 8. Bg5 O-O 9. Bd3 Nbd7 10. O-O h6 11. Bh4 Qe8 12. Ne5 Nd5 13. Ng4 f5
+14. c4 N5f6 15. Ne3 Qh5 16. Qe1 g5 17. Bg3 f4 18. Bxf4 gxf4 19. Rxf4 Kh8
+20. Rh4 Qg5 21. d5 exd5 22. Nxd5 Nxd5 23. cxd5 Nf6 24. Qe7 Bf5 25. Rf1 Qxh4
+26. Rxf5 Rae8 27. Qxc7 Re1+ 28. Bf1 Qd4+ 29. Rf2 Ng4 0-1
+

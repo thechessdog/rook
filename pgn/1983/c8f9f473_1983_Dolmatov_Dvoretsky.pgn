@@ -1,0 +1,20 @@
+[Event "Frunze"]
+[Site "Frunze"]
+[Date "1983.01.01"]
+[Round "?"]
+[White "Dolmatov, Sergey"]
+[Black "Dvoretsky, Mark Izrailovich"]
+[Result "1/2-1/2"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "Nimzovich attack"]
+[HashCode "c8f9f473"]
+[Epoch "Rook"]
+[WhiteID "4100093"]
+[WhiteCountry "RUS"]
+[BlackCountry "RUS"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. Nc3 Nxc3 6. dxc3 Be7 7. Bf4 O-O
+8. Qd2 Nd7 9. O-O-O Nc5 10. Nd4 Re8 11. f3 Ne6 12. Be3 Bg5 13. Nxe6 Bxe3 14.
+Nxd8 Bxd2+ 15. Kxd2 Rxd8 16. Bd3 Bd7 17. Rhe1 Re8 18. Rxe8+ Rxe8 19. Re1 Rxe1
+20. Kxe1 1/2-1/2

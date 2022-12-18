@@ -1,0 +1,20 @@
+[Event "Ufa"]
+[Site "Ufa"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Hlusevich, Sergey"]
+[Black "Zilberstein, David"]
+[Result "0-1"]
+[ECO "D94"]
+[Opening "Gruenfeld"]
+[Variation "Makogonov variation"]
+[HashCode "307d9cac"]
+[Epoch "Rook"]
+[WhiteID "4104510"]
+[BlackID "800317"]
+[WhiteCountry "RUS"]
+[BlackCountry "ITA"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. e3 O-O 6. b4 b6 7. Bb2 c5 8. bxc5
+bxc5 9. Rc1 cxd4 10. Nxd4 Ba6 11. Qa4 e5 12. Nc6 Nxc6 13. Qxa6 Nb4 14. Qa4 d4
+15. Qxb4 dxc3 16. Bxc3 Ne4 17. c5 Nxc3 18. Qxc3 e4 19. Qb4 Rb8 20. Qxe4 Rb2 0-1

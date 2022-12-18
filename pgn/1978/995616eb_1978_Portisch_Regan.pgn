@@ -1,0 +1,22 @@
+[Event "Tungsram"]
+[Site "Budapest"]
+[Date "1978.08.01"]
+[Round "1"]
+[White "Portisch, Ferenc"]
+[Black "Regan, Kenneth"]
+[Result "1-0"]
+[ECO "E47"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 O-O, 5.Bd3"]
+[HashCode "995616eb"]
+[Epoch "Rook"]
+[WhiteID "700487"]
+[WhiteCountry "HUN"]
+[BlackID "2000725"]
+[BlackCountry "USA"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 Nc6 6. Nf3 Re8 7. Ne5 d6 8. Nxc6
+bxc6 9. Bd2 e5 10. O-O Bg4 11. f3 Bxc3 12. Bxc3 e4 13. fxg4 exd3 14. Qxd3 Nxg4
+15. Qf5 Nh6 16. Qf4 d5 17. cxd5 cxd5 18. Ba5 Qb8 19. Bxc7 Qxb2 20. Be5 Re6 21.
+Qf3 Qb7 22. Rab1 Qd7 23. e4 Ra6 24. exd5 Rxa2 25. d6 Rd8 26. Qd5 Ra6 27. Rb7
+Qc6 28. Rbxf7 Qxd5 29. Rxg7+ Kh8 30. Rd7+ 1-0

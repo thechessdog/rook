@@ -1,0 +1,17 @@
+[Event "Hickory,NC"]
+[Site "Hickory,NC"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Gantt, Robert"]
+[Black "Wall, Bill"]
+[Result "0-1"]
+[ECO "B10"]
+[Opening "Caro-Kann"]
+[Variation "two knights variation"]
+[HashCode "db332b25"]
+[Epoch "Rook"]
+[BlackCountry "USA"]
+
+1. e4 c6 2. Nf3 d5 3. Nc3 d4 4. Ne2 c5 5. g3 Nc6 6. Bg2 e5 7. O-O Nf6 8. d3 h6
+9. c3 Be7 10. Qb3 O-O 11. Nh4 Bg4 12. f3 Na5 13. Qc2 Be6 14. Nf5 c4 15. Nxe7+
+Qxe7 16. a4 cxd3 17. Qxd3 Bc4 18. Qd2 Nb3 19. Qc2 Nxa1 0-1

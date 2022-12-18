@@ -1,0 +1,23 @@
+[Event "Novi Sad"]
+[Site "Novi Sad"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Velimirovic, Dragoljub"]
+[Black "Smejkal, Jan"]
+[Result "0-1"]
+[ECO "C88"]
+[Opening "Ruy Lopez"]
+[Variation "closed"]
+[HashCode "67e5dea8"]
+[Epoch "Rook"]
+[BlackID "300020"]
+[WhiteCountry "SRB"]
+[BlackCountry "CZE"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. Nc3
+Bg4 9. Nd5 Nd4 10. c3 Bxf3 11. gxf3 Nxb3 12. Nxf6+ Bxf6 13. axb3 O-O 14. d4
+exd4 15. cxd4 c5 16. Be3 cxd4 17. Bxd4 Re8 18. Kh1 Be5 19. Bxe5 dxe5 20. Rg1
+Qf6 21. Qe2 Red8 22. Rgd1 Rxd1+ 23. Rxd1 Rc8 24. Qe3 h6 25. Qd3 Kh7 26. Kg2
+Qg5+ 27. Kh1 Rc6 28. Rg1 Qf6 29. Rd1 Qh4 30. Qd2 Rf6 31. Kg2 Rg6+ 32. Kf1 Qxh2
+33. Ke2 h5 34. Qd7 Rf6 35. Rd6 Qf4 36. Rd3 h4 37. Qc8 Kg6 38. Kf1 Qg5 39. b4
+Qh5 40. Kg2 Kh7 41. Qh3 Qg5+ 42. Qg4 Qc1 0-1

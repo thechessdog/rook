@@ -1,0 +1,25 @@
+[Event "USA"]
+[Site "USA"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Tarjan, James"]
+[Black "Christiansen, Larry"]
+[Result "0-1"]
+[ECO "B19"]
+[Opening "Caro-Kann"]
+[Variation "classical, Spassky variation"]
+[HashCode "720d83c0"]
+[Epoch "Rook"]
+[WhiteID "2000180"]
+[BlackID "2000059"]
+[WhiteCountry "USA"]
+[BlackCountry "USA"]
+
+1. e4 c6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6 7. Nf3 Nd7 8. h5
+Bh7 9. Bd3 Bxd3 10. Qxd3 Ngf6 11. Bd2 Qc7 12. O-O-O e6 13. Ne4 Be7 14. Kb1 O-O
+15. Nxf6+ Nxf6 16. Rdg1 Ng4 17. Qe2 Rad8 18. Ne5 Nxe5 19. dxe5 f6 20. exf6 Bxf6
+21. Bc1 Qe5 22. Re1 Qxe2 23. Rxe2 e5 24. c3 b5 25. Kc2 Rd5 26. Be3 a5 27. a4
+Rb8 28. Rd2 bxa4 29. Ra1 Rdb5 30. Ra2 a3 31. bxa3 a4 32. Rd6 Rc8 33. Rb2 Rd5
+34. Rxd5 cxd5 35. Rb4 Rc4 36. Rxc4 dxc4 37. f3 Be7 38. Bc1 Kf7 39. Kd1 Ke6 40.
+Ke2 Kd5 41. g3 Bc5 42. g4 Be7 43. Kf2 Bh4+ 44. Ke2 Bf6 45. Kd2 Bg5+ 46. Kd1
+Bxc1 47. Kxc1 e4 48. Kd2 exf3 49. Ke3 f2 50. Kxf2 Ke4 0-1

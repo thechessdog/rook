@@ -1,0 +1,17 @@
+[Event "Holbak"]
+[Site "Holbak"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Wedervang, Kim"]
+[Black "Jorgensen, Jan"]
+[Result "0-1"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "modern variation"]
+[HashCode "bf0fe145"]
+[Epoch "Rook"]
+[WhiteID "1424521"]
+[WhiteCountry "DEN"]
+
+1. b3 e5 2. Bb2 d6 3. e3 Nc6 4. Bb5 Bd7 5. Ne2 a6 6. Bxc6 Bxc6 7. O-O Qg5 8.
+Ng3 Nf6 9. f4 Qh4 10. fxe5 Ng4 11. Rf2 Qxh2+ 12. Kf1 Nxf2 13. e4 Nxd1 0-1

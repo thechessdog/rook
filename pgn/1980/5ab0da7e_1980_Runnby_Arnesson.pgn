@@ -1,0 +1,22 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Runnby"]
+[Black "Arnesson"]
+[Result "0-1"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical system, 5.Be2"]
+[HashCode "5ab0da7e"]
+[Epoch "Rook"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Nf3 Bg7 5. Be2 O-O 6. O-O c6 7. a4 Qc7 8.
+a5 Nbd7 9. Re1 e5 10. d5 cxd5 11. exd5 a6 12. Nd2 b5 13. axb6 Nxb6 14. Nb3
+Bb7 15. Ra5 Nfd7 16. Be3 f5 17. Qa1 Nf6 18. Bxa6 Bxa6 19. Rxa6 Rxa6 20.
+Qxa6 Nbxd5 21. Nxd5 Nxd5 22. Qd3 Nxe3 23. Rxe3 Rc8 24. Re2 e4 25. Qd5+ Qf7
+26. Qxf7+ Kxf7 27. c3 Rb8 28. Nc1 Ra8 29. Kf1 Ke6 30. f3 Ra1 31. Re1 Kd5
+32. fxe4+ fxe4 33. Ne2 Rxe1+ 34. Kxe1 Kc4 35. b4 d5 36. Kd2 Bh6+ 37. Kc2
+Be3 38. h3 h5 39. Ng3 Bf4 40. Ne2 Be5 41. Kd2 h4 42. Kc2 g5 43. Kd2 Bf4+
+44. Kc2 Be3 45. g3 g4 46. gxh4 gxh3 47. Ng3 Bf2 48. Nf5 e3 0-1
+

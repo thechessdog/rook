@@ -1,0 +1,20 @@
+[Event "corr SF-GB"]
+[Site "corr SF-GB"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Wikman"]
+[Black "Slot"]
+[Result "1-0"]
+[ECO "C43"]
+[Opening "Petrov"]
+[Variation "modern attack, Trifunovic variation"]
+[HashCode "a5ac9a38"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nf6 3. d4 Nxe4 4. Bd3 d5 5. Nxe5 Bd6 6. O-O O-O 7. c4 Bxe5
+8. dxe5 Nc6 9. f4 Bf5 10. Qe1 Nd6 11. Bxf5 Nxf5 12. g4 Nfd4 13. cxd5 Qxd5
+14. Nc3 Qf3 15. Qd1 Qxd1 16. Rxd1 Rad8 17. Kf2 Nc2 18. Rb1 N2b4 19. Be3 a6
+20. a3 Nc2 21. Bc5 Rxd1 22. Rxd1 Rd8 23. Rxd8+ Nxd8 24. Nd5 Ne6 25. Be7 c6
+26. Ne3 Nxe3 27. Kxe3 Nc7 28. Ke4 Nd5 29. Bc5 g6 30. f5 g5 31. a4 h6 32. a5
+Kg7 33. Kd4 Nf4 34. Bd6 Nd5 35. Ba3 Nf4 36. Kc5 Nd5 37. Kd6 1-0
+

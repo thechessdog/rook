@@ -1,0 +1,20 @@
+[Event "corr Betins mem"]
+[Site "corr Betins mem"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Ballenilla"]
+[Black "Kozlov, Vladimir N"]
+[Result "0-1"]
+[ECO "C40"]
+[Opening "Latvian"]
+[Variation "Polerio variation"]
+[HashCode "b6f2bbca"]
+[Epoch "Rook"]
+[BlackID "4103980"]
+[BlackCountry "RUS"]
+
+1. e4 e5 2. Nf3 f5 3. Bc4 fxe4 4. Nxe5 d5 5. Qh5+ g6 6. Nxg6 hxg6 7. Qxg6+ Kd7
+8. Bxd5 Nf6 9. Nc3 Qe7 10. O-O Nxd5 11. Nxd5 Qe5 12. Nf6+ Kd8 13. g3 Bf5 14. d4
+exd3 15. Qf7 Qe6 16. Qxe6 Bxe6 17. Re1 Bf7 18. cxd3 Bh6 19. Be3 Bxe3 20. Rxe3
+Rh6 21. Ng4 Rb6 22. b3 Nc6 23. Rae1 Nd4 24. Rc1 Re6 25. Ne5 Rxe5 26. Rxe5 Nf3+
+27. Kg2 Nxe5 0-1

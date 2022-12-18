@@ -1,0 +1,18 @@
+[Event "Wittlich"]
+[Site "Wittlich"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Buerkle, K."]
+[Black "Borngaesser, Rene"]
+[Result "1/2-1/2"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Nimzovich system"]
+[HashCode "dda66ec2"]
+[Epoch "Rook"]
+[BlackID "4600940"]
+[BlackCountry "GER"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. Nf3 Nc6 5. Bd3 cxd4 6. O-O f6 7. Bb5 Bd7 8. Bxc6
+bxc6 9. Qxd4 f5 10. Nbd2 c5 11. Qf4 a5 12. c4 d4 13. a4 Ne7 14. Nb3 Ng6 15. Qg3
+Qb6 16. Ra3 Be7 17. h4 Rg8 18. Bd2 Nh8 19. Ne1 Nf7 20. Nd3 g6 1/2-1/2

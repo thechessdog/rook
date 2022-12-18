@@ -1,0 +1,21 @@
+[Event "Sofia"]
+[Site "Sofia"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Georgiev, K."]
+[Black "Ermenkov, Evgenij"]
+[Result "0-1"]
+[ECO "B40"]
+[Opening "Sicilian defence"]
+[HashCode "aed11517"]
+[Epoch "Rook"]
+[BlackID "2900106"]
+[BlackCountry "FID"]
+[WhiteCountry "BGR"]
+
+1. e4 c5 2. Nf3 e6 3. c3 d5 4. exd5 exd5 5. d4 a6 6. Be2 Nc6 7. O-O Bd6 8. dxc5
+Bxc5 9. Bf4 Nge7 10. Nbd2 O-O 11. Nb3 Ba7 12. Nfd4 Ng6 13. Bg3 Nce5 14. f4 Nc4
+15. f5 Ne3 16. Qd3 Nxf1 17. Rxf1 Ne7 18. f6 Ng6 19. h4 Re8 20. h5 Nf8 21. fxg7
+Ne6 22. Rxf7 Qg5 23. Rf5 Qxg7 24. Rxd5 Nxd4 25. cxd4 Be6 26. Re5 Bf7 27. Kh1
+Rad8 28. Rxe8+ Rxe8 29. Be5 Qg5 30. Qh3 Bd5 31. Nd2 Bxd4 32. Nf3 Qc1+ 33. Kh2
+Bxe5+ 0-1

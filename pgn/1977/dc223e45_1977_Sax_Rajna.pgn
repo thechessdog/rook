@@ -1,0 +1,27 @@
+[Event "Budapest"]
+[Site "Budapest"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Sax, Gyula"]
+[Black "Rajna, George"]
+[Result "1-0"]
+[ECO "B31"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (with ...g6, without ...d6)"]
+[HashCode "dc223e45"]
+[Epoch "Rook"]
+[BlackID "2801566"]
+[WhiteCountry "HUN"]
+[BlackCountry "ISR"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. c3 a6 6. Ba4 b5 7. Bb3 c4 8. Bc2
+Nf6 9. b3 Bb7 10. Qe2 Na5 11. b4 Nc6 12. a4 Nh5 13. Ra2 d5 14. d4 dxe4 15. Bxe4
+Nf6 16. Bc2 O-O 17. Nbd2 Qd5 18. Rd1 Rad8 19. Nf1 Rfe8 20. Bf4 Nh5 21. Bc7 Rc8
+22. Be4 Qd7 23. Be5 f6 24. Bg3 Nxg3 25. hxg3 f5 26. Ne5 Qc7 27. Bxc6 Bxc6 28.
+Nxc6 Qxc6 29. f4 g5 30. Ne3 Qe4 31. Qf2 Bh6 32. Re2 gxf4 33. Ng4 Qc6 34. axb5
+axb5 35. Nxh6+ Qxh6 36. gxf4 Ra8 37. Rde1 Ra3 38. Qf3 Kh8 39. g3 e6 40. Kg2 Qg6
+41. d5 Qg4 42. Qe3 Qg7 43. Rc2 Ra6 44. Qe5 Qxe5 45. Rxe5 Kg7 46. Rce2 Kf6 47.
+Kh3 h6 48. Kh4 Ra1 49. Kh3 Ra6 50. Kh4 Ra1 51. Rxe6+ Rxe6 52. Rxe6+ Kg7 53. Kh3
+Rc1 54. Rb6 Rxc3 55. Rxb5 Rb3 56. d6 Kf6 57. d7 Rd3 58. Rb6+ Ke7 59. Rb5 Kxd7
+60. Rxf5 Rb3 61. Rb5 Ke7 62. Rb6 c3 63. Rxh6 Kd7 64. Rh5 Rxb4 65. Rc5 Rb3 66.
+Kh4 Kd6 67. Rc8 Kd5 68. g4 Rb4 69. Rxc3 Rxf4 70. Re3 Rf8 71. g5 1-0

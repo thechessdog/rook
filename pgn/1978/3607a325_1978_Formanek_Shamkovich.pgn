@@ -1,0 +1,19 @@
+[Event "New York"]
+[Site "New York"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Formanek, Edward"]
+[Black "Shamkovich, Leonid"]
+[Result "0-1"]
+[ECO "E20"]
+[Opening "Nimzo-Indian"]
+[Variation "Kmoch variation"]
+[HashCode "3607a325"]
+[Epoch "Rook"]
+[BlackCountry "RUS"]
+[WhiteID "2001640"]
+[WhiteCountry "USA"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. f3 c5 5. d5 d6 6. e4 Bxc3+ 7. bxc3 e5 8. Bd3
+O-O 9. Ne2 Nh5 10. O-O Qf6 11. g3 g5 12. Be3 Kh8 13. Qd2 Rg8 14. Kh1 Nd7 15.
+Rf2 Nb6 16. f4 gxf4 17. gxf4 Bg4 18. f5 Qh4 19. Rg1 Qxf2 0-1

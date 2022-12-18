@@ -1,0 +1,20 @@
+[Event "Calimanesti"]
+[Site "Calimanesti"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Buzbuchi, Ionut"]
+[Black "Stefanov"]
+[Result "0-1"]
+[ECO "A08"]
+[Opening "Reti"]
+[Variation "King's Indian attack, French variation"]
+[HashCode "595297cc"]
+[Epoch "Rook"]
+[WhiteID "4602498"]
+[WhiteCountry "GER"]
+
+1. e4 e6 2. d3 d5 3. Nd2 c5 4. Ngf3 Nc6 5. g3 Nf6 6. Bg2 Be7 7. O-O O-O 8. Re1
+b5 9. e5 Nd7 10. Nf1 a5 11. h4 a4 12. a3 b4 13. Bf4 bxa3 14. bxa3 Ba6 15. Ne3
+Rb8 16. Bh3 Nd4 17. Ng5 Qa5 18. Nxd5 Bxg5 19. hxg5 Qxe1+ 20. Qxe1 Nf3+ 21. Kf1
+Nxe1 22. Kxe1 Rb7 23. Nc3 Rfb8 24. Kd2 Ra7 25. Be3 Nxe5 26. Bxc5 Rd7 27. Ne4
+Rc8 28. Bg2 Nxd3 29. cxd3 Bxd3 0-1

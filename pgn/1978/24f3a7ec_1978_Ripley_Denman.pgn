@@ -1,0 +1,21 @@
+[Event "London"]
+[Site "London"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Ripley, J."]
+[Black "Denman, Brian"]
+[Result "0-1"]
+[ECO "A71"]
+[Opening "Benoni"]
+[Variation "classical, 8.Bg5"]
+[HashCode "24f3a7ec"]
+[Epoch "Rook"]
+[BlackID "2400316"]
+[BlackCountry "SCO"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. e4 Bg7 8. Bg5
+a6 9. Nd2 h6 10. Bh4 b5 11. a4 b4 12. Ncb1 Qe7 13. Bd3 Nbd7 14. O-O Ne5 15. Be2
+g5 16. Bg3 Ng6 17. Nc4 Nxe4 18. Bd3 Nxg3 19. Re1 Ne5 20. hxg3 O-O 21. f4 gxf4
+22. gxf4 Nf3+ 23. gxf3 Bd4+ 24. Kg2 Qh4 25. f5 Kh8 26. Re4 Qf2+ 27. Kh1 Bxf5
+28. Qf1 Qxf1+ 29. Bxf1 Bxe4 30. fxe4 f5 31. Nbd2 fxe4 32. Nxe4 Rf4 33. Re1 Rg8
+34. Bh3 Rh4 35. Kh2 Re8 36. Ncd2 Be5+ 0-1

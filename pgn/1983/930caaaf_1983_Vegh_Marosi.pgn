@@ -1,0 +1,17 @@
+[Event "Elekes mem-A"]
+[Site "Budapest"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Vegh, Endre"]
+[Black "Marosi, Gyorgy"]
+[Result "1/2-1/2"]
+[ECO "E80"]
+[Opening "King's Indian"]
+[Variation "Saemisch variation"]
+[HashCode "930caaaf"]
+[Epoch "Rook"]
+[WhiteID "700568"]
+[WhiteCountry "HUN"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 c6 6. Bg5 a6 7. Qd2 b5 8. O-O-O
+Qa5 9. Kb1 Nbd7 10. h4 h5 11. Nh3 Nb6 12. c5 b4 13. cxb6 bxc3 14. Qxc3 1/2-1/2

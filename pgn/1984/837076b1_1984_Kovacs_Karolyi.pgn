@@ -1,0 +1,20 @@
+[Event "Hungary"]
+[Site "Hungary"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Kovacs"]
+[Black "Karolyi, Tibor"]
+[Result "0-1"]
+[ECO "B97"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Poisoned pawn variation"]
+[HashCode "837076b1"]
+[Epoch "Rook"]
+[BlackID "700312"]
+[BlackCountry "HUN"]
+
+1. e4 c5 2. Nf3 d6 3. Nc3 a6 4. d4 cxd4 5. Nxd4 Nf6 6. Bg5 e6 7. f4 Qb6 8. Qd2
+Qxb2 9. Rb1 Qa3 10. f5 Nc6 11. fxe6 fxe6 12. Nxc6 bxc6 13. e5 dxe5 14. Bxf6
+gxf6 15. Ne4 Be7 16. Be2 h5 17. Rb3 Qa4 18. Nxf6+ Bxf6 19. c4 Bh4+ 20. g3 Be7
+21. O-O h4 22. Qe3 Qa5 23. Rd1 e4 24. Qxe4 Qc5+ 25. Kh1 Rh6 26. Qf4 Rf6 27. Qe4
+Bd7 28. Rb7 O-O-O 29. Rdb1 Bd6 30. Qxh4 Rf2 31. Qg4 Rxh2+ 32. Kxh2 Qf2+ 0-1

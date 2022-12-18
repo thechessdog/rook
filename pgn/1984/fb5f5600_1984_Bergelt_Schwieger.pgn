@@ -1,0 +1,19 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Bergelt"]
+[Black "Schwieger, C."]
+[Result "0-1"]
+[ECO "C44"]
+[Opening "Ponziani"]
+[Variation "Jaenisch counter-attack"]
+[HashCode "fb5f5600"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. c3 Nf6 4. d4 d5 5. Bb5 exd4 6. Nxd4 dxe4 7. Qa4 Be7
+8. Nd2 O-O 9. Nxc6 bxc6 10. Bxc6 Bd7 11. Bxd7 Nxd7 12. Nxe4 Ne5 13. O-O f5
+14. Ng3 Bd6 15. Bf4 Qh4 16. Qb3+ Kh8 17. Bxe5 Bxe5 18. Rfe1 Bd6 19. Qc2 Rf6
+20. Qe2 Raf8 21. Qf3 g5 22. Rad1 g4 23. Qc6 f4 24. Ne4 Rh6 25. Nxd6 Qxh2+
+26. Kf1 f3 0-1
+

@@ -1,0 +1,16 @@
+[Event "Uki"]
+[Site "Uki"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Lehmusvaara, E."]
+[Black "Heinola, Kari P."]
+[Result "0-1"]
+[ECO "E61"]
+[Opening "King's Indian defence, 3.Nc3"]
+[HashCode "3b82c7f2"]
+[Epoch "Rook"]
+[BlackID "503495"]
+[BlackCountry "FIN"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 c5 4. d5 b5 5. b3 b4 6. Nb1 Bg7 7. Bb2 O-O 8. a3 bxa3
+9. Nxa3 Qa5+ 10. Qd2 Qxd2+ 11. Kxd2 Ne4+ 0-1

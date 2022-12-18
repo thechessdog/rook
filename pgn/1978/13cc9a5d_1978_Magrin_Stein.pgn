@@ -1,0 +1,19 @@
+[Event "Munich"]
+[Site "Munich"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Magrin"]
+[Black "Stein, Leonid"]
+[Result "1-0"]
+[ECO "A70"]
+[Opening "Benoni"]
+[Variation "classical with e4 and Nf3"]
+[HashCode "13cc9a5d"]
+[Epoch "Rook"]
+[BlackCountry "RUS"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. Nf3 Bg7 8. h3
+O-O 9. Bd3 Na6 10. O-O Nc7 11. Re1 Rb8 12. a4 b6 13. Qe2 a6 14. Qf1 Qd7 15. Bf4
+b5 16. axb5 axb5 17. Bxd6 Qxd6 18. e5 Qb6 19. d6 Nfd5 20. dxc7 Nxc7 21. Be4 Rd8
+22. Red1 Bb7 23. Rxd8+ Rxd8 24. Rd1 Rxd1 25. Qxd1 Ne6 26. Qd7 Ba6 27. Qe8+ Bf8
+28. Nd5 Qa7 29. Nf6+ Kg7 30. Nd7 1-0

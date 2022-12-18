@@ -1,0 +1,17 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Skripova, T."]
+[Black "Bystrikova"]
+[Result "1-0"]
+[ECO "D02"]
+[Opening "Queen's pawn game, Chigorin variation"]
+[HashCode "cf657c4c"]
+[Epoch "Rook"]
+
+1. d4 d5 2. Nf3 Nc6 3. c4 Bg4 4. e3 e6 5. Nc3 Qd7 6. cxd5 exd5 7. Qb3 Bxf3
+8. gxf3 O-O-O 9. Bd2 Qf5 10. Rg1 Bd6 11. h4 Nge7 12. Nb5 Qxf3 13. Rxg7 Ng6
+14. Rc1 Bh2 15. Rxc6 bxc6 16. Rxf7 Qxf7 17. Bh3+ Rd7 18. Nxa7+ Kd8 19.
+Nxc6+ 1-0
+

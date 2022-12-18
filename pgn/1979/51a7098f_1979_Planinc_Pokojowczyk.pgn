@@ -1,0 +1,21 @@
+[Event "Polanica Zdroj"]
+[Site "Polanica Zdroj"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Planinc, Albin"]
+[Black "Pokojowczyk, Jerzy"]
+[Result "1-0"]
+[ECO "B98"]
+[Opening "Sicilian"]
+[Variation "Najdorf variation"]
+[HashCode "51a7098f"]
+[Epoch "Rook"]
+[BlackID "1100718"]
+[WhiteCountry "SVN"]
+[BlackCountry "POL"]
+
+1. e4 c5 2. Nf3 d6 3. d4 Nf6 4. Nc3 cxd4 5. Nxd4 a6 6. Bg5 e6 7. f4 Be7 8. Qf3
+Qc7 9. O-O-O h6 10. Bh4 Nbd7 11. Be2 g5 12. fxg5 Ne5 13. Qf2 Nfg4 14. Bxg4 Nxg4
+15. Qd2 hxg5 16. Bxg5 Nf2 17. Bxe7 Nxd1 18. Nd5 exd5 19. Bf6 Rh5 20. exd5 Bg4
+21. Re1+ Kf8 22. h3 Re8 23. hxg4 Rxe1 24. Qxe1 Nxb2 25. Kxb2 Rxd5 26. g5 Ra5
+27. g6 1-0

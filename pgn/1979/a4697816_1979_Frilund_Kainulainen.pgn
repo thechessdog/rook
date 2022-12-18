@@ -1,0 +1,17 @@
+[Event "corr NS/III"]
+[Site "corr NS/III"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Frilund, Ari"]
+[Black "Kainulainen, Pentti"]
+[Result "0-1"]
+[ECO "A51"]
+[Opening "Budapest"]
+[Variation "Fajarowicz variation"]
+[HashCode "a4697816"]
+[Epoch "Rook"]
+
+1. c4 Nf6 2. d4 e5 3. dxe5 Ne4 4. Nd2 Bb4 5. Nf3 d5 6. a3 Bxd2+ 7. Nxd2
+Nxd2 8. Bxd2 dxc4 9. e3 Nc6 10. Qa4 Bd7 11. Bxc4 Nxe5 12. Bxf7+ Kxf7 13.
+Qb3+ Be6 14. Qc3 Qd6 15. O-O-O Rhd8 16. Kb1 Qd5 17. Bc1 Qa2+ 0-1
+

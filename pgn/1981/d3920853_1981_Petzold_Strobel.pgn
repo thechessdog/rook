@@ -1,0 +1,18 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Petzold"]
+[Black "Strobel"]
+[Result "0-1"]
+[ECO "C31"]
+[Opening "KGD"]
+[Variation "Falkbeer, Tartakower variation"]
+[HashCode "d3920853"]
+[Epoch "Rook"]
+
+1. e4 e5 2. f4 d5 3. Nf3 dxe4 4. Nxe5 Nd7 5. Nc3 Ngf6 6. d3 Bb4 7. a3 Bxc3+
+8. bxc3 O-O 9. d4 Nxe5 10. fxe5 Nd7 11. g3 f5 12. Bc4+ Kh8 13. e6 Nb6 14.
+Bb3 Qe7 15. d5 Rd8 16. h4 Qc5 17. Bd2 Nxd5 18. Bg5 Qxc3+ 19. Kf2 Qc5+ 20.
+Ke1 Rd6 21. e7 Nxe7 22. Qxd6 cxd6 23. Bxe7 Qe5 0-1
+

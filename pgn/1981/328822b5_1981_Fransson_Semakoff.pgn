@@ -1,0 +1,23 @@
+[Event "Gausdal Int"]
+[Site "Gausdal"]
+[Date "1981.??.??"]
+[Round "1"]
+[White "Fransson, Peter"]
+[Black "Semakoff, Aleks"]
+[Result "0-1"]
+[ECO "C64"]
+[Opening "Ruy Lopez"]
+[Variation "Cordel gambit"]
+[HashCode "328822b5"]
+[Epoch "Rook"]
+[WhiteID "1701142"]
+[BlackID "1500635"]
+[WhiteCountry "SWE"]
+[BlackCountry "NOR"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. c3 f5 5. d4 fxe4 6. Nxe5 Nxe5 7. dxe5 c6 8.
+Bc4 Qh4 9. Qe2 e3 10. O-O exf2+ 11. Kh1 Ne7 12. Nd2 d5 13. exd6 Bxd6 14. Nf3
+Qh5 15. Rxf2 Bg4 16. Be6 Rf8 17. Bd2 Bxe6 18. Qxe6 Rf6 19. Qe2 O-O-O 20. Kg1
+Rdf8 21. Raf1 Nf5 22. Bg5 Bxh2+ 23. Nxh2 Qxg5 24. Qg4 Qe3 25. Kh1 h5 26. Qxf5+
+Rxf5 27. Rxf5 Rxf5 28. Rxf5 Qc1+ 29. Nf1 Qxb2 30. Rxh5 Qxc3 31. Rf5 c5 32. Rf3
+Qa1 33. a3 c4 34. Kh2 Qe5+ 0-1

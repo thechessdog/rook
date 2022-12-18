@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Landin, Bo"]
+[Black "Gronroos, Pentti"]
+[Result "0-1"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Lipnitzky attack"]
+[HashCode "b87eac48"]
+[Epoch "Rook"]
+[WhiteID "1705261"]
+[WhiteCountry "SWE"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 Nbd7 8. f4
+Nc5 9. f5 Be7 10. Qf3 Qc7 11. Be3 Bd7 12. g4 e5 13. g5 exd4 14. Bxd4 Nfxe4 15.
+Nxe4 Nxe4 16. Qxe4 O-O-O 17. O-O-O Bxg5+ 18. Kb1 Bc6 19. Qg4 Bxh1 20. f6+ Qd7
+21. Qxg5 gxf6 22. Qxf6 Be4 23. Be5 Qg4 0-1

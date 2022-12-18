@@ -1,0 +1,17 @@
+[Event "Dayton,OH"]
+[Site "Dayton,OH"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Holsapple, Boyd"]
+[Black "Wall, Bill"]
+[Result "0-1"]
+[ECO "B54"]
+[Opening "Sicilian"]
+[HashCode "b70f8185"]
+[Epoch "Rook"]
+[BlackCountry "USA"]
+[WhiteCountry "USA"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nc6 5. Nxc6 bxc6 6. Nc3 g6 7. Be3 Bg7 8.
+Qd2 Nf6 9. f3 O-O 10. g4 Rb8 11. O-O-O Qa5 12. Bc4 Bxg4 13. fxg4 Nxe4 14. Qd3
+Bxc3 15. bxc3 Qa3# 0-1

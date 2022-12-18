@@ -1,0 +1,18 @@
+[Event "Odense"]
+[Site "Odense"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Madsen"]
+[Black "Sommerlund"]
+[Result "1-0"]
+[ECO "C41"]
+[Opening "Philidor"]
+[Variation "Philidor counter-gambit"]
+[HashCode "138dbc77"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 f5 3. d4 d6 4. Bc4 fxe4 5. Nxe5 dxe5 6. Qh5+ Kd7 7. Qf5+
+Kc6 8. Qxe5 a6 9. d5+ Kb6 10. Be3+ Bc5 11. Bxc5+ Kxc5 12. b4+ Kxb4 13. Nd2
+Qf6 14. Rb1+ Ka5 15. Qxc7+ b6 16. Rxb6 Qxb6 17. Nb3+ Ka4 18. Qxb6 Ka3 19.
+Nd4 1-0
+

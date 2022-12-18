@@ -1,0 +1,21 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Ivanov, Igor Vasilyevich"]
+[Black "Ruderfer, Mark B"]
+[Result "0-1"]
+[ECO "E15"]
+[Opening "Queen's Indian"]
+[Variation "Nimzovich variation (exaggerated fianchetto)"]
+[HashCode "83885ee2"]
+[Epoch "Rook"]
+[BlackID "4103505"]
+[BlackCountry "RUS"]
+[WhiteCountry "RUS"]
+
+1. Nf3 Nf6 2. c4 e6 3. d4 b6 4. g3 Ba6 5. Qa4 c6 6. Nc3 b5 7. cxb5 cxb5 8. Nxb5
+Qb6 9. e3 Bb7 10. Be2 Bc6 11. Qb3 Qb7 12. O-O a6 13. Nc3 Bxf3 14. Bxf3 Qxf3 15.
+d5 h5 16. Qb7 h4 17. Rd1 Ne4 18. Qc8+ Ke7 19. d6+ Nxd6 20. Rxd6 h3 21. Kf1 Kxd6
+22. b3 Ke7 23. Ba3+ Kf6 24. Bxf8 Qh1+ 25. Ke2 Qxa1 26. Qc5 Rxf8 27. Ne4+ Kg6
+28. Qg5+ Kh7 29. Qh5+ Kg8 30. Ng5 0-1

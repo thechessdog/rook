@@ -1,0 +1,18 @@
+[Event "Rostov"]
+[Site "Rostov"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Losev"]
+[Black "Doroshkevich"]
+[Result "0-1"]
+[ECO "B97"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7...Qb6"]
+[HashCode "5aeb27b2"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qb6 8.
+Qd2 Qxb2 9. Nb3 Nbd7 10. Bxf6 gxf6 11. Be2 Nc5 12. O-O Bd7 13. Nxc5 Qb6 14.
+Kh1 Qxc5 15. e5 f5 16. Rad1 Bc6 17. Bf3 Be7 18. exd6 O-O-O 19. Bxc6 Qxc6
+20. dxe7 Rxd2 21. Rxd2 Qxc3 22. Rfd1 Qc7 0-1
+

@@ -1,0 +1,19 @@
+[Event "corr USCCC"]
+[Site "corr USCCC"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Carlson, Curtis"]
+[Black "George, R."]
+[Result "1-0"]
+[ECO "B04"]
+[Opening "Alekhine's defence"]
+[Variation "modern variation"]
+[HashCode "fc0d7717"]
+[Epoch "Rook"]
+[WhiteID "2002868"]
+[WhiteCountry "USA"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. Nf3 Bf5 5. Nh4 Bd7 6. f4 dxe5 7. fxe5 e6 8. Nf3
+c5 9. c4 Ne7 10. d5 exd5 11. cxd5 Qa5+ 12. Bd2 Qb6 13. Nc3 g6 14. d6 Bc6 15.
+dxe7 Bxe7 16. Bc4 Nd7 17. O-O f5 18. exf6 Nxf6 19. Qe2 Rd8 20. Rae1 Qc7 21. Bf4
+1-0

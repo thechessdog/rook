@@ -1,0 +1,19 @@
+[Event "IBM"]
+[Site "Amsterdam"]
+[Date "1976.07.01"]
+[Round "13"]
+[White "Velimirovic, Dragoljub"]
+[Black "Kurajica, Bojan"]
+[Result "1/2-1/2"]
+[ECO "B25"]
+[Opening "Sicilian"]
+[Variation "closed"]
+[HashCode "a3d91aab"]
+[Epoch "Rook"]
+[BlackID "14400057"]
+[BlackCountry "BIH"]
+[WhiteCountry "SRB"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. Nge2 e6 7. Bd2 Nge7 8. O-O
+O-O 9. Qc1 b6 10. Bh6 Bb7 11. Bxg7 Kxg7 12. Qd2 e5 13. Nd5 Nd4 14. Nxe7 Nxe2+
+15. Qxe2 Qxe7 1/2-1/2

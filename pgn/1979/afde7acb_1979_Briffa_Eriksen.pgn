@@ -1,0 +1,19 @@
+[Event "Viborg"]
+[Site "Viborg"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Briffa"]
+[Black "Eriksen, Henrik"]
+[Result "0-1"]
+[ECO "B72"]
+[Opening "Sicilian"]
+[Variation "dragon, classical, Amsterdam variation"]
+[HashCode "afde7acb"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be2 Bg7 7. Be3 Nc6
+8. Qd2 Bd7 9. Nb3 a6 10. O-O-O b5 11. f3 Rc8 12. Bd3 Na5 13. Kb1 Nxb3 14.
+cxb3 b4 15. Ne2 a5 16. g4 Bc6 17. Rc1 Nd7 18. Rc2 O-O 19. h4 Ne5 20. Nd4
+Bd7 21. h5 Nxd3 22. Qxd3 Rxc2 23. Qxc2 e5 24. Ne2 Qf6 25. Ng1 Rc8 26. Qd2
+Bxg4 27. Bg5 Qe6 28. fxg4 Qxg4 0-1
+

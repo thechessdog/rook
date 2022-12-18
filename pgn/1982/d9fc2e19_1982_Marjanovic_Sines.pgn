@@ -1,0 +1,19 @@
+[Event "Yugoslavia"]
+[Site "Yugoslavia"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Marjanovic, Slavoljub"]
+[Black "Sines, Josip"]
+[Result "1-0"]
+[ECO "B99"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7...Be7 main line"]
+[HashCode "d9fc2e19"]
+[Epoch "Rook"]
+[WhiteID "900354"]
+[WhiteCountry "SRB"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3
+Qc7 9. O-O-O Nbd7 10. Bd3 h6 11. Bh4 g5 12. e5 dxe5 13. Nxe6 fxe6 14. Bg6+ Kd8
+15. fxg5 Nd5 16. Nxd5 exd5 17. Rxd5 Qc4 18. Rhd1 Kc7 19. Bf5 Qxh4 20. Qc3+ Kb8
+21. Bxd7 Qxg5+ 22. Kb1 Bf6 23. Rc5 Ka7 24. Bxc8 e4 25. Qb4 Raxc8 26. Rd7 1-0

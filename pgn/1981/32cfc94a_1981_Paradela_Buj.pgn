@@ -1,0 +1,18 @@
+[Event "Moron"]
+[Site "Moron"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Paradela"]
+[Black "Buj, Pablo"]
+[Result "0-1"]
+[ECO "E38"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, 4...c5"]
+[HashCode "32cfc94a"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 c5 5. dxc5 Na6 6. f3 Bxc5 7. e4 O-O 8.
+a3 Bxg1 9. Rxg1 Qc7 10. g3 d5 11. Qe2 dxe4 12. fxe4 Nc5 13. Bg5 Rd8 14. Rd1
+Rxd1+ 15. Kxd1 Qe5 16. Bxf6 gxf6 17. Kc2 Bd7 18. Bg2 Ba4+ 19. Nxa4 Nxa4 20.
+Kb1 Rd8 21. Rc1 Rd3 22. Rc2 Qd4 23. c5 Rb3 24. Ka2 0-1
+

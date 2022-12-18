@@ -1,0 +1,17 @@
+[Event "Dayton,OH"]
+[Site "Dayton,OH"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Shirley"]
+[Black "Pelan"]
+[Result "1-0"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "Damiano variation"]
+[HashCode "6659cdf8"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 Nxe4 4. Qe2 d6 5. Nxf7 Kxf7 6. Qxe4 Qe7 7. Bc4+
+Kf6 8. Nc3 c6 9. O-O Qxe4 10. Nxe4+ Ke7 11. Re1 Kd7 12. Ng5 d5 13. Be2 Be7
+14. Bg4+ Kd6 15. Nf7+ 1-0
+

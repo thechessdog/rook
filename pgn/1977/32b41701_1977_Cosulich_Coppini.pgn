@@ -1,0 +1,21 @@
+[Event "Bologna"]
+[Site "Bologna"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Cosulich, Roberto"]
+[Black "Coppini, Giorgio"]
+[Result "1-0"]
+[ECO "B80"]
+[Opening "Sicilian"]
+[Variation "Scheveningen variation"]
+[HashCode "32b41701"]
+[Epoch "Rook"]
+[WhiteCountry "ITA"]
+[BlackID "800988"]
+[BlackCountry "ITA"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bd3 a6 7. f4 Qc7 8. Qf3
+b5 9. Be3 Bb7 10. Nb3 Nbd7 11. O-O Nc5 12. Nxc5 dxc5 13. a3 Bc6 14. Rfe1 Qb7
+15. Bf2 c4 16. Bf1 b4 17. axb4 Bxb4 18. Bxc4 Bxc3 19. Qxc3 Bxe4 20. Bc5 Bd5 21.
+Bxd5 Qxd5 22. Rad1 Qb7 23. f5 Nd5 24. Qf3 O-O-O 25. fxe6 Qc6 26. b4 fxe6 27. c4
+Nxb4 28. Bxb4 Qb6+ 29. c5 1-0

@@ -1,0 +1,18 @@
+[Event "Bologna"]
+[Site "Bologna"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Pantaleoni, Claudio"]
+[Black "Zurla, Mirco"]
+[Result "1-0"]
+[ECO "B15"]
+[Opening "Caro-Kann"]
+[Variation "Forgacs variation"]
+[HashCode "8b5b8870"]
+[Epoch "Rook"]
+[WhiteID "800945"]
+[WhiteCountry "ITA"]
+
+1. e4 c6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Nf6 5. Nxf6+ exf6 6. Bc4 Bd6 7. Ne2 Qc7
+8. Be3 Nd7 9. Bb3 b6 10. Ng3 c5 11. Nf5 Bf8 12. Qe2 Kd8 13. O-O-O g6 14. Ng3 c4
+15. Qxc4 Bb7 16. f3 f5 17. Qxf7 Be7 18. Rhe1 Rf8 19. Qxe7+ 1-0

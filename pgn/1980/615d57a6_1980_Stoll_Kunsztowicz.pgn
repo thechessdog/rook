@@ -1,0 +1,18 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Stoll, J."]
+[Black "Kunsztowicz, Uwe"]
+[Result "0-1"]
+[ECO "A25"]
+[Opening "English"]
+[Variation "closed, Taimanov variation"]
+[HashCode "615d57a6"]
+[Epoch "Rook"]
+[BlackID "4602773"]
+[BlackCountry "GER"]
+
+1. c4 e5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. e3 d6 6. Nge2 Nh6 7. a3 a5 8. Rb1
+O-O 9. d3 f5 10. O-O g5 11. f4 gxf4 12. gxf4 Ne7 13. Ng3 exf4 14. Rxf4 Ng6 15.
+Rf1 f4 16. exf4 Bd4+ 17. Kh1 Ng4 18. Nce4 Nxh2 19. Ng5 Bg4 20. Nf3 Nxf3 0-1

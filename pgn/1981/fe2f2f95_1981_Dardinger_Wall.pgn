@@ -1,0 +1,17 @@
+[Event "Columbus,OH"]
+[Site "Columbus,OH"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Dardinger, Dave"]
+[Black "Wall, Bill"]
+[Result "0-1"]
+[ECO "E60"]
+[Opening "King's Indian defence"]
+[HashCode "fe2f2f95"]
+[Epoch "Rook"]
+[BlackCountry "USA"]
+
+1. d4 Nf6 2. c4 g6 3. Bf4 Bg7 4. e3 O-O 5. Bd3 d5 6. b3 c5 7. Ne2 Nc6 8. O-O
+Nh5 9. cxd5 cxd4 10. dxc6 dxe3 11. cxb7 Bxb7 12. Nbc3 Nxf4 13. Nxf4 Bxc3 14.
+Rc1 exf2+ 15. Kxf2 Be5 16. Rc4 Qb6+ 17. Ke1 Rad8 18. Qe2 Qa5+ 19. Kd1 Ba6 20.
+Ra4 Qc3 21. Rxa6 Bxf4 0-1

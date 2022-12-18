@@ -1,0 +1,17 @@
+[Event "Morecambe ch-BCF"]
+[Site "Morecambe ch-BCF"]
+[Date "1981.08.06"]
+[Round "4"]
+[White "Hodgson, Julian M"]
+[Black "Alcock, M."]
+[Result "1-0"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Grand Prix attack"]
+[HashCode "76f1086c"]
+[Epoch "Rook"]
+[WhiteID "400076"]
+[WhiteCountry "ENG"]
+
+1. e4 c5 2. f4 g6 3. Nf3 Bg7 4. Nc3 d6 5. Bc4 Nc6 6. d3 e6 7. f5 exf5 8. O-O
+Nge7 9. Qe1 O-O 10. Qh4 d5 11. exd5 Na5 12. Bg5 f6 13. d6+ 1-0

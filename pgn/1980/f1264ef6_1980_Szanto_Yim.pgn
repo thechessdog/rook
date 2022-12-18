@@ -1,0 +1,16 @@
+[Event "corr Wch9"]
+[Site "corr Wch9"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Szanto, J."]
+[Black "Yim, TO."]
+[Result "0-1"]
+[ECO "C68"]
+[Opening "Ruy Lopez"]
+[Variation "exchange, Keres variation"]
+[HashCode "f1264ef6"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. Nc3 f6 6. d4 exd4 7. Qxd4
+Qxd4 8. Nxd4 Bd6 9. Be3 0-1
+

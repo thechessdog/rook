@@ -1,0 +1,20 @@
+[Event "corr Vidmar mem"]
+[Site "corr Vidmar mem"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Brilla Banfalvi"]
+[Black "Kondali"]
+[Result "1-0"]
+[ECO "A57"]
+[Opening "Benko gambit"]
+[Variation "Zaitsev system"]
+[HashCode "686570d4"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. Nc3 d6 6. e4 g6 7. Nf3 Bg7 8.
+bxa6 O-O 9. h3 Qa5 10. Bd2 Nbd7 11. Na4 Qc7 12. Qc2 Bxa6 13. Bxa6 Rxa6 14.
+O-O c4 15. b3 Rc8 16. Rac1 cxb3 17. Qxc7 Rxc7 18. Rxc7 bxa2 19. e5 dxe5 20.
+Rc8+ Bf8 21. Rc4 e4 22. Nh2 Nxd5 23. Ra1 Ne5 24. Rxe4 f5 25. Rd4 Nc6 26.
+Rxd5 Rxa4 27. Bc3 Rc4 28. Be1 Ra4 29. Rd2 Nb4 30. Nf3 h6 31. Ne5 g5 32. Rd4
+e6 33. Bxb4 1-0
+

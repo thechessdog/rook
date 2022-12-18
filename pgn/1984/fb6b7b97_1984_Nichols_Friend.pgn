@@ -1,0 +1,19 @@
+[Event "corr USA"]
+[Site "corr USA"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Nichols"]
+[Black "Friend"]
+[Result "0-1"]
+[ECO "C18"]
+[Opening "French"]
+[Variation "Winawer, advance variation"]
+[HashCode "fb6b7b97"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Nc6 7. Qg4 Nge7
+8. Qxg7 Rg8 9. Qxh7 cxd4 10. cxd4 Qc7 11. Bb2 Qb6 12. O-O-O Bd7 13. Nf3 Na5
+14. g3 Rc8 15. h4 Ba4 16. Bd3 Kd7 17. Kb1 Bxc2+ 18. Bxc2 Nc4 19. Ba4+ Kd8
+20. Rd2 Nxa3+ 21. Ka2 Nc4 22. Ba3 Nxa3 23. Ng5 Rxg5 24. hxg5 Qb4 25. Qh8+
+Kc7 0-1
+

@@ -1,0 +1,21 @@
+[Event "London"]
+[Site "London"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Keene, Raymond D"]
+[Black "Cardon"]
+[Result "1-0"]
+[ECO "A65"]
+[Opening "Benoni"]
+[Variation "6.e4"]
+[HashCode "1d54fc52"]
+[Epoch "Rook"]
+[WhiteID "400211"]
+[WhiteCountry "ENG"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 c5 4. d5 exd5 5. cxd5 d6 6. e4 g6 7. f3 Bg7 8. Bg5
+O-O 9. Qd2 a6 10. a4 Qa5 11. Ra3 Re8 12. Nge2 Nbd7 13. Nc1 Ne5 14. Be2 c4 15.
+O-O Rb8 16. Be3 h6 17. Kh1 Kh7 18. Ba7 Ra8 19. Bd4 Rb8 20. N1a2 Qd8 21. a5 Qe7
+22. Nb4 Bd7 23. Nc2 Bb5 24. Ne3 Rbc8 25. b3 cxb3 26. Nxb5 axb5 27. Bxb5 Rf8 28.
+Rxb3 Nh5 29. f4 Nd7 30. Bxg7 Nxg7 31. Bxd7 Qxd7 32. f5 h5 33. f6 Ne8 34. Nf5
+gxf5 35. Rxf5 Qxf5 36. exf5 Rc7 37. Rc3 Rxc3 38. Qxc3 Kg8 39. Qb2 1-0

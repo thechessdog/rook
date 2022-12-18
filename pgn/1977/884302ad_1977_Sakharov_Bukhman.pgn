@@ -1,0 +1,19 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Sakharov, Alexander"]
+[Black "Bukhman, Eduard"]
+[Result "1-0"]
+[ECO "C17"]
+[Opening "French"]
+[Variation "Winawer, advance, Bogolyubov variation"]
+[HashCode "884302ad"]
+[Epoch "Rook"]
+[BlackID "4102088"]
+[BlackCountry "RUS"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. Bd2 Ne7 6. dxc5 Bxc5 7. Qg4 Ng6 8. h4
+O-O 9. f4 Bxg1 10. h5 Qb6 11. O-O-O Ne7 12. h6 g6 13. Qg5 Nf5 14. g4 f6 15.
+exf6 Bd4 16. gxf5 exf5 17. Bg2 Be6 18. Rhe1 Bf7 19. b3 Bxf6 20. Nxd5 Bxd5 21.
+Bxd5+ Kh8 22. Re6 Qd4 23. Qxf6+ 1-0

@@ -1,0 +1,19 @@
+[Event "Leningrad ch"]
+[Site "Leningrad ch"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Dommes, V."]
+[Black "Varlamov, V."]
+[Result "0-1"]
+[ECO "A78"]
+[Opening "Benoni"]
+[Variation "classical with ...Re8 and ...Na6"]
+[HashCode "0257a661"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. Nf3 Bg7 8.
+Be2 O-O 9. O-O Re8 10. Nd2 Na6 11. f4 Nc7 12. a4 b6 13. Ra3 Ba6 14. Bxa6
+Nxa6 15. Re1 Nb4 16. Nc4 a6 17. f5 Rb8 18. Bf4 Nh5 19. Bxd6 Bd4+ 20. Kh1 b5
+21. axb5 axb5 22. Bxb8 bxc4 23. g4 Nd3 24. Re2 Qxb8 25. gxh5 Qf4 26. Rg2
+Bxc3 27. Rxc3 Qxe4 0-1
+

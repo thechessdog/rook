@@ -1,0 +1,20 @@
+[Event "Moscow-ch"]
+[Site "Moscow"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Belov, Lev A"]
+[Black "Rashkovsky, Nukhim N"]
+[Result "1/2-1/2"]
+[ECO "D38"]
+[Opening "QGD"]
+[Variation "Ragozin variation"]
+[HashCode "7e4604fe"]
+[Epoch "Rook"]
+[WhiteID "4105591"]
+[WhiteCountry "RUS"]
+[BlackID "4100603"]
+[BlackCountry "RUS"]
+
+1. Nf3 Nf6 2. c4 e6 3. Nc3 d5 4. d4 Bb4 5. Bg5 h6 6. Bxf6 Qxf6 7. e3 O-O 8. Rc1
+c6 9. Bd3 dxc4 10. Bxc4 Nd7 11. O-O e5 12. d5 Bxc3 13. Rxc3 e4 14. Nd2 Qg6 15.
+dxc6 bxc6 16. Qc2 Nf6 1/2-1/2

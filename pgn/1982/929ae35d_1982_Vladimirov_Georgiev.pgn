@@ -1,0 +1,17 @@
+[Event "Erevan"]
+[Site "Erevan"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Vladimirov, Yevgeniy"]
+[Black "Georgiev, K."]
+[Result "1/2-1/2"]
+[ECO "E91"]
+[Opening "King's Indian"]
+[Variation "6.Be2"]
+[HashCode "929ae35d"]
+[Epoch "Rook"]
+[WhiteCountry "KAZ"]
+[BlackCountry "BGR"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 O-O 5. Be2 d6 6. Nf3 a6 7. O-O c6 8. Re1
+Nfd7 9. Be3 b5 10. Qd2 Nb6 11. cxb5 axb5 12. Bh6 N8d7 13. Bxg7 Kxg7 1/2-1/2

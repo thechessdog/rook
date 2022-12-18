@@ -1,0 +1,18 @@
+[Event "corr SM-E"]
+[Site "corr SM-E"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Pesola, Juho"]
+[Black "Juntunen, Jaakko"]
+[Result "1-0"]
+[ECO "A73"]
+[Opening "Benoni"]
+[Variation "classical, 9.O-O"]
+[HashCode "1bfc1847"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. Nf3 Bg7 8.
+Be2 O-O 9. O-O Na6 10. Nd2 Nc7 11. a4 a6 12. Nc4 b5 13. axb5 axb5 14. Rxa8
+Nxa8 15. Nxb5 Nxe4 16. f3 Ba6 17. Nba3 Nf6 18. Re1 Nb6 19. Bf4 Nfxd5 20.
+Bxd6 Qg5 21. Bf1 Rc8 22. Qc2 Bd4+ 23. Kh1 Qd8 24. Qd2 Qd7 1-0
+

@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Patterson, Roger"]
+[Black "Berry, Jonathan"]
+[Result "0-1"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Nimzovich system"]
+[HashCode "200176a7"]
+[Epoch "Rook"]
+[WhiteID "2602806"]
+[WhiteCountry "CAN"]
+[BlackID "2600463"]
+[BlackCountry "CAN"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. Nf3 cxd4 5. Bd3 Nc6 6. O-O f6 7. Re1 fxe5 8. Nxe5
+Nxe5 9. Qh5+ Nf7 10. Bb5+ Ke7 11. b3 Nf6 12. Ba3+ Nd6 13. Qe5 Kf7 0-1

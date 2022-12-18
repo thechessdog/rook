@@ -1,0 +1,18 @@
+[Event "Feodosia"]
+[Site "Feodosia"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Galakhov, Sergey"]
+[Black "Marusenko, Petr"]
+[Result "0-1"]
+[ECO "A45"]
+[Opening "Trompovsky attack (Ruth, Opovcensky opening)"]
+[HashCode "6434bbad"]
+[Epoch "Rook"]
+[WhiteID "4106598"]
+[BlackID "14100606"]
+[WhiteCountry "RUS"]
+[BlackCountry "UKR"]
+
+1. d4 Nf6 2. Bg5 Ne4 3. Bf4 c5 4. c3 cxd4 5. Qxd4 d5 6. Bxb8 Rxb8 7. Qxa7 Bd7
+8. e3 e5 9. b4 Nxc3 10. Nxc3 Bxb4 11. Ne2 Qc7 12. Kd1 O-O 0-1

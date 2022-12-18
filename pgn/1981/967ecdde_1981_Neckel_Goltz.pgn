@@ -1,0 +1,21 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Neckel, O."]
+[Black "Golz, Werner"]
+[Result "1-0"]
+[ECO "A34"]
+[Opening "English"]
+[Variation "symmetrical variation"]
+[HashCode "967ecdde"]
+[Epoch "Rook"]
+[BlackCountry "DEU"]
+
+1. c4 Nf6 2. Nc3 c5 3. g3 g6 4. Bg2 Bg7 5. e4 Nc6 6. d3 O-O 7. f4 d6 8. Nf3 a6
+9. O-O Rb8 10. Rb1 e6 11. b3 b5 12. Bb2 Bd7 13. Ne2 Qc7 14. d4 Nxe4 15. d5 exd5
+16. Qxd5 Nf6 17. Bxf6 Bxf6 18. Rbd1 Be7 19. Qd2 bxc4 20. Ne5 cxb3 21. axb3 Rxb3
+22. Nxd7 Qxd7 23. Qd5 Rb6 24. Qxc5 Rfb8 25. Nc3 dxc5 26. Rxd7 Bf6 27. Ne4 Bd4+
+28. Kh1 Nd8 29. Ra7 c4 30. Rc7 Rb4 31. Nd6 c3 32. Bd5 Ne6 33. Rxf7 Rb1 34. Rxb1
+Rxb1+ 35. Kg2 c2 36. Bxe6 Re1 37. Bd5 Re2+ 38. Kh3 Bb2 39. Rc7+ Kh8 40. Nf7+
+Kg7 41. Ne5+ Kh6 42. Ng4+ Kh5 43. Rxh7# 1-0

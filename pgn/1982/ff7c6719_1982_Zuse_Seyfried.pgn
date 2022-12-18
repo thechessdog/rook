@@ -1,0 +1,25 @@
+[Event "FRG Tch"]
+[Site "FRG Tch"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Zuse"]
+[Black "Seyfried"]
+[Result "0-1"]
+[ECO "B40"]
+[Opening "Sicilian"]
+[Variation "Anderssen variation"]
+[HashCode "ff7c6719"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Be2 Bb4 7. Qd3 O-O
+8. O-O Nxd4 9. Qxd4 Bxc3 10. bxc3 e5 11. Qd3 d5 12. Rd1 Be6 13. exd5 Qxd5
+14. Qg3 Qe4 15. Bf3 Qxc2 16. Qxe5 Bd5 17. Rd2 Rfe8 18. Rxc2 Rxe5 19. Bf4
+Re6 20. Bxd5 Nxd5 21. Bg3 Rc8 22. Rd1 g6 23. c4 Nb6 24. h3 Rxc4 25. Rxc4
+Nxc4 26. Rd7 Re1+ 27. Kh2 Rb1 28. Rc7 Rb4 29. a3 Ra4 30. Rxb7 Rxa3 31. Rb4
+Na5 32. Bf4 h5 33. Bg5 Nc6 34. Rb7 Ra5 35. Rc7 Rxg5 36. Rxc6 a5 37. Ra6 h4
+38. g3 Kg7 39. gxh4 Rf5 40. Kg3 Kh6 41. f4 Rb5 42. Ra8 Rb3+ 43. Kg2 Ra3 44.
+Ra7 Kg7 45. Ra6 Kf8 46. h5 gxh5 47. Rh6 Ra2+ 48. Kg3 Ra3+ 49. Kh4 Rf3 50.
+Rxh5 Rxf4+ 51. Kg3 Ra4 52. Rg5 Ra1 53. Kh4 a4 54. Rg3 a3 55. Kg5 a2 56. Rg2
+Ke7 57. Re2+ Kd6 58. Rg2 Kd5 59. Kg4 Ke4 60. Re2+ Kd3 61. Rg2 Ke3 62. Rg3+
+Kf2 63. Rf3+ Ke2 0-1
+

@@ -1,0 +1,17 @@
+[Event "Pittsburgh"]
+[Site "Pittsburgh"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Lee, Francis Joseph"]
+[Black "Kress, Roy"]
+[Result "0-1"]
+[ECO "A32"]
+[Opening "English"]
+[Variation "symmetrical variation"]
+[HashCode "c3a13e52"]
+[Epoch "Rook"]
+[WhiteCountry "ENG"]
+
+1. d4 Nf6 2. c4 c5 3. Nf3 cxd4 4. Nxd4 e6 5. Bg5 Bc5 6. Nb3 Bxf2+ 7. Kxf2 Ne4+
+8. Kg1 Qxg5 9. Qd4 f5 10. Nc3 Nxc3 11. Qxc3 O-O 12. e3 Nc6 13. Nd2 f4 14. exf4
+Qc5+ 15. Qe3 Qxe3# 0-1

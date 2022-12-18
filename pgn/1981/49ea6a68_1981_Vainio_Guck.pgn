@@ -1,0 +1,16 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Vainio, Veli"]
+[Black "Guck, Gunter"]
+[Result "1-0"]
+[ECO "A57"]
+[Opening "Benko gambit half accepted"]
+[HashCode "49ea6a68"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. e3 g6 6. Nc3 Bg7 7. e4 d6 8. Nf3
+O-O 9. a4 e6 10. dxe6 fxe6 11. Bg5 Qa5 12. Bd2 Qb4 13. Qc2 axb5 14. Bxb5
+Bb7 15. Ng5 Nfd7 16. Nd1 1-0
+

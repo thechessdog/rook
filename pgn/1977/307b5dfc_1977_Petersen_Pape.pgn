@@ -1,0 +1,17 @@
+[Event "Denmark"]
+[Site "Denmark"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Petersen, HE."]
+[Black "Pape, Rasmus"]
+[Result "0-1"]
+[ECO "A40"]
+[Opening "Queen's pawn"]
+[Variation "Charlick (Englund) gambit"]
+[HashCode "307b5dfc"]
+[Epoch "Rook"]
+[BlackID "1408950"]
+[BlackCountry "DEN"]
+
+1. d4 e5 2. dxe5 Nc6 3. Nf3 Qe7 4. Bg5 Qb4+ 5. Nbd2 Qxb2 6. e3 Nxe5 7. Nxe5
+Qxe5 8. Bf4 Qc3 9. Bc4 Bb4 10. a3 Ba5 11. e4 Qxc4 0-1

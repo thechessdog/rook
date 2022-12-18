@@ -1,0 +1,19 @@
+[Event "Lone Pine"]
+[Site "Lone Pine"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Seirawan, Yasser"]
+[Black "Browne, Walter S"]
+[Result "0-1"]
+[ECO "A27"]
+[Opening "English"]
+[Variation "three knights system"]
+[HashCode "78b1dd2e"]
+[Epoch "Rook"]
+[BlackCountry "USA"]
+[WhiteID "2000032"]
+[WhiteCountry "USA"]
+
+1. c4 e5 2. Nc3 Nc6 3. Nf3 f5 4. d4 e4 5. Ng5 h6 6. Nh3 g5 7. f3 exf3 8. exf3
+Bg7 9. d5 Qe7+ 10. Kd2 Nd4 11. Bd3 Kd8 12. Ng1 b5 13. Nge2 bxc4 14. Bxc4 Qc5
+15. Kd3 Rb8 16. Be3 Qxc4+ 17. Kxc4 Ba6+ 18. Nb5 Nxb5 0-1

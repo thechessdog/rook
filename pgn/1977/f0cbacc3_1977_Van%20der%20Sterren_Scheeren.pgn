@@ -1,0 +1,29 @@
+[Event "IBM-B"]
+[Site "Amsterdam II"]
+[Date "1977.07.01"]
+[Round "6"]
+[White "Van der Sterren, Paul"]
+[Black "Scheeren, Peter"]
+[Result "0-1"]
+[ECO "C90"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Pilnik variation"]
+[HashCode "f0cbacc3"]
+[Epoch "Rook"]
+[WhiteID "1000071"]
+[WhiteCountry "NED"]
+[BlackID "1000136"]
+[BlackCountry "NED"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. d3 b5 6. Bb3 Be7 7. O-O d6 8. c3
+O-O 9. Re1 Na5 10. Bc2 c5 11. Nbd2 Nd7 12. a4 b4 13. cxb4 cxb4 14. b3 Nc5 15.
+Bb2 Bf6 16. d4 exd4 17. Nxd4 Re8 18. Nf1 Bb7 19. Ng3 g6 20. Qd2 Qb6 21. Rab1
+Rad8 22. Nh5 gxh5 23. Nf5 Re6 24. Nh6+ Kf8 25. Qf4 Ke7 26. Bxf6+ Rxf6 27. Qg5
+Nd7 28. Nf5+ Ke8 29. e5 dxe5 30. Qg8+ Nf8 31. Rxe5+ Kd7 32. Rd1+ Kc8 33. Rxd8+
+Qxd8 34. Rxa5 Qxa5 35. Qxf8+ Qd8 36. Qxb4 Kb8 37. h3 Ka8 38. Ne3 Qb6 39. Qh4
+Qc6 40. Qxh5 Re6 41. Qe2 Qxg2+ 42. Nxg2 Rxe2 43. Bxh7 Rb2 44. Ne3 Rxb3 45. Bc2
+Rb4 46. Kh2 Rf4 47. Nd1 f5 48. a5 Bc6 49. Kg3 Rd4 50. h4 Rg4+ 51. Kh3 Bg2+ 52.
+Kh2 Be4 53. Ne3 Rxh4+ 54. Kg3 Rh5 55. Bd1 Rh1 56. Kf4 Ka7 57. Bb3 Rh3 58. Bd1
+Rh1 59. Bb3 Rb1 60. Be6 Rb5 61. Nxf5 Bd5 62. Ke5 Bxe6+ 63. Kxe6 Rxa5 64. Ne7
+Ra4 65. Nd5 Kb7 66. Kd6 Ra2 67. f4 Rf2 68. Ke6 Kc6 69. Ne7+ Kc5 70. f5 a5 71.
+f6 Rxf6+ 72. Kxf6 a4 0-1

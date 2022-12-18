@@ -1,0 +1,17 @@
+[Event "Tampere ch"]
+[Site "Tampere ch"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Heinola, Kari P."]
+[Black "Ervelius, A."]
+[Result "1-0"]
+[ECO "C41"]
+[Opening "Philidor's defence"]
+[HashCode "61be8175"]
+[Epoch "Rook"]
+[WhiteID "503495"]
+[WhiteCountry "FIN"]
+
+1. e4 e5 2. Nf3 d6 3. d4 Nc6 4. dxe5 Nxe5 5. Nxe5 dxe5 6. Qxd8+ Kxd8 7. Bc4 Be6
+8. Bxe6 fxe6 9. Nc3 Nf6 10. Bg5 Bb4 11. O-O-O+ Ke8 12. Nb5 Nxe4 13. Nxc7+ Kf7
+14. Nxa8 Nxf2 15. Rhf1 Kg6 16. Rxf2 Kxg5 17. Nc7 Rc8 18. Rd7 Bf8 19. Nxe6+ 1-0

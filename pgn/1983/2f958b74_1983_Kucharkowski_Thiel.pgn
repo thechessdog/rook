@@ -1,0 +1,15 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Kucharkowski"]
+[Black "Thiel"]
+[Result "1-0"]
+[ECO "A00"]
+[Opening "Polish (Sokolsky) opening"]
+[HashCode "2f958b74"]
+[Epoch "Rook"]
+
+1. b4 e5 2. Bb2 f6 3. e4 Bxb4 4. Bc4 Ne7 5. Qh5+ Ng6 6. f4 exf4 7. a3 Bd6
+8. Nf3 Nc6 9. Nh4 1-0
+

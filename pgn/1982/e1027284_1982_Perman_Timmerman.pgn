@@ -1,0 +1,18 @@
+[Event "corr EUR/M"]
+[Site "corr EUR/M"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Perman, T."]
+[Black "Timmerman, A."]
+[Result "1-0"]
+[ECO "E63"]
+[Opening "King's Indian"]
+[Variation "fianchetto, Panno variation"]
+[HashCode "e1027284"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. Nf3 g6 3. g3 Bg7 4. Bg2 O-O 5. O-O d6 6. c4 Nc6 7. Nc3 a6 8.
+d5 Na5 9. Nd2 c5 10. Rb1 Nd7 11. Qc2 Ne5 12. b3 Rb8 13. h3 b5 14. f4 Nd7
+15. Bb2 f5 16. e4 bxc4 17. bxc4 Nb6 18. Nd1 Bxb2 19. Nxb2 Bd7 20. Rbe1 fxe4
+21. Nxe4 1-0
+

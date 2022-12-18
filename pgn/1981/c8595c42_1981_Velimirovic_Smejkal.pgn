@@ -1,0 +1,22 @@
+[Event "Vrsac"]
+[Site "Vrsac"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Velimirovic, Dragoljub"]
+[Black "Smejkal, Jan"]
+[Result "0-1"]
+[ECO "C44"]
+[Opening "Ponziani"]
+[Variation "Jaenisch counter-attack"]
+[HashCode "c8595c42"]
+[Epoch "Rook"]
+[BlackID "300020"]
+[WhiteCountry "SRB"]
+[BlackCountry "CZE"]
+
+1. e4 e5 2. Nf3 Nc6 3. c3 Nf6 4. d4 Nxe4 5. d5 Ne7 6. Nxe5 Ng6 7. Qd4 Qf6 8.
+Qxe4 Qxe5 9. Nd2 d6 10. Qxe5+ dxe5 11. Bb5+ Bd7 12. Bxd7+ Kxd7 13. Nc4 Bd6 14.
+Be3 f5 15. g3 f4 16. Bd2 Rae8 17. Nxd6 cxd6 18. O-O-O Rhf8 19. Rhe1 e4 20. gxf4
+Nxf4 21. Bxf4 Rxf4 22. Re2 Rh4 23. Rd4 Rxh2 24. Rb4 b6 25. Ra4 a5 26. b4 Rf8
+27. Kd2 Rfxf2 28. Rxf2 Rxf2+ 29. Ke3 Rf3+ 30. Kxe4 Rxc3 31. bxa5 b5 32. Rb4
+Rc4+ 33. Rxc4 bxc4 0-1

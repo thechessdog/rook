@@ -1,0 +1,17 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Bullert"]
+[Black "Otto, N."]
+[Result "1-0"]
+[ECO "C00"]
+[Opening "French"]
+[Variation "Chigorin variation"]
+[HashCode "10641303"]
+[Epoch "Rook"]
+
+1. e4 e6 2. Qe2 c5 3. g3 Nc6 4. Bg2 d6 5. d3 g6 6. Nh3 Bg7 7. O-O b5 8. c3
+Bb7 9. f4 Nge7 10. f5 Nc8 11. fxe6 fxe6 12. Ng5 Bf6 13. Nxe6 Qe7 14. Bh3
+Nb6 15. Na3 a6 16. Rxf6 1-0
+

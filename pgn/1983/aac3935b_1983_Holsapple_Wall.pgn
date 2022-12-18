@@ -1,0 +1,18 @@
+[Event "Dayton,OH"]
+[Site "Dayton,OH"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Holsapple, Boyd"]
+[Black "Wall, Bill"]
+[Result "0-1"]
+[ECO "B16"]
+[Opening "Caro-Kann"]
+[Variation "Bronstein-Larsen variation"]
+[HashCode "aac3935b"]
+[Epoch "Rook"]
+[BlackCountry "USA"]
+[WhiteCountry "USA"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ gxf6 6. c3 Bf5 7. Nf3 Qc7 8.
+Be2 Nd7 9. O-O O-O-O 10. a4 e6 11. Qb3 Rg8 12. Re1 Bd6 13. g3 h5 14. Nh4 Bh3
+15. Bxh5 Bxg3 16. fxg3 Rxg3+ 17. hxg3 Qxg3+ 18. Kh1 Qxe1+ 19. Kh2 Qxh4 0-1

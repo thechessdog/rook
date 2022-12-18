@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Schafier"]
+[Black "Sarran"]
+[Result "0-1"]
+[ECO "A57"]
+[Opening "Benko gambit half accepted"]
+[HashCode "f951ebdb"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. e3 g6 6. Nc3 Bg7 7. Qb3 O-O 8. a4
+e6 9. Ra3 Bb7 10. Bc4 exd5 11. Nxd5 axb5 12. Nxf6+ Bxf6 13. Bd5 Bxd5 14.
+Qxd5 Rxa4 15. Rxa4 bxa4 16. Qxc5 Nc6 17. Ne2 Qa5+ 18. Qxa5 Nxa5 19. Nd4 Nb3
+20. Ke2 Rc8 21. Bd2 Nxd4+ 22. exd4 Bxd4 23. Rc1 Re8+ 24. Kf3 Bxb2 25. Rc7
+Ra8 0-1
+

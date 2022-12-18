@@ -1,0 +1,20 @@
+[Event "corr ch-BRD"]
+[Site "corr ch-BRD"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Repp"]
+[Black "Bolte, D."]
+[Result "0-1"]
+[ECO "C45"]
+[Opening "Scotch"]
+[Variation "Potter variation"]
+[HashCode "dc5bca4e"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Bc5 5. Nb3 Be7 6. Bd3 Nf6 7. f4 d5
+8. e5 Bg4 9. Qd2 Nh5 10. O-O g5 11. Be2 Qd7 12. f5 Nxe5 13. Bxg4 Nxg4 14.
+Qd4 Nhf6 15. h3 c5 16. Qd1 Ne5 17. Bxg5 O-O-O 18. N1d2 Rhg8 19. Bxf6 Bxf6
+20. Nxc5 Qc6 21. Ncb3 Rg3 22. Nf3 Rdg8 23. Ne1 Qb6+ 24. Rf2 Rxh3 25. Nd4
+Ng4 26. Rf4 Be5 27. Rxg4 Rxg4 28. Qxg4 Bxd4+ 29. Kf1 Qb5+ 30. Nd3 Rh1+ 31.
+Ke2 Qe8+ 0-1
+

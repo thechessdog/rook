@@ -1,0 +1,20 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Nyman, Karl"]
+[Black "Paavilainen, Jorma"]
+[Result "1-0"]
+[ECO "E70"]
+[Opening "King's Indian"]
+[Variation "4.e4"]
+[HashCode "0594f602"]
+[Epoch "Rook"]
+[WhiteID "515299"]
+[BlackID "500232"]
+[WhiteCountry "FIN"]
+[BlackCountry "FIN"]
+
+1. c4 Nf6 2. Nc3 g6 3. d4 Bg7 4. e4 O-O 5. f3 c5 6. dxc5 b6 7. cxb6 Qxb6 8. Nh3
+Nc6 9. Nf2 e6 10. Be2 Ba6 11. O-O Rad8 12. Kh1 d5 13. cxd5 exd5 14. exd5 Nxd5
+15. Nxd5 Rxd5 16. Qxd5 Bxe2 17. Bg5 Bxb2 18. Ng4 Bxf1 19. Rxf1 Qa5 20. Bf6 1-0

@@ -1,0 +1,20 @@
+[Event "corr FIN-SCO"]
+[Site "corr FIN-SCO"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Koskinen, Pertti"]
+[Black "Pyrich, George"]
+[Result "1-0"]
+[ECO "B96"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7.f4"]
+[HashCode "3720f658"]
+[Epoch "Rook"]
+[BlackID "2400472"]
+[BlackCountry "SCO"]
+
+1. e4 c5 2. Nf3 d6 3. d4 Nf6 4. Nc3 cxd4 5. Nxd4 a6 6. Bg5 e6 7. f4 Qc7 8. Qf3
+b5 9. Bxf6 gxf6 10. e5 Bb7 11. Qh5 Kd8 12. O-O-O d5 13. Ne4 fxe5 14. fxe5 Nc6
+15. Ng5 Nxd4 16. Nxf7+ Kc8 17. Rxd4 Rg8 18. Ng5 Qxe5 19. Qe8+ Kc7 20. Qf7+ Kb6
+21. Nf3 Bh6+ 22. Kb1 Qe3 23. Rd1 Rg7 24. Qf6 Bc8 25. g3 Rc7 26. Re1 Bg7 27.
+Rxe3 Bxf6 28. Bd3 Rg7 29. Rhe1 Kc5 30. c3 Raa7 31. Rxe6 Bxe6 32. Rxe6 1-0

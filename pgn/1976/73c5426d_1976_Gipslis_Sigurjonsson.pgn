@@ -1,0 +1,21 @@
+[Event "IBM"]
+[Site "Amsterdam"]
+[Date "1976.07.01"]
+[Round "9"]
+[White "Gipslis, Aivars"]
+[Black "Sigurjonsson, Gudmundur"]
+[Result "1/2-1/2"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Byrne (English) attack"]
+[HashCode "73c5426d"]
+[Epoch "Rook"]
+[BlackID "2300079"]
+[BlackCountry "ISL"]
+[WhiteCountry "LVA"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e6 7. f4 b5 8. e5
+dxe5 9. fxe5 Nd5 10. Nxd5 Qxd5 11. Be2 Qxe5 12. Qd2 Bb7 13. Bf4 Qc5 14. O-O-O
+Be7 15. Nb3 Qc8 16. Bd6 Qd8 17. Qb4 Bxd6 18. Rxd6 Qg5+ 19. Rd2 Qe7 20. Nc5 O-O
+21. Rhd1 Bxg2 22. Nxa6 Qxb4 23. Nxb4 Nc6 24. Bxb5 Nxb4 25. Rxg2 Rxa2 26. Rd7
+Ra1+ 27. Kd2 Rb1 28. b3 g6 29. Rf2 Nd5 30. Bc6 Nb6 31. Rc7 Nc8 32. Kc3 1/2-1/2

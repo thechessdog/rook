@@ -1,0 +1,19 @@
+[Event "Moscow"]
+[Site "Moscow"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Muratov"]
+[Black "Dolmatov, Sergey"]
+[Result "1-0"]
+[ECO "E51"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 e8g8, 5.Nf3 d7d5"]
+[HashCode "c69a8f1a"]
+[Epoch "Rook"]
+[BlackID "4100093"]
+[BlackCountry "RUS"]
+
+1. c4 Nf6 2. Nc3 e6 3. Nf3 d5 4. d4 Bb4 5. e3 O-O 6. Bd3 Nc6 7. O-O h6 8. h3 a6
+9. cxd5 Nxd5 10. Qc2 Bd6 11. a3 Nf6 12. b4 e5 13. dxe5 Nxe5 14. Nxe5 Bxe5 15.
+f4 Bxc3 16. Qxc3 b6 17. Bb2 Bb7 18. e4 c5 19. Rad1 Qe7 20. f5 cxb4 21. axb4
+Rfe8 22. Bb1 a5 23. Qg3 Rad8 24. bxa5 bxa5 25. Ba3 1-0

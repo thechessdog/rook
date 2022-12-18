@@ -1,0 +1,16 @@
+[Event "Columbus,OH"]
+[Site "Columbus,OH"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Wheeler, Dwight"]
+[Black "Wall, Bill"]
+[Result "0-1"]
+[ECO "D00"]
+[Opening "Queen's pawn"]
+[Variation "Chigorin variation"]
+[HashCode "8293a2cb"]
+[Epoch "Rook"]
+[BlackCountry "USA"]
+
+1. d4 d5 2. Nc3 Nf6 3. Bf4 a6 4. g3 e6 5. Nf3 Bb4 6. a3 Ba5 7. Bg2 Ne4 8. Qd3
+Bd7 9. Qe3 f6 10. O-O Bxc3 11. bxc3 g5 12. Nd2 gxf4 13. Qxf4 Nxc3 0-1

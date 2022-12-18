@@ -1,0 +1,23 @@
+[Event "Berlin tt"]
+[Site "Berlin-West"]
+[Date "1980.??.??"]
+[Round "?"]
+[White "Delaney, John"]
+[Black "Lau, Ralf"]
+[Result "0-1"]
+[ECO "B96"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7.f4"]
+[HashCode "b72d9b07"]
+[Epoch "Rook"]
+[WhiteID "2500060"]
+[BlackID "4600134"]
+[WhiteCountry "IRL"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qc7 8. Qf3
+b5 9. Bxf6 gxf6 10. e5 Bb7 11. Qh5 dxe5 12. Nxe6 Qb6 13. Nxf8 Qe3+ 14. Qe2 Qxf4
+15. Nxh7 Rxh7 16. Qf2 Qxf2+ 17. Kxf2 f5 18. Rd1 Nd7 19. Nd5 Rc8 20. c3 Rc5 21.
+Ne3 Rh4 22. a3 Nf6 23. g3 Ne4+ 24. Ke1 Nxc3 25. bxc3 Re4 26. Rd3 Rxe3+ 27. Rxe3
+Bxh1 28. Kd2 Ke7 29. h4 Kf6 30. Rd3 Bd5 31. Bh3 e4 32. Re3 Ke5 33. Re1 Rc8 34.
+Rf1 Be6 35. Ra1 Rd8+ 36. Kc2 0-1

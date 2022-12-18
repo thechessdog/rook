@@ -1,0 +1,20 @@
+[Event "IBM-B"]
+[Site "Amsterdam II"]
+[Date "1977.07.01"]
+[Round "2"]
+[White "Ftacnik, Lubomir"]
+[Black "Diesen, Mark Carl"]
+[Result "1-0"]
+[ECO "A17"]
+[Opening "English"]
+[Variation "Nimzo-English opening"]
+[HashCode "5277ef4d"]
+[Epoch "Rook"]
+[WhiteID "14900017"]
+[WhiteCountry "SVK"]
+[BlackCountry "USA"]
+
+1. c4 Nf6 2. Nc3 e6 3. Nf3 Bb4 4. Qc2 O-O 5. g3 c5 6. a3 Ba5 7. Bg2 Nc6 8. O-O
+Qe7 9. Rd1 Bxc3 10. Qxc3 e5 11. e3 e4 12. Ng5 h6 13. Nh3 d6 14. d4 exd3 15. Nf4
+Ne5 16. f3 b5 17. cxb5 c4 18. b3 Bb7 19. e4 g5 20. bxc4 gxf4 21. gxf4 Ned7 22.
+Bb2 Kg7 23. Qxd3 Rg8 24. Qxd6 Kf8 25. c5 Qxd6 26. Rxd6 Ke7 27. Rad1 1-0

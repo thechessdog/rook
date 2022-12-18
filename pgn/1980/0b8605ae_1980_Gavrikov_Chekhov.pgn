@@ -1,0 +1,20 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Gavrikov, Viktor"]
+[Black "Chekhov, Valery A"]
+[Result "1/2-1/2"]
+[ECO "B99"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7...Be7 main line"]
+[HashCode "0b8605ae"]
+[Epoch "Rook"]
+[BlackID "4100859"]
+[BlackCountry "RUS"]
+[WhiteID "24131849"]
+[WhiteCountry "RUS"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3
+Qc7 9. O-O-O Nbd7 10. Bd3 h6 11. Qh3 Rg8 12. Bxf6 Bxf6 13. Nxe6 Qc6 14. Bb5
+axb5 15. Nxb5 Rxa2 16. Rxd6 Qxe4 17. Rd4 Qc6 18. Nbc7+ Ke7 1/2-1/2

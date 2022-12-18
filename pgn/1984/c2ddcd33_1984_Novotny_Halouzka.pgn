@@ -1,0 +1,20 @@
+[Event "corr ch-CSSR"]
+[Site "corr ch-CSSR"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Nowotny, Heinz"]
+[Black "Halouzka"]
+[Result "1-0"]
+[ECO "B96"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Polugayevsky variation"]
+[HashCode "c2ddcd33"]
+[Epoch "Rook"]
+[WhiteID "1602470"]
+[WhiteCountry "AUT"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 b5 8. e5
+dxe5 9. fxe5 Qc7 10. exf6 Qe5+ 11. Be2 Qxg5 12. O-O Qe5 13. Kh1 Ra7 14. Bd3 Bb7
+15. fxg7 Qxg7 16. Be4 Be7 17. Nxe6 fxe6 18. Qh5+ Kd8 19. Rf7 Qg8 20. Qe5 Nd7
+21. Qxe6 Qe8 22. Rd1 Bxe4 23. Nxe4 Bb4 24. Qb6+ Kc8 25. Qxa7 Qxf7 26. Qxa6+ Kc7
+27. Nf6 1-0

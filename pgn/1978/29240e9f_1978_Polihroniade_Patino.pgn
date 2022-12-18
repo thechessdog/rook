@@ -1,0 +1,17 @@
+[Event "Buenos Aires olm"]
+[Site "Buenos Aires olm"]
+[Date "1978.10.01"]
+[Round "1"]
+[White "Polihroniade, Elisabeta"]
+[Black "Patino, Robert"]
+[Result "1-0"]
+[ECO "B42"]
+[Opening "Sicilian"]
+[Variation "Kan, 5.Bd3"]
+[HashCode "29240e9f"]
+[Epoch "Rook"]
+[WhiteCountry "ROU"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Nf6 6. O-O d6 7. Nc3 Be7 8. Be3
+b5 9. f4 Bb7 10. Qf3 O-O 11. g4 Nbd7 12. g5 Ne8 13. Qh3 Nc5 14. a3 g6 15. Qh6
+Ng7 16. f5 exf5 17. exf5 1-0

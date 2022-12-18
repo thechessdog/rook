@@ -1,0 +1,19 @@
+[Event "corr WER/M"]
+[Site "corr WER/M"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Maes"]
+[Black "Packroff"]
+[Result "0-1"]
+[ECO "D84"]
+[Opening "Gruenfeld"]
+[Variation "Gruenfeld gambit accepted"]
+[HashCode "e1cd6b93"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Bf4 Bg7 5. e3 O-O 6. cxd5 Nxd5 7. Nxd5 Qxd5
+8. Bxc7 Bf5 9. Ne2 Na6 10. Nc3 Qc6 11. Bg3 Rac8 12. f3 Rfd8 13. Bf2 Nb4 14.
+e4 Bxd4 15. Bxd4 Rxd4 16. Qb1 Be6 17. a3 Na6 18. Be2 Nc5 19. Nb5 Nb3 20.
+Nxd4 Nxd4 21. Bd1 Qb6 22. b4 Nc2+ 23. Kf1 Bc4+ 24. Be2 Bxe2+ 25. Kxe2 Qe3+
+0-1
+

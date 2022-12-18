@@ -1,0 +1,17 @@
+[Event "corr GB"]
+[Site "corr GB"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Deery, T."]
+[Black "Faldon, D."]
+[Result "0-1"]
+[ECO "C40"]
+[Opening "Latvian"]
+[Variation "Polerio variation"]
+[HashCode "04aa78e3"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 f5 3. Bc4 fxe4 4. Nxe5 d5 5. Qh5+ g6 6. Nxg6 hxg6 7. Qxg6+
+Kd7 8. Qf5+ Kc6 9. Bxd5+ Qxd5 10. Qxf8 e3 11. Qe8+ Bd7 12. Qg6+ Be6 13.
+dxe3 Ne7 14. Qf6 Nd7 15. Qxe7 Nc5 16. f3 Qe5 17. f4 Qe4 18. Bd2 Qxg2 0-1
+

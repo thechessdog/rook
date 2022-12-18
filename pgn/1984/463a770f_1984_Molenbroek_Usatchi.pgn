@@ -1,0 +1,23 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Molenbroek, H."]
+[Black "Usatchi, M."]
+[Result "1-0"]
+[ECO "E88"]
+[Opening "King's Indian"]
+[Variation "Saemisch, orthodox, 7.d5 c6"]
+[HashCode "463a770f"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 e5 7. d5 c6 8. Bd3
+cxd5 9. cxd5 Ne8 10. Qd2 f5 11. exf5 gxf5 12. Nge2 Nd7 13. O-O Nc5 14. Bc2
+b6 15. f4 Bd7 16. b4 Na6 17. Rab1 e4 18. Nd4 Nac7 19. b5 Nf6 20. Nc6 Bxc6
+21. dxc6 Qe7 22. Nd5 Ncxd5 23. Bb3 Rf7 24. Bxd5 Nxd5 25. Qxd5 Kh8 26. Rbd1
+Rf6 27. a4 Rg8 28. Rf2 Rgf8 29. Rc2 Qc7 30. a5 bxa5 31. Qd4 Ra8 32. Qxa7
+Rxa7 33. b6 Kg8 34. bxc7 Rxc7 35. Bb6 Rc8 36. Bxa5 Kf7 37. c7 Rg6 38. Rc6
+Bf8 39. Kf2 Ke6 40. Rb1 Kd7 41. Rc2 Be7 42. Rb5 Ke6 43. Ke3 h5 44. Rb8 Rgg8
+45. Rxc8 Rxc8 46. Kd4 Bf8 47. Rc6 Kd7 48. Kd5 Re8 49. Rb6 Ra8 50. Rb5 e3
+51. Kc4 Re8 1-0
+

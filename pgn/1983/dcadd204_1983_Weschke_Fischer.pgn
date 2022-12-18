@@ -1,0 +1,15 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Weschke"]
+[Black "Fischer, Robert"]
+[Result "0-1"]
+[ECO "A45"]
+[Opening "Queen's pawn"]
+[Variation "Bronstein gambit"]
+[HashCode "dcadd204"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. g4 e5 3. g5 Ne4 4. dxe5 Bc5 5. e3 Qxg5 6. Nf3 Qe7 7. Rg1 f5 8. b3
+Bb4+ 9. Nbd2 Nc3 0-1

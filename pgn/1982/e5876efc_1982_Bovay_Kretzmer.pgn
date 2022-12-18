@@ -1,0 +1,18 @@
+[Event "corr USCCC"]
+[Site "corr USCCC"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Bovay, James"]
+[Black "Kretzmer, W."]
+[Result "1-0"]
+[ECO "A28"]
+[Opening "English"]
+[Variation "four knights system"]
+[HashCode "e5876efc"]
+[Epoch "Rook"]
+
+1. c4 Nf6 2. Nc3 e5 3. Nf3 Nc6 4. Qa4 d6 5. e3 Bd7 6. Qc2 Qe7 7. Nd5 Nxd5
+8. cxd5 Nb4 9. Qb3 c5 10. a3 e4 11. axb4 exf3 12. bxc5 fxg2 13. Bxg2 Qg5
+14. Qxb7 Qxg2 15. Qxa8+ Ke7 16. cxd6+ Kf6 17. Qd8+ Kg6 18. Qxd7 Qxh1+ 19.
+Ke2 Qxd5 20. Qg4+ Qg5 21. Qxg5+ 1-0
+

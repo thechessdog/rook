@@ -1,0 +1,17 @@
+[Event "corr ICA"]
+[Site "corr ICA"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Kaushansky, L."]
+[Black "Suzuki, W."]
+[Result "1-0"]
+[ECO "B06"]
+[Opening "Robatsch defence"]
+[Variation "Pseudo-Austrian attack"]
+[HashCode "09961d8d"]
+[Epoch "Rook"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. f4 c6 5. Nf3 b5 6. Bd3 Bg4 7. Be3 Qb6 8.
+Ne2 f5 9. exf5 gxf5 10. Ng3 Nh6 11. h3 Bxf3 12. Qxf3 Bxd4 13. Bxd4 Qxd4 14.
+Qh5+ Nf7 15. Nxf5 Qxf4 16. Ng7+ 1-0
+

@@ -1,0 +1,20 @@
+[Event "Pamporovo"]
+[Site "Pamporovo"]
+[Date "1981.01.01"]
+[Round "13"]
+[White "Lechtynsky, Jiri"]
+[Black "Velikov, Petar"]
+[Result "1/2-1/2"]
+[ECO "D15"]
+[Opening "QGD Slav"]
+[Variation "5.e3 (Alekhine variation)"]
+[HashCode "5dd7399b"]
+[Epoch "Rook"]
+[WhiteID "300217"]
+[WhiteCountry "CZE"]
+[BlackID "2900149"]
+[BlackCountry "FID"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. Nf3 dxc4 5. e3 b5 6. a4 b4 7. Na2 e6 8. Bxc4
+Nbd7 9. O-O Bb7 10. Bd2 a5 11. Nc1 Be7 12. Nb3 O-O 13. Qe2 c5 14. Rfc1 Qb6 15.
+Be1 Rfd8 16. Bb5 1/2-1/2

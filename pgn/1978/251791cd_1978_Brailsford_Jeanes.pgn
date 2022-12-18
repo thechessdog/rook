@@ -1,0 +1,17 @@
+[Event "corr GB"]
+[Site "corr GB"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Brailsford"]
+[Black "Jeanes, A."]
+[Result "0-1"]
+[ECO "C57"]
+[Opening "two knights defence"]
+[Variation "Wilkes Barre (Traxler) variation"]
+[HashCode "251791cd"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 Bc5 5. O-O d5 6. exd5 Bg4 7. Qe1 Nxd5
+8. d3 Bf5 9. Bf4 Nxf4 10. Nxf7 Qh4 11. Nxh8 Qg4 12. g3 Qf3 13. gxf4 Bh3 14.
+Qe4 Bxf2+ 0-1
+

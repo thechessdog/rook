@@ -1,0 +1,22 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Zehm"]
+[Black "Bluhm"]
+[Result "0-1"]
+[ECO "B93"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.f4"]
+[HashCode "c28647d3"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 e5 7. Nf3 Nbd7 8.
+Bc4 b5 9. Bd5 Rb8 10. a3 Be7 11. O-O O-O 12. Be3 Bb7 13. Bxb7 Rxb7 14. Qd2
+Nb6 15. Bxb6 Qxb6+ 16. Kh1 Rd8 17. Rad1 h6 18. Qe2 exf4 19. Nd4 d5 20. e5
+Ne4 21. Nxe4 dxe4 22. Qxe4 Rbd7 23. c3 Bg5 24. Rd3 Qc5 25. g3 fxg3 26. h4
+Qc4 27. hxg5 Rxd4 28. cxd4 Qc2 29. Qg2 Qxd3 30. Qf3 Qxf3+ 31. Rxf3 Rxd4 32.
+gxh6 Rh4+ 33. Kg2 Rxh6 34. Kxg3 Re6 35. Rf5 Kf8 36. Rh5 Rh6 37. Rf5 Ke7 38.
+Rf2 Rh5 39. Re2 Rf5 40. Kg4 g6 41. b4 Ke6 42. Rc2 Kxe5 43. Rc5+ Kd6 44. Rc8
+Rf6 45. Ra8 Kd5 46. Ra7 Kc4 47. Kg5 Rc6 48. Rxf7 Kb3 0-1
+

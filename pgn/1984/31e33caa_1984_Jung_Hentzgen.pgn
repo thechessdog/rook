@@ -1,0 +1,18 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Jung"]
+[Black "Hentzgen"]
+[Result "1-0"]
+[ECO "D86"]
+[Opening "Gruenfeld"]
+[Variation "exchange, classical variation"]
+[HashCode "31e33caa"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Bc4 O-O
+8. Ne2 Qd7 9. Qd3 Nc6 10. O-O Na5 11. Bb3 Nxb3 12. axb3 a5 13. Be3 b5 14.
+Ra2 a4 15. bxa4 bxa4 16. c4 Bb7 17. d5 Rfb8 18. Bd4 e5 19. Be3 f5 20. f3
+Bc8 21. Rfa1 Rb3 22. Qxb3 axb3 23. Rxa8 fxe4 24. fxe4 Qg4 25. Nc3 1-0
+

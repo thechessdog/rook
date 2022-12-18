@@ -1,0 +1,19 @@
+[Event "Reykjavik"]
+[Site "Reykjavik"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Haraldsson"]
+[Black "Bjarnason, Saevar"]
+[Result "0-1"]
+[ECO "E41"]
+[Opening "Nimzo-Indian"]
+[Variation "e3, Huebner variation"]
+[HashCode "28c36009"]
+[Epoch "Rook"]
+[BlackID "2300176"]
+[BlackCountry "ISL"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Nf3 Bxc3+ 6. bxc3 Nc6 7. Bd3 d6 8.
+O-O e5 9. Nd2 O-O 10. Nb3 e4 11. Be2 Qe7 12. a4 a5 13. f4 exf3 14. Bxf3 Ne4 15.
+Nd2 Nxc3 16. Qe1 Nb4 17. Nb3 Ne4 18. Bxe4 Qxe4 19. Qg3 Qg6 20. Qxg6 hxg6 21.
+dxc5 dxc5 22. Nxc5 b6 23. Ne4 Bf5 24. Nf2 Rfc8 25. e4 Be6 0-1

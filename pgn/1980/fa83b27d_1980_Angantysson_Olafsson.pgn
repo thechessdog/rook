@@ -1,0 +1,23 @@
+[Event "Reykjavik"]
+[Site "Reykjavik"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Angantysson, Haukur"]
+[Black "Olafsson, Helgi"]
+[Result "0-1"]
+[ECO "B51"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky (Nimzovich-Rossolimo, Moscow) attack"]
+[HashCode "fa83b27d"]
+[Epoch "Rook"]
+[BlackID "2300010"]
+[BlackCountry "ISL"]
+[WhiteCountry "ISL"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Nc6 4. O-O Bd7 5. Re1 Nf6 6. c3 a6 7. Ba4 c4 8. d4
+cxd3 9. Qxd3 g6 10. c4 Bg7 11. Nc3 O-O 12. Bxc6 Bxc6 13. Bg5 Nd7 14. Rac1 Rc8
+15. b4 b6 16. h4 h6 17. Bd2 Bb7 18. Nd5 e6 19. Nc3 Ne5 20. Nxe5 dxe5 21. Qe2
+Qxh4 22. Na4 Rcd8 23. Nxb6 Rd4 24. Be3 Rxe4 25. Nd7 Rg4 26. f3 Rg3 27. Bf2 e4
+28. Bxg3 Bd4+ 29. Qf2 Bxf2+ 30. Bxf2 Qd8 31. Nxf8 exf3 32. Nxe6 fxe6 33. Re5
+Kf7 34. Rce1 fxg2 35. Rxe6 Qd7 36. Rb6 Bf3 37. Bc5 Be2 38. Kf2 Qg4 39. Rb7+ Kf6
+40. Rb6+ 0-1

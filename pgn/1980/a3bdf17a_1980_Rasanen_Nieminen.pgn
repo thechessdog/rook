@@ -1,0 +1,24 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Rasanen, Seppo"]
+[Black "Nieminen, Veikko"]
+[Result "0-1"]
+[ECO "C81"]
+[Opening "Ruy Lopez"]
+[Variation "open, Howell attack"]
+[HashCode "a3bdf17a"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8.
+dxe5 Be6 9. Qe2 Na5 10. Rd1 Nc5 11. Be3 c6 12. Nbd2 Qc7 13. c3 Bf5 14. Nd4
+Bd3 15. Qg4 Qd7 16. Qxd7+ Kxd7 17. Bc2 Bxc2 18. Nxc2 Na4 19. b4 Nb7 20. Bd4
+c5 21. bxc5 Bxc5 22. Nf3 Bxd4 23. cxd4 Rac8 24. Rdc1 Nc3 25. Kf1 a5 26. Ne3
+b4 27. Nd1 Nxd1 28. Rxd1 Rc4 29. Rd3 a4 30. Rb1 Rhc8 31. Ke2 Na5 32. Nd2
+Nc6 33. Nxc4 dxc4 34. Rdd1 b3 35. Kd2 Nb4 36. axb3 c3+ 37. Ke2 a3 38. Ra1
+a2 39. Rdc1 Ke6 40. f4 Kd5 41. f5 Rc6 42. Ke3 c2 43. Re1 Rc3+ 44. Kd2 Rd3+
+45. Kc1 Rxb3 46. e6 fxe6 47. fxe6 Kxd4 48. Kd2 Rd3+ 49. Ke2 Re3+ 50. Kd2
+Rxe1 51. Rxe1 Nd3 52. e7 Nxe1 53. e8=Q c1=Q+ 54. Kxc1 a1=Q+ 55. Kd2 Qa5+
+56. Ke2 Nxg2 57. Qd7+ Qd5 58. Qa7+ Ke4 59. Qxg7 Qa2+ 0-1
+

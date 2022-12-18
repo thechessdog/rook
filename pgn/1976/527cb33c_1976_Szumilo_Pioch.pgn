@@ -1,0 +1,19 @@
+[Event "Poland"]
+[Site "Poland"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Szumilo, Witold"]
+[Black "Pioch, Thomas"]
+[Result "1-0"]
+[ECO "C69"]
+[Opening "Ruy Lopez"]
+[Variation "exchange, Bronstein variation"]
+[HashCode "527cb33c"]
+[Epoch "Rook"]
+[WhiteID "1106902"]
+[BlackID "4607449"]
+[WhiteCountry "POL"]
+[BlackCountry "GER"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O Qd6 6. d4 exd4 7. Nxd4 Bd7 8.
+c3 O-O-O 9. b4 Qg6 10. Nd2 Bg4 11. f3 Bh3 12. Qe2 c5 13. bxc5 Bxc5 1-0

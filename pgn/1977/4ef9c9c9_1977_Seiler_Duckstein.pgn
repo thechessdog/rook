@@ -1,0 +1,19 @@
+[Event "Lugano"]
+[Site "Lugano"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Seiler"]
+[Black "Dueckstein, Andreas"]
+[Result "0-1"]
+[ECO "C08"]
+[Opening "French"]
+[Variation "Tarrasch, open, 4.ed ed"]
+[HashCode "4ef9c9c9"]
+[Epoch "Rook"]
+[BlackID "1600168"]
+[BlackCountry "AUT"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. exd5 exd5 5. Bb5+ Nc6 6. Qe2+ Be7 7. dxc5 Nf6 8.
+Nb3 O-O 9. Be3 Re8 10. O-O-O a6 11. Bd3 Bd7 12. Nf3 a5 13. a4 Na7 14. Qd2 Nc8
+15. Bb5 Bxb5 16. axb5 a4 17. Na1 b6 18. c6 Nd6 19. Qd3 Nc4 20. Bd4 Ne4 21. b3
+axb3 22. cxb3 Nxf2 0-1

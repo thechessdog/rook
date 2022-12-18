@@ -1,0 +1,18 @@
+[Event "Berga"]
+[Site "Berga"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Estremera"]
+[Black "Ribera"]
+[Result "1-0"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...e6"]
+[HashCode "3561aa6c"]
+[Epoch "Rook"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 e6 6. Nf3 Be7 7. cxd5 Nxd5
+8. Bd3 O-O 9. O-O Nc6 10. Re1 Bf6 11. Be4 Qd6 12. a3 a6 13. Bc2 Nxc3 14.
+bxc3 Rd8 15. Ng5 Bxg5 16. Bxg5 Re8 17. Qh5 g6 18. Qh4 Bd7 19. Re3 e5 20.
+Bb3 Qf8 21. Rf3 Bf5 22. g4 Na5 23. gxf5 Nxb3 24. fxg6 1-0
+

@@ -1,0 +1,24 @@
+[Event "Hoogovens-B"]
+[Site "Wijk aan Zee II"]
+[Date "1976.01.01"]
+[Round "3"]
+[White "Farago, Ivan"]
+[Black "Boersma, Paul"]
+[Result "1-0"]
+[ECO "E45"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Bronstein (Byrne) variation"]
+[HashCode "5b6f0414"]
+[Epoch "Rook"]
+[WhiteID "700134"]
+[WhiteCountry "HUN"]
+[BlackID "1000411"]
+[BlackCountry "NED"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 b6 5. Ne2 Ba6 6. a3 Bxc3+ 7. Nxc3 d5 8. Qf3
+O-O 9. cxd5 exd5 10. Bxa6 Nxa6 11. O-O Re8 12. b4 c6 13. Bb2 Nc7 14. Rfc1 Qd7
+15. Rc2 Ne4 16. Rac1 Nd6 17. b5 Ncxb5 18. Nxb5 Nxb5 19. Rxc6 Re6 20. Rxe6 fxe6
+21. a4 Nd6 22. Ba3 Rc8 23. Rxc8+ Qxc8 24. Qf4 Nc4 25. Be7 Qe8 26. Qc7 Qxa4 27.
+h4 h5 28. Kh2 a5 29. Qc8+ Kf7 30. Qf8+ Kg6 31. g4 Qd7 32. gxh5+ Kh7 33. h6 Kxh6
+34. Qh8+ Kg6 35. h5+ Kf5 36. Qh7+ Kg4 37. Qxg7+ Kf3 38. h6 Nd2 39. h7 Nf1+ 40.
+Kg1 1-0

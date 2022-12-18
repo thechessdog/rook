@@ -1,0 +1,17 @@
+[Event "corr NLD-BEL tt"]
+[Site "corr NLD-BEL tt"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "De Smet, K."]
+[Black "Van der Werf, J."]
+[Result "1-0"]
+[ECO "C03"]
+[Opening "French"]
+[Variation "Tarrasch"]
+[HashCode "393d970f"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 f5 5. Ng5 Nf6 6. Bc4 Nd5 7. Qe2 Qe7
+8. N1h3 Qb4+ 9. Bd2 Qxb2 10. O-O Qxd4 11. c3 Qg4 12. f3 Qh4 13. Bxd5 Nc6
+14. Nxe6 Bxe6 15. Qxe6+ Ne7 16. Qf7+ 1-0
+

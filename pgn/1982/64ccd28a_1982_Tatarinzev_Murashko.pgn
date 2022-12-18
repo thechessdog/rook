@@ -1,0 +1,20 @@
+[Event "Gorki"]
+[Site "Gorki"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Tatarinzev"]
+[Black "Murashko, V."]
+[Result "1-0"]
+[ECO "B02"]
+[Opening "Alekhine's defence"]
+[HashCode "64ccd28a"]
+[Epoch "Rook"]
+
+1. e4 Nf6 2. e5 Nd5 3. Bc4 Nb6 4. Bb3 d5 5. exd6 exd6 6. d4 Be7 7. Nf3 O-O
+8. O-O Bg4 9. h3 Bh5 10. c3 Nc6 11. Nbd2 a5 12. Ne4 a4 13. Bc2 a3 14. bxa3
+d5 15. Ng3 Bg6 16. Bxg6 hxg6 17. Kh2 Bxa3 18. h4 Nc4 19. Rh1 Qd6 20. Kg1
+Bxc1 21. Qxc1 Qa3 22. Qf4 Qxc3 23. Rf1 Rxa2 24. h5 g5 25. Nxg5 Nxd4 26. h6
+Qxg3 27. Qxf7+ Rxf7 28. h7+ Kf8 29. h8=Q+ Ke7 30. Re1+ Ne2+ 31. Rxe2+ Rxe2
+32. fxg3 Ne3 33. Kh2 Ng4+ 34. Kh3 Nf2+ 35. Kh2 Ng4+ 36. Kh3 Nf2+ 37. Kh4
+Nxh1 38. Nxf7 Re4+ 39. Kg5 Kxf7 1-0
+

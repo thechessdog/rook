@@ -1,0 +1,20 @@
+[Event "Denmark"]
+[Site "Denmark"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Gasseholm, Finn"]
+[Black "Christensen, Tobias"]
+[Result "0-1"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "classical attack, Marshall variation"]
+[HashCode "232d43c5"]
+[Epoch "Rook"]
+[WhiteID "1402390"]
+[BlackID "1400673"]
+[WhiteCountry "DEN"]
+[BlackCountry "DEN"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Bd6 7. O-O Bg4 8.
+Nc3 Nxc3 9. bxc3 O-O 10. c4 dxc4 11. Bxc4 Bxf3 12. Qxf3 Qh4 13. g3 Qxd4 14.
+Qxb7 Qxc4 15. Qxa8 Nc6 16. Qb7 Rb8 17. Qxb8+ Nxb8 18. Rb1 Nc6 19. Re1 h6 0-1

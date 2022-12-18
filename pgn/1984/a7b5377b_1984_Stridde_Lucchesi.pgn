@@ -1,0 +1,19 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Stridde"]
+[Black "Lucchesi"]
+[Result "1-0"]
+[ECO "A18"]
+[Opening "English"]
+[Variation "Mikenas-Carls variation"]
+[HashCode "a7b5377b"]
+[Epoch "Rook"]
+
+1. c4 Nf6 2. Nc3 e6 3. e4 d5 4. cxd5 exd5 5. e5 Ne4 6. d4 Bb4 7. Qa4+ Nc6
+8. Bb5 Bd7 9. Ne2 O-O 10. O-O Nxc3 11. bxc3 Be7 12. f4 f6 13. Qb3 Be6 14.
+f5 Bf7 15. e6 Be8 16. Nf4 Na5 17. Qxd5 Qxd5 18. Nxd5 Bd6 19. Bxe8 Raxe8 20.
+Bf4 Bxf4 21. Nxf4 c6 22. Rae1 Nc4 23. Re2 Re7 24. h3 c5 25. Nd5 Ree8 26. e7
+Rf7 27. Rfe1 1-0
+

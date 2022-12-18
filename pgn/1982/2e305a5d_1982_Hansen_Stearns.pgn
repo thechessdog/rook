@@ -1,0 +1,18 @@
+[Event "Berkeley"]
+[Site "Berkeley"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Hansen, Bjarne"]
+[Black "Stearns, A."]
+[Result "0-1"]
+[ECO "E32"]
+[Opening "Nimzo-Indian"]
+[Variation "classical variation"]
+[HashCode "2e305a5d"]
+[Epoch "Rook"]
+[WhiteID "1403176"]
+[WhiteCountry "DEN"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 O-O 5. Bg5 h6 6. Bf4 d6 7. e3 b6 8. Bd3
+Bb7 9. e4 e5 10. dxe5 dxe5 11. Be3 Ng4 12. Bd2 Bc5 13. Nh3 Nc6 14. a3 Qh4 15.
+O-O f5 16. exf5 Nd4 17. Qd1 Nf3+ 18. Kh1 Nxd2 19. Qxd2 Qxh3 0-1

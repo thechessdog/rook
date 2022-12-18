@@ -1,0 +1,16 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Leeners, H."]
+[Black "Pohling, G."]
+[Result "0-1"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack"]
+[HashCode "c4476e52"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 Ne4 4. Nxe4 dxe4 5. f3 Qd5 6. Qd2 Nc6 7. c3 Bf5
+8. e3 f6 9. Bh4 e5 10. Ne2 O-O-O 11. Ng3 exd4 12. Nxf5 Qxf5 13. exd4 Bd6
+14. Be2 exf3 15. gxf3 Bf4 16. Qd3 Qh3 17. Bf2 Rhe8 18. Rg1 Ne5 0-1
+

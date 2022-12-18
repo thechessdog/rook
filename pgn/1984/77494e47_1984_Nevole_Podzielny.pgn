@@ -1,0 +1,22 @@
+[Event "corr EU/M/GT"]
+[Site "corr EU/M/GT"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Nevole, V."]
+[Black "Podzielny, Karl-Heinz"]
+[Result "1-0"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Nimzovich (knight's tour) variation"]
+[HashCode "77494e47"]
+[Epoch "Rook"]
+[BlackID "4600215"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. Nd2 Bg7 8. e4
+O-O 9. Be2 Qe7 10. O-O a6 11. a4 Nbd7 12. Re1 b6 13. Qc2 Rb8 14. Rb1 Re8 15. b3
+Ne5 16. Nf1 Qc7 17. Bf4 h6 18. Ng3 Kh7 19. Bf1 Qd7 20. f3 b5 21. axb5 axb5 22.
+b4 c4 23. Ra1 Qc7 24. Ra5 Bd7 25. Be3 Rb7 26. Kh1 Rc8 27. Ra3 Ng8 28. f4 Ng4
+29. Bg1 h5 30. h3 N4h6 31. Be2 Qd8 32. Bf3 Qh4 33. Bh2 Nf6 34. Qd2 Ne8 35. Nf1
+Rbb8 36. Bg3 Qe7 37. Ne3 Ra8 38. Rxa8 Rxa8 39. Nc2 Ra7 40. Bf2 Ra6 41. Kh2 Bf6
+42. Be3 Nc7 43. g3 Bg7 44. Bd4 Qf8 45. Re2 Qc8 46. Bxg7 f6 47. Bxh6 1-0

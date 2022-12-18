@@ -1,0 +1,18 @@
+[Event "Sweden"]
+[Site "Sweden"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Olsson, Ake 1936"]
+[Black "Renman, Nils-Gustaf"]
+[Result "0-1"]
+[ECO "C15"]
+[Opening "French"]
+[Variation "Winawer (Nimzovich) variation"]
+[HashCode "b88be8af"]
+[Epoch "Rook"]
+[WhiteID "1732439"]
+[WhiteCountry "SWE"]
+[BlackCountry "SWE"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. Bd3 c5 5. e5 Ne7 6. Qg4 Nbc6 7. a3 Qa5 8. Ne2
+Bxc3+ 9. bxc3 c4 0-1

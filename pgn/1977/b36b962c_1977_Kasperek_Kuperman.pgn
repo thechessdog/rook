@@ -1,0 +1,17 @@
+[Event "corr WER/H"]
+[Site "corr WER/H"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Kasperek"]
+[Black "Kuperman"]
+[Result "1-0"]
+[ECO "C63"]
+[Opening "Ruy Lopez"]
+[Variation "Schliemann defence, Berger variation"]
+[HashCode "b36b962c"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 f5 4. Nc3 fxe4 5. Nxe4 d5 6. Nxe5 dxe4 7. Nxc6
+bxc6 8. Bxc6+ Bd7 9. Qh5+ Ke7 10. Qe5+ Be6 11. f4 exf3 12. O-O Rb8 13. d4
+Kf7 14. Bxf3 Nf6 15. Bh5+ g6 16. Bg5 Bg7 17. Rxf6+ 1-0
+

@@ -1,0 +1,18 @@
+[Event "Italy"]
+[Site "Italy"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Crispino"]
+[Black "Ambanelli"]
+[Result "1-0"]
+[ECO "D58"]
+[Opening "QGD"]
+[Variation "Tartakower (Makagonov-Bondarevsky) system"]
+[HashCode "547381eb"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Bg5 Be7 5. e3 O-O 6. Nc3 h6 7. Bh4 b6 8.
+Rc1 Bb7 9. cxd5 Nxd5 10. Bxe7 Qxe7 11. Be2 Nf6 12. Qa4 Nbd7 13. b4 c5 14.
+bxc5 bxc5 15. Qc2 Rfe8 16. O-O Nd5 17. dxc5 Rec8 18. Ne4 Nf4 19. exf4 Bxe4
+20. Qxe4 1-0
+

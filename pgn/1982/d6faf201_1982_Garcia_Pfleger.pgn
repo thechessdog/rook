@@ -1,0 +1,18 @@
+[Event "Havana"]
+[Site "Havana"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Garcia Gonzales, Guillermo"]
+[Black "Pfleger, Helmut, Dr."]
+[Result "1/2-1/2"]
+[ECO "D58"]
+[Opening "QGD"]
+[Variation "Tartakower (Makagonov-Bondarevsky) system"]
+[HashCode "d6faf201"]
+[Epoch "Rook"]
+[BlackID "4600100"]
+[BlackCountry "GER"]
+[WhiteCountry "CUB"]
+
+1. d4 e6 2. c4 d5 3. Nf3 Nf6 4. Nc3 Be7 5. Bg5 O-O 6. e3 h6 7. Bh4 b6 8. Rc1
+Bb7 9. Bxf6 Bxf6 10. cxd5 exd5 11. Be2 Qd6 12. O-O a6 13. Ne1 1/2-1/2

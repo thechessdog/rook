@@ -1,0 +1,19 @@
+[Event "Sudwestfalen"]
+[Site "Sudwestfalen"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Kamrath"]
+[Black "Humpert"]
+[Result "0-1"]
+[ECO "B43"]
+[Opening "Sicilian"]
+[Variation "Kan, 5.Nc3"]
+[HashCode "2042d9a1"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 d6 6. f4 Nc6 7. Be3 Qb6 8.
+b3 e5 9. Nd5 Qa5+ 10. Bd2 Qd8 11. fxe5 Nxd4 12. Bb4 Qh4+ 13. Kd2 Bg4 14.
+Qc1 Rc8 15. c4 dxe5 16. Bxf8 Qf2+ 17. Kc3 Kxf8 18. Qa3+ Ke8 19. Qa4+ Nb5+
+20. Kd3 Qd4+ 21. Kc2 Qxa1 22. Be2 Qxh1 23. Bxg4 Qxg2+ 24. Kd3 Qxg4 25. cxb5
+Qf3+ 26. Kd2 Qf2+ 0-1
+

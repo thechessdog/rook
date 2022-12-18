@@ -1,0 +1,18 @@
+[Event "Argentina"]
+[Site "Argentina"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Borghi, Humberto"]
+[Black "Madina"]
+[Result "1-0"]
+[ECO "B03"]
+[Opening "Alekhine's defence"]
+[Variation "four pawns attack"]
+[HashCode "660c33fe"]
+[Epoch "Rook"]
+[WhiteID "101397"]
+[WhiteCountry "ARG"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. c4 Nb6 5. f4 dxe5 6. fxe5 c5 7. d5 e6 8. Nc3
+exd5 9. cxd5 c4 10. Nf3 Bg4 11. Be2 Bc5 12. Ng5 Bf5 13. Bh5 O-O 14. Rf1 Bg6 15.
+Bxg6 hxg6 16. Qg4 Qe7 17. Qh4 Qxe5+ 18. Nce4 Bb4+ 19. Ke2 1-0

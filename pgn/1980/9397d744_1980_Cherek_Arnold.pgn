@@ -1,0 +1,23 @@
+[Event "corr ch11-DDR"]
+[Site "corr ch11-DDR"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Cherek, G."]
+[Black "Arnold, H."]
+[Result "1-0"]
+[ECO "D80"]
+[Opening "Gruenfeld"]
+[Variation "Stockholm variation"]
+[HashCode "9397d744"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Bg5 Ne4 5. Bh4 Nxc3 6. bxc3 c5 7. e3 Bg7 8.
+Qb3 cxd4 9. exd4 dxc4 10. Bxc4 O-O 11. Nf3 Nc6 12. Be2 Qa5 13. O-O e6 14.
+Rfd1 Re8 15. Nd2 Qc7 16. Nc4 Na5 17. Qb5 Nc6 18. Bg3 Qe7 19. Qa4 Bd7 20.
+Qb3 b6 21. Bf3 Rad8 22. d5 exd5 23. Bxd5 Bg4 24. f3 Rxd5 25. Rxd5 Be6 26.
+Re1 Rd8 27. Rxd8+ Qxd8 28. Qa4 Bxc3 29. Rd1 Bd4+ 30. Kh1 Qd5 31. Nd6 Qc5
+32. Bf4 Be5 33. Ne4 Qc4 34. Rd8+ Kg7 35. Qxc4 Bxc4 36. Bxe5+ Nxe5 37. a3
+Bb3 38. f4 Nc4 39. Nd6 Kf6 40. Nxc4 Bxc4 41. Rd7 Kf5 42. Rxa7 b5 43. Rc7
+Kxf4 44. a4 Ke4 45. a5 Bd5 46. a6 b4 47. a7 b3 48. Re7+ Kd4 49. Rd7 b2 50.
+Rxd5+ 1-0
+

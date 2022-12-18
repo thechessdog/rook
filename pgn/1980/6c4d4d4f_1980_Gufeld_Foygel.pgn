@@ -1,0 +1,20 @@
+[Event "Krasnojarsk"]
+[Site "Krasnojarsk"]
+[Date "1980.??.??"]
+[Round "?"]
+[White "Gufeld, Eduard"]
+[Black "Foygel, Igor"]
+[Result "0-1"]
+[ECO "B92"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Opovcensky variation"]
+[HashCode "6c4d4d4f"]
+[Epoch "Rook"]
+[BlackID "2008580"]
+[WhiteCountry "RUS"]
+[BlackCountry "USA"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8. O-O
+O-O 9. Kh1 b5 10. a4 Bb7 11. axb5 axb5 12. Rxa8 Bxa8 13. Qd3 Nbd7 14. Qxb5 Nxe4
+15. Nd5 Bg5 16. Bxg5 Qxg5 17. Nc7 Nc3 18. Nxa8 Nxb5 19. Bxb5 Nf6 20. Nc7 Rc8
+21. Ra1 g6 22. Ra7 Qf4 0-1

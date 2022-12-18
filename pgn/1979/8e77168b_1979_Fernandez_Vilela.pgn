@@ -1,0 +1,21 @@
+[Event "Capablanca mem"]
+[Site "Cienfuegos"]
+[Date "1979.01.01"]
+[Round "4"]
+[White "Fernandez, Juan"]
+[Black "Vilela, Jose Luis"]
+[Result "0-1"]
+[ECO "B83"]
+[Opening "Sicilian"]
+[Variation "Scheveningen, 6.Be2"]
+[HashCode "8e77168b"]
+[Epoch "Rook"]
+[WhiteID "216291"]
+[WhiteCountry "BEL"]
+[BlackCountry "EST"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be2 Be7 7. O-O a6 8. f4
+O-O 9. Bf3 Qc7 10. Kh1 Nc6 11. g4 Re8 12. g5 Nxd4 13. Qxd4 Nd7 14. a4 b6 15.
+Qf2 Bb7 16. Be3 Bc6 17. Bg2 b5 18. axb5 axb5 19. Rxa8 Rxa8 20. f5 Ne5 21. fxe6
+fxe6 22. Bh3 Bd7 23. Bf4 b4 24. Ne2 Ng6 25. Nd4 e5 26. Nf5 Bxf5 27. Bxf5 Nxf4
+28. Qh4 g6 29. Rxf4 exf4 30. Be6+ Kh8 0-1

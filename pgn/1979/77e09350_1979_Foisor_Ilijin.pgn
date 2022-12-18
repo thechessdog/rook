@@ -1,0 +1,19 @@
+[Event "Rumania"]
+[Site "Rumania"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Foisor, Ovidiu-Doru"]
+[Black "Ilijin, Neboisa"]
+[Result "0-1"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Nimzovich (knight's tour) variation"]
+[HashCode "77e09350"]
+[Epoch "Rook"]
+[WhiteID "1200143"]
+[WhiteCountry "ROU"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 c5 4. d5 exd5 5. cxd5 d6 6. Nf3 g6 7. Nd2 Bg7 8. Nc4
+O-O 9. Bg5 h6 10. Bf4 Nbd7 11. Bxd6 Re8 12. Bg3 Ne4 13. Nxe4 Rxe4 14. e3 Nb6
+15. Rc1 Nxc4 16. Rxc4 Rxc4 17. Bxc4 b5 18. Be2 Qa5+ 19. Qd2 Qxa2 20. O-O c4 21.
+e4 Qxb2 22. Qe3 Bd4 23. Qf3 Bd7 24. Bf4 h5 25. h3 Re8 26. Bc1 Qc2 0-1

@@ -1,0 +1,23 @@
+[Event "Bologna"]
+[Site "Bologna"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Vujovic, Milorad M"]
+[Black "Pantaleoni, Claudio"]
+[Result "0-1"]
+[ECO "B97"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Poisoned pawn variation"]
+[HashCode "63a786d4"]
+[Epoch "Rook"]
+[WhiteID "936480"]
+[BlackID "800945"]
+[WhiteCountry "SRB"]
+[BlackCountry "ITA"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qb6 8. Qd2
+Qxb2 9. Rb1 Qa3 10. f5 Nc6 11. fxe6 fxe6 12. Nxc6 bxc6 13. Bxf6 gxf6 14. Be2
+Qc5 15. Na4 Qe5 16. O-O d5 17. exd5 Bd6 18. g3 cxd5 19. Rfe1 Qg5 20. Qc3 O-O
+21. Rb3 Ra7 22. Qc6 Be5 23. Bd3 Rc7 24. Qb6 Kh8 25. Kh1 Rg8 26. Qf2 Qg4 27. Nb2
+Bb7 28. Nd1 d4+ 29. Kg1 Rcg7 30. Bf1 Bxg3 31. hxg3 Qh4 32. Bg2 Rxg3 33. Rxg3
+Rxg3 0-1

@@ -1,0 +1,24 @@
+[Event "corr SWE/K tt"]
+[Site "corr SWE/K tt"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Adler, Bo"]
+[Black "Ahlstrom, Per"]
+[Result "0-1"]
+[ECO "B24"]
+[Opening "Sicilian"]
+[Variation "closed"]
+[HashCode "bbcaf1c0"]
+[Epoch "Rook"]
+[WhiteID "1702149"]
+[BlackID "1713868"]
+[WhiteCountry "SWE"]
+[BlackCountry "SWE"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 e6 6. Be3 d6 7. Nge2 Nd4 8. Qd2
+Ne7 9. Nd1 d5 10. c3 Nxe2 11. Bxc5 dxe4 12. Bxe4 Nd4 13. cxd4 Bxd4 14. Ba3 O-O
+15. O-O f5 16. Bg2 Rf7 17. Nc3 Nc6 18. Rac1 Rd7 19. Rfe1 Ne5 20. Qe2 Nxd3 21.
+Qxe6+ Kg7 22. Be7 Rxe7 23. Qxe7+ Qxe7 24. Rxe7+ Kf8 25. Rd1 Bxf2+ 26. Kf1 Kxe7
+27. Rxd3 Bc5 28. Nd5+ Kf7 29. Nc7 Rb8 30. Rd8 Be7 31. Rh8 Kg7 32. Re8 Bd6 33.
+Bd5 b6 34. Kf2 Kh6 35. Ne6 Bxe6 36. Rxe6 Rd8 37. Bc4 Bc5+ 38. Kf3 Rd2 39. Re2
+Rd4 40. Re5 Rxc4 0-1

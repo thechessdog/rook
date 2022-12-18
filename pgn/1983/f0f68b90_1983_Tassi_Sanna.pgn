@@ -1,0 +1,18 @@
+[Event "Rome tt"]
+[Site "Rome tt"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Tassi"]
+[Black "Sanna, Gianlazzaro"]
+[Result "1-0"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, 6.Be3"]
+[HashCode "f0f68b90"]
+[Epoch "Rook"]
+[BlackID "800112"]
+[BlackCountry "ITA"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 O-O 6. Be3 Nbd7 7. Qd2 c5 8.
+O-O-O cxd4 9. Bxd4 Nb6 10. Kb1 Be6 11. h4 h5 12. f5 Bc4 13. Bxb6 Qxb6 14. e5
+Ng4 15. Bxc4 Ne3 16. Bb3 Nxd1 17. Qxd1 gxf5 18. Nd5 1-0

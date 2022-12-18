@@ -1,0 +1,23 @@
+[Event "Bundesliga 8081"]
+[Site "Duitsland tt"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Budde, Vladimir"]
+[Black "Bartsch, Berthold"]
+[Result "1-0"]
+[ECO "A52"]
+[Opening "Budapest"]
+[Variation "Alekhine variation"]
+[HashCode "f2fe2419"]
+[Epoch "Rook"]
+[WhiteID "4602056"]
+[WhiteCountry "GER"]
+[BlackID "4604660"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ng4 4. e4 Nxe5 5. f4 Ng6 6. Nf3 Bc5 7. f5 Ne7 8. Nc3
+f6 9. Bf4 d6 10. Qc2 Bd7 11. O-O-O a6 12. a3 O-O 13. g4 Bc6 14. h4 Qe8 15. Nd4
+Bxd4 16. Rxd4 Nd7 17. Be2 Kh8 18. Rg1 Rb8 19. g5 Ng8 20. Nd5 Bxd5 21. cxd5 b5
+22. Kb1 Rb7 23. Qd1 a5 24. Bh5 Qe7 25. Rh1 Ne5 26. Bc1 b4 27. Rh3 Rfb8 28. a4
+b3 29. Bg6 Nxg6 30. fxg6 Qe8 31. gxh7 Kxh7 32. Bd2 c5 33. dxc6 Qxc6 34. Qh5+
+Nh6 35. Rc3 1-0

@@ -1,0 +1,22 @@
+[Event "Varna"]
+[Site "Varna"]
+[Date "1983.01.01"]
+[Round "5"]
+[White "Ermenkov, Evgenij"]
+[Black "Atanasov, Petko"]
+[Result "1-0"]
+[ECO "B17"]
+[Opening "Caro-Kann"]
+[Variation "Steinitz variation"]
+[HashCode "eead9016"]
+[Epoch "Rook"]
+[WhiteID "2900106"]
+[WhiteCountry "FID"]
+[BlackID "2900629"]
+[BlackCountry "FID"]
+
+1. e4 c6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Nd7 5. Bc4 Ngf6 6. Nxf6+ Nxf6 7. Nf3 e6
+8. O-O Be7 9. Re1 O-O 10. c3 c5 11. Bg5 cxd4 12. Nxd4 Qa5 13. Bf4 Bd7 14. Bb3
+Rac8 15. Qf3 b5 16. Nf5 Bc5 17. Nxg7 Bc6 18. Qg3 Kh8 19. Be5 Be7 20. Nh5 Rg8
+21. Qf4 Rxg2+ 22. Kf1 Rg6 23. Nxf6 b4 24. Nd5+ f6 25. Nxe7 Qa6+ 26. Re2 fxe5
+27. Nxg6+ 1-0

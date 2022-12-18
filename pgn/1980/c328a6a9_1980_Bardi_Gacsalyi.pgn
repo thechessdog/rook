@@ -1,0 +1,16 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Bardi"]
+[Black "Gacsalyi"]
+[Result "0-1"]
+[ECO "B34"]
+[Opening "Sicilian"]
+[Variation "accelerated fianchetto, exchange variation"]
+[HashCode "c328a6a9"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6 5. Nxc6 bxc6 6. Qd4 f6 7. Bf4 e5
+8. Bxe5 Qa5+ 0-1
+

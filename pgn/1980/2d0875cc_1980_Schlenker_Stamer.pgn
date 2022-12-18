@@ -1,0 +1,16 @@
+[Event "Tubingen"]
+[Site "Tubingen"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Schlenker, Rainer"]
+[Black "Stamer, W."]
+[Result "0-1"]
+[ECO "A00"]
+[Opening "Dunst (Sleipner, Heinrichsen) opening"]
+[HashCode "2d0875cc"]
+[Epoch "Rook"]
+[WhiteID "4605837"]
+[WhiteCountry "GER"]
+
+1. Nc3 e5 2. e3 d5 3. Nce2 Nc6 4. b3 Nf6 5. Bb2 Bf5 6. f4 Bd6 7. Nf3 Nb4 8. Rc1
+Bxc2 0-1

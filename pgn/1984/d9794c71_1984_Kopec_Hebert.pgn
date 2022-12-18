@@ -1,0 +1,19 @@
+[Event "Montreal"]
+[Site "Montreal"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Kopec, Daniel"]
+[Black "Hebert, Jean"]
+[Result "0-1"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (without ...d6)"]
+[HashCode "d9794c71"]
+[Epoch "Rook"]
+[BlackID "2600048"]
+[BlackCountry "CAN"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 e6 4. Nc3 Nd4 5. Nxd4 cxd4 6. Ne2 Qg5 7. Nxd4 Qc5 8.
+c3 e5 9. b4 Qb6 10. Bc4 exd4 11. Qb3 Nh6 12. d3 dxc3 13. Bxh6 gxh6 14. Bxf7+
+Kd8 15. a3 Bg7 16. O-O Rf8 17. Kh1 d6 18. f4 Bd7 19. Rae1 Ke7 20. Bc4 Rac8 21.
+e5 dxe5 22. Qxc3 Be6 23. fxe5 Rxf1+ 24. Rxf1 Qe3 0-1

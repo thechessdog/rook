@@ -1,0 +1,19 @@
+[Event "Nordic-tt"]
+[Site "Oslo"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Kaiszauri, Konstanty"]
+[Black "Flis, Jacek"]
+[Result "1/2-1/2"]
+[ECO "A10"]
+[Opening "English opening"]
+[HashCode "aabc3519"]
+[Epoch "Rook"]
+[WhiteID "1700510"]
+[WhiteCountry "SWE"]
+[BlackID "1100351"]
+[BlackCountry "POL"]
+
+1. c4 g6 2. g3 Bg7 3. Bg2 Nf6 4. Nf3 O-O 5. O-O d6 6. Nc3 e5 7. Rb1 a5 8. a3
+Nc6 9. b4 axb4 10. axb4 Bf5 11. d3 Qd7 12. b5 Nd8 13. Nd5 Nxd5 14. cxd5 c6 15.
+dxc6 bxc6 16. Bg5 d5 17. Bxd8 1/2-1/2

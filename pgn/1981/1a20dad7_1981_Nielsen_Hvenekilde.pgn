@@ -1,0 +1,18 @@
+[Event "Aarhus"]
+[Site "Aarhus"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Nielsen, Poul Erik"]
+[Black "Hvenekilde, Jorgen"]
+[Result "1-0"]
+[ECO "A00"]
+[Opening "Benko's opening"]
+[HashCode "1a20dad7"]
+[Epoch "Rook"]
+[BlackID "1400649"]
+[BlackCountry "DEN"]
+
+1. g3 d6 2. d4 g6 3. Bg2 Bg7 4. e4 Nc6 5. Ne2 Bg4 6. f3 Bd7 7. Be3 a5 8. d5 Na7
+9. c3 c5 10. O-O h5 11. a4 Nh6 12. Qd2 Kf8 13. c4 Qc7 14. Nbc3 Kg8 15. h3 Rh7
+16. Kh2 Kh8 17. Rae1 Ng8 18. Nc1 Re8 19. f4 f5 20. Nd3 h4 21. e5 dxe5 22. Nxe5
+Bxe5 23. fxe5 Qxe5 24. Bxc5 hxg3+ 25. Kg1 Qg7 26. Bxa7 Nf6 27. Bd4 1-0

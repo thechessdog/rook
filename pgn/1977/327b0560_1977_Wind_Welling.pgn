@@ -1,0 +1,21 @@
+[Event "Velp"]
+[Site "Velp"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Wind, Maurits"]
+[Black "Welling, Gerard"]
+[Result "1/2-1/2"]
+[ECO "C33"]
+[Opening "KGA"]
+[Variation "Keres (Mason-Steinitz) gambit"]
+[HashCode "327b0560"]
+[Epoch "Rook"]
+[WhiteID "1015575"]
+[BlackID "1000446"]
+[WhiteCountry "NED"]
+[BlackCountry "NED"]
+
+1. e4 e5 2. f4 exf4 3. Nc3 Qh4+ 4. Ke2 d5 5. Nxd5 Bg4+ 6. Nf3 Nc6 7. Nxc7+ Kd8
+8. Nxa8 Ne5 9. Qe1 Nxf3 10. Qxh4+ Nxh4+ 11. Ke1 Nf6 12. e5 f3 13. exf6 Bc5 14.
+d4 Bxd4 15. Bg5 Re8+ 16. Kd2 fxg2 17. fxg7+ f6 18. Bb5 gxh1=Q 19. Rxh1 Nf3+ 20.
+Kc1 Rg8 21. Bh6 Ne5 22. Rf1 Nf7 23. Bf4 Rxg7 24. Nc7 1/2-1/2

@@ -1,0 +1,24 @@
+[Event "Bern"]
+[Site "Bern"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Hug, Werner"]
+[Black "Arlandi, Ennio"]
+[Result "1-0"]
+[ECO "C26"]
+[Opening "Vienna"]
+[Variation "Paulsen-Mieses variation"]
+[HashCode "b0f1c470"]
+[Epoch "Rook"]
+[WhiteID "1300040"]
+[WhiteCountry "SUI"]
+[BlackID "800104"]
+[BlackCountry "ITA"]
+
+1. e4 e5 2. Nc3 Nf6 3. g3 Bc5 4. Bg2 O-O 5. Nge2 Nc6 6. O-O a6 7. d3 d6 8. h3
+Be6 9. Nd5 h6 10. c3 Bxd5 11. exd5 Ne7 12. b4 Bb6 13. a3 Qd7 14. c4 c6 15. dxc6
+Nxc6 16. Bb2 Rfe8 17. Qb3 Rad8 18. b5 axb5 19. Qxb5 Ba7 20. Rab1 Re7 21. a4 Qf5
+22. Qb3 h5 23. Kh2 g5 24. Qd1 h4 25. g4 Qg6 26. Nc3 Rdd7 27. Bc1 Nd4 28. Be3
+Bc5 29. Ne4 Ne6 30. Nxf6+ Qxf6 31. Be4 Nf4 32. a5 Qh6 33. Bxf4 gxf4 34. g5 Qh8
+35. Qf3 Kg7 36. Rxb7 Rxb7 37. Bxb7 Kg6 38. Rg1 Rxb7 39. Qxb7 Bxf2 40. Qe4+ Kg7
+41. Rb1 Qd8 42. Qf5 Qa8 43. Qf6+ 1-0

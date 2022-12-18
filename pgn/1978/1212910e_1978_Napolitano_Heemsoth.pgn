@@ -1,0 +1,19 @@
+[Event "corr Vidmar mem"]
+[Site "corr Vidmar mem"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Napolitano"]
+[Black "Heemsoth"]
+[Result "1/2-1/2"]
+[ECO "E47"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 O-O, 5.Bd3"]
+[HashCode "1212910e"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 c5 6. Nf3 Nc6 7. a3 Bxc3+ 8.
+bxc3 d6 9. e4 e5 10. d5 Ne7 11. Nh4 h6 12. f3 Ne8 13. g3 f5 14. exf5 Nxf5
+15. Ng2 Ne7 16. O-O Nf6 17. Qc2 Bh3 18. Rf2 Qd7 19. Bd2 Rae8 20. Re1 Kh8
+21. f4 e4 22. Bf1 Nf5 23. Ne3 Nxe3 24. Bxe3 Bxf1 25. Rfxf1 b6 26. a4 Qf5
+27. Qg2 Rf7 28. Re2 g6 29. h3 1/2-1/2
+

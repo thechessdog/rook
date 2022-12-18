@@ -1,0 +1,20 @@
+[Event "corr ch-DDR"]
+[Site "corr ch-DDR"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Muller, Hans P"]
+[Black "Schulze, Ulrich"]
+[Result "1-0"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack"]
+[HashCode "62ac6424"]
+[Epoch "Rook"]
+[WhiteID "3223167"]
+[WhiteCountry "AUS"]
+[BlackID "4600525"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. Bg5 d5 3. Nc3 Nbd7 4. Nf3 e6 5. e4 dxe4 6. Nxe4 Be7 7. Nxf6+ Nxf6
+8. Bc4 O-O 9. Qe2 b6 10. O-O-O Bb7 11. Kb1 Bd5 12. Bd3 Ne8 13. h4 Bf6 14. c4
+Bxf3 15. Qxf3 g6 16. Be4 Rc8 17. d5 Bxg5 18. hxg5 Qxg5 19. Qh3 Nf6 20. dxe6
+Rfd8 21. Bd5 Kg7 22. exf7 c6 23. Be6 Rb8 24. Rde1 Rd2 25. f4 Qxg2 26. Qh6+ 1-0

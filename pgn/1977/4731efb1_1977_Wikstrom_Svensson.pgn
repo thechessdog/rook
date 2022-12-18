@@ -1,0 +1,23 @@
+[Event "corr SWE/K"]
+[Site "corr SWE/K"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Wikstrom"]
+[Black "Svensson, Gert"]
+[Result "0-1"]
+[ECO "B92"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Opovcensky variation"]
+[HashCode "4731efb1"]
+[Epoch "Rook"]
+[BlackID "1701533"]
+[BlackCountry "SWE"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nf3 h6 8. O-O
+Be7 9. b3 O-O 10. Re1 Nc6 11. Bf1 Bg4 12. Be3 b5 13. a4 b4 14. Nd5 Nxd5 15.
+Qxd5 Qc7 16. Qd2 Be6 17. Bd3 Qb7 18. Qd1 Na5 19. Nd2 Rfc8 20. Nf1 Bf8 21. Bd2
+g6 22. Ne3 Bg7 23. Rb1 Rc5 24. Qe2 Nc6 25. Rec1 Nd4 26. Qe1 Rb8 27. Bc4 Qxe4
+28. Bxb4 Rxb4 29. Qxb4 Ne2+ 30. Kh1 Nxc1 31. Rxc1 Bxc4 32. Nxc4 Qf4 33. Rf1 Bf8
+34. Qb7 d5 35. Ne3 d4 36. g3 Qf6 37. Nc4 Qf5 38. Qxa6 e4 39. Qa8 e3 40. Rc1 e2
+41. Kg2 Rc8 42. Qf3 Re8 43. Ne3 dxe3 44. fxe3 e1=Q 45. Rxe1 Qxc2+ 46. Qe2 Qxb3
+47. Qb5 Rxe3 0-1

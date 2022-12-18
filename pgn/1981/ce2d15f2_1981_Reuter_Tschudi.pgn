@@ -1,0 +1,16 @@
+[Event "Biel"]
+[Site "Biel"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Reuter"]
+[Black "Tschudi"]
+[Result "1-0"]
+[ECO "B10"]
+[Opening "Caro-Kann"]
+[Variation "Goldman (Spielmann) variation"]
+[HashCode "ce2d15f2"]
+[Epoch "Rook"]
+
+1. e4 c6 2. Nc3 d5 3. Qf3 Nf6 4. e5 Ng4 5. d4 h5 6. h3 g6 7. Bd3 b6 8. hxg4
+hxg4 9. Rxh8 gxf3 10. Bh6 Nd7 11. e6 1-0
+

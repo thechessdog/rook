@@ -1,0 +1,20 @@
+[Event "Amsterdam zt"]
+[Site "Amsterdam"]
+[Date "1978.??.??"]
+[Round "2"]
+[White "Sanz Alonso, Francisco J."]
+[Black "Langeweg, Kick"]
+[Result "1/2-1/2"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "9e1e69c5"]
+[Epoch "Rook"]
+[BlackID "1000160"]
+[BlackCountry "NED"]
+[WhiteID "2200147"]
+[WhiteCountry "ESP"]
+
+1. e4 c5 2. c3 e6 3. d4 d5 4. exd5 exd5 5. Nf3 Bd6 6. Bb5+ Nc6 7. O-O Ne7 8.
+dxc5 Bxc5 9. Nbd2 O-O 10. Nb3 Bd6 11. Bg5 Bg4 12. Be2 Qc7 13. h3 Bd7 14. Nbd4
+a6 15. Re1 f6 16. Bd2 Ne5 17. b3 Rad8 18. Rc1 1/2-1/2

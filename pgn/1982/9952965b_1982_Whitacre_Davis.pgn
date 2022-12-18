@@ -1,0 +1,17 @@
+[Event "Ohio"]
+[Site "Ohio"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Whitacre, F."]
+[Black "Davis"]
+[Result "0-1"]
+[ECO "C57"]
+[Opening "two knights defence"]
+[Variation "Wilkes Barre (Traxler) variation"]
+[HashCode "9952965b"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 Bc5 5. Bxf7+ Ke7 6. Bb3 Bxf2+ 7. Kf1
+Rf8 8. Nc3 Bc5 9. Nf3 d6 10. d3 Bg4 11. Bg5 Nd4 12. Nd5+ Kd7 13. Nxf6+ Rxf6
+14. Bxf6 Qxf6 15. Qd2 Nxf3 16. gxf3 Qxf3+ 0-1
+

@@ -1,0 +1,31 @@
+[Event "Poland"]
+[Site "Poland"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Panczyk, Krzysztof"]
+[Black "Sygulski, Artur"]
+[Result "1-0"]
+[ECO "E95"]
+[Opening "King's Indian"]
+[Variation "orthodox, 7...Nbd7, 8.Re1"]
+[HashCode "c091065d"]
+[Epoch "Rook"]
+[WhiteID "1100211"]
+[BlackID "1100521"]
+[WhiteCountry "POL"]
+[BlackCountry "POL"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Be2 Nbd7 6. Nf3 O-O 7. O-O e5 8. Re1
+c6 9. Bf1 Re8 10. d5 c5 11. Rb1 Rf8 12. a3 Ne8 13. b4 h6 14. bxc5 Nxc5 15. Na4
+Nxa4 16. Qxa4 Nc7 17. Be3 Na6 18. Nd2 Bd7 19. Qc2 Qc7 20. Rb2 b6 21. a4 Nc5 22.
+Ra1 f5 23. f3 f4 24. Bf2 Bf6 25. Nb1 a5 26. Nc3 Be7 27. Rab1 Ra6 28. Nb5 Qc8
+29. Nc3 Qc7 30. Bxc5 Qxc5+ 31. Qf2 Bd8 32. Qxc5 dxc5 33. d6 Rf6 34. Rd2 Kf7 35.
+Rbd1 Ra7 36. Rd5 Re6 37. g3 g5 38. Bh3 Re8 39. Kg2 h5 40. Bxd7 Rxd7 41. Kf2 Bf6
+42. Rb1 Rb8 43. Rxc5 Rxd6 44. Rc7+ Kg6 45. c5 Re6 46. Nd5 Bd8 47. Rd7 Kh6 48.
+gxf4 gxf4 49. Kg2 Rc6 50. Kh3 Rg6 51. Rb2 Rc6 52. Rb1 Rg6 53. Rb2 Rc6 54. Rg2
+bxc5 55. Rg8 c4 56. Rh8+ Kg6 57. Rhxd8 Rxd8 58. Rxd8 c3 59. Rg8+ Kh6 60. Rg1 c2
+61. Rc1 Kg5 62. Rg1+ Kh6 63. Rc1 Kg5 64. Kg2 Rc4 65. Nb6 Rc7 66. Nd5 Rc4 67.
+Ne7 Kf6 68. Nf5 Ke6 69. Kf2 Rc3 70. Ke2 Kf6 71. Nh4 Re3+ 72. Kf2 Rc3 73. Ng2
+Rc4 74. Ne1 Rxa4 75. Rxc2 Ra3 76. Rc6+ Ke7 77. Ke2 a4 78. Kd2 Kd7 79. Rc3 Ra1
+80. Rc1 Ra3 81. Nd3 Kd6 82. Rc2 Ra1 83. Nc1 Rb1 84. Ra2 Kc5 85. Kc2 Rb8 86.
+Rxa4 Rg8 87. Nd3+ Kb5 88. Rb4+ 1-0

@@ -1,0 +1,21 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Bondar"]
+[Black "Komarov, Dimitri"]
+[Result "0-1"]
+[ECO "B04"]
+[Opening "Alekhine's defence"]
+[Variation "modern variation"]
+[HashCode "79607945"]
+[Epoch "Rook"]
+[BlackID "14101270"]
+[BlackCountry "UKR"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. Nf3 Nc6 5. c4 Nb6 6. e6 fxe6 7. Ng5 e5 8. Qf3
+Nxd4 9. Qf7+ Kd7 10. Be3 h6 11. Bxd4 hxg5 12. Bxe5 Qe8 13. Qf3 Kd8 14. Nc3 dxe5
+15. c5 Nd7 16. c6 bxc6 17. O-O-O Qg6 18. Bc4 Ke8 19. Rd2 Rh4 20. g4 Qf6 21. Nb5
+Kd8 22. Qe4 Rh6 23. Rhd1 Qf4 24. Qxf4 exf4 25. Nd4 e5 26. Ne6+ Rxe6 27. Bxe6
+Bd6 28. f3 Ke7 29. Bf5 Nf6 30. Bxc8 Rxc8 31. Rc2 Kd7 32. Rc4 Nd5 33. Rd3 Rh8
+34. Rd2 Rh3 35. Rf2 Bb4 0-1

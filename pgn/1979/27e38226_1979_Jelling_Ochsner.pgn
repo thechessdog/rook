@@ -1,0 +1,25 @@
+[Event "Odense op"]
+[Site "Odense"]
+[Date "1979.??.??"]
+[Round "1"]
+[White "Jelling, Erik"]
+[Black "Ochsner, Thomas"]
+[Result "1-0"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical (two knights) system"]
+[HashCode "27e38226"]
+[Epoch "Rook"]
+[WhiteID "1400282"]
+[BlackID "1400711"]
+[WhiteCountry "DEN"]
+[BlackCountry "DEN"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Nf3 Bg7 5. Be3 O-O 6. h3 e5 7. dxe5 dxe5 8. Bg5
+Qxd1+ 9. Rxd1 Re8 10. Bc4 Nbd7 11. Nb5 Re7 12. Nxc7 Rb8 13. Nd5 Re8 14. Bxf6
+Nxf6 15. Ng5 Be6 16. Nxf6+ Bxf6 17. Nxe6 fxe6 18. Rd6 Kf7 19. Ke2 Rbc8 20. Bb3
+Rc7 21. Rhd1 Bg7 22. Rd8 Rxd8 23. Rxd8 Bf6 24. Rd6 Re7 25. a3 Bg5 26. Kd1 Re8
+27. Rd7+ Re7 28. Rxe7+ Kxe7 29. Ba2 Kd6 30. b4 b6 31. c3 h6 32. Kc2 Be7 33. Bc4
+Bf6 34. Kb3 Be7 35. Ba6 Bf6 36. Be2 Be7 37. Kc4 Bd8 38. Kb5 a5 39. bxa5 bxa5
+40. c4 Bc7 41. Bd1 Bd8 42. Ba4 Be7 43. c5+ Kc7 44. Bb3 Kd7 45. Kb6 Bd8+ 46. Kb7
+g5 47. Ba4+ Ke7 48. Kc8 g4 49. h4 1-0

@@ -1,0 +1,18 @@
+[Event "Burlington"]
+[Site "Burlington"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Rose"]
+[Black "Myers, Hugh S"]
+[Result "0-1"]
+[ECO "B00"]
+[Opening "KP"]
+[Variation "Nimzovich defence"]
+[HashCode "15469e1e"]
+[Epoch "Rook"]
+[BlackID "2091720"]
+[BlackCountry "USA"]
+
+1. e4 Nc6 2. Nf3 e6 3. d4 d5 4. e5 f6 5. exf6 Nxf6 6. c3 Bd6 7. Bd3 O-O 8. O-O
+e5 9. dxe5 Nxe5 10. Nxe5 Bxe5 11. Bg5 Qe8 12. Bxf6 Rxf6 13. Nd2 Bd6 14. Qe2 Qf7
+15. Nb3 Bd7 16. Rae1 Re8 17. Qd1 Rxe1 18. Qxe1 Qh5 19. f4 Bxf4 20. g3 Rh6 0-1

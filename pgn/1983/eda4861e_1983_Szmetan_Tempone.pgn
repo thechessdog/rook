@@ -1,0 +1,22 @@
+[Event "Buenos Aires"]
+[Site "Buenos Aires"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Szmetan, Jorge"]
+[Black "Tempone, Marcelo"]
+[Result "0-1"]
+[ECO "B10"]
+[Opening "Caro-Kann"]
+[Variation "closed (Breyer) variation"]
+[HashCode "eda4861e"]
+[Epoch "Rook"]
+[WhiteID "100366"]
+[WhiteCountry "ARG"]
+[BlackID "100269"]
+[BlackCountry "ARG"]
+
+1. e4 c6 2. d3 d5 3. Nd2 g6 4. Ngf3 Bg7 5. g3 e5 6. Bg2 Ne7 7. O-O O-O 8. b4 d4
+9. Bb2 Qc7 10. c3 dxc3 11. Bxc3 Rd8 12. Qc2 c5 13. b5 Nd7 14. Nc4 f6 15. Nfd2
+Nf8 16. f4 exf4 17. Rxf4 Ne6 18. Rxf6 Bxf6 19. Bxf6 Nd4 20. Qd1 Be6 21. a4 Rf8
+22. e5 Nd5 23. Bxd5 Bxd5 24. Ne3 Qd7 25. h4 Rae8 26. Rc1 Rxf6 27. Nxd5 Qxd5 28.
+exf6 Ne2+ 29. Kf2 Qxd3 30. Ne4 Nxc1 31. f7+ Kxf7 32. Ng5+ Kg8 0-1

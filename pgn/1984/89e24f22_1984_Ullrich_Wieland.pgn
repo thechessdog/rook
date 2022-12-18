@@ -1,0 +1,18 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Ullrich"]
+[Black "Wieland, L."]
+[Result "0-1"]
+[ECO "C57"]
+[Opening "two knights defence"]
+[Variation "Ulvestad variation"]
+[HashCode "89e24f22"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 b5 6. Bxb5 Qxd5 7. Be2 Bb7
+8. d3 Nd4 9. f3 Bc5 10. Nc3 Qc6 11. Nh3 Nd5 12. Bd2 O-O 13. Rc1 f5 14. Nf2
+Qg6 15. O-O e4 16. dxe4 Nxc3 17. Bxc3 fxe4 18. Bc4+ Kh8 19. fxe4 Nf3+ 20.
+Kh1 Nxh2 21. Kxh2 Rxf2 0-1
+

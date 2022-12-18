@@ -1,0 +1,22 @@
+[Event "Banja Luka"]
+[Site "Banja Luka"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Kurajica, Bojan"]
+[Black "Vukic, Milan"]
+[Result "1-0"]
+[ECO "E62"]
+[Opening "King's Indian"]
+[Variation "fianchetto, Kavalek (Bronstein) variation"]
+[HashCode "bc8e8cbc"]
+[Epoch "Rook"]
+[WhiteID "14400057"]
+[BlackID "900273"]
+[WhiteCountry "BIH"]
+[BlackCountry "BIH"]
+
+1. d4 Nf6 2. Nf3 g6 3. g3 Bg7 4. Bg2 O-O 5. O-O d6 6. c4 c6 7. Nc3 Qa5 8. Bg5
+Be6 9. d5 cxd5 10. Nd4 Bd7 11. Bxf6 exf6 12. Nb3 Qd8 13. Qxd5 Bc6 14. Qd2 Qc7
+15. Rac1 a5 16. Nb5 Bxb5 17. cxb5 Qb6 18. Qd5 Nd7 19. Qxb7 Qxb7 20. Bxb7 Ra7
+21. Bg2 a4 22. Nd4 Nc5 23. Rfd1 Ra5 24. b4 axb3 25. axb3 Ra3 26. b6 f5 27. b4
+Ne4 28. Nc6 Nc3 29. Rxc3 Bxc3 30. b7 1-0

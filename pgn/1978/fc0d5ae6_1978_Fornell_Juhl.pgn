@@ -1,0 +1,21 @@
+[Event "corr SWE/K tt"]
+[Site "corr SWE/K tt"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Fornell, Jan"]
+[Black "Juhl, Erik"]
+[Result "0-1"]
+[ECO "B13"]
+[Opening "Caro-Kann"]
+[Variation "exchange variation"]
+[HashCode "fc0d5ae6"]
+[Epoch "Rook"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. Bd3 Nc6 5. c3 Qc7 6. Ne2 e5 7. dxe5 Nxe5
+8. Bc2 Nf6 9. O-O Bd6 10. Nd4 Bg4 11. Nb5 O-O 12. Nxc7 Bxd1 13. Rxd1 Bxc7
+14. Nd2 Rad8 15. Nb3 Rfe8 16. Nd4 a6 17. Bg5 Nfg4 18. h3 h6 19. Bh4 g5 20.
+hxg4 gxh4 21. Bf5 h5 22. g5 Ng4 23. g6 Re7 24. gxf7+ Kxf7 25. Bd3 Rg8 26.
+Re1 h3 27. Rxe7+ Kxe7 28. g3 Kf6 29. Be2 h4 30. Bxg4 Rxg4 31. Kh2 hxg3+ 32.
+Kxh3 Rg5 33. fxg3 Rxg3+ 34. Kh4 Rg2 35. Rb1 Be5 36. Nb3 Kf5 37. Rf1+ Bf4
+0-1
+

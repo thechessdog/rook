@@ -1,0 +1,22 @@
+[Event "Cuba"]
+[Site "Cuba"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Garcia, Gildardo"]
+[Black "Fernandez, Juan Luis"]
+[Result "1-0"]
+[ECO "E42"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5, 5.Ne2 (Rubinstein)"]
+[HashCode "29029169"]
+[Epoch "Rook"]
+[WhiteID "4400020"]
+[WhiteCountry "COL"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Ne2 d5 6. a3 cxd4 7. exd4 Be7 8. c5
+b6 9. Na4 Ba6 10. b4 O-O 11. Rb1 Bc4 12. Nb2 Bxe2 13. Bxe2 bxc5 14. dxc5 e5 15.
+O-O Nc6 16. Re1 Qc7 17. Nd3 Rad8 18. Bf1 e4 19. Bf4 Qc8 20. Ne5 Nxe5 21. Bxe5
+Ng4 22. Bd4 f5 23. h3 Nh6 24. f4 Bf6 25. Rb2 Bxd4+ 26. Qxd4 Rf6 27. Rd2 Nf7 28.
+Red1 Qe6 29. Qe3 g5 30. g3 gxf4 31. gxf4 Rg6+ 32. Kh1 Rg7 33. b5 Nh8 34. Bc4
+Qg6 35. Rg1 Qxg1+ 36. Qxg1 Rxg1+ 37. Kxg1 Ng6 38. Rxd5 Rxd5 39. Bxd5+ Kf8 40.
+b6 1-0

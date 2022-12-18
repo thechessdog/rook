@@ -1,0 +1,24 @@
+[Event "BKL-Turnier"]
+[Site "Leipzig"]
+[Date "1981.01.01"]
+[Round "4"]
+[White "Wuensche, Klaus"]
+[Black "Vokac, Marek"]
+[Result "0-1"]
+[ECO "E97"]
+[Opening "King's Indian"]
+[Variation "orthodox, Aronin-Taimanov variation (Yugoslav attack / Mar del Plata variation)"]
+[HashCode "5259196b"]
+[Epoch "Rook"]
+[WhiteID "4666380"]
+[WhiteCountry "GER"]
+[BlackID "300101"]
+[BlackCountry "CZE"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 O-O 5. Nf3 d6 6. Be2 e5 7. O-O Nc6 8. d5
+Ne7 9. Nd2 c5 10. Rb1 Ne8 11. b4 b6 12. bxc5 bxc5 13. Qa4 Bd7 14. Qa3 Kh8 15.
+Bd1 f5 16. Ba4 Bh6 17. Bxd7 Qxd7 18. Qa6 Ng8 19. exf5 gxf5 20. Nf3 Bxc1 21.
+Rfxc1 Qd8 22. g3 Rf7 23. Rb7 Qc8 24. Rcb1 Rg7 25. Qc6 Qxc6 26. dxc6 Ne7 27. c7
+Rc8 28. Rxa7 Nxc7 29. Rb6 Ne8 30. a4 Nd5 31. Rxg7 Nxb6 32. Rf7 Nxc4 33. Nd5 Ng7
+34. Nf6 e4 35. Ng5 Ne5 36. Rb7 c4 37. Ne6 Ng4 38. Nxg4 Nxe6 39. Nf6 Nc7 40. Kf1
+c3 0-1

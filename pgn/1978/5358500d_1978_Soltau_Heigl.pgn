@@ -1,0 +1,26 @@
+[Event "corr DFSM"]
+[Site "corr DFSM"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Soltau"]
+[Black "Heigl"]
+[Result "1-0"]
+[ECO "A35"]
+[Opening "English"]
+[Variation "symmetrical, four knights system"]
+[HashCode "5358500d"]
+[Epoch "Rook"]
+
+1. Nf3 Nf6 2. c4 c5 3. Nc3 Nc6 4. e3 e6 5. d4 d5 6. cxd5 exd5 7. Bb5 a6 8.
+Bxc6+ bxc6 9. Qa4 Bd7 10. O-O Bd6 11. dxc5 Bxc5 12. e4 O-O 13. Bg5 Be7 14.
+e5 Ne8 15. Bxe7 Qxe7 16. Qa5 Qd8 17. Qxd8 Rxd8 18. Na4 Nc7 19. Nc5 Ne6 20.
+Rac1 Nxc5 21. Rxc5 Rb8 22. b3 Rb5 23. Rfc1 Re8 24. Kf1 Kf8 25. R1c3 f6 26.
+exf6 gxf6 27. Nd4 Rxc5 28. Rxc5 Ke7 29. Ra5 Ra8 30. b4 Kd6 31. Ke2 Rb8 32.
+a3 Rb6 33. Ke3 Bc8 34. Rc5 Bd7 35. f3 Rb8 36. Nb3 Re8+ 37. Kf2 Rb8 38. Rc3
+Re8 39. Nc5 Bc8 40. Re3 Rxe3 41. Kxe3 a5 42. g4 axb4 43. axb4 Ke5 44. Nd3+
+Kd6 45. Kd4 Bd7 46. h4 Be8 47. Nf4 h6 48. Ne2 Bf7 49. Ng3 Bg6 50. f4 Bc2
+51. Nh5 Ke7 52. Kc5 Bd1 53. Ng3 Bxg4 54. Kxc6 d4 55. Kc5 d3 56. Ne4 Bf5 57.
+Nd2 Kd7 58. Kd4 Kc6 59. Nb3 Kb5 60. Kc3 Bg6 61. Nd4+ Ka4 62. f5 Bf7 63.
+Kxd3 Kxb4 64. Ne6 Bh5 65. Kd4 Bf3 66. Nc7 h5 67. Nd5+ Kb5 68. Nxf6 Kc6 69.
+Ke5 Bd1 70. Nd5 Kd7 71. Kf6 1-0
+

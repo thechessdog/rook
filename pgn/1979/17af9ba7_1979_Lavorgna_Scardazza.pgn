@@ -1,0 +1,19 @@
+[Event "Rome"]
+[Site "Rome"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Lavorgna"]
+[Black "Scardazza"]
+[Result "1-0"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Steinitz variation"]
+[HashCode "17af9ba7"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. dxc5 Nc6 5. Nf3 Bxc5 6. Bd3 Qc7 7. Bf4 Nge7
+8. O-O Ng6 9. Bg3 Ngxe5 10. Nxe5 Nxe5 11. Re1 Bd6 12. Nc3 Bd7 13. Nxd5 exd5
+14. Bxe5 Bxe5 15. Qh5 Be6 16. Rxe5 O-O-O 17. c4 Qc6 18. cxd5 Rxd5 19. Be4
+Rxe5 20. Qxe5 Qc4 21. Qf4 Kd7 22. Rd1+ Ke7 23. Qg5+ f6 24. Qxg7+ Bf7 25.
+Bd5 1-0
+

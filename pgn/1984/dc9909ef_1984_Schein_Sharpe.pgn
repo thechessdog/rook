@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Schein"]
+[Black "Sharpe"]
+[Result "0-1"]
+[ECO "A88"]
+[Opening "Dutch"]
+[Variation "Leningrad, main variation with c6"]
+[HashCode "dc9909ef"]
+[Epoch "Rook"]
+
+1. d4 f5 2. c4 Nf6 3. Nc3 g6 4. g3 Bg7 5. Bg2 O-O 6. Nf3 d6 7. O-O c6 8.
+Rb1 Nh5 9. e3 e5 10. dxe5 dxe5 11. Qc2 Be6 12. Rd1 Qe7 13. b3 a5 14. Bb2
+Na6 15. a3 Rad8 16. Ne2 Bc8 17. Ne1 f4 18. Be4 fxe3 19. fxe3 Qg5 20. Qc3
+Rxd1 21. Rxd1 Nc5 22. Bg2 e4 23. Nd4 Be5 24. b4 Na4 25. Qb3 Nxb2 26. Qxb2
+Qxe3+ 27. Kh1 Nxg3+ 28. hxg3 Qxg3 0-1
+

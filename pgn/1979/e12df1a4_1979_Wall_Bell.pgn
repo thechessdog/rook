@@ -1,0 +1,16 @@
+[Event "Statesville,NC"]
+[Site "Statesville,NC"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Wall, Bill"]
+[Black "Bell, Tom"]
+[Result "1-0"]
+[ECO "D00"]
+[Opening "Blackmar gambit"]
+[HashCode "e12df1a4"]
+[Epoch "Rook"]
+[WhiteCountry "USA"]
+
+1. d4 d5 2. e4 dxe4 3. f3 exf3 4. Nxf3 Nf6 5. Bc4 c6 6. O-O h6 7. Ne5 e6 8. Nc3
+Be7 9. Bf4 O-O 10. Bxh6 gxh6 11. Ne4 Nd5 12. Qg4+ Kh7 13. Nxf7 Ne3 14. Qf4 Nxf1
+15. Qxh6+ Kg8 16. Qg6# 1-0

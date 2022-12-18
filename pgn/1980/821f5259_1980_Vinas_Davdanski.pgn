@@ -1,0 +1,17 @@
+[Event "corr tt"]
+[Site "corr tt"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Vinas"]
+[Black "Davdanski"]
+[Result "0-1"]
+[ECO "C69"]
+[Opening "Ruy Lopez"]
+[Variation "exchange, Bronstein variation"]
+[HashCode "821f5259"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O Qd6 6. d4 exd4 7. Nxd4
+Bd7 8. Be3 O-O-O 9. Nd2 Nh6 10. h3 Qg6 11. Kh1 f5 12. exf5 Nxf5 13. Nxf5
+Bxf5 14. c3 Be7 15. Qa4 Rhe8 16. Nf3 Be4 17. Rfd1 Bd6 18. Rg1 Qf5 0-1
+

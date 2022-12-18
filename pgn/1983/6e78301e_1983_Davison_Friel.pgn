@@ -1,0 +1,17 @@
+[Event "Dayton,OH"]
+[Site "Dayton,OH"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Davison, M."]
+[Black "Friel, E."]
+[Result "1-0"]
+[ECO "C35"]
+[Opening "KGA"]
+[Variation "Cunningham defence"]
+[HashCode "6e78301e"]
+[Epoch "Rook"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 Be7 4. Bc4 Bh4+ 5. Kf1 d6 6. d4 Bg4 7. Bxf4 Qf6
+8. g3 Bxf3 9. Qxf3 Bg5 10. e5 dxe5 11. dxe5 Qf5 12. Qxb7 Bxf4 13. Bb5+ Nd7
+14. Qxa8+ 1-0
+

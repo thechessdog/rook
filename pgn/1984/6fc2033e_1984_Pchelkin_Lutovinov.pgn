@@ -1,0 +1,20 @@
+[Event "corr ch16-SU"]
+[Site "corr ch16-SU"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Pchelkin, A."]
+[Black "Lutovinov, A."]
+[Result "1/2-1/2"]
+[ECO "C69"]
+[Opening "Ruy Lopez"]
+[Variation "exchange, Bronstein variation"]
+[HashCode "6fc2033e"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O Qd6 6. d3 f6 7. Be3 Bg4
+8. Nbd2 c5 9. h3 Be6 10. Qe2 Ne7 11. c3 Nc6 12. Nc4 Qd7 13. Rfd1 Qf7 14. b3
+Be7 15. d4 exd4 16. cxd4 cxd4 17. Nxd4 Nxd4 18. Bxd4 O-O 19. Rac1 Rac8 20.
+Bb2 Bb4 21. Ne3 Rfe8 22. Qf3 c6 23. Bc3 Bf8 24. Ba5 b5 25. Nf5 c5 26. Nd6
+Bxd6 27. Rxd6 c4 28. bxc4 Rxc4 29. Rxc4 Bxc4 30. a3 Qe7 31. Rd4 Bf7 32. Qc3
+Bg6 33. f3 1/2-1/2
+

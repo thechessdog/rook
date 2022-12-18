@@ -1,0 +1,23 @@
+[Event "Athens"]
+[Site "Athens"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Fraguela Gil, Jose M."]
+[Black "Unzicker, Wolfgang"]
+[Result "0-1"]
+[ECO "E50"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 e8g8, 5.Nf3, without ...d5"]
+[HashCode "ff5d03cd"]
+[Epoch "Rook"]
+[WhiteID "2201011"]
+[WhiteCountry "ESP"]
+[BlackCountry "DEU"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Nf3 c5 6. Be2 d5 7. O-O Nc6 8. Ne5
+dxc4 9. Nxc6 bxc6 10. Qa4 Nd5 11. Ne4 Nb6 12. Qc2 cxd4 13. exd4 Qxd4 14. Ng5 g6
+15. Be3 Qe5 16. Rad1 Nd5 17. Bc1 Nf4 18. Bxf4 Qxf4 19. Nf3 Be7 20. Rd4 Qb8 21.
+Rxc4 c5 22. Rc3 Bb7 23. Rb3 Qc7 24. Nd2 Rac8 25. Nc4 Rfd8 26. Bf3 Bd5 27. Qc1
+Bf6 28. Re1 Rb8 29. Rxb8 Qxb8 30. b3 Bxf3 31. gxf3 Rd5 32. Re4 Rh5 33. Qf4 Qd8
+34. Re1 Rf5 35. Qe4 Bd4 36. Kf1 Qc7 37. Kg2 Rg5+ 38. Kh1 Bxf2 39. Rd1 Bd4 40.
+Qa8+ Kg7 0-1

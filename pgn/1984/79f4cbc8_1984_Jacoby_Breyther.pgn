@@ -1,0 +1,23 @@
+[Event "BL2-N 8384"]
+[Site "BL2-N 8384"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Jacoby, Gisbert"]
+[Black "Breyther, Ruediger"]
+[Result "0-1"]
+[ECO "E41"]
+[Opening "Nimzo-Indian"]
+[Variation "e3, Huebner variation"]
+[HashCode "79f4cbc8"]
+[Epoch "Rook"]
+[WhiteID "4604768"]
+[WhiteCountry "GER"]
+[BlackID "4601211"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Nf3 Nc6 6. Bd3 Bxc3+ 7. bxc3 d6 8.
+O-O e5 9. Qc2 O-O 10. Ng5 g6 11. f4 exd4 12. exd4 Ne7 13. h3 Bf5 14. Bxf5 gxf5
+15. Be3 Qc7 16. Bf2 h6 17. Nf3 Ne4 18. Nh4 Rae8 19. Rae1 d5 20. dxc5 Qxf4 21.
+Nf3 dxc4 22. Be3 Qg3 23. Bxh6 Nd5 24. Bxf8 Kxf8 25. Nd4 Ne3 26. Rxe3 Qxe3+ 27.
+Kh2 Qg3+ 28. Kg1 f4 29. Nf3 Re6 30. Re1 Ng5 31. Rxe6 Nxf3+ 32. Kf1 fxe6 33.
+gxf3 Qxf3+ 34. Ke1 Qe3+ 0-1

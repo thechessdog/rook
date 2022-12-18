@@ -1,0 +1,20 @@
+[Event "Bundesliga 8182"]
+[Site "Duitsland tt"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Mehler, Gerhard"]
+[Black "Bilek, Michael"]
+[Result "1/2-1/2"]
+[ECO "D27"]
+[Opening "QGA"]
+[Variation "classical, Rubinstein variation"]
+[HashCode "6d4e5c37"]
+[Epoch "Rook"]
+[WhiteID "4604857"]
+[WhiteCountry "GER"]
+[BlackID "4601416"]
+[BlackCountry "GER"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. e3 e6 5. Bxc4 c5 6. O-O a6 7. a4 Nc6 8. Qe2
+Be7 9. dxc5 Bxc5 10. Nc3 Qc7 11. b3 O-O 12. Bb2 b6 13. Rac1 Bb7 14. Bd3 Qe7 15.
+Rcd1 Nb4 16. Bb1 e5 17. Na2 Nc6 18. Ng5 h6 1/2-1/2

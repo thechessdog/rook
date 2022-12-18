@@ -1,0 +1,18 @@
+[Event "corr ICCF"]
+[Site "corr ICCF"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Destrebecq, F."]
+[Black "Carlsson"]
+[Result "1-0"]
+[ECO "C40"]
+[Opening "Latvian"]
+[Variation "Polerio variation"]
+[HashCode "6ef4780d"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 f5 3. Bc4 fxe4 4. Nxe5 d5 5. Qh5+ g6 6. Nxg6 hxg6 7. Qxg6+
+Kd7 8. Bxd5 Nf6 9. Nc3 Nxd5 10. Nxd5 c6 11. Qf7+ Be7 12. Nf6+ Kc7 13. Nxe4
+Rf8 14. Qg7 Bf5 15. d3 Nd7 16. Bf4+ Kc8 17. Bd6 Re8 18. O-O-O Nb6 19. Bxe7
+Rxe7 20. Qf6 Bh7 21. Rhe1 Rd7 22. Qh6 Bf5 23. Nf6 1-0
+

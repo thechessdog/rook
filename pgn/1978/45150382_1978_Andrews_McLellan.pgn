@@ -1,0 +1,18 @@
+[Event "corr ch-North America"]
+[Site "corr ch-North America"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Andrews, Randal"]
+[Black "McLellan, Richard"]
+[Result "1-0"]
+[ECO "B81"]
+[Opening "Sicilian"]
+[Variation "Scheveningen, Keres attack"]
+[HashCode "45150382"]
+[Epoch "Rook"]
+[WhiteID "2007100"]
+[WhiteCountry "USA"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. g4 a6 7. g5 Nfd7 8. Be3
+b5 9. a3 Nb6 10. Rg1 N8d7 11. h4 Bb7 12. h5 g6 13. Rh1 e5 14. hxg6 fxg6 15. Ne6
+Qb8 16. Qf3 Bc6 17. Rh4 Qb7 18. Qh3 h5 19. gxh6 Be7 20. Qg4 1-0

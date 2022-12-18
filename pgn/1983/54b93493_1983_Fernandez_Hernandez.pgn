@@ -1,0 +1,16 @@
+[Event "Capablanca mem-A"]
+[Site "Capablanca mem"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Fernandez Garcia, Jose Luis"]
+[Black "Hernandez, Roman"]
+[Result "1/2-1/2"]
+[ECO "C77"]
+[Opening "Ruy Lopez"]
+[Variation "Morphy defence"]
+[HashCode "54b93493"]
+[Epoch "Rook"]
+[BlackCountry "CUB"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. d4 exd4 6. O-O Be7 7. Re1 O-O 8. e5
+Ne8 9. c3 dxc3 10. Nxc3 d6 11. exd6 cxd6 12. Bf4 1/2-1/2

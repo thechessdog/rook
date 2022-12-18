@@ -1,0 +1,22 @@
+[Event "corr DDR-H"]
+[Site "corr DDR-H"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Grigutsch, KD."]
+[Black "Leipold, H."]
+[Result "1-0"]
+[ECO "E74"]
+[Opening "King's Indian"]
+[Variation "Averbakh, 6...c5"]
+[HashCode "a6b91e8d"]
+[Epoch "Rook"]
+
+1. c4 Nf6 2. Nc3 g6 3. d4 Bg7 4. e4 d6 5. Be2 O-O 6. Bg5 c5 7. d5 h6 8. Be3
+e6 9. dxe6 Bxe6 10. Qd2 Kh7 11. h3 Nc6 12. Nf3 Qe7 13. g4 Nd7 14. h4 Nde5
+15. Nd5 Nxf3+ 16. Bxf3 Bxd5 17. cxd5 Nd4 18. Bg2 Rae8 19. g5 h5 20. O-O-O
+a5 21. f4 b5 22. Rhf1 b4 23. Rde1 Qd7 24. f5 Be5 25. Bh3 Qb5 26. Bxd4 Bxd4
+27. Qe2 Qa4 28. Kb1 Kg7 29. Rf3 Rb8 30. Qc4 Qb5 31. Bf1 Qb7 32. Qa6 Qc7 33.
+Bc4 Rfc8 34. Qc6 Qd8 35. Qa4 Qb6 36. fxg6 Kxg6 37. Rxf7 Kxf7 38. Qd7+ Kg8
+39. Qe6+ Kh8 40. Qh6+ Kg8 41. Qg6+ Bg7 42. e5 Qd8 43. Bd3 Rb7 44. e6 Rcc7
+45. Rf1 1-0
+

@@ -1,0 +1,19 @@
+[Event "Brighton ch-BCF"]
+[Site "Brighton ch-BCF"]
+[Date "1984.08.01"]
+[Round "1"]
+[White "Clarke, Thomas"]
+[Black "Hawkes, Rob"]
+[Result "1/2-1/2"]
+[ECO "B13"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack"]
+[HashCode "78fc8f10"]
+[Epoch "Rook"]
+[BlackID "2600382"]
+[BlackCountry "CAN"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nf3 g6 6. Nc3 Bg7 7. cxd5 Nxd5 8.
+Bc4 Nb6 9. Bb3 O-O 10. Be3 Nc6 11. O-O Bg4 12. h3 Bf5 13. Rc1 Rc8 14. Re1 Na5
+15. Bg5 Nxb3 16. Qxb3 Re8 17. Rcd1 Qd6 18. Bh4 Bf6 19. Bg3 Qd8 20. Ne5 Rf8 21.
+a4 Bxe5 1/2-1/2

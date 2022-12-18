@@ -1,0 +1,32 @@
+[Event "New York Int"]
+[Site "New York Int"]
+[Date "1984.01.01"]
+[Round "5"]
+[White "Rizzitano, James"]
+[Black "Lein, Anatoly"]
+[Result "0-1"]
+[ECO "B89"]
+[Opening "Sicilian"]
+[Variation "Sozin, 7.Be3"]
+[HashCode "6eab29f5"]
+[Epoch "Rook"]
+[BlackID "2000270"]
+[BlackCountry "USA"]
+[WhiteID "2000806"]
+[WhiteCountry "USA"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bc4 e6 7. Be3 a6 8. Bb3
+Be7 9. Qe2 Na5 10. O-O-O Qc7 11. g4 b5 12. g5 Nxb3+ 13. axb3 Nd7 14. Nf5 exf5
+15. Nd5 Qd8 16. exf5 Bb7 17. f6 Bxd5 18. fxg7 Rg8 19. Rxd5 Rxg7 20. Re1 Rg6 21.
+f4 Re6 22. f5 Re5 23. Rxe5 dxe5 24. g6 fxg6 25. fxg6 Qa5 26. Kb1 hxg6 27. Rg1
+O-O-O 28. Rxg6 Nf6 29. Bg5 Nd5 30. Qxe5 Bxg5 31. Rxg5 Nc7 32. Rg1 Qb6 33. Re1
+Qd6 34. Qf5+ Qd7 35. Qf4 Qd6 36. Qf5+ Kb8 37. h4 Rh8 38. h5 Qd5 39. Re5 Qd1+
+40. Ka2 Rg8 41. Rc5 Rg1 42. Qf8+ Kb7 43. Rxc7+ Kxc7 44. Qe7+ Kc6 45. Qe8+ Kd6
+46. Qd8+ Ke5 47. Qe7+ Kf5 48. Qf7+ Kg5 49. Qg6+ Kh4 50. Qf6+ Kxh5 51. Qf5+ Kh4
+52. Qf4+ Kh3 53. Qh6+ Kg4 54. Qg6+ Kh4 55. Qf6+ Rg5 56. Qf4+ Kh5 57. Qf7+ Kg4
+58. Qe6+ Kh4 59. Qe4+ Rg4 60. Qh7+ Kg3 61. Qc7+ Kg2 62. Qc6+ Qf3 63. Qd6 b4 64.
+Qd2+ Kf1 65. Qc1+ Ke2 66. Qh6 Ke1 67. Qc1+ Kf2 68. Qd2+ Qe2 69. Qd6 Ke1 70. Qh6
+Kd1 71. Qh1+ Kxc2 72. Qc6+ Kd2 73. Qd5+ Qd3 74. Qh5 Qg6 75. Qd5+ Ke3 76. Qc5+
+Kf3 77. Qd5+ Re4 78. Qd1+ Kf4 79. Qd2+ Ke5 80. Qc2 Kd6 81. Qd1+ Kc7 82. Qc1+
+Kb7 83. Qh1 Qc6 84. Qh5 Re7 85. Qg5 Rc7 86. Qe5 Qc5 87. Qe4+ Ka7 88. Kb1 Rb7
+0-1

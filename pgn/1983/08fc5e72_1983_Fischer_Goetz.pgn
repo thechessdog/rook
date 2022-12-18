@@ -1,0 +1,14 @@
+[Event "Brocco"]
+[Site "Brocco"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Fischer, Robert"]
+[Black "Goetz"]
+[Result "1-0"]
+[ECO "C00"]
+[Opening "French"]
+[Variation "King's Indian attack"]
+[HashCode "08fc5e72"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d3 d5 3. Nd2 Qd7 4. Ngf3 f5 5. Ne5 Qe7 6. Qh5+ Kd8 7. Nf7+ 1-0

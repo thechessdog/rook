@@ -1,0 +1,21 @@
+[Event "Bundesliga 8081"]
+[Site "Duitsland tt"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Zieher, Hartmut"]
+[Black "Weichert, Helmut"]
+[Result "1-0"]
+[ECO "B36"]
+[Opening "Sicilian"]
+[Variation "accelerated fianchetto, Gurgenidze variation"]
+[HashCode "ff199cab"]
+[Epoch "Rook"]
+[WhiteID "4607821"]
+[WhiteCountry "GER"]
+[BlackID "4623258"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6 5. c4 Nf6 6. Nc3 Nxd4 7. Qxd4 d6 8.
+Be3 Bg7 9. f3 O-O 10. Qd2 Qa5 11. Rc1 Be6 12. Be2 Rfc8 13. Nd5 Qxd2+ 14. Kxd2
+Nxd5 15. exd5 Bd7 16. b3 Kf8 17. Bd3 b6 18. g4 Rab8 19. h4 f5 20. h5 Kf7 21.
+hxg6+ hxg6 22. Rcg1 Rh8 23. gxf5 Bxf5 24. Bxf5 Rxh1 25. Be6+ Kf6 26. Bd4# 1-0

@@ -1,0 +1,28 @@
+[Event "Copenhagen op"]
+[Site "Copenhagen op"]
+[Date "1984.01.01"]
+[Round "7"]
+[White "Barczay, Laszlo"]
+[Black "Jacoby, Gisbert"]
+[Result "1/2-1/2"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "classical attack, Chigorin variation"]
+[HashCode "757951f0"]
+[Epoch "Rook"]
+[BlackID "4604768"]
+[BlackCountry "GER"]
+[WhiteCountry "HUN"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Be7 7. O-O Nc6 8.
+Re1 Bg4 9. c3 f5 10. Qc2 Qd6 11. Nfd2 Nxf2 12. Kxf2 Qxh2 13. Nf1 Qh4+ 14. g3
+Qh1 15. Bf4 O-O 16. Bb5 g5 17. Bxc6 gxf4 18. Bxd5+ Qxd5 19. Rxe7 Rae8 20. Rxe8
+Qf3+ 21. Kg1 Rxe8 22. Nbd2 Qe2 23. Qb3+ Re6 24. Qc4 f3 25. Qxe2 fxe2 26. Re1
+exf1=Q+ 27. Kxf1 Kf7 28. Rxe6 Kxe6 29. Kf2 b6 30. Ke3 Kd6 31. Nc4+ Ke6 32. Kf4
+Be2 33. Ne3 Bd3 34. c4 a5 35. b3 Bb1 36. a3 Bd3 37. b4 axb4 38. axb4 c6 39. d5+
+Kd6 40. dxc6 Kxc6 41. Ke5 Kc7 42. Kd4 Bb1 43. b5 Kb7 44. Ke5 Bd3 45. Nxf5 Kc7
+46. Ne3 Be2 47. Kd4 Bh5 48. g4 Bg6 49. g5 Bb1 50. Ng4 Bf5 51. Nf6 Bc2 52. Ne8+
+Kd7 53. Kc3 Bg6 54. Nf6+ Kc7 55. Kb4 Kb7 56. c5 bxc5+ 57. Kxc5 Kc7 58. Nd5+ Kb7
+59. Ne3 Kc7 60. Nc4 Be4 61. Nd6 Ba8 62. Ne8+ Kd7 63. Nf6+ Ke6 64. Nxh7 Kf5 65.
+Kd6 Kg6 66. Nf8+ Kxg5 67. Ne6+ Kf5 68. Nc7 Bb7 69. Na6 Kf4 70. Kc7 Ba8 71. Kb8
+Bg2 72. Kc7 Ke5 73. b6 Ba8 74. Kc8 Kd6 75. Kb8 Bg2 1/2-1/2

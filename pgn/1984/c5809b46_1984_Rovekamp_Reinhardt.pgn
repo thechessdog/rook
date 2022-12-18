@@ -1,0 +1,18 @@
+[Event "Eppingen tt"]
+[Site "Eppingen tt"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Rovekamp"]
+[Black "Reinhardt, Bernd"]
+[Result "1/2-1/2"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical system, 5.Be2"]
+[HashCode "c5809b46"]
+[Epoch "Rook"]
+[BlackID "4606043"]
+[BlackCountry "GER"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. Nf3 Nf6 5. Be2 O-O 6. O-O Bg4 7. Be3 Nc6 8. Qd3
+Nd7 9. Nd2 Bxe2 10. Nxe2 Rb8 11. f4 Nb4 12. Qb3 c5 13. c3 Nc6 14. f5 cxd4 15.
+cxd4 Qb6 16. Kh1 1/2-1/2

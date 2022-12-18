@@ -1,0 +1,19 @@
+[Event "ISL-ch"]
+[Site "Reykjavik"]
+[Date "1979.??.??"]
+[Round "5"]
+[White "Haraldsson, Haraldur"]
+[Black "Karlsson, Hilmar"]
+[Result "0-1"]
+[ECO "C64"]
+[Opening "Ruy Lopez"]
+[Variation "classical defence, 4.c3"]
+[HashCode "fea5bf74"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. c3 Qf6 5. O-O Nge7 6. d4 exd4 7. Bg5 Qg6
+8. Bxe7 Bxe7 9. cxd4 a6 10. Bd3 d6 11. e5 Bf5 12. Bxf5 Qxf5 13. Qb3 O-O-O
+14. Re1 dxe5 15. dxe5 Rd3 16. Nc3 Rxf3 17. gxf3 Nd4 18. Qc4 Nxf3+ 19. Kh1
+Nxe1 20. Rxe1 Rd8 21. Kg2 Rd2 22. Re2 Rd3 23. Kg1 Rh3 24. f4 Rh4 25. Rf2
+Bd8 26. Qd4 Rh6 27. Rd2 Bh4 28. Qc5 b6 29. Qd5 Kb8 30. Qd7 0-1
+

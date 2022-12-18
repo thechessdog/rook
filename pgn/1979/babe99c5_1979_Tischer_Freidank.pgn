@@ -1,0 +1,17 @@
+[Event "corr DDR-cup6"]
+[Site "corr DDR-cup6"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Tischer, J."]
+[Black "Freidank, W."]
+[Result "1-0"]
+[ECO "A82"]
+[Opening "Dutch"]
+[Variation "Staunton gambit"]
+[HashCode "babe99c5"]
+[Epoch "Rook"]
+
+1. d4 f5 2. e4 fxe4 3. Nc3 Nf6 4. f3 exf3 5. Nxf3 g6 6. Bf4 Bg7 7. Qd2 O-O
+8. O-O-O d5 9. Bd3 c6 10. h3 b5 11. g4 a5 12. Ne5 Qe8 13. Rde1 Na6 14. Rhg1
+Ra7 15. h4 Nc7 16. Bh6 Ne6 17. h5 g5 18. Bxg5 Nxg5 19. Qxg5 Kh8 20. h6 1-0
+

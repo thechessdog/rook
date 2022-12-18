@@ -1,0 +1,17 @@
+[Event "Rubinstein Memorial"]
+[Site "Polancia Zdroj"]
+[Date "1978.08.01"]
+[Round "1"]
+[White "Bednarski, Jacek B"]
+[Black "Kuligowski, Adam"]
+[Result "1/2-1/2"]
+[ECO "B51"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky (Nimzovich-Rossolimo, Moscow) attack"]
+[HashCode "9c6c1ce5"]
+[Epoch "Rook"]
+[BlackID "1100092"]
+[BlackCountry "POL"]
+[WhiteCountry "POL"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Nd7 4. d4 Nf6 5. e5 Qa5+ 6. Nc3 1/2-1/2

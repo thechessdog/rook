@@ -1,0 +1,22 @@
+[Event "corr DDR-FSM"]
+[Site "corr DDR-FSM"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Rau, J."]
+[Black "Scholz, R."]
+[Result "0-1"]
+[ECO "A00"]
+[Opening "Polish (Sokolsky) opening"]
+[HashCode "4e14a3f1"]
+[Epoch "Rook"]
+
+1. b4 e5 2. Bb2 f6 3. e4 d5 4. f4 exf4 5. Qh5+ g6 6. Qxd5 Qxd5 7. exd5 Bxb4
+8. Ne2 Bd6 9. Nbc3 Ne7 10. Nd4 O-O 11. Ndb5 a6 12. Nxd6 cxd6 13. Ne4 Kg7
+14. c4 Nf5 15. Kf2 Nd7 16. Ba3 Ne5 17. Nxd6 Nxd6 18. Bxd6 Rf7 19. Re1 Ng4+
+20. Kf3 g5 21. c5 Nh6 22. Re6 Nf5 23. Ke4 Nxd6+ 24. Rxd6 Re7+ 25. Kd4 Bd7
+26. c6 Be8 27. Bd3 Rc8 28. Rc1 bxc6 29. dxc6 Rec7 30. Kd5 Rb8 31. Re6 Rd8+
+32. Rd6 Bf7+ 33. Kc5 Rxc6+ 34. Rxc6 Rxd3 35. Rc2 Rd5+ 36. Kb4 Bg6 37. Rb2
+Rb5+ 38. Ka3 Rxb2 39. Kxb2 Be4 40. Rc7+ Kg6 41. d4 Bxg2 42. Rc2 Be4 43. Rd2
+Bd5 44. Kc3 g4 45. Kd3 h5 46. Rc2 f5 47. Rc8 h4 48. Rd8 g3 49. hxg3 fxg3
+50. Ke3 h3 0-1
+

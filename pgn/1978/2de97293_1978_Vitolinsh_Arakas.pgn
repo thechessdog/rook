@@ -1,0 +1,18 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Vitolinsh, Alvis"]
+[Black "Arakas"]
+[Result "1-0"]
+[ECO "B94"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.Bg5"]
+[HashCode "2de97293"]
+[Epoch "Rook"]
+[WhiteCountry "LVA"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 Nbd7 7. f4 Qb6 8.
+Qd2 Qxb2 9. Rb1 Qa3 10. Bxf6 gxf6 11. Nd5 Rb8 12. Rb3 Qa4 13. Bxa6 bxa6 14. Qc3
+Qxb3 15. cxb3 Bb7 16. Nc7+ Kd8 17. Qa5 Kc8 18. O-O Bxe4 19. Rc1 Nc5 20. b4 e5
+21. Nxa6 Rb7 22. bxc5 1-0

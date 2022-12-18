@@ -1,0 +1,22 @@
+[Event "corr ch-DDR"]
+[Site "corr ch-DDR"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Eckermann"]
+[Black "Schmidt, Wlodzimierz"]
+[Result "1-0"]
+[ECO "B31"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (with ...g6, without ...d6)"]
+[HashCode "fbac6faa"]
+[Epoch "Rook"]
+[BlackID "1100041"]
+[BlackCountry "POL"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. Re1 e5 6. Bxc6 dxc6 7. d3 Qe7 8.
+Nbd2 Bg4 9. a4 Nh6 10. Nc4 f6 11. Be3 Nf7 12. h3 Bd7 13. a5 O-O 14. Nfd2 f5 15.
+Nb3 f4 16. Bxc5 Qh4 17. Bxf8 Rxf8 18. Qe2 Ng5 19. f3 Qg3 20. Kh1 Bxh3 21. Qf1
+Be6 22. Re2 Nf7 23. Qf2 Qg5 24. Kg1 h5 25. Kf1 Bf6 26. Rd2 h4 27. Ke2 Qh5 28.
+Nc5 Bc8 29. Rh1 h3 30. gxh3 Bh4 31. Qg2 Bg3 32. c3 Ng5 33. Rdd1 Nf7 34. d4 exd4
+35. cxd4 Kg7 36. b4 Rh8 37. h4 Bxh4 38. Rdg1 g5 39. Qf1 Kf8 40. Qc1 Qg6 41.
+Qxf4 1-0

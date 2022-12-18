@@ -1,0 +1,19 @@
+[Event "Wehl"]
+[Site "Wehl"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Carlier"]
+[Black "Baljon"]
+[Result "1-0"]
+[ECO "B25"]
+[Opening "Sicilian"]
+[Variation "closed, 6.f4"]
+[HashCode "6dd823e7"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. f4 f5 7. exf5 gxf5 8.
+Qh5+ Kf8 9. Qd1 Nf6 10. Nf3 Kg8 11. O-O h6 12. Kh1 Kh7 13. Be3 Qb6 14. Rb1
+Be6 15. h3 Bf7 16. g4 fxg4 17. hxg4 Nxg4 18. Ng5+ hxg5 19. Qxg4 Kg8+ 20.
+Kg1 Nd4 21. fxg5 Nxc2 22. Bd5 Bxc3 23. Rxf7 Nxe3 24. Qe6 Rh4 25. Rf8+ Kh7
+26. Qg8# 1-0
+

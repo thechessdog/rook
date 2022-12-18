@@ -1,0 +1,20 @@
+[Event "New York"]
+[Site "New York"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Hjartarson, Johann"]
+[Black "Ostos, Julio Eduardo"]
+[Result "1-0"]
+[ECO "A33"]
+[Opening "English"]
+[Variation "symmetrical, Geller variation"]
+[HashCode "20f2c7c6"]
+[Epoch "Rook"]
+[BlackID "3900053"]
+[BlackCountry "VEN"]
+[WhiteID "2300044"]
+[WhiteCountry "ISL"]
+
+1. c4 c5 2. Nf3 Nf6 3. d4 cxd4 4. Nxd4 e6 5. Nc3 Nc6 6. g3 Qb6 7. Nb3 Bb4 8.
+Bg2 Ne5 9. Be3 Qa6 10. c5 Nc4 11. Bc1 d5 12. O-O O-O 13. Qc2 b6 14. Bg5 Nd7 15.
+Nxd5 1-0

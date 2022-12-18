@@ -1,0 +1,19 @@
+[Event "Imperia"]
+[Site "Imperia"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Tassi"]
+[Black "Faccia"]
+[Result "1-0"]
+[ECO "C91"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Bogolyubov variation"]
+[HashCode "18140bc9"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8.
+d4 d6 9. c3 Bg4 10. Be3 d5 11. exd5 exd4 12. Bxd4 Nxd4 13. cxd4 Bb4 14. Nc3
+Bxc3 15. bxc3 Nxd5 16. Qd3 Qd6 17. Re5 Nf4 18. Qe4 Qf6 19. Ng5 g6 20. Nxf7
+Kg7 21. Re7 Be6 22. Rxc7 Rac8 23. Rxc8 Bxc8 24. Re1 Rxf7 25. Bxf7 Qxf7 26.
+Qe5+ Kh6 27. Re4 Nh5 28. g4 Ng7 29. g5+ Kh5 30. Qg3 1-0
+

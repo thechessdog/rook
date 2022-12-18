@@ -1,0 +1,26 @@
+[Event "Mar del Plata"]
+[Site "Mar del Plata"]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Rubinetti, Jorge"]
+[Black "Van Riemsdijk, Herman C"]
+[Result "0-1"]
+[ECO "B16"]
+[Opening "Caro-Kann"]
+[Variation "Bronstein-Larsen variation"]
+[HashCode "60646e97"]
+[Epoch "Rook"]
+[WhiteID "100161"]
+[WhiteCountry "ARG"]
+[BlackCountry "BRA"]
+
+1. e4 c6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Nf6 5. Nxf6+ gxf6 6. Ne2 Bf5 7. Ng3 Bg6
+8. h4 h5 9. c3 e6 10. Be2 c5 11. d5 Qxd5 12. Qxd5 exd5 13. Bf3 Na6 14. Bxd5
+O-O-O 15. Bc4 Nc7 16. a4 Bd6 17. O-O Rhe8 18. f4 f5 19. Kh2 Be7 20. Kh3 Bf6 21.
+a5 a6 22. Be2 Nb5 23. Rf3 Nd6 24. Be3 Ne4 25. Nf1 Rd7 26. g3 Bd8 27. Ra4 f6 28.
+Bc4 Rd1 29. Kg2 Re7 30. Ra2 Be8 31. Bb3 Re1 32. Bd5 Bf7 33. Bxf7 Rxf7 34. b3
+Rd7 35. Rc2 Bxa5 36. b4 cxb4 37. cxb4+ Bc7 38. Bb6 Kb8 39. Bxc7+ Rxc7 40. Rxc7
+Kxc7 41. Ne3 Re2+ 42. Kg1 Nd2 43. Nd5+ Kd6 44. Rd3 Nf3+ 45. Kf1 Rd2 46. Rxf3
+Kxd5 47. Rb3 Kc4 48. Rb1 Kc3 49. Rc1+ Rc2 50. Rd1 Kxb4 51. Rb1+ Kc3 52. Rxb7 a5
+53. Rc7+ Kd3 54. Ra7 Ra2 55. Rh7 a4 56. Rxh5 a3 57. Rxf5 Rb2 58. Rxf6 a2 59.
+Ra6 Ke4 60. h5 Rb1+ 61. Kg2 a1=Q 62. Rxa1 Rxa1 63. h6 Ra6 0-1

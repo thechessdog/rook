@@ -1,0 +1,20 @@
+[Event "Rome"]
+[Site "Rome"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Parashiv"]
+[Black "Evulet"]
+[Result "0-1"]
+[ECO "B33"]
+[Opening "Sicilian"]
+[Variation "Pelikan (Lasker/Sveshnikov) variation"]
+[HashCode "be255e57"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Nxc6 bxc6 7. Bg5
+Rb8 8. Qc1 Bb4 9. Bd3 O-O 10. O-O d5 11. Ne2 Be7 12. Bxf6 Bxf6 13. b3 Bg5
+14. Qd1 f5 15. exd5 cxd5 16. c4 e4 17. Bc2 Bf6 18. Rc1 d4 19. Ng3 d3 20.
+Bb1 Bb2 21. Qd2 Bxc1 22. Rxc1 Qe7 23. c5 f4 24. Nf1 Ba6 25. b4 Rbe8 26. Re1
+e3 27. fxe3 f3 28. Qf2 fxg2 29. Qxg2 Rxf1+ 30. Rxf1 Qxe3+ 31. Kh1 d2 32.
+Rg1 Qxg1+ 33. Qxg1 Bb7+ 0-1
+

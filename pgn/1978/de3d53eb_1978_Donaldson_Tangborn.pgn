@@ -1,0 +1,18 @@
+[Event "Seattle"]
+[Site "Seattle"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Donaldson, John"]
+[Black "Tangborn, E."]
+[Result "1-0"]
+[ECO "B43"]
+[Opening "Sicilian"]
+[Variation "Kan, 5.Nc3"]
+[HashCode "de3d53eb"]
+[Epoch "Rook"]
+[WhiteID "2000709"]
+[WhiteCountry "USA"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 Qc7 6. g3 b5 7. Bg2 Bb7 8. O-O
+Nf6 9. Re1 d6 10. Bg5 Be7 11. Bxf6 gxf6 12. Nd5 exd5 13. exd5 Kd8 14. Qh5 Bf8
+15. Re3 Bc8 16. Rae1 Bg7 17. Qxh7 1-0

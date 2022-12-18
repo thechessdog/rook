@@ -1,0 +1,19 @@
+[Event "Lodz Makarczyka Mem"]
+[Site "Lodz Makarczyka Mem"]
+[Date "1980.01.01"]
+[Round "13"]
+[White "Kirov, Nino"]
+[Black "Adamski, Jan"]
+[Result "1/2-1/2"]
+[ECO "B92"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Opovcensky variation"]
+[HashCode "f912aa7d"]
+[Epoch "Rook"]
+[BlackID "1100190"]
+[BlackCountry "POL"]
+[WhiteCountry "BGR"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8. O-O
+O-O 9. a4 Be6 10. f4 Nbd7 11. f5 Bxb3 12. cxb3 Qb6+ 13. Kh1 Nc5 14. Bg5 Qxb3
+15. Bxf6 Bxf6 16. Qe1 Qb4 1/2-1/2

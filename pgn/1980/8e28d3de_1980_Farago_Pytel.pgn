@@ -1,0 +1,22 @@
+[Event "Bagneaux"]
+[Site "Bagneaux"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Farago, Ivan"]
+[Black "Pytel, Krzysztof"]
+[Result "0-1"]
+[ECO "A92"]
+[Opening "Dutch defence, Alekhine variation"]
+[HashCode "8e28d3de"]
+[Epoch "Rook"]
+[BlackID "600199"]
+[WhiteID "700134"]
+[WhiteCountry "HUN"]
+[BlackCountry "FRA"]
+
+1. d4 e6 2. c4 f5 3. g3 Nf6 4. Bg2 Be7 5. Nf3 O-O 6. O-O Ne4 7. Nbd2 Bf6 8. Qc2
+d5 9. b3 Nc6 10. Bb2 a5 11. e3 Bd7 12. a3 Qe7 13. Rac1 g5 14. Ne5 g4 15. cxd5
+exd5 16. f3 gxf3 17. Ndxf3 Rac8 18. Bh3 Bg7 19. Qd3 Nxe5 20. dxe5 c6 21. Rc2
+Rce8 22. b4 axb4 23. axb4 Ng5 24. Nxg5 Qxg5 25. Rcf2 Bxe5 26. Bc1 Qg6 27. Bxf5
+Bxf5 28. Rxf5 Rxf5 29. Rxf5 Rf8 30. e4 Rxf5 31. exf5 Qg4 32. Bd2 Kf7 33. b5 Kf6
+34. bxc6 bxc6 35. Qc2 c5 36. Be3 c4 37. Qd2 d4 38. Bf4 Qxf5 39. Qb2 c3 0-1

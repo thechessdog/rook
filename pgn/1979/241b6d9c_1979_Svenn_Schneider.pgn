@@ -1,0 +1,22 @@
+[Event "Sweden"]
+[Site "Sweden"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Svenn, Matti"]
+[Black "Schneider, Lars-Ake"]
+[Result "0-1"]
+[ECO "B31"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (with ...g6, without ...d6)"]
+[HashCode "241b6d9c"]
+[Epoch "Rook"]
+[WhiteID "1705091"]
+[WhiteCountry "SWE"]
+[BlackCountry "SWE"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. Re1 e5 6. c3 Nge7 7. Na3 O-O 8. Nc2
+d6 9. a4 Be6 10. Bf1 Na5 11. b4 Nb3 12. Rb1 cxb4 13. Nxb4 Nxc1 14. Qxc1 Qa5 15.
+Qa3 h6 16. Nc2 Qc7 17. Qb4 b6 18. Na3 d5 19. Nb5 Qd7 20. d3 Rfd8 21. h3 Rac8
+22. Na3 Nc6 23. Qb2 dxe4 24. dxe4 Na5 25. Bb5 Qd6 26. Rbc1 Qc5 27. Qb4 Nb3 28.
+Qxc5 Nxc5 29. Rc2 Bb3 30. Rd2 Bxa4 31. c4 Rxd2 32. Nxd2 Rd8 33. Ndb1 a6 34.
+Bxa4 Nxa4 35. Nc2 Bf8 36. f3 Nb2 0-1

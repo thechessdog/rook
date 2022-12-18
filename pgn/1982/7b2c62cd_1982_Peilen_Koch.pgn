@@ -1,0 +1,17 @@
+[Event "USA"]
+[Site "USA"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Peilen, Mark"]
+[Black "Koch"]
+[Result "1-0"]
+[ECO "D00"]
+[Opening "Blackmar-Diemer"]
+[Variation "Euwe defence"]
+[HashCode "7b2c62cd"]
+[Epoch "Rook"]
+
+1. d4 d5 2. e4 dxe4 3. Nc3 Nf6 4. f3 exf3 5. Nxf3 e6 6. Bg5 Be7 7. Qd2 b6
+8. Bd3 Bb7 9. O-O-O Nbd7 10. Rde1 O-O 11. Rhf1 b5 12. Qf4 h6 13. Bxh6 gxh6
+14. Qxh6 Re8 15. Ng5 Nf8 16. Rxf6 Bxf6 17. Bh7+ Kh8 18. Nxf7# 1-0
+

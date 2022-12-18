@@ -1,0 +1,21 @@
+[Event "Frenstat"]
+[Site "Frenstat"]
+[Date "1982.01.01"]
+[Round "3"]
+[White "Ruckschloss, Karol"]
+[Black "Dobrovolsky, Ladislav"]
+[Result "1-0"]
+[ECO "A28"]
+[Opening "English"]
+[Variation "four knights, Nimzovich variation"]
+[HashCode "e0f02586"]
+[Epoch "Rook"]
+[BlackID "300250"]
+[BlackCountry "CZE"]
+[WhiteID "14900386"]
+[WhiteCountry "SVK"]
+
+1. c4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. e4 Bc5 5. Be2 d6 6. h3 h6 7. d3 Be6 8. a3 Nd4
+9. Nxd4 Bxd4 10. Be3 Bxe3 11. fxe3 c6 12. d4 O-O 13. O-O Nh7 14. Kh2 Ng5 15. d5
+Bd7 16. Bg4 Bxg4 17. Qxg4 Qf6 18. h4 Nh7 19. Ne2 g6 20. Ng3 Kh8 21. Rf3 Qd8 22.
+Raf1 h5 23. Nxh5 gxh5 24. Qxh5 f6 25. g4 Qe7 26. g5 fxg5 27. Rf7 1-0

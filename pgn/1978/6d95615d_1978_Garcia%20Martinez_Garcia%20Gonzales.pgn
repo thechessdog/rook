@@ -1,0 +1,19 @@
+[Event "Havana"]
+[Site "Havana"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Garcia Gonzales, Guillermo"]
+[Black "Garcia Gonzales, Guillermo"]
+[Result "1-0"]
+[ECO "C03"]
+[Opening "French"]
+[Variation "Tarrasch"]
+[HashCode "6d95615d"]
+[Epoch "Rook"]
+[BlackCountry "CUB"]
+[WhiteCountry "CUB"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Ne7 4. Ngf3 Ng6 5. h4 h5 6. g3 c5 7. Bg2 Nc6 8. exd5
+Qxd5 9. O-O Nxd4 10. Nxd4 Qxd4 11. Qe2 Be7 12. Ne4 Bd7 13. Rd1 Qb4 14. Bg5 Bc6
+15. Bxe7 Kxe7 16. Qe3 Rhc8 17. Nd6 Rc7 18. c3 Qa5 19. Nc4 Qb5 20. Qg5+ Kf8 21.
+Rd8+ Rxd8 22. Qxd8+ Be8 23. Qxc7 Qxc4 24. Qxb7 Qe2 25. Qxa7 1-0

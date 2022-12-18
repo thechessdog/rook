@@ -1,0 +1,17 @@
+[Event "Dayton,OH"]
+[Site "Dayton,OH"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Ling, R."]
+[Black "Trogdon, T."]
+[Result "1-0"]
+[ECO "C55"]
+[Opening "Two knights defence (Modern bishop's opening)"]
+[HashCode "2bff76d4"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d3 Be7 5. Nc3 O-O 6. Nd5 d6 7. Nxe7+ Nxe7
+8. Bg5 Ng6 9. Nh4 Nxh4 10. Bxh4 c6 11. O-O Qe7 12. f4 exf4 13. Rxf4 Qe5 14.
+Qf3 Qd4+ 15. Kh1 Qxb2 16. Rf1 Be6 17. Rxf6 Bxc4 18. dxc4 Qxc2 19. Rxf7 Rfe8
+20. Rxg7+ 1-0
+

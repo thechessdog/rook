@@ -1,0 +1,20 @@
+[Event "Groningen"]
+[Site "Groningen"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Plaskett, H James"]
+[Black "Hawelko, Marek"]
+[Result "1-0"]
+[ECO "B06"]
+[Opening "Robatsch defence"]
+[Variation "Pseudo-Austrian attack"]
+[HashCode "c62753b6"]
+[Epoch "Rook"]
+[WhiteCountry "ENG"]
+[BlackID "1100203"]
+[BlackCountry "POL"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. f4 a6 5. Nf3 b5 6. a4 b4 7. Na2 Bb7 8. Bd3 a5
+9. O-O Nd7 10. Qe2 d5 11. e5 e6 12. g4 c5 13. dxc5 h5 14. f5 hxg4 15. fxe6 gxf3
+16. Rxf3 Nxe5 17. Bb5+ Ke7 18. Bg5+ f6 19. Qxe5 Rh5 20. Bd7 Ra6 21. Raf1 Qf8
+22. h4 Rxg5+ 23. hxg5 fxe5 24. Rxf8 Nf6 25. gxf6+ Kxf8 26. e7+ 1-0

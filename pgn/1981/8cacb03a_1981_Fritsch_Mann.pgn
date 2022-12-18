@@ -1,0 +1,19 @@
+[Event "corr DDR/M"]
+[Site "corr DDR/M"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Fritsch"]
+[Black "Mann"]
+[Result "0-1"]
+[ECO "B92"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Opovcensky variation"]
+[HashCode "8cacb03a"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8.
+O-O Be6 9. Be3 Nbd7 10. Nd2 Rc8 11. a4 d5 12. exd5 Nxd5 13. Nxd5 Bxd5 14.
+b3 O-O 15. Nc4 Be6 16. Qd2 Qc7 17. Rfd1 f5 18. a5 f4 19. Bb6 Qc6 20. f3
+Nxb6 21. Nxb6 Rcd8 22. Bd3 Bc5+ 23. Kf1 e4 24. fxe4 f3 25. Qg5 Qd6 26. Qh4
+Qd4 0-1
+

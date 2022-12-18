@@ -1,0 +1,18 @@
+[Event "Dayton,OH"]
+[Site "Dayton,OH"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Wall, Bill"]
+[Black "Holsapple, Boyd"]
+[Result "1-0"]
+[ECO "A82"]
+[Opening "Dutch"]
+[Variation "Staunton gambit"]
+[HashCode "497ecf34"]
+[Epoch "Rook"]
+[WhiteCountry "USA"]
+[BlackCountry "USA"]
+
+1. d4 f5 2. e4 fxe4 3. f3 Nf6 4. Nc3 exf3 5. Nxf3 d6 6. Bc4 b6 7. Ng5 d5 8.
+Nxd5 Bb7 9. Nxf6+ gxf6 10. Bf7+ Kd7 11. Qg4+ Kc6 12. Qe6+ Qd6 13. Be8+ Nd7 14.
+Bxd7# 1-0

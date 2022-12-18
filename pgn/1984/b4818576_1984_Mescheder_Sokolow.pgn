@@ -1,0 +1,20 @@
+[Event "corr DDR/FS"]
+[Site "corr DDR/FS"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Mescheder, W."]
+[Black "Sokolow"]
+[Result "0-1"]
+[ECO "A39"]
+[Opening "English"]
+[Variation "symmetrical, main line with d4"]
+[HashCode "b4818576"]
+[Epoch "Rook"]
+
+1. Nf3 Nf6 2. c4 c5 3. Nc3 Nc6 4. g3 g6 5. Bg2 Bg7 6. O-O O-O 7. d4 cxd4 8.
+Nxd4 Qb6 9. Nc2 d6 10. b3 Bg4 11. h3 Bd7 12. Bb2 Rfd8 13. e3 Ne5 14. Nd4
+Nxc4 15. bxc4 Qxb2 16. Qd3 Qa3 17. Rab1 Rab8 18. Rb3 Qc5 19. Rfb1 b6 20.
+Ndb5 a6 21. Na4 Qh5 22. g4 Qh4 23. Nbc3 b5 24. cxb5 axb5 25. Nxb5 h5 26. f3
+Be6 27. Na3 Nd7 28. Nc3 Ne5 29. Qe2 Nc4 30. Nxc4 Rdc8 31. Rc1 Bh6 32. g5
+Qxg5 33. f4 Qc5 0-1
+

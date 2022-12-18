@@ -1,0 +1,19 @@
+[Event "Manchester"]
+[Site "Manchester"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Niman"]
+[Black "Bilek, Istvan"]
+[Result "0-1"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra gambit"]
+[HashCode "f34ea39a"]
+[Epoch "Rook"]
+[BlackCountry "HUN"]
+
+1. e4 c5 2. d4 cxd4 3. c3 g6 4. cxd4 d5 5. e5 Nc6 6. Nc3 f6 7. f4 Nh6 8. Be2
+Bg7 9. Be3 O-O 10. Bf3 Nf5 11. Bf2 fxe5 12. dxe5 d4 13. Qb3+ Kh8 14. O-O-O Bh6
+15. Nge2 Qa5 16. Nb5 Nxe5 17. Nbxd4 Nxf3 18. Nxf3 Qa6 19. Nfd4 e5 20. g4 Nxd4
+21. Nxd4 Bxg4 22. Rdg1 Rxf4 23. Be3 exd4 24. Bxf4 Bxf4+ 25. Kb1 Bf5+ 26. Ka1
+Be6 27. Qa3 Qxa3 28. bxa3 Bd5 0-1

@@ -1,0 +1,17 @@
+[Event "corr ch-DK"]
+[Site "corr ch-DK"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Fries-Nielsen, Jens Ove"]
+[Black "Tronhjem, Thomas"]
+[Result "1-0"]
+[ECO "C69"]
+[Opening "Ruy Lopez"]
+[Variation "exchange, Gligoric variation"]
+[HashCode "0410fe1d"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O f6 6. d4 exd4 7. Nxd4 c5 8.
+Nb3 Qxd1 9. Rxd1 Bd6 10. Na5 b5 11. c4 Be6 12. cxb5 axb5 13. Nb7 Be7 14. Be3 c4
+15. Nc3 Rb8 16. Na5 Bd7 17. Bf4 Rc8 18. Nd5 Bd8 19. Nb7 Ne7 20. Nxd8 Kxd8 21.
+e5 1-0

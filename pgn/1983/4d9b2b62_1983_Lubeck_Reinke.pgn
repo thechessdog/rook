@@ -1,0 +1,20 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Lubeck"]
+[Black "Reinke"]
+[Result "1-0"]
+[ECO "A58"]
+[Opening "Benko gambit"]
+[Variation "Nd2 variation"]
+[HashCode "4d9b2b62"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. bxa6 Bxa6 6. Nc3 d6 7. Nf3 g6 8.
+Nd2 Bg7 9. e4 O-O 10. Bxa6 Nxa6 11. O-O Nd7 12. Nc4 Nb6 13. Ne3 Qc7 14. a4
+Rfb8 15. Ra3 Bd4 16. Nb5 Qd7 17. Nxd4 cxd4 18. Qxd4 Nc8 19. Nf5 f6 20. Rg3
+Nc5 21. Qe3 Rxa4 22. Qh6 e5 23. Rxg6+ hxg6 24. Qxg6+ Kh8 25. Qxf6+ Kh7 26.
+Qh6+ Kg8 27. Qg6+ Kh8 28. f3 Qa7 29. h3 Rb7 30. Kh2 Rg7 31. Qh5+ Kg8 32.
+Qe8+ 1-0
+

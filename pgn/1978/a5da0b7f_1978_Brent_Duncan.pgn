@@ -1,0 +1,17 @@
+[Event "corr APCT"]
+[Site "corr APCT"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Brent, M."]
+[Black "Duncan, C."]
+[Result "1-0"]
+[ECO "C41"]
+[Opening "Philidor"]
+[Variation "Nimzovich (Jaenisch) variation"]
+[HashCode "a5da0b7f"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 d6 3. d4 Nf6 4. Nc3 d5 5. dxe5 Nxe4 6. Nxe4 dxe4 7. Qxd8+
+Kxd8 8. Ng5 Bd6 9. exd6 Rf8 10. dxc7+ Kxc7 11. Bf4+ Kd8 12. O-O-O+ Nd7 13.
+Nxe4 Re8 14. Ng5 h6 15. Nxf7+ Ke7 16. Bc4 Kf8 17. Rhe1 Rxe1 18. Rxe1 1-0
+

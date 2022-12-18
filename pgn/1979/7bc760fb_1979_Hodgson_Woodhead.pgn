@@ -1,0 +1,18 @@
+[Event "corr GB"]
+[Site "corr GB"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Hodgson, P."]
+[Black "Woodhead, W."]
+[Result "0-1"]
+[ECO "C44"]
+[Opening "Ponziani"]
+[Variation "Leonhardt variation"]
+[HashCode "7bc760fb"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. c3 d5 4. Qa4 Nf6 5. Nxe5 Bd6 6. Nxc6 bxc6 7. d3 O-O
+8. Be2 Qe8 9. Nd2 Bd7 10. O-O Ng4 11. Nf3 f5 12. h3 fxe4 13. dxe4 dxe4 14.
+Bd1 Nxf2 15. Rxf2 exf3 16. Qc4+ Kh8 17. Bxf3 Qe1+ 18. Rf1 Qg3 19. Be3 Bxh3
+20. Qe4 Qh2+ 21. Kf2 Qxg2+ 0-1
+

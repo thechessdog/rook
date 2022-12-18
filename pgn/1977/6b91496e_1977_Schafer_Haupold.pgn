@@ -1,0 +1,19 @@
+[Event "corr DDR/M"]
+[Site "corr DDR/M"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Schafer, H."]
+[Black "Haupold, E."]
+[Result "1-0"]
+[ECO "E46"]
+[Opening "Nimzo-Indian"]
+[Variation "Reshevsky variation"]
+[HashCode "6b91496e"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Ne2 d5 6. a3 Be7 7. cxd5 exd5 8.
+b4 Re8 9. Ng3 Nbd7 10. Bd3 c6 11. O-O b5 12. e4 dxe4 13. Ncxe4 Nb6 14. Nc5
+Bg4 15. Ne2 Nbd5 16. Qc2 Qc7 17. Ng3 Bd6 18. Na6 Qc8 19. Nc5 a6 20. Bd2 Qc7
+21. Rfe1 h5 22. Nf1 Bf4 23. Rxe8+ Nxe8 24. h3 Bxd2 25. Nxd2 Bd7 26. Nf3 a5
+27. Nxd7 Qxd7 28. bxa5 Qc7 29. Ne5 Ne7 30. Rc1 Qxa5 31. Bh7+ 1-0
+

@@ -1,0 +1,17 @@
+[Event "Alabama"]
+[Site "Alabama"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "McGuire, Ray"]
+[Black "Cleveland"]
+[Result "1-0"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Andreaschek gambit"]
+[HashCode "0730275e"]
+[Epoch "Rook"]
+
+1. e4 c5 2. d4 cxd4 3. Nf3 e5 4. c3 dxc3 5. Nxc3 Nc6 6. Bc4 Be7 7. Qd5 Qa5
+8. Qxf7+ Kd8 9. Qxg7 Bf6 10. Bg5 Kc7 11. Bxf6 Nxf6 12. Qxh8 Nxe4 13. O-O
+Nxc3 14. bxc3 1-0
+

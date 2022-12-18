@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Pedro"]
+[Black "Medel"]
+[Result "1-0"]
+[ECO "B71"]
+[Opening "Sicilian"]
+[Variation "dragon, Levenfish variation"]
+[HashCode "3561acf0"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. f4 Nc6 7. Nxc6 bxc6
+8. e5 dxe5 9. Qxd8+ Kxd8 10. fxe5 Ng4 11. Bf4 g5 12. Bxg5 Nxe5 13. O-O-O+
+Kc7 14. Bf4 Bg7 15. Bc4 Bg4 16. Rd4 Bh5 17. Re1 f6 18. g4 Bg6 19. Ne4 Rad8
+20. Rxd8 Rxd8 21. Nc5 Kb6 22. Ne6 Nxc4 23. Nxd8 e5 24. Bd2 Nxd2 25. Kxd2
+Bh6+ 26. Kc3 Kc7 27. Rd1 1-0
+

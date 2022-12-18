@@ -1,0 +1,17 @@
+[Event "Dayton,OH"]
+[Site "Dayton,OH"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Hayes"]
+[Black "Wall, Bill"]
+[Result "0-1"]
+[ECO "B95"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6...e6"]
+[HashCode "fa2a9c54"]
+[Epoch "Rook"]
+[BlackCountry "USA"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. Qf3 Nbd7 8.
+Bxf6 Nxf6 9. Bd3 Be7 10. O-O-O O-O 11. Qe2 e5 12. Nb3 b5 13. Qd2 Bb7 14. g3 Rc8
+15. Ne2 Nxe4 16. Bxe4 Bxe4 0-1

@@ -1,0 +1,18 @@
+[Event "corr EU/M"]
+[Site "corr EU/M"]
+[Date "1981.01.01"]
+[Round "1"]
+[White "Oechslein"]
+[Black "Poltner"]
+[Result "1-0"]
+[ECO "C26"]
+[Opening "Vienna"]
+[Variation "Paulsen-Mieses variation"]
+[HashCode "624e3648"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nc3 Nf6 3. g3 d5 4. exd5 Nxd5 5. Bg2 Be6 6. Nf3 Nd7 7. O-O c6
+8. Re1 Qc7 9. Ng5 Nxc3 10. Nxe6 Qd6 11. Nxg7+ Bxg7 12. dxc3 Qe6 13. Qh5
+O-O-O 14. Bg5 f6 15. Be3 Kb8 16. Bh3 Qe7 17. c4 Nc5 18. Rad1 Rxd1 19. Rxd1
+Bf8 20. Bxc5 1-0
+

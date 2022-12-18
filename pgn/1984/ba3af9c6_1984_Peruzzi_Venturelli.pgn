@@ -1,0 +1,17 @@
+[Event "corr Italy"]
+[Site "corr Italy"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Peruzzi"]
+[Black "Venturelli"]
+[Result "0-1"]
+[ECO "C57"]
+[Opening "two knights defence"]
+[Variation "Wilkes Barre (Traxler) variation"]
+[HashCode "ba3af9c6"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 Bc5 5. Nxf7 Bxf2+ 6. Ke2 Qe7 7. d3 d5
+8. Ng5 Nd4+ 9. Kxf2 Ng4+ 10. Kg1 dxc4 11. c3 Qf6 12. Nf3 Nxf3+ 13. gxf3 O-O
+14. Kg2 Qh4 15. Qe1 Ne3+ 0-1
+

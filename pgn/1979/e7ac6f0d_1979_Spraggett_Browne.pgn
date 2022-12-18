@@ -1,0 +1,21 @@
+[Event "USA"]
+[Site "USA"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Spraggett, Kevin"]
+[Black "Browne, Walter S"]
+[Result "0-1"]
+[ECO "E12"]
+[Opening "Queen's Indian"]
+[Variation "4.Nc3"]
+[HashCode "e7ac6f0d"]
+[Epoch "Rook"]
+[WhiteID "2600013"]
+[WhiteCountry "CAN"]
+[BlackCountry "USA"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. Nc3 Bb7 5. a3 d5 6. Bg5 Be7 7. e3 O-O 8. Rc1
+Nbd7 9. cxd5 exd5 10. Bd3 c5 11. O-O a6 12. Bb1 Re8 13. Re1 Ne4 14. Bxe7 Qxe7
+15. dxc5 Nxc3 16. Rxc3 bxc5 17. Qd3 g6 18. Rec1 Rad8 19. h3 d4 20. exd4 Bxf3
+21. Qxf3 cxd4 22. Rc7 Ne5 23. Qg3 Qe6 24. Bd3 Qb3 25. Bxa6 d3 26. f4 Qxb2 27.
+Qf2 Nf3+ 28. gxf3 Re2 0-1

@@ -1,0 +1,19 @@
+[Event "Krasnodar"]
+[Site "Krasnodar"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Shestoperova"]
+[Black "Pedko"]
+[Result "0-1"]
+[ECO "E94"]
+[Opening "King's Indian"]
+[Variation "orthodox, 7...Nbd7"]
+[HashCode "c471f939"]
+[Epoch "Rook"]
+
+1. d4 g6 2. c4 Bg7 3. Nc3 d6 4. e4 Nd7 5. Nf3 e5 6. Be2 Ngf6 7. O-O O-O 8.
+d5 Nc5 9. Qc2 a5 10. Ne1 b6 11. f3 Nfd7 12. Nd3 Nxd3 13. Bxd3 Nc5 14. Be2
+f5 15. Bd2 Bd7 16. b3 Rf7 17. Rad1 Qf8 18. Be3 Bh6 19. Qd2 Bxe3+ 20. Qxe3
+Qe7 21. Rf2 Raf8 22. Rff1 f4 23. Qd2 g5 24. Rde1 Rg7 25. Rf2 h5 26. Kh1 g4
+27. g3 fxg3 28. hxg3 h4 29. gxh4 g3 30. Rg2 Qxh4+ 31. Kg1 Rh7 0-1
+

@@ -1,0 +1,21 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Klundt, Klaus"]
+[Black "Roeder, Frank"]
+[Result "1-0"]
+[ECO "B31"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack, Gurgenidze variation"]
+[HashCode "d071c6e1"]
+[Epoch "Rook"]
+[WhiteID "4600436"]
+[BlackID "4602161"]
+[WhiteCountry "GER"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. Re1 e5 6. b4 Nxb4 7. Bb2 a6 8. Bc4
+b5 9. c3 bxc4 10. cxb4 cxb4 11. a3 d6 12. axb4 Bb7 13. Na3 Nf6 14. Nxc4 Nxe4
+15. d3 Bd5 16. Rxe4 Bxe4 17. Qa4+ Ke7 18. dxe4 Qc7 19. Ne3 Qb7 20. Nd5+ Kf8 21.
+b5 Bh6 22. Qa3 Kg7 23. Qxd6 Rhe8 24. Nxe5 Re6 25. Ng4+ Kg8 26. Nxh6# 1-0

@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Schirmer, M."]
+[Black "Sprenger, H."]
+[Result "0-1"]
+[ECO "C08"]
+[Opening "French"]
+[Variation "Tarrasch, open, 4.ed ed"]
+[HashCode "9ae5f426"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. exd5 exd5 5. Bb5+ Nc6 6. Ngf3 cxd4 7. Qe2+
+Qe7 8. Nxd4 Qxe2+ 9. Kxe2 Bd7 10. N2f3 Nxd4+ 11. Nxd4 Bc5 12. Rd1 Bxd4 13.
+Bxd7+ Kxd7 14. Rxd4 Ne7 15. c4 Rac8 16. cxd5 Rc2+ 17. Kf3 Rhc8 18. Rd1 Ng6
+19. Kg3 h5 20. Be3 a6 21. b3 Ne7 22. Kf4 f6 23. h4 Kd6 24. Rdc1 Nxd5+ 25.
+Ke4 Nxe3 0-1
+

@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1976.01.01"]
+[Round "1"]
+[White "Moran, P."]
+[Black "Rupp, F."]
+[Result "0-1"]
+[ECO "D80"]
+[Opening "Gruenfeld"]
+[Variation "Stockholm variation"]
+[HashCode "f911f3b5"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Bg5 Ne4 5. Bh4 c5 6. e3 Bg7 7. Nf3 Nc6 8.
+Rc1 cxd4 9. exd4 Bh6 10. Rc2 Nb4 11. Re2 Qa5 12. Qa4+ Qxa4 13. Nxa4 Nd3+
+14. Kd1 Bf5 15. b3 b5 16. cxb5 Rc8 17. Rc2 Nexf2+ 18. Rxf2 Rc1+ 19. Ke2
+Rc2+ 20. Kd1 Nxf2+ 21. Bxf2 Rxf2 0-1
+

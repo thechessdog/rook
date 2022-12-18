@@ -1,0 +1,18 @@
+[Event "corr Netherlands"]
+[Site "corr Netherlands"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "De Klerk, A."]
+[Black "Spieringshoek, P."]
+[Result "0-1"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, positional main line"]
+[HashCode "621595bd"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Nf3 Nbc6
+8. a4 Bd7 9. Be2 Qc7 10. O-O f6 11. exf6 gxf6 12. c4 O-O-O 13. Ba3 Nf5 14.
+Bxc5 dxc4 15. Bxc4 Ncxd4 16. Bxd4 Qxc4 17. Bxf6 Bc6 18. Ne5 Qc5 19. Nd3
+Rhg8 20. g3 Nxg3 0-1
+

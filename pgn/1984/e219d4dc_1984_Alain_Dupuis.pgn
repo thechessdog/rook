@@ -1,0 +1,19 @@
+[Event "Montreal"]
+[Site "Montreal"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Alain, Benoit"]
+[Black "Dupuis, Stephane"]
+[Result "1-0"]
+[ECO "A25"]
+[Opening "English"]
+[Variation "closed, Hort variation"]
+[HashCode "e219d4dc"]
+[Epoch "Rook"]
+[BlackID "2600765"]
+[BlackCountry "CAN"]
+
+1. c4 e5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. e3 d6 6. Nge2 Be6 7. d4 Bg4 8. O-O
+Qd7 9. f3 Bh3 10. d5 Nce7 11. e4 h5 12. Bxh3 Qxh3 13. Qb3 Qc8 14. Be3 f5 15. c5
+h4 16. cxd6 hxg3 17. Nb5 f4 18. Nxc7+ Kf7 19. d7 Qxd7 20. d6+ Kf6 21. Nxf4 exf4
+22. Bxf4 gxh2+ 23. Kh1 Rf8 24. Qc3+ Kf7 25. Qc4+ 1-0

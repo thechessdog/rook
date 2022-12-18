@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Morris"]
+[Black "Walters"]
+[Result "1-0"]
+[ECO "C64"]
+[Opening "Ruy Lopez"]
+[Variation "classical defence, 4.c3"]
+[HashCode "2c035100"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. c3 Nf6 5. d4 exd4 6. cxd4 Bb4+ 7. Nc3
+Nxe4 8. O-O Nxc3 9. bxc3 Be7 10. d5 Nb8 11. d6 cxd6 12. h4 Nc6 13. Re1 O-O
+14. Bg5 Ne5 15. Bxe7 Qxe7 16. Ng5 Qf6 17. Qd4 Qg6 18. Re3 a6 19. Be2 b5 20.
+Rg3 Bb7 21. Bd3 Nxd3 22. Ne6 Qxg3 23. fxg3 fxe6 24. Qxd3 Bd5 25. a4 bxa4
+26. Rxa4 a5 27. Ra1 Rfb8 28. c4 Bc6 29. Qd2 a4 1-0
+

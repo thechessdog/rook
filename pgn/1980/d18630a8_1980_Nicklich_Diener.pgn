@@ -1,0 +1,18 @@
+[Event "corr ICCF"]
+[Site "corr ICCF"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Nicklich, W."]
+[Black "Diener, R."]
+[Result "0-1"]
+[ECO "A00"]
+[Opening "Polish"]
+[Variation "Outflank variation"]
+[HashCode "d18630a8"]
+[Epoch "Rook"]
+
+1. b4 c6 2. Bb2 a5 3. a3 axb4 4. axb4 Rxa1 5. Bxa1 Qb6 6. c3 d5 7. Nf3 Bf5
+8. d3 Nf6 9. Nbd2 Nbd7 10. e3 e5 11. Be2 Be7 12. O-O O-O 13. Nh4 Be6 14.
+Nhf3 Ra8 15. h3 Bd6 16. Qc2 Bb8 17. e4 Nh5 18. Ng5 Ng3 19. exd5 Nxe2+ 20.
+Kh1 cxd5 21. d4 e4 22. Ndxe4 Qc7 0-1
+

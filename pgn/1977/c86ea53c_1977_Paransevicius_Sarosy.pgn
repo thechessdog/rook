@@ -1,0 +1,18 @@
+[Event "corr CCCA"]
+[Site "corr CCCA"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Paransevicius, John"]
+[Black "Sarosy, Zoltan"]
+[Result "0-1"]
+[ECO "E40"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3"]
+[HashCode "c86ea53c"]
+[Epoch "Rook"]
+[BlackCountry "CAN"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 d5 5. a3 Be7 6. Bd3 O-O 7. Nf3 b6 8. cxd5
+exd5 9. Qc2 Bb7 10. b4 Nbd7 11. O-O Re8 12. Qb3 Bd6 13. Bb2 c6 14. Rac1 Rc8 15.
+a4 Qe7 16. b5 c5 17. dxc5 bxc5 18. Qd1 Ne4 19. Bb1 Ndf6 20. Ba2 Rcd8 21. Qc2
+Bb8 22. Rcd1 Qc7 23. g3 d4 24. exd4 cxd4 25. Nxd4 Ng5 26. f3 Ng4 0-1

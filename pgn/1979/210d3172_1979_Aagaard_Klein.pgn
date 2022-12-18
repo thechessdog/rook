@@ -1,0 +1,17 @@
+[Event "Hamburg"]
+[Site "Hamburg"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Aagaard, Michael"]
+[Black "Klein"]
+[Result "1-0"]
+[ECO "C47"]
+[Opening "Four knights"]
+[Variation "Scotch variation"]
+[HashCode "210d3172"]
+[Epoch "Rook"]
+[WhiteID "1017942"]
+[WhiteCountry "NED"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nc3 Nc6 4. d4 Bb4 5. d5 Ne7 6. Nxe5 d6 7. Nd3 Bxc3+ 8.
+bxc3 Nxe4 9. Qf3 Bf5 10. Nf4 g5 11. Nh5 g4 12. Qxe4 1-0

@@ -1,0 +1,21 @@
+[Event "corr DDR/FS"]
+[Site "corr DDR/FS"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Dobke"]
+[Black "Siegmund"]
+[Result "0-1"]
+[ECO "E41"]
+[Opening "Nimzo-Indian"]
+[Variation "e3, Huebner variation"]
+[HashCode "4b7184db"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 Nc6 6. Nf3 Bxc3+ 7. bxc3 d6
+8. O-O e5 9. Qc2 Qe7 10. Nd2 O-O 11. d5 Nd8 12. e4 Nh5 13. Nb3 g6 14. f4
+Nxf4 15. Bxf4 exf4 16. Rxf4 f5 17. Raf1 g5 18. R4f2 f4 19. Qe2 Nf7 20. h4
+h6 21. hxg5 hxg5 22. g3 Ne5 23. gxf4 Bg4 24. Qe3 gxf4 25. Rxf4 Rxf4 26.
+Rxf4 Qh4 27. Rf2 Kg7 28. Rh2 Nf3+ 29. Qxf3 Qxh2+ 30. Kxh2 Bxf3 31. Kg3 Bd1
+32. Na5 Rf8 33. Kg2 Kf6 34. Nxb7 Ke5 35. Na5 Bf3+ 36. Kg3 Bxe4 37. Nc6+ Kf5
+38. Bf1 Rg8+ 39. Kf2 Kf4 40. Nxa7 Rh8 41. Nb5 Rh2+ 42. Ke1 Ke3 0-1
+

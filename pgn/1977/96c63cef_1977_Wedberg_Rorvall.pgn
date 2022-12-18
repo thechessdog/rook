@@ -1,0 +1,21 @@
+[Event "SWE-ch"]
+[Site "?"]
+[Date "1977.??.??"]
+[Round "?"]
+[White "Wedberg, Tom"]
+[Black "Rorvall, Goran"]
+[Result "1-0"]
+[ECO "B96"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Polugayevsky, Simagin variation"]
+[HashCode "96c63cef"]
+[Epoch "Rook"]
+[WhiteID "1700073"]
+[BlackID "1700650"]
+[WhiteCountry "SWE"]
+[BlackCountry "SWE"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 b5 8. e5
+dxe5 9. fxe5 Qc7 10. Qe2 Nfd7 11. O-O-O Bb7 12. Qg4 Qb6 13. Be2 Nxe5 14. Qh3
+Nbd7 15. Rhe1 g6 16. Bg4 h5 17. Bxe6 fxe6 18. Nxe6 Rh7 19. Nc7+ Qxc7 20. Qe6+
+Re7 21. Bxe7 Bxe7 22. Rxd7 Qxd7 23. Qg8+ Bf8 24. Rxe5+ Kd8 25. Qxf8+ 1-0

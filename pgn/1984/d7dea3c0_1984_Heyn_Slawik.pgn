@@ -1,0 +1,22 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Heyn"]
+[Black "Slawik"]
+[Result "1-0"]
+[ECO "E73"]
+[Opening "King's Indian"]
+[Variation "Averbakh system"]
+[HashCode "d7dea3c0"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Be2 O-O 6. Bg5 h6 7. Be3 Nc6 8.
+Qd2 h5 9. h3 e5 10. d5 Ne7 11. g4 hxg4 12. hxg4 Bxg4 13. Bxg4 Nxg4 14. Bg5
+f6 15. f3 fxg5 16. fxg4 Bf6 17. Nf3 Nc8 18. Qh2 Qe7 19. Nxg5 Nb6 20. Qh6
+Qg7 21. Ne6 Qxh6 22. Rxh6 Rf7 23. b3 c6 24. O-O-O Nd7 25. g5 Bg7 26. Rxg6
+Kh7 27. Rxg7+ Rxg7 28. Nxg7 Kxg7 29. dxc6 Nf8 30. cxb7 Rb8 31. Rxd6 Rxb7
+32. Ra6 Nd7 33. Kd2 Nc5 34. Rd6 Rd7 35. Rxd7+ Nxd7 36. Na4 Kg6 37. c5 Nb8
+38. b4 a6 39. Nc3 Kxg5 40. a4 Kf6 41. b5 Ke6 42. Kd3 axb5 43. axb5 Nd7 44.
+Kc4 1-0
+

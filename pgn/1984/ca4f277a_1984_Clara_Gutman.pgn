@@ -1,0 +1,18 @@
+[Event "BL8485"]
+[Site "BL8485"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Clara, H."]
+[Black "Gutman, Lev"]
+[Result "0-1"]
+[ECO "A16"]
+[Opening "English"]
+[Variation "Anglo-Gruenfeld defense"]
+[HashCode "ca4f277a"]
+[Epoch "Rook"]
+[BlackID "4600177"]
+[BlackCountry "GER"]
+
+1. c4 Nf6 2. Nc3 d5 3. cxd5 Nxd5 4. g3 Nxc3 5. bxc3 g6 6. Bg2 Bg7 7. h4 Nd7 8.
+h5 c5 9. Rb1 Rb8 10. c4 a6 11. Bb2 Bxb2 12. Rxb2 Ne5 13. hxg6 fxg6 14. Qc1 O-O
+15. Rh4 Qd6 16. Bd5+ Be6 17. Bxe6+ Qxe6 18. Qb1 Nxc4 19. Rxb7 Qd5 0-1

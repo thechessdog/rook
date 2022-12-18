@@ -1,0 +1,22 @@
+[Event "Groningen"]
+[Site "Groningen"]
+[Date "1977.01.01"]
+[Round "7"]
+[White "Leow, Leslie M"]
+[Black "Ammann, Philippe"]
+[Result "1-0"]
+[ECO "B47"]
+[Opening "Sicilian"]
+[Variation "Taimanov (Bastrikov) variation"]
+[HashCode "91df417e"]
+[Epoch "Rook"]
+[WhiteID "5800013"]
+[WhiteCountry "SGP"]
+[BlackCountry "SUI"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 Qc7 6. g3 a6 7. Bg2 Nf6 8. O-O
+d6 9. Re1 Bd7 10. Nxc6 bxc6 11. Na4 Rc8 12. c4 c5 13. Nc3 Be7 14. f4 h5 15. b3
+Bc6 16. Bb2 Nd7 17. Qd3 Bf6 18. Nd1 Bxb2 19. Nxb2 Nb8 20. Rad1 Rd8 21. Qc3 f6
+22. e5 Bxg2 23. Kxg2 O-O 24. exd6 Rxd6 25. Rxd6 Qxd6 26. Rd1 Qc6+ 27. Qf3 Kf7
+28. Qxc6 Nxc6 29. Na4 Nb4 30. Rd7+ Kg6 31. Nxc5 Rc8 32. Nxe6 Nxa2 33. Rxg7+ Kf5
+34. Re7 1-0

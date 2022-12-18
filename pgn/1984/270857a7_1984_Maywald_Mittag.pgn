@@ -1,0 +1,16 @@
+[Event "corr ch-Berlin"]
+[Site "corr ch-Berlin"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Maywald"]
+[Black "Mittag"]
+[Result "1-0"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack, Richter variation"]
+[HashCode "270857a7"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. Bg5 d5 3. Nc3 Bf5 4. f3 c6 5. Bxf6 gxf6 6. e4 Bg6 7. Bd3 e5 8.
+Nge2 dxe4 9. Nxe4 exd4 10. Qd2 Bg7 11. Qb4 Bxe4 12. Bxe4 Qc7 13. O-O-O Nd7
+14. Qxd4 Nb6 15. Ng3 Rd8 16. Bxc6+ 1-0
+

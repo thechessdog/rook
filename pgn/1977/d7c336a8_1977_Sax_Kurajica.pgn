@@ -1,0 +1,19 @@
+[Event "Ljubljana/Portoroz"]
+[Site "Ljubljana"]
+[Date "1977.01.01"]
+[Round "4"]
+[White "Sax, Gyula"]
+[Black "Kurajica, Bojan"]
+[Result "1/2-1/2"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (without ...d6)"]
+[HashCode "d7c336a8"]
+[Epoch "Rook"]
+[BlackID "14400057"]
+[BlackCountry "BIH"]
+[WhiteCountry "HUN"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 e6 4. O-O Nge7 5. c3 a6 6. Ba4 b5 7. Bc2 Bb7 8. Re1
+d5 9. exd5 Nxd5 10. d4 Nf6 11. Bg5 Be7 12. dxc5 Qxd1 13. Rxd1 Bxc5 14. Nbd2 Be7
+15. Nb3 Rc8 16. Be3 1/2-1/2

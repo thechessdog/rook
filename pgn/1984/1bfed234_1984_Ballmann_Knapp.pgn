@@ -1,0 +1,18 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Ballmann, Martin"]
+[Black "Knapp"]
+[Result "0-1"]
+[ECO "C57"]
+[Opening "two knights defence"]
+[Variation "Wilkes Barre (Traxler) variation"]
+[HashCode "1bfed234"]
+[Epoch "Rook"]
+[WhiteID "1300350"]
+[WhiteCountry "SUI"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 Bc5 5. Nxf7 Bxf2+ 6. Kf1 Qe7 7. Nxh8 d5
+8. exd5 Nd4 9. h3 Bh4 10. c3 Nf5 11. d4 Ne4 12. Qa4+ Bd7 13. Bb5 exd4 14. Bxd7+
+Kf8 15. Bd2 Neg3+ 16. Kg1 Ne2+ 17. Kf1 Nfg3+ 18. Ke1 Nxc3+ 0-1

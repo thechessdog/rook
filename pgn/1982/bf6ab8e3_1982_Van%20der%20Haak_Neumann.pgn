@@ -1,0 +1,20 @@
+[Event "corr WER/C"]
+[Site "corr WER/C"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Van der Haak, G."]
+[Black "Neumann, H."]
+[Result "1-0"]
+[ECO "E17"]
+[Opening "Queen's Indian"]
+[Variation "old main line, 6.O-O"]
+[HashCode "bf6ab8e3"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2 Be7 6. O-O O-O 7. d5 exd5 8.
+Nh4 c6 9. cxd5 Nxd5 10. Nf5 Re8 11. e4 Nc7 12. Nc3 d5 13. exd5 cxd5 14. Qg4
+Bf6 15. Bh6 Bc8 16. Bf4 Bxc3 17. bxc3 Qf6 18. Qxg7+ Qxg7 19. Nxg7 Kxg7 20.
+Bxc7 Bb7 21. Rfe1 Na6 22. Be5+ f6 23. Bd4 Nc7 24. a4 Ba6 25. Re3 Rxe3 26.
+Bxe3 Rd8 27. a5 b5 28. Bxa7 Ne6 29. Bb6 Rd6 30. Rd1 b4 31. Rxd5 Rxd5 32.
+Bxd5 1-0
+

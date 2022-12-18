@@ -1,0 +1,18 @@
+[Event "E Detroit Motor City op"]
+[Site "E Detroit Motor City op"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Wilson, R."]
+[Black "Kellogg, S."]
+[Result "1-0"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, 6.Be3"]
+[HashCode "05ad8d1c"]
+[Epoch "Rook"]
+
+1. e4 d6 2. d4 g6 3. Nc3 Bg7 4. f4 Nf6 5. Nf3 O-O 6. Be3 a6 7. Qd2 Re8 8.
+O-O-O b5 9. Bd3 Bb7 10. e5 Ng4 11. Bg1 Nc6 12. h3 Nh6 13. Be3 e6 14. g4 Na5
+15. Rdf1 Nc4 16. Bxc4 bxc4 17. f5 dxe5 18. Bxh6 exd4 19. Bxg7 Kxg7 20. f6+
+Kxf6 21. Ne5+ Kxe5 22. Qf4# 1-0
+

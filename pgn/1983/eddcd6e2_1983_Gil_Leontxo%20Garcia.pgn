@@ -1,0 +1,17 @@
+[Event "Spain"]
+[Site "Spain"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Gil"]
+[Black "Leontxo Garcia, Ola"]
+[Result "0-1"]
+[ECO "D09"]
+[Opening "QGD"]
+[Variation "Albin counter-gambit, 5.g3"]
+[HashCode "eddcd6e2"]
+[Epoch "Rook"]
+
+1. d4 d5 2. c4 e5 3. dxe5 d4 4. Nf3 Nc6 5. g3 Bg4 6. Bg2 Qd7 7. O-O O-O-O
+8. Qb3 h5 9. Nbd2 h4 10. Nxh4 Bxe2 11. Re1 d3 12. Nhf3 Qf5 13. Qb5 a6 14.
+Qa4 Nxe5 15. Nxe5 Qxf2+ 0-1
+

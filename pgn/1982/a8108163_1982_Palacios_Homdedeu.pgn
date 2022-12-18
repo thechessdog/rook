@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Palacios"]
+[Black "Homdedeu"]
+[Result "0-1"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "modern variation"]
+[HashCode "a8108163"]
+[Epoch "Rook"]
+
+1. b3 e5 2. Bb2 Nc6 3. e3 d5 4. Bb5 Bd6 5. d4 e4 6. Bxc6+ bxc6 7. Nd2 Nf6
+8. Ne2 O-O 9. O-O Bxh2+ 10. Kxh2 Ng4+ 11. Kg3 Qg5 12. f4 Qg6 13. f5 Qg5 14.
+Nxe4 dxe4 15. Qc1 Bxf5 16. Rg1 h5 17. Ba3 Rfe8 18. Bc5 Nxe3+ 19. Kf2 Ng4+
+20. Ke1 e3 21. Rh1 Be4 22. Ng3 Qf4 23. Nxe4 Rxe4 24. Ke2 Nf2 25. Re1 Qg4+
+26. Kf1 Nh3 27. Rxe3 Rf4+ 0-1
+

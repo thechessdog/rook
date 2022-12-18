@@ -1,0 +1,27 @@
+[Event "Morecambe ch-BCF"]
+[Site "Morecambe ch-BCF"]
+[Date "1981.08.12"]
+[Round "9"]
+[White "Horner, Jeff"]
+[Black "Littlewood, Paul E"]
+[Result "0-1"]
+[ECO "C77"]
+[Opening "Ruy Lopez"]
+[Variation "Wormald (Alapin) attack"]
+[HashCode "bd072214"]
+[Epoch "Rook"]
+[WhiteID "400572"]
+[WhiteCountry "ENG"]
+[BlackID "400190"]
+[BlackCountry "ENG"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. Qe2 Be7 6. c3 b5 7. Bc2 O-O 8. O-O
+d5 9. d3 d4 10. h3 Bc5 11. Nbd2 Bb6 12. Nb3 h6 13. cxd4 exd4 14. Bf4 a5 15. a4
+Ba6 16. Rfc1 Re8 17. Nbd2 Nb4 18. Bb3 Nd7 19. axb5 Bxb5 20. Bc4 Bxc4 21. Rxc4
+Nc5 22. Ne1 f5 23. Rac1 fxe4 24. Rxc5 Bxc5 25. Rxc5 exd3 26. Qd1 Qe7 27. Re5
+Qf6 28. Qf3 g5 29. Qe4 Qc6 30. Bg3 Rxe5 31. Bxe5 Re8 32. Nef3 Qxe4 33. Nxe4 Nc6
+34. Nf6+ Kf8 35. Nxe8 Nxe5 36. Nxc7 Nxf3+ 37. Kf1 Nd2+ 38. Ke1 Nb3 39. f4 gxf4
+40. Ne6+ Kf7 41. Nxf4 d2+ 42. Ke2 Kf6 43. Nd3 Kg5 44. g3 Kf5 45. Nf2 Nc5 46.
+Ng4 Na4 47. Nxh6+ Ke4 48. Kxd2 Nxb2 49. Ng4 Nc4+ 50. Kc1 Kf3 51. Nh6 d3 52. Nf5
+a4 53. Nd4+ Ke4 54. Nb5 a3 55. Nc3+ Ke3 56. g4 Nd6 57. g5 Ne4 58. Nd5+ Kd4 59.
+Nb4 Kc3 0-1

@@ -1,0 +1,18 @@
+[Event "Yerevan"]
+[Site "Yerevan"]
+[Date "1977.01.01"]
+[Round "6"]
+[White "Malevinsky, Alexander A"]
+[Black "Khalikian, O."]
+[Result "1/2-1/2"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...g6"]
+[HashCode "62002f84"]
+[Epoch "Rook"]
+[WhiteID "4104994"]
+[WhiteCountry "RUS"]
+
+1. e4 d5 2. exd5 Nf6 3. c4 c6 4. d4 cxd5 5. Nc3 g6 6. Nf3 Bg7 7. cxd5 O-O 8.
+Bc4 Nbd7 9. O-O Nb6 10. Bb3 Nfxd5 11. Re1 Be6 12. Bg5 Re8 13. Rc1 Nxc3 14. bxc3
+Bc4 15. Bxc4 Nxc4 16. Qb3 Nd6 1/2-1/2

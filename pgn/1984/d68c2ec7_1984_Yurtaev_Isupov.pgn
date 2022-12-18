@@ -1,0 +1,17 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Yurtaev, Leonid"]
+[Black "Isupov"]
+[Result "1-0"]
+[ECO "B87"]
+[Opening "Sicilian"]
+[Variation "Sozin with ...a6 and ...b5"]
+[HashCode "d68c2ec7"]
+[Epoch "Rook"]
+[WhiteCountry "KGZ"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 b5 8. O-O
+Be7 9. Qf3 Qb6 10. Be3 Qb7 11. Qg3 Bd7 12. Nf5 b4 13. Qxg7 Rg8 14. Qxf6 Bxf6
+15. Nxd6+ Kf8 16. Nxb7 bxc3 17. bxc3 1-0

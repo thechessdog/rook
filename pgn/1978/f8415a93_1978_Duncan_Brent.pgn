@@ -1,0 +1,18 @@
+[Event "corr APCT"]
+[Site "corr APCT"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Duncan, C."]
+[Black "Brent, M."]
+[Result "0-1"]
+[ECO "C00"]
+[Opening "French"]
+[Variation "Steinitz attack"]
+[HashCode "f8415a93"]
+[Epoch "Rook"]
+
+1. e4 e6 2. e5 c5 3. c4 Nc6 4. Nf3 Qc7 5. Qe2 Nge7 6. Na3 a6 7. g3 Ng6 8.
+d4 Nxd4 9. Nxd4 cxd4 10. Bf4 Qa5+ 11. Bd2 Qxe5 12. Qxe5 Nxe5 13. Nc2 Nf3+
+14. Kd1 Nxd2 15. Kxd2 e5 16. a3 d5 17. cxd5 Bd6 18. Bg2 O-O 19. Rhe1 Bd7
+0-1
+

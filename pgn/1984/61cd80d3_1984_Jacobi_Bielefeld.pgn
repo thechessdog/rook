@@ -1,0 +1,18 @@
+[Event "corr USA"]
+[Site "corr USA"]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Jacobi"]
+[Black "Bielefeld"]
+[Result "1-0"]
+[ECO "C43"]
+[Opening "Petrov"]
+[Variation "modern attack, Symmetrical variation"]
+[HashCode "61cd80d3"]
+[Epoch "Rook"]
+
+1. e4 e5 2. Nf3 Nf6 3. d4 Nxe4 4. Bd3 d5 5. Nxe5 Nd7 6. Qe2 Qe7 7. Nxf7
+Kxf7 8. Qh5+ Kf6 9. O-O Qf7 10. Qh4+ g5 11. Bxg5+ Nxg5 12. f4 Ke6 13. fxg5
+Qg7 14. Nc3 Be7 15. Rae1+ Kd6 16. Qg3+ Kc6 17. Re6+ Bd6 18. Bb5+ Kb6 19.
+Rxd6+ cxd6 20. Qxd6+ Ka5 21. b4# 1-0
+

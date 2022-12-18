@@ -1,0 +1,16 @@
+[Event "corr NLD/H"]
+[Site "corr NLD/H"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Breidenbach"]
+[Black "De Boer, Gert-Jan"]
+[Result "1-0"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra gambit"]
+[HashCode "fa1ac8cd"]
+[Epoch "Rook"]
+
+1. e4 c5 2. d4 cxd4 3. c3 dxc3 4. Nxc3 Nc6 5. Nf3 g6 6. Bc4 Bg7 7. Bf4 Nf6 8.
+Nb5 d6 9. Bxf7+ Kxf7 10. Qb3+ d5 11. Ng5+ Kf8 12. O-O-O Na5 13. Qb4 Bd7 14. Nc7
+Rc8 15. Qxa5 Ne8 16. Qxd5 Rxc7+ 17. Kb1 1-0

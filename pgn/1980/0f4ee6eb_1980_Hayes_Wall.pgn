@@ -1,0 +1,18 @@
+[Event "Dayton,OH"]
+[Site "Dayton,OH"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Hayes, Dan"]
+[Black "Wall, Bill"]
+[Result "0-1"]
+[ECO "A08"]
+[Opening "Reti"]
+[Variation "King's Indian attack"]
+[HashCode "0f4ee6eb"]
+[Epoch "Rook"]
+[BlackCountry "USA"]
+
+1. g3 d5 2. Bg2 c5 3. Nf3 Nc6 4. O-O e6 5. h3 Bd6 6. Kh2 Nge7 7. Nc3 O-O 8. d4
+a6 9. e3 f5 10. Ne2 Qe8 11. b3 e5 12. dxc5 Bxc5 13. c3 e4 14. Nfg1 Bd6 15. Bb2
+g5 16. Qc2 Qh5 17. c4 Ng6 18. cxd5 Nce5 19. Bxe5 Nxe5 20. f4 Ng4+ 21. Kh1 Nxe3
+0-1

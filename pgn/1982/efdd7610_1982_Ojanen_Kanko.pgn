@@ -1,0 +1,20 @@
+[Event "corr Tch-SF"]
+[Site "corr Tch-SF"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Ojanen"]
+[Black "Kanko"]
+[Result "0-1"]
+[ECO "E48"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 O-O, 5.Bd3 d5"]
+[HashCode "efdd7610"]
+[Epoch "Rook"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Ne2 dxc4 7. Bxc4 e5 8.
+d5 Nbd7 9. a3 Bd6 10. e4 Nh5 11. g3 Nb6 12. Ba2 Bg4 13. Qd3 Qf6 14. Ng1 Qe7
+15. h3 Bd7 16. Nge2 f5 17. exf5 Bxf5 18. Ne4 Na4 19. Qf3 Bg6 20. Qg2 Nf6
+21. N2c3 Bxe4 22. Nxe4 Nxe4 23. Qxe4 Nc5 24. Qe2 e4 25. O-O Rf3 26. Be3 Nd3
+27. Rad1 Raf8 28. Bd4 e3 29. Qxd3 exf2+ 30. Bxf2 Rxd3 31. Rxd3 Qe2 32. Re3
+Qxb2 0-1
+

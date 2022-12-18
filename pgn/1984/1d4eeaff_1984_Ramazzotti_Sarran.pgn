@@ -1,0 +1,20 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1984.01.01"]
+[Round "1"]
+[White "Ramazzotti"]
+[Black "Sarran"]
+[Result "0-1"]
+[ECO "C15"]
+[Opening "French"]
+[Variation "Winawer, Alekhine (Maroczy) gambit"]
+[HashCode "1d4eeaff"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. Ne2 dxe4 5. a3 Be7 6. Nxe4 Nc6 7. Bf4 Nf6
+8. Qd3 b6 9. O-O-O O-O 10. Nxf6+ Bxf6 11. Qg3 Bh4 12. Qe3 Ne7 13. Nc3 Nd5
+14. Nxd5 Qxd5 15. Kb1 Bb7 16. Bxc7 Rac8 17. Bf4 Qe4 18. Qxe4 Bxe4 19. Rd2
+Rxc2 20. Rxc2 Rc8 21. f3 Bg6 22. g3 Rxc2 23. Ka2 Bf6 24. Be5 Bxe5 25. dxe5
+Rf2 26. Bb5 Rxf3 27. Rc1 h5 28. Rc7 a5 29. Rb7 Rf2 30. Rxb6 Rxh2 31. Ra6
+Rg2 32. Rxa5 Be4 33. Ra4 Bd5+ 34. Bc4 Bf3 35. Bf1 Rxg3 36. Rb4 g6 0-1
+

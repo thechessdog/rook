@@ -1,0 +1,25 @@
+[Event "Denmark"]
+[Site "Denmark"]
+[Date "1977.01.01"]
+[Round "1"]
+[White "Hoi, Carsten"]
+[Black "Mortensen, Erling"]
+[Result "1-0"]
+[ECO "E45"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Bronstein (Byrne) variation"]
+[HashCode "15782ab5"]
+[Epoch "Rook"]
+[WhiteID "1400100"]
+[WhiteCountry "DEN"]
+[BlackID "1400045"]
+[BlackCountry "DEN"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 b6 5. Ne2 Ba6 6. a3 Bxc3+ 7. Nxc3 O-O 8.
+Be2 d5 9. b3 Nc6 10. O-O dxc4 11. Bxc4 Bxc4 12. bxc4 Na5 13. Qe2 Qd7 14. Rb1
+Rfd8 15. Rd1 Rac8 16. Bd2 Qc6 17. Rb4 Qa8 18. Rb5 Ne8 19. c5 Nf6 20. Rdb1 Nc6
+21. f3 h6 22. Be1 a6 23. R5b3 bxc5 24. dxc5 Nd5 25. Ne4 Rb8 26. Bg3 Rxb3 27.
+Rxb3 Rb8 28. Qb2 Rxb3 29. Qxb3 Nce7 30. Nc3 Qc6 31. Nxd5 Nxd5 32. Qb8+ Kh7 33.
+Qb1+ f5 34. Qc1 Nf6 35. Qc3 Qb5 36. h3 Nd5 37. Qd4 Qe2 38. Bf2 c6 39. Qe5 Qd1+
+40. Kh2 Qc2 41. Bg1 Nc3 42. Qxe6 Ne2 43. e4 f4 44. Qe5 Qd1 45. Bf2 a5 46. a4
+Qxa4 47. Qf5+ Kg8 48. e5 Qa1 49. e6 Ng3 50. Qf7+ Kh7 51. Bxg3 1-0

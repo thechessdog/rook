@@ -1,0 +1,16 @@
+[Event "corr EUR/K tt"]
+[Site "corr EUR/K tt"]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Vosta"]
+[Black "Notten"]
+[Result "0-1"]
+[ECO "B32"]
+[Opening "Sicilian defence"]
+[HashCode "0e032eda"]
+[Epoch "Rook"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. c3 d5 5. exd5 Qxd5 6. cxd4 e5 7. Nc3 Bb4
+8. Bd2 Bxc3 9. Bxc3 e4 10. Nd2 Nf6 11. Bc4 Qg5 12. Qb3 e3 13. Bxf7+ Kd8 14.
+fxe3 Qxe3+ 15. Kd1 Bg4+ 16. Kc1 Rc8 17. Qxb7 Nxd4 18. Qb4 Qd3 0-1
+

@@ -1,0 +1,20 @@
+[Event "Capablanca mem"]
+[Site "Cienfuegos"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Barreras, Alberto"]
+[Black "Fernandez Garcia, Jose Luis"]
+[Result "0-1"]
+[ECO "E15"]
+[Opening "Queen's Indian"]
+[Variation "Nimzovich variation (exaggerated fianchetto)"]
+[HashCode "c152e59a"]
+[Epoch "Rook"]
+[BlackCountry "BEL"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. Qa4 Bb7 6. Bg2 c5 7. O-O cxd4 8. Nxd4
+Bxg2 9. Kxg2 Be7 10. Bf4 O-O 11. Rd1 Qc8 12. Nc3 a6 13. Nf3 Qb7 14. Bd6 Bxd6
+15. Rxd6 Rc8 16. Qb3 Rc6 17. Rad1 Qc7 18. Rxc6 Nxc6 19. Qa3 Na5 20. b3 d5 21.
+Rc1 dxc4 22. b4 Nb7 23. b5 Qd6 24. Qa4 Qc5 25. bxa6 Nd6 26. Rc2 b5 27. Qa5 Nfe4
+28. Nxe4 Nxe4 29. e3 Qd5 30. Nd4 Nd6+ 31. Kg1 e5 32. Nf5 Qd1+ 33. Kg2 Qxc2 34.
+Nxd6 Qa4 35. Qc7 Qxa6 36. Qxf7+ Kh8 37. Nf5 Qf6 38. Qb7 Rf8 39. e4 g6 0-1

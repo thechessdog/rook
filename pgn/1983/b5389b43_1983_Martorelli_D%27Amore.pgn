@@ -1,0 +1,24 @@
+[Event "Banco di Roma"]
+[Site "Banco di Roma"]
+[Date "1983.01.01"]
+[Round "1"]
+[White "Martorelli, Antonio"]
+[Black "D'Amore, Carlo"]
+[Result "0-1"]
+[ECO "E74"]
+[Opening "King's Indian"]
+[Variation "Averbakh, 6...c5"]
+[HashCode "b5389b43"]
+[Epoch "Rook"]
+[BlackID "800066"]
+[BlackCountry "ITA"]
+[WhiteID "801399"]
+[WhiteCountry "ITA"]
+
+1. c4 Nf6 2. Nc3 g6 3. e4 d6 4. d4 Bg7 5. Be2 O-O 6. Bg5 c5 7. d5 h6 8. Bf4 e6
+9. dxe6 Bxe6 10. Bxd6 Re8 11. Nf3 Qb6 12. O-O Rd8 13. e5 Ne8 14. Ne4 Qc6 15. b4
+Nxd6 16. Nxc5 Bc8 17. Rb1 b6 18. Nd4 Qe8 19. exd6 bxc5 20. Nb5 Na6 21. Bf3 Be6
+22. bxc5 Rac8 23. Re1 Nxc5 24. Nxa7 Rb8 25. Bc6 Rxb1 26. Qxb1 Qf8 27. Nb5 Bxc4
+28. g3 Bxb5 29. Qxb5 Qxd6 30. Bf3 Bd4 31. a4 Kg7 32. a5 Rb8 33. Qc4 Nd3 34. Rd1
+Ne5 35. Qe2 Nxf3+ 36. Qxf3 Rb2 37. Qg4 Bxf2+ 38. Kf1 Qa6+ 39. Kg2 Qa8+ 40. Kh3
+Be3 0-1

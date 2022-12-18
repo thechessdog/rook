@@ -1,0 +1,22 @@
+[Event "corr Wcup3"]
+[Site "corr Wcup3"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Luft, Andreas"]
+[Black "Holscher"]
+[Result "1-0"]
+[ECO "E41"]
+[Opening "Nimzo-Indian"]
+[Variation "e3, Huebner variation"]
+[HashCode "bbda32b1"]
+[Epoch "Rook"]
+[WhiteID "4619188"]
+[WhiteCountry "GER"]
+
+1. d4 e6 2. c4 Nf6 3. Nc3 Bb4 4. e3 c5 5. Bd3 Nc6 6. Nf3 Bxc3+ 7. bxc3 d6 8. e4
+e5 9. d5 Ne7 10. Nd2 O-O 11. Nf1 Bd7 12. Ng3 Qa5 13. Bd2 Ng6 14. O-O Nf4 15.
+Bxf4 exf4 16. Ne2 Rfe8 17. f3 Nh5 18. Qd2 Re5 19. g4 fxg3 20. hxg3 Nf6 21. Rab1
+Qc7 22. Kg2 Rae8 23. Rh1 h6 24. g4 Bxg4 25. fxg4 Rg5 26. Rh4 Nxe4 27. Qf4 f5
+28. Kh2 Re5 29. Rb2 Qe7 30. Nd4 fxg4 31. Ne6 Rgf5 32. Qxg4 Rf2+ 33. Kg1 Rxb2
+34. Bxe4 Qf6 35. Qg3 Rxe4 36. Rxe4 Rb1+ 37. Re1 Rxe1+ 38. Qxe1 Qg6+ 39. Kf2 Qd3
+40. Qe3 1-0

@@ -1,0 +1,20 @@
+[Event "Stockholm"]
+[Site "Stockholm"]
+[Date "1980.01.01"]
+[Round "1"]
+[White "Carlson, Mats"]
+[Black "Karlsson, Lars"]
+[Result "1-0"]
+[ECO "A33"]
+[Opening "English"]
+[Variation "symmetrical variation"]
+[HashCode "a6e54dcb"]
+[Epoch "Rook"]
+[WhiteID "1700731"]
+[BlackID "1700057"]
+[WhiteCountry "SWE"]
+[BlackCountry "SWE"]
+
+1. d4 Nf6 2. c4 c5 3. Nf3 cxd4 4. Nxd4 e6 5. Nc3 Nc6 6. g3 Be7 7. Bg2 O-O 8.
+O-O a6 9. b3 Qc7 10. Bb2 b6 11. Rc1 Bb7 12. Nd5 exd5 13. cxd5 Rfd8 14. Nf5 Bc5
+15. e3 Bf8 16. Rc4 Qb8 17. Nh6+ Kh8 18. dxc6 1-0

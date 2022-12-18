@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1978.01.01"]
+[Round "1"]
+[White "Gebuhr, G."]
+[Black "May, H."]
+[Result "1-0"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, poisoned pawn variation"]
+[HashCode "521bd9d6"]
+[Epoch "Rook"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Qg4 cxd4
+8. Qxg7 Rg8 9. Qxh7 Nbc6 10. f4 Qa5 11. Rb1 dxc3 12. Nf3 Bd7 13. Ng5 Rf8
+14. Rxb7 O-O-O 15. Rb5 Qa4 16. Bd3 Be8 17. O-O Qd4+ 18. Kh1 Nxe5 19. fxe5
+Bxb5 20. Bxb5 Nf5 21. Nxe6 1-0
+

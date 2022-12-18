@@ -1,0 +1,24 @@
+[Event "Salgotarjan"]
+[Site "Salgotarjan"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Toth, Laszlo"]
+[Black "Hardicsay, Peter"]
+[Result "0-1"]
+[ECO "B31"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (with ...g6, without ...d6)"]
+[HashCode "5b28923e"]
+[Epoch "Rook"]
+[BlackID "700622"]
+[BlackCountry "HUN"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. Re1 Nf6 6. Nc3 O-O 7. h3 Nd4 8. Bc4
+d6 9. a4 Nxf3+ 10. Qxf3 Nd7 11. Qg3 Ne5 12. Ba2 Nc6 13. Nd5 e6 14. Ne3 Nb4 15.
+Bb1 d5 16. e5 Nc6 17. f4 f6 18. Ng4 fxe5 19. fxe5 Nd4 20. c3 Nb3 21. Ra3 Nxc1
+22. Rxc1 Qg5 23. h4 Qxd2 24. Re1 c4 25. b4 Qf4 26. Kh2 Qxg3+ 27. Kxg3 Bd7 28.
+Ra1 a6 29. Bc2 Rad8 30. Rad1 Bc6 31. Nh2 Bh6 32. Rd4 Rd7 33. Bd1 Rdf7 34. Bg4
+Re8 35. a5 Ba4 36. Re2 Kf8 37. h5 Ke7 38. hxg6 hxg6 39. Nf3 Ref8 40. Nh4 Rg7
+41. Nf3 Rff7 42. Bh3 Rg8 43. Rh4 Bc1 44. Nd4 Bd7 45. Nf3 Rgf8 46. Rg4 Bf4+ 47.
+Kf2 Rg7 48. g3 Bh6 49. Rh4 Bc1 50. Bg4 d4 51. cxd4 Bc6 52. Rc2 Bg5 53. Rh2 Rgf7
+54. Rxc4 Rxf3+ 55. Bxf3 Rxf3+ 56. Ke2 Rxg3 57. Rh7+ Kf8 0-1

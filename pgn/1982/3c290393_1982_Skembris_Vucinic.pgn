@@ -1,0 +1,18 @@
+[Event "Titograd"]
+[Site "Titograd"]
+[Date "1982.01.01"]
+[Round "1"]
+[White "Skembris, Spyridon"]
+[Black "Vucinic, Pero"]
+[Result "0-1"]
+[ECO "D21"]
+[Opening "QGA"]
+[Variation "3.Nf3"]
+[HashCode "3c290393"]
+[Epoch "Rook"]
+[WhiteID "4200020"]
+[WhiteCountry "GRE"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 Nd7 4. Qa4 Nf6 5. Nc3 e6 6. e4 c5 7. d5 exd5 8. e5
+b5 9. Nxb5 Ne4 10. Bf4 Be7 11. e6 O-O 12. exd7 Bxd7 13. Ne5 Qb8 14. Nxd7 Qxf4
+15. Qc2 Rfd8 16. f3 Bh4+ 17. Kd1 Rxd7 0-1

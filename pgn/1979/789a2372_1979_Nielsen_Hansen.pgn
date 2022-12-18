@@ -1,0 +1,23 @@
+[Event "Randers"]
+[Site "Randers"]
+[Date "1979.01.01"]
+[Round "1"]
+[White "Nielsen, Erling"]
+[Black "Hansen, Kim"]
+[Result "0-1"]
+[ECO "E88"]
+[Opening "King's Indian"]
+[Variation "Saemisch, orthodox, 7.d5 c6"]
+[HashCode "789a2372"]
+[Epoch "Rook"]
+[WhiteID "1420003"]
+[BlackID "1445375"]
+[WhiteCountry "DEN"]
+[BlackCountry "DEN"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 e5 7. d5 c6 8. Qd2 cxd5
+9. cxd5 a6 10. Bd3 Nbd7 11. Nge2 Rb8 12. O-O Ne8 13. a4 Nc5 14. Bc2 a5 15. Nb5
+b6 16. Na7 Bd7 17. b4 axb4 18. Qxb4 Qc7 19. Nb5 Qb7 20. Rfb1 f5 21. Qd2 Bxb5
+22. Rxb5 Nc7 23. Rb2 Qa6 24. a5 fxe4 25. fxe4 bxa5 26. Rxb8 Rxb8 27. Bxc5 dxc5
+28. Rxa5 Qd6 29. Nc3 Rb4 30. Na4 c4 31. Ra7 Nb5 32. Ra8+ Bf8 33. Qf2 Nd4 34.
+Ra7 Be7 35. g3 Rb8 36. Kg2 Rf8 37. Qd2 Qf6 38. Kh3 Nf3 39. Qe2 Ng1+ 0-1
